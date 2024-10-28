@@ -45,10 +45,15 @@ A facility, often associated with a hospital or medical school, that is devoted 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, availableService, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, healthPlanNetworkId, identifier, image, interactionStatistic, isAcceptingNewPatients, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, medicalSpecialty, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic|medical_clinic]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.public|medical_clinic.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic.internal|medical_clinic.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic.protect|medical_clinic.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic.private|medical_clinic.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic.personal|medical_clinic.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic.secret|medical_clinic.secret]] 
+
+### [medical_clinic](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.md) 
+
+### [medical_clinic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.internal.md) 
+
+### [medical_clinic.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.protect.md) 
+
+### [medical_clinic.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.private.md) 
+
+### [medical_clinic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.personal.md) 
+
+### [medical_clinic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.secret.md) 

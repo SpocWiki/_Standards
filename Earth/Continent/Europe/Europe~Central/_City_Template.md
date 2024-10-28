@@ -1,4 +1,4 @@
----
+﻿---
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -37,10 +37,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Germany/_CityTemplate|_CityTemplate]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~Central/Germany/_CityTemplate.public|_CityTemplate.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~Central/Germany/_CityTemplate.internal|_CityTemplate.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~Central/Germany/_CityTemplate.protect|_CityTemplate.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~Central/Germany/_CityTemplate.private|_CityTemplate.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~Central/Germany/_CityTemplate.personal|_CityTemplate.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~Central/Germany/_CityTemplate.secret|_CityTemplate.secret]] 
+
+### [_City_Template](/_public/Earth/Continent/Europe/Europe~Central/_City_Template.md) 
+
+### [_City_Template.internal](/_internal/Earth/Continent/Europe/Europe~Central/_City_Template.internal.md) 
+
+### [_City_Template.protect](/_protect/Earth/Continent/Europe/Europe~Central/_City_Template.protect.md) 
+
+### [_City_Template.private](/_private/Earth/Continent/Europe/Europe~Central/_City_Template.private.md) 
+
+### [_City_Template.personal](/_personal/Earth/Continent/Europe/Europe~Central/_City_Template.personal.md) 
+
+### [_City_Template.secret](/_secret/Earth/Continent/Europe/Europe~Central/_City_Template.secret.md) 

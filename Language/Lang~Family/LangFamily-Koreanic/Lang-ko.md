@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
   - Korean
@@ -38,11 +38,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Korean%20language)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-ko|Lang-ko]] 
-- [[../../_public/lang/Lang-ko.public|Lang-ko.public]] 
-- [[../../../../_internal/lang/Lang-ko.internal|Lang-ko.internal]] 
-- [[../../_protect/lang/Lang-ko.protect|Lang-ko.protect]] 
-- [[../../_private/lang/Lang-ko.private|Lang-ko.private]] 
-- [[../../_personal/lang/Lang-ko.personal|Lang-ko.personal]] 
-- [[../../_secret/lang/Lang-ko.secret|Lang-ko.secret]]
 
+### [Lang-ko](/_public/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.md) 
+
+### [Lang-ko.internal](/_internal/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.internal.md) 
+
+### [Lang-ko.protect](/_protect/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.protect.md) 
+
+### [Lang-ko.private](/_private/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.private.md) 
+
+### [Lang-ko.personal](/_personal/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.personal.md) 
+
+### [Lang-ko.secret](/_secret/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.secret.md) 

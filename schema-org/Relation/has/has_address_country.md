@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Country, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_address_country|has_address_country]] 
-- [[../../../../../_public/schema-org/Relation/has/has_address_country.public|has_address_country.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_address_country.internal|has_address_country.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_address_country.protect|has_address_country.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_address_country.private|has_address_country.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_address_country.personal|has_address_country.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_address_country.secret|has_address_country.secret]] 
+
+### [has_address_country](/_public/schema-org/Relation/has/has_address_country.md) 
+
+### [has_address_country.internal](/_internal/schema-org/Relation/has/has_address_country.internal.md) 
+
+### [has_address_country.protect](/_protect/schema-org/Relation/has/has_address_country.protect.md) 
+
+### [has_address_country.private](/_private/schema-org/Relation/has/has_address_country.private.md) 
+
+### [has_address_country.personal](/_personal/schema-org/Relation/has/has_address_country.personal.md) 
+
+### [has_address_country.secret](/_secret/schema-org/Relation/has/has_address_country.secret.md) 

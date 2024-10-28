@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_varying_by|is_varying_by]] 
-- [[../../../../../_public/schema-org/Relation/is/is_varying_by.public|is_varying_by.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_varying_by.internal|is_varying_by.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_varying_by.protect|is_varying_by.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_varying_by.private|is_varying_by.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_varying_by.personal|is_varying_by.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_varying_by.secret|is_varying_by.secret]] 
+
+### [is_varying_by](/_public/schema-org/Relation/is/is_varying_by.md) 
+
+### [is_varying_by.internal](/_internal/schema-org/Relation/is/is_varying_by.internal.md) 
+
+### [is_varying_by.protect](/_protect/schema-org/Relation/is/is_varying_by.protect.md) 
+
+### [is_varying_by.private](/_private/schema-org/Relation/is/is_varying_by.private.md) 
+
+### [is_varying_by.personal](/_personal/schema-org/Relation/is/is_varying_by.personal.md) 
+
+### [is_varying_by.secret](/_secret/schema-org/Relation/is/is_varying_by.secret.md) 

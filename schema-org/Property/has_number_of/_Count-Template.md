@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,10 +56,15 @@ Predicate describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/_Count-Template|_Count-Template]] 
-- [[../../../../_public/schema-org/Predicate/Counts/_Count-Template.public|_Count-Template.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/_Count-Template.internal|_Count-Template.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/_Count-Template.protect|_Count-Template.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/_Count-Template.private|_Count-Template.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/_Count-Template.personal|_Count-Template.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/_Count-Template.secret|_Count-Template.secret]] 
+
+### [_Count-Template](/_public/schema-org/Property/has_number_of/_Count-Template.md) 
+
+### [_Count-Template.internal](/_internal/schema-org/Property/has_number_of/_Count-Template.internal.md) 
+
+### [_Count-Template.protect](/_protect/schema-org/Property/has_number_of/_Count-Template.protect.md) 
+
+### [_Count-Template.private](/_private/schema-org/Property/has_number_of/_Count-Template.private.md) 
+
+### [_Count-Template.personal](/_personal/schema-org/Property/has_number_of/_Count-Template.personal.md) 
+
+### [_Count-Template.secret](/_secret/schema-org/Property/has_number_of/_Count-Template.secret.md) 

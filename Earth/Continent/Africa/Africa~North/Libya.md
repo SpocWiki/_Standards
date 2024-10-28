@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 32.89
 - 13.19
@@ -145,9 +145,15 @@ Capital :: [[Tripolis=Tripoli]]
 
 
 ## Confidential Links & Embeds: 
-- [[Libya|Libya]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~North/Libya.protect|Libya.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~North/Libya.private|Libya.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~North/Libya.personal|Libya.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~North/Libya.secret|Libya.secret]] 
+
+### [Libya](/_public/Earth/Continent/Africa/Africa~North/Libya.md) 
+
+### [Libya.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya.internal.md) 
+
+### [Libya.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya.protect.md) 
+
+### [Libya.private](/_private/Earth/Continent/Africa/Africa~North/Libya.private.md) 
+
+### [Libya.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya.personal.md) 
+
+### [Libya.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya.secret.md) 

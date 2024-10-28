@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_production_company|has_production_company]] 
-- [[../../../../../_public/schema-org/Relation/has/has_production_company.public|has_production_company.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_production_company.internal|has_production_company.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_production_company.protect|has_production_company.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_production_company.private|has_production_company.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_production_company.personal|has_production_company.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_production_company.secret|has_production_company.secret]] 
+
+### [has_production_company](/_public/schema-org/Relation/has/has_production_company.md) 
+
+### [has_production_company.internal](/_internal/schema-org/Relation/has/has_production_company.internal.md) 
+
+### [has_production_company.protect](/_protect/schema-org/Relation/has/has_production_company.protect.md) 
+
+### [has_production_company.private](/_private/schema-org/Relation/has/has_production_company.private.md) 
+
+### [has_production_company.personal](/_personal/schema-org/Relation/has/has_production_company.personal.md) 
+
+### [has_production_company.secret](/_secret/schema-org/Relation/has/has_production_company.secret.md) 

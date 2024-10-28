@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -69,3 +69,17 @@ A person or organization that supports a thing through a pledge, promise, or fin
 Sponsor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Grant](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant.md) 
+
+### [FileClass~Grant.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant.internal.md) 
+
+### [FileClass~Grant.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant.protect.md) 
+
+### [FileClass~Grant.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant.private.md) 
+
+### [FileClass~Grant.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant.personal.md) 
+
+### [FileClass~Grant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant.secret.md) 

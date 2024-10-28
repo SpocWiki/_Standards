@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_dissolution|has_time_of_dissolution]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_dissolution.public|has_time_of_dissolution.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_dissolution.internal|has_time_of_dissolution.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_dissolution.protect|has_time_of_dissolution.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_dissolution.private|has_time_of_dissolution.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_dissolution.personal|has_time_of_dissolution.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_dissolution.secret|has_time_of_dissolution.secret]] 
+
+### [has_time_of_dissolution](/_public/schema-org/Property/has_Date_Time/has_time_of_dissolution.md) 
+
+### [has_time_of_dissolution.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_dissolution.internal.md) 
+
+### [has_time_of_dissolution.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_dissolution.protect.md) 
+
+### [has_time_of_dissolution.private](/_private/schema-org/Property/has_Date_Time/has_time_of_dissolution.private.md) 
+
+### [has_time_of_dissolution.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_dissolution.personal.md) 
+
+### [has_time_of_dissolution.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_dissolution.secret.md) 

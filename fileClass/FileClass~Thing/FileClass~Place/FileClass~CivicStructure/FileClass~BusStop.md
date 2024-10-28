@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A bus stop.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BusStop](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.md) 
+
+### [FileClass~BusStop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.internal.md) 
+
+### [FileClass~BusStop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.protect.md) 
+
+### [FileClass~BusStop.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.private.md) 
+
+### [FileClass~BusStop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.personal.md) 
+
+### [FileClass~BusStop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.secret.md) 

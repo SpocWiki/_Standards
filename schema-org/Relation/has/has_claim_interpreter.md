@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_claim_interpreter|has_claim_interpreter]] 
-- [[../../../../../_public/schema-org/Relation/has/has_claim_interpreter.public|has_claim_interpreter.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_claim_interpreter.internal|has_claim_interpreter.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_claim_interpreter.protect|has_claim_interpreter.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_claim_interpreter.private|has_claim_interpreter.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_claim_interpreter.personal|has_claim_interpreter.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_claim_interpreter.secret|has_claim_interpreter.secret]] 
+
+### [has_claim_interpreter](/_public/schema-org/Relation/has/has_claim_interpreter.md) 
+
+### [has_claim_interpreter.internal](/_internal/schema-org/Relation/has/has_claim_interpreter.internal.md) 
+
+### [has_claim_interpreter.protect](/_protect/schema-org/Relation/has/has_claim_interpreter.protect.md) 
+
+### [has_claim_interpreter.private](/_private/schema-org/Relation/has/has_claim_interpreter.private.md) 
+
+### [has_claim_interpreter.personal](/_personal/schema-org/Relation/has/has_claim_interpreter.personal.md) 
+
+### [has_claim_interpreter.secret](/_secret/schema-org/Relation/has/has_claim_interpreter.secret.md) 

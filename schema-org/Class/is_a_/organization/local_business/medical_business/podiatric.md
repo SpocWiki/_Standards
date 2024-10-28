@@ -45,10 +45,15 @@ Podiatry is the care of the human foot, especially the diagnosis and treatment o
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/podiatric|podiatric]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/podiatric.public|podiatric.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/podiatric.internal|podiatric.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/podiatric.protect|podiatric.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/podiatric.private|podiatric.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/podiatric.personal|podiatric.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/podiatric.secret|podiatric.secret]] 
+
+### [podiatric](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/podiatric.md) 
+
+### [podiatric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/podiatric.internal.md) 
+
+### [podiatric.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/podiatric.protect.md) 
+
+### [podiatric.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/podiatric.private.md) 
+
+### [podiatric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/podiatric.personal.md) 
+
+### [podiatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/podiatric.secret.md) 

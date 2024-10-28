@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: AlignmentObject, Course, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_course_prerequisites|has_course_prerequisites]] 
-- [[../../../../../_public/schema-org/Relation/has/has_course_prerequisites.public|has_course_prerequisites.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_course_prerequisites.internal|has_course_prerequisites.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_course_prerequisites.protect|has_course_prerequisites.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_course_prerequisites.private|has_course_prerequisites.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_course_prerequisites.personal|has_course_prerequisites.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_course_prerequisites.secret|has_course_prerequisites.secret]] 
+
+### [has_course_prerequisites](/_public/schema-org/Relation/has/has_course_prerequisites.md) 
+
+### [has_course_prerequisites.internal](/_internal/schema-org/Relation/has/has_course_prerequisites.internal.md) 
+
+### [has_course_prerequisites.protect](/_protect/schema-org/Relation/has/has_course_prerequisites.protect.md) 
+
+### [has_course_prerequisites.private](/_private/schema-org/Relation/has/has_course_prerequisites.private.md) 
+
+### [has_course_prerequisites.personal](/_personal/schema-org/Relation/has/has_course_prerequisites.personal.md) 
+
+### [has_course_prerequisites.secret](/_secret/schema-org/Relation/has/has_course_prerequisites.secret.md) 

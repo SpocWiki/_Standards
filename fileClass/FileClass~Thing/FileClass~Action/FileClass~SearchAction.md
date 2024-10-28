@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -58,3 +58,17 @@ Gets or sets the query input search parameter.
 QueryInput:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/JsonLdObject/Thing/Intangible/PropertyValueSpecification')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SearchAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.md) 
+
+### [FileClass~SearchAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.internal.md) 
+
+### [FileClass~SearchAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.protect.md) 
+
+### [FileClass~SearchAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.private.md) 
+
+### [FileClass~SearchAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.personal.md) 
+
+### [FileClass~SearchAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SearchAction.secret.md) 

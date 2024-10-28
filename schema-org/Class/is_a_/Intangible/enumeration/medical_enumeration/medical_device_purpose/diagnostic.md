@@ -45,10 +45,15 @@ A medical device used for diagnostic purposes.
 [ #is_/enum_of :: [[../MedicalDevicePurpose]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic|diagnostic]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.public|diagnostic.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.internal|diagnostic.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.protect|diagnostic.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.private|diagnostic.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.personal|diagnostic.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.secret|diagnostic.secret]] 
+
+### [diagnostic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.md) 
+
+### [diagnostic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.internal.md) 
+
+### [diagnostic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.protect.md) 
+
+### [diagnostic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.private.md) 
+
+### [diagnostic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.personal.md) 
+
+### [diagnostic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.secret.md) 

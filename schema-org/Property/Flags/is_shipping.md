@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_shipping|is_shipping]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_shipping.public|is_shipping.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_shipping.internal|is_shipping.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_shipping.protect|is_shipping.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_shipping.private|is_shipping.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_shipping.personal|is_shipping.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_shipping.secret|is_shipping.secret]] 
+
+### [is_shipping](/_public/schema-org/Property/Flags/is_shipping.md) 
+
+### [is_shipping.internal](/_internal/schema-org/Property/Flags/is_shipping.internal.md) 
+
+### [is_shipping.protect](/_protect/schema-org/Property/Flags/is_shipping.protect.md) 
+
+### [is_shipping.private](/_private/schema-org/Property/Flags/is_shipping.private.md) 
+
+### [is_shipping.personal](/_personal/schema-org/Property/Flags/is_shipping.personal.md) 
+
+### [is_shipping.secret](/_secret/schema-org/Property/Flags/is_shipping.secret.md) 

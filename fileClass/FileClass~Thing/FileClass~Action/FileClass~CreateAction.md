@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of deliberately creating/producing/generating/building a result out of t
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CreateAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction.md) 
+
+### [FileClass~CreateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction.internal.md) 
+
+### [FileClass~CreateAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction.protect.md) 
+
+### [FileClass~CreateAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction.private.md) 
+
+### [FileClass~CreateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction.personal.md) 
+
+### [FileClass~CreateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction.secret.md) 

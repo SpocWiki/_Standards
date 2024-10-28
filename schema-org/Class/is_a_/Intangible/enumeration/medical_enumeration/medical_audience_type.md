@@ -41,10 +41,15 @@ Target audiences types for medical web pages. Enumerated type.
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type|medical_audience_type]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type.public|medical_audience_type.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type.internal|medical_audience_type.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type.protect|medical_audience_type.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type.private|medical_audience_type.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type.personal|medical_audience_type.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type.secret|medical_audience_type.secret]] 
+
+### [medical_audience_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.md) 
+
+### [medical_audience_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.internal.md) 
+
+### [medical_audience_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.protect.md) 
+
+### [medical_audience_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.private.md) 
+
+### [medical_audience_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.personal.md) 
+
+### [medical_audience_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.secret.md) 

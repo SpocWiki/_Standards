@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Relation describes that:
 #is_/inverse_of :: [[has_employer]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_employee|has_employee]] 
-- [[../../../../../_public/schema-org/Relation/has/has_employee.public|has_employee.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_employee.internal|has_employee.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_employee.protect|has_employee.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_employee.private|has_employee.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_employee.personal|has_employee.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_employee.secret|has_employee.secret]] 
+
+### [has_employees](/_public/schema-org/Relation/has/has_employees.md) 
+
+### [has_employees.internal](/_internal/schema-org/Relation/has/has_employees.internal.md) 
+
+### [has_employees.protect](/_protect/schema-org/Relation/has/has_employees.protect.md) 
+
+### [has_employees.private](/_private/schema-org/Relation/has/has_employees.private.md) 
+
+### [has_employees.personal](/_personal/schema-org/Relation/has/has_employees.personal.md) 
+
+### [has_employees.secret](/_secret/schema-org/Relation/has/has_employees.secret.md) 

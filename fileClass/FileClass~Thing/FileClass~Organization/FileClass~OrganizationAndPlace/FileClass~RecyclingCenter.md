@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A recycling center.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~RecyclingCenter](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RecyclingCenter.md) 
+
+### [FileClass~RecyclingCenter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RecyclingCenter.internal.md) 
+
+### [FileClass~RecyclingCenter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RecyclingCenter.protect.md) 
+
+### [FileClass~RecyclingCenter.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RecyclingCenter.private.md) 
+
+### [FileClass~RecyclingCenter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RecyclingCenter.personal.md) 
+
+### [FileClass~RecyclingCenter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RecyclingCenter.secret.md) 

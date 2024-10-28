@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -87,3 +87,17 @@ The underlying innervation associated with the muscle.
 Nerve:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Nerve')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Muscle](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.md) 
+
+### [FileClass~Muscle.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.internal.md) 
+
+### [FileClass~Muscle.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.protect.md) 
+
+### [FileClass~Muscle.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.private.md) 
+
+### [FileClass~Muscle.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.personal.md) 
+
+### [FileClass~Muscle.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.secret.md) 

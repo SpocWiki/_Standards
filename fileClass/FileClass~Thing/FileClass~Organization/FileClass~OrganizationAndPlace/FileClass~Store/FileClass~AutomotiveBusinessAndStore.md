@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ See AutomotiveBusiness, Store for more information.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~AutomotiveBusinessAndStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~AutomotiveBusinessAndStore.md) 
+
+### [FileClass~AutomotiveBusinessAndStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~AutomotiveBusinessAndStore.internal.md) 
+
+### [FileClass~AutomotiveBusinessAndStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~AutomotiveBusinessAndStore.protect.md) 
+
+### [FileClass~AutomotiveBusinessAndStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~AutomotiveBusinessAndStore.private.md) 
+
+### [FileClass~AutomotiveBusinessAndStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~AutomotiveBusinessAndStore.personal.md) 
+
+### [FileClass~AutomotiveBusinessAndStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~AutomotiveBusinessAndStore.secret.md) 

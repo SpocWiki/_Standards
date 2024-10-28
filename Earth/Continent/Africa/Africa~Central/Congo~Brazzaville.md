@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - -4.26667
   - 15.2833
@@ -56,9 +56,15 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 
 
 ## Confidential Links & Embeds: 
-- [[Congo~Brazzaville|Congo~Brazzaville]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.internal|Congo~Brazzaville.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.protect|Congo~Brazzaville.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.private|Congo~Brazzaville.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.personal|Congo~Brazzaville.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret|Congo~Brazzaville.secret]] 
+
+### [Congo~Brazzaville](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.md) 
+
+### [Congo~Brazzaville.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.internal.md) 
+
+### [Congo~Brazzaville.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.protect.md) 
+
+### [Congo~Brazzaville.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.private.md) 
+
+### [Congo~Brazzaville.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.personal.md) 
+
+### [Congo~Brazzaville.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret.md) 

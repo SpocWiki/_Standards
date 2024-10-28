@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Algonquian|LangFamily-Algonquian]] 
-- [[../../../_public/lang/Family/LangFamily-Algonquian.public|LangFamily-Algonquian.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Algonquian.internal|LangFamily-Algonquian.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Algonquian.protect|LangFamily-Algonquian.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Algonquian.private|LangFamily-Algonquian.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Algonquian.personal|LangFamily-Algonquian.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Algonquian.secret|LangFamily-Algonquian.secret]] 
+
+### [LangFamily-Algonquian](/_public/Language/Lang~Family/LangFamily-Algonquian.md) 
+
+### [LangFamily-Algonquian.internal](/_internal/Language/Lang~Family/LangFamily-Algonquian.internal.md) 
+
+### [LangFamily-Algonquian.protect](/_protect/Language/Lang~Family/LangFamily-Algonquian.protect.md) 
+
+### [LangFamily-Algonquian.private](/_private/Language/Lang~Family/LangFamily-Algonquian.private.md) 
+
+### [LangFamily-Algonquian.personal](/_personal/Language/Lang~Family/LangFamily-Algonquian.personal.md) 
+
+### [LangFamily-Algonquian.secret](/_secret/Language/Lang~Family/LangFamily-Algonquian.secret.md) 

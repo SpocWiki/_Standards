@@ -45,10 +45,15 @@ An list item, e.g. a step in a checklist or how-to description.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/list_item|list_item]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/list_item.public|list_item.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/list_item.internal|list_item.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/list_item.protect|list_item.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/list_item.private|list_item.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/list_item.personal|list_item.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/list_item.secret|list_item.secret]] 
+
+### [list_item](/_public/schema-org/Collection/list_item.md) 
+
+### [list_item.internal](/_internal/schema-org/Collection/list_item.internal.md) 
+
+### [list_item.protect](/_protect/schema-org/Collection/list_item.protect.md) 
+
+### [list_item.private](/_private/schema-org/Collection/list_item.private.md) 
+
+### [list_item.personal](/_personal/schema-org/Collection/list_item.personal.md) 
+
+### [list_item.secret](/_secret/schema-org/Collection/list_item.secret.md) 

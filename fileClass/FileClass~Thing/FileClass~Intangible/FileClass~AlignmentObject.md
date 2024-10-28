@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -84,3 +84,17 @@ The URL of a node in an established educational framework.
 TargetUrl:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~AlignmentObject](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.md) 
+
+### [FileClass~AlignmentObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.internal.md) 
+
+### [FileClass~AlignmentObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.protect.md) 
+
+### [FileClass~AlignmentObject.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.private.md) 
+
+### [FileClass~AlignmentObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.personal.md) 
+
+### [FileClass~AlignmentObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.secret.md) 

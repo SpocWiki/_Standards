@@ -1,31 +1,30 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_spouse
-
 linkTitle: has_spouse
-keywords: [spouse]
+keywords:
+  - spouse
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- spouse
-- has_spouse
+  - spouse
+  - has_spouse
+  - schema:spouse
+  - dbo:spouse
+  - wdt:P26
 ---
 
 Use it like this: 
@@ -40,10 +39,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_spouse|has_spouse]] 
-- [[../../../../../_public/schema-org/Relation/has/has_spouse.public|has_spouse.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_spouse.internal|has_spouse.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_spouse.protect|has_spouse.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_spouse.private|has_spouse.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_spouse.personal|has_spouse.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_spouse.secret|has_spouse.secret]] 
+
+### [has_spouse](/_public/schema-org/Relation/has/has_spouse.md) 
+
+### [has_spouse.internal](/_internal/schema-org/Relation/has/has_spouse.internal.md) 
+
+### [has_spouse.protect](/_protect/schema-org/Relation/has/has_spouse.protect.md) 
+
+### [has_spouse.private](/_private/schema-org/Relation/has/has_spouse.private.md) 
+
+### [has_spouse.personal](/_personal/schema-org/Relation/has/has_spouse.personal.md) 
+
+### [has_spouse.secret](/_secret/schema-org/Relation/has/has_spouse.secret.md) 

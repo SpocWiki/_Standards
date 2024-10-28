@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A painting.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Painting](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.md) 
+
+### [FileClass~Painting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.internal.md) 
+
+### [FileClass~Painting.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.protect.md) 
+
+### [FileClass~Painting.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.private.md) 
+
+### [FileClass~Painting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.personal.md) 
+
+### [FileClass~Painting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.secret.md) 

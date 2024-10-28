@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_abstract|has_abstract]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_abstract.public|has_abstract.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_abstract.internal|has_abstract.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_abstract.protect|has_abstract.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_abstract.private|has_abstract.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_abstract.personal|has_abstract.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_abstract.secret|has_abstract.secret]] 
+
+### [has_abstract](/_public/schema-org/Property/Texts/has_abstract.md) 
+
+### [has_abstract.internal](/_internal/schema-org/Property/Texts/has_abstract.internal.md) 
+
+### [has_abstract.protect](/_protect/schema-org/Property/Texts/has_abstract.protect.md) 
+
+### [has_abstract.private](/_private/schema-org/Property/Texts/has_abstract.private.md) 
+
+### [has_abstract.personal](/_personal/schema-org/Property/Texts/has_abstract.personal.md) 
+
+### [has_abstract.secret](/_secret/schema-org/Property/Texts/has_abstract.secret.md) 

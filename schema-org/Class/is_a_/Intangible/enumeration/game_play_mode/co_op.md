@@ -45,10 +45,15 @@ Play mode: CoOp. Co-operative games, where you play on the same team with friend
 [ #is_/enum_of :: [[../GamePlayMode]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/game_play_mode/co_op|co_op]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/game_play_mode/co_op.public|co_op.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/co_op.internal|co_op.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/co_op.protect|co_op.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/co_op.private|co_op.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/co_op.personal|co_op.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/co_op.secret|co_op.secret]] 
+
+### [co_op](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.md) 
+
+### [co_op.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.internal.md) 
+
+### [co_op.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.protect.md) 
+
+### [co_op.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.private.md) 
+
+### [co_op.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.personal.md) 
+
+### [co_op.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.secret.md) 

@@ -45,10 +45,15 @@ A field of public health focusing on improving health characteristics of a defin
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/community_health|community_health]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.public|community_health.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.internal|community_health.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.protect|community_health.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.private|community_health.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.personal|community_health.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.secret|community_health.secret]] 
+
+### [community_health](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.md) 
+
+### [community_health.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.internal.md) 
+
+### [community_health.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.protect.md) 
+
+### [community_health.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.private.md) 
+
+### [community_health.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.personal.md) 
+
+### [community_health.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.secret.md) 

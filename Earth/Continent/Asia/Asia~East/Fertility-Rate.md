@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Total Fertility Rate
 ---
@@ -28,3 +28,17 @@ It depends on good Women's living Conditions.  Globally, estimated to be between
 > [Wikipedia](https://en.wikipedia.org/wiki/Total%20fertility%20rate)
 
 
+
+## Confidential Links & Embeds: 
+
+### [Fertility-Rate](/_public/Earth/Continent/Asia/Asia~East/Fertility-Rate.md) 
+
+### [Fertility-Rate.internal](/_internal/Earth/Continent/Asia/Asia~East/Fertility-Rate.internal.md) 
+
+### [Fertility-Rate.protect](/_protect/Earth/Continent/Asia/Asia~East/Fertility-Rate.protect.md) 
+
+### [Fertility-Rate.private](/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private.md) 
+
+### [Fertility-Rate.personal](/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal.md) 
+
+### [Fertility-Rate.secret](/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret.md) 

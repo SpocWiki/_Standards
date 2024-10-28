@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DriveWheelConfigurationValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_drive_wheel_configuration|has_drive_wheel_configuration]] 
-- [[../../../../../_public/schema-org/Relation/has/has_drive_wheel_configuration.public|has_drive_wheel_configuration.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_drive_wheel_configuration.internal|has_drive_wheel_configuration.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_drive_wheel_configuration.protect|has_drive_wheel_configuration.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_drive_wheel_configuration.private|has_drive_wheel_configuration.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_drive_wheel_configuration.personal|has_drive_wheel_configuration.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_drive_wheel_configuration.secret|has_drive_wheel_configuration.secret]] 
+
+### [has_drive_wheel_configuration](/_public/schema-org/Relation/has/has_drive_wheel_configuration.md) 
+
+### [has_drive_wheel_configuration.internal](/_internal/schema-org/Relation/has/has_drive_wheel_configuration.internal.md) 
+
+### [has_drive_wheel_configuration.protect](/_protect/schema-org/Relation/has/has_drive_wheel_configuration.protect.md) 
+
+### [has_drive_wheel_configuration.private](/_private/schema-org/Relation/has/has_drive_wheel_configuration.private.md) 
+
+### [has_drive_wheel_configuration.personal](/_personal/schema-org/Relation/has/has_drive_wheel_configuration.personal.md) 
+
+### [has_drive_wheel_configuration.secret](/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret.md) 

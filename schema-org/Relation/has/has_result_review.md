@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: result ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_result_review|has_result_review]] 
-- [[../../../../../_public/schema-org/Relation/has/has_result_review.public|has_result_review.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_result_review.internal|has_result_review.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_result_review.protect|has_result_review.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_result_review.private|has_result_review.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_result_review.personal|has_result_review.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_result_review.secret|has_result_review.secret]] 
+
+### [has_result_review](/_public/schema-org/Relation/has/has_result_review.md) 
+
+### [has_result_review.internal](/_internal/schema-org/Relation/has/has_result_review.internal.md) 
+
+### [has_result_review.protect](/_protect/schema-org/Relation/has/has_result_review.protect.md) 
+
+### [has_result_review.private](/_private/schema-org/Relation/has/has_result_review.private.md) 
+
+### [has_result_review.personal](/_personal/schema-org/Relation/has/has_result_review.personal.md) 
+
+### [has_result_review.secret](/_secret/schema-org/Relation/has/has_result_review.secret.md) 

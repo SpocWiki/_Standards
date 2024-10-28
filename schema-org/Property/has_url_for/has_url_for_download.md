@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_download_url|has_url_for_download_url]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_download_url.public|has_url_for_download_url.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_download_url.internal|has_url_for_download_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_download_url.protect|has_url_for_download_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_download_url.private|has_url_for_download_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_download_url.personal|has_url_for_download_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_download_url.secret|has_url_for_download_url.secret]] 
+
+### [has_url_for_download](/_public/schema-org/Property/has_url_for/has_url_for_download.md) 
+
+### [has_url_for_download.internal](/_internal/schema-org/Property/has_url_for/has_url_for_download.internal.md) 
+
+### [has_url_for_download.protect](/_protect/schema-org/Property/has_url_for/has_url_for_download.protect.md) 
+
+### [has_url_for_download.private](/_private/schema-org/Property/has_url_for/has_url_for_download.private.md) 
+
+### [has_url_for_download.personal](/_personal/schema-org/Property/has_url_for/has_url_for_download.personal.md) 
+
+### [has_url_for_download.secret](/_secret/schema-org/Property/has_url_for/has_url_for_download.secret.md) 

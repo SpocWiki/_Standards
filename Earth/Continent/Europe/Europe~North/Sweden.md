@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 59.7646
     - 16.5434
@@ -149,10 +149,15 @@ Capital :: [[./Sweden/Counties/Stockholm]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Sweden|Sweden]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Sweden.public|Sweden.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Sweden.internal|Sweden.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Sweden.protect|Sweden.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Sweden.private|Sweden.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Sweden.personal|Sweden.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Sweden.secret|Sweden.secret]] 
+
+### [Sweden](/_public/Earth/Continent/Europe/Europe~North/Sweden.md) 
+
+### [Sweden.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden.internal.md) 
+
+### [Sweden.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden.protect.md) 
+
+### [Sweden.private](/_private/Earth/Continent/Europe/Europe~North/Sweden.private.md) 
+
+### [Sweden.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden.personal.md) 
+
+### [Sweden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden.secret.md) 

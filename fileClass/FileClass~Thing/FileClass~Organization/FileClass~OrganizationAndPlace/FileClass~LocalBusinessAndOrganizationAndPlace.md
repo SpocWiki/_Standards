@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ See LocalBusiness, Organization, Place for more information.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LocalBusinessAndOrganizationAndPlace](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.md) 
+
+### [FileClass~LocalBusinessAndOrganizationAndPlace.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.internal.md) 
+
+### [FileClass~LocalBusinessAndOrganizationAndPlace.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.protect.md) 
+
+### [FileClass~LocalBusinessAndOrganizationAndPlace.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.private.md) 
+
+### [FileClass~LocalBusinessAndOrganizationAndPlace.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.personal.md) 
+
+### [FileClass~LocalBusinessAndOrganizationAndPlace.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.secret.md) 

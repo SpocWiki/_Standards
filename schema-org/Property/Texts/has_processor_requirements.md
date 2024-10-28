@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_processor_requirements|has_processor_requirements]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_processor_requirements.public|has_processor_requirements.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_processor_requirements.internal|has_processor_requirements.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_processor_requirements.protect|has_processor_requirements.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_processor_requirements.private|has_processor_requirements.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_processor_requirements.personal|has_processor_requirements.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_processor_requirements.secret|has_processor_requirements.secret]] 
+
+### [has_processor_requirements](/_public/schema-org/Property/Texts/has_processor_requirements.md) 
+
+### [has_processor_requirements.internal](/_internal/schema-org/Property/Texts/has_processor_requirements.internal.md) 
+
+### [has_processor_requirements.protect](/_protect/schema-org/Property/Texts/has_processor_requirements.protect.md) 
+
+### [has_processor_requirements.private](/_private/schema-org/Property/Texts/has_processor_requirements.private.md) 
+
+### [has_processor_requirements.personal](/_personal/schema-org/Property/Texts/has_processor_requirements.personal.md) 
+
+### [has_processor_requirements.secret](/_secret/schema-org/Property/Texts/has_processor_requirements.secret.md) 

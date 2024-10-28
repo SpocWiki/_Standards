@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -1223,3 +1223,17 @@ A work that is a translation of the content of this work. E.g. 西遊記 has an 
 
 WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CreativeWorkAndLifestyleModification](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification.md) 
+
+### [FileClass~CreativeWorkAndLifestyleModification.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification.internal.md) 
+
+### [FileClass~CreativeWorkAndLifestyleModification.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification.protect.md) 
+
+### [FileClass~CreativeWorkAndLifestyleModification.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification.private.md) 
+
+### [FileClass~CreativeWorkAndLifestyleModification.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification.personal.md) 
+
+### [FileClass~CreativeWorkAndLifestyleModification.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification.secret.md) 

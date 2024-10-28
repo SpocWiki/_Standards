@@ -1,34 +1,32 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_text_of_genre
 linkTitle: has_text_of_genre
-
-keywords: [genre]
+keywords:
+  - genre
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- genre
-- genre
-- genre
-- has_text_of_genre
+  - genre
+  - genre
+  - genre
+  - has_text_of_genre
+  - schema:genre
+  - dbo:genre
+  - wdt:P136
 ---
 
 Predicate to describe the Text of BroadcastChannel, CreativeWork, MusicGroup.
@@ -47,10 +45,15 @@ Predicated describes that:
 [ #has_/sub_properties :: [ legislationType ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_genre|has_genre]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_genre.public|has_genre.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_genre.internal|has_genre.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_genre.protect|has_genre.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_genre.private|has_genre.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_genre.personal|has_genre.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_genre.secret|has_genre.secret]] 
+
+### [has_genre](/_public/schema-org/Property/Texts/has_genre.md) 
+
+### [has_genre.internal](/_internal/schema-org/Property/Texts/has_genre.internal.md) 
+
+### [has_genre.protect](/_protect/schema-org/Property/Texts/has_genre.protect.md) 
+
+### [has_genre.private](/_private/schema-org/Property/Texts/has_genre.private.md) 
+
+### [has_genre.personal](/_personal/schema-org/Property/Texts/has_genre.personal.md) 
+
+### [has_genre.secret](/_secret/schema-org/Property/Texts/has_genre.secret.md) 

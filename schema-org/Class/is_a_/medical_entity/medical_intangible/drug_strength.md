@@ -43,10 +43,15 @@ A specific strength in which a medical drug is available in a specific country.
 [ #has_/properties :: [ activeIngredient, additionalType, alternateName, availableIn, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, strengthUnit, strengthValue, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength|drug_strength]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.public|drug_strength.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.internal|drug_strength.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.protect|drug_strength.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.private|drug_strength.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.personal|drug_strength.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.secret|drug_strength.secret]] 
+
+### [drug_strength](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.md) 
+
+### [drug_strength.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.internal.md) 
+
+### [drug_strength.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.protect.md) 
+
+### [drug_strength.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.private.md) 
+
+### [drug_strength.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.personal.md) 
+
+### [drug_strength.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.secret.md) 

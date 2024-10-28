@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21954
@@ -38,10 +38,15 @@ SpocWebEntityId: 21954
 > [Wikipedia](https://en.wikipedia.org/wiki/Cerium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Cerium|Cerium]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Cerium.public|Cerium.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Cerium.internal|Cerium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Cerium.protect|Cerium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Cerium.private|Cerium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Cerium.personal|Cerium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Cerium.secret|Cerium.secret]] 
+
+### [Cerium](/_public/chemic/chemic~Elements/Lanthanide-Group/Cerium.md) 
+
+### [Cerium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Cerium.internal.md) 
+
+### [Cerium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Cerium.protect.md) 
+
+### [Cerium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Cerium.private.md) 
+
+### [Cerium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Cerium.personal.md) 
+
+### [Cerium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Cerium.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_potential_use|has_potential_use]] 
-- [[../../../../../_public/schema-org/Relation/has/has_potential_use.public|has_potential_use.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_potential_use.internal|has_potential_use.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_potential_use.protect|has_potential_use.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_potential_use.private|has_potential_use.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_potential_use.personal|has_potential_use.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_potential_use.secret|has_potential_use.secret]] 
+
+### [has_potential_use](/_public/schema-org/Relation/has/has_potential_use.md) 
+
+### [has_potential_use.internal](/_internal/schema-org/Relation/has/has_potential_use.internal.md) 
+
+### [has_potential_use.protect](/_protect/schema-org/Relation/has/has_potential_use.protect.md) 
+
+### [has_potential_use.private](/_private/schema-org/Relation/has/has_potential_use.private.md) 
+
+### [has_potential_use.personal](/_personal/schema-org/Relation/has/has_potential_use.personal.md) 
+
+### [has_potential_use.secret](/_secret/schema-org/Relation/has/has_potential_use.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -15.4167
 - 28.2833
@@ -148,9 +148,15 @@ Capital :: [[Lusaka]]
 
 
 ## Confidential Links & Embeds: 
-- [[Zambia|Zambia]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Zambia.internal|Zambia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Zambia.protect|Zambia.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Zambia.private|Zambia.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Zambia.personal|Zambia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Zambia.secret|Zambia.secret]] 
+
+### [Zambia](/_public/Earth/Continent/Africa/Africa~Central/Zambia.md) 
+
+### [Zambia.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia.internal.md) 
+
+### [Zambia.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia.protect.md) 
+
+### [Zambia.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia.private.md) 
+
+### [Zambia.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia.personal.md) 
+
+### [Zambia.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia.secret.md) 

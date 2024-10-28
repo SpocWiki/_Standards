@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: supply ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_recipe_ingredient|has_recipe_ingredient]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_recipe_ingredient.public|has_recipe_ingredient.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_recipe_ingredient.internal|has_recipe_ingredient.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_recipe_ingredient.protect|has_recipe_ingredient.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_recipe_ingredient.private|has_recipe_ingredient.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_recipe_ingredient.personal|has_recipe_ingredient.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_recipe_ingredient.secret|has_recipe_ingredient.secret]] 
+
+### [has_recipe_ingredient](/_public/schema-org/Property/Texts/has_recipe_ingredient.md) 
+
+### [has_recipe_ingredient.internal](/_internal/schema-org/Property/Texts/has_recipe_ingredient.internal.md) 
+
+### [has_recipe_ingredient.protect](/_protect/schema-org/Property/Texts/has_recipe_ingredient.protect.md) 
+
+### [has_recipe_ingredient.private](/_private/schema-org/Property/Texts/has_recipe_ingredient.private.md) 
+
+### [has_recipe_ingredient.personal](/_personal/schema-org/Property/Texts/has_recipe_ingredient.personal.md) 
+
+### [has_recipe_ingredient.secret](/_secret/schema-org/Property/Texts/has_recipe_ingredient.secret.md) 

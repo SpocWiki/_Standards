@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_line|has_line]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_line.public|has_line.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_line.internal|has_line.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_line.protect|has_line.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_line.private|has_line.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_line.personal|has_line.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_line.secret|has_line.secret]] 
+
+### [has_line](/_public/schema-org/Property/Texts/has_line.md) 
+
+### [has_line.internal](/_internal/schema-org/Property/Texts/has_line.internal.md) 
+
+### [has_line.protect](/_protect/schema-org/Property/Texts/has_line.protect.md) 
+
+### [has_line.private](/_private/schema-org/Property/Texts/has_line.private.md) 
+
+### [has_line.personal](/_personal/schema-org/Property/Texts/has_line.personal.md) 
+
+### [has_line.secret](/_secret/schema-org/Property/Texts/has_line.secret.md) 

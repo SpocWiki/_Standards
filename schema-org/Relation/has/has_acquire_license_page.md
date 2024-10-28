@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: usageInfo ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_acquire_license_page|has_acquire_license_page]] 
-- [[../../../../../_public/schema-org/Relation/has/has_acquire_license_page.public|has_acquire_license_page.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_acquire_license_page.internal|has_acquire_license_page.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_acquire_license_page.protect|has_acquire_license_page.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_acquire_license_page.private|has_acquire_license_page.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_acquire_license_page.personal|has_acquire_license_page.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_acquire_license_page.secret|has_acquire_license_page.secret]] 
+
+### [has_acquire_license_page](/_public/schema-org/Relation/has/has_acquire_license_page.md) 
+
+### [has_acquire_license_page.internal](/_internal/schema-org/Relation/has/has_acquire_license_page.internal.md) 
+
+### [has_acquire_license_page.protect](/_protect/schema-org/Relation/has/has_acquire_license_page.protect.md) 
+
+### [has_acquire_license_page.private](/_private/schema-org/Relation/has/has_acquire_license_page.private.md) 
+
+### [has_acquire_license_page.personal](/_personal/schema-org/Relation/has/has_acquire_license_page.personal.md) 
+
+### [has_acquire_license_page.secret](/_secret/schema-org/Relation/has/has_acquire_license_page.secret.md) 

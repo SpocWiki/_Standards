@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Richard Dedekind
   - Julius Wilhelm Richard Dedekind
@@ -20,3 +20,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Dedekind,Richard](/_public/Mathematics/Mathematicians/Dedekind,Richard.md) 
+
+### [Dedekind,Richard.internal](/_internal/Mathematics/Mathematicians/Dedekind,Richard.internal.md) 
+
+### [Dedekind,Richard.protect](/_protect/Mathematics/Mathematicians/Dedekind,Richard.protect.md) 
+
+### [Dedekind,Richard.private](/_private/Mathematics/Mathematicians/Dedekind,Richard.private.md) 
+
+### [Dedekind,Richard.personal](/_personal/Mathematics/Mathematicians/Dedekind,Richard.personal.md) 
+
+### [Dedekind,Richard.secret](/_secret/Mathematics/Mathematicians/Dedekind,Richard.secret.md) 

@@ -1,4 +1,4 @@
-# [[CEFACT]] 
+﻿# [[CEFACT]] 
 
 The CEFACT Standard is documented in the UN-Recommendation [[UN~Recommendations/rec20_Rev7e_2010.xls]] . 
 It is maintained by the [[../gs1|gs1]] Consortium and the codes coincide. 
@@ -28,3 +28,17 @@ type: folder_brief_live
 ```
  
 
+
+## Confidential Links & Embeds: 
+
+### [CEFACT](/_public/UN(United_Nations)/CEFACT.md) 
+
+### [CEFACT.internal](/_internal/UN(United_Nations)/CEFACT.internal.md) 
+
+### [CEFACT.protect](/_protect/UN(United_Nations)/CEFACT.protect.md) 
+
+### [CEFACT.private](/_private/UN(United_Nations)/CEFACT.private.md) 
+
+### [CEFACT.personal](/_personal/UN(United_Nations)/CEFACT.personal.md) 
+
+### [CEFACT.secret](/_secret/UN(United_Nations)/CEFACT.secret.md) 

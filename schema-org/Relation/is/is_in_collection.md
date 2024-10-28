@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_in_collection|is_in_collection]] 
-- [[../../../../../_public/schema-org/Relation/is/is_in_collection.public|is_in_collection.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_in_collection.internal|is_in_collection.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_in_collection.protect|is_in_collection.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_in_collection.private|is_in_collection.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_in_collection.personal|is_in_collection.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_in_collection.secret|is_in_collection.secret]] 
+
+### [is_in_collection](/_public/schema-org/Relation/is/is_in_collection.md) 
+
+### [is_in_collection.internal](/_internal/schema-org/Relation/is/is_in_collection.internal.md) 
+
+### [is_in_collection.protect](/_protect/schema-org/Relation/is/is_in_collection.protect.md) 
+
+### [is_in_collection.private](/_private/schema-org/Relation/is/is_in_collection.private.md) 
+
+### [is_in_collection.personal](/_personal/schema-org/Relation/is/is_in_collection.personal.md) 
+
+### [is_in_collection.secret](/_secret/schema-org/Relation/is/is_in_collection.secret.md) 

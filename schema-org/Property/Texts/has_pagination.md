@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_pagination|has_pagination]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_pagination.public|has_pagination.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_pagination.internal|has_pagination.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_pagination.protect|has_pagination.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_pagination.private|has_pagination.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_pagination.personal|has_pagination.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_pagination.secret|has_pagination.secret]] 
+
+### [has_pagination](/_public/schema-org/Property/Texts/has_pagination.md) 
+
+### [has_pagination.internal](/_internal/schema-org/Property/Texts/has_pagination.internal.md) 
+
+### [has_pagination.protect](/_protect/schema-org/Property/Texts/has_pagination.protect.md) 
+
+### [has_pagination.private](/_private/schema-org/Property/Texts/has_pagination.private.md) 
+
+### [has_pagination.personal](/_personal/schema-org/Property/Texts/has_pagination.personal.md) 
+
+### [has_pagination.secret](/_secret/schema-org/Property/Texts/has_pagination.secret.md) 

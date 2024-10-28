@@ -1,4 +1,4 @@
-# [[Paleolithic]] 
+﻿# [[Paleolithic]] 
 
 > The **Paleolithic** or Palaeolithic ( PAY-, PAL-ee-oh-LITH-ik), also called the Old Stone Age (from Greek: παλαιός palaios, "old" and λίθος lithos, "stone"), is a period in human prehistory that is distinguished by the original development of stone tools, and which represents almost the entire period of human prehistoric technology. It extends from the earliest known use of stone tools by hominins, c. 3.3 million years ago, to the end of the Pleistocene, c. 11,650 cal BP.
 > 
@@ -14,3 +14,17 @@
 
 #has_/time_/started /ka :: -3300  
 #has_/time_/stopped /ka :: -10  
+
+## Confidential Links & Embeds: 
+
+### [Paleolithic](/_public/Time-Ages/human-ages/Stone-Age/Paleolithic.md) 
+
+### [Paleolithic.internal](/_internal/Time-Ages/human-ages/Stone-Age/Paleolithic.internal.md) 
+
+### [Paleolithic.protect](/_protect/Time-Ages/human-ages/Stone-Age/Paleolithic.protect.md) 
+
+### [Paleolithic.private](/_private/Time-Ages/human-ages/Stone-Age/Paleolithic.private.md) 
+
+### [Paleolithic.personal](/_personal/Time-Ages/human-ages/Stone-Age/Paleolithic.personal.md) 
+
+### [Paleolithic.secret](/_secret/Time-Ages/human-ages/Stone-Age/Paleolithic.secret.md) 

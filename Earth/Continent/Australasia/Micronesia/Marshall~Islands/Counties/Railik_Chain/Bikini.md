@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 11.58, 165.33 ] 
 mapmarker: city 
 type: City
@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Marshall~Islands/City/Bikini|Bikini]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Marshall~Islands/City/Bikini.public|Bikini.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Marshall~Islands/City/Bikini.internal|Bikini.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Marshall~Islands/City/Bikini.protect|Bikini.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Marshall~Islands/City/Bikini.private|Bikini.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Marshall~Islands/City/Bikini.personal|Bikini.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Marshall~Islands/City/Bikini.secret|Bikini.secret]] 
+
+### [Bikini](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain/Bikini.md) 
+
+### [Bikini.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain/Bikini.internal.md) 
+
+### [Bikini.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain/Bikini.protect.md) 
+
+### [Bikini.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain/Bikini.private.md) 
+
+### [Bikini.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain/Bikini.personal.md) 
+
+### [Bikini.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain/Bikini.secret.md) 

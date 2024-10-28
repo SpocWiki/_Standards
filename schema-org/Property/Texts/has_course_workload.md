@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_course_workload|has_course_workload]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_course_workload.public|has_course_workload.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_course_workload.internal|has_course_workload.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_course_workload.protect|has_course_workload.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_course_workload.private|has_course_workload.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_course_workload.personal|has_course_workload.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_course_workload.secret|has_course_workload.secret]] 
+
+### [has_course_workload](/_public/schema-org/Property/Texts/has_course_workload.md) 
+
+### [has_course_workload.internal](/_internal/schema-org/Property/Texts/has_course_workload.internal.md) 
+
+### [has_course_workload.protect](/_protect/schema-org/Property/Texts/has_course_workload.protect.md) 
+
+### [has_course_workload.private](/_private/schema-org/Property/Texts/has_course_workload.private.md) 
+
+### [has_course_workload.personal](/_personal/schema-org/Property/Texts/has_course_workload.personal.md) 
+
+### [has_course_workload.secret](/_secret/schema-org/Property/Texts/has_course_workload.secret.md) 

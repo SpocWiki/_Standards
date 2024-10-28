@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: EventStatusType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_event_status|has_event_status]] 
-- [[../../../../../_public/schema-org/Relation/has/has_event_status.public|has_event_status.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_event_status.internal|has_event_status.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_event_status.protect|has_event_status.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_event_status.private|has_event_status.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_event_status.personal|has_event_status.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_event_status.secret|has_event_status.secret]] 
+
+### [has_event_status](/_public/schema-org/Relation/has/has_event_status.md) 
+
+### [has_event_status.internal](/_internal/schema-org/Relation/has/has_event_status.internal.md) 
+
+### [has_event_status.protect](/_protect/schema-org/Relation/has/has_event_status.protect.md) 
+
+### [has_event_status.private](/_private/schema-org/Relation/has/has_event_status.private.md) 
+
+### [has_event_status.personal](/_personal/schema-org/Relation/has/has_event_status.personal.md) 
+
+### [has_event_status.secret](/_secret/schema-org/Relation/has/has_event_status.secret.md) 

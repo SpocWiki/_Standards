@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -36,10 +36,15 @@ SpocWebEntityId: 17799
 > [Wikipedia](https://en.wikipedia.org/wiki/Silver)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-11-Copper/Silver|Silver]] 
-- [[../../../../_public/chemic/Elements/Group-11-Copper/Silver.public|Silver.public]] 
-- [[../../../../_internal/chemic/Elements/Group-11-Copper/Silver.internal|Silver.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-11-Copper/Silver.protect|Silver.protect]] 
-- [[../../../../_private/chemic/Elements/Group-11-Copper/Silver.private|Silver.private]] 
-- [[../../../../_personal/chemic/Elements/Group-11-Copper/Silver.personal|Silver.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-11-Copper/Silver.secret|Silver.secret]] 
+
+### [Silver](/_public/chemic/chemic~Elements/Group-11-Copper/Silver.md) 
+
+### [Silver.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Silver.internal.md) 
+
+### [Silver.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Silver.protect.md) 
+
+### [Silver.private](/_private/chemic/chemic~Elements/Group-11-Copper/Silver.private.md) 
+
+### [Silver.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Silver.personal.md) 
+
+### [Silver.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Silver.secret.md) 

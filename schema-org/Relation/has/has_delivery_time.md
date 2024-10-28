@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: ShippingDeliveryTime )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_delivery_time|has_delivery_time]] 
-- [[../../../../../_public/schema-org/Relation/has/has_delivery_time.public|has_delivery_time.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_delivery_time.internal|has_delivery_time.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_delivery_time.protect|has_delivery_time.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_delivery_time.private|has_delivery_time.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_delivery_time.personal|has_delivery_time.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_delivery_time.secret|has_delivery_time.secret]] 
+
+### [has_delivery_time](/_public/schema-org/Relation/has/has_delivery_time.md) 
+
+### [has_delivery_time.internal](/_internal/schema-org/Relation/has/has_delivery_time.internal.md) 
+
+### [has_delivery_time.protect](/_protect/schema-org/Relation/has/has_delivery_time.protect.md) 
+
+### [has_delivery_time.private](/_private/schema-org/Relation/has/has_delivery_time.private.md) 
+
+### [has_delivery_time.personal](/_personal/schema-org/Relation/has/has_delivery_time.personal.md) 
+
+### [has_delivery_time.secret](/_secret/schema-org/Relation/has/has_delivery_time.secret.md) 

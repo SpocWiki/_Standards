@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ Strength of the guideline's recommendation (e.g. 'class I').
 RecommendationStrength:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalGuidelineRecommendation](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.md) 
+
+### [FileClass~MedicalGuidelineRecommendation.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.internal.md) 
+
+### [FileClass~MedicalGuidelineRecommendation.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.protect.md) 
+
+### [FileClass~MedicalGuidelineRecommendation.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.private.md) 
+
+### [FileClass~MedicalGuidelineRecommendation.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.personal.md) 
+
+### [FileClass~MedicalGuidelineRecommendation.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.secret.md) 

@@ -45,10 +45,15 @@ Permission to write or edit the document.
 [ #is_/enum_of :: [[../DigitalDocumentPermissionType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/digital_document_permission_type/write_permission|write_permission]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/digital_document_permission_type/write_permission.public|write_permission.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/write_permission.internal|write_permission.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/write_permission.protect|write_permission.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/write_permission.private|write_permission.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/write_permission.personal|write_permission.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/write_permission.secret|write_permission.secret]] 
+
+### [write_permission](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.md) 
+
+### [write_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.internal.md) 
+
+### [write_permission.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.protect.md) 
+
+### [write_permission.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.private.md) 
+
+### [write_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.personal.md) 
+
+### [write_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.secret.md) 

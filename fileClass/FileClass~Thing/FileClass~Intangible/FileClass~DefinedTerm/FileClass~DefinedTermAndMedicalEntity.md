@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -110,3 +110,17 @@ A medical study or trial related to this entity.
 
 Study:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalStudy')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DefinedTermAndMedicalEntity](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.md) 
+
+### [FileClass~DefinedTermAndMedicalEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.internal.md) 
+
+### [FileClass~DefinedTermAndMedicalEntity.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.protect.md) 
+
+### [FileClass~DefinedTermAndMedicalEntity.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.private.md) 
+
+### [FileClass~DefinedTermAndMedicalEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.personal.md) 
+
+### [FileClass~DefinedTermAndMedicalEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.secret.md) 

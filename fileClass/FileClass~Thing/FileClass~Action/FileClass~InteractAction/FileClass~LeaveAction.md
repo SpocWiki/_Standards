@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -49,3 +49,17 @@ Upcoming or past event associated with this place, organization, or action.
 Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Event')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LeaveAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~LeaveAction.md) 
+
+### [FileClass~LeaveAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~LeaveAction.internal.md) 
+
+### [FileClass~LeaveAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~LeaveAction.protect.md) 
+
+### [FileClass~LeaveAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~LeaveAction.private.md) 
+
+### [FileClass~LeaveAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~LeaveAction.personal.md) 
+
+### [FileClass~LeaveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~LeaveAction.secret.md) 

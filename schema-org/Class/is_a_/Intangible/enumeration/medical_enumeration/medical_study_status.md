@@ -41,10 +41,15 @@ The status of a medical study. Enumerated type.
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status|medical_study_status]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.public|medical_study_status.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.internal|medical_study_status.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.protect|medical_study_status.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.private|medical_study_status.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.personal|medical_study_status.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.secret|medical_study_status.secret]] 
+
+### [medical_study_status](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.md) 
+
+### [medical_study_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.internal.md) 
+
+### [medical_study_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.protect.md) 
+
+### [medical_study_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.private.md) 
+
+### [medical_study_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.personal.md) 
+
+### [medical_study_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.secret.md) 

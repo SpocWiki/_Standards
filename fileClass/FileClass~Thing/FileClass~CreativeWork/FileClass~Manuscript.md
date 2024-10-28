@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A book, document, or piece of music written by hand rather than typed or printed
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Manuscript](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.md) 
+
+### [FileClass~Manuscript.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.internal.md) 
+
+### [FileClass~Manuscript.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.protect.md) 
+
+### [FileClass~Manuscript.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.private.md) 
+
+### [FileClass~Manuscript.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.personal.md) 
+
+### [FileClass~Manuscript.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.secret.md) 

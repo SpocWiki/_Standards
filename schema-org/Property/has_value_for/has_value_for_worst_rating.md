@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Number, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_worst_rating|has_value_for_worst_rating]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_worst_rating.public|has_value_for_worst_rating.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_worst_rating.internal|has_value_for_worst_rating.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_worst_rating.protect|has_value_for_worst_rating.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_worst_rating.private|has_value_for_worst_rating.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_worst_rating.personal|has_value_for_worst_rating.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_worst_rating.secret|has_value_for_worst_rating.secret]] 
+
+### [has_value_for_worst_rating](/_public/schema-org/Property/has_value_for/has_value_for_worst_rating.md) 
+
+### [has_value_for_worst_rating.internal](/_internal/schema-org/Property/has_value_for/has_value_for_worst_rating.internal.md) 
+
+### [has_value_for_worst_rating.protect](/_protect/schema-org/Property/has_value_for/has_value_for_worst_rating.protect.md) 
+
+### [has_value_for_worst_rating.private](/_private/schema-org/Property/has_value_for/has_value_for_worst_rating.private.md) 
+
+### [has_value_for_worst_rating.personal](/_personal/schema-org/Property/has_value_for/has_value_for_worst_rating.personal.md) 
+
+### [has_value_for_worst_rating.secret](/_secret/schema-org/Property/has_value_for/has_value_for_worst_rating.secret.md) 

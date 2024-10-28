@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 35.6637
     - 117.985
@@ -147,9 +147,15 @@ Capital :: [[China/provinces~China/Beijing/City/Beijing=Peking]]
 
 
 ## Confidential Links & Embeds: 
-- [[China|China]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~East/China.internal|China.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~East/China.protect|China.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~East/China.private|China.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~East/China.personal|China.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~East/China.secret|China.secret]] 
+
+### [China](/_public/Earth/Continent/Asia/Asia~East/China.md) 
+
+### [China.internal](/_internal/Earth/Continent/Asia/Asia~East/China.internal.md) 
+
+### [China.protect](/_protect/Earth/Continent/Asia/Asia~East/China.protect.md) 
+
+### [China.private](/_private/Earth/Continent/Asia/Asia~East/China.private.md) 
+
+### [China.personal](/_personal/Earth/Continent/Asia/Asia~East/China.personal.md) 
+
+### [China.secret](/_secret/Earth/Continent/Asia/Asia~East/China.secret.md) 

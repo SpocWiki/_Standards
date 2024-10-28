@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 9.95
     - -84.08
@@ -145,9 +145,15 @@ Capital :: [[Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose]]
 
 
 ## Confidential Links & Embeds: 
-- [[Costa_Rica|Costa_Rica]] 
-- [[../../../../_internal/Earth/Continent/America~Central/Costa_Rica.internal|Costa_Rica.internal]] 
-- [[../../../../_protect/Earth/Continent/America~Central/Costa_Rica.protect|Costa_Rica.protect]] 
-- [[../../../../_private/Earth/Continent/America~Central/Costa_Rica.private|Costa_Rica.private]] 
-- [[../../../../_personal/Earth/Continent/America~Central/Costa_Rica.personal|Costa_Rica.personal]] 
-- [[../../../../_secret/Earth/Continent/America~Central/Costa_Rica.secret|Costa_Rica.secret]] 
+
+### [Costa_Rica](/_public/Earth/Continent/America~Central/Costa_Rica.md) 
+
+### [Costa_Rica.internal](/_internal/Earth/Continent/America~Central/Costa_Rica.internal.md) 
+
+### [Costa_Rica.protect](/_protect/Earth/Continent/America~Central/Costa_Rica.protect.md) 
+
+### [Costa_Rica.private](/_private/Earth/Continent/America~Central/Costa_Rica.private.md) 
+
+### [Costa_Rica.personal](/_personal/Earth/Continent/America~Central/Costa_Rica.personal.md) 
+
+### [Costa_Rica.secret](/_secret/Earth/Continent/America~Central/Costa_Rica.secret.md) 

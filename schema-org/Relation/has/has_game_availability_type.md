@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: GameAvailabilityEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_game_availability_type|has_game_availability_type]] 
-- [[../../../../../_public/schema-org/Relation/has/has_game_availability_type.public|has_game_availability_type.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_game_availability_type.internal|has_game_availability_type.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_game_availability_type.protect|has_game_availability_type.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_game_availability_type.private|has_game_availability_type.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_game_availability_type.personal|has_game_availability_type.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_game_availability_type.secret|has_game_availability_type.secret]] 
+
+### [has_game_availability_type](/_public/schema-org/Relation/has/has_game_availability_type.md) 
+
+### [has_game_availability_type.internal](/_internal/schema-org/Relation/has/has_game_availability_type.internal.md) 
+
+### [has_game_availability_type.protect](/_protect/schema-org/Relation/has/has_game_availability_type.protect.md) 
+
+### [has_game_availability_type.private](/_private/schema-org/Relation/has/has_game_availability_type.private.md) 
+
+### [has_game_availability_type.personal](/_personal/schema-org/Relation/has/has_game_availability_type.personal.md) 
+
+### [has_game_availability_type.secret](/_secret/schema-org/Relation/has/has_game_availability_type.secret.md) 

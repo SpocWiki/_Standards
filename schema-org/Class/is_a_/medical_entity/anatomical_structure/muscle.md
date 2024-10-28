@@ -43,10 +43,15 @@ A muscle is an anatomical structure consisting of a contractile form of tissue t
 [ #has_/properties :: [ additionalType, alternateName, antagonist, associatedPathophysiology, bloodSupply, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, insertion, legalStatus, mainEntityOfPage, medicineSystem, muscleAction, name, nerve, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle|muscle]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.public|muscle.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/muscle.internal|muscle.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/muscle.protect|muscle.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/muscle.private|muscle.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/muscle.personal|muscle.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/muscle.secret|muscle.secret]] 
+
+### [muscle](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.md) 
+
+### [muscle.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.internal.md) 
+
+### [muscle.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.protect.md) 
+
+### [muscle.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.private.md) 
+
+### [muscle.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.personal.md) 
+
+### [muscle.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.secret.md) 

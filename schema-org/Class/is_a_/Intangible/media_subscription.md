@@ -43,10 +43,15 @@ A subscription which allows a user to access media including audio, video, books
 [ #has_/properties :: [ additionalType, alternateName, authenticator, description, disambiguatingDescription, expectsAcceptanceOf, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/media_subscription|media_subscription]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/media_subscription.public|media_subscription.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/media_subscription.internal|media_subscription.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/media_subscription.protect|media_subscription.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/media_subscription.private|media_subscription.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/media_subscription.personal|media_subscription.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/media_subscription.secret|media_subscription.secret]] 
+
+### [media_subscription](/_public/schema-org/Class/is_a_/Intangible/media_subscription.md) 
+
+### [media_subscription.internal](/_internal/schema-org/Class/is_a_/Intangible/media_subscription.internal.md) 
+
+### [media_subscription.protect](/_protect/schema-org/Class/is_a_/Intangible/media_subscription.protect.md) 
+
+### [media_subscription.private](/_private/schema-org/Class/is_a_/Intangible/media_subscription.private.md) 
+
+### [media_subscription.personal](/_personal/schema-org/Class/is_a_/Intangible/media_subscription.personal.md) 
+
+### [media_subscription.secret](/_secret/schema-org/Class/is_a_/Intangible/media_subscription.secret.md) 

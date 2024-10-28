@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -85,3 +85,17 @@ Target Operating System / Product to which the code applies.  If applies to seve
 TargetProduct:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/SoftwareApplication')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SoftwareSourceCode](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareSourceCode.md) 
+
+### [FileClass~SoftwareSourceCode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareSourceCode.internal.md) 
+
+### [FileClass~SoftwareSourceCode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareSourceCode.protect.md) 
+
+### [FileClass~SoftwareSourceCode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareSourceCode.private.md) 
+
+### [FileClass~SoftwareSourceCode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareSourceCode.personal.md) 
+
+### [FileClass~SoftwareSourceCode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareSourceCode.secret.md) 

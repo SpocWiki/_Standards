@@ -43,10 +43,15 @@ The act of swallowing liquids.
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/consume_action/drink_action|drink_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/consume_action/drink_action.public|drink_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/drink_action.internal|drink_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/drink_action.protect|drink_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/drink_action.private|drink_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/drink_action.personal|drink_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/drink_action.secret|drink_action.secret]] 
+
+### [drink_action](/_public/schema-org/Class/is_a_/action/consume_action/drink_action.md) 
+
+### [drink_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/drink_action.internal.md) 
+
+### [drink_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/drink_action.protect.md) 
+
+### [drink_action.private](/_private/schema-org/Class/is_a_/action/consume_action/drink_action.private.md) 
+
+### [drink_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/drink_action.personal.md) 
+
+### [drink_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/drink_action.secret.md) 

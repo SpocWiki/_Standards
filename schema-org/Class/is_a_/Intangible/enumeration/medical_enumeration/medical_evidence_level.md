@@ -41,10 +41,15 @@ Level of evidence for a medical guideline. Enumerated type.
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level|medical_evidence_level]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.public|medical_evidence_level.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.internal|medical_evidence_level.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.protect|medical_evidence_level.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.private|medical_evidence_level.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.personal|medical_evidence_level.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.secret|medical_evidence_level.secret]] 
+
+### [medical_evidence_level](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.md) 
+
+### [medical_evidence_level.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.internal.md) 
+
+### [medical_evidence_level.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.protect.md) 
+
+### [medical_evidence_level.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.private.md) 
+
+### [medical_evidence_level.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.personal.md) 
+
+### [medical_evidence_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.secret.md) 

@@ -41,10 +41,15 @@ Data type: Integer.
 [ #is_/sub_class_of :: [[../Number]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/number/integer|integer]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/data_type/number/integer.public|integer.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/number/integer.internal|integer.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/number/integer.protect|integer.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/data_type/number/integer.private|integer.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/number/integer.personal|integer.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/number/integer.secret|integer.secret]] 
+
+### [integer](/_public/schema-org/Class/is_a_/data_type/number/integer.md) 
+
+### [integer.internal](/_internal/schema-org/Class/is_a_/data_type/number/integer.internal.md) 
+
+### [integer.protect](/_protect/schema-org/Class/is_a_/data_type/number/integer.protect.md) 
+
+### [integer.private](/_private/schema-org/Class/is_a_/data_type/number/integer.private.md) 
+
+### [integer.personal](/_personal/schema-org/Class/is_a_/data_type/number/integer.personal.md) 
+
+### [integer.secret](/_secret/schema-org/Class/is_a_/data_type/number/integer.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: (c)copyrighted
 confidential: private
 isDeleted: false
@@ -170,3 +170,17 @@ but with Lists of repeating Objects the savings are significant.
 
 NewtonSoft Json uses `#text` Array to collect the inner Text of XML Nodes. 
 
+
+## Confidential Links & Embeds: 
+
+### [Json-LD](/_public/Json-LD.md) 
+
+### [Json-LD.internal](/_internal/Json-LD.internal.md) 
+
+### [Json-LD.protect](/_protect/Json-LD.protect.md) 
+
+### [Json-LD.private](/_private/Json-LD.private.md) 
+
+### [Json-LD.personal](/_personal/Json-LD.personal.md) 
+
+### [Json-LD.secret](/_secret/Json-LD.secret.md) 

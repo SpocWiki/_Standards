@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: recipient ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_cc_recipient|has_cc_recipient]] 
-- [[../../../../../_public/schema-org/Relation/has/has_cc_recipient.public|has_cc_recipient.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_cc_recipient.internal|has_cc_recipient.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_cc_recipient.protect|has_cc_recipient.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_cc_recipient.private|has_cc_recipient.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_cc_recipient.personal|has_cc_recipient.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_cc_recipient.secret|has_cc_recipient.secret]] 
+
+### [has_cc_recipient](/_public/schema-org/Relation/has/has_cc_recipient.md) 
+
+### [has_cc_recipient.internal](/_internal/schema-org/Relation/has/has_cc_recipient.internal.md) 
+
+### [has_cc_recipient.protect](/_protect/schema-org/Relation/has/has_cc_recipient.protect.md) 
+
+### [has_cc_recipient.private](/_private/schema-org/Relation/has/has_cc_recipient.private.md) 
+
+### [has_cc_recipient.personal](/_personal/schema-org/Relation/has/has_cc_recipient.personal.md) 
+
+### [has_cc_recipient.secret](/_secret/schema-org/Relation/has/has_cc_recipient.secret.md) 

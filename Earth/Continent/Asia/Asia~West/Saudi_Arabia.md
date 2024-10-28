@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 23.05
     - 43.27
@@ -147,9 +147,15 @@ Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]
 
 
 ## Confidential Links & Embeds: 
-- [[Saudi_Arabia|Saudi_Arabia]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.internal|Saudi_Arabia.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia.protect|Saudi_Arabia.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia.private|Saudi_Arabia.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.personal|Saudi_Arabia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret|Saudi_Arabia.secret]] 
+
+### [Saudi_Arabia](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia.md) 
+
+### [Saudi_Arabia.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.internal.md) 
+
+### [Saudi_Arabia.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia.protect.md) 
+
+### [Saudi_Arabia.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia.private.md) 
+
+### [Saudi_Arabia.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.personal.md) 
+
+### [Saudi_Arabia.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret.md) 

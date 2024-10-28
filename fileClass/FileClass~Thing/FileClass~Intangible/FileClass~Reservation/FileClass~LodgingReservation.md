@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -99,3 +99,17 @@ The number of children staying in the unit.
 NumChildren:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LodgingReservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~LodgingReservation.md) 
+
+### [FileClass~LodgingReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~LodgingReservation.internal.md) 
+
+### [FileClass~LodgingReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~LodgingReservation.protect.md) 
+
+### [FileClass~LodgingReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~LodgingReservation.private.md) 
+
+### [FileClass~LodgingReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~LodgingReservation.personal.md) 
+
+### [FileClass~LodgingReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~LodgingReservation.secret.md) 

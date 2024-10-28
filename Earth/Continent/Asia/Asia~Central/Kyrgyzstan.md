@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 42.8667
   - 74.6
@@ -151,9 +151,15 @@ Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]
 
 
 ## Confidential Links & Embeds: 
-- [[Kyrgyzstan|Kyrgyzstan]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.internal|Kyrgyzstan.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.protect|Kyrgyzstan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.private|Kyrgyzstan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.personal|Kyrgyzstan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret|Kyrgyzstan.secret]] 
+
+### [Kyrgyzstan](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.md) 
+
+### [Kyrgyzstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.internal.md) 
+
+### [Kyrgyzstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.protect.md) 
+
+### [Kyrgyzstan.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.private.md) 
+
+### [Kyrgyzstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.personal.md) 
+
+### [Kyrgyzstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A zoo.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Zoo](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.md) 
+
+### [FileClass~Zoo.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.internal.md) 
+
+### [FileClass~Zoo.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.protect.md) 
+
+### [FileClass~Zoo.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.private.md) 
+
+### [FileClass~Zoo.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.personal.md) 
+
+### [FileClass~Zoo.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Zoo.secret.md) 

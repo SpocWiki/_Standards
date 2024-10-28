@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sd_publisher|has_sd_publisher]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]] 
+
+### [has_sd_publisher](/_public/schema-org/Relation/has/has_sd_publisher.md) 
+
+### [has_sd_publisher.internal](/_internal/schema-org/Relation/has/has_sd_publisher.internal.md) 
+
+### [has_sd_publisher.protect](/_protect/schema-org/Relation/has/has_sd_publisher.protect.md) 
+
+### [has_sd_publisher.private](/_private/schema-org/Relation/has/has_sd_publisher.private.md) 
+
+### [has_sd_publisher.personal](/_personal/schema-org/Relation/has/has_sd_publisher.personal.md) 
+
+### [has_sd_publisher.secret](/_secret/schema-org/Relation/has/has_sd_publisher.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -351,10 +351,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Europe/_Europe-CityDB|_Europe-CityDB]] 
-- [[../../../../_public/Earth/Continent/Europe/_Europe-CityDB.public|_Europe-CityDB.public]] 
-- [[../../../../_internal/Earth/Continent/Europe/_Europe-CityDB.internal|_Europe-CityDB.internal]] 
-- [[../../../../_protect/Earth/Continent/Europe/_Europe-CityDB.protect|_Europe-CityDB.protect]] 
-- [[../../../../_private/Earth/Continent/Europe/_Europe-CityDB.private|_Europe-CityDB.private]] 
-- [[../../../../_personal/Earth/Continent/Europe/_Europe-CityDB.personal|_Europe-CityDB.personal]] 
-- [[../../../../_secret/Earth/Continent/Europe/_Europe-CityDB.secret|_Europe-CityDB.secret]] 
+
+### [_Europe-CityDB](/_public/Earth/Continent/Europe/_Europe-CityDB.md) 
+
+### [_Europe-CityDB.internal](/_internal/Earth/Continent/Europe/_Europe-CityDB.internal.md) 
+
+### [_Europe-CityDB.protect](/_protect/Earth/Continent/Europe/_Europe-CityDB.protect.md) 
+
+### [_Europe-CityDB.private](/_private/Earth/Continent/Europe/_Europe-CityDB.private.md) 
+
+### [_Europe-CityDB.personal](/_personal/Earth/Continent/Europe/_Europe-CityDB.personal.md) 
+
+### [_Europe-CityDB.secret](/_secret/Earth/Continent/Europe/_Europe-CityDB.secret.md) 

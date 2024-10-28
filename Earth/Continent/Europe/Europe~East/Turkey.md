@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 39.3233
     - 32.37
@@ -153,10 +153,15 @@ Capital :: [[Istanbul]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~East/Turkey|Turkey]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~East/Turkey.public|Turkey.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~East/Turkey.protect|Turkey.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~East/Turkey.private|Turkey.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~East/Turkey.personal|Turkey.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~East/Turkey.secret|Turkey.secret]] 
+
+### [Turkey](/_public/Earth/Continent/Europe/Europe~East/Turkey.md) 
+
+### [Turkey.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal.md) 
+
+### [Turkey.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect.md) 
+
+### [Turkey.private](/_private/Earth/Continent/Europe/Europe~East/Turkey.private.md) 
+
+### [Turkey.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal.md) 
+
+### [Turkey.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret.md) 

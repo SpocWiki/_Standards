@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21950
@@ -39,10 +39,15 @@ SpocWebEntityId: 21950
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-18-Nobel-Gases/Xenon|Xenon]] 
-- [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Xenon.public|Xenon.public]] 
-- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Xenon.internal|Xenon.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Xenon.protect|Xenon.protect]] 
-- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Xenon.private|Xenon.private]] 
-- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Xenon.personal|Xenon.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Xenon.secret|Xenon.secret]] 
+
+### [Xenon](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.md) 
+
+### [Xenon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.internal.md) 
+
+### [Xenon.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.protect.md) 
+
+### [Xenon.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.private.md) 
+
+### [Xenon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.personal.md) 
+
+### [Xenon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.secret.md) 

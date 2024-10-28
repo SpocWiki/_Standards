@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Relation describes that:
 ( #has_/range :: ProductModel, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_model|has_model]] 
-- [[../../../../../_public/schema-org/Relation/has/has_model.public|has_model.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_model.internal|has_model.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_model.protect|has_model.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_model.private|has_model.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_model.personal|has_model.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_model.secret|has_model.secret]] 
+
+### [has_model](/_public/schema-org/Relation/has/has_model.md) 
+
+### [has_model.internal](/_internal/schema-org/Relation/has/has_model.internal.md) 
+
+### [has_model.protect](/_protect/schema-org/Relation/has/has_model.protect.md) 
+
+### [has_model.private](/_private/schema-org/Relation/has/has_model.private.md) 
+
+### [has_model.personal](/_personal/schema-org/Relation/has/has_model.personal.md) 
+
+### [has_model.secret](/_secret/schema-org/Relation/has/has_model.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 24.47
     - 54.42
@@ -156,9 +156,15 @@ By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:Nuclear
 
 
 ## Confidential Links & Embeds: 
-- [[United_Arab_Emirates|United_Arab_Emirates]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal|United_Arab_Emirates.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.protect|United_Arab_Emirates.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.private|United_Arab_Emirates.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.personal|United_Arab_Emirates.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret|United_Arab_Emirates.secret]] 
+
+### [United_Arab_Emirates](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.md) 
+
+### [United_Arab_Emirates.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal.md) 
+
+### [United_Arab_Emirates.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.protect.md) 
+
+### [United_Arab_Emirates.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.private.md) 
+
+### [United_Arab_Emirates.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.personal.md) 
+
+### [United_Arab_Emirates.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret.md) 

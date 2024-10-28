@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Abdomen clinical examination.
 [ #is_/enum_of :: [[../Physical_Exam]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen|abdomen]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.public|abdomen.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.internal|abdomen.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.protect|abdomen.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.private|abdomen.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.personal|abdomen.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.secret|abdomen.secret]] 
+
+### [abdomen](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.md) 
+
+### [abdomen.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.internal.md) 
+
+### [abdomen.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.protect.md) 
+
+### [abdomen.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.private.md) 
+
+### [abdomen.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.personal.md) 
+
+### [abdomen.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.secret.md) 

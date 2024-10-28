@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -444,10 +444,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Australia/_Australia-CountryDb|_Australia-CountryDb]] 
-- [[../../../../_public/Earth/Continent/Australia/_Australia-CountryDb.public|_Australia-CountryDb.public]] 
-- [[../../../../_internal/Earth/Continent/Australia/_Australia-CountryDb.internal|_Australia-CountryDb.internal]] 
-- [[../../../../_protect/Earth/Continent/Australia/_Australia-CountryDb.protect|_Australia-CountryDb.protect]] 
-- [[../../../../_private/Earth/Continent/Australia/_Australia-CountryDb.private|_Australia-CountryDb.private]] 
-- [[../../../../_personal/Earth/Continent/Australia/_Australia-CountryDb.personal|_Australia-CountryDb.personal]] 
-- [[../../../../_secret/Earth/Continent/Australia/_Australia-CountryDb.secret|_Australia-CountryDb.secret]] 
+
+### [_Australia-CountryDb](/_public/Earth/Continent/Australasia/_Australia-CountryDb.md) 
+
+### [_Australia-CountryDb.internal](/_internal/Earth/Continent/Australasia/_Australia-CountryDb.internal.md) 
+
+### [_Australia-CountryDb.protect](/_protect/Earth/Continent/Australasia/_Australia-CountryDb.protect.md) 
+
+### [_Australia-CountryDb.private](/_private/Earth/Continent/Australasia/_Australia-CountryDb.private.md) 
+
+### [_Australia-CountryDb.personal](/_personal/Earth/Continent/Australasia/_Australia-CountryDb.personal.md) 
+
+### [_Australia-CountryDb.secret](/_secret/Earth/Continent/Australasia/_Australia-CountryDb.secret.md) 

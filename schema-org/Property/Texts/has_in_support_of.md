@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_in_support_of|has_in_support_of]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_in_support_of.public|has_in_support_of.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_in_support_of.internal|has_in_support_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_in_support_of.protect|has_in_support_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_in_support_of.private|has_in_support_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_in_support_of.personal|has_in_support_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_in_support_of.secret|has_in_support_of.secret]] 
+
+### [has_in_support_of](/_public/schema-org/Property/Texts/has_in_support_of.md) 
+
+### [has_in_support_of.internal](/_internal/schema-org/Property/Texts/has_in_support_of.internal.md) 
+
+### [has_in_support_of.protect](/_protect/schema-org/Property/Texts/has_in_support_of.protect.md) 
+
+### [has_in_support_of.private](/_private/schema-org/Property/Texts/has_in_support_of.private.md) 
+
+### [has_in_support_of.personal](/_personal/schema-org/Property/Texts/has_in_support_of.personal.md) 
+
+### [has_in_support_of.secret](/_secret/schema-org/Property/Texts/has_in_support_of.secret.md) 

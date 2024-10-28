@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A tool used (but not consumed) when performing instructions for how to achieve a
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~HowToTool](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToTool.md) 
+
+### [FileClass~HowToTool.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToTool.internal.md) 
+
+### [FileClass~HowToTool.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToTool.protect.md) 
+
+### [FileClass~HowToTool.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToTool.private.md) 
+
+### [FileClass~HowToTool.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToTool.personal.md) 
+
+### [FileClass~HowToTool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToTool.secret.md) 

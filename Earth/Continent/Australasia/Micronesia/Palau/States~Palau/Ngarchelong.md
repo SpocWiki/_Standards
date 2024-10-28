@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.71 , 134.64 ] 
 type: geo-Region
 title: Ngarchelong
@@ -40,11 +40,15 @@ markerFolder: ./Ngarchelong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Ngarchelong|Ngarchelong]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Ngarchelong.public|Ngarchelong.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Ngarchelong.internal|Ngarchelong.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Ngarchelong.protect|Ngarchelong.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Ngarchelong.private|Ngarchelong.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Ngarchelong.personal|Ngarchelong.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Ngarchelong.secret|Ngarchelong.secret]] 
 
+### [Ngarchelong](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.md) 
+
+### [Ngarchelong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.internal.md) 
+
+### [Ngarchelong.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.protect.md) 
+
+### [Ngarchelong.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.private.md) 
+
+### [Ngarchelong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.personal.md) 
+
+### [Ngarchelong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.secret.md) 

@@ -1,33 +1,34 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_country_of_origin
-
 linkTitle: has_country_of_origin
-keywords: [country, of, origin]
+keywords:
+  - country
+  - of
+  - origin
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- country-of-origin
-- country_of_origin
-- countryOfOrigin
-- has_country_of_origin
+  - country-of-origin
+  - country_of_origin
+  - countryOfOrigin
+  - has_country_of_origin
+  - schema:countryOfOrigin
+  - dbo:country
+  - wdt:P495
 ---
 
 Use it like this: 
@@ -50,10 +51,15 @@ Relation describes that:
 ( #has_/range :: Country )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_country_of_origin|has_country_of_origin]] 
-- [[../../../../../_public/schema-org/Relation/has/has_country_of_origin.public|has_country_of_origin.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_country_of_origin.internal|has_country_of_origin.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_country_of_origin.protect|has_country_of_origin.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_country_of_origin.private|has_country_of_origin.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_country_of_origin.personal|has_country_of_origin.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_country_of_origin.secret|has_country_of_origin.secret]] 
+
+### [has_country_of_origin](/_public/schema-org/Relation/has/has_country_of_origin.md) 
+
+### [has_country_of_origin.internal](/_internal/schema-org/Relation/has/has_country_of_origin.internal.md) 
+
+### [has_country_of_origin.protect](/_protect/schema-org/Relation/has/has_country_of_origin.protect.md) 
+
+### [has_country_of_origin.private](/_private/schema-org/Relation/has/has_country_of_origin.private.md) 
+
+### [has_country_of_origin.personal](/_personal/schema-org/Relation/has/has_country_of_origin.personal.md) 
+
+### [has_country_of_origin.secret](/_secret/schema-org/Relation/has/has_country_of_origin.secret.md) 

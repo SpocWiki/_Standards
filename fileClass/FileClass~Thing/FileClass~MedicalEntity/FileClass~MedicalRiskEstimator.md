@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,3 +55,17 @@ A modifiable or non-modifiable risk factor included in the calculation, e.g. age
 IncludedRiskFactor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalRiskEstimator](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.md) 
+
+### [FileClass~MedicalRiskEstimator.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.internal.md) 
+
+### [FileClass~MedicalRiskEstimator.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.protect.md) 
+
+### [FileClass~MedicalRiskEstimator.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.private.md) 
+
+### [FileClass~MedicalRiskEstimator.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.personal.md) 
+
+### [FileClass~MedicalRiskEstimator.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator.secret.md) 

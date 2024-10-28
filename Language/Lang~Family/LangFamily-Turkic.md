@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Turkic|LangFamily-Turkic]] 
-- [[../../../_public/lang/Family/LangFamily-Turkic.public|LangFamily-Turkic.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Turkic.internal|LangFamily-Turkic.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Turkic.protect|LangFamily-Turkic.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Turkic.private|LangFamily-Turkic.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Turkic.personal|LangFamily-Turkic.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Turkic.secret|LangFamily-Turkic.secret]] 
+
+### [LangFamily-Turkic](/_public/Language/Lang~Family/LangFamily-Turkic.md) 
+
+### [LangFamily-Turkic.internal](/_internal/Language/Lang~Family/LangFamily-Turkic.internal.md) 
+
+### [LangFamily-Turkic.protect](/_protect/Language/Lang~Family/LangFamily-Turkic.protect.md) 
+
+### [LangFamily-Turkic.private](/_private/Language/Lang~Family/LangFamily-Turkic.private.md) 
+
+### [LangFamily-Turkic.personal](/_personal/Language/Lang~Family/LangFamily-Turkic.personal.md) 
+
+### [LangFamily-Turkic.secret](/_secret/Language/Lang~Family/LangFamily-Turkic.secret.md) 

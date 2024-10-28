@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21931
@@ -37,10 +37,15 @@ SpocWebEntityId: 21931
 > [Wikipedia](https://en.wikipedia.org/wiki/Arsenic)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-15-Nitrogen/Arsenic|Arsenic]] 
-- [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Arsenic.public|Arsenic.public]] 
-- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Arsenic.internal|Arsenic.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Arsenic.protect|Arsenic.protect]] 
-- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Arsenic.private|Arsenic.private]] 
-- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Arsenic.personal|Arsenic.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Arsenic.secret|Arsenic.secret]] 
+
+### [Arsenic](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.md) 
+
+### [Arsenic.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.internal.md) 
+
+### [Arsenic.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.protect.md) 
+
+### [Arsenic.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.private.md) 
+
+### [Arsenic.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.personal.md) 
+
+### [Arsenic.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -72,10 +72,15 @@ Alternatively use the RDFa-Lite:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/language|language]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/language.public|language.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/language.internal|language.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/language.protect|language.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/language.private|language.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/language.personal|language.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/language.secret|language.secret]] 
+
+### [language](/_public/schema-org/Class/is_a_/Intangible/language.md) 
+
+### [language.internal](/_internal/schema-org/Class/is_a_/Intangible/language.internal.md) 
+
+### [language.protect](/_protect/schema-org/Class/is_a_/Intangible/language.protect.md) 
+
+### [language.private](/_private/schema-org/Class/is_a_/Intangible/language.private.md) 
+
+### [language.personal](/_personal/schema-org/Class/is_a_/Intangible/language.personal.md) 
+
+### [language.secret](/_secret/schema-org/Class/is_a_/Intangible/language.secret.md) 

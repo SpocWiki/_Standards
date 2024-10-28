@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 53.9
     - 27.57
@@ -150,10 +150,15 @@ Capital :: [[Minsk]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~East/Belarus|Belarus]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~East/Belarus.public|Belarus.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~East/Belarus.internal|Belarus.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~East/Belarus.protect|Belarus.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~East/Belarus.private|Belarus.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~East/Belarus.personal|Belarus.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~East/Belarus.secret|Belarus.secret]] 
+
+### [Belarus](/_public/Earth/Continent/Europe/Europe~East/Belarus.md) 
+
+### [Belarus.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus.internal.md) 
+
+### [Belarus.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus.protect.md) 
+
+### [Belarus.private](/_private/Earth/Continent/Europe/Europe~East/Belarus.private.md) 
+
+### [Belarus.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus.personal.md) 
+
+### [Belarus.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus.secret.md) 

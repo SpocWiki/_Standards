@@ -1,4 +1,4 @@
----
+﻿---
 location: [6.916667,158.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Micronesia~Fed._States/City/Palikir|Palikir]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Micronesia~Fed._States/City/Palikir.public|Palikir.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Micronesia~Fed._States/City/Palikir.internal|Palikir.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Micronesia~Fed._States/City/Palikir.protect|Palikir.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Micronesia~Fed._States/City/Palikir.private|Palikir.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Micronesia~Fed._States/City/Palikir.personal|Palikir.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Micronesia~Fed._States/City/Palikir.secret|Palikir.secret]] 
+
+### [Palikir](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.md) 
+
+### [Palikir.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal.md) 
+
+### [Palikir.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.protect.md) 
+
+### [Palikir.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.private.md) 
+
+### [Palikir.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal.md) 
+
+### [Palikir.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret.md) 

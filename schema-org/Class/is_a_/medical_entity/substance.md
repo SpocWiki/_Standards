@@ -47,10 +47,15 @@ Any matter of defined composition that has discrete existence, whose origin may 
 [ #has_/properties :: [ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/substance|substance]] 
-- [[../../../../../_public/schema-org/Class/is_a_/medical_entity/substance.public|substance.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/substance.internal|substance.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/substance.protect|substance.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/substance.private|substance.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/substance.personal|substance.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/substance.secret|substance.secret]] 
+
+### [substance](/_public/schema-org/Class/is_a_/medical_entity/substance.md) 
+
+### [substance.internal](/_internal/schema-org/Class/is_a_/medical_entity/substance.internal.md) 
+
+### [substance.protect](/_protect/schema-org/Class/is_a_/medical_entity/substance.protect.md) 
+
+### [substance.private](/_private/schema-org/Class/is_a_/medical_entity/substance.private.md) 
+
+### [substance.personal](/_personal/schema-org/Class/is_a_/medical_entity/substance.personal.md) 
+
+### [substance.secret](/_secret/schema-org/Class/is_a_/medical_entity/substance.secret.md) 

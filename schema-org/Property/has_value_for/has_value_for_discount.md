@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Number, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_discount|has_value_for_discount]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_discount.public|has_value_for_discount.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_discount.internal|has_value_for_discount.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_discount.protect|has_value_for_discount.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_discount.private|has_value_for_discount.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_discount.personal|has_value_for_discount.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_discount.secret|has_value_for_discount.secret]] 
+
+### [has_value_for_discount](/_public/schema-org/Property/has_value_for/has_value_for_discount.md) 
+
+### [has_value_for_discount.internal](/_internal/schema-org/Property/has_value_for/has_value_for_discount.internal.md) 
+
+### [has_value_for_discount.protect](/_protect/schema-org/Property/has_value_for/has_value_for_discount.protect.md) 
+
+### [has_value_for_discount.private](/_private/schema-org/Property/has_value_for/has_value_for_discount.private.md) 
+
+### [has_value_for_discount.personal](/_personal/schema-org/Property/has_value_for/has_value_for_discount.personal.md) 
+
+### [has_value_for_discount.secret](/_secret/schema-org/Property/has_value_for/has_value_for_discount.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 50.8165
     - 4.29368
@@ -145,10 +145,15 @@ Capital :: [[Belgium/Regions~Belgium/Bruxelles/Brussels/City/Brussels=Bruxelles]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~West/Belgium|Belgium]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~West/Belgium.public|Belgium.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~West/Belgium.internal|Belgium.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~West/Belgium.protect|Belgium.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~West/Belgium.private|Belgium.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~West/Belgium.personal|Belgium.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~West/Belgium.secret|Belgium.secret]] 
+
+### [Belgium](/_public/Earth/Continent/Europe/Europe~West/Belgium.md) 
+
+### [Belgium.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium.internal.md) 
+
+### [Belgium.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium.protect.md) 
+
+### [Belgium.private](/_private/Earth/Continent/Europe/Europe~West/Belgium.private.md) 
+
+### [Belgium.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium.personal.md) 
+
+### [Belgium.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium.secret.md) 

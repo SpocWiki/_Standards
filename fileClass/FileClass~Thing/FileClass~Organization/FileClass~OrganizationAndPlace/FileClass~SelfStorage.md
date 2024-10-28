@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A self-storage facility.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SelfStorage](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.md) 
+
+### [FileClass~SelfStorage.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.internal.md) 
+
+### [FileClass~SelfStorage.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.protect.md) 
+
+### [FileClass~SelfStorage.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.private.md) 
+
+### [FileClass~SelfStorage.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.personal.md) 
+
+### [FileClass~SelfStorage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.secret.md) 

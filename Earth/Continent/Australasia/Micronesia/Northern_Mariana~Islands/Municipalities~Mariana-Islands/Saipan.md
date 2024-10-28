@@ -1,4 +1,4 @@
----
+﻿---
 location: [15.18333,145.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -59,11 +59,15 @@ markerFolder: ./Saipan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan|Saipan]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.public|Saipan.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.internal|Saipan.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.protect|Saipan.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.private|Saipan.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.personal|Saipan.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Saipan.secret|Saipan.secret]] 
 
+### [Saipan](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.md) 
+
+### [Saipan.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.internal.md) 
+
+### [Saipan.protect](/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.protect.md) 
+
+### [Saipan.private](/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.private.md) 
+
+### [Saipan.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.personal.md) 
+
+### [Saipan.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.secret.md) 

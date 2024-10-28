@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,3 +38,17 @@ Composites can be modelled in 2 ways:
 - normalized/unpivoted: as a Collection of [[Composite/is_part_of|is_part_of]] Relations/Claims, either untyped or typed [[Composite/is_part_of|is_part_of]]  sub-Relations. 
 - denormalized/pivoted: better as typed Classes with named and typed Member-Properties and -Links 
 
+
+## Confidential Links & Embeds: 
+
+### [Composite](/_public/schema-org/Composite.md) 
+
+### [Composite.internal](/_internal/schema-org/Composite.internal.md) 
+
+### [Composite.protect](/_protect/schema-org/Composite.protect.md) 
+
+### [Composite.private](/_private/schema-org/Composite.private.md) 
+
+### [Composite.personal](/_personal/schema-org/Composite.personal.md) 
+
+### [Composite.secret](/_secret/schema-org/Composite.secret.md) 

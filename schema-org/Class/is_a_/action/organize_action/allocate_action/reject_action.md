@@ -49,10 +49,15 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action|reject_action]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.public|reject_action.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.internal|reject_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.protect|reject_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.private|reject_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.personal|reject_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.secret|reject_action.secret]] 
+
+### [reject_action](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.md) 
+
+### [reject_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.internal.md) 
+
+### [reject_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.protect.md) 
+
+### [reject_action.private](/_private/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.private.md) 
+
+### [reject_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.personal.md) 
+
+### [reject_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ hasCategoryCode ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_defined_term|has_defined_term]] 
-- [[../../../../../_public/schema-org/Relation/has/has_defined_term.public|has_defined_term.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_defined_term.internal|has_defined_term.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_defined_term.protect|has_defined_term.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_defined_term.private|has_defined_term.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_defined_term.personal|has_defined_term.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_defined_term.secret|has_defined_term.secret]] 
+
+### [has_defined_term](/_public/schema-org/Relation/has/has_defined_term.md) 
+
+### [has_defined_term.internal](/_internal/schema-org/Relation/has/has_defined_term.internal.md) 
+
+### [has_defined_term.protect](/_protect/schema-org/Relation/has/has_defined_term.protect.md) 
+
+### [has_defined_term.private](/_private/schema-org/Relation/has/has_defined_term.private.md) 
+
+### [has_defined_term.personal](/_personal/schema-org/Relation/has/has_defined_term.personal.md) 
+
+### [has_defined_term.secret](/_secret/schema-org/Relation/has/has_defined_term.secret.md) 

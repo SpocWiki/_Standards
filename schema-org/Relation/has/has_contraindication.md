@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalContraindication, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_contraindication|has_contraindication]] 
-- [[../../../../../_public/schema-org/Relation/has/has_contraindication.public|has_contraindication.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_contraindication.internal|has_contraindication.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_contraindication.protect|has_contraindication.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_contraindication.private|has_contraindication.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_contraindication.personal|has_contraindication.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_contraindication.secret|has_contraindication.secret]] 
+
+### [has_contraindication](/_public/schema-org/Relation/has/has_contraindication.md) 
+
+### [has_contraindication.internal](/_internal/schema-org/Relation/has/has_contraindication.internal.md) 
+
+### [has_contraindication.protect](/_protect/schema-org/Relation/has/has_contraindication.protect.md) 
+
+### [has_contraindication.private](/_private/schema-org/Relation/has/has_contraindication.private.md) 
+
+### [has_contraindication.personal](/_personal/schema-org/Relation/has/has_contraindication.personal.md) 
+
+### [has_contraindication.secret](/_secret/schema-org/Relation/has/has_contraindication.secret.md) 

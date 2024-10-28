@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -9 , 161 ] 
 type: geo-Region
 title: Malaita
@@ -40,11 +40,15 @@ markerFolder: ./Malaita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Solomon~Islands/Counties/Malaita|Malaita]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Solomon~Islands/Counties/Malaita.public|Malaita.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Solomon~Islands/Counties/Malaita.internal|Malaita.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Solomon~Islands/Counties/Malaita.protect|Malaita.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Solomon~Islands/Counties/Malaita.private|Malaita.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Solomon~Islands/Counties/Malaita.personal|Malaita.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Solomon~Islands/Counties/Malaita.secret|Malaita.secret]] 
 
+### [Malaita](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.md) 
+
+### [Malaita.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.internal.md) 
+
+### [Malaita.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.protect.md) 
+
+### [Malaita.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.private.md) 
+
+### [Malaita.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.personal.md) 
+
+### [Malaita.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -12.5 , 177.1 ] 
 type: geo-Region
 title: Rotuma
@@ -40,11 +40,15 @@ markerFolder: ./Rotuma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Fiji/Counties/Rotuma|Rotuma]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Fiji/Counties/Rotuma.public|Rotuma.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Fiji/Counties/Rotuma.internal|Rotuma.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Fiji/Counties/Rotuma.protect|Rotuma.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Fiji/Counties/Rotuma.private|Rotuma.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Fiji/Counties/Rotuma.personal|Rotuma.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Fiji/Counties/Rotuma.secret|Rotuma.secret]] 
 
+### [Rotuma](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.md) 
+
+### [Rotuma.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.internal.md) 
+
+### [Rotuma.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.protect.md) 
+
+### [Rotuma.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.private.md) 
+
+### [Rotuma.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.personal.md) 
+
+### [Rotuma.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.secret.md) 

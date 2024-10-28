@@ -1,4 +1,4 @@
-
+﻿
 
 ```leaflet
 id: Asia
@@ -12,3 +12,17 @@ geojsonFolder: ./Asia~East//
 markerFolder: ./Asia~East/
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Asia~East](/_public/Earth/Continent/Asia/Asia~East.md) 
+
+### [Asia~East.internal](/_internal/Earth/Continent/Asia/Asia~East.internal.md) 
+
+### [Asia~East.protect](/_protect/Earth/Continent/Asia/Asia~East.protect.md) 
+
+### [Asia~East.private](/_private/Earth/Continent/Asia/Asia~East.private.md) 
+
+### [Asia~East.personal](/_personal/Earth/Continent/Asia/Asia~East.personal.md) 
+
+### [Asia~East.secret](/_secret/Earth/Continent/Asia/Asia~East.secret.md) 

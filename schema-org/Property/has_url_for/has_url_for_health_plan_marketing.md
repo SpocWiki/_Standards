@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_health_plan_marketing_url|has_url_for_health_plan_marketing_url]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_health_plan_marketing_url.public|has_url_for_health_plan_marketing_url.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_health_plan_marketing_url.internal|has_url_for_health_plan_marketing_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_health_plan_marketing_url.protect|has_url_for_health_plan_marketing_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_health_plan_marketing_url.private|has_url_for_health_plan_marketing_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_health_plan_marketing_url.personal|has_url_for_health_plan_marketing_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_health_plan_marketing_url.secret|has_url_for_health_plan_marketing_url.secret]] 
+
+### [has_url_for_health_plan_marketing](/_public/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.md) 
+
+### [has_url_for_health_plan_marketing.internal](/_internal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.internal.md) 
+
+### [has_url_for_health_plan_marketing.protect](/_protect/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.protect.md) 
+
+### [has_url_for_health_plan_marketing.private](/_private/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.private.md) 
+
+### [has_url_for_health_plan_marketing.personal](/_personal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.personal.md) 
+
+### [has_url_for_health_plan_marketing.secret](/_secret/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.secret.md) 

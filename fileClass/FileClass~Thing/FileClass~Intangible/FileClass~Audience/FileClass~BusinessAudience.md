@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -66,3 +66,17 @@ The age of the business.
 YearsInOperation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BusinessAudience](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~BusinessAudience.md) 
+
+### [FileClass~BusinessAudience.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~BusinessAudience.internal.md) 
+
+### [FileClass~BusinessAudience.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~BusinessAudience.protect.md) 
+
+### [FileClass~BusinessAudience.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~BusinessAudience.private.md) 
+
+### [FileClass~BusinessAudience.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~BusinessAudience.personal.md) 
+
+### [FileClass~BusinessAudience.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~BusinessAudience.secret.md) 

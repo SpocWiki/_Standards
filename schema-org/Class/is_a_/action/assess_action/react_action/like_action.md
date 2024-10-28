@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/assess_action/react_action/like_action|like_action]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/action/assess_action/react_action/like_action.public|like_action.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action/like_action.internal|like_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/react_action/like_action.protect|like_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/react_action/like_action.private|like_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/react_action/like_action.personal|like_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/react_action/like_action.secret|like_action.secret]] 
+
+### [like_action](/_public/schema-org/Class/is_a_/action/assess_action/react_action/like_action.md) 
+
+### [like_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/react_action/like_action.internal.md) 
+
+### [like_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action/react_action/like_action.protect.md) 
+
+### [like_action.private](/_private/schema-org/Class/is_a_/action/assess_action/react_action/like_action.private.md) 
+
+### [like_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/react_action/like_action.personal.md) 
+
+### [like_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action/like_action.secret.md) 

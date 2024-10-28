@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 icon: package
@@ -31,3 +31,16 @@ fields:
     path: ""
     id: hwBk2m
 ---
+## Confidential Links & Embeds: 
+
+### [FileClass~Scenario](/_public/fileClass/Other/FileClass~Scenario.md) 
+
+### [FileClass~Scenario.internal](/_internal/fileClass/Other/FileClass~Scenario.internal.md) 
+
+### [FileClass~Scenario.protect](/_protect/fileClass/Other/FileClass~Scenario.protect.md) 
+
+### [FileClass~Scenario.private](/_private/fileClass/Other/FileClass~Scenario.private.md) 
+
+### [FileClass~Scenario.personal](/_personal/fileClass/Other/FileClass~Scenario.personal.md) 
+
+### [FileClass~Scenario.secret](/_secret/fileClass/Other/FileClass~Scenario.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 40.42
     - 49.83
@@ -149,10 +149,15 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Asia/Asia~South~West/Azerbaijan|Azerbaijan]] 
-- [[../../../../../_public/Earth/Continent/Asia/Asia~South~West/Azerbaijan.public|Azerbaijan.public]] 
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~West/Azerbaijan.internal|Azerbaijan.internal]] 
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~West/Azerbaijan.protect|Azerbaijan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~West/Azerbaijan.private|Azerbaijan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~West/Azerbaijan.personal|Azerbaijan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~West/Azerbaijan.secret|Azerbaijan.secret]] 
+
+### [Azerbaijan](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.md) 
+
+### [Azerbaijan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal.md) 
+
+### [Azerbaijan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan.protect.md) 
+
+### [Azerbaijan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private.md) 
+
+### [Azerbaijan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal.md) 
+
+### [Azerbaijan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret.md) 

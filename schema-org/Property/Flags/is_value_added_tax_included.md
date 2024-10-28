@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_value_added_tax_included|is_value_added_tax_included]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_value_added_tax_included.public|is_value_added_tax_included.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_value_added_tax_included.internal|is_value_added_tax_included.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_value_added_tax_included.protect|is_value_added_tax_included.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_value_added_tax_included.private|is_value_added_tax_included.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_value_added_tax_included.personal|is_value_added_tax_included.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_value_added_tax_included.secret|is_value_added_tax_included.secret]] 
+
+### [is_value_added_tax_included](/_public/schema-org/Property/Flags/is_value_added_tax_included.md) 
+
+### [is_value_added_tax_included.internal](/_internal/schema-org/Property/Flags/is_value_added_tax_included.internal.md) 
+
+### [is_value_added_tax_included.protect](/_protect/schema-org/Property/Flags/is_value_added_tax_included.protect.md) 
+
+### [is_value_added_tax_included.private](/_private/schema-org/Property/Flags/is_value_added_tax_included.private.md) 
+
+### [is_value_added_tax_included.personal](/_personal/schema-org/Property/Flags/is_value_added_tax_included.personal.md) 
+
+### [is_value_added_tax_included.secret](/_secret/schema-org/Property/Flags/is_value_added_tax_included.secret.md) 

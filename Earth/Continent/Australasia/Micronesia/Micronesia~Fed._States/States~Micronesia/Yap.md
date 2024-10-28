@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 9.5 , 138.1 ] 
 type: geo-Region
 title: Yap
@@ -39,11 +39,15 @@ markerFolder: ./Yap/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Yap|Yap]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.public|Yap.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.internal|Yap.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.protect|Yap.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.private|Yap.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.personal|Yap.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Yap.secret|Yap.secret]] 
 
+### [Yap](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.md) 
+
+### [Yap.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.internal.md) 
+
+### [Yap.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.protect.md) 
+
+### [Yap.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.private.md) 
+
+### [Yap.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.personal.md) 
+
+### [Yap.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.secret.md) 

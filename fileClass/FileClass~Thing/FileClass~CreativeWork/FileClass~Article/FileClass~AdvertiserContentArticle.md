@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An [[Article]] that an external entity has paid to place or to produce to its sp
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~AdvertiserContentArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.md) 
+
+### [FileClass~AdvertiserContentArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.internal.md) 
+
+### [FileClass~AdvertiserContentArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.protect.md) 
+
+### [FileClass~AdvertiserContentArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.private.md) 
+
+### [FileClass~AdvertiserContentArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.personal.md) 
+
+### [FileClass~AdvertiserContentArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.secret.md) 

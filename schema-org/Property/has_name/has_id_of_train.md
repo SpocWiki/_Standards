@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_train_number|has_train_number]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_train_number.public|has_train_number.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_train_number.internal|has_train_number.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_train_number.protect|has_train_number.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_train_number.private|has_train_number.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_train_number.personal|has_train_number.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_train_number.secret|has_train_number.secret]] 
+
+### [has_id_of_train](/_public/schema-org/Property/has_name/has_id_of_train.md) 
+
+### [has_id_of_train.internal](/_internal/schema-org/Property/has_name/has_id_of_train.internal.md) 
+
+### [has_id_of_train.protect](/_protect/schema-org/Property/has_name/has_id_of_train.protect.md) 
+
+### [has_id_of_train.private](/_private/schema-org/Property/has_name/has_id_of_train.private.md) 
+
+### [has_id_of_train.personal](/_personal/schema-org/Property/has_name/has_id_of_train.personal.md) 
+
+### [has_id_of_train.secret](/_secret/schema-org/Property/has_name/has_id_of_train.secret.md) 

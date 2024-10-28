@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_executable_library|has_name_executable_library]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_name_executable_library.public|has_name_executable_library.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name_executable_library.internal|has_name_executable_library.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name_executable_library.protect|has_name_executable_library.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name_executable_library.private|has_name_executable_library.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name_executable_library.personal|has_name_executable_library.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name_executable_library.secret|has_name_executable_library.secret]] 
+
+### [has_name_of_executable_library](/_public/schema-org/Property/has_name/has_name_of_executable_library.md) 
+
+### [has_name_of_executable_library.internal](/_internal/schema-org/Property/has_name/has_name_of_executable_library.internal.md) 
+
+### [has_name_of_executable_library.protect](/_protect/schema-org/Property/has_name/has_name_of_executable_library.protect.md) 
+
+### [has_name_of_executable_library.private](/_private/schema-org/Property/has_name/has_name_of_executable_library.private.md) 
+
+### [has_name_of_executable_library.personal](/_personal/schema-org/Property/has_name/has_name_of_executable_library.personal.md) 
+
+### [has_name_of_executable_library.secret](/_secret/schema-org/Property/has_name/has_name_of_executable_library.secret.md) 

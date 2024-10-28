@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Drug )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_interacting_drug|has_interacting_drug]] 
-- [[../../../../../_public/schema-org/Relation/has/has_interacting_drug.public|has_interacting_drug.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_interacting_drug.internal|has_interacting_drug.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_interacting_drug.protect|has_interacting_drug.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_interacting_drug.private|has_interacting_drug.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_interacting_drug.personal|has_interacting_drug.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_interacting_drug.secret|has_interacting_drug.secret]] 
+
+### [has_interacting_drug](/_public/schema-org/Relation/has/has_interacting_drug.md) 
+
+### [has_interacting_drug.internal](/_internal/schema-org/Relation/has/has_interacting_drug.internal.md) 
+
+### [has_interacting_drug.protect](/_protect/schema-org/Relation/has/has_interacting_drug.protect.md) 
+
+### [has_interacting_drug.private](/_private/schema-org/Relation/has/has_interacting_drug.private.md) 
+
+### [has_interacting_drug.personal](/_personal/schema-org/Relation/has/has_interacting_drug.personal.md) 
+
+### [has_interacting_drug.secret](/_secret/schema-org/Relation/has/has_interacting_drug.secret.md) 

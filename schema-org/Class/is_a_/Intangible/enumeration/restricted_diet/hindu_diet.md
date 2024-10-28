@@ -45,10 +45,15 @@ A diet conforming to Hindu dietary practices, in particular, beef-free.
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/hindu_diet|hindu_diet]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/hindu_diet.public|hindu_diet.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/hindu_diet.internal|hindu_diet.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/hindu_diet.protect|hindu_diet.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/hindu_diet.private|hindu_diet.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/hindu_diet.personal|hindu_diet.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/hindu_diet.secret|hindu_diet.secret]] 
+
+### [hindu_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.md) 
+
+### [hindu_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.internal.md) 
+
+### [hindu_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.protect.md) 
+
+### [hindu_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.private.md) 
+
+### [hindu_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.personal.md) 
+
+### [hindu_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.secret.md) 

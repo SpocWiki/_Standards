@@ -43,10 +43,15 @@ A short segment/part of a movie.
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, actor, actors, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, clipNumber, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, director, directors, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, endOffset, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, musicBy, name, offers, partOfEpisode, partOfSeason, partOfSeries, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, startOffset, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/creative_work/clip/movie_clip|movie_clip]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/creative_work/clip/movie_clip.public|movie_clip.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/clip/movie_clip.internal|movie_clip.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/clip/movie_clip.protect|movie_clip.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/clip/movie_clip.private|movie_clip.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/clip/movie_clip.personal|movie_clip.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/clip/movie_clip.secret|movie_clip.secret]] 
+
+### [movie_clip](/_public/schema-org/Class/is_a_/creative_work/clip/movie_clip.md) 
+
+### [movie_clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip/movie_clip.internal.md) 
+
+### [movie_clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip/movie_clip.protect.md) 
+
+### [movie_clip.private](/_private/schema-org/Class/is_a_/creative_work/clip/movie_clip.private.md) 
+
+### [movie_clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip/movie_clip.personal.md) 
+
+### [movie_clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip/movie_clip.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ recipeInstructions ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_step|has_step]] 
-- [[../../../../../_public/schema-org/Relation/has/has_step.public|has_step.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_step.internal|has_step.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_step.protect|has_step.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_step.private|has_step.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_step.personal|has_step.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_step.secret|has_step.secret]] 
+
+### [has_step](/_public/schema-org/Relation/has/has_step.md) 
+
+### [has_step.internal](/_internal/schema-org/Relation/has/has_step.internal.md) 
+
+### [has_step.protect](/_protect/schema-org/Relation/has/has_step.protect.md) 
+
+### [has_step.private](/_private/schema-org/Relation/has/has_step.private.md) 
+
+### [has_step.personal](/_personal/schema-org/Relation/has/has_step.personal.md) 
+
+### [has_step.secret](/_secret/schema-org/Relation/has/has_step.secret.md) 

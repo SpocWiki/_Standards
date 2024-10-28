@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -31,3 +31,17 @@ A city or town.
 
 ## Properties:
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~City](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.md) 
+
+### [FileClass~City.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.internal.md) 
+
+### [FileClass~City.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.protect.md) 
+
+### [FileClass~City.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.private.md) 
+
+### [FileClass~City.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.personal.md) 
+
+### [FileClass~City.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~City.secret.md) 

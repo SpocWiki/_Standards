@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 17.25
     - -88.7667
@@ -142,9 +142,15 @@ Capital :: [[Belize/Counties/Cayo/City/Belmopan]]
 
 
 ## Confidential Links & Embeds: 
-- [[Belize|Belize]] 
-- [[../../../../_internal/Earth/Continent/America~Central/Belize.internal|Belize.internal]] 
-- [[../../../../_protect/Earth/Continent/America~Central/Belize.protect|Belize.protect]] 
-- [[../../../../_private/Earth/Continent/America~Central/Belize.private|Belize.private]] 
-- [[../../../../_personal/Earth/Continent/America~Central/Belize.personal|Belize.personal]] 
-- [[../../../../_secret/Earth/Continent/America~Central/Belize.secret|Belize.secret]] 
+
+### [Belize](/_public/Earth/Continent/America~Central/Belize.md) 
+
+### [Belize.internal](/_internal/Earth/Continent/America~Central/Belize.internal.md) 
+
+### [Belize.protect](/_protect/Earth/Continent/America~Central/Belize.protect.md) 
+
+### [Belize.private](/_private/Earth/Continent/America~Central/Belize.private.md) 
+
+### [Belize.personal](/_personal/Earth/Continent/America~Central/Belize.personal.md) 
+
+### [Belize.secret](/_secret/Earth/Continent/America~Central/Belize.secret.md) 

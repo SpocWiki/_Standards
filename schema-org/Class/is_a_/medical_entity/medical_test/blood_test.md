@@ -43,10 +43,15 @@ A medical test performed on a sample of a patient's blood.
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_test/blood_test|blood_test]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.public|blood_test.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test/blood_test.internal|blood_test.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_test/blood_test.protect|blood_test.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_test/blood_test.private|blood_test.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_test/blood_test.personal|blood_test.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_test/blood_test.secret|blood_test.secret]] 
+
+### [blood_test](/_public/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.md) 
+
+### [blood_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.internal.md) 
+
+### [blood_test.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.protect.md) 
+
+### [blood_test.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.private.md) 
+
+### [blood_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.personal.md) 
+
+### [blood_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.secret.md) 

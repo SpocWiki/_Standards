@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, codeValue, description, disambiguatingDescription, identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/defined_term/category_code|category_code]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/defined_term/category_code.public|category_code.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/defined_term/category_code.internal|category_code.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/defined_term/category_code.protect|category_code.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/defined_term/category_code.private|category_code.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/defined_term/category_code.personal|category_code.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/defined_term/category_code.secret|category_code.secret]] 
+
+### [category_code](/_public/schema-org/Class/is_a_/Intangible/defined_term/category_code.md) 
+
+### [category_code.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term/category_code.internal.md) 
+
+### [category_code.protect](/_protect/schema-org/Class/is_a_/Intangible/defined_term/category_code.protect.md) 
+
+### [category_code.private](/_private/schema-org/Class/is_a_/Intangible/defined_term/category_code.private.md) 
+
+### [category_code.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term/category_code.personal.md) 
+
+### [category_code.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term/category_code.secret.md) 

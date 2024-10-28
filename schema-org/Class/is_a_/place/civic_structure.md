@@ -45,10 +45,15 @@ A public structure, such as a town hall or concert hall.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure|civic_structure]] 
-- [[../../../../../_public/schema-org/Class/is_a_/place/civic_structure.public|civic_structure.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/place/civic_structure.internal|civic_structure.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/place/civic_structure.protect|civic_structure.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/place/civic_structure.private|civic_structure.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/place/civic_structure.personal|civic_structure.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/place/civic_structure.secret|civic_structure.secret]] 
+
+### [civic_structure](/_public/schema-org/Class/is_a_/place/civic_structure.md) 
+
+### [civic_structure.internal](/_internal/schema-org/Class/is_a_/place/civic_structure.internal.md) 
+
+### [civic_structure.protect](/_protect/schema-org/Class/is_a_/place/civic_structure.protect.md) 
+
+### [civic_structure.private](/_private/schema-org/Class/is_a_/place/civic_structure.private.md) 
+
+### [civic_structure.personal](/_personal/schema-org/Class/is_a_/place/civic_structure.personal.md) 
+
+### [civic_structure.secret](/_secret/schema-org/Class/is_a_/place/civic_structure.secret.md) 

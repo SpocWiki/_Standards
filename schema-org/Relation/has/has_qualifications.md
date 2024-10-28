@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: EducationalOccupationalCredential, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_qualifications|has_qualifications]] 
-- [[../../../../../_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_qualifications.internal|has_qualifications.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_qualifications.protect|has_qualifications.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_qualifications.private|has_qualifications.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_qualifications.personal|has_qualifications.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_qualifications.secret|has_qualifications.secret]] 
+
+### [has_qualifications](/_public/schema-org/Relation/has/has_qualifications.md) 
+
+### [has_qualifications.internal](/_internal/schema-org/Relation/has/has_qualifications.internal.md) 
+
+### [has_qualifications.protect](/_protect/schema-org/Relation/has/has_qualifications.protect.md) 
+
+### [has_qualifications.private](/_private/schema-org/Relation/has/has_qualifications.private.md) 
+
+### [has_qualifications.personal](/_personal/schema-org/Relation/has/has_qualifications.personal.md) 
+
+### [has_qualifications.secret](/_secret/schema-org/Relation/has/has_qualifications.secret.md) 

@@ -1,34 +1,30 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_id_issn
 linkTitle: has_id_issn
-
-keywords: [id_issn]
+keywords:
+  - id_issn
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- id_issn
-- id_issn
-- id_issn
-- has_id_issn
+  - id_issn
+  - has_id_issn
+  - schema:issn
+  - dbo:issn
+  - wdt:P236
 ---
 
 Predicate to describe the Text of Blog, CreativeWorkSeries, Dataset, WebSite.
@@ -47,10 +43,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_issn|has_id_issn]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_issn.public|has_id_issn.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_issn.internal|has_id_issn.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_issn.protect|has_id_issn.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_issn.private|has_id_issn.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_issn.personal|has_id_issn.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_issn.secret|has_id_issn.secret]] 
+
+### [has_id_issn](/_public/schema-org/Property/has_name/has_id_issn.md) 
+
+### [has_id_issn.internal](/_internal/schema-org/Property/has_name/has_id_issn.internal.md) 
+
+### [has_id_issn.protect](/_protect/schema-org/Property/has_name/has_id_issn.protect.md) 
+
+### [has_id_issn.private](/_private/schema-org/Property/has_name/has_id_issn.private.md) 
+
+### [has_id_issn.personal](/_personal/schema-org/Property/has_name/has_id_issn.personal.md) 
+
+### [has_id_issn.secret](/_secret/schema-org/Property/has_name/has_id_issn.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: GenderType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_suggested_gender|has_suggested_gender]] 
-- [[../../../../../_public/schema-org/Relation/has/has_suggested_gender.public|has_suggested_gender.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_suggested_gender.internal|has_suggested_gender.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_suggested_gender.protect|has_suggested_gender.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_suggested_gender.private|has_suggested_gender.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_suggested_gender.personal|has_suggested_gender.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_suggested_gender.secret|has_suggested_gender.secret]] 
+
+### [has_suggested_gender](/_public/schema-org/Relation/has/has_suggested_gender.md) 
+
+### [has_suggested_gender.internal](/_internal/schema-org/Relation/has/has_suggested_gender.internal.md) 
+
+### [has_suggested_gender.protect](/_protect/schema-org/Relation/has/has_suggested_gender.protect.md) 
+
+### [has_suggested_gender.private](/_private/schema-org/Relation/has/has_suggested_gender.private.md) 
+
+### [has_suggested_gender.personal](/_personal/schema-org/Relation/has/has_suggested_gender.personal.md) 
+
+### [has_suggested_gender.secret](/_secret/schema-org/Relation/has/has_suggested_gender.secret.md) 

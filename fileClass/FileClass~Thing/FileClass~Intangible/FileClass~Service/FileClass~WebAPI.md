@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,3 +44,17 @@ Further documentation describing the Web API in more detail.
 Documentation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~WebAPI](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.md) 
+
+### [FileClass~WebAPI.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.internal.md) 
+
+### [FileClass~WebAPI.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.protect.md) 
+
+### [FileClass~WebAPI.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.private.md) 
+
+### [FileClass~WebAPI.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.personal.md) 
+
+### [FileClass~WebAPI.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.secret.md) 

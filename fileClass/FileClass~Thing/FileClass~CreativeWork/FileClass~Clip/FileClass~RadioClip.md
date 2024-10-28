@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A short radio program or a segment/part of a radio program.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~RadioClip](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.md) 
+
+### [FileClass~RadioClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.internal.md) 
+
+### [FileClass~RadioClip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.protect.md) 
+
+### [FileClass~RadioClip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.private.md) 
+
+### [FileClass~RadioClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.personal.md) 
+
+### [FileClass~RadioClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.secret.md) 

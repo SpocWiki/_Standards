@@ -1,33 +1,30 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_license
-
 linkTitle: has_license
-keywords: [license]
+keywords:
+  - license
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- license
-- license
-- license
-- has_license
+  - license
+  - has_license
+  - schema:license
+  - dbo:license
+  - wdt:P275
 ---
 
 Use it like this: 
@@ -42,10 +39,15 @@ Relation describes that:
 ( #has_/range :: CreativeWork, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_license|has_license]] 
-- [[../../../../../_public/schema-org/Relation/has/has_license.public|has_license.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_license.internal|has_license.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_license.protect|has_license.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_license.private|has_license.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_license.personal|has_license.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_license.secret|has_license.secret]] 
+
+### [has_license](/_public/schema-org/Relation/has/has_license.md) 
+
+### [has_license.internal](/_internal/schema-org/Relation/has/has_license.internal.md) 
+
+### [has_license.protect](/_protect/schema-org/Relation/has/has_license.protect.md) 
+
+### [has_license.private](/_private/schema-org/Relation/has/has_license.private.md) 
+
+### [has_license.personal](/_personal/schema-org/Relation/has/has_license.personal.md) 
+
+### [has_license.secret](/_secret/schema-org/Relation/has/has_license.secret.md) 

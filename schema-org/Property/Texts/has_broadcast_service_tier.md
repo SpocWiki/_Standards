@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_broadcast_service_tier|has_broadcast_service_tier]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_broadcast_service_tier.public|has_broadcast_service_tier.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_broadcast_service_tier.internal|has_broadcast_service_tier.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_broadcast_service_tier.protect|has_broadcast_service_tier.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_broadcast_service_tier.private|has_broadcast_service_tier.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_broadcast_service_tier.personal|has_broadcast_service_tier.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_broadcast_service_tier.secret|has_broadcast_service_tier.secret]] 
+
+### [has_broadcast_service_tier](/_public/schema-org/Property/Texts/has_broadcast_service_tier.md) 
+
+### [has_broadcast_service_tier.internal](/_internal/schema-org/Property/Texts/has_broadcast_service_tier.internal.md) 
+
+### [has_broadcast_service_tier.protect](/_protect/schema-org/Property/Texts/has_broadcast_service_tier.protect.md) 
+
+### [has_broadcast_service_tier.private](/_private/schema-org/Property/Texts/has_broadcast_service_tier.private.md) 
+
+### [has_broadcast_service_tier.personal](/_personal/schema-org/Property/Texts/has_broadcast_service_tier.personal.md) 
+
+### [has_broadcast_service_tier.secret](/_secret/schema-org/Property/Texts/has_broadcast_service_tier.secret.md) 

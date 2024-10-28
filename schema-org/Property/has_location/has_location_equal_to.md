@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,10 +50,15 @@ Predicate describes that:
 ( #has_/range :: GeospatialGeometry, Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_equal_to|has_location_equal_to]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_equal_to.public|has_location_equal_to.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_equal_to.internal|has_location_equal_to.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_equal_to.protect|has_location_equal_to.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_equal_to.private|has_location_equal_to.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_equal_to.personal|has_location_equal_to.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_equal_to.secret|has_location_equal_to.secret]] 
+
+### [has_location_equal_to](/_public/schema-org/Property/has_location/has_location_equal_to.md) 
+
+### [has_location_equal_to.internal](/_internal/schema-org/Property/has_location/has_location_equal_to.internal.md) 
+
+### [has_location_equal_to.protect](/_protect/schema-org/Property/has_location/has_location_equal_to.protect.md) 
+
+### [has_location_equal_to.private](/_private/schema-org/Property/has_location/has_location_equal_to.private.md) 
+
+### [has_location_equal_to.personal](/_personal/schema-org/Property/has_location/has_location_equal_to.personal.md) 
+
+### [has_location_equal_to.secret](/_secret/schema-org/Property/has_location/has_location_equal_to.secret.md) 

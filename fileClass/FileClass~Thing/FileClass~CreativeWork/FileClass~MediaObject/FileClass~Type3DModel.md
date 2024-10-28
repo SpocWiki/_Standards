@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,3 +44,17 @@ Whether the 3DModel allows resizing. For example, room layout applications often
 IsResizable:: {"type":"Boolean","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Type3DModel](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.md) 
+
+### [FileClass~Type3DModel.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.internal.md) 
+
+### [FileClass~Type3DModel.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.protect.md) 
+
+### [FileClass~Type3DModel.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.private.md) 
+
+### [FileClass~Type3DModel.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.personal.md) 
+
+### [FileClass~Type3DModel.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.secret.md) 

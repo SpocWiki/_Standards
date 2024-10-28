@@ -45,10 +45,15 @@ Indicates that the event was changed to allow online participation. See [[eventA
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online|event_moved_online]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.public|event_moved_online.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.internal|event_moved_online.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.protect|event_moved_online.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.private|event_moved_online.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.personal|event_moved_online.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.secret|event_moved_online.secret]] 
+
+### [event_moved_online](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.md) 
+
+### [event_moved_online.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.internal.md) 
+
+### [event_moved_online.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.protect.md) 
+
+### [event_moved_online.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.private.md) 
+
+### [event_moved_online.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.personal.md) 
+
+### [event_moved_online.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.secret.md) 

@@ -1,4 +1,4 @@
-# [[Era~3~Mesoarchean]] 
+﻿# [[Era~3~Mesoarchean]] 
 
 #is_a_/time_/Era 
 
@@ -53,3 +53,16 @@ noteOnly: true
 
 
 `$=dv.current().has_labelsv`
+## Confidential Links & Embeds: 
+
+### [Era~3~Mesoarchean](/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.md) 
+
+### [Era~3~Mesoarchean.internal](/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.internal.md) 
+
+### [Era~3~Mesoarchean.protect](/_protect/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.protect.md) 
+
+### [Era~3~Mesoarchean.private](/_private/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.private.md) 
+
+### [Era~3~Mesoarchean.personal](/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.personal.md) 
+
+### [Era~3~Mesoarchean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.secret.md) 

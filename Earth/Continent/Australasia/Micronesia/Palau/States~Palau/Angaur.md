@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 6.91 , 134.16 ] 
 type: geo-Region
 title: Angaur
@@ -40,11 +40,15 @@ markerFolder: ./Angaur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Angaur|Angaur]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Angaur.public|Angaur.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Angaur.internal|Angaur.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Angaur.protect|Angaur.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Angaur.private|Angaur.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Angaur.personal|Angaur.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Angaur.secret|Angaur.secret]] 
 
+### [Angaur](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.md) 
+
+### [Angaur.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.internal.md) 
+
+### [Angaur.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.protect.md) 
+
+### [Angaur.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.private.md) 
+
+### [Angaur.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.personal.md) 
+
+### [Angaur.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Angaur.secret.md) 

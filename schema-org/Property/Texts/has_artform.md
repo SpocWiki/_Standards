@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_artform|has_artform]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_artform.public|has_artform.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_artform.internal|has_artform.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_artform.protect|has_artform.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_artform.private|has_artform.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_artform.personal|has_artform.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_artform.secret|has_artform.secret]] 
+
+### [has_artform](/_public/schema-org/Property/Texts/has_artform.md) 
+
+### [has_artform.internal](/_internal/schema-org/Property/Texts/has_artform.internal.md) 
+
+### [has_artform.protect](/_protect/schema-org/Property/Texts/has_artform.protect.md) 
+
+### [has_artform.private](/_private/schema-org/Property/Texts/has_artform.private.md) 
+
+### [has_artform.personal](/_personal/schema-org/Property/Texts/has_artform.personal.md) 
+
+### [has_artform.secret](/_secret/schema-org/Property/Texts/has_artform.secret.md) 

@@ -43,10 +43,15 @@ An EventAttendanceModeEnumeration value is one of potentially several modes of o
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration|event_attendance_mode_enumeration]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.public|event_attendance_mode_enumeration.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.internal|event_attendance_mode_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.protect|event_attendance_mode_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.private|event_attendance_mode_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.personal|event_attendance_mode_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.secret|event_attendance_mode_enumeration.secret]] 
+
+### [event_attendance_mode_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.md) 
+
+### [event_attendance_mode_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.internal.md) 
+
+### [event_attendance_mode_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.protect.md) 
+
+### [event_attendance_mode_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.private.md) 
+
+### [event_attendance_mode_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.personal.md) 
+
+### [event_attendance_mode_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.secret.md) 

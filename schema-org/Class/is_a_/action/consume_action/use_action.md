@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,10 +39,15 @@ Tag Instances like this:
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/consume_action/use_action|use_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/consume_action/use_action.public|use_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/use_action.internal|use_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/use_action.protect|use_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/use_action.private|use_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/use_action.personal|use_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/use_action.secret|use_action.secret]] 
+
+### [use_action](/_public/schema-org/Class/is_a_/action/consume_action/use_action.md) 
+
+### [use_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/use_action.internal.md) 
+
+### [use_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/use_action.protect.md) 
+
+### [use_action.private](/_private/schema-org/Class/is_a_/action/consume_action/use_action.private.md) 
+
+### [use_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/use_action.personal.md) 
+
+### [use_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/use_action.secret.md) 

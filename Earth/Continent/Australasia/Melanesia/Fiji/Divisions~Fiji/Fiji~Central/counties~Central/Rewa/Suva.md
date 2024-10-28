@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -18.16667, 178.45 ] 
 mapmarker: city 
 type: City
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Suva|Suva]]  
-- [[../../../../../../_internal/Earth/Continent/Oceania/Fiji/City/Suva.internal|Suva.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Fiji/City/Suva.protect|Suva.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Fiji/City/Suva.private|Suva.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Fiji/City/Suva.personal|Suva.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Fiji/City/Suva.secret|Suva.secret]] 
+
+### [Suva](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.md) 
+
+### [Suva.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.internal.md) 
+
+### [Suva.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.protect.md) 
+
+### [Suva.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.private.md) 
+
+### [Suva.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.personal.md) 
+
+### [Suva.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.secret.md) 

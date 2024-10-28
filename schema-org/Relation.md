@@ -1,4 +1,4 @@
----
+﻿---
 type: Property
 license: CC BY-SA 4.0
 publish: true
@@ -65,10 +65,15 @@ The Complement is typically much larger than the Relation!
 That is why it is usually less helpful
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/schema-org/Predicate/Property|Property]] 
-- [[../../../_public/schema-org/Predicate/Property.public|Property.public]] 
-- [[../../../_internal/schema.org/Predicate/Property.internal|Property.internal]] 
-- [[../../../_protect/schema.org/Predicate/Property.protect|Property.protect]] 
-- [[../../../_private/schema.org/Predicate/Property.private|Property.private]] 
-- [[../../../_personal/schema.org/Predicate/Property.personal|Property.personal]] 
-- [[../../../_secret/schema.org/Predicate/Property.secret|Property.secret]] 
+
+### [Relation](/_public/schema-org/Relation.md) 
+
+### [Relation.internal](/_internal/schema-org/Relation.internal.md) 
+
+### [Relation.protect](/_protect/schema-org/Relation.protect.md) 
+
+### [Relation.private](/_private/schema-org/Relation.private.md) 
+
+### [Relation.personal](/_personal/schema-org/Relation.personal.md) 
+
+### [Relation.secret](/_secret/schema-org/Relation.secret.md) 

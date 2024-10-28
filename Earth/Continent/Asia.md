@@ -1,4 +1,4 @@
----
+﻿---
 type: Continent
 confidential: public
 has_id_wikidata: Q48 
@@ -29,10 +29,15 @@ markerFolder: ./Asia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/Earth/Continent/Asia|Asia]] 
-- [[../../../_public/Earth/Continent/Asia.public|Asia.public]] 
-- [[../../../_internal/Earth/Continent/Asia.internal|Asia.internal]] 
-- [[../../../_protect/Earth/Continent/Asia.protect|Asia.protect]] 
-- [[../../../_private/Earth/Continent/Asia.private|Asia.private]] 
-- [[../../../_personal/Earth/Continent/Asia.personal|Asia.personal]] 
-- [[../../../_secret/Earth/Continent/Asia.secret|Asia.secret]] 
+
+### [Asia](/_public/Earth/Continent/Asia.md) 
+
+### [Asia.internal](/_internal/Earth/Continent/Asia.internal.md) 
+
+### [Asia.protect](/_protect/Earth/Continent/Asia.protect.md) 
+
+### [Asia.private](/_private/Earth/Continent/Asia.private.md) 
+
+### [Asia.personal](/_personal/Earth/Continent/Asia.personal.md) 
+
+### [Asia.secret](/_secret/Earth/Continent/Asia.secret.md) 

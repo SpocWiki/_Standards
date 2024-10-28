@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MediaObject, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_after_media|has_after_media]] 
-- [[../../../../../_public/schema-org/Relation/has/has_after_media.public|has_after_media.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_after_media.internal|has_after_media.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_after_media.protect|has_after_media.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_after_media.private|has_after_media.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_after_media.personal|has_after_media.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_after_media.secret|has_after_media.secret]] 
+
+### [has_after_media](/_public/schema-org/Relation/has/has_after_media.md) 
+
+### [has_after_media.internal](/_internal/schema-org/Relation/has/has_after_media.internal.md) 
+
+### [has_after_media.protect](/_protect/schema-org/Relation/has/has_after_media.protect.md) 
+
+### [has_after_media.private](/_private/schema-org/Relation/has/has_after_media.private.md) 
+
+### [has_after_media.personal](/_personal/schema-org/Relation/has/has_after_media.personal.md) 
+
+### [has_after_media.secret](/_secret/schema-org/Relation/has/has_after_media.secret.md) 

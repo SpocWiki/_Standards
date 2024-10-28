@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalObservationalStudyDesign )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_study_design|has_study_design]] 
-- [[../../../../../_public/schema-org/Relation/has/has_study_design.public|has_study_design.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_study_design.internal|has_study_design.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_study_design.protect|has_study_design.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_study_design.private|has_study_design.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_study_design.personal|has_study_design.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_study_design.secret|has_study_design.secret]] 
+
+### [has_study_design](/_public/schema-org/Relation/has/has_study_design.md) 
+
+### [has_study_design.internal](/_internal/schema-org/Relation/has/has_study_design.internal.md) 
+
+### [has_study_design.protect](/_protect/schema-org/Relation/has/has_study_design.protect.md) 
+
+### [has_study_design.private](/_private/schema-org/Relation/has/has_study_design.private.md) 
+
+### [has_study_design.personal](/_personal/schema-org/Relation/has/has_study_design.personal.md) 
+
+### [has_study_design.secret](/_secret/schema-org/Relation/has/has_study_design.secret.md) 

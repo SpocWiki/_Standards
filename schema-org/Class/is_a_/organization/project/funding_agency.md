@@ -49,10 +49,15 @@ Examples of funding agencies include ERC, REA, NIH, Bill and Melinda Gates Found
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/project/funding_agency|funding_agency]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/organization/project/funding_agency.public|funding_agency.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/organization/project/funding_agency.internal|funding_agency.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/organization/project/funding_agency.protect|funding_agency.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/organization/project/funding_agency.private|funding_agency.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/organization/project/funding_agency.personal|funding_agency.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/organization/project/funding_agency.secret|funding_agency.secret]] 
+
+### [funding_agency](/_public/schema-org/Class/is_a_/organization/project/funding_agency.md) 
+
+### [funding_agency.internal](/_internal/schema-org/Class/is_a_/organization/project/funding_agency.internal.md) 
+
+### [funding_agency.protect](/_protect/schema-org/Class/is_a_/organization/project/funding_agency.protect.md) 
+
+### [funding_agency.private](/_private/schema-org/Class/is_a_/organization/project/funding_agency.private.md) 
+
+### [funding_agency.personal](/_personal/schema-org/Class/is_a_/organization/project/funding_agency.personal.md) 
+
+### [funding_agency.secret](/_secret/schema-org/Class/is_a_/organization/project/funding_agency.secret.md) 

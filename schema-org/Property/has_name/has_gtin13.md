@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: gtin, identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_gtin13|has_gtin13]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_gtin13.public|has_gtin13.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_gtin13.internal|has_gtin13.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_gtin13.protect|has_gtin13.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_gtin13.private|has_gtin13.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_gtin13.personal|has_gtin13.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_gtin13.secret|has_gtin13.secret]] 
+
+### [has_gtin13](/_public/schema-org/Property/has_name/has_gtin13.md) 
+
+### [has_gtin13.internal](/_internal/schema-org/Property/has_name/has_gtin13.internal.md) 
+
+### [has_gtin13.protect](/_protect/schema-org/Property/has_name/has_gtin13.protect.md) 
+
+### [has_gtin13.private](/_private/schema-org/Property/has_name/has_gtin13.private.md) 
+
+### [has_gtin13.personal](/_personal/schema-org/Property/has_name/has_gtin13.personal.md) 
+
+### [has_gtin13.secret](/_secret/schema-org/Property/has_name/has_gtin13.secret.md) 

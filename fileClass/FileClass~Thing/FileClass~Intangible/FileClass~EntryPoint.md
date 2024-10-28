@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -89,3 +89,17 @@ An url template (RFC6570) that will be used to construct the target of the execu
 UrlTemplate:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~EntryPoint](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.md) 
+
+### [FileClass~EntryPoint.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.internal.md) 
+
+### [FileClass~EntryPoint.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.protect.md) 
+
+### [FileClass~EntryPoint.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.private.md) 
+
+### [FileClass~EntryPoint.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.personal.md) 
+
+### [FileClass~EntryPoint.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EntryPoint.secret.md) 

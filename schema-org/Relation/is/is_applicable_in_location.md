@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: AdministrativeArea )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_applicable_in_location|is_applicable_in_location]] 
-- [[../../../../../_public/schema-org/Relation/is/is_applicable_in_location.public|is_applicable_in_location.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_applicable_in_location.internal|is_applicable_in_location.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_applicable_in_location.protect|is_applicable_in_location.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_applicable_in_location.private|is_applicable_in_location.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_applicable_in_location.personal|is_applicable_in_location.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_applicable_in_location.secret|is_applicable_in_location.secret]] 
+
+### [is_applicable_in_location](/_public/schema-org/Relation/is/is_applicable_in_location.md) 
+
+### [is_applicable_in_location.internal](/_internal/schema-org/Relation/is/is_applicable_in_location.internal.md) 
+
+### [is_applicable_in_location.protect](/_protect/schema-org/Relation/is/is_applicable_in_location.protect.md) 
+
+### [is_applicable_in_location.private](/_private/schema-org/Relation/is/is_applicable_in_location.private.md) 
+
+### [is_applicable_in_location.personal](/_personal/schema-org/Relation/is/is_applicable_in_location.personal.md) 
+
+### [is_applicable_in_location.secret](/_secret/schema-org/Relation/is/is_applicable_in_location.secret.md) 

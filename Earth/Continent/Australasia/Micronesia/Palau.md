@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 7.35
     - 134.467
@@ -144,10 +144,15 @@ Capital :: [[Melekeok]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Palau|Palau]] 
-- [[../../../../_public/Earth/Continent/Oceania/Palau.public|Palau.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Palau.internal|Palau.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Palau.protect|Palau.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Palau.private|Palau.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Palau.personal|Palau.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Palau.secret|Palau.secret]] 
+
+### [Palau](/_public/Earth/Continent/Australasia/Micronesia/Palau.md) 
+
+### [Palau.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal.md) 
+
+### [Palau.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau.protect.md) 
+
+### [Palau.private](/_private/Earth/Continent/Australasia/Micronesia/Palau.private.md) 
+
+### [Palau.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal.md) 
+
+### [Palau.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret.md) 

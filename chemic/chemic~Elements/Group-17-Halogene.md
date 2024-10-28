@@ -1,4 +1,4 @@
----
+﻿---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -16,10 +16,15 @@ type: ElementGroup
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/chemic/Elements/Group-17-Halogene|Group-17-Halogene]] 
-- [[../../../_public/chemic/Elements/Group-17-Halogene.public|Group-17-Halogene.public]] 
-- [[../../../_internal/chemic/Elements/Group-17-Halogene.internal|Group-17-Halogene.internal]] 
-- [[../../../_protect/chemic/Elements/Group-17-Halogene.protect|Group-17-Halogene.protect]] 
-- [[../../../_private/chemic/Elements/Group-17-Halogene.private|Group-17-Halogene.private]] 
-- [[../../../_personal/chemic/Elements/Group-17-Halogene.personal|Group-17-Halogene.personal]] 
-- [[../../../_secret/chemic/Elements/Group-17-Halogene.secret|Group-17-Halogene.secret]] 
+
+### [Group-17-Halogene](/_public/chemic/chemic~Elements/Group-17-Halogene.md) 
+
+### [Group-17-Halogene.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene.internal.md) 
+
+### [Group-17-Halogene.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene.protect.md) 
+
+### [Group-17-Halogene.private](/_private/chemic/chemic~Elements/Group-17-Halogene.private.md) 
+
+### [Group-17-Halogene.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene.personal.md) 
+
+### [Group-17-Halogene.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene.secret.md) 

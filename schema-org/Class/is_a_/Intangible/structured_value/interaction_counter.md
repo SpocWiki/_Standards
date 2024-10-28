@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage, name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/interaction_counter|interaction_counter]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/interaction_counter.public|interaction_counter.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/interaction_counter.internal|interaction_counter.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/interaction_counter.protect|interaction_counter.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/interaction_counter.private|interaction_counter.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/interaction_counter.personal|interaction_counter.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/interaction_counter.secret|interaction_counter.secret]] 
+
+### [interaction_counter](/_public/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.md) 
+
+### [interaction_counter.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.internal.md) 
+
+### [interaction_counter.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.protect.md) 
+
+### [interaction_counter.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.private.md) 
+
+### [interaction_counter.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.personal.md) 
+
+### [interaction_counter.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.secret.md) 

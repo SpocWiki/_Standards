@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ Residence type: Single-family home.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SingleFamilyResidence](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.md) 
+
+### [FileClass~SingleFamilyResidence.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.internal.md) 
+
+### [FileClass~SingleFamilyResidence.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.protect.md) 
+
+### [FileClass~SingleFamilyResidence.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.private.md) 
+
+### [FileClass~SingleFamilyResidence.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.personal.md) 
+
+### [FileClass~SingleFamilyResidence.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.secret.md) 

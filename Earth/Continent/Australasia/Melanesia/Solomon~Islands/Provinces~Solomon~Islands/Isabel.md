@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -8 , 159.2 ] 
 type: geo-Region
 title: Isabel
@@ -40,11 +40,15 @@ markerFolder: ./Isabel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Solomon~Islands/Counties/Isabel|Isabel]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Solomon~Islands/Counties/Isabel.public|Isabel.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Solomon~Islands/Counties/Isabel.internal|Isabel.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Solomon~Islands/Counties/Isabel.protect|Isabel.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Solomon~Islands/Counties/Isabel.private|Isabel.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Solomon~Islands/Counties/Isabel.personal|Isabel.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Solomon~Islands/Counties/Isabel.secret|Isabel.secret]] 
 
+### [Isabel](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.md) 
+
+### [Isabel.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.internal.md) 
+
+### [Isabel.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.protect.md) 
+
+### [Isabel.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.private.md) 
+
+### [Isabel.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.personal.md) 
+
+### [Isabel.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.secret.md) 

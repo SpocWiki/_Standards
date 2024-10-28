@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_smoking_allowed|is_smoking_allowed]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_smoking_allowed.public|is_smoking_allowed.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_smoking_allowed.internal|is_smoking_allowed.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_smoking_allowed.protect|is_smoking_allowed.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_smoking_allowed.private|is_smoking_allowed.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_smoking_allowed.personal|is_smoking_allowed.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_smoking_allowed.secret|is_smoking_allowed.secret]] 
+
+### [is_smoking_allowed](/_public/schema-org/Property/Flags/is_smoking_allowed.md) 
+
+### [is_smoking_allowed.internal](/_internal/schema-org/Property/Flags/is_smoking_allowed.internal.md) 
+
+### [is_smoking_allowed.protect](/_protect/schema-org/Property/Flags/is_smoking_allowed.protect.md) 
+
+### [is_smoking_allowed.private](/_private/schema-org/Property/Flags/is_smoking_allowed.private.md) 
+
+### [is_smoking_allowed.personal](/_personal/schema-org/Property/Flags/is_smoking_allowed.personal.md) 
+
+### [is_smoking_allowed.secret](/_secret/schema-org/Property/Flags/is_smoking_allowed.secret.md) 

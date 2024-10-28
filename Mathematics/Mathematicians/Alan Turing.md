@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Alan Turing
 ---
@@ -69,3 +69,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Alan Turing](/_public/Mathematics/Mathematicians/Alan Turing.md) 
+
+### [Alan Turing.internal](/_internal/Mathematics/Mathematicians/Alan Turing.internal.md) 
+
+### [Alan Turing.protect](/_protect/Mathematics/Mathematicians/Alan Turing.protect.md) 
+
+### [Alan Turing.private](/_private/Mathematics/Mathematicians/Alan Turing.private.md) 
+
+### [Alan Turing.personal](/_personal/Mathematics/Mathematicians/Alan Turing.personal.md) 
+
+### [Alan Turing.secret](/_secret/Mathematics/Mathematicians/Alan Turing.secret.md) 

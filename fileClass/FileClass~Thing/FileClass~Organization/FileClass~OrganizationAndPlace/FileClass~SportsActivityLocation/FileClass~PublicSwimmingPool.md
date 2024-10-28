@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A public swimming pool.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PublicSwimmingPool](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.md) 
+
+### [FileClass~PublicSwimmingPool.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.internal.md) 
+
+### [FileClass~PublicSwimmingPool.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.protect.md) 
+
+### [FileClass~PublicSwimmingPool.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.private.md) 
+
+### [FileClass~PublicSwimmingPool.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.personal.md) 
+
+### [FileClass~PublicSwimmingPool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.secret.md) 

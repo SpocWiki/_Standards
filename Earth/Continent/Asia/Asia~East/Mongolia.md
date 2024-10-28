@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 47.9167
     - 106.883
@@ -142,9 +142,15 @@ Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]
 
 
 ## Confidential Links & Embeds: 
-- [[Mongolia|Mongolia]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~East/Mongolia.internal|Mongolia.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~East/Mongolia.protect|Mongolia.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~East/Mongolia.private|Mongolia.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~East/Mongolia.personal|Mongolia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~East/Mongolia.secret|Mongolia.secret]] 
+
+### [Mongolia](/_public/Earth/Continent/Asia/Asia~East/Mongolia.md) 
+
+### [Mongolia.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia.internal.md) 
+
+### [Mongolia.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia.protect.md) 
+
+### [Mongolia.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia.private.md) 
+
+### [Mongolia.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia.personal.md) 
+
+### [Mongolia.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -15,10 +15,15 @@ type: ElementGroup
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/chemic/Elements/Group-12-Zinc|Group-12-Zinc]] 
-- [[../../../_public/chemic/Elements/Group-12-Zinc.public|Group-12-Zinc.public]] 
-- [[../../../_internal/chemic/Elements/Group-12-Zinc.internal|Group-12-Zinc.internal]] 
-- [[../../../_protect/chemic/Elements/Group-12-Zinc.protect|Group-12-Zinc.protect]] 
-- [[../../../_private/chemic/Elements/Group-12-Zinc.private|Group-12-Zinc.private]] 
-- [[../../../_personal/chemic/Elements/Group-12-Zinc.personal|Group-12-Zinc.personal]] 
-- [[../../../_secret/chemic/Elements/Group-12-Zinc.secret|Group-12-Zinc.secret]] 
+
+### [Group-12-Zinc](/_public/chemic/chemic~Elements/Group-12-Zinc.md) 
+
+### [Group-12-Zinc.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc.internal.md) 
+
+### [Group-12-Zinc.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc.protect.md) 
+
+### [Group-12-Zinc.private](/_private/chemic/chemic~Elements/Group-12-Zinc.private.md) 
+
+### [Group-12-Zinc.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc.personal.md) 
+
+### [Group-12-Zinc.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc.secret.md) 

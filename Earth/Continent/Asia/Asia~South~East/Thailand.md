@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 13.73
     - 100.5
@@ -147,9 +147,15 @@ Capital :: [[Bangkok]]
 
 
 ## Confidential Links & Embeds: 
-- [[Thailand|Thailand]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal|Thailand.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~East/Thailand.protect|Thailand.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~East/Thailand.private|Thailand.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal|Thailand.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret|Thailand.secret]] 
+
+### [Thailand](/_public/Earth/Continent/Asia/Asia~South~East/Thailand.md) 
+
+### [Thailand.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal.md) 
+
+### [Thailand.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand.protect.md) 
+
+### [Thailand.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand.private.md) 
+
+### [Thailand.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal.md) 
+
+### [Thailand.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret.md) 

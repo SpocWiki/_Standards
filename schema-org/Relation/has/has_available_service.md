@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalProcedure, MedicalTest, MedicalTherapy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_available_service|has_available_service]] 
-- [[../../../../../_public/schema-org/Relation/has/has_available_service.public|has_available_service.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_available_service.internal|has_available_service.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_available_service.protect|has_available_service.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_available_service.private|has_available_service.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_available_service.personal|has_available_service.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_available_service.secret|has_available_service.secret]] 
+
+### [has_available_service](/_public/schema-org/Relation/has/has_available_service.md) 
+
+### [has_available_service.internal](/_internal/schema-org/Relation/has/has_available_service.internal.md) 
+
+### [has_available_service.protect](/_protect/schema-org/Relation/has/has_available_service.protect.md) 
+
+### [has_available_service.private](/_private/schema-org/Relation/has/has_available_service.private.md) 
+
+### [has_available_service.personal](/_personal/schema-org/Relation/has/has_available_service.personal.md) 
+
+### [has_available_service.secret](/_secret/schema-org/Relation/has/has_available_service.secret.md) 

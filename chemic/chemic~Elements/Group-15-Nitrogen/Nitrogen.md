@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21909
@@ -39,10 +39,15 @@ SpocWebEntityId: 21909
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrogen)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-15-Nitrogen/Nitrogen|Nitrogen]] 
-- [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Nitrogen.public|Nitrogen.public]] 
-- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Nitrogen.internal|Nitrogen.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Nitrogen.protect|Nitrogen.protect]] 
-- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Nitrogen.private|Nitrogen.private]] 
-- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Nitrogen.personal|Nitrogen.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Nitrogen.secret|Nitrogen.secret]] 
+
+### [Nitrogen](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.md) 
+
+### [Nitrogen.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.internal.md) 
+
+### [Nitrogen.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.protect.md) 
+
+### [Nitrogen.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.private.md) 
+
+### [Nitrogen.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.personal.md) 
+
+### [Nitrogen.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.secret.md) 

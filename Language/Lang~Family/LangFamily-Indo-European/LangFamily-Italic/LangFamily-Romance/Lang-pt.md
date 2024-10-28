@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Portuguese
@@ -32,11 +32,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Portuguese%20language)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-pt|Lang-pt]] 
-- [[../../_public/lang/Lang-pt.public|Lang-pt.public]] 
-- [[../../../../../../_internal/lang/Lang-pt.internal|Lang-pt.internal]] 
-- [[../../_protect/lang/Lang-pt.protect|Lang-pt.protect]] 
-- [[../../_private/lang/Lang-pt.private|Lang-pt.private]] 
-- [[../../_personal/lang/Lang-pt.personal|Lang-pt.personal]] 
-- [[../../_secret/lang/Lang-pt.secret|Lang-pt.secret]]
 
+### [Lang-pt](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.md) 
+
+### [Lang-pt.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.internal.md) 
+
+### [Lang-pt.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.protect.md) 
+
+### [Lang-pt.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.private.md) 
+
+### [Lang-pt.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.personal.md) 
+
+### [Lang-pt.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.secret.md) 

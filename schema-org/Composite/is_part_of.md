@@ -1,33 +1,31 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: is_part_of
-
 linkTitle: is_part_of
 keywords: 
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- is-part-of
-- part_of
-- isPartOf
-- is_part_of
+  - is-part-of
+  - part_of
+  - isPartOf
+  - is_part_of
+  - schema: isPartOf
+  - dbo:isPartOf
+  - wdt:P361
 ---
 
 # [Composite](../Composite.md)-[Part](Part.md) Relationship, 
@@ -85,10 +83,15 @@ etc. that can be modeled as both:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Relation/is_part_of|is_part_of]] 
-- [[../../../../_public/schema-org/Relation/is_part_of.public|is_part_of.public]] 
-- [[../../../../_internal/schema.org/Relation/is_part_of.internal|is_part_of.internal]] 
-- [[../../../../_protect/schema.org/Relation/is_part_of.protect|is_part_of.protect]] 
-- [[../../../../_private/schema.org/Relation/is_part_of.private|is_part_of.private]] 
-- [[../../../../_personal/schema.org/Relation/is_part_of.personal|is_part_of.personal]] 
-- [[../../../../_secret/schema.org/Relation/is_part_of.secret|is_part_of.secret]] 
+
+### [is_part_of](/_public/schema-org/Composite/is_part_of.md) 
+
+### [is_part_of.internal](/_internal/schema-org/Composite/is_part_of.internal.md) 
+
+### [is_part_of.protect](/_protect/schema-org/Composite/is_part_of.protect.md) 
+
+### [is_part_of.private](/_private/schema-org/Composite/is_part_of.private.md) 
+
+### [is_part_of.personal](/_personal/schema-org/Composite/is_part_of.personal.md) 
+
+### [is_part_of.secret](/_secret/schema-org/Composite/is_part_of.secret.md) 

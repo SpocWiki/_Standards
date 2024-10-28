@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_educational_role|has_educational_role]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_educational_role.public|has_educational_role.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_educational_role.internal|has_educational_role.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_educational_role.protect|has_educational_role.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_educational_role.private|has_educational_role.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_educational_role.personal|has_educational_role.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_educational_role.secret|has_educational_role.secret]] 
+
+### [has_educational_role](/_public/schema-org/Property/Texts/has_educational_role.md) 
+
+### [has_educational_role.internal](/_internal/schema-org/Property/Texts/has_educational_role.internal.md) 
+
+### [has_educational_role.protect](/_protect/schema-org/Property/Texts/has_educational_role.protect.md) 
+
+### [has_educational_role.private](/_private/schema-org/Property/Texts/has_educational_role.private.md) 
+
+### [has_educational_role.personal](/_personal/schema-org/Property/Texts/has_educational_role.personal.md) 
+
+### [has_educational_role.secret](/_secret/schema-org/Property/Texts/has_educational_role.secret.md) 

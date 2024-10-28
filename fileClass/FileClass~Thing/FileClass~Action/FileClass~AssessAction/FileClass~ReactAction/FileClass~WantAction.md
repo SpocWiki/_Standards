@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of expressing a desire about the object. An agent wants an object.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~WantAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.md) 
+
+### [FileClass~WantAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.internal.md) 
+
+### [FileClass~WantAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.protect.md) 
+
+### [FileClass~WantAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.private.md) 
+
+### [FileClass~WantAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.personal.md) 
+
+### [FileClass~WantAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.secret.md) 

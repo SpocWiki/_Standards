@@ -45,10 +45,15 @@ The payment has been received and processed.
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete|payment_complete]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.public|payment_complete.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.internal|payment_complete.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.protect|payment_complete.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.private|payment_complete.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.personal|payment_complete.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.secret|payment_complete.secret]] 
+
+### [payment_complete](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.md) 
+
+### [payment_complete.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.internal.md) 
+
+### [payment_complete.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.protect.md) 
+
+### [payment_complete.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.private.md) 
+
+### [payment_complete.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.personal.md) 
+
+### [payment_complete.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.secret.md) 

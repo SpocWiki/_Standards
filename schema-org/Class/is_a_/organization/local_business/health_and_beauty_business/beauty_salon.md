@@ -43,10 +43,15 @@ Beauty salon.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon|beauty_salon]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.public|beauty_salon.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.internal|beauty_salon.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.protect|beauty_salon.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.private|beauty_salon.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.personal|beauty_salon.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.secret|beauty_salon.secret]] 
+
+### [beauty_salon](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.md) 
+
+### [beauty_salon.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.internal.md) 
+
+### [beauty_salon.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.protect.md) 
+
+### [beauty_salon.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.private.md) 
+
+### [beauty_salon.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.personal.md) 
+
+### [beauty_salon.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.secret.md) 

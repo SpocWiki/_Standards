@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A Research Organization (e.g. scientific institute, research company).
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ResearchOrganization](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.md) 
+
+### [FileClass~ResearchOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.internal.md) 
+
+### [FileClass~ResearchOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.protect.md) 
+
+### [FileClass~ResearchOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.private.md) 
+
+### [FileClass~ResearchOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.personal.md) 
+
+### [FileClass~ResearchOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~ResearchOrganization.secret.md) 

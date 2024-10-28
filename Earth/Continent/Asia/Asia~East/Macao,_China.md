@@ -1,4 +1,4 @@
----
+﻿---
 location: [22.1667,113.55]
 type: Country
 tags:
@@ -37,9 +37,15 @@ has_place_continent:: [[Asia]]
 
 
 ## Confidential Links & Embeds: 
-- [[Macao,_China|Macao,_China]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~East/Macao,_China.internal|Macao,_China.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~East/Macao,_China.protect|Macao,_China.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~East/Macao,_China.private|Macao,_China.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~East/Macao,_China.personal|Macao,_China.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~East/Macao,_China.secret|Macao,_China.secret]] 
+
+### [Macao,_China](/_public/Earth/Continent/Asia/Asia~East/Macao,_China.md) 
+
+### [Macao,_China.internal](/_internal/Earth/Continent/Asia/Asia~East/Macao,_China.internal.md) 
+
+### [Macao,_China.protect](/_protect/Earth/Continent/Asia/Asia~East/Macao,_China.protect.md) 
+
+### [Macao,_China.private](/_private/Earth/Continent/Asia/Asia~East/Macao,_China.private.md) 
+
+### [Macao,_China.personal](/_personal/Earth/Continent/Asia/Asia~East/Macao,_China.personal.md) 
+
+### [Macao,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Macao,_China.secret.md) 

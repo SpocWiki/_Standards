@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 64.614
     - -21.718
@@ -147,10 +147,15 @@ Capital :: [[Reykjavik]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Iceland|Iceland]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Iceland.public|Iceland.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Iceland.internal|Iceland.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Iceland.protect|Iceland.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Iceland.private|Iceland.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Iceland.personal|Iceland.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Iceland.secret|Iceland.secret]] 
+
+### [Iceland](/_public/Earth/Continent/Europe/Europe~North/Iceland.md) 
+
+### [Iceland.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland.internal.md) 
+
+### [Iceland.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland.protect.md) 
+
+### [Iceland.private](/_private/Earth/Continent/Europe/Europe~North/Iceland.private.md) 
+
+### [Iceland.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland.personal.md) 
+
+### [Iceland.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland.secret.md) 

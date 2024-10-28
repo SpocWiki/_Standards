@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -198,3 +198,17 @@ A medical test typically performed given this condition.
 TypicalTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalCondition](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition.md) 
+
+### [FileClass~MedicalCondition.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition.internal.md) 
+
+### [FileClass~MedicalCondition.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition.protect.md) 
+
+### [FileClass~MedicalCondition.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition.private.md) 
+
+### [FileClass~MedicalCondition.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition.personal.md) 
+
+### [FileClass~MedicalCondition.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition.secret.md) 

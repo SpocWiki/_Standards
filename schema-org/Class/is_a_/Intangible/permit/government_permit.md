@@ -43,10 +43,15 @@ A permit issued by a government agency.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/permit/government_permit|government_permit]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/permit/government_permit.public|government_permit.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/permit/government_permit.internal|government_permit.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/permit/government_permit.protect|government_permit.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/permit/government_permit.private|government_permit.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/permit/government_permit.personal|government_permit.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/permit/government_permit.secret|government_permit.secret]] 
+
+### [government_permit](/_public/schema-org/Class/is_a_/Intangible/permit/government_permit.md) 
+
+### [government_permit.internal](/_internal/schema-org/Class/is_a_/Intangible/permit/government_permit.internal.md) 
+
+### [government_permit.protect](/_protect/schema-org/Class/is_a_/Intangible/permit/government_permit.protect.md) 
+
+### [government_permit.private](/_private/schema-org/Class/is_a_/Intangible/permit/government_permit.private.md) 
+
+### [government_permit.personal](/_personal/schema-org/Class/is_a_/Intangible/permit/government_permit.personal.md) 
+
+### [government_permit.secret](/_secret/schema-org/Class/is_a_/Intangible/permit/government_permit.secret.md) 

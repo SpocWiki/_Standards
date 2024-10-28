@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 ( #has_/range :: Boolean, Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_paying_cash_back|is_paying_cash_back]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_paying_cash_back.public|is_paying_cash_back.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_paying_cash_back.internal|is_paying_cash_back.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_paying_cash_back.protect|is_paying_cash_back.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_paying_cash_back.private|is_paying_cash_back.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_paying_cash_back.personal|is_paying_cash_back.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_paying_cash_back.secret|is_paying_cash_back.secret]] 
+
+### [is_paying_cash_back](/_public/schema-org/Property/Flags/is_paying_cash_back.md) 
+
+### [is_paying_cash_back.internal](/_internal/schema-org/Property/Flags/is_paying_cash_back.internal.md) 
+
+### [is_paying_cash_back.protect](/_protect/schema-org/Property/Flags/is_paying_cash_back.protect.md) 
+
+### [is_paying_cash_back.private](/_private/schema-org/Property/Flags/is_paying_cash_back.private.md) 
+
+### [is_paying_cash_back.personal](/_personal/schema-org/Property/Flags/is_paying_cash_back.personal.md) 
+
+### [is_paying_cash_back.secret](/_secret/schema-org/Property/Flags/is_paying_cash_back.secret.md) 

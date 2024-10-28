@@ -1,4 +1,4 @@
-
+﻿
 # [[Dim~Temperature]]  
 
 There are many Units for Temperature, but the SI-Unit is the [[../Unit/SI-Unit/Unit~Kelvin|Unit~Kelvin]].   
@@ -18,3 +18,17 @@ The Distribution depends on the Elements' Character:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Dim~Temperature](/_public/Dimension/Dim~Temperature.md) 
+
+### [Dim~Temperature.internal](/_internal/Dimension/Dim~Temperature.internal.md) 
+
+### [Dim~Temperature.protect](/_protect/Dimension/Dim~Temperature.protect.md) 
+
+### [Dim~Temperature.private](/_private/Dimension/Dim~Temperature.private.md) 
+
+### [Dim~Temperature.personal](/_personal/Dimension/Dim~Temperature.personal.md) 
+
+### [Dim~Temperature.secret](/_secret/Dimension/Dim~Temperature.secret.md) 

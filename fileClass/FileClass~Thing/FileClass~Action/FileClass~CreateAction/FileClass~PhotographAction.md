@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of capturing still images of objects using a camera.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PhotographAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.md) 
+
+### [FileClass~PhotographAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.internal.md) 
+
+### [FileClass~PhotographAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.protect.md) 
+
+### [FileClass~PhotographAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.private.md) 
+
+### [FileClass~PhotographAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.personal.md) 
+
+### [FileClass~PhotographAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.secret.md) 

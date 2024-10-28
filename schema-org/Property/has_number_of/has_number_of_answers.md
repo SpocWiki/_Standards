@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_answers|has_number_of_answers]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_answers.public|has_number_of_answers.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_answers.internal|has_number_of_answers.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_answers.protect|has_number_of_answers.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_answers.private|has_number_of_answers.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_answers.personal|has_number_of_answers.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_answers.secret|has_number_of_answers.secret]] 
+
+### [has_number_of_answers](/_public/schema-org/Property/has_number_of/has_number_of_answers.md) 
+
+### [has_number_of_answers.internal](/_internal/schema-org/Property/has_number_of/has_number_of_answers.internal.md) 
+
+### [has_number_of_answers.protect](/_protect/schema-org/Property/has_number_of/has_number_of_answers.protect.md) 
+
+### [has_number_of_answers.private](/_private/schema-org/Property/has_number_of/has_number_of_answers.private.md) 
+
+### [has_number_of_answers.personal](/_personal/schema-org/Property/has_number_of/has_number_of_answers.personal.md) 
+
+### [has_number_of_answers.secret](/_secret/schema-org/Property/has_number_of/has_number_of_answers.secret.md) 

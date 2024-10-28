@@ -51,10 +51,15 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/action/find_action|find_action]] 
-- [[../../../../../_public/schema-org/Class/is_a_/action/find_action.public|find_action.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/action/find_action.internal|find_action.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/action/find_action.protect|find_action.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/action/find_action.private|find_action.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/action/find_action.personal|find_action.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/action/find_action.secret|find_action.secret]] 
+
+### [find_action](/_public/schema-org/Class/is_a_/action/find_action.md) 
+
+### [find_action.internal](/_internal/schema-org/Class/is_a_/action/find_action.internal.md) 
+
+### [find_action.protect](/_protect/schema-org/Class/is_a_/action/find_action.protect.md) 
+
+### [find_action.private](/_private/schema-org/Class/is_a_/action/find_action.private.md) 
+
+### [find_action.personal](/_personal/schema-org/Class/is_a_/action/find_action.personal.md) 
+
+### [find_action.secret](/_secret/schema-org/Class/is_a_/action/find_action.secret.md) 

@@ -1,34 +1,32 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
+cssclasses:
+  - Predicate
+  - Url
 publish: true
-
-# Hugo Tags
 type: Predi_Url
-
 title: has_url_for_thumbnail_url
 linkTitle: has_url_for_thumbnail_url
-
-keywords: [thumbnail_url]
+keywords:
+  - thumbnail_url
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Url
-
+  - class/Property
+  - schema-org/Property/Url
 aliases:
-- thumbnail-url
-- thumbnail_url
-- thumbnailUrl
-- has_url_for_thumbnail_url
+  - thumbnail-url
+  - thumbnail_url
+  - thumbnailUrl
+  - has_url_for_thumbnail_url
+  - schema:thumbnailUrl
+  - dbo:thumbnail
+  - wdt:P18
 ---
 
 Predicate to specify the Url of CreativeWork.
@@ -45,10 +43,15 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_thumbnail_url|has_url_for_thumbnail_url]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_thumbnail_url.public|has_url_for_thumbnail_url.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_thumbnail_url.internal|has_url_for_thumbnail_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_thumbnail_url.protect|has_url_for_thumbnail_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_thumbnail_url.private|has_url_for_thumbnail_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_thumbnail_url.personal|has_url_for_thumbnail_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_thumbnail_url.secret|has_url_for_thumbnail_url.secret]] 
+
+### [has_url_for_thumbnail](/_public/schema-org/Property/has_url_for/has_url_for_thumbnail.md) 
+
+### [has_url_for_thumbnail.internal](/_internal/schema-org/Property/has_url_for/has_url_for_thumbnail.internal.md) 
+
+### [has_url_for_thumbnail.protect](/_protect/schema-org/Property/has_url_for/has_url_for_thumbnail.protect.md) 
+
+### [has_url_for_thumbnail.private](/_private/schema-org/Property/has_url_for/has_url_for_thumbnail.private.md) 
+
+### [has_url_for_thumbnail.personal](/_personal/schema-org/Property/has_url_for/has_url_for_thumbnail.personal.md) 
+
+### [has_url_for_thumbnail.secret](/_secret/schema-org/Property/has_url_for/has_url_for_thumbnail.secret.md) 

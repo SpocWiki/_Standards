@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_iupac|has_name_iupac]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_name_iupac.public|has_name_iupac.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name_iupac.internal|has_name_iupac.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name_iupac.protect|has_name_iupac.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name_iupac.private|has_name_iupac.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name_iupac.personal|has_name_iupac.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name_iupac.secret|has_name_iupac.secret]] 
+
+### [has_name_iupac](/_public/schema-org/Property/has_name/has_name_iupac.md) 
+
+### [has_name_iupac.internal](/_internal/schema-org/Property/has_name/has_name_iupac.internal.md) 
+
+### [has_name_iupac.protect](/_protect/schema-org/Property/has_name/has_name_iupac.protect.md) 
+
+### [has_name_iupac.private](/_private/schema-org/Property/has_name/has_name_iupac.private.md) 
+
+### [has_name_iupac.personal](/_personal/schema-org/Property/has_name/has_name_iupac.personal.md) 
+
+### [has_name_iupac.secret](/_secret/schema-org/Property/has_name/has_name_iupac.secret.md) 

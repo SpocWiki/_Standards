@@ -45,10 +45,15 @@ DigitalAudioTapeFormat.
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_audio_tape_format|digital_audio_tape_format]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_audio_tape_format.public|digital_audio_tape_format.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_audio_tape_format.internal|digital_audio_tape_format.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_audio_tape_format.protect|digital_audio_tape_format.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_audio_tape_format.private|digital_audio_tape_format.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_audio_tape_format.personal|digital_audio_tape_format.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_audio_tape_format.secret|digital_audio_tape_format.secret]] 
+
+### [digital_audio_tape_format](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_audio_tape_format.md) 
+
+### [digital_audio_tape_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_audio_tape_format.internal.md) 
+
+### [digital_audio_tape_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_audio_tape_format.protect.md) 
+
+### [digital_audio_tape_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_audio_tape_format.private.md) 
+
+### [digital_audio_tape_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_audio_tape_format.personal.md) 
+
+### [digital_audio_tape_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_audio_tape_format.secret.md) 

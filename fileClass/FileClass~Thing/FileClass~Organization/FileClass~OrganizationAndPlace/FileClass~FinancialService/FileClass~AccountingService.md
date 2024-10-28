@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,3 +35,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Se
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~AccountingService](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.md) 
+
+### [FileClass~AccountingService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.internal.md) 
+
+### [FileClass~AccountingService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.protect.md) 
+
+### [FileClass~AccountingService.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.private.md) 
+
+### [FileClass~AccountingService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.personal.md) 
+
+### [FileClass~AccountingService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.secret.md) 

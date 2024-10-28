@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 14.435
 - -17.125
@@ -144,9 +144,15 @@ Capital :: [[Dakar]]
 
 
 ## Confidential Links & Embeds: 
-- [[Senegal|Senegal]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Senegal.internal|Senegal.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Senegal.protect|Senegal.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Senegal.private|Senegal.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Senegal.personal|Senegal.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Senegal.secret|Senegal.secret]] 
+
+### [Senegal](/_public/Earth/Continent/Africa/Africa~West/Senegal.md) 
+
+### [Senegal.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal.internal.md) 
+
+### [Senegal.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal.protect.md) 
+
+### [Senegal.private](/_private/Earth/Continent/Africa/Africa~West/Senegal.private.md) 
+
+### [Senegal.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal.personal.md) 
+
+### [Senegal.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret.md) 

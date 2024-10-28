@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Niger–Congo|LangFamily-Niger–Congo]] 
-- [[../../../_public/lang/Family/LangFamily-Niger–Congo.public|LangFamily-Niger–Congo.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Niger–Congo.internal|LangFamily-Niger–Congo.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Niger–Congo.protect|LangFamily-Niger–Congo.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Niger–Congo.private|LangFamily-Niger–Congo.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Niger–Congo.personal|LangFamily-Niger–Congo.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Niger–Congo.secret|LangFamily-Niger–Congo.secret]] 
+
+### [LangFamily-Niger–Congo](/_public/Language/Lang~Family/LangFamily-Niger–Congo.md) 
+
+### [LangFamily-Niger–Congo.internal](/_internal/Language/Lang~Family/LangFamily-Niger–Congo.internal.md) 
+
+### [LangFamily-Niger–Congo.protect](/_protect/Language/Lang~Family/LangFamily-Niger–Congo.protect.md) 
+
+### [LangFamily-Niger–Congo.private](/_private/Language/Lang~Family/LangFamily-Niger–Congo.private.md) 
+
+### [LangFamily-Niger–Congo.personal](/_personal/Language/Lang~Family/LangFamily-Niger–Congo.personal.md) 
+
+### [LangFamily-Niger–Congo.secret](/_secret/Language/Lang~Family/LangFamily-Niger–Congo.secret.md) 

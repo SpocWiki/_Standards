@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 0
     - 0
@@ -37,3 +37,17 @@ Confidential Links:
 [[../../../_private/Earth/Continent/Africa.private|Africa.private]] 
 [[../../../_secret/Earth/Continent/Africa.secret|Africa.secret]]
 
+
+## Confidential Links & Embeds: 
+
+### [Africa](/_public/Earth/Continent/Africa.md) 
+
+### [Africa.internal](/_internal/Earth/Continent/Africa.internal.md) 
+
+### [Africa.protect](/_protect/Earth/Continent/Africa.protect.md) 
+
+### [Africa.private](/_private/Earth/Continent/Africa.private.md) 
+
+### [Africa.personal](/_personal/Earth/Continent/Africa.personal.md) 
+
+### [Africa.secret](/_secret/Earth/Continent/Africa.secret.md) 

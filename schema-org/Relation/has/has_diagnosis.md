@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_diagnosis|has_diagnosis]] 
-- [[../../../../../_public/schema-org/Relation/has/has_diagnosis.public|has_diagnosis.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_diagnosis.internal|has_diagnosis.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_diagnosis.protect|has_diagnosis.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_diagnosis.private|has_diagnosis.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_diagnosis.personal|has_diagnosis.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_diagnosis.secret|has_diagnosis.secret]] 
+
+### [has_diagnosis](/_public/schema-org/Relation/has/has_diagnosis.md) 
+
+### [has_diagnosis.internal](/_internal/schema-org/Relation/has/has_diagnosis.internal.md) 
+
+### [has_diagnosis.protect](/_protect/schema-org/Relation/has/has_diagnosis.protect.md) 
+
+### [has_diagnosis.private](/_private/schema-org/Relation/has/has_diagnosis.private.md) 
+
+### [has_diagnosis.personal](/_personal/schema-org/Relation/has/has_diagnosis.personal.md) 
+
+### [has_diagnosis.secret](/_secret/schema-org/Relation/has/has_diagnosis.secret.md) 

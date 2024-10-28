@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A short TV program or a segment/part of a TV program.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TVClip](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.md) 
+
+### [FileClass~TVClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.internal.md) 
+
+### [FileClass~TVClip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.protect.md) 
+
+### [FileClass~TVClip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.private.md) 
+
+### [FileClass~TVClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.personal.md) 
+
+### [FileClass~TVClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.secret.md) 

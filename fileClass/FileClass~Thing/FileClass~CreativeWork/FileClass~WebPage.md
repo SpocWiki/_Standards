@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -136,3 +136,17 @@ One of the domain specialities to which this web page's content applies.
 Specialty:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~WebPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.md) 
+
+### [FileClass~WebPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.internal.md) 
+
+### [FileClass~WebPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.protect.md) 
+
+### [FileClass~WebPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.private.md) 
+
+### [FileClass~WebPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.personal.md) 
+
+### [FileClass~WebPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.secret.md) 

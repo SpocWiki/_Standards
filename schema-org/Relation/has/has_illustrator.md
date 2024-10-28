@@ -1,33 +1,32 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_illustrator
-
 linkTitle: has_illustrator
-keywords: [illustrator]
+keywords:
+  - illustrator
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- illustrator
-- illustrator
-- illustrator
-- has_illustrator
+  - illustrator
+  - illustrator
+  - illustrator
+  - has_illustrator
+  - schema:illustrator
+  - dbo:illustrator
+  - wdt:P14
 ---
 
 Use it like this: 
@@ -42,10 +41,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_illustrator|has_illustrator]] 
-- [[../../../../../_public/schema-org/Relation/has/has_illustrator.public|has_illustrator.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_illustrator.internal|has_illustrator.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_illustrator.protect|has_illustrator.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_illustrator.private|has_illustrator.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_illustrator.personal|has_illustrator.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_illustrator.secret|has_illustrator.secret]] 
+
+### [has_illustrator](/_public/schema-org/Relation/has/has_illustrator.md) 
+
+### [has_illustrator.internal](/_internal/schema-org/Relation/has/has_illustrator.internal.md) 
+
+### [has_illustrator.protect](/_protect/schema-org/Relation/has/has_illustrator.protect.md) 
+
+### [has_illustrator.private](/_private/schema-org/Relation/has/has_illustrator.private.md) 
+
+### [has_illustrator.personal](/_personal/schema-org/Relation/has/has_illustrator.personal.md) 
+
+### [has_illustrator.secret](/_secret/schema-org/Relation/has/has_illustrator.secret.md) 

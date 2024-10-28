@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -17.9 , 178.3 ] 
 type: geo-Region
 title: Fiji~Central
@@ -40,11 +40,15 @@ markerFolder: ./Fiji~Central//
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Fiji/Counties/Fiji~Central|Fiji~Central]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Fiji/Counties/Fiji~Central.public|Fiji~Central.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Fiji/Counties/Fiji~Central.internal|Fiji~Central.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Fiji/Counties/Fiji~Central.protect|Fiji~Central.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Fiji/Counties/Fiji~Central.private|Fiji~Central.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Fiji/Counties/Fiji~Central.personal|Fiji~Central.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Fiji/Counties/Fiji~Central.secret|Fiji~Central.secret]] 
 
+### [Fiji~Central](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.md) 
+
+### [Fiji~Central.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.internal.md) 
+
+### [Fiji~Central.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.protect.md) 
+
+### [Fiji~Central.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.private.md) 
+
+### [Fiji~Central.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.personal.md) 
+
+### [Fiji~Central.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central.secret.md) 

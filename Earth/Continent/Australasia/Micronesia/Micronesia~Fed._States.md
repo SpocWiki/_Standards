@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 6.91667
     - 158.15
@@ -45,10 +45,15 @@ Capital :: [[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Micronesia~Fed._States|Micronesia~Fed._States]] 
-- [[../../../../_public/Earth/Continent/Oceania/Micronesia~Fed._States.public|Micronesia~Fed._States.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Micronesia~Fed._States.internal|Micronesia~Fed._States.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Micronesia~Fed._States.protect|Micronesia~Fed._States.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Micronesia~Fed._States.private|Micronesia~Fed._States.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Micronesia~Fed._States.personal|Micronesia~Fed._States.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Micronesia~Fed._States.secret|Micronesia~Fed._States.secret]] 
+
+### [Micronesia~Fed._States](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.md) 
+
+### [Micronesia~Fed._States.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.internal.md) 
+
+### [Micronesia~Fed._States.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.protect.md) 
+
+### [Micronesia~Fed._States.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.private.md) 
+
+### [Micronesia~Fed._States.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.personal.md) 
+
+### [Micronesia~Fed._States.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret.md) 

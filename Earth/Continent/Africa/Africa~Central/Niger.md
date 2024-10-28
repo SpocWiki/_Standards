@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 13.5333
 - 2.08333
@@ -148,9 +148,15 @@ Capital :: [[Niamey]]
 
 
 ## Confidential Links & Embeds: 
-- [[Niger|Niger]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Niger.internal|Niger.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Niger.protect|Niger.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Niger.private|Niger.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Niger.personal|Niger.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Niger.secret|Niger.secret]] 
+
+### [Niger](/_public/Earth/Continent/Africa/Africa~Central/Niger.md) 
+
+### [Niger.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger.internal.md) 
+
+### [Niger.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger.protect.md) 
+
+### [Niger.private](/_private/Earth/Continent/Africa/Africa~Central/Niger.private.md) 
+
+### [Niger.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger.personal.md) 
+
+### [Niger.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger.secret.md) 

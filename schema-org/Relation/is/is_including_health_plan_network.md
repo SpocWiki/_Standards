@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: HealthPlanNetwork)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_including_health_plan_network|is_including_health_plan_network]] 
-- [[../../../../../_public/schema-org/Relation/is/is_including_health_plan_network.public|is_including_health_plan_network.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_including_health_plan_network.internal|is_including_health_plan_network.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_including_health_plan_network.protect|is_including_health_plan_network.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_including_health_plan_network.private|is_including_health_plan_network.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_including_health_plan_network.personal|is_including_health_plan_network.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_including_health_plan_network.secret|is_including_health_plan_network.secret]] 
+
+### [is_including_health_plan_network](/_public/schema-org/Relation/is/is_including_health_plan_network.md) 
+
+### [is_including_health_plan_network.internal](/_internal/schema-org/Relation/is/is_including_health_plan_network.internal.md) 
+
+### [is_including_health_plan_network.protect](/_protect/schema-org/Relation/is/is_including_health_plan_network.protect.md) 
+
+### [is_including_health_plan_network.private](/_private/schema-org/Relation/is/is_including_health_plan_network.private.md) 
+
+### [is_including_health_plan_network.personal](/_personal/schema-org/Relation/is/is_including_health_plan_network.personal.md) 
+
+### [is_including_health_plan_network.secret](/_secret/schema-org/Relation/is/is_including_health_plan_network.secret.md) 

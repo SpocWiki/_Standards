@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,10 +50,15 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_role|has_role]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_role.public|has_role.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_role.internal|has_role.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_role.protect|has_role.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_role.private|has_role.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_role.personal|has_role.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_role.secret|has_role.secret]] 
+
+### [has_role](/_public/schema-org/Property/has_name/has_role.md) 
+
+### [has_role.internal](/_internal/schema-org/Property/has_name/has_role.internal.md) 
+
+### [has_role.protect](/_protect/schema-org/Property/has_name/has_role.protect.md) 
+
+### [has_role.private](/_private/schema-org/Property/has_name/has_role.private.md) 
+
+### [has_role.personal](/_personal/schema-org/Property/has_name/has_role.personal.md) 
+
+### [has_role.secret](/_secret/schema-org/Property/has_name/has_role.secret.md) 

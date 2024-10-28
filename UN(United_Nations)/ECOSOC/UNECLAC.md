@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ECLAC
   - CEPAL
@@ -14,3 +14,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [UNECLAC](/_public/UN(United_Nations)/ECOSOC/UNECLAC.md) 
+
+### [UNECLAC.internal](/_internal/UN(United_Nations)/ECOSOC/UNECLAC.internal.md) 
+
+### [UNECLAC.protect](/_protect/UN(United_Nations)/ECOSOC/UNECLAC.protect.md) 
+
+### [UNECLAC.private](/_private/UN(United_Nations)/ECOSOC/UNECLAC.private.md) 
+
+### [UNECLAC.personal](/_personal/UN(United_Nations)/ECOSOC/UNECLAC.personal.md) 
+
+### [UNECLAC.secret](/_secret/UN(United_Nations)/ECOSOC/UNECLAC.secret.md) 

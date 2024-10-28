@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 38.55
     - 68.8
@@ -148,9 +148,15 @@ Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]
 
 
 ## Confidential Links & Embeds: 
-- [[Tajikistan|Tajikistan]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~Central/Tajikistan.internal|Tajikistan.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~Central/Tajikistan.protect|Tajikistan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~Central/Tajikistan.private|Tajikistan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~Central/Tajikistan.personal|Tajikistan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~Central/Tajikistan.secret|Tajikistan.secret]] 
+
+### [Tajikistan](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan.md) 
+
+### [Tajikistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan.internal.md) 
+
+### [Tajikistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan.protect.md) 
+
+### [Tajikistan.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan.private.md) 
+
+### [Tajikistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan.personal.md) 
+
+### [Tajikistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan.secret.md) 

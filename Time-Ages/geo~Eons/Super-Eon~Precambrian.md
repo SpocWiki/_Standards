@@ -1,4 +1,4 @@
-# [[Super-Eon~Precambrian]] 
+﻿# [[Super-Eon~Precambrian]] 
 
 A time period from 4567 to 538.8 million years ago. 
 
@@ -56,3 +56,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Super-Eon~Precambrian](/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.md) 
+
+### [Super-Eon~Precambrian.internal](/_internal/Time-Ages/geo~Eons/Super-Eon~Precambrian.internal.md) 
+
+### [Super-Eon~Precambrian.protect](/_protect/Time-Ages/geo~Eons/Super-Eon~Precambrian.protect.md) 
+
+### [Super-Eon~Precambrian.private](/_private/Time-Ages/geo~Eons/Super-Eon~Precambrian.private.md) 
+
+### [Super-Eon~Precambrian.personal](/_personal/Time-Ages/geo~Eons/Super-Eon~Precambrian.personal.md) 
+
+### [Super-Eon~Precambrian.secret](/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret.md) 

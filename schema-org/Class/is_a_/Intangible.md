@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Class/is_a_/intangible|intangible]] 
-- [[../../../../_public/schema-org/Class/is_a_/intangible.public|intangible.public]] 
-- [[../../../../_internal/schema.org/Class/is_a_/intangible.internal|intangible.internal]] 
-- [[../../../../_protect/schema.org/Class/is_a_/intangible.protect|intangible.protect]] 
-- [[../../../../_private/schema.org/Class/is_a_/intangible.private|intangible.private]] 
-- [[../../../../_personal/schema.org/Class/is_a_/intangible.personal|intangible.personal]] 
-- [[../../../../_secret/schema.org/Class/is_a_/intangible.secret|intangible.secret]] 
+
+### [Intangible](/_public/schema-org/Class/is_a_/Intangible.md) 
+
+### [Intangible.internal](/_internal/schema-org/Class/is_a_/Intangible.internal.md) 
+
+### [Intangible.protect](/_protect/schema-org/Class/is_a_/Intangible.protect.md) 
+
+### [Intangible.private](/_private/schema-org/Class/is_a_/Intangible.private.md) 
+
+### [Intangible.personal](/_personal/schema-org/Class/is_a_/Intangible.personal.md) 
+
+### [Intangible.secret](/_secret/schema-org/Class/is_a_/Intangible.secret.md) 

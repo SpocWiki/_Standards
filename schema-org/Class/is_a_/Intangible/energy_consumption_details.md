@@ -45,10 +45,15 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, energyEfficiencyScaleMax, energyEfficiencyScaleMin, hasEnergyEfficiencyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/energy_consumption_details|energy_consumption_details]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/energy_consumption_details.public|energy_consumption_details.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/energy_consumption_details.internal|energy_consumption_details.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/energy_consumption_details.protect|energy_consumption_details.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/energy_consumption_details.private|energy_consumption_details.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/energy_consumption_details.personal|energy_consumption_details.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/energy_consumption_details.secret|energy_consumption_details.secret]] 
+
+### [energy_consumption_details](/_public/schema-org/Class/is_a_/Intangible/energy_consumption_details.md) 
+
+### [energy_consumption_details.internal](/_internal/schema-org/Class/is_a_/Intangible/energy_consumption_details.internal.md) 
+
+### [energy_consumption_details.protect](/_protect/schema-org/Class/is_a_/Intangible/energy_consumption_details.protect.md) 
+
+### [energy_consumption_details.private](/_private/schema-org/Class/is_a_/Intangible/energy_consumption_details.private.md) 
+
+### [energy_consumption_details.personal](/_personal/schema-org/Class/is_a_/Intangible/energy_consumption_details.personal.md) 
+
+### [energy_consumption_details.secret](/_secret/schema-org/Class/is_a_/Intangible/energy_consumption_details.secret.md) 

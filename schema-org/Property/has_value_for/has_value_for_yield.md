@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 [ #has_/sub_properties :: [ recipeYield ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_yield|has_value_for_yield]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_yield.public|has_value_for_yield.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_yield.internal|has_value_for_yield.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_yield.protect|has_value_for_yield.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_yield.private|has_value_for_yield.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_yield.personal|has_value_for_yield.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_yield.secret|has_value_for_yield.secret]] 
+
+### [has_value_for_yield](/_public/schema-org/Property/has_value_for/has_value_for_yield.md) 
+
+### [has_value_for_yield.internal](/_internal/schema-org/Property/has_value_for/has_value_for_yield.internal.md) 
+
+### [has_value_for_yield.protect](/_protect/schema-org/Property/has_value_for/has_value_for_yield.protect.md) 
+
+### [has_value_for_yield.private](/_private/schema-org/Property/has_value_for/has_value_for_yield.private.md) 
+
+### [has_value_for_yield.personal](/_personal/schema-org/Property/has_value_for/has_value_for_yield.personal.md) 
+
+### [has_value_for_yield.secret](/_secret/schema-org/Property/has_value_for/has_value_for_yield.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A men's clothing store.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MensClothingStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MensClothingStore.md) 
+
+### [FileClass~MensClothingStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MensClothingStore.internal.md) 
+
+### [FileClass~MensClothingStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MensClothingStore.protect.md) 
+
+### [FileClass~MensClothingStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MensClothingStore.private.md) 
+
+### [FileClass~MensClothingStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MensClothingStore.personal.md) 
+
+### [FileClass~MensClothingStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MensClothingStore.secret.md) 

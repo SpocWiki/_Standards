@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -468,3 +468,17 @@ Typical unit code(s): CMT for centimeters, MTR for meters, INH for inches, FOT f
 
 Wheelbase:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Vehicle](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.md) 
+
+### [FileClass~Vehicle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.internal.md) 
+
+### [FileClass~Vehicle.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.protect.md) 
+
+### [FileClass~Vehicle.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.private.md) 
+
+### [FileClass~Vehicle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.personal.md) 
+
+### [FileClass~Vehicle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.secret.md) 

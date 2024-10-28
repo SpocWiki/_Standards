@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_organizer|has_organizer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_organizer.public|has_organizer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_organizer.internal|has_organizer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_organizer.protect|has_organizer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_organizer.private|has_organizer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_organizer.personal|has_organizer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_organizer.secret|has_organizer.secret]] 
+
+### [has_organizer](/_public/schema-org/Relation/has/has_organizer.md) 
+
+### [has_organizer.internal](/_internal/schema-org/Relation/has/has_organizer.internal.md) 
+
+### [has_organizer.protect](/_protect/schema-org/Relation/has/has_organizer.protect.md) 
+
+### [has_organizer.private](/_private/schema-org/Relation/has/has_organizer.private.md) 
+
+### [has_organizer.personal](/_personal/schema-org/Relation/has/has_organizer.personal.md) 
+
+### [has_organizer.secret](/_secret/schema-org/Relation/has/has_organizer.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_acquired_from|is_acquired_from]] 
-- [[../../../../../_public/schema-org/Relation/is/is_acquired_from.public|is_acquired_from.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_acquired_from.internal|is_acquired_from.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_acquired_from.protect|is_acquired_from.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_acquired_from.private|is_acquired_from.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_acquired_from.personal|is_acquired_from.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_acquired_from.secret|is_acquired_from.secret]] 
+
+### [is_acquired_from](/_public/schema-org/Relation/is/is_acquired_from.md) 
+
+### [is_acquired_from.internal](/_internal/schema-org/Relation/is/is_acquired_from.internal.md) 
+
+### [is_acquired_from.protect](/_protect/schema-org/Relation/is/is_acquired_from.protect.md) 
+
+### [is_acquired_from.private](/_private/schema-org/Relation/is/is_acquired_from.private.md) 
+
+### [is_acquired_from.personal](/_personal/schema-org/Relation/is/is_acquired_from.personal.md) 
+
+### [is_acquired_from.secret](/_secret/schema-org/Relation/is/is_acquired_from.secret.md) 

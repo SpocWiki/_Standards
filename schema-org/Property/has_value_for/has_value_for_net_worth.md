@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount, PriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_net_worth|has_value_for_net_worth]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_net_worth.public|has_value_for_net_worth.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_net_worth.internal|has_value_for_net_worth.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_net_worth.protect|has_value_for_net_worth.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_net_worth.private|has_value_for_net_worth.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_net_worth.personal|has_value_for_net_worth.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_net_worth.secret|has_value_for_net_worth.secret]] 
+
+### [has_value_for_net_worth](/_public/schema-org/Property/has_value_for/has_value_for_net_worth.md) 
+
+### [has_value_for_net_worth.internal](/_internal/schema-org/Property/has_value_for/has_value_for_net_worth.internal.md) 
+
+### [has_value_for_net_worth.protect](/_protect/schema-org/Property/has_value_for/has_value_for_net_worth.protect.md) 
+
+### [has_value_for_net_worth.private](/_private/schema-org/Property/has_value_for/has_value_for_net_worth.private.md) 
+
+### [has_value_for_net_worth.personal](/_personal/schema-org/Property/has_value_for/has_value_for_net_worth.personal.md) 
+
+### [has_value_for_net_worth.secret](/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret.md) 

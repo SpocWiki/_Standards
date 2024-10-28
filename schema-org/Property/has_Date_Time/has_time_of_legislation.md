@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Formal Predicate:
 Is [sub_property_of::dateCreated]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_legislation|has_time_of_legislation]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_legislation.public|has_time_of_legislation.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_legislation.internal|has_time_of_legislation.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_legislation.protect|has_time_of_legislation.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_legislation.private|has_time_of_legislation.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_legislation.personal|has_time_of_legislation.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_legislation.secret|has_time_of_legislation.secret]] 
+
+### [has_time_of_legislation](/_public/schema-org/Property/has_Date_Time/has_time_of_legislation.md) 
+
+### [has_time_of_legislation.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_legislation.internal.md) 
+
+### [has_time_of_legislation.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_legislation.protect.md) 
+
+### [has_time_of_legislation.private](/_private/schema-org/Property/has_Date_Time/has_time_of_legislation.private.md) 
+
+### [has_time_of_legislation.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_legislation.personal.md) 
+
+### [has_time_of_legislation.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation.secret.md) 

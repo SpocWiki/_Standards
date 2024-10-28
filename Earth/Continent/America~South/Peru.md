@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -12.05
     - -77.05
@@ -145,9 +145,15 @@ Capital :: [[Peru/Counties/Lima_Province/City/Lima]]
 
 
 ## Confidential Links & Embeds: 
-- [[Peru|Peru]] 
-- [[../../../../_internal/Earth/Continent/America~South/Peru.internal|Peru.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Peru.protect|Peru.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Peru.private|Peru.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Peru.personal|Peru.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Peru.secret|Peru.secret]] 
+
+### [Peru](/_public/Earth/Continent/America~South/Peru.md) 
+
+### [Peru.internal](/_internal/Earth/Continent/America~South/Peru.internal.md) 
+
+### [Peru.protect](/_protect/Earth/Continent/America~South/Peru.protect.md) 
+
+### [Peru.private](/_private/Earth/Continent/America~South/Peru.private.md) 
+
+### [Peru.personal](/_personal/Earth/Continent/America~South/Peru.personal.md) 
+
+### [Peru.secret](/_secret/Earth/Continent/America~South/Peru.secret.md) 

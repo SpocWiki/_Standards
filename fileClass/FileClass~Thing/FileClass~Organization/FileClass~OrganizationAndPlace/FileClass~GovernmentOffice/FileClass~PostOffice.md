@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A post office.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PostOffice](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.md) 
+
+### [FileClass~PostOffice.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.internal.md) 
+
+### [FileClass~PostOffice.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.protect.md) 
+
+### [FileClass~PostOffice.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.private.md) 
+
+### [FileClass~PostOffice.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.personal.md) 
+
+### [FileClass~PostOffice.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice/FileClass~PostOffice.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_feature_list|has_feature_list]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_feature_list.public|has_feature_list.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_feature_list.internal|has_feature_list.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_feature_list.protect|has_feature_list.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_feature_list.private|has_feature_list.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_feature_list.personal|has_feature_list.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_feature_list.secret|has_feature_list.secret]] 
+
+### [has_feature_list](/_public/schema-org/Property/Texts/has_feature_list.md) 
+
+### [has_feature_list.internal](/_internal/schema-org/Property/Texts/has_feature_list.internal.md) 
+
+### [has_feature_list.protect](/_protect/schema-org/Property/Texts/has_feature_list.protect.md) 
+
+### [has_feature_list.private](/_private/schema-org/Property/Texts/has_feature_list.private.md) 
+
+### [has_feature_list.personal](/_personal/schema-org/Property/Texts/has_feature_list.personal.md) 
+
+### [has_feature_list.secret](/_secret/schema-org/Property/Texts/has_feature_list.secret.md) 

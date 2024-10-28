@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A convenience store.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ConvenienceStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.md) 
+
+### [FileClass~ConvenienceStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.internal.md) 
+
+### [FileClass~ConvenienceStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.protect.md) 
+
+### [FileClass~ConvenienceStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.private.md) 
+
+### [FileClass~ConvenienceStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.personal.md) 
+
+### [FileClass~ConvenienceStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.secret.md) 

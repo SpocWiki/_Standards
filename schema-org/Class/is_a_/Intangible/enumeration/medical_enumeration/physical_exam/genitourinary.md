@@ -45,10 +45,15 @@ Genitourinary system function assessment with clinical examination.
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary|genitourinary]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.public|genitourinary.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.internal|genitourinary.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.protect|genitourinary.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.private|genitourinary.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.personal|genitourinary.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.secret|genitourinary.secret]] 
+
+### [genitourinary](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.md) 
+
+### [genitourinary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.internal.md) 
+
+### [genitourinary.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.protect.md) 
+
+### [genitourinary.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.private.md) 
+
+### [genitourinary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.personal.md) 
+
+### [genitourinary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.secret.md) 

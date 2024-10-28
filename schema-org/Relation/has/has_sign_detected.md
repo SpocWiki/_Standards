@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalSign )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sign_detected|has_sign_detected]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sign_detected.public|has_sign_detected.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sign_detected.internal|has_sign_detected.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sign_detected.protect|has_sign_detected.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sign_detected.private|has_sign_detected.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sign_detected.personal|has_sign_detected.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sign_detected.secret|has_sign_detected.secret]] 
+
+### [has_sign_detected](/_public/schema-org/Relation/has/has_sign_detected.md) 
+
+### [has_sign_detected.internal](/_internal/schema-org/Relation/has/has_sign_detected.internal.md) 
+
+### [has_sign_detected.protect](/_protect/schema-org/Relation/has/has_sign_detected.protect.md) 
+
+### [has_sign_detected.private](/_private/schema-org/Relation/has/has_sign_detected.private.md) 
+
+### [has_sign_detected.personal](/_personal/schema-org/Relation/has/has_sign_detected.personal.md) 
+
+### [has_sign_detected.secret](/_secret/schema-org/Relation/has/has_sign_detected.secret.md) 

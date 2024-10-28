@@ -1,4 +1,4 @@
-# [[Iron-Age]] 
+﻿# [[Iron-Age]] 
 
 #is_a_/time_/Culture 
 
@@ -31,3 +31,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Iron-Age](/_public/Time-Ages/human-ages/Iron-Age.md) 
+
+### [Iron-Age.internal](/_internal/Time-Ages/human-ages/Iron-Age.internal.md) 
+
+### [Iron-Age.protect](/_protect/Time-Ages/human-ages/Iron-Age.protect.md) 
+
+### [Iron-Age.private](/_private/Time-Ages/human-ages/Iron-Age.private.md) 
+
+### [Iron-Age.personal](/_personal/Time-Ages/human-ages/Iron-Age.personal.md) 
+
+### [Iron-Age.secret](/_secret/Time-Ages/human-ages/Iron-Age.secret.md) 

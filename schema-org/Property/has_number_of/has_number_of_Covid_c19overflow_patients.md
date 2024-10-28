@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_Covid_c19overflow_patients|has_number_of_Covid_c19overflow_patients]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_Covid_c19overflow_patients.public|has_number_of_Covid_c19overflow_patients.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_c19overflow_patients.internal|has_number_of_Covid_c19overflow_patients.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_Covid_c19overflow_patients.protect|has_number_of_Covid_c19overflow_patients.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_Covid_c19overflow_patients.private|has_number_of_Covid_c19overflow_patients.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_Covid_c19overflow_patients.personal|has_number_of_Covid_c19overflow_patients.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_Covid_c19overflow_patients.secret|has_number_of_Covid_c19overflow_patients.secret]] 
+
+### [has_number_of_Covid_c19overflow_patients](/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19overflow_patients.md) 
+
+### [has_number_of_Covid_c19overflow_patients.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_c19overflow_patients.internal.md) 
+
+### [has_number_of_Covid_c19overflow_patients.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_c19overflow_patients.protect.md) 
+
+### [has_number_of_Covid_c19overflow_patients.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_c19overflow_patients.private.md) 
+
+### [has_number_of_Covid_c19overflow_patients.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_c19overflow_patients.personal.md) 
+
+### [has_number_of_Covid_c19overflow_patients.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19overflow_patients.secret.md) 

@@ -43,10 +43,15 @@ Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/program_membership|program_membership]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/program_membership.public|program_membership.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/program_membership.internal|program_membership.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/program_membership.protect|program_membership.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/program_membership.private|program_membership.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/program_membership.personal|program_membership.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/program_membership.secret|program_membership.secret]] 
+
+### [program_membership](/_public/schema-org/Class/is_a_/Intangible/program_membership.md) 
+
+### [program_membership.internal](/_internal/schema-org/Class/is_a_/Intangible/program_membership.internal.md) 
+
+### [program_membership.protect](/_protect/schema-org/Class/is_a_/Intangible/program_membership.protect.md) 
+
+### [program_membership.private](/_private/schema-org/Class/is_a_/Intangible/program_membership.private.md) 
+
+### [program_membership.personal](/_personal/schema-org/Class/is_a_/Intangible/program_membership.personal.md) 
+
+### [program_membership.secret](/_secret/schema-org/Class/is_a_/Intangible/program_membership.secret.md) 

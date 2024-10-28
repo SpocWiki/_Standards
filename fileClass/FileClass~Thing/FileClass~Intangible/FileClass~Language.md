@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Natural languages such as Spanish, Tamil, Hindi, English, etc. Formal language c
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Language](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.md) 
+
+### [FileClass~Language.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.internal.md) 
+
+### [FileClass~Language.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.protect.md) 
+
+### [FileClass~Language.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.private.md) 
+
+### [FileClass~Language.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.personal.md) 
+
+### [FileClass~Language.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.secret.md) 

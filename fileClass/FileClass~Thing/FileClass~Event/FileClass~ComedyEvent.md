@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Event type: Comedy event.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ComedyEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.md) 
+
+### [FileClass~ComedyEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.internal.md) 
+
+### [FileClass~ComedyEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.protect.md) 
+
+### [FileClass~ComedyEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.private.md) 
+
+### [FileClass~ComedyEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.personal.md) 
+
+### [FileClass~ComedyEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.secret.md) 

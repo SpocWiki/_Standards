@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.544 , 166.916 ] 
 type: geo-Region
 title: Boe
@@ -39,11 +39,15 @@ markerFolder: ./Boe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Boe|Boe]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Boe.public|Boe.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Boe.internal|Boe.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Boe.protect|Boe.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Boe.private|Boe.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Boe.personal|Boe.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Boe.secret|Boe.secret]] 
 
+### [Boe](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.md) 
+
+### [Boe.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.internal.md) 
+
+### [Boe.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.protect.md) 
+
+### [Boe.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.private.md) 
+
+### [Boe.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.personal.md) 
+
+### [Boe.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.secret.md) 

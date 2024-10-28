@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21992
@@ -34,10 +34,15 @@ SpocWebEntityId: 21992
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Berkelium|Berkelium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Berkelium.public|Berkelium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Berkelium.internal|Berkelium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Berkelium.protect|Berkelium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Berkelium.private|Berkelium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Berkelium.personal|Berkelium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Berkelium.secret|Berkelium.secret]] 
+
+### [Berkelium](/_public/chemic/chemic~Elements/Actinide-Group/Berkelium.md) 
+
+### [Berkelium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Berkelium.internal.md) 
+
+### [Berkelium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Berkelium.protect.md) 
+
+### [Berkelium.private](/_private/chemic/chemic~Elements/Actinide-Group/Berkelium.private.md) 
+
+### [Berkelium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Berkelium.personal.md) 
+
+### [Berkelium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Berkelium.secret.md) 

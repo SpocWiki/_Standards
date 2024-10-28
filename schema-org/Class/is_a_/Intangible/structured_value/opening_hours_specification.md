@@ -47,10 +47,15 @@ If the value for the [[closes]] property is less than the value for the [[opens]
 [ #has_/properties :: [ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/opening_hours_specification|opening_hours_specification]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/opening_hours_specification.public|opening_hours_specification.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.internal|opening_hours_specification.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.protect|opening_hours_specification.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.private|opening_hours_specification.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.personal|opening_hours_specification.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.secret|opening_hours_specification.secret]] 
+
+### [opening_hours_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.md) 
+
+### [opening_hours_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.internal.md) 
+
+### [opening_hours_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.protect.md) 
+
+### [opening_hours_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.private.md) 
+
+### [opening_hours_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.personal.md) 
+
+### [opening_hours_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.secret.md) 

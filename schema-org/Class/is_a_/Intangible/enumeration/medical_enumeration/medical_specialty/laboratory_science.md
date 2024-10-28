@@ -45,10 +45,15 @@ A medical science pertaining to chemical, hematological, immunologic, microscopi
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science|laboratory_science]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.public|laboratory_science.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.internal|laboratory_science.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.protect|laboratory_science.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.private|laboratory_science.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.personal|laboratory_science.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.secret|laboratory_science.secret]] 
+
+### [laboratory_science](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.md) 
+
+### [laboratory_science.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.internal.md) 
+
+### [laboratory_science.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.protect.md) 
+
+### [laboratory_science.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.private.md) 
+
+### [laboratory_science.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.personal.md) 
+
+### [laboratory_science.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -31,10 +31,15 @@ SpocWebEntityId: 21922
 > [Wikipedia](https://en.wikipedia.org/wiki/Scandium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-03-Scandium/Scandium|Scandium]] 
-- [[../../../../_public/chemic/Elements/Group-03-Scandium/Scandium.public|Scandium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Scandium.internal|Scandium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Scandium.protect|Scandium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-03-Scandium/Scandium.private|Scandium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Scandium.personal|Scandium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Scandium.secret|Scandium.secret]] 
+
+### [Scandium](/_public/chemic/chemic~Elements/Group-03-Scandium/Scandium.md) 
+
+### [Scandium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Scandium.internal.md) 
+
+### [Scandium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Scandium.protect.md) 
+
+### [Scandium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Scandium.private.md) 
+
+### [Scandium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Scandium.personal.md) 
+
+### [Scandium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Scandium.secret.md) 

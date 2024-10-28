@@ -43,10 +43,15 @@ The act of traveling from a fromLocation to a destination by a specified mode of
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, distance, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/move_action/travel_action|travel_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/move_action/travel_action.public|travel_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/move_action/travel_action.internal|travel_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/move_action/travel_action.protect|travel_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/move_action/travel_action.private|travel_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/move_action/travel_action.personal|travel_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/move_action/travel_action.secret|travel_action.secret]] 
+
+### [travel_action](/_public/schema-org/Class/is_a_/action/move_action/travel_action.md) 
+
+### [travel_action.internal](/_internal/schema-org/Class/is_a_/action/move_action/travel_action.internal.md) 
+
+### [travel_action.protect](/_protect/schema-org/Class/is_a_/action/move_action/travel_action.protect.md) 
+
+### [travel_action.private](/_private/schema-org/Class/is_a_/action/move_action/travel_action.private.md) 
+
+### [travel_action.personal](/_personal/schema-org/Class/is_a_/action/move_action/travel_action.personal.md) 
+
+### [travel_action.secret](/_secret/schema-org/Class/is_a_/action/move_action/travel_action.secret.md) 

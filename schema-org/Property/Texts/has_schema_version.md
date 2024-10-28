@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_schema_version|has_schema_version]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_schema_version.public|has_schema_version.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_schema_version.internal|has_schema_version.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_schema_version.protect|has_schema_version.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_schema_version.private|has_schema_version.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_schema_version.personal|has_schema_version.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_schema_version.secret|has_schema_version.secret]] 
+
+### [has_schema_version](/_public/schema-org/Property/Texts/has_schema_version.md) 
+
+### [has_schema_version.internal](/_internal/schema-org/Property/Texts/has_schema_version.internal.md) 
+
+### [has_schema_version.protect](/_protect/schema-org/Property/Texts/has_schema_version.protect.md) 
+
+### [has_schema_version.private](/_private/schema-org/Property/Texts/has_schema_version.private.md) 
+
+### [has_schema_version.personal](/_personal/schema-org/Property/Texts/has_schema_version.personal.md) 
+
+### [has_schema_version.secret](/_secret/schema-org/Property/Texts/has_schema_version.secret.md) 

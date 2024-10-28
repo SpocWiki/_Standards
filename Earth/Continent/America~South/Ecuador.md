@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -0.23
     - -78.5
@@ -146,9 +146,15 @@ Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]
 
 
 ## Confidential Links & Embeds: 
-- [[Ecuador|Ecuador]] 
-- [[../../../../_internal/Earth/Continent/America~South/Ecuador.internal|Ecuador.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Ecuador.protect|Ecuador.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Ecuador.private|Ecuador.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Ecuador.personal|Ecuador.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Ecuador.secret|Ecuador.secret]] 
+
+### [Ecuador](/_public/Earth/Continent/America~South/Ecuador.md) 
+
+### [Ecuador.internal](/_internal/Earth/Continent/America~South/Ecuador.internal.md) 
+
+### [Ecuador.protect](/_protect/Earth/Continent/America~South/Ecuador.protect.md) 
+
+### [Ecuador.private](/_private/Earth/Continent/America~South/Ecuador.private.md) 
+
+### [Ecuador.personal](/_personal/Earth/Continent/America~South/Ecuador.personal.md) 
+
+### [Ecuador.secret](/_secret/Earth/Continent/America~South/Ecuador.secret.md) 

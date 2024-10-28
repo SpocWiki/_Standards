@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_quest|has_quest]] 
-- [[../../../../../_public/schema-org/Relation/has/has_quest.public|has_quest.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_quest.internal|has_quest.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_quest.protect|has_quest.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_quest.private|has_quest.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_quest.personal|has_quest.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_quest.secret|has_quest.secret]] 
+
+### [has_quest](/_public/schema-org/Relation/has/has_quest.md) 
+
+### [has_quest.internal](/_internal/schema-org/Relation/has/has_quest.internal.md) 
+
+### [has_quest.protect](/_protect/schema-org/Relation/has/has_quest.protect.md) 
+
+### [has_quest.private](/_private/schema-org/Relation/has/has_quest.private.md) 
+
+### [has_quest.personal](/_personal/schema-org/Relation/has/has_quest.personal.md) 
+
+### [has_quest.secret](/_secret/schema-org/Relation/has/has_quest.secret.md) 

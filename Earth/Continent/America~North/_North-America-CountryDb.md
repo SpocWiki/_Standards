@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -444,9 +444,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[_North-America-CountryDb|_North-America-CountryDb]] 
-- [[../../../../_internal/Earth/Continent/America~North/_North-America-CountryDb.internal|_North-America-CountryDb.internal]] 
-- [[../../../../_protect/Earth/Continent/America~North/_North-America-CountryDb.protect|_North-America-CountryDb.protect]] 
-- [[../../../../_private/Earth/Continent/America~North/_North-America-CountryDb.private|_North-America-CountryDb.private]] 
-- [[../../../../_personal/Earth/Continent/America~North/_North-America-CountryDb.personal|_North-America-CountryDb.personal]] 
-- [[../../../../_secret/Earth/Continent/America~North/_North-America-CountryDb.secret|_North-America-CountryDb.secret]] 
+
+### [_North-America-CountryDb](/_public/Earth/Continent/America~North/_North-America-CountryDb.md) 
+
+### [_North-America-CountryDb.internal](/_internal/Earth/Continent/America~North/_North-America-CountryDb.internal.md) 
+
+### [_North-America-CountryDb.protect](/_protect/Earth/Continent/America~North/_North-America-CountryDb.protect.md) 
+
+### [_North-America-CountryDb.private](/_private/Earth/Continent/America~North/_North-America-CountryDb.private.md) 
+
+### [_North-America-CountryDb.personal](/_personal/Earth/Continent/America~North/_North-America-CountryDb.personal.md) 
+
+### [_North-America-CountryDb.secret](/_secret/Earth/Continent/America~North/_North-America-CountryDb.secret.md) 

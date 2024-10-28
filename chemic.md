@@ -1,4 +1,4 @@
----
+﻿---
 icon: ":atom symbol:"
 ---
 Chemistry is a wide Field; therefore it is broken up into 
@@ -16,10 +16,15 @@ Chemistry is a wide Field; therefore it is broken up into
 
 
 ## Confidential Links & Embeds: 
-- [[chemic|chemic]] 
-- [[../_internal/chemic.internal|chemic.internal]] 
-- [[../_protect/chemic.protect|chemic.protect]] 
-- [[../_private/chemic.private|chemic.private]] 
-- [[../_personal/chemic.personal|chemic.personal]] 
-- [[../_secret/chemic.secret|chemic.secret]]
 
+### [chemic](/_public/chemic.md) 
+
+### [chemic.internal](/_internal/chemic.internal.md) 
+
+### [chemic.protect](/_protect/chemic.protect.md) 
+
+### [chemic.private](/_private/chemic.private.md) 
+
+### [chemic.personal](/_personal/chemic.personal.md) 
+
+### [chemic.secret](/_secret/chemic.secret.md) 

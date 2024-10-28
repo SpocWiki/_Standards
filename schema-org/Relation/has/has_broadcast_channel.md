@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: providesBroadcastService ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_broadcast_channel|has_broadcast_channel]] 
-- [[../../../../../_public/schema-org/Relation/has/has_broadcast_channel.public|has_broadcast_channel.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_broadcast_channel.internal|has_broadcast_channel.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_broadcast_channel.protect|has_broadcast_channel.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_broadcast_channel.private|has_broadcast_channel.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_broadcast_channel.personal|has_broadcast_channel.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_broadcast_channel.secret|has_broadcast_channel.secret]] 
+
+### [has_broadcast_channel](/_public/schema-org/Relation/has/has_broadcast_channel.md) 
+
+### [has_broadcast_channel.internal](/_internal/schema-org/Relation/has/has_broadcast_channel.internal.md) 
+
+### [has_broadcast_channel.protect](/_protect/schema-org/Relation/has/has_broadcast_channel.protect.md) 
+
+### [has_broadcast_channel.private](/_private/schema-org/Relation/has/has_broadcast_channel.private.md) 
+
+### [has_broadcast_channel.personal](/_personal/schema-org/Relation/has/has_broadcast_channel.personal.md) 
+
+### [has_broadcast_channel.secret](/_secret/schema-org/Relation/has/has_broadcast_channel.secret.md) 

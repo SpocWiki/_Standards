@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 [ #is_/sub_property_of  :: position ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_episode|has_number_of_episode]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_episode.public|has_number_of_episode.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_episode.internal|has_number_of_episode.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_episode.protect|has_number_of_episode.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_episode.private|has_number_of_episode.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_episode.personal|has_number_of_episode.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_episode.secret|has_number_of_episode.secret]] 
+
+### [has_number_of_episode](/_public/schema-org/Property/has_number_of/has_number_of_episode.md) 
+
+### [has_number_of_episode.internal](/_internal/schema-org/Property/has_number_of/has_number_of_episode.internal.md) 
+
+### [has_number_of_episode.protect](/_protect/schema-org/Property/has_number_of/has_number_of_episode.protect.md) 
+
+### [has_number_of_episode.private](/_private/schema-org/Property/has_number_of/has_number_of_episode.private.md) 
+
+### [has_number_of_episode.personal](/_personal/schema-org/Property/has_number_of/has_number_of_episode.personal.md) 
+
+### [has_number_of_episode.secret](/_secret/schema-org/Property/has_number_of/has_number_of_episode.secret.md) 

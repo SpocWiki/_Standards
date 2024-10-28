@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Product, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_product_supported|has_product_supported]] 
-- [[../../../../../_public/schema-org/Relation/has/has_product_supported.public|has_product_supported.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_product_supported.internal|has_product_supported.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_product_supported.protect|has_product_supported.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_product_supported.private|has_product_supported.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_product_supported.personal|has_product_supported.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_product_supported.secret|has_product_supported.secret]] 
+
+### [has_product_supported](/_public/schema-org/Relation/has/has_product_supported.md) 
+
+### [has_product_supported.internal](/_internal/schema-org/Relation/has/has_product_supported.internal.md) 
+
+### [has_product_supported.protect](/_protect/schema-org/Relation/has/has_product_supported.protect.md) 
+
+### [has_product_supported.private](/_private/schema-org/Relation/has/has_product_supported.private.md) 
+
+### [has_product_supported.personal](/_personal/schema-org/Relation/has/has_product_supported.personal.md) 
+
+### [has_product_supported.secret](/_secret/schema-org/Relation/has/has_product_supported.secret.md) 

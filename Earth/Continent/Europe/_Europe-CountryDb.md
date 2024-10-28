@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -444,10 +444,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Europe/_Europe-CountryDb|_Europe-CountryDb]] 
-- [[../../../../_public/Earth/Continent/Europe/_Europe-CountryDb.public|_Europe-CountryDb.public]] 
-- [[../../../../_internal/Earth/Continent/Europe/_Europe-CountryDb.internal|_Europe-CountryDb.internal]] 
-- [[../../../../_protect/Earth/Continent/Europe/_Europe-CountryDb.protect|_Europe-CountryDb.protect]] 
-- [[../../../../_private/Earth/Continent/Europe/_Europe-CountryDb.private|_Europe-CountryDb.private]] 
-- [[../../../../_personal/Earth/Continent/Europe/_Europe-CountryDb.personal|_Europe-CountryDb.personal]] 
-- [[../../../../_secret/Earth/Continent/Europe/_Europe-CountryDb.secret|_Europe-CountryDb.secret]] 
+
+### [_Europe-CountryDb](/_public/Earth/Continent/Europe/_Europe-CountryDb.md) 
+
+### [_Europe-CountryDb.internal](/_internal/Earth/Continent/Europe/_Europe-CountryDb.internal.md) 
+
+### [_Europe-CountryDb.protect](/_protect/Earth/Continent/Europe/_Europe-CountryDb.protect.md) 
+
+### [_Europe-CountryDb.private](/_private/Earth/Continent/Europe/_Europe-CountryDb.private.md) 
+
+### [_Europe-CountryDb.personal](/_personal/Earth/Continent/Europe/_Europe-CountryDb.personal.md) 
+
+### [_Europe-CountryDb.secret](/_secret/Earth/Continent/Europe/_Europe-CountryDb.secret.md) 

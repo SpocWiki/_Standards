@@ -1,4 +1,4 @@
----
+﻿---
 location: [-0.5477778,166.9208] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -60,11 +60,15 @@ markerFolder: ./Yaren/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Yaren|Yaren]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Yaren.public|Yaren.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Yaren.internal|Yaren.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Yaren.protect|Yaren.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Yaren.private|Yaren.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Yaren.personal|Yaren.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Yaren.secret|Yaren.secret]] 
 
+### [Yaren](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.md) 
+
+### [Yaren.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.internal.md) 
+
+### [Yaren.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.protect.md) 
+
+### [Yaren.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.private.md) 
+
+### [Yaren.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.personal.md) 
+
+### [Yaren.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.secret.md) 

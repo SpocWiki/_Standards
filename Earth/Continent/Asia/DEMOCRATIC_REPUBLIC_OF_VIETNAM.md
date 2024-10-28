@@ -1,4 +1,4 @@
----
+﻿---
 
 type: Country
 tags:
@@ -35,10 +35,15 @@ Capital :: [[Hanoe]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM|DEMOCRATIC_REPUBLIC_OF_VIETNAM]] 
-- [[../../../../_public/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.public|DEMOCRATIC_REPUBLIC_OF_VIETNAM.public]] 
-- [[../../../../_internal/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal|DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect|DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.private|DEMOCRATIC_REPUBLIC_OF_VIETNAM.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal|DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret|DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret]] 
+
+### [DEMOCRATIC_REPUBLIC_OF_VIETNAM](/_public/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.md) 
+
+### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal](/_internal/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal.md) 
+
+### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect](/_protect/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect.md) 
+
+### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.private](/_private/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.private.md) 
+
+### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal](/_personal/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal.md) 
+
+### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret](/_secret/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret.md) 

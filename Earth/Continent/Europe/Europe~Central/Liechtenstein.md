@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 47.158
     - 9.529
@@ -143,10 +143,15 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein|Liechtenstein]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~Central/Liechtenstein.public|Liechtenstein.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein.internal|Liechtenstein.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein.protect|Liechtenstein.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~Central/Liechtenstein.private|Liechtenstein.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein.personal|Liechtenstein.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein.secret|Liechtenstein.secret]] 
+
+### [Liechtenstein](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein.md) 
+
+### [Liechtenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein.internal.md) 
+
+### [Liechtenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein.protect.md) 
+
+### [Liechtenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein.private.md) 
+
+### [Liechtenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein.personal.md) 
+
+### [Liechtenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein.secret.md) 

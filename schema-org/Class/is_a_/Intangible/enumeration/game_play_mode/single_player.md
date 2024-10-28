@@ -45,10 +45,15 @@ Play mode: SinglePlayer. Which is played by a lone player.
 [ #is_/enum_of :: [[../GamePlayMode]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/game_play_mode/single_player|single_player]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.public|single_player.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.internal|single_player.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.protect|single_player.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.private|single_player.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.personal|single_player.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.secret|single_player.secret]] 
+
+### [single_player](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/single_player.md) 
+
+### [single_player.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/single_player.internal.md) 
+
+### [single_player.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/single_player.protect.md) 
+
+### [single_player.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/single_player.private.md) 
+
+### [single_player.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/single_player.personal.md) 
+
+### [single_player.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/single_player.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 47.2796
     - 19.1508
@@ -144,10 +144,15 @@ Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Europe/Europe~East/Hungary|Hungary]] 
-- [[../../../../_public/Earth/Continent/Europe/Europe~East/Hungary.public|Hungary.public]] 
-- [[../../../../_internal/Earth/Continent/Europe/Europe~East/Hungary.internal|Hungary.internal]] 
-- [[../../../../_protect/Earth/Continent/Europe/Europe~East/Hungary.protect|Hungary.protect]] 
-- [[../../../../_private/Earth/Continent/Europe/Europe~East/Hungary.private|Hungary.private]] 
-- [[../../../../_personal/Earth/Continent/Europe/Europe~East/Hungary.personal|Hungary.personal]] 
-- [[../../../../_secret/Earth/Continent/Europe/Europe~East/Hungary.secret|Hungary.secret]] 
+
+### [Hungary](/_public/Earth/Continent/Europe/Europe~East/Hungary.md) 
+
+### [Hungary.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary.internal.md) 
+
+### [Hungary.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary.protect.md) 
+
+### [Hungary.private](/_private/Earth/Continent/Europe/Europe~East/Hungary.private.md) 
+
+### [Hungary.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary.personal.md) 
+
+### [Hungary.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary.secret.md) 

@@ -1,4 +1,4 @@
-# [[Micronesia]] 
+﻿# [[Micronesia]] 
 
 ## #has_/text_of_/abstract 
 
@@ -36,3 +36,17 @@ markerFolder: ./Micronesia/
 type: folder_brief_live
 ```
  
+
+## Confidential Links & Embeds: 
+
+### [Micronesia](/_public/Earth/Continent/Australasia/Micronesia.md) 
+
+### [Micronesia.internal](/_internal/Earth/Continent/Australasia/Micronesia.internal.md) 
+
+### [Micronesia.protect](/_protect/Earth/Continent/Australasia/Micronesia.protect.md) 
+
+### [Micronesia.private](/_private/Earth/Continent/Australasia/Micronesia.private.md) 
+
+### [Micronesia.personal](/_personal/Earth/Continent/Australasia/Micronesia.personal.md) 
+
+### [Micronesia.secret](/_secret/Earth/Continent/Australasia/Micronesia.secret.md) 

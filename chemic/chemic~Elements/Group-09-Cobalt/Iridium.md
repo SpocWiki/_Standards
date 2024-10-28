@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -40,10 +40,15 @@ SpocWebEntityId: 21973
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-09-Cobalt/Iridium|Iridium]] 
-- [[../../../../_public/chemic/Elements/Group-09-Cobalt/Iridium.public|Iridium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-09-Cobalt/Iridium.internal|Iridium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-09-Cobalt/Iridium.protect|Iridium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-09-Cobalt/Iridium.private|Iridium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-09-Cobalt/Iridium.personal|Iridium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-09-Cobalt/Iridium.secret|Iridium.secret]] 
+
+### [Iridium](/_public/chemic/chemic~Elements/Group-09-Cobalt/Iridium.md) 
+
+### [Iridium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.internal.md) 
+
+### [Iridium.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Iridium.protect.md) 
+
+### [Iridium.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Iridium.private.md) 
+
+### [Iridium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.personal.md) 
+
+### [Iridium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Iridium.secret.md) 

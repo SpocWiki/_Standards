@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: UnitPriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_price_component|has_price_component]] 
-- [[../../../../../_public/schema-org/Relation/has/has_price_component.public|has_price_component.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_price_component.internal|has_price_component.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_price_component.protect|has_price_component.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_price_component.private|has_price_component.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_price_component.personal|has_price_component.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_price_component.secret|has_price_component.secret]] 
+
+### [has_price_component](/_public/schema-org/Relation/has/has_price_component.md) 
+
+### [has_price_component.internal](/_internal/schema-org/Relation/has/has_price_component.internal.md) 
+
+### [has_price_component.protect](/_protect/schema-org/Relation/has/has_price_component.protect.md) 
+
+### [has_price_component.private](/_private/schema-org/Relation/has/has_price_component.private.md) 
+
+### [has_price_component.personal](/_personal/schema-org/Relation/has/has_price_component.personal.md) 
+
+### [has_price_component.secret](/_secret/schema-org/Relation/has/has_price_component.secret.md) 

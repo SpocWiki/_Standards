@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Duration, Text)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_flight|has_duration_of_flight]] 
-- [[../../../../_public/schema-org/Predicate/Durations/has_duration_of_flight.public|has_duration_of_flight.public]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_flight.internal|has_duration_of_flight.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_flight.protect|has_duration_of_flight.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_flight.private|has_duration_of_flight.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_flight.personal|has_duration_of_flight.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_flight.secret|has_duration_of_flight.secret]] 
+
+### [has_duration_of_flight](/_public/schema-org/Property/has_duration_of/has_duration_of_flight.md) 
+
+### [has_duration_of_flight.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_flight.internal.md) 
+
+### [has_duration_of_flight.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_flight.protect.md) 
+
+### [has_duration_of_flight.private](/_private/schema-org/Property/has_duration_of/has_duration_of_flight.private.md) 
+
+### [has_duration_of_flight.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_flight.personal.md) 
+
+### [has_duration_of_flight.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_flight.secret.md) 

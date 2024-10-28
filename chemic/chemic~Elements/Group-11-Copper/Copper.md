@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -40,10 +40,15 @@ SpocWebEntityId: 6012
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-11-Copper/Copper|Copper]] 
-- [[../../../../_public/chemic/Elements/Group-11-Copper/Copper.public|Copper.public]] 
-- [[../../../../_internal/chemic/Elements/Group-11-Copper/Copper.internal|Copper.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-11-Copper/Copper.protect|Copper.protect]] 
-- [[../../../../_private/chemic/Elements/Group-11-Copper/Copper.private|Copper.private]] 
-- [[../../../../_personal/chemic/Elements/Group-11-Copper/Copper.personal|Copper.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-11-Copper/Copper.secret|Copper.secret]] 
+
+### [Copper](/_public/chemic/chemic~Elements/Group-11-Copper/Copper.md) 
+
+### [Copper.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Copper.internal.md) 
+
+### [Copper.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Copper.protect.md) 
+
+### [Copper.private](/_private/chemic/chemic~Elements/Group-11-Copper/Copper.private.md) 
+
+### [Copper.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Copper.personal.md) 
+
+### [Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Copper.secret.md) 

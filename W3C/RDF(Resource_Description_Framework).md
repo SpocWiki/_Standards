@@ -1,4 +1,4 @@
-# [[RDF(Resource_Description_Framework)]] 
+﻿# [[RDF(Resource_Description_Framework)]] 
 
 #has_/url :: http://www.w3.org/1999/02/22-rdf-syntax-ns#
 #has_/url_for_ :: rdf 
@@ -13,3 +13,17 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Resource%20Description%20Framework)
 
+
+## Confidential Links & Embeds: 
+
+### [RDF(Resource_Description_Framework)](/_public/W3C/RDF(Resource_Description_Framework).md) 
+
+### [RDF(Resource_Description_Framework).internal](/_internal/W3C/RDF(Resource_Description_Framework).internal.md) 
+
+### [RDF(Resource_Description_Framework).protect](/_protect/W3C/RDF(Resource_Description_Framework).protect.md) 
+
+### [RDF(Resource_Description_Framework).private](/_private/W3C/RDF(Resource_Description_Framework).private.md) 
+
+### [RDF(Resource_Description_Framework).personal](/_personal/W3C/RDF(Resource_Description_Framework).personal.md) 
+
+### [RDF(Resource_Description_Framework).secret](/_secret/W3C/RDF(Resource_Description_Framework).secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 3.525
     - -75.225
@@ -146,9 +146,15 @@ Capital :: [[Colombia/Counties/Bogota/City/Bogota]]
 
 
 ## Confidential Links & Embeds: 
-- [[Colombia|Colombia]] 
-- [[../../../../_internal/Earth/Continent/America~South/Colombia.internal|Colombia.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Colombia.protect|Colombia.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Colombia.private|Colombia.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Colombia.personal|Colombia.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Colombia.secret|Colombia.secret]] 
+
+### [Colombia](/_public/Earth/Continent/America~South/Colombia.md) 
+
+### [Colombia.internal](/_internal/Earth/Continent/America~South/Colombia.internal.md) 
+
+### [Colombia.protect](/_protect/Earth/Continent/America~South/Colombia.protect.md) 
+
+### [Colombia.private](/_private/Earth/Continent/America~South/Colombia.private.md) 
+
+### [Colombia.personal](/_personal/Earth/Continent/America~South/Colombia.personal.md) 
+
+### [Colombia.secret](/_secret/Earth/Continent/America~South/Colombia.secret.md) 

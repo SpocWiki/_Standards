@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Relation describes that:
 ( #has_/range :: QualitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_non_equal|is_non_equal]] 
-- [[../../../../../_public/schema-org/Relation/has/is_non_equal.public|is_non_equal.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_non_equal.internal|is_non_equal.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_non_equal.protect|is_non_equal.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_non_equal.private|is_non_equal.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_non_equal.personal|is_non_equal.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_non_equal.secret|is_non_equal.secret]] 
+
+### [is_non_equal](/_public/schema-org/Relation/is/is_non_equal.md) 
+
+### [is_non_equal.internal](/_internal/schema-org/Relation/is/is_non_equal.internal.md) 
+
+### [is_non_equal.protect](/_protect/schema-org/Relation/is/is_non_equal.protect.md) 
+
+### [is_non_equal.private](/_private/schema-org/Relation/is/is_non_equal.private.md) 
+
+### [is_non_equal.personal](/_personal/schema-org/Relation/is/is_non_equal.personal.md) 
+
+### [is_non_equal.secret](/_secret/schema-org/Relation/is/is_non_equal.secret.md) 

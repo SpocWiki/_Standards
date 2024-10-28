@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 41.7167
     - 44.7833
@@ -55,9 +55,15 @@ Capital :: [[Tbilisi]]
 
 
 ## Confidential Links & Embeds: 
-- [[Georgia.Europe|Georgia.Europe]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~East/Georgia.Europe.internal|Georgia.Europe.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~East/Georgia.Europe.protect|Georgia.Europe.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~East/Georgia.Europe.private|Georgia.Europe.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~East/Georgia.Europe.personal|Georgia.Europe.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~East/Georgia.Europe.secret|Georgia.Europe.secret]] 
+
+### [Georgia.Europe](/_public/Earth/Continent/Europe/Europe~East/Georgia.Europe.md) 
+
+### [Georgia.Europe.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia.Europe.internal.md) 
+
+### [Georgia.Europe.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia.Europe.protect.md) 
+
+### [Georgia.Europe.private](/_private/Earth/Continent/Europe/Europe~East/Georgia.Europe.private.md) 
+
+### [Georgia.Europe.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia.Europe.personal.md) 
+
+### [Georgia.Europe.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia.Europe.secret.md) 

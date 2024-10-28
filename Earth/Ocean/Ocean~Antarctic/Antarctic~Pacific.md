@@ -1,4 +1,4 @@
-# [[Antarctic~Pacific]] 
+﻿# [[Antarctic~Pacific]] 
 
 ## Edit
 
@@ -31,3 +31,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Antarctic~Pacific](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.md) 
+
+### [Antarctic~Pacific.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.internal.md) 
+
+### [Antarctic~Pacific.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.protect.md) 
+
+### [Antarctic~Pacific.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.private.md) 
+
+### [Antarctic~Pacific.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.personal.md) 
+
+### [Antarctic~Pacific.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.secret.md) 

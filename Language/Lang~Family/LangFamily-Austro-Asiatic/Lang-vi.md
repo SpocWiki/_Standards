@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Vietnamese
@@ -58,11 +58,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Vietnamese%20language) 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-vi|Lang-vi]] 
-- [[../../_public/lang/Lang-vi.public|Lang-vi.public]] 
-- [[../../../../_internal/lang/Lang-vi.internal|Lang-vi.internal]] 
-- [[../../_protect/lang/Lang-vi.protect|Lang-vi.protect]] 
-- [[../../_private/lang/Lang-vi.private|Lang-vi.private]] 
-- [[../../_personal/lang/Lang-vi.personal|Lang-vi.personal]] 
-- [[../../_secret/lang/Lang-vi.secret|Lang-vi.secret]]
 
+### [Lang-vi](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.md) 
+
+### [Lang-vi.internal](/_internal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.internal.md) 
+
+### [Lang-vi.protect](/_protect/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.protect.md) 
+
+### [Lang-vi.private](/_private/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.private.md) 
+
+### [Lang-vi.personal](/_personal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.personal.md) 
+
+### [Lang-vi.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.secret.md) 

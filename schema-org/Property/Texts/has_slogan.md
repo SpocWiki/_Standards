@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_slogan|has_slogan]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_slogan.public|has_slogan.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_slogan.internal|has_slogan.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_slogan.protect|has_slogan.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_slogan.private|has_slogan.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_slogan.personal|has_slogan.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_slogan.secret|has_slogan.secret]] 
+
+### [has_slogan](/_public/schema-org/Property/Texts/has_slogan.md) 
+
+### [has_slogan.internal](/_internal/schema-org/Property/Texts/has_slogan.internal.md) 
+
+### [has_slogan.protect](/_protect/schema-org/Property/Texts/has_slogan.protect.md) 
+
+### [has_slogan.private](/_private/schema-org/Property/Texts/has_slogan.private.md) 
+
+### [has_slogan.personal](/_personal/schema-org/Property/Texts/has_slogan.personal.md) 
+
+### [has_slogan.secret](/_secret/schema-org/Property/Texts/has_slogan.secret.md) 

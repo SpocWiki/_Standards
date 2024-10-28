@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,10 +56,15 @@ Predicate describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/_Url_Template|_Url_Template]] 
-- [[../../../../_public/schema-org/Predicate/Urls/_Url_Template.public|_Url_Template.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/_Url_Template.internal|_Url_Template.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/_Url_Template.protect|_Url_Template.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/_Url_Template.private|_Url_Template.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/_Url_Template.personal|_Url_Template.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/_Url_Template.secret|_Url_Template.secret]] 
+
+### [_Url_Template](/_public/schema-org/Property/has_url_for/_Url_Template.md) 
+
+### [_Url_Template.internal](/_internal/schema-org/Property/has_url_for/_Url_Template.internal.md) 
+
+### [_Url_Template.protect](/_protect/schema-org/Property/has_url_for/_Url_Template.protect.md) 
+
+### [_Url_Template.private](/_private/schema-org/Property/has_url_for/_Url_Template.private.md) 
+
+### [_Url_Template.personal](/_personal/schema-org/Property/has_url_for/_Url_Template.personal.md) 
+
+### [_Url_Template.secret](/_secret/schema-org/Property/has_url_for/_Url_Template.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 27.7
     - 85.3167
@@ -146,9 +146,15 @@ Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]
 
 
 ## Confidential Links & Embeds: 
-- [[Nepal|Nepal]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South/Nepal.internal|Nepal.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South/Nepal.protect|Nepal.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South/Nepal.private|Nepal.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South/Nepal.personal|Nepal.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South/Nepal.secret|Nepal.secret]] 
+
+### [Nepal](/_public/Earth/Continent/Asia/Asia~South/Nepal.md) 
+
+### [Nepal.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal.internal.md) 
+
+### [Nepal.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal.protect.md) 
+
+### [Nepal.private](/_private/Earth/Continent/Asia/Asia~South/Nepal.private.md) 
+
+### [Nepal.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal.personal.md) 
+
+### [Nepal.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal.secret.md) 

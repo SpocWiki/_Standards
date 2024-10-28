@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TaxiService](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~TaxiService.md) 
+
+### [FileClass~TaxiService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~TaxiService.internal.md) 
+
+### [FileClass~TaxiService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~TaxiService.protect.md) 
+
+### [FileClass~TaxiService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~TaxiService.private.md) 
+
+### [FileClass~TaxiService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~TaxiService.personal.md) 
+
+### [FileClass~TaxiService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~TaxiService.secret.md) 

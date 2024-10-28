@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_iata|has_code_iata]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_code_iata.public|has_code_iata.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_code_iata.internal|has_code_iata.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_code_iata.protect|has_code_iata.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_code_iata.private|has_code_iata.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_code_iata.personal|has_code_iata.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_code_iata.secret|has_code_iata.secret]] 
+
+### [has_code_iata](/_public/schema-org/Property/has_name/has_code_iata.md) 
+
+### [has_code_iata.internal](/_internal/schema-org/Property/has_name/has_code_iata.internal.md) 
+
+### [has_code_iata.protect](/_protect/schema-org/Property/has_name/has_code_iata.protect.md) 
+
+### [has_code_iata.private](/_private/schema-org/Property/has_name/has_code_iata.private.md) 
+
+### [has_code_iata.personal](/_personal/schema-org/Property/has_name/has_code_iata.personal.md) 
+
+### [has_code_iata.secret](/_secret/schema-org/Property/has_name/has_code_iata.secret.md) 

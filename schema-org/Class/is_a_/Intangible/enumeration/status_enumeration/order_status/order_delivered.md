@@ -45,10 +45,15 @@ OrderStatus representing successful delivery of an order.
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered|order_delivered]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.public|order_delivered.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.internal|order_delivered.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.protect|order_delivered.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.private|order_delivered.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.personal|order_delivered.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.secret|order_delivered.secret]] 
+
+### [order_delivered](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.md) 
+
+### [order_delivered.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.internal.md) 
+
+### [order_delivered.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.protect.md) 
+
+### [order_delivered.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.private.md) 
+
+### [order_delivered.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.personal.md) 
+
+### [order_delivered.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -34,3 +34,17 @@ A reservation for boat travel.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BoatReservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.md) 
+
+### [FileClass~BoatReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.internal.md) 
+
+### [FileClass~BoatReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.protect.md) 
+
+### [FileClass~BoatReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.private.md) 
+
+### [FileClass~BoatReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.personal.md) 
+
+### [FileClass~BoatReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.secret.md) 

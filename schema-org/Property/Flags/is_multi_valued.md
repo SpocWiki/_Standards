@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_multi_valued|is_multi_valued]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_multi_valued.public|is_multi_valued.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_multi_valued.internal|is_multi_valued.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_multi_valued.protect|is_multi_valued.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_multi_valued.private|is_multi_valued.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_multi_valued.personal|is_multi_valued.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_multi_valued.secret|is_multi_valued.secret]] 
+
+### [is_multi_valued](/_public/schema-org/Property/Flags/is_multi_valued.md) 
+
+### [is_multi_valued.internal](/_internal/schema-org/Property/Flags/is_multi_valued.internal.md) 
+
+### [is_multi_valued.protect](/_protect/schema-org/Property/Flags/is_multi_valued.protect.md) 
+
+### [is_multi_valued.private](/_private/schema-org/Property/Flags/is_multi_valued.private.md) 
+
+### [is_multi_valued.personal](/_personal/schema-org/Property/Flags/is_multi_valued.personal.md) 
+
+### [is_multi_valued.secret](/_secret/schema-org/Property/Flags/is_multi_valued.secret.md) 

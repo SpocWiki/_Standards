@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Distance, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_flight_distance_in_meters|has_value_for_flight_distance_in_meters]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_flight_distance_in_meters.public|has_value_for_flight_distance_in_meters.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_flight_distance_in_meters.internal|has_value_for_flight_distance_in_meters.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_flight_distance_in_meters.protect|has_value_for_flight_distance_in_meters.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_flight_distance_in_meters.private|has_value_for_flight_distance_in_meters.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_flight_distance_in_meters.personal|has_value_for_flight_distance_in_meters.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_flight_distance_in_meters.secret|has_value_for_flight_distance_in_meters.secret]] 
+
+### [has_value_for_flight_distance_in_meters](/_public/schema-org/Property/has_value_for/has_value_for_flight_distance_in_meters.md) 
+
+### [has_value_for_flight_distance_in_meters.internal](/_internal/schema-org/Property/has_value_for/has_value_for_flight_distance_in_meters.internal.md) 
+
+### [has_value_for_flight_distance_in_meters.protect](/_protect/schema-org/Property/has_value_for/has_value_for_flight_distance_in_meters.protect.md) 
+
+### [has_value_for_flight_distance_in_meters.private](/_private/schema-org/Property/has_value_for/has_value_for_flight_distance_in_meters.private.md) 
+
+### [has_value_for_flight_distance_in_meters.personal](/_personal/schema-org/Property/has_value_for/has_value_for_flight_distance_in_meters.personal.md) 
+
+### [has_value_for_flight_distance_in_meters.secret](/_secret/schema-org/Property/has_value_for/has_value_for_flight_distance_in_meters.secret.md) 

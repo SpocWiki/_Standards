@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
   - Wu
@@ -73,11 +73,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Wu%20Chinese)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-wu|Lang-wu]] 
-- [[../../_public/lang/Lang-wu.public|Lang-wu.public]] 
-- [[../../../../../_internal/lang/Lang-wu.internal|Lang-wu.internal]] 
-- [[../../_protect/lang/Lang-wu.protect|Lang-wu.protect]] 
-- [[../../_private/lang/Lang-wu.private|Lang-wu.private]] 
-- [[../../_personal/lang/Lang-wu.personal|Lang-wu.personal]] 
-- [[../../_secret/lang/Lang-wu.secret|Lang-wu.secret]]
 
+### [Lang-zh-wuu](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.md) 
+
+### [Lang-zh-wuu.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.internal.md) 
+
+### [Lang-zh-wuu.protect](/_protect/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.protect.md) 
+
+### [Lang-zh-wuu.private](/_private/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.private.md) 
+
+### [Lang-zh-wuu.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.personal.md) 
+
+### [Lang-zh-wuu.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.secret.md) 

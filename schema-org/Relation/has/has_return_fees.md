@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: ReturnFeesEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_return_fees|has_return_fees]] 
-- [[../../../../../_public/schema-org/Relation/has/has_return_fees.public|has_return_fees.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_return_fees.internal|has_return_fees.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_return_fees.protect|has_return_fees.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_return_fees.private|has_return_fees.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_return_fees.personal|has_return_fees.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_return_fees.secret|has_return_fees.secret]] 
+
+### [has_return_fees](/_public/schema-org/Relation/has/has_return_fees.md) 
+
+### [has_return_fees.internal](/_internal/schema-org/Relation/has/has_return_fees.internal.md) 
+
+### [has_return_fees.protect](/_protect/schema-org/Relation/has/has_return_fees.protect.md) 
+
+### [has_return_fees.private](/_private/schema-org/Relation/has/has_return_fees.private.md) 
+
+### [has_return_fees.personal](/_personal/schema-org/Relation/has/has_return_fees.personal.md) 
+
+### [has_return_fees.secret](/_secret/schema-org/Relation/has/has_return_fees.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,10 +53,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_fuel_consumption_l_km|has_value_for_fuel_consumption_l_km]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_fuel_consumption_l_km.public|has_value_for_fuel_consumption_l_km.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_fuel_consumption_l_km.internal|has_value_for_fuel_consumption_l_km.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_fuel_consumption_l_km.protect|has_value_for_fuel_consumption_l_km.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_fuel_consumption_l_km.private|has_value_for_fuel_consumption_l_km.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_fuel_consumption_l_km.personal|has_value_for_fuel_consumption_l_km.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_fuel_consumption_l_km.secret|has_value_for_fuel_consumption_l_km.secret]] 
+
+### [has_value_for_fuel_consumption_l_km](/_public/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.md) 
+
+### [has_value_for_fuel_consumption_l_km.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.internal.md) 
+
+### [has_value_for_fuel_consumption_l_km.protect](/_protect/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.protect.md) 
+
+### [has_value_for_fuel_consumption_l_km.private](/_private/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.private.md) 
+
+### [has_value_for_fuel_consumption_l_km.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.personal.md) 
+
+### [has_value_for_fuel_consumption_l_km.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.secret.md) 

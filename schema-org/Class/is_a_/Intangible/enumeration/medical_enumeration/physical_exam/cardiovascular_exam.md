@@ -45,10 +45,15 @@ Cardiovascular system assessment with clinical examination.
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam|cardiovascular_exam]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.public|cardiovascular_exam.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.internal|cardiovascular_exam.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.protect|cardiovascular_exam.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.private|cardiovascular_exam.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.personal|cardiovascular_exam.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.secret|cardiovascular_exam.secret]] 
+
+### [cardiovascular_exam](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.md) 
+
+### [cardiovascular_exam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.internal.md) 
+
+### [cardiovascular_exam.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.protect.md) 
+
+### [cardiovascular_exam.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.private.md) 
+
+### [cardiovascular_exam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.personal.md) 
+
+### [cardiovascular_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.secret.md) 

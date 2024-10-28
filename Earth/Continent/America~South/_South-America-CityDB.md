@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -342,9 +342,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[_South-America-CityDB|_South-America-CityDB]] 
-- [[../../../../_internal/Earth/Continent/South-America/_South-America-CityDB.internal|_South-America-CityDB.internal]] 
-- [[../../../../_protect/Earth/Continent/South-America/_South-America-CityDB.protect|_South-America-CityDB.protect]] 
-- [[../../../../_private/Earth/Continent/South-America/_South-America-CityDB.private|_South-America-CityDB.private]] 
-- [[../../../../_personal/Earth/Continent/South-America/_South-America-CityDB.personal|_South-America-CityDB.personal]] 
-- [[../../../../_secret/Earth/Continent/South-America/_South-America-CityDB.secret|_South-America-CityDB.secret]] 
+
+### [_South-America-CityDB](/_public/Earth/Continent/America~South/_South-America-CityDB.md) 
+
+### [_South-America-CityDB.internal](/_internal/Earth/Continent/America~South/_South-America-CityDB.internal.md) 
+
+### [_South-America-CityDB.protect](/_protect/Earth/Continent/America~South/_South-America-CityDB.protect.md) 
+
+### [_South-America-CityDB.private](/_private/Earth/Continent/America~South/_South-America-CityDB.private.md) 
+
+### [_South-America-CityDB.personal](/_personal/Earth/Continent/America~South/_South-America-CityDB.personal.md) 
+
+### [_South-America-CityDB.secret](/_secret/Earth/Continent/America~South/_South-America-CityDB.secret.md) 

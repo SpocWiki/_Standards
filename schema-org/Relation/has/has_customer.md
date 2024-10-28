@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_customer|has_customer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_customer.public|has_customer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_customer.internal|has_customer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_customer.protect|has_customer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_customer.private|has_customer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_customer.personal|has_customer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_customer.secret|has_customer.secret]] 
+
+### [has_customer](/_public/schema-org/Relation/has/has_customer.md) 
+
+### [has_customer.internal](/_internal/schema-org/Relation/has/has_customer.internal.md) 
+
+### [has_customer.protect](/_protect/schema-org/Relation/has/has_customer.protect.md) 
+
+### [has_customer.private](/_private/schema-org/Relation/has/has_customer.private.md) 
+
+### [has_customer.personal](/_personal/schema-org/Relation/has/has_customer.personal.md) 
+
+### [has_customer.secret](/_secret/schema-org/Relation/has/has_customer.secret.md) 

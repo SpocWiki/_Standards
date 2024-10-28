@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Eskimo–Aleut|LangFamily-Eskimo–Aleut]] 
-- [[../../../_public/lang/Family/LangFamily-Eskimo–Aleut.public|LangFamily-Eskimo–Aleut.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Eskimo–Aleut.internal|LangFamily-Eskimo–Aleut.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Eskimo–Aleut.protect|LangFamily-Eskimo–Aleut.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Eskimo–Aleut.private|LangFamily-Eskimo–Aleut.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Eskimo–Aleut.personal|LangFamily-Eskimo–Aleut.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Eskimo–Aleut.secret|LangFamily-Eskimo–Aleut.secret]] 
+
+### [LangFamily-Eskimo–Aleut](/_public/Language/Lang~Family/LangFamily-Eskimo–Aleut.md) 
+
+### [LangFamily-Eskimo–Aleut.internal](/_internal/Language/Lang~Family/LangFamily-Eskimo–Aleut.internal.md) 
+
+### [LangFamily-Eskimo–Aleut.protect](/_protect/Language/Lang~Family/LangFamily-Eskimo–Aleut.protect.md) 
+
+### [LangFamily-Eskimo–Aleut.private](/_private/Language/Lang~Family/LangFamily-Eskimo–Aleut.private.md) 
+
+### [LangFamily-Eskimo–Aleut.personal](/_personal/Language/Lang~Family/LangFamily-Eskimo–Aleut.personal.md) 
+
+### [LangFamily-Eskimo–Aleut.secret](/_secret/Language/Lang~Family/LangFamily-Eskimo–Aleut.secret.md) 

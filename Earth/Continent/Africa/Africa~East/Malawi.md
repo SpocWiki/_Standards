@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -13.95
 - 33.7
@@ -142,9 +142,15 @@ Capital :: [[Lilongwe]]
 
 
 ## Confidential Links & Embeds: 
-- [[Malawi|Malawi]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Malawi.protect|Malawi.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Malawi.private|Malawi.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]] 
+
+### [Malawi](/_public/Earth/Continent/Africa/Africa~East/Malawi.md) 
+
+### [Malawi.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal.md) 
+
+### [Malawi.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi.protect.md) 
+
+### [Malawi.private](/_private/Earth/Continent/Africa/Africa~East/Malawi.private.md) 
+
+### [Malawi.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal.md) 
+
+### [Malawi.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret.md) 

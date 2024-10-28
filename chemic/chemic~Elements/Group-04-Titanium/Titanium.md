@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -34,10 +34,15 @@ SpocWebEntityId: 13522
 > [Wikipedia](https://en.wikipedia.org/wiki/Titanium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-04-Titanium/Titanium|Titanium]] 
-- [[../../../../_public/chemic/Elements/Group-04-Titanium/Titanium.public|Titanium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Titanium.internal|Titanium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Titanium.protect|Titanium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-04-Titanium/Titanium.private|Titanium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Titanium.personal|Titanium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Titanium.secret|Titanium.secret]] 
+
+### [Titanium](/_public/chemic/chemic~Elements/Group-04-Titanium/Titanium.md) 
+
+### [Titanium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Titanium.internal.md) 
+
+### [Titanium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Titanium.protect.md) 
+
+### [Titanium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Titanium.private.md) 
+
+### [Titanium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Titanium.personal.md) 
+
+### [Titanium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Titanium.secret.md) 

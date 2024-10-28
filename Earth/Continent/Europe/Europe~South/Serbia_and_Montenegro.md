@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.8167,20.4667]
 type: Country
 tags:
@@ -40,10 +40,15 @@ has_place_continent:: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro|Serbia_and_Montenegro]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.public|Serbia_and_Montenegro.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.internal|Serbia_and_Montenegro.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.protect|Serbia_and_Montenegro.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.private|Serbia_and_Montenegro.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.personal|Serbia_and_Montenegro.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.secret|Serbia_and_Montenegro.secret]] 
+
+### [Serbia_and_Montenegro](/_public/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.md) 
+
+### [Serbia_and_Montenegro.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.internal.md) 
+
+### [Serbia_and_Montenegro.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.protect.md) 
+
+### [Serbia_and_Montenegro.private](/_private/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.private.md) 
+
+### [Serbia_and_Montenegro.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.personal.md) 
+
+### [Serbia_and_Montenegro.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.secret.md) 

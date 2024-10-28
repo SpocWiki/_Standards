@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 11.8667
 - -15.6
@@ -140,9 +140,15 @@ Capital :: [[Bissau]]
 
 
 ## Confidential Links & Embeds: 
-- [[Guinea-Bissau|Guinea-Bissau]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.internal|Guinea-Bissau.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau.protect|Guinea-Bissau.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau.private|Guinea-Bissau.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.personal|Guinea-Bissau.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau.secret|Guinea-Bissau.secret]] 
+
+### [Guinea-Bissau](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau.md) 
+
+### [Guinea-Bissau.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.internal.md) 
+
+### [Guinea-Bissau.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau.protect.md) 
+
+### [Guinea-Bissau.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau.private.md) 
+
+### [Guinea-Bissau.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.personal.md) 
+
+### [Guinea-Bissau.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau.secret.md) 

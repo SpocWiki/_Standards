@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_programming_model|has_programming_model]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_programming_model.public|has_programming_model.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_programming_model.internal|has_programming_model.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_programming_model.protect|has_programming_model.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_programming_model.private|has_programming_model.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_programming_model.personal|has_programming_model.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_programming_model.secret|has_programming_model.secret]] 
+
+### [has_programming_model](/_public/schema-org/Property/Texts/has_programming_model.md) 
+
+### [has_programming_model.internal](/_internal/schema-org/Property/Texts/has_programming_model.internal.md) 
+
+### [has_programming_model.protect](/_protect/schema-org/Property/Texts/has_programming_model.protect.md) 
+
+### [has_programming_model.private](/_private/schema-org/Property/Texts/has_programming_model.private.md) 
+
+### [has_programming_model.personal](/_personal/schema-org/Property/Texts/has_programming_model.personal.md) 
+
+### [has_programming_model.secret](/_secret/schema-org/Property/Texts/has_programming_model.secret.md) 

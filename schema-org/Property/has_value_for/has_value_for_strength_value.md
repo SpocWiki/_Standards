@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_strength|has_value_for_strength]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_strength.public|has_value_for_strength.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_strength.internal|has_value_for_strength.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_strength.protect|has_value_for_strength.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_strength.private|has_value_for_strength.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_strength.personal|has_value_for_strength.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_strength.secret|has_value_for_strength.secret]] 
+
+### [has_value_for_strength_value](/_public/schema-org/Property/has_value_for/has_value_for_strength_value.md) 
+
+### [has_value_for_strength_value.internal](/_internal/schema-org/Property/has_value_for/has_value_for_strength_value.internal.md) 
+
+### [has_value_for_strength_value.protect](/_protect/schema-org/Property/has_value_for/has_value_for_strength_value.protect.md) 
+
+### [has_value_for_strength_value.private](/_private/schema-org/Property/has_value_for/has_value_for_strength_value.private.md) 
+
+### [has_value_for_strength_value.personal](/_personal/schema-org/Property/has_value_for/has_value_for_strength_value.personal.md) 
+
+### [has_value_for_strength_value.secret](/_secret/schema-org/Property/has_value_for/has_value_for_strength_value.secret.md) 

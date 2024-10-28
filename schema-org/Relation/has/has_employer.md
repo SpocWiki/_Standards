@@ -1,4 +1,4 @@
-
+﻿
 Use it like this: 
 - [ #has_/employer :: [[Organization]] ] or 
 - [ has_employer :: [[Organization]] ] 
@@ -13,10 +13,15 @@ Relation describes that:
 #is_/inverse_of :: [[has_employees]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_employer|has_employer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_employer.public|has_employer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_employer.internal|has_employer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_employer.protect|has_employer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_employer.private|has_employer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_employer.personal|has_employer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_employer.secret|has_employer.secret]] 
+
+### [has_employer](/_public/schema-org/Relation/has/has_employer.md) 
+
+### [has_employer.internal](/_internal/schema-org/Relation/has/has_employer.internal.md) 
+
+### [has_employer.protect](/_protect/schema-org/Relation/has/has_employer.protect.md) 
+
+### [has_employer.private](/_private/schema-org/Relation/has/has_employer.private.md) 
+
+### [has_employer.personal](/_personal/schema-org/Relation/has/has_employer.personal.md) 
+
+### [has_employer.secret](/_secret/schema-org/Relation/has/has_employer.secret.md) 

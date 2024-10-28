@@ -1,4 +1,4 @@
-
+﻿
 > **Organic chemistry** is a subdiscipline within chemistry involving the scientific study of the structure, properties, and reactions of organic compounds and organic materials, i.e., matter in its various forms that contain carbon atoms. Study of structure determines their structural formula. Study of properties includes physical and chemical properties, and evaluation of chemical reactivity to understand their behavior. The study of organic reactions includes the chemical synthesis of natural products, drugs, and polymers, and study of individual organic molecules in the laboratory and via theoretical (in silico) study.
 >
 > The range of chemicals studied in organic chemistry includes hydrocarbons (compounds containing only carbon and hydrogen) as well as compounds based on carbon, but also containing other elements, especially oxygen, nitrogen, sulfur, phosphorus (included in many biochemicals) and the halogens. Organometallic chemistry is the study of compounds containing carbon–metal bonds.
@@ -11,11 +11,15 @@
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/chemic/organic|organic]] 
-- [[../../_public/chemic/organic.public|organic.public]] 
-- [[../../_internal/chemic/organic.internal|organic.internal]] 
-- [[../../_protect/chemic/organic.protect|organic.protect]] 
-- [[../../_private/chemic/organic.private|organic.private]] 
-- [[../../_personal/chemic/organic.personal|organic.personal]] 
-- [[../../_secret/chemic/organic.secret|organic.secret]]
 
+### [organic](/_public/chemic/organic.md) 
+
+### [organic.internal](/_internal/chemic/organic.internal.md) 
+
+### [organic.protect](/_protect/chemic/organic.protect.md) 
+
+### [organic.private](/_private/chemic/organic.private.md) 
+
+### [organic.personal](/_personal/chemic/organic.personal.md) 
+
+### [organic.secret](/_secret/chemic/organic.secret.md) 

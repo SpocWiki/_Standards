@@ -1,18 +1,20 @@
----
+﻿---
 title: United States of America
 type: Country
-
-location: [39.2641,-94.8153]
+location:
+  - 39.2641
+  - -94.8153
 has_id_wikidata: Q30
 SpocWebEntityId: 27047
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 linkTitle: 
 keywords: 
@@ -21,10 +23,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
+  - United States of America
+  - United States
 Languages:
-- en-US
+  - en-US
 icon: flag-us
-
 ---
 
 # [[USA]] 
@@ -106,9 +109,15 @@ Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]
 
 
 ## Confidential Links & Embeds: 
-- [[USA|USA]] 
-- [[../../../../_internal/Earth/Continent/America~North/USA.internal|USA.internal]] 
-- [[../../../../_protect/Earth/Continent/America~North/USA.protect|USA.protect]] 
-- [[../../../../_private/Earth/Continent/America~North/USA.private|USA.private]] 
-- [[../../../../_personal/Earth/Continent/America~North/USA.personal|USA.personal]] 
-- [[../../../../_secret/Earth/Continent/America~North/USA.secret|USA.secret]] 
+
+### [USA](/_public/Earth/Continent/America~North/USA.md) 
+
+### [USA.internal](/_internal/Earth/Continent/America~North/USA.internal.md) 
+
+### [USA.protect](/_protect/Earth/Continent/America~North/USA.protect.md) 
+
+### [USA.private](/_private/Earth/Continent/America~North/USA.private.md) 
+
+### [USA.personal](/_personal/Earth/Continent/America~North/USA.personal.md) 
+
+### [USA.secret](/_secret/Earth/Continent/America~North/USA.secret.md) 

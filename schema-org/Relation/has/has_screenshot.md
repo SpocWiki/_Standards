@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: ImageObject, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_screenshot|has_screenshot]] 
-- [[../../../../../_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_screenshot.internal|has_screenshot.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_screenshot.protect|has_screenshot.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_screenshot.private|has_screenshot.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_screenshot.personal|has_screenshot.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_screenshot.secret|has_screenshot.secret]] 
+
+### [has_screenshot](/_public/schema-org/Relation/has/has_screenshot.md) 
+
+### [has_screenshot.internal](/_internal/schema-org/Relation/has/has_screenshot.internal.md) 
+
+### [has_screenshot.protect](/_protect/schema-org/Relation/has/has_screenshot.protect.md) 
+
+### [has_screenshot.private](/_private/schema-org/Relation/has/has_screenshot.private.md) 
+
+### [has_screenshot.personal](/_personal/schema-org/Relation/has/has_screenshot.personal.md) 
+
+### [has_screenshot.secret](/_secret/schema-org/Relation/has/has_screenshot.secret.md) 

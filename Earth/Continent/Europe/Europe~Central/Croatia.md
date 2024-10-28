@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 45.8
     - 15.97
@@ -148,10 +148,15 @@ Capital :: [[Zagreb]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Croatia|Croatia]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~Central/Croatia.protect|Croatia.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~Central/Croatia.private|Croatia.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~Central/Croatia.personal|Croatia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret|Croatia.secret]] 
+
+### [Croatia](/_public/Earth/Continent/Europe/Europe~Central/Croatia.md) 
+
+### [Croatia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal.md) 
+
+### [Croatia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia.protect.md) 
+
+### [Croatia.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia.private.md) 
+
+### [Croatia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia.personal.md) 
+
+### [Croatia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret.md) 

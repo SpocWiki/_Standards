@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -661,3 +661,17 @@ Upcoming or past event associated with this place, organization, or action.
 
 Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Event')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CivicStructureAndOrganization](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization.md) 
+
+### [FileClass~CivicStructureAndOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization.internal.md) 
+
+### [FileClass~CivicStructureAndOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization.protect.md) 
+
+### [FileClass~CivicStructureAndOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization.private.md) 
+
+### [FileClass~CivicStructureAndOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization.personal.md) 
+
+### [FileClass~CivicStructureAndOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization.secret.md) 

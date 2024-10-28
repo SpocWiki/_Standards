@@ -45,10 +45,15 @@ Branch of medicine that pertains to the health services to improve and protect c
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/public_health|public_health]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.public|public_health.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/public_health.internal|public_health.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/public_health.protect|public_health.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/public_health.private|public_health.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/public_health.personal|public_health.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/public_health.secret|public_health.secret]] 
+
+### [public_health](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.md) 
+
+### [public_health.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.internal.md) 
+
+### [public_health.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.protect.md) 
+
+### [public_health.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.private.md) 
+
+### [public_health.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.personal.md) 
+
+### [public_health.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.secret.md) 

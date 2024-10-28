@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -127,10 +127,15 @@ Data type: URL.
 [ #is_/sub_class_of :: [[../Text]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/text/url|url]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/data_type/text/url.public|url.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/url.internal|url.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/text/url.protect|url.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/data_type/text/url.private|url.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/text/url.personal|url.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/text/url.secret|url.secret]] 
+
+### [URL](/_public/schema-org/Class/is_a_/data_type/text/URL.md) 
+
+### [URL.internal](/_internal/schema-org/Class/is_a_/data_type/text/URL.internal.md) 
+
+### [URL.protect](/_protect/schema-org/Class/is_a_/data_type/text/URL.protect.md) 
+
+### [URL.private](/_private/schema-org/Class/is_a_/data_type/text/URL.private.md) 
+
+### [URL.personal](/_personal/schema-org/Class/is_a_/data_type/text/URL.personal.md) 
+
+### [URL.secret](/_secret/schema-org/Class/is_a_/data_type/text/URL.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -68,3 +68,17 @@ When a taxi will pick up a passenger or a rental car can be picked up.
 PickupTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TaxiReservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.md) 
+
+### [FileClass~TaxiReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.internal.md) 
+
+### [FileClass~TaxiReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.protect.md) 
+
+### [FileClass~TaxiReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.private.md) 
+
+### [FileClass~TaxiReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.personal.md) 
+
+### [FileClass~TaxiReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 #has_/sub_properties :: [ [has_actionOption](../../Texts/has_action_option.md) , [has_candidate](has_candidate.md) , [is_in_collection](../is/is_in_collection.md), [is_followee_of](../is/is_followee_of.md), [has_option](../../Texts/has_option.md) , [has_question](has_question.md), [has_replacee](has_replacee.md), [replacer](has_replacer.md) , [has_targetCollection](has_target_collection.md) ] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_object|has_object]] 
-- [[../../../../../_public/schema-org/Relation/has/has_object.public|has_object.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_object.internal|has_object.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_object.protect|has_object.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_object.private|has_object.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_object.personal|has_object.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_object.secret|has_object.secret]] 
+
+### [has_object](/_public/schema-org/Relation/has/has_object.md) 
+
+### [has_object.internal](/_internal/schema-org/Relation/has/has_object.internal.md) 
+
+### [has_object.protect](/_protect/schema-org/Relation/has/has_object.protect.md) 
+
+### [has_object.private](/_private/schema-org/Relation/has/has_object.private.md) 
+
+### [has_object.personal](/_personal/schema-org/Relation/has/has_object.personal.md) 
+
+### [has_object.secret](/_secret/schema-org/Relation/has/has_object.secret.md) 

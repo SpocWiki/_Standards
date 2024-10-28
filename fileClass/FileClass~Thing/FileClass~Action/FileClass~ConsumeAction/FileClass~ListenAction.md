@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of consuming audio content.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ListenAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ListenAction.md) 
+
+### [FileClass~ListenAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ListenAction.internal.md) 
+
+### [FileClass~ListenAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ListenAction.protect.md) 
+
+### [FileClass~ListenAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ListenAction.private.md) 
+
+### [FileClass~ListenAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ListenAction.personal.md) 
+
+### [FileClass~ListenAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ListenAction.secret.md) 

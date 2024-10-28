@@ -45,10 +45,15 @@ An account that allows an investor to deposit funds and place investment orders 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account|brokerage_account]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.public|brokerage_account.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.internal|brokerage_account.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.protect|brokerage_account.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.private|brokerage_account.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.personal|brokerage_account.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.secret|brokerage_account.secret]] 
+
+### [brokerage_account](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.md) 
+
+### [brokerage_account.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.internal.md) 
+
+### [brokerage_account.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.protect.md) 
+
+### [brokerage_account.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.private.md) 
+
+### [brokerage_account.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.personal.md) 
+
+### [brokerage_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.secret.md) 

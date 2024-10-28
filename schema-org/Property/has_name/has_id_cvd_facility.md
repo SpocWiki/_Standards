@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_cvd_facility|has_id_cvd_facility]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_cvd_facility.public|has_id_cvd_facility.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_cvd_facility.internal|has_id_cvd_facility.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_cvd_facility.protect|has_id_cvd_facility.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_cvd_facility.private|has_id_cvd_facility.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_cvd_facility.personal|has_id_cvd_facility.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_cvd_facility.secret|has_id_cvd_facility.secret]] 
+
+### [has_id_cvd_facility](/_public/schema-org/Property/has_name/has_id_cvd_facility.md) 
+
+### [has_id_cvd_facility.internal](/_internal/schema-org/Property/has_name/has_id_cvd_facility.internal.md) 
+
+### [has_id_cvd_facility.protect](/_protect/schema-org/Property/has_name/has_id_cvd_facility.protect.md) 
+
+### [has_id_cvd_facility.private](/_private/schema-org/Property/has_name/has_id_cvd_facility.private.md) 
+
+### [has_id_cvd_facility.personal](/_personal/schema-org/Property/has_name/has_id_cvd_facility.personal.md) 
+
+### [has_id_cvd_facility.secret](/_secret/schema-org/Property/has_name/has_id_cvd_facility.secret.md) 

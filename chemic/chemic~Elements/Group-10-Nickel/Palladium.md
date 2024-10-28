@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -38,10 +38,15 @@ SpocWebEntityId: 21944
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-10-Nickel/Palladium|Palladium]] 
-- [[../../../../_public/chemic/Elements/Group-10-Nickel/Palladium.public|Palladium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-10-Nickel/Palladium.internal|Palladium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-10-Nickel/Palladium.protect|Palladium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-10-Nickel/Palladium.private|Palladium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-10-Nickel/Palladium.personal|Palladium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-10-Nickel/Palladium.secret|Palladium.secret]] 
+
+### [Palladium](/_public/chemic/chemic~Elements/Group-10-Nickel/Palladium.md) 
+
+### [Palladium.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Palladium.internal.md) 
+
+### [Palladium.protect](/_protect/chemic/chemic~Elements/Group-10-Nickel/Palladium.protect.md) 
+
+### [Palladium.private](/_private/chemic/chemic~Elements/Group-10-Nickel/Palladium.private.md) 
+
+### [Palladium.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Palladium.personal.md) 
+
+### [Palladium.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Palladium.secret.md) 

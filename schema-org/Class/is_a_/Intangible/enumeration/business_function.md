@@ -54,10 +54,15 @@ Commonly used values:
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/business_function|business_function]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/business_function.public|business_function.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/business_function.internal|business_function.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/business_function.protect|business_function.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/business_function.private|business_function.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/business_function.personal|business_function.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/business_function.secret|business_function.secret]] 
+
+### [business_function](/_public/schema-org/Class/is_a_/Intangible/enumeration/business_function.md) 
+
+### [business_function.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/business_function.internal.md) 
+
+### [business_function.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/business_function.protect.md) 
+
+### [business_function.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/business_function.private.md) 
+
+### [business_function.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/business_function.personal.md) 
+
+### [business_function.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/business_function.secret.md) 

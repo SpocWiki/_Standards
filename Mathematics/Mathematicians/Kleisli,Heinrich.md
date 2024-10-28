@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Heinrich Kleisli
 ---
@@ -21,3 +21,17 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heinrich%20Kleisli)
 
+
+## Confidential Links & Embeds: 
+
+### [Kleisli,Heinrich](/_public/Mathematics/Mathematicians/Kleisli,Heinrich.md) 
+
+### [Kleisli,Heinrich.internal](/_internal/Mathematics/Mathematicians/Kleisli,Heinrich.internal.md) 
+
+### [Kleisli,Heinrich.protect](/_protect/Mathematics/Mathematicians/Kleisli,Heinrich.protect.md) 
+
+### [Kleisli,Heinrich.private](/_private/Mathematics/Mathematicians/Kleisli,Heinrich.private.md) 
+
+### [Kleisli,Heinrich.personal](/_personal/Mathematics/Mathematicians/Kleisli,Heinrich.personal.md) 
+
+### [Kleisli,Heinrich.secret](/_secret/Mathematics/Mathematicians/Kleisli,Heinrich.secret.md) 

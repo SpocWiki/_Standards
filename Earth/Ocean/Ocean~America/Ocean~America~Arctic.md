@@ -1,4 +1,4 @@
-# [[Ocean~America~Arctic]] 
+﻿# [[Ocean~America~Arctic]] 
 
 ## Edit
 
@@ -31,3 +31,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Ocean~America~Arctic](/_public/Earth/Ocean/Ocean~America/Ocean~America~Arctic.md) 
+
+### [Ocean~America~Arctic.internal](/_internal/Earth/Ocean/Ocean~America/Ocean~America~Arctic.internal.md) 
+
+### [Ocean~America~Arctic.protect](/_protect/Earth/Ocean/Ocean~America/Ocean~America~Arctic.protect.md) 
+
+### [Ocean~America~Arctic.private](/_private/Earth/Ocean/Ocean~America/Ocean~America~Arctic.private.md) 
+
+### [Ocean~America~Arctic.personal](/_personal/Earth/Ocean/Ocean~America/Ocean~America~Arctic.personal.md) 
+
+### [Ocean~America~Arctic.secret](/_secret/Earth/Ocean/Ocean~America/Ocean~America~Arctic.secret.md) 

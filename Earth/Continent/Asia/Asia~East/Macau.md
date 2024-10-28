@@ -1,4 +1,4 @@
----
+﻿---
 type: Country
 tags:
 - geo/Country
@@ -124,9 +124,15 @@ has_place_continent:: [[Asia]]
 
 
 ## Confidential Links & Embeds: 
-- [[Macau|Macau]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~East/Macau.internal|Macau.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~East/Macau.protect|Macau.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~East/Macau.private|Macau.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~East/Macau.personal|Macau.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~East/Macau.secret|Macau.secret]] 
+
+### [Macau](/_public/Earth/Continent/Asia/Asia~East/Macau.md) 
+
+### [Macau.internal](/_internal/Earth/Continent/Asia/Asia~East/Macau.internal.md) 
+
+### [Macau.protect](/_protect/Earth/Continent/Asia/Asia~East/Macau.protect.md) 
+
+### [Macau.private](/_private/Earth/Continent/Asia/Asia~East/Macau.private.md) 
+
+### [Macau.personal](/_personal/Earth/Continent/Asia/Asia~East/Macau.personal.md) 
+
+### [Macau.secret](/_secret/Earth/Continent/Asia/Asia~East/Macau.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A health club.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~HealthClub](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~HealthBeautyAndSportsActivityBusinessLocation/FileClass~HealthClub.md) 
+
+### [FileClass~HealthClub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~HealthBeautyAndSportsActivityBusinessLocation/FileClass~HealthClub.internal.md) 
+
+### [FileClass~HealthClub.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~HealthBeautyAndSportsActivityBusinessLocation/FileClass~HealthClub.protect.md) 
+
+### [FileClass~HealthClub.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~HealthBeautyAndSportsActivityBusinessLocation/FileClass~HealthClub.private.md) 
+
+### [FileClass~HealthClub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~HealthBeautyAndSportsActivityBusinessLocation/FileClass~HealthClub.personal.md) 
+
+### [FileClass~HealthClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~HealthBeautyAndSportsActivityBusinessLocation/FileClass~HealthClub.secret.md) 

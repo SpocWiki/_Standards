@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_duns|has_duns]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_duns.public|has_duns.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_duns.internal|has_duns.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_duns.protect|has_duns.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_duns.private|has_duns.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_duns.personal|has_duns.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_duns.secret|has_duns.secret]] 
+
+### [has_duns](/_public/schema-org/Property/has_name/has_duns.md) 
+
+### [has_duns.internal](/_internal/schema-org/Property/has_name/has_duns.internal.md) 
+
+### [has_duns.protect](/_protect/schema-org/Property/has_name/has_duns.protect.md) 
+
+### [has_duns.private](/_private/schema-org/Property/has_name/has_duns.private.md) 
+
+### [has_duns.personal](/_personal/schema-org/Property/has_name/has_duns.personal.md) 
+
+### [has_duns.secret](/_secret/schema-org/Property/has_name/has_duns.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_expressed_in|is_expressed_in]] 
-- [[../../../../../_public/schema-org/Relation/is/is_expressed_in.public|is_expressed_in.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_expressed_in.internal|is_expressed_in.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_expressed_in.protect|is_expressed_in.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_expressed_in.private|is_expressed_in.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_expressed_in.personal|is_expressed_in.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_expressed_in.secret|is_expressed_in.secret]] 
+
+### [is_expressed_in](/_public/schema-org/Relation/is/is_expressed_in.md) 
+
+### [is_expressed_in.internal](/_internal/schema-org/Relation/is/is_expressed_in.internal.md) 
+
+### [is_expressed_in.protect](/_protect/schema-org/Relation/is/is_expressed_in.protect.md) 
+
+### [is_expressed_in.private](/_private/schema-org/Relation/is/is_expressed_in.private.md) 
+
+### [is_expressed_in.personal](/_personal/schema-org/Relation/is/is_expressed_in.personal.md) 
+
+### [is_expressed_in.secret](/_secret/schema-org/Relation/is/is_expressed_in.secret.md) 

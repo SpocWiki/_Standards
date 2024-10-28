@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -123,3 +123,17 @@ The trailer of a movie or TV/radio series, season, episode, etc.
 Trailer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Movie](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.md) 
+
+### [FileClass~Movie.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.internal.md) 
+
+### [FileClass~Movie.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.protect.md) 
+
+### [FileClass~Movie.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.private.md) 
+
+### [FileClass~Movie.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.personal.md) 
+
+### [FileClass~Movie.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.secret.md) 

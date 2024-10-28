@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,10 +50,15 @@ Relation describes that:
 #is_/inverse_of :: [[is_predecessor_of]]   
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_successor_of|is_successor_of]] 
-- [[../../../../../_public/schema-org/Relation/has/is_successor_of.public|is_successor_of.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_successor_of.internal|is_successor_of.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_successor_of.protect|is_successor_of.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_successor_of.private|is_successor_of.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_successor_of.personal|is_successor_of.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_successor_of.secret|is_successor_of.secret]] 
+
+### [is_successor_of](/_public/schema-org/Relation/is/is_successor_of.md) 
+
+### [is_successor_of.internal](/_internal/schema-org/Relation/is/is_successor_of.internal.md) 
+
+### [is_successor_of.protect](/_protect/schema-org/Relation/is/is_successor_of.protect.md) 
+
+### [is_successor_of.private](/_private/schema-org/Relation/is/is_successor_of.private.md) 
+
+### [is_successor_of.personal](/_personal/schema-org/Relation/is/is_successor_of.personal.md) 
+
+### [is_successor_of.secret](/_secret/schema-org/Relation/is/is_successor_of.secret.md) 

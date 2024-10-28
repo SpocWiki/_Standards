@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 36.78
 - 3.05
@@ -143,9 +143,15 @@ Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]
 
 
 ## Confidential Links & Embeds: 
-- [[Algeria|Algeria]]  
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~North/Algeria.internal|Algeria.internal]]  
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~North/Algeria.protect|Algeria.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~North/Algeria.private|Algeria.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~North/Algeria.personal|Algeria.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~North/Algeria.secret|Algeria.secret]] 
+
+### [Algeria](/_public/Earth/Continent/Africa/Africa~North/Algeria.md) 
+
+### [Algeria.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria.internal.md) 
+
+### [Algeria.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria.protect.md) 
+
+### [Algeria.private](/_private/Earth/Continent/Africa/Africa~North/Algeria.private.md) 
+
+### [Algeria.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria.personal.md) 
+
+### [Algeria.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria.secret.md) 

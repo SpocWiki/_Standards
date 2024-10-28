@@ -1,4 +1,4 @@
-# Obsidian.Elements
+﻿# Obsidian.Elements
 Shared Facts about chemical Elements
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -14,10 +14,15 @@ Shared Facts about chemical Elements
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20element)
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/chemic/Elements/README|README]] 
-- [[../../../_public/chemic/Elements/README.public|README.public]] 
-- [[../../../_internal/chemic/Elements/README.internal|README.internal]] 
-- [[../../../_protect/chemic/Elements/README.protect|README.protect]] 
-- [[../../../_private/chemic/Elements/README.private|README.private]] 
-- [[../../../_personal/chemic/Elements/README.personal|README.personal]] 
-- [[../../../_secret/chemic/Elements/README.secret|README.secret]] 
+
+### [README](/_public/chemic/chemic~Elements/README.md) 
+
+### [README.internal](/_internal/chemic/chemic~Elements/README.internal.md) 
+
+### [README.protect](/_protect/chemic/chemic~Elements/README.protect.md) 
+
+### [README.private](/_private/chemic/chemic~Elements/README.private.md) 
+
+### [README.personal](/_personal/chemic/chemic~Elements/README.personal.md) 
+
+### [README.secret](/_secret/chemic/chemic~Elements/README.secret.md) 

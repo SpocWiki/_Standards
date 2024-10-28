@@ -46,10 +46,15 @@ See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.htm
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/observation|observation]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/observation.public|observation.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/observation.internal|observation.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/observation.protect|observation.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/observation.private|observation.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/observation.personal|observation.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/observation.secret|observation.secret]] 
+
+### [observation](/_public/schema-org/Class/is_a_/Intangible/observation.md) 
+
+### [observation.internal](/_internal/schema-org/Class/is_a_/Intangible/observation.internal.md) 
+
+### [observation.protect](/_protect/schema-org/Class/is_a_/Intangible/observation.protect.md) 
+
+### [observation.private](/_private/schema-org/Class/is_a_/Intangible/observation.private.md) 
+
+### [observation.personal](/_personal/schema-org/Class/is_a_/Intangible/observation.personal.md) 
+
+### [observation.secret](/_secret/schema-org/Class/is_a_/Intangible/observation.secret.md) 

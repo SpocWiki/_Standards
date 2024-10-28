@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_maximum_attendees|has_number_of_maximum_attendees]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_maximum_attendees.public|has_number_of_maximum_attendees.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_attendees.internal|has_number_of_maximum_attendees.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_maximum_attendees.protect|has_number_of_maximum_attendees.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_maximum_attendees.private|has_number_of_maximum_attendees.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_maximum_attendees.personal|has_number_of_maximum_attendees.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_maximum_attendees.secret|has_number_of_maximum_attendees.secret]] 
+
+### [has_number_of_maximum_attendees](/_public/schema-org/Property/has_number_of/has_number_of_maximum_attendees.md) 
+
+### [has_number_of_maximum_attendees.internal](/_internal/schema-org/Property/has_number_of/has_number_of_maximum_attendees.internal.md) 
+
+### [has_number_of_maximum_attendees.protect](/_protect/schema-org/Property/has_number_of/has_number_of_maximum_attendees.protect.md) 
+
+### [has_number_of_maximum_attendees.private](/_private/schema-org/Property/has_number_of/has_number_of_maximum_attendees.private.md) 
+
+### [has_number_of_maximum_attendees.personal](/_personal/schema-org/Property/has_number_of/has_number_of_maximum_attendees.personal.md) 
+
+### [has_number_of_maximum_attendees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_maximum_attendees.secret.md) 

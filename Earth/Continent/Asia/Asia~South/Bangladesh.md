@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 23.7
     - 90.36
@@ -146,9 +146,15 @@ Capital :: [[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka]]
 
 
 ## Confidential Links & Embeds: 
-- [[Bangladesh|Bangladesh]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South/Bangladesh.internal|Bangladesh.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South/Bangladesh.protect|Bangladesh.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South/Bangladesh.private|Bangladesh.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South/Bangladesh.personal|Bangladesh.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South/Bangladesh.secret|Bangladesh.secret]] 
+
+### [Bangladesh](/_public/Earth/Continent/Asia/Asia~South/Bangladesh.md) 
+
+### [Bangladesh.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh.internal.md) 
+
+### [Bangladesh.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh.protect.md) 
+
+### [Bangladesh.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh.private.md) 
+
+### [Bangladesh.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh.personal.md) 
+
+### [Bangladesh.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh.secret.md) 

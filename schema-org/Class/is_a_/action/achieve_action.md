@@ -45,10 +45,15 @@ The act of accomplishing something via previous efforts. It is an instantaneous 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/action/achieve_action|achieve_action]] 
-- [[../../../../../_public/schema-org/Class/is_a_/action/achieve_action.public|achieve_action.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/action/achieve_action.internal|achieve_action.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/action/achieve_action.protect|achieve_action.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/action/achieve_action.private|achieve_action.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/action/achieve_action.personal|achieve_action.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/action/achieve_action.secret|achieve_action.secret]] 
+
+### [achieve_action](/_public/schema-org/Class/is_a_/action/achieve_action.md) 
+
+### [achieve_action.internal](/_internal/schema-org/Class/is_a_/action/achieve_action.internal.md) 
+
+### [achieve_action.protect](/_protect/schema-org/Class/is_a_/action/achieve_action.protect.md) 
+
+### [achieve_action.private](/_private/schema-org/Class/is_a_/action/achieve_action.private.md) 
+
+### [achieve_action.personal](/_personal/schema-org/Class/is_a_/action/achieve_action.personal.md) 
+
+### [achieve_action.secret](/_secret/schema-org/Class/is_a_/action/achieve_action.secret.md) 

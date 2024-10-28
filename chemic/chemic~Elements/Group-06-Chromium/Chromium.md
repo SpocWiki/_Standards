@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -37,10 +37,15 @@ SpocWebEntityId: 21924
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-06-Chromium/Chromium|Chromium]] 
-- [[../../../../_public/chemic/Elements/Group-06-Chromium/Chromium.public|Chromium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Chromium.internal|Chromium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Chromium.protect|Chromium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-06-Chromium/Chromium.private|Chromium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Chromium.personal|Chromium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Chromium.secret|Chromium.secret]] 
+
+### [Chromium](/_public/chemic/chemic~Elements/Group-06-Chromium/Chromium.md) 
+
+### [Chromium.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Chromium.internal.md) 
+
+### [Chromium.protect](/_protect/chemic/chemic~Elements/Group-06-Chromium/Chromium.protect.md) 
+
+### [Chromium.private](/_private/chemic/chemic~Elements/Group-06-Chromium/Chromium.private.md) 
+
+### [Chromium.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Chromium.personal.md) 
+
+### [Chromium.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Chromium.secret.md) 

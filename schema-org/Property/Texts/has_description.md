@@ -1,34 +1,31 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_text_of_description
 linkTitle: has_text_of_description
-
-keywords: [description]
+keywords:
+  - description
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- description
-- description
-- description
-- has_text_of_description
+  - description
+  - description
+  - description
+  - has_text_of_description
+  - schema:description
+  - dbo:abstract
 ---
 
 Predicate to describe the Text of Thing.
@@ -49,10 +46,15 @@ Predicated describes that:
 #is_/inverse_of :: [[is_describing]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_description|has_description]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_description.public|has_description.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_description.internal|has_description.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_description.protect|has_description.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_description.private|has_description.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_description.personal|has_description.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_description.secret|has_description.secret]] 
+
+### [has_description](/_public/schema-org/Property/Texts/has_description.md) 
+
+### [has_description.internal](/_internal/schema-org/Property/Texts/has_description.internal.md) 
+
+### [has_description.protect](/_protect/schema-org/Property/Texts/has_description.protect.md) 
+
+### [has_description.private](/_private/schema-org/Property/Texts/has_description.private.md) 
+
+### [has_description.personal](/_personal/schema-org/Property/Texts/has_description.personal.md) 
+
+### [has_description.secret](/_secret/schema-org/Property/Texts/has_description.secret.md) 

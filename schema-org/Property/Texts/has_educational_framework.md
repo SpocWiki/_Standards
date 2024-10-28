@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_educational_framework|has_educational_framework]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_educational_framework.public|has_educational_framework.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_educational_framework.internal|has_educational_framework.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_educational_framework.protect|has_educational_framework.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_educational_framework.private|has_educational_framework.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_educational_framework.personal|has_educational_framework.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_educational_framework.secret|has_educational_framework.secret]] 
+
+### [has_educational_framework](/_public/schema-org/Property/Texts/has_educational_framework.md) 
+
+### [has_educational_framework.internal](/_internal/schema-org/Property/Texts/has_educational_framework.internal.md) 
+
+### [has_educational_framework.protect](/_protect/schema-org/Property/Texts/has_educational_framework.protect.md) 
+
+### [has_educational_framework.private](/_private/schema-org/Property/Texts/has_educational_framework.private.md) 
+
+### [has_educational_framework.personal](/_personal/schema-org/Property/Texts/has_educational_framework.personal.md) 
+
+### [has_educational_framework.secret](/_secret/schema-org/Property/Texts/has_educational_framework.secret.md) 

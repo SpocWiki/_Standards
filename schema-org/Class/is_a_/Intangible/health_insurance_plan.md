@@ -45,10 +45,15 @@ A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 [ #has_/properties :: [ additionalType, alternateName, benefitsSummaryUrl, contactPoint, description, disambiguatingDescription, healthPlanDrugOption, healthPlanDrugTier, healthPlanId, healthPlanMarketingUrl, identifier, image, includesHealthPlanFormulary, includesHealthPlanNetwork, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, usesHealthPlanIdStandard ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/health_insurance_plan|health_insurance_plan]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/health_insurance_plan.public|health_insurance_plan.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/health_insurance_plan.internal|health_insurance_plan.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/health_insurance_plan.protect|health_insurance_plan.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/health_insurance_plan.private|health_insurance_plan.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/health_insurance_plan.personal|health_insurance_plan.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/health_insurance_plan.secret|health_insurance_plan.secret]] 
+
+### [health_insurance_plan](/_public/schema-org/Class/is_a_/Intangible/health_insurance_plan.md) 
+
+### [health_insurance_plan.internal](/_internal/schema-org/Class/is_a_/Intangible/health_insurance_plan.internal.md) 
+
+### [health_insurance_plan.protect](/_protect/schema-org/Class/is_a_/Intangible/health_insurance_plan.protect.md) 
+
+### [health_insurance_plan.private](/_private/schema-org/Class/is_a_/Intangible/health_insurance_plan.private.md) 
+
+### [health_insurance_plan.personal](/_personal/schema-org/Class/is_a_/Intangible/health_insurance_plan.personal.md) 
+
+### [health_insurance_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/health_insurance_plan.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DataType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_measured_value|has_measured_value]] 
-- [[../../../../../_public/schema-org/Relation/has/has_measured_value.public|has_measured_value.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_measured_value.internal|has_measured_value.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_measured_value.protect|has_measured_value.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_measured_value.private|has_measured_value.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_measured_value.personal|has_measured_value.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_measured_value.secret|has_measured_value.secret]] 
+
+### [has_measured_value](/_public/schema-org/Relation/has/has_measured_value.md) 
+
+### [has_measured_value.internal](/_internal/schema-org/Relation/has/has_measured_value.internal.md) 
+
+### [has_measured_value.protect](/_protect/schema-org/Relation/has/has_measured_value.protect.md) 
+
+### [has_measured_value.private](/_private/schema-org/Relation/has/has_measured_value.private.md) 
+
+### [has_measured_value.personal](/_personal/schema-org/Relation/has/has_measured_value.personal.md) 
+
+### [has_measured_value.secret](/_secret/schema-org/Relation/has/has_measured_value.secret.md) 

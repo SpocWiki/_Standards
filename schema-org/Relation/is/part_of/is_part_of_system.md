@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: AnatomicalSystem )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_part_of_system|is_part_of_system]] 
-- [[../../../../../_public/schema-org/Relation/has/is_part_of_system.public|is_part_of_system.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_part_of_system.internal|is_part_of_system.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_part_of_system.protect|is_part_of_system.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_part_of_system.private|is_part_of_system.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_part_of_system.personal|is_part_of_system.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_part_of_system.secret|is_part_of_system.secret]] 
+
+### [is_part_of_system](/_public/schema-org/Relation/is/part_of/is_part_of_system.md) 
+
+### [is_part_of_system.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_system.internal.md) 
+
+### [is_part_of_system.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_system.protect.md) 
+
+### [is_part_of_system.private](/_private/schema-org/Relation/is/part_of/is_part_of_system.private.md) 
+
+### [is_part_of_system.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_system.personal.md) 
+
+### [is_part_of_system.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_system.secret.md) 

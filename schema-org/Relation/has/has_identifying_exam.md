@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: PhysicalExam )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_identifying_exam|has_identifying_exam]] 
-- [[../../../../../_public/schema-org/Relation/has/has_identifying_exam.public|has_identifying_exam.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_identifying_exam.internal|has_identifying_exam.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_identifying_exam.protect|has_identifying_exam.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_identifying_exam.private|has_identifying_exam.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_identifying_exam.personal|has_identifying_exam.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_identifying_exam.secret|has_identifying_exam.secret]] 
+
+### [has_identifying_exam](/_public/schema-org/Relation/has/has_identifying_exam.md) 
+
+### [has_identifying_exam.internal](/_internal/schema-org/Relation/has/has_identifying_exam.internal.md) 
+
+### [has_identifying_exam.protect](/_protect/schema-org/Relation/has/has_identifying_exam.protect.md) 
+
+### [has_identifying_exam.private](/_private/schema-org/Relation/has/has_identifying_exam.private.md) 
+
+### [has_identifying_exam.personal](/_personal/schema-org/Relation/has/has_identifying_exam.personal.md) 
+
+### [has_identifying_exam.secret](/_secret/schema-org/Relation/has/has_identifying_exam.secret.md) 

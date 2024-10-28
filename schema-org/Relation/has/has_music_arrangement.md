@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MusicComposition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_music_arrangement|has_music_arrangement]] 
-- [[../../../../../_public/schema-org/Relation/has/has_music_arrangement.public|has_music_arrangement.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_music_arrangement.internal|has_music_arrangement.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_music_arrangement.protect|has_music_arrangement.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_music_arrangement.private|has_music_arrangement.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_music_arrangement.personal|has_music_arrangement.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_music_arrangement.secret|has_music_arrangement.secret]] 
+
+### [has_music_arrangement](/_public/schema-org/Relation/has/has_music_arrangement.md) 
+
+### [has_music_arrangement.internal](/_internal/schema-org/Relation/has/has_music_arrangement.internal.md) 
+
+### [has_music_arrangement.protect](/_protect/schema-org/Relation/has/has_music_arrangement.protect.md) 
+
+### [has_music_arrangement.private](/_private/schema-org/Relation/has/has_music_arrangement.private.md) 
+
+### [has_music_arrangement.personal](/_personal/schema-org/Relation/has/has_music_arrangement.personal.md) 
+
+### [has_music_arrangement.secret](/_secret/schema-org/Relation/has/has_music_arrangement.secret.md) 

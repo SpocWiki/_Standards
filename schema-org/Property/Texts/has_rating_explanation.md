@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_rating_explanation|has_rating_explanation]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_rating_explanation.public|has_rating_explanation.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_rating_explanation.internal|has_rating_explanation.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_rating_explanation.protect|has_rating_explanation.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_rating_explanation.private|has_rating_explanation.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_rating_explanation.personal|has_rating_explanation.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_rating_explanation.secret|has_rating_explanation.secret]] 
+
+### [has_rating_explanation](/_public/schema-org/Property/Texts/has_rating_explanation.md) 
+
+### [has_rating_explanation.internal](/_internal/schema-org/Property/Texts/has_rating_explanation.internal.md) 
+
+### [has_rating_explanation.protect](/_protect/schema-org/Property/Texts/has_rating_explanation.protect.md) 
+
+### [has_rating_explanation.private](/_private/schema-org/Property/Texts/has_rating_explanation.private.md) 
+
+### [has_rating_explanation.personal](/_personal/schema-org/Property/Texts/has_rating_explanation.personal.md) 
+
+### [has_rating_explanation.secret](/_secret/schema-org/Property/Texts/has_rating_explanation.secret.md) 

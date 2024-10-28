@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ---
+is_sub_class_of: "[Thing](../Thing.md)"
+=======
+﻿---
 is_sub_class_of: '[Thing](../Thing.md)'
+>>>>>>> bdcd21786d99d3822f7d54cf79592cf46b4725fb
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -24,6 +29,7 @@ aliases:
   - CreativeWork
   - is_a_creative_work
   - creative_works
+  - dbo:Work
 fileClass:
 ---
 
@@ -45,10 +51,15 @@ before [ has_/sub_classes:: [[AmpStory]], [[ArchiveComponent]], Article, Atlas, 
 [ #has_/properties :: [ [[about]], abstract, accessMode, [[access_mode_sufficient]], accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Class/is_a_/creative_work|creative_work]] 
-- [[../../../../_public/schema-org/Class/is_a_/creative_work.public|creative_work.public]] 
-- [[../../../../_internal/schema.org/Class/is_a_/creative_work.internal|creative_work.internal]] 
-- [[../../../../_protect/schema.org/Class/is_a_/creative_work.protect|creative_work.protect]] 
-- [[../../../../_private/schema.org/Class/is_a_/creative_work.private|creative_work.private]] 
-- [[../../../../_personal/schema.org/Class/is_a_/creative_work.personal|creative_work.personal]] 
-- [[../../../../_secret/schema.org/Class/is_a_/creative_work.secret|creative_work.secret]] 
+
+### [creative_work](/_public/schema-org/Class/is_a_/creative_work.md) 
+
+### [creative_work.internal](/_internal/schema-org/Class/is_a_/creative_work.internal.md) 
+
+### [creative_work.protect](/_protect/schema-org/Class/is_a_/creative_work.protect.md) 
+
+### [creative_work.private](/_private/schema-org/Class/is_a_/creative_work.private.md) 
+
+### [creative_work.personal](/_personal/schema-org/Class/is_a_/creative_work.personal.md) 
+
+### [creative_work.secret](/_secret/schema-org/Class/is_a_/creative_work.secret.md) 

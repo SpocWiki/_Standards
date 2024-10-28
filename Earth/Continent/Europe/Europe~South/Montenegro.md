@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 42.7833
     - 19.4667
@@ -146,10 +146,15 @@ Capital :: [[./Montenegro/Counties/Podgorica]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Montenegro|Montenegro]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Montenegro.public|Montenegro.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Montenegro.internal|Montenegro.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Montenegro.protect|Montenegro.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Montenegro.private|Montenegro.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Montenegro.personal|Montenegro.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Montenegro.secret|Montenegro.secret]] 
+
+### [Montenegro](/_public/Earth/Continent/Europe/Europe~South/Montenegro.md) 
+
+### [Montenegro.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro.internal.md) 
+
+### [Montenegro.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro.protect.md) 
+
+### [Montenegro.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro.private.md) 
+
+### [Montenegro.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro.personal.md) 
+
+### [Montenegro.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro.secret.md) 

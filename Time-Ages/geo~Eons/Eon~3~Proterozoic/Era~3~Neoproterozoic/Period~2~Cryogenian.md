@@ -1,4 +1,4 @@
-# [[Period~2~Cryogenian]] 
+﻿# [[Period~2~Cryogenian]] 
 
 #is_a_/time_/Period 
 
@@ -59,3 +59,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~2~Cryogenian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.md) 
+
+### [Period~2~Cryogenian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.internal.md) 
+
+### [Period~2~Cryogenian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.protect.md) 
+
+### [Period~2~Cryogenian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.private.md) 
+
+### [Period~2~Cryogenian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.personal.md) 
+
+### [Period~2~Cryogenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.secret.md) 

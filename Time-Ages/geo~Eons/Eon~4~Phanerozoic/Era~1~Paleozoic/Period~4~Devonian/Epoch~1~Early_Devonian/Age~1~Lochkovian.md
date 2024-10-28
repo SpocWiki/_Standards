@@ -1,4 +1,4 @@
-# [[Age~1~Lochkovian]] 
+﻿# [[Age~1~Lochkovian]] 
 
 #is_a_/time_/Age 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Lochkovian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.md) 
+
+### [Age~1~Lochkovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.internal.md) 
+
+### [Age~1~Lochkovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.protect.md) 
+
+### [Age~1~Lochkovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.private.md) 
+
+### [Age~1~Lochkovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.personal.md) 
+
+### [Age~1~Lochkovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian.secret.md) 

@@ -47,10 +47,15 @@ This is the equivalent of Atom's element as defined in Feed Paging and Archiving
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, catalog, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dataFeedElement, datasetTimeInterval, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, distribution, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, includedDataCatalog, includedInDataCatalog, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, issn, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, measurementTechnique, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, variableMeasured, variablesMeasured, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed|complete_data_feed]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.public|complete_data_feed.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.internal|complete_data_feed.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.protect|complete_data_feed.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.private|complete_data_feed.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.personal|complete_data_feed.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.secret|complete_data_feed.secret]] 
+
+### [complete_data_feed](/_public/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.md) 
+
+### [complete_data_feed.internal](/_internal/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.internal.md) 
+
+### [complete_data_feed.protect](/_protect/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.protect.md) 
+
+### [complete_data_feed.private](/_private/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.private.md) 
+
+### [complete_data_feed.personal](/_personal/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.personal.md) 
+
+### [complete_data_feed.secret](/_secret/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_membership_points_earned|has_value_for_membership_points_earned]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_membership_points_earned.public|has_value_for_membership_points_earned.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.internal|has_value_for_membership_points_earned.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.protect|has_value_for_membership_points_earned.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.private|has_value_for_membership_points_earned.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.personal|has_value_for_membership_points_earned.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.secret|has_value_for_membership_points_earned.secret]] 
+
+### [has_value_for_membership_points_earned](/_public/schema-org/Property/has_value_for/has_value_for_membership_points_earned.md) 
+
+### [has_value_for_membership_points_earned.internal](/_internal/schema-org/Property/has_value_for/has_value_for_membership_points_earned.internal.md) 
+
+### [has_value_for_membership_points_earned.protect](/_protect/schema-org/Property/has_value_for/has_value_for_membership_points_earned.protect.md) 
+
+### [has_value_for_membership_points_earned.private](/_private/schema-org/Property/has_value_for/has_value_for_membership_points_earned.private.md) 
+
+### [has_value_for_membership_points_earned.personal](/_personal/schema-org/Property/has_value_for/has_value_for_membership_points_earned.personal.md) 
+
+### [has_value_for_membership_points_earned.secret](/_secret/schema-org/Property/has_value_for/has_value_for_membership_points_earned.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -38,3 +38,17 @@ The legal value of this legislation file. The same legislation can be written in
 LegislationLegalValue:: {"type":"Select","options":{"valuesList":{"AuthoritativeLegalValue","DefinitiveLegalValue","OfficialLegalValue","UnofficialLegalValue"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LegislationObject](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.md) 
+
+### [FileClass~LegislationObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.internal.md) 
+
+### [FileClass~LegislationObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.protect.md) 
+
+### [FileClass~LegislationObject.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.private.md) 
+
+### [FileClass~LegislationObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.personal.md) 
+
+### [FileClass~LegislationObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation/FileClass~LegislationAndMediaObject/FileClass~LegislationObject.secret.md) 

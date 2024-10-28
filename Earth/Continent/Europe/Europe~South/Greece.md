@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 38.6175
     - 23.0356
@@ -144,10 +144,15 @@ Capital :: [[Athenas]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Greece|Greece]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Greece.public|Greece.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Greece.internal|Greece.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Greece.protect|Greece.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Greece.private|Greece.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Greece.personal|Greece.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Greece.secret|Greece.secret]] 
+
+### [Greece](/_public/Earth/Continent/Europe/Europe~South/Greece.md) 
+
+### [Greece.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece.internal.md) 
+
+### [Greece.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece.protect.md) 
+
+### [Greece.private](/_private/Earth/Continent/Europe/Europe~South/Greece.private.md) 
+
+### [Greece.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece.personal.md) 
+
+### [Greece.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece.secret.md) 

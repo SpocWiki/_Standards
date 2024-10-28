@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 43.715
     - 7.41
@@ -149,10 +149,15 @@ Capital :: [[Monaco]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~West/Monaco|Monaco]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~West/Monaco.public|Monaco.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~West/Monaco.internal|Monaco.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~West/Monaco.protect|Monaco.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~West/Monaco.private|Monaco.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~West/Monaco.personal|Monaco.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~West/Monaco.secret|Monaco.secret]] 
+
+### [Monaco](/_public/Earth/Continent/Europe/Europe~West/Monaco.md) 
+
+### [Monaco.internal](/_internal/Earth/Continent/Europe/Europe~West/Monaco.internal.md) 
+
+### [Monaco.protect](/_protect/Earth/Continent/Europe/Europe~West/Monaco.protect.md) 
+
+### [Monaco.private](/_private/Earth/Continent/Europe/Europe~West/Monaco.private.md) 
+
+### [Monaco.personal](/_personal/Earth/Continent/Europe/Europe~West/Monaco.personal.md) 
+
+### [Monaco.secret](/_secret/Earth/Continent/Europe/Europe~West/Monaco.secret.md) 

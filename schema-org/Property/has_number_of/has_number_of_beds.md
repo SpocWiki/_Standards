@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_beds|has_number_of_beds]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_beds.public|has_number_of_beds.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_beds.internal|has_number_of_beds.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_beds.protect|has_number_of_beds.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_beds.private|has_number_of_beds.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_beds.personal|has_number_of_beds.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_beds.secret|has_number_of_beds.secret]] 
+
+### [has_number_of_beds](/_public/schema-org/Property/has_number_of/has_number_of_beds.md) 
+
+### [has_number_of_beds.internal](/_internal/schema-org/Property/has_number_of/has_number_of_beds.internal.md) 
+
+### [has_number_of_beds.protect](/_protect/schema-org/Property/has_number_of/has_number_of_beds.protect.md) 
+
+### [has_number_of_beds.private](/_private/schema-org/Property/has_number_of/has_number_of_beds.private.md) 
+
+### [has_number_of_beds.personal](/_personal/schema-org/Property/has_number_of/has_number_of_beds.personal.md) 
+
+### [has_number_of_beds.secret](/_secret/schema-org/Property/has_number_of/has_number_of_beds.secret.md) 

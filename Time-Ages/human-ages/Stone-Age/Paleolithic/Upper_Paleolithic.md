@@ -1,4 +1,4 @@
-# [[Upper_Paleolithic]]
+﻿# [[Upper_Paleolithic]]
 
 #is_a_/time_/Culture 
 
@@ -21,3 +21,17 @@
 
 #has_/time_/started /ka :: -50  
 #has_/time_/stopped /ka :: -13  
+
+## Confidential Links & Embeds: 
+
+### [Upper_Paleolithic](/_public/Time-Ages/human-ages/Stone-Age/Paleolithic/Upper_Paleolithic.md) 
+
+### [Upper_Paleolithic.internal](/_internal/Time-Ages/human-ages/Stone-Age/Paleolithic/Upper_Paleolithic.internal.md) 
+
+### [Upper_Paleolithic.protect](/_protect/Time-Ages/human-ages/Stone-Age/Paleolithic/Upper_Paleolithic.protect.md) 
+
+### [Upper_Paleolithic.private](/_private/Time-Ages/human-ages/Stone-Age/Paleolithic/Upper_Paleolithic.private.md) 
+
+### [Upper_Paleolithic.personal](/_personal/Time-Ages/human-ages/Stone-Age/Paleolithic/Upper_Paleolithic.personal.md) 
+
+### [Upper_Paleolithic.secret](/_secret/Time-Ages/human-ages/Stone-Age/Paleolithic/Upper_Paleolithic.secret.md) 

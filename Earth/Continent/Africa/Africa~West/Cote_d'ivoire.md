@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 6.85
   - -5.3
@@ -49,9 +49,15 @@ Capital :: [[Yamoussoukro]]
 
 
 ## Confidential Links & Embeds: 
-- [[Cote_d'ivoire|Cote_d'ivoire]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Cote_D'ivoire.internal|Cote_D'ivoire.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Cote_D'ivoire.protect|Cote_D'ivoire.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Cote_D'ivoire.private|Cote_D'ivoire.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Cote_D'ivoire.personal|Cote_D'ivoire.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Cote_D'ivoire.secret|Cote_D'ivoire.secret]] 
+
+### [Cote_d'ivoire](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.md) 
+
+### [Cote_d'ivoire.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.internal.md) 
+
+### [Cote_d'ivoire.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.protect.md) 
+
+### [Cote_d'ivoire.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.private.md) 
+
+### [Cote_d'ivoire.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.personal.md) 
+
+### [Cote_d'ivoire.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret.md) 

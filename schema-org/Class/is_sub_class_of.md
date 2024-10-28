@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,51 +50,15 @@ Use it like this:
 ( #has_/range :: [Class](../../Classes.md))
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Relation/is_sub_class_of|is_sub_class_of]] 
-- [[../../../../_public/schema-org/Relation/is_sub_class_of.public|is_sub_class_of.public]] 
-- [[../../../../_internal/schema.org/Relation/is_sub_class_of.internal|is_sub_class_of.internal]] 
-- [[../../../../_protect/schema.org/Relation/is_sub_class_of.protect|is_sub_class_of.protect]] 
-- [[../../../../_private/schema.org/Relation/is_sub_class_of.private|is_sub_class_of.private]] 
-- [[../../../../_personal/schema.org/Relation/is_sub_class_of.personal|is_sub_class_of.personal]] 
-- [[../../../../_secret/schema.org/Relation/is_sub_class_of.secret|is_sub_class_of.secret]] 
 
+### [is_sub_class_of](/_public/schema-org/Class/is_sub_class_of.md) 
 
----
-title: is_sub_class_of
-lang: en
-type: private_note
+### [is_sub_class_of.internal](/_internal/schema-org/Class/is_sub_class_of.internal.md) 
 
-keywords: is_sub_class_of
-linkTitle: is_sub_class_of
-has_Template: [[Extract~Note~Template]] 
+### [is_sub_class_of.protect](/_protect/schema-org/Class/is_sub_class_of.protect.md) 
 
-license: (c)copyrighted
-confidential: private
-isDeleted: false
-isReadOnly: false
+### [is_sub_class_of.private](/_private/schema-org/Class/is_sub_class_of.private.md) 
 
-# Obsidian well-known Keys
-cssclasses: private note
-layout: 
-draft: true
-publish: false
-publishDate:
-expiryDate: 
-has_time_created: 2024-07-07
+### [is_sub_class_of.personal](/_personal/schema-org/Class/is_sub_class_of.personal.md) 
 
-tags:
-- is_sub_class_of
-- 
-
-aliases:
-- is_sub_class_of
-- 
-
----
-
-# [[is_sub_class_of]] 
-
-#is_/part_of :: [[Class-Specialization]] 
-
-
-
+### [is_sub_class_of.secret](/_secret/schema-org/Class/is_sub_class_of.secret.md) 

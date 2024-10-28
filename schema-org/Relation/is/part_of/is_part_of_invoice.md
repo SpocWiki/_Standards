@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Invoice )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_part_of_invoice|is_part_of_invoice]] 
-- [[../../../../../_public/schema-org/Relation/has/is_part_of_invoice.public|is_part_of_invoice.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_part_of_invoice.internal|is_part_of_invoice.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_part_of_invoice.protect|is_part_of_invoice.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_part_of_invoice.private|is_part_of_invoice.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_part_of_invoice.personal|is_part_of_invoice.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_part_of_invoice.secret|is_part_of_invoice.secret]] 
+
+### [is_part_of_invoice](/_public/schema-org/Relation/is/part_of/is_part_of_invoice.md) 
+
+### [is_part_of_invoice.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_invoice.internal.md) 
+
+### [is_part_of_invoice.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_invoice.protect.md) 
+
+### [is_part_of_invoice.private](/_private/schema-org/Relation/is/part_of/is_part_of_invoice.private.md) 
+
+### [is_part_of_invoice.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_invoice.personal.md) 
+
+### [is_part_of_invoice.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_invoice.secret.md) 

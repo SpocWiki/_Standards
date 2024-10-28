@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 35.9
     - 14.52
@@ -144,10 +144,15 @@ Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Malta|Malta]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Malta.public|Malta.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Malta.internal|Malta.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Malta.protect|Malta.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Malta.private|Malta.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Malta.personal|Malta.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Malta.secret|Malta.secret]] 
+
+### [Malta](/_public/Earth/Continent/Europe/Europe~South/Malta.md) 
+
+### [Malta.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta.internal.md) 
+
+### [Malta.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta.protect.md) 
+
+### [Malta.private](/_private/Earth/Continent/Europe/Europe~South/Malta.private.md) 
+
+### [Malta.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta.personal.md) 
+
+### [Malta.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Austria
 linkTitle: 
 type: Country
@@ -236,10 +236,15 @@ Capital :: [[Austria/State/State~Wien/Wien-city]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Austria|Austria]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~Central/Austria.public|Austria.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~Central/Austria.internal|Austria.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~Central/Austria.protect|Austria.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~Central/Austria.private|Austria.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~Central/Austria.personal|Austria.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~Central/Austria.secret|Austria.secret]] 
+
+### [Austria](/_public/Earth/Continent/Europe/Europe~Central/Austria.md) 
+
+### [Austria.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria.internal.md) 
+
+### [Austria.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria.protect.md) 
+
+### [Austria.private](/_private/Earth/Continent/Europe/Europe~Central/Austria.private.md) 
+
+### [Austria.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria.personal.md) 
+
+### [Austria.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria.secret.md) 

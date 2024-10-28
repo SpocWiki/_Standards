@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -54,3 +54,17 @@ A code that identifies this [[DefinedTerm]] within a [[DefinedTermSet]]
 TermCode:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DefinedTerm](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.md) 
+
+### [FileClass~DefinedTerm.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.internal.md) 
+
+### [FileClass~DefinedTerm.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.protect.md) 
+
+### [FileClass~DefinedTerm.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.private.md) 
+
+### [FileClass~DefinedTerm.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.personal.md) 
+
+### [FileClass~DefinedTerm.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.secret.md) 

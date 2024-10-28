@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A medical test performed on a sample of a patient's blood.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BloodTest](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.md) 
+
+### [FileClass~BloodTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.internal.md) 
+
+### [FileClass~BloodTest.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.protect.md) 
+
+### [FileClass~BloodTest.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.private.md) 
+
+### [FileClass~BloodTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.personal.md) 
+
+### [FileClass~BloodTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -66,3 +66,17 @@ The difference between the price at which a broker or other intermediary buys an
 ExchangeRateSpread:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ExchangeRateSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.md) 
+
+### [FileClass~ExchangeRateSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.internal.md) 
+
+### [FileClass~ExchangeRateSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.protect.md) 
+
+### [FileClass~ExchangeRateSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.private.md) 
+
+### [FileClass~ExchangeRateSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.personal.md) 
+
+### [FileClass~ExchangeRateSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ExchangeRateSpecification.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -18,10 +18,15 @@ type: ElementGroup
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/chemic/Elements/Group-14-Carbon|Group-14-Carbon]] 
-- [[../../../_public/chemic/Elements/Group-14-Carbon.public|Group-14-Carbon.public]] 
-- [[../../../_internal/chemic/Elements/Group-14-Carbon.internal|Group-14-Carbon.internal]] 
-- [[../../../_protect/chemic/Elements/Group-14-Carbon.protect|Group-14-Carbon.protect]] 
-- [[../../../_private/chemic/Elements/Group-14-Carbon.private|Group-14-Carbon.private]] 
-- [[../../../_personal/chemic/Elements/Group-14-Carbon.personal|Group-14-Carbon.personal]] 
-- [[../../../_secret/chemic/Elements/Group-14-Carbon.secret|Group-14-Carbon.secret]] 
+
+### [Group-14-Carbon](/_public/chemic/chemic~Elements/Group-14-Carbon.md) 
+
+### [Group-14-Carbon.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon.internal.md) 
+
+### [Group-14-Carbon.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon.protect.md) 
+
+### [Group-14-Carbon.private](/_private/chemic/chemic~Elements/Group-14-Carbon.private.md) 
+
+### [Group-14-Carbon.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon.personal.md) 
+
+### [Group-14-Carbon.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon.secret.md) 

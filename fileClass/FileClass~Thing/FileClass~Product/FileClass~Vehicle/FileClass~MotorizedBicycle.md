@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A motorized bicycle is a bicycle with an attached motor used to power the vehicl
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MotorizedBicycle](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.md) 
+
+### [FileClass~MotorizedBicycle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.internal.md) 
+
+### [FileClass~MotorizedBicycle.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.protect.md) 
+
+### [FileClass~MotorizedBicycle.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.private.md) 
+
+### [FileClass~MotorizedBicycle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.personal.md) 
+
+### [FileClass~MotorizedBicycle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~MotorizedBicycle.secret.md) 

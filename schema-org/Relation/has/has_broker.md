@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,10 +50,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_broker|has_broker]] 
-- [[../../../../../_public/schema-org/Relation/has/has_broker.public|has_broker.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_broker.internal|has_broker.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_broker.protect|has_broker.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_broker.private|has_broker.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_broker.personal|has_broker.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_broker.secret|has_broker.secret]] 
+
+### [has_broker](/_public/schema-org/Relation/has/has_broker.md) 
+
+### [has_broker.internal](/_internal/schema-org/Relation/has/has_broker.internal.md) 
+
+### [has_broker.protect](/_protect/schema-org/Relation/has/has_broker.protect.md) 
+
+### [has_broker.private](/_private/schema-org/Relation/has/has_broker.private.md) 
+
+### [has_broker.personal](/_personal/schema-org/Relation/has/has_broker.personal.md) 
+
+### [has_broker.secret](/_secret/schema-org/Relation/has/has_broker.secret.md) 

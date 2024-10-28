@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -45,3 +45,17 @@ Use standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/IS
 Currency:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MonetaryAmountDistribution](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.md) 
+
+### [FileClass~MonetaryAmountDistribution.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.internal.md) 
+
+### [FileClass~MonetaryAmountDistribution.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.protect.md) 
+
+### [FileClass~MonetaryAmountDistribution.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.private.md) 
+
+### [FileClass~MonetaryAmountDistribution.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.personal.md) 
+
+### [FileClass~MonetaryAmountDistribution.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution/FileClass~MonetaryAmountDistribution.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Gottfried Wilhelm Leibniz
 ---
@@ -75,3 +75,17 @@ aliases:
 
 
 `$=JSON.stringify(dv.current())`
+
+## Confidential Links & Embeds: 
+
+### [Leibniz,Gottfried_Wilhelm](/_public/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.md) 
+
+### [Leibniz,Gottfried_Wilhelm.internal](/_internal/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.internal.md) 
+
+### [Leibniz,Gottfried_Wilhelm.protect](/_protect/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.protect.md) 
+
+### [Leibniz,Gottfried_Wilhelm.private](/_private/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.private.md) 
+
+### [Leibniz,Gottfried_Wilhelm.personal](/_personal/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.personal.md) 
+
+### [Leibniz,Gottfried_Wilhelm.secret](/_secret/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.secret.md) 

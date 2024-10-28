@@ -43,10 +43,15 @@ The act of capturing sound and moving images on film, video, or digitally.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/film_action|film_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/create_action/film_action.public|film_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/film_action.internal|film_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/film_action.protect|film_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/film_action.private|film_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/create_action/film_action.personal|film_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/create_action/film_action.secret|film_action.secret]] 
+
+### [film_action](/_public/schema-org/Class/is_a_/action/create_action/film_action.md) 
+
+### [film_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/film_action.internal.md) 
+
+### [film_action.protect](/_protect/schema-org/Class/is_a_/action/create_action/film_action.protect.md) 
+
+### [film_action.private](/_private/schema-org/Class/is_a_/action/create_action/film_action.private.md) 
+
+### [film_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/film_action.personal.md) 
+
+### [film_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/film_action.secret.md) 

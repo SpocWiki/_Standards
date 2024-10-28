@@ -43,10 +43,15 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/broadcast_channel/television_channel|television_channel]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/broadcast_channel/television_channel.public|television_channel.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_channel/television_channel.internal|television_channel.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/broadcast_channel/television_channel.protect|television_channel.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/broadcast_channel/television_channel.private|television_channel.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/broadcast_channel/television_channel.personal|television_channel.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/broadcast_channel/television_channel.secret|television_channel.secret]] 
+
+### [television_channel](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.md) 
+
+### [television_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.internal.md) 
+
+### [television_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.protect.md) 
+
+### [television_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.private.md) 
+
+### [television_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.personal.md) 
+
+### [television_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.secret.md) 

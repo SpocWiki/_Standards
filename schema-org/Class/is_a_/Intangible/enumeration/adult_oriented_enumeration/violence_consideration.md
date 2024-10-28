@@ -47,10 +47,15 @@ Item shows or promotes violence.
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/violence_consideration|violence_consideration]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/violence_consideration.public|violence_consideration.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/violence_consideration.internal|violence_consideration.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/violence_consideration.protect|violence_consideration.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/violence_consideration.private|violence_consideration.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/violence_consideration.personal|violence_consideration.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/violence_consideration.secret|violence_consideration.secret]] 
+
+### [violence_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.md) 
+
+### [violence_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.internal.md) 
+
+### [violence_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.protect.md) 
+
+### [violence_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.private.md) 
+
+### [violence_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.personal.md) 
+
+### [violence_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.secret.md) 

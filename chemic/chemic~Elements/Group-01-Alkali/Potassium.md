@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21920
@@ -38,10 +38,15 @@ SpocWebEntityId: 21920
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-01-Alkali/Potassium|Potassium]] 
-- [[../../../../_public/chemic/Elements/Group-01-Alkali/Potassium.public|Potassium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Potassium.internal|Potassium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Potassium.protect|Potassium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Potassium.private|Potassium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Potassium.personal|Potassium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Potassium.secret|Potassium.secret]] 
+
+### [Potassium](/_public/chemic/chemic~Elements/Group-01-Alkali/Potassium.md) 
+
+### [Potassium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Potassium.internal.md) 
+
+### [Potassium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Potassium.protect.md) 
+
+### [Potassium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Potassium.private.md) 
+
+### [Potassium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Potassium.personal.md) 
+
+### [Potassium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Potassium.secret.md) 

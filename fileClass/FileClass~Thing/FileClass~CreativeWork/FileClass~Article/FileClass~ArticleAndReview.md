@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -137,3 +137,17 @@ The rating given in this review. Note that reviews can themselves be rated. The 
 
 ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Rating')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ArticleAndReview](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.md) 
+
+### [FileClass~ArticleAndReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.internal.md) 
+
+### [FileClass~ArticleAndReview.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.protect.md) 
+
+### [FileClass~ArticleAndReview.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.private.md) 
+
+### [FileClass~ArticleAndReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.personal.md) 
+
+### [FileClass~ArticleAndReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Henri Poincaré
 ---
@@ -47,3 +47,17 @@ aliases:
 This refers to the Act of Abstraction from (unnecessary, accidental) Details 
 to reveal the essential Structure. 
 
+
+## Confidential Links & Embeds: 
+
+### [Poincaré,Henri](/_public/Mathematics/Mathematicians/Poincaré,Henri.md) 
+
+### [Poincaré,Henri.internal](/_internal/Mathematics/Mathematicians/Poincaré,Henri.internal.md) 
+
+### [Poincaré,Henri.protect](/_protect/Mathematics/Mathematicians/Poincaré,Henri.protect.md) 
+
+### [Poincaré,Henri.private](/_private/Mathematics/Mathematicians/Poincaré,Henri.private.md) 
+
+### [Poincaré,Henri.personal](/_personal/Mathematics/Mathematicians/Poincaré,Henri.personal.md) 
+
+### [Poincaré,Henri.secret](/_secret/Mathematics/Mathematicians/Poincaré,Henri.secret.md) 

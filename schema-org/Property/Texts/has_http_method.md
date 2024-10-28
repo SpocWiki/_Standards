@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_http_method|has_http_method]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_http_method.public|has_http_method.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_http_method.internal|has_http_method.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_http_method.protect|has_http_method.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_http_method.private|has_http_method.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_http_method.personal|has_http_method.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_http_method.secret|has_http_method.secret]] 
+
+### [has_http_method](/_public/schema-org/Property/Texts/has_http_method.md) 
+
+### [has_http_method.internal](/_internal/schema-org/Property/Texts/has_http_method.internal.md) 
+
+### [has_http_method.protect](/_protect/schema-org/Property/Texts/has_http_method.protect.md) 
+
+### [has_http_method.private](/_private/schema-org/Property/Texts/has_http_method.private.md) 
+
+### [has_http_method.personal](/_personal/schema-org/Property/Texts/has_http_method.personal.md) 
+
+### [has_http_method.secret](/_secret/schema-org/Property/Texts/has_http_method.secret.md) 

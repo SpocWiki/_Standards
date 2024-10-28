@@ -47,10 +47,15 @@ Content discussing ingredients-related aspects of a health topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect|ingredients_health_aspect]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.public|ingredients_health_aspect.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.internal|ingredients_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.protect|ingredients_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.private|ingredients_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.personal|ingredients_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.secret|ingredients_health_aspect.secret]] 
+
+### [ingredients_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.md) 
+
+### [ingredients_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.internal.md) 
+
+### [ingredients_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.protect.md) 
+
+### [ingredients_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.private.md) 
+
+### [ingredients_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.personal.md) 
+
+### [ingredients_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.secret.md) 

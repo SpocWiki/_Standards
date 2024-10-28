@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 44.82
     - 20.48
@@ -147,10 +147,15 @@ excluding [[Kosovo]]!
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Serbia|Serbia]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Serbia.public|Serbia.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Serbia.internal|Serbia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Serbia.protect|Serbia.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Serbia.private|Serbia.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Serbia.personal|Serbia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Serbia.secret|Serbia.secret]] 
+
+### [Serbia](/_public/Earth/Continent/Europe/Europe~South/Serbia.md) 
+
+### [Serbia.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia.internal.md) 
+
+### [Serbia.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia.protect.md) 
+
+### [Serbia.private](/_private/Earth/Continent/Europe/Europe~South/Serbia.private.md) 
+
+### [Serbia.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia.personal.md) 
+
+### [Serbia.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia.secret.md) 

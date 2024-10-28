@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 14.1
     - -87.2167
@@ -146,9 +146,15 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 
 
 ## Confidential Links & Embeds: 
-- [[Honduras|Honduras]] 
-- [[../../../../_internal/Earth/Continent/America~Central/Honduras.internal|Honduras.internal]] 
-- [[../../../../_protect/Earth/Continent/America~Central/Honduras.protect|Honduras.protect]] 
-- [[../../../../_private/Earth/Continent/America~Central/Honduras.private|Honduras.private]] 
-- [[../../../../_personal/Earth/Continent/America~Central/Honduras.personal|Honduras.personal]] 
-- [[../../../../_secret/Earth/Continent/America~Central/Honduras.secret|Honduras.secret]] 
+
+### [Honduras](/_public/Earth/Continent/America~Central/Honduras.md) 
+
+### [Honduras.internal](/_internal/Earth/Continent/America~Central/Honduras.internal.md) 
+
+### [Honduras.protect](/_protect/Earth/Continent/America~Central/Honduras.protect.md) 
+
+### [Honduras.private](/_private/Earth/Continent/America~Central/Honduras.private.md) 
+
+### [Honduras.personal](/_personal/Earth/Continent/America~Central/Honduras.personal.md) 
+
+### [Honduras.secret](/_secret/Earth/Continent/America~Central/Honduras.secret.md) 

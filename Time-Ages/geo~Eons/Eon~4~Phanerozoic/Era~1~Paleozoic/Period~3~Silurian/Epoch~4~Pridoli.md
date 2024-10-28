@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~4~Pridoli]] 
 
 #is_a_/time_/Epoch 
@@ -58,3 +58,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~4~Pridoli](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.md) 
+
+### [Epoch~4~Pridoli.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.internal.md) 
+
+### [Epoch~4~Pridoli.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.protect.md) 
+
+### [Epoch~4~Pridoli.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.private.md) 
+
+### [Epoch~4~Pridoli.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.personal.md) 
+
+### [Epoch~4~Pridoli.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~4~Pridoli.secret.md) 

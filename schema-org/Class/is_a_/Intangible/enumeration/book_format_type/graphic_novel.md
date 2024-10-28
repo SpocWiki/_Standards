@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Book format: [[graphic_novel]]. May represent a bound collection of [[../../../c
 [ #is_/enum_of :: [[../Book_Format_Type]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel|graphic_novel]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.public|graphic_novel.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.internal|graphic_novel.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.protect|graphic_novel.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.private|graphic_novel.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.personal|graphic_novel.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.secret|graphic_novel.secret]] 
+
+### [graphic_novel](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.md) 
+
+### [graphic_novel.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.internal.md) 
+
+### [graphic_novel.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.protect.md) 
+
+### [graphic_novel.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.private.md) 
+
+### [graphic_novel.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.personal.md) 
+
+### [graphic_novel.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.secret.md) 

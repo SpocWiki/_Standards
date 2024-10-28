@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Language, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_subtitle_language|has_subtitle_language]] 
-- [[../../../../../_public/schema-org/Relation/has/has_subtitle_language.public|has_subtitle_language.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_subtitle_language.internal|has_subtitle_language.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_subtitle_language.protect|has_subtitle_language.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_subtitle_language.private|has_subtitle_language.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_subtitle_language.personal|has_subtitle_language.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_subtitle_language.secret|has_subtitle_language.secret]] 
+
+### [has_subtitle_language](/_public/schema-org/Relation/has/has_subtitle_language.md) 
+
+### [has_subtitle_language.internal](/_internal/schema-org/Relation/has/has_subtitle_language.internal.md) 
+
+### [has_subtitle_language.protect](/_protect/schema-org/Relation/has/has_subtitle_language.protect.md) 
+
+### [has_subtitle_language.private](/_private/schema-org/Relation/has/has_subtitle_language.private.md) 
+
+### [has_subtitle_language.personal](/_personal/schema-org/Relation/has/has_subtitle_language.personal.md) 
+
+### [has_subtitle_language.secret](/_secret/schema-org/Relation/has/has_subtitle_language.secret.md) 

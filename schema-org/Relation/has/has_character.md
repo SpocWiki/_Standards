@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_character|has_character]] 
-- [[../../../../../_public/schema-org/Relation/has/has_character.public|has_character.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_character.internal|has_character.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_character.protect|has_character.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_character.private|has_character.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_character.personal|has_character.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_character.secret|has_character.secret]] 
+
+### [has_character](/_public/schema-org/Relation/has/has_character.md) 
+
+### [has_character.internal](/_internal/schema-org/Relation/has/has_character.internal.md) 
+
+### [has_character.protect](/_protect/schema-org/Relation/has/has_character.protect.md) 
+
+### [has_character.private](/_private/schema-org/Relation/has/has_character.private.md) 
+
+### [has_character.personal](/_personal/schema-org/Relation/has/has_character.personal.md) 
+
+### [has_character.secret](/_secret/schema-org/Relation/has/has_character.secret.md) 

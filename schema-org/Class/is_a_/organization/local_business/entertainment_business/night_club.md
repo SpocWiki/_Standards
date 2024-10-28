@@ -43,10 +43,15 @@ A nightclub or discotheque.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club|night_club]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.public|night_club.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.internal|night_club.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.protect|night_club.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.private|night_club.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.personal|night_club.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.secret|night_club.secret]] 
+
+### [night_club](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.md) 
+
+### [night_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.internal.md) 
+
+### [night_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.protect.md) 
+
+### [night_club.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.private.md) 
+
+### [night_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.personal.md) 
+
+### [night_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.secret.md) 

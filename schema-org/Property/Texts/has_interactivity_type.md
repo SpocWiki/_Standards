@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_interactivity_type|has_interactivity_type]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_interactivity_type.public|has_interactivity_type.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_interactivity_type.internal|has_interactivity_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_interactivity_type.protect|has_interactivity_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_interactivity_type.private|has_interactivity_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_interactivity_type.personal|has_interactivity_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_interactivity_type.secret|has_interactivity_type.secret]] 
+
+### [has_interactivity_type](/_public/schema-org/Property/Texts/has_interactivity_type.md) 
+
+### [has_interactivity_type.internal](/_internal/schema-org/Property/Texts/has_interactivity_type.internal.md) 
+
+### [has_interactivity_type.protect](/_protect/schema-org/Property/Texts/has_interactivity_type.protect.md) 
+
+### [has_interactivity_type.private](/_private/schema-org/Property/Texts/has_interactivity_type.private.md) 
+
+### [has_interactivity_type.personal](/_personal/schema-org/Property/Texts/has_interactivity_type.personal.md) 
+
+### [has_interactivity_type.secret](/_secret/schema-org/Property/Texts/has_interactivity_type.secret.md) 

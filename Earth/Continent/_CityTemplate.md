@@ -1,4 +1,4 @@
----
+﻿---
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -45,10 +45,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/Earth/Continent/_CityTemplate|_CityTemplate]] 
-- [[../../../_public/Earth/Continent/_CityTemplate.public|_CityTemplate.public]] 
-- [[../../../_internal/Earth/Continent/_CityTemplate.internal|_CityTemplate.internal]] 
-- [[../../../_protect/Earth/Continent/_CityTemplate.protect|_CityTemplate.protect]] 
-- [[../../../_private/Earth/Continent/_CityTemplate.private|_CityTemplate.private]] 
-- [[../../../_personal/Earth/Continent/_CityTemplate.personal|_CityTemplate.personal]] 
-- [[../../../_secret/Earth/Continent/_CityTemplate.secret|_CityTemplate.secret]] 
+
+### [_CityTemplate](/_public/Earth/Continent/_CityTemplate.md) 
+
+### [_CityTemplate.internal](/_internal/Earth/Continent/_CityTemplate.internal.md) 
+
+### [_CityTemplate.protect](/_protect/Earth/Continent/_CityTemplate.protect.md) 
+
+### [_CityTemplate.private](/_private/Earth/Continent/_CityTemplate.private.md) 
+
+### [_CityTemplate.personal](/_personal/Earth/Continent/_CityTemplate.personal.md) 
+
+### [_CityTemplate.secret](/_secret/Earth/Continent/_CityTemplate.secret.md) 

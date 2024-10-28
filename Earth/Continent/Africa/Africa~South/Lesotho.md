@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -29.4667
 - 27.9333
@@ -142,9 +142,15 @@ Capital :: [[Maseru]]
 
 
 ## Confidential Links & Embeds: 
-- [[Lesotho|Lesotho]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~South/Lesotho.internal|Lesotho.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~South/Lesotho.protect|Lesotho.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~South/Lesotho.private|Lesotho.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal|Lesotho.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret|Lesotho.secret]] 
+
+### [Lesotho](/_public/Earth/Continent/Africa/Africa~South/Lesotho.md) 
+
+### [Lesotho.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho.internal.md) 
+
+### [Lesotho.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho.protect.md) 
+
+### [Lesotho.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho.private.md) 
+
+### [Lesotho.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal.md) 
+
+### [Lesotho.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_total_job_openings|has_number_of_total_job_openings]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_total_job_openings.public|has_number_of_total_job_openings.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_total_job_openings.internal|has_number_of_total_job_openings.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_total_job_openings.protect|has_number_of_total_job_openings.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_total_job_openings.private|has_number_of_total_job_openings.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_total_job_openings.personal|has_number_of_total_job_openings.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_total_job_openings.secret|has_number_of_total_job_openings.secret]] 
+
+### [has_number_of_total_job_openings](/_public/schema-org/Property/has_number_of/has_number_of_total_job_openings.md) 
+
+### [has_number_of_total_job_openings.internal](/_internal/schema-org/Property/has_number_of/has_number_of_total_job_openings.internal.md) 
+
+### [has_number_of_total_job_openings.protect](/_protect/schema-org/Property/has_number_of/has_number_of_total_job_openings.protect.md) 
+
+### [has_number_of_total_job_openings.private](/_private/schema-org/Property/has_number_of/has_number_of_total_job_openings.private.md) 
+
+### [has_number_of_total_job_openings.personal](/_personal/schema-org/Property/has_number_of/has_number_of_total_job_openings.personal.md) 
+
+### [has_number_of_total_job_openings.secret](/_secret/schema-org/Property/has_number_of/has_number_of_total_job_openings.secret.md) 

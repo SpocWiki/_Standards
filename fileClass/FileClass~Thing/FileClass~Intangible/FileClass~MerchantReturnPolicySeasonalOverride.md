@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -74,3 +74,17 @@ The start date and time of the item (in [ISO 8601 date format](http://en.wikiped
 StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MerchantReturnPolicySeasonalOverride](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.md) 
+
+### [FileClass~MerchantReturnPolicySeasonalOverride.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.internal.md) 
+
+### [FileClass~MerchantReturnPolicySeasonalOverride.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.protect.md) 
+
+### [FileClass~MerchantReturnPolicySeasonalOverride.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.private.md) 
+
+### [FileClass~MerchantReturnPolicySeasonalOverride.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.personal.md) 
+
+### [FileClass~MerchantReturnPolicySeasonalOverride.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.secret.md) 

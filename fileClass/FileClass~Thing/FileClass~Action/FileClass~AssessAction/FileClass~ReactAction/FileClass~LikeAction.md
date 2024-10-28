@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LikeAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.md) 
+
+### [FileClass~LikeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.internal.md) 
+
+### [FileClass~LikeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.protect.md) 
+
+### [FileClass~LikeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.private.md) 
+
+### [FileClass~LikeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.personal.md) 
+
+### [FileClass~LikeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.secret.md) 

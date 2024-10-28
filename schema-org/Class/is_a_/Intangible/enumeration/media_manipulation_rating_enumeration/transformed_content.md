@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -59,10 +59,15 @@ Part or all of the audio has been manipulated to alter the words or sounds, or t
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content|transformed_content]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.public|transformed_content.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.internal|transformed_content.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.protect|transformed_content.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.private|transformed_content.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.personal|transformed_content.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.secret|transformed_content.secret]] 
+
+### [transformed_content](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.md) 
+
+### [transformed_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.internal.md) 
+
+### [transformed_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.protect.md) 
+
+### [transformed_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.private.md) 
+
+### [transformed_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.personal.md) 
+
+### [transformed_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.secret.md) 

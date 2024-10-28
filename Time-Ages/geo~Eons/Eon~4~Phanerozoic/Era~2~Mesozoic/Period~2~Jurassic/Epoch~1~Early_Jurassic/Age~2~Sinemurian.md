@@ -1,4 +1,4 @@
-# [[Age~2~Sinemurian]] 
+﻿# [[Age~2~Sinemurian]] 
 
 #is_a_/time_/Age 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Sinemurian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.md) 
+
+### [Age~2~Sinemurian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.internal.md) 
+
+### [Age~2~Sinemurian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.protect.md) 
+
+### [Age~2~Sinemurian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.private.md) 
+
+### [Age~2~Sinemurian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.personal.md) 
+
+### [Age~2~Sinemurian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.secret.md) 

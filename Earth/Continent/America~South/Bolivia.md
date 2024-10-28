@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -17.7667
     - -66.7
@@ -150,9 +150,15 @@ Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]
 
 
 ## Confidential Links & Embeds: 
-- [[Bolivia|Bolivia]] 
-- [[../../../../_internal/Earth/Continent/America~South/Bolivia.internal|Bolivia.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Bolivia.protect|Bolivia.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Bolivia.private|Bolivia.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Bolivia.personal|Bolivia.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Bolivia.secret|Bolivia.secret]] 
+
+### [Bolivia](/_public/Earth/Continent/America~South/Bolivia.md) 
+
+### [Bolivia.internal](/_internal/Earth/Continent/America~South/Bolivia.internal.md) 
+
+### [Bolivia.protect](/_protect/Earth/Continent/America~South/Bolivia.protect.md) 
+
+### [Bolivia.private](/_private/Earth/Continent/America~South/Bolivia.private.md) 
+
+### [Bolivia.personal](/_personal/Earth/Continent/America~South/Bolivia.personal.md) 
+
+### [Bolivia.secret](/_secret/Earth/Continent/America~South/Bolivia.secret.md) 

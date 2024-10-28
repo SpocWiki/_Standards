@@ -1,4 +1,4 @@
-
+﻿
 #has_/time_/started :: 1853-01-12
 #has_/time_/stopped :: 1925-08-06
 ## #has_/text_of_/abstract 
@@ -21,3 +21,17 @@
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Gregorio Ricci-Curbastro](/_public/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.md) 
+
+### [Gregorio Ricci-Curbastro.internal](/_internal/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.internal.md) 
+
+### [Gregorio Ricci-Curbastro.protect](/_protect/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.protect.md) 
+
+### [Gregorio Ricci-Curbastro.private](/_private/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.private.md) 
+
+### [Gregorio Ricci-Curbastro.personal](/_personal/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.personal.md) 
+
+### [Gregorio Ricci-Curbastro.secret](/_secret/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.secret.md) 

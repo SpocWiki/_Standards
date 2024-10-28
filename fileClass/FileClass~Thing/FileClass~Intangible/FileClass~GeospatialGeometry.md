@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -143,3 +143,17 @@ Represents a relationship between two geometries (or the places they represent),
 GeoWithin:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/GeospatialGeometry')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~GeospatialGeometry](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.md) 
+
+### [FileClass~GeospatialGeometry.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.internal.md) 
+
+### [FileClass~GeospatialGeometry.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.protect.md) 
+
+### [FileClass~GeospatialGeometry.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.private.md) 
+
+### [FileClass~GeospatialGeometry.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.personal.md) 
+
+### [FileClass~GeospatialGeometry.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.secret.md) 

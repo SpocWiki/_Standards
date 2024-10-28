@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_recognizing_authority|has_recognizing_authority]] 
-- [[../../../../../_public/schema-org/Relation/has/has_recognizing_authority.public|has_recognizing_authority.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_recognizing_authority.internal|has_recognizing_authority.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_recognizing_authority.protect|has_recognizing_authority.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_recognizing_authority.private|has_recognizing_authority.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_recognizing_authority.personal|has_recognizing_authority.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_recognizing_authority.secret|has_recognizing_authority.secret]] 
+
+### [has_recognizing_authority](/_public/schema-org/Relation/has/has_recognizing_authority.md) 
+
+### [has_recognizing_authority.internal](/_internal/schema-org/Relation/has/has_recognizing_authority.internal.md) 
+
+### [has_recognizing_authority.protect](/_protect/schema-org/Relation/has/has_recognizing_authority.protect.md) 
+
+### [has_recognizing_authority.private](/_private/schema-org/Relation/has/has_recognizing_authority.private.md) 
+
+### [has_recognizing_authority.personal](/_personal/schema-org/Relation/has/has_recognizing_authority.personal.md) 
+
+### [has_recognizing_authority.secret](/_secret/schema-org/Relation/has/has_recognizing_authority.secret.md) 

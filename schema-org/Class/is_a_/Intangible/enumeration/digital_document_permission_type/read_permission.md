@@ -45,10 +45,15 @@ Permission to read or view the document.
 [ #is_/enum_of :: [[../DigitalDocumentPermissionType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission|read_permission]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.public|read_permission.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.internal|read_permission.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.protect|read_permission.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.private|read_permission.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.personal|read_permission.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.secret|read_permission.secret]] 
+
+### [read_permission](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.md) 
+
+### [read_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.internal.md) 
+
+### [read_permission.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.protect.md) 
+
+### [read_permission.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.private.md) 
+
+### [read_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.personal.md) 
+
+### [read_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.secret.md) 

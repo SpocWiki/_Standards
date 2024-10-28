@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 54.6833
     - 25.3167
@@ -147,10 +147,15 @@ Capital :: [[Vilnius]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Lithuania|Lithuania]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Lithuania.public|Lithuania.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Lithuania.internal|Lithuania.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Lithuania.protect|Lithuania.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Lithuania.private|Lithuania.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Lithuania.personal|Lithuania.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Lithuania.secret|Lithuania.secret]] 
+
+### [Lithuania](/_public/Earth/Continent/Europe/Europe~North/Lithuania.md) 
+
+### [Lithuania.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania.internal.md) 
+
+### [Lithuania.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania.protect.md) 
+
+### [Lithuania.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania.private.md) 
+
+### [Lithuania.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania.personal.md) 
+
+### [Lithuania.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania.secret.md) 

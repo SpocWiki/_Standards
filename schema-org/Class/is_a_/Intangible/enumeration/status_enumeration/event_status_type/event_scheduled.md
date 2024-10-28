@@ -45,10 +45,15 @@ The event is taking place or has taken place on the startDate as scheduled. Use 
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled|event_scheduled]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.public|event_scheduled.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.internal|event_scheduled.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.protect|event_scheduled.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.private|event_scheduled.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.personal|event_scheduled.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.secret|event_scheduled.secret]] 
+
+### [event_scheduled](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.md) 
+
+### [event_scheduled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.internal.md) 
+
+### [event_scheduled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.protect.md) 
+
+### [event_scheduled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.private.md) 
+
+### [event_scheduled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.personal.md) 
+
+### [event_scheduled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.secret.md) 

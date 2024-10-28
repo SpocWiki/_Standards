@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,10 +41,15 @@ Relation describes that:
 ( #has_/range :: Demand )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_seeks|has_seeks]] 
-- [[../../../../../_public/schema-org/Relation/has/has_seeks.public|has_seeks.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_seeks.internal|has_seeks.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_seeks.protect|has_seeks.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_seeks.private|has_seeks.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_seeks.personal|has_seeks.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_seeks.secret|has_seeks.secret]] 
+
+### [has_demand_for](/_public/schema-org/Relation/has/has_demand_for.md) 
+
+### [has_demand_for.internal](/_internal/schema-org/Relation/has/has_demand_for.internal.md) 
+
+### [has_demand_for.protect](/_protect/schema-org/Relation/has/has_demand_for.protect.md) 
+
+### [has_demand_for.private](/_private/schema-org/Relation/has/has_demand_for.private.md) 
+
+### [has_demand_for.personal](/_personal/schema-org/Relation/has/has_demand_for.personal.md) 
+
+### [has_demand_for.secret](/_secret/schema-org/Relation/has/has_demand_for.secret.md) 

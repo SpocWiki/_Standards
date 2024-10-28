@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,3 +35,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Se
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LegalService](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService.md) 
+
+### [FileClass~LegalService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService.internal.md) 
+
+### [FileClass~LegalService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService.protect.md) 
+
+### [FileClass~LegalService.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService.private.md) 
+
+### [FileClass~LegalService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService.personal.md) 
+
+### [FileClass~LegalService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService.secret.md) 

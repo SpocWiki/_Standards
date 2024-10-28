@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of consuming written content.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ReadAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.md) 
+
+### [FileClass~ReadAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.internal.md) 
+
+### [FileClass~ReadAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.protect.md) 
+
+### [FileClass~ReadAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.private.md) 
+
+### [FileClass~ReadAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.personal.md) 
+
+### [FileClass~ReadAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Number, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_version|has_value_for_version]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_version.public|has_value_for_version.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_version.internal|has_value_for_version.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_version.protect|has_value_for_version.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_version.private|has_value_for_version.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_version.personal|has_value_for_version.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_version.secret|has_value_for_version.secret]] 
+
+### [has_value_for_version](/_public/schema-org/Property/has_value_for/has_value_for_version.md) 
+
+### [has_value_for_version.internal](/_internal/schema-org/Property/has_value_for/has_value_for_version.internal.md) 
+
+### [has_value_for_version.protect](/_protect/schema-org/Property/has_value_for/has_value_for_version.protect.md) 
+
+### [has_value_for_version.private](/_private/schema-org/Property/has_value_for/has_value_for_version.private.md) 
+
+### [has_value_for_version.personal](/_personal/schema-org/Property/has_value_for/has_value_for_version.personal.md) 
+
+### [has_value_for_version.secret](/_secret/schema-org/Property/has_value_for/has_value_for_version.secret.md) 

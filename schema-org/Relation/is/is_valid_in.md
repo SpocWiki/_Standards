@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: AdministrativeArea)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_valid_in|is_valid_in]] 
-- [[../../../../../_public/schema-org/Relation/is/is_valid_in.public|is_valid_in.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_valid_in.internal|is_valid_in.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_valid_in.protect|is_valid_in.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_valid_in.private|is_valid_in.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_valid_in.personal|is_valid_in.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_valid_in.secret|is_valid_in.secret]] 
+
+### [is_valid_in](/_public/schema-org/Relation/is/is_valid_in.md) 
+
+### [is_valid_in.internal](/_internal/schema-org/Relation/is/is_valid_in.internal.md) 
+
+### [is_valid_in.protect](/_protect/schema-org/Relation/is/is_valid_in.protect.md) 
+
+### [is_valid_in.private](/_private/schema-org/Relation/is/is_valid_in.private.md) 
+
+### [is_valid_in.personal](/_personal/schema-org/Relation/is/is_valid_in.personal.md) 
+
+### [is_valid_in.secret](/_secret/schema-org/Relation/is/is_valid_in.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.494 , 166.943 ] 
 type: geo-Region
 title: Anabar
@@ -40,11 +40,15 @@ markerFolder: ./Anabar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Anabar|Anabar]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Anabar.public|Anabar.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Anabar.internal|Anabar.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Anabar.protect|Anabar.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Anabar.private|Anabar.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Anabar.personal|Anabar.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Anabar.secret|Anabar.secret]] 
 
+### [Anabar](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.md) 
+
+### [Anabar.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.internal.md) 
+
+### [Anabar.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.protect.md) 
+
+### [Anabar.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.private.md) 
+
+### [Anabar.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.personal.md) 
+
+### [Anabar.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.secret.md) 

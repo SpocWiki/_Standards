@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: HyperTocEntry, Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_end_offset|has_end_offset]] 
-- [[../../../../../_public/schema-org/Relation/has/has_end_offset.public|has_end_offset.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_end_offset.internal|has_end_offset.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_end_offset.protect|has_end_offset.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_end_offset.private|has_end_offset.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_end_offset.personal|has_end_offset.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_end_offset.secret|has_end_offset.secret]] 
+
+### [has_end_offset](/_public/schema-org/Relation/has/has_end_offset.md) 
+
+### [has_end_offset.internal](/_internal/schema-org/Relation/has/has_end_offset.internal.md) 
+
+### [has_end_offset.protect](/_protect/schema-org/Relation/has/has_end_offset.protect.md) 
+
+### [has_end_offset.private](/_private/schema-org/Relation/has/has_end_offset.private.md) 
+
+### [has_end_offset.personal](/_personal/schema-org/Relation/has/has_end_offset.personal.md) 
+
+### [has_end_offset.secret](/_secret/schema-org/Relation/has/has_end_offset.secret.md) 

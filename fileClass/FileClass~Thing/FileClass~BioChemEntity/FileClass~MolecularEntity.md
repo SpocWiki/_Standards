@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -127,3 +127,17 @@ A specification in form of a line notation for describing the structure of chemi
 Smiles:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MolecularEntity](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.md) 
+
+### [FileClass~MolecularEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.internal.md) 
+
+### [FileClass~MolecularEntity.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.protect.md) 
+
+### [FileClass~MolecularEntity.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.private.md) 
+
+### [FileClass~MolecularEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.personal.md) 
+
+### [FileClass~MolecularEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.secret.md) 

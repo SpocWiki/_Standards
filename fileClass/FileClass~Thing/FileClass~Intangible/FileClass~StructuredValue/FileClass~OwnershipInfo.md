@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -79,3 +79,17 @@ The product that this structured value is referring to.
 TypeOfGood:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~OwnershipInfo](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OwnershipInfo.md) 
+
+### [FileClass~OwnershipInfo.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OwnershipInfo.internal.md) 
+
+### [FileClass~OwnershipInfo.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OwnershipInfo.protect.md) 
+
+### [FileClass~OwnershipInfo.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OwnershipInfo.private.md) 
+
+### [FileClass~OwnershipInfo.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OwnershipInfo.personal.md) 
+
+### [FileClass~OwnershipInfo.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OwnershipInfo.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -109,10 +109,15 @@ Sub-region_Name ::  [[{{Sub-region_Name}}]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/Earth/Continent/_Country-Codes-Template|_Country-Codes-Template]] 
-- [[../../../_public/Earth/Continent/_Country-Codes-Template.public|_Country-Codes-Template.public]] 
-- [[../../../_internal/Earth/Continent/_Country-Codes-Template.internal|_Country-Codes-Template.internal]] 
-- [[../../../_protect/Earth/Continent/_Country-Codes-Template.protect|_Country-Codes-Template.protect]] 
-- [[../../../_private/Earth/Continent/_Country-Codes-Template.private|_Country-Codes-Template.private]] 
-- [[../../../_personal/Earth/Continent/_Country-Codes-Template.personal|_Country-Codes-Template.personal]] 
-- [[../../../_secret/Earth/Continent/_Country-Codes-Template.secret|_Country-Codes-Template.secret]] 
+
+### [_Country-Codes-Template](/_public/Earth/Continent/_Country-Codes-Template.md) 
+
+### [_Country-Codes-Template.internal](/_internal/Earth/Continent/_Country-Codes-Template.internal.md) 
+
+### [_Country-Codes-Template.protect](/_protect/Earth/Continent/_Country-Codes-Template.protect.md) 
+
+### [_Country-Codes-Template.private](/_private/Earth/Continent/_Country-Codes-Template.private.md) 
+
+### [_Country-Codes-Template.personal](/_personal/Earth/Continent/_Country-Codes-Template.personal.md) 
+
+### [_Country-Codes-Template.secret](/_secret/Earth/Continent/_Country-Codes-Template.secret.md) 

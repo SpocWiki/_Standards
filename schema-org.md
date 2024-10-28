@@ -1,7 +1,8 @@
-
+﻿
 
 
 #has_/url :: https://schema.org/  
+#has_/url_/prefix :: schema 
 
 
 ## #has_/text_of_/abstract 
@@ -91,3 +92,17 @@ Examples are:
 |               |              |                     |                    |                 | carLicense      |                                                                  |
 |               |              |                     |                    |                 |                 |                                                                  |
 
+
+## Confidential Links & Embeds: 
+
+### [schema-org](/_public/schema-org.md) 
+
+### [schema-org.internal](/_internal/schema-org.internal.md) 
+
+### [schema-org.protect](/_protect/schema-org.protect.md) 
+
+### [schema-org.private](/_private/schema-org.private.md) 
+
+### [schema-org.personal](/_personal/schema-org.personal.md) 
+
+### [schema-org.secret](/_secret/schema-org.secret.md) 

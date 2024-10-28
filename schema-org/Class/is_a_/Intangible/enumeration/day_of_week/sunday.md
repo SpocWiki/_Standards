@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Tag Instances like this:
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/sunday|sunday]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/day_of_week/sunday.public|sunday.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.internal|sunday.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.protect|sunday.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.private|sunday.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.personal|sunday.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.secret|sunday.secret]] 
+
+### [sunday](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.md) 
+
+### [sunday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.internal.md) 
+
+### [sunday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.protect.md) 
+
+### [sunday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.private.md) 
+
+### [sunday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.personal.md) 
+
+### [sunday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.secret.md) 
