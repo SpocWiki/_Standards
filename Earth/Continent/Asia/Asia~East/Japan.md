@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 36.8617
     - 137.199
@@ -147,9 +147,15 @@ Capital :: [[Japan/Counties/Tokyo/City/Tokio]]
 
 
 ## Confidential Links & Embeds: 
-- [[Japan|Japan]] 
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~East/Japan.internal|Japan.internal]] 
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~East/Japan.protect|Japan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~East/Japan.private|Japan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~East/Japan.personal|Japan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~East/Japan.secret|Japan.secret]] 
+
+### [Japan](/_public/Earth/Continent/Asia/Asia~East/Japan.md) 
+
+### [Japan.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan.internal.md) 
+
+### [Japan.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan.protect.md) 
+
+### [Japan.private](/_private/Earth/Continent/Asia/Asia~East/Japan.private.md) 
+
+### [Japan.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan.personal.md) 
+
+### [Japan.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan.secret.md) 

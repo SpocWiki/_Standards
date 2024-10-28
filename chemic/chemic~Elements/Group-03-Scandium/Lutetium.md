@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21967
@@ -33,10 +33,15 @@ SpocWebEntityId: 21967
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-03-Scandium/Lutetium|Lutetium]] 
-- [[../../../../_public/chemic/Elements/Group-03-Scandium/Lutetium.public|Lutetium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Lutetium.internal|Lutetium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Lutetium.protect|Lutetium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-03-Scandium/Lutetium.private|Lutetium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Lutetium.personal|Lutetium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Lutetium.secret|Lutetium.secret]] 
+
+### [Lutetium](/_public/chemic/chemic~Elements/Group-03-Scandium/Lutetium.md) 
+
+### [Lutetium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Lutetium.internal.md) 
+
+### [Lutetium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Lutetium.protect.md) 
+
+### [Lutetium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Lutetium.private.md) 
+
+### [Lutetium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Lutetium.personal.md) 
+
+### [Lutetium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Lutetium.secret.md) 

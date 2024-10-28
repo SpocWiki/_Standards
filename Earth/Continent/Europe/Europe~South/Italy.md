@@ -1,4 +1,4 @@
----
+﻿---
 title: Italy
 linkTitle: 
 type: Country
@@ -252,12 +252,15 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]] 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Italy.public|Italy.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Italy.internal|Italy.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Italy.protect|Italy.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Italy.private|Italy.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Italy.personal|Italy.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]] 
 
+### [Italy](/_public/Earth/Continent/Europe/Europe~South/Italy.md) 
+
+### [Italy.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy.internal.md) 
+
+### [Italy.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy.protect.md) 
+
+### [Italy.private](/_private/Earth/Continent/Europe/Europe~South/Italy.private.md) 
+
+### [Italy.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy.personal.md) 
+
+### [Italy.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy.secret.md) 

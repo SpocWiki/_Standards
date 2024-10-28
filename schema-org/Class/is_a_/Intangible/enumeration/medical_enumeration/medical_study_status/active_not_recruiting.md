@@ -45,10 +45,15 @@ Active, but not recruiting new participants.
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting|active_not_recruiting]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.public|active_not_recruiting.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.internal|active_not_recruiting.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.protect|active_not_recruiting.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.private|active_not_recruiting.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.personal|active_not_recruiting.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.secret|active_not_recruiting.secret]] 
+
+### [active_not_recruiting](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.md) 
+
+### [active_not_recruiting.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.internal.md) 
+
+### [active_not_recruiting.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.protect.md) 
+
+### [active_not_recruiting.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.private.md) 
+
+### [active_not_recruiting.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.personal.md) 
+
+### [active_not_recruiting.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.secret.md) 

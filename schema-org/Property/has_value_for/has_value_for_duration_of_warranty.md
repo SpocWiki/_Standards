@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_duration_of_warranty|has_value_for_duration_of_warranty]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_duration_of_warranty.public|has_value_for_duration_of_warranty.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.internal|has_value_for_duration_of_warranty.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.protect|has_value_for_duration_of_warranty.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.private|has_value_for_duration_of_warranty.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.personal|has_value_for_duration_of_warranty.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.secret|has_value_for_duration_of_warranty.secret]] 
+
+### [has_value_for_duration_of_warranty](/_public/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.md) 
+
+### [has_value_for_duration_of_warranty.internal](/_internal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.internal.md) 
+
+### [has_value_for_duration_of_warranty.protect](/_protect/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.protect.md) 
+
+### [has_value_for_duration_of_warranty.private](/_private/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.private.md) 
+
+### [has_value_for_duration_of_warranty.personal](/_personal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.personal.md) 
+
+### [has_value_for_duration_of_warranty.secret](/_secret/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.secret.md) 

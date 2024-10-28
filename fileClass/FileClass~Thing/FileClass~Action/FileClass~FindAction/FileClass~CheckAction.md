@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An agent inspects, determines, investigates, inquires, or examines an object's a
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CheckAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.md) 
+
+### [FileClass~CheckAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.internal.md) 
+
+### [FileClass~CheckAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.protect.md) 
+
+### [FileClass~CheckAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.private.md) 
+
+### [FileClass~CheckAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.personal.md) 
+
+### [FileClass~CheckAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.secret.md) 

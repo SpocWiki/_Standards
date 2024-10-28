@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: BoatTerminal )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_departure_boat_terminal|has_departure_boat_terminal]] 
-- [[../../../../../_public/schema-org/Relation/has/has_departure_boat_terminal.public|has_departure_boat_terminal.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_departure_boat_terminal.internal|has_departure_boat_terminal.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_departure_boat_terminal.protect|has_departure_boat_terminal.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_departure_boat_terminal.private|has_departure_boat_terminal.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_departure_boat_terminal.personal|has_departure_boat_terminal.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_departure_boat_terminal.secret|has_departure_boat_terminal.secret]] 
+
+### [has_departure_boat_terminal](/_public/schema-org/Relation/has/has_departure_boat_terminal.md) 
+
+### [has_departure_boat_terminal.internal](/_internal/schema-org/Relation/has/has_departure_boat_terminal.internal.md) 
+
+### [has_departure_boat_terminal.protect](/_protect/schema-org/Relation/has/has_departure_boat_terminal.protect.md) 
+
+### [has_departure_boat_terminal.private](/_private/schema-org/Relation/has/has_departure_boat_terminal.private.md) 
+
+### [has_departure_boat_terminal.personal](/_personal/schema-org/Relation/has/has_departure_boat_terminal.personal.md) 
+
+### [has_departure_boat_terminal.secret](/_secret/schema-org/Relation/has/has_departure_boat_terminal.secret.md) 

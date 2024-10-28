@@ -45,10 +45,15 @@ A program with both an educational and employment component. Typically based at 
 [ #has_/properties :: [ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/educational_occupational_program/work_based_program|work_based_program]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/educational_occupational_program/work_based_program.public|work_based_program.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/educational_occupational_program/work_based_program.internal|work_based_program.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/educational_occupational_program/work_based_program.protect|work_based_program.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/educational_occupational_program/work_based_program.private|work_based_program.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/educational_occupational_program/work_based_program.personal|work_based_program.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/educational_occupational_program/work_based_program.secret|work_based_program.secret]] 
+
+### [work_based_program](/_public/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.md) 
+
+### [work_based_program.internal](/_internal/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.internal.md) 
+
+### [work_based_program.protect](/_protect/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.protect.md) 
+
+### [work_based_program.private](/_private/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.private.md) 
+
+### [work_based_program.personal](/_personal/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.personal.md) 
+
+### [work_based_program.secret](/_secret/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.secret.md) 

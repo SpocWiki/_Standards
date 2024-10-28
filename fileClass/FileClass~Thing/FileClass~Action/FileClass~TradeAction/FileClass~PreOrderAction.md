@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An agent orders a (not yet released) object/product/service to be delivered/sent
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PreOrderAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.md) 
+
+### [FileClass~PreOrderAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.internal.md) 
+
+### [FileClass~PreOrderAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.protect.md) 
+
+### [FileClass~PreOrderAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.private.md) 
+
+### [FileClass~PreOrderAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.personal.md) 
+
+### [FileClass~PreOrderAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.secret.md) 

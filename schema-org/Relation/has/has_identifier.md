@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ accountId, asin, callSign, confirmationNumber, duns, editEIDR, flightNumber, globalLocationNumber, gtin, gtin12, gtin13, gtin14, gtin8, isbn, issn, legislationIdentifier, leiCode, nsn, orderNumber, productID, serialNumber, sku, taxID, titleEIDR ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_identifier|has_identifier]] 
-- [[../../../../../_public/schema-org/Relation/has/has_identifier.public|has_identifier.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_identifier.internal|has_identifier.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_identifier.protect|has_identifier.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_identifier.private|has_identifier.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_identifier.personal|has_identifier.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_identifier.secret|has_identifier.secret]] 
+
+### [has_identifier](/_public/schema-org/Relation/has/has_identifier.md) 
+
+### [has_identifier.internal](/_internal/schema-org/Relation/has/has_identifier.internal.md) 
+
+### [has_identifier.protect](/_protect/schema-org/Relation/has/has_identifier.protect.md) 
+
+### [has_identifier.private](/_private/schema-org/Relation/has/has_identifier.private.md) 
+
+### [has_identifier.personal](/_personal/schema-org/Relation/has/has_identifier.personal.md) 
+
+### [has_identifier.secret](/_secret/schema-org/Relation/has/has_identifier.secret.md) 

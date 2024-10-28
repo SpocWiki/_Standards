@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_required_max_age|has_number_of_required_max_age]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_required_max_age.public|has_number_of_required_max_age.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_required_max_age.internal|has_number_of_required_max_age.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_required_max_age.protect|has_number_of_required_max_age.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_required_max_age.private|has_number_of_required_max_age.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_required_max_age.personal|has_number_of_required_max_age.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_required_max_age.secret|has_number_of_required_max_age.secret]] 
+
+### [has_number_of_required_max_age](/_public/schema-org/Property/has_number_of/has_number_of_required_max_age.md) 
+
+### [has_number_of_required_max_age.internal](/_internal/schema-org/Property/has_number_of/has_number_of_required_max_age.internal.md) 
+
+### [has_number_of_required_max_age.protect](/_protect/schema-org/Property/has_number_of/has_number_of_required_max_age.protect.md) 
+
+### [has_number_of_required_max_age.private](/_private/schema-org/Property/has_number_of/has_number_of_required_max_age.private.md) 
+
+### [has_number_of_required_max_age.personal](/_personal/schema-org/Property/has_number_of/has_number_of_required_max_age.personal.md) 
+
+### [has_number_of_required_max_age.secret](/_secret/schema-org/Property/has_number_of/has_number_of_required_max_age.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Continent
 icon: flag-eu
 has_id_wikidata: Q46 
@@ -148,9 +148,15 @@ markerFolder: ./Europe/City/
 
 
 ## Confidential Links & Embeds: 
-- [[_public/Earth/Continent/Europe.md|Europe]] 
-- [[_internal/Earth/Continent/Europe.internal|Europe.internal]] 
-- [[_protect/Earth/Continent/Europe.protect|Europe.protect]] 
-- [[_private/Earth/Continent/Europe.private|Europe.private]] 
-- [[_personal/Earth/Continent/Europe.personal|Europe.personal]] 
-- [[_secret/Earth/Continent/Europe.secret|Europe.secret]] 
+
+### [Europe](/_public/Earth/Continent/Europe.md) 
+
+### [Europe.internal](/_internal/Earth/Continent/Europe.internal.md) 
+
+### [Europe.protect](/_protect/Earth/Continent/Europe.protect.md) 
+
+### [Europe.private](/_private/Earth/Continent/Europe.private.md) 
+
+### [Europe.personal](/_personal/Earth/Continent/Europe.personal.md) 
+
+### [Europe.secret](/_secret/Earth/Continent/Europe.secret.md) 

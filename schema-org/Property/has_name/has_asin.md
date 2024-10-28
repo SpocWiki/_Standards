@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -54,10 +54,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_asin|has_asin]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_asin.public|has_asin.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_asin.internal|has_asin.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_asin.protect|has_asin.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_asin.private|has_asin.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_asin.personal|has_asin.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_asin.secret|has_asin.secret]] 
+
+### [has_asin](/_public/schema-org/Property/has_name/has_asin.md) 
+
+### [has_asin.internal](/_internal/schema-org/Property/has_name/has_asin.internal.md) 
+
+### [has_asin.protect](/_protect/schema-org/Property/has_name/has_asin.protect.md) 
+
+### [has_asin.private](/_private/schema-org/Property/has_name/has_asin.private.md) 
+
+### [has_asin.personal](/_personal/schema-org/Property/has_name/has_asin.personal.md) 
+
+### [has_asin.secret](/_secret/schema-org/Property/has_name/has_asin.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21998
@@ -32,10 +32,15 @@ SpocWebEntityId: 21998
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-03-Scandium/Lawrencium|Lawrencium]] 
-- [[../../../../_public/chemic/Elements/Group-03-Scandium/Lawrencium.public|Lawrencium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Lawrencium.internal|Lawrencium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Lawrencium.protect|Lawrencium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-03-Scandium/Lawrencium.private|Lawrencium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Lawrencium.personal|Lawrencium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Lawrencium.secret|Lawrencium.secret]] 
+
+### [Lawrencium](/_public/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.md) 
+
+### [Lawrencium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.internal.md) 
+
+### [Lawrencium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.protect.md) 
+
+### [Lawrencium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.private.md) 
+
+### [Lawrencium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.personal.md) 
+
+### [Lawrencium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.secret.md) 

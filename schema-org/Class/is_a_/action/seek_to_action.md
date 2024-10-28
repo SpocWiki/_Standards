@@ -45,10 +45,15 @@ This is the [[Action]] of navigating to a specific [[startOffset]] timestamp wit
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startOffset, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/action/seek_to_action|seek_to_action]] 
-- [[../../../../../_public/schema-org/Class/is_a_/action/seek_to_action.public|seek_to_action.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/action/seek_to_action.internal|seek_to_action.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/action/seek_to_action.protect|seek_to_action.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/action/seek_to_action.private|seek_to_action.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/action/seek_to_action.personal|seek_to_action.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/action/seek_to_action.secret|seek_to_action.secret]] 
+
+### [seek_to_action](/_public/schema-org/Class/is_a_/action/seek_to_action.md) 
+
+### [seek_to_action.internal](/_internal/schema-org/Class/is_a_/action/seek_to_action.internal.md) 
+
+### [seek_to_action.protect](/_protect/schema-org/Class/is_a_/action/seek_to_action.protect.md) 
+
+### [seek_to_action.private](/_private/schema-org/Class/is_a_/action/seek_to_action.private.md) 
+
+### [seek_to_action.personal](/_personal/schema-org/Class/is_a_/action/seek_to_action.personal.md) 
+
+### [seek_to_action.secret](/_secret/schema-org/Class/is_a_/action/seek_to_action.secret.md) 

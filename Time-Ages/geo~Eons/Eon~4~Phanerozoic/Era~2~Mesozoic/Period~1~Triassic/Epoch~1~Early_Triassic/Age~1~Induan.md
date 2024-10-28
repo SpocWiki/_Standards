@@ -1,4 +1,4 @@
-# [[Age~1~Induan]]
+﻿# [[Age~1~Induan]]
 
 #is_a_/time_/Age 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Induan](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.md) 
+
+### [Age~1~Induan.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.internal.md) 
+
+### [Age~1~Induan.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.protect.md) 
+
+### [Age~1~Induan.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.private.md) 
+
+### [Age~1~Induan.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.personal.md) 
+
+### [Age~1~Induan.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan.secret.md) 

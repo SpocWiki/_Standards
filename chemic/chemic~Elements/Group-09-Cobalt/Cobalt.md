@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -41,10 +41,15 @@ SpocWebEntityId: 21926
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-09-Cobalt/Cobalt|Cobalt]] 
-- [[../../../../_public/chemic/Elements/Group-09-Cobalt/Cobalt.public|Cobalt.public]] 
-- [[../../../../_internal/chemic/Elements/Group-09-Cobalt/Cobalt.internal|Cobalt.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-09-Cobalt/Cobalt.protect|Cobalt.protect]] 
-- [[../../../../_private/chemic/Elements/Group-09-Cobalt/Cobalt.private|Cobalt.private]] 
-- [[../../../../_personal/chemic/Elements/Group-09-Cobalt/Cobalt.personal|Cobalt.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-09-Cobalt/Cobalt.secret|Cobalt.secret]] 
+
+### [Cobalt](/_public/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.md) 
+
+### [Cobalt.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.internal.md) 
+
+### [Cobalt.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.protect.md) 
+
+### [Cobalt.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.private.md) 
+
+### [Cobalt.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.personal.md) 
+
+### [Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.secret.md) 

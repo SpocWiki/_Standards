@@ -1,4 +1,4 @@
-# [[Age~1~Greenlandian]] 
+﻿# [[Age~1~Greenlandian]] 
 
 #is_a_/time_/Age 
 
@@ -31,3 +31,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Greenlandian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~1~Greenlandian.md) 
+
+### [Age~1~Greenlandian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~1~Greenlandian.internal.md) 
+
+### [Age~1~Greenlandian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~1~Greenlandian.protect.md) 
+
+### [Age~1~Greenlandian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~1~Greenlandian.private.md) 
+
+### [Age~1~Greenlandian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~1~Greenlandian.personal.md) 
+
+### [Age~1~Greenlandian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~1~Greenlandian.secret.md) 

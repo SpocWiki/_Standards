@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_job_title|has_job_title]] 
-- [[../../../../../_public/schema-org/Relation/has/has_job_title.public|has_job_title.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_job_title.internal|has_job_title.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_job_title.protect|has_job_title.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_job_title.private|has_job_title.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_job_title.personal|has_job_title.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_job_title.secret|has_job_title.secret]] 
+
+### [has_job_title](/_public/schema-org/Relation/has/has_job_title.md) 
+
+### [has_job_title.internal](/_internal/schema-org/Relation/has/has_job_title.internal.md) 
+
+### [has_job_title.protect](/_protect/schema-org/Relation/has/has_job_title.protect.md) 
+
+### [has_job_title.private](/_private/schema-org/Relation/has/has_job_title.private.md) 
+
+### [has_job_title.personal](/_personal/schema-org/Relation/has/has_job_title.personal.md) 
+
+### [has_job_title.secret](/_secret/schema-org/Relation/has/has_job_title.secret.md) 

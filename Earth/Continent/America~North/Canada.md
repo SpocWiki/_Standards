@@ -1,4 +1,4 @@
----
+﻿---
 title: Canada
 type: Country
 location:
@@ -169,10 +169,15 @@ Capital :: [[Canada/State/State~Ontario/City/Ottawa]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/America~North/Canada|Canada]] 
-- [[../../../../_public/Earth/Continent/America~North/Canada.public|Canada.public]] 
-- [[../../../../_internal/Earth/Continent/America~North/Canada.internal|Canada.internal]] 
-- [[../../../../_protect/Earth/Continent/America~North/Canada.protect|Canada.protect]] 
-- [[../../../../_private/Earth/Continent/America~North/Canada.private|Canada.private]] 
-- [[../../../../_personal/Earth/Continent/America~North/Canada.personal|Canada.personal]] 
-- [[../../../../_secret/Earth/Continent/America~North/Canada.secret|Canada.secret]] 
+
+### [Canada](/_public/Earth/Continent/America~North/Canada.md) 
+
+### [Canada.internal](/_internal/Earth/Continent/America~North/Canada.internal.md) 
+
+### [Canada.protect](/_protect/Earth/Continent/America~North/Canada.protect.md) 
+
+### [Canada.private](/_private/Earth/Continent/America~North/Canada.private.md) 
+
+### [Canada.personal](/_personal/Earth/Continent/America~North/Canada.personal.md) 
+
+### [Canada.secret](/_secret/Earth/Continent/America~North/Canada.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ This Review or Rating is relevant to this part or facet of the itemReviewed.
 ReviewAspect:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Guide](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.md) 
+
+### [FileClass~Guide.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.internal.md) 
+
+### [FileClass~Guide.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.protect.md) 
+
+### [FileClass~Guide.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.private.md) 
+
+### [FileClass~Guide.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.personal.md) 
+
+### [FileClass~Guide.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.secret.md) 

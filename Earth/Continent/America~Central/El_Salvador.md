@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 13.6667
     - -89.1667
@@ -145,9 +145,15 @@ Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]
 
 
 ## Confidential Links & Embeds: 
-- [[El_Salvador|El_Salvador]] 
-- [[../../../../_internal/Earth/Continent/America~Central/El_Salvador.internal|El_Salvador.internal]] 
-- [[../../../../_protect/Earth/Continent/America~Central/El_Salvador.protect|El_Salvador.protect]] 
-- [[../../../../_private/Earth/Continent/America~Central/El_Salvador.private|El_Salvador.private]] 
-- [[../../../../_personal/Earth/Continent/America~Central/El_Salvador.personal|El_Salvador.personal]] 
-- [[../../../../_secret/Earth/Continent/America~Central/El_Salvador.secret|El_Salvador.secret]] 
+
+### [El_Salvador](/_public/Earth/Continent/America~Central/El_Salvador.md) 
+
+### [El_Salvador.internal](/_internal/Earth/Continent/America~Central/El_Salvador.internal.md) 
+
+### [El_Salvador.protect](/_protect/Earth/Continent/America~Central/El_Salvador.protect.md) 
+
+### [El_Salvador.private](/_private/Earth/Continent/America~Central/El_Salvador.private.md) 
+
+### [El_Salvador.personal](/_personal/Earth/Continent/America~Central/El_Salvador.personal.md) 
+
+### [El_Salvador.secret](/_secret/Earth/Continent/America~Central/El_Salvador.secret.md) 

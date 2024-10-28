@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_destroyer|has_destroyer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_destroyer.public|has_destroyer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_destroyer.internal|has_destroyer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_destroyer.protect|has_destroyer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_destroyer.private|has_destroyer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_destroyer.personal|has_destroyer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_destroyer.secret|has_destroyer.secret]] 
+
+### [has_destroyer](/_public/schema-org/Relation/has/has_destroyer.md) 
+
+### [has_destroyer.internal](/_internal/schema-org/Relation/has/has_destroyer.internal.md) 
+
+### [has_destroyer.protect](/_protect/schema-org/Relation/has/has_destroyer.protect.md) 
+
+### [has_destroyer.private](/_private/schema-org/Relation/has/has_destroyer.private.md) 
+
+### [has_destroyer.personal](/_personal/schema-org/Relation/has/has_destroyer.personal.md) 
+
+### [has_destroyer.secret](/_secret/schema-org/Relation/has/has_destroyer.secret.md) 

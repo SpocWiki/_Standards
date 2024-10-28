@@ -45,10 +45,15 @@ The practice of treatment of disease, injury, or deformity by physical methods s
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy|physiotherapy]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.public|physiotherapy.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/physiotherapy.internal|physiotherapy.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/physiotherapy.protect|physiotherapy.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/physiotherapy.private|physiotherapy.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/physiotherapy.personal|physiotherapy.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/physiotherapy.secret|physiotherapy.secret]] 
+
+### [physiotherapy](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.md) 
+
+### [physiotherapy.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.internal.md) 
+
+### [physiotherapy.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.protect.md) 
+
+### [physiotherapy.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.private.md) 
+
+### [physiotherapy.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.personal.md) 
+
+### [physiotherapy.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.secret.md) 

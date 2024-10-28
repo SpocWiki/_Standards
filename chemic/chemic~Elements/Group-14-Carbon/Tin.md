@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 3285
@@ -44,10 +44,15 @@ SpocWebEntityId: 3285
 > [Wikipedia](https://en.wikipedia.org/wiki/Tin)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-14-Carbon/Tin|Tin]] 
-- [[../../../../_public/chemic/Elements/Group-14-Carbon/Tin.public|Tin.public]] 
-- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Tin.internal|Tin.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Tin.protect|Tin.protect]] 
-- [[../../../../_private/chemic/Elements/Group-14-Carbon/Tin.private|Tin.private]] 
-- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Tin.personal|Tin.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Tin.secret|Tin.secret]] 
+
+### [Tin](/_public/chemic/chemic~Elements/Group-14-Carbon/Tin.md) 
+
+### [Tin.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Tin.internal.md) 
+
+### [Tin.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Tin.protect.md) 
+
+### [Tin.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Tin.private.md) 
+
+### [Tin.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Tin.personal.md) 
+
+### [Tin.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Tin.secret.md) 

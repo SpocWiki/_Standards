@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21949
@@ -38,10 +38,15 @@ SpocWebEntityId: 21949
 > [Wikipedia](https://en.wikipedia.org/wiki/Iodine)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-17-Halogene/Iodine|Iodine]] 
-- [[../../../../_public/chemic/Elements/Group-17-Halogene/Iodine.public|Iodine.public]] 
-- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Iodine.internal|Iodine.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Iodine.protect|Iodine.protect]] 
-- [[../../../../_private/chemic/Elements/Group-17-Halogene/Iodine.private|Iodine.private]] 
-- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Iodine.personal|Iodine.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Iodine.secret|Iodine.secret]] 
+
+### [Iodine](/_public/chemic/chemic~Elements/Group-17-Halogene/Iodine.md) 
+
+### [Iodine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Iodine.internal.md) 
+
+### [Iodine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Iodine.protect.md) 
+
+### [Iodine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Iodine.private.md) 
+
+### [Iodine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Iodine.personal.md) 
+
+### [Iodine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Iodine.secret.md) 

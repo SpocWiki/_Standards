@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ The series to which this episode or season belongs.
 [ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_part_of_series|is_part_of_series]] 
-- [[../../../../../_public/schema-org/Relation/has/is_part_of_series.public|is_part_of_series.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_part_of_series.internal|is_part_of_series.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_part_of_series.protect|is_part_of_series.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_part_of_series.private|is_part_of_series.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_part_of_series.personal|is_part_of_series.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_part_of_series.secret|is_part_of_series.secret]] 
+
+### [is_part_of_series](/_public/schema-org/Relation/is/part_of/is_part_of_series.md) 
+
+### [is_part_of_series.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_series.internal.md) 
+
+### [is_part_of_series.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_series.protect.md) 
+
+### [is_part_of_series.private](/_private/schema-org/Relation/is/part_of/is_part_of_series.private.md) 
+
+### [is_part_of_series.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_series.personal.md) 
+
+### [is_part_of_series.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_series.secret.md) 

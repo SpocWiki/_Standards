@@ -45,10 +45,15 @@ A contact point—for example, a Customer Complaints department.
 [ #has_/properties :: [ additionalType, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, potentialAction, productSupported, sameAs, serviceArea, subjectOf, telephone, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/contact_point|contact_point]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/contact_point.public|contact_point.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/contact_point.internal|contact_point.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/contact_point.protect|contact_point.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/contact_point.private|contact_point.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/contact_point.personal|contact_point.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/contact_point.secret|contact_point.secret]] 
+
+### [contact_point](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point.md) 
+
+### [contact_point.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/contact_point.internal.md) 
+
+### [contact_point.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/contact_point.protect.md) 
+
+### [contact_point.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/contact_point.private.md) 
+
+### [contact_point.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/contact_point.personal.md) 
+
+### [contact_point.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point.secret.md) 

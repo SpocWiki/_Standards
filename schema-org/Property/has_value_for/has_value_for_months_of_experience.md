@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_months_of_experience|has_value_for_months_of_experience]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_months_of_experience.public|has_value_for_months_of_experience.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_months_of_experience.internal|has_value_for_months_of_experience.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_months_of_experience.protect|has_value_for_months_of_experience.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_months_of_experience.private|has_value_for_months_of_experience.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_months_of_experience.personal|has_value_for_months_of_experience.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_months_of_experience.secret|has_value_for_months_of_experience.secret]] 
+
+### [has_value_for_months_of_experience](/_public/schema-org/Property/has_value_for/has_value_for_months_of_experience.md) 
+
+### [has_value_for_months_of_experience.internal](/_internal/schema-org/Property/has_value_for/has_value_for_months_of_experience.internal.md) 
+
+### [has_value_for_months_of_experience.protect](/_protect/schema-org/Property/has_value_for/has_value_for_months_of_experience.protect.md) 
+
+### [has_value_for_months_of_experience.private](/_private/schema-org/Property/has_value_for/has_value_for_months_of_experience.private.md) 
+
+### [has_value_for_months_of_experience.personal](/_personal/schema-org/Property/has_value_for/has_value_for_months_of_experience.personal.md) 
+
+### [has_value_for_months_of_experience.secret](/_secret/schema-org/Property/has_value_for/has_value_for_months_of_experience.secret.md) 

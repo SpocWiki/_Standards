@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_merchant|has_merchant]] 
-- [[../../../../../_public/schema-org/Relation/has/has_merchant.public|has_merchant.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_merchant.internal|has_merchant.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_merchant.protect|has_merchant.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_merchant.private|has_merchant.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_merchant.personal|has_merchant.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_merchant.secret|has_merchant.secret]] 
+
+### [has_merchant](/_public/schema-org/Relation/has/has_merchant.md) 
+
+### [has_merchant.internal](/_internal/schema-org/Relation/has/has_merchant.internal.md) 
+
+### [has_merchant.protect](/_protect/schema-org/Relation/has/has_merchant.protect.md) 
+
+### [has_merchant.private](/_private/schema-org/Relation/has/has_merchant.private.md) 
+
+### [has_merchant.personal](/_personal/schema-org/Relation/has/has_merchant.personal.md) 
+
+### [has_merchant.secret](/_secret/schema-org/Relation/has/has_merchant.secret.md) 

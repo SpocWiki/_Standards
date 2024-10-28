@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21959
@@ -37,10 +37,15 @@ SpocWebEntityId: 21959
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Europium|Europium]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Europium.public|Europium.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Europium.internal|Europium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Europium.protect|Europium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Europium.private|Europium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Europium.personal|Europium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Europium.secret|Europium.secret]] 
+
+### [Europium](/_public/chemic/chemic~Elements/Lanthanide-Group/Europium.md) 
+
+### [Europium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Europium.internal.md) 
+
+### [Europium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Europium.protect.md) 
+
+### [Europium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Europium.private.md) 
+
+### [Europium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Europium.personal.md) 
+
+### [Europium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Europium.secret.md) 

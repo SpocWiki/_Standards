@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -89,3 +89,17 @@ The variableMeasured property can indicate (repeated as necessary) the  variable
 VariableMeasured:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Dataset](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.md) 
+
+### [FileClass~Dataset.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.internal.md) 
+
+### [FileClass~Dataset.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.protect.md) 
+
+### [FileClass~Dataset.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.private.md) 
+
+### [FileClass~Dataset.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.personal.md) 
+
+### [FileClass~Dataset.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset.secret.md) 

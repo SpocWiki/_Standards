@@ -1,4 +1,4 @@
-# [[Age~2~Cambrian-Stage-4]] 
+﻿# [[Age~2~Cambrian-Stage-4]] 
 
 #is_a_/time_/Age 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Cambrian-Stage-4](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.md) 
+
+### [Age~2~Cambrian-Stage-4.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.internal.md) 
+
+### [Age~2~Cambrian-Stage-4.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.protect.md) 
+
+### [Age~2~Cambrian-Stage-4.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.private.md) 
+
+### [Age~2~Cambrian-Stage-4.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.personal.md) 
+
+### [Age~2~Cambrian-Stage-4.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.secret.md) 

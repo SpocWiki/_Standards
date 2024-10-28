@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Relation describes that:
 ( #has_/range :: CategoryCode, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_occupational_category|has_occupational_category]] 
-- [[../../../../../_public/schema-org/Relation/has/has_occupational_category.public|has_occupational_category.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_occupational_category.internal|has_occupational_category.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_occupational_category.protect|has_occupational_category.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_occupational_category.private|has_occupational_category.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_occupational_category.personal|has_occupational_category.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_occupational_category.secret|has_occupational_category.secret]] 
+
+### [has_occupational_category](/_public/schema-org/Relation/has/has_occupational_category.md) 
+
+### [has_occupational_category.internal](/_internal/schema-org/Relation/has/has_occupational_category.internal.md) 
+
+### [has_occupational_category.protect](/_protect/schema-org/Relation/has/has_occupational_category.protect.md) 
+
+### [has_occupational_category.private](/_private/schema-org/Relation/has/has_occupational_category.private.md) 
+
+### [has_occupational_category.personal](/_personal/schema-org/Relation/has/has_occupational_category.personal.md) 
+
+### [has_occupational_category.secret](/_secret/schema-org/Relation/has/has_occupational_category.secret.md) 

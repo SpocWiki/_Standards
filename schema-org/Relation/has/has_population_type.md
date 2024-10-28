@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Class )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_population_type|has_population_type]] 
-- [[../../../../../_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_population_type.internal|has_population_type.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_population_type.protect|has_population_type.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_population_type.private|has_population_type.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_population_type.personal|has_population_type.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_population_type.secret|has_population_type.secret]] 
+
+### [has_population_type](/_public/schema-org/Relation/has/has_population_type.md) 
+
+### [has_population_type.internal](/_internal/schema-org/Relation/has/has_population_type.internal.md) 
+
+### [has_population_type.protect](/_protect/schema-org/Relation/has/has_population_type.protect.md) 
+
+### [has_population_type.private](/_private/schema-org/Relation/has/has_population_type.private.md) 
+
+### [has_population_type.personal](/_personal/schema-org/Relation/has/has_population_type.personal.md) 
+
+### [has_population_type.secret](/_secret/schema-org/Relation/has/has_population_type.secret.md) 

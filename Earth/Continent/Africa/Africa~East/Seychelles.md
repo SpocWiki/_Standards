@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -4.61667
 - 55.45
@@ -142,9 +142,15 @@ Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]
 
 
 ## Confidential Links & Embeds: 
-- [[Seychelles]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Seychelles.internal|Seychelles.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Seychelles.protect|Seychelles.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Seychelles.private|Seychelles.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Seychelles.personal|Seychelles.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Seychelles.secret|Seychelles.secret]] 
+
+### [Seychelles](/_public/Earth/Continent/Africa/Africa~East/Seychelles.md) 
+
+### [Seychelles.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles.internal.md) 
+
+### [Seychelles.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles.protect.md) 
+
+### [Seychelles.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles.private.md) 
+
+### [Seychelles.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles.personal.md) 
+
+### [Seychelles.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles.secret.md) 

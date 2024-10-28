@@ -1,4 +1,4 @@
----
+﻿---
 location: [-6.307,34.854]
 type: Country
 tags:
@@ -41,9 +41,15 @@ has_place_continent:: [[Africa]]
 
 
 ## Confidential Links & Embeds: 
-- [[Tanganyika|Tanganyika]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Tanganyika.internal|Tanganyika.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Tanganyika.protect|Tanganyika.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Tanganyika.private|Tanganyika.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Tanganyika.personal|Tanganyika.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Tanganyika.secret|Tanganyika.secret]] 
+
+### [Tanganyika](/_public/Earth/Continent/Africa/Africa~East/Tanganyika.md) 
+
+### [Tanganyika.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanganyika.internal.md) 
+
+### [Tanganyika.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanganyika.protect.md) 
+
+### [Tanganyika.private](/_private/Earth/Continent/Africa/Africa~East/Tanganyika.private.md) 
+
+### [Tanganyika.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanganyika.personal.md) 
+
+### [Tanganyika.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanganyika.secret.md) 

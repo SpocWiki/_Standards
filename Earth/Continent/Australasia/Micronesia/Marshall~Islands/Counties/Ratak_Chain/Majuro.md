@@ -1,4 +1,4 @@
----
+﻿---
 location: [7.116667,171.3667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Marshall~Islands/City/Majuro|Majuro]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Marshall~Islands/City/Majuro.public|Majuro.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Marshall~Islands/City/Majuro.internal|Majuro.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Marshall~Islands/City/Majuro.protect|Majuro.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Marshall~Islands/City/Majuro.private|Majuro.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Marshall~Islands/City/Majuro.personal|Majuro.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Marshall~Islands/City/Majuro.secret|Majuro.secret]] 
+
+### [Majuro](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain/Majuro.md) 
+
+### [Majuro.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain/Majuro.internal.md) 
+
+### [Majuro.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain/Majuro.protect.md) 
+
+### [Majuro.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain/Majuro.private.md) 
+
+### [Majuro.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain/Majuro.personal.md) 
+
+### [Majuro.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain/Majuro.secret.md) 

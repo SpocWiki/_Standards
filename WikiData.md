@@ -1,4 +1,4 @@
-This Folder contains Copies of Core-[[../Data/Wikipedia/WikiData|WikiData]] Entities in a flat structure. 
+﻿This Folder contains Copies of Core-[[../Data/Wikipedia/WikiData|WikiData]] Entities in a flat structure. 
 To this purpose configure the [obsidian-wikidata-importer](https://github.com/samwho/obsidian-wikidata-importer) to use 
 - the Wikidata Entity Key `has_id_wikidata` and 
 - the Internal Link Prefix `_Standards/WD/WD~${label},${id}` 
@@ -34,3 +34,17 @@ of primarily the English Wikipedia, to guide editors on which articles to priori
 These Articles are also ranked from Level 1 (with 10 Articles) to Level 5 which currently contains 5e4 Articles. 
 
 These Articles can be updated from Wikidata at any time, so don't edit them directly. 
+
+## Confidential Links & Embeds: 
+
+### [WikiData](/_public/WikiData.md) 
+
+### [WikiData.internal](/_internal/WikiData.internal.md) 
+
+### [WikiData.protect](/_protect/WikiData.protect.md) 
+
+### [WikiData.private](/_private/WikiData.private.md) 
+
+### [WikiData.personal](/_personal/WikiData.personal.md) 
+
+### [WikiData.secret](/_secret/WikiData.secret.md) 

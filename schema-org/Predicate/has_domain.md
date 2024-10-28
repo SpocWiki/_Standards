@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,10 +40,15 @@ Relation describes that:
 ( #has_/range :: [Class](../Classes.md) )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_domain|has_domain]] 
-- [[../../../../../_public/schema-org/Relation/has/has_domain.public|has_domain.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_domain.internal|has_domain.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_domain.protect|has_domain.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_domain.private|has_domain.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_domain.personal|has_domain.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_domain.secret|has_domain.secret]] 
+
+### [has_domain](/_public/schema-org/Predicate/has_domain.md) 
+
+### [has_domain.internal](/_internal/schema-org/Predicate/has_domain.internal.md) 
+
+### [has_domain.protect](/_protect/schema-org/Predicate/has_domain.protect.md) 
+
+### [has_domain.private](/_private/schema-org/Predicate/has_domain.private.md) 
+
+### [has_domain.personal](/_personal/schema-org/Predicate/has_domain.personal.md) 
+
+### [has_domain.secret](/_secret/schema-org/Predicate/has_domain.secret.md) 

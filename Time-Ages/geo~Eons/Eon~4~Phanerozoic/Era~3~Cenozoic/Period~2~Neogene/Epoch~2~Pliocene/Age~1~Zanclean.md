@@ -1,4 +1,4 @@
-# [[Age~1~Zanclean]] 
+﻿# [[Age~1~Zanclean]] 
 
 #is_a_/time_/Age 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Zanclean](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.md) 
+
+### [Age~1~Zanclean.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.internal.md) 
+
+### [Age~1~Zanclean.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.protect.md) 
+
+### [Age~1~Zanclean.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.private.md) 
+
+### [Age~1~Zanclean.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.personal.md) 
+
+### [Age~1~Zanclean.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.secret.md) 

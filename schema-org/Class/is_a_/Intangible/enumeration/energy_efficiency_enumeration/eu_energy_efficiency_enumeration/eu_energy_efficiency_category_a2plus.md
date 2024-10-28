@@ -47,10 +47,15 @@ Represents EU Energy Efficiency Class A++ as defined in EU energy labeling regul
 [ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus|eu_energy_efficiency_category_a2plus]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.public|eu_energy_efficiency_category_a2plus.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.internal|eu_energy_efficiency_category_a2plus.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.protect|eu_energy_efficiency_category_a2plus.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.private|eu_energy_efficiency_category_a2plus.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.personal|eu_energy_efficiency_category_a2plus.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.secret|eu_energy_efficiency_category_a2plus.secret]] 
+
+### [eu_energy_efficiency_category_a2plus](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.md) 
+
+### [eu_energy_efficiency_category_a2plus.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.internal.md) 
+
+### [eu_energy_efficiency_category_a2plus.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.protect.md) 
+
+### [eu_energy_efficiency_category_a2plus.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.private.md) 
+
+### [eu_energy_efficiency_category_a2plus.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.personal.md) 
+
+### [eu_energy_efficiency_category_a2plus.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a2plus.secret.md) 

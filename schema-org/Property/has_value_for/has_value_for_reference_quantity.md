@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_reference_quantity|has_value_for_reference_quantity]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_reference_quantity.public|has_value_for_reference_quantity.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_reference_quantity.internal|has_value_for_reference_quantity.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_reference_quantity.protect|has_value_for_reference_quantity.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_reference_quantity.private|has_value_for_reference_quantity.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_reference_quantity.personal|has_value_for_reference_quantity.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_reference_quantity.secret|has_value_for_reference_quantity.secret]] 
+
+### [has_value_for_reference_quantity](/_public/schema-org/Property/has_value_for/has_value_for_reference_quantity.md) 
+
+### [has_value_for_reference_quantity.internal](/_internal/schema-org/Property/has_value_for/has_value_for_reference_quantity.internal.md) 
+
+### [has_value_for_reference_quantity.protect](/_protect/schema-org/Property/has_value_for/has_value_for_reference_quantity.protect.md) 
+
+### [has_value_for_reference_quantity.private](/_private/schema-org/Property/has_value_for/has_value_for_reference_quantity.private.md) 
+
+### [has_value_for_reference_quantity.personal](/_personal/schema-org/Property/has_value_for/has_value_for_reference_quantity.personal.md) 
+
+### [has_value_for_reference_quantity.secret](/_secret/schema-org/Property/has_value_for/has_value_for_reference_quantity.secret.md) 

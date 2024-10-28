@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Nilo-Saharan|LangFamily-Nilo-Saharan]] 
-- [[../../../_public/lang/Family/LangFamily-Nilo-Saharan.public|LangFamily-Nilo-Saharan.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Nilo-Saharan.internal|LangFamily-Nilo-Saharan.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Nilo-Saharan.protect|LangFamily-Nilo-Saharan.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Nilo-Saharan.private|LangFamily-Nilo-Saharan.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Nilo-Saharan.personal|LangFamily-Nilo-Saharan.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Nilo-Saharan.secret|LangFamily-Nilo-Saharan.secret]] 
+
+### [LangFamily-Nilo-Saharan](/_public/Language/Lang~Family/LangFamily-Nilo-Saharan.md) 
+
+### [LangFamily-Nilo-Saharan.internal](/_internal/Language/Lang~Family/LangFamily-Nilo-Saharan.internal.md) 
+
+### [LangFamily-Nilo-Saharan.protect](/_protect/Language/Lang~Family/LangFamily-Nilo-Saharan.protect.md) 
+
+### [LangFamily-Nilo-Saharan.private](/_private/Language/Lang~Family/LangFamily-Nilo-Saharan.private.md) 
+
+### [LangFamily-Nilo-Saharan.personal](/_personal/Language/Lang~Family/LangFamily-Nilo-Saharan.personal.md) 
+
+### [LangFamily-Nilo-Saharan.secret](/_secret/Language/Lang~Family/LangFamily-Nilo-Saharan.secret.md) 

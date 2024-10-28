@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: has_url_for
 linkTitle: has_url_for
@@ -61,5 +62,22 @@ Predicate describes that:
 - [[../../../../_private/schema.org/Predicate/Urls/has_url_for_url.private|has_url_for_url.private]] 
 - [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_url.personal|has_url_for_url.personal]] 
 - [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_url.secret|has_url_for_url.secret]] 
+=======
+﻿# Urls
+>>>>>>> bdcd21786d99d3822f7d54cf79592cf46b4725fb
 
 
+
+## Confidential Links & Embeds: 
+
+### [has_url_for](/_public/schema-org/Property/has_url_for.md) 
+
+### [has_url_for.internal](/_internal/schema-org/Property/has_url_for.internal.md) 
+
+### [has_url_for.protect](/_protect/schema-org/Property/has_url_for.protect.md) 
+
+### [has_url_for.private](/_private/schema-org/Property/has_url_for.private.md) 
+
+### [has_url_for.personal](/_personal/schema-org/Property/has_url_for.personal.md) 
+
+### [has_url_for.secret](/_secret/schema-org/Property/has_url_for.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -38,10 +38,15 @@ SpocWebEntityId: 21943
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-09-Cobalt/Rhodium|Rhodium]] 
-- [[../../../../_public/chemic/Elements/Group-09-Cobalt/Rhodium.public|Rhodium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-09-Cobalt/Rhodium.internal|Rhodium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-09-Cobalt/Rhodium.protect|Rhodium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-09-Cobalt/Rhodium.private|Rhodium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-09-Cobalt/Rhodium.personal|Rhodium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-09-Cobalt/Rhodium.secret|Rhodium.secret]] 
+
+### [Rhodium](/_public/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.md) 
+
+### [Rhodium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.internal.md) 
+
+### [Rhodium.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.protect.md) 
+
+### [Rhodium.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.private.md) 
+
+### [Rhodium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.personal.md) 
+
+### [Rhodium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.secret.md) 

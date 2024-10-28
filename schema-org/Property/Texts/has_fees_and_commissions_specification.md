@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_fees_and_commissions_specification|has_fees_and_commissions_specification]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_fees_and_commissions_specification.public|has_fees_and_commissions_specification.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_fees_and_commissions_specification.internal|has_fees_and_commissions_specification.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_fees_and_commissions_specification.protect|has_fees_and_commissions_specification.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_fees_and_commissions_specification.private|has_fees_and_commissions_specification.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_fees_and_commissions_specification.personal|has_fees_and_commissions_specification.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_fees_and_commissions_specification.secret|has_fees_and_commissions_specification.secret]] 
+
+### [has_fees_and_commissions_specification](/_public/schema-org/Property/Texts/has_fees_and_commissions_specification.md) 
+
+### [has_fees_and_commissions_specification.internal](/_internal/schema-org/Property/Texts/has_fees_and_commissions_specification.internal.md) 
+
+### [has_fees_and_commissions_specification.protect](/_protect/schema-org/Property/Texts/has_fees_and_commissions_specification.protect.md) 
+
+### [has_fees_and_commissions_specification.private](/_private/schema-org/Property/Texts/has_fees_and_commissions_specification.private.md) 
+
+### [has_fees_and_commissions_specification.personal](/_personal/schema-org/Property/Texts/has_fees_and_commissions_specification.personal.md) 
+
+### [has_fees_and_commissions_specification.secret](/_secret/schema-org/Property/Texts/has_fees_and_commissions_specification.secret.md) 

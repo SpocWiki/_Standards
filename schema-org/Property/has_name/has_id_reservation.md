@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_reservation|has_id_reservation]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_reservation.public|has_id_reservation.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_reservation.internal|has_id_reservation.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_reservation.protect|has_id_reservation.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_reservation.private|has_id_reservation.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_reservation.personal|has_id_reservation.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_reservation.secret|has_id_reservation.secret]] 
+
+### [has_id_reservation](/_public/schema-org/Property/has_name/has_id_reservation.md) 
+
+### [has_id_reservation.internal](/_internal/schema-org/Property/has_name/has_id_reservation.internal.md) 
+
+### [has_id_reservation.protect](/_protect/schema-org/Property/has_name/has_id_reservation.protect.md) 
+
+### [has_id_reservation.private](/_private/schema-org/Property/has_name/has_id_reservation.private.md) 
+
+### [has_id_reservation.personal](/_personal/schema-org/Property/has_name/has_id_reservation.personal.md) 
+
+### [has_id_reservation.secret](/_secret/schema-org/Property/has_name/has_id_reservation.secret.md) 

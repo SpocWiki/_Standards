@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of stopping or deactivating a device or application (e.g. stopping a tim
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DeactivateAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.md) 
+
+### [FileClass~DeactivateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.internal.md) 
+
+### [FileClass~DeactivateAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.protect.md) 
+
+### [FileClass~DeactivateAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.private.md) 
+
+### [FileClass~DeactivateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.personal.md) 
+
+### [FileClass~DeactivateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~DeactivateAction.secret.md) 

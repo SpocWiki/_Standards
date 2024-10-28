@@ -1,4 +1,4 @@
-# [[Dimension]] 
+﻿# [[Dimension]] 
 
 ## Edit 
 
@@ -15,3 +15,17 @@ And in Quantum-Mechanics Phase-Space is reduced to Energy, Wavelength and ???
 type: folder_brief_live
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Dimension](/_public/Dimension.md) 
+
+### [Dimension.internal](/_internal/Dimension.internal.md) 
+
+### [Dimension.protect](/_protect/Dimension.protect.md) 
+
+### [Dimension.private](/_private/Dimension.private.md) 
+
+### [Dimension.personal](/_personal/Dimension.personal.md) 
+
+### [Dimension.secret](/_secret/Dimension.secret.md) 

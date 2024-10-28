@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -342,10 +342,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Africa/_Africa-CityDB|_Africa-CityDB]] 
-- [[../../../../_public/Earth/Continent/Africa/_Africa-CityDB.public|_Africa-CityDB.public]] 
-- [[../../../../_internal/Earth/Continent/Africa/_Africa-CityDB.internal|_Africa-CityDB.internal]] 
-- [[../../../../_protect/Earth/Continent/Africa/_Africa-CityDB.protect|_Africa-CityDB.protect]] 
-- [[../../../../_private/Earth/Continent/Africa/_Africa-CityDB.private|_Africa-CityDB.private]] 
-- [[../../../../_personal/Earth/Continent/Africa/_Africa-CityDB.personal|_Africa-CityDB.personal]] 
-- [[../../../../_secret/Earth/Continent/Africa/_Africa-CityDB.secret|_Africa-CityDB.secret]] 
+
+### [_Africa-CityDB](/_public/Earth/Continent/Africa/_Africa-CityDB.md) 
+
+### [_Africa-CityDB.internal](/_internal/Earth/Continent/Africa/_Africa-CityDB.internal.md) 
+
+### [_Africa-CityDB.protect](/_protect/Earth/Continent/Africa/_Africa-CityDB.protect.md) 
+
+### [_Africa-CityDB.private](/_private/Earth/Continent/Africa/_Africa-CityDB.private.md) 
+
+### [_Africa-CityDB.personal](/_personal/Earth/Continent/Africa/_Africa-CityDB.personal.md) 
+
+### [_Africa-CityDB.secret](/_secret/Earth/Continent/Africa/_Africa-CityDB.secret.md) 

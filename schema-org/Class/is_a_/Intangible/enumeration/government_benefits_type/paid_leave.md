@@ -47,10 +47,15 @@ PaidLeave: this is a benefit for paid leave.
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/paid_leave|paid_leave]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/paid_leave.public|paid_leave.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/paid_leave.internal|paid_leave.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/paid_leave.protect|paid_leave.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/paid_leave.private|paid_leave.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/paid_leave.personal|paid_leave.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/paid_leave.secret|paid_leave.secret]] 
+
+### [paid_leave](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.md) 
+
+### [paid_leave.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.internal.md) 
+
+### [paid_leave.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.protect.md) 
+
+### [paid_leave.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.private.md) 
+
+### [paid_leave.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.personal.md) 
+
+### [paid_leave.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.secret.md) 

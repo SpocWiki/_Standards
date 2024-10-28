@@ -51,10 +51,15 @@ Related actions:
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/check_in_action|check_in_action]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/action/interact_action/communicate_action/check_in_action.public|check_in_action.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/communicate_action/check_in_action.internal|check_in_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/communicate_action/check_in_action.protect|check_in_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/interact_action/communicate_action/check_in_action.private|check_in_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/communicate_action/check_in_action.personal|check_in_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/communicate_action/check_in_action.secret|check_in_action.secret]] 
+
+### [check_in_action](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/check_in_action.md) 
+
+### [check_in_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/check_in_action.internal.md) 
+
+### [check_in_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/check_in_action.protect.md) 
+
+### [check_in_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/check_in_action.private.md) 
+
+### [check_in_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/check_in_action.personal.md) 
+
+### [check_in_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/check_in_action.secret.md) 

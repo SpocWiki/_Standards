@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_director|has_director]] 
-- [[../../../../../_public/schema-org/Relation/has/has_director.public|has_director.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_director.internal|has_director.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_director.protect|has_director.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_director.private|has_director.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_director.personal|has_director.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_director.secret|has_director.secret]] 
+
+### [has_director](/_public/schema-org/Relation/has/has_director.md) 
+
+### [has_director.internal](/_internal/schema-org/Relation/has/has_director.internal.md) 
+
+### [has_director.protect](/_protect/schema-org/Relation/has/has_director.protect.md) 
+
+### [has_director.private](/_private/schema-org/Relation/has/has_director.private.md) 
+
+### [has_director.personal](/_personal/schema-org/Relation/has/has_director.personal.md) 
+
+### [has_director.secret](/_secret/schema-org/Relation/has/has_director.secret.md) 

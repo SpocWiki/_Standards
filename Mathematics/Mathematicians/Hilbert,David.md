@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - David Hilbert
 ---
@@ -30,3 +30,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Hilbert,David](/_public/Mathematics/Mathematicians/Hilbert,David.md) 
+
+### [Hilbert,David.internal](/_internal/Mathematics/Mathematicians/Hilbert,David.internal.md) 
+
+### [Hilbert,David.protect](/_protect/Mathematics/Mathematicians/Hilbert,David.protect.md) 
+
+### [Hilbert,David.private](/_private/Mathematics/Mathematicians/Hilbert,David.private.md) 
+
+### [Hilbert,David.personal](/_personal/Mathematics/Mathematicians/Hilbert,David.personal.md) 
+
+### [Hilbert,David.secret](/_secret/Mathematics/Mathematicians/Hilbert,David.secret.md) 

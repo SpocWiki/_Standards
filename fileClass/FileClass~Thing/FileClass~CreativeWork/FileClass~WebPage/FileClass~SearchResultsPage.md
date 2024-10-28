@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Web page type: Search results page.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SearchResultsPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.md) 
+
+### [FileClass~SearchResultsPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.internal.md) 
+
+### [FileClass~SearchResultsPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.protect.md) 
+
+### [FileClass~SearchResultsPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.private.md) 
+
+### [FileClass~SearchResultsPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.personal.md) 
+
+### [FileClass~SearchResultsPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~SearchResultsPage.secret.md) 

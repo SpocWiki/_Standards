@@ -1,4 +1,4 @@
----
+﻿---
 
 type: Country
 tags:
@@ -44,10 +44,15 @@ has_place_continent:: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Czechoslovakia|Czechoslovakia]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~Central/Czechoslovakia.public|Czechoslovakia.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.internal|Czechoslovakia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~Central/Czechoslovakia.protect|Czechoslovakia.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~Central/Czechoslovakia.private|Czechoslovakia.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.personal|Czechoslovakia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~Central/Czechoslovakia.secret|Czechoslovakia.secret]] 
+
+### [Czechoslovakia](/_public/Earth/Continent/Europe/Europe~Central/Czechoslovakia.md) 
+
+### [Czechoslovakia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.internal.md) 
+
+### [Czechoslovakia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czechoslovakia.protect.md) 
+
+### [Czechoslovakia.private](/_private/Earth/Continent/Europe/Europe~Central/Czechoslovakia.private.md) 
+
+### [Czechoslovakia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.personal.md) 
+
+### [Czechoslovakia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czechoslovakia.secret.md) 

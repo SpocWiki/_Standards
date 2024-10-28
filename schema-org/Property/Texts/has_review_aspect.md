@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_review_aspect|has_review_aspect]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_review_aspect.public|has_review_aspect.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_review_aspect.internal|has_review_aspect.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_review_aspect.protect|has_review_aspect.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_review_aspect.private|has_review_aspect.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_review_aspect.personal|has_review_aspect.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_review_aspect.secret|has_review_aspect.secret]] 
+
+### [has_review_aspect](/_public/schema-org/Property/Texts/has_review_aspect.md) 
+
+### [has_review_aspect.internal](/_internal/schema-org/Property/Texts/has_review_aspect.internal.md) 
+
+### [has_review_aspect.protect](/_protect/schema-org/Property/Texts/has_review_aspect.protect.md) 
+
+### [has_review_aspect.private](/_private/schema-org/Property/Texts/has_review_aspect.private.md) 
+
+### [has_review_aspect.personal](/_personal/schema-org/Property/Texts/has_review_aspect.personal.md) 
+
+### [has_review_aspect.secret](/_secret/schema-org/Property/Texts/has_review_aspect.secret.md) 

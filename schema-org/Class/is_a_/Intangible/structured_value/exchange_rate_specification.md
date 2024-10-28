@@ -45,10 +45,15 @@ A structured value representing exchange rate.
 [ #has_/properties :: [ additionalType, alternateName, currency, currentExchangeRate, description, disambiguatingDescription, exchangeRateSpread, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/exchange_rate_specification|exchange_rate_specification]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/exchange_rate_specification.public|exchange_rate_specification.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/exchange_rate_specification.internal|exchange_rate_specification.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/exchange_rate_specification.protect|exchange_rate_specification.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/exchange_rate_specification.private|exchange_rate_specification.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/exchange_rate_specification.personal|exchange_rate_specification.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/exchange_rate_specification.secret|exchange_rate_specification.secret]] 
+
+### [exchange_rate_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.md) 
+
+### [exchange_rate_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.internal.md) 
+
+### [exchange_rate_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.protect.md) 
+
+### [exchange_rate_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.private.md) 
+
+### [exchange_rate_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.personal.md) 
+
+### [exchange_rate_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_expected_prognosis|has_expected_prognosis]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_expected_prognosis.public|has_expected_prognosis.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_expected_prognosis.internal|has_expected_prognosis.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_expected_prognosis.protect|has_expected_prognosis.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_expected_prognosis.private|has_expected_prognosis.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_expected_prognosis.personal|has_expected_prognosis.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_expected_prognosis.secret|has_expected_prognosis.secret]] 
+
+### [has_expected_prognosis](/_public/schema-org/Property/Texts/has_expected_prognosis.md) 
+
+### [has_expected_prognosis.internal](/_internal/schema-org/Property/Texts/has_expected_prognosis.internal.md) 
+
+### [has_expected_prognosis.protect](/_protect/schema-org/Property/Texts/has_expected_prognosis.protect.md) 
+
+### [has_expected_prognosis.private](/_private/schema-org/Property/Texts/has_expected_prognosis.private.md) 
+
+### [has_expected_prognosis.personal](/_personal/schema-org/Property/Texts/has_expected_prognosis.personal.md) 
+
+### [has_expected_prognosis.secret](/_secret/schema-org/Property/Texts/has_expected_prognosis.secret.md) 

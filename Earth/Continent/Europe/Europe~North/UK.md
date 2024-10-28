@@ -1,4 +1,4 @@
----
+﻿---
 title: UK
 type: Country
 location:
@@ -169,10 +169,15 @@ Capital :: [[UK/City~London]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/UK|UK]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/UK.public|UK.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/UK.internal|UK.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/UK.protect|UK.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/UK.private|UK.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]] 
+
+### [UK](/_public/Earth/Continent/Europe/Europe~North/UK.md) 
+
+### [UK.internal](/_internal/Earth/Continent/Europe/Europe~North/UK.internal.md) 
+
+### [UK.protect](/_protect/Earth/Continent/Europe/Europe~North/UK.protect.md) 
+
+### [UK.private](/_private/Earth/Continent/Europe/Europe~North/UK.private.md) 
+
+### [UK.personal](/_personal/Earth/Continent/Europe/Europe~North/UK.personal.md) 
+
+### [UK.secret](/_secret/Earth/Continent/Europe/Europe~North/UK.secret.md) 

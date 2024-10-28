@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
   - Yue
@@ -58,11 +58,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yue%20Chinese)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-yu|Lang-yu]] 
-- [[../../_public/lang/Lang-yu.public|Lang-yu.public]] 
-- [[../../../../../_internal/lang/Lang-yu.internal|Lang-yu.internal]] 
-- [[../../_protect/lang/Lang-yu.protect|Lang-yu.protect]] 
-- [[../../_private/lang/Lang-yu.private|Lang-yu.private]] 
-- [[../../_personal/lang/Lang-yu.personal|Lang-yu.personal]] 
-- [[../../_secret/lang/Lang-yu.secret|Lang-yu.secret]]
 
+### [Lang-zh-yue](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.md) 
+
+### [Lang-zh-yue.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.internal.md) 
+
+### [Lang-zh-yue.protect](/_protect/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.protect.md) 
+
+### [Lang-zh-yue.private](/_private/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.private.md) 
+
+### [Lang-zh-yue.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.personal.md) 
+
+### [Lang-zh-yue.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.secret.md) 

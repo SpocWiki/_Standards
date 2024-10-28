@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_physiological_benefits|has_physiological_benefits]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_physiological_benefits.public|has_physiological_benefits.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_physiological_benefits.internal|has_physiological_benefits.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_physiological_benefits.protect|has_physiological_benefits.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_physiological_benefits.private|has_physiological_benefits.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_physiological_benefits.personal|has_physiological_benefits.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_physiological_benefits.secret|has_physiological_benefits.secret]] 
+
+### [has_physiological_benefits](/_public/schema-org/Property/Texts/has_physiological_benefits.md) 
+
+### [has_physiological_benefits.internal](/_internal/schema-org/Property/Texts/has_physiological_benefits.internal.md) 
+
+### [has_physiological_benefits.protect](/_protect/schema-org/Property/Texts/has_physiological_benefits.protect.md) 
+
+### [has_physiological_benefits.private](/_private/schema-org/Property/Texts/has_physiological_benefits.private.md) 
+
+### [has_physiological_benefits.personal](/_personal/schema-org/Property/Texts/has_physiological_benefits.personal.md) 
+
+### [has_physiological_benefits.secret](/_secret/schema-org/Property/Texts/has_physiological_benefits.secret.md) 

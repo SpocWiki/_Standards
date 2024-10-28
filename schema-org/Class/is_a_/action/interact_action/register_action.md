@@ -51,10 +51,15 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/register_action|register_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/interact_action/register_action.public|register_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/register_action.internal|register_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/register_action.protect|register_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/register_action.private|register_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/register_action.personal|register_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/register_action.secret|register_action.secret]] 
+
+### [register_action](/_public/schema-org/Class/is_a_/action/interact_action/register_action.md) 
+
+### [register_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/register_action.internal.md) 
+
+### [register_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/register_action.protect.md) 
+
+### [register_action.private](/_private/schema-org/Class/is_a_/action/interact_action/register_action.private.md) 
+
+### [register_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/register_action.personal.md) 
+
+### [register_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/register_action.secret.md) 

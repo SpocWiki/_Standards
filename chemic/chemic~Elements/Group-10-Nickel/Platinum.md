@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -36,10 +36,15 @@ SpocWebEntityId: 21974
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-10-Nickel/Platinum|Platinum]] 
-- [[../../../../_public/chemic/Elements/Group-10-Nickel/Platinum.public|Platinum.public]] 
-- [[../../../../_internal/chemic/Elements/Group-10-Nickel/Platinum.internal|Platinum.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-10-Nickel/Platinum.protect|Platinum.protect]] 
-- [[../../../../_private/chemic/Elements/Group-10-Nickel/Platinum.private|Platinum.private]] 
-- [[../../../../_personal/chemic/Elements/Group-10-Nickel/Platinum.personal|Platinum.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-10-Nickel/Platinum.secret|Platinum.secret]] 
+
+### [Platinum](/_public/chemic/chemic~Elements/Group-10-Nickel/Platinum.md) 
+
+### [Platinum.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Platinum.internal.md) 
+
+### [Platinum.protect](/_protect/chemic/chemic~Elements/Group-10-Nickel/Platinum.protect.md) 
+
+### [Platinum.private](/_private/chemic/chemic~Elements/Group-10-Nickel/Platinum.private.md) 
+
+### [Platinum.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Platinum.personal.md) 
+
+### [Platinum.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Platinum.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of manipulating/administering/supervising/controlling one or more object
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~OrganizeAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.md) 
+
+### [FileClass~OrganizeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.internal.md) 
+
+### [FileClass~OrganizeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.protect.md) 
+
+### [FileClass~OrganizeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.private.md) 
+
+### [FileClass~OrganizeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.personal.md) 
+
+### [FileClass~OrganizeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.secret.md) 

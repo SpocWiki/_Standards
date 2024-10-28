@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.44 , 151.88 ] 
 type: geo-Region
 title: Chuuk
@@ -40,11 +40,15 @@ markerFolder: ./Chuuk/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk|Chuuk]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.public|Chuuk.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.internal|Chuuk.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.protect|Chuuk.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.private|Chuuk.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.personal|Chuuk.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.secret|Chuuk.secret]] 
 
+### [Chuuk](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.md) 
+
+### [Chuuk.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.internal.md) 
+
+### [Chuuk.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.protect.md) 
+
+### [Chuuk.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.private.md) 
+
+### [Chuuk.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.personal.md) 
+
+### [Chuuk.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.secret.md) 

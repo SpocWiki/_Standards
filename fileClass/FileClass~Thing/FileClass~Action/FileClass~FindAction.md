@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,3 +37,17 @@ Related actions:
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~FindAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.md) 
+
+### [FileClass~FindAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.internal.md) 
+
+### [FileClass~FindAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.protect.md) 
+
+### [FileClass~FindAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.private.md) 
+
+### [FileClass~FindAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.personal.md) 
+
+### [FileClass~FindAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -85,3 +85,17 @@ A string or text indicating the unit of measurement. Useful if you can not provi
 UnitText:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TypeAndQuantityNode](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.md) 
+
+### [FileClass~TypeAndQuantityNode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.internal.md) 
+
+### [FileClass~TypeAndQuantityNode.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.protect.md) 
+
+### [FileClass~TypeAndQuantityNode.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.private.md) 
+
+### [FileClass~TypeAndQuantityNode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.personal.md) 
+
+### [FileClass~TypeAndQuantityNode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.secret.md) 

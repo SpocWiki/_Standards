@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,10 +52,15 @@ Relation describes that:
 `$=dv.current().has_sub_properties`
 `$=dv.current().has_sub_properties`
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_parts|has_parts]] 
-- [[../../../../../_public/schema-org/Relation/has/has_parts.public|has_parts.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_parts.internal|has_parts.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_parts.protect|has_parts.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_parts.private|has_parts.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_parts.personal|has_parts.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_parts.secret|has_parts.secret]] 
+
+### [has_parts](/_public/schema-org/Composite/has_parts.md) 
+
+### [has_parts.internal](/_internal/schema-org/Composite/has_parts.internal.md) 
+
+### [has_parts.protect](/_protect/schema-org/Composite/has_parts.protect.md) 
+
+### [has_parts.private](/_private/schema-org/Composite/has_parts.private.md) 
+
+### [has_parts.personal](/_personal/schema-org/Composite/has_parts.personal.md) 
+
+### [has_parts.secret](/_secret/schema-org/Composite/has_parts.secret.md) 

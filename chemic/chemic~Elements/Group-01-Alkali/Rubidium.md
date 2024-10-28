@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21935
@@ -32,10 +32,15 @@ SpocWebEntityId: 21935
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-01-Alkali/Rubidium|Rubidium]] 
-- [[../../../../_public/chemic/Elements/Group-01-Alkali/Rubidium.public|Rubidium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Rubidium.internal|Rubidium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Rubidium.protect|Rubidium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Rubidium.private|Rubidium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Rubidium.personal|Rubidium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Rubidium.secret|Rubidium.secret]] 
+
+### [Rubidium](/_public/chemic/chemic~Elements/Group-01-Alkali/Rubidium.md) 
+
+### [Rubidium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.internal.md) 
+
+### [Rubidium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Rubidium.protect.md) 
+
+### [Rubidium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Rubidium.private.md) 
+
+### [Rubidium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.personal.md) 
+
+### [Rubidium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Rubidium.secret.md) 

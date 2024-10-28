@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An aggregate rating of an Organization related to its role as an employer.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~EmployerAggregateRating](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.md) 
+
+### [FileClass~EmployerAggregateRating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.internal.md) 
+
+### [FileClass~EmployerAggregateRating.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.protect.md) 
+
+### [FileClass~EmployerAggregateRating.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.private.md) 
+
+### [FileClass~EmployerAggregateRating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.personal.md) 
+
+### [FileClass~EmployerAggregateRating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating/FileClass~EmployerAggregateRating.secret.md) 

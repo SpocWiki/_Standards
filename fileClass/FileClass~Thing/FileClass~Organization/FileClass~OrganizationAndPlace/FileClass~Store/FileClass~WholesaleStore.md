@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A wholesale store.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~WholesaleStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.md) 
+
+### [FileClass~WholesaleStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.internal.md) 
+
+### [FileClass~WholesaleStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.protect.md) 
+
+### [FileClass~WholesaleStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.private.md) 
+
+### [FileClass~WholesaleStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.personal.md) 
+
+### [FileClass~WholesaleStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.secret.md) 

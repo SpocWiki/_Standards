@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Tullio Levi-Civita
 ---
@@ -25,3 +25,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Levi-Civita,Tullio](/_public/Mathematics/Mathematicians/Levi-Civita,Tullio.md) 
+
+### [Levi-Civita,Tullio.internal](/_internal/Mathematics/Mathematicians/Levi-Civita,Tullio.internal.md) 
+
+### [Levi-Civita,Tullio.protect](/_protect/Mathematics/Mathematicians/Levi-Civita,Tullio.protect.md) 
+
+### [Levi-Civita,Tullio.private](/_private/Mathematics/Mathematicians/Levi-Civita,Tullio.private.md) 
+
+### [Levi-Civita,Tullio.personal](/_personal/Mathematics/Mathematicians/Levi-Civita,Tullio.personal.md) 
+
+### [Levi-Civita,Tullio.secret](/_secret/Mathematics/Mathematicians/Levi-Civita,Tullio.secret.md) 

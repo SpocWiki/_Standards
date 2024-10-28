@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalImagingTechnique )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_imaging_technique|has_imaging_technique]] 
-- [[../../../../../_public/schema-org/Relation/has/has_imaging_technique.public|has_imaging_technique.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_imaging_technique.internal|has_imaging_technique.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_imaging_technique.protect|has_imaging_technique.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_imaging_technique.private|has_imaging_technique.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_imaging_technique.personal|has_imaging_technique.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_imaging_technique.secret|has_imaging_technique.secret]] 
+
+### [has_imaging_technique](/_public/schema-org/Relation/has/has_imaging_technique.md) 
+
+### [has_imaging_technique.internal](/_internal/schema-org/Relation/has/has_imaging_technique.internal.md) 
+
+### [has_imaging_technique.protect](/_protect/schema-org/Relation/has/has_imaging_technique.protect.md) 
+
+### [has_imaging_technique.private](/_private/schema-org/Relation/has/has_imaging_technique.private.md) 
+
+### [has_imaging_technique.personal](/_personal/schema-org/Relation/has/has_imaging_technique.personal.md) 
+
+### [has_imaging_technique.secret](/_secret/schema-org/Relation/has/has_imaging_technique.secret.md) 

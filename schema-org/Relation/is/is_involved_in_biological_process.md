@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, PropertyValue, URL)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_involved_in_biological_process|is_involved_in_biological_process]] 
-- [[../../../../../_public/schema-org/Relation/is/is_involved_in_biological_process.public|is_involved_in_biological_process.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_involved_in_biological_process.internal|is_involved_in_biological_process.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_involved_in_biological_process.protect|is_involved_in_biological_process.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_involved_in_biological_process.private|is_involved_in_biological_process.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_involved_in_biological_process.personal|is_involved_in_biological_process.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_involved_in_biological_process.secret|is_involved_in_biological_process.secret]] 
+
+### [is_involved_in_biological_process](/_public/schema-org/Relation/is/is_involved_in_biological_process.md) 
+
+### [is_involved_in_biological_process.internal](/_internal/schema-org/Relation/is/is_involved_in_biological_process.internal.md) 
+
+### [is_involved_in_biological_process.protect](/_protect/schema-org/Relation/is/is_involved_in_biological_process.protect.md) 
+
+### [is_involved_in_biological_process.private](/_private/schema-org/Relation/is/is_involved_in_biological_process.private.md) 
+
+### [is_involved_in_biological_process.personal](/_personal/schema-org/Relation/is/is_involved_in_biological_process.personal.md) 
+
+### [is_involved_in_biological_process.secret](/_secret/schema-org/Relation/is/is_involved_in_biological_process.secret.md) 

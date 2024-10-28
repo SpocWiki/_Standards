@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
     - tags
     - adjectives
@@ -21,10 +21,15 @@ Flags implement an explicit binary Logic.
 But they can also implement a ternary logic using the empty '` `' or `null` Value or be omitted completely. 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/schema-org/Predicate/Flags|Flags]] 
-- [[../../../_public/schema-org/Predicate/Flags.public|Flags.public]] 
-- [[../../../_internal/schema.org/Predicate/Flags.internal|Flags.internal]] 
-- [[../../../_protect/schema.org/Predicate/Flags.protect|Flags.protect]] 
-- [[../../../_private/schema.org/Predicate/Flags.private|Flags.private]] 
-- [[../../../_personal/schema.org/Predicate/Flags.personal|Flags.personal]] 
-- [[../../../_secret/schema.org/Predicate/Flags.secret|Flags.secret]] 
+
+### [Flags](/_public/schema-org/Property/Flags.md) 
+
+### [Flags.internal](/_internal/schema-org/Property/Flags.internal.md) 
+
+### [Flags.protect](/_protect/schema-org/Property/Flags.protect.md) 
+
+### [Flags.private](/_private/schema-org/Property/Flags.private.md) 
+
+### [Flags.personal](/_personal/schema-org/Property/Flags.personal.md) 
+
+### [Flags.secret](/_secret/schema-org/Property/Flags.secret.md) 

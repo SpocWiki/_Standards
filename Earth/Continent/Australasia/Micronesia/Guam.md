@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 13.4792
     - 144.75
@@ -136,9 +136,15 @@ Capital :: [[Hagåtña]]
 
 
 ## Confidential Links & Embeds: 
-- [[Guam|Guam]]  
-- [[../../../../_internal/Earth/Continent/Oceania/Guam.internal|Guam.internal]]  
-- [[../../../../_protect/Earth/Continent/Oceania/Guam.protect|Guam.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Guam.private|Guam.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Guam.personal|Guam.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Guam.secret|Guam.secret]] 
+
+### [Guam](/_public/Earth/Continent/Australasia/Micronesia/Guam.md) 
+
+### [Guam.internal](/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal.md) 
+
+### [Guam.protect](/_protect/Earth/Continent/Australasia/Micronesia/Guam.protect.md) 
+
+### [Guam.private](/_private/Earth/Continent/Australasia/Micronesia/Guam.private.md) 
+
+### [Guam.personal](/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal.md) 
+
+### [Guam.secret](/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret.md) 

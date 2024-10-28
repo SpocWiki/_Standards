@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_borrower|has_borrower]] 
-- [[../../../../../_public/schema-org/Relation/has/has_borrower.public|has_borrower.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_borrower.internal|has_borrower.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_borrower.protect|has_borrower.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_borrower.private|has_borrower.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_borrower.personal|has_borrower.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_borrower.secret|has_borrower.secret]] 
+
+### [has_borrower](/_public/schema-org/Relation/has/has_borrower.md) 
+
+### [has_borrower.internal](/_internal/schema-org/Relation/has/has_borrower.internal.md) 
+
+### [has_borrower.protect](/_protect/schema-org/Relation/has/has_borrower.protect.md) 
+
+### [has_borrower.private](/_private/schema-org/Relation/has/has_borrower.private.md) 
+
+### [has_borrower.personal](/_personal/schema-org/Relation/has/has_borrower.personal.md) 
+
+### [has_borrower.secret](/_secret/schema-org/Relation/has/has_borrower.secret.md) 

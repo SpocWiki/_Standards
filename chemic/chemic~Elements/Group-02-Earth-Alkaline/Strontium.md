@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -33,10 +33,15 @@ SpocWebEntityId: 21936
 > [Wikipedia](https://en.wikipedia.org/wiki/Strontium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-02-Earth-Alkaline/Strontium|Strontium]] 
-- [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.internal|Strontium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Strontium.protect|Strontium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]] 
+
+### [Strontium](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.md) 
+
+### [Strontium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.internal.md) 
+
+### [Strontium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.protect.md) 
+
+### [Strontium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.private.md) 
+
+### [Strontium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.personal.md) 
+
+### [Strontium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: ServiceChannel )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_available_channel|has_available_channel]] 
-- [[../../../../../_public/schema-org/Relation/has/has_available_channel.public|has_available_channel.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_available_channel.internal|has_available_channel.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_available_channel.protect|has_available_channel.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_available_channel.private|has_available_channel.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_available_channel.personal|has_available_channel.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_available_channel.secret|has_available_channel.secret]] 
+
+### [has_available_channel](/_public/schema-org/Relation/has/has_available_channel.md) 
+
+### [has_available_channel.internal](/_internal/schema-org/Relation/has/has_available_channel.internal.md) 
+
+### [has_available_channel.protect](/_protect/schema-org/Relation/has/has_available_channel.protect.md) 
+
+### [has_available_channel.private](/_private/schema-org/Relation/has/has_available_channel.private.md) 
+
+### [has_available_channel.personal](/_personal/schema-org/Relation/has/has_available_channel.personal.md) 
+
+### [has_available_channel.secret](/_secret/schema-org/Relation/has/has_available_channel.secret.md) 

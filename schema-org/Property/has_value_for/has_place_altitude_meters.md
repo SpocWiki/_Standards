@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -58,6 +58,7 @@ Predicate describes that:
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
 ## Confidential Links & Embeds: 
+<<<<<<< HEAD:schema-org/Property/has_value_for/has_place_altitude_meters.md
 - [[../../../../_Standards/schema-org/Predicate/Quantities/has_place_altitude_meters|has_place_altitude_meters]] 
 - [[../../../../_public/schema-org/Predicate/Quantities/has_place_altitude_meters.public|has_place_altitude_meters.public]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_place_altitude_meters.internal|has_place_altitude_meters.internal]] 
@@ -65,3 +66,17 @@ Predicate describes that:
 - [[../../../../_private/schema.org/Predicate/Quantities/has_place_altitude_meters.private|has_place_altitude_meters.private]] 
 - [[../../../../_personal/schema.org/Predicate/Quantities/has_place_altitude_meters.personal|has_place_altitude_meters.personal]] 
 - [[../../../../_secret/schema.org/Predicate/Quantities/has_place_altitude_meters.secret|has_place_altitude_meters.secret]] 
+=======
+
+### [has_place_altitude_in_meters](/_public/schema-org/Property/has_value_for/has_place_altitude_in_meters.md) 
+
+### [has_place_altitude_in_meters.internal](/_internal/schema-org/Property/has_value_for/has_place_altitude_in_meters.internal.md) 
+
+### [has_place_altitude_in_meters.protect](/_protect/schema-org/Property/has_value_for/has_place_altitude_in_meters.protect.md) 
+
+### [has_place_altitude_in_meters.private](/_private/schema-org/Property/has_value_for/has_place_altitude_in_meters.private.md) 
+
+### [has_place_altitude_in_meters.personal](/_personal/schema-org/Property/has_value_for/has_place_altitude_in_meters.personal.md) 
+
+### [has_place_altitude_in_meters.secret](/_secret/schema-org/Property/has_value_for/has_place_altitude_in_meters.secret.md) 
+>>>>>>> bdcd21786d99d3822f7d54cf79592cf46b4725fb:schema-org/Property/has_value_for/has_place_altitude_in_meters.md

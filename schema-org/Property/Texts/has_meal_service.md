@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_meal_service|has_meal_service]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_meal_service.public|has_meal_service.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_meal_service.internal|has_meal_service.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_meal_service.protect|has_meal_service.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_meal_service.private|has_meal_service.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_meal_service.personal|has_meal_service.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_meal_service.secret|has_meal_service.secret]] 
+
+### [has_meal_service](/_public/schema-org/Property/Texts/has_meal_service.md) 
+
+### [has_meal_service.internal](/_internal/schema-org/Property/Texts/has_meal_service.internal.md) 
+
+### [has_meal_service.protect](/_protect/schema-org/Property/Texts/has_meal_service.protect.md) 
+
+### [has_meal_service.private](/_private/schema-org/Property/Texts/has_meal_service.private.md) 
+
+### [has_meal_service.personal](/_personal/schema-org/Property/Texts/has_meal_service.personal.md) 
+
+### [has_meal_service.secret](/_secret/schema-org/Property/Texts/has_meal_service.secret.md) 

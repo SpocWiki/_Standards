@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_letterer|has_letterer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_letterer.public|has_letterer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_letterer.internal|has_letterer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_letterer.protect|has_letterer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_letterer.private|has_letterer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_letterer.personal|has_letterer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_letterer.secret|has_letterer.secret]] 
+
+### [has_letterer](/_public/schema-org/Relation/has/has_letterer.md) 
+
+### [has_letterer.internal](/_internal/schema-org/Relation/has/has_letterer.internal.md) 
+
+### [has_letterer.protect](/_protect/schema-org/Relation/has/has_letterer.protect.md) 
+
+### [has_letterer.private](/_private/schema-org/Relation/has/has_letterer.private.md) 
+
+### [has_letterer.personal](/_personal/schema-org/Relation/has/has_letterer.personal.md) 
+
+### [has_letterer.secret](/_secret/schema-org/Relation/has/has_letterer.secret.md) 

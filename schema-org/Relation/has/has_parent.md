@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 #is_/inverse_of :: [[has_children]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_parent|has_parent]] 
-- [[../../../../../_public/schema-org/Relation/has/has_parent.public|has_parent.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_parent.internal|has_parent.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_parent.protect|has_parent.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_parent.private|has_parent.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_parent.personal|has_parent.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_parent.secret|has_parent.secret]] 
+
+### [has_parent](/_public/schema-org/Relation/has/has_parent.md) 
+
+### [has_parent.internal](/_internal/schema-org/Relation/has/has_parent.internal.md) 
+
+### [has_parent.protect](/_protect/schema-org/Relation/has/has_parent.protect.md) 
+
+### [has_parent.private](/_private/schema-org/Relation/has/has_parent.private.md) 
+
+### [has_parent.personal](/_personal/schema-org/Relation/has/has_parent.personal.md) 
+
+### [has_parent.secret](/_secret/schema-org/Relation/has/has_parent.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Unknown
@@ -19,11 +19,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-__|Lang-__]] 
-- [[../../_public/lang/Lang-__.public|Lang-__.public]] 
-- [[../../_internal/lang/Lang-__.internal|Lang-__.internal]] 
-- [[../../_protect/lang/Lang-__.protect|Lang-__.protect]] 
-- [[../../_private/lang/Lang-__.private|Lang-__.private]] 
-- [[../../_personal/lang/Lang-__.personal|Lang-__.personal]] 
-- [[../../_secret/lang/Lang-__.secret|Lang-__.secret]]
 
+### [Lang-__](/_public/Language/Lang-__.md) 
+
+### [Lang-__.internal](/_internal/Language/Lang-__.internal.md) 
+
+### [Lang-__.protect](/_protect/Language/Lang-__.protect.md) 
+
+### [Lang-__.private](/_private/Language/Lang-__.private.md) 
+
+### [Lang-__.personal](/_personal/Language/Lang-__.personal.md) 
+
+### [Lang-__.secret](/_secret/Language/Lang-__.secret.md) 

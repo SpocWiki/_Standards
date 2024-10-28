@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -56,3 +56,17 @@ An [EIDR](https://eidr.org/) (Entertainment Identifier Registry) [[identifier]] 
 TitleEIDR:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TVEpisode](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.md) 
+
+### [FileClass~TVEpisode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.internal.md) 
+
+### [FileClass~TVEpisode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.protect.md) 
+
+### [FileClass~TVEpisode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.private.md) 
+
+### [FileClass~TVEpisode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.personal.md) 
+
+### [FileClass~TVEpisode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.secret.md) 

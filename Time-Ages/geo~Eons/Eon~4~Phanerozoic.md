@@ -1,4 +1,4 @@
----
+﻿---
 has_/label_/ts: sdfsdf
 ---
 
@@ -58,3 +58,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Eon~4~Phanerozoic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic.md) 
+
+### [Eon~4~Phanerozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.internal.md) 
+
+### [Eon~4~Phanerozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic.protect.md) 
+
+### [Eon~4~Phanerozoic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic.private.md) 
+
+### [Eon~4~Phanerozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.personal.md) 
+
+### [Eon~4~Phanerozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic.secret.md) 

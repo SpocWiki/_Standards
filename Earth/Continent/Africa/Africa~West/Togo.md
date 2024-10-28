@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 6.11667
 - 1.21667
@@ -148,9 +148,15 @@ Capital :: [[Lomé]]
 
 
 ## Confidential Links & Embeds: 
-- [[Togo|Togo]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Togo.internal|Togo.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Togo.protect|Togo.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Togo.private|Togo.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Togo.personal|Togo.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Togo.secret|Togo.secret]] 
+
+### [Togo](/_public/Earth/Continent/Africa/Africa~West/Togo.md) 
+
+### [Togo.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo.internal.md) 
+
+### [Togo.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo.protect.md) 
+
+### [Togo.private](/_private/Earth/Continent/Africa/Africa~West/Togo.private.md) 
+
+### [Togo.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo.personal.md) 
+
+### [Togo.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo.secret.md) 

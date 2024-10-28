@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: ImageObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_thumbnail|has_thumbnail]] 
-- [[../../../../../_public/schema-org/Relation/has/has_thumbnail.public|has_thumbnail.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_thumbnail.internal|has_thumbnail.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_thumbnail.protect|has_thumbnail.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_thumbnail.private|has_thumbnail.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_thumbnail.personal|has_thumbnail.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]] 
+
+### [has_thumbnail](/_public/schema-org/Relation/has/has_thumbnail.md) 
+
+### [has_thumbnail.internal](/_internal/schema-org/Relation/has/has_thumbnail.internal.md) 
+
+### [has_thumbnail.protect](/_protect/schema-org/Relation/has/has_thumbnail.protect.md) 
+
+### [has_thumbnail.private](/_private/schema-org/Relation/has/has_thumbnail.private.md) 
+
+### [has_thumbnail.personal](/_personal/schema-org/Relation/has/has_thumbnail.personal.md) 
+
+### [has_thumbnail.secret](/_secret/schema-org/Relation/has/has_thumbnail.secret.md) 

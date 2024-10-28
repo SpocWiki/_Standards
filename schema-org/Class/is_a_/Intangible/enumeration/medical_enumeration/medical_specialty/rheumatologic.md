@@ -45,10 +45,15 @@ A specific branch of medical science that deals with the study and treatment of 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic|rheumatologic]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.public|rheumatologic.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.internal|rheumatologic.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.protect|rheumatologic.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.private|rheumatologic.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.personal|rheumatologic.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.secret|rheumatologic.secret]] 
+
+### [rheumatologic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.md) 
+
+### [rheumatologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.internal.md) 
+
+### [rheumatologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.protect.md) 
+
+### [rheumatologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.private.md) 
+
+### [rheumatologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.personal.md) 
+
+### [rheumatologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.secret.md) 

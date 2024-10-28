@@ -49,10 +49,15 @@ It is common for properties applicable to an item from the series to be usefully
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, endDate, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, issn, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, startDate, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/creative_work_series|creative_work_series]] 
-- [[../../../../../_public/schema-org/Class/is_a_/creative_work/creative_work_series.public|creative_work_series.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/creative_work_series.internal|creative_work_series.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/creative_work_series.protect|creative_work_series.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/creative_work_series.private|creative_work_series.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/creative_work_series.personal|creative_work_series.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/creative_work_series.secret|creative_work_series.secret]] 
+
+### [creative_work_series](/_public/schema-org/Class/is_a_/creative_work/creative_work_series.md) 
+
+### [creative_work_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series.internal.md) 
+
+### [creative_work_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series.protect.md) 
+
+### [creative_work_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series.private.md) 
+
+### [creative_work_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series.personal.md) 
+
+### [creative_work_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series.secret.md) 

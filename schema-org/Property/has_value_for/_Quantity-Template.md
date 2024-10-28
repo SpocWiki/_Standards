@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,10 +56,15 @@ Predicate describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/_Quantity-Template|_Quantity-Template]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/_Quantity-Template.public|_Quantity-Template.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/_Quantity-Template.internal|_Quantity-Template.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/_Quantity-Template.protect|_Quantity-Template.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/_Quantity-Template.private|_Quantity-Template.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/_Quantity-Template.personal|_Quantity-Template.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/_Quantity-Template.secret|_Quantity-Template.secret]] 
+
+### [_Quantity-Template](/_public/schema-org/Property/has_value_for/_Quantity-Template.md) 
+
+### [_Quantity-Template.internal](/_internal/schema-org/Property/has_value_for/_Quantity-Template.internal.md) 
+
+### [_Quantity-Template.protect](/_protect/schema-org/Property/has_value_for/_Quantity-Template.protect.md) 
+
+### [_Quantity-Template.private](/_private/schema-org/Property/has_value_for/_Quantity-Template.private.md) 
+
+### [_Quantity-Template.personal](/_personal/schema-org/Property/has_value_for/_Quantity-Template.personal.md) 
+
+### [_Quantity-Template.secret](/_secret/schema-org/Property/has_value_for/_Quantity-Template.secret.md) 

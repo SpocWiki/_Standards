@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Relation describes that:
 ( #has_/range :: BedDetails, BedType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_bed|has_bed]] 
-- [[../../../../../_public/schema-org/Relation/has/has_bed.public|has_bed.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_bed.internal|has_bed.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_bed.protect|has_bed.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_bed.private|has_bed.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_bed.personal|has_bed.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_bed.secret|has_bed.secret]] 
+
+### [has_bed](/_public/schema-org/Relation/has/has_bed.md) 
+
+### [has_bed.internal](/_internal/schema-org/Relation/has/has_bed.internal.md) 
+
+### [has_bed.protect](/_protect/schema-org/Relation/has/has_bed.protect.md) 
+
+### [has_bed.private](/_private/schema-org/Relation/has/has_bed.private.md) 
+
+### [has_bed.personal](/_personal/schema-org/Relation/has/has_bed.personal.md) 
+
+### [has_bed.secret](/_secret/schema-org/Relation/has/has_bed.secret.md) 

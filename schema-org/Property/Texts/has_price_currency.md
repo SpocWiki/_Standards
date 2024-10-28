@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_price_currency|has_price_currency]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_price_currency.public|has_price_currency.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_price_currency.internal|has_price_currency.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_price_currency.protect|has_price_currency.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_price_currency.private|has_price_currency.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_price_currency.personal|has_price_currency.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_price_currency.secret|has_price_currency.secret]] 
+
+### [has_price_currency](/_public/schema-org/Property/Texts/has_price_currency.md) 
+
+### [has_price_currency.internal](/_internal/schema-org/Property/Texts/has_price_currency.internal.md) 
+
+### [has_price_currency.protect](/_protect/schema-org/Property/Texts/has_price_currency.protect.md) 
+
+### [has_price_currency.private](/_private/schema-org/Property/Texts/has_price_currency.private.md) 
+
+### [has_price_currency.personal](/_personal/schema-org/Property/Texts/has_price_currency.personal.md) 
+
+### [has_price_currency.secret](/_secret/schema-org/Property/Texts/has_price_currency.secret.md) 

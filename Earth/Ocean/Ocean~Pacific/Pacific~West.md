@@ -1,4 +1,4 @@
-# [[Pacific~West]] 
+﻿# [[Pacific~West]] 
 
 ## Edit
 
@@ -31,3 +31,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Pacific~West](/_public/Earth/Ocean/Ocean~Pacific/Pacific~West.md) 
+
+### [Pacific~West.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West.internal.md) 
+
+### [Pacific~West.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West.protect.md) 
+
+### [Pacific~West.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~West.private.md) 
+
+### [Pacific~West.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West.personal.md) 
+
+### [Pacific~West.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West.secret.md) 

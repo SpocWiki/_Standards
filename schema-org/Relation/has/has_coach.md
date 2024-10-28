@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_coach|has_coach]] 
-- [[../../../../../_public/schema-org/Relation/has/has_coach.public|has_coach.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_coach.internal|has_coach.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_coach.protect|has_coach.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_coach.private|has_coach.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_coach.personal|has_coach.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_coach.secret|has_coach.secret]] 
+
+### [has_coach](/_public/schema-org/Relation/has/has_coach.md) 
+
+### [has_coach.internal](/_internal/schema-org/Relation/has/has_coach.internal.md) 
+
+### [has_coach.protect](/_protect/schema-org/Relation/has/has_coach.protect.md) 
+
+### [has_coach.private](/_private/schema-org/Relation/has/has_coach.private.md) 
+
+### [has_coach.personal](/_personal/schema-org/Relation/has/has_coach.personal.md) 
+
+### [has_coach.secret](/_secret/schema-org/Relation/has/has_coach.secret.md) 

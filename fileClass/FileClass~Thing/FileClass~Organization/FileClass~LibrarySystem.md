@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A [[LibrarySystem]] is a collaborative system amongst several libraries.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LibrarySystem](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~LibrarySystem.md) 
+
+### [FileClass~LibrarySystem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~LibrarySystem.internal.md) 
+
+### [FileClass~LibrarySystem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~LibrarySystem.protect.md) 
+
+### [FileClass~LibrarySystem.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~LibrarySystem.private.md) 
+
+### [FileClass~LibrarySystem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~LibrarySystem.personal.md) 
+
+### [FileClass~LibrarySystem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~LibrarySystem.secret.md) 

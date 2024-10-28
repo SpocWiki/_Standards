@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 tags:
 - chemic/Element
@@ -29,10 +29,15 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/chemic/Elements/_ElementTemplate|_ElementTemplate]] 
-- [[../../../_public/chemic/Elements/_ElementTemplate.public|_ElementTemplate.public]] 
-- [[../../../_internal/chemic/Elements/_ElementTemplate.internal|_ElementTemplate.internal]] 
-- [[../../../_protect/chemic/Elements/_ElementTemplate.protect|_ElementTemplate.protect]] 
-- [[../../../_private/chemic/Elements/_ElementTemplate.private|_ElementTemplate.private]] 
-- [[../../../_personal/chemic/Elements/_ElementTemplate.personal|_ElementTemplate.personal]] 
-- [[../../../_secret/chemic/Elements/_ElementTemplate.secret|_ElementTemplate.secret]] 
+
+### [_ElementTemplate](/_public/chemic/chemic~Elements/_ElementTemplate.md) 
+
+### [_ElementTemplate.internal](/_internal/chemic/chemic~Elements/_ElementTemplate.internal.md) 
+
+### [_ElementTemplate.protect](/_protect/chemic/chemic~Elements/_ElementTemplate.protect.md) 
+
+### [_ElementTemplate.private](/_private/chemic/chemic~Elements/_ElementTemplate.private.md) 
+
+### [_ElementTemplate.personal](/_personal/chemic/chemic~Elements/_ElementTemplate.personal.md) 
+
+### [_ElementTemplate.secret](/_secret/chemic/chemic~Elements/_ElementTemplate.secret.md) 

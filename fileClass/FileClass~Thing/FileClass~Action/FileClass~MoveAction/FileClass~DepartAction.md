@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of  departing from a place. An agent departs from a fromLocation for a d
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DepartAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.md) 
+
+### [FileClass~DepartAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.internal.md) 
+
+### [FileClass~DepartAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.protect.md) 
+
+### [FileClass~DepartAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.private.md) 
+
+### [FileClass~DepartAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.personal.md) 
+
+### [FileClass~DepartAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.secret.md) 

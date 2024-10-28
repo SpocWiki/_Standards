@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of editing a recipient by removing one of its objects.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DeleteAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.md) 
+
+### [FileClass~DeleteAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.internal.md) 
+
+### [FileClass~DeleteAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.protect.md) 
+
+### [FileClass~DeleteAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.private.md) 
+
+### [FileClass~DeleteAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.personal.md) 
+
+### [FileClass~DeleteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~DeleteAction.secret.md) 

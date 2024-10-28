@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 4.6 , 115.2 ] 
 type: geo-Region
 title: Temburong
@@ -40,11 +40,15 @@ markerFolder: ./Temburong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Brunei/Counties/Temburong|Temburong]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Brunei/Counties/Temburong.public|Temburong.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Brunei/Counties/Temburong.internal|Temburong.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Brunei/Counties/Temburong.protect|Temburong.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Brunei/Counties/Temburong.private|Temburong.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Brunei/Counties/Temburong.personal|Temburong.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Brunei/Counties/Temburong.secret|Temburong.secret]] 
 
+### [Temburong](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.md) 
+
+### [Temburong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.internal.md) 
+
+### [Temburong.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.protect.md) 
+
+### [Temburong.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.private.md) 
+
+### [Temburong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.personal.md) 
+
+### [Temburong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.secret.md) 

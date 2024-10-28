@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_coverage_start|has_time_of_coverage_start]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_coverage_start.public|has_time_of_coverage_start.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_coverage_start.internal|has_time_of_coverage_start.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_coverage_start.protect|has_time_of_coverage_start.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_coverage_start.private|has_time_of_coverage_start.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_coverage_start.personal|has_time_of_coverage_start.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_coverage_start.secret|has_time_of_coverage_start.secret]] 
+
+### [has_time_of_coverage_start](/_public/schema-org/Property/has_Date_Time/has_time_of_coverage_start.md) 
+
+### [has_time_of_coverage_start.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_coverage_start.internal.md) 
+
+### [has_time_of_coverage_start.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_coverage_start.protect.md) 
+
+### [has_time_of_coverage_start.private](/_private/schema-org/Property/has_Date_Time/has_time_of_coverage_start.private.md) 
+
+### [has_time_of_coverage_start.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_coverage_start.personal.md) 
+
+### [has_time_of_coverage_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_coverage_start.secret.md) 

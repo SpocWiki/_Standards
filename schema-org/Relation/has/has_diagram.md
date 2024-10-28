@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: ImageObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_diagram|has_diagram]] 
-- [[../../../../../_public/schema-org/Relation/has/has_diagram.public|has_diagram.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_diagram.internal|has_diagram.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_diagram.protect|has_diagram.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_diagram.private|has_diagram.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_diagram.personal|has_diagram.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_diagram.secret|has_diagram.secret]] 
+
+### [has_diagram](/_public/schema-org/Relation/has/has_diagram.md) 
+
+### [has_diagram.internal](/_internal/schema-org/Relation/has/has_diagram.internal.md) 
+
+### [has_diagram.protect](/_protect/schema-org/Relation/has/has_diagram.protect.md) 
+
+### [has_diagram.private](/_private/schema-org/Relation/has/has_diagram.private.md) 
+
+### [has_diagram.personal](/_personal/schema-org/Relation/has/has_diagram.personal.md) 
+
+### [has_diagram.secret](/_secret/schema-org/Relation/has/has_diagram.secret.md) 

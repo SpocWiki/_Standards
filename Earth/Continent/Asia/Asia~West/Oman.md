@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 23.48
     - 58.55
@@ -146,9 +146,15 @@ Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]
 
 
 ## Confidential Links & Embeds: 
-- [[Oman|Oman]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Oman.internal|Oman.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Oman.protect|Oman.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Oman.private|Oman.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Oman.personal|Oman.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Oman.secret|Oman.secret]] 
+
+### [Oman](/_public/Earth/Continent/Asia/Asia~West/Oman.md) 
+
+### [Oman.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman.internal.md) 
+
+### [Oman.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman.protect.md) 
+
+### [Oman.private](/_private/Earth/Continent/Asia/Asia~West/Oman.private.md) 
+
+### [Oman.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman.personal.md) 
+
+### [Oman.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman.secret.md) 

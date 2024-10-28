@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_live|is_live]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_live.public|is_live.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_live.internal|is_live.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_live.protect|is_live.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_live.private|is_live.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_live.personal|is_live.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_live.secret|is_live.secret]] 
+
+### [is_live](/_public/schema-org/Property/Flags/is_live.md) 
+
+### [is_live.internal](/_internal/schema-org/Property/Flags/is_live.internal.md) 
+
+### [is_live.protect](/_protect/schema-org/Property/Flags/is_live.protect.md) 
+
+### [is_live.private](/_private/schema-org/Property/Flags/is_live.private.md) 
+
+### [is_live.personal](/_personal/schema-org/Property/Flags/is_live.personal.md) 
+
+### [is_live.secret](/_secret/schema-org/Property/Flags/is_live.secret.md) 

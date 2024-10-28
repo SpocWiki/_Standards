@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_schedule_timezone|has_schedule_timezone]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_schedule_timezone.public|has_schedule_timezone.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_schedule_timezone.internal|has_schedule_timezone.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_schedule_timezone.protect|has_schedule_timezone.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_schedule_timezone.private|has_schedule_timezone.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_schedule_timezone.personal|has_schedule_timezone.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_schedule_timezone.secret|has_schedule_timezone.secret]] 
+
+### [has_schedule_timezone](/_public/schema-org/Property/Texts/has_schedule_timezone.md) 
+
+### [has_schedule_timezone.internal](/_internal/schema-org/Property/Texts/has_schedule_timezone.internal.md) 
+
+### [has_schedule_timezone.protect](/_protect/schema-org/Property/Texts/has_schedule_timezone.protect.md) 
+
+### [has_schedule_timezone.private](/_private/schema-org/Property/Texts/has_schedule_timezone.private.md) 
+
+### [has_schedule_timezone.personal](/_personal/schema-org/Property/Texts/has_schedule_timezone.personal.md) 
+
+### [has_schedule_timezone.secret](/_secret/schema-org/Property/Texts/has_schedule_timezone.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Printed music, as opposed to performed or recorded music.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SheetMusic](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.md) 
+
+### [FileClass~SheetMusic.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.internal.md) 
+
+### [FileClass~SheetMusic.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.protect.md) 
+
+### [FileClass~SheetMusic.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.private.md) 
+
+### [FileClass~SheetMusic.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.personal.md) 
+
+### [FileClass~SheetMusic.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.secret.md) 

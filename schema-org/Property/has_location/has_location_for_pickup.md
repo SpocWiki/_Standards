@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_for_pickup|has_location_for_pickup]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_for_pickup.public|has_location_for_pickup.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_for_pickup.internal|has_location_for_pickup.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_for_pickup.protect|has_location_for_pickup.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_for_pickup.private|has_location_for_pickup.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_for_pickup.personal|has_location_for_pickup.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_for_pickup.secret|has_location_for_pickup.secret]] 
+
+### [has_location_for_pickup](/_public/schema-org/Property/has_location/has_location_for_pickup.md) 
+
+### [has_location_for_pickup.internal](/_internal/schema-org/Property/has_location/has_location_for_pickup.internal.md) 
+
+### [has_location_for_pickup.protect](/_protect/schema-org/Property/has_location/has_location_for_pickup.protect.md) 
+
+### [has_location_for_pickup.private](/_private/schema-org/Property/has_location/has_location_for_pickup.private.md) 
+
+### [has_location_for_pickup.personal](/_personal/schema-org/Property/has_location/has_location_for_pickup.personal.md) 
+
+### [has_location_for_pickup.secret](/_secret/schema-org/Property/has_location/has_location_for_pickup.secret.md) 

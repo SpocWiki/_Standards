@@ -1,4 +1,4 @@
----
+﻿---
 icon: far_map
 ---
 # Continent 
@@ -33,11 +33,15 @@ type: folder_brief_live
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/Earth/Continent|Continent]] 
-- [[../../_public/Earth/Continent.public|Continent.public]] 
-- [[../../_internal/Earth/Continent.internal|Continent.internal]] 
-- [[../../_protect/Earth/Continent.protect|Continent.protect]] 
-- [[../../_private/Earth/Continent.private|Continent.private]] 
-- [[../../_personal/Earth/Continent.personal|Continent.personal]] 
-- [[../../_secret/Earth/Continent.secret|Continent.secret]]
 
+### [Continent](/_public/Earth/Continent.md) 
+
+### [Continent.internal](/_internal/Earth/Continent.internal.md) 
+
+### [Continent.protect](/_protect/Earth/Continent.protect.md) 
+
+### [Continent.private](/_private/Earth/Continent.private.md) 
+
+### [Continent.personal](/_personal/Earth/Continent.personal.md) 
+
+### [Continent.secret](/_secret/Earth/Continent.secret.md) 

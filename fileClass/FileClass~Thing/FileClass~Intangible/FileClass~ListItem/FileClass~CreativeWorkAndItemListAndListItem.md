@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -1255,3 +1255,17 @@ The number of items in an ItemList. Note that some descriptions might not fully 
 
 NumberOfItems:: {"type":"Number","options":{}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CreativeWorkAndItemListAndListItem](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.md) 
+
+### [FileClass~CreativeWorkAndItemListAndListItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.internal.md) 
+
+### [FileClass~CreativeWorkAndItemListAndListItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.protect.md) 
+
+### [FileClass~CreativeWorkAndItemListAndListItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.private.md) 
+
+### [FileClass~CreativeWorkAndItemListAndListItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.personal.md) 
+
+### [FileClass~CreativeWorkAndItemListAndListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.secret.md) 

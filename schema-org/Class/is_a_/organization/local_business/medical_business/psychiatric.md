@@ -45,10 +45,15 @@ A specific branch of medical science that is concerned with the study, treatment
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric|psychiatric]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.public|psychiatric.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/psychiatric.internal|psychiatric.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/psychiatric.protect|psychiatric.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/psychiatric.private|psychiatric.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/psychiatric.personal|psychiatric.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/psychiatric.secret|psychiatric.secret]] 
+
+### [psychiatric](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.md) 
+
+### [psychiatric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.internal.md) 
+
+### [psychiatric.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.protect.md) 
+
+### [psychiatric.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.private.md) 
+
+### [psychiatric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.personal.md) 
+
+### [psychiatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.secret.md) 

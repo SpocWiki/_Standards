@@ -1,4 +1,4 @@
----
+﻿---
 type: Continent
 confidential: public
 has_id_wikidata: Q18 
@@ -28,10 +28,15 @@ zoomFeatures: false
 [ #has_/code  :: SA ]
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/Earth/Continent/America~South|America~South]] 
-- [[../../../_public/Earth/Continent/America~South.public|America~South.public]] 
-- [[../../../_internal/Earth/Continent/America~South.internal|America~South.internal]] 
-- [[_protect/Earth/Continent/America~South.protect|America~South.protect]] 
-- [[_private/Earth/Continent/America~South.private|America~South.private]] 
-- [[_personal/Earth/Continent/America~South.personal|America~South.personal]] 
-- [[_secret/Earth/Continent/America~South.secret|America~South.secret]] 
+
+### [America~South](/_public/Earth/Continent/America~South.md) 
+
+### [America~South.internal](/_internal/Earth/Continent/America~South.internal.md) 
+
+### [America~South.protect](/_protect/Earth/Continent/America~South.protect.md) 
+
+### [America~South.private](/_private/Earth/Continent/America~South.private.md) 
+
+### [America~South.personal](/_personal/Earth/Continent/America~South.personal.md) 
+
+### [America~South.secret](/_secret/Earth/Continent/America~South.secret.md) 

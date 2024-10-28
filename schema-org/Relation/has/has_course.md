@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Course )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_course|has_course]] 
-- [[../../../../../_public/schema-org/Relation/has/has_course.public|has_course.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_course.internal|has_course.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_course.protect|has_course.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_course.private|has_course.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_course.personal|has_course.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_course.secret|has_course.secret]] 
+
+### [has_course](/_public/schema-org/Relation/has/has_course.md) 
+
+### [has_course.internal](/_internal/schema-org/Relation/has/has_course.internal.md) 
+
+### [has_course.protect](/_protect/schema-org/Relation/has/has_course.protect.md) 
+
+### [has_course.private](/_private/schema-org/Relation/has/has_course.private.md) 
+
+### [has_course.personal](/_personal/schema-org/Relation/has/has_course.personal.md) 
+
+### [has_course.secret](/_secret/schema-org/Relation/has/has_course.secret.md) 

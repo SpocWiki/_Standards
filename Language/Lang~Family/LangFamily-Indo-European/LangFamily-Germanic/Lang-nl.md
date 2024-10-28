@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
   - Dutch
@@ -24,10 +24,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-nl|Lang-nl]] 
-- [[../../_public/lang/Lang-nl.public|Lang-nl.public]] [[../../../../../_internal/lang/Lang-nl.internal|Lang-nl.internal]]l]] 
-- [[../../_protect/lang/Lang-nl.protect|Lang-nl.protect]] 
-- [[../../_private/lang/Lang-nl.private|Lang-nl.private]] 
-- [[../../_personal/lang/Lang-nl.personal|Lang-nl.personal]] 
-- [[../../_secret/lang/Lang-nl.secret|Lang-nl.secret]]
 
+### [Lang-nl](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.md) 
+
+### [Lang-nl.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.internal.md) 
+
+### [Lang-nl.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.protect.md) 
+
+### [Lang-nl.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.private.md) 
+
+### [Lang-nl.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.personal.md) 
+
+### [Lang-nl.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.secret.md) 

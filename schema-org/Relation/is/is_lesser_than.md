@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/inverse_of :: [[is_greater_than]]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_lesser_than|is_lesser_than]] 
-- [[../../../../../_public/schema-org/Relation/is/is_lesser_than.public|is_lesser_than.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_lesser_than.internal|is_lesser_than.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_lesser_than.protect|is_lesser_than.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_lesser_than.private|is_lesser_than.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_lesser_than.personal|is_lesser_than.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_lesser_than.secret|is_lesser_than.secret]] 
+
+### [is_lesser_than](/_public/schema-org/Relation/is/is_lesser_than.md) 
+
+### [is_lesser_than.internal](/_internal/schema-org/Relation/is/is_lesser_than.internal.md) 
+
+### [is_lesser_than.protect](/_protect/schema-org/Relation/is/is_lesser_than.protect.md) 
+
+### [is_lesser_than.private](/_private/schema-org/Relation/is/is_lesser_than.private.md) 
+
+### [is_lesser_than.personal](/_personal/schema-org/Relation/is/is_lesser_than.personal.md) 
+
+### [is_lesser_than.secret](/_secret/schema-org/Relation/is/is_lesser_than.secret.md) 

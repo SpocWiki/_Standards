@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_inker|has_inker]] 
-- [[../../../../../_public/schema-org/Relation/has/has_inker.public|has_inker.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_inker.internal|has_inker.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_inker.protect|has_inker.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_inker.private|has_inker.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_inker.personal|has_inker.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_inker.secret|has_inker.secret]] 
+
+### [has_inker](/_public/schema-org/Relation/has/has_inker.md) 
+
+### [has_inker.internal](/_internal/schema-org/Relation/has/has_inker.internal.md) 
+
+### [has_inker.protect](/_protect/schema-org/Relation/has/has_inker.protect.md) 
+
+### [has_inker.private](/_private/schema-org/Relation/has/has_inker.private.md) 
+
+### [has_inker.personal](/_personal/schema-org/Relation/has/has_inker.personal.md) 
+
+### [has_inker.secret](/_secret/schema-org/Relation/has/has_inker.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 18.265
     - 96.135
@@ -143,9 +143,15 @@ Capital :: [[Naypyidaw]]
 
 
 ## Confidential Links & Embeds: 
-- [[Myanmar|Myanmar]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal|Myanmar.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect|Myanmar.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private|Myanmar.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]] 
+
+### [Myanmar](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.md) 
+
+### [Myanmar.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal.md) 
+
+### [Myanmar.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect.md) 
+
+### [Myanmar.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private.md) 
+
+### [Myanmar.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal.md) 
+
+### [Myanmar.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret.md) 

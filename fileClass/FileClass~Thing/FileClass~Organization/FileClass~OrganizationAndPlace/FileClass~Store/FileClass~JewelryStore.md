@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A jewelry store.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~JewelryStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.md) 
+
+### [FileClass~JewelryStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.internal.md) 
+
+### [FileClass~JewelryStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.protect.md) 
+
+### [FileClass~JewelryStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.private.md) 
+
+### [FileClass~JewelryStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.personal.md) 
+
+### [FileClass~JewelryStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.secret.md) 

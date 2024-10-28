@@ -43,10 +43,15 @@ A subway station.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/subway_station|subway_station]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/subway_station.public|subway_station.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/subway_station.internal|subway_station.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/subway_station.protect|subway_station.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/subway_station.private|subway_station.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/subway_station.personal|subway_station.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/subway_station.secret|subway_station.secret]] 
+
+### [subway_station](/_public/schema-org/Class/is_a_/place/civic_structure/subway_station.md) 
+
+### [subway_station.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/subway_station.internal.md) 
+
+### [subway_station.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/subway_station.protect.md) 
+
+### [subway_station.private](/_private/schema-org/Class/is_a_/place/civic_structure/subway_station.private.md) 
+
+### [subway_station.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/subway_station.personal.md) 
+
+### [subway_station.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/subway_station.secret.md) 

@@ -1,4 +1,4 @@
-# [[Period~1~Calymmian]] 
+﻿# [[Period~1~Calymmian]] 
 
 #is_a_/time_/Period 
 
@@ -59,3 +59,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~1~Calymmian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.md) 
+
+### [Period~1~Calymmian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.internal.md) 
+
+### [Period~1~Calymmian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.protect.md) 
+
+### [Period~1~Calymmian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.private.md) 
+
+### [Period~1~Calymmian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.personal.md) 
+
+### [Period~1~Calymmian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.secret.md) 

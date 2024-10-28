@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 60.3 , 20.4 ] 
 type: geo-Region
 title: Vårdö
@@ -40,11 +40,15 @@ markerFolder: ./Vårdö/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Vårdö|Vårdö]] 
-- [[../../../../../../../_public/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Vårdö.public|Vårdö.public]] 
-- [[../../../../../../../_internal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Vårdö.internal|Vårdö.internal]] 
-- [[../../../../../../../_protect/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Vårdö.protect|Vårdö.protect]] 
-- [[../../../../../../../_private/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Vårdö.private|Vårdö.private]] 
-- [[../../../../../../../_personal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Vårdö.personal|Vårdö.personal]] 
-- [[../../../../../../../_secret/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Vårdö.secret|Vårdö.secret]] 
 
+### [Vårdö](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.md) 
+
+### [Vårdö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.internal.md) 
+
+### [Vårdö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.protect.md) 
+
+### [Vårdö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.private.md) 
+
+### [Vårdö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.personal.md) 
+
+### [Vårdö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.secret.md) 

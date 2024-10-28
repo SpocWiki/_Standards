@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -71,3 +71,17 @@ Indicates a dietary restriction or guideline for which this recipe or menu item 
 SuitableForDiet:: {"type":"Select","options":{"valuesList":{"DiabeticDiet","GlutenFreeDiet","HalalDiet","HinduDiet","KosherDiet","LowCalorieDiet","LowFatDiet","LowLactoseDiet","LowSaltDiet","VeganDiet","VegetarianDiet"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MenuItem](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.md) 
+
+### [FileClass~MenuItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.internal.md) 
+
+### [FileClass~MenuItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.protect.md) 
+
+### [FileClass~MenuItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.private.md) 
+
+### [FileClass~MenuItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.personal.md) 
+
+### [FileClass~MenuItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.secret.md) 

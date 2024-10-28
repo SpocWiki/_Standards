@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,10 +41,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_children|has_children]] 
-- [[../../../../../_public/schema-org/Relation/has/has_children.public|has_children.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_children.internal|has_children.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_children.protect|has_children.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_children.private|has_children.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_children.personal|has_children.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_children.secret|has_children.secret]] 
+
+### [has_children](/_public/schema-org/Relation/has/has_children.md) 
+
+### [has_children.internal](/_internal/schema-org/Relation/has/has_children.internal.md) 
+
+### [has_children.protect](/_protect/schema-org/Relation/has/has_children.protect.md) 
+
+### [has_children.private](/_private/schema-org/Relation/has/has_children.private.md) 
+
+### [has_children.personal](/_personal/schema-org/Relation/has/has_children.personal.md) 
+
+### [has_children.secret](/_secret/schema-org/Relation/has/has_children.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 29.2633
     - 70.1033
@@ -150,9 +150,15 @@ Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]
 
 
 ## Confidential Links & Embeds: 
-- [[Pakistan|Pakistan]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South/Pakistan.internal|Pakistan.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South/Pakistan.protect|Pakistan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South/Pakistan.private|Pakistan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South/Pakistan.personal|Pakistan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South/Pakistan.secret|Pakistan.secret]] 
+
+### [Pakistan](/_public/Earth/Continent/Asia/Asia~South/Pakistan.md) 
+
+### [Pakistan.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan.internal.md) 
+
+### [Pakistan.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan.protect.md) 
+
+### [Pakistan.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan.private.md) 
+
+### [Pakistan.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan.personal.md) 
+
+### [Pakistan.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan.secret.md) 

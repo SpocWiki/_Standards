@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21993
@@ -34,10 +34,15 @@ SpocWebEntityId: 21993
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Californium|Californium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Californium.public|Californium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Californium.internal|Californium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Californium.protect|Californium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Californium.private|Californium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Californium.personal|Californium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Californium.secret|Californium.secret]] 
+
+### [Californium](/_public/chemic/chemic~Elements/Actinide-Group/Californium.md) 
+
+### [Californium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Californium.internal.md) 
+
+### [Californium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Californium.protect.md) 
+
+### [Californium.private](/_private/chemic/chemic~Elements/Actinide-Group/Californium.private.md) 
+
+### [Californium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Californium.personal.md) 
+
+### [Californium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Californium.secret.md) 

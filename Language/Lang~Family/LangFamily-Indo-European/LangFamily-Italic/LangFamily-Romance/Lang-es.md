@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Spanish
@@ -21,10 +21,15 @@ tags:
 #has_/name_/de_ :: Spanisch  
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-es|Lang-es]] 
-- [[../../_public/lang/Lang-es.public|Lang-es.public]] [[../../../../../../_internal/lang/Lang-es.internal|Lang-es.internal]]l]] 
-- [[../../_protect/lang/Lang-es.protect|Lang-es.protect]] 
-- [[../../_private/lang/Lang-es.private|Lang-es.private]] 
-- [[../../_personal/lang/Lang-es.personal|Lang-es.personal]] 
-- [[../../_secret/lang/Lang-es.secret|Lang-es.secret]]
 
+### [Lang-es](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.md) 
+
+### [Lang-es.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.internal.md) 
+
+### [Lang-es.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.protect.md) 
+
+### [Lang-es.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.private.md) 
+
+### [Lang-es.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.personal.md) 
+
+### [Lang-es.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.secret.md) 

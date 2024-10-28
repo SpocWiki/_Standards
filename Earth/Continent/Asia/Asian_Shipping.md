@@ -1,4 +1,4 @@
----
+﻿---
 
 type: Country
 tags:
@@ -35,10 +35,15 @@ has_place_continent:: [[Asia]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Asia/Asian_Shipping|Asian_Shipping]] 
-- [[../../../../_public/Earth/Continent/Asia/Asian_Shipping.public|Asian_Shipping.public]] 
-- [[../../../../_internal/Earth/Continent/Asia/Asian_Shipping.internal|Asian_Shipping.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/Asian_Shipping.protect|Asian_Shipping.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/Asian_Shipping.private|Asian_Shipping.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/Asian_Shipping.personal|Asian_Shipping.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/Asian_Shipping.secret|Asian_Shipping.secret]] 
+
+### [Asian_Shipping](/_public/Earth/Continent/Asia/Asian_Shipping.md) 
+
+### [Asian_Shipping.internal](/_internal/Earth/Continent/Asia/Asian_Shipping.internal.md) 
+
+### [Asian_Shipping.protect](/_protect/Earth/Continent/Asia/Asian_Shipping.protect.md) 
+
+### [Asian_Shipping.private](/_private/Earth/Continent/Asia/Asian_Shipping.private.md) 
+
+### [Asian_Shipping.personal](/_personal/Earth/Continent/Asia/Asian_Shipping.personal.md) 
+
+### [Asian_Shipping.secret](/_secret/Earth/Continent/Asia/Asian_Shipping.secret.md) 

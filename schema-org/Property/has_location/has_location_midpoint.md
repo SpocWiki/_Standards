@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: GeoCoordinates )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_midpoint|has_location_midpoint]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_midpoint.public|has_location_midpoint.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_midpoint.internal|has_location_midpoint.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_midpoint.protect|has_location_midpoint.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_midpoint.private|has_location_midpoint.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_midpoint.personal|has_location_midpoint.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_midpoint.secret|has_location_midpoint.secret]] 
+
+### [has_location_midpoint](/_public/schema-org/Property/has_location/has_location_midpoint.md) 
+
+### [has_location_midpoint.internal](/_internal/schema-org/Property/has_location/has_location_midpoint.internal.md) 
+
+### [has_location_midpoint.protect](/_protect/schema-org/Property/has_location/has_location_midpoint.protect.md) 
+
+### [has_location_midpoint.private](/_private/schema-org/Property/has_location/has_location_midpoint.private.md) 
+
+### [has_location_midpoint.personal](/_personal/schema-org/Property/has_location/has_location_midpoint.personal.md) 
+
+### [has_location_midpoint.secret](/_secret/schema-org/Property/has_location/has_location_midpoint.secret.md) 

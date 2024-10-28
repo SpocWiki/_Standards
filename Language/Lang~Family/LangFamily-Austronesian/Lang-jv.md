@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Javanese
@@ -35,11 +35,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-jv|Lang-jv]] 
-- [[../../_public/lang/Lang-jv.public|Lang-jv.public]] 
-- [[../../../../_internal/lang/Lang-jv.internal|Lang-jv.internal]] 
-- [[../../_protect/lang/Lang-jv.protect|Lang-jv.protect]] 
-- [[../../_private/lang/Lang-jv.private|Lang-jv.private]] 
-- [[../../_personal/lang/Lang-jv.personal|Lang-jv.personal]] 
-- [[../../_secret/lang/Lang-jv.secret|Lang-jv.secret]]
 
+### [Lang-jv](/_public/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.md) 
+
+### [Lang-jv.internal](/_internal/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.internal.md) 
+
+### [Lang-jv.protect](/_protect/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.protect.md) 
+
+### [Lang-jv.private](/_private/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.private.md) 
+
+### [Lang-jv.personal](/_personal/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.personal.md) 
+
+### [Lang-jv.secret](/_secret/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Relation describes that:
 ( #has_/range :: Map, URL )
 
 ## Confidential Links & Embeds: 
-- [[has_place_map|has_place_map]] 
-- [[../../../../../_public/schema-org/Relation/has/has_place_map.public|has_place_map.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_place_map.internal|has_place_map.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_place_map.protect|has_place_map.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_place_map.private|has_place_map.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_place_map.personal|has_place_map.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_place_map.secret|has_place_map.secret]] 
+
+### [has_place_map](/_public/schema-org/Relation/has/has_place_map.md) 
+
+### [has_place_map.internal](/_internal/schema-org/Relation/has/has_place_map.internal.md) 
+
+### [has_place_map.protect](/_protect/schema-org/Relation/has/has_place_map.protect.md) 
+
+### [has_place_map.private](/_private/schema-org/Relation/has/has_place_map.private.md) 
+
+### [has_place_map.personal](/_personal/schema-org/Relation/has/has_place_map.personal.md) 
+
+### [has_place_map.secret](/_secret/schema-org/Relation/has/has_place_map.secret.md) 

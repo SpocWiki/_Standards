@@ -1,4 +1,4 @@
-
+﻿
 # [[Panama-Canal]] 
 
 
@@ -85,3 +85,17 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Panama%20Canal)
 
+
+## Confidential Links & Embeds: 
+
+### [Panama-Canal](/_public/Earth/Continent/America~Central/Panama-Canal.md) 
+
+### [Panama-Canal.internal](/_internal/Earth/Continent/America~Central/Panama-Canal.internal.md) 
+
+### [Panama-Canal.protect](/_protect/Earth/Continent/America~Central/Panama-Canal.protect.md) 
+
+### [Panama-Canal.private](/_private/Earth/Continent/America~Central/Panama-Canal.private.md) 
+
+### [Panama-Canal.personal](/_personal/Earth/Continent/America~Central/Panama-Canal.personal.md) 
+
+### [Panama-Canal.secret](/_secret/Earth/Continent/America~Central/Panama-Canal.secret.md) 

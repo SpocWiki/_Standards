@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedRegion )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_shipping_origin|has_shipping_origin]] 
-- [[../../../../../_public/schema-org/Relation/has/has_shipping_origin.public|has_shipping_origin.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_shipping_origin.internal|has_shipping_origin.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_shipping_origin.protect|has_shipping_origin.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_shipping_origin.private|has_shipping_origin.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_shipping_origin.personal|has_shipping_origin.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_shipping_origin.secret|has_shipping_origin.secret]] 
+
+### [has_shipping_origin](/_public/schema-org/Relation/has/has_shipping_origin.md) 
+
+### [has_shipping_origin.internal](/_internal/schema-org/Relation/has/has_shipping_origin.internal.md) 
+
+### [has_shipping_origin.protect](/_protect/schema-org/Relation/has/has_shipping_origin.protect.md) 
+
+### [has_shipping_origin.private](/_private/schema-org/Relation/has/has_shipping_origin.private.md) 
+
+### [has_shipping_origin.personal](/_personal/schema-org/Relation/has/has_shipping_origin.personal.md) 
+
+### [has_shipping_origin.secret](/_secret/schema-org/Relation/has/has_shipping_origin.secret.md) 

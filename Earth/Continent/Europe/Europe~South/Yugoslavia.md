@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.9957,17.6905]
 type: Country
 tags:
@@ -64,10 +64,15 @@ Capital :: [[Beograd]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Yugoslavia|Yugoslavia]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Yugoslavia.public|Yugoslavia.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Yugoslavia.internal|Yugoslavia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Yugoslavia.protect|Yugoslavia.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Yugoslavia.private|Yugoslavia.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Yugoslavia.personal|Yugoslavia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret|Yugoslavia.secret]] 
+
+### [Yugoslavia](/_public/Earth/Continent/Europe/Europe~South/Yugoslavia.md) 
+
+### [Yugoslavia.internal](/_internal/Earth/Continent/Europe/Europe~South/Yugoslavia.internal.md) 
+
+### [Yugoslavia.protect](/_protect/Earth/Continent/Europe/Europe~South/Yugoslavia.protect.md) 
+
+### [Yugoslavia.private](/_private/Earth/Continent/Europe/Europe~South/Yugoslavia.private.md) 
+
+### [Yugoslavia.personal](/_personal/Earth/Continent/Europe/Europe~South/Yugoslavia.personal.md) 
+
+### [Yugoslavia.secret](/_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret.md) 

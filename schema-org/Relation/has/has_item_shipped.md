@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Product )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_item_shipped|has_item_shipped]] 
-- [[../../../../../_public/schema-org/Relation/has/has_item_shipped.public|has_item_shipped.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_item_shipped.internal|has_item_shipped.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_item_shipped.protect|has_item_shipped.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_item_shipped.private|has_item_shipped.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_item_shipped.personal|has_item_shipped.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_item_shipped.secret|has_item_shipped.secret]] 
+
+### [has_item_shipped](/_public/schema-org/Relation/has/has_item_shipped.md) 
+
+### [has_item_shipped.internal](/_internal/schema-org/Relation/has/has_item_shipped.internal.md) 
+
+### [has_item_shipped.protect](/_protect/schema-org/Relation/has/has_item_shipped.protect.md) 
+
+### [has_item_shipped.private](/_private/schema-org/Relation/has/has_item_shipped.private.md) 
+
+### [has_item_shipped.personal](/_personal/schema-org/Relation/has/has_item_shipped.personal.md) 
+
+### [has_item_shipped.secret](/_secret/schema-org/Relation/has/has_item_shipped.secret.md) 

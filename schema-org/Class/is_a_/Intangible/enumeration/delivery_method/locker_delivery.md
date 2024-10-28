@@ -45,10 +45,15 @@ A DeliveryMethod in which an item is made available via locker.
 [ #is_/enum_of :: [[../DeliveryMethod]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery|locker_delivery]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.public|locker_delivery.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.internal|locker_delivery.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.protect|locker_delivery.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.private|locker_delivery.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.personal|locker_delivery.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.secret|locker_delivery.secret]] 
+
+### [locker_delivery](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.md) 
+
+### [locker_delivery.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.internal.md) 
+
+### [locker_delivery.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.protect.md) 
+
+### [locker_delivery.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.private.md) 
+
+### [locker_delivery.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.personal.md) 
+
+### [locker_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.secret.md) 

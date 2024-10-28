@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Justus Freiherr von Liebig
 ---
@@ -28,3 +28,17 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Justus%20von%20Liebig)
 
+
+## Confidential Links & Embeds: 
+
+### [Liebig,Justus_von](/_public/chemic/Chemists/Liebig,Justus_von.md) 
+
+### [Liebig,Justus_von.internal](/_internal/chemic/Chemists/Liebig,Justus_von.internal.md) 
+
+### [Liebig,Justus_von.protect](/_protect/chemic/Chemists/Liebig,Justus_von.protect.md) 
+
+### [Liebig,Justus_von.private](/_private/chemic/Chemists/Liebig,Justus_von.private.md) 
+
+### [Liebig,Justus_von.personal](/_personal/chemic/Chemists/Liebig,Justus_von.personal.md) 
+
+### [Liebig,Justus_von.secret](/_secret/chemic/Chemists/Liebig,Justus_von.secret.md) 

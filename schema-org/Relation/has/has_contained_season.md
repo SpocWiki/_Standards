@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Use it like this:
 [ #is_/sub_property_of  :: [[../../Composite/has_parts]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_contained_season|has_contained_season]] 
-- [[../../../../../_public/schema-org/Relation/has/has_contained_season.public|has_contained_season.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_contained_season.internal|has_contained_season.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_contained_season.protect|has_contained_season.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_contained_season.private|has_contained_season.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_contained_season.personal|has_contained_season.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_contained_season.secret|has_contained_season.secret]] 
+
+### [has_contained_season](/_public/schema-org/Relation/has/has_contained_season.md) 
+
+### [has_contained_season.internal](/_internal/schema-org/Relation/has/has_contained_season.internal.md) 
+
+### [has_contained_season.protect](/_protect/schema-org/Relation/has/has_contained_season.protect.md) 
+
+### [has_contained_season.private](/_private/schema-org/Relation/has/has_contained_season.private.md) 
+
+### [has_contained_season.personal](/_personal/schema-org/Relation/has/has_contained_season.personal.md) 
+
+### [has_contained_season.secret](/_secret/schema-org/Relation/has/has_contained_season.secret.md) 

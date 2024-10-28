@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Reservation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sub_reservation|has_sub_reservation]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sub_reservation.public|has_sub_reservation.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sub_reservation.internal|has_sub_reservation.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sub_reservation.protect|has_sub_reservation.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sub_reservation.private|has_sub_reservation.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sub_reservation.personal|has_sub_reservation.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sub_reservation.secret|has_sub_reservation.secret]] 
+
+### [has_sub_reservation](/_public/schema-org/Relation/has/has_sub_reservation.md) 
+
+### [has_sub_reservation.internal](/_internal/schema-org/Relation/has/has_sub_reservation.internal.md) 
+
+### [has_sub_reservation.protect](/_protect/schema-org/Relation/has/has_sub_reservation.protect.md) 
+
+### [has_sub_reservation.private](/_private/schema-org/Relation/has/has_sub_reservation.private.md) 
+
+### [has_sub_reservation.personal](/_personal/schema-org/Relation/has/has_sub_reservation.personal.md) 
+
+### [has_sub_reservation.secret](/_secret/schema-org/Relation/has/has_sub_reservation.secret.md) 

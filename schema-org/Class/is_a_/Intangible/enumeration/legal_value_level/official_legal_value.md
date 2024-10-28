@@ -47,10 +47,15 @@ All the documents published by an official publisher should have at least the le
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value|official_legal_value]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.public|official_legal_value.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.internal|official_legal_value.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.protect|official_legal_value.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.private|official_legal_value.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.personal|official_legal_value.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.secret|official_legal_value.secret]] 
+
+### [official_legal_value](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.md) 
+
+### [official_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.internal.md) 
+
+### [official_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.protect.md) 
+
+### [official_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.private.md) 
+
+### [official_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.personal.md) 
+
+### [official_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.secret.md) 

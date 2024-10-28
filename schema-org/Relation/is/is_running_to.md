@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Vessel)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_running_to|is_running_to]] 
-- [[../../../../../_public/schema-org/Relation/is/is_running_to.public|is_running_to.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_running_to.internal|is_running_to.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_running_to.protect|is_running_to.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_running_to.private|is_running_to.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_running_to.personal|is_running_to.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_running_to.secret|is_running_to.secret]] 
+
+### [is_running_to](/_public/schema-org/Relation/is/is_running_to.md) 
+
+### [is_running_to.internal](/_internal/schema-org/Relation/is/is_running_to.internal.md) 
+
+### [is_running_to.protect](/_protect/schema-org/Relation/is/is_running_to.protect.md) 
+
+### [is_running_to.private](/_private/schema-org/Relation/is/is_running_to.private.md) 
+
+### [is_running_to.personal](/_personal/schema-org/Relation/is/is_running_to.personal.md) 
+
+### [is_running_to.secret](/_secret/schema-org/Relation/is/is_running_to.secret.md) 

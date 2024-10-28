@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalTest )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_available_test|has_available_test]] 
-- [[../../../../../_public/schema-org/Relation/has/has_available_test.public|has_available_test.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_available_test.internal|has_available_test.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_available_test.protect|has_available_test.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_available_test.private|has_available_test.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_available_test.personal|has_available_test.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_available_test.secret|has_available_test.secret]] 
+
+### [has_available_test](/_public/schema-org/Relation/has/has_available_test.md) 
+
+### [has_available_test.internal](/_internal/schema-org/Relation/has/has_available_test.internal.md) 
+
+### [has_available_test.protect](/_protect/schema-org/Relation/has/has_available_test.protect.md) 
+
+### [has_available_test.private](/_private/schema-org/Relation/has/has_available_test.private.md) 
+
+### [has_available_test.personal](/_personal/schema-org/Relation/has/has_available_test.personal.md) 
+
+### [has_available_test.secret](/_secret/schema-org/Relation/has/has_available_test.secret.md) 

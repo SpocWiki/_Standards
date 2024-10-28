@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -80,3 +80,17 @@ An entity represented by an entry in a list or data feed (e.g. an 'artist' in a 
 Item:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DataFeedItem](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.md) 
+
+### [FileClass~DataFeedItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.internal.md) 
+
+### [FileClass~DataFeedItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.protect.md) 
+
+### [FileClass~DataFeedItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.private.md) 
+
+### [FileClass~DataFeedItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.personal.md) 
+
+### [FileClass~DataFeedItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.secret.md) 

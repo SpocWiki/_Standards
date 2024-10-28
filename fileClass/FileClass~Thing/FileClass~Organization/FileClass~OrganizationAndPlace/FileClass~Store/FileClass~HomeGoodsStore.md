@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A home goods store.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~HomeGoodsStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.md) 
+
+### [FileClass~HomeGoodsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.internal.md) 
+
+### [FileClass~HomeGoodsStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.protect.md) 
+
+### [FileClass~HomeGoodsStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.private.md) 
+
+### [FileClass~HomeGoodsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.personal.md) 
+
+### [FileClass~HomeGoodsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.secret.md) 

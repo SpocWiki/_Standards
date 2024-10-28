@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_educational_program_mode|has_educational_program_mode]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_educational_program_mode.public|has_educational_program_mode.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_educational_program_mode.internal|has_educational_program_mode.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_educational_program_mode.protect|has_educational_program_mode.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_educational_program_mode.private|has_educational_program_mode.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_educational_program_mode.personal|has_educational_program_mode.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_educational_program_mode.secret|has_educational_program_mode.secret]] 
+
+### [has_educational_program_mode](/_public/schema-org/Property/Texts/has_educational_program_mode.md) 
+
+### [has_educational_program_mode.internal](/_internal/schema-org/Property/Texts/has_educational_program_mode.internal.md) 
+
+### [has_educational_program_mode.protect](/_protect/schema-org/Property/Texts/has_educational_program_mode.protect.md) 
+
+### [has_educational_program_mode.private](/_private/schema-org/Property/Texts/has_educational_program_mode.private.md) 
+
+### [has_educational_program_mode.personal](/_personal/schema-org/Property/Texts/has_educational_program_mode.personal.md) 
+
+### [has_educational_program_mode.secret](/_secret/schema-org/Property/Texts/has_educational_program_mode.secret.md) 

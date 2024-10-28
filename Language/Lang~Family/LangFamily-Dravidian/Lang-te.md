@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Telugu
@@ -31,11 +31,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Telugu%20language)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-te|Lang-te]] 
-- [[../../_public/lang/Lang-te.public|Lang-te.public]] 
-- [[../../../../_internal/lang/Lang-te.internal|Lang-te.internal]] 
-- [[../../_protect/lang/Lang-te.protect|Lang-te.protect]] 
-- [[../../_private/lang/Lang-te.private|Lang-te.private]] 
-- [[../../_personal/lang/Lang-te.personal|Lang-te.personal]] 
-- [[../../_secret/lang/Lang-te.secret|Lang-te.secret]]
 
+### [Lang-te](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-te.md) 
+
+### [Lang-te.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.internal.md) 
+
+### [Lang-te.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian/Lang-te.protect.md) 
+
+### [Lang-te.private](/_private/Language/Lang~Family/LangFamily-Dravidian/Lang-te.private.md) 
+
+### [Lang-te.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.personal.md) 
+
+### [Lang-te.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-te.secret.md) 

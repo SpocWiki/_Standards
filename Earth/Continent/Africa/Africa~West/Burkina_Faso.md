@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 12.3333
 - -1.66667
@@ -136,9 +136,15 @@ Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/Ci
 
 
 ## Confidential Links & Embeds: 
-- [[Burkina_Faso|Burkina_Faso]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal|Burkina_Faso.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect|Burkina_Faso.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private|Burkina_Faso.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal|Burkina_Faso.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret|Burkina_Faso.secret]] 
+
+### [Burkina_Faso](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.md) 
+
+### [Burkina_Faso.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal.md) 
+
+### [Burkina_Faso.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect.md) 
+
+### [Burkina_Faso.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private.md) 
+
+### [Burkina_Faso.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal.md) 
+
+### [Burkina_Faso.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret.md) 

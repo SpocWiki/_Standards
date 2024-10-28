@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 18.15
 - -15.9667
@@ -146,9 +146,15 @@ Capital :: [[Nouakchott]]
 
 
 ## Confidential Links & Embeds: 
-- [[Mauritania|Mauritania]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Mauritania.internal|Mauritania.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Mauritania.protect|Mauritania.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Mauritania.private|Mauritania.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal|Mauritania.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret|Mauritania.secret]] 
+
+### [Mauritania](/_public/Earth/Continent/Africa/Africa~West/Mauritania.md) 
+
+### [Mauritania.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania.internal.md) 
+
+### [Mauritania.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania.protect.md) 
+
+### [Mauritania.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania.private.md) 
+
+### [Mauritania.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal.md) 
+
+### [Mauritania.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret.md) 

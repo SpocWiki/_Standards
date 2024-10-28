@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_expire|has_time_to_expire]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_to_expire.public|has_time_to_expire.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_expire.internal|has_time_to_expire.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_expire.protect|has_time_to_expire.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_expire.private|has_time_to_expire.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_expire.personal|has_time_to_expire.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_expire.secret|has_time_to_expire.secret]] 
+
+### [has_time_to_expire](/_public/schema-org/Property/has_Date_Time/has_time_to_expire.md) 
+
+### [has_time_to_expire.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_expire.internal.md) 
+
+### [has_time_to_expire.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_expire.protect.md) 
+
+### [has_time_to_expire.private](/_private/schema-org/Property/has_Date_Time/has_time_to_expire.private.md) 
+
+### [has_time_to_expire.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_expire.personal.md) 
+
+### [has_time_to_expire.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_expire.secret.md) 

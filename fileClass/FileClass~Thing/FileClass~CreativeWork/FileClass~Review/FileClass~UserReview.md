@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in co
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~UserReview](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.md) 
+
+### [FileClass~UserReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.internal.md) 
+
+### [FileClass~UserReview.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.protect.md) 
+
+### [FileClass~UserReview.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.private.md) 
+
+### [FileClass~UserReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.personal.md) 
+
+### [FileClass~UserReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.secret.md) 

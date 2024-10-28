@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Energy, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_workload|has_workload]] 
-- [[../../../../../_public/schema-org/Relation/has/has_workload.public|has_workload.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_workload.internal|has_workload.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_workload.protect|has_workload.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_workload.private|has_workload.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_workload.personal|has_workload.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_workload.secret|has_workload.secret]] 
+
+### [has_workload](/_public/schema-org/Relation/has/has_workload.md) 
+
+### [has_workload.internal](/_internal/schema-org/Relation/has/has_workload.internal.md) 
+
+### [has_workload.protect](/_protect/schema-org/Relation/has/has_workload.protect.md) 
+
+### [has_workload.private](/_private/schema-org/Relation/has/has_workload.private.md) 
+
+### [has_workload.personal](/_personal/schema-org/Relation/has/has_workload.personal.md) 
+
+### [has_workload.secret](/_secret/schema-org/Relation/has/has_workload.secret.md) 

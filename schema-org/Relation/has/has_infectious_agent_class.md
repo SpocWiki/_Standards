@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: InfectiousAgentClass )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_infectious_agent_class|has_infectious_agent_class]] 
-- [[../../../../../_public/schema-org/Relation/has/has_infectious_agent_class.public|has_infectious_agent_class.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_infectious_agent_class.internal|has_infectious_agent_class.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_infectious_agent_class.protect|has_infectious_agent_class.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_infectious_agent_class.private|has_infectious_agent_class.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_infectious_agent_class.personal|has_infectious_agent_class.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_infectious_agent_class.secret|has_infectious_agent_class.secret]] 
+
+### [has_infectious_agent_class](/_public/schema-org/Relation/has/has_infectious_agent_class.md) 
+
+### [has_infectious_agent_class.internal](/_internal/schema-org/Relation/has/has_infectious_agent_class.internal.md) 
+
+### [has_infectious_agent_class.protect](/_protect/schema-org/Relation/has/has_infectious_agent_class.protect.md) 
+
+### [has_infectious_agent_class.private](/_private/schema-org/Relation/has/has_infectious_agent_class.private.md) 
+
+### [has_infectious_agent_class.personal](/_personal/schema-org/Relation/has/has_infectious_agent_class.personal.md) 
+
+### [has_infectious_agent_class.secret](/_secret/schema-org/Relation/has/has_infectious_agent_class.secret.md) 

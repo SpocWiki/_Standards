@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A pharmacy or drugstore.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Pharmacy](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.md) 
+
+### [FileClass~Pharmacy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.internal.md) 
+
+### [FileClass~Pharmacy.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.protect.md) 
+
+### [FileClass~Pharmacy.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.private.md) 
+
+### [FileClass~Pharmacy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.personal.md) 
+
+### [FileClass~Pharmacy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.secret.md) 

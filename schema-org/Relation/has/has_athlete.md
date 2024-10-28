@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_athlete|has_athlete]] 
-- [[../../../../../_public/schema-org/Relation/has/has_athlete.public|has_athlete.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_athlete.internal|has_athlete.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_athlete.protect|has_athlete.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_athlete.private|has_athlete.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_athlete.personal|has_athlete.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_athlete.secret|has_athlete.secret]] 
+
+### [has_athlete](/_public/schema-org/Relation/has/has_athlete.md) 
+
+### [has_athlete.internal](/_internal/schema-org/Relation/has/has_athlete.internal.md) 
+
+### [has_athlete.protect](/_protect/schema-org/Relation/has/has_athlete.protect.md) 
+
+### [has_athlete.private](/_private/schema-org/Relation/has/has_athlete.private.md) 
+
+### [has_athlete.personal](/_personal/schema-org/Relation/has/has_athlete.personal.md) 
+
+### [has_athlete.secret](/_secret/schema-org/Relation/has/has_athlete.secret.md) 

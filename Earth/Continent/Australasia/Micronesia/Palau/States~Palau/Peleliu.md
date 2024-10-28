@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.03 , 134.26 ] 
 type: geo-Region
 title: Peleliu
@@ -40,11 +40,15 @@ markerFolder: ./Peleliu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Peleliu|Peleliu]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Peleliu.public|Peleliu.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Peleliu.internal|Peleliu.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Peleliu.protect|Peleliu.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Peleliu.private|Peleliu.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Peleliu.personal|Peleliu.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Peleliu.secret|Peleliu.secret]] 
 
+### [Peleliu](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.md) 
+
+### [Peleliu.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.internal.md) 
+
+### [Peleliu.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.protect.md) 
+
+### [Peleliu.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.private.md) 
+
+### [Peleliu.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.personal.md) 
+
+### [Peleliu.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.secret.md) 

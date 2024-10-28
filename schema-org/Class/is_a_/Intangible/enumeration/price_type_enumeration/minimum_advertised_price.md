@@ -47,10 +47,15 @@ Represents the minimum advertised price ("MAP") (as dictated by the manufacturer
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_type_enumeration/minimum_advertised_price|minimum_advertised_price]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/price_type_enumeration/minimum_advertised_price.public|minimum_advertised_price.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/minimum_advertised_price.internal|minimum_advertised_price.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/minimum_advertised_price.protect|minimum_advertised_price.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/minimum_advertised_price.private|minimum_advertised_price.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/minimum_advertised_price.personal|minimum_advertised_price.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/minimum_advertised_price.secret|minimum_advertised_price.secret]] 
+
+### [minimum_advertised_price](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/minimum_advertised_price.md) 
+
+### [minimum_advertised_price.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/minimum_advertised_price.internal.md) 
+
+### [minimum_advertised_price.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/minimum_advertised_price.protect.md) 
+
+### [minimum_advertised_price.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/minimum_advertised_price.private.md) 
+
+### [minimum_advertised_price.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/minimum_advertised_price.personal.md) 
+
+### [minimum_advertised_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/minimum_advertised_price.secret.md) 

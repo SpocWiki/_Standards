@@ -43,10 +43,15 @@ Used to describe a ticket to an event, a flight, a bus ride, etc.
 [ #has_/properties :: [ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/ticket|ticket]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/ticket.public|ticket.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/ticket.internal|ticket.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/ticket.protect|ticket.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/ticket.private|ticket.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/ticket.personal|ticket.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/ticket.secret|ticket.secret]] 
+
+### [ticket](/_public/schema-org/Class/is_a_/Intangible/ticket.md) 
+
+### [ticket.internal](/_internal/schema-org/Class/is_a_/Intangible/ticket.internal.md) 
+
+### [ticket.protect](/_protect/schema-org/Class/is_a_/Intangible/ticket.protect.md) 
+
+### [ticket.private](/_private/schema-org/Class/is_a_/Intangible/ticket.private.md) 
+
+### [ticket.personal](/_personal/schema-org/Class/is_a_/Intangible/ticket.personal.md) 
+
+### [ticket.secret](/_secret/schema-org/Class/is_a_/Intangible/ticket.secret.md) 

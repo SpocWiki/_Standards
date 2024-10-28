@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: hasVariant]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_variant_of|is_variant_of]] 
-- [[../../../../../_public/schema-org/Relation/is/is_variant_of.public|is_variant_of.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_variant_of.internal|is_variant_of.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_variant_of.protect|is_variant_of.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_variant_of.private|is_variant_of.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_variant_of.personal|is_variant_of.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_variant_of.secret|is_variant_of.secret]] 
+
+### [is_variant_of](/_public/schema-org/Relation/is/is_variant_of.md) 
+
+### [is_variant_of.internal](/_internal/schema-org/Relation/is/is_variant_of.internal.md) 
+
+### [is_variant_of.protect](/_protect/schema-org/Relation/is/is_variant_of.protect.md) 
+
+### [is_variant_of.private](/_private/schema-org/Relation/is/is_variant_of.private.md) 
+
+### [is_variant_of.personal](/_personal/schema-org/Relation/is/is_variant_of.personal.md) 
+
+### [is_variant_of.secret](/_secret/schema-org/Relation/is/is_variant_of.secret.md) 

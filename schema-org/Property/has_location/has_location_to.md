@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_to|has_location_to]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_to.public|has_location_to.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_to.internal|has_location_to.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_to.protect|has_location_to.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_to.private|has_location_to.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_to.personal|has_location_to.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_to.secret|has_location_to.secret]] 
+
+### [has_location_to](/_public/schema-org/Property/has_location/has_location_to.md) 
+
+### [has_location_to.internal](/_internal/schema-org/Property/has_location/has_location_to.internal.md) 
+
+### [has_location_to.protect](/_protect/schema-org/Property/has_location/has_location_to.protect.md) 
+
+### [has_location_to.private](/_private/schema-org/Property/has_location/has_location_to.private.md) 
+
+### [has_location_to.personal](/_personal/schema-org/Property/has_location/has_location_to.personal.md) 
+
+### [has_location_to.secret](/_secret/schema-org/Property/has_location/has_location_to.secret.md) 

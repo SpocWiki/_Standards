@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -17.7 , 168.4 ] 
 type: geo-Region
 title: Shefa
@@ -40,11 +40,15 @@ markerFolder: ./Shefa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Vanuatu/Counties/Shefa|Shefa]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Vanuatu/Counties/Shefa.public|Shefa.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Vanuatu/Counties/Shefa.internal|Shefa.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Vanuatu/Counties/Shefa.protect|Shefa.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Vanuatu/Counties/Shefa.private|Shefa.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Vanuatu/Counties/Shefa.personal|Shefa.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Vanuatu/Counties/Shefa.secret|Shefa.secret]] 
 
+### [Shefa](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.md) 
+
+### [Shefa.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.internal.md) 
+
+### [Shefa.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.protect.md) 
+
+### [Shefa.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.private.md) 
+
+### [Shefa.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.personal.md) 
+
+### [Shefa.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.secret.md) 

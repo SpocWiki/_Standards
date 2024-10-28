@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Text, Vehicle )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_aircraft|has_aircraft]] 
-- [[../../../../../_public/schema-org/Relation/has/has_aircraft.public|has_aircraft.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_aircraft.internal|has_aircraft.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_aircraft.protect|has_aircraft.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_aircraft.private|has_aircraft.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_aircraft.personal|has_aircraft.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_aircraft.secret|has_aircraft.secret]] 
+
+### [has_aircraft](/_public/schema-org/Relation/has/has_aircraft.md) 
+
+### [has_aircraft.internal](/_internal/schema-org/Relation/has/has_aircraft.internal.md) 
+
+### [has_aircraft.protect](/_protect/schema-org/Relation/has/has_aircraft.protect.md) 
+
+### [has_aircraft.private](/_private/schema-org/Relation/has/has_aircraft.private.md) 
+
+### [has_aircraft.personal](/_personal/schema-org/Relation/has/has_aircraft.personal.md) 
+
+### [has_aircraft.secret](/_secret/schema-org/Relation/has/has_aircraft.secret.md) 

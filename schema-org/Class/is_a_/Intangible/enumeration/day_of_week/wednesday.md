@@ -45,10 +45,15 @@ The day of the week between Tuesday and Thursday.
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/wednesday|wednesday]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/day_of_week/wednesday.public|wednesday.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/wednesday.internal|wednesday.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/wednesday.protect|wednesday.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/wednesday.private|wednesday.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/wednesday.personal|wednesday.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/wednesday.secret|wednesday.secret]] 
+
+### [wednesday](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.md) 
+
+### [wednesday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.internal.md) 
+
+### [wednesday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.protect.md) 
+
+### [wednesday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.private.md) 
+
+### [wednesday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.personal.md) 
+
+### [wednesday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.secret.md) 

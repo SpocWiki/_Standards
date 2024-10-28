@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_dose_unit|has_dose_unit]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_dose_unit.public|has_dose_unit.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_dose_unit.internal|has_dose_unit.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_dose_unit.protect|has_dose_unit.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_dose_unit.private|has_dose_unit.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_dose_unit.personal|has_dose_unit.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_dose_unit.secret|has_dose_unit.secret]] 
+
+### [has_dose_unit](/_public/schema-org/Property/Texts/has_dose_unit.md) 
+
+### [has_dose_unit.internal](/_internal/schema-org/Property/Texts/has_dose_unit.internal.md) 
+
+### [has_dose_unit.protect](/_protect/schema-org/Property/Texts/has_dose_unit.protect.md) 
+
+### [has_dose_unit.private](/_private/schema-org/Property/Texts/has_dose_unit.private.md) 
+
+### [has_dose_unit.personal](/_personal/schema-org/Property/Texts/has_dose_unit.personal.md) 
+
+### [has_dose_unit.secret](/_secret/schema-org/Property/Texts/has_dose_unit.secret.md) 

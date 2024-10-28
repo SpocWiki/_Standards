@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A lake (for example, Lake Pontrachain).
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LakeBodyOfWater](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.md) 
+
+### [FileClass~LakeBodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.internal.md) 
+
+### [FileClass~LakeBodyOfWater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.protect.md) 
+
+### [FileClass~LakeBodyOfWater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.private.md) 
+
+### [FileClass~LakeBodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.personal.md) 
+
+### [FileClass~LakeBodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.secret.md) 

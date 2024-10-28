@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21989
@@ -34,10 +34,15 @@ SpocWebEntityId: 21989
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Plutonium|Plutonium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Plutonium.public|Plutonium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Plutonium.internal|Plutonium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Plutonium.protect|Plutonium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Plutonium.private|Plutonium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Plutonium.personal|Plutonium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Plutonium.secret|Plutonium.secret]] 
+
+### [Plutonium](/_public/chemic/chemic~Elements/Actinide-Group/Plutonium.md) 
+
+### [Plutonium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Plutonium.internal.md) 
+
+### [Plutonium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Plutonium.protect.md) 
+
+### [Plutonium.private](/_private/chemic/chemic~Elements/Actinide-Group/Plutonium.private.md) 
+
+### [Plutonium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Plutonium.personal.md) 
+
+### [Plutonium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Plutonium.secret.md) 

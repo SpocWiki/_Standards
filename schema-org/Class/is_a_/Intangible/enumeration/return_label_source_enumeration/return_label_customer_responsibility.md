@@ -47,10 +47,15 @@ Indicated that creating a return label is the responsibility of the customer.
 [ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility|return_label_customer_responsibility]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.public|return_label_customer_responsibility.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.internal|return_label_customer_responsibility.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.protect|return_label_customer_responsibility.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.private|return_label_customer_responsibility.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.personal|return_label_customer_responsibility.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.secret|return_label_customer_responsibility.secret]] 
+
+### [return_label_customer_responsibility](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.md) 
+
+### [return_label_customer_responsibility.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.internal.md) 
+
+### [return_label_customer_responsibility.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.protect.md) 
+
+### [return_label_customer_responsibility.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.private.md) 
+
+### [return_label_customer_responsibility.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.personal.md) 
+
+### [return_label_customer_responsibility.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.secret.md) 

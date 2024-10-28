@@ -1,4 +1,4 @@
-
+﻿
 #has_/time_/destroyed/Ma :: -5.9
 #has_/time_/created/Ma :: -5.3 
 
@@ -63,3 +63,17 @@
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Mediterranean Sea](/_public/Earth/Continent/Europe/Europe~South/Mediterranean Sea.md) 
+
+### [Mediterranean Sea.internal](/_internal/Earth/Continent/Europe/Europe~South/Mediterranean Sea.internal.md) 
+
+### [Mediterranean Sea.protect](/_protect/Earth/Continent/Europe/Europe~South/Mediterranean Sea.protect.md) 
+
+### [Mediterranean Sea.private](/_private/Earth/Continent/Europe/Europe~South/Mediterranean Sea.private.md) 
+
+### [Mediterranean Sea.personal](/_personal/Earth/Continent/Europe/Europe~South/Mediterranean Sea.personal.md) 
+
+### [Mediterranean Sea.secret](/_secret/Earth/Continent/Europe/Europe~South/Mediterranean Sea.secret.md) 

@@ -45,10 +45,15 @@ Physical activity that is of high-intensity which utilizes the anaerobic metabol
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity|anaerobic_activity]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.public|anaerobic_activity.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.internal|anaerobic_activity.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.protect|anaerobic_activity.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.private|anaerobic_activity.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.personal|anaerobic_activity.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.secret|anaerobic_activity.secret]] 
+
+### [anaerobic_activity](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.md) 
+
+### [anaerobic_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.internal.md) 
+
+### [anaerobic_activity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.protect.md) 
+
+### [anaerobic_activity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.private.md) 
+
+### [anaerobic_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.personal.md) 
+
+### [anaerobic_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.secret.md) 

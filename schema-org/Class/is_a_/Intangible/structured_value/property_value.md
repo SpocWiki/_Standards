@@ -47,10 +47,15 @@ Always use specific schema.org properties when a) they exist and b) you can popu
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/property_value|property_value]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/property_value.public|property_value.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/property_value.internal|property_value.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/property_value.protect|property_value.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/property_value.private|property_value.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/property_value.personal|property_value.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/property_value.secret|property_value.secret]] 
+
+### [property_value](/_public/schema-org/Class/is_a_/Intangible/structured_value/property_value.md) 
+
+### [property_value.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/property_value.internal.md) 
+
+### [property_value.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/property_value.protect.md) 
+
+### [property_value.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/property_value.private.md) 
+
+### [property_value.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/property_value.personal.md) 
+
+### [property_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/property_value.secret.md) 

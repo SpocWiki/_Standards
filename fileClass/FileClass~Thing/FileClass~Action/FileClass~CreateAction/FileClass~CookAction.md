@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -66,3 +66,17 @@ A sub property of instrument. The recipe/instructions used to perform the action
 Recipe:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/HowTo/Recipe')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CookAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~CookAction.md) 
+
+### [FileClass~CookAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~CookAction.internal.md) 
+
+### [FileClass~CookAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~CookAction.protect.md) 
+
+### [FileClass~CookAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~CookAction.private.md) 
+
+### [FileClass~CookAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~CookAction.personal.md) 
+
+### [FileClass~CookAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~CookAction.secret.md) 

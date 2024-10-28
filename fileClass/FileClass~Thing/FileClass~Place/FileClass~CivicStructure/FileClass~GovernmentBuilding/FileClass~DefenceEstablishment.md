@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A defence establishment, such as an army or navy base.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DefenceEstablishment](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.md) 
+
+### [FileClass~DefenceEstablishment.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.internal.md) 
+
+### [FileClass~DefenceEstablishment.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.protect.md) 
+
+### [FileClass~DefenceEstablishment.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.private.md) 
+
+### [FileClass~DefenceEstablishment.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.personal.md) 
+
+### [FileClass~DefenceEstablishment.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~DefenceEstablishment.secret.md) 

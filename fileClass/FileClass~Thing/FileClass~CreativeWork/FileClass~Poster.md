@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A large, usually printed placard, bill, or announcement, often illustrated, that
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Poster](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Poster.md) 
+
+### [FileClass~Poster.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Poster.internal.md) 
+
+### [FileClass~Poster.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Poster.protect.md) 
+
+### [FileClass~Poster.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Poster.private.md) 
+
+### [FileClass~Poster.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Poster.personal.md) 
+
+### [FileClass~Poster.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Poster.secret.md) 

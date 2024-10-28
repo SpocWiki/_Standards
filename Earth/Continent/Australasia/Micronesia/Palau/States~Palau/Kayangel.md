@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 8.07 , 134.71 ] 
 type: geo-Region
 title: Kayangel
@@ -40,11 +40,15 @@ markerFolder: ./Kayangel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Kayangel|Kayangel]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Kayangel.public|Kayangel.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Kayangel.internal|Kayangel.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Kayangel.protect|Kayangel.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Kayangel.private|Kayangel.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Kayangel.personal|Kayangel.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Kayangel.secret|Kayangel.secret]] 
 
+### [Kayangel](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.md) 
+
+### [Kayangel.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.internal.md) 
+
+### [Kayangel.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.protect.md) 
+
+### [Kayangel.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.private.md) 
+
+### [Kayangel.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.personal.md) 
+
+### [Kayangel.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.secret.md) 

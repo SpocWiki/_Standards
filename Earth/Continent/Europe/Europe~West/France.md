@@ -1,4 +1,4 @@
----
+﻿---
 title: France
 linkTitle: 
 type: Country
@@ -260,10 +260,15 @@ Capital :: [[Paris]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~West/France|France]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~West/France.public|France.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~West/France.internal|France.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~West/France.protect|France.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~West/France.private|France.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~West/France.personal|France.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~West/France.secret|France.secret]] 
+
+### [France](/_public/Earth/Continent/Europe/Europe~West/France.md) 
+
+### [France.internal](/_internal/Earth/Continent/Europe/Europe~West/France.internal.md) 
+
+### [France.protect](/_protect/Earth/Continent/Europe/Europe~West/France.protect.md) 
+
+### [France.private](/_private/Earth/Continent/Europe/Europe~West/France.private.md) 
+
+### [France.personal](/_personal/Earth/Continent/Europe/Europe~West/France.personal.md) 
+
+### [France.secret](/_secret/Earth/Continent/Europe/Europe~West/France.secret.md) 

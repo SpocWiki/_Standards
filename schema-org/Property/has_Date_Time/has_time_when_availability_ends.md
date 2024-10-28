@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date, DateTime, Time)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_when_availability_ends|has_time_when_availability_ends]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_when_availability_ends.public|has_time_when_availability_ends.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_when_availability_ends.internal|has_time_when_availability_ends.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_when_availability_ends.protect|has_time_when_availability_ends.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_when_availability_ends.private|has_time_when_availability_ends.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_when_availability_ends.personal|has_time_when_availability_ends.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_when_availability_ends.secret|has_time_when_availability_ends.secret]] 
+
+### [has_time_when_availability_ends](/_public/schema-org/Property/has_Date_Time/has_time_when_availability_ends.md) 
+
+### [has_time_when_availability_ends.internal](/_internal/schema-org/Property/has_Date_Time/has_time_when_availability_ends.internal.md) 
+
+### [has_time_when_availability_ends.protect](/_protect/schema-org/Property/has_Date_Time/has_time_when_availability_ends.protect.md) 
+
+### [has_time_when_availability_ends.private](/_private/schema-org/Property/has_Date_Time/has_time_when_availability_ends.private.md) 
+
+### [has_time_when_availability_ends.personal](/_personal/schema-org/Property/has_Date_Time/has_time_when_availability_ends.personal.md) 
+
+### [has_time_when_availability_ends.secret](/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_ends.secret.md) 

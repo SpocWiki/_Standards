@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -41,10 +41,15 @@ SpocWebEntityId: 17995
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-11-Copper/Gold|Gold]] 
-- [[../../../../_public/chemic/Elements/Group-11-Copper/Gold.public|Gold.public]] 
-- [[../../../../_internal/chemic/Elements/Group-11-Copper/Gold.internal|Gold.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-11-Copper/Gold.protect|Gold.protect]] 
-- [[../../../../_private/chemic/Elements/Group-11-Copper/Gold.private|Gold.private]] 
-- [[../../../../_personal/chemic/Elements/Group-11-Copper/Gold.personal|Gold.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-11-Copper/Gold.secret|Gold.secret]] 
+
+### [Gold](/_public/chemic/chemic~Elements/Group-11-Copper/Gold.md) 
+
+### [Gold.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Gold.internal.md) 
+
+### [Gold.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Gold.protect.md) 
+
+### [Gold.private](/_private/chemic/chemic~Elements/Group-11-Copper/Gold.private.md) 
+
+### [Gold.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Gold.personal.md) 
+
+### [Gold.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Gold.secret.md) 

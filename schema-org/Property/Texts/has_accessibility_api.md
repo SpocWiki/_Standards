@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_accessibility_api|has_accessibility_api]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_accessibility_api.public|has_accessibility_api.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_accessibility_api.internal|has_accessibility_api.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_accessibility_api.protect|has_accessibility_api.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_accessibility_api.private|has_accessibility_api.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_accessibility_api.personal|has_accessibility_api.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_accessibility_api.secret|has_accessibility_api.secret]] 
+
+### [has_accessibility_api](/_public/schema-org/Property/Texts/has_accessibility_api.md) 
+
+### [has_accessibility_api.internal](/_internal/schema-org/Property/Texts/has_accessibility_api.internal.md) 
+
+### [has_accessibility_api.protect](/_protect/schema-org/Property/Texts/has_accessibility_api.protect.md) 
+
+### [has_accessibility_api.private](/_private/schema-org/Property/Texts/has_accessibility_api.private.md) 
+
+### [has_accessibility_api.personal](/_personal/schema-org/Property/Texts/has_accessibility_api.personal.md) 
+
+### [has_accessibility_api.secret](/_secret/schema-org/Property/Texts/has_accessibility_api.secret.md) 

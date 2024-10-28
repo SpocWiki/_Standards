@@ -1,4 +1,4 @@
-
+﻿
 # [[Unit~Mole]] 
 
 #is_an_ :: [[../SI-Unit]] 
@@ -35,3 +35,17 @@ Unit :: #Unit/SI/mol
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mole%20(unit))
 
+
+## Confidential Links & Embeds: 
+
+### [Unit~Mole](/_public/Unit/SI-Unit/Unit~Mole.md) 
+
+### [Unit~Mole.internal](/_internal/Unit/SI-Unit/Unit~Mole.internal.md) 
+
+### [Unit~Mole.protect](/_protect/Unit/SI-Unit/Unit~Mole.protect.md) 
+
+### [Unit~Mole.private](/_private/Unit/SI-Unit/Unit~Mole.private.md) 
+
+### [Unit~Mole.personal](/_personal/Unit/SI-Unit/Unit~Mole.personal.md) 
+
+### [Unit~Mole.secret](/_secret/Unit/SI-Unit/Unit~Mole.secret.md) 

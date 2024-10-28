@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -22.2758
 - 166.458
@@ -138,10 +138,15 @@ Capital :: [[Nouméa]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Australia/New_Caledonia|New_Caledonia]] 
-- [[../../../../_public/Earth/Continent/Australia/New_Caledonia.public|New_Caledonia.public]] 
-- [[../../../../_internal/Earth/Continent/Australia/New_Caledonia.internal|New_Caledonia.internal]] 
-- [[../../../../_protect/Earth/Continent/Australia/New_Caledonia.protect|New_Caledonia.protect]] 
-- [[../../../../_private/Earth/Continent/Australia/New_Caledonia.private|New_Caledonia.private]] 
-- [[../../../../_personal/Earth/Continent/Australia/New_Caledonia.personal|New_Caledonia.personal]] 
-- [[../../../../_secret/Earth/Continent/Australia/New_Caledonia.secret|New_Caledonia.secret]] 
+
+### [New_Caledonia](/_public/Earth/Continent/Australasia/Melanesia/New_Caledonia.md) 
+
+### [New_Caledonia.internal](/_internal/Earth/Continent/Australasia/Melanesia/New_Caledonia.internal.md) 
+
+### [New_Caledonia.protect](/_protect/Earth/Continent/Australasia/Melanesia/New_Caledonia.protect.md) 
+
+### [New_Caledonia.private](/_private/Earth/Continent/Australasia/Melanesia/New_Caledonia.private.md) 
+
+### [New_Caledonia.personal](/_personal/Earth/Continent/Australasia/Melanesia/New_Caledonia.personal.md) 
+
+### [New_Caledonia.secret](/_secret/Earth/Continent/Australasia/Melanesia/New_Caledonia.secret.md) 

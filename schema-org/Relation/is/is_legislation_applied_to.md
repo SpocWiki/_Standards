@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,10 +53,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ legislationTransposes ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_legislation_applied_to|is_legislation_applied_to]] 
-- [[../../../../../_public/schema-org/Relation/is/is_legislation_applied_to.public|is_legislation_applied_to.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_legislation_applied_to.internal|is_legislation_applied_to.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_legislation_applied_to.protect|is_legislation_applied_to.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_legislation_applied_to.private|is_legislation_applied_to.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_legislation_applied_to.personal|is_legislation_applied_to.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_legislation_applied_to.secret|is_legislation_applied_to.secret]] 
+
+### [is_legislation_applied_to](/_public/schema-org/Relation/is/is_legislation_applied_to.md) 
+
+### [is_legislation_applied_to.internal](/_internal/schema-org/Relation/is/is_legislation_applied_to.internal.md) 
+
+### [is_legislation_applied_to.protect](/_protect/schema-org/Relation/is/is_legislation_applied_to.protect.md) 
+
+### [is_legislation_applied_to.private](/_private/schema-org/Relation/is/is_legislation_applied_to.private.md) 
+
+### [is_legislation_applied_to.personal](/_personal/schema-org/Relation/is/is_legislation_applied_to.personal.md) 
+
+### [is_legislation_applied_to.secret](/_secret/schema-org/Relation/is/is_legislation_applied_to.secret.md) 

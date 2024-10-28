@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -36,10 +36,15 @@ SpocWebEntityId: 22000
 > [Wikipedia](https://en.wikipedia.org/wiki/Dubnium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-05-Vanadium/Dubnium|Dubnium]] 
-- [[../../../../_public/chemic/Elements/Group-05-Vanadium/Dubnium.public|Dubnium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Dubnium.internal|Dubnium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Dubnium.protect|Dubnium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Dubnium.private|Dubnium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Dubnium.personal|Dubnium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Dubnium.secret|Dubnium.secret]] 
+
+### [Dubnium](/_public/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.md) 
+
+### [Dubnium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.internal.md) 
+
+### [Dubnium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.protect.md) 
+
+### [Dubnium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.private.md) 
+
+### [Dubnium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.personal.md) 
+
+### [Dubnium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.secret.md) 

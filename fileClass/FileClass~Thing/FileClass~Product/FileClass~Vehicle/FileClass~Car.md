@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 icon: car
@@ -57,3 +57,17 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Car](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.md) 
+
+### [FileClass~Car.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.internal.md) 
+
+### [FileClass~Car.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.protect.md) 
+
+### [FileClass~Car.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.private.md) 
+
+### [FileClass~Car.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.personal.md) 
+
+### [FileClass~Car.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.secret.md) 

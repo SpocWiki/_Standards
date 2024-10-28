@@ -45,10 +45,15 @@ A US-style health insurance plan network.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCostSharing, healthPlanNetworkId, healthPlanNetworkTier, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/health_plan_network|health_plan_network]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/health_plan_network.public|health_plan_network.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/health_plan_network.internal|health_plan_network.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/health_plan_network.protect|health_plan_network.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/health_plan_network.private|health_plan_network.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/health_plan_network.personal|health_plan_network.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/health_plan_network.secret|health_plan_network.secret]] 
+
+### [health_plan_network](/_public/schema-org/Class/is_a_/Intangible/health_plan_network.md) 
+
+### [health_plan_network.internal](/_internal/schema-org/Class/is_a_/Intangible/health_plan_network.internal.md) 
+
+### [health_plan_network.protect](/_protect/schema-org/Class/is_a_/Intangible/health_plan_network.protect.md) 
+
+### [health_plan_network.private](/_private/schema-org/Class/is_a_/Intangible/health_plan_network.private.md) 
+
+### [health_plan_network.personal](/_personal/schema-org/Class/is_a_/Intangible/health_plan_network.personal.md) 
+
+### [health_plan_network.secret](/_secret/schema-org/Class/is_a_/Intangible/health_plan_network.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -75,3 +75,17 @@ Label to match an [[OfferShippingDetails]] with a [[DeliveryTimeSettings]] (with
 TransitTimeLabel:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DeliveryTimeSettings](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.md) 
+
+### [FileClass~DeliveryTimeSettings.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.internal.md) 
+
+### [FileClass~DeliveryTimeSettings.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.protect.md) 
+
+### [FileClass~DeliveryTimeSettings.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.private.md) 
+
+### [FileClass~DeliveryTimeSettings.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.personal.md) 
+
+### [FileClass~DeliveryTimeSettings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~DeliveryTimeSettings.secret.md) 

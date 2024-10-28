@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_broadcast_frequency|has_value_for_broadcast_frequency]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_broadcast_frequency.public|has_value_for_broadcast_frequency.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.internal|has_value_for_broadcast_frequency.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.protect|has_value_for_broadcast_frequency.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.private|has_value_for_broadcast_frequency.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.personal|has_value_for_broadcast_frequency.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.secret|has_value_for_broadcast_frequency.secret]] 
+
+### [has_value_for_broadcast_frequency_value](/_public/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.md) 
+
+### [has_value_for_broadcast_frequency_value.internal](/_internal/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.internal.md) 
+
+### [has_value_for_broadcast_frequency_value.protect](/_protect/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.protect.md) 
+
+### [has_value_for_broadcast_frequency_value.private](/_private/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.private.md) 
+
+### [has_value_for_broadcast_frequency_value.personal](/_personal/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.personal.md) 
+
+### [has_value_for_broadcast_frequency_value.secret](/_secret/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.secret.md) 

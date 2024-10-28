@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -34,10 +34,15 @@ SpocWebEntityId: 21972
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-08-Iron/Osmium|Osmium]] 
-- [[../../../../_public/chemic/Elements/Group-08-Iron/Osmium.public|Osmium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-08-Iron/Osmium.internal|Osmium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-08-Iron/Osmium.protect|Osmium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-08-Iron/Osmium.private|Osmium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-08-Iron/Osmium.personal|Osmium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-08-Iron/Osmium.secret|Osmium.secret]] 
+
+### [Osmium](/_public/chemic/chemic~Elements/Group-08-Iron/Osmium.md) 
+
+### [Osmium.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Osmium.internal.md) 
+
+### [Osmium.protect](/_protect/chemic/chemic~Elements/Group-08-Iron/Osmium.protect.md) 
+
+### [Osmium.private](/_private/chemic/chemic~Elements/Group-08-Iron/Osmium.private.md) 
+
+### [Osmium.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Osmium.personal.md) 
+
+### [Osmium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Osmium.secret.md) 

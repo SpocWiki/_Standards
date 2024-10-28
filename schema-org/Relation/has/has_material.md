@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ artMedium, surface ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_material|has_material]] 
-- [[../../../../../_public/schema-org/Relation/has/has_material.public|has_material.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_material.internal|has_material.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_material.protect|has_material.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_material.private|has_material.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_material.personal|has_material.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_material.secret|has_material.secret]] 
+
+### [has_material](/_public/schema-org/Relation/has/has_material.md) 
+
+### [has_material.internal](/_internal/schema-org/Relation/has/has_material.internal.md) 
+
+### [has_material.protect](/_protect/schema-org/Relation/has/has_material.protect.md) 
+
+### [has_material.private](/_private/schema-org/Relation/has/has_material.private.md) 
+
+### [has_material.personal](/_personal/schema-org/Relation/has/has_material.personal.md) 
+
+### [has_material.secret](/_secret/schema-org/Relation/has/has_material.secret.md) 

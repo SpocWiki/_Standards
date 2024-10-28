@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -76,3 +76,17 @@ A slogan or motto associated with the item.
 Slogan:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Brand](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.md) 
+
+### [FileClass~Brand.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.internal.md) 
+
+### [FileClass~Brand.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.protect.md) 
+
+### [FileClass~Brand.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.private.md) 
+
+### [FileClass~Brand.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.personal.md) 
+
+### [FileClass~Brand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.secret.md) 

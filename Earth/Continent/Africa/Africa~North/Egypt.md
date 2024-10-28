@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 30.015
 - 31.9
@@ -143,9 +143,15 @@ Capital :: [[Kairo=Cairo]]
 
 
 ## Confidential Links & Embeds: 
-- [[Egypt|Egypt]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~North/Egypt.internal|Egypt.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~North/Egypt.protect|Egypt.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~North/Egypt.private|Egypt.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~North/Egypt.personal|Egypt.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~North/Egypt.secret|Egypt.secret]] 
+
+### [Egypt](/_public/Earth/Continent/Africa/Africa~North/Egypt.md) 
+
+### [Egypt.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt.internal.md) 
+
+### [Egypt.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt.protect.md) 
+
+### [Egypt.private](/_private/Earth/Continent/Africa/Africa~North/Egypt.private.md) 
+
+### [Egypt.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal.md) 
+
+### [Egypt.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret.md) 

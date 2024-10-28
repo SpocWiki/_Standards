@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 14.59
     - 120.97
@@ -164,9 +164,15 @@ Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Re
 
 
 ## Confidential Links & Embeds: 
-- [[Philippines|Philippines]]  
-- [[../../../../_internal/Earth/Continent/Oceania/Philippines.internal|Philippines.internal]]  
-- [[../../../../_protect/Earth/Continent/Oceania/Philippines.protect|Philippines.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Philippines.private|Philippines.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Philippines.personal|Philippines.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Philippines.secret|Philippines.secret]] 
+
+### [Philippines](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.md) 
+
+### [Philippines.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal.md) 
+
+### [Philippines.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.protect.md) 
+
+### [Philippines.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.private.md) 
+
+### [Philippines.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal.md) 
+
+### [Philippines.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret.md) 

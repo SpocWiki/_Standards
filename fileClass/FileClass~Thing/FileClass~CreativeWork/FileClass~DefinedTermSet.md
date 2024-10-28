@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,3 +44,17 @@ A Defined Term contained in this term set.
 HasDefinedTerm:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DefinedTermSet](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.md) 
+
+### [FileClass~DefinedTermSet.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.internal.md) 
+
+### [FileClass~DefinedTermSet.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.protect.md) 
+
+### [FileClass~DefinedTermSet.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.private.md) 
+
+### [FileClass~DefinedTermSet.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.personal.md) 
+
+### [FileClass~DefinedTermSet.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet.secret.md) 

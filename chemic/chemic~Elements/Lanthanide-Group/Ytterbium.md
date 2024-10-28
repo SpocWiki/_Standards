@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21966
@@ -39,10 +39,15 @@ SpocWebEntityId: 21966
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Ytterbium|Ytterbium]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Ytterbium.public|Ytterbium.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Ytterbium.internal|Ytterbium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Ytterbium.protect|Ytterbium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Ytterbium.private|Ytterbium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Ytterbium.personal|Ytterbium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Ytterbium.secret|Ytterbium.secret]] 
+
+### [Ytterbium](/_public/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.md) 
+
+### [Ytterbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.internal.md) 
+
+### [Ytterbium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.protect.md) 
+
+### [Ytterbium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.private.md) 
+
+### [Ytterbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.personal.md) 
+
+### [Ytterbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.secret.md) 

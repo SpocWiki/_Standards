@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_endorsee|has_endorsee]] 
-- [[../../../../../_public/schema-org/Relation/has/has_endorsee.public|has_endorsee.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_endorsee.internal|has_endorsee.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_endorsee.protect|has_endorsee.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_endorsee.private|has_endorsee.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_endorsee.personal|has_endorsee.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_endorsee.secret|has_endorsee.secret]] 
+
+### [has_endorsee](/_public/schema-org/Relation/has/has_endorsee.md) 
+
+### [has_endorsee.internal](/_internal/schema-org/Relation/has/has_endorsee.internal.md) 
+
+### [has_endorsee.protect](/_protect/schema-org/Relation/has/has_endorsee.protect.md) 
+
+### [has_endorsee.private](/_private/schema-org/Relation/has/has_endorsee.private.md) 
+
+### [has_endorsee.personal](/_personal/schema-org/Relation/has/has_endorsee.personal.md) 
+
+### [has_endorsee.secret](/_secret/schema-org/Relation/has/has_endorsee.secret.md) 

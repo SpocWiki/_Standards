@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount, PriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_total_payment_due|has_value_for_total_payment_due]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_total_payment_due.public|has_value_for_total_payment_due.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_total_payment_due.internal|has_value_for_total_payment_due.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_total_payment_due.protect|has_value_for_total_payment_due.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_total_payment_due.private|has_value_for_total_payment_due.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_total_payment_due.personal|has_value_for_total_payment_due.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_total_payment_due.secret|has_value_for_total_payment_due.secret]] 
+
+### [has_value_for_total_payment_due](/_public/schema-org/Property/has_value_for/has_value_for_total_payment_due.md) 
+
+### [has_value_for_total_payment_due.internal](/_internal/schema-org/Property/has_value_for/has_value_for_total_payment_due.internal.md) 
+
+### [has_value_for_total_payment_due.protect](/_protect/schema-org/Property/has_value_for/has_value_for_total_payment_due.protect.md) 
+
+### [has_value_for_total_payment_due.private](/_private/schema-org/Property/has_value_for/has_value_for_total_payment_due.private.md) 
+
+### [has_value_for_total_payment_due.personal](/_personal/schema-org/Property/has_value_for/has_value_for_total_payment_due.personal.md) 
+
+### [has_value_for_total_payment_due.secret](/_secret/schema-org/Property/has_value_for/has_value_for_total_payment_due.secret.md) 

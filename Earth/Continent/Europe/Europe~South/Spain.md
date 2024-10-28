@@ -1,4 +1,4 @@
----
+﻿---
 title: Spain
 linkTitle: 
 type: Country
@@ -256,10 +256,15 @@ Capital :: [[Madrid.Region]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Spain|Spain]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Spain.public|Spain.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Spain.internal|Spain.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Spain.protect|Spain.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Spain.private|Spain.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Spain.personal|Spain.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Spain.secret|Spain.secret]] 
+
+### [Spain](/_public/Earth/Continent/Europe/Europe~South/Spain.md) 
+
+### [Spain.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain.internal.md) 
+
+### [Spain.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain.protect.md) 
+
+### [Spain.private](/_private/Earth/Continent/Europe/Europe~South/Spain.private.md) 
+
+### [Spain.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain.personal.md) 
+
+### [Spain.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21987
@@ -34,10 +34,15 @@ SpocWebEntityId: 21987
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Uranium|Uranium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Uranium.public|Uranium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Uranium.internal|Uranium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Uranium.protect|Uranium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Uranium.private|Uranium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Uranium.personal|Uranium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Uranium.secret|Uranium.secret]] 
+
+### [Uranium](/_public/chemic/chemic~Elements/Actinide-Group/Uranium.md) 
+
+### [Uranium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Uranium.internal.md) 
+
+### [Uranium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Uranium.protect.md) 
+
+### [Uranium.private](/_private/chemic/chemic~Elements/Actinide-Group/Uranium.private.md) 
+
+### [Uranium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Uranium.personal.md) 
+
+### [Uranium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Uranium.secret.md) 

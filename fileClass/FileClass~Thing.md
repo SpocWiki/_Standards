@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -290,3 +290,16 @@ has_creator:: {"type":"Input","options":{}}
 has_destroyer:: {"type":"Input","options":{}}
 has_place_created:: {"type":"Input","options":{}}
 has_place_destroyed:: {"type":"Input","options":{}}
+## Confidential Links & Embeds: 
+
+### [FileClass~Thing](/_public/fileClass/FileClass~Thing.md) 
+
+### [FileClass~Thing.internal](/_internal/fileClass/FileClass~Thing.internal.md) 
+
+### [FileClass~Thing.protect](/_protect/fileClass/FileClass~Thing.protect.md) 
+
+### [FileClass~Thing.private](/_private/fileClass/FileClass~Thing.private.md) 
+
+### [FileClass~Thing.personal](/_personal/fileClass/FileClass~Thing.personal.md) 
+
+### [FileClass~Thing.secret](/_secret/fileClass/FileClass~Thing.secret.md) 

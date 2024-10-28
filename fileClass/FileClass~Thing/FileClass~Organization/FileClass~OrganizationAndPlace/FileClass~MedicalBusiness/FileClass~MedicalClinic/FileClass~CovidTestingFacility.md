@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -36,3 +36,17 @@ A CovidTestingFacility is a [[MedicalClinic]] where testing for the COVID-19 Cor
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CovidTestingFacility](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.md) 
+
+### [FileClass~CovidTestingFacility.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.internal.md) 
+
+### [FileClass~CovidTestingFacility.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.protect.md) 
+
+### [FileClass~CovidTestingFacility.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.private.md) 
+
+### [FileClass~CovidTestingFacility.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.personal.md) 
+
+### [FileClass~CovidTestingFacility.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalClinic/FileClass~CovidTestingFacility.secret.md) 

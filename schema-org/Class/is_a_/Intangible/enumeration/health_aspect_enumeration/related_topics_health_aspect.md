@@ -47,10 +47,15 @@ Other prominent or relevant topics tied to the main topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect|related_topics_health_aspect]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.public|related_topics_health_aspect.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.internal|related_topics_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.protect|related_topics_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.private|related_topics_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.personal|related_topics_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.secret|related_topics_health_aspect.secret]] 
+
+### [related_topics_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.md) 
+
+### [related_topics_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.internal.md) 
+
+### [related_topics_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.protect.md) 
+
+### [related_topics_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.private.md) 
+
+### [related_topics_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.personal.md) 
+
+### [related_topics_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/related_topics_health_aspect.secret.md) 

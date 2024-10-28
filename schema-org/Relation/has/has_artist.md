@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 ( #has_/range :: [[Person]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_artist|has_artist]] 
-- [[../../../../../_public/schema-org/Relation/has/has_artist.public|has_artist.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_artist.internal|has_artist.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_artist.protect|has_artist.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_artist.private|has_artist.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_artist.personal|has_artist.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_artist.secret|has_artist.secret]] 
+
+### [has_artist](/_public/schema-org/Relation/has/has_artist.md) 
+
+### [has_artist.internal](/_internal/schema-org/Relation/has/has_artist.internal.md) 
+
+### [has_artist.protect](/_protect/schema-org/Relation/has/has_artist.protect.md) 
+
+### [has_artist.private](/_private/schema-org/Relation/has/has_artist.private.md) 
+
+### [has_artist.personal](/_personal/schema-org/Relation/has/has_artist.personal.md) 
+
+### [has_artist.secret](/_secret/schema-org/Relation/has/has_artist.secret.md) 

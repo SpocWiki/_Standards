@@ -45,10 +45,15 @@ A ShippingRateSettings represents re-usable pieces of shipping information. It i
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, doesNotShip, freeShippingThreshold, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingRate, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/shipping_rate_settings|shipping_rate_settings]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/shipping_rate_settings.public|shipping_rate_settings.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.internal|shipping_rate_settings.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.protect|shipping_rate_settings.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.private|shipping_rate_settings.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.personal|shipping_rate_settings.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.secret|shipping_rate_settings.secret]] 
+
+### [shipping_rate_settings](/_public/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.md) 
+
+### [shipping_rate_settings.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.internal.md) 
+
+### [shipping_rate_settings.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.protect.md) 
+
+### [shipping_rate_settings.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.private.md) 
+
+### [shipping_rate_settings.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.personal.md) 
+
+### [shipping_rate_settings.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.secret.md) 

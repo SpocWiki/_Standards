@@ -1,4 +1,4 @@
-# [[Age~1~Wuchiapingian]] 
+﻿# [[Age~1~Wuchiapingian]] 
 
 #is_a_/time_/Age 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Wuchiapingian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.md) 
+
+### [Age~1~Wuchiapingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.internal.md) 
+
+### [Age~1~Wuchiapingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.protect.md) 
+
+### [Age~1~Wuchiapingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.private.md) 
+
+### [Age~1~Wuchiapingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.personal.md) 
+
+### [Age~1~Wuchiapingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.secret.md) 

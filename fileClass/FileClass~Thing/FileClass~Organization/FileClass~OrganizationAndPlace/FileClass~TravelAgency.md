@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A travel agency.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TravelAgency](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.md) 
+
+### [FileClass~TravelAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.internal.md) 
+
+### [FileClass~TravelAgency.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.protect.md) 
+
+### [FileClass~TravelAgency.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.private.md) 
+
+### [FileClass~TravelAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.personal.md) 
+
+### [FileClass~TravelAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TravelAgency.secret.md) 

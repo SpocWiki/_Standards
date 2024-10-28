@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ The International Standard Serial Number (ISSN) that identifies this serial publ
 Issn:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~WebSite](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.md) 
+
+### [FileClass~WebSite.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.internal.md) 
+
+### [FileClass~WebSite.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.protect.md) 
+
+### [FileClass~WebSite.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.private.md) 
+
+### [FileClass~WebSite.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.personal.md) 
+
+### [FileClass~WebSite.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.secret.md) 

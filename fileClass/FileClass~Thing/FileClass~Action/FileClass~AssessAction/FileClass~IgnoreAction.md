@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of intentionally disregarding the object. An agent ignores an object.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~IgnoreAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.md) 
+
+### [FileClass~IgnoreAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.internal.md) 
+
+### [FileClass~IgnoreAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.protect.md) 
+
+### [FileClass~IgnoreAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.private.md) 
+
+### [FileClass~IgnoreAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.personal.md) 
+
+### [FileClass~IgnoreAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.secret.md) 

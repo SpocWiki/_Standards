@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Vessel)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_originating_from|is_originating_from]] 
-- [[../../../../../_public/schema-org/Relation/is/is_originating_from.public|is_originating_from.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_originating_from.internal|is_originating_from.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_originating_from.protect|is_originating_from.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_originating_from.private|is_originating_from.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_originating_from.personal|is_originating_from.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_originating_from.secret|is_originating_from.secret]] 
+
+### [is_originating_from](/_public/schema-org/Relation/is/is_originating_from.md) 
+
+### [is_originating_from.internal](/_internal/schema-org/Relation/is/is_originating_from.internal.md) 
+
+### [is_originating_from.protect](/_protect/schema-org/Relation/is/is_originating_from.protect.md) 
+
+### [is_originating_from.private](/_private/schema-org/Relation/is/is_originating_from.private.md) 
+
+### [is_originating_from.personal](/_personal/schema-org/Relation/is/is_originating_from.personal.md) 
+
+### [is_originating_from.secret](/_secret/schema-org/Relation/is/is_originating_from.secret.md) 

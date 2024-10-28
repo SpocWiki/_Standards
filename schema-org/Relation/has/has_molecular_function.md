@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, PropertyValue, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_molecular_function|has_molecular_function]] 
-- [[../../../../../_public/schema-org/Relation/has/has_molecular_function.public|has_molecular_function.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_molecular_function.internal|has_molecular_function.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_molecular_function.protect|has_molecular_function.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_molecular_function.private|has_molecular_function.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_molecular_function.personal|has_molecular_function.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_molecular_function.secret|has_molecular_function.secret]] 
+
+### [has_molecular_function](/_public/schema-org/Relation/has/has_molecular_function.md) 
+
+### [has_molecular_function.internal](/_internal/schema-org/Relation/has/has_molecular_function.internal.md) 
+
+### [has_molecular_function.protect](/_protect/schema-org/Relation/has/has_molecular_function.protect.md) 
+
+### [has_molecular_function.private](/_private/schema-org/Relation/has/has_molecular_function.private.md) 
+
+### [has_molecular_function.personal](/_personal/schema-org/Relation/has/has_molecular_function.personal.md) 
+
+### [has_molecular_function.secret](/_secret/schema-org/Relation/has/has_molecular_function.secret.md) 

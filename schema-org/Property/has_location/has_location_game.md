@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Place, PostalAddress, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_game|has_location_game]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_game.public|has_location_game.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_game.internal|has_location_game.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_game.protect|has_location_game.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_game.private|has_location_game.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_game.personal|has_location_game.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_game.secret|has_location_game.secret]] 
+
+### [has_location_game](/_public/schema-org/Property/has_location/has_location_game.md) 
+
+### [has_location_game.internal](/_internal/schema-org/Property/has_location/has_location_game.internal.md) 
+
+### [has_location_game.protect](/_protect/schema-org/Property/has_location/has_location_game.protect.md) 
+
+### [has_location_game.private](/_private/schema-org/Property/has_location/has_location_game.private.md) 
+
+### [has_location_game.personal](/_personal/schema-org/Property/has_location/has_location_game.personal.md) 
+
+### [has_location_game.secret](/_secret/schema-org/Property/has_location/has_location_game.secret.md) 

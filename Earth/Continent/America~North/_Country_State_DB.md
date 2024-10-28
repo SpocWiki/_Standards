@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -318,9 +318,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[_CountryStateDB|_CountryStateDB]] 
-- [[../../../../../_internal/Earth/Continent/America~North/USA/_CountryStateDB.internal|_CountryStateDB.internal]] 
-- [[../../../../../_protect/Earth/Continent/America~North/USA/_CountryStateDB.protect|_CountryStateDB.protect]] 
-- [[../../../../../_private/Earth/Continent/America~North/USA/_CountryStateDB.private|_CountryStateDB.private]] 
-- [[../../../../../_personal/Earth/Continent/America~North/USA/_CountryStateDB.personal|_CountryStateDB.personal]] 
-- [[../../../../../_secret/Earth/Continent/America~North/USA/_CountryStateDB.secret|_CountryStateDB.secret]] 
+
+### [_Country_State_DB](/_public/Earth/Continent/America~North/_Country_State_DB.md) 
+
+### [_Country_State_DB.internal](/_internal/Earth/Continent/America~North/_Country_State_DB.internal.md) 
+
+### [_Country_State_DB.protect](/_protect/Earth/Continent/America~North/_Country_State_DB.protect.md) 
+
+### [_Country_State_DB.private](/_private/Earth/Continent/America~North/_Country_State_DB.private.md) 
+
+### [_Country_State_DB.personal](/_personal/Earth/Continent/America~North/_Country_State_DB.personal.md) 
+
+### [_Country_State_DB.secret](/_secret/Earth/Continent/America~North/_Country_State_DB.secret.md) 

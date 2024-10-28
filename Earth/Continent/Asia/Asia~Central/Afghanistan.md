@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 34.5
     - 69.2
@@ -147,9 +147,15 @@ Capital :: [[Afghanistan/Counties/Kabul/City/Kabul]]
 
 
 ## Confidential Links & Embeds: 
-- [[Afghanistan|Afghanistan]] 
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~Central/Afghanistan.internal|Afghanistan.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/Asia~Central/Afghanistan.protect|Afghanistan.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/Asia~Central/Afghanistan.private|Afghanistan.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/Asia~Central/Afghanistan.personal|Afghanistan.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/Asia~Central/Afghanistan.secret|Afghanistan.secret]] 
+
+### [Afghanistan](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan.md) 
+
+### [Afghanistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan.internal.md) 
+
+### [Afghanistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan.protect.md) 
+
+### [Afghanistan.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan.private.md) 
+
+### [Afghanistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan.personal.md) 
+
+### [Afghanistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan.secret.md) 

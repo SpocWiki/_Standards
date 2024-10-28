@@ -1,4 +1,4 @@
----
+﻿---
 
 ---
 
@@ -1142,3 +1142,17 @@ See also: [15th century](https://en.wikipedia.org/wiki/15th_century "15th centur
 - [1500](https://en.wikipedia.org/wiki/1500 "1500"): [Portuguese](https://en.wikipedia.org/wiki/Portugal "Portugal") navigator [Pedro Álvares Cabral](https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral "Pedro Álvares Cabral") claims Brazil for Portugal.
 - [1500](https://en.wikipedia.org/wiki/1500 "1500"): The [Ottoman fleet](https://en.wikipedia.org/wiki/Ottoman_Navy "Ottoman Navy") of [Kemal Reis](https://en.wikipedia.org/wiki/Kemal_Reis "Kemal Reis") defeats the [Venetians](https://en.wikipedia.org/wiki/Republic_of_Venice "Republic of Venice") at the [Second Battle of Lepanto](https://en.wikipedia.org/wiki/Battle_of_Lepanto_(1500) "Battle of Lepanto (1500)").
 
+
+## Confidential Links & Embeds: 
+
+### [geo~Eons](/_public/Time-Ages/geo~Eons.md) 
+
+### [geo~Eons.internal](/_internal/Time-Ages/geo~Eons.internal.md) 
+
+### [geo~Eons.protect](/_protect/Time-Ages/geo~Eons.protect.md) 
+
+### [geo~Eons.private](/_private/Time-Ages/geo~Eons.private.md) 
+
+### [geo~Eons.personal](/_personal/Time-Ages/geo~Eons.personal.md) 
+
+### [geo~Eons.secret](/_secret/Time-Ages/geo~Eons.secret.md) 

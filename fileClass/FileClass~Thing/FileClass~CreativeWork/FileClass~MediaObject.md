@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -232,3 +232,17 @@ The width of the item.
 Width:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MediaObject](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.md) 
+
+### [FileClass~MediaObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.internal.md) 
+
+### [FileClass~MediaObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.protect.md) 
+
+### [FileClass~MediaObject.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.private.md) 
+
+### [FileClass~MediaObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.personal.md) 
+
+### [FileClass~MediaObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject.secret.md) 

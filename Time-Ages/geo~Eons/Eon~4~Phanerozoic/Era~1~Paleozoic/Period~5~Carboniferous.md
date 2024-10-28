@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~5~Carboniferous]] 
 
 #is_a_/time_/Period 
@@ -58,3 +58,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~5~Carboniferous](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.md) 
+
+### [Period~5~Carboniferous.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.internal.md) 
+
+### [Period~5~Carboniferous.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.protect.md) 
+
+### [Period~5~Carboniferous.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.private.md) 
+
+### [Period~5~Carboniferous.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.personal.md) 
+
+### [Period~5~Carboniferous.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.secret.md) 

@@ -45,10 +45,15 @@ The male gender.
 [ #is_/enum_of :: [[../GenderType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/gender_type/male|male]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/gender_type/male.public|male.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.internal|male.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.protect|male.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.private|male.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.personal|male.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.secret|male.secret]] 
+
+### [male](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.md) 
+
+### [male.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.internal.md) 
+
+### [male.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.protect.md) 
+
+### [male.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.private.md) 
+
+### [male.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.personal.md) 
+
+### [male.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.secret.md) 

@@ -45,10 +45,15 @@ A designation that the drug in question has not been assigned a pregnancy catego
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated|fd_anot_evaluated]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.public|fd_anot_evaluated.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.internal|fd_anot_evaluated.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.protect|fd_anot_evaluated.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.private|fd_anot_evaluated.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.personal|fd_anot_evaluated.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.secret|fd_anot_evaluated.secret]] 
+
+### [fd_anot_evaluated](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.md) 
+
+### [fd_anot_evaluated.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.internal.md) 
+
+### [fd_anot_evaluated.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.protect.md) 
+
+### [fd_anot_evaluated.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.private.md) 
+
+### [fd_anot_evaluated.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.personal.md) 
+
+### [fd_anot_evaluated.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.secret.md) 

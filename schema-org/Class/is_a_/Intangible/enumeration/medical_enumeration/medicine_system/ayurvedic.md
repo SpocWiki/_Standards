@@ -45,10 +45,15 @@ A system of medicine that originated in India over thousands of years and that f
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic|ayurvedic]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.public|ayurvedic.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.internal|ayurvedic.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.protect|ayurvedic.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.private|ayurvedic.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.personal|ayurvedic.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.secret|ayurvedic.secret]] 
+
+### [ayurvedic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.md) 
+
+### [ayurvedic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.internal.md) 
+
+### [ayurvedic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.protect.md) 
+
+### [ayurvedic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.private.md) 
+
+### [ayurvedic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.personal.md) 
+
+### [ayurvedic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.secret.md) 

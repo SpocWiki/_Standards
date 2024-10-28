@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -37,10 +37,15 @@ Data type: Text.
 [ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/text|text]] 
-- [[../../../../../_public/schema-org/Class/is_a_/data_type/text.public|text.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/data_type/text.internal|text.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/data_type/text.protect|text.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/data_type/text.private|text.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/data_type/text.personal|text.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/data_type/text.secret|text.secret]] 
+
+### [text](/_public/schema-org/Class/is_a_/data_type/text.md) 
+
+### [text.internal](/_internal/schema-org/Class/is_a_/data_type/text.internal.md) 
+
+### [text.protect](/_protect/schema-org/Class/is_a_/data_type/text.protect.md) 
+
+### [text.private](/_private/schema-org/Class/is_a_/data_type/text.private.md) 
+
+### [text.personal](/_personal/schema-org/Class/is_a_/data_type/text.personal.md) 
+
+### [text.secret](/_secret/schema-org/Class/is_a_/data_type/text.secret.md) 

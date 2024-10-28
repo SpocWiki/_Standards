@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_birth|has_location_birth]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_birth.public|has_location_birth.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_birth.internal|has_location_birth.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_birth.protect|has_location_birth.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_birth.private|has_location_birth.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_birth.personal|has_location_birth.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_birth.secret|has_location_birth.secret]] 
+
+### [has_location_birth](/_public/schema-org/Property/has_location/has_location_birth.md) 
+
+### [has_location_birth.internal](/_internal/schema-org/Property/has_location/has_location_birth.internal.md) 
+
+### [has_location_birth.protect](/_protect/schema-org/Property/has_location/has_location_birth.protect.md) 
+
+### [has_location_birth.private](/_private/schema-org/Property/has_location/has_location_birth.private.md) 
+
+### [has_location_birth.personal](/_personal/schema-org/Property/has_location/has_location_birth.personal.md) 
+
+### [has_location_birth.secret](/_secret/schema-org/Property/has_location/has_location_birth.secret.md) 

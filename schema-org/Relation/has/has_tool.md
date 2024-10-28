@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_tool|has_tool]] 
-- [[../../../../../_public/schema-org/Relation/has/has_tool.public|has_tool.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_tool.internal|has_tool.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_tool.protect|has_tool.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_tool.private|has_tool.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_tool.personal|has_tool.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_tool.secret|has_tool.secret]] 
+
+### [has_tool](/_public/schema-org/Relation/has/has_tool.md) 
+
+### [has_tool.internal](/_internal/schema-org/Relation/has/has_tool.internal.md) 
+
+### [has_tool.protect](/_protect/schema-org/Relation/has/has_tool.protect.md) 
+
+### [has_tool.private](/_private/schema-org/Relation/has/has_tool.private.md) 
+
+### [has_tool.personal](/_personal/schema-org/Relation/has/has_tool.personal.md) 
+
+### [has_tool.secret](/_secret/schema-org/Relation/has/has_tool.secret.md) 

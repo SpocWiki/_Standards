@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_physical_requirement|has_physical_requirement]] 
-- [[../../../../../_public/schema-org/Relation/has/has_physical_requirement.public|has_physical_requirement.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_physical_requirement.internal|has_physical_requirement.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_physical_requirement.protect|has_physical_requirement.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_physical_requirement.private|has_physical_requirement.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_physical_requirement.personal|has_physical_requirement.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_physical_requirement.secret|has_physical_requirement.secret]] 
+
+### [has_physical_requirement](/_public/schema-org/Relation/has/has_physical_requirement.md) 
+
+### [has_physical_requirement.internal](/_internal/schema-org/Relation/has/has_physical_requirement.internal.md) 
+
+### [has_physical_requirement.protect](/_protect/schema-org/Relation/has/has_physical_requirement.protect.md) 
+
+### [has_physical_requirement.private](/_private/schema-org/Relation/has/has_physical_requirement.private.md) 
+
+### [has_physical_requirement.personal](/_personal/schema-org/Relation/has/has_physical_requirement.personal.md) 
+
+### [has_physical_requirement.secret](/_secret/schema-org/Relation/has/has_physical_requirement.secret.md) 

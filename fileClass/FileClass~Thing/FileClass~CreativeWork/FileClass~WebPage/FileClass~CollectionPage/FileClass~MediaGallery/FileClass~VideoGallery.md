@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Web page type: Video gallery page.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~VideoGallery](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.md) 
+
+### [FileClass~VideoGallery.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.internal.md) 
+
+### [FileClass~VideoGallery.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.protect.md) 
+
+### [FileClass~VideoGallery.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.private.md) 
+
+### [FileClass~VideoGallery.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.personal.md) 
+
+### [FileClass~VideoGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.secret.md) 

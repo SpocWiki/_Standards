@@ -1,4 +1,4 @@
-
+﻿
 > The Pan-American Highway is a network of roads 
 > stretching across the Americas, 
 > measuring about 30,000 kilometres (19,000 mi) in total length. 
@@ -28,3 +28,17 @@ spanning the border between Panama and Colombia.
 This natural barrier prevents a continuous road connection 
 along the length of the Americas.
 
+
+## Confidential Links & Embeds: 
+
+### [Pan-American_Highway](/_public/Earth/Continent/America~Central/Pan-American_Highway.md) 
+
+### [Pan-American_Highway.internal](/_internal/Earth/Continent/America~Central/Pan-American_Highway.internal.md) 
+
+### [Pan-American_Highway.protect](/_protect/Earth/Continent/America~Central/Pan-American_Highway.protect.md) 
+
+### [Pan-American_Highway.private](/_private/Earth/Continent/America~Central/Pan-American_Highway.private.md) 
+
+### [Pan-American_Highway.personal](/_personal/Earth/Continent/America~Central/Pan-American_Highway.personal.md) 
+
+### [Pan-American_Highway.secret](/_secret/Earth/Continent/America~Central/Pan-American_Highway.secret.md) 

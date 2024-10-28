@@ -41,10 +41,15 @@ Indicates whether this game is multi-player, co-op or single-player.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/game_play_mode|game_play_mode]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/game_play_mode.public|game_play_mode.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.internal|game_play_mode.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.protect|game_play_mode.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.private|game_play_mode.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.personal|game_play_mode.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.secret|game_play_mode.secret]] 
+
+### [game_play_mode](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.md) 
+
+### [game_play_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.internal.md) 
+
+### [game_play_mode.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.protect.md) 
+
+### [game_play_mode.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.private.md) 
+
+### [game_play_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.personal.md) 
+
+### [game_play_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_accepting_new_patients|is_accepting_new_patients]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_accepting_new_patients.public|is_accepting_new_patients.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_accepting_new_patients.internal|is_accepting_new_patients.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_accepting_new_patients.protect|is_accepting_new_patients.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_accepting_new_patients.private|is_accepting_new_patients.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_accepting_new_patients.personal|is_accepting_new_patients.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_accepting_new_patients.secret|is_accepting_new_patients.secret]] 
+
+### [is_accepting_new_patients](/_public/schema-org/Property/Flags/is_accepting_new_patients.md) 
+
+### [is_accepting_new_patients.internal](/_internal/schema-org/Property/Flags/is_accepting_new_patients.internal.md) 
+
+### [is_accepting_new_patients.protect](/_protect/schema-org/Property/Flags/is_accepting_new_patients.protect.md) 
+
+### [is_accepting_new_patients.private](/_private/schema-org/Property/Flags/is_accepting_new_patients.private.md) 
+
+### [is_accepting_new_patients.personal](/_personal/schema-org/Property/Flags/is_accepting_new_patients.personal.md) 
+
+### [is_accepting_new_patients.secret](/_secret/schema-org/Property/Flags/is_accepting_new_patients.secret.md) 

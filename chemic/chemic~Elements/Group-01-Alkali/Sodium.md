@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21913
@@ -37,10 +37,15 @@ SpocWebEntityId: 21913
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-01-Alkali/Sodium|Sodium]] 
-- [[../../../../_public/chemic/Elements/Group-01-Alkali/Sodium.public|Sodium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Sodium.internal|Sodium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Sodium.protect|Sodium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Sodium.private|Sodium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Sodium.personal|Sodium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Sodium.secret|Sodium.secret]] 
+
+### [Sodium](/_public/chemic/chemic~Elements/Group-01-Alkali/Sodium.md) 
+
+### [Sodium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Sodium.internal.md) 
+
+### [Sodium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Sodium.protect.md) 
+
+### [Sodium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Sodium.private.md) 
+
+### [Sodium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Sodium.personal.md) 
+
+### [Sodium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Sodium.secret.md) 

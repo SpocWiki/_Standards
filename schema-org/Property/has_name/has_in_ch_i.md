@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -51,10 +51,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: hasRepresentation ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_in_ch_i|has_in_ch_i]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_in_ch_i.public|has_in_ch_i.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_in_ch_i.internal|has_in_ch_i.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_in_ch_i.protect|has_in_ch_i.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_in_ch_i.private|has_in_ch_i.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_in_ch_i.personal|has_in_ch_i.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_in_ch_i.secret|has_in_ch_i.secret]] 
+
+### [has_in_ch_i](/_public/schema-org/Property/has_name/has_in_ch_i.md) 
+
+### [has_in_ch_i.internal](/_internal/schema-org/Property/has_name/has_in_ch_i.internal.md) 
+
+### [has_in_ch_i.protect](/_protect/schema-org/Property/has_name/has_in_ch_i.protect.md) 
+
+### [has_in_ch_i.private](/_private/schema-org/Property/has_name/has_in_ch_i.private.md) 
+
+### [has_in_ch_i.personal](/_personal/schema-org/Property/has_name/has_in_ch_i.personal.md) 
+
+### [has_in_ch_i.secret](/_secret/schema-org/Property/has_name/has_in_ch_i.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Pashto
@@ -49,11 +49,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-ps|Lang-ps]] 
-- [[../../_public/lang/Lang-ps.public|Lang-ps.public]] 
-- [[../../../../../../_internal/lang/Lang-ps.internal|Lang-ps.internal]] 
-- [[../../_protect/lang/Lang-ps.protect|Lang-ps.protect]] 
-- [[../../_private/lang/Lang-ps.private|Lang-ps.private]] 
-- [[../../_personal/lang/Lang-ps.personal|Lang-ps.personal]] 
-- [[../../_secret/lang/Lang-ps.secret|Lang-ps.secret]]
 
+### [Lang-ps](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.md) 
+
+### [Lang-ps.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.internal.md) 
+
+### [Lang-ps.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.protect.md) 
+
+### [Lang-ps.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.private.md) 
+
+### [Lang-ps.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.personal.md) 
+
+### [Lang-ps.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.secret.md) 

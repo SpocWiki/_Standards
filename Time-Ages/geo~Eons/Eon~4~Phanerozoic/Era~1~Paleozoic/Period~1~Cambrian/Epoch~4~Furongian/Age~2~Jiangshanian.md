@@ -1,4 +1,4 @@
-# [[Age~2~Jiangshanian]] 
+﻿# [[Age~2~Jiangshanian]] 
 
 #is_a_/time_/Age 
 
@@ -33,3 +33,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Jiangshanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.md) 
+
+### [Age~2~Jiangshanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.internal.md) 
+
+### [Age~2~Jiangshanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.protect.md) 
+
+### [Age~2~Jiangshanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.private.md) 
+
+### [Age~2~Jiangshanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.personal.md) 
+
+### [Age~2~Jiangshanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.secret.md) 

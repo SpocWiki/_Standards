@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: CreativeWork, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sd_license|has_sd_license]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sd_license.public|has_sd_license.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sd_license.internal|has_sd_license.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sd_license.protect|has_sd_license.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sd_license.private|has_sd_license.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sd_license.personal|has_sd_license.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sd_license.secret|has_sd_license.secret]] 
+
+### [has_sd_license](/_public/schema-org/Relation/has/has_sd_license.md) 
+
+### [has_sd_license.internal](/_internal/schema-org/Relation/has/has_sd_license.internal.md) 
+
+### [has_sd_license.protect](/_protect/schema-org/Relation/has/has_sd_license.protect.md) 
+
+### [has_sd_license.private](/_private/schema-org/Relation/has/has_sd_license.private.md) 
+
+### [has_sd_license.personal](/_personal/schema-org/Relation/has/has_sd_license.personal.md) 
+
+### [has_sd_license.secret](/_secret/schema-org/Relation/has/has_sd_license.secret.md) 

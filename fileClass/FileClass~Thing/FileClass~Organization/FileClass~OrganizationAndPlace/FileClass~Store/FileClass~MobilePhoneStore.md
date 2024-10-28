@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A store that sells mobile phones and related accessories.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MobilePhoneStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.md) 
+
+### [FileClass~MobilePhoneStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.internal.md) 
+
+### [FileClass~MobilePhoneStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.protect.md) 
+
+### [FileClass~MobilePhoneStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.private.md) 
+
+### [FileClass~MobilePhoneStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.personal.md) 
+
+### [FileClass~MobilePhoneStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.secret.md) 

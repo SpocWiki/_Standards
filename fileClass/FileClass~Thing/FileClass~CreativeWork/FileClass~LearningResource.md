@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -46,3 +46,17 @@ Knowledge, skill, ability or personal attribute that must be demonstrated by a p
 CompetencyRequired:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LearningResource](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.md) 
+
+### [FileClass~LearningResource.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.internal.md) 
+
+### [FileClass~LearningResource.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.protect.md) 
+
+### [FileClass~LearningResource.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.private.md) 
+
+### [FileClass~LearningResource.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.personal.md) 
+
+### [FileClass~LearningResource.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,3 +35,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~EventReservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~EventReservation.md) 
+
+### [FileClass~EventReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~EventReservation.internal.md) 
+
+### [FileClass~EventReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~EventReservation.protect.md) 
+
+### [FileClass~EventReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~EventReservation.private.md) 
+
+### [FileClass~EventReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~EventReservation.personal.md) 
+
+### [FileClass~EventReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~EventReservation.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21961
@@ -39,10 +39,15 @@ SpocWebEntityId: 21961
 > [Wikipedia](https://en.wikipedia.org/wiki/Terbium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Terbium|Terbium]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Terbium.public|Terbium.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Terbium.internal|Terbium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Terbium.protect|Terbium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Terbium.private|Terbium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Terbium.personal|Terbium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Terbium.secret|Terbium.secret]] 
+
+### [Terbium](/_public/chemic/chemic~Elements/Lanthanide-Group/Terbium.md) 
+
+### [Terbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Terbium.internal.md) 
+
+### [Terbium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Terbium.protect.md) 
+
+### [Terbium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Terbium.private.md) 
+
+### [Terbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Terbium.personal.md) 
+
+### [Terbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Terbium.secret.md) 

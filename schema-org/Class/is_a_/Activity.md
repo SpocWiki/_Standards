@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - foaf:activity
   - prov:activity
@@ -21,3 +21,17 @@ Synonyms/Aliases:
 [Action](Action.md): `schema:Action` is used for specific, well-defined actions, 
 while `schema:Activity` is used for broader, (continuously) ongoing processes or events that may involve multiple actions or steps.
 Activities can encompass a series of related actions and may not always correspond to a single, well-defined action.
+
+## Confidential Links & Embeds: 
+
+### [Activity](/_public/schema-org/Class/is_a_/Activity.md) 
+
+### [Activity.internal](/_internal/schema-org/Class/is_a_/Activity.internal.md) 
+
+### [Activity.protect](/_protect/schema-org/Class/is_a_/Activity.protect.md) 
+
+### [Activity.private](/_private/schema-org/Class/is_a_/Activity.private.md) 
+
+### [Activity.personal](/_personal/schema-org/Class/is_a_/Activity.personal.md) 
+
+### [Activity.secret](/_secret/schema-org/Class/is_a_/Activity.secret.md) 

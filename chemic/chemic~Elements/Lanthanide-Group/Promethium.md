@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21957
@@ -40,10 +40,15 @@ SpocWebEntityId: 21957
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Promethium|Promethium]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Promethium.public|Promethium.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Promethium.internal|Promethium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Promethium.protect|Promethium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Promethium.private|Promethium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Promethium.personal|Promethium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Promethium.secret|Promethium.secret]] 
+
+### [Promethium](/_public/chemic/chemic~Elements/Lanthanide-Group/Promethium.md) 
+
+### [Promethium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Promethium.internal.md) 
+
+### [Promethium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Promethium.protect.md) 
+
+### [Promethium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Promethium.private.md) 
+
+### [Promethium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Promethium.personal.md) 
+
+### [Promethium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Promethium.secret.md) 

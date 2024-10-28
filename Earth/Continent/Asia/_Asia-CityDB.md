@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -342,10 +342,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Asia/_Asia-CityDB|_Asia-CityDB]] 
-- [[../../../../_public/Earth/Continent/Asia/_Asia-CityDB.public|_Asia-CityDB.public]] 
-- [[../../../../_internal/Earth/Continent/Asia/_Asia-CityDB.internal|_Asia-CityDB.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/_Asia-CityDB.protect|_Asia-CityDB.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/_Asia-CityDB.private|_Asia-CityDB.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/_Asia-CityDB.personal|_Asia-CityDB.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/_Asia-CityDB.secret|_Asia-CityDB.secret]] 
+
+### [_Asia-CityDB](/_public/Earth/Continent/Asia/_Asia-CityDB.md) 
+
+### [_Asia-CityDB.internal](/_internal/Earth/Continent/Asia/_Asia-CityDB.internal.md) 
+
+### [_Asia-CityDB.protect](/_protect/Earth/Continent/Asia/_Asia-CityDB.protect.md) 
+
+### [_Asia-CityDB.private](/_private/Earth/Continent/Asia/_Asia-CityDB.private.md) 
+
+### [_Asia-CityDB.personal](/_personal/Earth/Continent/Asia/_Asia-CityDB.personal.md) 
+
+### [_Asia-CityDB.secret](/_secret/Earth/Continent/Asia/_Asia-CityDB.secret.md) 

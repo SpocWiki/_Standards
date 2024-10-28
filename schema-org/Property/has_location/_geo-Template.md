@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,10 +56,15 @@ Predicate describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/_geo-Template|_geo-Template]] 
-- [[../../../../_public/schema-org/Property/has_location/_geo-Template.public|_geo-Template.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/_geo-Template.internal|_geo-Template.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/_geo-Template.protect|_geo-Template.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/_geo-Template.private|_geo-Template.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/_geo-Template.personal|_geo-Template.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/_geo-Template.secret|_geo-Template.secret]] 
+
+### [_geo-Template](/_public/schema-org/Property/has_location/_geo-Template.md) 
+
+### [_geo-Template.internal](/_internal/schema-org/Property/has_location/_geo-Template.internal.md) 
+
+### [_geo-Template.protect](/_protect/schema-org/Property/has_location/_geo-Template.protect.md) 
+
+### [_geo-Template.private](/_private/schema-org/Property/has_location/_geo-Template.private.md) 
+
+### [_geo-Template.personal](/_personal/schema-org/Property/has_location/_geo-Template.personal.md) 
+
+### [_geo-Template.secret](/_secret/schema-org/Property/has_location/_geo-Template.secret.md) 

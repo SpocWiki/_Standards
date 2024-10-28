@@ -45,10 +45,15 @@ The event has been rescheduled. The event's previousStartDate should be set to t
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled|event_rescheduled]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.public|event_rescheduled.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.internal|event_rescheduled.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.protect|event_rescheduled.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.private|event_rescheduled.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.personal|event_rescheduled.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.secret|event_rescheduled.secret]] 
+
+### [event_rescheduled](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.md) 
+
+### [event_rescheduled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.internal.md) 
+
+### [event_rescheduled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.protect.md) 
+
+### [event_rescheduled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.private.md) 
+
+### [event_rescheduled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.personal.md) 
+
+### [event_rescheduled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.secret.md) 

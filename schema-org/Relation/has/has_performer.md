@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [[../is_inverse_of]]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_performer|has_performer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_performer.public|has_performer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_performer.internal|has_performer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_performer.protect|has_performer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_performer.private|has_performer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_performer.personal|has_performer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_performer.secret|has_performer.secret]] 
+
+### [has_performer](/_public/schema-org/Relation/has/has_performer.md) 
+
+### [has_performer.internal](/_internal/schema-org/Relation/has/has_performer.internal.md) 
+
+### [has_performer.protect](/_protect/schema-org/Relation/has/has_performer.protect.md) 
+
+### [has_performer.private](/_private/schema-org/Relation/has/has_performer.private.md) 
+
+### [has_performer.personal](/_personal/schema-org/Relation/has/has_performer.personal.md) 
+
+### [has_performer.secret](/_secret/schema-org/Relation/has/has_performer.secret.md) 

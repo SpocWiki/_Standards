@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_verification_fact_checking_policy|has_verification_fact_checking_policy]] 
-- [[../../../../../_public/schema-org/Relation/has/has_verification_fact_checking_policy.public|has_verification_fact_checking_policy.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_verification_fact_checking_policy.internal|has_verification_fact_checking_policy.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_verification_fact_checking_policy.protect|has_verification_fact_checking_policy.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_verification_fact_checking_policy.private|has_verification_fact_checking_policy.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_verification_fact_checking_policy.personal|has_verification_fact_checking_policy.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_verification_fact_checking_policy.secret|has_verification_fact_checking_policy.secret]] 
+
+### [has_verification_fact_checking_policy](/_public/schema-org/Relation/has/has_verification_fact_checking_policy.md) 
+
+### [has_verification_fact_checking_policy.internal](/_internal/schema-org/Relation/has/has_verification_fact_checking_policy.internal.md) 
+
+### [has_verification_fact_checking_policy.protect](/_protect/schema-org/Relation/has/has_verification_fact_checking_policy.protect.md) 
+
+### [has_verification_fact_checking_policy.private](/_private/schema-org/Relation/has/has_verification_fact_checking_policy.private.md) 
+
+### [has_verification_fact_checking_policy.personal](/_personal/schema-org/Relation/has/has_verification_fact_checking_policy.personal.md) 
+
+### [has_verification_fact_checking_policy.secret](/_secret/schema-org/Relation/has/has_verification_fact_checking_policy.secret.md) 

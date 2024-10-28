@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ associatedClaimReview, associatedMediaReview ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_associated_review|has_associated_review]] 
-- [[../../../../../_public/schema-org/Relation/has/has_associated_review.public|has_associated_review.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_associated_review.internal|has_associated_review.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_associated_review.protect|has_associated_review.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_associated_review.private|has_associated_review.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_associated_review.personal|has_associated_review.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_associated_review.secret|has_associated_review.secret]] 
+
+### [has_associated_review](/_public/schema-org/Relation/has/has_associated_review.md) 
+
+### [has_associated_review.internal](/_internal/schema-org/Relation/has/has_associated_review.internal.md) 
+
+### [has_associated_review.protect](/_protect/schema-org/Relation/has/has_associated_review.protect.md) 
+
+### [has_associated_review.private](/_private/schema-org/Relation/has/has_associated_review.private.md) 
+
+### [has_associated_review.personal](/_personal/schema-org/Relation/has/has_associated_review.personal.md) 
+
+### [has_associated_review.secret](/_secret/schema-org/Relation/has/has_associated_review.secret.md) 

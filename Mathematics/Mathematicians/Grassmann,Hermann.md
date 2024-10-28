@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Hermann Grassmann
   - Hermann Graßmann
@@ -25,3 +25,17 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20Grassmann)
 
+
+## Confidential Links & Embeds: 
+
+### [Grassmann,Hermann](/_public/Mathematics/Mathematicians/Grassmann,Hermann.md) 
+
+### [Grassmann,Hermann.internal](/_internal/Mathematics/Mathematicians/Grassmann,Hermann.internal.md) 
+
+### [Grassmann,Hermann.protect](/_protect/Mathematics/Mathematicians/Grassmann,Hermann.protect.md) 
+
+### [Grassmann,Hermann.private](/_private/Mathematics/Mathematicians/Grassmann,Hermann.private.md) 
+
+### [Grassmann,Hermann.personal](/_personal/Mathematics/Mathematicians/Grassmann,Hermann.personal.md) 
+
+### [Grassmann,Hermann.secret](/_secret/Mathematics/Mathematicians/Grassmann,Hermann.secret.md) 

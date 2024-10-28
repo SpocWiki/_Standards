@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An agent bookmarks/flags/labels/tags/marks an object.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BookmarkAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.md) 
+
+### [FileClass~BookmarkAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.internal.md) 
+
+### [FileClass~BookmarkAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.protect.md) 
+
+### [FileClass~BookmarkAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.private.md) 
+
+### [FileClass~BookmarkAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.personal.md) 
+
+### [FileClass~BookmarkAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.secret.md) 

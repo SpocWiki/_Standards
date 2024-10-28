@@ -41,10 +41,15 @@ A list of possible conditions for the item.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/offer_item_condition|offer_item_condition]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/offer_item_condition.public|offer_item_condition.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition.internal|offer_item_condition.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition.protect|offer_item_condition.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition.private|offer_item_condition.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition.personal|offer_item_condition.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition.secret|offer_item_condition.secret]] 
+
+### [offer_item_condition](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.md) 
+
+### [offer_item_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.internal.md) 
+
+### [offer_item_condition.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.protect.md) 
+
+### [offer_item_condition.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.private.md) 
+
+### [offer_item_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.personal.md) 
+
+### [offer_item_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 1.4
     - 172.967
@@ -142,10 +142,15 @@ Capital :: [[South_Tarawa]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Kiribati|Kiribati]] 
-- [[../../../../_public/Earth/Continent/Oceania/Kiribati.public|Kiribati.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Kiribati.internal|Kiribati.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Kiribati.protect|Kiribati.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Kiribati.private|Kiribati.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Kiribati.personal|Kiribati.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Kiribati.secret|Kiribati.secret]] 
+
+### [Kiribati](/_public/Earth/Continent/Australasia/Micronesia/Kiribati.md) 
+
+### [Kiribati.internal](/_internal/Earth/Continent/Australasia/Micronesia/Kiribati.internal.md) 
+
+### [Kiribati.protect](/_protect/Earth/Continent/Australasia/Micronesia/Kiribati.protect.md) 
+
+### [Kiribati.private](/_private/Earth/Continent/Australasia/Micronesia/Kiribati.private.md) 
+
+### [Kiribati.personal](/_personal/Earth/Continent/Australasia/Micronesia/Kiribati.personal.md) 
+
+### [Kiribati.secret](/_secret/Earth/Continent/Australasia/Micronesia/Kiribati.secret.md) 

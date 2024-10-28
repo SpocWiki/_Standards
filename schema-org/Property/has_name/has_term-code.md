@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Predicated describes that:
 #has_/sub_properties :: [ [[has_code_value]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_term_code|has_term_code]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_term_code.public|has_term_code.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_term_code.internal|has_term_code.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_term_code.protect|has_term_code.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_term_code.private|has_term_code.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_term_code.personal|has_term_code.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_term_code.secret|has_term_code.secret]] 
+
+### [has_term-code](/_public/schema-org/Property/has_name/has_term-code.md) 
+
+### [has_term-code.internal](/_internal/schema-org/Property/has_name/has_term-code.internal.md) 
+
+### [has_term-code.protect](/_protect/schema-org/Property/has_name/has_term-code.protect.md) 
+
+### [has_term-code.private](/_private/schema-org/Property/has_name/has_term-code.private.md) 
+
+### [has_term-code.personal](/_personal/schema-org/Property/has_name/has_term-code.personal.md) 
+
+### [has_term-code.secret](/_secret/schema-org/Property/has_name/has_term-code.secret.md) 

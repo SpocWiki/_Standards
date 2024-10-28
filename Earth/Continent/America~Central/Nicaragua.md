@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 12.15
     - -86.28
@@ -145,9 +145,15 @@ Capital :: [[Nicaragua/Counties/Managua/City/Managua]]
 
 
 ## Confidential Links & Embeds: 
-- [[Nicaragua|Nicaragua]] 
-- [[../../../../_internal/Earth/Continent/America~Central/Nicaragua.internal|Nicaragua.internal]] 
-- [[../../../../_protect/Earth/Continent/America~Central/Nicaragua.protect|Nicaragua.protect]] 
-- [[../../../../_private/Earth/Continent/America~Central/Nicaragua.private|Nicaragua.private]] 
-- [[../../../../_personal/Earth/Continent/America~Central/Nicaragua.personal|Nicaragua.personal]] 
-- [[../../../../_secret/Earth/Continent/America~Central/Nicaragua.secret|Nicaragua.secret]] 
+
+### [Nicaragua](/_public/Earth/Continent/America~Central/Nicaragua.md) 
+
+### [Nicaragua.internal](/_internal/Earth/Continent/America~Central/Nicaragua.internal.md) 
+
+### [Nicaragua.protect](/_protect/Earth/Continent/America~Central/Nicaragua.protect.md) 
+
+### [Nicaragua.private](/_private/Earth/Continent/America~Central/Nicaragua.private.md) 
+
+### [Nicaragua.personal](/_personal/Earth/Continent/America~Central/Nicaragua.personal.md) 
+
+### [Nicaragua.secret](/_secret/Earth/Continent/America~Central/Nicaragua.secret.md) 

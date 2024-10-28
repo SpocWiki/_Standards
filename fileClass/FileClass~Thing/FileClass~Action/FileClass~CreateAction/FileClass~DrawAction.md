@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of producing a visual/graphical representation of an object, typically w
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DrawAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.md) 
+
+### [FileClass~DrawAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.internal.md) 
+
+### [FileClass~DrawAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.protect.md) 
+
+### [FileClass~DrawAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.private.md) 
+
+### [FileClass~DrawAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.personal.md) 
+
+### [FileClass~DrawAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.secret.md) 

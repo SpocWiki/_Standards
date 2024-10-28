@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_video_format|has_video_format]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_video_format.public|has_video_format.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_video_format.internal|has_video_format.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_video_format.protect|has_video_format.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_video_format.private|has_video_format.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_video_format.personal|has_video_format.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_video_format.secret|has_video_format.secret]] 
+
+### [has_video_format](/_public/schema-org/Property/Texts/has_video_format.md) 
+
+### [has_video_format.internal](/_internal/schema-org/Property/Texts/has_video_format.internal.md) 
+
+### [has_video_format.protect](/_protect/schema-org/Property/Texts/has_video_format.protect.md) 
+
+### [has_video_format.private](/_private/schema-org/Property/Texts/has_video_format.private.md) 
+
+### [has_video_format.personal](/_personal/schema-org/Property/Texts/has_video_format.personal.md) 
+
+### [has_video_format.secret](/_secret/schema-org/Property/Texts/has_video_format.secret.md) 

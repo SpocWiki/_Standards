@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_margin_of_error|has_value_for_margin_of_error]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_margin_of_error.public|has_value_for_margin_of_error.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_margin_of_error.internal|has_value_for_margin_of_error.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_margin_of_error.protect|has_value_for_margin_of_error.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_margin_of_error.private|has_value_for_margin_of_error.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_margin_of_error.personal|has_value_for_margin_of_error.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_margin_of_error.secret|has_value_for_margin_of_error.secret]] 
+
+### [has_value_for_margin_of_error](/_public/schema-org/Property/has_value_for/has_value_for_margin_of_error.md) 
+
+### [has_value_for_margin_of_error.internal](/_internal/schema-org/Property/has_value_for/has_value_for_margin_of_error.internal.md) 
+
+### [has_value_for_margin_of_error.protect](/_protect/schema-org/Property/has_value_for/has_value_for_margin_of_error.protect.md) 
+
+### [has_value_for_margin_of_error.private](/_private/schema-org/Property/has_value_for/has_value_for_margin_of_error.private.md) 
+
+### [has_value_for_margin_of_error.personal](/_personal/schema-org/Property/has_value_for/has_value_for_margin_of_error.personal.md) 
+
+### [has_value_for_margin_of_error.secret](/_secret/schema-org/Property/has_value_for/has_value_for_margin_of_error.secret.md) 

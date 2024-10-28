@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_carrier_requirements|has_carrier_requirements]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_carrier_requirements.public|has_carrier_requirements.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_carrier_requirements.internal|has_carrier_requirements.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_carrier_requirements.protect|has_carrier_requirements.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_carrier_requirements.private|has_carrier_requirements.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_carrier_requirements.personal|has_carrier_requirements.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_carrier_requirements.secret|has_carrier_requirements.secret]] 
+
+### [has_carrier_requirements](/_public/schema-org/Property/Texts/has_carrier_requirements.md) 
+
+### [has_carrier_requirements.internal](/_internal/schema-org/Property/Texts/has_carrier_requirements.internal.md) 
+
+### [has_carrier_requirements.protect](/_protect/schema-org/Property/Texts/has_carrier_requirements.protect.md) 
+
+### [has_carrier_requirements.private](/_private/schema-org/Property/Texts/has_carrier_requirements.private.md) 
+
+### [has_carrier_requirements.personal](/_personal/schema-org/Property/Texts/has_carrier_requirements.personal.md) 
+
+### [has_carrier_requirements.secret](/_secret/schema-org/Property/Texts/has_carrier_requirements.secret.md) 

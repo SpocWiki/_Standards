@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 4.16667
     - 73.5
@@ -146,9 +146,15 @@ Capital :: [[Maldives/Counties/Malé/City/Malé]]
 
 
 ## Confidential Links & Embeds: 
-- [[Maldives|Maldives]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South/Maldives.internal|Maldives.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South/Maldives.protect|Maldives.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South/Maldives.private|Maldives.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South/Maldives.personal|Maldives.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South/Maldives.secret|Maldives.secret]] 
+
+### [Maldives](/_public/Earth/Continent/Asia/Asia~South/Maldives.md) 
+
+### [Maldives.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives.internal.md) 
+
+### [Maldives.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives.protect.md) 
+
+### [Maldives.private](/_private/Earth/Continent/Asia/Asia~South/Maldives.private.md) 
+
+### [Maldives.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives.personal.md) 
+
+### [Maldives.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives.secret.md) 

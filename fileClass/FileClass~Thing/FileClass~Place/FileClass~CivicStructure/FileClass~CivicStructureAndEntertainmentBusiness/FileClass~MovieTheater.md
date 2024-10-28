@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -41,3 +41,17 @@ The number of screens in the movie theater.
 
 ScreenCount:: {"type":"Number","options":{}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MovieTheater](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.md) 
+
+### [FileClass~MovieTheater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.internal.md) 
+
+### [FileClass~MovieTheater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.protect.md) 
+
+### [FileClass~MovieTheater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.private.md) 
+
+### [FileClass~MovieTheater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.personal.md) 
+
+### [FileClass~MovieTheater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.secret.md) 

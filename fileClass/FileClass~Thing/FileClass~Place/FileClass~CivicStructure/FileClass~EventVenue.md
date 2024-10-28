@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ An event venue.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~EventVenue](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.md) 
+
+### [FileClass~EventVenue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.internal.md) 
+
+### [FileClass~EventVenue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.protect.md) 
+
+### [FileClass~EventVenue.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.private.md) 
+
+### [FileClass~EventVenue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.personal.md) 
+
+### [FileClass~EventVenue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.secret.md) 

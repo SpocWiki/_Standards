@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_health_plan|has_id_health_plan]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_health_plan.public|has_id_health_plan.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_health_plan.internal|has_id_health_plan.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_health_plan.protect|has_id_health_plan.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_health_plan.private|has_id_health_plan.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_health_plan.personal|has_id_health_plan.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_health_plan.secret|has_id_health_plan.secret]] 
+
+### [has_id_health_plan](/_public/schema-org/Property/has_name/has_id_health_plan.md) 
+
+### [has_id_health_plan.internal](/_internal/schema-org/Property/has_name/has_id_health_plan.internal.md) 
+
+### [has_id_health_plan.protect](/_protect/schema-org/Property/has_name/has_id_health_plan.protect.md) 
+
+### [has_id_health_plan.private](/_private/schema-org/Property/has_name/has_id_health_plan.private.md) 
+
+### [has_id_health_plan.personal](/_personal/schema-org/Property/has_name/has_id_health_plan.personal.md) 
+
+### [has_id_health_plan.secret](/_secret/schema-org/Property/has_name/has_id_health_plan.secret.md) 

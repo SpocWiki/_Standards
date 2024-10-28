@@ -45,10 +45,15 @@ A house is a building or structure that has the ability to be occupied for habit
 [ #has_/properties :: [ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/accommodation/house|house]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/place/accommodation/house.public|house.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/house.internal|house.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/house.protect|house.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/accommodation/house.private|house.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/house.personal|house.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/house.secret|house.secret]] 
+
+### [house](/_public/schema-org/Class/is_a_/place/accommodation/house.md) 
+
+### [house.internal](/_internal/schema-org/Class/is_a_/place/accommodation/house.internal.md) 
+
+### [house.protect](/_protect/schema-org/Class/is_a_/place/accommodation/house.protect.md) 
+
+### [house.private](/_private/schema-org/Class/is_a_/place/accommodation/house.private.md) 
+
+### [house.personal](/_personal/schema-org/Class/is_a_/place/accommodation/house.personal.md) 
+
+### [house.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house.secret.md) 

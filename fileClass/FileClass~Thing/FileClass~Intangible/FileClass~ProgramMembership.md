@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -85,3 +85,17 @@ The program providing the membership.
 ProgramName:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ProgramMembership](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.md) 
+
+### [FileClass~ProgramMembership.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.internal.md) 
+
+### [FileClass~ProgramMembership.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.protect.md) 
+
+### [FileClass~ProgramMembership.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.private.md) 
+
+### [FileClass~ProgramMembership.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.personal.md) 
+
+### [FileClass~ProgramMembership.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 1.28
     - 103.85
@@ -152,9 +152,15 @@ Capital :: [[Singapore=Singapur]]
 
 
 ## Confidential Links & Embeds: 
-- [[Singapore|Singapore]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~East/Singapore.internal|Singapore.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~East/Singapore.protect|Singapore.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~East/Singapore.private|Singapore.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~East/Singapore.personal|Singapore.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~East/Singapore.secret|Singapore.secret]] 
+
+### [Singapore](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.md) 
+
+### [Singapore.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.internal.md) 
+
+### [Singapore.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.protect.md) 
+
+### [Singapore.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.private.md) 
+
+### [Singapore.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.personal.md) 
+
+### [Singapore.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.secret.md) 

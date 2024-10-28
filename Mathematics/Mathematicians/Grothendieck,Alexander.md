@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Alexander Grothendieck
 ---
@@ -37,3 +37,17 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Grothendieck)
 
 
+
+## Confidential Links & Embeds: 
+
+### [Grothendieck,Alexander](/_public/Mathematics/Mathematicians/Grothendieck,Alexander.md) 
+
+### [Grothendieck,Alexander.internal](/_internal/Mathematics/Mathematicians/Grothendieck,Alexander.internal.md) 
+
+### [Grothendieck,Alexander.protect](/_protect/Mathematics/Mathematicians/Grothendieck,Alexander.protect.md) 
+
+### [Grothendieck,Alexander.private](/_private/Mathematics/Mathematicians/Grothendieck,Alexander.private.md) 
+
+### [Grothendieck,Alexander.personal](/_personal/Mathematics/Mathematicians/Grothendieck,Alexander.personal.md) 
+
+### [Grothendieck,Alexander.secret](/_secret/Mathematics/Mathematicians/Grothendieck,Alexander.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 49.45
 - -2.55
@@ -125,10 +125,14 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~West/Guernsey|Guernsey]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~West/Guernsey.public|Guernsey.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~West/Guernsey.internal|Guernsey.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~West/Guernsey.protect|Guernsey.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~West/Guernsey.private|Guernsey.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~West/Guernsey.personal|Guernsey.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~West/Guernsey.secret|Guernsey.secret]] 
+### [Guernsey](/_public/Earth/Continent/Europe/Europe~West/Guernsey.md) 
+
+### [Guernsey.internal](/_internal/Earth/Continent/Europe/Europe~West/Guernsey.internal.md) 
+
+### [Guernsey.protect](/_protect/Earth/Continent/Europe/Europe~West/Guernsey.protect.md) 
+
+### [Guernsey.private](/_private/Earth/Continent/Europe/Europe~West/Guernsey.private.md) 
+
+### [Guernsey.personal](/_personal/Earth/Continent/Europe/Europe~West/Guernsey.personal.md) 
+
+### [Guernsey.secret](/_secret/Earth/Continent/Europe/Europe~West/Guernsey.secret.md) 

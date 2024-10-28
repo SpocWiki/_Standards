@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Drug )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_affected_by|is_affected_by]] 
-- [[../../../../../_public/schema-org/Relation/is/is_affected_by.public|is_affected_by.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_affected_by.internal|is_affected_by.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_affected_by.protect|is_affected_by.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_affected_by.private|is_affected_by.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_affected_by.personal|is_affected_by.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_affected_by.secret|is_affected_by.secret]] 
+
+### [is_affected_by](/_public/schema-org/Relation/is/is_affected_by.md) 
+
+### [is_affected_by.internal](/_internal/schema-org/Relation/is/is_affected_by.internal.md) 
+
+### [is_affected_by.protect](/_protect/schema-org/Relation/is/is_affected_by.protect.md) 
+
+### [is_affected_by.private](/_private/schema-org/Relation/is/is_affected_by.private.md) 
+
+### [is_affected_by.personal](/_personal/schema-org/Relation/is/is_affected_by.personal.md) 
+
+### [is_affected_by.secret](/_secret/schema-org/Relation/is/is_affected_by.secret.md) 

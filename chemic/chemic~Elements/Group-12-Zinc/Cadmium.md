@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -36,10 +36,15 @@ SpocWebEntityId: 21945
 > [Wikipedia](https://en.wikipedia.org/wiki/Cadmium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-12-Zinc/Cadmium|Cadmium]] 
-- [[../../../../_public/chemic/Elements/Group-12-Zinc/Cadmium.public|Cadmium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-12-Zinc/Cadmium.internal|Cadmium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-12-Zinc/Cadmium.protect|Cadmium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-12-Zinc/Cadmium.private|Cadmium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-12-Zinc/Cadmium.personal|Cadmium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-12-Zinc/Cadmium.secret|Cadmium.secret]] 
+
+### [Cadmium](/_public/chemic/chemic~Elements/Group-12-Zinc/Cadmium.md) 
+
+### [Cadmium.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Cadmium.internal.md) 
+
+### [Cadmium.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Cadmium.protect.md) 
+
+### [Cadmium.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Cadmium.private.md) 
+
+### [Cadmium.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Cadmium.personal.md) 
+
+### [Cadmium.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Cadmium.secret.md) 

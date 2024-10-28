@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_dropoff|has_location_dropoff]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_dropoff.public|has_location_dropoff.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_dropoff.internal|has_location_dropoff.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_dropoff.protect|has_location_dropoff.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_dropoff.private|has_location_dropoff.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_dropoff.personal|has_location_dropoff.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_dropoff.secret|has_location_dropoff.secret]] 
+
+### [has_location_dropoff](/_public/schema-org/Property/has_location/has_location_dropoff.md) 
+
+### [has_location_dropoff.internal](/_internal/schema-org/Property/has_location/has_location_dropoff.internal.md) 
+
+### [has_location_dropoff.protect](/_protect/schema-org/Property/has_location/has_location_dropoff.protect.md) 
+
+### [has_location_dropoff.private](/_private/schema-org/Property/has_location/has_location_dropoff.private.md) 
+
+### [has_location_dropoff.personal](/_personal/schema-org/Property/has_location/has_location_dropoff.personal.md) 
+
+### [has_location_dropoff.secret](/_secret/schema-org/Property/has_location/has_location_dropoff.secret.md) 

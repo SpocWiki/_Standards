@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,3 +44,17 @@ A sub property of location. The entertainment business where the action occurred
 EntertainmentBusiness:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PerformAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~PerformAction.md) 
+
+### [FileClass~PerformAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~PerformAction.internal.md) 
+
+### [FileClass~PerformAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~PerformAction.protect.md) 
+
+### [FileClass~PerformAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~PerformAction.private.md) 
+
+### [FileClass~PerformAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~PerformAction.personal.md) 
+
+### [FileClass~PerformAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~PerformAction.secret.md) 

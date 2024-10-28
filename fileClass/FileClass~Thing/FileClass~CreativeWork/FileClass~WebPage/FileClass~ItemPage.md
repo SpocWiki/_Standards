@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A page devoted to a single item, such as a particular product or hotel.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ItemPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.md) 
+
+### [FileClass~ItemPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.internal.md) 
+
+### [FileClass~ItemPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.protect.md) 
+
+### [FileClass~ItemPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.private.md) 
+
+### [FileClass~ItemPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.personal.md) 
+
+### [FileClass~ItemPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ItemPage.secret.md) 

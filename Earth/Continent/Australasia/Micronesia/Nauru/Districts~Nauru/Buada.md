@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.53 , 166.93 ] 
 type: geo-Region
 title: Buada
@@ -40,11 +40,15 @@ markerFolder: ./Buada/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Buada|Buada]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Buada.public|Buada.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Buada.internal|Buada.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Buada.protect|Buada.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Buada.private|Buada.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Buada.personal|Buada.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Buada.secret|Buada.secret]] 
 
+### [Buada](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.md) 
+
+### [Buada.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.internal.md) 
+
+### [Buada.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.protect.md) 
+
+### [Buada.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.private.md) 
+
+### [Buada.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.personal.md) 
+
+### [Buada.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.secret.md) 

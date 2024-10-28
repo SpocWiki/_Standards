@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - George Boole
 ---
@@ -54,3 +54,17 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Boole)
 
+
+## Confidential Links & Embeds: 
+
+### [Boole,George](/_public/Mathematics/Mathematicians/Boole,George.md) 
+
+### [Boole,George.internal](/_internal/Mathematics/Mathematicians/Boole,George.internal.md) 
+
+### [Boole,George.protect](/_protect/Mathematics/Mathematicians/Boole,George.protect.md) 
+
+### [Boole,George.private](/_private/Mathematics/Mathematicians/Boole,George.private.md) 
+
+### [Boole,George.personal](/_personal/Mathematics/Mathematicians/Boole,George.personal.md) 
+
+### [Boole,George.secret](/_secret/Mathematics/Mathematicians/Boole,George.secret.md) 

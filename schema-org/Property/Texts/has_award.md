@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_award|has_award]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_award.public|has_award.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_award.internal|has_award.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_award.protect|has_award.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_award.private|has_award.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_award.personal|has_award.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_award.secret|has_award.secret]] 
+
+### [has_award](/_public/schema-org/Property/Texts/has_award.md) 
+
+### [has_award.internal](/_internal/schema-org/Property/Texts/has_award.internal.md) 
+
+### [has_award.protect](/_protect/schema-org/Property/Texts/has_award.protect.md) 
+
+### [has_award.private](/_private/schema-org/Property/Texts/has_award.private.md) 
+
+### [has_award.personal](/_personal/schema-org/Property/Texts/has_award.personal.md) 
+
+### [has_award.secret](/_secret/schema-org/Property/Texts/has_award.secret.md) 

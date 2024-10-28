@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -64,3 +64,17 @@ The number of upvotes this question, answer or comment has received from the com
 UpvoteCount:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Comment](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.md) 
+
+### [FileClass~Comment.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.internal.md) 
+
+### [FileClass~Comment.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.protect.md) 
+
+### [FileClass~Comment.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.private.md) 
+
+### [FileClass~Comment.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.personal.md) 
+
+### [FileClass~Comment.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.secret.md) 

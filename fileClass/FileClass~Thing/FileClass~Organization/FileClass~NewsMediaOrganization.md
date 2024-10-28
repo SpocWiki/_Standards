@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -77,3 +77,17 @@ Disclosure about verification and fact-checking processes for a [[NewsMediaOrgan
 VerificationFactCheckingPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~NewsMediaOrganization](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.md) 
+
+### [FileClass~NewsMediaOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.internal.md) 
+
+### [FileClass~NewsMediaOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.protect.md) 
+
+### [FileClass~NewsMediaOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.private.md) 
+
+### [FileClass~NewsMediaOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.personal.md) 
+
+### [FileClass~NewsMediaOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.secret.md) 

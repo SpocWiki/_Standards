@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 60.1481
   - 20.3741
@@ -135,10 +135,15 @@ independent	 :: Part of FI ]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Åland~Islands|Åland~Islands]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Åland~Islands.public|Åland~Islands.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Åland~Islands.internal|Åland~Islands.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Åland~Islands.protect|Åland~Islands.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Åland~Islands.private|Åland~Islands.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Åland~Islands.personal|Åland~Islands.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Åland~Islands.secret|Åland~Islands.secret]] 
+
+### [Åland-Islands](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands.md) 
+
+### [Åland-Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands.internal.md) 
+
+### [Åland-Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands.protect.md) 
+
+### [Åland-Islands.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands.private.md) 
+
+### [Åland-Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands.personal.md) 
+
+### [Åland-Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands.secret.md) 

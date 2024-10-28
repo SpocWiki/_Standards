@@ -43,10 +43,15 @@ A notary.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/legal_service/notary|notary]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/legal_service/notary.public|notary.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/legal_service/notary.internal|notary.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/legal_service/notary.protect|notary.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/legal_service/notary.private|notary.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/legal_service/notary.personal|notary.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/legal_service/notary.secret|notary.secret]] 
+
+### [notary](/_public/schema-org/Class/is_a_/organization/local_business/legal_service/notary.md) 
+
+### [notary.internal](/_internal/schema-org/Class/is_a_/organization/local_business/legal_service/notary.internal.md) 
+
+### [notary.protect](/_protect/schema-org/Class/is_a_/organization/local_business/legal_service/notary.protect.md) 
+
+### [notary.private](/_private/schema-org/Class/is_a_/organization/local_business/legal_service/notary.private.md) 
+
+### [notary.personal](/_personal/schema-org/Class/is_a_/organization/local_business/legal_service/notary.personal.md) 
+
+### [notary.secret](/_secret/schema-org/Class/is_a_/organization/local_business/legal_service/notary.secret.md) 

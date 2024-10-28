@@ -43,10 +43,15 @@ A car wash business.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash|auto_wash]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.public|auto_wash.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.internal|auto_wash.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.protect|auto_wash.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.private|auto_wash.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.personal|auto_wash.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.secret|auto_wash.secret]] 
+
+### [auto_wash](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.md) 
+
+### [auto_wash.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.internal.md) 
+
+### [auto_wash.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.protect.md) 
+
+### [auto_wash.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.private.md) 
+
+### [auto_wash.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.personal.md) 
+
+### [auto_wash.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.secret.md) 

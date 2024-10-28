@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_alternative_headline|has_alternative_headline]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_alternative_headline.public|has_alternative_headline.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_alternative_headline.internal|has_alternative_headline.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_alternative_headline.protect|has_alternative_headline.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_alternative_headline.private|has_alternative_headline.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_alternative_headline.personal|has_alternative_headline.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_alternative_headline.secret|has_alternative_headline.secret]] 
+
+### [has_alternative_headline](/_public/schema-org/Property/Texts/has_alternative_headline.md) 
+
+### [has_alternative_headline.internal](/_internal/schema-org/Property/Texts/has_alternative_headline.internal.md) 
+
+### [has_alternative_headline.protect](/_protect/schema-org/Property/Texts/has_alternative_headline.protect.md) 
+
+### [has_alternative_headline.private](/_private/schema-org/Property/Texts/has_alternative_headline.private.md) 
+
+### [has_alternative_headline.personal](/_personal/schema-org/Property/Texts/has_alternative_headline.personal.md) 
+
+### [has_alternative_headline.secret](/_secret/schema-org/Property/Texts/has_alternative_headline.secret.md) 

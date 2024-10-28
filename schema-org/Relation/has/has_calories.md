@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Energy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_calories|has_calories]] 
-- [[../../../../../_public/schema-org/Relation/has/has_calories.public|has_calories.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_calories.internal|has_calories.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_calories.protect|has_calories.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_calories.private|has_calories.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_calories.personal|has_calories.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_calories.secret|has_calories.secret]] 
+
+### [has_calories](/_public/schema-org/Relation/has/has_calories.md) 
+
+### [has_calories.internal](/_internal/schema-org/Relation/has/has_calories.internal.md) 
+
+### [has_calories.protect](/_protect/schema-org/Relation/has/has_calories.protect.md) 
+
+### [has_calories.private](/_private/schema-org/Relation/has/has_calories.private.md) 
+
+### [has_calories.personal](/_personal/schema-org/Relation/has/has_calories.personal.md) 
+
+### [has_calories.secret](/_secret/schema-org/Relation/has/has_calories.secret.md) 

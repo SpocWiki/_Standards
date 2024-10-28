@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An OfferCatalog is an ItemList that contains related Offers and/or further Offer
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~OfferCatalog](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~OfferCatalog.md) 
+
+### [FileClass~OfferCatalog.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~OfferCatalog.internal.md) 
+
+### [FileClass~OfferCatalog.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~OfferCatalog.protect.md) 
+
+### [FileClass~OfferCatalog.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~OfferCatalog.private.md) 
+
+### [FileClass~OfferCatalog.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~OfferCatalog.personal.md) 
+
+### [FileClass~OfferCatalog.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~OfferCatalog.secret.md) 

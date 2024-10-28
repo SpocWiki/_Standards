@@ -43,10 +43,15 @@ The act of expressing a consistency of opinion with the object. An agent agrees 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/assess_action/react_action/agree_action|agree_action]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/action/assess_action/react_action/agree_action.public|agree_action.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.internal|agree_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.protect|agree_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.private|agree_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.personal|agree_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.secret|agree_action.secret]] 
+
+### [agree_action](/_public/schema-org/Class/is_a_/action/assess_action/react_action/agree_action.md) 
+
+### [agree_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/react_action/agree_action.internal.md) 
+
+### [agree_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action/react_action/agree_action.protect.md) 
+
+### [agree_action.private](/_private/schema-org/Class/is_a_/action/assess_action/react_action/agree_action.private.md) 
+
+### [agree_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/react_action/agree_action.personal.md) 
+
+### [agree_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action/agree_action.secret.md) 

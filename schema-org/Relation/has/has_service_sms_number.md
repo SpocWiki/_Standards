@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: ContactPoint )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_service_sms_number|has_service_sms_number]] 
-- [[../../../../../_public/schema-org/Relation/has/has_service_sms_number.public|has_service_sms_number.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_service_sms_number.internal|has_service_sms_number.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_service_sms_number.protect|has_service_sms_number.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_service_sms_number.private|has_service_sms_number.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_service_sms_number.personal|has_service_sms_number.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_service_sms_number.secret|has_service_sms_number.secret]] 
+
+### [has_service_sms_number](/_public/schema-org/Relation/has/has_service_sms_number.md) 
+
+### [has_service_sms_number.internal](/_internal/schema-org/Relation/has/has_service_sms_number.internal.md) 
+
+### [has_service_sms_number.protect](/_protect/schema-org/Relation/has/has_service_sms_number.protect.md) 
+
+### [has_service_sms_number.private](/_private/schema-org/Relation/has/has_service_sms_number.private.md) 
+
+### [has_service_sms_number.personal](/_personal/schema-org/Relation/has/has_service_sms_number.personal.md) 
+
+### [has_service_sms_number.secret](/_secret/schema-org/Relation/has/has_service_sms_number.secret.md) 

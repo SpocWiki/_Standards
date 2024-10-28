@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Predicate describes that:
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_high_price|has_value_for_high_price]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_high_price.public|has_value_for_high_price.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_high_price.internal|has_value_for_high_price.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_high_price.protect|has_value_for_high_price.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_high_price.private|has_value_for_high_price.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_high_price.personal|has_value_for_high_price.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_high_price.secret|has_value_for_high_price.secret]] 
+
+### [has_value_for_high_price](/_public/schema-org/Property/has_value_for/has_value_for_high_price.md) 
+
+### [has_value_for_high_price.internal](/_internal/schema-org/Property/has_value_for/has_value_for_high_price.internal.md) 
+
+### [has_value_for_high_price.protect](/_protect/schema-org/Property/has_value_for/has_value_for_high_price.protect.md) 
+
+### [has_value_for_high_price.private](/_private/schema-org/Property/has_value_for/has_value_for_high_price.private.md) 
+
+### [has_value_for_high_price.personal](/_personal/schema-org/Property/has_value_for/has_value_for_high_price.personal.md) 
+
+### [has_value_for_high_price.secret](/_secret/schema-org/Property/has_value_for/has_value_for_high_price.secret.md) 

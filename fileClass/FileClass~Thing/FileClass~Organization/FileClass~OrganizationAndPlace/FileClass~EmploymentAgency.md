@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An employment agency.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~EmploymentAgency](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.md) 
+
+### [FileClass~EmploymentAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.internal.md) 
+
+### [FileClass~EmploymentAgency.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.protect.md) 
+
+### [FileClass~EmploymentAgency.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.private.md) 
+
+### [FileClass~EmploymentAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.personal.md) 
+
+### [FileClass~EmploymentAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.secret.md) 

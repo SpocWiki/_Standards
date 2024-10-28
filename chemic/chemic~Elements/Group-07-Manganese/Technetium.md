@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -37,10 +37,15 @@ SpocWebEntityId: 21941
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-07-Manganese/Technetium|Technetium]] 
-- [[../../../../_public/chemic/Elements/Group-07-Manganese/Technetium.public|Technetium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-07-Manganese/Technetium.internal|Technetium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-07-Manganese/Technetium.protect|Technetium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-07-Manganese/Technetium.private|Technetium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-07-Manganese/Technetium.personal|Technetium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-07-Manganese/Technetium.secret|Technetium.secret]] 
+
+### [Technetium](/_public/chemic/chemic~Elements/Group-07-Manganese/Technetium.md) 
+
+### [Technetium.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Technetium.internal.md) 
+
+### [Technetium.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Technetium.protect.md) 
+
+### [Technetium.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Technetium.private.md) 
+
+### [Technetium.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Technetium.personal.md) 
+
+### [Technetium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Technetium.secret.md) 

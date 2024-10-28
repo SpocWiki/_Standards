@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: CreativeWork, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_documentation|has_documentation]] 
-- [[../../../../../_public/schema-org/Relation/has/has_documentation.public|has_documentation.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_documentation.internal|has_documentation.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_documentation.protect|has_documentation.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_documentation.private|has_documentation.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_documentation.personal|has_documentation.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_documentation.secret|has_documentation.secret]] 
+
+### [has_documentation](/_public/schema-org/Relation/has/has_documentation.md) 
+
+### [has_documentation.internal](/_internal/schema-org/Relation/has/has_documentation.internal.md) 
+
+### [has_documentation.protect](/_protect/schema-org/Relation/has/has_documentation.protect.md) 
+
+### [has_documentation.private](/_private/schema-org/Relation/has/has_documentation.private.md) 
+
+### [has_documentation.personal](/_personal/schema-org/Relation/has/has_documentation.personal.md) 
+
+### [has_documentation.secret](/_secret/schema-org/Relation/has/has_documentation.secret.md) 

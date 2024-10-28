@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalTest )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_identifying_test|has_identifying_test]] 
-- [[../../../../../_public/schema-org/Relation/has/has_identifying_test.public|has_identifying_test.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_identifying_test.internal|has_identifying_test.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_identifying_test.protect|has_identifying_test.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_identifying_test.private|has_identifying_test.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_identifying_test.personal|has_identifying_test.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_identifying_test.secret|has_identifying_test.secret]] 
+
+### [has_identifying_test](/_public/schema-org/Relation/has/has_identifying_test.md) 
+
+### [has_identifying_test.internal](/_internal/schema-org/Relation/has/has_identifying_test.internal.md) 
+
+### [has_identifying_test.protect](/_protect/schema-org/Relation/has/has_identifying_test.protect.md) 
+
+### [has_identifying_test.private](/_private/schema-org/Relation/has/has_identifying_test.private.md) 
+
+### [has_identifying_test.personal](/_personal/schema-org/Relation/has/has_identifying_test.personal.md) 
+
+### [has_identifying_test.secret](/_secret/schema-org/Relation/has/has_identifying_test.secret.md) 

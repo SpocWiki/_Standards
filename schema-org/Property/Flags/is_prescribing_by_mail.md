@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_prescribing_by_mail|is_prescribing_by_mail]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_prescribing_by_mail.public|is_prescribing_by_mail.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_prescribing_by_mail.internal|is_prescribing_by_mail.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_prescribing_by_mail.protect|is_prescribing_by_mail.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_prescribing_by_mail.private|is_prescribing_by_mail.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_prescribing_by_mail.personal|is_prescribing_by_mail.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_prescribing_by_mail.secret|is_prescribing_by_mail.secret]] 
+
+### [is_prescribing_by_mail](/_public/schema-org/Property/Flags/is_prescribing_by_mail.md) 
+
+### [is_prescribing_by_mail.internal](/_internal/schema-org/Property/Flags/is_prescribing_by_mail.internal.md) 
+
+### [is_prescribing_by_mail.protect](/_protect/schema-org/Property/Flags/is_prescribing_by_mail.protect.md) 
+
+### [is_prescribing_by_mail.private](/_private/schema-org/Property/Flags/is_prescribing_by_mail.private.md) 
+
+### [is_prescribing_by_mail.personal](/_personal/schema-org/Property/Flags/is_prescribing_by_mail.personal.md) 
+
+### [is_prescribing_by_mail.secret](/_secret/schema-org/Property/Flags/is_prescribing_by_mail.secret.md) 

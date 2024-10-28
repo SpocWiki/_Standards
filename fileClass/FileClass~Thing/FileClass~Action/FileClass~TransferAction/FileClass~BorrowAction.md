@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -48,3 +48,17 @@ A sub property of participant. The person that lends the object being borrowed.
 Lender:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BorrowAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.md) 
+
+### [FileClass~BorrowAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.internal.md) 
+
+### [FileClass~BorrowAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.protect.md) 
+
+### [FileClass~BorrowAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.private.md) 
+
+### [FileClass~BorrowAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.personal.md) 
+
+### [FileClass~BorrowAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.secret.md) 

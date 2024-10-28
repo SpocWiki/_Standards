@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,3 +44,17 @@ A component test of the panel.
 SubTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalTestPanel](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.md) 
+
+### [FileClass~MedicalTestPanel.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.internal.md) 
+
+### [FileClass~MedicalTestPanel.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.protect.md) 
+
+### [FileClass~MedicalTestPanel.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.private.md) 
+
+### [FileClass~MedicalTestPanel.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.personal.md) 
+
+### [FileClass~MedicalTestPanel.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.secret.md) 

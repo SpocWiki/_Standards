@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A motorcycle dealer.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MotorcycleDealer](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleDealer.md) 
+
+### [FileClass~MotorcycleDealer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleDealer.internal.md) 
+
+### [FileClass~MotorcycleDealer.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleDealer.protect.md) 
+
+### [FileClass~MotorcycleDealer.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleDealer.private.md) 
+
+### [FileClass~MotorcycleDealer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleDealer.personal.md) 
+
+### [FileClass~MotorcycleDealer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleDealer.secret.md) 

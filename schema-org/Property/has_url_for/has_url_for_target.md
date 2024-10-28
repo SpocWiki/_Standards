@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_target_url|has_url_for_target_url]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_target_url.public|has_url_for_target_url.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_target_url.internal|has_url_for_target_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_target_url.protect|has_url_for_target_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_target_url.private|has_url_for_target_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_target_url.personal|has_url_for_target_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_target_url.secret|has_url_for_target_url.secret]] 
+
+### [has_url_for_target](/_public/schema-org/Property/has_url_for/has_url_for_target.md) 
+
+### [has_url_for_target.internal](/_internal/schema-org/Property/has_url_for/has_url_for_target.internal.md) 
+
+### [has_url_for_target.protect](/_protect/schema-org/Property/has_url_for/has_url_for_target.protect.md) 
+
+### [has_url_for_target.private](/_private/schema-org/Property/has_url_for/has_url_for_target.private.md) 
+
+### [has_url_for_target.personal](/_personal/schema-org/Property/has_url_for/has_url_for_target.personal.md) 
+
+### [has_url_for_target.secret](/_secret/schema-org/Property/has_url_for/has_url_for_target.secret.md) 

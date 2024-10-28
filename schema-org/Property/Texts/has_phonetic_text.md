@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_phonetic_text|has_phonetic_text]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_phonetic_text.public|has_phonetic_text.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_phonetic_text.internal|has_phonetic_text.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_phonetic_text.protect|has_phonetic_text.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_phonetic_text.private|has_phonetic_text.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_phonetic_text.personal|has_phonetic_text.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_phonetic_text.secret|has_phonetic_text.secret]] 
+
+### [has_phonetic_text](/_public/schema-org/Property/Texts/has_phonetic_text.md) 
+
+### [has_phonetic_text.internal](/_internal/schema-org/Property/Texts/has_phonetic_text.internal.md) 
+
+### [has_phonetic_text.protect](/_protect/schema-org/Property/Texts/has_phonetic_text.protect.md) 
+
+### [has_phonetic_text.private](/_private/schema-org/Property/Texts/has_phonetic_text.private.md) 
+
+### [has_phonetic_text.personal](/_personal/schema-org/Property/Texts/has_phonetic_text.personal.md) 
+
+### [has_phonetic_text.secret](/_secret/schema-org/Property/Texts/has_phonetic_text.secret.md) 

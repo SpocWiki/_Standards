@@ -43,10 +43,15 @@ The act of asking someone to attend an event. Reciprocal of RsvpAction.
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action|invite_action]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.public|invite_action.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/communicate_action/invite_action.internal|invite_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/communicate_action/invite_action.protect|invite_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/interact_action/communicate_action/invite_action.private|invite_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/communicate_action/invite_action.personal|invite_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/communicate_action/invite_action.secret|invite_action.secret]] 
+
+### [invite_action](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.md) 
+
+### [invite_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.internal.md) 
+
+### [invite_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.protect.md) 
+
+### [invite_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.private.md) 
+
+### [invite_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.personal.md) 
+
+### [invite_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_message_attachment|has_message_attachment]] 
-- [[../../../../../_public/schema-org/Relation/has/has_message_attachment.public|has_message_attachment.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_message_attachment.internal|has_message_attachment.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_message_attachment.protect|has_message_attachment.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_message_attachment.private|has_message_attachment.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_message_attachment.personal|has_message_attachment.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_message_attachment.secret|has_message_attachment.secret]] 
+
+### [has_message_attachment](/_public/schema-org/Relation/has/has_message_attachment.md) 
+
+### [has_message_attachment.internal](/_internal/schema-org/Relation/has/has_message_attachment.internal.md) 
+
+### [has_message_attachment.protect](/_protect/schema-org/Relation/has/has_message_attachment.protect.md) 
+
+### [has_message_attachment.private](/_private/schema-org/Relation/has/has_message_attachment.private.md) 
+
+### [has_message_attachment.personal](/_personal/schema-org/Relation/has/has_message_attachment.personal.md) 
+
+### [has_message_attachment.secret](/_secret/schema-org/Relation/has/has_message_attachment.secret.md) 

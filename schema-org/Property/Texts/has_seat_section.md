@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_seat_section|has_seat_section]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_seat_section.public|has_seat_section.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_seat_section.internal|has_seat_section.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_seat_section.protect|has_seat_section.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_seat_section.private|has_seat_section.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_seat_section.personal|has_seat_section.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_seat_section.secret|has_seat_section.secret]] 
+
+### [has_seat_section](/_public/schema-org/Property/Texts/has_seat_section.md) 
+
+### [has_seat_section.internal](/_internal/schema-org/Property/Texts/has_seat_section.internal.md) 
+
+### [has_seat_section.protect](/_protect/schema-org/Property/Texts/has_seat_section.protect.md) 
+
+### [has_seat_section.private](/_private/schema-org/Property/Texts/has_seat_section.private.md) 
+
+### [has_seat_section.personal](/_personal/schema-org/Property/Texts/has_seat_section.personal.md) 
+
+### [has_seat_section.secret](/_secret/schema-org/Property/Texts/has_seat_section.secret.md) 

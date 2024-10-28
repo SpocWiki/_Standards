@@ -1,4 +1,4 @@
----
+﻿---
 title: United States of America
 type: Country
 
@@ -106,9 +106,15 @@ Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]
 
 
 ## Confidential Links & Embeds: 
-- [[USA|USA]] 
-- [[../../../../_internal/Earth/Continent/America~North/USA.internal|USA.internal]] 
-- [[../../../../_protect/Earth/Continent/America~North/USA.protect|USA.protect]] 
-- [[../../../../_private/Earth/Continent/America~North/USA.private|USA.private]] 
-- [[../../../../_personal/Earth/Continent/America~North/USA.personal|USA.personal]] 
-- [[../../../../_secret/Earth/Continent/America~North/USA.secret|USA.secret]] 
+
+### [USA](/_public/Earth/Continent/America~North/USA.md) 
+
+### [USA.internal](/_internal/Earth/Continent/America~North/USA.internal.md) 
+
+### [USA.protect](/_protect/Earth/Continent/America~North/USA.protect.md) 
+
+### [USA.private](/_private/Earth/Continent/America~North/USA.private.md) 
+
+### [USA.personal](/_personal/Earth/Continent/America~North/USA.personal.md) 
+
+### [USA.secret](/_secret/Earth/Continent/America~North/USA.secret.md) 

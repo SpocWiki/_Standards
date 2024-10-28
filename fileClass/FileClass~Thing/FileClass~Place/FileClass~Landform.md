@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -31,3 +31,17 @@ A landform or physical feature.  Landform elements include mountains, plains, la
 
 ## Properties:
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Landform](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.md) 
+
+### [FileClass~Landform.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.internal.md) 
+
+### [FileClass~Landform.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.protect.md) 
+
+### [FileClass~Landform.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.private.md) 
+
+### [FileClass~Landform.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.personal.md) 
+
+### [FileClass~Landform.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.secret.md) 

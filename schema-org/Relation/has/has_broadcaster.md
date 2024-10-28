@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_broadcaster|has_broadcaster]] 
-- [[../../../../../_public/schema-org/Relation/has/has_broadcaster.public|has_broadcaster.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_broadcaster.internal|has_broadcaster.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_broadcaster.protect|has_broadcaster.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_broadcaster.private|has_broadcaster.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_broadcaster.personal|has_broadcaster.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_broadcaster.secret|has_broadcaster.secret]] 
+
+### [has_broadcaster](/_public/schema-org/Relation/has/has_broadcaster.md) 
+
+### [has_broadcaster.internal](/_internal/schema-org/Relation/has/has_broadcaster.internal.md) 
+
+### [has_broadcaster.protect](/_protect/schema-org/Relation/has/has_broadcaster.protect.md) 
+
+### [has_broadcaster.private](/_private/schema-org/Relation/has/has_broadcaster.private.md) 
+
+### [has_broadcaster.personal](/_personal/schema-org/Relation/has/has_broadcaster.personal.md) 
+
+### [has_broadcaster.secret](/_secret/schema-org/Relation/has/has_broadcaster.secret.md) 

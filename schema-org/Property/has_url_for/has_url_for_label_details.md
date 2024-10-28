@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_label_details|has_url_for_label_details]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_label_details.public|has_url_for_label_details.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_label_details.internal|has_url_for_label_details.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_label_details.protect|has_url_for_label_details.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_label_details.private|has_url_for_label_details.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_label_details.personal|has_url_for_label_details.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_label_details.secret|has_url_for_label_details.secret]] 
+
+### [has_url_for_label_details](/_public/schema-org/Property/has_url_for/has_url_for_label_details.md) 
+
+### [has_url_for_label_details.internal](/_internal/schema-org/Property/has_url_for/has_url_for_label_details.internal.md) 
+
+### [has_url_for_label_details.protect](/_protect/schema-org/Property/has_url_for/has_url_for_label_details.protect.md) 
+
+### [has_url_for_label_details.private](/_private/schema-org/Property/has_url_for/has_url_for_label_details.private.md) 
+
+### [has_url_for_label_details.personal](/_personal/schema-org/Property/has_url_for/has_url_for_label_details.personal.md) 
+
+### [has_url_for_label_details.secret](/_secret/schema-org/Property/has_url_for/has_url_for_label_details.secret.md) 

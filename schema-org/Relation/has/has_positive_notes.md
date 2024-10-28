@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -54,10 +54,15 @@ Relation describes that:
 ( #has_/range :: ItemList, ListItem, Text, WebContent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_positive_notes|has_positive_notes]] 
-- [[../../../../../_public/schema-org/Relation/has/has_positive_notes.public|has_positive_notes.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_positive_notes.internal|has_positive_notes.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_positive_notes.protect|has_positive_notes.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_positive_notes.private|has_positive_notes.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_positive_notes.personal|has_positive_notes.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_positive_notes.secret|has_positive_notes.secret]] 
+
+### [has_positive_notes](/_public/schema-org/Relation/has/has_positive_notes.md) 
+
+### [has_positive_notes.internal](/_internal/schema-org/Relation/has/has_positive_notes.internal.md) 
+
+### [has_positive_notes.protect](/_protect/schema-org/Relation/has/has_positive_notes.protect.md) 
+
+### [has_positive_notes.private](/_private/schema-org/Relation/has/has_positive_notes.private.md) 
+
+### [has_positive_notes.personal](/_personal/schema-org/Relation/has/has_positive_notes.personal.md) 
+
+### [has_positive_notes.secret](/_secret/schema-org/Relation/has/has_positive_notes.secret.md) 

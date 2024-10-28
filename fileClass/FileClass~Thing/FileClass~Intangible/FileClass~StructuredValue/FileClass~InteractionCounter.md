@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -110,3 +110,17 @@ The number of interactions for the CreativeWork using the WebSite or SoftwareApp
 
 UserInteractionCount:: {"type":"Number","options":{}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~InteractionCounter](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.md) 
+
+### [FileClass~InteractionCounter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.internal.md) 
+
+### [FileClass~InteractionCounter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.protect.md) 
+
+### [FileClass~InteractionCounter.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.private.md) 
+
+### [FileClass~InteractionCounter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.personal.md) 
+
+### [FileClass~InteractionCounter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 3.75
 - 8.78333
@@ -142,9 +142,15 @@ Capital :: [[Malabo]]
 
 
 ## Confidential Links & Embeds: 
-- [[Equatorial_Guinea|Equatorial_Guinea]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.internal|Equatorial_Guinea.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.protect|Equatorial_Guinea.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.private|Equatorial_Guinea.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal|Equatorial_Guinea.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret|Equatorial_Guinea.secret]] 
+
+### [Equatorial_Guinea](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.md) 
+
+### [Equatorial_Guinea.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.internal.md) 
+
+### [Equatorial_Guinea.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.protect.md) 
+
+### [Equatorial_Guinea.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.private.md) 
+
+### [Equatorial_Guinea.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal.md) 
+
+### [Equatorial_Guinea.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret.md) 

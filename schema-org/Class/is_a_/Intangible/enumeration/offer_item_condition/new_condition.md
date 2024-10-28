@@ -45,10 +45,15 @@ Indicates that the item is new.
 [ #is_/enum_of :: [[../OfferItemCondition]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/offer_item_condition/new_condition|new_condition]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/offer_item_condition/new_condition.public|new_condition.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/new_condition.internal|new_condition.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/new_condition.protect|new_condition.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/new_condition.private|new_condition.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/new_condition.personal|new_condition.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/new_condition.secret|new_condition.secret]] 
+
+### [new_condition](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.md) 
+
+### [new_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.internal.md) 
+
+### [new_condition.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.protect.md) 
+
+### [new_condition.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.private.md) 
+
+### [new_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.personal.md) 
+
+### [new_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.secret.md) 

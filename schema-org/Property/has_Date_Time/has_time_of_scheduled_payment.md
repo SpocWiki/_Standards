@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_scheduled_payment|has_time_of_scheduled_payment]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_scheduled_payment.public|has_time_of_scheduled_payment.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_scheduled_payment.internal|has_time_of_scheduled_payment.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_scheduled_payment.protect|has_time_of_scheduled_payment.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_scheduled_payment.private|has_time_of_scheduled_payment.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_scheduled_payment.personal|has_time_of_scheduled_payment.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_scheduled_payment.secret|has_time_of_scheduled_payment.secret]] 
+
+### [has_time_of_scheduled_payment](/_public/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.md) 
+
+### [has_time_of_scheduled_payment.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.internal.md) 
+
+### [has_time_of_scheduled_payment.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.protect.md) 
+
+### [has_time_of_scheduled_payment.private](/_private/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.private.md) 
+
+### [has_time_of_scheduled_payment.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.personal.md) 
+
+### [has_time_of_scheduled_payment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.secret.md) 

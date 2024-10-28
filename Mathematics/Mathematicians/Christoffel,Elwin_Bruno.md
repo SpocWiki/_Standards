@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Elwin Bruno Christoffel
 ---
@@ -15,3 +15,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Christoffel,Elwin_Bruno](/_public/Mathematics/Mathematicians/Christoffel,Elwin_Bruno.md) 
+
+### [Christoffel,Elwin_Bruno.internal](/_internal/Mathematics/Mathematicians/Christoffel,Elwin_Bruno.internal.md) 
+
+### [Christoffel,Elwin_Bruno.protect](/_protect/Mathematics/Mathematicians/Christoffel,Elwin_Bruno.protect.md) 
+
+### [Christoffel,Elwin_Bruno.private](/_private/Mathematics/Mathematicians/Christoffel,Elwin_Bruno.private.md) 
+
+### [Christoffel,Elwin_Bruno.personal](/_personal/Mathematics/Mathematicians/Christoffel,Elwin_Bruno.personal.md) 
+
+### [Christoffel,Elwin_Bruno.secret](/_secret/Mathematics/Mathematicians/Christoffel,Elwin_Bruno.secret.md) 

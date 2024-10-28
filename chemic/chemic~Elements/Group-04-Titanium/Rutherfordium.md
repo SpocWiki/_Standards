@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -36,10 +36,15 @@ SpocWebEntityId: 21999
 > [Wikipedia](https://en.wikipedia.org/wiki/Rutherfordium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-04-Titanium/Rutherfordium|Rutherfordium]] 
-- [[../../../../_public/chemic/Elements/Group-04-Titanium/Rutherfordium.public|Rutherfordium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Rutherfordium.internal|Rutherfordium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Rutherfordium.protect|Rutherfordium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-04-Titanium/Rutherfordium.private|Rutherfordium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Rutherfordium.personal|Rutherfordium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Rutherfordium.secret|Rutherfordium.secret]] 
+
+### [Rutherfordium](/_public/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.md) 
+
+### [Rutherfordium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.internal.md) 
+
+### [Rutherfordium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.protect.md) 
+
+### [Rutherfordium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.private.md) 
+
+### [Rutherfordium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.personal.md) 
+
+### [Rutherfordium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.secret.md) 

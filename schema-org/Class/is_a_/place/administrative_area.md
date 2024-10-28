@@ -45,10 +45,15 @@ A geographical region, typically under the jurisdiction of a particular governme
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/place/administrative_area|administrative_area]] 
-- [[../../../../../_public/schema-org/Class/is_a_/place/administrative_area.public|administrative_area.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/place/administrative_area.internal|administrative_area.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/place/administrative_area.protect|administrative_area.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/place/administrative_area.private|administrative_area.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/place/administrative_area.personal|administrative_area.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/place/administrative_area.secret|administrative_area.secret]] 
+
+### [administrative_area](/_public/schema-org/Class/is_a_/place/administrative_area.md) 
+
+### [administrative_area.internal](/_internal/schema-org/Class/is_a_/place/administrative_area.internal.md) 
+
+### [administrative_area.protect](/_protect/schema-org/Class/is_a_/place/administrative_area.protect.md) 
+
+### [administrative_area.private](/_private/schema-org/Class/is_a_/place/administrative_area.private.md) 
+
+### [administrative_area.personal](/_personal/schema-org/Class/is_a_/place/administrative_area.personal.md) 
+
+### [administrative_area.secret](/_secret/schema-org/Class/is_a_/place/administrative_area.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -39,10 +39,15 @@ SpocWebEntityId: 21925
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-07-Manganese/Manganese|Manganese]] 
-- [[../../../../_public/chemic/Elements/Group-07-Manganese/Manganese.public|Manganese.public]] 
-- [[../../../../_internal/chemic/Elements/Group-07-Manganese/Manganese.internal|Manganese.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-07-Manganese/Manganese.protect|Manganese.protect]] 
-- [[../../../../_private/chemic/Elements/Group-07-Manganese/Manganese.private|Manganese.private]] 
-- [[../../../../_personal/chemic/Elements/Group-07-Manganese/Manganese.personal|Manganese.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-07-Manganese/Manganese.secret|Manganese.secret]] 
+
+### [Manganese](/_public/chemic/chemic~Elements/Group-07-Manganese/Manganese.md) 
+
+### [Manganese.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Manganese.internal.md) 
+
+### [Manganese.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Manganese.protect.md) 
+
+### [Manganese.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Manganese.private.md) 
+
+### [Manganese.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Manganese.personal.md) 
+
+### [Manganese.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Manganese.secret.md) 

@@ -1,4 +1,4 @@
-# Wiki Growth Process
+﻿# Wiki Growth Process
 In the process of expanding a Topic it happens regularly that a single Markdown File is not sufficient due to...
 - becoming too large: Notes should be atomic and easy to grasp at a glance and one consequence is that they should fit on a single Screen. 
 - additional (usually multimedia) Files need to be collected 
@@ -71,3 +71,17 @@ Therefore the Modules should typically be cloned into a temporary Folder and ver
 Nonetheless, private Repositories may find it useful to include this Repository as a Sub-Module for ease of use. 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Wiki-Growth-Process](/_public/Wiki-Growth-Process.md) 
+
+### [Wiki-Growth-Process.internal](/_internal/Wiki-Growth-Process.internal.md) 
+
+### [Wiki-Growth-Process.protect](/_protect/Wiki-Growth-Process.protect.md) 
+
+### [Wiki-Growth-Process.private](/_private/Wiki-Growth-Process.private.md) 
+
+### [Wiki-Growth-Process.personal](/_personal/Wiki-Growth-Process.personal.md) 
+
+### [Wiki-Growth-Process.secret](/_secret/Wiki-Growth-Process.secret.md) 

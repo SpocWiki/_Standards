@@ -45,10 +45,15 @@ Any physical manifestation of a person's medical condition discoverable by objec
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, identifyingExam, identifyingTest, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign|medical_sign]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.public|medical_sign.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.internal|medical_sign.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.protect|medical_sign.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.private|medical_sign.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.personal|medical_sign.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.secret|medical_sign.secret]] 
+
+### [medical_sign](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.md) 
+
+### [medical_sign.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.internal.md) 
+
+### [medical_sign.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.protect.md) 
+
+### [medical_sign.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.private.md) 
+
+### [medical_sign.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.personal.md) 
+
+### [medical_sign.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.secret.md) 

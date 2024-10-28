@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 49.6827
     - 6.07904
@@ -146,10 +146,15 @@ Capital :: [[geo/Continent/Europe/Europe~West/Luxembourg]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~West/Luxembourg|Luxembourg]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~West/Luxembourg.public|Luxembourg.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~West/Luxembourg.internal|Luxembourg.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~West/Luxembourg.protect|Luxembourg.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~West/Luxembourg.private|Luxembourg.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~West/Luxembourg.personal|Luxembourg.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~West/Luxembourg.secret|Luxembourg.secret]] 
+
+### [Luxembourg](/_public/Earth/Continent/Europe/Europe~West/Luxembourg.md) 
+
+### [Luxembourg.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg.internal.md) 
+
+### [Luxembourg.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg.protect.md) 
+
+### [Luxembourg.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg.private.md) 
+
+### [Luxembourg.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg.personal.md) 
+
+### [Luxembourg.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg.secret.md) 

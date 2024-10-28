@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -41.28
     - 174.78
@@ -147,10 +147,15 @@ Capital :: [[Wellington]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Australia/New_Zealand|New_Zealand]] 
-- [[../../../../_public/Earth/Continent/Australia/New_Zealand.public|New_Zealand.public]] 
-- [[../../../../_internal/Earth/Continent/Australia/New_Zealand.internal|New_Zealand.internal]] 
-- [[../../../../_protect/Earth/Continent/Australia/New_Zealand.protect|New_Zealand.protect]] 
-- [[../../../../_private/Earth/Continent/Australia/New_Zealand.private|New_Zealand.private]] 
-- [[../../../../_personal/Earth/Continent/Australia/New_Zealand.personal|New_Zealand.personal]] 
-- [[../../../../_secret/Earth/Continent/Australia/New_Zealand.secret|New_Zealand.secret]] 
+
+### [New_Zealand](/_public/Earth/Continent/Australasia/New_Zealand.md) 
+
+### [New_Zealand.internal](/_internal/Earth/Continent/Australasia/New_Zealand.internal.md) 
+
+### [New_Zealand.protect](/_protect/Earth/Continent/Australasia/New_Zealand.protect.md) 
+
+### [New_Zealand.private](/_private/Earth/Continent/Australasia/New_Zealand.private.md) 
+
+### [New_Zealand.personal](/_personal/Earth/Continent/Australasia/New_Zealand.personal.md) 
+
+### [New_Zealand.secret](/_secret/Earth/Continent/Australasia/New_Zealand.secret.md) 

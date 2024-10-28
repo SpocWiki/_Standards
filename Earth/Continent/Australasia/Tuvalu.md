@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -8.51667
     - 179.217
@@ -143,10 +143,15 @@ Capital :: [[Funafuti]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Tuvalu|Tuvalu]] 
-- [[../../../../_public/Earth/Continent/Oceania/Tuvalu.public|Tuvalu.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Tuvalu.internal|Tuvalu.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Tuvalu.protect|Tuvalu.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Tuvalu.private|Tuvalu.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Tuvalu.personal|Tuvalu.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Tuvalu.secret|Tuvalu.secret]] 
+
+### [Tuvalu](/_public/Earth/Continent/Australasia/Tuvalu.md) 
+
+### [Tuvalu.internal](/_internal/Earth/Continent/Australasia/Tuvalu.internal.md) 
+
+### [Tuvalu.protect](/_protect/Earth/Continent/Australasia/Tuvalu.protect.md) 
+
+### [Tuvalu.private](/_private/Earth/Continent/Australasia/Tuvalu.private.md) 
+
+### [Tuvalu.personal](/_personal/Earth/Continent/Australasia/Tuvalu.personal.md) 
+
+### [Tuvalu.secret](/_secret/Earth/Continent/Australasia/Tuvalu.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,3 +44,17 @@ A sub property of result. The review that resulted in the performing of the acti
 ResultReview:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Review')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ReviewAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReviewAction.md) 
+
+### [FileClass~ReviewAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReviewAction.internal.md) 
+
+### [FileClass~ReviewAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReviewAction.protect.md) 
+
+### [FileClass~ReviewAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReviewAction.private.md) 
+
+### [FileClass~ReviewAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReviewAction.personal.md) 
+
+### [FileClass~ReviewAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReviewAction.secret.md) 

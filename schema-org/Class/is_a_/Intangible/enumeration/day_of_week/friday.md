@@ -45,10 +45,15 @@ The day of the week between Thursday and Saturday.
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/friday|friday]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/day_of_week/friday.public|friday.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/friday.internal|friday.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/friday.protect|friday.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/friday.private|friday.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/friday.personal|friday.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/friday.secret|friday.secret]] 
+
+### [friday](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.md) 
+
+### [friday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.internal.md) 
+
+### [friday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.protect.md) 
+
+### [friday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.private.md) 
+
+### [friday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.personal.md) 
+
+### [friday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.secret.md) 

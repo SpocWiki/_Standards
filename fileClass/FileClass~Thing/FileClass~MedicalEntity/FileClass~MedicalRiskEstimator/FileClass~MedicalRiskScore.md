@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ The algorithm or rules to follow to compute the score.
 Algorithm:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalRiskScore](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.md) 
+
+### [FileClass~MedicalRiskScore.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.internal.md) 
+
+### [FileClass~MedicalRiskScore.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.protect.md) 
+
+### [FileClass~MedicalRiskScore.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.private.md) 
+
+### [FileClass~MedicalRiskScore.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.personal.md) 
+
+### [FileClass~MedicalRiskScore.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.secret.md) 

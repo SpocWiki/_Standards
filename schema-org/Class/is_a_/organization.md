@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,10 +41,15 @@ An organization such as a [[organization/educational_organization/school|school]
 [ #has_/properties :: [ [[../../Relation/has/has_actionable_feedback_policy|actionableFeedbackPolicy]], [[../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../Property/has_geo/has_location_address|address]], [[../../Relation/has/has_aggregate_rating|aggregateRating]], [[../../Property/Texts/has_alternate_name|alternateName]], [[../../Relation/has/has_alumni|alumni]], [[../../Relation/has/has_area_served|areaServed]], [[../../Property/Texts/has_award|award]], [[../../Relation/has/has_brand|brand]], [[../../Relation/has/has_contact_point|contactPoint]], [[../../Relation/has/has_corrections_policy|correctionsPolicy]], [[../../Relation/has/has_department|department]], [[../../Property/Texts/has_description|description]], [[../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../Property/has_Date_Time/has_time_of_dissolution|dissolutionDate]], [[../../Relation/has/has_diversity_policy|diversityPolicy]], [[../../Relation/has/has_diversity_staffing_report|diversityStaffingReport]], [[../../Property/Texts/has_duns|duns]], [[../../Property/Texts/has_email|email]], [[../../Relation/has/has_employees|employee]], [[../../Relation/has/has_ethics_policy|ethicsPolicy]], [[../../Relation/has/has_event|event]], [[../../Property/Texts/has_fax_number|faxNumber]], [[../../Relation/has/has_founder|founder]], [[../../Property/has_Date_Time/has_time_founded|foundingDate]], [[../../Property/has_geo/has_location_founding|foundingLocation]], [[../../Relation/has/has_funder|funder]], [[../../Relation/has/has_funding|funding]], [[../../Property/Texts/has_global_location_number|globalLocationNumber]], [[../../Relation/has/has_credential|hasCredential]], [[../../Relation/has/has_merchant_return_policy|hasMerchantReturnPolicy]], [[../../Relation/has/has_offer_catalog|hasOfferCatalog]], [[../../Property/has_geo/has_location_POS|hasPOS]], hasProductReturnPolicy, [[../../Relation/has/has_identifier|identifier]], [[../../Relation/has/has_image|image]], [[../../Relation/has/has_interaction_statistic|interactionStatistic]], [[../../Property/Texts/has_isic_v4|isicV4]], [[../../Property/Texts/has_iso6523code|iso6523Code]], [[../../Relation/has/has_keywords|keywords]], [[../../Property/Texts/has_knows_about|knowsAbout]], [[../../Relation/is/is_knowing_language|knowsLanguage]], [[../../Property/Texts/has_legal_name|legalName]], [[../../Property/Texts/has_lei_code|leiCode]], [[../../Property/has_geo/has_location_|location]], [[../../Relation/has/has_logo|logo]], [[../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../Relation/is/is_making_offer|makesOffer]], [[../../Relation/has/has_member|member]], [[../../Relation/is/is_member_of|memberOf]], [[../../Property/Texts/has_naics|naics]], [[../../Property/Texts/has_name|name]], [[../../Relation/has/has_nonprofit_status|nonprofitStatus]], [[../../Property/has_number_of/has_number_of_employees|numberOfEmployees]], [[../../Relation/has/has_ownership_funding_info|ownershipFundingInfo]], [[../../Relation/has/has_own|owns]], [[../../Relation/has/has_parent_organization|parentOrganization]], [[../../Relation/has/has_potential_action|potentialAction]], [[../../Relation/has/has_publishing_principles|publishingPrinciples]], [[../../Relation/has/has_review|review]], [[../../Relation/is_same_as|sameAs]], [[../../Relation/has/has_demand_for|seeks]], [[../../Relation/has/has_service_area|serviceArea]], [[../../Property/Texts/has_slogan|slogan]], [[../../Relation/has/has_sponsor|sponsor]], [[../../Relation/has/has_sub_organization|subOrganization]], [[../../Relation/is/is_subject_of|subjectOf]], [[../../Property/Texts/has_tax_id|taxID]], [[../../Property/Texts/has_telephone|telephone]], [[../../Relation/has/has_unnamed_sources_policy|unnamedSourcesPolicy]], [[../../Property/has_url_for|url]], [[../../Property/Texts/has_vat_id|vatID]] ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Class/is_a_/organization|organization]] 
-- [[../../../../_public/schema-org/Class/is_a_/organization.public|organization.public]] 
-- [[../../../../_internal/schema.org/Class/is_a_/organization.internal|organization.internal]] 
-- [[../../../../_protect/schema.org/Class/is_a_/organization.protect|organization.protect]] 
-- [[../../../../_private/schema.org/Class/is_a_/organization.private|organization.private]] 
-- [[../../../../_personal/schema.org/Class/is_a_/organization.personal|organization.personal]] 
-- [[../../../../_secret/schema.org/Class/is_a_/organization.secret|organization.secret]] 
+
+### [organization](/_public/schema-org/Class/is_a_/organization.md) 
+
+### [organization.internal](/_internal/schema-org/Class/is_a_/organization.internal.md) 
+
+### [organization.protect](/_protect/schema-org/Class/is_a_/organization.protect.md) 
+
+### [organization.private](/_private/schema-org/Class/is_a_/organization.private.md) 
+
+### [organization.personal](/_personal/schema-org/Class/is_a_/organization.personal.md) 
+
+### [organization.secret](/_secret/schema-org/Class/is_a_/organization.secret.md) 

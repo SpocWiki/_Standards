@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_health_plan_cost_sharing|is_health_plan_cost_sharing]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_health_plan_cost_sharing.public|is_health_plan_cost_sharing.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_health_plan_cost_sharing.internal|is_health_plan_cost_sharing.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_health_plan_cost_sharing.protect|is_health_plan_cost_sharing.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_health_plan_cost_sharing.private|is_health_plan_cost_sharing.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_health_plan_cost_sharing.personal|is_health_plan_cost_sharing.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_health_plan_cost_sharing.secret|is_health_plan_cost_sharing.secret]] 
+
+### [is_health_plan_cost_sharing](/_public/schema-org/Property/Flags/is_health_plan_cost_sharing.md) 
+
+### [is_health_plan_cost_sharing.internal](/_internal/schema-org/Property/Flags/is_health_plan_cost_sharing.internal.md) 
+
+### [is_health_plan_cost_sharing.protect](/_protect/schema-org/Property/Flags/is_health_plan_cost_sharing.protect.md) 
+
+### [is_health_plan_cost_sharing.private](/_private/schema-org/Property/Flags/is_health_plan_cost_sharing.private.md) 
+
+### [is_health_plan_cost_sharing.personal](/_personal/schema-org/Property/Flags/is_health_plan_cost_sharing.personal.md) 
+
+### [is_health_plan_cost_sharing.secret](/_secret/schema-org/Property/Flags/is_health_plan_cost_sharing.secret.md) 

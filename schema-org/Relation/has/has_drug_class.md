@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DrugClass )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_drug_class|has_drug_class]] 
-- [[../../../../../_public/schema-org/Relation/has/has_drug_class.public|has_drug_class.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_drug_class.internal|has_drug_class.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_drug_class.protect|has_drug_class.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_drug_class.private|has_drug_class.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_drug_class.personal|has_drug_class.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_drug_class.secret|has_drug_class.secret]] 
+
+### [has_drug_class](/_public/schema-org/Relation/has/has_drug_class.md) 
+
+### [has_drug_class.internal](/_internal/schema-org/Relation/has/has_drug_class.internal.md) 
+
+### [has_drug_class.protect](/_protect/schema-org/Relation/has/has_drug_class.protect.md) 
+
+### [has_drug_class.private](/_private/schema-org/Relation/has/has_drug_class.private.md) 
+
+### [has_drug_class.personal](/_personal/schema-org/Relation/has/has_drug_class.personal.md) 
+
+### [has_drug_class.secret](/_secret/schema-org/Relation/has/has_drug_class.secret.md) 

@@ -1,4 +1,4 @@
-
+﻿
 #has_/time_/started :: 1993-11-01  
 
 > The Treaty on European Union, commonly known as the Maastricht Treaty, is the foundation treaty of the European Union (EU). 
@@ -21,3 +21,17 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maastricht%20Treaty)
 
+
+## Confidential Links & Embeds: 
+
+### [EU-Treaty_of_Maastricht](/_public/Earth/Continent/Europe/EU-Treaty_of_Maastricht.md) 
+
+### [EU-Treaty_of_Maastricht.internal](/_internal/Earth/Continent/Europe/EU-Treaty_of_Maastricht.internal.md) 
+
+### [EU-Treaty_of_Maastricht.protect](/_protect/Earth/Continent/Europe/EU-Treaty_of_Maastricht.protect.md) 
+
+### [EU-Treaty_of_Maastricht.private](/_private/Earth/Continent/Europe/EU-Treaty_of_Maastricht.private.md) 
+
+### [EU-Treaty_of_Maastricht.personal](/_personal/Earth/Continent/Europe/EU-Treaty_of_Maastricht.personal.md) 
+
+### [EU-Treaty_of_Maastricht.secret](/_secret/Earth/Continent/Europe/EU-Treaty_of_Maastricht.secret.md) 

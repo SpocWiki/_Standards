@@ -45,10 +45,15 @@ Only consensus opinion of experts, case studies, or standard-of-care.
 [ #is_/enum_of :: [[../MedicalEvidenceLevel]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c|evidence_level_c]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.public|evidence_level_c.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.internal|evidence_level_c.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.protect|evidence_level_c.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.private|evidence_level_c.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.personal|evidence_level_c.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.secret|evidence_level_c.secret]] 
+
+### [evidence_level_c](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.md) 
+
+### [evidence_level_c.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.internal.md) 
+
+### [evidence_level_c.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.protect.md) 
+
+### [evidence_level_c.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.private.md) 
+
+### [evidence_level_c.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.personal.md) 
+
+### [evidence_level_c.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.secret.md) 

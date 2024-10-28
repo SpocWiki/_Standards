@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - American Book Award
   - National Book Award
@@ -36,3 +36,17 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Book%20Award)
 > 
 
+
+## Confidential Links & Embeds: 
+
+### [National_Book_Award](/_public/Mathematics/Mathematicians/National_Book_Award.md) 
+
+### [National_Book_Award.internal](/_internal/Mathematics/Mathematicians/National_Book_Award.internal.md) 
+
+### [National_Book_Award.protect](/_protect/Mathematics/Mathematicians/National_Book_Award.protect.md) 
+
+### [National_Book_Award.private](/_private/Mathematics/Mathematicians/National_Book_Award.private.md) 
+
+### [National_Book_Award.personal](/_personal/Mathematics/Mathematicians/National_Book_Award.personal.md) 
+
+### [National_Book_Award.secret](/_secret/Mathematics/Mathematicians/National_Book_Award.secret.md) 

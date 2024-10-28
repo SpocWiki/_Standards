@@ -57,10 +57,15 @@ Region = state, canton, prefecture, autonomous community...
 [ #has_/properties :: [ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/defined_region|defined_region]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/defined_region.public|defined_region.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/defined_region.internal|defined_region.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/defined_region.protect|defined_region.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/defined_region.private|defined_region.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/defined_region.personal|defined_region.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/defined_region.secret|defined_region.secret]] 
+
+### [defined_region](/_public/schema-org/Class/is_a_/Intangible/structured_value/defined_region.md) 
+
+### [defined_region.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/defined_region.internal.md) 
+
+### [defined_region.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/defined_region.protect.md) 
+
+### [defined_region.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/defined_region.private.md) 
+
+### [defined_region.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/defined_region.personal.md) 
+
+### [defined_region.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/defined_region.secret.md) 

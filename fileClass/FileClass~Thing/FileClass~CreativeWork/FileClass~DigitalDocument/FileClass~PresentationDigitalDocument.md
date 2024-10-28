@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A file containing slides or used for a presentation.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PresentationDigitalDocument](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~PresentationDigitalDocument.md) 
+
+### [FileClass~PresentationDigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~PresentationDigitalDocument.internal.md) 
+
+### [FileClass~PresentationDigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~PresentationDigitalDocument.protect.md) 
+
+### [FileClass~PresentationDigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~PresentationDigitalDocument.private.md) 
+
+### [FileClass~PresentationDigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~PresentationDigitalDocument.personal.md) 
+
+### [FileClass~PresentationDigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~PresentationDigitalDocument.secret.md) 

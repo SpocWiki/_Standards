@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,3 +44,17 @@ A mathematical expression (e.g. 'x^2-3x=0') that may be solved for a specific va
 MathExpression:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Action/SolveMathAction')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MathSolver](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.md) 
+
+### [FileClass~MathSolver.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.internal.md) 
+
+### [FileClass~MathSolver.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.protect.md) 
+
+### [FileClass~MathSolver.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.private.md) 
+
+### [FileClass~MathSolver.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.personal.md) 
+
+### [FileClass~MathSolver.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -75,3 +75,17 @@ Identifies the volume of publication or multi-part work; for example, "iii" or "
 VolumeNumber:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PublicationVolume](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.md) 
+
+### [FileClass~PublicationVolume.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.internal.md) 
+
+### [FileClass~PublicationVolume.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.protect.md) 
+
+### [FileClass~PublicationVolume.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.private.md) 
+
+### [FileClass~PublicationVolume.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.personal.md) 
+
+### [FileClass~PublicationVolume.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.secret.md) 

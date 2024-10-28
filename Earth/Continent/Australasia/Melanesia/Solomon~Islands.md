@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -9.46667
     - 159.817
@@ -135,10 +135,15 @@ Capital :: [[Honiara]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Solomon~Islands|Solomon~Islands]] 
-- [[../../../../_public/Earth/Continent/Oceania/Solomon~Islands.public|Solomon~Islands.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Solomon~Islands.internal|Solomon~Islands.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Solomon~Islands.protect|Solomon~Islands.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Solomon~Islands.private|Solomon~Islands.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Solomon~Islands.personal|Solomon~Islands.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Solomon~Islands.secret|Solomon~Islands.secret]] 
+
+### [Solomon~Islands](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands.md) 
+
+### [Solomon~Islands.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands.internal.md) 
+
+### [Solomon~Islands.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands.protect.md) 
+
+### [Solomon~Islands.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands.private.md) 
+
+### [Solomon~Islands.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands.personal.md) 
+
+### [Solomon~Islands.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A government building.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~GovernmentBuilding](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.md) 
+
+### [FileClass~GovernmentBuilding.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.internal.md) 
+
+### [FileClass~GovernmentBuilding.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.protect.md) 
+
+### [FileClass~GovernmentBuilding.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.private.md) 
+
+### [FileClass~GovernmentBuilding.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.personal.md) 
+
+### [FileClass~GovernmentBuilding.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding.secret.md) 

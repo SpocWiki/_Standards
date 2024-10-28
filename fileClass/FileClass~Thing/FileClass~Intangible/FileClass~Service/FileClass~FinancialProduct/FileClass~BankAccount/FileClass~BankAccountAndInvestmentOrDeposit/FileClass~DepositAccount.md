@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A type of Bank Account with a main purpose of depositing funds to gain interest 
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DepositAccount](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.md) 
+
+### [FileClass~DepositAccount.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.internal.md) 
+
+### [FileClass~DepositAccount.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.protect.md) 
+
+### [FileClass~DepositAccount.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.private.md) 
+
+### [FileClass~DepositAccount.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.personal.md) 
+
+### [FileClass~DepositAccount.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.secret.md) 

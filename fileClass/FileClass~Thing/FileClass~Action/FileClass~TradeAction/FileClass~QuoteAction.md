@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An agent quotes/estimates/appraises an object/product/service with a price at a 
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~QuoteAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.md) 
+
+### [FileClass~QuoteAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.internal.md) 
+
+### [FileClass~QuoteAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.protect.md) 
+
+### [FileClass~QuoteAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.private.md) 
+
+### [FileClass~QuoteAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.personal.md) 
+
+### [FileClass~QuoteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.secret.md) 

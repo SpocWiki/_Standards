@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Predicate describes that:
 ( #has_/range :: Number, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_place_longitude|has_place_longitude]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_place_longitude.public|has_place_longitude.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_place_longitude.internal|has_place_longitude.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_place_longitude.protect|has_place_longitude.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_place_longitude.private|has_place_longitude.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_place_longitude.personal|has_place_longitude.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_place_longitude.secret|has_place_longitude.secret]] 
+
+### [has_place_longitude](/_public/schema-org/Property/has_value_for/has_place_longitude.md) 
+
+### [has_place_longitude.internal](/_internal/schema-org/Property/has_value_for/has_place_longitude.internal.md) 
+
+### [has_place_longitude.protect](/_protect/schema-org/Property/has_value_for/has_place_longitude.protect.md) 
+
+### [has_place_longitude.private](/_private/schema-org/Property/has_value_for/has_place_longitude.private.md) 
+
+### [has_place_longitude.personal](/_personal/schema-org/Property/has_value_for/has_place_longitude.personal.md) 
+
+### [has_place_longitude.secret](/_secret/schema-org/Property/has_value_for/has_place_longitude.secret.md) 

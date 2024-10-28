@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - RDF-Schema
 ---
@@ -47,3 +47,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [rdfs](/_public/W3C/RDF(Resource_Description_Framework)/rdfs.md) 
+
+### [rdfs.internal](/_internal/W3C/RDF(Resource_Description_Framework)/rdfs.internal.md) 
+
+### [rdfs.protect](/_protect/W3C/RDF(Resource_Description_Framework)/rdfs.protect.md) 
+
+### [rdfs.private](/_private/W3C/RDF(Resource_Description_Framework)/rdfs.private.md) 
+
+### [rdfs.personal](/_personal/W3C/RDF(Resource_Description_Framework)/rdfs.personal.md) 
+
+### [rdfs.secret](/_secret/W3C/RDF(Resource_Description_Framework)/rdfs.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -9.06 , 160.2 ] 
 type: geo-Region
 title: Solomon~Islands~Central
@@ -40,11 +40,15 @@ markerFolder: ./Solomon~Islands~Central/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central|Solomon~Islands~Central]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.public|Solomon~Islands~Central.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.internal|Solomon~Islands~Central.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.protect|Solomon~Islands~Central.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.private|Solomon~Islands~Central.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.personal|Solomon~Islands~Central.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Solomon~Islands/Counties/Solomon~Islands~Central.secret|Solomon~Islands~Central.secret]] 
 
+### [Solomon~Islands~Central](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.md) 
+
+### [Solomon~Islands~Central.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.internal.md) 
+
+### [Solomon~Islands~Central.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.protect.md) 
+
+### [Solomon~Islands~Central.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.private.md) 
+
+### [Solomon~Islands~Central.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.personal.md) 
+
+### [Solomon~Islands~Central.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.secret.md) 

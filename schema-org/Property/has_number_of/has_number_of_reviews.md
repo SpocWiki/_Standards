@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_reviews|has_number_of_reviews]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_reviews.public|has_number_of_reviews.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_reviews.internal|has_number_of_reviews.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_reviews.protect|has_number_of_reviews.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_reviews.private|has_number_of_reviews.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_reviews.personal|has_number_of_reviews.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_reviews.secret|has_number_of_reviews.secret]] 
+
+### [has_number_of_reviews](/_public/schema-org/Property/has_number_of/has_number_of_reviews.md) 
+
+### [has_number_of_reviews.internal](/_internal/schema-org/Property/has_number_of/has_number_of_reviews.internal.md) 
+
+### [has_number_of_reviews.protect](/_protect/schema-org/Property/has_number_of/has_number_of_reviews.protect.md) 
+
+### [has_number_of_reviews.private](/_private/schema-org/Property/has_number_of/has_number_of_reviews.private.md) 
+
+### [has_number_of_reviews.personal](/_personal/schema-org/Property/has_number_of/has_number_of_reviews.personal.md) 
+
+### [has_number_of_reviews.secret](/_secret/schema-org/Property/has_number_of/has_number_of_reviews.secret.md) 

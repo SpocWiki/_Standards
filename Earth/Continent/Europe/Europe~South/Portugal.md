@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 42.1067
     - -5.10879
@@ -136,10 +136,15 @@ Capital :: [[Lissabon=Lisboa=Lisbon]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Portugal|Portugal]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Portugal.public|Portugal.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Portugal.internal|Portugal.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Portugal.protect|Portugal.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Portugal.private|Portugal.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Portugal.personal|Portugal.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Portugal.secret|Portugal.secret]] 
+
+### [Portugal](/_public/Earth/Continent/Europe/Europe~South/Portugal.md) 
+
+### [Portugal.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal.internal.md) 
+
+### [Portugal.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal.protect.md) 
+
+### [Portugal.private](/_private/Earth/Continent/Europe/Europe~South/Portugal.private.md) 
+
+### [Portugal.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal.personal.md) 
+
+### [Portugal.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret.md) 

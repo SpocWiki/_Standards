@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A Series in schema.org is a group of related items, typically but not necessaril
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Series](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.md) 
+
+### [FileClass~Series.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.internal.md) 
+
+### [FileClass~Series.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.protect.md) 
+
+### [FileClass~Series.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.private.md) 
+
+### [FileClass~Series.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.personal.md) 
+
+### [FileClass~Series.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.secret.md) 

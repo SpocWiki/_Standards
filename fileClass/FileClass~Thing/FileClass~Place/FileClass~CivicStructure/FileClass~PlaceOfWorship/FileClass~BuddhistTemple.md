@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A Buddhist temple.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BuddhistTemple](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~BuddhistTemple.md) 
+
+### [FileClass~BuddhistTemple.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~BuddhistTemple.internal.md) 
+
+### [FileClass~BuddhistTemple.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~BuddhistTemple.protect.md) 
+
+### [FileClass~BuddhistTemple.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~BuddhistTemple.private.md) 
+
+### [FileClass~BuddhistTemple.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~BuddhistTemple.personal.md) 
+
+### [FileClass~BuddhistTemple.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~BuddhistTemple.secret.md) 

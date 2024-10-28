@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 34.175
   - 51.555
@@ -222,9 +222,15 @@ Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran]]
 
 
 ## Confidential Links & Embeds: 
-- [[Iran|Iran]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Iran.internal|Iran.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Iran.protect|Iran.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Iran.private|Iran.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Iran.personal|Iran.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Iran.secret|Iran.secret]] 
+
+### [Iran](/_public/Earth/Continent/Asia/Asia~West/Iran.md) 
+
+### [Iran.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran.internal.md) 
+
+### [Iran.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran.protect.md) 
+
+### [Iran.private](/_private/Earth/Continent/Asia/Asia~West/Iran.private.md) 
+
+### [Iran.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran.personal.md) 
+
+### [Iran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran.secret.md) 

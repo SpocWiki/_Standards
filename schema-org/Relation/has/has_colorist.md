@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_colorist|has_colorist]] 
-- [[../../../../../_public/schema-org/Relation/has/has_colorist.public|has_colorist.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_colorist.internal|has_colorist.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_colorist.protect|has_colorist.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_colorist.private|has_colorist.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_colorist.personal|has_colorist.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_colorist.secret|has_colorist.secret]] 
+
+### [has_colorist](/_public/schema-org/Relation/has/has_colorist.md) 
+
+### [has_colorist.internal](/_internal/schema-org/Relation/has/has_colorist.internal.md) 
+
+### [has_colorist.protect](/_protect/schema-org/Relation/has/has_colorist.protect.md) 
+
+### [has_colorist.private](/_private/schema-org/Relation/has/has_colorist.private.md) 
+
+### [has_colorist.personal](/_personal/schema-org/Relation/has/has_colorist.personal.md) 
+
+### [has_colorist.secret](/_secret/schema-org/Relation/has/has_colorist.secret.md) 

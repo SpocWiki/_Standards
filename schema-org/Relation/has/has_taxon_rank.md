@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: PropertyValue, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_taxon_rank|has_taxon_rank]] 
-- [[../../../../../_public/schema-org/Relation/has/has_taxon_rank.public|has_taxon_rank.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_taxon_rank.internal|has_taxon_rank.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_taxon_rank.protect|has_taxon_rank.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_taxon_rank.private|has_taxon_rank.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_taxon_rank.personal|has_taxon_rank.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_taxon_rank.secret|has_taxon_rank.secret]] 
+
+### [has_taxon_rank](/_public/schema-org/Relation/has/has_taxon_rank.md) 
+
+### [has_taxon_rank.internal](/_internal/schema-org/Relation/has/has_taxon_rank.internal.md) 
+
+### [has_taxon_rank.protect](/_protect/schema-org/Relation/has/has_taxon_rank.protect.md) 
+
+### [has_taxon_rank.private](/_private/schema-org/Relation/has/has_taxon_rank.private.md) 
+
+### [has_taxon_rank.personal](/_personal/schema-org/Relation/has/has_taxon_rank.personal.md) 
+
+### [has_taxon_rank.secret](/_secret/schema-org/Relation/has/has_taxon_rank.secret.md) 

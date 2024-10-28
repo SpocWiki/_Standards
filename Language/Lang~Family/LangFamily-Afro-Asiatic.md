@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Afro-Asiatic|LangFamily-Afro-Asiatic]] 
-- [[../../../_public/lang/Family/LangFamily-Afro-Asiatic.public|LangFamily-Afro-Asiatic.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Afro-Asiatic.internal|LangFamily-Afro-Asiatic.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Afro-Asiatic.protect|LangFamily-Afro-Asiatic.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Afro-Asiatic.private|LangFamily-Afro-Asiatic.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Afro-Asiatic.personal|LangFamily-Afro-Asiatic.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Afro-Asiatic.secret|LangFamily-Afro-Asiatic.secret]] 
+
+### [LangFamily-Afro-Asiatic](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic.md) 
+
+### [LangFamily-Afro-Asiatic.internal](/_internal/Language/Lang~Family/LangFamily-Afro-Asiatic.internal.md) 
+
+### [LangFamily-Afro-Asiatic.protect](/_protect/Language/Lang~Family/LangFamily-Afro-Asiatic.protect.md) 
+
+### [LangFamily-Afro-Asiatic.private](/_private/Language/Lang~Family/LangFamily-Afro-Asiatic.private.md) 
+
+### [LangFamily-Afro-Asiatic.personal](/_personal/Language/Lang~Family/LangFamily-Afro-Asiatic.personal.md) 
+
+### [LangFamily-Afro-Asiatic.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic.secret.md) 

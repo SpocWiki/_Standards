@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 4.4 , 114.5 ] 
 type: geo-Region
 title: Belait
@@ -40,11 +40,15 @@ markerFolder: ./Belait/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Brunei/Counties/Belait|Belait]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Brunei/Counties/Belait.public|Belait.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Brunei/Counties/Belait.internal|Belait.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Brunei/Counties/Belait.protect|Belait.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Brunei/Counties/Belait.private|Belait.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Brunei/Counties/Belait.personal|Belait.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Brunei/Counties/Belait.secret|Belait.secret]] 
 
+### [Belait](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.md) 
+
+### [Belait.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.internal.md) 
+
+### [Belait.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.protect.md) 
+
+### [Belait.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.private.md) 
+
+### [Belait.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.personal.md) 
+
+### [Belait.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.secret.md) 

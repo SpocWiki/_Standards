@@ -43,10 +43,15 @@ For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of t
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/game_availability_enumeration|game_availability_enumeration]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/game_availability_enumeration.public|game_availability_enumeration.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration.internal|game_availability_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration.protect|game_availability_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration.private|game_availability_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration.personal|game_availability_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration.secret|game_availability_enumeration.secret]] 
+
+### [game_availability_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.md) 
+
+### [game_availability_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.internal.md) 
+
+### [game_availability_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.protect.md) 
+
+### [game_availability_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.private.md) 
+
+### [game_availability_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.personal.md) 
+
+### [game_availability_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,10 +50,15 @@ This Relation describes that:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_previous_item|has_previous_item]] 
-- [[../../../../../_public/schema-org/Relation/has/has_previous_item.public|has_previous_item.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_previous_item.internal|has_previous_item.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_previous_item.protect|has_previous_item.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_previous_item.private|has_previous_item.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_previous_item.personal|has_previous_item.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_previous_item.secret|has_previous_item.secret]] 
+
+### [has_previous_item](/_public/schema-org/Relation/has/has_previous_item.md) 
+
+### [has_previous_item.internal](/_internal/schema-org/Relation/has/has_previous_item.internal.md) 
+
+### [has_previous_item.protect](/_protect/schema-org/Relation/has/has_previous_item.protect.md) 
+
+### [has_previous_item.private](/_private/schema-org/Relation/has/has_previous_item.private.md) 
+
+### [has_previous_item.personal](/_personal/schema-org/Relation/has/has_previous_item.personal.md) 
+
+### [has_previous_item.secret](/_secret/schema-org/Relation/has/has_previous_item.secret.md) 

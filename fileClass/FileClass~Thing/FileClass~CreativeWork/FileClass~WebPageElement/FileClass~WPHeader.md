@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The header section of the page.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~WPHeader](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.md) 
+
+### [FileClass~WPHeader.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.internal.md) 
+
+### [FileClass~WPHeader.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.protect.md) 
+
+### [FileClass~WPHeader.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.private.md) 
+
+### [FileClass~WPHeader.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.personal.md) 
+
+### [FileClass~WPHeader.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.secret.md) 

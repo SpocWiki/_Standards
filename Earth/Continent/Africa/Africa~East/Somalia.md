@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 2.02
 - 45.33
@@ -144,9 +144,15 @@ Capital :: [Mogadischu=Mogadisho](Somalia/City/Mogadischu=Mogadisho.md)
 
 
 ## Confidential Links & Embeds: 
-- [Somalia](.md) 
-- [Somalia.internal](../../../../../_internal/Earth/Continent/Africa/Africa~East/Somalia.internal) 
-- [Somalia.protect](../../../../../_protect/Earth/Continent/Africa/Africa~East/Somalia.protect) 
-- [Somalia.private](../../../../../_private/Earth/Continent/Africa/Africa~East/Somalia.private) 
-- [Somalia.personal](../../../../../_personal/Earth/Continent/Africa/Africa~East/Somalia.personal) 
-- [Somalia.secret](../../../../../_secret/Earth/Continent/Africa/Africa~East/Somalia.secret) 
+
+### [Somalia](/_public/Earth/Continent/Africa/Africa~East/Somalia.md) 
+
+### [Somalia.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal.md) 
+
+### [Somalia.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect.md) 
+
+### [Somalia.private](/_private/Earth/Continent/Africa/Africa~East/Somalia.private.md) 
+
+### [Somalia.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal.md) 
+
+### [Somalia.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret.md) 

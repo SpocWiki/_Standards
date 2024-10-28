@@ -47,10 +47,15 @@ population, and does not imply that the population consists of people. For examp
 [ #has_/properties :: [ additionalType, alternateName, constrainingProperty, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints, populationType, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/statistical_population|statistical_population]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/statistical_population.public|statistical_population.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/statistical_population.internal|statistical_population.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/statistical_population.protect|statistical_population.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/statistical_population.private|statistical_population.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/statistical_population.personal|statistical_population.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/statistical_population.secret|statistical_population.secret]] 
+
+### [statistical_population](/_public/schema-org/Class/is_a_/Intangible/statistical_population.md) 
+
+### [statistical_population.internal](/_internal/schema-org/Class/is_a_/Intangible/statistical_population.internal.md) 
+
+### [statistical_population.protect](/_protect/schema-org/Class/is_a_/Intangible/statistical_population.protect.md) 
+
+### [statistical_population.private](/_private/schema-org/Class/is_a_/Intangible/statistical_population.private.md) 
+
+### [statistical_population.personal](/_personal/schema-org/Class/is_a_/Intangible/statistical_population.personal.md) 
+
+### [statistical_population.secret](/_secret/schema-org/Class/is_a_/Intangible/statistical_population.secret.md) 

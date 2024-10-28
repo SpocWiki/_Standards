@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~2~Cambrian_Series-2]] 
 
 #is_a_/time_/Epoch 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~2~Cambrian_Series-2](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.md) 
+
+### [Epoch~2~Cambrian_Series-2.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.internal.md) 
+
+### [Epoch~2~Cambrian_Series-2.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.protect.md) 
+
+### [Epoch~2~Cambrian_Series-2.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.private.md) 
+
+### [Epoch~2~Cambrian_Series-2.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.personal.md) 
+
+### [Epoch~2~Cambrian_Series-2.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.secret.md) 

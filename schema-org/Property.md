@@ -1,4 +1,4 @@
----
+﻿---
 has_time_created: 2023-10-03
 lang: 'en'
 license: CC BY-SA 4.0
@@ -83,10 +83,15 @@ MicroData
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/schema-org/Predicate/Property|Property]] 
-- [[../../../_public/schema-org/Predicate/Property.public|Property.public]] 
-- [[../../../_internal/schema.org/Predicate/Property.internal|Property.internal]] 
-- [[../../../_protect/schema.org/Predicate/Property.protect|Property.protect]] 
-- [[../../../_private/schema.org/Predicate/Property.private|Property.private]] 
-- [[../../../_personal/schema.org/Predicate/Property.personal|Property.personal]] 
-- [[../../../_secret/schema.org/Predicate/Property.secret|Property.secret]] 
+
+### [Property](/_public/schema-org/Property.md) 
+
+### [Property.internal](/_internal/schema-org/Property.internal.md) 
+
+### [Property.protect](/_protect/schema-org/Property.protect.md) 
+
+### [Property.private](/_private/schema-org/Property.private.md) 
+
+### [Property.personal](/_personal/schema-org/Property.personal.md) 
+
+### [Property.secret](/_secret/schema-org/Property.secret.md) 

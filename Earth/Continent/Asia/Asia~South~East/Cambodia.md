@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 11.55
     - 104.917
@@ -146,9 +146,15 @@ Capital :: [[Phnom_Penh]]
 
 
 ## Confidential Links & Embeds: 
-- [[Cambodia|Cambodia]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~East/Cambodia.internal|Cambodia.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~East/Cambodia.protect|Cambodia.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~East/Cambodia.private|Cambodia.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~East/Cambodia.personal|Cambodia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~East/Cambodia.secret|Cambodia.secret]] 
+
+### [Cambodia](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia.md) 
+
+### [Cambodia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia.internal.md) 
+
+### [Cambodia.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia.protect.md) 
+
+### [Cambodia.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia.private.md) 
+
+### [Cambodia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia.personal.md) 
+
+### [Cambodia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia.secret.md) 

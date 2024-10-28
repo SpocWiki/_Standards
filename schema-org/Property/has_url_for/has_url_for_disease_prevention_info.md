@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: URL, WebContent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_disease_prevention_info|has_url_for_disease_prevention_info]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_disease_prevention_info.public|has_url_for_disease_prevention_info.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_disease_prevention_info.internal|has_url_for_disease_prevention_info.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_disease_prevention_info.protect|has_url_for_disease_prevention_info.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_disease_prevention_info.private|has_url_for_disease_prevention_info.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_disease_prevention_info.personal|has_url_for_disease_prevention_info.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_disease_prevention_info.secret|has_url_for_disease_prevention_info.secret]] 
+
+### [has_url_for_disease_prevention_info](/_public/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.md) 
+
+### [has_url_for_disease_prevention_info.internal](/_internal/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.internal.md) 
+
+### [has_url_for_disease_prevention_info.protect](/_protect/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.protect.md) 
+
+### [has_url_for_disease_prevention_info.private](/_private/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.private.md) 
+
+### [has_url_for_disease_prevention_info.personal](/_personal/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.personal.md) 
+
+### [has_url_for_disease_prevention_info.secret](/_secret/schema-org/Property/has_url_for/has_url_for_disease_prevention_info.secret.md) 

@@ -43,10 +43,15 @@ A structured value representing the duration and scope of services that will be 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, warrantyScope ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/warranty_promise|warranty_promise]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/warranty_promise.public|warranty_promise.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/warranty_promise.internal|warranty_promise.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/warranty_promise.protect|warranty_promise.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/warranty_promise.private|warranty_promise.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/warranty_promise.personal|warranty_promise.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/warranty_promise.secret|warranty_promise.secret]] 
+
+### [warranty_promise](/_public/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.md) 
+
+### [warranty_promise.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.internal.md) 
+
+### [warranty_promise.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.protect.md) 
+
+### [warranty_promise.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.private.md) 
+
+### [warranty_promise.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.personal.md) 
+
+### [warranty_promise.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.secret.md) 

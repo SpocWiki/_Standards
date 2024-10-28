@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - William Kingdon Clifford
 ---
@@ -28,3 +28,17 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Kingdon%20Clifford)
 
+
+## Confidential Links & Embeds: 
+
+### [Clifford,William_Kingdon](/_public/Mathematics/Mathematicians/Clifford,William_Kingdon.md) 
+
+### [Clifford,William_Kingdon.internal](/_internal/Mathematics/Mathematicians/Clifford,William_Kingdon.internal.md) 
+
+### [Clifford,William_Kingdon.protect](/_protect/Mathematics/Mathematicians/Clifford,William_Kingdon.protect.md) 
+
+### [Clifford,William_Kingdon.private](/_private/Mathematics/Mathematicians/Clifford,William_Kingdon.private.md) 
+
+### [Clifford,William_Kingdon.personal](/_personal/Mathematics/Mathematicians/Clifford,William_Kingdon.personal.md) 
+
+### [Clifford,William_Kingdon.secret](/_secret/Mathematics/Mathematicians/Clifford,William_Kingdon.secret.md) 

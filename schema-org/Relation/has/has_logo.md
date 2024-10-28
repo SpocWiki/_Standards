@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: image ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_logo|has_logo]] 
-- [[../../../../../_public/schema-org/Relation/has/has_logo.public|has_logo.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_logo.internal|has_logo.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_logo.protect|has_logo.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_logo.private|has_logo.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_logo.personal|has_logo.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_logo.secret|has_logo.secret]] 
+
+### [has_logo](/_public/schema-org/Relation/has/has_logo.md) 
+
+### [has_logo.internal](/_internal/schema-org/Relation/has/has_logo.internal.md) 
+
+### [has_logo.protect](/_protect/schema-org/Relation/has/has_logo.protect.md) 
+
+### [has_logo.private](/_private/schema-org/Relation/has/has_logo.private.md) 
+
+### [has_logo.personal](/_personal/schema-org/Relation/has/has_logo.personal.md) 
+
+### [has_logo.secret](/_secret/schema-org/Relation/has/has_logo.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [1.56,110.345]
 type: Country
 tags:
@@ -42,10 +42,15 @@ Capital :: [[Kuching]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Asia/Sarawak|Sarawak]] 
-- [[../../../../_public/Earth/Continent/Asia/Sarawak.public|Sarawak.public]] 
-- [[../../../../_internal/Earth/Continent/Asia/Sarawak.internal|Sarawak.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/Sarawak.protect|Sarawak.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/Sarawak.private|Sarawak.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/Sarawak.personal|Sarawak.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/Sarawak.secret|Sarawak.secret]] 
+
+### [Sarawak](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.md) 
+
+### [Sarawak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.internal.md) 
+
+### [Sarawak.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.protect.md) 
+
+### [Sarawak.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.private.md) 
+
+### [Sarawak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.personal.md) 
+
+### [Sarawak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.secret.md) 

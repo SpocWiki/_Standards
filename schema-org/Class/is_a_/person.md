@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ A person (alive, dead, undead, or fictional).
 [ #has_/properties :: [ additionalName, additionalType, address, affiliation, alternateName, alumniOf, award, awards, birthDate, birthPlace, brand, callSign, children, colleague, colleagues, contactPoint, contactPoints, deathDate, deathPlace, description, disambiguatingDescription, duns, email, familyName, faxNumber, follows, funder, funding, gender, givenName, globalLocationNumber, hasCredential, hasOccupation, hasOfferCatalog, hasPOS, height, homeLocation, honorificPrefix, honorificSuffix, identifier, image, interactionStatistic, isicV4, jobTitle, knows, knowsAbout, knowsLanguage, mainEntityOfPage, makesOffer, memberOf, naics, name, nationality, netWorth, owns, parent, parents, performerIn, potentialAction, publishingPrinciples, relatedTo, sameAs, seeks, sibling, siblings, sponsor, spouse, subjectOf, taxID, telephone, url, vatID, weight, workLocation, worksFor ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Class/is_a_/person|person]] 
-- [[../../../../_public/schema-org/Class/is_a_/person.public|person.public]] 
-- [[../../../../_internal/schema.org/Class/is_a_/person.internal|person.internal]] 
-- [[../../../../_protect/schema.org/Class/is_a_/person.protect|person.protect]] 
-- [[../../../../_private/schema.org/Class/is_a_/person.private|person.private]] 
-- [[../../../../_personal/schema.org/Class/is_a_/person.personal|person.personal]] 
-- [[../../../../_secret/schema.org/Class/is_a_/person.secret|person.secret]] 
+
+### [Person](/_public/schema-org/Class/is_a_/Person.md) 
+
+### [Person.internal](/_internal/schema-org/Class/is_a_/Person.internal.md) 
+
+### [Person.protect](/_protect/schema-org/Class/is_a_/Person.protect.md) 
+
+### [Person.private](/_private/schema-org/Class/is_a_/Person.private.md) 
+
+### [Person.personal](/_personal/schema-org/Class/is_a_/Person.personal.md) 
+
+### [Person.secret](/_secret/schema-org/Class/is_a_/Person.secret.md) 

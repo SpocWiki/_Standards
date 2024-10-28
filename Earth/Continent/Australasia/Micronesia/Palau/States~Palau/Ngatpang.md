@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.48 , 134.54 ] 
 type: geo-Region
 title: Ngatpang
@@ -40,11 +40,15 @@ markerFolder: ./Ngatpang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Ngatpang|Ngatpang]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Ngatpang.public|Ngatpang.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Ngatpang.internal|Ngatpang.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Ngatpang.protect|Ngatpang.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Ngatpang.private|Ngatpang.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Ngatpang.personal|Ngatpang.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Ngatpang.secret|Ngatpang.secret]] 
 
+### [Ngatpang](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.md) 
+
+### [Ngatpang.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.internal.md) 
+
+### [Ngatpang.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.protect.md) 
+
+### [Ngatpang.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.private.md) 
+
+### [Ngatpang.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.personal.md) 
+
+### [Ngatpang.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.secret.md) 

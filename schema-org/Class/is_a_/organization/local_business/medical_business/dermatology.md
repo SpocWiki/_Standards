@@ -47,10 +47,15 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology|dermatology]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.public|dermatology.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/dermatology.internal|dermatology.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/dermatology.protect|dermatology.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/dermatology.private|dermatology.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/dermatology.personal|dermatology.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/dermatology.secret|dermatology.secret]] 
+
+### [dermatology](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.md) 
+
+### [dermatology.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.internal.md) 
+
+### [dermatology.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.protect.md) 
+
+### [dermatology.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.private.md) 
+
+### [dermatology.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.personal.md) 
+
+### [dermatology.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.secret.md) 

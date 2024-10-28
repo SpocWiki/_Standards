@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Event type: Social event.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SocialEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.md) 
+
+### [FileClass~SocialEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.internal.md) 
+
+### [FileClass~SocialEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.protect.md) 
+
+### [FileClass~SocialEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.private.md) 
+
+### [FileClass~SocialEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.personal.md) 
+
+### [FileClass~SocialEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.secret.md) 

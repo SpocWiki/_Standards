@@ -45,10 +45,15 @@ A description of an action that is supported.
 [ #is_/enum_of :: [[../ActionStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status|potential_action_status]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.public|potential_action_status.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.internal|potential_action_status.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.protect|potential_action_status.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.private|potential_action_status.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.personal|potential_action_status.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.secret|potential_action_status.secret]] 
+
+### [potential_action_status](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.md) 
+
+### [potential_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.internal.md) 
+
+### [potential_action_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.protect.md) 
+
+### [potential_action_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.private.md) 
+
+### [potential_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.personal.md) 
+
+### [potential_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.secret.md) 

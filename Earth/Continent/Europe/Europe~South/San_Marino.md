@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 43.93
     - 12.45
@@ -144,10 +144,15 @@ Capital :: [[San_Marino]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/San_Marino|San_Marino]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/San_Marino.public|San_Marino.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal|San_Marino.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect|San_Marino.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/San_Marino.private|San_Marino.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]] 
+
+### [San_Marino](/_public/Earth/Continent/Europe/Europe~South/San_Marino.md) 
+
+### [San_Marino.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal.md) 
+
+### [San_Marino.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect.md) 
+
+### [San_Marino.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino.private.md) 
+
+### [San_Marino.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal.md) 
+
+### [San_Marino.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret.md) 

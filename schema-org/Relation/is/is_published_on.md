@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: BroadcastService)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_published_on|is_published_on]] 
-- [[../../../../../_public/schema-org/Relation/is/is_published_on.public|is_published_on.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_published_on.internal|is_published_on.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_published_on.protect|is_published_on.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_published_on.private|is_published_on.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_published_on.personal|is_published_on.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_published_on.secret|is_published_on.secret]] 
+
+### [is_published_on](/_public/schema-org/Relation/is/is_published_on.md) 
+
+### [is_published_on.internal](/_internal/schema-org/Relation/is/is_published_on.internal.md) 
+
+### [is_published_on.protect](/_protect/schema-org/Relation/is/is_published_on.protect.md) 
+
+### [is_published_on.private](/_private/schema-org/Relation/is/is_published_on.private.md) 
+
+### [is_published_on.personal](/_personal/schema-org/Relation/is/is_published_on.personal.md) 
+
+### [is_published_on.secret](/_secret/schema-org/Relation/is/is_published_on.secret.md) 

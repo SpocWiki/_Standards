@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 4.6 , 114.7 ] 
 type: geo-Region
 title: Tutong
@@ -40,11 +40,15 @@ markerFolder: ./Tutong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Brunei/Counties/Tutong|Tutong]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Brunei/Counties/Tutong.public|Tutong.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Brunei/Counties/Tutong.internal|Tutong.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Brunei/Counties/Tutong.protect|Tutong.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Brunei/Counties/Tutong.private|Tutong.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Brunei/Counties/Tutong.personal|Tutong.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Brunei/Counties/Tutong.secret|Tutong.secret]] 
 
+### [Tutong](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.md) 
+
+### [Tutong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.internal.md) 
+
+### [Tutong.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.protect.md) 
+
+### [Tutong.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.private.md) 
+
+### [Tutong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.personal.md) 
+
+### [Tutong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.secret.md) 

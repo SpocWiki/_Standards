@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -1.94388
 - 30.0595
@@ -143,9 +143,15 @@ Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 
 
 ## Confidential Links & Embeds: 
-- [[Rwanda|Rwanda]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Rwanda.internal|Rwanda.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Rwanda.protect|Rwanda.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Rwanda.private|Rwanda.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Rwanda.personal|Rwanda.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Rwanda.secret|Rwanda.secret]] 
+
+### [Rwanda](/_public/Earth/Continent/Africa/Africa~Central/Rwanda.md) 
+
+### [Rwanda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda.internal.md) 
+
+### [Rwanda.protect](/_protect/Earth/Continent/Africa/Africa~Central/Rwanda.protect.md) 
+
+### [Rwanda.private](/_private/Earth/Continent/Africa/Africa~Central/Rwanda.private.md) 
+
+### [Rwanda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda.personal.md) 
+
+### [Rwanda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: jurisdiction, spatialCoverage ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_legislation_jurisdiction_of|is_legislation_jurisdiction_of]] 
-- [[../../../../../_public/schema-org/Relation/is/is_legislation_jurisdiction_of.public|is_legislation_jurisdiction_of.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_legislation_jurisdiction_of.internal|is_legislation_jurisdiction_of.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_legislation_jurisdiction_of.protect|is_legislation_jurisdiction_of.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_legislation_jurisdiction_of.private|is_legislation_jurisdiction_of.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_legislation_jurisdiction_of.personal|is_legislation_jurisdiction_of.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_legislation_jurisdiction_of.secret|is_legislation_jurisdiction_of.secret]] 
+
+### [is_legislation_jurisdiction_of](/_public/schema-org/Relation/is/is_legislation_jurisdiction_of.md) 
+
+### [is_legislation_jurisdiction_of.internal](/_internal/schema-org/Relation/is/is_legislation_jurisdiction_of.internal.md) 
+
+### [is_legislation_jurisdiction_of.protect](/_protect/schema-org/Relation/is/is_legislation_jurisdiction_of.protect.md) 
+
+### [is_legislation_jurisdiction_of.private](/_private/schema-org/Relation/is/is_legislation_jurisdiction_of.private.md) 
+
+### [is_legislation_jurisdiction_of.personal](/_personal/schema-org/Relation/is/is_legislation_jurisdiction_of.personal.md) 
+
+### [is_legislation_jurisdiction_of.secret](/_secret/schema-org/Relation/is/is_legislation_jurisdiction_of.secret.md) 

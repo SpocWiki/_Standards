@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MusicGroup, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_by_artist|is_by_artist]] 
-- [[../../../../../_public/schema-org/Relation/is/is_by_artist.public|is_by_artist.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_by_artist.internal|is_by_artist.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_by_artist.protect|is_by_artist.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_by_artist.private|is_by_artist.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_by_artist.personal|is_by_artist.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_by_artist.secret|is_by_artist.secret]] 
+
+### [is_by_artist](/_public/schema-org/Relation/is/is_by_artist.md) 
+
+### [is_by_artist.internal](/_internal/schema-org/Relation/is/is_by_artist.internal.md) 
+
+### [is_by_artist.protect](/_protect/schema-org/Relation/is/is_by_artist.protect.md) 
+
+### [is_by_artist.private](/_private/schema-org/Relation/is/is_by_artist.private.md) 
+
+### [is_by_artist.personal](/_personal/schema-org/Relation/is/is_by_artist.personal.md) 
+
+### [is_by_artist.secret](/_secret/schema-org/Relation/is/is_by_artist.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Formal Predicate:
 Is [sub_property_of::frequency]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_until_repeat|has_duration_until_repeat]] 
-- [[../../../../_public/schema-org/Predicate/Durations/has_duration_until_repeat.public|has_duration_until_repeat.public]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_until_repeat.internal|has_duration_until_repeat.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_until_repeat.protect|has_duration_until_repeat.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_until_repeat.private|has_duration_until_repeat.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_until_repeat.personal|has_duration_until_repeat.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_until_repeat.secret|has_duration_until_repeat.secret]] 
+
+### [has_duration_until_repeat](/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.md) 
+
+### [has_duration_until_repeat.internal](/_internal/schema-org/Property/has_duration_of/has_duration_until_repeat.internal.md) 
+
+### [has_duration_until_repeat.protect](/_protect/schema-org/Property/has_duration_of/has_duration_until_repeat.protect.md) 
+
+### [has_duration_until_repeat.private](/_private/schema-org/Property/has_duration_of/has_duration_until_repeat.private.md) 
+
+### [has_duration_until_repeat.personal](/_personal/schema-org/Property/has_duration_of/has_duration_until_repeat.personal.md) 
+
+### [has_duration_until_repeat.secret](/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret.md) 

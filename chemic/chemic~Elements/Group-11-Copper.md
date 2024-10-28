@@ -1,4 +1,4 @@
----
+﻿---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -16,10 +16,15 @@ type: ElementGroup
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/chemic/Elements/Group-11-Copper|Group-11-Copper]] 
-- [[../../../_public/chemic/Elements/Group-11-Copper.public|Group-11-Copper.public]] 
-- [[../../../_internal/chemic/Elements/Group-11-Copper.internal|Group-11-Copper.internal]] 
-- [[../../../_protect/chemic/Elements/Group-11-Copper.protect|Group-11-Copper.protect]] 
-- [[../../../_private/chemic/Elements/Group-11-Copper.private|Group-11-Copper.private]] 
-- [[../../../_personal/chemic/Elements/Group-11-Copper.personal|Group-11-Copper.personal]] 
-- [[../../../_secret/chemic/Elements/Group-11-Copper.secret|Group-11-Copper.secret]] 
+
+### [Group-11-Copper](/_public/chemic/chemic~Elements/Group-11-Copper.md) 
+
+### [Group-11-Copper.internal](/_internal/chemic/chemic~Elements/Group-11-Copper.internal.md) 
+
+### [Group-11-Copper.protect](/_protect/chemic/chemic~Elements/Group-11-Copper.protect.md) 
+
+### [Group-11-Copper.private](/_private/chemic/chemic~Elements/Group-11-Copper.private.md) 
+
+### [Group-11-Copper.personal](/_personal/chemic/chemic~Elements/Group-11-Copper.personal.md) 
+
+### [Group-11-Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper.secret.md) 

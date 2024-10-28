@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/inverse_of  :: partOfTrip ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sub_trip|has_sub_trip]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sub_trip.public|has_sub_trip.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sub_trip.internal|has_sub_trip.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sub_trip.protect|has_sub_trip.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sub_trip.private|has_sub_trip.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sub_trip.personal|has_sub_trip.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sub_trip.secret|has_sub_trip.secret]] 
+
+### [has_sub_trip](/_public/schema-org/Relation/has/has_sub_trip.md) 
+
+### [has_sub_trip.internal](/_internal/schema-org/Relation/has/has_sub_trip.internal.md) 
+
+### [has_sub_trip.protect](/_protect/schema-org/Relation/has/has_sub_trip.protect.md) 
+
+### [has_sub_trip.private](/_private/schema-org/Relation/has/has_sub_trip.private.md) 
+
+### [has_sub_trip.personal](/_personal/schema-org/Relation/has/has_sub_trip.personal.md) 
+
+### [has_sub_trip.secret](/_secret/schema-org/Relation/has/has_sub_trip.secret.md) 
