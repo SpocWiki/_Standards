@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deutschland (Germany)
 linkTitle: Germany
 type: Country
@@ -29,7 +29,6 @@ tags:
   - geo/Country
 aliases:
   - Deutschland
-  - DE
   - DEU
   - Germany
   - Alemania
@@ -37,8 +36,7 @@ aliases:
   - ألمانيا
   - 德国
   - Германия
-  - the Federal Republic of Germany
-  - la República Federal de Alemania
+
 Languages:
   - de
 head of state: "[[../../../../db/Frank-Walter Steinmeier]]"
@@ -693,8 +691,8 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 > [[Austria]] and [[Switzerland]] to the south, and [[France]], [[Luxembourg]], [[Belgium]], 
 > and the [[Netherlands]] to the west. 
 > 
-> The nation's capital and most populous city is [[../../../../WikiData/WD~Berlin,64]] 
-> and its main financial centre is [[Frankfurt]]; the largest urban area is the Ruhr.
+> The nation's capital and most populous city is [[Germany/Germany~West/State~Berlin/cities~Berlin/Berlin|Berlin]] 
+> and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
 >
 > Settlement in what is now Germany began in the Lower Paleolithic, 
 > with various tribes inhabiting it from the Neolithic onward, chiefly the Celts. 
