@@ -1,4 +1,4 @@
-﻿---
+---
 has_member:
   - "[[Europe~Central/Germany|Germany]]"
   - "[[Europe~West/France|France]]"
