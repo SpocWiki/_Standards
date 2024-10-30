@@ -1,4 +1,4 @@
-﻿---
+---
 icon: flag-eu
 has_id_wikidata: Q458 
 has_member:
@@ -32,6 +32,11 @@ has_member:
 aliases:
   - European Union
   - European_Union
+TableByName:
+  "EU(European_Union).tsv":
+    columns: ["country","submit-date", "result-date"]
+    headings:  
+
 ---
 
 
@@ -39,7 +44,9 @@ aliases:
 const path = require('path');
 const directoryName = path.dirname(dv.currentFilePath);
 dv.paragraph(directoryName)
+
 ```
+
 
 #has_/time_/started :: 1993-11-01 
 #has_/previous_item :: [[European_Communities(EC)]] 
@@ -124,70 +131,7 @@ but some are counted separately like [[Europe~West/France~Metropolitan|France~Me
 
 ## Applications for accession to the EU, [ECSC](https://en.wikipedia.org/wiki/European_Coal_and_Steel_Community "European Coal and Steel Community") or [EC](https://en.wikipedia.org/wiki/European_Communities "European Communities")
 
-| Applicant                                                       | Process                                                                                                                                                                       | Submitted         | Accession /  <br>failure rationale |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------- |
-| [[Europe~South/Albania\|Albania]]                               | [Albania](https://en.wikipedia.org/wiki/Accession_of_Albania_to_the_European_Union)                                                                                           | 28 April 2009     | Negotiating                        |
-| [[Europe~Central/Austria\|Austria]]                             | [Austria](https://en.wikipedia.org/wiki/Accession_of_Austria_to_the_European_Union "Accession of Austria to the European Union")                                              | 17 July 1989      | 1 January 1995                     |
-| [[Europe~West/Belgium\|Belgium]]                                | [Belgium](https://en.wikipedia.org/wiki/Inner_Six "Inner Six")                                                                                                                | Founder           | 23 July 1952                       |
-| [[Europe~South/Bosnia_and_Herzegovina\|Bosnia_and_Herzegovina]] | [Bosnia and Herzegovina](https://en.wikipedia.org/wiki/Accession_of_Bosnia_and_Herzegovina_to_the_European_Union "Accession of Bosnia and Herzegovina to the European Union") | 15 February 2016  | Candidate                          |
-| [[Europe~East/Bulgaria\|Bulgaria]]                              | [Bulgaria](https://en.wikipedia.org/wiki/Accession_of_Bulgaria_to_the_European_Union "Accession of Bulgaria to the European Union")                                           | 14 December 1995  | 1 January 2007                     |
-| [[Europe~Central/Croatia\|Croatia]]                             | [Croatia](https://en.wikipedia.org/wiki/Accession_of_Croatia_to_the_European_Union "Accession of Croatia to the European Union")                                              | 21 February 2003  | 1 July 2013                        |
-| [[Europe~South/Cyprus\|Cyprus]]                                 | [Cyprus](https://en.wikipedia.org/wiki/Accession_of_Cyprus_to_the_European_Union "Accession of Cyprus to the European Union")                                                 | 3 July 1990       | 1 May 2004                         |
-| [[Europe~Central/Czech_Republic\|Czech_Republic]]               | [Czech Republic](https://en.wikipedia.org/wiki/Accession_of_Czech_Republic_to_the_European_Union "Accession of Czech Republic to the European Union")                         | 17 January 1996   | 1 May 2004                         |
-| [[Europe~North/Denmark\|Denmark]]                               | [Denmark](https://en.wikipedia.org/wiki/Accession_of_Denmark_to_the_European_Union "Accession of Denmark to the European Union")                                              | 10 August 1961    | Withdrawn                          |
-| [[Europe~North/Denmark\|Denmark]]                               |                                                                                                                                                                               | 11 May 1967       | 1 January 1973<br>                 |
-| [[Europe~North/Estonia\|Estonia]]                               | [Estonia](https://en.wikipedia.org/wiki/Accession_of_Estonia_to_the_European_Union "Accession of Estonia to the European Union")                                              | 24 November 1995  | 1 May 2004                         |
-| [[Europe~North/Finland\|Finland]]                               | [Finland](https://en.wikipedia.org/wiki/Accession_of_Finland_to_the_European_Union "Accession of Finland to the European Union")                                              | 18 March 1992     | 1 January 1995                     |
-| [[Europe~West/France\|France]]                                  | [France](https://en.wikipedia.org/wiki/Inner_Six "Inner Six")                                                                                                                 | Founder           | 23 July 1952                       |
-| [[Europe~East/Georgia.Europe\|Georgia.Europe]]                  | [Georgia](https://en.wikipedia.org/wiki/Accession_of_Georgia_to_the_European_Union "Accession of Georgia to the European Union")                                              | 3 March 2022      | Candidate                          |
-| [[Europe~Central/Germany\|Germany]]                             | [West Germany](https://en.wikipedia.org/wiki/Inner_Six "Inner Six")                                                                                                           | Founder           | 23 July 1952                       |
-| [[Europe~South/Greece\|Greece]]                                 | [Greece](https://en.wikipedia.org/wiki/Accession_of_Greece_to_the_European_Union "Accession of Greece to the European Union")                                                 | 12 June 1975      | 1 January 1981                     |
-| [[Europe~East/Hungary\|Hungary]]                                | [Hungary](https://en.wikipedia.org/wiki/Accession_of_Hungary_to_the_European_Union "Accession of Hungary to the European Union")                                              | 31 March 1994     | 1 May 2004                         |
-| [[Europe~North/Iceland\|Iceland]]                               | [Iceland](https://en.wikipedia.org/wiki/Accession_of_Iceland_to_the_European_Union "Accession of Iceland to the European Union")                                              | 17 July 2009      | Withdrawn                          |
-| [[Europe~North/Ireland\|Ireland]]                               | [Ireland](https://en.wikipedia.org/wiki/Accession_of_Ireland_to_the_European_Union "Accession of Ireland to the European Union")                                              | 31 July 1961      | Withdrawn                          |
-| [[Europe~North/Ireland\|Ireland]]                               |                                                                                                                                                                               | 11 May 1967       | 1 January 1973                     |
-| [[Europe~South/Italy\|Italy]]                                   | [Italy](https://en.wikipedia.org/wiki/Inner_Six "Inner Six")                                                                                                                  | Founder           | 23 July 1952                       |
-| [[Europe~South/Kosovo\|Kosovo]]                                 | [Kosovo](https://en.wikipedia.org/wiki/Accession_of_Kosovo_to_the_European_Union "Accession of Kosovo to the European Union")                                                 | 14 December 2022  | Applicant                          |
-| [[Europe~North/Latvia\|Latvia]]                                 | [Latvia](https://en.wikipedia.org/wiki/Accession_of_Latvia_to_the_European_Union "Accession of Latvia to the European Union")                                                 | 13 September 1995 | 1 May 2004                         |
-| [[Europe~North/Lithuania\|Lithuania]]                           | [Lithuania](https://en.wikipedia.org/wiki/Accession_of_Lithuania_to_the_European_Union "Accession of Lithuania to the European Union")                                        | 8 December 1995   | 1 May 2004                         |
-| [[Europe~West/Luxembourg\|Luxembourg]]                          | [Luxembourg](https://en.wikipedia.org/wiki/Inner_Six "Inner Six")                                                                                                             | Founder           | 23 July 1952                       |
-| [[Europe~South/Macedonia~North\|Macedonia~North]]               | [North Macedonia](https://en.wikipedia.org/wiki/Accession_of_North_Macedonia_to_the_European_Union "Accession of North Macedonia to the European Union")                      | 22 March 2004     | Negotiating                        |
-| [[Europe~South/Malta\|Malta]]                                   | [Malta](https://en.wikipedia.org/wiki/Accession_of_Malta_to_the_European_Union "Accession of Malta to the European Union")                                                    | 16 July 1990      | 1 May 2004                         |
-| [[Europe~East/Moldova\|Moldova]]                                | [Moldova](https://en.wikipedia.org/wiki/Accession_of_Moldova_to_the_European_Union "Accession of Moldova to the European Union")                                              | 3 March 2022      | _Candidate_                        |
-| [[Europe~South/Montenegro\|Montenegro]]                         | [Montenegro](https://en.wikipedia.org/wiki/Accession_of_Montenegro_to_the_European_Union "Accession of Montenegro to the European Union")                                     | 15 December 2008  | Negotiating                        |
-| [[../Africa/Africa~North/Morocco\|Morocco]]                     | [Morocco](https://en.wikipedia.org/wiki/Accession_of_Morocco_to_the_European_Union "Accession of Morocco to the European Union")                                              | 20 July 1987      | Rejected                           |
-| [[Europe~West/Netherlands\|Netherlands]]                        | [Netherlands](https://en.wikipedia.org/wiki/Inner_Six "Inner Six")                                                                                                            | Founder           | 23 July 1952                       |
-| [[Europe~North/Norway\|Norway]]                                 | [Norway](https://en.wikipedia.org/wiki/Accession_of_Norway_to_the_European_Union "Accession of Norway to the European Union")                                                 | 30 April 1962     | Withdrawn                          |
-| [[Europe~North/Norway\|Norway]]                                 |                                                                                                                                                                               | 21 July 1967      | Withdrawn                          |
-| [[Europe~North/Norway\|Norway]]                                 |                                                                                                                                                                               | 25 November 1992  | Withdrawn                          |
-| [[Europe~East/Poland\|Poland]]                                  | [Poland](https://en.wikipedia.org/wiki/Accession_of_Poland_to_the_European_Union "Accession of Poland to the European Union")                                                 | 5 April 1994      | 1 May 2004                         |
-| [[Europe~South/Portugal\|Portugal]]                             | [Portugal](https://en.wikipedia.org/wiki/Accession_of_Portugal_to_the_European_Union "Accession of Portugal to the European Union")                                           | 28 March 1977     | 1 January 1986                     |
-| [[Europe~East/Romania\|Romania]]                                | [Romania](https://en.wikipedia.org/wiki/Accession_of_Romania_to_the_European_Union "Accession of Romania to the European Union")                                              | 22 June 1995      | 1 January 2007                     |
-| [[Europe~South/Serbia\|Serbia]]                                 | [Serbia](https://en.wikipedia.org/wiki/Accession_of_Serbia_to_the_European_Union "Accession of Serbia to the European Union")                                                 | 22 December 2009  | Negotiating                        |
-| [[Europe~Central/Slovakia\|Slovakia]]                           | [Slovakia](https://en.wikipedia.org/wiki/Accession_of_Slovakia_to_the_European_Union "Accession of Slovakia to the European Union")                                           | 27 June 1995      | 1 May 2004                         |
-| [[Europe~Central/Slovenia\|Slovenia]]                           | [Slovenia](https://en.wikipedia.org/wiki/Accession_of_Slovenia_to_the_European_Union "Accession of Slovenia to the European Union")                                           | 10 June 1996      | 1 May 2004                         |
-| [[Europe~South/Spain\|Spain]]                                   | [Spain](https://en.wikipedia.org/wiki/Accession_of_Spain_to_the_European_Union "Accession of Spain to the European Union")                                                    | 9 February 1962   | Rejected                           |
-| [[Europe~South/Spain\|Spain]]                                   |                                                                                                                                                                               | 28 June 1977      | 1 January 1986                     |
-| [[Europe~North/Sweden\|Sweden]]                                 | [Sweden](https://en.wikipedia.org/wiki/Accession_of_Sweden_to_the_European_Union "Accession of Sweden to the European Union")                                                 | 1 July 1991       | 1 January 1995                     |
-| [[Europe~Central/Switzerland\|Switzerland]]                     | [Switzerland](https://en.wikipedia.org/wiki/Accession_of_Switzerland_to_the_European_Union "Accession of Switzerland to the European Union")                                  | 25 May 1992       | Withdrawn                          |
-| [[Europe~East/Turkey\|Turkey]]                                  | [Turkey](https://en.wikipedia.org/wiki/Accession_of_Turkey_to_the_European_Union "Accession of Turkey to the European Union")                                                 | 14 April 1987     | Frozen negotiations                |
-| [[Europe~East/Ukraine\|Ukraine]]                                | [Ukraine](https://en.wikipedia.org/wiki/Accession_of_Ukraine_to_the_European_Union "Accession of Ukraine to the European Union")                                              | 28 February 2022  | Candidate                          |
-| [[Europe~North/UK\|United Kingdom]]                             | [United Kingdom](https://en.wikipedia.org/wiki/Accession_of_the_United_Kingdom_to_the_European_Union "Accession of the United Kingdom to the European Union")                 | 10 August 1961    | Vetoed by [[De_Gaulle~Charles]]    |
-| [[Europe~North/UK\|United Kingdom]]                             |                                                                                                                                                                               | 10 May 1967       | 1 January 1973                     |
-| [[Europe~North/UK\|United Kingdom]]                             | https://en.wikipedia.org/wiki/Brexit                                                                                                                                          | 2020-01-31        | Exited                             |
+```dataviewjs
+dv.view("TableByName", ["EU(European_Union).tsv"]);
+```
 
-
-
-## Confidential Links & Embeds: 
-
-### [EU(European_Union)](/_public/Earth/Continent/Europe/EU(European_Union).md) 
-
-### [EU(European_Union).internal](/_internal/Earth/Continent/Europe/EU(European_Union).internal.md) 
-
-### [EU(European_Union).protect](/_protect/Earth/Continent/Europe/EU(European_Union).protect.md) 
-
-### [EU(European_Union).private](/_private/Earth/Continent/Europe/EU(European_Union).private.md) 
-
-### [EU(European_Union).personal](/_personal/Earth/Continent/Europe/EU(European_Union).personal.md) 
-
-### [EU(European_Union).secret](/_secret/Earth/Continent/Europe/EU(European_Union).secret.md) 

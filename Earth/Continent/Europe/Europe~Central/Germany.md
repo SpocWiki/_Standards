@@ -676,11 +676,11 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 
 ## #has_/text_of_/abstract  
 
-> **Germany**, officially the Federal Republic of Germany, 
+> **Germany**, officially the [[Germany/Germany~West|Federal Republic of Germany]], 
 > is a country in the western region of Central Europe. 
 > 
-> It is the second-most populous country in Europe after Russia, 
-> and the most populous member state of the European Union. 
+> It is the second-most populous country in [[../../Europe|Europe]] after [[../Europe~East/Russia|Russia]], 
+> and the most populous member state of the [[../EU(European_Union)|European Union]]. 
 > 
 > Germany lies between the Baltic and North Sea to the north and the Alps to the south. 
 > 
@@ -694,8 +694,8 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 > The nation's capital and most populous city is [[Germany/Germany~West/State~Berlin/cities~Berlin/Berlin|Berlin]] 
 > and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
 >
-> Settlement in what is now Germany began in the Lower Paleolithic, 
-> with various tribes inhabiting it from the Neolithic onward, chiefly the Celts. 
+> Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/human-ages/Stone-Age/Paleolithic|Paleolithic]], 
+> with various tribes inhabiting it from the [[../../../../Time-Ages/human-ages/Stone-Age/Neolithic|Neolithic]] onward, chiefly the Celts. 
 > 
 > Various Germanic tribes have inhabited the northern parts of modern Germany 
 > since classical antiquity. A region named Germania was documented before AD 100. 
@@ -716,16 +716,16 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 > the Empire was in turn transformed into the semi-presidential Weimar Republic. 
 > 
 > The Nazi seizure of power in 1933 led to the establishment of a totalitarian dictatorship, 
-> World War II, and the Holocaust. 
+> [[../../../../../Knowledge/History/World_War_II|World War II]], and the [[../../../../../Knowledge/History/World_War_II/Holocaust|Holocaust]]. 
 > 
-> After the end of World War II in Europe and a period of Allied occupation, in 1949, 
+> After the end of [[../../../../../Knowledge/History/World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
 > Germany as a whole was organized into two separate polities with limited sovereignty: 
-> the Federal Republic of Germany, generally known as West Germany, 
-> and the German Democratic Republic, known as East Germany, 
-> while Berlin continued its de jure Four Power status. 
+> the [[Germany/Germany~West|Federal Republic of Germany]], generally known as West Germany, 
+> and the [[Germany/Germany~East|German Democratic Republic]], known as [[Germany/Germany~East|East Germany]], 
+> while [[Germany/Germany~West/State~Berlin/cities~Berlin/Berlin|Berlin]] continued its de jure Four Power status. 
 > 
 > The Federal Republic of Germany was 
-> a founding member of the European Economic Community and the European Union, 
+> a founding member of the European Economic Community and the [[../EU(European_Union)|European Union]], 
 > while the German Democratic Republic was a communist Eastern Bloc state 
 > and member of the Warsaw Pact. 
 > 
@@ -742,8 +742,8 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 > As a developed country it offers social security, a universal health care system, 
 > and tuition-free university education. 
 > 
-> Germany is a member of the United Nations, European Union, NATO, 
-> Council of Europe, G7, G20, and OECD. 
+> Germany is a member of the United Nations, [[../EU(European_Union)|European Union]], NATO, 
+> Council of Europe, G7, G20, and [[../../../../International/OECD|OECD]]. 
 > 
 > It has the third-greatest number of UNESCO World Heritage Sites.
 >

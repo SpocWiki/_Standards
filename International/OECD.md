@@ -3,6 +3,11 @@ aliases:
   - Organisation for Economic Co-operation and Development
   - Organisation de coopération et de développement économiques
   - OCDE
+TableByName:
+  "OECD.tsv":
+    columns: ["country","year"]
+    headings:  
+    
 ---
 
 #has_/time_/started :: 1961-06 
@@ -41,53 +46,7 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/OECD)
 
 
-
-| Country                                                                              | Year |
-| ------------------------------------------------------------------------------------ | ---: |
-| [[../Earth/Continent/Australasia/Australia\|Australia]]                              | 1971 |
-| [[../Earth/Continent/Europe/Europe~Central/Austria\|Austria]]                        | 1961 |
-| [[../Earth/Continent/Europe/Europe~West/Belgium\|Belgium]]                           | 1961 |
-| [[../Earth/Continent/America~North/Canada\|Canada]]                                  | 1961 |
-| [[../Earth/Continent/America~South/Chile\|Chile]]                                    | 2010 |
-| [[../Earth/Continent/America~South/Colombia\|Colombia]]                              | 2020 |
-| [[../Earth/Continent/America~Central/Costa_Rica\|Costa Rica]]                        | 2021 |
-| Czech Republic                                                                       | 1995 |
-| [[../Earth/Continent/Europe/Europe~North/Denmark\|Denmark]]                          | 1961 |
-| [[../Earth/Continent/Europe/Europe~North/Estonia\|Estonia]]                          | 2010 |
-| [[../Earth/Continent/Europe/Europe~North/Finland\|Finland]]                          | 1969 |
-| [[../Earth/Continent/Europe/Europe~West/France\|France]]                             | 1961 |
-| [[../Earth/Continent/Europe/Europe~Central/Germany\|Germany]]                        | 1961 |
-| [[../Earth/Continent/Europe/Europe~South/Greece\|Greece]]                            | 1961 |
-| [[../Earth/Continent/Europe/Europe~East/Hungary\|Hungary]]                           | 1996 |
-| [[../Earth/Continent/Europe/Europe~North/Iceland\|Iceland]]                          | 1961 |
-| [[../Earth/Continent/Europe/Europe~North/Ireland\|Ireland]]                          | 1961 |
-| [[../Earth/Continent/Asia/Asia~West/Israel\|Israel]]                                 | 2010 |
-| [[../Earth/Continent/Europe/Europe~South/Italy\|Italy]]                              | 1962 |
-| [[../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                                   | 1964 |
-| [[../Earth/Continent/Asia/Asia~East/Korea~South\|South Korea]]                       | 1996 |
-| [[../Earth/Continent/Europe/Europe~North/Latvia\|Latvia]]                            | 2016 |
-| [[../Earth/Continent/Europe/Europe~North/Lithuania\|Lithuania]]                      | 2018 |
-| [[../Earth/Continent/Europe/Europe~West/Luxembourg\|Luxembourg]]                     | 1961 |
-| [[../Earth/Continent/America~Central/Mexico\|Mexico]]                                | 1994 |
-| [[../Earth/Continent/Europe/Europe~West/Netherlands\|Netherlands]]                   | 1961 |
-| [[../Earth/Continent/Australasia/New_Zealand\|New Zealand]]                          | 1973 |
-| [[../Earth/Continent/Europe/Europe~North/Norway\|Norway]]                            | 1961 |
-| [[../Earth/Continent/Europe/Europe~East/Poland\|Poland]]                             | 1996 |
-| [[../Earth/Continent/Europe/Europe~South/Portugal\|Portugal]]                        | 1961 |
-| [[../Earth/Continent/Europe/Europe~Central/Slovakia\|Slovakia]]                      | 2000 |
-| [[../Earth/Continent/Europe/Europe~Central/Slovenia\|Slovenia]]                      | 2010 |
-| [[../Earth/Continent/Europe/Europe~South/Spain\|Spain]]                              | 1961 |
-| [[../Earth/Continent/Europe/Europe~North/Sweden\|Sweden]]                            | 1961 |
-| [[../Earth/Continent/Europe/Europe~Central/Switzerland\|Switzerland]]                | 1961 |
-| [[../Earth/Continent/Europe/Europe~East/Turkey\|Turkey]]                             | 1961 |
-| [[../Earth/Continent/Europe/Europe~North/UK\|United Kingdom]]                        | 1961 |
-| [[../Earth/Continent/America~North/USA\|United States]]                              | 1961 |
-| P:[[../Earth/Continent/America~South/Brazil\|Brazil]]                                |  N/A |
-| P:[[../Earth/Continent/Asia/Asia~East/China\|China]]                                 |  N/A |
-| P:[[../Earth/Continent/Asia/Asia~South/India\|India]]                                |  N/A |
-| P:[[../Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia\|Indonesia]] |  N/A |
-| P:[[../Earth/Continent/Africa/Africa~South/South_Africa\|South Africa]]              |  N/A |
-
-
-
+```dataviewjs
+dv.view("TableByName", ["OECD.tsv"]);
+```
 
