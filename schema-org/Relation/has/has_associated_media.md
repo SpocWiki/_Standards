@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -34,7 +34,11 @@ Use it like this:
 - [ #has_/associated_media :: MediaObject ] or 
 - [ has_associated_media :: MediaObject ] 
 
-A media object that encodes this CreativeWork. This property is a synonym for encoding.
+A media object that encodes this CreativeWork. 
+This property is a synonym for [[has_encoding|encoding]]. 
+
+#is_/same_as ::  [[has_encoding|encoding]] 
+
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, HyperToc, HyperTocEntry ]

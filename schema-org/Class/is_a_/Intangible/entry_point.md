@@ -1,3 +1,30 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - Type
+publish: true
+type: Type
+title: is_an_entry_point Class
+linkTitle: is_an_entry_point Class
+keywords:
+  - entry_point
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+aliases:
+  - entry-point
+  - entry_point
+  - EntryPoint
+  - is_an_entry_point
+  - Endpoint
+---
 ﻿---
 license: CC BY-SA 4.0
 confidential: public

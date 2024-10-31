@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,13 +31,13 @@ aliases:
 - has_text_of_encoding_type
 ---
 
-Predicate to describe the Text of EntryPoint.
+Predicate to describe the Text of a Service-[[../../Class/is_a_/Intangible/entry_point|EntryPoint]]. 
 
 Use it like this: 
 - [ #has_/text_of_/encoding_type :: Text ] or 
 - [ has_text_of_encoding_type :: Text ] 
 
-The supported encoding type(s) for an EntryPoint request.
+The supported encoding type(s) for an [[../../Class/is_a_/Intangible/entry_point|EntryPoint]] request.
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
