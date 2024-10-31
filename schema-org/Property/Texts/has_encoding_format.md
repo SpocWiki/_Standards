@@ -48,6 +48,10 @@ In cases where a [[CreativeWork]] has several media type representations,
 Unregistered or niche encoding and file formats can be indicated instead via the most appropriate URL, 
 e.g. defining Web page or a Wikipedia/Wikidata entry.
 
+#is_/similar_to :: [[has_content_type|contentType]] 
+#is_/similar_to :: [[has_encoding_type]] 
+#is_/different_from :: [[../../Relation/has/has_encoding|has_encoding]] 
+
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork, MediaObject ]
 ( #has_/name :: has_text_of_encoding_format )

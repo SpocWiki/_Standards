@@ -31,13 +31,16 @@ aliases:
 - has_text_of_encoding_type
 ---
 
-Predicate to describe the Text of a Service-[[../../Class/is_a_/Intangible/entry_point|EntryPoint]]. 
+Predicate to indicates the supported [[has_content_type|content-type]]s of a Service-[[../../Class/is_a_/Intangible/entry_point|EntryPoint]]. 
 
 Use it like this: 
 - [ #has_/text_of_/encoding_type :: Text ] or 
 - [ has_text_of_encoding_type :: Text ] 
 
 The supported encoding type(s) for an [[../../Class/is_a_/Intangible/entry_point|EntryPoint]] request.
+#is_/similar_to :: [[has_content_type|contentType]] 
+#is_/similar_to :: [[has_encoding_format|encodingFormat]] 
+#is_/different_from :: [[../../Relation/has/has_encoding|has_encoding]] 
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
