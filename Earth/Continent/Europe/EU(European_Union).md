@@ -1,6 +1,10 @@
 ---
 icon: flag-eu
 has_id_wikidata: Q458 
+TableByName:
+  "EU(European_Union).tsv":
+    columns: ["country","submit-date", "result-date"]
+    headings:  
 has_member:
   - "[[Europe~Central/Germany|Germany]]"
   - "[[Europe~West/France|France]]"
@@ -32,10 +36,6 @@ has_member:
 aliases:
   - European Union
   - European_Union
-TableByName:
-  "EU(European_Union).tsv":
-    columns: ["country","submit-date", "result-date"]
-    headings:  
 
 ---
 

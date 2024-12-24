@@ -29,6 +29,9 @@ has_member:
   - "[[Europe~Central/Switzerland]]"
   - "[[Europe~North/Iceland|Iceland]]"
   - "[[Europe~Central/Liechtenstein]]"
+aliases:
+  - Schengen Area
+  - Schengen_Area
 ---
 
 

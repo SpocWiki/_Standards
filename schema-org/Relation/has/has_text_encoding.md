@@ -2,6 +2,7 @@
 aliases:
   - Text Encoding
   - Character Encoding
+  - charset 
 ---
 Used to describe the Byte-Encoding of a Text. 
 
@@ -13,4 +14,29 @@ The Encoding of a non-Unicode-Document can __only be determined heuristically__.
 - [[XML]] Output-Encoding should be aligned to its (optional) Header, 
   which allows to determine the Output Encoding while operating in full Unicode. 
 - Unicode allows to determine the Encoding from the (optional) [[BOM]]. 
+
+## Encoding-Metadata 
+
+Many file formats specify encoding metadata within the file itself or in associated headers, 
+enabling applications to interpret the file correctly. 
+
+| File Format               | Encoding Declaration                            | Encoding Method                                                                   |
+| ------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------- |
+| XML                       | `<?xml version="1.0" encoding="UTF-8"?>`        | XML declaration in header                                                         |
+| DOCX                      | Follows XML declarations                        | XML encoding in sub-files                                                         |
+| HTML                      | `<meta charset="UTF-8">`                        | Meta tag in `<head>`                                                              |
+| HTTP                      | `Content-Type: <mime-type>; charset=<encoding>` | Charset                                                                           |
+| HTTP                      | `Content-Encoding: <compress>`                  | Describes additional Compression <br>`gzip`, `deflate`, `br`                      |
+| Python (.py)              | `# -*- coding: utf-8 -*-`                       | Encoding comment at file start                                                    |
+| Ruby (.rb)                | `# encoding: utf-8`                             | Encoding comment at file start                                                    |
+| PDF                       | Encoding in text objects                        | Internal encoding metadata                                                        |
+| [[RTF(Rich_Text_Format)]] | `\ansi`, `\mac`, `\pc`, `\pca` or `\ansicpgN`   | Control words in file content e.g. `\ansicpg1250`, `\ansicpg1251`, `\ansicpg1252` |
+| CSV                       | Convention: UTF-8                               | No declaration; BOM sometimes used                                                |
+| JSON                      | Convention: UTF-8                               | No explicit declaration; assumed UTF-8                                            |
+| YAML                      | Convention: UTF-8                               | UTF-8, optionally UTF-16 with BOM                                                 |
+| SRT                       | Convention: UTF-8                               | Typically UTF-8 or UTF-16 with BOM                                                |
+| Properties (Java)         | ISO-8859-1 default                              | ASCII escapes for Unicode                                                         |
+| MP3 (ID3 tags)            | ID3 tag encoding field                          | Metadata encoding for display text                                                |
+
+Many applications rely on conventions (e.g., UTF-8 by default) or assume encoding based on a BOM marker if present. For maximum compatibility, UTF-8 is widely recommended across most formats.
 

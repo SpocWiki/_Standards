@@ -1,4 +1,4 @@
-﻿# [[Chemists]] 
+﻿#[[Chemist]]] 
 
 > A chemist (from Greek chēm(ía) alchemy; 
 > replacing chymist from Medieval Latin alchemist) 
