@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 38.6175
     - 23.0356
@@ -130,7 +130,7 @@ markerFolder: ./Greece////
 [Area-Land::128900]
 has_place_continent:: [[_public/Earth/Continent/Europe]]  
 [VehicleCode::GR]
-Capital :: [[Athenas]]  
+Capital :: [[Greece/Regions-Greek/Attica/cities~Attica/Athens|Athens]]   
 ![[_public/Earth/Continent/Europe/Europe~South/Greece/Coat_of_arms_of_Greece.svg|350]] 
 ![[_public/xLarge/National-Anthem/Anthem-Greece.mp3]]
 ![[_public/Earth/Continent/Europe/Europe~South/Greece/Flag_of_Greece.svg|350]] 
