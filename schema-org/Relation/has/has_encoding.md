@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -27,8 +27,6 @@ tags:
 
 aliases:
 - encoding
-- encoding
-- encoding
 - has_encoding
 ---
 
@@ -36,15 +34,21 @@ Use it like this:
 - [ #has_/encoding :: MediaObject ] or 
 - [ has_encoding :: MediaObject ] 
 
-A media object that encodes this CreativeWork.
-This property is a synonym for associatedMedia.
+A [[../../Class/is_a_/creative_work/media_object|MediaObject]] (book, audio-file, movie etc.) that encodes, i.e. 'contains' the [[CreativeWork]] Subject.
+This property is a synonym for [[has_associated_media|associatedMedia]].
+
+#is_/same_as :: [[has_associated_media|associatedMedia]] 
+#is_/different_from :: [[../../Property/Texts/has_encoding_type|encodingType]] 
+#is_/different_from :: [[../../Property/Texts/has_encoding_format|encodingFormat]]  
+#is_/different_from :: [[has_text_encoding]]  
+
+[ #is_/inverse_of  :: [[../is/is_encoding_creative_work]] ]
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
 ( #has_/name :: has_encoding )
 ( #has_/range :: MediaObject )
 
-[ #is_/inverse_of  :: [[../is/is_encoding_creative_work]] ]
 
 ## Confidential Links & Embeds: 
 

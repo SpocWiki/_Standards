@@ -1,37 +1,31 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_an_entry_point Class
 linkTitle: is_an_entry_point Class
-
-keywords: [entry_point]
+keywords: entry_point
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
 aliases:
-- entry-point
-- entry_point
-- EntryPoint
-- is_an_entry_point
+  - entry-point
+  - entry_point
+  - EntryPoint
+  - is_an_entry_point
+  - Endpoint
 ---
-
-Class of all entry_points.
+﻿
+Class of all Online-Service entry_points / Endpoints.
 
 Tag Instances like this: 
 #is_an_/entry_point
