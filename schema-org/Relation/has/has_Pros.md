@@ -1,3 +1,7 @@
+---
+aliases:
+  - Advantages
+---
 ﻿Enumerates positive, reinforcing Reasons for this Statement. 
 Plural Form chosen to indicate the [[../../Collection]]-Nature. 
 
@@ -17,6 +21,8 @@ Relation describes that:
 
 [ #is_/inverse_of  :: is_facilitating ]
 [[is_inhibiting]]
+#has_/complement :: [[has_Cons]] 
+
 
 The Name is from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
 'pro' meaning 'for'. 
