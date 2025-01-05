@@ -30,7 +30,7 @@ aliases:
 ---
 
 #is_/similar_to :: #cancelled  
-#has_/dual_/property  :: [[has_time_created]] 
+#has_/dual_/property  :: [[has_time_started]] 
 
 Predicate to describe the date of [[../../Class/is_a_/Intangible/data_feed_item]].
 

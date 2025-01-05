@@ -19,7 +19,7 @@ has_Template:
 draft: false
 publishDate: 
 expiryDate: 
-has_time_created: 2024-10-27
+has_time_started: 2024-10-27
 tags:
   - has_url_for
   - class/Property

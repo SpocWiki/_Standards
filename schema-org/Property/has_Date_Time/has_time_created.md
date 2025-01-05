@@ -8,7 +8,7 @@ cssclasses:
   - Date_Time
 publish: true
 type: Predi_Date_Time
-title: has_time_created
+title: has_time_started
 linkTitle: 
 keywords: 
 layout: 
@@ -22,7 +22,7 @@ aliases:
   - date-created
   - date_created
   - dateCreated
-  - has_time_created
+  - has_time_started
   - has_time_started
   - created
 ---
@@ -38,7 +38,7 @@ which is the moment when an entity begins/ceases to exist or a statement starts/
 #has_/dual_/property :: [[has_time_destroyed]] 
 
 Use it like this: 
-- [has_time_created::P#Y#M#W#DT#H#M#s.fff] or 
+- [has_time_started::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/started ::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Alternatively use the equivalent #created , because the is supported in [[../../../../Tasks/Tasks|Tasks]]: 
@@ -49,21 +49,21 @@ The date on which the CreativeWork was created or the item was added to a DataFe
 
 Formal Predicate: 
 [domain::CreativeWork, DataFeedItem]
-(name::has_time_created)
+(name::has_time_started)
 (range::Date, DateTime)
 
 Has [sub_properties::legislationDate]
 
 ## Confidential Links & Embeds: 
 
-### [has_time_created](/_public/schema-org/Property/has_Date_Time/has_time_created.md) 
+### [has_time_started](/_public/schema-org/Property/has_Date_Time/has_time_started.md) 
 
-### [has_time_created.internal](/_internal/schema-org/Property/has_Date_Time/has_time_created.internal.md) 
+### [has_time_started.internal](/_internal/schema-org/Property/has_Date_Time/has_time_started.internal.md) 
 
-### [has_time_created.protect](/_protect/schema-org/Property/has_Date_Time/has_time_created.protect.md) 
+### [has_time_started.protect](/_protect/schema-org/Property/has_Date_Time/has_time_started.protect.md) 
 
-### [has_time_created.private](/_private/schema-org/Property/has_Date_Time/has_time_created.private.md) 
+### [has_time_started.private](/_private/schema-org/Property/has_Date_Time/has_time_started.private.md) 
 
-### [has_time_created.personal](/_personal/schema-org/Property/has_Date_Time/has_time_created.personal.md) 
+### [has_time_started.personal](/_personal/schema-org/Property/has_Date_Time/has_time_started.personal.md) 
 
-### [has_time_created.secret](/_secret/schema-org/Property/has_Date_Time/has_time_created.secret.md) 
+### [has_time_started.secret](/_secret/schema-org/Property/has_Date_Time/has_time_started.secret.md) 
