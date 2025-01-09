@@ -1,8 +1,11 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21905
+has_id_wikidata: Q560
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Helium,560|WD~Helium,560]]
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
@@ -29,7 +32,21 @@ SpocWebEntityId: 21905
 (GroupNo::18)
 
 
-> **Helium** (from Greek: ἥλιος, romanized: helios, lit. 'sun') is a chemical element with the symbol (Abbr::He) and atomic number (Charge-e::2). It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas and the first in the noble gas group in the periodic table. Its boiling point is the lowest among all the elements, and it does not have a melting point at standard pressure. It is the second lightest and second most abundant element in the observable universe, after hydrogen. It is present at about 24% of the total elemental mass, which is more than 12 times the mass of all the heavier elements combined. Its abundance is similar to this in both the Sun and in Jupiter, due to the very high nuclear binding energy (per nucleon) of helium-4, with respect to the next three elements after helium. This helium-4 binding energy also accounts for why it is a product of both nuclear fusion and radioactive decay. The most common isotope of helium in the universe is helium-4, the vast majority of which was formed during the Big Bang. Large amounts of new helium are created by nuclear fusion of hydrogen in stars.
+## #has_/text_of_/abstract 
+
+
+> **Helium** (from Greek: ἥλιος, romanized: helios, lit. 'sun') 
+> is a chemical element with the symbol (Abbr::He) and atomic number (Charge-e::2). 
+> 
+> It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas 
+> and the first in the noble gas group in the periodic table. 
+> 
+> Its boiling point is the lowest among all the elements, 
+> and it does not have a melting point at standard pressure. 
+> 
+> It is the second lightest and second most abundant element in the observable universe, 
+> after hydrogen. 
+> It is present at about 24% of the total elemental mass, which is more than 12 times the mass of all the heavier elements combined. Its abundance is similar to this in both the Sun and in Jupiter, due to the very high nuclear binding energy (per nucleon) of helium-4, with respect to the next three elements after helium. This helium-4 binding energy also accounts for why it is a product of both nuclear fusion and radioactive decay. The most common isotope of helium in the universe is helium-4, the vast majority of which was formed during the Big Bang. Large amounts of new helium are created by nuclear fusion of hydrogen in stars.
 >
 > Helium was first detected as an unknown, yellow spectral line signature in sunlight during a solar eclipse in 1868 by Georges Rayet, Captain C. T. Haig, Norman R. Pogson, and Lieutenant John Herschel, and was subsequently confirmed by French astronomer Jules Janssen. Janssen is often jointly credited with detecting the element, along with Norman Lockyer. Janssen recorded the helium spectral line during the solar eclipse of 1868, while Lockyer observed it from Britain. Lockyer was the first to propose that the line was due to a new element, which he named. The formal discovery of the element was made in 1895 by chemists Sir William Ramsay, Per Teodor Cleve, and Nils Abraham Langlet, who found helium emanating from the uranium ore, cleveite, which is now not regarded as a separate mineral species, but as a variety of uraninite. In 1903, large reserves of helium were found in natural gas fields in parts of the United States, by far the largest supplier of the gas today.
 >

@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21983
+has_id_wikidata: Q1128
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Radium,1128]] 
+
 [GroupName::Group-02-Earth-Alkaline]
 [Group::[[Group-02-Earth-Alkaline]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::2)
-SpocWebEntityId: 21983
+
+## #has_/text_of_/abstract 
+
 
 > **Radium** is a chemical element with the symbol (Abbr::Ra) and atomic number (Charge-e::88). It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. Pure radium is silvery-white, but it readily reacts with nitrogen (rather than oxygen) upon exposure to air, forming a black surface layer of radium nitride (Ra3N2). All isotopes of radium are radioactive, the most stable isotope being radium-226 with a half-life of 1,600 years. When radium decays, it emits ionizing radiation as a by-product, which can excite fluorescent chemicals and cause radioluminescence.
 >

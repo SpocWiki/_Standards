@@ -1,6 +1,7 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21917
+has_id_wikidata: Q682
 aliases:
   - Sulphur
 ---
@@ -8,6 +9,8 @@ aliases:
 # [[Sulfur]] 
 
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Sulfur,682]] 
+
 [GroupName::Group-16-Chalcogene]
 [Group::[[Group-16-Chalcogene]]]
 
@@ -30,6 +33,8 @@ aliases:
 (PeriodNo::3)
 (GroupNo::16)
 
+
+## #has_/text_of_/abstract 
 
 
 > **Sulfur** (or sulphur in British English) is a chemical element with the symbol (Abbr::S) and atomic number (Charge-e::16). It is abundant, multivalent and nonmetallic. Under normal conditions, sulfur atoms form cyclic octatomic molecules with a chemical formula S8. Elemental sulfur is a bright yellow, crystalline solid at room temperature.

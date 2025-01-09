@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21989
+has_id_wikidata: Q1102 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Plutonium,1102]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21989
 (GroupNo::28)
 []
 (Charge-e::94)
+
+
+## #has_/text_of_/abstract 
 
 
 

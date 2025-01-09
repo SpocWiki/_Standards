@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21953
+SpocWebEntityId: 21953 
+has_id_wikidata: Q1801 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Lanthanum,1801]] 
+
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -27,6 +31,9 @@ SpocWebEntityId: 21953
 [FormEnergy-kj-mol::414]
 (PeriodNo::6)
 (GroupNo::3)
+
+## #has_/text_of_/abstract 
+
 
 > **Lanthanum** is a chemical element with the symbol (Abbr::La) and atomic number (Charge-e::57). It is a soft, ductile, silvery-white metal that tarnishes slowly when exposed to air. It is the eponym of the lanthanide series, a group of 15 similar elements between lanthanum and lutetium in the periodic table, of which lanthanum is the first and the prototype. Lanthanum is traditionally counted among the rare earth elements. Like most other rare earth elements, the usual oxidation state is +3. Lanthanum has no biological role in humans but is essential to some bacteria. It is not particularly toxic to humans but does show some antimicrobial activity.
 >

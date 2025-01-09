@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21993
+has_id_wikidata: Q1888 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Californium,1888]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21993
 (GroupNo::32)
 []
 (Charge-e::98)
+
+
+## #has_/text_of_/abstract 
 
 
 

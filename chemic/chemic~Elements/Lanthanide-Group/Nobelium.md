@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21997
+SpocWebEntityId: 21997 
+has_id_wikidata: Q1901 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Nobelium,1901]] 
+
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -26,6 +30,9 @@ SpocWebEntityId: 21997
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::36)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Nobelium** is a synthetic chemical element with the symbol (Abbr::No) and atomic number (Charge-e::102). It is named in honor of Alfred Nobel, the inventor of dynamite and benefactor of science. A radioactive metal, it is the tenth transuranic element and is the penultimate member of the actinide series. Like all elements with atomic number over 100, nobelium can only be produced in particle accelerators by bombarding lighter elements with charged particles. A total of twelve nobelium isotopes are known to exist; the most stable is 259No with a half-life of 58 minutes, but the shorter-lived 255No (half-life 3.1 minutes) is most commonly used in chemistry because it can be produced on a larger scale.

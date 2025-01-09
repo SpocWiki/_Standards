@@ -1,10 +1,16 @@
-﻿This Folder contains Copies of Core-[[../Data/Wikipedia/WikiData|WikiData]] Entities in a flat structure. 
+This Folder contains ca. 10_000 Copies of Core-[[../Data/Wikipedia/WikiData|WikiData]] Entities in a flat structure. 
 To this purpose configure the [obsidian-wikidata-importer](https://github.com/samwho/obsidian-wikidata-importer) to use 
 - the Wikidata Entity Key `has_id_wikidata` and 
 - the Internal Link Prefix `_Standards/WD/WD~${label},${id}` 
 so they point to this directory.
 
-WikiData has Entries: 110e6 
+
+> [!WARNING] Don't open this Folder in Obsidian!
+> The huge number of Files in this Folder slows down the Obsidian File Explorer! 
+> Switch to Bookmarks or some other Tab. 
+
+
+#has_/number_of_/items :: 110e6 
 These Entries are edited directly in the Database, but most is imported from other Sources. 
 
 #is_/similar_to :: [[../Data/Wikipedia/DbPedia|DbPedia]]  

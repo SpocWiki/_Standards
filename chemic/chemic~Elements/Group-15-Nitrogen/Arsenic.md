@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21931
+has_id_wikidata: Q871 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Arsenic,871]] 
+
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
@@ -26,6 +30,9 @@ SpocWebEntityId: 21931
 [FormEnergy-kj-mol::34.76]
 (PeriodNo::4)
 (GroupNo::15)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Arsenic** is a chemical element with the symbol (Abbr::As) and atomic number (Charge-e::33). Arsenic occurs in many minerals, usually in combination with sulfur and metals, but also as a pure elemental crystal. Arsenic is a metalloid. It has various allotropes, but only the gray form, which has a metallic appearance, is important to industry.

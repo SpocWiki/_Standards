@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21947
+has_id_wikidata: Q1099 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Antimony,1099]] 
+
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
@@ -27,6 +31,8 @@ SpocWebEntityId: 21947
 (PeriodNo::5)
 (GroupNo::15)
 
+
+## #has_/text_of_/abstract 
 
 
 > **Antimony** is a chemical element with the symbol (Abbr::Sb) (from Latin: stibium) and atomic number (Charge-e::51). A lustrous gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb2S3). Antimony compounds have been known since ancient times and were powdered for use as medicine and cosmetics, often known by the Arabic name kohl. The earliest known description of the metal in the West was written in 1540 by Vannoccio Biringuccio.

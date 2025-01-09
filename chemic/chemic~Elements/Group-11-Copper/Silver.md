@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 17799
+has_id_wikidata: Q1090 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Silver,1090]] 
+
 [GroupName::Group-11-Copper]
 [Group::[[Group-11-Copper]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::250.58]
 (PeriodNo::5)
 (GroupNo::11)
-SpocWebEntityId: 17799
+
+
+## #has_/text_of_/abstract 
 
 
 > **Silver** is a chemical element with the symbol (Abbr::Ag) (from the Latin argentum, derived from the Proto-Indo-European h₂erǵ: "shiny" or "white") and atomic number (Charge-e::47). A soft, white, lustrous transition metal, it exhibits the highest electrical conductivity, thermal conductivity, and reflectivity of any metal. The metal is found in the Earth's crust in the pure, free elemental form ("native silver"), as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite. Most silver is produced as a byproduct of copper, gold, lead, and zinc refining.

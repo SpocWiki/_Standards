@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21924
+has_id_wikidata: Q725 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Chromium,725]] 
+
 [GroupName::Group-06-Chromium]
 [Group::[[Group-06-Chromium]]]
 
@@ -23,7 +27,9 @@ type: Element
 [Enthalpy::16.9]
 [FormEnergy-kj-mol::344.3]
 (PeriodNo::4)
-SpocWebEntityId: 21924
+
+## #has_/text_of_/abstract 
+
 
 > **Chromium** is a chemical element with the symbol (Abbr::Cr) and atomic number (Charge-e::24). It is the first element in group (GroupNo::6). It is a steely-grey, lustrous, hard, and brittle transition metal.Chromium metal is valued for its high corrosion resistance and hardness. A major development in steel production was the discovery that steel could be made highly resistant to corrosion and discoloration by adding metallic chromium to form stainless steel. Stainless steel and chrome plating (electroplating with chromium) together comprise 85% of the commercial use. Chromium is also greatly valued as a metal that is able to be highly polished while resisting tarnishing. Polished chromium reflects almost 70% of the visible spectrum, and almost 90% of infrared light. The name of the element is derived from the Greek word χρῶμα, chrōma, meaning color, because many chromium compounds are intensely colored.
 >

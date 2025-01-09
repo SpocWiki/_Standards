@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21907 á à ô 
+has_id_wikidata: Q569
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Beryllium,569]] 
+
 [GroupName::Group-02-Earth-Alkaline]
 [Group::[[Group-02-Earth-Alkaline]]]
 
@@ -23,7 +27,9 @@ type: Element
 [FormEnergy-kj-mol::292.4]
 (PeriodNo::2)
 (GroupNo::2)
-SpocWebEntityId: 21907 á à ô 
+
+## #has_/text_of_/abstract 
+
 
 > **[Name-en::Beryllium]** is a chemical element with the symbol (Abbr::Be) and atomic number (Charge-e::4). It is a steel-gray, strong, lightweight and brittle alkaline earth metal. It is a divalent element that occurs naturally only in combination with other elements to form minerals. Notable gemstones high in beryllium include beryl (aquamarine, emerald) and chrysoberyl. It is a relatively rare element in the universe, usually occurring as a product of the spallation of larger atomic nuclei that have collided with cosmic rays. Within the cores of stars, beryllium is depleted as it is fused into heavier elements. Beryllium constitutes about 0.0004 percent by mass of Earth's crust. The world's annual beryllium production of 220 tons is usually manufactured by extraction from the mineral beryl, a difficult process because beryllium bonds strongly to oxygen.
 >

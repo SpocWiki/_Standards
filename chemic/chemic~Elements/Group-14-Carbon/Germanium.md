@@ -1,8 +1,11 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21930
+has_id_wikidata: Q867 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Germanium,867]] 
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
@@ -26,6 +29,9 @@ SpocWebEntityId: 21930
 [FormEnergy-kj-mol::330.9]
 (PeriodNo::4)
 (GroupNo::14)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Germanium** is a chemical element with the symbol (Abbr::Ge) and atomic number (Charge-e::32). It is lustrous, hard-brittle, grayish-white and similar in appearance to silicon. It is a metalloid in the carbon group that is chemically similar to its group neighbors silicon and tin. Like silicon, germanium naturally reacts and forms complexes with oxygen in nature.

@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21962
+SpocWebEntityId: 21962 
+has_id_wikidata: Q1843 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Dysprosium,1843]] 
+
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -26,6 +30,9 @@ SpocWebEntityId: 21962
 [FormEnergy-kj-mol::230]
 (PeriodNo::6)
 (GroupNo::32)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Dysprosium** is the chemical element with the symbol (Abbr::Dy) and atomic number (Charge-e::66). It is a rare-earth element in the lanthanide series with a metallic silver luster. Dysprosium is never found in nature as a free element, though, like other lanthanides, it is found in various minerals, such as xenotime. Naturally occurring dysprosium is composed of seven isotopes, the most abundant of which is 164Dy.

@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21990
+SpocWebEntityId: 21990 
+has_id_wikidata: Q1872 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Americium,1872]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21990
 (GroupNo::29)
 []
 (Charge-e::95)
+
+
+## #has_/text_of_/abstract 
 
 
 

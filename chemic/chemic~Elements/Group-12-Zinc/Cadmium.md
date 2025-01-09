@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21945
+has_id_wikidata: Q1091 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Cadmium,1091]]  
+
 [GroupName::Group-12-Zinc]
 [Group::[[Group-12-Zinc]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::99.57]
 (PeriodNo::5)
 (GroupNo::12)
-SpocWebEntityId: 21945
+
+
+## #has_/text_of_/abstract 
 
 
 > **Cadmium** is a chemical element with the symbol (Abbr::Cd) and atomic number (Charge-e::48). This soft, silvery-white metal is chemically similar to the two other stable metals in group 12, zinc and mercury. Like zinc, it demonstrates oxidation state +2 in most of its compounds, and like mercury, it has a lower melting point than the transition metals in groups 3 through 11. Cadmium and its congeners in group 12 are often not considered transition metals, in that they do not have partly filled d or f electron shells in the elemental or common oxidation states. The average concentration of cadmium in Earth's crust is between 0.1 and 0.5 parts per million (ppm). It was discovered in 1817 simultaneously by Stromeyer and Hermann, both in Germany, as an impurity in zinc carbonate.

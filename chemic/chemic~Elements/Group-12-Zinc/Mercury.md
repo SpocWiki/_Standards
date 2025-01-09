@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21975
+has_id_wikidata: Q925 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Mercury,925]] 
+
 [GroupName::Group-12-Zinc]
 [Group::[[Group-12-Zinc]]]
 
@@ -24,8 +28,10 @@ type: Element
 [FormEnergy-kj-mol::59.229]
 (PeriodNo::6)
 (GroupNo::12)
-SpocWebEntityId: 21975
 
+
+
+## #has_/text_of_/abstract 
 
 
 > Mercury is a chemical element with the symbol (Abbr::Hg) and atomic number (Charge-e::80). It is also known as quicksilver and was formerly named hydrargyrum ( hy-DRAR-jər-əm) from the Greek words hydor (water) and argyros (silver). A heavy, silvery d-block element, mercury is the only metallic element that is known to be liquid at standard temperature and pressure; the only other element that is liquid under these conditions is the halogen bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature.

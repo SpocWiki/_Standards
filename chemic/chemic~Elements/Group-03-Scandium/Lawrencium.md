@@ -1,9 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21998
+SpocWebEntityId: 21998 
+has_id_wikidata: Q1905 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905]] 
+
 [GroupName::Group-03-Scandium]
 [Group::[[Group-03-Scandium]]]
 
@@ -28,6 +31,9 @@ SpocWebEntityId: 21998
 (GroupNo::37)
 []
 (Charge-e::103)
+
+
+## #has_/text_of_/abstract 
 
 
 

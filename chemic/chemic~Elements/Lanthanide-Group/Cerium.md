@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21954
+SpocWebEntityId: 21954 
+has_id_wikidata: Q1385 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Cerium,1385]] 
+
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -27,6 +31,9 @@ SpocWebEntityId: 21954
 (PeriodNo::6)
 (GroupNo::24)
 
+
+
+## #has_/text_of_/abstract 
 
 
 > **Cerium** is a chemical element with the symbol (Abbr::Ce) and atomic number (Charge-e::58). Cerium is a soft, ductile, and silvery-white metal that tarnishes when exposed to air. Cerium is the second element in the lanthanide series, and while it often shows the oxidation  state of +3 characteristic of the series, it also has a stable +4 state that does not oxidize water. It is also considered one of the rare-earth elements. Cerium has no known biological role in humans but is not particularly toxic, except with intense or continued exposure.

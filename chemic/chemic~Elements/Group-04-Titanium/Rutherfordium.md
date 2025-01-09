@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21999
+has_id_wikidata: Q1226
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226]] 
+
 [GroupName::Group-04-Titanium]
 [Group::[[Group-04-Titanium]]]
 
@@ -25,7 +29,9 @@ type: Element
 (PeriodNo::7)
 (GroupNo::4)
 (Charge-e::104)
-SpocWebEntityId: 21999
+
+## #has_/text_of_/abstract 
+
 
 > **Rutherfordium** is a chemical element with the symbol (Abbr::Ru) and atomic number 104, named after New Zealand-born British physicist Ernest Rutherford. As a synthetic element, it is not found in nature and can only be made in a particle accelerator. It is radioactive; the most stable known isotope, 267Rf, has a half-life of about 48 minutes.
 >

@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21971
+has_id_wikidata: Q737 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Rhenium,737]] 
+
 [GroupName::Group-07-Manganese]
 [Group::[[Group-07-Manganese]]]
 
@@ -22,7 +26,9 @@ type: Element
 [Enthalpy::33.2]
 [FormEnergy-kj-mol::715]
 (PeriodNo::6)
-SpocWebEntityId: 21971
+
+
+## #has_/text_of_/abstract 
 
 
 > **Rhenium** is a chemical element with the symbol (Abbr::Re) and atomic number (Charge-e::75). It is a silvery-gray, heavy, third-row transition metal in group (GroupNo::7) of the periodic table. With an estimated average concentration of 1 part per billion (ppb), rhenium is one of the rarest elements in the Earth's crust. Rhenium has the third-highest melting point and second-highest boiling point of any element at [BoilingPoint-C::5869]°C. Rhenium resembles manganese and technetium chemically and is mainly obtained as a by-product of the extraction and refinement of molybdenum and copper ores. Rhenium shows in its compounds a wide variety of oxidation states ranging from −1 to +7.

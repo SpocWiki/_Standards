@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21991
+has_id_wikidata: Q1876 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Curium,1876]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21991
 (GroupNo::30)
 []
 (Charge-e::96)
+
+
+## #has_/text_of_/abstract 
 
 
 

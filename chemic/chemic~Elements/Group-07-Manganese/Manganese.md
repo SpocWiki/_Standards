@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21925
+has_id_wikidata: Q731 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Manganese,731]] 
+
 [GroupName::Group-07-Manganese]
 [Group::[[Group-07-Manganese]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::226]
 (PeriodNo::4)
 (GroupNo::7)
-SpocWebEntityId: 21925
+
+
+## #has_/text_of_/abstract 
 
 
 > **Manganese** is a chemical element with the symbol (Abbr::Mn) and atomic number (Charge-e::25). It is a hard, brittle, silvery metal, often found in minerals in combination with iron. Manganese is a transition metal with a multifaceted array of industrial alloy uses, particularly in stainless steels. It improves strength, workability, and resistance to wear. Manganese oxide is used as an oxidising agent; as a rubber additive; and in glass making, fertilisers, and ceramics. Manganese sulfate can be used as a fungicide.

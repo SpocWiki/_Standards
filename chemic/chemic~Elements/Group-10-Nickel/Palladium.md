@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21944
+has_id_wikidata: Q1089 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Palladium,1089]] 
+
 [GroupName::Group-10-Nickel]
 [Group::[[Group-10-Nickel]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::357]
 (PeriodNo::5)
 (GroupNo::10)
-SpocWebEntityId: 21944
+
+
+## #has_/text_of_/abstract 
 
 
 > **Palladium** is a chemical element with the symbol (Abbr::Pd) and atomic number (Charge-e::46). It is a rare and lustrous silvery-white metal discovered in 1803 by the English chemist William Hyde Wollaston. He named it after the asteroid Pallas, which was itself named after the epithet of the Greek goddess Athena, acquired by her when she slew Pallas. Palladium, platinum, rhodium, ruthenium, iridium and osmium form a group of elements referred to as the platinum group metals (PGMs). They have similar chemical properties, but palladium has the lowest melting point and is the least dense of them.

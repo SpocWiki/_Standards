@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21933
+SpocWebEntityId: 21933 
+has_id_wikidata: Q879 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Bromine,879]] 
+
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
@@ -27,6 +31,9 @@ SpocWebEntityId: 21933
 [FormEnergy-kj-mol::15.438]
 (PeriodNo::4)
 (GroupNo::17)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Bromine** is a chemical element with the symbol (Abbr::Br) and atomic number (Charge-e::35). It is a volatile red-brown liquid at room temperature that evaporates readily to form a similarly coloured vapour. Its properties are intermediate between those of chlorine and iodine. Isolated independently by two chemists, Carl Jacob Löwig (in 1825) and Antoine Jérôme Balard (in 1826), its name was derived from the Ancient Greek βρῶμος (bromos) meaning "stench", referring to its sharp and pungent smell.

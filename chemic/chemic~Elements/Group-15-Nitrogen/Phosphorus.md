@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21916
+SpocWebEntityId: 21916 
+has_id_wikidata: Q674 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Phosphorus,674]]  
+
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
@@ -28,7 +32,11 @@ SpocWebEntityId: 21916
 (GroupNo::15)
 
 
-> **Phosphorus** is a chemical element with the symbol (Abbr::P) and atomic number (Charge-e::15). Elemental phosphorus exists in two major forms, white phosphorus and red phosphorus, but because it is highly reactive, phosphorus is never found as a free element on Earth. It has a concentration in the Earth's crust of about one gram per kilogram (compare copper at about 0.06 grams). In minerals, phosphorus generally occurs as phosphate.
+## #has_/text_of_/abstract 
+
+
+> **Phosphorus** is a chemical element with the symbol (Abbr::P) and atomic number (Charge-e::15). 
+> Elemental phosphorus exists in two major forms, white phosphorus and red phosphorus, but because it is highly reactive, phosphorus is never found as a free element on Earth. It has a concentration in the Earth's crust of about one gram per kilogram (compare copper at about 0.06 grams). In minerals, phosphorus generally occurs as phosphate.
 >
 > Elemental phosphorus was first isolated as white phosphorus in 1669.  White phosphorus emits a faint glow when exposed to oxygen – hence the name, taken from Greek mythology, Φωσφόρος meaning 'light-bearer' (Latin Lucifer), referring to the "Morning Star", the planet Venus. The term phosphorescence, meaning glow after illumination, derives from this property of phosphorus, although the word has since been used for a different physical process that produces a glow. The glow of phosphorus is caused by oxidation of the white (but not red) phosphorus — a process now called chemiluminescence. Together with nitrogen, arsenic, antimony, and bismuth, phosphorus is classified as a pnictogen.
 >

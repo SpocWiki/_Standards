@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21973
+has_id_wikidata: Q877 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Iridium,877]] 
+
 [GroupName::Group-09-Cobalt]
 [Group::[[Group-09-Cobalt]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::604]
 (PeriodNo::6)
 (GroupNo::9)
-SpocWebEntityId: 21973
+
+
+## #has_/text_of_/abstract 
 
 
 > **Iridium** is a chemical element with the symbol (Abbr::Ir) and atomic number (Charge-e::77). A very hard, brittle, silvery-white transition metal of the platinum group, it is considered the second-densest naturally occurring metal (after osmium) with a density of 22.56 g/cm3 (0.815 lb/cu in) as defined by experimental X-ray crystallography. It is one of the most corrosion-resistant metals, even at temperatures as high as 2,000 °C (3,630 °F). However, corrosion-resistance is not quantifiable in absolute terms; although only certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more reactive and can be flammable, whereas gold dust is not flammable but can be attacked by substances that iridium resists, such as aqua regia.

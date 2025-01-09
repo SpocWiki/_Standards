@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21915
+has_id_wikidata: Q670 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Silicon,670]] 
+
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
@@ -26,6 +30,8 @@ SpocWebEntityId: 21915
 [FormEnergy-kj-mol::384.22]
 (PeriodNo::3)
 
+
+## #has_/text_of_/abstract 
 
 
 > **Silicon** is a chemical element with the symbol (Abbr::Si) and atomic number (Charge-e::14). It is a hard, brittle crystalline solid with a blue-grey metallic luster, and is a tetravalent metalloid and semiconductor. It is a member of group (GroupNo::14) in the periodic table: carbon is above it; and germanium, tin, lead, and flerovium are below it. It is relatively unreactive.

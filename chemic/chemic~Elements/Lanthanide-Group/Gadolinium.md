@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21960
+SpocWebEntityId: 21960 
+has_id_wikidata: Q1832 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Gadolinium,1832]] 
+
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -27,6 +31,9 @@ SpocWebEntityId: 21960
 (PeriodNo::6)
 (GroupNo::30)
 
+
+
+## #has_/text_of_/abstract 
 
 
 > **Gadolinium** is a chemical element with the symbol (Abbr::Gd) and atomic number (Charge-e::64). Gadolinium is a silvery-white metal when oxidation is removed. It is only slightly malleable and is a ductile rare-earth element. Gadolinium reacts with atmospheric oxygen or moisture slowly to form a black coating. Gadolinium below its Curie point of 20 °C (68 °F) is ferromagnetic, with an attraction to a magnetic field higher than that of nickel. Above this temperature it is the most paramagnetic element. It is found in nature only in an oxidized form. When separated, it usually has impurities of the other rare-earths because of their similar chemical properties.

@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21996
+has_id_wikidata: Q1898 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Mendelevium,1898]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21996
 (GroupNo::35)
 []
 (Charge-e::101)
+
+
+## #has_/text_of_/abstract 
 
 
 

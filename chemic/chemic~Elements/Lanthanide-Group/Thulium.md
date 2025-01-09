@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21965
+SpocWebEntityId: 21965 
+has_id_wikidata: Q1853 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Thulium,1853]] 
+
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -26,6 +30,9 @@ SpocWebEntityId: 21965
 [FormEnergy-kj-mol::191]
 (PeriodNo::6)
 (GroupNo::35)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Thulium** is a chemical element with the symbol (Abbr::Tm) and atomic number (Charge-e::69). It is the thirteenth and third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds; however, the +2 oxidation state can also be stable. In aqueous solution, like compounds of other late lanthanides, soluble thulium compounds form coordination complexes with nine water molecules.

@@ -1,9 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21967
+SpocWebEntityId: 21967 
+has_id_wikidata: Q1857 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Lutetium,1857]] 
+
 [GroupName::Group-03-Scandium]
 [Group::[[Group-03-Scandium]]]
 
@@ -29,6 +32,9 @@ SpocWebEntityId: 21967
 (GroupNo::37)
 []
 (Charge-e::71)
+
+
+## #has_/text_of_/abstract 
 
 
 

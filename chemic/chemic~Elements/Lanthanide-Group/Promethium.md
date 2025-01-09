@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21957
+SpocWebEntityId: 21957 
+has_id_wikidata: Q1809 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Promethium,1809]] 
+
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -26,6 +30,9 @@ SpocWebEntityId: 21957
 [FormEnergy-kj-mol::0]
 (PeriodNo::6)
 (GroupNo::27)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Promethium** is a chemical element with the symbol (Abbr::Pm) and atomic number (Charge-e::61). All of its isotopes are radioactive; it is extremely rare, with only about 500–600 grams naturally occurring in Earth's crust at any given time. Promethium is one of only two radioactive elements that are followed in the periodic table by elements with stable forms, the other being technetium. Chemically, promethium is a lanthanide. Promethium shows only one stable oxidation state of +3.

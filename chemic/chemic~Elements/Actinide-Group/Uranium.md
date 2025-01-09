@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21987
+has_id_wikidata: Q1098 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Uranium,1098]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21987
 (GroupNo::26)
 []
 (Charge-e::92)
+
+
+## #has_/text_of_/abstract 
 
 
 

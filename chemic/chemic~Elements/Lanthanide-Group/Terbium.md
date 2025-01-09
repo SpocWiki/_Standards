@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21961
+SpocWebEntityId: 21961 
+has_id_wikidata: Q1838 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Terbium,1838]] 
+
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -28,9 +32,17 @@ SpocWebEntityId: 21961
 (GroupNo::31)
 
 
-> **Terbium** is a chemical element with the symbol (Abbr::Tb) and atomic number (Charge-e::65). It is a silvery-white, rare earth metal that is malleable, and ductile. The ninth member of the lanthanide series, terbium is a fairly electropositive metal that reacts with water, evolving hydrogen gas. Terbium is never found in nature as a free element, but it is contained in many minerals, including cerite, gadolinite, monazite, xenotime and euxenite.
+## #has_/text_of_/abstract 
+
+
+> **Terbium** is a chemical element with the symbol (Abbr::Tb) and atomic number (Charge-e::65). 
+> It is a silvery-white, rare earth metal that is malleable, and ductile. 
+> The ninth member of the lanthanide series, 
+> terbium is a fairly electropositive metal that reacts with water, evolving hydrogen gas. 
+> Terbium is never found in nature as a free element, but it is contained in many minerals, 
+> including cerite, gadolinite, monazite, xenotime and euxenite.
 >
-> Swedish chemist Carl Gustaf Mosander discovered terbium as a chemical element in 1843. He detected it as an impurity in yttrium oxide, Y2O3. Yttrium and terbium, as well as erbium and ytterbium, are named after the village of Ytterby in Sweden. Terbium was not isolated in pure form until the advent of ion exchange techniques.
+> Swedish chemist [[Carl Gustaf Mosander]] discovered terbium as a chemical element in 1843. He detected it as an impurity in yttrium oxide, Y2O3. Yttrium and terbium, as well as erbium and ytterbium, are named after the village of Ytterby in Sweden. Terbium was not isolated in pure form until the advent of ion exchange techniques.
 >
 > Terbium is used to dope calcium fluoride, calcium tungstate and strontium molybdate in solid-state devices, and as a crystal stabilizer of fuel cells that operate at elevated temperatures. As a component of Terfenol-D (an alloy that expands and contracts when exposed to magnetic fields more than any other alloy), terbium is of use in actuators, in naval sonar systems and in sensors.
 >

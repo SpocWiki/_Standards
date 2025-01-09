@@ -1,8 +1,13 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21904
+has_id_wikidata: Q556
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Hydrogen,556]] 
+
+
 #chemic/Element 
 [GroupName::Group-01-Alkali]
 [Group::[[Group-01-Alkali]]]
@@ -27,6 +32,9 @@ SpocWebEntityId: 21904
 (PeriodNo::1)
 (GroupNo::1)
 (Charge-e::1)
+
+## #has_/text_of_/abstract 
+
 
 > The trihydrogen cation or protonated molecular hydrogen is a cation (positive ion) with formula H+3, consisting of three hydrogen nuclei (protons) sharing two electrons.
 >

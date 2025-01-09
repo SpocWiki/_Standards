@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21974
+has_id_wikidata: Q880 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Platinum,880]] 
+
 [GroupName::Group-10-Nickel]
 [Group::[[Group-10-Nickel]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::510]
 (PeriodNo::6)
 (GroupNo::10)
-SpocWebEntityId: 21974
+
+
+## #has_/text_of_/abstract 
 
 
 > **Platinum** is a chemical element with the symbol (Abbr::Pt) and atomic number (Charge-e::78). It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. Its name originates from Spanish platina, a diminutive of plata "silver".Platinum is a member of the platinum group of elements and group 10 of the periodic table of elements. It has six naturally occurring isotopes. It is one of the rarer elements in Earth's crust, with an average abundance of approximately 5 μg/kg. It occurs in some nickel and copper ores along with some native deposits, mostly in South Africa, which accounts for ~80% of the world production. Because of its scarcity in Earth's crust, only a few hundred tonnes are produced annually, and given its important uses, it is highly valuable and is a major precious metal commodity.Platinum is one of the least reactive metals. It has remarkable resistance to corrosion, even at high temperatures, and is therefore considered a noble metal. Consequently, platinum is often found chemically uncombined as native platinum. Because it occurs naturally in the alluvial sands of various rivers, it was first used by pre-Columbian South American natives to produce artifacts. It was referenced in European writings as early as the 16th century, but it was not until Antonio de Ulloa published a report on a new metal of Colombian origin in 1748 that it began to be investigated by scientists.

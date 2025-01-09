@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21921
+has_id_wikidata: Q706
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Calcium,706]] 
+
 [GroupName::Group-02-Earth-Alkaline]
 [Group::[[Group-02-Earth-Alkaline]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::153.6]
 (PeriodNo::4)
 (GroupNo::2)
-SpocWebEntityId: 21921
+
+## #has_/text_of_/abstract 
+
 
 > **Calcium** is a chemical element with the symbol (Abbr::Ca) and atomic number (Charge-e::20). As an alkaline earth metal, calcium is a reactive metal that forms a dark oxide-nitride layer when exposed to air. Its physical and chemical properties are most similar to its heavier homologues strontium and barium. It is the fifth most abundant element in Earth's crust, and the third most abundant metal, after iron and aluminium. The most common calcium compound on Earth is calcium carbonate, found in limestone and the fossilised remnants of early sea life; gypsum, anhydrite, fluorite, and apatite are also sources of calcium. The name derives from Latin calx "lime", which was obtained from heating limestone.
 >

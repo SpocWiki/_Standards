@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 22000
+has_id_wikidata: Q1232 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Dubnium,1232]] 
+
 [GroupName::Group-05-Vanadium]
 [Group::[[Group-05-Vanadium]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::5)
-SpocWebEntityId: 22000
+
+
+## #has_/text_of_/abstract 
 
 
 > Dubnium is a synthetic chemical element with the symbol (Abbr::Db) and atomic number (Charge-e::105). It is highly radioactive: the most stable known isotope, dubnium-268, has a half-life of about 16 hours. This greatly limits extended research on the element.

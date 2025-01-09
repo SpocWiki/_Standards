@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 17995
+has_id_wikidata: Q897 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Gold,897]] 
+
 [GroupName::Group-11-Copper]
 [Group::[[Group-11-Copper]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::334.4]
 (PeriodNo::6)
 (GroupNo::11)
-SpocWebEntityId: 17995
+
+
+## #has_/text_of_/abstract 
 
 
 > **Gold** is a chemical element with the symbol (Abbr::Au) (from Latin: aurum) and atomic number (Charge-e::79). This makes it one of the higher atomic number elements that occur naturally. It is a bright, slightly orange-yellow, dense, soft, malleable, and ductile metal in a pure form. Chemically, gold is a transition metal and a group 11 element. It is one of the least reactive chemical elements and is solid under standard conditions. Gold often occurs in free  elemental (native state), as nuggets or grains, in rocks, veins, and alluvial deposits. It occurs in a solid solution series with the native element silver (as electrum), naturally alloyed with other metals like copper and palladium, and mineral inclusions such as within pyrite. Less commonly, it occurs in minerals as gold compounds, often with tellurium (gold tellurides).

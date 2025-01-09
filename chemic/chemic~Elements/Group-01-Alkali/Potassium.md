@@ -1,9 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21920
+has_id_wikidata: Q703
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Potassium,703]] 
+
 [GroupName::Group-01-Alkali]
 [Group::[[Group-01-Alkali]]]
 
@@ -26,6 +29,9 @@ SpocWebEntityId: 21920
 [FormEnergy-kj-mol::79.87]
 (PeriodNo::4)
 (GroupNo::1)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Potassium** is the chemical element with the symbol (Abbr::K) (from Neo-Latin kalium) and atomic number (Charge-e::19). It is a silvery-white metal that is soft enough to easily cut with a knife. Potassium metal reacts rapidly with atmospheric oxygen to form flaky white potassium peroxide in only seconds of exposure. It was first isolated from potash, the ashes of plants, from which its name derives. In the periodic table, potassium is one of the alkali metals, all of which have a single valence electron in the outer electron shell, which is easily removed to create an ion with a positive charge (which combines with anions to form salts). In nature, potassium occurs only in ionic salts. Elemental potassium reacts vigorously with water, generating sufficient heat to ignite hydrogen emitted in the reaction, and burning with a lilac-colored flame. It is found dissolved in seawater (which is 0.04% potassium by weight), and occurs in many minerals such as orthoclase, a common constituent of granites and other igneous rocks.Potassium is chemically very similar to sodium, the previous element in group 1 of the periodic table. They have a similar first ionization energy, which allows for each atom to give up its sole outer electron. It was suspected in 1702 that they were distinct elements that combine with the same anions to make similar salts, and this was proven in 1807 through using electrolysis. Naturally occurring potassium is composed of three isotopes, of which 40K is radioactive. Traces of 40K are found in all potassium, and it is the most common radioisotope in the human body.

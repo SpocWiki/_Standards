@@ -1,9 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21968
+SpocWebEntityId: 21968 
+has_id_wikidata: Q1119 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Hafnium,1119]] 
+
 [GroupName::Group-04-Titanium]
 [Group::[[Group-04-Titanium]]]
 
@@ -28,6 +31,9 @@ SpocWebEntityId: 21968
 (GroupNo::4)
 []
 (Charge-e::72)
+
+## #has_/text_of_/abstract 
+
 
 
 

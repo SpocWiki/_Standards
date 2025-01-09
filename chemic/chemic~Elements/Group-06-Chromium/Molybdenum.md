@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21940
+has_id_wikidata: Q1053
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Molybdenum,1053]] 
+
 [GroupName::Group-06-Chromium]
 [Group::[[Group-06-Chromium]]]
 
@@ -22,7 +26,9 @@ type: Element
 [HeatConduct::1.38]
 [Enthalpy::32]
 [FormEnergy-kj-mol::598]
-SpocWebEntityId: 21940
+
+## #has_/text_of_/abstract 
+
 
 > **Molybdenum** is a chemical element with the symbol (Abbr::Mo) and atomic number (Charge-e::42) which is located in period (PeriodNo::5) and group (GroupNo::6). The name is from Neo-Latin molybdaenum, which is based on Ancient Greek Μόλυβδος molybdos, meaning lead, since its ores were confused with lead ores. Molybdenum minerals have been known throughout history, but the element was discovered (in the sense of differentiating it as a new entity from the mineral salts of other metals) in 1778 by Carl Wilhelm Scheele. The metal was first isolated in 1781 by Peter Jacob Hjelm. Molybdenum does not occur naturally as a free metal on Earth; it is found only in various oxidation states in minerals. The free element, a silvery metal with a grey cast, has the sixth-highest melting point of any element. It readily forms hard, stable carbides in alloys, and for this reason most of the world production of the element (about 80%) is used in steel alloys, including high-strength alloys and superalloys.
 >

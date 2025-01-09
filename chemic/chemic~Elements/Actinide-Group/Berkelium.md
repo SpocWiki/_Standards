@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21992
+has_id_wikidata: Q1882 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Berkelium,1882]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21992
 (GroupNo::31)
 []
 (Charge-e::97)
+
+
+## #has_/text_of_/abstract 
 
 
 

@@ -1,7 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21984
+has_id_wikidata: Q1121 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Actinium,1121]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -25,7 +30,8 @@ type: Element
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::3)
-SpocWebEntityId: 21984
+
+## #has_/text_of_/abstract 
 
 > **Actinium** is a chemical element with the symbol (Abbr::Ac) and atomic number (Charge-e::89). It was first isolated by Friedrich Oskar Giesel in 1902, who gave it the name emanium; the element got its name by being wrongly identified with a substance André-Louis Debierne found in 1899 and called actinium. Actinium gave the name to the actinide series, a set of 15 elements between actinium and lawrencium in the periodic table. Together with polonium, radium, and radon, actinium was one of the first non-primordial radioactive elements to be isolated.
 >

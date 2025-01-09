@@ -1,9 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21929
+has_id_wikidata: Q861 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Gallium,861]] 
+
 [GroupName::Group-13-Boron]
 [Group::[[Group-13-Boron]]]
 
@@ -25,6 +28,9 @@ SpocWebEntityId: 21929
 [Enthalpy::5.59]
 [FormEnergy-kj-mol::258.7]
 (PeriodNo::4)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Gallium** is a chemical element with the symbol (Abbr::Ga) and atomic number (Charge-e::31). Discovered by French chemist Paul-Émile Lecoq de Boisbaudran in 1875, Gallium is in group (GroupNo::13) of the periodic table and is similar to the other metals of the group (aluminium, indium, and thallium).

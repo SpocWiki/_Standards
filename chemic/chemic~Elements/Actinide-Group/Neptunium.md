@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21988
+has_id_wikidata: Q1105 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Neptunium,1105]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21988
 (GroupNo::27)
 []
 (Charge-e::93)
+
+
+## #has_/text_of_/abstract 
 
 
 

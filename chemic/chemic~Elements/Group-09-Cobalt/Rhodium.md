@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21943
+has_id_wikidata: Q1087 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Rhodium,1087]] 
+
 [GroupName::Group-09-Cobalt]
 [Group::[[Group-09-Cobalt]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::493]
 (PeriodNo::5)
 (GroupNo::9)
-SpocWebEntityId: 21943
+
+
+## #has_/text_of_/abstract 
 
 
 > **Rhodium** is a chemical element with the symbol (Abbr::Rh) and atomic number (Charge-e::45). It is a very rare, silvery-white, hard, corrosion-resistant transition metal. It is a noble metal and a member of the platinum group. It has only one naturally occurring isotope: 103Rh. Naturally occurring rhodium is usually found as a free metal or as an alloy with similar metals and rarely as a chemical compound in minerals such as bowieite and rhodplumsite. It is one of the rarest and most valuable precious metals.

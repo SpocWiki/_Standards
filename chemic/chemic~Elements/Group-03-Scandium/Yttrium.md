@@ -1,9 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21937
+SpocWebEntityId: 21937 
+has_id_wikidata: Q941 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Yttrium,941]] 
+
 [GroupName::Group-03-Scandium]
 [Group::[[Group-03-Scandium]]]
 
@@ -25,6 +28,9 @@ SpocWebEntityId: 21937
 [FormEnergy-kj-mol::363]
 (PeriodNo::5)
 (GroupNo::3)
+
+## #has_/text_of_/abstract 
+
 
 > **Yttrium** is a chemical element with the symbol (Abbr::Y) and atomic number (Charge-e::39). It is a silvery-metallic transition metal chemically similar to the lanthanides and has often been classified as a "rare-earth element". Yttrium is almost always found in combination with lanthanide elements in rare-earth minerals, and is never found in nature as a free element. 89Y is the only stable isotope, and the only isotope found in the Earth's crust.
 >

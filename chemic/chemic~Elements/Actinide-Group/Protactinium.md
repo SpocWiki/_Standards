@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21986
+has_id_wikidata: Q1109 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Protactinium,1109]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21986
 (GroupNo::25)
 []
 (Charge-e::91)
+
+
+## #has_/text_of_/abstract 
 
 
 

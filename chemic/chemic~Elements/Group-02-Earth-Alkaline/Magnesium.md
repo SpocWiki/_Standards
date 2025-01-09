@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21914
+has_id_wikidata: Q660
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Magnesium,660]] 
+
 [GroupName::Group-02-Earth-Alkaline]
 [Group::[[Group-02-Earth-Alkaline]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::127.4]
 (PeriodNo::3)
 (GroupNo::2)
-SpocWebEntityId: 21914
+
+## #has_/text_of_/abstract 
+
 
 > **Magnesium** is a chemical element with the symbol (Abbr::Mg) and atomic number (Charge-e::12). It is a shiny gray metal having a low density, low melting point and high chemical reactivity. Like the other alkaline earth metals (group 2 of the periodic table) it occurs naturally only in combination with other elements and it almost always has an oxidation state of +2. It reacts readily with air to form a thin passivation coating of magnesium oxide that inhibits further corrosion of the metal. The free metal burns with a brilliant-white light. The metal is obtained mainly by electrolysis of magnesium salts obtained from brine. It is less dense than aluminium and is used primarily as a component in strong and lightweight alloys that contain aluminium.
 >

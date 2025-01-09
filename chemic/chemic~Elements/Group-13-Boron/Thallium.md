@@ -1,9 +1,12 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21976
 
+has_id_wikidata: Q932 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Thallium,932]] 
+
 [GroupName::Group-13-Boron]
 [Group::[[Group-13-Boron]]]
 
@@ -25,6 +28,9 @@ SpocWebEntityId: 21976
 [FormEnergy-kj-mol::164.1]
 (PeriodNo::6)
 (GroupNo::13)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Thallium**  is a chemical element with the symbol (Abbr::Tl) and atomic number (Charge-e::81). It is a gray post-transition metal that is not found free in nature. When isolated, thallium resembles tin, but discolors when exposed to air. Chemists William Crookes and Claude-Auguste Lamy discovered thallium independently in 1861, in residues of sulfuric acid production. Both used the newly developed method of flame spectroscopy, in which thallium produces a notable green spectral line. Thallium, from Greek θαλλός, thallós, meaning "green shoot" or "twig", was named by Crookes. It was isolated by both Lamy and Crookes in 1862; Lamy by electrolysis, and Crookes by precipitation and melting of the resultant powder. Crookes exhibited it as a powder precipitated by zinc at the international exhibition, which opened on 1 May that year.Thallium tends to form the +3 and +1 oxidation states. The +3 state resembles that of the other elements in group 13 (boron, aluminium, gallium, indium). However, the +1 state, which is far more prominent in thallium than the elements above it, recalls the chemistry of alkali metals, and thallium(I) ions are found geologically mostly in potassium-based ores, and (when ingested) are handled in many ways like potassium ions (K+) by ion pumps in living cells.

@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21934
+SpocWebEntityId: 21934 
+has_id_wikidata: Q888 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Krypton,888]]  
+
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
@@ -26,6 +30,9 @@ SpocWebEntityId: 21934
 [FormEnergy-kj-mol::9.029]
 (PeriodNo::4)
 (GroupNo::18)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Krypton** (from Ancient Greek: κρυπτός, romanized: kryptos 'the hidden one') is a chemical element with the symbol (Abbr::Kr) and atomic number (Charge-e::36). It is a colorless, odorless, tasteless noble gas that occurs in trace amounts in the atmosphere and is often used with other rare gases in fluorescent lamps. Krypton is chemically inert.

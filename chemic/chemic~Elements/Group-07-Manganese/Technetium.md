@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21941
+has_id_wikidata: Q1054 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Technetium,1054]] 
+
 [GroupName::Group-07-Manganese]
 [Group::[[Group-07-Manganese]]]
 
@@ -23,7 +27,9 @@ type: Element
 [Enthalpy::24]
 [FormEnergy-kj-mol::660]
 (PeriodNo::5)
-SpocWebEntityId: 21941
+
+
+## #has_/text_of_/abstract 
 
 
 > **Technetium** is a chemical element with the symbol (Abbr::Tc) and atomic number (Charge-e::43). It is the lightest element whose isotopes are all radioactive. All available technetium is produced as a synthetic element. Naturally occurring technetium is a spontaneous fission product in uranium ore and thorium ore, the most common source, or the product of neutron capture in molybdenum ores. This silvery gray, crystalline transition metal lies between manganese and rhenium in group (GroupNo::7) of the periodic table, and its chemical properties are intermediate between those of both adjacent elements. The most common naturally occurring isotope is 99Tc, in traces only.

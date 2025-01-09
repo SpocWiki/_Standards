@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21919
+SpocWebEntityId: 21919 
+has_id_wikidata: Q696 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Argon,696]] 
+
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
@@ -28,7 +32,16 @@ SpocWebEntityId: 21919
 (GroupNo::18)
 
 
-> **Argon** is a chemical element with the symbol (Abbr::Ar) and atomic number (Charge-e::18). It is in group 18 of the periodic table and is a noble gas. Argon is the third-most abundant gas in Earth's atmosphere, at 0.934% (9340 ppmv). It is more than twice as abundant as water vapor (which averages about 4000 ppmv, but varies greatly), 23 times as abundant as carbon dioxide (400 ppmv), and more than 500 times as abundant as neon (18 ppmv). Argon is the most abundant noble gas in Earth's crust, comprising 0.00015% of the crust.
+## #has_/text_of_/abstract 
+
+
+> **Argon** is a chemical element with the symbol (Abbr::Ar) and atomic number (Charge-e::18). 
+> It is in group 18 of the periodic table and is a noble gas. 
+> Argon is the third-most abundant gas in Earth's atmosphere, at 0.934% (9340 ppmv). 
+> It is more than twice as abundant as water vapor 
+> (which averages about 4000 ppmv, but varies greatly), 
+> 23 times as abundant as carbon dioxide (400 ppmv), 
+> and more than 500 times as abundant as neon (18 ppmv). Argon is the most abundant noble gas in Earth's crust, comprising 0.00015% of the crust.
 >
 > Nearly all of the argon in Earth's atmosphere is radiogenic argon-40, derived from the decay of potassium-40 in Earth's crust. In the universe, argon-36 is by far the most common argon isotope, as it is the most easily produced by stellar nucleosynthesis in supernovas.
 >

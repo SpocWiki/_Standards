@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21911
+SpocWebEntityId: 21911 
+has_id_wikidata: Q650 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Fluorine,650]]  
+
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
@@ -29,7 +33,13 @@ SpocWebEntityId: 21911
 
 
 
-> **Fluorine** is a chemical element with the symbol (Abbr::F) and atomic number (Charge-e::9). It is the lightest halogen and exists at standard conditions as a highly toxic, pale yellow diatomic gas. As the most electronegative reactive element, it is extremely reactive, as it reacts with all other elements except for the light inert gases.
+## #has_/text_of_/abstract 
+
+
+> **Fluorine** is a chemical element with the symbol (Abbr::F) and atomic number (Charge-e::9). 
+> It is the lightest halogen and exists at standard conditions as a highly toxic, pale yellow diatomic gas. 
+> As the most electronegative reactive element, it is extremely reactive, 
+> as it reacts with all other elements except for the light inert gases.
 >
 > Among the elements, fluorine ranks 24th in universal abundance and 13th in terrestrial abundance. Fluorite, the primary mineral source of fluorine which gave the element its name, was first described in 1529; as it was added to metal ores to lower their melting points for smelting, the Latin verb fluo meaning 'flow' gave the mineral its name. Proposed as an element in 1810, fluorine proved difficult and dangerous to separate from its compounds, and several early experimenters died or sustained injuries from their attempts. Only in 1886 did French chemist Henri Moissan isolate elemental fluorine using low-temperature electrolysis, a process still employed for modern production. Industrial production of fluorine gas for uranium enrichment, its largest application, began during the Manhattan Project in World War II.
 >

@@ -1,9 +1,13 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21935
+has_id_wikidata: Q895
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Rubidium,895]] 
 #chemic/Element 
+
 [GroupName::Group-01-Alkali]
 [Group::[[Group-01-Alkali]]]
 
@@ -28,6 +32,9 @@ SpocWebEntityId: 21935
 (GroupNo::1)
 []
 (Charge-e::37)
+
+
+## #has_/text_of_/abstract 
 
 
 

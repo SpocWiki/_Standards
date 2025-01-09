@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21909
+SpocWebEntityId: 21909 
+has_id_wikidata: Q627 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Nitrogen,627]]  
+
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
@@ -26,6 +30,8 @@ SpocWebEntityId: 21909
 [FormEnergy-kj-mol::2.7928]
 (PeriodNo::2)
 
+
+## #has_/text_of_/abstract 
 
 
 > **Nitrogen** is the chemical element with the symbol (Abbr::N) and atomic number (Charge-e::7). Nitrogen is a nonmetal and the lightest member of group (GroupNo::15) of the periodic table, often called the pnictogens. It is a common element in the universe, estimated at seventh in total abundance in the Milky Way and the Solar System. At standard temperature and pressure, two atoms of the element bond to form N2, a colorless and odorless diatomic gas. N2 forms about 78% of Earth's atmosphere, making it the most abundant uncombined element. Nitrogen occurs in all organisms, primarily in amino acids (and thus proteins), in the nucleic acids (DNA and RNA) and in the energy transfer molecule adenosine triphosphate. The human body contains about 3% nitrogen by mass, the fourth most abundant element in the body after oxygen, carbon, and hydrogen. The nitrogen cycle describes the movement of the element from the air, into the biosphere and organic compounds, then back into the atmosphere. 

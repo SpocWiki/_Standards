@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 3285
+has_id_wikidata: Q1096 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Tin,1096]] 
+
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
@@ -27,6 +31,9 @@ SpocWebEntityId: 3285
 [FormEnergy-kj-mol::295.8]
 (PeriodNo::5)
 (GroupNo::14)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Tin** is a chemical element with the symbol (Abbr::Sn) (from Latin: stannum) and atomic number (Charge-e::50). Tin is a silvery-coloured metal.

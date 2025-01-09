@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21985
+has_id_wikidata: Q1115 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Thorium,1115]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21985
 (GroupNo::24)
 []
 (Charge-e::90)
+
+
+## #has_/text_of_/abstract 
 
 
 

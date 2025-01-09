@@ -1,8 +1,13 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 9523
+has_id_wikidata: Q663 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Aluminium,663]] 
 #chemic/Element 
+
 [GroupName::Group-13-Boron]
 [Group::[[Group-13-Boron]]]
 
@@ -24,7 +29,9 @@ type: Element
 [FormEnergy-kj-mol::293.4]
 (PeriodNo::3)
 (GroupNo::13)
-SpocWebEntityId: 9523
+
+## #has_/text_of_/abstract 
+
 
 > **Aluminium** (aluminum in North American English) is a chemical element with the symbol (Abbr::Al) and atomic number (Charge-e::13). Aluminium has a density lower than those of other common metals, at approximately one third that of steel. It has a great affinity towards oxygen, and forms a protective layer of oxide on the surface when exposed to air. Aluminium visually resembles silver, both in its color and in its great ability to reflect light. It is soft, non-magnetic and ductile. It has one stable isotope, 27Al; this isotope is very common, making aluminium the twelfth most common element in the Universe. The radioactivity of 26Al is used in radiodating.
 >

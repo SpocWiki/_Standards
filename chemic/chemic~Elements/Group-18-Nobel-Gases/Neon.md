@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21912
+SpocWebEntityId: 21912 
+has_id_wikidata: Q654 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Neon,654]] 
+
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
@@ -26,6 +30,9 @@ SpocWebEntityId: 21912
 [FormEnergy-kj-mol::1.7326]
 (PeriodNo::2)
 (GroupNo::18)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Neon** is a chemical element with the symbol (Abbr::Ne) and atomic number (Charge-e::10). It is a noble gas. Neon is a colorless, odorless, inert monatomic gas under standard conditions, with about two-thirds the density of air. It was discovered (along with krypton and xenon) in 1898 as one of the three residual rare inert elements remaining in dry air, after nitrogen, oxygen, argon and carbon dioxide were removed. Neon was the second of these three rare gases to be discovered and was immediately recognized as a new element from its bright red emission spectrum. The name neon is derived from the Greek word, νέον, neuter singular form of νέος (neos), meaning 'new'. Neon is chemically inert, and no uncharged neon compounds are known. The compounds of neon currently known include ionic molecules, molecules held together by van der Waals forces and clathrates.

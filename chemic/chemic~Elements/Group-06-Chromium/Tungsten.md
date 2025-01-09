@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 21970
+has_id_wikidata: Q743
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Tungsten,743]] 
+
 [GroupName::Group-06-Chromium]
 [Group::[[Group-06-Chromium]]]
 
@@ -20,7 +24,9 @@ type: Element
 [Enthalpy::35.4]
 [FormEnergy-kj-mol::824]
 (PeriodNo::6)
-SpocWebEntityId: 21970
+
+
+## #has_/text_of_/abstract 
 
 
 > **Tungsten**, or wolfram, is a chemical element with the symbol (Abbr::W) and atomic number (Charge-e::74). Tungsten is a rare metal found naturally on Earth almost exclusively as compounds with other elements. It was identified as a new element in 1781 and first isolated as a metal in 1783. Its important ores include scheelite and wolframite, the latter lending the element its alternate name.

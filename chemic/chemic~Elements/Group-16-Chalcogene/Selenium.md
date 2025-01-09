@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21932
+SpocWebEntityId: 21932 
+has_id_wikidata: Q876 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Selenium,876]] 
+
 
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]
@@ -30,7 +34,11 @@ SpocWebEntityId: 21932
 (GroupNo::16)
 
 
-> **Selenium** is a chemical element with the symbol (Abbr::Se) and atomic number (Charge-e::34). It is a nonmetal (more rarely considered a metalloid) with properties that are intermediate between the elements above and below in the periodic table, sulfur and tellurium, and also has similarities to arsenic. It seldom occurs in its elemental state or as pure ore compounds in the Earth's crust. Selenium – from Greek selḗnē (σελήνη 'Moon') – was discovered in 1817 by Jöns Jacob Berzelius, who noted the similarity of the new element to the previously discovered tellurium (named for the Earth).
+## #has_/text_of_/abstract 
+
+
+> **Selenium** is a chemical element with the symbol (Abbr::Se) and atomic number (Charge-e::34). 
+> It is a nonmetal (more rarely considered a metalloid) with properties that are intermediate between the elements above and below in the periodic table, sulfur and tellurium, and also has similarities to arsenic. It seldom occurs in its elemental state or as pure ore compounds in the Earth's crust. Selenium – from Greek selḗnē (σελήνη 'Moon') – was discovered in 1817 by Jöns Jacob Berzelius, who noted the similarity of the new element to the previously discovered tellurium (named for the Earth).
 >
 > Selenium is found in metal sulfide ores, where it partially replaces the sulfur. Commercially, selenium is produced as a byproduct in the refining of these ores, most often during production. Minerals that are pure selenide or selenate compounds are known but rare. The chief commercial uses for selenium today are glassmaking and pigments. Selenium is a semiconductor and is used in photocells. Applications in electronics, once important, have been mostly replaced with silicon semiconductor devices. Selenium is still used in a few types of DC power surge protectors and one type of fluorescent quantum dot.
 >

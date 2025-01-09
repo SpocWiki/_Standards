@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21995
+has_id_wikidata: Q1896 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Fermium,1896]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21995
 (GroupNo::34)
 []
 (Charge-e::100)
+
+
+## #has_/text_of_/abstract 
 
 
 

@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
-SpocWebEntityId: 21918
+SpocWebEntityId: 21918 
+has_id_wikidata: Q688 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Chlorine,688]] 
+
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
@@ -28,7 +32,11 @@ SpocWebEntityId: 21918
 (GroupNo::17)
 
 
-> **Chlorine** is a chemical element with the symbol (Abbr::Cl) and atomic number (Charge-e::17). The second-lightest of the halogens, it appears between fluorine and bromine in the periodic table and its properties are mostly intermediate between them. Chlorine is a yellow-green gas at room temperature. It is an extremely reactive element and a strong oxidising agent: among the elements, it has the highest electron affinity and the third-highest electronegativity on the revised Pauling scale, behind only oxygen and fluorine.
+## #has_/text_of_/abstract 
+
+
+> **Chlorine** is a chemical element with the symbol (Abbr::Cl) and atomic number (Charge-e::17). 
+> The second-lightest of the halogens, it appears between fluorine and bromine in the periodic table and its properties are mostly intermediate between them. Chlorine is a yellow-green gas at room temperature. It is an extremely reactive element and a strong oxidising agent: among the elements, it has the highest electron affinity and the third-highest electronegativity on the revised Pauling scale, behind only oxygen and fluorine.
 >
 > Chlorine played an important role in the experiments conducted by medieval alchemists, which commonly involved the heating of chloride salts like ammonium chloride (sal ammoniac) and sodium chloride (common salt), producing various chemical substances containing chlorine such as hydrogen chloride, mercury(II) chloride (corrosive sublimate), and hydrochloric acid (in the form of aqua regia). However, the nature of free chlorine gas as a separate substance was only recognised around 1630 by Jan Baptist van Helmont. Carl Wilhelm Scheele wrote a description of chlorine gas in 1774, supposing it to be an oxide of a new element. In 1809, chemists suggested that the gas might be a pure element, and this was confirmed by Sir Humphry Davy in 1810, who named it after the Ancient Greek χλωρός (khlōrós, "pale green") because of its colour.
 >

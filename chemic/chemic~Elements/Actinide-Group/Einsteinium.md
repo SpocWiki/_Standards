@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
 SpocWebEntityId: 21994
+has_id_wikidata: Q1892 
 ---
+
+#is_/same_as :: [[../../../WikiData/WD~Einsteinium,1892]] 
+
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -30,6 +34,9 @@ SpocWebEntityId: 21994
 (GroupNo::33)
 []
 (Charge-e::99)
+
+
+## #has_/text_of_/abstract 
 
 
 

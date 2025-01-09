@@ -1,9 +1,12 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21946
 
+has_id_wikidata: Q1094 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Indium,1094]] 
+
 [GroupName::Group-13-Boron]
 [Group::[[Group-13-Boron]]]
 
@@ -25,6 +28,9 @@ SpocWebEntityId: 21946
 [FormEnergy-kj-mol::231.5]
 (PeriodNo::5)
 (GroupNo::13)
+
+
+## #has_/text_of_/abstract 
 
 
 > **Indium** is a chemical element with the symbol (Abbr::In) and atomic number (Charge-e::49). Indium is the softest metal that is not an alkali metal. It is a silvery-white metal that resembles tin in appearance. It is a post-transition metal that makes up 0.21 parts per million of the Earth's crust. Indium has a melting point higher than sodium and gallium, but lower than lithium and tin. Chemically, indium is similar to gallium and thallium, and it is largely intermediate between the two in terms of its properties. Indium was discovered in 1863 by Ferdinand Reich and Hieronymous Theodor Richter by spectroscopic methods. They named it for the indigo blue line in its spectrum. Indium was isolated the next year.

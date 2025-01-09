@@ -1,8 +1,12 @@
-﻿---
+---
 type: Element
 
+SpocWebEntityId: 6012
+has_id_wikidata: Q753 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Copper,753]] 
+
 [GroupName::Group-11-Copper]
 [Group::[[Group-11-Copper]]]
 
@@ -24,7 +28,9 @@ type: Element
 [FormEnergy-kj-mol::300.3]
 (PeriodNo::4)
 (GroupNo::11)
-SpocWebEntityId: 6012
+
+
+## #has_/text_of_/abstract 
 
 
 > **Copper** is a chemical element with the symbol (Abbr::Cu) (from Latin: cuprum) and atomic number (Charge-e::29). It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a pinkish-orange color. Copper is used as a conductor of heat and electricity, as a building material, and as a constituent of various metal alloys, such as sterling silver used in jewelry, cupronickel used to make marine hardware and coins, and constantan used in strain gauges and thermocouples for temperature measurement.

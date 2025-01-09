@@ -1,8 +1,11 @@
-﻿---
+---
 type: Element
 
+has_id_wikidata: Q722 
 ---
 #chemic/Element 
+#is_/same_as :: [[../../../WikiData/WD~Vanadium,722]] 
+
 [GroupName::Group-05-Vanadium]
 [Group::[[Group-05-Vanadium]]]
 
@@ -25,6 +28,9 @@ type: Element
 (PeriodNo::4)
 (GroupNo::5)
 SpocWebEntityId: 21923
+
+
+## #has_/text_of_/abstract 
 
 
 > **Vanadium** is a chemical element with the symbol (Abbr::V) and atomic number (Charge-e::23). It is a hard, silvery-grey, malleable transition metal. The elemental metal is rarely found in nature, but once isolated artificially, the formation of an oxide layer (passivation) somewhat stabilizes the free metal against further oxidation.
