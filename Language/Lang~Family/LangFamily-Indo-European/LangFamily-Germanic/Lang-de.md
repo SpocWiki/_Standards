@@ -1,3 +1,14 @@
+---
+type: Lang
+aliases:
+  - German
+  - deutschsprachig
+  - deutschsprachiges
+  - deutschsprachige
+  - deutschsprachigen
+tags:
+  - Lang/de
+---
 ﻿---
 type: Lang
 aliases:
