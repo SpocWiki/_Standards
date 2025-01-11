@@ -1,8 +1,67 @@
 ---
 type: Element
-
-SpocWebEntityId: 21919 
-has_id_wikidata: Q696 
+SpocWebEntityId: 21919
+has_id_wikidata: Q696
+MeSH tree code:
+  - D01.268.613.050
+  - D01.362.641.113
+DSSTOX compound identifier: DTXCID0031055
+E number: E938
+InChI: InChI=1S/Ar
+InChIKey: XKRFYHLGVUSROY-UHFFFAOYSA-N
+Gujarati Vishwakosh entry: આગૉર્ન
+discoverer or inventor:
+  - "[[_Standards/WikiData/WD~John Strutt, 3rd Baron Rayleigh,83297]]"
+  - "[[_Standards/WikiData/WD~William Ramsay,950726]]"
+has use: "[[_Standards/WikiData/WD~food additive,189567]]"
+part of:
+  - "[[_Standards/WikiData/WD~period 3,211331]]"
+  - "[[_Standards/WikiData/WD~noble gases,19609]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+instance of:
+  - "[[_Standards/WikiData/WD~atmophile element,2313842]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+  - "[[_Standards/WikiData/WD~gas,11432]]"
+has characteristic:
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
+  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
+time of discovery or invention: 1894-01-01T00:00:00Z
+UMLS CUI: C0003781
+melting point: -189.34
+boiling point: -185.85
+named after: "[[_Standards/WikiData/WD~laziness,484]]"
+subclass of: "[[_Standards/WikiData/WD~noble gases,19609]]"
+atomic number: 18
+dynamic viscosity: 22.7
+speed of sound: 813
+standard molar entropy: 154.8
+mass: 39.95
+ASHRAE refrigerant number: "740"
+OmegaWiki Defined Meaning: "15591"
+PubChem CID: "23968"
+ZVG number: "7180"
+CosIng number: "54501"
+chemical formula: Ar
+element symbol: Ar
+Commons gallery: Argon
+Commons category: Argon
+U.S. National Archives Identifier: "10639898"
+electron configuration:
+  - 1s² 2s² 2p⁶ 3s² 3p⁶
+  - "[Ne] 3s² 3p⁶"
+Unicode character: 氬
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Argon%20ice%201.jpg
+canonical SMILES: "[Ar]"
+EC number: 231-147-0
+UNII: 67XQY1V3KH
+CAS Registry Number: 7440-37-1
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Argon,696]] 

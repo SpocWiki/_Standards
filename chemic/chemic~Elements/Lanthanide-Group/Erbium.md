@@ -1,8 +1,60 @@
 ---
 type: Element
-
-SpocWebEntityId: 21964 
-has_id_wikidata: Q1849 
+SpocWebEntityId: 21964
+has_id_wikidata: Q1849
+has use:
+  - "[[_Standards/WikiData/WD~nuclear poison,221033]]"
+  - "[[_Standards/WikiData/WD~Er_YAG laser,2585799]]"
+  - "[[_Standards/WikiData/WD~Cryocooler,4241150]]"
+  - "[[_Standards/WikiData/WD~Glass coloring and color marking,8348044]]"
+  - "[[_Standards/WikiData/WD~alloy,37756]]"
+part of:
+  - "[[_Standards/WikiData/WD~period 6,239813]]"
+  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
+named after: "[[_Standards/WikiData/WD~Ytterby mine,631733]]"
+made from material:
+  - "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
+  - "[[_Standards/WikiData/WD~xenotime mineral group,3777882]]"
+  - "[[_Standards/WikiData/WD~euxenite mineral group,18016084]]"
+  - "[[_Standards/WikiData/WD~monazite sands,115626544]]"
+UMLS CUI: C0014688
+time of discovery or invention: 1843-01-01T00:00:00Z
+instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+ionic radius:
+  - 1
+  - 0.89
+electronegativity: 1
+atomic number: 68
+ZVG number: "7680"
+Gmelin number: "16280"
+PubChem CID: "23980"
+OmegaWiki Defined Meaning: "158202"
+mass: 167.259
+chemical formula: Er
+element symbol: Er
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Erbium.jpg
+canonical SMILES: "[Er]"
+EC number: 231-160-1
+CAS Registry Number: 7440-52-0
+UNII: 77B218D3YE
+MeSH tree code:
+  - D01.268.558.362.437
+  - D01.552.550.399.437
+DSSTOX compound identifier: DTXCID1047659
+Commons gallery: Erbium
+Commons category: Erbium
+InChI: InChI=1S/Er
+InChIKey: UYAHIZSMUZPPFV-UHFFFAOYSA-N
+Unicode character: 鉺
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Erbium,1849]] 

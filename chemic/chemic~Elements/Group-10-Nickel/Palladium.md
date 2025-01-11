@@ -1,8 +1,69 @@
 ---
 type: Element
-
 SpocWebEntityId: 21944
-has_id_wikidata: Q1089 
+has_id_wikidata: Q1089
+Unicode character: 鈀
+time of discovery or invention: 1803-01-01T00:00:00Z
+part of:
+  - "[[_Standards/WikiData/WD~group 10,205253]]"
+  - "[[_Standards/WikiData/WD~period 5,244982]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~platinum group,223995]]"
+  - "[[_Standards/WikiData/WD~period 5,244982]]"
+  - "[[_Standards/WikiData/WD~precious metal,271449]]"
+  - "[[_Standards/WikiData/WD~transition metal,19588]]"
+different from:
+  - "[[_Standards/WikiData/WD~Palladium,255689]]"
+  - "[[_Standards/WikiData/WD~palladium as an investment,1669450]]"
+  - "[[_Standards/WikiData/WD~Pallad grenade launcher,2033786]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+UMLS CUI: C0030230
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%20crystal%20grown%20using%20CVD.webm
+electron configuration:
+  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d⁸
+  - "[Kr] 5s² 5d⁸"
+named after: "[[_Standards/WikiData/WD~Q3002,3002]]"
+instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+electronegativity: 2.2
+atomic number: 46
+ionic radius:
+  - 0.62
+  - 0.64
+  - 0.76
+  - 0.86
+mass: 106.42
+PubChem CID: "23938"
+ZVG number: "8340"
+Commons gallery: Palladium
+Commons category: Palladium
+chemical formula: Pd
+element symbol: Pd
+CosIng number: "86747"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%201-noReflection.jpg
+canonical SMILES: "[Pd]"
+UNSPSC Code: "11101718"
+Common Procurement Vocabulary code: "14794000"
+EC number: 231-115-6
+OmegaWiki Defined Meaning: "341758"
+Reaxys registry number: "4937491"
+UNII: 5TWQ1V240M
+CAS Registry Number: 7440-05-3
+CPV Supplementary code: AA43
+MeSH tree code:
+  - D01.268.556.680
+  - D01.268.956.718
+  - D01.552.544.680
+DSSTOX compound identifier: DTXCID2047644
+Wolfram Language entity code: Entity["Mineral", "Palladium"]
+InChI: InChI=1S/Pd
+InChIKey: KDLHZDBZIXYQEI-UHFFFAOYSA-N
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Palladium,1089]] 
@@ -33,11 +94,38 @@ has_id_wikidata: Q1089
 ## #has_/text_of_/abstract 
 
 
-> **Palladium** is a chemical element with the symbol (Abbr::Pd) and atomic number (Charge-e::46). It is a rare and lustrous silvery-white metal discovered in 1803 by the English chemist William Hyde Wollaston. He named it after the asteroid Pallas, which was itself named after the epithet of the Greek goddess Athena, acquired by her when she slew Pallas. Palladium, platinum, rhodium, ruthenium, iridium and osmium form a group of elements referred to as the platinum group metals (PGMs). They have similar chemical properties, but palladium has the lowest melting point and is the least dense of them.
+> **Palladium** is a chemical element with the symbol (Abbr::Pd) and atomic number (Charge-e::46). 
+> It is a rare and lustrous silvery-white metal 
+> discovered in 1803 by the English chemist William Hyde Wollaston. 
+> 
+> He named it after the asteroid Pallas, 
+> which was itself named after the epithet of the Greek goddess Athena, 
+> acquired by her when she slew Pallas. 
+> 
+> Palladium, platinum, rhodium, ruthenium, iridium and osmium 
+> form a group of elements referred to as the platinum group metals (PGMs). 
+> They have similar chemical properties, 
+> but palladium has the lowest melting point and is the least dense of them.
 >
-> More than half the supply of palladium and its congener platinum is used in catalytic converters, which convert as much as 90% of the harmful gases in automobile exhaust (hydrocarbons, carbon monoxide, and nitrogen dioxide) into nontoxic substances (nitrogen, carbon dioxide and water vapor). Palladium is also used in electronics, dentistry, medicine, hydrogen purification, chemical applications, groundwater treatment, and jewelry. Palladium is a key component of fuel cells, in which hydrogen and oxygen react to produce electricity, heat, and water.
+> More than half the supply of palladium and its congener platinum is used in catalytic converters, 
+> which convert as much as 90% of the harmful gases in automobile exhaust 
+> (hydrocarbons, carbon monoxide, and nitrogen dioxide) into nontoxic substances 
+> (nitrogen, carbon dioxide and water vapor). 
+> 
+> Palladium is also used in electronics, dentistry, medicine, hydrogen purification, 
+> chemical applications, groundwater treatment, and jewelry. 
+> 
+> Palladium is a key component of fuel cells, 
+> in which hydrogen and oxygen react to produce electricity, heat, and water.
 >
-> Ore deposits of palladium and other PGMs are rare. The most extensive deposits have been found in the norite belt of the Bushveld Igneous Complex covering the Transvaal Basin in South Africa, the Stillwater Complex in Montana, United States; the Sudbury Basin and Thunder Bay District of Ontario, Canada, and the Norilsk Complex in Russia. Recycling is also a source, mostly from scrapped catalytic converters. The numerous applications and limited supply sources result in considerable investment interest.
+> Ore deposits of palladium and other PGMs are rare. 
+> The most extensive deposits have been found 
+> in the norite belt of the Bushveld Igneous Complex covering the Transvaal Basin in South Africa, 
+> the Stillwater Complex in Montana, United States; the Sudbury Basin 
+> and Thunder Bay District of Ontario, Canada, and the Norilsk Complex in Russia. 
+> 
+> Recycling is also a source, mostly from scrapped catalytic converters. 
+> The numerous applications and limited supply sources result in considerable investment interest.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palladium)
 

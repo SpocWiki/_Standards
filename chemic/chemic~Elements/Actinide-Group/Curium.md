@@ -1,8 +1,54 @@
 ---
 type: Element
-
 SpocWebEntityId: 21991
-has_id_wikidata: Q1876 
+has_id_wikidata: Q1876
+part of:
+  - "[[_Standards/WikiData/WD~period 7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+instance of:
+  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox curium,8085313]]"
+different from: "[[_Standards/WikiData/WD~Kiur,11739561]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q65411312,65411312]]"
+UMLS CUI: C0010473
+plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20145.jpg
+named after:
+  - "[[_Standards/WikiData/WD~Marie Curie,7186]]"
+  - "[[_Standards/WikiData/WD~Pierre Curie,37463]]"
+ionic radius:
+  - 0.85
+  - 0.95
+  - 0.97
+atomic number: 96
+electronegativity: 1.28
+discoverer or inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+mass: 247.07
+PubChem CID: "23979"
+OmegaWiki Defined Meaning: "157032"
+chemical formula: Cm
+element symbol: Cm
+Commons gallery: Curium
+Commons category: Curium
+time of discovery or invention: 1944-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Cm-Fluoreszenz.png
+canonical SMILES: "[Cm]"
+Dewey Decimal Classification: "546.442"
+CAS Registry Number: 7440-51-9
+MeSH tree code:
+  - D01.268.271.100.175
+  - D01.268.556.200
+  - D01.496.749.305.100.175
+  - D01.552.020.272
+  - D01.552.544.200
+DSSTOX compound identifier: DTXCID80147881
+InChI: InChI=1S/Cm
+UNII: M5LL84MZ2W
+InChIKey: NIWWFAAXEMMFMS-UHFFFAOYSA-N
+Unicode character: 鋦
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Curium,1876]] 
@@ -36,8 +82,30 @@ has_id_wikidata: Q1876
 (Charge-e::96)
 
 
+
 ## #has_/text_of_/abstract 
 
+> **Curium** is a synthetic chemical element; it has symbol Cm and atomic number 96. 
+> This transuranic actinide element was named after eminent scientists Marie and Pierre Curie, 
+> both known for their research on radioactivity. 
+> 
+> Curium was first intentionally made 
+> by the team of Glenn T. Seaborg, Ralph A. James, and Albert Ghiorso in 1944, 
+> using the cyclotron at Berkeley. 
+> 
+> They bombarded the newly discovered element plutonium (the isotope 239Pu) with alpha particles. 
+> This was then sent to the Metallurgical Laboratory at University of Chicago 
+> where a tiny sample of curium was eventually separated and identified. 
+> The discovery was kept secret until after the end of World War II. 
+> The news was released to the public in November 1947. 
+> Most curium is produced by bombarding uranium or plutonium with neutrons in nuclear reactors – 
+> one tonne of spent nuclear fuel contains ~20 grams of curium. 
+>
+> Curium is a hard, dense, silvery metal with a high melting and boiling point for an actinide. It is paramagnetic at ambient conditions, but becomes antiferromagnetic upon cooling, and other magnetic transitions are also seen in many curium compounds. In compounds, curium usually has valence +3 and sometimes +4; the +3 valence is predominant in solutions. Curium readily oxidizes, and its oxides are a dominant form of this element. It forms strongly fluorescent complexes with various organic compounds. If it gets into the human body, curium accumulates in bones, lungs, and liver, where it promotes cancer.
+>
+> All known isotopes of curium are radioactive and have small critical mass for a nuclear chain reaction. The most stable isotope, 247Cm, has a half-life of 15.6 million years; the longest-lived curium isotopes predominantly emit alpha particles. Radioisotope thermoelectric generators can use the heat from this process, but this is hindered by the rarity and high cost of curium. Curium is used in making heavier actinides and the 238Pu radionuclide for power sources in artificial cardiac pacemakers and RTGs for spacecraft. It served as the α-source in the alpha particle X-ray spectrometers of several space probes, including the Sojourner, Spirit, Opportunity, and Curiosity Mars rovers and the Philae lander on comet 67P/Churyumov–Gerasimenko, to analyze the composition and structure of the surface.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Curium)
 
 
 ## Confidential Links & Embeds: 

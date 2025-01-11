@@ -1,8 +1,35 @@
 ---
 type: Element
-
 SpocWebEntityId: 21999
 has_id_wikidata: Q1226
+location of discovery: "[[_Standards/WikiData/WD~Dubna,135466]]"
+part of:
+  - "[[_Standards/WikiData/WD~group 4,189302]]"
+  - "[[_Standards/WikiData/WD~period 7,244979]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
+instance of:
+  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+named after: "[[_Standards/WikiData/WD~Ernest Rutherford,9123]]"
+subclass of: "[[_Standards/WikiData/WD~transition metal,19588]]"
+atomic number: 104
+OmegaWiki Defined Meaning: "353376"
+time of discovery or invention: 1964-01-01T00:00:00Z
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20104%20Rutherfordium.svg
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-rutherfordium.wav
+canonical SMILES: "[Rf]"
+electron configuration: "[Rn] 5f¹⁴ 6d² 7s²"
+CAS Registry Number: 53850-36-5
+PubChem CID: "56951715"
+DSSTOX compound identifier: DTXCID40669690
+InChI: InChI=1S/Rf
+chemical formula: Rf
+element symbol: Rf
+Commons gallery: Rutherfordium
+Commons category: Rutherfordium
+InChIKey: YGPLJIIQQIDVFJ-UHFFFAOYSA-N
+Unicode character: 鑪
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226]] 
@@ -33,11 +60,30 @@ has_id_wikidata: Q1226
 ## #has_/text_of_/abstract 
 
 
-> **Rutherfordium** is a chemical element with the symbol (Abbr::Ru) and atomic number 104, named after New Zealand-born British physicist Ernest Rutherford. As a synthetic element, it is not found in nature and can only be made in a particle accelerator. It is radioactive; the most stable known isotope, 267Rf, has a half-life of about 48 minutes.
+> **Rutherfordium** is a chemical element with the symbol (Abbr::Ru) and atomic number 104, 
+> named after New Zealand-born British physicist Ernest Rutherford. 
+> 
+> As a synthetic element, it is not found in nature and can only be made in a particle accelerator. 
+> It is radioactive; the most stable known isotope, 267Rf, has a half-life of about 48 minutes.
 >
-> In the periodic table, it is a d-block element and the second of the fourth-row transition elements. It is in period 7 and is a group 4 element. Chemistry experiments have confirmed that rutherfordium behaves as the heavier homolog to hafnium in group 4. The chemical properties of rutherfordium are characterized only partly. They compare well with the other group 4 elements, even though some calculations had indicated that the element might show significantly different properties due to relativistic effects.
+> In the periodic table, it is a d-block element and the second of the fourth-row transition elements. 
+> It is in period 7 and is a group 4 element. 
+> 
+> Chemistry experiments have confirmed that 
+> rutherfordium behaves as the heavier homolog to hafnium in group 4. 
+> The chemical properties of rutherfordium are characterized only partly. 
+> They compare well with the other group 4 elements, 
+> even though some calculations had indicated 
+> that the element might show significantly different properties due to relativistic effects.
 >
-> In the 1960s, small amounts of rutherfordium were produced at Joint Institute for Nuclear Research in the Soviet Union and at Lawrence Berkeley National Laboratory in California. Priority of discovery and hence the name of the element was disputed between Soviet and American scientists, and it was not until 1997 that the International Union of Pure and Applied Chemistry (IUPAC) established rutherfordium as the official name of the element.
+> In the 1960s, small amounts of rutherfordium were produced 
+> at Joint Institute for Nuclear Research in the Soviet Union 
+> and at Lawrence Berkeley National Laboratory in California. 
+> 
+> Priority of discovery and hence the name of the element was disputed 
+> between Soviet and American scientists, and it was not until 1997 
+> that the International Union of Pure and Applied Chemistry (IUPAC) 
+> established rutherfordium as the official name of the element.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rutherfordium)
 

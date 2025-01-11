@@ -1,8 +1,43 @@
 ---
 type: Element
-
-SpocWebEntityId: 21998 
-has_id_wikidata: Q1905 
+SpocWebEntityId: 21998
+has_id_wikidata: Q1905
+location of discovery: "[[_Standards/WikiData/WD~University of California, Berkeley,168756]]"
+named after: "[[_Standards/WikiData/WD~Ernest Lawrence,169577]]"
+part of:
+  - "[[_Standards/WikiData/WD~period 7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
+instance of:
+  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox lawrencium,8085415]]"
+electronegativity: 1.3
+atomic number: 103
+PubChem CID: "31192"
+OmegaWiki Defined Meaning: "161353"
+time of discovery or invention: 1961-02-14T00:00:00Z
+chemical formula: Lr
+element symbol: Lr
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20103%20Lawrencium.svg
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-lawrencium.wav
+canonical SMILES: "[Lr]"
+CAS Registry Number: 22537-19-5
+InChIKey: CNQCVBJFEGMYDW-UHFFFAOYSA-N
+MeSH tree code:
+  - D01.268.271.100.500
+  - D01.268.556.423
+  - D01.268.956.295
+  - D01.496.749.305.100.500
+  - D01.552.020.507
+  - D01.552.544.423
+DSSTOX compound identifier: DTXCID8099548
+InChI: InChI=1S/Lr
+Commons gallery: Lawrencium
+Commons category: Lawrencium
+UNII: QRT37X99RQ
+Unicode character: 鐒
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905]] 
@@ -35,6 +70,40 @@ has_id_wikidata: Q1905
 
 ## #has_/text_of_/abstract 
 
+> **Lawrencium** is a synthetic chemical element; it has symbol Lr (formerly Lw) and atomic number 103. 
+> It is named after Ernest Lawrence, inventor of the cyclotron, 
+> a device that was used to discover many artificial radioactive elements. 
+> 
+> A radioactive metal, lawrencium is the eleventh transuranium element, the third transfermium,  
+> and the last member of the actinide series. 
+> Like all elements with atomic number over 100, 
+> lawrencium can only be produced in particle accelerators 
+> by bombarding lighter elements with charged particles. 
+> 
+> Fourteen isotopes of lawrencium are currently known; the most stable is 266Lr with half-life 11 hours, 
+> but the shorter-lived 260Lr (half-life 2.7 minutes) is most commonly used in chemistry 
+> because it can be produced on a larger scale.
+>
+> Chemistry experiments confirm that lawrencium 
+> behaves as a heavier homolog to lutetium in the periodic table, and is a trivalent element. 
+> It thus could also be classified as the first of the 7th-period transition metals. 
+> 
+> Its electron configuration is anomalous for its position in the periodic table, 
+> having an s2p configuration instead of the s2d configuration of its homolog lutetium. 
+> However, this does not appear to affect lawrencium's chemistry.
+>
+> In the 1950s, 1960s, and 1970s, many claims of the synthesis of element 103 of varying quality 
+> were made from laboratories in the Soviet Union and the United States. 
+> The priority of the discovery and therefore the name of the element 
+> was disputed between Soviet and American scientists. 
+> 
+> The International Union of Pure and Applied Chemistry (IUPAC) 
+> initially established lawrencium as the official name for the element 
+> and gave the American team credit for the discovery; 
+> this was reevaluated in 1992, giving both teams shared credit for the discovery 
+> but not changing the element's name.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Lawrencium)
 
 
 ## Confidential Links & Embeds: 

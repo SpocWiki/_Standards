@@ -1,8 +1,86 @@
 ---
 type: Element
-
 SpocWebEntityId: 21915
-has_id_wikidata: Q670 
+has_id_wikidata: Q670
+oxidation state:
+  - 4
+  - -4
+  - -3
+  - -2
+  - -1
+  - 1
+  - 2
+  - 3
+ionic radius:
+  - 0.4
+  - 0.26
+time-weighted average exposure limit:
+  - 5
+  - 15
+  - 10
+atomic number: 14
+minimum explosive concentration: 160
+electronegativity: 1.9
+made from material:
+  - "[[_Standards/WikiData/WD~sand,34679]]"
+  - "[[_Standards/WikiData/WD~quartzite,237883]]"
+  - "[[_Standards/WikiData/WD~aluminosilicate,429979]]"
+standard molar entropy: 18.8
+melting point: 2570
+density: 2.329
+boiling point: 4271
+mass: 28.085
+OmegaWiki Defined Meaning: "3421"
+ZVG number: "8110"
+CosIng number: "96140"
+chemical formula: Si
+element symbol: Si
+time of discovery or invention: 1823-01-01T00:00:00Z
+canonical SMILES: "[Si]"
+PubChem CID: "5461123"
+Unicode character: 矽
+UNSPSC Code: "12141911"
+named after: "[[_Standards/WikiData/WD~flint,83087]]"
+part of:
+  - "[[_Standards/WikiData/WD~group 14,106693]]"
+  - "[[_Standards/WikiData/WD~period 3,211331]]"
+found in taxon: "[[_Standards/WikiData/WD~Opuntia stricta,141416]]"
+different from: "[[_Standards/WikiData/WD~silicone,146439]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Jöns Jacob Berzelius,151911]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Silicon,108309527]]"
+instance of:
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~combustible powder,21073023]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+subject has role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+exact match: http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_7061
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Silicon-unit-cell-3D-balls.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/SiliconCroda.jpg
+electron configuration:
+  - "[Ne] 3s² 3p²"
+  - 1s² 2s² 2p⁶ 3s² 3p²
+EC number: 231-130-8
+CAS Registry Number: 7440-21-3
+MeSH tree code: D01.268.513.937
+DSSTOX compound identifier: DTXCID5030038
+Wolfram Language entity code: Entity["Mineral", "Silicon"]
+Krugosvet article: himiya/kremniy
+InChI: InChI=1S/Si
+Commons category: Silicon
+Commons gallery: Silicon
+RTECS number: VW0400000
+InChIKey: XUIMIQQOPSSXEZ-UHFFFAOYSA-N
+UNII: Z4152N8IUI
+associated hazard: "[[_Standards/WikiData/WD~silicon exposure,21175300]]"
+has effect: "[[_Standards/WikiData/WD~silicon exposure,21175300]]"
+UMLS CUI: C0037107
+subclass of: "[[_Standards/WikiData/WD~metalloid,19596]]"
+vapor pressure: 0
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Silicon,670]] 
@@ -34,9 +112,17 @@ has_id_wikidata: Q670
 ## #has_/text_of_/abstract 
 
 
-> **Silicon** is a chemical element with the symbol (Abbr::Si) and atomic number (Charge-e::14). It is a hard, brittle crystalline solid with a blue-grey metallic luster, and is a tetravalent metalloid and semiconductor. It is a member of group (GroupNo::14) in the periodic table: carbon is above it; and germanium, tin, lead, and flerovium are below it. It is relatively unreactive.
+> **Silicon** is a chemical element with the symbol (Abbr::Si) and atomic number (Charge-e::14). 
+> It is a hard, brittle crystalline solid with a blue-grey metallic luster, 
+> and is a tetravalent metalloid and semiconductor. 
+> It is a member of group (GroupNo::14) in the periodic table: 
+> carbon is above it; and germanium, tin, lead, and flerovium are below it. It is relatively unreactive.
 >
-> Because of its high chemical affinity for oxygen, it was not until 1823 that Jöns Jakob Berzelius was first able to prepare it and characterize it in pure form. Its oxides form a family of anions known as silicates. Its melting and boiling points of 1414 °C and 3265 °C, respectively, are the second highest among all the metalloids and nonmetals, being surpassed only by boron.
+> Because of its high chemical affinity for oxygen, it was 
+> not until 1823 that [[Jöns Jakob Berzelius]] was first able to prepare it and characterize it in pure form. Its 
+> oxides form a family of anions known as silicates. 
+> Its melting and boiling points of 1414 °C and 3265 °C, respectively, 
+> are the second highest among all the metalloids and nonmetals, being surpassed only by boron.
 >
 > Silicon is the eighth most common element in the universe by mass, but very rarely occurs as the pure element in the Earth's crust. It is widely distributed in space in cosmic dusts, planetoids, and planets as various forms of silicon dioxide (silica) or silicates. More than 90% of the Earth's crust is composed of silicate minerals, making silicon the second most abundant element in the Earth's crust (about 28% by mass), after oxygen.
 >

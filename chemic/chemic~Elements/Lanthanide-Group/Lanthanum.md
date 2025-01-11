@@ -1,8 +1,111 @@
 ---
 type: Element
-
-SpocWebEntityId: 21953 
-has_id_wikidata: Q1801 
+SpocWebEntityId: 21953
+has_id_wikidata: Q1801
+made from material:
+  - "[[_Standards/WikiData/WD~gysinite-(La),112961300]]"
+  - "[[_Standards/WikiData/WD~dissakisite-(La),973640]]"
+  - "[[_Standards/WikiData/WD~retzian-(La),1118940]]"
+  - "[[_Standards/WikiData/WD~wakefieldite-(La),2540870]]"
+  - "[[_Standards/WikiData/WD~allanite-(La),3612346]]"
+  - "[[_Standards/WikiData/WD~ancylite-(La),3615274]]"
+  - "[[_Standards/WikiData/WD~arsenoflorencite-(La),3623972]]"
+  - "[[_Standards/WikiData/WD~bastnäsite-(La),3636138]]"
+  - "[[_Standards/WikiData/WD~belovite-(La),3637862]]"
+  - "[[_Standards/WikiData/WD~ferricerite-(LaCa),3665120]]"
+  - "[[_Standards/WikiData/WD~davidite-(La),3703648]]"
+  - "[[_Standards/WikiData/WD~ferronordite-(La),3743258]]"
+  - "[[_Standards/WikiData/WD~florencite-(La),3746700]]"
+  - "[[_Standards/WikiData/WD~hydroxylbastnäsite-(La),3787833]]"
+  - "[[_Standards/WikiData/WD~håleniusite-(La),3788068]]"
+  - "[[_Standards/WikiData/WD~iraqite-(La),3801849]]"
+  - "[[_Standards/WikiData/WD~kozoite-(La),3816712]]"
+  - "[[_Standards/WikiData/WD~kukharenkoite-(La),3817311]]"
+  - "[[_Standards/WikiData/WD~lanthanite-(La),3826951]]"
+  - "[[_Standards/WikiData/WD~manganiandrosite-(La),3844520]]"
+  - "[[_Standards/WikiData/WD~monazite-(La),3860582]]"
+  - "[[_Standards/WikiData/WD~nordite-(La),3878404]]"
+  - "[[_Standards/WikiData/WD~orthojoaquinite-(La),3886227]]"
+  - "[[_Standards/WikiData/WD~rémondite-(La),3932516]]"
+  - "[[_Standards/WikiData/WD~törnebohmite-(La),4001310]]"
+  - "[[_Standards/WikiData/WD~vanadoallanite-(La),17212987]]"
+  - "[[_Standards/WikiData/WD~arisite-(La),19799664]]"
+  - "[[_Standards/WikiData/WD~cordylite-(La),19833349]]"
+  - "[[_Standards/WikiData/WD~ferriallanite-(La),19833630]]"
+  - "[[_Standards/WikiData/WD~ferriandrosite-(La),19833631]]"
+  - "[[_Standards/WikiData/WD~ferriakasakaite-(La),19833629]]"
+  - "[[_Standards/WikiData/WD~fluocerite-(La),19833658]]"
+  - "[[_Standards/WikiData/WD~paratooite-(La),19861153]]"
+  - "[[_Standards/WikiData/WD~perrierite-(La),19861168]]"
+  - "[[_Standards/WikiData/WD~sazhinite-(La),19861261]]"
+  - "[[_Standards/WikiData/WD~stavelotite-(La),19861290]]"
+  - "[[_Standards/WikiData/WD~rhabdophane-(La),19862120]]"
+  - "[[_Standards/WikiData/WD~dyrnaesite-(La),19862341]]"
+  - "[[_Standards/WikiData/WD~parisite-(La),26981134]]"
+  - "[[_Standards/WikiData/WD~manganiakasakaite-(La),37247691]]"
+  - "[[_Standards/WikiData/WD~petersite-(La),52407127]]"
+  - "[[_Standards/WikiData/WD~gasparite-(La),58835480]]"
+  - "[[_Standards/WikiData/WD~ferriperbøeite-(La),58903575]]"
+  - "[[_Standards/WikiData/WD~radekškodaite-(La),58903593]]"
+  - "[[_Standards/WikiData/WD~perbøeite-(La),61478660]]"
+  - "[[_Standards/WikiData/WD~percleveite-(La),76769471]]"
+  - "[[_Standards/WikiData/WD~alexkuznetsovite-(La),80200519]]"
+  - "[[_Standards/WikiData/WD~biraite-(La),98580504]]"
+  - "[[_Standards/WikiData/WD~haitaite-(La),106623107]]"
+  - "[[_Standards/WikiData/WD~graulichite-(La),106623144]]"
+  - "[[_Standards/WikiData/WD~calcioancylite-(La),111110012]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Lanthanum%20element%20produced%20by%20Chemcraft.webm
+electron configuration:
+  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s² 6d¹
+  - "[Xe] 6s² 6d¹"
+time of discovery or invention: 1839-01-01T00:00:00Z
+followed by: "[[_Standards/WikiData/WD~cerium,1385]]"
+instance of:
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+  - "[[_Standards/WikiData/WD~chemical substance,79529]]"
+electronegativity: 1.1
+atomic number: 57
+ionic radius:
+  - 1.03
+  - 1.16
+  - 1.27
+  - 1.36
+PubChem CID: "23926"
+ZVG number: "7570"
+Gmelin number: "16203"
+chemical formula: La
+element symbol: La
+OmegaWiki Defined Meaning: "160966"
+Commons gallery: Lanthanum
+Commons category: Lanthanum
+mass: 138.90547
+part of:
+  - "[[_Standards/WikiData/WD~group 3,108307]]"
+  - "[[_Standards/WikiData/WD~period 6,239813]]"
+location of discovery: "[[_Standards/WikiData/WD~Karolinska Institutet,219564]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Lanthan%201-cropflipped.jpg
+canonical SMILES: "[La]"
+EC number: 231-099-0
+UNII: 6I3K30563S
+CAS Registry Number: 7439-91-0
+UMLS CUI: C0023031
+MeSH tree code:
+  - D01.268.558.362.500
+  - D01.552.550.399.500
+DSSTOX compound identifier: DTXCID8047638
+InChIKey: FZLIPJUXYLNCLC-UHFFFAOYSA-N
+InChI: InChI=1S/La
+Unicode character: 鑭
+named after: "[[_Standards/WikiData/WD~hiding,30301727]]"
+different from: "[[_Standards/WikiData/WD~La,37276728]]"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Lanthanum,1801]] 

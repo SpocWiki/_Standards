@@ -1,8 +1,59 @@
 ---
 type: Element
-
-SpocWebEntityId: 21962 
-has_id_wikidata: Q1843 
+SpocWebEntityId: 21962
+has_id_wikidata: Q1843
+part of:
+  - "[[_Standards/WikiData/WD~period 6,239813]]"
+  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Paul-Émile Lecoq de Boisbaudran,366827]]"
+made from material:
+  - "[[_Standards/WikiData/WD~fergusonite-(REE) series,412914]]"
+  - "[[_Standards/WikiData/WD~aeschynite mineral group,3777532]]"
+  - "[[_Standards/WikiData/WD~bastnäsite mineral group,3777619]]"
+  - "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
+  - "[[_Standards/WikiData/WD~xenotime mineral group,3777882]]"
+  - "[[_Standards/WikiData/WD~polycrase-(Y),3907734]]"
+  - "[[_Standards/WikiData/WD~euxenite mineral group,18016084]]"
+  - "[[_Standards/WikiData/WD~gadolinite group,18043462]]"
+described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+named after: "[[_Standards/WikiData/WD~getting,12913541]]"
+time of discovery or invention: 1886-01-01T00:00:00Z
+UMLS CUI: C0013407
+instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+location of discovery: "[[_Standards/WikiData/WD~Paris,90]]"
+oxidation state:
+  - 2
+  - 3
+  - 4
+atomic number: 66
+ionic radius:
+  - 0.91
+  - 1.03
+  - 1.07
+  - 1.19
+electronegativity: 1.22
+mass: 162.5
+ZVG number: "7660"
+OmegaWiki Defined Meaning: "157663"
+PubChem CID: "23912"
+Gmelin number: "16278"
+Commons gallery: Dysprosium
+Commons category: Dysprosium
+chemical formula: Dy
+element symbol: Dy
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Dysprosium1.jpg
+canonical SMILES: "[Dy]"
+UNII: 1D4N45714Q
+EC number: 231-073-9
+CAS Registry Number: 7429-91-6
+MeSH tree code:
+  - D01.268.558.362.374
+  - D01.552.550.399.374
+DSSTOX compound identifier: DTXCID3047631
+InChI: InChI=1S/Dy
+InChIKey: KBQHZAAAGSGFKK-UHFFFAOYSA-N
+ATC code: V10AX03
+Unicode character: 鏑
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Dysprosium,1843]] 

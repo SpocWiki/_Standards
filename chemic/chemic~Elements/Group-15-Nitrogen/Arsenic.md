@@ -1,8 +1,118 @@
 ---
 type: Element
-
 SpocWebEntityId: 21931
-has_id_wikidata: Q871 
+has_id_wikidata: Q871
+part of:
+  - "[[_Standards/WikiData/WD~group 15,106675]]"
+  - "[[_Standards/WikiData/WD~period 4,239825]]"
+  - "[[_Standards/WikiData/WD~arsenide(3-),415296]]"
+  - "[[_Standards/WikiData/WD~tailings,1784525]]"
+made from material:
+  - "[[_Standards/WikiData/WD~realgar,109746]]"
+  - "[[_Standards/WikiData/WD~arsenopyrite,191939]]"
+  - "[[_Standards/WikiData/WD~arsenide mineral,2864503]]"
+  - "[[_Standards/WikiData/WD~arsenate mineral,4796437]]"
+subject has role:
+  - "[[_Standards/WikiData/WD~carcinogen,187661]]"
+  - "[[_Standards/WikiData/WD~occupational carcinogen,21074597]]"
+named after:
+  - "[[_Standards/WikiData/WD~gold,208045]]"
+  - "[[_Standards/WikiData/WD~orpiment,419183]]"
+  - "[[_Standards/WikiData/WD~virility,3093051]]"
+crystal system: "[[_Standards/WikiData/WD~trigonal crystal system,588274]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Arsenic,84658865]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+medical condition treated: "[[_Standards/WikiData/WD~acute promyelocytic leukemia,612108]]"
+associated hazard:
+  - "[[_Standards/WikiData/WD~arsenic poisoning,730249]]"
+  - "[[_Standards/WikiData/WD~inorganic arsenic compound exposure,21167830]]"
+instance of:
+  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+  - "[[_Standards/WikiData/WD~metalloid,19596]]"
+found in taxon:
+  - "[[_Standards/WikiData/WD~Buccinum striatissimum,3710099]]"
+  - "[[_Standards/WikiData/WD~Lucensosergia lucens,104374937]]"
+has characteristic: "[[_Standards/WikiData/WD~combustible powder,21073023]]"
+has effect: "[[_Standards/WikiData/WD~inorganic arsenic compound exposure,21167830]]"
+mass: 74.921595
+time of discovery or invention: 1300-01-01T00:00:00Z
+oxidation state:
+  - -3
+  - 1
+  - 2
+  - 3
+  - 4
+vapor pressure: 0
+median lethal dose (LD50):
+  - 1000
+  - 20
+  - 50
+  - 38
+  - 75
+  - 144
+  - 145
+  - 0.285
+  - 46.2
+  - 763
+  - 794
+  - 13.39
+minimal lethal dose:
+  - 100
+  - 10
+  - 200
+  - 300
+  - 338
+time-weighted average exposure limit:
+  - 0.1
+  - 0.01
+  - 0.2
+  - 0.02
+  - 0.5
+  - 0.05
+ceiling exposure limit: 0.002
+immediately dangerous to life or health: 5
+atomic number: 33
+ionic radius:
+  - 0.34
+  - 0.46
+  - 0.58
+electronegativity: 2.18
+density: 5.73
+discoverer or inventor: "[[_Standards/WikiData/WD~Albertus Magnus,60059]]"
+sublimation temperature: 1135
+melting point: 1135
+OmegaWiki Defined Meaning: "255"
+ZVG number: "8280"
+chemical formula: As
+element symbol: As
+PubChem CID: "5359596"
+U.S. National Archives Identifier: "10637420"
+Unicode character: 砷
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Arsen%201.jpg
+canonical SMILES: "[As]"
+EC number: 231-148-6
+CAS Registry Number: 7440-38-2
+Commons gallery: Arsenic
+Commons category: Arsenic
+UMLS CUI: C0003818
+RTECS number: CG0525000
+MeSH tree code: D01.268.513.249
+DSSTOX compound identifier: DTXCID703886
+Wolfram Language entity code: Entity["Mineral", "Arsenic"]
+InChI: InChI=1S/As
+Krugosvet article:
+  - meditsina/myshyak-i-zdorove-cheloveka
+  - nauka_i_tehnika/himiya/MISHYAK.html
+UNII: N712M78A8G
+InChIKey: RQNWIZPPADIBDY-UHFFFAOYSA-N
+Gujarati Vishwakosh entry: આર્સેનિક
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Arsenic,871]] 
@@ -35,7 +145,12 @@ has_id_wikidata: Q871
 ## #has_/text_of_/abstract 
 
 
-> **Arsenic** is a chemical element with the symbol (Abbr::As) and atomic number (Charge-e::33). Arsenic occurs in many minerals, usually in combination with sulfur and metals, but also as a pure elemental crystal. Arsenic is a metalloid. It has various allotropes, but only the gray form, which has a metallic appearance, is important to industry.
+> **Arsenic** is a chemical element with the symbol (Abbr::As) and atomic number (Charge-e::33). 
+> Arsenic occurs in many minerals, usually in combination with sulfur and metals, 
+> but also as a pure elemental crystal. 
+> 
+> Arsenic is a metalloid. It has various allotropes, but 
+> only the gray form, which has a metallic appearance, is important to industry.
 >
 > The primary use of arsenic is in alloys of lead (for example, in car batteries and ammunition). Arsenic is a common n-type dopant in semiconductor electronic devices. It is also a component of the III-V compound semiconductor gallium arsenide. Arsenic and its compounds, especially the trioxide, are used in the production of pesticides, treated wood products, herbicides, and insecticides. These applications are declining with the increasing recognition of the toxicity of arsenic and its compounds.A few species of bacteria are able to use arsenic compounds as respiratory metabolites. Trace quantities of arsenic are an essential dietary element in rats, hamsters, goats, chickens, and presumably other species. A role in human metabolism is not known. However, arsenic poisoning occurs in multicellular life if quantities are larger than needed. Arsenic contamination of groundwater is a problem that affects millions of people across the world.
 >

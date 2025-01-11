@@ -1,8 +1,35 @@
 ---
 type: Element
-
 SpocWebEntityId: 21906
 has_id_wikidata: Q558
+place of birth: "[[_Standards/WikiData/WD~19th arrondissement of Paris,204622]]"
+educated at:
+  - "[[_Standards/WikiData/WD~École du Louvre,273534]]"
+  - "[[_Standards/WikiData/WD~Panthéon-Assas University Paris,662976]]"
+has works in the collection:
+  - "[[_Standards/WikiData/WD~National Gallery of Victoria,1464509]]"
+  - "[[_Standards/WikiData/WD~Kunstmuseum Den Haag,1499958]]"
+given name: "[[_Standards/WikiData/WD~Hedi,1593262]]"
+occupation:
+  - "[[_Standards/WikiData/WD~dressmaker,2034021]]"
+  - "[[_Standards/WikiData/WD~fashion designer,3501317]]"
+  - "[[_Standards/WikiData/WD~photographer,33231]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Hedi%20Slimane%20in%202015.jpg
+official website: https://www.hedislimane.com/
+Commons category: Hedi Slimane
+X username: hedislimanetwit
+name in native language: Hedi Slimane
+represented by: "[[_Standards/WikiData/WD~Almine Rech Gallery,55661948]]"
+family name: "[[_Standards/WikiData/WD~Slimane,63486092]]"
+copyright status as a creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
+ISNI: "0000000121016085"
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+country of citizenship: "[[_Standards/WikiData/WD~France,142]]"
+"languages spoken, written or signed": "[[_Standards/WikiData/WD~French,150]]"
+social media followers: 43663
+date of birth: 1968-07-05T00:00:00Z
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Lithium,568|WD~Lithium,568]] 
@@ -35,11 +62,41 @@ has_id_wikidata: Q558
 ## #has_/text_of_/abstract 
 
 
-> **Lithium** (from Greek: λίθος, romanized: lithos, lit. 'stone') is a chemical element with the symbol Li and atomic number 3. It is a soft, silvery-white alkali metal. Under standard conditions, it is the least dense metal and the least dense solid element. Like all alkali metals, lithium is highly reactive and flammable, and must be stored in vacuum, inert atmosphere, or inert liquid such as purified kerosene or mineral oil. When cut, it exhibits a metallic luster, but moist air corrodes it quickly to a dull silvery gray, then black tarnish. It never occurs freely in nature, but only in (usually ionic) compounds, such as pegmatitic minerals, which were once the main source of lithium. Due to its solubility as an ion, it is present in ocean water and is commonly obtained from brines. Lithium metal is isolated electrolytically from a mixture of lithium chloride and potassium chloride.
+> **Lithium** (from Greek: λίθος, romanized: lithos, lit. 'stone') 
+> is a chemical element with the symbol Li and atomic number 3. It is a soft, silvery-white alkali metal. 
+> Under standard conditions, it is the least dense metal and the least dense solid element. 
+> 
+> Like all alkali metals, lithium is highly reactive and flammable, and must be stored in vacuum, 
+> inert atmosphere, or inert liquid such as purified kerosene or mineral oil. 
+> 
+> When cut, it exhibits a metallic luster, but moist air corrodes it quickly to a dull silvery gray, 
+> then black tarnish. 
+> 
+> It never occurs freely in nature, but only in (usually ionic) compounds, such as pegmatitic minerals, 
+> which were once the main source of lithium. 
+> 
+> Due to its solubility as an ion, it is present in ocean water and is commonly obtained from brines. 
+> Lithium metal is isolated electrolytically from a mixture of lithium chloride and potassium chloride.
 >
-> The nucleus of the lithium atom verges on instability, since the two stable lithium isotopes found in nature have among the lowest binding energies per nucleon of all stable nuclides. Because of its relative nuclear instability, lithium is less common in the solar system than 25 of the first 32 chemical elements even though its nuclei are very light: it is an exception to the trend that heavier nuclei are less common. For related reasons, lithium has important uses in nuclear physics. The transmutation of lithium atoms to helium in 1932 was the first fully man-made nuclear reaction, and lithium deuteride serves as a fusion fuel in staged thermonuclear weapons.Lithium and its compounds have several industrial applications, including heat-resistant glass and ceramics, lithium grease lubricants, flux additives for iron, steel and aluminium production, lithium metal batteries, and lithium-ion batteries. These uses consume more than three-quarters of lithium production.
+> The nucleus of the lithium atom verges on instability, 
+> since the two stable lithium isotopes found in nature 
+> have among the lowest binding energies per nucleon of all stable nuclides. 
+> Because of its relative nuclear instability, lithium is less common in the solar system 
+> than 25 of the first 32 chemical elements even though its nuclei are very light: 
+> it is an exception to the trend that heavier nuclei are less common. 
+> 
+> For related reasons, lithium has important uses in nuclear physics. 
+> The transmutation of lithium atoms to helium in 1932 was the first fully man-made nuclear reaction, 
+> and lithium deuteride serves as a fusion fuel in staged thermonuclear weapons. 
+> 
+> Lithium and its compounds have several industrial applications, 
+> including heat-resistant glass and ceramics, lithium grease lubricants, flux additives for iron, 
+> steel and aluminium production, lithium metal batteries, and lithium-ion batteries. 
+> These uses consume more than three-quarters of lithium production.
 >
-> Lithium is present in biological systems in trace amounts; its functions are uncertain. Lithium salts have proven to be useful as a mood stabilizer and antidepressant   in the treatment of mental illness such as bipolar disorder.
+> Lithium is present in biological systems in trace amounts; its functions are uncertain. 
+> Lithium salts have proven to be useful as a mood stabilizer 
+> and antidepressant in the treatment of mental illness such as bipolar disorder.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lithium)
 

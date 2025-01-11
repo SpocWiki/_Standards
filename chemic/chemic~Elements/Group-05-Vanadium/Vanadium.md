@@ -1,7 +1,78 @@
 ---
 type: Element
-
-has_id_wikidata: Q722 
+has_id_wikidata: Q722
+chemical formula: V
+element symbol: V
+Commons category: Vanadium
+Commons gallery: Vanadium
+Unicode character: 釩
+melting point: 1887
+boiling point: 3377
+mass: 50.9415
+time of discovery or invention: 1801-01-01T00:00:00Z
+part of:
+  - "[[_Standards/WikiData/WD~group 5,193276]]"
+  - "[[_Standards/WikiData/WD~period 4,239825]]"
+made from material:
+  - "[[_Standards/WikiData/WD~vanadinite,407251]]"
+  - "[[_Standards/WikiData/WD~carnotite,409100]]"
+  - "[[_Standards/WikiData/WD~patrónite,416203]]"
+  - "[[_Standards/WikiData/WD~shcherbinaite,3959261]]"
+  - "[[_Standards/WikiData/WD~colimaite,5144828]]"
+  - "[[_Standards/WikiData/WD~ardennite-(V),19799657]]"
+  - "[[_Standards/WikiData/WD~rhabdoborite-(V),55876690]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Andrés Manuel del Río,524465]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+  - "[[_Standards/WikiData/WD~EB-11 _ Vanadium,84669050]]"
+instance of:
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+named after: "[[_Standards/WikiData/WD~Freyja,1647325]]"
+subject has role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+subclass of: "[[_Standards/WikiData/WD~transition metal,19588]]"
+oxidation state: 5
+atomic number: 23
+ionic radius:
+  - 0.36
+  - 0.46
+  - 0.53
+  - 0.54
+  - 0.58
+  - 0.64
+  - 0.72
+  - 0.76
+electronegativity: 1.63
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium-ar.ogg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium%201.jpg
+electron configuration: "[Ar] 3d³ 4s²"
+canonical SMILES: "[V]"
+UNII: 00J9J9XKDE
+U.S. National Archives Identifier: "10645191"
+Common Procurement Vocabulary code: "14725000"
+Gmelin number: "16007"
+EC number: 231-171-1
+PubChem CID: "23990"
+OmegaWiki Defined Meaning: "3940"
+Dewey Decimal Classification: "546.522"
+CAS Registry Number: 7440-62-2
+ZVG number: "8180"
+CPV Supplementary code: AA13
+UMLS CUI: C0042306
+MeSH tree code:
+  - D01.268.556.920
+  - D01.268.956.886
+  - D01.552.544.920
+DSSTOX compound identifier: DTXCID0020282
+InChI: InChI=1S/V
+InChIKey: LEONUFNNVUYDNQ-UHFFFAOYSA-N
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Vanadium,722]] 
@@ -33,9 +104,19 @@ SpocWebEntityId: 21923
 ## #has_/text_of_/abstract 
 
 
-> **Vanadium** is a chemical element with the symbol (Abbr::V) and atomic number (Charge-e::23). It is a hard, silvery-grey, malleable transition metal. The elemental metal is rarely found in nature, but once isolated artificially, the formation of an oxide layer (passivation) somewhat stabilizes the free metal against further oxidation.
+> **Vanadium** is a chemical element with the symbol (Abbr::V) and atomic number (Charge-e::23). 
+> It is a hard, silvery-grey, malleable transition metal. 
+> 
+> The elemental metal is rarely found in nature, but once isolated artificially, 
+> the formation of an oxide layer (passivation) somewhat stabilizes the free metal against further oxidation.
 >
-> Spanish-Mexican scientist Andrés Manuel del Río discovered compounds of vanadium in 1801 by analyzing a new lead-bearing mineral he called "brown lead". Though he initially presumed its qualities were due to the presence of a new element, he was later erroneously convinced by French chemist Hippolyte Victor Collet-Descotils that the element was just chromium. Then in 1830, Nils Gabriel Sefström generated chlorides of vanadium, thus proving there was a new element, and named it "vanadium" after the Scandinavian goddess of beauty and fertility, Vanadís (Freyja). The name was based on the wide range of colors found in vanadium compounds. Del Rio's lead mineral was ultimately named vanadinite for its vanadium content. In 1867 Henry Enfield Roscoe obtained the pure element.
+> Spanish-Mexican scientist Andrés Manuel del Río discovered compounds of vanadium in 1801 
+> by analyzing a new lead-bearing mineral he called "brown lead". 
+> Though he initially presumed its qualities were due to the presence of a new element, 
+> he was later erroneously convinced by French chemist Hippolyte Victor Collet-Descotils 
+> that the element was just chromium. 
+> 
+> Then in 1830, Nils Gabriel Sefström generated chlorides of vanadium, thus proving there was a new element, and named it "vanadium" after the Scandinavian goddess of beauty and fertility, Vanadís (Freyja). The name was based on the wide range of colors found in vanadium compounds. Del Rio's lead mineral was ultimately named vanadinite for its vanadium content. In 1867 Henry Enfield Roscoe obtained the pure element.
 >
 > Vanadium occurs naturally in about 65 minerals and in fossil fuel deposits. It is produced in China and Russia from steel smelter slag. Other countries produce it either from magnetite directly, flue dust of heavy oil, or as a byproduct of uranium mining. It is mainly used to produce specialty steel alloys such as high-speed tool steels, and some aluminium alloys. The most important industrial vanadium compound, vanadium pentoxide, is used as a catalyst for the production of sulfuric acid. The vanadium redox battery for energy storage may be an important application in the future.
 >

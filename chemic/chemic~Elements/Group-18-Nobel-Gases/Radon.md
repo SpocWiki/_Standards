@@ -1,8 +1,57 @@
 ---
 type: Element
-
-SpocWebEntityId: 21981 
-has_id_wikidata: Q1133 
+SpocWebEntityId: 21981
+has_id_wikidata: Q1133
+part of:
+  - "[[_Standards/WikiData/WD~period 6,239813]]"
+  - "[[_Standards/WikiData/WD~noble gases,19609]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Radon%20water%20apparatus%20P1120815.JPG
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/USradonmapforhouses.jpg
+electron configuration:
+  - "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶"
+  - 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p⁶ 4f¹⁴ 5d¹⁰ 6s² 6p⁶
+CAS Registry Number: 10043-92-2
+EC number: 233-146-0
+MeSH tree code:
+  - D01.268.271.800
+  - D01.268.613.700
+  - D01.362.641.745
+  - D01.496.749.305.800
+DSSTOX compound identifier: DTXCID504295
+InChI: InChI=1S/Rn
+UNII: Q74S4N8N1G
+InChIKey: SYUHGPGVQRZVTB-UHFFFAOYSA-N
+has characteristic:
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
+  - "[[_Standards/WikiData/WD~radioactivity,11448]]"
+subject has role:
+  - "[[_Standards/WikiData/WD~radioactive air pollutants,50429809]]"
+  - "[[_Standards/WikiData/WD~environmental carcinogens,50429902]]"
+time of discovery or invention: 1899-01-01T00:00:00Z
+UMLS CUI: C0205919
+plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg
+different from: "[[_Standards/WikiData/WD~radium,1128]]"
+named after: "[[_Standards/WikiData/WD~radium,1128]]"
+instance of:
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+  - "[[_Standards/WikiData/WD~gas,11432]]"
+electronegativity: 2.2
+atomic number: 86
+produced by: "[[_Standards/WikiData/WD~granite,41177]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Friedrich Ernst Dorn,65191]]"
+OmegaWiki Defined Meaning: "3094"
+Commons gallery: Radon
+Commons category: Radon
+PubChem CID: "24857"
+Gmelin number: "16242"
+Unicode character: 氡
+chemical formula: Rn
+element symbol: Rn
+canonical SMILES: "[Rn]"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Radon,1133]] 

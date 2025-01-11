@@ -1,8 +1,54 @@
 ---
 type: Element
-
 SpocWebEntityId: 21982
 has_id_wikidata: Q671
+subclass of:
+  - "[[_Standards/WikiData/WD~s-block,208106]]"
+  - "[[_Standards/WikiData/WD~metal,11426]]"
+  - "[[_Standards/WikiData/WD~alkali metal,19557]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Marguerite Perey,241822]]"
+part of:
+  - "[[_Standards/WikiData/WD~period 7,244979]]"
+  - "[[_Standards/WikiData/WD~group 1,10801007]]"
+  - "[[_Standards/WikiData/WD~alkali metal,19557]]"
+described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+UMLS CUI: C0016678
+plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg
+instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+has characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
+location of discovery: "[[_Standards/WikiData/WD~France,142]]"
+named after: "[[_Standards/WikiData/WD~France,142]]"
+oxidation state: 1
+electronegativity: 0.7
+ionic radius: 1.8
+atomic number: 87
+OmegaWiki Defined Meaning: "159016"
+Gmelin number: "40458"
+PubChem CID: "6328145"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20087%20francium.png
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-TableImage.png
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-francium.wav
+canonical SMILES: "[Fr]"
+electron configuration: "[Rn] 7s¹"
+UNII: 15TEQ7D2QF
+Dewey Decimal Classification: "546.386"
+CAS Registry Number: 7440-73-5
+MeSH tree code:
+  - D01.268.271.380
+  - D01.268.549.250
+  - D01.268.556.277
+  - D01.496.749.305.380
+  - D01.552.528.328
+  - D01.552.544.277
+DSSTOX compound identifier: DTXCID20147885
+chemical formula: Fr
+element symbol: Fr
+Commons gallery: Francium
+Commons category: Francium
+InChI: InChI=1S/Fr
+InChIKey: KLMCZVJOEAUDNE-UHFFFAOYSA-N
+Unicode character: 鍅
+time of discovery or invention: 1939-01-01T00:00:00Z
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Francium,671]] 

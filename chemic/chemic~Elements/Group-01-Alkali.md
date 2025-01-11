@@ -3,7 +3,7 @@ type: ElementGroup
 ---
 #chemic/Group 
 
-1) [[Hydrogenium]]
+1)[[Group-01-Alkali/Hydrogen]]]
 2) [[Lithium]]
 3) [[Sodium]]
 4) [[Potassium]]

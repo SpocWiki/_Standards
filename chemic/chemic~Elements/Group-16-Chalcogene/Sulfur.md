@@ -4,6 +4,82 @@ SpocWebEntityId: 21917
 has_id_wikidata: Q682
 aliases:
   - Sulphur
+electron configuration:
+  - "[Ne] 3s² 3p⁴"
+  - 1s² 2s² 2p⁶ 3s² 3p⁴
+EC number: 231-722-6
+CAS Registry Number: 7704-34-9
+MeSH tree code: D01.268.185.900
+DSSTOX compound identifier: DTXCID7014941
+Wolfram Language entity code: Entity["Mineral", "Sulfur"]
+InChI: InChI=1S/S
+Krugosvet article: nauka_i_tehnika/himiya/SERA.html
+InChIKey: NINIDFKCEFEMDL-UHFFFAOYSA-N
+time of discovery or invention: 1777-01-01T00:00:00Z
+part of:
+  - "[[_Standards/WikiData/WD~group 16,104567]]"
+  - "[[_Standards/WikiData/WD~period 3,211331]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~group 16,104567]]"
+  - "[[_Standards/WikiData/WD~polyatomic nonmetal,19753345]]"
+  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
+found in taxon:
+  - "[[_Standards/WikiData/WD~Rutaceae,146030]]"
+  - "[[_Standards/WikiData/WD~Ceratophyllum demersum,157385]]"
+  - "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
+  - "[[_Standards/WikiData/WD~Clathria pyramida,2319118]]"
+  - "[[_Standards/WikiData/WD~Euodia,3060383]]"
+  - "[[_Standards/WikiData/WD~Lyngbya majuscula,20720044]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+instance of:
+  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+different from:
+  - "[[_Standards/WikiData/WD~disulfur,5283603]]"
+  - "[[_Standards/WikiData/WD~Kebrit,5805138]]"
+  - "[[_Standards/WikiData/WD~Q20674464,20674464]]"
+  - "[[_Standards/WikiData/WD~sulfur atom,106570791]]"
+has use: "[[_Standards/WikiData/WD~ecological crop protection,65967059]]"
+UMLS CUI: C0038774
+oxidation state:
+  - -2
+  - -1
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+ionic radius:
+  - 0.12
+  - 0.29
+  - 0.37
+  - 1.84
+atomic number: 16
+density: 2.07
+discoverer or inventor: "[[_Standards/WikiData/WD~Antoine Lavoisier,39607]]"
+electronegativity: 2.58
+OmegaWiki Defined Meaning: "3668"
+mass: 32.06
+chemical formula: S
+element symbol: S
+ZVG number: "8130"
+NSC number: "403664"
+CosIng number: "75467"
+canonical SMILES: "[S]"
+Commons gallery: Sulfur
+Commons category: Sulfur
+PubChem CID: "5362487"
+U.S. National Archives Identifier: "10645875"
+Unicode character: 硫
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20-%20El%20Desierto%20mine%2C%20San%20Pablo%20de%20Napa%2C%20Daniel%20Campos%20Province%2C%20Potos%C3%AD%2C%20Bolivia.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20crystals.webm
 ---
 
 # [[Sulfur]] 
@@ -37,9 +113,25 @@ aliases:
 ## #has_/text_of_/abstract 
 
 
-> **Sulfur** (or sulphur in British English) is a chemical element with the symbol (Abbr::S) and atomic number (Charge-e::16). It is abundant, multivalent and nonmetallic. Under normal conditions, sulfur atoms form cyclic octatomic molecules with a chemical formula S8. Elemental sulfur is a bright yellow, crystalline solid at room temperature.
+> **Sulfur** (or sulphur in British English) 
+> is a chemical element with the symbol (Abbr::S) and atomic number (Charge-e::16). 
+> It is abundant, multivalent and nonmetallic. 
+> 
+> Under normal conditions, sulfur atoms form cyclic octatomic molecules with a chemical formula S8. 
+> Elemental sulfur is a bright yellow, crystalline solid at room temperature.
 >
-> Sulfur is the tenth most abundant element by mass in the universe and the fifth most on Earth. Though sometimes found in pure, native form, sulfur on Earth usually occurs as sulfide and sulfate minerals. Being abundant in native form, sulfur was known in ancient times, being mentioned for its uses in ancient India, ancient Greece, China, and ancient Egypt. Historically and in literature sulfur is also called brimstone, which means "burning stone". Today, almost all elemental sulfur is produced as a byproduct of removing sulfur-containing contaminants from natural gas and petroleum. The greatest commercial use of the element is the production of sulfuric acid for sulfate and phosphate fertilizers, and other chemical processes. Sulfur is used in matches, insecticides, and fungicides. Many sulfur compounds are odoriferous, and the smells of odorized natural gas, skunk scent, grapefruit, and garlic are due to organosulfur compounds. Hydrogen sulfide gives the characteristic odor to rotting eggs and other biological processes.
+> Sulfur is the tenth most abundant element by mass in the universe and the fifth most on Earth. 
+> Though sometimes found in pure, native form, 
+> sulfur on Earth usually occurs as sulfide and sulfate minerals. 
+> 
+> Being abundant in native form, sulfur was known in ancient times, 
+> being mentioned for its uses in ancient India, ancient Greece, China, and ancient Egypt. 
+> 
+> Historically and in literature sulfur is also called brimstone, which means "burning stone". 
+> Today, almost all elemental sulfur is produced as a byproduct of 
+> removing sulfur-containing contaminants from natural gas and petroleum. 
+> 
+> The greatest commercial use of the element is the production of sulfuric acid for sulfate and phosphate fertilizers, and other chemical processes. Sulfur is used in matches, insecticides, and fungicides. Many sulfur compounds are odoriferous, and the smells of odorized natural gas, skunk scent, grapefruit, and garlic are due to organosulfur compounds. Hydrogen sulfide gives the characteristic odor to rotting eggs and other biological processes.
 >
 > Sulfur is an essential element for all life, but almost always in the form of organosulfur compounds or metal sulfides. Amino acids (two proteinogenic: cysteine and methionine, and many other non-coded: cystine, taurine, etc.) and two vitamins (biotin and thiamine) are organosulfur compounds crucial for life. Many cofactors also contain sulfur, including glutathione, and iron–sulfur proteins. Disulfides, S–S bonds, confer mechanical strength and insolubility of the (among others) protein keratin, found in outer skin, hair, and feathers. Sulfur is one of the core chemical elements needed for biochemical functioning and is an elemental macronutrient for all living organisms.
 >

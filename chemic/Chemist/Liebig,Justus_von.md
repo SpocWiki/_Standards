@@ -1,9 +1,13 @@
-﻿---
+---
 aliases:
   - Justus Freiherr von Liebig
 ---
 
 #is_/similar_to ::  [[Haber,Fritz]] 
+#has_/time_/started :: 1803-05-12  
+#has_/time_/stopped :: 1873-04-18  
+#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+
 # [[Liebig,Justus_von]] 
 
 > Justus Freiherr von Liebig (12 May 1803 – 18 April 1873) was a German scientist 

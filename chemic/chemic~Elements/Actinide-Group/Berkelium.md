@@ -1,8 +1,52 @@
 ---
 type: Element
-
 SpocWebEntityId: 21992
-has_id_wikidata: Q1882 
+has_id_wikidata: Q1882
+location of discovery: "[[_Standards/WikiData/WD~University of California, Berkeley,168756]]"
+part of:
+  - "[[_Standards/WikiData/WD~period 7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
+discoverer or inventor:
+  - "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
+  - "[[_Standards/WikiData/WD~Stanley Gerald Thompson,3068373]]"
+  - "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+named after: "[[_Standards/WikiData/WD~Berkeley,484678]]"
+different from: "[[_Standards/WikiData/WD~Berkel,707763]]"
+instance of:
+  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox berkelium,8085557]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Berkelium%20metal.jpg
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-berk%C3%A9lium.wav
+canonical SMILES: "[Bk]"
+UNII: 2YQA718KUU
+Dewey Decimal Classification: "546.444"
+CAS Registry Number: 7440-40-6
+Commons gallery: Berkelium
+Commons category: Berkelium
+MeSH tree code:
+  - D01.268.271.100.100
+  - D01.268.556.075
+  - D01.496.749.305.100.100
+  - D01.552.020.150
+  - D01.552.544.075
+DSSTOX compound identifier: DTXCID20147880
+InChI: InChI=1S/Bk
+InChIKey: PWVKJRSRVJTHTR-UHFFFAOYSA-N
+plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20144.jpg
+electronegativity: 1.3
+ionic radius:
+  - 0.83
+  - 0.93
+  - 0.96
+atomic number: 97
+PubChem CID: "23971"
+OmegaWiki Defined Meaning: "156441"
+Unicode character: 鉳
+time of discovery or invention: 1949-01-01T00:00:00Z
+chemical formula: Bk
+element symbol: Bk
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Berkelium,1882]] 
@@ -36,8 +80,24 @@ has_id_wikidata: Q1882
 (Charge-e::97)
 
 
+
 ## #has_/text_of_/abstract 
 
+> **Berkelium** is a synthetic chemical element; it has symbol Bk and atomic number 97. 
+> It is a member of the actinide and transuranium element series. 
+> It is named after the city of Berkeley, California, 
+> the location of the Lawrence Berkeley National Laboratory 
+> (then the University of California Radiation Laboratory) where it was discovered in December 1949. 
+> Berkelium was the fifth transuranium element discovered after neptunium, plutonium, curium and americium.
+>
+> The major isotope of berkelium, 249Bk, is synthesized in minute quantities in dedicated high-flux nuclear reactors, mainly at the Oak Ridge National Laboratory in Tennessee, United States, and at the Research Institute of Atomic Reactors in Dimitrovgrad, Russia. The longest-lived and second-most important isotope, 247Bk, can be synthesized via irradiation of 244Cm with high-energy alpha particles.
+>
+> Just over one gram of berkelium has been produced in the United States since 1967. There is no practical application of berkelium outside scientific research which is mostly directed at the synthesis of heavier transuranium elements and superheavy elements. A 22-milligram batch of berkelium-249 was prepared during a 250-day irradiation period and then purified for a further 90 days at Oak Ridge in 2009. This sample was used to synthesize the new element tennessine for the first time in 2009 at the Joint Institute for Nuclear Research, Russia, after it was bombarded with calcium-48 ions for 150 days. This was the culmination of the Russia–US collaboration on the synthesis of the heaviest elements on the periodic table.
+>
+> Berkelium is a soft, silvery-white, radioactive metal. 
+> The berkelium-249 isotope emits low-energy electrons and thus is relatively safe to handle. It decays with a half-life of 330 days to californium-249, which is a strong emitter of ionizing alpha particles. This gradual transformation is an important consideration when studying the properties of elemental berkelium and its chemical compounds, since the formation of californium brings not only chemical contamination, but also free-radical effects and self-heating from the emitted alpha particles.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Berkelium)
 
 
 ## Confidential Links & Embeds: 

@@ -1,8 +1,63 @@
 ---
 type: Element
 SpocWebEntityId: 21976
-
-has_id_wikidata: Q932 
+has_id_wikidata: Q932
+Unicode character: 鉈
+part of:
+  - "[[_Standards/WikiData/WD~group 13,189294]]"
+  - "[[_Standards/WikiData/WD~period 6,239813]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~William Crookes,189552]]"
+named after: "[[_Standards/WikiData/WD~thallus,207495]]"
+associated hazard: "[[_Standards/WikiData/WD~thallium poisoning,374832]]"
+has effect: "[[_Standards/WikiData/WD~thallium poisoning,374832]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+instance of:
+  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+different from: "[[_Standards/WikiData/WD~Tal,5576117]]"
+UMLS CUI: C0039738
+plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20161.jpg
+time of discovery or invention: 1861-01-01T00:00:00Z
+subclass of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+ionic radius:
+  - 1.5
+  - 1.7
+  - 0.75
+  - 0.89
+  - 0.98
+  - 1.59
+atomic number: 81
+electronegativity: 1.62
+OmegaWiki Defined Meaning: "3761"
+mass: 204.38
+ZVG number: "7810"
+Commons gallery: Thallium
+Commons category: Thallium
+Gmelin number: "16308"
+canonical SMILES: "[Tl]"
+chemical formula: Tl
+element symbol: Tl
+Common Procurement Vocabulary code: "14764000"
+PubChem CID: "5359464"
+CPV Supplementary code: AA31
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Thallium%20pieces%20in%20ampoule.jpg
+EC number: 231-138-1
+CAS Registry Number: 7440-28-0
+UNII: AD84R52XLF
+InChIKey: BKVIYDNLLOSFOA-UHFFFAOYSA-N
+MeSH tree code:
+  - D01.268.556.847
+  - D01.552.544.847
+DSSTOX compound identifier: DTXCID301012091
+InChI: InChI=1S/Tl
+Krugosvet article: nauka_i_tehnika/himiya/TALLI.html
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Thallium,932]] 
@@ -33,7 +88,17 @@ has_id_wikidata: Q932
 ## #has_/text_of_/abstract 
 
 
-> **Thallium**  is a chemical element with the symbol (Abbr::Tl) and atomic number (Charge-e::81). It is a gray post-transition metal that is not found free in nature. When isolated, thallium resembles tin, but discolors when exposed to air. Chemists William Crookes and Claude-Auguste Lamy discovered thallium independently in 1861, in residues of sulfuric acid production. Both used the newly developed method of flame spectroscopy, in which thallium produces a notable green spectral line. Thallium, from Greek θαλλός, thallós, meaning "green shoot" or "twig", was named by Crookes. It was isolated by both Lamy and Crookes in 1862; Lamy by electrolysis, and Crookes by precipitation and melting of the resultant powder. Crookes exhibited it as a powder precipitated by zinc at the international exhibition, which opened on 1 May that year.Thallium tends to form the +3 and +1 oxidation states. The +3 state resembles that of the other elements in group 13 (boron, aluminium, gallium, indium). However, the +1 state, which is far more prominent in thallium than the elements above it, recalls the chemistry of alkali metals, and thallium(I) ions are found geologically mostly in potassium-based ores, and (when ingested) are handled in many ways like potassium ions (K+) by ion pumps in living cells.
+> **Thallium**  is a chemical element with the symbol (Abbr::Tl) and atomic number (Charge-e::81). 
+> It is a gray post-transition metal that is not found free in nature. 
+> 
+> When isolated, thallium resembles tin, but discolors when exposed to air. 
+> Chemists William Crookes and Claude-Auguste Lamy discovered thallium independently in 1861, 
+> in residues of sulfuric acid production. 
+> Both used the newly developed method of flame spectroscopy, 
+> in which thallium produces a notable green spectral line. 
+> 
+> Thallium, from Greek θαλλός, thallós, meaning "green shoot" or "twig", was named by Crookes. 
+> It was isolated by both Lamy and Crookes in 1862; Lamy by electrolysis, and Crookes by precipitation and melting of the resultant powder. Crookes exhibited it as a powder precipitated by zinc at the international exhibition, which opened on 1 May that year.Thallium tends to form the +3 and +1 oxidation states. The +3 state resembles that of the other elements in group 13 (boron, aluminium, gallium, indium). However, the +1 state, which is far more prominent in thallium than the elements above it, recalls the chemistry of alkali metals, and thallium(I) ions are found geologically mostly in potassium-based ores, and (when ingested) are handled in many ways like potassium ions (K+) by ion pumps in living cells.
 >
 > Commercially, thallium is produced not from potassium ores, but as a byproduct from refining of heavy-metal sulfide ores. Approximately 65% of thallium production is used in the electronics industry, and the remainder is used in the pharmaceutical industry and in glass manufacturing. It is also used in infrared detectors. The radioisotope thallium-201 (as the soluble chloride TlCl) is used in small amounts as an agent in a nuclear medicine scan, during one type of nuclear cardiac stress test.
 >

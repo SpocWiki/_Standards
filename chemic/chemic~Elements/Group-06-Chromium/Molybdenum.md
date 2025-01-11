@@ -1,8 +1,96 @@
 ---
 type: Element
-
 SpocWebEntityId: 21940
 has_id_wikidata: Q1053
+discoverer or inventor: "[[_Standards/WikiData/WD~Carl Wilhelm Scheele,70538]]"
+has use:
+  - "[[_Standards/WikiData/WD~fertilizer,83323]]"
+  - "[[_Standards/WikiData/WD~electrical conductor,124291]]"
+  - "[[_Standards/WikiData/WD~adhesive,131790]]"
+  - "[[_Standards/WikiData/WD~pigment,161179]]"
+  - "[[_Standards/WikiData/WD~lubricant,323840]]"
+  - "[[_Standards/WikiData/WD~thin layer chromatography,746133]]"
+  - "[[_Standards/WikiData/WD~hydrodesulfurization,899016]]"
+  - "[[_Standards/WikiData/WD~Masson's trichrome stain,3325848]]"
+  - "[[_Standards/WikiData/WD~catalyst,12385831]]"
+  - "[[_Standards/WikiData/WD~Copper indium gallium selenide solar cells,31887]]"
+  - "[[_Standards/WikiData/WD~alloy,37756]]"
+part of:
+  - "[[_Standards/WikiData/WD~group 6,193280]]"
+  - "[[_Standards/WikiData/WD~period 5,244982]]"
+different from: "[[_Standards/WikiData/WD~Mo,218120]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~period 5,244982]]"
+  - "[[_Standards/WikiData/WD~transition metal,19588]]"
+made from material:
+  - "[[_Standards/WikiData/WD~molybdenite,382994]]"
+  - "[[_Standards/WikiData/WD~wulfenite,421092]]"
+  - "[[_Standards/WikiData/WD~powellite,2106979]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+subject has role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+instance of:
+  - "[[_Standards/WikiData/WD~combustible powder,21073023]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+associated hazard: "[[_Standards/WikiData/WD~molybdenum exposure,21174934]]"
+has effect: "[[_Standards/WikiData/WD~molybdenum exposure,21174934]]"
+named after: "[[_Standards/WikiData/WD~lead,708]]"
+location of discovery: "[[_Standards/WikiData/WD~Sweden,34]]"
+vapor pressure: 0
+electronegativity: 2
+immediately dangerous to life or health: 5000
+oxidation state: 6
+time-weighted average exposure limit: 15
+tensile modulus of elasticity:
+  - 330
+  - 329000
+ionic radius:
+  - 0.41
+  - 0.46
+  - 0.59
+  - 0.61
+  - 0.65
+  - 0.69
+  - 0.73
+atomic number: 42
+density: 10.28
+melting point: 4752
+boiling point: 8717
+mass: 95.95
+ZVG number: "8330"
+PubChem CID: "23932"
+Gmelin number: "16205"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Molybdenum%20crystaline%20fragment%20and%201cm3%20cube.jpg
+OmegaWiki Defined Meaning: "337009"
+canonical SMILES: "[Mo]"
+chemical formula: Mo
+element symbol: Mo
+electron configuration: "[Kr] 4d⁵ 5s¹"
+EC number: 231-107-2
+CAS Registry Number: 7439-98-7
+UNII: 81AH48963U
+UMLS CUI: C0026402
+MeSH tree code:
+  - D01.268.556.555
+  - D01.268.956.500
+  - D01.552.544.555
+DSSTOX compound identifier: DTXCID604207
+InChI: InChI=1S/Mo
+Dictionary.com entry: molybdenum
+Commons category: Molybdenum
+Commons gallery: Molybdenum
+Krugosvet article: nauka_i_tehnika/himiya/MOLIBDEN.html
+RTECS number: QA4680000
+InChIKey: ZOKXTWBITQBERF-UHFFFAOYSA-N
+Unicode character: 鉬
+time of discovery or invention: 1778-01-01T00:00:00Z
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Molybdenum,1053]] 
@@ -30,7 +118,24 @@ has_id_wikidata: Q1053
 ## #has_/text_of_/abstract 
 
 
-> **Molybdenum** is a chemical element with the symbol (Abbr::Mo) and atomic number (Charge-e::42) which is located in period (PeriodNo::5) and group (GroupNo::6). The name is from Neo-Latin molybdaenum, which is based on Ancient Greek Μόλυβδος molybdos, meaning lead, since its ores were confused with lead ores. Molybdenum minerals have been known throughout history, but the element was discovered (in the sense of differentiating it as a new entity from the mineral salts of other metals) in 1778 by Carl Wilhelm Scheele. The metal was first isolated in 1781 by Peter Jacob Hjelm. Molybdenum does not occur naturally as a free metal on Earth; it is found only in various oxidation states in minerals. The free element, a silvery metal with a grey cast, has the sixth-highest melting point of any element. It readily forms hard, stable carbides in alloys, and for this reason most of the world production of the element (about 80%) is used in steel alloys, including high-strength alloys and superalloys.
+> **Molybdenum** is a chemical element with the symbol (Abbr::Mo) and atomic number (Charge-e::42) 
+> which is located in period (PeriodNo::5) and group (GroupNo::6). 
+> 
+> The name is from Neo-Latin molybdaenum, 
+> which is based on Ancient Greek Μόλυβδος molybdos, meaning lead, 
+> since its ores were confused with lead ores. 
+> 
+> Molybdenum minerals have been known throughout history, but the element was discovered 
+> (in the sense of differentiating it as a new entity from the mineral salts of other metals) 
+> in 1778 by [[../../Chemist/Scheele,Carl_Wilhelm]]. 
+> The metal was first isolated in 1781 by Peter Jacob Hjelm. 
+> 
+> Molybdenum does not occur naturally as a free metal on Earth; 
+> it is found only in various oxidation states in minerals. 
+> The free element, a silvery metal with a grey cast, has the sixth-highest melting point of any element. 
+> It readily forms hard, stable carbides in alloys, and for this reason 
+> most of the world production of the element (about 80%) is used in steel alloys, 
+> including high-strength alloys and superalloys.
 >
 > Most molybdenum compounds have low solubility in water, but when molybdenum-bearing minerals contact oxygen and water, the resulting molybdate ion MoO2−4 is quite soluble. Industrially, molybdenum compounds (about 14% of world production of the element) are used in high-pressure and high-temperature applications as pigments and catalysts.
 >

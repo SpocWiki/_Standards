@@ -1,8 +1,72 @@
 ---
 type: Element
-
-SpocWebEntityId: 21948 
-has_id_wikidata: Q1100 
+SpocWebEntityId: 21948
+has_id_wikidata: Q1100
+Commons gallery: Tellurium
+Commons category: Tellurium
+RTECS number: WY2625000
+time of discovery or invention: 1783-01-01T00:00:00Z
+part of:
+  - "[[_Standards/WikiData/WD~group 16,104567]]"
+  - "[[_Standards/WikiData/WD~period 5,244982]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~group 16,104567]]"
+  - "[[_Standards/WikiData/WD~period 5,244982]]"
+  - "[[_Standards/WikiData/WD~metalloid,19596]]"
+discoverer or inventor: "[[_Standards/WikiData/WD~Franz-Joseph Müller von Reichenstein,112012]]"
+named after: "[[_Standards/WikiData/WD~Terra,270867]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+instance of:
+  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+  - "[[_Standards/WikiData/WD~flammable solid,21073024]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+found in taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
+associated hazard: "[[_Standards/WikiData/WD~tellurium exposure,21175335]]"
+has effect: "[[_Standards/WikiData/WD~tellurium exposure,21175335]]"
+UMLS CUI: C0039462
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20crystals%20crystallizing.webm
+electron configuration:
+  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁴
+  - "[Kr] 5s² 5d¹⁰ 5p⁴"
+vapor pressure: 0
+time-weighted average exposure limit: 0.1
+electronegativity: 2.1
+immediately dangerous to life or health: 25
+ionic radius:
+  - 0.43
+  - 0.56
+  - 0.66
+  - 0.97
+  - 2.21
+atomic number: 52
+density: 6.24
+melting point: 842
+mass: 127.6
+boiling point: 1814
+ZVG number: "7520"
+Gmelin number: "16309"
+OmegaWiki Defined Meaning: "160178"
+PubChem CID: "6327182"
+Unicode character: 碲
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20element%202.jpg
+canonical SMILES: "[Te]"
+CAS Registry Number: 13494-80-9
+EC number: 236-813-4
+MeSH tree code:
+  - D01.268.185.950
+  - D01.268.513.968
+DSSTOX compound identifier: DTXCID7012119
+Wolfram Language entity code: Entity["Mineral", "Tellurium"]
+InChI: InChI=1S/Te
+UNII: NQA0O090ZJ
+InChIKey: PORWMNRCUJJQNO-UHFFFAOYSA-N
+chemical formula: Te
+element symbol: Te
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Tellurium,1100]]  
@@ -36,9 +100,35 @@ has_id_wikidata: Q1100
 
 
 > **Tellurium** is a chemical element with the symbol (Abbr::Te) and atomic number (Charge-e::53). 
-> It is a brittle, mildly toxic, rare, silver-white metalloid. Tellurium is chemically related to selenium and sulfur, all three of which are chalcogens. It is occasionally found in native form as elemental crystals. Tellurium is far more common in the Universe as a whole than on Earth. Its extreme rarity in the Earth's crust, comparable to that of platinum, is due partly to its formation of a volatile hydride that caused tellurium to be lost to space as a gas during the hot nebular formation of Earth.Tellurium-bearing compounds were first discovered in 1782 in a gold mine in Kleinschlatten, Transylvania (now Zlatna, Romania) by Austrian mineralogist Franz-Joseph Müller von Reichenstein, although it was Martin Heinrich Klaproth who named the new element in 1798 after the Latin tellus 'earth'. Gold telluride minerals are the most notable natural gold compounds. However, they are not a commercially significant source of tellurium itself, which is normally extracted as a by-product of copper and lead production.
+> It is a brittle, mildly toxic, rare, silver-white metalloid. 
+> Tellurium is chemically related to selenium and sulfur, all three of which are chalcogens. 
+> It is occasionally found in native form as elemental crystals. 
+> 
+> Tellurium is far more common in the Universe as a whole than on Earth. 
+> Its extreme rarity in the Earth's crust, comparable to that of platinum, 
+> is due partly to its formation of a volatile hydride 
+> that caused tellurium to be lost to space as a gas during the hot nebular formation of Earth. 
+> 
+> Tellurium-bearing compounds were first discovered in 1782 
+> in a gold mine in Kleinschlatten, Transylvania (now Zlatna, Romania) 
+> by Austrian mineralogist Franz-Joseph Müller von Reichenstein, 
+> although it was [[../../Chemist/Klaproth,Martin_Heinrich]] who named the new element in 1798 
+> after the Latin tellus 'earth'. 
+> 
+> Gold telluride minerals are the most notable natural gold compounds. 
+> However, they are not a commercially significant source of tellurium itself, 
+> which is normally extracted as a by-product of copper and lead production.
 >
-> Commercially, the primary use of tellurium is CdTe solar panels and thermoelectric devices. A more traditional application in copper (tellurium copper) and steel alloys, where tellurium improves machinability also consumes a considerable portion of tellurium production. Tellurium is considered a technology-critical element.Tellurium has no biological function, although fungi can use it in place of sulfur and selenium in amino acids such as tellurocysteine and telluromethionine. In humans, tellurium is partly metabolized into dimethyl telluride, (CH3)2Te, a gas with a garlic-like odor exhaled in the breath of victims of tellurium exposure or poisoning.
+> Commercially, the primary use of tellurium is CdTe solar panels and thermoelectric devices. 
+> A more traditional application in copper (tellurium copper) and steel alloys, 
+> where tellurium improves machinability also consumes a considerable portion of tellurium. 
+> 
+> Tellurium is considered a technology-critical element.
+> 
+> Tellurium has no biological function, although fungi can use it 
+> in place of sulfur and selenium in amino acids such as tellurocysteine and telluromethionine. 
+> In humans, tellurium is partly metabolized into dimethyl telluride, (CH3)2Te, 
+> a gas with a garlic-like odor exhaled in the breath of victims of tellurium exposure or poisoning.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tellurium)
 

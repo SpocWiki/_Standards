@@ -1,8 +1,48 @@
 ---
 type: Element
-
 SpocWebEntityId: 21994
-has_id_wikidata: Q1892 
+has_id_wikidata: Q1892
+part of:
+  - "[[_Standards/WikiData/WD~period 7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
+discoverer or inventor:
+  - "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
+  - "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+instance of:
+  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox einsteinium,8085692]]"
+maintained by WikiProject:
+  - "[[_Standards/WikiData/WD~WikiProject Elements,11165030]]"
+  - "[[_Standards/WikiData/WD~WikiProject California,15785976]]"
+  - "[[_Standards/WikiData/WD~WikiProject University of California,21831035]]"
+UMLS CUI: C0013741
+named after: "[[_Standards/WikiData/WD~Albert Einstein,937]]"
+electronegativity: 1.3
+atomic number: 99
+PubChem CID: "23913"
+chemical formula: Es
+element symbol: Es
+OmegaWiki Defined Meaning: "157713"
+time of discovery or invention: 1952-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Einsteinium.jpg
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-einsteinium.wav
+canonical SMILES: "[Es]"
+CAS Registry Number: 7429-92-7
+InChIKey: CKBRQZNRCSJHFT-UHFFFAOYSA-N
+MeSH tree code:
+  - D01.268.271.100.250
+  - D01.268.556.244
+  - D01.496.749.305.100.250
+  - D01.552.020.337
+  - D01.552.544.244
+DSSTOX compound identifier: DTXCID90147796
+Commons gallery: Einsteinium
+Commons category: Einsteinium
+InChI: InChI=1S/Es
+UNII: WV8XL34X3O
+Unicode character: 鑀
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Einsteinium,1892]] 
@@ -36,8 +76,28 @@ has_id_wikidata: Q1892
 (Charge-e::99)
 
 
+
 ## #has_/text_of_/abstract 
 
+> **Einsteinium** is a synthetic chemical element; it has symbol Es and atomic number 99. 
+> It is named after Albert Einstein and is a member of the actinide series 
+> and the seventh transuranium element. 
+>
+> Einsteinium was discovered in 1952 as a component of the debris of the first hydrogen bomb. 
+> Its most common isotope, einsteinium-253 (253Es; half-life 20.47 days), 
+> is produced artificially from decay of californium-253 in a few dedicated high-power nuclear reactors 
+> with a total yield on the order of one milligram per year. 
+> The reactor synthesis is followed by a complex process of 
+> separating einsteinium-253 from other actinides and products of their decay. 
+> Other isotopes are synthesized in various laboratories, but in much smaller amounts, 
+> by bombarding heavy actinide elements with light ions. 
+> Due to the small amounts of einsteinium produced and the short half-life of its most common isotope, there are no practical applications for it except basic scientific research. In particular, einsteinium was used to synthesize, for the first time, 17 atoms of the new element mendelevium in 1955.
+>
+> Einsteinium is a soft, silvery, paramagnetic metal. Its chemistry is typical of the late actinides, with a preponderance of the +3 oxidation state; the +2 oxidation state is also accessible, especially in solids. The high radioactivity of 253Es produces a visible glow and rapidly damages its crystalline metal lattice, with released heat of about 1000 watts per gram. Studying its properties is difficult due to 253Es's decay to berkelium-249 and then californium-249 at a rate of about 3% per day. The longest-lived isotope of einsteinium, 252Es (half-life 471.7 days) would be more suitable for investigation of physical properties, but it has proven far more difficult to produce and is available only in minute quantities, not in bulk. Einsteinium is the element with the highest atomic number which has been observed in macroscopic quantities in its pure form as einsteinium-253.
+>
+> Like all synthetic transuranium elements, isotopes of einsteinium are very radioactive and are considered highly dangerous to health on ingestion.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Einsteinium)
 
 
 ## Confidential Links & Embeds: 

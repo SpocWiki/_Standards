@@ -1,10 +1,11 @@
-﻿---
+---
 aliases:
   - Fritz Haber
 ---
 
 #has_/time_/started ::  1868-12-09 
-#has_/time_/started ::  1934-01-29 
+#has_/time_/stopped ::  1934-01-29 
+#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 
 > Fritz Haber (German pronunciation: [ˈfʁɪt͡s ˈhaːbɐ] ; 9 December 1868 – 29 January 1934) 
 > was a German chemist who received the Nobel Prize in Chemistry in 1918 

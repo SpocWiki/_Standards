@@ -1,8 +1,90 @@
 ---
 type: Element
-
 SpocWebEntityId: 21921
 has_id_wikidata: Q706
+CAS Registry Number: 7440-70-2
+UMLS CUI: C0006675
+chemical formula: Ca
+element symbol: Ca
+Commons category: Calcium
+Commons gallery: Calcium
+MeSH tree code:
+  - D01.268.552.100
+  - D01.552.539.288
+  - D23.119.100
+DSSTOX compound identifier: DTXCID40876145
+InChI: InChI=1S/Ca
+Krugosvet article: nauka_i_tehnika/himiya/KALTSI.html
+InChIKey: OYPRJOBELJOOCE-UHFFFAOYSA-N
+UNII: SY7Q814VUP
+Unicode character: 鈣
+time of discovery or invention: 1808-01-01T00:00:00Z
+discoverer or inventor: "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
+part of:
+  - "[[_Standards/WikiData/WD~period 4,239825]]"
+  - "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+named after: "[[_Standards/WikiData/WD~lime,250423]]"
+found in taxon:
+  - "[[_Standards/WikiData/WD~Chlorella vulgaris,309972]]"
+  - "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
+  - "[[_Standards/WikiData/WD~Phytelephas aequatorialis,2709988]]"
+  - "[[_Standards/WikiData/WD~Chlorella pyrenoidosa,5102920]]"
+  - "[[_Standards/WikiData/WD~Euphorbia lancifolia,5851731]]"
+  - "[[_Standards/WikiData/WD~Montanoa tomentosa,6904440]]"
+  - "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
+  - "[[_Standards/WikiData/WD~Montanoa frutescens,15564776]]"
+  - "[[_Standards/WikiData/WD~Montanoa grandiflora,15564965]]"
+  - "[[_Standards/WikiData/WD~Montanoa leucantha,15565960]]"
+  - "[[_Standards/WikiData/WD~Chamomilla recutita,50837010]]"
+  - "[[_Standards/WikiData/WD~Auxenochlorella pyrenoidosa,69677118]]"
+  - "[[_Standards/WikiData/WD~Matricaria chamomilla,28437]]"
+  - "[[_Standards/WikiData/WD~cacao,42385]]"
+  - "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Calcium,84637109]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+instance of:
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+  - "[[_Standards/WikiData/WD~essential medicine,35456]]"
+different from: "[[_Standards/WikiData/WD~serum calcium,21028902]]"
+subclass of: "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+ionic radius:
+  - 1
+  - 1.12
+  - 1.23
+  - 134
+oxidation state:
+  - 1
+  - 2
+electronegativity: 1
+atomic number: 20
+subject has role: "[[_Standards/WikiData/WD~essential medicine,35456]]"
+electrical conductivity: 28200000
+standard molar entropy: 41.6
+OmegaWiki Defined Meaning: "471"
+Dewey Decimal Classification:
+  - "669.725"
+  - "546.393"
+  - "572.516"
+  - "612.3924"
+mass: 40.078
+melting point: 838.85
+boiling point: 1483.85
+ZVG number: "8160"
+Gmelin number: "16277"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Calcium%201.jpg
+electron configuration:
+  - "[Ar] 4s²"
+  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²
+canonical SMILES: "[Ca]"
+UNSPSC Code: "11101511"
+EC number: 231-179-5
+Reaxys registry number: "4241647"
+PubChem CID: "5460341"
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Calcium,706]] 
@@ -32,11 +114,45 @@ has_id_wikidata: Q706
 ## #has_/text_of_/abstract 
 
 
-> **Calcium** is a chemical element with the symbol (Abbr::Ca) and atomic number (Charge-e::20). As an alkaline earth metal, calcium is a reactive metal that forms a dark oxide-nitride layer when exposed to air. Its physical and chemical properties are most similar to its heavier homologues strontium and barium. It is the fifth most abundant element in Earth's crust, and the third most abundant metal, after iron and aluminium. The most common calcium compound on Earth is calcium carbonate, found in limestone and the fossilised remnants of early sea life; gypsum, anhydrite, fluorite, and apatite are also sources of calcium. The name derives from Latin calx "lime", which was obtained from heating limestone.
+> **Calcium** is a chemical element with the symbol (Abbr::Ca) and atomic number (Charge-e::20). 
+> As an alkaline earth metal, calcium is a reactive metal 
+> that forms a dark oxide-nitride layer when exposed to air. 
+> 
+> Its physical and chemical properties are most similar to its heavier homologues strontium and barium. 
+> It is the fifth most abundant element in Earth's crust, 
+> and the third most abundant metal, after iron and aluminium. 
+> 
+> The most common calcium compound on Earth is calcium carbonate, 
+> found in limestone and the fossilised remnants of early sea life; 
+> gypsum, anhydrite, fluorite, and apatite are also sources of calcium. 
+> 
+> The name derives from Latin calx "lime", which was obtained from heating limestone.
 >
-> Some calcium compounds were known to the ancients, though their chemistry was unknown until the seventeenth century. Pure calcium was isolated in 1808 via electrolysis of its oxide by Humphry Davy, who named the element. Calcium compounds are widely used in many industries: in foods and pharmaceuticals for calcium supplementation, in the paper industry as bleaches, as components in cement and electrical insulators, and in the manufacture of soaps. On the other hand, the metal in pure form has few applications due to its high reactivity; still, in small quantities it is often used as an alloying component in steelmaking, and sometimes, as a calcium–lead alloy, in making automotive batteries.
+> Some calcium compounds were known to the ancients, 
+> though their chemistry was unknown until the seventeenth century. 
+> 
+> Pure calcium was isolated in 1808 via electrolysis of its oxide 
+> by [[../Group-17-Halogene/Davy,Humphry]], who named the element. 
+> 
+> Calcium compounds are widely used in many industries: 
+> in foods and pharmaceuticals for calcium supplementation, 
+> in the paper industry as bleaches, as components in cement and electrical insulators, 
+> and in the manufacture of soaps. 
+> 
+> On the other hand, the metal in pure form has few applications due to its high reactivity; 
+> still, in small quantities it is often used as an alloying component in steelmaking, 
+> and sometimes, as a calcium–lead alloy, in making automotive batteries.
 >
-> Calcium is the most abundant metal and the fifth-most abundant element in the human body. As electrolytes, calcium ions (Ca2+) play a vital role in the physiological and biochemical processes of organisms and cells: in signal transduction pathways where they act as a second messenger; in neurotransmitter release from neurons; in contraction of all muscle cell types; as cofactors in many enzymes; and in fertilization. Calcium ions outside cells are important for maintaining the potential difference across excitable cell membranes, protein synthesis, and bone formation.
+> Calcium is the most abundant metal and the fifth-most abundant element in the human body. 
+> As electrolytes, calcium ions (Ca2+) play a vital role 
+> in the physiological and biochemical processes of organisms and cells: 
+> in signal transduction pathways where they act as a second messenger; 
+> in neurotransmitter release from neurons; in contraction of all muscle cell types; 
+> as cofactors in many enzymes; and in fertilization. 
+> 
+> Calcium ions outside cells are important for 
+> maintaining the potential difference across excitable cell membranes, 
+> protein synthesis, and bone formation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calcium)
 
