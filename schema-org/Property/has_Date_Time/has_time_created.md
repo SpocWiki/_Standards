@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -28,14 +28,16 @@ aliases:
 ---
 
 #is_/similar_to :: #created 
-#has_/dual_/property :: [[has_time_destroyed]] 
+#has_/dual_/property :: [[has_time_stopped]] 
+#has_/dual_/property :: [[has_time_stopped]] 
+#is_/similar_to :: #has_/time_/started  
 
 Predicate to describe the date of CreativeWork, DataFeedItem.
 Analog to [[../../../../Data/Wikipedia/WikiData|WikiData]] [[has_time_to_start]]  and [[has_time_to_end]] 
 which is the moment when an entity begins/ceases to exist or a statement starts/stops being valid.
 
 #has_/url :: https://www.wikidata.org/wiki/Property:P580 
-#has_/dual_/property :: [[has_time_destroyed]] 
+#has_/dual_/property :: [[has_time_stopped]] 
 
 Use it like this: 
 - [has_time_created::P#Y#M#W#DT#H#M#s.fff] or 

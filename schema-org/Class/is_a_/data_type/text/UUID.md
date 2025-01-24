@@ -5,7 +5,7 @@ aliases:
 # [[UUID]] 
 
 Better Alternatives are: 
-#is_/worse_than :: [[Snowflake-ID]] 
+#is_/worse_than ::[[../../../../../../IT/SW~Architecture/Snowflake-ID]]] 
 #is_/worse_than :: [[Cuid2]]
 NanoID 
 

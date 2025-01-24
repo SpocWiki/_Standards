@@ -131,9 +131,19 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20crystals.webm
 > Today, almost all elemental sulfur is produced as a byproduct of 
 > removing sulfur-containing contaminants from natural gas and petroleum. 
 > 
-> The greatest commercial use of the element is the production of sulfuric acid for sulfate and phosphate fertilizers, and other chemical processes. Sulfur is used in matches, insecticides, and fungicides. Many sulfur compounds are odoriferous, and the smells of odorized natural gas, skunk scent, grapefruit, and garlic are due to organosulfur compounds. Hydrogen sulfide gives the characteristic odor to rotting eggs and other biological processes.
+> The greatest commercial use of the element is the production of sulfuric acid for sulfate 
+> and phosphate fertilizers, and other chemical processes. Sulfur is used in matches, insecticides, and fungicides. Many sulfur compounds are odoriferous, and the smells of odorized natural gas, skunk scent, grapefruit, and garlic are due to organosulfur compounds. Hydrogen sulfide gives the characteristic odor to rotting eggs and other biological processes.
 >
-> Sulfur is an essential element for all life, but almost always in the form of organosulfur compounds or metal sulfides. Amino acids (two proteinogenic: cysteine and methionine, and many other non-coded: cystine, taurine, etc.) and two vitamins (biotin and thiamine) are organosulfur compounds crucial for life. Many cofactors also contain sulfur, including glutathione, and iron–sulfur proteins. Disulfides, S–S bonds, confer mechanical strength and insolubility of the (among others) protein keratin, found in outer skin, hair, and feathers. Sulfur is one of the core chemical elements needed for biochemical functioning and is an elemental macronutrient for all living organisms.
+> Sulfur is an essential element for all life, 
+> but almost always in the form of organosulfur compounds or metal sulfides. 
+> Amino acids 
+> (two proteinogenic: cysteine and methionine, and many other non-coded: cystine, taurine, etc.) 
+> and two vitamins (biotin and thiamine) are organosulfur compounds crucial for life. 
+> Many cofactors also contain sulfur, including glutathione, and iron–sulfur proteins. 
+> Disulfides, S–S bonds, confer mechanical strength 
+> and insolubility of the (among others) protein keratin, found in outer skin, hair, and feathers. 
+> Sulfur is one of the core chemical elements needed for biochemical functioning 
+> and is an elemental macronutrient for all living organisms.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulfur)
 
