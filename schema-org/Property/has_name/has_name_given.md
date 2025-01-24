@@ -1,34 +1,31 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_name_given
 linkTitle: has_name_given
-
-keywords: [given, name]
+keywords:
+  - given
+  - name
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- given-name
-- name_given
-- givenName
-- has_name_given
+  - given-name
+  - name_given
+  - givenName
+  - has_name_given
+  - first name
 ---
 
 Predicate to describe the Text of Person.
