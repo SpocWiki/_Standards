@@ -5,7 +5,7 @@ aliases:
 
 #has_/time_/started :: 1861-02-15 
 #has_/time_/stopped :: 1947-12-30
-#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 
 
 > **Alfred North Whitehead**  (15 February 1861 – 30 December 1947) 

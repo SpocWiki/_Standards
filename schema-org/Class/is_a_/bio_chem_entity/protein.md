@@ -1,3 +1,30 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - Type
+publish: true
+type: Type
+title: is_a_protein Class
+linkTitle: is_a_protein Class
+keywords:
+  - protein
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+aliases:
+  - protein
+  - protein
+  - Protein
+  - is_a_protein
+  - Eiweiß
+---
 ﻿---
 license: CC BY-SA 4.0
 confidential: public

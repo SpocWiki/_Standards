@@ -9,7 +9,7 @@ SpocWebEntityId: 59062
 ---
 
 #has_/time_/started :: 1918-10-28 
-Czechoslovakia was created on `$=dv.current().has_time_created`, 
+Czechoslovakia was created on `$=dv.current().has_time_started`, 
 following the collapse of the Austro-Hungarian Empire after World War I.
 
 The dissolution of Czechoslovakia occurred peacefully on (#has_/time_/destroyed  :: 1993-01-01) , 

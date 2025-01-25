@@ -1,4 +1,4 @@
-﻿
+
 
 | Fahrerlaubnisklasse (2013-) | Fahrzeugdefinition | (-2013) |
 | --------------------------- | ------------------ | ------- |
@@ -7,7 +7,7 @@
 
 ## Klasse AM
 
-![Fahrerlaubnisklasse AM](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-am.jpg?__blob=normal "Fahrerlaubnisklasse AM")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-AM.jpg|"Fahrerlaubnisklasse AM"]]
 
 ### M: Leichte zweirädrige Kleinkrafträder der Klasse L1e-B (Mopeds) mit
 
@@ -33,7 +33,7 @@
 
 ## Klasse A1
 
-![Fahrerlaubnisklasse A1](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-a1.jpg?__blob=normal "Fahrerlaubnisklasse A1")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-A1.jpg|"Fahrerlaubnisklasse A1"]]
 
 ### A1: Krafträder mit
 
@@ -52,7 +52,7 @@ auch mit Beiwagen.
 
 ## Klasse A2
 
-![Fahrerlaubnisklasse A2](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-a2.jpg?__blob=normal "Fahrerlaubnisklasse A2")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-A2.jpg|"Fahrerlaubnisklasse A2"]]
 
 ### A (leistungs-beschränkt): Krafträder mit
 
@@ -60,7 +60,7 @@ auch mit Beiwagen.
 - Verhältnis der Leistung zum Gewicht max. 0,2 kW/kg,
 auch mit Beiwagen.
 
-![Fahrerlaubnisklasse A](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-a.jpg?__blob=normal "Fahrerlaubnisklasse A")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-A.jpg|"Fahrerlaubnisklasse A"]]
 
 Klasse A
 
@@ -81,7 +81,7 @@ auch mit Beiwagen.
 
 ## Klasse B
 
-![Fahrerlaubnisklasse B](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-b.jpg?__blob=normal "Fahrerlaubnisklasse B")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-B.jpg|"Fahrerlaubnisklasse B"]]
 
 ### B: Kraftfahrzeuge (außer solche der Klassen AM, A1, A2 und A)
 
@@ -112,13 +112,13 @@ Fußnote 2)Die Fahrerlaubnis der Klasse B berechtigt im Inland auch zum Führen 
 
 ## Klasse BE
 
-![Fahrerlaubnisklasse BE](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-be.jpg?__blob=normal "Fahrerlaubnisklasse BE")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-BE.jpg|"Fahrerlaubnisklasse BE"]]
 
 Zugfahrzeug der **Klasse B** in **Kombination** mit Anhänger oder Sattelanhänger mit zulässiger Gesamtmasse des Anhängers von mehr 750 kg und nicht mehr als 3.500 kgBE
 
 ## Klasse C1 Fußnote 1)
 
-![Fahrerlaubnisklasse C1](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-c1.jpg?__blob=normal "Fahrerlaubnisklasse C1")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-C1.jpg|"Fahrerlaubnisklasse C1"]]
 
 ### C1: Kraftfahrzeuge (außer solche der Klassen AM, A1, A2, A, D1 und D) mit
 
@@ -129,7 +129,7 @@ auch mit Anhänger mit einer zulässigen Gesamtmasse von nicht mehr als 750 kg.
 
 ## Klasse C1E Fußnote 1)
 
-![Fahrerlaubnisklasse C1E](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-c1e.jpg?__blob=normal "Fahrerlaubnisklasse C1E")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-C1E.jpg|"Fahrerlaubnisklasse C1E"]]
 
 ### BE: Zugfahrzeug der **Klasse B** in **Kombination** mit
 
@@ -143,7 +143,7 @@ auch mit Anhänger mit einer zulässigen Gesamtmasse von nicht mehr als 750 kg.
 
 ## Klasse C Fußnote 1)
 
-![Fahrerlaubnisklasse C](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-c.jpg?__blob=normal "Fahrerlaubnisklasse C")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-C.jpg|"Fahrerlaubnisklasse C"]]
 
 ### C: **Kraftfahrzeuge** (außer solche der Klassen AM, A1, A2, A, D1 und D) mit
 
@@ -154,13 +154,13 @@ auch mit Anhänger mit einer zulässigen Gesamtmasse von nicht mehr als 750 kg.
 
 ## Klasse CE Fußnote 1
 
-![Fahrerlaubnisklasse CE](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-ce.jpg?__blob=normal "Fahrerlaubnisklasse CE")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-CE.jpg|"Fahrerlaubnisklasse CE"]]
 
 ### CE: Zugfahrzeug der **Klasse C** in **Kombination** mit Anhänger oder Sattelanhänger mit zulässiger Gesamtmasse von mehr als 750 kg.
 
 ## Klasse D1
 
-![Fahrerlaubnisklasse D1](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-d1.jpg?__blob=normal "Fahrerlaubnisklasse D1")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-D1.jpg|"Fahrerlaubnisklasse D1"]]
 
 ### D1: **Kraftfahrzeuge** (außer solche der Klassen AM, A1, A2 und A)
 
@@ -171,11 +171,11 @@ auch mit Anhänger mit einer zulässigen Gesamtmasse von nicht mehr als 750 kg.
 
 ## Klasse D1E
 
-![Fahrerlaubnisklasse D1E](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-d1e.jpg?__blob=normal "Fahrerlaubnisklasse D1E")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-D1E.jpg|"Fahrerlaubnisklasse D1E"]]
 
 ### D1E: Zugfahrzeug der **Klasse D1** in **Kombination** mit Anhänger mit zulässiger Gesamtmasse von mehr als 750 kg.D1E
 
-![Fahrerlaubnisklasse D](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-d.jpg?__blob=normal "Fahrerlaubnisklasse D")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-D-Bus.jpg|"Fahrerlaubnisklasse D"]]
 
 ## Klasse D
 
@@ -185,13 +185,13 @@ auch mit Anhänger mit einer zulässigen Gesamtmasse von nicht mehr als 750 kg.
 
 ## Klasse DE
 
-![Fahrerlaubnisklasse DE](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-de.jpg?__blob=normal "Fahrerlaubnisklasse DE")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-DE.jpg|"Fahrerlaubnisklasse DE"]]
 
 ### DE: Zugfahrzeug der **Klasse D** in **Kombination** mit Anhänger mit zulässiger Gesamtmasse von mehr als 750 kg
 
 ## Klasse T
 
-![Fahrerlaubnisklasse T](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-t.jpg?__blob=normal "Fahrerlaubnisklasse T")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-T.jpg|"Fahrerlaubnisklasse T"]]
 
 - **Zugmaschinen** mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 60 km/h und
 - **selbstfahrende Arbeitsmaschinen oder selbstfahrende Futtermischwagen** mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 40 km/h
@@ -200,7 +200,7 @@ die jeweils nach ihrer Bauart zur Verwendung für land- oder forstwirtschaftlich
 
 ## Klasse L
 
-![Fahrerlaubnisklasse L](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-l.jpg?__blob=normal "Fahrerlaubnisklasse L")
+![[../../../../../assets/Pictures/Docs/Führerschein/Führerschein-L-Traktor.jpg|"Fahrerlaubnisklasse L"]]
 
 - **Zugmaschinen**, die nach ihrer Bauart zur Verwendung für land- oder forstwirtschaftliche Zwecke bestimmt sind und für solche Zwecke eingesetzt werden, mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 40 km/h und
 - **Kombinationen** aus diesen Fahrzeugen und Anhängern, wenn sie mit einer Geschwindigkeit von nicht mehr als 25 km/h geführt werden, sowie

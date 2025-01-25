@@ -13,10 +13,10 @@ These are several hundred million years to two billion years in length.
 ```dataview
 TABLE WITHOUT ID
 substring(file.name,6), 
-round(has_time_createdma * 1000000) as start, 
+round(has_time_startedma * 1000000) as start, 
 round(has_time_destroyedma * 1000000) as end 
 from #is_a_/time_/Eon  
-SORT has_time_createdma asc
+SORT has_time_startedma asc
 ```
 
 ```mermaid
@@ -78,10 +78,10 @@ Quaternary: crit, -2580000, 0
 ```dataview
 TABLE WITHOUT ID
 substring(file.name,6) + ": crit, " 
-+ round(has_time_createdma * 1000000) + ", "
++ round(has_time_startedma * 1000000) + ", "
 + round(has_time_destroyedma * 1000000) as task
 FROM #is_a_/time_/Era  
-SORT has_time_createdma asc
+SORT has_time_startedma asc
 ```
 
 
@@ -125,10 +125,10 @@ Quaternary: crit, -2580000, 0
 ```dataview
 TABLE WITHOUT ID
 substring(file.name,9) + ": crit, " 
-+ round(has_time_createdma * 1000000) + ", "
++ round(has_time_startedma * 1000000) + ", "
 + round(has_time_destroyedma * 1000000) as task
 FROM #is_a_/time_/Period  
-SORT has_time_createdma asc
+SORT has_time_startedma asc
 ```
 
 
@@ -178,10 +178,10 @@ Holocene: crit, -11700, 0
 ```dataview
 TABLE WITHOUT ID
 substring(file.name,8) + ": crit, " 
-+ round(has_time_createdma * 1000000) + ", "
++ round(has_time_startedma * 1000000) + ", "
 + round(has_time_destroyedma * 1000000) as task
 FROM #is_a_/time_/Epoch  
-SORT has_time_createdma asc
+SORT has_time_startedma asc
 ```
 
 
@@ -246,10 +246,10 @@ Meghalayan: crit, -4200, 0
 ```dataview
 TABLE WITHOUT ID
 substring(file.name,6) + ": crit, " 
-+ round(has_time_createdma * 1000000) + ", "
++ round(has_time_startedma * 1000000) + ", "
 + round(has_time_destroyedma * 1000000) as task
 FROM #is_a_/time_/Age  
-SORT has_time_createdma asc
+SORT has_time_startedma asc
 ```
 
 
@@ -727,10 +727,10 @@ Siege of Aztec Tenochtitlan	: milestone, 	1521	,	1521
 ```dataview
 TABLE WITHOUT ID
 substring(file.name,0) + ": crit, " 
-+ round(has_time_createdka * 1000) + ", "
++ round(has_time_startedka * 1000) + ", "
 + round(has_time_destroyedka * 1000) as task
 FROM #is_a_/time_/Culture 
-SORT has_time_createdka asc
+SORT has_time_startedka asc
 ```
 
 

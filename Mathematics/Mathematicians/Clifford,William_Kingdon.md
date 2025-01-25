@@ -5,8 +5,8 @@ aliases:
 
 #has_/time_/started :: 1845-05-04 
 #has_/time_/stopped :: 1879-03-03 
-#has_/age :: `$=((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)`
-#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
+#has_/duration :: `$=((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)`
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 
 ## #has_/text_of_/abstract 
 

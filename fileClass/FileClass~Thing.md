@@ -87,7 +87,7 @@ fields:
     type: File
     path: ""
   - id: Jza665
-    name: has_time_created
+    name: has_time_started
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
@@ -284,7 +284,7 @@ but this would confound it with regular Relations.
 is_a::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
 fileClass::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/FileClass')"}}
 
-has_time_created:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+has_time_started:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 has_time_destroyed:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 has_creator:: {"type":"Input","options":{}}
 has_destroyer:: {"type":"Input","options":{}}

@@ -1,5 +1,9 @@
-﻿---
+---
 icon: flag-un
+aliases:
+  - UNO
+  - United Nations
+  - United Nations Organization
 ---
 
 #has_/previous_item :: [[../Knowledge/Literature/Authors/League_of_Nations|League_of_Nations]] 
