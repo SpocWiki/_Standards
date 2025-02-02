@@ -171,17 +171,26 @@ Capital :: [Moskwa](Moskwa)
 [has_place_latitude::52.6418]
 
 
-| Date          | Location           | Type of Infrastructure Affected | Description                                                        | Nature    |
-| ------------- | ------------------ | ------------------------------- | ------------------------------------------------------------------ | --------- |
-| April 2015    | Ukraine            | Power Grid                      | Cyberattack on Ukrainian power grid causing outages                | Actual    |
-| June 2017     | Ukraine & Europe   | Various                         | NotPetya malware affecting businesses and infrastructure           | Actual    |
-| March 2018    | United Kingdom     | Chemical Industry               | Salisbury poisoning incident raises concerns over safety           | Actual    |
-| July 2021     | Europe-wide        | Oil & Gas                       | Concerns over Nord Stream 2 manipulation and political leverage    | Perceived |
-| April 2022    | Baltic Sea         | Submarine cables                | Increased military activity raises concerns over cable security    | Perceived |
-| October 2022  | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions suspected to involve sabotage      |           |
-| February 2023 | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                   | Actual    |
-| May 2023      | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia | Actual    |
-|               |                    |                                 |                                                                    |           |
+| Date       | Location           | Type of Infrastructure Affected | Description                                                        | Nature    |
+| ---------- | ------------------ | ------------------------------- | ------------------------------------------------------------------ | --------- |
+| 2015-04    | Ukraine            | Power Grid                      | Cyberattack on Ukrainian power grid causing outages                |           |
+| 2017-06    | Ukraine & Europe   | Various                         | NotPetya malware affecting businesses and infrastructure           |           |
+| 2018-03    | United Kingdom     | Chemical Industry               | Salisbury poisoning incident raises concerns over safety           |           |
+| 2021-07    | Europe-wide        | Oil & Gas                       | Concerns over Nord Stream 2 manipulation and political leverage    | Perceived |
+| 2022-04    | Baltic Sea         | Submarine cables                | Increased military activity raises concerns over cable security    | Perceived |
+| 2022-10    | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions suspected to involve sabotage      |           |
+| 2023-02    | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                   |           |
+| 2023-05    | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia |           |
+| 2024-02-16 |                    | Dissident                       | [[../../../../../media/Podcast/Navalny,Alexei\|Navalny,Alexei]]    |           |
+| 2018-03    |                    | [[Double-Agent]]                | [[Skripal,Sergei]]                                                 |           |
+| 2006-11-23 |                    | [[Double-Agent]]                | [[Alexander Litwinenko]]                                           |           |
+|            |                    |                                 | [[Krasikov,Vadim]]                                                |           |
+
+
+  
+ 
+[[../../media/Podcast/Navalny,Alexei]]  
+[Alexander Walterowitsch Litwinenko](https://de.wikipedia.org/wiki/Alexander_Walterowitsch_Litwinenko "Alexander Walterowitsch Litwinenko"), ehemaliger russischer [FSB](https://de.wikipedia.org/wiki/FSB_\(Geheimdienst\) "FSB (Geheimdienst)")-Agent, Buchautor und [Putin](https://de.wikipedia.org/wiki/Wladimir_Wladimirowitsch_Putin "Wladimir Wladimirowitsch Putin")-Kritiker, wurde am 1. November 2006 im Exil in London mit [Polonium-210](https://de.wikipedia.org/wiki/Polonium-210 "Polonium-210") vergiftet 
 
 ## Confidential Links & Embeds: 
 
