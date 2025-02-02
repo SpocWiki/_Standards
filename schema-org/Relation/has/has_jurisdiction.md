@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -32,7 +32,8 @@ aliases:
 
 [ #is_/part_of :: pending: ]
 
-Use it like this: 
+Use it like this tp specify the geographic or administrative jurisdiction 
+where the Subject (e.g., a policy, regulation, or rule) is applicable.: 
 - [ #has_/jurisdiction :: AdministrativeArea, Text ] or 
 - [ has_jurisdiction :: AdministrativeArea, Text ] 
 

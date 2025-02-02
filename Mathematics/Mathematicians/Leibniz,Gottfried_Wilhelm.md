@@ -69,8 +69,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Gottfried%20Wilhelm%20Leibniz)
 
 
-`$=JSON.stringify(dv.current())`
-
 ## Confidential Links & Embeds: 
 
 ### [Leibniz,Gottfried_Wilhelm](/_public/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.md) 

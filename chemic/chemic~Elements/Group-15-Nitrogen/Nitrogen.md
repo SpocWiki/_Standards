@@ -121,6 +121,25 @@ Dewey Decimal Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrogen)
 
+
+## History 
+
+Nitrogen is hard to involve chemical reactions and used to be rare. 
+
+
+## Application 
+
+
+
+## Nitrogen-Sources 
+
+- Guano 
+- Chile Salpeter 
+- [[Haber–Bosch process]] 
+- 
+
+
+
 ## Confidential Links & Embeds: 
 
 ### [Nitrogen](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.md) 
