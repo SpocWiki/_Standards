@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 52.6418
     - 47.4574
@@ -171,6 +171,17 @@ Capital :: [Moskwa](Moskwa)
 [has_place_latitude::52.6418]
 
 
+| Date          | Location           | Type of Infrastructure Affected | Description                                                        | Nature    |
+| ------------- | ------------------ | ------------------------------- | ------------------------------------------------------------------ | --------- |
+| April 2015    | Ukraine            | Power Grid                      | Cyberattack on Ukrainian power grid causing outages                | Actual    |
+| June 2017     | Ukraine & Europe   | Various                         | NotPetya malware affecting businesses and infrastructure           | Actual    |
+| March 2018    | United Kingdom     | Chemical Industry               | Salisbury poisoning incident raises concerns over safety           | Actual    |
+| July 2021     | Europe-wide        | Oil & Gas                       | Concerns over Nord Stream 2 manipulation and political leverage    | Perceived |
+| April 2022    | Baltic Sea         | Submarine cables                | Increased military activity raises concerns over cable security    | Perceived |
+| October 2022  | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions suspected to involve sabotage      |           |
+| February 2023 | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                   | Actual    |
+| May 2023      | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia | Actual    |
+|               |                    |                                 |                                                                    |           |
 
 ## Confidential Links & Embeds: 
 
