@@ -108,9 +108,6 @@ Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]
 
 ## Major Cities 
 
-## Major Cities 
-
-
 | City                                                                                                               | State                                      |   Pop@2020 |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ---------: |
 | [[USA/USA~Eastern/New_York,State/counties~New_York/New_York,City\|New_York,City]]                                  | New York                                   | 8804.190e3 |
@@ -123,30 +120,30 @@ Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]
 | [[USA/USA~Pacific/California/counties~California/San_Diego/cities~San_Diego/San_Diego\|San_Diego]]                 | California                                 | 1386.932e3 |
 | [[USA/USA~Mountain/Texas/counties~Texas/Dallas/cities~Dallas/Dallas\|Dallas]]                                      | Texas                                      | 1304.379e3 |
 | [[San José]]                                                                                                       | California                                 | 1013.240e3 |
-| Austin                                                                                                             | Texas                                      |  961.855e3 |
-| Jacksonville                                                                                                       | Florida                                    |  949.611e3 |
-| Fort Worth                                                                                                         | Texas                                      |  918.915e3 |
-| Columbus                                                                                                           | Ohio                                       |  905.748e3 |
-| Charlotte                                                                                                          | North Carolina                             |  874.579e3 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Travis/cities~Travis/Austin\|Austin]]                                      | Texas                                      |  961.855e3 |
+| [[Jacksonville]]                                                                                                   | Florida                                    |  949.611e3 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Tarrant/cities~Tarrant/Fort_Worth\|Fort_Worth]]                            | Texas                                      |  918.915e3 |
+| [[USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio/cities~Franklin,Ohio/Columbus\|Columbus]]                       | Ohio                                       |  905.748e3 |
+| [[Charlotte]]                                                                                                      | North Carolina                             |  874.579e3 |
 | [[USA/USA~Pacific/California/counties~California/San_Francisco/cities~San_Francisco/San_Francisco\|San_Francisco]] | California                                 |  873.965e3 |
-| Indianapolis                                                                                                       | Indiana                                    |  887.642e3 |
-| Seattle                                                                                                            | Washington                                 |  737.015e3 |
-| Denver                                                                                                             | Colorado                                   |  715.522e3 |
-| [[USA/USA~Eastern/District_of_Columbia/City/Washington.City\|Washington]]                                          | District of Columbia                       |  689.545e3 |
-| Boston                                                                                                             | Massachusetts                              |  675.647e3 |
-| El Paso                                                                                                            | Texas                                      |  678.815e3 |
-| Nashville                                                                                                          | Tennessee                                  |  689.447e3 |
-| Detroit                                                                                                            | Michigan                                   |  639.111e3 |
+| [[USA/USA~Central/Indiana/counties~Indiana/Marion/cities~Marion/Indianapolis\|Indianapolis]]                       | Indiana                                    |  887.642e3 |
+| [[USA/USA~Pacific/Washington/counties~Washington/King/cities~King/Seattle\|Seattle]]                               | Washington                                 |  737.015e3 |
+| [[USA/USA~Mountain/Colorado/counties~Colorado/Denver/cities~Denver/Denver\|Denver]]                                | Colorado                                   |  715.522e3 |
+| [[USA/USA~Eastern/District_of_Columbia/City/Washington,DC\|Washington,DC]]                                         | District of Columbia                       |  689.545e3 |
+| [[USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk/cities~Suffolk/Boston\|Boston]]                     | Massachusetts                              |  675.647e3 |
+| [[El Paso]]                                                                                                        | Texas                                      |  678.815e3 |
+| [[USA/USA~Central/Tennessee/counties~Tennessee/Davidson/cities~Davidson/Nashville\|Nashville]]                     | Tennessee                                  |  689.447e3 |
+| [[USA/USA~Central/Michigan/counties~Michigan/Wayne/cities~Wayne/Detroit\|Detroit]]                                 | Michigan                                   |  639.111e3 |
 | Oklahoma City                                                                                                      | Oklahoma                                   |  681.054e3 |
-| Portland                                                                                                           | Oregon                                     |  652.503e3 |
-| Las Vegas                                                                                                          | Nevada                                     |  641.903e3 |
-| Memphis                                                                                                            | Tennessee                                  |  633.104e3 |
-| Louisville                                                                                                         | Kentucky                                   |  617.638e3 |
-| Baltimore                                                                                                          | Maryland                                   |  585.708e3 |
-| Milwaukee                                                                                                          | Wisconsin                                  |  577.222e3 |
-| Albuquerque                                                                                                        | New Mexico                                 |  564.559e3 |
-| Tucson                                                                                                             | Arizona                                    |  542.629e3 |
-| Fresno                                                                                                             | California                                 |  542.107e3 |
+| [[USA/USA~Pacific/Oregon/counties~Oregon/Multnomah/cities~Multnomah/Portland\|Portland]]                           | Oregon                                     |  652.503e3 |
+| [[Las Vegas]]                                                                                                      | Nevada                                     |  641.903e3 |
+| [[USA/USA~Central/Tennessee/counties~Tennessee/Shelby/cities~Shelby/Memphis\|Memphis]]                             | Tennessee                                  |  633.104e3 |
+| [[Louisville]]                                                                                                     | Kentucky                                   |  617.638e3 |
+| [[Baltimore]]                                                                                                      | Maryland                                   |  585.708e3 |
+| [[Milwaukee]]                                                                                                      | Wisconsin                                  |  577.222e3 |
+| [[Albuquerque]]                                                                                                    | New Mexico                                 |  564.559e3 |
+| [[Tucson]]                                                                                                         | Arizona                                    |  542.629e3 |
+| [[Fresno]]                                                                                                         | California                                 |  542.107e3 |
 | Mesa                                                                                                               | Arizona                                    |  504.258e3 |
 |                                                                                                                    |                                            |            |
 
