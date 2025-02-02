@@ -112,57 +112,42 @@ Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]
 
 
 | City                                                                                                               | State                                      |   Pop@2020 |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ---------- |
-| [[USA/USA~Eastern/New_York,State/counties~New_York/New_York,City\|New_York,City]]                                    | New York                                   | 8.804190e6 |
-| [[USA/USA~Pacific/California/counties~California/Los_Angeles/cities~Los_Angeles/Los_Angeles\|Los_Angeles]]         | [[USA/USA~Pacific/California\|California]] | 3.898747e6 |
-| [[USA/USA~Central/Illinois/counties~Illinois/Cook/cities~Cook/Chicago\|Chicago]]                                   | Illinois                                   | 2.746388e6 |
-| [[USA/USA~Mountain/Texas/counties~Texas/Harris/cities~Harris/Houston\|Houston]]                                    | [[USA/USA~Mountain/Texas\|Texas]]          | 2.304580e6 |
-| [[USA/USA~Mountain/Arizona/counties~Arizona/Maricopa/cities~Maricopa/Phoenix\|Phoenix]]                            | [[USA/USA~Mountain/Arizona\|Arizona]]      | 1.608139e6 |
-| [[USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia\|Philadelphia]]                                                               | Pennsylvania                               | 1.603797e6 |
-| [[San Antonio]]                                                                                                    | Texas                                      | 1.434625e6 |
-| [[USA/USA~Pacific/California/counties~California/San_Diego/cities~San_Diego/San_Diego\|San_Diego]]                 | California                                 | 1.386932e6 |
-| [[USA/USA~Mountain/Texas/counties~Texas/Dallas/cities~Dallas/Dallas\|Dallas]]                                      | Texas                                      | 1.304379e6 |
-| [[San José]]                                                                                                       | California                                 | 1.013240e6 |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ---------: |
+| [[USA/USA~Eastern/New_York,State/counties~New_York/New_York,City\|New_York,City]]                                  | New York                                   | 8804.190e3 |
+| [[USA/USA~Pacific/California/counties~California/Los_Angeles/cities~Los_Angeles/Los_Angeles\|Los_Angeles]]         | [[USA/USA~Pacific/California\|California]] | 3898.747e3 |
+| [[USA/USA~Central/Illinois/counties~Illinois/Cook/cities~Cook/Chicago\|Chicago]]                                   | Illinois                                   | 2746.388e3 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Harris/cities~Harris/Houston\|Houston]]                                    | [[USA/USA~Mountain/Texas\|Texas]]          | 2304.580e3 |
+| [[USA/USA~Mountain/Arizona/counties~Arizona/Maricopa/cities~Maricopa/Phoenix\|Phoenix]]                            | [[USA/USA~Mountain/Arizona\|Arizona]]      | 1608.139e3 |
+| [[USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia\|Philadelphia]]              | Pennsylvania                               | 1603.797e3 |
+| [[San Antonio]]                                                                                                    | Texas                                      | 1434.625e3 |
+| [[USA/USA~Pacific/California/counties~California/San_Diego/cities~San_Diego/San_Diego\|San_Diego]]                 | California                                 | 1386.932e3 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Dallas/cities~Dallas/Dallas\|Dallas]]                                      | Texas                                      | 1304.379e3 |
+| [[San José]]                                                                                                       | California                                 | 1013.240e3 |
+| Austin                                                                                                             | Texas                                      |  961.855e3 |
+| Jacksonville                                                                                                       | Florida                                    |  949.611e3 |
+| Fort Worth                                                                                                         | Texas                                      |  918.915e3 |
+| Columbus                                                                                                           | Ohio                                       |  905.748e3 |
+| Charlotte                                                                                                          | North Carolina                             |  874.579e3 |
 | [[USA/USA~Pacific/California/counties~California/San_Francisco/cities~San_Francisco/San_Francisco\|San_Francisco]] | California                                 |  873.965e3 |
-| [[USA/USA~Eastern/District_of_Columbia/City/Washington,City\|Washington]]                                          | DC                                         |  689.545e3 |
-|                                                                                                                    |                                            |            |
-| New York                                                                                                           | New York                                   |  8,804,190 |
-| Los Angeles                                                                                                        | California                                 |  3,898,747 |
-| Chicago                                                                                                            | Illinois                                   |  2,746,388 |
-| Houston                                                                                                            | Texas                                      |  2,304,580 |
-| Phoenix                                                                                                            | Arizona                                    |  1,608,139 |
-| Philadelphia                                                                                                       | Pennsylvania                               |  1,603,797 |
-| San Antonio                                                                                                        | Texas                                      |  1,434,625 |
-| San Diego                                                                                                          | California                                 |  1,386,932 |
-| Dallas                                                                                                             | Texas                                      |  1,304,379 |
-| San Jose                                                                                                           | California                                 |  1,013,240 |
-| Austin                                                                                                             | Texas                                      |    961,855 |
-| Jacksonville                                                                                                       | Florida                                    |    949,611 |
-| Fort Worth                                                                                                         | Texas                                      |    918,915 |
-| Columbus                                                                                                           | Ohio                                       |    905,748 |
-| Charlotte                                                                                                          | North Carolina                             |    874,579 |
-| San Francisco                                                                                                      | California                                 |    873,965 |
-| Indianapolis                                                                                                       | Indiana                                    |    887,642 |
-| Seattle                                                                                                            | Washington                                 |    737,015 |
-| Denver                                                                                                             | Colorado                                   |    715,522 |
-| Washington                                                                                                         | District of Columbia                       |    689,545 |
-| Boston                                                                                                             | Massachusetts                              |    675,647 |
-| El Paso                                                                                                            | Texas                                      |    678,815 |
-| Nashville                                                                                                          | Tennessee                                  |    689,447 |
-| Detroit                                                                                                            | Michigan                                   |    639,111 |
-| Oklahoma City                                                                                                      | Oklahoma                                   |    681,054 |
-| Portland                                                                                                           | Oregon                                     |    652,503 |
-| Las Vegas                                                                                                          | Nevada                                     |    641,903 |
-| Memphis                                                                                                            | Tennessee                                  |    633,104 |
-| Louisville                                                                                                         | Kentucky                                   |    617,638 |
-| Baltimore                                                                                                          | Maryland                                   |    585,708 |
-| Milwaukee                                                                                                          | Wisconsin                                  |    577,222 |
-| Albuquerque                                                                                                        | New Mexico                                 |    564,559 |
-| Tucson                                                                                                             | Arizona                                    |    542,629 |
-| Fresno                                                                                                             | California                                 |    542,107 |
-| Mesa                                                                                                               | Arizona                                    |    504,258 |
-|                                                                                                                    |                                            |            |
-|                                                                                                                    |                                            |            |
+| Indianapolis                                                                                                       | Indiana                                    |  887.642e3 |
+| Seattle                                                                                                            | Washington                                 |  737.015e3 |
+| Denver                                                                                                             | Colorado                                   |  715.522e3 |
+| [[USA/USA~Eastern/District_of_Columbia/City/Washington.City\|Washington]]                                          | District of Columbia                       |  689.545e3 |
+| Boston                                                                                                             | Massachusetts                              |  675.647e3 |
+| El Paso                                                                                                            | Texas                                      |  678.815e3 |
+| Nashville                                                                                                          | Tennessee                                  |  689.447e3 |
+| Detroit                                                                                                            | Michigan                                   |  639.111e3 |
+| Oklahoma City                                                                                                      | Oklahoma                                   |  681.054e3 |
+| Portland                                                                                                           | Oregon                                     |  652.503e3 |
+| Las Vegas                                                                                                          | Nevada                                     |  641.903e3 |
+| Memphis                                                                                                            | Tennessee                                  |  633.104e3 |
+| Louisville                                                                                                         | Kentucky                                   |  617.638e3 |
+| Baltimore                                                                                                          | Maryland                                   |  585.708e3 |
+| Milwaukee                                                                                                          | Wisconsin                                  |  577.222e3 |
+| Albuquerque                                                                                                        | New Mexico                                 |  564.559e3 |
+| Tucson                                                                                                             | Arizona                                    |  542.629e3 |
+| Fresno                                                                                                             | California                                 |  542.107e3 |
+| Mesa                                                                                                               | Arizona                                    |  504.258e3 |
 |                                                                                                                    |                                            |            |
 
 ## Confidential Links & Embeds: 
