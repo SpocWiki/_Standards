@@ -108,6 +108,23 @@ Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]
 
 ## Major Cities 
 
+## Major Cities 
+
+
+| City                                                                                                               | State                                      | Pop@2020   |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ---------- |
+| [[USA/USA~Eastern/New_York.State/New_York.Cities/New_York,City\|New_York,City]]                                    | New York                                   | 8.804190e6 |
+| [[USA/USA~Pacific/California/counties~California/Los_Angeles/cities~Los_Angeles/Los_Angeles\|Los_Angeles]]         | [[USA/USA~Pacific/California\|California]] | 3.898747e6 |
+| [[USA/USA~Central/Illinois/counties~Illinois/Cook/cities~Cook/Chicago\|Chicago]]                                   | Illinois                                   | 2.746388e6 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Harris/cities~Harris/Houston\|Houston]]                                    | [[USA/USA~Mountain/Texas\|Texas]]          | 2.304580e6 |
+| [[USA/USA~Mountain/Arizona/counties~Arizona/Maricopa/cities~Maricopa/Phoenix\|Phoenix]]                            | [[USA/USA~Mountain/Arizona\|Arizona]]      | 1.608139e6 |
+| [[../../../../../../../_Standards/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia\|Philadelphia]]   | Pennsylvania                               | 1.603797e6 |
+| San Antonio                                                                                                        | Texas                                      | 1.434625e6 |
+| San Diego                                                                                                          | California                                 | 1.386932e6 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Dallas/cities~Dallas/Dallas\|Dallas]]                                      | Texas                                      | 1.304379e6 |
+| San Jose                                                                                                           | California                                 | 1.013240e6 |
+| [[USA/USA~Pacific/California/counties~California/San_Francisco/cities~San_Francisco/San_Francisco\|San_Francisco]] | California                                 | 873.965e3  |
+
 
 ## Confidential Links & Embeds: 
 

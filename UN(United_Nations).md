@@ -16,9 +16,9 @@ aliases:
 >  
 >  It is the world's largest international organization. 
 >  
->  The UN is headquartered in [[New_York-City]] 
+>  The UN is headquartered in [[Earth/Continent/America~North/USA/USA~Eastern/New_York.State/New_York.Cities/New_York,City|New York-City]]  
 >  (in the United States, but with certain extraterritorial privileges), 
->  and the UN has other offices in [[Geneva]], [[Nairobi]], [[Vienna]], 
+>  and the UN has other offices in [[Geneva]], [[Kenya/Counties/Nairobi.County]], [[Earth/Continent/Europe/Europe~Central/Austria/State/State~Wien/Wien,City|Wien,City]], 
 >  and [[The_Hague]], where the [[International Court of Justice]] is headquartered.
 >
 > The UN was established after World War II with the aim of preventing future world wars, 
