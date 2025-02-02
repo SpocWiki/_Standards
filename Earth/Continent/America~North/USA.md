@@ -110,34 +110,34 @@ Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]
 
 | City                                                                                                               | State                                      |   Pop@2020 |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ---------: |
-| [[USA/USA~Eastern/New_York,State/counties~New_York/New_York,City\|New_York,City]]                                  | New York                                   | 8804.190e3 |
-| [[USA/USA~Pacific/California/counties~California/Los_Angeles/cities~Los_Angeles/Los_Angeles\|Los_Angeles]]         | [[USA/USA~Pacific/California\|California]] | 3898.747e3 |
-| [[USA/USA~Central/Illinois/counties~Illinois/Cook/cities~Cook/Chicago\|Chicago]]                                   | Illinois                                   | 2746.388e3 |
-| [[USA/USA~Mountain/Texas/counties~Texas/Harris/cities~Harris/Houston\|Houston]]                                    | [[USA/USA~Mountain/Texas\|Texas]]          | 2304.580e3 |
-| [[USA/USA~Mountain/Arizona/counties~Arizona/Maricopa/cities~Maricopa/Phoenix\|Phoenix]]                            | [[USA/USA~Mountain/Arizona\|Arizona]]      | 1608.139e3 |
-| [[USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia\|Philadelphia]]              | Pennsylvania                               | 1603.797e3 |
+| [[USA/USA~Eastern/New_York,State/counties~New_York/New_York,City\|New York City]]                                  | New York                                   | 8804.190e3 |
+| [[USA/USA~Pacific/California/counties~California/Los_Angeles/cities~Los_Angeles/Los_Angeles\|Los Angeles]]         | [[USA/USA~Pacific/California\|California]] | 3898.747e3 |
+| [[USA/USA~Central/Illinois/counties~Illinois/Cook/cities~Cook/Chicago\|Chicago ]]                                  | Illinois                                   | 2746.388e3 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Harris/cities~Harris/Houston\|Houston ]]                                   | [[USA/USA~Mountain/Texas\|Texas]]          | 2304.580e3 |
+| [[USA/USA~Mountain/Arizona/counties~Arizona/Maricopa/cities~Maricopa/Phoenix\|Phoenix ]]                           | [[USA/USA~Mountain/Arizona\|Arizona]]      | 1608.139e3 |
+| [[USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia\|Philadelphia ]]             | Pennsylvania                               | 1603.797e3 |
 | [[San Antonio]]                                                                                                    | Texas                                      | 1434.625e3 |
-| [[USA/USA~Pacific/California/counties~California/San_Diego/cities~San_Diego/San_Diego\|San_Diego]]                 | California                                 | 1386.932e3 |
-| [[USA/USA~Mountain/Texas/counties~Texas/Dallas/cities~Dallas/Dallas\|Dallas]]                                      | Texas                                      | 1304.379e3 |
+| [[USA/USA~Pacific/California/counties~California/San_Diego/cities~San_Diego/San_Diego\|San_Diego ]]                | California                                 | 1386.932e3 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Dallas/cities~Dallas/Dallas\|Dallas ]]                                     | Texas                                      | 1304.379e3 |
 | [[San José]]                                                                                                       | California                                 | 1013.240e3 |
-| [[USA/USA~Mountain/Texas/counties~Texas/Travis/cities~Travis/Austin\|Austin]]                                      | Texas                                      |  961.855e3 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Travis/cities~Travis/Austin\|Austin ]]                                     | Texas                                      |  961.855e3 |
 | [[Jacksonville]]                                                                                                   | Florida                                    |  949.611e3 |
-| [[USA/USA~Mountain/Texas/counties~Texas/Tarrant/cities~Tarrant/Fort_Worth\|Fort_Worth]]                            | Texas                                      |  918.915e3 |
-| [[USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio/cities~Franklin,Ohio/Columbus\|Columbus]]                       | Ohio                                       |  905.748e3 |
+| [[USA/USA~Mountain/Texas/counties~Texas/Tarrant/cities~Tarrant/Fort_Worth\|Fort_Worth ]]                           | Texas                                      |  918.915e3 |
+| [[USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio/cities~Franklin,Ohio/Columbus\|Columbus ]]                      | Ohio                                       |  905.748e3 |
 | [[Charlotte]]                                                                                                      | North Carolina                             |  874.579e3 |
-| [[USA/USA~Pacific/California/counties~California/San_Francisco/cities~San_Francisco/San_Francisco\|San_Francisco]] | California                                 |  873.965e3 |
-| [[USA/USA~Central/Indiana/counties~Indiana/Marion/cities~Marion/Indianapolis\|Indianapolis]]                       | Indiana                                    |  887.642e3 |
-| [[USA/USA~Pacific/Washington/counties~Washington/King/cities~King/Seattle\|Seattle]]                               | Washington                                 |  737.015e3 |
-| [[USA/USA~Mountain/Colorado/counties~Colorado/Denver/cities~Denver/Denver\|Denver]]                                | Colorado                                   |  715.522e3 |
-| [[USA/USA~Eastern/District_of_Columbia/City/Washington,DC\|Washington,DC]]                                         | District of Columbia                       |  689.545e3 |
-| [[USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk/cities~Suffolk/Boston\|Boston]]                     | Massachusetts                              |  675.647e3 |
+| [[USA/USA~Pacific/California/counties~California/San_Francisco/cities~San_Francisco/San_Francisco\|San Francisco]] | California                                 |  873.965e3 |
+| [[USA/USA~Central/Indiana/counties~Indiana/Marion/cities~Marion/Indianapolis\|Indianapolis ]]                      | Indiana                                    |  887.642e3 |
+| [[USA/USA~Pacific/Washington/counties~Washington/King/cities~King/Seattle\|Seattle ]]                              | Washington                                 |  737.015e3 |
+| [[USA/USA~Mountain/Colorado/counties~Colorado/Denver/cities~Denver/Denver\|Denver ]]                               | Colorado                                   |  715.522e3 |
+| [[USA/USA~Eastern/District_of_Columbia/City/Washington,DC\|Washington, DC]]                                        | District of Columbia                       |  689.545e3 |
+| [[USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk/cities~Suffolk/Boston\|Boston ]]                    | Massachusetts                              |  675.647e3 |
 | [[El Paso]]                                                                                                        | Texas                                      |  678.815e3 |
-| [[USA/USA~Central/Tennessee/counties~Tennessee/Davidson/cities~Davidson/Nashville\|Nashville]]                     | Tennessee                                  |  689.447e3 |
-| [[USA/USA~Central/Michigan/counties~Michigan/Wayne/cities~Wayne/Detroit\|Detroit]]                                 | Michigan                                   |  639.111e3 |
+| [[USA/USA~Central/Tennessee/counties~Tennessee/Davidson/cities~Davidson/Nashville\|Nashville ]]                    | Tennessee                                  |  689.447e3 |
+| [[USA/USA~Central/Michigan/counties~Michigan/Wayne/cities~Wayne/Detroit\|Detroit ]]                                | Michigan                                   |  639.111e3 |
 | Oklahoma City                                                                                                      | Oklahoma                                   |  681.054e3 |
-| [[USA/USA~Pacific/Oregon/counties~Oregon/Multnomah/cities~Multnomah/Portland\|Portland]]                           | Oregon                                     |  652.503e3 |
+| [[USA/USA~Pacific/Oregon/counties~Oregon/Multnomah/cities~Multnomah/Portland\|Portland ]]                          | Oregon                                     |  652.503e3 |
 | [[Las Vegas]]                                                                                                      | Nevada                                     |  641.903e3 |
-| [[USA/USA~Central/Tennessee/counties~Tennessee/Shelby/cities~Shelby/Memphis\|Memphis]]                             | Tennessee                                  |  633.104e3 |
+| [[USA/USA~Central/Tennessee/counties~Tennessee/Shelby/cities~Shelby/Memphis\|Memphis ]]                            | Tennessee                                  |  633.104e3 |
 | [[Louisville]]                                                                                                     | Kentucky                                   |  617.638e3 |
 | [[Baltimore]]                                                                                                      | Maryland                                   |  585.708e3 |
 | [[Milwaukee]]                                                                                                      | Wisconsin                                  |  577.222e3 |
