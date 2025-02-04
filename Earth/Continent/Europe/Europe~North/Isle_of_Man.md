@@ -1,23 +1,23 @@
-﻿---
+---
 location:
 - 54.25
 - -4.5
 type: Country
 tags:
-- geo/Country
+  - geo/Country/Region
 SpocWebEntityId: 57602
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isReadOnly: false
+draft: false
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Isle of Man
 linkTitle: 
 keywords: 
 layout: 
-draft: false
 publishDate: 
 expiryDate: 
 aliases:
@@ -33,6 +33,7 @@ Languages:
 - gv
 ---
 
+# Isle_of_Man
 
 [	ISO4217-currency_alphabetic	 :: GBP ]
 [	ISO4217-currency_name	 :: Pound Sterling ]
@@ -102,7 +103,7 @@ Sub-region_Name ::  [[Northern Europe]]
 [ISO2::]
 [ISO3::]
 ```leaflet
-id: Isle of Man
+id: Isle_of_Man
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -125,15 +126,11 @@ has_place_continent:: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
+- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Isle_of_Man|Isle_of_Man]] 
+- [[../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.public|Isle_of_Man.public]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.internal|Isle_of_Man.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.protect|Isle_of_Man.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.private|Isle_of_Man.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.personal|Isle_of_Man.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.secret|Isle_of_Man.secret]] 
 
-### [Isle_of_Man](/_public/Earth/Continent/Europe/Europe~North/Isle_of_Man.md) 
-
-### [Isle_of_Man.internal](/_internal/Earth/Continent/Europe/Europe~North/Isle_of_Man.internal.md) 
-
-### [Isle_of_Man.protect](/_protect/Earth/Continent/Europe/Europe~North/Isle_of_Man.protect.md) 
-
-### [Isle_of_Man.private](/_private/Earth/Continent/Europe/Europe~North/Isle_of_Man.private.md) 
-
-### [Isle_of_Man.personal](/_personal/Earth/Continent/Europe/Europe~North/Isle_of_Man.personal.md) 
-
-### [Isle_of_Man.secret](/_secret/Earth/Continent/Europe/Europe~North/Isle_of_Man.secret.md) 

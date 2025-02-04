@@ -1,4 +1,4 @@
-﻿---
+---
 title: UK
 type: Country
 location:
@@ -45,6 +45,41 @@ into a Subfolder named `UK`, so that this Link into the Sub-Repository works: [[
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-United_Kingdom 
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
+
+
+## Major Cities
+
+
+| City                                                                  | County                                                           | Population (millions) |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------- |
+| London                                                                | Greater London                                                   | 9.748                 |
+| Manchester                                                            | Greater Manchester                                               | 2.812                 |
+| Birmingham                                                            | West Midlands                                                    | 2.685                 |
+| Leeds/Bradford                                                        | West Yorkshire                                                   | 1.942                 |
+| [[UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City]]         | [[UK/Scotland/counties~Scotland/Glasgow,County\|Glasgow-County]] | 1.708                 |
+| Southampton/Portsmouth                                                | [[UK/England/counties~England/Hampshire\|Hampshire]]             | 0.959                 |
+| Liverpool                                                             | [[UK/England/counties~England/Merseyside\|Merseyside]]           | 0.923                 |
+| Newcastle upon Tyne                                                   | Tyne and Wear                                                    | 0.829                 |
+| Nottingham                                                            | [[UK/England/counties~England/Nottinghamshire\|Nottinghamshire]] | 0.813                 |
+| Sheffield                                                             | South Yorkshire                                                  | 0.751                 |
+| Bristol                                                               | Bristol                                                          | 0.714                 |
+| Belfast                                                               | Belfast                                                          | 0.647                 |
+| Brighton-Worthing-Littlehampton                                       | East Sussex                                                      | 0.628                 |
+| Leicester                                                             | [[UK/England/counties~England/Leicestershire\|Leicestershire]]   | 0.571                 |
+| Edinburgh                                                             | City of Edinburgh                                                | 0.559                 |
+| Bournemouth/Poole                                                     | [[UK/England/counties~England/Dorset\|Dorset]]                   | 0.523                 |
+| [[UK/Wales/counties~Wales/Cardiff,County/Cardiff,City\|Cardiff,City]] | [[UK/Wales/counties~Wales/Cardiff,County\|Cardiff,County]]       | 0.492                 |
+| Coventry-Bedworth                                                     | West Midlands                                                    | 0.450                 |
+| Teesside (Middlesbrough)                                              | North Yorkshire                                                  | 0.395                 |
+| Stoke-on-Trent (The Potteries)                                        | [[UK/England/counties~England/Staffordshire\|Staffordshire]]     | 0.394                 |
+| Reading-Wokingham                                                     | Berkshire                                                        | 0.353                 |
+| Sunderland                                                            | Tyne and Wear                                                    | 0.347                 |
+| Preston                                                               | [[UK/England/counties~England/Lancashire\|Lancashire]]           | 0.336                 |
+| Birkenhead                                                            | [[UK/England/counties~England/Merseyside\|Merseyside]]           | 0.334                 |
+| Kingston upon Hull                                                    | East Riding of Yorkshire                                         | 0.327                 |
+| Newport                                                               | Newport                                                          | 0.323                 |
+| Southend-On-Sea                                                       | [[UK/England/counties~England/Essex\|Essex]]                     | 0.321                 |
+| Swansea                                                               | Swansea                                                          | 0.318                 |
 
 
 ### #has_/image_for_/flag 
@@ -104,13 +139,13 @@ into a Subfolder named `UK`, so that this Link into the Sub-Repository works: [[
 > The capital and largest city of the United Kingdom 
 > (as well as the capital of England) is London. 
 > The cities of Edinburgh, Cardiff, and Belfast are respectively 
-> the national capitals of Scotland, Wales, and Northern Ireland. 
+> the national capitals of Scotland, Wales, and [[UK/Ireland~North|Northern Ireland]]. 
 > Other major cities include Birmingham, Manchester, Glasgow, and Leeds. 
 > 
 > The UK consists of three distinct legal jurisdictions: 
 > England and Wales, Scotland, and Northern Ireland. 
 > This is due to these areas retaining their existing legal systems after joining the UK. 
-> Since 1998, Scotland, Wales, and Northern Ireland 
+> Since 1998, [[UK/Scotland|Scotland]], [[UK/Wales|Wales]], and Northern Ireland 
 > also have their own devolved governments and legislatures, each with varying powers.
 > 
 > The UK has the world's sixth-largest economy by nominal gross domestic product (GDP), 
