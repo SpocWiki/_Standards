@@ -1,4 +1,4 @@
-﻿---
+---
 title: Italy
 linkTitle: 
 type: Country
@@ -70,6 +70,26 @@ into a Subfolder named `France`, so that this Link into the Sub-Repository works
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Flag_of_Italy.svg|200]] <img src="./Flag_of_Italy.svg" width="200"/> 
+
+## Major Cities 
+
+
+
+| Cy       | Region         | Pop/1000 |
+| -------- | -------------- | -------: |
+| Rome     | Lazio          |     2.75 |
+| Milan    | Lombardy       |     1.35 |
+| Naples   | Campania       |     0.91 |
+| Turin    | Piedmont       |     0.84 |
+| Palermo  | Sicily         |     0.63 |
+| Genoa    | Liguria        |     0.56 |
+| Bologna  | Emilia-Romagna |     0.39 |
+| Florence | Tuscany        |     0.37 |
+| Bari     | Apulia         |     0.32 |
+
+Th pulation figures are based on data from 2024. ([statta.com](https://wwwtista.com/statistics/589331/largest-cities-in-italy-by-population/?utm_source=chatgpt.com))
+
+It is importantnote that population estimates can vary depending on the source and the year of the data. For instance, the Italian National Institute of Statistics (ISTAT) maovide different figures based on their methodologies and the timing of data collection. Therefore, while the above table offers a general overview of thost populous cities in Italy, specific numbers may differ across various publications.
 
 ## #has_/text_of_/abstract  
 
