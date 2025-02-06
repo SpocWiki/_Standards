@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 50.8165
     - 4.29368
@@ -131,8 +131,7 @@ Sub-region_Name ::  [[Western Europe]]
 [Area-Land::32820]
 has_place_continent:: [[Europe]]  
 [VehicleCode::B]
-Capital :: [[Belgium/Regions~Belgium/Bruxelles/Brussels/City/Brussels=Bruxelles]]  
-![[Great_coat_of_arms_of_Belgium.svg|950]]
+Capital :: [[Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité]]  
 ![[Anthem-Belgium.mp3]]
 ![[Flag_of_Belgium.svg|350]]
 [Alcohol-l::10.8]
@@ -142,7 +141,21 @@ Capital :: [[Belgium/Regions~Belgium/Bruxelles/Brussels/City/Brussels=Bruxelles]
 [has_place_longitude::4.29368]
 [has_place_latitude::50.8165]
 
+## Major Cities 
 
+| City                                                                                                        | Region                                                       | Pop@2024 |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
+| [[Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen\|Antwerpen]]                | [[Belgium/Regions~Belgium/Vlaanderen\|Flanders]]             | 544,759  |
+| [[Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent\|Ghent]] | [[Belgium/Regions~Belgium/Vlaanderen\|Flanders]]             | 269,597  |
+| [[Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Charleroi\|Charleroi]]                    | [[Belgium/Regions~Belgium/Wallonie\|Wallonia]]               | 204,322  |
+| [[Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité\|Brussels]]                                   | [[Belgium/Regions~Belgium/Brussels,Region\|Brussels,Region]] | 196,828  |
+| [[Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège\|Liège]]                                         | [[Belgium/Regions~Belgium/Wallonie\|Wallonia]]               | 197,327  |
+| [[Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Bruges\|Bruges]]                | [[Belgium/Regions~Belgium/Vlaanderen\|Flanders]]             | 118,656  |
+| [[Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité\|Namur]]                | [[Belgium/Regions~Belgium/Wallonie\|Wallonia]]               | 111,432  |
+| [[Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven\|Leuven]]              | [[Belgium/Regions~Belgium/Vlaanderen\|Flanders]]             | 102,275  |
+| [[Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mons\|Mons]]                              | [[Belgium/Regions~Belgium/Wallonie\|Wallonia]]               | 95,887   |
+
+![[Great_coat_of_arms_of_Belgium.svg|750]]
 
 ## Confidential Links & Embeds: 
 

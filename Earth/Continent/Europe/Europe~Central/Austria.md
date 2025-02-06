@@ -1,4 +1,4 @@
-﻿---
+---
 title: Austria
 linkTitle: 
 type: Country
@@ -73,6 +73,14 @@ into a Subfolder named `Austria`, so that this Link into the Sub-Repository work
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Austria/Flag_of_Austria.svg|200]] <img src="./Austria/Flag_of_Austria.svg" width="200"/> 
+
+| City                                                                                        | Population (number residents) | Federal State                                    | Notable Attributes                                                        |
+| ------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------- |
+| [[Austria/State/Wien,State/Wien,City\|Vienna]]                                              | 1,900,000 residents           | [[Austria/State/Wien,State\|Vienna,State]]       | National capital, political, economic, and cultural hub                   |
+| [[Austria/State/Steiermark/City/Graz\|Graz]]                                                | 330,000 residents             | [[Austria/State/Steiermark\|Styria]]             | Second largest city, academic and economic center                         |
+| [[Austria/State/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City\|Linz,City]] | 210,000 residents             | [[Austria/State/Oberösterreich\|Upper Austria]]  | Industrial, technological, and innovation center                          |
+| [[Austria/State/Salzburg,State/City/Salzburg,City\|Salzburg]]                               | 155,000 residents             | [[Austria/State/Salzburg,State\|Salzburg,State]] | Internationally renowned for cultural heritage and tourism                |
+| [[Austria/State/Tirol/City/Innsbruck\|Innsbruck]]                                           | 130,000 residents             | [[Austria/State/Tirol\|Tyrol]]                   | Key center for winter sports and tourism with significant economic impact |
 
 ## #has_/text_of_/abstract  
 
@@ -223,7 +231,7 @@ Sub-region_Name ::  [[Western Europe]]
 [Area-Land::82730]
 has_place_continent:: [[Europe]]  
 [VehicleCode::A]
-Capital ::[[Austria/State/State~Wien/Wien,City]]]  
+Capital ::[[Austria/State/Wien,State/Wien,City]]]  
 
 
 [Alcohol-l::13.2]

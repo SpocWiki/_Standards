@@ -37,7 +37,9 @@ TableByName:
 > their average social welfare spending stood at roughly 21% of GDP.
 >
 > The OECD's headquarters are at the Château de la Muette in Paris, France, 
-> which housed its predecessor organization, the Organization for European Economic Co-operation. 
+> which housed its predecessor organization, 
+> the Organization for European Economic Co-operation. 
+> 
 > The OECD is funded by contributions from member countries at varying rates 
 > and had a total budget of €338.3 million in 2023, 
 > and is recognized as a highly influential publisher of mostly economic data 

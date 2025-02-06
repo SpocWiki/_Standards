@@ -1,4 +1,4 @@
-﻿---
+---
 title: Switzerland
 type: Country
 location:
@@ -23,17 +23,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Switzerland
-    - Suiza
-    - Suisse
-    - سويسرا
-    - 瑞士
-    - Швейцария
-    - the Swiss Confederation
-    - la Confederación Suiza
-  - Svizzera
-  - Svizra
-  - Helvetica
+- Switzerland
+- Suiza
+- Suisse
+- سويسرا
+- 瑞士
+- Швейцария
+- the Swiss Confederation
+- la Confederación Suiza
+- Svizzera
+- Svizra
+- Helvetica
 Languages:
     - de-CH
     - fr-CH
@@ -73,6 +73,19 @@ into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository 
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Switzerland/Flag_of_Switzerland.svg|200]] <img src="./Switzerland/Flag_of_Switzerland.svg" width="200"/> 
+
+
+| City                                                                                                                              | Canton                                                                 | Population |
+| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------: |
+| [[Switzerland/Switzerland~Cantons/Zürich,Canton/City/Zürich,City\|Zürich,City]]                                                   | [[Switzerland/Switzerland~Cantons/Zürich,Canton\|Zürich,Canton]]       |    421,878 |
+| [[Switzerland/Switzerland~Cantons/Genève,Canton/districts~Genève/Genève-district/municipalities~Genève/Geneva,City\|Geneva,City]] | [[Switzerland/Switzerland~Cantons/Genève,Canton\|Genève,Canton]]       |    203,856 |
+| [[Switzerland/Switzerland~Cantons/Basel,Canton/City/Basel,City\|Basel,City]]                                                      | [[Switzerland/Switzerland~Cantons/Basel,Canton\|Basel,Canton]]         |    178,120 |
+| [[Switzerland/Switzerland~Cantons/Vaud/City/Lausanne\|Lausanne]]                                                                  | [[Switzerland/Switzerland~Cantons/Vaud\|Vaud]]                         |    140,202 |
+| [[Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City\|Bern,City]]             | [[Switzerland/Switzerland~Cantons/Bern,Canton\|Bern,Canton]]           |    134,794 |
+| [[Switzerland/Switzerland~Cantons/Zürich,Canton/City/Winterthur\|Winterthur]]                                                     | [[Switzerland/Switzerland~Cantons/Zürich,Canton\|Zürich,Canton]]       |    114,220 |
+| [[Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Luzern,City\|Luzern,City]]                                     | [[Switzerland/Switzerland~Cantons/Lucerne,Canton\|Lucerne]]            |     82,257 |
+| [[Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen\|St.Gallen]]                                                    | [[Switzerland/Switzerland~Cantons/St.Gallen,Canton\|St.Gallen,Canton]] |     76,090 |
+| [[Switzerland/Switzerland~Cantons/Ticino/City/Lugano\|Lugano]]                                                                    | [[Switzerland/Switzerland~Cantons/Ticino\|Ticino]]                     |     62,615 |
 
 ## #has_/text_of_/abstract  
 
