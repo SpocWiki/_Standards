@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spain
 linkTitle: 
 type: Country
@@ -71,6 +71,25 @@ into a Subfolder named `France`, so that this Link into the Sub-Repository works
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Spain/Flag_of_Spain.svg|200]] <img src="./Spain/Flag_of_Spain.svg" width="200"/> 
+
+
+## Major Cities 
+
+Population @2024 in 1000s. 
+
+| City                                                                                                                       | Autonomous Community                                        |     Pop/k |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------: |
+| [[Spain/Provinces~Spain/Madrid.Region/counties~Comunidadde_Madrid/Madrid/cities~Madrid/Madrid.City\|Madrid.City]]          | Community of Madrid                                         | 3422.416 |
+| [[Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Barcelona-City\|Barcelona-City]]   | [[Spain/Provinces~Spain/Catalunya\|Catalunya]]              | 1686.208 |
+| [[Spain/Provinces~Spain/Valencia.Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City\|Valencia-City]] | [[Spain/Provinces~Spain/Valencia.Region\|Valencia.Region]]  |  824.340 |
+| [[Spain/Provinces~Spain/Aragon/Zaragoza.Province/City/Zaragoza\|Zaragoza]]                                                 | [[Spain/Provinces~Spain/Aragon\|Aragon]]                    |  691.037 |
+| [[Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla\|Sevilla]]                                                 | [[Spain/Provinces~Spain/Andalusia\|Andalusia]]              |  686.741 |
+| [[Spain/Provinces~Spain/Andalusia/Málaga.Province/City/Malaga\|Malaga]]                                                    | [[Spain/Provinces~Spain/Andalusia\|Andalusia]]              |  592.346 |
+| [[Spain/Provinces~Spain/Murcia.Region/City/Murcia\|Murcia]]                                                                | Region of Murcia                                            |  471.982 |
+| [[Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca\|Palma~Mallorca]]         | [[Spain/Provinces~Spain/Baleares\|Baleares]]                |  438.234 |
+| [[Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas\|Las_Palmas]]                                    | [[Spain/Provinces~Spain/Canary-Islands\|Canary-Islands]]    |  383.516 |
+
+
 
 ## #has_/text_of_/abstract  
 

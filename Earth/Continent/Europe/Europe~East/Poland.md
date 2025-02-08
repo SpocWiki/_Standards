@@ -73,17 +73,19 @@ into a Subfolder named `Poland`, so that this Link into the Sub-Repository works
 
 ## Major Cities 
 
-| City                                                                                                                                         | Voivodeship                                                          |  Pop |
+Population in 1000s as of @2024
+
+| City                                                                                                                                         | Voivodeship                                                          | Pop/k |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---: |
-| [[Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa\|Warszawa]]                                                                 | [[Poland/Provinces~Poland/Masovian\|Masovian]]                       | 1.86 |
-| [[Poland/Provinces~Poland/Lesser_Poland/City/Kraków\|Krakau]]                                                                                | [[Poland/Provinces~Poland/Lesser_Poland\|Lesser_Poland]]             | 0.80 |
-| [[Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city\|Lodz-city]]                                                              | [[Poland/Provinces~Poland/Łódź,Province\|Łódź]]                      | 0.66 |
-| [[Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie\|Wrocław]]                            | [[Poland/Provinces~Poland/Lower_Silesian\|Lower_Silesian]]           | 0.64 |
-| [[Poland/Provinces~Poland/Greater_Poland/City/Poznań\|Poznań]]                                                                               | [[Poland/Provinces~Poland/Greater_Poland\|Greater_Poland]]           | 0.54 |
-| [[Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City\|Gdańsk]]                                           | [[Poland/Provinces~Poland/Pomeranian\|Pomeranian]]                   | 0.47 |
-| [[Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin\|Szczecin]]                                    | [[Poland/Provinces~Poland/West_Pomeranian\|West_Pomeranian]]         | 0.40 |
-| [[Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City\|Bydgoszcz~City]] | [[Poland/Provinces~Poland/Kuyavian-Pomeranian\|Kuyavian-Pomeranian]] | 0.35 |
-| [[Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County/cities~Lublin/Lublin~City\|Lublin~City]]                          | [[Poland/Provinces~Poland/Lublin,Province\|Lublin,Province]]         | 0.34 |
+| [[Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa\|Warszawa]]                                                                 | [[Poland/Provinces~Poland/Masovian\|Masovian]]                       | 1860 |
+| [[Poland/Provinces~Poland/Lesser_Poland/City/Kraków\|Krakau]]                                                                                | [[Poland/Provinces~Poland/Lesser_Poland\|Lesser_Poland]]             |  800 |
+| [[Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city\|Lodz-city]]                                                              | [[Poland/Provinces~Poland/Łódź,Province\|Łódź]]                      |  660 |
+| [[Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie\|Wrocław]]                            | [[Poland/Provinces~Poland/Lower_Silesian\|Lower_Silesian]]           |  640 |
+| [[Poland/Provinces~Poland/Greater_Poland/City/Poznań\|Poznań]]                                                                               | [[Poland/Provinces~Poland/Greater_Poland\|Greater_Poland]]           |  540 |
+| [[Poland/Provinces~Poland/Pomeranian/counties~Pomorskie/Gdańsk/cities~Gdańsk/Gdańsk~City\|Gdańsk]]                                           | [[Poland/Provinces~Poland/Pomeranian\|Pomeranian]]                   |  470 |
+| [[Poland/Provinces~Poland/West_Pomeranian/counties~Zachodniopomorskie/Szczecin,County/Stettin\|Szczecin]]                                    | [[Poland/Provinces~Poland/West_Pomeranian\|West_Pomeranian]]         |  400 |
+| [[Poland/Provinces~Poland/Kuyavian-Pomeranian/counties~Kujawsko-Pomorskie/Bydgoszcz,County/cities~Bydgoszcz/Bydgoszcz~City\|Bydgoszcz~City]] | [[Poland/Provinces~Poland/Kuyavian-Pomeranian\|Kuyavian-Pomeranian]] |  350 |
+| [[Poland/Provinces~Poland/Lublin,Province/counties~Lubelskie/Lublin,County/cities~Lublin/Lublin~City\|Lublin~City]]                          | [[Poland/Provinces~Poland/Lublin,Province\|Lublin,Province]]         |  340 |
 
 
 ## #has_/text_of_/abstract  

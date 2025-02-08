@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 55.6789
     - 10.5
@@ -140,7 +140,21 @@ Capital :: [[Copenhagen]]
 [has_place_longitude::10.5]
 [has_place_latitude::55.6789]
 
+## Major Cities 
 
+Population as of @2024 in 1000
+
+| City                                                                | Region                                                             |    Pop/k |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------ | -------: |
+| [[Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen\|Copenhagen]] | [[Denmark/Regions~Denmark/Hovedstaden\|Capital Region of Denmark]] | 1378.649 |
+| [[Denmark/Regions~Denmark/Midtjylland/City/Aarhus\|Aarhus]]         | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |  295.688 |
+| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Odense,County/Odense,City\|Odense]]          | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |  183.763 |
+| [[Denmark/Regions~Denmark/Nordjylland/City/Aalborg\|Aalborg]]       | [[Denmark/Regions~Denmark/Nordjylland\|North Denmark Region]]      |  120.700 |
+| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City\|Esbjerg]]                                   | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   71.505 |
+| [[Denmark/Regions~Denmark/Midtjylland/City/Randers\|Randers]]       | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |   64.158 |
+| [[Horsens]]                                                         | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |   63.903 |
+| [[Kolding]]                                                         | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   62.444 |
+| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Vejle,County/Vejle,City\|Vejle]]            | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   61.706 |
 
 ## Confidential Links & Embeds: 
 
