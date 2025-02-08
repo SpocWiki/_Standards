@@ -131,6 +131,25 @@ has_place_continent:: [[Europe]]
 [VehicleCode::N]
 Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]  
 
+![[Flag_of_Norway.svg|350]]
+
+## Major Cities
+
+Population (as of 2024)
+
+| City                                                                                        | County                                                  |    Pop/k |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------: |
+| [[Norway/Counties~Norway/Oslo,County/City/Oslo,City\|Oslo,City]]                            | [[Norway/Counties~Norway/Oslo,County\|Oslo,County]]     | 1098.061 |
+| [[Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen/City/Bergen\|Bergen]] | [[Norway/Counties~Norway/Vestland\|Vestland]]           |  272.125 |
+| [[Norway/City/Stavanger\|Stavanger]]/[[Sandnes]]                                            | [[Norway/Counties~Norway/Rogaland\|Rogaland]]           |  239.055 |
+| [[Norway/Counties~Norway/Sør-Trøndelag/City/Trondheim\|Trondheim]]                          | [[Norway/Counties~Norway/Sør-Trøndelag\|Sør-Trøndelag]] |  198.777 |
+| [[Norway/Counties~Norway/Buskerud/City/Drammen\|Drammen]]                                   | [[Sweden/City/Viken\|Viken]]                            |  124.540 |
+| [[Fredrikstad]]/[[Norway/Counties~Norway/Østfold/City/Sarpsborg\|Sarpsborg]]                | Viken                                                   |  121.679 |
+| [[Porsgrunn]]/[[Norway/Counties~Norway/Telemark/City/Skien\|Skien]]                         | [[Norway/Counties~Norway/Telemark\|Telemark]]           |   96.695 |
+| [[Norway/City/Kristiansand\|Kristiansand]]                                                  | [[Norway/Counties~Norway/Agder/Vest-Agder\|Vest-Agder]]       |   67.372 |
+| [[Tønsberg]]                                                                                | [[Norway/Counties~Norway/Vestfold\|Vestfold]]           |   55.939 |
+
+
 ## #has_/text_of_/abstract 
 
 > **Norway**, officially the Kingdom of Norway, is a Nordic country in Northern Europe, 
@@ -158,9 +177,11 @@ Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]
 > Norway maintains the Nordic welfare model with universal health care and a comprehensive social security system, and its values are rooted in egalitarian ideals. The Norwegian state has large ownership positions in key industrial sectors, having extensive reserves of petroleum, natural gas, minerals, lumber, seafood, and fresh water. The petroleum industry accounts for around a quarter of the country's gross domestic product (GDP). On a per-capita basis, Norway is the world's largest producer of oil and natural gas outside of the Middle East. The country has the fourth- and eighth-highest per-capita income in the world on the World Bank's and IMF's list, respectively. It has the world's largest sovereign wealth fund, with a value of US$1.3 trillion.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Norway)
+
 ![[Coat_of_arms_of_Norway.svg|350]]
+
 ![[Anthem-Norway.mp3]]
-![[Flag_of_Norway.svg|350]]
+
 [Alcohol-l::7.8]
 [Language-Id::]
 #is_a_/Place  
