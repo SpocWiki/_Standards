@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 61.8685
     - 11.4588
@@ -130,6 +130,34 @@ markerFolder: ./Norway//
 has_place_continent:: [[Europe]]  
 [VehicleCode::N]
 Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]  
+
+## #has_/text_of_/abstract 
+
+> **Norway**, officially the Kingdom of Norway, is a Nordic country in Northern Europe, 
+> situated on the Scandinavian Peninsula, with a population of 5.5 million as of 2024. 
+> 
+> The remote Arctic island of Jan Mayen and the archipelago of Svalbard also form part of the Kingdom of Norway. 
+> Bouvet Island, located in the Subantarctic, is a dependency, and not a part of the Kingdom; 
+> Norway also claims the Antarctic territories of Peter I Island and Queen Maud Land. 
+> The capital and largest city in Norway is Oslo.
+>
+> Norway has a total area of 385,207 square kilometres (148,729 sq mi). 
+> The country shares a long eastern border with Sweden, 
+> and is bordered by Finland and Russia to the northeast. 
+> Norway has an extensive coastline facing the Skagerrak strait, the North Atlantic Ocean, and the Barents Sea.
+>
+> The unified kingdom of Norway was established in 872 as a merger of petty kingdoms 
+> and has existed continuously for 1,152–1,153 years. 
+> From 1537 to 1814, Norway was part of Denmark–Norway, 
+> and, from 1814 to 1905, it was in a personal union with Sweden. 
+> Norway was neutral during the First World War, and in the Second World War until April 1940 
+> when it was invaded and occupied by Nazi Germany until the end of the war.
+>
+> Harald V of the House of Glücksburg is the current King of Norway. Jonas Gahr Støre has been Prime Minister of Norway since 2021. As a unitary state with a constitutional monarchy, Norway divides state power between the parliament, the cabinet, and the supreme court, as determined by the 1814 constitution. Norway has both administrative and political subdivisions on two levels: counties and municipalities. The Sámi people have a certain amount of self-determination and influence over traditional territories through the Sámi Parliament and the Finnmark Act. Norway maintains close ties with the European Union and the United States. Norway is a founding member of the United Nations, NATO, the European Free Trade Association, the Council of Europe, the Antarctic Treaty, and the Nordic Council; a member of the European Economic Area, the WTO, and the OECD; and a part of the Schengen Area. The Norwegian dialects share mutual intelligibility with Danish and Swedish.
+>
+> Norway maintains the Nordic welfare model with universal health care and a comprehensive social security system, and its values are rooted in egalitarian ideals. The Norwegian state has large ownership positions in key industrial sectors, having extensive reserves of petroleum, natural gas, minerals, lumber, seafood, and fresh water. The petroleum industry accounts for around a quarter of the country's gross domestic product (GDP). On a per-capita basis, Norway is the world's largest producer of oil and natural gas outside of the Middle East. The country has the fourth- and eighth-highest per-capita income in the world on the World Bank's and IMF's list, respectively. It has the world's largest sovereign wealth fund, with a value of US$1.3 trillion.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Norway)
 ![[Coat_of_arms_of_Norway.svg|350]]
 ![[Anthem-Norway.mp3]]
 ![[Flag_of_Norway.svg|350]]
