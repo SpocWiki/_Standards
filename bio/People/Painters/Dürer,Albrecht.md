@@ -24,8 +24,10 @@ aliases:
 > The woodcuts series are stylistically more Gothic than the rest of his work, 
 > but revolutionised the potential of that medium, 
 > while his extraordinary handling of the burin expanded especially the tonal range of his engravings; 
-> well-known engravings include the three Meisterstiche (master prints) Knight, Death and the Devil (1513), 
-> Saint Jerome in his Study (1514), and Melencolia I (1514). 
+> well-known engravings include the three Meisterstiche (master prints) 
+> - Knight, Death and the Devil (1513), 
+> - Saint Jerome in his Study (1514), and 
+> - Melencolia I (1514). 
 > 
 > His watercolours mark him as one of the first European landscape artists, 
 > and with his confident self-portraits he pioneered them as well as autonomous subjects of art.
