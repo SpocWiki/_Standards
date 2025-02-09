@@ -1,6 +1,196 @@
 ---
 aliases:
   - Michelangelo di Lodovico Buonarroti Simoni
+has_id_wikidata: Q5592
+occupation:
+  - "[[_Standards/WikiData/WD~engineer,81096]]"
+  - "[[_Standards/WikiData/WD~general contractor,289612]]"
+  - "[[_Standards/WikiData/WD~painter,1028181]]"
+  - "[[_Standards/WikiData/WD~sculptor,1281618]]"
+  - "[[_Standards/WikiData/WD~visual artist,3391743]]"
+  - "[[_Standards/WikiData/WD~architectural draftsperson,14623005]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - "[[_Standards/WikiData/WD~architect,42973]]"
+  - "[[_Standards/WikiData/WD~poet,49757]]"
+notable work:
+  - "[[_Standards/WikiData/WD~Dying Slave,83862]]"
+  - "[[_Standards/WikiData/WD~David,179900]]"
+  - "[[_Standards/WikiData/WD~Pietà,235242]]"
+  - "[[_Standards/WikiData/WD~The Last Judgment,567861]]"
+  - "[[_Standards/WikiData/WD~Sistine Chapel ceiling,844675]]"
+  - "[[_Standards/WikiData/WD~Biblioteca Medicea Laurenziana,856419]]"
+  - "[[_Standards/WikiData/WD~Bacchus,1144620]]"
+  - "[[_Standards/WikiData/WD~Medici Chapels,1357573]]"
+  - "[[_Standards/WikiData/WD~Doni Tondo,1473546]]"
+  - "[[_Standards/WikiData/WD~Rondanini Pietà,1878666]]"
+  - "[[_Standards/WikiData/WD~Madonna of the Stair,2078173]]"
+  - "[[_Standards/WikiData/WD~Battle of the Centaurs,2313006]]"
+  - "[[_Standards/WikiData/WD~The Deposition,2342843]]"
+  - "[[_Standards/WikiData/WD~The Genius of Victory,2438217]]"
+  - "[[_Standards/WikiData/WD~Saint Matthew,2500541]]"
+  - "[[_Standards/WikiData/WD~Brutus,2627551]]"
+  - "[[_Standards/WikiData/WD~Rebellious Slave,3203231]]"
+  - "[[_Standards/WikiData/WD~Slaves,3911405]]"
+  - "[[_Standards/WikiData/WD~St. Peter's Basilica,12512]]"
+religious order: "[[_Standards/WikiData/WD~Dominican Order,131479]]"
+has works in the collection:
+  - "[[_Standards/WikiData/WD~Hermitage Museum,132783]]"
+  - "[[_Standards/WikiData/WD~National Museum in Warsaw,153306]]"
+  - "[[_Standards/WikiData/WD~Museo del Prado,160112]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art,160236]]"
+  - "[[_Standards/WikiData/WD~Städel Museum,163804]]"
+  - "[[_Standards/WikiData/WD~National Gallery,180788]]"
+  - "[[_Standards/WikiData/WD~Vatican Museums,182955]]"
+  - "[[_Standards/WikiData/WD~Victoria and Albert Museum,213322]]"
+  - "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
+  - "[[_Standards/WikiData/WD~Royal Academy of Arts,270920]]"
+  - "[[_Standards/WikiData/WD~Palazzo Vecchio,271928]]"
+  - "[[_Standards/WikiData/WD~Albertina,371908]]"
+  - "[[_Standards/WikiData/WD~Bargello National Museum,388448]]"
+  - "[[_Standards/WikiData/WD~Staatliche Graphische Sammlung München,464404]]"
+  - "[[_Standards/WikiData/WD~Teylers Museum,474563]]"
+  - "[[_Standards/WikiData/WD~Kupferstichkabinett Berlin,555946]]"
+  - "[[_Standards/WikiData/WD~Ashmolean Museum,636400]]"
+  - "[[_Standards/WikiData/WD~Cleveland Museum of Art,657415]]"
+  - "[[_Standards/WikiData/WD~Museum Boijmans Van Beuningen,679527]]"
+  - "[[_Standards/WikiData/WD~J. Paul Getty Museum,731126]]"
+  - "[[_Standards/WikiData/WD~Museum of Fine Arts, Budapest,840886]]"
+  - "[[_Standards/WikiData/WD~Nationalmuseum,842858]]"
+  - "[[_Standards/WikiData/WD~Church of Our Lady,917183]]"
+  - "[[_Standards/WikiData/WD~Smithsonian American Art Museum,1192305]]"
+  - "[[_Standards/WikiData/WD~Museo dell'Opera del Duomo,1200696]]"
+  - "[[_Standards/WikiData/WD~Condé Museum,1236032]]"
+  - "[[_Standards/WikiData/WD~Medici Chapels,1357573]]"
+  - "[[_Standards/WikiData/WD~National Gallery of Victoria,1464509]]"
+  - "[[_Standards/WikiData/WD~Royal Museum of Fine Arts Antwerp,1471477]]"
+  - "[[_Standards/WikiData/WD~Holkham Hall,1624722]]"
+  - "[[_Standards/WikiData/WD~Minneapolis Institute of Art,1700481]]"
+  - "[[_Standards/WikiData/WD~Kimbell Art Museum,1741629]]"
+  - "[[_Standards/WikiData/WD~The Nelson-Atkins Museum of Art,1976985]]"
+  - "[[_Standards/WikiData/WD~Autonoom Gemeentebedrijf Museum Leuven,2362660]]"
+  - "[[_Standards/WikiData/WD~Casa Buonarroti,2418618]]"
+  - "[[_Standards/WikiData/WD~Maison de Victor Hugo,2599177]]"
+  - "[[_Standards/WikiData/WD~Palais des Beaux-Arts de Lille,2628596]]"
+  - "[[_Standards/WikiData/WD~Museum of Fine Arts of Rennes,3098373]]"
+  - "[[_Standards/WikiData/WD~Swedish Centre for Architecture and Design,4356728]]"
+  - "[[_Standards/WikiData/WD~Auckland Art Gallery Toi o Tāmaki,4819492]]"
+  - "[[_Standards/WikiData/WD~Leighton House,6519762]]"
+  - "[[_Standards/WikiData/WD~Galleria dell'Accademia,10855544]]"
+  - "[[_Standards/WikiData/WD~Gallerie degli Uffizi,28647411]]"
+  - "[[_Standards/WikiData/WD~Musea Brugge,51674344]]"
+  - "[[_Standards/WikiData/WD~British Museum,6373]]"
+  - "[[_Standards/WikiData/WD~Isabella Stewart Gardner Museum,49135]]"
+  - "[[_Standards/WikiData/WD~Uffizi Gallery,51252]]"
+country of citizenship: "[[_Standards/WikiData/WD~Republic of Florence,148540]]"
+sponsor: "[[_Standards/WikiData/WD~Lorenzo de' Medici,177854]]"
+student of:
+  - "[[_Standards/WikiData/WD~Domenico Ghirlandaio,191423]]"
+  - "[[_Standards/WikiData/WD~Agnolo Poliziano,250414]]"
+  - "[[_Standards/WikiData/WD~Bertoldo di Giovanni,828363]]"
+unmarried partner: "[[_Standards/WikiData/WD~Tommaso dei Cavalieri,538960]]"
+different from:
+  - "[[_Standards/WikiData/WD~Michelangelo Anselmi,577590]]"
+  - "[[_Standards/WikiData/WD~Michelangelo Buonarroti,1930983]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Schilder-boeck,1157807]]"
+  - "[[_Standards/WikiData/WD~Lives of the Most Excellent Painters, Sculptors, and Architects,1645493]]"
+  - "[[_Standards/WikiData/WD~Het Gulden Cabinet,2283753]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Concise Literary Encyclopedia,4239850]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Teutsche Academie der Edlen Bau- Bild- und Mahlerey-Künste,15089621]]"
+  - "[[_Standards/WikiData/WD~The Lives of Dutch painters and paintresses,15955936]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Vita di Michelagnolo Buonarroti,23951225]]"
+  - "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Q102403540,102403540]]"
+  - "[[_Standards/WikiData/WD~Classic art,107523444]]"
+genre:
+  - "[[_Standards/WikiData/WD~Christian art,645717]]"
+  - "[[_Standards/WikiData/WD~homoeroticism,2069508]]"
+educated at: "[[_Standards/WikiData/WD~University of Florence,820887]]"
+student:
+  - "[[_Standards/WikiData/WD~Guglielmo della Porta,1623328]]"
+  - "[[_Standards/WikiData/WD~Giacomo Rocchetti,105855717]]"
+relative: "[[_Standards/WikiData/WD~Michelangelo Buonarroti,1930983]]"
+artist files at: "[[_Standards/WikiData/WD~Frick Art Research Library,5503390]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Michelangelo,11170931]]"
+movement: "[[_Standards/WikiData/WD~Renaissance painting,15885248]]"
+ArhivX LOD: "42542"
+Commons gallery: Michelangelo
+BHCL UUID: df1ff736-b44c-4e7f-8ec3-fc83d31e08f7
+Libris-URI: khw03x335qvphhh
+Krugosvet article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MIKELANDZHELO_BUONARROTI.html
+Swedish Open Cultural Heritage URI: LSH/agents/19920
+Royal Academy new identifier: michelangelo-buonarroti
+Google Doodle: michelangelos-528th-birthday
+name:
+  - Michael Angelo Buonarotti
+  - Michelagnolo Buonarotti
+  - Michel-Ange Buonarroti
+  - Michel-Ange
+  - Michael Angelo Buonarroti
+  - le divin Michel-Ange
+birth name: Michelangelo di Lodovico Buonarroti Simoni
+Commons category: Michelangelo Buonarroti
+Commons Creator page: Michelangelo Buonarroti
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20House%20of%20Buonarroti%20%282%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Daniele%20da%20Volterra%20%28dettaglio%29.jpg
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Signature2.svg
+NLC authorities: "000192376"
+Provenio UUID: 58fce4bf-b9d1-4531-b917-b5b67c673759
+Europeana entity: agent/base/59821
+given name: "[[_Standards/WikiData/WD~Michelangelo,19003508]]"
+depicted by:
+  - "[[_Standards/WikiData/WD~Michelangelo Buonarroti,19911651]]"
+  - "[[_Standards/WikiData/WD~Portrait of Michelangelo Buonarroti,106816181]]"
+  - "[[_Standards/WikiData/WD~Statue of Michelangelo Buonarroti,125809307]]"
+  - "[[_Standards/WikiData/WD~Tomb of Michelangelo Buonarroti,126003984]]"
+family name: "[[_Standards/WikiData/WD~Buonarroti,21507056]]"
+father: "[[_Standards/WikiData/WD~Lodovico di Leonardo Buonarroti Simoni,21707110]]"
+family: "[[_Standards/WikiData/WD~Buonarroti family,24206070]]"
+on focus list of Wikimedia project:
+  - "[[_Standards/WikiData/WD~Wiki Loves Pride Art & Artists,64214265]]"
+  - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
+copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+catalogue raisonné:
+  - "[[_Standards/WikiData/WD~Michelangelo_ The Complete Paintings, Sculptures and Architecture,105636252]]"
+  - "[[_Standards/WikiData/WD~Q130242714,130242714]]"
+mother: "[[_Standards/WikiData/WD~Francesca di Neri del Miniato Siena,111456913]]"
+place of burial:
+  - "[[_Standards/WikiData/WD~Tomb of Michelangelo Buonarroti,126003984]]"
+  - "[[_Standards/WikiData/WD~Basilica of Santa Croce,51177]]"
+date of birth: 1475-03-15T00:00:00Z
+ISNI: "0000000121243640"
+described at URL:
+  - http://www.digiporta.net/index.php?id=154887250
+  - http://www.digiporta.net/index.php?id=777986930
+  - http://www.digiporta.net/index.php?id=694153081
+  - http://www.digiporta.net/index.php?id=523768652
+  - http://www.digiporta.net/index.php?id=839821825
+date of death: 1564-02-28T00:00:00Z
+work location:
+  - "[[_Standards/WikiData/WD~Venice,641]]"
+  - "[[_Standards/WikiData/WD~Bologna,1891]]"
+  - "[[_Standards/WikiData/WD~Florence,2044]]"
+  - "[[_Standards/WikiData/WD~Rome,220]]"
+"languages spoken, written or signed": "[[_Standards/WikiData/WD~Italian,652]]"
+religion or worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+place of death: "[[_Standards/WikiData/WD~Rome,220]]"
+ethnic group: "[[_Standards/WikiData/WD~Italians,50001]]"
+place of birth: "[[_Standards/WikiData/WD~Caprese Michelangelo,52069]]"
 ---
 
 #has_/time_/started :: 1564-02-18 

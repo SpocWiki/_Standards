@@ -2,6 +2,122 @@
 aliases:
   - Marilyn Monroe
   - Norma Jeane Mortenson
+has_id_wikidata: Q4616
+social media followers: 14662
+spouse:
+  - "[[_Standards/WikiData/WD~Arthur Miller,80596]]"
+  - "[[_Standards/WikiData/WD~Joe DiMaggio,297142]]"
+  - "[[_Standards/WikiData/WD~James Dougherty,946783]]"
+educated at:
+  - "[[_Standards/WikiData/WD~University of California, Los Angeles,174710]]"
+  - "[[_Standards/WikiData/WD~Actors Studio,216458]]"
+  - "[[_Standards/WikiData/WD~Van Nuys High School,4008476]]"
+  - "[[_Standards/WikiData/WD~University High School,7894738]]"
+occupation:
+  - "[[_Standards/WikiData/WD~singer,177220]]"
+  - "[[_Standards/WikiData/WD~Playboy Playmate,728711]]"
+  - "[[_Standards/WikiData/WD~film producer,3282637]]"
+  - "[[_Standards/WikiData/WD~fashion model,3357567]]"
+  - "[[_Standards/WikiData/WD~model,4610556]]"
+  - "[[_Standards/WikiData/WD~film actor,10800557]]"
+  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
+  - "[[_Standards/WikiData/WD~actor,33999]]"
+medical condition:
+  - "[[_Standards/WikiData/WD~stuttering,186676]]"
+  - "[[_Standards/WikiData/WD~endometriosis,205764]]"
+  - "[[_Standards/WikiData/WD~synesthesia,13258]]"
+notable work:
+  - "[[_Standards/WikiData/WD~Some Like It Hot,190086]]"
+  - "[[_Standards/WikiData/WD~The Seven Year Itch,290679]]"
+  - "[[_Standards/WikiData/WD~Gentlemen Prefer Blondes,383355]]"
+  - "[[_Standards/WikiData/WD~The Misfits,645574]]"
+  - "[[_Standards/WikiData/WD~The Prince and the Showgirl,1161196]]"
+  - "[[_Standards/WikiData/WD~Diamonds Are a Girl's Best Friend,1910654]]"
+  - "[[_Standards/WikiData/WD~I Wanna Be Loved by You,2576030]]"
+record label: "[[_Standards/WikiData/WD~RCA Records,202585]]"
+wears:
+  - "[[_Standards/WikiData/WD~white dress of Marilyn Monroe,247262]]"
+  - "[[_Standards/WikiData/WD~nude dress of Marilyn Monroe,4010429]]"
+  - "[[_Standards/WikiData/WD~pink dress of Marilyn Monroe,4010435]]"
+student of:
+  - "[[_Standards/WikiData/WD~Lee Strasberg,297945]]"
+  - "[[_Standards/WikiData/WD~Constance Collier,443743]]"
+has characteristic: "[[_Standards/WikiData/WD~sex symbol,330742]]"
+named after:
+  - "[[_Standards/WikiData/WD~Marilyn Miller,450386]]"
+  - "[[_Standards/WikiData/WD~Gladys Monroe,96200519]]"
+place of death: "[[_Standards/WikiData/WD~Brentwood,909975]]"
+award received:
+  - "[[_Standards/WikiData/WD~Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy,1011564]]"
+  - "[[_Standards/WikiData/WD~Henrietta Award,1534911]]"
+  - "[[_Standards/WikiData/WD~Targa d'Oro,16612253]]"
+  - "[[_Standards/WikiData/WD~star on Hollywood Walk of Fame,17985761]]"
+cause of death: "[[_Standards/WikiData/WD~barbiturate overdose,1184752]]"
+place of burial: "[[_Standards/WikiData/WD~Westwood Village Memorial Park Cemetery,1358639]]"
+filmography: "[[_Standards/WikiData/WD~Marilyn Monroe filmography,1539082]]"
+family name: "[[_Standards/WikiData/WD~Monroe,2780460]]"
+religion or worldview:
+  - "[[_Standards/WikiData/WD~Jewish atheism,2869299]]"
+  - "[[_Standards/WikiData/WD~Christianity,5043]]"
+sibling: "[[_Standards/WikiData/WD~Berniece Baker Miracle,3638839]]"
+sex or gender: "[[_Standards/WikiData/WD~female,6581072]]"
+given name: "[[_Standards/WikiData/WD~Marilyn,14920707]]"
+eye color: "[[_Standards/WikiData/WD~blue,17122834]]"
+instrument:
+  - "[[_Standards/WikiData/WD~voice,17172850]]"
+  - "[[_Standards/WikiData/WD~ukulele,61285]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Babepedia,106111559]]"
+documentation files at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
+hair color: "[[_Standards/WikiData/WD~light brown hair,79483632]]"
+father: "[[_Standards/WikiData/WD~Charles Stanley Gifford,89162489]]"
+mother: "[[_Standards/WikiData/WD~Gladys Monroe,96200519]]"
+discography: "[[_Standards/WikiData/WD~Marilyn Monroe discography,110328848]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Marilyn%20Monroe%20in%20How%20to%20Marry%20a%20Millionaire.jpg
+ISNI:
+  - "0000000121251384"
+  - "0000000368639110"
+Plex person key: 5d776825eb5d26001f1dd0f6
+image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20stone%20of%20Marilyn%20Monroe%20at%20Pierce%20Brothers%20Westwood%20Village%20Memorial%20Park%20Cemetery%2C%201218%20Glendon%20Avenue%2C%20Los%20Angeles%2C%20California%20LCCN2013632347.jpg
+"languages spoken, written or signed": "[[_Standards/WikiData/WD~English,1860]]"
+writing language: "[[_Standards/WikiData/WD~American English,7976]]"
+native language: "[[_Standards/WikiData/WD~American English,7976]]"
+unmarried partner: "[[_Standards/WikiData/WD~John F. Kennedy,9696]]"
+manner of death: "[[_Standards/WikiData/WD~suicide,10737]]"
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+country of citizenship: "[[_Standards/WikiData/WD~United States,30]]"
+place of birth: "[[_Standards/WikiData/WD~Los Angeles,65]]"
+height: 165
+U.S. National Archives Identifier: "10582275"
+name in native language: Marilyn Monroe
+Douban site name: "160854"
+date of death:
+  - 1962-08-05T00:00:00Z
+  - 1962-08-04T00:00:00Z
+work period (end): 1962-01-01T00:00:00Z
+Commons gallery: Marilyn Monroe
+pseudonym: Marilyn Monroe
+Commons category: Marilyn Monroe
+Archive of Our Own tag: Marilyn Monroe
+work period (start): 1945-01-01T00:00:00Z
+plaque image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Marilyn%20Monroe%20Grauman%27s%20Chinese%20Theatre.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Marilyn%20Monroe%20Star%20%2815706815112%29.jpg
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Marilyn%20Monroe%20Signature.svg
+official website: https://marilynmonroe.com
+described at URL: https://www.insider.com/rare-photos-marilyn-monroe-2019-8#norma-jeane-pictured-here-at-age-5-lived-with-various-friends-and-relatives-throughout-most-of-her-childhood-5
+RIA Novosti reference: "1440705787"
+BHCL UUID: 58979e25-87fc-449c-b7d4-1ebbbc2c08fb
+Wolfram Language entity code: Entity["Person", "MarilynMonroe::gh57y"]
+Krugosvet article: kultura_i_obrazovanie/teatr_i_kino/MONRO_MERILIN.html
+EcuRed article: Marilyn_Monroe
+subreddit: MarilynMonroe
+hashtag: MarilynMonroe
+Libris-URI: mkz13rj52m3g5cn
+birth name: Norma Jeane Mortenson
+date of birth: 1926-06-01T00:00:00Z
 ---
 
 #has_/time_/started :: 1926-06-01 

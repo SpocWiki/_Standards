@@ -1,0 +1,113 @@
+---
+aliases:
+  - Hómēros
+has_id_wikidata: Q6691
+has works in the collection:
+  - "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
+  - "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
+  - "[[_Standards/WikiData/WD~Minneapolis Institute of Art,1700481]]"
+place of death: "[[_Standards/WikiData/WD~Ios,216993]]"
+occupation:
+  - "[[_Standards/WikiData/WD~author,482980]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - "[[_Standards/WikiData/WD~poet,49757]]"
+ethnic group: "[[_Standards/WikiData/WD~Greeks,539051]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~1870 Dictionary of Greek and Roman Biography and Mythology,47500198]]"
+  - "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+  - "[[_Standards/WikiData/WD~Paradoxographus Vaticanus,131277687]]"
+field of work: "[[_Standards/WikiData/WD~Greek literature,1089547]]"
+different from:
+  - "[[_Standards/WikiData/WD~Gomer,1148172]]"
+  - "[[_Standards/WikiData/WD~Pseudo-Homer,105883447]]"
+country of citizenship: "[[_Standards/WikiData/WD~Ionian League,1568260]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+given name: "[[_Standards/WikiData/WD~Homer,19826483]]"
+instance of: "[[_Standards/WikiData/WD~human whose existence is disputed,21070568]]"
+place of birth: http://www.wikidata.org/.well-known/genid/8e6b468f475c8e85b4ac4bd3fc2d5e7a
+notable work:
+  - "[[_Standards/WikiData/WD~Homeric epics,65406137]]"
+  - "[[_Standards/WikiData/WD~Iliad,8275]]"
+  - "[[_Standards/WikiData/WD~Odyssey,35160]]"
+copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+attested in: "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
+mother: "[[_Standards/WikiData/WD~Kretheis,126709504]]"
+Library of Congress Classification: PA4018-PA4209
+ISNI: 000000036354151X
+medical condition: "[[_Standards/WikiData/WD~blindness,10874]]"
+part of: "[[_Standards/WikiData/WD~Greek mythology,34726]]"
+"languages spoken, written or signed": "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+writing language: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+native language: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+genre: "[[_Standards/WikiData/WD~epic poem,37484]]"
+present in work: "[[_Standards/WikiData/WD~The Divine Comedy,40185]]"
+Commons gallery: Homer
+Commons category: Homer
+Commons Creator page: Homer
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Homer.ogg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Homer%20bust%2C%20Farnese%20collection%20%28Naples%29.jpg
+Libris-URI: 0xbdfjvj5rjnrc0
+OmegaWiki Defined Meaning: "1443831"
+Provenio UUID: 3e6be691-a395-4a7c-baa9-cc2d5f40b66b
+Europeana entity: agent/base/145323
+BHCL UUID: d5a36c91-5ec6-442a-b326-4e7efd1ea31f
+Royal Academy new identifier: homer
+Krugosvet article: kultura_i_obrazovanie/religiya/GOMER.html
+Swedish Open Cultural Heritage URI: LSH/agents/54238
+name in native language: Ὅμηρος
+birth name: Ὅμηρος
+date of birth: -0900-01-01T00:00:00Z
+date of death: -0800-01-01T00:00:00Z
+floruit: -0800-01-01T00:00:00Z
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Homer** (; Ancient Greek: Ὅμηρος [hómɛːros], Hómēros; born c. 8th century BCE) 
+> was an Ancient Greek poet who is credited as the author of the Iliad and the Odyssey, 
+> two epic poems that are foundational works of ancient Greek literature. 
+> Homer is considered one of the most revered and influential authors in history.
+>
+> Homer's Iliad centers on a quarrel between King Agamemnon 
+> and the warrior Achilles during the last year of the Trojan War. 
+> 
+> The Odyssey chronicles the ten-year journey of Odysseus, king of Ithaca, 
+> back to his home after the fall of Troy. 
+> 
+> The epics depict man's struggle, the Odyssey especially so, 
+> as Odysseus perseveres through punishment of the gods. 
+> 
+> The poems are in Homeric Greek, also known as Epic Greek, a literary language 
+> which shows a mixture of features of the Ionic and Aeolic dialects from different centuries; 
+> the predominant influence is Eastern Ionic. 
+> 
+> Most researchers believe that the poems were originally transmitted orally. 
+> Despite being predominantly known for their tragic and serious themes, 
+> the Homeric poems also contain instances of comedy and laughter.
+>
+> Homer's epic poems shaped aspects of ancient Greek culture and education, 
+> fostering ideals of heroism, glory, and honor. 
+> To Plato, Homer was simply the one who "has taught Greece" (τὴν Ἑλλάδα πεπαίδευκεν, tēn Helláda pepaídeuken).
+>
+> In Dante Alighieri's Divine Comedy, Virgil refers to Homer as "Poet sovereign", king of all poets; 
+> in the preface to his translation of the Iliad, 
+> Alexander Pope acknowledges that Homer has always been considered the "greatest of poets". 
+> From antiquity to the present day, 
+> Homeric epics have inspired many famous works of literature, music, art, and film.
+>
+> The question of by whom, when, where and under what circumstances the Iliad and Odyssey were composed continues to be debated. Scholars generally regard the two poems as the works of separate authors. It is thought that the poems were composed at some point around the late eighth or early seventh century BCE. Many accounts of Homer's life circulated in classical antiquity, the most widespread that he was a blind bard from Ionia, a region of central coastal Anatolia in present-day Turkey. Modern scholars consider these accounts legendary.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Homer)
+

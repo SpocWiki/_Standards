@@ -1,6 +1,46 @@
 ---
 aliases:
   - Koca Mi'mâr Sinân Âğâ
+has_id_wikidata: Q5600
+notable work:
+  - "[[_Standards/WikiData/WD~Süleymaniye Mosque,178643]]"
+  - "[[_Standards/WikiData/WD~Selimiye Mosqueq,184534]]"
+  - "[[_Standards/WikiData/WD~Stari Most,188528]]"
+  - "[[_Standards/WikiData/WD~Mehmed Paša Sokolović Bridge,210055]]"
+  - "[[_Standards/WikiData/WD~Şehzade Mosque,644677]]"
+  - "[[_Standards/WikiData/WD~Banya Bashi Mosque,790052]]"
+  - "[[_Standards/WikiData/WD~Ferhat Pasha Mosque,1267134]]"
+work location:
+  - "[[_Standards/WikiData/WD~Višegrad,239266]]"
+  - "[[_Standards/WikiData/WD~Istanbul,406]]"
+  - "[[_Standards/WikiData/WD~Cairo,85]]"
+  - "[[_Standards/WikiData/WD~Aleppo,41183]]"
+  - "[[_Standards/WikiData/WD~Edirne,43387]]"
+significant event: "[[_Standards/WikiData/WD~devşirme,815841]]"
+place of birth: "[[_Standards/WikiData/WD~Ağırnas,1892504]]"
+described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+spouse: "[[_Standards/WikiData/WD~Fatma Nur,24956078]]"
+copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+given name: "[[_Standards/WikiData/WD~Q110818088,110818088]]"
+date of birth: 1490-01-01T00:00:00Z
+position held: "[[_Standards/WikiData/WD~chief Ottoman imperial architect,130685555]]"
+ISNI: "0000000080016993"
+Libris-URI: dwxsvwcnbptk6rsl
+date of death: 1588-07-17T00:00:00Z
+place of burial: "[[_Standards/WikiData/WD~Constantinople,16869]]"
+place of death: "[[_Standards/WikiData/WD~Constantinople,16869]]"
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+occupation: "[[_Standards/WikiData/WD~architect,42973]]"
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Mimar%20Sinan%20signature.png
+image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Mimar%20Sinan%20T%C3%BCrbesi.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mimar%20Sinan%2C%20architecte%20de%20Soliman%20le%20Magnifique.jpg
+Krugosvet article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SINAN.html
+Commons category: Mimar Sinan
+Google Doodle: mimar-sinans-birthday
+name in native language:
+  - قوجه معمار سنان آغا
+  - Mimar Sinan
 ---
 
 #has_/time_/started :: 1489-06
