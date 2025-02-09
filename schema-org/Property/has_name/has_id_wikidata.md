@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -26,8 +26,9 @@ aliases:
   - QID
 ---
 
-Unique Entity-ID (QIDs) starting with a Q and followed by a unique integer denote Classes and Instances. 
-Properties are denoted with a starting P and followed by an integer. 
+Unique Entity-ID (QIDs), typically starting with a `Q`, 
+and followed by a unique integer denote Classes and Instances. 
+Properties are denoted with a starting `P`, followed by an integer. 
 
 Use it like this: 
 - [ #has_/id_/wikidata :: Text ] or 

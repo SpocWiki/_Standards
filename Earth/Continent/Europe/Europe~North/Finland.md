@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 62.3173
     - 25.4668
@@ -144,6 +144,21 @@ Capital :: [[Helsingfors]]
 #is_a_ :: [[Place]] 
 [has_place_longitude::25.4668]
 [has_place_latitude::62.3173]
+
+## Major Cities 
+
+| City                                                                                                   | Region                                                                                                  |   Pop/k |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ------: |
+| [[Finland/City/Helsinki\|Helsinki]]                                                                    | [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa\|Uusimaa]]               | 674.500 |
+| [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Espoo\|Espoo]]     | [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa\|Uusimaa]]               | 314.024 |
+| [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa/City/Tampere\|Tampere]] | [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Pirkanmaa\|Pirkanmaa]]             | 255.050 |
+| [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa/City/Vantaa\|Vantaa]]   | [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Uusimaa\|Uusimaa]]               | 247.443 |
+| [[Finland/Provinces~Finland/Oulu/counties~Oulu/Ostrobothnia~North/City/Oulu\|Oulu]]                    | North [[Finland/Provinces~Finland/Western_Finland/counties~Western_Finland/Ostrobothnia\|Ostrobothnia]] | 214.633 |
+| Turku                                                                                                  | Southwest Finland                                                                                       | 201.863 |
+| Jyväskylä                                                                                              | Central Finland                                                                                         | 147.746 |
+| Kuopio                                                                                                 | Northern Savonia                                                                                        | 124.021 |
+| [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme/City/Lahti\|Lahti]] | [[Finland/Provinces~Finland/Southern_Finland/counties~Southern_Finland/Päijät-Häme\|Päijät-Häme]]       | 120.693 |
+
 
 ## #has_/text_of_/abstract 
 
