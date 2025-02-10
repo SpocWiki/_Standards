@@ -1,3 +1,9 @@
+---
+has_id_wikidata: Q9106
+aliases:
+  - Dmitri Ivanovich Mendeleev
+  - Dmitri Mendeleev
+---
 
 #has_/time_/started :: 1834-02-08
 #has_/time_/stopped :: 1907-02-02 
