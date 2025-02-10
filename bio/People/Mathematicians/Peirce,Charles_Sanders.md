@@ -10,7 +10,7 @@ aliases:
 > was an American scientist, mathematician,  logician, and philosopher 
 > who is sometimes known as "the father of pragmatism". 
 > According to philosopher Paul Weiss, Peirce was "the most original and versatile of America's philosophers and America's greatest logician". 
-> [[../../../_Standards/Mathematics/Mathematicians/Russell,Bertrand|Bertrand Russell]] wrote "he was one of the most original minds of the later nineteenth century 
+>[[Russell,Bertrand|Bertrand Russell]]] wrote "he was one of the most original minds of the later nineteenth century 
 > and certainly the greatest American thinker ever". 
 >
 > Educated as a chemist and __employed as a scientist for thirty years__, 

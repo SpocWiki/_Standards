@@ -24,7 +24,7 @@
 > and __addition of objects of different dimensions__.
 >
 > The geometric product was 
-> first briefly mentioned by [[../Mathematicians/Grassmann,Hermann|Grassmann,Hermann]], 
+> first briefly mentioned b[[../../bio/People/Mathematicians/Modern_Mathematicians/Grassmann,Hermann|Grassmann,Hermann]]]], 
 > who was chiefly interested in developing 
 > the closely related exterior algebra. 
 > 

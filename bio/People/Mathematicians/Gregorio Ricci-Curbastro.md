@@ -15,7 +15,7 @@
 > Ricci-Curbastro also published important works in other fields, 
 > including a book on higher algebra and infinitesimal analysis, 
 > and papers on the theory of real numbers, 
-> an area in which he extended the research begun by [[../../../_Standards/Mathematics/Mathematicians/Dedekind,Richard]].
+> an area in which he extended the research begun by[[Dedekind,Richard]]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gregorio%20Ricci-Curbastro)
 

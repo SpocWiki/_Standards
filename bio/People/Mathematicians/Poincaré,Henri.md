@@ -1,12 +1,15 @@
-﻿---
+---
 aliases:
   - Henri Poincaré
+has_id_wikidata: Q81082
 ---
+
 
 ## #has_/text_of_/abstract 
 
 > Jules **Henri Poincaré** (UK: , US: ; French: [ɑ̃ʁi pwɛ̃kaʁe] ; 29 April 1854 – 17 July 1912) 
 > was a French mathematician, theoretical physicist, engineer, and philosopher of science. 
+> 
 > He is often described as a polymath, and in mathematics as "The Last Universalist", 
 > since he excelled in all fields of the discipline as it existed during his lifetime. 
 > Due to his scientific success, influence and his discoveries, 

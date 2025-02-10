@@ -1,4 +1,4 @@
-﻿
+
 ## #has_/text_of_/abstract 
 
 > Douglas Richard Hofstadter (born February 15, 1945) 
@@ -11,8 +11,6 @@
 > His 2007 book I Am a Strange Loop won the Los Angeles Times Book Prize for Science and Technology.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Douglas%20Hofstadter)
-
-
 
 
 

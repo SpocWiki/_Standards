@@ -20,7 +20,7 @@ aliases:
 > 
 > Principia Mathematica is considered one of the twentieth century's most important works in mathematical logic, and 
 > placed 23rd in a list of the top 100 English-language nonfiction books of the twentieth century 
-> by [[../../../Knowledge/Literature/Publishers/Modern_Library]].
+> by[[../../../../Knowledge/Literature/Publishers/Modern_Library]]].
 >
 > Beginning in the late 1910s and early 1920s, 
 > Whitehead gradually turned his attention from mathematics to philosophy of science, 

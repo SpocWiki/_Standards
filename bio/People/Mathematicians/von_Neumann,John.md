@@ -1,8 +1,11 @@
-﻿---
+---
 aliases:
   - John von Neumann
+  - Neumann János Lajos
+has_id_wikidata: Q17455
 ---
 
+ 
 #has_/time_/started :: 1903-12-28 
 #has_/time_/stopped :: 1957-02-08
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
@@ -32,7 +35,7 @@ aliases:
 > the Armed Forces Special Weapons Project and the Oak Ridge National Laboratory. 
 > 
 > At the peak of his influence in the 1950s, he chaired a number of Defense Department committees 
-> including the Strategic Missile Evaluation Committee and the [[../../../Knowledge/Military/ICBM]] Scientific Advisory Committee. 
+> including the Strategic Missile Evaluation Committee and the[[../../../../Knowledge/Military/ICBM]]] Scientific Advisory Committee. 
 > He was also a member of the influential Atomic Energy Commission 
 > in charge of all atomic energy development in the country. 
 > 
