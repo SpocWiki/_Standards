@@ -125,15 +125,44 @@ DSSTOX compound identifier: DTXCID204382
 > (compare copper at about 0.06 grams). 
 > In minerals, phosphorus generally occurs as phosphate.
 >
-> Elemental phosphorus was first isolated as white phosphorus in 1669.  White phosphorus emits a faint glow when exposed to oxygen – hence the name, taken from Greek mythology, Φωσφόρος meaning 'light-bearer' (Latin Lucifer), referring to the "Morning Star", the planet Venus. The term phosphorescence, meaning glow after illumination, derives from this property of phosphorus, although the word has since been used for a different physical process that produces a glow. The glow of phosphorus is caused by oxidation of the white (but not red) phosphorus — a process now called chemiluminescence. Together with nitrogen, arsenic, antimony, and bismuth, phosphorus is classified as a pnictogen.
+> Elemental phosphorus was first isolated as white phosphorus in 1669.  
+> White phosphorus emits a faint glow when exposed to oxygen – hence the name, 
+> taken from Greek mythology, Φωσφόρος meaning 'light-bearer' (Latin Lucifer), 
+> referring to the "Morning Star", the planet Venus. 
+> The term phosphorescence, meaning glow after illumination, derives from this property of phosphorus, 
+> although the word has since been used for a different physical process that produces a glow. 
+> The glow of phosphorus is caused by oxidation of the white (but not red) phosphorus — 
+> a process now called chemiluminescence. 
+> Together with nitrogen, arsenic, antimony, and bismuth, phosphorus is classified as a pnictogen.
 >
-> Phosphorus is an element essential to sustaining life largely through phosphates, compounds containing the phosphate ion, PO43−. Phosphates are a component of DNA, RNA, ATP, and phospholipids, complex compounds fundamental to cells. Elemental phosphorus was first isolated from human urine, and bone ash was an important early phosphate source. Phosphate mines contain fossils because phosphate is present in the fossilized deposits of animal remains and excreta. Low phosphate levels are an important limit to growth in a number of plant ecosystems. The vast majority of phosphorus compounds mined are consumed as fertilisers. Phosphate is needed to replace the phosphorus that plants remove from the soil, and its annual demand is rising nearly twice as fast as the growth of the human population. Other applications include organophosphorus compounds in detergents, pesticides, and nerve agents.
+> Phosphorus is an element essential to sustaining life largely through phosphates, 
+> compounds containing the phosphate ion, PO43−. 
+> Phosphates are a component of DNA, RNA, ATP, and phospholipids, complex compounds fundamental to cells. 
+> 
+> Elemental phosphorus was first isolated from human urine, 
+> and bone ash was an important early phosphate source. 
+> Phosphate mines contain fossils 
+> because phosphate is present in the fossilized deposits of animal remains and excreta. 
+> Low phosphate levels are an important limit to growth in a number of plant ecosystems. 
+> The vast majority of phosphorus compounds mined are consumed as fertilisers. 
+> Phosphate is needed to replace the phosphorus that plants remove from the soil, 
+> and its annual demand is rising nearly twice as fast as the growth of the human population. 
+> Other applications include organophosphorus compounds in detergents, pesticides, and nerve agents.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phosphorus)
 
 Phosphorus naturally occurs as phosphate, the salt of Phosphoric Acid H3PO4. 
 Phosphate is essential as a Fertilizer, but also for Doting Semiconductors and Accumulators. 
-Phosphate occured historically in [[../../../Earth/Continent/Oceania/Micronesia/Nauru]] and [[Morocco]], but lately a big Supply has been found in southern Norway. 
+Phosphate occured historically in [[../../../Earth/Continent/Oceania/Micronesia/Nauru]] and [[Morocco]], 
+but lately a big Supply has been found in southern Norway. 
+
+Phosphorus typically forms 3 single covalent bonds and retains a lone pair, 
+as seen in compounds such as PH₃ (phosphine) in [Ne] 3s² 3p³.
+
+But Phosphorus can use its empty 3d orbitals to accommodate extra bonding electrons, 
+allowing 5 or even 6 covalent bonds. 
+For example, in PO₄³⁻ (phosphate), phosphorus forms 5 bonds by utilizing 3s, 3p³, and 3d orbitals, 
+so-called sp³d hybridization with [[Trigonal_bipyramidal_Geometry]].
 
 ## Confidential Links & Embeds: 
 
