@@ -1,0 +1,196 @@
+---
+aliases:
+  - Galileo Galilei
+  - Galileo di Vincenzo Bonaiuti de' Galilei
+has_id_wikidata: Q307
+Provenio UUID: bcdd7352-ace6-4606-a30e-e0b4aebfbd86
+Regensburg Classification:
+  - BF 3785
+  - IU 9175
+  - UB 2592
+Swedish Open Cultural Heritage URI: LSH/agents/10967
+Krugosvet article: nauka_i_tehnika/matematika/GALILE_GALILEO.html
+occupation:
+  - "[[_Standards/WikiData/WD~engineer,81096]]"
+  - "[[_Standards/WikiData/WD~astrologer,155647]]"
+  - "[[_Standards/WikiData/WD~physicist,169470]]"
+  - "[[_Standards/WikiData/WD~mathematician,170790]]"
+  - "[[_Standards/WikiData/WD~inventor,205375]]"
+  - "[[_Standards/WikiData/WD~polymath,270141]]"
+  - "[[_Standards/WikiData/WD~university teacher,1622272]]"
+  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
+  - "[[_Standards/WikiData/WD~scientist,901]]"
+  - "[[_Standards/WikiData/WD~astronomer,11063]]"
+country of citizenship:
+  - "[[_Standards/WikiData/WD~Grand Duchy of Tuscany,154849]]"
+  - "[[_Standards/WikiData/WD~Duchy of Florence,2252973]]"
+convicted of: "[[_Standards/WikiData/WD~heresy,160598]]"
+employer:
+  - "[[_Standards/WikiData/WD~University of Padua,193510]]"
+  - "[[_Standards/WikiData/WD~University of Pisa,645663]]"
+has works in the collection:
+  - "[[_Standards/WikiData/WD~Victoria and Albert Museum,213322]]"
+  - "[[_Standards/WikiData/WD~Museo Galileo,1668196]]"
+  - "[[_Standards/WikiData/WD~Musée d'histoire des sciences de la Ville de Genève,19824862]]"
+notable work:
+  - "[[_Standards/WikiData/WD~Galilean transformation,219207]]"
+  - "[[_Standards/WikiData/WD~equations for a falling body,1132975]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
+  - "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
+  - "[[_Standards/WikiData/WD~Astronomers_ A Biographical Reference,126740695]]"
+sponsor: "[[_Standards/WikiData/WD~Cosimo II de' Medici,312297]]"
+father: "[[_Standards/WikiData/WD~Vincenzo Galilei,313765]]"
+doctoral student:
+  - "[[_Standards/WikiData/WD~Vincenzo Viviani,318037]]"
+  - "[[_Standards/WikiData/WD~Giuseppe Biancani,501774]]"
+  - "[[_Standards/WikiData/WD~Benedetto Castelli,560872]]"
+  - "[[_Standards/WikiData/WD~Mario Guiducci,1796926]]"
+member of:
+  - "[[_Standards/WikiData/WD~Lincean Academy,338432]]"
+  - "[[_Standards/WikiData/WD~Accademia della Crusca,338489]]"
+  - "[[_Standards/WikiData/WD~Accademia delle Arti del Disegno,1760178]]"
+student:
+  - "[[_Standards/WikiData/WD~Giuseppe Biancani,501774]]"
+  - "[[_Standards/WikiData/WD~Niccolò Arrighetti,38158885]]"
+different from: "[[_Standards/WikiData/WD~Galileo,571988]]"
+religion or worldview: "[[_Standards/WikiData/WD~Latin Church,597526]]"
+educated at: "[[_Standards/WikiData/WD~University of Pisa,645663]]"
+doctoral advisor: "[[_Standards/WikiData/WD~Ostilio Ricci,926531]]"
+sibling: "[[_Standards/WikiData/WD~Michelagnolo Galilei,975540]]"
+place of death: "[[_Standards/WikiData/WD~Arcetri,2031761]]"
+unmarried partner: "[[_Standards/WikiData/WD~Marina Gamba,2843250]]"
+child:
+  - "[[_Standards/WikiData/WD~Maria Celeste,3123699]]"
+  - "[[_Standards/WikiData/WD~Vincenzo Gamba,7932232]]"
+given name: "[[_Standards/WikiData/WD~Galileo,3757616]]"
+mother: "[[_Standards/WikiData/WD~Giulia Ammannati,3769231]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Galileo Galilei,14445406]]"
+family name: "[[_Standards/WikiData/WD~Galilei,21493807]]"
+has part(s): "[[_Standards/WikiData/WD~middle finger of Galileo's right hand,24150984]]"
+documentation files at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
+copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+award received: "[[_Standards/WikiData/WD~International Space Hall of Fame,99951011]]"
+patient of: "[[_Standards/WikiData/WD~Giovanni Trulli,104093279]]"
+attested in: "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
+depicted by:
+  - "[[_Standards/WikiData/WD~Statue of Galileo Galilei,125809306]]"
+  - "[[_Standards/WikiData/WD~Tomb of Galileo Galilei,126003845]]"
+  - "[[_Standards/WikiData/WD~Plaque of Galileo Galilei,126258868]]"
+place of burial:
+  - "[[_Standards/WikiData/WD~Tomb of Galileo Galilei,126003845]]"
+  - "[[_Standards/WikiData/WD~Basilica of Santa Croce,51177]]"
+birth name: Galileo di Vincenzo Bonaiuti de' Galilei
+image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Galileos%20tomb.jpg
+ISNI: "0000000121178199"
+plaque image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Via%20della%20Chiesa%2029%20Plaques%20Galileo%20Galilei%20lived%20here%20as%20a%20Child.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Costa%20San%20Giorgio%2017-19-21%2C%20casa%20galilei%2C%20lapide%20galileo.jpg
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Galileo%20Galilei%20%28spoken%20by%20AI%20voice%29.mp3
+described at URL:
+  - http://www.digiporta.net/index.php?id=364432354
+  - http://www.digiporta.net/index.php?id=620289086
+  - http://www.digiporta.net/index.php?id=547664189
+  - http://www.digiporta.net/index.php?id=978532883
+  - http://www.digiporta.net/index.php?id=522852345
+  - http://www.digiporta.net/index.php?id=291075319
+  - http://www.digiporta.net/index.php?id=266024999
+  - http://www.digiporta.net/index.php?id=884114624
+  - http://www.digiporta.net/index.php?id=831564129
+  - http://www.digiporta.net/index.php?id=364536525
+  - http://www.digiporta.net/index.php?id=173699990
+  - http://www.digiporta.net/index.php?id=663934106
+  - http://www.digiporta.net/index.php?id=539790103
+  - http://www.digiporta.net/index.php?id=223074807
+  - http://www.digiporta.net/index.php?id=343168668
+  - http://www.digiporta.net/index.php?id=672963329
+  - http://www.digiporta.net/index.php?id=209061633
+  - http://www.digiporta.net/index.php?id=793207390
+  - http://www.digiporta.net/index.php?id=866039425
+Commons gallery: Galileo Galilei
+Commons category: Galileo Galilei
+Commons Creator page: Galileo Galilei
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20de%20Galil%C3%A9e%20%28Galileo%20Galilei%29.svg
+name in native language: Galileo Galilei
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Galileo.arp.300pix.jpg
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Galileo%20Galilei%20Signature%202.svg
+NLC authorities: "000276008"
+BHCL UUID: 8599137b-be6d-42d9-8450-604c95d298c9
+Libris-URI: zw9ccf7h4zlxqv4
+date of death: 1642-01-08T00:00:00Z
+date of birth: 1564-02-25T00:00:00Z
+field of work:
+  - "[[_Standards/WikiData/WD~mathematics,395]]"
+  - "[[_Standards/WikiData/WD~physics,413]]"
+  - "[[_Standards/WikiData/WD~philosophy,5891]]"
+  - "[[_Standards/WikiData/WD~mechanics,41217]]"
+writing language:
+  - "[[_Standards/WikiData/WD~Latin,397]]"
+  - "[[_Standards/WikiData/WD~Italian,652]]"
+"languages spoken, written or signed":
+  - "[[_Standards/WikiData/WD~Latin,397]]"
+  - "[[_Standards/WikiData/WD~Italian,652]]"
+work location:
+  - "[[_Standards/WikiData/WD~Padua,617]]"
+  - "[[_Standards/WikiData/WD~Florence,2044]]"
+  - "[[_Standards/WikiData/WD~Pisa,13375]]"
+residence:
+  - "[[_Standards/WikiData/WD~Padua,617]]"
+  - "[[_Standards/WikiData/WD~Florence,2044]]"
+  - "[[_Standards/WikiData/WD~Pisa,13375]]"
+medical condition: "[[_Standards/WikiData/WD~blindness,10874]]"
+place of birth: "[[_Standards/WikiData/WD~Pisa,13375]]"
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+ArhivX LOD: "11875"
+---
+
+
+## #has_/text_of_/abstract 
+
+> Galileo di Vincenzo Bonaiuti de' Galilei (15 February 1564 – 8 January 1642), 
+> commonly referred to as **Galileo Galilei** (, US also ; Italian: [ɡaliˈlɛːo ɡaliˈlɛːi]) or mononymously as Galileo, 
+> was an Italian astronomer, physicist and engineer, sometimes described as a polymath. 
+> He was born in the city of Pisa, then part of the Duchy of Florence. 
+> Galileo has been called the father of observational astronomy, modern-era classical physics, 
+> the scientific method, and modern science.
+>
+> Galileo studied speed and velocity, gravity and free fall, the principle of relativity, inertia, projectile motion 
+> and also worked in applied science and technology, 
+> describing the properties of the pendulum and "hydrostatic balances". 
+> He was one of the earliest Renaissance developers of the thermoscope 
+> and the inventor of various military compasses. 
+> With an improved telescope he built, he observed the stars of the Milky Way, 
+> the phases of Venus, the four largest satellites of Jupiter, Saturn's rings, lunar craters and sunspots. 
+> He also built an early microscope.
+>
+> Galileo's championing of Copernican heliocentrism 
+> was met with opposition from within the Catholic Church and from some astronomers. 
+> The matter was investigated by the Roman Inquisition in 1615, 
+> which concluded that his opinions contradicted accepted Biblical interpretations.
+>
+> Galileo later defended his views in Dialogue Concerning the Two Chief World Systems (1632), 
+> which appeared to attack and ridicule Pope Urban VIII, thus alienating both the Pope and the Jesuits, 
+> who had both strongly supported Galileo up until this point. 
+> He was tried by the Inquisition, found "vehemently suspect of heresy", and forced to recant. 
+> He spent the rest of his life under house arrest. 
+> During this time, he wrote Two New Sciences (1638), 
+> primarily concerning kinematics and the strength of materials.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Galileo%20Galilei)
+
+

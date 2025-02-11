@@ -1,4 +1,4 @@
-﻿---
+---
 title: Italy
 linkTitle: 
 type: Country
@@ -70,6 +70,26 @@ into a Subfolder named `France`, so that this Link into the Sub-Repository works
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Flag_of_Italy.svg|200]] <img src="./Flag_of_Italy.svg" width="200"/> 
+
+## Major Cities 
+
+Population in 1000s as of @2024
+
+| City                                                                          | Region                                                 | Pop/k |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------ | ----: |
+| [[Italy/regions~Italy/Lazio/Roma.Province/City/Roma\|Roma]]                   | [[Italy/regions~Italy/Lazio\|Lazio]]                   |  2750 |
+| [[Italy/regions~Italy/Lombardy/Milano.Province/City/Milano,City\|Milano]]     | [[Italy/regions~Italy/Lombardy\|Lombardy]]             |  1350 |
+| [[Italy/regions~Italy/Campania/Napoli.Province/City/Napoli,City\|Napoli]]     | [[Italy/regions~Italy/Campania\|Campania]]             |   910 |
+| [[Italy/regions~Italy/Piedmont/Turin.Province/City/Torino\|Torino]]           | [[Italy/regions~Italy/Piedmont\|Piedmont]]             |   840 |
+| [[Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo\|Palermo]]         | [[Italy/regions~Italy/Sicily\|Sicily]]                 |   630 |
+| [[Italy/regions~Italy/Liguria/Genova.Province/City/Genova\|Genoa]]            | [[Italy/regions~Italy/Liguria\|Liguria]]               |   560 |
+| [[Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Bologna\|Bologna]] | [[Italy/regions~Italy/Emilia-Romagna\|Emilia-Romagna]] |   390 |
+| [[Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City\|Florenz]]   | [[Italy/regions~Italy/Tuscany\|Tuscany]]               |   370 |
+| [[Bari]]                                                                      | [[Italy/regions~Italy/Apulia\|Apulia]]                 |   320 |
+
+Th pulation figures are based on data from 2024. ([statta.com](https://wwwtista.com/statistics/589331/largest-cities-in-italy-by-population/?utm_source=chatgpt.com))
+
+It is importantnote that population estimates can vary depending on the source and the year of the data. For instance, the Italian National Institute of Statistics (ISTAT) maovide different figures based on their methodologies and the timing of data collection. Therefore, while the above table offers a general overview of thost populous cities in Italy, specific numbers may differ across various publications.
 
 ## #has_/text_of_/abstract  
 

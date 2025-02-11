@@ -1,0 +1,143 @@
+---
+aliases:
+  - Mao Zedong
+  - Chairman Mao
+has_id_wikidata: Q5816
+occupation:
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~librarian,182436]]"
+  - "[[_Standards/WikiData/WD~revolutionary,3242115]]"
+  - "[[_Standards/WikiData/WD~calligrapher,3303330]]"
+  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
+  - "[[_Standards/WikiData/WD~strategist,7621877]]"
+  - "[[_Standards/WikiData/WD~political theorist,15994177]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - "[[_Standards/WikiData/WD~teacher,37226]]"
+  - "[[_Standards/WikiData/WD~poet,49757]]"
+place of death: "[[_Standards/WikiData/WD~Zhongnanhai,197889]]"
+residence:
+  - "[[_Standards/WikiData/WD~Zhongnanhai,197889]]"
+  - "[[_Standards/WikiData/WD~Mao Zedong's Former Residence,14505721]]"
+  - "[[_Standards/WikiData/WD~Former residence of Mao Zedong during his first stay in Beijing,15929957]]"
+military branch:
+  - "[[_Standards/WikiData/WD~People’s Liberation Army,200106]]"
+  - "[[_Standards/WikiData/WD~Chinese Workers’ and Peasants’ Red Army,1036830]]"
+  - "[[_Standards/WikiData/WD~New Army,1186887]]"
+spouse:
+  - "[[_Standards/WikiData/WD~He Zizhen,272321]]"
+  - "[[_Standards/WikiData/WD~Yang Kaihui,284278]]"
+  - "[[_Standards/WikiData/WD~Luo Yixiu,710752]]"
+field of work:
+  - "[[_Standards/WikiData/WD~teaching,352842]]"
+  - "[[_Standards/WikiData/WD~politics,7163]]"
+child:
+  - "[[_Standards/WikiData/WD~Mao Anying,482807]]"
+  - "[[_Standards/WikiData/WD~Li Na,707760]]"
+  - "[[_Standards/WikiData/WD~Mao Anqing,922651]]"
+  - "[[_Standards/WikiData/WD~Li Min,3267042]]"
+  - "[[_Standards/WikiData/WD~Mao Anlong,4120451]]"
+  - "[[_Standards/WikiData/WD~Yang Yuehua,4120464]]"
+sibling:
+  - "[[_Standards/WikiData/WD~Mao Zemin,707246]]"
+  - "[[_Standards/WikiData/WD~Mao Zetan,1335071]]"
+place of birth: "[[_Standards/WikiData/WD~Shaoshan,838542]]"
+family name: "[[_Standards/WikiData/WD~Mao,1043021]]"
+place of burial: "[[_Standards/WikiData/WD~Mausoleum of Mao Zedong,1154819]]"
+hair color: "[[_Standards/WikiData/WD~black hair,1922956]]"
+vehicle normally used: "[[_Standards/WikiData/WD~ZIS-115,2071708]]"
+notable work:
+  - "[[_Standards/WikiData/WD~Bombard the Headquarters,2384116]]"
+  - "[[_Standards/WikiData/WD~On the People's Democratic Dictatorship,7091464]]"
+  - "[[_Standards/WikiData/WD~Poetry of Mao Zedong,7207534]]"
+  - "[[_Standards/WikiData/WD~Statement by comrade Mao Zedong, chairman of the Central Committee of the Communist Party of China, in support of the Afro-American struggle against violent repression,10873177]]"
+  - "[[_Standards/WikiData/WD~calligraphy of Mao Zedong,11127627]]"
+  - "[[_Standards/WikiData/WD~Selected works of Mao Zedong,11127658]]"
+  - "[[_Standards/WikiData/WD~Three Old Articles,17003514]]"
+  - "[[_Standards/WikiData/WD~On Coalition Government,18834688]]"
+  - "[[_Standards/WikiData/WD~Quotations from Chairman Mao Tse-tung,36393]]"
+position held: "[[_Standards/WikiData/WD~Chairman of the Chinese Communist Party,2708520]]"
+handedness: "[[_Standards/WikiData/WD~right-handedness,3039938]]"
+manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+father: "[[_Standards/WikiData/WD~Mao Yichang,4120355]]"
+mother: "[[_Standards/WikiData/WD~Wen Qimei,4120370]]"
+educated at:
+  - "[[_Standards/WikiData/WD~Xiangxiang First Senior High School,4126571]]"
+  - "[[_Standards/WikiData/WD~The First High School of Changsha, Hunan,4126639]]"
+  - "[[_Standards/WikiData/WD~Hunan First Normal University,4126742]]"
+  - "[[_Standards/WikiData/WD~Dongshan Senior High School,10870085]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+award received: "[[_Standards/WikiData/WD~People's Liberation Army Strategist,10872938]]"
+employer: "[[_Standards/WikiData/WD~Peking University Library,10902170]]"
+student of: "[[_Standards/WikiData/WD~Li Yuanfu,11095429]]"
+religion or worldview:
+  - "[[_Standards/WikiData/WD~atheist,13211738]]"
+  - "[[_Standards/WikiData/WD~atheism,7066]]"
+movement: "[[_Standards/WikiData/WD~Marxism–Leninism–Maoism,18127879]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
+  - "[[_Standards/WikiData/WD~SourceWatch List of Dictators,121698959]]"
+given name: "[[_Standards/WikiData/WD~Zedong,74010591]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Mao Zedong,123439911]]"
+date of birth: 1893-12-26T00:00:00Z
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%AE%E0%AE%BE%20%E0%AE%9A%E0%AF%87%20%E0%AE%A4%E0%AF%81%E0%AE%99%E0%AF%8D-spoken%20wikipedia.ogg
+ISNI: "0000000120961122"
+CYT/CCS: AC000207008
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mao%20Tse%20tung%20in%201965%20Color.png
+"languages spoken, written or signed":
+  - "[[_Standards/WikiData/WD~Chinese,7850]]"
+  - "[[_Standards/WikiData/WD~Mandarin,9192]]"
+  - "[[_Standards/WikiData/WD~Xiang Chinese,13220]]"
+native language: "[[_Standards/WikiData/WD~Chinese,7850]]"
+medical condition: "[[_Standards/WikiData/WD~Parkinson's disease,11085]]"
+cause of death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
+member of political party:
+  - "[[_Standards/WikiData/WD~Chinese Communist Party,17427]]"
+  - "[[_Standards/WikiData/WD~Kuomintang,31113]]"
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+country of citizenship: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+number of children: 10
+height: 180
+ethnic group: "[[_Standards/WikiData/WD~Han Chinese people,42740]]"
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Mao%20Zedong%20signature.svg
+Academia.edu profile URL: https://www.academia.edu/People/Mao_Zedong
+NLC authorities: "000184442"
+U.S. National Archives Identifier: "10580956"
+Libris-URI: 64jlgg5q502wmgq
+work period (end): 1976-01-01T00:00:00Z
+date of death: 1976-09-09T00:00:00Z
+BHCL UUID: d2b53d24-6407-4b09-828d-40beb2d0d284
+Wolfram Language entity code: Entity["Person", "MaoZedong::ksc4t"]
+Krugosvet article: istoriya/MAO_TSZEDUN.html
+Commons gallery: Mao Zedong
+Commons category: Mao Zedong
+Commons Creator page: Mao Zedong
+Swedish Open Cultural Heritage URI: SMVK-EM/name/1487832
+Baidu Tieba name: 毛泽东
+courtesy name: 潤之
+birth name: 毛澤東
+name in native language:
+  - 毛泽东
+  - 毛澤東
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Mao Zedong** (26 December 1893 – 9 September 1976), also known as Chairman Mao, 
+> was a Chinese politician, revolutionary, and political theorist who founded the People's Republic of China
+>  and led the country from its establishment in 1949 until his death in 1976. 
+>  Mao served as the chairman of the Chinese Communist Party (CCP) from 1943 until his death, 
+>  and as the party's de facto leader from 1935. 
+>  His theories, which he advocated as a Chinese adaptation of Marxism–Leninism, are known as Maoism.
+>
+> Born to a peasant family in Shaoshan, Hunan, Mao was influenced early in his life by the events of the 1911 Revolution and May Fourth Movement of 1919, supporting Chinese nationalism and anti-imperialism. He adopted Marxism–Leninism while working as a librarian at Peking University, and in 1921 became a founding member of the Chinese Communist Party. After the start of the Chinese Civil War between the Kuomintang (KMT) and CCP in 1927, Mao led the failed Autumn Harvest Uprising and founded the Jiangxi Soviet. He helped establish the Chinese Red Army and developed a strategy of guerilla warfare. In 1935, Mao became leader of the CCP during the Long March. The CCP allied with the KMT in the Second United Front during the Second Sino-Japanese War starting in 1937, but China's civil war resumed after Japan's surrender in 1945. Mao's forces defeated the Nationalist government, which withdrew to Taiwan in 1949.
+>
+> On 1 October 1949, Mao proclaimed the foundation of the PRC, a one-party state controlled by the CCP. He initiated land redistribution and industrialisation campaigns, suppressed political opponents, intervened in the Korean War, and began the ideological Hundred Flowers and Anti-Rightist Campaigns. In 1958, Mao launched the Great Leap Forward, which aimed to transform China's economy from agrarian to industrial; it resulted in the Great Chinese Famine. In 1966, he initiated the Cultural Revolution, a campaign to remove "counter-revolutionary" elements marked by violent class struggle, destruction of historical artifacts, and Mao's cult of personality. From the late 1950s, Mao's foreign policy was dominated by a political split with the Soviet Union, and during the 1970s he began establishing relations with the United States; China was also involved in the Vietnam War and Cambodian Civil War. In 1976, Mao died after suffering a series of heart attacks. He was succeeded as leader by Hua Guofeng, and in 1978 by Deng Xiaoping. The CCP's official evaluation of Mao's legacy both praises him and acknowledges he made errors in his later years.
+>
+> Mao is considered one of the most significant figures of the 20th century. His policies were responsible for a vast number of deaths, with estimates ranging from 40 to 80 million victims of starvation, persecution, prison labour, and mass executions, and his regime has been described as totalitarian. He has also been credited with transforming China from a semi-colony to a leading world power by advancing literacy, women's rights, basic healthcare, primary education, and life expectancy. Under Mao, China's population grew from about 550 million to more than 900 million. Within China, he is revered as a national hero who liberated the country from foreign occupation and exploitation. He became an ideological figurehead and a prominent influence within the international communist movement, inspiring various Maoist organisations.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mao%20Zedong)
+

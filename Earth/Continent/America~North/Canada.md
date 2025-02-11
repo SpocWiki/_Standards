@@ -1,4 +1,4 @@
-﻿---
+---
 title: Canada
 type: Country
 location:
@@ -67,7 +67,7 @@ into a Subfolder named `Canada`, so that this Link into the Sub-Repository works
 
 ## #has_/text_of_/abstract  
 
-> **Canada** is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the world's second-largest country by total area, with the world's longest coastline. Its border with the United States is the world's longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. It is a sparsely inhabited country of 40 million people, the vast majority residing south of the 55th parallel in urban areas. Canada's capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.
+> **Canada** is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the world's second-largest country by total area, with the world's longest coastline. Its border with the United States is the world's longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. It is a sparsely inhabited country of 40 million people, the vast majority residing south of the 55th parallel in urban areas. Canada's capital is [[Canada/provinces~Canada/Ontario/City/Ottawa|Ottawa]] and its three largest metropolitan areas are [[Canada/provinces~Canada/Ontario/City/Toronto|Toronto]], [[Canada/provinces~Canada/Quebec,Province/City/Montreal|Montreal]], and [[Canada/provinces~Canada/British_Columbia/City/Vancouver|Vancouver]].
 >
 > Indigenous peoples have continuously inhabited what is now Canada for thousands of years. Beginning in the 16th century, British and French expeditions explored and later settled along the Atlantic coast. As a consequence of various armed conflicts, France ceded nearly all of its colonies in North America in 1763. In 1867, with the union of three British North American colonies through Confederation, Canada was formed as a federal dominion of four provinces. This began an accretion of provinces and territories and a process of increasing autonomy from the United Kingdom, highlighted by the Statute of Westminster, 1931, and culminating in the Canada Act 1982, which severed the vestiges of legal dependence on the Parliament of the United Kingdom.
 >
@@ -78,11 +78,40 @@ into a Subfolder named `Canada`, so that this Link into the Sub-Repository works
 > [Wikipedia](https://en.wikipedia.org/wiki/Canada)
 
 
+## Major Canadian Cities 
+
+
+| City                                                                       | Province                                                       | Population (2021) |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------- |
+| [[Canada/provinces~Canada/Ontario/City/Toronto\|Toronto]]                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 2,794,356         |
+| [[Canada/provinces~Canada/Quebec,Province/City/Montreal\|Montreal]]        | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            | 1,762,949         |
+| [[Canada/provinces~Canada/Alberta/City/Calgary\|Calgary]]                  | [[Canada/provinces~Canada/Alberta\|Alberta]]                   | 1,306,784         |
+| [[Canada/provinces~Canada/Ontario/City/Ottawa\|Ottawa]]                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 1,017,449         |
+| [[Canada/provinces~Canada/Alberta/City/Edmonton\|Edmonton]]                | [[Canada/provinces~Canada/Alberta\|Alberta]]                   | 1,010,899         |
+| [[Canada/provinces~Canada/Manitoba/City/Winnipeg\|Winnipeg]]               | [[Canada/provinces~Canada/Manitoba\|Manitoba]]                 | 749,607           |
+| Mississauga                                                                | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 717,961           |
+| [[Canada/provinces~Canada/British_Columbia/City/Vancouver\|Vancouver]]     | [[Canada/provinces~Canada/British_Columbia\|British Columbia]] | 662,248           |
+| Brampton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 656,480           |
+| Hamilton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 569,353           |
+| Surrey                                                                     | [[Canada/provinces~Canada/British_Columbia\|British Columbia]] | 568,322           |
+| [[Canada/provinces~Canada/Quebec,Province/City/Quebeck,City\|Québec City]] | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            | 549,459           |
+| Laval                                                                      | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            | 438,366           |
+| [[Canada/provinces~Canada/Ontario/City/London,Ontario\|London,Ontario]]    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 422,324           |
+| Halifax                                                                    | [[Canada/provinces~Canada/Nova_Scotia\|Nova Scotia]]           | 348,634           |
+| Markham                                                                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 338,503           |
+| Vaughan                                                                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 323,103           |
+| Gatineau                                                                   | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            | 291,041           |
+| Saskatoon                                                                  | [[Canada/provinces~Canada/Saskatchewan\|Saskatchewan]]         | 266,141           |
+| Kitchener                                                                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 256,885           |
+
+
 ## Maps and Flags 
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Canada/Coat_of_arms_of_Canada.svg|250]]<img src="./Canada/Coat_of_arms_of_Canada.svg" width=250/> 
+#has_/image_for_/coat_of_arms :: ![[./Canada/Coat_of_arms_of_Canada.svg|250]]<img src="./Canada/Coat_of_arms_of_Canada.svg" width=250/>
+
+
 
 #has_/sound_of_/anthem :: ![[Anthem-Canada.mp3]] 
 

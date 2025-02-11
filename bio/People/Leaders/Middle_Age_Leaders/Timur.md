@@ -1,0 +1,100 @@
+---
+aliases:
+  - Timur
+  - Tamerlane
+has_id_wikidata: Q8462
+noble title:
+  - "[[_Standards/WikiData/WD~Amir,166382]]"
+  - "[[_Standards/WikiData/WD~Bey,181217]]"
+  - "[[_Standards/WikiData/WD~Mirza,12269708]]"
+position held: "[[_Standards/WikiData/WD~Amir,166382]]"
+has works in the collection: "[[_Standards/WikiData/WD~Archives nationales,182542]]"
+allegiance:
+  - "[[_Standards/WikiData/WD~khagan,187878]]"
+  - "[[_Standards/WikiData/WD~Mirza,12269708]]"
+military or police rank:
+  - "[[_Standards/WikiData/WD~khagan,187878]]"
+  - "[[_Standards/WikiData/WD~Baig,3683091]]"
+  - "[[_Standards/WikiData/WD~Mirza,12269708]]"
+religion or worldview: "[[_Standards/WikiData/WD~Sunni Islam,483654]]"
+time period: "[[_Standards/WikiData/WD~Timurid Empire,484195]]"
+child:
+  - "[[_Standards/WikiData/WD~Shah Rukh,553204]]"
+  - "[[_Standards/WikiData/WD~Miran Shah,936616]]"
+  - "[[_Standards/WikiData/WD~Jahangir Mirza ibn Timur,4139069]]"
+  - "[[_Standards/WikiData/WD~Aka Begi,4449521]]"
+  - "[[_Standards/WikiData/WD~Umar Shaikh,4475316]]"
+  - "[[_Standards/WikiData/WD~Jahanshah Mirza,131823659]]"
+place of birth: "[[_Standards/WikiData/WD~Shahrisabz,569766]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~New History of Yuan,1053256]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+spouse:
+  - "[[_Standards/WikiData/WD~Saray Malik Katun,734418]]"
+  - "[[_Standards/WikiData/WD~Uljay-Turkan aga,4474916]]"
+  - "[[_Standards/WikiData/WD~Dilshad aga,12821413]]"
+  - "[[_Standards/WikiData/WD~Cholpan-Mulk Aga,25525265]]"
+place of death: "[[_Standards/WikiData/WD~Otrar,956911]]"
+occupation: "[[_Standards/WikiData/WD~warrior,1250916]]"
+place of burial: "[[_Standards/WikiData/WD~Gur-e Amir,1256223]]"
+replaced by: "[[_Standards/WikiData/WD~Khalil Sultan,1367188]]"
+"languages spoken, written or signed":
+  - "[[_Standards/WikiData/WD~Middle Mongolian,2582455]]"
+  - "[[_Standards/WikiData/WD~Persian,9168]]"
+  - "[[_Standards/WikiData/WD~Chagatai,36831]]"
+medical condition: "[[_Standards/WikiData/WD~limp,2909116]]"
+father: "[[_Standards/WikiData/WD~Taraghai,3515578]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Gur-e%20Amir%20-%20Inside%20views%20994%20Tombs.JPG
+Iconclass notation: 82A(TAMBURLAINE)
+BHCL UUID: c6006258-bb69-417d-89be-6cf3fd95146f
+Krugosvet article: istoriya/TIMUR.html
+Commons gallery: Tamerlan
+Libris-URI: xv8bf2kg2m0d860
+given name: "[[_Standards/WikiData/WD~Timur,12376986]]"
+family: "[[_Standards/WikiData/WD~Timurid dynasty,20737645]]"
+mother: "[[_Standards/WikiData/WD~Tekina Khatun,108091442]]"
+participant in: "[[_Standards/WikiData/WD~Timur's Counter Siege,118957290]]"
+date of birth:
+  - 1336-04-17T00:00:00Z
+  - 1336-04-16T00:00:00Z
+Provenio UUID: 77af2203-ef68-427c-9f46-71a0f810a36f
+ISNI: 000000012136280X
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Timur%20seated%20%28earliest%20known%20portrait%29%2C%20Timurid%20genealogy%2C%201405-1409%2C%20Samarkand%20%28TSMK%2C%20H2152%29.jpg
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+height: 1.72
+date of death:
+  - 1405-02-28T00:00:00Z
+  - 1405-02-27T00:00:00Z
+Commons category: Timur
+Commons Creator page: Timur
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Timur**, also known as Tamerlane (1320s – 17–18 February 1405), 
+> was a Turco-Mongol conqueror who founded the Timurid Empire 
+> in and around modern-day Afghanistan, Iran, and Central Asia, 
+> becoming the first ruler of the Timurid dynasty. 
+> 
+> An undefeated commander, 
+> he is widely regarded as one of the greatest military leaders and tacticians in history, 
+> as well as one of the most brutal and deadly. 
+> Timur is also considered a great patron of art and architecture, for he interacted with intellectuals such as Ibn Khaldun, Hafez, and Hafiz-i Abru and his reign introduced the Timurid Renaissance.
+>
+> Born into the Turkicized Mongol confederation of the Barlas in Transoxiana (in modern-day Uzbekistan) in the 1320s, Timur gained control of the western Chagatai Khanate by 1370. From that base he led military campaigns across Western, South, and Central Asia, the Caucasus, and Southern Russia, defeating in the process the Khans of the Golden Horde, the Mamluks of Egypt and Syria, the emerging Ottoman Empire, as well as the late Delhi Sultanate of India, becoming the most powerful ruler in the Muslim world. From these conquests he founded the Timurid Empire, which fragmented shortly after his death. He spoke several languages, including Chagatai, an ancestor of modern Uzbek, as well as Mongolic and Persian, in which he wrote diplomatic correspondence.
+>
+> Timur was the last of the major nomadic conquerors of the Eurasian Steppe, and his empire set the stage for the rise of the more structured and lasting Islamic gunpowder empires in the 16th and 17th centuries. Timur was of both Turkic and Mongol descent, and, while probably not a direct descendant on either side, he shared a common ancestor with Genghis Khan on his father's side, though some authors have suggested his mother may have been a descendant of the Khan. He clearly sought to invoke the legacy of Genghis Khan's conquests during his lifetime. Timur envisioned the restoration of the Mongol Empire and according to Gérard Chaliand, saw himself as Genghis Khan's heir.
+>
+> To legitimize his conquests, Timur relied on Islamic symbols and language, referring to himself as the "Sword of Islam". He was a patron of educational and religious institutions. He styled himself as a ghazi in the last years of his life. By the end of his reign, Timur had gained complete control over all the remnants of the Chagatai Khanate, the Ilkhanate, and the Golden Horde, and had even attempted to restore the Yuan dynasty in China. Timur's armies were inclusively multi-ethnic and were feared throughout Asia, Africa, and Europe, sizable parts of which his campaigns laid waste. Scholars estimate that his military campaigns caused the deaths of millions of people. Of all the areas he conquered, Khwarazm suffered the most from his expeditions, as it rose several times against him. Timur's campaigns have been characterized as genocidal. 
+>
+> He was the grandfather of the Timurid sultan, astronomer and mathematician Ulugh Beg, who ruled Central Asia from 1411 to 1449, and the great-great-great-grandfather of Babur (1483–1530), founder of the Mughal Empire.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Timur)
+

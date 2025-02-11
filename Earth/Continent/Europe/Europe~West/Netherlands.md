@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 52.1525
     - 5.386944
@@ -144,6 +144,21 @@ Capital :: [[Amsterdam]]
 #is_a_ :: [[Place]] 
 [has_place_longitude::5.08828]
 [has_place_latitude::51.9757]
+
+## Major Cities 
+
+| City                                                                                                                        | Province                                                                     | Pop@2024 |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------- |
+| [[Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam\|Amsterdam]]                                               | [[Netherlands/Provinces~Netherlands/Noord-Holland\|North Holland]]           | 933,680  |
+| [[Netherlands/Provinces~Netherlands/Zuid-Holland/City/Rotterdam\|Rotterdam]]                                                | [[Netherlands/Provinces~Netherlands/Zuid-Holland\|South Holland]]            | 655,468  |
+| [[Netherlands/City/Den_Haag\|Den_Haag]]                                                                                     | [[Netherlands/Provinces~Netherlands/Zuid-Holland\|South Holland]]            | 538,000  |
+| [[Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City\|Utrecht]]                | [[Netherlands/Provinces~Netherlands/Utrecht,Province\|Utrecht,Province]]     | 375,161  |
+| [[Eindhoven]]                                                                                                               | [[Netherlands/Provinces~Netherlands/Noord-Brabant\|North Brabant]]           | 246,443  |
+| [[Netherlands/Provinces~Netherlands/Noord-Brabant/City/Tilburg\|Tilburg]]                                                   | [[Netherlands/Provinces~Netherlands/Noord-Brabant\|North Brabant]]           | 217,595  |
+| [[Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City\|Groningen,City]] | [[Netherlands/Provinces~Netherlands/Groningen,Province\|Groningen,Province]] | 233,218  |
+| [[Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere\|Almere]]                                           | [[Netherlands/Provinces~Netherlands/Flevoland\|Flevoland]]                   | 216,000  |
+| [[Netherlands/Provinces~Netherlands/Noord-Brabant/City/Breda\|Breda]]                                                       | [[Netherlands/Provinces~Netherlands/Noord-Brabant\|North Brabant]]           | 184,000  |
+
 
 
 

@@ -100,7 +100,7 @@ RTECS number: MG4600000
 > A lustrous, silvery gray, tetravalent transition metal, hafnium chemically resembles zirconium 
 > and is found in many zirconium minerals. 
 > 
-> Its existence was predicted by [[../../Chemist/Dmitri Mendeleev]] in 1869, 
+> Its existence was predicted by [[../../../bio/People/Scientists/Modern_Scientists/Mendeleev,Dmitri]] in 1869, 
 > though it was not identified until 1922, by Dirk Coster and George de Hevesy. 
 > Hafnium is named after Hafnia, the Latin name for Copenhagen, where it was discovered.
 >

@@ -1,4 +1,4 @@
-﻿---
+---
 title: France
 linkTitle: 
 type: Country
@@ -68,6 +68,24 @@ into a Subfolder named `France`, so that this Link into the Sub-Repository works
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./France/Flag_of_France.svg|200]] <img src="./France/Flag_of_France.svg" width="200"/> 
+
+Population in 1000s as of @2019
+
+| City                                                                                                                                                               | Region                                                                           |  Pop/k |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | --------: |
+| [[France/regions~France/Île-de-France/departments~Île-de-France/Paris\|Paris]]                                                                                     | [[France/regions~France/Île-de-France\|Île-de-France]]                           | 2165.423 |
+| [[France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille\|Marseille]]          | [[France/regions~France/Provence-Alpes-Côte_d'Azur\|Provence-Alpes-Côte_d'Azur]] |  870.731 |
+| [[France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon\|Lyon]]                                   | [[France/regions~France/Auvergne-Rhône-Alpes\|Auvergne-Rhône-Alpes]]             |  522.969 |
+| [[France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse\|Toulouse]]                         | [[France/regions~France/Occitanie\|Occitanie]]                                   |  493.465 |
+| [[France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Nice,Cité\|Nice,Cité]]   | [[France/regions~France/Provence-Alpes-Côte_d'Azur\|Provence-Alpes-Côte_d'Azur]] |  342.669 |
+| [[France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes\|Nantes]]             | [[France/regions~France/Pays_de_la_Loire\|Pays_de_la_Loire]]                     |  318.808 |
+| [[France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier\|Montpellier]]                         | [[France/regions~France/Occitanie\|Occitanie]]                                   |  295.542 |
+| [[France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass\|Strasbourg~Elsass]] | [[France/regions~France/Grand_Est\|Grand_Est]]                                   |  287.228 |
+| [[France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux/cities~Bordeaux/Bordeaux\|Bordeaux]]                            | [[France/regions~France/Nouvelle-Aquitaine\|Nouvelle-Aquitaine]]                 |  260.958 |
+|                                                                                                                                                                    |                                                                                  |          |
+
+
+
 
 ## #has_/text_of_/abstract  
 

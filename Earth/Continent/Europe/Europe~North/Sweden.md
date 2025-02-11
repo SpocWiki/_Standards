@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 59.7646
     - 16.5434
@@ -115,9 +115,6 @@ Sub-region_Name ::  [[Northern Europe]]
 
 ## #has_/map  
 
-
-
-
 ```leaflet
 id: Sweden
 zoomFeatures: true 
@@ -143,8 +140,23 @@ Capital :: [[./Sweden/Counties/Stockholm]]
 [Language-Id::]
 #is_a_/Place  
 #is_a_ :: [[Place]] 
-[has_place_longitude::16.5434]
-[has_place_latitude::59.7646]
+[has_place_longitude::16.5434] 
+[has_place_latitude::59.7646] 
+
+
+## Major Cities 
+
+| City                                                                                                              | County                                                                                               |   Pop/k |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------: |
+| [[Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County/Stockholm,City\|Stockholm,City]] | [[Sweden/Provinces~Sweden/Stockholm,Province/counties~Stockholm/Stockholm,County\|Stockholm,County]] | 988.943 |
+| [[Gothenburg]]                                                                                                    | [[Sweden/Provinces~Sweden/Västra_Götaland\|Västra_Götaland]]                                         | 604.616 |
+| [[Sweden/Provinces~Sweden/Skåne/counties~Skåne/Malmö,County/Malmö,City\|Malmoe]]                                  | [[Sweden/Provinces~Sweden/Skåne\|Skåne]]                                                             | 362.133 |
+| [[Sweden/Provinces~Sweden/Uppsala,Province/counties~Uppsala/Uppsala,County/Uppsala,City\|Uppsala,City]]           | [[Sweden/Provinces~Sweden/Uppsala,Province\|Uppsala,Province]]                                       | 245.329 |
+| [[Sweden/Provinces~Sweden/Östergötland/counties~Östergötland/Linköping,County/Linköping\|Linköping]]              | [[Sweden/Provinces~Sweden/Östergötland\|Östergötland]]                                               | 167.404 |
+| [[Västerås]]                                                                                                      | [[Sweden/Provinces~Sweden/Västmanland\|Västmanland]]                                                 | 159.662 |
+| [[Sweden/Provinces~Sweden/Örebro,Province/counties~Orebro/Örebro,County/Örebro,City\|Örebro,City]]                | [[Sweden/Provinces~Sweden/Örebro,Province\|Örebro,Province]]                                         | 159.348 |
+| [[Sweden/Provinces~Sweden/Skåne/counties~Skåne/Helsingborg/Helsingborg,City\|Helsingborg]]                        | [[Sweden/Provinces~Sweden/Skåne\|Skåne]]                                                             | 151.306 |
+| [[Sweden/Provinces~Sweden/Jönköping,Province/counties~Jönköping/Jönköping-county/Jönköping,City\|Jönköping,City]] | [[Sweden/Provinces~Sweden/Jönköping,Province\|Jönköping,Province]]                                   | 146.161 |
 
 
 

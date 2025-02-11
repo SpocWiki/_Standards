@@ -1,0 +1,166 @@
+---
+aliases:
+  - Walt Disney
+  - Walter Elias Disney
+has_id_wikidata: Q8704
+BHCL UUID: 748fb790-6d94-4c82-aae1-0e0110d9fdaf
+Europeana entity: agent/base/146949
+pseudonym: Disney, Walter Elias
+Krugosvet article: kultura_i_obrazovanie/teatr_i_kino/DISNE_UOLT.html
+Libris-URI: qn258d981jh64pf
+birth name: Walter Elias Disney
+occupation:
+  - "[[_Standards/WikiData/WD~film actor,10800557]]"
+  - "[[_Standards/WikiData/WD~manufacturer,13235160]]"
+  - "[[_Standards/WikiData/WD~producer,47541952]]"
+  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
+  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - "[[_Standards/WikiData/WD~inventor,205375]]"
+  - "[[_Standards/WikiData/WD~animator,266569]]"
+  - "[[_Standards/WikiData/WD~illustrator,644687]]"
+  - "[[_Standards/WikiData/WD~television presenter,947873]]"
+  - "[[_Standards/WikiData/WD~painter,1028181]]"
+  - "[[_Standards/WikiData/WD~voice actor,2405480]]"
+  - "[[_Standards/WikiData/WD~film director,2526255]]"
+  - "[[_Standards/WikiData/WD~film producer,3282637]]"
+  - "[[_Standards/WikiData/WD~director,3455803]]"
+  - "[[_Standards/WikiData/WD~caricaturist,3658608]]"
+award received:
+  - "[[_Standards/WikiData/WD~Knight of the Legion of Honour,10855271]]"
+  - "[[_Standards/WikiData/WD~Officer's Cross of the Order of Merit of the Federal Republic of Germany,10905334]]"
+  - "[[_Standards/WikiData/WD~star on Hollywood Walk of Fame,17985761]]"
+  - "[[_Standards/WikiData/WD~Grand Decoration of Honour for Services to the Republic of Austria,18524008]]"
+  - "[[_Standards/WikiData/WD~Progress Medal,19946827]]"
+  - "[[_Standards/WikiData/WD~Primetime Emmy Award for Best Producer for a Film Series,27159818]]"
+  - "[[_Standards/WikiData/WD~Audubon Medal,47009634]]"
+  - "[[_Standards/WikiData/WD~Presidential Medal of Freedom,17144]]"
+  - "[[_Standards/WikiData/WD~Order of the Southern Cross,93713]]"
+  - "[[_Standards/WikiData/WD~Order of the Aztec Eagle,93956]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Documentary Feature Film,111332]]"
+  - "[[_Standards/WikiData/WD~Golden Bear,154590]]"
+  - "[[_Standards/WikiData/WD~Congressional Gold Medal,721743]]"
+  - "[[_Standards/WikiData/WD~Honorary César,727282]]"
+  - "[[_Standards/WikiData/WD~Academy Honorary Award,727328]]"
+  - "[[_Standards/WikiData/WD~Irving G. Thalberg Memorial Award,844273]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Animated Short Film,917808]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Live Action Short Film,1324407]]"
+  - "[[_Standards/WikiData/WD~National Inventors Hall of Fame,1366018]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Short Subject, Two-reel,1401974]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Documentary (Short Subject),1425151]]"
+  - "[[_Standards/WikiData/WD~Order of the Crown of Thailand,2028885]]"
+  - "[[_Standards/WikiData/WD~American Choreography Awards,4743376]]"
+  - "[[_Standards/WikiData/WD~California Hall of Fame,5020532]]"
+  - "[[_Standards/WikiData/WD~Grammy Trustees Award,5593916]]"
+  - "[[_Standards/WikiData/WD~Winsor McCay Award,8025998]]"
+given name:
+  - "[[_Standards/WikiData/WD~Elias,11878157]]"
+  - "[[_Standards/WikiData/WD~Walt,19825039]]"
+  - "[[_Standards/WikiData/WD~Walter,499249]]"
+child: "[[_Standards/WikiData/WD~Diane Disney Miller,14264308]]"
+educated at:
+  - "[[_Standards/WikiData/WD~Central High School,14693524]]"
+  - "[[_Standards/WikiData/WD~McKinley High School,48976907]]"
+  - "[[_Standards/WikiData/WD~Kansas City Art Institute,6364655]]"
+has works in the collection:
+  - "[[_Standards/WikiData/WD~Harvard Film Archive,14715515]]"
+  - "[[_Standards/WikiData/WD~Museum of Modern Art,188740]]"
+  - "[[_Standards/WikiData/WD~Centraal Museum,260913]]"
+  - "[[_Standards/WikiData/WD~Cleveland Museum of Art,657415]]"
+  - "[[_Standards/WikiData/WD~The Nelson-Atkins Museum of Art,1976985]]"
+  - "[[_Standards/WikiData/WD~Princeton University Art Museum,2603905]]"
+  - "[[_Standards/WikiData/WD~Auckland Art Gallery Toi o Tāmaki,4819492]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Iedereen Leest,41981607]]"
+  - "[[_Standards/WikiData/WD~Billy Ireland Cartoon Library & Museum biographical files,58488719]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+family name: "[[_Standards/WikiData/WD~Disney,28651459]]"
+documentation files at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
+copyright status as a creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
+artist files at:
+  - "[[_Standards/WikiData/WD~Smithsonian American Art and Portrait Gallery Library,98665879]]"
+  - "[[_Standards/WikiData/WD~Frick Art Research Library,5503390]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~Iedereen Leest,101246526]]"
+on focus list of Wikimedia project:
+  - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
+  - "[[_Standards/WikiData/WD~Harvard Film Archive Project,111249030]]"
+  - "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
+described at URL: https://missouriartists.org/Person/MOREM101/
+ISNI: "0000000121280724"
+residence:
+  - "[[_Standards/WikiData/WD~Chicago,1297]]"
+  - "[[_Standards/WikiData/WD~Los Angeles,65]]"
+  - "[[_Standards/WikiData/WD~Kansas City,41819]]"
+  - "[[_Standards/WikiData/WD~Marceline,947880]]"
+place of birth: "[[_Standards/WikiData/WD~Chicago,1297]]"
+"languages spoken, written or signed":
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~American English,7976]]"
+writing language: "[[_Standards/WikiData/WD~American English,7976]]"
+native language: "[[_Standards/WikiData/WD~American English,7976]]"
+notable work: "[[_Standards/WikiData/WD~Mickey Mouse,11934]]"
+member of political party:
+  - "[[_Standards/WikiData/WD~Republican Party,29468]]"
+  - "[[_Standards/WikiData/WD~Democratic Party,29552]]"
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+country of citizenship: "[[_Standards/WikiData/WD~United States,30]]"
+number of children: 2
+place of death: "[[_Standards/WikiData/WD~Burbank,39561]]"
+medical condition:
+  - "[[_Standards/WikiData/WD~lung cancer,47912]]"
+  - "[[_Standards/WikiData/WD~dyslexia,132971]]"
+nominated for:
+  - "[[_Standards/WikiData/WD~Academy Award for Best Picture,102427]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Documentary Feature Film,111332]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Animated Short Film,917808]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Live Action Short Film,1324407]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Short Subject, Two-reel,1401974]]"
+  - "[[_Standards/WikiData/WD~Academy Award for Best Documentary (Short Subject),1425151]]"
+genre:
+  - "[[_Standards/WikiData/WD~animated film,202866]]"
+  - "[[_Standards/WikiData/WD~family film,1361932]]"
+sibling: "[[_Standards/WikiData/WD~Roy O. Disney,347432]]"
+spouse: "[[_Standards/WikiData/WD~Lillian Disney,434814]]"
+date of birth: 1901-12-05T00:00:00Z
+religion or worldview: "[[_Standards/WikiData/WD~Congregational churches,1062789]]"
+field of work: "[[_Standards/WikiData/WD~young adult literature,1233720]]"
+place of burial: "[[_Standards/WikiData/WD~Forest Lawn Memorial Park,1437214]]"
+family: "[[_Standards/WikiData/WD~Disney family,3065101]]"
+filmography: "[[_Standards/WikiData/WD~Walt Disney filmography,3072145]]"
+manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+cause of death: "[[_Standards/WikiData/WD~circulatory collapse,5121708]]"
+father: "[[_Standards/WikiData/WD~Elias Disney,5251625]]"
+mother: "[[_Standards/WikiData/WD~Flora Call Disney,5460283]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG
+image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%20Grave.JPG
+NLC authorities: "000129345"
+work period (start): 1920-01-01T00:00:00Z
+ArhivX LOD: "7035"
+name in native language: Walt Disney
+date of death: 1966-12-15T00:00:00Z
+work period (end): 1966-11-01T00:00:00Z
+Commons gallery: Walt Disney
+Commons category: Walt Disney
+Commons Creator page: Walt Disney
+U.S. National Archives Identifier: "10580368"
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201942%20signature.svg
+---
+
+
+## #has_/text_of_/abstract 
+
+> Walter Elias Disney ( DIZ-nee; December 5, 1901 – December 15, 1966) 
+> was an American animator, film producer, voice actor, and entrepreneur. 
+> 
+> A pioneer of the American animation industry, he introduced several developments in the production of cartoons. As a film producer, he holds the record for most Academy Awards earned (22) and nominations (59) by an individual. He was presented with two Golden Globe Special Achievement Awards and an Emmy Award, among other honors. Several of his films are included in the National Film Registry by the Library of Congress and have also been named as some of the greatest films ever by the American Film Institute.
+>
+> Born in Chicago in 1901, Disney developed an early interest in drawing. He took art classes as a boy and took a job as a commercial illustrator at the age of 18. He moved to California in the early 1920s and set up the Disney Brothers Studio (now the **Walt Disney** Company) with his brother Roy. With Ub Iwerks, he developed the character Mickey Mouse in 1928, his first highly popular success; he also provided the voice for his creation in the early years. As the studio grew, he became more adventurous, introducing synchronized sound, full-color three-strip Technicolor, feature-length cartoons and technical developments in cameras. The results, seen in features such as Snow White and the Seven Dwarfs (1937), Pinocchio, Fantasia (both 1940), Dumbo (1941), and Bambi (1942), furthered the development of animated film. New animated and live-action films followed after World War II, including the critically successful Cinderella (1950), Sleeping Beauty (1959) and Mary Poppins (1964), the last of which received five Academy Awards.
+>
+> In the 1950s, Disney expanded into the theme park industry, and in July 1955 he opened Disneyland in Anaheim, California. To fund the project he diversified into television programs, such as Walt Disney's Disneyland and The Mickey Mouse Club. He was also involved in planning the 1959 Moscow Fair, the 1960 Winter Olympics, and the 1964 New York World's Fair. In 1965, he began development of another theme park, Disney World, the heart of which was to be a new type of city, the "Experimental Prototype Community of Tomorrow" (EPCOT). Disney was a heavy smoker throughout his life and died of lung cancer in 1966 before either the park or the EPCOT project were completed.
+>
+> Disney was a shy, self-deprecating and insecure man in private but adopted a warm and outgoing public persona. He had high standards and high expectations of those with whom he worked. Although there have been accusations that he was racist or antisemitic, they have been contradicted by many who knew him. Historiography of Disney has taken a variety of perspectives, ranging from views of him as a purveyor of homely patriotic values to being a representative of American cultural imperialism. Widely considered to be one of the most influential cultural figures of the 20th century, Disney remains an important presence in the history of animation and in the cultural history of the United States, where he is acknowledged as a national cultural icon. His film work continues to be shown and adapted, the Disney theme parks have grown in size and number around the world and his company has grown to become one of the world's largest mass media and entertainment conglomerates.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Walt%20Disney)
+

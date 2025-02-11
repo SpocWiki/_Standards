@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 40.793
     - 19.9565
@@ -86,6 +86,7 @@ Sub-region_Name ::  [[Southern Europe]]
 [	Sub-region	 :: 39 ]
 
 #has_/id_/wikidata :: Q222 
+#is_/same_as :: [[_Standards/WikiData/WD~Albania,222]] 
 [	Geoname-ID	 :: 783754 ]
 [Unicode :: 🇦🇱] 
 [	FIPS	 :: AL ] 

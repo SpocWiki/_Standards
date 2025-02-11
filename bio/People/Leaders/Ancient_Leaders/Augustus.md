@@ -1,0 +1,175 @@
+---
+aliases:
+  - Gaius Julius Caesar Augustus
+  - Gaius Octavius
+  - Octavian
+has_id_wikidata: Q1405
+place of death: "[[_Standards/WikiData/WD~Nola,72288]]"
+social classification:
+  - "[[_Standards/WikiData/WD~patricii,154668]]"
+  - "[[_Standards/WikiData/WD~nobiles,1001045]]"
+relative:
+  - "[[_Standards/WikiData/WD~Nero Claudius Drusus,156778]]"
+  - "[[_Standards/WikiData/WD~Julia Minor,241143]]"
+  - "[[_Standards/WikiData/WD~Marcellus,315492]]"
+  - "[[_Standards/WikiData/WD~Cornelia,2530944]]"
+  - "[[_Standards/WikiData/WD~Julius Caesar,1048]]"
+  - "[[_Standards/WikiData/WD~Tiberius,1407]]"
+has works in the collection: "[[_Standards/WikiData/WD~Vatican Museums,182955]]"
+position held:
+  - "[[_Standards/WikiData/WD~Roman censor,189851]]"
+  - "[[_Standards/WikiData/WD~tribune,190401]]"
+  - "[[_Standards/WikiData/WD~pontifex maximus,212943]]"
+  - "[[_Standards/WikiData/WD~Roman emperor,842606]]"
+  - "[[_Standards/WikiData/WD~moneyer,1861571]]"
+  - "[[_Standards/WikiData/WD~ancient Roman senator,20056508]]"
+  - "[[_Standards/WikiData/WD~triumvir rei publicae constituendae,80604738]]"
+  - "[[_Standards/WikiData/WD~Roman consul,40779]]"
+time period: "[[_Standards/WikiData/WD~Julio-Claudian dynasty,192841]]"
+family:
+  - "[[_Standards/WikiData/WD~Julio-Claudian dynasty,192841]]"
+  - "[[_Standards/WikiData/WD~Julii Caesares,3268376]]"
+  - "[[_Standards/WikiData/WD~Octavii Rufi,105335230]]"
+noble title: "[[_Standards/WikiData/WD~Augustus,211804]]"
+sibling:
+  - "[[_Standards/WikiData/WD~Octavia the Younger,229483]]"
+  - "[[_Standards/WikiData/WD~Octavia the Elder,517380]]"
+mother: "[[_Standards/WikiData/WD~Atia,231696]]"
+spouse:
+  - "[[_Standards/WikiData/WD~Scribonia,233444]]"
+  - "[[_Standards/WikiData/WD~Claudia,237618]]"
+  - "[[_Standards/WikiData/WD~Livia,469701]]"
+child:
+  - "[[_Standards/WikiData/WD~Gaius Caesar,298162]]"
+  - "[[_Standards/WikiData/WD~Lucius Caesar,313735]]"
+  - "[[_Standards/WikiData/WD~Agrippa Postumus,325906]]"
+  - "[[_Standards/WikiData/WD~Tiberius,1407]]"
+  - "[[_Standards/WikiData/WD~Julia the Elder,2259]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Church Encyclopedia,9253865]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~The religious procession of the Ara Pacis Augustae_ Augustus' supplicatio in 13 B.C,45748207]]"
+  - "[[_Standards/WikiData/WD~Dictionary of African Biography,46002746]]"
+  - "[[_Standards/WikiData/WD~Paisajes epigráficos en la Provincia Hispania Citerior en época de Augusto,52220389]]"
+  - "[[_Standards/WikiData/WD~Placing paniskoi herms within Augustan propaganda at Pompeii,55079751]]"
+  - "[[_Standards/WikiData/WD~Imagining the kingdom_ mission and theology in early Christianity,55274523]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+religion or worldview: "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
+father:
+  - "[[_Standards/WikiData/WD~Gaius Octavius,363084]]"
+  - "[[_Standards/WikiData/WD~Julius Caesar,1048]]"
+gens:
+  - "[[_Standards/WikiData/WD~Julia gens,510193]]"
+  - "[[_Standards/WikiData/WD~Octavia gens,1759265]]"
+stepparent: "[[_Standards/WikiData/WD~Lucius Marcius Philippus,707738]]"
+honorific prefix: "[[_Standards/WikiData/WD~imperator,725434]]"
+military or police rank: "[[_Standards/WikiData/WD~imperator,725434]]"
+place of burial: "[[_Standards/WikiData/WD~Mausoleum of Augustus,770847]]"
+occupation:
+  - "[[_Standards/WikiData/WD~Roman emperor,842606]]"
+  - "[[_Standards/WikiData/WD~Ancient Roman politician,97667506]]"
+  - "[[_Standards/WikiData/WD~ancient Roman military personnel,98103687]]"
+honorific suffix: "[[_Standards/WikiData/WD~Pater Patriae,928994]]"
+cognomen:
+  - "[[_Standards/WikiData/WD~Caesar,1025414]]"
+  - "[[_Standards/WikiData/WD~Caepias,11916404]]"
+  - "[[_Standards/WikiData/WD~Thurinus,100889669]]"
+epithet:
+  - "[[_Standards/WikiData/WD~Divus,1231627]]"
+  - "[[_Standards/WikiData/WD~Divi Filius,5283988]]"
+member of Roman tribe:
+  - "[[_Standards/WikiData/WD~Fabia,3538791]]"
+  - http://www.wikidata.org/.well-known/genid/a38e254d6b627c55b8db76c46675c4b8
+manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+praenomen: "[[_Standards/WikiData/WD~Gaius,5517401]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+nomen gentilicium:
+  - "[[_Standards/WikiData/WD~Julius,29871072]]"
+  - "[[_Standards/WikiData/WD~Octavius,32979324]]"
+copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+unmarried partner:
+  - "[[_Standards/WikiData/WD~Sarmentus,94739642]]"
+  - "[[_Standards/WikiData/WD~Salvia Titisenia,112244204]]"
+agnomen: "[[_Standards/WikiData/WD~Octavianus,100980082]]"
+depicted by:
+  - "[[_Standards/WikiData/WD~Portrait of the Emperor Augustus as Pontifex Maximus,125809610]]"
+  - "[[_Standards/WikiData/WD~Veiled head of emperor August,126192131]]"
+  - "[[_Standards/WikiData/WD~Bronze statue of Augustus in Sant'Apollinare in Classe,126215102]]"
+  - "[[_Standards/WikiData/WD~Statue of Augustus,126287795]]"
+  - "[[_Standards/WikiData/WD~Statue of Augustus on Monte Solaro,126287912]]"
+said to be the same as: "[[_Standards/WikiData/WD~Octavian,129571493]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Augustus%20of%20Prima%20Porta%20%28inv.%202290%29.jpg
+Library of Congress Classification: DG279
+ISNI: "0000000121227317"
+name in native language: Imperator Caesar Divi filius Augustus
+date of birth: -0062-09-21T00:00:00Z
+writing language: "[[_Standards/WikiData/WD~Latin,397]]"
+"languages spoken, written or signed": "[[_Standards/WikiData/WD~Latin,397]]"
+present in work: "[[_Standards/WikiData/WD~Civilization V,2385]]"
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+place of birth: "[[_Standards/WikiData/WD~Rome,220]]"
+Commons gallery: Augustus
+Commons category: Augustus
+Stadtwiki Dresden article: Augustus
+Royal Academy new identifier: augustus
+BHCL UUID: 92f18b2a-35bb-4817-b54d-5e6256e3fe16
+EAGLE id: dates/lod/136
+Libris-URI: gdsvvhw04l6fnhb
+Krugosvet article: istoriya/AVGUST.html
+birth name: C. Octavius C.f.
+nickname: Thurinus
+date of death: 0014-08-17T00:00:00Z
+---
+
+
+## #has_/text_of_/abstract 
+
+> Gaius Julius Caesar **Augustus** (born Gaius Octavius; 23 September 63 BC – 19 August AD 14), 
+> also known as Octavian (Latin: Octavianus), was the founder of the Roman Empire. 
+> He reigned as the first Roman emperor from 27 BC until his death in AD 14. 
+> 
+> The reign of Augustus initiated an imperial cult, as well as an era of imperial peace 
+> (the Pax Romana or Pax Augusta) in which the Roman world was largely free of armed conflict. 
+> The Principate system of government was established during his reign 
+> and lasted until the Crisis of the Third Century.
+>
+> Octavian was born into an equestrian branch of the plebeian gens Octavia. 
+> His maternal great-uncle Julius Caesar was assassinated in 44 BC, 
+> and Octavian was named in Caesar's will as his adopted son and heir; 
+> as a result, he inherited Caesar's name, estate, and the loyalty of his legions. 
+> 
+> He, Mark Antony, and Marcus Lepidus formed the Second Triumvirate to defeat the assassins of Caesar. 
+> Following their victory at the Battle of Philippi (42 BC), 
+> the Triumvirate divided the Roman Republic among themselves and ruled as de facto dictators. 
+> The Triumvirate was eventually torn apart by the competing ambitions of its members; 
+> Lepidus was exiled in 36 BC, and Antony was defeated by Octavian at the Battle of Actium in 31 BC. 
+> 
+> Antony and his wife Cleopatra, the Ptolemaic queen of Egypt, 
+> killed themselves during Octavian's invasion of Egypt, which then became a Roman province.
+>
+> After the demise of the Second Triumvirate, Augustus restored the outward facade of the free republic, 
+> with governmental power vested in the Roman Senate, the executive magistrates 
+> and the legislative assemblies, yet he maintained autocratic authority 
+> by having the Senate grant him lifetime tenure as commander-in-chief, tribune and censor. 
+> 
+> A similar ambiguity is seen in his chosen names, the implied rejection of monarchical titles whereby he called himself Princeps Civitatis 'First Citizen' juxtaposed with his adoption of the title Augustus.
+>
+> Augustus dramatically enlarged the empire, annexing Egypt, Dalmatia, Pannonia, Noricum, and Raetia, expanding possessions in Africa, and completing the conquest of Hispania, but he suffered a major setback in Germania. Beyond the frontiers, he secured the empire with a buffer region of client states and made peace with the Parthian Empire through diplomacy. He reformed the Roman system of taxation, developed networks of roads with an official courier system, established a standing army, established the Praetorian Guard as well as official police and fire-fighting services for Rome, and rebuilt much of the city during his reign. Augustus died in AD 14 at age 75, probably from natural causes. Persistent rumors, substantiated somewhat by deaths in the imperial family, have claimed his wife Livia poisoned him. He was succeeded as emperor by his adopted son Tiberius, Livia's son and former husband of Augustus's only biological child, Julia.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Augustus)
+

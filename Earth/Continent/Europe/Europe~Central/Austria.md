@@ -1,4 +1,4 @@
-﻿---
+---
 title: Austria
 linkTitle: 
 type: Country
@@ -73,6 +73,18 @@ into a Subfolder named `Austria`, so that this Link into the Sub-Repository work
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Austria/Flag_of_Austria.svg|200]] <img src="./Austria/Flag_of_Austria.svg" width="200"/> 
+
+## Major Cities 
+
+Population in 1000s as of @2020
+
+| City                                                                                        | Federal State                                    | Pop/k | Notable Attributes                                                        |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----: | ------------------------------------------------------------------------- |
+| [[Austria/State/Wien,State/Wien,City\|Vienna]]                                              | [[Austria/State/Wien,State\|Vienna,State]]       | 1900 | National capital, political, economic, and cultural hub                   |
+| [[Austria/State/Steiermark/City/Graz\|Graz]]                                                | [[Austria/State/Steiermark\|Styria]]             |  330 | Second largest city, academic and economic center                         |
+| [[Austria/State/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City\|Linz,City]] | [[Austria/State/Oberösterreich\|Upper Austria]]  |  210 | Industrial, technological, and innovation center                          |
+| [[Austria/State/Salzburg,State/City/Salzburg,City\|Salzburg]]                               | [[Austria/State/Salzburg,State\|Salzburg,State]] |  155 | Internationally renowned for cultural heritage and tourism                |
+| [[Austria/State/Tirol/City/Innsbruck\|Innsbruck]]                                           | [[Austria/State/Tirol\|Tyrol]]                   |  130 | Key center for winter sports and tourism with significant economic impact |
 
 ## #has_/text_of_/abstract  
 
@@ -223,7 +235,7 @@ Sub-region_Name ::  [[Western Europe]]
 [Area-Land::82730]
 has_place_continent:: [[Europe]]  
 [VehicleCode::A]
-Capital ::[[Austria/State/State~Wien/Wien,City]]]  
+Capital ::[[Austria/State/Wien,State/Wien,City]]]  
 
 
 [Alcohol-l::13.2]
