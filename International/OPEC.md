@@ -1,0 +1,151 @@
+---
+aliases:
+  - Organization of the Petroleum Exporting Countries
+  - Organization of Petroleum Exporting Countries
+has_id_wikidata: Q7795
+partnership with: "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
+instance of:
+  - "[[_Standards/WikiData/WD~cartel,179216]]"
+  - "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
+  - "[[_Standards/WikiData/WD~advocacy group,431603]]"
+  - "[[_Standards/WikiData/WD~international organization,484652]]"
+headquarters location: "[[_Standards/WikiData/WD~Innere Stadt,267329]]"
+flag: "[[_Standards/WikiData/WD~flag of OPEC,784526]]"
+industry: "[[_Standards/WikiData/WD~petroleum industry,862571]]"
+country: "[[_Standards/WikiData/WD~internationality,1072012]]"
+owner of: "[[_Standards/WikiData/WD~Deutschmeister-Palais,2046973]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_OPEC,6480901]]"
+position held by head of the organization: "[[_Standards/WikiData/WD~President of OPEC,108861095]]"
+general secretary: "[[_Standards/WikiData/WD~Haitham al-Ghais,110415087]]"
+different from: "[[_Standards/WikiData/WD~OPEC+,121826282]]"
+short name:
+  - אָפּע״ק
+  - 油組
+  - ABEP
+  - 歐佩克
+  - 欧佩克
+  - OPUL
+  - OPEP
+  - OPEP
+  - ОПЕК
+  - АПЕК
+  - OPEC
+  - OPEL
+  - OPEP
+  - LPEE
+  - OPEP
+  - ETOP
+  - OPEP
+  - אופ״ק
+  - ՆԱԵԿ
+  - ONEP
+  - ოპეკი
+  - МЭЕҰ
+  - OPEP
+  - OPEP
+  - ОПЕК
+  - ОПЕК
+  - 油组
+  - 油組
+native label:
+  - 欧佩克
+  - 歐佩克
+  - ОПЕК
+  - OPEK
+  - OPUL
+  - ኦፔክ
+  - OPEP
+  - أوبك
+  - OPEP
+  - ОПЕК
+  - АПЕК
+  - OPEP
+  - ΟΠΕΚ
+  - OPEC
+  - OPEL
+  - OPEP
+  - LPEE
+  - اُپِک
+  - OPEP
+  - ETOP
+  - OPEP
+  - אופ״ק
+  - ओपेक
+  - ՆԱԵԿ
+  - ONEP
+  - ოპეკი
+  - مەيەۇ
+  - МЭЕҰ
+  - MÉEU
+  - ОПЕК
+  - ОПЕК
+  - ОПЕК
+  - OPEP
+  - OPEP
+  - OPEP
+  - ОПЕК
+  - ОПЕК
+  - ОПЕК
+  - اوپیک
+  - אפעק
+  - 油组
+  - 油組
+ISNI:
+  - "0000000123646718"
+  - 000000012365059X
+has part(s):
+  - "[[_Standards/WikiData/WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~Venezuela,717]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Iraq,796]]"
+  - "[[_Standards/WikiData/WD~Kuwait,817]]"
+  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+  - "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+  - "[[_Standards/WikiData/WD~Angola,916]]"
+  - "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+  - "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+  - "[[_Standards/WikiData/WD~Gabon,1000]]"
+  - "[[_Standards/WikiData/WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
+location of formation: "[[_Standards/WikiData/WD~Baghdad,1530]]"
+official language: "[[_Standards/WikiData/WD~Arabic,13955]]"
+"product, material, or service produced or provided": "[[_Standards/WikiData/WD~petroleum,22656]]"
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20OPEC.svg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/OPEC.svg
+logo image: http://commons.wikimedia.org/wiki/Special:FilePath/OPEC%20Logo.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20OPEC-Zentrale%20%28a%29.JPG
+official website: https://www.opec.org
+RIA Novosti reference: "39540188"
+inception: 1960-09-14T00:00:00Z
+Krugosvet article: gumanitarnye_nauki/ekonomika_i_pravo/ORGANIZATSIYA_STRAN-EKSPORTEROV_NEFTI_OPEK_.html
+Commons category: OPEC
+EU Corporate body code: OPEC
+Facebook username: OPECSecretariat
+X (Twitter) username: OPECSecretariat
+social media followers: 68432
+---
+
+
+## #has_/text_of_/abstract 
+
+> The Organization of the Petroleum Exporting Countries (**OPEC**  OH-pek) is a cartel enabling the co-operation of leading oil-producing and oil-dependent countries in order to collectively influence the global oil market and maximize profit. It was founded on 14 September 1960, in Baghdad by the first five members which are Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela. The organization, which currently comprises 12 member countries, accounted for 38 percent of global oil production, according to a 2022 report. Additionally, it is estimated that 79.5 percent of the world's proven oil reserves are located within OPEC nations, with the Middle East alone accounting for 67.2 percent of OPEC's total reserves.
+>
+> In a series of steps in the 1960s and 1970s, OPEC restructured the global system of oil production 
+> in favor of oil-producing states and away from an oligopoly of dominant Anglo-American oil firms 
+> (the "Seven Sisters"). 
+> In the 1970s, restrictions in oil production led to a dramatic rise in oil prices 
+> with long-lasting and far-reaching consequences for the global economy. 
+> 
+> Since the 1980s, OPEC has had a limited impact on world oil-supply and oil-price stability, 
+> as there is frequent cheating by members on their commitments to one another, 
+> and as member commitments reflect what they would do even in the absence of OPEC. 
+>
+> The formation of OPEC marked a turning point toward national sovereignty over natural resources. 
+> OPEC decisions have come to play a prominent role in the global oil-market and in international relations. Economists have characterized OPEC as a textbook example of a cartel
+> (a group whose members cooperate to reduce market competition) 
+> but one whose consultations may be protected by the doctrine of state immunity under international law.
+>
+> Current OPEC members are Algeria, Equatorial Guinea, Gabon, Iran, Iraq, Kuwait, Libya, Nigeria, the Republic of the Congo, Saudi Arabia, the United Arab Emirates and Venezuela. Meanwhile, Angola, Ecuador, Indonesia, and Qatar are former OPEC members. A larger group called OPEC+, consisting of OPEC members plus other oil-producing countries,  formed in late 2016 to exert more control on the global crude-oil market. Canada, Egypt, Norway, and Oman are observer states.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/OPEC)
+

@@ -1,6 +1,10 @@
 ---
 aliases:
   - Raffaello Sanzio da Urbino
+  - Raffael
+  - Raffael da Urbino
+  - Raffaello Santi
+  - Raffaello Sanzio
 has_id_wikidata: Q5597
 has works in the collection:
   - "[[_Standards/WikiData/WD~São Paulo Museum of Art,82941]]"
@@ -117,7 +121,8 @@ has works in the collection:
   - "[[_Standards/WikiData/WD~Isabella Stewart Gardner Museum,49135]]"
   - "[[_Standards/WikiData/WD~Museum of Fine Arts Boston,49133]]"
   - "[[_Standards/WikiData/WD~Uffizi Gallery,51252]]"
-award received: "[[_Standards/WikiData/WD~Order of the Golden Spur,93716]]"
+award received:
+  - "[[_Standards/WikiData/WD~Order of the Golden Spur,93716]]"
 place of burial:
   - "[[_Standards/WikiData/WD~Pantheon,99309]]"
   - "[[_Standards/WikiData/WD~Tomb of Raphael,124048981]]"
@@ -188,7 +193,8 @@ unmarried partner: "[[_Standards/WikiData/WD~Margarita Luti,14798562]]"
 given name:
   - "[[_Standards/WikiData/WD~Rafael,16424000]]"
   - "[[_Standards/WikiData/WD~Raffaello,18186620]]"
-sponsor: "[[_Standards/WikiData/WD~Atalanta Baglioni,21529483]]"
+sponsor:
+  - "[[_Standards/WikiData/WD~Atalanta Baglioni,21529483]]"
 copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 family name: "[[_Standards/WikiData/WD~Sanzio,104067365]]"
 on focus list of Wikimedia project:
@@ -202,7 +208,8 @@ name:
   - Raphaël d’Urbin
   - Raphael of Urbino
   - Raphaël
-ISNI: 000000012136483X
+ISNI:
+  - 000000012136483X
 Provenio UUID: da0174c3-2412-4455-b4e6-7cd379d7ba06
 Krugosvet article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/RAFAEL.html
 Swedish Open Cultural Heritage URI: LSH/agents/26066
@@ -222,7 +229,8 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio
 image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%27s%20grave%20%28Rome%29%20W1.JPG
 BHCL UUID: a8f93af0-9f2a-429a-82e0-8cb2201ee12c
 Europeana entity: agent/base/5
-described at URL: http://www.digiporta.net/index.php?id=113295501
+described at URL:
+  - http://www.digiporta.net/index.php?id=113295501
 "languages spoken, written or signed": "[[_Standards/WikiData/WD~Italian,652]]"
 work location:
   - "[[_Standards/WikiData/WD~Florence,2044]]"
@@ -231,11 +239,13 @@ work location:
   - "[[_Standards/WikiData/WD~Perugia,3437]]"
   - "[[_Standards/WikiData/WD~Rome,220]]"
 place of birth: "[[_Standards/WikiData/WD~Urbino,2759]]"
-religion or worldview: "[[_Standards/WikiData/WD~Catholic Church,9592]]"
+religion or worldview:
+  - "[[_Standards/WikiData/WD~Catholic Church,9592]]"
 country of citizenship: "[[_Standards/WikiData/WD~Holy Roman Empire,12548]]"
 instance of: "[[_Standards/WikiData/WD~human,5]]"
 place of death: "[[_Standards/WikiData/WD~Rome,220]]"
-ethnic group: "[[_Standards/WikiData/WD~Italians,50001]]"
+ethnic group:
+  - "[[_Standards/WikiData/WD~Italians,50001]]"
 ---
 
 #has_/time_/started :: 1483-03-28 

@@ -17,13 +17,13 @@ aliases:
 > A child prodigy, Wiener later became an early researcher in stochastic and mathematical noise processes, 
 > contributing work relevant to electronic engineering, electronic communication, and control systems.
 >
-> Wiener is considered the originator of [[cybernetics]], 
+> Wiener is considered the originator of [[../../../../Knowledge/Psychology.internal/Cybernetics]], 
 > the science of communication as it relates to living things and machines, 
 > with implications for engineering, systems control, computer science, biology, neuroscience, philosophy, 
 > and the organization of society. 
 > 
 > His work heavily influenced computer pioneer [[von_Neumann,John|John von Neumann]], information theorist Claude Shannon, 
-> anthropologists Margaret Mead and [[Psychologist/Bateson,Gregory|Gregory Bateson]], and others.
+> anthropologists Margaret Mead and [[../../../../Knowledge/Psychology.internal/Psychologist/Bateson,Gregory|Gregory Bateson]], and others.
 >
 > Wiener is credited as being one of the first to theorize 
 > that all intelligent behavior was the result of feedback mechanisms, 

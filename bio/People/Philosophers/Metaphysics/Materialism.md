@@ -1,0 +1,36 @@
+---
+has_id_wikidata: Q7081
+part of: "[[_Standards/WikiData/WD~monism,178801]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+facet of:
+  - "[[_Standards/WikiData/WD~social,345367]]"
+  - "[[_Standards/WikiData/WD~epistemology,9471]]"
+  - "[[_Standards/WikiData/WD~metaphysics,35277]]"
+  - "[[_Standards/WikiData/WD~ontology,44325]]"
+instance of: "[[_Standards/WikiData/WD~school of thought,1387659]]"
+opposite of: "[[_Standards/WikiData/WD~idealism,33442]]"
+Commons category: Materialism
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Materialism** is a form of philosophical monism 
+> which holds that matter is the fundamental substance in nature, and that all things, 
+> including mental states and consciousness, are results of material interactions of material things. 
+> 
+> According to philosophical materialism, mind and consciousness are caused by physical processes, such as the neurochemistry of the human brain and nervous system, without which they cannot exist. Materialism directly contrasts with monistic idealism, according to which consciousness is the fundamental substance of nature.
+>
+> Materialism is closely related to physicalism—the view that all that exists is ultimately physical. Philosophical physicalism has evolved from materialism with the theories of the physical sciences to incorporate forms of physicality in addition to ordinary matter (e.g. spacetime, physical energies and forces, and exotic matter). Thus, some prefer the term physicalism to materialism, while others use the terms as if they were synonymous.
+>
+> Discoveries of neural correlates between consciousness and the brain are taken as empirical support for materialism, but some philosophers of mind find that association fallacious or consider it compatible with non-materialist ideas. Alternative philosophies opposed or alternative to materialism or physicalism include idealism, pluralism, dualism, panpsychism, and other forms of monism. Epicureanism is a philosophy of materialism from classical antiquity that was a major forerunner of modern science. Though ostensibly a deist, Epicurus affirmed the literal existence of the Greek gods in either some type of celestial "heaven" cognate from which they ruled the universe (if not on a literal Mount Olympus), and his philosophy promulgated atomism, while Platonism taught roughly the opposite, despite Plato's teaching of Zeus as God.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Materialism)
+

@@ -15,7 +15,7 @@ aliases:
 > including ecology, theology, education, physics, biology, economics, and psychology.
 >
 > In his early career Whitehead wrote primarily on mathematics, logic, and physics. 
-> He wrote the three-volume [[Principia_Mathematica]] (1910–1913), 
+> He wrote the three-volume[[../../../../Knowledge/Math/Math-Logic/Principia_Mathematica]]] (1910–1913), 
 > with his former student [[Russell,Bertrand|Bertrand Russell]]. 
 > 
 > Principia Mathematica is considered one of the twentieth century's most important works in mathematical logic, and 

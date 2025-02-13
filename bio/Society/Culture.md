@@ -1,0 +1,75 @@
+---
+has_id_wikidata: Q11042
+MeSH tree code:
+  - I01.076.201.450
+  - I01.880.853.100
+IPTC NewsCode: mediatopic/20000038
+Krugosvet article: sociologiya/kultura
+studied in:
+  - "[[_Standards/WikiData/WD~ethnography,132151]]"
+  - "[[_Standards/WikiData/WD~cultural history,858517]]"
+  - "[[_Standards/WikiData/WD~cultural studies,1143546]]"
+  - "[[_Standards/WikiData/WD~sociology of culture,1570681]]"
+  - "[[_Standards/WikiData/WD~philosophy of culture,1791813]]"
+  - "[[_Standards/WikiData/WD~anthropology,23404]]"
+instance of: "[[_Standards/WikiData/WD~concept,151885]]"
+geography of topic: "[[_Standards/WikiData/WD~cultural geography,168891]]"
+manifestation of:
+  - "[[_Standards/WikiData/WD~social norm,205665]]"
+  - "[[_Standards/WikiData/WD~mores,1115221]]"
+different from:
+  - "[[_Standards/WikiData/WD~cultural heritage,210272]]"
+  - "[[_Standards/WikiData/WD~cultivation,357279]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
+  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+named after:
+  - "[[_Standards/WikiData/WD~cult,756820]]"
+  - "[[_Standards/WikiData/WD~Ur,5699]]"
+history of topic: "[[_Standards/WikiData/WD~cultural history,858517]]"
+subclass of: "[[_Standards/WikiData/WD~pattern of behavior,2515887]]"
+has part(s):
+  - "[[_Standards/WikiData/WD~human behavior,3769299]]"
+  - "[[_Standards/WikiData/WD~cultural rights,5193405]]"
+  - "[[_Standards/WikiData/WD~belief system,5390013]]"
+  - "[[_Standards/WikiData/WD~artificial physical object,8205328]]"
+  - "[[_Standards/WikiData/WD~art,735]]"
+has characteristic: "[[_Standards/WikiData/WD~cultural universal,3825100]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of culture,4773237]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Culture,6652637]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Culture,7743800]]"
+practiced by: "[[_Standards/WikiData/WD~culture personality,10550018]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q22828713,22828713]]"
+Provenio UUID: 26cc3bb0-742a-45f7-abda-2eb82963c52b
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Nwodua%20wulana%20Alhassan.jpg
+Wikidata property: culture
+Dewey Decimal Classification: "306"
+hashtag: culture
+Chinese Library Classification: G1
+Commons category: Culture
+U.S. National Archives Identifier: "10640511"
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Cultural%20attractions%20Petra.jpg
+exact match: http://cv.iptc.org/newscodes/subjectcode/01022000
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Culture** ( KUL-chər) is a concept that encompasses the social behavior, institutions, and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, attitudes, and habits of the individuals in these groups. Culture often originates from or is attributed to a specific region or location.
+>
+> Humans acquire culture through the learning processes of enculturation and socialization, which is shown by the diversity of cultures across societies.
+>
+> A cultural norm codifies acceptable conduct in society; it serves as a guideline for behavior, dress, language, and demeanor in a situation, which serves as a template for expectations in a social group. Accepting only a monoculture in a social group can bear risks, just as a single species can wither in the face of environmental change, for lack of functional responses to the change. Thus in military culture, valor is counted as a typical behavior for an individual, and duty, honor, and loyalty to the social group are counted as virtues or functional responses in the continuum of conflict. In religion, analogous attributes can be identified in a social group.
+>
+> Cultural change, or repositioning, is the reconstruction of a cultural concept of a society. Cultures are internally affected by both forces encouraging change and forces resisting change. Cultures are externally affected via contact between societies.
+>
+> Organizations like UNESCO attempt to preserve culture and cultural heritage.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Culture)
+
+
+

@@ -1,3 +1,97 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - Type
+publish: true
+type: Type
+title: is_a_state Class
+linkTitle: is_a_state Class
+keywords:
+  - state
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+aliases:
+  - state
+  - state
+  - State
+  - is_a_state
+has_id_wikidata: Q7275
+P8979: Q12310
+different from:
+  - "[[_Standards/WikiData/WD~federated state,107390]]"
+  - "[[_Standards/WikiData/WD~nationality,231002]]"
+  - "[[_Standards/WikiData/WD~constituent state,1763527]]"
+  - "[[_Standards/WikiData/WD~Halth,2324272]]"
+  - "[[_Standards/WikiData/WD~state,3505845]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~self-proclaimed state,21512251]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~government,7188]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~juridical person,155076]]"
+  - "[[_Standards/WikiData/WD~community,177634]]"
+  - "[[_Standards/WikiData/WD~political territorial entity,1048835]]"
+  - "[[_Standards/WikiData/WD~subject of international law,1896989]]"
+  - "[[_Standards/WikiData/WD~former or current state,96196009]]"
+part of: "[[_Standards/WikiData/WD~nation state,179671]]"
+named after: "[[_Standards/WikiData/WD~orb,461585]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+owner of:
+  - "[[_Standards/WikiData/WD~state property,2396633]]"
+  - "[[_Standards/WikiData/WD~public treasury,11953074]]"
+has part(s): "[[_Standards/WikiData/WD~embassy,3917681]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox country,5621162]]"
+topic's main category: "[[_Standards/WikiData/WD~Q9798786,9798786]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan%20frontispiece%20cropped%20British%20Library.jpg
+properties for this type:
+  - foundational text
+  - diplomatic relation
+  - coordinate location
+  - located in/on physical feature
+  - location of formation
+  - public holiday
+  - applies to jurisdiction
+  - population
+  - central bank
+  - location map
+  - area
+  - language used
+  - official religion
+  - head of government
+  - head of state
+  - official language
+  - capital
+  - currency
+  - shares border with
+  - anthem
+  - founded by
+  - basic form of government
+  - named after
+  - contains the administrative territorial entity
+  - flag
+  - legislative body
+  - highest judicial authority
+  - coat of arms
+  - locator map image
+said to be the same as: "[[_Standards/WikiData/WD~country,6256]]"
+Wikidata property: country
+OmegaWiki Defined Meaning: "3609"
+Commons category: States
+BHCL UUID: e8931adb-4650-49f1-a2f2-460122c17ac3
+Krugosvet article: istoriya/GOSUDARSTVO.html
+---
 ﻿---
 license: CC BY-SA 4.0
 confidential: public

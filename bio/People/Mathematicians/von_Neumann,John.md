@@ -35,7 +35,7 @@ has_id_wikidata: Q17455
 > the Armed Forces Special Weapons Project and the Oak Ridge National Laboratory. 
 > 
 > At the peak of his influence in the 1950s, he chaired a number of Defense Department committees 
-> including the Strategic Missile Evaluation Committee and the[[../../../../Knowledge/Military/ICBM]]] Scientific Advisory Committee. 
+> including the Strategic Missile Evaluation Committee and the[[../../../../Knowledge/Military.internal/ICBM]]] Scientific Advisory Committee. 
 > He was also a member of the influential Atomic Energy Commission 
 > in charge of all atomic energy development in the country. 
 > 

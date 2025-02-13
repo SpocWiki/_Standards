@@ -105,7 +105,7 @@ Population in 1000s as of @2024
 > 
 > Switzerland originates from the Old [[Swiss_Confederacy]] established in the Late Middle Ages, 
 > following a series of military successes against Austria and Burgundy; 
-> the [[Federal_Charter_of_1291]] is considered the country's founding document. 
+> the [[../../../../../Knowledge/Military.internal/Federal_Charter_of_1291]] is considered the country's founding document. 
 > 
 > Swiss independence from the Holy Roman Empire was __formally recognized__ 
 > in the [[Peace_of_Westphalia]] in 1648. 
