@@ -1,11 +1,14 @@
-﻿---
+---
 type: Lang
 aliases:
-- Arabic
-tags: 
-- Lang/ar
+  - Arabic
+  - Arabic language
+tags:
+  - Lang/ar
+has_id_wikidata: Q13955
 ---
-# [[Lang-ar]] 
+
+ # [[Lang-ar]] 
 
 [SpocWebEntityId:: 472 ]
 [Name::Arabic]

@@ -1,15 +1,133 @@
 ---
 location:
-    - 0
-    - 0
+  - 0
+  - 0
 type: Continent
 confidential: public
-has_id_wikidata: Q15 
+has_id_wikidata: Q15
 SpocWebEntityId: 27156
 tags:
-    - geo/Continent
+  - geo/Continent
 isDeleted: false
 icon: earth_africa
+instance of:
+  - "[[_Standards/WikiData/WD~geographic region,82794]]"
+  - "[[_Standards/WikiData/WD~geographic location,2221906]]"
+  - "[[_Standards/WikiData/WD~continent,5107]]"
+history of topic: "[[_Standards/WikiData/WD~history of Africa,149813]]"
+lowest point: "[[_Standards/WikiData/WD~Afar Triangle,217223]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The Oxford Encyclopedia of African Thought,22639418]]"
+different from:
+  - "[[_Standards/WikiData/WD~Afrika,344797]]"
+  - "[[_Standards/WikiData/WD~Africa,383824]]"
+partially coincident with: "[[_Standards/WikiData/WD~Aethiopia,410453]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Africa,580864]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Africa,781650]]"
+highest point: "[[_Standards/WikiData/WD~Mount Kibo,1394606]]"
+owner of: "[[_Standards/WikiData/WD~International Council of African Museums,1666473]]"
+part of:
+  - "[[_Standards/WikiData/WD~Ostfeste,2035462]]"
+  - "[[_Standards/WikiData/WD~Afro-Asia,125965270]]"
+  - "[[_Standards/WikiData/WD~Earth,2]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Africa,3037005]]"
+topic's main template:
+  - "[[_Standards/WikiData/WD~Template_Countries of Africa,5615646]]"
+  - "[[_Standards/WikiData/WD~Template_Africa topic,55511]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Africa,7112174]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Africa,7486129]]"
+geoshape: http://commons.wikimedia.org/data/main/Data:Africa+Flickr.map
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20%28orthographic%20projection%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20satellite%20orthographic.jpg
+spoken text audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Afrika.ogg
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Dust%20Cloud%20Etosha%20National%20Park%20banner.jpg
+exact match: http://cv.iptc.org/newscodes/worldregion/r002
+Dewey Decimal Classification: 2--6
+UMLS CUI: C0001737
+BHCL UUID:
+  - e90be4fa-01eb-48eb-9bf3-76e15b8e01e8
+  - 58d03fe1-b3f0-4f34-a6e0-a2794dbb96cf
+Wolfram Language entity code: Entity["GeographicRegion", "Africa"]
+Libris-URI: rp354fn93k1wgrp
+Colon Classification: SG--6
+MeSH tree code: Z01.058
+Gujarati Vishwakosh entry: આફ્રિકા
+demonym:
+  - afrikaner
+  - Afrikano
+  - afrikai
+  - աֆրիկացի
+  - Afrikaan
+  - Aprikana
+  - Aprikano
+  - африканці
+  - jan pi ma Apika
+  - Afracach
+  - africano
+  - africana
+  - African
+  - африқоӣ
+  - Africain
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q22828260,22828260]]"
+topic's main category: "[[_Standards/WikiData/WD~Q32816044,32816044]]"
+Baidu Tieba name: 非洲
+Provenio UUID: a397e2ad-fe3c-477f-bd0e-26b2c70f8d34
+has part(s):
+  - "[[_Standards/WikiData/WD~West Africa,4412]]"
+  - "[[_Standards/WikiData/WD~North Africa,27381]]"
+  - "[[_Standards/WikiData/WD~Southern Africa,27394]]"
+  - "[[_Standards/WikiData/WD~East Africa,27407]]"
+  - "[[_Standards/WikiData/WD~Central Africa,27433]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Eurasia,5401]]"
+  - "[[_Standards/WikiData/WD~Asia,48]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~UTC−01_00,6540]]"
+  - "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
+  - "[[_Standards/WikiData/WD~UTC+04_00,6779]]"
+population: 1200000000
+vehicles per thousand people: 44
+number of out-of-school children: 101000000
+studied in:
+  - "[[_Standards/WikiData/WD~Africana studies,37542]]"
+  - "[[_Standards/WikiData/WD~African studies,38157]]"
+located in/on physical feature:
+  - "[[_Standards/WikiData/WD~Northern Hemisphere,39061]]"
+  - "[[_Standards/WikiData/WD~Southern Hemisphere,41228]]"
+OmegaWiki Defined Meaning: "71"
+area: 30271000
+social media followers: 104436
+IAB code: "1222"
+subreddit:
+  - africana
+  - Africa
+PM20 geo code: C1
+M49 code: "002"
+Commons gallery: Africa
+Commons category: Africa
+Archive of Our Own tag: Africa
+GitHub topic: africa
+coordinate location: Point(7.1881 21.09375)
+U.S. National Archives Identifier: "10044605"
 ---
 
 # [[Africa]] 

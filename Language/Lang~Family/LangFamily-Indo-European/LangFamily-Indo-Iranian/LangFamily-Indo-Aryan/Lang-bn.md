@@ -1,11 +1,13 @@
-﻿---
+---
 type: Lang
 aliases:
-- Bengali
-tags: 
-- Lang/bn
+  - Bengali
+  - Bengali language
+tags:
+  - Lang/bn
+has_id_wikidata: Q9610
 ---
-
+﻿
 # [[Lang-bn]] 
 
 [SpocWebEntityId:: 468 ]

@@ -1,0 +1,78 @@
+---
+has_id_wikidata: Q1344
+Iconclass notation: 48C862
+Krugosvet article: kultura_i_obrazovanie/teatr_i_kino/OPERA.html
+IPTC NewsCode: mediatopic/20000028
+instance of:
+  - "[[_Standards/WikiData/WD~music genre,188451]]"
+  - "[[_Standards/WikiData/WD~theatrical genre,7777573]]"
+  - "[[_Standards/WikiData/WD~type of dramatico-musical work,112248470]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~composed musical work,207628]]"
+  - "[[_Standards/WikiData/WD~theatre music,7777494]]"
+  - "[[_Standards/WikiData/WD~musical drama,123777276]]"
+  - "[[_Standards/WikiData/WD~classical music,9730]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+has list: "[[_Standards/WikiData/WD~list of prominent operas,1144706]]"
+different from: "[[_Standards/WikiData/WD~Opera,1224928]]"
+facet of: "[[_Standards/WikiData/WD~musical theater,1370345]]"
+practiced by:
+  - "[[_Standards/WikiData/WD~répétiteur,1784753]]"
+  - "[[_Standards/WikiData/WD~vocal coach,2350126]]"
+  - "[[_Standards/WikiData/WD~opera singer,2865819]]"
+history of topic:
+  - "[[_Standards/WikiData/WD~opera in English,2904882]]"
+  - "[[_Standards/WikiData/WD~opera in Arabic,7096646]]"
+  - "[[_Standards/WikiData/WD~opera in Africa,28124356]]"
+has part(s): "[[_Standards/WikiData/WD~pit orchestra,7198575]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Opera,10297022]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox opera,14522449]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Performing arts,59956276]]"
+Provenio UUID: 11dbfb07-9641-475c-9599-1fc1c1b893ba
+inception: 1600-01-01T00:00:00Z
+video: http://commons.wikimedia.org/wiki/Special:FilePath/%22La%20donna%20%C3%A8%20mobile%22%20-%20Rigoletto%20%282016-17%29.webm
+properties for this type:
+  - language of work or name
+  - date of first performance
+  - location of first performance
+  - librettist
+  - composer
+  - genre
+country of origin: "[[_Standards/WikiData/WD~Europe,46]]"
+IAB code: "208"
+social media followers: 23082
+OmegaWiki Defined Meaning: "352727"
+Commons category: Opera
+subreddit: opera
+PhilPapers topic: opera
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Paolo%20Pannini%20-%20F%C3%AAte%20musicale%20-%201747.jpg
+equivalent class: http://dbpedia.org/ontology/Opera
+---
+
+## #has_/text_of_/abstract 
+
+
+
+> **Opera** is a form of Western theatre in which music is a fundamental component and dramatic roles are taken by singers. Such a "work" (the literal translation of the Italian word "opera") is typically a collaboration between a composer and a librettist and incorporates a number of the performing arts, such as acting, scenery, costume, and sometimes dance or ballet. The performance is typically given in an opera house, accompanied by an orchestra or smaller musical ensemble, which since the early 19th century has been led by a conductor. Although musical theatre is closely related to opera, the two are considered to be distinct from one another.
+>
+> Opera is a key part of Western classical music, and Italian tradition in particular. Originally understood as an entirely sung piece, in contrast to a play with songs, opera has come to include numerous genres, including some that include spoken dialogue such as Singspiel and Opéra comique. In traditional number opera, singers employ two styles of singing: recitative, a speech-inflected style, and self-contained arias. The 19th century saw the rise of the continuous music drama.
+>
+> 
+>
+> Opera originated in Italy at the end of the 16th century (with Jacopo Peri's mostly lost Dafne, produced in Florence in 1598) especially from works by Claudio Monteverdi, notably L'Orfeo, and soon spread through the rest of Europe: Heinrich Schütz in Germany, Jean-Baptiste Lully in France, and Henry Purcell in England all helped to establish their national traditions in the 17th century. In the 18th century, Italian opera continued to dominate most of Europe (except France), attracting foreign composers such as George Frideric Handel. Opera seria was the most prestigious form of Italian opera, until Christoph Willibald Gluck reacted against its artificiality with his "reform" operas in the 1760s. The most renowned figure of late 18th-century opera is Wolfgang Amadeus Mozart, who began with opera seria but is most famous for his Italian comic operas, especially The Marriage of Figaro (Le nozze di Figaro), Don Giovanni, and Così fan tutte, as well as Die Entführung aus dem Serail (The Abduction from the Seraglio), and The Magic Flute (Die Zauberflöte), landmarks in the German tradition.
+>
+> The first third of the 19th century saw the high point of the bel canto style, with Gioachino Rossini, Gaetano Donizetti and Vincenzo Bellini all creating signature works of that style. It also saw the advent of grand opera typified by the works of Daniel Auber and Giacomo Meyerbeer as well as Carl Maria von Weber's introduction of German Romantische Oper (German Romantic Opera). The mid-to-late 19th century was a golden age of opera, led and dominated by Giuseppe Verdi in Italy and Richard Wagner in Germany. The popularity of opera continued through the verismo era in Italy and contemporary French opera through to Giacomo Puccini and Richard Strauss in the early 20th century. During the 19th century, parallel operatic traditions emerged in central and eastern Europe, particularly in Russia and Bohemia. The 20th century saw many experiments with modern styles, such as atonality and serialism (Arnold Schoenberg and Alban Berg), neoclassicism (Igor Stravinsky), and minimalism (Philip Glass and John Adams). With the rise of recording technology, singers such as Enrico Caruso and Maria Callas became known to much wider audiences that went beyond the circle of opera fans. Since the invention of radio and television, operas were also performed on (and written for) these media. Beginning in 2006, a number of major opera houses began to present live high-definition video transmissions of their performances in cinemas all over the world. Since 2009, complete performances can be downloaded and are live streamed.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Opera)
+
+
+
+
+

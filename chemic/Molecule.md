@@ -1,4 +1,36 @@
-﻿# [[Molecule]] 
+---
+has_id_wikidata: Q11369
+has part(s):
+  - "[[_Standards/WikiData/WD~covalent bond,127920]]"
+  - "[[_Standards/WikiData/WD~atom,9121]]"
+studied in:
+  - "[[_Standards/WikiData/WD~molecular physics,489328]]"
+  - "[[_Standards/WikiData/WD~chemistry,2329]]"
+  - "[[_Standards/WikiData/WD~molecular biology,7202]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+has characteristic:
+  - "[[_Standards/WikiData/WD~molecular configuration,901339]]"
+  - "[[_Standards/WikiData/WD~molecular geometry,911331]]"
+  - "[[_Standards/WikiData/WD~molecular function,14860489]]"
+  - "[[_Standards/WikiData/WD~molecular property,16999526]]"
+  - "[[_Standards/WikiData/WD~electron configuration,53859]]"
+subclass of: "[[_Standards/WikiData/WD~molecular entity,2393187]]"
+instance of: "[[_Standards/WikiData/WD~group or class of chemical entities,72070508]]"
+does not have characteristic: "[[_Standards/WikiData/WD~electric charge,1111]]"
+opposite of: "[[_Standards/WikiData/WD~ion,36496]]"
+named after: "[[_Standards/WikiData/WD~mole,41509]]"
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%A3%E0%A7%81.wav
+IEV number: 113-05-25
+Commons category: Molecules
+---
+
+# [[Molecule]] 
 
 
 > A **Molecule** is a group of two or more atoms held together by attractive forces known as chemical bonds. 

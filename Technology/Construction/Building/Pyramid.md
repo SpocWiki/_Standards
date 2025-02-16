@@ -1,0 +1,37 @@
+---
+has_id_wikidata: Q12516
+different from: "[[_Standards/WikiData/WD~Piramida,105574]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+shape: "[[_Standards/WikiData/WD~pyramid,3358290]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox pyramid,13361861]]"
+instance of: "[[_Standards/WikiData/WD~type of structure,111972893]]"
+equivalent class: http://dbpedia.org/ontology/Pyramid
+Krugosvet article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PIRAMIDI.html
+GeoNames feature code:
+  - S.PYR
+  - S.PYRS
+OpenStreetMap tag or key: Tag:tomb=pyramid
+name: ꠙꠤꠞꠣꠝꠤꠒ
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20at%20Jebel%20Barkal.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Pyramid%20of%20Giza%20-%20Pyramid%20of%20Khufu.jpg
+subclass of: "[[_Standards/WikiData/WD~building,41176]]"
+OmegaWiki Defined Meaning: "361006"
+Commons gallery: Pyramid
+Commons category: Pyramids
+---
+
+
+## #has_/text_of_/abstract 
+
+> A **Pyramid** (from Ancient Greek  πυραμίς (puramís) 'pyramid') is a structure whose visible surfaces are triangular in broad outline and converge toward the top, making the appearance roughly a pyramid in the geometric sense. The base of a pyramid can be of any polygon shape, such as triangular or quadrilateral, and its lines either filled or stepped.
+>
+> 
+>
+> A pyramid has the majority of its mass closer to the ground with less mass towards the pyramidion at the apex. This is due to the gradual decrease in the cross-sectional area along the vertical axis with increasing elevation. This offers a weight distribution that allowed early civilizations to create monumental structures.Civilizations in many parts of the world have built pyramids. The largest pyramid by volume is the Mesoamerican Great Pyramid of Cholula, in the Mexican state of Puebla. For millennia, the largest structures on Earth were pyramids—first the Red Pyramid in the Dashur Necropolis and then the Great Pyramid of Khufu, both in Egypt—the latter is the only extant example of the Seven Wonders of the Ancient World.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Pyramid) 
+

@@ -1,11 +1,231 @@
-﻿---
+---
 type: Lang
 aliases:
-- French
-tags: 
-- Lang/fr
+  - French
+  - French language
+tags:
+  - Lang/fr
+has_id_wikidata: Q150
+different from:
+  - "[[_Standards/WikiData/WD~French,121842]]"
+  - "[[_Standards/WikiData/WD~Fransk,348443]]"
+  - "[[_Standards/WikiData/WD~French,4492684]]"
+  - "[[_Standards/WikiData/WD~Französisch,70378541]]"
+uses capitalization for:
+  - "[[_Standards/WikiData/WD~proper noun,147276]]"
+  - http://www.wikidata.org/.well-known/genid/d64473ab6a594c4cdcdb08e17ad3446b
+language regulatory body:
+  - "[[_Standards/WikiData/WD~Académie Française,161806]]"
+  - "[[_Standards/WikiData/WD~Academie Royale de Langue et de littérature Françaises,2166029]]"
+  - "[[_Standards/WikiData/WD~Office québécois de la langue française,2578454]]"
+linguistic typology:
+  - "[[_Standards/WikiData/WD~nominative–accusative language,178435]]"
+  - "[[_Standards/WikiData/WD~fusional language,318917]]"
+  - "[[_Standards/WikiData/WD~subject–verb–object,651641]]"
+  - "[[_Standards/WikiData/WD~place–manner–time,7200373]]"
+  - "[[_Standards/WikiData/WD~syllabic language,7888569]]"
+  - "[[_Standards/WikiData/WD~noun-adjective,74835210]]"
+  - "[[_Standards/WikiData/WD~synthetic language,48612]]"
+has grammatical mood:
+  - "[[_Standards/WikiData/WD~infinitive,179230]]"
+  - "[[_Standards/WikiData/WD~subjunctive,473746]]"
+  - "[[_Standards/WikiData/WD~conditional,625581]]"
+  - "[[_Standards/WikiData/WD~indicative,682111]]"
+  - "[[_Standards/WikiData/WD~participle,814722]]"
+  - "[[_Standards/WikiData/WD~imperative,22716]]"
+has tense:
+  - "[[_Standards/WikiData/WD~present tense,192613]]"
+  - "[[_Standards/WikiData/WD~preterite,442485]]"
+  - "[[_Standards/WikiData/WD~near future,578167]]"
+  - "[[_Standards/WikiData/WD~pluperfect,623742]]"
+  - "[[_Standards/WikiData/WD~past anterior,1101896]]"
+  - "[[_Standards/WikiData/WD~future perfect,1234617]]"
+  - "[[_Standards/WikiData/WD~imperfect subjunctive,3502541]]"
+  - "[[_Standards/WikiData/WD~past subjunctive,3502544]]"
+  - "[[_Standards/WikiData/WD~present subjunctive,3502553]]"
+  - "[[_Standards/WikiData/WD~conditional present,3686414]]"
+  - "[[_Standards/WikiData/WD~present participle,10345583]]"
+  - "[[_Standards/WikiData/WD~past imperfect,12547192]]"
+  - "[[_Standards/WikiData/WD~past participle,12717679]]"
+  - "[[_Standards/WikiData/WD~passé composé,13360204]]"
+  - "[[_Standards/WikiData/WD~simple future in French,20112616]]"
+  - "[[_Standards/WikiData/WD~conditional perfect,25619773]]"
+  - "[[_Standards/WikiData/WD~subjunctive pluperfect,27955084]]"
+  - "[[_Standards/WikiData/WD~present imperative,52434162]]"
+  - "[[_Standards/WikiData/WD~present infinitive,52434245]]"
+  - "[[_Standards/WikiData/WD~past infinitive,52434302]]"
+  - "[[_Standards/WikiData/WD~past imperative,56319817]]"
+has grammatical gender:
+  - "[[_Standards/WikiData/WD~masculine,499327]]"
+  - "[[_Standards/WikiData/WD~feminine,1775415]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Dictionnaire des francophones,105974809]]"
+  - "[[_Standards/WikiData/WD~Grammaire méthodique du français,107985933]]"
+has characteristic: "[[_Standards/WikiData/WD~agreement,829903]]"
+studied in:
+  - "[[_Standards/WikiData/WD~Romance studies,1277348]]"
+  - "[[_Standards/WikiData/WD~French studies,1450761]]"
+  - "[[_Standards/WikiData/WD~French language studies,11333703]]"
+instance of:
+  - "[[_Standards/WikiData/WD~modern language,1288568]]"
+  - "[[_Standards/WikiData/WD~natural language,33742]]"
+  - "[[_Standards/WikiData/WD~language,34770]]"
+has conjugation class:
+  - "[[_Standards/WikiData/WD~conjugation of Group I French verbs,2993354]]"
+  - "[[_Standards/WikiData/WD~conjugation of Group II French verbs,2993353]]"
+  - "[[_Standards/WikiData/WD~conjugation of Group III French verbs,2993358]]"
+history of topic: "[[_Standards/WikiData/WD~history of French,3137250]]"
+topic's main template:
+  - "[[_Standards/WikiData/WD~Template_Lang-fr,6233021]]"
+  - "[[_Standards/WikiData/WD~Template_French language,14386695]]"
+  - "[[_Standards/WikiData/WD~Q22816120,22816120]]"
+short name:
+  - френски
+  - fr
+  - fransızca
+  - францаг
+  - французский
+  - Fransızca
+  - французька
+  - французская
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Wiktionary_About French,14615815]]"
+UNESCO language status: "[[_Standards/WikiData/WD~1 safe,20672086]]"
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/French%20phrasebook%20banner%20Sign%20in%20Geneva.jpg
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q22828635,22828635]]"
+  - "[[_Standards/WikiData/WD~Q27966180,27966180]]"
+Ethnologue language status: "[[_Standards/WikiData/WD~0 International,29051543]]"
+has grammatical person:
+  - "[[_Standards/WikiData/WD~first-person singular,51929218]]"
+  - "[[_Standards/WikiData/WD~first-person plural,51929290]]"
+  - "[[_Standards/WikiData/WD~second-person singular,51929369]]"
+  - "[[_Standards/WikiData/WD~second-person plural,51929403]]"
+  - "[[_Standards/WikiData/WD~third-person singular,51929447]]"
+  - "[[_Standards/WikiData/WD~third-person plural,51929517]]"
+  - "[[_Standards/WikiData/WD~third-person masculine singular,52431955]]"
+  - "[[_Standards/WikiData/WD~third-person feminine singular,52431970]]"
+  - "[[_Standards/WikiData/WD~third-person masculine plural,52432983]]"
+  - "[[_Standards/WikiData/WD~third-person feminine plural,52433019]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject French,59078412]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~Southern European language,85380120]]"
+  - "[[_Standards/WikiData/WD~Oïl,37351]]"
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/2016-10-24%20De%20nouvelles%20images%20de%20l%27atmosph%C3%A8re%20de%20Mars.ogg
+distribution map: http://commons.wikimedia.org/wiki/Special:FilePath/Detailed%20SVG%20map%20of%20the%20Francophone%20world.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/JO199411392.png
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-frans%C3%A9isch.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33890%20%28nso%29-Mohau-Sefora.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5885%20%28tam%29-Sriveenkat-%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%AF%20%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF.wav
+exact match: http://publications.europa.eu/resource/authority/language/FRA
+Basisklassifikation: "18.22"
+country:
+  - "[[_Standards/WikiData/WD~Seychelles,1042]]"
+  - "[[_Standards/WikiData/WD~Senegal,1041]]"
+  - "[[_Standards/WikiData/WD~Guernsey,25230]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Belgium,31]]"
+  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~Andorra,228]]"
+  - "[[_Standards/WikiData/WD~Monaco,235]]"
+  - "[[_Standards/WikiData/WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~Cambodia,424]]"
+  - "[[_Standards/WikiData/WD~Chad,657]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Vanuatu,686]]"
+  - "[[_Standards/WikiData/WD~Jersey,785]]"
+  - "[[_Standards/WikiData/WD~Haiti,790]]"
+  - "[[_Standards/WikiData/WD~Laos,819]]"
+  - "[[_Standards/WikiData/WD~Lebanon,822]]"
+  - "[[_Standards/WikiData/WD~Vietnam,881]]"
+  - "[[_Standards/WikiData/WD~Mali,912]]"
+  - "[[_Standards/WikiData/WD~Central African Republic,929]]"
+  - "[[_Standards/WikiData/WD~Togo,945]]"
+  - "[[_Standards/WikiData/WD~Tunisia,948]]"
+  - "[[_Standards/WikiData/WD~Benin,962]]"
+  - "[[_Standards/WikiData/WD~Burundi,967]]"
+  - "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+  - "[[_Standards/WikiData/WD~Comoros,970]]"
+  - "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+  - "[[_Standards/WikiData/WD~Djibouti,977]]"
+  - "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+  - "[[_Standards/WikiData/WD~Gabon,1000]]"
+  - "[[_Standards/WikiData/WD~Guinea,1006]]"
+  - "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+  - "[[_Standards/WikiData/WD~Cameroon,1009]]"
+  - "[[_Standards/WikiData/WD~Madagascar,1019]]"
+  - "[[_Standards/WikiData/WD~Mauritius,1027]]"
+  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
+  - "[[_Standards/WikiData/WD~Morocco,1028]]"
+  - "[[_Standards/WikiData/WD~Niger,1032]]"
+  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
+indigenous to:
+  - "[[_Standards/WikiData/WD~Flemish Brabant,1118]]"
+  - "[[_Standards/WikiData/WD~Walloon Brabant,1122]]"
+  - "[[_Standards/WikiData/WD~Province of Liege,1127]]"
+  - "[[_Standards/WikiData/WD~Province of Namur,1125]]"
+  - "[[_Standards/WikiData/WD~Hainaut,1129]]"
+  - "[[_Standards/WikiData/WD~Canton of Fribourg,12640]]"
+  - "[[_Standards/WikiData/WD~Neuchâtel,12738]]"
+  - "[[_Standards/WikiData/WD~Jura,12755]]"
+  - "[[_Standards/WikiData/WD~canton Vaud,12771]]"
+  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~Monaco,235]]"
+  - "[[_Standards/WikiData/WD~Brussels-Capital Region,240]]"
+writing system: "[[_Standards/WikiData/WD~Latin script,8229]]"
+ABS ASCL 2011 code:
+  - "2101"
+  - "21"
+Wikimedia language code: fr
+IETF language tag: fr
+ISO 639-1 code: fr
+POSIX locale identifier: fr
+"number of speakers, writers, or signers":
+  - 77200000
+  - 208157220
+Dewey Decimal Classification:
+  - "440"
+  - 6--41
+IAB code: "1078"
+subreddit: French
+OmegaWiki Defined Meaning: "5687"
+social media followers: 186974
+GitHub topic: french
+ISBN identifier group: 978-2
+ISO 639-2 code:
+  - fre
+  - fra
+WALS lect code: fre
+native label: français
+ISO 639-3 code: fra
+Ethnologue.com language code: fra
+Linguasphere code: 51-AAA-i
+Commons category: French language
+GOST 7.75–97 code: фра 745
+Wolfram Language entity code: Entity["Language", "French::367gk"]
+Krugosvet article: gumanitarnye_nauki/lingvistika/FRANTSUZSKI_YAZIK.html
+OpenStreetMap tag or key: Key:language:fr
+Glottolog code: stan1290
+entry in abbreviations table:
+  - франц.
+  - fr.
+Baidu Tieba name: 法语
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20fr.svg
+Provenio UUID: e1fabe4a-0c18-41db-a2d0-e8cd9f0e6db3
+Archive of Our Own tag: Français | French
 ---
-# [[Lang-fr]] 
+﻿
+ # [[Lang-fr]] 
 
 [SpocWebEntityId:: 496 ]
 [Name::French]

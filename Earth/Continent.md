@@ -1,6 +1,42 @@
-﻿---
-icon: far_map
 ---
+icon: far_map
+has_id_wikidata: Q5107
+subclass of:
+  - "[[_Standards/WikiData/WD~landmass,205895]]"
+  - "[[_Standards/WikiData/WD~natural geographic object,35145263]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+different from:
+  - "[[_Standards/WikiData/WD~continental crust,858571]]"
+  - "[[_Standards/WikiData/WD~part of the world,2418896]]"
+  - "[[_Standards/WikiData/WD~Q97235040,97235040]]"
+located in/on physical feature: "[[_Standards/WikiData/WD~continental crust,858571]]"
+partially coincident with: "[[_Standards/WikiData/WD~part of the world,2418896]]"
+topic's main template:
+  - "[[_Standards/WikiData/WD~Template_Infobox continent,6075519]]"
+  - "[[_Standards/WikiData/WD~Template_Continents of Earth,6263301]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q124036706,124036706]]"
+document file on Wikimedia Commons: http://commons.wikimedia.org/wiki/Special:FilePath/Divisao-dos-Continentes-America-Europa-Asia-Oceania-Africa-Antardida-Mapa-IBGE-Brasil.svg
+opposite of: "[[_Standards/WikiData/WD~ocean,9430]]"
+part of:
+  - "[[_Standards/WikiData/WD~Earth's crust,15316]]"
+  - "[[_Standards/WikiData/WD~Earth,2]]"
+Wikidata property: continent
+IAB code: "1220"
+OmegaWiki Defined Meaning: "4257"
+Commons gallery: Continents
+Commons category: Continents
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Continentes%20Wikipedia.svg
+equivalent class: https://schema.org/Continent
+described at URL: https://www.whosonfirst.org/docs/placetypes/#continent
+Krugosvet article: Earth_sciences/geografiya/MATERIK.html
+GeoNames feature code: L.CONT
+OpenStreetMap tag or key: Tag:place=continent
+---
+﻿
 # Continent 
 
 Naively described as  contiguous Surface-Land 

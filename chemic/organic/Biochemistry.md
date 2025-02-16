@@ -1,0 +1,56 @@
+---
+has_id_wikidata: Q7094
+subreddit: Biochemistry
+Commons category: Biochemistry
+U.S. National Archives Identifier: "10638831"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+different from: "[[_Standards/WikiData/WD~chemical biology,731154]]"
+is the study of: "[[_Standards/WikiData/WD~bioelement,864276]]"
+history of topic: "[[_Standards/WikiData/WD~history of biochemistry,866782]]"
+instance of:
+  - "[[_Standards/WikiData/WD~interdisciplinary science,1665984]]"
+  - "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
+  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~branch of biology,28598684]]"
+practiced by: "[[_Standards/WikiData/WD~biochemist,2919046]]"
+maintained by WikiProject:
+  - "[[_Standards/WikiData/WD~WikiProject Biology,6723002]]"
+  - "[[_Standards/WikiData/WD~WikiProject Chemistry,8487234]]"
+  - "[[_Standards/WikiData/WD~WikiProject Pharmacology,9958716]]"
+  - "[[_Standards/WikiData/WD~WikiProject Molecular Biology,88425552]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of biochemistry,7112566]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20triglyceride%20shorthand%20formula.PNG
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8.wav
+Stack Exchange tag:
+  - https://biology.stackexchange.com/tags/biochemistry
+  - https://chemistry.stackexchange.com/tags/biochemistry
+Basisklassifikation: "44.33"
+Krugosvet article: nauka_i_tehnika/himiya/BIOHIMIYA.html
+OpenStreetMap tag or key: Tag:healthcare:speciality=biochemistry
+UMLS CUI: C0005477
+Library of Congress Classification: QD415-QD436
+MeSH tree code:
+  - H01.158.201
+  - H01.181.122
+part of:
+  - "[[_Standards/WikiData/WD~biology,420]]"
+  - "[[_Standards/WikiData/WD~chemistry,2329]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~biology,420]]"
+  - "[[_Standards/WikiData/WD~organic chemistry,11351]]"
+OmegaWiki Defined Meaning: "351"
+All-Science Journal Classification Codes: "1303"
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Biochemistry**, or biological chemistry, is the study of chemical processes within and relating to living organisms.  A sub-discipline of both chemistry and biology, biochemistry may be divided into three fields: structural biology, enzymology, and metabolism. Over the last decades of the 20th century, biochemistry has become successful at explaining living processes through these three disciplines.  Almost all areas of the life sciences are being uncovered and developed through biochemical methodology and research.  Biochemistry focuses on understanding the chemical basis that allows biological molecules to give rise to the processes that occur within living cells and between cells, in turn relating greatly to the understanding of tissues and organs as well as organism structure and function. Biochemistry is closely related to molecular biology, the study of the molecular mechanisms of biological phenomena.
+>
+> Much of biochemistry deals with the structures, functions, and interactions of biological macromolecules such as proteins, nucleic acids, carbohydrates, and lipids. They provide the structure of cells and perform many of the functions associated with life. The chemistry of the cell also depends upon the reactions of small molecules and ions.  These can be inorganic (for example, water and metal ions) or organic (for example, the amino acids, which are used to synthesize proteins). The mechanisms used by cells to harness energy from their environment via chemical reactions are known as metabolism. The findings of biochemistry are applied primarily in medicine, nutrition, and agriculture. In medicine, biochemists investigate the causes and cures of diseases. Nutrition studies how to maintain health and wellness and also the effects of nutritional deficiencies. In agriculture, biochemists investigate soil and fertilizers with the goal of improving crop cultivation, crop storage, and pest control. In recent decades, biochemical principles and methods have been combined with problem-solving approaches from engineering to manipulate living systems in order to produce useful tools for research, industrial processes, and diagnosis and control of disease—the discipline of biotechnology.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Biochemistry)
+

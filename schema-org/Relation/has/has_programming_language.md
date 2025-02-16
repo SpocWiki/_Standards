@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -34,7 +34,7 @@ Use it like this:
 - [ #has_/programming_language :: ComputerLanguage, Text ] or 
 - [ has_programming_language :: ComputerLanguage, Text ] 
 
-The computer programming language.
+The computer programming language of the Subject Source Code.
 
 Relation describes that: 
 [ #has_/domain  :: SoftwareSourceCode ]

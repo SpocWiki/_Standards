@@ -5,7 +5,7 @@
 
 Due to the [[Isotropy]] of Space, it is a conserved Unit. 
 
-In [[../../../Knowledge/Physics/Quantum-Physics|Quantum-Physics]] the [[Wavelength]] of a Particle is 
+In[[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[Wavelength]] of a Particle is 
 given by its inverse [[Dim~Momentum]]:  ___λ = h / p___ 
 
 A change in Momentum is also called Impulse, 

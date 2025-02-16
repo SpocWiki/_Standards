@@ -1,0 +1,50 @@
+---
+has_id_wikidata: Q8261
+different from:
+  - "[[_Standards/WikiData/WD~novella,149537]]"
+  - "[[_Standards/WikiData/WD~short novel,12799318]]"
+  - "[[_Standards/WikiData/WD~Riwaya,54894431]]"
+  - "[[_Standards/WikiData/WD~xiaoshuo,59126]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+part of: "[[_Standards/WikiData/WD~novel sequence,2005755]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~narration,3328821]]"
+  - "[[_Standards/WikiData/WD~work of fiction,87482979]]"
+instance of: "[[_Standards/WikiData/WD~literary form,4263830]]"
+practiced by: "[[_Standards/WikiData/WD~novelist,6625963]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Novels,11774360]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Narration,60007664]]"
+Provenio UUID: 04b724a8-e921-4166-b5fb-1ddf19d37f6f
+properties for this type:
+  - author
+  - publisher
+  - genre
+Nomenclature for Museum Cataloging: "13551"
+Commons category: Novels
+OmegaWiki Defined Meaning: "463474"
+hashtag: novels
+equivalent class: http://dbpedia.org/ontology/Novel
+Krugosvet article: kultura_i_obrazovanie/literatura/ROMAN.html
+name in kana: ちょうへんしょうせつ
+---
+
+
+## #has_/text_of_/abstract 
+
+> A **Novel** is an extended work of narrative fiction usually written in prose and published as a book. The word derives from the Italian: novella for "new", "news", or "short story (of something new)", itself from the Latin: novella, a singular noun use of the neuter plural of novellus, diminutive of novus, meaning "new". According to Margaret Doody, the novel has "a continuous and comprehensive history of about two thousand years", with its origins in the Ancient Greek and Roman novel, Medieval Chivalric romance, and the tradition of the Italian Renaissance novella. The ancient romance form was revived by Romanticism, in the historical romances of Walter Scott and the Gothic novel.
+>
+> Some novelists, including Nathaniel Hawthorne, Herman Melville, Ann Radcliffe, and John Cowper Powys, preferred the term "romance". Such "romances" should not be confused with the genre fiction romance novel, which focuses on romantic love. M. H. Abrams and Walter Scott have argued that a novel is a fiction narrative that displays a realistic depiction of the state of a society, while the romance encompasses any fictitious narrative that emphasizes marvellous or uncommon incidents. Works of fiction that include marvellous or uncommon incidents are also commonly called novels, including Mary Shelley's Frankenstein, J. R. R. Tolkien's The Lord of the Rings, and Harper Lee's To Kill a Mockingbird.
+>
+> The spread of printed books in China led to the appearance of the vernacular classic Chinese novels during the Ming dynasty (1368–1644), and Qing dynasty (1616–1911). An early example from Europe was Hayy ibn Yaqdhan by the Sufi writer Ibn Tufayl in Muslim Spain. Later developments occurred after the invention of the printing press. Miguel de Cervantes, author of Don Quixote (the first part of which was published in 1605), is frequently cited as the first significant European novelist of the modern era. Literary historian Ian Watt, in The Rise of the Novel (1957), argued that the modern novel was born in the early 18th century.
+>
+> Recent technological developments have led to many novels also being published in non-print media: this includes audio books, web novels, and ebooks. Another non-traditional fiction format can be found in graphic novels. While these comic book versions of works of fiction have their origins in the 19th century, they have only become popular recently.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Novel) 
+

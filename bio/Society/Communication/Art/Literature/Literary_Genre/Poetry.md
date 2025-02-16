@@ -1,0 +1,78 @@
+---
+has_id_wikidata: Q482
+model item:
+  - "[[_Standards/WikiData/WD~tanka,258331]]"
+  - "[[_Standards/WikiData/WD~Lancelot, the Knight of the Cart,520372]]"
+  - "[[_Standards/WikiData/WD~Olympic Odes,18146776]]"
+  - "[[_Standards/WikiData/WD~Nemean Odes,27214182]]"
+  - "[[_Standards/WikiData/WD~Picking on Peach Blossom,44590028]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8,124737635]]"
+practiced by:
+  - "[[_Standards/WikiData/WD~dichter,1293108]]"
+  - "[[_Standards/WikiData/WD~poet,49757]]"
+instance of:
+  - "[[_Standards/WikiData/WD~literary form,4263830]]"
+  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+different from: "[[_Standards/WikiData/WD~poem,5185279]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of poetry,7112700]]"
+subclass of: "[[_Standards/WikiData/WD~literary work,7725634]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Poetry,11774659]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~poetic art,12532433]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Poetry of different cultures and languages,14444553]]"
+said to be the same as: "[[_Standards/WikiData/WD~Q87902966,87902966]]"
+Provenio UUID: 22c3091c-a78b-4aa8-a8d0-ecd3b6915ffd
+IAB code: "49"
+U.S. National Archives Identifier: "10629347"
+PhilPapers topic: poetry
+hashtag:
+  - poetry
+  - Poetry
+subreddit: Poetry
+Commons category: Poetry
+image: http://commons.wikimedia.org/wiki/Special:FilePath/LeidenWallPoemYeats%20%28cropped%29.jpg
+spoken text audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LibriVox%20-%20The%20Raven%20-%20Chris%20Goringe.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Poetry.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wa%20Surkol%20powinme.oga
+exact match: http://cv.iptc.org/newscodes/subjectcode/01010002
+MeSH tree code: K01.517.781
+Krugosvet article: kultura_i_obrazovanie/literatura/POEZIYA_I_PROZA.html
+IPTC NewsCode: mediatopic/20000017
+Colon Classification: O,1
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Poetry** (from the Greek word poiesis, "making") is a form of literary art that uses aesthetic and often rhythmic qualities of language to evoke meanings in addition to, or in place of, literal or surface-level meanings. Any particular instance of poetry is called a poem and is written by a poet. 
+>
+> Poets use a variety of techniques called poetic devices, such as assonance, alliteration, euphony and cacophony, onomatopoeia, rhythm (via metre), and sound symbolism, to produce musical or other artistic effects. They also frequently organize these effects into poetic structures, which may be strict or loose, conventional or invented by the poet. Poetic structures vary dramatically by language and cultural convention, but they often use rhythmic metre (patterns of syllable stress or syllable (mora) weight). They may also use repeating patterns of phonemes, phoneme groups, tones (phonemic pitch shifts found in tonal languages), words, or entire phrases. These include consonance (or just alliteration), assonance (as in the dróttkvætt), and rhyme schemes (patterns in rimes, a type of phoneme group). Poetic structures may even be semantic (e.g. the volta required in a Petrachan sonnet).
+>
+> Most written poems are formatted in verse: a series or stack of lines on a page, which follow the poetic structure. For this reason, verse has also become a synonym (a metonym) for poetry. 
+>
+> Some poetry types are unique to particular cultures and genres and respond to characteristics of the language in which the poet writes. Readers accustomed to identifying poetry with Dante, Goethe, Mickiewicz, or Rumi may think of it as written in lines based on rhyme and regular meter. There are, however, traditions, such as Biblical poetry and alliterative verse, that use other means to create rhythm and euphony. Much modern poetry reflects a critique of poetic tradition, testing the principle of euphony itself or altogether forgoing rhyme or set rhythm.
+>
+> Poetry has a long and varied history, evolving differentially across the globe. It dates back at least to prehistoric times with hunting poetry in Africa and to panegyric and elegiac court poetry of the empires of the Nile, Niger, and Volta River valleys. Some of the earliest written poetry in Africa occurs among the Pyramid Texts written during the 25th century BCE. The earliest surviving Western Asian epic poem, the Epic of Gilgamesh, was written in the Sumerian language.
+>
+> Early poems in the Eurasian continent include folk songs such as the Chinese Shijing, religious hymns (such as the Sanskrit Rigveda, the Zoroastrian Gathas, the Hurrian songs, and the Hebrew Psalms); and retellings of oral epics (such as  the Egyptian Story of Sinuhe, Indian epic poetry, and the Homeric epics, the Iliad and the Odyssey). 
+>
+> Ancient Greek attempts to define poetry, such as Aristotle's Poetics, focused on the uses of speech in rhetoric, drama, song, and comedy. Later attempts concentrated on features such as repetition, verse form, and rhyme, and emphasized aesthetics which distinguish poetry from the format of more objectively-informative, academic, or typical writing, which is known as prose.
+>
+> Poetry uses forms and conventions to suggest differential interpretations of words, or to evoke emotive responses. The use of ambiguity, symbolism, irony, and other stylistic elements of poetic diction often leaves a poem open to multiple interpretations. Similarly, figures of speech such as metaphor, simile, and metonymy establish a resonance between otherwise disparate images—a layering of meanings, forming connections previously not perceived. Kindred forms of resonance may exist, between individual verses, in their patterns of rhyme or rhythm.
+>
+> Poets – as, from the Greek, "makers" of language – have contributed to the evolution of the linguistic, expressive, and utilitarian qualities of their languages. In an increasingly globalized world, poets often adapt forms, styles, and techniques from diverse cultures and languages. 
+>
+> A Western cultural tradition (extending at least from Homer to Rilke) associates the production of poetry with inspiration – often by a Muse (either classical or contemporary), or through other (often canonised) poets' work which sets some kind of example or challenge. 
+>
+>  In first-person poems, the lyrics are spoken by an "I", a character who may be termed the speaker, distinct from the poet (the author). Thus if, for example, a poem asserts, "I killed my enemy in Reno", it is the speaker, not the poet, who is the killer (unless this "confession" is a form of metaphor which needs to be considered in closer context – via close reading).
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Poetry) 
+

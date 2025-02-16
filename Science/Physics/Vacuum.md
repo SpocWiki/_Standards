@@ -1,0 +1,54 @@
+---
+has_id_wikidata: Q11475
+different from:
+  - "[[_Standards/WikiData/WD~vacuum cleaner,101674]]"
+  - "[[_Standards/WikiData/WD~vacuum state,766202]]"
+subclass of: "[[_Standards/WikiData/WD~abstract entity,7048977]]"
+said to be the same as: "[[_Standards/WikiData/WD~Q13047289,13047289]]"
+described by source:
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+partially coincident with: "[[_Standards/WikiData/WD~emptiness,67932942]]"
+UMLS CUI: C0042221
+MeSH tree code:
+  - G01.374.715.902
+  - G16.500.750.274.902
+  - N06.230.300.100.185.902
+part of: "[[_Standards/WikiData/WD~physics,413]]"
+density: 0
+relative permeability: 1
+relative permittivity: 1
+refractive index: 1
+OmegaWiki Defined Meaning: "8558"
+Commons category: Vacuum
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Kolbenluftpumpe%20hg.jpg
+Colon Classification: C28:76
+---
+
+
+## #has_/text_of_/abstract 
+
+> A **Vacuum** (pl.: vacuums or vacua) is  space devoid of matter. 
+> The word is derived from the Latin adjective vacuus (neuter vacuum) meaning "vacant" or "void". 
+> An approximation to such vacuum is a region with a gaseous pressure 
+> much less than atmospheric pressure.  
+> 
+> Physicists often discuss ideal test results that would occur in a perfect vacuum, 
+> which they sometimes simply call "vacuum" or free space, and use the term 
+> partial vacuum to refer to an actual imperfect vacuum as one might have in a laboratory or in space. 
+> 
+> In engineering and applied physics on the other hand, vacuum refers to 
+> any space in which the pressure is considerably lower than atmospheric pressure. 
+> The Latin term in vacuo is used to describe an object that is surrounded by a vacuum.
+>
+> The quality of a partial vacuum refers to how closely it approaches a perfect vacuum. 
+> Other things equal, lower gas pressure means higher-quality vacuum. 
+> For example, a typical vacuum cleaner produces enough suction to reduce air pressure by around 20%. 
+> But higher-quality vacuums are possible. Ultra-high vacuum chambers, common in chemistry, physics, and engineering, operate below one trillionth (10−12) of atmospheric pressure (100 nPa), and can reach around 100 particles/cm3. Outer space is an even higher-quality vacuum, with the equivalent of just a few hydrogen atoms per cubic meter on average in intergalactic space.
+>
+> Vacuum has been a frequent topic of philosophical debate since ancient Greek times, but was not studied empirically until the 17th century. Clemens Timpler (1605) philosophized about the experimental possibility of producing a vacuum in small tubes. Evangelista Torricelli produced the first laboratory vacuum in 1643, and other experimental techniques were developed as a result of his theories of atmospheric pressure. A Torricellian vacuum is created by filling with mercury a tall glass container closed at one end, and then inverting it in a bowl to contain the mercury (see below).
+>
+> Vacuum became a valuable industrial tool in the 20th century with the introduction of incandescent light bulbs and vacuum tubes, and a wide array of vacuum technologies has since become available. The development of human spaceflight has raised interest in the impact of vacuum on human health, and on life forms in general.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Vacuum)
+

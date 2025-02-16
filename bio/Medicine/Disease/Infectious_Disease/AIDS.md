@@ -1,0 +1,135 @@
+---
+has_id_wikidata: Q12199
+drug or therapy used for treatment:
+  - "[[_Standards/WikiData/WD~tenofovir,155954]]"
+  - "[[_Standards/WikiData/WD~zidovudine,198504]]"
+  - "[[_Standards/WikiData/WD~nevirapine,263713]]"
+  - "[[_Standards/WikiData/WD~abacavir,304330]]"
+  - "[[_Standards/WikiData/WD~delavirdine,370244]]"
+  - "[[_Standards/WikiData/WD~maraviroc,421369]]"
+  - "[[_Standards/WikiData/WD~raltegravir,421552]]"
+  - "[[_Standards/WikiData/WD~amprenavir,422198]]"
+  - "[[_Standards/WikiData/WD~lopinavir,422585]]"
+  - "[[_Standards/WikiData/WD~didanosine,422606]]"
+  - "[[_Standards/WikiData/WD~ritonavir,422618]]"
+  - "[[_Standards/WikiData/WD~lamivudine,422631]]"
+  - "[[_Standards/WikiData/WD~efavirenz,422645]]"
+  - "[[_Standards/WikiData/WD~saquinavir,422654]]"
+  - "[[_Standards/WikiData/WD~enfuvirtide,423327]]"
+  - "[[_Standards/WikiData/WD~nelfinavir,423366]]"
+  - "[[_Standards/WikiData/WD~stavudine,423984]]"
+  - "[[_Standards/WikiData/WD~indinavir,425490]]"
+  - "[[_Standards/WikiData/WD~fosamprenavir,1385311]]"
+  - "[[_Standards/WikiData/WD~zalcitabine,2344582]]"
+  - "[[_Standards/WikiData/WD~darunavir,3765251]]"
+  - "[[_Standards/WikiData/WD~lamivudine_zidovudine,6482030]]"
+  - "[[_Standards/WikiData/WD~tenofovir disoproxil,27132753]]"
+instance of:
+  - "[[_Standards/WikiData/WD~syndrome,179630]]"
+  - "[[_Standards/WikiData/WD~endemic disease,506680]]"
+  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
+  - "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
+  - "[[_Standards/WikiData/WD~pandemic,12184]]"
+anatomical location: "[[_Standards/WikiData/WD~T-lymphocytes,193529]]"
+symptoms and signs:
+  - "[[_Standards/WikiData/WD~lymphoma,208414]]"
+  - "[[_Standards/WikiData/WD~night sweats,474718]]"
+  - "[[_Standards/WikiData/WD~myalgia,474959]]"
+  - "[[_Standards/WikiData/WD~rash,653197]]"
+  - "[[_Standards/WikiData/WD~weight loss,718113]]"
+  - "[[_Standards/WikiData/WD~Kaposi's sarcoma,725345]]"
+  - "[[_Standards/WikiData/WD~opportunistic infection,835718]]"
+  - "[[_Standards/WikiData/WD~lymphadenopathy,847726]]"
+  - "[[_Standards/WikiData/WD~peripheral neuropathy,945238]]"
+  - "[[_Standards/WikiData/WD~sore throat,1292082]]"
+  - "[[_Standards/WikiData/WD~chills,2260058]]"
+  - "[[_Standards/WikiData/WD~mouth ulcer,3245680]]"
+  - "[[_Standards/WikiData/WD~lethargy,15637420]]"
+  - "[[_Standards/WikiData/WD~enlargement of lymph nodes,102187500]]"
+  - "[[_Standards/WikiData/WD~fatigue,9690]]"
+  - "[[_Standards/WikiData/WD~fever,38933]]"
+  - "[[_Standards/WikiData/WD~diarrhea,40878]]"
+medical examination:
+  - "[[_Standards/WikiData/WD~ELISEA,332126]]"
+  - "[[_Standards/WikiData/WD~blotting,885458]]"
+  - "[[_Standards/WikiData/WD~blood test,886837]]"
+  - "[[_Standards/WikiData/WD~rapid antigen test,27961635]]"
+"handled, mitigated, or managed by": "[[_Standards/WikiData/WD~antiretroviral therapy for HIV_AIDS,583050]]"
+possible treatment:
+  - "[[_Standards/WikiData/WD~antiretroviral therapy for HIV_AIDS,583050]]"
+  - "[[_Standards/WikiData/WD~post-exposure prophylaxis,1361206]]"
+  - "[[_Standards/WikiData/WD~pre-exposure prophylaxis against HIV,7239230]]"
+health specialty: "[[_Standards/WikiData/WD~infectious diseases,788926]]"
+on focus list of Wikimedia project:
+  - "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+  - "[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]"
+has effect: "[[_Standards/WikiData/WD~death from AIDS-related complications,4651894]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~acquired immunodeficiency,12131931]]"
+  - "[[_Standards/WikiData/WD~human immunodeficiency virus infectious disease,18556697]]"
+  - "[[_Standards/WikiData/WD~pandemic and epidemic-prone diseases,131345497]]"
+  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - "[[_Standards/WikiData/WD~sexually transmitted infection,12198]]"
+genetic association:
+  - "[[_Standards/WikiData/WD~RXRG,18031338]]"
+  - "[[_Standards/WikiData/WD~DGKI,18033881]]"
+  - "[[_Standards/WikiData/WD~TGFBRAP1,18034058]]"
+  - "[[_Standards/WikiData/WD~PARD3B,18049302]]"
+different from: "[[_Standards/WikiData/WD~simian acquired immunodeficiency syndrome,19000697]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~HIV _ AIDS,25691272]]"
+"relates to sustainable development goal, target or indicator": "[[_Standards/WikiData/WD~Target 3.3 of the Sustainable Development Goals,57590755]]"
+UMLS CUI: C0001175
+facet of: "[[_Standards/WikiData/WD~human health,113989432]]"
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Aids-article.ogg
+logo image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Ribbon.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Roja%20AIDS%C3%AA%20ku.png
+exact match:
+  - http://identifiers.org/doid/DOID:635
+  - http://purl.obolibrary.org/obo/DOID_635
+MeSH tree code:
+  - C01.778.640.400.040
+  - C01.925.782.815.616.400.040
+  - C01.925.813.400.040
+  - C01.925.839.040
+  - C20.673.480.040
+  - C01.221.250.875.040
+  - C01.221.812.640.400.040
+  - C12.100.937.640.400.040
+IPTC NewsCode: mediatopic/20000452
+Krugosvet article: medicina/SINDROM_PRIOBRETENNOGO_IMMUNODEFITSITA_SPID.html
+disease burden: 91907445
+location of discovery:
+  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+  - "[[_Standards/WikiData/WD~Kinshasa,3838]]"
+has cause: "[[_Standards/WikiData/WD~HIV,15787]]"
+number of cases: 39000000
+number of deaths: 40400000
+OmegaWiki Defined Meaning: "105"
+DiseasesDB: "5938"
+ICD-10-CM: B20
+start time: 1959-01-01T00:00:00Z
+time of discovery or invention: 1959-01-01T00:00:00Z
+Commons gallery: AIDS
+Commons category: AIDS
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20Immunodeficency%20Virus%20-%20stylized%20rendering.jpg
+---
+
+
+## #has_/text_of_/abstract 
+
+> The human immunodeficiency virus (HIV) is a retrovirus that attacks the immune system. It is a preventable disease. It can be managed with treatment and become a manageable chronic health condition. While there is no cure or vaccine for HIV, antiretroviral treatment can slow the course of the disease and enable people living with HIV to lead long and healthy lives. An HIV-positive person on treatment can expect to live a normal life, and die with the virus, not of it. Effective treatment for HIV-positive people (people living with HIV) involves a life-long regimen of medicine to suppress the virus, making the viral load undetectable. Without treatment it can lead to a spectrum of conditions including acquired immunodeficiency syndrome (**AIDS**). 
+>
+> Treatment is recommended as soon as the diagnosis is made. An HIV-positive person who has an undetectable viral load as a result of long-term treatment has effectively no risk of transmitting HIV sexually. Campaigns by UNAIDS and organizations around the world have communicated this as Undetectable = Untransmittable. Without treatment the infection can interfere with the immune system, and eventually progress to AIDS, sometimes taking many years. Following initial infection an individual may not notice any symptoms, or may experience a brief period of influenza-like illness. During this period the person may not know that they are HIV-positive, yet they will be able to pass on the virus. Typically, this period is followed by a prolonged incubation period with no symptoms. Eventually the HIV infection increases the risk of developing other infections such as tuberculosis, as well as other opportunistic infections, and tumors which are rare in people who have normal immune function. The late stage is often also associated with unintended weight loss. Without treatment a person living with HIV can expect to live for 11 years. Early testing can show if treatment is needed to stop this progression and to prevent infecting others.
+>
+> HIV is spread primarily by unprotected sex (including anal and vaginal sex), contaminated hypodermic needles or blood transfusions, and from mother to child during pregnancy, delivery, or breastfeeding. Some bodily fluids, such as saliva, sweat, and tears, do not transmit the virus. Oral sex has little risk of transmitting the virus. Ways to avoid catching HIV and preventing the spread include safe sex, treatment to prevent infection ("PrEP"), treatment to stop infection in someone who has been recently exposed ("PEP"), treating those who are infected, and needle exchange programs. Disease in a baby can often be prevented by giving both the mother and child antiretroviral medication.
+>
+> Recognized worldwide in the early 1980s, HIV/AIDS has had a large impact on society, both as an illness and as a source of discrimination. The disease also has large economic impacts. There are many misconceptions about HIV/AIDS, such as the belief that it can be transmitted by casual non-sexual contact. The disease has become subject to many controversies involving religion, including the Catholic Church's position not to support condom use as prevention. It has attracted international medical and political attention as well as large-scale funding since it was identified in the 1980s.
+>
+> HIV made the jump from other primates to humans in west-central Africa in the early-to-mid-20th century. AIDS was first recognized by the U.S. Centers for Disease Control and Prevention (CDC) in 1981 and its cause—HIV infection—was identified in the early part of the decade. Between the first time AIDS was readily identified through 2024, the disease is estimated to have caused at least 42.3 million deaths worldwide. In 2023, 630,000 people died from HIV-related causes, an estimated 1.3 million people acquired HIV and about 39.9 million people worldwide living with HIV, 65% of whom are in the World Health Organization (WHO) African Region. HIV/AIDS is considered a pandemic—a disease outbreak which is present over a large area and is actively spreading. The United States' National Institutes of Health (NIH) and the Gates Foundation have pledged $200 million focused on developing a global cure for AIDS.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/HIV/AIDS)
+
+
+
+

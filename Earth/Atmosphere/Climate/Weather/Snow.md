@@ -1,0 +1,60 @@
+---
+has_id_wikidata: Q7561
+has use: "[[_Standards/WikiData/WD~winter sport,204686]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~material,214609]]"
+  - "[[_Standards/WikiData/WD~precipitation,25257]]"
+has part(s): "[[_Standards/WikiData/WD~snowflake,550147]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+made from material:
+  - "[[_Standards/WikiData/WD~ice crystal,1325808]]"
+  - "[[_Standards/WikiData/WD~air,7391292]]"
+studied in: "[[_Standards/WikiData/WD~snow science,1898432]]"
+different from: "[[_Standards/WikiData/WD~Q9395698,9395698]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q26197463,26197463]]"
+instance of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+UMLS CUI:
+  - C0337013
+  - C0037386
+MeSH tree code:
+  - G16.500.175.867
+  - G16.500.275.063.725.480
+  - G16.500.750.775.480
+  - N06.230.300.100.725.480
+color: "[[_Standards/WikiData/WD~white,23444]]"
+melting point: 0
+OmegaWiki Defined Meaning: "3455"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCsseldorf%20Hofgarten%202009.jpg
+winter view: http://commons.wikimedia.org/wiki/Special:FilePath/Field-with-snow-champ-enneige.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Snowing%20video%20samye%20ling%201.ogv
+Unicode character: ⁎
+U.S. National Archives Identifier: "10644069"
+IHO Hydrographic Dictionary (S-32) Number: "4834"
+Commons gallery: Snow
+Commons category: Snow
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Snow** consists of individual ice crystals that grow while suspended in the atmosphere—usually within clouds—and then fall, accumulating on the ground where they undergo further changes. It consists of frozen crystalline water throughout its life cycle, starting when, under suitable conditions, the ice crystals form in the atmosphere, increase to millimeter size, precipitate and accumulate on surfaces, then metamorphose in place, and ultimately melt, slide, or sublimate away.
+>
+> Snowstorms organize and develop by feeding on sources of atmospheric moisture and cold air. Snowflakes nucleate around particles in the atmosphere by attracting supercooled water droplets, which freeze in hexagonal-shaped crystals. Snowflakes take on a variety of shapes, basic among these are platelets, needles, columns, and rime. As snow accumulates into a snowpack, it may blow into drifts. Over time, accumulated snow metamorphoses, by sintering, sublimation, and freeze-thaw. Where the climate is cold enough for year-to-year accumulation, a glacier may form. Otherwise, snow typically melts seasonally, causing runoff into streams and rivers and recharging groundwater.
+>
+> Major snow-prone areas include the polar regions, the northernmost half of the Northern Hemisphere, and mountainous regions worldwide with sufficient moisture and cold temperatures. In the Southern Hemisphere, snow is confined primarily to mountainous areas, apart from Antarctica.
+>
+> Snow affects such human activities as transportation: creating the need for keeping roadways, wings, and windows clear; agriculture: providing water to crops and safeguarding livestock; sports such as skiing, snowboarding, and snowmachine travel; and warfare. Snow affects ecosystems, as well, by providing an insulating layer during winter under which plants and animals are able to survive the cold.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Snow)
+

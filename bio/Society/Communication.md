@@ -49,7 +49,11 @@ MeSH tree code:
 ## #has_/text_of_/abstract 
 
 > **Communication** is commonly defined as the transmission of information. 
-> Its precise definition is disputed and there are disagreements about whether unintentional or failed transmissions are included and whether communication not only transmits meaning but also creates it. Models of communication are simplified overviews of its main components and their interactions. Many models include the idea that a source uses a coding system to express information in the form of a message. The message is sent through a channel to a receiver who has to decode it to understand it. The main field of inquiry investigating communication is called communication studies.
+> Its precise definition is disputed and there are disagreements about 
+> whether unintentional or failed transmissions are included and 
+> whether communication not only transmits meaning but also creates it. 
+> 
+> Models of communication are simplified overviews of its main components and their interactions. Many models include the idea that a source uses a coding system to express information in the form of a message. The message is sent through a channel to a receiver who has to decode it to understand it. The main field of inquiry investigating communication is called communication studies.
 >
 > A common way to classify communication is by whether information is exchanged between humans, members of other species, or non-living entities such as computers. For human communication, a central contrast is between verbal and non-verbal communication. Verbal communication involves the exchange of messages in linguistic form, including spoken and written messages as well as sign language. Non-verbal communication happens without the use of a linguistic system, for example, using body language, touch, and facial expressions. Another distinction is between interpersonal communication, which happens between distinct persons, and intrapersonal communication, which is communication with oneself. Communicative competence is the ability to communicate well and applies to the skills of formulating messages and understanding them.
 >
