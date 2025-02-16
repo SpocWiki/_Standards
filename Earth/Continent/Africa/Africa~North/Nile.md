@@ -1,0 +1,93 @@
+---
+has_id_wikidata: Q3392
+different from: "[[_Standards/WikiData/WD~Nil,342513]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+tributary:
+  - "[[_Standards/WikiData/WD~Atbarah River,753897]]"
+  - "[[_Standards/WikiData/WD~Wadi Hammamat,1479250]]"
+origin of the watercourse:
+  - "[[_Standards/WikiData/WD~Blue Nile,882739]]"
+  - "[[_Standards/WikiData/WD~White Nile,4814791]]"
+drainage basin: "[[_Standards/WikiData/WD~Nile basin,2887548]]"
+topic's main template: "[[_Standards/WikiData/WD~Q17984079,17984079]]"
+depicted by:
+  - "[[_Standards/WikiData/WD~Nile, Fountain in Piazza del Campidoglio,125809210]]"
+  - "[[_Standards/WikiData/WD~Nile in Fontana dei fiumi,126210738]]"
+  - "[[_Standards/WikiData/WD~Allegories of the Nile,126421284]]"
+coordinate location:
+  - Point(32.5055 15.640138888)
+  - Point(30.3667 31.4653)
+BHCL UUID: 1d9421f4-29bf-468a-bb56-ce06ed15a88f
+basin country:
+  - "[[_Standards/WikiData/WD~Tanzania,924]]"
+  - "[[_Standards/WikiData/WD~South Sudan,958]]"
+  - "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+  - "[[_Standards/WikiData/WD~Eritrea,986]]"
+  - "[[_Standards/WikiData/WD~Uganda,1036]]"
+  - "[[_Standards/WikiData/WD~Sudan,1049]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Kenya,114]]"
+country:
+  - "[[_Standards/WikiData/WD~Tanzania,924]]"
+  - "[[_Standards/WikiData/WD~South Sudan,958]]"
+  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+  - "[[_Standards/WikiData/WD~Eritrea,986]]"
+  - "[[_Standards/WikiData/WD~Uganda,1036]]"
+  - "[[_Standards/WikiData/WD~Sudan,1049]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Kenya,114]]"
+instance of: "[[_Standards/WikiData/WD~river,4022]]"
+mouth of the watercourse: "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
+elevation above sea level:
+  - 0
+  - 2700
+watershed area: 3400000
+discharge: 2830
+length: 6650
+OmegaWiki Defined Meaning: "1337351"
+U.S. National Archives Identifier: "10038761"
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Aswan%20banner.jpg
+Commons gallery: Nile
+Commons category: Nile
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Cairo%20skyline%2C%20Panoramic%20view%2C%20Egypt.jpg
+aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/ISS-64%20Nile%20Delta%2C%20Sinai%20Peninsula%20and%20Mediterranean%20Sea%2C%20Middle%20East.jpg
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%86%D9%87%D8%B1%20%D8%A7%D9%84%D9%86%D9%8A%D9%84.wav
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/River%20Nile%20map.svg
+Wolfram Language entity code: Entity["River", "Nile::h43n2"]
+DPLA subject term: Nile River
+---
+
+
+## #has_/text_of_/abstract 
+
+> The **Nile** (also known as the Nile River or River Nile) is a major north-flowing river in northeastern Africa. It flows into the Mediterranean Sea. The Nile is the longest river in Africa. It has historically been considered the longest river in the world,
+>
+> though this has been contested by research suggesting that the Amazon River is slightly longer.
+>
+> Of the world's major rivers, the Nile is one of the smallest, as measured by annual flow in cubic metres of water.
+>
+> About 6,650 km (4,130 mi) long, its drainage basin covers eleven countries: the Democratic Republic of the Congo, Tanzania, Burundi, Rwanda, Uganda, Kenya, Ethiopia, Eritrea, South Sudan, Sudan, and Egypt.
+>
+> In particular, the Nile is the primary water source of Egypt, Sudan and South Sudan.
+>
+> In these countries it is an important economic factor in agriculture and fishing.
+>
+> The Nile has two major tributaries: the White Nile and the Blue Nile. The White Nile, being the longer, is traditionally considered to be the headwaters stream, while the Blue Nile actually contributes 80% of the water and silt below the confluence of the two. The White Nile rises in the Great Lakes region. It begins at Lake Victoria and flows through Uganda and South Sudan. The Blue Nile begins at Lake Tana in Ethiopia and flows into Sudan from the southeast. The two rivers meet at the Sudanese capital of Khartoum.
+>
+> After Khartoum the river flows north, almost entirely through the Nubian Desert, to Cairo and its large delta, joining the Mediterranean Sea at Alexandria. Egyptian civilization and Sudanese kingdoms have depended on the river and its annual flooding since ancient times. Most of the population and cities of Egypt lie along those parts of the Nile valley north of the Aswan Dam. Nearly all the cultural and historical sites of Ancient Egypt developed and are found along river banks. The Nile is, with the Rhône and Po, one of the three Mediterranean rivers with the largest water discharge.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Nile) 
+
+
