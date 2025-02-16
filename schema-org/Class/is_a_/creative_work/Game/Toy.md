@@ -1,0 +1,64 @@
+---
+has_id_wikidata: Q11422
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+used by:
+  - "[[_Standards/WikiData/WD~educator,974144]]"
+  - "[[_Standards/WikiData/WD~player,4197743]]"
+  - "[[_Standards/WikiData/WD~child,7569]]"
+said to be the same as: "[[_Standards/WikiData/WD~toy goods,1255568]]"
+partially coincident with:
+  - "[[_Standards/WikiData/WD~simulacrum,1412596]]"
+  - "[[_Standards/WikiData/WD~bucket,47107]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~tangible good,1485500]]"
+  - "[[_Standards/WikiData/WD~product,2424752]]"
+  - "[[_Standards/WikiData/WD~recreative work,17538258]]"
+  - "[[_Standards/WikiData/WD~recreational equipment,21550927]]"
+equivalent class: http://bibliograph.net/Toy
+IPTC NewsCode: mediatopic/20000254
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox toy,11016646]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Toys,18177741]]"
+different from: "[[_Standards/WikiData/WD~Q54894998,54894998]]"
+instance of: "[[_Standards/WikiData/WD~product category,63981612]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Child%20playing%20with%20a%20toy%20cart%20and%20horse.%20-front-%20%289726037522%29.jpg
+has use:
+  - "[[_Standards/WikiData/WD~game,11410]]"
+IAB code:
+  - "482"
+Nomenclature for Museum Cataloging:
+  - "14815"
+  - "14709"
+OmegaWiki Defined Meaning: "160539"
+Iconclass notation: 43C78
+U.S. National Archives Identifier: "10665548"
+Colon Classification: MMY
+Commons gallery: Toys
+Commons category: Toys
+aliases:
+  - plaything
+  - toy
+---
+
+
+## #has_/text_of_/abstract 
+
+> A **Toy** or plaything is an object that is used primarily to provide entertainment. 
+> Simple examples include toy blocks, board games, and dolls. 
+> Toys are often designed for use by children, although many are designed specifically for adults and pets. Toys can provide utilitarian benefits, including physical exercise, cultural awareness, or academic education. Additionally, utilitarian objects, especially those which are no longer needed for their original purpose, can be used as toys. Examples include children building a fort with empty cereal boxes and tissue paper spools, or a toddler playing with a broken TV remote. The term "toy" can also be used to refer to utilitarian objects purchased for enjoyment rather than need, or for expensive necessities for which a large fraction of the cost represents its ability to provide enjoyment to the owner, such as luxury cars, high-end motorcycles, gaming computers, and flagship smartphones.
+>
+> Playing with toys can be an enjoyable way of training young children for life experiences. Different materials like wood, clay, paper, and plastic are used to make toys. Newer forms of toys include interactive digital entertainment and smart toys. Some toys are produced primarily as collectors' items and are intended for display only.
+>
+> The origin of toys is prehistoric; dolls representing infants, animals, and soldiers, as well as representations of tools used by adults, are readily found at archaeological sites. The origin of the word "toy" is unknown, but it is believed that it was first used in the 14th century. Toys are mainly made for children. The oldest known doll toy is thought to be 4,000 years old.
+>
+> Playing with toys is an important part of aging. Younger children use toys to discover their identity, help with cognition, learn cause and effect, explore relationships, become stronger physically, and practice skills needed in adulthood. Adults on occasion use toys to form and strengthen social bonds, teach, help in therapy, and to remember and reinforce lessons from their youth.
+>
+> A toymaker is the name of someone who makes toys.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Toy) 
+
+
