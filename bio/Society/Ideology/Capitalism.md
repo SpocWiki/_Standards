@@ -96,7 +96,7 @@ U.S. National Archives Identifier: "10638013"
 > as well as mercantilist practices by European countries 
 > between the 16th and 18th centuries. 
 > 
-> The [[Industrial_Revolution]] of the 18th century 
+> The [[../History/Industrial_Revolution]] of the 18th century 
 > established capitalism as a dominant mode of production
 > , characterized by factory work and a complex division of labor. 
 > 
