@@ -1,11 +1,11 @@
-﻿---
+---
 location:
-- -3.5
-- 30
+  - -3.5
+  - 30
 type: Country
 tags:
-- geo/Country
-has_id_wikidata: Q967 
+  - geo/Country
+has_id_wikidata: Q967
 SpocWebEntityId: 26848
 isDeleted: false
 confidential: public
@@ -22,15 +22,289 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Burundi
-- بوروندي
-- 布隆迪
-- Бурунди
-- the Republic of Burundi
-- la República de Burundi
+  - Burundi
+  - بوروندي
+  - 布隆迪
+  - Бурунди
+  - the Republic of Burundi
+  - la República de Burundi
 Languages:
-- fr-BI
-- rn
+  - fr-BI
+  - rn
+demonym:
+  - Burúnach
+  - بوروندي
+  - بوروندية
+  - بورونديون
+  - بوروندي
+  - burundiana
+  - burundianu
+  - বুরুন্ডীয়
+  - burundier
+  - Burundian
+  - Burundano
+  - burundés
+  - burundesa
+  - Burundais
+  - Burundaise
+  - בורונדי
+  - בורונדית
+  - burundi
+  - Burundiano
+  - burundese
+  - burundesi
+  - burundes
+  - burundez
+  - burundeză
+  - burundezi
+  - burundezi
+  - burundezo
+  - Rundiyänan
+  - بوروندية
+  - بورونديات
+  - بورونديين
+coordinates of southernmost point: Point(29.753 -4.469)
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Tanzania,924]]"
+  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
+country: "[[_Standards/WikiData/WD~Burundi,967]]"
+member of:
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~African Union,7159]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Economic Community of Central African States,189966]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~AFRISTAT,3348506]]"
+official language:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~Kirundi,33583]]"
+headquarters location: "[[_Standards/WikiData/WD~Bujumbura,3854]]"
+lowest point: "[[_Standards/WikiData/WD~Lake Tanganyika,5511]]"
+instance of:
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~landlocked country,123480]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+  - "[[_Standards/WikiData/WD~Africa_Bujumbura,4689483]]"
+part of: "[[_Standards/WikiData/WD~East Africa,27407]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
+language used:
+  - "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~Kirundi,33583]]"
+  - "[[_Standards/WikiData/WD~Swahili,3197533]]"
+unemployment rate: 7
+marriageable age:
+  - 18
+  - 21
+VAT rate: 18
+age of majority: 21
+mains voltage: 220
+named after: "[[_Standards/WikiData/WD~Kirundi,33583]]"
+BTI Governance Index:
+  - 4.8
+  - 2.77
+  - 3.23
+  - 3.25
+  - 3.29
+  - 4.07
+  - 4.14
+  - 4.46
+  - 4.55
+suicide rate: 9.1
+Democracy Index: 2.14
+top-level Internet domain: "[[_Standards/WikiData/WD~.bi,41988]]"
+Inequality-adjusted Human Development Index: 0.302
+BTI Status Index:
+  - 3.38
+  - 3.49
+  - 3.58
+  - 3.97
+  - 4.36
+  - 4.41
+  - 4.54
+  - 4.59
+  - 4.78
+Happy Planet Index score: 37.7
+Gini coefficient: 38.6
+Human Development Index: 0.426
+number of out-of-school children: 824000
+literacy rate: 85.5
+maritime identification digits: "609"
+ISO 3166-1 numeric code: "108"
+M49 code: "108"
+total fertility rate: 5.948
+death rate:
+  - 7.311
+  - 7.352
+  - 7.474
+  - 7.562
+licence plate code: RU
+IAB code: "1265"
+ISO 3166-1 alpha-2 code: BI
+WIPO ST.3: BI
+area: 27834
+birth rate:
+  - 34.109
+  - 34.842
+  - 35.603
+  - 36.323
+OmegaWiki Defined Meaning: "8307"
+life expectancy: 57.481
+mobile country code: "642"
+GitHub topic: burundi
+CIVICUS Monitor country entry: burundi
+Libris-URI: pm132kx738pwbj5
+Krugosvet article: strany_mira/BURUNDI.html
+motto text:
+  - Единство, труд, прогрес
+  - Beautiful Burundi
+  - Ubumwe, Ibikorwa, Amajambere
+  - Unitate, Trudă, Progres
+  - Unité, Travail, Progrès
+official name:
+  - Republic of Burundi
+  - République du Burundi
+  - Uburundi
+short name:
+  - Burundi
+  - 🇧🇮
+native label: Uburundi
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burundi.svg
+Unicode character: 🇧🇮
+urban population:
+  - 1764450
+  - 1858290
+  - 1587191
+  - 1675149
+FIPS 10-4 (countries and regions): BY
+female population:
+  - 5980560
+  - 6488650
+  - 6153627
+  - 6319427
+INSEE countries and foreign territories code: "99321"
+population: 13689450
+coordinate location: Point(29.816667 -3.666667)
+nominal GDP:
+  - 2775798697
+  - 3338722830
+male population:
+  - 5894278
+  - 6066599
+  - 6231786
+  - 6400926
+ISO 3166-1 alpha-3 code: BDI
+ITU letter code: BDI
+IOC country code: BDI
+inception: 1962-07-01T00:00:00Z
+rural population:
+  - 10287647
+  - 10545078
+  - 10786763
+  - 11031286
+Commons category: Burundi
+subreddit: Burundi
+hashtag: Burundi
+Commons gallery: Burundi
+coordinates of northernmost point: Point(30.4 -2.32)
+U.S. National Archives Identifier: "10044244"
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Burundi.svg
+geoshape: http://commons.wikimedia.org/data/main/Data:Burundi.map
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bujumbura%20%28Burundi%29%20Coconut%20beach.jpg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Burundi%20%28orthographic%20projection%29.svg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Burundi.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A8%D9%88%D8%B1%D9%88%D9%86%D8%AF%D9%8A.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Burundi.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AC%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF.wav
+country calling code: "+257"
+Dewey Decimal Classification: 2--67572
+flag: "[[_Standards/WikiData/WD~flag of Burundi,103084]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Burundi,109103]]"
+capital: "[[_Standards/WikiData/WD~Gitega,167551]]"
+anthem: "[[_Standards/WikiData/WD~Burundi Bwacu,326886]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Bururi Province,431385]]"
+  - "[[_Standards/WikiData/WD~Bubanza Province,460538]]"
+  - "[[_Standards/WikiData/WD~Cibitoke Province,505596]]"
+  - "[[_Standards/WikiData/WD~Kirundo Province,600840]]"
+  - "[[_Standards/WikiData/WD~Cankuzo Province,645033]]"
+  - "[[_Standards/WikiData/WD~Bujumbura Rural Province,645043]]"
+  - "[[_Standards/WikiData/WD~Muramvya Province,671086]]"
+  - "[[_Standards/WikiData/WD~Gitega Province,720843]]"
+  - "[[_Standards/WikiData/WD~Kayanza Province,720848]]"
+  - "[[_Standards/WikiData/WD~Ngozi Province,720852]]"
+  - "[[_Standards/WikiData/WD~Karuzi Province,735463]]"
+  - "[[_Standards/WikiData/WD~Rutana Province,822566]]"
+  - "[[_Standards/WikiData/WD~Muyinga Province,822571]]"
+  - "[[_Standards/WikiData/WD~Ruyigi Province,822578]]"
+  - "[[_Standards/WikiData/WD~Makamba Province,823740]]"
+  - "[[_Standards/WikiData/WD~Mwaro Province,847718]]"
+  - "[[_Standards/WikiData/WD~Bujumbura Mairie,1816580]]"
+central bank: "[[_Standards/WikiData/WD~Bank of the Republic of Burundi,806937]]"
+history of topic: "[[_Standards/WikiData/WD~history of Burundi,852253]]"
+replaces: "[[_Standards/WikiData/WD~Kingdom of Burundi,1192936]]"
+follows: "[[_Standards/WikiData/WD~Kingdom of Burundi,1192936]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~Type E,2335536]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Burundi,1483908]]"
+highest point: "[[_Standards/WikiData/WD~Mount Heha,1649074]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Burundi,2019945]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Burundi,2386733]]"
+culture: "[[_Standards/WikiData/WD~culture of Burundi,3007327]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~117,4547615]]"
+  - "[[_Standards/WikiData/WD~113,25648804]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Burundi,7112216]]"
+legislative body: "[[_Standards/WikiData/WD~Parliament of Burundi,7138930]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Burundi,11271035]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+executive body: "[[_Standards/WikiData/WD~Council of Ministers,16952177]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of Burundi,19057827]]"
+head of state: "[[_Standards/WikiData/WD~Évariste Ndayishimiye,27329764]]"
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q42042359,42042359]]"
+  - "[[_Standards/WikiData/WD~Q42042591,42042591]]"
+  - "[[_Standards/WikiData/WD~Q42042789,42042789]]"
+has characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Burundi,52728003]]"
+head of government: "[[_Standards/WikiData/WD~Gervais Ndirakobuca,107136851]]"
+coordinates of westernmost point: Point(29.001 -2.79)
+coordinates of easternmost point: Point(30.85 -2.98)
+UMLS CUI: C0006448
+official website: https://www.presidence.gov.bi/
+ISNI: "0000000120977669"
+MeSH tree code: Z01.058.290.120.180
+image: http://commons.wikimedia.org/wiki/Special:FilePath/By-map-fr.png
 ---
 
 # [[Burundi]] 
@@ -137,6 +411,19 @@ Capital :: [[Bujumbura]]
 #is_a_ :: [[Place]] 
 [has_place_longitude::30]
 [has_place_latitude::-3.5]
+
+
+## #has_/text_of_/abstract 
+
+> **Burundi**, officially the Republic of Burundi, is a landlocked country in the Great Rift Valley at the junction between the African Great Lakes region and Southeast Africa, with population of over 14 million people. It is bordered by Rwanda to the north, Tanzania to the east and southeast, and the Democratic Republic of the Congo to the west; Lake Tanganyika lies along its southwestern border. The capital city is Gitega and the largest city is Bujumbura.
+>
+> The Twa, Hutu and Tutsi peoples have lived in Burundi for at least 500 years. For more than 200 of those years, Burundi was an independent kingdom. In 1885, it became part of the German colony of German East Africa. After the First World War and Germany's defeat, the League of Nations mandated the territories of Burundi and neighboring Rwanda to Belgium in a combined territory called Rwanda-Urundi. After the Second World War, this transformed into a United Nations Trust Territory. Burundi gained independence in 1962 and initially retained the monarchy; a 1966 coup replaced the monarchy with a one-party republic. Over the next 27 years, Burundi was ruled by a series of Tutsi dictators and notably experienced a genocide of Hutus in 1972. In July 1993, Melchior Ndadaye became Burundi's first Hutu president following the country's first multi-party presidential election. His assassination three months later during a coup attempt provoked the 12-year Burundian Civil War. In 2000, the Arusha Agreement was adopted, which was largely integrated in a new constitution in 2005. Since the 2005 post-war elections, the country's dominant party has been the Hutu-led National Council for the Defense of Democracy – Forces for the Defense of Democracy (CNDD–FDD), widely accused of authoritarian governance and perpetuating the country's poor human rights record.
+>
+> Burundi remains primarily a rural society, with just 13.4% of the population living in urban areas in 2019. Burundi is densely populated, and many young people emigrate in search of opportunities elsewhere. Roughly 85% of the population are of Hutu ethnic origin, 15% are Tutsi, and fewer than 1% are Twa. The official languages of Burundi are Kirundi, French, and English—Kirundi being officially recognised as the sole national language. English was made an official language in 2014.
+>
+> One of the smallest countries in Africa, Burundi's land is used mostly for subsistence agriculture and grazing. Deforestation, soil erosion, and habitat loss are major ecological concerns. As of 2005, the country was almost completely deforested. Less than 6% of its land was covered by trees, with over half of that being for commercial plantations. Burundi is the poorest country in the world by nominal GDP per capita and is one of the least developed countries. It faces widespread poverty, corruption, instability, authoritarianism and illiteracy. The 2018 World Happiness Report ranked the country as the world's least happy with a rank of 156. Burundi is a member of the African Union, Common Market for Eastern and Southern Africa, United Nations, East African Community (EAC), OIF and the Non-Aligned Movement.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Burundi) 
 
 
 

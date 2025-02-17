@@ -1,3 +1,368 @@
+---
+demonym:
+  - Crótach
+  - Chorvatka
+  - Chorvatky
+  - كرواتي
+  - كرواتية
+  - كرواتيين
+  - كرواتيات
+  - كرواتية
+  - croata
+  - Croatian
+  - Croate
+  - קרואטית
+  - horvát
+  - croato
+  - corvatsce
+  - хрватски
+  - croato
+  - كرواتي
+  - ক্রোয়েশীয়
+  - kroat
+  - kroater
+  - Kroatin
+  - kroatisch
+  - kroato
+  - Kroatiano
+  - croata
+  - croate
+  - croați
+  - хрватска
+  - kroatisk
+  - хорват
+  - хорвати
+  - хорватка
+  - croata
+  - croate
+  - Kroasänan
+  - Hrvatica
+  - Hrvat
+  - Chorvati
+  - كروات
+  - Chorvat
+  - Kroate
+  - kroatoj
+  - קרואטי
+  - croati
+  - Kroaat
+  - croat
+  - croată
+  - хорваты
+  - croati
+coordinate location: Point(15.466667 45.25)
+MeSH tree code: Z01.542.248.295
+IPA transcription:
+  - xɔrˈvät͡sjä
+  - kɾuːˈɑtsɪɑ
+  - xɐrˈvatʲɪjə
+coordinates of easternmost point: Point(19.4480136 45.19537138)
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~Mongolia,711]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Syria,858]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Norway,20]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Austria,40]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Belarus,184]]"
+  - "[[_Standards/WikiData/WD~Slovenia,215]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Albania,222]]"
+  - "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+  - "[[_Standards/WikiData/WD~Montenegro,236]]"
+  - "[[_Standards/WikiData/WD~Holy See,159583]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Slovenia,215]]"
+  - "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+  - "[[_Standards/WikiData/WD~Montenegro,236]]"
+  - "[[_Standards/WikiData/WD~Liberland,19801186]]"
+member of:
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~NATO,7184]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council of Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~International Centre for Migration Policy Development,498496]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~Australia Group,782942]]"
+  - "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+  - "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+part of:
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~eurozone,8268]]"
+  - "[[_Standards/WikiData/WD~Southern Europe,27449]]"
+  - "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
+  - "[[_Standards/WikiData/WD~post-Yugoslavia states,10860602]]"
+language used:
+  - "[[_Standards/WikiData/WD~Italian,652]]"
+  - "[[_Standards/WikiData/WD~Croatian,6654]]"
+  - "[[_Standards/WikiData/WD~Serbian,9299]]"
+  - "[[_Standards/WikiData/WD~Bosnian,9303]]"
+  - "[[_Standards/WikiData/WD~Istro-Romanian,33622]]"
+  - "[[_Standards/WikiData/WD~Istriot,35845]]"
+  - "[[_Standards/WikiData/WD~Sinte Romani,1793299]]"
+  - "[[_Standards/WikiData/WD~Croatian Sign Language,3507506]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Zagreb,1435]]"
+  - "[[_Standards/WikiData/WD~Zagreb County,27038]]"
+  - "[[_Standards/WikiData/WD~Krapina-Zagorje County,57056]]"
+  - "[[_Standards/WikiData/WD~Sisak-Moslavina County,57060]]"
+  - "[[_Standards/WikiData/WD~Karlovac County,57071]]"
+  - "[[_Standards/WikiData/WD~Varaždin County,57967]]"
+  - "[[_Standards/WikiData/WD~Koprivnica-Križevci County,58026]]"
+  - "[[_Standards/WikiData/WD~Bjelovar-Bilogora County,58060]]"
+  - "[[_Standards/WikiData/WD~Primorje-Gorski Kotar County,58071]]"
+  - "[[_Standards/WikiData/WD~Lika-Senj County,58081]]"
+  - "[[_Standards/WikiData/WD~Virovitica-Podravina County,58092]]"
+  - "[[_Standards/WikiData/WD~Požega-Slavonia County,58111]]"
+  - "[[_Standards/WikiData/WD~Brod-Posavina County,58129]]"
+  - "[[_Standards/WikiData/WD~Zadar County,58146]]"
+  - "[[_Standards/WikiData/WD~Osijek-Baranja County,58159]]"
+  - "[[_Standards/WikiData/WD~Šibenik-Knin County,58194]]"
+  - "[[_Standards/WikiData/WD~Vukovar-Srijem County,58225]]"
+  - "[[_Standards/WikiData/WD~Split-Dalmatia County,58253]]"
+  - "[[_Standards/WikiData/WD~Istria County,58268]]"
+  - "[[_Standards/WikiData/WD~Dubrovnik-Neretva County,58289]]"
+  - "[[_Standards/WikiData/WD~Međimurje County,58330]]"
+capital: "[[_Standards/WikiData/WD~Zagreb,1435]]"
+located in or next to body of water:
+  - "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+  - "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
+instance of:
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~unitary state,179164]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
+official language: "[[_Standards/WikiData/WD~Croatian,6654]]"
+located in time zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+basic form of government: "[[_Standards/WikiData/WD~republic,7270]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Croatia,8067]]"
+lowest point: "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
+located in/on physical feature:
+  - "[[_Standards/WikiData/WD~Balkans,23522]]"
+  - "[[_Standards/WikiData/WD~Southeast Europe,263686]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+country: "[[_Standards/WikiData/WD~Croatia,224]]"
+suicide rate: 11
+unemployment rate: 17
+marriageable age: 18
+age of majority: 18
+mains voltage: 230
+VAT rate: 25
+Democracy Index: 6.5
+BTI Status Index:
+  - 8.3
+  - 7.91
+  - 7.93
+  - 8.07
+  - 8.13
+  - 8.17
+  - 8.25
+  - 8.57
+  - 8.71
+birth rate:
+  - 8.8
+  - 8.9
+  - 9.4
+death rate:
+  - 12.7
+  - 14.1
+  - 14.8
+  - 16.2
+total fertility rate: 1.46
+top-level Internet domain: "[[_Standards/WikiData/WD~.hr,41008]]"
+Gini coefficient: 28.9
+replaces:
+  - "[[_Standards/WikiData/WD~Socialist Federal Republic of Yugoslavia,83286]]"
+  - "[[_Standards/WikiData/WD~Socialist Republic of Croatia,209062]]"
+  - "[[_Standards/WikiData/WD~Eastern Slavonia, Baranja and Western Syrmia,5330471]]"
+flag: "[[_Standards/WikiData/WD~flag of Croatia,133015]]"
+anthem: "[[_Standards/WikiData/WD~Lijepa naša domovino,146502]]"
+coat of arms: "[[_Standards/WikiData/WD~Coat of arms of Croatia,184252]]"
+history of topic: "[[_Standards/WikiData/WD~history of Croatia,210726]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Croatia,215923]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of Croatia,268984]]"
+legislative body: "[[_Standards/WikiData/WD~Parliament of Croatia,371576]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+central bank: "[[_Standards/WikiData/WD~Croatian National Bank,1143457]]"
+office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Croatia,1195270]]"
+executive body: "[[_Standards/WikiData/WD~Government of Croatia,1278383]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Croatia,2047394]]"
+culture: "[[_Standards/WikiData/WD~culture of Croatia,2748196]]"
+has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+highest point: "[[_Standards/WikiData/WD~Sinjal,3183447]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Croatia,7112240]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Counties of Croatia,7658400]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Croatia,10815276]]"
+head of government: "[[_Standards/WikiData/WD~Andrej Plenković,11685764]]"
+railway traffic side: "[[_Standards/WikiData/WD~right,14565199]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~192,25648834]]"
+  - "[[_Standards/WikiData/WD~93,25743498]]"
+  - "[[_Standards/WikiData/WD~94,25743500]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q27103168,27103168]]"
+open data portal: "[[_Standards/WikiData/WD~Portal for publishing open data in Croatia,97011945]]"
+different from: "[[_Standards/WikiData/WD~Kroatien,128686072]]"
+coordinates of northernmost point: Point(16.37 46.55)
+coordinates of westernmost point: Point(13.48968778 45.48693537)
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik%20june%202011..JPG
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Croatia%20%28orthographic%20projection%29.png
+coordinates of southernmost point: Point(18.53151888 42.39224869)
+ISNI: "0000000121120050"
+Happy Planet Index score: 46.2
+trunk prefix: "0"
+BTI Governance Index:
+  - 5.98
+  - 6.04
+  - 6.07
+  - 6.39
+  - 6.46
+  - 6.61
+  - 6.87
+  - 6.88
+Inequality-adjusted Human Development Index: 0.797
+head of state: "[[_Standards/WikiData/WD~Zoran Milanović,57687]]"
+Human Development Index: 0.858
+GS1 country code: "385"
+maritime identification digits: "238"
+Dewey Decimal Classification: 2--4972
+ISO 3166-1 numeric code: "191"
+M49 code: "191"
+UIC numerical country code: "78"
+IAB code: "1277"
+"Image Archive, Herder Institute": Q224
+number of out-of-school children: 27168
+mobile country code: "219"
+area: 56594
+OmegaWiki Defined Meaning: "8119"
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg
+licence plate code: HR
+ISO 3166-1 alpha-2 code: HR
+FIPS 10-4 (countries and regions): HR
+NUTS code:
+  - HR
+  - HR0
+WIPO ST.3: HR
+UIC alphabetical country code: HR
+ISO 3166-1 alpha-3 code: HRV
+ITU letter code: HRV
+IOC country code: CRO
+INSEE countries and foreign territories code: "99119"
+rural population:
+  - 1610925
+  - 1633904
+  - 1718119
+  - 1738221
+Commons category: Croatia
+hashtag: Croatia
+Unicode character: 🇭🇷
+Commons gallery: Hrvatska
+Colon Classification: SG--59222
+Krugosvet article: strany_mira/HORVATIYA.html
+official name:
+  - Chorvatská republika
+  - Republic of Croatia
+  - République de Croatie
+  - Republika Hrvatska
+  - Republica Croația
+  - Republiken Kroatien
+  - Хрватска
+  - Hrvatska
+motto text:
+  - Llawn bywyd
+  - Full of life
+native label:
+  - Republika Hrvatska
+  - Hrvatska
+short name:
+  - Croația
+  - 🇭🇷
+location map: http://commons.wikimedia.org/wiki/Special:FilePath/Croatia%20location%20map.svg
+male population:
+  - 1877942
+  - 1888646
+  - 1969718
+  - 1976146
+female population:
+  - 1977699
+  - 1990335
+  - 2077963
+  - 2089106
+geoshape: http://commons.wikimedia.org/data/main/Data:Croatia.map
+urban population:
+  - 2244716
+  - 2245077
+  - 2327032
+  - 2329561
+population: 3871833
+life expectancy: 78.02195
+PM20 geo code: A40g
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Croatia.svg
+WOEID: "23424843"
+inception: 1991-06-25T00:00:00Z
+Libris-URI: 64jlkbvq4b1l6f6
+official website:
+  - https://vlada.gov.hr/en
+  - http://www.vlada.hr
+GitHub topic: croatia
+CIVICUS Monitor country entry: croatia
+subreddit: croatia
+nominal GDP: 70964606465
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Croatia%20Wikivoyage%20banner.jpg
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Croa%C8%9Bia.wav
+country calling code: "+385"
+U.S. National Archives Identifier: "10045284"
+BHCL UUID: bbcd115b-c5ae-49ac-8b3c-ab8e07472b22
+has_id_wikidata: Q224
+---
 ﻿---
 location:
     - 45.8
@@ -146,6 +511,25 @@ Capital :: [[Zagreb]]
 [has_place_latitude::45.8]
 
 
+## #has_/text_of_/abstract 
+
+> **Croatia**, officially the Republic of Croatia is a country in Central and Southeast Europe, 
+> on the coast of the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, 
+> Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, 
+> and shares a maritime border with Italy to the west. 
+> 
+> Its capital and largest city, Zagreb, forms one of the country's primary subdivisions, 
+> with twenty counties. Other major urban centers include Split, Rijeka and Osijek. 
+> The country spans 56,594 square kilometres (21,851 square miles), 
+> and has a population of nearly 3.9 million.
+>
+> The Croats arrived in modern-day Croatia in the late 6th century, then part of Roman Illyria. By the 7th century, they had organized the territory into two duchies. Croatia was first internationally recognized as independent on 7 June 879 during the reign of Duke Branimir. Tomislav became the first king by 925, elevating Croatia to the status of a kingdom. During the succession crisis after the Trpimirović dynasty ended, Croatia entered a personal union with Hungary in 1102. In 1527, faced with Ottoman conquest, the Croatian Parliament elected Ferdinand I of Austria to the Croatian throne. In October 1918, the State of Slovenes, Croats, and Serbs, independent from the Habsburg Empire, was proclaimed in Zagreb, and in December 1918, it merged into the Kingdom of Yugoslavia. Following the Axis invasion of Yugoslavia in April 1941, most of Croatia was incorporated into a Nazi-installed puppet state, the Independent State of Croatia. A resistance movement led to the creation of the Socialist Republic of Croatia, which after the war became a founding member and constituent of the Socialist Federal Republic of Yugoslavia. On 25 June 1991, Croatia declared independence, and the War of Independence was successfully fought over the next four years.
+>
+> Croatia is a republic and has a parliamentary system. It is a member of the European Union, the Eurozone, the Schengen Area, NATO, the United Nations, the Council of Europe, the OSCE, the World Trade Organization, a founding member of the Union for the Mediterranean, and is currently in the process of joining the OECD. An active participant in United Nations peacekeeping, Croatia contributed troops to the International Security Assistance Force and was elected to fill a non-permanent seat on the United Nations Security Council in the 2008–2009 term for the first time.
+>
+> Croatia is a developed country with an advanced high-income economy. Service, industrial sectors, and agriculture dominate the economy. Tourism is a significant source of revenue for the country, with nearly 20 million tourist arrivals as of 2019. Since the 2000s, the Croatian government has heavily invested in infrastructure, especially transport routes and facilities along the Pan-European corridors. Croatia has also positioned itself as a regional energy leader in the early 2020s and is contributing to the diversification of Europe's energy supply via its floating liquefied natural gas import terminal off Krk island, LNG Hrvatska. Croatia provides social security, universal health care, and tuition-free primary and secondary education while supporting culture through public institutions and corporate investments in media and publishing.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Croatia)
 
 ## Confidential Links & Embeds: 
 

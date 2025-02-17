@@ -1,3 +1,15 @@
+---
+location:
+  - 41.7167
+  - 44.7833
+type: Country
+tags:
+  - geo/Country
+SpocWebEntityId: 26901
+isDeleted: false
+confidential: public
+icon: flag-ge
+---
 ﻿---
 location:
     - 41.7167
@@ -11,12 +23,11 @@ confidential: public
 icon: flag-ge
 ---
 
-# [[Georgia.Europe]] 
+#[[Georgia,Europe]]] 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Georgia 
-
-[[Georgia.Europe/ReadMe]] 
+[[Georgia,Europe/ReadMe]]] 
 
 [ISO2::GE]
 [ISO3::GEO] 
@@ -41,10 +52,9 @@ markerFolder: ./Georgia.Europe//
 [Area-Land::0]
 has_place_continent:: [[Europe]]  
 [VehicleCode::GEO]
-Capital :: [[Tbilisi]]  
+Capital ::[[Georgia,Europe/Regions~Georgia/Tbilisi]]]  
 ![[Coat_of_arms_of_Georgia.svg|350]]
-![[Anthem-Georgia.mp3]]
-![[Flag_of_Georgia.svg|350]]
+![[Anthem-Georgia.mp3]]![[Georgia,Europe/Flag_of_Georgia.svg|350]]]
 [Alcohol-l::6.4]
 [Language-Id::]
 #is_a_/Place  

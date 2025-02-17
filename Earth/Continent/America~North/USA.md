@@ -113,7 +113,7 @@ Population in 1000s as of @2020
 | City                                                                                                                      | State                                              |  Pop/k |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------: |
 | [[USA/USA~Eastern/New_York,State/counties~New_York/New_York,City\|New York,City]]                                         | [[USA/USA~Eastern/New_York,State\|New York,State]] | 8804.190 |
-| [[USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles\|Los Angeles]]         | [[USA/USA~Pacific/California\|California ]]        | 3898.747 |
+| [[USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City\|Los Angeles]]         | [[USA/USA~Pacific/California\|California ]]        | 3898.747 |
 | [[USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago\|Chicago]]                                   | [[USA/USA~Central/Illinois\|Illinois]]             | 2746.388 |
 | [[USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston\|Houston]]                                    | [[USA/USA~Mountain/Texas\|Texas]]                  | 2304.580 |
 | [[USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix\|Phoenix]]                            | [[USA/USA~Mountain/Arizona\|Arizona]]              | 1608.139 |
