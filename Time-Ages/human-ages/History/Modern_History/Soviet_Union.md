@@ -319,7 +319,7 @@ BHCL UUID:
 > forming various satellite states, and undertook rapid economic development 
 > which cemented its status as a superpower.
 >
-> Following World War II, ideological tensions with the United States eventually led to the [[Cold_War]]. 
+> Following World War II, ideological tensions with the United States eventually led to the [[Modern_History/Cold_War]]. 
 > The American-led Western Bloc coalesced into NATO in 1949, 
 > prompting the Soviet Union to form its own military alliance, 
 > commonly known as the Warsaw Pact, in 1955. 
