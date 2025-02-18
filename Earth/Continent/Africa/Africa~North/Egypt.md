@@ -129,7 +129,7 @@ markerFolder: ./Egypt//
 [Area-Land::995450]
 has_place_continent:: [[Africa]]  
 [VehicleCode::ET]
-Capital :: [[Kairo=Cairo]]  
+Capital ::[[Cairo]]]  
 ![[Coat_of_arms_of_Egypt.svg|350]]
 ![[Anthem-Egypt.mp3]]
 ![[Flag_of_Egypt.svg|350]]
