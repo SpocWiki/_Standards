@@ -1,0 +1,68 @@
+---
+has_id_wikidata: Q430
+Unicode character: 🦕
+hashtag:
+  - dinosaur
+  - dinosaurs
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Brontosaurus%20parvus.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20NT.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaur%20Rex%20and%20Triceratops.jpg
+subreddit: Dinosaurs
+Commons category: Dinosauria
+taxon name: Dinosauria
+Commons gallery: Dinosauria
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+instance of:
+  - "[[_Standards/WikiData/WD~clade,713623]]"
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
+has list: "[[_Standards/WikiData/WD~list of dinosaurs,718452]]"
+taxon rank: "[[_Standards/WikiData/WD~superorder,5868144]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of dinosaurs,7112607]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Dinosaurs,8772060]]"
+studied in: "[[_Standards/WikiData/WD~dinosaur paleontology,9054789]]"
+topic's main template: "[[_Standards/WikiData/WD~Q50380956,50380956]]"
+parent taxon: "[[_Standards/WikiData/WD~Dracohors,52798775]]"
+different from:
+  - "[[_Standards/WikiData/WD~non-avian dinosaur,82363570]]"
+  - "[[_Standards/WikiData/WD~Dinosaurus,109923829]]"
+this taxon is source of: "[[_Standards/WikiData/WD~dinosaur footprint,106165679]]"
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Dinosaur.ogg
+montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Dinosauria%20diversity.png
+WordLift URL: http://data.thenextweb.com/tnw/entity/dinosaur
+MeSH tree code: B01.050.150.900.833.150
+Wolfram Language entity code: Entity["Dinosaur", "Superorder:Dinosauria"]
+Krugosvet article: nauka_i_tehnika/biologiya/DINOZAVRI.html
+taxon common name:
+  - ਡਾਇਨਾਸੌਰ
+  - ڈائناسور
+  - ڈائناسر
+  - ڈائنوسار
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Helias%20C.%20%28BiblioCanet66%29-dinosaure.wav
+Provenio UUID: 5d3d232b-127d-4984-a09d-65ccef85d2c3
+UMLS CUI: C0949681
+OmegaWiki Defined Meaning: "636195"
+Wolfram Language entity type: Dinosaur
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Dinosaur**s are a diverse group of reptiles of the clade Dinosauria. 
+> They first appeared during the Triassic period, between 243 and 233.23 million years ago (mya), 
+> although the exact origin and timing of the evolution of dinosaurs is a subject of active research. 
+> 
+> They became the dominant terrestrial vertebrates after the Triassic–Jurassic extinction event 201.3 mya and their dominance continued throughout the Jurassic and Cretaceous periods. The fossil record shows that birds are feathered dinosaurs, having evolved from earlier theropods during the Late Jurassic epoch, and are the only dinosaur lineage known to have survived the Cretaceous–Paleogene extinction event approximately 66 mya. Dinosaurs can therefore be divided into avian dinosaurs—birds—and the extinct non-avian dinosaurs, which are all dinosaurs other than birds.
+>
+> Dinosaurs are varied from taxonomic, morphological and ecological standpoints. Birds, at over 11,000 living species, are among the most diverse groups of vertebrates. Using fossil evidence, paleontologists have identified over 900 distinct genera and more than 1,000 different species of non-avian dinosaurs. Dinosaurs are represented on every continent by both extant species (birds) and fossil remains. Through the first half of the 20th century, before birds were recognized as dinosaurs, most of the scientific community believed dinosaurs to have been sluggish and cold-blooded. Most research conducted since the 1970s, however, has indicated that dinosaurs were active animals with elevated metabolisms and numerous adaptations for social interaction. Some were herbivorous, others carnivorous. Evidence suggests that all dinosaurs were egg-laying, and that nest-building was a trait shared by many dinosaurs, both avian and non-avian.
+>
+> While dinosaurs were ancestrally bipedal, many extinct groups included quadrupedal species, and some were able to shift between these stances. Elaborate display structures such as horns or crests are common to all dinosaur groups, and some extinct groups developed skeletal modifications such as bony armor and spines. While the dinosaurs' modern-day surviving avian lineage (birds) are generally small due to the constraints of flight, many prehistoric dinosaurs (non-avian and avian) were large-bodied—the largest sauropod dinosaurs are estimated to have reached lengths of 39.7 meters (130 feet) and heights of 18 m (59 ft) and were the largest land animals of all time. The misconception that non-avian dinosaurs were uniformly gigantic is based in part on preservation bias, as large, sturdy bones are more likely to last until they are fossilized. Many dinosaurs were quite small, some measuring about 50 centimeters (20 inches) in length.
+>
+> The first dinosaur fossils were recognized in the early 19th century, with the name "dinosaur" (meaning "terrible lizard") being coined by Sir Richard Owen in 1842 to refer to these "great fossil lizards". Since then, mounted fossil dinosaur skeletons have been major attractions at museums worldwide, and dinosaurs have become an enduring part of popular culture. The large sizes of some dinosaurs, as well as their seemingly monstrous and fantastic nature, have ensured their regular appearance in best-selling books and films, such as the Jurassic Park franchise. Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur science, and new discoveries are regularly covered by the media.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dinosaur)
+

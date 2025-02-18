@@ -35,6 +35,351 @@ Languages:
   - en-IE
   - ga-IE
 icon: flag-ie
+member of:
+  - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~Australia Group,782942]]"
+  - "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
+  - "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
+  - "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+  - "[[_Standards/WikiData/WD~Nordic Battle Group,1998131]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council of Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
+  - "[[_Standards/WikiData/WD~European Space Agency,42262]]"
+  - "[[_Standards/WikiData/WD~European Economic Community,52847]]"
+flag: "[[_Standards/WikiData/WD~flag of Ireland,82205]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Ulster,93195]]"
+  - "[[_Standards/WikiData/WD~County Leitrim,107397]]"
+  - "[[_Standards/WikiData/WD~Munster,131438]]"
+  - "[[_Standards/WikiData/WD~Leinster,159736]]"
+  - "[[_Standards/WikiData/WD~County Cork,162475]]"
+  - "[[_Standards/WikiData/WD~Connacht,164421]]"
+  - "[[_Standards/WikiData/WD~County Galway,169923]]"
+  - "[[_Standards/WikiData/WD~County Kildare,173332]]"
+  - "[[_Standards/WikiData/WD~County Dublin,173500]]"
+  - "[[_Standards/WikiData/WD~County Limerick,178283]]"
+  - "[[_Standards/WikiData/WD~County Mayo,178626]]"
+  - "[[_Standards/WikiData/WD~County Sligo,179325]]"
+  - "[[_Standards/WikiData/WD~County Donegal,179424]]"
+  - "[[_Standards/WikiData/WD~County Roscommon,179437]]"
+  - "[[_Standards/WikiData/WD~County Kilkenny,180231]]"
+  - "[[_Standards/WikiData/WD~County Clare,181862]]"
+  - "[[_Standards/WikiData/WD~County Carlow,181882]]"
+  - "[[_Standards/WikiData/WD~County Wicklow,182591]]"
+  - "[[_Standards/WikiData/WD~County Westmeath,182633]]"
+  - "[[_Standards/WikiData/WD~County Louth,183539]]"
+  - "[[_Standards/WikiData/WD~County Meath,183544]]"
+  - "[[_Standards/WikiData/WD~County Offaly,184445]]"
+  - "[[_Standards/WikiData/WD~County Kerry,184469]]"
+  - "[[_Standards/WikiData/WD~County Waterford,184594]]"
+  - "[[_Standards/WikiData/WD~County Wexford,184599]]"
+  - "[[_Standards/WikiData/WD~County Tipperary,184618]]"
+  - "[[_Standards/WikiData/WD~County Monaghan,184760]]"
+  - "[[_Standards/WikiData/WD~County Longford,186220]]"
+  - "[[_Standards/WikiData/WD~County Cavan,187402]]"
+  - "[[_Standards/WikiData/WD~County Laois,55299]]"
+instance of:
+  - "[[_Standards/WikiData/WD~island country,112099]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~successor state,127693126]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+legislative body: "[[_Standards/WikiData/WD~Oireachtas,129821]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Supreme Court of Ireland,153617]]"
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Holy See,159583]]"
+  - "[[_Standards/WikiData/WD~South Africa,258]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Colombia,739]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~Zambia,953]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Isle of Man,9676]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Belarus,184]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Cyprus,229]]"
+anthem: "[[_Standards/WikiData/WD~Amhrán na bhFiann,160672]]"
+follows: "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
+basic form of government:
+  - "[[_Standards/WikiData/WD~unitary state,179164]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
+has part(s) of the class: "[[_Standards/WikiData/WD~county of Ireland,179872]]"
+coat of arms: "[[_Standards/WikiData/WD~Coat of arms of Ireland,187385]]"
+office held by head of government: "[[_Standards/WikiData/WD~Taoiseach,191827]]"
+history of topic: "[[_Standards/WikiData/WD~History of Ireland,205157]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of Ireland,213702]]"
+central bank: "[[_Standards/WikiData/WD~Central Bank of Ireland,283785]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
+highest point: "[[_Standards/WikiData/WD~Carrauntoohil,503368]]"
+head of government: "[[_Standards/WikiData/WD~Micheál Martin,920403]]"
+electrical plug type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+executive body: "[[_Standards/WikiData/WD~Government of Ireland,1672817]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of the Republic of Ireland,2345263]]"
+culture: "[[_Standards/WikiData/WD~culture of the Republic of Ireland,2717004]]"
+has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Ireland,3338414]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Counties of Ireland,5614052]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Ireland,6878112]]"
+lowest point: "[[_Standards/WikiData/WD~North Slob,7056767]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of the Republic of Ireland,7112777]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Ireland,10815282]]"
+railway traffic side: "[[_Standards/WikiData/WD~left,13196750]]"
+driving side: "[[_Standards/WikiData/WD~left,13196750]]"
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q25929957,25929957]]"
+  - "[[_Standards/WikiData/WD~Q83643185,83643185]]"
+open data portal: "[[_Standards/WikiData/WD~data.gov.ie,61454777]]"
+Gregorian calendar start date: 1752-09-14T00:00:00Z
+coordinates of easternmost point: Point(-5.997722222 52.965361111)
+Baidu Tieba name: 爱尔兰
+Provenio UUID: cea218bf-ad0d-4a63-a865-8949e176fe7e
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Ireland%20%28orthographic%20projection%29.svg
+UMLS CUI: C0022067
+official name:
+  - Airlann
+  - Ireland
+  - Irska
+  - Éire
+  - Irsko
+  - Ireland
+  - Irlande
+  - Irland
+demonym:
+  - إرلاندي
+  - إرلاندية
+  - إرلانديين
+  - إرلانديات
+  - Irec
+  - أيرلندي
+  - Irish
+  - أيرلندية
+  - أيرلنديون
+  - irlandés
+  - irlandesa
+  - Ir
+  - Irka
+  - Ire
+  - Irin
+  - Ιρλανδή
+  - Ιρλανδός
+  - Irlandano
+  - Irlandais
+  - Éireannach
+  - Éireannaigh
+  - אירי
+  - אירית
+  - ír
+  - irlandese
+  - irlandesi
+  - eres
+  - Ier
+  - Irlandczycy
+  - Irlandka
+  - irlandez
+  - irlandeză
+  - irlandezi
+  - ирландцы
+  - ірландець
+  - ірландка
+  - ірландці
+  - irlandeza
+  - irlandeze
+  - irlandezi
+  - irlandezo
+  - Lireyänan
+  - Irka
+  - Irlandczyk
+  - Irlandaise
+ISNI: "0000000123591198"
+MeSH tree code:
+  - Z01.542.467
+  - Z01.639.587
+nominal GDP:
+  - 529244870223
+  - 504182603276
+part of:
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~European Economic Area,8932]]"
+  - "[[_Standards/WikiData/WD~Northern Europe,27479]]"
+capital: "[[_Standards/WikiData/WD~Dublin,1761]]"
+language used:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Irish,9142]]"
+  - "[[_Standards/WikiData/WD~Irish Sign Language,14183]]"
+  - "[[_Standards/WikiData/WD~Shelta,36705]]"
+official language:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Irish,9142]]"
+located in time zone: "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of the Republic of Ireland,8062]]"
+different from:
+  - "[[_Standards/WikiData/WD~Ireland,22890]]"
+  - "[[_Standards/WikiData/WD~Northern Ireland,26]]"
+located in/on physical feature: "[[_Standards/WikiData/WD~Ireland,22890]]"
+named after: "[[_Standards/WikiData/WD~Ireland,22890]]"
+replaces: "[[_Standards/WikiData/WD~Irish Free State,31747]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Northern Ireland,26]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+country: "[[_Standards/WikiData/WD~Ireland,27]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+marriageable age: 18
+age of majority: 18
+mains voltage: 230
+VAT rate: 23
+retirement age: 66
+death rate: 6.9
+life expectancy: 83
+suicide rate: 8.9
+birth rate: 11.2
+total fertility rate: 1.96
+top-level Internet domain: "[[_Standards/WikiData/WD~.ie,39382]]"
+trunk prefix: "0"
+unemployment rate:
+  - 4.95
+  - 4.479
+  - 5.623
+  - 6.194
+OpenStreetMap zoom level: "6"
+head of state: "[[_Standards/WikiData/WD~Michael D. Higgins,57276]]"
+Inequality-adjusted Human Development Index: 0.886
+Democracy Index: 9.05
+Human Development Index: 0.945
+IAB code: "1322"
+UIC numerical country code: "60"
+maritime identification digits: "250"
+number of out-of-school children: 6033
+FIPS 10-4 (countries and regions): EI
+median income: 25969
+mobile country code: "272"
+GS1 country code: "539"
+social media followers: 44987
+ISO 3166-1 numeric code: "372"
+M49 code: "372"
+area: 69797
+OmegaWiki Defined Meaning: "5744"
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg
+male population:
+  - 2444120
+  - 2469767
+  - 2494029
+  - 2541063
+female population:
+  - 2490220
+  - 2515614
+  - 2539135
+  - 2586107
+short name:
+  - Ireland
+  - Éire
+  - 🇮🇪
+native label:
+  - Ireland
+  - Éire
+INSEE countries and foreign territories code: "99136"
+licence plate code: IRL
+ISO 3166-1 alpha-3 code: IRL
+IOC country code: IRL
+UIC alphabetical country code: IRL
+rural population:
+  - 1805722
+  - 1812037
+  - 1816368
+  - 1836398
+urban population:
+  - 3128618
+  - 3173345
+  - 3216796
+  - 3290772
+Commons category: Republic of Ireland
+Commons gallery: Republic of Ireland / Poblacht na hÉireann
+hashtag: RepublicofIreland
+Krugosvet article: strany_mira/IRLANDSKAYA_RESPUBLIKA.html
+motto text: Jump into Ireland
+inception: 1937-12-29T00:00:00Z
+coordinates of westernmost point: Point(-10.669583333 52.073611111)
+coordinate location: Point(-8.0 53.0)
+coordinates of northernmost point: Point(-7.371833333 55.384194444)
+population: 5149139
+coordinates of southernmost point: Point(-9.514083333 51.419944444)
+PM20 geo code: A22b
+NUTS code: IE
+ISO 3166-1 alpha-2 code: IE
+WIPO ST.3: IE
+Unicode character: 🇮🇪
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ireland.svg
+geoshape: http://commons.wikimedia.org/data/main/Data:Ireland.map
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cruaighpadraigh%20banner.jpg
+detail map: http://commons.wikimedia.org/wiki/Special:FilePath/Ei-map.svg
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Irsko%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Irland.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AD%9F%E0%AC%B0%E0%AC%B2%E0%AD%8D%E0%AD%9F%E0%AC%BE%E0%AC%A3%E0%AD%8D%E0%AC%A1.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Irlanda.wav
+official website: http://www.gov.ie/
+IPA transcription:
+  - ˈaɪəɹlənd
+  - ˈaɪɹlənd
+country calling code: "+353"
+U.S. National Archives Identifier: "10035801"
+Dewey Decimal Classification: 2--417
+BHCL UUID: 880809fc-d8c4-4ac7-8646-49754ce65f66
+Wolfram Language entity code: Entity["Country", "Ireland"]
+GitHub topic: ireland
+CIVICUS Monitor country entry: ireland
+subreddit: ireland
 ---
 
 # [[Ireland]] 

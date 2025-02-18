@@ -1,0 +1,91 @@
+---
+has_id_wikidata: Q11412
+Krugosvet article: fizika/tyagotenie
+Dewey Decimal Classification:
+  - "539.754"
+  - "531.14"
+  - "521.1"
+  - "629.4111"
+instance of:
+  - "[[_Standards/WikiData/WD~fundamental interaction,104934]]"
+  - "[[_Standards/WikiData/WD~physical phenomenon,1293220]]"
+studied in:
+  - "[[_Standards/WikiData/WD~Newton's law of universal gravitation,134465]]"
+  - "[[_Standards/WikiData/WD~general relativity,11452]]"
+different from:
+  - "[[_Standards/WikiData/WD~Gravity,235960]]"
+  - "[[_Standards/WikiData/WD~Gravitation,361496]]"
+  - "[[_Standards/WikiData/WD~gravity of Earth,673166]]"
+  - "[[_Standards/WikiData/WD~Gravité,3115788]]"
+  - "[[_Standards/WikiData/WD~apparent weight,3900737]]"
+  - "[[_Standards/WikiData/WD~Q5478402,5478402]]"
+  - "[[_Standards/WikiData/WD~Gravitas,12900118]]"
+  - "[[_Standards/WikiData/WD~standard acceleration of free fall,13400897]]"
+  - "[[_Standards/WikiData/WD~acceleration of free fall,103982270]]"
+  - "[[_Standards/WikiData/WD~gravitational force,119510698]]"
+  - "[[_Standards/WikiData/WD~weight,25288]]"
+  - "[[_Standards/WikiData/WD~gravitational acceleration,30006]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Tietosanakirja,2038734]]"
+  - "[[_Standards/WikiData/WD~Pieni tietosanakirja,3119395]]"
+  - "[[_Standards/WikiData/WD~Illustrated Norwegian conversation lexicon,12715646]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Nordisk familjebok, 1st edition,28009618]]"
+  - "[[_Standards/WikiData/WD~Norsk Haandlexikon,65528751]]"
+  - "[[_Standards/WikiData/WD~Salmonsens konversationsleksikon, 2nd edition,65529695]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
+  - "[[_Standards/WikiData/WD~Bonniers konversationslexikon, 1st edition,125572590]]"
+  - "[[_Standards/WikiData/WD~Åhlén & söners uppslagsbok,125582597]]"
+  - "[[_Standards/WikiData/WD~Den nye Salmonsen,125582660]]"
+has characteristic:
+  - "[[_Standards/WikiData/WD~spacetime curvature,4240689]]"
+  - "[[_Standards/WikiData/WD~gravitational force,119510698]]"
+has cause:
+  - "[[_Standards/WikiData/WD~spacetime curvature,4240689]]"
+  - "[[_Standards/WikiData/WD~matter,35758]]"
+has effect:
+  - "[[_Standards/WikiData/WD~fall,11620540]]"
+  - "[[_Standards/WikiData/WD~gravitational motion,29652844]]"
+said to be the same as: "[[_Standards/WikiData/WD~Q13211642,13211642]]"
+opposite of: "[[_Standards/WikiData/WD~non-gravitational force,38084560]]"
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Schwerkraft.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Gravitation.ogg
+Stack Exchange tag:
+  - https://mathoverflow.net/tags/gravity-theory
+  - https://space.stackexchange.com/tags/gravity
+  - https://astronomy.stackexchange.com/tags/gravity
+  - https://worldbuilding.stackexchange.com/tags/gravity
+  - https://scifi.stackexchange.com/tags/gravity
+  - https://physics.stackexchange.com/tags/gravity
+MeSH tree code: G01.060.350
+discoverer or inventor: "[[_Standards/WikiData/WD~Isaac Newton,935]]"
+OmegaWiki Defined Meaning: "8440"
+Commons category: Gravitation
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Schwerkraft%20als%20Kr%C3%BCmmung%20des%20Raumes%20%28CC%20BY%204.0%29.webm
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20sys.jpg
+WordLift URL: http://data.thenextweb.com/tnw/entity/gravity
+Iconclass notation: "49E222"
+---
+
+
+## #has_/text_of_/abstract 
+
+> In physics, gravity (from Latin  gravitas 'weight') is a fundamental interaction primarily observed as a mutual attraction between all things that have mass. Gravity is, by far, the weakest of the four fundamental interactions, approximately 1038 times weaker than the strong interaction, 1036 times weaker than the electromagnetic force, and 1029 times weaker than the weak interaction. As a result, it has no significant influence at the level of subatomic particles. However, gravity is the most significant interaction between objects at the macroscopic scale, and it determines the motion of planets, stars, galaxies, and even light.
+>
+> On Earth, gravity gives weight to physical objects, and the Moon's gravity is responsible for sublunar tides in the oceans. The corresponding antipodal tide is caused by the inertia of the Earth and Moon orbiting one another. Gravity also has many important biological functions, helping to guide the growth of plants through the process of gravitropism and influencing the circulation of fluids in multicellular organisms.
+>
+> The **Gravitation**al attraction between the original gaseous matter in the universe caused it to coalesce and form stars which eventually condensed into galaxies, so gravity is responsible for many of the large-scale structures in the universe. Gravity has an infinite range, although its effects become weaker as objects get farther away.
+>
+> Gravity is most accurately described by the general theory of relativity, proposed by Albert Einstein in 1915, which describes gravity not as a force, but as the curvature of spacetime, caused by the uneven distribution of mass, and causing masses to move along geodesic lines. The most extreme example of this curvature of spacetime is a black hole, from which nothing—not even light—can escape once past the black hole's event horizon. However, for most applications, gravity is well approximated by Newton's law of universal gravitation, which describes gravity as a force causing any two bodies to be attracted toward each other, with magnitude proportional to the product of their masses and inversely proportional to the square of the distance between them.
+>
+> Current models of particle physics imply that the earliest instance of gravity in the universe, possibly in the form of quantum gravity, supergravity, or a gravitational singularity, along with ordinary space and time, developed during the Planck epoch (up to 10−43 seconds after the birth of the universe), possibly from a primeval state, such as a false vacuum, quantum vacuum or virtual particle, in a currently unknown manner. Scientists are currently working to develop a theory of gravity consistent with quantum mechanics, a quantum gravity theory, which would allow gravity to be united in a common mathematical framework (a theory of everything) with the other three fundamental interactions of physics.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Gravity)
+
+
+
+

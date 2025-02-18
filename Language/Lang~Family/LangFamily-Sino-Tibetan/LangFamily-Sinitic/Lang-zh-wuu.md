@@ -1,11 +1,15 @@
-﻿---
+---
 type: Lang
 aliases:
   - Wu
   - Shanghainese
+  - Wu Chinese
 tags:
   - Lang/wu
+has_id_wikidata: Q34290
 ---
+
+ 
 # [[Lang-zh-wuu]] 
 
 [SpocWebEntityId:: 463 ]

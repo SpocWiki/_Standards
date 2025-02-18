@@ -1,7 +1,70 @@
+---
+aliases:
+  - Litre
+has_id_wikidata: Q11582
+instance of:
+  - "[[_Standards/WikiData/WD~unit of volume,1302471]]"
+  - "[[_Standards/WikiData/WD~non-SI unit mentioned in and accepted with the SI,3268848]]"
+  - "[[_Standards/WikiData/WD~UCUM derived unit,82047057]]"
+  - "[[_Standards/WikiData/WD~SI-accepted non-SI unit,106839753]]"
+said to be the same as:
+  - "[[_Standards/WikiData/WD~cubic decimetre,2175964]]"
+  - "[[_Standards/WikiData/WD~Maß,48680]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
+different from: "[[_Standards/WikiData/WD~Litre,59279570]]"
+conversion to standard unit:
+  - 1000
+  - 1
+  - 0.1
+  - 0.01
+conversion to SI unit: 0.001
+measured physical quantity: "[[_Standards/WikiData/WD~volume,39297]]"
+UCUM code:
+  - L
+  - l
+unit symbol:
+  - l
+  - L
+  - l
+  - l
+  - l
+  - l
+  - l
+  - l
+  - l
+  - L
+  - L
+  - لتر
+  - ל'
+  - லீ.
+  - л
+  - л
+  - л
+UN/CEFACT Common Code: LTR
+image: http://commons.wikimedia.org/wiki/Special:FilePath/CubeLitre.svg
+Wolfram Language unit code: '"Liters"'
+Commons category: Litre
+Wikidata SPARQL query equivalent: wd:Q11582 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+---
 ﻿
 # [[Unit~Liter]] 
 
 #is_a_/unit_/for_/volume 
+
+
+## #has_/text_of_/abstract 
+
+> The **Litre** (Commonwealth spelling) or liter (American spelling) (SI symbols L and l, other symbol used: ℓ) is a metric unit of volume. It is equal to 1 cubic decimetre (dm3), 1000 cubic centimetres (cm3) or 0.001 cubic metres (m3). A cubic decimetre (or litre) occupies a volume of 10 cm × 10 cm × 10 cm (see figure) and is thus equal to one-thousandth of a cubic metre.
+>
+> The original French metric system used the litre as a base unit. The word litre is derived from an older French unit, the litron, whose name came from Byzantine Greek—where it was a unit of weight, not volume—via Late Medieval Latin, and which equalled approximately 0.831 litres. The litre was also used in several subsequent versions of the metric system and is accepted for use with the SI, although not an SI unit—the SI unit of volume is the cubic metre (m3). The spelling used by the International Bureau of Weights and Measures is "litre", a spelling which is shared by most English-speaking countries. The spelling "liter" is predominantly used in American English.
+>
+> One litre of liquid water has a mass of almost exactly one kilogram, because the kilogram was originally defined in 1795 as the mass of one cubic decimetre of water at the temperature of melting ice (0 °C). Subsequent redefinitions of the metre and kilogram mean that this relationship is no longer exact.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Litre)
+
 
 
 ## Confidential Links & Embeds: 

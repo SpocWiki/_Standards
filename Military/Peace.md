@@ -1,0 +1,51 @@
+---
+has_id_wikidata: Q454
+different from: "[[_Standards/WikiData/WD~Mir,578668]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~state,3505845]]"
+  - "[[_Standards/WikiData/WD~absence,19829125]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+studied in: "[[_Standards/WikiData/WD~irenology,15141361]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q94701131,94701131]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q96077045,96077045]]"
+instance of: "[[_Standards/WikiData/WD~type of value,129510955]]"
+Provenio UUID: e50ca798-9971-4705-95da-0ff688e8d853
+Libris-URI: 1zcffr8k5m1hqvd
+does not have characteristic: "[[_Standards/WikiData/WD~war,198]]"
+opposite of: "[[_Standards/WikiData/WD~war,198]]"
+OmegaWiki Defined Meaning: "5838"
+PhilPapers topic: peace
+hashtag:
+  - peace
+  - мир
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/OpenMoji-color%20262E.svg
+Unicode character: ☮
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D9%84%D8%A7%D9%85.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Peace%20dove.svg
+Dewey Decimal Classification:
+  - "172.42"
+  - "201.7273"
+  - "303.66"
+Commons gallery: Peace
+Commons category: Peace
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Peace** is a state of harmony in the absence of hostility and violence. In a societal sense, peace is commonly used to mean a lack of conflict (such as war) and freedom from fear of violence between individuals or groups. 
+>
+> Promotion of peace is a core tenet of many philosophies, religions, and ideologies, many of which consider it a core tenant of their philosophy. Some examples are, faiths such as Buddhism and Islam, important figures like Gandhi, and throughout literature like "Perpetual Peace: A Philosophical Sketch" by Immanuel Kant, "The Art of Peace" by Morihei Ueshiba, or ideologies that strictly adhere to it such as Pacifism within a sociopolitical scope. It is a frequent subject of symbolism and features prominently in art and other cultural traditions.
+>
+> The representation of peace has taken many shapes, with a variety of symbols pertaining to it based on culture, context, and history; each with their respective symbolism whose nature can be very complex. An example, being during post-violence, in contexts where intense emotions, these symbols can form to evoke unity and cooperation, described as to fill groups of people with pride and connection, yet the symbolism could also possibly form to convey oppression, hatred, or else.
+>
+> As such, a universal definition for peace does not concretely exist but gets expanded and defined proactively based on context and culture, in which it can serve many meanings not particularly benevolent in its symbolism.
+>
+> "Psychological peace" (such as peaceful thinking and emotions) is less relatively well-defined, yet perhaps a necessary precursor to establishing "behavioural peace". Peaceful behaviour sometimes results from a "peaceful inner disposition". It has been argued by some that inner qualities such as tranquility, patience, respect, compassion, kindness, self-control, courage, moderation, forgiveness, equanimity, and the ability to see the big picture can promote peace within an individual, regardless of the external circumstances of their life.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Peace)
+

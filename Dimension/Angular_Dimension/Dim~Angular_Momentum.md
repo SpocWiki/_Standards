@@ -5,7 +5,7 @@
 
 Due to the [[Isotropy]] of Space, it is a conserved Unit. 
 
-In [[../../../Knowledge/Physics/Quantum-Physics|Quantum-Physics]] the [[Wavelength]] of a Particle is 
+In[[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[Wavelength]] of a Particle is 
 given by its inverse [[Dim~Angular_Momentum]]:  ___λ = h / p___ 
 
 

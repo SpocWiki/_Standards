@@ -1,3 +1,352 @@
+---
+instance of:
+  - "[[_Standards/WikiData/WD~island country,112099]]"
+  - "[[_Standards/WikiData/WD~Commonwealth realm,202686]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Manawatū-Whanganui Region,139907]]"
+  - "[[_Standards/WikiData/WD~Waikato Region,139918]]"
+  - "[[_Standards/WikiData/WD~Marlborough District,140083]]"
+  - "[[_Standards/WikiData/WD~Taranaki Region,140207]]"
+  - "[[_Standards/WikiData/WD~Gisborne District,140246]]"
+  - "[[_Standards/WikiData/WD~Hawke's Bay Region,251825]]"
+  - "[[_Standards/WikiData/WD~West Coast Region,541468]]"
+  - "[[_Standards/WikiData/WD~Canterbury Region,657004]]"
+  - "[[_Standards/WikiData/WD~Tasman District,666142]]"
+  - "[[_Standards/WikiData/WD~Otago Region,692912]]"
+  - "[[_Standards/WikiData/WD~Auckland Region,726917]]"
+  - "[[_Standards/WikiData/WD~Wellington Region,856010]]"
+  - "[[_Standards/WikiData/WD~Southland Region,864971]]"
+  - "[[_Standards/WikiData/WD~Nelson Region,1995856]]"
+  - "[[_Standards/WikiData/WD~Bay of Plenty Region,2192924]]"
+  - "[[_Standards/WikiData/WD~Chatham Islands Council,26882619]]"
+  - "[[_Standards/WikiData/WD~Northland Region,59596]]"
+flag: "[[_Standards/WikiData/WD~flag of New Zealand,160260]]"
+member of:
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
+  - "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+  - "[[_Standards/WikiData/WD~Southeast Asia Treaty Organization,277252]]"
+  - "[[_Standards/WikiData/WD~ANZUS,295875]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Australia Group,782942]]"
+  - "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
+  - "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+  - "[[_Standards/WikiData/WD~ANZUK,2625543]]"
+  - "[[_Standards/WikiData/WD~ABCANZ Armies,2863003]]"
+  - "[[_Standards/WikiData/WD~AUSCANNZUKUS,4033111]]"
+  - "[[_Standards/WikiData/WD~Air Force Interoperability Council,4426267]]"
+  - "[[_Standards/WikiData/WD~Combined Communications-Electronics Board,5150848]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~The Technical Cooperation Program,7768229]]"
+  - "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
+  - "[[_Standards/WikiData/WD~Five Eyes,15978258]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
+  - "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+coat of arms: "[[_Standards/WikiData/WD~Coat of arms of New Zealand,200972]]"
+anthem: "[[_Standards/WikiData/WD~God Defend New Zealand,202137]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+history of topic: "[[_Standards/WikiData/WD~history of New Zealand,672551]]"
+part of:
+  - "[[_Standards/WikiData/WD~Realm of New Zealand,889033]]"
+  - "[[_Standards/WikiData/WD~Australia and New Zealand,107323313]]"
+  - "[[_Standards/WikiData/WD~Australasia,45256]]"
+has part(s): "[[_Standards/WikiData/WD~Waiheke Island,909136]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of New Zealand,956630]]"
+office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of New Zealand,1071117]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Supreme Court of New Zealand,1355832]]"
+central bank: "[[_Standards/WikiData/WD~Reserve Bank of New Zealand,1494550]]"
+legislative body: "[[_Standards/WikiData/WD~New Zealand Parliament,1520966]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of New Zealand,1773900]]"
+different from: "[[_Standards/WikiData/WD~geography of New Zealand,1773900]]"
+ethnic group:
+  - "[[_Standards/WikiData/WD~Pacific Islanders,2065556]]"
+  - "[[_Standards/WikiData/WD~Māori,6122670]]"
+  - "[[_Standards/WikiData/WD~European New Zealanders,7015349]]"
+  - "[[_Standards/WikiData/WD~Asian New Zealanders,29467330]]"
+electrical plug type: "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
+lowest point: "[[_Standards/WikiData/WD~Taieri Plain,2388459]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of New Zealand,2415918]]"
+replaces:
+  - "[[_Standards/WikiData/WD~Dominion of New Zealand,2594990]]"
+  - "[[_Standards/WikiData/WD~Colony of New Zealand,5148518]]"
+culture: "[[_Standards/WikiData/WD~culture of New Zealand,3007290]]"
+has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+basic form of government: "[[_Standards/WikiData/WD~parliamentary monarchy,3330103]]"
+executive body: "[[_Standards/WikiData/WD~Government of New Zealand,3526359]]"
+emergency phone number: "[[_Standards/WikiData/WD~111,4547309]]"
+follows: "[[_Standards/WikiData/WD~Colony of New Zealand,5148518]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of New Zealand,7112381]]"
+"has seal, badge, or sigil": "[[_Standards/WikiData/WD~Seal of New Zealand,7440569]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_New Zealand,8253889]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject New Zealand,8408470]]"
+topic's main template:
+  - "[[_Standards/WikiData/WD~Template_Regions of New Zealand,10972220]]"
+  - "[[_Standards/WikiData/WD~Q63992254,63992254]]"
+railway traffic side: "[[_Standards/WikiData/WD~left,13196750]]"
+driving side: "[[_Standards/WikiData/WD~left,13196750]]"
+office held by head of state: "[[_Standards/WikiData/WD~monarch of New Zealand,14931517]]"
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q26331304,26331304]]"
+  - "[[_Standards/WikiData/WD~Q27062315,27062315]]"
+nominal GDP:
+  - 255551704626
+  - 247234053739
+head of government: "[[_Standards/WikiData/WD~Christopher Luxon,74370310]]"
+open data portal: "[[_Standards/WikiData/WD~Data.govt.nz,97011207]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
+coordinates of easternmost point: Point(178.55051479 -37.69226391)
+Baidu Tieba name: 新西兰
+demonym:
+  - Novozelandec
+  - Novozelandka
+  - neozelandès
+  - neozelandesa
+  - نيوزيلندي
+  - نيوزيلندية
+  - نيوزيلنديين
+  - نيوزيلنديات
+  - Nua-Shéalannach
+  - New Zealand
+  - New Zealander
+  - نيوزيلندي
+  - نيوزيلندية
+  - نيوزيلنديون
+  - neozelandés
+  - neozelandesa
+  - নিউজিল্যান্ডীয়
+  - Neuseeländer
+  - Neuseeländerin
+  - neuseeländisch
+  - Νεοζηλανδή
+  - Νεοζηλανδός
+  - Nov-Zelandano
+  - Néozélandais
+  - Néozélandaise
+  - ניו זילנדי
+  - ניו זילנדית
+  - új-zélandi
+  - Nova-Zelandano
+  - neozelandese
+  - neozelandesi
+  - zelandes
+  - Nieuw-Zeelander
+  - neozeelandez
+  - neozeelandeză
+  - neozeelandezi
+  - новозеландцы
+  - новозеландець
+  - новозеландка
+  - новозеландці
+  - neozełandeza
+  - neozełandeze
+  - neozełandezi
+  - neozełandezo
+location map: http://commons.wikimedia.org/wiki/Special:FilePath/New%20Zealand%20location%20map.svg
+ISNI:
+  - 000000012156951X
+  - "0000000122081006"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/New%20Zealand%20Topography.jpg
+motto text:
+  - 100% Pur
+  - 100% Pure
+inception:
+  - 1841-01-01T00:00:00Z
+  - 1986-12-13T00:00:00Z
+  - 1907-09-26T00:00:00Z
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Singapore,334]]"
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Fiji,712]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Brunei,921]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Norway,20]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Sweden,34]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~Niue,34020]]"
+shares border with: "[[_Standards/WikiData/WD~Australia,408]]"
+continent:
+  - "[[_Standards/WikiData/WD~Insular Oceania,538]]"
+  - "[[_Standards/WikiData/WD~Australian continent,3960]]"
+  - "[[_Standards/WikiData/WD~Oceania,55643]]"
+country: "[[_Standards/WikiData/WD~New Zealand,664]]"
+named after: "[[_Standards/WikiData/WD~Zeeland,705]]"
+language used:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~New Zealand Sign Language,36239]]"
+  - "[[_Standards/WikiData/WD~Māori,36451]]"
+official language:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~New Zealand Sign Language,36239]]"
+  - "[[_Standards/WikiData/WD~Māori,36451]]"
+highest point: "[[_Standards/WikiData/WD~Aoraki _ Mount Cook,5059]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
+  - "[[_Standards/WikiData/WD~UTC+13_00,7118]]"
+capital: "[[_Standards/WikiData/WD~Wellington,23661]]"
+minimum temperature record: -25.6
+age of majority: 20
+unemployment rate: 6
+VAT rate: 15
+marriageable age: 18
+mains voltage: 230
+retirement age: 65
+suicide rate: 10.3
+total fertility rate: 1.87
+top-level Internet domain: "[[_Standards/WikiData/WD~.nz,42019]]"
+head of state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+trunk prefix: "0"
+UIC numerical country code: "64"
+Happy Planet Index score: 57.4
+death rate:
+  - 6.41
+  - 6.83
+  - 6.87
+  - 7.53
+Inequality-adjusted Human Development Index: 0.865
+Democracy Index: 9.37
+Human Development Index: 0.937
+birth rate:
+  - 11.32
+  - 11.48
+  - 11.49
+  - 11.96
+mobile country code: "530"
+licence plate code: NZ
+ISO 3166-1 alpha-2 code: NZ
+FIPS 10-4 (countries and regions): NZ
+WIPO ST.3: NZ
+UIC alphabetical country code: NZ
+ISO 3166-1 numeric code: "554"
+M49 code: "554"
+number of out-of-school children: 11792
+maritime identification digits: "512"
+median income: 35562
+population: 5118700
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg
+IAB code: "1367"
+official name:
+  - New Zealand
+  - Nouvelle-Zélande
+  - Aotearoa
+ISO 3166-1 alpha-3 code: NZL
+IOC country code: NZL
+ITU letter code: NZL
+male population:
+  - 2536570
+  - 2461701
+  - 2522257
+  - 2533227
+area: 268021
+OmegaWiki Defined Meaning: "153555"
+rural population:
+  - 666466
+  - 671172
+  - 675254
+  - 677048
+bathymetry image: http://commons.wikimedia.org/wiki/Special:FilePath/Zealandia-Continent%20map%20en.svg
+INSEE countries and foreign territories code: "99502"
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20New%20Zealand.svg
+female population:
+  - 2517499
+  - 2567944
+  - 2578073
+  - 2580631
+GS1 country code: 940-949
+nominal GDP per capita: 41666.64
+urban population:
+  - 4312734
+  - 4413152
+  - 4436046
+  - 4446028
+U.S. National Archives Identifier: "10035727"
+life expectancy: 81.61244
+Commons category: New Zealand
+CIVICUS Monitor country entry: new-zealand
+GitHub topic: new-zealand
+PM20 geo code: D35
+geoshape: http://commons.wikimedia.org/data/main/Data:New+Zealand.map
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/God%20Defend%20New%20Zealand%20instrumental.ogg
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Noua%20Zeeland%C4%83.wav
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/NZL%20orthographic.svg
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Seaward%20kaikoura%20mountain%20range%20banner.jpg
+official website: https://www.govt.nz/
+country calling code: "+64"
+BHCL UUID: 55d59c10-4620-4958-a631-756bf10f2ff8
+Wolfram Language entity code: Entity["HistoricalCountry", "NewZealand"]
+Libris-URI: mkz10wv559pm8sb
+Commons gallery: New Zealand / Aotearoa
+Danbooru tag: new_zealand
+subreddit: newzealand
+hashtag: NewZealand
+Unicode character: 🇳🇿
+Colon Classification: SG--937
+Krugosvet article: strany_mira/NOVAYA_ZELANDIYA.html
+MeSH tree code:
+  - Z01.639.760.747
+  - Z01.678.100.747
+native label: Aotearoa
+short name: 🇳🇿
+coordinates of westernmost point: Point(166.426130555 -45.904722222)
+coordinates of northernmost point: Point(-172.52 -8.53)
+coordinates of southernmost point: Point(167.53682412 -47.28995038)
+coordinate location: Point(174.0 -41.2)
+has_id_wikidata: Q664
+---
 ﻿---
 location:
     - -41.28
@@ -145,6 +494,17 @@ Capital :: [[Wellington]]
 [has_place_latitude::-41.28]
 
 
+## #has_/text_of_/abstract 
+
+> **New Zealand** (Māori: Aotearoa) is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island (Te Ika-a-Māui) and the South Island (Te Waipounamu)—and over 600 smaller islands. It is the sixth-largest island country by area and lies east of Australia across the Tasman Sea and south of the islands of New Caledonia, Fiji, and Tonga. The country's varied topography and sharp mountain peaks, including the Southern Alps, owe much to tectonic uplift and volcanic eruptions. New Zealand's capital city is Wellington, and its most populous city is Auckland.
+>
+> The islands of New Zealand were the last large habitable land to be settled by humans. Between about 1280 and 1350, Polynesians began to settle in the islands and subsequently developed a distinctive Māori culture. In 1642, the Dutch explorer Abel Tasman became the first European to sight and record New Zealand. In 1769 the British explorer Captain James Cook became the first European to set foot on and map New Zealand. In 1840, representatives of the United Kingdom and Māori chiefs signed the Treaty of Waitangi which paved the way for Britain's declaration of sovereignty later that year and the establishment of the Crown Colony of New Zealand in 1841. Subsequently, a series of conflicts between the colonial government and Māori tribes resulted in the alienation and confiscation of large amounts of Māori land. New Zealand became a dominion in 1907; it gained full statutory independence in 1947, retaining the monarch as head of state. Today, the majority of New Zealand's population of 5.25 million is of European descent; the indigenous Māori are the largest minority, followed by Asians and Pasifika. Reflecting this, New Zealand's culture is mainly derived from Māori and early British settlers, with recent broadening of culture arising from increased immigration to the country. The official languages are English, Māori, and New Zealand Sign Language, with the local dialect of English being dominant.
+>
+> A developed country, it was the first to introduce a minimum wage, and the first to give women the right to vote. It ranks very highly in international measures of quality of life, human rights, and it has one of the lowest levels of perceived corruption in the world. It retains visible levels of inequality, having structural disparities between its Māori and European populations. New Zealand underwent major economic changes during the 1980s, which transformed it from a protectionist to a liberalised free-trade economy. The service sector dominates the national economy, followed by the industrial sector, and agriculture; international tourism is also a significant source of revenue. New Zealand and Australia have a strong relationship and are considered to have a shared Trans-Tasman identity between the two countries, stemming from centuries of British colonisation. The country is part of multiple international organizations and forums.
+>
+> Nationally, legislative authority is vested in an elected, unicameral Parliament, while executive political power is exercised by the Government, led by the prime minister, currently Christopher Luxon. Charles III is the country's king and is represented by the governor-general, Cindy Kiro. In addition, New Zealand is organised into 11 regional councils and 67 territorial authorities for local government purposes. The Realm of New Zealand also includes Tokelau (a dependent territory); the Cook Islands and Niue (self-governing states in free association with New Zealand); and the Ross Dependency, which is New Zealand's territorial claim in Antarctica.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/New%20Zealand)
 
 ## Confidential Links & Embeds: 
 

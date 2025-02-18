@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -29,7 +29,7 @@ aliases:
   - wdt:P968
 ---
 
-Predicate to describe the Text of ContactPoint, Organization, Person.
+Predicate to describe the email-Address-Text of ContactPoint, Organization, Person.
 
 Use it like this: 
 - [ #has_/text_of_/email :: Text ] or 

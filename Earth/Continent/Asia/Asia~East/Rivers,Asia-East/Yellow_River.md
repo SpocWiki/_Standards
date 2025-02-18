@@ -1,0 +1,95 @@
+---
+has_id_wikidata: Q7355
+coordinate location: Point(116.097666666 36.124194444)
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Bassin-du-fleuve-jaune.png
+Commons gallery: 黃河
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20River%20-%20panoramio.jpg
+tributary:
+  - "[[_Standards/WikiData/WD~Dawen River,163339]]"
+  - "[[_Standards/WikiData/WD~Jishui,840262]]"
+  - "[[_Standards/WikiData/WD~Wei River,847641]]"
+  - "[[_Standards/WikiData/WD~Tao River,937148]]"
+  - "[[_Standards/WikiData/WD~Daxia River,1074179]]"
+  - "[[_Standards/WikiData/WD~Fen River,1154778]]"
+  - "[[_Standards/WikiData/WD~Huangshui River,1632803]]"
+  - "[[_Standards/WikiData/WD~Qin He,2121586]]"
+  - "[[_Standards/WikiData/WD~Black River (in Sichuan),10567309]]"
+  - "[[_Standards/WikiData/WD~Yiluo River,10885043]]"
+  - "[[_Standards/WikiData/WD~Datong River,10938192]]"
+  - "[[_Standards/WikiData/WD~Daheihe,10938718]]"
+  - "[[_Standards/WikiData/WD~Wuding River,15907862]]"
+  - "[[_Standards/WikiData/WD~Daqing River,16888816]]"
+  - "[[_Standards/WikiData/WD~Zuli He,16888861]]"
+  - "[[_Standards/WikiData/WD~Q20019976,20019976]]"
+  - "[[_Standards/WikiData/WD~Yan River,24668288]]"
+  - "[[_Standards/WikiData/WD~Jindi He,28960955]]"
+  - "[[_Standards/WikiData/WD~Dustin He,28960965]]"
+  - "[[_Standards/WikiData/WD~Duo Qu,29988578]]"
+  - "[[_Standards/WikiData/WD~Sushui He,29990245]]"
+  - "[[_Standards/WikiData/WD~Wujia River,29990458]]"
+  - "[[_Standards/WikiData/WD~Zhuanglang He,29990963]]"
+  - "[[_Standards/WikiData/WD~Qingshui River,96749095]]"
+  - "[[_Standards/WikiData/WD~Qushian River,105771598]]"
+  - "[[_Standards/WikiData/WD~Bai He,106171932]]"
+mouth of the watercourse: "[[_Standards/WikiData/WD~Bohai Sea,181969]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Baidu Baike,803722]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Fishes of the Yellow River,65116992]]"
+lake on watercourse:
+  - "[[_Standards/WikiData/WD~Hukou Waterfall,602973]]"
+  - "[[_Standards/WikiData/WD~Ngoring Lake,847864]]"
+  - "[[_Standards/WikiData/WD~Gyaring Lake,4128895]]"
+  - "[[_Standards/WikiData/WD~Cocha Lakes,11088466]]"
+origin of the watercourse:
+  - "[[_Standards/WikiData/WD~Bayan Har Mountains,619687]]"
+  - "[[_Standards/WikiData/WD~Kariqu,10909855]]"
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Along%20the%20Yellow%20River%20WV%20Banner.jpg
+topic's main template:
+  - "[[_Standards/WikiData/WD~Template_Yellow River,14374373]]"
+drainage basin: "[[_Standards/WikiData/WD~Yellow River Basin,93758243]]"
+instance of: "[[_Standards/WikiData/WD~river,4022]]"
+located in the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Sichuan,19770]]"
+  - "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
+  - "[[_Standards/WikiData/WD~Gansu,42392]]"
+  - "[[_Standards/WikiData/WD~Shandong,43407]]"
+  - "[[_Standards/WikiData/WD~Henan,43684]]"
+  - "[[_Standards/WikiData/WD~Qinghai,45833]]"
+  - "[[_Standards/WikiData/WD~Shanxi,46913]]"
+  - "[[_Standards/WikiData/WD~Shaanxi,47974]]"
+  - "[[_Standards/WikiData/WD~Ningxia,57448]]"
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
+country: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+basin country:
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+watershed area: 752000
+discharge: 2571
+length: 5464
+Commons category: Yellow River
+OmegaWiki Defined Meaning: "828867"
+route map: http://commons.wikimedia.org/wiki/Special:FilePath/Yellowrivermap.jpg
+aliases:
+  - Yellow River
+---
+
+
+
+## #has_/text_of_/abstract 
+
+> The **Yellow River**, also known as Huanghe, is the second-longest river in China and the sixth-longest river system on Earth, with an estimated length of 5,464 km (3,395 mi) and a watershed of 795,000 km2 (307,000 sq mi). Beginning in the Bayan Har Mountains, the river flows generally eastwards before entering the 1,500 km (930 mi) long Ordos Loop, which runs northeast at Gansu through the Ordos Plateau and turns east in Inner Mongolia. The river then turns sharply southwards to form the border between Shanxi and Shaanxi, turns eastwards at its confluence with the Wei River, and flows across the North China Plain before emptying into the Bohai Sea. The river is named for the yellow color of its water, which comes from the large amount of sediment discharged into the water as the river flows through the Loess Plateau. 
+>
+> The Yellow River basin was the birthplace of ancient Chinese civilization. According to traditional Chinese historiography, the Xia dynasty originated on its banks around 2100 BC; Sima Qian's Shiji (c. 91 BC) record that the Xia were founded after the tribes around the Yellow River united to combat the frequent floods in the area. The river has provided fertile soil for agriculture, but since then has flooded and changed course frequently, with one estimate counting 1,593 floods in the 2,540 years between 595 BC and 1946 AD. As such, the Yellow River has been considered a blessing and a curse throughout history, and has been nicknamed both "China's Pride" and "China's Sorrow".
+>
+> The Yellow River's basin presently has a population of 120 million people, while over 420 million people live in the immediate provinces which rely on it as a water source. The basin comprises 13 percent of China's cultivated land area. The area receives very uneven rainfall, only 2 percent of China's water runoff—water and sediment flow has decreased five-fold since the 1970s, and until recently, the river frequently did not reach the sea. Since 2003, China has been working on the South–North Water Transfer Project to alleviate the strain on the river's water supply.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Yellow%20River) 
+
+

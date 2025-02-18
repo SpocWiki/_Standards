@@ -1,4 +1,41 @@
-﻿
+---
+aliases:
+  - Organic chemistry
+has_id_wikidata: Q11351
+is the study of: "[[_Standards/WikiData/WD~organic compound,174211]]"
+instance of:
+  - "[[_Standards/WikiData/WD~academic major,4671286]]"
+  - "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
+  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of organic chemistry,7112694]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Organic chemistry,8084585]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Organic%20synthesis.jpg
+montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Qu%C3%ADmica%20org%C3%A2nica.png
+Stack Exchange tag: https://chemistry.stackexchange.com/tags/organic-chemistry
+Iconclass notation: "49E33"
+MeSH tree code: H01.181.404
+Krugosvet article: nauka_i_tehnika/himiya/HIMIYA_ORGANICHESKAYA.html
+PhilPapers topic: organic-chemistry
+history of topic: "[[_Standards/WikiData/WD~history of organic chemistry,17480697]]"
+described by source: "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+practiced by: "[[_Standards/WikiData/WD~organic chemist,34463094]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+Baidu Tieba name: 有机化学
+UMLS CUI: C0008002
+part of: "[[_Standards/WikiData/WD~chemistry,2329]]"
+subclass of: "[[_Standards/WikiData/WD~chemistry,2329]]"
+opposite of: "[[_Standards/WikiData/WD~inorganic chemistry,11165]]"
+All-Science Journal Classification Codes: "1605"
+Universal Decimal Classification: "547"
+Dewey Decimal Classification: "547"
+OmegaWiki Defined Meaning: "2662"
+Regensburg Classification: VK
+Colon Classification: E5
+Commons category: Organic chemistry
+---
+
+## #has_/text_of_/abstract 
+
 > **Organic chemistry** is a subdiscipline within chemistry involving the scientific study of the structure, properties, and reactions of organic compounds and organic materials, i.e., matter in its various forms that contain carbon atoms. Study of structure determines their structural formula. Study of properties includes physical and chemical properties, and evaluation of chemical reactivity to understand their behavior. The study of organic reactions includes the chemical synthesis of natural products, drugs, and polymers, and study of individual organic molecules in the laboratory and via theoretical (in silico) study.
 >
 > The range of chemicals studied in organic chemistry includes hydrocarbons (compounds containing only carbon and hydrogen) as well as compounds based on carbon, but also containing other elements, especially oxygen, nitrogen, sulfur, phosphorus (included in many biochemicals) and the halogens. Organometallic chemistry is the study of compounds containing carbon–metal bonds.

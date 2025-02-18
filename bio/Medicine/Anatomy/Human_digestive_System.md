@@ -1,0 +1,67 @@
+---
+has_id_wikidata: Q9649
+has part(s):
+  - "[[_Standards/WikiData/WD~salivary gland,134938]]"
+  - "[[_Standards/WikiData/WD~rectum,158716]]"
+  - "[[_Standards/WikiData/WD~esophagus,173710]]"
+  - "[[_Standards/WikiData/WD~pharynx,174778]]"
+  - "[[_Standards/WikiData/WD~stomach,1029907]]"
+  - "[[_Standards/WikiData/WD~human mouth,1370895]]"
+  - "[[_Standards/WikiData/WD~Biliary tract,79216892]]"
+  - "[[_Standards/WikiData/WD~liver,9368]]"
+  - "[[_Standards/WikiData/WD~pancreas,9618]]"
+  - "[[_Standards/WikiData/WD~large intestine,11083]]"
+  - "[[_Standards/WikiData/WD~small intestine,11090]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~organ system,188193]]"
+  - "[[_Standards/WikiData/WD~human anatomical structure,25452965]]"
+  - "[[_Standards/WikiData/WD~human organ system,41653490]]"
+  - "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+has part(s) of the class: "[[_Standards/WikiData/WD~organ,712378]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Digestive system navs,10862909]]"
+development of anatomical structure: "[[_Standards/WikiData/WD~digestive system development,21100420]]"
+instance of:
+  - "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
+  - "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+Terminologia Histologica: H3.04
+described by source: "[[_Standards/WikiData/WD~Encyclopædia Britannica,455]]"
+facet of: "[[_Standards/WikiData/WD~human anatomy,3999]]"
+location: "[[_Standards/WikiData/WD~abdomen,9597]]"
+different from: "[[_Standards/WikiData/WD~digestion,11978]]"
+has use: "[[_Standards/WikiData/WD~digestion,11978]]"
+part of: "[[_Standards/WikiData/WD~human body,23852]]"
+IAB code: "318"
+MeSH tree code: A03
+Colon Classification: L2
+OmegaWiki Defined Meaning: "1033886"
+Commons category: Digestive system
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Digestive%20system%20diagram%20en.svg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Gabonetako%20digestioa.webm
+WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/digestive_system
+Stack Exchange tag: https://biology.stackexchange.com/tags/digestive-system
+Iconclass notation: 49G613
+UMLS CUI: C0012240
+TA98 Latin term: systema digestorium
+---
+
+
+## #has_/text_of_/abstract 
+
+> The **Human digestive system** consists of the gastrointestinal tract plus the accessory organs of digestion (the tongue, salivary glands, pancreas, liver, and gallbladder). Digestion involves the breakdown of food into smaller and smaller components, until they can be absorbed and assimilated into the body. The process of digestion has three stages: the cephalic phase, the gastric phase, and the intestinal phase.
+>
+> The first stage, the cephalic phase of digestion, begins with secretions from gastric glands in response to the sight and smell of food. This stage includes the mechanical breakdown of food by chewing, and the chemical breakdown by digestive enzymes, that takes place in the mouth. Saliva contains the digestive enzymes amylase, and lingual lipase, secreted by the salivary and serous glands on the tongue. Chewing, in which the food is mixed with saliva, begins the mechanical process of digestion. This produces a bolus which is swallowed down the esophagus to enter the stomach.
+>
+> The second stage, the gastric phase, happens in the stomach. Here, the food is further broken down by mixing with gastric acid until it passes into the duodenum, the first part of the small intestine.
+>
+> The third stage, the intestinal phase, begins in the duodenum. Here, the partially digested food is mixed with a number of enzymes produced by the pancreas.
+>
+> Digestion is helped by the chewing of food carried out by the muscles of mastication, the tongue, and the teeth, and also by the contractions of peristalsis, and segmentation. Gastric acid, and the production of mucus in the stomach, are essential for the continuation of digestion.
+>
+> Peristalsis is the rhythmic contraction of muscles that begins in the esophagus and continues along the wall of the stomach and the rest of the gastrointestinal tract. This initially results in the production of chyme which when fully broken down in the small intestine is absorbed as chyle into the lymphatic system. Most of the digestion of food takes place in the small intestine. Water and some minerals are reabsorbed back into the blood in the colon of the large intestine. The waste products of digestion (feces) are defecated from the rectum via the anus.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Human%20digestive%20system)
+
+
+
+
+

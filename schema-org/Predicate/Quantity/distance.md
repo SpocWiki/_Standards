@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -35,7 +35,7 @@ aliases:
 Class of all distances.
 
 Tag Instances like this: 
-#is_a_/distance
+#has_/value_for_/distance_in_meters 
 
 Properties that take Distances as values are of the form '<Number> <Length unit of measure>'. E.g., '7 ft'.
 

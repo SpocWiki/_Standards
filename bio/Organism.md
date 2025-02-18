@@ -1,0 +1,74 @@
+---
+has_id_wikidata: Q7239
+uses:
+  - "[[_Standards/WikiData/WD~fertilizer,83323]]"
+  - "[[_Standards/WikiData/WD~water,283]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+  - "[[_Standards/WikiData/WD~food,2095]]"
+  - "[[_Standards/WikiData/WD~energy,11379]]"
+has characteristic:
+  - "[[_Standards/WikiData/WD~homeostasis,103191]]"
+  - "[[_Standards/WikiData/WD~species distribution,250388]]"
+  - "[[_Standards/WikiData/WD~biological life cycle,513359]]"
+  - "[[_Standards/WikiData/WD~primary nutritional group,902805]]"
+  - "[[_Standards/WikiData/WD~trophic level,1053008]]"
+  - "[[_Standards/WikiData/WD~date of birth,2389905]]"
+  - "[[_Standards/WikiData/WD~scientific name,10753560]]"
+  - "[[_Standards/WikiData/WD~feeding behavior,14819856]]"
+  - "[[_Standards/WikiData/WD~organism trait,116698622]]"
+  - "[[_Standards/WikiData/WD~mode of biological reproduction,130077803]]"
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
+partially coincident with: "[[_Standards/WikiData/WD~body,170494]]"
+has part(s):
+  - "[[_Standards/WikiData/WD~organ system,188193]]"
+  - "[[_Standards/WikiData/WD~biological component,28845870]]"
+  - "[[_Standards/WikiData/WD~cell,7868]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~physical object,223557]]"
+  - "[[_Standards/WikiData/WD~physical anatomical entity,66394244]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+studied in:
+  - "[[_Standards/WikiData/WD~life sciences,864928]]"
+  - "[[_Standards/WikiData/WD~biology,420]]"
+said to be the same as: "[[_Standards/WikiData/WD~creature,1274979]]"
+part of:
+  - "[[_Standards/WikiData/WD~Biota,2382443]]"
+  - "[[_Standards/WikiData/WD~population,2625603]]"
+  - "[[_Standards/WikiData/WD~group of living things,16334298]]"
+manifestation of:
+  - "[[_Standards/WikiData/WD~living system,6506039]]"
+  - "[[_Standards/WikiData/WD~genome,7020]]"
+  - "[[_Standards/WikiData/WD~life,3]]"
+has list: "[[_Standards/WikiData/WD~list of life forms,13644563]]"
+different from:
+  - "[[_Standards/WikiData/WD~Organism,18406856]]"
+  - "[[_Standards/WikiData/WD~human body,23852]]"
+  - "[[_Standards/WikiData/WD~corpse,48422]]"
+disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+topic's main category: "[[_Standards/WikiData/WD~Q111236253,111236253]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/E.%20coli%20Bacteria%20%287316101966%29.jpg
+WordLift URL: http://data.wordlift.io/wl01714/entity/organisms.html
+properties for this type:
+  - date of birth
+  - individual of taxon
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A7%80%E0%A6%AC.wav
+montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Unikonta%20collage.jpg
+narrower external class: http://id.nlm.nih.gov/mesh/vocab#SCR_Organism
+equivalent class: http://kbpedia.org/kko/rc/Organism-Whole
+U.S. National Archives Identifier: "10676357"
+Dewey Decimal Classification: "578"
+Commons category: Organisms
+---
+
+
+## #has_/text_of_/abstract 
+
+> An **Organism** is any living thing that functions as an individual. Such a definition raises more problems than it solves, not least because the concept of an individual is also difficult. Many criteria, few of them widely accepted, have been proposed to define what an organism is. Among the most common is that an organism has autonomous reproduction, growth, and metabolism. This would exclude viruses, despite the fact that they evolve like organisms. Other problematic cases include colonial organisms; a colony of eusocial insects is organised adaptively, and has germ-soma specialisation, with some insects reproducing, others not, like cells in an animal's body. The body of a siphonophore, a jelly-like marine animal, is composed of organism-like zooids, but the whole structure looks and functions much like an animal such as a jellyfish, the parts collaborating to provide the functions of the colonial organism.
+>
+> The evolutionary biologists David Queller and Joan Strassmann state that "organismality", the qualities or attributes that define an entity as an organism, has evolved socially as groups of simpler units (from cells upwards) came to cooperate without conflicts. They propose that cooperation should be used as the "defining trait" of an organism. This would treat many types of collaboration, including the fungus/alga partnership of different species in a lichen, or the permanent sexual partnership of an anglerfish, as an organism.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Organism)
+

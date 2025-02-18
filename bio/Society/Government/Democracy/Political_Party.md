@@ -1,0 +1,83 @@
+---
+aliases:
+  - Political party
+has_id_wikidata: Q7278
+subclass of:
+  - "[[_Standards/WikiData/WD~juridical person,155076]]"
+  - "[[_Standards/WikiData/WD~political organization,7210356]]"
+different from: "[[_Standards/WikiData/WD~Party,230880]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+position held by head of the organization:
+  - "[[_Standards/WikiData/WD~party secretary,836971]]"
+  - "[[_Standards/WikiData/WD~party leader,1553195]]"
+instance of:
+  - "[[_Standards/WikiData/WD~legal concept,2135465]]"
+  - "[[_Standards/WikiData/WD~legal form,10541491]]"
+has part(s): "[[_Standards/WikiData/WD~juvenile political organization,2493450]]"
+topic's main template:
+  - "[[_Standards/WikiData/WD~Template_Infobox political party,5622823]]"
+  - "[[_Standards/WikiData/WD~Template_Party politics,14398758]]"
+has list: "[[_Standards/WikiData/WD~lists of political parties,11025641]]"
+has part(s) of the class: "[[_Standards/WikiData/WD~member of political party,11388835]]"
+history of topic: "[[_Standards/WikiData/WD~history of political parties,11499057]]"
+said to be the same as: "[[_Standards/WikiData/WD~Activities of political organisations,29586073]]"
+Provenio UUID: 128e680a-4574-48f0-92b6-090bc10f3d96
+equivalent class:
+  - https://schema.org/PoliticalParty
+  - http://dbpedia.org/ontology/PoliticalParty
+EntitySchema for this class: E432
+OpenStreetMap tag or key: Key:political_party
+properties for this type:
+  - member of
+  - chairperson
+  - has part(s)
+  - inception
+  - official website
+  - political ideology
+  - political alignment
+  - number of seats in assembly
+  - member count
+  - position held by head of the organization
+  - youth wing
+  - country
+  - logo image
+  - headquarters location
+  - party chief representative
+model item:
+  - "[[_Standards/WikiData/WD~Labour Party,9630]]"
+  - "[[_Standards/WikiData/WD~Indian National Congress,10225]]"
+  - "[[_Standards/WikiData/WD~Chinese Communist Party,17427]]"
+  - "[[_Standards/WikiData/WD~Democratic Party,29552]]"
+  - "[[_Standards/WikiData/WD~Christian Democratic Union,49762]]"
+Wikidata property: member of political party
+OmegaWiki Defined Meaning: "2866"
+U.S. National Archives Identifier: "10644794"
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/NL-politieke%20partij-article.ogg
+Dewey Decimal Classification:
+  - "306.26"
+  - "324.2"
+Iconclass notation: 44C33
+IPTC NewsCode: mediatopic/20000651
+Commons category: Political parties
+---
+
+
+## #has_/text_of_/abstract 
+
+> A **Political party** is an organization that coordinates candidates to compete in a particular country's elections. It is common for the members of a party to hold similar ideas about politics, and parties may promote specific ideological or policy goals.
+>
+> Political parties have become a major part of the politics of almost every country, as modern party organizations developed and spread around the world over the last few centuries. Although some countries have no political parties, this is extremely rare. Most countries have several parties while others only have one. Parties are important in the politics of autocracies as well as democracies, though usually democracies have more political parties than autocracies. Autocracies often have a single party that governs the country, and some political scientists consider competition between two or more parties to be an essential part of democracy.
+>
+> Parties can develop from existing divisions in society, like the divisions between lower and upper classes, and they streamline the process of making political decisions by encouraging their members to cooperate. Political parties usually include a party leader, who has primary responsibility for the activities of the party; party executives, who may select the leader and who perform administrative and organizational tasks; and party members, who may volunteer to help the party, donate money to it, and vote for its candidates. There are many different ways in which political parties can be structured and interact with the electorate. The contributions that citizens give to political parties are often regulated by law, and parties will sometimes govern in a way that favours the people who donate time and money to them.
+>
+> Many political parties are motivated by ideological goals. It is common for democratic elections to feature competitions between liberal, conservative, and socialist parties; other common ideologies of very large political parties include communism, populism, nationalism, and Islamism. Political parties in different countries will often adopt similar colours and symbols to identify themselves with a particular ideology. However, many political parties have no ideological affiliation, and may instead be primarily engaged in patronage, clientelism, the advancement of a specific political entrepreneur, or be a "big tent", in that they wish to attract voters who have a variety of positions on issues.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Political%20party)
+
+
+
+
+

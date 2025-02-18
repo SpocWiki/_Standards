@@ -1,8 +1,13 @@
-﻿---
-type: LangFamily
-tags: 
-- Lang_Family
 ---
+type: LangFamily
+tags:
+  - Lang_Family
+aliases:
+  - Altaic languages
+has_id_wikidata: Q37845
+---
+
+
 [SpocWebEntityId:: 239 ]
 [Name::Altaic]
 

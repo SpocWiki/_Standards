@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -36,7 +36,7 @@ aliases:
 Class of all durations.
 
 Tag Instances like this: 
-#is_a_/duration
+#has_/duration_ 
 
 Quantity: Duration (use <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 duration format</a>).
 

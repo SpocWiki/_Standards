@@ -1,3 +1,55 @@
+---
+has_id_wikidata: Q11426
+subclass of:
+  - "[[_Standards/WikiData/WD~material,214609]]"
+  - "[[_Standards/WikiData/WD~inorganic matter,20098970]]"
+  - "[[_Standards/WikiData/WD~malleable material,34669510]]"
+  - "[[_Standards/WikiData/WD~alloy,37756]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+different from:
+  - "[[_Standards/WikiData/WD~metal,1572505]]"
+  - "[[_Standards/WikiData/WD~metal element,11646938]]"
+  - "[[_Standards/WikiData/WD~metal music,12326776]]"
+associated hazard: "[[_Standards/WikiData/WD~metal poisoning,4215775]]"
+has characteristic: "[[_Standards/WikiData/WD~metallic lustre,11646940]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q28970841,28970841]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
+Stack Exchange tag:
+  - https://chemistry.stackexchange.com/tags/metal
+  - https://physics.stackexchange.com/tags/metals
+  - https://engineering.stackexchange.com/tags/metals
+  - https://mechanics.stackexchange.com/tags/metal
+Dewey Decimal Classification:
+  - "546.3"
+  - "547.05"
+  - "549.23"
+  - "553.4"
+  - "673"
+  - "669"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9tal%20Hurlant%20%2884368201%29.jpeg
+video:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Metals%20and%20insulators%2C%20quantum%20difference%20from%20band%20structure.ogv
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Metaux%20et%20isolants%2C%20explication%20quantique%20de%20la%20difference.ogv
+properties for this type: magnetic ordering
+has part(s): "[[_Standards/WikiData/WD~transition metal,19588]]"
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A7%E0%A6%BE%E0%A6%A4%E0%A7%81.wav
+OmegaWiki Defined Meaning: "2324"
+MCN code: 7109.00.00
+CPV Supplementary code: AA01
+Colon Classification: E191
+EAGLE id: material/lod/107
+hashtag: metal
+Commons category: Metals
+---
+
+## #has_/text_of_/abstract  
 
 > A **Metal** (from Ancient Greek  μέταλλον (métallon) 'mine, quarry, metal') 
 > is a material that, when polished or fractured, shows a lustrous appearance, 

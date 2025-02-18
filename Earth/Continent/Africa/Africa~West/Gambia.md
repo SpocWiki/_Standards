@@ -1,3 +1,252 @@
+---
+Commons gallery: The Gambia
+Commons category: The Gambia
+hashtag: TheGambia
+demonym:
+  - غامبي
+  - غامبية
+  - غامبيون
+  - gambiana
+  - gambianu
+  - গাম্বীয়
+  - gambià
+  - gambiana
+  - gambianes
+  - gambians
+  - gambier
+  - Gambian
+  - Gambiano
+  - gambiana
+  - gambiano
+  - Gambien
+  - Gambienne
+  - גמביאני
+  - גמביאנית
+  - gambiai
+  - Gambiano
+  - gambiana
+  - gambiane
+  - gambiani
+  - gambiano
+  - gambian
+  - Gambijczyk
+  - gambian
+  - gambiană
+  - gambieni
+  - ganbian
+  - ganbiana
+  - ganbiane
+  - ganbiani
+  - Gambiyänan
+  - ڭامبي
+  - ڭامبية
+  - ڭامبيين
+  - ڭامبيات
+  - Gaimbiach
+motto text:
+  - Прогрес, мир, просперитет
+  - Progress, Peace, Prosperity
+  - The smiling coast of Africa
+  - Cynnydd, Heddwch, Ffyniant
+official name:
+  - Islamic Republic of The Gambia
+  - Republic of The Gambia
+  - République de Gambie
+native label: Republic of The Gambia
+short name: 🇬🇲
+nominal GDP:
+  - 2273060863
+  - 2038414974
+coordinates of northernmost point: Point(-15.08 13.83)
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of the Gambia,107948]]"
+flag: "[[_Standards/WikiData/WD~flag of the Gambia,135014]]"
+named after: "[[_Standards/WikiData/WD~Gambia River,160819]]"
+different from: "[[_Standards/WikiData/WD~Gambia River,160819]]"
+member of:
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
+  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~African Groundnut Council,4689777]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~African Union,7159]]"
+  - "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+anthem: "[[_Standards/WikiData/WD~For The Gambia Our Homeland,273244]]"
+central bank: "[[_Standards/WikiData/WD~Central Bank of The Gambia,495091]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Upper River Division,824373]]"
+  - "[[_Standards/WikiData/WD~Lower River Division,824421]]"
+  - "[[_Standards/WikiData/WD~Central River Division,824431]]"
+  - "[[_Standards/WikiData/WD~West Coast Division,846158]]"
+  - "[[_Standards/WikiData/WD~North Bank Division,846161]]"
+  - "[[_Standards/WikiData/WD~Greater Banjul Area,1544417]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of the Gambia,921346]]"
+language used:
+  - "[[_Standards/WikiData/WD~Pulaar,1420205]]"
+  - "[[_Standards/WikiData/WD~Jola-Fonyi,3507832]]"
+  - "[[_Standards/WikiData/WD~Western Maninkakan,11028033]]"
+  - "[[_Standards/WikiData/WD~Gambian Wolof,12953302]]"
+  - "[[_Standards/WikiData/WD~Pukur,31172660]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Mandinka,33678]]"
+  - "[[_Standards/WikiData/WD~Mandjak,35822]]"
+  - "[[_Standards/WikiData/WD~Serer,36284]]"
+legislative body: "[[_Standards/WikiData/WD~National Assembly of The Gambia,1427127]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of the Gambia,1503142]]"
+history of topic: "[[_Standards/WikiData/WD~history of the Gambia,1509814]]"
+electrical plug type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of the Gambia,2997596]]"
+instance of:
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~Africa_Banjul,4689477]]"
+  - "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
+culture: "[[_Standards/WikiData/WD~culture of The Gambia,5794513]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of the Gambia,7112763]]"
+replaces: "[[_Standards/WikiData/WD~Commonwealth realm of the Gambia,7735661]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~118,11185210]]"
+  - "[[_Standards/WikiData/WD~116,25648807]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_The Gambia,11288146]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+office held by head of government: "[[_Standards/WikiData/WD~President of the Gambia,15921518]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of the Gambia,15921518]]"
+described by source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+head of state: "[[_Standards/WikiData/WD~Adama Barrow,27917049]]"
+head of government: "[[_Standards/WikiData/WD~Adama Barrow,27917049]]"
+has characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+studied in: "[[_Standards/WikiData/WD~Gambian studies,115669443]]"
+coordinates of easternmost point: Point(-13.79152 13.42423)
+UMLS CUI: C0016993
+IPA transcription: ðə ˈɡæm.bi.ə
+ISNI: "0000000121659101"
+MeSH tree code: Z01.058.290.190.300
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20drawing%20of%20the%20Republic%20of%20The%20Gambia.jpg
+coordinates of westernmost point: Point(-16.82377 13.38335)
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+country: "[[_Standards/WikiData/WD~The Gambia,1005]]"
+shares border with: "[[_Standards/WikiData/WD~Senegal,1041]]"
+official language: "[[_Standards/WikiData/WD~English,1860]]"
+headquarters location: "[[_Standards/WikiData/WD~Banjul,3726]]"
+capital: "[[_Standards/WikiData/WD~Banjul,3726]]"
+part of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+located in/on physical feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
+basic form of government: "[[_Standards/WikiData/WD~republic,7270]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
+located in or next to body of water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+lowest point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+Human Development Index: 0.5
+VAT rate: 15
+mains voltage: 230
+area: 11300
+top-level Internet domain: "[[_Standards/WikiData/WD~.gm,41758]]"
+Inequality-adjusted Human Development Index: 0.348
+Democracy Index: 4.49
+maritime identification digits: "629"
+ISO 3166-1 alpha-2 code: GM
+WIPO ST.3: GM
+BTI Governance Index:
+  - 5.73
+  - 5.98
+BTI Status Index:
+  - 5.84
+  - 5.92
+total fertility rate: 5.717
+mobile country code: "607"
+death rate:
+  - 6.999
+  - 7.137
+  - 7.373
+  - 7.543
+ISO 3166-1 numeric code: "270"
+M49 code: "270"
+birth rate:
+  - 32.696
+  - 33.257
+  - 33.719
+  - 34.281
+life expectancy: 61.193
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20The%20Gambia.svg
+IAB code: "1439"
+FIPS 10-4 (countries and regions): GA
+urban population:
+  - 1727830
+  - 1553776
+  - 1610858
+  - 1669008
+licence plate code: WAG
+PM20 geo code: C51
+ISO 3166-1 alpha-3 code: GMB
+ITU letter code: GMB
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20The%20Gambia.svg
+IOC country code: GAM
+rural population:
+  - 955107
+  - 963137
+  - 970908
+  - 978162
+OmegaWiki Defined Meaning: "154471"
+male population:
+  - 1247342
+  - 1280033
+  - 1313119
+  - 1346335
+female population:
+  - 1261541
+  - 1293962
+  - 1326796
+  - 1359657
+INSEE countries and foreign territories code: "99304"
+population: 2639916
+inception: 1965-01-01T00:00:00Z
+subreddit: Gambia
+coordinate location: Point(-15.5 13.5)
+U.S. National Archives Identifier: "10035707"
+Dewey Decimal Classification: 2--6651
+coordinates of southernmost point: Point(-16.7472 13.06371)
+geoshape: http://commons.wikimedia.org/data/main/Data:The+Gambia.map
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Fishing%20boat%2C%20Gunjur%20Gambia%20banner.jpg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Gambia%20%28orthographic%20projection%20with%20inset%29.svg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Gambia.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%BA%D8%A7%D9%85%D8%A8%D9%8A%D8%A7.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Gambia.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
+country calling code: "+220"
+Libris-URI: 75kml5jr0dgh804
+CIVICUS Monitor country entry: gambia
+Unicode character: 🇬🇲
+Krugosvet article: strany_mira/GAMBIYA.html
+has_id_wikidata: Q1005
+---
 ﻿---
 location:
 - 13.4667
@@ -142,6 +391,20 @@ Capital :: [[Banjul]]
 [has_place_longitude::-16.6]
 [has_place_latitude::13.4667]
 
+
+## #has_/text_of_/abstract 
+
+> The **Gambia**, officially the Republic of The Gambia, is a country in West Africa. Geographically, The Gambia is the smallest country in continental Africa; it is surrounded by Senegal on all sides except for the western part, which is bordered by the Atlantic Ocean.
+>
+> Its territory is on both sides of the lower reaches of the Gambia River, which flows through the centre of the country and empties into the Atlantic. The national namesake river demarcates the elongated shape of the country, which has an area of 11,300 square kilometres (4,400 sq mi) and a population of 2,769,075 people in 2024 which is a 2.30% population increase from 2013. The capital city is Banjul, which has the most extensive metropolitan area in the country. The second and third-largest cities are Serekunda and Brikama.
+>
+> Arab Muslim merchants traded with native West Africans in The Gambia throughout the 9th and 10th centuries. In 1455, the Portuguese were the first Europeans to enter The Gambia, although they never established significant trade there. The British Empire established a colony in 1765. In 1965, 200 years later, The Gambia gained independence under the leadership of Dawda Jawara. Jawara remained the president winning several elections until he was overthrown by  Yahya Jammeh  in a bloodless 1994 coup.
+>
+> Adama Barrow was elected as The Gambia's third president in the December 2016, he defeated Yahya Jammeh with the help of a coalition of other opposition political parties. Jammeh initially accepted the results, but then refused to leave office claiming he was cheated, triggering a constitutional crisis. The Economic Community of West African States (ECOWAS) conducted a military intervention and achieved Jammeh's removal two days after his term was initially scheduled to end.
+>
+> The Gambia's economy is dominated by farming, fishing, and especially tourism. In 2022, 17.2% of the population lived in extreme poverty, defined as living on less than US$2.15 (2017 PPP) per day. The Gambia is a founding member of the ECOWAS. It rejoined the Commonwealth of Nations in 2018 after previously withdrawing in 2013. English is the country's sole official language; it became widely used during British rule.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Gambia) 
 
 
 ## Confidential Links & Embeds: 

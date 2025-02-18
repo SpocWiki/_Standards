@@ -1,0 +1,53 @@
+---
+has_id_wikidata: Q12861
+instance of:
+  - "[[_Standards/WikiData/WD~mixture,169336]]"
+  - "[[_Standards/WikiData/WD~explosive chemicals,12870]]"
+has part(s):
+  - "[[_Standards/WikiData/WD~charcoal,177463]]"
+  - "[[_Standards/WikiData/WD~potassium nitrate,177836]]"
+  - "[[_Standards/WikiData/WD~sulfur,682]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+different from:
+  - "[[_Standards/WikiData/WD~smokeless powder,901722]]"
+  - "[[_Standards/WikiData/WD~powder explosive,21290872]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~propellant,1364934]]"
+  - "[[_Standards/WikiData/WD~powder,2908004]]"
+  - "[[_Standards/WikiData/WD~powder explosive,21290872]]"
+history of topic: "[[_Standards/WikiData/WD~history of gunpowder,3137297]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Czarny%20proch%20Vesuvit%20LC%20%283%29.jpg
+time of discovery or invention: 0900-01-01T00:00:00Z
+discoverer or inventor: "[[_Standards/WikiData/WD~Berthold Schwarz,64236]]"
+Nomenclature for Museum Cataloging: "7771"
+Commons category: Gunpowder
+---
+
+
+## #has_/text_of_/abstract 
+
+> The **Alps** () are one of the highest and most extensive mountain ranges in Europe, 
+> stretching approximately 1,200 km (750 mi) across eight Alpine countries (from west to east): 
+> Monaco, France, Switzerland, Italy, Liechtenstein, Germany, Austria and Slovenia.
+>
+> The Alpine arch extends from Nice on the western Mediterranean to Trieste on the Adriatic and Vienna at the beginning of the Pannonian Basin. The mountains were formed over tens of millions of years as the African and Eurasian tectonic plates collided. Extreme shortening  caused by the event resulted in marine sedimentary rocks rising by thrusting and folding into high mountain peaks such as Mont Blanc and the Matterhorn.
+>
+> Mont Blanc spans the French–Italian border, and at 4,809 m (15,778 ft) is the highest mountain in the Alps. The Alpine region area contains 82 peaks higher than 4,000 m (13,000 ft).
+>
+> The altitude and size of the range affect the climate in Europe; in the mountains, precipitation levels vary greatly and climatic conditions consist of distinct zones. Wildlife such as ibex live in the higher peaks to elevations of 3,400 m (11,155 ft), and plants such as edelweiss grow in rocky areas in lower elevations as well as in higher elevations.
+>
+> Evidence of human habitation in the Alps goes back to the Palaeolithic era. A mummified man ("Ötzi"), determined to be 5,000 years old, was discovered on a glacier at the Austrian–Italian border in 1991.
+>
+> By the 6th century BC, the Celtic La Tène culture was well established. Hannibal notably crossed the Alps with a herd of elephants, and the Romans had settlements in the region. In 1800, Napoleon crossed one of the mountain passes with an army of 40,000. The 18th and 19th centuries saw an influx of naturalists, writers, and artists, in particular, the Romanticists, followed by the golden age of alpinism as mountaineers began to ascend the peaks of the Alps.
+>
+> The Alpine region has a strong cultural identity. Traditional practices such as farming, cheesemaking, and woodworking still thrive in Alpine villages. However, the tourist industry began to grow early in the 20th century and expanded significantly after World War II, eventually becoming the dominant industry by the end of the century.
+>
+> The Winter Olympic Games have been hosted in the Swiss, French, Italian, Austrian and German Alps. As of 2010, the region is home to 14 million people and has 120 million annual visitors.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Alps) 
+

@@ -1,0 +1,76 @@
+---
+has_id_wikidata: Q1063
+hashtag: evolution
+Commons category: Evolution
+U.S. National Archives Identifier: "10676447"
+opposite of: "[[_Standards/WikiData/WD~creationism,130352]]"
+studied in:
+  - "[[_Standards/WikiData/WD~phylogenetics,171184]]"
+  - "[[_Standards/WikiData/WD~evolutionary biology,840400]]"
+  - "[[_Standards/WikiData/WD~theory of evolution,11640129]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~introduction to evolution,14916834]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
+  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+has cause:
+  - "[[_Standards/WikiData/WD~genetic drift,486420]]"
+  - "[[_Standards/WikiData/WD~germline mutation,5552256]]"
+has immediate cause:
+  - "[[_Standards/WikiData/WD~survival of the fittest,721322]]"
+  - "[[_Standards/WikiData/WD~selective breeding,4023882]]"
+  - "[[_Standards/WikiData/WD~natural selection,43478]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~biological process,2996394]]"
+  - "[[_Standards/WikiData/WD~pattern in nature,3455898]]"
+  - "[[_Standards/WikiData/WD~evolution,5418608]]"
+  - "[[_Standards/WikiData/WD~aspect of history,17524420]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Evolution,8084453]]"
+spoken text audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Es-Evoluci%C3%B3n%20biol%C3%B3gica-article.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Evolution%20%28intro%29.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20en%20Evolution.oga
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Evolution%20%28spoken%20by%20AI%20voice%29.mp3
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Evolutionary%20Tree%202020-10-29%20at%203.38.35%20PM.png
+Stack Exchange tag: https://biology.stackexchange.com/tags/evolution
+Provenio UUID: de9888dd-6aad-417c-9e66-99642a485c7b
+Colon Classification: G:66
+MeSH tree code:
+  - G05.045
+  - G16.075
+Gujarati Vishwakosh entry: ઉત્ક્રાંતિ-સજીવોની
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of evolution,25303767]]"
+instance of: "[[_Standards/WikiData/WD~type of process,116505632]]"
+UMLS CUI: C0015219
+image: http://commons.wikimedia.org/wiki/Special:FilePath/L%27origine%20de%20l%27%C3%A9volution.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Darwin%27s%20Theory%20of%20Evolution%20%E2%80%93%20Natural%20Selection%20%28explainer%20video%20by%20Sprouts%29.webm
+has characteristic: "[[_Standards/WikiData/WD~evolutionary pressure,27348]]"
+OmegaWiki Defined Meaning: "1369"
+Dewey Decimal Classification: "576"
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Evolution** is the change in the heritable characteristics of biological populations 
+> over successive generations. It occurs when evolutionary processes such as natural selection 
+> and genetic drift act on genetic variation, resulting in certain characteristics 
+> becoming more or less common within a population over successive generations. 
+> The process of evolution has given rise to biodiversity at every level of biological organisation.
+>
+> The scientific theory of evolution by natural selection was conceived independently by two British naturalists, Charles Darwin and Alfred Russel Wallace, in the mid-19th century as an explanation for why organisms are adapted to their physical and biological environments. The theory was first set out in detail in Darwin's book On the Origin of Species. Evolution by natural selection is established by observable facts about living organisms: (1) more offspring are often produced than can possibly survive; (2) traits vary among individuals with respect to their morphology, physiology, and behaviour; (3) different traits confer different rates of survival and reproduction (differential fitness); and (4) traits can be passed from generation to generation (heritability of fitness). In successive generations, members of a population are therefore more likely to be replaced by the offspring of parents with favourable characteristics for that environment.
+>
+> In the early 20th century, competing ideas of evolution were refuted and evolution was combined with Mendelian inheritance and population genetics to give rise to modern evolutionary theory. In this synthesis the basis for heredity is in DNA molecules that pass information from generation to generation. The processes that change DNA in a population include natural selection, genetic drift, mutation, and gene flow.
+>
+> All life on Earth—including humanity—shares a last universal common ancestor (LUCA), which lived approximately 3.5–3.8 billion years ago. The fossil record includes a progression from early biogenic graphite to microbial mat fossils to fossilised multicellular organisms. Existing patterns of biodiversity have been shaped by repeated formations of new species (speciation), changes within species (anagenesis), and loss of species (extinction) throughout the evolutionary history of life on Earth. Morphological and biochemical traits tend to be more similar among species that share a more recent common ancestor, which historically was used to reconstruct phylogenetic trees, although direct comparison of genetic sequences is a more common method today.
+>
+> Evolutionary biologists have continued to study various aspects of evolution by forming and testing hypotheses as well as constructing theories based on evidence from the field or laboratory and on data generated by the methods of mathematical and theoretical biology. Their discoveries have influenced not just the development of biology but also other fields including agriculture, medicine, and computer science.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Evolution)
+

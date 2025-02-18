@@ -1,0 +1,40 @@
+---
+has_id_wikidata: Q5339
+subclass of:
+  - "[[_Standards/WikiData/WD~semiconductor device,175805]]"
+  - "[[_Standards/WikiData/WD~active electronic component,12492106]]"
+has part(s): "[[_Standards/WikiData/WD~p–n junction,176300]]"
+follows:
+  - "[[_Standards/WikiData/WD~gas-filled tube,1159201]]"
+  - "[[_Standards/WikiData/WD~semiconductor diode,1929430]]"
+  - "[[_Standards/WikiData/WD~vacuum tube,3574371]]"
+icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20NPN%20symbol.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20PNP%20symbol.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Transistors.agr.jpg
+Stack Exchange tag: https://electronics.stackexchange.com/tags/transistors
+Dewey Decimal Classification:
+  - "621.381528"
+  - "621.38832"
+Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TRANZISTOR.html
+Commons category: Transistors
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox transistor,22835127]]"
+UMLS CUI: C2713584
+MeSH tree code: E07.305.625.714
+Nomenclature for Museum Cataloging: "8832"
+time of discovery or invention: 1947-12-01T00:00:00Z
+---
+
+
+## #has_/text_of_/abstract 
+
+> A **Transistor** is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics. It is composed of semiconductor material, usually with at least three terminals for connection to an electronic circuit. A voltage or current applied to one pair of the transistor's terminals controls the current through another pair of terminals. Because the controlled (output) power can be higher than the controlling (input) power, a transistor can amplify a signal. Some transistors are packaged individually, but many more in miniature form are found embedded in integrated circuits. Because transistors are the key active components in practically all modern electronics, many people consider them one of the 20th century's greatest inventions.
+>
+> Physicist Julius Edgar Lilienfeld proposed the concept of a field-effect transistor (FET) in 1925, but it was not possible to construct a working device at that time. The first working device was a point-contact transistor invented in 1947 by physicists John Bardeen, Walter Brattain, and William Shockley at Bell Labs who shared the 1956 Nobel Prize in Physics for their achievement. The most widely used type of transistor, the metal–oxide–semiconductor field-effect transistor (MOSFET), was invented at Bell Labs between 1955 and 1960. Transistors revolutionized the field of electronics and paved the way for smaller and cheaper radios, calculators, computers, and other electronic devices.
+>
+> Most transistors are made from very pure silicon, and some from germanium, but certain other semiconductor materials are sometimes used. A transistor may have only one kind of charge carrier in a field-effect transistor, or may have two kinds of charge carriers in bipolar junction transistor devices. Compared with the vacuum tube, transistors are generally smaller and require less power to operate. Certain vacuum tubes have advantages over transistors at very high operating frequencies or high operating voltages, such as Traveling-wave tubes and Gyrotrons. Many types of transistors are made to standardized specifications by multiple manufacturers.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Transistor) 
+
+
+

@@ -1,37 +1,363 @@
-﻿---
+---
 location:
-    - 40.18
-    - 44.5167
+  - 40.18
+  - 44.5167
 type: Country
 tags:
-    - geo/Country
-has_id_wikidata: Q399	
+  - geo/Country
+has_id_wikidata: Q399
 SpocWebEntityId: 26831
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
+source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Armenia
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - Armenia
-    - Arménie
-    - أرمينيا
-    - 亚美尼亚
-    - Армения
-    - the Republic of Armenia
-    - la República de Armenia
+  - Armenia
+  - Arménie
+  - أرمينيا
+  - 亚美尼亚
+  - Армения
+  - the Republic of Armenia
+  - la República de Armenia
 Languages:
-    - hy
+  - hy
 icon: flag-am
+ISNI: "0000000121643812"
+nominal GDP:
+  - 19502783988
+  - 13861409969
+MeSH tree code:
+  - Z01.542.900.099
+  - Z01.542.931.099
+  - Z01.586.035.150
+  - Z01.586.950.099
+coordinate location: Point(44.95 40.383333)
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Singapore,334]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Lebanon,822]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Syria,858]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Portugal,45]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Cyprus,229]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+country: "[[_Standards/WikiData/WD~Armenia,399]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+member of: "[[_Standards/WikiData/WD~United Nations,1065]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Yerevan,1953]]"
+  - "[[_Standards/WikiData/WD~Kotayk Province,4511]]"
+  - "[[_Standards/WikiData/WD~Aragatsotn Province,17915]]"
+  - "[[_Standards/WikiData/WD~Ararat Province,199880]]"
+  - "[[_Standards/WikiData/WD~Gegharkunik Province,199905]]"
+  - "[[_Standards/WikiData/WD~Vayots Dzor Province,200124]]"
+  - "[[_Standards/WikiData/WD~Lori Province,200350]]"
+  - "[[_Standards/WikiData/WD~Shirak Province,201063]]"
+  - "[[_Standards/WikiData/WD~Tavush Province,201140]]"
+  - "[[_Standards/WikiData/WD~Armavir Province,201147]]"
+  - "[[_Standards/WikiData/WD~Syunik Province,2523428]]"
+capital: "[[_Standards/WikiData/WD~Yerevan,1953]]"
+official religion: "[[_Standards/WikiData/WD~Christianity,5043]]"
+instance of:
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+located in time zone: "[[_Standards/WikiData/WD~UTC+04_00,6779]]"
+basic form of government:
+  - "[[_Standards/WikiData/WD~republic,7270]]"
+  - "[[_Standards/WikiData/WD~parliamentary system,166747]]"
+  - "[[_Standards/WikiData/WD~unitary state,179164]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Armenia,8077]]"
+official language: "[[_Standards/WikiData/WD~Armenian,8785]]"
+language used:
+  - "[[_Standards/WikiData/WD~Armenian,8785]]"
+  - "[[_Standards/WikiData/WD~Kurmanji,36163]]"
+  - "[[_Standards/WikiData/WD~Western Armenian,180945]]"
+  - "[[_Standards/WikiData/WD~Lomavren,2495696]]"
+  - "[[_Standards/WikiData/WD~Armenian Sign Language,3446604]]"
+  - "[[_Standards/WikiData/WD~North Azerbaijani,3515311]]"
+replaces: "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+part of:
+  - "[[_Standards/WikiData/WD~West Asia,27293]]"
+  - "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
+literacy rate: 100
+VAT rate: 20
+flag: "[[_Standards/WikiData/WD~flag of Armenia,33213]]"
+unemployment rate: 17
+marriageable age: 18
+age of majority: 18
+mains voltage: 220
+suicide rate: 2.7
+retirement age: 63
+birth rate:
+  - 11.7
+  - 12.049
+  - 12.455
+  - 12.892
+top-level Internet domain:
+  - "[[_Standards/WikiData/WD~.am,37245]]"
+  - "[[_Standards/WikiData/WD~.հայ,18578153]]"
+Gini coefficient: 25.2
+Colon Classification: SG--5856
+Krugosvet article: strany_mira/ARMENIYA.html
+Commons gallery: Հայաստան
+Gujarati Vishwakosh entry: આર્મેનિયા
+demonym:
+  - أرمني
+  - armenia
+  - armeniu
+  - amenis
+  - armènia
+  - armènies
+  - Arménec
+  - Arménka
+  - armenier
+  - Armenierin
+  - Arménienne
+  - Arméniens
+  - Airméanach
+  - ארמני
+  - Armeniano
+  - armena
+  - armene
+  - armeni
+  - armean
+  - armeancă
+  - armeni
+  - армяне
+  - армянин
+  - армянка
+  - вірмени
+  - вірменин
+  - вірменка
+  - armena
+  - armene
+  - armeni
+  - Larmeniyänan
+  - أرمنيون
+  - أرمنية
+  - armeni
+  - Arménien
+  - ארמנית
+  - örmény
+  - armeno
+  - armenian
+  - haiaren
+  - armen
+  - Armenier
+  - Armenec
+  - Armenka
+  - أرميني
+  - أرمينية
+  - أرمينيين
+  - أرمينيات
+  - আর্মেনীয়
+  - Armenian
+short name: 🇦🇲
+urban population:
+  - 1776315
+  - 1783156
+  - 1767628
+  - 1770343
+native label:
+  - Հայաստան
+  - Հայաստանի Հանրապետություն
+official name: Հայաստան
+coordinates of northernmost point: Point(45.0 41.3)
+U.S. National Archives Identifier: "10045258"
+name in native language: Հայաստանի Հանրապետություն
+inception: 1991-09-23T00:00:00Z
+CIVICUS Monitor country entry: armenia
+subreddit: armenia
+X (Twitter) username: armenia
+GitHub topic: armenia
+coordinates of southernmost point: Point(46.17385671 38.84024871)
+coordinates of westernmost point: Point(43.44726183 41.09928053)
+Commons category: Armenia
+hashtag: Armenia
+coordinates of easternmost point: Point(46.63421983 39.23099254)
+geoshape: http://commons.wikimedia.org/data/main/Data:Armenia.map
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Armenia%20%28orthographic%20projection%29.svg
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Armenia.svg
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%80%D5%A1%D5%B5%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6%20%28Armenia%29.ogg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Armenien.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Armenia.wav
+official website:
+  - http://www.gov.am/en/
+  - https://courrier.am
+country calling code: "+374"
+BHCL UUID: 5e92f8ca-a880-4bc1-95e4-d7b3bc56358b
+Unicode character: 🇦🇲
+ethnic group:
+  - "[[_Standards/WikiData/WD~Armenians,79797]]"
+  - "[[_Standards/WikiData/WD~Yazidis,200885]]"
+anthem: "[[_Standards/WikiData/WD~Mer Hayrenik,164259]]"
+coat of arms: "[[_Standards/WikiData/WD~Coat of arms of Armenia,171384]]"
+central bank: "[[_Standards/WikiData/WD~Central Bank of Armenia,190223]]"
+history of topic: "[[_Standards/WikiData/WD~history of Armenia,193688]]"
+highest point: "[[_Standards/WikiData/WD~Mount Aragats,203568]]"
+different from: "[[_Standards/WikiData/WD~Armenia,226316]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~New History of Yuan,1053256]]"
+  - "[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Religion in Geschichte und Gegenwart,1514334]]"
+  - "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
+  - "[[_Standards/WikiData/WD~Croatian Encyclopedia,1789619]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Armenia,1123764]]"
+lowest point: "[[_Standards/WikiData/WD~Debed,1140988]]"
+legislative body: "[[_Standards/WikiData/WD~National Assembly of Armenia,1337463]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Armenia,1404758]]"
+culture: "[[_Standards/WikiData/WD~culture of Armenia,1818127]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Armenia,2382992]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of Armenia,3129220]]"
+head of state: "[[_Standards/WikiData/WD~Vahagn Khachatryan,3553274]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of Armenia,4283840]]"
+head of government: "[[_Standards/WikiData/WD~Nikol Pashinyan,7035479]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Armenia,7112187]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Armenia,7959143]]"
+category for honorary citizens of entity: "[[_Standards/WikiData/WD~Q7981767,7981767]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Armenia,11254503]]"
+executive body: "[[_Standards/WikiData/WD~Government of Armenia,13417106]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+railway traffic side: "[[_Standards/WikiData/WD~right,14565199]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q20517659,20517659]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~101,25648794]]"
+  - "[[_Standards/WikiData/WD~102,25648798]]"
+  - "[[_Standards/WikiData/WD~103,25648811]]"
+has characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Noravank%20panorama.jpg
+area: 29743.423459
+UMLS CUI: C0003798
+Libris-URI: 1zcfdqzk3pmntnv
+BTI Governance Index:
+  - 4.25
+  - 4.31
+  - 4.38
+  - 4.68
+  - 4.84
+  - 4.93
+  - 5.17
+  - 5.32
+trunk prefix: "0"
+maritime identification digits: "216"
+mobile country code: "283"
+UIC numerical country code: "58"
+Happy Planet Index score: 54.7
+Democracy Index: 5.49
+BTI Status Index:
+  - 5.56
+  - 5.58
+  - 5.59
+  - 5.71
+  - 5.81
+  - 6.41
+  - 6.43
+  - 6.69
+Inequality-adjusted Human Development Index: 0.688
+Human Development Index: 0.759
+total fertility rate: 1.531
+number of out-of-school children: 37720
+death rate:
+  - 9.662
+  - 11.881
+  - 12.792
+  - 13.007
+ISO 3166-1 numeric code: "051"
+M49 code: "051"
+GS1 country code: "485"
+IAB code: "1240"
+ISO 3166-1 alpha-3 code: ARM
+IOC country code: ARM
+ITU letter code: ARM
+Dewey Decimal Classification: 2--4756
+life expectancy: 74.618
+ISO 3166-1 alpha-2 code: AM
+FIPS 10-4 (countries and regions): AM
+licence plate code: AM
+WIPO ST.3: AM
+UIC alphabetical country code: AM
+social media followers: 107544
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Armenia.svg
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Noravank%20banner.jpg
+female population:
+  - 1530390
+  - 1534475
+  - 1540097
+  - 1545834
+OmegaWiki Defined Meaning: "5742"
+population: 2930450
+rural population:
+  - 1012841
+  - 1020631
+  - 1029293
+  - 1037446
+INSEE countries and foreign territories code: "99252"
+male population:
+  - 1250079
+  - 1256498
+  - 1265512
+  - 1274767
 ---
 
 # [[Armenia]] 
@@ -141,6 +467,17 @@ Capital :: [[Armenia/Counties/Erevan/City/Yerevan]]
 [has_place_latitude::40.18]
 
 
+## #has_/text_of_/abstract 
+
+> **Armenia**, officially the Republic of Armenia, is a landlocked country in the Armenian Highlands of West Asia. It is a part of the Caucasus region and is bordered by Turkey to the west, Georgia to the north and Azerbaijan to the east, and Iran and the Azerbaijani exclave of Nakhchivan to the south. Yerevan is the capital, largest city and financial center.
+>
+> Armenia is a unitary, multi-party, democratic nation-state with an ancient cultural heritage. The Armenian Highlands has been home to the Hayasa-Azzi, Shupria and Nairi. By at least 600 BC, an archaic form of Proto-Armenian, an Indo-European language, had diffused into the Armenian Highlands. The first Armenian state of Urartu was established in 860 BC, and by the 6th century BC it was replaced by the Satrapy of Armenia. The Kingdom of Armenia reached its height under Tigranes the Great in the 1st century BC and in the year 301 became the first state in the world to adopt Christianity as its official religion. Armenia still recognises the Armenian Apostolic Church, the world's oldest national church, as the country's primary religious establishment. The ancient Armenian kingdom was split between the Byzantine and Sasanian Empires around the early 5th century. Under the Bagratuni dynasty, the Bagratid Kingdom of Armenia was restored in the 9th century before falling in 1045. Cilician Armenia, an Armenian principality and later a kingdom, was located on the coast of the Mediterranean Sea between the 11th and 14th centuries.
+>
+> Between the 16th and 19th centuries, the traditional Armenian homeland composed of Eastern Armenia and Western Armenia came under the rule of the Ottoman and Persian empires, repeatedly ruled by either of the two over the centuries. By the 19th century, Eastern Armenia had been conquered by the Russian Empire, while most of the western parts of the traditional Armenian homeland remained under Ottoman rule. During World War I, up to 1.5 million Armenians living in their ancestral lands in the Ottoman Empire were systematically exterminated in the Armenian genocide. In 1918, following the Russian Revolution, all non-Russian countries declared their independence after the Russian Empire ceased to exist, leading to the establishment of the First Republic of Armenia. By 1920, the state was incorporated into the Soviet Union as the Armenian SSR. The modern Republic of Armenia became independent in 1991 during the dissolution of the Soviet Union.
+>
+> Armenia is a developing country and ranks 76th on the Human Development Index as of 2024. Its economy is primarily based on industrial output and mineral extraction. While Armenia is geographically located in the South Caucasus, it is generally considered geopolitically European. Since Armenia aligns itself in many respects geopolitically with Europe, the country is a member of numerous European organisations including the Organization for Security and Co-Operation in Europe, the Council of Europe, the Eastern Partnership, Eurocontrol, the Assembly of European Regions, and the European Bank for Reconstruction and Development. Armenia is also a member of certain regional groups throughout Eurasia, including the Asian Development Bank, the Collective Security Treaty Organization, the Eurasian Economic Union, and the Eurasian Development Bank. Armenia supported the once de facto independent Republic of Artsakh (Nagorno-Karabakh), which was proclaimed in 1991 on territory internationally recognized as part of Azerbaijan, until the republic's dissolution in September 2023.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Armenia)
 
 ## Confidential Links & Embeds: 
 

@@ -1,0 +1,136 @@
+---
+aliases:
+  - Sun Yat-sen
+has_id_wikidata: Q8573
+occupation:
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
+  - "[[_Standards/WikiData/WD~physician,39631]]"
+military or police rank: "[[_Standards/WikiData/WD~generalissimo,191079]]"
+member of:
+  - "[[_Standards/WikiData/WD~Tiandihui,213387]]"
+  - "[[_Standards/WikiData/WD~freemasonry,41726]]"
+place of birth: "[[_Standards/WikiData/WD~Cuiheng,588677]]"
+cause of death: "[[_Standards/WikiData/WD~liver cancer,623031]]"
+award received: "[[_Standards/WikiData/WD~Order of Merit for National Foundation,624185]]"
+employer: "[[_Standards/WikiData/WD~Nanjing University,683580]]"
+child:
+  - "[[_Standards/WikiData/WD~Sun Fo,701897]]"
+  - "[[_Standards/WikiData/WD~Fumiko Miyagawa,4164318]]"
+  - "[[_Standards/WikiData/WD~Sun Yan,22100096]]"
+spouse:
+  - "[[_Standards/WikiData/WD~Lu Muzhen,708894]]"
+  - "[[_Standards/WikiData/WD~Kaoru Otsuki,4164245]]"
+  - "[[_Standards/WikiData/WD~Chen Cuifen,5090737]]"
+  - "[[_Standards/WikiData/WD~Haru Asada,5675539]]"
+  - "[[_Standards/WikiData/WD~Soong Ching-ling,17132]]"
+educated at:
+  - "[[_Standards/WikiData/WD~Queen's College,836362]]"
+  - "[[_Standards/WikiData/WD~Punahou School,3273124]]"
+  - "[[_Standards/WikiData/WD~ʻIolani School,4164446]]"
+  - "[[_Standards/WikiData/WD~Li Ka Shing Faculty of Medicine,4164603]]"
+  - "[[_Standards/WikiData/WD~Boji Medical College,10909511]]"
+  - "[[_Standards/WikiData/WD~Hong Kong College of Medicine for Chinese,15715077]]"
+position held:
+  - "[[_Standards/WikiData/WD~Great President of the Republic of China,837221]]"
+  - "[[_Standards/WikiData/WD~Extraordinary President of the Republic of China,4164123]]"
+member of political party:
+  - "[[_Standards/WikiData/WD~Tongmenghui,950326]]"
+  - "[[_Standards/WikiData/WD~Kuomintang,31113]]"
+described by source:
+  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+  - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
+religion or worldview: "[[_Standards/WikiData/WD~Congregational churches,1062789]]"
+place of burial: "[[_Standards/WikiData/WD~Sun Yat-sen Mausoleum,1338405]]"
+family name: "[[_Standards/WikiData/WD~Sun,3543591]]"
+manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+sibling: "[[_Standards/WikiData/WD~Sun Mei,4164342]]"
+sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
+place of death: "[[_Standards/WikiData/WD~Peking Union Medical College Hospital,7161058]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg
+signature:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Sun%20Yat%20Sen%20-%20China%20Document%20-%20dark%20version.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/The%20signature%20of%20Sun%20Yat-sun.svg
+BHCL UUID: 6e9d2e67-55e3-45de-be88-415802b2f63e
+CYT/CCS: AC000000655
+Google Doodle: dr-sun-yat-sens-birthday
+Krugosvet article: istoriya/SUN_YATSEN.html
+Libris-URI: khwzvlj34vfmlsr
+Commons Creator page: Sun Yat-sen
+Commons gallery: Sun Yat-sen
+Commons category: Sun Yat-sen
+U.S. National Archives Identifier: "10582860"
+NLC authorities: "000057697"
+date of death: 1925-03-12T00:00:00Z
+Facebook username: sun.yat.sen
+name in kana: そん ぶん
+name in native language: 孫逸仙
+residence:
+  - "[[_Standards/WikiData/WD~Haxell's Hotel,19799667]]"
+  - "[[_Standards/WikiData/WD~San Francisco,62]]"
+father: "[[_Standards/WikiData/WD~Sun Dacheng,65046325]]"
+given name:
+  - "[[_Standards/WikiData/WD~Wen,94957241]]"
+  - "[[_Standards/WikiData/WD~Yixian,94994194]]"
+  - "[[_Standards/WikiData/WD~Zhongshan,95048030]]"
+mother: "[[_Standards/WikiData/WD~Madame Yang,95476008]]"
+Swedish Open Cultural Heritage URI: SMVK-EM/name/4243344
+ISNI: "0000000123205197"
+date of birth: 1866-11-12T00:00:00Z
+country of citizenship: "[[_Standards/WikiData/WD~Taiwan,865]]"
+writing language:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Chinese,7850]]"
+"languages spoken, written or signed":
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Chinese,7850]]"
+work location: "[[_Standards/WikiData/WD~Hong Kong,8646]]"
+instance of: "[[_Standards/WikiData/WD~human,5]]"
+number of children: 5
+ancestral home: "[[_Standards/WikiData/WD~Dongguan,59218]]"
+ArhivX LOD: "43888"
+courtesy name: 載之
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Sun Yat-sen** (; 12 November 1866 – 12 March 1925) was a Chinese physician, revolutionary, statesman, 
+> and political philosopher who founded the Republic of China (ROC) 
+> and its first political party, the Kuomintang (KMT). 
+> 
+> As the paramount leader of the 1911 Revolution, 
+> Sun is credited with overthrowing the Qing imperial dynasty 
+> and served as the first president of the Provisional Government of the Republic of China (1912) 
+> and as the inaugural leader of the Kuomintang.
+>
+> Born to a peasant family in Guangdong, Sun was educated overseas in Hawaii 
+> and returned to China to graduate from medical school in Hong Kong. 
+> 
+> He led underground anti-Qing revolutionaries in South China, the United Kingdom, and Japan 
+> as one of the Four Bandits and rose to prominence as the founder of multiple resistance movements, 
+> including the Revive China Society and the Tongmenghui. 
+> Although he is considered one of the most important figures of modern China, 
+> his political life campaigning against Manchu rule in favor of a Chinese republic 
+> featured constant struggles and frequent periods of exile. 
+>
+> After the success of the 1911 Revolution, Sun proclaimed the establishment of the Republic of China but had to relinquish the presidency to general Yuan Shikai, ultimately going into exile in Japan. He later returned to launch a revolutionary government in southern China to challenge the warlords who controlled much of the country following Yuan's death in 1916. In 1923, Sun invited representatives of the Communist International to Guangzhou to reorganize the KMT and formed the First United Front with the Chinese Communist Party (CCP). He did not live to see his party unify the country under his successor, Chiang Kai-shek, in the Northern Expedition. While residing in Beijing, Sun died of gallbladder cancer in 1925.
+>
+> Uniquely among 20th-century Chinese leaders, 
+> Sun is revered in both Taiwan (where he is officially the "Father of the Nation") 
+> and in the People's Republic of China (where he is officially the "Forerunner of the Revolution") 
+> for his instrumental role in ending Qing rule 
+> and overseeing the conclusion of the Chinese dynastic system. 
+> 
+> His political philosophy, known as the Three Principles of the People, 
+> sought to modernise China by advocating for nationalism, democracy, 
+> and the livelihood of the people in an ethnically harmonious union (Zhonghua minzu). 
+> The philosophy is commemorated as the National Anthem of the Republic of China, which Sun composed.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Sun%20Yat-sen)
+

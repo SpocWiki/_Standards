@@ -1,0 +1,61 @@
+---
+has_id_wikidata: Q7561
+has use: "[[_Standards/WikiData/WD~winter sport,204686]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~material,214609]]"
+  - "[[_Standards/WikiData/WD~precipitation,25257]]"
+has part(s): "[[_Standards/WikiData/WD~snowflake,550147]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+made from material:
+  - "[[_Standards/WikiData/WD~ice crystal,1325808]]"
+  - "[[_Standards/WikiData/WD~air,7391292]]"
+studied in: "[[_Standards/WikiData/WD~snow science,1898432]]"
+different from: "[[_Standards/WikiData/WD~Q9395698,9395698]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q26197463,26197463]]"
+instance of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+UMLS CUI:
+  - C0337013
+  - C0037386
+MeSH tree code:
+  - G16.500.175.867
+  - G16.500.275.063.725.480
+  - G16.500.750.775.480
+  - N06.230.300.100.725.480
+color: "[[_Standards/WikiData/WD~white,23444]]"
+melting point: 0
+OmegaWiki Defined Meaning: "3455"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCsseldorf%20Hofgarten%202009.jpg
+winter view: http://commons.wikimedia.org/wiki/Special:FilePath/Field-with-snow-champ-enneige.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Snowing%20video%20samye%20ling%201.ogv
+Unicode character: ⁎
+U.S. National Archives Identifier: "10644069"
+IHO Hydrographic Dictionary (S-32) Number: "4834"
+Commons gallery: Snow
+Commons category: Snow
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Plant**s are the eukaryotes that form the kingdom Plantae; they are predominantly photosynthetic. This means that they obtain their energy from sunlight, using chloroplasts derived from endosymbiosis with cyanobacteria to produce sugars from carbon dioxide and water, using the green pigment chlorophyll. Exceptions are parasitic plants that have lost the genes for chlorophyll and photosynthesis, and obtain their energy from other plants or fungi. Most plants are multicellular, except for some green algae.
+>
+> Historically, as in Aristotle's biology, the plant kingdom encompassed all living things that were not animals, and included algae and fungi. Definitions have narrowed since then; current definitions exclude the fungi and some of the algae. By the definition used in this article, plants form the clade Viridiplantae (green plants), which consists of the green algae and the embryophytes or land plants (hornworts, liverworts, mosses, lycophytes, ferns, conifers and other gymnosperms, and flowering plants). A definition based on genomes includes the Viridiplantae, along with the red algae and the glaucophytes, in the clade Archaeplastida.
+>
+> There are about 380,000 known species of plants, of which the majority, some 260,000, produce seeds. They range in size from single cells to the tallest trees. Green plants provide a substantial proportion of the world's molecular oxygen; the sugars they create supply the energy for most of Earth's ecosystems, and other organisms, including animals, either eat plants directly or rely on organisms which do so.
+>
+> Grain, fruit, and vegetables are basic human foods and have been domesticated for millennia. People use plants for many purposes, such as building materials, ornaments, writing materials, and, in great variety, for medicines. The scientific study of plants is known as botany, a branch of biology.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Plant)
+
+

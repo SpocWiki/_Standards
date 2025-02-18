@@ -1,0 +1,51 @@
+---
+has_id_wikidata: Q7891
+has part(s):
+  - "[[_Standards/WikiData/WD~nasal cavity,156104]]"
+  - "[[_Standards/WikiData/WD~pharynx,174778]]"
+  - "[[_Standards/WikiData/WD~trachea,175449]]"
+  - "[[_Standards/WikiData/WD~bronchus,181602]]"
+  - "[[_Standards/WikiData/WD~respiratory tract,13400765]]"
+  - "[[_Standards/WikiData/WD~lung,7886]]"
+  - "[[_Standards/WikiData/WD~larynx,9637]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~organ system,188193]]"
+  - "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+produced sound: "[[_Standards/WikiData/WD~respiratory sound,779038]]"
+topic's main template:
+  - "[[_Standards/WikiData/WD~Template_Lower respiratory system anatomy,10522033]]"
+  - "[[_Standards/WikiData/WD~Q25720347,25720347]]"
+  - "[[_Standards/WikiData/WD~Q125741688,125741688]]"
+instance of:
+  - "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
+  - "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+part of: "[[_Standards/WikiData/WD~circulatory system,11068]]"
+MeSH tree code: A04
+Commons category: Respiratory system
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Respiratory%20system%20complete%20en.svg
+WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/respiratory_system
+Iconclass notation: 49G612
+UMLS CUI: C0035237
+Krugosvet article: nauka_i_tehnika/biologiya/DIHANIYA_ORGANI.html
+TA98 Latin term: systema respiratorium
+---
+
+
+## #has_/text_of_/abstract 
+
+> The **Respiratory system** (also respiratory apparatus, ventilatory system) is a biological system consisting of specific organs and structures used for gas exchange in animals and plants. The anatomy and physiology that make this happen varies greatly, depending on the size of the organism, the environment in which it lives and its evolutionary history. In land animals, the respiratory surface is internalized as linings of the lungs. Gas exchange in the lungs occurs in millions of small air sacs; in mammals and reptiles, these are called alveoli, and in birds, they are known as atria. These microscopic air sacs have a very rich blood supply, thus bringing the air into close contact with the blood. These air sacs communicate with the external environment via a system of airways, or hollow tubes, of which the largest is the trachea, which branches in the middle of the chest into the two main bronchi. These enter the lungs where they branch into progressively narrower secondary and tertiary bronchi that branch into numerous smaller tubes, the bronchioles. In birds, the bronchioles are termed parabronchi. It is the bronchioles, or parabronchi that generally open into the microscopic alveoli in mammals and atria in birds. Air has to be pumped from the environment into the alveoli or atria by the process of breathing which involves the muscles of respiration.
+>
+> In most fish, and a number of other aquatic animals (both vertebrates and invertebrates), the respiratory system consists of gills, which are either partially or completely external organs, bathed in the watery environment. This water flows over the gills by a variety of active or passive means. Gas exchange takes place in the gills which consist of thin or very flat filaments and lammellae which expose a very large surface area of highly vascularized tissue to the water.
+>
+> Other animals, such as insects, have respiratory systems with very simple anatomical features, and in amphibians, even the skin plays a vital role in gas exchange. Plants also have respiratory systems but the directionality of gas exchange can be opposite to that in animals. The respiratory system in plants includes anatomical features such as stomata, that are found in various parts of the plant.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Respiratory%20system)  
+
+
+
+

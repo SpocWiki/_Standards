@@ -1,13 +1,16 @@
-﻿---
+---
 type: Lang
 aliases:
   - Yue
   - Cantonese
   - Lang-yu
+  - Yue Chinese
 tags:
   - Lang/yu
+has_id_wikidata: Q7033959
 ---
-# [[Lang-zh-yue]] 
+
+ # [[Lang-zh-yue]] 
 
 [SpocWebEntityId:: 457 ]
 [Name::Yue]

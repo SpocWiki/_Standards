@@ -1,34 +1,30 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_text_of_algorithm
 linkTitle: has_text_of_algorithm
-
-keywords: [algorithm]
+keywords:
+  - algorithm
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- algorithm
-- algorithm
-- algorithm
-- has_text_of_algorithm
+  - algorithm
+  - algorithm
+  - algorithm
+  - has_text_of_algorithm
+has_id_wikidata: Q8366
 ---
 
 Predicate to describe the Text of MedicalRiskScore.

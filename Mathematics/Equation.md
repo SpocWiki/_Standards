@@ -1,0 +1,35 @@
+---
+has_id_wikidata: Q11345
+opposite of: "[[_Standards/WikiData/WD~inequation,165309]]"
+different from: "[[_Standards/WikiData/WD~chemical equation,182527]]"
+studied in: "[[_Standards/WikiData/WD~elementary algebra,211294]]"
+has part(s): "[[_Standards/WikiData/WD~equals sign,214796]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+manifestation of: "[[_Standards/WikiData/WD~equality,842346]]"
+subclass of: "[[_Standards/WikiData/WD~formula,976981]]"
+has list: "[[_Standards/WikiData/WD~list of equations,3243244]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+properties for this type: defining formula
+Colon Classification: B23
+OmegaWiki Defined Meaning: "477547"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Equation%20Ever.png
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3.wav
+IEV number: 102-01-25
+Commons category: Equations
+Krugosvet article: matematika/uravneniya
+---
+
+
+## #has_/text_of_/abstract 
+
+> In mathematics, an **Equation** is a mathematical formula that expresses the equality of two expressions, by connecting them with the equals sign =. The word equation and its cognates in other languages may have subtly different meanings; for example, in French an équation is defined as containing one or more variables, while in English, any well-formed formula consisting of two expressions related with an equals sign is an equation.
+>
+> Solving an equation containing variables consists of determining which values of the variables make the equality true. The variables for which the equation has to be solved are also called unknowns, and the values of the unknowns that satisfy the equality are called solutions of the equation. There are two kinds of equations: identities and conditional equations. An identity is true for all values of the variables. A conditional equation is only true for particular values of the variables.
+>
+> The "=" symbol, which appears in every equation, was invented in 1557 by Robert Recorde, who considered that nothing could be more equal than parallel straight lines with the same length.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Equation)
+
