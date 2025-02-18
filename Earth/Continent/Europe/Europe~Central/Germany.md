@@ -647,7 +647,7 @@ has_name:
 [has_place_latitude::50.8699] 
 
 #has_/time_/started :: 1949-05-23 
-## International Names 
+## International Names
 
 [	name	 :: Germany ]
 [	name-en	 :: Germany ]
