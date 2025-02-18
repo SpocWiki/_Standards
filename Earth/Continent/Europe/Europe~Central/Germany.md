@@ -643,8 +643,8 @@ has_name:
 #is_a_/Country 
 #is_a_/Place 
 #is_a_ :: [[Place]] 
-[has_place_longitude::10.1207]
-[has_place_latitude::50.8699]
+[has_place_longitude::10.1207] 
+[has_place_latitude::50.8699] 
 
 #has_/time_/started :: 1949-05-23 
 ## International Names

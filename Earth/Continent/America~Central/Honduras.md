@@ -1,37 +1,325 @@
-﻿---
+---
 location:
-    - 14.1
-    - -87.2167
+  - 14.1
+  - -87.2167
 type: Country
 tags:
-    - geo/Country
+  - geo/Country
 SpocWebEntityId: 26918
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
 title: Honduras
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - Honduras
-    - هندوراس
-    - 洪都拉斯
-    - Гондурас
-    - the Republic of Honduras
-    - la República de Honduras
+  - Honduras
+  - هندوراس
+  - 洪都拉斯
+  - Гондурас
+  - the Republic of Honduras
+  - la República de Honduras
 Languages:
-    - es-HN
-    - cab
-    - miq
+  - es-HN
+  - cab
+  - miq
 icon: flag-hn
+has_id_wikidata: Q783
+flag: "[[_Standards/WikiData/WD~flag of Honduras,102939]]"
+member of:
+  - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Central American Bank for Economic Integration,190008]]"
+  - "[[_Standards/WikiData/WD~Central American Common Market,190019]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~International Regional Organization for Agricultural Health,3356166]]"
+  - "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Honduras,130320]]"
+head of government:
+  - "[[_Standards/WikiData/WD~Manuel Zelaya,191060]]"
+  - "[[_Standards/WikiData/WD~Roberto Micheletti,299442]]"
+  - "[[_Standards/WikiData/WD~Ricardo Maduro,441393]]"
+  - "[[_Standards/WikiData/WD~Carlos Roberto Flores,654177]]"
+  - "[[_Standards/WikiData/WD~Juan Orlando Hernández,5951723]]"
+  - "[[_Standards/WikiData/WD~Xiomara Castro,8044708]]"
+  - "[[_Standards/WikiData/WD~Porfirio Lobo Sosa,4737]]"
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Palestine,219060]]"
+  - "[[_Standards/WikiData/WD~Mosquitia,6037274]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Intibucá Department,262125]]"
+  - "[[_Standards/WikiData/WD~Santa Bárbara Department,591139]]"
+  - "[[_Standards/WikiData/WD~Atlántida Department,622619]]"
+  - "[[_Standards/WikiData/WD~Lempira Department,744138]]"
+  - "[[_Standards/WikiData/WD~Bay Islands Department,751725]]"
+  - "[[_Standards/WikiData/WD~Cortés Department,767244]]"
+  - "[[_Standards/WikiData/WD~Comayagua Department,823443]]"
+  - "[[_Standards/WikiData/WD~Copán Department,843984]]"
+  - "[[_Standards/WikiData/WD~La Paz Department,866886]]"
+  - "[[_Standards/WikiData/WD~Ocotepeque Department,867084]]"
+  - "[[_Standards/WikiData/WD~Olancho Department,867089]]"
+  - "[[_Standards/WikiData/WD~Valle Department,867097]]"
+  - "[[_Standards/WikiData/WD~El Paraíso Department,867108]]"
+  - "[[_Standards/WikiData/WD~Gracias a Dios Department,867112]]"
+  - "[[_Standards/WikiData/WD~Colón Department,867117]]"
+  - "[[_Standards/WikiData/WD~Francisco Morazán Department,867126]]"
+  - "[[_Standards/WikiData/WD~Choluteca Department,899272]]"
+  - "[[_Standards/WikiData/WD~Yoro Department,1123380]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+part of:
+  - "[[_Standards/WikiData/WD~Hispanic America,653884]]"
+  - "[[_Standards/WikiData/WD~Americas,828]]"
+  - "[[_Standards/WikiData/WD~Latin America,12585]]"
+  - "[[_Standards/WikiData/WD~Central America,27611]]"
+history of topic: "[[_Standards/WikiData/WD~history of Honduras,687152]]"
+anthem: "[[_Standards/WikiData/WD~National Anthem of Honduras,842503]]"
+highest point: "[[_Standards/WikiData/WD~Cerro Las Minas,1055875]]"
+legislative body: "[[_Standards/WikiData/WD~National Congress of Honduras,1415847]]"
+language used:
+  - "[[_Standards/WikiData/WD~Miskito,1516803]]"
+  - "[[_Standards/WikiData/WD~Tol,3178609]]"
+  - "[[_Standards/WikiData/WD~Mayangna,3302929]]"
+  - "[[_Standards/WikiData/WD~Honduran Sign Language,3915496]]"
+  - "[[_Standards/WikiData/WD~Paya,4898889]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Ch’orti’,35177]]"
+  - "[[_Standards/WikiData/WD~Garifuna,35490]]"
+  - "[[_Standards/WikiData/WD~Lencan,36189]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Honduras,2366847]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Honduras,2656178]]"
+central bank: "[[_Standards/WikiData/WD~Central Bank of Honduras,2920146]]"
+culture: "[[_Standards/WikiData/WD~culture of Honduras,3007337]]"
+instance of:
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+replaces:
+  - "[[_Standards/WikiData/WD~Mosquitia,6037274]]"
+  - "[[_Standards/WikiData/WD~State of Honduras,68253870]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Honduras,7112288]]"
+head of state: "[[_Standards/WikiData/WD~Xiomara Castro,8044708]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Honduras,11308226]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of Honduras,13341442]]"
+office held by head of government: "[[_Standards/WikiData/WD~President of Honduras,13341442]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+executive body: "[[_Standards/WikiData/WD~Government of Honduras,17633154]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+  - "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~198,25648880]]"
+  - "[[_Standards/WikiData/WD~199,25648881]]"
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q27096408,27096408]]"
+  - "[[_Standards/WikiData/WD~Q111372541,111372541]]"
+has characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~America_Tegucigalpa,63286065]]"
+  - "[[_Standards/WikiData/WD~UTC−06_00,5385]]"
+coordinates of northernmost point: Point(-85.85 16.52)
+nominal GDP:
+  - 28488721296
+  - 31717700115
+coordinates of easternmost point: Point(-83.12912 15.00647)
+demonym:
+  - هوندوراسي
+  - هوندوراسية
+  - هوندوراسيين
+  - هوندوراسيات
+  - Hondúrach
+  - هندوراسي
+  - هندوراسية
+  - هندوراسيون
+  - hondurana
+  - honduranu
+  - হন্ডুরীয়
+  - Catracho
+  - Honduran
+  - Hondurano
+  - Hondurien
+  - Hondurienne
+  - הונדורסי
+  - הונדורסית
+  - hondurasi
+  - Hondurasano
+  - honduregna
+  - honduregne
+  - honduregni
+  - honduregno
+  - onduran
+  - Hondurees
+  - гондурасец
+  - гондураска
+  - гондурасцы
+  - onduregna
+  - onduregne
+  - onduregni
+  - onduregno
+  - Honduränan
+ISNI: "0000000122428161"
+MeSH tree code: Z01.107.169.534
+coordinates of southernmost point: Point(-87.30844 12.98765)
+shares border with:
+  - "[[_Standards/WikiData/WD~Guatemala,774]]"
+  - "[[_Standards/WikiData/WD~El Salvador,792]]"
+  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
+country: "[[_Standards/WikiData/WD~Honduras,783]]"
+lowest point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+official language: "[[_Standards/WikiData/WD~Spanish,1321]]"
+capital: "[[_Standards/WikiData/WD~Tegucigalpa,3238]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Honduras,4722]]"
+basic form of government: "[[_Standards/WikiData/WD~republic,7270]]"
+continent: "[[_Standards/WikiData/WD~North America,49]]"
+BTI Governance Index:
+  - 4
+  - 5.5
+  - 4.33
+  - 4.98
+  - 4.99
+  - 5.01
+  - 5.12
+  - 5.42
+  - 5.56
+unemployment rate: 4
+mains voltage: 110
+VAT rate: 15
+marriageable age: 18
+age of majority: 21
+top-level Internet domain: "[[_Standards/WikiData/WD~.hn,41025]]"
+BTI Status Index:
+  - 4.71
+  - 4.94
+  - 5.51
+  - 5.88
+  - 5.94
+  - 5.95
+  - 5.97
+  - 6.04
+  - 6.09
+Inequality-adjusted Human Development Index: 0.479
+Gini coefficient: 48.2
+Democracy Index: 5.36
+Happy Planet Index score: 57.7
+Human Development Index: 0.621
+birth rate:
+  - 20.85
+  - 21.071
+  - 21.353
+  - 21.628
+total fertility rate: 2.382
+death rate:
+  - 4.315
+  - 4.945
+  - 5.404
+  - 5.608
+maritime identification digits: "334"
+OmegaWiki Defined Meaning: "5751"
+ISO 3166-1 numeric code: "340"
+M49 code: "340"
+GS1 country code: "742"
+FIPS 10-4 (countries and regions): HO
+IAB code: "1315"
+life expectancy: 73.575
+mobile country code: "708"
+area: 112492
+country calling code: "+504"
+ISO 3166-1 alpha-2 code: HN
+WIPO ST.3: HN
+number of out-of-school children: 369528
+INSEE countries and foreign territories code: "99411"
+male population:
+  - 5112980
+  - 5031794
+  - 5190703
+  - 5267354
+ISO 3166-1 alpha-3 code: HND
+ITU letter code: HND
+urban population:
+  - 5906960
+  - 5749232
+  - 6062373
+  - 6217985
+PM20 geo code: E68
+official name:
+  - Honduras
+  - la République du Honduras
+IOC country code: HON
+CIVICUS Monitor country entry: honduras
+GitHub topic: honduras
+U.S. National Archives Identifier: "10044629"
+rural population:
+  - 4209597
+  - 4214803
+  - 4214875
+  - 4215972
+female population:
+  - 4927035
+  - 5008783
+  - 5087643
+  - 5165506
+population: 10062994
+inception: 1821-01-01T00:00:00Z
+Commons category: Honduras
+subreddit: Honduras
+Commons gallery: Honduras
+hashtag: Honduras
+geoshape: http://commons.wikimedia.org/data/main/Data:Honduras.map
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Honduras.svg
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Copan%20Honduras%20banner.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Copan%20sculpture.jpg
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Honduras.svg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Honduras%20%28orthographic%20projection%29.svg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Honduras.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Honduras.wav
+official website: https://www.honduras.travel/en/
+Dewey Decimal Classification: 2--7283
+Unicode character: 🇭🇳
+Colon Classification: SG--752
+Krugosvet article: strany_mira/GONDURAS.html
+motto text: Libre, Soberana e Independiente
+native label: República de Honduras
+short name: 🇭🇳
+coordinates of westernmost point: Point(-89.35593 14.42045)
+coordinate location: Point(-86.816667 14.633333)
 ---
 
 # [[Honduras]] 
@@ -42,7 +330,7 @@ For more Details, check out this Repository into this Subfolder:
 [[Honduras/ReadMe]] 
 
 
-[	ISO4217-currency_alphabetic	 :: HNL ]
+[	ISO4217-currency_alphabetic	 :: HNL ] 
 [	ISO4217-currency_name	 :: Lempira ]
 [	ISO4217-currency_numeric	 :: 340 ]
 [	ISO4217-currency_minor_unit	 :: 2 ]
@@ -144,6 +432,17 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 [has_place_latitude::14.1]
 
 
+## #has_/text_of_/abstract 
+
+> **Honduras**, officially the Republic of Honduras, is a country in Central America. It is bordered to the west by Guatemala, to the southwest by El Salvador, to the southeast by Nicaragua, to the south by the Pacific Ocean at the Gulf of Fonseca, and to the north by the Gulf of Honduras, a large inlet of the Caribbean Sea. Its capital and largest city is Tegucigalpa.
+>
+> Honduras was home to several important Mesoamerican cultures, most notably the Maya, before Spanish colonization in the sixteenth century. The Spanish introduced Catholicism and the now predominant Spanish language, along with numerous customs that have blended with the indigenous culture. Honduras became independent in 1821 and has since been a republic, although it has consistently endured much social strife and political instability, and remains one of the poorest countries in the Western Hemisphere. In 1960, the northern part of what was the Mosquito Coast was transferred from Nicaragua to Honduras by the International Court of Justice.
+>
+> The nation's economy is primarily agricultural, making it especially vulnerable to natural disasters such as Hurricane Mitch in 1998. Honduras has a Human Development Index of 0.624, ranking 138th in the world. In 2022, according to the National Institute of Statistics of Honduras (INE), 73% of the country's population lived in poverty and 53% lived in extreme poverty. The lower class is primarily agriculturally based while wealth is concentrated in the country's urban centers. The country is one of the most economically unequal in Latin America.
+>
+> Honduran society is predominantly Mestizo; however, there are also significant Indigenous, black, and white communities in Honduras. The nation had a relatively high political stability until a 2009 military coup and controversy arising from claims of electoral fraud in the 2017 presidential election. Honduras spans about 112,492 km2 (43,433 sq mi) and has a population exceeding 10 million. Its northern portions are part of the western Caribbean zone, as reflected in the area's demographics and culture. Honduras is known for its rich natural resources, including minerals, coffee, tropical fruit, and sugar cane, as well as for its growing textiles industry, which serves the international market.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Honduras)
 
 ## Confidential Links & Embeds: 
 

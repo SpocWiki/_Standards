@@ -1,3 +1,349 @@
+---
+member of:
+  - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Central American Bank for Economic Integration,190008]]"
+  - "[[_Standards/WikiData/WD~Central American Common Market,190019]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~International Regional Organization for Agricultural Health,3356166]]"
+  - "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+instance of:
+  - "[[_Standards/WikiData/WD~banana republic,171751]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Sololá Department,178136]]"
+  - "[[_Standards/WikiData/WD~Petén Department,466061]]"
+  - "[[_Standards/WikiData/WD~Alta Verapaz Department,504637]]"
+  - "[[_Standards/WikiData/WD~Baja Verapaz Department,504647]]"
+  - "[[_Standards/WikiData/WD~Sacatepéquez Department,508804]]"
+  - "[[_Standards/WikiData/WD~Quiché Department,669802]]"
+  - "[[_Standards/WikiData/WD~Izabal Department,693658]]"
+  - "[[_Standards/WikiData/WD~Guatemala Department,695660]]"
+  - "[[_Standards/WikiData/WD~Chiquimula Department,753037]]"
+  - "[[_Standards/WikiData/WD~Chimaltenango Department,765975]]"
+  - "[[_Standards/WikiData/WD~Jutiapa Department,765984]]"
+  - "[[_Standards/WikiData/WD~Zacapa Department,780784]]"
+  - "[[_Standards/WikiData/WD~Jalapa Department,795441]]"
+  - "[[_Standards/WikiData/WD~Escuintla Department,795587]]"
+  - "[[_Standards/WikiData/WD~El Progreso Department,795591]]"
+  - "[[_Standards/WikiData/WD~Huehuetenango Department,842266]]"
+  - "[[_Standards/WikiData/WD~Quetzaltenango Department,844502]]"
+  - "[[_Standards/WikiData/WD~Suchitepéquez Department,883734]]"
+  - "[[_Standards/WikiData/WD~San Marcos Department,883907]]"
+  - "[[_Standards/WikiData/WD~Totonicapán Department,885644]]"
+  - "[[_Standards/WikiData/WD~Santa Rosa Department,885656]]"
+  - "[[_Standards/WikiData/WD~Retalhuleu Department,888307]]"
+flag: "[[_Standards/WikiData/WD~flag of Guatemala,178179]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Guatemala,207526]]"
+anthem: "[[_Standards/WikiData/WD~National Anthem of Guatemala,266593]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+part of:
+  - "[[_Standards/WikiData/WD~Hispanic America,653884]]"
+  - "[[_Standards/WikiData/WD~Latin America,12585]]"
+  - "[[_Standards/WikiData/WD~Central America,27611]]"
+  - "[[_Standards/WikiData/WD~Middle America,29876]]"
+different from: "[[_Standards/WikiData/WD~Guatemala Department,695660]]"
+located in or next to body of water:
+  - "[[_Standards/WikiData/WD~Gulf of Honduras,795608]]"
+  - "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+  - "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+highest point: "[[_Standards/WikiData/WD~Volcán Tajumulco,818467]]"
+legislative body: "[[_Standards/WikiData/WD~Congress of the Republic of Guatemala,1136026]]"
+history of topic: "[[_Standards/WikiData/WD~history of Guatemala,1427210]]"
+language used:
+  - "[[_Standards/WikiData/WD~Xincan,1546494]]"
+  - "[[_Standards/WikiData/WD~Guatemalan Sign Language,2886781]]"
+  - "[[_Standards/WikiData/WD~Cauque Mayan,5054550]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Jakaltek,33393]]"
+  - "[[_Standards/WikiData/WD~Mam,33467]]"
+  - "[[_Standards/WikiData/WD~Achi,34774]]"
+  - "[[_Standards/WikiData/WD~Akateko,34923]]"
+  - "[[_Standards/WikiData/WD~Awakatek,35091]]"
+  - "[[_Standards/WikiData/WD~Kaqchikel,35115]]"
+  - "[[_Standards/WikiData/WD~Ch’orti’,35177]]"
+  - "[[_Standards/WikiData/WD~Chuj,35233]]"
+  - "[[_Standards/WikiData/WD~Garifuna,35490]]"
+  - "[[_Standards/WikiData/WD~Ixil,35528]]"
+  - "[[_Standards/WikiData/WD~Q’eqchi’,35536]]"
+  - "[[_Standards/WikiData/WD~Itza’,35537]]"
+  - "[[_Standards/WikiData/WD~Q’anjob’al,35551]]"
+  - "[[_Standards/WikiData/WD~Mopan Maya,36183]]"
+  - "[[_Standards/WikiData/WD~Poqomchi',36414]]"
+  - "[[_Standards/WikiData/WD~Sakapultek,36412]]"
+  - "[[_Standards/WikiData/WD~Poqomam,36416]]"
+  - "[[_Standards/WikiData/WD~K’iche’,36494]]"
+  - "[[_Standards/WikiData/WD~Sipakapa,36589]]"
+  - "[[_Standards/WikiData/WD~Tektitek,36686]]"
+  - "[[_Standards/WikiData/WD~Uspantek,36728]]"
+  - "[[_Standards/WikiData/WD~Tz’utujil,36941]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Guatemala,2334361]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Guatemala,2424171]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Guatemala,2463384]]"
+executive body: "[[_Standards/WikiData/WD~Council of Ministers,2879802]]"
+culture: "[[_Standards/WikiData/WD~culture of Guatemala,3007336]]"
+central bank: "[[_Standards/WikiData/WD~Bank of Guatemala,3359424]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography of Guatemala,4903349]]"
+office held by head of state: "[[_Standards/WikiData/WD~Constitutional President of the Republic of Guatemala,6085537]]"
+office held by head of government: "[[_Standards/WikiData/WD~Constitutional President of the Republic of Guatemala,6085537]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Guatemala,7112279]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Guatemala,11275623]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+  - "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~128,25648801]]"
+  - "[[_Standards/WikiData/WD~110,25648823]]"
+  - "[[_Standards/WikiData/WD~123,25648825]]"
+  - "[[_Standards/WikiData/WD~120,25648851]]"
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q27103679,27103679]]"
+  - "[[_Standards/WikiData/WD~Guatemaala  fe,111313508]]"
+has characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~America_Guatemala,63286063]]"
+  - "[[_Standards/WikiData/WD~UTC−06_00,5385]]"
+replaces: "[[_Standards/WikiData/WD~State of Guatemala,68257522]]"
+open data portal: "[[_Standards/WikiData/WD~Guatemala Open Data Portal,97095849]]"
+head of state: "[[_Standards/WikiData/WD~Bernardo Arévalo de León,107254030]]"
+head of government: "[[_Standards/WikiData/WD~Bernardo Arévalo de León,107254030]]"
+topic's main template: "[[_Standards/WikiData/WD~Q109829416,109829416]]"
+coordinates of westernmost point: Point(-92.210638888 15.260666666)
+coordinates of northernmost point: Point(-90.987833333 17.815694444)
+demonym:
+  - guatemalenc
+  - guatemalenca
+  - ڭواطيمالي
+  - ڭواطيمالية
+  - ڭواطيماليين
+  - ڭواطيماليات
+  - Gvatemalec
+  - Gvatemalka
+  - Guatamalach
+  - غواتيماليون
+  - غواتيمالي
+  - غواتيمالية
+  - guatemaliana
+  - guatemalianu
+  - গুয়াতেমালীয়
+  - guatemalaner
+  - Guatemaler
+  - Guatemalerin
+  - Guatemalan
+  - Gvatemalano
+  - Guatémalien
+  - Guatémalienne
+  - Guatémaltèque
+  - גואטמלי
+  - גואטמלית
+  - guatemelai
+  - Guatemalano
+  - guatemalteca
+  - guatemalteche
+  - guatemaltechi
+  - guatemalteco
+  - guatemalteca
+  - guatemalez
+  - guatemaleză
+  - guatemalezi
+  - гватемалец
+  - гватемалка
+  - гватемальцы
+  - guatemaltega
+  - guatemalteghe
+  - guatemalteghi
+  - guatemaltego
+  - Gvatemänan
+nominal GDP:
+  - 95003333381
+  - 86053079767
+ISNI: "0000000122709190"
+MeSH tree code: Z01.107.169.454
+coordinates of geographic center: Point(-90.25 15.5)
+coordinate location: Point(-90.25 15.5)
+coordinates of southernmost point: Point(-90.115277777 13.740194444)
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Belize,242]]"
+country: "[[_Standards/WikiData/WD~Guatemala,774]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Honduras,783]]"
+  - "[[_Standards/WikiData/WD~El Salvador,792]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Belize,242]]"
+lowest point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+official language: "[[_Standards/WikiData/WD~Spanish,1321]]"
+capital: "[[_Standards/WikiData/WD~Guatemala City,1555]]"
+continent: "[[_Standards/WikiData/WD~North America,49]]"
+unemployment rate: 3
+mains voltage: 120
+VAT rate: 12
+marriageable age: 18
+age of majority: 18
+BTI Status Index:
+  - 4.5
+  - 4.47
+  - 5.08
+  - 5.13
+  - 5.15
+  - 5.27
+  - 5.36
+  - 5.43
+  - 5.55
+Inequality-adjusted Human Development Index: 0.46
+BTI Governance Index:
+  - 5.5
+  - 3.36
+  - 3.58
+  - 4.52
+  - 4.62
+  - 4.82
+  - 5.01
+  - 5.05
+  - 5.37
+suicide rate: 6.2
+top-level Internet domain: "[[_Standards/WikiData/WD~.gt,41781]]"
+Gini coefficient: 48.3
+Democracy Index: 4.97
+Happy Planet Index score: 57.9
+Human Development Index: 0.627
+birth rate:
+  - 21.12
+  - 20.861
+  - 21.816
+  - 22.858
+total fertility rate: 3.211
+death rate:
+  - 4.892
+  - 5.337
+  - 6.504
+  - 6.767
+maritime identification digits: "332"
+M49 code: "320"
+ISO 3166-1 numeric code: "320"
+mobile country code: "704"
+aircraft registration prefix: TG
+detail map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Idiomasmap%20Guatemala.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Guatemala%20Regions%20map.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/GuatemalaProvs.PNG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Un-guatemala.png
+relief location map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20map%20of%20Guatemala.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Guatemala%20Topography.png
+GS1 country code: "740"
+social media followers: 69313
+life expectancy: 73.409
+IAB code: "1308"
+male population:
+  - 8348500
+  - 8223795
+  - 8470073
+  - 8590378
+area: 108889
+OmegaWiki Defined Meaning: "7984"
+WIPO ST.3: GT
+ISO 3166-1 alpha-2 code: GT
+FIPS 10-4 (countries and regions): GT
+IOC country code: GUA
+PM20 geo code: E65
+number of out-of-school children: 963351
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guatemala.svg
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Guatemala.svg
+INSEE countries and foreign territories code: "99409"
+official name:
+  - Guatemala
+  - République du Guatémala
+geoshape: http://commons.wikimedia.org/data/main/Data:Guatemala.map
+hashtag: Guatemala
+Commons category: Guatemala
+Commons gallery: Guatemala
+rural population:
+  - 8063081
+  - 8119648
+  - 8170759
+  - 8216182
+female population:
+  - 8380231
+  - 8509834
+  - 8639673
+  - 8767508
+motto text:
+  - Tyfwch yn Rhydd a Ffrwythlon
+  - Heart of the Mayan World
+  - Libre Crezca Fecundo
+native label: República de Guatemala
+short name: 🇬🇹
+urban population:
+  - 8540945
+  - 8738685
+  - 8938987
+  - 9141704
+inception: 1821-01-01T00:00:00Z
+population: 17263239
+licence plate code: GCA
+ITU letter code: GTM
+ISO 3166-1 alpha-3 code: GTM
+coordinates of easternmost point: Point(-88.231694444 15.724555555)
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Chicken%20bus%20excerpt.avi.ogv
+montage image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20Cities%20in%20Guatemala.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20Ciudades%20en%20Guatemala.jpg
+location map: http://commons.wikimedia.org/wiki/Special:FilePath/Guatemala-CIA%20WFB%20Map.png
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Guatemala%20banner%20Volcanes%20de%20Guatemala.jpg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Guatemala%20on%20the%20globe%20%28Americas%20centered%29.svg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Guatemala.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Guatemala.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Guatemala%20in%20April%202002.jpg
+official website: https://www.guatemala.gob.gt/
+country calling code: "+502"
+U.S. National Archives Identifier: "10044770"
+Dewey Decimal Classification: 2--7281
+Unicode character: 🇬🇹
+CIVICUS Monitor country entry: guatemala
+subreddit: guatemala
+GitHub topic: guatemala
+Colon Classification: SG--751
+Krugosvet article: strany_mira/GVATEMALA.html
+has_id_wikidata: Q774
+---
 ﻿---
 location:
     - 14.6333
@@ -139,10 +485,27 @@ Capital :: [[Guatemala_City]]
 
 [Alcohol-l::4]
 [Language-Id::492]
-[has_place_longitude::-90.5]
-[has_place_latitude::14.6333]
+[has_place_longitude::-90.5] 
+[has_place_latitude::14.6333] 
 
 
+## #has_/text_of_/abstract 
+
+> **Guatemala**, officially the Republic of Guatemala, is a country in Central America. It is bordered to the north and west by Mexico, to the northeast by Belize, to the east by Honduras, and to the southeast by El Salvador. It is hydrologically bordered to the south by the Pacific Ocean and to the northeast by the Gulf of Honduras.
+>
+> The territory of modern Guatemala hosted the core of the Maya civilization, which extended across Mesoamerica; in the 16th century, most of this was conquered by the Spanish and claimed as part of the viceroyalty of New Spain. Guatemala attained independence from Spain and Mexico in 1821. From 1823 to 1841, it was part of the Federal Republic of Central America.
+>
+> For the latter half of the 19th century, Guatemala suffered instability and civil strife. From the early 20th century, it was ruled by a series of dictators backed by the United States. In 1944, authoritarian leader Jorge Ubico was overthrown by a pro-democratic military coup, initiating a decade-long revolution that led to social and economic reforms. In 1954, a US-backed military coup ended the revolution and installed a dictatorship.
+>
+> From 1960 to 1996, Guatemala endured a bloody civil war fought between the US-backed government and leftist rebels, including genocidal massacres of the Maya population perpetrated by the Guatemalan military. The United Nations negotiated a peace accord, resulting in economic growth and successive democratic elections.
+>
+> Guatemala's abundance of biologically significant and unique ecosystems includes many endemic species and contributes to Mesoamerica's designation as a biodiversity hotspot.
+>
+> Although rich in export goods, around a quarter of the population (4.6 million) face food insecurity. Other extant major issues include poverty, crime, corruption, drug trafficking, and civil instability.
+>
+> With an estimated population of around 17.6 million, Guatemala is the most populous country in Central America, the 4th most populous country in North America and the 11th most populous country in the Americas. Its capital and largest city, Guatemala City, is the most populous city in Central America.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Guatemala)
 
 ## Confidential Links & Embeds: 
 

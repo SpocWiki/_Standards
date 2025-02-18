@@ -1,3 +1,287 @@
+---
+official religion: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
+member of:
+  - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
+  - "[[_Standards/WikiData/WD~Nordic Council,146165]]"
+  - "[[_Standards/WikiData/WD~European Free Trade Association,166546]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Arctic Council,674182]]"
+  - "[[_Standards/WikiData/WD~Australia Group,782942]]"
+  - "[[_Standards/WikiData/WD~Council of the Baltic Sea States,789769]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
+  - "[[_Standards/WikiData/WD~European Payments Union,1377612]]"
+  - "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+  - "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
+  - "[[_Standards/WikiData/WD~Barents Euro-Arctic Council,4426190]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~NATO,7184]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council of Europe,8908]]"
+  - "[[_Standards/WikiData/WD~European Economic Area,8932]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
+  - "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+taxon found at location: "[[_Standards/WikiData/WD~Vulpes lagopus,82738]]"
+flag: "[[_Standards/WikiData/WD~flag of Iceland,93335]]"
+public holiday:
+  - "[[_Standards/WikiData/WD~Christmas Eve,106010]]"
+  - "[[_Standards/WikiData/WD~Maundy Thursday,106333]]"
+  - "[[_Standards/WikiData/WD~New Year's Day,196627]]"
+  - "[[_Standards/WikiData/WD~Easter Monday,209663]]"
+  - "[[_Standards/WikiData/WD~Icelandic National Day,580059]]"
+  - "[[_Standards/WikiData/WD~May Day,900013]]"
+  - "[[_Standards/WikiData/WD~Boxing Day,956699]]"
+  - "[[_Standards/WikiData/WD~First Day of Summer,2247397]]"
+  - "[[_Standards/WikiData/WD~Whit Monday,2512993]]"
+  - "[[_Standards/WikiData/WD~Commerce Day,14914713]]"
+  - "[[_Standards/WikiData/WD~Q16429504,16429504]]"
+  - "[[_Standards/WikiData/WD~New Year's Eve,11269]]"
+  - "[[_Standards/WikiData/WD~Easter,21196]]"
+  - "[[_Standards/WikiData/WD~Pentecost,39864]]"
+  - "[[_Standards/WikiData/WD~Good Friday,40317]]"
+  - "[[_Standards/WikiData/WD~Palm Sunday,42236]]"
+  - "[[_Standards/WikiData/WD~Feast of the Ascension,51638]]"
+instance of:
+  - "[[_Standards/WikiData/WD~island country,112099]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+different from:
+  - "[[_Standards/WikiData/WD~Island,128651]]"
+  - "[[_Standards/WikiData/WD~Iceland,3740828]]"
+legislative body: "[[_Standards/WikiData/WD~Althing,131279]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Supreme Court of Iceland,135356]]"
+highest point: "[[_Standards/WikiData/WD~Hvannadalshnúkur,140084]]"
+history of topic: "[[_Standards/WikiData/WD~history of Iceland,151128]]"
+anthem: "[[_Standards/WikiData/WD~Lofsöngur,170582]]"
+coat of arms: "[[_Standards/WikiData/WD~Coat of arms of Iceland,179866]]"
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Palestine,219060]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~South Korea,884]]"
+  - "[[_Standards/WikiData/WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Norway,20]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Finland,33]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Latvia,211]]"
+  - "[[_Standards/WikiData/WD~Czech Republic,213]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Iceland,678377]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Southwest,770576]]"
+  - "[[_Standards/WikiData/WD~South Constituency,1419190]]"
+  - "[[_Standards/WikiData/WD~Reykjavík North,1526538]]"
+  - "[[_Standards/WikiData/WD~Northeast,2001559]]"
+  - "[[_Standards/WikiData/WD~Northwest,2001582]]"
+  - "[[_Standards/WikiData/WD~Reykjavík South,2037988]]"
+head of government: "[[_Standards/WikiData/WD~Bjarni Benediktsson,879376]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+central bank: "[[_Standards/WikiData/WD~Central Bank of Iceland,1195916]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Iceland,2001615]]"
+culture: "[[_Standards/WikiData/WD~culture of Iceland,2347868]]"
+has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+language used:
+  - "[[_Standards/WikiData/WD~Icelandic Sign Language,3436654]]"
+  - "[[_Standards/WikiData/WD~Icelandic,294]]"
+basic form of government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Iceland,10815291]]"
+executive body: "[[_Standards/WikiData/WD~Government of Iceland,12351757]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Iceland topics,14336096]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Iceland,14605772]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Iceland,16056526]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of Iceland,19188924]]"
+office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Iceland,19190022]]"
+head of state: "[[_Standards/WikiData/WD~Halla Tómasdóttir,24494577]]"
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q25681638,25681638]]"
+  - "[[_Standards/WikiData/WD~Q30277419,30277419]]"
+  - "[[_Standards/WikiData/WD~Q53814571,53814571]]"
+  - "[[_Standards/WikiData/WD~Q110880069,110880069]]"
+open data portal: "[[_Standards/WikiData/WD~Open Data Portal Iceland,97013423]]"
+coordinates of northernmost point: Point(-18.68 67.13)
+official name:
+  - Komara Îslendayê
+  - Ísland
+  - Islandi Vabariik
+  - la République d’Islande
+  - Lýðveldið Ísland
+  - Republiken Island
+ISNI: "0000000121893811"
+MeSH tree code:
+  - Z01.542.816.249
+  - Z01.639.490
+nominal GDP: 27841648044
+official language: "[[_Standards/WikiData/WD~Icelandic,294]]"
+capital: "[[_Standards/WikiData/WD~Reykjavík,1764]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Faroe Islands,4628]]"
+  - "[[_Standards/WikiData/WD~Svalbard,25231]]"
+  - "[[_Standards/WikiData/WD~Greenland,223]]"
+located in time zone: "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Iceland,8064]]"
+part of:
+  - "[[_Standards/WikiData/WD~European Economic Area,8932]]"
+  - "[[_Standards/WikiData/WD~Northern Europe,27479]]"
+  - "[[_Standards/WikiData/WD~Nordic countries,52062]]"
+located in/on physical feature: "[[_Standards/WikiData/WD~Scandinavia,21195]]"
+named after: "[[_Standards/WikiData/WD~ice,23392]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+lowest point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+country: "[[_Standards/WikiData/WD~Iceland,189]]"
+speed limit:
+  - 50
+  - 80
+  - 90
+unemployment rate: 5
+death rate:
+  - 7
+  - 6.3
+marriageable age: 18
+age of majority: 18
+mains voltage: 230
+VAT rate: 24
+water as percent of area: 2.7
+Happy Planet Index score: 48
+life expectancy: 82
+suicide rate: 11.2
+birth rate:
+  - 11.5
+  - 12.3
+  - 13.1
+total fertility rate: 1.93
+top-level Internet domain: "[[_Standards/WikiData/WD~.is,39896]]"
+Gini coefficient: 26.1
+IAB code: "1318"
+ISO 3166-1 numeric code: "352"
+M49 code: "352"
+Inequality-adjusted Human Development Index: 0.915
+Democracy Index: 9.37
+Human Development Index: 0.959
+follows: "[[_Standards/WikiData/WD~Kingdom of Iceland,62567]]"
+male population:
+  - 195800
+  - 184880
+  - 187982
+  - 190942
+rural population:
+  - 22560
+  - 22157
+  - 22362
+  - 22951
+NUTS code:
+  - IS
+  - IS00
+  - IS0
+licence plate code: IS
+ISO 3166-1 alpha-2 code: IS
+WIPO ST.3: IS
+maritime identification digits: "251"
+number of out-of-school children: 3994
+mobile country code: "274"
+GS1 country code: "569"
+OmegaWiki Defined Meaning: "5728"
+urban population:
+  - 349960
+  - 338406
+  - 344101
+  - 359052
+population: 364260
+Dewey Decimal Classification: 2--4912
+area: 103004
+female population:
+  - 175683
+  - 178482
+  - 181577
+  - 186202
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg
+PM20 geo code: A16
+FIPS 10-4 (countries and regions): IC
+INSEE countries and foreign territories code: "99102"
+ISO 3166-1 alpha-3 code: ISL
+IOC country code: ISL
+ITU letter code: ISL
+native label: Ísland
+U.S. National Archives Identifier: "10035800"
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Iceland.svg
+demonym: Icelandic
+motto text: Inspired by Iceland
+short name: 🇮🇸
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Iceland%20%28orthographic%20projection%29.svg
+inception: 1944-06-17T00:00:00Z
+coordinates of westernmost point: Point(-24.53338265 65.50293716)
+coordinate location: Point(-19.0 65.0)
+coordinates of southernmost point: Point(-18.73540561 63.39402834)
+coordinates of easternmost point: Point(-13.275 64.595833333)
+geoshape: http://commons.wikimedia.org/data/main/Data:Iceland.map
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/2005-05-29%20J%C3%B6kuls%C3%A1rl%C3%B3n%20banner.jpg
+detail map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gemeinden%20Island%202022.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Iceland.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Iceland%20satellite.jpg
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Island%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Island.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AC%87%E0%AC%B8%E0%AC%B2%E0%AD%8D%E0%AD%9F%E0%AC%BE%E0%AC%A3%E0%AD%8D%E0%AC%A1.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Islanda.wav
+official website: http://www.iceland.is/
+country calling code: "+354"
+Libris-URI: 0xbdc1cj2kcd42w
+BHCL UUID: 84c18899-7659-435c-b59e-581b7f14c92e
+Wolfram Language entity code: Entity["Country", "Iceland"]
+GitHub topic: iceland
+CIVICUS Monitor country entry: iceland
+Commons category: Iceland
+Dreadnought Project page: Iceland
+subreddit: Iceland
+hashtag: Iceland
+Unicode character: 🇮🇸
+Commons gallery: Ísland
+IPA transcription:
+  - ɪˈslan⁽ʲ⁾dʲɪjə
+  - ɪˈslanʲdʲɪjə
+Krugosvet article: strany_mira/ISLANDIYA.html
+has_id_wikidata: Q189
+---
 ﻿---
 location:
     - 64.614
@@ -145,6 +429,23 @@ Capital :: [[Reykjavik]]
 [has_place_latitude::64.614]
 
 
+## #has_/text_of_/abstract 
+
+> **Iceland** is a Nordic island country between the North Atlantic and Arctic Oceans, on the Mid-Atlantic Ridge between North America and Europe. It is culturally and politically linked with Europe and is the region's westernmost and most sparsely populated country. Its capital and largest city is Reykjavík, which is home to about 36% of the country's roughly 380,000 residents (excluding nearby towns/suburbs, which are separate municipalities). The official language of the country is Icelandic.
+>
+> Iceland is on a rift between tectonic plates, and its geologic activity includes geysers and frequent volcanic eruptions. The interior consists of a volcanic plateau with sand and lava fields, mountains and glaciers, and many glacial rivers flow to the sea through the lowlands. Iceland is warmed by the Gulf Stream and has a temperate climate, despite a latitude just south of the Arctic Circle. Its latitude and marine influence keep summers chilly, and most of its islands have a polar climate.
+>
+> According to the ancient manuscript Landnámabók, the settlement of Iceland began in 874 AD, when the Norwegian chieftain Ingólfr Arnarson became the island's first permanent settler. In the following centuries, Norwegians, and to a lesser extent other Scandinavians, immigrated to Iceland, bringing with them thralls (i.e., slaves or serfs) of Gaelic origin.
+>
+> The island was governed as an independent commonwealth under the native parliament, the Althing, one of the world's oldest functioning legislative assemblies. After a period of civil strife, Iceland acceded to Norwegian rule in the 13th century. In 1397, Iceland followed Norway's integration into the Kalmar Union along with the kingdoms of Denmark and Sweden, coming under de facto Danish rule upon its dissolution in 1523. The Danish kingdom introduced Lutheranism by force in 1550, and the Treaty of Kiel formally ceded Iceland to Denmark in 1814.
+>
+> Influenced by ideals of nationalism after the French Revolution, Iceland's struggle for independence took form and culminated in the Danish–Icelandic Act of Union in 1918, with the establishment of the Kingdom of Iceland, sharing through a personal union the incumbent monarch of Denmark. During the occupation of Denmark in World War II, Iceland voted overwhelmingly to become a republic in 1944, ending the remaining formal ties to Denmark. Although the Althing was suspended from 1799 to 1845, Iceland nevertheless has a claim to sustaining one of the world's longest-running parliaments.
+>
+> Until the 20th century, Iceland relied largely on subsistence fishing and agriculture. Industrialization of the fisheries and Marshall Plan aid after World War II brought prosperity, and Iceland became one of the world's wealthiest and most developed nations. In 1994 it became a part of the European Economic Area, further diversifying its economy into sectors such as finance, biotechnology, and manufacturing.
+>
+> Iceland has a market economy with relatively low taxes, compared to other OECD countries, as well as the highest trade union membership in the world. It maintains a Nordic social welfare system that provides universal health care and tertiary education. Iceland ranks highly in international comparisons of national performance, such as quality of life, education, protection of civil liberties, government transparency, and economic freedom. It has the smallest population of any NATO member and is the only one with no standing army, possessing only a lightly armed coast guard.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Iceland)
 
 ## Confidential Links & Embeds: 
 
