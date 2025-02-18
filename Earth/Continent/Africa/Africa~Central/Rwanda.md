@@ -1,3 +1,274 @@
+---
+shares border with:
+  - "[[_Standards/WikiData/WD~Tanzania,924]]"
+  - "[[_Standards/WikiData/WD~Burundi,967]]"
+  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+  - "[[_Standards/WikiData/WD~Uganda,1036]]"
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Malawi,1020]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Kenya,114]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Tanzania,924]]"
+country: "[[_Standards/WikiData/WD~Rwanda,1037]]"
+member of:
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~African Union,7159]]"
+  - "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~United Nations Security Council,37470]]"
+  - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Economic Community of Central African States,189966]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+language used:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~Kinyarwanda,33573]]"
+official language:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Swahili,7838]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~Kinyarwanda,33573]]"
+capital: "[[_Standards/WikiData/WD~Kigali,3859]]"
+instance of:
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
+  - "[[_Standards/WikiData/WD~landlocked country,123480]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+  - "[[_Standards/WikiData/WD~Africa_Kigali,4689501]]"
+part of:
+  - "[[_Standards/WikiData/WD~African Union,7159]]"
+  - "[[_Standards/WikiData/WD~East Africa,27407]]"
+located in/on physical feature: "[[_Standards/WikiData/WD~Central Africa,27433]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
+unemployment rate: 1
+age of majority: 18
+VAT rate: 18
+marriageable age: 21
+mains voltage: 230
+Democracy Index: 3.1
+BTI Status Index:
+  - 4.5
+  - 4.6
+  - 4.8
+  - 3.89
+  - 4.57
+  - 4.65
+  - 4.83
+  - 4.87
+BTI Governance Index:
+  - 5.1
+  - 5.2
+  - 4.45
+  - 4.59
+  - 4.76
+  - 4.91
+  - 4.92
+  - 5.21
+  - 5.25
+top-level Internet domain: "[[_Standards/WikiData/WD~.rw,43592]]"
+Happy Planet Index score: 39.2
+Inequality-adjusted Human Development Index: 0.402
+Gini coefficient: 43.7
+Human Development Index: 0.534
+death rate:
+  - 6.28
+  - 5.847
+  - 5.998
+  - 6.137
+total fertility rate: 3.898
+IAB code: "1387"
+mobile country code: "635"
+maritime identification digits: "661"
+area: 26338
+birth rate:
+  - 29.474
+  - 29.976
+  - 30.309
+  - 30.776
+ISO 3166-1 numeric code: "646"
+M49 code: "646"
+ISO 3166-1 alpha-2 code: RW
+WIPO ST.3: RW
+FIPS 10-4 (countries and regions): RW
+life expectancy: 67.129
+rural population:
+  - 10612900
+  - 10854688
+  - 11096904
+  - 11335329
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Kigali Province,167196]]"
+  - "[[_Standards/WikiData/WD~Western Province,737354]]"
+  - "[[_Standards/WikiData/WD~Northern Province,845807]]"
+  - "[[_Standards/WikiData/WD~Eastern Province,853152]]"
+  - "[[_Standards/WikiData/WD~Southern Province,853162]]"
+flag: "[[_Standards/WikiData/WD~flag of Rwanda,170543]]"
+coat of arms: "[[_Standards/WikiData/WD~Emblem of Rwanda,269824]]"
+anthem: "[[_Standards/WikiData/WD~Rwanda Nziza,503118]]"
+history of topic: "[[_Standards/WikiData/WD~history of Rwanda,570413]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
+highest point: "[[_Standards/WikiData/WD~Mount Karisimbi,737859]]"
+lowest point: "[[_Standards/WikiData/WD~Ruzizi River,748195]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Rwanda,938531]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Rwanda,966227]]"
+head of state: "[[_Standards/WikiData/WD~Paul Kagame,1231345]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~SN 441011,2335530]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Rwanda,2454814]]"
+office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Rwanda,2590706]]"
+culture: "[[_Standards/WikiData/WD~culture of Rwanda,3007371]]"
+legislative body: "[[_Standards/WikiData/WD~Parliament of Rwanda,4162795]]"
+central bank: "[[_Standards/WikiData/WD~National Bank of Rwanda,4314980]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Rwanda,7112430]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Rwanda,11306137]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of Rwanda,19057726]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Rwanda,21830743]]"
+emergency phone number: "[[_Standards/WikiData/WD~912,25648878]]"
+head of government: "[[_Standards/WikiData/WD~Édouard Ngirente,38188115]]"
+has characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+studied in: "[[_Standards/WikiData/WD~Rwandan studies,115669585]]"
+coordinates of northernmost point: Point(30.45 -1.05)
+UMLS CUI: C0035978
+image: http://commons.wikimedia.org/wiki/Special:FilePath/An%20aerial%20of%20Kigali%20Convention%20Center%20on%20June%2019%2C%202019.%20Photo%20by%20Emmanuel%20Kwizera.jpg
+demonym:
+  - رواندي
+  - رواندية
+  - روانديين
+  - روانديات
+  - Ruandach
+  - رُوَنْدِيٌّ
+  - رُوَنْدِيَّةٌ
+  - رُوَنْدِيُّونَ
+  - ruandés
+  - ruandesa
+  - রুয়ান্ডীয়
+  - ruandès
+  - Ruandano
+  - Rwandaise
+  - רואנדי
+  - Ruandano
+  - ruandese
+  - ruandesi
+  - ruanda
+  - rwandez
+  - rwandezi
+  - ruandeza
+  - ruandezi
+  - ruandezo
+  - Ruandänan
+  - Rwandan
+  - רואנדית
+  - ruandai
+  - rwandeză
+  - Rwandese
+  - Rwandais
+official website: https://www.gov.rw/
+ISNI: "0000000404581850"
+MeSH tree code: Z01.058.290.100.535
+motto text:
+  - Undod, Gwaith, Gwladgarwch
+  - Единство, труд, патриотизъм
+  - Remarkable Rwanda
+  - Unity, Work, Patriotism
+  - Ubumwe, Umurimo, Gukunda Igihugu
+nominal GDP:
+  - 11055281971
+  - 13312796765
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wv%20Ruanda%20banner.jpg
+coordinate location: Point(30.0 -2.0)
+Unicode character: 🇷🇼
+GitHub topic: rwanda
+CIVICUS Monitor country entry:
+  - rwanda
+  - sao-tome-and-principe
+Libris-URI: sq4656cb0z1sjs7
+Krugosvet article: strany_mira/RUANDA.html
+official name:
+  - la République du Rwanda
+  - Rwanda
+  - Rwanda
+  - Ruanda
+  - Rwanda
+nickname: Mille Collines
+native label:
+  - Rwanda
+  - Rwanda
+  - Rwanda
+  - Rwanda
+short name: 🇷🇼
+OmegaWiki Defined Meaning: "8523"
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rwanda.svg
+licence plate code: RWA
+ISO 3166-1 alpha-3 code: RWA
+IOC country code: RWA
+INSEE countries and foreign territories code: "99340"
+ITU letter code: RRW
+urban population:
+  - 2222128
+  - 2291674
+  - 2364984
+  - 2441369
+male population:
+  - 6266092
+  - 6423145
+  - 6582239
+  - 6741039
+Commons category: Rwanda
+subreddit: Rwanda
+hashtag: Rwanda
+Commons gallery: Rwanda
+female population:
+  - 6568936
+  - 6723217
+  - 6879649
+  - 7035658
+U.S. National Archives Identifier: "10044269"
+inception: 1962-01-01T00:00:00Z
+population: 13246394
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Ruanda.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Ruanda.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%B1%D9%88%D8%A7%D9%86%D8%AF%D8%A7.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Rwanda.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B0%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE.wav
+geoshape: http://commons.wikimedia.org/data/main/Data:Rwanda.map
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Rwanda.svg
+locator map image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationRwanda.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Rwanda%20on%20the%20globe%20%28Africa%20centered%29.svg
+country calling code: "+250"
+Dewey Decimal Classification: 2--67571
+has_id_wikidata: Q1037
+---
 ﻿---
 location:
 - -1.94388
@@ -141,6 +412,17 @@ Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 [has_place_latitude::-1.94388]
 
 
+## #has_/text_of_/abstract 
+
+> **Rwanda**, officially the Republic of Rwanda, is a landlocked country in the Great Rift Valley of East Africa, where the African Great Lakes region and Southeast Africa converge. Located a few degrees south of the Equator, Rwanda is bordered by Uganda, Tanzania, Burundi, and the Democratic Republic of the Congo. It is highly elevated, giving it the sobriquet "land of a thousand hills" (French: pays des mille collines), with its geography dominated by mountains in the west and savanna to the southeast, with numerous lakes throughout the country. The climate is temperate to subtropical, with two rainy seasons and two dry seasons each year. It is the most densely populated mainland African country; among countries larger than 10,000 km2, it is the fifth-most densely populated country in the world. Its capital and largest city is Kigali.
+>
+> Hunter-gatherers settled the territory in the Stone and Iron Ages, followed later by Bantu peoples. The population coalesced first into clans, and then into kingdoms. In the 15th century, one kingdom, under King Gihanga, managed to incorporate several of its close neighbor territories establishing the Kingdom of Rwanda. The Kingdom of Rwanda dominated from the mid-eighteenth century, with the Tutsi kings conquering others militarily, centralising power, and enacting unifying policies. In 1897, Germany colonized Rwanda as part of German East Africa, followed by Belgium, which took control in 1916 during World War I. Both European nations ruled through the Rwandan king and perpetuated a pro-Tutsi policy. The Hutu population revolted in 1959. They massacred numerous Tutsi and ultimately established an independent, Hutu-dominated republic in 1962 led by President Grégoire Kayibanda. A 1973 military coup overthrew Kayibanda and brought Juvénal Habyarimana to power, who retained the pro-Hutu policy. The Tutsi-led Rwandan Patriotic Front (RPF) launched a civil war in 1990. Habyarimana was assassinated in April 1994. Social tensions erupted in the Rwandan genocide that spanned one hundred days. The RPF ended the genocide with a military victory in July 1994.
+>
+> Rwanda has been governed by the RPF as a de facto one-party state since 1994 with former commander Paul Kagame as President since 2000. The country has been governed by a series of centralized authoritarian governments since precolonial times. Although Rwanda has low levels of corruption compared with neighbouring countries, it ranks among the lowest in international measurements of government transparency, civil liberties and quality of life. The population is young and predominantly rural; Rwanda has one of the youngest populations in the world. Rwandans are drawn from just one cultural and linguistic group, the Banyarwanda. However, within this group there are three subgroups: the Hutu, Tutsi and Twa. The Twa are a forest-dwelling pygmy people and are often considered descendants of Rwanda's earliest inhabitants. Christianity is the largest religion in the country; the principal and national language is Kinyarwanda, spoken by native Rwandans, with English, French and Swahili serving as additional official foreign languages.
+>
+> Rwanda's economy is based mostly on subsistence agriculture. Coffee and tea are the major cash crops that it exports. Tourism is a fast-growing sector and is now the country's leading foreign exchange earner. As of the most recent survey in 2019/20, 48.8% of the population is affected by multidimensional poverty and an additional 22.7% vulnerable to it. The country is a member of the African Union, the United Nations, the Commonwealth of Nations (one of few member states that does not have any historical links with the British Empire), COMESA, OIF and the East African Community.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Rwanda)
 
 ## Confidential Links & Embeds: 
 

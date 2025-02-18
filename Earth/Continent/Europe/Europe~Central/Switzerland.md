@@ -2,12 +2,12 @@
 title: Switzerland
 type: Country
 location:
-    - 46.8963
-    - 8.46058
-has_id_wikidata: Q39 
+  - 46.8963
+  - 8.46058
+has_id_wikidata: Q39
 SpocWebEntityId: 26865
 tags:
-    - geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -23,23 +23,437 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Switzerland
-- Suiza
-- Suisse
-- سويسرا
-- 瑞士
-- Швейцария
-- the Swiss Confederation
-- la Confederación Suiza
-- Svizzera
-- Svizra
-- Helvetica
+  - Switzerland
+  - Suiza
+  - Suisse
+  - سويسرا
+  - 瑞士
+  - Швейцария
+  - the Swiss Confederation
+  - la Confederación Suiza
+  - Svizzera
+  - Svizra
+  - Helvetica
 Languages:
-    - de-CH
-    - fr-CH
-    - it-CH
-    - rm
+  - de-CH
+  - fr-CH
+  - it-CH
+  - rm
 icon: flag-ch
+member of:
+  - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
+  - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+  - "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
+  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~European Free Trade Association,166546]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~International Centre for Migration Policy Development,498496]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~Australia Group,782942]]"
+  - "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
+  - "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
+  - "[[_Standards/WikiData/WD~European Payments Union,1377612]]"
+  - "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+  - "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council of Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Q131720477,131720477]]"
+  - "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
+  - "[[_Standards/WikiData/WD~European Space Agency,42262]]"
+  - "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+public holiday:
+  - "[[_Standards/WikiData/WD~Christmas Eve,106010]]"
+  - "[[_Standards/WikiData/WD~New Year's Day,196627]]"
+  - "[[_Standards/WikiData/WD~Easter Monday,209663]]"
+  - "[[_Standards/WikiData/WD~Saint Stephen's Day in Hungary,2465259]]"
+  - "[[_Standards/WikiData/WD~Christmas Day,2703710]]"
+  - "[[_Standards/WikiData/WD~Ascension of Jesus,5686605]]"
+  - "[[_Standards/WikiData/WD~New Year's Eve,11269]]"
+  - "[[_Standards/WikiData/WD~Q10631904,10631904]]"
+  - "[[_Standards/WikiData/WD~Swiss National Day,38087]]"
+  - "[[_Standards/WikiData/WD~Good Friday,40317]]"
+instance of:
+  - "[[_Standards/WikiData/WD~landlocked country,123480]]"
+  - "[[_Standards/WikiData/WD~confederation,170156]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~state,7275]]"
+  - "[[_Standards/WikiData/WD~federation,43702]]"
+flag:
+  - "[[_Standards/WikiData/WD~flag of Switzerland,124020]]"
+  - "[[_Standards/WikiData/WD~civil ensign of Switzerland,97752545]]"
+language used:
+  - "[[_Standards/WikiData/WD~Alemannic,131339]]"
+  - "[[_Standards/WikiData/WD~Swiss German,387066]]"
+  - "[[_Standards/WikiData/WD~Walser German,680517]]"
+  - "[[_Standards/WikiData/WD~Italian,652]]"
+  - "[[_Standards/WikiData/WD~Romansh,13199]]"
+  - "[[_Standards/WikiData/WD~Franco-Provençal,15087]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~German,188]]"
+  - "[[_Standards/WikiData/WD~Swiss-Italian Sign Language,12953479]]"
+  - "[[_Standards/WikiData/WD~Swiss-French Sign Language,12953483]]"
+  - "[[_Standards/WikiData/WD~Lombard,33754]]"
+  - "[[_Standards/WikiData/WD~Swiss-German Sign Language,35150]]"
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Holy See,159583]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~South Korea,884]]"
+  - "[[_Standards/WikiData/WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Mauritius,1027]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Austria,40]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Belarus,184]]"
+  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Moldova,217]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~South Africa,258]]"
+  - "[[_Standards/WikiData/WD~Liechtenstein,347]]"
+  - "[[_Standards/WikiData/WD~Armenia,399]]"
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+anthem: "[[_Standards/WikiData/WD~Swiss Psalm,182536]]"
+coat of arms: "[[_Standards/WikiData/WD~Coat of arms of Switzerland,189560]]"
+history of topic: "[[_Standards/WikiData/WD~history of Switzerland,208761]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Switzerland,215941]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+different from: "[[_Standards/WikiData/WD~Switzerland County,507459]]"
+basic form of government:
+  - "[[_Standards/WikiData/WD~federal republic,512187]]"
+  - "[[_Standards/WikiData/WD~directorial system,2523556]]"
+central bank: "[[_Standards/WikiData/WD~Swiss National Bank,597394]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Federal Supreme Court of Switzerland,676553]]"
+legislative body: "[[_Standards/WikiData/WD~Federal Assembly of Switzerland,684719]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Switzerland,685175]]"
+office held by head of government: "[[_Standards/WikiData/WD~President of the Swiss Confederation,688230]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Switzerland,688599]]"
+culture: "[[_Standards/WikiData/WD~culture of Switzerland,689645]]"
+uses: "[[_Standards/WikiData/WD~mandatory referendum,1279357]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~SN 441011,2335530]]"
+motto: "[[_Standards/WikiData/WD~Unus pro omnibus, omnes pro uno,2717243]]"
+has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Switzerland,3247839]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~117,4547615]]"
+  - "[[_Standards/WikiData/WD~118,11185210]]"
+  - "[[_Standards/WikiData/WD~144,25648814]]"
+  - "[[_Standards/WikiData/WD~140,25648888]]"
+  - "[[_Standards/WikiData/WD~145,25648913]]"
+  - "[[_Standards/WikiData/WD~1414,26258266]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Cantons of Switzerland,6489173]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Switzerland,6872806]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Switzerland,7112470]]"
+geoshape: http://commons.wikimedia.org/data/main/Data:Switzerland.map
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-us-Suisse.oga
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Schw%C3%A4iz.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%B8%E0%AD%81%E0%AC%87%E0%AC%9C%E0%AC%B0%E0%AC%B2%E0%AD%8D%E0%AD%9F%E0%AC%BE%E0%AC%A3%E0%AD%8D%E0%AC%A1.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Elve%C8%9Bia.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Rm-sursilv-Svizra.flac
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Roh-Svizra.ogg
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B6renberg%20banner.jpg
+location map: http://commons.wikimedia.org/wiki/Special:FilePath/Switzerland%20location%20map.svg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Switzerland%20on%20the%20globe%20%28Europe%20centered%29.svg
+country calling code: "+41"
+Dewey Decimal Classification: 2--494
+BHCL UUID:
+  - 33066f03-7ef2-489d-97b1-dde7f5fe59ef
+  - d67bdc7e-4310-41d6-95ae-4ee5cee3e82c
+Provenio UUID: b06a0af1-b509-41e1-ab18-570cd236f584
+NUTS code:
+  - CH0
+  - CH
+Libris-URI: nl0229c6538hjvc
+hashtag:
+  - Schweiz
+  - Svizzera
+  - Svizra
+  - Switzerland
+  - Suisse
+Colon Classification: SG--594
+Krugosvet article: strany_mira/SHVETSARIYA.html
+demonym:
+  - سويسري
+  - سويسرية
+  - suiza
+  - suizu
+  - সুইজারল্যান্ডীয়
+  - sviso
+  - suiza
+  - Suissesse
+  - שווייצרי
+  - שווייצרית
+  - svájci
+  - Suisiano
+  - svizzere
+  - svizzeri
+  - svizzero
+  - suiz
+  - Zwitser
+  - швейцарец
+  - швейцарка
+  - schweizisk
+  - швейцарець
+  - швейцарка
+  - швейцарці
+  - svìsara
+  - svìsare
+  - svìsari
+  - svìsaro
+  - Jveizänan
+  - سويسري
+  - سويسرية
+  - سويسريين
+  - سويسريات
+  - Švicarka
+  - سويسريون
+  - Schweizer
+  - Schweizerin
+  - Swiss
+  - スイス人
+  - elvețian
+  - elvețiancă
+  - elvețieni
+  - швейцарцы
+  - Suisse
+  - Eilvéiseach
+  - svizzera
+  - suizo
+  - Švicar
+native label:
+  - Schweizerische Eidgenossenschaft
+  - Confederazione Svizzera
+  - Confederaziun svizra
+  - Confédération suisse
+official name:
+  - Schweizerische Eidgenossenschaft
+  - la Confédération suisse
+  - Confederazione svizzera
+  - Confederaziun svizra
+  - Swiss Confederation
+  - Confederación Suiza
+  - Confédération suisse
+  - Confederação Suíça
+  - Confoederatio Helvetica
+official language:
+  - "[[_Standards/WikiData/WD~Italian,652]]"
+  - "[[_Standards/WikiData/WD~Romansh,13199]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~German,188]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Valais,834]]"
+  - "[[_Standards/WikiData/WD~Bern,11911]]"
+  - "[[_Standards/WikiData/WD~Canton of Geneva,11917]]"
+  - "[[_Standards/WikiData/WD~Glarus,11922]]"
+  - "[[_Standards/WikiData/WD~Grisons,11925]]"
+  - "[[_Standards/WikiData/WD~Solothurn,11929]]"
+  - "[[_Standards/WikiData/WD~Zug,11933]]"
+  - "[[_Standards/WikiData/WD~Canton of Zürich,11943]]"
+  - "[[_Standards/WikiData/WD~Aargau,11972]]"
+  - "[[_Standards/WikiData/WD~Appenzell Ausserrhoden,12079]]"
+  - "[[_Standards/WikiData/WD~Appenzell Innerrhoden,12094]]"
+  - "[[_Standards/WikiData/WD~Lucerne,12121]]"
+  - "[[_Standards/WikiData/WD~Basel-Landschaft,12146]]"
+  - "[[_Standards/WikiData/WD~Basel-Stadt,12172]]"
+  - "[[_Standards/WikiData/WD~Uri,12404]]"
+  - "[[_Standards/WikiData/WD~Schwyz,12433]]"
+  - "[[_Standards/WikiData/WD~Obwalden,12573]]"
+  - "[[_Standards/WikiData/WD~Nidwalden,12592]]"
+  - "[[_Standards/WikiData/WD~Canton of Fribourg,12640]]"
+  - "[[_Standards/WikiData/WD~Schaffhausen,12697]]"
+  - "[[_Standards/WikiData/WD~Thurgau,12713]]"
+  - "[[_Standards/WikiData/WD~Ticino,12724]]"
+  - "[[_Standards/WikiData/WD~Neuchâtel,12738]]"
+  - "[[_Standards/WikiData/WD~canton St. Gallen,12746]]"
+  - "[[_Standards/WikiData/WD~Jura,12755]]"
+  - "[[_Standards/WikiData/WD~canton Vaud,12771]]"
+highest point: "[[_Standards/WikiData/WD~Dufourspitze,3403]]"
+located in time zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+named after: "[[_Standards/WikiData/WD~Schwyz,12433]]"
+lowest point: "[[_Standards/WikiData/WD~Lake Maggiore,14379]]"
+located in/on physical feature: "[[_Standards/WikiData/WD~Central Europe,27509]]"
+part of: "[[_Standards/WikiData/WD~Central Europe,27509]]"
+executive body: "[[_Standards/WikiData/WD~Swiss Federal Council,30917]]"
+head of state: "[[_Standards/WikiData/WD~Swiss Federal Council,30917]]"
+head of government: "[[_Standards/WikiData/WD~Swiss Federal Council,30917]]"
+foundational text: "[[_Standards/WikiData/WD~Swiss Federal Constitution,30921]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Austria,40]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Liechtenstein,347]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+country: "[[_Standards/WikiData/WD~Switzerland,39]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+capital: "[[_Standards/WikiData/WD~Bern,70]]"
+birth rate:
+  - 10
+  - 9.4
+  - 9.9
+  - 10.3
+age of majority:
+  - 20
+  - 18
+unemployment rate: 4
+marriageable age: 18
+mains voltage: 230
+motto text: Unus pro omnibus, omnes pro uno
+short name: 🇨🇭
+office held by head of state: "[[_Standards/WikiData/WD~Member of the Swiss Federal Council,11811941]]"
+railway traffic side:
+  - "[[_Standards/WikiData/WD~left,13196750]]"
+  - "[[_Standards/WikiData/WD~right,14565199]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+top-level Internet domain:
+  - "[[_Standards/WikiData/WD~.swiss,20577158]]"
+  - "[[_Standards/WikiData/WD~.ch,39676]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q20829665,20829665]]"
+open data portal: "[[_Standards/WikiData/WD~opendata.swiss,63430264]]"
+significant event: "[[_Standards/WikiData/WD~introduction of universal suffrage for men and women,131367891]]"
+coordinates of easternmost point: Point(10.49234033 46.6151637)
+Baidu Tieba name: 瑞士
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Switzerland.svg
+detail map: http://commons.wikimedia.org/wiki/Special:FilePath/Reliefkarte%20Schweiz.png
+ISNI: "0000000122974701"
+MeSH tree code: Z01.542.883
+nominal GDP: 807706035352
+coordinates of westernmost point: Point(5.9561348 46.13244515)
+inception: 1848-09-12T00:00:00Z
+coordinates of northernmost point: Point(8.57 47.8)
+VAT rate:
+  - 2.5
+  - 2.6
+  - 3.7
+  - 3.8
+  - 7.7
+  - 8.1
+death rate:
+  - 7.9
+  - 8.2
+  - 8.5
+  - 8.8
+suicide rate: 9.8
+total fertility rate: 1.52
+Gini coefficient: 33.1
+maximum temperature record: 41.5
+trunk prefix: "0"
+IAB code: "1419"
+vehicles per thousand people: 539
+UIC alphabetical country code: CH
+licence plate code: CH
+ISO 3166-1 alpha-2 code: CH
+WIPO ST.3: CH
+Happy Planet Index score: 60.1
+social media followers: 80800
+Democracy Index: 8.83
+Inequality-adjusted Human Development Index: 0.894
+budget: 89700000000
+Human Development Index: 0.962
+maritime identification digits: "269"
+M49 code: "756"
+ISO 3166-1 numeric code: "756"
+UIC numerical country code: "85"
+OmegaWiki Defined Meaning: "6791"
+area: 41285
+mobile country code: "228"
+FIPS 10-4 (countries and regions): SZ
+number of out-of-school children: 69459
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg
+rural population:
+  - 2263530
+  - 2242521
+  - 2253266
+  - 2273624
+IOC country code: SUI
+ITU letter code: SUI
+PM20 geo code: A34
+Commons category: Switzerland
+Commons gallery: Switzerland
+ISO 3166-1 alpha-3 code: CHE
+INSEE countries and foreign territories code: "99140"
+coordinate location: Point(8.231973 46.798562)
+GS1 country code: 760-769
+male population:
+  - 4253063
+  - 4285784
+  - 4320511
+  - 4357959
+female population:
+  - 4322218
+  - 4352384
+  - 4384035
+  - 4417801
+urban population:
+  - 6332759
+  - 6384901
+  - 6441016
+  - 6502136
+life expectancy: 82.89756
+population: 8902308
+logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20der%20Schweizerischen%20Eidgenossenschaft.svg
+X (Twitter) username: BR_Sprecher
+Instagram username: gov.ch
+GitHub topic: switzerland
+CIVICUS Monitor country entry: switzerland
+subreddit: switzerland
+U.S. National Archives Identifier: "10045644"
+coordinates of southernmost point: Point(9.01705027 45.8179357)
+official website: https://www.admin.ch
+coordinates of geographic center: Point(8.226667 46.801111)
+Unicode character: 🇨🇭
 ---
 
 #has_/time_/started :: 1291-08-01 
@@ -48,13 +462,13 @@ icon: flag-ch
 
 ## International Names
 
-[	name	 :: Switzerland ]
-[	name-en	 :: Switzerland ]
+[	name	 :: Switzerland ] 
+[	name-en	 :: Switzerland ] 
 [	name-es	 :: Suiza ]
 [	name-fr	 :: Suisse ]
 [	name-cn	 :: 瑞士 ]
 [	name-ar	 :: سويسرا ]
-[	name-ru	 :: Швейцария ]
+[	name-ru	 :: Швейцария ] 
 [name-de::Schweiz]
 
 [ISO2::CH]
