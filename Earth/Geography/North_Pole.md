@@ -1,0 +1,43 @@
+---
+has_id_wikidata: Q934
+different from:
+  - "[[_Standards/WikiData/WD~North Pole,79494]]"
+  - "[[_Standards/WikiData/WD~North Magnetic Pole,842763]]"
+  - "[[_Standards/WikiData/WD~north geomagnetic pole,11942166]]"
+instance of: "[[_Standards/WikiData/WD~geographical pole,183273]]"
+part of: "[[_Standards/WikiData/WD~Earth's poles,3907660]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+named after: "[[_Standards/WikiData/WD~north,659]]"
+opposite of: "[[_Standards/WikiData/WD~South Pole,933]]"
+bathymetry image: http://commons.wikimedia.org/wiki/Special:FilePath/IBCAO%20betamap.jpg
+hashtag:
+  - Northpole
+coordinate location: Point(0.0 90.0)
+location map: http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Ocean%20-%20en.png
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%20%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A7%81.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Noaa3-2006-0602-1206%20%28cropped%29.jpg
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/North%20pole%20banner.jpg
+U.S. National Archives Identifier: "10047242"
+Commons gallery: North Pole
+Commons category: North Pole
+aliases:
+  - North Pole
+---
+
+
+## #has_/text_of_/abstract 
+
+> The **North Pole**, also known as the Geographic North Pole or Terrestrial North Pole, is the point in the Northern Hemisphere where the Earth's axis of rotation meets its surface. It is called the True North Pole to distinguish from the Magnetic North Pole.
+>
+> The North Pole is by definition the northernmost point on the Earth, lying antipodally to the South Pole. It defines geodetic latitude 90° North, as well as the direction of true north. At the North Pole all directions point south; all lines of longitude converge there, so its longitude can be defined as any degree value. No time zone has been assigned to the North Pole, so any time can be used as the local time. Along tight latitude circles, counterclockwise is east and clockwise is west. The North Pole is at the center of the Northern Hemisphere. The nearest land is usually said to be Kaffeklubben Island, off the northern coast of Greenland about 700 km (430 mi) away, though some perhaps semi-permanent gravel banks lie slightly closer. The nearest permanently inhabited place is Alert on Ellesmere Island, Canada, which is located 817 km (508 mi) from the Pole.
+>
+> While the South Pole lies on a continental land mass, the North Pole is located in the middle of the Arctic Ocean amid waters that are almost permanently covered with constantly shifting sea ice.  The sea depth at the North Pole has been measured at 4,261 m (13,980 ft) by the Russian Mir submersible in 2007 and at  4,087 m (13,409 ft) by USS Nautilus in 1958. This makes it impractical to construct a permanent station at the North Pole (unlike the South Pole). However, the Soviet Union, and later Russia, constructed a number of manned drifting stations on a generally annual basis since 1937, some of which have passed over or very close to the Pole. Since 2002, a group of Russians have also annually established a private base, Barneo, close to the Pole. This operates for a few weeks during early spring. Studies in the 2000s predicted that the North Pole may become seasonally ice-free because of Arctic ice shrinkage, with timescales varying from 2016 to the late 21st century or later.
+>
+> Attempts to reach the North Pole began in the late 19th century, with the record for "Farthest North" being surpassed on numerous occasions. The first undisputed expedition to reach the North Pole was that of the airship Norge, which overflew the area in 1926 with 16 men on board, including expedition leader Roald Amundsen. Three prior expeditions – led by Frederick Cook (1908, land), Robert Peary (1909, land) and Richard E. Byrd (1926, aerial) – were once also accepted as having reached the Pole. However, in each case later analysis of expedition data has cast doubt upon the accuracy of their claims. 
+>
+> The first verified individuals to reach the North Pole on the ground was in 1948 by a 24-man Soviet party, part of Aleksandr Kuznetsov's Sever-2 expedition to the Arctic, who flew part-way to the Pole first before making the final trek to it on foot. The first complete land expedition to reach the North Pole was in 1968 by Ralph Plaisted, Walt Pederson, Gerry Pitzl and Jean-Luc Bombardier, using snowmobiles and with air support.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20Pole) 
+
+

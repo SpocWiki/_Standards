@@ -1,3 +1,111 @@
+---
+radius:
+  - 1735.97
+  - 1738.14
+  - 1737.1
+OmegaWiki Defined Meaning: "5730"
+mass: 73.4767
+Commons gallery: Moon
+Commons category: Moon
+Archive of Our Own tag: Moon
+distance from Earth: 385000.5
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2017%20Moon%20Panorama%20banner.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/FullMoon2010.jpg
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BC%D5%B8%D6%82%D5%BD%D5%AB%D5%B6%20%28Moon%29.ogg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Mond.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-M%C3%A5nen.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-moon.ogg
+3D model: http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20elevation.stl
+nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Night%20view%20of%20THE%20MOON.jpg
+Unicode character:
+  - ☽
+  - ☾
+U.S. National Archives Identifier: "10046559"
+Colon Classification: B92
+Wolfram Language entity code: Entity["PlanetaryMoon", "Moon"]
+subreddit: moon
+Krugosvet article: nauka_i_tehnika/astronomiya/LUNA.html
+orbital period: 27.321661
+synodic period: 29.530589
+inception: -4527000000-01-01T00:00:00Z
+has part(s):
+  - "[[_Standards/WikiData/WD~Atmosphere of the Moon,115507]]"
+  - "[[_Standards/WikiData/WD~Montes Pyrenaeus,500909]]"
+  - "[[_Standards/WikiData/WD~lunar soil,1037499]]"
+  - "[[_Standards/WikiData/WD~geological features on the Moon,12046612]]"
+child astronomical body:
+  - "[[_Standards/WikiData/WD~Lunar Reconnaissance Orbiter,331778]]"
+  - "[[_Standards/WikiData/WD~CAPSTONE,85160256]]"
+has use: "[[_Standards/WikiData/WD~colonization of the Moon,367737]]"
+diocese: "[[_Standards/WikiData/WD~Roman Catholic Diocese of Orlando,426778]]"
+lowest point: "[[_Standards/WikiData/WD~Antoniadi,598608]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+has characteristic:
+  - "[[_Standards/WikiData/WD~magnetic field of the Moon,1037706]]"
+  - "[[_Standards/WikiData/WD~moonquake,1130706]]"
+studied in:
+  - "[[_Standards/WikiData/WD~exploration of the Moon,1064739]]"
+  - "[[_Standards/WikiData/WD~selenology,126181255]]"
+instance of:
+  - "[[_Standards/WikiData/WD~regular moon,1086783]]"
+  - "[[_Standards/WikiData/WD~planetary-mass moon,85793519]]"
+  - "[[_Standards/WikiData/WD~planetary moon,109645860]]"
+history of topic: "[[_Standards/WikiData/WD~origin of the Moon,7102486]]"
+location: "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_The Moon,8070793]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Moon,13476345]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Moon,14615839]]"
+different from: "[[_Standards/WikiData/WD~Księżyc,17491583]]"
+highest point: "[[_Standards/WikiData/WD~Selenean summit,18356771]]"
+part of: "[[_Standards/WikiData/WD~Earth-Moon system,18589965]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of the Moon,28455496]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q110305386,110305386]]"
+coordinate location: <http://www.wikidata.org/entity/Q405> Point(0.0 0.0)
+astronomic symbol image: http://commons.wikimedia.org/wiki/Special:FilePath/Decrescent%20icon.svg
+Provenio UUID: b74e3a1e-07c5-4ab5-856e-a47725502d94
+spherical panorama image: http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20texture.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20Essentials-%20Turntable%20%28SVS5319%29.webm
+MeSH tree code: G01.060.075.730.700.200.500
+apparent magnitude: -12.74
+located on astronomical body: "[[_Standards/WikiData/WD~Moon,405]]"
+named after: "[[_Standards/WikiData/WD~light,9128]]"
+parent astronomical body: "[[_Standards/WikiData/WD~Earth,2]]"
+patronage: 12
+attendance: 12
+temperature:
+  - 390
+  - 95
+flattening: 0.00125
+albedo: 0.136
+surface gravity: 1.62
+type of orbit: "[[_Standards/WikiData/WD~highly elliptical orbit,38982]]"
+angular diameter: 34.1
+orbital eccentricity: 0.0567
+density: 3.344
+periapsis: 363300
+area: 37930000
+semi-major axis of an orbit: 384400
+apoapsis: 405500
+orbital inclination: 5.145
+volume as quantity: 21968000000
+diameter: 3476.2
+has_id_wikidata: Q405
+---
 ﻿---
 has_id_wikidata: Q405
 ---

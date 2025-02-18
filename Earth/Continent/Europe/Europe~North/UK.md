@@ -2,12 +2,12 @@
 title: UK
 type: Country
 location:
-    - 52.8829
-    - -2.14482
-has_id_wikidata: Q145 
+  - 52.8829
+  - -2.14482
+has_id_wikidata: Q145
 SpocWebEntityId: 26899
 tags:
-    - geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -22,10 +22,479 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Great Britain
-    - United Kingdom
-    - Britain
+  - Great Britain
+  - United Kingdom
+  - Britain
 icon: flag-gb
+member of:
+  - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
+  - "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
+  - "[[_Standards/WikiData/WD~European Free Trade Association,166546]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
+  - "[[_Standards/WikiData/WD~states with nuclear weapons,189062]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+  - "[[_Standards/WikiData/WD~Southeast Asia Treaty Organization,277252]]"
+  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~Organisation for Joint Armament Cooperation,521227]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~Australia Group,782942]]"
+  - "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
+  - "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
+  - "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+  - "[[_Standards/WikiData/WD~G7,1764511]]"
+  - "[[_Standards/WikiData/WD~ANZUK,2625543]]"
+  - "[[_Standards/WikiData/WD~ABCANZ Armies,2863003]]"
+  - "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
+  - "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
+  - "[[_Standards/WikiData/WD~AUSCANNZUKUS,4033111]]"
+  - "[[_Standards/WikiData/WD~Air Force Interoperability Council,4426267]]"
+  - "[[_Standards/WikiData/WD~Combined Communications-Electronics Board,5150848]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~The Technical Cooperation Program,7768229]]"
+  - "[[_Standards/WikiData/WD~Five Eyes,15978258]]"
+  - "[[_Standards/WikiData/WD~AUKUS,108556886]]"
+  - "[[_Standards/WikiData/WD~Q131720477,131720477]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council of Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~G20,19771]]"
+  - "[[_Standards/WikiData/WD~G8,37143]]"
+  - "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
+  - "[[_Standards/WikiData/WD~European Space Agency,42262]]"
+  - "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+flag: "[[_Standards/WikiData/WD~flag of the United Kingdom,83278]]"
+highest point: "[[_Standards/WikiData/WD~Ben Nevis,104674]]"
+instance of:
+  - "[[_Standards/WikiData/WD~island country,112099]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~colonial power,20181813]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+history of topic: "[[_Standards/WikiData/WD~history of the United Kingdom,113162]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of the United Kingdom,129373]]"
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Holy See,159583]]"
+  - "[[_Standards/WikiData/WD~South Africa,258]]"
+  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Singapore,334]]"
+  - "[[_Standards/WikiData/WD~Bahrain,398]]"
+  - "[[_Standards/WikiData/WD~Armenia,399]]"
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~New Zealand,664]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+  - "[[_Standards/WikiData/WD~Mongolia,711]]"
+  - "[[_Standards/WikiData/WD~Venezuela,717]]"
+  - "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+  - "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
+  - "[[_Standards/WikiData/WD~Grenada,769]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Iraq,796]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Yemen,805]]"
+  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
+  - "[[_Standards/WikiData/WD~Kuwait,817]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+  - "[[_Standards/WikiData/WD~South Korea,884]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Brunei,921]]"
+  - "[[_Standards/WikiData/WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Mauritius,1027]]"
+  - "[[_Standards/WikiData/WD~Namibia,1030]]"
+  - "[[_Standards/WikiData/WD~Morocco,1028]]"
+  - "[[_Standards/WikiData/WD~Somalia,1045]]"
+  - "[[_Standards/WikiData/WD~Sudan,1049]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Hong Kong,8646]]"
+  - "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Norway,20]]"
+  - "[[_Standards/WikiData/WD~Ireland,27]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Belgium,31]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Lithuania,37]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Portugal,45]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Kenya,114]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Iceland,189]]"
+  - "[[_Standards/WikiData/WD~Slovakia,214]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Albania,222]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Cyprus,229]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - "[[_Standards/WikiData/WD~Malta,233]]"
+  - "[[_Standards/WikiData/WD~San Marino,238]]"
+  - "[[_Standards/WikiData/WD~Cuba,241]]"
+  - "[[_Standards/WikiData/WD~Barbados,244]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+coat of arms: "[[_Standards/WikiData/WD~royal coat of arms of the United Kingdom,165762]]"
+different from:
+  - "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
+  - "[[_Standards/WikiData/WD~Great Britain,107482134]]"
+  - "[[_Standards/WikiData/WD~realm of the United Kingdom,124653007]]"
+  - "[[_Standards/WikiData/WD~Britain,23666]]"
+replaces: "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
+follows: "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
+public holiday:
+  - "[[_Standards/WikiData/WD~Saint Patrick's Day,181817]]"
+  - "[[_Standards/WikiData/WD~New Year's Day,196627]]"
+  - "[[_Standards/WikiData/WD~Easter Monday,209663]]"
+  - "[[_Standards/WikiData/WD~Boxing Day,956699]]"
+  - "[[_Standards/WikiData/WD~Christmas,19809]]"
+  - "[[_Standards/WikiData/WD~Good Friday,40317]]"
+  - "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
+central bank: "[[_Standards/WikiData/WD~Bank of England,183231]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of the United Kingdom,323138]]"
+top-level Internet domain:
+  - "[[_Standards/WikiData/WD~.gb,433862]]"
+  - "[[_Standards/WikiData/WD~.uk,37913]]"
+language used:
+  - "[[_Standards/WikiData/WD~Angloromani,541279]]"
+  - "[[_Standards/WikiData/WD~Polari,1359130]]"
+  - "[[_Standards/WikiData/WD~Welsh-Romani,2097387]]"
+  - "[[_Standards/WikiData/WD~Scottish Cant,3915671]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Irish,9142]]"
+  - "[[_Standards/WikiData/WD~Welsh,9309]]"
+  - "[[_Standards/WikiData/WD~Scottish Gaelic,9314]]"
+  - "[[_Standards/WikiData/WD~Scots,14549]]"
+  - "[[_Standards/WikiData/WD~Cornish,25289]]"
+  - "[[_Standards/WikiData/WD~British Sign Language,33000]]"
+  - "[[_Standards/WikiData/WD~Shelta,36705]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
+has cabinet: "[[_Standards/WikiData/WD~Privy Council of the United Kingdom,683120]]"
+has works in the collection: "[[_Standards/WikiData/WD~Australian National Maritime Museum,844329]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Supreme Court of the United Kingdom,1122261]]"
+lowest point: "[[_Standards/WikiData/WD~The Fens,1404827]]"
+electrical plug type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of the United Kingdom,1983621]]"
+ethnic group:
+  - "[[_Standards/WikiData/WD~مسح,2580491]]"
+  - "[[_Standards/WikiData/WD~Black Britons,3244280]]"
+  - "[[_Standards/WikiData/WD~British Indians,4115170]]"
+  - "[[_Standards/WikiData/WD~White British,7994501]]"
+emergency phone number: "[[_Standards/WikiData/WD~999,3086706]]"
+"has seal, badge, or sigil": "[[_Standards/WikiData/WD~Great Seal of the Realm,3114830]]"
+has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+part of: "[[_Standards/WikiData/WD~Common Travel Area,3324796]]"
+open data portal: "[[_Standards/WikiData/WD~data.gov.uk,5227103]]"
+head of government: "[[_Standards/WikiData/WD~Keir Starmer,6383803]]"
+topic's main template:
+  - "[[_Standards/WikiData/WD~Template_Country data United Kingdom,6435191]]"
+  - "[[_Standards/WikiData/WD~Template_Country data Great Britain,7665937]]"
+  - "[[_Standards/WikiData/WD~Template_United Kingdom topics,8457352]]"
+  - "[[_Standards/WikiData/WD~Template_United Kingdom infobox,10730823]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of the United Kingdom,7112788]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_United Kingdom,8253451]]"
+office held by head of state: "[[_Standards/WikiData/WD~monarch of the United Kingdom,9134365]]"
+railway traffic side: "[[_Standards/WikiData/WD~left,13196750]]"
+driving side: "[[_Standards/WikiData/WD~left,13196750]]"
+named after: "[[_Standards/WikiData/WD~union,17853087]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q22828650,22828650]]"
+category of associated people: "[[_Standards/WikiData/WD~Q32670711,32670711]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
+Gregorian calendar start date: 1752-09-14T00:00:00Z
+coordinates of northernmost point: Point(-0.87 60.87)
+Baidu Tieba name: 英国
+short name:
+  - ꠁꠃꠇꠦ
+  - ব্রিটেন
+  - Vereinigtes Königreich
+  - ΗΒ
+  - Britain
+  - Ir-Renju Unit
+  - Regatul Unit
+  - Соединённое Королевство
+  - Storbritannien
+  - Велика Британія
+  - 🇬🇧
+  - Britain
+  - United Kingdom
+  - Великобритания
+IPA transcription:
+  - zukt̪ɔ raizzɔ
+  - fɛɐ̯ˌʔaɪ̯nɪçtəs ˈkøːnɪçˌʁaɪ̯ç
+  - fɛɐ̯ˌʔaɪ̯nɪktəs ˈkøːnɪkˌʁaɪ̯ç
+  - jʊ̈nai̯tɘd kɪŋɡdə̯m
+  - vʲɛlka brɨtaɲa
+  - vʲɪlʲɪkəbrʲɪˈtanʲɪj
+  - ˈstuɾbɾɪtɑːnɪɑ
+Provenio UUID:
+  - fb0e9c21-05a7-4685-a430-1bdd5d64aab2
+  - 1e1ca283-d520-4f92-a279-43d71f92235b
+demonym:
+  - بريطاني
+  - بريطانية
+  - بريطانيين
+  - بريطانيات
+  - Briotanach
+  - británica
+  - británicu
+  - brite
+  - Brite
+  - Βρετανή
+  - Βρετανός
+  - Briton
+  - brittiläinen
+  - isobritannialainen
+  - breti
+  - Britannique
+  - brit
+  - Orang Inggris
+  - britannica
+  - britanniche
+  - Wong Inggeris
+  - Anglaise
+  - بريطاني
+  - بريطانية
+  - بريطانيون
+  - Britové
+  - Britin
+  - británicos
+  - britit
+  - Breatannaich
+  - בריטית
+  - britannici
+  - イギリス人
+  - 英国人
+  - Британци
+  - Brytyjczycy
+  - britânicos
+  - британцы
+  - британці
+  - britàneghi
+  - britannico
+  - ब्रिटिश
+  - Brittaniku
+  - brite
+  - britse
+  - brite
+  - britanic
+  - britanică
+  - britanici
+  - британец
+  - британка
+  - britt
+  - brittisk
+  - британець
+  - британка
+  - britànega
+  - britàneghe
+  - britànego
+  - 英国人
+  - Anglais
+  - brittiska
+  - Brit
+  - בריטי
+  - Briton
+  - British
+ISNI: "0000000122483427"
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20United%20Kingdom%20%282022%2C%20variant%202%29.svg
+coordinates of westernmost point: Point(-8.17751 54.46477)
+coordinates of southernmost point: Point(-5.20697638 49.95673883)
+coordinates of easternmost point: Point(1.76297307 52.48106832)
+official language: "[[_Standards/WikiData/WD~English,1860]]"
+religion or worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
+executive body: "[[_Standards/WikiData/WD~Government of the United Kingdom,6063]]"
+located in time zone: "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
+legislative body: "[[_Standards/WikiData/WD~Parliament of the United Kingdom,11010]]"
+office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of the United Kingdom,14211]]"
+located in/on physical feature:
+  - "[[_Standards/WikiData/WD~Ireland,22890]]"
+  - "[[_Standards/WikiData/WD~Britain,23666]]"
+  - "[[_Standards/WikiData/WD~British Isles,38272]]"
+culture: "[[_Standards/WikiData/WD~culture of the United Kingdom,32501]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Scotland,22]]"
+  - "[[_Standards/WikiData/WD~England,21]]"
+  - "[[_Standards/WikiData/WD~Northern Ireland,26]]"
+shares border with: "[[_Standards/WikiData/WD~Ireland,27]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+capital: "[[_Standards/WikiData/WD~London,84]]"
+VAT rate:
+  - 0
+  - 20
+  - 5
+country: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+birth rate:
+  - 10
+  - 10.1
+  - 10.7
+compulsory education (minimum age): 5
+unemployment rate: 6
+death rate:
+  - 9
+  - 9.1
+  - 9.7
+  - 10.1
+age of consent: 16
+compulsory education (maximum age): 18
+age of majority: 18
+mains voltage: 230
+Happy Planet Index score: 56
+suicide rate: 6.9
+Inequality-adjusted Human Development Index: 0.85
+total fertility rate: 1.83
+anthem: "[[_Standards/WikiData/WD~God Save the King,40807]]"
+Krugosvet article: Earth_sciences/geografiya/SOEDINENNOE_KOROLEVSTVO_VELIKOBRITANII_I_SEVERNO_IRLANDII.html
+Wolfram Language entity code: Entity["Country", "UnitedKingdom"]
+Wikitribune category: europe/united-kingdom
+Unicode character: 🇬🇧
+ISO 3166-2 code: GB-UKM
+Libris-URI: jgvxx4n24nx12bv
+GSS code (2011): K02000001
+Pinterest username: number10gov
+CIVICUS Monitor country entry: united-kingdom
+GitHub topic:
+  - united-kingdom
+  - uk
+subreddit:
+  - unitedkingdom
+  - casualuk
+hashtag:
+  - UnitedKingdom
+  - uk
+MeSH tree code: Z01.542.363
+native label: United Kingdom of Great Britain and Northern Ireland
+rural population:
+  - 10576752
+  - 10622327
+  - 10798066
+  - 10926403
+country calling code: "+44"
+official name: United Kingdom of Great Britain and Northern Ireland
+geoshape: http://commons.wikimedia.org/data/main/Data:United+Kingdom.map
+escutcheon image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20United%20Kingdom.svg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe-UK.svg
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Vereenegt%20Kinnekr%C3%A4ich.ogg
+satellite view: http://commons.wikimedia.org/wiki/Special:FilePath/MODIS%20-%20Great%20Britain%20and%20Ireland%20-%202012-06-04%20during%20heat%20wave.jpg
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Verenigd%20Koninkrijk-article.ogg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg
+panoramic view: http://commons.wikimedia.org/wiki/Special:FilePath/Quiraing%20Isle%20of%20Skye%20Pano.jpg
+seal image: http://commons.wikimedia.org/wiki/Special:FilePath/Reverse%20of%20the%20Great%20Seal%20of%20the%20Realm%201953.jpg
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sycamore%20Gap%20Banner.jpg
+location map: http://commons.wikimedia.org/wiki/Special:FilePath/Uk-map.svg
+relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Uk%20topo%20en.jpg
+Stack Exchange tag: https://travel.stackexchange.com/tags/uk
+official website: https://www.gov.uk/
+BHCL UUID:
+  - 07d2d2b9-6788-4e6f-b7ae-d287bd74eb33
+  - 152d7ec0-7a24-4ae0-9822-2ff4d82145a8
+Dewey Decimal Classification: 2--41
+WOEID: "23424975"
+motto text: Dieu et mon droit
+male population:
+  - 33000535
+  - 33112733
+  - 33133126
+  - 33499858
+female population:
+  - 33835792
+  - 33913559
+  - 33948108
+  - 34291141
+coordinate location: Point(-2.0 54.6)
+nominal GDP:
+  - 3122480345925
+  - 3070667732359
+inception: 1927-04-12T00:00:00Z
+urban population:
+  - 55909924
+  - 56283168
+  - 56403965
+  - 57214248
+population: 67326569
+basic form of government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+Gini coefficient: 32.8
+head of state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+trunk prefix: "0"
+Democracy Index: 8.54
+Human Development Index: 0.929
+maritime identification digits:
+  - "234"
+  - "235"
+  - "232"
+  - "233"
+mobile country code:
+  - "234"
+  - "235"
+ITU letter code: G
+aircraft registration prefix: G
+UIC numerical country code: "70"
+IAB code: "1453"
+median income: 31617
+OmegaWiki Defined Meaning: "8302"
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%283-5%29.svg
+number of out-of-school children: 62799
+Commons category: United Kingdom
+Commons gallery: United Kingdom
+INSEE countries and foreign territories code: "99132"
+ISO 3166-1 numeric code: "826"
+M49 code: "826"
+area: 242495
+ISO 3166-1 alpha-2 code: GB
+WIPO ST.3: GB
+UIC alphabetical country code: GB
+licence plate code: UK
+FIPS 10-4 (countries and regions): UK
+NUTS code: UK
+life expectancy: 80.9561
+IOC country code: GBR
+ISO 3166-1 alpha-3 code: GBR
+PM20 geo code: A22
+Danbooru tag: united_kingdom
+GS1 country code: 500-509
 ---
 
 # [[UK]] 
@@ -35,7 +504,7 @@ icon: flag-gb
 [name-en::United Kingdom]
 [name-de::Großbritannien] 
 
-[ISO2::GB]
+[ISO2::GB] 
 [ISO3::GBR]
 
 > [!info] This Article is only a Stub. 
@@ -202,6 +671,17 @@ Capital :: [[UK/City~London]]
 [has_place_latitude::52.8829] 
 
 
+## #has_/text_of_/abstract 
+
+> The **United Kingdom** of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales, and Northern Ireland. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles, covering 94,354 square miles (244,376 km2). Northern Ireland shares a land border with the Republic of Ireland; otherwise, the United Kingdom is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea, and the Irish Sea. The United Kingdom had an estimated population of 68.2 million people in 2023. The capital and largest city of both England and the United Kingdom is London, whose wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. The cities of Edinburgh, Cardiff, and Belfast are the national capitals of Scotland, Wales, and Northern Ireland, respectively.
+>
+> The UK has been inhabited continuously since the Neolithic. In AD 43, the Roman conquest of Britain began; the Roman departure was followed by Anglo-Saxon settlement. In 1066, the Normans conquered England. With the end of the Wars of the Roses, the English state stabilised and began to grow in power, resulting by the 16th century in the annexation of Wales, and the establishment of the British Empire. Over the course of the 17th century, the role of the British monarchy was reduced, particularly as a result of the English Civil War. In 1707, the Kingdom of England and the Kingdom of Scotland united under the Treaty of Union to create the Kingdom of Great Britain. In the Georgian era, the office of prime minister became established. The Acts of Union 1800 incorporated the Kingdom of Ireland to create the United Kingdom of Great Britain and Ireland in 1801. Most of Ireland seceded from the UK in 1922 as the Irish Free State, and the Royal and Parliamentary Titles Act 1927 created the present United Kingdom.
+>
+> The UK became the first industrialised country and was the world's foremost power for the majority of the 19th and early 20th centuries, particularly during the Pax Britannica between 1815 and 1914. The British Empire was the leading economic power for most of the 19th century, a position supported by its agricultural prosperity, its role as a dominant trading nation, a massive industrial capacity, significant technological achievements, and the rise of 19th-century London as the world's principal financial centre. At its height in the 1920s, the British Empire encompassed almost a quarter of the world's landmass and population, and was the largest empire in history. However, its involvement in the First World War and the Second World War damaged Britain's economic power and a global wave of decolonisation led to the independence of most British colonies.
+>
+> The United Kingdom is a constitutional monarchy and parliamentary democracy. The UK has three distinct jurisdictions: England and Wales, Scotland, and Northern Ireland. Since 1999, Scotland, Wales and Northern Ireland have their own governments and parliaments which control various devolved matters. A developed country with an advanced economy, the UK ranks among the largest economies by nominal GDP, and is one of the world's largest exporters and importers. It is a nuclear state with one of the world's highest military budgets. Its soft power influence can be observed in the legal and political systems of many of its former colonies, and British culture remains globally influential, particularly in language, literature, music and sport. English is the world's most widely spoken language and the third-most spoken native language. The country is part of multiple international organizations and forums.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Kingdom)
 
 ## Confidential Links & Embeds: 
 

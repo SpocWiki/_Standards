@@ -1,0 +1,44 @@
+---
+has_id_wikidata: Q7860
+opposite of: "[[_Standards/WikiData/WD~supernatural,80837]]"
+different from: "[[_Standards/WikiData/WD~Natura,396865]]"
+instance of: "[[_Standards/WikiData/WD~phenomenon,483247]]"
+studied in:
+  - "[[_Standards/WikiData/WD~natural history,484591]]"
+  - "[[_Standards/WikiData/WD~prirodovedenie,4379074]]"
+  - "[[_Standards/WikiData/WD~science,336]]"
+  - "[[_Standards/WikiData/WD~natural science,7991]]"
+said to be the same as: "[[_Standards/WikiData/WD~Prakṛti,920021]]"
+has part(s): "[[_Standards/WikiData/WD~natural landscape,1286517]]"
+has characteristic: "[[_Standards/WikiData/WD~pattern in nature,3455898]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Nature,8084570]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Nature,10814946]]"
+described by source: "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20natura%20medol.ogg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Desert%20Electric.jpg
+IPTC NewsCode: mediatopic/20000441
+hashtag:
+  - природа
+  - natural
+  - nature
+  - Natur
+MeSH tree code: K01.637
+Iconclass notation: "2"
+OmegaWiki Defined Meaning: "6357"
+Commons category: Nature
+subreddit: nature
+PhilPapers topic: nature
+U.S. National Archives Identifier: "10643499"
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Nature** is an inherent character or constitution, particularly of the ecosphere or the universe as a whole. In this general sense nature refers to the laws, elements and phenomena of the physical world, including life. Although humans are part of nature, human activity or humans as a whole are often described as at times at odds, or outright separate and even superior to nature.
+>
+> During the advent of modern scientific method in the last several centuries, nature became the passive reality, organized and moved by divine laws. With the Industrial Revolution, nature increasingly became seen as the part of reality deprived from intentional intervention: it was hence considered as sacred by some traditions (Rousseau, American transcendentalism) or a mere decorum for divine providence or human history (Hegel, Marx). However, a vitalist vision of nature, closer to the pre-Socratic one, got reborn at the same time, especially after Charles Darwin.
+>
+> Within the various uses of the word today, "nature" often refers to geology and wildlife. Nature can refer to the general realm of living beings, and in some cases to the processes associated with inanimate objects—the way that particular types of things exist and change of their own accord, such as the weather and geology of the Earth. It is often taken to mean the "natural environment" or wilderness—wild animals, rocks, forest, and in general those things that have not been substantially altered by human intervention, or which persist despite human intervention. For example, manufactured objects and human interaction generally are not considered part of nature, unless qualified as, for example, "human nature" or "the whole of nature". This more traditional concept of natural things that can still be found today implies a distinction between the natural and the artificial, with the artificial being understood as that which has been brought into being by a human consciousness or a human mind. Depending on the particular context, the term "natural" might also be distinguished from the unnatural or the supernatural.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Nature)
+

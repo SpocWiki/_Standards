@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q2 
 icon: earth_americas
 aliases:
@@ -240,3 +240,4 @@ noteOnly: true
 ### [Earth.personal](/_personal/Earth.personal.md) 
 
 ### [Earth.secret](/_secret/Earth.secret.md) 
+

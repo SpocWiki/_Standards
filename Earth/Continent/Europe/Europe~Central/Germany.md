@@ -643,8 +643,8 @@ has_name:
 #is_a_/Country 
 #is_a_/Place 
 #is_a_ :: [[Place]] 
-[has_place_longitude::10.1207]
-[has_place_latitude::50.8699]
+[has_place_longitude::10.1207] 
+[has_place_latitude::50.8699] 
 
 #has_/time_/started :: 1949-05-23 
 ## International Names
@@ -716,9 +716,9 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 > the Empire was in turn transformed into the semi-presidential Weimar Republic. 
 > 
 > The Nazi seizure of power in 1933 led to the establishment of a totalitarian dictatorship, 
-> [[../../../../../Knowledge/History/World_War_II|World War II]], and the [[../../../../../Knowledge/History/World_War_II/Holocaust|Holocaust]]. 
+> [[../../../../bio/Society/History/World_War_II|World War II]], and the [[../../../../bio/Society/History/Holocaust|Holocaust]]. 
 > 
-> After the end of [[../../../../../Knowledge/History/World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
+> After the end of [[../../../../bio/Society/History/World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
 > Germany as a whole was organized into two separate polities with limited sovereignty: 
 > the [[Germany/Germany~West|Federal Republic of Germany]], generally known as West Germany, 
 > and the [[Germany/Germany~East|German Democratic Republic]], known as [[Germany/Germany~East|East Germany]], 

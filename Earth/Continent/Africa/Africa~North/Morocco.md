@@ -1,3 +1,400 @@
+---
+named after:
+  - "[[_Standards/WikiData/WD~Marrakesh,101625]]"
+  - "[[_Standards/WikiData/WD~Mauri people,6792792]]"
+  - "[[_Standards/WikiData/WD~west,679]]"
+member of:
+  - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+  - "[[_Standards/WikiData/WD~Arab Maghreb Union,370862]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
+  - "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~International Atomic Energy Agency,41984]]"
+  - "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~African Union,7159]]"
+  - "[[_Standards/WikiData/WD~Arab League,7172]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Maghreb,28227]]"
+flag: "[[_Standards/WikiData/WD~flag of Morocco,159865]]"
+public holiday:
+  - "[[_Standards/WikiData/WD~Mawlid,193027]]"
+  - "[[_Standards/WikiData/WD~New Year's Day,196627]]"
+  - "[[_Standards/WikiData/WD~Isra and Mi'raj,381240]]"
+  - "[[_Standards/WikiData/WD~Eid al-Fitr,464458]]"
+  - "[[_Standards/WikiData/WD~Eid al-Adha,514400]]"
+  - "[[_Standards/WikiData/WD~Islamic New Year,922388]]"
+  - "[[_Standards/WikiData/WD~Youth Day,946446]]"
+  - "[[_Standards/WikiData/WD~Yennayer,3572171]]"
+  - "[[_Standards/WikiData/WD~Revolution of the King and the People,6755512]]"
+  - "[[_Standards/WikiData/WD~Throne Day,20393998]]"
+  - "[[_Standards/WikiData/WD~Proclamation of Independence of Morocco,60845731]]"
+  - "[[_Standards/WikiData/WD~New Year,34812]]"
+  - "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
+  - "[[_Standards/WikiData/WD~August 14,2775]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Morocco,211232]]"
+anthem: "[[_Standards/WikiData/WD~Cherifian Anthem,238826]]"
+culture: "[[_Standards/WikiData/WD~culture of Morocco,286806]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Meyer’s Universum, Neunter Band,131719188]]"
+central bank: "[[_Standards/WikiData/WD~Bank Al-Maghrib,328198]]"
+replaces: "[[_Standards/WikiData/WD~Spanish protectorate in Morocco,457242]]"
+history of topic: "[[_Standards/WikiData/WD~history of Morocco,472658]]"
+different from:
+  - "[[_Standards/WikiData/WD~Morocco,488261]]"
+  - "[[_Standards/WikiData/WD~Marokko,2302614]]"
+highest point: "[[_Standards/WikiData/WD~Jbel Toubkal,503433]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Morocco,615580]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~Type E,2335536]]"
+head of government: "[[_Standards/WikiData/WD~Aziz Akhannouch,1638114]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Morocco,1977556]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Morocco,2593833]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Supreme Court of Morocco,3001004]]"
+legislative body: "[[_Standards/WikiData/WD~Parliament of Morocco,3004884]]"
+language used:
+  - "[[_Standards/WikiData/WD~Sud Oranais-Gourara,3063974]]"
+  - "[[_Standards/WikiData/WD~Moroccan Sign Language,6913107]]"
+  - "[[_Standards/WikiData/WD~Standard Moroccan Amazigh,7598268]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~Tachelhit,34152]]"
+  - "[[_Standards/WikiData/WD~Tarifit,34174]]"
+  - "[[_Standards/WikiData/WD~Ghomara,35315]]"
+  - "[[_Standards/WikiData/WD~Central Atlas Tamazight,49741]]"
+  - "[[_Standards/WikiData/WD~Hassaniya Arabic,56231]]"
+  - "[[_Standards/WikiData/WD~Moroccan Arabic,56426]]"
+  - "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
+  - "[[_Standards/WikiData/WD~Sanhaja de Srair,56744]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Malay,9237]]"
+  - "[[_Standards/WikiData/WD~Arabic,13955]]"
+visitor center: "[[_Standards/WikiData/WD~Moroccan National Tourism Office,3349668]]"
+lowest point: "[[_Standards/WikiData/WD~Sebkha Tah,3476951]]"
+instance of:
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
+  - "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Morocco,4540130]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~Africa_Casablanca,4689485]]"
+  - "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+ethnic group: "[[_Standards/WikiData/WD~Arab-Berber,4783129]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Morocco,7112370]]"
+official language:
+  - "[[_Standards/WikiData/WD~Standard Moroccan Amazigh,7598268]]"
+  - "[[_Standards/WikiData/WD~Arabic,13955]]"
+coordinates of westernmost point: Point(-17.050381 20.769991)
+executive body: "[[_Standards/WikiData/WD~Cabinet of Morocco,12208534]]"
+railway traffic side: "[[_Standards/WikiData/WD~left,13196750]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+office held by head of state: "[[_Standards/WikiData/WD~King of Morocco,14566719]]"
+office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Morocco,19842743]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Casablanca-Settat,19843788]]"
+  - "[[_Standards/WikiData/WD~Drâa-Tafilalet,19950954]]"
+  - "[[_Standards/WikiData/WD~Fès-Meknès,19951027]]"
+  - "[[_Standards/WikiData/WD~Guelmim-Oued Noun,19951051]]"
+  - "[[_Standards/WikiData/WD~Laâyoune-Sakia El Hamra,19951088]]"
+  - "[[_Standards/WikiData/WD~Marrakesh-Safi,19951125]]"
+  - "[[_Standards/WikiData/WD~Rabat-Salé-Kénitra,19951239]]"
+  - "[[_Standards/WikiData/WD~Tangier-Tetouan-Al Hoceima,19951300]]"
+  - "[[_Standards/WikiData/WD~Béni Mellal-Khénifra,19953016]]"
+  - "[[_Standards/WikiData/WD~Souss-Massa,20652586]]"
+  - "[[_Standards/WikiData/WD~Dakhla-Oued Ed-Dahab,21235104]]"
+  - "[[_Standards/WikiData/WD~Oriental,23048167]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~19,25648864]]"
+  - "[[_Standards/WikiData/WD~15,25648869]]"
+  - "[[_Standards/WikiData/WD~177,25743529]]"
+demonym:
+  - marroquí
+  - مغاربا
+  - مغربيات
+  - مغريبي
+  - مغريبية
+  - marroquí
+  - marroquín
+  - মরক্কী
+  - Marokkanerin
+  - Marokano
+  - Marocaine
+  - marokkói
+  - Marokano
+  - marocchina
+  - marocchine
+  - marocchini
+  - magribi
+  - marocan
+  - marocan
+  - marocană
+  - marocani
+  - марокканец
+  - марокканка
+  - марокканцы
+  - marochin
+  - marochina
+  - marochine
+  - marochini
+  - Marokänan
+  - Maročan
+  - Maročanka
+  - ⴰⵎⵓⵔⵉ
+  - ⵜⴰⵎⵓⵔⵉⵜ
+  - ⵜⵉⵎⵓⵔⵉⵢⵏ
+  - orang Maghribi
+  - Maracach
+  - مغربية
+  - مغاربة
+  - Marokkaner
+  - מרוקאי
+  - Marocain
+  - Moroccan
+  - מרוקאית
+  - marocchino
+  - مغربي
+has characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+official name:
+  - Maghribi
+  - Kongeriget Marokko
+  - Kingdom of Morocco
+  - Reino de Marruecos
+  - Royaume du Maroc
+  - Marocké kráľovstvo
+  - ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵓⵎⵓⵔ ⵏ ⵡⴰⴽⵓⵛ
+  - Kerajaan Maghribi
+  - لمملكة لمغريبية
+  - Regno del Maroco
+  - Morocco
+  - المغرب
+  - المملكة المغربية
+open data portal: "[[_Standards/WikiData/WD~Morocco Data Portal,97011662]]"
+geoshape: http://commons.wikimedia.org/data/main/Data:Morocco.map
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Marokko.ogg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Morocco%20WS-excluded%20%28orthographic%20projection%29.svg
+official website:
+  - http://www.maroc.ma/en
+  - https://www.maroc.ma/amz
+  - https://www.maroc.ma/ar
+  - https://www.maroc.ma/es
+  - https://www.maroc.ma/fr
+Dewey Decimal Classification: 2--64
+Provenio UUID: b34b5d6c-651c-47da-a724-9419045a3990
+Libris-URI: khwzxrn30k0tv0g
+Unicode character: 🇲🇦
+Krugosvet article: strany_mira/MAROKKO.html
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Portugal,45]]"
+  - "[[_Standards/WikiData/WD~Netherlands,55]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Mali,912]]"
+  - "[[_Standards/WikiData/WD~Tunisia,948]]"
+  - "[[_Standards/WikiData/WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
+  - "[[_Standards/WikiData/WD~Sudan,1049]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+located in or next to body of water:
+  - "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+  - "[[_Standards/WikiData/WD~Strait of Gibraltar,36124]]"
+  - "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+unemployment rate: 10
+VAT rate: 20
+BTI Governance Index:
+  - 4
+  - 4.2
+  - 4.4
+  - 4.6
+  - 4.28
+  - 4.37
+  - 4.52
+  - 4.75
+  - 4.84
+compulsory education (minimum age): 6
+vehicles per thousand people:
+  - 80
+  - 53
+compulsory education (maximum age): 15
+marriageable age: 18
+mains voltage:
+  - 220
+  - 127
+BTI Status Index:
+  - 4.5
+  - 4.6
+  - 4.7
+  - 4.47
+  - 4.52
+  - 4.61
+  - 4.62
+  - 4.65
+  - 4.77
+retirement age: 65
+top-level Internet domain: "[[_Standards/WikiData/WD~.ma,41439]]"
+social media followers: 28200
+basic form of government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+Gini coefficient: 39.5
+trunk prefix: "0"
+madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
+Democracy Index: 5.04
+Inequality-adjusted Human Development Index: 0.504
+Happy Planet Index score: 50.9
+aircraft registration prefix: CN
+death rate:
+  - 6.17
+  - 5.658
+  - 5.766
+  - 6.073
+Human Development Index: 0.683
+head of state: "[[_Standards/WikiData/WD~Mohammed VI of Morocco,57553]]"
+total fertility rate: 2.515
+UIC numerical country code: "93"
+WIPO ST.3: MA
+UIC alphabetical country code: MA
+licence plate code: MA
+ISO 3166-1 alpha-2 code: MA
+birth rate:
+  - 17.161
+  - 17.545
+  - 17.889
+  - 18.337
+maritime identification digits: "242"
+ISO 3166-1 numeric code: "504"
+M49 code: "504"
+GS1 country code: "611"
+mobile country code: "604"
+native label:
+  - ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ
+  - ⵍⵎⵖⵔⵉⴱ
+  - المغرب
+  - المملكة المغربية
+short name: 🇲🇦
+inception: 0789-01-01T00:00:00Z
+UMLS CUI: C0020822
+location map: http://commons.wikimedia.org/wiki/Special:FilePath/Morocco%20relief%20location%20map.jpg
+ISNI: "0000000121703280"
+motto text:
+  - Gwlad, Mamwlad, y Brenin
+  - الله، الوطن، الملك
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Volubilis%20Longshot%20II.jpg
+MeSH tree code: Z01.058.266.629
+nominal GDP:
+  - 134181587770
+  - 142866583125
+official religion: "[[_Standards/WikiData/WD~Islam,432]]"
+country: "[[_Standards/WikiData/WD~Morocco,1028]]"
+capital: "[[_Standards/WikiData/WD~Rabat,3551]]"
+minimum temperature record: -23.9
+part of: "[[_Standards/WikiData/WD~North Africa,27381]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
+population:
+  - 37076584
+  - 36828330
+coordinates of easternmost point: Point(-0.99842 32.51311)
+coordinates of southernmost point: Point(-13.000833 21.334026)
+Commons gallery: المغرب / ⵍⵎⵖⵔⵉⴱ / Maroc
+OmegaWiki Defined Meaning: "8352"
+area: 446550
+FIPS 10-4 (countries and regions): MO
+life expectancy: 75.821
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg
+INSEE countries and foreign territories code: "99350"
+IAB code: "1360"
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Morocco.svg
+ISO 3166-1 alpha-3 code: MAR
+IOC country code: MAR
+number of out-of-school children: 1137547
+rural population:
+  - 13261620
+  - 13323470
+  - 13379661
+  - 13434809
+U.S. National Archives Identifier: "10035766"
+PM20 geo code: C24
+coordinates of northernmost point: Point(-5.40141 35.92243)
+ITU letter code: MRC
+coordinate location: Point(-6.0 32.0)
+number of households: 9275038
+country calling code: "+212"
+CIVICUS Monitor country entry: morocco
+GitHub topic: morocco
+name in native language: المملكة المغربية
+subreddit: Morocco
+Commons category: Morocco
+hashtag: Morocco
+female population:
+  - 18022621
+  - 18213816
+  - 18410922
+  - 18605603
+male population:
+  - 18281786
+  - 18474956
+  - 18665663
+  - 18852368
+urban population:
+  - 22869599
+  - 23309111
+  - 23753114
+  - 24196351
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/A%C3%AFt%20Arbi%20%28Maroc%29%20banner%20Vall%C3%A9e%20des%20Gorges%20du%20Dad%C3%A8s.jpg
+has_id_wikidata: Q1028
+---
 ﻿---
 location:
 - 33.0225
@@ -142,6 +539,17 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 [has_place_latitude::33.0225]
 
 
+## #has_/text_of_/abstract 
+
+> **Morocco**, officially the Kingdom of Morocco, is a country in the Maghreb region of North Africa. It overlooks the Mediterranean Sea to the north and the Atlantic Ocean to the west, and has land borders with Algeria to the east, and the disputed territory of Western Sahara to the south. Morocco also claims the Spanish exclaves of Ceuta, Melilla and Peñón de Vélez de la Gomera, and several small Spanish-controlled islands off its coast. It has a population of approximately 37 million. Islam is both the official and predominant religion, while Arabic and Berber are the official languages. Additionally, French and the Moroccan dialect of Arabic are widely spoken. The culture of Morocco is a mix of Arab, Berber, African and European cultures. Its capital is Rabat, while its largest city is Casablanca.
+>
+> The region constituting Morocco has been inhabited since the Paleolithic era over 300,000 years ago. The Idrisid dynasty was established by Idris I in 788 and Morocco was subsequently ruled by a series of other independent dynasties, reaching its zenith as a regional power in the 11th and 12th centuries, under the Almoravid and Almohad dynasties, when it controlled most of the Iberian peninsula and the Maghreb. Centuries of Arab migration to the Maghreb since the 7th century shifted the demographic scope of the region. In the 15th and 16th centuries, Morocco faced external threats to its sovereignty, with Portugal seizing some territory and the Ottoman Empire encroaching from the east. The Marinid and Saadi dynasties otherwise resisted foreign domination, and Morocco was the only North African nation to escape Ottoman dominion. The 'Alawi dynasty, which rules the country to this day, seized power in 1631, and over the next two centuries expanded diplomatic and commercial relations with the Western world. Morocco's strategic location near the mouth of the Mediterranean drew renewed European interest; in 1912, France and Spain divided the country into respective protectorates, reserving an international zone in Tangier. Following intermittent riots and revolts against colonial rule, in 1956, Morocco regained its independence and reunified.
+>
+> Since independence, Morocco has remained relatively stable. It has the fifth-largest economy in Africa and wields significant influence in both Africa and the Arab world; it is considered a middle power in global affairs and holds membership in the Arab League, the Arab Maghreb Union, the Union for the Mediterranean, and the African Union. Morocco is a unitary semi-constitutional monarchy with an elected parliament. The executive branch is led by the King of Morocco and the prime minister, while legislative power is vested in the two chambers of parliament: the House of Representatives and the House of Councillors. Judicial power rests with the Constitutional Court, which may review the validity of laws, elections, and referendums. The king holds vast executive and legislative powers, especially over the military, foreign policy and religious affairs; he can issue decrees called dahirs, which have the force of law, and can also dissolve the parliament after consulting the prime minister and the president of the constitutional court.
+>
+> Morocco claims ownership of the non-self-governing territory of Western Sahara, which it has designated its Southern Provinces. In 1975, after Spain agreed to decolonise the territory and cede its control to Morocco and Mauritania, a guerrilla war broke out between those powers and some of the local inhabitants. In 1979, Mauritania relinquished its claim to the area, but the war continued to rage. In 1991, a ceasefire agreement was reached, but the issue of sovereignty remained unresolved. Today, Morocco occupies two-thirds of the territory, and efforts to resolve the dispute have thus far failed to break the political deadlock.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Morocco)
 
 ## Confidential Links & Embeds: 
 

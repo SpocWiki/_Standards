@@ -1,0 +1,61 @@
+---
+has_id_wikidata: Q15645384
+natural product of taxon: "[[_Standards/WikiData/WD~Triticum aestivum,161098]]"
+instance of:
+  - "[[_Standards/WikiData/WD~caryopsis,506139]]"
+  - "[[_Standards/WikiData/WD~groat,1436715]]"
+  - "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
+has effect:
+  - "[[_Standards/WikiData/WD~gluten-related disorder,1367782]]"
+  - "[[_Standards/WikiData/WD~wheat allergy,4413030]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Wheat,7963158]]"
+Dewey Decimal Classification:
+  - "584.9"
+  - "633.11"
+  - "641.3311"
+  - "664.722"
+Wikidata usage instructions: focus on agriculture here, not on taxonomy
+subclass of:
+  - "[[_Standards/WikiData/WD~food,2095]]"
+  - "[[_Standards/WikiData/WD~cereal grain,12117]]"
+different from: "[[_Standards/WikiData/WD~Triticum,12106]]"
+part of: "[[_Standards/WikiData/WD~Russian cuisine,12505]]"
+water footprint: 1827
+Commons gallery: Wheat
+Commons category: Wheat
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-bl%C3%A9%20tendre.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%97%E0%A6%AE.wav
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20close-up.JPG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20field.jpg
+external data available at URL: https://data.inra.fr/dataverse/root?q=wheat
+OmegaWiki Defined Meaning: "466721"
+UNII: 4J2I0SN84Y
+Colon Classification: J382
+Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PSHENITSA.html
+OpenStreetMap tag or key: Tag:crop=wheat
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Wheat** is a group of wild and domesticated grasses of the genus Triticum (). They are cultivated for their cereal grains, which are staple foods around the world. Well-known wheat species and hybrids include the most widely grown common wheat (T. aestivum), spelt, durum, emmer, einkorn, and Khorasan or Kamut. The archaeological record suggests that wheat was first cultivated in the regions of the Fertile Crescent around 9600 BC.
+>
+> Wheat is grown on a larger area of land than any other food crop (220.7 million hectares or 545 million acres in 2021). World trade in wheat is greater than that of all other crops combined. In 2021, world wheat production was 771 million tonnes (850 million short tons), making it the second most-produced cereal after maize (known as corn in North America and Australia; wheat is often called corn in countries including Britain). Since 1960, world production of wheat and other grain crops has tripled and is expected to grow further through the middle of the 21st century. Global demand for wheat is increasing because of the usefulness of gluten to the food industry.
+>
+> Wheat is an important source of  carbohydrates. Globally, it is the leading source of vegetable proteins in human food, having a protein content of about 13%, which is relatively high compared to other major cereals but relatively low in protein quality (supplying essential amino acids). When eaten as the whole grain, wheat is a source of multiple nutrients and dietary fiber. In a small part of the general population, gluten – which comprises most of the protein in wheat – can trigger coeliac disease, noncoeliac gluten sensitivity, gluten ataxia, and dermatitis herpetiformis.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Wheat)
+

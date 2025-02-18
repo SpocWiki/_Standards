@@ -43,7 +43,7 @@ For example, an in-depth article or frequently-asked-questions (https://en.wikip
 on topics such as Climate Change or the European Union. 
 
 Other kinds of background material from a non-news setting are 
-often described using [[Book]] or [[Article]], in particular [[ScholarlyArticle]]. 
+often described using[[../../book]]] or [[Article]], in particular [[ScholarlyArticle]]. 
 
 See also [[NewsArticle]] for related vocabulary from a learning/education perspective.
 

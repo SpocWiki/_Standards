@@ -1,11 +1,361 @@
-﻿---
+---
 location:
-    - 43.87
-    - 18.43
+  - 43.87
+  - 18.43
 type: Country
 tags:
-    - geo/Country
+  - geo/Country
 icon: flag-ba
+has_id_wikidata: Q225
+Libris-URI: pm1358x74smx2mv
+Colon Classification: SG--592242
+Krugosvet article: strany_mira/BOSNIYA_I_GERTSEGOVINA.html
+MeSH tree code: Z01.542.248.160
+demonym:
+  - bosnia
+  - bosniu
+  - bosnier
+  - hercegoviner
+  - Herzegovinian
+  - Bosnihercegovinano
+  - bosnia
+  - Bosnienne
+  - bosznia-hercegovinai
+  - bosniaca
+  - bosniache
+  - bosniaci
+  - боснієць
+  - боснійка
+  - герцеговинець
+  - герцеговинка
+  - герцеговинці
+  - bosnìaga
+  - bosnìaghe
+  - bosnìaghi
+  - بوصني
+  - hersegovasce
+  - Bosanac
+  - bosnio
+  - боснийцы
+  - Bosnier
+  - боснійці
+  - bosniac
+  - bosniacă
+  - bosniaci
+  - босниец
+  - боснийка
+  - Bosnian
+  - Bosnien
+  - বসনীয়
+  - bosniaco
+  - bosnian
+  - bosnìago
+  - Boisniach
+  - Hercegovac
+  - بوصنية
+  - بوصنيين
+  - بوصنيات
+  - Bosanci in Hercegovci
+  - Bosanke in Hercegovke
+short name:
+  - БіГ
+  - BiH
+  - BiH
+  - БиХ
+  - BiH
+  - БваҲ
+  - Бүснә-Һәрсәк
+  - 波黑
+  - 波黑
+  - 波赫
+  - 🇧🇦
+  - BH
+  - B&H
+  - БиХ
+  - BiH
+motto text:
+  - The heart shaped land
+  - Gwlad siap calon
+official name:
+  - la Bosnie-Herzégovine
+  - Bosna i Hercegovina
+  - Bosna a Hercegovina
+  - Bosnia and Herzegovina
+  - Босна и Херцеговина
+  - Bosna i Hercegovina
+name in native language:
+  - Bosna i Hercegovina
+  - Босна и Херцеговина, БиХ
+native label:
+  - Bosna i Hercegovina
+  - Bosna i Hercegovina
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Bosnia and Herzegovina,10815261]]"
+located in/on physical feature:
+  - "[[_Standards/WikiData/WD~post-Yugoslavia states,10860602]]"
+  - "[[_Standards/WikiData/WD~Balkans,23522]]"
+head of state:
+  - "[[_Standards/WikiData/WD~Denis Bećirović,13081568]]"
+  - "[[_Standards/WikiData/WD~Željko Komšić,297825]]"
+  - "[[_Standards/WikiData/WD~Željka Cvijanović,5528031]]"
+railway traffic side: "[[_Standards/WikiData/WD~right,14565199]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+office held by head of government: "[[_Standards/WikiData/WD~Chairman of the Council of Ministers of Bosnia and Herzegovina,16020744]]"
+described by source:
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~122,25648812]]"
+  - "[[_Standards/WikiData/WD~124,25648826]]"
+  - "[[_Standards/WikiData/WD~123,25648825]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q25690817,25690817]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~Europe_Sarajevo,28148751]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+  - "[[_Standards/WikiData/WD~Central European Time,25989]]"
+has characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+instance of:
+  - "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~constitutional republic,1520223]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+open data portal: "[[_Standards/WikiData/WD~Open Data Bosnia and Herzegovina,97061978]]"
+UMLS CUI: C0006036
+coordinates of northernmost point: Point(16.93 45.28)
+nominal GDP:
+  - 23649566069
+  - 24527507288
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~North Macedonia,221]]"
+  - "[[_Standards/WikiData/WD~Croatia,224]]"
+  - "[[_Standards/WikiData/WD~Montenegro,236]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~England,21]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Slovenia,215]]"
+  - "[[_Standards/WikiData/WD~Holy See,159583]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Croatia,224]]"
+  - "[[_Standards/WikiData/WD~Montenegro,236]]"
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~European Union,458]]"
+country: "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+suicide rate:
+  - 8
+  - 8.8
+  - 8.9
+  - 9.3
+  - 10.7
+VAT rate: 17
+age of majority: 18
+mains voltage: 230
+unemployment rate: 28
+Gini coefficient: 33
+BTI Governance Index:
+  - 3.8
+  - 4.1
+  - 3.78
+  - 3.95
+  - 4.04
+  - 4.09
+  - 4.49
+  - 4.61
+  - 4.71
+retirement age: 65
+Human Development Index: 0.78
+literacy rate: 97
+top-level Internet domain: "[[_Standards/WikiData/WD~.ba,39661]]"
+official observer status in organisation: "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+Happy Planet Index score: 47.8
+Democracy Index: 4.84
+trunk prefix: "0"
+mobile country code: "218"
+UIC numerical country code:
+  - "44"
+  - "50"
+  - "49"
+BTI Status Index:
+  - 5.93
+  - 6.11
+  - 6.28
+  - 6.37
+  - 6.38
+  - 6.41
+  - 6.43
+  - 6.51
+  - 6.61
+Inequality-adjusted Human Development Index: 0.677
+birth rate:
+  - 8.42
+  - 8.278
+  - 8.611
+  - 8.819
+total fertility rate: 1.263
+maritime identification digits: "478"
+WIPO ST.3: BA
+ISO 3166-1 alpha-2 code: BA
+GS1 country code: "387"
+death rate:
+  - 12.266
+  - 14.094
+  - 15.712
+  - 15.865
+FIPS 10-4 (countries and regions): BK
+IAB code: "1257"
+social media followers: 48693
+area: 51197
+Dewey Decimal Classification: 2--49742
+life expectancy: 76.911
+ISO 3166-1 numeric code: "070"
+M49 code: "070"
+IOC country code: BIH
+ITU letter code: BIH
+UIC alphabetical country code: BIH
+licence plate code: BIH
+ISO 3166-1 alpha-3 code: BIH
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bosnia%20and%20Herzegovina.svg
+INSEE countries and foreign territories code: "99118"
+male population:
+  - 1591814
+  - 1610168
+  - 1632854
+  - 1652504
+urban population:
+  - 1611622
+  - 1616664
+  - 1626683
+  - 1634179
+rural population:
+  - 1621904
+  - 1654279
+  - 1691724
+  - 1726532
+female population:
+  - 1641713
+  - 1660775
+  - 1685553
+  - 1708207
+U.S. National Archives Identifier: "10045294"
+OmegaWiki Defined Meaning: "355222"
+population: 3816459
+coordinate location: Point(18.0 44.0)
+inception: 1992-03-01T00:00:00Z
+Unicode character: 🇧🇦
+Commons category: Bosnia and Herzegovina
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Gornji%20Orahovac%2C%20Bosnia%20y%20Herzegovina%2C%202014-04-14%2C%20DD%2010-13%20PAN.jpg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Bosnia%20and%20Herzegovina%20%28orthographic%20projection%29.svg
+coordinates of southernmost point: Point(18.43785346 42.55647866)
+coordinates of westernmost point: Point(15.72250843 44.81795056)
+coordinates of easternmost point: Point(19.62189317 44.05033658)
+religion or worldview:
+  - "[[_Standards/WikiData/WD~Islam,432]]"
+  - "[[_Standards/WikiData/WD~Catholicism,1841]]"
+  - "[[_Standards/WikiData/WD~Judaism,9268]]"
+  - "[[_Standards/WikiData/WD~Eastern Orthodoxy,3333484]]"
+member of:
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council of Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
+  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~International Centre for Migration Policy Development,498496]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+located in or next to body of water:
+  - "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+  - "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
+official language:
+  - "[[_Standards/WikiData/WD~Croatian,6654]]"
+  - "[[_Standards/WikiData/WD~Serbian,9299]]"
+  - "[[_Standards/WikiData/WD~Bosnian,9303]]"
+language used:
+  - "[[_Standards/WikiData/WD~Croatian,6654]]"
+  - "[[_Standards/WikiData/WD~Serbian,9299]]"
+  - "[[_Standards/WikiData/WD~Bosnian,9303]]"
+basic form of government:
+  - "[[_Standards/WikiData/WD~republic,7270]]"
+  - "[[_Standards/WikiData/WD~federal republic,512187]]"
+capital: "[[_Standards/WikiData/WD~Sarajevo,11194]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Federation of Bosnia and Herzegovina,11198]]"
+  - "[[_Standards/WikiData/WD~Republika Srpska,11196]]"
+  - "[[_Standards/WikiData/WD~Brčko District,194483]]"
+has part(s):
+  - "[[_Standards/WikiData/WD~Federation of Bosnia and Herzegovina,11198]]"
+  - "[[_Standards/WikiData/WD~Republika Srpska,11196]]"
+lowest point: "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
+part of:
+  - "[[_Standards/WikiData/WD~Southern Europe,27449]]"
+  - "[[_Standards/WikiData/WD~Southeast Europe,263686]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+flag: "[[_Standards/WikiData/WD~flag of Bosnia and Herzegovina,162033]]"
+anthem: "[[_Standards/WikiData/WD~national anthem of Bosnia and Herzegovina,188662]]"
+different from: "[[_Standards/WikiData/WD~Autonomous Province of Western Bosnia,192262]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Bosnia and Herzegovina,199862]]"
+history of topic: "[[_Standards/WikiData/WD~history of Bosnia and Herzegovina,200128]]"
+head of government: "[[_Standards/WikiData/WD~Borjana Krišto,387491]]"
+highest point: "[[_Standards/WikiData/WD~Maglić,837723]]"
+office held by head of state: "[[_Standards/WikiData/WD~Presidency of Bosnia and Herzegovina,844944]]"
+culture: "[[_Standards/WikiData/WD~culture of Bosnia and Herzegovina,1019094]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+central bank: "[[_Standards/WikiData/WD~Central Bank of Bosnia and Herzegovina,1184535]]"
+replaces: "[[_Standards/WikiData/WD~Republic of Bosnia and Herzegovina,1274468]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Bosnia and Herzegovina,1275640]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Bosnia and Herzegovina,1778260]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Bosnia and Herzegovina,2039345]]"
+legislative body: "[[_Standards/WikiData/WD~Parliamentary Assembly of Bosnia and Herzegovina,2604031]]"
+executive body: "[[_Standards/WikiData/WD~Council of Ministers of Bosnia and Herzegovina,5176455]]"
+applies to jurisdiction: "[[_Standards/WikiData/WD~Council of Ministers of Bosnia and Herzegovina,5176455]]"
+public holiday: "[[_Standards/WikiData/WD~Independence Day,6015972]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Bosnia and Herzegovina,7112205]]"
+geoshape: http://commons.wikimedia.org/data/main/Data:Bosnia.map
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Bosnien-Herzegowina.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Bosnia%20i%20Hercegovina.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Bosnia%20%C8%99i%20Her%C8%9Begovina.wav
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Trebinje%20banner.jpg
+official website: http://www.fbihvlada.gov.ba
+IPA transcription: ˈbos⁽ʲ⁾nʲɪjə ɪɡʲɪrt͡sɨɡɐˈvʲinə
+country calling code: "+387"
+subreddit: bih
+Commons gallery: Bosna i Hercegovina / Босна и Херцеговина
+GitHub topic: bosnia-and-herzegovina
+CIVICUS Monitor country entry: bosnia-herzegovina
+hashtag: BosniaandHerzegovina
 ---
 
 # [[Bosnia_and_Herzegovina]] 
@@ -52,6 +402,17 @@ Capital :: [[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/S
 [has_place_latitude::43.87]
 
 
+## #has_/text_of_/abstract 
+
+> **Bosnia and Herzegovina** (Serbo-Croatian: Bosna i Hercegovina, Босна и Херцеговина), sometimes known as Bosnia-Herzegovina and informally as Bosnia, is a country in Southeast Europe, situated on the Balkan Peninsula. It borders Serbia to the east, Montenegro to the southeast, and Croatia to the north and southwest. In the south it has a 20-kilometre-long (12-mile) coast on the Adriatic Sea, with the town of Neum being its only access to the sea. Bosnia has a moderate continental climate with hot summers and cold, snowy winters. In the central and eastern regions, the geography is mountainous, in the northwest it is moderately hilly, and in the northeast it is predominantly flat. Herzegovina, the smaller, southern region, has a Mediterranean climate and is mostly mountainous. Sarajevo is the capital and the largest city.
+>
+> The area has been inhabited since at least the Upper Paleolithic, but evidence suggests that during the Neolithic age, permanent human settlements were established, including those that belonged to the Butmir, Kakanj, and Vučedol cultures. After the arrival of the first Indo-Europeans, the area was populated by several Illyrian and Celtic civilizations. The ancestors of the South Slavic peoples that populate the area today arrived during the 6th through the 9th century. In the 12th century, the Banate of Bosnia was established; by the 14th century, this had evolved into the Kingdom of Bosnia. In the mid-15th century, it was annexed into the Ottoman Empire, under whose rule it remained until the late 19th century; the Ottomans brought Islam to the region. From the late 19th century until World War I, the country was annexed into the Austro-Hungarian monarchy. In the interwar period, Bosnia and Herzegovina was part of the Kingdom of Yugoslavia.  After World War II, it was granted full republic status in the newly formed Socialist Federal Republic of Yugoslavia. In 1992, following the breakup of Yugoslavia, the republic proclaimed independence. This was followed by the Bosnian War, which lasted until late 1995 and ended with the signing of the Dayton Agreement.
+>
+> The country is home to three main ethnic groups: Bosniaks are the largest group, Serbs the second-largest, and Croats the third-largest. Minorities include Jews, Roma, Albanians, Montenegrins, Ukrainians and Turks. Bosnia and Herzegovina has a bicameral legislature and a three-member presidency made up of one member from each of the three major ethnic groups. However, the central government's power is highly limited, as the country is largely decentralized. It comprises two autonomous entities—the Federation of Bosnia and Herzegovina and Republika Srpska—and a third unit, the Brčko District, which is condominium of both entities, but governed by its own local government.
+>
+> Bosnia and Herzegovina is a developing country and ranks 74th in the 2018 Human Development Index. Its economy is dominated by industry and agriculture, followed by tourism and the service sector. Tourism has increased significantly in recent years. The country has a social-security and universal-healthcare system, and primary and secondary level education is free. It is a member of the United Nations, the Organization for Security and Co-operation in Europe, the Council of Europe, the Partnership for Peace, and the Central European Free Trade Agreement; it is also a founding member of the Union for the Mediterranean, established in July 2008. Bosnia and Herzegovina is an EU candidate country and has also been a candidate for NATO membership since April 2010.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bosnia%20and%20Herzegovina)
 
 ## Confidential Links & Embeds: 
 

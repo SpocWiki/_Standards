@@ -1,0 +1,57 @@
+---
+has_id_wikidata: Q12284
+has part(s): "[[_Standards/WikiData/WD~lock,105731]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~infrastructure,121359]]"
+  - "[[_Standards/WikiData/WD~watercourse,355304]]"
+  - "[[_Standards/WikiData/WD~architectural structure,811979]]"
+  - "[[_Standards/WikiData/WD~hydraulic structure,2466889]]"
+  - "[[_Standards/WikiData/WD~linear construction,11794693]]"
+  - "[[_Standards/WikiData/WD~artificial body of water,12376661]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Arkeologisen kulttuuriperinnön opas,65109596]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 9,124737636]]"
+instance of:
+  - "[[_Standards/WikiData/WD~type of watercourse,1428660]]"
+  - "[[_Standards/WikiData/WD~type of structure,111972893]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Infobox canal,6500619]]"
+label in sign language: http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20N%201%201%201%20-%20Elix.webm
+OmegaWiki Defined Meaning: "478"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Saimaa%20canal%20at%20Lappeenranta%20Finland.jpg
+exact match: http://purl.obolibrary.org/obo/ENVO_00000014
+equivalent class: https://schema.org/Canal
+Wolfram Language entity type: Canal
+Commons gallery: Canal
+Commons category: Canals
+GeoNames feature code:
+  - H.CNL
+  - H.CNLN
+OpenStreetMap tag or key: Tag:waterway=canal
+Krugosvet article: tehnologiya-i-promyshlennost/kanal
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Canal**s or artificial waterways are waterways or engineered channels built for drainage management (e.g. flood control and irrigation) or for conveyancing water transport vehicles (e.g. water taxi). They carry free, calm surface flow under atmospheric pressure, and can be thought of as artificial rivers.
+>
+> In most cases, a canal has a series of dams and locks that create reservoirs of low speed current flow. These reservoirs are referred to as slack water levels, often just called levels. A canal can be called a navigation canal when it parallels a natural river and shares part of the latter's discharges and drainage basin, and leverages its resources by building dams and locks to increase and lengthen its stretches of slack water levels while staying in its valley.
+>
+> A canal can cut across a drainage divide atop a ridge, generally requiring an external water source above the highest elevation. The best-known example of such a canal is the Panama Canal.
+>
+> Many canals have been built at elevations, above valleys and other waterways. Canals with sources of water at a higher level can deliver water to a destination such as a city where water is needed. The Roman Empire's aqueducts were such water supply canals.
+>
+> The term was once used to describe linear features seen on the surface of Mars, Martian canals, an optical illusion.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Canal)
+
+
+
+

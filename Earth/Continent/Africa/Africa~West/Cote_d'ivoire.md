@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 6.85
   - -5.3
@@ -11,6 +11,392 @@ isDeleted: false
 confidential: public
 aliases:
   - Ivory Coast
+named after:
+  - "[[_Standards/WikiData/WD~coast,93352]]"
+  - "[[_Standards/WikiData/WD~elephant ivory,29838213]]"
+flag: "[[_Standards/WikiData/WD~flag of Ivory Coast,102967]]"
+member of:
+  - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
+  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Conseil de l'Entente,945574]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Mano River Union,1505172]]"
+  - "[[_Standards/WikiData/WD~OHADA,2029901]]"
+  - "[[_Standards/WikiData/WD~AFRISTAT,3348506]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~African Union,7159]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Zanzan Region,147081]]"
+  - "[[_Standards/WikiData/WD~Moyen-Comoé,303645]]"
+  - "[[_Standards/WikiData/WD~Agnéby,395166]]"
+  - "[[_Standards/WikiData/WD~Lagunes region,639491]]"
+  - "[[_Standards/WikiData/WD~Denguélé Region,729010]]"
+  - "[[_Standards/WikiData/WD~Bafing Region,799800]]"
+  - "[[_Standards/WikiData/WD~Bas-Sassandra Region,809733]]"
+  - "[[_Standards/WikiData/WD~Fromager,818774]]"
+  - "[[_Standards/WikiData/WD~Dix-Huit Montagnes,820486]]"
+  - "[[_Standards/WikiData/WD~Marahoué Region,839083]]"
+  - "[[_Standards/WikiData/WD~N'zi-Comoé,842491]]"
+  - "[[_Standards/WikiData/WD~Sud-Comoé,842495]]"
+  - "[[_Standards/WikiData/WD~Moyen-Cavally,842499]]"
+  - "[[_Standards/WikiData/WD~Lacs Region,845706]]"
+  - "[[_Standards/WikiData/WD~Haut-Sassandra,845709]]"
+  - "[[_Standards/WikiData/WD~Sud-Bandama,845713]]"
+  - "[[_Standards/WikiData/WD~Vallée du Bandama Region,845721]]"
+  - "[[_Standards/WikiData/WD~Worodougou,846056]]"
+  - "[[_Standards/WikiData/WD~Savanes Region,853460]]"
+production statistics: "[[_Standards/WikiData/WD~cocoa bean,208008]]"
+replaces:
+  - "[[_Standards/WikiData/WD~French West Africa,210682]]"
+  - "[[_Standards/WikiData/WD~French Ivory Coast,39074482]]"
+anthem: "[[_Standards/WikiData/WD~L'Abidjanaise,242718]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Ivory Coast,320699]]"
+central bank: "[[_Standards/WikiData/WD~Central Bank of West African States,620942]]"
+highest point: "[[_Standards/WikiData/WD~Mount Richard-Molard,849129]]"
+currency: "[[_Standards/WikiData/WD~West African CFA franc,861690]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+history of topic:
+  - "[[_Standards/WikiData/WD~history of Ivory Coast,947365]]"
+  - "[[_Standards/WikiData/WD~history of Ivory Coast,5865014]]"
+language used:
+  - "[[_Standards/WikiData/WD~Dan,1158971]]"
+  - "[[_Standards/WikiData/WD~Mwan,3320111]]"
+  - "[[_Standards/WikiData/WD~Tiagba,3400073]]"
+  - "[[_Standards/WikiData/WD~Mbre,3450154]]"
+  - "[[_Standards/WikiData/WD~Anyin Morofo,3502338]]"
+  - "[[_Standards/WikiData/WD~Wan,3913272]]"
+  - "[[_Standards/WikiData/WD~Beng,3913311]]"
+  - "[[_Standards/WikiData/WD~Gagu,3913317]]"
+  - "[[_Standards/WikiData/WD~Tonjon,3913372]]"
+  - "[[_Standards/WikiData/WD~Yaure,3913951]]"
+  - "[[_Standards/WikiData/WD~Khisa,3913955]]"
+  - "[[_Standards/WikiData/WD~Lomakka,3913961]]"
+  - "[[_Standards/WikiData/WD~Godié,3914412]]"
+  - "[[_Standards/WikiData/WD~Kwadia,3914867]]"
+  - "[[_Standards/WikiData/WD~Wané,3914887]]"
+  - "[[_Standards/WikiData/WD~Ega,3914927]]"
+  - "[[_Standards/WikiData/WD~Mbato,3914941]]"
+  - "[[_Standards/WikiData/WD~Glio-Ubi,3914977]]"
+  - "[[_Standards/WikiData/WD~Eotile,3915347]]"
+  - "[[_Standards/WikiData/WD~Wobé,3915363]]"
+  - "[[_Standards/WikiData/WD~Daho-Doo,3915369]]"
+  - "[[_Standards/WikiData/WD~Gagnoa Bété,5005069]]"
+  - "[[_Standards/WikiData/WD~Tura,7853636]]"
+  - "[[_Standards/WikiData/WD~Cebaara,10975121]]"
+  - "[[_Standards/WikiData/WD~Plapo Krumen,10975356]]"
+  - "[[_Standards/WikiData/WD~Western Krahn,10975611]]"
+  - "[[_Standards/WikiData/WD~Lakota Dida,11001730]]"
+  - "[[_Standards/WikiData/WD~Mahou,11004334]]"
+  - "[[_Standards/WikiData/WD~Bete Guiberoua,11019185]]"
+  - "[[_Standards/WikiData/WD~Wojenaka,11029540]]"
+  - "[[_Standards/WikiData/WD~Bondoukou Kulango,11031321]]"
+  - "[[_Standards/WikiData/WD~Jeri Kuo,11031936]]"
+  - "[[_Standards/WikiData/WD~Tepo Krumen,11152243]]"
+  - "[[_Standards/WikiData/WD~Koyaga,11155632]]"
+  - "[[_Standards/WikiData/WD~Bete Daloa,11155819]]"
+  - "[[_Standards/WikiData/WD~Worodougou,11155821]]"
+  - "[[_Standards/WikiData/WD~Pye Krumen,11157382]]"
+  - "[[_Standards/WikiData/WD~Western Wee,11159067]]"
+  - "[[_Standards/WikiData/WD~Koro,11160588]]"
+  - "[[_Standards/WikiData/WD~Southern Wee,19921582]]"
+  - "[[_Standards/WikiData/WD~Bouna Kulango,20668241]]"
+  - "[[_Standards/WikiData/WD~Yocoboué Dida,21074781]]"
+  - "[[_Standards/WikiData/WD~Southern Birifor,32859745]]"
+  - "[[_Standards/WikiData/WD~Kla-Dan,63257856]]"
+  - "[[_Standards/WikiData/WD~Anyin,28395]]"
+  - "[[_Standards/WikiData/WD~Dioula,32706]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~Bambara,33243]]"
+  - "[[_Standards/WikiData/WD~Nyabwa,33664]]"
+  - "[[_Standards/WikiData/WD~Adjukru,34738]]"
+  - "[[_Standards/WikiData/WD~Abure,34767]]"
+  - "[[_Standards/WikiData/WD~Abidji,34781]]"
+  - "[[_Standards/WikiData/WD~Apro,34810]]"
+  - "[[_Standards/WikiData/WD~Bonol,34831]]"
+  - "[[_Standards/WikiData/WD~Abé,34833]]"
+  - "[[_Standards/WikiData/WD~Alladian,34837]]"
+  - "[[_Standards/WikiData/WD~Avikam,34840]]"
+  - "[[_Standards/WikiData/WD~Attié,34844]]"
+  - "[[_Standards/WikiData/WD~Bakwé,34899]]"
+  - "[[_Standards/WikiData/WD~Cerma,35074]]"
+  - "[[_Standards/WikiData/WD~Baoulé,35107]]"
+  - "[[_Standards/WikiData/WD~Guro,35251]]"
+  - "[[_Standards/WikiData/WD~Djimini,35336]]"
+  - "[[_Standards/WikiData/WD~Krobu,35586]]"
+  - "[[_Standards/WikiData/WD~Kuya,35595]]"
+  - "[[_Standards/WikiData/WD~Lobi,35807]]"
+  - "[[_Standards/WikiData/WD~Mobu,35967]]"
+  - "[[_Standards/WikiData/WD~Nyarafolo,36306]]"
+  - "[[_Standards/WikiData/WD~Shempire,36325]]"
+  - "[[_Standards/WikiData/WD~Nzema,36337]]"
+  - "[[_Standards/WikiData/WD~Palaka,36346]]"
+  - "[[_Standards/WikiData/WD~Neyo,36410]]"
+  - "[[_Standards/WikiData/WD~Lorhon,36467]]"
+  - "[[_Standards/WikiData/WD~Tagwana,36514]]"
+  - "[[_Standards/WikiData/WD~Ebrié,36644]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~Type E,2335536]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Ivory Coast,1528537]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Ivory Coast,2088533]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Ivory Coast,2661724]]"
+foundational text: "[[_Standards/WikiData/WD~Constitution of Ivory Coast,2995135]]"
+culture: "[[_Standards/WikiData/WD~culture of Ivory Coast,3007439]]"
+office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Ivory Coast,3401763]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of the Ivory Coast,3409195]]"
+head of government: "[[_Standards/WikiData/WD~Robert Beugré Mambé,3434569]]"
+instance of:
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~111,4547309]]"
+  - "[[_Standards/WikiData/WD~110,25648823]]"
+  - "[[_Standards/WikiData/WD~185,25648854]]"
+  - "[[_Standards/WikiData/WD~180,25648853]]"
+  - "[[_Standards/WikiData/WD~170,25743493]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~Africa_Abidjan,4689469]]"
+  - "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
+topic's main template: "[[_Standards/WikiData/WD~Q10707367,10707367]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Ivory Coast,11170150]]"
+railway traffic side: "[[_Standards/WikiData/WD~left,13196750]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Ivory Coast,17004621]]"
+legislative body: "[[_Standards/WikiData/WD~Parliament of Ivory Coast,27881072]]"
+has characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+coordinates of southernmost point: Point(-7.525 4.361805555)
+EAGLE id: dates/lod/351
+Wolfram Language entity code: Entity["Concept", "CoteDIvoire::xrhh5"]
+UMLS CUI: C0022326
+demonym:
+  - إڤواري
+  - إڤوارية
+  - إڤواريين
+  - إڤوارييات
+  - Ivorian
+  - إيفواري
+  - إيفوارية
+  - إيفواريون
+  - costamarfiliega
+  - costamarfiliegu
+  - আইভোরীয়
+  - ivorià
+  - ivoriana
+  - ivorianes
+  - ivorians
+  - ivorianer
+  - Ivoirian
+  - Ebur-Bordano
+  - marfileña
+  - marfileño
+  - Ivoirien
+  - Ivoirienne
+  - מחוף השנהב
+  - elefántcsontparti
+  - ivoriana
+  - ivoriane
+  - ivoriani
+  - ivoriano
+  - ivorian
+  - ivorian
+  - ivoriană
+  - ivorieni
+  - ивуариец
+  - ивуарийка
+  - ивуарийцы
+  - ivorian
+  - ivoriana
+  - ivoriane
+  - ivoriani
+  - Viorajolänan
+ISNI: "0000000123317877"
+coordinates of easternmost point: Point(-2.493027777 8.206472222)
+motto text:
+  - Undod – Disgyblaeth – Gwaith
+  - Unió - disciplina - treball
+  - Единство - дисциплина - труд
+  - Unity – Discipline – Work
+  - Union – Discipline – Travail
+official website: https://www.gouv.ci
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ivory%20Coast%20-%20Location%20Map%20%282013%29%20-%20CIV%20-%20UNOCHA.svg
+coordinates of northernmost point: Point(-6.25 10.73)
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Ghana,117]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Mali,912]]"
+  - "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+  - "[[_Standards/WikiData/WD~Guinea,1006]]"
+  - "[[_Standards/WikiData/WD~Liberia,1014]]"
+  - "[[_Standards/WikiData/WD~Ghana,117]]"
+country: "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+capital: "[[_Standards/WikiData/WD~Yamoussoukro,3768]]"
+located in/on physical feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
+part of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+basic form of government: "[[_Standards/WikiData/WD~republic,7270]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
+located in or next to body of water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+official language: "[[_Standards/WikiData/WD~French,150]]"
+marriageable age:
+  - 20
+  - 18
+VAT rate: 18
+age of majority: 21
+mains voltage: 230
+BTI Governance Index:
+  - 4.4
+  - 5.4
+  - 1.83
+  - 1.84
+  - 2.17
+  - 2.91
+  - 5.13
+  - 5.47
+  - 5.54
+Human Development Index: 0.55
+suicide rate: 14.5
+top-level Internet domain: "[[_Standards/WikiData/WD~.ci,40333]]"
+lowest point: "[[_Standards/WikiData/WD~Gulf of Guinea,41430]]"
+BTI Status Index:
+  - 3.14
+  - 3.22
+  - 3.31
+  - 3.53
+  - 4.53
+  - 4.97
+  - 5.09
+  - 5.38
+  - 5.49
+Inequality-adjusted Human Development Index: 0.358
+Gini coefficient: 37.2
+Happy Planet Index score: 39.6
+Democracy Index: 4.11
+maritime identification digits: "619"
+head of state: "[[_Standards/WikiData/WD~Alassane Ouattara,57413]]"
+ISO 3166-1 numeric code: "384"
+M49 code: "384"
+mobile country code: "612"
+licence plate code: CI
+ISO 3166-1 alpha-2 code: CI
+WIPO ST.3: CI
+total fertility rate: 5.001
+death rate:
+  - 8.728
+  - 8.817
+  - 8.843
+  - 9.001
+FIPS 10-4 (countries and regions): IV
+GS1 country code: "618"
+birth rate:
+  - 33.492
+  - 33.934
+  - 34.197
+  - 34.554
+IAB code: "1276"
+life expectancy: 53.582
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg
+Unicode character: 🇨🇮
+EPSG CRS: "6226"
+OmegaWiki Defined Meaning: "7929"
+INSEE countries and foreign territories code: "99326"
+Dewey Decimal Classification: 2--6668
+PM20 geo code:
+  - C37
+  - C33
+area: 322463
+ISO 3166-1 alpha-3 code: CIV
+IOC country code: CIV
+male population:
+  - 14215570
+  - 13218128
+  - 13547621
+  - 13877714
+urban population:
+  - 14338150
+  - 13397744
+  - 13863304
+  - 14829623
+U.S. National Archives Identifier: "10035718"
+ITU letter code: CTI
+inception: 1960-01-01T00:00:00Z
+rural population:
+  - 12749807
+  - 12948486
+  - 13140099
+  - 13330919
+female population:
+  - 12929424
+  - 13264169
+  - 13600535
+  - 13944972
+Commons category: Ivory Coast
+locator map image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationCotedIvoire.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/CIV%20orthographic.svg
+official name:
+  - Côte d'Ivoire
+  - Republic of Côte d’Ivoire
+  - la République de Côte d’Ivoire
+  - République de Côte d’Ivoire
+  - Repubblica della Costa d'Avorio
+coordinate location: Point(-6.0 8.0)
+population: 31165654
+nominal GDP:
+  - 71811075955
+  - 70018715017
+geoshape: http://commons.wikimedia.org/data/main/Data:Ivory+Coast.map
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ivory%20Coast%20%282%29.svg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%B3%D8%A7%D8%AD%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%AC.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Coasta%20de%20Filde%C8%99.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A7%8B%E0%A6%A4%20%E0%A6%A6%E0%A6%BF%E0%A6%AD%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0.wav
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/San%20P%C3%A9dro%20banner%20Beach.jpg
+IPA transcription: "'ɛlfənbeːnsçʏstn̩"
+country calling code: "+225"
+Libris-URI: 53hkj1tp10n5rtj
+Commons gallery: Côte d'Ivoire
+CIVICUS Monitor country entry: cote-divoire
+subreddit:
+  - Cotedivoire
+  - IvoryCoast
+hashtag: IvoryCoast
+Krugosvet article: strany-mira/kot-divuar
+MeSH tree code: Z01.058.290.190.272
+native label: République de Côte d'Ivoire
+short name: 🇨🇮
+coordinates of westernmost point: Point(-8.602055555 6.506388888)
 ---
 
 # [[Cote_d'ivoire]] 
@@ -45,6 +431,17 @@ Capital :: [[Yamoussoukro]]
 [Language-Id::496]
 [has_place_longitude::-5.3]
 [has_place_latitude::6.85]
+
+
+## #has_/text_of_/abstract 
+
+> **Ivory Coast**, also known as Côte d'Ivoire and officially the Republic of Côte d'Ivoire, is a country on the southern coast of West Africa. Its capital city of Yamoussoukro is located in the centre of the country, while its largest city and economic centre is the port city of Abidjan. It borders Guinea to the northwest, Liberia to the west, Mali to the northwest, Burkina Faso to the northeast, Ghana to the east, and the Atlantic Ocean's Gulf of Guinea to the south. With 31.5 million inhabitants in 2024, Ivory Coast is the third-most populous country in West Africa. Its official language is French, and indigenous languages are also widely used, including Bété, Baoulé, Dyula, Dan, Anyin, and Cebaara Senufo. In total, there are around 78 languages spoken in Ivory Coast. The country has a religiously diverse population, including numerous followers of Islam, Christianity, and traditional faiths often entailing animism.
+>
+> Before its colonisation, Ivory Coast was home to several states, including Gyaaman, the Kong Empire, and Baoulé. The area became a protectorate of France in 1843 and was consolidated as a French colony in 1893 amid the Scramble for Africa. It achieved independence in 1960, led by Félix Houphouët-Boigny, who ruled the country until 1993. Relatively stable by regional standards, Ivory Coast established close political-economic ties with its West African neighbours while maintaining close relations with the West, especially France. Its stability was diminished by a coup d'état in 1999 and two civil wars—first between 2002 and 2007 and again during 2010–2011. It adopted a new constitution in 2016.
+>
+> Ivory Coast is a republic with strong executive power vested in its president. Through the production of coffee and cocoa, it was an economic powerhouse in West Africa during the 1960s and 1970s, then experienced an economic crisis in the 1980s, contributing to a period of political and social turmoil that extended until 2011. Ivory Coast has again experienced high economic growth since the return of peace and political stability in 2011. From 2012 to 2023, the economy grew by an average of 7.1% per year in real terms, the second-fastest rate of economic growth in Africa and fourth-fastest rate in the world. In 2023, Ivory Coast had the second-highest GDP per capita in West Africa, behind Cape Verde. Despite this, as of the most recent survey in 2016, 46.1% of the population continues to be affected by multidimensional poverty. In 2020, Ivory Coast was the world's largest exporter of cocoa beans and had high levels of income for its region. The economy still relies heavily on agriculture, with smallholder cash-crop production predominating.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Ivory%20Coast) 
 
 
 

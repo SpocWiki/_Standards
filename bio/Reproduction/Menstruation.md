@@ -1,0 +1,38 @@
+---
+has_id_wikidata: Q12171
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+instance of: "[[_Standards/WikiData/WD~biological process,2996394]]"
+facet of:
+  - "[[_Standards/WikiData/WD~human reproduction,3427336]]"
+  - "[[_Standards/WikiData/WD~women's health,8031191]]"
+subclass of: "[[_Standards/WikiData/WD~menstruation,17155666]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
+DOI: 10.1163/1875-3922_Q3_EQSIM_00278
+OmegaWiki Defined Meaning: "343457"
+described at URL:
+  - http://bacsisaigon.net/kinh-nguyet-mau-den.html
+  - http://bacsisaigon.net/kinh-nguyet-mau-nau.html
+image: http://commons.wikimedia.org/wiki/Special:FilePath/MenstrualCycle2%20es.svg
+WordLift URL: http://data.thenextweb.com/tnw/entity/menstruation
+Iconclass notation: 31A223623
+Commons category: Menstruation
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Menstruation** (also known as a period, among other colloquial terms) is the regular discharge of blood and mucosal tissue from the inner lining of the uterus through the vagina. The menstrual cycle is characterized by the rise and fall of hormones. Menstruation is triggered by falling progesterone levels, and is a sign that pregnancy has not occurred.
+>
+> The first period, a point in time known as menarche, usually begins between the ages of 11 and 13. Menstruation starting as young as 8 years would still be considered normal. The average age of the first period is generally later in the developing world, and earlier in the developed world. The typical length of time between the first day of one period and the first day of the next is 21 to 45 days in young women. In adults, the range is between 21 and 35 days with the average being 28 days. Bleeding usually lasts around 2 to 7 days. Periods stop during pregnancy and typically do not resume during the initial months of breastfeeding. Lochia occurs after childbirth. Menstruation, and with it the possibility of pregnancy, ceases after menopause, which usually occurs between 45 and 55 years of age.
+>
+> 
+>
+> Up to 80% of women do not experience problems sufficient to disrupt daily functioning either during menstruation or in the days leading up to menstruation. Symptoms in advance of menstruation that do interfere with normal life are called premenstrual syndrome (PMS). Some 20 to 30% of women experience PMS, with 3 to 8% experiencing severe symptoms. These include acne, tender breasts, bloating, feeling tired, irritability, and mood changes. Other symptoms some women experience include painful periods (estimates are between 50 and 90%) and heavy bleeding during menstruation and abnormal bleeding at any time during the menstrual cycle. A lack of periods, known as amenorrhea, is when periods do not occur by age 15 or have not re-occurred in 90 days.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Menstruation)
+

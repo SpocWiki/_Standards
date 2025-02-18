@@ -1,0 +1,54 @@
+---
+aliases:
+  - Mount Kilimanjaro
+has_id_wikidata: Q7296
+located in/on physical feature: "[[_Standards/WikiData/WD~Great Rift Valley,81591]]"
+part of:
+  - "[[_Standards/WikiData/WD~Great Rift Valley,81591]]"
+  - "[[_Standards/WikiData/WD~Seven Summits,208126]]"
+  - "[[_Standards/WikiData/WD~Highest mountain peaks of Africa,1834036]]"
+  - "[[_Standards/WikiData/WD~Volcanic Seven Summits,3056175]]"
+  - "[[_Standards/WikiData/WD~ultra-prominent peak,3116906]]"
+  - "[[_Standards/WikiData/WD~Seven Third Summits,17084245]]"
+made from material: "[[_Standards/WikiData/WD~rhyolite,190727]]"
+located in the administrative territorial entity: "[[_Standards/WikiData/WD~Kilimanjaro Region,328922]]"
+instance of:
+  - "[[_Standards/WikiData/WD~tourist attraction,570116]]"
+  - "[[_Standards/WikiData/WD~massif,1061151]]"
+  - "[[_Standards/WikiData/WD~dormant volcano,1325302]]"
+located in protected area: "[[_Standards/WikiData/WD~Kilimanjaro National Park,756790]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+different from: "[[_Standards/WikiData/WD~Kilimanjaro International Airport,1365099]]"
+highest point: "[[_Standards/WikiData/WD~Mount Kibo,1394606]]"
+mountain range: "[[_Standards/WikiData/WD~East African mountains,17009782]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mt.%20Kilimanjaro%2012.2006.jpg
+country: "[[_Standards/WikiData/WD~Tanzania,924]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
+topographic isolation: 5510
+topographic prominence: 5895
+elevation above sea level: 5895
+coordinate location: Point(37.359166666 -3.066666666)
+U.S. National Archives Identifier: "10038408"
+Commons gallery: Kilimanjaro
+Commons category: Kilimanjaro
+native label: Kilimanjaro
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Kilimanjaro%20banner.jpg
+Libris-URI: gdsvtjz04dk2szm
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Mount Kilimanjaro** () is a dormant volcano in Tanzania. It is the highest mountain in Africa and one of the highest free-standing mountains above sea level in the world, at 5,895 m (19,341 ft) above sea level and 4,900 m (16,100 ft) above its plateau base. It is also the highest volcano in the Eastern Hemisphere and the fourth most topographically prominent peak on Earth.
+>
+> Kilimanjaro's southern and eastern slopes served as the home of the Chagga Kingdoms until their abolition in 1963 by Julius Nyerere. The origin and meaning of the name Kilimanjaro is unknown, but may mean "mountain of greatness" or "unclimbable". Although described in classical sources, German missionary Johannes Rebmann is credited as the first European to report the mountain's existence, in 1848. After several European attempts, Hans Meyer reached Kilimanjaro's highest summit in 1889.
+>
+> The mountain was incorporated into Kilimanjaro National Park in 1973. As one of the Seven Summits, Kilimanjaro is a major hiking and climbing destination. There are seven established routes to Uhuru Peak, the mountain's highest point. Although not as technically challenging as similar mountains, the prominence of Kilimanjaro poses a serious risk of altitude sickness.
+>
+> One of several mountains arising from the East African Rift, Kilimanjaro was formed from volcanic activity over 2 million years ago. Its slopes host montane forests and cloud forests. Multiple species are endemic to Mount Kilimanjaro, including the giant groundsel Dendrosenecio kilimanjari. The mountain possesses a large ice cap and the largest glaciers in Africa, including Credner Glacier, Furtwängler Glacier, and the Rebmann Glacier. This ice cap is rapidly shrinking, with over 80% lost in the 20th century. The cap is projected to disappear entirely by the mid-21st century.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Kilimanjaro) 
+

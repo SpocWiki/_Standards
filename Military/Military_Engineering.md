@@ -1,0 +1,54 @@
+---
+has_id_wikidata: Q158797
+aliases:
+  - Military engineering
+practiced by:
+  - "[[_Standards/WikiData/WD~military engineer,151197]]"
+  - "[[_Standards/WikiData/WD~sapper,1324245]]"
+  - "[[_Standards/WikiData/WD~combat engineer,101497855]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+instance of: "[[_Standards/WikiData/WD~military branch,781132]]"
+said to be the same as: "[[_Standards/WikiData/WD~Ingenieurkorps,1421548]]"
+catchphrase: ubique
+motto text:
+  - ubique
+  - xingu
+BHCL UUID: c19d8b51-6631-477d-9e73-d7839569bfbf
+subclass of: "[[_Standards/WikiData/WD~engineering,11023]]"
+field of work: "[[_Standards/WikiData/WD~engineering,11023]]"
+Dewey Decimal Classification: "623"
+U.S. National Archives Identifier: "10643231"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%9F%D0%9F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BD%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%208.jpg
+Commons category: Military engineering
+Krugosvet article: nauka_i_tehnika/voennaya_tehnika/VOENNO-INZHENERNOE_DELO.html
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Military engineering** is loosely defined as the art, science, 
+> and practice of designing and building military works 
+> and maintaining lines of military transport and military communications. 
+> 
+> Military engineers are also responsible for logistics behind military tactics. 
+> Modern military engineering differs from civil engineering. 
+> In the 20th and 21st centuries, military engineering also includes CBRN defense 
+> and other engineering disciplines such as mechanical and electrical engineering techniques.
+>
+> According to NATO, "military engineering is that engineer activity undertaken, regardless of component or service, to shape the physical operating environment. Military engineering incorporates support to maneuver and to the force as a whole, including military engineering functions such as engineer support to force protection, counter-improvised explosive devices, environmental protection, engineer intelligence and military search. Military engineering does not encompass the activities undertaken by those 'engineers' who maintain, repair and operate vehicles, vessels, aircraft, weapon systems and equipment."
+>
+> Military engineering is an academic subject taught in military academies or schools of military engineering. The construction and demolition tasks related to military engineering are usually performed by military engineers including soldiers trained as sappers or pioneers. In modern armies, soldiers trained to perform such tasks while well forward in battle and under fire are often called combat engineers.
+>
+> In some countries, military engineers may also perform non-military construction tasks in peacetime such as flood control and river navigation works, but such activities do not fall within the scope of military engineering.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Military%20engineering) 
+
+
+
+
+

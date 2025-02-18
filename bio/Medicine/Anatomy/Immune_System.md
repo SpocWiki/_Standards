@@ -1,0 +1,31 @@
+---
+has_id_wikidata: Q1059
+studied in: "[[_Standards/WikiData/WD~immunology,101929]]"
+has effect: "[[_Standards/WikiData/WD~immunity,182581]]"
+subclass of:
+  - "[[_Standards/WikiData/WD~organ system,188193]]"
+  - "[[_Standards/WikiData/WD~biological system,30336093]]"
+has part(s): "[[_Standards/WikiData/WD~memory T cell,2304808]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Lymph immune and complement navs,11112574]]"
+development of anatomical structure: "[[_Standards/WikiData/WD~immune system development,14863467]]"
+instance of: "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
+UMLS CUI: C0020962
+Commons category: Immune system
+WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/immune_system_2
+MeSH tree code: A15.382
+---
+
+
+## #has_/text_of_/abstract 
+
+> The **Immune system** is a network of biological systems that protects an organism from diseases. It detects and responds to a wide variety of pathogens, from viruses to bacteria, as well as cancer cells, parasitic worms, and also objects such as wood splinters, distinguishing them from the organism's own healthy tissue. Many species have two major subsystems of the immune system. The innate immune system provides a preconfigured response to broad groups of situations and stimuli. The adaptive immune system provides a tailored response to each stimulus by learning to recognize molecules it has previously encountered. Both use molecules and cells to perform their functions.
+>
+> Nearly all organisms have some kind of immune system. Bacteria have a rudimentary immune system in the form of enzymes that protect against viral infections. Other basic immune mechanisms evolved in ancient plants and animals and remain in their modern descendants. These mechanisms include phagocytosis, antimicrobial peptides called defensins, and the complement system. Jawed vertebrates, including humans, have even more sophisticated defense mechanisms, including the ability to adapt to recognize pathogens more efficiently. Adaptive (or acquired) immunity creates an immunological memory leading to an enhanced response to subsequent encounters with that same pathogen. This process of acquired immunity is the basis of vaccination.
+>
+> Dysfunction of the immune system can cause autoimmune diseases, inflammatory diseases and cancer. Immunodeficiency occurs when the immune system is less active than normal, resulting in recurring and life-threatening infections. In humans, immunodeficiency can be the result of a genetic disease such as severe combined immunodeficiency, acquired conditions such as HIV/AIDS, or the use of immunosuppressive medication. Autoimmunity results from a hyperactive immune system attacking normal tissues as if they were foreign organisms. Common autoimmune diseases include Hashimoto's thyroiditis, rheumatoid arthritis, diabetes mellitus type 1, and systemic lupus erythematosus. Immunology covers the study of all aspects of the immune system.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Immune%20system)
+
+
+
+

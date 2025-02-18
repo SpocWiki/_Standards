@@ -1,37 +1,376 @@
-﻿---
+---
 location:
-    - -33.45
-    - -70.67
+  - -33.45
+  - -70.67
 type: Country
 tags:
-    - geo/Country
-has_id_wikidata: Q298 
+  - geo/Country
+has_id_wikidata: Q298
 SpocWebEntityId: 26868
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
+source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Chile
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - Chile
-    - Chili
-    - شيلي
-    - 智利
-    - Чили
-    - the Republic of Chile
-    - la República de Chile
+  - Chile
+  - Chili
+  - شيلي
+  - 智利
+  - Чили
+  - the Republic of Chile
+  - la República de Chile
 Languages:
-    - es-CL
+  - es-CL
 icon: flag-cl
+Provenio UUID: 6d152129-2582-495a-aa30-5522f23817c9
+maritime identification digits: "725"
+mobile country code: "730"
+GS1 country code: "780"
+OmegaWiki Defined Meaning: "7994"
+BHCL UUID: 81f1edbf-513f-4adb-8111-19e0c9fd1700
+INSEE countries and foreign territories code: "99417"
+IOC country code: CHI
+CIVICUS Monitor country entry:
+  - chile
+  - philippines
+subreddit: chile
+GitHub topic: chile
+Commons category: Chile
+Commons gallery: Chile
+hashtag: Chile
+ISO 3166-1 alpha-3 code: CHL
+ITU letter code: CHL
+FIPS 10-4 (countries and regions): CI
+ISO 3166-1 alpha-2 code: CL
+WIPO ST.3: CL
+Unicode character: 🇨🇱
+PM20 geo code: E85
+licence plate code: RCH
+Colon Classification: SG--7914
+Krugosvet article: strany_mira/CHILI.html
+demonym:
+  - تشيلي
+  - تشيلية
+  - تشيليون
+  - شيلي
+  - chilena
+  - chilenu
+  - চিলীয়
+  - chilener
+  - Chilene
+  - Chilenin
+  - Chilean
+  - ĉiliano
+  - chilena
+  - chileno
+  - Chilien
+  - Chilienne
+  - צ'יליאני
+  - chilei
+  - Chiliano
+  - cilena
+  - cilene
+  - cileni
+  - cileno
+  - txilan
+  - chilian
+  - chiliană
+  - chilieni
+  - чилиец
+  - чилийка
+  - чилийцы
+  - чилієць
+  - чилійка
+  - чилійці
+  - ciłen
+  - ciłena
+  - ciłene
+  - ciłeni
+  - Cilänan
+  - Sileach
+  - شيلية
+  - شيليات
+  - شيليين
+motto text:
+  - Durch Überzeugung oder mit Gewalt
+  - By Right or Might
+  - Por la razón o la fuerza
+  - Drwy Gyfiawnder neu Rym
+official name:
+  - Republik Chile
+  - Republic of Chile
+  - Chile
+  - République du Chili
+native label:
+  - Chile
+  - República de Chile
+short name: 🇨🇱
+death rate: 7.199
+birth rate: 11.755
+number of out-of-school children: 167350
+population: 19458000
+area: 756102
+rural population:
+  - 2352709
+  - 2368728
+  - 2369699
+  - 2374855
+coordinates of southernmost point: Point(-68.72005 -56.53826)
+male population:
+  - 9450404
+  - 9579957
+  - 9675022
+  - 9729531
+female population:
+  - 9589082
+  - 9720358
+  - 9818163
+  - 9874202
+coordinates of westernmost point: Point(-75.69271624 -49.01248498)
+urban population:
+  - 16686776
+  - 16931587
+  - 17118329
+  - 17234034
+coordinate location: Point(-71.0 -33.0)
+inception: 1810-09-18T00:00:00Z
+coordinates of northernmost point: Point(-69.4683 -17.49848)
+coordinates of easternmost point: Point(-66.41690522 -55.22008886)
+MeSH tree code: Z01.107.757.235
+nominal GDP:
+  - 316713577509
+  - 301025249438
+country: "[[_Standards/WikiData/WD~Chile,298]]"
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~North Korea,423]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+  - "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+  - "[[_Standards/WikiData/WD~Jamaica,766]]"
+  - "[[_Standards/WikiData/WD~Haiti,790]]"
+  - "[[_Standards/WikiData/WD~El Salvador,792]]"
+  - "[[_Standards/WikiData/WD~Costa Rica,800]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Finland,33]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Austria,40]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Belarus,184]]"
+  - "[[_Standards/WikiData/WD~Estonia,191]]"
+  - "[[_Standards/WikiData/WD~Slovakia,214]]"
+  - "[[_Standards/WikiData/WD~Czech Republic,213]]"
+  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Croatia,224]]"
+  - "[[_Standards/WikiData/WD~Cuba,241]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+shares border with:
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+member of:
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
+  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
+  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+  - "[[_Standards/WikiData/WD~Andean Community,471690]]"
+  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
+  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~Carbon Neutrality Coalition,60746147]]"
+  - "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
+  - "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+language used:
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Yaghan,531826]]"
+  - "[[_Standards/WikiData/WD~Kunza,2669181]]"
+  - "[[_Standards/WikiData/WD~Chilean Sign Language,3322112]]"
+  - "[[_Standards/WikiData/WD~Central Aymara,20526610]]"
+  - "[[_Standards/WikiData/WD~Mapudungun,33730]]"
+  - "[[_Standards/WikiData/WD~Huilliche,35531]]"
+  - "[[_Standards/WikiData/WD~Rapa Nui,36746]]"
+  - "[[_Standards/WikiData/WD~Kawésqar,56544]]"
+official language: "[[_Standards/WikiData/WD~Spanish,1321]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Arica y Parinacota Region,2109]]"
+  - "[[_Standards/WikiData/WD~Tarapacá Region,2114]]"
+  - "[[_Standards/WikiData/WD~Antofagasta Region,2118]]"
+  - "[[_Standards/WikiData/WD~Atacama Region,2120]]"
+  - "[[_Standards/WikiData/WD~Coquimbo Region,2121]]"
+  - "[[_Standards/WikiData/WD~Santiago Metropolitan Region,2131]]"
+  - "[[_Standards/WikiData/WD~O'Higgins Region,2133]]"
+  - "[[_Standards/WikiData/WD~Maule Región,2166]]"
+  - "[[_Standards/WikiData/WD~Biobío Region,2170]]"
+  - "[[_Standards/WikiData/WD~Los Lagos Region,2178]]"
+  - "[[_Standards/WikiData/WD~Araucanía Region,2176]]"
+  - "[[_Standards/WikiData/WD~Los Ríos Region,2177]]"
+  - "[[_Standards/WikiData/WD~Aysén Region,2181]]"
+  - "[[_Standards/WikiData/WD~Magellan and the Chilean Antarctic Region,2189]]"
+  - "[[_Standards/WikiData/WD~Valparaíso Region,219458]]"
+  - "[[_Standards/WikiData/WD~Ñuble Region,24076693]]"
+capital: "[[_Standards/WikiData/WD~Santiago,2887]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~UTC−05_00,5390]]"
+  - "[[_Standards/WikiData/WD~UTC−03_00,6513]]"
+instance of:
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~nation,6266]]"
+  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+  - "[[_Standards/WikiData/WD~democratic republic,5255892]]"
+part of:
+  - "[[_Standards/WikiData/WD~Latin America,12585]]"
+  - "[[_Standards/WikiData/WD~South America,18]]"
+  - "[[_Standards/WikiData/WD~Southern Cone,236118]]"
+  - "[[_Standards/WikiData/WD~ABC nations,286946]]"
+  - "[[_Standards/WikiData/WD~Hispanic America,653884]]"
+continent: "[[_Standards/WikiData/WD~South America,18]]"
+lowest point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+located in or next to body of water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+flag: "[[_Standards/WikiData/WD~flag of Chile,160872]]"
+highest point: "[[_Standards/WikiData/WD~Ojos del Salado,233836]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Chile,233996]]"
+office held by head of state: "[[_Standards/WikiData/WD~President of Chile,466956]]"
+office held by head of government: "[[_Standards/WikiData/WD~President of Chile,466956]]"
+history of topic: "[[_Standards/WikiData/WD~history of Chile,472967]]"
+anthem: "[[_Standards/WikiData/WD~National Anthem of Chile,484161]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica First Edition,5375740]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Chile,1133641]]"
+ethnic group: "[[_Standards/WikiData/WD~Chileans,1276073]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Chile,1317938]]"
+electrical plug type:
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~Type L,1520890]]"
+legislative body: "[[_Standards/WikiData/WD~National Congress of Chile,1968468]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Chile,2039322]]"
+culture: "[[_Standards/WikiData/WD~Chilean culture,2580474]]"
+central bank: "[[_Standards/WikiData/WD~Central Bank of Chile,2631674]]"
+has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+basic form of government: "[[_Standards/WikiData/WD~democratic republic,5255892]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Regions of Chile,5671354]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Chile,7112226]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Chile,10499987]]"
+railway traffic side:
+  - "[[_Standards/WikiData/WD~left,13196750]]"
+  - "[[_Standards/WikiData/WD~right,14565199]]"
+driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+head of state: "[[_Standards/WikiData/WD~Gabriel Boric,16297876]]"
+head of government: "[[_Standards/WikiData/WD~Gabriel Boric,16297876]]"
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q22828367,22828367]]"
+  - "[[_Standards/WikiData/WD~Q42311078,42311078]]"
+emergency phone number:
+  - "[[_Standards/WikiData/WD~133,25648813]]"
+  - "[[_Standards/WikiData/WD~130,25648847]]"
+  - "[[_Standards/WikiData/WD~131,25648848]]"
+  - "[[_Standards/WikiData/WD~132,25648849]]"
+  - "[[_Standards/WikiData/WD~134,79049177]]"
+executive body: "[[_Standards/WikiData/WD~Cabinet of Chile,29077203]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+open data portal: "[[_Standards/WikiData/WD~Chile’s Public Data Portal,97001450]]"
+UMLS CUI: C0008107
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Duna%20Mayor%2C%20Valle%20de%20la%20Luna%2C%20San%20Pedro%20de%20Atacama%2C%20Chile%2C%202016-02-01%2C%20DD%20164.JPG
+ISNI:
+  - "0000000121695380"
+  - "0000000121622528"
+unemployment rate: 6
+life expectancy: 80
+suicide rate: 8
+marriageable age: 18
+age of majority: 18
+VAT rate: 19
+mains voltage: 220
+total fertility rate: 1.75
+top-level Internet domain: "[[_Standards/WikiData/WD~.cl,39885]]"
+Gini coefficient: 44.9
+Happy Planet Index score: 45.6
+trunk prefix: "0"
+BTI Governance Index:
+  - 7.15
+  - 7.22
+  - 7.26
+  - 7.33
+  - 7.38
+  - 7.51
+  - 7.55
+Inequality-adjusted Human Development Index: 0.722
+Democracy Index: 7.92
+Human Development Index: 0.855
+BTI Status Index:
+  - 8.74
+  - 8.77
+  - 8.82
+  - 8.85
+  - 8.86
+  - 8.87
+  - 8.99
+geoshape: http://commons.wikimedia.org/data/main/Data:Chile.map
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/CHL%20orthographic.svg
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Chile%20%28c%29.svg
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Lascar%20summit%20banner.jpg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Chile.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Chile.wav
+official website: https://www.thisischile.cl/?lang=en
+country calling code: "+56"
+U.S. National Archives Identifier: "10035713"
+IAB code: "1271"
+ISO 3166-1 numeric code: "152"
+M49 code: "152"
+Dewey Decimal Classification: 2--83
 ---
 
 # [[Chile]] 
@@ -143,6 +482,17 @@ Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]
 [Language-Id::492]
 [has_place_longitude::-70.67]
 [has_place_latitude::-33.45]
+
+
+## #has_/text_of_/abstract 
+
+> **Chile**, officially the Republic of Chile, is a country in western South America. It is the southernmost country in the world and the closest to Antarctica, stretching along a narrow strip of land between the Andes Mountains and the Pacific Ocean. Chile had a population of 17.5 million as of the latest census in 2017 and has a territorial area of 756,102 square kilometers (291,933 sq mi), sharing borders with Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage to the south. The country also controls several Pacific islands, including Juan Fernández, Isla Salas y Gómez, Desventuradas, and Easter Island, and claims about 1,250,000 square kilometers (480,000 sq mi) of Antarctica as the Chilean Antarctic Territory. The capital and largest city of Chile is Santiago, and the national language is Spanish.
+>
+> Spain conquered and colonized the region in the mid-16th century, replacing Inca rule, but failed to conquer the autonomous tribal Mapuche people who inhabited what is now south-central Chile. Chile emerged as a relatively stable authoritarian republic in the 1830s after their 1818 declaration of independence from Spain. During the 19th century, Chile experienced significant economic and territorial growth, putting an end to Mapuche resistance in the 1880s and gaining its current northern territory in the War of the Pacific (1879–83) by defeating Peru and Bolivia. In the 20th century, up until the 1970s, Chile underwent a process of democratization and experienced rapid population growth and urbanization, while relying increasingly on exports from copper mining to support its economy. During the 1960s and 1970s, the country was marked by severe left-right political polarization and turmoil, which culminated in the 1973 Chilean coup d'état that overthrew Salvador Allende's democratically elected left-wing government. This was followed by a 16-year right-wing military dictatorship under Augusto Pinochet, in which the 1980 Chilean Constitution was made with the consultancy of the Ortúzar Commission as well as several political and economic reforms, and resulted in more than 3,000 deaths or disappearances. The regime ended in 1990, following a referendum in 1988, and was succeeded by a center-left coalition, which ruled until 2010.
+>
+> Chile is a high-income economy and is one of the most economically and socially stable nations in South America. Chile also performs well in the region in terms of sustainability of the state and democratic development. Chile is a founding member of the United Nations, the Community of Latin American and Caribbean States (CELAC), and the Pacific Alliance, and joined the OECD in 2010.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Chile) 
 
 
 

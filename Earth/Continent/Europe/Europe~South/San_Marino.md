@@ -1,3 +1,39 @@
+---
+location:
+  - 43.93
+  - 12.45
+type: Country
+tags:
+  - geo/Country
+SpocWebEntityId: 27020
+isDeleted: false
+confidential: public
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
+publish: true
+title: San Marino
+linkTitle: 
+keywords: 
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+aliases:
+  - San Marino
+  - Saint-Marin
+  - سان مارينو
+  - 圣马力诺
+  - Сан-Марино
+  - the Republic of San Marino
+  - la República de San Marino
+Languages:
+  - it-SM
+icon: flag-sm
+has_id_wikidata: Q238
+---
 ﻿---
 location:
     - 43.93
@@ -142,6 +178,19 @@ Capital :: [[San_Marino]]
 [has_place_latitude::43.93]
 
 
+## #has_/text_of_/abstract 
+
+> **San Marino** (  SAN mə-REE-noh, Italian: [sam maˈriːno]; Romagnol: San Maréin or San Maroin), officially the Republic of San Marino (Italian: Repubblica di San Marino), is the oldest existing representative republic and the European state with the smallest population, excluding the Vatican City. It is the larger of the two microstates surrounded by Italy. Located on the northeastern side of the Apennine Mountains, it is the fifth-smallest country in the world, with a land area of just over 61 km2 (23+1⁄2 sq mi) and a population of 33,642, as of 2023.
+>
+> San Marino is a landlocked country; however, its northeastern end is within ten kilometres (six miles) of the Adriatic coast through the Italian city of Rimini. The country's capital city, the City of San Marino, is located atop Monte Titano, while its largest settlement is Dogana, within the municipality of Serravalle. San Marino's official language is Italian.
+>
+> The country derives its name from Saint Marinus, a stonemason from the then-Roman island of Rab in present-day Croatia. According to legendary accounts, he was born in 275 AD, participated in the rebuilding of Rimini's city walls after their destruction by Liburnian pirates, and later founded an independent monastic community on Monte Titano in 301 AD. Thus, San Marino lays claim to being the oldest extant sovereign state, as well as the oldest constitutional republic.
+>
+> Uniquely, San Marino's constitution dictates that its democratically elected legislature, the Grand and General Council, must elect two heads of state every six months. Known as the Captains Regent, they serve concurrently and with equal powers.
+>
+> The country's economy is mainly based on finance, industry, services, retail, and tourism. It is one of the wealthiest countries in the world in terms of GDP (PPP) per capita, with a figure comparable to the most developed European regions. The country ranks 44th in the Human Development Index. San Marino is the first existing State that abolished the death penalty.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/San%20Marino)
 
 ## Confidential Links & Embeds: 
 

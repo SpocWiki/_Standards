@@ -1,9 +1,13 @@
-﻿---
-type: LangFamily
-tags: 
-- Lang_Family
 ---
-[SpocWebEntityId:: 233 ]
+type: LangFamily
+tags:
+  - Lang_Family
+aliases:
+  - Indo-European languages
+has_id_wikidata: Q19860
+---
+
+ [SpocWebEntityId:: 233 ]
 [Name::Indo-European ]
 
 

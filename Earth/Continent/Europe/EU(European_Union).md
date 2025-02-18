@@ -40,13 +40,14 @@ aliases:
 ---
 
 
+# [[EU(European_Union)]] 
+
 ```dataviewjs
 const path = require('path');
 const directoryName = path.dirname(dv.currentFilePath);
 dv.paragraph(directoryName)
 
 ```
-
 
 #has_/time_/started :: 1993-11-01 
 #has_/previous_item :: [[European_Communities(EC)]] 

@@ -1,0 +1,82 @@
+---
+has_id_wikidata: Q3
+Commons category: Life
+Colon Classification: G1
+hashtag: life
+Iconclass notation: 58B2
+has use: http://www.wikidata.org/.well-known/genid/be816d80b2347f99852350fac4bcc4e0
+subclass of:
+  - "[[_Standards/WikiData/WD~being,203872]]"
+  - "[[_Standards/WikiData/WD~lyfe,98925662]]"
+different from:
+  - "[[_Standards/WikiData/WD~Life,226583]]"
+  - "[[_Standards/WikiData/WD~Vita,295496]]"
+  - "[[_Standards/WikiData/WD~Vida,349124]]"
+  - "[[_Standards/WikiData/WD~Leben,1199642]]"
+  - "[[_Standards/WikiData/WD~Liv,10567996]]"
+has characteristic:
+  - "[[_Standards/WikiData/WD~form of life,422742]]"
+  - "[[_Standards/WikiData/WD~adaptation,483921]]"
+  - "[[_Standards/WikiData/WD~biological life cycle,513359]]"
+  - "[[_Standards/WikiData/WD~phase of life,1811014]]"
+  - "[[_Standards/WikiData/WD~quality of life,13100823]]"
+  - "[[_Standards/WikiData/WD~maximum life span,13419831]]"
+  - "[[_Standards/WikiData/WD~lifetime,22675021]]"
+  - "[[_Standards/WikiData/WD~metabolism,1057]]"
+  - "[[_Standards/WikiData/WD~reproduction,11990]]"
+  - "[[_Standards/WikiData/WD~biodiversity,47041]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Encyclopaedia of the Qur'ān,2617708]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+studied in:
+  - "[[_Standards/WikiData/WD~life sciences,864928]]"
+  - "[[_Standards/WikiData/WD~biology,420]]"
+instance of:
+  - "[[_Standards/WikiData/WD~property,937228]]"
+  - "[[_Standards/WikiData/WD~natural phenomenon,1322005]]"
+  - "[[_Standards/WikiData/WD~biological process,2996394]]"
+partially coincident with: "[[_Standards/WikiData/WD~real life,1058876]]"
+history of topic:
+  - "[[_Standards/WikiData/WD~history of life,1098275]]"
+  - "[[_Standards/WikiData/WD~timeline of evolutionary history of life,3138223]]"
+said to be the same as:
+  - "[[_Standards/WikiData/WD~Earthling,1349305]]"
+  - "[[_Standards/WikiData/WD~Q12898198,12898198]]"
+has part(s):
+  - "[[_Standards/WikiData/WD~biological process,2996394]]"
+  - "[[_Standards/WikiData/WD~metabolism,1057]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/HumanNewborn.JPG
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Wodencafe-life.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Lepticed7-vie.wav
+MeSH tree code: K01.752.400
+manifestation of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+has immediate cause: "[[_Standards/WikiData/WD~not yet determined,59496158]]"
+Library of Congress Classification: QH501-QH531
+UMLS CUI: C0376558
+exact match: https://www.newworldencyclopedia.org/entry/Life
+spoken text audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BF%D5%B5%D5%A1%D5%B6%D6%84%20%28Life%29.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Life%20%28spoken%20by%20AI%20voice%29.mp3
+OmegaWiki Defined Meaning: "8408"
+---
+
+
+## #has_/text_of_/abstract 
+
+> **Life** is a quality that distinguishes matter that has biological processes, such as signaling and self-sustaining processes, from matter that does not. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Viruses in particular make definition difficult as they replicate only in host cells. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles.
+>
+> Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species that exist now, by way of many extinct species, some of which have left traces as fossils. Attempts to classify living things, too, began with Aristotle. Modern classification began with Carl Linnaeus's system of binomial nomenclature in the 1740s.
+>
+> Living things are composed of biochemical molecules, formed mainly from a few core chemical elements. All living things contain two types of large molecule, proteins and nucleic acids, the latter usually both DNA and RNA: these carry the information needed by each species, including the instructions to make each type of protein. The proteins, in turn, serve as the machinery which carries out the many chemical processes of life. The cell is the structural and functional unit of life. Smaller organisms, including prokaryotes (bacteria and archaea), consist of small single cells. Larger organisms, mainly eukaryotes, can consist of single cells or may be multicellular with more complex structure. Life is only known to exist on Earth but extraterrestrial life is thought probable. Artificial life is being simulated and explored by scientists and engineers.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Life)
+

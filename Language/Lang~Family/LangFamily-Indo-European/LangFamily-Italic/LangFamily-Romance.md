@@ -1,0 +1,67 @@
+---
+aliases:
+  - Romance languages
+has_id_wikidata: Q19814
+has part(s):
+  - "[[_Standards/WikiData/WD~Italo-Western,112608]]"
+  - "[[_Standards/WikiData/WD~Eastern Romance,147576]]"
+subclass of: "[[_Standards/WikiData/WD~Italic,131848]]"
+different from:
+  - "[[_Standards/WikiData/WD~Rhaeto-Romance,515593]]"
+  - "[[_Standards/WikiData/WD~Gallo-Roman,3440815]]"
+  - "[[_Standards/WikiData/WD~Romani,13201]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+studied in: "[[_Standards/WikiData/WD~Romance studies,1277348]]"
+topic's main template: "[[_Standards/WikiData/WD~Template_Romance languages,6234660]]"
+Stack Exchange tag: https://linguistics.stackexchange.com/tags/romance-languages
+Provenio UUID: 651f6e04-9539-4bd6-a426-2eaa30cd122e
+instance of: "[[_Standards/WikiData/WD~language family,25295]]"
+has cause: "[[_Standards/WikiData/WD~Vulgar Latin,37560]]"
+Dewey Decimal Classification: "440"
+short name:
+  - Romance
+  - Romanisch
+OmegaWiki Defined Meaning: "603402"
+distribution map: http://commons.wikimedia.org/wiki/Special:FilePath/Tabula%20Linguarum%20Romanicarum.png
+Universal Decimal Classification: "811.13"
+Krugosvet article: gumanitarnye_nauki/lingvistika/ROMANSKIE_YAZIKI.html
+ISO 639-5 code: roa
+IETF language tag: roa
+ISO 639-2 code: roa
+Glottolog code: roma1334
+Commons category: Romance languages
+---
+
+
+## #has_/text_of_/abstract 
+
+> The **Romance languages**, also known as the Latin or Neo-Latin languages, 
+> are the languages that are directly descended from Vulgar (vernacular) Latin. 
+> They are the only extant subgroup of the Italic branch of the Indo-European language family.
+>
+> The five most widely spoken Romance languages by number of native speakers are:
+>
+> 
+>
+> Spanish (489 million): official language in Spain, Mexico, Equatorial Guinea, and most of Central and South America
+>
+> Portuguese (240 million): official in Portugal, Brazil, Portuguese-speaking Africa, Timor-Leste and Macau
+>
+> French (74 million): official in 27 countries
+>
+> Italian (67 million): official in Italy, Vatican City, San Marino, Switzerland; minority language in Croatia; regional in Slovenia (Istria) and Brazil (Santa Teresa, Espírito Santo and Encantado, Rio Grande do Sul)
+>
+> Romanian (25 million): official in Romania, Moldova and the Autonomous Province of Vojvodina in Serbia; minority language in Hungary, the rest of Serbia and Ukraine.
+>
+> The Romance languages spread throughout the world owing to the period of European colonialism beginning in the 15th century; there are more than 900 million native speakers of Romance languages found worldwide, mainly in the Americas, Europe, and parts of Africa. Portuguese, French and Spanish also have many non-native speakers and are in widespread use as lingua francas. There are also numerous regional Romance languages and dialects. All of the five most widely spoken Romance languages are also official languages of the European Union (with France, Italy, Portugal, Romania and Spain being part of it).
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Romance%20languages) 
+
+
