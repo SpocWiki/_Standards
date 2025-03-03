@@ -131,39 +131,39 @@ located_in_time_zone:
 coordinates_of_southernmost_point: "Point(-83.8699 10.7165)"
 coordinate_location: "Point(-85.0 13.0)"
 demonym:
-- نيكاراڭواياني
-- نيكاراڭوايانية
-- نيكاراڭوايانيين
-- نيكاراڭوايانيات
-- Nicearaguach
-- Nicaraguan
-- نيكاراغويون
-- نيكاراغوي
-- نيكاراغوية
-- nicaraguana
-- nicaraguanu
-- নিকারাগুয়ান
-- Nikaragvano
-- Nicaraguayen
-- Nicaraguayenne
-- ניקרגואי
-- ניקרגואית
-- nicaraguai
-- Nikaraguano
-- nicaraguense
-- nicaraguensi
-- nicaraguan
-- nicaraguan
-- nicaraguană
-- nicaraguani
-- никарагуанец
-- никарагуанка
-- никарагуанцы
-- nicaraguensa
-- nicaraguense
-- nicaraguensi
-- nicaraguenso
-- Nikaraguvänan
+  - نيكاراڭواياني
+  - نيكاراڭوايانية
+  - نيكاراڭوايانيين
+  - نيكاراڭوايانيات
+  - Nicearaguach
+  - Nicaraguan
+  - نيكاراغويون
+  - نيكاراغوي
+  - نيكاراغوية
+  - nicaraguana
+  - nicaraguanu
+  - নিকারাগুয়ান
+  - Nikaragvano
+  - Nicaraguayen
+  - Nicaraguayenne
+  - ניקרגואי
+  - ניקרגואית
+  - nicaraguai
+  - Nikaraguano
+  - nicaraguense
+  - nicaraguensi
+  - nicaraguan
+  - nicaraguan
+  - nicaraguană
+  - nicaraguani
+  - никарагуанец
+  - никарагуанка
+  - никарагуанцы
+  - nicaraguensa
+  - nicaraguense
+  - nicaraguensi
+  - nicaraguenso
+  - Nikaraguvänan
 ISNI: 0000000123694891
 coordinates_of_easternmost_point: "Point(-82.766666666 14.383333333)"
 MeSH_tree_code: Z01.107.169.690
@@ -185,25 +185,25 @@ marriageable_age: 18
 Democracy_Index: 3.6
 life_expectancy: 75
 BTI_Governance_Index:
-- 2.45
-- 2.77
-- 4.22
-- 4.66
-- 4.74
-- 4.82
-- 4.92
-- 5.08
-- 5.57
+  - 2.45
+  - 2.77
+  - 4.22
+  - 4.66
+  - 4.74
+  - 4.82
+  - 4.92
+  - 5.08
+  - 5.57
 BTI_Status_Index:
-- 4.06
-- 4.34
-- 5.14
-- 5.53
-- 5.57
-- 5.59
-- 5.63
-- 5.88
-- 6.08
+  - 4.06
+  - 4.34
+  - 5.14
+  - 5.53
+  - 5.57
+  - 5.59
+  - 5.63
+  - 5.88
+  - 6.08
 Gini_coefficient: 46.2
 Inequality_adjusted_Human_Development_Index: 0.516
 mobile_country_code: 710
@@ -224,17 +224,17 @@ WIPO_ST_3: NI
 area: 130375
 FIPS_10_4_countries_and_regions_: NU
 male_population:
-- 3375630
-- 3284332
-- 3329347
-- 3423787
+  - 3375630
+  - 3284332
+  - 3329347
+  - 3423787
 female_population:
-- 3474910
-- 3379591
-- 3426548
-- 3524605
+  - 3474910
+  - 3379591
+  - 3426548
+  - 3524605
 official_name:
-- Nicaragua
+  - Nicaragua
 - "la République du Nicaragua"
 INSEE_countries_and_foreign_territories_code: 99412
 PM20_geo_code: E69
@@ -245,24 +245,24 @@ Commons_gallery: Nicaragua
 licence_plate_code: NIC
 ISO_3166_1_alpha_3_code: NIC
 rural_population:
-- 2748202
-- 2769106
-- 2789745
-- 2810208
+  - 2748202
+  - 2769106
+  - 2789745
+  - 2810208
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nicaragua.svg"
 ITU_letter_code: NCG
 urban_population:
-- 3915722
-- 3986789
-- 4060795
-- 4138184
+  - 3915722
+  - 3986789
+  - 4060795
+  - 4138184
 IOC_country_code: NCA
 population: 6676948
-inception: "1821"
+inception: 1821-06 
 has_time_started: 1821-06 
 nominal_GDP:
-- 14145852101
-- 15671583878
+  - 14145852101
+  - 15671583878
 Unicode_character: 🇳🇮 
 country_calling_code: +505
 coordinates_of_westernmost_point: "Point(-87.75 13.25)"
@@ -290,11 +290,11 @@ native_label: "República de Nicaragua"
 short_name: "\U0001F1F3\U0001F1EE"
 has_id_wikidata: Q811
 location:
-- 12.15
-- -86.28
+    - 12.15
+    - -86.28
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26982
 isDeleted: false
 confidential: public
@@ -311,15 +311,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Nicaragua
-- نيكاراغوا
-- 尼加拉瓜
-- Никарагуа
+    - Nicaragua
+    - نيكاراغوا
+    - 尼加拉瓜
+    - Никарагуа
 - "the Republic of Nicaragua"
 - "la República de Nicaragua"
 Languages:
-- es-NI
-- en
+    - es-NI
+    - en
 icon: flag-ni
 ---
 

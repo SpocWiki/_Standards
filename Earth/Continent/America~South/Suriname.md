@@ -1,10 +1,10 @@
 ---
 location:
-- 5.86
-- -55.17
+  - 5.86
+  - -55.17
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27023
 isDeleted: false
 confidential: public
@@ -21,18 +21,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Suriname
-- سورينام
-- 苏里南
-- Суринам
+  - Suriname
+  - سورينام
+  - 苏里南
+  - Суринам
 - "the Republic of Suriname"
 - "la República de Suriname"
 Languages:
-- nl-SR
-- en
-- srn
-- hns
-- jv
+  - nl-SR
+  - en
+  - srn
+  - hns
+  - jv
 icon: flag-sr
 has_id_wikidata: Q730
 MeSH_tree_code: Z01.107.757.833
@@ -135,28 +135,28 @@ FIPS_10_4_countries_and_regions_: NS
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Suriname.svg"
 OmegaWiki_Defined_Meaning: 8001
 rural_population:
-- 203532
-- 205498
-- 207072
-- 208236
+  - 203532
+  - 205498
+  - 207072
+  - 208236
 male_population:
-- 299437
-- 302656
-- 305387
-- 307625
+  - 299437
+  - 302656
+  - 305387
+  - 307625
 female_population:
-- 300864
-- 304409
-- 307598
-- 310416
+  - 300864
+  - 304409
+  - 307598
+  - 310416
 official_name:
-- Suriname
+  - Suriname
 - "la République du Suriname"
 urban_population:
-- 396769
-- 401567
-- 405913
-- 409804
+  - 396769
+  - 401567
+  - 405913
+  - 409804
 population: 563402
 flag: "[[_Standards/WikiData/WD~flag_of_Suriname,180725]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Suriname,321746]]"
@@ -210,8 +210,8 @@ replaces: '[[_Standards/WikiData/WD~Suriname,19901436]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103716,27103716]]'
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 nominal_GDP:
-- 2984706244
-- 3620655116
+  - 2984706244
+  - 3620655116
 geoshape: "http://commons.wikimedia.org/data/main/Data:Suriname.map"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Surinam.ogg"
@@ -224,39 +224,39 @@ Krugosvet_article: strany_mira/SURINAM.html
 GitHub_topic: suriname
 CIVICUS_Monitor_country_entry: suriname
 demonym:
-- سورينامي
-- سورينامية
-- surinamés
-- surinamesa
-- Surinamano
-- surinamés
-- surinamesa
-- Surinamien
-- Surinamienne
-- סורינאמי
-- סורינאמית
-- suriname-i
-- Surinamano
-- surinamese
-- surinamesi
-- sranan
-- surinamez
-- surinameză
-- surinamezi
-- surinameza
-- surinameze
-- surinamezi
-- surinamezo
-- Surinänan
-- سورينامي
-- سورينامية
-- سوريناميين
-- سوريناميات
-- Suranamach
-- سوريناميون
-- Surinamese
-- Surinamer
-- সুরিনামি
+  - سورينامي
+  - سورينامية
+  - surinamés
+  - surinamesa
+  - Surinamano
+  - surinamés
+  - surinamesa
+  - Surinamien
+  - Surinamienne
+  - סורינאמי
+  - סורינאמית
+  - suriname-i
+  - Surinamano
+  - surinamese
+  - surinamesi
+  - sranan
+  - surinamez
+  - surinameză
+  - surinamezi
+  - surinameza
+  - surinameze
+  - surinamezi
+  - surinamezo
+  - Surinänan
+  - سورينامي
+  - سورينامية
+  - سوريناميين
+  - سوريناميات
+  - Suranamach
+  - سوريناميون
+  - Surinamese
+  - Surinamer
+  - সুরিনামি
 motto_text:
 - "Справедливост - праведност - вяра"
 - "Justice – Piety – Trust"

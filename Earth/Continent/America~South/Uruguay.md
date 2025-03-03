@@ -163,68 +163,68 @@ located_in_time_zone:
 open_data_portal: "[[_Standards/WikiData/WD~Uruguay_Open_Data_Portal,97096884]]"
 executive_body: "[[_Standards/WikiData/WD~Presidencia_de_la_República,104809052]]"
 demonym:
-- Uruguayer
-- Uruguayerin
-- ؤروڭواني
-- ؤروڭوانية
-- ؤروڭوانيات
-- ؤروڭوانيين
-- Urugvajec
-- Urugvajka
-- أوروغواياني
-- أوروغوايانية
-- أوروغوايانيون
-- uruguaya
-- uruguayu
-- উরুগুয়েয়ীয়
-- uruguaià
-- uruguaiana
-- uruguaianes
-- Ουρουγουανός
-- Urugvajano
-- uruguayo
-- Uruguayen
-- Uruguayenne
-- אורוגוואית
-- uruguayi
-- Uruguayano
-- uruguaiana
-- uruguaiane
-- uruguaiani
-- uruguaiano
-- uruguaia
-- uruguayan
-- uruguayană
-- uruguayeni
-- uruguayan
-- уругваєць
-- уругвайка
-- уругвайці
-- uruguaja
-- uruguajan
-- uruguajana
-- uruguajane
-- uruguajani
-- uruguaje
-- uruguaji
-- uruguajo
-- Luruguyänan
-- Uraguach
-- אורוגוואי
-- uruguaians
-- uruguayas
-- uruguayos
-- ウルグアイ人
-- uruguaya
-- Uruguayan
+  - Uruguayer
+  - Uruguayerin
+  - ؤروڭواني
+  - ؤروڭوانية
+  - ؤروڭوانيات
+  - ؤروڭوانيين
+  - Urugvajec
+  - Urugvajka
+  - أوروغواياني
+  - أوروغوايانية
+  - أوروغوايانيون
+  - uruguaya
+  - uruguayu
+  - উরুগুয়েয়ীয়
+  - uruguaià
+  - uruguaiana
+  - uruguaianes
+  - Ουρουγουανός
+  - Urugvajano
+  - uruguayo
+  - Uruguayen
+  - Uruguayenne
+  - אורוגוואית
+  - uruguayi
+  - Uruguayano
+  - uruguaiana
+  - uruguaiane
+  - uruguaiani
+  - uruguaiano
+  - uruguaia
+  - uruguayan
+  - uruguayană
+  - uruguayeni
+  - uruguayan
+  - уругваєць
+  - уругвайка
+  - уругвайці
+  - uruguaja
+  - uruguajan
+  - uruguajana
+  - uruguajane
+  - uruguajani
+  - uruguaje
+  - uruguaji
+  - uruguajo
+  - Luruguyänan
+  - Uraguach
+  - אורוגוואי
+  - uruguaians
+  - uruguayas
+  - uruguayos
+  - ウルグアイ人
+  - uruguaya
+  - Uruguayan
 coordinates_of_southernmost_point:
 - "Point(-54.95181084 -34.97361029)"
 - "Point(-54.884471761 -35.03138793)"
 UMLS_CUI: C0042113
 ISNI: 0000000122384648
 nominal_GDP:
-- 71177146197
-- 61412268249
+  - 71177146197
+  - 61412268249
 coordinates_of_westernmost_point: "Point(-58.43799591 -33.68206818)"
 MeSH_tree_code: Z01.107.757.904
 coordinate_location: "Point(-56.0 -33.0)"
@@ -243,8 +243,8 @@ continent: "[[_Standards/WikiData/WD~South_America,18]]"
 country: '[[_Standards/WikiData/WD~Uruguay,77]]'
 lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 VAT_rate:
-- 10
-- 22
+  - 10
+  - 22
 BHCL_UUID: 5a7717a2-ad53-4a2d-8cab-2afa576dd18e
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Uruguay\"]"
 Colon_Classification: SG--7911
@@ -260,7 +260,7 @@ nickname:
 native_label: "República Oriental del Uruguay"
 short_name:
 - "\U0001F1FA\U0001F1FE"
-- Uruguay
+  - Uruguay
 compulsory_education_minimum_age_: 6
 unemployment_rate: 7
 compulsory_education_maximum_age_: 14
@@ -269,44 +269,44 @@ age_of_majority: 18
 mains_voltage: 220
 Inequality_adjusted_Human_Development_Index: 0.71
 BTI_Status_Index:
-- 8.9
-- 9.3
-- 8.66
-- 9.12
-- 9.16
-- 9.19
-- 9.25
-- 9.26
-- 9.33
+  - 8.9
+  - 9.3
+  - 8.66
+  - 9.12
+  - 9.16
+  - 9.19
+  - 9.25
+  - 9.26
+  - 9.33
 suicide_rate: 18.8
 total_fertility_rate: 2.02
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.uy,41848]]'
 Gini_coefficient: 40.2
 Happy_Planet_Index_score: 57.5
 BTI_Governance_Index:
-- 6.85
-- 6.97
-- 7.33
-- 7.36
-- 7.39
-- 7.49
-- 7.56
-- 7.69
+  - 6.85
+  - 6.97
+  - 7.33
+  - 7.36
+  - 7.39
+  - 7.49
+  - 7.56
+  - 7.69
 Human_Development_Index: 0.809
 Democracy_Index: 8.85
 IAB_code: 1469
 GS1_country_code: 773
 INSEE_countries_and_foreign_territories_code: 99423
 death_rate:
-- 9.432
-- 9.879
-- 10.057
-- 12.162
+  - 9.432
+  - 9.879
+  - 10.057
+  - 12.162
 birth_rate:
-- 10.339
-- 10.419
-- 10.473
-- 10.822
+  - 10.339
+  - 10.419
+  - 10.473
+  - 10.822
 maritime_identification_digits: 770
 ISO_3166_1_numeric_code: 858
 M49_code: 858
@@ -317,10 +317,10 @@ life_expectancy: 77.493
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg"
 OmegaWiki_Defined_Meaning: 8345
 rural_population:
-- 147591
-- 150653
-- 153795
-- 156815
+  - 147591
+  - 150653
+  - 153795
+  - 156815
 area: 176215
 licence_plate_code: UY
 ISO_3166_1_alpha_2_code: UY
@@ -329,22 +329,22 @@ WIPO_ST_3: UY
 ITU_letter_code: URG
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Uruguay.svg"
 male_population:
-- 1658372
-- 1659147
-- 1659492
-- 1660166
+  - 1658372
+  - 1659147
+  - 1659492
+  - 1660166
 PM20_geo_code: E95
 female_population:
-- 1764421
-- 1766768
-- 1768921
-- 1769262
+  - 1764421
+  - 1766768
+  - 1768921
+  - 1769262
 IOC_country_code: URU
 urban_population:
-- 3271594
-- 3275203
-- 3275291
-- 3275607
+  - 3271594
+  - 3275203
+  - 3275291
+  - 3275607
 population: 3444263
 Commons_category: Uruguay
 Commons_gallery: Uruguay
@@ -371,11 +371,11 @@ country_calling_code: +598
 Dewey_Decimal_Classification: 2--895
 has_id_wikidata: Q77
 location:
-- -34.91
-- -56.17
+    - -34.91
+    - -56.17
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27048
 isDeleted: false
 confidential: public
@@ -392,15 +392,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Uruguay
-- أوروغواي
-- 乌拉圭
-- Уругвай
+    - Uruguay
+    - أوروغواي
+    - 乌拉圭
+    - Уругвай
 - "the Eastern Republic of Uruguay"
 - "la República Oriental del Uruguay"
 - "Uruguay (el)"
 Languages:
-- es-UY
+    - es-UY
 icon: flag-uy
 ---
 

@@ -1,10 +1,10 @@
 ---
 location:
-- 50.8165
-- 4.29368
+  - 50.8165
+  - 4.29368
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q31
 SpocWebEntityId: 26844
 isDeleted: false
@@ -22,18 +22,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Belgium
-- Bélgica
-- Belgique
-- بلجيكا
-- 比利时
-- Бельгия
+  - Belgium
+  - Bélgica
+  - Belgique
+  - بلجيكا
+  - 比利时
+  - Бельгия
 - "the Kingdom of Belgium"
 - "el Reino de Bélgica"
 Languages:
-- nl-BE
-- fr-BE
-- de-BE
+  - nl-BE
+  - fr-BE
+  - de-BE
 icon: flag-be
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -253,10 +253,10 @@ shares_border_with:
 country: '[[_Standards/WikiData/WD~Belgium,31]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 death_rate:
-- 10
-- 11
-- 9.5
-- 9.7
+  - 10
+  - 11
+  - 9.5
+  - 9.7
 geoshape: "http://commons.wikimedia.org/data/main/Data:Belgium.map"
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Be-map.png"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
@@ -282,9 +282,9 @@ VAT_rate: 21
 mains_voltage: 230
 retirement_age: 65
 birth_rate:
-- 9.8
-- 9.9
-- 10.2
+  - 9.8
+  - 9.9
+  - 10.2
 literacy_rate: 99
 poverty_incidence: 13.1
 total_fertility_rate: 1.75
@@ -330,65 +330,65 @@ Baidu_Tieba_name: 比利时
 route_map: "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
 UMLS_CUI: C0004950
 demonym:
-- بلجيكي
-- بلجيكية
-- بلجيكيين
-- بلجيكيات
-- Beilgeach
-- بلجيكي
-- بلجيكية
-- بلجيكيون
-- belxicana
-- belxicano
-- belxicanu
-- belga
-- belgier
-- Belgier
-- Belgierin
-- Belgian
-- belgo
-- belga
-- Belge
-- בלגי
-- בלגית
-- belgijanac
-- belgijanci
-- belgijanka
-- belgijanke
-- belga
-- Belgiano
-- belga
-- belghe
-- belgi
-- Belsch
-- beljes
-- Belzje
-- Belg
-- Belgische
-- بیلج
-- belgian
-- belgiancă
-- belgieni
-- бельгийцы
-- Belgičan
-- belgisk
-- பெல்ஜியர்
-- бельгієць
-- бельгійка
-- бельгійці
-- بیلج
-- belghe
-- belghi
-- belgo
-- belzi
-- Belgen
-- Belgänan
-- Bedje
-- 比利时
+  - بلجيكي
+  - بلجيكية
+  - بلجيكيين
+  - بلجيكيات
+  - Beilgeach
+  - بلجيكي
+  - بلجيكية
+  - بلجيكيون
+  - belxicana
+  - belxicano
+  - belxicanu
+  - belga
+  - belgier
+  - Belgier
+  - Belgierin
+  - Belgian
+  - belgo
+  - belga
+  - Belge
+  - בלגי
+  - בלגית
+  - belgijanac
+  - belgijanci
+  - belgijanka
+  - belgijanke
+  - belga
+  - Belgiano
+  - belga
+  - belghe
+  - belgi
+  - Belsch
+  - beljes
+  - Belzje
+  - Belg
+  - Belgische
+  - بیلج
+  - belgian
+  - belgiancă
+  - belgieni
+  - бельгийцы
+  - Belgičan
+  - belgisk
+  - பெல்ஜியர்
+  - бельгієць
+  - бельгійка
+  - бельгійці
+  - بیلج
+  - belghe
+  - belghi
+  - belgo
+  - belzi
+  - Belgen
+  - Belgänan
+  - Bedje
+  - 比利时
 ISNI: 0000000123536287
 coordinates_of_southernmost_point: "Point(5.47248 49.49699)"
 IPA_transcription:
-- ˈbɛlʤəm
+  - ˈbɛlʤəm
 - "ˈkɪŋdəm ɒv ˈbɛlʤəm"
 YouTube_handle: WebmasterBelgiumbe
 official_jobs_URL:
@@ -452,34 +452,34 @@ median_income: 31112
 annual_number_of_weddings: 32779
 nominal_GDP: 599880000000
 carbon_footprint:
-- 104415000
-- 104615000
-- 115996000
-- 118689000
+  - 104415000
+  - 104615000
+  - 115996000
+  - 118689000
 rural_population:
-- 215837
-- 218168
-- 221657
-- 225069
+  - 215837
+  - 218168
+  - 221657
+  - 225069
 NIS_INS_code: 01000
 inception: "1830-10-04"
 has_time_started: "1830-10-04"
 male_population:
-- 5667234
-- 5695855
-- 5722387
-- 5774066
+  - 5667234
+  - 5695855
+  - 5722387
+  - 5774066
 female_population:
-- 5821746
-- 5842749
-- 5863808
-- 5911748
+  - 5821746
+  - 5842749
+  - 5863808
+  - 5911748
 coordinates_of_easternmost_point: "Point(6.40743256 50.3358193)"
 urban_population:
-- 11263911
-- 11316947
-- 11368027
-- 11469977
+  - 11263911
+  - 11316947
+  - 11368027
+  - 11469977
 population: 11584008
 coordinates_of_westernmost_point: "Point(2.545269566 51.089449723)"
 ---

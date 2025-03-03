@@ -44,7 +44,8 @@ topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42351353,42351353]]"
 locator map image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD-ar.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD.png
-inception: 0750-01-01T00:00:00Z
+inception: 0750-01-01T00:00:00Z 
+has_time_started: 0750-01-01T00:00:00Z 
 religion or worldview: "[[_Standards/WikiData/WD~Islam,432]]"
 language used:
   - "[[_Standards/WikiData/WD~Persian,9168]]"
@@ -56,7 +57,8 @@ basic form of government: "[[_Standards/WikiData/WD~theocracy,44405]]"
 Commons category: Abbasid Caliphate
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20flag.svg
 native label: الدولة العبَّاسيَّة
-"dissolved, abolished or demolished date": 1258-02-17T00:00:00Z
+"dissolved, abolished or demolished date": 1258-02-17T00:00:00Z 
+has_time_stopped: 1258-02-17T00:00:00Z 
 Wolfram Language entity code: Entity["HistoricalCountry", "AbbasidCaliphate"]
 ---
 

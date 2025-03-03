@@ -84,50 +84,50 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q48685885,48685885]]'
 coordinates_of_southernmost_point: "Point(72.23095 39.18031)"
 demonym:
-- кыргызстанец
-- кыргызстанцы
-- kârgâz
-- kârgâzi
-- kârgâză
-- kârgâze
-- كيرڭيستاني
-- كيرڭيستانية
-- كيرڭيستانين
-- كيرڭيستانيات
-- Kirgizistanec
-- Kirgizistanka
-- Cirgeasach
-- кыргызстанка
-- Ҡырғыҙ
-- Kyrgyz
-- Kirgizi
-- Kirghize
-- קירגיזית
-- kirgiz
-- kirghiso
-- cirgiz
-- kirghizo
-- Kirghiz
-- kirghizi
-- قيرغيزستاني
-- قيرغيزستانية
-- قيرغيزستانيون
-- kirguistanín
-- kirguistanina
-- কিরগিজ/কিরগিস্তানী
-- Kyrgyzstani
-- קירגיזי
-- Kirgizistanano
-- kirghisa
-- kirghise
-- kirghisi
-- Kirgiz
-- Kirgizka
-- Kirgizki
-- қирғиз
-- kirghiza
-- kirghize
-- Kirgistänan
+  - кыргызстанец
+  - кыргызстанцы
+  - kârgâz
+  - kârgâzi
+  - kârgâză
+  - kârgâze
+  - كيرڭيستاني
+  - كيرڭيستانية
+  - كيرڭيستانين
+  - كيرڭيستانيات
+  - Kirgizistanec
+  - Kirgizistanka
+  - Cirgeasach
+  - кыргызстанка
+  - Ҡырғыҙ
+  - Kyrgyz
+  - Kirgizi
+  - Kirghize
+  - קירגיזית
+  - kirgiz
+  - kirghiso
+  - cirgiz
+  - kirghizo
+  - Kirghiz
+  - kirghizi
+  - قيرغيزستاني
+  - قيرغيزستانية
+  - قيرغيزستانيون
+  - kirguistanín
+  - kirguistanina
+  - কিরগিজ/কিরগিস্তানী
+  - Kyrgyzstani
+  - קירגיזי
+  - Kirgizistanano
+  - kirghisa
+  - kirghise
+  - kirghisi
+  - Kirgiz
+  - Kirgizka
+  - Kirgizki
+  - қирғиз
+  - kirghiza
+  - kirghize
+  - Kirgistänan
 UMLS_CUI: C0022718
 official_website: "https://www.gov.kg/ky"
 ISNI: 0000000121547329
@@ -137,13 +137,13 @@ motto_text:
 - "Gwerddon ar y Ffordd y Sidan Ysblennydd"
 - "Oasis on the Great Silk Road"
 MeSH_tree_code:
-- Z01.252.100.450
-- Z01.542.931.450
-- Z01.586.950.450
+  - Z01.252.100.450
+  - Z01.542.931.450
+  - Z01.586.950.450
 IPA_transcription: qɯr.ʁɯzˈstɑn
 nominal_GDP:
-- 10930644915
-- 8740681889
+  - 10930644915
+  - 8740681889
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
@@ -182,39 +182,39 @@ age_of_majority: 16
 marriageable_age: 18
 mains_voltage: 220
 birth_rate:
-- 24
-- 21.5
-- 22.4
-- 26.9
+  - 24
+  - 21.5
+  - 22.4
+  - 26.9
 Gini_coefficient: 29
 total_fertility_rate: 3.2
 water_as_percent_of_area: 3.6
 death_rate:
-- 4.5
-- 5.2
-- 5.8
-- 6.1
+  - 4.5
+  - 5.2
+  - 5.8
+  - 6.1
 BTI_Status_Index:
-- 5.8
-- 5.9
-- 4.76
-- 4.94
-- 5.32
-- 5.49
-- 5.61
-- 5.71
-- 5.87
+  - 5.8
+  - 5.9
+  - 4.76
+  - 4.94
+  - 5.32
+  - 5.49
+  - 5.61
+  - 5.71
+  - 5.87
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.kg,41723]]'
 Democracy_Index: 3.62
 BTI_Governance_Index:
-- 4.17
-- 4.19
-- 4.42
-- 4.56
-- 4.67
-- 4.73
-- 4.78
-- 4.85
+  - 4.17
+  - 4.19
+  - 4.42
+  - 4.56
+  - 4.67
+  - 4.73
+  - 4.78
+  - 4.85
 trunk_prefix: 0
 GS1_country_code: 470
 UIC_numerical_country_code: 59
@@ -237,33 +237,33 @@ area: 199951
 INSEE_countries_and_foreign_territories_code: 99257
 OmegaWiki_Defined_Meaning: 154268
 urban_population:
-- 2362388
-- 2425088
-- 2516047
-- 2612867
+  - 2362388
+  - 2425088
+  - 2516047
+  - 2612867
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kyrgyzstan.svg"
 male_population:
-- 3170125
-- 3231211
-- 3326089
-- 3424555
+  - 3170125
+  - 3231211
+  - 3326089
+  - 3424555
 female_population:
-- 3286075
-- 3348689
-- 3447311
-- 3550345
+  - 3286075
+  - 3348689
+  - 3447311
+  - 3550345
 rural_population:
-- 4093812
-- 4154812
-- 4257353
-- 4362033
+  - 4093812
+  - 4154812
+  - 4257353
+  - 4362033
 life_expectancy: 70.95122
 ISO_3166_1_alpha_3_code: KGZ
 ITU_letter_code: KGZ
 IOC_country_code: KGZ
 native_label: Кыргызстан
 official_name:
-- Кыргызстан
+  - Кыргызстан
 - "la République kirghize"
 Dewey_Decimal_Classification: 2--5843
 coordinate_location: "Point(75.0 41.0)"
@@ -290,11 +290,11 @@ coordinates_of_westernmost_point: "Point(69.25097 39.86528)"
 coordinates_of_easternmost_point: "Point(80.22789 42.06395)"
 has_id_wikidata: Q813
 location:
-- 42.8667
-- 74.6
+  - 42.8667
+  - 74.6
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26935
 isDeleted: false
 confidential: public
@@ -302,7 +302,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Kyrgyzstan
 linkTitle: 
@@ -312,19 +312,19 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Kyrgyzstan
-- Kirguistán
-- Kirghizistan
-- قيرغيزستان
-- 吉尔吉斯斯坦
-- Кыргызстан
+  - Kyrgyzstan
+  - Kirguistán
+  - Kirghizistan
+  - قيرغيزستان
+  - 吉尔吉斯斯坦
+  - Кыргызстан
 - "the Kyrgyz Republic"
 - "la República Kirguisa"
-- Kirgisistan
+  - Kirgisistan
 Languages:
-- ky
-- uz
-- ru
+  - ky
+  - uz
+  - ru
 icon: flag-kg
 ---
 

@@ -1,10 +1,10 @@
 ---
 location:
-- 40.18
-- 44.5167
+  - 40.18
+  - 44.5167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q399
 SpocWebEntityId: 26831
 isDeleted: false
@@ -22,25 +22,25 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Armenia
-- Arménie
-- أرمينيا
-- 亚美尼亚
-- Армения
+  - Armenia
+  - Arménie
+  - أرمينيا
+  - 亚美尼亚
+  - Армения
 - "the Republic of Armenia"
 - "la República de Armenia"
 Languages:
-- hy
+  - hy
 icon: flag-am
 ISNI: 0000000121643812
 nominal_GDP:
-- 19502783988
-- 13861409969
+  - 19502783988
+  - 13861409969
 MeSH_tree_code:
-- Z01.542.900.099
-- Z01.542.931.099
-- Z01.586.035.150
-- Z01.586.950.099
+  - Z01.542.900.099
+  - Z01.542.931.099
+  - Z01.586.035.150
+  - Z01.586.950.099
 coordinate_location: "Point(44.95 40.383333)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Singapore,334]]'
@@ -133,10 +133,10 @@ mains_voltage: 220
 suicide_rate: 2.7
 retirement_age: 63
 birth_rate:
-- 11.7
-- 12.049
-- 12.455
-- 12.892
+  - 11.7
+  - 12.049
+  - 12.455
+  - 12.892
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.am,37245]]'
 - '[[_Standards/WikiData/WD~.հայ,18578153]]'
@@ -146,64 +146,64 @@ Krugosvet_article: strany_mira/ARMENIYA.html
 Commons_gallery: Հայաստան
 Gujarati_Vishwakosh_entry: આર્મેનિયા
 demonym:
-- أرمني
-- armenia
-- armeniu
-- amenis
-- armènia
-- armènies
-- Arménec
-- Arménka
-- armenier
-- Armenierin
-- Arménienne
-- Arméniens
-- Airméanach
-- ארמני
-- Armeniano
-- armena
-- armene
-- armeni
-- armean
-- armeancă
-- armeni
-- армяне
-- армянин
-- армянка
-- вірмени
-- вірменин
-- вірменка
-- armena
-- armene
-- armeni
-- Larmeniyänan
-- أرمنيون
-- أرمنية
-- armeni
-- Arménien
-- ארמנית
-- örmény
-- armeno
-- armenian
-- haiaren
-- armen
-- Armenier
-- Armenec
-- Armenka
-- أرميني
-- أرمينية
-- أرمينيين
-- أرمينيات
-- আর্মেনীয়
-- Armenian
+  - أرمني
+  - armenia
+  - armeniu
+  - amenis
+  - armènia
+  - armènies
+  - Arménec
+  - Arménka
+  - armenier
+  - Armenierin
+  - Arménienne
+  - Arméniens
+  - Airméanach
+  - ארמני
+  - Armeniano
+  - armena
+  - armene
+  - armeni
+  - armean
+  - armeancă
+  - armeni
+  - армяне
+  - армянин
+  - армянка
+  - вірмени
+  - вірменин
+  - вірменка
+  - armena
+  - armene
+  - armeni
+  - Larmeniyänan
+  - أرمنيون
+  - أرمنية
+  - armeni
+  - Arménien
+  - ארמנית
+  - örmény
+  - armeno
+  - armenian
+  - haiaren
+  - armen
+  - Armenier
+  - Armenec
+  - Armenka
+  - أرميني
+  - أرمينية
+  - أرمينيين
+  - أرمينيات
+  - আর্মেনীয়
+  - Armenian
 short_name: "\U0001F1E6\U0001F1F2"
 urban_population:
-- 1776315
-- 1783156
-- 1767628
-- 1770343
+  - 1776315
+  - 1783156
+  - 1767628
+  - 1770343
 native_label:
-- Հայաստան
+  - Հայաստան
 - "Հայաստանի Հանրապետություն"
 official_name: Հայաստան
 coordinates_of_northernmost_point: "Point(45.0 41.3)"
@@ -292,14 +292,14 @@ area: 29743.423459
 UMLS_CUI: C0003798
 Libris_URI: 1zcfdqzk3pmntnv
 BTI_Governance_Index:
-- 4.25
-- 4.31
-- 4.38
-- 4.68
-- 4.84
-- 4.93
-- 5.17
-- 5.32
+  - 4.25
+  - 4.31
+  - 4.38
+  - 4.68
+  - 4.84
+  - 4.93
+  - 5.17
+  - 5.32
 trunk_prefix: 0
 maritime_identification_digits: 216
 mobile_country_code: 283
@@ -307,23 +307,23 @@ UIC_numerical_country_code: 58
 Happy_Planet_Index_score: 54.7
 Democracy_Index: 5.49
 BTI_Status_Index:
-- 5.56
-- 5.58
-- 5.59
-- 5.71
-- 5.81
-- 6.41
-- 6.43
-- 6.69
+  - 5.56
+  - 5.58
+  - 5.59
+  - 5.71
+  - 5.81
+  - 6.41
+  - 6.43
+  - 6.69
 Inequality_adjusted_Human_Development_Index: 0.688
 Human_Development_Index: 0.759
 total_fertility_rate: 1.531
 number_of_out_of_school_children: 37720
 death_rate:
-- 9.662
-- 11.881
-- 12.792
-- 13.007
+  - 9.662
+  - 11.881
+  - 12.792
+  - 13.007
 ISO_3166_1_numeric_code: 051
 M49_code: 051
 GS1_country_code: 485
@@ -342,23 +342,23 @@ social_media_followers: 107544
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Armenia.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Noravank%20banner.jpg"
 female_population:
-- 1530390
-- 1534475
-- 1540097
-- 1545834
+  - 1530390
+  - 1534475
+  - 1540097
+  - 1545834
 OmegaWiki_Defined_Meaning: 5742
 population: 2930450
 rural_population:
-- 1012841
-- 1020631
-- 1029293
-- 1037446
+  - 1012841
+  - 1020631
+  - 1029293
+  - 1037446
 INSEE_countries_and_foreign_territories_code: 99252
 male_population:
-- 1250079
-- 1256498
-- 1265512
-- 1274767
+  - 1250079
+  - 1256498
+  - 1265512
+  - 1274767
 ---
 
 # [[Armenia]] 

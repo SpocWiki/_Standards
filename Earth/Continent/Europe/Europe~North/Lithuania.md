@@ -96,57 +96,57 @@ emergency_phone_number: '[[_Standards/WikiData/WD~02,25648899]]'
 open_data_portal: "[[_Standards/WikiData/WD~Open_data_in_Lithuania,97011850]]"
 nominal_GDP: 70334299008
 demonym:
-- litovo
-- ليتواني
-- ليتوانية
-- ليتوانيات
-- ليتوانيين
-- Litovec
-- Litvanec
-- Litovka
-- Litvanka
-- Liotuánach
-- ליטאי
-- ليتوانية
-- lituanu
-- lituà
-- Lithuanian
-- Lituanien
-- ליטאית
-- litván
-- lituano
-- lietuvisce
-- lituaniană
-- lituan
-- Litauer
-- ليتواني
-- ليتوانيون
-- lituana
-- লিথুয়ানীয়
-- lituana
-- lituans
-- Litauerin
-- litauisch
-- leedulased
-- Lituanienne
-- Lituaniano
-- lituana
-- lituane
-- lituani
-- Litouwer
-- lituanian
-- lituanieni
-- литовец
-- литовка
-- литовцы
-- லித்துவேனியர்
-- литовець
-- литовка
-- литовці
-- lituana
-- lituane
-- lituani
-- Lietuvänan
+  - litovo
+  - ليتواني
+  - ليتوانية
+  - ليتوانيات
+  - ليتوانيين
+  - Litovec
+  - Litvanec
+  - Litovka
+  - Litvanka
+  - Liotuánach
+  - ליטאי
+  - ليتوانية
+  - lituanu
+  - lituà
+  - Lithuanian
+  - Lituanien
+  - ליטאית
+  - litván
+  - lituano
+  - lietuvisce
+  - lituaniană
+  - lituan
+  - Litauer
+  - ليتواني
+  - ليتوانيون
+  - lituana
+  - লিথুয়ানীয়
+  - lituana
+  - lituans
+  - Litauerin
+  - litauisch
+  - leedulased
+  - Lituanienne
+  - Lituaniano
+  - lituana
+  - lituane
+  - lituani
+  - Litouwer
+  - lituanian
+  - lituanieni
+  - литовец
+  - литовка
+  - литовцы
+  - லித்துவேனியர்
+  - литовець
+  - литовка
+  - литовці
+  - lituana
+  - lituane
+  - lituani
+  - Lietuvänan
 ISNI: 0000000123641220
 part_of:
 - "[[_Standards/WikiData/WD~European_Union,458]]"
@@ -170,30 +170,30 @@ continent: '[[_Standards/WikiData/WD~Europe,46]]'
 capital: '[[_Standards/WikiData/WD~Vilnius,216]]'
 Inequality_adjusted_Human_Development_Index: 0.8
 birth_rate:
-- 9
-- 7.8
-- 8.3
-- 9.8
+  - 9
+  - 7.8
+  - 8.3
+  - 9.8
 unemployment_rate: 11
 death_rate:
-- 17
-- 13.7
-- 15.1
-- 15.6
+  - 17
+  - 13.7
+  - 15.1
+  - 15.6
 marriageable_age: 18
 age_of_majority: 18
 VAT_rate: 21
 mains_voltage: 220
 BTI_Status_Index:
-- 9.3
-- 8.98
-- 9.02
-- 9.03
-- 9.04
-- 9.15
-- 9.16
-- 9.24
-- 9.27
+  - 9.3
+  - 8.98
+  - 9.02
+  - 9.03
+  - 9.04
+  - 9.15
+  - 9.16
+  - 9.24
+  - 9.27
 total_fertility_rate: 1.59
 suicide_rate: 20.2
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Baltic_states,39731]]"
@@ -204,14 +204,14 @@ Happy_Planet_Index_score: 36.9
 trunk_prefix: 8
 area: 65300
 BTI_Governance_Index:
-- 6.76
-- 6.94
-- 7.04
-- 7.08
-- 7.15
-- 7.18
-- 7.19
-- 7.21
+  - 6.76
+  - 6.94
+  - 7.04
+  - 7.08
+  - 7.15
+  - 7.18
+  - 7.19
+  - 7.21
 Democracy_Index: 7.13
 Human_Development_Index: 0.875
 UIC_numerical_country_code: 24
@@ -223,8 +223,8 @@ IAB_code: 1342
 maritime_identification_digits: 277
 GS1_country_code: 477
 NUTS_code:
-- LT
-- LT0
+  - LT
+  - LT0
 licence_plate_code: LT
 ISO_3166_1_alpha_2_code: LT
 WIPO_ST_3: LT
@@ -239,34 +239,34 @@ ITU_letter_code: LTU
 Dewey_Decimal_Classification: 2--4793
 INSEE_countries_and_foreign_territories_code: 99108
 rural_population:
-- 889294
-- 892957
-- 893078
-- 898175
+  - 889294
+  - 892957
+  - 893078
+  - 898175
 male_population:
-- 1306199
-- 1309308
-- 1314395
-- 1329978
+  - 1306199
+  - 1309308
+  - 1314395
+  - 1329978
 female_population:
-- 1485577
-- 1486443
-- 1487938
-- 1501661
+  - 1485577
+  - 1486443
+  - 1487938
+  - 1501661
 urban_population:
-- 1895962
-- 1901807
-- 1911545
-- 1938682
+  - 1895962
+  - 1901807
+  - 1911545
+  - 1938682
 short_name:
-- Литва
+  - Литва
 - "\U0001F1F1\U0001F1F9"
 population: 2860002
 life_expectancy: 74.32195
 geoshape: "http://commons.wikimedia.org/data/main/Data:Lithuania.map"
 Image_Archive_Herder_Institute: Q37
 official_name:
-- Lietuva
+  - Lietuva
 - "Litevská republika"
 - "Leedu Vabariik"
 - "la République de Lituanie"
@@ -305,17 +305,17 @@ Provenio_UUID: 254ef253-f2e9-413c-80ba-36cb5d76e690
 UMLS_CUI: C0023879
 BHCL_UUID: c7472ff6-331b-4018-8b9f-1615d7971c6e
 GitHub_topic:
-- lietuva
-- lithuania
+  - lietuva
+  - lithuania
 CIVICUS_Monitor_country_entry: lithuania
 subreddit: lithuania
 has_id_wikidata: Q37
 location:
-- 54.6833
-- 25.3167
+    - 54.6833
+    - 25.3167
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26952
 isDeleted: false
 confidential: public
@@ -332,18 +332,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Lithuania
-- Lituania
-- Lituanie
-- ليتوانيا
-- 立陶宛
-- Литва
+    - Lithuania
+    - Lituania
+    - Lituanie
+    - ليتوانيا
+    - 立陶宛
+    - Литва
 - "the Republic of Lithuania"
 - "la República de Lituania"
 Languages:
-- lt
-- ru
-- pl
+    - lt
+    - ru
+    - pl
 icon: flag-lt
 ---
 

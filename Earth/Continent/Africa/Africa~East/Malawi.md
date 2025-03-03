@@ -91,45 +91,45 @@ Commons_gallery: Malaŵi
 Colon_Classification: SG--615
 Krugosvet_article: strany_mira/MALAVI.html
 demonym:
-- ملاوية
-- ملاويون
-- مالاوي
-- malauiana
-- malauianu
-- মালাউইয়ীয়
-- malawià
-- malawiana
-- malawianes
-- malawians
-- Malawian
-- Malaviano
-- Malawite
-- מלאווי
-- מלאווית
-- malawi
-- Malawiano
-- malawiana
-- malawiane
-- malawiani
-- malawiano
-- マラウイ人
-- 말라위인
-- malaui
-- malawian
-- malawiană
-- malawieni
-- maławian
-- maławiana
-- maławiane
-- maławiani
-- Malaviyänan
-- مالاوية
-- مالاويين
-- مالاويات
-- Malavijec
-- Malavijka
-- Malávach
-- ملاوي
+  - ملاوية
+  - ملاويون
+  - مالاوي
+  - malauiana
+  - malauianu
+  - মালাউইয়ীয়
+  - malawià
+  - malawiana
+  - malawianes
+  - malawians
+  - Malawian
+  - Malaviano
+  - Malawite
+  - מלאווי
+  - מלאווית
+  - malawi
+  - Malawiano
+  - malawiana
+  - malawiane
+  - malawiani
+  - malawiano
+  - マラウイ人
+  - 말라위인
+  - malaui
+  - malawian
+  - malawiană
+  - malawieni
+  - maławian
+  - maławiana
+  - maławiane
+  - maławiani
+  - Malaviyänan
+  - مالاوية
+  - مالاويين
+  - مالاويات
+  - Malavijec
+  - Malavijka
+  - Malávach
+  - ملاوي
 native_label: "Republic of Malawi"
 motto_text:
 - "The warm heart of Africa"
@@ -137,8 +137,8 @@ motto_text:
 - "Unity and Freedom"
 official_name:
 - "la République du Malawi"
-- Malawi
-- Malawi
+  - Malawi
+  - Malawi
 short_name: "\U0001F1F2\U0001F1FC"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Malawi,11255482]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
@@ -156,8 +156,8 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Malawi%20-%20Location%20Map%20%282013%29%20-%20MWI%20-%20UNOCHA.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Zomba%20Plateau%20banner.jpg"
 nominal_GDP:
-- 12602334124
-- 13164667627
+  - 12602334124
+  - 13164667627
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Australia,408]]'
@@ -189,55 +189,55 @@ continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 8
 mains_voltage: 230
 BTI_Governance_Index:
-- 5.5
-- 5.7
-- 4.72
-- 5.61
-- 5.63
-- 5.64
-- 5.66
-- 5.86
-- 5.99
+  - 5.5
+  - 5.7
+  - 4.72
+  - 5.61
+  - 5.63
+  - 5.64
+  - 5.66
+  - 5.86
+  - 5.99
 VAT_rate: 16.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.mw,43073]]'
 Inequality_adjusted_Human_Development_Index: 0.377
 Gini_coefficient: 38.5
 Happy_Planet_Index_score: 38.7
 BTI_Status_Index:
-- 4.89
-- 5.35
-- 5.41
-- 5.47
-- 5.49
-- 5.55
-- 5.56
-- 5.57
-- 5.77
+  - 4.89
+  - 5.35
+  - 5.41
+  - 5.47
+  - 5.49
+  - 5.55
+  - 5.56
+  - 5.57
+  - 5.77
 Human_Development_Index: 0.512
 Democracy_Index: 5.74
 total_fertility_rate: 5.129
 death_rate:
-- 6.611
-- 6.706
-- 6.934
-- 6.983
+  - 6.611
+  - 6.706
+  - 6.934
+  - 6.983
 maritime_identification_digits: 655
 mobile_country_code: 650
 FIPS_10_4_countries_and_regions_: MI
 birth_rate:
-- 32.611
-- 32.859
-- 33.233
-- 33.598
+  - 32.611
+  - 32.859
+  - 33.233
+  - 33.598
 life_expectancy: 63.223
 ISO_3166_1_numeric_code: 454
 M49_code: 454
 OmegaWiki_Defined_Meaning: 8354
 male_population:
-- 9670800
-- 9168342
-- 9418758
-- 9924861
+  - 9670800
+  - 9168342
+  - 9418758
+  - 9924861
 IAB_code: 1346
 area: 118484
 Commons_category: Malawi
@@ -245,10 +245,10 @@ subreddit: Malawi
 hashtag: Malawi
 INSEE_countries_and_foreign_territories_code: 99334
 urban_population:
-- 3376840
-- 3519490
-- 3240276
-- 3668876
+  - 3376840
+  - 3519490
+  - 3240276
+  - 3668876
 number_of_out_of_school_children: 764717
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Zomba%20Plateau%20banner.jpg"
 ISO_3166_1_alpha_3_code: MWI
@@ -258,16 +258,16 @@ inception: "1964-07-06"
 has_time_started: "1964-07-06"
 coordinates_of_westernmost_point: "Point(32.6725 -13.6208)"
 female_population:
-- 9698995
-- 9958303
-- 10218942
-- 10480456
+  - 9698995
+  - 9958303
+  - 10218942
+  - 10480456
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Malawian%20national%20anthem.oga"
 rural_population:
-- 15627061
-- 16000221
-- 16370252
-- 16736441
+  - 15627061
+  - 16000221
+  - 16370252
+  - 16736441
 population: 18622104
 IOC_country_code: MAW
 licence_plate_code: MW

@@ -108,10 +108,12 @@ official name:
   - ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ
   - 大清
 native label: ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ
-"dissolved, abolished or demolished date": 1912-01-01T00:00:00Z
+"dissolved, abolished or demolished date": 1912-01-01T00:00:00Z 
+has_time_stopped: 1912-01-01T00:00:00Z 
 end time: 1911-01-01T00:00:00Z
 start time: 1636-01-01T00:00:00Z
-inception: 1636-01-01T00:00:00Z
+inception: 1636-01-01T00:00:00Z 
+has_time_started: 1636-01-01T00:00:00Z 
 ---
 
 

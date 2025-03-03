@@ -9,6 +9,7 @@ capital: '[[_Standards/WikiData/WD~London,84]]'
 coat_of_arms: "[[_Standards/WikiData/WD~royal_coat_of_arms_of_the_United_Kingdom,165762]]"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20United%20Kingdom%20%281901-1952%29.svg"
 Commons_category: "British Empire"
+has_time_started: 1583-01-01T00:00:00Z 
 continent:
   - '[[_Standards/WikiData/WD~Africa,15]]'
   - '[[_Standards/WikiData/WD~Americas,828]]'
@@ -42,12 +43,24 @@ official_language: '[[_Standards/WikiData/WD~English,1860]]'
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/British%20Empire%20banner%20map%20border.jpg"
 PM20_geo_code: A23
 population: 680000000
-replaces: "[[_Standards/WikiData/WD~English_overseas_possession,617219]]"
 shares_border_with: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-spoken_text_audio:
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/En-British%20Empire-article.oga"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B2%D6%80%D5%AB%D5%BF%D5%A1%D5%B6%D5%A1%D5%AF%D5%A1%D5%B6%20%D5%AF%D5%A1%D5%B5%D5%BD%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6.ogg"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_British_Empire,8440401]]"
+anthem: "[[_Standards/WikiData/WD~God Save the King,40807]]"
+basic form of government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+area: 37200000
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%281-2%29.svg
+PM20 geo code: A23
+"dissolved, abolished or demolished date": 1997-01-01T00:00:00Z 
+has_time_stopped: 1997-01-01T00:00:00Z 
+coordinate location: Point(-0.1275 51.507222)
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/British%20Empire%20banner%20map%20border.jpg
+spoken text audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/En-British%20Empire-article.oga
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B2%D6%80%D5%AB%D5%BF%D5%A1%D5%B6%D5%A1%D5%AF%D5%A1%D5%B6%20%D5%AF%D5%A1%D5%B5%D5%BD%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6.ogg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20British%20Empire.png
+Commons category: British Empire
+Krugosvet article: istoriya/BRITANSKAYA_IMPERIYA.html
+native label: British Empire
 ---
 
 ## #has_/text_of_/abstract 

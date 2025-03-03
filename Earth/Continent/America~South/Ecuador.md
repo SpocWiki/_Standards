@@ -69,7 +69,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Shuar,617291]]'
 - '[[_Standards/WikiData/WD~Waorani,758570]]'
 - '[[_Standards/WikiData/WD~Tsachila,2567055]]'
-- "[[_Standards/WikiData/WD~Cha'palaa,2591329]]"
+  - "[[_Standards/WikiData/WD~Cha'palaa,2591329]]"
 - "[[_Standards/WikiData/WD~Awa_Pit,2603103]]"
 - '[[_Standards/WikiData/WD~Cofán,2669254]]'
 - '[[_Standards/WikiData/WD~Achuar,2823170]]'
@@ -126,29 +126,29 @@ life_expectancy: 78
 total_fertility_rate: 2.21
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ec,41113]]'
 BTI_Governance_Index:
-- 3.66
-- 3.73
-- 4.37
-- 4.42
-- 4.48
-- 4.57
-- 4.88
-- 4.99
-- 5.22
+  - 3.66
+  - 3.73
+  - 4.37
+  - 4.42
+  - 4.48
+  - 4.57
+  - 4.88
+  - 4.99
+  - 5.22
 Gini_coefficient: 47.3
 death_rate: 4.85
 ISO_3166_1_numeric_code: 218
 M49_code: 218
 BTI_Status_Index:
-- 5.39
-- 5.55
-- 5.56
-- 5.62
-- 5.65
-- 5.72
-- 5.75
-- 6.23
-- 6.48
+  - 5.39
+  - 5.55
+  - 5.56
+  - 5.62
+  - 5.65
+  - 5.72
+  - 5.75
+  - 6.23
+  - 6.48
 basic_form_of_government:
 - "[[_Standards/WikiData/WD~presidential_system,49892]]"
 - '[[_Standards/WikiData/WD~republic,7270]]'
@@ -165,42 +165,42 @@ Unicode_character: 🇪🇨
 OmegaWiki_Defined_Meaning: 8349
 number_of_out_of_school_children: 225277
 short_name:
-- ECU
-- Ecuador
-- Ecuador
-- Équateur
-- Ecuador
-- Ecuador
-- اکوادور
-- Ecuador
-- Ecuador
-- Ecuador
-- الإكوادور
-- ইকুয়েডর
-- Equador
-- Ekuador
-- ECU
-- ईक्वाडोर
-- Ekuador
-- エクアドル
-- 에콰도르
-- Ekwador
-- Equador
-- Ecuador
-- எக்குவடோர்
-- Ekvador
-- Еквадор
-- Ecuador
-- 厄瓜多尔
+  - ECU
+  - Ecuador
+  - Ecuador
+  - Équateur
+  - Ecuador
+  - Ecuador
+  - اکوادور
+  - Ecuador
+  - Ecuador
+  - Ecuador
+  - الإكوادور
+  - ইকুয়েডর
+  - Equador
+  - Ekuador
+  - ECU
+  - ईक्वाडोर
+  - Ekuador
+  - エクアドル
+  - 에콰도르
+  - Ekwador
+  - Equador
+  - Ecuador
+  - எக்குவடோர்
+  - Ekvador
+  - Еквадор
+  - Ecuador
+  - 厄瓜多尔
 - "\U0001F1EA\U0001F1E8"
-- EC
-- Эквадор
-- אקוודור
+  - EC
+  - Эквадор
+  - אקוודור
 INSEE_countries_and_foreign_territories_code: 99420
 ISO_3166_1_alpha_3_code: ECU
 IOC_country_code: ECU
 official_name:
-- Ecuador
+  - Ecuador
 - "اکوادورِ جمهوری"
 - "جمهورية الإكوادور"
 - "ইকুয়েডর প্রজাতন্ত্র"
@@ -214,7 +214,7 @@ official_name:
 - "ईक्वाडोर गणराज्य"
 - "Republik Ekuador"
 - "Repubblica dell'Ecuador"
-- エクアドル共和国
+  - エクアドル共和国
 - "에콰도르 공화국"
 - "Res Publica Aequatoriae"
 - "Republiek Ecuador"
@@ -227,7 +227,7 @@ official_name:
 - "Республіка Еквадор"
 - "جمہوریہ ایکواڈور"
 - "Cộng hòa Ecuador"
-- 厄瓜多共和國
+  - 厄瓜多共和國
 Commons_category: Ecuador
 hashtag: Ecuador
 Commons_gallery: Ecuador
@@ -249,58 +249,58 @@ head_of_state: "[[_Standards/WikiData/WD~Daniel_Noboa,112075625]]"
 head_of_government: "[[_Standards/WikiData/WD~Daniel_Noboa,112075625]]"
 UMLS_CUI: C0016968
 demonym:
-- إكواطوري
-- إكواطورية
-- إكواطوريين
-- إكواطوريات
-- إكوادوري
-- إكوادورية
-- ecuatoriana
-- ecuatorianu
-- ইকুয়েডরীয়
-- ecuadorianer
-- Ecuadoraner
-- Ecuadoranerin
-- Ecuadoran
-- ecuatoriano
-- Équatorien
-- Équatorienne
-- אקוודורי
-- אקוודורית
-- ecuadori
-- Equadorano
-- ecuadoriana
-- ecuadoriane
-- ecuadoriani
-- ecuadoriano
-- ecuadoran
-- ecuadorian
-- ecuadoriană
-- ecuadorieni
-- эквадорцы
-- ecuadorian
-- ecuadorianska
-- ecuadoregna
-- ecuadoregne
-- ecuadoregni
-- ecuadoregno
-- ecuadorian
-- ecuadoriana
-- ecuadoriane
-- ecuadoriani
-- Lekvadoränan
-- Eacuadórach
-- ecuatoriana
-- إكوادوريون
-- Ecuadorian
+  - إكواطوري
+  - إكواطورية
+  - إكواطوريين
+  - إكواطوريات
+  - إكوادوري
+  - إكوادورية
+  - ecuatoriana
+  - ecuatorianu
+  - ইকুয়েডরীয়
+  - ecuadorianer
+  - Ecuadoraner
+  - Ecuadoranerin
+  - Ecuadoran
+  - ecuatoriano
+  - Équatorien
+  - Équatorienne
+  - אקוודורי
+  - אקוודורית
+  - ecuadori
+  - Equadorano
+  - ecuadoriana
+  - ecuadoriane
+  - ecuadoriani
+  - ecuadoriano
+  - ecuadoran
+  - ecuadorian
+  - ecuadoriană
+  - ecuadorieni
+  - эквадорцы
+  - ecuadorian
+  - ecuadorianska
+  - ecuadoregna
+  - ecuadoregne
+  - ecuadoregni
+  - ecuadoregno
+  - ecuadorian
+  - ecuadoriana
+  - ecuadoriane
+  - ecuadoriani
+  - Lekvadoränan
+  - Eacuadórach
+  - ecuatoriana
+  - إكوادوريون
+  - Ecuadorian
 ISNI: 0000000122909811
 motto_text:
 - "« Allah,Vətən və Azadlıq \""
 - "Duw, Mamwlad a Rhyddid"
 coordinates_of_westernmost_point: "Point(-91.55 -0.37)"
 nominal_GDP:
-- 106165866000
-- 115049476000
+  - 106165866000
+  - 115049476000
 inception: "1840-02-16"
 has_time_started: "1840-02-16"
 coordinate_location: "Point(-78.0 -1.0)"
@@ -344,10 +344,10 @@ coordinates_of_easternmost_point: "Point(-75.1887341 -0.9709694)"
 coordinates_of_southernmost_point: "Point(-79.0101853 -5.0120903)"
 PM20_geo_code: E77
 rural_population:
-- 6246175
-- 6302697
-- 6342935
-- 6377754
+  - 6246175
+  - 6302697
+  - 6342935
+  - 6377754
 official_website:
 - "http://www.culturaypatrimonio.gob.ec/"
 - "http://www.turismo.gob.ec/"
@@ -355,20 +355,20 @@ official_website:
 - "http://www.presidencia.gob.ec/"
 - "https://educacion.gob.ec/"
 female_population:
-- 8670974
-- 8798448
-- 8910903
-- 9016398
+  - 8670974
+  - 8798448
+  - 8910903
+  - 9016398
 male_population:
-- 8672767
-- 8790148
-- 8886835
-- 8984602
+  - 8672767
+  - 8790148
+  - 8886835
+  - 8984602
 urban_population:
-- 11097565
-- 11285898
-- 11454802
-- 11623246
+  - 11097565
+  - 11285898
+  - 11454802
+  - 11623246
 population: 16938986
 coordinates_of_northernmost_point: "Point(-78.87 1.45)"
 CIVICUS_Monitor_country_entry: ecuador
@@ -390,11 +390,11 @@ Dewey_Decimal_Classification: 2--866
 ITU_letter_code: EQA
 has_id_wikidata: Q736
 location:
-- -0.23
-- -78.5
+    - -0.23
+    - -78.5
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26884
 isDeleted: false
 confidential: public
@@ -411,16 +411,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Ecuador
-- Équateur
-- إكوادور
-- 厄瓜多尔
-- Эквадор
+    - Ecuador
+    - Équateur
+    - إكوادور
+    - 厄瓜多尔
+    - Эквадор
 - "the Republic of Ecuador"
 - "la República del Ecuador"
 - "Ecuador (el)"
 Languages:
-- es-EC
+    - es-EC
 icon: flag-ec
 ---
 

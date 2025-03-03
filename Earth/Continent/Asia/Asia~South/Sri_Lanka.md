@@ -4,39 +4,39 @@ motto_text:
 - "Refreshingly Sri Lanka... the Wonder of Asia"
 demonym:
 - "Srí Lancach"
-- Šrilančan
-- Šrilančanka
-- سريلانكي
-- سريلانكية
-- سريلانكيين
-- سريلانكيات
-- سريلانكي
-- سريلانكية
-- سريلانكيون
+  - Šrilančan
+  - Šrilančanka
+  - سريلانكي
+  - سريلانكية
+  - سريلانكيين
+  - سريلانكيات
+  - سريلانكي
+  - سريلانكية
+  - سريلانكيون
 - "de Sri Lanka"
-- শ্রীলঙ্কান
-- singalès
-- singalesa
-- singaleses
-- singalesos
+  - শ্রীলঙ্কান
+  - singalès
+  - singalesa
+  - singaleses
+  - singalesos
 - "Sri Lanker"
-- Srilankais
-- Srilankaise
+  - Srilankais
+  - Srilankaise
 - "סרי לנקי"
 - "סרי לנקית"
 - "Srí Lanka-i"
-- Sri-Lankano
-- singalese
-- singalesi
-- srilanca
+  - Sri-Lankano
+  - singalese
+  - singalesi
+  - srilanca
 - "Sri Lankaan"
-- srilankez
-- srilankeză
-- srilankezi
-- singałeza
-- singałeze
-- singałezi
-- singałezo
+  - srilankez
+  - srilankeză
+  - srilankezi
+  - singałeza
+  - singałeze
+  - singałezi
+  - singałezo
 - "Sri Lankan"
 coordinates_of_southernmost_point: "Point(80.58523 5.91893)"
 coordinates_of_northernmost_point: "Point(80.21222 9.83583)"
@@ -128,15 +128,15 @@ VAT_rate: 17
 marriageable_age: 18
 mains_voltage: 230
 BTI_Governance_Index:
-- 4.8
-- 5.4
-- 5.6
-- 4.24
-- 4.55
-- 4.69
-- 5.25
-- 5.32
-- 5.45
+  - 4.8
+  - 5.4
+  - 5.6
+  - 4.24
+  - 4.55
+  - 4.69
+  - 5.25
+  - 5.32
+  - 5.45
 retirement_age: 55
 capital:
 - '[[_Standards/WikiData/WD~Colombo,35381]]'
@@ -150,14 +150,14 @@ Happy_Planet_Index_score: 46.8
 trunk_prefix: 0
 mobile_country_code: 413
 BTI_Status_Index:
-- 5.57
-- 5.58
-- 5.85
-- 6.04
-- 6.17
-- 6.58
-- 6.61
-- 6.63
+  - 5.57
+  - 5.58
+  - 5.85
+  - 6.04
+  - 6.17
+  - 6.58
+  - 6.61
+  - 6.63
 Democracy_Index: 6.14
 flag: "[[_Standards/WikiData/WD~flag_of_Sri_Lanka,154823]]"
 contains_the_administrative_territorial_entity:
@@ -211,12 +211,12 @@ UMLS_CUI: C0038088
 coordinate_location: "Point(81.0 7.0)"
 ISNI: 0000000121527336
 MeSH_tree_code:
-- Z01.252.245.782.984
-- Z01.639.520.875
+  - Z01.252.245.782.984
+  - Z01.639.520.875
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/NASASri%20Lanka.jpg"
 nominal_GDP:
-- 88496535599
-- 74403578363
+  - 88496535599
+  - 74403578363
 Unicode_character: 🇱🇰 
 CIVICUS_Monitor_country_entry: sri-lanka
 GitHub_topic: sri-lanka
@@ -238,10 +238,10 @@ short_name: "\U0001F1F1\U0001F1F0"
 coordinates_of_westernmost_point: "Point(79.52224 9.38811)"
 Inequality_adjusted_Human_Development_Index: 0.676
 death_rate:
-- 7.36
-- 7.056
-- 7.072
-- 7.287
+  - 7.36
+  - 7.056
+  - 7.072
+  - 7.287
 Human_Development_Index: 0.782
 literacy_rate: 91.9
 licence_plate_code: CL
@@ -251,10 +251,10 @@ Dewey_Decimal_Classification: 2--5493
 male_population: 10727000
 female_population: 11429000
 birth_rate:
-- 13.781
-- 14.019
-- 14.235
-- 14.534
+  - 13.781
+  - 14.019
+  - 14.235
+  - 14.534
 OmegaWiki_Defined_Meaning: 7530
 FIPS_10_4_countries_and_regions_: CE
 population: 21444000
@@ -274,19 +274,19 @@ inception: "1972-05-22"
 has_time_started: "1972-05-22"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg"
 urban_population:
-- 4052088
-- 4101702
-- 4178622
-- 4220157
+  - 4052088
+  - 4101702
+  - 4178622
+  - 4220157
 Commons_category: "Sri Lanka"
 Commons_gallery: "Sri Lanka"
 ITU_letter_code: CLN
 IOC_country_code: SRI
 rural_population:
-- 17750912
-- 17817298
-- 17960843
-- 17977378
+  - 17750912
+  - 17817298
+  - 17960843
+  - 17977378
 U_S_National_Archives_Identifier: 10035678
 geoshape: "http://commons.wikimedia.org/data/main/Data:Sri+Lanka.map"
 pronunciation_audio:
@@ -302,11 +302,11 @@ official_website: "https://www.gov.lk/index.php"
 country_calling_code: +94
 has_id_wikidata: Q854
 location:
-- 6.86
-- 80.425
+    - 6.86
+    - 80.425
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26949
 isDeleted: false
 confidential: public
@@ -325,14 +325,14 @@ expiryDate:
 aliases:
 - "Sri Lanka"
 - "سري لانكا"
-- 斯里兰卡
-- Шри-Ланка
+    - 斯里兰卡
+    - Шри-Ланка
 - "the Democratic Socialist Republic of Sri Lanka"
 - "la República Socialista Democrática de Sri Lanka"
 Languages:
-- si
-- ta
-- en
+    - si
+    - ta
+    - en
 icon: flag-lk
 ---
 

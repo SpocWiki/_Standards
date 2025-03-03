@@ -6,41 +6,41 @@ Unicode_character: 🇨🇷
 Colon_Classification: SG--758
 Krugosvet_article: strany-mira/kosta-rika
 demonym:
-- كوستاريكي
-- كوستاريكية
-- costarricanu
+  - كوستاريكي
+  - كوستاريكية
+  - costarricanu
 - "কোস্টা রিকান"
-- costaricaner
-- Costa-Ricaner
-- Costa-Ricanerin
+  - costaricaner
+  - Costa-Ricaner
+  - Costa-Ricanerin
 - "Costa Rican"
-- Kostrarikano
-- Costaricien
-- Costaricienne
+  - Kostrarikano
+  - Costaricien
+  - Costaricienne
 - "קוסטה ריקני"
 - "קוסטה ריקנית"
 - "Costa Rica-i"
-- costaricana
-- costaricane
-- costaricani
-- costaricano
-- costarican
+  - costaricana
+  - costaricane
+  - costaricani
+  - costaricano
+  - costarican
 - "Costa Ricaan"
-- costarican
-- costaricană
-- costaricani
-- костариканцы
-- costarican
-- costaricana
-- costaricane
-- costaricani
-- Kostarikänan
-- كوسطاريكي
-- كوسطاريكية
-- كوسطاريكيين
-- كوسطاريكيات
+  - costarican
+  - costaricană
+  - costaricani
+  - костариканцы
+  - costarican
+  - costaricana
+  - costaricane
+  - costaricani
+  - Kostarikänan
+  - كوسطاريكي
+  - كوسطاريكية
+  - كوسطاريكيين
+  - كوسطاريكيات
 - "Cósta Ríceach"
-- كوستاريكيون
+  - كوستاريكيون
 - "Costa Ricans"
 motto_text:
 - "Essential Costa Rica"
@@ -76,8 +76,8 @@ part_of:
 head_of_state: "[[_Standards/WikiData/WD~Rodrigo_Chaves,98017689]]"
 head_of_government: "[[_Standards/WikiData/WD~Rodrigo_Chaves,98017689]]"
 nominal_GDP:
-- 68380838316
-- 64616482168
+  - 68380838316
+  - 64616482168
 coordinates_of_easternmost_point: "Point(-87.09442 5.51879)"
 coordinate_location: "Point(-84.0 10.0)"
 coordinates_of_northernmost_point: "Point(-85.62 11.22)"
@@ -186,26 +186,26 @@ VAT_rate: 13
 marriageable_age: 18
 suicide_rate: 7.6
 BTI_Status_Index:
-- 8.7
-- 8.37
-- 8.49
-- 8.73
-- 8.74
-- 8.84
-- 8.86
+  - 8.7
+  - 8.37
+  - 8.49
+  - 8.73
+  - 8.74
+  - 8.84
+  - 8.86
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.cr,40973]]'
 Gini_coefficient: 49.3
 Happy_Planet_Index_score: 62.1
 Inequality_adjusted_Human_Development_Index: 0.664
 BTI_Governance_Index:
-- 6.66
-- 6.73
-- 6.82
-- 6.85
-- 6.92
-- 6.93
-- 6.98
-- 7.13
+  - 6.66
+  - 6.73
+  - 6.82
+  - 6.85
+  - 6.92
+  - 6.93
+  - 6.98
+  - 7.13
 Human_Development_Index: 0.809
 Democracy_Index: 8.16
 ISO_3166_1_numeric_code: 188
@@ -213,17 +213,17 @@ M49_code: 188
 total_fertility_rate: 1.819
 mobile_country_code: 712
 death_rate:
-- 5.468
-- 5.627
-- 7.113
-- 7.192
+  - 5.468
+  - 5.627
+  - 7.113
+  - 7.192
 IAB_code: 1275
 literacy_rate: 97.41
 birth_rate:
-- 11.686
-- 11.873
-- 12.152
-- 12.847
+  - 11.686
+  - 11.873
+  - 12.152
+  - 12.847
 licence_plate_code: CR
 ISO_3166_1_alpha_2_code: CR
 WIPO_ST_3: CR
@@ -237,27 +237,27 @@ life_expectancy: 79.831
 ITU_letter_code: CTR
 OmegaWiki_Defined_Meaning: 8355
 urban_population:
-- 4071490
-- 4137983
-- 4196609
-- 4250456
+  - 4071490
+  - 4137983
+  - 4196609
+  - 4250456
 rural_population:
-- 930373
-- 957348
-- 985122
-- 1013042
+  - 930373
+  - 957348
+  - 985122
+  - 1013042
 IOC_country_code: CRC
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Costa%20Rica.svg"
 female_population:
-- 2538156
-- 2558483
-- 2575216
-- 2590119
+  - 2538156
+  - 2558483
+  - 2575216
+  - 2590119
 male_population:
-- 2546376
-- 2564622
-- 2578741
-- 2590709
+  - 2546376
+  - 2564622
+  - 2578741
+  - 2590709
 population: 5044197
 area: 51179.92
 Commons_category: "Costa Rica"
@@ -274,11 +274,11 @@ native_label: "República de Costa Rica"
 coordinates_of_southernmost_point: "Point(-87.07371 5.49897)"
 has_id_wikidata: Q800
 location:
-- 9.95
-- -84.08
+    - 9.95
+    - -84.08
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26872
 isDeleted: false
 confidential: public
@@ -296,14 +296,14 @@ publishDate:
 expiryDate: 
 aliases:
 - "Costa Rica"
-- كوستاريكا
-- 哥斯达黎加
-- Коста-Рика
+    - كوستاريكا
+    - 哥斯达黎加
+    - Коста-Рика
 - "the Republic of Costa Rica"
 - "la República de Costa Rica"
 Languages:
-- es-CR
-- en
+    - es-CR
+    - en
 icon: flag-cr
 ---
 

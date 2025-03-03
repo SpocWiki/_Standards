@@ -30,7 +30,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Matsés,2981620]]'
 - '[[_Standards/WikiData/WD~Yaminawa,3026110]]'
 - '[[_Standards/WikiData/WD~Isconahua,3052971]]'
-- "[[_Standards/WikiData/WD~Yanesha',3088540]]"
+  - "[[_Standards/WikiData/WD~Yanesha',3088540]]"
 - '[[_Standards/WikiData/WD~Yameo,3121032]]'
 - '[[_Standards/WikiData/WD~Hibito,3135164]]'
 - '[[_Standards/WikiData/WD~Yine,3135432]]'
@@ -250,65 +250,65 @@ coordinates_of_westernmost_point: "Point(-81.328611111 -4.682777777)"
 name: ꠙꠦꠞꠥ
 UMLS_CUI: C0031238
 demonym:
-- پيروڤي
-- پيروڤية
-- پيروڤيات
-- پيروڤيين
-- peruà
-- peruana
-- peruanes
-- peroan
-- peroana
-- Perujec
-- Perujka
-- Peiriúch
-- بيروفي
-- بيروفية
-- peruanu
-- পেরুভীয়
-- Peruanerin
-- peruana
-- Péruvien
-- Péruvienne
-- פרואני
-- פרואנית
-- perui
-- peruviana
-- peruviane
-- peruviani
-- peruviano
-- peruan
-- Peruaan
-- Peruaanse
-- Peruviaan
-- Peruviaanse
-- peruan
-- peruană
-- peruani
-- перуанцы
-- peruan
-- peruana
-- peruane
-- peruani
-- peruegna
-- peruegne
-- peruegni
-- peruegno
-- Peruvänan
-- بيروفيون
-- peruans
-- Peruaner
-- Peruvian
-- peruana
-- Peruano
-- peruano
+  - پيروڤي
+  - پيروڤية
+  - پيروڤيات
+  - پيروڤيين
+  - peruà
+  - peruana
+  - peruanes
+  - peroan
+  - peroana
+  - Perujec
+  - Perujka
+  - Peiriúch
+  - بيروفي
+  - بيروفية
+  - peruanu
+  - পেরুভীয়
+  - Peruanerin
+  - peruana
+  - Péruvien
+  - Péruvienne
+  - פרואני
+  - פרואנית
+  - perui
+  - peruviana
+  - peruviane
+  - peruviani
+  - peruviano
+  - peruan
+  - Peruaan
+  - Peruaanse
+  - Peruviaan
+  - Peruviaanse
+  - peruan
+  - peruană
+  - peruani
+  - перуанцы
+  - peruan
+  - peruana
+  - peruane
+  - peruani
+  - peruegna
+  - peruegne
+  - peruegni
+  - peruegno
+  - Peruvänan
+  - بيروفيون
+  - peruans
+  - Peruaner
+  - Peruvian
+  - peruana
+  - Peruano
+  - peruano
 ISNI:
 - 0000000122858313
-- 000000012290392X
+  - 000000012290392X
 coordinates_of_northernmost_point: "Point(-75.17 -0.03)"
 nominal_GDP:
-- 223717791483
-- 242631549613
+  - 223717791483
+  - 242631549613
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Peru%20%28orthographic%20projection%29.svg"
 motto_text:
 - "Gwlad yr Inca"
@@ -337,25 +337,25 @@ age_of_majority: 18
 mains_voltage: 220
 suicide_rate: 2.7
 BTI_Governance_Index:
-- 5.4
-- 5.27
-- 5.65
-- 5.73
-- 5.77
-- 5.78
-- 5.81
-- 5.82
-- 5.94
+  - 5.4
+  - 5.27
+  - 5.65
+  - 5.73
+  - 5.77
+  - 5.78
+  - 5.81
+  - 5.82
+  - 5.94
 BTI_Status_Index:
-- 6.6
-- 6.56
-- 6.57
-- 6.74
-- 6.83
-- 6.85
-- 6.86
-- 6.94
-- 7.04
+  - 6.6
+  - 6.56
+  - 6.57
+  - 6.74
+  - 6.83
+  - 6.85
+  - 6.86
+  - 6.94
+  - 7.04
 life_expectancy: 73
 water_as_percent_of_area: 8.8
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.pe,41954]]'
@@ -404,33 +404,33 @@ short_name: "\U0001F1F5\U0001F1EA"
 area: 1285216
 INSEE_countries_and_foreign_territories_code: 99422
 male_population:
-- 16695110
-- 16268182
-- 16499432
-- 16857086
+  - 16695110
+  - 16268182
+  - 16499432
+  - 16857086
 Commons_gallery: Peru
 hashtag: Peru
 Commons_category: Peru
 urban_population:
-- 26799750
-- 25635888
-- 26076625
-- 26466645
+  - 26799750
+  - 25635888
+  - 26076625
+  - 26466645
 rural_population:
-- 7188973
-- 7228131
-- 7248826
-- 7249838
+  - 7188973
+  - 7228131
+  - 7248826
+  - 7249838
 X_Twitter_username: peru
 CIVICUS_Monitor_country_entry: peru
 GitHub_topic: peru
 inception: "1821-07-28"
 has_time_started: "1821-07-28"
 female_population:
-- 16556679
-- 16805323
-- 17020361
-- 17192503
+  - 16556679
+  - 16805323
+  - 17020361
+  - 17192503
 coordinate_location: "Point(-76.0 -9.4)"
 seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Sello%20de%20la%20Rep%C3%BAblica%20del%20Per%C3%BA.svg"
 coordinates_of_southernmost_point: "Point(-70.3775 -18.352222222)"
@@ -444,11 +444,11 @@ official_website: "https://www.gob.pe/"
 country_calling_code: +51
 has_id_wikidata: Q419
 location:
-- -12.05
-- -77.05
+    - -12.05
+    - -77.05
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26991
 isDeleted: false
 confidential: public
@@ -465,19 +465,19 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Peru
-- Perú
-- Pérou
-- بيرو
-- 秘鲁
-- Перу
+    - Peru
+    - Perú
+    - Pérou
+    - بيرو
+    - 秘鲁
+    - Перу
 - "the Republic of Peru"
 - "la República del Perú"
 - "Perú (el)"
 Languages:
-- es-PE
-- qu
-- ay
+    - es-PE
+    - qu
+    - ay
 icon: flag-pe
 ---
 

@@ -1,10 +1,10 @@
 ---
 location:
-- 50.45
-- 30.5
+  - 50.45
+  - 30.5
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27044
 isDeleted: false
 confidential: public
@@ -21,17 +21,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Ukraine
-- Ucrania
-- أوكرانيا
-- 乌克兰
-- Украина
+  - Ukraine
+  - Ucrania
+  - أوكرانيا
+  - 乌克兰
+  - Украина
 Languages:
-- uk
-- ru-UA
-- rom
-- pl
-- hu
+  - uk
+  - ru-UA
+  - rom
+  - pl
+  - hu
 icon: flag-ua
 has_id_wikidata: Q212
 ethnic_group:
@@ -240,10 +240,10 @@ part_of:
 - '[[_Standards/WikiData/WD~Europe,46]]'
 - "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
 speed_limit:
-- 20
-- 60
-- 90
-- 130
+  - 20
+  - 60
+  - 90
+  - 130
 VAT_rate: 20
 country: '[[_Standards/WikiData/WD~Ukraine,212]]'
 unemployment_rate: 8
@@ -251,27 +251,27 @@ marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
 BTI_Governance_Index:
-- 4.7
-- 4.26
-- 4.64
-- 4.94
-- 5.02
-- 5.25
-- 5.31
-- 5.41
-- 5.52
+  - 4.7
+  - 4.26
+  - 4.64
+  - 4.94
+  - 5.02
+  - 5.25
+  - 5.31
+  - 5.41
+  - 5.52
 life_expectancy: 69
 minimum_wage: 7100
 birth_rate:
-- 7.3
-- 7.8
-- 8.1
-- 7.659
+  - 7.3
+  - 7.8
+  - 8.1
+  - 7.659
 death_rate:
-- 14.7
-- 15.9
-- 18.5
-- 21.4
+  - 14.7
+  - 15.9
+  - 18.5
+  - 21.4
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ua,40656]]'
 Gini_coefficient: 25.6
 Happy_Planet_Index_score: 40.9
@@ -279,15 +279,15 @@ trunk_prefix: 0
 basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
 Democracy_Index: 5.81
 BTI_Status_Index:
-- 5.89
-- 5.96
-- 6.05
-- 6.54
-- 6.55
-- 6.76
-- 6.81
-- 6.93
-- 6.96
+  - 5.89
+  - 5.96
+  - 6.05
+  - 6.54
+  - 6.55
+  - 6.76
+  - 6.81
+  - 6.93
+  - 6.96
 Inequality_adjusted_Human_Development_Index: 0.726
 Human_Development_Index: 0.773
 UIC_numerical_country_code: 22
@@ -316,8 +316,8 @@ MeSH_tree_code: Z01.542.248.960
 coordinates_of_easternmost_point: "Point(40.228333333 49.260277777)"
 coordinate_location: "Point(32.0 49.0)"
 nominal_GDP:
-- 199765856765
-- 160502739236
+  - 199765856765
+  - 160502739236
 funder: "[[_Standards/WikiData/WD~European_Union,458]]"
 member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
 capital: '[[_Standards/WikiData/WD~Kyiv,1899]]'
@@ -336,13 +336,13 @@ Colon_Classification: SG--587
 Krugosvet_article: strany_mira/UKRAINA.html
 Unicode_character: 🇺🇦 
 hashtag:
-- Ucraina
-- Ucrânia
-- Ukraine
-- україна
-- 우크라이나
-- ウクライナ
-- 烏克蘭
+  - Ucraina
+  - Ucrânia
+  - Ukraine
+  - україна
+  - 우크라이나
+  - ウクライナ
+  - 烏克蘭
 CIVICUS_Monitor_country_entry: ukraine
 subreddit: ukraine
 GitHub_topic: ukraine
@@ -355,15 +355,15 @@ Commons_gallery: Україна
 Baidu_Tieba_name: 乌克兰
 short_name: "\U0001F1FA\U0001F1E6"
 female_population:
-- 23737604
-- 23871817
-- 20550751
-- 23554678
+  - 23737604
+  - 23871817
+  - 20550751
+  - 23554678
 urban_population:
-- 30587737
-- 30772133
-- 30897778
-- 26569220
+  - 30587737
+  - 30772133
+  - 30897778
+  - 26569220
 population: 41167335
 coordinates_of_westernmost_point: "Point(22.137222222 48.419166666)"
 number_of_out_of_school_children: 117710
@@ -389,22 +389,22 @@ INSEE_countries_and_foreign_territories_code: 99155
 official_name: Україна
 native_label: Україна
 rural_population:
-- 11430780
-- 13261249
-- 13435621
-- 13576734
+  - 11430780
+  - 13261249
+  - 13435621
+  - 13576734
 social_media_followers: 2299072
 PM20_geo_code: A54
 demonym:
-- українець
-- українка
-- українці
+  - українець
+  - українка
+  - українці
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lesser%20Coat%20of%20Arms%20of%20Ukraine.svg"
 male_population:
-- 17449249
-- 20294308
-- 20470151
-- 20602695
+  - 17449249
+  - 20294308
+  - 20470151
+  - 20602695
 inception: "1991-08-24"
 has_time_started: "1991-08-24"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Ukraine.map"

@@ -72,44 +72,44 @@ marriageable_age: 21
 mains_voltage: 230
 Democracy_Index: 3.1
 BTI_Status_Index:
-- 4.5
-- 4.6
-- 4.8
-- 3.89
-- 4.57
-- 4.65
-- 4.83
-- 4.87
+  - 4.5
+  - 4.6
+  - 4.8
+  - 3.89
+  - 4.57
+  - 4.65
+  - 4.83
+  - 4.87
 BTI_Governance_Index:
-- 5.1
-- 5.2
-- 4.45
-- 4.59
-- 4.76
-- 4.91
-- 4.92
-- 5.21
-- 5.25
+  - 5.1
+  - 5.2
+  - 4.45
+  - 4.59
+  - 4.76
+  - 4.91
+  - 4.92
+  - 5.21
+  - 5.25
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.rw,43592]]'
 Happy_Planet_Index_score: 39.2
 Inequality_adjusted_Human_Development_Index: 0.402
 Gini_coefficient: 43.7
 Human_Development_Index: 0.534
 death_rate:
-- 6.28
-- 5.847
-- 5.998
-- 6.137
+  - 6.28
+  - 5.847
+  - 5.998
+  - 6.137
 total_fertility_rate: 3.898
 IAB_code: 1387
 mobile_country_code: 635
 maritime_identification_digits: 661
 area: 26338
 birth_rate:
-- 29.474
-- 29.976
-- 30.309
-- 30.776
+  - 29.474
+  - 29.976
+  - 30.309
+  - 30.776
 ISO_3166_1_numeric_code: 646
 M49_code: 646
 ISO_3166_1_alpha_2_code: RW
@@ -117,10 +117,10 @@ WIPO_ST_3: RW
 FIPS_10_4_countries_and_regions_: RW
 life_expectancy: 67.129
 rural_population:
-- 10612900
-- 10854688
-- 11096904
-- 11335329
+  - 10612900
+  - 10854688
+  - 11096904
+  - 11335329
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Kigali_Province,167196]]"
 - "[[_Standards/WikiData/WD~Western_Province,737354]]"
@@ -160,37 +160,37 @@ coordinates_of_northernmost_point: "Point(30.45 -1.05)"
 UMLS_CUI: C0035978
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/An%20aerial%20of%20Kigali%20Convention%20Center%20on%20June%2019%2C%202019.%20Photo%20by%20Emmanuel%20Kwizera.jpg"
 demonym:
-- رواندي
-- رواندية
-- روانديين
-- روانديات
-- Ruandach
-- رُوَنْدِيٌّ
-- رُوَنْدِيَّةٌ
-- رُوَنْدِيُّونَ
-- ruandés
-- ruandesa
-- রুয়ান্ডীয়
-- ruandès
-- Ruandano
-- Rwandaise
-- רואנדי
-- Ruandano
-- ruandese
-- ruandesi
-- ruanda
-- rwandez
-- rwandezi
-- ruandeza
-- ruandezi
-- ruandezo
-- Ruandänan
-- Rwandan
-- רואנדית
-- ruandai
-- rwandeză
-- Rwandese
-- Rwandais
+  - رواندي
+  - رواندية
+  - روانديين
+  - روانديات
+  - Ruandach
+  - رُوَنْدِيٌّ
+  - رُوَنْدِيَّةٌ
+  - رُوَنْدِيُّونَ
+  - ruandés
+  - ruandesa
+  - রুয়ান্ডীয়
+  - ruandès
+  - Ruandano
+  - Rwandaise
+  - רואנדי
+  - Ruandano
+  - ruandese
+  - ruandesi
+  - ruanda
+  - rwandez
+  - rwandezi
+  - ruandeza
+  - ruandezi
+  - ruandezo
+  - Ruandänan
+  - Rwandan
+  - רואנדית
+  - ruandai
+  - rwandeză
+  - Rwandese
+  - Rwandais
 official_website: "https://www.gov.rw/"
 ISNI: 0000000404581850
 MeSH_tree_code: Z01.058.290.100.535
@@ -201,29 +201,29 @@ motto_text:
 - "Unity, Work, Patriotism"
 - "Ubumwe, Umurimo, Gukunda Igihugu"
 nominal_GDP:
-- 11055281971
-- 13312796765
+  - 11055281971
+  - 13312796765
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Wv%20Ruanda%20banner.jpg"
 coordinate_location: "Point(30.0 -2.0)"
 Unicode_character: 🇷🇼 
 GitHub_topic: rwanda
 CIVICUS_Monitor_country_entry:
-- rwanda
-- sao-tome-and-principe
+  - rwanda
+  - sao-tome-and-principe
 Libris_URI: sq4656cb0z1sjs7
 Krugosvet_article: strany_mira/RUANDA.html
 official_name:
 - "la République du Rwanda"
-- Rwanda
-- Rwanda
-- Ruanda
-- Rwanda
+  - Rwanda
+  - Rwanda
+  - Ruanda
+  - Rwanda
 nickname: "Mille Collines"
 native_label:
-- Rwanda
-- Rwanda
-- Rwanda
-- Rwanda
+  - Rwanda
+  - Rwanda
+  - Rwanda
+  - Rwanda
 short_name: "\U0001F1F7\U0001F1FC"
 OmegaWiki_Defined_Meaning: 8523
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rwanda.svg"
@@ -233,27 +233,28 @@ IOC_country_code: RWA
 INSEE_countries_and_foreign_territories_code: 99340
 ITU_letter_code: RRW
 urban_population:
-- 2222128
-- 2291674
-- 2364984
-- 2441369
+  - 2222128
+  - 2291674
+  - 2364984
+  - 2441369
 male_population:
-- 6266092
-- 6423145
-- 6582239
-- 6741039
+  - 6266092
+  - 6423145
+  - 6582239
+  - 6741039
 Commons_category: Rwanda
 subreddit: Rwanda
 hashtag: Rwanda
 Commons_gallery: Rwanda
 female_population:
-- 6568936
-- 6723217
-- 6879649
-- 7035658
+  - 6568936
+  - 6723217
+  - 6879649
+  - 7035658
 U_S_National_Archives_Identifier: 10044269
 inception: "1962"
 has_time_started: 1962-06 
+has_time_started: 1962-01-01T00:00:00Z 
 population: 13246394
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Ruanda.wav"

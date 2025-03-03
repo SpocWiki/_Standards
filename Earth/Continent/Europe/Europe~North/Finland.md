@@ -1,10 +1,10 @@
 ---
 location:
-- 62.3173
-- 25.4668
+  - 62.3173
+  - 25.4668
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q33
 SpocWebEntityId: 26891
 isDeleted: false
@@ -22,18 +22,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Finland
-- Finlandia
-- Finlande
-- فنلندا
-- 芬兰
-- Финляндия
+  - Finland
+  - Finlandia
+  - Finlande
+  - فنلندا
+  - 芬兰
+  - Финляндия
 - "the Republic of Finland"
 - "la República de Finlandia"
 Languages:
-- fi-FI
-- sv-FI
-- smn
+  - fi-FI
+  - sv-FI
+  - smn
 icon: flag-fi
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -307,80 +307,80 @@ Baidu_Tieba_name: 芬兰
 coordinates_of_southernmost_point: "Point(20.353333333 59.508333333)"
 MeSH_tree_code: Z01.542.816.186
 UMLS_CUI:
-- C0016132
-- C1704740
+  - C0016132
+  - C1704740
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Finland\"]"
 Instagram_username: thisisfinlandofficial
 demonym:
-- فينلاندي
-- فينلاندية
-- فينلانديين
-- فينلاندييات
-- Fionlannach
-- פיני
-- Fin
-- Finn
-- Finne
-- finländare
-- Finnish
-- Finlandais
-- finne
-- فنلندي
-- فنلندية
-- فنلنديون
-- finlandés
-- finlandesa
-- ফিনিশীয়
-- finlandès
-- finlandesa
-- finlænder
-- Finnin
-- finno
-- finés
-- finesa
-- finesas
-- fineses
-- finlandés
-- finlandesa
-- finlandesas
-- finlandeses
-- soomlased
-- Finlandaise
-- finn
-- Finlandano
-- finlandese
-- finlandesi
-- Fynesow
-- Fynn
-- Fynnes
-- Fynnys
-- finsce
-- suomi
-- finne
-- finne
-- finlandez
-- finlandeză
-- finlandezi
-- финн
-- финны
-- finländskt
-- burundeza
-- burundeze
-- finlandeza
-- finlandeze
-- finlandezi
-- finlandezo
-- Suomiyänan
-- suomalainen
-- פינית
+  - فينلاندي
+  - فينلاندية
+  - فينلانديين
+  - فينلاندييات
+  - Fionlannach
+  - פיני
+  - Fin
+  - Finn
+  - Finne
+  - finländare
+  - Finnish
+  - Finlandais
+  - finne
+  - فنلندي
+  - فنلندية
+  - فنلنديون
+  - finlandés
+  - finlandesa
+  - ফিনিশীয়
+  - finlandès
+  - finlandesa
+  - finlænder
+  - Finnin
+  - finno
+  - finés
+  - finesa
+  - finesas
+  - fineses
+  - finlandés
+  - finlandesa
+  - finlandesas
+  - finlandeses
+  - soomlased
+  - Finlandaise
+  - finn
+  - Finlandano
+  - finlandese
+  - finlandesi
+  - Fynesow
+  - Fynn
+  - Fynnes
+  - Fynnys
+  - finsce
+  - suomi
+  - finne
+  - finne
+  - finlandez
+  - finlandeză
+  - finlandezi
+  - финн
+  - финны
+  - finländskt
+  - burundeza
+  - burundeze
+  - finlandeza
+  - finlandeze
+  - finlandezi
+  - finlandezo
+  - Suomiyänan
+  - suomalainen
+  - פינית
 motto_text:
 - "O na bawn yn y Ffindir"
 - "I wish I was in Finland"
 ISNI: 000000012375441X
 Facebook_username: thisisfinlandFB
 nominal_GDP:
-- 280825957768
-- 296387625264
+  - 280825957768
+  - 296387625264
 lowest_point: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
 official_language:
@@ -423,8 +423,8 @@ marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
 VAT_rate:
-- 24
-- 25.5
+  - 24
+  - 25.5
 birth_rate: 8.1
 Inequality_adjusted_Human_Development_Index: 0.89
 Human_Development_Index: 0.94
@@ -456,15 +456,15 @@ OmegaWiki_Defined_Meaning: 7956
 hashtag: Finland
 Commons_category: Finland
 subreddit:
-- Finland
-- suomi
+  - Finland
+  - suomi
 native_label:
-- Suomi
-- Finland
+  - Suomi
+  - Finland
 social_media_followers:
-- 108459
-- 173306
-- 280412
+  - 108459
+  - 173306
+  - 280412
 INSEE_countries_and_foreign_territories_code: 99105
 ITU_letter_code: FIN
 UIC_alphabetical_country_code: FIN
@@ -476,28 +476,28 @@ CIVICUS_Monitor_country_entry: finland
 Danbooru_tag: finland
 GitHub_topic: finland
 rural_population:
-- 795579
-- 798128
-- 800844
-- 803615
+  - 795579
+  - 798128
+  - 800844
+  - 803615
 male_population:
-- 2725793
-- 2731054
-- 2737509
-- 2745395
+  - 2725793
+  - 2731054
+  - 2737509
+  - 2745395
 female_population:
-- 2795813
-- 2798488
-- 2803508
-- 2810712
+  - 2795813
+  - 2798488
+  - 2803508
+  - 2810712
 coordinates_of_easternmost_point: "Point(31.584166666 62.908611111)"
 GS1_country_code: 640-649
 coordinates_of_geographic_center: "Point(27.683056 64.233056)"
 urban_population:
-- 4717991
-- 4728699
-- 4742889
-- 4760527
+  - 4717991
+  - 4728699
+  - 4742889
+  - 4760527
 population: 5608218
 PM20_geo_code: A53
 Colon_Classification: SG--579
@@ -534,8 +534,8 @@ country_calling_code: +358
 Libris_URI: 1zcfdxqk1s19qp1
 Dewey_Decimal_Classification: 2--4897
 BHCL_UUID:
-- 401326d7-3ab0-478d-be5e-fab1c3af1db7
-- 7aacabd6-5c8f-42d5-be3d-92b7cb480bb4
+  - 401326d7-3ab0-478d-be5e-fab1c3af1db7
+  - 7aacabd6-5c8f-42d5-be3d-92b7cb480bb4
 ---
 
 # [[Finland]] 

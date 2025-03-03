@@ -81,7 +81,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kele,35559]]'
 - '[[_Standards/WikiData/WD~Kande,35556]]'
 - '[[_Standards/WikiData/WD~Kota,35607]]'
-- "[[_Standards/WikiData/WD~Kaning'i,35683]]"
+  - "[[_Standards/WikiData/WD~Kaning'i,35683]]"
 - '[[_Standards/WikiData/WD~Lumbu,35793]]'
 - '[[_Standards/WikiData/WD~Mahongwe,35816]]'
 - '[[_Standards/WikiData/WD~Myene,35832]]'
@@ -124,40 +124,40 @@ replaces: "[[_Standards/WikiData/WD~Middle_Congo,107783136]]"
 coordinates_of_northernmost_point: "Point(11.7 2.32)"
 UMLS_CUI: C0016910
 demonym:
-- Gabonec
-- Gabonka
-- ڭابوني
-- ڭابونية
-- ڭابونيين
-- ڭابونيات
-- Gabúnach
-- غابوني
-- غابونية
-- غابونيون
-- gabonés
-- gabonesa
-- গাবোনীয়
-- gaboneser
-- Gabonano
-- גבונזי
-- גבונזית
-- gaboni
-- Gabonano
-- gabonese
-- gabonesi
-- gabones
-- gabonez
-- gaboneză
-- gabonezi
-- габонцы
-- gaboneza
-- gaboneze
-- gabonezi
-- gabonezo
-- Gabunänan
-- Gabonese
-- Gabonais
-- Gabonaise
+  - Gabonec
+  - Gabonka
+  - ڭابوني
+  - ڭابونية
+  - ڭابونيين
+  - ڭابونيات
+  - Gabúnach
+  - غابوني
+  - غابونية
+  - غابونيون
+  - gabonés
+  - gabonesa
+  - গাবোনীয়
+  - gaboneser
+  - Gabonano
+  - גבונזי
+  - גבונזית
+  - gaboni
+  - Gabonano
+  - gabonese
+  - gabonesi
+  - gabones
+  - gabonez
+  - gaboneză
+  - gabonezi
+  - габонцы
+  - gaboneza
+  - gaboneze
+  - gabonezi
+  - gabonezo
+  - Gabunänan
+  - Gabonese
+  - Gabonais
+  - Gabonaise
 motto_text:
 - "Enotnost, delo, pravica"
 - "Единство, труд и справедливост"
@@ -204,11 +204,11 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.ga,41784]]'
 Democracy_Index: 3.54
 Happy_Planet_Index_score: 39.9
 BTI_Governance_Index:
-- 4.53
-- 4.86
+  - 4.53
+  - 4.86
 BTI_Status_Index:
-- 4.83
-- 4.89
+  - 4.83
+  - 4.89
 trunk_prefix: 0
 Inequality_adjusted_Human_Development_Index: 0.554
 Human_Development_Index: 0.706
@@ -234,30 +234,30 @@ MeSH_tree_code: Z01.058.290.100.380
 official_name:
 - "la République gabonaise"
 - "Repubblica Gabonese"
-- Gabon
+  - Gabon
 short_name: "\U0001F1EC\U0001F1E6"
 total_fertility_rate: 3.909
 Dewey_Decimal_Classification: 2--6721
 licence_plate_code: G
 death_rate:
-- 6.856
-- 6.909
-- 7.258
-- 7.307
+  - 6.856
+  - 6.909
+  - 7.258
+  - 7.307
 IAB_code: 1298
 mobile_country_code: 628
 rural_population:
-- 221340
-- 224215
-- 227148
-- 230087
+  - 221340
+  - 224215
+  - 227148
+  - 230087
 ISO_3166_1_numeric_code: 266
 M49_code: 266
 birth_rate:
-- 26.803
-- 27.142
-- 27.695
-- 28.354
+  - 26.803
+  - 27.142
+  - 27.695
+  - 28.354
 maritime_identification_digits: 626
 life_expectancy: 66.105
 OmegaWiki_Defined_Meaning: 8368
@@ -275,20 +275,20 @@ ISO_3166_1_alpha_3_code: GAB
 ITU_letter_code: GAB
 IOC_country_code: GAB
 female_population:
-- 1098462
-- 1123751
-- 1148767
-- 1173488
+  - 1098462
+  - 1123751
+  - 1148767
+  - 1173488
 male_population:
-- 1144323
-- 1168822
-- 1192411
-- 1215505
+  - 1144323
+  - 1168822
+  - 1192411
+  - 1215505
 urban_population:
-- 2012698
-- 2065425
-- 2116964
-- 2167652
+  - 2012698
+  - 2065425
+  - 2116964
+  - 2167652
 population: 2025137
 native_label: "République gabonaise"
 inception: "1960"

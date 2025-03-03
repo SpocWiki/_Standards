@@ -103,52 +103,52 @@ highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Montenegr
 coordinates_of_easternmost_point: "Point(20.35748262 42.83261529)"
 BHCL_UUID: d54ddcea-d683-4f1f-aca6-64a37329d7a1
 demonym:
-- Črnogorec
-- Črnogorka
-- مونطينيݣري
-- مونطينيݣرية
-- مونطينيݣريين
-- مونطينيݣريات
-- Crnogorka
-- 蒙特內哥羅人
-- 黑山人
-- Montainéagróch
-- montenegrín
-- Montenegrin
-- montenegrino
-- Monténégrin
-- מונטנגרית
-- montenegrói
-- montenegrino
-- montenegrin
-- muntenegrean
-- muntenegreană
-- muntenegreni
-- черногорцы
-- чорногорець
-- чорногорка
-- чорногорці
-- montenegrina
-- montenegrine
-- Montenegränan
-- tsernagorsce
-- montenegrin
-- مونتينيغري
-- مونتينيغرية
-- مونتينيغريون
-- montenegrina
-- মন্টিনিগ্রীয়
-- Montenegrano
-- montenegrina
-- montenegrinas
-- montenegrinos
-- Monténégrine
-- מונטנגרי
-- Montenegrano
-- montenegrina
-- montenegrine
-- montenegrini
-- Montenegrijn
+  - Črnogorec
+  - Črnogorka
+  - مونطينيݣري
+  - مونطينيݣرية
+  - مونطينيݣريين
+  - مونطينيݣريات
+  - Crnogorka
+  - 蒙特內哥羅人
+  - 黑山人
+  - Montainéagróch
+  - montenegrín
+  - Montenegrin
+  - montenegrino
+  - Monténégrin
+  - מונטנגרית
+  - montenegrói
+  - montenegrino
+  - montenegrin
+  - muntenegrean
+  - muntenegreană
+  - muntenegreni
+  - черногорцы
+  - чорногорець
+  - чорногорка
+  - чорногорці
+  - montenegrina
+  - montenegrine
+  - Montenegränan
+  - tsernagorsce
+  - montenegrin
+  - مونتينيغري
+  - مونتينيغرية
+  - مونتينيغريون
+  - montenegrina
+  - মন্টিনিগ্রীয়
+  - Montenegrano
+  - montenegrina
+  - montenegrinas
+  - montenegrinos
+  - Monténégrine
+  - מונטנגרי
+  - Montenegrano
+  - montenegrina
+  - montenegrine
+  - montenegrini
+  - Montenegrijn
 official_name:
 - "Crna Gora"
 - "Црна Гора"
@@ -162,8 +162,8 @@ motto_text:
 MeSH_tree_code: Z01.542.248.609
 official_website: "https://www.gov.me/"
 nominal_GDP:
-- 6095978868
-- 5861430526
+  - 6095978868
+  - 5861430526
 shares_border_with:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - "[[_Standards/WikiData/WD~European_Union,458]]"
@@ -208,20 +208,20 @@ unemployment_rate: 19
 VAT_rate: 21
 mains_voltage: 230
 BTI_Status_Index:
-- 7.5
-- 6.96
-- 7.21
-- 7.28
-- 7.35
-- 7.48
+  - 7.5
+  - 6.96
+  - 7.21
+  - 7.28
+  - 7.35
+  - 7.48
 death_rate:
-- 10.6
-- 11.5
-- 11.7
-- 14.8
+  - 10.6
+  - 11.5
+  - 11.7
+  - 14.8
 birth_rate:
-- 11.4
-- 11.6
+  - 11.4
+  - 11.6
 Gini_coefficient: 29.4
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.me,43673]]'
 Happy_Planet_Index_score: 41.3
@@ -229,34 +229,34 @@ trunk_prefix: 0
 maritime_identification_digits: 262
 GS1_country_code: 389
 BTI_Governance_Index:
-- 6.16
-- 6.17
-- 6.19
-- 6.23
-- 6.46
-- 6.49
-- 6.51
-- 6.63
+  - 6.16
+  - 6.17
+  - 6.19
+  - 6.23
+  - 6.46
+  - 6.49
+  - 6.51
+  - 6.63
 Democracy_Index: 6.67
 Inequality_adjusted_Human_Development_Index: 0.756
 Human_Development_Index: 0.832
 total_fertility_rate: 1.689
 ISO_3166_1_alpha_2_code: ME
 NUTS_code:
-- ME
-- ME00
-- ME0
-- ME000
+  - ME
+  - ME00
+  - ME0
+  - ME000
 WIPO_ST_3: ME
 IAB_code: 1358
 UIC_numerical_country_code: 62
 mobile_country_code: 297
 area: 13883
 female_population:
-- 316670
-- 317538
-- 318464
-- 318725
+  - 316670
+  - 317538
+  - 318464
+  - 318725
 ISO_3166_1_numeric_code: 499
 M49_code: 499
 life_expectancy: 77.116
@@ -267,24 +267,24 @@ ISO_3166_1_alpha_3_code: MNE
 IOC_country_code: MNE
 ITU_letter_code: MNE
 UIC_alphabetical_country_code:
-- MNE
-- CG
+  - MNE
+  - CG
 rural_population:
-- 196496
-- 199225
-- 201999
-- 204336
+  - 196496
+  - 199225
+  - 201999
+  - 204336
 FIPS_10_4_countries_and_regions_: MJ
 male_population:
-- 300543
-- 301673
-- 302841
-- 303303
+  - 300543
+  - 301673
+  - 302841
+  - 303303
 urban_population:
-- 417692
-- 419307
-- 419986
-- 420717
+  - 417692
+  - 419307
+  - 419986
+  - 420717
 INSEE_countries_and_foreign_territories_code: 99120
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Montenegro.svg"
 population: 617213
@@ -315,15 +315,15 @@ Unicode_character: 🇲🇪
 Colon_Classification: SG--592245
 Krugosvet_article: strany_mira/CHERNOGORIYA.html
 IPA_transcription:
-- t͡ɕɪrnɐˈɡorʲɪjə
+  - t͡ɕɪrnɐˈɡorʲɪjə
 - "t͡sr̩̂ːnaː ɡɔ̌ra"
 has_id_wikidata: Q236
 location:
-- 42.7833
-- 19.4667
+    - 42.7833
+    - 19.4667
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 4941
 isDeleted: false
 confidential: public
@@ -340,18 +340,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Montenegro
-- Monténégro
+    - Montenegro
+    - Monténégro
 - "الجبل الأسود"
-- 黑山
-- Черногория
+    - 黑山
+    - Черногория
 Languages:
-- sr
-- hu
-- bs
-- sq
-- hr
-- rom
+    - sr
+    - hu
+    - bs
+    - sq
+    - hr
+    - rom
 icon: flag-me
 ---
 

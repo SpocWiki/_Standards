@@ -1,10 +1,10 @@
 ---
 location:
-- 44.82
-- 20.48
+  - 44.82
+  - 20.48
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 4938
 isDeleted: false
 confidential: public
@@ -21,18 +21,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Serbia
-- Serbie
-- صربيا
-- 塞尔维亚
-- Сербия
+  - Serbia
+  - Serbie
+  - صربيا
+  - 塞尔维亚
+  - Сербия
 - "the Republic of Serbia"
 - "la República de Serbia"
 Languages:
-- sr
-- hu
-- bs
-- rom
+  - sr
+  - hu
+  - bs
+  - rom
 icon: flag-rs
 has_id_wikidata: Q403
 member_of:
@@ -264,32 +264,32 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 VAT_rate:
-- 10
-- 20
+  - 10
+  - 20
 death_rate:
-- 20
-- 14.6
-- 16.2
-- 16.9
+  - 20
+  - 14.6
+  - 16.2
+  - 16.9
 marriageable_age: 18
 age_of_majority: 18
 unemployment_rate: 22
 mains_voltage: 230
 BTI_Status_Index:
-- 7.2
-- 7.4
-- 6.48
-- 6.94
-- 6.95
-- 7.39
-- 7.43
-- 7.51
+  - 7.2
+  - 7.4
+  - 6.48
+  - 6.94
+  - 6.95
+  - 7.39
+  - 7.43
+  - 7.51
 Inequality_adjusted_Human_Development_Index: 0.72
 life_expectancy: 75
 birth_rate:
-- 8.9
-- 9.1
-- 9.3
+  - 8.9
+  - 9.1
+  - 9.3
 replaces: "[[_Standards/WikiData/WD~Serbia_and_Montenegro,37024]]"
 total_fertility_rate: 1.43
 Gini_coefficient: 34.5
@@ -314,48 +314,48 @@ open_data_portal: "[[_Standards/WikiData/WD~Open_data_portal_Serbia,97018398]]"
 coordinates_of_northernmost_point: "Point(19.67 46.18)"
 Baidu_Tieba_name: 塞尔维亚
 demonym:
-- صربي
-- صربية
-- صربيين
-- صربيات
-- Seirbiach
-- Serbian
-- Serf
-- صرب
-- صربي
-- szerb
-- Serbiano
-- serba
-- serbe
-- serbi
-- serbo
-- serbsce
-- Serviër
-- sârb
-- sârbi
-- sârboaică
-- серб
-- сербка
-- сербы
-- српска
-- српски
-- serba
-- serbe
-- serbi
-- serbo
-- Särbänan
-- صربية
-- serbia
-- serbiu
-- সার্বীয়
-- Serbier
-- Serbierin
-- Σερβίδα
-- Σέρβοι
-- Σέρβος
-- Serbe
-- סרבי
-- סרבית
+  - صربي
+  - صربية
+  - صربيين
+  - صربيات
+  - Seirbiach
+  - Serbian
+  - Serf
+  - صرب
+  - صربي
+  - szerb
+  - Serbiano
+  - serba
+  - serbe
+  - serbi
+  - serbo
+  - serbsce
+  - Serviër
+  - sârb
+  - sârbi
+  - sârboaică
+  - серб
+  - сербка
+  - сербы
+  - српска
+  - српски
+  - serba
+  - serbe
+  - serbi
+  - serbo
+  - Särbänan
+  - صربية
+  - serbia
+  - serbiu
+  - সার্বীয়
+  - Serbier
+  - Serbierin
+  - Σερβίδα
+  - Σέρβοι
+  - Σέρβος
+  - Serbe
+  - סרבי
+  - סרבית
 ISNI: 0000000095266709
 official_website: "https://www.srbija.gov.rs/"
 MeSH_tree_code: Z01.542.248.786
@@ -387,17 +387,17 @@ INSEE_countries_and_foreign_territories_code: 99121
 coordinate_location: "Point(20.933333333 43.95)"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg"
 rural_population:
-- 2874177
-- 2962612
-- 3004845
-- 3037846
+  - 2874177
+  - 2962612
+  - 3004845
+  - 3037846
 male_population: 3231978
 female_population: 3415025
 urban_population:
-- 3790272
-- 3871714
-- 3894281
-- 3907389
+  - 3790272
+  - 3871714
+  - 3894281
+  - 3907389
 PM20_geo_code: A41
 population: 6647003
 coordinates_of_westernmost_point: "Point(18.83853927 45.81651686)"
@@ -405,20 +405,20 @@ coordinates_of_southernmost_point: "Point(20.684861111 41.857661111)"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/1934-10-17%20King%20Alexander%20Assassination.ogv"
 native_label: Србија
 official_name:
-- Србија
+  - Србија
 - "la République de Serbie"
 hashtag: Serbia
 Commons_category: Serbia
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Danube%20in%20Ritopek%2C%20Serbia%20banner.jpg"
 BHCL_UUID:
-- f05755c3-3759-4ba1-8982-7157bd8d9708
-- 9e68967f-4ca3-4b99-8c7f-c4e956949fe6
+  - f05755c3-3759-4ba1-8982-7157bd8d9708
+  - 9e68967f-4ca3-4b99-8c7f-c4e956949fe6
 inception: "2006"
 has_time_started: 2006-06 
 short_name: "\U0001F1F7\U0001F1F8"
 nominal_GDP:
-- 63501748652
-- 63082021206
+  - 63501748652
+  - 63082021206
 geoshape: "http://commons.wikimedia.org/data/main/Data:Serbia.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Serbia.svg"
 pronunciation_audio:

@@ -153,9 +153,9 @@ diplomatic_relation:
 - "[[_Standards/WikiData/WD~United_States,30]]"
 number_of_out_of_school_children: 100000
 speed_limit:
-- 50
-- 90
-- 110
+  - 50
+  - 90
+  - 110
 compulsory_education_minimum_age_: 6
 unemployment_rate: 13
 compulsory_education_maximum_age_: 14
@@ -167,30 +167,30 @@ mains_voltage: 230
 suicide_rate: 3.2
 ethnic_group: '[[_Standards/WikiData/WD~Arabs,35323]]'
 birth_rate:
-- 15.6
-- 16.093
-- 16.628
-- 17.215
+  - 15.6
+  - 16.093
+  - 16.628
+  - 17.215
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.tn,43163]]'
 Gini_coefficient: 36.1
 BTI_Governance_Index:
-- 4.32
-- 4.34
-- 4.42
-- 4.58
-- 4.77
-- 5.33
-- 5.43
+  - 4.32
+  - 4.34
+  - 4.42
+  - 4.58
+  - 4.77
+  - 5.33
+  - 5.43
 Happy_Planet_Index_score: 43.9
 BTI_Status_Index:
-- 4.98
-- 5.17
-- 5.37
-- 5.74
-- 6.15
-- 6.26
-- 6.27
-- 6.38
+  - 4.98
+  - 5.17
+  - 5.37
+  - 5.74
+  - 6.15
+  - 6.26
+  - 6.27
+  - 6.38
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 OpenStreetMap_zoom_level: 6
 GS1_country_code: 619
@@ -206,21 +206,21 @@ ISO_3166_1_alpha_2_code: TN
 WIPO_ST_3: TN
 UIC_alphabetical_country_code: TN
 death_rate:
-- 6.145
-- 6.752
-- 7.601
-- 7.884
+  - 6.145
+  - 6.752
+  - 7.601
+  - 7.884
 area: 163610
 IAB_code: 1461
 mobile_country_code: 605
 FIPS_10_4_countries_and_regions_: TS
 maritime_identification_digits: 672
 annual_number_of_weddings:
-- 63902
-- 73971
-- 107046
-- 107948
-- 110119
+  - 63902
+  - 73971
+  - 107046
+  - 107948
+  - 110119
 life_expectancy: 75.731
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~193,25648835]]'
@@ -239,66 +239,66 @@ Wolfram_Language_entity_code:
 - "Entity[\"Concept\", \"RepublicOfTunisia::f4688\"]"
 - "Entity[\"HistoricalCountry\", \"Tunisia\"]"
 demonym:
-- تونسي
-- تونسية
-- توانسا
-- تونسيات
-- Túinéiseach
-- tunisien
-- تونسي
-- تونسيات
-- تونسيان
-- تونسية
-- تونسيتان
-- تونسيتين
-- تونسيون
-- تونسيين
-- tunecín
-- tunecina
-- তিউনিশীয়
-- Tunesier
-- Tunesierin
-- Tunisian
-- tunecina
-- tunecinas
-- tunecino
-- tunecinos
-- Tunisien
-- Tunisienne
-- תוניסאי
-- תוניסאית
-- tunéziai
-- Tuniziano
-- tunisina
-- tunisine
-- tunisini
-- tunisino
-- tunisi
-- tunisian
-- tunisiană
-- tunisieni
-- тунисцы
-- tunizin
-- tunizina
-- tunizine
-- tunizini
-- Tünisänan
+  - تونسي
+  - تونسية
+  - توانسا
+  - تونسيات
+  - Túinéiseach
+  - tunisien
+  - تونسي
+  - تونسيات
+  - تونسيان
+  - تونسية
+  - تونسيتان
+  - تونسيتين
+  - تونسيون
+  - تونسيين
+  - tunecín
+  - tunecina
+  - তিউনিশীয়
+  - Tunesier
+  - Tunesierin
+  - Tunisian
+  - tunecina
+  - tunecinas
+  - tunecino
+  - tunecinos
+  - Tunisien
+  - Tunisienne
+  - תוניסאי
+  - תוניסאית
+  - tunéziai
+  - Tuniziano
+  - tunisina
+  - tunisine
+  - tunisini
+  - tunisino
+  - tunisi
+  - tunisian
+  - tunisiană
+  - tunisieni
+  - тунисцы
+  - tunizin
+  - tunizina
+  - tunizine
+  - tunizini
+  - Tünisänan
 ISNI: 0000000121102127
 native_label:
 - "Republik Tunisia"
-- Tunisia
+  - Tunisia
 - "الجمهورية التونسية"
-- تونس
+  - تونس
 - "Republic of Tunisia"
-- Tunisia
+  - Tunisia
 official_name:
 - "Republik Tunisia"
-- Tunisia
+  - Tunisia
 - "الجمهورية التونسية"
-- تونس
+  - تونس
 - "Republic of Tunisia"
 - "République tunisienne"
-- Tunisia
+  - Tunisia
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Tunesien.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Tunesien.ogg"
@@ -311,8 +311,8 @@ motto_text:
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Tunisia%20map-EN.png"
 MeSH_tree_code: Z01.058.266.887
 nominal_GDP:
-- 46664948952
-- 46687298709
+  - 46664948952
+  - 46687298709
 coordinates_of_easternmost_point: "Point(11.56159 33.16682)"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Algeria,262]]'
@@ -326,34 +326,34 @@ continent: '[[_Standards/WikiData/WD~Africa,15]]'
 Dewey_Decimal_Classification: 2--611
 trunk_prefix: 00
 female_population:
-- 6086590
-- 6148895
-- 6205901
-- 6257745
+  - 6086590
+  - 6148895
+  - 6205901
+  - 6257745
 INSEE_countries_and_foreign_territories_code: 99351
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg"
 ISO_3166_1_alpha_3_code: TUN
 IOC_country_code: TUN
 ITU_letter_code: TUN
 rural_population:
-- 3680393
-- 3692618
-- 3701056
-- 3704682
+  - 3680393
+  - 3692618
+  - 3701056
+  - 3704682
 Commons_category: Tunisia
 hashtag: Tunisia
 subreddit: Tunisia
 male_population:
-- 5962724
-- 6012828
-- 6057044
-- 6098372
+  - 5962724
+  - 6012828
+  - 6057044
+  - 6098372
 PM20_geo_code: C18
 urban_population:
-- 8344632
-- 8460667
-- 8570328
-- 8675724
+  - 8344632
+  - 8460667
+  - 8570328
+  - 8675724
 population: 11565204
 geoshape: "http://commons.wikimedia.org/data/main/Data:Tunisia.map"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Carthage%20Palace%20from%20Sidi%20Bou%20Said.jpg"
@@ -375,11 +375,11 @@ has_time_started: "1956-03-20"
 coordinates_of_westernmost_point: "Point(7.52542 33.79829)"
 has_id_wikidata: Q948
 location:
-- 36.8
-- 10.18
+  - 36.8
+  - 10.18
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27036
 isDeleted: false
 confidential: public
@@ -387,7 +387,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Tunisia
 linkTitle: 
@@ -397,18 +397,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Tunisia
-- Túnez
-- Tunisie
-- تونس
-- 突尼斯
-- Тунис
+  - Tunisia
+  - Túnez
+  - Tunisie
+  - تونس
+  - 突尼斯
+  - Тунис
 - "the Republic of Tunisia"
 - "la República de Túnez"
-- Tunesien
+  - Tunesien
 Languages:
-- ar-TN
-- fr
+  - ar-TN
+  - fr
 ---
 
 # [[Tunisia]] 

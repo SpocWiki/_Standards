@@ -1,10 +1,10 @@
 ---
 location:
-- -34.62
-- -58.41
+  - -34.62
+  - -58.41
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q414
 SpocWebEntityId: 26835
 isDeleted: false
@@ -22,21 +22,21 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Argentina
-- Argentine
-- الأرجنتين
-- 阿根廷
-- Аргентина
+  - Argentina
+  - Argentine
+  - الأرجنتين
+  - 阿根廷
+  - Аргентина
 - "the Argentine Republic"
 - "la República Argentina"
 - "Argentina (la)"
 Languages:
-- es-AR
-- en
-- it
-- de
-- fr
-- gn
+  - es-AR
+  - en
+  - it
+  - de
+  - fr
+  - gn
 icon: flag-ar
 flag: "[[_Standards/WikiData/WD~flag_of_Argentina,130774]]"
 official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
@@ -186,21 +186,21 @@ head_of_government: "[[_Standards/WikiData/WD~Javier_Milei,52395487]]"
 different_from: '[[_Standards/WikiData/WD~Argentyna,86672297]]'
 open_data_portal: "[[_Standards/WikiData/WD~Argentina_Data_Portal,97095896]]"
 nominal_GDP:
-- 487227125386
-- 632770284409
+  - 487227125386
+  - 632770284409
 UMLS_CUI: C0003761
 compulsory_education_minimum_age_: 4
 Happy_Planet_Index_score: 50
 BTI_Governance_Index:
-- 6
-- 6.1
-- 4.78
-- 5.01
-- 5.28
-- 5.46
-- 5.52
-- 5.56
-- 5.91
+  - 6
+  - 6.1
+  - 4.78
+  - 5.01
+  - 5.28
+  - 5.46
+  - 5.52
+  - 5.56
+  - 5.91
 compulsory_education_maximum_age_: 17
 marriageable_age: 18
 age_of_majority: 18
@@ -241,15 +241,15 @@ contains_the_administrative_territorial_entity:
 Gini_coefficient: 423
 trunk_prefix: 0
 BTI_Status_Index:
-- 6.65
-- 6.73
-- 6.76
-- 6.95
-- 7.21
-- 7.25
-- 7.27
-- 7.29
-- 7.34
+  - 6.65
+  - 6.73
+  - 6.76
+  - 6.95
+  - 7.21
+  - 7.25
+  - 7.27
+  - 7.29
+  - 7.34
 Democracy_Index: 6.81
 Human_Development_Index: 0.842
 death_rate: 8.589
@@ -267,55 +267,55 @@ ISO_3166_1_alpha_2_code: AR
 licence_plate_code: RA
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fitz%20Roy%201b.jpg"
 demonym:
-- أرجونتيني
-- أرجونتينية
-- أرجونتينيين
-- أرجونتينيات
-- Airgintíneach
-- Argentine
-- Argentine
-- Argentinian
-- Argentin
-- أرجنتينيون
-- Argentinier
-- argentin
-- аргентинці
-- arzentini
-- argentine
-- argentini
-- argentino
-- arjentina
-- argentinian
-- argentiniancă
-- argentinieni
-- аргентинец
-- аргентинка
-- аргентинець
-- аргентинка
-- arzentin
-- arzentina
-- arzentine
-- Largäntänan
-- أرجنتيني
-- أرجنتينية
-- arxentín
-- arxentina
-- আর্জেন্টিনীয়
-- argentí
-- Argentinec
-- Argentinka
-- argentiner
-- Argentinierin
-- Αργεντινή
-- Αργεντινός
-- argentinano
-- argentina
-- argentino
-- ארגנטינאי
-- ארגנטינאית
-- արգենտինացի
-- Arjentiniano
-- argentina
+  - أرجونتيني
+  - أرجونتينية
+  - أرجونتينيين
+  - أرجونتينيات
+  - Airgintíneach
+  - Argentine
+  - Argentine
+  - Argentinian
+  - Argentin
+  - أرجنتينيون
+  - Argentinier
+  - argentin
+  - аргентинці
+  - arzentini
+  - argentine
+  - argentini
+  - argentino
+  - arjentina
+  - argentinian
+  - argentiniancă
+  - argentinieni
+  - аргентинец
+  - аргентинка
+  - аргентинець
+  - аргентинка
+  - arzentin
+  - arzentina
+  - arzentine
+  - Largäntänan
+  - أرجنتيني
+  - أرجنتينية
+  - arxentín
+  - arxentina
+  - আর্জেন্টিনীয়
+  - argentí
+  - Argentinec
+  - Argentinka
+  - argentiner
+  - Argentinierin
+  - Αργεντινή
+  - Αργεντινός
+  - argentinano
+  - argentina
+  - argentino
+  - ארגנטינאי
+  - ארגנטינאית
+  - արգենտինացի
+  - Arjentiniano
+  - argentina
 ISNI: 0000000123093391
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Argentina%20Banner%201.jpg"
 MeSH_tree_code: Z01.107.757.077
@@ -349,30 +349,30 @@ Commons_category: Argentina
 hashtag: Argentina
 PM20_geo_code: E86
 rural_population:
-- 3538352
-- 3559798
-- 3579773
-- 3599141
+  - 3538352
+  - 3559798
+  - 3579773
+  - 3599141
 urban_population:
-- 41796990
-- 41339571
-- 42248949
-- 42696478
+  - 41796990
+  - 41339571
+  - 42248949
+  - 42696478
 Unicode_character: 🇦🇷 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Argentina.svg"
 U_S_National_Archives_Identifier: 10045211
 inception: "1816-07-09"
 has_time_started: "1816-07-09"
 male_population:
-- 22249019
-- 22465694
-- 22678199
-- 22889298
+  - 22249019
+  - 22465694
+  - 22678199
+  - 22889298
 female_population:
-- 22689693
-- 22911069
-- 23130548
-- 23345532
+  - 22689693
+  - 22911069
+  - 23130548
+  - 23345532
 official_name: "República Argentina"
 native_label: "República Argentina"
 name_in_native_language: "República Argentina"
@@ -391,8 +391,8 @@ location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/LocationArgent
 official_website: "https://www.argentina.gob.ar/"
 country_calling_code: +54
 BHCL_UUID:
-- 12ee579a-e3c7-4020-ae8e-33ab7fa18f7a
-- b947e636-5a22-4b98-876f-5a66617f326e
+  - 12ee579a-e3c7-4020-ae8e-33ab7fa18f7a
+  - b947e636-5a22-4b98-876f-5a66617f326e
 Dewey_Decimal_Classification: 2--82
 Swedish_Anbytarforum: 3216.0
 Provenio_UUID: b5dd4126-a049-4804-b6e9-4c2dcaeabb7c

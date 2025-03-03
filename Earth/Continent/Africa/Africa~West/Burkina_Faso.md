@@ -159,36 +159,36 @@ head_of_state: "[[_Standards/WikiData/WD~Ibrahim_Traoré,114341246]]"
 head_of_government: "[[_Standards/WikiData/WD~Apollinaire_Joachim_Kyélem_de_Tambèla,114835874]]"
 studied_in: "[[_Standards/WikiData/WD~Burkina_Faso_studies,115669827]]"
 demonym:
-- Burkinabé
-- بورتوريكي
-- بورتوريكية
-- burkinés
-- burkinesa
-- Burkinès
-- burkiner
-- Burkinabè
-- Burkinano
-- בורקינאי
-- בורקינאית
+  - Burkinabé
+  - بورتوريكي
+  - بورتوريكية
+  - burkinés
+  - burkinesa
+  - Burkinès
+  - burkiner
+  - Burkinabè
+  - Burkinano
+  - בורקינאי
+  - בורקינאית
 - "Burkina Fasó-i"
-- burkinabè
-- burcinabe
-- burkinez
-- burkineză
-- burkinezi
-- burkinabè
-- burkineza
-- burkineze
-- burkinezi
-- burkinezo
-- Burkinänan
-- بوركيني
-- بوركينية
-- بوركينيين
-- بوركينيات
-- Burkinabe
-- Burkinabè
-- بورتوريكيون
+  - burkinabè
+  - burcinabe
+  - burkinez
+  - burkineză
+  - burkinezi
+  - burkinabè
+  - burkineza
+  - burkineze
+  - burkinezi
+  - burkinezo
+  - Burkinänan
+  - بوركيني
+  - بوركينية
+  - بوركينيين
+  - بوركينيات
+  - Burkinabe
+  - Burkinabè
+  - بورتوريكيون
 geoshape: "http://commons.wikimedia.org/data/main/Data:Burkina+Faso.map"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/BFA%20orthographic.svg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A8%D9%88%D8%B1%D9%83%D9%8A%D9%86%D8%A7%20%D9%81%D8%A7%D8%B3%D9%88.wav"
@@ -202,39 +202,39 @@ Libris_URI: sq465kxb2sk6b2n
 Krugosvet_article: strany_mira/BURKINA-FASO.html
 motto_text:
 - "Единство - прогрес - справедливост"
-- Unity–Progress–Justice
-- Unité–Progrès–Justice
-- Unidad–Progreso–Justicia
+  - Unity–Progress–Justice
+  - Unité–Progrès–Justice
+  - Unidad–Progreso–Justicia
 - "Undod – Cynnydd – Cyfiawnder"
 official_language:
 - '[[_Standards/WikiData/WD~Bissa,32934]]'
 - '[[_Standards/WikiData/WD~Mooré,36096]]'
 - '[[_Standards/WikiData/WD~Dioula,32706]]'
 marriageable_age:
-- 17
-- 20
+  - 17
+  - 20
 VAT_rate: 18
 mains_voltage: 220
 BTI_Status_Index:
-- 5.1
-- 4.71
-- 4.74
-- 4.78
-- 4.92
-- 4.96
-- 5.35
-- 5.39
-- 5.45
+  - 5.1
+  - 4.71
+  - 4.74
+  - 4.78
+  - 4.92
+  - 4.96
+  - 5.35
+  - 5.39
+  - 5.45
 BTI_Governance_Index:
-- 5.2
-- 4.43
-- 4.56
-- 4.74
-- 4.88
-- 4.92
-- 5.01
-- 5.23
-- 5.24
+  - 5.2
+  - 4.43
+  - 4.56
+  - 4.74
+  - 4.88
+  - 4.92
+  - 5.01
+  - 5.23
+  - 5.24
 suicide_rate: 7.7
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Burkina_Faso,39313]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bf,41195]]'
@@ -245,18 +245,18 @@ Happy_Planet_Index_score: 41.5
 Human_Development_Index: 0.449
 Gini_coefficient: 47.3
 death_rate:
-- 8.75
-- 8.662
-- 8.813
-- 8.958
+  - 8.75
+  - 8.662
+  - 8.813
+  - 8.958
 area: 274200
 total_fertility_rate: 5.521
 mobile_country_code: 613
 birth_rate:
-- 34.952
-- 35.541
-- 36.085
-- 36.689
+  - 34.952
+  - 35.541
+  - 36.085
+  - 36.689
 IAB_code: 1264
 maritime_identification_digits: 633
 ISO_3166_1_numeric_code: 854
@@ -304,10 +304,10 @@ Dewey_Decimal_Classification: 2--6625
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burkina%20Faso.svg"
 INSEE_countries_and_foreign_territories_code: 99331
 urban_population:
-- 6587430
-- 6281301
-- 6904253
-- 7227715
+  - 6587430
+  - 6281301
+  - 6904253
+  - 7227715
 U_S_National_Archives_Identifier: 10035682
 native_label: "Burkina Faso"
 licence_plate_code: BF
@@ -316,10 +316,10 @@ WIPO_ST_3: BF
 Commons_category: "Burkina Faso"
 Commons_gallery: "Burkina Faso"
 rural_population:
-- 15196430
-- 14670338
-- 14935196
-- 15446047
+  - 15196430
+  - 14670338
+  - 14935196
+  - 15446047
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Burkina%20Faso%20Wikivoyage%20banner.jpg"
 OmegaWiki_Defined_Meaning: 154116
 number_of_out_of_school_children: 2493607
@@ -329,22 +329,22 @@ IOC_country_code: BUR
 inception: "1960"
 has_time_started: 1960-06 
 male_population:
-- 10431262
-- 10718602
-- 11010698
-- 11299155
+  - 10431262
+  - 10718602
+  - 11010698
+  - 11299155
 female_population:
-- 10520378
-- 10804024
-- 11089986
-- 11374607
+  - 10520378
+  - 10804024
+  - 11089986
+  - 11374607
 FIPS_10_4_countries_and_regions_: UV
 coordinates_of_southernmost_point: "Point(-2.76758 9.41073)"
 population: 23025776
 coordinates_of_easternmost_point: "Point(2.40408 11.9003)"
 nominal_GDP:
-- 18884619613
-- 19737616003
+  - 18884619613
+  - 19737616003
 Unicode_character: 🇧🇫 
 has_id_wikidata: Q965
 location:

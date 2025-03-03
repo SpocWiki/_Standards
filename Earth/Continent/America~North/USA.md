@@ -2,19 +2,19 @@
 title: "United States of America"
 type: Country
 location:
-- 39.2641
-- -94.8153
+  - 39.2641
+  - -94.8153
 has_id_wikidata: Q30
 SpocWebEntityId: 27047
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+  - geo/Country
 license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 linkTitle: 
 keywords: 
@@ -26,7 +26,7 @@ aliases:
 - "United States of America"
 - "United States"
 Languages:
-- en-US
+  - en-US
 icon: flag-us
 replaces:
 - "[[_Standards/WikiData/WD~Confederate_States_of_America,81931]]"
@@ -413,10 +413,10 @@ open_data_portal: '[[_Standards/WikiData/WD~data.gov,5227102]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_United_States,5365167]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_United_States,7112786]]"
 urban_population:
-- 276895219
-- 270737596
-- 274053424
-- 275178949
+  - 276895219
+  - 270737596
+  - 274053424
+  - 275178949
 located_in_or_next_to_body_of_water:
 - "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
 - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
@@ -459,87 +459,87 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Amerika.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Statele%20Unite%20ale%20Americii.wav"
 IPA_transcription:
-- ˈmeɪɹ.ɹɪkə
-- ʉːɛˈsɑː
+  - ˈmeɪɹ.ɹɪkə
+  - ʉːɛˈsɑː
 Stack_Exchange_tag:
 - "https://matheducators.stackexchange.com/tags/usa"
 - "https://travel.stackexchange.com/tags/usa"
 age_of_majority: "http://www.wikidata.org/.well-known/genid/b6faac5ab4359cbd471cfb5afdd4e55e"
 demonym:
-- Američan
-- Američanka
-- Meiriceánach
-- American
-- Americans
-- آمریکایی
-- американець
-- estatunidenca
-- statunitense
-- أمريكي
-- أمريكية
-- أمريكيون
-- ماريكان
-- ميريكاني
-- ميريكانيات
-- ميريكانية
-- ميريكانيين
+  - Američan
+  - Američanka
+  - Meiriceánach
+  - American
+  - Americans
+  - آمریکایی
+  - американець
+  - estatunidenca
+  - statunitense
+  - أمريكي
+  - أمريكية
+  - أمريكيون
+  - ماريكان
+  - ميريكاني
+  - ميريكانيات
+  - ميريكانية
+  - ميريكانيين
 - "d'Estaos Xuníos"
-- американски
-- মার্কিন
-- estatunidenc
-- nord-americà
-- nord-americana
-- Američan
-- Americanaidd
-- Amerikaner
-- Amerikaner
-- Amerikanerin
-- Αμερικανή
-- Αμερικανοί
-- Αμερικανός
-- usonano
-- estadounidense
-- estadounidenses
-- estatubatuar
-- Américain
-- Américaine
-- États-Unien
-- אמריקאי
-- אמריקאים
-- אמריקאית
-- amerikai
-- Usano
-- statunitensi
-- アメリカ人
-- 米国人
-- ამერიკელი
-- american
-- Американец
-- Американка
-- Американци
-- americana
-- americano
-- estadunidense
-- american
-- americancă
-- americani
-- американец
-- американка
-- американцы
-- Американац
-- Американка
-- Американци
-- amerikan
-- amerikanskt
-- Amerikalı
-- американка
-- американці
-- statunitensa
-- statunitense
-- statunitensi
-- statunitenso
-- Lamerikänan
-- 美国人
+  - американски
+  - মার্কিন
+  - estatunidenc
+  - nord-americà
+  - nord-americana
+  - Američan
+  - Americanaidd
+  - Amerikaner
+  - Amerikaner
+  - Amerikanerin
+  - Αμερικανή
+  - Αμερικανοί
+  - Αμερικανός
+  - usonano
+  - estadounidense
+  - estadounidenses
+  - estatubatuar
+  - Américain
+  - Américaine
+  - États-Unien
+  - אמריקאי
+  - אמריקאים
+  - אמריקאית
+  - amerikai
+  - Usano
+  - statunitensi
+  - アメリカ人
+  - 米国人
+  - ამერიკელი
+  - american
+  - Американец
+  - Американка
+  - Американци
+  - americana
+  - americano
+  - estadunidense
+  - american
+  - americancă
+  - americani
+  - американец
+  - американка
+  - американцы
+  - Американац
+  - Американка
+  - Американци
+  - amerikan
+  - amerikanskt
+  - Amerikalı
+  - американка
+  - американці
+  - statunitensa
+  - statunitense
+  - statunitensi
+  - statunitenso
+  - Lamerikänan
+  - 美国人
 ISNI: 0000000123315230
 Facebook_username: USAGov
 YouTube_handle: USAgov1
@@ -549,16 +549,16 @@ privacy_policy_URL: "https://www.usa.gov/privacy-security"
 spherical_panorama_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Moulton%20falls%20train%20tunnel%20east%20%E2%80%93%20Panorama%20%28Philip%20Modin%20via%20Poly%20Haven%29.jpg"
 coordinates_of_geographic_center: "Point(-103.771556341 44.967243394)"
 hashtag:
-- etats-unis
-- USA
-- America
-- usa
-- america
-- EstadosUnidos
+  - etats-unis
+  - USA
+  - America
+  - usa
+  - america
+  - EstadosUnidos
 Danbooru_tag: united_states
 nominal_GDP:
-- 23315080560000
-- 25462700000000
+  - 23315080560000
+  - 25462700000000
 number_of_households: 122354219
 coordinates_of_northernmost_point: "Point(-156.48 71.38)"
 contains_the_statistical_territorial_entity: "[[_Standards/WikiData/WD~United_States_Minor_Outlying_Islands,16645]]"
@@ -580,9 +580,9 @@ death_rate: 9.8
 suicide_rate: 14.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.us,37861]]'
 social_media_followers:
-- 19900
-- 46276
-- 350082
+  - 19900
+  - 46276
+  - 350082
 flag: "[[_Standards/WikiData/WD~flag_of_the_United_States_of_America,42537]]"
 Happy_Planet_Index_score: 37.4
 mean_age: 38.2
@@ -659,9 +659,9 @@ GS1_country_code: 000-139
 U_S_National_Archives_Identifier: 10045728
 Dewey_Decimal_Classification: 2--73
 BHCL_UUID:
-- 8c6682e8-a4f8-4139-849d-ef80dc6c6f83
-- 92a0dd46-b7c9-467f-8a68-30c4af7d529a
-- c14926bc-96b3-4a7c-a343-9e1640b0f9a9
+  - 8c6682e8-a4f8-4139-849d-ef80dc6c6f83
+  - 92a0dd46-b7c9-467f-8a68-30c4af7d529a
+  - c14926bc-96b3-4a7c-a343-9e1640b0f9a9
 UMLS_CUI: C0041703
 Wolfram_Language_entity_code: "Entity[\"Country\", \"UnitedStates\"]"
 Provenio_UUID: fb886b35-3a27-482d-af25-ee5d2653dff0
@@ -672,13 +672,13 @@ IMDb_keyword: united-states-of-america
 Unicode_character: 🇺🇸 
 Instagram_username: usagov
 X_Twitter_username:
-- usagov
-- usagovespanol
+  - usagov
+  - usagovespanol
 rural_population:
-- 57473509
-- 57592357
-- 56376192
-- 56870028
+  - 57473509
+  - 57592357
+  - 56376192
+  - 56870028
 population: 340110988
 Libris_URI: xv8b9vvg52nbbxp
 MeSH_tree_code: Z01.107.567.875
@@ -692,23 +692,24 @@ native_label:
 - "Iunaite Sitete o Amerika"
 official_name: "the United States of America"
 short_name:
-- U.S.
-- USA
+  - U.S.
+  - USA
 male_population:
-- 162730147
-- 164316147
-- 164490184
-- 165013345
+  - 162730147
+  - 164316147
+  - 164490184
+  - 165013345
 female_population:
-- 165599805
-- 167210787
-- 167558793
-- 168258067
+  - 165599805
+  - 167210787
+  - 167558793
+  - 168258067
 coordinate_location: "Point(-98.5795 39.828175)"
 coordinates_of_southernmost_point: "Point(-81.8051241 24.5442989)"
 coordinates_of_easternmost_point: "Point(-66.94995403 44.81539337)"
 inception: "1784-05-12"
 has_time_started: "1784-05-12"
+has_time_started: 1784-05-12T00:00:00Z 
 ---
 
 # [[USA]] 
@@ -793,10 +794,10 @@ Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]
 
 Major Cities with Population in 1000s as of @2020
 
-| City                                                                                                                      | State                                              |    Pop/k |
+| City                                                                                                                      | State                                              |  Pop/k |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------: |
 | [[USA/USA~Eastern/New_York,State/counties~New_York/New_York,City\|New York,City]]                                         | [[USA/USA~Eastern/New_York,State\|New York,State]] | 8804.190 |
-| [[USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City\|Los Angeles]]    | [[USA/USA~Pacific/California\|California ]]        | 3898.747 |
+| [[USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City\|Los Angeles]]         | [[USA/USA~Pacific/California\|California ]]        | 3898.747 |
 | [[USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago\|Chicago]]                                   | [[USA/USA~Central/Illinois\|Illinois]]             | 2746.388 |
 | [[USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston\|Houston]]                                    | [[USA/USA~Mountain/Texas\|Texas]]                  | 2304.580 |
 | [[USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix\|Phoenix]]                            | [[USA/USA~Mountain/Arizona\|Arizona]]              | 1608.139 |
@@ -830,7 +831,7 @@ Major Cities with Population in 1000s as of @2020
 | [[Tucson]]                                                                                                                | [[USA/USA~Mountain/Arizona\|Arizona]]              |  542.629 |
 | [[Fresno]]                                                                                                                | [[USA/USA~Pacific/California\|California]]         |  542.107 |
 | Mesa                                                                                                                      | [[USA/USA~Mountain/Arizona\|Arizona]]              |  504.258 |
-|                                                                                                                           |                                                    |          |
+|                                                                                                                           |                                                    |            |
 
 ## #has_/parts_  
 

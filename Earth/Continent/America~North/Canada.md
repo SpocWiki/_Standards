@@ -2,12 +2,12 @@
 title: Canada
 type: Country
 location:
-- 50.4137
-- -87.1444
+  - 50.4137
+  - -87.1444
 has_id_wikidata: Q16
 SpocWebEntityId: 26860
 tags:
-- geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: "CC BY-SA 4.0"
@@ -22,17 +22,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Canada
-- Canadá
-- كندا
-- 加拿大
-- Канада
+  - Canada
+  - Canadá
+  - كندا
+  - 加拿大
+  - Канада
 - "el Canadá"
 - "Canadá (el)"
 Languages:
-- en-CA
-- fr-CA
-- iu
+  - en-CA
+  - fr-CA
+  - iu
 icon: flag-ca
 flag: "[[_Standards/WikiData/WD~flag_of_Canada,80110]]"
 official_symbol: "[[_Standards/WikiData/WD~Canadian_beaver,81056]]"
@@ -297,17 +297,17 @@ continent: "[[_Standards/WikiData/WD~North_America,49]]"
 compulsory_education_minimum_age_: 6
 unemployment_rate: 7
 birth_rate:
-- 9
-- 9.5
-- 9.7
-- 9.9
+  - 9
+  - 9.5
+  - 9.7
+  - 9.9
 mains_voltage: 120
 retirement_age: 65
 death_rate:
-- 7.6
-- 8.1
-- 8.2
-- 8.6
+  - 7.6
+  - 8.1
+  - 8.2
+  - 8.6
 Inequality_adjusted_Human_Development_Index: 0.86
 literacy_rate: 99
 suicide_rate: 12.5
@@ -318,8 +318,8 @@ top_level_Internet_domain:
 motto: "[[_Standards/WikiData/WD~A_Mari_Usque_Ad_Mare,41423]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Arms_of_Canada,41549]]"
 Gini_coefficient:
-- 32.1
-- 33.3
+  - 32.1
+  - 33.3
 head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 Happy_Planet_Index_score: 40.2
 elevation_above_sea_level: 487
@@ -341,134 +341,134 @@ ISO_3166_1_alpha_2_code: CA
 WIPO_ST_3: CA
 OmegaWiki_Defined_Meaning: 5727
 GS1_country_code:
-- 754-755
-- 000-019
-- 060-099
+  - 754-755
+  - 000-019
+  - 060-099
 median_income: 70336
 IAB_code: 1269
 Commons_gallery: Canada
 Commons_category: Canada
 hashtag:
-- Canada
-- canada
-- Kanada
+  - Canada
+  - canada
+  - Kanada
 X_Twitter_username:
-- Canada
-- AuCanada
+  - Canada
+  - AuCanada
 PM20_geo_code: E8
 rural_population:
-- 7011720
-- 6966193
-- 7015868
-- 7105599
+  - 7011720
+  - 6966193
+  - 7015868
+  - 7105599
 area: 9984670
 official_name: Canada
 native_label:
-- Canada
-- Canada
+  - Canada
+  - Canada
 IOC_country_code: CAN
 ISO_3166_1_alpha_3_code: CAN
 ITU_letter_code: CAN
 male_population:
-- 18688790
-- 18896073
-- 19002171
-- 19351209
+  - 18688790
+  - 18896073
+  - 19002171
+  - 19351209
 nominal_GDP: 2206764000000
 INSEE_countries_and_foreign_territories_code: 99401
 coordinates_of_easternmost_point: "Point(-52.619444444 47.523333333)"
 licence_plate_code: CDN
 motto_text: "A mari usque ad mare"
 demonym:
-- קנדי
-- Canadienne
-- Canadian
-- كندي
-- Canadians
-- canadier
-- كنديات
-- كندية
-- canadiana
-- canadianu
-- канадец
-- канадка
-- canadenc
-- canadenca
-- Kanaďanka
-- Καναδή
-- Καναδός
-- kanadano
-- kanadar
-- کانادایی
-- קנדית
-- कनाडा
-- Kanadano
-- canadese
-- canadian
-- canadier
-- kanadier
-- canadiar
-- kanadiar
-- Kanadyjczyk
-- Kanadyjka
-- canadiana
-- canadiano
-- canadense
-- canadian
-- canadiancă
-- канадец
-- канадка
-- канадець
-- канадієць
-- канадійка
-- канадійці
-- канадка
-- канадці
-- canadeza
-- canadeze
-- canadezo
-- Kanadänan
-- Kanadčan
-- Kanadčanka
-- كانادي
-- كانادية
-- كانادييين
-- كاناديات
-- Ceanadach
-- Canadien
-- كنديون
-- канадци
-- কানাডীয়
-- canadencs
-- Kanaďan
-- Kanadier
-- Kanadierin
-- Καναδοί
-- kanadai
-- canadesi
-- カナダ人
-- Canadees
-- canadieni
-- канадцы
-- Kanadčani
-- canadezi
-- 加拿大人
+  - קנדי
+  - Canadienne
+  - Canadian
+  - كندي
+  - Canadians
+  - canadier
+  - كنديات
+  - كندية
+  - canadiana
+  - canadianu
+  - канадец
+  - канадка
+  - canadenc
+  - canadenca
+  - Kanaďanka
+  - Καναδή
+  - Καναδός
+  - kanadano
+  - kanadar
+  - کانادایی
+  - קנדית
+  - कनाडा
+  - Kanadano
+  - canadese
+  - canadian
+  - canadier
+  - kanadier
+  - canadiar
+  - kanadiar
+  - Kanadyjczyk
+  - Kanadyjka
+  - canadiana
+  - canadiano
+  - canadense
+  - canadian
+  - canadiancă
+  - канадец
+  - канадка
+  - канадець
+  - канадієць
+  - канадійка
+  - канадійці
+  - канадка
+  - канадці
+  - canadeza
+  - canadeze
+  - canadezo
+  - Kanadänan
+  - Kanadčan
+  - Kanadčanka
+  - كانادي
+  - كانادية
+  - كانادييين
+  - كاناديات
+  - Ceanadach
+  - Canadien
+  - كنديون
+  - канадци
+  - কানাডীয়
+  - canadencs
+  - Kanaďan
+  - Kanadier
+  - Kanadierin
+  - Καναδοί
+  - kanadai
+  - canadesi
+  - カナダ人
+  - Canadees
+  - canadieni
+  - канадцы
+  - Kanadčani
+  - canadezi
+  - 加拿大人
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg"
 female_population:
-- 18929706
-- 19132565
-- 19237693
-- 19587848
+  - 18929706
+  - 19132565
+  - 19237693
+  - 19587848
 GitHub_topic: canada
 Danbooru_tag: canada
 CIVICUS_Monitor_country_entry: canada
 subreddit: canada
 U_S_National_Archives_Identifier: 10044701
 urban_population:
-- 30652302
-- 31016918
-- 31223996
-- 31833457
+  - 30652302
+  - 31016918
+  - 31223996
+  - 31833457
 Unicode_character: 🇨🇦 
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Canada%20wordmark.svg"
 population: 36991981
@@ -579,7 +579,7 @@ Numbers are of 2022-06
 > Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean 
 > and northward into the Arctic Ocean, making it the world's second-largest country by total area, 
 > with the world's longest coastline. 
-> 
+>
 > Its border with the United States is the world's longest international land border. 
 > The country is characterized by a wide range of both meteorologic and geological regions. 
 > It is a sparsely inhabited country of 40 million people, 
@@ -589,7 +589,7 @@ Numbers are of 2022-06
 > Indigenous peoples have continuously inhabited what is now Canada for thousands of years. 
 > Beginning in the 16th century, British and French expeditions explored 
 > and later settled along the Atlantic coast. 
-> 
+>
 > As a consequence of various armed conflicts, 
 > France ceded nearly all of its colonies in North America in 1763. 
 > In 1867, with the union of three British North American colonies through Confederation, 
@@ -621,7 +621,7 @@ Numbers are of 2022-06
 > Canada's peacekeeping role during the 20th century has had a significant influence on its global image. 
 > Canada is part of multiple international organizations and forums.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Canada) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Canada)
 
 
 

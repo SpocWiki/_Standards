@@ -1,40 +1,40 @@
 ---
 demonym:
-- Tógalannach
-- togolès
-- طوڭولي
-- طوڭولية
-- طوڭوليين
-- طوڭوليات
-- Togolese
-- Togolais
-- Togolaise
-- Togolaises
-- توغولي
-- توغولية
-- توغوليون
-- togolés
-- togolesa
-- টোগান
-- Tololandano
-- טוגולזי
-- טוגולזית
-- togói
-- Togano
-- togolese
-- togolesi
-- togoles
-- togolez
-- togoleză
-- togolezi
-- тоголезец
-- тоголезка
-- тоголезцы
-- togołeza
-- togołeze
-- togołezi
-- togołezo
-- Togoänan
+  - Tógalannach
+  - togolès
+  - طوڭولي
+  - طوڭولية
+  - طوڭوليين
+  - طوڭوليات
+  - Togolese
+  - Togolais
+  - Togolaise
+  - Togolaises
+  - توغولي
+  - توغولية
+  - توغوليون
+  - togolés
+  - togolesa
+  - টোগান
+  - Tololandano
+  - טוגולזי
+  - טוגולזית
+  - togói
+  - Togano
+  - togolese
+  - togolesi
+  - togoles
+  - togolez
+  - togoleză
+  - togolezi
+  - тоголезец
+  - тоголезка
+  - тоголезцы
+  - togołeza
+  - togołeze
+  - togołezi
+  - togołezo
+  - Togoänan
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
 - "[[_Standards/WikiData/WD~European_Union,458]]"
@@ -135,30 +135,30 @@ continent: '[[_Standards/WikiData/WD~Africa,15]]'
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 official_language: '[[_Standards/WikiData/WD~French,150]]'
 marriageable_age:
-- 20
-- 17
+  - 20
+  - 17
 unemployment_rate: 7
 VAT_rate: 18
 mains_voltage: 220
 Democracy_Index: 2.8
 BTI_Status_Index:
-- 4.7
-- 3.75
-- 3.82
-- 4.25
-- 4.57
-- 4.79
-- 4.89
+  - 4.7
+  - 3.75
+  - 3.82
+  - 4.25
+  - 4.57
+  - 4.79
+  - 4.89
 BTI_Governance_Index:
-- 4.7
-- 5.1
-- 2.29
-- 3.66
-- 4.81
-- 4.84
-- 4.93
-- 4.95
-- 4.96
+  - 4.7
+  - 5.1
+  - 2.29
+  - 3.66
+  - 4.81
+  - 4.84
+  - 4.93
+  - 4.95
+  - 4.96
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.tg,42860]]'
 Inequality_adjusted_Human_Development_Index: 0.372
 Happy_Planet_Index_score: 37.3
@@ -204,8 +204,8 @@ studied_in: "[[_Standards/WikiData/WD~Togolese_studies,115669553]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
 coordinates_of_easternmost_point: "Point(1.80828 6.28787)"
 nominal_GDP:
-- 8126439481
-- 8334047486
+  - 8126439481
+  - 8334047486
 motto_text:
 - "Treball, llibertat, pàtria"
 - "Gwaith, rhyddid, mamwlad"
@@ -223,16 +223,16 @@ MeSH_tree_code: Z01.058.290.190.800
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Togo%20%283-2%29.svg"
 Human_Development_Index: 0.539
 birth_rate:
-- 31.48
-- 31.856
-- 32.302
-- 32.756
+  - 31.48
+  - 31.856
+  - 32.302
+  - 32.756
 total_fertility_rate: 4.584
 death_rate:
-- 8.168
-- 8.213
-- 8.417
-- 8.465
+  - 8.168
+  - 8.213
+  - 8.417
+  - 8.465
 mobile_country_code: 615
 FIPS_10_4_countries_and_regions_: TO
 IAB_code: 1457
@@ -246,36 +246,36 @@ OmegaWiki_Defined_Meaning: 8346
 area: 56785
 life_expectancy: 60.232
 official_name:
-- Togo
-- Togo
+  - Togo
+  - Togo
 - "République togolaise"
 INSEE_countries_and_foreign_territories_code: 99345
 ITU_letter_code: TGO
 ISO_3166_1_alpha_3_code: TGO
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kpalime.jpg"
 female_population:
-- 4101080
-- 4199517
-- 4299551
-- 4400474
+  - 4101080
+  - 4199517
+  - 4299551
+  - 4400474
 number_of_out_of_school_children: 547181
 IOC_country_code: TOG
 coordinates_of_northernmost_point: "Point(-0.1362 11.13949)"
 urban_population:
-- 3482542
-- 3613424
-- 3748225
-- 3886437
+  - 3482542
+  - 3613424
+  - 3748225
+  - 3886437
 male_population:
-- 4142015
-- 4243063
-- 4345278
-- 4448225
+  - 4142015
+  - 4243063
+  - 4345278
+  - 4448225
 rural_population:
-- 4760552
-- 4829156
-- 4896604
-- 4962262
+  - 4760552
+  - 4829156
+  - 4896604
+  - 4962262
 population: 7797694
 subreddit: Togo
 hashtag: Togo

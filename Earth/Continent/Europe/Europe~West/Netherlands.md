@@ -1,10 +1,10 @@
 ---
 location:
-- 52.1525
-- 5.386944
+  - 52.1525
+  - 5.386944
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q55
 SpocWebEntityId: 26983
 isDeleted: false
@@ -22,19 +22,19 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Netherlands
+  - Netherlands
 - "Países Bajos"
-- Pays-Bas
-- هولندا
-- 荷兰
-- Нидерланды
+  - Pays-Bas
+  - هولندا
+  - 荷兰
+  - Нидерланды
 - "the Kingdom of the Netherlands"
 - "Netherlands (the)"
 - "el Reino de los Países Bajos"
 - "Países Bajos (los)"
 Languages:
-- nl-NL
-- fy-NL
+  - nl-NL
+  - fy-NL
 icon: flag-ne
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -222,15 +222,15 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Germany,183]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 speed_limit:
-- 100
-- 50
-- 80
-- 130
+  - 100
+  - 50
+  - 80
+  - 130
 number_of_out_of_school_children: 20000
 compulsory_education_minimum_age_: 5
 VAT_rate:
-- 6
-- 21
+  - 6
+  - 21
 Democracy_Index: 9
 compulsory_education_maximum_age_: 16
 marriageable_age: 18
@@ -238,30 +238,30 @@ age_of_majority: 18
 mains_voltage: 230
 unemployment_rate: 3.8
 individual_tax_rate:
-- 42
-- 52
-- 36.5
-- 38.1
-- 36.65
-- 51.75
+  - 42
+  - 52
+  - 36.5
+  - 38.1
+  - 36.65
+  - 51.75
 median_income: 44000
 death_rate:
-- 8.8
-- 9.6
-- 9.7
-- 9.8
+  - 8.8
+  - 9.6
+  - 9.7
+  - 9.8
 suicide_rate: 9.3
 birth_rate:
-- 9.5
-- 9.7
-- 9.8
-- 10.2
+  - 9.5
+  - 9.7
+  - 9.8
+  - 10.2
 poverty_incidence: 14.5
 total_fertility_rate: 1.68
 water_as_percent_of_area: 18.7
 Gini_coefficient:
-- 25.4
-- 29.2
+  - 25.4
+  - 29.2
 flag: "[[_Standards/WikiData/WD~flag_of_the_Netherlands,46585]]"
 trunk_prefix: 0
 Happy_Planet_Index_score: 54.9
@@ -278,121 +278,121 @@ OmegaWiki_Defined_Meaning: 5809
 Commons_gallery: Nederland
 IOC_country_code: NED
 demonym:
-- هولنديون
-- neerlandesos
-- nederlænder
-- Niederländer
-- Niederländerin
-- Niederländerinnen
-- Dutch
-- nederlandano
-- הולנדי
-- הולנדים
-- הולנדית
-- オランダ人
-- Nederlander
-- голландец
-- голландцы
-- нидерландцы
-- Холанђани
-- нідерландці
-- هولاندي
-- هولاندية
-- هولانديين
-- هولانديات
-- Hollänner
-- Hollännerin
-- Ísiltíreach
-- neerlandés
-- neerlandesa
-- ওলন্দাজ
-- neerlandès
-- neerlandesa
-- neerlandés
-- neerlandesa
-- néerlandais
-- néerlandaise
-- néerlandaises
-- Nederlanner
-- Ollannach
-- הולנדיות
-- holland
-- Nederlandano
-- olandese
-- olandesi
-- nederlandes
-- nederlender
-- ڈچ
-- голландка
-- нидерландец
-- нидерландка
-- Nizozemec
-- Холанђанин
-- Холанђанка
+  - هولنديون
+  - neerlandesos
+  - nederlænder
+  - Niederländer
+  - Niederländerin
+  - Niederländerinnen
+  - Dutch
+  - nederlandano
+  - הולנדי
+  - הולנדים
+  - הולנדית
+  - オランダ人
+  - Nederlander
+  - голландец
+  - голландцы
+  - нидерландцы
+  - Холанђани
+  - нідерландці
+  - هولاندي
+  - هولاندية
+  - هولانديين
+  - هولانديات
+  - Hollänner
+  - Hollännerin
+  - Ísiltíreach
+  - neerlandés
+  - neerlandesa
+  - ওলন্দাজ
+  - neerlandès
+  - neerlandesa
+  - neerlandés
+  - neerlandesa
+  - néerlandais
+  - néerlandaise
+  - néerlandaises
+  - Nederlanner
+  - Ollannach
+  - הולנדיות
+  - holland
+  - Nederlandano
+  - olandese
+  - olandesi
+  - nederlandes
+  - nederlender
+  - ڈچ
+  - голландка
+  - нидерландец
+  - нидерландка
+  - Nizozemec
+  - Холанђанин
+  - Холанђанка
 - "jan Netelan"
-- голандець
-- голандка
-- голандці
-- нідерландець
-- нідерландка
-- ڈچ
-- ولندیزی
-- neerlandeza
-- neerlandeze
-- neerlandezi
-- neerlandezo
-- ołandeza
-- ołandeze
-- ołandezi
-- ołandezo
-- Nedänan
-- Ολλανδός
+  - голандець
+  - голандка
+  - голандці
+  - нідерландець
+  - нідерландка
+  - ڈچ
+  - ولندیزی
+  - neerlandeza
+  - neerlandeze
+  - neerlandezi
+  - neerlandezo
+  - ołandeza
+  - ołandeze
+  - ołandezi
+  - ołandezo
+  - Nedänan
+  - Ολλανδός
 official_name: Nederland
 native_label: Nederland
 country_calling_code: +31
 coordinate_location: "Point(5.55 52.316666666)"
 PM20_geo_code: A19
 rural_population:
-- 1259248
-- 1302355
-- 1354158
-- 1409098
+  - 1259248
+  - 1302355
+  - 1354158
+  - 1409098
 FIPS_10_4_countries_and_regions_: NL
 NUTS_code: NL
 WIPO_ST_3: NL
 UIC_alphabetical_country_code: NL
 licence_plate_code: NL
 subreddit:
-- Netherlands
-- thenetherlands
+  - Netherlands
+  - thenetherlands
 Commons_category: Netherlands
 hashtag: Netherlands
 GS1_country_code: 870-879
 U_S_National_Archives_Identifier: 10046275
 life_expectancy: 81.50976
 male_population:
-- 8615129
-- 8665375
-- 8712076
-- 8797815
+  - 8615129
+  - 8665375
+  - 8712076
+  - 8797815
 female_population:
-- 8729744
-- 8776125
-- 8820968
-- 8903166
+  - 8729744
+  - 8776125
+  - 8820968
+  - 8903166
 motto_text:
 - "Je maintiendrai"
 - "Ще удържа"
-- Cynhaliaf
+  - Cynhaliaf
 - "I will uphold"
 - "Ik zal handhaven"
 name_in_native_language: "Koninkrijk der Nederlanden"
 Unicode_character: 🇳🇱 
 urban_population:
-- 15935776
-- 16087342
-- 16230689
-- 16441734
+  - 15935776
+  - 16087342
+  - 16230689
+  - 16441734
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Netherlands,10815309]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 instance_of:
@@ -410,8 +410,8 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_proj
 coordinates_of_westernmost_point: "Point(3.36690187 51.36899408)"
 coordinates_of_easternmost_point: "Point(7.22737312 53.18021828)"
 nominal_GDP:
-- 991114635529
-- 1011798853062
+  - 991114635529
+  - 1011798853062
 Baidu_Tieba_name: 荷兰
 Provenio_UUID: 958410e9-e5f0-4fc7-a835-7a5db0ca4ce2
 UMLS_CUI: C0027778
@@ -456,8 +456,8 @@ described_at_URL: "https://www.publico.pt/2020/01/02/mundo/noticia/holanda-muda-
 official_website: "https://www.rijksoverheid.nl/"
 Dewey_Decimal_Classification: 2--492
 BHCL_UUID:
-- 3ddc0c78-ee8c-46f0-bb09-063f62818210
-- 7c672690-aa08-4e09-99eb-de5486282524
+  - 3ddc0c78-ee8c-46f0-bb09-063f62818210
+  - 7c672690-aa08-4e09-99eb-de5486282524
 Libris_URI: fcrtsp7z3dl9s7q
 CIVICUS_Monitor_country_entry: netherlands
 GitHub_topic: netherlands

@@ -121,38 +121,38 @@ coordinates_of_easternmost_point: "Point(-7.3678 5.33413)"
 studied_in: "[[_Standards/WikiData/WD~Liberian_studies,115669699]]"
 UMLS_CUI: C0023617
 demonym:
-- ليبيري
-- ليبيرية
-- ليبيريين
-- ليبيريات
-- Libéarach
-- Liberian
-- ليبيري
-- ليبيرية
-- ليبيريون
-- liberiana
-- liberianu
-- লাইবেরিয়
-- Liberiano
-- Libérien
-- Libérienne
-- ליברי
-- ליברית
-- libériai
-- Liberiano
-- liberiana
-- liberiane
-- liberiani
-- liberiano
-- liberian
-- liberian
-- liberiană
-- liberieni
-- liberian
-- liberiana
-- liberiane
-- liberiani
-- Liberänan
+  - ليبيري
+  - ليبيرية
+  - ليبيريين
+  - ليبيريات
+  - Libéarach
+  - Liberian
+  - ليبيري
+  - ليبيرية
+  - ليبيريون
+  - liberiana
+  - liberianu
+  - লাইবেরিয়
+  - Liberiano
+  - Libérien
+  - Libérienne
+  - ליברי
+  - ליברית
+  - libériai
+  - Liberiano
+  - liberiana
+  - liberiane
+  - liberiani
+  - liberiano
+  - liberian
+  - liberian
+  - liberiană
+  - liberieni
+  - liberian
+  - liberiana
+  - liberiane
+  - liberiani
+  - Liberänan
 ISNI: 0000000121813754
 MeSH_tree_code: Z01.058.290.190.425
 coordinates_of_westernmost_point: "Point(-11.49911 6.92448)"
@@ -161,8 +161,8 @@ motto_text:
 - "Любовта към свободата ни доведе тук"
 - "The Love Of Liberty Brought Us Here"
 nominal_GDP:
-- 4001047150
-- 3509000000
+  - 4001047150
+  - 3509000000
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
@@ -187,34 +187,34 @@ lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 unemployment_rate: 4
 mains_voltage:
-- 120
-- 220
+  - 120
+  - 220
 marriageable_age:
-- 18
-- 21
+  - 18
+  - 21
 Inequality_adjusted_Human_Development_Index: 0.33
 BTI_Status_Index:
-- 4.2
-- 2.79
-- 5.09
-- 5.28
-- 5.34
-- 5.48
-- 5.54
-- 5.56
+  - 4.2
+  - 2.79
+  - 5.09
+  - 5.28
+  - 5.34
+  - 5.48
+  - 5.54
+  - 5.56
 Happy_Planet_Index_score: 46
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.lr,42847]]'
 Gini_coefficient: 35.3
 BTI_Governance_Index:
-- 3.61
-- 4.96
-- 5.01
-- 5.36
-- 5.84
-- 6.04
-- 6.16
-- 6.17
-- 6.22
+  - 3.61
+  - 4.96
+  - 5.01
+  - 5.36
+  - 5.84
+  - 6.04
+  - 6.16
+  - 6.17
+  - 6.22
 Human_Development_Index: 0.481
 ISO_3166_1_numeric_code: 430
 M49_code: 430
@@ -238,7 +238,7 @@ native_label: "Republic of Liberia"
 official_name:
 - "la République du Libéria"
 - "Repubblica di Libèria"
-- Liberia
+  - Liberia
 short_name: "\U0001F1F1\U0001F1F7"
 coordinates_of_southernmost_point: "Point(-7.6176 4.35291)"
 total_fertility_rate: 4.719
@@ -246,19 +246,19 @@ maritime_identification_digits:
 - 636
 - 637
 death_rate:
-- 8.632
-- 8.658
-- 8.753
-- 8.838
+  - 8.632
+  - 8.658
+  - 8.753
+  - 8.838
 licence_plate_code: LB
 ISO_3166_1_alpha_2_code: LR
 WIPO_ST_3: LR
 mobile_country_code: 618
 birth_rate:
-- 30.996
-- 31.287
-- 31.708
-- 32.181
+  - 30.996
+  - 31.287
+  - 31.708
+  - 32.181
 IAB_code: 1339
 life_expectancy: 62.505
 IOC_country_code: LBR
@@ -272,25 +272,25 @@ population: 5214030
 U_S_National_Archives_Identifier: 10035726
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg"
 rural_population:
-- 2412132
-- 2437512
-- 2463081
-- 2488813
+  - 2412132
+  - 2437512
+  - 2463081
+  - 2488813
 male_population:
-- 2479442
-- 2531454
-- 2585173
-- 2640702
+  - 2479442
+  - 2531454
+  - 2585173
+  - 2640702
 female_population:
-- 2505847
-- 2556131
-- 2608243
-- 2661979
+  - 2505847
+  - 2556131
+  - 2608243
+  - 2661979
 urban_population:
-- 2573157
-- 2650072
-- 2730335
-- 2813868
+  - 2573157
+  - 2650072
+  - 2730335
+  - 2813868
 Commons_gallery: Liberia
 Commons_category: Liberia
 subreddit: Liberia

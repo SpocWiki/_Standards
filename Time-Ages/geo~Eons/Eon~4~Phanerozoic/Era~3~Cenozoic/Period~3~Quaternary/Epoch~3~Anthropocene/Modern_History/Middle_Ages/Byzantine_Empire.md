@@ -74,10 +74,12 @@ said to be the same as: "[[_Standards/WikiData/WD~Q11497737,11497737]]"
 head of state: "[[_Standards/WikiData/WD~Byzantine emperor,18577504]]"
 category for people buried here: "[[_Standards/WikiData/WD~Q107491069,107491069]]"
 different from: "[[_Standards/WikiData/WD~Greater Greece,124371648]]"
-inception: 0395-01-18T00:00:00Z
+inception: 0395-01-18T00:00:00Z 
+has_time_started: 0395-01-18T00:00:00Z 
 UMLS CUI: C0242840
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20banner%20Hagia%20Sophia%20Imperial%20Gate%20mosaic.jpg
-"dissolved, abolished or demolished date": 1453-06-07T00:00:00Z
+"dissolved, abolished or demolished date": 1453-06-07T00:00:00Z 
+has_time_stopped: 1453-06-07T00:00:00Z 
 language used:
   - "[[_Standards/WikiData/WD~Latin,397]]"
   - "[[_Standards/WikiData/WD~Medieval Greek,36387]]"

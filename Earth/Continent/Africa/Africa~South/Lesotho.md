@@ -70,39 +70,39 @@ office_held_by_head_of_state: "[[_Standards/WikiData/WD~King_of_Lesotho,41542585
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 head_of_government: "[[_Standards/WikiData/WD~Sam_Matekane,114588964]]"
 demonym:
-- lesotense
-- ليسوطوي
-- ليسوطوية
-- ليسوطويين
-- ليسوطويات
-- ليسوثوي
-- ليسوثوية
+  - lesotense
+  - ليسوطوي
+  - ليسوطوية
+  - ليسوطويين
+  - ليسوطويات
+  - ليسوثوي
+  - ليسوثوية
 - "de Lesothu"
-- মোসোথো
-- Mosotho
-- Lesotano
-- Lésothan
-- Lésothane
-- Lesothien
-- Lesothienne
-- לסוטואי
-- לסוטואית
-- lesothói
-- Lesothano
-- lesothiana
-- lesothiane
-- lesothiani
-- lesothiano
-- lesoto
-- lesothian
-- lesothiană
-- lesothieni
-- lezothian
-- lezothiana
-- lezothiane
-- lezothiani
-- Sutuvänan
-- Basotho
+  - মোসোথো
+  - Mosotho
+  - Lesotano
+  - Lésothan
+  - Lésothane
+  - Lesothien
+  - Lesothienne
+  - לסוטואי
+  - לסוטואית
+  - lesothói
+  - Lesothano
+  - lesothiana
+  - lesothiane
+  - lesothiani
+  - lesothiano
+  - lesoto
+  - lesothian
+  - lesothiană
+  - lesothieni
+  - lezothian
+  - lezothiana
+  - lezothiane
+  - lezothiani
+  - Sutuvänan
+  - Basotho
 UMLS_CUI: C0023376
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Lesotho\"]"
 ISNI:
@@ -154,23 +154,23 @@ Happy_Planet_Index_score: 27.3
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ls,41794]]'
 BTI_Governance_Index:
-- 3.58
-- 3.59
-- 3.84
-- 4.04
-- 4.96
-- 5.42
-- 5.43
+  - 3.58
+  - 3.59
+  - 3.84
+  - 4.04
+  - 4.96
+  - 5.42
+  - 5.43
 Inequality_adjusted_Human_Development_Index: 0.372
 Gini_coefficient: 44.9
 BTI_Status_Index:
-- 5.03
-- 5.05
-- 5.19
-- 5.23
-- 5.33
-- 5.35
-- 5.48
+  - 5.03
+  - 5.05
+  - 5.19
+  - 5.23
+  - 5.33
+  - 5.35
+  - 5.48
 Human_Development_Index: 0.514
 head_of_state: "[[_Standards/WikiData/WD~Letsie_III_of_Lesotho,57537]]"
 ISO_3166_1_numeric_code: 426
@@ -178,35 +178,35 @@ M49_code: 426
 total_fertility_rate: 3.185
 IAB_code: 1338
 death_rate:
-- 12.858
-- 13.014
-- 14.069
-- 14.186
+  - 12.858
+  - 13.014
+  - 14.069
+  - 14.186
 birth_rate:
-- 25.778
-- 26.107
-- 26.378
-- 26.839
+  - 25.778
+  - 26.107
+  - 26.378
+  - 26.839
 area: 30355
 maritime_identification_digits: 644
 mobile_country_code: 651
 life_expectancy: 54.174
 FIPS_10_4_countries_and_regions_: LT
 urban_population:
-- 654320
-- 636217
-- 672573
-- 690433
+  - 654320
+  - 636217
+  - 672573
+  - 690433
 OmegaWiki_Defined_Meaning: 8087
 licence_plate_code: LS
 ISO_3166_1_alpha_2_code: LS
 WIPO_ST_3: LS
 number_of_out_of_school_children: 142364
 rural_population:
-- 1599780
-- 1589485
-- 1608881
-- 1615392
+  - 1599780
+  - 1589485
+  - 1608881
+  - 1615392
 INSEE_countries_and_foreign_territories_code: 99348
 coordinate_location: "Point(28.25 -29.55)"
 IOC_country_code: LES
@@ -217,24 +217,24 @@ Krugosvet_article: strany_mira/LESOTO.html
 official_name:
 - "Kingdom of Lesotho"
 - "le Royaume du Lesotho"
-- Lesotho
+  - Lesotho
 - "Muso oa Lesotho"
-- Lesotho
+  - Lesotho
 native_label: Lesotho
 short_name: "\U0001F1F1\U0001F1F8"
 nominal_GDP:
-- 2553459763
-- 2373416269
+  - 2553459763
+  - 2373416269
 male_population:
-- 1097956
-- 1112185
-- 1125698
-- 1137496
+  - 1097956
+  - 1112185
+  - 1125698
+  - 1137496
 female_population:
-- 1127746
-- 1141915
-- 1155756
-- 1168329
+  - 1127746
+  - 1141915
+  - 1155756
+  - 1168329
 coordinates_of_southernmost_point: "Point(28.11363 -30.67558)"
 population: 2007201
 ISO_3166_1_alpha_3_code: LSO

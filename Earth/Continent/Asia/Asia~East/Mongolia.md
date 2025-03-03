@@ -116,11 +116,11 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mongolian%20lan
 country_calling_code: +976
 Libris_URI: 20dgf94l53xh9bf
 ISBN_identifier_group:
-- 978-9919
-- 978-99929
-- 978-99962
-- 978-99973
-- 978-99978
+  - 978-9919
+  - 978-99929
+  - 978-99962
+  - 978-99973
+  - 978-99978
 BHCL_UUID: f6e7b408-a821-443d-bce5-a0013134a2f7
 GitHub_topic: mongolia
 CIVICUS_Monitor_country_entry: mongolia
@@ -129,54 +129,54 @@ Danbooru_tag: mongolia
 Colon_Classification: SG--496
 Krugosvet_article: strany_mira/MONGOLIYA.html
 demonym:
-- منغولي
-- mongol
-- mongola
-- মঙ্গোলীয়
-- Mongole
-- מונגולי
-- Mongoliano
-- mongola
-- mongole
-- mongol
-- mongolă
-- mongoli
-- монгол
-- монголка
-- móngoła
-- móngołe
-- móngołi
-- Mongolänan
-- манголка
-- Mongolian
-- Mongol
-- منغوليون
-- منغولية
-- mongol
-- Mongol
-- מונגולית
-- mongol
-- mongolo
-- mongol
-- móngoło
-- мангол
-- манголы
-- mongoli
-- монголы
-- مونڭولي
-- مونڭولية
-- مونڭوليين
-- مونڭوليات
-- mongola
-- Mongólach
+  - منغولي
+  - mongol
+  - mongola
+  - মঙ্গোলীয়
+  - Mongole
+  - מונגולי
+  - Mongoliano
+  - mongola
+  - mongole
+  - mongol
+  - mongolă
+  - mongoli
+  - монгол
+  - монголка
+  - móngoła
+  - móngołe
+  - móngołi
+  - Mongolänan
+  - манголка
+  - Mongolian
+  - Mongol
+  - منغوليون
+  - منغولية
+  - mongol
+  - Mongol
+  - מונגולית
+  - mongol
+  - mongolo
+  - mongol
+  - móngoło
+  - мангол
+  - манголы
+  - mongoli
+  - монголы
+  - مونڭولي
+  - مونڭولية
+  - مونڭوليين
+  - مونڭوليات
+  - mongola
+  - Mongólach
 motto_text:
 - "Go Nomadic, Experience Mongolia"
 - "Crwydrwch a Phrofwch Mongolia"
 short_name:
-- Mongolei
-- Mongolia
-- Mongolia
-- Mongolia
+  - Mongolei
+  - Mongolia
+  - Mongolia
+  - Mongolia
 official_name:
 - "Монгол Улс"
 - "ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ"
@@ -186,15 +186,15 @@ native_label:
 geoshape: "http://commons.wikimedia.org/data/main/Data:MN.map"
 coordinates_of_westernmost_point: "Point(87.7347 48.8805)"
 BTI_Status_Index:
-- 6.45
-- 6.47
-- 6.59
-- 6.61
-- 6.65
-- 6.2
-- 6.09
-- 6.25
-- 6.29
+  - 6.45
+  - 6.47
+  - 6.59
+  - 6.61
+  - 6.65
+  - 6.2
+  - 6.09
+  - 6.25
+  - 6.29
 Human_Development_Index: 0.739
 UIC_numerical_country_code: 31
 mobile_country_code: 428
@@ -213,10 +213,10 @@ OmegaWiki_Defined_Meaning: 8332
 social_media_followers: 43535
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg"
 rural_population:
-- 1045010
-- 1016826
-- 1032543
-- 1055872
+  - 1045010
+  - 1016826
+  - 1032543
+  - 1055872
 FIPS_10_4_countries_and_regions_: MG
 ISO_3166_1_alpha_3_code: MNG
 ITU_letter_code: MNG
@@ -225,28 +225,28 @@ PM20_geo_code: B99
 area: 1564116
 coordinates_of_easternmost_point: "Point(119.9314 46.8476)"
 male_population:
-- 1606094
-- 1636094
-- 1661462
-- 1685387
+  - 1606094
+  - 1636094
+  - 1661462
+  - 1685387
 female_population:
-- 1626335
-- 1658241
-- 1686321
-- 1712979
+  - 1626335
+  - 1658241
+  - 1686321
+  - 1712979
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gurvger.jpg"
 urban_population:
-- 2215604
-- 2261792
-- 2302772
-- 2342494
+  - 2215604
+  - 2261792
+  - 2302772
+  - 2342494
 IOC_country_code: MGL
 licence_plate_code: MGL
 UIC_alphabetical_country_code: MGL
 population: 3409939
 nominal_GDP:
-- 15286441740
-- 16810883361
+  - 15286441740
+  - 16810883361
 Commons_category: Mongolia
 hashtag: Mongolia
 Unicode_character: 🇲🇳 
@@ -299,15 +299,15 @@ unemployment_rate: 5
 marriageable_age: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 5.9
-- 6.2
-- 6.3
-- 5.83
-- 5.87
-- 5.92
-- 5.96
-- 6.12
-- 6.24
+  - 5.9
+  - 6.2
+  - 6.3
+  - 5.83
+  - 5.87
+  - 5.92
+  - 5.96
+  - 6.12
+  - 6.24
 life_expectancy: 73
 total_fertility_rate: 1.93
 Happy_Planet_Index_score: 24.5
@@ -318,11 +318,11 @@ Democracy_Index: 6.42
 Inequality_adjusted_Human_Development_Index: 0.644
 has_id_wikidata: Q711
 location:
-- 47.9167
-- 106.883
+    - 47.9167
+    - 106.883
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26964
 isDeleted: false
 confidential: public
@@ -339,14 +339,14 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Mongolia
-- Mongolie
-- منغوليا
-- 蒙古
-- Монголия
+    - Mongolia
+    - Mongolie
+    - منغوليا
+    - 蒙古
+    - Монголия
 Languages:
-- mn
-- ru
+    - mn
+    - ru
 icon: flag-mn
 ---
 

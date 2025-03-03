@@ -10,8 +10,8 @@ Krugosvet_article: sport/TENNIS.html
 Archive_of_Our_Own_tag: "Tennis RPF"
 Baidu_Tieba_name: 网球
 hashtag:
-- テニス
-- tennis
+  - テニス
+  - tennis
 uses:
 - "[[_Standards/WikiData/WD~tennis_racquet,153362]]"
 - "[[_Standards/WikiData/WD~tennis_ball,246514]]"

@@ -300,65 +300,65 @@ coordinates_of_easternmost_point: "Point(44.817 39.65325)"
 coordinate_location: "Point(36.0 39.0)"
 coordinates_of_southernmost_point: "Point(36.1515 35.808777777)"
 nominal_GDP:
-- 819034484303
-- 905987824096
+  - 819034484303
+  - 905987824096
 population: 85372377
 Baidu_Tieba_name: 土耳其
 Provenio_UUID:
-- 342e6663-ab12-423d-9ed4-aa7b2af2f086
-- 3616540a-9af9-4dd2-b138-c4cdb6445399
+  - 342e6663-ab12-423d-9ed4-aa7b2af2f086
+  - 3616540a-9af9-4dd2-b138-c4cdb6445399
 UMLS_CUI: C0041400
 described_at_URL: "http://68k.news/index.php?section=nation&loc=TR&lang=TR"
 demonym:
-- турци
-- تواركا
-- توركي
-- توركية
-- توركيات
-- Turcach
-- أترك
-- Turek
-- Turk
-- török
-- تركي
-- تركية
-- turca
-- turco
-- turcos
-- turcu
-- turques
-- তুর্কি
-- Turkyně
-- Türke
-- Türkin
-- türkisch
-- Τουρκάλα
-- Τούρκος
-- Turkish
-- turko
-- Turc
-- Turque
-- טורקי
-- טורקייה
-- Turkiano
-- turca
-- turche
-- turchi
-- turco
-- თურქი
-- turces
-- turc
-- turci
-- turcoaică
-- турки
-- турок
-- турчанка
-- Türk
-- turca
-- turche
-- turchi
-- turco
-- Türkänan
+  - турци
+  - تواركا
+  - توركي
+  - توركية
+  - توركيات
+  - Turcach
+  - أترك
+  - Turek
+  - Turk
+  - török
+  - تركي
+  - تركية
+  - turca
+  - turco
+  - turcos
+  - turcu
+  - turques
+  - তুর্কি
+  - Turkyně
+  - Türke
+  - Türkin
+  - türkisch
+  - Τουρκάλα
+  - Τούρκος
+  - Turkish
+  - turko
+  - Turc
+  - Turque
+  - טורקי
+  - טורקייה
+  - Turkiano
+  - turca
+  - turche
+  - turchi
+  - turco
+  - თურქი
+  - turces
+  - turc
+  - turci
+  - turcoaică
+  - турки
+  - турок
+  - турчанка
+  - Türk
+  - turca
+  - turche
+  - turchi
+  - turco
+  - Türkänan
 spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B9%D5%B8%D6%82%D6%80%D6%84%D5%AB%D5%A1%20%28Turkey%29.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Turquia%20intro.ogg"
@@ -392,8 +392,8 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 lowest_point: "[[_Standards/WikiData/WD~Black_Sea,166]]"
 VAT_rate: 20
 retirement_age:
-- 60
-- 58
+  - 60
+  - 58
 compulsory_education_minimum_age_: 6
 unemployment_rate: 9
 compulsory_education_maximum_age_: 18
@@ -403,31 +403,31 @@ total_fertility_rate: 1.9
 mains_voltage: 230
 suicide_rate: 2.3
 BTI_Status_Index:
-- 7.3
-- 5.45
-- 5.51
-- 6.17
-- 6.92
-- 7.17
-- 7.51
-- 7.54
+  - 7.3
+  - 5.45
+  - 5.51
+  - 6.17
+  - 6.92
+  - 7.17
+  - 7.51
+  - 7.54
 life_expectancy: 78
 social_media_followers:
-- 103000
-- 154520
+  - 103000
+  - 154520
 head_of_state: "[[_Standards/WikiData/WD~Recep_Tayyip_Erdoğan,39259]]"
 head_of_government: "[[_Standards/WikiData/WD~Recep_Tayyip_Erdoğan,39259]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.tr,41104]]'
 BTI_Governance_Index:
-- 3.98
-- 4.05
-- 4.72
-- 6.06
-- 6.31
-- 6.37
-- 6.49
-- 6.65
-- 6.69
+  - 3.98
+  - 4.05
+  - 4.72
+  - 6.06
+  - 6.31
+  - 6.37
+  - 6.49
+  - 6.65
+  - 6.69
 Happy_Planet_Index_score: 41.3
 Gini_coefficient: 41.9
 Democracy_Index: 4.35
@@ -447,8 +447,8 @@ licence_plate_code: TR
 ISO_3166_1_alpha_2_code: TR
 WIPO_ST_3: TR
 hashtag:
-- Turkey
-- Türkiye
+  - Turkey
+  - Türkiye
 Commons_category: Turkey
 subreddit: Turkey
 IAB_code: 1462
@@ -463,16 +463,16 @@ ITU_letter_code: TUR
 ISO_3166_1_alpha_3_code: TUR
 IOC_country_code: TUR
 rural_population:
-- 20124610
-- 19526684
-- 19716558
-- 19924769
+  - 20124610
+  - 19526684
+  - 19716558
+  - 19924769
 GS1_country_code: 868-869
 urban_population:
-- 62454830
-- 64430760
-- 63459911
-- 65453229
+  - 62454830
+  - 64430760
+  - 63459911
+  - 65453229
 U_S_National_Archives_Identifier: 10035803
 coordinates_of_northernmost_point: "Point(27.240166666 42.104722222)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Turkey.map"
@@ -490,8 +490,8 @@ official_website: "https://www.turkiye.gov.tr/"
 BHCL_UUID: 0235138e-838e-4a77-b45b-068626936bab
 Basisklassifikation: 15.68
 Dewey_Decimal_Classification:
-- 2--561
-- 2--392
+  - 2--561
+  - 2--392
 Facebook_username: edevletkapi
 Instagram_username: edevletkapisi
 X_Twitter_username: ekapi
@@ -503,35 +503,36 @@ CIVICUS_Monitor_country_entry: turkey
 GitHub_topic: turkey
 Commons_gallery: Türkiye
 short_name:
-- TC
-- Türkiye
-- Туреччина
+  - TC
+  - Türkiye
+  - Туреччина
 - "\U0001F1F9\U0001F1F7"
 native_label:
-- Türkiye
+  - Türkiye
 - "Türkiye Cumhuriyeti"
 name_in_native_language: "Türkiye Cumhuriyeti"
 official_name: "Türkiye Cumhuriyeti"
 number_of_households: 26075365
 female_population:
-- 41164975
-- 41578108
-- 41972288
-- 42398537
+  - 41164975
+  - 41578108
+  - 41972288
+  - 42398537
 male_population:
-- 41414465
-- 41806571
-- 42175029
-- 42581376
+  - 41414465
+  - 41806571
+  - 42175029
+  - 42581376
 inception: "1923-10-29"
 has_time_started: "1923-10-29"
+has_time_started: 1923-10-29T00:00:00Z 
 has_id_wikidata: Q43
 location:
-- 39.3233
-- 32.37
+    - 39.3233
+    - 32.37
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27039
 isDeleted: false
 confidential: public
@@ -548,20 +549,20 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Turkey
-- Turquía
-- Turquie
-- تركيا
-- 土耳其
-- Турция
+    - Turkey
+    - Turquía
+    - Turquie
+    - تركيا
+    - 土耳其
+    - Турция
 - "the Republic of Turkey"
 - "la República de Turquía"
 Languages:
-- tr-TR
-- ku
-- diq
-- az
-- av
+    - tr-TR
+    - ku
+    - diq
+    - az
+    - av
 icon: flag-tr
 ---
 

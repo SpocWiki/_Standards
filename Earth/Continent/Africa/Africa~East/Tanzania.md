@@ -90,7 +90,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Gorowa,3437626]]'
 - '[[_Standards/WikiData/WD~Luguru,3437661]]'
 - '[[_Standards/WikiData/WD~Shambala,3788739]]'
-- "[[_Standards/WikiData/WD~Kw'adza,3807652]]"
+  - "[[_Standards/WikiData/WD~Kw'adza,3807652]]"
 - '[[_Standards/WikiData/WD~Pangwa,3847550]]'
 - '[[_Standards/WikiData/WD~Kahe,3892562]]'
 - '[[_Standards/WikiData/WD~Pimbwe,3894132]]'
@@ -225,51 +225,51 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 open_data_portal: "[[_Standards/WikiData/WD~Tanzania_data_portal,97284991]]"
 coordinate_location: "Point(34.853888888 -6.306944444)"
 demonym:
-- طانزاني
-- طانزانيات
-- طانزانية
-- طانزانيين
-- Tansánach
-- تنزاني
-- تنزانية
-- تنزانيون
-- tanzaniana
-- tanzanianu
-- তানজানীয়
-- Tanzà
-- Tanzana
-- Tanzanes
-- Tanzans
-- Tanzanian
-- Tanzanien
-- Tanzanienne
-- טנזני
-- טנזנית
-- tanzániai
-- Tanzaniano
-- tanzaniana
-- tanzaniane
-- tanzaniani
-- tanzaniano
-- tanzanian
-- tanzanianer
-- tanzanianar
-- tanzanian
-- tanzaniană
-- tanzanieni
-- танзаниец
-- танзанийка
-- танзанийцы
-- tanzanian
-- tanzaniana
-- tanzaniane
-- tanzaniani
-- Tansanänan
+  - طانزاني
+  - طانزانيات
+  - طانزانية
+  - طانزانيين
+  - Tansánach
+  - تنزاني
+  - تنزانية
+  - تنزانيون
+  - tanzaniana
+  - tanzanianu
+  - তানজানীয়
+  - Tanzà
+  - Tanzana
+  - Tanzanes
+  - Tanzans
+  - Tanzanian
+  - Tanzanien
+  - Tanzanienne
+  - טנזני
+  - טנזנית
+  - tanzániai
+  - Tanzaniano
+  - tanzaniana
+  - tanzaniane
+  - tanzaniani
+  - tanzaniano
+  - tanzanian
+  - tanzanianer
+  - tanzanianar
+  - tanzanian
+  - tanzaniană
+  - tanzanieni
+  - танзаниец
+  - танзанийка
+  - танзанийцы
+  - tanzanian
+  - tanzaniana
+  - tanzaniane
+  - tanzaniani
+  - Tansanänan
 ISNI: 0000000121586299
 coordinates_of_easternmost_point: "Point(39.90766 -7.63975)"
 nominal_GDP:
-- 70655628141
-- 75709289056
+  - 70655628141
+  - 75709289056
 coordinates_of_southernmost_point: "Point(36.52013 -11.76089)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
@@ -317,40 +317,40 @@ mains_voltage: 230
 Happy_Planet_Index_score: 37
 Democracy_Index: 5.1
 BTI_Status_Index:
-- 5.6
-- 4.88
-- 5.45
-- 5.49
-- 5.51
-- 5.58
-- 5.65
-- 5.84
+  - 5.6
+  - 4.88
+  - 5.45
+  - 5.49
+  - 5.51
+  - 5.58
+  - 5.65
+  - 5.84
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.tz,43159]]'
 Gini_coefficient: 40.5
 Inequality_adjusted_Human_Development_Index: 0.418
 BTI_Governance_Index:
-- 4.43
-- 4.47
-- 5.07
-- 5.14
-- 5.15
-- 5.29
-- 5.38
-- 5.84
-- 5.91
+  - 4.43
+  - 4.47
+  - 5.07
+  - 5.14
+  - 5.15
+  - 5.29
+  - 5.38
+  - 5.84
+  - 5.91
 GS1_country_code: 620
 Human_Development_Index: 0.549
 birth_rate:
-- 36.21
-- 35.811
-- 36.651
-- 37.113
+  - 36.21
+  - 35.811
+  - 36.651
+  - 37.113
 total_fertility_rate: 5.145
 death_rate:
-- 5.959
-- 6.012
-- 6.179
-- 6.222
+  - 5.959
+  - 6.012
+  - 6.179
+  - 6.222
 maritime_identification_digits:
 - 674
 - 677
@@ -368,12 +368,13 @@ INSEE_countries_and_foreign_territories_code: 99309
 IOC_country_code: TAN
 coordinates_of_northernmost_point: "Point(30.7685 -0.98559)"
 urban_population:
-- 20656040
-- 22862550
-- 21736651
-- 24025884
+  - 20656040
+  - 22862550
+  - 21736651
+  - 24025884
 inception: "1964-04-26"
 has_time_started: "1964-04-26"
+has_time_started: 1964-04-26T00:00:00Z 
 hashtag: Tanzania
 Commons_gallery: Tanzania
 Commons_category: Tanzania
@@ -390,24 +391,24 @@ short_name: "\U0001F1F9\U0001F1FF"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Tanzania.svg"
 U_S_National_Archives_Identifier: 10035672
 male_population:
-- 29563439
-- 30475454
-- 31417653
-- 32370931
+  - 29563439
+  - 30475454
+  - 31417653
+  - 32370931
 female_population:
-- 30309141
-- 31229064
-- 32170681
-- 33126817
+  - 30309141
+  - 31229064
+  - 32170681
+  - 33126817
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Tanzania%20%28orthographic%20projection%29.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationTanzania.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Tanzania%20on%20the%20globe%20%28Africa%20centered%29.svg"
 rural_population:
-- 39216539
-- 39967867
-- 40725784
-- 41471864
+  - 39216539
+  - 39967867
+  - 40725784
+  - 41471864
 coordinates_of_westernmost_point: "Point(29.7229 -6.237)"
 population: 57310019
 geoshape: "http://commons.wikimedia.org/data/main/Data:Tanzania.map"

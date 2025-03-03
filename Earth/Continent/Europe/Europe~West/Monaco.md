@@ -1,10 +1,10 @@
 ---
 location:
-- 43.715
-- 7.41
+  - 43.715
+  - 7.41
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26957
 isDeleted: false
 confidential: public
@@ -12,7 +12,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Monaco
 linkTitle: 
@@ -22,17 +22,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Monaco
-- Mónaco
-- موناكو
-- 摩纳哥
-- Монако
+  - Monaco
+  - Mónaco
+  - موناكو
+  - 摩纳哥
+  - Монако
 - "the Principality of Monaco"
 - "el Principado de Mónaco"
 Languages:
-- fr-MC
-- en
-- it
+  - fr-MC
+  - en
+  - it
 icon: flag-mc
 has_id_wikidata: Q235
 member_of:
@@ -112,46 +112,46 @@ located_in_time_zone:
 - "[[_Standards/WikiData/WD~Central_European_Time,25989]]"
 coordinates_of_northernmost_point: "Point(7.43 43.75)"
 demonym:
-- موناكي
-- موناكية
-- موناكيين
-- موناكيات
-- Monacach
-- মোনাকীয়
-- monegasc
-- monegasca
-- Μονεγάσκα
-- Μονεγάσκες
-- Μονεγάσκοι
-- Μονεγάσκος
-- Monacan
-- Monégasque
-- Monakano
-- monegasca
-- monegasco
-- Monégasque
-- מונגאסקי
-- מונגאסקית
-- monacói
-- Monakano
-- monegasca
-- monegasche
-- monegaschi
-- monegasco
-- monegasc
-- monegască
-- monegasci
-- monegasca
-- monegasche
-- monegaschi
-- monegasco
-- Monakänan
-- Monegasque
-- موناكي
-- موناكية
-- موناكيون
-- monegasca
-- monegascu
+  - موناكي
+  - موناكية
+  - موناكيين
+  - موناكيات
+  - Monacach
+  - মোনাকীয়
+  - monegasc
+  - monegasca
+  - Μονεγάσκα
+  - Μονεγάσκες
+  - Μονεγάσκοι
+  - Μονεγάσκος
+  - Monacan
+  - Monégasque
+  - Monakano
+  - monegasca
+  - monegasco
+  - Monégasque
+  - מונגאסקי
+  - מונגאסקית
+  - monacói
+  - Monakano
+  - monegasca
+  - monegasche
+  - monegaschi
+  - monegasco
+  - monegasc
+  - monegască
+  - monegasci
+  - monegasca
+  - monegasche
+  - monegaschi
+  - monegasco
+  - Monakänan
+  - Monegasque
+  - موناكي
+  - موناكية
+  - موناكيون
+  - monegasca
+  - monegascu
 ISNI: 0000000121814116
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20von%20Monaco-La%20Turbie.jpg"
 MeSH_tree_code: Z01.542.616
@@ -192,10 +192,10 @@ VAT_rate: 19.6
 area: 2.02
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.mc,42020]]'
 female_population:
-- 18890
-- 18596
-- 18704
-- 18827
+  - 18890
+  - 18596
+  - 18704
+  - 18827
 social_media_followers: 37160
 population: 38350
 mobile_country_code: 212
@@ -206,17 +206,17 @@ WIPO_ST_3: MC
 IAB_code: 1356
 FIPS_10_4_countries_and_regions_: MN
 male_population:
-- 17872
-- 17982
-- 18095
-- 18145
+  - 17872
+  - 17982
+  - 18095
+  - 18145
 ISO_3166_1_numeric_code: 492
 M49_code: 492
 urban_population:
-- 36469
-- 36686
-- 36922
-- 37034
+  - 36469
+  - 36686
+  - 36922
+  - 37034
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Monaco.svg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Monaco.svg"
 Dewey_Decimal_Classification: 2--44949
@@ -233,13 +233,13 @@ motto_text:
 - "Easy going Monaco"
 - "Deo Juvante"
 official_name:
-- Fort-Hercule
+  - Fort-Hercule
 - "la Principauté de Monaco"
-- Monaco
-- Múnegu
+  - Monaco
+  - Múnegu
 - "Furstendömet Monaco"
 native_label:
-- Monaco
+  - Monaco
 - "Principauté de Monaco"
 - "Prinçipato de Mónego"
 - "Prinçipatu de Mu̍negu"

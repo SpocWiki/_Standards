@@ -1,10 +1,10 @@
 ---
 location:
-- 26.2
-- 50.58
+  - 26.2
+  - 50.58
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q398
 SpocWebEntityId: 26847
 isDeleted: false
@@ -22,19 +22,19 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Bahrain
-- Bahrein
-- Bahreïn
-- البحرين
-- 巴林
-- Бахрейн
+  - Bahrain
+  - Bahrein
+  - Bahreïn
+  - البحرين
+  - 巴林
+  - Бахрейн
 - "the Kingdom of Bahrain"
 - "el Reino de Bahrein"
 Languages:
-- ar-BH
-- en
-- fa
-- ur
+  - ar-BH
+  - en
+  - fa
+  - ur
 icon: flag-bh
 IAB_code: 1245
 Dewey_Decimal_Classification: 2--5365
@@ -62,86 +62,86 @@ Krugosvet_article: strany_mira/BAHREN.html
 MeSH_tree_code: Z01.252.245.500.175
 Commons_gallery: "البحرين / Bahrain"
 demonym:
-- بحارنة
-- بحريني
-- بحرينية
-- baḥreiní
-- baḥreinina
-- বাহরাইনী
-- bahrainer
-- Bahrainer
-- Bahrainerin
-- Bahraini
-- Barejnano
-- Bahreïnien
-- Bahreïnienne
-- בחרייני
-- בחריינית
-- bahreini
-- Bahrainano
-- bahreinita
-- bahreinite
-- bahreiniti
-- baraini
-- bahreinia
-- bahreinie
-- bahreinii
-- bahreinio
-- بحريني
-- بحرينية
-- بحرينيين
-- بحرينيات
-- Bairéanach
+  - بحارنة
+  - بحريني
+  - بحرينية
+  - baḥreiní
+  - baḥreinina
+  - বাহরাইনী
+  - bahrainer
+  - Bahrainer
+  - Bahrainerin
+  - Bahraini
+  - Barejnano
+  - Bahreïnien
+  - Bahreïnienne
+  - בחרייני
+  - בחריינית
+  - bahreini
+  - Bahrainano
+  - bahreinita
+  - bahreinite
+  - bahreiniti
+  - baraini
+  - bahreinia
+  - bahreinie
+  - bahreinii
+  - bahreinio
+  - بحريني
+  - بحرينية
+  - بحرينيين
+  - بحرينيات
+  - Bairéanach
 official_name:
 - "Kingdom of Bahrain"
 - "Royaume de Bahreïn"
 - "Bahrajnské kráľovstvo"
 motto_text:
 - "Ours. Yours. Bahrain"
-- بحريننا
+  - بحريننا
 short_name: "\U0001F1E7\U0001F1ED"
 total_fertility_rate: 2.056
 death_rate:
-- 2.239
-- 2.476
-- 2.479
-- 2
+  - 2.239
+  - 2.476
+  - 2.479
+  - 2
 number_of_out_of_school_children: 7114
 area: 786.5
 birth_rate:
-- 11.454
-- 11.926
-- 12.621
-- 13.198
+  - 11.454
+  - 11.926
+  - 12.621
+  - 13.198
 median_income: 24633
 male_population:
-- 920430
-- 908649
-- 912199
-- 933409
+  - 920430
+  - 908649
+  - 912199
+  - 933409
 rural_population:
-- 151007
-- 151858
-- 155046
-- 158474
+  - 151007
+  - 151858
+  - 155046
+  - 158474
 female_population:
-- 554616
-- 557039
-- 560034
-- 560779
+  - 554616
+  - 557039
+  - 560034
+  - 560779
 urban_population:
-- 1311407
-- 1321226
-- 1322423
-- 1335714
+  - 1311407
+  - 1321226
+  - 1322423
+  - 1335714
 population: 1569666
 inception: "1971-08-14"
 has_time_started: "1971-08-14"
 coordinates_of_easternmost_point: "Point(50.82483664 25.73997823)"
 coordinates_of_westernmost_point: "Point(50.33137355 26.18209739)"
 nominal_GDP:
-- 44390820479
-- 39303403989
+  - 44390820479
+  - 39303403989
 instance_of:
 - "[[_Standards/WikiData/WD~island_country,112099]]"
 - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -262,30 +262,30 @@ unemployment_rate: 4
 age_of_majority: 21
 mains_voltage: 230
 BTI_Status_Index:
-- 4.5
-- 4.62
-- 4.63
-- 4.96
-- 5.34
-- 5.89
-- 6.01
-- 6.05
-- 6.21
+  - 4.5
+  - 4.62
+  - 4.63
+  - 4.96
+  - 5.34
+  - 5.89
+  - 6.01
+  - 6.05
+  - 6.21
 suicide_rate: 5.9
 lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bh,39993]]'
 Democracy_Index: 2.52
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 BTI_Governance_Index:
-- 3.24
-- 3.52
-- 3.73
-- 3.86
-- 3.94
-- 4.18
-- 4.36
-- 4.66
-- 4.86
+  - 3.24
+  - 3.52
+  - 3.73
+  - 3.86
+  - 3.94
+  - 4.18
+  - 4.36
+  - 4.66
+  - 4.86
 Happy_Planet_Index_score: 33.6
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 life_expectancy: 76.9

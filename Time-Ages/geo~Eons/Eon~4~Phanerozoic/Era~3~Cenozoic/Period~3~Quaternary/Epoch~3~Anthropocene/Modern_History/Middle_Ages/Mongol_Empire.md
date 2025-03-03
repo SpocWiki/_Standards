@@ -64,6 +64,7 @@ replaces:
 seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Imperial%20Seal%20of%20the%20Mongols%201246.svg"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351369,42351369]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"MongolEmpire\"]"
+has_time_stopped: 1368-01-01T00:00:00Z 
 ---
 
 # [[1206-Mongol_Empire]] 

@@ -71,32 +71,32 @@ Snapchat_username: who
 Facebook_username: who
 Instagram_username: who
 short_name:
-- OMS
-- WHO
-- ВОЗ
-- OMS
-- OMS
-- SZO
-- СУТ
-- 世卫组织
-- 世衛
-- 世衛組織
-- СЗО
+  - OMS
+  - WHO
+  - ВОЗ
+  - OMS
+  - OMS
+  - SZO
+  - СУТ
+  - 世卫组织
+  - 世衛
+  - 世衛組織
+  - СЗО
 official_name:
 - "World Health Organization"
 - "Всемирная организация здравоохранения"
 - "منظمة الصحة العالمية"
-- Weltgesundheitsorganisation
+  - Weltgesundheitsorganisation
 - "Organización Mundial de la Salud"
 - "Organisation mondiale de la Santé"
-- 世界卫生组织
+  - 世界卫生组织
 - "Светска здравствена организација"
 EU_Corporate_body_code: WHO
 X_Twitter_username: WHO
 Commons_gallery: "World Health Organisation"
 social_media_followers:
-- 12067344
-- 890000
+  - 12067344
+  - 890000
 Commons_category: "United Nations World Health Organization"
 inception: "1948-04-07"
 has_time_started: "1948-04-07"

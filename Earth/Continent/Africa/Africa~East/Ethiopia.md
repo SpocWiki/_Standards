@@ -1,10 +1,10 @@
 ---
 location:
-- 9.05
-- 38.7
+  - 9.05
+  - 38.7
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q115
 SpocWebEntityId: 26890
 isDeleted: false
@@ -22,21 +22,21 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Ethiopia
-- Etiopía
-- Éthiopie
-- إثيوبيا
-- 埃塞俄比亚
-- Эфиопия
+  - Ethiopia
+  - Etiopía
+  - Éthiopie
+  - إثيوبيا
+  - 埃塞俄比亚
+  - Эфиопия
 - "the Federal Democratic Republic of Ethiopia"
 - "la República Democrática Federal de Etiopía"
 Languages:
-- am
-- en-ET
-- om-ET
-- ti-ET
-- so-ET
-- sid
+  - am
+  - en-ET
+  - om-ET
+  - ti-ET
+  - so-ET
+  - sid
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
 - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -120,7 +120,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Nayi,3183349]]'
 - '[[_Standards/WikiData/WD~Sheko,3183355]]'
 - '[[_Standards/WikiData/WD~Opuo,3354339]]'
-- "[[_Standards/WikiData/WD~Me'en,3408516]]"
+  - "[[_Standards/WikiData/WD~Me'en,3408516]]"
 - '[[_Standards/WikiData/WD~Karo,3447116]]'
 - "[[_Standards/WikiData/WD~Ethiopian_Sign_Language,3501903]]"
 - '[[_Standards/WikiData/WD~Mesmes,3508617]]'
@@ -167,7 +167,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Dizin,35313]]'
 - '[[_Standards/WikiData/WD~Kafa,35481]]'
 - '[[_Standards/WikiData/WD~Qimant,35663]]'
-- "[[_Standards/WikiData/WD~Ge'ez,35667]]"
+  - "[[_Standards/WikiData/WD~Ge'ez,35667]]"
 - '[[_Standards/WikiData/WD~Kambaata,35664]]'
 - '[[_Standards/WikiData/WD~Libido,35691]]'
 - '[[_Standards/WikiData/WD~Inor,35763]]'
@@ -235,51 +235,51 @@ has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 head_of_government: "[[_Standards/WikiData/WD~Abiy_Ahmed_Ali,50365049]]"
 head_of_state: "[[_Standards/WikiData/WD~Taye_Atske_Selassie,124831090]]"
 rural_population:
-- 89898498
-- 91766343
-- 93611468
-- 95420799
+  - 89898498
+  - 91766343
+  - 93611468
+  - 95420799
 UMLS_CUI: C0015024
 demonym:
-- إتيوپي
-- إتيوپية
-- إتيوپيين
-- إتيوپيات
-- Aetópach
-- Ethiopian
-- אתיופית
-- Éthiopien
-- etíope
-- ইথিওপিয়
-- etíop
-- etíops
-- etiopier
-- Äthiopianer
-- Äthiopianerin
-- etiopo
-- Éthiopienne
-- Éthiopique
-- אתיופי
-- etióp
-- Etiopiano
-- etiope
-- etiopi
-- itiopian
-- etiopian
-- etiopiană
-- etiopieni
-- эфиоп
-- эфиопка
-- эфиопки
-- эфиопы
-- etìopa
-- etìope
-- etìopi
-- etìopo
-- Lätiopänan
-- إثيوبي
-- إثيوبية
-- إثيوبيون
+  - إتيوپي
+  - إتيوپية
+  - إتيوپيين
+  - إتيوپيات
+  - Aetópach
+  - Ethiopian
+  - אתיופית
+  - Éthiopien
+  - etíope
+  - ইথিওপিয়
+  - etíop
+  - etíops
+  - etiopier
+  - Äthiopianer
+  - Äthiopianerin
+  - etiopo
+  - Éthiopienne
+  - Éthiopique
+  - אתיופי
+  - etióp
+  - Etiopiano
+  - etiope
+  - etiopi
+  - itiopian
+  - etiopian
+  - etiopiană
+  - etiopieni
+  - эфиоп
+  - эфиопка
+  - эфиопки
+  - эфиопы
+  - etìopa
+  - etìope
+  - etìopi
+  - etìopo
+  - Lätiopänan
+  - إثيوبي
+  - إثيوبية
+  - إثيوبيون
 ISNI: 0000000405575014
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ethiopia%20in%20its%20region.svg"
 motto_text:
@@ -341,41 +341,41 @@ Gini_coefficient: 35
 suicide_rate: 7.2
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.et,40363]]'
 BTI_Status_Index:
-- 3.33
-- 3.55
-- 3.57
-- 3.72
-- 3.82
-- 3.96
-- 4.19
+  - 3.33
+  - 3.55
+  - 3.57
+  - 3.72
+  - 3.82
+  - 3.96
+  - 4.19
 Democracy_Index: 3.38
 BTI_Governance_Index:
-- 3.47
-- 3.49
-- 3.65
-- 4.11
-- 4.16
-- 4.19
-- 4.21
-- 4.26
-- 4.96
+  - 3.47
+  - 3.49
+  - 3.65
+  - 4.11
+  - 4.16
+  - 4.19
+  - 4.21
+  - 4.26
+  - 4.96
 Inequality_adjusted_Human_Development_Index: 0.363
 Happy_Planet_Index_score: 41.7
 trunk_prefix: 0
 Human_Development_Index: 0.498
 patron_saint: "[[_Standards/WikiData/WD~Saint_George,48438]]"
 birth_rate:
-- 32.78
-- 31.835
-- 32.383
-- 33.123
+  - 32.78
+  - 31.835
+  - 32.383
+  - 33.123
 total_fertility_rate: 4.395
 maritime_identification_digits: 624
 death_rate:
-- 6.439
-- 6.497
-- 6.616
-- 6.776
+  - 6.439
+  - 6.497
+  - 6.616
+  - 6.776
 mobile_country_code: 636
 area: 1104300
 IAB_code: 1291
@@ -398,13 +398,13 @@ hashtag: Ethiopia
 Commons_category: Ethiopia
 subreddit: Ethiopia
 male_population:
-- 58906550
-- 57375433
-- 60443404
-- 61980175
+  - 58906550
+  - 57375433
+  - 60443404
+  - 61980175
 nominal_GDP:
-- 111261882913
-- 126783472501
+  - 111261882913
+  - 126783472501
 number_of_out_of_school_children: 10092202
 coordinates_of_southernmost_point: "Point(39.55249786 3.40375788)"
 official_name: "la République démocratique fédérale d’Éthiopie"
@@ -414,18 +414,18 @@ native_label:
 - "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
 short_name: "\U0001F1EA\U0001F1F9"
 urban_population:
-- 24222096
-- 25424568
-- 26671558
-- 27959125
+  - 24222096
+  - 25424568
+  - 26671558
+  - 27959125
 inception: "1995-08-21"
 has_time_started: "1995-08-21"
 coordinates_of_easternmost_point: "Point(48.00083399 8.00122459)"
 female_population:
-- 56745161
-- 58284361
-- 59839622
-- 61399749
+  - 56745161
+  - 58284361
+  - 59839622
+  - 61399749
 coordinates_of_westernmost_point: "Point(32.99795151 7.94465641)"
 coordinate_location: "Point(40.0 9.0)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Ethiopia.map"

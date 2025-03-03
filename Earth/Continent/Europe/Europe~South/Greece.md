@@ -1,10 +1,10 @@
 ---
 location:
-- 38.6175
-- 23.0356
+  - 38.6175
+  - 23.0356
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q41
 SpocWebEntityId: 26910
 isDeleted: false
@@ -22,18 +22,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Greece
-- Grecia
-- Grèce
-- اليونان
-- 希腊
-- Греция
+  - Greece
+  - Grecia
+  - Grèce
+  - اليونان
+  - 希腊
+  - Греция
 - "the Hellenic Republic"
 - "la República Helénica"
 Languages:
-- el-GR
-- en
-- fr
+  - el-GR
+  - en
+  - fr
 icon: flag-gr
 highest_point: "[[_Standards/WikiData/WD~Mount_Olympus,80344]]"
 member_of:
@@ -284,15 +284,15 @@ VAT_rate: 24
 suicide_rate: 3.6
 retirement_age: 67
 birth_rate:
-- 7.3
-- 7.8
-- 7.9
-- 8.1
+  - 7.3
+  - 7.8
+  - 7.9
+  - 8.1
 death_rate:
-- 11.7
-- 12.2
-- 13.4
-- 13.6
+  - 11.7
+  - 12.2
+  - 13.4
+  - 13.6
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201900,21201900]]'
 has_part_s_: "[[_Standards/WikiData/WD~Greek_Islands,25162136]]"
 emergency_phone_number:
@@ -311,62 +311,62 @@ pronunciation_audio:
 Stack_Exchange_tag: "https://travel.stackexchange.com/tags/greece"
 official_website: "https://www.government.gov.gr"
 demonym:
-- يوناني
-- يونانية
-- يونانيين
-- يونانيات
-- Gréagach
-- Grk
-- Грк
-- Έλληνας
-- Έλληνες
-- греки
-- Greek
-- Grec
-- Ελληνίδα
-- يونانية
-- griegu
-- grec
-- görög
-- greco
-- elinica
-- grego
-- يوناني
-- ギリシャ人
-- grec
-- грек
-- Грци
-- Grkinja
-- griega
-- গ্রিক
-- græker
-- Grieche
-- Griechin
-- griechisch
-- Ελληνίδες
-- greko
-- grecque
-- Grecque
-- יווני
-- יוונייה
-- Grekiano
-- greca
-- greche
-- greci
-- Griek
-- greci
-- grecoaică
-- гречанка
-- Гркиња
-- grega
-- greghe
-- greghi
-- Grikänan
+  - يوناني
+  - يونانية
+  - يونانيين
+  - يونانيات
+  - Gréagach
+  - Grk
+  - Грк
+  - Έλληνας
+  - Έλληνες
+  - греки
+  - Greek
+  - Grec
+  - Ελληνίδα
+  - يونانية
+  - griegu
+  - grec
+  - görög
+  - greco
+  - elinica
+  - grego
+  - يوناني
+  - ギリシャ人
+  - grec
+  - грек
+  - Грци
+  - Grkinja
+  - griega
+  - গ্রিক
+  - græker
+  - Grieche
+  - Griechin
+  - griechisch
+  - Ελληνίδες
+  - greko
+  - grecque
+  - Grecque
+  - יווני
+  - יוונייה
+  - Grekiano
+  - greca
+  - greche
+  - greci
+  - Griek
+  - greci
+  - grecoaică
+  - гречанка
+  - Гркиња
+  - grega
+  - greghe
+  - greghi
+  - Grikänan
 ISNI: 0000000405552357
 MeSH_tree_code: Z01.542.383
 nominal_GDP:
-- 214873879834
-- 219065872466
+  - 214873879834
+  - 219065872466
 coordinates_of_easternmost_point: "Point(29.7291 35.9229)"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.gr,37893]]'
 unemployment_rate: 18.5
@@ -404,34 +404,34 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20o
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hymn%20to%20liberty%20instrumental.oga"
 area: 131957
 rural_population:
-- 2048160
-- 2109825
-- 2170211
-- 2209932
+  - 2048160
+  - 2109825
+  - 2170211
+  - 2209932
 Commons_category: Greece
 INSEE_countries_and_foreign_territories_code: 99126
 urban_population:
-- 8511650
-- 8378759
-- 8459382
-- 8528388
+  - 8511650
+  - 8378759
+  - 8459382
+  - 8528388
 aircraft_registration_prefix: SX
 PM20_geo_code: A45
 male_population:
-- 5102926
-- 5177554
-- 5242307
-- 5254476
+  - 5102926
+  - 5177554
+  - 5242307
+  - 5254476
 female_population:
-- 5323993
-- 5391653
-- 5456292
-- 5467106
+  - 5323993
+  - 5391653
+  - 5456292
+  - 5467106
 population: 10482487
 native_label:
-- Ελλάδα
+  - Ελλάδα
 - "Ελληνική Δημοκρατία"
-- Ελλάς
+  - Ελλάς
 official_name:
 - "Ελληνική Δημοκρατία"
 - "République hellénique"
@@ -468,7 +468,7 @@ motto_text:
 - "Ελευθερία ή Θάνατος"
 - "All Time Classic"
 short_name:
-- el
+  - el
 - "\U0001F1EC\U0001F1F7"
 coordinates_of_northernmost_point: "Point(26.17267 41.74886)"
 ---

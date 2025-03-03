@@ -111,90 +111,90 @@ UMLS_CUI: C0023190
 described_at_URL: "http://68k.news/index.php?section=nation&loc=LB&lang=AR"
 coordinates_of_southernmost_point: "Point(35.37797 33.05508)"
 demonym:
-- لوبناني
-- لوبنانية
-- لوبنانيين
-- لوبنانيات
-- Liobánach
-- Lebanese
-- Libanais
-- Libanänan
-- لبناني
-- لبنانية
-- لبنانيون
-- libanés
-- libanesa
-- লেবানীয়
-- Libanese
-- Libanesin
-- Libanaise
-- לבנוני
-- לבנונית
-- libanoni
-- Libanano
-- libanese
-- libanesi
-- lubnani
-- libaneser
-- libanesar
-- libanez
-- libaneză
-- libanezi
-- ливанец
-- ливанка
-- libanesisk
-- libaneza
-- libaneze
-- libanezi
-- libanezo
+  - لوبناني
+  - لوبنانية
+  - لوبنانيين
+  - لوبنانيات
+  - Liobánach
+  - Lebanese
+  - Libanais
+  - Libanänan
+  - لبناني
+  - لبنانية
+  - لبنانيون
+  - libanés
+  - libanesa
+  - লেবানীয়
+  - Libanese
+  - Libanesin
+  - Libanaise
+  - לבנוני
+  - לבנונית
+  - libanoni
+  - Libanano
+  - libanese
+  - libanesi
+  - lubnani
+  - libaneser
+  - libanesar
+  - libanez
+  - libaneză
+  - libanezi
+  - ливанец
+  - ливанка
+  - libanesisk
+  - libaneza
+  - libaneze
+  - libanezi
+  - libanezo
 ISNI: 0000000123420559
 native_label:
 - "Republik Lubnan"
-- لبنان
-- Lebanon
+  - لبنان
+  - Lebanon
 - "الجمهورية اللبنانية"
 - "Republic of Lebanon"
-- Lubnan
+  - Lubnan
 official_name:
 - "Republik Lubnan"
 - "Republik Lebanon"
-- لبنان
-- Lebanon
+  - لبنان
+  - Lebanon
 - "République libanaise"
 - "الجمهورية اللبنانية"
 - "Lebanese Republic"
-- Lubnan
+  - Lubnan
 part_of:
 - '[[_Standards/WikiData/WD~Asia,48]]'
 - "[[_Standards/WikiData/WD~Middle_East,7204]]"
 - "[[_Standards/WikiData/WD~West_Asia,27293]]"
 BTI_Status_Index:
-- 6
-- 4.68
-- 5.15
-- 5.36
-- 5.71
-- 5.74
-- 6.16
-- 6.21
-- 6.24
+  - 6
+  - 4.68
+  - 5.15
+  - 5.36
+  - 5.71
+  - 5.74
+  - 6.16
+  - 6.21
+  - 6.24
 unemployment_rate: 6
 VAT_rate: 11
 marriageable_age:
-- 17
-- 18
+  - 17
+  - 18
 age_of_majority: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 3.6
-- 3.05
-- 3.95
-- 3.96
-- 3.97
-- 4.16
-- 4.19
-- 4.48
-- 4.53
+  - 3.6
+  - 3.05
+  - 3.95
+  - 3.96
+  - 3.97
+  - 4.16
+  - 4.19
+  - 4.48
+  - 4.53
 Happy_Planet_Index_score: 39
 flag: "[[_Standards/WikiData/WD~flag_of_Lebanon,36005]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.lb,41835]]'
@@ -206,10 +206,10 @@ UIC_numerical_country_code: 98
 total_fertility_rate: 1.714
 maritime_identification_digits: 450
 death_rate:
-- 5.178
-- 6.253
-- 8.271
-- 8.857
+  - 5.178
+  - 6.253
+  - 8.271
+  - 8.857
 GS1_country_code: 528
 area: 10452
 mobile_country_code: 415
@@ -217,10 +217,10 @@ ISO_3166_1_alpha_2_code: LB
 WIPO_ST_3: LB
 aircraft_registration_prefix: LB
 birth_rate:
-- 14.576
-- 14.948
-- 15.332
-- 15.822
+  - 14.576
+  - 14.948
+  - 15.332
+  - 15.822
 ISO_3166_1_numeric_code: 422
 M49_code: 422
 FIPS_10_4_countries_and_regions_: LE
@@ -231,7 +231,7 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Leba
 social_media_followers: 91494
 number_of_out_of_school_children: 201675
 motto_text:
-- "Libanus: Y Wefr o Fyw"
+  - "Libanus: Y Wefr o Fyw"
 - "Lebanon Passion for Living"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Beirut%20skyline%2C%20Beirut%2C%20Lebanon.jpg"
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Lebanon%20divisions.svg"
@@ -250,18 +250,18 @@ located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 male_population:
-- 2713490
-- 2662356
-- 2748285
-- 2814124
+  - 2713490
+  - 2662356
+  - 2748285
+  - 2814124
 female_population:
-- 2879140
-- 2827383
-- 2914639
-- 2967783
+  - 2879140
+  - 2827383
+  - 2914639
+  - 2967783
 subreddit:
-- lebanon
-- Lebanese
+  - lebanon
+  - Lebanese
 GitHub_topic: lebanon
 CIVICUS_Monitor_country_entry: lebanon
 Commons_category: Lebanon
@@ -269,18 +269,18 @@ hashtag: Lebanon
 DPLA_subject_term: Lebanon
 INSEE_countries_and_foreign_territories_code: 99205
 rural_population:
-- 589488
-- 609988
-- 627169
-- 650002
+  - 589488
+  - 609988
+  - 627169
+  - 650002
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Lebanon%20adm%20location%20map.svg"
 licence_plate_code: RL
 UIC_alphabetical_country_code: RL
 urban_population:
-- 4900251
-- 4982643
-- 5035754
-- 5131905
+  - 4900251
+  - 4982643
+  - 5035754
+  - 5131905
 population: 6100075
 ISO_3166_1_alpha_3_code: LBN
 ITU_letter_code: LBN
@@ -308,11 +308,11 @@ Commons_gallery: "لبنان / Liban"
 name_in_native_language: "الجمهوريّة اللبنانيّة"
 has_id_wikidata: Q822
 location:
-- 33.87
-- 35.5
+    - 33.87
+    - 35.5
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26946
 isDeleted: false
 confidential: public
@@ -329,20 +329,20 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Lebanon
-- Líbano
-- Liban
-- لبنان
-- 黎巴嫩
-- Ливан
+    - Lebanon
+    - Líbano
+    - Liban
+    - لبنان
+    - 黎巴嫩
+    - Ливан
 - "the Lebanese Republic"
 - "la República Libanesa"
 - "Líbano (el)"
 Languages:
-- ar-LB
-- fr-LB
-- en
-- hy
+    - ar-LB
+    - fr-LB
+    - en
+    - hy
 icon: flag-lb
 ---
 

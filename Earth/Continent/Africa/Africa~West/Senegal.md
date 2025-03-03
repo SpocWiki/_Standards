@@ -128,45 +128,45 @@ head_of_state: "[[_Standards/WikiData/WD~Bassirou_Diomaye_Diakhar_Faye,124382437
 head_of_government: "[[_Standards/WikiData/WD~Bassirou_Diomaye_Diakhar_Faye,124382437]]"
 coordinate_location: "Point(-14.283333 14.366667)"
 demonym:
-- Senegalese
-- Senegalesin
-- سينيڭالي
-- سينيڭالية
-- سينيڭاليين
-- سينيڭاليات
-- سنغالي
-- Seineagálach
-- سنغالية
-- سنغاليون
-- senegalés
-- senegalesa
-- senegaleso
-- সেনেগালীয়
-- Senegalese
-- Senegalano
-- senegalés
-- senegalesa
-- senegalesas
-- senegaleses
-- Sénégalais
-- Sénégalaise
-- Sénégalien
-- Sénégalienne
-- סנגלי
-- סנגלית
-- szenegáli
-- Senegalano
-- senegalese
-- senegalesi
-- senegales
-- senegalez
-- senegaleză
-- senegalezi
-- senegałeza
-- senegałeze
-- senegałezi
-- senegałezo
-- Senegalänan
+  - Senegalese
+  - Senegalesin
+  - سينيڭالي
+  - سينيڭالية
+  - سينيڭاليين
+  - سينيڭاليات
+  - سنغالي
+  - Seineagálach
+  - سنغالية
+  - سنغاليون
+  - senegalés
+  - senegalesa
+  - senegaleso
+  - সেনেগালীয়
+  - Senegalese
+  - Senegalano
+  - senegalés
+  - senegalesa
+  - senegalesas
+  - senegaleses
+  - Sénégalais
+  - Sénégalaise
+  - Sénégalien
+  - Sénégalienne
+  - סנגלי
+  - סנגלית
+  - szenegáli
+  - Senegalano
+  - senegalese
+  - senegalesi
+  - senegales
+  - senegalez
+  - senegaleză
+  - senegalezi
+  - senegałeza
+  - senegałeze
+  - senegałezi
+  - senegałezo
+  - Senegalänan
 UMLS_CUI: C0036644
 Gini_coefficient: 38.1
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
@@ -175,25 +175,25 @@ Human_Development_Index: 0.511
 Happy_Planet_Index_score: 51.2
 basic_form_of_government: "[[_Standards/WikiData/WD~presidential_system,49892]]"
 BTI_Status_Index:
-- 5.53
-- 5.73
-- 5.97
-- 6.05
-- 6.07
-- 6.11
-- 6.18
-- 6.64
-- 6
+  - 5.53
+  - 5.73
+  - 5.97
+  - 6.05
+  - 6.07
+  - 6.11
+  - 6.18
+  - 6.64
+  - 6
 BTI_Governance_Index:
-- 5.57
-- 5.66
-- 6.19
-- 6.25
-- 6.65
-- 6.68
-- 6.71
-- 6.76
-- 6.7
+  - 5.57
+  - 5.66
+  - 6.19
+  - 6.25
+  - 6.65
+  - 6.68
+  - 6.71
+  - 6.76
+  - 6.7
 Democracy_Index: 5.67
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.sn,60117]]'
 mobile_country_code: 608
@@ -207,15 +207,15 @@ motto_text:
 - "Un pueblo, un objetivo, una fe"
 - "Un Peuple, Un But, Une Foi"
 birth_rate:
-- 33.47
-- 32.067
-- 32.573
-- 33.034
+  - 33.47
+  - 32.067
+  - 32.573
+  - 33.034
 death_rate:
-- 5.409
-- 5.548
-- 5.584
-- 5.922
+  - 5.409
+  - 5.548
+  - 5.584
+  - 5.922
 subreddit: Senegal
 hashtag: Senegal
 Commons_category: Senegal
@@ -236,28 +236,28 @@ ITU_letter_code: SEN
 ISO_3166_1_alpha_3_code: SEN
 IOC_country_code: SEN
 urban_population:
-- 7909390
-- 7624852
-- 8202086
-- 8499952
+  - 7909390
+  - 7624852
+  - 8202086
+  - 8499952
 rural_population:
-- 8526730
-- 8375929
-- 8674634
-- 8816497
+  - 8526730
+  - 8375929
+  - 8674634
+  - 8816497
 INSEE_countries_and_foreign_territories_code: 99341
 population: 16876720
 number_of_out_of_school_children: 1921575
 male_population:
-- 7860618
-- 8076926
-- 8297057
-- 8516043
+  - 7860618
+  - 8076926
+  - 8297057
+  - 8516043
 female_population:
-- 8140163
-- 8359194
-- 8579664
-- 8800406
+  - 8140163
+  - 8359194
+  - 8579664
+  - 8800406
 coordinates_of_southernmost_point: "Point(-16.71726 12.33954)"
 inception: "1960"
 has_time_started: 1960-06 
@@ -285,8 +285,8 @@ Krugosvet_article: strany_mira/SENEGAL.html
 ISNI: 0000000404582116
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20map%20of%20Senegal.svg"
 nominal_GDP:
-- 27684430244
-- 27569136728
+  - 27684430244
+  - 27569136728
 coordinates_of_westernmost_point: "Point(-17.54434 14.74151)"
 coordinates_of_easternmost_point: "Point(-11.35091 12.46581)"
 diplomatic_relation:
@@ -328,8 +328,8 @@ official_language:
 - '[[_Standards/WikiData/WD~Badyara,35095]]'
 unemployment_rate: 10
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 age_of_majority: 18
 VAT_rate: 18
 mains_voltage: 230

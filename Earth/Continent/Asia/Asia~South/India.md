@@ -588,7 +588,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Urdu,1617]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Gujarati,5137]]'
-- "[[_Standards/WikiData/WD~A'Tong,5646]]"
+  - "[[_Standards/WikiData/WD~A'Tong,5646]]"
 - '[[_Standards/WikiData/WD~Tamil,5885]]'
 - '[[_Standards/WikiData/WD~Telugu,8097]]'
 - '[[_Standards/WikiData/WD~Bangla,9610]]'
@@ -977,66 +977,66 @@ driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 open_data_portal: "[[_Standards/WikiData/WD~Open_Government_Data_Platform_India,16196790]]"
 head_of_state: "[[_Standards/WikiData/WD~Droupadi_Murmu,19901232]]"
 demonym:
-- インド人
-- هندي
-- هندية
-- هنود
-- هنديات
-- Indiach
-- Indijec
-- Indijka
-- Indies
-- هندي
-- هندية
-- هنديون
-- india
-- indiu
-- ভারতীয়
-- indi
-- índia
-- Inderin
-- indisch
-- Baratano
-- india
-- indias
-- indio
-- indios
-- Indienne
-- ભારતીય
-- הודי
-- הודית
-- भारतीय
-- Indijanac
-- indiai
-- Indiano
-- indiana
-- indiane
-- indiani
-- indiano
-- barati
-- indian
-- indija
-- ഭാരതം
-- Indiaas
-- ਭਾਰਤੀ
-- indian
-- indiancă
-- индианка
-- индиец
-- индийский
-- indisk
-- ชาวอินเดีย
-- indian
-- indiana
-- indiane
-- indiani
-- Lindänan
-- 印度人
-- indiano
-- Indian
-- Indien
-- indieni
-- Inder
+  - インド人
+  - هندي
+  - هندية
+  - هنود
+  - هنديات
+  - Indiach
+  - Indijec
+  - Indijka
+  - Indies
+  - هندي
+  - هندية
+  - هنديون
+  - india
+  - indiu
+  - ভারতীয়
+  - indi
+  - índia
+  - Inderin
+  - indisch
+  - Baratano
+  - india
+  - indias
+  - indio
+  - indios
+  - Indienne
+  - ભારતીય
+  - הודי
+  - הודית
+  - भारतीय
+  - Indijanac
+  - indiai
+  - Indiano
+  - indiana
+  - indiane
+  - indiani
+  - indiano
+  - barati
+  - indian
+  - indija
+  - ഭാരതം
+  - Indiaas
+  - ਭਾਰਤੀ
+  - indian
+  - indiancă
+  - индианка
+  - индиец
+  - индийский
+  - indisk
+  - ชาวอินเดีย
+  - indian
+  - indiana
+  - indiane
+  - indiani
+  - Lindänan
+  - 印度人
+  - indiano
+  - Indian
+  - Indien
+  - indieni
+  - Inder
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q21201515,21201515]]'
 - '[[_Standards/WikiData/WD~Q47544903,47544903]]'
@@ -1077,42 +1077,42 @@ coordinates_of_westernmost_point: "Point(68.1941 23.6261)"
 Baidu_Tieba_name: 印度
 MeSH_tree_code: Z01.252.245.782.875
 name:
-- ꠄꠘ꠆ꠒꠤꠀ
-- भारत
-- ভারত
-- भारत
-- भारत
-- भारत
-- ᱥᱤᱧᱚᱛ
-- இந்தியா
-- بھارت
-- Inde
-- India
-- Bharat
-- ভারত
+  - ꠄꠘ꠆ꠒꠤꠀ
+  - भारत
+  - ভারত
+  - भारत
+  - भारत
+  - भारत
+  - ᱥᱤᱧᱚᱛ
+  - இந்தியா
+  - بھارت
+  - Inde
+  - India
+  - Bharat
+  - ভারত
 native_label:
-- ꠄꠘ꠆ꠒꠤꠀ
-- भारत
-- ভারত
-- भारत
-- भारत
-- भारत
-- இந்தியா
-- بھارت
-- ہندوستان
-- ভারত
+  - ꠄꠘ꠆ꠒꠤꠀ
+  - भारत
+  - ভারত
+  - भारत
+  - भारत
+  - भारत
+  - இந்தியா
+  - بھارت
+  - ہندوستان
+  - ভারত
 short_name:
-- ꠁꠘ꠆ꠖ
-- भारत
-- हिंद
+  - ꠁꠘ꠆ꠖ
+  - भारत
+  - हिंद
 - "\U0001F1EE\U0001F1F3"
-- Inde
-- India
+  - Inde
+  - India
 UMLS_CUI: C0021201
 ISNI: 0000000123312734
 nominal_GDP:
-- 3385089881935
-- 3150306834280
+  - 3385089881935
+  - 3150306834280
 PM20_geo_code: B42a
 geoshape: "http://commons.wikimedia.org/data/main/Data:India+outline.map"
 coordinates_of_easternmost_point: "Point(97.39564 28.01168)"
@@ -1124,31 +1124,31 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 unemployment_rate: 4
 compulsory_education_minimum_age_: 6
 BTI_Governance_Index:
-- 6
-- 5.15
-- 5.92
-- 6.02
-- 6.16
-- 6.35
-- 6.62
-- 6.66
-- 6.67
+  - 6
+  - 5.15
+  - 5.92
+  - 6.02
+  - 6.16
+  - 6.35
+  - 6.62
+  - 6.66
+  - 6.67
 compulsory_education_maximum_age_: 14
 age_of_majority: 18
 marriageable_age:
-- 18
-- 21
+  - 18
+  - 21
 mains_voltage: 230
 VAT_rate: 5.5
 BTI_Status_Index:
-- 6.7
-- 5.88
-- 6.96
-- 7.19
-- 7.21
-- 7.33
-- 7.35
-- 7.37
+  - 6.7
+  - 5.88
+  - 6.96
+  - 7.19
+  - 7.21
+  - 7.33
+  - 7.35
+  - 7.37
 water_as_percent_of_area: 9.5
 suicide_rate: 12.9
 total_fertility_rate: 2.28
@@ -1164,9 +1164,9 @@ Libris_URI: mkz10nf529zbmt7
 Colon_Classification: SG--44
 Krugosvet_article: strany_mira/INDIYA.html
 hashtag:
-- भारत
-- india
-- India
+  - भारत
+  - india
+  - India
 Gujarati_Vishwakosh_entry: ભારત
 official_name:
 - "Republic of India"
@@ -1225,18 +1225,18 @@ Stack_Exchange_tag: "https://travel.stackexchange.com/tags/india"
 country_calling_code: +91
 U_S_National_Archives_Identifier: 10044481
 BHCL_UUID:
-- 124c4204-0b45-4ae5-85c0-c075ab857846
-- 38d9684b-e73e-4ced-9331-b23249b40c59
+  - 124c4204-0b45-4ae5-85c0-c075ab857846
+  - 38d9684b-e73e-4ced-9331-b23249b40c59
 WOEID: 23424848
 Wolfram_Language_entity_code: "Entity[\"Country\", \"India\"]"
 Unicode_character: 🇮🇳 
 has_id_wikidata: Q668
 location:
-- 20.3923
-- 78.9354
+    - 20.3923
+    - 78.9354
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26925
 isDeleted: false
 confidential: public
@@ -1253,41 +1253,41 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- India
-- Inde
-- الهند
-- 印度
-- Индия
+    - India
+    - Inde
+    - الهند
+    - 印度
+    - Индия
 - "the Republic of India"
 - "la República de la India"
 - "India (la)"
 Languages:
-- en-IN
-- hi
-- bn
-- te
-- mr
-- ta
-- ur
-- gu
-- kn
-- ml
-- or
-- pa
-- as
-- bh
-- sat
-- ks
-- ne
-- sd
-- kok
-- doi
-- mni
-- sit
-- sa
-- fr
-- lus
-- inc
+    - en-IN
+    - hi
+    - bn
+    - te
+    - mr
+    - ta
+    - ur
+    - gu
+    - kn
+    - ml
+    - or
+    - pa
+    - as
+    - bh
+    - sat
+    - ks
+    - ne
+    - sd
+    - kok
+    - doi
+    - mni
+    - sit
+    - sa
+    - fr
+    - lus
+    - inc
 icon: flag-in
 ---
 

@@ -255,48 +255,48 @@ lowest_point: "[[_Standards/WikiData/WD~Kechana_Kawal,48839297]]"
 motto: "[[_Standards/WikiData/WD~Mother_and_Motherland_are_Greater_than_Heaven,56686358]]"
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Nepal,97062430]]"
 nominal_GDP:
-- 36924841430
-- 40828247302
+  - 36924841430
+  - 40828247302
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Nepal.svg"
 UMLS_CUI: C0027689
 demonym:
-- Nepalec
-- Nepalka
-- نيپالي
-- نيپالية
-- نيپاليات
-- نيپاليين
-- Neipealach
-- نيبالي
-- نيباليون
-- nepalés
-- nepalesa
-- nepalesa
-- Népalaise
-- נפאלי
-- Nepalano
-- nepalesi
-- നേപ്പാളി
-- nepalez
-- nepalezi
-- непалец
-- непалка
-- непальцы
-- nepałezi
-- Nepalänan
-- Nepali
-- নেপালী
-- نيبالية
-- nepalès
-- Nepalese
-- nepalí
-- Népalais
-- נפאלית
-- nepáli
-- nepalese
-- nepali
-- nepaleză
-- nepałezo
+  - Nepalec
+  - Nepalka
+  - نيپالي
+  - نيپالية
+  - نيپاليات
+  - نيپاليين
+  - Neipealach
+  - نيبالي
+  - نيباليون
+  - nepalés
+  - nepalesa
+  - nepalesa
+  - Népalaise
+  - נפאלי
+  - Nepalano
+  - nepalesi
+  - നേപ്പാളി
+  - nepalez
+  - nepalezi
+  - непалец
+  - непалка
+  - непальцы
+  - nepałezi
+  - Nepalänan
+  - Nepali
+  - নেপালী
+  - نيبالية
+  - nepalès
+  - Nepalese
+  - nepalí
+  - Népalais
+  - נפאלית
+  - nepáli
+  - nepalese
+  - nepali
+  - nepaleză
+  - nepałezo
 ISNI: 0000000470276037
 motto_text:
 - "La madre y la patria son más grandes que el cielo"
@@ -316,38 +316,38 @@ country: '[[_Standards/WikiData/WD~Nepal,837]]'
 capital: '[[_Standards/WikiData/WD~Kathmandu,3037]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 VAT_rate:
-- 0
-- 13
+  - 0
+  - 13
 marriageable_age: 20
 unemployment_rate: 3
 age_of_majority: 16
 mains_voltage: 230
 official_language: '[[_Standards/WikiData/WD~Nepali,33823]]'
 BTI_Status_Index:
-- 4.6
-- 4.37
-- 4.38
-- 4.45
-- 4.52
-- 4.55
-- 4.74
-- 5.21
-- 5.23
+  - 4.6
+  - 4.37
+  - 4.38
+  - 4.45
+  - 4.52
+  - 4.55
+  - 4.74
+  - 5.21
+  - 5.23
 retirement_age: 58
 suicide_rate: 9.8
 total_fertility_rate: 1.93
 Gini_coefficient: 32.8
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.np,43582]]'
 BTI_Governance_Index:
-- 3.74
-- 3.75
-- 3.98
-- 4.05
-- 4.15
-- 4.16
-- 4.34
-- 4.46
-- 5.02
+  - 3.74
+  - 3.75
+  - 3.98
+  - 4.05
+  - 4.15
+  - 4.16
+  - 4.34
+  - 4.46
+  - 5.02
 Democracy_Index: 4.41
 Inequality_adjusted_Human_Development_Index: 0.449
 Happy_Planet_Index_score: 53.1
@@ -355,16 +355,16 @@ literacy_rate: 59.6
 Human_Development_Index: 0.602
 OmegaWiki_Defined_Meaning: 8373
 birth_rate:
-- 20.64
-- 20.165
-- 20.402
-- 20.868
+  - 20.64
+  - 20.165
+  - 20.402
+  - 20.868
 IAB_code: 1365
 death_rate:
-- 6.651
-- 6.871
-- 7.209
-- 7.776
+  - 6.651
+  - 6.871
+  - 7.209
+  - 7.776
 life_expectancy: 72.12
 Dewey_Decimal_Classification: 2--5496
 mobile_country_code: 429
@@ -376,10 +376,10 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepa
 Unicode_character: 🇳🇵 
 INSEE_countries_and_foreign_territories_code: 99215
 urban_population:
-- 6309750
-- 5810613
-- 6038773
-- 6552761
+  - 6309750
+  - 5810613
+  - 6038773
+  - 6552761
 number_of_out_of_school_children: 1055237
 ITU_letter_code: NPL
 ISO_3166_1_alpha_3_code: NPL
@@ -392,8 +392,8 @@ GitHub_topic: nepal
 IPA_transcription: nɛˈpɑːl
 Krugosvet_article: strany_mira/NEPAL.html
 hashtag:
-- नेपाल
-- Nepal
+  - नेपाल
+  - Nepal
 Commons_gallery: नेपाल
 short_name: "\U0001F1F3\U0001F1F5"
 number_of_households: 6666937
@@ -403,16 +403,17 @@ female_population: 14911027
 IOC_country_code: NEP
 licence_plate_code: NEP
 rural_population:
-- 23021883
-- 23309854
-- 23725239
-- 23994819
+  - 23021883
+  - 23309854
+  - 23725239
+  - 23994819
 population: 29164578
 native_label: नेपाल
 official_name: नेपाल
 coordinates_of_westernmost_point: "Point(80.05 28.9)"
 inception: "2008-05-28"
 has_time_started: "2008-05-28"
+has_time_started: 2008-05-28T00:00:00Z 
 area: 147181.254346
 coordinates_of_northernmost_point: "Point(81.63 30.43)"
 U_S_National_Archives_Identifier: 10035749
@@ -429,11 +430,11 @@ Libris_URI: fcrtsp8z0f4309t
 CIVICUS_Monitor_country_entry: nepal
 has_id_wikidata: Q837
 location:
-- 27.7
-- 85.3167
+    - 27.7
+    - 85.3167
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26985
 isDeleted: false
 confidential: public
@@ -450,16 +451,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Nepal
-- Népal
-- نيبال
-- 尼泊尔
-- Непал
+    - Nepal
+    - Népal
+    - نيبال
+    - 尼泊尔
+    - Непал
 - "the Federal Democratic Republic of Nepal"
 - "la República Democrática Federal de Nepal"
 Languages:
-- ne
-- en
+    - ne
+    - en
 icon: flag-np
 ---
 

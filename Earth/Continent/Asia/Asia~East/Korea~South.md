@@ -144,44 +144,44 @@ office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_South_Korea
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_South_Korea,6296418]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_South_Korea,7112461]]"
 demonym:
-- corean
-- surcoreana
-- sudcoreana
+  - corean
+  - surcoreana
+  - sudcoreana
 - "كوري جنوبي"
 - "كورية جنوبية"
 - "كوريون جنوبيون"
-- surcoreanu
+  - surcoreanu
 - "দক্ষিণ কোরীয়"
-- Südkoreanerinnen
-- sud-coréen
-- Sud-coréen
-- Sud-coréenne
+  - Südkoreanerinnen
+  - sud-coréen
+  - Sud-coréen
+  - Sud-coréenne
 - "דרום קוריאני"
-- 한국인
+  - 한국인
 - "South Korean"
-- Südkoreaner
-- Südkoreanerin
+  - Südkoreaner
+  - Südkoreanerin
 - "דרום קוריאנית"
-- dél-koreai
-- Sud-Koreano
-- sudcoreane
-- sudcoreani
-- sudcoreano
-- tehan
-- Zuid-Koreaan
-- sud-coreean
-- sud-coreeancă
-- sud-coreeni
-- южнокореец
-- южнокорейцы
-- южнокореянка
-- південнокореєць
-- південнокорейці
-- південнокореянка
-- sudcorean
-- sudcoreana
-- sudcoreane
-- sudcoreani
+  - dél-koreai
+  - Sud-Koreano
+  - sudcoreane
+  - sudcoreani
+  - sudcoreano
+  - tehan
+  - Zuid-Koreaan
+  - sud-coreean
+  - sud-coreeancă
+  - sud-coreeni
+  - южнокореец
+  - южнокорейцы
+  - южнокореянка
+  - південнокореєць
+  - південнокорейці
+  - південнокореянка
+  - sudcorean
+  - sudcoreana
+  - sudcoreane
+  - sudcoreani
 - "كوري جنوبي"
 - "كورية جنوبية"
 - "كوريين جنوبيين"
@@ -219,8 +219,8 @@ IPA_transcription: ˈsøːɾkuɾɛɑ
 country_calling_code: +82
 Dewey_Decimal_Classification: 2--5195
 ISBN_identifier_group:
-- 979-11
-- 978-89
+  - 979-11
+  - 978-89
 Revised_Romanization: "Daehan Minguk"
 Libris_URI: gdsvv1n0540tps9
 Instagram_username: koreanet_official
@@ -229,14 +229,14 @@ CIVICUS_Monitor_country_entry: south-korea
 GitHub_topic: south-korea
 subreddit: southkorea
 hashtag:
-- SouthKorea
-- 대한민국
+  - SouthKorea
+  - 대한민국
 Krugosvet_article: strany-mira/respublika-koreya-yuzhnaya-koreya
 McCune_Reischauer_romanization: "Taehan Min'guk"
 MeSH_tree_code: Z01.252.474.557.750
 motto_text:
 - "Imagine your Korea"
-- "홍익인간(弘益人間): 널리 인간을 이롭게 하라"
+  - "홍익인간(弘益人間): 널리 인간을 이롭게 하라"
 - "Koreyanızı xəyal edin"
 - "Dychmyga dy Gorea"
 religion_or_worldview:
@@ -274,54 +274,54 @@ shares_border_with:
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 VAT_rate: 10
 age_of_candidacy:
-- 40
-- 25
+  - 40
+  - 25
 retirement_age: 60
 age_of_consent: 13
 marriageable_age:
-- 18
-- 19
+  - 18
+  - 19
 age_of_majority: 19
 mains_voltage: 220
 birth_rate:
-- 4.9
-- 5.1
-- 5.3
-- 5.9
+  - 4.9
+  - 5.1
+  - 5.3
+  - 5.9
 death_rate:
-- 5.7
-- 5.9
-- 6.2
-- 7.3
+  - 5.7
+  - 5.9
+  - 6.2
+  - 7.3
 literacy_rate: 98
 total_fertility_rate: 1.09
 suicide_rate: 21.2
 Gini_coefficient:
-- 0.311
-- 31.4
+  - 0.311
+  - 31.4
 Happy_Planet_Index_score: 39.8
 trunk_prefix: 0
 BTI_Governance_Index:
-- 6.51
-- 6.65
-- 6.79
-- 6.89
-- 6.92
-- 7.05
-- 7.09
-- 7.24
-- 7.25
+  - 6.51
+  - 6.65
+  - 6.79
+  - 6.89
+  - 6.92
+  - 7.05
+  - 7.09
+  - 7.24
+  - 7.25
 Democracy_Index: 8.16
 Inequality_adjusted_Human_Development_Index: 0.838
 BTI_Status_Index:
-- 8.51
-- 8.55
-- 8.57
-- 8.66
-- 8.72
-- 8.73
-- 8.89
-- 8.99
+  - 8.51
+  - 8.55
+  - 8.57
+  - 8.66
+  - 8.72
+  - 8.73
+  - 8.89
+  - 8.99
 Human_Development_Index: 0.925
 ISO_3166_1_numeric_code: 410
 M49_code: 410
@@ -335,26 +335,26 @@ ISO_3166_1_alpha_2_code: KR
 WIPO_ST_3: KR
 IAB_code: 1447
 short_name:
-- 한국
-- ROK
+  - 한국
+  - ROK
 - "Corée du Sud"
-- 韓国
-- 韓國
-- 남한
-- 韩国
-- 韓國
-- 남조선
-- Lâm-hân
-- 韩国
-- 南韓
-- 韩国
-- 南韓
+  - 韓国
+  - 韓國
+  - 남한
+  - 韩国
+  - 韓國
+  - 남조선
+  - Lâm-hân
+  - 韩国
+  - 南韓
+  - 韩国
+  - 南韓
 - "\U0001F1F0\U0001F1F7"
-- 南韓
+  - 南韓
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20South%20Korea%20in%20January%202004.jpg"
 median_income:
-- 40861
-- 58008000
+  - 40861
+  - 58008000
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg"
 aircraft_registration_prefix: HL
 area: 100295
@@ -368,16 +368,16 @@ Commons_gallery: 대한민국
 rural_population: 9718290
 official_name:
 - "Republic of Korea"
-- 대한민국
+  - 대한민국
 - "République de Corée"
-- 大韓民國
+  - 大韓民國
 OmegaWiki_Defined_Meaning: 154025
 licence_plate_code: ROK
 UNDP_country_code: ROK
 UIC_alphabetical_country_code: ROK
 nominal_GDP:
-- 1810955871381
-- 1665245538595
+  - 1810955871381
+  - 1665245538595
 INSEE_countries_and_foreign_territories_code: 99237
 coordinates_of_easternmost_point: "Point(131.872777777 37.24)"
 life_expectancy: 82.02439
@@ -405,18 +405,18 @@ territory_claimed_by: "[[_Standards/WikiData/WD~North_Korea,423]]"
 country: "[[_Standards/WikiData/WD~South_Korea,884]]"
 has_id_wikidata: Q884
 location:
-- 37.55
-- 126.97
+  - 37.55
+  - 126.97
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26941
 isDeleted: false
 confidential: public
 aliases:
-- South-Korea
-- Korea-Republic
-- Südkorea
+  - South-Korea
+  - Korea-Republic
+  - Südkorea
 - "South Korea"
 icon: flag-kr
 ---

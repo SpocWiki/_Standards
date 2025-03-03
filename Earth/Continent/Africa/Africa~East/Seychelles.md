@@ -5,36 +5,36 @@ GitHub_topic: seychelles
 CIVICUS_Monitor_country_entry: seychelles
 Krugosvet_article: strany_mira/SESHELSKIE_OSTROVA.html
 demonym:
-- سيشيلي
-- سيشيلية
-- سيشيليون
-- seixelés
-- seixelesa
-- সেইশেলি
-- Seychelloise
-- Sejŝelano
-- Seychelloise
-- סיישלי
-- סיישלית
-- Seychelle-szigeteki
-- Seycheliano
-- seychellese
-- seychellesi
-- sexeles
-- seychellez
-- seychelleză
-- seychellezi
-- seychełeza
-- seychełeze
-- seychełezi
-- seychełezo
-- سيشيلي
-- سيشيلية
-- سيشيليات
-- سيشيليين
-- Seychellois
-- Seychellois
-- Séiséalach
+  - سيشيلي
+  - سيشيلية
+  - سيشيليون
+  - seixelés
+  - seixelesa
+  - সেইশেলি
+  - Seychelloise
+  - Sejŝelano
+  - Seychelloise
+  - סיישלי
+  - סיישלית
+  - Seychelle-szigeteki
+  - Seycheliano
+  - seychellese
+  - seychellesi
+  - sexeles
+  - seychellez
+  - seychelleză
+  - seychellezi
+  - seychełeza
+  - seychełeze
+  - seychełezi
+  - seychełezo
+  - سيشيلي
+  - سيشيلية
+  - سيشيليات
+  - سيشيليين
+  - Seychellois
+  - Seychellois
+  - Séiséalach
 motto_text:
 - "Another world"
 - "Finis Coronat Opus"
@@ -43,8 +43,8 @@ motto_text:
 official_name:
 - "la République des Seychelles"
 - "Repubblica delle Seychelles"
-- Seychelles
-- Seychelles
+  - Seychelles
+  - Seychelles
 native_label: "République des Seychelles"
 short_name: "\U0001F1F8\U0001F1E8"
 instance_of:
@@ -159,15 +159,15 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/SYC%20ort
 official_website: "http://www.egov.sc/"
 country_calling_code: +248
 urban_population:
-- 57542
-- 70004
-- 55762
-- 56661
+  - 57542
+  - 70004
+  - 55762
+  - 56661
 male_population:
-- 63113
-- 51368
-- 51864
-- 52299
+  - 63113
+  - 51368
+  - 51864
+  - 52299
 IAB_code: 1401
 population: 95843
 ISO_3166_1_alpha_2_code: SC
@@ -189,15 +189,15 @@ hashtag: Seychelles
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Seychelles.svg"
 coordinate_location: "Point(52.766667 -7.1)"
 nominal_GDP:
-- 1286687873
-- 1588406479
+  - 1286687873
+  - 1588406479
 Unicode_character: 🇸🇨 
 U_S_National_Archives_Identifier: 10035806
 Dewey_Decimal_Classification: 2--696
 ISNI: 000000040459108X
 MeSH_tree_code:
-- Z01.058.290.120.705
-- Z01.639.520.750
+  - Z01.058.290.120.705
+  - Z01.639.520.750
 escutcheon_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Insigne%20Insularum%20Seisellensium.svg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Seychelles%20-%20Location%20Map%20%282013%29%20-%20SYC%20-%20UNOCHA.svg"
 diplomatic_relation:
@@ -232,15 +232,15 @@ age_of_majority: 18
 total_fertility_rate: 2.3
 mains_voltage: 240
 death_rate:
-- 6.8
-- 7.8
-- 8.1
-- 9.3
+  - 6.8
+  - 7.8
+  - 8.1
+  - 9.3
 birth_rate:
-- 13.1
-- 15.8
-- 16.4
-- 16.8
+  - 13.1
+  - 15.8
+  - 16.4
+  - 16.8
 Gini_coefficient: 32.1
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.sc,43139]]'
 area: 459
@@ -252,16 +252,16 @@ M49_code: 690
 maritime_identification_digits: 664
 licence_plate_code: SY
 rural_population:
-- 41716
-- 41801
-- 41863
-- 49874
+  - 41716
+  - 41801
+  - 41863
+  - 49874
 mobile_country_code: 633
 female_population:
-- 46256
-- 46598
-- 46958
-- 56766
+  - 46256
+  - 46598
+  - 46958
+  - 56766
 FIPS_10_4_countries_and_regions_: SE
 has_id_wikidata: Q1042
 location:

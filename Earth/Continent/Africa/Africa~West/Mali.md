@@ -162,47 +162,47 @@ head_of_state: "[[_Standards/WikiData/WD~Assimi_Goïta,98497406]]"
 public_holiday: "[[_Standards/WikiData/WD~Mali_Independence_Day,111968636]]"
 UMLS_CUI: C0024581
 demonym:
-- ماليين
-- Malijec
-- Malijka
-- مالية
-- ماليات
-- Mailíoch
-- مالي
-- مالية
-- ماليون
-- مالي
-- maliana
-- malianu
-- মালীয়
-- malià
-- maliana
-- malianes
-- malians
-- Malier
-- Malierin
-- Malian
-- Maliano
-- Malien
-- Malienne
-- מאלי
-- מאלית
-- mali
-- Maliano
-- maliana
-- maliane
-- maliani
-- maliano
-- malian
-- malian
-- maliană
-- malieni
-- малийцы
-- malian
-- maliana
-- maliane
-- maliani
-- Maliyänan
+  - ماليين
+  - Malijec
+  - Malijka
+  - مالية
+  - ماليات
+  - Mailíoch
+  - مالي
+  - مالية
+  - ماليون
+  - مالي
+  - maliana
+  - malianu
+  - মালীয়
+  - malià
+  - maliana
+  - malianes
+  - malians
+  - Malier
+  - Malierin
+  - Malian
+  - Maliano
+  - Malien
+  - Malienne
+  - מאלי
+  - מאלית
+  - mali
+  - Maliano
+  - maliana
+  - maliane
+  - maliani
+  - maliano
+  - malian
+  - malian
+  - maliană
+  - malieni
+  - малийцы
+  - malian
+  - maliana
+  - maliane
+  - maliani
+  - Maliyänan
 motto_text:
 - "En narod, en cilj, ena vera"
 - "Mɔgɔ kelen, laɲini kelen, dannaya kelen"
@@ -217,14 +217,14 @@ motto_text:
 ISNI: 0000000121632435
 official_name:
 - "Mali ka Fasojamana"
-- Mali
+  - Mali
 coordinates_of_westernmost_point: "Point(-12.2399 14.7644)"
 PM20_geo_code: C32b
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20-%20Location%20Map%20%282013%29%20-%20MLI%20-%20UNOCHA.svg"
 coordinates_of_northernmost_point: "Point(-5.5 25.0)"
 nominal_GDP:
-- 18827176532
-- 19309463506
+  - 18827176532
+  - 19309463506
 coordinates_of_easternmost_point: "Point(4.2659 18.0)"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Algeria,262]]'
@@ -253,30 +253,30 @@ part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 8
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 VAT_rate: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 5.4
-- 4.19
-- 4.66
-- 5.17
-- 5.19
-- 6.16
-- 6.19
-- 6.22
-- 6.43
+  - 5.4
+  - 4.19
+  - 4.66
+  - 5.17
+  - 5.19
+  - 6.16
+  - 6.19
+  - 6.22
+  - 6.43
 BTI_Status_Index:
-- 6.1
-- 4.09
-- 4.36
-- 5.06
-- 5.14
-- 5.18
-- 5.93
-- 6.09
-- 6.16
+  - 6.1
+  - 4.09
+  - 4.36
+  - 5.06
+  - 5.14
+  - 5.18
+  - 5.93
+  - 6.09
+  - 6.16
 Inequality_adjusted_Human_Development_Index: 0.291
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ml,42026]]'
 literacy_rate: 33.1
@@ -327,40 +327,40 @@ native_label: Mali
 short_name: "\U0001F1F2\U0001F1F1"
 total_fertility_rate: 6.229
 death_rate:
-- 8.951
-- 9.205
-- 9.274
-- 9.529
+  - 8.951
+  - 9.205
+  - 9.274
+  - 9.529
 birth_rate:
-- 41.217
-- 41.643
-- 41.995
-- 42.376
+  - 41.217
+  - 41.643
+  - 41.995
+  - 42.376
 life_expectancy: 57.966
 rural_population:
-- 11695460
-- 11904776
-- 12118494
-- 12327741
+  - 11695460
+  - 11904776
+  - 12118494
+  - 12327741
 area: 1240192
 number_of_out_of_school_children: 2474516
 urban_population:
-- 8871964
-- 9319264
-- 9786489
-- 10265849
+  - 8871964
+  - 9319264
+  - 9786489
+  - 10265849
 inception: "1960-09-22"
 has_time_started: "1960-09-22"
 female_population:
-- 10179843
-- 10505701
-- 10844239
-- 11186771
+  - 10179843
+  - 10505701
+  - 10844239
+  - 11186771
 male_population:
-- 10387581
-- 10718339
-- 11060744
-- 11406819
+  - 10387581
+  - 10718339
+  - 11060744
+  - 11406819
 coordinates_of_southernmost_point: "Point(-7.0499 10.1478)"
 population: 20250833
 coordinate_location: "Point(-4.0 17.0)"

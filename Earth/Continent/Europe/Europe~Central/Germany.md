@@ -589,6 +589,7 @@ nominal_GDP:
   - 4072191736090
 inception: 1949-05-23
 has_time_started: 1949-05-23
+has_time_started: 1949-05-23T00:00:00Z 
 area: 357587.77
 budget: 476290763000
 compulsory_education_minimum_age_:

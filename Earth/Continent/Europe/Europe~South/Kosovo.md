@@ -1,10 +1,10 @@
 ---
 location:
-- 42.55
-- 20.83
+  - 42.55
+  - 20.83
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q1246
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Kosovo,116102]]"
 instance_of:
@@ -81,34 +81,34 @@ BHCL_UUID: 2616699a-cd57-4074-995b-0b11bf8a3840
 UMLS_CUI: C0206003
 coordinate_location: "Point(20.833333333 42.55)"
 demonym:
-- kosovar
-- kosovară
-- kosovari
-- كوصوڤي
-- كوصوڤيات
-- كوصوڤية
-- كوصوڤيين
-- Cosavach
-- kosovar
-- কসোভীয়
-- Kosovar
-- Kosovano
-- Kosovare
-- Kossovien
-- Kossovienne
-- קוסוברי
-- קוסוברית
-- koszovói
-- Kosovano
-- cosovan
-- Kosovaar
-- Kosovaarse
-- косовар
-- косоварка
-- kosovar
-- Kosovan
-- Kosovar
-- косовары
+  - kosovar
+  - kosovară
+  - kosovari
+  - كوصوڤي
+  - كوصوڤيات
+  - كوصوڤية
+  - كوصوڤيين
+  - Cosavach
+  - kosovar
+  - কসোভীয়
+  - Kosovar
+  - Kosovano
+  - Kosovare
+  - Kossovien
+  - Kossovienne
+  - קוסוברי
+  - קוסוברית
+  - koszovói
+  - Kosovano
+  - cosovan
+  - Kosovaar
+  - Kosovaarse
+  - косовар
+  - косоварка
+  - kosovar
+  - Kosovan
+  - Kosovar
+  - косовары
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Kosovo\"]"
 native_label:
 - "Република Косово"
@@ -124,8 +124,8 @@ location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map
 MeSH_tree_code: Z01.542.248.506
 area: 10909.02992
 nominal_GDP:
-- 9412034299
-- 9429156202
+  - 9412034299
+  - 9429156202
 coordinates_of_westernmost_point: "Point(20.01429498 42.74077185)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Singapore,334]]'
@@ -221,13 +221,13 @@ continent: '[[_Standards/WikiData/WD~Europe,46]]'
 mains_voltage: 230
 Gini_coefficient: 29
 BTI_Governance_Index:
-- 5.2
-- 5.17
-- 5.19
-- 5.23
-- 5.28
-- 5.33
-- 5.45
+  - 5.2
+  - 5.17
+  - 5.19
+  - 5.23
+  - 5.28
+  - 5.33
+  - 5.45
 Krugosvet_article: gosudarstvo-i-politika/kosovo
 GitHub_topic: kosovo
 CIVICUS_Monitor_country_entry: kosovo
@@ -235,14 +235,14 @@ Libris_URI: ljx00cf41g9xzhn
 Unicode_character: 🇽🇰 
 short_name:
 - "\U0001F1FD\U0001F1F0"
-- Косово
+  - Косово
 BTI_Status_Index:
-- 6.2
-- 6.21
-- 6.23
-- 6.28
-- 6.33
-- 6.48
+  - 6.2
+  - 6.21
+  - 6.23
+  - 6.28
+  - 6.33
+  - 6.48
 death_rate: 7.2
 birth_rate: 14.4
 total_fertility_rate: 1.87

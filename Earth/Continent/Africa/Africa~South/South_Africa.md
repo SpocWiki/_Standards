@@ -205,38 +205,38 @@ ISNI:
 - 0000000121673042
 - 0000000121948229
 short_name:
-- RJA
-- JAR
-- ЈАР
-- 南非
-- RSA
-- RSA
-- ЮАР
-- CAR
-- ПАР
-- ՀԱՀ
-- სარ
-- وار
-- ОАР
-- OAR
-- 남아공
-- ТАР
-- PAR
-- ЛАР
-- ЈАР
-- ӨАБНУ
-- GAR
-- GAC
-- ПАР
-- ЖАР
-- JAR
-- 南非
-- 南非
+  - RJA
+  - JAR
+  - ЈАР
+  - 南非
+  - RSA
+  - RSA
+  - ЮАР
+  - CAR
+  - ПАР
+  - ՀԱՀ
+  - სარ
+  - وار
+  - ОАР
+  - OAR
+  - 남아공
+  - ТАР
+  - PAR
+  - ЛАР
+  - ЈАР
+  - ӨАБНУ
+  - GAR
+  - GAC
+  - ПАР
+  - ЖАР
+  - JAR
+  - 南非
+  - 南非
 - "\U0001F1FF\U0001F1E6"
 motto_text:
 - "Undod drwy Amrywiaeth"
 - "Inspiring new ways"
-- "ǃke e: ǀxarra ǁke"
+  - "ǃke e: ǀxarra ǁke"
 - "Ex Unitate Vires"
 country: "[[_Standards/WikiData/WD~South_Africa,258]]"
 shares_border_with:
@@ -259,24 +259,24 @@ VAT_rate: 15
 age_of_majority: 18
 mains_voltage: 230
 BTI_Governance_Index:
-- 6.1
-- 5.96
-- 5.99
-- 6.09
-- 6.12
-- 6.14
-- 6.25
-- 6.95
-- 7.01
+  - 6.1
+  - 5.96
+  - 5.99
+  - 6.09
+  - 6.12
+  - 6.14
+  - 6.25
+  - 6.95
+  - 7.01
 BTI_Status_Index:
-- 6.8
-- 6.78
-- 6.96
-- 7.05
-- 7.13
-- 7.16
-- 7.34
-- 7.98
+  - 6.8
+  - 6.78
+  - 6.96
+  - 7.05
+  - 7.13
+  - 7.16
+  - 7.34
+  - 7.98
 suicide_rate: 23.5
 unemployment_rate: 27.2
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.za,42754]]'
@@ -291,17 +291,17 @@ Human_Development_Index: 0.713
 Democracy_Index: 7.24
 elevation_above_sea_level: 1037
 birth_rate:
-- 19.31
-- 19.821
-- 20.326
-- 21.276
+  - 19.31
+  - 19.821
+  - 20.326
+  - 21.276
 total_fertility_rate: 2.363
 mobile_country_code: 655
 death_rate:
-- 8.614
-- 9.425
-- 11.432
-- 12.032
+  - 8.614
+  - 9.425
+  - 11.432
+  - 12.032
 FIPS_10_4_countries_and_regions_: SF
 WIPO_ST_3: ZA
 licence_plate_code: ZA
@@ -317,13 +317,13 @@ INSEE_countries_and_foreign_territories_code: 99303
 area: 1221037
 native_label:
 - "South Africa"
-- Suid-Afrika
+  - Suid-Afrika
 - "iSewula Afrika"
 - "Afrika Borwa"
 - "iNingizimu Afrika"
 - "Afrika Borwa"
 - "Aforika Borwa"
-- Afrika-Dzonga
+  - Afrika-Dzonga
 - "Afurika Tshipembe"
 - "uMzantsi Afrika"
 - "iNingizimu Afrika"
@@ -331,15 +331,15 @@ number_of_out_of_school_children: 1815742
 ITU_letter_code: AFS
 demonym:
 - "South African"
-- Suid-Afrikaner
-- Sud-africain
-- Sud-africaine
+  - Suid-Afrikaner
+  - Sud-africain
+  - Sud-africaine
 GS1_country_code: 600-601
 urban_population:
-- 39605450
-- 38834681
-- 40295863
-- 40928486
+  - 39605450
+  - 38834681
+  - 40295863
+  - 40928486
 DPLA_subject_term: "South Africa"
 Commons_category: "South Africa"
 coordinates_of_westernmost_point: "Point(16.454166666 -28.633333333)"
@@ -385,26 +385,27 @@ official_name:
 - "iRiphablikhi yoMzantsi-Afrika"
 - "iRiphabhuliki yaseNingizimu Afrika"
 rural_population:
-- 18965399
-- 19096392
-- 19196477
-- 19252374
+  - 18965399
+  - 19096392
+  - 19196477
+  - 19252374
 male_population:
-- 28207948
-- 28580784
-- 28894608
-- 29168006
+  - 28207948
+  - 28580784
+  - 28894608
+  - 29168006
 female_population:
-- 29879107
-- 30221143
-- 30497646
-- 30725879
+  - 29879107
+  - 30221143
+  - 30497646
+  - 30725879
 nominal_GDP:
-- 419015636065
-- 405869718462
+  - 419015636065
+  - 405869718462
 coordinates_of_northernmost_point: "Point(29.658333333 -22.127777777)"
 inception: "1910-05-31"
 has_time_started: "1910-05-31"
+has_time_started: 1910-05-31T00:00:00Z 
 population: 62027503
 has_id_wikidata: Q258
 location:

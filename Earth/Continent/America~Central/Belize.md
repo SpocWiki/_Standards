@@ -1,10 +1,10 @@
 ---
 location:
-- 17.25
-- -88.7667
+  - 17.25
+  - -88.7667
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26859
 isDeleted: false
 confidential: public
@@ -12,7 +12,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Belize
 linkTitle: 
@@ -22,14 +22,14 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Belize
-- Belice
-- بليز
-- 伯利兹
-- Белиз
+  - Belize
+  - Belice
+  - بليز
+  - 伯利兹
+  - Белиз
 Languages:
-- en-BZ
-- es
+  - en-BZ
+  - es
 icon: flag-bz
 has_id_wikidata: Q242
 member_of:
@@ -126,36 +126,36 @@ located_in_time_zone:
 UMLS_CUI: C0004952
 coordinates_of_northernmost_point: "Point(-88.4027 18.4959)"
 demonym:
-- بيليزي
-- بيليزية
-- بيليزيين
-- بيليزيات
-- Beilíseach
-- بليزي
-- بليزية
-- بليزيون
-- belizianu
-- বেলজীয়
-- Belizean
-- Belizano
-- beliceño
-- Bélizien
-- Bélizienne
-- בליזי
-- בליזית
-- belize-i
-- Belizeano
-- beliziana
-- beliziane
-- beliziani
-- beliziano
-- belizan
-- белизы
-- bełisian
-- bełisiana
-- bełisiane
-- bełisiani
-- Belisänan
+  - بيليزي
+  - بيليزية
+  - بيليزيين
+  - بيليزيات
+  - Beilíseach
+  - بليزي
+  - بليزية
+  - بليزيون
+  - belizianu
+  - বেলজীয়
+  - Belizean
+  - Belizano
+  - beliceño
+  - Bélizien
+  - Bélizienne
+  - בליזי
+  - בליזית
+  - belize-i
+  - Belizeano
+  - beliziana
+  - beliziane
+  - beliziani
+  - beliziano
+  - belizan
+  - белизы
+  - bełisian
+  - bełisiana
+  - bełisiane
+  - bełisiani
+  - Belisänan
 ISNI: 0000000122862013
 MeSH_tree_code: Z01.107.169.133
 coordinates_of_easternmost_point: "Point(-87.4919 17.4447)"
@@ -181,13 +181,13 @@ country: '[[_Standards/WikiData/WD~Belize,242]]'
 unemployment_rate: 12
 marriageable_age: 18
 mains_voltage:
-- 220
-- 550
+  - 220
+  - 550
 suicide_rate:
-- 4.7
-- 4.8
-- 4.9
-- 5.5
+  - 4.7
+  - 4.8
+  - 4.9
+  - 5.5
 life_expectancy: 71
 VAT_rate: 12.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bz,39903]]'
@@ -200,10 +200,10 @@ literacy_rate: 82.8
 FIPS_10_4_countries_and_regions_: BH
 licence_plate_code: BH
 female_population:
-- 198800
-- 193151
-- 196111
-- 201525
+  - 198800
+  - 193151
+  - 196111
+  - 201525
 total_fertility_rate: 2.579
 maritime_identification_digits: 312
 death_rate: 6.253
@@ -213,25 +213,25 @@ M49_code: 084
 mobile_country_code: 702
 birth_rate: 17.763
 urban_population:
-- 188030
-- 178462
-- 181762
-- 184818
+  - 188030
+  - 178462
+  - 181762
+  - 184818
 male_population:
-- 198810
-- 195944
-- 201231
-- 203747
+  - 198810
+  - 195944
+  - 201231
+  - 203747
 area: 22966
 IAB_code: 1250
 INSEE_countries_and_foreign_territories_code: 99429
 ISO_3166_1_alpha_2_code: BZ
 WIPO_ST_3: BZ
 rural_population:
-- 210633
-- 213159
-- 215213
-- 217242
+  - 210633
+  - 213159
+  - 215213
+  - 217242
 OmegaWiki_Defined_Meaning: 8002
 population: 411106
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belize.svg"
@@ -268,9 +268,9 @@ IPA_transcription: bɛˈliːs
 Unicode_character: 🇧🇿 
 Krugosvet_article: strany_mira/BELIZ.html
 official_name:
-- Belize
+  - Belize
 - "le Bélize"
-- Belize
+  - Belize
 native_label: Belize
 motto_text: "Under the shade I flourish"
 short_name: "\U0001F1E7\U0001F1FF"

@@ -4,11 +4,11 @@ linkTitle:
 type: Country
 has_id_wikidata: Q142
 location:
-- 46.8944
-- 2.33663
+  - 46.8944
+  - 2.33663
 SpocWebEntityId: 26896
 tags:
-- geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: "CC BY-SA 4.0"
@@ -22,21 +22,21 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- France
-- Francia
-- فرنسا
-- 法国
-- Франция
+  - France
+  - Francia
+  - فرنسا
+  - 法国
+  - Франция
 - "the French Republic"
 - "la República Francesa"
 Languages:
-- fr-FR
-- frp
-- br
-- co
-- ca
-- eu
-- oc
+  - fr-FR
+  - frp
+  - br
+  - co
+  - ca
+  - eu
+  - oc
 icon: flag-fr
 replaces:
 - "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
@@ -349,13 +349,13 @@ Stack_Exchange_tag: "https://travel.stackexchange.com/tags/france"
 official_website: "https://www.service-public.fr/"
 country_calling_code: +33
 BHCL_UUID:
-- 00e4cc53-5b5d-4636-a60e-addf9f452f94
-- 46d426e3-f17c-4136-9a95-87a579b73975
+  - 00e4cc53-5b5d-4636-a60e-addf9f452f94
+  - 46d426e3-f17c-4136-9a95-87a579b73975
 Dewey_Decimal_Classification: 2--44
 Provenio_UUID:
-- 2c3d1aa9-6d72-4ddc-9b95-fb50fdae7c2f
-- 7a46ed56-f65d-4463-9e0d-1abb4e5951dc
-- 9b903d05-1ba3-4263-ad05-b650062f7971
+  - 2c3d1aa9-6d72-4ddc-9b95-fb50fdae7c2f
+  - 7a46ed56-f65d-4463-9e0d-1abb4e5951dc
+  - 9b903d05-1ba3-4263-ad05-b650062f7971
 ISBN_identifier_group: 979-10
 Unicode_character: 🇫🇷 
 Colon_Classification: SG--53
@@ -363,19 +363,19 @@ Krugosvet_article: strany_mira/FRANTSIYA.html
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 capital: '[[_Standards/WikiData/WD~Paris,90]]'
 marriageable_age:
-- 0
-- 18
+  - 0
+  - 18
 country: '[[_Standards/WikiData/WD~France,142]]'
 official_language: '[[_Standards/WikiData/WD~French,150]]'
 VAT_rate:
-- 10
-- 20
-- 2.1
-- 5.5
+  - 10
+  - 20
+  - 2.1
+  - 5.5
 water_as_percent_of_area: 0.3
 mains_voltage:
-- 400
-- 230
+  - 400
+  - 230
 compulsory_education_minimum_age_: 6
 speed_limit: 90
 compulsory_education_maximum_age_: 16
@@ -389,25 +389,25 @@ poverty_incidence: 13.6
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.fr,37271]]'
 total_fertility_rate: 1.99
 annual_number_of_weddings:
-- 241000
-- 319900
-- 516900
-- 245930
-- 295720
-- 236826
-- 238592
-- 251478
-- 251654
-- 265404
-- 273669
-- 273914
-- 278439
-- 279087
-- 282756
-- 283036
-- 283984
-- 286169
-- 305234
+  - 241000
+  - 319900
+  - 516900
+  - 245930
+  - 295720
+  - 236826
+  - 238592
+  - 251478
+  - 251654
+  - 265404
+  - 273669
+  - 273914
+  - 278439
+  - 279087
+  - 282756
+  - 283036
+  - 283984
+  - 286169
+  - 305234
 anthem: "[[_Standards/WikiData/WD~La_Marseillaise,41180]]"
 Gini_coefficient: 32.4
 flag: "[[_Standards/WikiData/WD~flag_of_France,43192]]"
@@ -440,87 +440,87 @@ NUTS_code: FR
 number_of_out_of_school_children: 29418
 median_income: 30364
 male_population:
-- 33279000
-- 32758032
-- 32847321
-- 32586250
-- 32670705
+  - 33279000
+  - 32758032
+  - 32847321
+  - 32586250
+  - 32670705
 female_population:
-- 35326000
-- 34900402
-- 35006272
-- 35123991
-- 34801750
+  - 35326000
+  - 34900402
+  - 35006272
+  - 35123991
+  - 34801750
 OmegaWiki_Defined_Meaning: 7955
 PM20_geo_code: A28
 demonym:
-- francés
-- فرنسي
-- francesa
-- француз
-- френски
-- ফরাসি
-- francesa
-- Ffrances
-- franskmand
-- Franzosin
-- françaises
-- francesa
-- צרפתיות
-- צרפתייה
-- Franciano
-- francesi
-- franses
-- franțuzoaică
-- Француз
-- fransk
-- franskt
-- fransyska
-- franseza
-- fransezo
-- Fransänan
-- 法国人
-- فرنساوي
-- فرنساوية
-- فرنساويين
-- فرانساويات
-- francès
-- francés
-- Francach
-- Francés
-- فرنسية
-- French
-- Français
-- فرنسيون
-- francés
-- Francouz
-- Francouzka
-- Ffrancwr
-- Ffrancwyr
-- Franzose
-- צרפתי
-- צרפתים
-- francese
-- フランス人
-- Française
-- Fransman
-- francês
-- francez
-- francezi
-- француженка
-- француз
-- французы
-- fransman
-- француженка
-- француз
-- французи
-- فرانسیسی
-- fransezi
-- francesa
-- franseze
-- francesa
-- francia
-- Française
+  - francés
+  - فرنسي
+  - francesa
+  - француз
+  - френски
+  - ফরাসি
+  - francesa
+  - Ffrances
+  - franskmand
+  - Franzosin
+  - françaises
+  - francesa
+  - צרפתיות
+  - צרפתייה
+  - Franciano
+  - francesi
+  - franses
+  - franțuzoaică
+  - Француз
+  - fransk
+  - franskt
+  - fransyska
+  - franseza
+  - fransezo
+  - Fransänan
+  - 法国人
+  - فرنساوي
+  - فرنساوية
+  - فرنساويين
+  - فرانساويات
+  - francès
+  - francés
+  - Francach
+  - Francés
+  - فرنسية
+  - French
+  - Français
+  - فرنسيون
+  - francés
+  - Francouz
+  - Francouzka
+  - Ffrancwr
+  - Ffrancwyr
+  - Franzose
+  - צרפתי
+  - צרפתים
+  - francese
+  - フランス人
+  - Française
+  - Fransman
+  - francês
+  - francez
+  - francezi
+  - француженка
+  - француз
+  - французы
+  - fransman
+  - француженка
+  - француз
+  - французи
+  - فرانسیسی
+  - fransezi
+  - francesa
+  - franseze
+  - francesa
+  - francia
+  - Française
 ISO_3166_1_alpha_3_code: FRA
 IOC_country_code: FRA
 number_of_deaths: 593865
@@ -538,8 +538,8 @@ terms_of_service_URL: "https://www.service-public.fr/P10050"
 contact_page_URL: "https://www.service-public.fr/P10017"
 sitemap_URL: "https://www.service-public.fr/P10003"
 nominal_GDP:
-- 2957879759264
-- 2782905325625
+  - 2957879759264
+  - 2782905325625
 motto_text: "Liberté, égalité, fraternité"
 seal_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20French%20Republic.svg"
@@ -555,10 +555,10 @@ logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20RF.svg"
 Instagram_username: servicepublicfr
 X_Twitter_username: servicepublicfr
 urban_population:
-- 54388182
-- 54715704
-- 55053076
-- 55402736
+  - 54388182
+  - 54715704
+  - 55053076
+  - 55402736
 population: 68373433
 area: 643801
 subreddit: france
@@ -577,10 +577,10 @@ coordinate_location: "Point(2.0 47.0)"
 GS1_country_code: 300-379
 external_data_available_at_URL: "https://www.data.gouv.fr/"
 rural_population:
-- 12568575
-- 12711228
-- 12855403
-- 12999819
+  - 12568575
+  - 12711228
+  - 12855403
+  - 12999819
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/France%20relief%20location%20map.jpg"
 ---
 

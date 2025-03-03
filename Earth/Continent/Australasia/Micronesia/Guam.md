@@ -1,10 +1,10 @@
 ---
 location:
-- 13.4792
-- 144.75
+  - 13.4792
+  - 144.75
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26913
 isDeleted: false
 confidential: public
@@ -12,7 +12,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Guam
 linkTitle: 
@@ -22,13 +22,13 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Guam
-- غوام
-- 关岛
-- Гуам
+  - Guam
+  - غوام
+  - 关岛
+  - Гуам
 Languages:
-- en-GU
-- ch-GU
+  - en-GU
+  - ch-GU
 icon: flag-gu
 has_id_wikidata: Q16635
 flag: "[[_Standards/WikiData/WD~flag_of_Guam,235829]]"
@@ -97,31 +97,31 @@ GitHub_topic: guam
 ISO_3166_2_code: US-GU
 MeSH_tree_code: Z01.639.760.680.435
 official_name:
-- Guåhån
-- Guam
+  - Guåhån
+  - Guam
 native_label: Guåhån
 motto_text: "Tånó I' Man CHamoru"
 nickname: "Tånó y CHamoru"
 demonym:
-- Guamanian
-- guamana
-- guamane
-- guamani
-- guamano
+  - Guamanian
+  - guamana
+  - guamane
+  - guamani
+  - guamano
 - "Tåotåo Guåhån"
-- Guamanians
-- guamanian
-- guamês
-- guamesa
-- guamesas
-- guameses
-- Guamach
+  - Guamanians
+  - guamanian
+  - guamês
+  - guamesa
+  - guamesas
+  - guameses
+  - Guamach
 FIPS_10_4_countries_and_regions_: GQ
 OmegaWiki_Defined_Meaning: 628569
 INSEE_countries_and_foreign_territories_code: 99505
 PM20_geo_code: D6
 short_name:
-- GU
+  - GU
 - "\U0001F1EC\U0001F1FA"
 coordinates_of_westernmost_point: "Point(144.618194444 13.447555555)"
 U_S_National_Archives_Identifier: 10044448

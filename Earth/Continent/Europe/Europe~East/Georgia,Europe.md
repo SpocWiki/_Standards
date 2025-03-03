@@ -1,10 +1,10 @@
 ---
 location:
-- 41.7167
-- 44.7833
+  - 41.7167
+  - 44.7833
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26901
 isDeleted: false
 confidential: public
@@ -252,73 +252,73 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kazbeg%20banner
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20of%20Georgia.svg"
 Commons_gallery:
 - "Géorgie (pays)"
-- საქართველო
+  - საქართველო
 IPA_transcription: gɛˈɔɾgjɑ
 subreddit: Sakartvelo
 Colon_Classification: SG--5858
 Krugosvet_article: strany_mira/GRUZIYA.html
 MeSH_tree_code:
-- Z01.542.900.420
-- Z01.542.931.420
-- Z01.586.950.420
+  - Z01.542.900.420
+  - Z01.542.931.420
+  - Z01.586.950.420
 demonym:
-- xeorxana
-- xeorxanu
-- জর্জীয়
-- georgià
-- georgiana
-- georgier
-- Georgierin
-- kartvelo
-- Géorgien
-- Géorgienne
-- גאורגית
-- grúz
-- Gruziano
-- georgiana
-- georgiane
-- georgiano
-- cartuli
-- jorjian
-- georgian
-- georgiană
-- georgieni
-- zeorzan
-- zeorzana
-- zeorzane
-- Grusiyänan
-- djeyordjin
-- djeyordjinne
-- جورجي
-- جورجية
-- جورجيين
-- جورجيات
-- Seoirseach
-- Georgian
-- géorgien
-- جورجي
-- גאורגי
-- جورجيون
-- Georgier
-- Géorgiens
-- georgiani
-- ქართველი
-- грузин
-- грузинка
-- грузин
-- грузини
-- грузинка
-- zeorzani
-- جورجية
+  - xeorxana
+  - xeorxanu
+  - জর্জীয়
+  - georgià
+  - georgiana
+  - georgier
+  - Georgierin
+  - kartvelo
+  - Géorgien
+  - Géorgienne
+  - גאורגית
+  - grúz
+  - Gruziano
+  - georgiana
+  - georgiane
+  - georgiano
+  - cartuli
+  - jorjian
+  - georgian
+  - georgiană
+  - georgieni
+  - zeorzan
+  - zeorzana
+  - zeorzane
+  - Grusiyänan
+  - djeyordjin
+  - djeyordjinne
+  - جورجي
+  - جورجية
+  - جورجيين
+  - جورجيات
+  - Seoirseach
+  - Georgian
+  - géorgien
+  - جورجي
+  - גאורגי
+  - جورجيون
+  - Georgier
+  - Géorgiens
+  - georgiani
+  - ქართველი
+  - грузин
+  - грузинка
+  - грузин
+  - грузини
+  - грузинка
+  - zeorzani
+  - جورجية
 official_name:
-- Gruzie
+  - Gruzie
 - "Géorgie (la)"
-- Gruzija
-- Sakartvelas
-- Georgia
-- Грузия
-- საქართველო
-- Georgien
+  - Gruzija
+  - Sakartvelas
+  - Georgia
+  - Грузия
+  - საქართველო
+  - Georgien
 short_name: "\U0001F1EC\U0001F1EA"
 capital: '[[_Standards/WikiData/WD~Tbilisi,994]]'
 different_from:
@@ -339,29 +339,29 @@ continent: '[[_Standards/WikiData/WD~Europe,46]]'
 lowest_point: "[[_Standards/WikiData/WD~Black_Sea,166]]"
 country: '[[_Standards/WikiData/WD~Georgia,230]]'
 BTI_Status_Index:
-- 6
-- 6.6
-- 5.73
-- 5.88
-- 6.03
-- 6.16
-- 6.31
-- 6.39
-- 6.42
+  - 6
+  - 6.6
+  - 5.73
+  - 5.88
+  - 6.03
+  - 6.16
+  - 6.31
+  - 6.39
+  - 6.42
 speed_limit: 110
 marriageable_age: 18
 VAT_rate: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 5.9
-- 5.38
-- 5.55
-- 5.68
-- 5.72
-- 5.76
-- 5.86
-- 5.87
-- 6.36
+  - 5.9
+  - 5.38
+  - 5.55
+  - 5.68
+  - 5.72
+  - 5.76
+  - 5.86
+  - 5.87
+  - 6.36
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ge,40683]]'
 Gini_coefficient: 34.5
 Happy_Planet_Index_score: 44.3

@@ -1,10 +1,10 @@
 ---
 location:
-- 35.6637
-- 117.985
+  - 35.6637
+  - 117.985
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q148
 SpocWebEntityId: 26870
 isDeleted: false
@@ -22,20 +22,20 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- China
-- Chine
-- الصين
-- 中国
-- Китай
+  - China
+  - Chine
+  - الصين
+  - 中国
+  - Китай
 - "the People's Republic of China"
 - "la República Popular China"
 Languages:
-- zh-CN
-- yue
-- wuu
-- dta
-- ug
-- za
+  - zh-CN
+  - yue
+  - wuu
+  - dta
+  - ug
+  - za
 icon: flag-cn
 history_of_topic:
 - "[[_Standards/WikiData/WD~history_of_China,82972]]"
@@ -403,7 +403,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kuan,6441084]]'
 - "[[_Standards/WikiData/WD~Lama_Bai,6480756]]"
 - '[[_Standards/WikiData/WD~Lamu,6482736]]'
-- "[[_Standards/WikiData/WD~Lang'e,6485577]]"
+  - "[[_Standards/WikiData/WD~Lang'e,6485577]]"
 - '[[_Standards/WikiData/WD~Lashi,6493203]]'
 - '[[_Standards/WikiData/WD~Lawu,6505073]]'
 - '[[_Standards/WikiData/WD~Lachi,6583606]]'
@@ -476,7 +476,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Zuojiang_Zhuang,13848149]]"
 - '[[_Standards/WikiData/WD~Lhomi,14240916]]'
 - "[[_Standards/WikiData/WD~Luopohe_Miao,14468943]]"
-- "[[_Standards/WikiData/WD~A'ou,16109994]]"
+  - "[[_Standards/WikiData/WD~A'ou,16109994]]"
 - "[[_Standards/WikiData/WD~E'ma_Buyang,16115619]]"
 - "[[_Standards/WikiData/WD~Hmong_Shua,16306754]]"
 - '[[_Standards/WikiData/WD~Lavu,16999095]]'
@@ -672,11 +672,11 @@ ORCID_iD: 0000-0002-5166-1365
 MeSH_tree_code: Z01.252.474.164
 coordinates_of_westernmost_point: "Point(73.49965096 39.38008923)"
 female_population:
-- 688438768
-- 690171848
-- 691219627
-- 691528501
-- 688179990
+  - 688438768
+  - 690171848
+  - 691219627
+  - 691528501
+  - 688179990
 shares_border_with:
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
@@ -756,15 +756,15 @@ relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/China%2
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/CHN%20orthographic.svg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg"
 BTI_Governance_Index:
-- 5
-- 4.49
-- 4.71
-- 4.73
-- 4.79
-- 4.86
-- 4.92
-- 5.04
-- 5.29
+  - 5
+  - 4.49
+  - 4.71
+  - 4.73
+  - 4.79
+  - 4.86
+  - 4.92
+  - 5.04
+  - 5.29
 unemployment_rate: 5
 compulsory_education_minimum_age_: 6
 spoken_text_audio:
@@ -777,14 +777,14 @@ mains_voltage: 220
 vehicles_per_thousand_people: 28
 water_as_percent_of_area: 2.8
 BTI_Status_Index:
-- 4.7
-- 4.42
-- 4.79
-- 4.94
-- 4.95
-- 5.01
-- 5.02
-- 5.04
+  - 4.7
+  - 4.42
+  - 4.79
+  - 4.94
+  - 4.95
+  - 5.01
+  - 5.02
+  - 5.04
 suicide_rate: 6.7
 life_expectancy: 79
 Democracy_Index: 2.21
@@ -836,63 +836,63 @@ Colon_Classification: SG--41
 Krugosvet_article: strany-mira/kitay
 Commons_gallery: 中华人民共和国
 demonym:
-- Sjinees
-- صيني
-- صينية
-- صينيون
-- china
-- chinu
-- চীনা
-- xinès
-- Chinese
-- Chinesin
-- Κινέζα
-- Κινέζος
-- Chinese
-- Ĉiniano
-- china
-- chino
-- Chinois
-- Chinoise
-- סיני
-- סינים
-- סינית
-- kínai
-- cinese
-- cinesi
-- 中国人
-- jonguo
-- xines
-- Chińczyk
-- چيني
-- seciukuk
-- chinez
-- chinezi
-- chinezoaică
-- китаец
-- китайцы
-- китаянка
-- Кинез
-- Кинези
-- Кинескиња
-- kinesisk
-- китаєць
-- китайці
-- китаянка
-- cineza
-- cineze
-- cinezi
-- cinezo
-- Tsyinänan
-- 中国人
-- 中國人
-- Kitajka
-- شينوية
-- شينوي
-- شناوا
-- شينويات
-- Kitajec
-- Síneach
+  - Sjinees
+  - صيني
+  - صينية
+  - صينيون
+  - china
+  - chinu
+  - চীনা
+  - xinès
+  - Chinese
+  - Chinesin
+  - Κινέζα
+  - Κινέζος
+  - Chinese
+  - Ĉiniano
+  - china
+  - chino
+  - Chinois
+  - Chinoise
+  - סיני
+  - סינים
+  - סינית
+  - kínai
+  - cinese
+  - cinesi
+  - 中国人
+  - jonguo
+  - xines
+  - Chińczyk
+  - چيني
+  - seciukuk
+  - chinez
+  - chinezi
+  - chinezoaică
+  - китаец
+  - китайцы
+  - китаянка
+  - Кинез
+  - Кинези
+  - Кинескиња
+  - kinesisk
+  - китаєць
+  - китайці
+  - китаянка
+  - cineza
+  - cineze
+  - cinezi
+  - cinezo
+  - Tsyinänan
+  - 中国人
+  - 中國人
+  - Kitajka
+  - شينوية
+  - شينوي
+  - شناوا
+  - شينويات
+  - Kitajec
+  - Síneach
 Inequality_adjusted_Human_Development_Index: 0.651
 birth_rate: 6.77
 death_rate: 7.37
@@ -908,16 +908,16 @@ area: 9596961
 inception: "1949-10-01"
 has_time_started: "1949-10-01"
 male_population:
-- 720646499
-- 720928153
-- 721140373
-- 723339956
-- 719565010
+  - 720646499
+  - 720928153
+  - 721140373
+  - 723339956
+  - 719565010
 Baidu_Tieba_name: 中国
 coordinates_of_easternmost_point: "Point(134.76851463 47.7352827)"
 nominal_GDP:
-- 17963170521080
-- 17820459342451
+  - 17963170521080
+  - 17820459342451
 urban_population: 901991162
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
@@ -1098,11 +1098,11 @@ Capital :: [[China/provinces~China/Beijing/City/Beijing=Peking]]
 > **China**, officially the People's Republic of China (PRC), is a country in East Asia. 
 > With a population exceeding 1.4 billion, it is the second-most populous country after India, 
 > representing 17.4% of the world population. 
-> 
+>
 > China spans the equivalent of five time zones and borders fourteen countries by land 
 > across an area of nearly 9.6 million square kilometers (3,700,000 sq mi), 
 > making it the third-largest country by total land area. 
-> 
+>
 > The country is divided into 33 province-level divisions: 
 > - 22 provinces, 
 > - 5 autonomous regions,
@@ -1113,7 +1113,7 @@ Capital :: [[China/provinces~China/Beijing/City/Beijing=Peking]]
 >
 > China is considered one of the cradles of civilization: 
 > the first human inhabitants in the region arrived during the Paleolithic. 
-> 
+>
 > By the late 2nd millennium BCE, the earliest dynastic states had emerged in the Yellow River basin. 
 > The 8th–3rd centuries BCE saw a breakdown in the authority of the Zhou dynasty, 
 > accompanied by the emergence of administrative 

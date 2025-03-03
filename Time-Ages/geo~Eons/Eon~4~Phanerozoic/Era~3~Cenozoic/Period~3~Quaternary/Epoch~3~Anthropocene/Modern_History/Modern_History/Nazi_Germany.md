@@ -9,8 +9,10 @@ name in native language: Deutsches Reich
 official name: Deutsches Reich
 area: 696.265
 motto text: Ein Volk, ein Reich, ein Führer
-"dissolved, abolished or demolished date": 1945-05-23T00:00:00Z
-inception: 1933-03-15T00:00:00Z
+"dissolved, abolished or demolished date": 1945-05-23T00:00:00Z 
+has_time_stopped: 1945-05-23T00:00:00Z 
+inception: 1933-03-15T00:00:00Z 
+has_time_started: 1933-03-15T00:00:00Z 
 shares border with:
   - "[[_Standards/WikiData/WD~Vichy France,69808]]"
   - "[[_Standards/WikiData/WD~French Third Republic,70802]]"

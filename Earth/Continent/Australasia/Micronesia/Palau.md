@@ -81,33 +81,33 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+09_00,7041]]'
 archives_at: "[[_Standards/WikiData/WD~Palau_National_Archive,106690310]]"
 demonym:
-- Palavčan
-- Palavčanka
-- پالاوي
-- پالاويات
-- پالاوية
-- پالاويين
-- Palaois
-- Palaoise
-- פלאואני
-- פלאואנית
-- palaui
-- Palauano
-- belau
-- بالاوي
-- بالاوية
-- بالاويون
+  - Palavčan
+  - Palavčanka
+  - پالاوي
+  - پالاويات
+  - پالاوية
+  - پالاويين
+  - Palaois
+  - Palaoise
+  - פלאואני
+  - פלאואנית
+  - palaui
+  - Palauano
+  - belau
+  - بالاوي
+  - بالاوية
+  - بالاويون
 - "de Paláu"
-- পালাউয়ীয়
-- Palauan
-- Palaŭano
+  - পালাউয়ীয়
+  - Palauan
+  - Palaŭano
 official_name:
 - "Beluu er a Belau"
-- 帛琉共和國
-- Palau
+  - 帛琉共和國
+  - Palau
 - "la République des Palaos"
 native_label:
-- Belau
+  - Belau
 - "Republic of Palau"
 coordinates_of_westernmost_point: "Point(131.12388889 3.00583333)"
 Wolfram_Language_entity_code:
@@ -148,48 +148,48 @@ located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]
 mains_voltage: 120
 compulsory_education_maximum_age_: 14
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 maximum_temperature_record: 35
 death_rate:
-- 8.4
-- 9.7
-- 10.2
-- 11.4
+  - 8.4
+  - 9.7
+  - 10.2
+  - 11.4
 birth_rate:
-- 8.8
-- 11.2
-- 12.1
-- 12.7
+  - 8.8
+  - 11.2
+  - 12.1
+  - 12.7
 minimum_temperature_record: 18.9
 total_fertility_rate: 2.02
 OpenStreetMap_zoom_level: 8
 number_of_out_of_school_children: 539
 Human_Development_Index: 0.767
 male_population:
-- 9380
-- 9376
-- 9377
-- 9379
+  - 9380
+  - 9376
+  - 9377
+  - 9379
 nominal_GDP: 217800000
 rural_population:
-- 3258
-- 3338
-- 3417
-- 3499
+  - 3258
+  - 3338
+  - 3417
+  - 3499
 OmegaWiki_Defined_Meaning: 8093
 female_population:
-- 8537
-- 8595
-- 8643
-- 8679
+  - 8537
+  - 8595
+  - 8643
+  - 8679
 FIPS_5_2_numeric_code_US_states_: 70
 mobile_country_code: 552
 urban_population:
-- 14417
-- 14555
-- 14686
-- 14797
+  - 14417
+  - 14555
+  - 14686
+  - 14797
 maritime_identification_digits: 511
 population: 21729
 FIPS_10_4_countries_and_regions_: PS
@@ -204,7 +204,7 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pala
 IOC_country_code: PLW
 short_name:
 - "\U0001F1F5\U0001F1FC"
-- PW
+  - PW
 coordinates_of_northernmost_point: "Point(134.63 8.17)"
 inception: "1994-10-01"
 has_time_started: "1994-10-01"
@@ -235,11 +235,11 @@ Krugosvet_article: strany_mira/PALAU.html
 MeSH_tree_code: Z01.639.760.680.717
 has_id_wikidata: Q695
 location:
-- 7.35
-- 134.467
+    - 7.35
+    - 134.467
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27002
 isDeleted: false
 confidential: public
@@ -256,21 +256,21 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Palau
-- Palaos
-- بالاو
-- 帕劳
-- Палау
+    - Palau
+    - Palaos
+    - بالاو
+    - 帕劳
+    - Палау
 - "the Republic of Palau"
 - "la República de Palau"
 Languages:
-- pau
-- sov
-- en-PW
-- tox
-- ja
-- fil
-- zh
+    - pau
+    - sov
+    - en-PW
+    - tox
+    - ja
+    - fil
+    - zh
 icon: flag-pw
 ---
 

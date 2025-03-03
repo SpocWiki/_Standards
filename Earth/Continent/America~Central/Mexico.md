@@ -1,10 +1,10 @@
 ---
 location:
-- 19.4
-- -99.15
+  - 19.4
+  - -99.15
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q96
 SpocWebEntityId: 26974
 isDeleted: false
@@ -22,16 +22,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Mexico
-- México
-- Mexique
-- المكسيك
-- 墨西哥
-- Мексика
+  - Mexico
+  - México
+  - Mexique
+  - المكسيك
+  - 墨西哥
+  - Мексика
 - "the United Mexican States"
 - "los Estados Unidos Mexicanos"
 Languages:
-- es-MX
+  - es-MX
 icon: flag-mx
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Morelos,66117]]'
@@ -250,7 +250,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Opata,2304583]]'
 - "[[_Standards/WikiData/WD~Temascaltepec_Nahuatl,2379405]]"
 - "[[_Standards/WikiData/WD~Isthmus-Pajapan_Nahuatl,2391273]]"
-- "[[_Standards/WikiData/WD~O'odham,2393095]]"
+  - "[[_Standards/WikiData/WD~O'odham,2393095]]"
 - "[[_Standards/WikiData/WD~Huaxcaleca_Nahuatl,2454915]]"
 - "[[_Standards/WikiData/WD~Ometepec_Náhuatl,2579500]]"
 - "[[_Standards/WikiData/WD~Western_Huasteca_Nahuatl,2678840]]"
@@ -512,7 +512,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Mazahua,36228]]'
 - '[[_Standards/WikiData/WD~Seri,36583]]'
 - '[[_Standards/WikiData/WD~Tektitek,36686]]'
-- "[[_Standards/WikiData/WD~Tojolab'al,36762]]"
+  - "[[_Standards/WikiData/WD~Tojolab'al,36762]]"
 - '[[_Standards/WikiData/WD~Purépecha,36803]]'
 - '[[_Standards/WikiData/WD~Tzeltal,36808]]'
 - '[[_Standards/WikiData/WD~Tzotzil,36809]]'
@@ -595,12 +595,12 @@ Dewey_Decimal_Classification: 2--72
 Provenio_UUID: 461f1fe8-908d-47b0-98fb-4295967e13be
 BHCL_UUID: 5ac00524-81e0-494a-8bcb-9c58e937a0ed
 hashtag:
-- mexicocreativo
-- mexicolove
+  - mexicocreativo
+  - mexicolove
 - "Mi  México"
 - "Nacion    Azteca"
 - "viva México"
-- mexico
+  - mexico
 Colon_Classification: SG--74
 Krugosvet_article: strany_mira/MEKSIKA.html
 Baidu_Tieba_name: 墨西哥
@@ -624,7 +624,7 @@ official_name:
 - "המדינות המקסיקניות המאוחדות"
 - "Sjedinjene Meksičke Države"
 - "Մեքսիկայի Միացյալ Նահանգներ"
-- メキシコ合衆国
+  - メキシコ合衆国
 - "მექსიკის შეერთებული შტატები"
 - "Мексикэ Штат Зэгуэт"
 - "멕시코 합중국"
@@ -635,71 +635,71 @@ official_name:
 - "Мексиканские Соединённые Штаты"
 - "Сједињене Мексичке Државе"
 - "Mexikos förenta stater"
-- 墨西哥合众国
+  - 墨西哥合众国
 - "Meksiko Serikat"
 - "Estados Unidos Mexicanos"
 demonym:
-- مكسيكي
-- مكسيكية
-- mexicana
-- মেক্সিকীয়
-- mexicana
-- Mexikanerin
-- Meksikano
-- mexicanas
-- Mexicaine
-- מקסיקני
-- מקסיקנית
-- mexikói
-- Mexikiano
-- messicana
-- messicane
-- messicani
-- messicano
-- mexican
-- mexikatl
-- mexican
-- mexicancă
-- mexicani
-- мексиканцы
-- mexikan
-- мексиканець
-- мексиканка
-- мексиканці
-- mesegan
-- mesegana
-- mesegane
-- mesegani
-- Mäxikänan
-- Meicsiceach
-- ميكسيكي
-- ميكسيكيات
-- ميكسيكية
-- ميكسيكيين
-- mexicana
-- Mexican
-- Mexicans
-- mexicanu
-- Mexicain
-- Mexikaner
-- mexicà
-- mexicano
-- مكسيكيون
-- mexicans
-- mexicanos
-- メキシコ人
-- мексиканец
-- мексиканка
+  - مكسيكي
+  - مكسيكية
+  - mexicana
+  - মেক্সিকীয়
+  - mexicana
+  - Mexikanerin
+  - Meksikano
+  - mexicanas
+  - Mexicaine
+  - מקסיקני
+  - מקסיקנית
+  - mexikói
+  - Mexikiano
+  - messicana
+  - messicane
+  - messicani
+  - messicano
+  - mexican
+  - mexikatl
+  - mexican
+  - mexicancă
+  - mexicani
+  - мексиканцы
+  - mexikan
+  - мексиканець
+  - мексиканка
+  - мексиканці
+  - mesegan
+  - mesegana
+  - mesegane
+  - mesegani
+  - Mäxikänan
+  - Meicsiceach
+  - ميكسيكي
+  - ميكسيكيات
+  - ميكسيكية
+  - ميكسيكيين
+  - mexicana
+  - Mexican
+  - Mexicans
+  - mexicanu
+  - Mexicain
+  - Mexikaner
+  - mexicà
+  - mexicano
+  - مكسيكيون
+  - mexicans
+  - mexicanos
+  - メキシコ人
+  - мексиканец
+  - мексиканка
 motto_text: "Derecho ajeno es la paz"
 native_label:
-- Mexko
-- Mexico
-- México
+  - Mexko
+  - Mexico
+  - México
 short_name:
 - "\U0001F1F2\U0001F1FD"
-- México
-- Мексика
-- المكسيك
+  - México
+  - Мексика
+  - المكسيك
 different_from: '[[_Standards/WikiData/WD~Meksyk,11777000]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
@@ -736,10 +736,10 @@ nighttime_view:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Sobrevuelos%20CDMX%20HJ2A6205%20%2825514127817%29.jpg"
 MeSH_tree_code: Z01.107.567.589
 urban_population:
-- 100623628
-- 101719689
-- 102651435
-- 103660854
+  - 100623628
+  - 101719689
+  - 102651435
+  - 103660854
 coordinates_of_southernmost_point: "Point(-92.228611111 14.530555555)"
 continent: "[[_Standards/WikiData/WD~North_America,49]]"
 located_in_or_next_to_body_of_water:
@@ -748,29 +748,29 @@ located_in_or_next_to_body_of_water:
 country: '[[_Standards/WikiData/WD~Mexico,96]]'
 unemployment_rate: 5
 BTI_Governance_Index:
-- 6
-- 5.9
-- 4.69
-- 5.02
-- 5.17
-- 5.34
-- 5.57
-- 5.64
-- 5.81
+  - 6
+  - 5.9
+  - 4.69
+  - 5.02
+  - 5.17
+  - 5.34
+  - 5.57
+  - 5.64
+  - 5.81
 VAT_rate: 16
 marriageable_age: 18
 age_of_majority: 18
 suicide_rate: 5.3
 BTI_Status_Index:
-- 6.2
-- 6.4
-- 6.9
-- 7.3
-- 6.01
-- 6.23
-- 6.85
-- 7.09
-- 7.13
+  - 6.2
+  - 6.4
+  - 6.9
+  - 7.3
+  - 6.01
+  - 6.23
+  - 6.85
+  - 7.09
+  - 7.13
 retirement_age: 65
 life_expectancy: 75
 mains_voltage: 127
@@ -810,8 +810,8 @@ PM20_geo_code: E20
 OmegaWiki_Defined_Meaning: 155305
 number_of_out_of_school_children: 4330276
 nominal_GDP:
-- 1272838810896
-- 1414187193992
+  - 1272838810896
+  - 1414187193992
 Commons_gallery: México
 coordinates_of_easternmost_point: "Point(-86.74072981 21.135385)"
 coordinates_of_geographic_center: "Point(-99.895833333 20.520833333)"
@@ -819,24 +819,24 @@ U_S_National_Archives_Identifier: 10044640
 inception: "1810-09-16"
 has_time_started: "1810-09-16"
 rural_population:
-- 23843271
-- 24053703
-- 24278613
-- 24461683
+  - 23843271
+  - 24053703
+  - 24278613
+  - 24461683
 official_website: "https://www.gob.mx/"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Mexico.svg"
 coordinates_of_westernmost_point: "Point(-117.12464333 32.52293411)"
 coordinate_location: "Point(-102.0 23.0)"
 male_population:
-- 61187228
-- 61587451
-- 61856137
-- 62194954
+  - 61187228
+  - 61587451
+  - 61856137
+  - 62194954
 female_population:
-- 63898082
-- 64410851
-- 64849001
-- 65309171
+  - 63898082
+  - 64410851
+  - 64849001
+  - 65309171
 ---
 
 # [[Mexico]] 

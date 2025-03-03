@@ -146,58 +146,58 @@ category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q61382698,61
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Estonia,97011195]]"
 Provenio_UUID: 62c98b8c-02e1-4f49-8363-2db6d422a1d4
 demonym:
-- Estonec
-- إسطوني
-- إسطونيات
-- إسطونية
-- إسطونيين
-- Eastónach
-- Este
-- Est
-- إستوني
-- إستونية
-- estoniana
-- estonianu
-- এস্তোনীয়
-- estonià
-- estoniana
-- ester
-- estlænder
-- Estin
-- estnisch
-- Εσθονή
-- Εσθονός
-- Estonienne
-- אסטוני
-- אסטונית
-- észt
-- Estoniano
-- estone
-- esti
-- estonian
-- estoniană
-- estonieni
-- эстонка
-- естонка
-- èstona
-- èstone
-- èstono
-- Lestiyänan
-- إستونيون
-- Εσθονοί
-- eestlased
-- virolaiset
-- Estonien
-- estoni
-- igauņi
-- эстонец
-- эстонки
-- эстонцы
-- естонець
-- естонці
-- èstoni
-- Estonian
-- Estonka
+  - Estonec
+  - إسطوني
+  - إسطونيات
+  - إسطونية
+  - إسطونيين
+  - Eastónach
+  - Este
+  - Est
+  - إستوني
+  - إستونية
+  - estoniana
+  - estonianu
+  - এস্তোনীয়
+  - estonià
+  - estoniana
+  - ester
+  - estlænder
+  - Estin
+  - estnisch
+  - Εσθονή
+  - Εσθονός
+  - Estonienne
+  - אסטוני
+  - אסטונית
+  - észt
+  - Estoniano
+  - estone
+  - esti
+  - estonian
+  - estoniană
+  - estonieni
+  - эстонка
+  - естонка
+  - èstona
+  - èstone
+  - èstono
+  - Lestiyänan
+  - إستونيون
+  - Εσθονοί
+  - eestlased
+  - virolaiset
+  - Estonien
+  - estoni
+  - igauņi
+  - эстонец
+  - эстонки
+  - эстонцы
+  - естонець
+  - естонці
+  - èstoni
+  - Estonian
+  - Estonka
 ISNI: 0000000121547281
 official_website: "https://valitsus.ee/"
 motto_text:
@@ -220,35 +220,35 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Latvia,211]]'
 birth_rate:
-- 10
-- 8.6
-- 9.9
-- 10.6
+  - 10
+  - 8.6
+  - 9.9
+  - 10.6
 VAT_rate:
-- 20
-- 9
+  - 20
+  - 9
 country: '[[_Standards/WikiData/WD~Estonia,191]]'
 suicide_rate: 12
 death_rate:
-- 14
-- 11.6
-- 11.9
-- 12.8
+  - 14
+  - 11.6
+  - 11.9
+  - 12.8
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
 unemployment_rate: 5.4
 retirement_age: 63
 BTI_Governance_Index:
-- 7.4
-- 7.02
-- 7.26
-- 7.33
-- 7.35
-- 7.37
-- 7.41
-- 7.44
-- 7.46
+  - 7.4
+  - 7.02
+  - 7.26
+  - 7.33
+  - 7.35
+  - 7.37
+  - 7.41
+  - 7.44
+  - 7.46
 Human_Development_Index: 0.89
 total_fertility_rate: 1.52
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ee,38908]]'
@@ -260,20 +260,20 @@ maritime_identification_digits: 276
 Democracy_Index: 7.84
 Inequality_adjusted_Human_Development_Index: 0.829
 BTI_Status_Index:
-- 9.28
-- 9.29
-- 9.34
-- 9.42
-- 9.47
-- 9.49
-- 9.52
-- 9.54
+  - 9.28
+  - 9.29
+  - 9.34
+  - 9.42
+  - 9.47
+  - 9.49
+  - 9.52
+  - 9.54
 number_of_out_of_school_children: 5533
 IAB_code: 1290
 NUTS_code:
-- EE
-- EE0
-- EE00
+  - EE
+  - EE0
+  - EE00
 WIPO_ST_3: EE
 ISO_3166_1_alpha_2_code: EE
 Image_Archive_Herder_Institute: Q191
@@ -290,45 +290,45 @@ Commons_category: Estonia
 DPLA_subject_term: Estonia
 OmegaWiki_Defined_Meaning: 8003
 short_name:
-- Estonia
-- Эстония
-- Эстонія
-- Estland
-- Estija
-- Igaunija
-- Естонія
+  - Estonia
+  - Эстония
+  - Эстонія
+  - Estland
+  - Estija
+  - Igaunija
+  - Естонія
 - "\U0001F1EA\U0001F1EA"
-- Estonia
-- Eesti
-- Estland
-- Estland
-- Viro
-- Estland
+  - Estonia
+  - Eesti
+  - Estland
+  - Estland
+  - Viro
+  - Estland
 INSEE_countries_and_foreign_territories_code: 99106
 nominal_GDP: 38100812959
 rural_population:
-- 407066
-- 409107
-- 409926
-- 410662
+  - 407066
+  - 409107
+  - 409926
+  - 410662
 male_population:
-- 627427
-- 629878
-- 631228
-- 640385
+  - 627427
+  - 629878
+  - 631228
+  - 640385
 female_population:
-- 699471
-- 699645
-- 699703
-- 708455
+  - 699471
+  - 699645
+  - 699703
+  - 708455
 U_S_National_Archives_Identifier: 10045224
 BHCL_UUID:
-- 6834f2c6-60dd-4f3c-b6d6-20ce26400ee7
-- b2949b11-d3c4-4e02-999c-f70738ff1fcc
+  - 6834f2c6-60dd-4f3c-b6d6-20ce26400ee7
+  - b2949b11-d3c4-4e02-999c-f70738ff1fcc
 UMLS_CUI: C0014908
 GitHub_topic:
-- eesti
-- estonia
+  - eesti
+  - estonia
 subreddit: eesti
 Commons_gallery: Eesti
 Facebook_username: eesti.ee
@@ -342,10 +342,10 @@ official_name: "Eesti Vabariik"
 native_label: "Eesti Vabariik"
 name_in_native_language: "Eesti Vabariik"
 urban_population:
-- 916236
-- 920415
-- 923866
-- 938914
+  - 916236
+  - 920415
+  - 923866
+  - 938914
 population: 1374687
 CIVICUS_Monitor_country_entry: estonia
 coordinates_of_westernmost_point: "Point(21.76433444 58.32290042)"
@@ -374,11 +374,11 @@ pronunciation_audio:
 country_calling_code: +372
 has_id_wikidata: Q191
 location:
-- 59.4167
-- 24.75
+    - 59.4167
+    - 24.75
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26885
 isDeleted: false
 confidential: public
@@ -395,16 +395,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Estonia
-- Estonie
-- إستونيا
-- 爱沙尼亚
-- Эстония
+    - Estonia
+    - Estonie
+    - إستونيا
+    - 爱沙尼亚
+    - Эстония
 - "the Republic of Estonia"
 - "la República de Estonia"
 Languages:
-- et
-- ru
+    - et
+    - ru
 icon: flag-ee
 ---
 

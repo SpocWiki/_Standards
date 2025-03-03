@@ -141,15 +141,15 @@ open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Iceland,97013423]]"
 coordinates_of_northernmost_point: "Point(-18.68 67.13)"
 official_name:
 - "Komara Îslendayê"
-- Ísland
+  - Ísland
 - "Islandi Vabariik"
 - "la République d’Islande"
 - "Lýðveldið Ísland"
 - "Republiken Island"
 ISNI: 0000000121893811
 MeSH_tree_code:
-- Z01.542.816.249
-- Z01.639.490
+  - Z01.542.816.249
+  - Z01.639.490
 nominal_GDP: 27841648044
 official_language: '[[_Standards/WikiData/WD~Icelandic,294]]'
 capital: '[[_Standards/WikiData/WD~Reykjavík,1764]]'
@@ -169,13 +169,13 @@ continent: '[[_Standards/WikiData/WD~Europe,46]]'
 lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 country: '[[_Standards/WikiData/WD~Iceland,189]]'
 speed_limit:
-- 50
-- 80
-- 90
+  - 50
+  - 80
+  - 90
 unemployment_rate: 5
 death_rate:
-- 7
-- 6.3
+  - 7
+  - 6.3
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
@@ -185,9 +185,9 @@ Happy_Planet_Index_score: 48
 life_expectancy: 82
 suicide_rate: 11.2
 birth_rate:
-- 11.5
-- 12.3
-- 13.1
+  - 11.5
+  - 12.3
+  - 13.1
 total_fertility_rate: 1.93
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.is,39896]]'
 Gini_coefficient: 26.1
@@ -199,19 +199,19 @@ Democracy_Index: 9.37
 Human_Development_Index: 0.959
 follows: "[[_Standards/WikiData/WD~Kingdom_of_Iceland,62567]]"
 male_population:
-- 195800
-- 184880
-- 187982
-- 190942
+  - 195800
+  - 184880
+  - 187982
+  - 190942
 rural_population:
-- 22560
-- 22157
-- 22362
-- 22951
+  - 22560
+  - 22157
+  - 22362
+  - 22951
 NUTS_code:
-- IS
-- IS00
-- IS0
+  - IS
+  - IS00
+  - IS0
 licence_plate_code: IS
 ISO_3166_1_alpha_2_code: IS
 WIPO_ST_3: IS
@@ -221,18 +221,18 @@ mobile_country_code: 274
 GS1_country_code: 569
 OmegaWiki_Defined_Meaning: 5728
 urban_population:
-- 349960
-- 338406
-- 344101
-- 359052
+  - 349960
+  - 338406
+  - 344101
+  - 359052
 population: 364260
 Dewey_Decimal_Classification: 2--4912
 area: 103004
 female_population:
-- 175683
-- 178482
-- 181577
-- 186202
+  - 175683
+  - 178482
+  - 181577
+  - 186202
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg"
 PM20_geo_code: A16
 FIPS_10_4_countries_and_regions_: IC
@@ -278,16 +278,16 @@ hashtag: Iceland
 Unicode_character: 🇮🇸 
 Commons_gallery: Ísland
 IPA_transcription:
-- ɪˈslan⁽ʲ⁾dʲɪjə
-- ɪˈslanʲdʲɪjə
+  - ɪˈslan⁽ʲ⁾dʲɪjə
+  - ɪˈslanʲdʲɪjə
 Krugosvet_article: strany_mira/ISLANDIYA.html
 has_id_wikidata: Q189
 location:
-- 64.614
-- -21.718
+    - 64.614
+    - -21.718
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26929
 isDeleted: false
 confidential: public
@@ -304,20 +304,20 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Iceland
-- Islandia
-- Islande
-- آيسلندا
-- 冰岛
-- Исландия
+    - Iceland
+    - Islandia
+    - Islande
+    - آيسلندا
+    - 冰岛
+    - Исландия
 - "the Republic of Iceland"
 - "la República de Islandia"
 Languages:
-- is
-- en
-- de
-- da
-- sv
+    - is
+    - en
+    - de
+    - da
+    - sv
 - no
 icon: flag-is
 ---

@@ -140,54 +140,54 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~15,25648869]]'
 - '[[_Standards/WikiData/WD~177,25743529]]'
 demonym:
-- marroquí
-- مغاربا
-- مغربيات
-- مغريبي
-- مغريبية
-- marroquí
-- marroquín
-- মরক্কী
-- Marokkanerin
-- Marokano
-- Marocaine
-- marokkói
-- Marokano
-- marocchina
-- marocchine
-- marocchini
-- magribi
-- marocan
-- marocan
-- marocană
-- marocani
-- марокканец
-- марокканка
-- марокканцы
-- marochin
-- marochina
-- marochine
-- marochini
-- Marokänan
-- Maročan
-- Maročanka
-- ⴰⵎⵓⵔⵉ
-- ⵜⴰⵎⵓⵔⵉⵜ
-- ⵜⵉⵎⵓⵔⵉⵢⵏ
+  - marroquí
+  - مغاربا
+  - مغربيات
+  - مغريبي
+  - مغريبية
+  - marroquí
+  - marroquín
+  - মরক্কী
+  - Marokkanerin
+  - Marokano
+  - Marocaine
+  - marokkói
+  - Marokano
+  - marocchina
+  - marocchine
+  - marocchini
+  - magribi
+  - marocan
+  - marocan
+  - marocană
+  - marocani
+  - марокканец
+  - марокканка
+  - марокканцы
+  - marochin
+  - marochina
+  - marochine
+  - marochini
+  - Marokänan
+  - Maročan
+  - Maročanka
+  - ⴰⵎⵓⵔⵉ
+  - ⵜⴰⵎⵓⵔⵉⵜ
+  - ⵜⵉⵎⵓⵔⵉⵢⵏ
 - "orang Maghribi"
-- Maracach
-- مغربية
-- مغاربة
-- Marokkaner
-- מרוקאי
-- Marocain
-- Moroccan
-- מרוקאית
-- marocchino
-- مغربي
+  - Maracach
+  - مغربية
+  - مغاربة
+  - Marokkaner
+  - מרוקאי
+  - Marocain
+  - Moroccan
+  - מרוקאית
+  - marocchino
+  - مغربي
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 official_name:
-- Maghribi
+  - Maghribi
 - "Kongeriget Marokko"
 - "Kingdom of Morocco"
 - "Reino de Marruecos"
@@ -197,8 +197,8 @@ official_name:
 - "Kerajaan Maghribi"
 - "لمملكة لمغريبية"
 - "Regno del Maroco"
-- Morocco
-- المغرب
+  - Morocco
+  - المغرب
 - "المملكة المغربية"
 open_data_portal: "[[_Standards/WikiData/WD~Morocco_Data_Portal,97011662]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Morocco.map"
@@ -256,34 +256,34 @@ located_in_or_next_to_body_of_water:
 unemployment_rate: 10
 VAT_rate: 20
 BTI_Governance_Index:
-- 4
-- 4.2
-- 4.4
-- 4.6
-- 4.28
-- 4.37
-- 4.52
-- 4.75
-- 4.84
+  - 4
+  - 4.2
+  - 4.4
+  - 4.6
+  - 4.28
+  - 4.37
+  - 4.52
+  - 4.75
+  - 4.84
 compulsory_education_minimum_age_: 6
 vehicles_per_thousand_people:
-- 80
-- 53
+  - 80
+  - 53
 compulsory_education_maximum_age_: 15
 marriageable_age: 18
 mains_voltage:
-- 220
-- 127
+  - 220
+  - 127
 BTI_Status_Index:
-- 4.5
-- 4.6
-- 4.7
-- 4.47
-- 4.52
-- 4.61
-- 4.62
-- 4.65
-- 4.77
+  - 4.5
+  - 4.6
+  - 4.7
+  - 4.47
+  - 4.52
+  - 4.61
+  - 4.62
+  - 4.65
+  - 4.77
 retirement_age: 65
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ma,41439]]'
 social_media_followers: 28200
@@ -296,10 +296,10 @@ Inequality_adjusted_Human_Development_Index: 0.504
 Happy_Planet_Index_score: 50.9
 aircraft_registration_prefix: CN
 death_rate:
-- 6.17
-- 5.658
-- 5.766
-- 6.073
+  - 6.17
+  - 5.658
+  - 5.766
+  - 6.073
 Human_Development_Index: 0.683
 head_of_state: "[[_Standards/WikiData/WD~Mohammed_VI_of_Morocco,57553]]"
 total_fertility_rate: 2.515
@@ -309,10 +309,10 @@ UIC_alphabetical_country_code: MA
 licence_plate_code: MA
 ISO_3166_1_alpha_2_code: MA
 birth_rate:
-- 17.161
-- 17.545
-- 17.889
-- 18.337
+  - 17.161
+  - 17.545
+  - 17.889
+  - 18.337
 maritime_identification_digits: 242
 ISO_3166_1_numeric_code: 504
 M49_code: 504
@@ -320,8 +320,8 @@ GS1_country_code: 611
 mobile_country_code: 604
 native_label:
 - "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ"
-- ⵍⵎⵖⵔⵉⴱ
-- المغرب
+  - ⵍⵎⵖⵔⵉⴱ
+  - المغرب
 - "المملكة المغربية"
 short_name: "\U0001F1F2\U0001F1E6"
 inception: "0789"
@@ -335,8 +335,8 @@ motto_text:
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Volubilis%20Longshot%20II.jpg"
 MeSH_tree_code: Z01.058.266.629
 nominal_GDP:
-- 134181587770
-- 142866583125
+  - 134181587770
+  - 142866583125
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 country: '[[_Standards/WikiData/WD~Morocco,1028]]'
 capital: '[[_Standards/WikiData/WD~Rabat,3551]]'
@@ -344,8 +344,8 @@ minimum_temperature_record: -23.9
 part_of: "[[_Standards/WikiData/WD~North_Africa,27381]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 population:
-- 37076584
-- 36828330
+  - 37076584
+  - 36828330
 coordinates_of_easternmost_point: "Point(-0.99842 32.51311)"
 coordinates_of_southernmost_point: "Point(-13.000833 21.334026)"
 Commons_gallery: "المغرب / ⵍⵎⵖⵔⵉⴱ / Maroc"
@@ -361,10 +361,10 @@ ISO_3166_1_alpha_3_code: MAR
 IOC_country_code: MAR
 number_of_out_of_school_children: 1137547
 rural_population:
-- 13261620
-- 13323470
-- 13379661
-- 13434809
+  - 13261620
+  - 13323470
+  - 13379661
+  - 13434809
 U_S_National_Archives_Identifier: 10035766
 PM20_geo_code: C24
 coordinates_of_northernmost_point: "Point(-5.40141 35.92243)"
@@ -379,20 +379,20 @@ subreddit: Morocco
 Commons_category: Morocco
 hashtag: Morocco
 female_population:
-- 18022621
-- 18213816
-- 18410922
-- 18605603
+  - 18022621
+  - 18213816
+  - 18410922
+  - 18605603
 male_population:
-- 18281786
-- 18474956
-- 18665663
-- 18852368
+  - 18281786
+  - 18474956
+  - 18665663
+  - 18852368
 urban_population:
-- 22869599
-- 23309111
-- 23753114
-- 24196351
+  - 22869599
+  - 23309111
+  - 23753114
+  - 24196351
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/A%C3%AFt%20Arbi%20%28Maroc%29%20banner%20Vall%C3%A9e%20des%20Gorges%20du%20Dad%C3%A8s.jpg"
 has_id_wikidata: Q1028
 location:

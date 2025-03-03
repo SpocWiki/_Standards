@@ -1,10 +1,10 @@
 ---
 location:
-- 29.33
-- 48
+  - 29.33
+  - 48
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26942
 isDeleted: false
 confidential: public
@@ -12,7 +12,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Kuwait
 linkTitle: 
@@ -22,16 +22,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Kuwait
-- Koweït
-- الكويت
-- 科威特
-- Кувейт
+  - Kuwait
+  - Koweït
+  - الكويت
+  - 科威特
+  - Кувейт
 - "the State of Kuwait"
 - "el Estado de Kuwait"
 Languages:
-- ar-KW
-- en
+  - ar-KW
+  - en
 icon: flag-kw
 has_id_wikidata: Q817
 shares_border_with:
@@ -108,42 +108,42 @@ coordinates_of_easternmost_point: "Point(48.784722222 28.822777777)"
 coordinates_of_southernmost_point: "Point(47.70489 28.52445)"
 official_name:
 - "دَولَةُ الكُوَيت"
-- Koweït
+  - Koweït
 BHCL_UUID: 913f1295-57f3-4e8a-afd9-aac0e295969f
 demonym:
-- كويتي
-- كويتية
-- كويتيين
-- كويتيات
-- Kuvajtčan
-- Kuvajtčanka
-- Cuátach
-- كويتية
-- كويتيون
-- kuwaitiana
-- kuwaitianu
-- কুয়েতি
-- Kuvajtano
-- Koweïtien
-- Koweïtienne
-- כוויתי
-- כוויתית
-- kuvaiti
-- Kuwaitano
-- kuwaitiana
-- kuwaitiane
-- kuwaitiani
-- kuwaitiano
-- cuaiti
-- Koeweiter
-- Koeweiti
-- kuwaitian
-- kuwaitiana
-- kuwaitiane
-- kuwaitiani
-- Kovätänan
-- كويتي
-- Kuwaiti
+  - كويتي
+  - كويتية
+  - كويتيين
+  - كويتيات
+  - Kuvajtčan
+  - Kuvajtčanka
+  - Cuátach
+  - كويتية
+  - كويتيون
+  - kuwaitiana
+  - kuwaitianu
+  - কুয়েতি
+  - Kuvajtano
+  - Koweïtien
+  - Koweïtienne
+  - כוויתי
+  - כוויתית
+  - kuvaiti
+  - Kuwaitano
+  - kuwaitiana
+  - kuwaitiane
+  - kuwaitiani
+  - kuwaitiano
+  - cuaiti
+  - Koeweiter
+  - Koeweiti
+  - kuwaitian
+  - kuwaitiana
+  - kuwaitiane
+  - kuwaitiani
+  - Kovätänan
+  - كويتي
+  - Kuwaiti
 ISNI: 0000000404023410
 MeSH_tree_code: Z01.252.245.500.425
 diplomatic_relation:
@@ -175,26 +175,26 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 rural_population: 0
 unemployment_rate: 3
 marriageable_age:
-- 15
-- 17
+  - 15
+  - 17
 mains_voltage: 240
 BTI_Governance_Index:
-- 4.3
-- 3.94
-- 4.29
-- 4.37
-- 4.38
-- 4.52
-- 4.86
+  - 4.3
+  - 3.94
+  - 4.29
+  - 4.37
+  - 4.38
+  - 4.52
+  - 4.86
 BTI_Status_Index:
-- 5.2
-- 5.61
-- 5.79
-- 5.85
-- 5.91
-- 5.94
-- 5.96
-- 6.05
+  - 5.2
+  - 5.61
+  - 5.79
+  - 5.85
+  - 5.91
+  - 5.94
+  - 5.96
+  - 6.05
 lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
 capital: "[[_Standards/WikiData/WD~Kuwait_City,35178]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
@@ -211,16 +211,16 @@ Human_Development_Index: 0.831
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Kuwait,62251]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Kuwait,62438]]"
 birth_rate:
-- 10.41
-- 9.727
-- 11.797
-- 12.437
+  - 10.41
+  - 9.727
+  - 11.797
+  - 12.437
 total_fertility_rate: 2.105
 death_rate:
-- 2.194
-- 2.606
-- 2.906
-- 3.254
+  - 2.194
+  - 2.606
+  - 2.906
+  - 3.254
 population: 4464000
 OmegaWiki_Defined_Meaning: 8377
 GS1_country_code: 627
@@ -230,10 +230,10 @@ mobile_country_code: 419
 maritime_identification_digits: 447
 median_income: 40854
 urban_population:
-- 4441100
-- 4250114
-- 4268873
-- 4360444
+  - 4441100
+  - 4250114
+  - 4268873
+  - 4360444
 number_of_out_of_school_children: 49553
 life_expectancy: 74.694
 GitHub_topic: kuwait
@@ -247,18 +247,18 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%2
 FIPS_10_4_countries_and_regions_: KU
 INSEE_countries_and_foreign_territories_code: 99240
 male_population:
-- 2671060
-- 2590695
-- 2595948
-- 2738222
+  - 2671060
+  - 2590695
+  - 2595948
+  - 2738222
 PM20_geo_code: B29
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kuwait.svg"
 IOC_country_code: KUW
 female_population:
-- 1659419
-- 1672926
-- 1689384
-- 1702878
+  - 1659419
+  - 1672926
+  - 1689384
+  - 1702878
 ISO_3166_1_alpha_2_code: KW
 WIPO_ST_3: KW
 licence_plate_code: KWT
@@ -267,8 +267,8 @@ ITU_letter_code: KWT
 native_label: الكويت
 U_S_National_Archives_Identifier: 10035716
 nominal_GDP:
-- 184558274289
-- 136797422274
+  - 184558274289
+  - 136797422274
 coordinate_location: "Point(47.6 29.166667)"
 inception: "1991-02-26"
 has_time_started: "1991-02-26"

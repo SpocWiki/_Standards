@@ -87,7 +87,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Chali,3695197]]'
 - '[[_Standards/WikiData/WD~Nupbi,3695201]]'
 - '[[_Standards/WikiData/WD~Kheng,3695207]]'
-- "[[_Standards/WikiData/WD~'Ole,3695204]]"
+  - "[[_Standards/WikiData/WD~'Ole,3695204]]"
 - '[[_Standards/WikiData/WD~Lakha,56606]]'
 - '[[_Standards/WikiData/WD~Dzala,56607]]'
 - '[[_Standards/WikiData/WD~Chocangaca,56604]]'
@@ -122,40 +122,40 @@ Libris_URI: dbqsr4cx3v97mcz
 Krugosvet_article: strany_mira/BUTAN.html
 Gujarati_Vishwakosh_entry: ભુતાન
 demonym:
-- بوتاني
-- بوتانية
-- بوتانيون
-- butanés
-- butanesa
-- ভুটানি
-- bhutaner
-- bhoutanais
-- bhoutanaise
-- Bhoutanaise
-- בהוטני
-- בהוטנית
-- bhutáni
-- Bhutanano
-- bhutanese
-- bhutanesi
-- butan
-- drucpa
-- bhutanez
-- bhutaneză
-- bhutanezi
-- бутанцы
-- bhutaneza
-- bhutaneze
-- bhutanezi
-- bhutanezo
-- Butänan
-- Bhutanese
-- Bhoutanais
-- بوطاني
-- بوطانية
-- بوطانيات
-- بوطانيين
-- Bútánach
+  - بوتاني
+  - بوتانية
+  - بوتانيون
+  - butanés
+  - butanesa
+  - ভুটানি
+  - bhutaner
+  - bhoutanais
+  - bhoutanaise
+  - Bhoutanaise
+  - בהוטני
+  - בהוטנית
+  - bhutáni
+  - Bhutanano
+  - bhutanese
+  - bhutanesi
+  - butan
+  - drucpa
+  - bhutanez
+  - bhutaneză
+  - bhutanezi
+  - бутанцы
+  - bhutaneza
+  - bhutaneze
+  - bhutanezi
+  - bhutanezo
+  - Butänan
+  - Bhutanese
+  - Bhoutanais
+  - بوطاني
+  - بوطانية
+  - بوطانيات
+  - بوطانيين
+  - Bútánach
 motto_text:
 - "Mae hapusrwydd yn lle"
 - "Happiness is a place"
@@ -164,16 +164,16 @@ short_name: "\U0001F1E7\U0001F1F9"
 coordinate_location: "Point(90.5 27.45)"
 head_of_state: "[[_Standards/WikiData/WD~Jigme_Khesar_Namgyel_Wangchuck,57376]]"
 birth_rate:
-- 12.65
-- 12.332
-- 12.482
-- 12.871
+  - 12.65
+  - 12.332
+  - 12.482
+  - 12.871
 maritime_identification_digits: 410
 death_rate:
-- 6.356
-- 6.477
-- 6.545
-- 6.626
+  - 6.356
+  - 6.477
+  - 6.545
+  - 6.626
 IAB_code: 1253
 ISO_3166_1_alpha_2_code: BT
 FIPS_10_4_countries_and_regions_: BT
@@ -254,23 +254,23 @@ age_of_majority: 18
 total_fertility_rate: 1.8
 mains_voltage: 230
 BTI_Status_Index:
-- 5.7
-- 3.71
-- 4.36
-- 4.58
-- 6.02
-- 6.25
-- 6.28
-- 6.38
+  - 5.7
+  - 3.71
+  - 4.36
+  - 4.58
+  - 6.02
+  - 6.25
+  - 6.28
+  - 6.38
 BTI_Governance_Index:
-- 6.5
-- 5.02
-- 5.57
-- 5.77
-- 6.27
-- 6.58
-- 6.67
-- 6.69
+  - 6.5
+  - 5.02
+  - 5.57
+  - 5.77
+  - 6.27
+  - 6.58
+  - 6.67
+  - 6.69
 suicide_rate: 11.4
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bt,40001]]'
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
@@ -282,12 +282,12 @@ Human_Development_Index: 0.666
 life_expectancy: 71.5
 literacy_rate: 72.1
 location:
-- 27.417
-- 90.435
+    - 27.417
+    - 90.435
 type: Country
 tags:
-- geo/Country
-has_id_wikidata: Q917
+    - geo/Country
+has_id_wikidata: Q917 
 SpocWebEntityId: 26855
 isDeleted: false
 confidential: public
@@ -304,16 +304,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Bhutan
-- Bhután
-- Bhoutan
-- بوتان
-- 不丹
-- Бутан
+    - Bhutan
+    - Bhután
+    - Bhoutan
+    - بوتان
+    - 不丹
+    - Бутан
 - "the Kingdom of Bhutan"
 - "el Reino de Bhután"
 Languages:
-- dz
+    - dz
 icon: flag-bt
 ---
 

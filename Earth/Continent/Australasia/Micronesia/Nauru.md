@@ -1,10 +1,10 @@
 ---
 location:
-- -0.547778
-- 166.921
+  - -0.547778
+  - 166.921
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q697
 SpocWebEntityId: 26986
 isDeleted: false
@@ -22,15 +22,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Nauru
-- ناورو
-- 瑙鲁
-- Науру
+  - Nauru
+  - ناورو
+  - 瑙鲁
+  - Науру
 - "the Republic of Nauru"
 - "la República de Nauru"
 Languages:
-- na
-- en-NR
+  - na
+  - en-NR
 icon: flag-nu
 instance_of:
 - "[[_Standards/WikiData/WD~island_country,112099]]"
@@ -101,43 +101,43 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
 head_of_government: "[[_Standards/WikiData/WD~Russ_J_Kun,109781648]]"
 demonym:
-- ناوروي
-- ناوروية
-- ناورويين
-- ناورويات
-- Nárúch
-- ناورونية
-- Nauruan
-- Nauruan
-- נאורית
-- naurui
-- nauruano
-- nauero
-- nauruan
-- ناورونيون
-- науруанцы
-- ناوروني
-- nauruana
-- nauruanu
-- নাউরুয়ীয়
-- Naurano
-- Nauruane
-- נאורי
-- Nauruano
-- nauruana
-- nauruane
-- nauruani
-- nauruan
-- nauruană
-- nauruani
-- наурец
-- науруанец
-- науруанка
-- наурцы
-- nauruana
-- nauruane
-- nauruani
-- Naureänan
+  - ناوروي
+  - ناوروية
+  - ناورويين
+  - ناورويات
+  - Nárúch
+  - ناورونية
+  - Nauruan
+  - Nauruan
+  - נאורית
+  - naurui
+  - nauruano
+  - nauero
+  - nauruan
+  - ناورونيون
+  - науруанцы
+  - ناوروني
+  - nauruana
+  - nauruanu
+  - নাউরুয়ীয়
+  - Naurano
+  - Nauruane
+  - נאורי
+  - Nauruano
+  - nauruana
+  - nauruane
+  - nauruani
+  - nauruan
+  - nauruană
+  - nauruani
+  - наурец
+  - науруанец
+  - науруанка
+  - наурцы
+  - nauruana
+  - nauruane
+  - nauruani
+  - Naureänan
 Facebook_username: republicofnauru
 motto_text:
 - "Ewyllus Duw'n Gyntaf"
@@ -160,8 +160,8 @@ capital: "[[_Standards/WikiData/WD~Yaren_District,31026]]"
 lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 rural_population: 0
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 area: 21
 mains_voltage: 240
 life_expectancy: 64
@@ -169,10 +169,10 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.nr,42689]]'
 Gini_coefficient: 34.8
 number_of_out_of_school_children: 518
 female_population:
-- 6050
-- 5955
-- 6151
-- 6233
+  - 6050
+  - 5955
+  - 6151
+  - 6233
 head_of_state: "[[_Standards/WikiData/WD~David_Adeang,58096]]"
 population: 13650
 ISO_3166_1_numeric_code: 520
@@ -181,24 +181,24 @@ total_fertility_rate: 3.463
 mobile_country_code: 536
 maritime_identification_digits: 544
 male_population:
-- 6177
-- 6266
-- 6361
-- 6435
+  - 6177
+  - 6266
+  - 6361
+  - 6435
 death_rate: 6.582
 urban_population:
-- 12132
-- 12315
-- 12511
-- 12668
+  - 12132
+  - 12315
+  - 12511
+  - 12668
 FIPS_10_4_countries_and_regions_: NR
 ISO_3166_1_alpha_2_code: NR
 WIPO_ST_3: NR
 official_name:
-- Nauru
+  - Nauru
 - "Republic of Nauru"
 - "la République de Nauru"
-- Naoero
+  - Naoero
 - "Ripublik Naoero"
 birth_rate: 26.785
 OmegaWiki_Defined_Meaning: 154287
@@ -206,13 +206,13 @@ IAB_code: 1364
 INSEE_countries_and_foreign_territories_code: 99507
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Nauru.svg"
 PM20_geo_code:
-- D8
-- D16
+  - D8
+  - D16
 inception: "1968-01-31"
 has_time_started: "1968-01-31"
 nominal_GDP:
-- 145536603
-- 150922211
+  - 145536603
+  - 150922211
 IOC_country_code: NRU
 ISO_3166_1_alpha_3_code: NRU
 ITU_letter_code: NRU
@@ -242,7 +242,7 @@ Unicode_character: 🇳🇷
 X_Twitter_username: Republic_Nauru
 Krugosvet_article: strany_mira/NAURU.html
 native_label:
-- Naoero
+  - Naoero
 - "Ripublik Naoero"
 short_name: "\U0001F1F3\U0001F1F7"
 ---

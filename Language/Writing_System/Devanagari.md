@@ -61,19 +61,20 @@ located_in_the_administrative_territorial_entity:
 location_of_creation: "[[_Standards/WikiData/WD~Indian_subcontinent,60140]]"
 ISO_15924_numeric_code: 315
 Unicode_range:
-- U+A8E0-A8FF
-- U+0900-097F
-- U+1CD0-1CFF
+  - U+A8E0-A8FF
+  - U+0900-097F
+  - U+1CD0-1CFF
 native_label: देवनागरी
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20Verbreitung.svg"
 ISO_15924_alpha_4_code: Deva
 Commons_category: Devanagari
 name:
-- Devanagari
+  - Devanagari
 - "Devanagari (Nagari)"
-- dévanâgarî
+  - dévanâgarî
 inception: "1100"
 has_time_started: 1100-06 
+has_time_started: 1100-01-01T00:00:00Z 
 ---
 
 ## #has_/text_of_/abstract 

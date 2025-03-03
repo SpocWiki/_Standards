@@ -1,10 +1,10 @@
 ---
 location:
-- -33.45
-- -70.67
+  - -33.45
+  - -70.67
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q298
 SpocWebEntityId: 26868
 isDeleted: false
@@ -22,15 +22,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Chile
-- Chili
-- شيلي
-- 智利
-- Чили
+  - Chile
+  - Chili
+  - شيلي
+  - 智利
+  - Чили
 - "the Republic of Chile"
 - "la República de Chile"
 Languages:
-- es-CL
+  - es-CL
 icon: flag-cl
 Provenio_UUID: 6d152129-2582-495a-aa30-5522f23817c9
 maritime_identification_digits: 725
@@ -41,8 +41,8 @@ BHCL_UUID: 81f1edbf-513f-4adb-8111-19e0c9fd1700
 INSEE_countries_and_foreign_territories_code: 99417
 IOC_country_code: CHI
 CIVICUS_Monitor_country_entry:
-- chile
-- philippines
+  - chile
+  - philippines
 subreddit: chile
 GitHub_topic: chile
 Commons_category: Chile
@@ -59,48 +59,48 @@ licence_plate_code: RCH
 Colon_Classification: SG--7914
 Krugosvet_article: strany_mira/CHILI.html
 demonym:
-- تشيلي
-- تشيلية
-- تشيليون
-- شيلي
-- chilena
-- chilenu
-- চিলীয়
-- chilener
-- Chilene
-- Chilenin
-- Chilean
-- ĉiliano
-- chilena
-- chileno
-- Chilien
-- Chilienne
+  - تشيلي
+  - تشيلية
+  - تشيليون
+  - شيلي
+  - chilena
+  - chilenu
+  - চিলীয়
+  - chilener
+  - Chilene
+  - Chilenin
+  - Chilean
+  - ĉiliano
+  - chilena
+  - chileno
+  - Chilien
+  - Chilienne
 - "צ'יליאני"
-- chilei
-- Chiliano
-- cilena
-- cilene
-- cileni
-- cileno
-- txilan
-- chilian
-- chiliană
-- chilieni
-- чилиец
-- чилийка
-- чилийцы
-- чилієць
-- чилійка
-- чилійці
-- ciłen
-- ciłena
-- ciłene
-- ciłeni
-- Cilänan
-- Sileach
-- شيلية
-- شيليات
-- شيليين
+  - chilei
+  - Chiliano
+  - cilena
+  - cilene
+  - cileni
+  - cileno
+  - txilan
+  - chilian
+  - chiliană
+  - chilieni
+  - чилиец
+  - чилийка
+  - чилийцы
+  - чилієць
+  - чилійка
+  - чилійці
+  - ciłen
+  - ciłena
+  - ciłene
+  - ciłeni
+  - Cilänan
+  - Sileach
+  - شيلية
+  - شيليات
+  - شيليين
 motto_text:
 - "Durch Überzeugung oder mit Gewalt"
 - "By Right or Might"
@@ -109,10 +109,10 @@ motto_text:
 official_name:
 - "Republik Chile"
 - "Republic of Chile"
-- Chile
+  - Chile
 - "République du Chili"
 native_label:
-- Chile
+  - Chile
 - "República de Chile"
 short_name: "\U0001F1E8\U0001F1F1"
 death_rate: 7.199
@@ -121,27 +121,27 @@ number_of_out_of_school_children: 167350
 population: 19458000
 area: 756102
 rural_population:
-- 2352709
-- 2368728
-- 2369699
-- 2374855
+  - 2352709
+  - 2368728
+  - 2369699
+  - 2374855
 coordinates_of_southernmost_point: "Point(-68.72005 -56.53826)"
 male_population:
-- 9450404
-- 9579957
-- 9675022
-- 9729531
+  - 9450404
+  - 9579957
+  - 9675022
+  - 9729531
 female_population:
-- 9589082
-- 9720358
-- 9818163
-- 9874202
+  - 9589082
+  - 9720358
+  - 9818163
+  - 9874202
 coordinates_of_westernmost_point: "Point(-75.69271624 -49.01248498)"
 urban_population:
-- 16686776
-- 16931587
-- 17118329
-- 17234034
+  - 16686776
+  - 16931587
+  - 17118329
+  - 17234034
 coordinate_location: "Point(-71.0 -33.0)"
 inception: "1810-09-18"
 has_time_started: "1810-09-18"
@@ -149,8 +149,8 @@ coordinates_of_northernmost_point: "Point(-69.4683 -17.49848)"
 coordinates_of_easternmost_point: "Point(-66.41690522 -55.22008886)"
 MeSH_tree_code: Z01.107.757.235
 nominal_GDP:
-- 316713577509
-- 301025249438
+  - 316713577509
+  - 301025249438
 country: '[[_Standards/WikiData/WD~Chile,298]]'
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
@@ -339,24 +339,24 @@ Gini_coefficient: 44.9
 Happy_Planet_Index_score: 45.6
 trunk_prefix: 0
 BTI_Governance_Index:
-- 7.15
-- 7.22
-- 7.26
-- 7.33
-- 7.38
-- 7.51
-- 7.55
+  - 7.15
+  - 7.22
+  - 7.26
+  - 7.33
+  - 7.38
+  - 7.51
+  - 7.55
 Inequality_adjusted_Human_Development_Index: 0.722
 Democracy_Index: 7.92
 Human_Development_Index: 0.855
 BTI_Status_Index:
-- 8.74
-- 8.77
-- 8.82
-- 8.85
-- 8.86
-- 8.87
-- 8.99
+  - 8.74
+  - 8.77
+  - 8.82
+  - 8.85
+  - 8.86
+  - 8.87
+  - 8.99
 geoshape: "http://commons.wikimedia.org/data/main/Data:Chile.map"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/CHL%20orthographic.svg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Chile%20%28c%29.svg"

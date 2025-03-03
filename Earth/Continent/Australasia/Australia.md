@@ -1,10 +1,10 @@
 ---
 location:
-- -35.4776
-- 149.027
+  - -35.4776
+  - 149.027
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q408
 SpocWebEntityId: 26838
 isDeleted: false
@@ -22,13 +22,13 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Australia
-- Australie
-- أستراليا
-- 澳大利亚
-- Австралия
+  - Australia
+  - Australie
+  - أستراليا
+  - 澳大利亚
+  - Австралия
 Languages:
-- en-AU
+  - en-AU
 icon: flag-au
 flag: "[[_Standards/WikiData/WD~flag_of_Australia,81676]]"
 located_in_or_next_to_body_of_water:
@@ -414,7 +414,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Mpalitjanh,6928192]]'
 - '[[_Standards/WikiData/WD~Nakkara,6960662]]'
 - '[[_Standards/WikiData/WD~Nauo,6981305]]'
-- "[[_Standards/WikiData/WD~Ndra'ngith,6983809]]"
+  - "[[_Standards/WikiData/WD~Ndra'ngith,6983809]]"
 - '[[_Standards/WikiData/WD~Ngadjunmaya,7021846]]'
 - '[[_Standards/WikiData/WD~Ngamini,7021944]]'
 - '[[_Standards/WikiData/WD~Ngandi,7021977]]'
@@ -487,7 +487,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kuku-Mangk,10549851]]'
 - '[[_Standards/WikiData/WD~Kuku-Muminh,10549849]]'
 - '[[_Standards/WikiData/WD~Kuku-Ugbanh,10549854]]'
-- "[[_Standards/WikiData/WD~Kuku-Mu'inh,10549852]]"
+  - "[[_Standards/WikiData/WD~Kuku-Mu'inh,10549852]]"
 - '[[_Standards/WikiData/WD~Kunggari,10550184]]'
 - "[[_Standards/WikiData/WD~Kuuku_Ya'u,10550697]]"
 - '[[_Standards/WikiData/WD~Kwini,10551249]]'
@@ -518,7 +518,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Wakka_Wakka,10719110]]"
 - '[[_Standards/WikiData/WD~Wariyangga,10719289]]'
 - '[[_Standards/WikiData/WD~Wik-Epa,10720035]]'
-- "[[_Standards/WikiData/WD~Wik-Me'anha,10720039]]"
+  - "[[_Standards/WikiData/WD~Wik-Me'anha,10720039]]"
 - '[[_Standards/WikiData/WD~Wik-Iiyanh,10720036]]'
 - '[[_Standards/WikiData/WD~Wik-Keyangan,10720037]]'
 - '[[_Standards/WikiData/WD~Wikngenchera,10720045]]'
@@ -721,8 +721,8 @@ official_language:
 - "[[_Standards/WikiData/WD~Australian_English,44679]]"
 minimum_temperature_record: -23
 speed_limit:
-- 100
-- 50
+  - 100
+  - 50
 VAT_rate: 10
 width: 4000
 shares_border_with:
@@ -737,11 +737,11 @@ compulsory_education_minimum_age_: 6
 unemployment_rate: 6
 water_as_percent_of_area: 0.8
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 age_of_consent:
-- 16
-- 17
+  - 16
+  - 17
 compulsory_education_maximum_age_: 17
 age_of_candidacy: 18
 age_of_majority: 18
@@ -749,25 +749,25 @@ mains_voltage: 230
 coastline: 34000
 mean_age: 38
 death_rate:
-- 6.3
-- 6.7
-- 7.3
+  - 6.3
+  - 6.7
+  - 7.3
 median_income: 65000
 retirement_age: 67
 literacy_rate: 99
 suicide_rate: 11.3
 birth_rate:
-- 11.5
-- 11.6
-- 12.1
+  - 11.5
+  - 11.6
+  - 12.1
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.au,37420]]'
 total_fertility_rate: 1.74
 minimum_wage: 24.1
 Gini_coefficient: 32.4
 head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 central_government_debt_as_a_percent_of_GDP:
-- 38.3
-- 40.5
+  - 38.3
+  - 40.5
 length: 3860
 Happy_Planet_Index_score: 43.1
 trunk_prefix: 0
@@ -781,18 +781,18 @@ Democracy_Index: 8.96
 Human_Development_Index: 0.951
 UIC_numerical_country_code: 61
 social_media_followers:
-- 9552
-- 9576
-- 9583
+  - 9552
+  - 9576
+  - 9583
 aircraft_registration_prefix:
-- VI
-- VH
-- VL
-- VN
-- AX
-- VK
-- VM
-- VJ
+  - VI
+  - VH
+  - VL
+  - VN
+  - AX
+  - VK
+  - VM
+  - VJ
 IAB_code: 1242
 mobile_country_code: 505
 Commons_category: Australia
@@ -800,92 +800,92 @@ DPLA_subject_term: Australia
 hashtag: Australia
 Commons_gallery: Australia
 perimeter:
-- 35877
-- 59736
+  - 35877
+  - 59736
 ISO_3166_1_numeric_code: 036
 M49_code: 036
 annual_number_of_weddings:
-- 78987
-- 89167
-- 113815
-- 119186
-- 127161
+  - 78987
+  - 89167
+  - 113815
+  - 119186
+  - 127161
 number_of_out_of_school_children: 107065
 Colon_Classification: SG--8
 Krugosvet_article: strany_mira/AVSTRALIYA.html
 subreddit:
-- straya
-- Australia_
-- australia
+  - straya
+  - Australia_
+  - australia
 MeSH_tree_code:
-- Z01.639.100
-- Z01.678.100.373
+  - Z01.639.100
+  - Z01.678.100.373
 demonym:
-- أسترالي
-- أسترالية
-- australiana
-- australianu
-- австралийска
-- австралийски
-- অস্ট্রেলীয়
-- Australan
-- Australanka
-- Awstraliad
-- Αυστραλή
-- Αυστραλός
-- aŭstraliano
-- australiana
-- australiano
-- Australien
-- Australienne
-- אוסטרלי
-- אוסטרלית
-- Australiano
-- australiana
-- australiane
-- australiani
-- australiano
-- australian
-- Australiër
-- australian
-- australiancă
-- australieni
-- австралиец
-- австралийка
-- australisk
-- австралієць
-- австралійка
-- australian
-- australiana
-- australiane
-- australiani
-- Laustralänan
-- ؤسطرالي
-- ؤسطرالية
-- ؤسطراليين
-- ؤسطراليات
-- Avstralec
-- Avstralka
-- Astrálach
-- Australian
-- أستراليون
-- Australier
-- Aussies
-- Australians
-- ausztrál
-- австралийцы
-- австралійці
-- Aussie
-- australier
-- Australierin
+  - أسترالي
+  - أسترالية
+  - australiana
+  - australianu
+  - австралийска
+  - австралийски
+  - অস্ট্রেলীয়
+  - Australan
+  - Australanka
+  - Awstraliad
+  - Αυστραλή
+  - Αυστραλός
+  - aŭstraliano
+  - australiana
+  - australiano
+  - Australien
+  - Australienne
+  - אוסטרלי
+  - אוסטרלית
+  - Australiano
+  - australiana
+  - australiane
+  - australiani
+  - australiano
+  - australian
+  - Australiër
+  - australian
+  - australiancă
+  - australieni
+  - австралиец
+  - австралийка
+  - australisk
+  - австралієць
+  - австралійка
+  - australian
+  - australiana
+  - australiane
+  - australiani
+  - Laustralänan
+  - ؤسطرالي
+  - ؤسطرالية
+  - ؤسطراليين
+  - ؤسطراليات
+  - Avstralec
+  - Avstralka
+  - Astrálach
+  - Australian
+  - أستراليون
+  - Australier
+  - Aussies
+  - Australians
+  - ausztrál
+  - австралийцы
+  - австралійці
+  - Aussie
+  - australier
+  - Australierin
 motto_text: "There's NOTHING like Australia"
 UNDP_country_code: AUL
 GOST_7_67_cyrillic: АВС
 urban_population:
-- 21819366
-- 22120168
-- 22182436
-- 22499333
+  - 21819366
+  - 22120168
+  - 22182436
+  - 22499333
 audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Navy%20Band%2C%20Advance%20Australia%20Fair%20%28instrumental%29.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Navy%20Band%2C%20Advance%20Australia%20Fair%20%28abridged%29.oga"
@@ -909,8 +909,8 @@ official_website: "https://www.australia.gov.au/"
 Iconclass_notation: 25A26
 Libris_URI: 97mpn0ft3gmr61w
 BHCL_UUID:
-- c7ae36ae-6cb9-46a2-b624-635895df7396
-- f413fd89-9aad-4c39-be8c-a80802c59425
+  - c7ae36ae-6cb9-46a2-b624-635895df7396
+  - f413fd89-9aad-4c39-be8c-a80802c59425
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Australia\"]"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20location%20map%20with%20floral.png"
 IPA_transcription: əsˈtreɪljə
@@ -931,10 +931,10 @@ country: '[[_Standards/WikiData/WD~Australia,408]]'
 OmegaWiki_Defined_Meaning: 5776
 FIPS_10_4_countries_and_regions_: AS
 rural_population:
-- 3515460
-- 3529080
-- 3502976
-- 3515066
+  - 3515460
+  - 3529080
+  - 3502976
+  - 3515066
 total_exports: 464925000000
 INSEE_countries_and_foreign_territories_code: 99501
 ISO_3166_1_alpha_3_code: AUS

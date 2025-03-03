@@ -1,10 +1,10 @@
 ---
 location:
-- 5.55
-- -0.25
+  - 5.55
+  - -0.25
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q117
 SpocWebEntityId: 26903
 isDeleted: false
@@ -22,18 +22,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Ghana
+  - Ghana
 - Gold Coast
-- غانا
-- 加纳
-- Гана
+  - غانا
+  - 加纳
+  - Гана
 - "the Republic of Ghana"
 - "la República de Ghana"
 Languages:
-- en-GH
-- ak
-- ee
-- tw
+  - en-GH
+  - ak
+  - ee
+  - tw
 member_of:
 - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
@@ -170,15 +170,15 @@ VAT_rate: 15
 mains_voltage: 230
 Democracy_Index: 6.5
 BTI_Status_Index:
-- 7.3
-- 6.71
-- 6.75
-- 6.79
-- 6.88
-- 6.99
-- 7.33
-- 7.36
-- 7.39
+  - 7.3
+  - 6.71
+  - 6.75
+  - 6.79
+  - 6.88
+  - 6.99
+  - 7.33
+  - 7.36
+  - 7.39
 lowest_point: "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.gh,41634]]'
 Happy_Planet_Index_score: 39.5
@@ -187,15 +187,15 @@ Inequality_adjusted_Human_Development_Index: 0.458
 trunk_prefix: 0
 mobile_country_code: 620
 BTI_Governance_Index:
-- 6.18
-- 6.23
-- 6.26
-- 6.41
-- 6.61
-- 6.72
-- 6.76
-- 6.77
-- 6.78
+  - 6.18
+  - 6.23
+  - 6.26
+  - 6.41
+  - 6.61
+  - 6.72
+  - 6.76
+  - 6.77
+  - 6.78
 Human_Development_Index: 0.632
 flag: "[[_Standards/WikiData/WD~flag_of_Ghana,160676]]"
 named_after: "[[_Standards/WikiData/WD~Ghana_Empire,206789]]"
@@ -268,22 +268,22 @@ Colon_Classification: SG--657
 Krugosvet_article: strany_mira/GANA.html
 MeSH_tree_code: Z01.058.290.190.320
 native_label:
-- Ghana
-- Gana
-- Gaana
+  - Ghana
+  - Gana
+  - Gaana
 official_name:
-- Ghana
+  - Ghana
 - "la République du Ghana"
 - "Gana tingbani"
-- Ghana
+  - Ghana
 short_name: "\U0001F1EC\U0001F1ED"
 coordinates_of_easternmost_point: "Point(1.19948387 6.11239242)"
 UMLS_CUI: C0017516
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Beach%20with%20palms%20Ghana.jpg"
 ISNI: 000000012114305X
 nominal_GDP:
-- 72838798788
-- 79156409410
+  - 72838798788
+  - 79156409410
 motto_text:
 - "Rhyddid a Chyfiawnder"
 - "Freedom and Justice"
@@ -297,17 +297,17 @@ located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 basic_form_of_government: '[[_Standards/WikiData/WD~democracy,7174]]'
 GS1_country_code: 603
 birth_rate:
-- 27.08
-- 27.548
-- 28.038
-- 28.572
+  - 27.08
+  - 27.548
+  - 28.038
+  - 28.572
 total_fertility_rate: 4.168
 Dewey_Decimal_Classification: 2--667
 death_rate:
-- 7.143
-- 7.448
-- 7.585
-- 7.627
+  - 7.143
+  - 7.448
+  - 7.585
+  - 7.627
 maritime_identification_digits: 627
 ISO_3166_1_numeric_code: 288
 M49_code: 288
@@ -336,25 +336,25 @@ country_calling_code: +233
 inception: "1957"
 has_time_started: 1957-06 
 rural_population:
-- 13646945
-- 13725263
-- 13794798
-- 13853989
+  - 13646945
+  - 13725263
+  - 13794798
+  - 13853989
 male_population:
-- 15723678
-- 16051315
-- 16375536
-- 16695114
+  - 15723678
+  - 16051315
+  - 16375536
+  - 16695114
 female_population:
-- 15798612
-- 16129086
-- 16457496
-- 16780756
+  - 15798612
+  - 16129086
+  - 16457496
+  - 16780756
 urban_population:
-- 17875345
-- 18455138
-- 19038233
-- 19621881
+  - 17875345
+  - 18455138
+  - 19038233
+  - 19621881
 coordinates_of_northernmost_point: "Point(-0.27 11.17)"
 demonym: Ghanaian
 population: 32833031
@@ -478,7 +478,7 @@ Capital :: [[Accra]]
 > - [[Cote_d'ivoire|Ivory Coast]] in the west, 
 > - [[Burkina_Faso|Burkina Faso]] in the north, and 
 > - [[Togo]] in the east. 
-> 
+>
 > Ghana covers an area of 239,567 km2 (92,497 sq mi), 
 > spanning diverse ecologies, from coastal savannas to tropical rainforests. 
 > With nearly 35 million inhabitants, Ghana is the second-most populous country in West Africa. 
@@ -486,7 +486,7 @@ Capital :: [[Accra]]
 > other significant cities include Tema, Kumasi, Tamale, and Sekondi-Takoradi. 
 > In 1957 Ghana became the first colony in Sub-Saharan Africa to achieve sovereignty, 
 > under the leadership of [[../../../../bio/People/Leaders/Modern_Leaders/Nkrumah,Kwame|Kwame Nkrumah]]. 
-> 
+>
 > The earliest kingdoms to emerge in Ghana were Bonoman in the south 
 > and the Kingdom of Dagbon in the north, with Bonoman existing in the area during the 11th century. 
 > The Ashanti Empire and other Akan kingdoms in the south emerged over the centuries. 
@@ -495,7 +495,7 @@ Capital :: [[Accra]]
 > until the British ultimately established control of the coast by the 19th century. 
 > Following more than a century of colonial resistance, the current borders of the country took shape, 
 > encompassing four separate British colonial territories: Gold Coast, Ashanti, the Northern Territories, and British Togoland. 
-> 
+>
 > These were unified as an independent dominion within the [[../../../../International/Commonwealth_of_Nations|Commonwealth of Nations]]. 
 > On 6 March 1957 Ghana became the first colony in Sub-Saharan Africa to achieve sovereignty - 
 > that is, gain independence. 
@@ -523,7 +523,7 @@ Capital :: [[Accra]]
 > and a member of the Economic Community of West African States, the Group of 24 
 > and the Commonwealth of Nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ghana) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Ghana)
 
 ## Confidential Links & Embeds: 
 

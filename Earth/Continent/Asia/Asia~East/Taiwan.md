@@ -4,51 +4,51 @@ subreddit: taiwan
 GitHub_topic: taiwan
 Unicode_character: 🇹🇼 
 hashtag:
-- 台灣
-- Taiwan
+  - 台灣
+  - Taiwan
 demonym:
-- taiwanés
-- taiwanesa
-- taiwanesa
-- taiwanese
-- Tajvanano
-- taiwanilainen
-- Taïwanaise
-- tajvani
-- taiuan
-- setaiwan
-- taiwaneza
-- taiwanezo
-- Tayvänan
-- 臺灣人
-- طايواني
-- طايوانية
-- طايوانيين
-- طايوانيات
-- Tâi-oân-lâng
-- Téavánach
-- 台灣人
-- tâi-uân-lâng
-- Taiwan
-- Taiwanese
-- Taïwanais
-- taiwanesi
-- 台湾人
-- taiwanezi
-- 臺灣人
-- taiwanès
-- taiwanese
-- taiwaneze
+  - taiwanés
+  - taiwanesa
+  - taiwanesa
+  - taiwanese
+  - Tajvanano
+  - taiwanilainen
+  - Taïwanaise
+  - tajvani
+  - taiuan
+  - setaiwan
+  - taiwaneza
+  - taiwanezo
+  - Tayvänan
+  - 臺灣人
+  - طايواني
+  - طايوانية
+  - طايوانيين
+  - طايوانيات
+  - Tâi-oân-lâng
+  - Téavánach
+  - 台灣人
+  - tâi-uân-lâng
+  - Taiwan
+  - Taiwanese
+  - Taïwanais
+  - taiwanesi
+  - 台湾人
+  - taiwanezi
+  - 臺灣人
+  - taiwanès
+  - taiwanese
+  - taiwaneze
 native_label:
-- taiwan
-- Tiong-huâ-bîn-kok
-- 中華民國
+  - taiwan
+  - Tiong-huâ-bîn-kok
+  - 中華民國
 - "Tiong-hoâ Bîn-kok"
-- 台灣
-- Tâi-oân
+  - 台灣
+  - Tâi-oân
 - "Chûng-fà Mìn-koet"
-- 中華民國
-- 臺灣
+  - 中華民國
+  - 臺灣
 instance_of:
 - "[[_Standards/WikiData/WD~state_with_limited_recognition,10711424]]"
 - "[[_Standards/WikiData/WD~island_country,112099]]"
@@ -345,25 +345,25 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 territory_claimed_by: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 marriageable_age: 20
 age_of_majority:
-- 20
-- 18
+  - 20
+  - 18
 ISNI: 000000012285649X
 short_name:
 - "\U0001F1F9\U0001F1FC"
-- Тайвань
-- Тайвань
-- ROC
-- Taïwan
-- TWN
-- 台湾
-- 臺灣
+  - Тайвань
+  - Тайвань
+  - ROC
+  - Taïwan
+  - TWN
+  - 台湾
+  - 臺灣
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Q865%20%28zh%29%20lilauid-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Q865%20%28nan%29%20lilauid-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B.ogg"
 described_at_URL: "https://www.ey.gov.tw/state/"
 MeSH_tree_code:
-- Z01.252.474.872
-- Z01.639.850
+  - Z01.252.474.872
+  - Z01.639.850
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Taipei%20Night%20Skyline%20from%20Hongludi%2020240113.jpg"
 country: '[[_Standards/WikiData/WD~Taiwan,865]]'
 VAT_rate: 5
@@ -380,26 +380,26 @@ Happy_Planet_Index_score: 43.2
 trunk_prefix: 0
 ISO_3166_1_numeric_code: 158
 BTI_Governance_Index:
-- 7.04
-- 7.12
-- 7.33
-- 7.37
-- 7.48
-- 7.64
-- 7.68
-- 7.72
+  - 7.04
+  - 7.12
+  - 7.33
+  - 7.37
+  - 7.48
+  - 7.64
+  - 7.68
+  - 7.72
 Democracy_Index: 8.99
 Human_Development_Index: 0.911
 BTI_Status_Index:
-- 9.18
-- 9.33
-- 9.39
-- 9.42
-- 9.48
-- 9.49
-- 9.53
-- 9.54
-- 9.58
+  - 9.18
+  - 9.33
+  - 9.39
+  - 9.42
+  - 9.48
+  - 9.49
+  - 9.53
+  - 9.54
+  - 9.58
 mobile_country_code: 466
 GS1_country_code: 471
 base_salary: 27470
@@ -431,11 +431,11 @@ has_time_started: 1912-06
 coordinates_of_easternmost_point: "Point(122.10638889 25.485)"
 has_id_wikidata: Q865
 location:
-- 25.08
-- 121.55
+    - 25.08
+    - 121.55
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27042
 isDeleted: false
 confidential: public
@@ -452,13 +452,13 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Taiwan
+    - Taiwan
 - 
 Languages:
-- zh-TW
-- zh
-- nan
-- hak
+    - zh-TW
+    - zh
+    - nan
+    - hak
 icon: flag-tw
 ---
 

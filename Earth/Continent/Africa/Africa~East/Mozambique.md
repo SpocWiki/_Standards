@@ -133,42 +133,42 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 coordinates_of_westernmost_point: "Point(30.2169433 -14.9995768)"
 UMLS_CUI: C0026655
 demonym:
-- moçambiquès
-- moçambiquesa
-- موزامبيقي
-- موزامبيقية
-- موزامبيقيين
-- موزامبيقيات
-- Mósaimbíceach
-- موزمبيقي
-- موزمبيقية
-- موزمبيقيون
-- mozambicana
-- mozambicanu
-- মোজাম্বিকীয়
-- Mozambikano
-- Mozambicain
-- Mozambicaine
-- מוזמביקי
-- מוזמביקית
-- mozambiki
-- Mozambikano
-- mozambicana
-- mozambicane
-- mozambicani
-- mozambicano
-- mosambican
-- mozambican
-- mozambicană
-- mozambicani
-- мозамбикцы
-- mozanbigan
-- mozanbigana
-- mozanbigane
-- mozanbigani
-- Mozambikänan
-- 莫桑比克人
-- Mozambican
+  - moçambiquès
+  - moçambiquesa
+  - موزامبيقي
+  - موزامبيقية
+  - موزامبيقيين
+  - موزامبيقيات
+  - Mósaimbíceach
+  - موزمبيقي
+  - موزمبيقية
+  - موزمبيقيون
+  - mozambicana
+  - mozambicanu
+  - মোজাম্বিকীয়
+  - Mozambikano
+  - Mozambicain
+  - Mozambicaine
+  - מוזמביקי
+  - מוזמביקית
+  - mozambiki
+  - Mozambikano
+  - mozambicana
+  - mozambicane
+  - mozambicani
+  - mozambicano
+  - mosambican
+  - mozambican
+  - mozambicană
+  - mozambicani
+  - мозамбикцы
+  - mozanbigan
+  - mozanbigana
+  - mozanbigane
+  - mozanbigani
+  - Mozambikänan
+  - 莫桑比克人
+  - Mozambican
 Libris_URI: hftwvqh11khjtp0
 ISNI: 0000000121581519
 MeSH_tree_code: Z01.058.290.175.545
@@ -177,8 +177,8 @@ motto_text:
 - "Come to where it all started"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mozambique%20-%20Location%20Map%20%282013%29%20-%20MOZ%20-%20UNOCHA.svg"
 nominal_GDP:
-- 17851491428
-- 15776757420
+  - 17851491428
+  - 15776757420
 coordinates_of_southernmost_point: "Point(32.1837 -26.8608)"
 coordinates_of_northernmost_point: "Point(40.45 -10.47)"
 diplomatic_relation:
@@ -214,15 +214,15 @@ located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Africa,27394]
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 Inequality_adjusted_Human_Development_Index: 0.3
 BTI_Governance_Index:
-- 5
-- 4.21
-- 4.25
-- 4.41
-- 5.02
-- 5.07
-- 5.36
-- 5.55
-- 6.06
+  - 5
+  - 4.21
+  - 4.25
+  - 4.41
+  - 5.02
+  - 5.07
+  - 5.36
+  - 5.55
+  - 6.06
 VAT_rate: 17
 marriageable_age: 18
 age_of_majority: 18
@@ -230,34 +230,34 @@ mains_voltage: 220
 unemployment_rate: 23
 Gini_coefficient: 54
 BTI_Status_Index:
-- 5.4
-- 5.5
-- 4.11
-- 4.24
-- 4.31
-- 5.23
-- 5.56
-- 5.71
-- 6.01
+  - 5.4
+  - 5.5
+  - 4.11
+  - 4.24
+  - 4.31
+  - 5.23
+  - 5.56
+  - 5.71
+  - 6.01
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.mz,43131]]'
 Democracy_Index: 3.51
 Happy_Planet_Index_score: 44.2
 Human_Development_Index: 0.446
 death_rate:
-- 8.04
-- 8.004
-- 8.611
-- 8.793
+  - 8.04
+  - 8.004
+  - 8.611
+  - 8.793
 mobile_country_code: 643
 M49_code: 508
 ISO_3166_1_numeric_code: 508
 total_fertility_rate: 5.359
 maritime_identification_digits: 650
 birth_rate:
-- 36.121
-- 36.598
-- 36.974
-- 37.345
+  - 36.121
+  - 36.598
+  - 36.974
+  - 37.345
 IAB_code: 1361
 OmegaWiki_Defined_Meaning: 8371
 life_expectancy: 58.311
@@ -271,15 +271,15 @@ subreddit: Mozambique
 hashtag: Mozambique
 Commons_category: Mozambique
 urban_population:
-- 11559020
-- 12590070
-- 11062722
-- 12069961
+  - 11559020
+  - 12590070
+  - 11062722
+  - 12069961
 female_population:
-- 15884940
-- 15433808
-- 16339849
-- 16793302
+  - 15884940
+  - 15433808
+  - 16339849
+  - 16793302
 PM20_geo_code: C100
 number_of_out_of_school_children: 2405631
 inception: "1975-06-25"
@@ -294,16 +294,16 @@ official_name: "República de Moçambique"
 short_name: "\U0001F1F2\U0001F1FF"
 Dewey_Decimal_Classification: 2--679
 male_population:
-- 14851787
-- 15293299
-- 15737224
-- 16176217
+  - 14851787
+  - 15293299
+  - 15737224
+  - 16176217
 licence_plate_code: MOC
 rural_population:
-- 19222873
-- 19619219
-- 20007111
-- 20379448
+  - 19222873
+  - 19619219
+  - 20007111
+  - 20379448
 GitHub_topic: mozambique
 CIVICUS_Monitor_country_entry: mozambique
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Mozambique.svg"

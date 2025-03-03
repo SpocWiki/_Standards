@@ -1,5 +1,5 @@
 ---
-has_id_wikidata: Q2
+has_id_wikidata: Q2 
 Library of Congress Classification: QB630-QB638.8
 demonym:
   - terrícola
@@ -193,7 +193,7 @@ rotation period:
   - 24
 population: 8028504258
 coordinates of southernmost point: Point(0.0 -90.0)
-inception: -4540000000-01-01T00:00:00Z
+inception: -4540000000-01-01T00:00:00Z 
 location:
   - "[[_Standards/WikiData/WD~Milky_Way,321]]"
   - "[[_Standards/WikiData/WD~Local_Group,3944]]"
@@ -308,23 +308,23 @@ said_to_be_the_same_as: '[[_Standards/WD/WD~world,16502]]'
 population: 8028504258
 number_of_out_of_school_children: 264000000
 albedo:
-- 0.306
-- 0.434
+  - 0.306
+  - 0.434
 magnetic_moment: 7.84e+22
 speed: 107200
 density: 5514
 diameter: 12742
 radius:
-- 6378.137
-- 6371
-- 6356.8
+  - 6378.137
+  - 6371
+  - 6356.8
 orbital_inclination:
-- 7.155
-- 1.57869
+  - 7.155
+  - 1.57869
 surface_gravity: 9.798
 perimeter:
-- 24901
-- 40075
+  - 24901
+  - 40075
 flattening: 0.0033528
 volume_as_quantity: 1083210000000
 mean_anomaly: 358.617

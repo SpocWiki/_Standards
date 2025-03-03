@@ -126,43 +126,43 @@ Unicode_character: 🇵🇾
 Colon_Classification: SG--7915
 Krugosvet_article: strany_mira/PARAGVA.html
 demonym:
-- باراغواياني
-- باراغوايانية
-- باراغوايانيون
-- paraguaya
-- paraguayu
-- প্যারাগুয়ীয়
-- Paraguayanerin
-- Paraguayan
-- Paraguayen
-- Paraguayenne
-- פרגוואית
-- paraguayi
-- Paraguayano
-- paraguaiana
-- paraguaiane
-- paraguaiani
-- paraguaiano
-- paraguaia
-- paraguayan
-- paraguayană
-- paraguayeni
-- paraguaja
-- paraguajan
-- paraguajana
-- paraguajane
-- paraguajani
-- paraguaje
-- paraguaji
-- paraguajo
-- Paragvänan
-- پاراڭواياني
-- پاراڭوايانية
-- پاراڭوايانيين
-- پاراڭوايانيات
-- Paraguach
-- פרגוואי
-- Paraguayaner
+  - باراغواياني
+  - باراغوايانية
+  - باراغوايانيون
+  - paraguaya
+  - paraguayu
+  - প্যারাগুয়ীয়
+  - Paraguayanerin
+  - Paraguayan
+  - Paraguayen
+  - Paraguayenne
+  - פרגוואית
+  - paraguayi
+  - Paraguayano
+  - paraguaiana
+  - paraguaiane
+  - paraguaiani
+  - paraguaiano
+  - paraguaia
+  - paraguayan
+  - paraguayană
+  - paraguayeni
+  - paraguaja
+  - paraguajan
+  - paraguajana
+  - paraguajane
+  - paraguajani
+  - paraguaje
+  - paraguaji
+  - paraguajo
+  - Paragvänan
+  - پاراڭواياني
+  - پاراڭوايانية
+  - پاراڭوايانيين
+  - پاراڭوايانيات
+  - Paraguach
+  - פרגוואי
+  - Paraguayaner
 motto_text:
 - "Мир и справедливост"
 - "Peace and justice"
@@ -171,7 +171,7 @@ motto_text:
 - "Paz y justicia"
 official_name:
 - "République du Paraguay"
-- Paraguay
+  - Paraguay
 short_name: "\U0001F1F5\U0001F1FE"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Paraguay.webm"
 ISNI: 0000000123088111
@@ -218,37 +218,37 @@ mains_voltage: 220
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Paraguay,34071]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Paraguay,34071]]"
 BTI_Governance_Index:
-- 5.7
-- 4.97
-- 5.75
-- 5.77
-- 5.85
-- 5.99
-- 6.04
-- 6.14
-- 6.21
+  - 5.7
+  - 4.97
+  - 5.75
+  - 5.77
+  - 5.85
+  - 5.99
+  - 6.04
+  - 6.14
+  - 6.21
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.py,43161]]'
 Gini_coefficient: 43.5
 Happy_Planet_Index_score: 47.6
 trunk_prefix: 0
 Inequality_adjusted_Human_Development_Index: 0.582
 BTI_Status_Index:
-- 5.85
-- 6.13
-- 6.14
-- 6.24
-- 6.29
-- 6.32
-- 6.34
-- 6.38
-- 6.39
+  - 5.85
+  - 6.13
+  - 6.14
+  - 6.24
+  - 6.29
+  - 6.32
+  - 6.34
+  - 6.38
+  - 6.39
 Democracy_Index: 5.86
 Commons_gallery: Paraguay
 coordinates_of_southernmost_point: "Point(-56.3948767 -27.6032944)"
 coordinates_of_northernmost_point: "Point(-59.98 -19.3)"
 nominal_GDP:
-- 39950899733
-- 41722295362
+  - 39950899733
+  - 41722295362
 coordinates_of_westernmost_point: "Point(-62.6342528 -22.2333943)"
 Human_Development_Index: 0.717
 GS1_country_code: 784
@@ -269,26 +269,26 @@ area: 406756
 INSEE_countries_and_foreign_territories_code: 99421
 IOC_country_code: PAR
 rural_population:
-- 2489311
-- 2502992
-- 2514193
-- 2521216
+  - 2489311
+  - 2502992
+  - 2514193
+  - 2521216
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay.svg"
 female_population:
-- 3249592
-- 3294711
-- 3338534
-- 3378612
+  - 3249592
+  - 3294711
+  - 3338534
+  - 3378612
 male_population:
-- 3280434
-- 3323985
-- 3365265
-- 3402132
+  - 3280434
+  - 3323985
+  - 3365265
+  - 3402132
 urban_population:
-- 4040715
-- 4115703
-- 4189606
-- 4259528
+  - 4040715
+  - 4115703
+  - 4189606
+  - 4259528
 PM20_geo_code: E96
 population: 6811297
 ITU_letter_code: PRG
@@ -305,11 +305,11 @@ subreddit: Paraguay
 hashtag: Paraguay
 has_id_wikidata: Q733
 location:
-- -25.27
-- -57.67
+    - -25.27
+    - -57.67
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27003
 isDeleted: false
 confidential: public
@@ -326,16 +326,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Paraguay
-- باراغواي
-- 巴拉圭
-- Парагвай
+    - Paraguay
+    - باراغواي
+    - 巴拉圭
+    - Парагвай
 - "the Republic of Paraguay"
 - "la República del Paraguay"
 - "Paraguay (el)"
 Languages:
-- es-PY
-- gn
+    - es-PY
+    - gn
 icon: flag-py
 ---
 

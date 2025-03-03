@@ -35,17 +35,18 @@ Commons_category: "Cyrillic alphabet"
 ISO_15924_alpha_4_code: Cyrl
 Krugosvet_article: lingvistika/glagolitsa-i-kirilitsa
 Unicode_range:
-- U+0400-04FF
-- U+0500-052F
-- U+1C80-1C8F
-- U+2DE0-2DFF
-- U+A640-A69F
+  - U+0400-04FF
+  - U+0500-052F
+  - U+1C80-1C8F
+  - U+2DE0-2DFF
+  - U+A640-A69F
 name:
-- Cyrillic
-- cyrillique
+  - Cyrillic
+  - cyrillique
 native_label: кириллица
 inception: "0870"
 has_time_started: 0870-06 
+has_time_started: 0870-01-01T00:00:00Z 
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,19 +1,19 @@
 ---
 location:
-- 40.793
-- 19.9565
+  - 40.793
+  - 19.9565
 type: Country
 has_id_wikidata: Q222
 SpocWebEntityId: 26830
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+  - geo/Country
 license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Albania
 linkTitle: 
@@ -23,16 +23,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Albania
-- Albanie
-- ألبانيا
-- 阿尔巴尼亚
-- Албания
+  - Albania
+  - Albanie
+  - ألبانيا
+  - 阿尔巴尼亚
+  - Албания
 - "the Republic of Albania"
 - "la República de Albania"
 Languages:
-- sq
-- el
+  - sq
+  - el
 icon: flag-al
 Provenio_UUID: 
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Albania,162058]]"
@@ -168,52 +168,52 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Alb%C3%A0nia.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Albania.wav"
 demonym:
-- ألبانية
-- ألبانيات
-- ألبانيين
-- Albanec
-- Albanka
-- ألباني
-- ألبان
-- Albanian
-- ألبانية
-- albana
-- albanu
-- আলবেনীয়
-- albanès
-- albanesa
-- albaner
-- Albaner
-- Albanerin
-- albanisch
-- Albanians
-- Albanais
-- Albanaise
-- Albánach
-- אלבני
-- אלבנית
-- albán
-- Albaniano
-- albanese
-- albanesi
-- albanian
-- xcip
-- Albanees
-- albanez
-- albaneză
-- albanezi
-- албанец
-- албанка
-- албанцы
-- албанець
-- албанка
-- албанці
-- albaneza
-- albaneze
-- albanezi
-- albanezo
-- Lalbanänan
-- ألباني
+  - ألبانية
+  - ألبانيات
+  - ألبانيين
+  - Albanec
+  - Albanka
+  - ألباني
+  - ألبان
+  - Albanian
+  - ألبانية
+  - albana
+  - albanu
+  - আলবেনীয়
+  - albanès
+  - albanesa
+  - albaner
+  - Albaner
+  - Albanerin
+  - albanisch
+  - Albanians
+  - Albanais
+  - Albanaise
+  - Albánach
+  - אלבני
+  - אלבנית
+  - albán
+  - Albaniano
+  - albanese
+  - albanesi
+  - albanian
+  - xcip
+  - Albanees
+  - albanez
+  - albaneză
+  - albanezi
+  - албанец
+  - албанка
+  - албанцы
+  - албанець
+  - албанка
+  - албанці
+  - albaneza
+  - albaneze
+  - albanezi
+  - albanezo
+  - Lalbanänan
+  - ألباني
 ISNI: 0000000405103279
 motto_text:
 - "Torra Dy Gwys Dy Hun"
@@ -254,37 +254,37 @@ trunk_prefix: 0
 flag: "[[_Standards/WikiData/WD~flag_of_Albania,48409]]"
 mobile_country_code: 276
 BTI_Governance_Index:
-- 5.17
-- 5.32
-- 5.44
-- 5.58
-- 5.77
-- 5.85
-- 5.95
-- 6.02
-- 6.28
+  - 5.17
+  - 5.32
+  - 5.44
+  - 5.58
+  - 5.77
+  - 5.85
+  - 5.95
+  - 6.02
+  - 6.28
 Democracy_Index: 6.11
 BTI_Status_Index:
-- 6.55
-- 6.61
-- 6.68
-- 6.71
-- 6.83
-- 6.84
-- 7.02
-- 7.07
-- 7.17
+  - 6.55
+  - 6.61
+  - 6.68
+  - 6.71
+  - 6.83
+  - 6.84
+  - 7.02
+  - 7.07
+  - 7.17
 Human_Development_Index: 0.796
 death_rate:
-- 8.48
-- 10.785
-- 11.194
-- 11.325
+  - 8.48
+  - 10.785
+  - 11.194
+  - 11.325
 birth_rate:
-- 10.24
-- 10.116
-- 10.285
-- 10.343
+  - 10.24
+  - 10.116
+  - 10.285
+  - 10.343
 total_fertility_rate: 1.784
 UIC_numerical_country_code: 41
 OmegaWiki_Defined_Meaning: 5754
@@ -294,8 +294,8 @@ IAB_code: 1231
 maritime_identification_digits: 201
 FIPS_10_4_countries_and_regions_: AL
 NUTS_code:
-- AL
-- AL0
+  - AL
+  - AL0
 licence_plate_code: AL
 ISO_3166_1_alpha_2_code: AL
 WIPO_ST_3: AL
@@ -312,27 +312,27 @@ ISO_3166_1_numeric_code: 008
 M49_code: 008
 INSEE_countries_and_foreign_territories_code: 99125
 rural_population:
-- 1005551
-- 1041188
-- 1075204
-- 1106598
+  - 1005551
+  - 1041188
+  - 1075204
+  - 1106598
 male_population:
-- 1385573
-- 1404454
-- 1419264
-- 1428828
+  - 1385573
+  - 1404454
+  - 1419264
+  - 1428828
 female_population:
-- 1392115
-- 1407212
-- 1418585
-- 1425364
+  - 1392115
+  - 1407212
+  - 1418585
+  - 1425364
 Commons_category: Albania
 hashtag: Albania
 urban_population:
-- 1747593
-- 1762645
-- 1770478
-- 1772138
+  - 1747593
+  - 1762645
+  - 1770478
+  - 1772138
 Colon_Classification: SG--5927
 Commons_gallery: Shqipëria
 Krugosvet_article: strany_mira/ALBANIYA.html
@@ -341,8 +341,8 @@ native_label: "Republika e Shqipërisë"
 short_name: "\U0001F1E6\U0001F1F1"
 Gujarati_Vishwakosh_entry: આલ્બેનિયા
 nominal_GDP:
-- 18882095518
-- 17930565119
+  - 18882095518
+  - 17930565119
 coordinates_of_northernmost_point: "Point(19.73 42.67)"
 inception: "1912-11-28"
 has_time_started: "1912-11-28"

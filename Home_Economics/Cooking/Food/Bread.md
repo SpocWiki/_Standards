@@ -3,8 +3,8 @@ has_id_wikidata: Q7802
 Commons_gallery: Bread
 subreddit: breaddit
 MeSH_tree_code:
-- G07.203.300.100
-- J02.500.100
+  - G07.203.300.100
+  - J02.500.100
 EPPO_Code: YBRED
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Home%20made%20sour%20dough%20bread.jpg"

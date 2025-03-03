@@ -3,46 +3,46 @@ Commons_gallery: "The Gambia"
 Commons_category: "The Gambia"
 hashtag: TheGambia
 demonym:
-- غامبي
-- غامبية
-- غامبيون
-- gambiana
-- gambianu
-- গাম্বীয়
-- gambià
-- gambiana
-- gambianes
-- gambians
-- gambier
-- Gambian
-- Gambiano
-- gambiana
-- gambiano
-- Gambien
-- Gambienne
-- גמביאני
-- גמביאנית
-- gambiai
-- Gambiano
-- gambiana
-- gambiane
-- gambiani
-- gambiano
-- gambian
-- Gambijczyk
-- gambian
-- gambiană
-- gambieni
-- ganbian
-- ganbiana
-- ganbiane
-- ganbiani
-- Gambiyänan
-- ڭامبي
-- ڭامبية
-- ڭامبيين
-- ڭامبيات
-- Gaimbiach
+  - غامبي
+  - غامبية
+  - غامبيون
+  - gambiana
+  - gambianu
+  - গাম্বীয়
+  - gambià
+  - gambiana
+  - gambianes
+  - gambians
+  - gambier
+  - Gambian
+  - Gambiano
+  - gambiana
+  - gambiano
+  - Gambien
+  - Gambienne
+  - גמביאני
+  - גמביאנית
+  - gambiai
+  - Gambiano
+  - gambiana
+  - gambiane
+  - gambiani
+  - gambiano
+  - gambian
+  - Gambijczyk
+  - gambian
+  - gambiană
+  - gambieni
+  - ganbian
+  - ganbiana
+  - ganbiane
+  - ganbiani
+  - Gambiyänan
+  - ڭامبي
+  - ڭامبية
+  - ڭامبيين
+  - ڭامبيات
+  - Gaimbiach
 motto_text:
 - "Прогрес, мир, просперитет"
 - "Progress, Peace, Prosperity"
@@ -55,8 +55,8 @@ official_name:
 native_label: "Republic of The Gambia"
 short_name: "\U0001F1EC\U0001F1F2"
 nominal_GDP:
-- 2273060863
-- 2038414974
+  - 2273060863
+  - 2038414974
 coordinates_of_northernmost_point: "Point(-15.08 13.83)"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Gambia,107948]]"
 flag: "[[_Standards/WikiData/WD~flag_of_the_Gambia,135014]]"
@@ -174,34 +174,34 @@ maritime_identification_digits: 629
 ISO_3166_1_alpha_2_code: GM
 WIPO_ST_3: GM
 BTI_Governance_Index:
-- 5.73
-- 5.98
+  - 5.73
+  - 5.98
 BTI_Status_Index:
-- 5.84
-- 5.92
+  - 5.84
+  - 5.92
 total_fertility_rate: 5.717
 mobile_country_code: 607
 death_rate:
-- 6.999
-- 7.137
-- 7.373
-- 7.543
+  - 6.999
+  - 7.137
+  - 7.373
+  - 7.543
 ISO_3166_1_numeric_code: 270
 M49_code: 270
 birth_rate:
-- 32.696
-- 33.257
-- 33.719
-- 34.281
+  - 32.696
+  - 33.257
+  - 33.719
+  - 34.281
 life_expectancy: 61.193
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20The%20Gambia.svg"
 IAB_code: 1439
 FIPS_10_4_countries_and_regions_: GA
 urban_population:
-- 1727830
-- 1553776
-- 1610858
-- 1669008
+  - 1727830
+  - 1553776
+  - 1610858
+  - 1669008
 licence_plate_code: WAG
 PM20_geo_code: C51
 ISO_3166_1_alpha_3_code: GMB
@@ -209,25 +209,26 @@ ITU_letter_code: GMB
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20The%20Gambia.svg"
 IOC_country_code: GAM
 rural_population:
-- 955107
-- 963137
-- 970908
-- 978162
+  - 955107
+  - 963137
+  - 970908
+  - 978162
 OmegaWiki_Defined_Meaning: 154471
 male_population:
-- 1247342
-- 1280033
-- 1313119
-- 1346335
+  - 1247342
+  - 1280033
+  - 1313119
+  - 1346335
 female_population:
-- 1261541
-- 1293962
-- 1326796
-- 1359657
+  - 1261541
+  - 1293962
+  - 1326796
+  - 1359657
 INSEE_countries_and_foreign_territories_code: 99304
 population: 2639916
 inception: "1965"
 has_time_started: 1965-06 
+has_time_started: 1965-01-01T00:00:00Z 
 subreddit: Gambia
 coordinate_location: "Point(-15.5 13.5)"
 U_S_National_Archives_Identifier: 10035707

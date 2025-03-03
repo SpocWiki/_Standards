@@ -84,12 +84,12 @@ has_edition_or_translation:
 - "[[_Standards/WikiData/WD~The_Iliad_of_Homer,19828573]]"
 - '[[_Standards/WikiData/WD~Iliade,21666067]]'
 - "[[_Standards/WikiData/WD~Les_Unzième,_et_Douzième_Livres_de_l_Iliade_d'Homère,21714772]]"
-- "[[_Standards/WikiData/WD~L'Iliade,21716706]]"
-- "[[_Standards/WikiData/WD~L'Iliade,21716786]]"
+  - "[[_Standards/WikiData/WD~L'Iliade,21716706]]"
+  - "[[_Standards/WikiData/WD~L'Iliade,21716786]]"
 - '[[_Standards/WikiData/WD~Iliade,21716827]]'
-- "[[_Standards/WikiData/WD~L'Iliade,21716838]]"
+  - "[[_Standards/WikiData/WD~L'Iliade,21716838]]"
 - '[[_Standards/WikiData/WD~Iliade,21716844]]'
-- "[[_Standards/WikiData/WD~L'Iliade,21716866]]"
+  - "[[_Standards/WikiData/WD~L'Iliade,21716866]]"
 - '[[_Standards/WikiData/WD~Ιλιάδα,23758941]]'
 - "[[_Standards/WikiData/WD~The_Iliads_of_Homer_Prince_of_Poetts,30918410]]"
 - "[[_Standards/WikiData/WD~La_Ilíada,32845498]]"

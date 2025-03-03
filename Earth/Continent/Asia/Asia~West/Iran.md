@@ -81,9 +81,9 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Lorestan_Province,1131727]]"
 - "[[_Standards/WikiData/WD~Isfahan_Province,1367759]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~Tasu'a,141098]]"
+  - "[[_Standards/WikiData/WD~Tasu'a,141098]]"
 - '[[_Standards/WikiData/WD~Ashura,183283]]'
-- "[[_Standards/WikiData/WD~Arba'een,310740]]"
+  - "[[_Standards/WikiData/WD~Arba'een,310740]]"
 - "[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]"
 - '[[_Standards/WikiData/WD~Novruz,483236]]'
 - "[[_Standards/WikiData/WD~Eid_al-Adha,514400]]"
@@ -174,7 +174,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Gazi,5529130]]'
 - '[[_Standards/WikiData/WD~Gozarkhani,5590235]]'
 - '[[_Standards/WikiData/WD~Karingani,6371041]]'
-- "[[_Standards/WikiData/WD~Kho'ini,6401919]]"
+  - "[[_Standards/WikiData/WD~Kho'ini,6401919]]"
 - '[[_Standards/WikiData/WD~Khunsari,6403030]]'
 - "[[_Standards/WikiData/WD~Koresh-e_Rostam,6432160]]"
 - '[[_Standards/WikiData/WD~Natanzi,6968399]]'
@@ -285,62 +285,62 @@ Dewey_Decimal_Classification: 2--55
 BHCL_UUID: 726ed594-b1b1-47a4-b617-09fad9ab0404
 Unicode_character: 🇮🇷 
 IPA_transcription:
-- ɪˈɹæn
-- ɪˈɹɑːn
-- ʔiːˈɾɒn
+  - ɪˈɹæn
+  - ɪˈɹɑːn
+  - ʔiːˈɾɒn
 Colon_Classification: SG--45
 Krugosvet_article: strany_mira/IRAN.html
 Gujarati_Vishwakosh_entry: ઈરાન
 demonym:
-- إيرانية
-- irania
-- iranín
-- iranina
-- iranino
-- iranio
-- iraniu
-- Iranerin
-- iranano
-- Iranienne
-- איראני
-- איראנית
-- iráni
-- Iranano
-- iraniana
-- iraniane
-- iraniani
-- iraniano
-- irani
-- ایرونی
-- iranian
-- iraniană
-- iranieni
-- иранец
-- иранка
-- ایرانی
-- iranian
-- iraniana
-- iraniane
-- iraniani
-- Liränan
-- إيراني
-- إيرانية
-- إيرانيين
-- إيرانيات
-- Iranec
-- Iranka
-- Iaránach
-- Persian
-- ایرانی
-- Iranisch
-- Iranian
-- ইরানী
-- Iraner
-- إيراني
-- iranien
-- иранцы
-- Iranien
-- إيرانيون
+  - إيرانية
+  - irania
+  - iranín
+  - iranina
+  - iranino
+  - iranio
+  - iraniu
+  - Iranerin
+  - iranano
+  - Iranienne
+  - איראני
+  - איראנית
+  - iráni
+  - Iranano
+  - iraniana
+  - iraniane
+  - iraniani
+  - iraniano
+  - irani
+  - ایرونی
+  - iranian
+  - iraniană
+  - iranieni
+  - иранец
+  - иранка
+  - ایرانی
+  - iranian
+  - iraniana
+  - iraniane
+  - iraniani
+  - Liränan
+  - إيراني
+  - إيرانية
+  - إيرانيين
+  - إيرانيات
+  - Iranec
+  - Iranka
+  - Iaránach
+  - Persian
+  - ایرانی
+  - Iranisch
+  - Iranian
+  - ইরানী
+  - Iraner
+  - إيراني
+  - iranien
+  - иранцы
+  - Iranien
+  - إيرانيون
 motto_text: "استقلال، آزادی، جمهوری اسلامی"
 official_name: "جمهوری اسلامی ایران"
 population: 86758304
@@ -357,8 +357,8 @@ GOST_7_67_cyrillic: ИРН
 Library_of_Congress_Classification: HA4570.2
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fatima%20Masumeh%20Shrine%2C%20Qom%2C%20Iran.jpg"
 nominal_GDP:
-- 359096907773
-- 388544468140
+  - 359096907773
+  - 388544468140
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 country: '[[_Standards/WikiData/WD~Iran,794]]'
 capital: '[[_Standards/WikiData/WD~Tehran,3616]]'
@@ -374,31 +374,31 @@ compulsory_education_minimum_age_: 6
 VAT_rate: 9
 compulsory_education_maximum_age_: 12
 marriageable_age:
-- 15
-- 18
+  - 15
+  - 18
 BTI_Governance_Index:
-- 1.7
-- 3.2
-- 1.79
-- 1.92
-- 2.16
-- 2.33
-- 2.73
-- 2.81
-- 2.85
+  - 1.7
+  - 3.2
+  - 1.79
+  - 1.92
+  - 2.16
+  - 2.33
+  - 2.73
+  - 2.81
+  - 2.85
 mains_voltage: 220
 suicide_rate: 5.1
 Democracy_Index: 1.95
 highest_point: '[[_Standards/WikiData/WD~Damavand,40758]]'
 BTI_Status_Index:
-- 2.83
-- 2.98
-- 3.07
-- 3.15
-- 3.64
-- 3.65
-- 3.96
-- 3.98
+  - 2.83
+  - 2.98
+  - 3.07
+  - 3.15
+  - 3.64
+  - 3.65
+  - 3.96
+  - 3.98
 Gini_coefficient: 40.9
 Happy_Planet_Index_score: 43.6
 trunk_prefix: 0
@@ -409,18 +409,18 @@ visitors_per_year: 1654000
 total_fertility_rate: 1.707
 IAB_code: 1323
 death_rate:
-- 4.872
-- 5.567
-- 6.152
-- 6.437
+  - 4.872
+  - 5.567
+  - 6.152
+  - 6.437
 mobile_country_code: 432
 literacy_rate: 85.54
 UIC_numerical_country_code: 96
 birth_rate:
-- 13.242
-- 13.699
-- 14.231
-- 15.118
+  - 13.242
+  - 13.699
+  - 14.231
+  - 15.118
 maritime_identification_digits: 422
 WOEID: 130758
 M49_code: 364
@@ -442,16 +442,16 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%2
 native_label: ایران
 coordinates_of_easternmost_point: "Point(63.33345 27.11704)"
 urban_population:
-- 65261618
-- 66230561
-- 67125144
-- 68013036
+  - 65261618
+  - 66230561
+  - 67125144
+  - 68013036
 PM20_geo_code: B40
 number_of_out_of_school_children: 1595342
 area: 1648195
 aircraft_registration_prefix:
-- EP
-- IR
+  - EP
+  - IR
 U_S_National_Archives_Identifier: 10044493
 inception: "1979-04-01"
 has_time_started: "1979-04-01"
@@ -467,29 +467,29 @@ subreddit: iran
 GitHub_topic: iran
 short_name: Иран
 rural_population:
-- 20537534
-- 20798288
-- 21059632
-- 21302584
+  - 20537534
+  - 20798288
+  - 21059632
+  - 21302584
 country_calling_code: +98
 coordinates_of_westernmost_point: "Point(44.1042 39.3492)"
 female_population:
-- 42772045
-- 43155308
-- 43496643
-- 43835978
+  - 42772045
+  - 43155308
+  - 43496643
+  - 43835978
 male_population:
-- 43792157
-- 44134884
-- 44426789
-- 44714592
+  - 43792157
+  - 44134884
+  - 44426789
+  - 44714592
 has_id_wikidata: Q794
 location:
-- 34.175
-- 51.555
+  - 34.175
+  - 51.555
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26928
 isDeleted: false
 confidential: public
@@ -497,7 +497,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Iran
 linkTitle: 
@@ -507,20 +507,20 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Iran
+  - Iran
 - "Iran (Islamic Republic of)"
 - "Irán (República Islámica del)"
 - "Iran (République islamique d')"
 - "إيران (جمهورية - الإسلامية)"
-- 伊朗(伊斯兰共和国)
+  - 伊朗(伊斯兰共和国)
 - "Иран (Исламская Республика)"
 - "the Islamic Republic of Iran"
 - "la República Islámica del Irán"
-- Persia
-- Persien
+  - Persia
+  - Persien
 Languages:
-- fa-IR
-- ku
+  - fa-IR
+  - ku
 icon: flag-ir
 ---
 

@@ -123,44 +123,44 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Sossusvlei%20ba
 official_website: "https://gov.na/"
 country_calling_code: +264
 demonym:
-- Namibijec
-- Namibijka
-- ناميبي
-- ناميبية
-- ناميبيين
-- ناميبيات
-- ناميبي
-- Namabach
-- Namibian
-- ناميبية
-- ناميبيون
-- namibiana
-- namibianu
-- নামিবীয়
-- namibià
-- namibiana
-- namibianes
-- namibians
-- Namibiano
-- Namibien
-- Namibienne
-- נמיבי
-- נמיבית
-- namíbiai
-- Namibiano
-- namibiana
-- namibiane
-- namibiani
-- namibiano
-- namibian
-- namibian
-- namibiană
-- namibieni
-- namibian
-- namibiana
-- namibiane
-- namibiani
-- Namibiyänan
+  - Namibijec
+  - Namibijka
+  - ناميبي
+  - ناميبية
+  - ناميبيين
+  - ناميبيات
+  - ناميبي
+  - Namabach
+  - Namibian
+  - ناميبية
+  - ناميبيون
+  - namibiana
+  - namibianu
+  - নামিবীয়
+  - namibià
+  - namibiana
+  - namibianes
+  - namibians
+  - Namibiano
+  - Namibien
+  - Namibienne
+  - נמיבי
+  - נמיבית
+  - namíbiai
+  - Namibiano
+  - namibiana
+  - namibiane
+  - namibiani
+  - namibiano
+  - namibian
+  - namibian
+  - namibiană
+  - namibieni
+  - namibian
+  - namibiana
+  - namibiane
+  - namibiani
+  - Namibiyänan
 ISNI: 0000000121703475
 MeSH_tree_code: Z01.058.290.175.580
 coordinates_of_easternmost_point: "Point(25.26171 -17.79052)"
@@ -169,8 +169,8 @@ motto_text:
 - "Endless horizons"
 - "Unity, Liberty, Justice"
 nominal_GDP:
-- 12446290855
-- 12607436976
+  - 12446290855
+  - 12607436976
 coordinate_location: "Point(17.0 -23.0)"
 coordinates_of_northernmost_point:
 - "Point(13.15 -16.97)"
@@ -217,57 +217,57 @@ marriageable_age: 21
 age_of_majority: 21
 mains_voltage: 220
 BTI_Status_Index:
-- 6.5
-- 6.46
-- 6.49
-- 6.99
-- 7.05
-- 7.09
-- 7.15
-- 7.32
+  - 6.5
+  - 6.46
+  - 6.49
+  - 6.99
+  - 7.05
+  - 7.09
+  - 7.15
+  - 7.32
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.na,42758]]'
 Happy_Planet_Index_score: 36.8
 Inequality_adjusted_Human_Development_Index: 0.402
 trunk_prefix: 0
 BTI_Governance_Index:
-- 5.07
-- 5.15
-- 5.49
-- 5.89
-- 6.01
-- 6.03
-- 6.05
-- 6.15
-- 6.17
+  - 5.07
+  - 5.15
+  - 5.49
+  - 5.89
+  - 6.01
+  - 6.03
+  - 6.05
+  - 6.15
+  - 6.17
 Gini_coefficient: 59.1
 Human_Development_Index: 0.615
 Democracy_Index: 6.52
 mobile_country_code: 649
 total_fertility_rate: 3.522
 death_rate:
-- 8.248
-- 8.475
-- 10.709
-- 11.457
+  - 8.248
+  - 8.475
+  - 10.709
+  - 11.457
 ISO_3166_1_numeric_code: 516
 M49_code: 516
 maritime_identification_digits: 659
 OmegaWiki_Defined_Meaning: 7981
 birth_rate:
-- 26.921
-- 27.439
-- 27.876
-- 28.433
+  - 26.921
+  - 27.439
+  - 27.876
+  - 28.433
 ISO_3166_1_alpha_2_code: NA
 WIPO_ST_3: NA
 IAB_code: 1363
 life_expectancy: 64.388
 number_of_out_of_school_children: 91819
 male_population:
-- 1201660
-- 1181378
-- 1221166
-- 1238563
+  - 1201660
+  - 1181378
+  - 1221166
+  - 1238563
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Namibia.svg"
 licence_plate_code: NAM
 ISO_3166_1_alpha_3_code: NAM
@@ -276,24 +276,24 @@ INSEE_countries_and_foreign_territories_code: 99311
 FIPS_10_4_countries_and_regions_: WA
 area: 825615
 rural_population:
-- 1181955
-- 1189044
-- 1193946
-- 1197828
+  - 1181955
+  - 1189044
+  - 1193946
+  - 1197828
 urban_population:
-- 1248816
-- 1295152
-- 1341107
-- 1385057
+  - 1248816
+  - 1295152
+  - 1341107
+  - 1385057
 female_population:
-- 1265266
-- 1287438
-- 1308985
-- 1328449
+  - 1265266
+  - 1287438
+  - 1308985
+  - 1328449
 population: 2533794
 coordinates_of_westernmost_point: "Point(11.75055 -17.25013)"
 official_name:
-- Namibia
+  - Namibia
 - "République de Namibie"
 ITU_letter_code: NMB
 Commons_category: Namibia

@@ -124,47 +124,47 @@ lowest_point: "[[_Standards/WikiData/WD~Pedra_de_Lume_salt_ponds,65688954]]"
 studied_in: "[[_Standards/WikiData/WD~Cape_Verde_studies,115669342]]"
 UMLS_CUI: C0006893
 nominal_GDP:
-- 2314816792
-- 2091741774
+  - 2314816792
+  - 2091741774
 demonym:
 - "كاپ ڤيردي"
 - "كاپ ڤيردية"
 - "كاپ ڤيرديين"
 - "كاپ ڤيردييات"
-- cabuverdiana
-- cabuverdiano
+  - cabuverdiana
+  - cabuverdiano
 - "কাবু ভের্দীয়"
-- capverdià
-- capverdiana
-- kapverder
+  - capverdià
+  - capverdiana
+  - kapverder
 - "Cabo Verdean"
 - "Cape Verdean"
-- Cap-verdien
-- Cap-Verdien
-- Cap-verdienne
-- Cap-Verdienne
-- Capverdien
-- Capverdienne
+  - Cap-verdien
+  - Cap-Verdien
+  - Cap-verdienne
+  - Cap-Verdienne
+  - Capverdien
+  - Capverdienne
 - "כף ורדי"
 - "כף ורדית"
 - "zöld-foki köztársasági"
-- capoverdiana
-- capoverdiane
-- capoverdiani
-- capoverdiano
-- capoverdean
-- cabo-verdiano
-- capverdian
-- capverdiană
-- capverdieni
-- caoverdian
-- caoverdiana
-- caoverdiane
-- caoverdiani
+  - capoverdiana
+  - capoverdiane
+  - capoverdiani
+  - capoverdiano
+  - capoverdean
+  - cabo-verdiano
+  - capverdian
+  - capverdiană
+  - capverdieni
+  - caoverdian
+  - caoverdiana
+  - caoverdiane
+  - caoverdiani
 ISNI: 0000000121733041
 MeSH_tree_code:
-- Z01.058.290.190.258
-- Z01.639.040.543
+  - Z01.058.290.190.258
+  - Z01.639.040.543
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Verde%20islands%20resized.jpg"
 coordinates_of_easternmost_point: "Point(-22.665277777 16.085)"
 diplomatic_relation:
@@ -207,10 +207,10 @@ total_fertility_rate: 2.303
 IAB_code: 1266
 area: 4033
 death_rate:
-- 5.162
-- 5.659
-- 5.692
-- 6.028
+  - 5.162
+  - 5.659
+  - 5.692
+  - 6.028
 Dewey_Decimal_Classification: 2--6658
 FIPS_10_4_countries_and_regions_: CV
 licence_plate_code: CV
@@ -218,14 +218,14 @@ ISO_3166_1_alpha_2_code: CV
 WIPO_ST_3: CV
 number_of_out_of_school_children: 14273
 birth_rate:
-- 16.686
-- 16.951
-- 17.158
-- 17.463
+  - 16.686
+  - 16.951
+  - 17.158
+  - 17.463
 hashtag: CapeVerde
 subreddit:
-- CapeVerde
-- CaboVerde
+  - CapeVerde
+  - CaboVerde
 Unicode_character: 🇨🇻 
 Commons_gallery: "Kabu Verdi / Cabo Verde"
 Krugosvet_article: strany_mira/KABO-VERDE.html
@@ -238,27 +238,27 @@ coordinates_of_westernmost_point: "Point(-25.361111111 17.054166666)"
 mobile_country_code: 625
 maritime_identification_digits: 617
 female_population:
-- 295580
-- 290056
-- 292895
-- 298239
+  - 295580
+  - 290056
+  - 292895
+  - 298239
 life_expectancy: 72.798
 rural_population:
-- 192507
-- 193416
-- 194299
-- 195065
+  - 192507
+  - 193416
+  - 194299
+  - 195065
 OmegaWiki_Defined_Meaning: 153641
 male_population:
-- 286974
-- 289745
-- 292344
-- 294911
+  - 286974
+  - 289745
+  - 292344
+  - 294911
 urban_population:
-- 381965
-- 388341
-- 394509
-- 400642
+  - 381965
+  - 388341
+  - 394509
+  - 400642
 INSEE_countries_and_foreign_territories_code: 99396
 population: 555988
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cape%20Verde.svg"

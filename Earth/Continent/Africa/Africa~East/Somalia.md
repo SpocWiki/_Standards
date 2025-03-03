@@ -96,48 +96,48 @@ has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 open_data_portal: "[[_Standards/WikiData/WD~Somalia_Open_Data_Portal,96999258]]"
 head_of_government: "[[_Standards/WikiData/WD~Mohamed_Hussein_Roble,99605101]]"
 nominal_GDP:
-- 8126105600
-- 7628000011
+  - 8126105600
+  - 7628000011
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Somalia%20%28orthographic%20projection%292.svg"
 demonym:
-- صومالي
-- صوماليات
-- صومالية
-- صوماليين
-- Somálach
-- صومالية
-- Somali
-- סומלית
-- somalo
-- somali
-- somaleză
-- sòmało
-- Somalien
-- סומלי
-- somali
-- صومالي
-- صوماليون
-- somalí
-- somalín
-- সোমালি
-- Somalian
-- Somaliano
-- Somalienne
-- szomáliai
-- Somaliano
-- somala
-- somale
-- Somalijczyk
-- Somalijka
-- somalez
-- somalezi
-- сомалийцы
-- сомаліжць
-- сомалійці
-- sòmała
-- sòmałe
-- sòmałi
-- Somalänan
+  - صومالي
+  - صوماليات
+  - صومالية
+  - صوماليين
+  - Somálach
+  - صومالية
+  - Somali
+  - סומלית
+  - somalo
+  - somali
+  - somaleză
+  - sòmało
+  - Somalien
+  - סומלי
+  - somali
+  - صومالي
+  - صوماليون
+  - somalí
+  - somalín
+  - সোমালি
+  - Somalian
+  - Somaliano
+  - Somalienne
+  - szomáliai
+  - Somaliano
+  - somala
+  - somale
+  - Somalijczyk
+  - Somalijka
+  - somalez
+  - somalezi
+  - сомалийцы
+  - сомаліжць
+  - сомалійці
+  - sòmała
+  - sòmałe
+  - sòmałi
+  - Somalänan
 ISNI: 000000012173591X
 MeSH_tree_code: Z01.058.290.120.730
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mogadishu%20banner%20Lido%20Beach.jpg"
@@ -177,30 +177,30 @@ part_of: "[[_Standards/WikiData/WD~East_Africa,27407]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 7
 BTI_Governance_Index:
-- 1.7
-- 1.04
-- 1.51
-- 1.55
-- 1.78
-- 2.08
-- 2.25
-- 2.41
-- 2.43
+  - 1.7
+  - 1.04
+  - 1.51
+  - 1.55
+  - 1.78
+  - 2.08
+  - 2.25
+  - 2.41
+  - 2.43
 marriageable_age: 18
 mains_voltage: 220
 BTI_Status_Index:
-- 1.22
-- 1.32
-- 1.34
-- 1.36
-- 1.38
-- 1.54
+  - 1.22
+  - 1.32
+  - 1.34
+  - 1.36
+  - 1.38
+  - 1.54
 Gini_coefficient: 36.8
 death_rate:
-- 11.39
-- 11.012
-- 11.041
-- 11.596
+  - 11.39
+  - 11.012
+  - 11.041
+  - 11.596
 total_fertility_rate: 6.463
 IAB_code: 1408
 licence_plate_code: SO
@@ -213,10 +213,10 @@ M49_code: 706
 OmegaWiki_Defined_Meaning: 8554
 mobile_country_code: 637
 birth_rate:
-- 43.086
-- 43.561
-- 44.007
-- 44.564
+  - 43.086
+  - 43.561
+  - 44.007
+  - 44.564
 life_expectancy: 56.293
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg"
 maritime_identification_digits: 666
@@ -228,27 +228,28 @@ ISO_3166_1_alpha_3_code: SOM
 ITU_letter_code: SOM
 IOC_country_code: SOM
 urban_population:
-- 7280121
-- 7630345
-- 7974917
-- 8327846
+  - 7280121
+  - 7630345
+  - 7974917
+  - 8327846
 female_population:
-- 7969926
-- 8246544
-- 8509953
-- 8775069
+  - 7969926
+  - 8246544
+  - 8509953
+  - 8775069
 male_population:
-- 8011375
-- 8290471
-- 8555628
-- 8822442
+  - 8011375
+  - 8290471
+  - 8555628
+  - 8822442
 rural_population:
-- 8701179
-- 8906671
-- 9090664
-- 9269665
+  - 8701179
+  - 8906671
+  - 9090664
+  - 9269665
 inception: "1960"
 has_time_started: 1960-06 
+has_time_started: 1960-01-01T00:00:00Z 
 population: 11031386
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg"
 U_S_National_Archives_Identifier: 10035818
@@ -275,13 +276,13 @@ Krugosvet_article: strany_mira/SOMALI.html
 native_label:
 - "جمهورية الصومال الفدرالية"
 - "Jamhuuriyadda Federaalka Soomaaliya"
-- Soomaaliya
+  - Soomaaliya
 - "\U00010488\U0001049D\U00010491\U0001049B\U00010490\U00010498\U00010495\U00010496"
 official_name:
 - "Federal Republic of Somalia"
 - "République fédérale de Somalie"
 - "Federalna Republika Somalii"
-- Soomaaliya
+  - Soomaaliya
 short_name: "\U0001F1F8\U0001F1F4"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Administrative%20divisions%20of%20Somalia.svg"
 has_id_wikidata: Q1045

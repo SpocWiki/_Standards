@@ -1,10 +1,10 @@
 ---
 location:
-- 62
-- -6.78333
+  - 62
+  - -6.78333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26895
 isDeleted: false
 confidential: public
@@ -12,7 +12,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: "Faroe Islands"
 linkTitle: 
@@ -26,11 +26,11 @@ aliases:
 - "Islas Feroe"
 - "Îles Féroé"
 - "جزر فايرو"
-- 法罗群岛
+  - 法罗群岛
 - "Фарерские острова"
 Languages:
-- fo
-- da-FO
+  - fo
+  - da-FO
 has_id_wikidata: Q4628
 member_of:
 - "[[_Standards/WikiData/WD~Nordic_Council,146165]]"
@@ -132,11 +132,11 @@ GitHub_topic: faroe-islands
 subreddit: FaroeIslands
 Libris_URI: jgvxwgd22swqvft
 name_in_native_language:
-- Færøerne
-- Føroyar
+  - Færøerne
+  - Føroyar
 official_name:
-- Færøerne
-- Føroyar
+  - Færøerne
+  - Føroyar
 native_label: Føroyar
 demonym: føroyingur
 short_name: "\U0001F1EB\U0001F1F4"

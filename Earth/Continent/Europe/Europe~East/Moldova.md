@@ -1,10 +1,10 @@
 ---
 location:
-- 47
-- 28.9167
+  - 47
+  - 28.9167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26958
 isDeleted: false
 confidential: public
@@ -12,7 +12,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Moldova
 linkTitle: 
@@ -22,21 +22,21 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Moldova
+  - Moldova
 - "Republic of Moldova"
 - "República de Moldova"
 - "République de Moldova"
 - "جمهورية مولدوفا"
-- 摩尔多瓦共和国
+  - 摩尔多瓦共和国
 - "Республика Молдова"
 - "the Republic of Moldova"
 - "Republic of Moldova (the)"
 - "la República de Moldova"
 Languages:
-- ro
-- ru
-- gag
-- tr
+  - ro
+  - ru
+  - gag
+  - tr
 icon: flag-md
 has_id_wikidata: Q217
 member_of:
@@ -149,57 +149,57 @@ open_data_portal: "[[_Standards/WikiData/WD~Government_Open_Data_Portal_Moldova,
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Moldova%20Europe.png"
 UMLS_CUI: C0026374
 demonym:
-- مولدوڤي
-- مولدوڤية
-- مولدوڤيين
-- مولدوڤيات
-- Moldóvach
-- Moldave
-- Moldovan
-- Moldavian
-- moldovean
-- moldoveancă
-- moldoveni
-- молдаване
-- молдаванин
-- молдаванка
-- moldava
-- moldave
-- moldavi
-- moldavo
-- Moldavänan
-- مولدوفي
-- مولدوفية
-- مولدوفيون
-- moldava
-- moldavu
-- মলদোভীয়
-- moldau
-- moldaus
-- moldava
-- Moldauer
-- moldavo
-- מולדובי
-- מולדובית
-- moldáv
-- Moldovano
-- moldava
-- moldave
-- moldavi
-- moldavo
-- moldovan
+  - مولدوڤي
+  - مولدوڤية
+  - مولدوڤيين
+  - مولدوڤيات
+  - Moldóvach
+  - Moldave
+  - Moldovan
+  - Moldavian
+  - moldovean
+  - moldoveancă
+  - moldoveni
+  - молдаване
+  - молдаванин
+  - молдаванка
+  - moldava
+  - moldave
+  - moldavi
+  - moldavo
+  - Moldavänan
+  - مولدوفي
+  - مولدوفية
+  - مولدوفيون
+  - moldava
+  - moldavu
+  - মলদোভীয়
+  - moldau
+  - moldaus
+  - moldava
+  - Moldauer
+  - moldavo
+  - מולדובי
+  - מולדובית
+  - moldáv
+  - Moldovano
+  - moldava
+  - moldave
+  - moldavi
+  - moldavo
+  - moldovan
 coordinates_of_westernmost_point: "Point(26.61692262 48.27418206)"
 motto_text:
 - "Dewch i Ddarganfod Taith Bywyd"
 - "Discover the routes of life"
 IPA_transcription: molˈdova
 MeSH_tree_code:
-- Z01.542.248.540
-- Z01.542.931.540
-- Z01.586.950.540
+  - Z01.542.248.540
+  - Z01.542.931.540
+  - Z01.586.950.540
 nominal_GDP:
-- 13692230147
-- 14420947884
+  - 13692230147
+  - 14420947884
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
 - "[[_Standards/WikiData/WD~European_Union,458]]"
@@ -234,28 +234,28 @@ age_of_majority: 18
 mains_voltage: 220
 Gini_coefficient: 26
 BTI_Governance_Index:
-- 3.5
-- 5.5
-- 4.46
-- 4.49
-- 4.89
-- 4.99
-- 5.15
-- 5.31
-- 5.39
+  - 3.5
+  - 5.5
+  - 4.46
+  - 4.49
+  - 4.89
+  - 4.99
+  - 5.15
+  - 5.31
+  - 5.39
 Happy_Planet_Index_score: 51
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.md,40324]]'
 highest_point: "[[_Standards/WikiData/WD~Bălănești_Hill,47940]]"
 trunk_prefix: 0
 BTI_Status_Index:
-- 5.06
-- 5.78
-- 5.79
-- 5.91
-- 5.93
-- 5.96
-- 6.24
-- 6.33
+  - 5.06
+  - 5.78
+  - 5.79
+  - 5.91
+  - 5.93
+  - 5.96
+  - 6.24
+  - 6.33
 GS1_country_code: 484
 Democracy_Index: 5.78
 Inequality_adjusted_Human_Development_Index: 0.711
@@ -265,35 +265,35 @@ UIC_numerical_country_code: 23
 mobile_country_code: 259
 subreddit:
 - 373
-- moldova
+  - moldova
 death_rate:
-- 16.36
-- 13.089
-- 14.445
-- 16.609
+  - 16.36
+  - 13.089
+  - 14.445
+  - 16.609
 IAB_code: 1448
 life_expectancy: 71.61
 birth_rate:
-- 12.148
-- 12.432
-- 12.481
-- 12.894
+  - 12.148
+  - 12.432
+  - 12.481
+  - 12.894
 ISO_3166_1_numeric_code: 498
 M49_code: 498
 maritime_identification_digits: 214
 OmegaWiki_Defined_Meaning: 8077
 number_of_out_of_school_children: 75391
 male_population:
-- 1232180
-- 1208783
-- 1251834
-- 1266405
+  - 1232180
+  - 1208783
+  - 1251834
+  - 1266405
 Dewey_Decimal_Classification: 2--476
 female_population:
-- 1363630
-- 1330111
-- 1383296
-- 1397819
+  - 1363630
+  - 1330111
+  - 1383296
+  - 1397819
 FIPS_10_4_countries_and_regions_: MD
 licence_plate_code: MD
 ISO_3166_1_alpha_2_code: MD
@@ -305,15 +305,15 @@ ISO_3166_1_alpha_3_code: MDA
 ITU_letter_code: MDA
 INSEE_countries_and_foreign_territories_code: 99151
 urban_population:
-- 1096117
-- 1116146
-- 1129127
-- 1138316
+  - 1096117
+  - 1116146
+  - 1129127
+  - 1138316
 rural_population:
-- 1442777
-- 1479663
-- 1506003
-- 1525908
+  - 1442777
+  - 1479663
+  - 1506003
+  - 1525908
 native_label: Moldova
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Moldova.svg"
 population: 2603813
