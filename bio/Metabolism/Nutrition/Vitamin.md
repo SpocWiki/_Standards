@@ -1,4 +1,10 @@
 
+Vitamin C has been discovered by [[Lind,James]] in 1747 to prevent [[Vitamin/Scurvy]]. 
+Since Lemons were too expensive and perishable, 1770 [[../../People/Explorers/Early_modern/Cook,James|James Cook]] introduced Sauerkraut that was conserved 
+1881 Nikolai Lunin (scientist) discovered the existence of vitamins. 
+1897 Christian Eichmann of the Dutch East India Company 
+[[Funk,Casimir]] formulated the idea of Vitamins. 
+
 > **Vitamin**s are organic molecules (or a set of closely related molecules called vitamers) 
 > that are essential to an organism in small quantities for proper metabolic function. 
 > 

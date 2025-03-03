@@ -7,6 +7,7 @@ aliases:
 #has_/time_/started :: 1879-03-14 
 #has_/time_/stopped  :: 1955-04-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 #has_/name_/family :: Einstein 
 #has_/name_/given :: Albert 
 

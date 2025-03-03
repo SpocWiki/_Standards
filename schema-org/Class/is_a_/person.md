@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -28,7 +28,7 @@ aliases:
   - schema:Person
 ---
 
-Class of all persons.
+Class of all natural persons.
 
 Tag Instances like this: 
 #is_a_/person

@@ -86,6 +86,11 @@ native language: "[[_Standards/WikiData/WD~English,1860]]"
 instance of: "[[_Standards/WikiData/WD~human,5]]"
 ---
 
+#has_/time_/started  :: 1728-10-27 
+#has_/time_/stopped :: 1779-02-14 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+
 
 ## #has_/text_of_/abstract 
 

@@ -970,7 +970,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Australia/ReadMe]] 
 
-#has_/phone
 [	ISO4217-currency_alphabetic	 :: AUD ]
 [	ISO4217-currency_name	 :: Australian Dollar ]
 [	ISO4217-currency_numeric	 :: 036 ]

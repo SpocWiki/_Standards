@@ -67,6 +67,7 @@ IPA transcription: noˈbɛl
 GitHub topic: nobel-laureates
 ---
 
+#has_/time_/started :: 1901-01-01 
 
 ## #has_/text_of_/abstract 
 
@@ -87,9 +88,11 @@ GitHub topic: nobel-laureates
 > The prize ceremonies take place annually. 
 > Each recipient, known as a laureate, receives a green gold medal plated with 24 karat gold, 
 > a diploma, and a monetary award. 
-> As of 2023, the Nobel Prize monetary award is 11,000,000 kr, amounting to approximately US$1,035,000. 
+> As of 2023, the Nobel Prize monetary award is 11,000,000 kr, 
+> amounting to approximately US$1,035,000. 
 > The medal shows Nobel in profile with "NAT. MDCCCXXXIII- OB. MDCCCXCVI" 
 > which is his year of birth, 1833 (NAT) and year of death, 1896 (OB). 
+> 
 > A prize may not be shared among more than three individuals, 
 > although the Nobel Peace Prize can be awarded to organisations of more than three people. 
 > Nobel Prizes are not awarded posthumously, 

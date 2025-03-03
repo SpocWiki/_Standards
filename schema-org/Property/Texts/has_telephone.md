@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,14 +31,14 @@ aliases:
 Predicate to describe the Text of ContactPoint, Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/text_of_/telephone :: Text ] or 
-- [ has_text_of_telephone :: Text ] 
+- [ #has_/telephone :: Text ] or 
+- [ has_telephone :: Text ] 
 
-The telephone number.
+The telephone number. Specify the Type of Phone Number to distinguish multiple. 
 
 Predicated describes that: 
 [ #has_/domain  :: ContactPoint, Organization, Person, Place ]
-( #has_/name :: has_text_of_telephone )
+( #has_/name :: has_telephone )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

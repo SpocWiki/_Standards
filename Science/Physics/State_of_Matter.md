@@ -39,10 +39,12 @@ Commons category: States of aggregation
 > - plasma. 
 > 
 > Many intermediate states are known to exist, such as liquid crystal, 
-> and some states only exist under extreme conditions, 
-> such as Bose–Einstein condensates and Fermionic condensates (in extreme cold), 
-> neutron-degenerate matter (in extreme density), 
-> and quark–gluon plasma (at extremely high energy).
+> and some states only exist under extreme conditions, such as 
+> - Bose–Einstein condensates like Super-Fluids and 
+> - Fermionic condensates (in extreme cold), 
+> - [[Majorana-Fermion]]s 
+> - neutron-degenerate matter (in extreme density), and 
+> - quark–gluon plasma (at extremely high energy).
 >
 > Historically, the distinction is based on qualitative differences in properties. 
 > Matter in the solid state maintains a fixed volume (assuming no change in temperature or air pressure) 
