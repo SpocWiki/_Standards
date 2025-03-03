@@ -516,7 +516,8 @@ native label: Magyarország
 coordinates of westernmost point: Point(16.11351013 46.86864162)
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Hungary.svg
 coordinate location: Point(19.0 47.0)
-inception: 1000-12-01T00:00:00Z
+inception: 1000-12-01T00:00:00Z 
+has_time_started: 1000-12-01T00:00:00Z 
 "Image Archive, Herder Institute": Q28
 ---
 

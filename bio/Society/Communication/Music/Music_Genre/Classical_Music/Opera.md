@@ -36,7 +36,8 @@ topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Opera,10297022]]
 topic's main template: "[[_Standards/WikiData/WD~Template_Infobox opera,14522449]]"
 maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Performing arts,59956276]]"
 Provenio UUID: 11dbfb07-9641-475c-9599-1fc1c1b893ba
-inception: 1600-01-01T00:00:00Z
+inception: 1600-01-01T00:00:00Z 
+has_time_started: 1600-01-01T00:00:00Z 
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%22La%20donna%20%C3%A8%20mobile%22%20-%20Rigoletto%20%282016-17%29.webm
 properties for this type:
   - language of work or name

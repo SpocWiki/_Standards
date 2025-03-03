@@ -264,7 +264,8 @@ U.S. National Archives Identifier: "10046499"
 coordinates of southernmost point: Point(20.68485528 41.85765951)
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kosovo.svg
 country calling code: "+383"
-inception: 2008-02-17T00:00:00Z
+inception: 2008-02-17T00:00:00Z 
+has_time_started: 2008-02-17T00:00:00Z 
 official website: http://www.rks-gov.net
 geoshape: http://commons.wikimedia.org/data/main/Data:Kosovo.map
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20the%20Republic%20of%20Kosovo.svg

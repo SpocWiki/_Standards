@@ -12,7 +12,6 @@ aliases:
 #has_/name_/given :: Albert 
 
 
-
 ## #has_/text_of_/abstract 
 
 > **Albert Einstein** (, EYEN-styne; German: [ˈalbɛʁt ˈʔaɪnʃtaɪn] ; 14 March 1879 – 18 April 1955) 

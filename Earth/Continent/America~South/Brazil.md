@@ -716,7 +716,8 @@ social media followers:
   - 1446954
 number of out-of-school children: 3181989
 area: 8515767
-inception: 1822-09-07T00:00:00Z
+inception: 1822-09-07T00:00:00Z 
+has_time_started: 1822-09-07T00:00:00Z 
 rural population:
   - 26795765
   - 27182995

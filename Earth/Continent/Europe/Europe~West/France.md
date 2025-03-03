@@ -548,7 +548,8 @@ seal image:
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20French%20Republic.svg
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sainte-Enimie-Gorges%20du%20Tarn%20France%20banner.jpg
 geoshape: http://commons.wikimedia.org/data/main/Data:France.map
-inception: 0843-08-01T00:00:00Z
+inception: 0843-08-01T00:00:00Z 
+has_time_started: 0843-08-01T00:00:00Z 
 coordinates of northernmost point: Point(2.54549 51.089)
 logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20RF.svg
 Instagram username: servicepublicfr

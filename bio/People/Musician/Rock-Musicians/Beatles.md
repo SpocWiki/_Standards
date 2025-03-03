@@ -120,12 +120,14 @@ country of origin: "[[_Standards/WikiData/WD~United Kingdom,145]]"
 social media followers:
   - 8720000
   - 3882367
-"dissolved, abolished or demolished date": 1970-04-10T00:00:00Z
+"dissolved, abolished or demolished date": 1970-04-10T00:00:00Z 
+has_time_stopped: 1970-04-10T00:00:00Z 
 work period (end): 1970-04-10T00:00:00Z
 name: The Beatles
 Commons gallery: The Beatles
 Commons category: The Beatles
-inception: 1960-01-01T00:00:00Z
+inception: 1960-01-01T00:00:00Z 
+has_time_started: 1960-01-01T00:00:00Z 
 work period (start): 1960-01-01T00:00:00Z
 ---
 

@@ -209,7 +209,8 @@ flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kirib
 ISO 3166-1 alpha-3 code: KIR
 IOC country code: KIR
 ITU letter code: KIR
-inception: 1979-07-12T00:00:00Z
+inception: 1979-07-12T00:00:00Z 
+has_time_started: 1979-07-12T00:00:00Z 
 geoshape: http://commons.wikimedia.org/data/main/Data:Kiribati.map
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Kiribati.svg
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Kiribati%20on%20the%20globe%20%28Polynesia%20centered%29.svg

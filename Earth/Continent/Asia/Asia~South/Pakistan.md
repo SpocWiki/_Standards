@@ -420,7 +420,8 @@ ITU letter code: PAK
 male population: 106018220
 official website: http://www.pakistan.gov.pk
 number of out-of-school children: 20799612
-inception: 1947-08-14T00:00:00Z
+inception: 1947-08-14T00:00:00Z 
+has_time_started: 1947-08-14T00:00:00Z 
 geoshape: http://commons.wikimedia.org/data/main/Data:Pakistan.map
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Dudipat%20WV%20Panorama.jpg
 pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Pakistan.ogg

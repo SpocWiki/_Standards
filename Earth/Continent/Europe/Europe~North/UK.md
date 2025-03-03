@@ -448,7 +448,8 @@ coordinate location: Point(-2.0 54.6)
 nominal GDP:
   - 3122480345925
   - 3070667732359
-inception: 1927-04-12T00:00:00Z
+inception: 1927-04-12T00:00:00Z 
+has_time_started: 1927-04-12T00:00:00Z 
 urban population:
   - 55909924
   - 56283168

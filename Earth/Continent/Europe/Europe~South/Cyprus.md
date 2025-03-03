@@ -300,7 +300,8 @@ licence plate code: CY
 ISO 3166-1 alpha-2 code: CY
 FIPS 10-4 (countries and regions): CY
 WIPO ST.3: CY
-inception: 1960-08-16T00:00:00Z
+inception: 1960-08-16T00:00:00Z 
+has_time_started: 1960-08-16T00:00:00Z 
 coordinates of westernmost point: Point(32.2697087 35.0704524)
 U.S. National Archives Identifier: "10035687"
 Commons category: Cyprus

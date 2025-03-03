@@ -119,7 +119,8 @@ GS1 country code: 570-579
 life expectancy: 82.24146
 Commons gallery: Føroyar
 coordinate location: Point(-6.844480555 61.969944444)
-inception: 1948-04-01T00:00:00Z
+inception: 1948-04-01T00:00:00Z 
+has_time_started: 1948-04-01T00:00:00Z 
 geoshape: http://commons.wikimedia.org/data/main/Data:Faroe+Islands.map
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe-Faroe%20Islands.svg
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20Islands%20banner.jpg

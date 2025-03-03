@@ -143,7 +143,8 @@ urban population:
   - 17118329
   - 17234034
 coordinate location: Point(-71.0 -33.0)
-inception: 1810-09-18T00:00:00Z
+inception: 1810-09-18T00:00:00Z 
+has_time_started: 1810-09-18T00:00:00Z 
 coordinates of northernmost point: Point(-69.4683 -17.49848)
 coordinates of easternmost point: Point(-66.41690522 -55.22008886)
 MeSH tree code: Z01.107.757.235

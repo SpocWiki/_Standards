@@ -11,7 +11,8 @@ different from:
 script directionality: "[[_Standards/WikiData/WD~left-to-right,17321844]]"
 has part(s): "[[_Standards/WikiData/WD~Latin-script letter,19776628]]"
 described by source: "[[_Standards/WikiData/WD~Wikipesija,108929142]]"
-inception: -0700-01-01T00:00:00Z
+inception: -0700-01-01T00:00:00Z 
+has_time_started: -0700-01-01T00:00:00Z 
 3D model: http://commons.wikimedia.org/wiki/Special:FilePath/LATEINISCHES%20ALPHABET%20NOTO%20SANS.stl
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abecedarium.svg
 Unicode range:

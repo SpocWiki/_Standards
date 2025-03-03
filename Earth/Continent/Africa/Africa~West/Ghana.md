@@ -332,7 +332,8 @@ Commons category: Ghana
 Commons gallery: Ghana
 coordinates of southernmost point: Point(-2.0920372 4.73964894)
 country calling code: "+233"
-inception: 1957-01-01T00:00:00Z
+inception: 1957-01-01T00:00:00Z 
+has_time_started: 1957-01-01T00:00:00Z 
 rural population:
   - 13646945
   - 13725263

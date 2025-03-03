@@ -240,7 +240,8 @@ ISO 3166-1 alpha-3 code: BLZ
 ITU letter code: BLZ
 IOC country code: BIZ
 coordinates of westernmost point: Point(-89.22758013 15.89616246)
-inception: 1981-09-21T00:00:00Z
+inception: 1981-09-21T00:00:00Z 
+has_time_started: 1981-09-21T00:00:00Z 
 geoshape: http://commons.wikimedia.org/data/main/Data:Belize.map
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Belize%20banner%20Caye%20with%20beach%20huts%20and%20palm%20trees.jpg
 locator map image:

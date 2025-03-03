@@ -372,7 +372,8 @@ urban population:
   - 22862550
   - 21736651
   - 24025884
-inception: 1964-04-26T00:00:00Z
+inception: 1964-04-26T00:00:00Z 
+has_time_started: 1964-04-26T00:00:00Z 
 hashtag: Tanzania
 Commons gallery: Tanzania
 Commons category: Tanzania

@@ -186,7 +186,8 @@ ISO 3166-1 alpha-3 code: TUV
 ITU letter code: TUV
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tuvalu.svg
 U.S. National Archives Identifier: "10035728"
-inception: 1978-10-01T00:00:00Z
+inception: 1978-10-01T00:00:00Z 
+has_time_started: 1978-10-01T00:00:00Z 
 geoshape: http://commons.wikimedia.org/data/main/Data:Tuvalu.map
 pronunciation audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Tuvalu.ogg

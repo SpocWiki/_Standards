@@ -263,7 +263,8 @@ area: 51179.92
 Commons category: Costa Rica
 Commons gallery: Costa Rica
 PM20 geo code: E70
-inception: 1821-01-01T00:00:00Z
+inception: 1821-01-01T00:00:00Z 
+has_time_started: 1821-01-01T00:00:00Z 
 ISO 3166-1 alpha-3 code: CRI
 U.S. National Archives Identifier: "10044685"
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Costa%20Rica.svg

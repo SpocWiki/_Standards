@@ -123,7 +123,8 @@ longitude of ascending node: 49.55953892
 IPA transcription: maʁs
 MeSH tree code: G01.060.075.730.700.625
 apoapsis: 249232432
-inception: -4540000000-01-01T00:00:00Z
+inception: -4540000000-01-01T00:00:00Z 
+has_time_started: -4540000000-01-01T00:00:00Z 
 highest point: "[[_Standards/WikiData/WD~Olympus Mons,520]]"
 parent astronomical body: "[[_Standards/WikiData/WD~Sun,525]]"
 apparent magnitude: -2.94

@@ -37,7 +37,8 @@ audio:
 country of origin: "[[_Standards/WikiData/WD~Spain,29]]"
 Commons gallery: Flamenco
 Commons category: Flamenco
-inception: 1774-01-01T00:00:00Z
+inception: 1774-01-01T00:00:00Z 
+has_time_started: 1774-01-01T00:00:00Z 
 ---
 
 

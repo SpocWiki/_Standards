@@ -259,7 +259,8 @@ urban population:
   - 3534267
   - 3771972
 life expectancy: 51.835
-inception: 1971-04-19T00:00:00Z
+inception: 1971-04-19T00:00:00Z 
+has_time_started: 1971-04-19T00:00:00Z 
 female population:
   - 4016374
   - 4109203

@@ -247,7 +247,8 @@ rural population:
   - 8906671
   - 9090664
   - 9269665
-inception: 1960-01-01T00:00:00Z
+inception: 1960-01-01T00:00:00Z 
+has_time_started: 1960-01-01T00:00:00Z 
 population: 11031386
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg
 U.S. National Archives Identifier: "10035818"

@@ -258,7 +258,8 @@ WIPO ST.3: AD
 INSEE countries and foreign territories code: "99130"
 GS1 country code: 840-849
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Andorra.svg
-inception: 1278-01-01T00:00:00Z
+inception: 1278-01-01T00:00:00Z 
+has_time_started: 1278-01-01T00:00:00Z 
 Dewey Decimal Classification: 2--4679
 Commons category: Andorra
 Commons gallery: Andorra

@@ -38,7 +38,8 @@ different from:
 fabrication method: "[[_Standards/WikiData/WD~breadmaking,3063799]]"
 instance of: "[[_Standards/WikiData/WD~type of food or dish,19861951]]"
 UMLS CUI: C0006138
-inception: -30000-01-01T00:00:00Z
+inception: -30000-01-01T00:00:00Z 
+has_time_started: -30000-01-01T00:00:00Z 
 has part(s):
   - "[[_Standards/WikiData/WD~water,283]]"
   - "[[_Standards/WikiData/WD~flour,36465]]"

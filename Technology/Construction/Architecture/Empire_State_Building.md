@@ -10,7 +10,8 @@ X (Twitter) username:
 Facebook username: empirestatebuilding
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Attractions%20Banner.jpg
 date of official opening: 1931-05-01T00:00:00Z
-inception: 1931-05-01T00:00:00Z
+inception: 1931-05-01T00:00:00Z 
+has_time_started: 1931-05-01T00:00:00Z 
 located on street:
   - "[[_Standards/WikiData/WD~Fifth Avenue,109858]]"
   - "[[_Standards/WikiData/WD~34th Street,110049]]"

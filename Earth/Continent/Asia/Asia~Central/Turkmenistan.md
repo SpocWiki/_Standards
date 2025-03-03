@@ -256,7 +256,8 @@ Unicode character: 🇹🇲
 hashtag: Turkmenistan
 subreddit: Turkmenistan
 Commons category: Turkmenistan
-inception: 1991-10-27T00:00:00Z
+inception: 1991-10-27T00:00:00Z 
+has_time_started: 1991-10-27T00:00:00Z 
 geoshape: http://commons.wikimedia.org/data/main/Data:Turkmenistan.map
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Turkmenistan.svg
 pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Turkmenistan.ogg

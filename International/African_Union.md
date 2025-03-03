@@ -108,7 +108,8 @@ diplomatic relation:
 social media followers: 980583
 Commons category: African Union
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20African%20Union.svg
-inception: 1999-09-09T00:00:00Z
+inception: 1999-09-09T00:00:00Z 
+has_time_started: 1999-09-09T00:00:00Z 
 X (Twitter) username: _AfricanUnion
 aliases:
   - African Union

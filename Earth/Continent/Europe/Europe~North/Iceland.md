@@ -247,7 +247,8 @@ demonym: Icelandic
 motto text: Inspired by Iceland
 short name: 🇮🇸
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Iceland%20%28orthographic%20projection%29.svg
-inception: 1944-06-17T00:00:00Z
+inception: 1944-06-17T00:00:00Z 
+has_time_started: 1944-06-17T00:00:00Z 
 coordinates of westernmost point: Point(-24.53338265 65.50293716)
 coordinate location: Point(-19.0 65.0)
 coordinates of southernmost point: Point(-18.73540561 63.39402834)

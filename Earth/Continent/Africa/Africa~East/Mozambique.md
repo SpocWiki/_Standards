@@ -282,7 +282,8 @@ female population:
   - 16793302
 PM20 geo code: C100
 number of out-of-school children: 2405631
-inception: 1975-06-25T00:00:00Z
+inception: 1975-06-25T00:00:00Z 
+has_time_started: 1975-06-25T00:00:00Z 
 IOC country code: MOZ
 ITU letter code: MOZ
 ISO 3166-1 alpha-3 code: MOZ

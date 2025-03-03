@@ -297,7 +297,8 @@ subreddit: Liberia
 hashtag: Liberia
 coordinate location: Point(-9.75 6.533333)
 Dewey Decimal Classification: 2--6662
-inception: 1822-01-07T00:00:00Z
+inception: 1822-01-07T00:00:00Z 
+has_time_started: 1822-01-07T00:00:00Z 
 Unicode character: 🇱🇷
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Liberia.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liberian%20Capitol%20Building.jpg

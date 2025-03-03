@@ -436,7 +436,8 @@ short name: 🇳🇱
 population: 17942942
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20coat%20of%20arms%20of%20the%20Netherlands.svg
 geoshape: http://commons.wikimedia.org/data/main/Data:Nederland.map
-inception: 1795-01-19T00:00:00Z
+inception: 1795-01-19T00:00:00Z 
+has_time_started: 1795-01-19T00:00:00Z 
 coordinates of northernmost point: Point(6.74727917 53.46633589)
 route map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Genummerde%20wegen%202009.svg

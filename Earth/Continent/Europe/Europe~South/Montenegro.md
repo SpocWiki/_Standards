@@ -292,7 +292,8 @@ Commons category: Montenegro
 hashtag: Montenegro
 Commons gallery: Црна Гора / Crna Gora
 short name: 🇲🇪
-inception: 2006-06-03T00:00:00Z
+inception: 2006-06-03T00:00:00Z 
+has_time_started: 2006-06-03T00:00:00Z 
 coordinate location: Point(19.216667 42.766667)
 coordinates of westernmost point: Point(18.4338221 42.48397418)
 coordinates of northernmost point: Point(18.98 43.55)

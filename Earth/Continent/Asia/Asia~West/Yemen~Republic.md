@@ -289,7 +289,8 @@ male population:
   - 17023203
 U.S. National Archives Identifier: "10044503"
 coordinates of easternmost point: Point(53.108916666 16.650472222)
-inception: 1990-05-22T00:00:00Z
+inception: 1990-05-22T00:00:00Z 
+has_time_started: 1990-05-22T00:00:00Z 
 coordinates of northernmost point: Point(52.0 19.0)
 geoshape: http://commons.wikimedia.org/data/main/Data:Yemen.map
 pronunciation audio:

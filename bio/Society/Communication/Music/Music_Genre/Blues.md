@@ -18,7 +18,8 @@ topic's main template: "[[_Standards/WikiData/WD~Template_Blues,10514224]]"
 on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
 different from: "[[_Standards/WikiData/WD~blues,39076517]]"
 described by source: "[[_Standards/WikiData/WD~DDEX AVS Data Dictionary Version 1,106615149]]"
-inception: 1890-01-01T00:00:00Z
+inception: 1890-01-01T00:00:00Z 
+has_time_started: 1890-01-01T00:00:00Z 
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stafford%20and%20Her%20Jazz%20Band%20-%20Royal%20Garden%20Blues.mp3
 has use: "[[_Standards/WikiData/WD~music,638]]"
 country of origin: "[[_Standards/WikiData/WD~United States,30]]"

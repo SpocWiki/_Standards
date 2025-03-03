@@ -206,7 +206,8 @@ urban population:
   - 2695952
 population: 4614974
 ISO 3166-1 alpha-3 code: MRT
-inception: 1960-11-28T00:00:00Z
+inception: 1960-11-28T00:00:00Z 
+has_time_started: 1960-11-28T00:00:00Z 
 IOC country code: MTN
 ITU letter code: MTN
 licence plate code: RIM

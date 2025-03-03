@@ -496,7 +496,8 @@ GitHub topic: poland
 CIVICUS Monitor country entry: poland
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Warsaw%20Old%20Town%20Market%20Square%2010.JPG
 population: 38382576
-inception: 1918-11-11T00:00:00Z
+inception: 1918-11-11T00:00:00Z 
+has_time_started: 1918-11-11T00:00:00Z 
 coordinates of northernmost point: Point(18.292777777 54.835555555)
 coordinates of easternmost point: Point(24.14563179 50.86940732)
 U.S. National Archives Identifier: "10045341"

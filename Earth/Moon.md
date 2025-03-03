@@ -28,7 +28,8 @@ subreddit: moon
 Krugosvet article: nauka_i_tehnika/astronomiya/LUNA.html
 orbital period: 27.321661
 synodic period: 29.530589
-inception: -4527000000-01-01T00:00:00Z
+inception: -4527000000-01-01T00:00:00Z 
+has_time_started: -4527000000-01-01T00:00:00Z 
 has part(s):
   - "[[_Standards/WikiData/WD~Atmosphere of the Moon,115507]]"
   - "[[_Standards/WikiData/WD~Montes Pyrenaeus,500909]]"

@@ -72,7 +72,8 @@ name:
   - Devanagari
   - Devanagari (Nagari)
   - dévanâgarî
-inception: 1100-01-01T00:00:00Z
+inception: 1100-01-01T00:00:00Z 
+has_time_started: 1100-01-01T00:00:00Z 
 ---
 
 

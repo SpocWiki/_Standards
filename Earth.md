@@ -23,7 +23,8 @@ rotation period: 24
 coordinates of southernmost point: Point(0.0 -90.0)
 coordinates of northernmost point: Point(0.0 90.0)
 longitude of ascending node: 348.73936
-inception: -4540000000-01-01T00:00:00Z
+inception: -4540000000-01-01T00:00:00Z 
+has_time_started: -4540000000-01-01T00:00:00Z 
 highest point: "[[_Standards/WD/WD~Mount_Everest,513]]"
 lowest point: "[[_Standards/WD/WD~Challenger_Deep,459173]]"
 opposite of: "[[_Standards/WD/WD~sky,527]]"

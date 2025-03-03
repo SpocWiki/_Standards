@@ -349,7 +349,8 @@ population: 3444263
 Commons category: Uruguay
 Commons gallery: Uruguay
 hashtag: Uruguay
-inception: 1825-08-25T00:00:00Z
+inception: 1825-08-25T00:00:00Z 
+has_time_started: 1825-08-25T00:00:00Z 
 ISO 3166-1 alpha-3 code: URY
 Unicode character: 🇺🇾
 U.S. National Archives Identifier: "10035745"

@@ -840,7 +840,8 @@ official name:
   - République fédérale du Nigéria
   - Nijeriya
   - Naigeria
-inception: 1963-10-01T00:00:00Z
+inception: 1963-10-01T00:00:00Z 
+has_time_started: 1963-10-01T00:00:00Z 
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Nigeria.svg
 ISO 3166-1 alpha-3 code: NGA
 geoshape: http://commons.wikimedia.org/data/main/Data:Nigeria.map

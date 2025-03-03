@@ -206,7 +206,8 @@ short name:
   - 🇵🇼
   - PW
 coordinates of northernmost point: Point(134.63 8.17)
-inception: 1994-10-01T00:00:00Z
+inception: 1994-10-01T00:00:00Z 
+has_time_started: 1994-10-01T00:00:00Z 
 coordinate location: Point(134.55 7.466667)
 area: 465.550362
 ISO 3166-1 alpha-3 code: PLW

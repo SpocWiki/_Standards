@@ -18,7 +18,7 @@ economy of topic: "[[_Standards/WikiData/WD~economy of the British Empire,488031
 demographics of topic: "[[_Standards/WikiData/WD~demographics of the British Empire,48999486]]"
 has part(s): "[[_Standards/WikiData/WD~Colony of Trinidad,116288296]]"
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20United%20Kingdom%20%281901-1952%29.svg
-inception: 1583-01-01T00:00:00Z
+inception: 1583-01-01T00:00:00Z 
 has_time_started: 1583-01-01T00:00:00Z 
 continent:
   - "[[_Standards/WikiData/WD~Insular Oceania,538]]"
@@ -37,7 +37,7 @@ basic form of government: "[[_Standards/WikiData/WD~constitutional monarchy,4161
 area: 37200000
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%281-2%29.svg
 PM20 geo code: A23
-"dissolved, abolished or demolished date": 1997-01-01T00:00:00Z
+"dissolved, abolished or demolished date": 1997-01-01T00:00:00Z 
 has_time_stopped: 1997-01-01T00:00:00Z 
 coordinate location: Point(-0.1275 51.507222)
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/British%20Empire%20banner%20map%20border.jpg

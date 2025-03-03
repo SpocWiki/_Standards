@@ -271,7 +271,8 @@ rural population:
   - 10617452
   - 10827136
   - 11033499
-inception: 1980-04-18T00:00:00Z
+inception: 1980-04-18T00:00:00Z 
+has_time_started: 1980-04-18T00:00:00Z 
 Dewey Decimal Classification: 2--6891
 ITU letter code: ZWE
 ISO 3166-1 alpha-3 code: ZWE

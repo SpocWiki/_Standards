@@ -426,7 +426,8 @@ official name:
   - Republiken Lettland
 short name: 🇱🇻
 coordinate location: Point(25.0 57.0)
-inception: 1918-11-18T00:00:00Z
+inception: 1918-11-18T00:00:00Z 
+has_time_started: 1918-11-18T00:00:00Z 
 coordinates of southernmost point: Point(26.5967685 55.67478947)
 area:
   - 62226.85

@@ -477,7 +477,8 @@ FIPS 10-4 (countries and regions): CG
 INSEE countries and foreign territories code: "99312"
 area: 2344858
 OmegaWiki Defined Meaning: "918629"
-inception: 1960-06-30T00:00:00Z
+inception: 1960-06-30T00:00:00Z 
+has_time_started: 1960-06-30T00:00:00Z 
 short name:
   - DRC
   - DRC

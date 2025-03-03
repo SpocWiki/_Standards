@@ -411,7 +411,8 @@ population: 29164578
 native label: नेपाल
 official name: नेपाल
 coordinates of westernmost point: Point(80.05 28.9)
-inception: 2008-05-28T00:00:00Z
+inception: 2008-05-28T00:00:00Z 
+has_time_started: 2008-05-28T00:00:00Z 
 area: 147181.254346
 coordinates of northernmost point: Point(81.63 30.43)
 U.S. National Archives Identifier: "10035749"

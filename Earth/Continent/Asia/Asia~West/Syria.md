@@ -253,7 +253,8 @@ coordinates of easternmost point: Point(42.376111111 37.076666666)
 coordinates of westernmost point: Point(35.716388888 35.585833333)
 population: 23865423
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Palmyra%20banner%202.jpg
-inception: 1920-03-08T00:00:00Z
+inception: 1920-03-08T00:00:00Z 
+has_time_started: 1920-03-08T00:00:00Z 
 U.S. National Archives Identifier: "10035790"
 Unicode character: 🇸🇾
 coordinate location: Point(38.583333 35.216667)

@@ -27,7 +27,8 @@ topic's main template: "[[_Standards/WikiData/WD~Template_Basketball,8090946]]"
 topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Basketball,8206894]]"
 on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
 time of discovery or invention: 1891-12-01T00:00:00Z
-inception: 1891-12-01T00:00:00Z
+inception: 1891-12-01T00:00:00Z 
+has_time_started: 1891-12-01T00:00:00Z 
 Baidu Tieba name: 篮球
 BHCL UUID: b749c553-f4a5-4c56-8dd0-14a32c86db02
 Library of Congress Classification: GV882-GV889.23

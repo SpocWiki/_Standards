@@ -297,7 +297,8 @@ ISO 3166-1 alpha-2 code: PY
 WIPO ST.3: PY
 ISO 3166-1 alpha-3 code: PRY
 U.S. National Archives Identifier: "10035731"
-inception: 1811-01-01T00:00:00Z
+inception: 1811-01-01T00:00:00Z 
+has_time_started: 1811-01-01T00:00:00Z 
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/PRY%20orthographic.svg
 Commons category: Paraguay
 subreddit: Paraguay

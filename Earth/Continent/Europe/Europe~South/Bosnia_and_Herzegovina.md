@@ -260,7 +260,8 @@ U.S. National Archives Identifier: "10045294"
 OmegaWiki Defined Meaning: "355222"
 population: 3816459
 coordinate location: Point(18.0 44.0)
-inception: 1992-03-01T00:00:00Z
+inception: 1992-03-01T00:00:00Z 
+has_time_started: 1992-03-01T00:00:00Z 
 Unicode character: 🇧🇦
 Commons category: Bosnia and Herzegovina
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gornji%20Orahovac%2C%20Bosnia%20y%20Herzegovina%2C%202014-04-14%2C%20DD%2010-13%20PAN.jpg

@@ -14,7 +14,8 @@ different from: "[[_Standards/WikiData/WD~piano,2707020]]"
 highest note: "[[_Standards/WikiData/WD~C8,5349143]]"
 instance of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
 Baidu Tieba name: 钢琴
-inception: 1720-01-01T00:00:00Z
+inception: 1720-01-01T00:00:00Z 
+has_time_started: 1720-01-01T00:00:00Z 
 time of discovery or invention: 1700-01-01T00:00:00Z
 subclass of: "[[_Standards/WikiData/WD~keyboard instrument,52954]]"
 Nomenclature for Museum Cataloging: "10717"

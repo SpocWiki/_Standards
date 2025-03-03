@@ -270,7 +270,8 @@ WIPO ST.3: LK
 INSEE countries and foreign territories code: "99235"
 ISO 3166-1 alpha-3 code: LKA
 PM20 geo code: B57
-inception: 1972-05-22T00:00:00Z
+inception: 1972-05-22T00:00:00Z 
+has_time_started: 1972-05-22T00:00:00Z 
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg
 urban population:
   - 4052088

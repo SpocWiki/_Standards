@@ -19,7 +19,8 @@ described by source:
 has list: "[[_Standards/WikiData/WD~list of symphonies by number,6642033]]"
 maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Classical music,8485042]]"
 topic's main template: "[[_Standards/WikiData/WD~Q10739150,10739150]]"
-inception: 1600-01-01T00:00:00Z
+inception: 1600-01-01T00:00:00Z 
+has_time_started: 1600-01-01T00:00:00Z 
 OmegaWiki Defined Meaning: "352651"
 Commons category: Symphonies
 image:

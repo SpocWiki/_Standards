@@ -90,7 +90,8 @@ official name:
   - Basilica Sancti Petri
 capital cost: 46800052
 coordinate location: Point(12.453416666 41.902222222)
-inception: 1506-04-28T00:00:00Z
+inception: 1506-04-28T00:00:00Z 
+has_time_started: 1506-04-28T00:00:00Z 
 ---
 
 

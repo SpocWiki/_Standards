@@ -31,7 +31,8 @@ short name:
   - PSdE
   - PSE
 3D model: http://commons.wikimedia.org/wiki/Special:FilePath/Periodic%20Table%20-%20Atomic%20Radius%20%28Tolle%20via%20Thingiverse%29.stl
-inception: 1869-03-06T00:00:00Z
+inception: 1869-03-06T00:00:00Z 
+has_time_started: 1869-03-06T00:00:00Z 
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Erfindung%20des%20Periodensystems.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Orbitales%20atomiques%20et%20classification%20p%C3%A9riodique.ogv

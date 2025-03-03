@@ -12,7 +12,8 @@ country of origin: "[[_Standards/WikiData/WD~Brazil,155]]"
 Commons gallery: Samba
 Commons category: Samba
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HK%20TST%20night%20%E6%9F%8F%E9%BA%97%E8%B3%BC%E7%89%A9%E5%A4%A7%E9%81%93%20Park%20Lane%20Shopper%27s%20Boulevard%20%E5%B7%B4%E8%A5%BF%20Brasil%20%E6%A3%AE%E5%B7%B4%E8%88%9E%E5%A8%98%20Samba%20female%20dancers%20Nov-2010%2002.JPG
-inception: 1914-01-01T00:00:00Z
+inception: 1914-01-01T00:00:00Z 
+has_time_started: 1914-01-01T00:00:00Z 
 ---
 
 

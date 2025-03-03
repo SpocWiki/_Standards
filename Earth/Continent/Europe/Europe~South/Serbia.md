@@ -414,7 +414,8 @@ page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Danube%20in%20Ri
 BHCL UUID:
   - f05755c3-3759-4ba1-8982-7157bd8d9708
   - 9e68967f-4ca3-4b99-8c7f-c4e956949fe6
-inception: 2006-01-01T00:00:00Z
+inception: 2006-01-01T00:00:00Z 
+has_time_started: 2006-01-01T00:00:00Z 
 short name: 🇷🇸
 nominal GDP:
   - 63501748652

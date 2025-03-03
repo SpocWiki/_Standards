@@ -267,7 +267,8 @@ official name:
   - la République kirghize
 Dewey Decimal Classification: 2--5843
 coordinate location: Point(75.0 41.0)
-inception: 1991-01-01T00:00:00Z
+inception: 1991-01-01T00:00:00Z 
+has_time_started: 1991-01-01T00:00:00Z 
 U.S. National Archives Identifier: "10045260"
 geoshape: http://commons.wikimedia.org/data/main/Data:Kyrgyzstan.map
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Kyrgyzstan.svg

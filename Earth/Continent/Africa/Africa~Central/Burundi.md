@@ -224,7 +224,8 @@ male population:
 ISO 3166-1 alpha-3 code: BDI
 ITU letter code: BDI
 IOC country code: BDI
-inception: 1962-07-01T00:00:00Z
+inception: 1962-07-01T00:00:00Z 
+has_time_started: 1962-07-01T00:00:00Z 
 rural population:
   - 10287647
   - 10545078

@@ -161,7 +161,8 @@ Gujarati Vishwakosh entry: ઇલિયડ
 title: Ἰλιάς
 first line: μῆνιν ἄειδε, θεά, Πηληϊάδεω Ἀχιλῆος
 last line: Ὣς οἵ γ᾽ ἀμφίεπον τάφον Ἕκτορος ἱπποδάμοιο.
-inception: -0800-01-01T00:00:00Z
+inception: -0800-01-01T00:00:00Z 
+has_time_started: -0800-01-01T00:00:00Z 
 author: "[[_Standards/WikiData/WD~Homer,6691]]"
 plot expanded in:
   - "[[_Standards/WikiData/WD~Odyssey,35160]]"

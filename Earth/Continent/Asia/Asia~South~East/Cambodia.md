@@ -324,7 +324,8 @@ Commons category: Cambodia
 rural population: 9417017
 Dewey Decimal Classification: 2--596
 U.S. National Archives Identifier: "10035677"
-inception: 1953-11-09T00:00:00Z
+inception: 1953-11-09T00:00:00Z 
+has_time_started: 1953-11-09T00:00:00Z 
 ISO 3166-1 alpha-3 code: KHM
 coordinates of easternmost point: Point(107.62762785 13.36703242)
 country calling code: "+855"

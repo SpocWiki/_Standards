@@ -500,7 +500,8 @@ name: ꠇꠣꠘꠣꠒꠣ
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Canada%20BMNG.png
 ISNI: "0000000122385050"
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Coat%20of%20arms%20of%20Canada.svg
-inception: 1867-07-01T00:00:00Z
+inception: 1867-07-01T00:00:00Z 
+has_time_started: 1867-07-01T00:00:00Z 
 compulsory education (maximum age): http://www.wikidata.org/.well-known/genid/04fd29f3aca1d9604bdb175f2e810d27
 coordinates of northernmost point: Point(-69.958333333 83.111388888)
 coordinates of southernmost point: Point(-82.682222222 41.681388888)

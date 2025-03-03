@@ -252,7 +252,8 @@ female population:
   - 6879649
   - 7035658
 U.S. National Archives Identifier: "10044269"
-inception: 1962-01-01T00:00:00Z
+inception: 1962-01-01T00:00:00Z 
+has_time_started: 1962-01-01T00:00:00Z 
 population: 13246394
 pronunciation audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Ruanda.wav

@@ -588,7 +588,8 @@ coordinates of northernmost point: Point(8.4193 55.0584)
 nominal GDP:
   - 4259934911822
   - 4072191736090
-inception: 1949-05-23T00:00:00Z
+inception: 1949-05-23T00:00:00Z 
+has_time_started: 1949-05-23T00:00:00Z 
 area: 357587.77
 budget: 476290763000
 compulsory education (minimum age):

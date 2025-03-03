@@ -424,7 +424,8 @@ rural population:
 X (Twitter) username: peru
 CIVICUS Monitor country entry: peru
 GitHub topic: peru
-inception: 1821-07-28T00:00:00Z
+inception: 1821-07-28T00:00:00Z 
+has_time_started: 1821-07-28T00:00:00Z 
 female population:
   - 16556679
   - 16805323

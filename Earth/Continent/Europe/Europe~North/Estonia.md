@@ -363,7 +363,8 @@ coordinates of easternmost point: Point(28.20894778 59.37047831)
 geoshape: http://commons.wikimedia.org/data/main/Data:Estonia.map
 WOEID: "23424805"
 Gregorian calendar start date: 1918-03-01T00:00:00Z
-inception: 1918-02-24T00:00:00Z
+inception: 1918-02-24T00:00:00Z 
+has_time_started: 1918-02-24T00:00:00Z 
 coordinates of southernmost point: Point(26.6165632 57.50931687)
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Estonia.svg
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Karksi%20banner.jpg

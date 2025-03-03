@@ -351,7 +351,8 @@ ITU letter code: KEN
 IOC country code: KEN
 CIVICUS Monitor country entry: kenya
 GitHub topic: kenya
-inception: 1963-01-01T00:00:00Z
+inception: 1963-01-01T00:00:00Z 
+has_time_started: 1963-01-01T00:00:00Z 
 PM20 geo code: C116
 male population:
   - 25272193

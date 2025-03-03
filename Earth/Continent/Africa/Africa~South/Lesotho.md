@@ -239,7 +239,8 @@ coordinates of southernmost point: Point(28.11363 -30.67558)
 population: 2007201
 ISO 3166-1 alpha-3 code: LSO
 ITU letter code: LSO
-inception: 1966-01-01T00:00:00Z
+inception: 1966-01-01T00:00:00Z 
+has_time_started: 1966-01-01T00:00:00Z 
 coordinates of northernmost point: Point(28.65 -28.57)
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lesotho.svg
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg

@@ -273,7 +273,8 @@ rural population:
 population: 1243235
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg
 area: 14918.72
-inception: 1975-11-28T00:00:00Z
+inception: 1975-11-28T00:00:00Z 
+has_time_started: 1975-11-28T00:00:00Z 
 Commons category: East Timor
 coordinates of easternmost point: Point(127.343011111 -8.4382)
 geoshape: http://commons.wikimedia.org/data/main/Data:East+Timor.map

@@ -218,7 +218,8 @@ short name:
 MeSH tree code: Z01.107.169.339
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Orthographic%20Map%20of%20El%20Salvador.svg
 coordinates of westernmost point: Point(-90.133633 13.7458017)
-inception: 1841-02-02T00:00:00Z
+inception: 1841-02-02T00:00:00Z 
+has_time_started: 1841-02-02T00:00:00Z 
 diplomatic relation:
   - "[[_Standards/WikiData/WD~Chile,298]]"
   - "[[_Standards/WikiData/WD~Australia,408]]"

@@ -254,7 +254,8 @@ page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zomba%20Plateau%
 ISO 3166-1 alpha-3 code: MWI
 ITU letter code: MWI
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malawi.svg
-inception: 1964-07-06T00:00:00Z
+inception: 1964-07-06T00:00:00Z 
+has_time_started: 1964-07-06T00:00:00Z 
 coordinates of westernmost point: Point(32.6725 -13.6208)
 female population:
   - 9698995

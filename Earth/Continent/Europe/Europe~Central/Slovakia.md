@@ -339,7 +339,8 @@ U.S. National Archives Identifier: "10045654"
 PM20 geo code: A40f
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Slovakia.svg
 coordinates of geographic center: Point(19.5 48.666667)
-inception: 1993-01-01T00:00:00Z
+inception: 1993-01-01T00:00:00Z 
+has_time_started: 1993-01-01T00:00:00Z 
 short name: Slovensko
 image: http://commons.wikimedia.org/wiki/Special:FilePath/000%20Sllovakia%20harta.PNG
 pronunciation audio:

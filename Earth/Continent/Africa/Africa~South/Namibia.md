@@ -300,7 +300,8 @@ Commons category: Namibia
 subreddit: Namibia
 Commons gallery: Namibia
 hashtag: Namibia
-inception: 1990-01-01T00:00:00Z
+inception: 1990-01-01T00:00:00Z 
+has_time_started: 1990-01-01T00:00:00Z 
 Dewey Decimal Classification: 2--6881
 Unicode character: 🇳🇦
 U.S. National Archives Identifier: "10035830"

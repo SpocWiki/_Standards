@@ -361,7 +361,8 @@ urban population:
 Unicode character: 🇦🇷
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Argentina.svg
 U.S. National Archives Identifier: "10045211"
-inception: 1816-07-09T00:00:00Z
+inception: 1816-07-09T00:00:00Z 
+has_time_started: 1816-07-09T00:00:00Z 
 male population:
   - 22249019
   - 22465694

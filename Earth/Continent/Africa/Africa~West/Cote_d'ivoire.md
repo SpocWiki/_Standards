@@ -350,7 +350,8 @@ urban population:
   - 14829623
 U.S. National Archives Identifier: "10035718"
 ITU letter code: CTI
-inception: 1960-01-01T00:00:00Z
+inception: 1960-01-01T00:00:00Z 
+has_time_started: 1960-01-01T00:00:00Z 
 rural population:
   - 12749807
   - 12948486

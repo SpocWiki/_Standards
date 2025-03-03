@@ -30,21 +30,18 @@ Commons category: Gupta Empire
 native label:
   - गुप्त राजवंश
   - गुप्त
-inception: 0320-01-01T00:00:00Z
+inception: 0320-01-01T00:00:00Z 
 has_time_started: 0320-01-01T00:00:00Z 
-"dissolved, abolished or demolished date": 0550-01-01T00:00:00Z
+"dissolved, abolished or demolished date": 0550-01-01T00:00:00Z 
 has_time_stopped: 0550-01-01T00:00:00Z 
 ---
 
 #has_/time_/started :: 0320-06 
 #has_/time_/stopped :: 0550-06 
-<<<<<<<< HEAD:Time-Ages/human-ages/History/Late_Antiquity/Gupta_Empire.md
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=(default(this.has_time_stopped,date(now)) - this.has_time_started)` 
 #has_/duration_/months :: `=durationformat(default(this.has_time_stopped,date(now)) - this.has_time_started,"M")` 
  
-========
->>>>>>>> a9bc75e3c (auto-commit):Time-Ages/human-ages/History/Modern_History/Late_Antiquity/Gupta_Empire.md
 
 ## #has_/text_of_/abstract 
 

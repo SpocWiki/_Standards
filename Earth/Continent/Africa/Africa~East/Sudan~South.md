@@ -313,7 +313,8 @@ country calling code: "+211"
 coordinates of westernmost point: Point(23.4479 9.0149)
 Commons category: South Sudan
 Commons gallery: South Sudan
-inception: 2011-07-09T00:00:00Z
+inception: 2011-07-09T00:00:00Z 
+has_time_started: 2011-07-09T00:00:00Z 
 Unicode character: 🇸🇸
 coordinates of easternmost point: Point(35.949 4.63103)
 coordinates of northernmost point: Point(32.73159 12.23638)

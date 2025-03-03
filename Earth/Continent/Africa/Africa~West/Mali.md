@@ -349,7 +349,8 @@ urban population:
   - 9319264
   - 9786489
   - 10265849
-inception: 1960-09-22T00:00:00Z
+inception: 1960-09-22T00:00:00Z 
+has_time_started: 1960-09-22T00:00:00Z 
 female population:
   - 10179843
   - 10505701

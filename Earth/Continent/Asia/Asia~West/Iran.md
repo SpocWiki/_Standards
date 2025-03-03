@@ -453,7 +453,8 @@ aircraft registration prefix:
   - EP
   - IR
 U.S. National Archives Identifier: "10044493"
-inception: 1979-04-01T00:00:00Z
+inception: 1979-04-01T00:00:00Z 
+has_time_started: 1979-04-01T00:00:00Z 
 Baidu Tieba name: 伊朗
 WIPO ST.3: IR
 UIC alphabetical country code: IR

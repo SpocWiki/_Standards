@@ -50,7 +50,8 @@ Facebook username: commonwealthsec
 X (Twitter) username: commonwealthsec
 Krugosvet article: istoriya/SODRUZHESTVO_NATSI.html
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marlborough%20House.jpg
-inception: 1931-12-11T00:00:00Z
+inception: 1931-12-11T00:00:00Z 
+has_time_started: 1931-12-11T00:00:00Z 
 EU Corporate body code: CMNW
 ---
 

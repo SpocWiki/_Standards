@@ -111,7 +111,9 @@ country of citizenship: "[[_Standards/WikiData/WD~United States,30]]"
 ---
 
 #has_/time_/started :: 1867-06-08 
-#has_/time_/started :: 1959-04-09 
+#has_/time_/stopped  :: 1959-04-09 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 ## #has_/text_of_/abstract 
 

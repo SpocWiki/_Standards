@@ -270,7 +270,8 @@ BTI Governance Index:
   - 4.67
   - 4.71
   - 4.72
-inception: 1991-01-01T00:00:00Z
+inception: 1991-01-01T00:00:00Z 
+has_time_started: 1991-01-01T00:00:00Z 
 Commons category: Kazakhstan
 subreddit: Kazakhstan
 hashtag: Kazakhstan

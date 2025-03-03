@@ -259,7 +259,8 @@ female population:
   - 8579664
   - 8800406
 coordinates of southernmost point: Point(-16.71726 12.33954)
-inception: 1960-01-01T00:00:00Z
+inception: 1960-01-01T00:00:00Z 
+has_time_started: 1960-01-01T00:00:00Z 
 U.S. National Archives Identifier: "10035805"
 coordinates of northernmost point: Point(-14.9863 16.6912)
 Dewey Decimal Classification: 2--663

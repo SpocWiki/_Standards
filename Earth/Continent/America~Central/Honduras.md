@@ -296,7 +296,8 @@ female population:
   - 5087643
   - 5165506
 population: 10062994
-inception: 1821-01-01T00:00:00Z
+inception: 1821-01-01T00:00:00Z 
+has_time_started: 1821-01-01T00:00:00Z 
 Commons category: Honduras
 subreddit: Honduras
 Commons gallery: Honduras

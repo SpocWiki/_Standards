@@ -707,14 +707,17 @@ female population:
 coordinate location: Point(-98.5795 39.828175)
 coordinates of southernmost point: Point(-81.8051241 24.5442989)
 coordinates of easternmost point: Point(-66.94995403 44.81539337)
-inception: 1784-05-12T00:00:00Z
+inception: 1784-05-12T00:00:00Z 
+has_time_started: 1784-05-12T00:00:00Z 
 ---
 
 # [[USA]] 
 
 #has_/time_/started :: 1776-07-04 
+#has_/duration_ :: `=(default(this.has_time_stopped,date(now)) - this.has_time_started)`  
+
 However,  the process of establishing the United States as a sovereign nation 
-continued through the Revolutionary War 
+continued through the Revolutionary War until 1784  
 and the subsequent drafting and ratification of the U.S. Constitution in 1787.
 
 For more Details, check out [this Repository](https://github.com/SpocWiki/America-USA)

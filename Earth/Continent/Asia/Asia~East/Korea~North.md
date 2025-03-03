@@ -423,7 +423,8 @@ urban population:
   - 16136385
   - 16269323
   - 16401834
-inception: 1948-09-09T00:00:00Z
+inception: 1948-09-09T00:00:00Z 
+has_time_started: 1948-09-09T00:00:00Z 
 ITU letter code: KRE
 population: 26418204
 U.S. National Archives Identifier: "10035715"

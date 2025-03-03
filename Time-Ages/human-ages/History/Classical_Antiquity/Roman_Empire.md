@@ -113,7 +113,7 @@ permanent duplicated item: "[[_Standards/WikiData/WD~Q21201536,21201536]]"
 category for people born here: "[[_Standards/WikiData/WD~Q32642796,32642796]]"
 topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42353313,42353313]]"
 category for people who died here: "[[_Standards/WikiData/WD~Q42859641,42859641]]"
-"dissolved, abolished or demolished date": 0395-01-18T00:00:00Z
+"dissolved, abolished or demolished date": 0395-01-18T00:00:00Z 
 has_time_stopped: 0395-01-18T00:00:00Z 
 end time: 0395-01-01T00:00:00Z
 start time: -0026-01-01T00:00:00Z

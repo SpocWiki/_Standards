@@ -403,7 +403,8 @@ nominal GDP:
   - 419015636065
   - 405869718462
 coordinates of northernmost point: Point(29.658333333 -22.127777777)
-inception: 1910-05-31T00:00:00Z
+inception: 1910-05-31T00:00:00Z 
+has_time_started: 1910-05-31T00:00:00Z 
 population: 62027503
 has_id_wikidata: Q258
 location: [-28.8175,22.87]

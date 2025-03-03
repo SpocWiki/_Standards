@@ -348,7 +348,8 @@ Commons gallery: Republic of Ireland / Poblacht na hÉireann
 hashtag: RepublicofIreland
 Krugosvet article: strany_mira/IRLANDSKAYA_RESPUBLIKA.html
 motto text: Jump into Ireland
-inception: 1937-12-29T00:00:00Z
+inception: 1937-12-29T00:00:00Z 
+has_time_started: 1937-12-29T00:00:00Z 
 coordinates of westernmost point: Point(-10.669583333 52.073611111)
 coordinate location: Point(-8.0 53.0)
 coordinates of northernmost point: Point(-7.371833333 55.384194444)

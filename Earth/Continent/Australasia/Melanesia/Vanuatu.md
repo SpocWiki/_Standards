@@ -314,7 +314,8 @@ population: 300019
 nominal GDP:
   - 971636098
   - 983582865
-inception: 1980-07-30T00:00:00Z
+inception: 1980-07-30T00:00:00Z 
+has_time_started: 1980-07-30T00:00:00Z 
 coordinates of northernmost point: Point(166.546527777 -13.072444444)
 coordinate location: Point(168.016669444 -16.633330555)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Vanuatu%20in%20October%201998.jpg

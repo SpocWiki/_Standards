@@ -315,7 +315,8 @@ urban population:
   - 8738685
   - 8938987
   - 9141704
-inception: 1821-01-01T00:00:00Z
+inception: 1821-01-01T00:00:00Z 
+has_time_started: 1821-01-01T00:00:00Z 
 population: 17263239
 licence plate code: GCA
 ITU letter code: GTM

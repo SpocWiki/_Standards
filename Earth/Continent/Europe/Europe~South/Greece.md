@@ -441,7 +441,8 @@ CIVICUS Monitor country entry: greece
 subreddit: greece
 hashtag: greece
 GitHub topic: greece
-inception: 1821-04-06T00:00:00Z
+inception: 1821-04-06T00:00:00Z 
+has_time_started: 1821-04-06T00:00:00Z 
 geoshape: http://commons.wikimedia.org/data/main/Data:Greece.map
 Basisklassifikation: "15.69"
 ISO 3166-1 alpha-3 code: GRC

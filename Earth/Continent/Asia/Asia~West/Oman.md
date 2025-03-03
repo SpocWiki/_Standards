@@ -240,7 +240,8 @@ rural population:
   - 585672
   - 623536
   - 670025
-inception: 1970-07-23T00:00:00Z
+inception: 1970-07-23T00:00:00Z 
+has_time_started: 1970-07-23T00:00:00Z 
 ISO 3166-1 alpha-3 code: OMN
 female population:
   - 1678067

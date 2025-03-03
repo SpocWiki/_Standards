@@ -351,7 +351,8 @@ native label:
 ISO 3166-1 alpha-3 code: DZA
 INSEE countries and foreign territories code: "99352"
 area: 2381741
-inception: 1962-07-03T00:00:00Z
+inception: 1962-07-03T00:00:00Z 
+has_time_started: 1962-07-03T00:00:00Z 
 hashtag: Algeria
 Commons category: Algeria
 Unicode character: Ǳ

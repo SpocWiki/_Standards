@@ -278,7 +278,8 @@ hashtag: Suriname
 subreddit: Suriname
 licence plate code: SME
 PM20 geo code: E101
-inception: 1975-11-25T00:00:00Z
+inception: 1975-11-25T00:00:00Z 
+has_time_started: 1975-11-25T00:00:00Z 
 ISO 3166-1 alpha-3 code: SUR
 IOC country code: SUR
 ITU letter code: SUR

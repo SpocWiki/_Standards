@@ -326,7 +326,8 @@ number of out-of-school children: 2493607
 ISO 3166-1 alpha-3 code: BFA
 ITU letter code: BFA
 IOC country code: BUR
-inception: 1960-01-01T00:00:00Z
+inception: 1960-01-01T00:00:00Z 
+has_time_started: 1960-01-01T00:00:00Z 
 male population:
   - 10431262
   - 10718602

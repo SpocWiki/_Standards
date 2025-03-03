@@ -104,7 +104,8 @@ instance of: "[[_Standards/WikiData/WD~literary work,7725634]]"
 topic's main template: "[[_Standards/WikiData/WD~Template_Dream of the Red Chamber,10953908]]"
 takes place in fictional universe: "[[_Standards/WikiData/WD~Dream of the Red Chamber universe,42184554]]"
 Baidu Tieba name: 红楼梦
-inception: 1701-01-01T00:00:00Z
+inception: 1701-01-01T00:00:00Z 
+has_time_started: 1701-01-01T00:00:00Z 
 form of creative work: "[[_Standards/WikiData/WD~novel,8261]]"
 copyright status: "[[_Standards/WikiData/WD~public domain,19652]]"
 ---

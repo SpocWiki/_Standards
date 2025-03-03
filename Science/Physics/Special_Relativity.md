@@ -19,7 +19,8 @@ discoverer or inventor: "[[_Standards/WikiData/WD~Albert Einstein,937]]"
 part of: "[[_Standards/WikiData/WD~theory of relativity,43514]]"
 Commons category: Special relativity
 time of discovery or invention: 1905-01-01T00:00:00Z
-inception: 1905-01-01T00:00:00Z
+inception: 1905-01-01T00:00:00Z 
+has_time_started: 1905-01-01T00:00:00Z 
 ---
 
 

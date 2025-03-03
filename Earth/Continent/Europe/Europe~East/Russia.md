@@ -856,7 +856,8 @@ life expectancy: 71.59293
 coordinates of northernmost point: Point(59.239444444 81.843055555)
 "Image Archive, Herder Institute": Q159
 country calling code: "+7"
-inception: 1991-12-25T00:00:00Z
+inception: 1991-12-25T00:00:00Z 
+has_time_started: 1991-12-25T00:00:00Z 
 PM20 geo code: A50(1)
 U.S. National Archives Identifier: "10044286"
 geoshape: http://commons.wikimedia.org/data/main/Data:Russia.map

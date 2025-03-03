@@ -40,7 +40,8 @@ OmegaWiki Defined Meaning: "876979"
 coordinate location: Point(111.00367 30.82386)
 date of official opening: 2003-01-01T00:00:00Z
 service entry: 2003-01-01T00:00:00Z
-inception: 2003-01-01T00:00:00Z
+inception: 2003-01-01T00:00:00Z 
+has_time_started: 2003-01-01T00:00:00Z 
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ThreeGorgesDam-China2009.jpg
 Commons gallery: Three Gorges Dam
 Commons category: Three Gorges Dam

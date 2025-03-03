@@ -116,7 +116,8 @@ logo image: http://commons.wikimedia.org/wiki/Special:FilePath/OPEC%20Logo.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20OPEC-Zentrale%20%28a%29.JPG
 official website: https://www.opec.org
 RIA Novosti reference: "39540188"
-inception: 1960-09-14T00:00:00Z
+inception: 1960-09-14T00:00:00Z 
+has_time_started: 1960-09-14T00:00:00Z 
 Krugosvet article: gumanitarnye_nauki/ekonomika_i_pravo/ORGANIZATSIYA_STRAN-EKSPORTEROV_NEFTI_OPEK_.html
 Commons category: OPEC
 EU Corporate body code: OPEC

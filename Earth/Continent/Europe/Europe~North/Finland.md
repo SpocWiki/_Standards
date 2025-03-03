@@ -508,7 +508,8 @@ official name:
   - Suomen tasavalta
   - Republiken Finland
 short name: 🇫🇮
-inception: 1917-12-06T00:00:00Z
+inception: 1917-12-06T00:00:00Z 
+has_time_started: 1917-12-06T00:00:00Z 
 U.S. National Archives Identifier: "10035776"
 Unicode character: 🇫🇮
 geoshape: http://commons.wikimedia.org/data/main/Data:Finland.map

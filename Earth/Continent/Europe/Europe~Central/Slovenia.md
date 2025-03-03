@@ -509,7 +509,8 @@ urban population:
 ITU letter code: SVN
 ISO 3166-1 alpha-3 code: SVN
 coordinates of easternmost point: Point(16.61068976 46.46978084)
-inception: 1991-06-25T00:00:00Z
+inception: 1991-06-25T00:00:00Z 
+has_time_started: 1991-06-25T00:00:00Z 
 geoshape: http://commons.wikimedia.org/data/main/Data:Slovenia.map
 nominal GDP: 62117768015
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Slovenia.svg

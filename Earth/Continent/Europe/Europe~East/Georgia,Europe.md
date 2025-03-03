@@ -406,7 +406,8 @@ coordinates of easternmost point: Point(46.73609197 41.28500627)
 Dewey Decimal Classification: 2--4758
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Greater%20coat%20of%20arms%20of%20Georgia.svg
 coordinates of northernmost point: Point(40.25 43.58)
-inception: 1991-12-25T00:00:00Z
+inception: 1991-12-25T00:00:00Z 
+has_time_started: 1991-12-25T00:00:00Z 
 CIVICUS Monitor country entry: georgia
 GitHub topic: georgia
 motto text: ძალა ერთობაშია

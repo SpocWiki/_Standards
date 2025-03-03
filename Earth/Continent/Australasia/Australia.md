@@ -703,7 +703,8 @@ office held by head of state: "[[_Standards/WikiData/WD~monarch of Australia,149
 permanent duplicated item:
   - "[[_Standards/WikiData/WD~Q20514998,20514998]]"
   - "[[_Standards/WikiData/WD~Q41336722,41336722]]"
-inception: 1901-01-01T00:00:00Z
+inception: 1901-01-01T00:00:00Z 
+has_time_started: 1901-01-01T00:00:00Z 
 open data portal: "[[_Standards/WikiData/WD~data.gov.au,97016727]]"
 "has seal, badge, or sigil": "[[_Standards/WikiData/WD~Great Seal of Australia,119084894]]"
 on focus list of Wikimedia project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"

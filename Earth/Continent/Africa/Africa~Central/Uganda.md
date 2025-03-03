@@ -424,7 +424,8 @@ population: 47123531
 hashtag: Uganda
 Commons category: Uganda
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg
-inception: 1962-01-01T00:00:00Z
+inception: 1962-01-01T00:00:00Z 
+has_time_started: 1962-01-01T00:00:00Z 
 geoshape: http://commons.wikimedia.org/data/main/Data:Uganda.map
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Uganda.svg
 pronunciation audio:

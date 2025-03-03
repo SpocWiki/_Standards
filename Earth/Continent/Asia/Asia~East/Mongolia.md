@@ -252,7 +252,8 @@ hashtag: Mongolia
 Unicode character: 🇲🇳
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/State%20emblem%20of%20Mongolia.svg
 Commons gallery: Монгол улс
-inception: 1992-02-12T00:00:00Z
+inception: 1992-02-12T00:00:00Z 
+has_time_started: 1992-02-12T00:00:00Z 
 U.S. National Archives Identifier: "10035734"
 coordinates of southernmost point: Point(105.0065 41.5818)
 coordinate location: Point(105.0 46.0)

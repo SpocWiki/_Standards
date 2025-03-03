@@ -234,7 +234,8 @@ coordinates of southernmost point: Point(41.94673 10.9131)
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Djibouti.svg
 population: 1152944
 PM20 geo code: C122
-inception: 1977-06-23T00:00:00Z
+inception: 1977-06-23T00:00:00Z 
+has_time_started: 1977-06-23T00:00:00Z 
 U.S. National Archives Identifier: "10044246"
 Dewey Decimal Classification: 2--6771
 GitHub topic: djibouti

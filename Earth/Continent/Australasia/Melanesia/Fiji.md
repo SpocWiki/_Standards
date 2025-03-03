@@ -151,7 +151,8 @@ official language:
   - "[[_Standards/WikiData/WD~Fijian,33295]]"
   - "[[_Standards/WikiData/WD~Fiji Hindi,46728]]"
 lowest point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-inception: 1970-01-01T00:00:00Z
+inception: 1970-01-01T00:00:00Z 
+has_time_started: 1970-01-01T00:00:00Z 
 suicide rate: 5
 unemployment rate: 8
 VAT rate: 15

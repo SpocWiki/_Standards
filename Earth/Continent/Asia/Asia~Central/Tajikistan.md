@@ -281,7 +281,8 @@ rural population:
   - 7046761
   - 7169192
 coordinates of westernmost point: Point(67.3449975 39.3045407)
-inception: 1991-09-09T00:00:00Z
+inception: 1991-09-09T00:00:00Z 
+has_time_started: 1991-09-09T00:00:00Z 
 coordinates of easternmost point: Point(75.1600533 37.4116094)
 coordinate location: Point(71.366667 38.583333)
 has_id_wikidata: Q863

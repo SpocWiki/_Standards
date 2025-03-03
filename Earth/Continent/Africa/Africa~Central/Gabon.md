@@ -291,7 +291,8 @@ urban population:
   - 2167652
 population: 2025137
 native label: République gabonaise
-inception: 1960-01-01T00:00:00Z
+inception: 1960-01-01T00:00:00Z 
+has_time_started: 1960-01-01T00:00:00Z 
 coordinates of southernmost point: Point(11.15322 -3.96005)
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Gabon.svg
 U.S. National Archives Identifier: "10035698"

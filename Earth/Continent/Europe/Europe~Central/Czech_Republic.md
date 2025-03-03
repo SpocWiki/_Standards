@@ -420,7 +420,8 @@ short name:
 native label: Česko
 motto text:
   - Pravda vítězí.
-inception: 1993-01-01T00:00:00Z
+inception: 1993-01-01T00:00:00Z 
+has_time_started: 1993-01-01T00:00:00Z 
 coordinates of southernmost point: Point(14.33321804 48.55181702)
 coordinates of westernmost point: Point(12.09061235 50.25239141)
 coordinates of northernmost point: Point(14.3156 51.0557)

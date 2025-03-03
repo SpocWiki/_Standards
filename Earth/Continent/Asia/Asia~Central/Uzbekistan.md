@@ -307,7 +307,8 @@ female population:
   - 17446107
   - 17809564
 U.S. National Archives Identifier: "10045283"
-inception: 1991-01-01T00:00:00Z
+inception: 1991-01-01T00:00:00Z 
+has_time_started: 1991-01-01T00:00:00Z 
 coordinates of westernmost point: Point(56.0 41.319444444)
 montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Aral%20Sea%201989-2008.jpg
 FIPS 10-4 (countries and regions): UZ

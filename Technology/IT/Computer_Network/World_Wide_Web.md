@@ -39,7 +39,8 @@ Commons category: World Wide Web
 short name:
   - WWW
   - TTT
-inception: 1989-03-12T00:00:00Z
+inception: 1989-03-12T00:00:00Z 
+has_time_started: 1989-03-12T00:00:00Z 
 time of discovery or invention: 1990-01-01T00:00:00Z
 public domain date: 1993-04-30T00:00:00Z
 ---

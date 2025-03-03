@@ -226,7 +226,8 @@ female population:
   - 1359657
 INSEE countries and foreign territories code: "99304"
 population: 2639916
-inception: 1965-01-01T00:00:00Z
+inception: 1965-01-01T00:00:00Z 
+has_time_started: 1965-01-01T00:00:00Z 
 subreddit: Gambia
 coordinate location: Point(-15.5 13.5)
 U.S. National Archives Identifier: "10035707"

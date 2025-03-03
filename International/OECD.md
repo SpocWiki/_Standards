@@ -11,6 +11,10 @@ TableByName:
 ---
 
 #has_/time_/started :: 1961-06 
+#has_/duration_ :: `=(default(this.has_time_stopped,date(now)) - this.has_time_started)`  
+#has_/previous_item : [[OEEC]] 
+
+## #has_/text_of_/abstract  
 
 > The Organisation for Economic Co-operation and Development 
 > (**OECD**; French: Organisation de coopération et de développement économiques, OCDE) 

@@ -304,7 +304,8 @@ nominal GDP:
   - 585939170124
 Baidu Tieba name: 瑞典
 UMLS CUI: C0038995
-inception: 0900-01-01T00:00:00Z
+inception: 0900-01-01T00:00:00Z 
+has_time_started: 0900-01-01T00:00:00Z 
 coordinates of westernmost point: Point(10.9575 58.928611111)
 diplomatic relation:
   - "[[_Standards/WikiData/WD~Serbia,403]]"

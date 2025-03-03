@@ -80,7 +80,8 @@ inspired by:
   - "[[_Standards/WikiData/WD~Colossus of Rhodes,41553]]"
 topic's main template: "[[_Standards/WikiData/WD~Template_Statue of Liberty,106618517]]"
 has part(s): "[[_Standards/WikiData/WD~Liberty Statue renovation,126912547]]"
-inception: 1886-01-01T00:00:00Z
+inception: 1886-01-01T00:00:00Z 
+has_time_started: 1886-01-01T00:00:00Z 
 CRIS Unique Site Number: "06101.003324"
 satellite view: http://commons.wikimedia.org/wiki/Special:FilePath/%EB%AF%B8%EA%B5%AD%20%EB%89%B4%EC%9A%95%20%EC%9E%90%EC%9C%A0%EC%9D%98%20%EC%97%AC%EC%8B%A0%EC%83%81%28%EC%95%84%EB%A6%AC%EB%9E%91%203A%ED%98%B8%29%20%28800%29.jpeg
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/USA%20Hebrew%20Wikivoyage%20front%20page%20banner.jpg

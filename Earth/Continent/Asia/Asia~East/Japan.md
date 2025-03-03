@@ -521,7 +521,8 @@ PM20 geo code: B111
 U.S. National Archives Identifier: "10035705"
 coordinates of easternmost point: Point(153.986388888 24.283055555)
 country calling code: "+81"
-inception: 1947-05-03T00:00:00Z
+inception: 1947-05-03T00:00:00Z 
+has_time_started: 1947-05-03T00:00:00Z 
 official name: 日本国
 name in native language: 日本国
 coordinate location: Point(136.0 35.0)

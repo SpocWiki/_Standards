@@ -26,7 +26,8 @@ script directionality:
   - "[[_Standards/WikiData/WD~vertical right-to-left,105395084]]"
 based on: "[[_Standards/WikiData/WD~proto-writing,18175774]]"
 topic's main template: "[[_Standards/WikiData/WD~Q91927946,91927946]]"
-inception: -1250-01-01T00:00:00Z
+inception: -1250-01-01T00:00:00Z 
+has_time_started: -1250-01-01T00:00:00Z 
 facet of:
   - "[[_Standards/WikiData/WD~Japanese,5287]]"
   - "[[_Standards/WikiData/WD~Chinese,7850]]"

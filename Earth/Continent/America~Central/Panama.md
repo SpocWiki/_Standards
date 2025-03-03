@@ -321,7 +321,8 @@ subreddit: Panama
 hashtag: Panama
 Commons category: Panama
 short name: 🇵🇦
-inception: 1903-01-01T00:00:00Z
+inception: 1903-01-01T00:00:00Z 
+has_time_started: 1903-01-01T00:00:00Z 
 coordinate location: Point(-80.366667 8.616667)
 coordinates of westernmost point: Point(-83.0518 8.3335)
 Unicode character: 🇵🇦

@@ -178,7 +178,8 @@ ITU letter code: SEY
 OmegaWiki Defined Meaning: "153897"
 INSEE countries and foreign territories code: "99398"
 ISO 3166-1 alpha-3 code: SYC
-inception: 1976-06-29T00:00:00Z
+inception: 1976-06-29T00:00:00Z 
+has_time_started: 1976-06-29T00:00:00Z 
 PM20 geo code: C106
 life expectancy: 74.30976
 coordinates of northernmost point: Point(55.2 -3.72)

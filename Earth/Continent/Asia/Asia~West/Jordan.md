@@ -264,7 +264,8 @@ PM20 geo code: B24b
 short name: 🇯🇴
 Commons gallery: الأردن
 U.S. National Archives Identifier: "10035706"
-inception: 1946-01-01T00:00:00Z
+inception: 1946-01-01T00:00:00Z 
+has_time_started: 1946-01-01T00:00:00Z 
 licence plate code: HKJ
 geoshape: http://commons.wikimedia.org/data/main/Data:Jordan.map
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Jordan%20on%20the%20globe%20%28Afro-Eurasia%20centered%29.svg

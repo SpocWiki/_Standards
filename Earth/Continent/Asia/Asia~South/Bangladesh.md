@@ -366,7 +366,8 @@ demonym:
   - بنڭلاديشيات
   - بنڭلاديشيين
   - Banglaidéiseach
-inception: 1971-03-26T00:00:00Z
+inception: 1971-03-26T00:00:00Z 
+has_time_started: 1971-03-26T00:00:00Z 
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/National%20emblem%20of%20Bangladesh.svg
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8-%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3%20%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0.jpg
 native label:

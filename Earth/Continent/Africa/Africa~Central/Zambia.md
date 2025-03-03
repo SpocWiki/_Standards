@@ -310,7 +310,8 @@ short name: 🇿🇲
 subreddit: Zambia
 hashtag: Zambia
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zambia.svg
-inception: 1964-10-24T00:00:00Z
+inception: 1964-10-24T00:00:00Z 
+has_time_started: 1964-10-24T00:00:00Z 
 coordinates of southernmost point: Point(26.6935 -18.0759)
 male population:
   - 9066397

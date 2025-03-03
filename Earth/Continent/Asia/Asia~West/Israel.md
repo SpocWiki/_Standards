@@ -462,7 +462,8 @@ urban population:
   - 8531985
   - 8684851
   - 8865824
-inception: 1948-05-14T00:00:00Z
+inception: 1948-05-14T00:00:00Z 
+has_time_started: 1948-05-14T00:00:00Z 
 coordinates of northernmost point: Point(35.768055555 33.332777777)
 Instagram username:
   - israelarabic

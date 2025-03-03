@@ -367,7 +367,8 @@ ISO 3166-1 alpha-3 code: SGP
 ITU letter code: SNG
 male population: 1990212
 female population: 2083027
-inception: 1965-08-09T00:00:00Z
+inception: 1965-08-09T00:00:00Z 
+has_time_started: 1965-08-09T00:00:00Z 
 urban population:
   - 5453566
   - 5637022

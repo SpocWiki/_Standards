@@ -336,7 +336,8 @@ nominal GDP:
   - 471400066091
 coordinate location: Point(14.0 48.0)
 coordinates of westernmost point: Point(9.530797 47.270554)
-inception: 1918-11-12T00:00:00Z
+inception: 1918-11-12T00:00:00Z 
+has_time_started: 1918-11-12T00:00:00Z 
 GOST 7.67 cyrillic: АВТ
 aircraft registration prefix: OE
 IAB code: "1243"

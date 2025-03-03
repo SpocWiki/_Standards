@@ -233,7 +233,8 @@ motto text:
 short name: 🇧🇬
 coordinate location: Point(25.5 42.75)
 nominal GDP: 89040398406
-inception: 1878-07-13T00:00:00Z
+inception: 1878-07-13T00:00:00Z 
+has_time_started: 1878-07-13T00:00:00Z 
 UMLS CUI: C0006368
 ISNI:
   - "0000000123254108"

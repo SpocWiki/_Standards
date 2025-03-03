@@ -394,7 +394,8 @@ top-level Internet domain: "[[_Standards/WikiData/WD~.td,43081]]"
 Gini coefficient: 37.5
 Human Development Index: 0.394
 madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
-inception: 1960-08-11T00:00:00Z
+inception: 1960-08-11T00:00:00Z 
+has_time_started: 1960-08-11T00:00:00Z 
 rural population:
   - 12372693
   - 12729867

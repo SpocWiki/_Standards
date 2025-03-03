@@ -203,7 +203,8 @@ coordinates of easternmost point: Point(162.973889 5.313333)
 native label:
   - Mikronesia
   - Federated States of Micronesia
-inception: 1986-11-03T00:00:00Z
+inception: 1986-11-03T00:00:00Z 
+has_time_started: 1986-11-03T00:00:00Z 
 coordinate location: Point(158.183333333 6.916666666)
 nominal GDP:
   - 404028900

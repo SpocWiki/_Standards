@@ -189,7 +189,8 @@ motto text:
   - Arfordir Gorllewin Ewrop
   - Europe's West Coast
 official website: https://www.portugal.gov.pt/
-inception: 1179-05-30T00:00:00Z
+inception: 1179-05-30T00:00:00Z 
+has_time_started: 1179-05-30T00:00:00Z 
 coordinates of northernmost point: Point(-8.198888888 42.154166666)
 Gregorian calendar start date: 1582-10-15T00:00:00Z
 diplomatic relation:

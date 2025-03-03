@@ -1204,7 +1204,8 @@ ITU letter code: IND
 ISO 3166-1 alpha-2 code: IN
 FIPS 10-4 (countries and regions): IN
 WIPO ST.3: IN
-inception: 1947-08-15T00:00:00Z
+inception: 1947-08-15T00:00:00Z 
+has_time_started: 1947-08-15T00:00:00Z 
 illiterate population: 447216165
 coordinates of southernmost point: Point(93.8426 6.74678)
 number of out-of-school children: 60824152

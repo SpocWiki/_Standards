@@ -39,9 +39,9 @@ locator map image:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Catalan%20Atlas%20BNF%20Sheet%206%20Western%20Sahara.jpg
 detail map: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mali%20Empire.jpg
 Commons category: Mali Empire
-"dissolved, abolished or demolished date": 1670-01-01T00:00:00Z
+"dissolved, abolished or demolished date": 1670-01-01T00:00:00Z 
 has_time_stopped: 1670-01-01T00:00:00Z 
-inception: 1235-01-01T00:00:00Z
+inception: 1235-01-01T00:00:00Z 
 has_time_started: 1235-01-01T00:00:00Z 
 ---
 

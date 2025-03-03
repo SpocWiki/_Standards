@@ -385,7 +385,8 @@ native label: 대한민국
 name in native language: 대한민국
 coordinates of southernmost point: Point(126.268333333 33.1125)
 U.S. National Archives Identifier: "10044504"
-inception: 1948-08-15T00:00:00Z
+inception: 1948-08-15T00:00:00Z 
+has_time_started: 1948-08-15T00:00:00Z 
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20Korea%20%28orthographic%20projection%29.svg
 male population: 25850044
 female population: 25888027

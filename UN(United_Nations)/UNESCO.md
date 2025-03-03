@@ -102,7 +102,8 @@ short name:
 native label:
   - Organisation des Nations unies pour l'éducation, la science et la culture
   - United Nations Educational, Scientific and Cultural Organization
-inception: 1945-11-16T00:00:00Z
+inception: 1945-11-16T00:00:00Z 
+has_time_started: 1945-11-16T00:00:00Z 
 TASS reference: "2438292"
 Commons category: UNESCO
 EU Corporate body code: UNESCO

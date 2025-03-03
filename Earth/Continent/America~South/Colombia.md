@@ -340,7 +340,8 @@ official name:
   - Republika Kolumbii
   - República de Colombia
 short name: 🇨🇴
-inception: 1810-01-01T00:00:00Z
+inception: 1810-01-01T00:00:00Z 
+has_time_started: 1810-01-01T00:00:00Z 
 male population:
   - 24779301
   - 25139588

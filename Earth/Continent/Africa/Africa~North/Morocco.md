@@ -324,7 +324,8 @@ native label:
   - المغرب
   - المملكة المغربية
 short name: 🇲🇦
-inception: 0789-01-01T00:00:00Z
+inception: 0789-01-01T00:00:00Z 
+has_time_started: 0789-01-01T00:00:00Z 
 UMLS CUI: C0020822
 location map: http://commons.wikimedia.org/wiki/Special:FilePath/Morocco%20relief%20location%20map.jpg
 ISNI: "0000000121703280"

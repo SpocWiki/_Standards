@@ -8,7 +8,8 @@ native label:
   - تاج مَحَل
   - ताज महल
 coordinate location: Point(78.041944444 27.175)
-inception: 1631-01-01T00:00:00Z
+inception: 1631-01-01T00:00:00Z 
+has_time_started: 1631-01-01T00:00:00Z 
 founded by: "[[_Standards/WikiData/WD~Shah Jahan,83672]]"
 commissioned by: "[[_Standards/WikiData/WD~Shah Jahan,83672]]"
 different from: "[[_Standards/WikiData/WD~Taj Mahal,125021]]"
