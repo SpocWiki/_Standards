@@ -7,7 +7,7 @@ has_id_wikidata: Q6527
 #has_/time_/started :: 1712-06-28 
 #has_/time_/stopped  :: 1778-07-02 
 
-#is_a_ :: [[Philosopher]] 
+#is_a_ :: [[../../../../../Knowledge/Philosophy/Philosopher]] 
 
 # [[Rousseau,Jean-Jacques]] 
 

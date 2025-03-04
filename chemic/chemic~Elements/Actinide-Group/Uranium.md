@@ -141,7 +141,7 @@ Common Procurement Vocabulary code: "09341000"
 > who named the new element after the recently discovered planet Uranus. 
 > Eugène-Melchior Péligot was the first person to isolate the metal, 
 > and its radioactive properties were discovered in 1896 by [[Henri Becquerel]]. 
-> Research by [[Otto Hahn]], [[Lise Meitner]], [[../../../bio/People/Scientists/Modern_Scientists/Fermi,Enrico]] and others, such as [[J. Robert Oppenheimer]] 
+> Research by [[Otto Hahn]], [[Lise Meitner]], [[../../../bio/People/Scientist/Modern_Scientists/Fermi,Enrico]] and others, such as [[J. Robert Oppenheimer]] 
 > starting in 1934 led to its use as a fuel in the nuclear power industry 
 > and in Little Boy, the first nuclear weapon used in war. 
 > 

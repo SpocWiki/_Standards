@@ -184,7 +184,7 @@ place of burial: http://www.wikidata.org/.well-known/genid/10188825e9e1766a73af1
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 
 #has_/previous_item :: [[Socrates]] 
-#has_/next_item :: [[Ancient_Philosophers/Aristotle]]  
+#has_/next_item :: [[Aristotle]]  
 
 #has_/created :: 
 
@@ -199,7 +199,7 @@ Hierarchical Idea-Theory with the "Good" as 'highest' Idea.
 > 
 > He raised problems for what became all the major areas of both theoretical philosophy and practical philosophy. 
 > 
-> Along with his teacher [[Socrates]], and [[Ancient_Philosophers/Aristotle]], his student, Plato is a central figure in the history of Western philosophy. 
+> Along with his teacher [[Socrates]], and [[Aristotle]], his student, Plato is a central figure in the history of Western philosophy. 
 > When Plato was 27, Socrates was executed. 
 > 12 years later he founded the Platonic Academy, 
 > a philosophical school in Athens where Plato taught the doctrines that would later become known as Platonism. 
@@ -215,7 +215,7 @@ Hierarchical Idea-Theory with the "Good" as 'highest' Idea.
 > 
 > Although their popularity has fluctuated, they have consistently been read and studied through the ages. 
 > Through Neoplatonism, he also greatly influenced both Christian and Islamic philosophy. 
-> In modern times, [[../../Mathematicians/Whitehead,Alfred_North|Alfred North Whitehead]] famously said: 
+> In modern times, [[../../Mathematician/Whitehead,Alfred_North|Alfred North Whitehead]] famously said: 
 > "the safest general characterization of the European philosophical tradition is that 
 > it consists of a series of footnotes to Plato."
 >

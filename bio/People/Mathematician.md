@@ -78,7 +78,7 @@ Wolfram Language entity code: Entity["Concept", "Mathematician::42t84"]
 ---
 
 
-# [[Mathematicians]] 
+# [[Mathematician]] 
 
 
 ## #has_/text_of_/abstract 

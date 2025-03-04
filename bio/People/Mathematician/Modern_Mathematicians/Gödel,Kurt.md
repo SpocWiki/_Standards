@@ -116,12 +116,12 @@ Wolfram Language entity code: Entity["Person", "KurtGodel::h4724"]
 
 > Kurt Friedrich Gödel ( GUR-dəl, German: [kʊʁt ˈɡøːdl̩] ; April 28, 1906 – January 14, 1978) 
 > was a  logician, mathematician, and philosopher. 
-> Considered along with [[../../Philosophers/Ancient_Philosophers/Aristotle|Aristotle]] and [[../../../../../Knowledge/AGI(Artificial_general_Intelligence)/Concepts~AGI/Frege,Gottlob|Gottlob Frege]] 
+> Considered along with [[../../Philosopher/Ancient_Philosophers/Aristotle|Aristotle]] and [[../../../../../Knowledge/AGI(Artificial_general_Intelligence)/Concepts~AGI/Frege,Gottlob|Gottlob Frege]] 
 > to be one of the most significant logicians in history, 
 > Gödel profoundly influenced scientific and philosophical thinking in the 20th century 
-> (at a time when [[Russell,Bertrand|Bertrand Russell]], [[Whitehead,Alfred_North|Alfred North Whitehead]], and [[Hilbert,David|David Hilbert]] were using logic 
+> (at a time when [[../Russell,Bertrand|Bertrand Russell]], [[../Whitehead,Alfred_North|Alfred North Whitehead]], and [[Hilbert,David|David Hilbert]] were using logic 
 > and set theory to investigate the foundations of mathematics), 
-> building on earlier work by [[../../../../../Knowledge/AGI(Artificial_general_Intelligence)/Concepts~AGI/Frege,Gottlob|Gottlob Frege]], [[Dedekind,Richard|Richard Dedekind]], and [[Modern_Mathematicians/Cantor,Georg|Georg Cantor]].
+> building on earlier work by [[../../../../../Knowledge/AGI(Artificial_general_Intelligence)/Concepts~AGI/Frege,Gottlob|Gottlob Frege]], [[../Dedekind,Richard|Richard Dedekind]], and [[Cantor,Georg|Georg Cantor]].
 >
 > Gödel's discoveries in the foundations of mathematics 
 > led to the proof of his completeness theorem in 1929 as part of his dissertation 

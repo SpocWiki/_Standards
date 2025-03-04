@@ -674,6 +674,19 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 
 #has_/image_for_/flag :: ![[./Germany/Flag_of_Germany.svg|200]] <img src="./Germany/Flag_of_Germany.svg" width="200"/> 
 
+| Name       | Region                 | Pop/k |
+| ---------- | ---------------------- | ----: |
+| Berlin     | Berlin                 |  3769 |
+| Hamburg    | Hamburg                |  1841 |
+| Munich     | Bavaria                |  1488 |
+| Cologne    | North Rhine-Westphalia |  1085 |
+| Frankfurt  | Hesse                  |   764 |
+| Stuttgart  | Baden-Württemberg      |   635 |
+| Düsseldorf | North Rhine-Westphalia |   620 |
+| Leipzig    | Saxony                 |   597 |
+| Dortmund   | North Rhine-Westphalia |   588 |
+| Essen      | North Rhine-Westphalia |   583 |
+
 ## #has_/text_of_/abstract  
 
 > **Germany**, officially the [[Germany/Germany~West|Federal Republic of Germany]], 

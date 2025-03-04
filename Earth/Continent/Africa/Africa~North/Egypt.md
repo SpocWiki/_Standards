@@ -401,11 +401,8 @@ WIPO ST.3: EG
 FIPS 10-4 (countries and regions): EG
 Commons category: Egypt
 has_id_wikidata: Q79
----
-﻿---
-location:
-- 30.015
-- 31.9
+
+location: [30.015,31.9]
 type: Country
 tags:
 - geo/Country
@@ -545,15 +542,66 @@ Capital ::[[Cairo]]]
 [has_place_latitude::30.015]
 
 
+| Name             | Region                 | Population/1e6 |                    |
+| ---------------- | ---------------------- | -------------: | ------------------ |
+| Cairo            | Cairo Governorate      |          10.10 | Capital            |
+| Alexandria       | Alexandria Governorate |           5.40 |                    |
+| Giza             | Giza Governorate       |           8.80 |                    |
+| Shubra El-Kheima | Qalyubia Governorate   |           1.20 |                    |
+| Port Said        | Port Said Governorate  |           0.75 |                    |
+| Suez             | Suez Governorate       |           0.80 |                    |
+| Luxor            | Luxor Governorate      |           0.53 | Valley of the Dead |
+| Mansoura         | Dakahlia Governorate   |           1.00 |                    |
+| Tanta            | Gharbia Governorate    |           0.62 |                    |
+| Asyut            | Asyut Governorate      |           0.40 |                    |
+| Aswan            | Aswan Governorate      |           0.30 |                    |
+
+
 ## #has_/text_of_/abstract 
 
-> **Egypt** (Arabic: مصر Miṣr [mesˁr] , Egyptian Arabic pronunciation: [mɑsˤr]), officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. It is bordered by the Mediterranean Sea to the north, the Gaza Strip of Palestine and Israel to the northeast, the Red Sea to the east, Sudan to the south, and Libya to the west; the Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia. Cairo is the capital, largest city, and leading cultural center, while Alexandria is the second-largest city and an important hub of industry and tourism. At approximately 107 million inhabitants, Egypt is the third-most populous country in Africa and 14th-most populated in the world.
+> **Egypt** (Arabic: مصر Miṣr [mesˁr] , Egyptian Arabic : [mɑsˤr]), officially the Arab Republic of Egypt, 
+> is a country spanning the northeast of Africa and southwest of Asia via the Sinai Peninsula. 
+> 
+> It is bordered by the Mediterranean Sea to the north, the Gaza Strip of Palestine and Israel to the northeast, the Red Sea to the east, Sudan to the south, and Libya to the west; the Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia. 
+> 
+> Cairo is the capital, largest city, and leading cultural center, while Alexandria is the second-largest city and an important hub of industry and tourism. At approximately 107 million inhabitants, Egypt is the third-most populous country in Africa and 14th-most populated in the world.
 >
-> Egypt has one of the longest histories of any country, tracing its heritage along the Nile Delta back to the 6th–4th millennia BCE. Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, agriculture, urbanisation, organised religion and central government. Egypt was an early and important centre of Christianity, later adopting Islam from the seventh century onwards. Cairo became the capital of the Fatimid Caliphate in the tenth century and of the subsequent Mamluk Sultanate in the 13th century. Egypt then became part of the Ottoman Empire in 1517, until its local ruler Muhammad Ali established modern Egypt as an autonomous Khedivate in 1867. The country was then occupied by the British Empire along with Sudan and gained independence in 1922 as a monarchy. 
+> Egypt has one of the longest histories of any country, 
+> tracing its heritage along the Nile Delta back to the 6th–4th millennia BCE. 
+> Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, 
+> agriculture, urbanisation, organised religion and central government. 
+> 
+> Egypt was an early and important centre of Christianity, 
+> later adopting Islam from the seventh century onwards. 
+> Cairo became the capital of the Fatimid Caliphate in the tenth century 
+> and of the subsequent Mamluk Sultanate in the 13th century. 
+> 
+> Egypt then became part of the Ottoman Empire in 1517, 
+> until its local ruler Muhammad Ali established modern Egypt as an autonomous Khedivate in 1867. 
+> The country was then occupied by the British Empire along with Sudan 
+> and gained independence in 1922 as a monarchy. 
 >
-> Following the 1952 revolution, Egypt declared itself a republic. For a brief period between 1958 and 1961 Egypt merged with Syria to form the United Arab Republic. Egypt fought several armed conflicts with Israel in 1948, 1956, 1967 and 1973, and occupied the Gaza Strip intermittently until 1967. In 1978, Egypt signed the Camp David Accords, which recognised Israel in exchange for its withdrawal from the occupied Sinai. After the Arab Spring, which led to the 2011 Egyptian revolution and overthrow of Hosni Mubarak, the country faced a protracted period of political unrest; its first democratic election in 2012 resulted in the short-lived, Muslim Brotherhood-aligned government of Mohamed Morsi, which was overthrown by the military after mass protests in 2013. The current government is a semi-presidential republic led by Abdel Fattah el-Sisi, who was elected in 2014 but is widely regarded as authoritarian. 
+> Following the 1952 revolution, Egypt declared itself a republic. 
+> For a brief period between 1958 and 1961 Egypt merged with Syria 
+> to form the United Arab Republic. 
+> Egypt fought several armed conflicts with Israel in 1948, 1956, 1967 and 1973, 
+> and occupied the Gaza Strip intermittently until 1967. 
+> In 1978, Egypt signed the Camp David Accords, 
+> which recognised Israel in exchange for its withdrawal from the occupied Sinai. 
+> 
+> After the Arab Spring, which led to the 2011 Egyptian revolution and overthrow of Hosni Mubarak, 
+> the country faced a protracted period of political unrest; 
+> its first democratic election in 2012 resulted in the short-lived, 
+> Muslim Brotherhood-aligned government of Mohamed Morsi, 
+> which was overthrown by the military after mass protests in 2013. 
+> The current government is a semi-presidential republic led by Abdel Fattah el-Sisi, 
+> who was elected in 2014 but is widely regarded as authoritarian. 
 >
-> Egypt is a developing country with the second-largest economy in Africa. It is considered to be a regional power in the Middle East, North Africa and the Muslim world, and a middle power worldwide. Islam is the official religion and Arabic is official language. Egypt is a founding member of the United Nations, the Non-Aligned Movement, the Arab League, the African Union, Organisation of Islamic Cooperation, World Youth Forum, and a member of BRICS.
+> Egypt is a developing country with the second-largest economy in Africa. 
+> It is considered to be a regional power in the Middle East, North Africa and the Muslim world, 
+> and a middle power worldwide. Islam is the official religion and Arabic is official language. 
+> Egypt is a founding member of the United Nations, the Non-Aligned Movement, the Arab League, 
+> the African Union, Organisation of Islamic Cooperation, World Youth Forum, and a member of BRICS.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Egypt) 
 

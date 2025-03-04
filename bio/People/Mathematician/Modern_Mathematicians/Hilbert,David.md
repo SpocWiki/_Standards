@@ -198,7 +198,7 @@ name in native language: David Hilbert
 > the foundations of geometry, spectral theory of operators and its application to integral equations, 
 > mathematical physics, and the foundations of mathematics (particularly proof theory).
 >
-> Hilbert adopted and defended[[Modern_Mathematicians/Cantor,Georg]]]'s set theory and transfinite numbers. 
+> Hilbert adopted and defended[[Cantor,Georg]]]'s set theory and transfinite numbers. 
 > In 1900, he presented a collection of problems 
 > that set a course for mathematical research of the 20th century.
 >

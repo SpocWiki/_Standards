@@ -1,5 +1,9 @@
+---
+aliases:
+  - Philosophers
+---
 
-# [[Philosopher]] 
+# [[../../../Knowledge/Philosophy/Philosopher]] 
 
 > **Philosopher**s use a great variety of methods to arrive at philosophical knowledge. 
 > 
