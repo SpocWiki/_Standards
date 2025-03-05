@@ -302,8 +302,6 @@ coordinates of easternmost point: Point(63.41667 -19.7)
 location map: http://commons.wikimedia.org/wiki/Special:FilePath/Mauritius%20%28%2Bclaim%20islands%29.svg
 bathymetry image: http://commons.wikimedia.org/wiki/Special:FilePath/Rodrigues%20Island%20bathymetric%20environment%20map-fr.svg
 has_id_wikidata: Q1027
----
-﻿---
 location:
 - -20.1667
 - 57.5167

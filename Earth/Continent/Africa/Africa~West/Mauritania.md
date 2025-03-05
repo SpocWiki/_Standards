@@ -308,8 +308,6 @@ Democracy Index: 3.92
 madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
 Human Development Index: 0.556
 has_id_wikidata: Q1025
----
-﻿---
 location:
 - 18.15
 - -15.9667

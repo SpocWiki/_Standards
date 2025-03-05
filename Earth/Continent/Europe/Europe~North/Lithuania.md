@@ -309,8 +309,6 @@ GitHub topic:
 CIVICUS Monitor country entry: lithuania
 subreddit: lithuania
 has_id_wikidata: Q37
----
-﻿---
 location:
     - 54.6833
     - 25.3167

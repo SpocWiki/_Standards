@@ -317,8 +317,6 @@ IPA transcription:
   - t͡ɕɪrnɐˈɡorʲɪjə
   - t͡sr̩̂ːnaː ɡɔ̌ra
 has_id_wikidata: Q236
----
-﻿---
 location:
     - 42.7833
     - 19.4667

@@ -442,8 +442,6 @@ page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Peru%20banner.jp
 official website: https://www.gob.pe/
 country calling code: "+51"
 has_id_wikidata: Q419
----
-﻿---
 location:
     - -12.05
     - -77.05

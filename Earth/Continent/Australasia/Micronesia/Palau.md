@@ -233,8 +233,6 @@ Unicode character: 🇵🇼
 Krugosvet article: strany_mira/PALAU.html
 MeSH tree code: Z01.639.760.680.717
 has_id_wikidata: Q695
----
-﻿---
 location:
     - 7.35
     - 134.467

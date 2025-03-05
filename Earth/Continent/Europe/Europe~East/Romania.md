@@ -394,8 +394,6 @@ Colon Classification: SG--5921
 Krugosvet article: strany_mira/RUMINIYA.html
 Baidu Tieba name: 罗马尼亚
 has_id_wikidata: Q218
----
-﻿---
 location:
     - 46.2258
     - 24.9906

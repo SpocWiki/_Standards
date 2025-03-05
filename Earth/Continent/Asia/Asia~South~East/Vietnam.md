@@ -478,8 +478,6 @@ native label: Việt Nam
 coordinates of westernmost point: Point(102.143944 22.400722)
 coordinates of easternmost point: Point(109.461638888 12.648388888)
 has_id_wikidata: Q881
----
-﻿---
 location:
     - 15.8917
     - 106.26

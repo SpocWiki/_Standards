@@ -278,8 +278,6 @@ rural population:
 population: 7557212
 coordinate location: Point(-12.1 8.5)
 has_id_wikidata: Q1044
----
-﻿---
 location:
 - 8.48445
 - -13.2345

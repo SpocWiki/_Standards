@@ -877,8 +877,6 @@ motto text:
   - Good people, great nation
   - Unity and Faith, Peace and Progress
 has_id_wikidata: Q1033
----
-﻿---
 location:
 - 9.17222
 - 6.46778

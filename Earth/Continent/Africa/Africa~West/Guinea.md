@@ -311,8 +311,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/LocationGuinea.svg
 official website: http://www.presidence.gov.gn/
 country calling code: "+224"
 has_id_wikidata: Q1006
----
-﻿---
 location:
 - 9.51667
 - -13.7

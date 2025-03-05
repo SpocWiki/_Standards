@@ -452,8 +452,6 @@ Provenio UUID: ead4868c-5ad0-4c8c-b2cf-3d8d3e1e055e
 GitHub topic: latvia
 CIVICUS Monitor country entry: latvia
 has_id_wikidata: Q211
----
-﻿---
 location:
     - 56.95
     - 24.11

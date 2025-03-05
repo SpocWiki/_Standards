@@ -291,8 +291,6 @@ IAB code: "1287"
 has_id_wikidata: Q792
 aliases:
   - El Salvador
----
-﻿---
 location:
     - 13.6667
     - -89.1667

@@ -583,8 +583,6 @@ relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Relief%2
 satellite view: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Philippines%20in%20March%202002.jpg
 country calling code: "+63"
 has_id_wikidata: Q928
----
-﻿---
 location:
     - 14.59
     - 120.97

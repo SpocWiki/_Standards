@@ -390,8 +390,6 @@ locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Saudi%20Ar
 WordLift URL: http://data.thenextweb.com/tnw/entity/saudi_arabia
 official website: http://www.saudi.gov.sa
 has_id_wikidata: Q851
----
-﻿---
 location:
     - 23.05
     - 43.27

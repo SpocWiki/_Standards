@@ -316,8 +316,6 @@ Gini coefficient: 32.7
 Democracy Index: 6.42
 Inequality-adjusted Human Development Index: 0.644
 has_id_wikidata: Q711
----
-﻿---
 location:
     - 47.9167
     - 106.883

@@ -33,8 +33,6 @@ Languages:
   - it-SM
 icon: flag-sm
 has_id_wikidata: Q238
----
-﻿---
 location:
     - 43.93
     - 12.45

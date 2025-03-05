@@ -285,8 +285,6 @@ ITU letter code: SUR
 U.S. National Archives Identifier: "10046380"
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Suriname.svg
 coordinates of northernmost point: Point(-55.0 5.99)
----
-﻿---
 location:
     - 5.86
     - -55.17

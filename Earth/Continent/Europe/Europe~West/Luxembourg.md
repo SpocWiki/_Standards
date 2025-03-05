@@ -332,8 +332,6 @@ inception: 1815-01-01T00:00:00Z
 coordinates of southernmost point: Point(6.041683 49.44775)
 geoshape: http://commons.wikimedia.org/data/main/Data:LuxembourgCountry.map
 has_id_wikidata: Q32
----
-﻿---
 location:
     - 49.6827
     - 6.07904

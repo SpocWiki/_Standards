@@ -228,8 +228,6 @@ MeSH tree code:
   - Z01.639.040.847
 native label: República Democrática de São Tomé e Príncipe
 has_id_wikidata: Q1039
----
-﻿---
 location: [0.333333,6.73333]
 type: Country
 tags:

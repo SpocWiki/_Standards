@@ -260,8 +260,6 @@ official website: https://www.gov.ls/
 country calling code: "+266"
 U.S. National Archives Identifier: "10044258"
 has_id_wikidata: Q1013
----
-﻿---
 location:
 - -29.4667
 - 27.9333

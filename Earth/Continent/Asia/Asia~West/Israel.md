@@ -476,8 +476,6 @@ Libris-URI: wt798x9f33sdv3p
 Commons gallery: ישראל / إسرائيل
 Gujarati Vishwakosh entry: ઇઝરાયલ
 has_id_wikidata: Q801
----
-﻿---
 location:
     - 32.23
     - 35

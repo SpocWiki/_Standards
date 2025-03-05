@@ -525,8 +525,6 @@ male population:
   - 42581376
 inception: 1923-10-29T00:00:00Z
 has_id_wikidata: Q43
----
-﻿---
 location:
     - 39.3233
     - 32.37

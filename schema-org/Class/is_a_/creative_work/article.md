@@ -25,8 +25,6 @@ aliases:
   - is_an_article
   - dbo:Article
   - schema:Article
----
-﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false

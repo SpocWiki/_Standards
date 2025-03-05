@@ -253,8 +253,6 @@ GitHub topic: maldives
 CIVICUS Monitor country entry: maldives
 subreddit: maldives
 has_id_wikidata: Q826
----
-﻿---
 location:
     - 4.16667
     - 73.5

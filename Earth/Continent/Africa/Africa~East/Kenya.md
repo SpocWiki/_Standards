@@ -376,8 +376,6 @@ official website: http://www.president.go.ke
 country calling code: "+254"
 U.S. National Archives Identifier: "10035725"
 has_id_wikidata: Q114
----
-﻿---
 location:
 - -1.28
 - 36.83

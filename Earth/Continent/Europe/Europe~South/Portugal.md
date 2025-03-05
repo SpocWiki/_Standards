@@ -360,8 +360,6 @@ life expectancy: 81.12683
 population: 10347892
 coordinates of southernmost point: Point(-7.88698196 36.96024856)
 has_id_wikidata: Q45
----
-﻿---
 location:
     - 42.1067
     - -5.10879

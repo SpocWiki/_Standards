@@ -271,8 +271,6 @@ RIA Novosti reference:
   - "57472808"
   - "57490365"
 has_id_wikidata: Q874
----
-﻿---
 location:
     - 37.9667
     - 58.3333

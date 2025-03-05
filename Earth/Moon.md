@@ -106,9 +106,6 @@ volume as quantity: 21968000000
 diameter: 3476.2
 has_id_wikidata: Q405
 ---
-﻿---
-has_id_wikidata: Q405
----
 
 
 #is_/same_as :: [[WD~Moon,405]] 

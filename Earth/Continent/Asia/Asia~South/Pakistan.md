@@ -439,8 +439,6 @@ Wolfram Language entity code:
 GitHub topic: pakistan
 CIVICUS Monitor country entry: pakistan
 has_id_wikidata: Q843
----
-﻿---
 location:
     - 29.2633
     - 70.1033

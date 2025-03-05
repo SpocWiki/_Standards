@@ -272,8 +272,6 @@ Dewey Decimal Classification: 2--7281
 native label: República de Costa Rica
 coordinates of southernmost point: Point(-87.07371 5.49897)
 has_id_wikidata: Q800
----
-﻿---
 location:
     - 9.95
     - -84.08

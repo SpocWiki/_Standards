@@ -372,8 +372,6 @@ pronunciation audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Estonia.wav
 country calling code: "+372"
 has_id_wikidata: Q191
----
-﻿---
 location:
     - 59.4167
     - 24.75

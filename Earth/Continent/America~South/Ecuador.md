@@ -388,8 +388,6 @@ U.S. National Archives Identifier: "10035721"
 Dewey Decimal Classification: 2--866
 ITU letter code: EQA
 has_id_wikidata: Q736
----
-﻿---
 location:
     - -0.23
     - -78.5

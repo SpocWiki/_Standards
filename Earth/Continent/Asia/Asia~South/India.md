@@ -1230,8 +1230,6 @@ WOEID: "23424848"
 Wolfram Language entity code: Entity["Country", "India"]
 Unicode character: 🇮🇳
 has_id_wikidata: Q668
----
-﻿---
 location:
     - 20.3923
     - 78.9354

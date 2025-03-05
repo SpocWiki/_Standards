@@ -442,8 +442,6 @@ Commons category: Colombia
 Commons gallery: Colombia
 subreddit: Colombia
 has_id_wikidata: Q739
----
-﻿---
 location:
     - 3.525
     - -75.225

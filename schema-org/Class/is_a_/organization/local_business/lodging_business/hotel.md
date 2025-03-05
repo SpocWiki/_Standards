@@ -25,8 +25,6 @@ aliases:
   - is_a_hotel
   - dbo:Hotel
   - schema:Hotel
----
-﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false

@@ -22,8 +22,6 @@ aliases:
   - review
   - Review
   - is_a_review
----
-﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false

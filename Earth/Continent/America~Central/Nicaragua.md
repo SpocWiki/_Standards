@@ -288,8 +288,6 @@ motto text:
 native label: República de Nicaragua
 short name: 🇳🇮
 has_id_wikidata: Q811
----
-﻿---
 location:
     - 12.15
     - -86.28

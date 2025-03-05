@@ -430,8 +430,6 @@ inception:
   - 1768-12-28T00:00:00Z
 population: 66188503
 has_id_wikidata: Q869
----
-﻿---
 location:
     - 13.73
     - 100.5

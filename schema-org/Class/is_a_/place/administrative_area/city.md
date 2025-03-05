@@ -25,8 +25,6 @@ aliases:
   - is_a_city
   - dbo:City
   - schema:City
----
-﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false

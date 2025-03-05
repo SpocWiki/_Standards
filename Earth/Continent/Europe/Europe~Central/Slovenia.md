@@ -530,8 +530,6 @@ BHCL UUID: 6ce7bf2f-0a71-4070-841b-d81c20f18c0c
 Colon Classification: SG--59223
 Unicode character: 🇸🇮
 has_id_wikidata: Q215
----
-﻿---
 location:
     - 46.05
     - 14.52

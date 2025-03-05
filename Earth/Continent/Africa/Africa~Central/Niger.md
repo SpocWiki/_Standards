@@ -310,8 +310,6 @@ population: 21477348
 geoshape: http://commons.wikimedia.org/data/main/Data:Niger.map
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Niger.svg
 has_id_wikidata: Q1032
----
-﻿---
 location:
 - 13.5333
 - 2.08333

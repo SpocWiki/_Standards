@@ -1196,8 +1196,6 @@ official name:
   - Indonesia
   - Republik Indonesia
 has_id_wikidata: Q252
----
-﻿---
 location:
     - -6.695
     - 109.755

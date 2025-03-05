@@ -315,8 +315,6 @@ short name: 🇳🇦
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Duna%20en%20Sossusvlei%2C%20Namibia%2C%202018-08-06%2C%20DD%20002.jpg
 UMLS CUI: C0027366
 has_id_wikidata: Q1030
----
-﻿---
 location:
 - -22.57
 - 17.1

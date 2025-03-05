@@ -286,8 +286,6 @@ motto text:
   - אללה, המולדת, המלך
 official name: المملكة الأردنية الهاشمية
 has_id_wikidata: Q810
----
-﻿---
 location:
     - 31.95
     - 35.93

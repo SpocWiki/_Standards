@@ -288,8 +288,6 @@ short name: 🇰🇬
 coordinates of westernmost point: Point(69.25097 39.86528)
 coordinates of easternmost point: Point(80.22789 42.06395)
 has_id_wikidata: Q813
----
-﻿---
 location:
   - 42.8667
   - 74.6

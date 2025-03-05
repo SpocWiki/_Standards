@@ -327,8 +327,6 @@ U.S. National Archives Identifier:
 Commons gallery: Moçambique
 Unicode character: 🇲🇿
 has_id_wikidata: Q1029
----
-﻿---
 location:
 - -22.1
 - 33.7917

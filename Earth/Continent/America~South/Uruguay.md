@@ -369,8 +369,6 @@ official website: https://www.gub.uy/
 country calling code: "+598"
 Dewey Decimal Classification: 2--895
 has_id_wikidata: Q77
----
-﻿---
 location:
     - -34.91
     - -56.17

@@ -458,8 +458,6 @@ aliases:
   - Czech Republic
   - Bohemia
   - Böhmen
----
-﻿---
 location:
     - 49.7633
     - 15.8734

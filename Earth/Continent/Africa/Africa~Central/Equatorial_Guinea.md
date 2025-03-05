@@ -300,8 +300,6 @@ subreddit: EquatorialGuinea
 hashtag: EquatorialGuinea
 IPA transcription: ɛkʋɑtu'ɾɪɑːlgɪneːɑ
 Unicode character: 🇬🇶
----
-﻿---
 location:
 - 3.75
 - 8.78333

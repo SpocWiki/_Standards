@@ -285,8 +285,6 @@ Commons category: Cape Verde
 GitHub topic: cape-verde
 CIVICUS Monitor country entry: cape-verde
 has_id_wikidata: Q1011
----
-﻿---
 location:
 - 14.9167
 - -23.5167

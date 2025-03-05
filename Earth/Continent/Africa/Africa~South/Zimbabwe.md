@@ -308,8 +308,6 @@ motto text:
   - Undeb, Rhyddid, Gwaith
   - Unity, Freedom, Work
 has_id_wikidata: Q954
----
-﻿---
 location:
 - -17.8333
 - 31.05

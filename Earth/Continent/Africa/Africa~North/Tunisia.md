@@ -373,8 +373,6 @@ short name: 🇹🇳
 inception: 1956-03-20T00:00:00Z
 coordinates of westernmost point: Point(7.52542 33.79829)
 has_id_wikidata: Q948
----
-﻿---
 location:
   - 36.8
   - 10.18

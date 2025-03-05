@@ -396,8 +396,6 @@ subreddit:
   - venezuela
   - vzla
 has_id_wikidata: Q717
----
-﻿---
 location:
     - 10.5
     - -66.93

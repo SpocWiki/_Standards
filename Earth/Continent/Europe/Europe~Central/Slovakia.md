@@ -353,8 +353,6 @@ Colon Classification: SG--59252
 Unicode character: 🇸🇰
 GitHub topic: slovakia
 has_id_wikidata: Q214
----
-﻿---
 location:
     - 48.13
     - 17.1

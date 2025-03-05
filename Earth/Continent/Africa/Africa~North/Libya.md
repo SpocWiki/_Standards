@@ -335,8 +335,6 @@ country calling code: "+218"
 BHCL UUID: 6494b201-d92e-4b7a-ab3a-33ea52c839af
 CIVICUS Monitor country entry: libya
 has_id_wikidata: Q1016
----
-﻿---
 location:
 - 32.89
 - 13.19

@@ -306,8 +306,6 @@ MeSH tree code: Z01.252.245.500.450
 Commons gallery: لبنان / Liban
 name in native language: الجمهوريّة اللبنانيّة
 has_id_wikidata: Q822
----
-﻿---
 location:
     - 33.87
     - 35.5

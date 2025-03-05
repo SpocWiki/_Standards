@@ -334,8 +334,6 @@ MeSH tree code: Z01.058.290.190.200
 short name: 🇧🇯
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Benin%20%28orthographic%20projection%20with%20inset%29.svg
 has_id_wikidata: Q962
----
-﻿---
 location:
 - 6.46667
 - 2.6

@@ -427,8 +427,6 @@ country calling code: "+977"
 Libris-URI: fcrtsp8z0f4309t
 CIVICUS Monitor country entry: nepal
 has_id_wikidata: Q837
----
-﻿---
 location:
     - 27.7
     - 85.3167

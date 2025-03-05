@@ -91,8 +91,6 @@ OmegaWiki Defined Meaning: "3609"
 Commons category: States
 BHCL UUID: e8931adb-4650-49f1-a2f2-460122c17ac3
 Krugosvet article: istoriya/GOSUDARSTVO.html
----
-﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false

@@ -346,8 +346,6 @@ nominal GDP:
   - 19737616003
 Unicode character: 🇧🇫
 has_id_wikidata: Q965
----
-﻿---
 location:
 - 12.3333
 - -1.66667

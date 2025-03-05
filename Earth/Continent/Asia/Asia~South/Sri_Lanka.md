@@ -300,8 +300,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Topography%20Sri%20Lan
 official website: https://www.gov.lk/index.php
 country calling code: "+94"
 has_id_wikidata: Q854
----
-﻿---
 location:
     - 6.86
     - 80.425

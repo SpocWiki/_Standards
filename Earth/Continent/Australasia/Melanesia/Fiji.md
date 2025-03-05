@@ -252,8 +252,6 @@ Commons gallery: Fiji / Viti
 subreddit: FijiIslands
 Unicode character: 🇫🇯
 has_id_wikidata: Q712
----
-﻿---
 location:
     - -18.1667
     - 178.45

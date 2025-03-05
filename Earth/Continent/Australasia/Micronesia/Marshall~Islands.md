@@ -238,8 +238,6 @@ flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 Commons category: Marshall Islands
 inception: 1986-10-21T00:00:00Z
 has_id_wikidata: Q709
----
-﻿---
 location:
     - 9.34833
     - 168.348

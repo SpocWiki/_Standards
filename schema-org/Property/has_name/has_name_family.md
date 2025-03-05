@@ -27,8 +27,6 @@ aliases:
   - has_name_family
   - family name
   - last name
----
-﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false

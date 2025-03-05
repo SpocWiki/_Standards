@@ -301,8 +301,6 @@ coordinate location: Point(11.5 -0.683330555)
 geoshape: http://commons.wikimedia.org/data/main/Data:Gabon.map
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Gabon%20banner%20Lop%C3%A9%20National%20Park.jpg
 has_id_wikidata: Q1000
----
-﻿---
 location:
 - 0.383333
 - 9.45

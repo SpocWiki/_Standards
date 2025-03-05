@@ -218,8 +218,6 @@ pronunciation audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Kiribati.wav
 official website: https://www.kiribati.gov.ki
 has_id_wikidata: Q710
----
-﻿---
 location:
     - 1.4
     - 172.967

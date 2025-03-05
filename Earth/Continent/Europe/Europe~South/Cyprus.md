@@ -317,8 +317,6 @@ page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Vouni%20%28Cypru
 official website: http://www.cyprus.gov.cy/
 country calling code: "+357"
 has_id_wikidata: Q229
----
-﻿---
 location:
     - 35.1333
     - 33.4667

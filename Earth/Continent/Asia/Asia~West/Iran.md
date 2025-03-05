@@ -483,8 +483,6 @@ male population:
   - 44426789
   - 44714592
 has_id_wikidata: Q794
----
-﻿---
 location:
   - 34.175
   - 51.555

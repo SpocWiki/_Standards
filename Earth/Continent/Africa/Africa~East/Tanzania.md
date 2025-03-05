@@ -425,8 +425,6 @@ GitHub topic: tanzania
 ISO 3166-1 alpha-3 code: TZA
 ITU letter code: TZA
 has_id_wikidata: Q924
----
-﻿---
 location:
 - -6.17306
 - 35.7419

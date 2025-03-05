@@ -343,8 +343,6 @@ GitHub topic: guatemala
 Colon Classification: SG--751
 Krugosvet article: strany_mira/GVATEMALA.html
 has_id_wikidata: Q774
----
-﻿---
 location:
     - 14.6333
     - -90.5

@@ -284,8 +284,6 @@ official name:
 short name: 🇸🇴
 location map: http://commons.wikimedia.org/wiki/Special:FilePath/Administrative%20divisions%20of%20Somalia.svg
 has_id_wikidata: Q1045
----
-﻿---
 location:
 - 2.02
 - 45.33

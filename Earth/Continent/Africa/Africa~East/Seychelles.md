@@ -263,8 +263,6 @@ female population:
   - 56766
 FIPS 10-4 (countries and regions): SE
 has_id_wikidata: Q1042
----
-﻿---
 location:
 - -4.61667
 - 55.45

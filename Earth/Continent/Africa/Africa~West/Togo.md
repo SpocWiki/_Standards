@@ -300,8 +300,6 @@ native label: Togo
 short name: 🇹🇬
 coordinate location: Point(1.183333 8.25)
 has_id_wikidata: Q945
----
-﻿---
 location:
 - 6.11667
 - 1.21667

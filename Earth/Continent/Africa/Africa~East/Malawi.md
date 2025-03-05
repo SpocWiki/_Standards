@@ -281,8 +281,6 @@ Unicode character: 🇲🇼
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Malawi.svg
 coordinates of easternmost point: Point(35.9185 -14.8954)
 has_id_wikidata: Q1020
----
-﻿---
 location:
 - -13.95
 - 33.7

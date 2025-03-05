@@ -303,8 +303,6 @@ coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liberian%20Capitol%20Building.jpg
 coordinates of northernmost point: Point(-9.77 8.55)
 has_id_wikidata: Q1014
----
-﻿---
 location:
 - 6.31667
 - -10.8

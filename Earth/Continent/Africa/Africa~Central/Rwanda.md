@@ -268,8 +268,6 @@ locator map image:
 country calling code: "+250"
 Dewey Decimal Classification: 2--67571
 has_id_wikidata: Q1037
----
-﻿---
 location:
 - -1.94388
 - 30.0595

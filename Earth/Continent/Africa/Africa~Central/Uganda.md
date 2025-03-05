@@ -447,8 +447,6 @@ Unicode character: 🇺🇬
 CIVICUS Monitor country entry: uganda
 GitHub topic: uganda
 has_id_wikidata: Q1036
----
-﻿---
 location:
 - 0.313611
 - 32.5811

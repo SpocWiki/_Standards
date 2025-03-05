@@ -416,8 +416,6 @@ location map: http://commons.wikimedia.org/wiki/Special:FilePath/Ukraine%20adm%2
 relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Ukraine%20relief%20location%20map.jpg
 official website: https://ukraine.ua
 country calling code: "+380"
----
-﻿---
 location:
     - 50.45
     - 30.5

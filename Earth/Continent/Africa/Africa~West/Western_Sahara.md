@@ -126,8 +126,6 @@ OmegaWiki Defined Meaning: "750643"
 ISO 3166-1 alpha-3 code: ESH
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Sahrawi%20Arab%20Democratic%20Republic.svg
 country calling code: "+212"
----
-﻿---
 location:
 - 27.1536
 - -13.2033

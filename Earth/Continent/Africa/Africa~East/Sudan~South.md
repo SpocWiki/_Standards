@@ -318,8 +318,6 @@ Unicode character: 🇸🇸
 coordinates of easternmost point: Point(35.949 4.63103)
 coordinates of northernmost point: Point(32.73159 12.23638)
 has_id_wikidata: Q958
----
-﻿---
 title: South Sudan
 type: Country
 has_id_wikidata: Q958 

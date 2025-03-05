@@ -487,8 +487,6 @@ locator map image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/North%20Korea%20%28orthographic%20projection%29.svg
 country calling code: "+850"
 has_id_wikidata: Q423
----
-﻿---
 location:
   - 39.0333
   - 125.75

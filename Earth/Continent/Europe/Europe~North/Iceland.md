@@ -281,8 +281,6 @@ IPA transcription:
   - ɪˈslanʲdʲɪjə
 Krugosvet article: strany_mira/ISLANDIYA.html
 has_id_wikidata: Q189
----
-﻿---
 location:
     - 64.614
     - -21.718

@@ -429,8 +429,6 @@ Commons gallery: 中華民國
 inception: 1912-01-01T00:00:00Z
 coordinates of easternmost point: Point(122.10638889 25.485)
 has_id_wikidata: Q865
----
-﻿---
 location:
     - 25.08
     - 121.55

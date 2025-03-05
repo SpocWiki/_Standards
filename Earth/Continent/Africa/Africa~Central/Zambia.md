@@ -344,8 +344,6 @@ MeSH tree code: Z01.058.290.175.920
 GitHub topic: zambia
 CIVICUS Monitor country entry: zambia
 has_id_wikidata: Q953
----
-﻿---
 location:
 - -15.4167
 - 28.2833

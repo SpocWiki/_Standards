@@ -438,8 +438,6 @@ GitHub topic: serbia
 Colon Classification: SG--59221
 Krugosvet article: strany-mira/serbiya
 Commons gallery: Србија
----
-﻿---
 location:
     - 44.82
     - 20.48

@@ -25,8 +25,6 @@ aliases:
   - is_a_video_object
   - schema:VideoObject
   - dbo:Video
----
-﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false

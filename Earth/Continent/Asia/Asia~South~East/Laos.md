@@ -333,8 +333,6 @@ Krugosvet article: strany-mira/laos
 MeSH tree code: Z01.252.145.435
 Commons gallery: ປະເທດລາວ
 has_id_wikidata: Q819
----
-﻿---
 location:
 - 17.9667
 - 102.6

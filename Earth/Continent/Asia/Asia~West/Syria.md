@@ -290,8 +290,6 @@ top-level Internet domain: "[[_Standards/WikiData/WD~.sy,42778]]"
 Gini coefficient: 37.5
 flag: "[[_Standards/WikiData/WD~flag of Syria,45136]]"
 has_id_wikidata: Q858
----
-﻿---
 location:
 - 34.335
 - 36.625

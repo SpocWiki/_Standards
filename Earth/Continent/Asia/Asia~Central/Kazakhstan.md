@@ -335,8 +335,6 @@ country calling code: "+7"
 coordinate location: Point(68.0 48.0)
 population: 20139914
 has_id_wikidata: Q232
----
-﻿---
 location:
     - 51.1667
     - 71.4167

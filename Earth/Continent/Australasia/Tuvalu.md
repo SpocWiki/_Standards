@@ -198,8 +198,6 @@ locator map image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tuvalu%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg
 country calling code: "+688"
 has_id_wikidata: Q672
----
-﻿---
 location:
     - -8.51667
     - 179.217

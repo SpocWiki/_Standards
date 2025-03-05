@@ -556,8 +556,6 @@ Wolfram Language entity code: Entity["Country", "Japan"]
 Colon Classification: SG--42
 Krugosvet article: strany_mira/YAPONIYA.html
 has_id_wikidata: Q17
----
-﻿---
 location:
     - 36.8617
     - 137.199

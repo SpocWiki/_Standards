@@ -259,8 +259,6 @@ coordinate location: Point(38.25 15.483333)
 coordinates of northernmost point: Point(38.58253 18.02049)
 coordinates of southernmost point: Point(42.70097 12.35482)
 has_id_wikidata: Q986
----
-﻿---
 location:
 - 15.3333
 - 38.9167

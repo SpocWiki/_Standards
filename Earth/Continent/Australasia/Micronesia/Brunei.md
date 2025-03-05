@@ -274,8 +274,6 @@ Commons category: Brunei
 Commons gallery: Brunei
 CIVICUS Monitor country entry: brunei-darussalam
 has_id_wikidata: Q921
----
-﻿---
 location:
     - 4.89028
     - 114.942

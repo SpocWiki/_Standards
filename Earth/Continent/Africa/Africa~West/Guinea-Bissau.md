@@ -250,8 +250,6 @@ Libris-URI: 20dgf16l23qsczg
 Commons gallery: Guiné-Bissau
 CIVICUS Monitor country entry: guinea-bissau
 has_id_wikidata: Q1007
----
-﻿---
 location:
 - 11.8667
 - -15.6

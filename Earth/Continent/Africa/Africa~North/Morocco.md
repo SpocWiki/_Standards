@@ -394,8 +394,6 @@ urban population:
   - 24196351
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/A%C3%AFt%20Arbi%20%28Maroc%29%20banner%20Vall%C3%A9e%20des%20Gorges%20du%20Dad%C3%A8s.jpg
 has_id_wikidata: Q1028
----
-﻿---
 location:
 - 33.0225
 - -7.6125

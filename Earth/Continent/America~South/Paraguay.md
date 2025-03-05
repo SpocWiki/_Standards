@@ -303,8 +303,6 @@ Commons category: Paraguay
 subreddit: Paraguay
 hashtag: Paraguay
 has_id_wikidata: Q733
----
-﻿---
 location:
     - -25.27
     - -57.67

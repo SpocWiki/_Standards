@@ -338,8 +338,6 @@ official name: République du Sénégal
 native label: Senegaal
 short name: 🇸🇳
 has_id_wikidata: Q1041
----
-﻿---
 location:
 - 14.435
 - -17.125

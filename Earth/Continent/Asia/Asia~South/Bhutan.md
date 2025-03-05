@@ -281,8 +281,6 @@ Human Development Index: 0.666
 life expectancy: 71.5
 literacy rate: 72.1
 has_id_wikidata: Q917
----
-﻿---
 location:
     - 27.417
     - 90.435

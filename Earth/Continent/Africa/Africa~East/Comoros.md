@@ -247,8 +247,6 @@ Unicode character: 🇰🇲
 IPA transcription: ku'muːɾn̩ə
 Krugosvet article: strany_mira/KOMORSKIE_OSTROVA.html
 has_id_wikidata: Q970
----
-﻿---
 location:
 - -11.7
 - 43.25

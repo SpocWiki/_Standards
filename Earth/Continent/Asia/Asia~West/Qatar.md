@@ -263,8 +263,6 @@ seal image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Qat
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Qatar-2022.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Doha%20West%20Bay.jpg
 has_id_wikidata: Q846
----
-﻿---
 location:
     - 25.28
     - 51.53

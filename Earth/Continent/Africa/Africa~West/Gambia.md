@@ -246,8 +246,6 @@ CIVICUS Monitor country entry: gambia
 Unicode character: 🇬🇲
 Krugosvet article: strany_mira/GAMBIYA.html
 has_id_wikidata: Q1005
----
-﻿---
 location:
 - 13.4667
 - -16.6

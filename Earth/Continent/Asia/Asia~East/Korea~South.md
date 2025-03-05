@@ -403,8 +403,6 @@ coordinates of westernmost point: Point(124.65 37.966666666)
 territory claimed by: "[[_Standards/WikiData/WD~North Korea,423]]"
 country: "[[_Standards/WikiData/WD~South Korea,884]]"
 has_id_wikidata: Q884
----
-﻿---
 location:
   - 37.55
   - 126.97

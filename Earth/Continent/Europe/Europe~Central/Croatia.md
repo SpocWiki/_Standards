@@ -362,8 +362,6 @@ country calling code: "+385"
 U.S. National Archives Identifier: "10045284"
 BHCL UUID: bbcd115b-c5ae-49ac-8b3c-ab8e07472b22
 has_id_wikidata: Q224
----
-﻿---
 location:
     - 45.8
     - 15.97

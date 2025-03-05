@@ -312,8 +312,6 @@ Commons gallery: اليمن
 official name: الجمهورية اليمنية
 native label: الجمهوريّة اليمنية
 has_id_wikidata: Q805
----
-﻿---
 location:
     - 14.06
     - 44.61

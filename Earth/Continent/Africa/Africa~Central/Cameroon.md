@@ -568,8 +568,6 @@ country calling code: "+237"
 CIVICUS Monitor country entry: cameroon
 GitHub topic: cameroon
 has_id_wikidata: Q1009
----
-﻿---
 location:
 - 3.94
 - 10.6

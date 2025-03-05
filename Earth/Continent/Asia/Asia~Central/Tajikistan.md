@@ -285,8 +285,6 @@ inception: 1991-09-09T00:00:00Z
 coordinates of easternmost point: Point(75.1600533 37.4116094)
 coordinate location: Point(71.366667 38.583333)
 has_id_wikidata: Q863
----
-﻿---
 location:
     - 38.55
     - 68.8

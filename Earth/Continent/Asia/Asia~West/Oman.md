@@ -280,8 +280,6 @@ official website: https://www.oman.om/
 country calling code: "+968"
 Dewey Decimal Classification: 2--5353
 has_id_wikidata: Q842
----
-﻿---
 location:
     - 23.48
     - 58.55

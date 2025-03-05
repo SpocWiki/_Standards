@@ -364,8 +364,6 @@ coordinates of southernmost point: Point(-7.0499 10.1478)
 population: 20250833
 coordinate location: Point(-4.0 17.0)
 has_id_wikidata: Q912
----
-﻿---
 location:
 - 12.65
 - -8

@@ -394,8 +394,6 @@ urban population:
 coordinate location: Point(54.3 24.4)
 coordinates of northernmost point: Point(56.08646 26.05041)
 has_id_wikidata: Q878
----
-﻿---
 location:
     - 24.47
     - 54.42

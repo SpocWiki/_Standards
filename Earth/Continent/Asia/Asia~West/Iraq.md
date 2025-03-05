@@ -344,8 +344,6 @@ Wolfram Language entity code: Entity["HistoricalCountry", "Iraq"]
 CIVICUS Monitor country entry: iraq
 GitHub topic: iraq
 has_id_wikidata: Q796
----
-﻿---
 location:
     - 33.34
     - 44.42

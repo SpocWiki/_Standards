@@ -257,8 +257,6 @@ hashtag: Djibouti
 Libris-URI: ljx0zd0451qfg4f
 Krugosvet article: strany_mira/DZHIBUTI.html
 has_id_wikidata: Q977
----
-﻿---
 location:
 - 11.6
 - 43.1667
