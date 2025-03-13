@@ -123,12 +123,29 @@ page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rhodiapolis%20%2
 
 ##[[../../../../schema-org/Property/Texts/has_abstract]]] 
 
+#has_/order_of_/words:: S-O-P 
+#has_/word_/genders :: [ [[Neuter]] ] 
+#has_/word_/politeness :: Plural 
 
-> Turkish (Türkçe [ˈtyɾctʃe] , Türk dili; also Türkiye Türkçesi 'Turkish of Turkey') is the most widely spoken of the Turkic languages, with around 90 to 100 million speakers. It is the national language of Turkey and Northern Cyprus. Significant smaller groups of Turkish speakers also exist in Germany, Austria, Bulgaria, North Macedonia, Greece, Cyprus, other parts of Europe, the South Caucasus, and some parts of Central Asia, Iraq, and Syria. Turkish is the 18th most spoken language in the world.
+> Turkish (Türkçe [ˈtyɾctʃe] , Türk dili; also Türkiye Türkçesi 'Turkish of Turkey') is 
+> the most widely spoken of the Turkic languages, with around 90 to 100 million speakers. 
+> 
+> It is the national language of Turkey and Northern Cyprus. 
+> Significant smaller groups of Turkish speakers also exist in Germany, Austria, Bulgaria, North Macedonia, 
+> Greece, Cyprus, other parts of Europe, the South Caucasus, and some parts of Central Asia, Iraq, and Syria. 
+> Turkish is the 18th most spoken language in the world.
 >
-> To the west, the influence of Ottoman Turkish—the variety of the **turkish language** that was used as the administrative and literary language of the Ottoman Empire—spread as the Ottoman Empire expanded. In 1928, as one of Atatürk's Reforms in the early years of the Republic of Turkey, the Ottoman Turkish alphabet was replaced with a Latin alphabet.
+> Some distinctive characteristics of the Turkish language are vowel harmony and extensive agglutination. 
+> The basic word order of Turkish is subject–object–verb. 
+> Turkish has __NO noun classes or grammatical gender__. 
+> The language makes usage of honorifics and has a strong T–V distinction which distinguishes varying 
+> levels of politeness, social distance, age, courtesy or familiarity toward the addressee. 
+> The plural second-person pronoun and verb forms are used referring to a single person out of respect.
 >
-> Some distinctive characteristics of the Turkish language are vowel harmony and extensive agglutination. The basic word order of Turkish is subject–object–verb. Turkish has no noun classes or grammatical gender. The language makes usage of honorifics and has a strong T–V distinction which distinguishes varying levels of politeness, social distance, age, courtesy or familiarity toward the addressee. The plural second-person pronoun and verb forms are used referring to a single person out of respect.
+> To the west, the influence of Ottoman Turkish—the variety of the **turkish language** that was used as the 
+> administrative and literary language of the Ottoman Empire—spread as the Ottoman Empire expanded. 
+> In 1928, as one of Atatürk's Reforms in the early years of the Republic of Turkey, 
+> the Ottoman Turkish alphabet was replaced with a Latin alphabet.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20language)
 

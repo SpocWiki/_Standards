@@ -166,7 +166,14 @@ All-Science Journal Classification Codes: "1702"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Artificial%20intelligence)  
 
+## Opaque Communication 
 
+Although generative AI uses (written) Language, this is not the most efficient. 
+
+### Gibberlink 
+Apart from binary HTTP Communication, it can also use [[ggWave]] data-over.sound Protocol 
+as demonstrated in this Repo https://github.com/PennyroyalTea/gibberlink?tab=readme-ov-file 
+This is frightening. 
 
 
 
