@@ -31,8 +31,8 @@ A time period from> The **Siderian** Period ( ; Ancient Greek: σίδηρος, r
 
 #has_/abbreviation :: PP1
 
-#has_/time_/started /Ma :: -2500
-#has_/time_/stopped /Ma :: -2300
+#has_/time_/started :: -2.5e9 
+#has_/time_/stopped :: -2.3e9 
 
     sh:order 171 
 

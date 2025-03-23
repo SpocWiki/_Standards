@@ -1,4 +1,4 @@
-﻿---
+---
 
 ---
 
@@ -10,14 +10,38 @@ These are several hundred million years to two billion years in length.
 
 ## Eon 
 
-```dataview
-TABLE WITHOUT ID
-substring(file.name,6), 
-round(has_time_startedma * 1000000) as start, 
-round(has_time_destroyedma * 1000000) as end 
-from #is_a_/time_/Eon  
-SORT has_time_startedma asc
+
+```dataviewjs
+const data = dv.pages("#is_a_/time_/Eon")
+    .sort(p => Number(p.has_time_started), 'asc')
+    .map(p => [
+        p.file.name.substring(6), // Name (default left-aligned)
+        Number(p.has_time_started), // Start (right-aligned)
+        Number(p.has_time_stopped) // End (right-aligned)
+    ]);
+
+const headers = ["Name", "Start", "End"];
+
+dv.table(headers, data)
+
 ```
+
+```dataviewjs
+const data = dv.pages("#is_a_/time_/Eon")
+    .sort(p => Number(p.has_time_started), 'asc')
+    .map(p => [
+        p.file.name.substring(6), // Name (default left-aligned)
+        Number(p.has_time_started), // Start (right-aligned)
+        Number(p.has_time_stopped) // End (right-aligned)
+    ]);
+
+const headers = ["Name", "Start", "End"];
+
+dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
+
+```
+
+
 
 ```mermaid
 ---
@@ -75,13 +99,19 @@ Quaternary: crit, -2580000, 0
 
 ## Era 
 
-```dataview
-TABLE WITHOUT ID
-substring(file.name,6) + ": crit, " 
-+ round(has_time_startedma * 1000000) + ", "
-+ round(has_time_destroyedma * 1000000) as task
-FROM #is_a_/time_/Era  
-SORT has_time_startedma asc
+```dataviewjs
+const data = dv.pages("#is_a_/time_/Era")
+    .sort(p => Number(p.has_time_started), 'asc')
+    .map(p => [
+        p.file.name.substring(6), // Name (default left-aligned)
+        Number(p.has_time_started), // Start (right-aligned)
+        Number(p.has_time_stopped) // End (right-aligned)
+    ]);
+
+const headers = ["Name", "Start", "End"];
+
+dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
+
 ```
 
 
@@ -122,13 +152,19 @@ Quaternary: crit, -2580000, 0
 
 ## Period
 
-```dataview
-TABLE WITHOUT ID
-substring(file.name,9) + ": crit, " 
-+ round(has_time_startedma * 1000000) + ", "
-+ round(has_time_destroyedma * 1000000) as task
-FROM #is_a_/time_/Period  
-SORT has_time_startedma asc
+
+```dataviewjs
+const data = dv.pages("#is_a_/time_/Period")
+    .sort(p => Number(p.has_time_started), 'asc')
+    .map(p => [
+        p.file.name.substring(7),//.replaceAll("~","-"), (default left-aligned)
+        Number(p.has_time_started), // Start (right-aligned)
+        Number(p.has_time_stopped) // End (right-aligned)
+    ]);
+
+const headers = ["Period", "Start", "End"];
+
+dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
 ```
 
 
@@ -175,13 +211,19 @@ Holocene: crit, -11700, 0
 
 ## Epoch 
 
-```dataview
-TABLE WITHOUT ID
-substring(file.name,8) + ": crit, " 
-+ round(has_time_startedma * 1000000) + ", "
-+ round(has_time_destroyedma * 1000000) as task
-FROM #is_a_/time_/Epoch  
-SORT has_time_startedma asc
+
+```dataviewjs
+const data = dv.pages("#is_a_/time_/Epoch")
+    .sort(p => Number(p.has_time_started), 'asc')
+    .map(p => [
+        p.file.name.substring(6),//.replaceAll("~","-"), (default left-aligned)
+        Number(p.has_time_started), // Start (right-aligned)
+        Number(p.has_time_stopped) // End (right-aligned)
+    ]);
+
+const headers = ["Epoch", "Start", "End"];
+
+dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
 ```
 
 
@@ -243,16 +285,20 @@ Meghalayan: crit, -4200, 0
 
 ## Age 
 
-```dataview
-TABLE WITHOUT ID
-substring(file.name,6) + ": crit, " 
-+ round(has_time_startedma * 1000000) + ", "
-+ round(has_time_destroyedma * 1000000) as task
-FROM #is_a_/time_/Age  
-SORT has_time_startedma asc
+
+```dataviewjs
+const data = dv.pages("#is_a_/time_/Age")
+    .sort(p => Number(p.has_time_started), 'asc')
+    .map(p => [
+        p.file.name.substring(4),//.replaceAll("~","-"), (default left-aligned)
+        Number(p.has_time_started), // Start (right-aligned)
+        Number(p.has_time_stopped) // End (right-aligned)
+    ]);
+
+const headers = ["Age", "Start", "End"];
+
+dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
 ```
-
-
 
 
 
@@ -724,17 +770,23 @@ Siege of Aztec Tenochtitlan	: milestone, 	1521	,	1521
 
 
 
-```dataview
-TABLE WITHOUT ID
-substring(file.name,0) + ": crit, " 
-+ round(has_time_startedka * 1000) + ", "
-+ round(has_time_destroyedka * 1000) as task
-FROM #is_a_/time_/Culture 
-SORT has_time_startedka asc
+
+
+
+
+```dataviewjs
+const data = dv.pages("#is_a_/time_/Culture")
+    .sort(p => Number(p.has_time_started), 'asc')
+    .map(p => [
+        p.file.name.substring(0),//.replaceAll("~","-"), (default left-aligned)
+        Number(p.has_time_started), // Start (right-aligned)
+        Number(p.has_time_stopped) // End (right-aligned)
+    ]);
+
+const headers = ["Culture", "Start", "End"];
+
+dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
 ```
-
-
-
 
 
 
@@ -825,186 +877,174 @@ See also: [15th century](https://en.wikipedia.org/wiki/15th_century "15th centur
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-| Event                                      | Start Date | End Date   |
-|--------------------------------------------|------------|------------|
-| Columbus' First Voyage                      | 1492       | 1493       |
-| Protestant Reformation               | 1517       | - )|
-| Magellan's Circumnavigation                | 1519       | 1522       |
-| Aztec Empire Conquered                      | 1519       | 1521       |
-| Mughal Empire                        | 1526       | 1803  |
-| Henry VIII's Marriage to Anne Boleyn        | 1533       | 1547  |
-| Copernicus' Heliocentric Model              | 1543       | -          |
-| Peace of Augsburg                           | 1555       | -          |
-| Spanish Armada                              | 1588       | 1588       |
-| Edict of Nantes                              | 1598       | 1685  |
-| Battle of Lepanto                           | 1571       | 1571       |
-| Council of Trent                            | 1545       | 1563       |
-| St. Bartholomew's Day Massacre             | 1572       | 1572       |
-| The Elizabethan Era Begins                 | 1558       | 1603       |
-| Treaty of Tordesillas                      | 1494       | -          |
-| Ignatius of Loyola Establishes the Jesuits | 1540       | -          |
-| The Great Fire of London                   | 1666       | 1666       |
-| The Spanish Colonization of the Americas    | 1492       | -          |
-| The Portuguese Colonization of Brazil      | 1500       | -          |
-| The Sack of Rome                           | 1527       | 1527       |
-| The Battle of Panipat                      | 1526       | 1556       |
-| The Treaty of Cateau-Cambrésis             | 1559       | 1559       |
-| The Foundation of Quebec City              | 1608       | 1608       |
-| The Plantation of Ulster                   | 1609       | 1609       |
-| The Dutch Revolt                           | 1568       | 1648       |
-| Thirty Years' War                         | 1618       | 1648       |
-| English Civil War                          | 1642       | 1651       |
-| Peace of Westphalia                        | 1648       | 1648       |
-| Treaty of Westphalia                       | 1648       | 1648       |
-| Scientific Revolution                     | 1600 | 1700 |
-| Ottoman–Safavid War                       | 1603       | 1618       |
-| Tokugawa Shogunate Established             | 1603       | 1868  |
-| Dutch Golden Age                           | 1600 | 1700 |
-| The Siege of Osaka                         | 1614       | 1615       |
-| Ming-Qing Transition                      | 1618       | 1683       |
-| Peace of Augsburg                          | 1555       | 1555       |
-| Fronde Civil Wars (France)                 | 1648       | 1653       |
-| Treaty of Utrecht                          | 1713       | 1714       |
-| Great Fire of London                       | 1666       | 1666       |
-| First Anglo-Dutch War                      | 1652       | 1654       |
-| The Taj Mahal Construction                 | 1632       | 1653       |
-| The English Restoration                   | 1660       | 1688       |
-| The Pueblo Revolt                          | 1680       | 1692       |
-| The Battle of Vienna                       | 1683       | 1683       |
-| Glorious Revolution (England)              | 1688       | 1689       |
-| Salem Witch Trials                         | 1692       | 1693       |
-| The Treaty of Pyrenees                     | 1659       | 1659       |
-| The Navigation Acts                        | 1651       | 1660s      |
-| The Treaty of Breda                        | 1667       | 1667       |
-| The Glorious Revolution in Scotland       | 1688       | 1688       |
-| The Treaty of Paris (1763)                 | 1763       | 1763       |
-| The Peace of Basel                         | 1795       | 1795       |
-| War of Spanish Succession                  | 1701       | 1714       |
-| Treaty of Utrecht                          | 1713       | 1714       |
-| The Treaty of Nystad                       | 1721       | 1721       |
-| Great Northern War                         | 1700       | 1721       |
-| The South Sea Bubble                       | 1720       | 1720       |
-| War of Austrian Succession                 | 1740       | 1748       |
-| Seven Years' War                           | 1756       | 1763       |
-| American Revolutionary War                | 1775       | 1783       |
-| Treaty of Paris (1783)                     | 1783       | 1783       |
-| French Revolution                          | 1789       | 1799       |
-| Reign of Terror                            | 1793       | 1794       |
-| The Napoleonic Wars                        | 1803       | 1815       |
-| Haitian Revolution                         | 1791       | 1804       |
-| American Constitution Ratified             | 1787       | 1788       |
-| Boston Tea Party                           | 1773       | 1773       |
-| Thomas Jefferson's Louisiana Purchase      | 1803       | 1803       |
-| Battle of Plassey                          | 1757       | 1757       |
-| First Partition of Poland                  | 1772       | 1772       |
-| Catherine the Great's Rule in Russia       | 1762       | 1796       |
-| Treaty of Kucuk Kaynarca                   | 1774       | 1774       |
-| James Cook's First Voyage                  | 1768       | 1771       |
-| The Molasses Act                           | 1733       | 1733       |
-| The First Industrial Revolution            | 1750 | 1850 |
-| The Enlightenment in France                | 1715       | 1789       |
-| The Three Treaties of Paris                | 1761-1783  | 1761-1783  |
-| The Treaty of Hubertusburg                 | 1763       | 1763       |
-| The Treaty of Paris (1763)                 | 1763       | 1763       |
-| The Treaty of Paris (1783)                 | 1783       | 1783       |
-| Napoleonic Wars                            | 1803       | 1815       |
-| Congress of Vienna                         | 1814       | 1815       |
-| Latin American Wars of Independence        | 1810 | 1826       |
-| Greek War of Independence                  | 1821       | 1829       |
-| July Revolution (France)                   | 1830       | 1830       |
-| Belgian Revolution                        | 1830       | 1831       |
-| Abolition of Slavery (British Empire)      | 1807       | 1833       |
-| Opium Wars                                 | 1839       | 1842       |
-| Texas Revolution                           | 1835       | 1836       |
-| Treaty of Nanking                          | 1842       | 1842       |
-| Revolutions of 1848                        | 1848       | 1849       |
-| Crimean War                                | 1853       | 1856       |
-| Indian Rebellion of 1857                   | 1857       | 1858       |
-| American Civil War                         | 1861       | 1865       |
-| Emancipation Proclamation (US)             | 1863       | 1863       |
-| Meiji Restoration (Japan)                  | 1868       | 1912       |
-| Suez Canal Completed                       | 1869       | 1869       |
-| Franco-Prussian War                        | 1870       | 1871       |
-| Paris Commune                              | 1871       | 1871       |
-| The Long Depression                        | 1873       | 1896       |
-| Berlin Conference                          | 1884       | 1885       |
-| Scramble for Africa                        | 1870 | 1914 |
-| First Sino-Japanese War                    | 1894       | 1895       |
-| Spanish-American War                       | 1898       | 1898       |
-| Boxer Rebellion                            | 1899       | 1901       |
-| Boer War (Second Anglo-Boer War)           | 1899       | 1902       |
-| Trans-Siberian Railway Completed           | 1891       | 1916       |
-| Russo-Japanese War                         | 1904       | 1905       |
-| Panama Canal Completion                    | 1914       | 1914       |
-| Mexican Revolution                         | 1910       | 1920       |
-| World War I                                | 1914       | 1918       |
-| Treaty of Brest-Litovsk                    | 1918       | 1918       |
-| Russian Revolution                         | 1917       | 1923       |
-| Treaty of Versailles                       | 1919       | 1920       |
-| League of Nations Formation                | 1920       | 1946 |
-| Chinese Civil War                          | 1927       | 1949       |
-| Great Depression                           | 1929       | 1939  |
-| US Dust Bowl                                  | 1930      | 1940  |
-| Spanish Civil War                          | 1936       | 1939       |
-| Rape of Nanking                            | 1937       | 1938       |
-| Munich Agreement                           | 1938       | 1938       |
-| World War II                               | 1939       | 1945       |
-| Pearl Harbor Attack                        | 1941       | 1941       |
-| Holocaust                                  | 1941       | 1945       |
-| D-Day (Normandy Invasion)                  | 1944       | 1944       |
-| Nuremberg Trials                           | 1945       | 1946       |
-| United Nations Formation                            | 1945       | -    |
-| Cold War                                   | 1947       | 1991       |
-| Marshall Plan                              | 1947       | 1951       |
-| NATO Formation                             | 1949       | -    |
-| Korean War                                 | 1950       | 1953       |
-| Korean War Armistice Agreement             | 1953       | 1953       |
-| Cuban Revolution                           | 1953       | 1959       |
-| Vietnam War                                | 1955       | 1975       |
-| Suez Crisis                                | 1956       | 1956       |
-| Space Race                                 | 1957  | 1975       |
-| Civil Rights Movement (US)                 | 1950      | 1968      |
-| Cuban Missile Crisis                       | 1962       | 1962       |
-| Cultural Revolution (China)                | 1966       | 1976       |
-| Prague Spring                              | 1968       | 1968       |
-| Apollo 11 Moon Landing                     | 1969       | 1969       |
-| Nixon's Visit to China                     | 1972       | 1972       |
-| Watergate Scandal                          | 1972       | 1974       |
-| Vietnam War Ends                           | 1975       | 1975       |
-| Iranian Revolution                         | 1979       | 1979       |
-| Falklands War                              | 1982       | 1982       |
-| Berlin Wall Falls                          | 1989       | 1989       |
-| Gulf War                                   | 1990       | 1991       |
-| Nelson Mandela Released                    | 1990       | 1990       |
-| Dissolution of the Soviet Union            | 1991       | 1991       |
-| Bosnian War                                | 1992       | 1995       |
-| European Union Formation                   | 1993       | -    |
-| Oslo Accords                               | 1993       | 1995       |
-| Rwandan Genocide                          | 1994       | 1994       |
-| End of Apartheid (South Africa)            | 1994       | 1994       |
-| NATO Intervention in Kosovo                | 1999       | 1999       |
-| Hong Kong Handover                         | 1997       | 1997       |
-| 9/11 Attacks                               | 2001       | 2001       |
+| Event                                      | Start Date | End Date          |
+| ------------------------------------------ | ---------- | ----------------- |
+| Columbus' First Voyage                     | 1492       | 1493              |
+| Protestant Reformation                     | 1517       | - )               |
+| Magellan's Circumnavigation                | 1519       | 1522              |
+| Aztec Empire Conquered                     | 1519       | 1521              |
+| Mughal Empire                              | 1526       | 1803              |
+| Henry VIII's Marriage to Anne Boleyn       | 1533       | 1547              |
+| Copernicus' Heliocentric Model             | 1543       | -                 |
+| Peace of Augsburg                          | 1555       | -                 |
+| Spanish Armada                             | 1588       | 1588              |
+| Edict of Nantes                            | 1598       | 1685              |
+| Battle of Lepanto                          | 1571       | 1571              |
+| Council of Trent                           | 1545       | 1563              |
+| St. Bartholomew's Day Massacre             | 1572       | 1572              |
+| The Elizabethan Era Begins                 | 1558       | 1603              |
+| Treaty of Tordesillas                      | 1494       | -                 |
+| Ignatius of Loyola Establishes the Jesuits | 1540       | -                 |
+| The Great Fire of London                   | 1666       | 1666              |
+| The Spanish Colonization of the Americas   | 1492       | -                 |
+| The Portuguese Colonization of Brazil      | 1500       | -                 |
+| The Sack of Rome                           | 1527       | 1527              |
+| The Battle of Panipat                      | 1526       | 1556              |
+| The Treaty of Cateau-Cambrésis             | 1559       | 1559              |
+| The Foundation of Quebec City              | 1608       | 1608              |
+| The Plantation of Ulster                   | 1609       | 1609              |
+| The Dutch Revolt                           | 1568       | 1648              |
+| Thirty Years' War                          | 1618       | 1648              |
+| English Civil War                          | 1642       | 1651              |
+| Peace of Westphalia                        | 1648       | 1648              |
+| Treaty of Westphalia                       | 1648       | 1648              |
+| Scientific Revolution                      | 1600       | 1700              |
+| Ottoman–Safavid War                        | 1603       | 1618              |
+| Tokugawa Shogunate Established             | 1603       | 1868              |
+| Dutch Golden Age                           | 1600       | 1700              |
+| The Siege of Osaka                         | 1614       | 1615              |
+| Ming-Qing Transition                       | 1618       | 1683              |
+| Peace of Augsburg                          | 1555       | 1555              |
+| Fronde Civil Wars (France)                 | 1648       | 1653              |
+| Treaty of Utrecht                          | 1713       | 1714              |
+| Great Fire of London                       | 1666       | 1666              |
+| First Anglo-Dutch War                      | 1652       | 1654              |
+| The Taj Mahal Construction                 | 1632       | 1653              |
+| The English Restoration                    | 1660       | 1688              |
+| The Pueblo Revolt                          | 1680       | 1692              |
+| The Battle of Vienna                       | 1683       | 1683              |
+| Glorious Revolution (England)              | 1688       | 1689              |
+| Salem Witch Trials                         | 1692       | 1693              |
+| The Treaty of Pyrenees                     | 1659       | 1659              |
+| The Navigation Acts                        | 1651       | 1660s             |
+| The Treaty of Breda                        | 1667       | 1667              |
+| The Glorious Revolution in Scotland        | 1688       | 1688              |
+| The Treaty of Paris (1763)                 | 1763       | 1763              |
+| The Peace of Basel                         | 1795       | 1795              |
+| War of Spanish Succession                  | 1701       | 1714              |
+| Treaty of Utrecht                          | 1713       | 1714              |
+| The Treaty of Nystad                       | 1721       | 1721              |
+| Great Northern War                         | 1700       | 1721              |
+| The South Sea Bubble                       | 1720       | 1720              |
+| War of Austrian Succession                 | 1740       | 1748              |
+| Seven Years' War                           | 1756       | 1763              |
+| American Revolutionary War                 | 1775       | 1783              |
+| Treaty of Paris (1783)                     | 1783       | 1783              |
+| French Revolution                          | 1789       | 1799              |
+| Reign of Terror                            | 1793       | 1794              |
+| The Napoleonic Wars                        | 1803       | 1815              |
+| Haitian Revolution                         | 1791       | 1804              |
+| American Constitution Ratified             | 1787       | 1788              |
+| Boston Tea Party                           | 1773       | 1773              |
+| Thomas Jefferson's Louisiana Purchase      | 1803       | 1803              |
+| Battle of Plassey                          | 1757       | 1757              |
+| First Partition of Poland                  | 1772       | 1772              |
+| Catherine the Great's Rule in Russia       | 1762       | 1796              |
+| Treaty of Kucuk Kaynarca                   | 1774       | 1774              |
+| James Cook's First Voyage                  | 1768       | 1771              |
+| The Molasses Act                           | 1733       | 1733              |
+| The First Industrial Revolution            | 1750       | 1850              |
+| The Enlightenment in France                | 1715       | 1789              |
+| The Three Treaties of Paris                | 1761-1783  | 1761-1783         |
+| The Treaty of Hubertusburg                 | 1763       | 1763              |
+| The Treaty of Paris (1763)                 | 1763       | 1763              |
+| The Treaty of Paris (1783)                 | 1783       | 1783              |
+| Napoleonic Wars                            | 1803       | 1815              |
+| Congress of Vienna                         | 1814       | 1815              |
+| Latin American Wars of Independence        | 1810       | 1826              |
+| Greek War of Independence                  | 1821       | 1829              |
+| July Revolution (France)                   | 1830       | 1830              |
+| Belgian Revolution                         | 1830       | 1831              |
+| Abolition of Slavery (British Empire)      | 1807       | 1833              |
+| Opium Wars                                 | 1839       | 1842              |
+| Texas Revolution                           | 1835       | 1836              |
+| Treaty of Nanking                          | 1842       | 1842              |
+| Revolutions of 1848                        | 1848       | 1849              |
+| Crimean War                                | 1853       | 1856              |
+| Indian Rebellion of 1857                   | 1857       | 1858              |
+| American Civil War                         | 1861       | 1865              |
+| Emancipation Proclamation (US)             | 1863       | 1863              |
+| Meiji Restoration (Japan)                  | 1868       | 1912              |
+| Suez Canal Completed                       | 1869       | 1869              |
+| Franco-Prussian War                        | 1870       | 1871              |
+| Paris Commune                              | 1871       | 1871              |
+| The Long Depression                        | 1873       | 1896              |
+| Berlin Conference                          | 1884       | 1885              |
+| Scramble for Africa                        | 1870       | 1914              |
+| First Sino-Japanese War                    | 1894       | 1895              |
+| Spanish-American War                       | 1898       | 1898              |
+| Boxer Rebellion                            | 1899       | 1901              |
+| Boer War (Second Anglo-Boer War)           | 1899       | 1902              |
+| Trans-Siberian Railway Completed           | 1891       | 1916              |
+| Russo-Japanese War                         | 1904       | 1905              |
+| Panama Canal Completion                    | 1914       | 1914              |
+| Mexican Revolution                         | 1910       | 1920              |
+| World War I                                | 1914       | 1918              |
+| Treaty of Brest-Litovsk                    | 1918       | 1918              |
+| Russian Revolution                         | 1917       | 1923              |
+| Treaty of Versailles                       | 1919       | 1920              |
+| League of Nations Formation                | 1920       | 1946              |
+| Chinese Civil War                          | 1927       | 1949              |
+| Great Depression                           | 1929       | 1939              |
+| US Dust Bowl                               | 1930       | 1940              |
+| Spanish Civil War                          | 1936       | 1939              |
+| Rape of Nanking                            | 1937       | 1938              |
+| Munich Agreement                           | 1938       | 1938              |
+| World War II                               | 1939       | 1945              |
+| Pearl Harbor Attack                        | 1941       | 1941              |
+| Holocaust                                  | 1941       | 1945              |
+| D-Day (Normandy Invasion)                  | 1944       | 1944              |
+| Nuremberg Trials                           | 1945       | 1946              |
+| United Nations Formation                   | 1945       | -                 |
+| Cold War                                   | 1947       | 1991              |
+| Marshall Plan                              | 1947       | 1951              |
+| NATO Formation                             | 1949       | -                 |
+| Korean War                                 | 1950       | 1953              |
+| Korean War Armistice Agreement             | 1953       | 1953              |
+| Cuban Revolution                           | 1953       | 1959              |
+| Vietnam War                                | 1955       | 1975              |
+| Suez Crisis                                | 1956       | 1956              |
+| Space Race                                 | 1957       | 1975              |
+| Civil Rights Movement (US)                 | 1950       | 1968              |
+| Cuban Missile Crisis                       | 1962       | 1962              |
+| Cultural Revolution (China)                | 1966       | 1976              |
+| Prague Spring                              | 1968       | 1968              |
+| Apollo 11 Moon Landing                     | 1969       | 1969              |
+| Nixon's Visit to China                     | 1972       | 1972              |
+| Watergate Scandal                          | 1972       | 1974              |
+| Vietnam War Ends                           | 1975       | 1975              |
+| Iranian Revolution                         | 1979       | 1979              |
+| Falklands War                              | 1982       | 1982              |
+| Berlin Wall Falls                          | 1989       | 1989              |
+| Gulf War                                   | 1990       | 1991              |
+| Nelson Mandela Released                    | 1990       | 1990              |
+| Dissolution of the Soviet Union            | 1991       | 1991              |
+| Bosnian War                                | 1992       | 1995              |
+| European Union Formation                   | 1993       | -                 |
+| Oslo Accords                               | 1993       | 1995              |
+| Rwandan Genocide                           | 1994       | 1994              |
+| End of Apartheid (South Africa)            | 1994       | 1994              |
+| NATO Intervention in Kosovo                | 1999       | 1999              |
+| Hong Kong Handover                         | 1997       | 1997              |
+| 9/11 Attacks                               | 2001       | 2001              |
 | War in Afghanistan                         | 2001       | 2021 (withdrawal) |
-| Iraq War                                   | 2003       | 2011       |
-| Global Financial Crisis                   | 2008       | 2009       |
-| Arab Spring                                | 2010       | 2012       |
-| Syrian Civil War                           | 2011       | -    |
-| 2011 Tōhoku Earthquake and Tsunami         | 2011       | 2011       |
-| Rohingya Crisis                            | 2017       | -    |
-| COVID-19 Pandemic                         | 2019       | 2022    |
+| Iraq War                                   | 2003       | 2011              |
+| Global Financial Crisis                    | 2008       | 2009              |
+| Arab Spring                                | 2010       | 2012              |
+| Syrian Civil War                           | 2011       | -                 |
+| 2011 Tōhoku Earthquake and Tsunami         | 2011       | 2011              |
+| Rohingya Crisis                            | 2017       | -                 |
+| COVID-19 Pandemic                          | 2019       | 2022              |
 
 
 - [1401](https://en.wikipedia.org/wiki/1401 "1401"): [Dilawar Khan](https://en.wikipedia.org/wiki/Dilawar_Khan "Dilawar Khan") establishes the [Malwa Sultanate](https://en.wikipedia.org/wiki/Malwa_Sultanate "Malwa Sultanate") in present-day central India.

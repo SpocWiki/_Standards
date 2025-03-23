@@ -33,8 +33,8 @@ A time period from 430.5 to 427.4 million years ago.
 
 #has_/abbreviation :: s5
 
-#has_/time_/started /Ma :: -430.5 
-#has_/time_/stopped /Ma :: -427.4 
+#has_/time_/started :: -430.5e6 
+#has_/time_/stopped :: -427.4e6 
 
     sh:order 123 
 

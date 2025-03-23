@@ -35,8 +35,8 @@ A time period from> The **Ectasian** Period (from Ancient Greek: ἔκτασις
 
 #has_/abbreviation :: MP2
 
-#has_/time_/started /Ma :: -1400
-#has_/time_/stopped /Ma :: -1200
+#has_/time_/started :: -1400e6 
+#has_/time_/stopped :: -1200e6 
 
     sh:order 163 
 

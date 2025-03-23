@@ -11,8 +11,8 @@ A time period from 509 to 497 million years ago.
 
 #has_/abbreviation :: Ep3
 
-#has_/time_/started /Ma :: -509 
-#has_/time_/stopped /Ma :: -497 
+#has_/time_/started :: -509e6 
+#has_/time_/stopped :: -497e6 
 
     sh:order 148 
 

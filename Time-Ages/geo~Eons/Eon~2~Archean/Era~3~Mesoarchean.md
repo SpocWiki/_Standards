@@ -33,8 +33,8 @@ A time period from 3200 to 2800 million years ago.
 #has_/label_/sv  :: mesoarkeikum
 #has_/label_/zh  :: 中太古代
 
-#has_/time_/started /Ma :: -3200
-#has_/time_/stopped /Ma :: -2800
+#has_/time_/started :: -3.200e9 
+#has_/time_/stopped :: -2.800e9 
 
 #has_/text_of_/color :: 0xF768A9
 

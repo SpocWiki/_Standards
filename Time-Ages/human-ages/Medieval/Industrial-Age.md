@@ -2,8 +2,8 @@
 
 #is_a_/time_/Culture 
 
-#has_/time_/started /ka :: 1.8 
-#has_/time_/stopped /ka :: 1.9 
+#has_/time_/started :: 1.8e3 
+#has_/time_/stopped :: 1.9e3 
 
 ## Edit
 

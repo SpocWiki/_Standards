@@ -37,8 +37,8 @@ A time period from 1000 to 538.8 million years ago.
 
 #has_/abbreviation :: NP
 
-#has_/time_/started /Ma :: -1000
-#has_/time_/stopped /Ma :: -538.8 
+#has_/time_/started :: -1000.0e6 
+#has_/time_/stopped ::  -538.8e6 
 
     sh:order 160 
 

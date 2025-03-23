@@ -38,8 +38,8 @@ A time period from
 
 #has_/abbreviation :: J
 
-#has_/time_/started /Ma :: -201.4 
-#has_/time_/stopped /Ma :: -145.0 
+#has_/time_/started :: -201.4e6 
+#has_/time_/stopped :: -145.0e6 
 
     sh:order 64 
 

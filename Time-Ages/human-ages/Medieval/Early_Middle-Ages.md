@@ -11,8 +11,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Early%20Middle%20Ages)
 > 
 
-#has_/time_/started /ka :: 0.4 
-#has_/time_/stopped /ka :: 0.8 
+#has_/time_/started :: 400 
+#has_/time_/stopped :: 800 
 
 ## Edit
 

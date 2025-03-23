@@ -29,8 +29,8 @@ A time period from 477.7 to 470.0 million years ago.
 #has_/label_/zh  :: 弗洛期
 
 #has_/abbreviation :: o2
-#has_/time_/started /Ma :: -477.7 
-#has_/time_/stopped /Ma :: -470.0 
+#has_/time_/started :: -477.7e6 
+#has_/time_/stopped :: -470.0e6 
 
     sh:order 138 
 

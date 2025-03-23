@@ -38,8 +38,8 @@ A time period from 247.2 to 237 million years ago.
 
 #has_/abbreviation :: T2
 
-#has_/time_/started /Ma :: -247.2
-#has_/time_/stopped /Ma :: -237 
+#has_/time_/started :: -247.2e6 
+#has_/time_/stopped :: -237.0e6 
 
     sh:order 72 
 

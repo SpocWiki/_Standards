@@ -41,8 +41,8 @@ A time period from 251.902 to 201.4 million years ago.
 
 #has_/abbreviation :: T
 
-#has_/time_/started /Ma :: -251.902 
-#has_/time_/stopped /Ma :: -201.4 
+#has_/time_/started :: -251.902e6 
+#has_/time_/stopped :: -201.400e6 
 
     sh:order 78 
 

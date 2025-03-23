@@ -31,8 +31,8 @@ A time period from 113.0 to 100.5 million years ago.
 
 #has_/abbreviation :: b6
 
-#has_/time_/started /Ma :: -113.0 
-#has_/time_/stopped /Ma :: -100.5
+#has_/time_/started :: -113.0e6  
+#has_/time_/stopped :: -100.5e6 
 
     sh:order 43 
 

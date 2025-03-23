@@ -35,8 +35,8 @@ A time period from 410.8 to 407.6 million years ago.
 #has_/label_/zh  :: 布拉格期
 
 #has_/abbreviation :: d2
-#has_/time_/started /Ma :: -410.8 
-#has_/time_/stopped /Ma :: -407.6 
+#has_/time_/started :: -410.8e6 
+#has_/time_/stopped :: -407.6e6 
 
     sh:order 115 
 

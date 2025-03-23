@@ -29,8 +29,8 @@ A time period from> The **Rhyacian** Period ( ; Ancient Greek: ῥύαξ, romani
 
 #has_/abbreviation :: PP2
 
-#has_/time_/started /Ma :: -2300
-#has_/time_/stopped /Ma :: -2050
+#has_/time_/started :: -2.300e9 
+#has_/time_/stopped :: -2.050e9 
 
     sh:order 168 
 

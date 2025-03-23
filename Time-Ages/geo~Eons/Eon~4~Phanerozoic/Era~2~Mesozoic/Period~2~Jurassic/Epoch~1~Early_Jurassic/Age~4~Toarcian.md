@@ -33,8 +33,8 @@ A time period from 184.2 to 174.7 million years ago.
 
 #has_/abbreviation :: I4
 
-#has_/time_/started /Ma :: -184.2 
-#has_/time_/stopped /Ma :: -174.7 
+#has_/time_/started :: -184.2e6 
+#has_/time_/stopped :: -174.7e6 
 
     sh:order 60 
 

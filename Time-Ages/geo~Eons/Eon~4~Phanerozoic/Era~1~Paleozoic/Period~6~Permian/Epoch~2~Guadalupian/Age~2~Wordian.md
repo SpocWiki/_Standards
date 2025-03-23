@@ -31,8 +31,8 @@ A time period from 266.9 to 264.28 million years ago.
 
 #has_/abbreviation :: p6
 
-#has_/time_/started /Ma :: -266.9 
-#has_/time_/stopped /Ma :: -264.28 
+#has_/time_/started :: -266.90e6 
+#has_/time_/stopped :: -264.28e6 
 
     sh:order 83 
 

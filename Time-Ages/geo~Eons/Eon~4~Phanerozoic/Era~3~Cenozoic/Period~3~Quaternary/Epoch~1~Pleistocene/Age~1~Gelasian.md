@@ -30,8 +30,8 @@ A time period from 2.58 to 1.8 million years ago.
 
 #has_/abbreviation :: q1
 
-#has_/time_/started /Ma :: -2.58
-#has_/time_/stopped /Ma :: -1.8
+#has_/time_/started :: -2.58e6 
+#has_/time_/stopped :: -1.80e6 
 
     sh:order 8 
 

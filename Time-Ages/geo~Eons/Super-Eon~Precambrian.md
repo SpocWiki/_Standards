@@ -35,8 +35,8 @@ A time period from 4567 to 538.8 million years ago.
 
 #has_/abbreviation :: PE
 
-#has_/time_/started /Ma :: -4567
-#has_/time_/stopped /Ma :: -538.8 
+#has_/time_/started :: -4567.0e6 
+#has_/time_/stopped ::  -538.8e6 
 
     sh:order 178 
 

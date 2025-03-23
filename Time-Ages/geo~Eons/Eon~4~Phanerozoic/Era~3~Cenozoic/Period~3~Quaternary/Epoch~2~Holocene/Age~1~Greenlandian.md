@@ -10,8 +10,8 @@ A time period from 11_700 to 8_200 thousand years ago.
 
 #has_/abbreviation :: q5
 
-#has_/time_/started /Ma :: -0.0117
-#has_/time_/stopped /Ma :: -0.0082
+#has_/time_/started :: -11.7e3 
+#has_/time_/stopped ::  -8.2e3 
 
     sh:order 3 
 

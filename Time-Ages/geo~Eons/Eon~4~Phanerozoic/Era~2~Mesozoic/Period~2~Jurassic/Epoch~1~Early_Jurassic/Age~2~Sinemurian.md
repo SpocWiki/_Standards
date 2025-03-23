@@ -32,8 +32,8 @@ A time period from 199.5 to 192.9 million years ago.
 
 #has_/abbreviation :: I2
 
-#has_/time_/started /Ma :: -199.5 
-#has_/time_/stopped /Ma :: -192.9 
+#has_/time_/started :: -199.5e6 
+#has_/time_/stopped :: -192.9e6 
 
     sh:order 62 
 

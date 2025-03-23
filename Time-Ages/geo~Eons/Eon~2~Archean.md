@@ -41,8 +41,8 @@ A time period from 4031 to 2500 million years ago.
 
 #has_/abbreviation :: AR
 
-#has_/time_/started /Ma :: -4031 
-#has_/time_/stopped /Ma :: -2500
+#has_/time_/started :: -4.031e9 
+#has_/time_/stopped :: -2.500e9 
 
 #has_/text_of_/color :: 0xF0047F
 

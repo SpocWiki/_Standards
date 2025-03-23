@@ -9,8 +9,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ancient%20Rome)
 
 
-#has_/time_/started /ka :: -0.1 
-#has_/time_/stopped /ka :: 0.4 
+#has_/time_/started :: -100 
+#has_/time_/stopped ::  400 
 
 
 ## Edit

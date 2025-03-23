@@ -33,8 +33,8 @@ A time period from 100.5 to 66.0 million years ago.
 
 #has_/abbreviation :: K2
 
-#has_/time_/started /Ma :: -100.5
-#has_/time_/stopped /Ma :: -66.0
+#has_/time_/started :: -100.5e6 
+#has_/time_/stopped ::  -66.0e6 
 
     sh:order 42
 

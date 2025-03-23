@@ -15,8 +15,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Bronze%20Age)
 
 
-#has_/time_/started /ka :: -3.3 
-#has_/time_/stopped /ka :: -1.2 
+#has_/time_/started :: -3.3e3 
+#has_/time_/stopped :: -1.2e3 
 
 
 ## Edit

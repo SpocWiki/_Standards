@@ -32,8 +32,8 @@ A time period from 56.0 to 33.9 million years ago.
 
 #has_/abbreviation :: E2
 
-#has_/time_/started /Ma :: -56.0
-#has_/time_/stopped /Ma :: -33.9
+#has_/time_/started :: -56.0e6 
+#has_/time_/stopped :: -33.9e6 
 
     sh:order 28 
 

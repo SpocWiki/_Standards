@@ -33,8 +33,8 @@ A time period from 514 to 509 million years ago.
 
 #has_/abbreviation :: ep4
 
-#has_/time_/started /Ma :: -514 
-#has_/time_/stopped /Ma :: -509 
+#has_/time_/started :: -514e6 
+#has_/time_/stopped :: -509e6 
 
     sh:order 150 
 

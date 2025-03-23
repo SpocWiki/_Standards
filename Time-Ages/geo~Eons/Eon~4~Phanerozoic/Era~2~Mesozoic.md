@@ -32,8 +32,8 @@ A time period from 251.902 to 66.0 million years ago.
 
 #has_/abbreviation :: MZ
 
-#has_/time_/started /Ma :: -251.902 
-#has_/time_/stopped /Ma :: -66.0
+#has_/time_/started :: -251.902e6 
+#has_/time_/stopped ::  -66.000e6 
 
     sh:order 76 
 

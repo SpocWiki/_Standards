@@ -36,8 +36,8 @@ A time period from 2.58 to 0.0117 million years ago.
 
 #has_/abbreviation :: Q1
 
-#has_/time_/started /Ma :: -2.58
-#has_/time_/stopped /Ma :: -0.0117
+#has_/time_/started :: -2580.0e3 
+#has_/time_/stopped ::   -11.7e3 
 
     sh:order 9 
 

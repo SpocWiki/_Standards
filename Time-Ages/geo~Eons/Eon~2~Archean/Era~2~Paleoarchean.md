@@ -33,8 +33,8 @@ A time period from 3600 to 3200 million years ago.
 #has_/label_/sv  :: paleoarkeikum
 #has_/label_/zh  :: 古太古代
 
-#has_/time_/started /Ma :: -3600
-#has_/time_/stopped /Ma :: -3200
+#has_/time_/started :: -3.600e9 
+#has_/time_/stopped :: -3.200e9 
 
 #has_/text_of_/color :: 0xF4449F
 

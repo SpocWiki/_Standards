@@ -30,8 +30,8 @@ A time period from 20.44 to 15.98 million years ago.
 #has_/label_/zh  :: 布迪加尔期
 
 #has_/abbreviation :: n2
-#has_/time_/started /Ma :: -20.44
-#has_/time_/stopped /Ma :: -15.98
+#has_/time_/started :: -20.44e6 
+#has_/time_/stopped :: -15.98e6 
 
     sh:order 18 
 

@@ -31,8 +31,8 @@ A time period from 86.3 to 83.6 million years ago.
 
 #has_/abbreviation :: k4
 
-#has_/time_/started /Ma :: -86.3 
-#has_/time_/stopped /Ma :: -83.6 
+#has_/time_/started :: -86.3e6 
+#has_/time_/stopped :: -83.6e6 
 
     sh:order 38 
 

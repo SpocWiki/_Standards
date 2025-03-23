@@ -33,8 +33,8 @@ A time period from 497 to 494 million years ago.
 
 #has_/abbreviation :: ep8
 
-#has_/time_/started /Ma :: -497 
-#has_/time_/stopped /Ma :: -494 
+#has_/time_/started :: -497e6 
+#has_/time_/stopped :: -494e6 
 
     sh:order 145 
 

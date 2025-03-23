@@ -28,8 +28,8 @@ ischart:Ludfordian
 
 #has_/abbreviation :: s7
 
-#has_/time_/started /Ma :: -425.6 
-#has_/time_/stopped /Ma :: -423.0 
+#has_/time_/started :: -425.6e6 
+#has_/time_/stopped :: -423.0e6 
 
     sh:order 120 
 

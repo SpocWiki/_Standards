@@ -30,8 +30,8 @@ A time period from 11_650 years ago to the present.
 #has_/label_/zh  :: 全新世
 
 #has_/abbreviation :: Q2
-#has_/time_/started /Ma :: -0.0117
-#has_/time_/stopped /Ma :: 0.002 
+#has_/time_/started :: -11.7e3 
+#has_/time_/stopped ::   2.0e3 
 
     sh:order 4 
 

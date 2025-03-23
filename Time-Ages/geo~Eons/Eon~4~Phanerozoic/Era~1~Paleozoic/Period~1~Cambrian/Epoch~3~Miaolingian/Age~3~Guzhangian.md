@@ -35,8 +35,8 @@ A time period from 500.5 to 497 million years ago.
 
 #has_/abbreviation :: ep7
 
-#has_/time_/started /Ma :: -500.5 
-#has_/time_/stopped /Ma :: -497 
+#has_/time_/started :: -500.5e6 
+#has_/time_/stopped :: -497.0e6 
 
     sh:order 146 
 

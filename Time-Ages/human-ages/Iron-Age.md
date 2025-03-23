@@ -12,8 +12,8 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iron%20Age)
 
-#has_/time_/started /ka :: -1.2 
-#has_/time_/stopped /ka :: -0.1 
+#has_/time_/started :: -1200 
+#has_/time_/stopped ::  -100 
 
 
 ## Edit

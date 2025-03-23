@@ -13,8 +13,8 @@ A time period from 509 to 504.5 million years ago.
 
 #has_/abbreviation :: ep5
 
-#has_/time_/started /Ma :: -509 
-#has_/time_/stopped /Ma :: -504.5 
+#has_/time_/started :: -509.0e6 
+#has_/time_/stopped :: -504.5e6 
 
     sh:order 149 
 

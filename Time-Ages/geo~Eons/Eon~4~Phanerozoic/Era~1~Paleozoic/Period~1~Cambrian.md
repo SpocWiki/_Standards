@@ -35,8 +35,8 @@
 
 #has_/abbreviation :: Ep
 
-#has_/time_/started /Ma :: -538.8 
-#has_/time_/stopped /Ma :: -485.4 
+#has_/time_/started :: -538.8e6 
+#has_/time_/stopped :: -485.4e6 
 
     sh:order 154 
 

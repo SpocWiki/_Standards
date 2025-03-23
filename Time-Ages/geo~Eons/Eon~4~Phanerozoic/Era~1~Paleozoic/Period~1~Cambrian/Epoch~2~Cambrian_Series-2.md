@@ -32,8 +32,8 @@ A time period from 521 to 509 million years ago.
 
 #has_/abbreviation :: Ep2
 
-#has_/time_/started /Ma :: -521 
-#has_/time_/stopped /Ma :: -509 
+#has_/time_/started :: -521e6 
+#has_/time_/stopped :: -509e6 
 
     sh:order 151 
 

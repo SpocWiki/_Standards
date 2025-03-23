@@ -43,8 +43,8 @@ A time period from 66.0 million years ago to the present.
         
 #has_/abbreviation :: CZ
 
-#has_/time_/started /Ma :: -66.0
-#has_/time_/stopped /Ma :: 0.002 
+#has_/time_/started :: -66.000e6 
+#has_/time_/stopped ::   0.002e6 
 
 #has_/text_of_/color :: 0xF2F91D
 

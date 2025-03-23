@@ -41,8 +41,8 @@ A time period from 23.03 to 5.333 million years ago.
 #has_/label_/zh  :: 中新世
 
 #has_/abbreviation :: N1
-#has_/time_/started /Ma :: -23.03
-#has_/time_/stopped /Ma :: -5.333
+#has_/time_/started :: -23.030e6 
+#has_/time_/stopped ::  -5.333e6 
 
     sh:order 20 
 

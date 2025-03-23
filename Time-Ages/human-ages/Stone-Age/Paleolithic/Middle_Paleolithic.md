@@ -9,8 +9,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Paleolithic)
 
 
-#has_/time_/started /ka :: -300  
-#has_/time_/stopped /ka :: -50  
+#has_/time_/started :: -300e3 
+#has_/time_/stopped ::  -50e3 
 
 ## Confidential Links & Embeds: 
 

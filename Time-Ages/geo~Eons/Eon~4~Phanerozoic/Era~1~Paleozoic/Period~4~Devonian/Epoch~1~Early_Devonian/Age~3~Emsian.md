@@ -32,8 +32,8 @@ A time period from 407.6 to 393.3 million years ago.
 #has_/label_/zh  :: 艾姆斯期
 
 #has_/abbreviation :: d3
-#has_/time_/started /Ma :: -407.6 
-#has_/time_/stopped /Ma :: -393.3 
+#has_/time_/started :: -407.6e6 
+#has_/time_/stopped :: -393.3e6 
 
     sh:order 114 
 

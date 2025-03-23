@@ -31,8 +31,8 @@ A time period from 2500 to 538.8 million years ago.
 #has_/label_/sv  :: proterozoikum
 #has_/label_/zh  :: 元古宙
 
-#has_/time_/started /Ma :: -2500
-#has_/time_/stopped /Ma :: -538.8 
+#has_/time_/started :: -2500.0e6 
+#has_/time_/stopped ::  -538.8e6 
 
     sh:order 170 
 

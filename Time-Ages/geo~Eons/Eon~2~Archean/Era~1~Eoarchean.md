@@ -36,8 +36,8 @@ A time period from 4031 to 3600 million years ago.
 #has_/label_/sv  :: eoarkeikum
 #has_/label_/zh  :: 始太古代
 
-#has_/time_/started /Ma :: -4031 
-#has_/time_/stopped /Ma :: -3600
+#has_/time_/started :: -4.031e9 
+#has_/time_/stopped :: -3.600e9 
 
 #has_/text_of_/color :: 0xDA037F
 

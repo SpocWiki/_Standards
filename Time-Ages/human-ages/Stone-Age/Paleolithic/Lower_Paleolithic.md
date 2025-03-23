@@ -9,8 +9,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Lower%20Paleolithic)
 
 
-#has_/time_/started /ka :: -3300  
-#has_/time_/stopped /ka :: -300  
+#has_/time_/started :: -3.3e6 
+#has_/time_/stopped :: -0.3e6 
 
 
 ## Confidential Links & Embeds: 

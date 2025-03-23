@@ -1,4 +1,4 @@
-﻿# [[Eon~1~Hadean]] 
+# [[Eon~1~Hadean]] 
 
 #is_a_/time_/Eon
 
@@ -38,10 +38,11 @@ A time period from 4567 to 4031 million years ago.
 
 #has_/abbreviation :: HA
 
-#has_/time_/started /Ma :: -4567
-#has_/time_/stopped /Ma :: -4031 
+#has_/time_/started :: -4.567e9 
+#has_/time_/stopped :: -4.031e9 
 
 #has_/text_of_/color :: 0xAE027E
+
 
 ## All Contents
 

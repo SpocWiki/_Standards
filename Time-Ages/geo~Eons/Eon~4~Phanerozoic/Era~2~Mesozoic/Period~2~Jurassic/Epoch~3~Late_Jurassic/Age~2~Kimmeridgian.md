@@ -31,8 +31,8 @@ A time period from 154.8 to 149.2 million years ago.
 
 #has_/abbreviation :: j6
 
-#has_/time_/started /Ma :: -154.8 
-#has_/time_/stopped /Ma :: -149.2 
+#has_/time_/started :: -154.8e6 
+#has_/time_/stopped :: -149.2e6 
 
     sh:order 52 
 

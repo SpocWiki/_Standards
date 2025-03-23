@@ -14,8 +14,8 @@
 > 
 
 
-#has_/time_/started /ka :: 0.8 
-#has_/time_/stopped /ka :: 1.5 
+#has_/time_/started ::  800 
+#has_/time_/stopped :: 1500 
 
 ## Edit
 

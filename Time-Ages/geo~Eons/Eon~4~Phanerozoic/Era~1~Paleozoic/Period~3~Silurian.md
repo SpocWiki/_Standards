@@ -33,8 +33,8 @@ A time period from 443.8 to 419.2 million years ago
 #has_/label_/zh  :: 志留纪
 
 #has_/abbreviation :: S
-#has_/time_/started /Ma :: -443.8 
-#has_/time_/stopped /Ma :: -419.2 
+#has_/time_/started :: -443.8e6 
+#has_/time_/stopped :: -419.2e6 
 
     sh:order 130 
 

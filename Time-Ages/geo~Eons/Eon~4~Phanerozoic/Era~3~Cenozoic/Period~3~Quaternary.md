@@ -34,8 +34,8 @@ A time period from 2.58 million years ago to the present.
 
 #has_/abbreviation :: Q
 
-#has_/time_/started /Ma :: -2.58 
-#has_/time_/stopped /Ma :: 0.002 
+#has_/time_/started :: -2.580e6 
+#has_/time_/stopped ::  0.002e6 
 
     sh:order 10 
 

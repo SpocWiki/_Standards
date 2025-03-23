@@ -38,8 +38,8 @@ A time period from 635 to 538.8 million years ago
 
 #has_/abbreviation :: NP3
 
-#has_/time_/started /Ma :: -635 
-#has_/time_/stopped /Ma :: -538.8 
+#has_/time_/started :: -635.0e6 
+#has_/time_/stopped :: -538.8e6 
 
     sh:order 158 
 
