@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:Mesozoic
+ischart: Mesozoic
 ---
 
 # [[Era~2~Mesozoic]] 
@@ -8,6 +8,14 @@ aliases:
 #is_a_/time_/Era 
 
 A time period from 251.902 to 66.0 million years ago.
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Era~1~Paleozoic]] 
+#has_/next_item :: [[Era~3~Cenozoic]] 
+
+## #has_/text_of_/abstract 
+
 
 #has_/label_/bg  :: Мезозой
 #has_/label_/cs  :: Mezozoikum

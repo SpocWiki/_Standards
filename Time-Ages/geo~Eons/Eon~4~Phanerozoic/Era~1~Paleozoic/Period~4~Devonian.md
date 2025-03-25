@@ -1,9 +1,17 @@
-﻿
+
 # [[Period~4~Devonian]] 
 
 #is_a_/time_/Period 
 
 A time period from 419.2 to 358.9 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Period~3~Silurian]] 
+#has_/next_item :: [[Period~5~Carboniferous]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Devonian** ( də-VOH-nee-ən, deh-) is a geologic period and system of the Paleozoic era during the Phanerozoic eon, spanning 60.3 million years from the end of the preceding [[Period~3~Silurian]] at 419.2 million years ago (Ma), to the beginning of the succeeding [[Period~5~Carboniferous]] at 358.9 Ma. It is named after Devon, South West England, where rocks from this period were first studied.
 >

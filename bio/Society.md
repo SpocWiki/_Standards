@@ -43,10 +43,16 @@ Krugosvet article: gumanitarnye_nauki/sociologiya/OBSHCHESTVO.html
 IPTC NewsCode: mediatopic/14000000
 ---
 
+#see  [[../Time-Ages/human-ages/History|History]] 
+
+Pre-historic human Societies were hunters and gatherers, 
+usually living in Clans or larger Families. 
+Smaller Structures like the Core Family were not robust enough to survive. 
+
 
 ## #has_/text_of_/abstract 
 
-> A **Society** () is a group of individuals involved in persistent social interaction 
+> A **Society** is a group of individuals involved in persistent social interaction 
 > or a large social group sharing the same spatial or social territory, 
 > typically subject to the same political authority and dominant cultural expectations. 
 > 
@@ -60,6 +66,7 @@ IPTC NewsCode: mediatopic/14000000
 > Societies construct roles and other patterns of behavior 
 > by deeming certain actions or concepts acceptable or unacceptable—
 > these expectations around behavior within a given society are known as societal norms. 
+> 
 > So far as it is collaborative, a society can enable its members 
 > to benefit in ways that would otherwise be difficult on an individual basis.
 >

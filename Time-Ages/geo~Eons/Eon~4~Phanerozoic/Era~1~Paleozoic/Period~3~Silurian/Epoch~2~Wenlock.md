@@ -1,9 +1,16 @@
-﻿
+
 # [[Epoch~2~Wenlock]] 
 
 #is_a_/time_/Epoch 
 
 A time period from 433.4 to 427.4 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~1~Llandovery]] 
+#has_/next_item :: [[Epoch~3~Ludlow]] 
+
+## #has_/text_of_/abstract 
 
 > The Wenlock (sometimes referred to as the Wenlockian) is the second epoch of the Silurian. It is preceded by the [[Epoch~1~Llandovery]] and followed by the [[Epoch~3~Ludlow]]. Radiometric dates constrain the Wenlockian between 433.4 and 427.4 million years ago.
 >

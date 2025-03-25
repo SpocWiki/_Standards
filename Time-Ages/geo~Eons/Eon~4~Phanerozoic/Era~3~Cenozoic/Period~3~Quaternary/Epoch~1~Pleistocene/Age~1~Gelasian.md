@@ -1,10 +1,28 @@
-﻿# [[Age~1~Gelasian]] 
+# [[Age~1~Gelasian]] 
 
 #is_a_/time_/Age 
 
+#is_/similar_to :: [[]]
+
+#has_/time_/started :: -2.58e6 
+#has_/time_/stopped :: -1.80e6 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]]    
+#has_/next_item :: [[Age~2~Calabrian]]  
+
 A time period from 2.58 to 1.8 million years ago. 
 
-> The **Gelasian** is an age in the international geologic timescale or a stage in chronostratigraphy, being the earliest or lowest subdivision of the Quaternary Period/System and Pleistocene Epoch/Series. It spans the time between 2.58 Ma (million years ago) and 1.80 Ma. It follows the [[../../Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]] Stage (part of the Pliocene) and is followed by the [[Age~2~Calabrian]] Stage.
+## #has_/text_of_/abstract 
+
+> The **Gelasian** is an age in the international geologic timescale, a stage in chronostratigraphy, 
+> being the earliest or lowest subdivision of the Quaternary Period/System 
+> and Pleistocene Epoch/Series. 
+> 
+> It spans the time between 2.58 Ma (million years ago) and 1.80 Ma. 
+> It follows the [[../../Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]] Stage (part of the Pliocene) 
+> and is followed by the [[Age~2~Calabrian]] Stage.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gelasian)
 
@@ -29,9 +47,6 @@ A time period from 2.58 to 1.8 million years ago.
 #has_/label_/zh  :: 格拉斯期
 
 #has_/abbreviation :: q1
-
-#has_/time_/started :: -2.58e6 
-#has_/time_/stopped :: -1.80e6 
 
     sh:order 8 
 

@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:LowerDevonian
+ischart: LowerDevonian
 ---
 
 # [[Epoch~1~Early_Devonian]] 
@@ -8,6 +8,13 @@ aliases:
 #is_a_/time_/Epoch 
 
 A time period from 419.2 to 393.3 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Period~3~Silurian/Epoch~4~Pridoli|Epoch~4~Pridoli]]  
+#has_/next_item :: [[Epoch~2~Middle_Devonian]] 
+
+## #has_/text_of_/abstract 
 
 > The Early Devonian is the first of three epochs comprising the Devonian period, corresponding to the Lower Devonian series. It lasted from 419.2 ± 3.2 to 393.3 ± 1.2 and began with the Lochkovian Stage 419.2 ± 3.2 to 410.8 ± 1.2, which was followed by the Pragian from 410.8 ± 3.2 to 407.6 ± 1.2 and then by the Emsian, which lasted until the Middle Devonian began, 393.3± 1.2 million years ago.
 >

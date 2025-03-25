@@ -1,9 +1,17 @@
-﻿
+
 # [[Period~5~Carboniferous]] 
 
 #is_a_/time_/Period 
 
 A time period from 358.9 to 298.9 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Period~4~Devonian]] 
+#has_/next_item :: [[Period~6~Permian]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Carboniferous** ( KAR-bə-NIF-ər-əs) is a geologic period and system of the Paleozoic that spans 60 million years from the end of the [[Period~4~Devonian]] 358.9 Ma (million years ago), to the beginning of the [[Period~6~Permian]], 298.9 Ma. In North America, the Carboniferous is often treated as two separate geological periods, the earlier Mississippian and the later Pennsylvanian.The name Carboniferous means "coal-bearing", from the Latin carbō ("coal") and ferō ("bear, carry"), and refers to the many coal beds formed globally during that time. The first of the modern "system" names, it was coined by geologists William Conybeare and William Phillips in 1822, based on a study of the British rock succession. 
 >

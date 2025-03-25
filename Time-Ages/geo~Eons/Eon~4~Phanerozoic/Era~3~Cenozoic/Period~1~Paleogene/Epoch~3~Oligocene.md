@@ -1,9 +1,17 @@
-﻿
+
 # [[Epoch~3~Oligocene]] 
 
 #is_a_/time_/Epoch 
 
 A time period from 33.9 to 23.03 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~2~Eocene]] 
+#has_/next_item :: [[../Period~2~Neogene/Epoch~1~Miocene|Epoch~1~Miocene]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Oligocene** (IPA:  OL-ə-gə-seen, -⁠goh-) is a geologic epoch of the [[../Period~1~Paleogene]] and extends from about 33.9 million to 23 million years before the present (33.9±0.1 to 23.03±0.05 Ma). As with other older geologic periods, the rock beds that define the epoch are well identified but the exact dates of the start and end of the epoch are slightly uncertain. 
 > 

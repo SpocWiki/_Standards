@@ -1,8 +1,16 @@
-﻿# [[Era~4~Neoarchean]] 
+# [[Era~4~Neoarchean]] 
 
 #is_a_/time_/Era 
 
 A time period from 2800 to 2500 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Era~3~Mesoarchean]] 
+#has_/next_item :: [[../Eon~3~Proterozoic/Era~1~Paleoproterozoic|Era~1~Paleoproterozoic]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Neoarchean** ( NEE-oh-ar-KEE-ən; also spelled Neoarchaean) is the last geologic era in the Archean Eon that spans from 2800 to 2500 million years ago—the period being defined chronometrically and not referencing a specific level in a rock section on Earth. 
 > 

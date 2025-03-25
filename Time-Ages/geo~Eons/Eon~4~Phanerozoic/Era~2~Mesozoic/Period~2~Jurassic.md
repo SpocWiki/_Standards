@@ -1,9 +1,17 @@
-﻿
+
 # [[Period~2~Jurassic]] 
 
 #is_a_/time_/Period 
 
 A time period from
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Period~1~Triassic]] 
+#has_/next_item :: [[Period~3~Cretaceous]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Jurassic** ( juu-RASS-ik) is a geologic period and stratigraphic system that spanned from the end of the [[Period~1~Triassic]] 201.4 million years ago (Mya) to the beginning of the [[Period~3~Cretaceous]], approximately 145 Mya. The Jurassic constitutes the middle period of the Mesozoic Era and is named after the Jura Mountains, where limestone strata from the period were first identified.
 >

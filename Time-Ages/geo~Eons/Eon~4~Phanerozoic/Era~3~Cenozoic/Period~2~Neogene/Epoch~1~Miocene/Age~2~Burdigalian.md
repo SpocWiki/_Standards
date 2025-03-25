@@ -1,8 +1,16 @@
-﻿# [[Age~2~Burdigalian]] 
+# [[Age~2~Burdigalian]] 
 
 #is_a_/time_/Age 
 
 A time period from 20.44 to 15.98 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Burdigalian** is, in the geologic timescale, an age or stage in the early Miocene. It spans the time  between 20.43 ± 0.05 Ma and 15.97 ± 0.05 Ma (million years ago). Preceded by the [[Age~1~Aquitanian]], the Burdigalian was the first and longest warming period of the Miocene and is succeeded by the [[Age~3~Langhian]].
 >

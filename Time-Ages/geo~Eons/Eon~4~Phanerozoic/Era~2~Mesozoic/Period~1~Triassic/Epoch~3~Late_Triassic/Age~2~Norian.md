@@ -1,10 +1,22 @@
-﻿# [[Age~2~Norian]] 
+# [[Age~2~Norian]] 
 
 #is_a_/time_/Age 
 
 A time period from 227 to 208.5 million years ago. 
 
-> The **Norian** is a division of the Triassic Period. It has the rank of an age (geochronology) or stage (chronostratigraphy). It lasted from ~227 to 208.5 million years ago. It was preceded by the Carnian and succeeded by the Rhaetian.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Carnian]] 
+#has_/next_item :: [[Age~3~Rhaetian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Norian** is a division of the Triassic Period. 
+> It has the rank of an age (geochronology) or stage (chronostratigraphy). 
+> 
+> It lasted from ~227 to 208.5 million years ago. 
+> It was preceded by the Carnian and succeeded by the Rhaetian.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Norian)
 

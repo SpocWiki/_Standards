@@ -1,9 +1,17 @@
-﻿
+
 # [[Period~1~Triassic]] 
 
 #is_a_/time_/Period 
 
 A time period from 251.902 to 201.4 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Era~1~Paleozoic/Period~6~Permian|Period~6~Permian]] 
+#has_/next_item :: [[Period~2~Jurassic]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Triassic** ( try-ASS-ik; sometimes symbolized 🝈) is a geologic period and system which spans 50.5 million years from the end of the [[../Era~1~Paleozoic/Period~6~Permian|Period~6~Permian]] 251.902 million years ago (Mya), to the beginning of the [[Period~2~Jurassic]] 201.4 Mya. The Triassic is the first and shortest period of the [[../Era~2~Mesozoic]]. 
 > Both the start and end of the period are marked by major extinction events. 

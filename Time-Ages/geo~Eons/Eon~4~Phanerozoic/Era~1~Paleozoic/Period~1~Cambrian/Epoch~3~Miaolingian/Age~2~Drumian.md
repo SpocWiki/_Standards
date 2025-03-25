@@ -1,6 +1,14 @@
-﻿# [[Age~2~Drumian]] 
+# [[Age~2~Drumian]] 
 
 #is_a_/time_/Age 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Wuliuan]]   
+#has_/next_item :: [[Age~3~Guzhangian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Drumian** is a stage of the Miaolingian Series of the Cambrian. It succeeds the Wuliuan and precedes the Guzhangian. The base is defined as the first appearance of the trilobite Ptychagnostus atavus around 504.5 million years ago. The top is defined as the first appearance of another trilobite Lejopyge laevigata around 500.5 million years ago.
 >

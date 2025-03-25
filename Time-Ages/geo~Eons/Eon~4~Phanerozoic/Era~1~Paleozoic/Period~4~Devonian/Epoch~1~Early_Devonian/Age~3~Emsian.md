@@ -1,10 +1,24 @@
-﻿# [[Age~3~Emsian]] 
+# [[Age~3~Emsian]] 
 
 #is_a_/time_/Age 
 
 A time period from 407.6 to 393.3 million years ago. 
 
-> The **Emsian** is one of three faunal stages in the Early Devonian Epoch. It lasted from 407.6 ± 2.6 million years ago to 393.3 ± 1.2 million years ago. It was preceded by the Pragian Stage and followed by the Eifelian Stage. It is named after the Ems river in Germany. The GSSP is located in the Zinzil'ban Gorge in the Kitab State Geological Reserve of Uzbekistan, 35 centimetres (14 in) above the contact with the Madmon Formation.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~2~Pragian]] 
+#has_/next_item :: [[../Epoch~2~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Emsian** is one of three faunal stages in the Early Devonian Epoch. 
+> It lasted from 407.6 ± 2.6 million years ago to 393.3 ± 1.2 million years ago. 
+> It was preceded by the Pragian Stage and followed by the Eifelian Stage. 
+> 
+> It is named after the Ems river in Germany. 
+> The GSSP is located in the Zinzil'ban Gorge in the Kitab State Geological Reserve of Uzbekistan, 
+> 35 centimetres (14 in) above the contact with the Madmon Formation.
 >
 > In North America the Emsian Stage is represented by Sawkill or Sawkillian time.
 >

@@ -1,8 +1,16 @@
-﻿# [[Period~1~Siderian]] 
+# [[Period~1~Siderian]] 
 
 #is_a_/time_/Period 
 
-A time period from> The **Siderian** Period ( ; Ancient Greek: σίδηρος, romanized: sídēros, meaning "iron") is the first geologic period in the Paleoproterozoic Era and lasted from 2500 Ma to 2300 Ma. Instead of being based on stratigraphy, these dates are defined chronometrically.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../Eon~2~Archean/Era~4~Neoarchean|Era~4~Neoarchean]] 
+#has_/next_item :: [[Period~2~Rhyacian]] 
+
+## #has_/text_of_/abstract 
+
+
+> A time period from> The **Siderian** Period ( ; Ancient Greek: σίδηρος, romanized: sídēros, meaning "iron") is the first geologic period in the Paleoproterozoic Era and lasted from 2500 Ma to 2300 Ma. Instead of being based on stratigraphy, these dates are defined chronometrically.
 >
 > The deposition of banded iron formations peaked early in this period. These iron rich formations were formed as anaerobic cyanobacteria produced waste oxygen that combined with iron, forming magnetite (Fe3O4, an iron oxide). This process removed iron from the Earth's oceans, presumably turning greenish seas clear. Eventually, with no remaining iron in the oceans to serve as an oxygen sink, the process allowed the buildup of an oxygen-rich atmosphere. This second, follow-on event is known as the oxygen catastrophe, which, some geologists believe triggered the Huronian glaciation.Since the time period from 2420 Ma to 2250 Ma is well-defined by the lower edge of iron-deposition layers, an alternative period named the Oxygenian, based on stratigraphy instead of chronometry, was suggested in 2012 in a geological timescale review.
 >

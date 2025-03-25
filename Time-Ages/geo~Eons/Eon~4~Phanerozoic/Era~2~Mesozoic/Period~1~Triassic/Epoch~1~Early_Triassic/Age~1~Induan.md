@@ -1,10 +1,25 @@
-﻿# [[Age~1~Induan]]
+# [[Age~1~Induan]]
 
 #is_a_/time_/Age 
 
 A time period from 251.902 to 251.2 million years ago. 
 
-> The **Induan** is the first age of the Early Triassic epoch in the geologic timescale, or the lowest stage of the Lower Triassic series in chronostratigraphy. It spans the time between 251.9 Ma and 251.2 Ma (million years ago). The Induan is sometimes divided into the Griesbachian and the Dienerian subages or substages. The Induan is preceded by the Changhsingian (latest Permian) and is followed by the Olenekian.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../../Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]] 
+#has_/next_item :: [[Age~2~Olenekian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Induan** is the first age of the Early Triassic epoch in the geologic timescale, 
+> or the lowest stage of the Lower Triassic series in chronostratigraphy. 
+> It spans the time between 251.9 Ma and 251.2 Ma (million years ago). 
+> 
+> The Induan is sometimes divided into the Griesbachian 
+> and the Dienerian subages or substages. 
+> 
+> The Induan is preceded by the Changhsingian (latest Permian) and is followed by the Olenekian.
 >
 > The Induan is roughly coeval with the regional Feixianguanian Stage of China.
 >

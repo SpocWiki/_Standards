@@ -1,11 +1,27 @@
-﻿# [[Age~2~Sinemurian]] 
+# [[Age~2~Sinemurian]] 
 
 #is_a_/time_/Age 
 
 A time period from 199.5 to 192.9 million years ago. 
 
-> In the geologic timescale, the **Sinemurian** is an age and stage in the Early or Lower Jurassic Epoch or Series. It spans the time between 199.5 ±0.3 Ma and 192.9 ±0.3 Ma (million years ago). The Sinemurian is preceded by the Hettangian and is followed by the [[Age~3~Pliensbachian]]. 
-> In Europe the Sinemurian age, together with the Hettangian age, saw the deposition of the lower Lias, in Great Britain known as the Blue Lias.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Hettangian]] 
+#has_/next_item :: [[Age~3~Pliensbachian]] 
+
+## #has_/text_of_/abstract 
+
+
+> In the geologic timescale, the **Sinemurian** is an age and stage 
+> in the Early or Lower Jurassic Epoch or Series. 
+> 
+> It spans the time between 199.5 ±0.3 Ma and 192.9 ±0.3 Ma (million years ago). 
+> 
+> The Sinemurian is preceded by the Hettangian and is followed by the [[Age~3~Pliensbachian]]. 
+> 
+> 
+> In Europe the Sinemurian age, together with the Hettangian age, 
+> saw the deposition of the lower Lias, in Great Britain known as the Blue Lias.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sinemurian)
 

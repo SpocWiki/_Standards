@@ -1,10 +1,25 @@
-﻿# [[Age~1~Asselian]]
+# [[Age~1~Asselian]]
 
 #is_a_/time_/Age 
 
 A time period from 298.9 to 293.51 million years ago. 
 
-> In the geologic timescale, the **Asselian** is the earliest geochronologic age or lowermost chronostratigraphic stage of the Permian. It is a subdivision of the Cisuralian Epoch or Series. The Asselian lasted between 298.9 and 293.52 million years ago (Ma). It was preceded by the Gzhelian (the latest or uppermost subdivision in the Carboniferous) and followed by the [[Age~2~Sakmarian]].
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian|Age~2~Gzhelian]] 
+#has_/next_item :: [[Age~2~Sakmarian]] 
+
+## #has_/text_of_/abstract 
+
+
+> In the geologic timescale, the **Asselian** is the earliest geochronologic age 
+> or lowermost chronostratigraphic stage of the Permian. 
+> 
+> It is a subdivision of the Cisuralian Epoch or Series. 
+> 
+> The Asselian lasted between 298.9 and 293.52 million years ago (Ma). 
+> It was preceded by the Gzhelian (the latest or uppermost subdivision in the Carboniferous) 
+> and followed by the [[Age~2~Sakmarian]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Asselian)
 

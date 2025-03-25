@@ -1,10 +1,21 @@
-﻿# [[Age~1~Aalenian]] 
+# [[Age~1~Aalenian]] 
 
 #is_a_/time_/Age 
 
 A time period from 174.7 to 170.9 million years ago. 
 
-> The **Aalenian** ( ) is a subdivision of the Middle Jurassic Epoch/Series of the geologic timescale that extends from about 174.7 ±0.8 Ma to about 170.9 ±0.8 Ma (million years ago). It was preceded by the [[../Epoch~1~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]] and succeeded by the [[Age~2~Bajocian]].
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~1~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]] 
+#has_/next_item :: [[Age~2~Bajocian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Aalenian** is a subdivision of the Middle Jurassic Epoch/Series of the geologic timescale 
+> that extends from about 174.7 ±0.8 Ma to about 170.9 ±0.8 Ma (million years ago). 
+> 
+> It was preceded by the [[../Epoch~1~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]] and succeeded by the [[Age~2~Bajocian]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aalenian)
 

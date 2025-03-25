@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:MiddlePennsylvanian
+ischart: MiddlePennsylvanian
 ---
 
 # [[Epoch~2~Middle_Pennsylvanian]]
@@ -20,6 +20,14 @@ A time period from 315.2 to 307.0 million years ago.
     sh:order 95 
 
 #has_/text_of_/color :: 0xA6C7B7
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~1~Early_Pennsylvanian]] 
+#has_/next_item :: [[Epoch~3~Late_Pennsylvanian]] 
+
+## #has_/text_of_/abstract 
+
 
 ## All Contents
 

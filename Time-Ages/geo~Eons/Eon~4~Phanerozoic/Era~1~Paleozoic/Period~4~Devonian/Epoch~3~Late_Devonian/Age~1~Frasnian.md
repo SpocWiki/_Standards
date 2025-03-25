@@ -1,14 +1,30 @@
-﻿# [[Age~1~Frasnian]] 
+# [[Age~1~Frasnian]] 
 
 #is_a_/time_/Age 
 
 A time period from 382.7 to 372.2 million years ago. 
 
-> The **Frasnian** is one of two faunal stages in the Late Devonian Period. It lasted from 382.7 million years ago to 372.2  million years ago. It was preceded by the [[../Epoch~2~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]] Stage and followed by the [[Age~2~Famennian]] Stage.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~2~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]] 
+#has_/next_item :: [[Age~2~Famennian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Frasnian** is one of two faunal stages in the Late Devonian Period. 
+> It lasted from 382.7 million years ago to 372.2  million years ago. 
+> It was preceded by the [[../Epoch~2~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]] Stage and followed by the [[Age~2~Famennian]] Stage.
 >
-> Major reef-building was under way during the Frasnian Stage, particularly in western Canada and Australia.  On land, the first forests were taking shape. In North America, the Antler orogeny peaked, which were contemporary with the Bretonic phase of the Variscan orogeny in Europe.
+> Major reef-building was under way during the Frasnian Stage, 
+> particularly in western Canada and Australia.  
+> 
+> On land, the first forests were taking shape. In North America, the Antler orogeny peaked, 
+> which were contemporary with the Bretonic phase of the Variscan orogeny in Europe.
 >
-> The Frasnian coincides with the second half of the "charcoal gap" in the fossil record, a time when atmospheric oxygen levels were below 13 percent, the minimum necessary to sustain wildfires. 
+> The Frasnian coincides with the second half of the "charcoal gap" in the fossil record, 
+> a time when atmospheric oxygen levels were below 13 percent, 
+> the minimum necessary to sustain wildfires. 
 > 
 > North American subdivisions of the Frasnian include
 > - West Falls Group

@@ -1,8 +1,16 @@
-﻿# [[Age~1~Rhuddanian]] 
+# [[Age~1~Rhuddanian]] 
 
 #is_a_/time_/Age 
 
 A time period from 443.8 to 440.8 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian|Age~3~Hirnantian]] 
+#has_/next_item :: [[Age~2~Aeronian]] 
+
+## #has_/text_of_/abstract 
+
 
 > In the geologic timescale, the **Rhuddanian** is the first age of the Silurian Period and of the Llandovery Epoch. The Silurian is in the Paleozoic Era of the Phanerozoic Eon. The Rhuddanian Age began 443.8 ± 1.5 Ma and ended 440.8 ± 1.2 Ma (million years ago). It succeeds the Himantian Age (the last age of the Ordovician Period) and precedes the Aeronian Age.
 >

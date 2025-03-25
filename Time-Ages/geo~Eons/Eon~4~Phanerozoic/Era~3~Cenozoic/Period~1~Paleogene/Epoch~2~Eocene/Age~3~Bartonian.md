@@ -1,8 +1,16 @@
-﻿# [[Age~3~Bartonian]] 
+# [[Age~3~Bartonian]] 
 
 #is_a_/time_/Age 
 
 A time period from 41.2 to 37.71 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Bartonian** is, in the International Commission on Stratigraphy's (ICS) geologic time scale, a stage or age in the middle of the Eocene Epoch or Series. The Bartonian Age spans the time between 41.2 and 37.71 Ma. It is preceded by the [[Age~2~Lutetian]] and is followed by the [[Age~4~Priabonian]].
 >

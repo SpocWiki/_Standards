@@ -1,12 +1,25 @@
-﻿# [[Age~Serpukhovian]] 
+# [[Age~Serpukhovian]] 
 
 #is_a_/time_/Age 
 
 A time period from 330.9 to 323.2 million years ago. 
 
-> The **Serpukhovian** is in the ICS geologic timescale the uppermost stage or youngest age of the Mississippian, the lower subsystem of the Carboniferous. The Serpukhovian age lasted from 330.9 Ma to 323.2 Ma. It is preceded by the [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] and is followed by the [[../../Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]]. 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] 
+#has_/next_item :: [[../../Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Serpukhovian** is in the ICS geologic timescale the uppermost stage 
+> or youngest age of the Mississippian, the lower subsystem of the Carboniferous. 
+> The Serpukhovian age lasted from 330.9 Ma to 323.2 Ma. 
+> It is preceded by the [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] and is followed by the [[../../Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]]. 
 > 
-> The Serpukhovian correlates with the lower part of the Namurian Stage of European stratigraphy and the middle and upper parts of the Chesterian Stage of North American stratigraphy.
+> The Serpukhovian correlates with 
+> - the lower part of the Namurian Stage of European stratigraphy and 
+> - the middle and upper parts of the Chesterian Stage of North American stratigraphy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Serpukhovian)
 

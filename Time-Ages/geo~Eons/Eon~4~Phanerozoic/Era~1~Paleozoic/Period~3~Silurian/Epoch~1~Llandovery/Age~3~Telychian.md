@@ -1,8 +1,16 @@
-﻿# [[Age~3~Telychian]] 
+# [[Age~3~Telychian]] 
 
 #is_a_/time_/Age 
 
 A time period from 438.5 to 433.4 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~2~Aeronian]] 
+#has_/next_item :: [[../Epoch~2~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]] 
+
+## #has_/text_of_/abstract 
+
 
 > In the geologic timescale, the **Telychian** is the third and final age of the Llandovery Epoch of the Silurian Period of the Paleozoic Era of the Phanerozoic Eon. The Telychian Age was between 438.5 ± 1.2 million years ago (Ma) and 433.4 ± 0.8 Ma. The Telychian Age succeeds the Aeronian Age and precedes the Sheinwoodian Age. The name of the interval is derived from the Pen-lan-Telych Farm near Llandovery, Powys, Wales. The GSSP is located within the Wormwood Formation.
 >

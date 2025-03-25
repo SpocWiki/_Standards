@@ -1,7 +1,16 @@
-﻿
+
 # [[Period~1~Cambrian]] 
 
 #is_a_/time_/Period 
+
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran|Period~3~Ediacaran]] 
+#has_/next_item :: [[Period~2~Ordovician]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Cambrian** Period (  KAM-bree-ən, KAYM-; sometimes symbolized Ꞓ) is the first geological period of the Paleozoic Era, and of the Phanerozoic Eon. The Cambrian lasted 53.4 million years from the end of the preceding [[../../Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran|Period~3~Ediacaran]] 538.8 million years ago (mya) to the beginning of the [[Period~2~Ordovician]] 485.4 mya. Its subdivisions, and its base, are somewhat in flux. 
 >

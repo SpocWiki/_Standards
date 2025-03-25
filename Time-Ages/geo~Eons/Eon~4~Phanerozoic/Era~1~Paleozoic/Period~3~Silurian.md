@@ -1,9 +1,17 @@
-﻿
+
 # [[Period~3~Silurian]] 
 
 #is_a_/time_/Period 
 
 A time period from 443.8 to 419.2 million years ago
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Period~2~Ordovician]] 
+#has_/next_item :: [[Period~4~Devonian]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Silurian** ( sih-LURE-ee-ən, sy-) is a geologic period and system spanning 24.6 million years from the end of the [[Period~2~Ordovician]], at 443.8 million years ago (Mya), to the beginning of the [[Period~4~Devonian]], 419.2 Mya. The Silurian is the shortest period of the Paleozoic Era. As with other geologic periods, the rock beds that define the period's start and end are well identified, but the exact dates are uncertain by a few million years. The base of the Silurian is set at a series of major Ordovician–Silurian extinction events when up to 60% of marine genera were wiped out.
 >

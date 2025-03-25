@@ -1,12 +1,30 @@
-﻿# [[Age~1~Hettangian]] 
+# [[Age~1~Hettangian]] 
 
 #is_a_/time_/Age 
 
 A time period from 201.4 to 199.5 million years ago. 
 
-> The **Hettangian** is the earliest age and lowest stage of the Jurassic Period of the geologic timescale. It spans the time between 201.3 ± 0.2 Ma and 199.3 ± 0.3 Ma (million years ago).  The Hettangian follows the Rhaetian (part of the Triassic Period) and is followed by the [[Age~2~Sinemurian]]. 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]] 
+#has_/next_item :: [[Age~2~Sinemurian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Hettangian** is the earliest age and lowest stage of the Jurassic Period. 
 > 
-> In European stratigraphy the Hettangian is a part of the time span in which the Lias was deposited. An example is the British Blue Lias, which has an upper Rhaetian to Sinemurian age. Another example is the lower Lias from the Northern Limestone Alps where well-preserved but very rare ammonites, including Alsatites, have been found.
+> It spans the time between 201.3 ± 0.2 Ma and 199.3 ± 0.3 Ma (million years ago).  
+> 
+> The Hettangian follows the Rhaetian (part of the Triassic Period) 
+> and is followed by the [[Age~2~Sinemurian]]. 
+> 
+> In European stratigraphy 
+> the Hettangian is a part of the time span in which the Lias was deposited. 
+> 
+> An example is the British Blue Lias, which has an upper Rhaetian to Sinemurian age. 
+> Another example is the lower Lias from the Northern Limestone Alps 
+> where well-preserved but very rare ammonites, including Alsatites, have been found.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hettangian)
 

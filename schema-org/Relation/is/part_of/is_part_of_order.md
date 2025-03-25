@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is_/part_of_order :: Order ] or 
+- [ #is_/part_of_/order :: Order ] or 
 - [ is_part_of_order :: Order ] 
 
 The overall order the items in this delivery were included in.

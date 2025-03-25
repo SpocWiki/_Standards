@@ -1,9 +1,16 @@
-﻿
+
 # [[Epoch~1~Early_Jurassic]] 
 
 #is_a_/time_/Epoch 
 
 A time period from 201.4 to 174.7 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Period~1~Triassic/Epoch~3~Late_Triassic|Epoch~3~Late_Triassic]] 
+#has_/next_item :: [[Epoch~2~Middle_Jurassic]] 
+
+## #has_/text_of_/abstract 
 
 > The Early Jurassic Epoch (in chronostratigraphy corresponding to the Lower Jurassic Series) is the earliest of three epochs of the Jurassic Period. The Early Jurassic starts immediately after the Triassic–Jurassic extinction event, 201.3 Ma (million years ago), and ends at the start of the Middle Jurassic 174.7 ±0.8 Ma.
 >

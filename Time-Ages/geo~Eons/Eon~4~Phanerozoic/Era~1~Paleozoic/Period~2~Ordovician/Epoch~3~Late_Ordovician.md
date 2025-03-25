@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:UpperOrdovician
+ischart: UpperOrdovician
 ---
 
 # [[Epoch~3~Late_Ordovician]] 
@@ -8,6 +8,13 @@ aliases:
 #is_a_/time_/Epoch 
 
 A time period from 458.4 to 443.8 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~2~Middle_Ordovician]]  
+#has_/next_item :: [[../Period~3~Silurian/Epoch~1~Llandovery|Epoch~1~Llandovery]]  
+
+## #has_/text_of_/abstract 
 
 > The Late Ordovician, also called the Upper Ordovician by geologists, is the third epoch of the Ordovician period. 
 > At this time Western and Central Europe and North America collided to form Laurentia, while glaciers built up in Gondwana, which was positioned over the South Pole. This caused a drop in global temperatures, resulting in "ice house" conditions. 

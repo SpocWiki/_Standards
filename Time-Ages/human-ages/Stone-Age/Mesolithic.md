@@ -1,17 +1,54 @@
-﻿
+---
+aliases:
+  - Epipaleolithic
+  - Middle Stone Age
+---
+
 # [[Mesolithic]] 
 
 #is_a_/time_/Culture 
-
-
-> The **Mesolithic** (Greek: μέσος, mesos 'middle' + λίθος, lithos 'stone') or Middle Stone Age is the Old World archaeological period between the Upper Paleolithic and the Neolithic. The term Epipaleolithic is often used synonymously, especially for outside northern Europe, and for the corresponding period in the Levant and Caucasus. The Mesolithic has different time spans in different parts of Eurasia. It refers to the final period of hunter-gatherer cultures in Europe and Middle East, between the end of the Last Glacial Maximum and the Neolithic Revolution. In Europe it spans roughly 15,000 to 5,000 BP; in the Middle East (the Epipalaeolithic Near East) roughly 20,000 to 10,000 BP. The term is less used of areas farther east, and not at all beyond Eurasia and North Africa.
->
-> The type of culture associated with the Mesolithic varies between areas, but it is associated with a decline in the group hunting of large animals in favour of a broader hunter-gatherer way of life, and the development of more sophisticated and typically smaller lithic tools and weapons than the heavy-chipped equivalents typical of the Paleolithic.  Depending on the region, some use of pottery and textiles may be found in sites allocated to the Mesolithic, but generally indications of agriculture are taken as marking transition into the Neolithic.  The more permanent settlements tend to be close to the sea or inland waters offering a good supply of food. Mesolithic societies are not seen as very complex, and burials are fairly simple; in contrast, grandiose burial mounds are a mark of the Neolithic.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Mesolithic)
+#is_/part_of_ :: [[../History/Stone_Age]] 
 
 #has_/time_/started :: -13e3 
 #has_/time_/stopped ::  -8e3 
+
+
+> The **Mesolithic** (Greek: μέσος, mesos 'middle' + λίθος, lithos 'stone') 
+> or Middle Stone Age is the Old World archaeological period 
+> between the Upper Paleolithic and the Neolithic. 
+> 
+> The term Epipaleolithic is often used synonymously, 
+> especially for areas outside northern Europe, 
+> and for the corresponding period in the Levant and Caucasus. 
+> 
+> The Mesolithic has different time spans in different parts of Eurasia. 
+> It refers to the final period of hunter-gatherer cultures in Europe and Middle East, 
+> between the end of the Last Glacial Maximum and the Neolithic Revolution. 
+> 
+> In Europe it spans roughly 15,000 to 5,000 BP; 
+> in the Middle East (the Epipalaeolithic Near East) roughly 20,000 to 10,000 BP. 
+> The term is less used of areas farther east, 
+> and not at all beyond Eurasia and North Africa.
+>
+> The type of culture associated with the Mesolithic varies between areas, 
+> but it is associated with a decline in the group hunting of large animals 
+> in favour of a broader hunter-gatherer way of life, 
+> and the development of more sophisticated and smaller lithic tools and weapons 
+> than the heavy-chipped equivalents typical of the Paleolithic.  
+> 
+> Depending on the region, some use of pottery and textiles 
+> may be found in sites allocated to the Mesolithic, 
+> but generally indications of agriculture are taken 
+> as marking transition into the Neolithic.  
+> 
+> The more permanent settlements tend to be close to the sea or inland waters 
+> offering a good supply of food. 
+> 
+> Mesolithic societies are not seen as very complex, and burials are fairly simple; 
+> in contrast, grandiose burial mounds are a mark of the [[Neolithic]].
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mesolithic)
+
 
 ## Edit
 

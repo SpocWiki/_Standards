@@ -1,10 +1,18 @@
-﻿# [[Age~1~Gorstian]] 
+# [[Age~1~Gorstian]] 
 
 #is_a_/time_/Age 
 
 A time period from 427.4 to 425.6 million years ago. 
 
-ischart:Gorstian
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~2~Wenlock/Age~2~Homerian|Age~2~Homerian]] 
+#has_/next_item :: [[Age~2~Ludfordian]] 
+
+## #has_/text_of_/abstract 
+
+
+ischart::Gorstian
 #has_/label_/bg  :: Горѿт
 #has_/label_/cs  :: Gorst
 #has_/label_/da  :: Gorstien

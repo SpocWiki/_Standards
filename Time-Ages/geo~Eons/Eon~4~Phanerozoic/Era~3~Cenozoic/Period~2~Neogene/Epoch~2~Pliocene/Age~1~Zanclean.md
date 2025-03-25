@@ -1,8 +1,16 @@
-﻿# [[Age~1~Zanclean]] 
+# [[Age~1~Zanclean]] 
 
 #is_a_/time_/Age 
 
 A time period from 5.333 to 3.6 million years ago. 
+
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
 
 > The **Zanclean** is the lowest stage or earliest age on the geologic time scale of the Pliocene. It spans the time between 5.332 ± 0.005 Ma (million years ago) and 3.6 ± 0.005 Ma. It is preceded by the [[../Epoch~1~Miocene/Age~6~Messinian|Age~6~Messinian]] of the Miocene Epoch, and followed by the [[Age~2~Piacenzian]] Age.
 >

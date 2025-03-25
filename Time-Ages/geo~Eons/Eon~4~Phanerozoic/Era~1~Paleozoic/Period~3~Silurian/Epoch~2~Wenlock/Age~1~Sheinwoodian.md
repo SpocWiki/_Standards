@@ -1,8 +1,16 @@
-﻿# [[Age~1~Sheinwoodian]] 
+# [[Age~1~Sheinwoodian]] 
 
 #is_a_/time_/Age 
 
 A time period from 433.4 to 430.5 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~1~Llandovery/Age~3~Telychian|Age~3~Telychian]] 
+#has_/next_item :: [[Age~2~Homerian]] 
+
+## #has_/text_of_/abstract 
+
 
 #has_/label_/bg  :: Шейнуд
 #has_/label_/cs  :: Sheinwood

@@ -1,8 +1,16 @@
-﻿# [[Age~4~Kungurian]] 
+# [[Age~4~Kungurian]] 
 
 #is_a_/time_/Age 
 
 A time period from 283.5 to 273.01 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~3~Artinskian]] 
+#has_/next_item :: [[../Epoch~2~Guadalupian/Age~1~Roadian|Age~1~Roadian]] 
+
+## #has_/text_of_/abstract 
+
 
 > In the geologic timescale, the **Kungurian** is an age or stage of the Permian. It is the latest or upper of four subdivisions of the Cisuralian Epoch or Series. The Kungurian lasted between 283.5 and 273.01 million years ago (Ma). It was preceded by the Artinskian and followed by the Roadian.
 >

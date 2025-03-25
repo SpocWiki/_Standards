@@ -1,10 +1,23 @@
-﻿# [[Age~3~Tithonian]] 
+# [[Age~3~Tithonian]] 
 
 #is_a_/time_/Age 
 
 A time period from 149.2 to 145 million years ago. 
 
-> In the geological timescale, the **Tithonian** is the latest age of the Late Jurassic Epoch and the uppermost stage of the Upper Jurassic Series. It spans the time between 149.2 ±0.7 Ma and 145.0 ± 4 Ma (million years ago). It is preceded by the [[Age~2~Kimmeridgian]] and followed by the [[../../Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~1~Berriasian|Age~1~Berriasian]] (part of the Cretaceous).
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~2~Kimmeridgian]] 
+#has_/next_item :: [[../../Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~1~Berriasian|Age~1~Berriasian]] 
+
+## #has_/text_of_/abstract 
+
+
+> In the geological timescale, the **Tithonian** is the latest age of the Late Jurassic Epoch 
+> and the uppermost stage of the Upper Jurassic Series. 
+> 
+> It spans the time between 149.2 ±0.7 Ma and 145.0 ± 4 Ma (million years ago). 
+> It is preceded by the [[Age~2~Kimmeridgian]] 
+> and followed by the [[../../Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~1~Berriasian|Age~1~Berriasian]] (part of the Cretaceous).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tithonian)
 

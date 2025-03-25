@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:UpperDevonian
+ischart: UpperDevonian
 ---
 
 # [[Epoch~3~Late_Devonian]] 
@@ -8,6 +8,14 @@ aliases:
 #is_a_/time_/Epoch 
 
 A time period from 382.7 to 358.9 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~2~Middle_Devonian]] 
+#has_/next_item :: [[../Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian|Epoch~1~Early_Mississippian]] 
+
+## #has_/text_of_/abstract 
+
 
 #has_/label_/bg  :: Къѿен Девон
 #has_/label_/cs  :: Svrchní devon

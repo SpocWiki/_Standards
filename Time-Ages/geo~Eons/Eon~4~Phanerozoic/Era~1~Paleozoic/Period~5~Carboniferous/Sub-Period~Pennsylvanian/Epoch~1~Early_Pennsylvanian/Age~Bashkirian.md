@@ -1,8 +1,15 @@
-﻿# [[Age~Bashkirian]] 
+# [[Age~Bashkirian]] 
 
 #is_a_/time_/Age 
 
 A time period from 323.2 to 315.2 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian|Age~Serpukhovian]] 
+#has_/next_item :: [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] 
+
+## #has_/text_of_/abstract 
 
 > The **Bashkirian** is in the International Commission on Stratigraphy geologic timescale the lowest stage or oldest age of the Pennsylvanian. The Bashkirian age lasted from 323.2 to 315.2 Ma, is preceded by the Serpukhovian and is followed by the Moscovian.
 >

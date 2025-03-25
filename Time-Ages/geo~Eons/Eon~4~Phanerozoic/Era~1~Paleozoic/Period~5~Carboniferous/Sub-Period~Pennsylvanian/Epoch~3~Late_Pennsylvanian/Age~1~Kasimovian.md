@@ -1,12 +1,28 @@
-﻿# [[Age~1~Kasimovian]] 
+# [[Age~1~Kasimovian]] 
 
 #is_a_/time_/Age 
 
 A time period from 307.0 to 303.7 million years ago. 
 
-> The **Kasimovian** is a geochronologic age or chronostratigraphic stage in the ICS geologic timescale. It is the third stage in the Pennsylvanian (late Carboniferous), lasting from 307 to 303.7 Ma. The Kasimovian Stage follows the [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] and is followed by the [[Age~2~Gzhelian]].
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] 
+#has_/next_item :: [[Age~2~Gzhelian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Kasimovian** is a geochronologic age 
+> or chronostratigraphic stage in the ICS geologic timescale. 
+> 
+> It is the third stage in the Pennsylvanian (late Carboniferous), lasting from 307 to 303.7 Ma. 
+> The Kasimovian Stage follows the [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] and is followed by the [[Age~2~Gzhelian]].
 >
-> The Kasimovian saw an extinction event which occurred around 305 mya, referred to as the Carboniferous Rainforest Collapse. It roughly corresponds to the Missourian in North American geochronology and the Stephanian in western European geochronology.
+> The Kasimovian saw an extinction event which occurred around 305 mya, 
+> referred to as the Carboniferous Rainforest Collapse. 
+> 
+> It roughly corresponds to the Missourian in North American geochronology 
+> and the Stephanian in western European geochronology.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kasimovian)
 

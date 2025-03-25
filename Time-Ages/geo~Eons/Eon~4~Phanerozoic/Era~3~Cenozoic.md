@@ -1,6 +1,7 @@
-﻿---
+---
 aliases:
-  - ischart:Cenozoic
+ischart: Cenozoic
+  - Age of Mammals
 ---
 
 # [[Era~3~Cenozoic]] 
@@ -9,11 +10,37 @@ aliases:
 
 A time period from 66.0 million years ago to the present.
 
-> The **Cenozoic** ( SEE-nə-ZOH-ik, SEN-ə-; lit. 'new life') is Earth's __current__ geological era, representing the last 66 million years of Earth's history. It is characterised by the dominance of mammals, birds, and angiosperms (flowering plants). It is the latest of three geological eras, preceded by the Mesozoic and Paleozoic. The Cenozoic started with the Cretaceous–Paleogene extinction event, when many species, including the non-avian dinosaurs, became extinct in an event attributed by most experts to the impact of a large asteroid or other celestial body, the Chicxulub impactor.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Era~2~Mesozoic]] 
+#has_/next_item :: ---
+
+## #has_/text_of_/abstract 
+
+
+> The **Cenozoic** ( SEE-nə-ZOH-ik, SEN-ə-; lit. 'new life') is Earth's __current__ geological era, 
+> representing the last 66 million years of Earth's history. 
+> 
+> It is characterised by the dominance of mammals, birds, and angiosperms (flowering plants). 
+> It is the latest of three geological eras, preceded by the Mesozoic and Paleozoic. 
+> 
+> The Cenozoic started with the Cretaceous–Paleogene extinction event, 
+> when many species, including the non-avian dinosaurs, became extinct 
+> in an event attributed by most experts to the impact of a large asteroid or other celestial body, 
+> the Chicxulub impactor.
 >
-> The Cenozoic is also known as the Age of Mammals because the terrestrial animals that dominated both hemispheres were mammals – the eutherians (placentals) in the northern hemisphere and the metatherians (marsupials, now mainly restricted to Australia and to some extent South America) in the southern hemisphere. The extinction of many groups allowed mammals and birds to greatly diversify so that large mammals and birds dominated life on Earth. The continents also moved into their current positions during this era.
+> The Cenozoic is also known as the Age of Mammals 
+> because the terrestrial animals that dominated both hemispheres were mammals 
+> – the eutherians (placentals) in the northern hemisphere and 
+> the metatherians (marsupials, now mainly restricted to Australia and to some extent South America) in the southern hemisphere. 
+> 
+> The extinction of many groups allowed mammals and birds to greatly diversify 
+> so that large mammals and birds dominated life on Earth. 
+> The continents also moved into their current positions during this era.
 >
-> The climate during the early Cenozoic was warmer than today, particularly during the Paleocene–Eocene Thermal Maximum. However, the Eocene to Oligocene transition and the Quaternary glaciation dried and cooled Earth.
+> The climate during the early Cenozoic was warmer than today, 
+> particularly during the Paleocene–Eocene Thermal Maximum. 
+> However, the Eocene to Oligocene transition and the Quaternary glaciation dried and cooled Earth.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cenozoic)
 

@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:UpperPennsylvanian
+ischart: UpperPennsylvanian
 ---
 
 # [[Epoch~3~Late_Pennsylvanian]] 
@@ -8,6 +8,14 @@ aliases:
 #is_a_/time_/Epoch 
 
 A time period from 307.0 to 298.9 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~2~Middle_Pennsylvanian]] 
+#has_/next_item :: [[../../Period~6~Permian/Epoch~1~Cisuralian|Epoch~1~Cisuralian]] 
+
+## #has_/text_of_/abstract 
+
 
 #has_/label_/bg  :: Къѿен Пенѿилван
 #has_/label_/cs  :: Pozdní pennsylván

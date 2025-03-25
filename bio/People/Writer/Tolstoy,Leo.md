@@ -209,9 +209,19 @@ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571
 image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tula%20YasnayaPolyana%20asv2019-09%20img12%20LNTolstoy%20grave.jpg
 ---
 
+#has_/time_/started :: 1828-09-09 
+#has_/time_/stopped :: 1910-11-20 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+
+Tolstoy liked the Novels of [[Verne,Jules]]. 
+
 ## #has_/text_of_/abstract 
 
-> Count Lev Nikolayevich Tolstoy (; Russian: Лев Николаевич Толстой, IPA: [ˈlʲef nʲɪkɐˈla(j)ɪvʲɪtɕ tɐlˈstoj] ; 9 September [O.S. 28 August] 1828 –  20 November [O.S. 7 November] 1910), 
+> Count Lev Nikolayevich Tolstoy (Russian: Лев Николаевич Толстой, 
+> IPA: [ˈlʲef nʲɪkɐˈla(j)ɪvʲɪtɕ tɐlˈstoj] ; 
+> 9 September [O.S. 28 August] 1828 –  20 November [O.S. 7 November] 1910), 
 > usually referred to in English as **Leo Tolstoy**, was a Russian writer. 
 > 
 > He is regarded as one of the greatest and most influential authors of all time. 
@@ -248,8 +258,10 @@ image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tula%20Yasnay
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leo%20Tolstoy)
 
+## Trivia 
+Sophia Tolstaya, Leo Tolstoy's wife, 
+played a significant role in the creation of "War and Peace." 
 
-Sophia Tolstaya, Leo Tolstoy's wife, played a significant role in the creation of "War and Peace." 
 She meticulously hand-copied the entire manuscript seven times, 
 often working by candlelight after attending to her household and family duties.
 

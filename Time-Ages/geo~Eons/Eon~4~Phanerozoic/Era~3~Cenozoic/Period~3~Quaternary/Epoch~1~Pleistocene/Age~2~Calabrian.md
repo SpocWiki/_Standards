@@ -1,12 +1,29 @@
-﻿# [[Age~2~Calabrian]] 
+# [[Age~2~Calabrian]] 
 
 #is_a_/time_/Age 
 
 A time period from 1.8 to 0.774 million years ago. 
 
-> Calabrian is a subdivision of the Pleistocene Epoch of the geologic time scale, defined as 1.8 Ma—774,000 years ago ± 5,000 years, a period of ~1.026 million years.
+#has_/time_/started :: -1800e3 
+#has_/time_/stopped ::  -774e3 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
+
+> Calabrian is a subdivision of the Pleistocene Epoch of the geologic time scale, 
+> defined as 1.8 Ma—774,000 years ago ± 5,000 years, a period of ~1.026 million years.
 >
-> The end of the stage is defined by the last magnetic pole reversal (781 ± 5 Ka) and plunge into an ice age and global drying possibly colder and drier than the late Miocene (Messinian) through early Pliocene (Zanclean) cold period. Originally the Calabrian was a European faunal stage primarily based on mollusk fossils.  It has become the second geologic age in the Early Pleistocene.
+> The end of the stage is defined by the last magnetic pole reversal (781 ± 5 Ka) 
+> and plunge into an ice age and global drying possibly colder and drier 
+> than the late Miocene (Messinian) through early Pliocene (Zanclean) cold period. 
+> 
+> Originally the Calabrian was a European faunal stage primarily based on mollusk fossils. 
+> It has become the second geologic age in the Early Pleistocene.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calabrian%20(stage))
 
@@ -32,9 +49,6 @@ A time period from 1.8 to 0.774 million years ago.
 #has_/label_/zh  :: 卡拉布里亚期
 
 #has_/abbreviation :: q2
-
-#has_/time_/started :: -1800e3 
-#has_/time_/stopped ::  -774e3 
 
     sh:order 7 
 

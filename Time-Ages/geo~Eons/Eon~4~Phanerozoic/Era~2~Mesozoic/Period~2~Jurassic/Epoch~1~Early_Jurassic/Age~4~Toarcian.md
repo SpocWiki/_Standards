@@ -1,11 +1,28 @@
-﻿# [[Age~4~Toarcian]] 
+# [[Age~4~Toarcian]] 
 
 #is_a_/time_/Age 
 
 A time period from 184.2 to 174.7 million years ago. 
 
-> The **Toarcian** is, in the ICS' geologic timescale, an age and stage in the Early or Lower Jurassic. It spans the time between 182.7 Ma (million years ago) and 174.7 ±0.8 Ma.  It follows the [[Age~3~Pliensbachian]] and is followed by the [[../Epoch~2~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]].
-> The Toarcian Age began with the Toarcian Oceanic Anoxic Event, a major anoxic event associated with marine extinctions and increased global temperatures  that sets its fossil faunas apart from the previous Pliensbachian age. It is believed to have ended with a global cooling event known as the Comptum Cooling Event, although whether it represented a worldwide event is controversial.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~3~Pliensbachian]] 
+#has_/next_item :: [[../Epoch~2~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Toarcian** is, in the ICS' geologic timescale, an age and stage in the Early or Lower Jurassic. 
+> It spans the time between 182.7 Ma (million years ago) and 174.7 ±0.8 Ma.  
+> 
+> It follows the [[Age~3~Pliensbachian]] and is followed by the [[../Epoch~2~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]].
+> 
+> The Toarcian Age began with the Toarcian Oceanic Anoxic Event, 
+> a major anoxic event associated with marine extinctions and increased global temperatures  
+> that sets its fossil faunas apart from the previous Pliensbachian age. 
+> 
+> It is believed to have ended with a global cooling event known as the Comptum Cooling Event, 
+> although whether it represented a worldwide event is controversial.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Toarcian)
 
@@ -29,7 +46,8 @@ A time period from 184.2 to 174.7 million years ago.
 #has_/label_/sl  :: toarcij
 #has_/label_/sv  :: toarc
 #has_/label_/zh  :: 托阿尔期
-    skos:broader ischart:LowerJurassic 
+
+ischart: LowerJurassic 
 
 #has_/abbreviation :: I4
 

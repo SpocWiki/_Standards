@@ -1,8 +1,15 @@
-﻿# [[Era~2~Paleoarchean]] 
+# [[Era~2~Paleoarchean]] 
 
 #is_a_/time_/Era 
 
 A time period from 3600 to 3200 million years ago.
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Era~1~Eoarchean]] 
+#has_/next_item :: [[Era~3~Mesoarchean]] 
+
+## #has_/text_of_/abstract 
 
 > The **Paleoarchean** ( PAY-lee-oh-ar-KEE-ən, PAL-), also spelled Palaeoarchaean (formerly known as the early Archean), is a geologic era within the Archean Eon. The name derives from Greek "Palaios" ancient. It spans the period of time 3,600 to 3,200 million years ago. The era is defined chronometrically and is not referenced to a specific level of a rock section on Earth. The earliest confirmed evidence of life comes from this era, and Vaalbara, one of Earth's earliest supercontinents, may have formed during this era.
 >

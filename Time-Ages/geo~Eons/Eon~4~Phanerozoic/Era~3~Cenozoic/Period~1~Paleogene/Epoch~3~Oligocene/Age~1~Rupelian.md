@@ -1,8 +1,16 @@
-﻿# [[Age~1~Rupelian]] 
+# [[Age~1~Rupelian]] 
 
 #is_a_/time_/Age 
   
 A time period from 33.9 to 27.82 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Rupelian** is, in the geologic timescale, the older of two ages or the lower of two stages of the Oligocene Epoch/Series. It spans the time between 33.9 and 27.82 Ma. It is preceded by the [[../Epoch~2~Eocene/Age~4~Priabonian]] Stage (part of the Eocene) and is followed by the [[Age~2~Chattian]] Stage.
 >

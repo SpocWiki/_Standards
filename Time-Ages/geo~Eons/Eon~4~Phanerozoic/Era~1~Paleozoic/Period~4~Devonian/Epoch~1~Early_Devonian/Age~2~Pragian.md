@@ -1,12 +1,25 @@
-﻿# [[Age~2~Pragian]] 
+# [[Age~2~Pragian]] 
 
 #is_a_/time_/Age 
 
 A time period from 410.8 to 407.6 million years ago. 
 
-> The **Pragian** is one of three faunal stages in the Early Devonian Epoch. It lasted from 410.8 ± 2.8 million years ago to 407.6 ± 2.8 million years ago. It was preceded by the [[Age~1~Lochkovian]] Stage and followed by the [[Age~3~Emsian]] Stage. The most important Lagerstätte of the Pragian is Rhynie chert in Scotland. 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Lochkovian]] 
+#has_/next_item :: [[Age~3~Emsian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Pragian** is one of three faunal stages in the Early Devonian Epoch. 
+> It lasted from 410.8 ± 2.8 million years ago to 407.6 ± 2.8 million years ago. 
 > 
-> It is named after the city of Prague. The GSSP is located within the Prague Formation at Velká Chuchle, Prague.
+> It was preceded by the [[Age~1~Lochkovian]] Stage and followed by the [[Age~3~Emsian]] Stage. 
+> The most important Lagerstätte of the Pragian is Rhynie chert in Scotland. 
+> 
+> It is named after the city of Prague. 
+> The GSSP is located within the Prague Formation at Velká Chuchle, Prague.
 >
 > In North America the Pragian Stage is represented by Siegenian or Deerparkian time.
 >

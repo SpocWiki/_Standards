@@ -1,8 +1,16 @@
-﻿# [[Age~5~Tortonian]] 
+# [[Age~5~Tortonian]] 
 
 #is_a_/time_/Age 
 
 A time period from 11.63 to 7.246 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Tortonian** is in the geologic time scale an age or stage of the late Miocene that spans the time between 11.608 ± 0.005 Ma and 7.246 ± 0.005 Ma (million years ago). It follows the Serravallian and is followed by the Messinian.
 >

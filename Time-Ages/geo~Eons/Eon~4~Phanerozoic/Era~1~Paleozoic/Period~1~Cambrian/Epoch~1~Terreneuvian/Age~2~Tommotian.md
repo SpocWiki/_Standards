@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Cambrian Stage 2
 ---
@@ -7,6 +7,14 @@ aliases:
 #is_a_/time_/Age 
 
 A time period from 521 to 509 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Fortunian]] 
+#has_/next_item :: [[../Epoch~2~Cambrian_Series-2/Age~1~Cambrian-Stage-3|Age~1~Cambrian-Stage-3]]   
+
+## #has_/text_of_/abstract 
+
 
 > Stage 2 of the Cambrian is the unnamed upper stage of the Terreneuvian Series. It lies atop the [[Age~1~Fortunian]] and below Stage 3 of the Cambrian. It is commonly referred to as the Tommotian, after the Cambrian stratigraphy of Siberia. 
 > 

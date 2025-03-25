@@ -1,8 +1,16 @@
-﻿# [[Age~1~Cambrian-Stage-3]] 
+# [[Age~1~Cambrian-Stage-3]] 
 
 #is_a_/time_/Age 
 
 A time period from 521 to 514 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~1~Terreneuvian/Age~2~Tommotian|Age~2~Tommotian]]   
+#has_/next_item :: [[Age~2~Cambrian-Stage-4]]   
+
+## #has_/text_of_/abstract 
+
 
 > **Cambrian Stage 3** is the still unnamed third stage of the Cambrian. It succeeds Cambrian Stage 2 and precedes Cambrian Stage 4, although neither its base nor top have been formally defined.  
 > The plan is for its lower boundary to correspond approximately to the first appearance of trilobites, about 521 million years ago, though the globally asynchronous appearance of trilobites warrants the use of a separate, globally synchronous marker to define the base. 

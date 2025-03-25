@@ -1,10 +1,23 @@
-﻿# [[Age~1~Anisian]] 
+# [[Age~1~Anisian]] 
 
 #is_a_/time_/Age 
 
 A time period from 247.2 to 242 million years ago. 
 
-> In the geologic timescale, the **Anisian** is the lower stage or earliest age of the Middle Triassic series or epoch and lasted from 247.2 million years ago until 242 million years ago. The Anisian Age succeeds the Olenekian Age (part of the Lower Triassic Epoch) and precedes the Ladinian Age.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~1~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]] 
+#has_/next_item :: [[Age~2~Ladinian]] 
+
+## #has_/text_of_/abstract 
+
+
+> In the geologic timescale, the **Anisian** is the lower stage 
+> or earliest age of the Middle Triassic series or epoch 
+> and lasted from 247.2 million years ago until 242 million years ago. 
+> 
+> The Anisian Age succeeds the Olenekian Age (part of the Lower Triassic Epoch) 
+> and precedes the Ladinian Age.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anisian)
 

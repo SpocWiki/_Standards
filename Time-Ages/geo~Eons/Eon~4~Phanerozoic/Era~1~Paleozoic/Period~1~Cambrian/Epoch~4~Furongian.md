@@ -1,8 +1,16 @@
-﻿# [[Epoch~4~Furongian]] 
+# [[Epoch~4~Furongian]] 
 
 #is_a_/time_/Epoch 
 
 A time period from 497 to 485.4 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~]] 
+#has_/next_item :: [[Epoch~]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Furongian**  is the fourth and final epoch and series of the Cambrian. It lasted from 497 to 485.4 million years ago. It succeeds the Miaolingian series of the Cambrian and precedes the Lower Ordovician Tremadocian Stage. It is subdivided into three stages: the Paibian, Jiangshanian and the unnamed 10th stage of the Cambrian.
 >

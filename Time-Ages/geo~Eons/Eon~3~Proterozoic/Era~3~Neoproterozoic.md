@@ -1,8 +1,15 @@
-﻿# [[Era~3~Neoproterozoic]] 
+# [[Era~3~Neoproterozoic]] 
 
 #is_a_/time_/Era 
 
 A time period from 1000 to 538.8 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Era~2~Mesoproterozoic]] 
+#has_/next_item :: [[../Eon~4~Phanerozoic/Era~1~Paleozoic|Era~1~Paleozoic]] 
+
+## #has_/text_of_/abstract 
 
 > The **Neoproterozoic** Era is the unit of geologic time from 1 billion to 538.8 million years ago.It is the last era of the Precambrian Supereon and the Proterozoic Eon; it is subdivided into the Tonian, Cryogenian, and Ediacaran periods. It is preceded by the Mesoproterozoic Era and succeeded by the Paleozoic Era of the Phanerozoic Eon.
 >

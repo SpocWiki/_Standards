@@ -1,9 +1,17 @@
-﻿
+
 # [[Epoch~2~Cambrian_Series-2]] 
 
 #is_a_/time_/Epoch 
 
 A time period from 521 to 509 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~]] 
+#has_/next_item :: [[Epoch~]] 
+
+## #has_/text_of_/abstract 
+
 
 > **Cambrian Series 2** is the unnamed 2nd series of the Cambrian. It lies above the [[Epoch~1~Terreneuvian]] series and below the [[Epoch~3~Miaolingian]]. Series 2 has not been formally defined by the International Commission on Stratigraphy, lacking a precise lower boundary and subdivision into stages. The proposed lower boundary is the first appearance of trilobites which is estimated to be around 521 million years ago.
 >

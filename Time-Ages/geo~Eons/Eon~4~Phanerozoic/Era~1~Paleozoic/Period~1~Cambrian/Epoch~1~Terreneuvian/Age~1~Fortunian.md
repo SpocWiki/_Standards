@@ -1,8 +1,19 @@
-﻿# [[Age~1~Fortunian]] 
+# [[Age~1~Fortunian]] 
 
 #is_a_/time_/Age 
 
 A time period from 538.8 to 529 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../../../Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran|Period~3~Ediacaran]] 
+#has_/next_item :: [[Age~2~Tommotian]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Fortunian** age marks the beginning of the Phanerozoic Eon, the Paleozoic Era, and the Cambrian Period. It is the first of the two stages of the Terreneuvian series. 
 > 

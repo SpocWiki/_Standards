@@ -1,9 +1,16 @@
-﻿
+
 # [[Epoch~1~Cisuralian]] 
 
 #is_a_/time_/Epoch 
 
 A time period from 298.9 to 273.01 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian|Epoch~3~Late_Pennsylvanian]]  
+#has_/next_item :: [[Epoch~2~Guadalupian]]  
+
+## #has_/text_of_/abstract 
 
 > The **Cisuralian**  is the first series/epoch of the Permian. The Cisuralian was preceded by the Pennsylvanian and followed by the Guadalupian. The Cisuralian Epoch is named after the western slopes of the Ural Mountains in Russia and Kazakhstan and dates between 298.9 ± 0.15 – 272.3 ± 0.5 Ma.In the regional stratigraphy of southwestern North America, the Cisuralian encompasses two series: the Wolfcampian (Asselian to mid-Artinskian) and Leonardian (mid-Artinskian to Kungurian).The series saw the appearance of beetles and flies and was a relatively stable warming period of about 21 million years.
 >

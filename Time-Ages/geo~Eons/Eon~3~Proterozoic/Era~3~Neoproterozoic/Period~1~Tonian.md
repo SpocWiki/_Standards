@@ -1,9 +1,17 @@
-﻿
+
 # [[Period~1~Tonian]] 
 
 #is_a_/time_/Period 
 
 A time period from
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Era~2~Mesoproterozoic/Period~3~Stenian|Period~3~Stenian]] 
+#has_/next_item :: [[Period~2~Cryogenian]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Tonian** (from Ancient Greek: τόνος, romanized: tónos, meaning "stretch") is the first geologic period of the Neoproterozoic Era. It lasted from 1000 to 720 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined by the ICS based on radiometric chronometry. The Tonian is preceded by the [[../Era~2~Mesoproterozoic/Period~3~Stenian|Period~3~Stenian]] of the Mesoproterozoic Era and followed by the [[Period~2~Cryogenian]].
 >

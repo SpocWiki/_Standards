@@ -1,12 +1,23 @@
-﻿# [[Age~1~Eifelian]] 
+# [[Age~1~Eifelian]] 
 
 #is_a_/time_/Age 
 
 A time period from 393.3 to 387.7 million years ago. 
 
-> The **Eifelian** is the first of two faunal stages in the Middle Devonian Epoch. It lasted from 393.3 ± 1.2 million years ago to 387.7 ± 0.8 million years ago. It was preceded by the Emsian Stage and followed by the Givetian Stage.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~1~Early_Devonian/Age~3~Emsian|Age~3~Emsian]] 
+#has_/next_item :: [[Age~2~Givetian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Eifelian** is the first of two faunal stages in the Middle Devonian Epoch. 
+> It lasted from 393.3 ± 1.2 million years ago to 387.7 ± 0.8 million years ago. 
+> It was preceded by the Emsian Stage and followed by the Givetian Stage.
 >
-> North American subdivisions of the Eifelian Stage include Southwood, and part of Cazenovia (or Cazenovian).
+> North American subdivisions of the Eifelian Stage include Southwood, 
+> and part of Cazenovia (or Cazenovian).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eifelian)
 

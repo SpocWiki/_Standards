@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:MiddleMississippian
+ischart: MiddleMississippian
 ---
 
 # [[Epoch~2~Middle_Mississippian]]  
@@ -20,6 +20,14 @@ A time period from 346.7 to 330.9 million years ago.
     sh:order 102 
 
 #has_/text_of_/color :: 0x99B46C
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~1~Early_Mississippian]] 
+#has_/next_item :: [[Epoch~3~Late_Mississippian]]  
+
+## #has_/text_of_/abstract 
+
 
 ## All Contents
 

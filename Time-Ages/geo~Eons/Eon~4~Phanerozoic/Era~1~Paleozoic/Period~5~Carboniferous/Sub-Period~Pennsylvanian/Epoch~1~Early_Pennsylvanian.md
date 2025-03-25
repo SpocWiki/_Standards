@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:LowerPennsylvanian
+ischart: LowerPennsylvanian
 ---
 
 # [[Epoch~1~Early_Pennsylvanian]] 
@@ -20,6 +20,14 @@ A time period from 323.2 to 315.2 million years ago.
     sh:order 98 
 
 #has_/text_of_/color :: 0x8CBEB4
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Sub-Period~Mississippian/Epoch~3~Late_Mississippian|Epoch~3~Late_Mississippian]]  
+#has_/next_item :: [[Epoch~2~Middle_Pennsylvanian]]  
+
+## #has_/text_of_/abstract 
+
 
 ## All Contents
 

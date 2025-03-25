@@ -1,9 +1,17 @@
-﻿
+
 # [[Epoch~1~Paleocene]] 
 
 #is_a_/time_/Epoch 
 
 A time period from 66.0 to 56.0 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous|Epoch~2~Late_Cretaceous]]  
+#has_/next_item :: [[Epoch~2~Eocene]]  
+
+## #has_/text_of_/abstract 
+
 
 > The **Paleocene**, (IPA:  PAL-ee-ə-seen, -⁠ee-oh-, PAY-lee-) or Palaeocene, is a geological epoch that lasted from about 66 to 56 million years ago (mya). It is the first epoch of the Paleogene Period in the modern Cenozoic Era. The name is a combination of the Ancient Greek παλαιός palaiós meaning "old" and the Eocene Epoch (which succeeds the Paleocene), translating to "the old part of the Eocene".
 >

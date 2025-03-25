@@ -1,8 +1,16 @@
-﻿# [[Period~2~Cryogenian]] 
+# [[Period~2~Cryogenian]] 
 
 #is_a_/time_/Period 
 
 A time period from 720 to 635 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Period~1~Tonian]] 
+#has_/next_item :: [[Period~3~Ediacaran]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Cryogenian** (from Ancient Greek: κρύος, romanized: krýos, meaning "cold" and γένεσις, romanized: génesis, meaning "birth") is a geologic period that lasted from 720 to 635 million years ago. 
 > It forms the second geologic period of the Neoproterozoic Era, preceded by the [[Period~1~Tonian]] and followed by the [[Period~3~Ediacaran]].

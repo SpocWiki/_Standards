@@ -1,8 +1,16 @@
-﻿# [[Period~1~Calymmian]] 
+# [[Period~1~Calymmian]] 
 
 #is_a_/time_/Period 
 
 A time period from 1600 to 1400 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Era~1~Paleoproterozoic/Period~4~Statherian|Period~4~Statherian]] 
+#has_/next_item :: [[Period~2~Ectasian]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Calymmian** Period (from Ancient Greek: κάλυμμα, romanized: kálymma, meaning "cover") is the first geologic period in the Mesoproterozoic Era and lasted from 1600 Mya to 1400 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.
 >

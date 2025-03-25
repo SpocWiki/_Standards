@@ -1,8 +1,16 @@
-﻿# [[Age~2~Selandian]] 
+# [[Age~2~Selandian]] 
 
 #is_a_/time_/Age 
 
 A time period from 61.6 to 59.2 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Selandian** is a stage in the Paleocene. It spans the time between 61.6 and 59.2 Ma. It is preceded by the [[Age~1~Danian]] and followed by the [[Age~3~Thanetian]]. Sometimes the Paleocene is subdivided in subepochs, in which the Selandian forms the "middle Paleocene".
 >

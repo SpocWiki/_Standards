@@ -1,9 +1,17 @@
-﻿
+
 # [[Age~3~Cambrian-Stage-10]] 
 
 #is_a_/time_/Age 
 
 A time period from 489.5 to 485.4 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~2~Jiangshanian]] 
+#has_/next_item :: [[../../Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian|Age~1~Tremadocian]] 
+
+## #has_/text_of_/abstract 
+
 
 #has_/label_/bg  :: Камбрий - 10 етаж
 #has_/label_/cs  :: Kambrium-Stupeň 10

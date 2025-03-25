@@ -1,8 +1,16 @@
-﻿# [[Eon~2~Archean]] 
+# [[Eon~2~Archean]] 
 
 #is_a_/time_/Eon
 
 A time period from 4031 to 2500 million years ago.
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Eon~1~Hadean]]    
+#has_/next_item :: [[Eon~3~Proterozoic]]    
+
+## #has_/text_of_/abstract 
+
 
 > The **Archean** Eon (IPA:  ar-KEE-ən, also spelled Archaean or Archæan), in older sources sometimes called the Archaeozoic, is the second of the four geologic eons of Earth's history, preceded by the Hadean Eon and followed by the Proterozoic. 
 > The Archean represents the time period from 4,031 to 2,500 Ma (millions of years ago). The Late Heavy Bombardment is hypothesized to overlap with the beginning of the Archean. 

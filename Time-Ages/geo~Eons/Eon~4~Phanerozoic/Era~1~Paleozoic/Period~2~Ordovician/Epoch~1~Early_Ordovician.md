@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:LowerOrdovician
+ischart: LowerOrdovician
 ---
 
 # [[Epoch~1~Early_Ordovician]] 
@@ -8,6 +8,14 @@ aliases:
 #is_a_/time_/Epoch 
 
 A time period from 485.4 to 470.0 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~]] 
+#has_/next_item :: [[Epoch~]] 
+
+## #has_/text_of_/abstract 
+
 
 #has_/label_/bg  :: Ранен Ордовик
 #has_/label_/cs  :: brzy ordovik

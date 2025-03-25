@@ -1,9 +1,17 @@
-﻿
+
 # [[Age~3~Hirnantian]] 
 
 #is_a_/time_/Age 
 
 A time period from 445.2 to 443.8 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~2~Katian]] 
+#has_/next_item :: [[../../Period~3~Silurian/Epoch~1~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Hirnantian** is the final internationally recognized stage of the Ordovician Period of the Paleozoic Era. It was of short duration, lasting about 1.4 million years, from 445.2 to 443.8 Ma (million years ago). The early part of the Hirnantian was characterized by cold temperatures, major glaciation, and a severe drop in sea level. In the latter part of the Hirnantian, temperatures rose, the glaciers melted, and sea level returned to the same or to a slightly higher level than it had been prior to the glaciation.
 >

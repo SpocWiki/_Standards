@@ -1,8 +1,19 @@
-﻿# [[Age~3~Chibanian]]
+# [[Age~3~Chibanian]]
 
 #is_a_/time_/Age 
 
 A time period from 0.774 to 0.129 million years ago. 
+
+#has_/time_/started :: -774e3 
+#has_/time_/stopped :: -129e3 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+
+#has_/prev_item :: [[Age~2~Calabrian]]   
+#has_/next_item :: [[Age~4~Late_Pleistocene]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Chibanian**, widely known as the Middle Pleistocene, is an age in the international geologic timescale or a stage in chronostratigraphy, being a division of the Pleistocene Epoch within the ongoing Quaternary Period. 
 > 
@@ -18,10 +29,7 @@ A time period from 0.774 to 0.129 million years ago.
 
 #has_/abbreviation :: q3
 
-#has_/time_/started :: -774e3 
-#has_/time_/stopped :: -129e3 
-
-    sh:order 6 
+  sh:order 6 
 
 #has_/text_of_/color :: 0xFFF2C7
 

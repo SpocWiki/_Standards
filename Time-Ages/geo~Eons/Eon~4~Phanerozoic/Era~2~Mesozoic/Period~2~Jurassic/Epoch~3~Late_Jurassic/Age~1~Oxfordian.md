@@ -1,8 +1,16 @@
-﻿# [[Age~1~Oxfordian]] 
+# [[Age~1~Oxfordian]] 
 
 #is_a_/time_/Age 
 
 A time period from 161.5 to 154.8 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~2~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]] 
+#has_/next_item :: [[Age~2~Kimmeridgian]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Oxfordian** is, in the ICS' geologic timescale, the earliest age of the Late Jurassic Epoch, or the lowest stage of the Upper Jurassic Series. It spans the time between 161.5 ± 1.0 Ma and 154.8 ± 0.8 Ma (million years ago). The Oxfordian is preceded by the [[../Epoch~2~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]] and is followed by the [[Age~2~Kimmeridgian]].
 >

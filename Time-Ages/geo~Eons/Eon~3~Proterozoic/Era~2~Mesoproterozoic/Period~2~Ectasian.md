@@ -1,8 +1,16 @@
-﻿# [[Period~2~Ectasian]]
+# [[Period~2~Ectasian]]
 
 #is_a_/time_/Period 
 
-A time period from> The **Ectasian** Period (from Ancient Greek: ἔκτασις, romanized: éktasis, meaning "extension") is the second geologic period in the Mesoproterozoic Era and lasted from 1400 Mya ago to 1200 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Period~1~Calymmian]] 
+#has_/next_item :: [[Period~3~Stenian]] 
+
+## #has_/text_of_/abstract 
+
+
+> A time period from> The **Ectasian** Period (from Ancient Greek: ἔκτασις, romanized: éktasis, meaning "extension") is the second geologic period in the Mesoproterozoic Era and lasted from 1400 Mya ago to 1200 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.
 >
 > Geologically the name refers to the continued expansion of platform covers during this period. In the early Ectasian period, a day was 17 hours and 32 minutes. At the end of the Ectasian, it was 18 hours and 28 minutes.
 >

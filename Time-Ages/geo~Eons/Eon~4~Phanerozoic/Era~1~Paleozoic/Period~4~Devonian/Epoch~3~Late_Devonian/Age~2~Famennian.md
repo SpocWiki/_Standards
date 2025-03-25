@@ -1,11 +1,24 @@
-﻿# [[Age~2~Famennian]] 
+# [[Age~2~Famennian]] 
 
 #is_a_/time_/Age 
 
 A time period from 372.2 to 358.9 million years ago. 
 
-> The **Famennian** is the later of two faunal stages in the Late Devonian Epoch. The most recent estimate for its duration estimates that it lasted from around 371.1 million years ago to 359.3 million years ago. 
-> An earlier 2012 estimate, still used by the International Commission on Stratigraphy, estimated that it lasted from 372.2 million years ago to 358.9 million years ago. 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Frasnian]] 
+#has_/next_item :: [[../../Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian|Age~Tournaisian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Famennian** is the later of two faunal stages in the Late Devonian Epoch. 
+> 
+> The most recent estimate for its duration estimates that it lasted 
+> from around 371.1 million years ago to 359.3 million years ago. 
+> 
+> An earlier 2012 estimate, still used by the International Commission on Stratigraphy, 
+> estimated that it lasted from 372.2 million years ago to 358.9 million years ago. 
 > It was preceded by the [[Age~1~Frasnian]] stage and followed by the [[../../Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian|Age~Tournaisian]] stage.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Famennian)

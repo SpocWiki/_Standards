@@ -1,8 +1,16 @@
-﻿# [[Epoch~2~Middle_Devonian]] 
+# [[Epoch~2~Middle_Devonian]] 
 
 #is_a_/time_/Epoch 
 
 A time period from 393.3 to 382.7 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~1~Early_Devonian]] 
+#has_/next_item :: [[Epoch~3~Late_Devonian]]  
+
+## #has_/text_of_/abstract 
+
 
 > In the geological timescale, the Middle Devonian epoch (from 397.5 ± 2.7 million years ago to 385.3 ± 2.6 million years ago) occurred during the Devonian period, after the end of the Emsian age.
 >

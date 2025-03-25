@@ -1,8 +1,16 @@
-﻿# [[Age~1~Danian]] 
+# [[Age~1~Danian]] 
 
 #is_a_/time_/Age 
 
 A time period from 66.0 to 61.6 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Danian** is the oldest age or lowest stage of the Paleocene Epoch or Series, of the Paleogene Period or System, and of the Cenozoic Era or Erathem. 
 > The beginning of the Danian (and the end of the preceding Maastrichtian) is at the Cretaceous–Paleogene extinction event 66 Ma. 

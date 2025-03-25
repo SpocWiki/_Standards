@@ -1,8 +1,16 @@
-﻿# [[Age~1~Ypresian]] 
+# [[Age~1~Ypresian]] 
 
 #is_a_/time_/Age 
 
 A time period from 56.0 to 47.8 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > In the geologic timescale the **Ypresian** is the oldest age or lowest stratigraphic stage of the Eocene. It spans the time between 56 and 47.8 Ma, is preceded by the Thanetian Age (part of the Paleocene) and is followed by the Eocene [[Age~2~Lutetian]]. The Ypresian is consistent with the lower Eocene.
 >

@@ -1,10 +1,19 @@
-﻿# [[Age~2~Ludfordian]] 
+# [[Age~2~Ludfordian]] 
 
 #is_a_/time_/Age 
 
 A time period from 425.6 to 423.0 million years ago. 
 
-ischart:Ludfordian
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gorstian]] 
+#has_/next_item :: [[../../Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]] 
+
+## #has_/text_of_/abstract 
+
+
+ischart::Ludfordian
+
 #has_/label_/bg  :: Лудфорд
 #has_/label_/cs  :: Ludford
 #has_/label_/da  :: Ludfordien

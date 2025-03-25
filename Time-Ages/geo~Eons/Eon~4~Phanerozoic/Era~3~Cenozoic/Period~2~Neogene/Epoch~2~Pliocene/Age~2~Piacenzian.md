@@ -1,8 +1,17 @@
-﻿# [[Age~2~Piacenzian]]
+# [[Age~2~Piacenzian]]
 
 #is_a_/time_/Age 
 
 A time period from 3.60 to 2.58 million years ago. 
+
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Piacenzian** is in the international geologic time scale the upper stage or latest age of the Pliocene. It spans the time between 3.6 ± 0.005 Ma and 2.588 ± 0.005 Ma (million years ago). The Piacenzian is after the [[Age~1~Zanclean]] and is followed by the [[../../Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian]] (part of the Pleistocene).
 >

@@ -1,8 +1,16 @@
-﻿# [[Age~6~Messinian]] 
+# [[Age~6~Messinian]] 
 
 #is_a_/time_/Age 
 
 A time period from 7.246 to 5.333 million years ago. 
+
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
 
 > The **Messinian** is in the geologic timescale the last age or uppermost stage of the Miocene. It spans the time between 7.246 ± 0.005 Ma and 5.333 ± 0.005 Ma (million years ago). It follows the [[Age~5~Tortonian]] and is followed by the [[../Epoch~2~Pliocene/Age~1~Zanclean]], the first age of the Pliocene.
 >

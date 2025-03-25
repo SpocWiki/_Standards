@@ -1,8 +1,16 @@
-﻿# [[Age~2~Cambrian-Stage-4]] 
+# [[Age~2~Cambrian-Stage-4]] 
 
 #is_a_/time_/Age 
 
 A time period from 514 to 509 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Cambrian-Stage-3]] 
+#has_/next_item :: [[../Epoch~3~Miaolingian/Age~1~Wuliuan|Age~1~Wuliuan]]   
+
+## #has_/text_of_/abstract 
+
 
 > **Cambrian Stage 4** is the still unnamed fourth stage of the Cambrian and the upper stage of Cambrian Series 2. It follows Cambrian Stage 3 and lies below the [[../Epoch~3~Miaolingian/Age~1~Wuliuan|Age~1~Wuliuan]]. 
 > 

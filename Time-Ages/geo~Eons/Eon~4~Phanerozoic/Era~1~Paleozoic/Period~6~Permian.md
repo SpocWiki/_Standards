@@ -1,9 +1,17 @@
-﻿
+
 # [[Period~6~Permian]] 
 
 #is_a_/time_/Period 
 
 A time period from 298.9 to 251.902 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Period~5~Carboniferous]] 
+#has_/next_item :: [[../Era~2~Mesozoic/Period~1~Triassic|Period~1~Triassic]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Permian** ( PUR-mee-ən) is a geologic period and stratigraphic system which spans 47 million years from the end of the [[Period~5~Carboniferous]] 298.9 million years ago (Mya), to the beginning of the [[../Era~2~Mesozoic/Period~1~Triassic|Period~1~Triassic]] 251.902 Mya. It is the last period of the Paleozoic Era; the following Triassic Period belongs to the [[../Era~2~Mesozoic]]. 
 > 

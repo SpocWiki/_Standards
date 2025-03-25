@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:UpperTriassic
+ischart: UpperTriassic
 ---
 
 # [[Epoch~3~Late_Triassic]] 
@@ -8,6 +8,14 @@ aliases:
 #is_a_/time_/Epoch 
 
 A time period from 237 to 201.4 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~2~Middle_Triassic]] 
+#has_/next_item :: [[../Period~2~Jurassic/Epoch~1~Early_Jurassic|Epoch~1~Early_Jurassic]] 
+
+## #has_/text_of_/abstract 
+
 
 > The Late Triassic is the third and final epoch of the Triassic Period in the geologic time scale, spanning the time between 237 Ma and 201.4 Ma (million years ago). It is preceded by the Middle Triassic Epoch and followed by the Early Jurassic Epoch. The corresponding series of rock beds is known as the Upper Triassic. The Late Triassic is divided into the Carnian, Norian and Rhaetian ages.
 >

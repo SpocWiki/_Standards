@@ -1,8 +1,16 @@
-﻿# [[Period~4~Statherian]] 
+# [[Period~4~Statherian]] 
 
 #is_a_/time_/Period 
 
-A time period from> The **Statherian** Period ( ; Ancient Greek: σταθερός, romanized: statherós, meaning "stable, firm") is the final geologic period in the Paleoproterozoic Era and lasted from 1800 Mya to 1600 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.The period was characterized on most continents by either new platforms or final cratonization of fold belts. Oxygen levels were 10% to 20% of current values.Rafatazmia, controversially claimed to be present in Statherian beds in India, may be the oldest known confirmably eukaryotic fossil organism.By the beginning of the Statherian, the supercontinent Columbia had assembled.Approximately 1.7 billion years ago, a series of natural nuclear fission reactors was operational in what is now Oklo, Gabon.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Period~3~Orosirian]] 
+#has_/next_item :: [[../Era~2~Mesoproterozoic/Period~1~Calymmian|Period~1~Calymmian]] 
+
+## #has_/text_of_/abstract 
+
+
+> A time period from> The **Statherian** Period ( ; Ancient Greek: σταθερός, romanized: statherós, meaning "stable, firm") is the final geologic period in the Paleoproterozoic Era and lasted from 1800 Mya to 1600 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.The period was characterized on most continents by either new platforms or final cratonization of fold belts. Oxygen levels were 10% to 20% of current values.Rafatazmia, controversially claimed to be present in Statherian beds in India, may be the oldest known confirmably eukaryotic fossil organism.By the beginning of the Statherian, the supercontinent Columbia had assembled.Approximately 1.7 billion years ago, a series of natural nuclear fission reactors was operational in what is now Oklo, Gabon.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Statherian)
 

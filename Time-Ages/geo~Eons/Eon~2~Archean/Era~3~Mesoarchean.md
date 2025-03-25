@@ -1,8 +1,16 @@
-﻿# [[Era~3~Mesoarchean]] 
+# [[Era~3~Mesoarchean]] 
 
 #is_a_/time_/Era 
 
 A time period from 3200 to 2800 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Era~2~Paleoarchean]] 
+#has_/next_item :: [[Era~4~Neoarchean]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Mesoarchean** ( MEE-zoh-ar-KEE-ən, MEZ-oh-, also spelled Mesoarchaean) is a geologic era in the Archean Eon, spanning 3,200 to 2,800 million years ago, which contains the first evidence of modern-style plate subduction and expansion of microbial life. The era is defined chronometrically and is not referenced to a specific level in a rock section on Earth.
 >

@@ -1,12 +1,28 @@
-﻿# [[Age~3~Pliensbachian]] 
+# [[Age~3~Pliensbachian]] 
 
 #is_a_/time_/Age 
 
 A time period from 192.9 to 184.2 million years ago. 
 
-> The **Pliensbachian** is an age of the geologic timescale and stage in the stratigraphic column. It is part of the Early or Lower Jurassic Epoch or Series and spans the time between 192.9 ±0.3 Ma and 184.2 ±0.3 Ma (million years ago). The Pliensbachian is preceded by the Sinemurian and followed by the [[Age~4~Toarcian]]. 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~2~Sinemurian]] 
+#has_/next_item :: [[Age~4~Toarcian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Pliensbachian** is an age of the geologic timescale and stage in the stratigraphic column. 
 > 
-> The Pliensbachian ended with the extinction event called the Toarcian turnover. During the Pliensbachian, the middle part of the Lias was deposited in Europe. The Pliensbachian is roughly coeval with the Charmouthian regional stage of North America.
+> It is part of the Early or Lower Jurassic Epoch or Series 
+> and spans the time between 192.9 ±0.3 Ma and 184.2 ±0.3 Ma (million years ago). 
+> 
+> The Pliensbachian is preceded by the Sinemurian and followed by the [[Age~4~Toarcian]]. 
+> 
+> The Pliensbachian ended with the extinction event called the Toarcian turnover. 
+> 
+> During the Pliensbachian, the middle part of the Lias was deposited in Europe. 
+> The Pliensbachian is roughly coeval with the Charmouthian regional stage of North America.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pliensbachian)
 

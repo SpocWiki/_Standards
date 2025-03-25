@@ -1,8 +1,22 @@
+---
+aliases:
+  - Upper Paleolithic
+  - Upper Palaeolithic
+---
 ﻿# [[Upper_Paleolithic]]
 
 #is_a_/time_/Culture 
 
-> The Upper Paleolithic (or Upper Palaeolithic) is the third and last subdivision of the Paleolithic or Old Stone Age. Very broadly, it dates to between 50,000 and 12,000 years ago (the beginning of the Holocene), according to some theories coinciding with the appearance of behavioral modernity in early modern humans, until the advent of the Neolithic Revolution and agriculture.
+
+#has_/time_/started :: -50e3 
+#has_/time_/stopped :: -13e3 
+
+## #has_/text_of_/abstract 
+
+> The Upper Paleolithic (or Upper Palaeolithic) 
+> is the third and last subdivision of the Paleolithic or Old Stone Age. 
+> 
+> Very broadly, it dates to between 50,000 and 12,000 years ago (the beginning of the Holocene), according to some theories coinciding with the appearance of behavioral modernity in early modern humans, until the advent of the Neolithic Revolution and agriculture.
 >
 > Anatomically modern humans (i.e. Homo sapiens) are believed to have emerged in Africa around 300,000 years ago. It has been argued by some that their ways of life changed relatively little from that of archaic humans of the Middle Paleolithic, until about 50,000 years ago, when there was a marked increase in the diversity of artefacts found associated with modern human remains.
 >
@@ -17,10 +31,6 @@
 > In Western Eurasia, the Paleolithic eases into the so-called Epipaleolithic or Mesolithic from the end of the LGM, beginning 15 ka. The Holocene glacial retreat begins 11.7 ka (10th millennium BC), falling well into the Old World Epipaleolithic, and marking the beginning of the earliest forms of farming in the Fertile Crescent.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Upper%20Paleolithic)
-
-
-#has_/time_/started :: -50e3 
-#has_/time_/stopped :: -13e3 
 
 ## Confidential Links & Embeds: 
 

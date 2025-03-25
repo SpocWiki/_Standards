@@ -1,7 +1,15 @@
-﻿
+
 #is_a_/time_/Period 
 
-A time period from> The **Stenian** Period ( STEE-nee-ən, from Ancient Greek: στενός, romanized: stenós, meaning "narrow") is the final geologic period in the Mesoproterozoic Era and lasted from 1200 Mya to 1000 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically. The name derives from narrow polymetamorphic belts formed over this period.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Period~2~Ectasian]] 
+#has_/next_item :: [[../Era~3~Neoproterozoic/Period~1~Tonian|Period~1~Tonian]] 
+
+## #has_/text_of_/abstract 
+
+
+> A time period from> The **Stenian** Period ( STEE-nee-ən, from Ancient Greek: στενός, romanized: stenós, meaning "narrow") is the final geologic period in the Mesoproterozoic Era and lasted from 1200 Mya to 1000 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically. The name derives from narrow polymetamorphic belts formed over this period.
 >
 > Preceded by the Ectasian Period and followed by the Neoproterozoic Era.
 >

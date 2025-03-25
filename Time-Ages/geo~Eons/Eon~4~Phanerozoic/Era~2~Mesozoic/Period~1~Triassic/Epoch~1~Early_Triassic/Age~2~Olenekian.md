@@ -1,10 +1,27 @@
-﻿# [[Age~2~Olenekian]] 
+# [[Age~2~Olenekian]] 
 
 #is_a_/time_/Age 
 
 A time period from 247.2 to 251.2 million years ago. 
 
-> In the geologic timescale, the **Olenekian** is an age in the Early Triassic epoch; in chronostratigraphy, it is a stage in the Lower Triassic series. It spans the time between 251.2 Ma and 247.2 Ma (million years ago). The Olenekian is sometimes divided into the Smithian and the Spathian subages or substages. The Olenekian follows the Induan and is followed by the [[../Epoch~2~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]] (Middle Triassic).The Olenekian saw the deposition of a large part of the Buntsandstein in Europe. The Olenekian is roughly coeval with the regional Yongningzhenian Stage used in China.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Induan]] 
+#has_/next_item :: [[../Epoch~2~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]] 
+
+## #has_/text_of_/abstract 
+
+
+> In the geologic timescale, the **Olenekian** is an age in the Early Triassic epoch; 
+> in chronostratigraphy, it is a stage in the Lower Triassic series. 
+> 
+> It spans the time between 251.2 Ma and 247.2 Ma (million years ago). 
+> 
+> The Olenekian is sometimes divided into the Smithian and the Spathian subages or substages. 
+> 
+> The Olenekian follows the Induan and is followed by the [[../Epoch~2~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]] (Middle Triassic).
+> The Olenekian saw the deposition of a large part of the Buntsandstein in Europe. 
+> The Olenekian is roughly coeval with the regional Yongningzhenian Stage used in China.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Olenekian)
 

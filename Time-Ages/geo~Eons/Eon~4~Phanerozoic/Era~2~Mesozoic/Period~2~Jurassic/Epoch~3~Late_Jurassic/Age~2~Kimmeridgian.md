@@ -1,10 +1,22 @@
-﻿# [[Age~2~Kimmeridgian]] 
+# [[Age~2~Kimmeridgian]] 
 
 #is_a_/time_/Age 
 
 A time period from 154.8 to 149.2 million years ago. 
 
-> In the geologic timescale, the **Kimmeridgian** is an age in the Late Jurassic Epoch and a stage in the Upper Jurassic Series. It spans the time between 154.8 ±0.8 Ma and 149.2 ±0.7 Ma (million years ago). The Kimmeridgian follows the Oxfordian and precedes the [[Age~3~Tithonian]].
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Oxfordian]] 
+#has_/next_item :: [[Age~3~Tithonian]] 
+
+## #has_/text_of_/abstract 
+
+
+> In the geologic timescale, the **Kimmeridgian** is an age in the Late Jurassic Epoch 
+> and a stage in the Upper Jurassic Series. 
+> 
+> It spans the time between 154.8 ±0.8 Ma and 149.2 ±0.7 Ma (million years ago). 
+> The Kimmeridgian follows the Oxfordian and precedes the [[Age~3~Tithonian]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kimmeridgian)
 

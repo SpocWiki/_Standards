@@ -1,10 +1,21 @@
-﻿# [[Age~2~Wordian]] 
+# [[Age~2~Wordian]] 
 
 #is_a_/time_/Age 
 
 A time period from 266.9 to 264.28 million years ago. 
 
-> In the geologic timescale, the **Wordian** is an age or stage of the Permian. It is the middle of three subdivisions of the Guadalupian Epoch or Series. The Wordian lasted between 266.9 and 264.28 million years ago (Ma). It was preceded by the Roadian and followed by the Capitanian.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Roadian]] 
+#has_/next_item :: [[Age~3~Capitanian]] 
+
+## #has_/text_of_/abstract 
+
+
+> In the geologic timescale, the **Wordian** is an age or stage of the Permian. 
+> It is the middle of three subdivisions of the Guadalupian Epoch or Series. 
+> The Wordian lasted between 266.9 and 264.28 million years ago (Ma). 
+> It was preceded by the Roadian and followed by the Capitanian.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wordian)
 

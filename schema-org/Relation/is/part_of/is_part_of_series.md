@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is_/part_of_series :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] ] or 
+- [ #is_/part_of_/series :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] ] or 
 - [ is_part_of_series :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] ] 
 
 The series to which this episode or season belongs.

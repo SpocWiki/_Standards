@@ -1,8 +1,16 @@
-﻿# [[Age~1~Aquitanian]] 
+# [[Age~1~Aquitanian]] 
 
 #is_a_/time_/Age 
 
 A time period from 23.03 to 20.44 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Aquitanian** is, in the International Commission on Stratigraphy's (ICS) geologic timescale, the oldest age or lowest stage in the Miocene. It spans the time between 23.03 ± 0.05 Ma and 20.43 ± 0.05 Ma (million years ago) during the Early Miocene. It was a dry, cooling period. The Aquitanian succeeds the [[../../Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian]] (the youngest age of the Oligocene) and precedes the [[Age~2~Burdigalian]].
 >

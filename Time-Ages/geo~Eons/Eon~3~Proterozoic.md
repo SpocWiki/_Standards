@@ -1,8 +1,16 @@
-﻿# [[Eon~3~Proterozoic]] 
+# [[Eon~3~Proterozoic]] 
 
 #is_a_/time_/Eon 
 
 A time period from 2500 to 538.8 million years ago.
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Eon~2~Archean]]   
+#has_/next_item :: [[Eon~4~Phanerozoic]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Proterozoic** (IPA:  PROH-tər-ə-ZOH-ik, PROT-, -⁠ər-oh-, -⁠trə-, -⁠troh-) is the third of the four geologic eons of Earth's history, spanning the time interval from 2500 to 538.8 Mya, the longest eon of the Earth's geologic time scale. It is preceded by the Archean and followed by the Phanerozoic, and is the most recent part of the Precambrian "supereon".
 >

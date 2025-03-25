@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:UpperMississippian
+ischart: UpperMississippian
 ---
 
 # [[Epoch~3~Late_Mississippian]] 
@@ -20,6 +20,14 @@ A time period from 330.9 to 323.2 million years ago.
     sh:order 101 
 
 #has_/text_of_/color :: 0xB3BE6C
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~2~Middle_Mississippian]] 
+#has_/next_item :: [[../Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian|Epoch~1~Early_Pennsylvanian]]  
+
+## #has_/text_of_/abstract 
+
 
 ## All Contents
 

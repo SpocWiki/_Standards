@@ -1,8 +1,16 @@
-﻿# [[Age~2~Homerian]] 
+# [[Age~2~Homerian]] 
 
 #is_a_/time_/Age 
 
 A time period from 430.5 to 427.4 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Sheinwoodian]] 
+#has_/next_item :: [[../Epoch~3~Ludlow/Age~1~Gorstian|Age~1~Gorstian]] 
+
+## #has_/text_of_/abstract 
+
 
 > In the geologic timescale, the **Homerian** is an age of the [[../Epoch~2~Wenlock|Epoch~2~Wenlock]] of the [[../../Period~3~Silurian|Period~3~Silurian]] of the Paleozoic Era of the Phanerozoic Eon that is comprehended between 430.5 ± 0.7 Ma and 427.4 ± 0.5 Ma (million years ago), approximately. The Homerian Age succeeds the [[Age~1~Sheinwoodian]] and precedes the Gorstian Age.
 >

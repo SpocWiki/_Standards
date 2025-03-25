@@ -1,8 +1,16 @@
-﻿# [[Age~2~Chattian]] 
+# [[Age~2~Chattian]] 
 
 #is_a_/time_/Age 
 
 A time period from 27.82 to 23.03 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/next_item :: [[Age~3~Chibanian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Chattian** is, in the geologic timescale, the younger of two ages or upper of two stages of the Oligocene Epoch/Series. It spans the time between 27.82 and 23.03 Ma. The Chattian is preceded by the Rupelian and is followed by the [[../../Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian]] (the lowest stage of the Miocene).
 >

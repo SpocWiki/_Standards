@@ -1,9 +1,17 @@
-﻿
+
 # [[Period~1~Paleogene]] 
 
 #is_a_/time_/Period 
 
 A time period from 66.0 to 23.03 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Era~2~Mesozoic/Period~3~Cretaceous|Period~3~Cretaceous]] 
+#has_/next_item :: [[Period~2~Neogene]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Paleogene** (IPA:  PAY-lee-ə-jeen, -⁠lee-oh-, PAL-ee-; also spelled Palaeogene or Palæogene) is a geologic period and system that spans 43 million years from the end of the [[../Era~2~Mesozoic/Period~3~Cretaceous|Period~3~Cretaceous]] 66 million years ago (Mya) to the beginning of the [[Period~2~Neogene]] 23.03 Mya. It is the beginning of the Cenozoic Era of the present Phanerozoic Eon. The earlier term Tertiary Period was used to define the span of time now covered by the Paleogene Period and subsequent Neogene Period; despite no longer being recognized as a formal stratigraphic term, "Tertiary" still sometimes remains in informal use. Paleogene is often abbreviated "Pg" (but the United States Geological Survey uses the abbreviation Pe for the Paleogene on the Survey's geologic maps).During the Paleogene, mammals diversified from relatively small, simple forms into a large group of diverse animals in the wake of the Cretaceous–Paleogene extinction event that ended the preceding Cretaceous Period.This period consists of the Paleocene, Eocene, and Oligocene epochs. The end of the Paleocene (56 Mya) was marked by the Paleocene–Eocene Thermal Maximum, one of the most significant periods of global change during the Cenozoic, which upset oceanic and atmospheric circulation and led to the extinction of numerous deep-sea benthic foraminifera and on land, a major turnover in mammals. The term "Paleogene System" is applied to the rocks deposited during the Paleogene Period.
 >

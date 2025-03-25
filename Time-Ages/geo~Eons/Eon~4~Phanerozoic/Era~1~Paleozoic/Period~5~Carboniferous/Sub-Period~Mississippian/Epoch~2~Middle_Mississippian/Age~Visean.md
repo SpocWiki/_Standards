@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Viséan
   - Visian
@@ -9,7 +9,20 @@ aliases:
 
 A time period from 346.7 to 330.9 million years ago. 
 
-> The **Visean**, Viséan or Visian is an age in the ICS geologic timescale or a stage in the stratigraphic column. It is the second stage of the Mississippian, the lower subsystem of the Carboniferous. The Visean lasted from 346.7 to 330.9 Ma. It follows the Tournaisian age/stage and is followed by the Serpukhovian age/stage.
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~1~Early_Mississippian/Age~Tournaisian|Age~Tournaisian]] 
+#has_/next_item :: [[../Epoch~3~Late_Mississippian/Age~Serpukhovian|Age~Serpukhovian]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Visean**, Viséan or Visian is an age in the ICS geologic timescale 
+> or a stage in the stratigraphic column. 
+> 
+> It is the second stage of the Mississippian, the lower subsystem of the Carboniferous. 
+> The Visean lasted from 346.7 to 330.9 Ma. 
+> It follows the Tournaisian age/stage and is followed by the Serpukhovian age/stage.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vis%C3%A9an)
 

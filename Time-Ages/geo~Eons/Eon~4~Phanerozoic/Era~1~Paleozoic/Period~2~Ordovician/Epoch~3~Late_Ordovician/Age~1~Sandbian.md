@@ -1,8 +1,16 @@
-﻿# [[Age~1~Sandbian]] 
+# [[Age~1~Sandbian]] 
 
 #is_a_/time_/Age 
 
 A time period from 458.4 to 453.0 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../Epoch~2~Middle_Ordovician/Age~2~Darriwilian|Age~2~Darriwilian]] 
+#has_/next_item :: [[Age~2~Katian]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Sandbian** is the first stage of the Upper Ordovician. It follows the Darriwilian and is succeeded by the Katian. Its lower boundary is defined as the first appearance datum of the graptolite species Nemagraptus gracilis around 458.4 million years ago. The Sandbian lasted for about 5.4 million years until the beginning of the Katian around 453 million years ago.
 >

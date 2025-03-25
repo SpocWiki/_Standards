@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-  - ischart:LowerTriassic
+ischart: LowerTriassic
 ---
 
 # [[Epoch~1~Early_Triassic]] 
@@ -8,6 +8,14 @@ aliases:
 #is_a_/time_/Epoch 
 
 A time period from 251.902 to 247.2 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[../../Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian|Epoch~3~Lopingian]] 
+#has_/next_item :: [[Epoch~2~Middle_Triassic]] 
+
+## #has_/text_of_/abstract 
+
 
 > The **Early Triassic** is the first of three epochs of the Triassic Period of the geologic timescale. It spans the time between 251.9 Ma and 247.2 Ma (million years ago). Rocks from this epoch are collectively known as the Lower Triassic Series, which is a unit in chronostratigraphy. 
 >

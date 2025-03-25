@@ -1,10 +1,21 @@
-﻿# [[Age~2~Sakmarian]]
+# [[Age~2~Sakmarian]]
 
 #is_a_/time_/Age 
 
 A time period from 293.51 to 290.1 million years ago. 
 
-> In the geologic timescale, the **Sakmarian** is an age or stage of the Permian period. It is a subdivision of the Cisuralian Epoch or Series. The Sakmarian lasted between 293.52 and 290.1 million years ago (Ma). It was preceded by the [[Age~1~Asselian]] and followed by the [[Age~3~Artinskian]].
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Asselian]] 
+#has_/next_item :: [[Age~3~Artinskian]] 
+
+## #has_/text_of_/abstract 
+
+
+> In the geologic timescale, the **Sakmarian** is an age or stage of the Permian period. 
+> It is a subdivision of the Cisuralian Epoch or Series. 
+> The Sakmarian lasted between 293.52 and 290.1 million years ago (Ma). 
+> It was preceded by the [[Age~1~Asselian]] and followed by the [[Age~3~Artinskian]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sakmarian)
 

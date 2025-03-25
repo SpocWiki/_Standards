@@ -1,8 +1,16 @@
-﻿# [[Age~2~Katian]]
+# [[Age~2~Katian]]
 
 #is_a_/time_/Age 
 
 A time period from 453.0 to 445.2 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Age~1~Sandbian]] 
+#has_/next_item :: [[Age~3~Hirnantian]]   
+
+## #has_/text_of_/abstract 
+
 
 > The **Katian** is the second stage of the Upper Ordovician. It is preceded by the Sandbian and succeeded by the Hirnantian Stage. The Katian began 453 million years ago and lasted for about 7.8 million years until the beginning of the Hirnantian 445.2 million years ago.
 >

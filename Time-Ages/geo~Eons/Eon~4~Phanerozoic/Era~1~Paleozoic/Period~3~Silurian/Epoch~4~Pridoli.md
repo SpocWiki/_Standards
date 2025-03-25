@@ -1,15 +1,31 @@
-﻿
+
 # [[Epoch~4~Pridoli]] 
 
 #is_a_/time_/Epoch 
 
 A time period from 423.0 to 419.2 million years ago. 
 
-> In the geologic timescale, the Přídolí Epoch (Czech pronunciation: [ˈpr̝̊iːdoliː]) is the uppermost subdivision of the Silurian Period, dated at between 423 ± 2.3 and 419.2 ± 3.2 mya (million years ago). The Přídolí Epoch succeeds the [[Epoch~3~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]] Stage and precedes the [[../Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]], the lowest of three stages within the Lower Devonian geological epoch. 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/prev_item :: [[Epoch~3~Ludlow]] 
+#has_/next_item :: [[../Period~4~Devonian/Epoch~1~Early_Devonian|Epoch~1~Early_Devonian]]  
+
+## #has_/text_of_/abstract 
+
+> In the geologic timescale, the Přídolí Epoch (Czech pronunciation: [ˈpr̝̊iːdoliː]) 
+> is the uppermost subdivision of the Silurian Period, 
+> dated at between 423 ± 2.3 and 419.2 ± 3.2 mya (million years ago). 
 > 
-> It is named after one locality at the Homolka a Přídolí nature reserve near the Prague suburb, Slivenec, in the Czech Republic. The GSSP is located within the Požáry Formation, overlying the Kopanina Formation. Přídolí is the old name of a cadastral field area.
+> The Přídolí Epoch succeeds the [[Epoch~3~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]] Stage 
+> and precedes the [[../Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]], the lowest of three stages within the Lower Devonian geological epoch. 
 > 
-> The [[Šilalė-Event]], a negative carbon isotope excursion corresponding to an extinction event of conodonts, occurred during the early **Pridoli**.
+> It is named after one locality at the Homolka a Přídolí nature reserve 
+> near the Prague suburb, Slivenec, in the Czech Republic. 
+> The GSSP is located within the Požáry Formation, overlying the Kopanina Formation. 
+> Přídolí is the old name of a cadastral field area.
+> 
+> The [[Šilalė-Event]], a negative carbon isotope excursion 
+> corresponding to an extinction event of conodonts, occurred during the early **Pridoli**.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pridoli%20Epoch)
 
