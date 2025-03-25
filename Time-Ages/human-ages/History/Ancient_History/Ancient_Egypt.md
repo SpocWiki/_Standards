@@ -32,7 +32,9 @@ category for people born here: "[[_Standards/WikiData/WD~Q44620178,44620178]]"
 coordinate location: Point(31.3 29.8)
 UMLS CUI: C4505338
 "dissolved, abolished or demolished date": -0029-01-01T00:00:00Z
+has_time_stopped: -0029-01-01T00:00:00Z 
 inception: -4000-01-01T00:00:00Z
+has_time_started: -4000-01-01T00:00:00Z 
 continent: "[[_Standards/WikiData/WD~Africa,15]]"
 country: "[[_Standards/WikiData/WD~Egypt,79]]"
 Dewey Decimal Classification:

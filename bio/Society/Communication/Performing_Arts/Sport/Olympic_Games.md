@@ -88,7 +88,7 @@ aliases:
 
 ## History 
 
-Modern Olympic Games started after Greece achieved Independence from the [[../../../../../Time-Ages/human-ages/History/Ottoman_Empire]]. 
+Modern Olympic Games started after Greece achieved Independence from the [[../../../../../Time-Ages/human-ages/History/Middle_Ages/Ottoman_Empire]]. 
 They were sponsored by 
 Greek interest in reviving the Olympic Games began with the [Greek War of Independence](https://en.wikipedia.org/wiki/Greek_War_of_Independence "Greek War of Independence") from the [Ottoman Empire](https://en.wikipedia.org/wiki/Ottoman_Empire "Ottoman Empire") in 1821. 
 [Evangelos Zappas](https://en.wikipedia.org/wiki/Evangelos_Zappas "Evangelos Zappas"), a wealthy Greek-Romanian philanthropist, first wrote to [King Otto of Greece](https://en.wikipedia.org/wiki/King_Otto_of_Greece "King Otto of Greece"), in 1856, 
@@ -136,7 +136,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1976 | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria\|Austria]]         | [[Innsbruck]]                   |  W  | 1976-02-04 | 1968-02-15 |
 | 1976 | [[../../../../../Earth/Continent/America~North/Canada\|Canada]]                   | [[Montreal]]                    |  S  | 1976-07-17 | 1968-08-01 |
 | 1980 | [[../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Lake Placid]]                 |  W  | 1980-02-13 | 1964-02-24 |
-| 1980 | [[../../../../../Time-Ages/human-ages/History/Soviet_Union\|Soviet_Union]]       | [[Moscow]]                      |  S  | 1980-07-19 | 1964-08-03 |
+| 1980 | [[../../../../../Time-Ages/human-ages/History/Modern_History/Soviet_Union\|Soviet_Union]]       | [[Moscow]]                      |  S  | 1980-07-19 | 1964-08-03 |
 | 1984 | [[../../../../../Earth/Continent/Europe/Europe~South/Yugoslavia\|Yugoslavia]]     | [[Sarajevo]]                    |  W  | 1984-02-08 | 1960-02-19 |
 | 1984 | [[../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Los Angeles]]                 |  S  | 1984-07-28 | 1960-08-12 |
 | 1988 | [[../../../../../Earth/Continent/America~North/Canada\|Canada]]                   | [[Calgary]]                     |  W  | 1988-02-13 | 1956-02-28 |

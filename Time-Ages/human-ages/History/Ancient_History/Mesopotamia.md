@@ -51,17 +51,45 @@ Libris-URI: fcrtsnzz50p6171
 
 ## #has_/text_of_/abstract 
 
-> **Mesopotamia** is a historical region of West Asia situated within the Tigris–Euphrates river system, in the northern part of the Fertile Crescent. Today, Mesopotamia is known as present-day Iraq. In the broader sense, the historical region of Mesopotamia also includes parts of present-day Iran, Turkey, Syria and Kuwait. 
+> **Mesopotamia** is a historical region of West Asia situated within the Tigris–Euphrates river system, 
+> in the northern part of the Fertile Crescent. Today, Mesopotamia is known as present-day Iraq. 
+> In the broader sense, the historical region of Mesopotamia also includes parts of present-day Iran, 
+> Turkey, Syria and Kuwait. 
 >
-> Mesopotamia is the site of the earliest developments of the Neolithic Revolution from around 10,000 BC. It has been identified as having "inspired some of the most important developments in human history, including the invention of the wheel, the planting of the first cereal crops, the development of cursive script, mathematics, astronomy, and agriculture". It is recognised as the cradle of some of the world's earliest civilizations.
+> Mesopotamia is the site of the earliest developments of the Neolithic Revolution from around 10,000 BC. 
+> It has been identified as having "inspired some of the most important developments in human history, 
+> including the invention of the wheel, the planting of the first cereal crops, 
+> the development of cursive script, mathematics, astronomy, and agriculture". 
+> It is recognised as the cradle of some of the world's earliest civilizations.
 >
-> The Sumerians and Akkadians, each originating from different areas, dominated Mesopotamia from the beginning of recorded history (c. 3100 BC) to the fall of Babylon in 539 BC. The rise of empires, beginning with Sargon of Akkad around 2350 BC, characterized the subsequent 2,000 years of Mesopotamian history, marked by the succession of kingdoms and empires such as the Akkadian Empire. The early second millennium BC saw the polarization of Mesopotamian society into Assyria in the north and Babylonia in the south. From 900 to 612 BC, the Neo-Assyrian Empire asserted control over much of the ancient Near East. Subsequently, the Babylonians, who had long been overshadowed by Assyria, seized power, dominating the region for a century as the final independent Mesopotamian realm until the modern era. In 539 BC, Mesopotamia was conquered by the Achaemenid Empire. The area was next conquered by Alexander the Great in 332 BC. After his death, it became part of the Greek Seleucid Empire.
+> The Sumerians and Akkadians, each originating from different areas, 
+> dominated Mesopotamia from the beginning of recorded history (c. 3100 BC) 
+> to the fall of Babylon in 539 BC. 
+> 
+> The rise of empires, beginning with Sargon of Akkad around 2350 BC, 
+> characterized the subsequent 2,000 years of Mesopotamian history, 
+> marked by the succession of kingdoms and empires such as the Akkadian Empire. 
+> 
+> The early second millennium BC saw the polarization of Mesopotamian society into Assyria in the north 
+> and Babylonia in the south. 
+> 
+> From 900 to 612 BC, the Neo-Assyrian Empire asserted control over much of the ancient Near East. 
+> Subsequently, the Babylonians, who had long been overshadowed by Assyria, seized power, 
+> dominating the region for a century as the final independent Mesopotamian realm until the modern era. 
+> In 539 BC, Mesopotamia was conquered by the Achaemenid Empire. 
+> The area was next conquered by Alexander the Great in 332 BC. 
+> After his death, it became part of the Greek Seleucid Empire.
 >
 > Around 150 BC, Mesopotamia was under the control of the Parthian Empire. 
 > It became a battleground between the Romans and Parthians, 
 > with western parts of the region coming under ephemeral Roman control. 
 > 
-> In 226 AD, the eastern regions of Mesopotamia fell to the Sassanid Persians. The division of the region between the Roman Byzantine Empire from 395 AD and the Sassanid Empire lasted until the 7th century Muslim conquest of Persia of the Sasanian Empire and the Muslim conquest of the Levant from the Byzantines. A number of primarily neo-Assyrian and Christian native Mesopotamian states existed between the 1st century BC and 3rd century AD, including Adiabene, Osroene, and Hatra.
+> In 226 AD, the eastern regions of Mesopotamia fell to the Sassanid Persians. 
+> The division of the region between the Roman Byzantine Empire from 395 AD and the Sassanid Empire 
+> lasted until the 7th century Muslim conquest of Persia of the Sasanian Empire 
+> and the Muslim conquest of the Levant from the Byzantines. 
+> A number of primarily neo-Assyrian and Christian native Mesopotamian states existed 
+> between the 1st century BC and 3rd century AD, including Adiabene, Osroene, and Hatra.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesopotamia) 
 

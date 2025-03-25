@@ -46,7 +46,9 @@ MeSH tree code:
   - I01.696.050
   - I01.880.735.820.500.125
 "dissolved, abolished or demolished date": 1991-01-01T00:00:00Z
+has_time_stopped: 1991-01-01T00:00:00Z 
 inception: 1948-01-01T00:00:00Z
+has_time_started: 1948-01-01T00:00:00Z 
 ---
 
 

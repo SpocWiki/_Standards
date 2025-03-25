@@ -258,8 +258,10 @@ official name: Союз Советских Социалистических Ре
 native label: Союз Советских Социалистических Республик
 name in native language: Союз Советских Социалистических Республик
 "dissolved, abolished or demolished date": 1991-12-26T00:00:00Z
+has_time_stopped: 1991-12-26T00:00:00Z 
 coordinate location: Point(90.0 65.0)
 inception: 1922-12-30T00:00:00Z
+has_time_started: 1922-12-30T00:00:00Z 
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Soviet%20Union%20banner.jpg
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Soviet%20Union%20on%20the%20globe%20%28Soviet%20Union%20centered%29.svg
 Stack Exchange tag: https://history.stackexchange.com/tags/soviet-union

@@ -44,6 +44,8 @@ MeSH tree code: Z01.586.035.519
 start time: -1200-01-01T00:00:00Z
 ---
 
+#has_/time_/started :: -1200-06 
+#has_/time_/started :: 0600-06 
 
 ## #has_/text_of_/abstract 
 

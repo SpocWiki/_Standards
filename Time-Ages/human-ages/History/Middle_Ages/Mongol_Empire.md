@@ -37,6 +37,7 @@ currency: "[[_Standards/WikiData/WD~balysh,4077050]]"
 topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42351369,42351369]]"
 flag: "[[_Standards/WikiData/WD~Flag of the Mongol Empire,65406099]]"
 inception: 1206-01-01T00:00:00Z
+has_time_started: 1206-01-01T00:00:00Z 
 seal image: http://commons.wikimedia.org/wiki/Special:FilePath/Imperial%20Seal%20of%20the%20Mongols%201246.svg
 head of state:
   - "[[_Standards/WikiData/WD~Genghis Khan,720]]"
@@ -62,6 +63,7 @@ Commons category: Mongol Empire
 native label: Их Монгол улс
 official name: Их Монгол улс
 "dissolved, abolished or demolished date": 1368-01-01T00:00:00Z
+has_time_stopped: 1368-01-01T00:00:00Z 
 ---
 
 

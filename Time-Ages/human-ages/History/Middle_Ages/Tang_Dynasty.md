@@ -36,8 +36,10 @@ locator map image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Empire.gif
 end time: 0907-01-01T00:00:00Z
 "dissolved, abolished or demolished date": 0907-01-01T00:00:00Z
+has_time_stopped: 0907-01-01T00:00:00Z 
 start time: 0618-01-01T00:00:00Z
 inception: 0618-01-01T00:00:00Z
+has_time_started: 0618-01-01T00:00:00Z 
 located in the present-day administrative territorial entity:
   - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
   - "[[_Standards/WikiData/WD~North Korea,423]]"

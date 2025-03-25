@@ -729,9 +729,9 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 > the Empire was in turn transformed into the semi-presidential Weimar Republic. 
 > 
 > The Nazi seizure of power in 1933 led to the establishment of a totalitarian dictatorship, 
-> [[../../../../Time-Ages/human-ages/History/World_War_II|World War II]], and the [[../../../../Time-Ages/human-ages/History/Holocaust|Holocaust]]. 
+> [[../../../../Time-Ages/human-ages/History/Modern_History/World_War_II|World War II]], and the [[../../../../Time-Ages/human-ages/History/Modern_History/Holocaust|Holocaust]]. 
 > 
-> After the end of [[../../../../Time-Ages/human-ages/History/World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
+> After the end of [[../../../../Time-Ages/human-ages/History/Modern_History/World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
 > Germany as a whole was organized into two separate polities with limited sovereignty: 
 > the [[Germany/Germany~West|Federal Republic of Germany]], generally known as West Germany, 
 > and the [[Germany/Germany~East|German Democratic Republic]], known as [[Germany/Germany~East|East Germany]], 
