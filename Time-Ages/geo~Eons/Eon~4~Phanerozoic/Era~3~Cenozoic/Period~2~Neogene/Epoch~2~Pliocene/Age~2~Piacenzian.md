@@ -7,8 +7,8 @@ A time period from 3.60 to 2.58 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Gelasian]]   
-#has_/next_item :: [[Age~3~Chibanian]]   
+#has_/prev_item :: [[Age~1~Zanclean]] 
+#has_/next_item :: [[../../Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian|Age~1~Gelasian]] 
 
 ## #has_/text_of_/abstract 
 

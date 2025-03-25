@@ -6,8 +6,8 @@ A time period from 15.98 to 13.82 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Gelasian]]   
-#has_/next_item :: [[Age~3~Chibanian]]   
+#has_/prev_item :: [[Age~2~Burdigalian]] 
+#has_/next_item :: [[Age~4~Serravallian]] 
 
 ## #has_/text_of_/abstract 
 

@@ -6,8 +6,8 @@ A time period from 27.82 to 23.03 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Gelasian]]   
-#has_/next_item :: [[Age~3~Chibanian]]   
+#has_/prev_item :: [[Age~1~Rupelian]] 
+#has_/next_item :: [[../../Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]] 
 
 ## #has_/text_of_/abstract 
 
