@@ -112,8 +112,8 @@ page banner: http://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20II
 
 #has_/time_/started :: 1939-09-01 
 #has_/time_/stopped  :: 1945-09-02 
-#has_/next_item  :: [[Modern_History/Cold_War]] 
-#has_/previous_item :: [[Modern_History/World_War_I]]
+#has_/next_item  :: [[Cold_War]] 
+#has_/previous_item :: [[World_War_I]]
 
 > **World War II** or the Second World War (1 September 1939 – 2 September 1945) 
 > was a global conflict between two major alliances: the Allies and the Axis powers. 
@@ -203,7 +203,7 @@ page banner: http://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20II
 > becoming the permanent members of its Security Council. 
 > 
 > The Soviet Union and the United States emerged as rival superpowers, 
-> setting the stage for the [[Modern_History/Cold_War]]. 
+> setting the stage for the [[Cold_War]]. 
 > In the wake of European devastation, the influence of its great powers waned, 
 > triggering the decolonisation of Africa and Asia. 
 > Most countries whose industries had been damaged 
