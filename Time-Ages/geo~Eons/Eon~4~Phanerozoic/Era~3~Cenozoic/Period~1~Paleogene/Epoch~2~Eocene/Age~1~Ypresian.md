@@ -6,8 +6,8 @@ A time period from 56.0 to 47.8 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Gelasian]]   
-#has_/next_item :: [[Age~3~Chibanian]]   
+#has_/prev_item :: [[../Epoch~1~Paleocene/Age~3~Thanetian|Age~3~Thanetian]] 
+#has_/next_item :: [[Age~2~Lutetian]] 
 
 ## #has_/text_of_/abstract 
 
