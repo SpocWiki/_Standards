@@ -1,0 +1,185 @@
+---
+aliases:
+  - Roman Empire
+has_id_wikidata: Q2277
+basic form of government:
+  - "[[_Standards/WikiData/WD~triumvirate,83204]]"
+  - "[[_Standards/WikiData/WD~autocracy,173424]]"
+  - "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
+  - "[[_Standards/WikiData/WD~monarchy,7269]]"
+official religion:
+  - "[[_Standards/WikiData/WD~Arianism,83922]]"
+  - "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
+  - "[[_Standards/WikiData/WD~Christianity,5043]]"
+  - "[[_Standards/WikiData/WD~paganism,29536]]"
+contains the administrative territorial entity:
+  - "[[_Standards/WikiData/WD~Germania Inferior,152136]]"
+  - "[[_Standards/WikiData/WD~Germania Superior,153553]]"
+  - "[[_Standards/WikiData/WD~Raetia,156789]]"
+  - "[[_Standards/WikiData/WD~Pannonia,170062]]"
+  - "[[_Standards/WikiData/WD~Africa,181238]]"
+  - "[[_Standards/WikiData/WD~Roman Britain,185103]]"
+  - "[[_Standards/WikiData/WD~Hispania,186513]]"
+  - "[[_Standards/WikiData/WD~Lusitania,188650]]"
+  - "[[_Standards/WikiData/WD~Achaea,204772]]"
+  - "[[_Standards/WikiData/WD~Gallia Belgica,206443]]"
+  - "[[_Standards/WikiData/WD~Roman Syria,207118]]"
+  - "[[_Standards/WikiData/WD~Macedonia,207497]]"
+  - "[[_Standards/WikiData/WD~Asia,210718]]"
+  - "[[_Standards/WikiData/WD~Hispania Tarraconensis,216791]]"
+  - "[[_Standards/WikiData/WD~Hispania Baetica,219415]]"
+  - "[[_Standards/WikiData/WD~Arabia Petraea,221353]]"
+  - "[[_Standards/WikiData/WD~Corsica and Sardinia,281345]]"
+  - "[[_Standards/WikiData/WD~Alpes Maritimae,309270]]"
+  - "[[_Standards/WikiData/WD~Alpes Graiae,360922]]"
+  - "[[_Standards/WikiData/WD~Alpes Cottiae,623322]]"
+  - "[[_Standards/WikiData/WD~Thracia,635058]]"
+  - "[[_Standards/WikiData/WD~Upper Pannonia,642188]]"
+  - "[[_Standards/WikiData/WD~Alpes Poeninae,660100]]"
+  - "[[_Standards/WikiData/WD~Britannia Inferior,685537]]"
+  - "[[_Standards/WikiData/WD~Sicilia,691321]]"
+  - "[[_Standards/WikiData/WD~Creta et Cyrenaica,692775]]"
+  - "[[_Standards/WikiData/WD~Gallia Aquitania,715376]]"
+  - "[[_Standards/WikiData/WD~Mauretania Caesariensis,734505]]"
+  - "[[_Standards/WikiData/WD~Hispania Ulterior,747040]]"
+  - "[[_Standards/WikiData/WD~Dacia Inferior,748818]]"
+  - "[[_Standards/WikiData/WD~Illyricum,753824]]"
+  - "[[_Standards/WikiData/WD~Mesopotamia,765845]]"
+  - "[[_Standards/WikiData/WD~Bithynia et Pontus,913382]]"
+  - "[[_Standards/WikiData/WD~Roman Italy,913582]]"
+  - "[[_Standards/WikiData/WD~Britannia Superior,918059]]"
+  - "[[_Standards/WikiData/WD~Dacia,971609]]"
+  - "[[_Standards/WikiData/WD~Judaea,1003997]]"
+  - "[[_Standards/WikiData/WD~Transalpine Gaul,1007736]]"
+  - "[[_Standards/WikiData/WD~Hispania Citerior,1126678]]"
+  - "[[_Standards/WikiData/WD~Dacia Ripensis,1156891]]"
+  - "[[_Standards/WikiData/WD~Moesia Inferior,1227719]]"
+  - "[[_Standards/WikiData/WD~Mauretania Tingitana,1244742]]"
+  - "[[_Standards/WikiData/WD~Lycia et Pamphylia,1246140]]"
+  - "[[_Standards/WikiData/WD~Lower Pannonia,1247297]]"
+  - "[[_Standards/WikiData/WD~Galatia,1249412]]"
+  - "[[_Standards/WikiData/WD~Roman Armenia,1254480]]"
+  - "[[_Standards/WikiData/WD~Dalmatia,1330965]]"
+  - "[[_Standards/WikiData/WD~Syria Palaestina,1669578]]"
+  - "[[_Standards/WikiData/WD~Epirus,1820754]]"
+  - "[[_Standards/WikiData/WD~Cyprus,2967757]]"
+  - "[[_Standards/WikiData/WD~Dacia Mediterranea,3626028]]"
+  - "[[_Standards/WikiData/WD~Cilicia,4819648]]"
+  - "[[_Standards/WikiData/WD~Osroene,11939617]]"
+  - "[[_Standards/WikiData/WD~Syria Phoenice,11950672]]"
+  - "[[_Standards/WikiData/WD~Tres Daciae,12270914]]"
+  - "[[_Standards/WikiData/WD~Numidia,12901244]]"
+  - "[[_Standards/WikiData/WD~Moesia,18236771]]"
+  - "[[_Standards/WikiData/WD~Province of Apulia and Calabria,24901055]]"
+  - "[[_Standards/WikiData/WD~Coele-Syria,27150039]]"
+  - "[[_Standards/WikiData/WD~Gallia Lugdunensis,10971]]"
+  - "[[_Standards/WikiData/WD~Gallia Narbonensis,26897]]"
+  - "[[_Standards/WikiData/WD~Cappadocia,33490]]"
+  - "[[_Standards/WikiData/WD~Assyria,40169]]"
+coat of arms:
+  - "[[_Standards/WikiData/WD~Roman legion,163323]]"
+  - "[[_Standards/WikiData/WD~vexillum,264655]]"
+different from: "[[_Standards/WikiData/WD~Latin Empire,178897]]"
+flag: "[[_Standards/WikiData/WD~vexillum,264655]]"
+diplomatic relation:
+  - "[[_Standards/WikiData/WD~Hibernia,302980]]"
+  - "[[_Standards/WikiData/WD~Han dynasty,7209]]"
+  - "[[_Standards/WikiData/WD~Germania,62646]]"
+religion or worldview: "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
+office held by head of state: "[[_Standards/WikiData/WD~Roman emperor,842606]]"
+currency: "[[_Standards/WikiData/WD~Roman currency,952064]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Book of Jin,1154753]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+said to be the same as: "[[_Standards/WikiData/WD~Daqin,1521359]]"
+shares border with: "[[_Standards/WikiData/WD~Parthian Empire,1986139]]"
+history of topic: "[[_Standards/WikiData/WD~history of the Roman Empire,2671119]]"
+instance of:
+  - "[[_Standards/WikiData/WD~historical country,3024240]]"
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
+legislative body: "[[_Standards/WikiData/WD~Senate of the Roman Empire,3510883]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of the Roman Empire,3718695]]"
+participant in: "[[_Standards/WikiData/WD~military history of ancient Rome,3974187]]"
+capital:
+  - "[[_Standards/WikiData/WD~Roma,18287233]]"
+  - "[[_Standards/WikiData/WD~Milan,490]]"
+  - "[[_Standards/WikiData/WD~Ravenna,13364]]"
+  - "[[_Standards/WikiData/WD~Constantinople,16869]]"
+  - "[[_Standards/WikiData/WD~Rome,220]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of the Roman Empire,21192389]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q21201536,21201536]]"
+category for people born here: "[[_Standards/WikiData/WD~Q32642796,32642796]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42353313,42353313]]"
+category for people who died here: "[[_Standards/WikiData/WD~Q42859641,42859641]]"
+"dissolved, abolished or demolished date": 0395-01-18T00:00:00Z
+end time: 0395-01-01T00:00:00Z
+start time: -0026-01-01T00:00:00Z
+demonym:
+  - erromatar
+  - Rimljan
+  - Rimljanka
+  - Rómhánach
+  - Roman
+  - romana
+  - Römer
+  - Romiano
+  - romanas
+  - romano
+  - romanos
+  - római
+  - Romani
+  - Rzymianin
+  - Rzymianka
+  - romano
+  - римляни
+Commons gallery: Atlas of ancient Rome
+ISNI: "0000000121065979"
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Imperio%20romano%20%28hablado%20por%20voz%20AI%29.mp3
+language used:
+  - "[[_Standards/WikiData/WD~Latin,397]]"
+  - "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+official language:
+  - "[[_Standards/WikiData/WD~Latin,397]]"
+  - "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+founded by: "[[_Standards/WikiData/WD~Augustus,1405]]"
+replaced by:
+  - "[[_Standards/WikiData/WD~Byzantine Empire,12544]]"
+  - "[[_Standards/WikiData/WD~Western Roman Empire,42834]]"
+named after:
+  - "[[_Standards/WikiData/WD~Province of Imperia,16186]]"
+  - "[[_Standards/WikiData/WD~Rome,220]]"
+continent:
+  - "[[_Standards/WikiData/WD~Africa,15]]"
+  - "[[_Standards/WikiData/WD~Europe,46]]"
+  - "[[_Standards/WikiData/WD~Asia,48]]"
+population: 87500000
+area: 5957000
+native label:
+  - Imperium Romanum
+  - Βασιλεία τῶν Ῥωμαίων
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20Theatre%20Leptis%20Magna%20Libya.JPG
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20mosaic%20banner.JPG
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Empire%20Trajan%20117AD.png
+Iconclass notation: 23S14
+OmegaWiki Defined Meaning: "913359"
+Wolfram Language entity code: Entity["HistoricalCountry", "RomanEmpire"]
+Commons category: Roman Empire
+coordinate location: Point(12.5 41.9)
+---
+
+
+## #has_/text_of_/abstract 
+
+> The **Roman Empire** ruled the Mediterranean and much of Europe, Western Asia and North Africa. The Romans conquered most of this during the Republic, and it was ruled by emperors following Octavian's  assumption of effective sole rule in 27 BC. The western empire collapsed in 476 AD, but the eastern empire lasted until the fall of Constantinople in 1453.
+>
+> By 100 BC, the city of Rome had expanded its rule to most of the Mediterranean and beyond. However, it was severely destabilised by civil wars and political conflicts, which culminated in the victory of Octavian over Mark Antony and Cleopatra at the Battle of Actium in 31 BC, and the subsequent conquest of the Ptolemaic Kingdom in Egypt. In 27 BC, the Roman Senate granted Octavian overarching military power (imperium) and the new title of Augustus, marking his accession as the first Roman emperor. The vast Roman territories were organized into senatorial provinces, governed by proconsuls who were appointed by lot annually, and imperial provinces, which belonged to the emperor but were governed by legates.
+>
+> The first two centuries of the Empire saw a period of unprecedented stability and prosperity known as the Pax Romana (lit. 'Roman Peace'). Rome reached its greatest territorial extent under Trajan (r. 98–117 AD), but a period of increasing trouble and decline began under Commodus (r. 180–192). In the 3rd century, the Empire underwent a 49-year crisis that threatened its existence due to civil war, plagues and barbarian invasions. The Gallic and Palmyrene empires broke away from the state and a series of short-lived emperors led the Empire, which was later reunified under Aurelian (r. 270–275). The civil wars ended with the victory of Diocletian (r. 284–305), who set up two different imperial courts in the Greek East and Latin West. Constantine the Great (r. 306–337), the first Christian emperor, moved the imperial seat from Rome to Byzantium in 330, and renamed it Constantinople. The Migration Period, involving large invasions by Germanic peoples and by the Huns of Attila, led to the decline of the Western Roman Empire. With the fall of Ravenna to the Germanic Herulians and the deposition of Romulus Augustus in 476 by Odoacer, the Western Empire finally collapsed. The Byzantine (Eastern Roman) Empire survived for another millennium with Constantinople as its sole capital, until the city's fall in 1453.
+>
+> Due to the Empire's extent and endurance, its institutions and culture had a lasting influence on the development of language, religion, art, architecture, literature, philosophy, law, and forms of government across its territories. Latin evolved into the Romance languages while Medieval Greek became the language of the East. The Empire's adoption of Christianity resulted in the formation of medieval Christendom. Roman and Greek art had a profound impact on the Italian Renaissance. Rome's architectural tradition served as the basis for Romanesque, Renaissance and Neoclassical architecture, influencing Islamic architecture. The rediscovery of classical science and technology (which formed the basis for Islamic science) in medieval Europe contributed to the Scientific Renaissance and Scientific Revolution. Many modern legal systems, such as the Napoleonic Code, descend from Roman law. Rome's republican institutions have influenced the Italian city-state republics of the medieval period, the early United States, and modern democratic republics.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Roman%20Empire) 
+
+
