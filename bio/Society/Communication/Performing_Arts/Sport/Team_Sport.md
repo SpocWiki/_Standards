@@ -57,8 +57,6 @@ Wikidata_usage_instructions:
   - Only use for a season of a sports league or cup, not for seasons of a sports club.
 ---
 
-`=this.said_to_be_the_same_as`
-`=this.Wikidata_usage_instructions`
 
 ## #has_/text_of_/abstract 
 
