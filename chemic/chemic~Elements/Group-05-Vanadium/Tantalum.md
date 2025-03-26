@@ -86,6 +86,7 @@ Unicode character: 鉭
 [GroupName::Group-05-Vanadium]
 [Group::[[Group-05-Vanadium]]]
 
+`=this["Dewey Decimal Classification"]`
 
 [Name-en::Tantalum]
 [Name-de::Tantal]
