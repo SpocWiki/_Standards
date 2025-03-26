@@ -1,33 +1,35 @@
 ---
-Unicode character: 𨧀
-time of discovery or invention: 1970-02-18T00:00:00Z
+Unicode_character: 𨧀
+time_of_discovery_or_invention: 1970-02-18T00:00:00Z
 type: Element
 SpocWebEntityId: 22000
 has_id_wikidata: Q1232
-named after: "[[_Standards/WikiData/WD~Dubna,135466]]"
-part of:
+named_after: "[[_Standards/WikiData/WD~Dubna,135466]]"
+part_of:
   - "[[_Standards/WikiData/WD~group 5,193276]]"
   - "[[_Standards/WikiData/WD~period 7,244979]]"
-discoverer or inventor:
+discoverer_or_inventor:
   - "[[_Standards/WikiData/WD~Joint Institute for Nuclear Research,259517]]"
   - "[[_Standards/WikiData/WD~Lawrence Berkeley National Laboratory,1133630]]"
-instance of:
+instance_of:
   - "[[_Standards/WikiData/WD~synthetic element,755992]]"
   - "[[_Standards/WikiData/WD~chemical element,11344]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-has characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
-subclass of: "[[_Standards/WikiData/WD~transition metal,19588]]"
-atomic number: 105
-OmegaWiki Defined Meaning: "157650"
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%B9.jpg
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20105%20Dubnium.svg
-electron configuration: "[Rn] 5f¹⁴ 6d³ 7s²"
-CAS Registry Number: 53850-35-4
-EC number: 611-058-7
-element symbol: Db
-DSSTOX compound identifier: DTXCID801323011
-Commons gallery: Dubnium
-Commons category: Dubnium
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~transition metal,19588]]"
+atomic_number: 105
+OmegaWiki_Defined_Meaning: 157650
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%B9.jpg
+schematic:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20105%20Dubnium.svg
+electron_configuration: "[Rn] 5f¹⁴ 6d³ 7s²"
+CAS_Registry_Number: 53850-35-4
+EC_number: 611-058-7
+element_symbol: Db
+DSSTOX_compound_identifier: DTXCID801323011
+Commons_gallery: Dubnium
+Commons_category: Dubnium
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Dubnium,1232]] 
