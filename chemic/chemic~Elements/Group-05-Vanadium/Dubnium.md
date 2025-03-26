@@ -1,4 +1,6 @@
 ---
+Unicode character: 𨧀
+time of discovery or invention: 1970-02-18T00:00:00Z
 type: Element
 SpocWebEntityId: 22000
 has_id_wikidata: Q1232
@@ -26,8 +28,6 @@ element symbol: Db
 DSSTOX compound identifier: DTXCID801323011
 Commons gallery: Dubnium
 Commons category: Dubnium
-Unicode character: 𨧀
-time of discovery or invention: 1970-02-18T00:00:00Z
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Dubnium,1232]] 
