@@ -87,6 +87,8 @@ Unicode_character: 鉭
 [Group::[[Group-05-Vanadium]]]
 
 `=this["Dewey Decimal Classification"]`
+`=this.Dewey_Decimal_Classification`
+`=this.oxidation_state[2]`
 
 [Name-en::Tantalum]
 [Name-de::Tantal]
