@@ -39,7 +39,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-[ #is_/sub_class_of :[[../Thing|Thing]]]] ] 
+[ #is_/sub_class_of :: [[../Thing|Thing]]]] ] 
 
 [ #has_/properties :: [ additionalType, alternateName, childTaxon, description, disambiguatingDescription, hasDefinedTerm, identifier, image, mainEntityOfPage, name, parentTaxon, potentialAction, sameAs, subjectOf, taxonRank, url ] ]
 

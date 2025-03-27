@@ -1,54 +1,54 @@
----
+﻿---
 has_id_wikidata: Q11016
-Commons category: Technology
+Commons_category: Technology
 hashtag: Technology
-instance of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-history of topic: "[[_Standards/WikiData/WD~history of technology,465352]]"
-studied in:
-  - "[[_Standards/WikiData/WD~technology assessment,746994]]"
-  - "[[_Standards/WikiData/WD~sociotechnology,1380539]]"
-  - "[[_Standards/WikiData/WD~science and technology studies,2445082]]"
-part of:
-  - "[[_Standards/WikiData/WD~technical system,994895]]"
-  - "[[_Standards/WikiData/WD~science, technology, engineering, and mathematics,1881523]]"
-described by source:
-  - "[[_Standards/WikiData/WD~The Verge,2155442]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-is the study of: "[[_Standards/WikiData/WD~technique,2695280]]"
-uses: "[[_Standards/WikiData/WD~technique,2695280]]"
-has effect: "[[_Standards/WikiData/WD~convenience,5166129]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of technology,7112740]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Technology topics,8084427]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Technology,9497549]]"
-practiced by: "[[_Standards/WikiData/WD~technologist,12376667]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Technology,13172422]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~technological maturity,110226548]]"
-  - "[[_Standards/WikiData/WD~type of technology,112057532]]"
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Vealhurl-technology.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7.wav
-UMLS CUI: C0039421
-manifestation of: "[[_Standards/WikiData/WD~applied science,28797]]"
-has contributing factor: "[[_Standards/WikiData/WD~applied science,28797]]"
-subclass of: "[[_Standards/WikiData/WD~science and technology,34104]]"
-Colon Classification: F
-OmegaWiki Defined Meaning: "3726"
-IAB code: "596"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Berria%20ez%20da%20beti%20hobea.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Technologie.jpg
-U.S. National Archives Identifier: "10642838"
-Dewey Decimal Classification: "405.09"
-Iconclass notation: "49E7"
-MeSH tree code: J01.897
+instance_of:
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of technology,465352]]"
+studied_in:
+- "[[_Standards/WikiData/WD~technology assessment,746994]]"
+- '[[_Standards/WikiData/WD~sociotechnology,1380539]]'
+- "[[_Standards/WikiData/WD~science and technology studies,2445082]]"
+part_of:
+- "[[_Standards/WikiData/WD~technical system,994895]]"
+- "[[_Standards/WikiData/WD~science, technology, engineering, and mathematics,1881523]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~The Verge,2155442]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+is_the_study_of: '[[_Standards/WikiData/WD~technique,2695280]]'
+uses: '[[_Standards/WikiData/WD~technique,2695280]]'
+has_effect: '[[_Standards/WikiData/WD~convenience,5166129]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of technology,7112740]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Technology topics,8084427]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Technology,9497549]]"
+practiced_by: '[[_Standards/WikiData/WD~technologist,12376667]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Technology,13172422]]'
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~technological maturity,110226548]]"
+- "[[_Standards/WikiData/WD~type of technology,112057532]]"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Vealhurl-technology.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7.wav"
+UMLS_CUI: C0039421
+manifestation_of: "[[_Standards/WikiData/WD~applied science,28797]]"
+has_contributing_factor: "[[_Standards/WikiData/WD~applied science,28797]]"
+subclass_of: "[[_Standards/WikiData/WD~science and technology,34104]]"
+Colon_Classification: F
+OmegaWiki_Defined_Meaning: 3726
+IAB_code: 596
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Berria%20ez%20da%20beti%20hobea.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Technologie.jpg"
+U_S_National_Archives_Identifier: 10642838
+Dewey_Decimal_Classification: 405.09
+Iconclass_notation: 49E7
+MeSH_tree_code: J01.897
 subreddit:
-  - tech
-  - technology
+- tech
+- technology
 ---
 
 ## #has_/text_of_/abstract 

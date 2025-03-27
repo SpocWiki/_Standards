@@ -2,7 +2,7 @@
 
 #is_a_/time_/Age 
 
-#is_/similar_to :: [[]]
+#is_/similar_to :: "[[]]"
 
 #has_/time_/started :: -2.58e6 
 #has_/time_/stopped :: -1.80e6 

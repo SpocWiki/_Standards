@@ -6,7 +6,7 @@ aliases:
 # [[Epoch~1~Pleistocene]] 
 
 #is_a_/time_/Epoch 
-#is_/similar_to :: [[]]
+#is_/similar_to :: "[[]]"
 
 #has_/abbreviation :: Q1
 

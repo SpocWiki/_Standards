@@ -1,64 +1,61 @@
----
-has_id_wikidata: Q2 
+﻿---
+has_id_wikidata: Q2
 icon: earth_americas
 aliases:
-  - Earth
-  - geo
-
+- Earth
+- geo
 area: 510064472
-UMLS CUI: C0242744
+UMLS_CUI: C0242744
 periapsis: 147095000
-time of periapsis: 2459218.90577274
-argument of periapsis: 114.20783
+time_of_periapsis: 2459218.90577274
+argument_of_periapsis: 114.20783
 apoapsis:
-  - 1.00000261
-  - 1.01671388
-  - 151930000
-image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20%285052124705%29.jpg
-distance from Earth: 0
-semi-major axis of an orbit:
-  - 149598023
-  - 1
-rotation period: 24
-coordinates of southernmost point: Point(0.0 -90.0)
-coordinates of northernmost point: Point(0.0 90.0)
-longitude of ascending node: 348.73936
-inception: -4540000000-01-01T00:00:00Z 
-has_time_started: -4540000000-01-01T00:00:00Z 
-highest point: "[[_Standards/WD/WD~Mount_Everest,513]]"
-lowest point: "[[_Standards/WD/WD~Challenger_Deep,459173]]"
-opposite of: "[[_Standards/WD/WD~sky,527]]"
-parent astronomical body: "[[_Standards/WD/WD~Sun,525]]"
-minimum temperature record: -89.2
-maximum temperature record: 56.7
+- 1.00000261
+- 1.01671388
+- 151930000
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20%285052124705%29.jpg"
+distance_from_Earth: 0
+semi-major_axis_of_an_orbit:
+- 149598023
+- 1
+rotation_period: 24
+coordinates_of_southernmost_point: "Point(0.0 -90.0)"
+coordinates_of_northernmost_point: "Point(0.0 90.0)"
+longitude_of_ascending_node: 348.73936
+inception: "-4540000000-01-01T00:00:00Z"
+has_time_started: "-4540000000-01-01T00:00:00Z"
+highest_point: '[[_Standards/WD/WD~Mount_Everest,513]]'
+lowest_point: '[[_Standards/WD/WD~Challenger_Deep,459173]]'
+opposite_of: '[[_Standards/WD/WD~sky,527]]'
+parent_astronomical_body: '[[_Standards/WD/WD~Sun,525]]'
+minimum_temperature_record: -89.2
+maximum_temperature_record: 56.7
 temperature: 15
-said to be the same as: "[[_Standards/WD/WD~world,16502]]"
+said_to_be_the_same_as: '[[_Standards/WD/WD~world,16502]]'
 population: 8028504258
-number of out-of-school children: 264000000
+number_of_out-of-school_children: 264000000
 albedo:
-  - 0.306
-  - 0.434
-magnetic moment: 7.84e+22
+- 0.306
+- 0.434
+magnetic_moment: 7.84e+22
 speed: 107200
 density: 5514
 diameter: 12742
 radius:
-  - 6378.137
-  - 6371
-  - 6356.8
-orbital inclination:
-  - 7.155
-  - 1.57869
-surface gravity: 9.798
+- 6378.137
+- 6371
+- 6356.8
+orbital_inclination:
+- 7.155
+- 1.57869
+surface_gravity: 9.798
 perimeter:
-  - 24901
-  - 40075
+- 24901
+- 40075
 flattening: 0.0033528
-volume as quantity: 1083210000000
-mean anomaly: 358.617
+volume_as_quantity: 1083210000000
+mean_anomaly: 358.617
 mass: 5972.37
-
-
 ---
 # [[Earth]] 
 

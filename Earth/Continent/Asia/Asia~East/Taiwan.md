@@ -505,9 +505,9 @@ For more Details, check out this Repository into this Subfolder:
 [	UNTERM_Russian	 ::  ]
 [	UNTERM_Russian_Formal	 ::  ]
 
-Region_Name ::  [[]] 
+Region_Name ::  "[[]]" 
 Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[]] ] 
+Sub-region_Name ::  "[[]]" ] 
 
 [	Region	 ::  ]
 [	Intermediate_Region	 ::  ]

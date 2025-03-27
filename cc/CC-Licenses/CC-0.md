@@ -15,8 +15,8 @@ has_/time_/created:
 has_/time_/destroyed:
 has_/location_/created:
 has_/location_/destroyed:
-has_/creator: [[]]
-has_/destroyer: [[]]
+has_/creator: "[[]]"
+has_/destroyer: "[[]]"
 
 # Manage this File
 isDeleted: false
@@ -26,7 +26,7 @@ confidential: private
 # any other Data:
 Key: Value
 Predicate: #Object
-Predicate: [[Object]]
+Predicate: "[[Object]]"
 
 #Obsidian well-known Keys
 cssclasses:

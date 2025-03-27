@@ -34,7 +34,7 @@ has_time_started: 2023-12-06
 # any other Data:
 Key: Value
 Predicate: #Object
-Predicate: [[Object]]
+Predicate: "[[Object]]"
 
 lang: en
 ---

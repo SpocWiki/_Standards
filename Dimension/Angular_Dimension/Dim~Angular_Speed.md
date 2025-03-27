@@ -10,7 +10,7 @@ aliases:
 
 Speed is the first Derivative of the [[../../Mathematics/Geometry/Rotation-Vector|Rotation-Vector]] by [[../Dim~Time]]. 
 
-#has_/unit_for_ :: [[]]
+#has_/unit_for_ :: "[[]]"
 
 
 ## Confidential Links & Embeds: 
