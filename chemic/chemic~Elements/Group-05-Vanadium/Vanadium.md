@@ -1,76 +1,76 @@
----
+﻿---
 type: Element
 has_id_wikidata: Q722
-chemical formula: V
-element symbol: V
-Commons category: Vanadium
-Commons gallery: Vanadium
-Unicode character: 釩
-melting point: 1887
-boiling point: 3377
+chemical_formula: V
+element_symbol: V
+Commons_category: Vanadium
+Commons_gallery: Vanadium
+Unicode_character: 釩
+melting_point: 1887
+boiling_point: 3377
 mass: 50.9415
-time of discovery or invention: 1801-01-01T00:00:00Z
-part of:
-  - "[[_Standards/WikiData/WD~group 5,193276]]"
-  - "[[_Standards/WikiData/WD~period 4,239825]]"
-made from material:
-  - "[[_Standards/WikiData/WD~vanadinite,407251]]"
-  - "[[_Standards/WikiData/WD~carnotite,409100]]"
-  - "[[_Standards/WikiData/WD~patrónite,416203]]"
-  - "[[_Standards/WikiData/WD~shcherbinaite,3959261]]"
-  - "[[_Standards/WikiData/WD~colimaite,5144828]]"
-  - "[[_Standards/WikiData/WD~ardennite-(V),19799657]]"
-  - "[[_Standards/WikiData/WD~rhabdoborite-(V),55876690]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Andrés Manuel del Río,524465]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~EB-11 _ Vanadium,84669050]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-named after: "[[_Standards/WikiData/WD~Freyja,1647325]]"
-subject has role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-subclass of: "[[_Standards/WikiData/WD~transition metal,19588]]"
-oxidation state: 5
-atomic number: 23
-ionic radius:
-  - 0.36
-  - 0.46
-  - 0.53
-  - 0.54
-  - 0.58
-  - 0.64
-  - 0.72
-  - 0.76
+time_of_discovery_or_invention: "1801-01-01T00:00:00Z"
+part_of:
+- "[[_Standards/WikiData/WD~group 5,193276]]"
+- "[[_Standards/WikiData/WD~period 4,239825]]"
+made_from_material:
+- '[[_Standards/WikiData/WD~vanadinite,407251]]'
+- '[[_Standards/WikiData/WD~carnotite,409100]]'
+- '[[_Standards/WikiData/WD~patrónite,416203]]'
+- '[[_Standards/WikiData/WD~shcherbinaite,3959261]]'
+- '[[_Standards/WikiData/WD~colimaite,5144828]]'
+- '[[_Standards/WikiData/WD~ardennite-(V),19799657]]'
+- '[[_Standards/WikiData/WD~rhabdoborite-(V),55876690]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Andrés Manuel del Río,524465]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~EB-11 _ Vanadium,84669050]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+named_after: '[[_Standards/WikiData/WD~Freyja,1647325]]'
+subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+subclass_of: "[[_Standards/WikiData/WD~transition metal,19588]]"
+oxidation_state: 5
+atomic_number: 23
+ionic_radius:
+- 0.36
+- 0.46
+- 0.53
+- 0.54
+- 0.58
+- 0.64
+- 0.72
+- 0.76
 electronegativity: 1.63
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium-ar.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium%201.jpg
-electron configuration: "[Ar] 3d³ 4s²"
-canonical SMILES: "[V]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium-ar.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium%201.jpg"
+electron_configuration: "[Ar] 3d³ 4s²"
+canonical_SMILES: '[V]'
 UNII: 00J9J9XKDE
-U.S. National Archives Identifier: "10645191"
-Common Procurement Vocabulary code: "14725000"
-Gmelin number: "16007"
-EC number: 231-171-1
-PubChem CID: "23990"
-OmegaWiki Defined Meaning: "3940"
-Dewey Decimal Classification: "546.522"
-CAS Registry Number: 7440-62-2
-ZVG number: "8180"
-CPV Supplementary code: AA13
-UMLS CUI: C0042306
-MeSH tree code:
-  - D01.268.556.920
-  - D01.268.956.886
-  - D01.552.544.920
-DSSTOX compound identifier: DTXCID0020282
+U_S_National_Archives_Identifier: 10645191
+Common_Procurement_Vocabulary_code: 14725000
+Gmelin_number: 16007
+EC_number: 231-171-1
+PubChem_CID: 23990
+OmegaWiki_Defined_Meaning: 3940
+Dewey_Decimal_Classification: 546.522
+CAS_Registry_Number: 7440-62-2
+ZVG_number: 8180
+CPV_Supplementary_code: AA13
+UMLS_CUI: C0042306
+MeSH_tree_code:
+- D01.268.556.920
+- D01.268.956.886
+- D01.552.544.920
+DSSTOX_compound_identifier: DTXCID0020282
 InChI: InChI=1S/V
 InChIKey: LEONUFNNVUYDNQ-UHFFFAOYSA-N
 ---

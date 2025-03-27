@@ -2,83 +2,83 @@
 type: Element
 SpocWebEntityId: 21969
 has_id_wikidata: Q1123
-named after: "[[_Standards/WikiData/WD~Tantalus,182101]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 5,193276]]"
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-different from: "[[_Standards/WikiData/WD~Q397676,397676]]"
-made from material:
-  - "[[_Standards/WikiData/WD~fergusonite-(REE) series,412914]]"
-  - "[[_Standards/WikiData/WD~tantalite,637080]]"
-  - "[[_Standards/WikiData/WD~euxenite-(Y),1146596]]"
-  - "[[_Standards/WikiData/WD~microlite,2738846]]"
-  - "[[_Standards/WikiData/WD~samarskite mineral group,3777808]]"
-  - "[[_Standards/WikiData/WD~polycrase-(Y),3907734]]"
-  - "[[_Standards/WikiData/WD~wodginite,4020618]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Anders Gustaf Ekeberg,468303]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-canonical SMILES: "[Ta]"
-electron configuration: "[Xe] 4f¹⁴ 5d³ 6s²"
-EC number: 231-135-5
-Dewey Decimal Classification: "546.526"
+named_after: '[[_Standards/WikiData/WD~Tantalus,182101]]'
+part_of:
+- "[[_Standards/WikiData/WD~group 5,193276]]"
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+different_from: '[[_Standards/WikiData/WD~Q397676,397676]]'
+made_from_material:
+- "[[_Standards/WikiData/WD~fergusonite-(REE) series,412914]]"
+- '[[_Standards/WikiData/WD~tantalite,637080]]'
+- '[[_Standards/WikiData/WD~euxenite-(Y),1146596]]'
+- '[[_Standards/WikiData/WD~microlite,2738846]]'
+- "[[_Standards/WikiData/WD~samarskite mineral group,3777808]]"
+- '[[_Standards/WikiData/WD~polycrase-(Y),3907734]]'
+- '[[_Standards/WikiData/WD~wodginite,4020618]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Anders Gustaf Ekeberg,468303]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+canonical_SMILES: '[Ta]'
+electron_configuration: "[Xe] 4f¹⁴ 5d³ 6s²"
+EC_number: 231-135-5
+Dewey_Decimal_Classification: 546.526
 UNII: 6424HBN274
-CAS Registry Number: 7440-25-7
-CPV Supplementary code: AA26
-MeSH tree code:
-  - D01.268.556.837
-  - D01.268.956.859
-  - D01.552.544.837
-DSSTOX compound identifier: DTXCID6047654
-Wolfram Language entity code: Entity["Mineral", "Tantalum"]
+CAS_Registry_Number: 7440-25-7
+CPV_Supplementary_code: AA26
+MeSH_tree_code:
+- D01.268.556.837
+- D01.268.956.859
+- D01.552.544.837
+DSSTOX_compound_identifier: DTXCID6047654
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tantalum\"]"
 InChIKey: GUVRBAGPIYLISA-UHFFFAOYSA-N
 InChI: InChI=1S/Ta
-RTECS number: WW5505000
-associated hazard: "[[_Standards/WikiData/WD~tantalum exposure,21175333]]"
-has effect: "[[_Standards/WikiData/WD~tantalum exposure,21175333]]"
-UMLS CUI: C0039297
-Common Procurement Vocabulary code:
-  - 14754000-1
-  - "14754000"
-subclass of: "[[_Standards/WikiData/WD~metal,11426]]"
-vapor pressure: 0
-short-term exposure limit: 10
-minimum explosive concentration: 200
-oxidation state:
-  - 2
-  - 3
-  - 4
-  - 5
-time-weighted average exposure limit: 5
+RTECS_number: WW5505000
+associated_hazard: "[[_Standards/WikiData/WD~tantalum exposure,21175333]]"
+has_effect: "[[_Standards/WikiData/WD~tantalum exposure,21175333]]"
+UMLS_CUI: C0039297
+Common_Procurement_Vocabulary_code:
+- 14754000-1
+- 14754000
+subclass_of: '[[_Standards/WikiData/WD~metal,11426]]'
+vapor_pressure: 0
+short_term_exposure_limit: 10
+minimum_explosive_concentration: 200
+oxidation_state:
+- 2
+- 3
+- 4
+- 5
+time_weighted_average_exposure_limit: 5
 electronegativity: 1.5
-immediately dangerous to life or health: 2500
-thermal conductivity: 54
-ionic radius:
-  - 0.64
-  - 0.68
-  - 0.72
-atomic number: 73
+immediately_dangerous_to_life_or_health: 2500
+thermal_conductivity: 54
+ionic_radius:
+- 0.64
+- 0.68
+- 0.72
+atomic_number: 73
 density: 16.65
-melting point: 5425
-boiling point: 9797
-PubChem CID: "23956"
-ZVG number: "8440"
-OmegaWiki Defined Meaning: "360513"
-Commons category: Tantalum
-element symbol: Ta
-chemical formula: Ta
+melting_point: 5425
+boiling_point: 9797
+PubChem_CID: 23956
+ZVG_number: 8440
+OmegaWiki_Defined_Meaning: 360513
+Commons_category: Tantalum
+element_symbol: Ta
+chemical_formula: Ta
 mass: 180.94788
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tantalum%20single%20crystal%20and%201cm3%20cube.jpg
-time of discovery or invention: 1802-01-01T00:00:00Z
-Unicode character: 鉭
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tantalum%20single%20crystal%20and%201cm3%20cube.jpg"
+time_of_discovery_or_invention: "1802-01-01T00:00:00Z"
+Unicode_character: 鉭
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Tantalum,1123]] 

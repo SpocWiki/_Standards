@@ -1,66 +1,66 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21939
 has_id_wikidata: Q1046
-Unicode character: 鈮
-time of discovery or invention: 1801-01-01T00:00:00Z
-part of:
-  - "[[_Standards/WikiData/WD~group 5,193276]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-named after: "[[_Standards/WikiData/WD~Niobe,213621]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~transition metal,19588]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Charles Hatchett,378065]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-UMLS CUI: C0028101
-Common Procurement Vocabulary code:
-  - 14791000-2
-  - "14791000"
-location of discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+Unicode_character: 鈮
+time_of_discovery_or_invention: "1801-01-01T00:00:00Z"
+part_of:
+- "[[_Standards/WikiData/WD~group 5,193276]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+named_after: '[[_Standards/WikiData/WD~Niobe,213621]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~transition metal,19588]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles Hatchett,378065]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+UMLS_CUI: C0028101
+Common_Procurement_Vocabulary_code:
+- 14791000-2
+- 14791000
+location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
 electronegativity: 2
-oxidation state: 5
-atomic number: 41
-ionic radius:
-  - 0.48
-  - 0.64
-  - 0.68
-  - 0.72
-  - 0.74
-  - 0.79
-ZVG number: "7410"
-PubChem CID: "23936"
-chemical formula: Nb
-element symbol: Nb
+oxidation_state: 5
+atomic_number: 41
+ionic_radius:
+- 0.48
+- 0.64
+- 0.68
+- 0.72
+- 0.74
+- 0.79
+ZVG_number: 7410
+PubChem_CID: 23936
+chemical_formula: Nb
+element_symbol: Nb
 mass: 92.90637
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Niobium%20crystals%20and%201cm3%20cube.jpg
-electron configuration: "[Kr] 4d⁴ 5s¹"
-canonical SMILES: "[Nb]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Niobium%20crystals%20and%201cm3%20cube.jpg"
+electron_configuration: "[Kr] 4d⁴ 5s¹"
+canonical_SMILES: '[Nb]'
 UNII: 05175J654G
-EC number: 231-113-5
-OmegaWiki Defined Meaning: "339099"
-Dewey Decimal Classification: "546.524"
-CAS Registry Number: 7440-03-1
-CPV Supplementary code: AA40
-MeSH tree code:
-  - D01.268.556.615
-  - D01.268.956.687
-  - D01.552.544.615
-DSSTOX compound identifier: DTXCID5031052
+EC_number: 231-113-5
+OmegaWiki_Defined_Meaning: 339099
+Dewey_Decimal_Classification: 546.524
+CAS_Registry_Number: 7440-03-1
+CPV_Supplementary_code: AA40
+MeSH_tree_code:
+- D01.268.556.615
+- D01.268.956.687
+- D01.552.544.615
+DSSTOX_compound_identifier: DTXCID5031052
 InChIKey: GUCVJGMIXFAOAE-UHFFFAOYSA-N
 InChI: InChI=1S/Nb
-Commons gallery: Niobium
-Commons category: Niobium
+Commons_gallery: Niobium
+Commons_category: Niobium
 ---
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Niobium,1046]] 
