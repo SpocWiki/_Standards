@@ -18,7 +18,7 @@ Krugosvet article: nauka_i_tehnika/himiya/KALI.html
 UNII: RWP5GA015D
 InChIKey: ZLMJMSJWJFRBEC-UHFFFAOYSA-N
 Unicode character: 鉀
-vapor pressure: 41928.0364705
+vapor_pressure: 41928.0364705
 found in taxon:
   - "[[_Standards/WikiData/WD~Equisetum arvense,107592]]"
   - "[[_Standards/WikiData/WD~Hibiscus sabdariffa,319390]]"
