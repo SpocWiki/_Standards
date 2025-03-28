@@ -1,9 +1,8 @@
----
+﻿---
 has_id_wikidata: Q6140120
-subclass of: "[[_Standards/WikiData/WD~technology,11016]]"
-OmegaWiki Defined Meaning: "1195"
+subclass_of: '[[_Standards/WikiData/WD~technology,11016]]'
+OmegaWiki_Defined_Meaning: 1195
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,31 +1,29 @@
----
+﻿---
 aliases:
-  - Physical chemistry
+- "Physical chemistry"
 has_id_wikidata: Q11372
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-different from: "[[_Standards/WikiData/WD~Q3382028,3382028]]"
-instance of:
-  - "[[_Standards/WikiData/WD~academic major,4671286]]"
-  - "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-practiced by: "[[_Standards/WikiData/WD~physical chemist,16744668]]"
-MeSH tree code: H01.181.529
-has part(s) of the class: "[[_Standards/WikiData/WD~physics,413]]"
-subclass of: "[[_Standards/WikiData/WD~chemistry,2329]]"
-OmegaWiki Defined Meaning: "4210"
-Universal Decimal Classification: "544"
-Dewey Decimal Classification: "541"
-Commons category: Physical chemistry
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Lomonosov%20Chymiae%20Physicae%201752.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%AD%E0%A7%8C%E0%A6%A4%20%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8.wav
-Stack Exchange tag: https://chemistry.stackexchange.com/tags/physical-chemistry
-described at URL: https://www.acs.org/content/acs/en/careers/college-to-career/areas-of-chemistry/physical-chemistry.html
-UMLS CUI: C0008004
-Colon Classification: E:2
-Krugosvet article: nauka_i_tehnika/himiya/HIMIYA_FIZICHESKAYA.html
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+different_from: '[[_Standards/WikiData/WD~Q3382028,3382028]]'
+instance_of:
+- "[[_Standards/WikiData/WD~academic major,4671286]]"
+- "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+practiced_by: "[[_Standards/WikiData/WD~physical chemist,16744668]]"
+MeSH_tree_code: H01.181.529
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~physics,413]]'
+subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+OmegaWiki_Defined_Meaning: 4210
+Universal_Decimal_Classification: 544
+Dewey_Decimal_Classification: 541
+Commons_category: "Physical chemistry"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lomonosov%20Chymiae%20Physicae%201752.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%AD%E0%A7%8C%E0%A6%A4%20%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8.wav"
+Stack_Exchange_tag: "https://chemistry.stackexchange.com/tags/physical-chemistry"
+described_at_URL: "https://www.acs.org/content/acs/en/careers/college-to-career/areas-of-chemistry/physical-chemistry.html"
+UMLS_CUI: C0008004
+Colon_Classification: "E:2"
+Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA_FIZICHESKAYA.html
 ---
-
-
 
 ## #has_/text_of_/abstract 
 

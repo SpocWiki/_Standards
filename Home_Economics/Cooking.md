@@ -1,62 +1,61 @@
----
+﻿---
 has_id_wikidata: Q38695
-practiced by:
-  - "[[_Standards/WikiData/WD~cook,156839]]"
-  - "[[_Standards/WikiData/WD~pizzaiolo,3389507]]"
-  - "[[_Standards/WikiData/WD~chef,3499072]]"
-  - "[[_Standards/WikiData/WD~fast food worker,109952115]]"
-followed by:
-  - "[[_Standards/WikiData/WD~eating,213449]]"
-  - "[[_Standards/WikiData/WD~food photography,1321148]]"
-  - "[[_Standards/WikiData/WD~food presentation,3480053]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+practiced_by:
+- '[[_Standards/WikiData/WD~cook,156839]]'
+- '[[_Standards/WikiData/WD~pizzaiolo,3389507]]'
+- '[[_Standards/WikiData/WD~chef,3499072]]'
+- "[[_Standards/WikiData/WD~fast food worker,109952115]]"
+followed_by:
+- '[[_Standards/WikiData/WD~eating,213449]]'
+- "[[_Standards/WikiData/WD~food photography,1321148]]"
+- "[[_Standards/WikiData/WD~food presentation,3480053]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
 location:
-  - "[[_Standards/WikiData/WD~workplace,628858]]"
-  - "[[_Standards/WikiData/WD~kitchen,43164]]"
-"product, material, or service produced or provided": "[[_Standards/WikiData/WD~dish,746549]]"
+- '[[_Standards/WikiData/WD~workplace,628858]]'
+- '[[_Standards/WikiData/WD~kitchen,43164]]'
+product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~dish,746549]]'
 uses:
-  - "[[_Standards/WikiData/WD~food preparation technique,1039303]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[_Standards/WikiData/WD~heat,44432]]"
+- "[[_Standards/WikiData/WD~food preparation technique,1039303]]"
+- '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~heat,44432]]'
 follows:
-  - "[[_Standards/WikiData/WD~gathering,2991771]]"
-  - "[[_Standards/WikiData/WD~butchering,10682505]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q12550174,12550174]]"
-subclass of: "[[_Standards/WikiData/WD~food and drink preparation,16920758]]"
-instance of:
-  - "[[_Standards/WikiData/WD~business activity,19862406]]"
-  - "[[_Standards/WikiData/WD~human activity,61788060]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-UMLS CUI: C0335326
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Natschoba-kochen.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%82%E0%A4%AA%E0%A4%BE%E0%A4%95.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-sukaldaritza.wav
-exact match: https://valpal.info/parameters/cook
-part of: "[[_Standards/WikiData/WD~culture,11042]]"
-IAB code: "216"
-OmegaWiki Defined Meaning: "479078"
-Iconclass notation: 41C25
+- '[[_Standards/WikiData/WD~gathering,2991771]]'
+- '[[_Standards/WikiData/WD~butchering,10682505]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12550174,12550174]]'
+subclass_of: "[[_Standards/WikiData/WD~food and drink preparation,16920758]]"
+instance_of:
+- "[[_Standards/WikiData/WD~business activity,19862406]]"
+- "[[_Standards/WikiData/WD~human activity,61788060]]"
+- '[[_Standards/WikiData/WD~hobby,47728]]'
+UMLS_CUI: C0335326
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Natschoba-kochen.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%82%E0%A4%AA%E0%A4%BE%E0%A4%95.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-sukaldaritza.wav"
+exact_match: "https://valpal.info/parameters/cook"
+part_of: '[[_Standards/WikiData/WD~culture,11042]]'
+IAB_code: 216
+OmegaWiki_Defined_Meaning: 479078
+Iconclass_notation: 41C25
 subreddit: Cooking
-Commons category: Cooking
-start time: -500000-01-01T00:00:00Z
-IMDb keyword: cooking
+Commons_category: Cooking
+start_time: "-500000-01-01T00:00:00Z"
+IMDb_keyword: cooking
 hashtag:
-  - cooking
-  - kochen
+- cooking
+- kochen
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wok%20cooking%20and%20the%20heat%20source%20by%20The%20Pocket%20in%20Nanjing.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Roosenburg.jpg
-described at URL: https://neal.fun/earth-reviews/cooking
-Unicode character: 🍳
-U.S. National Archives Identifier: "10675369"
-MeSH tree code: J01.576.423.200.200
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wok%20cooking%20and%20the%20heat%20source%20by%20The%20Pocket%20in%20Nanjing.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Roosenburg.jpg"
+described_at_URL: "https://neal.fun/earth-reviews/cooking"
+Unicode_character: "\U0001F373"
+U_S_National_Archives_Identifier: 10675369
+MeSH_tree_code: J01.576.423.200.200
 ---
-
 
 ## #has_/text_of_/abstract 
 

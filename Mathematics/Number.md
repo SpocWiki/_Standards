@@ -1,39 +1,38 @@
----
+﻿---
 has_id_wikidata: Q11563
-different from:
-  - "[[_Standards/WikiData/WD~Zahl,140598]]"
-  - "[[_Standards/WikiData/WD~Number,4516286]]"
-  - "[[_Standards/WikiData/WD~Tal,5576117]]"
-  - "[[_Standards/WikiData/WD~Liczba,11755814]]"
-subclass of: "[[_Standards/WikiData/WD~mathematical object,246672]]"
-manifestation of: "[[_Standards/WikiData/WD~quantity,309314]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Art of Computer Programming, Volume 1_ Fundamental Algorithms, 3rd edition,47755251]]"
-said to be the same as: "[[_Standards/WikiData/WD~scalar,1289248]]"
-part of: "[[_Standards/WikiData/WD~set of numbers,3054943]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Number systems,6443303]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-has characteristic: "[[_Standards/WikiData/WD~type of number,47460393]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q56402551,56402551]]"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20zenbaki%20arrazionalak.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Numbers%20grid%20in%20NY.jpg
-equivalent class: https://schema.org/Number
-Stack Exchange tag: https://stackoverflow.com/tags/numbers
-Krugosvet article: nauka_i_tehnika/matematika/CHISLO.html
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/NumberSetinC.svg
-properties for this type: approximation algorithm
-Wikidata property: numeric value
-OmegaWiki Defined Meaning: "5878"
-Commons gallery: Numbers
-Commons category: Numbers
-PhilPapers topic: numbers
+different_from:
+- '[[_Standards/WikiData/WD~Zahl,140598]]'
+- '[[_Standards/WikiData/WD~Number,4516286]]'
+- '[[_Standards/WikiData/WD~Tal,5576117]]'
+- '[[_Standards/WikiData/WD~Liczba,11755814]]'
+subclass_of: "[[_Standards/WikiData/WD~mathematical object,246672]]"
+manifestation_of: '[[_Standards/WikiData/WD~quantity,309314]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Art of Computer Programming, Volume 1_ Fundamental Algorithms, 3rd edition,47755251]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~scalar,1289248]]'
+part_of: "[[_Standards/WikiData/WD~set of numbers,3054943]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Number systems,6443303]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+has_characteristic: "[[_Standards/WikiData/WD~type of number,47460393]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q56402551,56402551]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20zenbaki%20arrazionalak.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Numbers%20grid%20in%20NY.jpg"
+equivalent_class: "https://schema.org/Number"
+Stack_Exchange_tag: "https://stackoverflow.com/tags/numbers"
+Krugosvet_article: nauka_i_tehnika/matematika/CHISLO.html
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/NumberSetinC.svg"
+properties_for_this_type: "approximation algorithm"
+Wikidata_property: "numeric value"
+OmegaWiki_Defined_Meaning: 5878
+Commons_gallery: Numbers
+Commons_category: Numbers
+PhilPapers_topic: numbers
 ---
-
 
 ## #has_/text_of_/abstract 
 

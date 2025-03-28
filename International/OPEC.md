@@ -1,131 +1,130 @@
----
+﻿---
 aliases:
-  - Organization of the Petroleum Exporting Countries
-  - Organization of Petroleum Exporting Countries
+- "Organization of the Petroleum Exporting Countries"
+- "Organization of Petroleum Exporting Countries"
 has_id_wikidata: Q7795
-partnership with: "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-instance of:
-  - "[[_Standards/WikiData/WD~cartel,179216]]"
-  - "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
-  - "[[_Standards/WikiData/WD~advocacy group,431603]]"
-  - "[[_Standards/WikiData/WD~international organization,484652]]"
-headquarters location: "[[_Standards/WikiData/WD~Innere Stadt,267329]]"
+partnership_with: "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
+instance_of:
+- '[[_Standards/WikiData/WD~cartel,179216]]'
+- "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
+- "[[_Standards/WikiData/WD~advocacy group,431603]]"
+- "[[_Standards/WikiData/WD~international organization,484652]]"
+headquarters_location: "[[_Standards/WikiData/WD~Innere Stadt,267329]]"
 flag: "[[_Standards/WikiData/WD~flag of OPEC,784526]]"
 industry: "[[_Standards/WikiData/WD~petroleum industry,862571]]"
-country: "[[_Standards/WikiData/WD~internationality,1072012]]"
-owner of: "[[_Standards/WikiData/WD~Deutschmeister-Palais,2046973]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_OPEC,6480901]]"
-position held by head of the organization: "[[_Standards/WikiData/WD~President of OPEC,108861095]]"
-general secretary: "[[_Standards/WikiData/WD~Haitham al-Ghais,110415087]]"
-different from: "[[_Standards/WikiData/WD~OPEC+,121826282]]"
-short name:
-  - אָפּע״ק
-  - 油組
-  - ABEP
-  - 歐佩克
-  - 欧佩克
-  - OPUL
-  - OPEP
-  - OPEP
-  - ОПЕК
-  - АПЕК
-  - OPEC
-  - OPEL
-  - OPEP
-  - LPEE
-  - OPEP
-  - ETOP
-  - OPEP
-  - אופ״ק
-  - ՆԱԵԿ
-  - ONEP
-  - ოპეკი
-  - МЭЕҰ
-  - OPEP
-  - OPEP
-  - ОПЕК
-  - ОПЕК
-  - 油组
-  - 油組
-native label:
-  - 欧佩克
-  - 歐佩克
-  - ОПЕК
-  - OPEK
-  - OPUL
-  - ኦፔክ
-  - OPEP
-  - أوبك
-  - OPEP
-  - ОПЕК
-  - АПЕК
-  - OPEP
-  - ΟΠΕΚ
-  - OPEC
-  - OPEL
-  - OPEP
-  - LPEE
-  - اُپِک
-  - OPEP
-  - ETOP
-  - OPEP
-  - אופ״ק
-  - ओपेक
-  - ՆԱԵԿ
-  - ONEP
-  - ოპეკი
-  - مەيەۇ
-  - МЭЕҰ
-  - MÉEU
-  - ОПЕК
-  - ОПЕК
-  - ОПЕК
-  - OPEP
-  - OPEP
-  - OPEP
-  - ОПЕК
-  - ОПЕК
-  - ОПЕК
-  - اوپیک
-  - אפעק
-  - 油组
-  - 油組
+country: '[[_Standards/WikiData/WD~internationality,1072012]]'
+owner_of: '[[_Standards/WikiData/WD~Deutschmeister-Palais,2046973]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_OPEC,6480901]]'
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President of OPEC,108861095]]"
+general_secretary: "[[_Standards/WikiData/WD~Haitham al-Ghais,110415087]]"
+different_from: '[[_Standards/WikiData/WD~OPEC+,121826282]]'
+short_name:
+- אָפּע״ק
+- 油組
+- ABEP
+- 歐佩克
+- 欧佩克
+- OPUL
+- OPEP
+- OPEP
+- ОПЕК
+- АПЕК
+- OPEC
+- OPEL
+- OPEP
+- LPEE
+- OPEP
+- ETOP
+- OPEP
+- אופ״ק
+- ՆԱԵԿ
+- ONEP
+- ოპეკი
+- МЭЕҰ
+- OPEP
+- OPEP
+- ОПЕК
+- ОПЕК
+- 油组
+- 油組
+native_label:
+- 欧佩克
+- 歐佩克
+- ОПЕК
+- OPEK
+- OPUL
+- ኦፔክ
+- OPEP
+- أوبك
+- OPEP
+- ОПЕК
+- АПЕК
+- OPEP
+- ΟΠΕΚ
+- OPEC
+- OPEL
+- OPEP
+- LPEE
+- اُپِک
+- OPEP
+- ETOP
+- OPEP
+- אופ״ק
+- ओपेक
+- ՆԱԵԿ
+- ONEP
+- ოპეკი
+- مەيەۇ
+- МЭЕҰ
+- MÉEU
+- ОПЕК
+- ОПЕК
+- ОПЕК
+- OPEP
+- OPEP
+- OPEP
+- ОПЕК
+- ОПЕК
+- ОПЕК
+- اوپیک
+- אפעק
+- 油组
+- 油組
 ISNI:
-  - "0000000123646718"
-  - 000000012365059X
-has part(s):
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Kuwait,817]]"
-  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-  - "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
-  - "[[_Standards/WikiData/WD~Angola,916]]"
-  - "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-  - "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
-  - "[[_Standards/WikiData/WD~Gabon,1000]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-location of formation: "[[_Standards/WikiData/WD~Baghdad,1530]]"
-official language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-"product, material, or service produced or provided": "[[_Standards/WikiData/WD~petroleum,22656]]"
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20OPEC.svg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/OPEC.svg
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/OPEC%20Logo.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20OPEC-Zentrale%20%28a%29.JPG
-official website: https://www.opec.org
-RIA Novosti reference: "39540188"
-inception: 1960-09-14T00:00:00Z 
-has_time_started: 1960-09-14T00:00:00Z 
-Krugosvet article: gumanitarnye_nauki/ekonomika_i_pravo/ORGANIZATSIYA_STRAN-EKSPORTEROV_NEFTI_OPEK_.html
-Commons category: OPEC
-EU Corporate body code: OPEC
-Facebook username: OPECSecretariat
-X (Twitter) username: OPECSecretariat
-social media followers: 68432
+- 0000000123646718
+- 000000012365059X
+has_part_s_:
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Kuwait,817]]'
+- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- '[[_Standards/WikiData/WD~Angola,916]]'
+- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+- '[[_Standards/WikiData/WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033]]'
+location_of_formation: '[[_Standards/WikiData/WD~Baghdad,1530]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~petroleum,22656]]'
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20OPEC.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/OPEC.svg"
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/OPEC%20Logo.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20OPEC-Zentrale%20%28a%29.JPG"
+official_website: "https://www.opec.org"
+RIA_Novosti_reference: 39540188
+inception: "1960-09-14T00:00:00Z"
+has_time_started: "1960-09-14T00:00:00Z"
+Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/ORGANIZATSIYA_STRAN-EKSPORTEROV_NEFTI_OPEK_.html
+Commons_category: OPEC
+EU_Corporate_body_code: OPEC
+Facebook_username: OPECSecretariat
+X_Twitter_username: OPECSecretariat
+social_media_followers: 68432
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,60 +1,59 @@
----
+﻿---
 has_id_wikidata: Q1063
 hashtag: evolution
-Commons category: Evolution
-U.S. National Archives Identifier: "10676447"
-opposite of: "[[_Standards/WikiData/WD~creationism,130352]]"
-studied in:
-  - "[[_Standards/WikiData/WD~phylogenetics,171184]]"
-  - "[[_Standards/WikiData/WD~evolutionary biology,840400]]"
-  - "[[_Standards/WikiData/WD~theory of evolution,11640129]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~introduction to evolution,14916834]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-has cause:
-  - "[[_Standards/WikiData/WD~genetic drift,486420]]"
-  - "[[_Standards/WikiData/WD~germline mutation,5552256]]"
-has immediate cause:
-  - "[[_Standards/WikiData/WD~survival of the fittest,721322]]"
-  - "[[_Standards/WikiData/WD~selective breeding,4023882]]"
-  - "[[_Standards/WikiData/WD~natural selection,43478]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~biological process,2996394]]"
-  - "[[_Standards/WikiData/WD~pattern in nature,3455898]]"
-  - "[[_Standards/WikiData/WD~evolution,5418608]]"
-  - "[[_Standards/WikiData/WD~aspect of history,17524420]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Evolution,8084453]]"
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Es-Evoluci%C3%B3n%20biol%C3%B3gica-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Evolution%20%28intro%29.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20en%20Evolution.oga
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Evolution%20%28spoken%20by%20AI%20voice%29.mp3
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Evolutionary%20Tree%202020-10-29%20at%203.38.35%20PM.png
-Stack Exchange tag: https://biology.stackexchange.com/tags/evolution
-Provenio UUID: de9888dd-6aad-417c-9e66-99642a485c7b
-Colon Classification: G:66
-MeSH tree code:
-  - G05.045
-  - G16.075
-Gujarati Vishwakosh entry: ઉત્ક્રાંતિ-સજીવોની
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of evolution,25303767]]"
-instance of: "[[_Standards/WikiData/WD~type of process,116505632]]"
-UMLS CUI: C0015219
-image: http://commons.wikimedia.org/wiki/Special:FilePath/L%27origine%20de%20l%27%C3%A9volution.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Darwin%27s%20Theory%20of%20Evolution%20%E2%80%93%20Natural%20Selection%20%28explainer%20video%20by%20Sprouts%29.webm
-has characteristic: "[[_Standards/WikiData/WD~evolutionary pressure,27348]]"
-OmegaWiki Defined Meaning: "1369"
-Dewey Decimal Classification: "576"
+Commons_category: Evolution
+U_S_National_Archives_Identifier: 10676447
+opposite_of: '[[_Standards/WikiData/WD~creationism,130352]]'
+studied_in:
+- '[[_Standards/WikiData/WD~phylogenetics,171184]]'
+- "[[_Standards/WikiData/WD~evolutionary biology,840400]]"
+- "[[_Standards/WikiData/WD~theory of evolution,11640129]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~introduction to evolution,14916834]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+has_cause:
+- "[[_Standards/WikiData/WD~genetic drift,486420]]"
+- "[[_Standards/WikiData/WD~germline mutation,5552256]]"
+has_immediate_cause:
+- "[[_Standards/WikiData/WD~survival of the fittest,721322]]"
+- "[[_Standards/WikiData/WD~selective breeding,4023882]]"
+- "[[_Standards/WikiData/WD~natural selection,43478]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~biological process,2996394]]"
+- "[[_Standards/WikiData/WD~pattern in nature,3455898]]"
+- '[[_Standards/WikiData/WD~evolution,5418608]]'
+- "[[_Standards/WikiData/WD~aspect of history,17524420]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Evolution,8084453]]'
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Evoluci%C3%B3n%20biol%C3%B3gica-article.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Evolution%20%28intro%29.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20en%20Evolution.oga"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Evolution%20%28spoken%20by%20AI%20voice%29.mp3"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Evolutionary%20Tree%202020-10-29%20at%203.38.35%20PM.png"
+Stack_Exchange_tag: "https://biology.stackexchange.com/tags/evolution"
+Provenio_UUID: de9888dd-6aad-417c-9e66-99642a485c7b
+Colon_Classification: "G:66"
+MeSH_tree_code:
+- G05.045
+- G16.075
+Gujarati_Vishwakosh_entry: ઉત્ક્રાંતિ-સજીવોની
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of evolution,25303767]]"
+instance_of: "[[_Standards/WikiData/WD~type of process,116505632]]"
+UMLS_CUI: C0015219
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/L%27origine%20de%20l%27%C3%A9volution.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Darwin%27s%20Theory%20of%20Evolution%20%E2%80%93%20Natural%20Selection%20%28explainer%20video%20by%20Sprouts%29.webm"
+has_characteristic: "[[_Standards/WikiData/WD~evolutionary pressure,27348]]"
+OmegaWiki_Defined_Meaning: 1369
+Dewey_Decimal_Classification: 576
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,58 +1,57 @@
----
+﻿---
 has_id_wikidata: Q764
-Commons gallery: Fungi
-Commons category: Fungi
-taxon name: Fungi
-Colon Classification: I23
-Krugosvet article: nauka_i_tehnika/biologiya/GRIBI.html
-Dewey Decimal Classification:
-  - "579.5"
-  - "664.001579"
-  - "579.6"
-  - "579"
-has part(s):
-  - "[[_Standards/WikiData/WD~mushroom,83093]]"
-  - "[[_Standards/WikiData/WD~mycelium,326228]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-code of nomenclature: "[[_Standards/WikiData/WD~International Code of Nomenclature for algae, fungi, and plants,693148]]"
-parent taxon: "[[_Standards/WikiData/WD~Holomycota,2943473]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Fungi,10814969]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Fungus navs,10977052]]"
-  - "[[_Standards/WikiData/WD~Template_Fungus,14403518]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of fungi,39087041]]"
-this taxon is source of: "[[_Standards/WikiData/WD~plant-based food,107122728]]"
-UMLS CUI:
-  - C0369241
-  - C0016832
-image: http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg
-FoodEx2 code: A0ETG
-Library of Congress Classification: QK600-QK638
-start time: -410000000-01-01T00:00:00Z
-different from: "[[_Standards/WikiData/WD~plant,756]]"
-studied in: "[[_Standards/WikiData/WD~mycology,7175]]"
-subclass of: "[[_Standards/WikiData/WD~organism,7239]]"
-instance of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon rank: "[[_Standards/WikiData/WD~kingdom,36732]]"
-montage image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20collage.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20Diversity.jpg
-AlgaeBase URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070
-OmegaWiki Defined Meaning: "1588"
-EPPO Code: 1FUNGK
-Iconclass notation: 25G54
-ITIS TSN: "555705"
-MeSH tree code: B01.300
+Commons_gallery: Fungi
+Commons_category: Fungi
+taxon_name: Fungi
+Colon_Classification: I23
+Krugosvet_article: nauka_i_tehnika/biologiya/GRIBI.html
+Dewey_Decimal_Classification:
+- 579.5
+- 664.001579
+- 579.6
+- 579
+has_part_s_:
+- '[[_Standards/WikiData/WD~mushroom,83093]]'
+- '[[_Standards/WikiData/WD~mycelium,326228]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+code_of_nomenclature: "[[_Standards/WikiData/WD~International Code of Nomenclature for algae, fungi, and plants,693148]]"
+parent_taxon: '[[_Standards/WikiData/WD~Holomycota,2943473]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fungi,10814969]]'
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Fungus navs,10977052]]"
+- '[[_Standards/WikiData/WD~Template_Fungus,14403518]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of fungi,39087041]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~plant-based food,107122728]]"
+UMLS_CUI:
+- C0369241
+- C0016832
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg"
+FoodEx2_code: A0ETG
+Library_of_Congress_Classification: QK600-QK638
+start_time: "-410000000-01-01T00:00:00Z"
+different_from: '[[_Standards/WikiData/WD~plant,756]]'
+studied_in: '[[_Standards/WikiData/WD~mycology,7175]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732]]'
+montage_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20collage.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20Diversity.jpg"
+AlgaeBase_URL: "https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070"
+OmegaWiki_Defined_Meaning: 1588
+EPPO_Code: 1FUNGK
+Iconclass_notation: 25G54
+ITIS_TSN: 555705
+MeSH_tree_code: B01.300
 ---
-
 
 ## #has_/text_of_/abstract 
 

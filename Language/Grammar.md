@@ -1,40 +1,39 @@
----
+﻿---
 has_id_wikidata: Q8091
-subclass of:
-  - "[[_Standards/WikiData/WD~convention,367293]]"
-  - "[[_Standards/WikiData/WD~linguistics,8162]]"
-different from: "[[_Standards/WikiData/WD~formal grammar,373045]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Linguistics,13537252]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Encyklopedia językoznawstwa ogólnego,67386140]]"
-  - "[[_Standards/WikiData/WD~Q67386293,67386293]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~grammatical category,980357]]"
-  - "[[_Standards/WikiData/WD~grammatical evolution,5593687]]"
-topic's main template: "[[_Standards/WikiData/WD~Q10562397,10562397]]"
-instance of: "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-practiced by: "[[_Standards/WikiData/WD~grammarian,15991187]]"
-Stack Exchange tag: https://linguistics.stackexchange.com/tags/grammar
-Provenio UUID: cbdb47ff-6cbd-4c9d-9a5e-c0d74e3fe8f9
-entry in abbreviations table:
-  - ব্যা◦
-  - ব্যাক.
-part of: "[[_Standards/WikiData/WD~linguistics,8162]]"
-Dewey Decimal Classification: "415"
-Nomenclature for Museum Cataloging: "13491"
-OmegaWiki Defined Meaning:
-  - "1256330"
-  - "375172"
-Commons gallery: Grammar
-Commons category: Grammar
+subclass_of:
+- '[[_Standards/WikiData/WD~convention,367293]]'
+- '[[_Standards/WikiData/WD~linguistics,8162]]'
+different_from: "[[_Standards/WikiData/WD~formal grammar,373045]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Linguistics,13537252]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Encyklopedia językoznawstwa ogólnego,67386140]]"
+- '[[_Standards/WikiData/WD~Q67386293,67386293]]'
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~grammatical category,980357]]"
+- "[[_Standards/WikiData/WD~grammatical evolution,5593687]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q10562397,10562397]]'
+instance_of: "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+practiced_by: '[[_Standards/WikiData/WD~grammarian,15991187]]'
+Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/grammar"
+Provenio_UUID: cbdb47ff-6cbd-4c9d-9a5e-c0d74e3fe8f9
+entry_in_abbreviations_table:
+- ব্যা◦
+- ব্যাক.
+part_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+Dewey_Decimal_Classification: 415
+Nomenclature_for_Museum_Cataloging: 13491
+OmegaWiki_Defined_Meaning:
+- 1256330
+- 375172
+Commons_gallery: Grammar
+Commons_category: Grammar
 subreddit: grammar
-related image: http://commons.wikimedia.org/wiki/Special:FilePath/Susenbrot.JPG
+related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Susenbrot.JPG"
 ---
-
 
 ## #has_/text_of_/abstract 
 

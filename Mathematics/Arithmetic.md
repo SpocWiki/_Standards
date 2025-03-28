@@ -1,34 +1,34 @@
----
+﻿---
 has_id_wikidata: Q11205
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-instance of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of arithmetic,7112559]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-subclass of: "[[_Standards/WikiData/WD~procedure,20920559]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~arithmetic,27135072]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Arithmetic,64578587]]"
-studied in: "[[_Standards/WikiData/WD~learning math,98021564]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B9%D5%BE%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Arithmetic%29.ogg
-part of: "[[_Standards/WikiData/WD~mathematics,395]]"
-Dewey Decimal Classification: "513"
-Colon Classification: B11
-OmegaWiki Defined Meaning: "368213"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tables%20generales%20aritmetique%20MG%202108.jpg
-Stack Exchange tag: https://math.stackexchange.com/tags/arithmetic
-Iconclass notation: 49D1
-Commons gallery: Arithmetic
-Commons category: Arithmetic
-Krugosvet article: nauka_i_tehnika/matematika/ARIFMETIKA.html
-Gujarati Vishwakosh entry: અંકગણિત
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+instance_of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of arithmetic,7112559]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+subclass_of: '[[_Standards/WikiData/WD~procedure,20920559]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~arithmetic,27135072]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Arithmetic,64578587]]'
+studied_in: "[[_Standards/WikiData/WD~learning math,98021564]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B9%D5%BE%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Arithmetic%29.ogg"
+part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+Dewey_Decimal_Classification: 513
+Colon_Classification: B11
+OmegaWiki_Defined_Meaning: 368213
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tables%20generales%20aritmetique%20MG%202108.jpg"
+Stack_Exchange_tag: "https://math.stackexchange.com/tags/arithmetic"
+Iconclass_notation: 49D1
+Commons_gallery: Arithmetic
+Commons_category: Arithmetic
+Krugosvet_article: nauka_i_tehnika/matematika/ARIFMETIKA.html
+Gujarati_Vishwakosh_entry: અંકગણિત
 ---
 
 # [[Arithmetic]] 

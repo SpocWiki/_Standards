@@ -1,39 +1,38 @@
----
+﻿---
 has_id_wikidata: Q454
-different from: "[[_Standards/WikiData/WD~Mir,578668]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~state,3505845]]"
-  - "[[_Standards/WikiData/WD~absence,19829125]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-studied in: "[[_Standards/WikiData/WD~irenology,15141361]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q94701131,94701131]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q96077045,96077045]]"
-instance of: "[[_Standards/WikiData/WD~type of value,129510955]]"
-Provenio UUID: e50ca798-9971-4705-95da-0ff688e8d853
+different_from: '[[_Standards/WikiData/WD~Mir,578668]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~state,3505845]]'
+- '[[_Standards/WikiData/WD~absence,19829125]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+studied_in: '[[_Standards/WikiData/WD~irenology,15141361]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q94701131,94701131]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q96077045,96077045]]'
+instance_of: "[[_Standards/WikiData/WD~type of value,129510955]]"
+Provenio_UUID: e50ca798-9971-4705-95da-0ff688e8d853
 Libris-URI: 1zcffr8k5m1hqvd
-does not have characteristic: "[[_Standards/WikiData/WD~war,198]]"
-opposite of: "[[_Standards/WikiData/WD~war,198]]"
-OmegaWiki Defined Meaning: "5838"
-PhilPapers topic: peace
+does_not_have_characteristic: '[[_Standards/WikiData/WD~war,198]]'
+opposite_of: '[[_Standards/WikiData/WD~war,198]]'
+OmegaWiki_Defined_Meaning: 5838
+PhilPapers_topic: peace
 hashtag:
-  - peace
-  - мир
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/OpenMoji-color%20262E.svg
-Unicode character: ☮
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D9%84%D8%A7%D9%85.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Peace%20dove.svg
-Dewey Decimal Classification:
-  - "172.42"
-  - "201.7273"
-  - "303.66"
-Commons gallery: Peace
-Commons category: Peace
+- peace
+- мир
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/OpenMoji-color%20262E.svg"
+Unicode_character: ☮
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D9%84%D8%A7%D9%85.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Peace%20dove.svg"
+Dewey_Decimal_Classification:
+- 172.42
+- 201.7273
+- 303.66
+Commons_gallery: Peace
+Commons_category: Peace
 ---
-
 
 ## #has_/text_of_/abstract 
 

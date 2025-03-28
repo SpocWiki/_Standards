@@ -1,120 +1,119 @@
----
+﻿---
 has_id_wikidata: Q7159
-partnership with: "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-official observer status in organisation:
-  - "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-  - "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
-  - "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+partnership_with: "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
+official_observer_status_in_organisation:
+- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
+- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
+- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
 follows: "[[_Standards/WikiData/WD~Organisation of African Unity,191703]]"
-official language:
-  - "[[_Standards/WikiData/WD~languages of Africa,207930]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
-  - "[[_Standards/WikiData/WD~Swahili,7838]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-instance of:
-  - "[[_Standards/WikiData/WD~international organization,484652]]"
-  - "[[_Standards/WikiData/WD~continental union,769802]]"
-  - "[[_Standards/WikiData/WD~regional organization,4120211]]"
+official_language:
+- "[[_Standards/WikiData/WD~languages of Africa,207930]]"
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Swahili,7838]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+instance_of:
+- "[[_Standards/WikiData/WD~international organization,484652]]"
+- "[[_Standards/WikiData/WD~continental union,769802]]"
+- "[[_Standards/WikiData/WD~regional organization,4120211]]"
 flag: "[[_Standards/WikiData/WD~flag of the African Union,630077]]"
 funder: "[[_Standards/WikiData/WD~Open Society Foundations,786194]]"
-position held by head of the organization: "[[_Standards/WikiData/WD~Chairperson of the African Union,946339]]"
-legislative body:
-  - "[[_Standards/WikiData/WD~Pan-African Parliament,1340659]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Chairperson of the African Union,946339]]"
+legislative_body:
+- "[[_Standards/WikiData/WD~Pan-African Parliament,1340659]]"
 anthem: "[[_Standards/WikiData/WD~Let Us All Unite and Celebrate Together,1821037]]"
-website account on: "[[_Standards/WikiData/WD~Livestream,2378942]]"
-owner of:
-  - "[[_Standards/WikiData/WD~African Union Conference Center and Office Complex,4655013]]"
-  - "[[_Standards/WikiData/WD~Q17620982,17620982]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of the African Union,5333816]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of the African Union,5535259]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_African Union,6481073]]"
-short name:
-  - XA
-  - AU
-  - AU
-  - AU
-  - АБ
-  - АС
-  - AA
-  - АЦ
-  - АБ
-  - 非盟
-  - 非盟
-  - 非盟
-  - АУ
-  - AU
-  - UA
-  - UA
-  - AU
-  - AU
-  - AU
-  - AU
-  - UA
-  - UA
-  - UA
-  - UA
-  - UA
-  - UA
-  - AU
-  - UA
-  - AA
-  - АС
-  - АС
-  - UA
-  - UA
-  - UA
-  - UA
-  - ΑΕ
-has part(s):
-  - "[[_Standards/WikiData/WD~Regions of the African Union,17092680]]"
-described by source:
-  - "[[_Standards/WikiData/WD~The Oxford Encyclopedia of African Thought,22639418]]"
-has subsidiary: "[[_Standards/WikiData/WD~Africa Centres for Disease Control and Prevention,88234914]]"
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union3.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union4.ogg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A.wav
-official website: https://au.int
-webcam page URL: https://livestream.com/accounts/2466140
-Krugosvet article: istoriya/AFRIKANSKI_SOYUZ_AS.html
-motto text:
-  - A United and Strong Africa
-  - Une Afrique unie et forte
-UMLS CUI: C4042919
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20African%20Union%20with%20Suspended%20States.svg
+website_account_on: '[[_Standards/WikiData/WD~Livestream,2378942]]'
+owner_of:
+- "[[_Standards/WikiData/WD~African Union Conference Center and Office Complex,4655013]]"
+- '[[_Standards/WikiData/WD~Q17620982,17620982]]'
+economy_of_topic: "[[_Standards/WikiData/WD~economy of the African Union,5333816]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of the African Union,5535259]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_African Union,6481073]]"
+short_name:
+- XA
+- AU
+- AU
+- AU
+- АБ
+- АС
+- AA
+- АЦ
+- АБ
+- 非盟
+- 非盟
+- 非盟
+- АУ
+- AU
+- UA
+- UA
+- AU
+- AU
+- AU
+- AU
+- UA
+- UA
+- UA
+- UA
+- UA
+- UA
+- AU
+- UA
+- AA
+- АС
+- АС
+- UA
+- UA
+- UA
+- UA
+- ΑΕ
+has_part_s_:
+- "[[_Standards/WikiData/WD~Regions of the African Union,17092680]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~The Oxford Encyclopedia of African Thought,22639418]]"
+has_subsidiary: "[[_Standards/WikiData/WD~Africa Centres for Disease Control and Prevention,88234914]]"
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union2.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union3.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union4.ogg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A.wav"
+official_website: "https://au.int"
+webcam_page_URL: "https://livestream.com/accounts/2466140"
+Krugosvet_article: istoriya/AFRIKANSKI_SOYUZ_AS.html
+motto_text:
+- "A United and Strong Africa"
+- "Une Afrique unie et forte"
+UMLS_CUI: C4042919
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20African%20Union%20with%20Suspended%20States.svg"
 Libris-URI: khw04hq30jrww20
 ISNI:
-  - "0000000121899463"
-MeSH tree code:
-  - I01.615.500.125
-  - N03.540.089
-Threads username: africanunion_official
-Instagram username: africanunion_official
-EU Corporate body code: UNION_AFR
-different from: "[[_Standards/WikiData/WD~astronomical unit,1811]]"
-headquarters location:
-  - "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
-  - "[[_Standards/WikiData/WD~Johannesburg,34647]]"
+- 0000000121899463
+MeSH_tree_code:
+- I01.615.500.125
+- N03.540.089
+Threads_username: africanunion_official
+Instagram_username: africanunion_official
+EU_Corporate_body_code: UNION_AFR
+different_from: "[[_Standards/WikiData/WD~astronomical unit,1811]]"
+headquarters_location:
+- "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
+- '[[_Standards/WikiData/WD~Johannesburg,34647]]'
 capital: "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-social media followers: 980583
-Commons category: African Union
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20African%20Union.svg
-inception: 1999-09-09T00:00:00Z 
-has_time_started: 1999-09-09T00:00:00Z 
-X (Twitter) username: _AfricanUnion
+diplomatic_relation:
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+social_media_followers: 980583
+Commons_category: "African Union"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20African%20Union.svg"
+inception: "1999-09-09T00:00:00Z"
+has_time_started: "1999-09-09T00:00:00Z"
+X_Twitter_username: _AfricanUnion
 aliases:
-  - African Union
+- "African Union"
 ---
-
 
 ## #has_/text_of_/abstract 
 

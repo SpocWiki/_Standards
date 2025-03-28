@@ -1,74 +1,73 @@
----
+﻿---
 has_id_wikidata: Q1071
-GitHub topic: geography
-PhilPapers topic: geography
+GitHub_topic: geography
+PhilPapers_topic: geography
 hashtag: geography
-Commons category: Geography
-MeSH tree code: H01.277.500
-IPTC NewsCode: mediatopic/20000746
-Regensburg Classification: R
-Colon Classification: U
-Baidu Tieba name: 地理
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Geography,1194350]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-practiced by: "[[_Standards/WikiData/WD~geographer,901402]]"
-studied in:
-  - "[[_Standards/WikiData/WD~history of geography,911070]]"
-  - "[[_Standards/WikiData/WD~Q3589295,3589295]]"
-history of topic: "[[_Standards/WikiData/WD~history of geography,911070]]"
-different from:
-  - "[[_Standards/WikiData/WD~Geography,1194350]]"
-  - "[[_Standards/WikiData/WD~geology,1069]]"
-is the study of: "[[_Standards/WikiData/WD~geographic location,2221906]]"
-instance of:
-  - "[[_Standards/WikiData/WD~branch of science,2465832]]"
-  - "[[_Standards/WikiData/WD~academic major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Geography,3271988]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Geography topics,8083477]]"
-topic's main category: "[[_Standards/WikiData/WD~Q16918667,16918667]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-Provenio UUID: 1c8994ae-55bc-4dd4-b3d7-ce7c13375cf2
-UMLS CUI:
-  - C0020126
-  - C0017444
-subclass of: "[[_Standards/WikiData/WD~science,336]]"
-Wikidata property: geography of topic
-partially coincident with:
-  - "[[_Standards/WikiData/WD~earth science,8008]]"
-  - "[[_Standards/WikiData/WD~social science,34749]]"
-Basisklassifikation: "74"
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%20cloud%201024.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AD%E0%A9%82%E0%A8%97%E0%A9%8B%E0%A8%B2.wav
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20332979%20ccDiegoNaive%20geography.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/OrteliusWorldMap.jpeg
-Stack Exchange tag: https://stackoverflow.com/tags/geography
-U.S. National Archives Identifier: "10639745"
-IAB code:
-  - "1219"
-  - "469"
-Dewey Decimal Classification:
-  - "372.891"
-  - "372.892"
-  - "910"
-Classification of Instructional Programs code:
-  - "45.0701"
-  - "45.0799"
-Iconclass notation: 49I
-Universal Decimal Classification: "91"
+Commons_category: Geography
+MeSH_tree_code: H01.277.500
+IPTC_NewsCode: mediatopic/20000746
+Regensburg_Classification: R
+Colon_Classification: U
+Baidu_Tieba_name: 地理
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- '[[_Standards/WikiData/WD~Geography,1194350]]'
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+practiced_by: '[[_Standards/WikiData/WD~geographer,901402]]'
+studied_in:
+- "[[_Standards/WikiData/WD~history of geography,911070]]"
+- '[[_Standards/WikiData/WD~Q3589295,3589295]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of geography,911070]]"
+different_from:
+- '[[_Standards/WikiData/WD~Geography,1194350]]'
+- '[[_Standards/WikiData/WD~geology,1069]]'
+is_the_study_of: "[[_Standards/WikiData/WD~geographic location,2221906]]"
+instance_of:
+- "[[_Standards/WikiData/WD~branch of science,2465832]]"
+- "[[_Standards/WikiData/WD~academic major,4671286]]"
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geography,3271988]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Geography topics,8083477]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q16918667,16918667]]'
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+Provenio_UUID: 1c8994ae-55bc-4dd4-b3d7-ce7c13375cf2
+UMLS_CUI:
+- C0020126
+- C0017444
+subclass_of: '[[_Standards/WikiData/WD~science,336]]'
+Wikidata_property: "geography of topic"
+partially_coincident_with:
+- "[[_Standards/WikiData/WD~earth science,8008]]"
+- "[[_Standards/WikiData/WD~social science,34749]]"
+Basisklassifikation: 74
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%20cloud%201024.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AD%E0%A9%82%E0%A8%97%E0%A9%8B%E0%A8%B2.wav"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20332979%20ccDiegoNaive%20geography.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/OrteliusWorldMap.jpeg"
+Stack_Exchange_tag: "https://stackoverflow.com/tags/geography"
+U_S_National_Archives_Identifier: 10639745
+IAB_code:
+- 1219
+- 469
+Dewey_Decimal_Classification:
+- 372.891
+- 372.892
+- 910
+Classification_of_Instructional_Programs_code:
+- 45.0701
+- 45.0799
+Iconclass_notation: 49I
+Universal_Decimal_Classification: 91
 ---
-
 
 ## #has_/text_of_/abstract 
 

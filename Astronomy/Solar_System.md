@@ -1,60 +1,59 @@
----
+﻿---
 aliases:
-  - Solar System
+- "Solar System"
 has_id_wikidata: Q544
-has part(s) of the class:
-  - "[[_Standards/WikiData/WD~small Solar System body,193275]]"
-  - "[[_Standards/WikiData/WD~circumstellar disk,3235978]]"
-  - "[[_Standards/WikiData/WD~inner planet of the Solar System,3504248]]"
-  - "[[_Standards/WikiData/WD~planetary moon,109645860]]"
-  - "[[_Standards/WikiData/WD~dwarf planet,2199]]"
-  - "[[_Standards/WikiData/WD~outer planet,30014]]"
-instance of: "[[_Standards/WikiData/WD~planetary system,206717]]"
-parent astronomical body: "[[_Standards/WikiData/WD~Sagittarius A_,237284]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-part of:
-  - "[[_Standards/WikiData/WD~Local Interstellar Cloud,817157]]"
-  - "[[_Standards/WikiData/WD~Milky Way,321]]"
-has boundary:
-  - "[[_Standards/WikiData/WD~heliopause,1137936]]"
-  - "[[_Standards/WikiData/WD~Oort cloud,40864]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Solar System table,3179859]]"
-  - "[[_Standards/WikiData/WD~Template_Solar System sidebar,5147]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
-  - "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
-  - "[[_Standards/WikiData/WD~part of the Solar System,34469344]]"
-  - "[[_Standards/WikiData/WD~Sun,525]]"
-has use: "[[_Standards/WikiData/WD~colonization of the solar system,4228422]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Solar System,11020969]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of the Solar System,28455145]]"
-UMLS CUI: C0524769
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20System%20true%20color%20banner%20version.jpg
+has_part_s_of_the_class:
+- "[[_Standards/WikiData/WD~small Solar System body,193275]]"
+- "[[_Standards/WikiData/WD~circumstellar disk,3235978]]"
+- "[[_Standards/WikiData/WD~inner planet of the Solar System,3504248]]"
+- "[[_Standards/WikiData/WD~planetary moon,109645860]]"
+- "[[_Standards/WikiData/WD~dwarf planet,2199]]"
+- "[[_Standards/WikiData/WD~outer planet,30014]]"
+instance_of: "[[_Standards/WikiData/WD~planetary system,206717]]"
+parent_astronomical_body: "[[_Standards/WikiData/WD~Sagittarius A_,237284]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+part_of:
+- "[[_Standards/WikiData/WD~Local Interstellar Cloud,817157]]"
+- "[[_Standards/WikiData/WD~Milky Way,321]]"
+has_boundary:
+- '[[_Standards/WikiData/WD~heliopause,1137936]]'
+- "[[_Standards/WikiData/WD~Oort cloud,40864]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Solar System table,3179859]]"
+- "[[_Standards/WikiData/WD~Template_Solar System sidebar,5147]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
+- "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
+- "[[_Standards/WikiData/WD~part of the Solar System,34469344]]"
+- '[[_Standards/WikiData/WD~Sun,525]]'
+has_use: "[[_Standards/WikiData/WD~colonization of the solar system,4228422]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Solar System,11020969]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Solar System,28455145]]"
+UMLS_CUI: C0524769
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20System%20true%20color%20banner%20version.jpg"
 diameter:
-  - 0.00124861704
-  - 79
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Slune%C4%8Dn%C3%AD%20soustava%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tata%20Surya.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20System%20true%20color.jpg
-U.S. National Archives Identifier: "10642820"
-Iconclass notation: 24C1
-OmegaWiki Defined Meaning: "670077"
-MeSH tree code: G01.060.075.730
-Krugosvet article: nauka_i_tehnika/astronomiya/SOLNECHNAYA_SISTEMA.html
-Commons gallery: Solar System
-Commons category: Solar System
+- 0.00124861704
+- 79
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Slune%C4%8Dn%C3%AD%20soustava%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Tata%20Surya.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20System%20true%20color.jpg"
+U_S_National_Archives_Identifier: 10642820
+Iconclass_notation: 24C1
+OmegaWiki_Defined_Meaning: 670077
+MeSH_tree_code: G01.060.075.730
+Krugosvet_article: nauka_i_tehnika/astronomiya/SOLNECHNAYA_SISTEMA.html
+Commons_gallery: "Solar System"
+Commons_category: "Solar System"
 mass: 1.0014
-Universal Decimal Classification: "523"
+Universal_Decimal_Classification: 523
 ---
-
 
 ## #has_/text_of_/abstract 
 

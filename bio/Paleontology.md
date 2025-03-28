@@ -1,50 +1,49 @@
----
+﻿---
 has_id_wikidata: Q7205
-history of topic: "[[_Standards/WikiData/WD~history of paleontology,195974]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-subclass of: "[[_Standards/WikiData/WD~field research,1402508]]"
-partially coincident with:
-  - "[[_Standards/WikiData/WD~paleobiology,1578310]]"
-  - "[[_Standards/WikiData/WD~geology,1069]]"
-practiced by: "[[_Standards/WikiData/WD~paleontologist,1662561]]"
-opposite of: "[[_Standards/WikiData/WD~neontology,1898509]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Paleontology,8771989]]"
-instance of: "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Paleontology,13107748]]"
-Provenio UUID: 2b5645ee-b83e-4e9f-8d53-6d74f2d1184e
-BHCL UUID: ad3bb52a-21a0-4067-8081-1c26294bd0a0
-UMLS CUI: C0030224
-part of: "[[_Standards/WikiData/WD~earth science,8008]]"
-named by: "[[_Standards/WikiData/WD~Henri Marie Ducrotay de Blainville,44691]]"
-Dewey Decimal Classification: "560"
-Universal Decimal Classification: "56"
-OmegaWiki Defined Meaning: "2712"
-All-Science Journal Classification Codes: "1911"
+history_of_topic: "[[_Standards/WikiData/WD~history of paleontology,195974]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+subclass_of: "[[_Standards/WikiData/WD~field research,1402508]]"
+partially_coincident_with:
+- '[[_Standards/WikiData/WD~paleobiology,1578310]]'
+- '[[_Standards/WikiData/WD~geology,1069]]'
+practiced_by: '[[_Standards/WikiData/WD~paleontologist,1662561]]'
+opposite_of: '[[_Standards/WikiData/WD~neontology,1898509]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Paleontology,8771989]]'
+instance_of: "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Paleontology,13107748]]'
+Provenio_UUID: 2b5645ee-b83e-4e9f-8d53-6d74f2d1184e
+BHCL_UUID: ad3bb52a-21a0-4067-8081-1c26294bd0a0
+UMLS_CUI: C0030224
+part_of: "[[_Standards/WikiData/WD~earth science,8008]]"
+named_by: "[[_Standards/WikiData/WD~Henri Marie Ducrotay de Blainville,44691]]"
+Dewey_Decimal_Classification: 560
+Universal_Decimal_Classification: 56
+OmegaWiki_Defined_Meaning: 2712
+All-Science_Journal_Classification_Codes: 1911
 subreddit: Paleontology
-Commons category: Paleontology
-Colon Classification: H6
-U.S. National Archives Identifier: "10643769"
+Commons_category: Paleontology
+Colon_Classification: H6
+U_S_National_Archives_Identifier: 10643769
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Museo%20di%20Storia%20Naturale%20di%20Firenze%20-%20paleontology.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Abyssal%20Brachiopod%2000148.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Fossils%20banner.jpg
-WordLift URL: http://data.thenextweb.com/tnw/entity/paleontology
-Iconclass notation: 49F22
-MeSH tree code:
-  - H01.277.875
-  - I01.076.368.584
-IPTC NewsCode: mediatopic/20000722
-Krugosvet article: nauka_i_tehnika/biologiya/PALEONTOLOGIYA.html
-GitHub topic: paleontology
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Museo%20di%20Storia%20Naturale%20di%20Firenze%20-%20paleontology.JPG"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Abyssal%20Brachiopod%2000148.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Fossils%20banner.jpg"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/paleontology"
+Iconclass_notation: 49F22
+MeSH_tree_code:
+- H01.277.875
+- I01.076.368.584
+IPTC_NewsCode: mediatopic/20000722
+Krugosvet_article: nauka_i_tehnika/biologiya/PALEONTOLOGIYA.html
+GitHub_topic: paleontology
 ---
-
 
 ## #has_/text_of_/abstract 
 

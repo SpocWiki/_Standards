@@ -1,53 +1,53 @@
----
+﻿---
 has_id_wikidata: Q8087
-is the study of: "[[_Standards/WikiData/WD~shape,207961]]"
-different from:
-  - "[[_Standards/WikiData/WD~shape,207961]]"
-  - "[[_Standards/WikiData/WD~La Géométrie,210113]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Geometry,84697032]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-instance of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
-history of topic: "[[_Standards/WikiData/WD~history of geometry,2393733]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of geometry,7112649]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Q13561427,13561427]]"
-  - "[[_Standards/WikiData/WD~Template_Geometry-footer,14440083]]"
-  - "[[_Standards/WikiData/WD~Q25717449,25717449]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Geometry,14615019]]"
-practiced by:
-  - "[[_Standards/WikiData/WD~Chartered Building Surveyor,16245517]]"
-  - "[[_Standards/WikiData/WD~geometer,21772571]]"
-Stack Exchange tag:
-  - https://math.stackexchange.com/tags/geometry
-  - https://matheducators.stackexchange.com/tags/geometry
-  - https://physics.stackexchange.com/tags/geometry
-  - https://mathematica.stackexchange.com/tags/geometry
-Provenio UUID: 49c8d840-966d-4455-a4e1-232b5624dd0d
-Library of Congress Classification: QA440-QA699
-subclass of: "[[_Standards/WikiData/WD~mathematics,395]]"
-part of: "[[_Standards/WikiData/WD~mathematics,395]]"
-Universal Decimal Classification: "514"
-Dewey Decimal Classification: "516"
-Colon Classification: B6
-OmegaWiki Defined Meaning: "351389"
-Classification of Instructional Programs code: "27.0104"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Westerner%20and%20Arab%20practicing%20geometry%2015th%20century%20manuscript.jpg
-GitHub topic: geometry
-PhilPapers topic: geometry
+is_the_study_of: '[[_Standards/WikiData/WD~shape,207961]]'
+different_from:
+- '[[_Standards/WikiData/WD~shape,207961]]'
+- "[[_Standards/WikiData/WD~La Géométrie,210113]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- '[[_Standards/WikiData/WD~Geometry,84697032]]'
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+instance_of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of geometry,2393733]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of geometry,7112649]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Q13561427,13561427]]'
+- '[[_Standards/WikiData/WD~Template_Geometry-footer,14440083]]'
+- '[[_Standards/WikiData/WD~Q25717449,25717449]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geometry,14615019]]'
+practiced_by:
+- "[[_Standards/WikiData/WD~Chartered Building Surveyor,16245517]]"
+- '[[_Standards/WikiData/WD~geometer,21772571]]'
+Stack_Exchange_tag:
+- "https://math.stackexchange.com/tags/geometry"
+- "https://matheducators.stackexchange.com/tags/geometry"
+- "https://physics.stackexchange.com/tags/geometry"
+- "https://mathematica.stackexchange.com/tags/geometry"
+Provenio_UUID: 49c8d840-966d-4455-a4e1-232b5624dd0d
+Library_of_Congress_Classification: QA440-QA699
+subclass_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+Universal_Decimal_Classification: 514
+Dewey_Decimal_Classification: 516
+Colon_Classification: B6
+OmegaWiki_Defined_Meaning: 351389
+Classification_of_Instructional_Programs_code: 27.0104
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Westerner%20and%20Arab%20practicing%20geometry%2015th%20century%20manuscript.jpg"
+GitHub_topic: geometry
+PhilPapers_topic: geometry
 hashtag: geometry
 subreddit: Geometry
-Commons category: Geometry
-Krugosvet article:
-  - nauka_i_tehnika/matematika/GEOMETRII_OBZOR.html
-  - nauka_i_tehnika/matematika/GEOMETRIYA.html
+Commons_category: Geometry
+Krugosvet_article:
+- nauka_i_tehnika/matematika/GEOMETRII_OBZOR.html
+- nauka_i_tehnika/matematika/GEOMETRIYA.html
 ---
 
 #is_/same_as :: [[_Standards/WikiData/WD~geometry,8087]] 

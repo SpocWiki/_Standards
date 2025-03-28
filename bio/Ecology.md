@@ -1,55 +1,54 @@
----
+﻿---
 has_id_wikidata: Q7150
-Colon Classification: G:5
-MeSH tree code:
-  - H01.158.273.248
-  - H01.277.249
-Krugosvet article: nauka_i_tehnika/biologiya/EKOLOGIYA.html
-history of topic: "[[_Standards/WikiData/WD~history of ecology,551745]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~human ecology,720858]]"
-  - "[[_Standards/WikiData/WD~plant ecology,1387972]]"
-  - "[[_Standards/WikiData/WD~animal ecology,10900987]]"
-  - "[[_Standards/WikiData/WD~genetic ecology,48997455]]"
-said to be the same as: "[[_Standards/WikiData/WD~environmental research,1640238]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of ecology,7112610]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Ecology,11721377]]"
-instance of:
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch of geography,19935939]]"
-  - "[[_Standards/WikiData/WD~branch of biology,28598684]]"
-practiced by: "[[_Standards/WikiData/WD~ecologist,15839134]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q20482107,20482107]]"
-is the study of:
-  - "[[_Standards/WikiData/WD~ecological concept,56575300]]"
-  - "[[_Standards/WikiData/WD~ecosystem,37813]]"
-topic's main category: "[[_Standards/WikiData/WD~Q106843449,106843449]]"
-Provenio UUID: 113b2e20-1527-4fb9-bf06-052cb82cf4c1
-UMLS CUI:
-  - C0013546
-  - C0005550
-subclass of: "[[_Standards/WikiData/WD~biology,420]]"
-different from: "[[_Standards/WikiData/WD~ethology,7155]]"
-OmegaWiki Defined Meaning: "1050"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Grib%20skov.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-ekologia.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-ekologi.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%9A%E0%AF%82%E0%AE%B4%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D.ogg
-Stack Exchange tag: https://biology.stackexchange.com/tags/ecology
-U.S. National Archives Identifier: "10639171"
-All-Science Journal Classification Codes: "2303"
+Colon_Classification: "G:5"
+MeSH_tree_code:
+- H01.158.273.248
+- H01.277.249
+Krugosvet_article: nauka_i_tehnika/biologiya/EKOLOGIYA.html
+history_of_topic: "[[_Standards/WikiData/WD~history of ecology,551745]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~human ecology,720858]]"
+- "[[_Standards/WikiData/WD~plant ecology,1387972]]"
+- "[[_Standards/WikiData/WD~animal ecology,10900987]]"
+- "[[_Standards/WikiData/WD~genetic ecology,48997455]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~environmental research,1640238]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of ecology,7112610]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ecology,11721377]]'
+instance_of:
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~branch of geography,19935939]]"
+- "[[_Standards/WikiData/WD~branch of biology,28598684]]"
+practiced_by: '[[_Standards/WikiData/WD~ecologist,15839134]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20482107,20482107]]'
+is_the_study_of:
+- "[[_Standards/WikiData/WD~ecological concept,56575300]]"
+- '[[_Standards/WikiData/WD~ecosystem,37813]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q106843449,106843449]]'
+Provenio_UUID: 113b2e20-1527-4fb9-bf06-052cb82cf4c1
+UMLS_CUI:
+- C0013546
+- C0005550
+subclass_of: '[[_Standards/WikiData/WD~biology,420]]'
+different_from: '[[_Standards/WikiData/WD~ethology,7155]]'
+OmegaWiki_Defined_Meaning: 1050
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Grib%20skov.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ka-ekologia.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Sv-ekologi.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%9A%E0%AF%82%E0%AE%B4%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D.ogg"
+Stack_Exchange_tag: "https://biology.stackexchange.com/tags/ecology"
+U_S_National_Archives_Identifier: 10639171
+All-Science_Journal_Classification_Codes: 2303
 subreddit: ecologie
-GitHub topic: ecology
-Commons category: Ecology
+GitHub_topic: ecology
+Commons_category: Ecology
 ---
-
 
 ## #has_/text_of_/abstract 
 

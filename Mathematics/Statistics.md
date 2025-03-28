@@ -1,61 +1,61 @@
----
+﻿---
 has_id_wikidata: Q12483
-GitHub topic: statistics
+GitHub_topic: statistics
 subreddit: statistics
 hashtag: statistics
-studied in: "[[_Standards/WikiData/WD~sociolinguistics,160845]]"
-is the study of:
-  - "[[_Standards/WikiData/WD~probability distribution,200726]]"
-  - "[[_Standards/WikiData/WD~statistical data,35308049]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~descriptive statistics,380344]]"
-  - "[[_Standards/WikiData/WD~inferential statistics,28873772]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Soziolinguistika Hiztegia,124156602]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~formal science,816264]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-history of topic: "[[_Standards/WikiData/WD~history of statistics,1444687]]"
-different from: "[[_Standards/WikiData/WD~statistic,1949963]]"
-practiced by: "[[_Standards/WikiData/WD~statistician,2732142]]"
-instance of: "[[_Standards/WikiData/WD~academic major,4671286]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of statistics,7112738]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Statistics,7222968]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Statistics,11013087]]"
-learning outcome:
-  - "[[_Standards/WikiData/WD~probability concepts,117607427]]"
-  - "[[_Standards/WikiData/WD~Descriptive statistics concepts,117607986]]"
-Library of Congress Classification: QA276-QA280
-part of:
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-OmegaWiki Defined Meaning: "3618"
-social media followers: 535016
-U.S. National Archives Identifier:
-  - "10643325"
-  - "10659134"
-Commons category: Statistics
-Classification of Instructional Programs code:
-  - "27.0501"
-  - "27.05"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Normal%20Distribution.png
-Stack Exchange tag: https://math.stackexchange.com/tags/statistics
-UMLS CUI: C0038215
-MeSH tree code:
-  - E05.318.740
-  - H01.548.832
-  - N05.715.360.750
-  - N06.850.520.830
+studied_in: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
+is_the_study_of:
+- "[[_Standards/WikiData/WD~probability distribution,200726]]"
+- "[[_Standards/WikiData/WD~statistical data,35308049]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~descriptive statistics,380344]]"
+- "[[_Standards/WikiData/WD~inferential statistics,28873772]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Soziolinguistika Hiztegia,124156602]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~formal science,816264]]"
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of statistics,1444687]]"
+different_from: '[[_Standards/WikiData/WD~statistic,1949963]]'
+practiced_by: '[[_Standards/WikiData/WD~statistician,2732142]]'
+instance_of: "[[_Standards/WikiData/WD~academic major,4671286]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of statistics,7112738]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Statistics,7222968]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Statistics,11013087]]'
+learning_outcome:
+- "[[_Standards/WikiData/WD~probability concepts,117607427]]"
+- "[[_Standards/WikiData/WD~Descriptive statistics concepts,117607986]]"
+Library_of_Congress_Classification: QA276-QA280
+part_of:
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~economics,8134]]'
+OmegaWiki_Defined_Meaning: 3618
+social_media_followers: 535016
+U_S_National_Archives_Identifier:
+- 10643325
+- 10659134
+Commons_category: Statistics
+Classification_of_Instructional_Programs_code:
+- 27.0501
+- 27.05
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Normal%20Distribution.png"
+Stack_Exchange_tag: "https://math.stackexchange.com/tags/statistics"
+UMLS_CUI: C0038215
+MeSH_tree_code:
+- E05.318.740
+- H01.548.832
+- N05.715.360.750
+- N06.850.520.830
 ---
 
 ## #has_/text_of_/abstract 

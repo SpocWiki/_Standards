@@ -1,37 +1,36 @@
----
+﻿---
 has_id_wikidata: Q11468
-named after:
-  - "[[_Standards/WikiData/WD~nano,154357]]"
-  - "[[_Standards/WikiData/WD~nanometre,178674]]"
-different from: "[[_Standards/WikiData/WD~nanoscience,912169]]"
-is the study of: "[[_Standards/WikiData/WD~nanomaterial,967847]]"
-history of topic: "[[_Standards/WikiData/WD~history of nanotechnology,3974161]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Nanotechnology,4920752]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Nanotechnologie-article.ogg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Zorgt%20jouw%20tandpasta%20voor%20het%20volgende%20milieuprobleem-%20-%20GEMAK.webm
-MeSH tree code:
-  - H01.603
-  - J01.897.520.600
-IPTC NewsCode: mediatopic/20000766
+named_after:
+- '[[_Standards/WikiData/WD~nano,154357]]'
+- '[[_Standards/WikiData/WD~nanometre,178674]]'
+different_from: '[[_Standards/WikiData/WD~nanoscience,912169]]'
+is_the_study_of: '[[_Standards/WikiData/WD~nanomaterial,967847]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of nanotechnology,3974161]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nanotechnology,4920752]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Nanotechnologie-article.ogg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Zorgt%20jouw%20tandpasta%20voor%20het%20volgende%20milieuprobleem-%20-%20GEMAK.webm"
+MeSH_tree_code:
+- H01.603
+- J01.897.520.600
+IPTC_NewsCode: mediatopic/20000766
 subreddit: nanotech
-instance of:
-  - "[[_Standards/WikiData/WD~technical sciences,12015335]]"
-  - "[[_Standards/WikiData/WD~type of technology,112057532]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Nanotech footer,14444639]]"
-  - "[[_Standards/WikiData/WD~Template_Nanotechnology,14935994]]"
-practiced by: "[[_Standards/WikiData/WD~nanotechnologist,63343073]]"
-described by source: "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-UMLS CUI: C0872323
-subclass of: "[[_Standards/WikiData/WD~technology,11016]]"
-Commons gallery: Nanotechnology
-Commons category: Nanotechnology
-OmegaWiki Defined Meaning: "950786"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Fullerene%20Nanogears%20-%20GPN-2000-001535.jpg
-GitHub topic: nanotechnology
-PhilPapers topic: nanotechnology
+instance_of:
+- "[[_Standards/WikiData/WD~technical sciences,12015335]]"
+- "[[_Standards/WikiData/WD~type of technology,112057532]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Nanotech footer,14444639]]"
+- '[[_Standards/WikiData/WD~Template_Nanotechnology,14935994]]'
+practiced_by: '[[_Standards/WikiData/WD~nanotechnologist,63343073]]'
+described_by_source: "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+UMLS_CUI: C0872323
+subclass_of: '[[_Standards/WikiData/WD~technology,11016]]'
+Commons_gallery: Nanotechnology
+Commons_category: Nanotechnology
+OmegaWiki_Defined_Meaning: 950786
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fullerene%20Nanogears%20-%20GPN-2000-001535.jpg"
+GitHub_topic: nanotechnology
+PhilPapers_topic: nanotechnology
 ---
-
 
 ## #has_/text_of_/abstract 
 

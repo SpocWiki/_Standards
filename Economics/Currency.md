@@ -1,49 +1,48 @@
----
+﻿---
 has_id_wikidata: Q8142
-model item: "[[_Standards/WikiData/WD~Indian rupee,80524]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-different from:
-  - "[[_Standards/WikiData/WD~foreign currencies,831772]]"
-  - "[[_Standards/WikiData/WD~Currency,5194983]]"
-  - "[[_Standards/WikiData/WD~Munt,6936966]]"
-  - "[[_Standards/WikiData/WD~Devise,15220494]]"
-  - "[[_Standards/WikiData/WD~Währung,110367783]]"
-  - "[[_Standards/WikiData/WD~money,1368]]"
-  - "[[_Standards/WikiData/WD~coin,41207]]"
-has list: "[[_Standards/WikiData/WD~list of currencies,858338]]"
-history of topic: "[[_Standards/WikiData/WD~Q3137262,3137262]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox currency,6453809]]"
-said to be the same as: "[[_Standards/WikiData/WD~electronic money,6501095]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~medium of exchange,11105360]]"
-  - "[[_Standards/WikiData/WD~means of payment,65240001]]"
-  - "[[_Standards/WikiData/WD~money,1368]]"
-  - "[[_Standards/WikiData/WD~unit of measurement,47574]]"
-has characteristic: "[[_Standards/WikiData/WD~currency unit,12039317]]"
-properties for this type:
-  - currency symbol description
-  - ISO 4217 code
-  - central bank/issuer
-  - subdivision of this unit
-  - country
-Wikidata property: currency
-IAB code: "82"
-OmegaWiki Defined Meaning: "347472"
-Unicode character: 💵
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Money%20and%20pills%20in%20three%20colors%20banner.jpg
-Commons category: Currencies
-Basisklassifikation: "83.44"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Billets%20de%205000.jpg
-described at URL: http://publications.europa.eu/code/en/en-5000500.htm
-Stack Exchange tag: https://stackoverflow.com/tags/currency
-OpenStreetMap tag or key: Key:currency
-Colon Classification: X61
+model_item: "[[_Standards/WikiData/WD~Indian rupee,80524]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+different_from:
+- "[[_Standards/WikiData/WD~foreign currencies,831772]]"
+- '[[_Standards/WikiData/WD~Currency,5194983]]'
+- '[[_Standards/WikiData/WD~Munt,6936966]]'
+- '[[_Standards/WikiData/WD~Devise,15220494]]'
+- '[[_Standards/WikiData/WD~Währung,110367783]]'
+- '[[_Standards/WikiData/WD~money,1368]]'
+- '[[_Standards/WikiData/WD~coin,41207]]'
+has_list: "[[_Standards/WikiData/WD~list of currencies,858338]]"
+history_of_topic: '[[_Standards/WikiData/WD~Q3137262,3137262]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox currency,6453809]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~electronic money,6501095]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~medium of exchange,11105360]]"
+- "[[_Standards/WikiData/WD~means of payment,65240001]]"
+- '[[_Standards/WikiData/WD~money,1368]]'
+- "[[_Standards/WikiData/WD~unit of measurement,47574]]"
+has_characteristic: "[[_Standards/WikiData/WD~currency unit,12039317]]"
+properties_for_this_type:
+- "currency symbol description"
+- "ISO 4217 code"
+- "central bank/issuer"
+- "subdivision of this unit"
+- country
+Wikidata_property: currency
+IAB_code: 82
+OmegaWiki_Defined_Meaning: 347472
+Unicode_character: "\U0001F4B5"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Money%20and%20pills%20in%20three%20colors%20banner.jpg"
+Commons_category: Currencies
+Basisklassifikation: 83.44
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Billets%20de%205000.jpg"
+described_at_URL: "http://publications.europa.eu/code/en/en-5000500.htm"
+Stack_Exchange_tag: "https://stackoverflow.com/tags/currency"
+OpenStreetMap_tag_or_key: "Key:currency"
+Colon_Classification: X61
 ---
-
 
 ## #has_/text_of_/abstract 
 

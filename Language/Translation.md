@@ -1,37 +1,36 @@
----
+﻿---
 has_id_wikidata: Q7553
-practiced by:
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~exegete,21185790]]"
-studied in: "[[_Standards/WikiData/WD~translation studies,501778]]"
-described by source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~human communication,1066689]]"
-  - "[[_Standards/WikiData/WD~transformation,65757353]]"
-instance of:
-  - "[[_Standards/WikiData/WD~craft,2207288]]"
-  - "[[_Standards/WikiData/WD~academic major,4671286]]"
-  - "[[_Standards/WikiData/WD~service,7406919]]"
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
-Krugosvet article: gumanitarnye_nauki/lingvistika/PEREVOD.html
-different from:
-  - "[[_Standards/WikiData/WD~translated edition,21112633]]"
-  - "[[_Standards/WikiData/WD~translated work,125309905]]"
-"product, material, or service produced or provided": "[[_Standards/WikiData/WD~translated edition,21112633]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Translation info,106979019]]"
-said to be the same as: "[[_Standards/WikiData/WD~translating activity,115160303]]"
-Baidu Tieba name: 翻译
-MeSH tree code: L01.462.500.682.920
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%9Cbersetzung2.ogg
+practiced_by:
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~exegete,21185790]]'
+studied_in: "[[_Standards/WikiData/WD~translation studies,501778]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~human communication,1066689]]"
+- '[[_Standards/WikiData/WD~transformation,65757353]]'
+instance_of:
+- '[[_Standards/WikiData/WD~craft,2207288]]'
+- "[[_Standards/WikiData/WD~academic major,4671286]]"
+- '[[_Standards/WikiData/WD~service,7406919]]'
+- '[[_Standards/WikiData/WD~occupation,12737077]]'
+Krugosvet_article: gumanitarnye_nauki/lingvistika/PEREVOD.html
+different_from:
+- "[[_Standards/WikiData/WD~translated edition,21112633]]"
+- "[[_Standards/WikiData/WD~translated work,125309905]]"
+product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~translated edition,21112633]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Translation info,106979019]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~translating activity,115160303]]"
+Baidu_Tieba_name: 翻译
+MeSH_tree_code: L01.462.500.682.920
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%9Cbersetzung2.ogg"
 Libris-URI: gdsvtxz01ctbbm0
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Icon%20Translate%20to%20Gujarati.png
-Wikidata property: translation
-OmegaWiki Defined Meaning: "7173"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Rosetta%20Stone.JPG
-U.S. National Archives Identifier: "10632699"
-Commons category: Translation
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Icon%20Translate%20to%20Gujarati.png"
+Wikidata_property: translation
+OmegaWiki_Defined_Meaning: 7173
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rosetta%20Stone.JPG"
+U_S_National_Archives_Identifier: 10632699
+Commons_category: Translation
 ---
-
 
 ## #has_/text_of_/abstract 
 

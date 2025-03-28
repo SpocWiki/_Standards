@@ -1,55 +1,54 @@
----
+﻿---
 aliases:
-  - Black hole
+- "Black hole"
 has_id_wikidata: Q589
-short name:
-  - TN
-  - ЧД
-  - ČL
-  - SL
-  - BH
-  - BN
-different from:
-  - "[[_Standards/WikiData/WD~white hole,131468]]"
-  - "[[_Standards/WikiData/WD~black dwarf,5976]]"
-opposite of: "[[_Standards/WikiData/WD~white hole,131468]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~angular momentum,161254]]"
-  - "[[_Standards/WikiData/WD~gravitational wave,190035]]"
-  - "[[_Standards/WikiData/WD~Tolman–Oppenheimer–Volkoff limit,1139232]]"
-  - "[[_Standards/WikiData/WD~electric charge,1111]]"
-  - "[[_Standards/WikiData/WD~mass,11423]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~event horizon,181741]]"
-  - "[[_Standards/WikiData/WD~gravitational singularity,201721]]"
-  - "[[_Standards/WikiData/WD~firewall,5452017]]"
-has effect: "[[_Standards/WikiData/WD~Hawking radiation,497396]]"
-subclass of: "[[_Standards/WikiData/WD~massive compact halo object,1457669]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Black holes,6720830]]"
+short_name:
+- TN
+- ЧД
+- ČL
+- SL
+- BH
+- BN
+different_from:
+- "[[_Standards/WikiData/WD~white hole,131468]]"
+- "[[_Standards/WikiData/WD~black dwarf,5976]]"
+opposite_of: "[[_Standards/WikiData/WD~white hole,131468]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~angular momentum,161254]]"
+- "[[_Standards/WikiData/WD~gravitational wave,190035]]"
+- "[[_Standards/WikiData/WD~Tolman–Oppenheimer–Volkoff limit,1139232]]"
+- "[[_Standards/WikiData/WD~electric charge,1111]]"
+- '[[_Standards/WikiData/WD~mass,11423]]'
+has_part_s_:
+- "[[_Standards/WikiData/WD~event horizon,181741]]"
+- "[[_Standards/WikiData/WD~gravitational singularity,201721]]"
+- '[[_Standards/WikiData/WD~firewall,5452017]]'
+has_effect: "[[_Standards/WikiData/WD~Hawking radiation,497396]]"
+subclass_of: "[[_Standards/WikiData/WD~massive compact halo object,1457669]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Black holes,6720830]]"
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details-ru.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details%20af.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details%20in%20bengali%20version..png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20zoom2.tif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cierna%20diera-az.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cierna%20diera.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gergin%20ufuk.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Penrose%20Diagrams%20of%20various%20black%20hole%20solutions.svg
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Zwart%20gat-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D6%87%20%D5%AD%D5%B8%D5%BC%D5%B8%D5%B9%20%28Black%20hole%29.ogg
-Commons gallery: Black hole
-Commons category: Black holes
-Krugosvet article: nauka_i_tehnika/astronomiya/CHERNAYA_DIRA.html
-instance of: "[[_Standards/WikiData/WD~astronomical object type,17444909]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg
-Stack Exchange tag: https://physics.stackexchange.com/tags/black-holes
-video: http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Black%20Hole%20Visualization%20Takes%20Viewers%20Beyond%20the%20Brink%20%28SVS14576%20BH%20Plunge%20Mollweide%208192x4096%2060%29.webm
-studied in: "[[_Standards/WikiData/WD~astrophysics,37547]]"
-OmegaWiki Defined Meaning: "8329"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details-ru.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details%20af.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details%20in%20bengali%20version..png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20zoom2.tif"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Cierna%20diera-az.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Cierna%20diera.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Gergin%20ufuk.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Penrose%20Diagrams%20of%20various%20black%20hole%20solutions.svg"
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Zwart%20gat-article.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D6%87%20%D5%AD%D5%B8%D5%BC%D5%B8%D5%B9%20%28Black%20hole%29.ogg"
+Commons_gallery: "Black hole"
+Commons_category: "Black holes"
+Krugosvet_article: nauka_i_tehnika/astronomiya/CHERNAYA_DIRA.html
+instance_of: "[[_Standards/WikiData/WD~astronomical object type,17444909]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg"
+Stack_Exchange_tag: "https://physics.stackexchange.com/tags/black-holes"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Black%20Hole%20Visualization%20Takes%20Viewers%20Beyond%20the%20Brink%20%28SVS14576%20BH%20Plunge%20Mollweide%208192x4096%2060%29.webm"
+studied_in: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+OmegaWiki_Defined_Meaning: 8329
 ---
-
 
 ## #has_/text_of_/abstract 
 

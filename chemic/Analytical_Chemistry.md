@@ -1,29 +1,28 @@
----
+﻿---
 aliases:
-  - Analytical chemistry
+- "Analytical chemistry"
 has_id_wikidata: Q2346
-instance of:
-  - "[[_Standards/WikiData/WD~academic major,4671286]]"
-  - "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Analytical chemistry,8084583]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Gas%20Chromatography%20Laboratory.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-ElsaBornFree-qu%C3%ADmica%20anal%C3%ADtica.wav
-Colon Classification: E:3
-Krugosvet article: nauka_i_tehnika/himiya/HIMIYA_ANALITICHESKAYA.html
-practiced by: "[[_Standards/WikiData/WD~analytical chemist,43668003]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
-UMLS CUI: C0007998
-MeSH tree code: H01.181.309
-subclass of: "[[_Standards/WikiData/WD~chemistry,2329]]"
-OmegaWiki Defined Meaning: "168"
-Universal Decimal Classification: "543"
-Dewey Decimal Classification: "543"
-Regensburg Classification: VG
-Commons category: Analytical chemistry
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Analytical%20instrument.png
+instance_of:
+- "[[_Standards/WikiData/WD~academic major,4671286]]"
+- "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Analytical chemistry,8084583]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gas%20Chromatography%20Laboratory.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-ElsaBornFree-qu%C3%ADmica%20anal%C3%ADtica.wav"
+Colon_Classification: "E:3"
+Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA_ANALITICHESKAYA.html
+practiced_by: "[[_Standards/WikiData/WD~analytical chemist,43668003]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
+UMLS_CUI: C0007998
+MeSH_tree_code: H01.181.309
+subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+OmegaWiki_Defined_Meaning: 168
+Universal_Decimal_Classification: 543
+Dewey_Decimal_Classification: 543
+Regensburg_Classification: VG
+Commons_category: "Analytical chemistry"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Analytical%20instrument.png"
 ---
-
 
 ## #has_/text_of_/abstract 
 

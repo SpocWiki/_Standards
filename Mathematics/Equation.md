@@ -1,27 +1,26 @@
----
+﻿---
 has_id_wikidata: Q11345
-opposite of: "[[_Standards/WikiData/WD~inequation,165309]]"
-different from: "[[_Standards/WikiData/WD~chemical equation,182527]]"
-studied in: "[[_Standards/WikiData/WD~elementary algebra,211294]]"
-has part(s): "[[_Standards/WikiData/WD~equals sign,214796]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-manifestation of: "[[_Standards/WikiData/WD~equality,842346]]"
-subclass of: "[[_Standards/WikiData/WD~formula,976981]]"
-has list: "[[_Standards/WikiData/WD~list of equations,3243244]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-properties for this type: defining formula
-Colon Classification: B23
-OmegaWiki Defined Meaning: "477547"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Equation%20Ever.png
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3.wav
-IEV number: 102-01-25
-Commons category: Equations
-Krugosvet article: matematika/uravneniya
+opposite_of: '[[_Standards/WikiData/WD~inequation,165309]]'
+different_from: "[[_Standards/WikiData/WD~chemical equation,182527]]"
+studied_in: "[[_Standards/WikiData/WD~elementary algebra,211294]]"
+has_part_s_: "[[_Standards/WikiData/WD~equals sign,214796]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+manifestation_of: '[[_Standards/WikiData/WD~equality,842346]]'
+subclass_of: '[[_Standards/WikiData/WD~formula,976981]]'
+has_list: "[[_Standards/WikiData/WD~list of equations,3243244]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+properties_for_this_type: "defining formula"
+Colon_Classification: B23
+OmegaWiki_Defined_Meaning: 477547
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/First%20Equation%20Ever.png"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3.wav"
+IEV_number: 102-01-25
+Commons_category: Equations
+Krugosvet_article: matematika/uravneniya
 ---
-
 
 ## #has_/text_of_/abstract 
 

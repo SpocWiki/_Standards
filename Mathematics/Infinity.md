@@ -1,31 +1,30 @@
----
+﻿---
 has_id_wikidata: Q205
-opposite of:
-  - "[[_Standards/WikiData/WD~infinitesimal,193885]]"
-  - "[[_Standards/WikiData/WD~zero,204]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-2_2019 Quantities and units — Part 2_ Mathematics,109490582]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-said to be the same as:
-  - "[[_Standards/WikiData/WD~division by zero,848539]]"
-  - "[[_Standards/WikiData/WD~infinity,1405962]]"
-  - "[[_Standards/WikiData/WD~semi-infinite,7449306]]"
-facet of: "[[_Standards/WikiData/WD~infinity,1405962]]"
-subclass of: "[[_Standards/WikiData/WD~cardinality,4049983]]"
-different from: "[[_Standards/WikiData/WD~infinity symbol,6030066]]"
+opposite_of:
+- '[[_Standards/WikiData/WD~infinitesimal,193885]]'
+- '[[_Standards/WikiData/WD~zero,204]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~ISO 80000-2_2019 Quantities and units — Part 2_ Mathematics,109490582]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+said_to_be_the_same_as:
+- "[[_Standards/WikiData/WD~division by zero,848539]]"
+- '[[_Standards/WikiData/WD~infinity,1405962]]'
+- '[[_Standards/WikiData/WD~semi-infinite,7449306]]'
+facet_of: '[[_Standards/WikiData/WD~infinity,1405962]]'
+subclass_of: '[[_Standards/WikiData/WD~cardinality,4049983]]'
+different_from: "[[_Standards/WikiData/WD~infinity symbol,6030066]]"
 notation: "[[_Standards/WikiData/WD~infinity symbol,6030066]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infinity,15603314]]"
-instance of: "[[_Standards/WikiData/WD~mathematical concept,24034552]]"
-Commons category: Infinity
-OmegaWiki Defined Meaning: "968848"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Infinite.svg
-Dewey Decimal Classification: "111.6"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infinity,15603314]]'
+instance_of: "[[_Standards/WikiData/WD~mathematical concept,24034552]]"
+Commons_category: Infinity
+OmegaWiki_Defined_Meaning: 968848
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Infinite.svg"
+Dewey_Decimal_Classification: 111.6
 ---
-
 
 ## #has_/text_of_/abstract 
 

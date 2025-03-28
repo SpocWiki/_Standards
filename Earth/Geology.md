@@ -1,64 +1,63 @@
----
+﻿---
 has_id_wikidata: Q1069
-Krugosvet article: Earth_sciences/geologiya/GEOLOGIYA.html
-MeSH tree code: H01.277.562
-IPTC NewsCode: mediatopic/20000727
-is the study of: "[[_Standards/WikiData/WD~lithosphere,83296]]"
-practiced by: "[[_Standards/WikiData/WD~geologist,520549]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-instance of:
-  - "[[_Standards/WikiData/WD~field of study,1047113]]"
-  - "[[_Standards/WikiData/WD~field of study,2267705]]"
-  - "[[_Standards/WikiData/WD~branch of science,2465832]]"
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-history of topic: "[[_Standards/WikiData/WD~history of geology,1779809]]"
-different from:
-  - "[[_Standards/WikiData/WD~genology,3508604]]"
-  - "[[_Standards/WikiData/WD~Q11272686,11272686]]"
-  - "[[_Standards/WikiData/WD~geography,1071]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of geology,7112648]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Geology,14943910]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Geology,15077486]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Geology,21177154]]"
-Provenio UUID: a102b164-faaa-4ecc-92fe-b86264d0d940
-BHCL UUID: d30c8709-09cb-4ac6-89d0-b06643d1beda
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20litol%C3%B3gico%20de%20Genicera.png
-UMLS CUI: C0017448
-entry in abbreviations table:
-  - jool.
-  - геол.
-partially coincident with: "[[_Standards/WikiData/WD~paleontology,7205]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~natural science,7991]]"
-  - "[[_Standards/WikiData/WD~earth science,8008]]"
-facet of: "[[_Standards/WikiData/WD~earth science,8008]]"
-has characteristic: "[[_Standards/WikiData/WD~geologic time scale,43521]]"
-IAB code: "470"
-Dewey Decimal Classification:
-  - "550"
-  - "551"
-Colon Classification: H
-All-Science Journal Classification Codes: "1907"
-OmegaWiki Defined Meaning: "1645"
-Commons gallery: Geology
-Commons category: Geology
-DPLA subject term: Geology
-Iconclass notation: "49E5"
-GitHub topic: geology
+Krugosvet_article: Earth_sciences/geologiya/GEOLOGIYA.html
+MeSH_tree_code: H01.277.562
+IPTC_NewsCode: mediatopic/20000727
+is_the_study_of: '[[_Standards/WikiData/WD~lithosphere,83296]]'
+practiced_by: '[[_Standards/WikiData/WD~geologist,520549]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+instance_of:
+- "[[_Standards/WikiData/WD~field of study,1047113]]"
+- "[[_Standards/WikiData/WD~field of study,2267705]]"
+- "[[_Standards/WikiData/WD~branch of science,2465832]]"
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of geology,1779809]]"
+different_from:
+- '[[_Standards/WikiData/WD~genology,3508604]]'
+- '[[_Standards/WikiData/WD~Q11272686,11272686]]'
+- '[[_Standards/WikiData/WD~geography,1071]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of geology,7112648]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Geology,14943910]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Geology,15077486]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geology,21177154]]'
+Provenio_UUID: a102b164-faaa-4ecc-92fe-b86264d0d940
+BHCL_UUID: d30c8709-09cb-4ac6-89d0-b06643d1beda
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20litol%C3%B3gico%20de%20Genicera.png"
+UMLS_CUI: C0017448
+entry_in_abbreviations_table:
+- jool.
+- геол.
+partially_coincident_with: '[[_Standards/WikiData/WD~paleontology,7205]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~natural science,7991]]"
+- "[[_Standards/WikiData/WD~earth science,8008]]"
+facet_of: "[[_Standards/WikiData/WD~earth science,8008]]"
+has_characteristic: "[[_Standards/WikiData/WD~geologic time scale,43521]]"
+IAB_code: 470
+Dewey_Decimal_Classification:
+- 550
+- 551
+Colon_Classification: H
+All-Science_Journal_Classification_Codes: 1907
+OmegaWiki_Defined_Meaning: 1645
+Commons_gallery: Geology
+Commons_category: Geology
+DPLA_subject_term: Geology
+Iconclass_notation: 49E5
+GitHub_topic: geology
 subreddit: geology
-U.S. National Archives Identifier: "10640023"
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Geologia.mp3
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Geologie-article.ogg
+U_S_National_Archives_Identifier: 10640023
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Geologia.mp3"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Geologie-article.ogg"
 ---
-
 
 ## #has_/text_of_/abstract 
 

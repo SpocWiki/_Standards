@@ -1,42 +1,41 @@
----
+﻿---
 has_id_wikidata: Q8192
-used by:
-  - "[[_Standards/WikiData/WD~scribe,916292]]"
-  - "[[_Standards/WikiData/WD~written work,47461344]]"
-  - "[[_Standards/WikiData/WD~paleographic index,65768889]]"
-  - "[[_Standards/WikiData/WD~typing hand,65768893]]"
-history of topic: "[[_Standards/WikiData/WD~history of writing,1340267]]"
-studied in: "[[_Standards/WikiData/WD~graphemics,1411056]]"
-subclass of: "[[_Standards/WikiData/WD~notation,2001982]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox writing system,5640628]]"
-  - "[[_Standards/WikiData/WD~Template_Writing systems sidebar,6238870]]"
-  - "[[_Standards/WikiData/WD~Template_Writing systems,13410525]]"
-part of: "[[_Standards/WikiData/WD~linguistic system,6554068]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Writing system,13256088]]"
-has list: "[[_Standards/WikiData/WD~list of writing systems,19845720]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-different from: "[[_Standards/WikiData/WD~handwriting style,33260112]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~script,63801299]]"
-  - "[[_Standards/WikiData/WD~orthography,43091]]"
-instance of: "[[_Standards/WikiData/WD~type of system,96116695]]"
-has characteristic: "[[_Standards/WikiData/WD~type of writing system,119520394]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AB%D6%80%20%28Writing%20systems%29.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20alphabets%20%26%20writing%20systems.svg
-Wikidata property: writing system
-Dewey Decimal Classification: "411"
-OmegaWiki Defined Meaning: "739994"
-Universal Decimal Classification: "003.2"
-Commons category: Writing systems
-Wolfram Language entity type: WritingScript
-Gujarati Vishwakosh entry: લિપિ
+used_by:
+- '[[_Standards/WikiData/WD~scribe,916292]]'
+- "[[_Standards/WikiData/WD~written work,47461344]]"
+- "[[_Standards/WikiData/WD~paleographic index,65768889]]"
+- "[[_Standards/WikiData/WD~typing hand,65768893]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of writing,1340267]]"
+studied_in: '[[_Standards/WikiData/WD~graphemics,1411056]]'
+subclass_of: '[[_Standards/WikiData/WD~notation,2001982]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox writing system,5640628]]"
+- "[[_Standards/WikiData/WD~Template_Writing systems sidebar,6238870]]"
+- "[[_Standards/WikiData/WD~Template_Writing systems,13410525]]"
+part_of: "[[_Standards/WikiData/WD~linguistic system,6554068]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Writing system,13256088]]"
+has_list: "[[_Standards/WikiData/WD~list of writing systems,19845720]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+different_from: "[[_Standards/WikiData/WD~handwriting style,33260112]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~script,63801299]]'
+- '[[_Standards/WikiData/WD~orthography,43091]]'
+instance_of: "[[_Standards/WikiData/WD~type of system,96116695]]"
+has_characteristic: "[[_Standards/WikiData/WD~type of writing system,119520394]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AB%D6%80%20%28Writing%20systems%29.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20alphabets%20%26%20writing%20systems.svg"
+Wikidata_property: "writing system"
+Dewey_Decimal_Classification: 411
+OmegaWiki_Defined_Meaning: 739994
+Universal_Decimal_Classification: 003.2
+Commons_category: "Writing systems"
+Wolfram_Language_entity_type: WritingScript
+Gujarati_Vishwakosh_entry: લિપિ
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,56 +1,49 @@
----
+﻿---
 has_id_wikidata: Q167
-instance of:
-  - "[[_Standards/WikiData/WD~transcendental number,173091]]"
-  - "[[_Standards/WikiData/WD~mathematical constant,186509]]"
-  - "[[_Standards/WikiData/WD~UCUM constant,83155724]]"
-  - "[[_Standards/WikiData/WD~real number,12916]]"
-named after:
-  - "[[_Standards/WikiData/WD~Ludolph van Ceulen,310771]]"
-  - "[[_Standards/WikiData/WD~circle,17278]]"
-significant person: "[[_Standards/WikiData/WD~William Jones,371877]]"
-approximation algorithm:
-  - "[[_Standards/WikiData/WD~Bailey–Borwein–Plouffe formula,803807]]"
-  - "[[_Standards/WikiData/WD~Wallis product,1501324]]"
-  - "[[_Standards/WikiData/WD~Kochański's approximation,2006381]]"
-  - "[[_Standards/WikiData/WD~Chudnovsky algorithm,2208385]]"
-  - "[[_Standards/WikiData/WD~Gauss–Legendre algorithm,2448949]]"
-  - "[[_Standards/WikiData/WD~Machin-like formula,3077635]]"
-  - "[[_Standards/WikiData/WD~Borwein's algorithm,3751018]]"
-  - "[[_Standards/WikiData/WD~Zhao Youqin's π algorithm,17278655]]"
-  - "[[_Standards/WikiData/WD~Leibniz formula for π,97226587]]"
-different from:
-  - "[[_Standards/WikiData/WD~Pi greco,3901786]]"
-  - "[[_Standards/WikiData/WD~Pī,22673904]]"
-  - "[[_Standards/WikiData/WD~Pi,14411]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-less than: "[[_Standards/WikiData/WD~22_7,17987729]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-2_2019 Quantities and units — Part 2_ Mathematics,109490582]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q114451702,114451702]]"
-studied in: "[[_Standards/WikiData/WD~mathematics,395]]"
-notation: "[[_Standards/WikiData/WD~pi,168]]"
-quantity symbol (LaTeX): |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="\pi ">
-    <semantics>
-      <mi>&#x03C0;<!-- π --></mi>
-      <annotation encoding="application/x-tex">\pi</annotation>
-    </semantics>
-  </math>
-Commons category: Pi
+instance_of:
+- "[[_Standards/WikiData/WD~transcendental number,173091]]"
+- "[[_Standards/WikiData/WD~mathematical constant,186509]]"
+- "[[_Standards/WikiData/WD~UCUM constant,83155724]]"
+- "[[_Standards/WikiData/WD~real number,12916]]"
+named_after:
+- "[[_Standards/WikiData/WD~Ludolph van Ceulen,310771]]"
+- '[[_Standards/WikiData/WD~circle,17278]]'
+significant_person: "[[_Standards/WikiData/WD~William Jones,371877]]"
+approximation_algorithm:
+- "[[_Standards/WikiData/WD~Bailey–Borwein–Plouffe formula,803807]]"
+- "[[_Standards/WikiData/WD~Wallis product,1501324]]"
+- "[[_Standards/WikiData/WD~Kochański's approximation,2006381]]"
+- "[[_Standards/WikiData/WD~Chudnovsky algorithm,2208385]]"
+- "[[_Standards/WikiData/WD~Gauss–Legendre algorithm,2448949]]"
+- "[[_Standards/WikiData/WD~Machin-like formula,3077635]]"
+- "[[_Standards/WikiData/WD~Borwein's algorithm,3751018]]"
+- "[[_Standards/WikiData/WD~Zhao Youqin's π algorithm,17278655]]"
+- "[[_Standards/WikiData/WD~Leibniz formula for π,97226587]]"
+different_from:
+- "[[_Standards/WikiData/WD~Pi greco,3901786]]"
+- '[[_Standards/WikiData/WD~Pī,22673904]]'
+- '[[_Standards/WikiData/WD~Pi,14411]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+less_than: '[[_Standards/WikiData/WD~22_7,17987729]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~ISO 80000-2_2019 Quantities and units — Part 2_ Mathematics,109490582]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q114451702,114451702]]'
+studied_in: '[[_Standards/WikiData/WD~mathematics,395]]'
+notation: '[[_Standards/WikiData/WD~pi,168]]'
+quantity_symbol_LaTeX_: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"\\pi \">\n  <semantics>\n    <mi>&#x03C0;<!-- π --></mi>\n    <annotation encoding=\"application/x-tex\">\\pi</annotation>\n  </semantics>\n</math>"
+Commons_category: Pi
 hashtag: π
-Unicode character: π
+Unicode_character: π
 name: π
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A4%BE%E0%A4%AF.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Pi-unrolled-720.gif
-Stack Exchange tag: https://stackoverflow.com/tags/pi
-UCUM code: "[pi]"
-TeX string: \pi
-Krugosvet article: nauka_i_tehnika/matematika/CHISLO_p.html
-numeric value: 3.141592653589793
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A4%BE%E0%A4%AF.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pi-unrolled-720.gif"
+Stack_Exchange_tag: "https://stackoverflow.com/tags/pi"
+UCUM_code: '[pi]'
+TeX_string: \pi
+Krugosvet_article: nauka_i_tehnika/matematika/CHISLO_p.html
+numeric_value: 3.141592653589793
 ---
-
 
 ## #has_/text_of_/abstract 
 

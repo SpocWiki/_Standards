@@ -1,33 +1,32 @@
----
+﻿---
 has_id_wikidata: Q158797
 aliases:
-  - Military engineering
-practiced by:
-  - "[[_Standards/WikiData/WD~military engineer,151197]]"
-  - "[[_Standards/WikiData/WD~sapper,1324245]]"
-  - "[[_Standards/WikiData/WD~combat engineer,101497855]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-instance of: "[[_Standards/WikiData/WD~military branch,781132]]"
-said to be the same as: "[[_Standards/WikiData/WD~Ingenieurkorps,1421548]]"
+- "Military engineering"
+practiced_by:
+- "[[_Standards/WikiData/WD~military engineer,151197]]"
+- '[[_Standards/WikiData/WD~sapper,1324245]]'
+- "[[_Standards/WikiData/WD~combat engineer,101497855]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+instance_of: "[[_Standards/WikiData/WD~military branch,781132]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ingenieurkorps,1421548]]'
 catchphrase: ubique
-motto text:
-  - ubique
-  - xingu
-BHCL UUID: c19d8b51-6631-477d-9e73-d7839569bfbf
-subclass of: "[[_Standards/WikiData/WD~engineering,11023]]"
-field of work: "[[_Standards/WikiData/WD~engineering,11023]]"
-Dewey Decimal Classification: "623"
-U.S. National Archives Identifier: "10643231"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%9F%D0%9F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BD%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%208.jpg
-Commons category: Military engineering
-Krugosvet article: nauka_i_tehnika/voennaya_tehnika/VOENNO-INZHENERNOE_DELO.html
+motto_text:
+- ubique
+- xingu
+BHCL_UUID: c19d8b51-6631-477d-9e73-d7839569bfbf
+subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+field_of_work: '[[_Standards/WikiData/WD~engineering,11023]]'
+Dewey_Decimal_Classification: 623
+U_S_National_Archives_Identifier: 10643231
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%9F%D0%9F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BD%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%208.jpg"
+Commons_category: "Military engineering"
+Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VOENNO-INZHENERNOE_DELO.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

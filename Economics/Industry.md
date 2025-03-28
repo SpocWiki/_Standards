@@ -1,34 +1,33 @@
----
+﻿---
 has_id_wikidata: Q8148
-different from: "[[_Standards/WikiData/WD~industry,268592]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~secondary sector of the economy,55639]]"
-said to be the same as: "[[_Standards/WikiData/WD~nijverheid,3096286]]"
-instance of: "[[_Standards/WikiData/WD~economic sector,3958441]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Industry,14615793]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of industry,16000278]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~Q52677530,52677530]]"
-UMLS CUI: C0039567
-Commons category: Industry (manufacturing)
-IAB code: "90"
-OmegaWiki Defined Meaning: "1922"
-Dewey Decimal Classification:
-  - "338"
-  - "338.4"
-Iconclass notation: 47B2
-MeSH tree code: J01.576
-Colon Classification: X8A
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Valero%20Three%20Rivers%20Refinery%20Texas%202020.jpg
+different_from: '[[_Standards/WikiData/WD~industry,268592]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+- "[[_Standards/WikiData/WD~secondary sector of the economy,55639]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~nijverheid,3096286]]'
+instance_of: "[[_Standards/WikiData/WD~economic sector,3958441]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Industry,14615793]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of industry,16000278]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q52677530,52677530]]'
+UMLS_CUI: C0039567
+Commons_category: "Industry (manufacturing)"
+IAB_code: 90
+OmegaWiki_Defined_Meaning: 1922
+Dewey_Decimal_Classification:
+- 338
+- 338.4
+Iconclass_notation: 47B2
+MeSH_tree_code: J01.576
+Colon_Classification: X8A
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Valero%20Three%20Rivers%20Refinery%20Texas%202020.jpg"
 hashtag: industries
 ---
-
 
 ## #has_/text_of_/abstract 
 

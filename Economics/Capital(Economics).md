@@ -1,23 +1,22 @@
----
+﻿---
 has_id_wikidata: Q8137
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-different from:
-  - "[[_Standards/WikiData/WD~financial capital,1897397]]"
-  - "[[_Standards/WikiData/WD~capital,3916071]]"
-subclass of: "[[_Standards/WikiData/WD~instrumental value,3736009]]"
-instance of: "[[_Standards/WikiData/WD~economic concept,29028649]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Types of capital,43143684]]"
-U.S. National Archives Identifier: "10637733"
-Commons category: Capital (economics)
-Krugosvet article: gumanitarnye_nauki/ekonomika_i_pravo/KAPITAL.html
-name: Capital (economics)
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+different_from:
+- "[[_Standards/WikiData/WD~financial capital,1897397]]"
+- '[[_Standards/WikiData/WD~capital,3916071]]'
+subclass_of: "[[_Standards/WikiData/WD~instrumental value,3736009]]"
+instance_of: "[[_Standards/WikiData/WD~economic concept,29028649]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Types of capital,43143684]]"
+U_S_National_Archives_Identifier: 10637733
+Commons_category: "Capital (economics)"
+Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/KAPITAL.html
+name: "Capital (economics)"
 ---
-
 
 ## #has_/text_of_/abstract 
 

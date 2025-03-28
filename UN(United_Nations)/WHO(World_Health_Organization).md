@@ -1,131 +1,130 @@
----
+﻿---
 aliases:
-  - World Health Organization
+- "World Health Organization"
 has_id_wikidata: Q7817
-partnership with:
-  - "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-  - "[[_Standards/WikiData/WD~Wikimedia Foundation,180]]"
-parent organization:
-  - "[[_Standards/WikiData/WD~United Nations Economic and Social Council,170075]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-official observer status in organisation:
-  - "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-  - "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
-  - "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
-interested in: "[[_Standards/WikiData/WD~public health,189603]]"
-field of work: "[[_Standards/WikiData/WD~public health,189603]]"
-instance of:
-  - "[[_Standards/WikiData/WD~international organization,484652]]"
-  - "[[_Standards/WikiData/WD~specialized agency of the United Nations,15925165]]"
-  - "[[_Standards/WikiData/WD~open-access publisher,45400320]]"
-  - "[[_Standards/WikiData/WD~academic publisher,96888669]]"
-has subsidiary:
-  - "[[_Standards/WikiData/WD~International Agency for Research on Cancer,552168]]"
-  - "[[_Standards/WikiData/WD~Pan American Health Organization,1856835]]"
-  - "[[_Standards/WikiData/WD~World Health Organization Regional Office for the Eastern Mediterranean,5330286]]"
-  - "[[_Standards/WikiData/WD~International Clinical Trials Registry Platform,29867940]]"
-  - "[[_Standards/WikiData/WD~Alliance for Health Policy and Systems Research,30259576]]"
-  - "[[_Standards/WikiData/WD~World Health Organization Regional Office for Africa,30262121]]"
-  - "[[_Standards/WikiData/WD~World Health Organization (France),30268340]]"
-  - "[[_Standards/WikiData/WD~World Health Organization Regional Office for Europe,33121054]]"
-  - "[[_Standards/WikiData/WD~World Health Organization Regional Office for the Western Pacific,33121383]]"
-  - "[[_Standards/WikiData/WD~World Health Organization Regional Office for South-East Asia,33121380]]"
+partnership_with:
+- "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
+- "[[_Standards/WikiData/WD~Wikimedia Foundation,180]]"
+parent_organization:
+- "[[_Standards/WikiData/WD~United Nations Economic and Social Council,170075]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+official_observer_status_in_organisation:
+- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
+- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
+- "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
+interested_in: "[[_Standards/WikiData/WD~public health,189603]]"
+field_of_work: "[[_Standards/WikiData/WD~public health,189603]]"
+instance_of:
+- "[[_Standards/WikiData/WD~international organization,484652]]"
+- "[[_Standards/WikiData/WD~specialized agency of the United Nations,15925165]]"
+- "[[_Standards/WikiData/WD~open-access publisher,45400320]]"
+- "[[_Standards/WikiData/WD~academic publisher,96888669]]"
+has_subsidiary:
+- "[[_Standards/WikiData/WD~International Agency for Research on Cancer,552168]]"
+- "[[_Standards/WikiData/WD~Pan American Health Organization,1856835]]"
+- "[[_Standards/WikiData/WD~World Health Organization Regional Office for the Eastern Mediterranean,5330286]]"
+- "[[_Standards/WikiData/WD~International Clinical Trials Registry Platform,29867940]]"
+- "[[_Standards/WikiData/WD~Alliance for Health Policy and Systems Research,30259576]]"
+- "[[_Standards/WikiData/WD~World Health Organization Regional Office for Africa,30262121]]"
+- "[[_Standards/WikiData/WD~World Health Organization (France),30268340]]"
+- "[[_Standards/WikiData/WD~World Health Organization Regional Office for Europe,33121054]]"
+- "[[_Standards/WikiData/WD~World Health Organization Regional Office for the Western Pacific,33121383]]"
+- "[[_Standards/WikiData/WD~World Health Organization Regional Office for South-East Asia,33121380]]"
 funder: "[[_Standards/WikiData/WD~Open Society Foundations,786194]]"
-legislative body: "[[_Standards/WikiData/WD~World Health Assembly,1188366]]"
-has works in the collection: "[[_Standards/WikiData/WD~Het Scheepvaartmuseum,1616123]]"
-award received:
-  - "[[_Standards/WikiData/WD~Princess of Asturias Award for International Cooperation,3321940]]"
-  - "[[_Standards/WikiData/WD~Officer of the Order of the Condor of the Andes,25711416]]"
-member of: "[[_Standards/WikiData/WD~International Association of Scientific, Technical, and Medical Publishers,6048595]]"
+legislative_body: "[[_Standards/WikiData/WD~World Health Assembly,1188366]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Het Scheepvaartmuseum,1616123]]"
+award_received:
+- "[[_Standards/WikiData/WD~Princess of Asturias Award for International Cooperation,3321940]]"
+- "[[_Standards/WikiData/WD~Officer of the Order of the Condor of the Andes,25711416]]"
+member_of: "[[_Standards/WikiData/WD~International Association of Scientific, Technical, and Medical Publishers,6048595]]"
 replaces: "[[_Standards/WikiData/WD~Office international d'hygiène publique,7079125]]"
-director / manager: "[[_Standards/WikiData/WD~Tedros Adhanom Ghebreyesus,16196017]]"
+director_manager: "[[_Standards/WikiData/WD~Tedros Adhanom Ghebreyesus,16196017]]"
 flag: "[[_Standards/WikiData/WD~flag of the World Health Organization,18499770]]"
-owner of: "[[_Standards/WikiData/WD~MedNet,21149834]]"
-website account on: "[[_Standards/WikiData/WD~Kahoot!,21683250]]"
+owner_of: '[[_Standards/WikiData/WD~MedNet,21149834]]'
+website_account_on: '[[_Standards/WikiData/WD~Kahoot!,21683250]]'
 industry: "[[_Standards/WikiData/WD~human health activities,29584363]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-  - "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
-  - "[[_Standards/WikiData/WD~Wikidata_ WikiProject Academic Publisher,117222928]]"
-  - "[[_Standards/WikiData/WD~Scheepvaartmuseum Wikidataproject,132231248]]"
-position held by head of the organization: "[[_Standards/WikiData/WD~Director-General of the World Health Organization,62070236]]"
-has part(s): "[[_Standards/WikiData/WD~World Health Organisation Advisory group,93471742]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-main regulatory text: "[[_Standards/WikiData/WD~Constitution of the World Health Organization,124665339]]"
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Health%20Organization%20membership%20status%20map.png
-official website: https://www.who.int
-contact page URL:
-  - https://www.who.int/about/contact-us
-  - https://www.who.int/ar/about/contact-us
-  - https://www.who.int/zh/about/contact-us
-  - https://www.who.int/fr/about/contact-us
-  - https://www.who.int/ru/about/contact-us
-  - https://www.who.int/es/about/contact-us
-web feed URL: https://www.who.int/rss-feeds/news-english.xml
-MeSH tree code: N03.540.514.718.800
-Threads username: who
-TikTok username: who
-Snapchat username: who
-Facebook username: who
-Instagram username: who
-short name:
-  - OMS
-  - WHO
-  - ВОЗ
-  - OMS
-  - OMS
-  - SZO
-  - СУТ
-  - 世卫组织
-  - 世衛
-  - 世衛組織
-  - СЗО
-official name:
-  - World Health Organization
-  - Всемирная организация здравоохранения
-  - منظمة الصحة العالمية
-  - Weltgesundheitsorganisation
-  - Organización Mundial de la Salud
-  - Organisation mondiale de la Santé
-  - 世界卫生组织
-  - Светска здравствена организација
-EU Corporate body code: WHO
-X (Twitter) username: WHO
-Commons gallery: World Health Organisation
-social media followers:
-  - 12067344
-  - 890000
-Commons category: United Nations World Health Organization
-inception: 1948-04-07T00:00:00Z 
-has_time_started: 1948-04-07T00:00:00Z 
-NLC authorities: "000469810"
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20WHO.svg
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+- "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
+- "[[_Standards/WikiData/WD~Wikidata_ WikiProject Academic Publisher,117222928]]"
+- "[[_Standards/WikiData/WD~Scheepvaartmuseum Wikidataproject,132231248]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director-General of the World Health Organization,62070236]]"
+has_part_s_: "[[_Standards/WikiData/WD~World Health Organisation Advisory group,93471742]]"
+described_by_source:
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of the World Health Organization,124665339]]"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Health%20Organization%20membership%20status%20map.png"
+official_website: "https://www.who.int"
+contact_page_URL:
+- "https://www.who.int/about/contact-us"
+- "https://www.who.int/ar/about/contact-us"
+- "https://www.who.int/zh/about/contact-us"
+- "https://www.who.int/fr/about/contact-us"
+- "https://www.who.int/ru/about/contact-us"
+- "https://www.who.int/es/about/contact-us"
+web_feed_URL: "https://www.who.int/rss-feeds/news-english.xml"
+MeSH_tree_code: N03.540.514.718.800
+Threads_username: who
+TikTok_username: who
+Snapchat_username: who
+Facebook_username: who
+Instagram_username: who
+short_name:
+- OMS
+- WHO
+- ВОЗ
+- OMS
+- OMS
+- SZO
+- СУТ
+- 世卫组织
+- 世衛
+- 世衛組織
+- СЗО
+official_name:
+- "World Health Organization"
+- "Всемирная организация здравоохранения"
+- "منظمة الصحة العالمية"
+- Weltgesundheitsorganisation
+- "Organización Mundial de la Salud"
+- "Organisation mondiale de la Santé"
+- 世界卫生组织
+- "Светска здравствена организација"
+EU_Corporate_body_code: WHO
+X_Twitter_username: WHO
+Commons_gallery: "World Health Organisation"
+social_media_followers:
+- 12067344
+- 890000
+Commons_category: "United Nations World Health Organization"
+inception: "1948-04-07T00:00:00Z"
+has_time_started: "1948-04-07T00:00:00Z"
+NLC_authorities: 000469810
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20WHO.svg"
 Libris-URI: rp35496922hhnr5
-Mastodon address: WHO@mstdn.social
-Pinterest username: worldhealthorganization
-GitHub username: WorldHealthOrganization
-UMLS CUI: C0043237
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Weltgesundheitsorganisation.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-WHO.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Health%20Organisation%20headquarters%2C%20Geneva%2C%20north%20and%20west%20sides%202007.jpg
-ISNI: "0000000121633745"
-Bluesky handle: who.int
-official language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Chinese,7850]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-headquarters location: "[[_Standards/WikiData/WD~Geneva,71]]"
+Mastodon_address: WHO@mstdn.social
+Pinterest_username: worldhealthorganization
+GitHub_username: WorldHealthOrganization
+UMLS_CUI: C0043237
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Weltgesundheitsorganisation.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-WHO.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Health%20Organisation%20headquarters%2C%20Geneva%2C%20north%20and%20west%20sides%202007.jpg"
+ISNI: 0000000121633745
+Bluesky_handle: who.int
+official_language:
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Chinese,7850]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39]]'
+headquarters_location: '[[_Standards/WikiData/WD~Geneva,71]]'
 employees: 7000
-OmegaWiki Defined Meaning: "712247"
+OmegaWiki_Defined_Meaning: 712247
 ---
-
 
 ## #has_/text_of_/abstract 
 

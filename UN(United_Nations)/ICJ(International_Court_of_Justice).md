@@ -1,71 +1,70 @@
----
+﻿---
 aliases:
-  - International Court of Justice
-  - Cour internationale de justice
-  - World Court
+- "International Court of Justice"
+- "Cour internationale de justice"
+- "World Court"
 has_id_wikidata: Q7801
-native label:
-  - International Court of Justice
-  - Cour internationale de Justice
-social media followers:
-  - 129671
-  - 13800
-EU Corporate body code: ICJ
-inception: 1945-01-01T00:00:00Z 
-has_time_started: 1945-01-01T00:00:00Z 
+native_label:
+- "International Court of Justice"
+- "Cour internationale de Justice"
+social_media_followers:
+- 129671
+- 13800
+EU_Corporate_body_code: ICJ
+inception: "1945-01-01T00:00:00Z"
+has_time_started: "1945-01-01T00:00:00Z"
 chairperson: "[[_Standards/WikiData/WD~Nawaf Salam,638463]]"
-different from:
-  - "[[_Standards/WikiData/WD~International Commission of Jurists,684800]]"
-  - "[[_Standards/WikiData/WD~International Criminal Court,47488]]"
-headquarters location: "[[_Standards/WikiData/WD~Peace Palace,834448]]"
+different_from:
+- "[[_Standards/WikiData/WD~International Commission of Jurists,684800]]"
+- "[[_Standards/WikiData/WD~International Criminal Court,47488]]"
+headquarters_location: "[[_Standards/WikiData/WD~Peace Palace,834448]]"
 replaces:
-  - "[[_Standards/WikiData/WD~Permanent Court of International Justice,838946]]"
-part of:
-  - "[[_Standards/WikiData/WD~United Nations System,854218]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-instance of:
-  - "[[_Standards/WikiData/WD~international court,1262438]]"
-  - "[[_Standards/WikiData/WD~principal organ of the United Nations,15899789]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-position held by head of the organization: "[[_Standards/WikiData/WD~President of the International Court of Justice,19926443]]"
-coordinate location: Point(4.295555555 52.086666666)
-FAQ URL:
-  - https://www.icj-cij.org/frequently-asked-questions
-phone number: +31-70-302-23-23
-image: http://commons.wikimedia.org/wiki/Special:FilePath/International%20Court%20of%20Justice%20HQ%202006.jpg
+- "[[_Standards/WikiData/WD~Permanent Court of International Justice,838946]]"
+part_of:
+- "[[_Standards/WikiData/WD~United Nations System,854218]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+instance_of:
+- "[[_Standards/WikiData/WD~international court,1262438]]"
+- "[[_Standards/WikiData/WD~principal organ of the United Nations,15899789]]"
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President of the International Court of Justice,19926443]]"
+coordinate_location: "Point(4.295555555 52.086666666)"
+FAQ_URL:
+- "https://www.icj-cij.org/frequently-asked-questions"
+phone_number: +31-70-302-23-23
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/International%20Court%20of%20Justice%20HQ%202006.jpg"
 ISNI:
-  - "0000000123753134"
-  - "0000000417552274"
-Google Play developer slug: Cour internationale de Justice
-email address: mailto:info@icj-cij.org
-seal image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20International%20Court%20of%20Justice.png
+- 0000000123753134
+- 0000000417552274
+Google_Play_developer_slug: "Cour internationale de Justice"
+email_address: "mailto:info@icj-cij.org"
+seal_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20International%20Court%20of%20Justice.png"
 Libris-URI: rp353p293x92lzz
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Internationaler%20Gerichtshof.ogg
-official website:
-  - https://icj-cij.org/home
-  - https://icj-cij.org/ar
-  - https://icj-cij.org/es
-  - https://icj-cij.org/ru
-  - https://icj-cij.org/ch
-parent organization: "[[_Standards/WikiData/WD~United Nations,1065]]"
-official language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-country: "[[_Standards/WikiData/WD~Netherlands,55]]"
-member count: 15
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Internationaler%20Gerichtshof.ogg"
+official_website:
+- "https://icj-cij.org/home"
+- "https://icj-cij.org/ar"
+- "https://icj-cij.org/es"
+- "https://icj-cij.org/ru"
+- "https://icj-cij.org/ch"
+parent_organization: "[[_Standards/WikiData/WD~United Nations,1065]]"
+official_language:
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+country: '[[_Standards/WikiData/WD~Netherlands,55]]'
+member_count: 15
 location: "[[_Standards/WikiData/WD~The Hague,36600]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~The Hague,36600]]"
-image of interior: http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Hall%20de%20Justice%20de%20Palais%20de%20La%20Paix%20%C3%A0%20La%20Haye%20Pays-Bas.jpg
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/International%20Court%20of%20Justice%20Seal.svg
-OmegaWiki Defined Meaning: "1992"
-RIA Novosti reference: "41965685"
-X (Twitter) username: cij_icj
-Commons Institution page: International Court of Justice
-Commons category: International Court of Justice
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~The Hague,36600]]"
+image_of_interior: "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Hall%20de%20Justice%20de%20Palais%20de%20La%20Paix%20%C3%A0%20La%20Haye%20Pays-Bas.jpg"
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/International%20Court%20of%20Justice%20Seal.svg"
+OmegaWiki_Defined_Meaning: 1992
+RIA_Novosti_reference: 41965685
+X_Twitter_username: cij_icj
+Commons_Institution_page: "International Court of Justice"
+Commons_category: "International Court of Justice"
 ---
-
 
 ## #has_/text_of_/abstract 
 

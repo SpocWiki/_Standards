@@ -1,68 +1,67 @@
----
+﻿---
 has_id_wikidata: Q634
-Commons category: Planets
-Unicode character: 🪐
-different from:
-  - "[[_Standards/WikiData/WD~Planetes,95063]]"
-  - "[[_Standards/WikiData/WD~Planeta,1206832]]"
-  - "[[_Standards/WikiData/WD~Planet,1817113]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~radius,173817]]"
-  - "[[_Standards/WikiData/WD~orbital elements,272626]]"
-  - "[[_Standards/WikiData/WD~clearing the neighbourhood,681824]]"
-  - "[[_Standards/WikiData/WD~surface area,1379273]]"
-  - "[[_Standards/WikiData/WD~planetary magnetic field,4274059]]"
-  - "[[_Standards/WikiData/WD~age,100343219]]"
-  - "[[_Standards/WikiData/WD~mass,11423]]"
-  - "[[_Standards/WikiData/WD~volume,39297]]"
-part of: "[[_Standards/WikiData/WD~planetary system,206717]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~planetary-mass object,400144]]"
-  - "[[_Standards/WikiData/WD~substellar object,3132741]]"
-parent astronomical body: "[[_Standards/WikiData/WD~star system,595871]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-next lower rank:
-  - "[[_Standards/WikiData/WD~minor planet,1022867]]"
-  - "[[_Standards/WikiData/WD~natural satellite,2537]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox planet,5864499]]"
-  - "[[_Standards/WikiData/WD~Q22772854,22772854]]"
-instance of: "[[_Standards/WikiData/WD~astronomical object type,17444909]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Planet,110737024]]"
-Provenio UUID: f95dd27c-36b7-42cc-afb3-bb39d733c282
-UMLS CUI: C0080026
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Montage%20of%20Our%20Solar%20System.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Planet2.ogg
-model item:
-  - "[[_Standards/WikiData/WD~Mercury,308]]"
-  - "[[_Standards/WikiData/WD~Jupiter,319]]"
-  - "[[_Standards/WikiData/WD~Earth,2]]"
-  - "[[_Standards/WikiData/WD~Mars,111]]"
-  - "[[_Standards/WikiData/WD~Saturn,193]]"
-next higher rank: "[[_Standards/WikiData/WD~star,523]]"
-child astronomical body: "[[_Standards/WikiData/WD~artificial satellite,26540]]"
-Colon Classification: B94
-equivalent class: http://dbpedia.org/ontology/Planet
-exact match: http://purl.obolibrary.org/obo/ENVO_01000800
-Stack Exchange tag:
-  - https://astronomy.stackexchange.com/tags/planet
-  - https://physics.stackexchange.com/tags/planets
-described at URL: https://www.whosonfirst.org/docs/placetypes/#planet
-U.S. National Archives Identifier: "10646853"
-OmegaWiki Defined Meaning: "7942"
-MeSH tree code:
-  - G01.060.075.680
-  - G01.060.075.730.700
+Commons_category: Planets
+Unicode_character: "\U0001FA90"
+different_from:
+- '[[_Standards/WikiData/WD~Planetes,95063]]'
+- '[[_Standards/WikiData/WD~Planeta,1206832]]'
+- '[[_Standards/WikiData/WD~Planet,1817113]]'
+has_characteristic:
+- '[[_Standards/WikiData/WD~radius,173817]]'
+- "[[_Standards/WikiData/WD~orbital elements,272626]]"
+- "[[_Standards/WikiData/WD~clearing the neighbourhood,681824]]"
+- "[[_Standards/WikiData/WD~surface area,1379273]]"
+- "[[_Standards/WikiData/WD~planetary magnetic field,4274059]]"
+- '[[_Standards/WikiData/WD~age,100343219]]'
+- '[[_Standards/WikiData/WD~mass,11423]]'
+- '[[_Standards/WikiData/WD~volume,39297]]'
+part_of: "[[_Standards/WikiData/WD~planetary system,206717]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~planetary-mass object,400144]]"
+- "[[_Standards/WikiData/WD~substellar object,3132741]]"
+parent_astronomical_body: "[[_Standards/WikiData/WD~star system,595871]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+next_lower_rank:
+- "[[_Standards/WikiData/WD~minor planet,1022867]]"
+- "[[_Standards/WikiData/WD~natural satellite,2537]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox planet,5864499]]"
+- '[[_Standards/WikiData/WD~Q22772854,22772854]]'
+instance_of: "[[_Standards/WikiData/WD~astronomical object type,17444909]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Planet,110737024]]'
+Provenio_UUID: f95dd27c-36b7-42cc-afb3-bb39d733c282
+UMLS_CUI: C0080026
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Montage%20of%20Our%20Solar%20System.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Planet2.ogg"
+model_item:
+- '[[_Standards/WikiData/WD~Mercury,308]]'
+- '[[_Standards/WikiData/WD~Jupiter,319]]'
+- '[[_Standards/WikiData/WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~Mars,111]]'
+- '[[_Standards/WikiData/WD~Saturn,193]]'
+next_higher_rank: '[[_Standards/WikiData/WD~star,523]]'
+child_astronomical_body: "[[_Standards/WikiData/WD~artificial satellite,26540]]"
+Colon_Classification: B94
+equivalent_class: "http://dbpedia.org/ontology/Planet"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_01000800"
+Stack_Exchange_tag:
+- "https://astronomy.stackexchange.com/tags/planet"
+- "https://physics.stackexchange.com/tags/planets"
+described_at_URL: "https://www.whosonfirst.org/docs/placetypes/#planet"
+U_S_National_Archives_Identifier: 10646853
+OmegaWiki_Defined_Meaning: 7942
+MeSH_tree_code:
+- G01.060.075.680
+- G01.060.075.730.700
 ---
-
 
 ## #has_/text_of_/abstract 
 

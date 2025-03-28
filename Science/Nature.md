@@ -1,36 +1,35 @@
----
+﻿---
 has_id_wikidata: Q7860
-opposite of: "[[_Standards/WikiData/WD~supernatural,80837]]"
-different from: "[[_Standards/WikiData/WD~Natura,396865]]"
-instance of: "[[_Standards/WikiData/WD~phenomenon,483247]]"
-studied in:
-  - "[[_Standards/WikiData/WD~natural history,484591]]"
-  - "[[_Standards/WikiData/WD~prirodovedenie,4379074]]"
-  - "[[_Standards/WikiData/WD~science,336]]"
-  - "[[_Standards/WikiData/WD~natural science,7991]]"
-said to be the same as: "[[_Standards/WikiData/WD~Prakṛti,920021]]"
-has part(s): "[[_Standards/WikiData/WD~natural landscape,1286517]]"
-has characteristic: "[[_Standards/WikiData/WD~pattern in nature,3455898]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Nature,8084570]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Nature,10814946]]"
-described by source: "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20natura%20medol.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Desert%20Electric.jpg
-IPTC NewsCode: mediatopic/20000441
+opposite_of: '[[_Standards/WikiData/WD~supernatural,80837]]'
+different_from: '[[_Standards/WikiData/WD~Natura,396865]]'
+instance_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
+studied_in:
+- "[[_Standards/WikiData/WD~natural history,484591]]"
+- '[[_Standards/WikiData/WD~prirodovedenie,4379074]]'
+- '[[_Standards/WikiData/WD~science,336]]'
+- "[[_Standards/WikiData/WD~natural science,7991]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Prakṛti,920021]]'
+has_part_s_: "[[_Standards/WikiData/WD~natural landscape,1286517]]"
+has_characteristic: "[[_Standards/WikiData/WD~pattern in nature,3455898]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Nature,8084570]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nature,10814946]]'
+described_by_source: "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20natura%20medol.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Desert%20Electric.jpg"
+IPTC_NewsCode: mediatopic/20000441
 hashtag:
-  - природа
-  - natural
-  - nature
-  - Natur
-MeSH tree code: K01.637
-Iconclass notation: "2"
-OmegaWiki Defined Meaning: "6357"
-Commons category: Nature
+- природа
+- natural
+- nature
+- Natur
+MeSH_tree_code: K01.637
+Iconclass_notation: 2
+OmegaWiki_Defined_Meaning: 6357
+Commons_category: Nature
 subreddit: nature
-PhilPapers topic: nature
-U.S. National Archives Identifier: "10643499"
+PhilPapers_topic: nature
+U_S_National_Archives_Identifier: 10643499
 ---
-
 
 ## #has_/text_of_/abstract 
 

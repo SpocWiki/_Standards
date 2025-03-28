@@ -1,69 +1,68 @@
----
+﻿---
 has_id_wikidata: Q441
-Iconclass notation: 49F1
-GitHub topic: botany
-MeSH tree code: H01.158.273.118
-IPTC NewsCode: mediatopic/20000720
-Krugosvet article: nauka_i_tehnika/biologiya/BOTANIKA.html
-has part(s):
-  - "[[_Standards/WikiData/WD~plant physiology,185973]]"
-  - "[[_Standards/WikiData/WD~vegetation,187997]]"
-  - "[[_Standards/WikiData/WD~paleobotany,192694]]"
-  - "[[_Standards/WikiData/WD~palynology,212919]]"
-  - "[[_Standards/WikiData/WD~phenology,272737]]"
-  - "[[_Standards/WikiData/WD~Plant evolutionary developmental biology,591138]]"
-  - "[[_Standards/WikiData/WD~phytochemistry,640068]]"
-  - "[[_Standards/WikiData/WD~plant morphology,655362]]"
-  - "[[_Standards/WikiData/WD~phytogeography,771220]]"
-  - "[[_Standards/WikiData/WD~phytosociology,1138244]]"
-  - "[[_Standards/WikiData/WD~plant ecology,1387972]]"
-  - "[[_Standards/WikiData/WD~plant reproduction,2725616]]"
-  - "[[_Standards/WikiData/WD~plant genetics,7201518]]"
-  - "[[_Standards/WikiData/WD~plant anatomy,4021]]"
-model item: "[[_Standards/WikiData/WD~phycology,188391]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-instance of:
-  - "[[_Standards/WikiData/WD~field of study,1047113]]"
-  - "[[_Standards/WikiData/WD~branch of science,2465832]]"
-  - "[[_Standards/WikiData/WD~academic major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch of biology,28598684]]"
-practiced by:
-  - "[[_Standards/WikiData/WD~botanical collector,2083925]]"
-  - "[[_Standards/WikiData/WD~botanist,2374149]]"
-history of topic: "[[_Standards/WikiData/WD~history of botany,2495041]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Botany,6724193]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Plants,7103691]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Plants,10823481]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of botany,18358863]]"
-UMLS CUI: C0006038
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Diversity%20of%20plants%20image%20version%20q.png
-subclass of: "[[_Standards/WikiData/WD~biology,420]]"
-facet of: "[[_Standards/WikiData/WD~biology,420]]"
-is the study of: "[[_Standards/WikiData/WD~plant,756]]"
-Universal Decimal Classification: "58"
-Dewey Decimal Classification: "580"
-Colon Classification: I
-OmegaWiki Defined Meaning: "422"
-U.S. National Archives Identifier: "10640470"
-Commons category: Botany
+Iconclass_notation: 49F1
+GitHub_topic: botany
+MeSH_tree_code: H01.158.273.118
+IPTC_NewsCode: mediatopic/20000720
+Krugosvet_article: nauka_i_tehnika/biologiya/BOTANIKA.html
+has_part_s_:
+- "[[_Standards/WikiData/WD~plant physiology,185973]]"
+- '[[_Standards/WikiData/WD~vegetation,187997]]'
+- '[[_Standards/WikiData/WD~paleobotany,192694]]'
+- '[[_Standards/WikiData/WD~palynology,212919]]'
+- '[[_Standards/WikiData/WD~phenology,272737]]'
+- "[[_Standards/WikiData/WD~Plant evolutionary developmental biology,591138]]"
+- '[[_Standards/WikiData/WD~phytochemistry,640068]]'
+- "[[_Standards/WikiData/WD~plant morphology,655362]]"
+- '[[_Standards/WikiData/WD~phytogeography,771220]]'
+- '[[_Standards/WikiData/WD~phytosociology,1138244]]'
+- "[[_Standards/WikiData/WD~plant ecology,1387972]]"
+- "[[_Standards/WikiData/WD~plant reproduction,2725616]]"
+- "[[_Standards/WikiData/WD~plant genetics,7201518]]"
+- "[[_Standards/WikiData/WD~plant anatomy,4021]]"
+model_item: '[[_Standards/WikiData/WD~phycology,188391]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+instance_of:
+- "[[_Standards/WikiData/WD~field of study,1047113]]"
+- "[[_Standards/WikiData/WD~branch of science,2465832]]"
+- "[[_Standards/WikiData/WD~academic major,4671286]]"
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~branch of biology,28598684]]"
+practiced_by:
+- "[[_Standards/WikiData/WD~botanical collector,2083925]]"
+- '[[_Standards/WikiData/WD~botanist,2374149]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of botany,2495041]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Botany,6724193]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Plants,7103691]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Plants,10823481]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of botany,18358863]]"
+UMLS_CUI: C0006038
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Diversity%20of%20plants%20image%20version%20q.png"
+subclass_of: '[[_Standards/WikiData/WD~biology,420]]'
+facet_of: '[[_Standards/WikiData/WD~biology,420]]'
+is_the_study_of: '[[_Standards/WikiData/WD~plant,756]]'
+Universal_Decimal_Classification: 58
+Dewey_Decimal_Classification: 580
+Colon_Classification: I
+OmegaWiki_Defined_Meaning: 422
+U_S_National_Archives_Identifier: 10640470
+Commons_category: Botany
 hashtag: Botany
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tulpenroute%20banner.JPG
-Stack Exchange tag: https://biology.stackexchange.com/tags/botany
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tulpenroute%20banner.JPG"
+Stack_Exchange_tag: "https://biology.stackexchange.com/tags/botany"
 ---
-
 
 ## #has_/text_of_/abstract 
 

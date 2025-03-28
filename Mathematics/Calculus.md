@@ -1,52 +1,51 @@
----
+﻿---
 has_id_wikidata: Q149972
-has part(s):
-  - "[[_Standards/WikiData/WD~differential calculus,149999]]"
-  - "[[_Standards/WikiData/WD~integral calculus,150008]]"
-different from:
-  - "[[_Standards/WikiData/WD~Calculus,400405]]"
-  - "[[_Standards/WikiData/WD~calculus,617079]]"
-  - "[[_Standards/WikiData/WD~multivariable calculus,2035437]]"
-  - "[[_Standards/WikiData/WD~Q13538498,13538498]]"
-  - "[[_Standards/WikiData/WD~Calculus,18092768]]"
-based on:
-  - "[[_Standards/WikiData/WD~Cavalieri's principle,586686]]"
-  - "[[_Standards/WikiData/WD~method of exhaustion,865019]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-instance of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
-history of topic: "[[_Standards/WikiData/WD~history of calculus,2338709]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Calculus,6740481]]"
-  - "[[_Standards/WikiData/WD~Template_Calculus topics,20326646]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of calculus,7112574]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-Stack Exchange tag:
-  - https://math.stackexchange.com/tags/calculus
-  - https://matheducators.stackexchange.com/tags/calculus
+has_part_s_:
+- "[[_Standards/WikiData/WD~differential calculus,149999]]"
+- "[[_Standards/WikiData/WD~integral calculus,150008]]"
+different_from:
+- '[[_Standards/WikiData/WD~Calculus,400405]]'
+- '[[_Standards/WikiData/WD~calculus,617079]]'
+- "[[_Standards/WikiData/WD~multivariable calculus,2035437]]"
+- '[[_Standards/WikiData/WD~Q13538498,13538498]]'
+- '[[_Standards/WikiData/WD~Calculus,18092768]]'
+based_on:
+- "[[_Standards/WikiData/WD~Cavalieri's principle,586686]]"
+- "[[_Standards/WikiData/WD~method of exhaustion,865019]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+instance_of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of calculus,2338709]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Calculus,6740481]]'
+- "[[_Standards/WikiData/WD~Template_Calculus topics,20326646]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of calculus,7112574]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+Stack_Exchange_tag:
+- "https://math.stackexchange.com/tags/calculus"
+- "https://matheducators.stackexchange.com/tags/calculus"
 subreddit: calculus
-Krugosvet article: matematika/matematicheskiy-analiz
+Krugosvet_article: matematika/matematicheskiy-analiz
 replaces: "[[_Standards/WikiData/WD~sublime calculation,47457983]]"
-theorized by:
-  - "[[_Standards/WikiData/WD~Isaac Newton,935]]"
-  - "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Isaac Newton,935]]"
-  - "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~advanced mathematics,4464]]"
-  - "[[_Standards/WikiData/WD~mathematical analysis,7754]]"
-Dewey Decimal Classification: "515"
-social media followers: 78572
-OmegaWiki Defined Meaning: "350515"
-Colon Classification: B32
-Commons category: Calculus
+theorized_by:
+- "[[_Standards/WikiData/WD~Isaac Newton,935]]"
+- "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Isaac Newton,935]]"
+- "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~advanced mathematics,4464]]"
+- "[[_Standards/WikiData/WD~mathematical analysis,7754]]"
+Dewey_Decimal_Classification: 515
+social_media_followers: 78572
+OmegaWiki_Defined_Meaning: 350515
+Colon_Classification: B32
+Commons_category: Calculus
 ---
-
 
 ## #has_/text_of_/abstract 
 

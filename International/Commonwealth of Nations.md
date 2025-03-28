@@ -1,60 +1,59 @@
----
+﻿---
 aliases:
-  - Commonwealth_of_Nations
-  - British Commonwealth
+- Commonwealth_of_Nations
+- "British Commonwealth"
 has_id_wikidata: Q7785
-different from:
-  - "[[_Standards/WikiData/WD~Commonwealth realm,202686]]"
-  - "[[_Standards/WikiData/WD~Commonwealth of Independent States,7779]]"
-instance of:
-  - "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
-  - "[[_Standards/WikiData/WD~commonwealth,2578692]]"
-position held by head of the organization: "[[_Standards/WikiData/WD~Head of the Commonwealth,460057]]"
+different_from:
+- "[[_Standards/WikiData/WD~Commonwealth realm,202686]]"
+- "[[_Standards/WikiData/WD~Commonwealth of Independent States,7779]]"
+instance_of:
+- "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
+- '[[_Standards/WikiData/WD~commonwealth,2578692]]'
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Head of the Commonwealth,460057]]"
 flag: "[[_Standards/WikiData/WD~flag of the Commonwealth of Nations,460072]]"
-headquarters location: "[[_Standards/WikiData/WD~Marlborough House,565532]]"
-has subsidiary:
-  - "[[_Standards/WikiData/WD~Commonwealth War Graves Commission,1117074]]"
-  - "[[_Standards/WikiData/WD~Commonwealth Foundation,3075649]]"
-  - "[[_Standards/WikiData/WD~Commonwealth Secretariat,3954348]]"
-  - "[[_Standards/WikiData/WD~Commonwealth Business Council,5153705]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_The Commonwealth,5528714]]"
-  - "[[_Standards/WikiData/WD~Template_Commonwealth of Nations topics,7645235]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-BHCL UUID: 92e59f26-dafa-4e4f-bb67-389af3e351f2
+headquarters_location: "[[_Standards/WikiData/WD~Marlborough House,565532]]"
+has_subsidiary:
+- "[[_Standards/WikiData/WD~Commonwealth War Graves Commission,1117074]]"
+- "[[_Standards/WikiData/WD~Commonwealth Foundation,3075649]]"
+- "[[_Standards/WikiData/WD~Commonwealth Secretariat,3954348]]"
+- "[[_Standards/WikiData/WD~Commonwealth Business Council,5153705]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_The Commonwealth,5528714]]"
+- "[[_Standards/WikiData/WD~Template_Commonwealth of Nations topics,7645235]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+BHCL_UUID: 92e59f26-dafa-4e4f-bb67-389af3e351f2
 ISNI:
-  - "0000000097554421"
-  - "0000000122186588"
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Infobox%20Commonwealth%20of%20Nations%20flag.svg
-has part(s):
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~New Zealand,664]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
-official language: "[[_Standards/WikiData/WD~English,1860]]"
+- 0000000097554421
+- 0000000122186588
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Infobox%20Commonwealth%20of%20Nations%20flag.svg"
+has_part_s_:
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
 replaces: "[[_Standards/WikiData/WD~British Empire,8680]]"
 chairperson: "[[_Standards/WikiData/WD~Charles III,43274]]"
-social media followers: 120069
-Commons gallery: Commonwealth of Nations
-Commons category: Commonwealth of Nations
-coordinate location: Point(-0.135833 51.505)
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Commonwealth%20Icon.svg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Member%20states%20of%20the%20Commonwealth%20of%20Nations.svg
-official website: https://thecommonwealth.org
-Instagram username: commonwealth_sec
-Facebook username: commonwealthsec
-X (Twitter) username: commonwealthsec
-Krugosvet article: istoriya/SODRUZHESTVO_NATSI.html
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Marlborough%20House.jpg
-inception: 1931-12-11T00:00:00Z 
-has_time_started: 1931-12-11T00:00:00Z 
-EU Corporate body code: CMNW
+social_media_followers: 120069
+Commons_gallery: "Commonwealth of Nations"
+Commons_category: "Commonwealth of Nations"
+coordinate_location: "Point(-0.135833 51.505)"
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Commonwealth%20Icon.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Member%20states%20of%20the%20Commonwealth%20of%20Nations.svg"
+official_website: "https://thecommonwealth.org"
+Instagram_username: commonwealth_sec
+Facebook_username: commonwealthsec
+X_Twitter_username: commonwealthsec
+Krugosvet_article: istoriya/SODRUZHESTVO_NATSI.html
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Marlborough%20House.jpg"
+inception: "1931-12-11T00:00:00Z"
+has_time_started: "1931-12-11T00:00:00Z"
+EU_Corporate_body_code: CMNW
 ---
-
 
 ## #has_/text_of_/abstract 
 

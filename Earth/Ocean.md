@@ -1,52 +1,52 @@
----
+﻿---
 has_id_wikidata: Q9430
-has part(s):
-  - "[[_Standards/WikiData/WD~seawater,184395]]"
-  - "[[_Standards/WikiData/WD~adjacent sea,1973404]]"
-  - "[[_Standards/WikiData/WD~sea,165]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-studied in:
-  - "[[_Standards/WikiData/WD~oceanology,3349060]]"
-  - "[[_Standards/WikiData/WD~oceanography,43518]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox body of water,5642502]]"
-different from:
-  - "[[_Standards/WikiData/WD~Samudera,9634863]]"
-  - "[[_Standards/WikiData/WD~Océan,113137750]]"
-  - "[[_Standards/WikiData/WD~geography,1071]]"
-topic's main category:
-  - "[[_Standards/WikiData/WD~Q9701555,9701555]]"
-  - "[[_Standards/WikiData/WD~Q9705267,9705267]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~natural geographic object,35145263]]"
-  - "[[_Standards/WikiData/WD~marine water body,116126039]]"
-  - "[[_Standards/WikiData/WD~saline water body,116126228]]"
-  - "[[_Standards/WikiData/WD~body of water,15324]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Oceans,115159158]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AE%E0%A8%B9%E0%A8%BE%E0%A8%82%E0%A8%B8%E0%A8%BE%E0%A8%97%E0%A8%B0.wav
+has_part_s_:
+- '[[_Standards/WikiData/WD~seawater,184395]]'
+- "[[_Standards/WikiData/WD~adjacent sea,1973404]]"
+- '[[_Standards/WikiData/WD~sea,165]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+studied_in:
+- '[[_Standards/WikiData/WD~oceanology,3349060]]'
+- '[[_Standards/WikiData/WD~oceanography,43518]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox body of water,5642502]]"
+different_from:
+- '[[_Standards/WikiData/WD~Samudera,9634863]]'
+- '[[_Standards/WikiData/WD~Océan,113137750]]'
+- '[[_Standards/WikiData/WD~geography,1071]]'
+topic_s_main_category:
+- '[[_Standards/WikiData/WD~Q9701555,9701555]]'
+- '[[_Standards/WikiData/WD~Q9705267,9705267]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~natural geographic object,35145263]]"
+- "[[_Standards/WikiData/WD~marine water body,116126039]]"
+- "[[_Standards/WikiData/WD~saline water body,116126228]]"
+- "[[_Standards/WikiData/WD~body of water,15324]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Oceans,115159158]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AE%E0%A8%B9%E0%A8%BE%E0%A8%82%E0%A8%B8%E0%A8%BE%E0%A8%97%E0%A8%B0.wav"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ocean%20beach%20at%20low%20tide%20against%20the%20sun.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/World%20ocean%20map.gif
-equivalent class:
-  - http://dbpedia.org/ontology/Ocean
-  - https://schema.org/OceanBodyOfWater
-exact match: http://purl.obolibrary.org/obo/ENVO_00000015
-described at URL: https://www.whosonfirst.org/docs/placetypes/#ocean
-Krugosvet article: Earth_sciences/geografiya/OKEAN.html
-GeoNames feature code: H.OCN
-IPTC NewsCode: mediatopic/20000438
-properties for this type: coordinate location
-opposite of: "[[_Standards/WikiData/WD~continent,5107]]"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ocean%20beach%20at%20low%20tide%20against%20the%20sun.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/World%20ocean%20map.gif"
+equivalent_class:
+- "http://dbpedia.org/ontology/Ocean"
+- "https://schema.org/OceanBodyOfWater"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_00000015"
+described_at_URL: "https://www.whosonfirst.org/docs/placetypes/#ocean"
+Krugosvet_article: Earth_sciences/geografiya/OKEAN.html
+GeoNames_feature_code: H.OCN
+IPTC_NewsCode: mediatopic/20000438
+properties_for_this_type: "coordinate location"
+opposite_of: '[[_Standards/WikiData/WD~continent,5107]]'
 quantity: 5
 hashtag: ocean
-Wolfram Language entity type: Ocean
-Commons category: Oceans
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%202048.jpg
-Commons gallery: Atlas of the Oceans
+Wolfram_Language_entity_type: Ocean
+Commons_category: Oceans
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%202048.jpg"
+Commons_gallery: "Atlas of the Oceans"
 subreddit: oceans
 ---
 

@@ -1,35 +1,34 @@
----
+﻿---
 has_id_wikidata: Q3863
-subclass of:
-  - "[[_Standards/WikiData/WD~small Solar System body,193275]]"
-  - "[[_Standards/WikiData/WD~minor planet,1022867]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-has use:
-  - "[[_Standards/WikiData/WD~asteroid mining,748764]]"
-  - "[[_Standards/WikiData/WD~colonization of the asteroid belt,2618750]]"
-different from: "[[_Standards/WikiData/WD~minor planet,1022867]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Asteroids,6689285]]"
-part of: "[[_Standards/WikiData/WD~gravitationally bound system,15053549]]"
-instance of: "[[_Standards/WikiData/WD~astronomical object type,17444909]]"
-properties for this type: asteroid spectral type
-astronomic symbol image: http://commons.wikimedia.org/wiki/Special:FilePath/Asteroid%20symbol%20%28National%20Geographic%20Society%29.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Asteroidsscale.jpg
-equivalent class: http://dbpedia.org/ontology/Asteroid
-Dewey Decimal Classification:
-  - "133.5398"
-  - "523.44"
-OmegaWiki Defined Meaning: "665165"
+subclass_of:
+- "[[_Standards/WikiData/WD~small Solar System body,193275]]"
+- "[[_Standards/WikiData/WD~minor planet,1022867]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+has_use:
+- "[[_Standards/WikiData/WD~asteroid mining,748764]]"
+- "[[_Standards/WikiData/WD~colonization of the asteroid belt,2618750]]"
+different_from: "[[_Standards/WikiData/WD~minor planet,1022867]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Asteroids,6689285]]'
+part_of: "[[_Standards/WikiData/WD~gravitationally bound system,15053549]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical object type,17444909]]"
+properties_for_this_type: "asteroid spectral type"
+astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Asteroid%20symbol%20%28National%20Geographic%20Society%29.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Asteroidsscale.jpg"
+equivalent_class: "http://dbpedia.org/ontology/Asteroid"
+Dewey_Decimal_Classification:
+- 133.5398
+- 523.44
+OmegaWiki_Defined_Meaning: 665165
 subreddit: asteroid
-Commons category: Asteroids
-Krugosvet article: nauka_i_tehnika/astronomiya/ASTEROID.html
+Commons_category: Asteroids
+Krugosvet_article: nauka_i_tehnika/astronomiya/ASTEROID.html
 ---
-
 
 ## #has_/text_of_/abstract 
 
