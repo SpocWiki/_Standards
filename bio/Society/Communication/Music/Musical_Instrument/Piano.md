@@ -1,39 +1,38 @@
----
+﻿---
 has_id_wikidata: Q5994
-official name: gravicembalo col piano e forte
-discoverer or inventor: "[[_Standards/WikiData/WD~Bartolomeo Cristofori,301597]]"
-used by: "[[_Standards/WikiData/WD~pianist,486748]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-lowest note: "[[_Standards/WikiData/WD~A,744346]]"
-different from: "[[_Standards/WikiData/WD~piano,2707020]]"
-highest note: "[[_Standards/WikiData/WD~C8,5349143]]"
-instance of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
-Baidu Tieba name: 钢琴
-inception: 1720-01-01T00:00:00Z 
-has_time_started: 1720-01-01T00:00:00Z 
-time of discovery or invention: 1700-01-01T00:00:00Z
-subclass of: "[[_Standards/WikiData/WD~keyboard instrument,52954]]"
-Nomenclature for Museum Cataloging: "10717"
-OmegaWiki Defined Meaning: "344431"
-Commons gallery: Piano
-Iconclass notation: 48C7333
-Hornbostel-Sachs classification: 314.122-4-8
-GitHub topic: piano
+official_name: "gravicembalo col piano e forte"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Bartolomeo Cristofori,301597]]"
+used_by: '[[_Standards/WikiData/WD~pianist,486748]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+lowest_note: '[[_Standards/WikiData/WD~A,744346]]'
+different_from: '[[_Standards/WikiData/WD~piano,2707020]]'
+highest_note: '[[_Standards/WikiData/WD~C8,5349143]]'
+instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
+Baidu_Tieba_name: 钢琴
+inception: "1720-01-01T00:00:00Z"
+has_time_started: "1720-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1700-01-01T00:00:00Z"
+subclass_of: "[[_Standards/WikiData/WD~keyboard instrument,52954]]"
+Nomenclature_for_Museum_Cataloging: 10717
+OmegaWiki_Defined_Meaning: 344431
+Commons_gallery: Piano
+Iconclass_notation: 48C7333
+Hornbostel-Sachs_classification: 314.122-4-8
+GitHub_topic: piano
 subreddit: piano
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Steinway%20%26%20Sons%20concert%20grand%20piano%2C%20model%20D-274%2C%20manufactured%20at%20Steinway%27s%20factory%20in%20Hamburg%2C%20Germany.png
-Commons category: Pianos
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20van%20Beethoven%20-%20sonata%20no.%2014%20in%20c%20sharp%20minor%20%27moonlight%27%2C%20op.%2027%20no.%202%20-%20i.%20adagio%20sostenuto.ogg
-playing range image: http://commons.wikimedia.org/wiki/Special:FilePath/PianoRange.tif
-Dewey Decimal Classification: "786.2"
-Krugosvet article: kultura_i_obrazovanie/muzyka/FORTEPIANO.html
-Colon Classification: NR;34
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Steinway%20%26%20Sons%20concert%20grand%20piano%2C%20model%20D-274%2C%20manufactured%20at%20Steinway%27s%20factory%20in%20Hamburg%2C%20Germany.png"
+Commons_category: Pianos
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20van%20Beethoven%20-%20sonata%20no.%2014%20in%20c%20sharp%20minor%20%27moonlight%27%2C%20op.%2027%20no.%202%20-%20i.%20adagio%20sostenuto.ogg"
+playing_range_image: "http://commons.wikimedia.org/wiki/Special:FilePath/PianoRange.tif"
+Dewey_Decimal_Classification: 786.2
+Krugosvet_article: kultura_i_obrazovanie/muzyka/FORTEPIANO.html
+Colon_Classification: NR;34
 ---
-
 
 ## #has_/text_of_/abstract 
 

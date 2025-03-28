@@ -1,28 +1,27 @@
----
+﻿---
 has_id_wikidata: Q124794
-subclass of: "[[_Standards/WikiData/WD~perception,160402]]"
-instance of: "[[_Standards/WikiData/WD~sense,173253]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-part of: "[[_Standards/WikiData/WD~five wits,1051623]]"
-different from: "[[_Standards/WikiData/WD~Smak,2294826]]"
-has part(s): "[[_Standards/WikiData/WD~taste in Islam,5269467]]"
-UMLS CUI: C0039336
-OmegaWiki Defined Meaning: "420792"
-Commons category: Taste
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tongue-bitter.jpg
-Dewey Decimal Classification: "152.167"
-MeSH tree code:
-  - F02.830.816.724
-  - G11.561.790.724
-Krugosvet article: nauka_i_tehnika/himiya/ZAPAH_I_VKUS.html
-Colon Classification: S:22
-PhilPapers topic: taste-experience
+subclass_of: '[[_Standards/WikiData/WD~perception,160402]]'
+instance_of: '[[_Standards/WikiData/WD~sense,173253]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+part_of: "[[_Standards/WikiData/WD~five wits,1051623]]"
+different_from: '[[_Standards/WikiData/WD~Smak,2294826]]'
+has_part_s_: "[[_Standards/WikiData/WD~taste in Islam,5269467]]"
+UMLS_CUI: C0039336
+OmegaWiki_Defined_Meaning: 420792
+Commons_category: Taste
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tongue-bitter.jpg"
+Dewey_Decimal_Classification: 152.167
+MeSH_tree_code:
+- F02.830.816.724
+- G11.561.790.724
+Krugosvet_article: nauka_i_tehnika/himiya/ZAPAH_I_VKUS.html
+Colon_Classification: "S:22"
+PhilPapers_topic: taste-experience
 ---
-
 
 ## #has_/text_of_/abstract 
 

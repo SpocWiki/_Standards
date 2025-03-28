@@ -1,88 +1,87 @@
----
+﻿---
 aliases:
-  - Jawaharlal Nehru
+- "Jawaharlal Nehru"
 has_id_wikidata: Q1047
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~barrister,808967]]"
-  - "[[_Standards/WikiData/WD~trade unionist,15627169]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~freedom fighter,30242234]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-country of citizenship:
-  - "[[_Standards/WikiData/WD~British Raj,129286]]"
-  - "[[_Standards/WikiData/WD~Dominion of India,1775277]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-significant person: "[[_Standards/WikiData/WD~Alva Myrdal,152437]]"
-place of birth: "[[_Standards/WikiData/WD~Prayagraj,162442]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~barrister,808967]]'
+- "[[_Standards/WikiData/WD~trade unionist,15627169]]"
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- "[[_Standards/WikiData/WD~freedom fighter,30242234]]"
+- '[[_Standards/WikiData/WD~writer,36180]]'
+country_of_citizenship:
+- "[[_Standards/WikiData/WD~British Raj,129286]]"
+- "[[_Standards/WikiData/WD~Dominion of India,1775277]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+significant_person: "[[_Standards/WikiData/WD~Alva Myrdal,152437]]"
+place_of_birth: '[[_Standards/WikiData/WD~Prayagraj,162442]]'
 residence:
-  - "[[_Standards/WikiData/WD~Prayagraj,162442]]"
-  - "[[_Standards/WikiData/WD~New Delhi,987]]"
-member of:
-  - "[[_Standards/WikiData/WD~Fabian Society,192186]]"
-  - "[[_Standards/WikiData/WD~American Academy of Arts and Sciences,463303]]"
-position held: "[[_Standards/WikiData/WD~Prime Minister of India,192711]]"
-award received:
-  - "[[_Standards/WikiData/WD~Bharat Ratna,322132]]"
-  - "[[_Standards/WikiData/WD~Bintang Jasa,6576231]]"
-  - "[[_Standards/WikiData/WD~doctor honoris causa of Keiō University,60658956]]"
-educated at:
-  - "[[_Standards/WikiData/WD~Trinity College,332342]]"
-  - "[[_Standards/WikiData/WD~Harrow School,1247373]]"
-  - "[[_Standards/WikiData/WD~City Law School,5123253]]"
+- '[[_Standards/WikiData/WD~Prayagraj,162442]]'
+- "[[_Standards/WikiData/WD~New Delhi,987]]"
+member_of:
+- "[[_Standards/WikiData/WD~Fabian Society,192186]]"
+- "[[_Standards/WikiData/WD~American Academy of Arts and Sciences,463303]]"
+position_held: "[[_Standards/WikiData/WD~Prime Minister of India,192711]]"
+award_received:
+- "[[_Standards/WikiData/WD~Bharat Ratna,322132]]"
+- "[[_Standards/WikiData/WD~Bintang Jasa,6576231]]"
+- "[[_Standards/WikiData/WD~doctor honoris causa of Keiō University,60658956]]"
+educated_at:
+- "[[_Standards/WikiData/WD~Trinity College,332342]]"
+- "[[_Standards/WikiData/WD~Harrow School,1247373]]"
+- "[[_Standards/WikiData/WD~City Law School,5123253]]"
 father: "[[_Standards/WikiData/WD~Motilal Nehru,380148]]"
 sibling:
-  - "[[_Standards/WikiData/WD~Vijaya Lakshmi Pandit,465047]]"
-  - "[[_Standards/WikiData/WD~Krishna Hutheesing,6437416]]"
-place of burial: "[[_Standards/WikiData/WD~Raj Ghat and associated memorials,1210083]]"
-honorific prefix: "[[_Standards/WikiData/WD~pandit,1336494]]"
+- "[[_Standards/WikiData/WD~Vijaya Lakshmi Pandit,465047]]"
+- "[[_Standards/WikiData/WD~Krishna Hutheesing,6437416]]"
+place_of_burial: "[[_Standards/WikiData/WD~Raj Ghat and associated memorials,1210083]]"
+honorific_prefix: '[[_Standards/WikiData/WD~pandit,1336494]]'
 family: "[[_Standards/WikiData/WD~Nehru–Gandhi family,1441340]]"
-ethnic group: "[[_Standards/WikiData/WD~Kashmiri Pandits,1996554]]"
-notable work:
-  - "[[_Standards/WikiData/WD~The Discovery of India,3595074]]"
-  - "[[_Standards/WikiData/WD~Glimpses of World History,5569644]]"
-  - "[[_Standards/WikiData/WD~Letters from a Father to His Daughter,6533736]]"
+ethnic_group: "[[_Standards/WikiData/WD~Kashmiri Pandits,1996554]]"
+notable_work:
+- "[[_Standards/WikiData/WD~The Discovery of India,3595074]]"
+- "[[_Standards/WikiData/WD~Glimpses of World History,5569644]]"
+- "[[_Standards/WikiData/WD~Letters from a Father to His Daughter,6533736]]"
 spouse: "[[_Standards/WikiData/WD~Kamala Nehru,3633365]]"
-manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
 mother: "[[_Standards/WikiData/WD~Swarup Rani Nehru,62572509]]"
-family name: "[[_Standards/WikiData/WD~Nehru,115094413]]"
-given name: "[[_Standards/WikiData/WD~Jawaharlal,123149138]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q123397250,123397250]]"
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Jawaharlal%20Nehru%20Signature.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Jnehru.jpg
-IPA transcription:
-  - ˈdʒəʋaːɦərˈlaːl ˈneːɦru
-  - dʒəwəhəˈlɑːl ˈnɛəruː
-BHCL UUID: bb8779f2-6841-457e-9d5b-252a4673b1a5
-Krugosvet article: istoriya/NERU_DZHAVAHARLAL.html
-U.S. National Archives Identifier: "10582117"
-Commons gallery: Jawaharlal Nehru
-Commons category: Jawaharlal Nehru
+family_name: '[[_Standards/WikiData/WD~Nehru,115094413]]'
+given_name: '[[_Standards/WikiData/WD~Jawaharlal,123149138]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q123397250,123397250]]'
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Jawaharlal%20Nehru%20Signature.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Jnehru.jpg"
+IPA_transcription:
+- "ˈdʒəʋaːɦərˈlaːl ˈneːɦru"
+- "dʒəwəhəˈlɑːl ˈnɛəruː"
+BHCL_UUID: bb8779f2-6841-457e-9d5b-252a4673b1a5
+Krugosvet_article: istoriya/NERU_DZHAVAHARLAL.html
+U_S_National_Archives_Identifier: 10582117
+Commons_gallery: "Jawaharlal Nehru"
+Commons_category: "Jawaharlal Nehru"
 Libris-URI: vs69dpqd1krx3vs
-name in native language: जवाहरलाल नेहरू
-date of birth: 1889-11-14T00:00:00Z
-described at URL: http://gadyakosh.org/gk/जवाहरलाल_नेहरू
-ISNI: "0000000081273684"
-place of death: "[[_Standards/WikiData/WD~New Delhi,987]]"
+name_in_native_language: "जवाहरलाल नेहरू"
+date_of_birth: "1889-11-14T00:00:00Z"
+described_at_URL: "http://gadyakosh.org/gk/जवाहरलाल_नेहरू"
+ISNI: 0000000081273684
+place_of_death: "[[_Standards/WikiData/WD~New Delhi,987]]"
 child: "[[_Standards/WikiData/WD~Indira Gandhi,1149]]"
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~Hindi,1568]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-writing language: "[[_Standards/WikiData/WD~English,1860]]"
-field of work: "[[_Standards/WikiData/WD~natural science,7991]]"
-religion or worldview: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-member of political party: "[[_Standards/WikiData/WD~Indian National Congress,10225]]"
-cause of death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-influenced by: "[[_Standards/WikiData/WD~Bertrand Russell,33760]]"
-date of death: 1964-05-27T00:00:00Z
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Hindi,1568]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+field_of_work: "[[_Standards/WikiData/WD~natural science,7991]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+member_of_political_party: "[[_Standards/WikiData/WD~Indian National Congress,10225]]"
+cause_of_death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+influenced_by: "[[_Standards/WikiData/WD~Bertrand Russell,33760]]"
+date_of_death: "1964-05-27T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

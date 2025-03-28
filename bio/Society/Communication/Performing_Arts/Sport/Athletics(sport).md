@@ -1,64 +1,63 @@
----
+﻿---
 has_id_wikidata: Q542
-Colon Classification: MY2
-OpenStreetMap tag or key: Tag:sport=athletics
-has part(s):
-  - "[[_Standards/WikiData/WD~racewalking,202391]]"
-  - "[[_Standards/WikiData/WD~long-distance running,917206]]"
-  - "[[_Standards/WikiData/WD~jumping,1151752]]"
-  - "[[_Standards/WikiData/WD~throwing,3216963]]"
-  - "[[_Standards/WikiData/WD~track and field,3312129]]"
-  - "[[_Standards/WikiData/WD~combined track and field events,3924425]]"
-  - "[[_Standards/WikiData/WD~indoor athletics,10235779]]"
-  - "[[_Standards/WikiData/WD~running discipline of track,21467672]]"
-  - "[[_Standards/WikiData/WD~field sport,52177345]]"
-record or record progression:
-  - "[[_Standards/WikiData/WD~list of world records in athletics,208410]]"
-  - "[[_Standards/WikiData/WD~list of world junior records in athletics,592883]]"
-  - "[[_Standards/WikiData/WD~list of South American records in athletics,965765]]"
-  - "[[_Standards/WikiData/WD~list of Olympic records in athletics,1043261]]"
-  - "[[_Standards/WikiData/WD~list of European records in athletics,1445200]]"
-  - "[[_Standards/WikiData/WD~list of African records in athletics,2115084]]"
-  - "[[_Standards/WikiData/WD~list of Asian records in athletics,2271743]]"
-  - "[[_Standards/WikiData/WD~list of North American records in athletics,3643775]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~Olympic sport,212434]]"
-  - "[[_Standards/WikiData/WD~athletics,11047409]]"
-different from:
-  - "[[_Standards/WikiData/WD~Atletika,347884]]"
-  - "[[_Standards/WikiData/WD~track and field,3312129]]"
-  - "[[_Standards/WikiData/WD~Athletics,3628059]]"
-  - "[[_Standards/WikiData/WD~Atletiko,12961784]]"
-  - "[[_Standards/WikiData/WD~Athletau,123023706]]"
-  - "[[_Standards/WikiData/WD~Atletiks,123023867]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+Colon_Classification: MY2
+OpenStreetMap_tag_or_key: "Tag:sport=athletics"
+has_part_s_:
+- '[[_Standards/WikiData/WD~racewalking,202391]]'
+- "[[_Standards/WikiData/WD~long-distance running,917206]]"
+- '[[_Standards/WikiData/WD~jumping,1151752]]'
+- '[[_Standards/WikiData/WD~throwing,3216963]]'
+- "[[_Standards/WikiData/WD~track and field,3312129]]"
+- "[[_Standards/WikiData/WD~combined track and field events,3924425]]"
+- "[[_Standards/WikiData/WD~indoor athletics,10235779]]"
+- "[[_Standards/WikiData/WD~running discipline of track,21467672]]"
+- "[[_Standards/WikiData/WD~field sport,52177345]]"
+record_or_record_progression:
+- "[[_Standards/WikiData/WD~list of world records in athletics,208410]]"
+- "[[_Standards/WikiData/WD~list of world junior records in athletics,592883]]"
+- "[[_Standards/WikiData/WD~list of South American records in athletics,965765]]"
+- "[[_Standards/WikiData/WD~list of Olympic records in athletics,1043261]]"
+- "[[_Standards/WikiData/WD~list of European records in athletics,1445200]]"
+- "[[_Standards/WikiData/WD~list of African records in athletics,2115084]]"
+- "[[_Standards/WikiData/WD~list of Asian records in athletics,2271743]]"
+- "[[_Standards/WikiData/WD~list of North American records in athletics,3643775]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~Olympic sport,212434]]"
+- '[[_Standards/WikiData/WD~athletics,11047409]]'
+different_from:
+- '[[_Standards/WikiData/WD~Atletika,347884]]'
+- "[[_Standards/WikiData/WD~track and field,3312129]]"
+- '[[_Standards/WikiData/WD~Athletics,3628059]]'
+- '[[_Standards/WikiData/WD~Atletiko,12961784]]'
+- '[[_Standards/WikiData/WD~Athletau,123023706]]'
+- '[[_Standards/WikiData/WD~Atletiks,123023867]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
 uses: "[[_Standards/WikiData/WD~athletics track,1004435]]"
-practiced by:
-  - "[[_Standards/WikiData/WD~track and field official,7831495]]"
-  - "[[_Standards/WikiData/WD~athletics competitor,11513337]]"
-  - "[[_Standards/WikiData/WD~track and field coach,19827985]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Athletics,8289031]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox athletics race,11171523]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Athletics,15079710]]"
-BHCL UUID: e4d99bf3-d0d7-4c89-84eb-0487150b46f0
+practiced_by:
+- "[[_Standards/WikiData/WD~track and field official,7831495]]"
+- "[[_Standards/WikiData/WD~athletics competitor,11513337]]"
+- "[[_Standards/WikiData/WD~track and field coach,19827985]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Athletics,8289031]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox athletics race,11171523]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Athletics,15079710]]"
+BHCL_UUID: e4d99bf3-d0d7-4c89-84eb-0487150b46f0
 authority: "[[_Standards/WikiData/WD~World Athletics,1158]]"
-instance of: "[[_Standards/WikiData/WD~type of sport,31629]]"
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20pictogram.svg
-OmegaWiki Defined Meaning: "711492"
-Commons category: Athletics
-Baidu Tieba name: 田径
-Basisklassifikation: "76.15"
-Dewey Decimal Classification:
-  - "796.4"
-  - "796.42"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Naisten%20400%20m%20aidat.jpg
-U.S. National Archives Identifier: "10637707"
+instance_of: "[[_Standards/WikiData/WD~type of sport,31629]]"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20pictogram.svg"
+OmegaWiki_Defined_Meaning: 711492
+Commons_category: Athletics
+Baidu_Tieba_name: 田径
+Basisklassifikation: 76.15
+Dewey_Decimal_Classification:
+- 796.4
+- 796.42
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Naisten%20400%20m%20aidat.jpg"
+U_S_National_Archives_Identifier: 10637707
 ---
-
 
 ## #has_/text_of_/abstract 
 

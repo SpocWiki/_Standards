@@ -1,150 +1,149 @@
----
+﻿---
 aliases:
-  - Enrico Fermi
+- "Enrico Fermi"
 has_id_wikidata: Q8753
-field of work:
-  - "[[_Standards/WikiData/WD~nuclear physics,81197]]"
-  - "[[_Standards/WikiData/WD~statistical mechanics,188715]]"
-  - "[[_Standards/WikiData/WD~nuclear reaction,238323]]"
-  - "[[_Standards/WikiData/WD~quantum theory,3194786]]"
-  - "[[_Standards/WikiData/WD~physics,413]]"
-  - "[[_Standards/WikiData/WD~quantum mechanics,944]]"
-  - "[[_Standards/WikiData/WD~particle physics,18334]]"
-  - "[[_Standards/WikiData/WD~theoretical physics,18362]]"
-  - "[[_Standards/WikiData/WD~experimental physics,18366]]"
-student of:
-  - "[[_Standards/WikiData/WD~Paul Ehrenfest,84227]]"
-  - "[[_Standards/WikiData/WD~Max Born,58978]]"
-member of:
-  - "[[_Standards/WikiData/WD~Royal Society,123885]]"
-  - "[[_Standards/WikiData/WD~National Academy of Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~Lincean Academy,338432]]"
-  - "[[_Standards/WikiData/WD~American Philosophical Society,466089]]"
-  - "[[_Standards/WikiData/WD~German Academy of Sciences Leopoldina,543804]]"
-  - "[[_Standards/WikiData/WD~Academy of Sciences of the USSR,2370801]]"
-  - "[[_Standards/WikiData/WD~Academy of Sciences of Turin,2822396]]"
-  - "[[_Standards/WikiData/WD~Accademia Nazionale delle Scienze detta dei XL,3603946]]"
-  - "[[_Standards/WikiData/WD~American Association for the Advancement of Science,40358]]"
+field_of_work:
+- "[[_Standards/WikiData/WD~nuclear physics,81197]]"
+- "[[_Standards/WikiData/WD~statistical mechanics,188715]]"
+- "[[_Standards/WikiData/WD~nuclear reaction,238323]]"
+- "[[_Standards/WikiData/WD~quantum theory,3194786]]"
+- '[[_Standards/WikiData/WD~physics,413]]'
+- "[[_Standards/WikiData/WD~quantum mechanics,944]]"
+- "[[_Standards/WikiData/WD~particle physics,18334]]"
+- "[[_Standards/WikiData/WD~theoretical physics,18362]]"
+- "[[_Standards/WikiData/WD~experimental physics,18366]]"
+student_of:
+- "[[_Standards/WikiData/WD~Paul Ehrenfest,84227]]"
+- "[[_Standards/WikiData/WD~Max Born,58978]]"
+member_of:
+- "[[_Standards/WikiData/WD~Royal Society,123885]]"
+- "[[_Standards/WikiData/WD~National Academy of Sciences,270794]]"
+- "[[_Standards/WikiData/WD~Lincean Academy,338432]]"
+- "[[_Standards/WikiData/WD~American Philosophical Society,466089]]"
+- "[[_Standards/WikiData/WD~German Academy of Sciences Leopoldina,543804]]"
+- "[[_Standards/WikiData/WD~Academy of Sciences of the USSR,2370801]]"
+- "[[_Standards/WikiData/WD~Academy of Sciences of Turin,2822396]]"
+- "[[_Standards/WikiData/WD~Accademia Nazionale delle Scienze detta dei XL,3603946]]"
+- "[[_Standards/WikiData/WD~American Association for the Advancement of Science,40358]]"
 employer:
-  - "[[_Standards/WikiData/WD~University of Chicago,131252]]"
-  - "[[_Standards/WikiData/WD~University of Göttingen,152838]]"
-  - "[[_Standards/WikiData/WD~Leiden University,156598]]"
-  - "[[_Standards/WikiData/WD~Sapienza University of Rome,209344]]"
-  - "[[_Standards/WikiData/WD~University of Florence,820887]]"
-  - "[[_Standards/WikiData/WD~Enrico Fermi Institute,1274429]]"
-  - "[[_Standards/WikiData/WD~Columbia University,49088]]"
-educated at:
-  - "[[_Standards/WikiData/WD~University of Göttingen,152838]]"
-  - "[[_Standards/WikiData/WD~Leiden University,156598]]"
-  - "[[_Standards/WikiData/WD~University of Pisa,645663]]"
-  - "[[_Standards/WikiData/WD~Scuola Normale Superiore. Classe di Scienze,114415800]]"
+- "[[_Standards/WikiData/WD~University of Chicago,131252]]"
+- "[[_Standards/WikiData/WD~University of Göttingen,152838]]"
+- "[[_Standards/WikiData/WD~Leiden University,156598]]"
+- "[[_Standards/WikiData/WD~Sapienza University of Rome,209344]]"
+- "[[_Standards/WikiData/WD~University of Florence,820887]]"
+- "[[_Standards/WikiData/WD~Enrico Fermi Institute,1274429]]"
+- "[[_Standards/WikiData/WD~Columbia University,49088]]"
+educated_at:
+- "[[_Standards/WikiData/WD~University of Göttingen,152838]]"
+- "[[_Standards/WikiData/WD~Leiden University,156598]]"
+- "[[_Standards/WikiData/WD~University of Pisa,645663]]"
+- "[[_Standards/WikiData/WD~Scuola Normale Superiore. Classe di Scienze,114415800]]"
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~university teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~nuclear physicist,16742096]]"
-  - "[[_Standards/WikiData/WD~theoretical physicist,19350898]]"
-country of citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom of Italy,172579]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- "[[_Standards/WikiData/WD~university teacher,1622272]]"
+- "[[_Standards/WikiData/WD~nuclear physicist,16742096]]"
+- "[[_Standards/WikiData/WD~theoretical physicist,19350898]]"
+country_of_citizenship:
+- "[[_Standards/WikiData/WD~Kingdom of Italy,172579]]"
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Italy,38]]'
 student:
-  - "[[_Standards/WikiData/WD~Murray Gell-Mann,172840]]"
-  - "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
-  - "[[_Standards/WikiData/WD~Chen-ning Yang,181369]]"
-  - "[[_Standards/WikiData/WD~Owen Chamberlain,183655]]"
-  - "[[_Standards/WikiData/WD~Tsung-Dao Lee,183679]]"
-  - "[[_Standards/WikiData/WD~Mario Ageno,792158]]"
-doctoral student:
-  - "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
-  - "[[_Standards/WikiData/WD~Owen Chamberlain,183655]]"
-  - "[[_Standards/WikiData/WD~Tsung-Dao Lee,183679]]"
-  - "[[_Standards/WikiData/WD~Marvin Leonard Goldberger,347236]]"
-  - "[[_Standards/WikiData/WD~Ettore Majorana,367196]]"
-  - "[[_Standards/WikiData/WD~Geoffrey Chew,376617]]"
-  - "[[_Standards/WikiData/WD~Oreste Piccioni,430002]]"
-  - "[[_Standards/WikiData/WD~Sam Treiman,567758]]"
-  - "[[_Standards/WikiData/WD~Mario Ageno,792158]]"
-  - "[[_Standards/WikiData/WD~Herbert L. Anderson,1608700]]"
-  - "[[_Standards/WikiData/WD~Richard Garwin,2149560]]"
-  - "[[_Standards/WikiData/WD~Arthur H. Rosenfeld,4396575]]"
-  - "[[_Standards/WikiData/WD~Willem Malkus,47314101]]"
-  - "[[_Standards/WikiData/WD~Robert A. Schluter,107303710]]"
-cause of death: "[[_Standards/WikiData/WD~stomach cancer,189588]]"
-notable work:
-  - "[[_Standards/WikiData/WD~Fermi–Dirac statistics,274072]]"
-  - "[[_Standards/WikiData/WD~Fermi–Pasta–Ulam–Tsingou problem,462254]]"
-  - "[[_Standards/WikiData/WD~Thomas–Fermi model,900431]]"
-  - "[[_Standards/WikiData/WD~Fermi's golden rule,1073295]]"
-  - "[[_Standards/WikiData/WD~Fermi problem,1192374]]"
-  - "[[_Standards/WikiData/WD~Fermi's interaction,1406423]]"
-  - "[[_Standards/WikiData/WD~Fermi contact interaction,5444399]]"
-  - "[[_Standards/WikiData/WD~Fermi paradox,33580]]"
-religion or worldview: "[[_Standards/WikiData/WD~agnosticism,288928]]"
-award received:
-  - "[[_Standards/WikiData/WD~Max Planck Medal,317038]]"
-  - "[[_Standards/WikiData/WD~Barnard Medal for Meritorious Service to Science,808424]]"
-  - "[[_Standards/WikiData/WD~Hughes Medal,844872]]"
-  - "[[_Standards/WikiData/WD~National Inventors Hall of Fame,1366018]]"
-  - "[[_Standards/WikiData/WD~Matteucci Medal,1419938]]"
-  - "[[_Standards/WikiData/WD~Franklin Medal,3141777]]"
-  - "[[_Standards/WikiData/WD~Richtmyer Memorial Lecture Award,7331107]]"
-  - "[[_Standards/WikiData/WD~Silliman Memorial Lectures,7515378]]"
-  - "[[_Standards/WikiData/WD~Foreign Member of the Royal Society,14906020]]"
-  - "[[_Standards/WikiData/WD~Fellow of the American Physical Society,41955909]]"
-  - "[[_Standards/WikiData/WD~Nobel Prize in Physics,38104]]"
-academic degree: "[[_Standards/WikiData/WD~Doctor of Philosophy,752297]]"
-manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-doctoral advisor: "[[_Standards/WikiData/WD~Luigi Puccianti,3840066]]"
+- "[[_Standards/WikiData/WD~Murray Gell-Mann,172840]]"
+- "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
+- "[[_Standards/WikiData/WD~Chen-ning Yang,181369]]"
+- "[[_Standards/WikiData/WD~Owen Chamberlain,183655]]"
+- "[[_Standards/WikiData/WD~Tsung-Dao Lee,183679]]"
+- "[[_Standards/WikiData/WD~Mario Ageno,792158]]"
+doctoral_student:
+- "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
+- "[[_Standards/WikiData/WD~Owen Chamberlain,183655]]"
+- "[[_Standards/WikiData/WD~Tsung-Dao Lee,183679]]"
+- "[[_Standards/WikiData/WD~Marvin Leonard Goldberger,347236]]"
+- "[[_Standards/WikiData/WD~Ettore Majorana,367196]]"
+- "[[_Standards/WikiData/WD~Geoffrey Chew,376617]]"
+- "[[_Standards/WikiData/WD~Oreste Piccioni,430002]]"
+- "[[_Standards/WikiData/WD~Sam Treiman,567758]]"
+- "[[_Standards/WikiData/WD~Mario Ageno,792158]]"
+- "[[_Standards/WikiData/WD~Herbert L. Anderson,1608700]]"
+- "[[_Standards/WikiData/WD~Richard Garwin,2149560]]"
+- "[[_Standards/WikiData/WD~Arthur H. Rosenfeld,4396575]]"
+- "[[_Standards/WikiData/WD~Willem Malkus,47314101]]"
+- "[[_Standards/WikiData/WD~Robert A. Schluter,107303710]]"
+cause_of_death: "[[_Standards/WikiData/WD~stomach cancer,189588]]"
+notable_work:
+- "[[_Standards/WikiData/WD~Fermi–Dirac statistics,274072]]"
+- "[[_Standards/WikiData/WD~Fermi–Pasta–Ulam–Tsingou problem,462254]]"
+- "[[_Standards/WikiData/WD~Thomas–Fermi model,900431]]"
+- "[[_Standards/WikiData/WD~Fermi's golden rule,1073295]]"
+- "[[_Standards/WikiData/WD~Fermi problem,1192374]]"
+- "[[_Standards/WikiData/WD~Fermi's interaction,1406423]]"
+- "[[_Standards/WikiData/WD~Fermi contact interaction,5444399]]"
+- "[[_Standards/WikiData/WD~Fermi paradox,33580]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~agnosticism,288928]]'
+award_received:
+- "[[_Standards/WikiData/WD~Max Planck Medal,317038]]"
+- "[[_Standards/WikiData/WD~Barnard Medal for Meritorious Service to Science,808424]]"
+- "[[_Standards/WikiData/WD~Hughes Medal,844872]]"
+- "[[_Standards/WikiData/WD~National Inventors Hall of Fame,1366018]]"
+- "[[_Standards/WikiData/WD~Matteucci Medal,1419938]]"
+- "[[_Standards/WikiData/WD~Franklin Medal,3141777]]"
+- "[[_Standards/WikiData/WD~Richtmyer Memorial Lecture Award,7331107]]"
+- "[[_Standards/WikiData/WD~Silliman Memorial Lectures,7515378]]"
+- "[[_Standards/WikiData/WD~Foreign Member of the Royal Society,14906020]]"
+- "[[_Standards/WikiData/WD~Fellow of the American Physical Society,41955909]]"
+- "[[_Standards/WikiData/WD~Nobel Prize in Physics,38104]]"
+academic_degree: "[[_Standards/WikiData/WD~Doctor of Philosophy,752297]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+doctoral_advisor: "[[_Standards/WikiData/WD~Luigi Puccianti,3840066]]"
 spouse: "[[_Standards/WikiData/WD~Laura Fermi,6498895]]"
-date of birth: 1901-09-29T00:00:00Z
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place of burial: "[[_Standards/WikiData/WD~Oak Woods Cemetery,7073757]]"
-archives at: "[[_Standards/WikiData/WD~University of Chicago Library,7895259]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-given name: "[[_Standards/WikiData/WD~Enrico,16908530]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
-family name: "[[_Standards/WikiData/WD~Fermi,76912274]]"
-academic thesis: "[[_Standards/WikiData/WD~Un teorema di calcolo delle probabilità ed alcune sue applicazioni,106468787]]"
-ISNI: "0000000121341777"
-writing language:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-native language: "[[_Standards/WikiData/WD~Italian,652]]"
-place of death: "[[_Standards/WikiData/WD~Chicago,1297]]"
-influenced by:
-  - "[[_Standards/WikiData/WD~Joseph Fourier,8772]]"
-  - "[[_Standards/WikiData/WD~Otto Hahn,57065]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
+date_of_birth: "1901-09-29T00:00:00Z"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: "[[_Standards/WikiData/WD~Oak Woods Cemetery,7073757]]"
+archives_at: "[[_Standards/WikiData/WD~University of Chicago Library,7895259]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+given_name: '[[_Standards/WikiData/WD~Enrico,16908530]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
+family_name: '[[_Standards/WikiData/WD~Fermi,76912274]]'
+academic_thesis: "[[_Standards/WikiData/WD~Un teorema di calcolo delle probabilità ed alcune sue applicazioni,106468787]]"
+ISNI: 0000000121341777
+writing_language:
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~Italian,652]]'
+place_of_death: '[[_Standards/WikiData/WD~Chicago,1297]]'
+influenced_by:
+- "[[_Standards/WikiData/WD~Joseph Fourier,8772]]"
+- "[[_Standards/WikiData/WD~Otto Hahn,57065]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 residence:
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Rome,220]]"
-Erdős number: 3
-place of birth: "[[_Standards/WikiData/WD~Rome,220]]"
-nominated for:
-  - "[[_Standards/WikiData/WD~Nobel Prize in Physics,38104]]"
-  - "[[_Standards/WikiData/WD~Nobel Prize in Chemistry,44585]]"
-name in native language: Enrico Fermi
-U.S. National Archives Identifier: "10582037"
-date of death: 1954-11-28T00:00:00Z
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%201943-49.jpg
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%20signature.svg
-NLC authorities: "043499918"
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Rome,220]]'
+Erdős_number: 3
+place_of_birth: '[[_Standards/WikiData/WD~Rome,220]]'
+nominated_for:
+- "[[_Standards/WikiData/WD~Nobel Prize in Physics,38104]]"
+- "[[_Standards/WikiData/WD~Nobel Prize in Chemistry,44585]]"
+name_in_native_language: "Enrico Fermi"
+U_S_National_Archives_Identifier: 10582037
+date_of_death: "1954-11-28T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%201943-49.jpg"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%20signature.svg"
+NLC_authorities: 043499918
 Libris-URI: 53hkkl6p2gp5kvk
-Commons gallery: Enrico Fermi
-Commons category: Enrico Fermi
-Krugosvet article: nauka_i_tehnika/fizika/FERMI_ENRIKO.html
-Regensburg Classification: UB 2580
+Commons_gallery: "Enrico Fermi"
+Commons_category: "Enrico Fermi"
+Krugosvet_article: nauka_i_tehnika/fizika/FERMI_ENRIKO.html
+Regensburg_Classification: "UB 2580"
 ---
-
 
 #has_/time_/started :: 1901-09-29 
 #has_/time_/stopped   :: 1954-11-28 

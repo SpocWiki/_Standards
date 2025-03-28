@@ -1,24 +1,23 @@
----
+﻿---
 has_id_wikidata: Q7081
-part of: "[[_Standards/WikiData/WD~monism,178801]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-facet of:
-  - "[[_Standards/WikiData/WD~social,345367]]"
-  - "[[_Standards/WikiData/WD~epistemology,9471]]"
-  - "[[_Standards/WikiData/WD~metaphysics,35277]]"
-  - "[[_Standards/WikiData/WD~ontology,44325]]"
-instance of: "[[_Standards/WikiData/WD~school of thought,1387659]]"
-opposite of: "[[_Standards/WikiData/WD~idealism,33442]]"
-Commons category: Materialism
+part_of: '[[_Standards/WikiData/WD~monism,178801]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+facet_of:
+- '[[_Standards/WikiData/WD~social,345367]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~ontology,44325]]'
+instance_of: "[[_Standards/WikiData/WD~school of thought,1387659]]"
+opposite_of: '[[_Standards/WikiData/WD~idealism,33442]]'
+Commons_category: Materialism
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,93 +1,93 @@
----
-license: CC BY-SA 4.0
+﻿---
+license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
 isReadOnly: false
 cssclasses:
-  - Type
+- Type
 publish: true
 type: Type
-title: is_a_game Class
-linkTitle: is_a_game Class
+title: "is_a_game Class"
+linkTitle: "is_a_game Class"
 keywords:
-  - game
+- game
 layout: 
 draft: false
 publishDate: 
 expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 aliases:
-  - game
-  - game
-  - Game
-  - is_a_game
+- game
+- game
+- Game
+- is_a_game
 has_id_wikidata: Q11410
-Dewey Decimal Classification:
-  - "306.481"
-  - "790.1"
-  - "795"
-  - "793"
-  - "794"
-  - "796"
-U.S. National Archives Identifier: "10636988"
-Commons category: Games
+Dewey_Decimal_Classification:
+- 306.481
+- 790.1
+- 795
+- 793
+- 794
+- 796
+U_S_National_Archives_Identifier: 10636988
+Commons_category: Games
 subreddit: Games
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-studied in:
-  - "[[_Standards/WikiData/WD~game studies,675281]]"
-  - "[[_Standards/WikiData/WD~historical game studies,131382190]]"
-different from:
-  - "[[_Standards/WikiData/WD~playing,1150958]]"
-  - "[[_Standards/WikiData/WD~Game,1493033]]"
-  - "[[_Standards/WikiData/WD~strategic game,15079592]]"
-  - "[[_Standards/WikiData/WD~video game,7889]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~rule,1151067]]"
-  - "[[_Standards/WikiData/WD~player,4197743]]"
-has list:
-  - "[[_Standards/WikiData/WD~list of games by alphabetical order,1723911]]"
-  - "[[_Standards/WikiData/WD~list of games by genre,2416693]]"
-practiced by: "[[_Standards/WikiData/WD~player,4197743]]"
-contributing factor of: "[[_Standards/WikiData/WD~Q4347847,4347847]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox game,6130572]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of games,7112644]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Spel.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%2C%201892-95%2C%20Les%20joueurs%20de%20carte%20%28The%20Card%20Players%29%2C%2060%20x%2073%20cm%2C%20oil%20on%20canvas%2C%20Courtauld%20Institute%20of%20Art%2C%20London.jpg
-equivalent class:
-  - http://dbpedia.org/ontology/Game
-  - https://schema.org/Game
-Stack Exchange site URL: https://gaming.stackexchange.com
-Krugosvet article: gumanitarnye_nauki/psihologiya_i_pedagogika/IGRA.html
-MeSH tree code: I03.450.642.693.465
-IPTC NewsCode: mediatopic/20000540
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Games,13583042]]"
-subclass of: "[[_Standards/WikiData/WD~recreative work,17538258]]"
-disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance of: "[[_Standards/WikiData/WD~product category,63981612]]"
-part of:
-  - "[[_Standards/WikiData/WD~sport, games, physical exercises,66662493]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-"handled, mitigated, or managed by": "[[_Standards/WikiData/WD~imagination,96634588]]"
-Baidu Tieba name: 游戏
-Provenio UUID: e71b0f91-1a52-44f4-a583-38fc1855ea33
-UMLS CUI: C4042911
-properties for this type:
-  - maximum number of players
-  - minimum number of players
-  - game designer
-IAB code: "1004"
-OmegaWiki Defined Meaning: "6411"
-Nomenclature for Museum Cataloging: "14210"
-Commons gallery: Game
-social media followers: 3195576
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+studied_in:
+- "[[_Standards/WikiData/WD~game studies,675281]]"
+- "[[_Standards/WikiData/WD~historical game studies,131382190]]"
+different_from:
+- '[[_Standards/WikiData/WD~playing,1150958]]'
+- '[[_Standards/WikiData/WD~Game,1493033]]'
+- "[[_Standards/WikiData/WD~strategic game,15079592]]"
+- "[[_Standards/WikiData/WD~video game,7889]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~rule,1151067]]'
+- '[[_Standards/WikiData/WD~player,4197743]]'
+has_list:
+- "[[_Standards/WikiData/WD~list of games by alphabetical order,1723911]]"
+- "[[_Standards/WikiData/WD~list of games by genre,2416693]]"
+practiced_by: '[[_Standards/WikiData/WD~player,4197743]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~Q4347847,4347847]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox game,6130572]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of games,7112644]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Spel.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%2C%201892-95%2C%20Les%20joueurs%20de%20carte%20%28The%20Card%20Players%29%2C%2060%20x%2073%20cm%2C%20oil%20on%20canvas%2C%20Courtauld%20Institute%20of%20Art%2C%20London.jpg"
+equivalent_class:
+- "http://dbpedia.org/ontology/Game"
+- "https://schema.org/Game"
+Stack_Exchange_site_URL: "https://gaming.stackexchange.com"
+Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/IGRA.html
+MeSH_tree_code: I03.450.642.693.465
+IPTC_NewsCode: mediatopic/20000540
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Games,13583042]]'
+subclass_of: "[[_Standards/WikiData/WD~recreative work,17538258]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~product category,63981612]]"
+part_of:
+- "[[_Standards/WikiData/WD~sport, games, physical exercises,66662493]]"
+- '[[_Standards/WikiData/WD~culture,11042]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~imagination,96634588]]'
+Baidu_Tieba_name: 游戏
+Provenio_UUID: e71b0f91-1a52-44f4-a583-38fc1855ea33
+UMLS_CUI: C4042911
+properties_for_this_type:
+- "maximum number of players"
+- "minimum number of players"
+- "game designer"
+IAB_code: 1004
+OmegaWiki_Defined_Meaning: 6411
+Nomenclature_for_Museum_Cataloging: 14210
+Commons_gallery: Game
+social_media_followers: 3195576
 ---
 
 Class of all games.

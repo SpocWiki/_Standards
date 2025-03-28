@@ -1,17 +1,16 @@
----
+﻿---
 has_id_wikidata: Q676
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-instance of: "[[_Standards/WikiData/WD~literary form,4263830]]"
-subclass of: "[[_Standards/WikiData/WD~literary work,7725634]]"
-practiced by: "[[_Standards/WikiData/WD~prose writer,12144794]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Prose%20and%20Verse%20on%20one%20page.jpg
-part of: "[[_Standards/WikiData/WD~literature,8242]]"
-Commons category: Prose
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+instance_of: "[[_Standards/WikiData/WD~literary form,4263830]]"
+subclass_of: "[[_Standards/WikiData/WD~literary work,7725634]]"
+practiced_by: "[[_Standards/WikiData/WD~prose writer,12144794]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Prose%20and%20Verse%20on%20one%20page.jpg"
+part_of: '[[_Standards/WikiData/WD~literature,8242]]'
+Commons_category: Prose
 ---
-
 
 ## #has_/text_of_/abstract 
 

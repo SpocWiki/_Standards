@@ -1,65 +1,64 @@
----
+﻿---
 has_id_wikidata: Q5505
-located in/on physical feature: "[[_Standards/WikiData/WD~Great Rift Valley,81591]]"
-part of: "[[_Standards/WikiData/WD~African Great Lakes,87982]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~John Hanning Speke,125084]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Great Rift Valley,81591]]"
+part_of: "[[_Standards/WikiData/WD~African Great Lakes,87982]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~John Hanning Speke,125084]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Mara River,530479]]"
-  - "[[_Standards/WikiData/WD~Simiyu River,1340687]]"
-  - "[[_Standards/WikiData/WD~Kagera River,2750140]]"
-  - "[[_Standards/WikiData/WD~Nzoia River,2915185]]"
-  - "[[_Standards/WikiData/WD~Yala River,3571381]]"
-  - "[[_Standards/WikiData/WD~Gucha River,3652178]]"
-  - "[[_Standards/WikiData/WD~Sondu Miriu,12294178]]"
-  - "[[_Standards/WikiData/WD~Mogusi River,56042333]]"
-  - "[[_Standards/WikiData/WD~Nyando River,58792399]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-drainage basin: "[[_Standards/WikiData/WD~Nile basin,2887548]]"
-different from:
-  - "[[_Standards/WikiData/WD~Lake Uniamési,3549925]]"
-  - "[[_Standards/WikiData/WD~Lago Victoria,22702690]]"
+- "[[_Standards/WikiData/WD~Mara River,530479]]"
+- "[[_Standards/WikiData/WD~Simiyu River,1340687]]"
+- "[[_Standards/WikiData/WD~Kagera River,2750140]]"
+- "[[_Standards/WikiData/WD~Nzoia River,2915185]]"
+- "[[_Standards/WikiData/WD~Yala River,3571381]]"
+- "[[_Standards/WikiData/WD~Gucha River,3652178]]"
+- "[[_Standards/WikiData/WD~Sondu Miriu,12294178]]"
+- "[[_Standards/WikiData/WD~Mogusi River,56042333]]"
+- "[[_Standards/WikiData/WD~Nyando River,58792399]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+drainage_basin: "[[_Standards/WikiData/WD~Nile basin,2887548]]"
+different_from:
+- "[[_Standards/WikiData/WD~Lake Uniamési,3549925]]"
+- "[[_Standards/WikiData/WD~Lago Victoria,22702690]]"
 outflows: "[[_Standards/WikiData/WD~White Nile,4814791]]"
-category for the water basin: "[[_Standards/WikiData/WD~Q18120944,18120944]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Getting%20out%20to%20fish%20at%20dusk.jpg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Kaart%20Victoriameer.png
-bathymetry image: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Vic%20Bathy.jpg
-time of discovery or invention: 1858-01-01T00:00:00Z
-basin country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
+category_for_the_water_basin: '[[_Standards/WikiData/WD~Q18120944,18120944]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Getting%20out%20to%20fish%20at%20dusk.jpg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kaart%20Victoriameer.png"
+bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Vic%20Bathy.jpg"
+time_of_discovery_or_invention: "1858-01-01T00:00:00Z"
+basin_country:
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
 country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-named after: "[[_Standards/WikiData/WD~Victoria,9439]]"
-instance of: "[[_Standards/WikiData/WD~lake,23397]]"
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+named_after: '[[_Standards/WikiData/WD~Victoria,9439]]'
+instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
 width: 240
-residence time of water: 24
-vertical depth: 83
-volume as quantity: 2750000
+residence_time_of_water: 24
+vertical_depth: 83
+volume_as_quantity: 2750000
 length: 337
 area: 68100
-elevation above sea level: 1133
-coordinate location: Point(33.0 -1.0)
-watershed area: 238900
+elevation_above_sea_level: 1133
+coordinate_location: "Point(33.0 -1.0)"
+watershed_area: 238900
 perimeter: 4828
-Commons gallery: Lake Victoria
-Commons category: Lake Victoria
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tanzanie%20du%20Nord-Ouest%20banner.jpg
+Commons_gallery: "Lake Victoria"
+Commons_category: "Lake Victoria"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tanzanie%20du%20Nord-Ouest%20banner.jpg"
 aliases:
-  - Lake Victoria
+- "Lake Victoria"
 ---
-
 
 ## #has_/text_of_/abstract 
 

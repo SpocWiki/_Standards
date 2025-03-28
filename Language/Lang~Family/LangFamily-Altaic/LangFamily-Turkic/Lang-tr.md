@@ -1,107 +1,108 @@
----
+﻿---
 type: Lang
 aliases:
-  - Turkish
-  - Turkish language
+- Turkish
+- "Turkish language"
 tags:
-  - Lang/tr
+- Lang/tr
 has_id_wikidata: Q256
-Dewey Decimal Classification: "494.35"
-Krugosvet article: gumanitarnye_nauki/lingvistika/TURETSKI_YAZIK.html
-OpenStreetMap tag or key: Key:language:tr
-Glottolog code: nucl1301
-GitHub topic: turkish
-Commons category: Turkish language
-GOST 7.75–97 code: тур 693
-entry in abbreviations table:
-  - тур.
-  - ਤੁ.
-short name:
-  - türkcə
-  - türgi keel
-  - түрікше
-  - туркаг
-  - турецкий
-  - турецька
-native label: Türkçe
-indigenous to:
-  - "[[_Standards/WikiData/WD~Turks,84072]]"
-  - "[[_Standards/WikiData/WD~Haskovo,182809]]"
-  - "[[_Standards/WikiData/WD~Xanthi Prefecture,208303]]"
-  - "[[_Standards/WikiData/WD~Rhodope Prefecture,208604]]"
-  - "[[_Standards/WikiData/WD~Burgas,369220]]"
-  - "[[_Standards/WikiData/WD~Kardzhali,1104675]]"
-  - "[[_Standards/WikiData/WD~Smolyan,2012430]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Cyprus,229]]"
-has grammatical case:
-  - "[[_Standards/WikiData/WD~nominative case,131105]]"
-  - "[[_Standards/WikiData/WD~dative case,145599]]"
-  - "[[_Standards/WikiData/WD~accusative case,146078]]"
-  - "[[_Standards/WikiData/WD~genitive case,146233]]"
-  - "[[_Standards/WikiData/WD~ablative case,156986]]"
-  - "[[_Standards/WikiData/WD~instrumental case,192997]]"
-  - "[[_Standards/WikiData/WD~locative case,202142]]"
-linguistic typology:
-  - "[[_Standards/WikiData/WD~vowel harmony,147137]]"
-  - "[[_Standards/WikiData/WD~postposition,161873]]"
-  - "[[_Standards/WikiData/WD~agglutinative language,171263]]"
-  - "[[_Standards/WikiData/WD~nominative–accusative language,178435]]"
-  - "[[_Standards/WikiData/WD~subject–object–verb,539808]]"
-  - "[[_Standards/WikiData/WD~syllabic language,7888569]]"
-  - "[[_Standards/WikiData/WD~adjective-noun,74834637]]"
-  - "[[_Standards/WikiData/WD~synthetic language,48612]]"
-uses capitalization for: "[[_Standards/WikiData/WD~proper noun,147276]]"
-has tense:
-  - "[[_Standards/WikiData/WD~present tense,192613]]"
-  - "[[_Standards/WikiData/WD~future tense,501405]]"
-  - "[[_Standards/WikiData/WD~past tense,1994301]]"
-writing system: "[[_Standards/WikiData/WD~Turkish alphabet,637405]]"
-instance of:
-  - "[[_Standards/WikiData/WD~modern language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural language,33742]]"
-language regulatory body: "[[_Standards/WikiData/WD~Turkish Language Association,1569712]]"
-different from:
-  - "[[_Standards/WikiData/WD~Turki,1763658]]"
-  - "[[_Standards/WikiData/WD~Turkic,34090]]"
-has grammatical mood: "[[_Standards/WikiData/WD~admirative,4356464]]"
-described by source: "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-UNESCO language status: "[[_Standards/WikiData/WD~1 safe,20672086]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27069824,27069824]]"
-Ethnologue language status: "[[_Standards/WikiData/WD~1 National,29051546]]"
-subclass of: "[[_Standards/WikiData/WD~Western Oghuz,97725298]]"
-Stack Exchange tag:
-  - https://linguistics.stackexchange.com/tags/turkish
-  - https://stackoverflow.com/tags/turkish
-described at URL:
-  - https://turkic.elegantlexicon.com/lx.php?lx=tur
-  - https://afbo.info/languages/81
+Dewey_Decimal_Classification: 494.35
+Krugosvet_article: gumanitarnye_nauki/lingvistika/TURETSKI_YAZIK.html
+OpenStreetMap_tag_or_key: "Key:language:tr"
+Glottolog_code: nucl1301
+GitHub_topic: turkish
+Commons_category: "Turkish language"
+GOST_7_75_97_code: "тур 693"
+entry_in_abbreviations_table:
+- тур.
+- ਤੁ.
+short_name:
+- türkcə
+- "türgi keel"
+- түрікше
+- туркаг
+- турецкий
+- турецька
+native_label: Türkçe
+indigenous_to:
+- '[[_Standards/WikiData/WD~Turks,84072]]'
+- '[[_Standards/WikiData/WD~Haskovo,182809]]'
+- "[[_Standards/WikiData/WD~Xanthi Prefecture,208303]]"
+- "[[_Standards/WikiData/WD~Rhodope Prefecture,208604]]"
+- '[[_Standards/WikiData/WD~Burgas,369220]]'
+- '[[_Standards/WikiData/WD~Kardzhali,1104675]]'
+- '[[_Standards/WikiData/WD~Smolyan,2012430]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+has_grammatical_case:
+- "[[_Standards/WikiData/WD~nominative case,131105]]"
+- "[[_Standards/WikiData/WD~dative case,145599]]"
+- "[[_Standards/WikiData/WD~accusative case,146078]]"
+- "[[_Standards/WikiData/WD~genitive case,146233]]"
+- "[[_Standards/WikiData/WD~ablative case,156986]]"
+- "[[_Standards/WikiData/WD~instrumental case,192997]]"
+- "[[_Standards/WikiData/WD~locative case,202142]]"
+linguistic_typology:
+- "[[_Standards/WikiData/WD~vowel harmony,147137]]"
+- '[[_Standards/WikiData/WD~postposition,161873]]'
+- "[[_Standards/WikiData/WD~agglutinative language,171263]]"
+- "[[_Standards/WikiData/WD~nominative–accusative language,178435]]"
+- '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
+- "[[_Standards/WikiData/WD~syllabic language,7888569]]"
+- '[[_Standards/WikiData/WD~adjective-noun,74834637]]'
+- "[[_Standards/WikiData/WD~synthetic language,48612]]"
+uses_capitalization_for: "[[_Standards/WikiData/WD~proper noun,147276]]"
+has_tense:
+- "[[_Standards/WikiData/WD~present tense,192613]]"
+- "[[_Standards/WikiData/WD~future tense,501405]]"
+- "[[_Standards/WikiData/WD~past tense,1994301]]"
+writing_system: "[[_Standards/WikiData/WD~Turkish alphabet,637405]]"
+instance_of:
+- "[[_Standards/WikiData/WD~modern language,1288568]]"
+- "[[_Standards/WikiData/WD~natural language,33742]]"
+language_regulatory_body: "[[_Standards/WikiData/WD~Turkish Language Association,1569712]]"
+different_from:
+- '[[_Standards/WikiData/WD~Turki,1763658]]'
+- '[[_Standards/WikiData/WD~Turkic,34090]]'
+has_grammatical_mood: '[[_Standards/WikiData/WD~admirative,4356464]]'
+described_by_source: "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+UNESCO_language_status: "[[_Standards/WikiData/WD~1 safe,20672086]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27069824,27069824]]'
+Ethnologue_language_status: "[[_Standards/WikiData/WD~1 National,29051546]]"
+subclass_of: "[[_Standards/WikiData/WD~Western Oghuz,97725298]]"
+Stack_Exchange_tag:
+- "https://linguistics.stackexchange.com/tags/turkish"
+- "https://stackoverflow.com/tags/turkish"
+described_at_URL:
+- "https://turkic.elegantlexicon.com/lx.php?lx=tur"
+- "https://afbo.info/languages/81"
 Libris-URI: qn2431n85jhb0r6
-studied in: "[[_Standards/WikiData/WD~Turkology,8427]]"
+studied_in: '[[_Standards/WikiData/WD~Turkology,8427]]'
 country:
-  - "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~Cyprus,229]]"
-Wikimedia language code: tr
-IETF language tag: tr
-ISO 639-1 code: tr
-POSIX locale identifier: tr
-IAB code: "1195"
-OmegaWiki Defined Meaning: "6296"
-"number of speakers, writers, or signers":
-  - 5870300
-  - 82231620
-ABS ASCL 2011 code: "4301"
-ISO 639-3 code: tur
-ISO 639-2 code: tur
-Ethnologue.com language code: tur
-WALS lect code: tur
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Turkish%20alphabet.svg
-distribution map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Turkish%20Language.svg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rhodiapolis%20%28Turkey%29%20banner%20Ruins%20of%20ancient%20city.jpg
+- "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+Wikimedia_language_code: tr
+IETF_language_tag: tr
+ISO_639-1_code: tr
+POSIX_locale_identifier: tr
+IAB_code: 1195
+OmegaWiki_Defined_Meaning: 6296
+number_of_speakers_writers_or_signers:
+- 5870300
+- 82231620
+ABS_ASCL_2011_code: 4301
+ISO_639-3_code: tur
+ISO_639-2_code: tur
+Ethnologue_com_language_code: tur
+WALS_lect_code: tur
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Turkish%20alphabet.svg"
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Turkish%20Language.svg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhodiapolis%20%28Turkey%29%20banner%20Ruins%20of%20ancient%20city.jpg"
 ---
+
 ﻿
  # [[Lang-tr]] 
 

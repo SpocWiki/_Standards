@@ -1,48 +1,47 @@
----
+﻿---
 has_id_wikidata: Q11028
-has cause:
-  - "[[_Standards/WikiData/WD~signal,174984]]"
-  - "[[_Standards/WikiData/WD~raw data,2110223]]"
-has contributing factor: "[[_Standards/WikiData/WD~accuracy and precision,272035]]"
-used by:
-  - "[[_Standards/WikiData/WD~informetrics,355654]]"
-  - "[[_Standards/WikiData/WD~information curation,65770360]]"
-different from: "[[_Standards/WikiData/WD~Information,3150833]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~information quality,3412851]]"
-  - "[[_Standards/WikiData/WD~information form,21550682]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Kazakhstan. National encyclopedia,4208106]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
-maintained by WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject Computer Science,6526225]]"
-  - "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-  - "[[_Standards/WikiData/WD~WikiProject Technology,9497549]]"
-  - "[[_Standards/WikiData/WD~WikiProject Cognitive science,11755993]]"
-subclass of: "[[_Standards/WikiData/WD~abstract entity,7048977]]"
-said to be the same as: "[[_Standards/WikiData/WD~information,71699827]]"
-has effect: "[[_Standards/WikiData/WD~knowledge,9081]]"
-studied in: "[[_Standards/WikiData/WD~information science,16387]]"
-Dewey Decimal Classification:
-  - "020"
-  - "306.42"
-  - "621.3822"
-  - "003.54"
-  - "302.24"
-OmegaWiki Defined Meaning: "1935"
-Commons gallery: Information
-Commons category: Information
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20the%20Universe.jpg
-described at URL:
-  - http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/277216/norma.htm
-  - http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Info%20Simple%20bw.svg
-label in sign language: http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20informer.ogv
-IEV number:
-  - 171-01-01
-  - 701-01-01
+has_cause:
+- '[[_Standards/WikiData/WD~signal,174984]]'
+- "[[_Standards/WikiData/WD~raw data,2110223]]"
+has_contributing_factor: "[[_Standards/WikiData/WD~accuracy and precision,272035]]"
+used_by:
+- '[[_Standards/WikiData/WD~informetrics,355654]]'
+- "[[_Standards/WikiData/WD~information curation,65770360]]"
+different_from: '[[_Standards/WikiData/WD~Information,3150833]]'
+has_characteristic:
+- "[[_Standards/WikiData/WD~information quality,3412851]]"
+- "[[_Standards/WikiData/WD~information form,21550682]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Kazakhstan. National encyclopedia,4208106]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
+maintained_by_WikiProject:
+- "[[_Standards/WikiData/WD~WikiProject Computer Science,6526225]]"
+- "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~WikiProject Technology,9497549]]"
+- "[[_Standards/WikiData/WD~WikiProject Cognitive science,11755993]]"
+subclass_of: "[[_Standards/WikiData/WD~abstract entity,7048977]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~information,71699827]]'
+has_effect: '[[_Standards/WikiData/WD~knowledge,9081]]'
+studied_in: "[[_Standards/WikiData/WD~information science,16387]]"
+Dewey_Decimal_Classification:
+- 020
+- 306.42
+- 621.3822
+- 003.54
+- 302.24
+OmegaWiki_Defined_Meaning: 1935
+Commons_gallery: Information
+Commons_category: Information
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20the%20Universe.jpg"
+described_at_URL:
+- "http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/277216/norma.htm"
+- "http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm"
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Info%20Simple%20bw.svg"
+label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20informer.ogv"
+IEV_number:
+- 171-01-01
+- 701-01-01
 ---
-
 
 ## #has_/text_of_/abstract 
 

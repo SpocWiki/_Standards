@@ -1,48 +1,48 @@
----
+﻿---
 has_id_wikidata: Q9128
-different from:
-  - "[[_Standards/WikiData/WD~visible spectrum,76299]]"
-  - "[[_Standards/WikiData/WD~Light,347415]]"
-  - "[[_Standards/WikiData/WD~light,106831324]]"
-opposite of: "[[_Standards/WikiData/WD~darkness,204170]]"
-has use:
-  - "[[_Standards/WikiData/WD~visual system,558363]]"
-  - "[[_Standards/WikiData/WD~video art,682010]]"
-  - "[[_Standards/WikiData/WD~art,735]]"
-  - "[[_Standards/WikiData/WD~photosynthesis,11982]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-has characteristic: "[[_Standards/WikiData/WD~spectrum,654182]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~optical radiation,7098889]]"
-  - "[[_Standards/WikiData/WD~electromagnetic wave,11386]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q25691278,25691278]]"
-topic's main category: "[[_Standards/WikiData/WD~Q106841467,106841467]]"
-instance of: "[[_Standards/WikiData/WD~production environment factor,124326543]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Emanation.png
-has part(s): "[[_Standards/WikiData/WD~photon,3198]]"
-studied in: "[[_Standards/WikiData/WD~optics,14620]]"
-Dewey Decimal Classification:
-  - "535"
-  - "541.3533"
-  - "770.11"
-OmegaWiki Defined Meaning: "2158"
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.ogv
-Colon Classification: C5
-Commons gallery: Light
-Commons category: Light
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Spectrum4websiteEval.png
-MeSH tree code:
-  - G01.358.500.505.650
-  - G01.590.540
-  - G01.750.250.650
-  - G01.750.770.578
-Krugosvet article: nauka_i_tehnika/fizika/SVET.html
+different_from:
+- "[[_Standards/WikiData/WD~visible spectrum,76299]]"
+- '[[_Standards/WikiData/WD~Light,347415]]'
+- '[[_Standards/WikiData/WD~light,106831324]]'
+opposite_of: '[[_Standards/WikiData/WD~darkness,204170]]'
+has_use:
+- "[[_Standards/WikiData/WD~visual system,558363]]"
+- "[[_Standards/WikiData/WD~video art,682010]]"
+- '[[_Standards/WikiData/WD~art,735]]'
+- '[[_Standards/WikiData/WD~photosynthesis,11982]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+has_characteristic: '[[_Standards/WikiData/WD~spectrum,654182]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~optical radiation,7098889]]"
+- "[[_Standards/WikiData/WD~electromagnetic wave,11386]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25691278,25691278]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q106841467,106841467]]'
+instance_of: "[[_Standards/WikiData/WD~production environment factor,124326543]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emanation.png"
+has_part_s_: '[[_Standards/WikiData/WD~photon,3198]]'
+studied_in: '[[_Standards/WikiData/WD~optics,14620]]'
+Dewey_Decimal_Classification:
+- 535
+- 541.3533
+- 770.11
+OmegaWiki_Defined_Meaning: 2158
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.ogv"
+Colon_Classification: C5
+Commons_gallery: Light
+Commons_category: Light
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Spectrum4websiteEval.png"
+MeSH_tree_code:
+- G01.358.500.505.650
+- G01.590.540
+- G01.750.250.650
+- G01.750.770.578
+Krugosvet_article: nauka_i_tehnika/fizika/SVET.html
 speed: 299792458
 ---
 

@@ -1,315 +1,315 @@
----
-located in/on physical feature: "[[_Standards/WikiData/WD~Sahel,66065]]"
+﻿---
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Sahel,66065]]'
 flag: "[[_Standards/WikiData/WD~flag of Niger,103046]]"
-instance of:
-  - "[[_Standards/WikiData/WD~landlocked country,123480]]"
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-member of:
-  - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Conseil de l'Entente,945574]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~OHADA,2029901]]"
-  - "[[_Standards/WikiData/WD~Lake Chad Basin Commission,2986599]]"
-  - "[[_Standards/WikiData/WD~AFRISTAT,3348506]]"
-  - "[[_Standards/WikiData/WD~African Groundnut Council,4689777]]"
-  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~Multinational Joint Task Force,19429054]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African Union,7159]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Zinder Region,204367]]"
-  - "[[_Standards/WikiData/WD~Agadez Region,389944]]"
-  - "[[_Standards/WikiData/WD~Maradi Region,850036]]"
-  - "[[_Standards/WikiData/WD~Dosso Region,850055]]"
-  - "[[_Standards/WikiData/WD~Tillabéri Region,861914]]"
-  - "[[_Standards/WikiData/WD~Tahoua Region,871083]]"
-  - "[[_Standards/WikiData/WD~Diffa Region,1053302]]"
-  - "[[_Standards/WikiData/WD~Niamey,3674]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Niger,209265]]"
+instance_of:
+- "[[_Standards/WikiData/WD~landlocked country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+member_of:
+- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
+- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Conseil de l'Entente,945574]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- '[[_Standards/WikiData/WD~OHADA,2029901]]'
+- "[[_Standards/WikiData/WD~Lake Chad Basin Commission,2986599]]"
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
+- "[[_Standards/WikiData/WD~African Groundnut Council,4689777]]"
+- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Multinational Joint Task Force,19429054]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~African Union,7159]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Zinder Region,204367]]"
+- "[[_Standards/WikiData/WD~Agadez Region,389944]]"
+- "[[_Standards/WikiData/WD~Maradi Region,850036]]"
+- "[[_Standards/WikiData/WD~Dosso Region,850055]]"
+- "[[_Standards/WikiData/WD~Tillabéri Region,861914]]"
+- "[[_Standards/WikiData/WD~Tahoua Region,871083]]"
+- "[[_Standards/WikiData/WD~Diffa Region,1053302]]"
+- '[[_Standards/WikiData/WD~Niamey,3674]]'
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Niger,209265]]"
 replaces: "[[_Standards/WikiData/WD~French West Africa,210682]]"
-head of state:
-  - "[[_Standards/WikiData/WD~Mamadou Tandja,220227]]"
-  - "[[_Standards/WikiData/WD~Salou Djibo,356835]]"
-  - "[[_Standards/WikiData/WD~Mohamed Bazoum,3318398]]"
-  - "[[_Standards/WikiData/WD~Abdourahamane Tchiani,120965176]]"
-  - "[[_Standards/WikiData/WD~Mahamadou Issoufou,57482]]"
-head of government:
-  - "[[_Standards/WikiData/WD~Mahamadou Danda,386527]]"
-  - "[[_Standards/WikiData/WD~Hama Amadou,544141]]"
-  - "[[_Standards/WikiData/WD~Seyni Oumarou,703987]]"
-  - "[[_Standards/WikiData/WD~Ibrahim Assane Mayaki,761823]]"
-  - "[[_Standards/WikiData/WD~Ali Badjo Gamatié,2097624]]"
-  - "[[_Standards/WikiData/WD~Ali Lamine Zeine,2646711]]"
-  - "[[_Standards/WikiData/WD~Albadé Abouba,2830749]]"
-  - "[[_Standards/WikiData/WD~Ouhoumoudou Mahamadou,7110324]]"
-  - "[[_Standards/WikiData/WD~Brigi Rafini,57877]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Niger,591586]]"
-central bank: "[[_Standards/WikiData/WD~Central Bank of West African States,620942]]"
+head_of_state:
+- "[[_Standards/WikiData/WD~Mamadou Tandja,220227]]"
+- "[[_Standards/WikiData/WD~Salou Djibo,356835]]"
+- "[[_Standards/WikiData/WD~Mohamed Bazoum,3318398]]"
+- "[[_Standards/WikiData/WD~Abdourahamane Tchiani,120965176]]"
+- "[[_Standards/WikiData/WD~Mahamadou Issoufou,57482]]"
+head_of_government:
+- "[[_Standards/WikiData/WD~Mahamadou Danda,386527]]"
+- "[[_Standards/WikiData/WD~Hama Amadou,544141]]"
+- "[[_Standards/WikiData/WD~Seyni Oumarou,703987]]"
+- "[[_Standards/WikiData/WD~Ibrahim Assane Mayaki,761823]]"
+- "[[_Standards/WikiData/WD~Ali Badjo Gamatié,2097624]]"
+- "[[_Standards/WikiData/WD~Ali Lamine Zeine,2646711]]"
+- "[[_Standards/WikiData/WD~Albadé Abouba,2830749]]"
+- "[[_Standards/WikiData/WD~Ouhoumoudou Mahamadou,7110324]]"
+- "[[_Standards/WikiData/WD~Brigi Rafini,57877]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Niger,591586]]"
+central_bank: "[[_Standards/WikiData/WD~Central Bank of West African States,620942]]"
 currency: "[[_Standards/WikiData/WD~West African CFA franc,861690]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type E,2335536]]"
-  - "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-  - "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-history of topic: "[[_Standards/WikiData/WD~history of Niger,1480307]]"
-legislative body: "[[_Standards/WikiData/WD~National Assembly,1969585]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Niger,2333395]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Niger,2453079]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- "[[_Standards/WikiData/WD~Type E,2335536]]"
+- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Niger,1480307]]"
+legislative_body: "[[_Standards/WikiData/WD~National Assembly,1969585]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Niger,2333395]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Niger,2453079]]"
 culture: "[[_Standards/WikiData/WD~culture of Niger,2597728]]"
-highest point: "[[_Standards/WikiData/WD~Mont Idoukal-n-Taghès,3042286]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of Niger,4376760]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Africa_Niamey,4689518]]"
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-executive body: "[[_Standards/WikiData/WD~Cabinet of Niger,5015537]]"
-public holiday: "[[_Standards/WikiData/WD~Independence Day,6016005]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Niger,7112383]]"
-language used:
-  - "[[_Standards/WikiData/WD~Bilma Kanuri,8843523]]"
-  - "[[_Standards/WikiData/WD~Tumari Kanuri,11033658]]"
-  - "[[_Standards/WikiData/WD~Central-Eastern Niger Fulfulde,12628799]]"
-  - "[[_Standards/WikiData/WD~Western Niger Fulfulde,12952430]]"
-  - "[[_Standards/WikiData/WD~Manga Kanuri,12952572]]"
-  - "[[_Standards/WikiData/WD~Central Kanuri,15637215]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Fula,33454]]"
-  - "[[_Standards/WikiData/WD~Dazaga-kara,35244]]"
-  - "[[_Standards/WikiData/WD~Gourmanchéma,35474]]"
-  - "[[_Standards/WikiData/WD~Tasawaq,36564]]"
-  - "[[_Standards/WikiData/WD~Gadal,36570]]"
-  - "[[_Standards/WikiData/WD~Teda,36639]]"
-  - "[[_Standards/WikiData/WD~Zarma,36990]]"
-  - "[[_Standards/WikiData/WD~Tahoua,56390]]"
-  - "[[_Standards/WikiData/WD~Air Tamajeq,56388]]"
-  - "[[_Standards/WikiData/WD~Hausa,56475]]"
-  - "[[_Standards/WikiData/WD~Shuwa,56497]]"
-  - "[[_Standards/WikiData/WD~Libyan Arabic,56503]]"
-  - "[[_Standards/WikiData/WD~Tamahaq,56703]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Niger,11302106]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~17,25648842]]"
-  - "[[_Standards/WikiData/WD~18,25648843]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Niger,30100634]]"
-has characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-described by source: "[[_Standards/WikiData/WD~Treccani's Enciclopedia on line,65921422]]"
+highest_point: "[[_Standards/WikiData/WD~Mont Idoukal-n-Taghès,3042286]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Niger,4376760]]"
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~Africa_Niamey,4689518]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+executive_body: "[[_Standards/WikiData/WD~Cabinet of Niger,5015537]]"
+public_holiday: "[[_Standards/WikiData/WD~Independence Day,6016005]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Niger,7112383]]"
+language_used:
+- "[[_Standards/WikiData/WD~Bilma Kanuri,8843523]]"
+- "[[_Standards/WikiData/WD~Tumari Kanuri,11033658]]"
+- "[[_Standards/WikiData/WD~Central-Eastern Niger Fulfulde,12628799]]"
+- "[[_Standards/WikiData/WD~Western Niger Fulfulde,12952430]]"
+- "[[_Standards/WikiData/WD~Manga Kanuri,12952572]]"
+- "[[_Standards/WikiData/WD~Central Kanuri,15637215]]"
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Fula,33454]]'
+- '[[_Standards/WikiData/WD~Dazaga-kara,35244]]'
+- '[[_Standards/WikiData/WD~Gourmanchéma,35474]]'
+- '[[_Standards/WikiData/WD~Tasawaq,36564]]'
+- '[[_Standards/WikiData/WD~Gadal,36570]]'
+- '[[_Standards/WikiData/WD~Teda,36639]]'
+- '[[_Standards/WikiData/WD~Zarma,36990]]'
+- '[[_Standards/WikiData/WD~Tahoua,56390]]'
+- "[[_Standards/WikiData/WD~Air Tamajeq,56388]]"
+- '[[_Standards/WikiData/WD~Hausa,56475]]'
+- '[[_Standards/WikiData/WD~Shuwa,56497]]'
+- "[[_Standards/WikiData/WD~Libyan Arabic,56503]]"
+- '[[_Standards/WikiData/WD~Tamahaq,56703]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Niger,11302106]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~17,25648842]]'
+- '[[_Standards/WikiData/WD~18,25648843]]'
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Niger,30100634]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+described_by_source: "[[_Standards/WikiData/WD~Treccani's Enciclopedia on line,65921422]]"
 anthem: "[[_Standards/WikiData/WD~L'Honneur de la Patrie,120170814]]"
-coordinates of easternmost point: Point(15.99665 20.35306)
-nominal GDP:
-  - 14915002098
-  - 13969605583
-UMLS CUI: C0028074
+coordinates_of_easternmost_point: "Point(15.99665 20.35306)"
+nominal_GDP:
+- 14915002098
+- 13969605583
+UMLS_CUI: C0028074
 demonym:
-  - nigerí
-  - nigerina
-  - نيجري
-  - نيجرية
-  - نيجريات
-  - نيجريين
-  - نيجري
-  - نيجرية
-  - نيجريون
-  - nixerín
-  - nixerina
-  - নাইজেরীয়
-  - Nigerier
-  - Nigerierin
-  - Nigerien
-  - ניז'רי
-  - ניז'רית
-  - nigeri
-  - Nijerano
-  - nigerine
-  - nigerino
-  - nijerien
-  - nizerin
-  - nizerina
-  - nizerine
-  - Nigeränan
-  - Nigérien
-  - Nigérienne
-  - Nígireach
-  - nigerina
-  - nigerini
-  - nizerini
-ISNI: "0000000121881490"
-MeSH tree code: Z01.058.290.190.560
-motto text:
-  - Brawdoliaeth, Gwaith, Datblygiad
-  - Братство, труд, прогрес
-  - Fraternity, Work, Progress
-  - Fraternité, Travail, Progrès
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20-%20Location%20Map%20%282011%29%20-%20NER%20-%20UNOCHA.svg
-coordinates of southernmost point: Point(3.60942 11.69359)
-shares border with:
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Chad,657]]"
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Benin,962]]"
-  - "[[_Standards/WikiData/WD~Burkina Faso,965]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-  - "[[_Standards/WikiData/WD~Arab League,7172]]"
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~European Union,458]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-country: "[[_Standards/WikiData/WD~Niger,1032]]"
-different from: "[[_Standards/WikiData/WD~Nigeria,1033]]"
-lowest point: "[[_Standards/WikiData/WD~Niger River,3542]]"
-named after: "[[_Standards/WikiData/WD~Niger River,3542]]"
-capital: "[[_Standards/WikiData/WD~Niamey,3674]]"
-part of: "[[_Standards/WikiData/WD~West Africa,4412]]"
-minimum temperature record: -2.4
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-official language: "[[_Standards/WikiData/WD~French,150]]"
-Human Development Index: 0.4
-unemployment rate: 5
-marriageable age:
-  - 15
-  - 18
-VAT rate: 19
-mains voltage: 220
-BTI Status Index:
-  - 4.9
-  - 5.4
-  - 4.55
-  - 5.01
-  - 5.13
-  - 5.15
-  - 5.32
-  - 5.36
-  - 5.45
-BTI Governance Index:
-  - 5.1
-  - 5.25
-  - 5.54
-  - 5.63
-  - 5.69
-  - 5.87
-  - 5.94
-  - 6.11
-  - 6.12
-Inequality-adjusted Human Development Index: 0.292
-Democracy Index: 3.29
-top-level Internet domain: "[[_Standards/WikiData/WD~.ne,43158]]"
-Gini coefficient: 37.3
-Happy Planet Index score: 41.4
-madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Niger.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Niger.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%BE%E0%A6%B0.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Niger.ogg
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationNiger.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20%28orthographic%20projection%29.svg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20banner%20Bagzane.jpg
-official website: http://www.presidence.ne
-country calling code: "+227"
-U.S. National Archives Identifier: "10035780"
-Dewey Decimal Classification: 2--6626
-Unicode character: 🇳🇪
-ISO 3166-1 alpha-3 code: NER
-CIVICUS Monitor country entry: niger
-GitHub topic: niger
-Krugosvet article: strany_mira/NIGER.html
-official name:
-  - la République du Niger
-  - Jamhuriyar Nijar
-  - Niger
-native label: Nijar
-short name: 🇳🇪
-coordinates of westernmost point: Point(0.16896 14.52207)
+- nigerí
+- nigerina
+- نيجري
+- نيجرية
+- نيجريات
+- نيجريين
+- نيجري
+- نيجرية
+- نيجريون
+- nixerín
+- nixerina
+- নাইজেরীয়
+- Nigerier
+- Nigerierin
+- Nigerien
+- "ניז'רי"
+- "ניז'רית"
+- nigeri
+- Nijerano
+- nigerine
+- nigerino
+- nijerien
+- nizerin
+- nizerina
+- nizerine
+- Nigeränan
+- Nigérien
+- Nigérienne
+- Nígireach
+- nigerina
+- nigerini
+- nizerini
+ISNI: 0000000121881490
+MeSH_tree_code: Z01.058.290.190.560
+motto_text:
+- "Brawdoliaeth, Gwaith, Datblygiad"
+- "Братство, труд, прогрес"
+- "Fraternity, Work, Progress"
+- "Fraternité, Travail, Progrès"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20-%20Location%20Map%20%282011%29%20-%20NER%20-%20UNOCHA.svg"
+coordinates_of_southernmost_point: "Point(3.60942 11.69359)"
+shares_border_with:
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Chad,657]]'
+- '[[_Standards/WikiData/WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Benin,962]]'
+- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033]]'
+- "[[_Standards/WikiData/WD~Arab League,7172]]"
+diplomatic_relation:
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~European Union,458]]"
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183]]'
+country: '[[_Standards/WikiData/WD~Niger,1032]]'
+different_from: '[[_Standards/WikiData/WD~Nigeria,1033]]'
+lowest_point: "[[_Standards/WikiData/WD~Niger River,3542]]"
+named_after: "[[_Standards/WikiData/WD~Niger River,3542]]"
+capital: '[[_Standards/WikiData/WD~Niamey,3674]]'
+part_of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+minimum_temperature_record: -2.4
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+official_language: '[[_Standards/WikiData/WD~French,150]]'
+Human_Development_Index: 0.4
+unemployment_rate: 5
+marriageable_age:
+- 15
+- 18
+VAT_rate: 19
+mains_voltage: 220
+BTI_Status_Index:
+- 4.9
+- 5.4
+- 4.55
+- 5.01
+- 5.13
+- 5.15
+- 5.32
+- 5.36
+- 5.45
+BTI_Governance_Index:
+- 5.1
+- 5.25
+- 5.54
+- 5.63
+- 5.69
+- 5.87
+- 5.94
+- 6.11
+- 6.12
+Inequality-adjusted_Human_Development_Index: 0.292
+Democracy_Index: 3.29
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.ne,43158]]'
+Gini_coefficient: 37.3
+Happy_Planet_Index_score: 41.4
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Niger.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Niger.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%BE%E0%A6%B0.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Niger.ogg"
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LocationNiger.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20%28orthographic%20projection%29.svg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20banner%20Bagzane.jpg"
+official_website: "http://www.presidence.ne"
+country_calling_code: +227
+U_S_National_Archives_Identifier: 10035780
+Dewey_Decimal_Classification: 2--6626
+Unicode_character: "\U0001F1F3\U0001F1EA"
+ISO_3166-1_alpha-3_code: NER
+CIVICUS_Monitor_country_entry: niger
+GitHub_topic: niger
+Krugosvet_article: strany_mira/NIGER.html
+official_name:
+- "la République du Niger"
+- "Jamhuriyar Nijar"
+- Niger
+native_label: Nijar
+short_name: "\U0001F1F3\U0001F1EA"
+coordinates_of_westernmost_point: "Point(0.16896 14.52207)"
 area: 1267000
-total fertility rate: 7.599
-death rate:
-  - 7.824
-  - 7.834
-  - 8.141
-  - 8.281
-maritime identification digits: "656"
-ISO 3166-1 alpha-2 code: NE
-WIPO ST.3: NE
-mobile country code: "614"
-IAB code: "1444"
-ISO 3166-1 numeric code: "562"
-M49 code: "562"
-birth rate:
-  - 45.029
-  - 45.293
-  - 45.588
-  - 45.859
-life expectancy: 60.058
-licence plate code: RN
-INSEE countries and foreign territories code: "99337"
-FIPS 10-4 (countries and regions): NG
-ITU letter code: NGR
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg
-IOC country code: NIG
-male population:
-  - 12342370
-  - 11889761
-  - 12809135
-  - 13293383
-coordinate location: Point(10.0 17.0)
-number of out-of-school children: 3410345
-urban population:
-  - 3872145
-  - 4045711
-  - 4230083
-  - 4427576
-Commons category: Niger
+total_fertility_rate: 7.599
+death_rate:
+- 7.824
+- 7.834
+- 8.141
+- 8.281
+maritime_identification_digits: 656
+ISO_3166-1_alpha-2_code: NE
+WIPO_ST_3: NE
+mobile_country_code: 614
+IAB_code: 1444
+ISO_3166-1_numeric_code: 562
+M49_code: 562
+birth_rate:
+- 45.029
+- 45.293
+- 45.588
+- 45.859
+life_expectancy: 60.058
+licence_plate_code: RN
+INSEE_countries_and_foreign_territories_code: 99337
+FIPS_10-4_countries_and_regions_: NG
+ITU_letter_code: NGR
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg"
+IOC_country_code: NIG
+male_population:
+- 12342370
+- 11889761
+- 12809135
+- 13293383
+coordinate_location: "Point(10.0 17.0)"
+number_of_out-of-school_children: 3410345
+urban_population:
+- 3872145
+- 4045711
+- 4230083
+- 4427576
+Commons_category: Niger
 subreddit: Niger
-Commons gallery: Niger
+Commons_gallery: Niger
 hashtag: Niger
-inception: 1960-01-01T00:00:00Z 
-has_time_started: 1960-01-01T00:00:00Z 
-female population:
-  - 11553632
-  - 11991269
-  - 12443587
-  - 12914594
-PM20 geo code: C35
-rural population:
-  - 19571248
-  - 20287928
-  - 21022639
-  - 21780401
-coordinates of northernmost point: Point(11.98 23.52)
+inception: "1960-01-01T00:00:00Z"
+has_time_started: "1960-01-01T00:00:00Z"
+female_population:
+- 11553632
+- 11991269
+- 12443587
+- 12914594
+PM20_geo_code: C35
+rural_population:
+- 19571248
+- 20287928
+- 21022639
+- 21780401
+coordinates_of_northernmost_point: "Point(11.98 23.52)"
 population: 21477348
-geoshape: http://commons.wikimedia.org/data/main/Data:Niger.map
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Niger.svg
+geoshape: "http://commons.wikimedia.org/data/main/Data:Niger.map"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Niger.svg"
 has_id_wikidata: Q1032
 location:
 - 13.5333
@@ -317,13 +317,12 @@ location:
 type: Country
 tags:
 - geo/Country
-has_id_wikidata: Q1032 
 SpocWebEntityId: 26979
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Niger
@@ -339,10 +338,10 @@ aliases:
 - النيجر
 - 尼日尔
 - Нигер
-- the Republic of the Niger
-- Niger (the)
-- la República del Níger
-- Níger (el)
+- "the Republic of the Niger"
+- "Niger (the)"
+- "la República del Níger"
+- "Níger (el)"
 Languages:
 - fr-NE
 - ha

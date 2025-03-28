@@ -1,86 +1,84 @@
----
+﻿---
 has_id_wikidata: Q7355
-coordinate location: Point(116.097666666 36.124194444)
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Bassin-du-fleuve-jaune.png
-Commons gallery: 黃河
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20River%20-%20panoramio.jpg
+coordinate_location: "Point(116.097666666 36.124194444)"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bassin-du-fleuve-jaune.png"
+Commons_gallery: 黃河
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20River%20-%20panoramio.jpg"
 tributary:
-  - "[[_Standards/WikiData/WD~Dawen River,163339]]"
-  - "[[_Standards/WikiData/WD~Jishui,840262]]"
-  - "[[_Standards/WikiData/WD~Wei River,847641]]"
-  - "[[_Standards/WikiData/WD~Tao River,937148]]"
-  - "[[_Standards/WikiData/WD~Daxia River,1074179]]"
-  - "[[_Standards/WikiData/WD~Fen River,1154778]]"
-  - "[[_Standards/WikiData/WD~Huangshui River,1632803]]"
-  - "[[_Standards/WikiData/WD~Qin He,2121586]]"
-  - "[[_Standards/WikiData/WD~Black River (in Sichuan),10567309]]"
-  - "[[_Standards/WikiData/WD~Yiluo River,10885043]]"
-  - "[[_Standards/WikiData/WD~Datong River,10938192]]"
-  - "[[_Standards/WikiData/WD~Daheihe,10938718]]"
-  - "[[_Standards/WikiData/WD~Wuding River,15907862]]"
-  - "[[_Standards/WikiData/WD~Daqing River,16888816]]"
-  - "[[_Standards/WikiData/WD~Zuli He,16888861]]"
-  - "[[_Standards/WikiData/WD~Q20019976,20019976]]"
-  - "[[_Standards/WikiData/WD~Yan River,24668288]]"
-  - "[[_Standards/WikiData/WD~Jindi He,28960955]]"
-  - "[[_Standards/WikiData/WD~Dustin He,28960965]]"
-  - "[[_Standards/WikiData/WD~Duo Qu,29988578]]"
-  - "[[_Standards/WikiData/WD~Sushui He,29990245]]"
-  - "[[_Standards/WikiData/WD~Wujia River,29990458]]"
-  - "[[_Standards/WikiData/WD~Zhuanglang He,29990963]]"
-  - "[[_Standards/WikiData/WD~Qingshui River,96749095]]"
-  - "[[_Standards/WikiData/WD~Qushian River,105771598]]"
-  - "[[_Standards/WikiData/WD~Bai He,106171932]]"
-mouth of the watercourse: "[[_Standards/WikiData/WD~Bohai Sea,181969]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Baidu Baike,803722]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Fishes of the Yellow River,65116992]]"
-lake on watercourse:
-  - "[[_Standards/WikiData/WD~Hukou Waterfall,602973]]"
-  - "[[_Standards/WikiData/WD~Ngoring Lake,847864]]"
-  - "[[_Standards/WikiData/WD~Gyaring Lake,4128895]]"
-  - "[[_Standards/WikiData/WD~Cocha Lakes,11088466]]"
-origin of the watercourse:
-  - "[[_Standards/WikiData/WD~Bayan Har Mountains,619687]]"
-  - "[[_Standards/WikiData/WD~Kariqu,10909855]]"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Along%20the%20Yellow%20River%20WV%20Banner.jpg
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Yellow River,14374373]]"
-drainage basin: "[[_Standards/WikiData/WD~Yellow River Basin,93758243]]"
-instance of: "[[_Standards/WikiData/WD~river,4022]]"
-located in the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Sichuan,19770]]"
-  - "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
-  - "[[_Standards/WikiData/WD~Gansu,42392]]"
-  - "[[_Standards/WikiData/WD~Shandong,43407]]"
-  - "[[_Standards/WikiData/WD~Henan,43684]]"
-  - "[[_Standards/WikiData/WD~Qinghai,45833]]"
-  - "[[_Standards/WikiData/WD~Shanxi,46913]]"
-  - "[[_Standards/WikiData/WD~Shaanxi,47974]]"
-  - "[[_Standards/WikiData/WD~Ningxia,57448]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- "[[_Standards/WikiData/WD~Dawen River,163339]]"
+- '[[_Standards/WikiData/WD~Jishui,840262]]'
+- "[[_Standards/WikiData/WD~Wei River,847641]]"
+- "[[_Standards/WikiData/WD~Tao River,937148]]"
+- "[[_Standards/WikiData/WD~Daxia River,1074179]]"
+- "[[_Standards/WikiData/WD~Fen River,1154778]]"
+- "[[_Standards/WikiData/WD~Huangshui River,1632803]]"
+- "[[_Standards/WikiData/WD~Qin He,2121586]]"
+- "[[_Standards/WikiData/WD~Black River (in Sichuan),10567309]]"
+- "[[_Standards/WikiData/WD~Yiluo River,10885043]]"
+- "[[_Standards/WikiData/WD~Datong River,10938192]]"
+- '[[_Standards/WikiData/WD~Daheihe,10938718]]'
+- "[[_Standards/WikiData/WD~Wuding River,15907862]]"
+- "[[_Standards/WikiData/WD~Daqing River,16888816]]"
+- "[[_Standards/WikiData/WD~Zuli He,16888861]]"
+- '[[_Standards/WikiData/WD~Q20019976,20019976]]'
+- "[[_Standards/WikiData/WD~Yan River,24668288]]"
+- "[[_Standards/WikiData/WD~Jindi He,28960955]]"
+- "[[_Standards/WikiData/WD~Dustin He,28960965]]"
+- "[[_Standards/WikiData/WD~Duo Qu,29988578]]"
+- "[[_Standards/WikiData/WD~Sushui He,29990245]]"
+- "[[_Standards/WikiData/WD~Wujia River,29990458]]"
+- "[[_Standards/WikiData/WD~Zhuanglang He,29990963]]"
+- "[[_Standards/WikiData/WD~Qingshui River,96749095]]"
+- "[[_Standards/WikiData/WD~Qushian River,105771598]]"
+- "[[_Standards/WikiData/WD~Bai He,106171932]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Bohai Sea,181969]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Baidu Baike,803722]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Fishes of the Yellow River,65116992]]"
+lake_on_watercourse:
+- "[[_Standards/WikiData/WD~Hukou Waterfall,602973]]"
+- "[[_Standards/WikiData/WD~Ngoring Lake,847864]]"
+- "[[_Standards/WikiData/WD~Gyaring Lake,4128895]]"
+- "[[_Standards/WikiData/WD~Cocha Lakes,11088466]]"
+origin_of_the_watercourse:
+- "[[_Standards/WikiData/WD~Bayan Har Mountains,619687]]"
+- '[[_Standards/WikiData/WD~Kariqu,10909855]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Along%20the%20Yellow%20River%20WV%20Banner.jpg"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Yellow River,14374373]]"
+drainage_basin: "[[_Standards/WikiData/WD~Yellow River Basin,93758243]]"
+instance_of: '[[_Standards/WikiData/WD~river,4022]]'
+located_in_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Sichuan,19770]]'
+- "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
+- '[[_Standards/WikiData/WD~Gansu,42392]]'
+- '[[_Standards/WikiData/WD~Shandong,43407]]'
+- '[[_Standards/WikiData/WD~Henan,43684]]'
+- '[[_Standards/WikiData/WD~Qinghai,45833]]'
+- '[[_Standards/WikiData/WD~Shanxi,46913]]'
+- '[[_Standards/WikiData/WD~Shaanxi,47974]]'
+- '[[_Standards/WikiData/WD~Ningxia,57448]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 country: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-basin country:
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-watershed area: 752000
+basin_country:
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+watershed_area: 752000
 discharge: 2571
 length: 5464
-Commons category: Yellow River
-OmegaWiki Defined Meaning: "828867"
-route map: http://commons.wikimedia.org/wiki/Special:FilePath/Yellowrivermap.jpg
+Commons_category: "Yellow River"
+OmegaWiki_Defined_Meaning: 828867
+route_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Yellowrivermap.jpg"
 aliases:
-  - Yellow River
+- "Yellow River"
 ---
-
-
 
 ## #has_/text_of_/abstract 
 

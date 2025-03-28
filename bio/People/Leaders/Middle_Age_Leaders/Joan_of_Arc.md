@@ -1,81 +1,81 @@
----
+﻿---
 aliases:
-  - Joan of Arc
-  - Jeanne d'Arc
-  - Johanna von Orleans
+- "Joan of Arc"
+- "Jeanne d'Arc"
+- "Johanna von Orleans"
 has_id_wikidata: Q7226
-coat of arms image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Armoiries%20attribu%C3%A9es%20%C3%A0%20la%20famille%20d%27Arc.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20Jeanne%20d%27Arc.svg
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Jeanne%20d%27Arc%20signature%2016%20mars%201430.svg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Exilexi-Jeanne%20d%27Arc.wav
+coat_of_arms_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Armoiries%20attribu%C3%A9es%20%C3%A0%20la%20famille%20d%27Arc.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20Jeanne%20d%27Arc.svg"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Jeanne%20d%27Arc%20signature%2016%20mars%201430.svg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Exilexi-Jeanne%20d%27Arc.wav"
 Libris-URI: 20dghnfl41b8dck
-BHCL UUID: 7ba4c1b2-c521-48fe-b224-a35bb5217362
-Wolfram Language entity code: Entity["Concept", "JeanneDArc::98yg9"]
+BHCL_UUID: 7ba4c1b2-c521-48fe-b224-a35bb5217362
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"JeanneDArc::98yg9\"]"
 allegiance: "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
-country of citizenship: "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
-exonerated of: "[[_Standards/WikiData/WD~heresy,160598]]"
-convicted of: "[[_Standards/WikiData/WD~heresy,160598]]"
-place of birth: "[[_Standards/WikiData/WD~Domrémy-la-Pucelle,209069]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire du patrimoine rennais,29551022]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~A Biographical Dictionary of the Celebrated Women of Every Age and Country,103843006]]"
-  - "[[_Standards/WikiData/WD~Dictionary of Women Worldwide,105802405]]"
-  - "[[_Standards/WikiData/WD~Pavlenkov Encyclopedic Dictionary,106323898]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~A Cyclopaedia of Female Biography,114693785]]"
-significant event: "[[_Standards/WikiData/WD~interrogation,327018]]"
-cause of death: "[[_Standards/WikiData/WD~death by burning,468455]]"
-killed by: "[[_Standards/WikiData/WD~Geoffroy Thérage,3101155]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
+exonerated_of: '[[_Standards/WikiData/WD~heresy,160598]]'
+convicted_of: '[[_Standards/WikiData/WD~heresy,160598]]'
+place_of_birth: '[[_Standards/WikiData/WD~Domrémy-la-Pucelle,209069]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
+- "[[_Standards/WikiData/WD~Dictionnaire du patrimoine rennais,29551022]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~A Biographical Dictionary of the Celebrated Women of Every Age and Country,103843006]]"
+- "[[_Standards/WikiData/WD~Dictionary of Women Worldwide,105802405]]"
+- "[[_Standards/WikiData/WD~Pavlenkov Encyclopedic Dictionary,106323898]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~A Cyclopaedia of Female Biography,114693785]]"
+significant_event: '[[_Standards/WikiData/WD~interrogation,327018]]'
+cause_of_death: "[[_Standards/WikiData/WD~death by burning,468455]]"
+killed_by: "[[_Standards/WikiData/WD~Geoffroy Thérage,3101155]]"
 mother: "[[_Standards/WikiData/WD~Isabelle Romée,3154911]]"
 sibling:
-  - "[[_Standards/WikiData/WD~Jacques of Arc,3160218]]"
-  - "[[_Standards/WikiData/WD~Jean d'Arc,3175163]]"
-  - "[[_Standards/WikiData/WD~Pierre d'Arc,3387421]]"
-  - "[[_Standards/WikiData/WD~Catherine d'Arc,16930440]]"
+- "[[_Standards/WikiData/WD~Jacques of Arc,3160218]]"
+- "[[_Standards/WikiData/WD~Jean d'Arc,3175163]]"
+- "[[_Standards/WikiData/WD~Pierre d'Arc,3387421]]"
+- "[[_Standards/WikiData/WD~Catherine d'Arc,16930440]]"
 father: "[[_Standards/WikiData/WD~Jacques d'Arc,3160219]]"
-canonization status: "[[_Standards/WikiData/WD~Catholic saint,3464126]]"
-sex or gender: "[[_Standards/WikiData/WD~female,6581072]]"
-award received:
-  - "[[_Standards/WikiData/WD~Godfather promotion of Special Military School of Saint-Cyr,21112714]]"
-different from: "[[_Standards/WikiData/WD~Q28489545,28489545]]"
-documentation files at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-given name: "[[_Standards/WikiData/WD~Jehanne,58483000]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~wikiProject CDD,117309117]]"
+canonization_status: "[[_Standards/WikiData/WD~Catholic saint,3464126]]"
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+award_received:
+- "[[_Standards/WikiData/WD~Godfather promotion of Special Military School of Saint-Cyr,21112714]]"
+different_from: '[[_Standards/WikiData/WD~Q28489545,28489545]]'
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
+given_name: '[[_Standards/WikiData/WD~Jehanne,58483000]]'
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~wikiProject CDD,117309117]]"
 ISNI:
-  - "0000000121446253"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20of%20Arc%20miniature%20graded.jpg
-birth name: http://www.wikidata.org/.well-known/genid/57e43202ec1633f68fd6168ac5cbc3d4
-date of death: 1431-06-08T00:00:00Z
-feast day:
-  - "[[_Standards/WikiData/WD~May 30,2590]]"
+- 0000000121446253
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20of%20Arc%20miniature%20graded.jpg"
+birth_name: "http://www.wikidata.org/.well-known/genid/57e43202ec1633f68fd6168ac5cbc3d4"
+date_of_death: "1431-06-08T00:00:00Z"
+feast_day:
+- "[[_Standards/WikiData/WD~May 30,2590]]"
 penalty: "[[_Standards/WikiData/WD~capital punishment,8454]]"
-manner of death: "[[_Standards/WikiData/WD~capital punishment,8454]]"
-religion or worldview:
-  - "[[_Standards/WikiData/WD~Catholic Church,9592]]"
-place of death: "[[_Standards/WikiData/WD~Rouen,30974]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-medical condition:
-  - "[[_Standards/WikiData/WD~epilepsy,41571]]"
+manner_of_death: "[[_Standards/WikiData/WD~capital punishment,8454]]"
+religion_or_worldview:
+- "[[_Standards/WikiData/WD~Catholic Church,9592]]"
+place_of_death: '[[_Standards/WikiData/WD~Rouen,30974]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+medical_condition:
+- '[[_Standards/WikiData/WD~epilepsy,41571]]'
 occupation:
-  - "[[_Standards/WikiData/WD~military personnel,47064]]"
-Krugosvet article: istoriya/zhanna-dark
-Commons gallery: Jeanne d'Arc
-Commons category: Jeanne d'Arc
-date of birth: 1412-01-15T00:00:00Z
+- "[[_Standards/WikiData/WD~military personnel,47064]]"
+Krugosvet_article: istoriya/zhanna-dark
+Commons_gallery: "Jeanne d'Arc"
+Commons_category: "Jeanne d'Arc"
+date_of_birth: "1412-01-15T00:00:00Z"
 ---
 
 #has_/time_/started :: 1412-01-15 

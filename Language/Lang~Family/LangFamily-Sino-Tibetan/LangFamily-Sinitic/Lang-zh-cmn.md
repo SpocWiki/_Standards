@@ -1,76 +1,77 @@
----
+﻿---
 type: Lang
 aliases:
-  - Chinese
-  - Mandarin
-  - Mandarin Chinese
+- Chinese
+- Mandarin
+- "Mandarin Chinese"
 tags:
-  - Lang/zh
+- Lang/zh
 has_id_wikidata: Q9192
-linguistic typology:
-  - "[[_Standards/WikiData/WD~subject–verb–object,651641]]"
-  - "[[_Standards/WikiData/WD~isolating language,7423311]]"
+linguistic_typology:
+- '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
+- "[[_Standards/WikiData/WD~isolating language,7423311]]"
 replaces: "[[_Standards/WikiData/WD~Middle Chinese,2016252]]"
-different from:
-  - "[[_Standards/WikiData/WD~Mandarin,10948482]]"
-  - "[[_Standards/WikiData/WD~Putonghua,24841726]]"
-topic's main template: "[[_Standards/WikiData/WD~Q20690025,20690025]]"
-Ethnologue language status: "[[_Standards/WikiData/WD~1 National,29051546]]"
-Stack Exchange tag: https://linguistics.stackexchange.com/tags/mandarin
-short name: паўночнакітайская
+different_from:
+- '[[_Standards/WikiData/WD~Mandarin,10948482]]'
+- '[[_Standards/WikiData/WD~Putonghua,24841726]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q20690025,20690025]]'
+Ethnologue_language_status: "[[_Standards/WikiData/WD~1 National,29051546]]"
+Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/mandarin"
+short_name: паўночнакітайская
 country:
-  - "[[_Standards/WikiData/WD~Singapore,334]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Brunei,921]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-indigenous to:
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Hong Kong,8646]]"
-  - "[[_Standards/WikiData/WD~Chongqing,11725]]"
-  - "[[_Standards/WikiData/WD~Tianjin,11736]]"
-  - "[[_Standards/WikiData/WD~Macau,14773]]"
-  - "[[_Standards/WikiData/WD~Guangxi,15176]]"
-  - "[[_Standards/WikiData/WD~Jiangsu,16963]]"
-  - "[[_Standards/WikiData/WD~Heilongjiang,19206]]"
-  - "[[_Standards/WikiData/WD~Sichuan,19770]]"
-  - "[[_Standards/WikiData/WD~Hebei,21208]]"
-  - "[[_Standards/WikiData/WD~Xinjiang,34800]]"
-  - "[[_Standards/WikiData/WD~Anhui,40956]]"
-  - "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
-  - "[[_Standards/WikiData/WD~Gansu,42392]]"
-  - "[[_Standards/WikiData/WD~Yunnan,43194]]"
-  - "[[_Standards/WikiData/WD~Shandong,43407]]"
-  - "[[_Standards/WikiData/WD~Henan,43684]]"
-  - "[[_Standards/WikiData/WD~Liaoning,43934]]"
-  - "[[_Standards/WikiData/WD~Jilin,45208]]"
-  - "[[_Standards/WikiData/WD~Hunan,45761]]"
-  - "[[_Standards/WikiData/WD~Qinghai,45833]]"
-  - "[[_Standards/WikiData/WD~Hubei,46862]]"
-  - "[[_Standards/WikiData/WD~Shanxi,46913]]"
-  - "[[_Standards/WikiData/WD~Guizhou,47097]]"
-  - "[[_Standards/WikiData/WD~Shaanxi,47974]]"
-  - "[[_Standards/WikiData/WD~Jiangxi,57052]]"
-  - "[[_Standards/WikiData/WD~Ningxia,57448]]"
-subclass of: "[[_Standards/WikiData/WD~Chinese,7850]]"
-writing system: "[[_Standards/WikiData/WD~Chinese characters,8201]]"
-instance of: "[[_Standards/WikiData/WD~language,34770]]"
-"number of speakers, writers, or signers": 918000000
-ABS ASCL 2011 code: "7104"
-Ethnologue.com language code: cmn
-IETF language tag: cmn
-ISO 639-3 code: cmn
-distribution map: http://commons.wikimedia.org/wiki/Special:FilePath/Chinois%20Mandarin.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Guanhua%20swapped.svg
-Linguasphere code: 79-AAA-b
-Glottolog code: mand1415
-GitHub topic: mandarin
-Commons category: Mandarin Chinese language
-WALS lect code: mnd
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Chinese%20phrasebook%20Street%20in%20Fuzhou.jpg
+- '[[_Standards/WikiData/WD~Singapore,334]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Brunei,921]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+indigenous_to:
+- '[[_Standards/WikiData/WD~Beijing,956]]'
+- "[[_Standards/WikiData/WD~Hong Kong,8646]]"
+- '[[_Standards/WikiData/WD~Chongqing,11725]]'
+- '[[_Standards/WikiData/WD~Tianjin,11736]]'
+- '[[_Standards/WikiData/WD~Macau,14773]]'
+- '[[_Standards/WikiData/WD~Guangxi,15176]]'
+- '[[_Standards/WikiData/WD~Jiangsu,16963]]'
+- '[[_Standards/WikiData/WD~Heilongjiang,19206]]'
+- '[[_Standards/WikiData/WD~Sichuan,19770]]'
+- '[[_Standards/WikiData/WD~Hebei,21208]]'
+- '[[_Standards/WikiData/WD~Xinjiang,34800]]'
+- '[[_Standards/WikiData/WD~Anhui,40956]]'
+- "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
+- '[[_Standards/WikiData/WD~Gansu,42392]]'
+- '[[_Standards/WikiData/WD~Yunnan,43194]]'
+- '[[_Standards/WikiData/WD~Shandong,43407]]'
+- '[[_Standards/WikiData/WD~Henan,43684]]'
+- '[[_Standards/WikiData/WD~Liaoning,43934]]'
+- '[[_Standards/WikiData/WD~Jilin,45208]]'
+- '[[_Standards/WikiData/WD~Hunan,45761]]'
+- '[[_Standards/WikiData/WD~Qinghai,45833]]'
+- '[[_Standards/WikiData/WD~Hubei,46862]]'
+- '[[_Standards/WikiData/WD~Shanxi,46913]]'
+- '[[_Standards/WikiData/WD~Guizhou,47097]]'
+- '[[_Standards/WikiData/WD~Shaanxi,47974]]'
+- '[[_Standards/WikiData/WD~Jiangxi,57052]]'
+- '[[_Standards/WikiData/WD~Ningxia,57448]]'
+subclass_of: '[[_Standards/WikiData/WD~Chinese,7850]]'
+writing_system: "[[_Standards/WikiData/WD~Chinese characters,8201]]"
+instance_of: '[[_Standards/WikiData/WD~language,34770]]'
+number_of_speakers_writers_or_signers: 918000000
+ABS_ASCL_2011_code: 7104
+Ethnologue_com_language_code: cmn
+IETF_language_tag: cmn
+ISO_639-3_code: cmn
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Chinois%20Mandarin.png"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Guanhua%20swapped.svg"
+Linguasphere_code: 79-AAA-b
+Glottolog_code: mand1415
+GitHub_topic: mandarin
+Commons_category: "Mandarin Chinese language"
+WALS_lect_code: mnd
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Chinese%20phrasebook%20Street%20in%20Fuzhou.jpg"
 ---
+
 ﻿
  
 # [[Lang-zh-cmn]] 

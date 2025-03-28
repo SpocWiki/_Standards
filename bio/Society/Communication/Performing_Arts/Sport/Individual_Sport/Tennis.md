@@ -1,70 +1,69 @@
----
+﻿---
 has_id_wikidata: Q847
-exact match: http://imagenet.stanford.edu/synset?wnid=n00482298
-Unicode character: 🎾
-U.S. National Archives Identifier: "10645054"
-Iconclass notation: 43C4151
-IPTC NewsCode: mediatopic/20001085
-Colon Classification: MY2131
-Krugosvet article: sport/TENNIS.html
-Archive of Our Own tag: Tennis RPF
-Baidu Tieba name: 网球
+exact_match: "http://imagenet.stanford.edu/synset?wnid=n00482298"
+Unicode_character: "\U0001F3BE"
+U_S_National_Archives_Identifier: 10645054
+Iconclass_notation: 43C4151
+IPTC_NewsCode: mediatopic/20001085
+Colon_Classification: MY2131
+Krugosvet_article: sport/TENNIS.html
+Archive_of_Our_Own_tag: "Tennis RPF"
+Baidu_Tieba_name: 网球
 hashtag:
-  - テニス
-  - tennis
+- テニス
+- tennis
 uses:
-  - "[[_Standards/WikiData/WD~tennis racquet,153362]]"
-  - "[[_Standards/WikiData/WD~tennis ball,246514]]"
-  - "[[_Standards/WikiData/WD~tennis court,741118]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~Olympic sport,212434]]"
-  - "[[_Standards/WikiData/WD~ball game,877517]]"
-  - "[[_Standards/WikiData/WD~racket sport,2426135]]"
+- "[[_Standards/WikiData/WD~tennis racquet,153362]]"
+- "[[_Standards/WikiData/WD~tennis ball,246514]]"
+- "[[_Standards/WikiData/WD~tennis court,741118]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~Olympic sport,212434]]"
+- "[[_Standards/WikiData/WD~ball game,877517]]"
+- "[[_Standards/WikiData/WD~racket sport,2426135]]"
 authority: "[[_Standards/WikiData/WD~International Tennis Federation,223041]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-history of topic: "[[_Standards/WikiData/WD~history of tennis,2295996]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Tennis,5530169]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of tennis,7112743]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Tennis-stub,8087332]]"
-  - "[[_Standards/WikiData/WD~Template_Tennis box,10943918]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Tennis,8288752]]"
-practiced by:
-  - "[[_Standards/WikiData/WD~tennis player,10833314]]"
-  - "[[_Standards/WikiData/WD~tennis coach,13219424]]"
-  - "[[_Standards/WikiData/WD~professional tennis player,48673045]]"
-  - "[[_Standards/WikiData/WD~registered player,48676230]]"
-  - "[[_Standards/WikiData/WD~amateur tennis player,48995125]]"
-different from: "[[_Standards/WikiData/WD~Tenis,12565374]]"
-inception: 1882-08-01T00:00:00Z 
-has_time_started: 1882-08-01T00:00:00Z 
-BHCL UUID: 36c06bc2-cb5f-45ff-8d90-a7874ec96418
-UMLS CUI: C0039515
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Federer%202.jpg
-MeSH tree code: I03.450.642.845.600.900
-instance of:
-  - "[[_Standards/WikiData/WD~type of sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-country of origin: "[[_Standards/WikiData/WD~England,21]]"
-minimum number of players: 2
-maximum number of players: 4
-OmegaWiki Defined Meaning: "6407"
-IAB code: "539"
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Tennis%20pictogram.svg
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of tennis,2295996]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Tennis,5530169]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of tennis,7112743]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Tennis-stub,8087332]]'
+- "[[_Standards/WikiData/WD~Template_Tennis box,10943918]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tennis,8288752]]'
+practiced_by:
+- "[[_Standards/WikiData/WD~tennis player,10833314]]"
+- "[[_Standards/WikiData/WD~tennis coach,13219424]]"
+- "[[_Standards/WikiData/WD~professional tennis player,48673045]]"
+- "[[_Standards/WikiData/WD~registered player,48676230]]"
+- "[[_Standards/WikiData/WD~amateur tennis player,48995125]]"
+different_from: '[[_Standards/WikiData/WD~Tenis,12565374]]'
+inception: "1882-08-01T00:00:00Z"
+has_time_started: "1882-08-01T00:00:00Z"
+BHCL_UUID: 36c06bc2-cb5f-45ff-8d90-a7874ec96418
+UMLS_CUI: C0039515
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Federer%202.jpg"
+MeSH_tree_code: I03.450.642.845.600.900
+instance_of:
+- "[[_Standards/WikiData/WD~type of sport,31629]]"
+- '[[_Standards/WikiData/WD~hobby,47728]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
+minimum_number_of_players: 2
+maximum_number_of_players: 4
+OmegaWiki_Defined_Meaning: 6407
+IAB_code: 539
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Tennis%20pictogram.svg"
 subreddit: tennis
-Commons gallery: Tennis
-Commons category: Tennis
-OpenStreetMap tag or key: Tag:sport=tennis
+Commons_gallery: Tennis
+Commons_category: Tennis
+OpenStreetMap_tag_or_key: "Tag:sport=tennis"
 ---
-
 
 ## #has_/text_of_/abstract 
 

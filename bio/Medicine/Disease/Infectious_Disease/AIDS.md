@@ -1,120 +1,119 @@
----
+﻿---
 has_id_wikidata: Q12199
-drug or therapy used for treatment:
-  - "[[_Standards/WikiData/WD~tenofovir,155954]]"
-  - "[[_Standards/WikiData/WD~zidovudine,198504]]"
-  - "[[_Standards/WikiData/WD~nevirapine,263713]]"
-  - "[[_Standards/WikiData/WD~abacavir,304330]]"
-  - "[[_Standards/WikiData/WD~delavirdine,370244]]"
-  - "[[_Standards/WikiData/WD~maraviroc,421369]]"
-  - "[[_Standards/WikiData/WD~raltegravir,421552]]"
-  - "[[_Standards/WikiData/WD~amprenavir,422198]]"
-  - "[[_Standards/WikiData/WD~lopinavir,422585]]"
-  - "[[_Standards/WikiData/WD~didanosine,422606]]"
-  - "[[_Standards/WikiData/WD~ritonavir,422618]]"
-  - "[[_Standards/WikiData/WD~lamivudine,422631]]"
-  - "[[_Standards/WikiData/WD~efavirenz,422645]]"
-  - "[[_Standards/WikiData/WD~saquinavir,422654]]"
-  - "[[_Standards/WikiData/WD~enfuvirtide,423327]]"
-  - "[[_Standards/WikiData/WD~nelfinavir,423366]]"
-  - "[[_Standards/WikiData/WD~stavudine,423984]]"
-  - "[[_Standards/WikiData/WD~indinavir,425490]]"
-  - "[[_Standards/WikiData/WD~fosamprenavir,1385311]]"
-  - "[[_Standards/WikiData/WD~zalcitabine,2344582]]"
-  - "[[_Standards/WikiData/WD~darunavir,3765251]]"
-  - "[[_Standards/WikiData/WD~lamivudine_zidovudine,6482030]]"
-  - "[[_Standards/WikiData/WD~tenofovir disoproxil,27132753]]"
-instance of:
-  - "[[_Standards/WikiData/WD~syndrome,179630]]"
-  - "[[_Standards/WikiData/WD~endemic disease,506680]]"
-  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
-  - "[[_Standards/WikiData/WD~pandemic,12184]]"
-anatomical location: "[[_Standards/WikiData/WD~T-lymphocytes,193529]]"
-symptoms and signs:
-  - "[[_Standards/WikiData/WD~lymphoma,208414]]"
-  - "[[_Standards/WikiData/WD~night sweats,474718]]"
-  - "[[_Standards/WikiData/WD~myalgia,474959]]"
-  - "[[_Standards/WikiData/WD~rash,653197]]"
-  - "[[_Standards/WikiData/WD~weight loss,718113]]"
-  - "[[_Standards/WikiData/WD~Kaposi's sarcoma,725345]]"
-  - "[[_Standards/WikiData/WD~opportunistic infection,835718]]"
-  - "[[_Standards/WikiData/WD~lymphadenopathy,847726]]"
-  - "[[_Standards/WikiData/WD~peripheral neuropathy,945238]]"
-  - "[[_Standards/WikiData/WD~sore throat,1292082]]"
-  - "[[_Standards/WikiData/WD~chills,2260058]]"
-  - "[[_Standards/WikiData/WD~mouth ulcer,3245680]]"
-  - "[[_Standards/WikiData/WD~lethargy,15637420]]"
-  - "[[_Standards/WikiData/WD~enlargement of lymph nodes,102187500]]"
-  - "[[_Standards/WikiData/WD~fatigue,9690]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-  - "[[_Standards/WikiData/WD~diarrhea,40878]]"
-medical examination:
-  - "[[_Standards/WikiData/WD~ELISEA,332126]]"
-  - "[[_Standards/WikiData/WD~blotting,885458]]"
-  - "[[_Standards/WikiData/WD~blood test,886837]]"
-  - "[[_Standards/WikiData/WD~rapid antigen test,27961635]]"
-"handled, mitigated, or managed by": "[[_Standards/WikiData/WD~antiretroviral therapy for HIV_AIDS,583050]]"
-possible treatment:
-  - "[[_Standards/WikiData/WD~antiretroviral therapy for HIV_AIDS,583050]]"
-  - "[[_Standards/WikiData/WD~post-exposure prophylaxis,1361206]]"
-  - "[[_Standards/WikiData/WD~pre-exposure prophylaxis against HIV,7239230]]"
-health specialty: "[[_Standards/WikiData/WD~infectious diseases,788926]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]"
-has effect: "[[_Standards/WikiData/WD~death from AIDS-related complications,4651894]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~acquired immunodeficiency,12131931]]"
-  - "[[_Standards/WikiData/WD~human immunodeficiency virus infectious disease,18556697]]"
-  - "[[_Standards/WikiData/WD~pandemic and epidemic-prone diseases,131345497]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-  - "[[_Standards/WikiData/WD~sexually transmitted infection,12198]]"
-genetic association:
-  - "[[_Standards/WikiData/WD~RXRG,18031338]]"
-  - "[[_Standards/WikiData/WD~DGKI,18033881]]"
-  - "[[_Standards/WikiData/WD~TGFBRAP1,18034058]]"
-  - "[[_Standards/WikiData/WD~PARD3B,18049302]]"
-different from: "[[_Standards/WikiData/WD~simian acquired immunodeficiency syndrome,19000697]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~HIV _ AIDS,25691272]]"
-"relates to sustainable development goal, target or indicator": "[[_Standards/WikiData/WD~Target 3.3 of the Sustainable Development Goals,57590755]]"
-UMLS CUI: C0001175
-facet of: "[[_Standards/WikiData/WD~human health,113989432]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Aids-article.ogg
-logo image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Ribbon.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Roja%20AIDS%C3%AA%20ku.png
-exact match:
-  - http://identifiers.org/doid/DOID:635
-  - http://purl.obolibrary.org/obo/DOID_635
-MeSH tree code:
-  - C01.778.640.400.040
-  - C01.925.782.815.616.400.040
-  - C01.925.813.400.040
-  - C01.925.839.040
-  - C20.673.480.040
-  - C01.221.250.875.040
-  - C01.221.812.640.400.040
-  - C12.100.937.640.400.040
-IPTC NewsCode: mediatopic/20000452
-Krugosvet article: medicina/SINDROM_PRIOBRETENNOGO_IMMUNODEFITSITA_SPID.html
-disease burden: 91907445
-location of discovery:
-  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-  - "[[_Standards/WikiData/WD~Kinshasa,3838]]"
-has cause: "[[_Standards/WikiData/WD~HIV,15787]]"
-number of cases: 39000000
-number of deaths: 40400000
-OmegaWiki Defined Meaning: "105"
-DiseasesDB: "5938"
+drug_or_therapy_used_for_treatment:
+- '[[_Standards/WikiData/WD~tenofovir,155954]]'
+- '[[_Standards/WikiData/WD~zidovudine,198504]]'
+- '[[_Standards/WikiData/WD~nevirapine,263713]]'
+- '[[_Standards/WikiData/WD~abacavir,304330]]'
+- '[[_Standards/WikiData/WD~delavirdine,370244]]'
+- '[[_Standards/WikiData/WD~maraviroc,421369]]'
+- '[[_Standards/WikiData/WD~raltegravir,421552]]'
+- '[[_Standards/WikiData/WD~amprenavir,422198]]'
+- '[[_Standards/WikiData/WD~lopinavir,422585]]'
+- '[[_Standards/WikiData/WD~didanosine,422606]]'
+- '[[_Standards/WikiData/WD~ritonavir,422618]]'
+- '[[_Standards/WikiData/WD~lamivudine,422631]]'
+- '[[_Standards/WikiData/WD~efavirenz,422645]]'
+- '[[_Standards/WikiData/WD~saquinavir,422654]]'
+- '[[_Standards/WikiData/WD~enfuvirtide,423327]]'
+- '[[_Standards/WikiData/WD~nelfinavir,423366]]'
+- '[[_Standards/WikiData/WD~stavudine,423984]]'
+- '[[_Standards/WikiData/WD~indinavir,425490]]'
+- '[[_Standards/WikiData/WD~fosamprenavir,1385311]]'
+- '[[_Standards/WikiData/WD~zalcitabine,2344582]]'
+- '[[_Standards/WikiData/WD~darunavir,3765251]]'
+- '[[_Standards/WikiData/WD~lamivudine_zidovudine,6482030]]'
+- "[[_Standards/WikiData/WD~tenofovir disoproxil,27132753]]"
+instance_of:
+- '[[_Standards/WikiData/WD~syndrome,179630]]'
+- "[[_Standards/WikiData/WD~endemic disease,506680]]"
+- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+- "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
+- '[[_Standards/WikiData/WD~pandemic,12184]]'
+anatomical_location: '[[_Standards/WikiData/WD~T-lymphocytes,193529]]'
+symptoms_and_signs:
+- '[[_Standards/WikiData/WD~lymphoma,208414]]'
+- "[[_Standards/WikiData/WD~night sweats,474718]]"
+- '[[_Standards/WikiData/WD~myalgia,474959]]'
+- '[[_Standards/WikiData/WD~rash,653197]]'
+- "[[_Standards/WikiData/WD~weight loss,718113]]"
+- "[[_Standards/WikiData/WD~Kaposi's sarcoma,725345]]"
+- "[[_Standards/WikiData/WD~opportunistic infection,835718]]"
+- '[[_Standards/WikiData/WD~lymphadenopathy,847726]]'
+- "[[_Standards/WikiData/WD~peripheral neuropathy,945238]]"
+- "[[_Standards/WikiData/WD~sore throat,1292082]]"
+- '[[_Standards/WikiData/WD~chills,2260058]]'
+- "[[_Standards/WikiData/WD~mouth ulcer,3245680]]"
+- '[[_Standards/WikiData/WD~lethargy,15637420]]'
+- "[[_Standards/WikiData/WD~enlargement of lymph nodes,102187500]]"
+- '[[_Standards/WikiData/WD~fatigue,9690]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~diarrhea,40878]]'
+medical_examination:
+- '[[_Standards/WikiData/WD~ELISEA,332126]]'
+- '[[_Standards/WikiData/WD~blotting,885458]]'
+- "[[_Standards/WikiData/WD~blood test,886837]]"
+- "[[_Standards/WikiData/WD~rapid antigen test,27961635]]"
+handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~antiretroviral therapy for HIV_AIDS,583050]]"
+possible_treatment:
+- "[[_Standards/WikiData/WD~antiretroviral therapy for HIV_AIDS,583050]]"
+- "[[_Standards/WikiData/WD~post-exposure prophylaxis,1361206]]"
+- "[[_Standards/WikiData/WD~pre-exposure prophylaxis against HIV,7239230]]"
+health_specialty: "[[_Standards/WikiData/WD~infectious diseases,788926]]"
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+- '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
+has_effect: "[[_Standards/WikiData/WD~death from AIDS-related complications,4651894]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~acquired immunodeficiency,12131931]]"
+- "[[_Standards/WikiData/WD~human immunodeficiency virus infectious disease,18556697]]"
+- "[[_Standards/WikiData/WD~pandemic and epidemic-prone diseases,131345497]]"
+- '[[_Standards/WikiData/WD~disease,12136]]'
+- "[[_Standards/WikiData/WD~sexually transmitted infection,12198]]"
+genetic_association:
+- '[[_Standards/WikiData/WD~RXRG,18031338]]'
+- '[[_Standards/WikiData/WD~DGKI,18033881]]'
+- '[[_Standards/WikiData/WD~TGFBRAP1,18034058]]'
+- '[[_Standards/WikiData/WD~PARD3B,18049302]]'
+different_from: "[[_Standards/WikiData/WD~simian acquired immunodeficiency syndrome,19000697]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~HIV _ AIDS,25691272]]"
+relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target 3.3 of the Sustainable Development Goals,57590755]]"
+UMLS_CUI: C0001175
+facet_of: "[[_Standards/WikiData/WD~human health,113989432]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Aids-article.ogg"
+logo_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Ribbon.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Roja%20AIDS%C3%AA%20ku.png"
+exact_match:
+- "http://identifiers.org/doid/DOID:635"
+- "http://purl.obolibrary.org/obo/DOID_635"
+MeSH_tree_code:
+- C01.778.640.400.040
+- C01.925.782.815.616.400.040
+- C01.925.813.400.040
+- C01.925.839.040
+- C20.673.480.040
+- C01.221.250.875.040
+- C01.221.812.640.400.040
+- C12.100.937.640.400.040
+IPTC_NewsCode: mediatopic/20000452
+Krugosvet_article: medicina/SINDROM_PRIOBRETENNOGO_IMMUNODEFITSITA_SPID.html
+disease_burden: 91907445
+location_of_discovery:
+- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- '[[_Standards/WikiData/WD~Kinshasa,3838]]'
+has_cause: '[[_Standards/WikiData/WD~HIV,15787]]'
+number_of_cases: 39000000
+number_of_deaths: 40400000
+OmegaWiki_Defined_Meaning: 105
+DiseasesDB: 5938
 ICD-10-CM: B20
-start time: 1959-01-01T00:00:00Z
-time of discovery or invention: 1959-01-01T00:00:00Z
-Commons gallery: AIDS
-Commons category: AIDS
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20Immunodeficency%20Virus%20-%20stylized%20rendering.jpg
+start_time: "1959-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1959-01-01T00:00:00Z"
+Commons_gallery: AIDS
+Commons_category: AIDS
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Human%20Immunodeficency%20Virus%20-%20stylized%20rendering.jpg"
 ---
-
 
 ## #has_/text_of_/abstract 
 

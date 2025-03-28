@@ -1,212 +1,211 @@
----
+﻿---
 aliases:
-  - Joseph Stalin
-  - Joseph Vissarionovich Stalin
+- "Joseph Stalin"
+- "Joseph Vissarionovich Stalin"
 has_id_wikidata: Q855
-member of political party:
-  - "[[_Standards/WikiData/WD~Communist Party of the Soviet Union,79854]]"
-  - "[[_Standards/WikiData/WD~Russian Social Democratic Labour Party,204911]]"
-  - "[[_Standards/WikiData/WD~Russian Social Democratic Labour Party (bolshevik),1774814]]"
-  - "[[_Standards/WikiData/WD~Mesame Dasi,2069833]]"
+member_of_political_party:
+- "[[_Standards/WikiData/WD~Communist Party of the Soviet Union,79854]]"
+- "[[_Standards/WikiData/WD~Russian Social Democratic Labour Party,204911]]"
+- "[[_Standards/WikiData/WD~Russian Social Democratic Labour Party (bolshevik),1774814]]"
+- "[[_Standards/WikiData/WD~Mesame Dasi,2069833]]"
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~revolutionary,3242115]]"
-  - "[[_Standards/WikiData/WD~opinion journalist,6051619]]"
-  - "[[_Standards/WikiData/WD~linguist,14467526]]"
-field of work:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~revolutionary,3242115]]"
-  - "[[_Standards/WikiData/WD~opinion journalist,6051619]]"
-award received:
-  - "[[_Standards/WikiData/WD~Order of the White Lion,93728]]"
-  - "[[_Standards/WikiData/WD~Hero of the Soviet Union,178473]]"
-  - "[[_Standards/WikiData/WD~Order of Lenin,185493]]"
-  - "[[_Standards/WikiData/WD~Time Person of the Year,207826]]"
-  - "[[_Standards/WikiData/WD~Hero of Socialist Labour,208167]]"
-  - "[[_Standards/WikiData/WD~Medal _For the Victory over Germany in the Great Patriotic War 1941–1945_,278798]]"
-  - "[[_Standards/WikiData/WD~Order of the Red Banner,337463]]"
-  - "[[_Standards/WikiData/WD~Order of Victory,465316]]"
-  - "[[_Standards/WikiData/WD~Order of Sukhbaatar,530008]]"
-  - "[[_Standards/WikiData/WD~Medal _For the Defence of Moscow_,1069798]]"
-  - "[[_Standards/WikiData/WD~Medal _For the Victory over Japan_,1081449]]"
-  - "[[_Standards/WikiData/WD~Jubilee Medal _XX Years of the Workers' and Peasants' Red Army_,1710776]]"
-  - "[[_Standards/WikiData/WD~Czechoslovak War Cross 1939–1945,2297431]]"
-  - "[[_Standards/WikiData/WD~Medal _In Commemoration of the 800th Anniversary of Moscow_,2634074]]"
-  - "[[_Standards/WikiData/WD~Order of the Red Star,2760953]]"
-  - "[[_Standards/WikiData/WD~Hero of the Mongolian People's Republic,4137459]]"
-  - "[[_Standards/WikiData/WD~Medal _For the Victory over Japan_ of Mongolia,4286836]]"
-  - "[[_Standards/WikiData/WD~Order of the Red Banner,4335936]]"
-  - "[[_Standards/WikiData/WD~Order of the Republic,4335954]]"
-  - "[[_Standards/WikiData/WD~Collar of the Order of the White Lion,20966612]]"
-  - "[[_Standards/WikiData/WD~Order of Suvorov, 1st class,21292820]]"
-  - "[[_Standards/WikiData/WD~honorary citizen of Budapest,56479277]]"
-  - "[[_Standards/WikiData/WD~honorary citizen of Chrudim,59351315]]"
-  - "[[_Standards/WikiData/WD~honorary citizen of Prague,60130697]]"
-  - "[[_Standards/WikiData/WD~honorary citizen of České Budějovice,63975126]]"
-military or police rank:
-  - "[[_Standards/WikiData/WD~Marshal of the Soviet Union,125168]]"
-  - "[[_Standards/WikiData/WD~Generalissimus of the Soviet Union,1501888]]"
-named after: "[[_Standards/WikiData/WD~Joseph,128267]]"
-significant person:
-  - "[[_Standards/WikiData/WD~Lavrentiy Beria,141829]]"
-  - "[[_Standards/WikiData/WD~Genrikh Yagoda,141869]]"
-  - "[[_Standards/WikiData/WD~Nikolai Bukharin,186709]]"
-  - "[[_Standards/WikiData/WD~Lazar Kaganovich,215705]]"
-  - "[[_Standards/WikiData/WD~Trofim Lysenko,294234]]"
-  - "[[_Standards/WikiData/WD~Leon Trotsky,33391]]"
-  - "[[_Standards/WikiData/WD~Nikita Khrushchev,35314]]"
-  - "[[_Standards/WikiData/WD~Vladimir Lenin,1394]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+- "[[_Standards/WikiData/WD~opinion journalist,6051619]]"
+- '[[_Standards/WikiData/WD~linguist,14467526]]'
+field_of_work:
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+- "[[_Standards/WikiData/WD~opinion journalist,6051619]]"
+award_received:
+- "[[_Standards/WikiData/WD~Order of the White Lion,93728]]"
+- "[[_Standards/WikiData/WD~Hero of the Soviet Union,178473]]"
+- "[[_Standards/WikiData/WD~Order of Lenin,185493]]"
+- "[[_Standards/WikiData/WD~Time Person of the Year,207826]]"
+- "[[_Standards/WikiData/WD~Hero of Socialist Labour,208167]]"
+- "[[_Standards/WikiData/WD~Medal _For the Victory over Germany in the Great Patriotic War 1941–1945_,278798]]"
+- "[[_Standards/WikiData/WD~Order of the Red Banner,337463]]"
+- "[[_Standards/WikiData/WD~Order of Victory,465316]]"
+- "[[_Standards/WikiData/WD~Order of Sukhbaatar,530008]]"
+- "[[_Standards/WikiData/WD~Medal _For the Defence of Moscow_,1069798]]"
+- "[[_Standards/WikiData/WD~Medal _For the Victory over Japan_,1081449]]"
+- "[[_Standards/WikiData/WD~Jubilee Medal _XX Years of the Workers' and Peasants' Red Army_,1710776]]"
+- "[[_Standards/WikiData/WD~Czechoslovak War Cross 1939–1945,2297431]]"
+- "[[_Standards/WikiData/WD~Medal _In Commemoration of the 800th Anniversary of Moscow_,2634074]]"
+- "[[_Standards/WikiData/WD~Order of the Red Star,2760953]]"
+- "[[_Standards/WikiData/WD~Hero of the Mongolian People's Republic,4137459]]"
+- "[[_Standards/WikiData/WD~Medal _For the Victory over Japan_ of Mongolia,4286836]]"
+- "[[_Standards/WikiData/WD~Order of the Red Banner,4335936]]"
+- "[[_Standards/WikiData/WD~Order of the Republic,4335954]]"
+- "[[_Standards/WikiData/WD~Collar of the Order of the White Lion,20966612]]"
+- "[[_Standards/WikiData/WD~Order of Suvorov, 1st class,21292820]]"
+- "[[_Standards/WikiData/WD~honorary citizen of Budapest,56479277]]"
+- "[[_Standards/WikiData/WD~honorary citizen of Chrudim,59351315]]"
+- "[[_Standards/WikiData/WD~honorary citizen of Prague,60130697]]"
+- "[[_Standards/WikiData/WD~honorary citizen of České Budějovice,63975126]]"
+military_or_police_rank:
+- "[[_Standards/WikiData/WD~Marshal of the Soviet Union,125168]]"
+- "[[_Standards/WikiData/WD~Generalissimus of the Soviet Union,1501888]]"
+named_after: '[[_Standards/WikiData/WD~Joseph,128267]]'
+significant_person:
+- "[[_Standards/WikiData/WD~Lavrentiy Beria,141829]]"
+- "[[_Standards/WikiData/WD~Genrikh Yagoda,141869]]"
+- "[[_Standards/WikiData/WD~Nikolai Bukharin,186709]]"
+- "[[_Standards/WikiData/WD~Lazar Kaganovich,215705]]"
+- "[[_Standards/WikiData/WD~Trofim Lysenko,294234]]"
+- "[[_Standards/WikiData/WD~Leon Trotsky,33391]]"
+- "[[_Standards/WikiData/WD~Nikita Khrushchev,35314]]"
+- "[[_Standards/WikiData/WD~Vladimir Lenin,1394]]"
 residence:
-  - "[[_Standards/WikiData/WD~Turukhansk,155243]]"
-  - "[[_Standards/WikiData/WD~Solvychegodsk,196388]]"
-  - "[[_Standards/WikiData/WD~Narym,1020157]]"
-  - "[[_Standards/WikiData/WD~Novaya Uda,4322358]]"
-  - "[[_Standards/WikiData/WD~Baku,9248]]"
-  - "[[_Standards/WikiData/WD~Moscow,649]]"
-  - "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
+- '[[_Standards/WikiData/WD~Turukhansk,155243]]'
+- '[[_Standards/WikiData/WD~Solvychegodsk,196388]]'
+- '[[_Standards/WikiData/WD~Narym,1020157]]'
+- "[[_Standards/WikiData/WD~Novaya Uda,4322358]]"
+- '[[_Standards/WikiData/WD~Baku,9248]]'
+- '[[_Standards/WikiData/WD~Moscow,649]]'
+- "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
 child:
-  - "[[_Standards/WikiData/WD~Yakov Dzhugashvili,163816]]"
-  - "[[_Standards/WikiData/WD~Svetlana Alliluyeva,228584]]"
-  - "[[_Standards/WikiData/WD~Vasily Dzhugashvili,459216]]"
-  - "[[_Standards/WikiData/WD~Konstantin Kuzakov,3302174]]"
-  - "[[_Standards/WikiData/WD~Artem Sergeev,4416801]]"
-  - "[[_Standards/WikiData/WD~Alexander Davydov,105756206]]"
-  - "[[_Standards/WikiData/WD~unnamed boy Jughashvili (1916),108722703]]"
-political ideology: "[[_Standards/WikiData/WD~Stalinism,179121]]"
-movement: "[[_Standards/WikiData/WD~Marxism–Leninism,211930]]"
+- "[[_Standards/WikiData/WD~Yakov Dzhugashvili,163816]]"
+- "[[_Standards/WikiData/WD~Svetlana Alliluyeva,228584]]"
+- "[[_Standards/WikiData/WD~Vasily Dzhugashvili,459216]]"
+- "[[_Standards/WikiData/WD~Konstantin Kuzakov,3302174]]"
+- "[[_Standards/WikiData/WD~Artem Sergeev,4416801]]"
+- "[[_Standards/WikiData/WD~Alexander Davydov,105756206]]"
+- "[[_Standards/WikiData/WD~unnamed boy Jughashvili (1916),108722703]]"
+political_ideology: '[[_Standards/WikiData/WD~Stalinism,179121]]'
+movement: '[[_Standards/WikiData/WD~Marxism–Leninism,211930]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Nadezhda Alliluyeva,233999]]"
-  - "[[_Standards/WikiData/WD~Ekaterina Svanidze,254673]]"
+- "[[_Standards/WikiData/WD~Nadezhda Alliluyeva,233999]]"
+- "[[_Standards/WikiData/WD~Ekaterina Svanidze,254673]]"
 mother: "[[_Standards/WikiData/WD~Keke Geladze,241535]]"
-commander of (DEPRECATED):
-  - "[[_Standards/WikiData/WD~Red Army,251395]]"
-  - "[[_Standards/WikiData/WD~State Defense Committee,634190]]"
-  - "[[_Standards/WikiData/WD~Headquarters of the Supreme High Command,1991218]]"
-  - "[[_Standards/WikiData/WD~North Caucasus Military District,2620672]]"
-  - "[[_Standards/WikiData/WD~Revolutionary Military Council,2703181]]"
-  - "[[_Standards/WikiData/WD~Southern Front of the Russian Civil War,4534186]]"
-military branch: "[[_Standards/WikiData/WD~Red Army,251395]]"
-has works in the collection: "[[_Standards/WikiData/WD~NIOD Institute for War, Holocaust and Genocide Studies,474823]]"
+commander_of_DEPRECATED_:
+- "[[_Standards/WikiData/WD~Red Army,251395]]"
+- "[[_Standards/WikiData/WD~State Defense Committee,634190]]"
+- "[[_Standards/WikiData/WD~Headquarters of the Supreme High Command,1991218]]"
+- "[[_Standards/WikiData/WD~North Caucasus Military District,2620672]]"
+- "[[_Standards/WikiData/WD~Revolutionary Military Council,2703181]]"
+- "[[_Standards/WikiData/WD~Southern Front of the Russian Civil War,4534186]]"
+military_branch: "[[_Standards/WikiData/WD~Red Army,251395]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~NIOD Institute for War, Holocaust and Genocide Studies,474823]]"
 father: "[[_Standards/WikiData/WD~Besarion Jughashvili,717406]]"
-member of:
-  - "[[_Standards/WikiData/WD~All-Russian Central Executive Committee,946380]]"
-  - "[[_Standards/WikiData/WD~Orgburo,1851172]]"
-  - "[[_Standards/WikiData/WD~Academy of Sciences of the USSR,2370801]]"
-  - "[[_Standards/WikiData/WD~Revolutionary Military Council,2703181]]"
-  - "[[_Standards/WikiData/WD~Council of People's Commissars,4426244]]"
-  - "[[_Standards/WikiData/WD~All-Union Society of Old Bolsheviks,124649913]]"
-  - "[[_Standards/WikiData/WD~Council of Ministers of the USSR,2128]]"
+member_of:
+- "[[_Standards/WikiData/WD~All-Russian Central Executive Committee,946380]]"
+- '[[_Standards/WikiData/WD~Orgburo,1851172]]'
+- "[[_Standards/WikiData/WD~Academy of Sciences of the USSR,2370801]]"
+- "[[_Standards/WikiData/WD~Revolutionary Military Council,2703181]]"
+- "[[_Standards/WikiData/WD~Council of People's Commissars,4426244]]"
+- "[[_Standards/WikiData/WD~All-Union Society of Old Bolsheviks,124649913]]"
+- "[[_Standards/WikiData/WD~Council of Ministers of the USSR,2128]]"
 employer:
-  - "[[_Standards/WikiData/WD~organ of state,948571]]"
-  - "[[_Standards/WikiData/WD~Brdzola,4096176]]"
-  - "[[_Standards/WikiData/WD~Tbilisi Observatory,4458386]]"
-position held:
-  - "[[_Standards/WikiData/WD~General Secretary of the Communist Party of the Soviet Union,1048744]]"
-  - "[[_Standards/WikiData/WD~Minister of Defence,2367317]]"
-  - "[[_Standards/WikiData/WD~Chairman of the Council of Ministers of the USSR,4376674]]"
-  - "[[_Standards/WikiData/WD~Chairman of the Council of People's Commissars,4376682]]"
-  - "[[_Standards/WikiData/WD~deputy of the Supreme Soviet of the Soviet Union,15628644]]"
-  - "[[_Standards/WikiData/WD~Member of the Russian Constituent Assembly,27491113]]"
-  - "[[_Standards/WikiData/WD~member of the Presidium of the Supreme Soviet of the USSR,42029042]]"
-  - "[[_Standards/WikiData/WD~member of the Supreme Soviet of the Russian Soviet Federative Socialist Republic,42530449]]"
-  - "[[_Standards/WikiData/WD~member of the Supreme Soviet of the Byelorussian SSR of the 1st convocation,107392550]]"
-  - "[[_Standards/WikiData/WD~Member of the Politburo of the CPSU Central Committee,108495011]]"
-  - "[[_Standards/WikiData/WD~Secretary of the Communist Party of the Soviet Union,115147301]]"
-place of burial: "[[_Standards/WikiData/WD~Kremlin Wall Necropolis,1130019]]"
-cause of death: "[[_Standards/WikiData/WD~cerebral hemorrhage,1368943]]"
-vehicle normally used: "[[_Standards/WikiData/WD~ZIS-115,2071708]]"
-country of citizenship:
-  - "[[_Standards/WikiData/WD~Russian Socialist Federative Soviet Republic,2305208]]"
-  - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-  - "[[_Standards/WikiData/WD~Russian Empire,34266]]"
-hair color: "[[_Standards/WikiData/WD~brown hair,2367101]]"
-facial hair:
-  - "[[_Standards/WikiData/WD~handlebar moustache,3326291]]"
-  - "[[_Standards/WikiData/WD~walrus moustache,7963760]]"
-  - "[[_Standards/WikiData/WD~moustache,15179]]"
-manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-participant in:
-  - "[[_Standards/WikiData/WD~2nd All-Russian Congress of Soviets,4041050]]"
-  - "[[_Standards/WikiData/WD~1st All-Russian Congress of Soviets,4041222]]"
-list of works: "[[_Standards/WikiData/WD~Joseph Stalin bibliography,4086320]]"
-place of death: "[[_Standards/WikiData/WD~Kuntsevo Dacha,4088132]]"
-educated at:
-  - "[[_Standards/WikiData/WD~Gori school,4144156]]"
-  - "[[_Standards/WikiData/WD~Tbilisi Theological Seminary,4453127]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-eye color: "[[_Standards/WikiData/WD~dark brown,17244894]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~History of Everyday Life Database,108764506]]"
-  - "[[_Standards/WikiData/WD~Q109971267,109971267]]"
-  - "[[_Standards/WikiData/WD~SourceWatch List of Dictators,121698959]]"
-family name: "[[_Standards/WikiData/WD~Stalin,22179713]]"
+- "[[_Standards/WikiData/WD~organ of state,948571]]"
+- '[[_Standards/WikiData/WD~Brdzola,4096176]]'
+- "[[_Standards/WikiData/WD~Tbilisi Observatory,4458386]]"
+position_held:
+- "[[_Standards/WikiData/WD~General Secretary of the Communist Party of the Soviet Union,1048744]]"
+- "[[_Standards/WikiData/WD~Minister of Defence,2367317]]"
+- "[[_Standards/WikiData/WD~Chairman of the Council of Ministers of the USSR,4376674]]"
+- "[[_Standards/WikiData/WD~Chairman of the Council of People's Commissars,4376682]]"
+- "[[_Standards/WikiData/WD~deputy of the Supreme Soviet of the Soviet Union,15628644]]"
+- "[[_Standards/WikiData/WD~Member of the Russian Constituent Assembly,27491113]]"
+- "[[_Standards/WikiData/WD~member of the Presidium of the Supreme Soviet of the USSR,42029042]]"
+- "[[_Standards/WikiData/WD~member of the Supreme Soviet of the Russian Soviet Federative Socialist Republic,42530449]]"
+- "[[_Standards/WikiData/WD~member of the Supreme Soviet of the Byelorussian SSR of the 1st convocation,107392550]]"
+- "[[_Standards/WikiData/WD~Member of the Politburo of the CPSU Central Committee,108495011]]"
+- "[[_Standards/WikiData/WD~Secretary of the Communist Party of the Soviet Union,115147301]]"
+place_of_burial: "[[_Standards/WikiData/WD~Kremlin Wall Necropolis,1130019]]"
+cause_of_death: "[[_Standards/WikiData/WD~cerebral hemorrhage,1368943]]"
+vehicle_normally_used: '[[_Standards/WikiData/WD~ZIS-115,2071708]]'
+country_of_citizenship:
+- "[[_Standards/WikiData/WD~Russian Socialist Federative Soviet Republic,2305208]]"
+- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- "[[_Standards/WikiData/WD~Russian Empire,34266]]"
+hair_color: "[[_Standards/WikiData/WD~brown hair,2367101]]"
+facial_hair:
+- "[[_Standards/WikiData/WD~handlebar moustache,3326291]]"
+- "[[_Standards/WikiData/WD~walrus moustache,7963760]]"
+- '[[_Standards/WikiData/WD~moustache,15179]]'
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+participant_in:
+- "[[_Standards/WikiData/WD~2nd All-Russian Congress of Soviets,4041050]]"
+- "[[_Standards/WikiData/WD~1st All-Russian Congress of Soviets,4041222]]"
+list_of_works: "[[_Standards/WikiData/WD~Joseph Stalin bibliography,4086320]]"
+place_of_death: "[[_Standards/WikiData/WD~Kuntsevo Dacha,4088132]]"
+educated_at:
+- "[[_Standards/WikiData/WD~Gori school,4144156]]"
+- "[[_Standards/WikiData/WD~Tbilisi Theological Seminary,4453127]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+eye_color: "[[_Standards/WikiData/WD~dark brown,17244894]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- "[[_Standards/WikiData/WD~History of Everyday Life Database,108764506]]"
+- '[[_Standards/WikiData/WD~Q109971267,109971267]]'
+- "[[_Standards/WikiData/WD~SourceWatch List of Dictators,121698959]]"
+family_name: '[[_Standards/WikiData/WD~Stalin,22179713]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Joseph Davrichachvili,22344319]]"
-  - "[[_Standards/WikiData/WD~Mikhail Jughashvili,108723194]]"
-  - "[[_Standards/WikiData/WD~Giorgi Jughashvili,108723531]]"
-given name: "[[_Standards/WikiData/WD~Ioseb,29051339]]"
+- "[[_Standards/WikiData/WD~Joseph Davrichachvili,22344319]]"
+- "[[_Standards/WikiData/WD~Mikhail Jughashvili,108723194]]"
+- "[[_Standards/WikiData/WD~Giorgi Jughashvili,108723531]]"
+given_name: '[[_Standards/WikiData/WD~Ioseb,29051339]]'
 family: "[[_Standards/WikiData/WD~Stalin family,64590027]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~Wikiproject Nuremberg Trials,100137722]]"
-unmarried partner: "[[_Standards/WikiData/WD~Lidiya Pereprygina,105756153]]"
-name in native language:
-  - იოსებ ბესარიონის ძე ჯუღაშვილი
-  - Иосиф Виссарионович Джугашвили
-birth name: იოსებ ბესარიონის ძე ჯუღაშვილი
-work period (start): 1895-01-01T00:00:00Z
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
-RIA Novosti reference: "42596093"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject Nuremberg Trials,100137722]]"
+unmarried_partner: "[[_Standards/WikiData/WD~Lidiya Pereprygina,105756153]]"
+name_in_native_language:
+- "იოსებ ბესარიონის ძე ჯუღაშვილი"
+- "Иосиф Виссарионович Джугашвили"
+birth_name: "იოსებ ბესარიონის ძე ჯუღაშვილი"
+work_period_start_: "1895-01-01T00:00:00Z"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg"
+RIA_Novosti_reference: 42596093
 Libris-URI: 53hkl14p58hf71m
-BHCL UUID: 7bc6d92e-1864-4a3e-a5ae-7a678889539f
-Wolfram Language entity code: Entity["Person", "JosefStalin::2333v"]
-Krugosvet article: istoriya/STALIN_IOSIF_VISSARIONOVICH.html
-native language: "[[_Standards/WikiData/WD~Georgian,8108]]"
-influenced by:
-  - "[[_Standards/WikiData/WD~Karl Marx,9061]]"
-  - "[[_Standards/WikiData/WD~Vladimir Lenin,1394]]"
+BHCL_UUID: 7bc6d92e-1864-4a3e-a5ae-7a678889539f
+Wolfram_Language_entity_code: "Entity[\"Person\", \"JosefStalin::2333v\"]"
+Krugosvet_article: istoriya/STALIN_IOSIF_VISSARIONOVICH.html
+native_language: '[[_Standards/WikiData/WD~Georgian,8108]]'
+influenced_by:
+- "[[_Standards/WikiData/WD~Karl Marx,9061]]"
+- "[[_Standards/WikiData/WD~Vladimir Lenin,1394]]"
 allegiance: "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-place of birth: "[[_Standards/WikiData/WD~Gori,19583]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
+place_of_birth: '[[_Standards/WikiData/WD~Gori,19583]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 height:
-  - 163
-  - 1.68
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Joseph%20Stalin.png
-date of death: 1953-03-05T00:00:00Z
-work period (end): 1953-01-01T00:00:00Z
+- 163
+- 1.68
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Joseph%20Stalin.png"
+date_of_death: "1953-03-05T00:00:00Z"
+work_period_end_: "1953-01-01T00:00:00Z"
 nickname:
-  - Коба
-  - Uncle Joe
-image: http://commons.wikimedia.org/wiki/Special:FilePath/JStalin%20Secretary%20general%20CCCP%201942%20flipped.jpg
-Commons category: Joseph Stalin
-U.S. National Archives Identifier: "10581030"
-Commons gallery: Joseph Vissarionovich Stalin
+- Коба
+- "Uncle Joe"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/JStalin%20Secretary%20general%20CCCP%201942%20flipped.jpg"
+Commons_category: "Joseph Stalin"
+U_S_National_Archives_Identifier: 10581030
+Commons_gallery: "Joseph Vissarionovich Stalin"
 pseudonym: Сталин
-date of birth: 1878-12-18T00:00:00Z
-ISNI: "0000000121457825"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20Speech%201941%20Red%20Army%20Parade%207%20November%20%28English%20Subtitles%29.webm
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20birthplace%20plaque.jpg
-described at URL: http://www.digiporta.net/index.php?id=113510372
-Danbooru tag: joseph_stalin
-work location:
-  - "[[_Standards/WikiData/WD~Moscow,649]]"
-  - "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
-religion or worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-writing language:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Georgian,8108]]"
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Georgian,8108]]"
-partner in business or sport:
-  - "[[_Standards/WikiData/WD~Franklin Delano Roosevelt,8007]]"
-  - "[[_Standards/WikiData/WD~Winston Churchill,8016]]"
+date_of_birth: "1878-12-18T00:00:00Z"
+ISNI: 0000000121457825
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20Speech%201941%20Red%20Army%20Parade%207%20November%20%28English%20Subtitles%29.webm"
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20birthplace%20plaque.jpg"
+described_at_URL: "http://www.digiporta.net/index.php?id=113510372"
+Danbooru_tag: joseph_stalin
+work_location:
+- '[[_Standards/WikiData/WD~Moscow,649]]'
+- "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+writing_language:
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Georgian,8108]]'
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Georgian,8108]]'
+partner_in_business_or_sport:
+- "[[_Standards/WikiData/WD~Franklin Delano Roosevelt,8007]]"
+- "[[_Standards/WikiData/WD~Winston Churchill,8016]]"
 ---
-
 
 ## #has_/text_of_/abstract 
 

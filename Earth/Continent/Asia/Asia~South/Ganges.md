@@ -1,66 +1,65 @@
----
+﻿---
 has_id_wikidata: Q5089
 tributary:
-  - "[[_Standards/WikiData/WD~Yamuna,132726]]"
-  - "[[_Standards/WikiData/WD~Bhagirathi River,170218]]"
-  - "[[_Standards/WikiData/WD~Ghaghara River,390232]]"
-  - "[[_Standards/WikiData/WD~Gomti River,477676]]"
-  - "[[_Standards/WikiData/WD~Tamsa River,632555]]"
-  - "[[_Standards/WikiData/WD~Kosi River,695610]]"
-  - "[[_Standards/WikiData/WD~Gandaki River,849494]]"
-  - "[[_Standards/WikiData/WD~Padma River,930773]]"
-  - "[[_Standards/WikiData/WD~Varuna River,1365269]]"
-  - "[[_Standards/WikiData/WD~Son River,1418174]]"
-  - "[[_Standards/WikiData/WD~Alaknanda River,1419768]]"
-  - "[[_Standards/WikiData/WD~Ramganga,1850806]]"
-  - "[[_Standards/WikiData/WD~Karmanasa River,2073020]]"
-  - "[[_Standards/WikiData/WD~Mahananda River,2428539]]"
-  - "[[_Standards/WikiData/WD~Sarayu,3241461]]"
-  - "[[_Standards/WikiData/WD~Yarlung Tsangpo River,3244259]]"
-  - "[[_Standards/WikiData/WD~Burhi Gandak River,3630468]]"
-  - "[[_Standards/WikiData/WD~Punpun River,3635865]]"
-  - "[[_Standards/WikiData/WD~Rāmgangā River,15682249]]"
-  - "[[_Standards/WikiData/WD~Gandak,18340305]]"
-named after: "[[_Standards/WikiData/WD~Ganga,580113]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-origin of the watercourse: "[[_Standards/WikiData/WD~Gangotri Glacier,691557]]"
-different from: "[[_Standards/WikiData/WD~Ganges,734074]]"
-drainage basin: "[[_Standards/WikiData/WD~Ganges Basin,5521121]]"
-depicted by: "[[_Standards/WikiData/WD~Ganges in Fontana dei fiumi,126210736]]"
-instance of:
-  - "[[_Standards/WikiData/WD~sacred river,131748586]]"
-  - "[[_Standards/WikiData/WD~river,4022]]"
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%20%E0%A6%A8%E0%A6%A6%E0%A7%80.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-%E0%A4%B8%E0%A5%81%E0%A4%AC%E0%A5%8B%E0%A4%A7%20%E0%A4%95%E0%A5%81%E0%A4%B2%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A5%80-%E0%A4%97%E0%A4%82%E0%A4%97%E0%A4%BE%20%E0%A4%A8%E0%A4%A6%E0%A5%80.wav
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Varanasi%2C%20India%2C%20Ganges%20River%20after%20sunset.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Ghats%20across%20the%20Ganges%2C%20Varanasi.jpg
+- '[[_Standards/WikiData/WD~Yamuna,132726]]'
+- "[[_Standards/WikiData/WD~Bhagirathi River,170218]]"
+- "[[_Standards/WikiData/WD~Ghaghara River,390232]]"
+- "[[_Standards/WikiData/WD~Gomti River,477676]]"
+- "[[_Standards/WikiData/WD~Tamsa River,632555]]"
+- "[[_Standards/WikiData/WD~Kosi River,695610]]"
+- "[[_Standards/WikiData/WD~Gandaki River,849494]]"
+- "[[_Standards/WikiData/WD~Padma River,930773]]"
+- "[[_Standards/WikiData/WD~Varuna River,1365269]]"
+- "[[_Standards/WikiData/WD~Son River,1418174]]"
+- "[[_Standards/WikiData/WD~Alaknanda River,1419768]]"
+- '[[_Standards/WikiData/WD~Ramganga,1850806]]'
+- "[[_Standards/WikiData/WD~Karmanasa River,2073020]]"
+- "[[_Standards/WikiData/WD~Mahananda River,2428539]]"
+- '[[_Standards/WikiData/WD~Sarayu,3241461]]'
+- "[[_Standards/WikiData/WD~Yarlung Tsangpo River,3244259]]"
+- "[[_Standards/WikiData/WD~Burhi Gandak River,3630468]]"
+- "[[_Standards/WikiData/WD~Punpun River,3635865]]"
+- "[[_Standards/WikiData/WD~Rāmgangā River,15682249]]"
+- '[[_Standards/WikiData/WD~Gandak,18340305]]'
+named_after: '[[_Standards/WikiData/WD~Ganga,580113]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Gangotri Glacier,691557]]"
+different_from: '[[_Standards/WikiData/WD~Ganges,734074]]'
+drainage_basin: "[[_Standards/WikiData/WD~Ganges Basin,5521121]]"
+depicted_by: "[[_Standards/WikiData/WD~Ganges in Fontana dei fiumi,126210736]]"
+instance_of:
+- "[[_Standards/WikiData/WD~sacred river,131748586]]"
+- '[[_Standards/WikiData/WD~river,4022]]'
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%20%E0%A6%A8%E0%A6%A6%E0%A7%80.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-%E0%A4%B8%E0%A5%81%E0%A4%AC%E0%A5%8B%E0%A4%A7%20%E0%A4%95%E0%A5%81%E0%A4%B2%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A5%80-%E0%A4%97%E0%A4%82%E0%A4%97%E0%A4%BE%20%E0%A4%A8%E0%A4%A6%E0%A5%80.wav"
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Varanasi%2C%20India%2C%20Ganges%20River%20after%20sunset.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Ghats%20across%20the%20Ganges%2C%20Varanasi.jpg"
 Libris-URI: 42gjh2gn5n3wcw5
-Commons category: Ganges River
-basin country: "[[_Standards/WikiData/WD~India,668]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-elevation above sea level: 9
+Commons_category: "Ganges River"
+basin_country: '[[_Standards/WikiData/WD~India,668]]'
+country: '[[_Standards/WikiData/WD~India,668]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
+elevation_above_sea_level: 9
 discharge: 12000
-watershed area: 1060000
-mouth of the watercourse: "[[_Standards/WikiData/WD~Bay of Bengal,38684]]"
+watershed_area: 1060000
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Bay of Bengal,38684]]"
 length: 2525
-OmegaWiki Defined Meaning: "755784"
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Ganges-Brahmaputra-Meghna%20basins.jpg
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Ganges%20Delta%20ESA22274217.jpeg
-U.S. National Archives Identifier: "10044268"
-coordinate location:
-  - Point(90.8333 22.0833)
-  - Point(78.5974 30.1451)
+OmegaWiki_Defined_Meaning: 755784
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ganges-Brahmaputra-Meghna%20basins.jpg"
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Ganges%20Delta%20ESA22274217.jpeg"
+U_S_National_Archives_Identifier: 10044268
+coordinate_location:
+- "Point(90.8333 22.0833)"
+- "Point(78.5974 30.1451)"
 ---
-
 
 ## #has_/text_of_/abstract 
 

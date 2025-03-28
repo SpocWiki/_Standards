@@ -1,100 +1,100 @@
----
+﻿---
 aliases:
-  - WWI
-  - World War I
+- WWI
+- "World War I"
 has_id_wikidata: Q361
-history of topic:
-  - "[[_Standards/WikiData/WD~timeline of World War I,74978]]"
-  - "[[_Standards/WikiData/WD~diplomatic history of World War I,30324643]]"
-instance of:
-  - "[[_Standards/WikiData/WD~world war,103495]]"
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
+history_of_topic:
+- "[[_Standards/WikiData/WD~timeline of World War I,74978]]"
+- "[[_Standards/WikiData/WD~diplomatic history of World War I,30324643]]"
+instance_of:
+- "[[_Standards/WikiData/WD~world war,103495]]"
+- "[[_Standards/WikiData/WD~historical period,11514315]]"
 participant:
-  - "[[_Standards/WikiData/WD~Central Powers,152283]]"
-  - "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~Allies of the First World War,215669]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-has contributing factor:
-  - "[[_Standards/WikiData/WD~Alsace–Lorraine,155144]]"
-  - "[[_Standards/WikiData/WD~Anglo–German naval arms race,4763720]]"
-has effect:
-  - "[[_Standards/WikiData/WD~Allies of the First World War,215669]]"
-  - "[[_Standards/WikiData/WD~Ottoman Empire,12560]]"
-  - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-  - "[[_Standards/WikiData/WD~Austria-Hungary,28513]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-  - "[[_Standards/WikiData/WD~Russian Empire,34266]]"
-  - "[[_Standards/WikiData/WD~League of Nations,38130]]"
-  - "[[_Standards/WikiData/WD~Weimar Republic,41304]]"
-  - "[[_Standards/WikiData/WD~German Empire,43287]]"
-facet of: "[[_Standards/WikiData/WD~German colonial empire,329618]]"
-different from:
-  - "[[_Standards/WikiData/WD~Q1046100,1046100]]"
-  - "[[_Standards/WikiData/WD~(The) Great War,85888603]]"
-order of battle:
-  - "[[_Standards/WikiData/WD~French Army order of battle,3355540]]"
-  - "[[_Standards/WikiData/WD~Indian Army during World War I order of battle,6019852]]"
-  - "[[_Standards/WikiData/WD~Indian Cavalry Corps order of battle in World War I,6019982]]"
-  - "[[_Standards/WikiData/WD~American Expeditionary Forces on the Western Front order of battle,19839852]]"
-  - "[[_Standards/WikiData/WD~Order of battle of the Serbian Army in World War I,23002658]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_World War I,5909782]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_World War I,10651811]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject World War I,10656655]]"
-located in/on physical feature:
-  - "[[_Standards/WikiData/WD~Republic of China (1912–1949),13426199]]"
-  - "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
-  - "[[_Standards/WikiData/WD~West Asia,27293]]"
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-  - "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-has cause: "[[_Standards/WikiData/WD~multiple causes,18121382]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of World War I,20716546]]"
-permanent duplicated item:
-  - "[[_Standards/WikiData/WD~Q21200344,21200344]]"
-  - "[[_Standards/WikiData/WD~Q29950537,29950537]]"
-UMLS CUI: C1449759
-MeSH tree code:
-  - I01.880.735.950.250.968
-  - K01.400.504.968.900
-image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Cmentarz%20wojenny%20w%20Str%C3%B3%C5%BCach%20%28Za506%29.jpg
+- "[[_Standards/WikiData/WD~Central Powers,152283]]"
+- "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
+- "[[_Standards/WikiData/WD~Allies of the First World War,215669]]"
+- '[[_Standards/WikiData/WD~Australia,408]]'
+has_contributing_factor:
+- '[[_Standards/WikiData/WD~Alsace–Lorraine,155144]]'
+- "[[_Standards/WikiData/WD~Anglo–German naval arms race,4763720]]"
+has_effect:
+- "[[_Standards/WikiData/WD~Allies of the First World War,215669]]"
+- "[[_Standards/WikiData/WD~Ottoman Empire,12560]]"
+- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- '[[_Standards/WikiData/WD~Austria-Hungary,28513]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
+- "[[_Standards/WikiData/WD~Russian Empire,34266]]"
+- "[[_Standards/WikiData/WD~League of Nations,38130]]"
+- "[[_Standards/WikiData/WD~Weimar Republic,41304]]"
+- "[[_Standards/WikiData/WD~German Empire,43287]]"
+facet_of: "[[_Standards/WikiData/WD~German colonial empire,329618]]"
+different_from:
+- '[[_Standards/WikiData/WD~Q1046100,1046100]]'
+- "[[_Standards/WikiData/WD~(The) Great War,85888603]]"
+order_of_battle:
+- "[[_Standards/WikiData/WD~French Army order of battle,3355540]]"
+- "[[_Standards/WikiData/WD~Indian Army during World War I order of battle,6019852]]"
+- "[[_Standards/WikiData/WD~Indian Cavalry Corps order of battle in World War I,6019982]]"
+- "[[_Standards/WikiData/WD~American Expeditionary Forces on the Western Front order of battle,19839852]]"
+- "[[_Standards/WikiData/WD~Order of battle of the Serbian Army in World War I,23002658]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_World War I,5909782]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_World War I,10651811]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject World War I,10656655]]"
+located_in_on_physical_feature:
+- "[[_Standards/WikiData/WD~Republic of China (1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+- "[[_Standards/WikiData/WD~West Asia,27293]]"
+- '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+has_cause: "[[_Standards/WikiData/WD~multiple causes,18121382]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of World War I,20716546]]"
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q21200344,21200344]]'
+- '[[_Standards/WikiData/WD~Q29950537,29950537]]'
+UMLS_CUI: C1449759
+MeSH_tree_code:
+- I01.880.735.950.250.968
+- K01.400.504.968.900
+image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Cmentarz%20wojenny%20w%20Str%C3%B3%C5%BCach%20%28Za506%29.jpg"
 location:
-  - "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
-  - "[[_Standards/WikiData/WD~Middle East,7204]]"
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-  - "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-  - "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Near East,48214]]"
-  - "[[_Standards/WikiData/WD~Oceania,55643]]"
-number of deaths: 17000000
-start time: 1914-07-28T00:00:00Z
-Swedish Anbytarforum: "11154.0"
-U.S. National Archives Identifier: "10646525"
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33491%20%28hat%29-Jnermano-Premy%C3%A8%20G%C3%A8%20mondyal.wav
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Naval%20Division%20banner.jpg
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/WWImontage.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/WWImontage.jpg
-described at URL: https://dmna.ny.gov/historic/reghist/wwi/HonorList/?l=g
-Basisklassifikation: "15.23"
-Provenio UUID: aa705b1b-8350-45cf-a43a-fd7fbde67892
-Stadtwiki Dresden article: Erster_Weltkrieg
-Krugosvet article: istoriya/PERVAYA_MIROVAYA_VONA.html
-Commons category: World War I
-Commons gallery: World War I
-end time: 1918-11-11T00:00:00Z
+- "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+- "[[_Standards/WikiData/WD~Middle East,7204]]"
+- '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
+- "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~Near East,48214]]"
+- '[[_Standards/WikiData/WD~Oceania,55643]]'
+number_of_deaths: 17000000
+start_time: "1914-07-28T00:00:00Z"
+Swedish_Anbytarforum: 11154.0
+U_S_National_Archives_Identifier: 10646525
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33491%20%28hat%29-Jnermano-Premy%C3%A8%20G%C3%A8%20mondyal.wav"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Naval%20Division%20banner.jpg"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/WWImontage.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/WWImontage.jpg"
+described_at_URL: "https://dmna.ny.gov/historic/reghist/wwi/HonorList/?l=g"
+Basisklassifikation: 15.23
+Provenio_UUID: aa705b1b-8350-45cf-a43a-fd7fbde67892
+Stadtwiki_Dresden_article: Erster_Weltkrieg
+Krugosvet_article: istoriya/PERVAYA_MIROVAYA_VONA.html
+Commons_category: "World War I"
+Commons_gallery: "World War I"
+end_time: "1918-11-11T00:00:00Z"
 ---
 
 #has_/time_/started :: 28 July 1914 

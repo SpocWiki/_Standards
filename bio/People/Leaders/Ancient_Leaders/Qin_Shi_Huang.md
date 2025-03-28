@@ -1,64 +1,63 @@
----
+﻿---
 aliases:
-  - Qin Shi Huang
+- "Qin Shi Huang"
 has_id_wikidata: Q7192
-posthumous name: 始皇帝
-Commons gallery: 秦始皇
-Baidu Tieba name:
-  - 秦始皇
-  - 嬴政
-name in native language: 趙政
+posthumous_name: 始皇帝
+Commons_gallery: 秦始皇
+Baidu_Tieba_name:
+- 秦始皇
+- 嬴政
+name_in_native_language: 趙政
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~ruler,1097498]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-  - "[[_Standards/WikiData/WD~emperor,39018]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Records of the Grand Historian,272530]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-family name:
-  - "[[_Standards/WikiData/WD~Zhao,804886]]"
-  - "[[_Standards/WikiData/WD~Ying,8062583]]"
-place of burial: "[[_Standards/WikiData/WD~Mausoleum of the First Qin Emperor,910180]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
+- '[[_Standards/WikiData/WD~emperor,39018]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Records of the Grand Historian,272530]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+family_name:
+- '[[_Standards/WikiData/WD~Zhao,804886]]'
+- '[[_Standards/WikiData/WD~Ying,8062583]]'
+place_of_burial: "[[_Standards/WikiData/WD~Mausoleum of the First Qin Emperor,910180]]"
 mother: "[[_Standards/WikiData/WD~Queen Dowager Zhao,1035346]]"
-place of death: "[[_Standards/WikiData/WD~Guangzong County,1196437]]"
+place_of_death: "[[_Standards/WikiData/WD~Guangzong County,1196437]]"
 child:
-  - "[[_Standards/WikiData/WD~Fusu,1268605]]"
-  - "[[_Standards/WikiData/WD~Prince Gao,4275525]]"
-  - "[[_Standards/WikiData/WD~Prince Jianglü,10892704]]"
-  - "[[_Standards/WikiData/WD~Qin Er Shi,7196]]"
-  - "[[_Standards/WikiData/WD~Ziying,7203]]"
+- '[[_Standards/WikiData/WD~Fusu,1268605]]'
+- "[[_Standards/WikiData/WD~Prince Gao,4275525]]"
+- "[[_Standards/WikiData/WD~Prince Jianglü,10892704]]"
+- "[[_Standards/WikiData/WD~Qin Er Shi,7196]]"
+- '[[_Standards/WikiData/WD~Ziying,7203]]'
 father: "[[_Standards/WikiData/WD~King Zhuangxiang of Qin,1327607]]"
 sibling:
-  - "[[_Standards/WikiData/WD~Chengjiao,5091363]]"
-  - "[[_Standards/WikiData/WD~Ziying,7203]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-participant in: "[[_Standards/WikiData/WD~Qin Shi Huang's inspection tours,27925173]]"
-cause of death: "[[_Standards/WikiData/WD~Chinese alchemical elixir poisoning,28419338]]"
-position held: "[[_Standards/WikiData/WD~Chinese king,38702033]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-given name: "[[_Standards/WikiData/WD~Zheng,96251239]]"
-ISNI: "0000000121331608"
-country of citizenship:
-  - "[[_Standards/WikiData/WD~Qin dynasty,7183]]"
-  - "[[_Standards/WikiData/WD~Qin,34756]]"
+- '[[_Standards/WikiData/WD~Chengjiao,5091363]]'
+- '[[_Standards/WikiData/WD~Ziying,7203]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+participant_in: "[[_Standards/WikiData/WD~Qin Shi Huang's inspection tours,27925173]]"
+cause_of_death: "[[_Standards/WikiData/WD~Chinese alchemical elixir poisoning,28419338]]"
+position_held: "[[_Standards/WikiData/WD~Chinese king,38702033]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+given_name: '[[_Standards/WikiData/WD~Zheng,96251239]]'
+ISNI: 0000000121331608
+country_of_citizenship:
+- "[[_Standards/WikiData/WD~Qin dynasty,7183]]"
+- '[[_Standards/WikiData/WD~Qin,34756]]'
 family: "[[_Standards/WikiData/WD~Qin dynasty,7183]]"
-followed by: "[[_Standards/WikiData/WD~Qin Er Shi,7196]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~Old Chinese,35137]]"
-noble title: "[[_Standards/WikiData/WD~emperor,39018]]"
-place of birth: "[[_Standards/WikiData/WD~Handan,58570]]"
-date of death: -0209-01-01T00:00:00Z
+followed_by: "[[_Standards/WikiData/WD~Qin Er Shi,7196]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Old Chinese,35137]]"
+noble_title: '[[_Standards/WikiData/WD~emperor,39018]]'
+place_of_birth: '[[_Standards/WikiData/WD~Handan,58570]]'
+date_of_death: "-0209-01-01T00:00:00Z"
 name: 秦始皇
-Commons category: Qin Shi Huang
-date of birth: -0258-01-01T00:00:00Z
+Commons_category: "Qin Shi Huang"
+date_of_birth: "-0258-01-01T00:00:00Z"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuang.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuangdi3.jpg
-BHCL UUID: 617ad11e-0cd4-4123-8d1a-48e9366ded76
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuang.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuangdi3.jpg"
+BHCL_UUID: 617ad11e-0cd4-4123-8d1a-48e9366ded76
 Libris-URI: c9prs62w049fwb2
 ---
-
 
 ## #has_/text_of_/abstract 
 

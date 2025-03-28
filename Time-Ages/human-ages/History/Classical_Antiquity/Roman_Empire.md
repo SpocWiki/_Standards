@@ -1,175 +1,174 @@
----
+﻿---
 aliases:
-  - Roman Empire
+- "Roman Empire"
 has_id_wikidata: Q2277
-basic form of government:
-  - "[[_Standards/WikiData/WD~triumvirate,83204]]"
-  - "[[_Standards/WikiData/WD~autocracy,173424]]"
-  - "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
-  - "[[_Standards/WikiData/WD~monarchy,7269]]"
-official religion:
-  - "[[_Standards/WikiData/WD~Arianism,83922]]"
-  - "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~paganism,29536]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Germania Inferior,152136]]"
-  - "[[_Standards/WikiData/WD~Germania Superior,153553]]"
-  - "[[_Standards/WikiData/WD~Raetia,156789]]"
-  - "[[_Standards/WikiData/WD~Pannonia,170062]]"
-  - "[[_Standards/WikiData/WD~Africa,181238]]"
-  - "[[_Standards/WikiData/WD~Roman Britain,185103]]"
-  - "[[_Standards/WikiData/WD~Hispania,186513]]"
-  - "[[_Standards/WikiData/WD~Lusitania,188650]]"
-  - "[[_Standards/WikiData/WD~Achaea,204772]]"
-  - "[[_Standards/WikiData/WD~Gallia Belgica,206443]]"
-  - "[[_Standards/WikiData/WD~Roman Syria,207118]]"
-  - "[[_Standards/WikiData/WD~Macedonia,207497]]"
-  - "[[_Standards/WikiData/WD~Asia,210718]]"
-  - "[[_Standards/WikiData/WD~Hispania Tarraconensis,216791]]"
-  - "[[_Standards/WikiData/WD~Hispania Baetica,219415]]"
-  - "[[_Standards/WikiData/WD~Arabia Petraea,221353]]"
-  - "[[_Standards/WikiData/WD~Corsica and Sardinia,281345]]"
-  - "[[_Standards/WikiData/WD~Alpes Maritimae,309270]]"
-  - "[[_Standards/WikiData/WD~Alpes Graiae,360922]]"
-  - "[[_Standards/WikiData/WD~Alpes Cottiae,623322]]"
-  - "[[_Standards/WikiData/WD~Thracia,635058]]"
-  - "[[_Standards/WikiData/WD~Upper Pannonia,642188]]"
-  - "[[_Standards/WikiData/WD~Alpes Poeninae,660100]]"
-  - "[[_Standards/WikiData/WD~Britannia Inferior,685537]]"
-  - "[[_Standards/WikiData/WD~Sicilia,691321]]"
-  - "[[_Standards/WikiData/WD~Creta et Cyrenaica,692775]]"
-  - "[[_Standards/WikiData/WD~Gallia Aquitania,715376]]"
-  - "[[_Standards/WikiData/WD~Mauretania Caesariensis,734505]]"
-  - "[[_Standards/WikiData/WD~Hispania Ulterior,747040]]"
-  - "[[_Standards/WikiData/WD~Dacia Inferior,748818]]"
-  - "[[_Standards/WikiData/WD~Illyricum,753824]]"
-  - "[[_Standards/WikiData/WD~Mesopotamia,765845]]"
-  - "[[_Standards/WikiData/WD~Bithynia et Pontus,913382]]"
-  - "[[_Standards/WikiData/WD~Roman Italy,913582]]"
-  - "[[_Standards/WikiData/WD~Britannia Superior,918059]]"
-  - "[[_Standards/WikiData/WD~Dacia,971609]]"
-  - "[[_Standards/WikiData/WD~Judaea,1003997]]"
-  - "[[_Standards/WikiData/WD~Transalpine Gaul,1007736]]"
-  - "[[_Standards/WikiData/WD~Hispania Citerior,1126678]]"
-  - "[[_Standards/WikiData/WD~Dacia Ripensis,1156891]]"
-  - "[[_Standards/WikiData/WD~Moesia Inferior,1227719]]"
-  - "[[_Standards/WikiData/WD~Mauretania Tingitana,1244742]]"
-  - "[[_Standards/WikiData/WD~Lycia et Pamphylia,1246140]]"
-  - "[[_Standards/WikiData/WD~Lower Pannonia,1247297]]"
-  - "[[_Standards/WikiData/WD~Galatia,1249412]]"
-  - "[[_Standards/WikiData/WD~Roman Armenia,1254480]]"
-  - "[[_Standards/WikiData/WD~Dalmatia,1330965]]"
-  - "[[_Standards/WikiData/WD~Syria Palaestina,1669578]]"
-  - "[[_Standards/WikiData/WD~Epirus,1820754]]"
-  - "[[_Standards/WikiData/WD~Cyprus,2967757]]"
-  - "[[_Standards/WikiData/WD~Dacia Mediterranea,3626028]]"
-  - "[[_Standards/WikiData/WD~Cilicia,4819648]]"
-  - "[[_Standards/WikiData/WD~Osroene,11939617]]"
-  - "[[_Standards/WikiData/WD~Syria Phoenice,11950672]]"
-  - "[[_Standards/WikiData/WD~Tres Daciae,12270914]]"
-  - "[[_Standards/WikiData/WD~Numidia,12901244]]"
-  - "[[_Standards/WikiData/WD~Moesia,18236771]]"
-  - "[[_Standards/WikiData/WD~Province of Apulia and Calabria,24901055]]"
-  - "[[_Standards/WikiData/WD~Coele-Syria,27150039]]"
-  - "[[_Standards/WikiData/WD~Gallia Lugdunensis,10971]]"
-  - "[[_Standards/WikiData/WD~Gallia Narbonensis,26897]]"
-  - "[[_Standards/WikiData/WD~Cappadocia,33490]]"
-  - "[[_Standards/WikiData/WD~Assyria,40169]]"
-coat of arms:
-  - "[[_Standards/WikiData/WD~Roman legion,163323]]"
-  - "[[_Standards/WikiData/WD~vexillum,264655]]"
-different from: "[[_Standards/WikiData/WD~Latin Empire,178897]]"
-flag: "[[_Standards/WikiData/WD~vexillum,264655]]"
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~Hibernia,302980]]"
-  - "[[_Standards/WikiData/WD~Han dynasty,7209]]"
-  - "[[_Standards/WikiData/WD~Germania,62646]]"
-religion or worldview: "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
-office held by head of state: "[[_Standards/WikiData/WD~Roman emperor,842606]]"
+basic_form_of_government:
+- '[[_Standards/WikiData/WD~triumvirate,83204]]'
+- '[[_Standards/WikiData/WD~autocracy,173424]]'
+- "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
+- '[[_Standards/WikiData/WD~monarchy,7269]]'
+official_religion:
+- '[[_Standards/WikiData/WD~Arianism,83922]]'
+- "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~paganism,29536]]'
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Germania Inferior,152136]]"
+- "[[_Standards/WikiData/WD~Germania Superior,153553]]"
+- '[[_Standards/WikiData/WD~Raetia,156789]]'
+- '[[_Standards/WikiData/WD~Pannonia,170062]]'
+- '[[_Standards/WikiData/WD~Africa,181238]]'
+- "[[_Standards/WikiData/WD~Roman Britain,185103]]"
+- '[[_Standards/WikiData/WD~Hispania,186513]]'
+- '[[_Standards/WikiData/WD~Lusitania,188650]]'
+- '[[_Standards/WikiData/WD~Achaea,204772]]'
+- "[[_Standards/WikiData/WD~Gallia Belgica,206443]]"
+- "[[_Standards/WikiData/WD~Roman Syria,207118]]"
+- '[[_Standards/WikiData/WD~Macedonia,207497]]'
+- '[[_Standards/WikiData/WD~Asia,210718]]'
+- "[[_Standards/WikiData/WD~Hispania Tarraconensis,216791]]"
+- "[[_Standards/WikiData/WD~Hispania Baetica,219415]]"
+- "[[_Standards/WikiData/WD~Arabia Petraea,221353]]"
+- "[[_Standards/WikiData/WD~Corsica and Sardinia,281345]]"
+- "[[_Standards/WikiData/WD~Alpes Maritimae,309270]]"
+- "[[_Standards/WikiData/WD~Alpes Graiae,360922]]"
+- "[[_Standards/WikiData/WD~Alpes Cottiae,623322]]"
+- '[[_Standards/WikiData/WD~Thracia,635058]]'
+- "[[_Standards/WikiData/WD~Upper Pannonia,642188]]"
+- "[[_Standards/WikiData/WD~Alpes Poeninae,660100]]"
+- "[[_Standards/WikiData/WD~Britannia Inferior,685537]]"
+- '[[_Standards/WikiData/WD~Sicilia,691321]]'
+- "[[_Standards/WikiData/WD~Creta et Cyrenaica,692775]]"
+- "[[_Standards/WikiData/WD~Gallia Aquitania,715376]]"
+- "[[_Standards/WikiData/WD~Mauretania Caesariensis,734505]]"
+- "[[_Standards/WikiData/WD~Hispania Ulterior,747040]]"
+- "[[_Standards/WikiData/WD~Dacia Inferior,748818]]"
+- '[[_Standards/WikiData/WD~Illyricum,753824]]'
+- '[[_Standards/WikiData/WD~Mesopotamia,765845]]'
+- "[[_Standards/WikiData/WD~Bithynia et Pontus,913382]]"
+- "[[_Standards/WikiData/WD~Roman Italy,913582]]"
+- "[[_Standards/WikiData/WD~Britannia Superior,918059]]"
+- '[[_Standards/WikiData/WD~Dacia,971609]]'
+- '[[_Standards/WikiData/WD~Judaea,1003997]]'
+- "[[_Standards/WikiData/WD~Transalpine Gaul,1007736]]"
+- "[[_Standards/WikiData/WD~Hispania Citerior,1126678]]"
+- "[[_Standards/WikiData/WD~Dacia Ripensis,1156891]]"
+- "[[_Standards/WikiData/WD~Moesia Inferior,1227719]]"
+- "[[_Standards/WikiData/WD~Mauretania Tingitana,1244742]]"
+- "[[_Standards/WikiData/WD~Lycia et Pamphylia,1246140]]"
+- "[[_Standards/WikiData/WD~Lower Pannonia,1247297]]"
+- '[[_Standards/WikiData/WD~Galatia,1249412]]'
+- "[[_Standards/WikiData/WD~Roman Armenia,1254480]]"
+- '[[_Standards/WikiData/WD~Dalmatia,1330965]]'
+- "[[_Standards/WikiData/WD~Syria Palaestina,1669578]]"
+- '[[_Standards/WikiData/WD~Epirus,1820754]]'
+- '[[_Standards/WikiData/WD~Cyprus,2967757]]'
+- "[[_Standards/WikiData/WD~Dacia Mediterranea,3626028]]"
+- '[[_Standards/WikiData/WD~Cilicia,4819648]]'
+- '[[_Standards/WikiData/WD~Osroene,11939617]]'
+- "[[_Standards/WikiData/WD~Syria Phoenice,11950672]]"
+- "[[_Standards/WikiData/WD~Tres Daciae,12270914]]"
+- '[[_Standards/WikiData/WD~Numidia,12901244]]'
+- '[[_Standards/WikiData/WD~Moesia,18236771]]'
+- "[[_Standards/WikiData/WD~Province of Apulia and Calabria,24901055]]"
+- '[[_Standards/WikiData/WD~Coele-Syria,27150039]]'
+- "[[_Standards/WikiData/WD~Gallia Lugdunensis,10971]]"
+- "[[_Standards/WikiData/WD~Gallia Narbonensis,26897]]"
+- '[[_Standards/WikiData/WD~Cappadocia,33490]]'
+- '[[_Standards/WikiData/WD~Assyria,40169]]'
+coat_of_arms:
+- "[[_Standards/WikiData/WD~Roman legion,163323]]"
+- '[[_Standards/WikiData/WD~vexillum,264655]]'
+different_from: "[[_Standards/WikiData/WD~Latin Empire,178897]]"
+flag: '[[_Standards/WikiData/WD~vexillum,264655]]'
+diplomatic_relation:
+- '[[_Standards/WikiData/WD~Hibernia,302980]]'
+- "[[_Standards/WikiData/WD~Han dynasty,7209]]"
+- '[[_Standards/WikiData/WD~Germania,62646]]'
+religion_or_worldview: "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Roman emperor,842606]]"
 currency: "[[_Standards/WikiData/WD~Roman currency,952064]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Book of Jin,1154753]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-said to be the same as: "[[_Standards/WikiData/WD~Daqin,1521359]]"
-shares border with: "[[_Standards/WikiData/WD~Parthian Empire,1986139]]"
-history of topic: "[[_Standards/WikiData/WD~history of the Roman Empire,2671119]]"
-instance of:
-  - "[[_Standards/WikiData/WD~historical country,3024240]]"
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
-legislative body: "[[_Standards/WikiData/WD~Senate of the Roman Empire,3510883]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of the Roman Empire,3718695]]"
-participant in: "[[_Standards/WikiData/WD~military history of ancient Rome,3974187]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Book of Jin,1154753]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Daqin,1521359]]'
+shares_border_with: "[[_Standards/WikiData/WD~Parthian Empire,1986139]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of the Roman Empire,2671119]]"
+instance_of:
+- "[[_Standards/WikiData/WD~historical country,3024240]]"
+- "[[_Standards/WikiData/WD~historical period,11514315]]"
+legislative_body: "[[_Standards/WikiData/WD~Senate of the Roman Empire,3510883]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of the Roman Empire,3718695]]"
+participant_in: "[[_Standards/WikiData/WD~military history of ancient Rome,3974187]]"
 capital:
-  - "[[_Standards/WikiData/WD~Roma,18287233]]"
-  - "[[_Standards/WikiData/WD~Milan,490]]"
-  - "[[_Standards/WikiData/WD~Ravenna,13364]]"
-  - "[[_Standards/WikiData/WD~Constantinople,16869]]"
-  - "[[_Standards/WikiData/WD~Rome,220]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of the Roman Empire,21192389]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q21201536,21201536]]"
-category for people born here: "[[_Standards/WikiData/WD~Q32642796,32642796]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42353313,42353313]]"
-category for people who died here: "[[_Standards/WikiData/WD~Q42859641,42859641]]"
-"dissolved, abolished or demolished date": 0395-01-18T00:00:00Z 
-has_time_stopped: 0395-01-18T00:00:00Z 
-end time: 0395-01-01T00:00:00Z
-start time: -0026-01-01T00:00:00Z
+- '[[_Standards/WikiData/WD~Roma,18287233]]'
+- '[[_Standards/WikiData/WD~Milan,490]]'
+- '[[_Standards/WikiData/WD~Ravenna,13364]]'
+- '[[_Standards/WikiData/WD~Constantinople,16869]]'
+- '[[_Standards/WikiData/WD~Rome,220]]'
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Roman Empire,21192389]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201536,21201536]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q32642796,32642796]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353313,42353313]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q42859641,42859641]]'
+dissolved_abolished_or_demolished_date: "0395-01-18T00:00:00Z"
+has_time_stopped: "0395-01-18T00:00:00Z"
+end_time: "0395-01-01T00:00:00Z"
+start_time: "-0026-01-01T00:00:00Z"
 demonym:
-  - erromatar
-  - Rimljan
-  - Rimljanka
-  - Rómhánach
-  - Roman
-  - romana
-  - Römer
-  - Romiano
-  - romanas
-  - romano
-  - romanos
-  - római
-  - Romani
-  - Rzymianin
-  - Rzymianka
-  - romano
-  - римляни
-Commons gallery: Atlas of ancient Rome
-ISNI: "0000000121065979"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Imperio%20romano%20%28hablado%20por%20voz%20AI%29.mp3
-language used:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-official language:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-founded by: "[[_Standards/WikiData/WD~Augustus,1405]]"
-replaced by:
-  - "[[_Standards/WikiData/WD~Byzantine Empire,12544]]"
-  - "[[_Standards/WikiData/WD~Western Roman Empire,42834]]"
-named after:
-  - "[[_Standards/WikiData/WD~Province of Imperia,16186]]"
-  - "[[_Standards/WikiData/WD~Rome,220]]"
+- erromatar
+- Rimljan
+- Rimljanka
+- Rómhánach
+- Roman
+- romana
+- Römer
+- Romiano
+- romanas
+- romano
+- romanos
+- római
+- Romani
+- Rzymianin
+- Rzymianka
+- romano
+- римляни
+Commons_gallery: "Atlas of ancient Rome"
+ISNI: 0000000121065979
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Imperio%20romano%20%28hablado%20por%20voz%20AI%29.mp3"
+language_used:
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+official_language:
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+founded_by: '[[_Standards/WikiData/WD~Augustus,1405]]'
+replaced_by:
+- "[[_Standards/WikiData/WD~Byzantine Empire,12544]]"
+- "[[_Standards/WikiData/WD~Western Roman Empire,42834]]"
+named_after:
+- "[[_Standards/WikiData/WD~Province of Imperia,16186]]"
+- '[[_Standards/WikiData/WD~Rome,220]]'
 continent:
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
 population: 87500000
 area: 5957000
-native label:
-  - Imperium Romanum
-  - Βασιλεία τῶν Ῥωμαίων
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20Theatre%20Leptis%20Magna%20Libya.JPG
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20mosaic%20banner.JPG
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Empire%20Trajan%20117AD.png
-Iconclass notation: 23S14
-OmegaWiki Defined Meaning: "913359"
-Wolfram Language entity code: Entity["HistoricalCountry", "RomanEmpire"]
-Commons category: Roman Empire
-coordinate location: Point(12.5 41.9)
+native_label:
+- "Imperium Romanum"
+- "Βασιλεία τῶν Ῥωμαίων"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20Theatre%20Leptis%20Magna%20Libya.JPG"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20mosaic%20banner.JPG"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Empire%20Trajan%20117AD.png"
+Iconclass_notation: 23S14
+OmegaWiki_Defined_Meaning: 913359
+Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"RomanEmpire\"]"
+Commons_category: "Roman Empire"
+coordinate_location: "Point(12.5 41.9)"
 ---
-
 
 ## #has_/text_of_/abstract 
 

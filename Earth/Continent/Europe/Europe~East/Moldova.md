@@ -1,18 +1,18 @@
----
+﻿---
 location:
-  - 47
-  - 28.9167
+- 47
+- 28.9167
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26958
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Moldova
 linkTitle: 
@@ -22,333 +22,333 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Moldova
-  - Republic of Moldova
-  - República de Moldova
-  - République de Moldova
-  - جمهورية مولدوفا
-  - 摩尔多瓦共和国
-  - Республика Молдова
-  - the Republic of Moldova
-  - Republic of Moldova (the)
-  - la República de Moldova
+- Moldova
+- "Republic of Moldova"
+- "República de Moldova"
+- "République de Moldova"
+- "جمهورية مولدوفا"
+- 摩尔多瓦共和国
+- "Республика Молдова"
+- "the Republic of Moldova"
+- "Republic of Moldova (the)"
+- "la República de Moldova"
 Languages:
-  - ro
-  - ru
-  - gag
-  - tr
+- ro
+- ru
+- gag
+- tr
 icon: flag-md
 has_id_wikidata: Q217
-member of:
-  - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-  - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~GUAM Organization for Democracy and Economic Development,326816]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~Organization of the Black Sea Economic Cooperation,380340]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Commonwealth of Independent States Free Trade Area,1702783]]"
-  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Commonwealth of Independent States,7779]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-lowest point: "[[_Standards/WikiData/WD~Dniester,131210]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Gagauzia,164819]]"
-  - "[[_Standards/WikiData/WD~Ocnița District,266444]]"
-  - "[[_Standards/WikiData/WD~Cimișlia District,286646]]"
-  - "[[_Standards/WikiData/WD~Rîșcani District,611656]]"
-  - "[[_Standards/WikiData/WD~Administrative-Territorial Units of the Left Bank of the Dniester,648767]]"
-  - "[[_Standards/WikiData/WD~Cantemir District,684183]]"
-  - "[[_Standards/WikiData/WD~Briceni District,753795]]"
-  - "[[_Standards/WikiData/WD~Anenii Noi District,769224]]"
-  - "[[_Standards/WikiData/WD~Ungheni District,854443]]"
-  - "[[_Standards/WikiData/WD~Glodeni District,860716]]"
-  - "[[_Standards/WikiData/WD~Drochia District,865594]]"
-  - "[[_Standards/WikiData/WD~Șoldănești District,865639]]"
-  - "[[_Standards/WikiData/WD~Florești District,865726]]"
-  - "[[_Standards/WikiData/WD~Taraclia District,865884]]"
-  - "[[_Standards/WikiData/WD~Nisporeni District,878266]]"
-  - "[[_Standards/WikiData/WD~Dubăsari District,878278]]"
-  - "[[_Standards/WikiData/WD~Edineț District,878290]]"
-  - "[[_Standards/WikiData/WD~Hîncești District,878297]]"
-  - "[[_Standards/WikiData/WD~Strășeni District,878308]]"
-  - "[[_Standards/WikiData/WD~Rezina District,878317]]"
-  - "[[_Standards/WikiData/WD~Fălești District,878375]]"
-  - "[[_Standards/WikiData/WD~Dondușeni District,1061128]]"
-  - "[[_Standards/WikiData/WD~Sîngerei District,1796621]]"
-  - "[[_Standards/WikiData/WD~Leova District,1826662]]"
-  - "[[_Standards/WikiData/WD~Basarabeasca District,1980044]]"
-  - "[[_Standards/WikiData/WD~Orhei District,2112462]]"
-  - "[[_Standards/WikiData/WD~Criuleni District,2128862]]"
-  - "[[_Standards/WikiData/WD~Călărași District,2128868]]"
-  - "[[_Standards/WikiData/WD~Căușeni District,2128869]]"
-  - "[[_Standards/WikiData/WD~Cahul District,2128882]]"
-  - "[[_Standards/WikiData/WD~Ialoveni District,2128964]]"
-  - "[[_Standards/WikiData/WD~Soroca District,2129022]]"
-  - "[[_Standards/WikiData/WD~Telenești District,2129025]]"
-  - "[[_Standards/WikiData/WD~Ștefan Vodă District,2129061]]"
-  - "[[_Standards/WikiData/WD~Chișinău Municipality,17176229]]"
-  - "[[_Standards/WikiData/WD~Bender Municipality,18088065]]"
-  - "[[_Standards/WikiData/WD~Bălți Municipality,29017181]]"
+member_of:
+- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
+- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~GUAM Organization for Democracy and Economic Development,326816]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~Organization of the Black Sea Economic Cooperation,380340]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Commonwealth of Independent States Free Trade Area,1702783]]"
+- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth of Independent States,7779]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+lowest_point: '[[_Standards/WikiData/WD~Dniester,131210]]'
+contains_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Gagauzia,164819]]'
+- "[[_Standards/WikiData/WD~Ocnița District,266444]]"
+- "[[_Standards/WikiData/WD~Cimișlia District,286646]]"
+- "[[_Standards/WikiData/WD~Rîșcani District,611656]]"
+- "[[_Standards/WikiData/WD~Administrative-Territorial Units of the Left Bank of the Dniester,648767]]"
+- "[[_Standards/WikiData/WD~Cantemir District,684183]]"
+- "[[_Standards/WikiData/WD~Briceni District,753795]]"
+- "[[_Standards/WikiData/WD~Anenii Noi District,769224]]"
+- "[[_Standards/WikiData/WD~Ungheni District,854443]]"
+- "[[_Standards/WikiData/WD~Glodeni District,860716]]"
+- "[[_Standards/WikiData/WD~Drochia District,865594]]"
+- "[[_Standards/WikiData/WD~Șoldănești District,865639]]"
+- "[[_Standards/WikiData/WD~Florești District,865726]]"
+- "[[_Standards/WikiData/WD~Taraclia District,865884]]"
+- "[[_Standards/WikiData/WD~Nisporeni District,878266]]"
+- "[[_Standards/WikiData/WD~Dubăsari District,878278]]"
+- "[[_Standards/WikiData/WD~Edineț District,878290]]"
+- "[[_Standards/WikiData/WD~Hîncești District,878297]]"
+- "[[_Standards/WikiData/WD~Strășeni District,878308]]"
+- "[[_Standards/WikiData/WD~Rezina District,878317]]"
+- "[[_Standards/WikiData/WD~Fălești District,878375]]"
+- "[[_Standards/WikiData/WD~Dondușeni District,1061128]]"
+- "[[_Standards/WikiData/WD~Sîngerei District,1796621]]"
+- "[[_Standards/WikiData/WD~Leova District,1826662]]"
+- "[[_Standards/WikiData/WD~Basarabeasca District,1980044]]"
+- "[[_Standards/WikiData/WD~Orhei District,2112462]]"
+- "[[_Standards/WikiData/WD~Criuleni District,2128862]]"
+- "[[_Standards/WikiData/WD~Călărași District,2128868]]"
+- "[[_Standards/WikiData/WD~Căușeni District,2128869]]"
+- "[[_Standards/WikiData/WD~Cahul District,2128882]]"
+- "[[_Standards/WikiData/WD~Ialoveni District,2128964]]"
+- "[[_Standards/WikiData/WD~Soroca District,2129022]]"
+- "[[_Standards/WikiData/WD~Telenești District,2129025]]"
+- "[[_Standards/WikiData/WD~Ștefan Vodă District,2129061]]"
+- "[[_Standards/WikiData/WD~Chișinău Municipality,17176229]]"
+- "[[_Standards/WikiData/WD~Bender Municipality,18088065]]"
+- "[[_Standards/WikiData/WD~Bălți Municipality,29017181]]"
 flag: "[[_Standards/WikiData/WD~flag of Moldova,167584]]"
 replaces:
-  - "[[_Standards/WikiData/WD~Moldavian Soviet Socialist Republic,170895]]"
-  - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- "[[_Standards/WikiData/WD~Moldavian Soviet Socialist Republic,170895]]"
+- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
 follows: "[[_Standards/WikiData/WD~Moldavian Soviet Socialist Republic,170895]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Moldova,201044]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Moldova,201044]]"
 anthem: "[[_Standards/WikiData/WD~Limba noastră,242744]]"
-part of:
-  - "[[_Standards/WikiData/WD~Southeast Europe,263686]]"
-  - "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of Moldova,312271]]"
-history of topic: "[[_Standards/WikiData/WD~history of Moldova,528560]]"
-legislative body: "[[_Standards/WikiData/WD~Parliament of the Republic of Moldova,555809]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Moldova,975172]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Moldova,1769526]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Moldova,1786077]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Moldova,2366865]]"
+part_of:
+- "[[_Standards/WikiData/WD~Southeast Europe,263686]]"
+- "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Moldova,312271]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Moldova,528560]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament of the Republic of Moldova,555809]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Moldova,975172]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Moldova,1769526]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Moldova,1786077]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Moldova,2366865]]"
 culture: "[[_Standards/WikiData/WD~culture of Moldova,2995676]]"
-instance of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-basic form of government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-public holiday: "[[_Standards/WikiData/WD~Independence Day,6016022]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Moldova,7112364]]"
-category for people buried here: "[[_Standards/WikiData/WD~Q7977018,7977018]]"
-named after: "[[_Standards/WikiData/WD~Principality of Moldavia,10957559]]"
-language used:
-  - "[[_Standards/WikiData/WD~Moldovan Sign Language,12953478]]"
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Romanian,7913]]"
-  - "[[_Standards/WikiData/WD~Gagauz,33457]]"
-head of government: "[[_Standards/WikiData/WD~Dorin Recean,13407948]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Moldova,13410410]]"
-railway traffic side: "[[_Standards/WikiData/WD~right,14565199]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-head of state: "[[_Standards/WikiData/WD~Maia Sandu,15071069]]"
-different from: "[[_Standards/WikiData/WD~Moldavia,18366588]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27102935,27102935]]"
-open data portal: "[[_Standards/WikiData/WD~Government Open Data Portal Moldova,97013496]]"
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Moldova%20Europe.png
-UMLS CUI: C0026374
+instance_of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
+public_holiday: "[[_Standards/WikiData/WD~Independence Day,6016022]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Moldova,7112364]]"
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7977018,7977018]]'
+named_after: "[[_Standards/WikiData/WD~Principality of Moldavia,10957559]]"
+language_used:
+- "[[_Standards/WikiData/WD~Moldovan Sign Language,12953478]]"
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Romanian,7913]]'
+- '[[_Standards/WikiData/WD~Gagauz,33457]]'
+head_of_government: "[[_Standards/WikiData/WD~Dorin Recean,13407948]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Moldova,13410410]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+head_of_state: "[[_Standards/WikiData/WD~Maia Sandu,15071069]]"
+different_from: '[[_Standards/WikiData/WD~Moldavia,18366588]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27102935,27102935]]'
+open_data_portal: "[[_Standards/WikiData/WD~Government Open Data Portal Moldova,97013496]]"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Moldova%20Europe.png"
+UMLS_CUI: C0026374
 demonym:
-  - مولدوڤي
-  - مولدوڤية
-  - مولدوڤيين
-  - مولدوڤيات
-  - Moldóvach
-  - Moldave
-  - Moldovan
-  - Moldavian
-  - moldovean
-  - moldoveancă
-  - moldoveni
-  - молдаване
-  - молдаванин
-  - молдаванка
-  - moldava
-  - moldave
-  - moldavi
-  - moldavo
-  - Moldavänan
-  - مولدوفي
-  - مولدوفية
-  - مولدوفيون
-  - moldava
-  - moldavu
-  - মলদোভীয়
-  - moldau
-  - moldaus
-  - moldava
-  - Moldauer
-  - moldavo
-  - מולדובי
-  - מולדובית
-  - moldáv
-  - Moldovano
-  - moldava
-  - moldave
-  - moldavi
-  - moldavo
-  - moldovan
-coordinates of westernmost point: Point(26.61692262 48.27418206)
-motto text:
-  - Dewch i Ddarganfod Taith Bywyd
-  - Discover the routes of life
-IPA transcription: molˈdova
-MeSH tree code:
-  - Z01.542.248.540
-  - Z01.542.931.540
-  - Z01.586.950.540
-nominal GDP:
-  - 13692230147
-  - 14420947884
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~European Union,458]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Slovenia,215]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-located in time zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-official language: "[[_Standards/WikiData/WD~Romanian,7913]]"
-capital: "[[_Standards/WikiData/WD~Chișinău,21197]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-VAT rate: 20
-shares border with:
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-country: "[[_Standards/WikiData/WD~Moldova,217]]"
-unemployment rate: 3
-age of majority: 18
-mains voltage: 220
-Gini coefficient: 26
-BTI Governance Index:
-  - 3.5
-  - 5.5
-  - 4.46
-  - 4.49
-  - 4.89
-  - 4.99
-  - 5.15
-  - 5.31
-  - 5.39
-Happy Planet Index score: 51
-top-level Internet domain: "[[_Standards/WikiData/WD~.md,40324]]"
-highest point: "[[_Standards/WikiData/WD~Bălănești Hill,47940]]"
-trunk prefix: "0"
-BTI Status Index:
-  - 5.06
-  - 5.78
-  - 5.79
-  - 5.91
-  - 5.93
-  - 5.96
-  - 6.24
-  - 6.33
-GS1 country code: "484"
-Democracy Index: 5.78
-Inequality-adjusted Human Development Index: 0.711
-Human Development Index: 0.767
-total fertility rate: 1.256
-UIC numerical country code: "23"
-mobile country code: "259"
+- مولدوڤي
+- مولدوڤية
+- مولدوڤيين
+- مولدوڤيات
+- Moldóvach
+- Moldave
+- Moldovan
+- Moldavian
+- moldovean
+- moldoveancă
+- moldoveni
+- молдаване
+- молдаванин
+- молдаванка
+- moldava
+- moldave
+- moldavi
+- moldavo
+- Moldavänan
+- مولدوفي
+- مولدوفية
+- مولدوفيون
+- moldava
+- moldavu
+- মলদোভীয়
+- moldau
+- moldaus
+- moldava
+- Moldauer
+- moldavo
+- מולדובי
+- מולדובית
+- moldáv
+- Moldovano
+- moldava
+- moldave
+- moldavi
+- moldavo
+- moldovan
+coordinates_of_westernmost_point: "Point(26.61692262 48.27418206)"
+motto_text:
+- "Dewch i Ddarganfod Taith Bywyd"
+- "Discover the routes of life"
+IPA_transcription: molˈdova
+MeSH_tree_code:
+- Z01.542.248.540
+- Z01.542.931.540
+- Z01.586.950.540
+nominal_GDP:
+- 13692230147
+- 14420947884
+diplomatic_relation:
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~European Union,458]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+official_language: '[[_Standards/WikiData/WD~Romanian,7913]]'
+capital: '[[_Standards/WikiData/WD~Chișinău,21197]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+VAT_rate: 20
+shares_border_with:
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+country: '[[_Standards/WikiData/WD~Moldova,217]]'
+unemployment_rate: 3
+age_of_majority: 18
+mains_voltage: 220
+Gini_coefficient: 26
+BTI_Governance_Index:
+- 3.5
+- 5.5
+- 4.46
+- 4.49
+- 4.89
+- 4.99
+- 5.15
+- 5.31
+- 5.39
+Happy_Planet_Index_score: 51
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.md,40324]]'
+highest_point: "[[_Standards/WikiData/WD~Bălănești Hill,47940]]"
+trunk_prefix: 0
+BTI_Status_Index:
+- 5.06
+- 5.78
+- 5.79
+- 5.91
+- 5.93
+- 5.96
+- 6.24
+- 6.33
+GS1_country_code: 484
+Democracy_Index: 5.78
+Inequality-adjusted_Human_Development_Index: 0.711
+Human_Development_Index: 0.767
+total_fertility_rate: 1.256
+UIC_numerical_country_code: 23
+mobile_country_code: 259
 subreddit:
-  - "373"
-  - moldova
-death rate:
-  - 16.36
-  - 13.089
-  - 14.445
-  - 16.609
-IAB code: "1448"
-life expectancy: 71.61
-birth rate:
-  - 12.148
-  - 12.432
-  - 12.481
-  - 12.894
-ISO 3166-1 numeric code: "498"
-M49 code: "498"
-maritime identification digits: "214"
-OmegaWiki Defined Meaning: "8077"
-number of out-of-school children: 75391
-male population:
-  - 1232180
-  - 1208783
-  - 1251834
-  - 1266405
-Dewey Decimal Classification: 2--476
-female population:
-  - 1363630
-  - 1330111
-  - 1383296
-  - 1397819
-FIPS 10-4 (countries and regions): MD
-licence plate code: MD
-ISO 3166-1 alpha-2 code: MD
-WIPO ST.3: MD
-UIC alphabetical country code: MD
+- 373
+- moldova
+death_rate:
+- 16.36
+- 13.089
+- 14.445
+- 16.609
+IAB_code: 1448
+life_expectancy: 71.61
+birth_rate:
+- 12.148
+- 12.432
+- 12.481
+- 12.894
+ISO_3166-1_numeric_code: 498
+M49_code: 498
+maritime_identification_digits: 214
+OmegaWiki_Defined_Meaning: 8077
+number_of_out-of-school_children: 75391
+male_population:
+- 1232180
+- 1208783
+- 1251834
+- 1266405
+Dewey_Decimal_Classification: 2--476
+female_population:
+- 1363630
+- 1330111
+- 1383296
+- 1397819
+FIPS_10-4_countries_and_regions_: MD
+licence_plate_code: MD
+ISO_3166-1_alpha-2_code: MD
+WIPO_ST_3: MD
+UIC_alphabetical_country_code: MD
 area: 33843.5
-IOC country code: MDA
-ISO 3166-1 alpha-3 code: MDA
-ITU letter code: MDA
-INSEE countries and foreign territories code: "99151"
-urban population:
-  - 1096117
-  - 1116146
-  - 1129127
-  - 1138316
-rural population:
-  - 1442777
-  - 1479663
-  - 1506003
-  - 1525908
-native label: Moldova
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Moldova.svg
+IOC_country_code: MDA
+ISO_3166-1_alpha-3_code: MDA
+ITU_letter_code: MDA
+INSEE_countries_and_foreign_territories_code: 99151
+urban_population:
+- 1096117
+- 1116146
+- 1129127
+- 1138316
+rural_population:
+- 1442777
+- 1479663
+- 1506003
+- 1525908
+native_label: Moldova
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Moldova.svg"
 population: 2603813
-U.S. National Archives Identifier: "10045270"
-country calling code: "+373"
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Moldova.svg
-inception: 1991-08-27T00:00:00Z 
-has_time_started: 1991-08-27T00:00:00Z 
-coordinates of easternmost point: Point(30.16235769 46.41360763)
-official name:
-  - Republica Moldova
-  - República da Moldova
-  - Republiken Moldavien
-name in native language: Republica Moldova
-GitHub topic: moldova
-CIVICUS Monitor country entry: moldova
-short name: 🇲🇩
-coordinates of northernmost point: Point(27.58 48.48)
-coordinate location: Point(28.516667 47.25)
-Commons gallery: Moldova
-Commons category: Moldova
+U_S_National_Archives_Identifier: 10045270
+country_calling_code: +373
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Moldova.svg"
+inception: "1991-08-27T00:00:00Z"
+has_time_started: "1991-08-27T00:00:00Z"
+coordinates_of_easternmost_point: "Point(30.16235769 46.41360763)"
+official_name:
+- "Republica Moldova"
+- "República da Moldova"
+- "Republiken Moldavien"
+name_in_native_language: "Republica Moldova"
+GitHub_topic: moldova
+CIVICUS_Monitor_country_entry: moldova
+short_name: "\U0001F1F2\U0001F1E9"
+coordinates_of_northernmost_point: "Point(27.58 48.48)"
+coordinate_location: "Point(28.516667 47.25)"
+Commons_gallery: Moldova
+Commons_category: Moldova
 hashtag: Moldova
-coordinates of southernmost point: Point(28.21296036 45.4688367)
-geoshape: http://commons.wikimedia.org/data/main/Data:Moldova.map
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Moldawien.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Republica%20Moldova.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/MoldRelief.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20Moldova%20banner.jpg
-official website: http://www.moldova.md/
-BHCL UUID: 014530d4-a223-4ac7-b37e-4718c9bc3470
+coordinates_of_southernmost_point: "Point(28.21296036 45.4688367)"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Moldova.map"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Moldawien.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Republica%20Moldova.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/MoldRelief.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20Moldova%20banner.jpg"
+official_website: "http://www.moldova.md/"
+BHCL_UUID: 014530d4-a223-4ac7-b37e-4718c9bc3470
 Libris-URI: b8nqpkcv3tsj8ml
-Unicode character: 🇲🇩
-Colon Classification: SG--586
-Krugosvet article: strany_mira/MOLDAVIYA.html
+Unicode_character: "\U0001F1F2\U0001F1E9"
+Colon_Classification: SG--586
+Krugosvet_article: strany_mira/MOLDAVIYA.html
 ---
 
 # [[Moldova]] 

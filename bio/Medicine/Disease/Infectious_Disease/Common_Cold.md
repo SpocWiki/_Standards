@@ -1,93 +1,92 @@
----
+﻿---
 has_id_wikidata: Q12125
-UMLS CUI:
-  - C0009443
-  - C0086066
-MeSH tree code:
-  - C08.730.162
-  - C01.748.162
-  - C01.925.782.687.207
-Commons category: Common cold
-health specialty:
-  - "[[_Standards/WikiData/WD~otolaryngology,189553]]"
-  - "[[_Standards/WikiData/WD~infectious diseases,788926]]"
-  - "[[_Standards/WikiData/WD~family medicine,3505712]]"
-symptoms and signs:
-  - "[[_Standards/WikiData/WD~tinnitus,192309]]"
-  - "[[_Standards/WikiData/WD~snoring,205835]]"
-  - "[[_Standards/WikiData/WD~runny nose,1115038]]"
-  - "[[_Standards/WikiData/WD~sore throat,1292082]]"
-  - "[[_Standards/WikiData/WD~nasal congestion,3245488]]"
-  - "[[_Standards/WikiData/WD~headache,86]]"
-  - "[[_Standards/WikiData/WD~cough,35805]]"
-  - "[[_Standards/WikiData/WD~sneeze,35830]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-has cause:
-  - "[[_Standards/WikiData/WD~Adenoviridae,193447]]"
-  - "[[_Standards/WikiData/WD~human bocavirus,667756]]"
-  - "[[_Standards/WikiData/WD~human metapneumovirus,743338]]"
-  - "[[_Standards/WikiData/WD~respiratory syncytial virus,1052913]]"
-  - "[[_Standards/WikiData/WD~Coronaviridae,1134583]]"
-  - "[[_Standards/WikiData/WD~Rhinovirus,1351647]]"
-  - "[[_Standards/WikiData/WD~human parainfluenza,2051533]]"
-drug or therapy used for treatment:
-  - "[[_Standards/WikiData/WD~zinc chloride,204714]]"
-  - "[[_Standards/WikiData/WD~(+)-norephedrin,413147]]"
-  - "[[_Standards/WikiData/WD~guaifenesin,420682]]"
-  - "[[_Standards/WikiData/WD~sodium ascorbate,424551]]"
-  - "[[_Standards/WikiData/WD~Vicks VapoRub,3123711]]"
-  - "[[_Standards/WikiData/WD~zinc gluconate,3822815]]"
-  - "[[_Standards/WikiData/WD~paracetamol,57055]]"
-does not have cause: "[[_Standards/WikiData/WD~cold,270952]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~adenovirus infection,837054]]"
-  - "[[_Standards/WikiData/WD~human parainfluenza,2051533]]"
-  - "[[_Standards/WikiData/WD~respiratory syncytial virus infectious disease,18554367]]"
-  - "[[_Standards/WikiData/WD~coronavirus disease,18975243]]"
-  - "[[_Standards/WikiData/WD~Rhinovirus infection,22461944]]"
-  - "[[_Standards/WikiData/WD~Bocavirus infection,56244339]]"
-  - "[[_Standards/WikiData/WD~metapneumovirus infection,56634075]]"
-disease transmission process:
-  - "[[_Standards/WikiData/WD~droplet infection,871752]]"
-  - "[[_Standards/WikiData/WD~airborne transmission,11986959]]"
-  - "[[_Standards/WikiData/WD~direct transmission,15304504]]"
-  - "[[_Standards/WikiData/WD~contact transmission,15304512]]"
-  - "[[_Standards/WikiData/WD~fomite transmission,88103997]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~upper respiratory tract infection,2622199]]"
-  - "[[_Standards/WikiData/WD~nasopharyngitis,3936113]]"
-  - "[[_Standards/WikiData/WD~upper respiratory tract disease,18558209]]"
-  - "[[_Standards/WikiData/WD~Picornaviridae infectious disease,18975569]]"
-  - "[[_Standards/WikiData/WD~acute viral respiratory tract infection,55790495]]"
-  - "[[_Standards/WikiData/WD~viral rhinitis,111527211]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Common cold,6383067]]"
-instance of:
-  - "[[_Standards/WikiData/WD~infectious disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
-ICD-9-CM: "460"
-IAB code: "315"
-DiseasesDB: "31088"
+UMLS_CUI:
+- C0009443
+- C0086066
+MeSH_tree_code:
+- C08.730.162
+- C01.748.162
+- C01.925.782.687.207
+Commons_category: "Common cold"
+health_specialty:
+- '[[_Standards/WikiData/WD~otolaryngology,189553]]'
+- "[[_Standards/WikiData/WD~infectious diseases,788926]]"
+- "[[_Standards/WikiData/WD~family medicine,3505712]]"
+symptoms_and_signs:
+- '[[_Standards/WikiData/WD~tinnitus,192309]]'
+- '[[_Standards/WikiData/WD~snoring,205835]]'
+- "[[_Standards/WikiData/WD~runny nose,1115038]]"
+- "[[_Standards/WikiData/WD~sore throat,1292082]]"
+- "[[_Standards/WikiData/WD~nasal congestion,3245488]]"
+- '[[_Standards/WikiData/WD~headache,86]]'
+- '[[_Standards/WikiData/WD~cough,35805]]'
+- '[[_Standards/WikiData/WD~sneeze,35830]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
+has_cause:
+- '[[_Standards/WikiData/WD~Adenoviridae,193447]]'
+- "[[_Standards/WikiData/WD~human bocavirus,667756]]"
+- "[[_Standards/WikiData/WD~human metapneumovirus,743338]]"
+- "[[_Standards/WikiData/WD~respiratory syncytial virus,1052913]]"
+- '[[_Standards/WikiData/WD~Coronaviridae,1134583]]'
+- '[[_Standards/WikiData/WD~Rhinovirus,1351647]]'
+- "[[_Standards/WikiData/WD~human parainfluenza,2051533]]"
+drug_or_therapy_used_for_treatment:
+- "[[_Standards/WikiData/WD~zinc chloride,204714]]"
+- '[[_Standards/WikiData/WD~(+)-norephedrin,413147]]'
+- '[[_Standards/WikiData/WD~guaifenesin,420682]]'
+- "[[_Standards/WikiData/WD~sodium ascorbate,424551]]"
+- "[[_Standards/WikiData/WD~Vicks VapoRub,3123711]]"
+- "[[_Standards/WikiData/WD~zinc gluconate,3822815]]"
+- '[[_Standards/WikiData/WD~paracetamol,57055]]'
+does_not_have_cause: '[[_Standards/WikiData/WD~cold,270952]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~adenovirus infection,837054]]"
+- "[[_Standards/WikiData/WD~human parainfluenza,2051533]]"
+- "[[_Standards/WikiData/WD~respiratory syncytial virus infectious disease,18554367]]"
+- "[[_Standards/WikiData/WD~coronavirus disease,18975243]]"
+- "[[_Standards/WikiData/WD~Rhinovirus infection,22461944]]"
+- "[[_Standards/WikiData/WD~Bocavirus infection,56244339]]"
+- "[[_Standards/WikiData/WD~metapneumovirus infection,56634075]]"
+disease_transmission_process:
+- "[[_Standards/WikiData/WD~droplet infection,871752]]"
+- "[[_Standards/WikiData/WD~airborne transmission,11986959]]"
+- "[[_Standards/WikiData/WD~direct transmission,15304504]]"
+- "[[_Standards/WikiData/WD~contact transmission,15304512]]"
+- "[[_Standards/WikiData/WD~fomite transmission,88103997]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~upper respiratory tract infection,2622199]]"
+- '[[_Standards/WikiData/WD~nasopharyngitis,3936113]]'
+- "[[_Standards/WikiData/WD~upper respiratory tract disease,18558209]]"
+- "[[_Standards/WikiData/WD~Picornaviridae infectious disease,18975569]]"
+- "[[_Standards/WikiData/WD~acute viral respiratory tract infection,55790495]]"
+- "[[_Standards/WikiData/WD~viral rhinitis,111527211]]"
+- '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Common cold,6383067]]"
+instance_of:
+- "[[_Standards/WikiData/WD~infectious disease,18123741]]"
+- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+- "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
+ICD-9-CM: 460
+IAB_code: 315
+DiseasesDB: 31088
 ICD-10-CM: J00
-OmegaWiki Defined Meaning: "1178541"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-rhume.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhinovirus%20isosurface.png
-exact match:
-  - http://identifiers.org/doid/DOID:10459
-  - http: //purl.obolibrary.org/obo/DOID_10459
-Dewey Decimal Classification: "616.205"
+OmegaWiki_Defined_Meaning: 1178541
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-rhume.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhinovirus%20isosurface.png"
+exact_match:
+- "http://identifiers.org/doid/DOID:10459"
+- http: //purl.obolibrary.org/obo/DOID_10459
+Dewey_Decimal_Classification: 616.205
 ---
-
 
 ## #has_/text_of_/abstract 
 

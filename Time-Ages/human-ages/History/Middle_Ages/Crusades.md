@@ -1,48 +1,47 @@
----
+﻿---
 has_id_wikidata: Q12546
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-subclass of: "[[_Standards/WikiData/WD~military campaign,831663]]"
-different from: "[[_Standards/WikiData/WD~Crusade,1037072]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Campaignbox Crusades,6855578]]"
-  - "[[_Standards/WikiData/WD~Q22706102,22706102]]"
-  - "[[_Standards/WikiData/WD~Q25721385,25721385]]"
-has list: "[[_Standards/WikiData/WD~list of main crusades to the land of Israel,7055142]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20deuxi%C3%A8me%20croisade.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Crusades%20Banner.jpg
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BD%D5%A1%D5%B9%D5%A1%D5%AF%D6%80%D5%A1%D6%81%20%D5%A1%D6%80%D5%B7%D5%A1%D5%BE%D5%A1%D5%B6%D6%84%D5%B6%D5%A5%D6%80%20%28Crusades%29.ogg
-Krugosvet article: istoriya/krestovye-pohody
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Crusades,10730110]]"
-instance of:
-  - "[[_Standards/WikiData/WD~holy war,13573188]]"
-  - "[[_Standards/WikiData/WD~series of wars,104212151]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~Crusader battles between 1101 and 1145,52145365]]"
-  - "[[_Standards/WikiData/WD~Crusader battles between 1149 and 1189,52145976]]"
-Dewey Decimal Classification:
-  - "909.07"
-  - "940.18"
-  - "956.014"
-  - "944.023"
-  - "949.503"
-  - "956.94032"
-  - "270.4"
-end time: 1291-01-01T00:00:00Z
-Commons category: Crusades
-OmegaWiki Defined Meaning: "709200"
-start time: 1095-01-01T00:00:00Z
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
+subclass_of: "[[_Standards/WikiData/WD~military campaign,831663]]"
+different_from: '[[_Standards/WikiData/WD~Crusade,1037072]]'
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Campaignbox Crusades,6855578]]"
+- '[[_Standards/WikiData/WD~Q22706102,22706102]]'
+- '[[_Standards/WikiData/WD~Q25721385,25721385]]'
+has_list: "[[_Standards/WikiData/WD~list of main crusades to the land of Israel,7055142]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20deuxi%C3%A8me%20croisade.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Crusades%20Banner.jpg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BD%D5%A1%D5%B9%D5%A1%D5%AF%D6%80%D5%A1%D6%81%20%D5%A1%D6%80%D5%B7%D5%A1%D5%BE%D5%A1%D5%B6%D6%84%D5%B6%D5%A5%D6%80%20%28Crusades%29.ogg"
+Krugosvet_article: istoriya/krestovye-pohody
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Crusades,10730110]]'
+instance_of:
+- "[[_Standards/WikiData/WD~holy war,13573188]]"
+- "[[_Standards/WikiData/WD~series of wars,104212151]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~Crusader battles between 1101 and 1145,52145365]]"
+- "[[_Standards/WikiData/WD~Crusader battles between 1149 and 1189,52145976]]"
+Dewey_Decimal_Classification:
+- 909.07
+- 940.18
+- 956.014
+- 944.023
+- 949.503
+- 956.94032
+- 270.4
+end_time: "1291-01-01T00:00:00Z"
+Commons_category: Crusades
+OmegaWiki_Defined_Meaning: 709200
+start_time: "1095-01-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

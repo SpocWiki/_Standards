@@ -1,74 +1,74 @@
----
+﻿---
 has_id_wikidata: Q80294
-NSC number: "225105"
-E number: E460
-described at URL: https://www.fpl.fs.fed.us/documnts/pdf2013/fpl_2013_rowell002.pdf
-Commons category: Cellulose
-subclass of:
-  - "[[_Standards/WikiData/WD~polysaccharide,134219]]"
-  - "[[_Standards/WikiData/WD~raw material,192355]]"
-  - "[[_Standards/WikiData/WD~primary metabolite,3333419]]"
-  - "[[_Standards/WikiData/WD~holocellulose,12020010]]"
-has use:
-  - "[[_Standards/WikiData/WD~cellulose fiber,189109]]"
-  - "[[_Standards/WikiData/WD~food additive,189567]]"
-  - "[[_Standards/WikiData/WD~raw material,192355]]"
-  - "[[_Standards/WikiData/WD~excipient,902638]]"
-  - "[[_Standards/WikiData/WD~thickener,911138]]"
-  - "[[_Standards/WikiData/WD~powder explosive,21290872]]"
-  - "[[_Standards/WikiData/WD~fuel,42501]]"
-has characteristic: "[[_Standards/WikiData/WD~hygroscopy,216678]]"
-instance of:
-  - "[[_Standards/WikiData/WD~glucan,416796]]"
-  - "[[_Standards/WikiData/WD~flammable solid,21073024]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Anselme Payen,560917]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-associated hazard: "[[_Standards/WikiData/WD~cellulose exposure,21173544]]"
-has effect: "[[_Standards/WikiData/WD~cellulose exposure,21173544]]"
-part of:
-  - "[[_Standards/WikiData/WD~cellulose metabolic process,22281695]]"
-  - "[[_Standards/WikiData/WD~cellulose catabolic process,22281696]]"
-  - "[[_Standards/WikiData/WD~cellulose biosynthetic process,22282983]]"
-  - "[[_Standards/WikiData/WD~cellulose binding,22313190]]"
-named after: "[[_Standards/WikiData/WD~plant-type cell wall,22328096]]"
-different from: "[[_Standards/WikiData/WD~Celuloza,28030048]]"
-safety classification and labelling: "[[_Standards/WikiData/WD~NFPA 704_ Standard System for the Identification of the Hazards of Materials for Emergency Response,51139288]]"
-chemical structure: http://commons.wikimedia.org/wiki/Special:FilePath/Cellulose%20Sessel.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Plant%20cell%20wall%20diagram-en.svg
-EC number: 232-674-9
-CAS Registry Number: 9004-34-6
-MeSH tree code:
-  - D05.750.078.562.180
-  - D09.698.365.180
-  - D25.720.099.500
-  - J01.637.051.720.099.500
-RTECS number: FJ5691460
+NSC_number: 225105
+E_number: E460
+described_at_URL: "https://www.fpl.fs.fed.us/documnts/pdf2013/fpl_2013_rowell002.pdf"
+Commons_category: Cellulose
+subclass_of:
+- '[[_Standards/WikiData/WD~polysaccharide,134219]]'
+- "[[_Standards/WikiData/WD~raw material,192355]]"
+- "[[_Standards/WikiData/WD~primary metabolite,3333419]]"
+- '[[_Standards/WikiData/WD~holocellulose,12020010]]'
+has_use:
+- "[[_Standards/WikiData/WD~cellulose fiber,189109]]"
+- "[[_Standards/WikiData/WD~food additive,189567]]"
+- "[[_Standards/WikiData/WD~raw material,192355]]"
+- '[[_Standards/WikiData/WD~excipient,902638]]'
+- '[[_Standards/WikiData/WD~thickener,911138]]'
+- "[[_Standards/WikiData/WD~powder explosive,21290872]]"
+- '[[_Standards/WikiData/WD~fuel,42501]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
+instance_of:
+- '[[_Standards/WikiData/WD~glucan,416796]]'
+- "[[_Standards/WikiData/WD~flammable solid,21073024]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Anselme Payen,560917]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+associated_hazard: "[[_Standards/WikiData/WD~cellulose exposure,21173544]]"
+has_effect: "[[_Standards/WikiData/WD~cellulose exposure,21173544]]"
+part_of:
+- "[[_Standards/WikiData/WD~cellulose metabolic process,22281695]]"
+- "[[_Standards/WikiData/WD~cellulose catabolic process,22281696]]"
+- "[[_Standards/WikiData/WD~cellulose biosynthetic process,22282983]]"
+- "[[_Standards/WikiData/WD~cellulose binding,22313190]]"
+named_after: "[[_Standards/WikiData/WD~plant-type cell wall,22328096]]"
+different_from: '[[_Standards/WikiData/WD~Celuloza,28030048]]'
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA 704_ Standard System for the Identification of the Hazards of Materials for Emergency Response,51139288]]"
+chemical_structure: "http://commons.wikimedia.org/wiki/Special:FilePath/Cellulose%20Sessel.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plant%20cell%20wall%20diagram-en.svg"
+EC_number: 232-674-9
+CAS_Registry_Number: 9004-34-6
+MeSH_tree_code:
+- D05.750.078.562.180
+- D09.698.365.180
+- D25.720.099.500
+- J01.637.051.720.099.500
+RTECS_number: FJ5691460
 UNII:
-  - I355QGZ19A
-  - OP1R32D61U
-  - SMD1X3XO9M
-Krugosvet article: nauka_i_tehnika/biologiya/TSELLYULOZA.html
+- I355QGZ19A
+- OP1R32D61U
+- SMD1X3XO9M
+Krugosvet_article: nauka_i_tehnika/biologiya/TSELLYULOZA.html
 mass: 370.147512
-has part(s):
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-vapor pressure: 0
-time-weighted average exposure limit:
-  - 10
-  - 5
-  - 15
-decomposition point:
-  - 500
-  - 518
+has_part_s_:
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
+vapor_pressure: 0
+time-weighted_average_exposure_limit:
+- 10
+- 5
+- 15
+decomposition_point:
+- 500
+- 518
 density: 1.5
-ZVG number: "12570"
-CosIng number: "32480"
+ZVG_number: 12570
+CosIng_number: 32480
 ---
 
 #is_/instance_of :: [[../Polysaccharide]] 

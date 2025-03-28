@@ -1,55 +1,54 @@
----
+﻿---
 aliases:
-  - Vietnam War
+- "Vietnam War"
 has_id_wikidata: Q8740
 participant:
-  - "[[_Standards/WikiData/WD~North Vietnam,172640]]"
-  - "[[_Standards/WikiData/WD~National Liberation Front of South Vietnam,174423]]"
-  - "[[_Standards/WikiData/WD~Republic of Vietnam,180573]]"
-  - "[[_Standards/WikiData/WD~Khmer Rouge,191764]]"
-  - "[[_Standards/WikiData/WD~GRUNK,221066]]"
-  - "[[_Standards/WikiData/WD~Pathet Lao,858887]]"
-  - "[[_Standards/WikiData/WD~Kingdom of Laos,870055]]"
-  - "[[_Standards/WikiData/WD~Khmer Republic,1054184]]"
-  - "[[_Standards/WikiData/WD~Kingdom of Cambodia,2638486]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~New Zealand,664]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-  - "[[_Standards/WikiData/WD~South Korea,884]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~North Vietnam,172640]]"
+- "[[_Standards/WikiData/WD~National Liberation Front of South Vietnam,174423]]"
+- "[[_Standards/WikiData/WD~Republic of Vietnam,180573]]"
+- "[[_Standards/WikiData/WD~Khmer Rouge,191764]]"
+- '[[_Standards/WikiData/WD~GRUNK,221066]]'
+- "[[_Standards/WikiData/WD~Pathet Lao,858887]]"
+- "[[_Standards/WikiData/WD~Kingdom of Laos,870055]]"
+- "[[_Standards/WikiData/WD~Khmer Republic,1054184]]"
+- "[[_Standards/WikiData/WD~Kingdom of Cambodia,2638486]]"
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- '[[_Standards/WikiData/WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Thailand,869]]'
+- "[[_Standards/WikiData/WD~South Korea,884]]"
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
 location:
-  - "[[_Standards/WikiData/WD~North Vietnam,172640]]"
-  - "[[_Standards/WikiData/WD~Republic of Vietnam,180573]]"
-  - "[[_Standards/WikiData/WD~Cambodia,424]]"
-  - "[[_Standards/WikiData/WD~Laos,819]]"
-instance of: "[[_Standards/WikiData/WD~proxy war,864113]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Campaignbox Vietnam War,8085558]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of the Vietnam War,8192852]]"
-order of battle:
-  - "[[_Standards/WikiData/WD~order of battle of the Vietnam War,12598128]]"
-  - "[[_Standards/WikiData/WD~Order of battle of Australian forces during the Vietnam War,21005872]]"
-UMLS CUI: C1449760
-MeSH tree code:
-  - I01.880.735.950.250.937
-  - K01.400.504.968.850
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vietnamkrieg.ogg
-number of deaths:
-  - 1291426
-  - 4211459
-end time: 1975-04-30T00:00:00Z
-video: http://commons.wikimedia.org/wiki/Special:FilePath/1965-02-08%20Showdown%20in%20Vietnam.ogv
-image: http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg
-U.S. National Archives Identifier: "10643608"
-Krugosvet article: istoriya/VETNAMSKAYA_VONA.html
-Commons category: Vietnam War
-start time: 1955-11-01T00:00:00Z
+- "[[_Standards/WikiData/WD~North Vietnam,172640]]"
+- "[[_Standards/WikiData/WD~Republic of Vietnam,180573]]"
+- '[[_Standards/WikiData/WD~Cambodia,424]]'
+- '[[_Standards/WikiData/WD~Laos,819]]'
+instance_of: "[[_Standards/WikiData/WD~proxy war,864113]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Campaignbox Vietnam War,8085558]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Vietnam War,8192852]]"
+order_of_battle:
+- "[[_Standards/WikiData/WD~order of battle of the Vietnam War,12598128]]"
+- "[[_Standards/WikiData/WD~Order of battle of Australian forces during the Vietnam War,21005872]]"
+UMLS_CUI: C1449760
+MeSH_tree_code:
+- I01.880.735.950.250.937
+- K01.400.504.968.850
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Vietnamkrieg.ogg"
+number_of_deaths:
+- 1291426
+- 4211459
+end_time: "1975-04-30T00:00:00Z"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/1965-02-08%20Showdown%20in%20Vietnam.ogv"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg"
+U_S_National_Archives_Identifier: 10643608
+Krugosvet_article: istoriya/VETNAMSKAYA_VONA.html
+Commons_category: "Vietnam War"
+start_time: "1955-11-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

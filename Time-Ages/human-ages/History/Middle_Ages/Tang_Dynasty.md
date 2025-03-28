@@ -1,74 +1,73 @@
----
+﻿---
 has_id_wikidata: Q9683
-basic form of government: "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
-depicted by:
-  - "[[_Standards/WikiData/WD~New Book of Tang,386073]]"
-  - "[[_Standards/WikiData/WD~Old Book of Tang,1146980]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-replaced by:
-  - "[[_Standards/WikiData/WD~Later Liang dynasty,783489]]"
-  - "[[_Standards/WikiData/WD~Zhou dynasty (690–705),835435]]"
-  - "[[_Standards/WikiData/WD~Wu,1323195]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
+depicted_by:
+- "[[_Standards/WikiData/WD~New Book of Tang,386073]]"
+- "[[_Standards/WikiData/WD~Old Book of Tang,1146980]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+replaced_by:
+- "[[_Standards/WikiData/WD~Later Liang dynasty,783489]]"
+- "[[_Standards/WikiData/WD~Zhou dynasty (690–705),835435]]"
+- '[[_Standards/WikiData/WD~Wu,1323195]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Zhou dynasty (690–705),835435]]"
-  - "[[_Standards/WikiData/WD~Gaochang Kingdom (Qu clan),11175560]]"
-  - "[[_Standards/WikiData/WD~Qi (Huang Chao),11180184]]"
-  - "[[_Standards/WikiData/WD~Sui dynasty,7405]]"
-  - "[[_Standards/WikiData/WD~Goguryeo,28370]]"
-instance of:
-  - "[[_Standards/WikiData/WD~style,1292119]]"
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
-  - "[[_Standards/WikiData/WD~Chinese dynasty,12857432]]"
-  - "[[_Standards/WikiData/WD~historical Chinese state,50068795]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-followed by: "[[_Standards/WikiData/WD~Second Turkic Khaganate,4833446]]"
+- "[[_Standards/WikiData/WD~Zhou dynasty (690–705),835435]]"
+- "[[_Standards/WikiData/WD~Gaochang Kingdom (Qu clan),11175560]]"
+- "[[_Standards/WikiData/WD~Qi (Huang Chao),11180184]]"
+- "[[_Standards/WikiData/WD~Sui dynasty,7405]]"
+- '[[_Standards/WikiData/WD~Goguryeo,28370]]'
+instance_of:
+- '[[_Standards/WikiData/WD~style,1292119]]'
+- "[[_Standards/WikiData/WD~historical period,11514315]]"
+- "[[_Standards/WikiData/WD~Chinese dynasty,12857432]]"
+- "[[_Standards/WikiData/WD~historical Chinese state,50068795]]"
+- '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
+followed_by: "[[_Standards/WikiData/WD~Second Turkic Khaganate,4833446]]"
 capital: "[[_Standards/WikiData/WD~Chang'an, Tang Empire,10923028]]"
-permanent duplicated item:
-  - "[[_Standards/WikiData/WD~Q22828679,22828679]]"
-  - "[[_Standards/WikiData/WD~Q25696255,25696255]]"
-topic's main template: "[[_Standards/WikiData/WD~Q62687292,62687292]]"
-Library of Congress Classification: DS749.3-DS749.47
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20outline%20map%2C%20661.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Empire.gif
-end time: 0907-01-01T00:00:00Z
-"dissolved, abolished or demolished date": 0907-01-01T00:00:00Z 
-has_time_stopped: 0907-01-01T00:00:00Z 
-start time: 0618-01-01T00:00:00Z
-inception: 0618-01-01T00:00:00Z 
-has_time_started: 0618-01-01T00:00:00Z 
-located in the present-day administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~Mongolia,711]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~Laos,819]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-  - "[[_Standards/WikiData/WD~Vietnam,881]]"
-  - "[[_Standards/WikiData/WD~South Korea,884]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
-founded by: "[[_Standards/WikiData/WD~Emperor Gaozu of Tang,9700]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q22828679,22828679]]'
+- '[[_Standards/WikiData/WD~Q25696255,25696255]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'
+Library_of_Congress_Classification: DS749.3-DS749.47
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20outline%20map%2C%20661.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Empire.gif"
+end_time: "0907-01-01T00:00:00Z"
+dissolved_abolished_or_demolished_date: "0907-01-01T00:00:00Z"
+has_time_stopped: "0907-01-01T00:00:00Z"
+start_time: "0618-01-01T00:00:00Z"
+inception: "0618-01-01T00:00:00Z"
+has_time_started: "0618-01-01T00:00:00Z"
+located_in_the_present-day_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Laos,819]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Tajikistan,863]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~Vietnam,881]]'
+- "[[_Standards/WikiData/WD~South Korea,884]]"
+- '[[_Standards/WikiData/WD~Afghanistan,889]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+founded_by: "[[_Standards/WikiData/WD~Emperor Gaozu of Tang,9700]]"
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 area: 5400000
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/KaiyuanTongbao.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Dynasty%20circa%20700%20CE.png
-Commons category: Tang Dynasty
-Baidu Tieba name: 唐朝
-Commons gallery: 唐朝
-native label: 唐朝
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/KaiyuanTongbao.png"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Dynasty%20circa%20700%20CE.png"
+Commons_category: "Tang Dynasty"
+Baidu_Tieba_name: 唐朝
+Commons_gallery: 唐朝
+native_label: 唐朝
 ---
-
 
 ## #has_/text_of_/abstract 
 

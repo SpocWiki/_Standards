@@ -1,49 +1,48 @@
----
+﻿---
 has_id_wikidata: Q11422
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-used by:
-  - "[[_Standards/WikiData/WD~educator,974144]]"
-  - "[[_Standards/WikiData/WD~player,4197743]]"
-  - "[[_Standards/WikiData/WD~child,7569]]"
-said to be the same as: "[[_Standards/WikiData/WD~toy goods,1255568]]"
-partially coincident with:
-  - "[[_Standards/WikiData/WD~simulacrum,1412596]]"
-  - "[[_Standards/WikiData/WD~bucket,47107]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~tangible good,1485500]]"
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~recreative work,17538258]]"
-  - "[[_Standards/WikiData/WD~recreational equipment,21550927]]"
-equivalent class: http://bibliograph.net/Toy
-IPTC NewsCode: mediatopic/20000254
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox toy,11016646]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Toys,18177741]]"
-different from: "[[_Standards/WikiData/WD~Q54894998,54894998]]"
-instance of: "[[_Standards/WikiData/WD~product category,63981612]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Child%20playing%20with%20a%20toy%20cart%20and%20horse.%20-front-%20%289726037522%29.jpg
-has use:
-  - "[[_Standards/WikiData/WD~game,11410]]"
-IAB code:
-  - "482"
-Nomenclature for Museum Cataloging:
-  - "14815"
-  - "14709"
-OmegaWiki Defined Meaning: "160539"
-Iconclass notation: 43C78
-U.S. National Archives Identifier: "10665548"
-Colon Classification: MMY
-Commons gallery: Toys
-Commons category: Toys
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+used_by:
+- '[[_Standards/WikiData/WD~educator,974144]]'
+- '[[_Standards/WikiData/WD~player,4197743]]'
+- '[[_Standards/WikiData/WD~child,7569]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~toy goods,1255568]]"
+partially_coincident_with:
+- '[[_Standards/WikiData/WD~simulacrum,1412596]]'
+- '[[_Standards/WikiData/WD~bucket,47107]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~tangible good,1485500]]"
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- "[[_Standards/WikiData/WD~recreative work,17538258]]"
+- "[[_Standards/WikiData/WD~recreational equipment,21550927]]"
+equivalent_class: "http://bibliograph.net/Toy"
+IPTC_NewsCode: mediatopic/20000254
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox toy,11016646]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Toys,18177741]]'
+different_from: '[[_Standards/WikiData/WD~Q54894998,54894998]]'
+instance_of: "[[_Standards/WikiData/WD~product category,63981612]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Child%20playing%20with%20a%20toy%20cart%20and%20horse.%20-front-%20%289726037522%29.jpg"
+has_use:
+- '[[_Standards/WikiData/WD~game,11410]]'
+IAB_code:
+- 482
+Nomenclature_for_Museum_Cataloging:
+- 14815
+- 14709
+OmegaWiki_Defined_Meaning: 160539
+Iconclass_notation: 43C78
+U_S_National_Archives_Identifier: 10665548
+Colon_Classification: MMY
+Commons_gallery: Toys
+Commons_category: Toys
 aliases:
-  - plaything
-  - toy
+- plaything
+- toy
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,31 +1,30 @@
----
+﻿---
 aliases:
-  - Hundred Years' War
-  - Hundred Year War
-  - Hundred Years War
+- "Hundred Years' War"
+- "Hundred Year War"
+- "Hundred Years War"
 has_id_wikidata: Q12551
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
-  - "[[_Standards/WikiData/WD~Kingdom of England,179876]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-has list: "[[_Standards/WikiData/WD~timeline of the Hundred Years' War,7806363]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q12107%20%28bre%29-ThonyVezbe-Brezel%20Kant%20Vloaz.wav
-Provenio UUID: 920bb582-b77d-47f3-ae2e-55587b8870ef
-Krugosvet article: istoriya/stoletnyaya-voina
-start time: 1337-01-01T00:00:00Z
-BHCL UUID: 622e9677-7ebf-4fb9-86f8-aa0fdd57fd6e
-Wolfram Language entity code: Entity["MilitaryConflict", "HundredYearsWar"]
-Universal Decimal Classification: 355.48(410:44)"1337/1453"
-end time: 1453-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~France,142]]"
-instance of: "[[_Standards/WikiData/WD~war,198]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20crecy%20froissart.jpg
-Commons category: Hundred Years' War
+- "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
+- "[[_Standards/WikiData/WD~Kingdom of England,179876]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+has_list: "[[_Standards/WikiData/WD~timeline of the Hundred Years' War,7806363]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q12107%20%28bre%29-ThonyVezbe-Brezel%20Kant%20Vloaz.wav"
+Provenio_UUID: 920bb582-b77d-47f3-ae2e-55587b8870ef
+Krugosvet_article: istoriya/stoletnyaya-voina
+start_time: "1337-01-01T00:00:00Z"
+BHCL_UUID: 622e9677-7ebf-4fb9-86f8-aa0fdd57fd6e
+Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"HundredYearsWar\"]"
+Universal_Decimal_Classification: "355.48(410:44)\"1337/1453\""
+end_time: "1453-01-01T00:00:00Z"
+location: '[[_Standards/WikiData/WD~France,142]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20crecy%20froissart.jpg"
+Commons_category: "Hundred Years' War"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,69 +1,68 @@
----
+﻿---
 aliases:
-  - Political party
+- "Political party"
 has_id_wikidata: Q7278
-subclass of:
-  - "[[_Standards/WikiData/WD~juridical person,155076]]"
-  - "[[_Standards/WikiData/WD~political organization,7210356]]"
-different from: "[[_Standards/WikiData/WD~Party,230880]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-position held by head of the organization:
-  - "[[_Standards/WikiData/WD~party secretary,836971]]"
-  - "[[_Standards/WikiData/WD~party leader,1553195]]"
-instance of:
-  - "[[_Standards/WikiData/WD~legal concept,2135465]]"
-  - "[[_Standards/WikiData/WD~legal form,10541491]]"
-has part(s): "[[_Standards/WikiData/WD~juvenile political organization,2493450]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox political party,5622823]]"
-  - "[[_Standards/WikiData/WD~Template_Party politics,14398758]]"
-has list: "[[_Standards/WikiData/WD~lists of political parties,11025641]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~member of political party,11388835]]"
-history of topic: "[[_Standards/WikiData/WD~history of political parties,11499057]]"
-said to be the same as: "[[_Standards/WikiData/WD~Activities of political organisations,29586073]]"
-Provenio UUID: 128e680a-4574-48f0-92b6-090bc10f3d96
-equivalent class:
-  - https://schema.org/PoliticalParty
-  - http://dbpedia.org/ontology/PoliticalParty
-EntitySchema for this class: E432
-OpenStreetMap tag or key: Key:political_party
-properties for this type:
-  - member of
-  - chairperson
-  - has part(s)
-  - inception
-  - official website
-  - political ideology
-  - political alignment
-  - number of seats in assembly
-  - member count
-  - position held by head of the organization
-  - youth wing
-  - country
-  - logo image
-  - headquarters location
-  - party chief representative
-model item:
-  - "[[_Standards/WikiData/WD~Labour Party,9630]]"
-  - "[[_Standards/WikiData/WD~Indian National Congress,10225]]"
-  - "[[_Standards/WikiData/WD~Chinese Communist Party,17427]]"
-  - "[[_Standards/WikiData/WD~Democratic Party,29552]]"
-  - "[[_Standards/WikiData/WD~Christian Democratic Union,49762]]"
-Wikidata property: member of political party
-OmegaWiki Defined Meaning: "2866"
-U.S. National Archives Identifier: "10644794"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/NL-politieke%20partij-article.ogg
-Dewey Decimal Classification:
-  - "306.26"
-  - "324.2"
-Iconclass notation: 44C33
-IPTC NewsCode: mediatopic/20000651
-Commons category: Political parties
+subclass_of:
+- "[[_Standards/WikiData/WD~juridical person,155076]]"
+- "[[_Standards/WikiData/WD~political organization,7210356]]"
+different_from: '[[_Standards/WikiData/WD~Party,230880]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+position_held_by_head_of_the_organization:
+- "[[_Standards/WikiData/WD~party secretary,836971]]"
+- "[[_Standards/WikiData/WD~party leader,1553195]]"
+instance_of:
+- "[[_Standards/WikiData/WD~legal concept,2135465]]"
+- "[[_Standards/WikiData/WD~legal form,10541491]]"
+has_part_s_: "[[_Standards/WikiData/WD~juvenile political organization,2493450]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox political party,5622823]]"
+- "[[_Standards/WikiData/WD~Template_Party politics,14398758]]"
+has_list: "[[_Standards/WikiData/WD~lists of political parties,11025641]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~member of political party,11388835]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of political parties,11499057]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Activities of political organisations,29586073]]"
+Provenio_UUID: 128e680a-4574-48f0-92b6-090bc10f3d96
+equivalent_class:
+- "https://schema.org/PoliticalParty"
+- "http://dbpedia.org/ontology/PoliticalParty"
+EntitySchema_for_this_class: E432
+OpenStreetMap_tag_or_key: "Key:political_party"
+properties_for_this_type:
+- "member of"
+- chairperson
+- "has part(s)"
+- inception
+- "official website"
+- "political ideology"
+- "political alignment"
+- "number of seats in assembly"
+- "member count"
+- "position held by head of the organization"
+- "youth wing"
+- country
+- "logo image"
+- "headquarters location"
+- "party chief representative"
+model_item:
+- "[[_Standards/WikiData/WD~Labour Party,9630]]"
+- "[[_Standards/WikiData/WD~Indian National Congress,10225]]"
+- "[[_Standards/WikiData/WD~Chinese Communist Party,17427]]"
+- "[[_Standards/WikiData/WD~Democratic Party,29552]]"
+- "[[_Standards/WikiData/WD~Christian Democratic Union,49762]]"
+Wikidata_property: "member of political party"
+OmegaWiki_Defined_Meaning: 2866
+U_S_National_Archives_Identifier: 10644794
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/NL-politieke%20partij-article.ogg"
+Dewey_Decimal_Classification:
+- 306.26
+- 324.2
+Iconclass_notation: 44C33
+IPTC_NewsCode: mediatopic/20000651
+Commons_category: "Political parties"
 ---
-
 
 ## #has_/text_of_/abstract 
 

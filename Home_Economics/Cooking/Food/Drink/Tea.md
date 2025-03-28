@@ -1,70 +1,69 @@
----
+﻿---
 has_id_wikidata: Q6097
-MeSH tree code:
-  - J02.200.831
-  - D20.215.784.844
-  - G07.203.100.831
+MeSH_tree_code:
+- J02.200.831
+- D20.215.784.844
+- G07.203.100.831
 subreddit: tea
-native label:
-  - tê
-  - 茶
-natural product of taxon: "[[_Standards/WikiData/WD~Camellia sinensis,101815]]"
-made from material:
-  - "[[_Standards/WikiData/WD~tannin,187607]]"
-  - "[[_Standards/WikiData/WD~hot water,1419245]]"
-  - "[[_Standards/WikiData/WD~tea leaves,32022234]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~sugar,11002]]"
-  - "[[_Standards/WikiData/WD~caffeine,60235]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~tannin,187607]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~caffeine,60235]]"
-different from:
-  - "[[_Standards/WikiData/WD~herbal tea,379932]]"
-  - "[[_Standards/WikiData/WD~tea,11090700]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~stimulant foodstuff,1365365]]"
-  - "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
-  - "[[_Standards/WikiData/WD~tea,11090700]]"
-  - "[[_Standards/WikiData/WD~hot beverage,19359564]]"
-  - "[[_Standards/WikiData/WD~infusion,61951]]"
-history of topic: "[[_Standards/WikiData/WD~history of tea,3137951]]"
-fabrication method:
-  - "[[_Standards/WikiData/WD~steeping,3309953]]"
-  - "[[_Standards/WikiData/WD~boiling,20074315]]"
-part of: "[[_Standards/WikiData/WD~suutei tsai,3505826]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Teas,6307179]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox tea,6374344]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Tee2.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20in%20different%20grade%20of%20fermentation.jpg
-UMLS CUI: C0452440
-pH value: 6.85
-water footprint: 8856
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Map%20Tea%20Production.svg
-Archive of Our Own tag: Tea
-Commons gallery: Tea
-Commons category: Tea
-OmegaWiki Defined Meaning: "5926"
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Boiling%20water%20being%20poured%20into%20a%20mug%20for%20tea.ogg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20Banner3.jpg
-Unicode character: 🍵
-U.S. National Archives Identifier: "10645808"
-Amazon.com browse node: "16318401"
-UNSPSC Code: "50201711"
+native_label:
+- tê
+- 茶
+natural_product_of_taxon: "[[_Standards/WikiData/WD~Camellia sinensis,101815]]"
+made_from_material:
+- '[[_Standards/WikiData/WD~tannin,187607]]'
+- "[[_Standards/WikiData/WD~hot water,1419245]]"
+- "[[_Standards/WikiData/WD~tea leaves,32022234]]"
+- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~caffeine,60235]]'
+has_part_s_:
+- '[[_Standards/WikiData/WD~tannin,187607]]'
+- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~caffeine,60235]]'
+different_from:
+- "[[_Standards/WikiData/WD~herbal tea,379932]]"
+- '[[_Standards/WikiData/WD~tea,11090700]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~stimulant foodstuff,1365365]]"
+- "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
+- '[[_Standards/WikiData/WD~tea,11090700]]'
+- "[[_Standards/WikiData/WD~hot beverage,19359564]]"
+- '[[_Standards/WikiData/WD~infusion,61951]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of tea,3137951]]"
+fabrication_method:
+- '[[_Standards/WikiData/WD~steeping,3309953]]'
+- '[[_Standards/WikiData/WD~boiling,20074315]]'
+part_of: "[[_Standards/WikiData/WD~suutei tsai,3505826]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Teas,6307179]]'
+- "[[_Standards/WikiData/WD~Template_Infobox tea,6374344]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Tee2.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20in%20different%20grade%20of%20fermentation.jpg"
+UMLS_CUI: C0452440
+pH_value: 6.85
+water_footprint: 8856
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Map%20Tea%20Production.svg"
+Archive_of_Our_Own_tag: Tea
+Commons_gallery: Tea
+Commons_category: Tea
+OmegaWiki_Defined_Meaning: 5926
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Boiling%20water%20being%20poured%20into%20a%20mug%20for%20tea.ogg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20Banner3.jpg"
+Unicode_character: "\U0001F375"
+U_S_National_Archives_Identifier: 10645808
+Amazon_com_browse_node: 16318401
+UNSPSC_Code: 50201711
 ---
-
 
 ## #has_/text_of_/abstract 
 

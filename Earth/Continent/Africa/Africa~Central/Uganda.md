@@ -1,452 +1,452 @@
----
+﻿---
 flag: "[[_Standards/WikiData/WD~flag of Uganda,103037]]"
-coat of arms: "[[_Standards/WikiData/WD~Coat of arms of Uganda,108570]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Uganda,108570]]"
 anthem: "[[_Standards/WikiData/WD~Oh Uganda, Land of Beauty,110193]]"
-instance of:
-  - "[[_Standards/WikiData/WD~landlocked country,123480]]"
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-lowest point: "[[_Standards/WikiData/WD~Lake Albert,125888]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Kamuli District,164474]]"
-  - "[[_Standards/WikiData/WD~Ntungamo District,204642]]"
-  - "[[_Standards/WikiData/WD~Lira District,206519]]"
-  - "[[_Standards/WikiData/WD~Rukungiri District,289419]]"
-  - "[[_Standards/WikiData/WD~Nakaseke District,432438]]"
-  - "[[_Standards/WikiData/WD~Kitgum District,500162]]"
-  - "[[_Standards/WikiData/WD~Kyankwanzi District,534203]]"
-  - "[[_Standards/WikiData/WD~Kisoro District,580538]]"
-  - "[[_Standards/WikiData/WD~Mbale District,581822]]"
-  - "[[_Standards/WikiData/WD~Maracha District,588927]]"
-  - "[[_Standards/WikiData/WD~Kibaale District,604966]]"
-  - "[[_Standards/WikiData/WD~Kalangala District,867219]]"
-  - "[[_Standards/WikiData/WD~Mubende District,891962]]"
-  - "[[_Standards/WikiData/WD~Kiboga District,892064]]"
-  - "[[_Standards/WikiData/WD~Kampala District,926417]]"
-  - "[[_Standards/WikiData/WD~Wakiso District,976848]]"
-  - "[[_Standards/WikiData/WD~Nakasongola District,976859]]"
-  - "[[_Standards/WikiData/WD~Rakai District,976873]]"
-  - "[[_Standards/WikiData/WD~Sembabule District,976883]]"
-  - "[[_Standards/WikiData/WD~Jinja District,983748]]"
-  - "[[_Standards/WikiData/WD~Gulu District,1028215]]"
-  - "[[_Standards/WikiData/WD~Masaka District,1032233]]"
-  - "[[_Standards/WikiData/WD~Masindi District,1032238]]"
-  - "[[_Standards/WikiData/WD~Kanungu District,1032245]]"
-  - "[[_Standards/WikiData/WD~Soroti District,1091337]]"
-  - "[[_Standards/WikiData/WD~Mbarara District,1091595]]"
-  - "[[_Standards/WikiData/WD~Bulambuli District,1114868]]"
-  - "[[_Standards/WikiData/WD~Kibuku District,1114885]]"
-  - "[[_Standards/WikiData/WD~Ngora District,1114903]]"
-  - "[[_Standards/WikiData/WD~Namayingo District,1114915]]"
-  - "[[_Standards/WikiData/WD~Serere District,1114927]]"
-  - "[[_Standards/WikiData/WD~Buyende District,1114938]]"
-  - "[[_Standards/WikiData/WD~Lwengo District,1114954]]"
-  - "[[_Standards/WikiData/WD~Luuka District,1114977]]"
-  - "[[_Standards/WikiData/WD~Kumi District,1151062]]"
-  - "[[_Standards/WikiData/WD~Mukono District,1151066]]"
-  - "[[_Standards/WikiData/WD~Hoima District,1186535]]"
-  - "[[_Standards/WikiData/WD~Tororo District,1186541]]"
-  - "[[_Standards/WikiData/WD~Kayunga District,1207391]]"
-  - "[[_Standards/WikiData/WD~Adjumani District,1229734]]"
-  - "[[_Standards/WikiData/WD~Apac District,1229750]]"
-  - "[[_Standards/WikiData/WD~Arua District,1229758]]"
-  - "[[_Standards/WikiData/WD~Buliisa District,1229793]]"
-  - "[[_Standards/WikiData/WD~Bugiri District,1229798]]"
-  - "[[_Standards/WikiData/WD~Bushenyi District,1229797]]"
-  - "[[_Standards/WikiData/WD~Busia District,1229800]]"
-  - "[[_Standards/WikiData/WD~Iganga District,1229869]]"
-  - "[[_Standards/WikiData/WD~Kaabong District,1229881]]"
-  - "[[_Standards/WikiData/WD~Kaberamaido District,1229906]]"
-  - "[[_Standards/WikiData/WD~Kabarole District,1229910]]"
-  - "[[_Standards/WikiData/WD~Kasese District,1229919]]"
-  - "[[_Standards/WikiData/WD~Kapchorwa District,1229921]]"
-  - "[[_Standards/WikiData/WD~Katakwi District,1229930]]"
-  - "[[_Standards/WikiData/WD~Mityana District,1230005]]"
-  - "[[_Standards/WikiData/WD~Pader District,1230035]]"
-  - "[[_Standards/WikiData/WD~Kamwenge District,1318806]]"
-  - "[[_Standards/WikiData/WD~Kyenjojo District,1318815]]"
-  - "[[_Standards/WikiData/WD~Amolatar District,1318822]]"
-  - "[[_Standards/WikiData/WD~Oyam District,1318833]]"
-  - "[[_Standards/WikiData/WD~Kotido District,1318843]]"
-  - "[[_Standards/WikiData/WD~Koboko District,1318857]]"
-  - "[[_Standards/WikiData/WD~Kiruhura District,1318865]]"
-  - "[[_Standards/WikiData/WD~Dokolo District,1318872]]"
-  - "[[_Standards/WikiData/WD~Ibanda,1318877]]"
-  - "[[_Standards/WikiData/WD~Isingiro District,1318887]]"
-  - "[[_Standards/WikiData/WD~Budaka District,1362085]]"
-  - "[[_Standards/WikiData/WD~Mpigi District,1362109]]"
-  - "[[_Standards/WikiData/WD~Bundibugyo District,1362129]]"
-  - "[[_Standards/WikiData/WD~Yumbe District,1362587]]"
-  - "[[_Standards/WikiData/WD~Luwero District,1364817]]"
-  - "[[_Standards/WikiData/WD~Mayuge District,1364824]]"
-  - "[[_Standards/WikiData/WD~Bududa District,1365449]]"
-  - "[[_Standards/WikiData/WD~Butaleja District,1375755]]"
-  - "[[_Standards/WikiData/WD~Amuria District,1375762]]"
-  - "[[_Standards/WikiData/WD~Amuru District,1375771]]"
-  - "[[_Standards/WikiData/WD~Abim District,1375780]]"
-  - "[[_Standards/WikiData/WD~Manafwa District,1375789]]"
-  - "[[_Standards/WikiData/WD~Bukedea District,1375812]]"
-  - "[[_Standards/WikiData/WD~Namutumba District,1375819]]"
-  - "[[_Standards/WikiData/WD~Nebbi District,1375825]]"
-  - "[[_Standards/WikiData/WD~Sironko District,1375835]]"
-  - "[[_Standards/WikiData/WD~Pallisa District,1375843]]"
-  - "[[_Standards/WikiData/WD~Moroto District,1375850]]"
-  - "[[_Standards/WikiData/WD~Nakapiripirit District,1375853]]"
-  - "[[_Standards/WikiData/WD~Kaliro District,1375859]]"
-  - "[[_Standards/WikiData/WD~Bukwo District,1375868]]"
-  - "[[_Standards/WikiData/WD~Lyantonde District,1375878]]"
-  - "[[_Standards/WikiData/WD~Moyo District,2183668]]"
-  - "[[_Standards/WikiData/WD~Bukomansimbi District,3321599]]"
-  - "[[_Standards/WikiData/WD~Buvuma District,3321608]]"
-  - "[[_Standards/WikiData/WD~Kalungu District,3321614]]"
-  - "[[_Standards/WikiData/WD~Butambala District,3321622]]"
-  - "[[_Standards/WikiData/WD~Buikwe District,3321631]]"
-  - "[[_Standards/WikiData/WD~Gomba District,3321637]]"
-  - "[[_Standards/WikiData/WD~Kween District,3321998]]"
-  - "[[_Standards/WikiData/WD~Kabale District,3526470]]"
-  - "[[_Standards/WikiData/WD~Agago District,3536053]]"
-  - "[[_Standards/WikiData/WD~Alebtong District,3536082]]"
-  - "[[_Standards/WikiData/WD~Amudat District,3536116]]"
-  - "[[_Standards/WikiData/WD~Buhweju District,3537661]]"
-  - "[[_Standards/WikiData/WD~Kiryandongo District,3539116]]"
-  - "[[_Standards/WikiData/WD~Kole District,3539151]]"
-  - "[[_Standards/WikiData/WD~Kyegegwa District,3539256]]"
-  - "[[_Standards/WikiData/WD~Lamwo District,3539277]]"
-  - "[[_Standards/WikiData/WD~Mitooma District,3539414]]"
-  - "[[_Standards/WikiData/WD~Napak District,3539495]]"
-  - "[[_Standards/WikiData/WD~Ntoroko District,3539547]]"
-  - "[[_Standards/WikiData/WD~Nwoya District,3539572]]"
-  - "[[_Standards/WikiData/WD~Otuke District,3539602]]"
-  - "[[_Standards/WikiData/WD~Rubirizi District,3539648]]"
-  - "[[_Standards/WikiData/WD~Sheema District,3539711]]"
-  - "[[_Standards/WikiData/WD~Zombo District,3539730]]"
-  - "[[_Standards/WikiData/WD~Kakumiro District,38249480]]"
-  - "[[_Standards/WikiData/WD~Kagadi District,38249484]]"
-  - "[[_Standards/WikiData/WD~Kyotera District,38249546]]"
-  - "[[_Standards/WikiData/WD~Pakwach District,38249567]]"
-  - "[[_Standards/WikiData/WD~Omoro District,38249597]]"
-  - "[[_Standards/WikiData/WD~Rubanda District,38249602]]"
-  - "[[_Standards/WikiData/WD~Rukiga District,38249615]]"
-  - "[[_Standards/WikiData/WD~Bunyangabu District,38249629]]"
-  - "[[_Standards/WikiData/WD~Butebo District,44377523]]"
-  - "[[_Standards/WikiData/WD~Namisindwa District,44380663]]"
-  - "[[_Standards/WikiData/WD~Nabilatuk District,60766910]]"
-  - "[[_Standards/WikiData/WD~Bugweri District,60769694]]"
-  - "[[_Standards/WikiData/WD~Kasanda District,60769695]]"
-  - "[[_Standards/WikiData/WD~Kapelebyong District,60769698]]"
-  - "[[_Standards/WikiData/WD~Kwania District,60769699]]"
-  - "[[_Standards/WikiData/WD~Kibuube District,60769700]]"
-  - "[[_Standards/WikiData/WD~Kitagwenda District,85774640]]"
-  - "[[_Standards/WikiData/WD~Rwampara district,85798241]]"
-  - "[[_Standards/WikiData/WD~Obongi District,97160187]]"
-  - "[[_Standards/WikiData/WD~Karenga District,97487774]]"
-  - "[[_Standards/WikiData/WD~Kazo District,97487775]]"
-  - "[[_Standards/WikiData/WD~Madi-Okollo District,97487779]]"
-  - "[[_Standards/WikiData/WD~Kalaki District,104037541]]"
-member of:
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African Union,7159]]"
-  - "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-highest point: "[[_Standards/WikiData/WD~Mount Stanley,221666]]"
-ethnic group:
-  - "[[_Standards/WikiData/WD~Acholi people,340581]]"
-  - "[[_Standards/WikiData/WD~Baganda,403656]]"
-  - "[[_Standards/WikiData/WD~Gisu people,799929]]"
-  - "[[_Standards/WikiData/WD~Kiga people of Kigezi,804430]]"
-  - "[[_Standards/WikiData/WD~Lugbara people,975894]]"
-  - "[[_Standards/WikiData/WD~Langi people,1273334]]"
-  - "[[_Standards/WikiData/WD~Teso people,1281344]]"
-  - "[[_Standards/WikiData/WD~Nkole people,3261029]]"
-  - "[[_Standards/WikiData/WD~Basoga,41299204]]"
-central bank: "[[_Standards/WikiData/WD~Bank of Uganda,487300]]"
-language used:
-  - "[[_Standards/WikiData/WD~Lendu,523823]]"
-  - "[[_Standards/WikiData/WD~Amba,788423]]"
-  - "[[_Standards/WikiData/WD~Adhola,1971400]]"
-  - "[[_Standards/WikiData/WD~Konjo,2361829]]"
-  - "[[_Standards/WikiData/WD~Kakwa,3033547]]"
-  - "[[_Standards/WikiData/WD~Swahili,3197533]]"
-  - "[[_Standards/WikiData/WD~Kiga,3270727]]"
-  - "[[_Standards/WikiData/WD~Lugbarati,3272737]]"
-  - "[[_Standards/WikiData/WD~Tepes,3437607]]"
-  - "[[_Standards/WikiData/WD~saamia,3739441]]"
-  - "[[_Standards/WikiData/WD~Nyole,3739448]]"
-  - "[[_Standards/WikiData/WD~Masaba,3740241]]"
-  - "[[_Standards/WikiData/WD~Gwere,5623559]]"
-  - "[[_Standards/WikiData/WD~Kumam,6443410]]"
-  - "[[_Standards/WikiData/WD~Ndo,6983774]]"
-  - "[[_Standards/WikiData/WD~Nyangia,7070894]]"
-  - "[[_Standards/WikiData/WD~Ruuli,7383562]]"
-  - "[[_Standards/WikiData/WD~Talinga,7679530]]"
-  - "[[_Standards/WikiData/WD~Tooro,7824218]]"
-  - "[[_Standards/WikiData/WD~Ugandan Sign Language,7877677]]"
-  - "[[_Standards/WikiData/WD~Gungu,11165235]]"
-  - "[[_Standards/WikiData/WD~Kenyi,12952628]]"
-  - "[[_Standards/WikiData/WD~Southern Ma'di,15637273]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Runyankole,13207]]"
-  - "[[_Standards/WikiData/WD~Teso,29474]]"
-  - "[[_Standards/WikiData/WD~Bukusu,32930]]"
-  - "[[_Standards/WikiData/WD~Luganda,33368]]"
-  - "[[_Standards/WikiData/WD~Kinyarwanda,33573]]"
-  - "[[_Standards/WikiData/WD~Soga,33784]]"
-  - "[[_Standards/WikiData/WD~Nyoro,33794]]"
-  - "[[_Standards/WikiData/WD~Acholi,34926]]"
-  - "[[_Standards/WikiData/WD~Bari,35042]]"
-  - "[[_Standards/WikiData/WD~Ik,35472]]"
-  - "[[_Standards/WikiData/WD~Lango,35670]]"
-  - "[[_Standards/WikiData/WD~Pökoot,36323]]"
-  - "[[_Standards/WikiData/WD~Nubi,36388]]"
-  - "[[_Standards/WikiData/WD~Karamojong,56326]]"
-  - "[[_Standards/WikiData/WD~Sabiny,56445]]"
-  - "[[_Standards/WikiData/WD~Alur,56507]]"
-  - "[[_Standards/WikiData/WD~Aringa,56556]]"
-  - "[[_Standards/WikiData/WD~Ma'di,56670]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~911,533806]]"
-  - "[[_Standards/WikiData/WD~999,3086706]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Uganda,1185973]]"
-history of topic: "[[_Standards/WikiData/WD~history of Uganda,1512041]]"
-electrical plug type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Uganda,1779750]]"
-legislative body: "[[_Standards/WikiData/WD~Parliament of Uganda,2052850]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Uganda,2395378]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Uganda,2462330]]"
+instance_of:
+- "[[_Standards/WikiData/WD~landlocked country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+lowest_point: "[[_Standards/WikiData/WD~Lake Albert,125888]]"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Kamuli District,164474]]"
+- "[[_Standards/WikiData/WD~Ntungamo District,204642]]"
+- "[[_Standards/WikiData/WD~Lira District,206519]]"
+- "[[_Standards/WikiData/WD~Rukungiri District,289419]]"
+- "[[_Standards/WikiData/WD~Nakaseke District,432438]]"
+- "[[_Standards/WikiData/WD~Kitgum District,500162]]"
+- "[[_Standards/WikiData/WD~Kyankwanzi District,534203]]"
+- "[[_Standards/WikiData/WD~Kisoro District,580538]]"
+- "[[_Standards/WikiData/WD~Mbale District,581822]]"
+- "[[_Standards/WikiData/WD~Maracha District,588927]]"
+- "[[_Standards/WikiData/WD~Kibaale District,604966]]"
+- "[[_Standards/WikiData/WD~Kalangala District,867219]]"
+- "[[_Standards/WikiData/WD~Mubende District,891962]]"
+- "[[_Standards/WikiData/WD~Kiboga District,892064]]"
+- "[[_Standards/WikiData/WD~Kampala District,926417]]"
+- "[[_Standards/WikiData/WD~Wakiso District,976848]]"
+- "[[_Standards/WikiData/WD~Nakasongola District,976859]]"
+- "[[_Standards/WikiData/WD~Rakai District,976873]]"
+- "[[_Standards/WikiData/WD~Sembabule District,976883]]"
+- "[[_Standards/WikiData/WD~Jinja District,983748]]"
+- "[[_Standards/WikiData/WD~Gulu District,1028215]]"
+- "[[_Standards/WikiData/WD~Masaka District,1032233]]"
+- "[[_Standards/WikiData/WD~Masindi District,1032238]]"
+- "[[_Standards/WikiData/WD~Kanungu District,1032245]]"
+- "[[_Standards/WikiData/WD~Soroti District,1091337]]"
+- "[[_Standards/WikiData/WD~Mbarara District,1091595]]"
+- "[[_Standards/WikiData/WD~Bulambuli District,1114868]]"
+- "[[_Standards/WikiData/WD~Kibuku District,1114885]]"
+- "[[_Standards/WikiData/WD~Ngora District,1114903]]"
+- "[[_Standards/WikiData/WD~Namayingo District,1114915]]"
+- "[[_Standards/WikiData/WD~Serere District,1114927]]"
+- "[[_Standards/WikiData/WD~Buyende District,1114938]]"
+- "[[_Standards/WikiData/WD~Lwengo District,1114954]]"
+- "[[_Standards/WikiData/WD~Luuka District,1114977]]"
+- "[[_Standards/WikiData/WD~Kumi District,1151062]]"
+- "[[_Standards/WikiData/WD~Mukono District,1151066]]"
+- "[[_Standards/WikiData/WD~Hoima District,1186535]]"
+- "[[_Standards/WikiData/WD~Tororo District,1186541]]"
+- "[[_Standards/WikiData/WD~Kayunga District,1207391]]"
+- "[[_Standards/WikiData/WD~Adjumani District,1229734]]"
+- "[[_Standards/WikiData/WD~Apac District,1229750]]"
+- "[[_Standards/WikiData/WD~Arua District,1229758]]"
+- "[[_Standards/WikiData/WD~Buliisa District,1229793]]"
+- "[[_Standards/WikiData/WD~Bugiri District,1229798]]"
+- "[[_Standards/WikiData/WD~Bushenyi District,1229797]]"
+- "[[_Standards/WikiData/WD~Busia District,1229800]]"
+- "[[_Standards/WikiData/WD~Iganga District,1229869]]"
+- "[[_Standards/WikiData/WD~Kaabong District,1229881]]"
+- "[[_Standards/WikiData/WD~Kaberamaido District,1229906]]"
+- "[[_Standards/WikiData/WD~Kabarole District,1229910]]"
+- "[[_Standards/WikiData/WD~Kasese District,1229919]]"
+- "[[_Standards/WikiData/WD~Kapchorwa District,1229921]]"
+- "[[_Standards/WikiData/WD~Katakwi District,1229930]]"
+- "[[_Standards/WikiData/WD~Mityana District,1230005]]"
+- "[[_Standards/WikiData/WD~Pader District,1230035]]"
+- "[[_Standards/WikiData/WD~Kamwenge District,1318806]]"
+- "[[_Standards/WikiData/WD~Kyenjojo District,1318815]]"
+- "[[_Standards/WikiData/WD~Amolatar District,1318822]]"
+- "[[_Standards/WikiData/WD~Oyam District,1318833]]"
+- "[[_Standards/WikiData/WD~Kotido District,1318843]]"
+- "[[_Standards/WikiData/WD~Koboko District,1318857]]"
+- "[[_Standards/WikiData/WD~Kiruhura District,1318865]]"
+- "[[_Standards/WikiData/WD~Dokolo District,1318872]]"
+- '[[_Standards/WikiData/WD~Ibanda,1318877]]'
+- "[[_Standards/WikiData/WD~Isingiro District,1318887]]"
+- "[[_Standards/WikiData/WD~Budaka District,1362085]]"
+- "[[_Standards/WikiData/WD~Mpigi District,1362109]]"
+- "[[_Standards/WikiData/WD~Bundibugyo District,1362129]]"
+- "[[_Standards/WikiData/WD~Yumbe District,1362587]]"
+- "[[_Standards/WikiData/WD~Luwero District,1364817]]"
+- "[[_Standards/WikiData/WD~Mayuge District,1364824]]"
+- "[[_Standards/WikiData/WD~Bududa District,1365449]]"
+- "[[_Standards/WikiData/WD~Butaleja District,1375755]]"
+- "[[_Standards/WikiData/WD~Amuria District,1375762]]"
+- "[[_Standards/WikiData/WD~Amuru District,1375771]]"
+- "[[_Standards/WikiData/WD~Abim District,1375780]]"
+- "[[_Standards/WikiData/WD~Manafwa District,1375789]]"
+- "[[_Standards/WikiData/WD~Bukedea District,1375812]]"
+- "[[_Standards/WikiData/WD~Namutumba District,1375819]]"
+- "[[_Standards/WikiData/WD~Nebbi District,1375825]]"
+- "[[_Standards/WikiData/WD~Sironko District,1375835]]"
+- "[[_Standards/WikiData/WD~Pallisa District,1375843]]"
+- "[[_Standards/WikiData/WD~Moroto District,1375850]]"
+- "[[_Standards/WikiData/WD~Nakapiripirit District,1375853]]"
+- "[[_Standards/WikiData/WD~Kaliro District,1375859]]"
+- "[[_Standards/WikiData/WD~Bukwo District,1375868]]"
+- "[[_Standards/WikiData/WD~Lyantonde District,1375878]]"
+- "[[_Standards/WikiData/WD~Moyo District,2183668]]"
+- "[[_Standards/WikiData/WD~Bukomansimbi District,3321599]]"
+- "[[_Standards/WikiData/WD~Buvuma District,3321608]]"
+- "[[_Standards/WikiData/WD~Kalungu District,3321614]]"
+- "[[_Standards/WikiData/WD~Butambala District,3321622]]"
+- "[[_Standards/WikiData/WD~Buikwe District,3321631]]"
+- "[[_Standards/WikiData/WD~Gomba District,3321637]]"
+- "[[_Standards/WikiData/WD~Kween District,3321998]]"
+- "[[_Standards/WikiData/WD~Kabale District,3526470]]"
+- "[[_Standards/WikiData/WD~Agago District,3536053]]"
+- "[[_Standards/WikiData/WD~Alebtong District,3536082]]"
+- "[[_Standards/WikiData/WD~Amudat District,3536116]]"
+- "[[_Standards/WikiData/WD~Buhweju District,3537661]]"
+- "[[_Standards/WikiData/WD~Kiryandongo District,3539116]]"
+- "[[_Standards/WikiData/WD~Kole District,3539151]]"
+- "[[_Standards/WikiData/WD~Kyegegwa District,3539256]]"
+- "[[_Standards/WikiData/WD~Lamwo District,3539277]]"
+- "[[_Standards/WikiData/WD~Mitooma District,3539414]]"
+- "[[_Standards/WikiData/WD~Napak District,3539495]]"
+- "[[_Standards/WikiData/WD~Ntoroko District,3539547]]"
+- "[[_Standards/WikiData/WD~Nwoya District,3539572]]"
+- "[[_Standards/WikiData/WD~Otuke District,3539602]]"
+- "[[_Standards/WikiData/WD~Rubirizi District,3539648]]"
+- "[[_Standards/WikiData/WD~Sheema District,3539711]]"
+- "[[_Standards/WikiData/WD~Zombo District,3539730]]"
+- "[[_Standards/WikiData/WD~Kakumiro District,38249480]]"
+- "[[_Standards/WikiData/WD~Kagadi District,38249484]]"
+- "[[_Standards/WikiData/WD~Kyotera District,38249546]]"
+- "[[_Standards/WikiData/WD~Pakwach District,38249567]]"
+- "[[_Standards/WikiData/WD~Omoro District,38249597]]"
+- "[[_Standards/WikiData/WD~Rubanda District,38249602]]"
+- "[[_Standards/WikiData/WD~Rukiga District,38249615]]"
+- "[[_Standards/WikiData/WD~Bunyangabu District,38249629]]"
+- "[[_Standards/WikiData/WD~Butebo District,44377523]]"
+- "[[_Standards/WikiData/WD~Namisindwa District,44380663]]"
+- "[[_Standards/WikiData/WD~Nabilatuk District,60766910]]"
+- "[[_Standards/WikiData/WD~Bugweri District,60769694]]"
+- "[[_Standards/WikiData/WD~Kasanda District,60769695]]"
+- "[[_Standards/WikiData/WD~Kapelebyong District,60769698]]"
+- "[[_Standards/WikiData/WD~Kwania District,60769699]]"
+- "[[_Standards/WikiData/WD~Kibuube District,60769700]]"
+- "[[_Standards/WikiData/WD~Kitagwenda District,85774640]]"
+- "[[_Standards/WikiData/WD~Rwampara district,85798241]]"
+- "[[_Standards/WikiData/WD~Obongi District,97160187]]"
+- "[[_Standards/WikiData/WD~Karenga District,97487774]]"
+- "[[_Standards/WikiData/WD~Kazo District,97487775]]"
+- "[[_Standards/WikiData/WD~Madi-Okollo District,97487779]]"
+- "[[_Standards/WikiData/WD~Kalaki District,104037541]]"
+member_of:
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~African Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+highest_point: "[[_Standards/WikiData/WD~Mount Stanley,221666]]"
+ethnic_group:
+- "[[_Standards/WikiData/WD~Acholi people,340581]]"
+- '[[_Standards/WikiData/WD~Baganda,403656]]'
+- "[[_Standards/WikiData/WD~Gisu people,799929]]"
+- "[[_Standards/WikiData/WD~Kiga people of Kigezi,804430]]"
+- "[[_Standards/WikiData/WD~Lugbara people,975894]]"
+- "[[_Standards/WikiData/WD~Langi people,1273334]]"
+- "[[_Standards/WikiData/WD~Teso people,1281344]]"
+- "[[_Standards/WikiData/WD~Nkole people,3261029]]"
+- '[[_Standards/WikiData/WD~Basoga,41299204]]'
+central_bank: "[[_Standards/WikiData/WD~Bank of Uganda,487300]]"
+language_used:
+- '[[_Standards/WikiData/WD~Lendu,523823]]'
+- '[[_Standards/WikiData/WD~Amba,788423]]'
+- '[[_Standards/WikiData/WD~Adhola,1971400]]'
+- '[[_Standards/WikiData/WD~Konjo,2361829]]'
+- '[[_Standards/WikiData/WD~Kakwa,3033547]]'
+- '[[_Standards/WikiData/WD~Swahili,3197533]]'
+- '[[_Standards/WikiData/WD~Kiga,3270727]]'
+- '[[_Standards/WikiData/WD~Lugbarati,3272737]]'
+- '[[_Standards/WikiData/WD~Tepes,3437607]]'
+- '[[_Standards/WikiData/WD~saamia,3739441]]'
+- '[[_Standards/WikiData/WD~Nyole,3739448]]'
+- '[[_Standards/WikiData/WD~Masaba,3740241]]'
+- '[[_Standards/WikiData/WD~Gwere,5623559]]'
+- '[[_Standards/WikiData/WD~Kumam,6443410]]'
+- '[[_Standards/WikiData/WD~Ndo,6983774]]'
+- '[[_Standards/WikiData/WD~Nyangia,7070894]]'
+- '[[_Standards/WikiData/WD~Ruuli,7383562]]'
+- '[[_Standards/WikiData/WD~Talinga,7679530]]'
+- '[[_Standards/WikiData/WD~Tooro,7824218]]'
+- "[[_Standards/WikiData/WD~Ugandan Sign Language,7877677]]"
+- '[[_Standards/WikiData/WD~Gungu,11165235]]'
+- '[[_Standards/WikiData/WD~Kenyi,12952628]]'
+- "[[_Standards/WikiData/WD~Southern Ma'di,15637273]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Runyankole,13207]]'
+- '[[_Standards/WikiData/WD~Teso,29474]]'
+- '[[_Standards/WikiData/WD~Bukusu,32930]]'
+- '[[_Standards/WikiData/WD~Luganda,33368]]'
+- '[[_Standards/WikiData/WD~Kinyarwanda,33573]]'
+- '[[_Standards/WikiData/WD~Soga,33784]]'
+- '[[_Standards/WikiData/WD~Nyoro,33794]]'
+- '[[_Standards/WikiData/WD~Acholi,34926]]'
+- '[[_Standards/WikiData/WD~Bari,35042]]'
+- '[[_Standards/WikiData/WD~Ik,35472]]'
+- '[[_Standards/WikiData/WD~Lango,35670]]'
+- '[[_Standards/WikiData/WD~Pökoot,36323]]'
+- '[[_Standards/WikiData/WD~Nubi,36388]]'
+- '[[_Standards/WikiData/WD~Karamojong,56326]]'
+- '[[_Standards/WikiData/WD~Sabiny,56445]]'
+- '[[_Standards/WikiData/WD~Alur,56507]]'
+- '[[_Standards/WikiData/WD~Aringa,56556]]'
+- "[[_Standards/WikiData/WD~Ma'di,56670]]"
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~911,533806]]'
+- '[[_Standards/WikiData/WD~999,3086706]]'
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Uganda,1185973]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Uganda,1512041]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Uganda,1779750]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament of Uganda,2052850]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Uganda,2395378]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Uganda,2462330]]"
 culture: "[[_Standards/WikiData/WD~culture of Uganda,3007250]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Africa_Kampala,4689498]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Uganda,7112498]]"
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~Africa_Kampala,4689498]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Uganda,7112498]]"
 replaces: "[[_Standards/WikiData/WD~Commonwealth realm of Uganda,7877575]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Uganda,11300818]]"
-driving side: "[[_Standards/WikiData/WD~left,13196750]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of Uganda,18204367]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Uganda,21831016]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Uganda,21831016]]"
-  - "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-executive body: "[[_Standards/WikiData/WD~Government of Uganda,30261844]]"
-category for people buried here: "[[_Standards/WikiData/WD~Q32395256,32395256]]"
-has characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-head of government: "[[_Standards/WikiData/WD~Robinah Nabbanja,62481397]]"
-UMLS CUI: C0041573
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Uganda,11300818]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Uganda,18204367]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Uganda,21831016]]"
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Uganda,21831016]]"
+- "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+executive_body: "[[_Standards/WikiData/WD~Government of Uganda,30261844]]"
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32395256,32395256]]'
+has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+head_of_government: "[[_Standards/WikiData/WD~Robinah Nabbanja,62481397]]"
+UMLS_CUI: C0041573
 demonym:
-  - أوݣاندي
-  - أوݣانديات
-  - أوݣاندية
-  - أوݣانديين
-  - Ugandach
-  - Ugandčan
-  - Ugandčanka
-  - أوغندي
-  - أوغندية
-  - أوغنديون
-  - ugandés
-  - ugandesa
-  - উগান্ডীয়
-  - Ugandan
-  - Ugandano
-  - Ougandais
-  - Ougandaise
-  - אוגנדי
-  - אוגנדית
-  - ugandai
-  - Ugandano
-  - ugandese
-  - ugandesi
-  - ugandan
-  - ugander
-  - Oegandees
-  - ugandar
-  - ugandez
-  - ugandeză
-  - ugandezi
-  - ugandeza
-  - ugandeze
-  - ugandezi
-  - ugandezo
-  - Lugandayänan
-ISNI: "0000000122991309"
-motto text:
-  - Tros Dduw a Fy Ngwlad
-  - За Бог и страната ми
-  - For God and My Country
-  - kwa mungu na nchi yangu
-coordinate location: Point(32.39 1.28)
-coordinates of northernmost point: Point(34.0 4.22)
-nominal GDP:
-  - 45559202049
-  - 40510241366
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~South Sudan,958]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~South Sudan,958]]"
-  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Lake Victoria,5505]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-country: "[[_Standards/WikiData/WD~Uganda,1036]]"
-official language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Swahili,7838]]"
-capital: "[[_Standards/WikiData/WD~Kampala,3894]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~East Africa,27407]]"
-part of: "[[_Standards/WikiData/WD~East Africa,27407]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-unemployment rate: 4
-marriageable age: 18
-VAT rate: 18
-mains voltage: 240
-BTI Governance Index:
-  - 5.7
-  - 4.89
-  - 5.14
-  - 5.31
-  - 5.33
-  - 5.77
-  - 5.82
-  - 5.86
-  - 6.07
-water as percent of area: 18.2
-top-level Internet domain: "[[_Standards/WikiData/WD~.ug,43122]]"
-Inequality-adjusted Human Development Index: 0.396
-Gini coefficient: 42.7
-Happy Planet Index score: 44.8
-Democracy Index: 4.94
-BTI Status Index:
-  - 5.14
-  - 5.42
-  - 5.54
-  - 5.66
-  - 6.19
-  - 6.24
-  - 6.27
-  - 6.34
-Human Development Index: 0.525
-basic form of government: "[[_Standards/WikiData/WD~presidential system,49892]]"
-head of state: "[[_Standards/WikiData/WD~Yoweri Museveni,57274]]"
-death rate:
-  - 5.579
-  - 5.823
-  - 5.852
-  - 5.877
-total fertility rate: 5.775
-M49 code: "800"
-ISO 3166-1 numeric code: "800"
-maritime identification digits: "675"
-IAB code: "1466"
-mobile country code: "641"
-birth rate:
-  - 36.215
-  - 36.795
-  - 37.252
-  - 37.667
-OmegaWiki Defined Meaning: "7799"
-life expectancy: 59.889
-FIPS 10-4 (countries and regions): UG
-WIPO ST.3: UG
-ISO 3166-1 alpha-2 code: UG
+- أوݣاندي
+- أوݣانديات
+- أوݣاندية
+- أوݣانديين
+- Ugandach
+- Ugandčan
+- Ugandčanka
+- أوغندي
+- أوغندية
+- أوغنديون
+- ugandés
+- ugandesa
+- উগান্ডীয়
+- Ugandan
+- Ugandano
+- Ougandais
+- Ougandaise
+- אוגנדי
+- אוגנדית
+- ugandai
+- Ugandano
+- ugandese
+- ugandesi
+- ugandan
+- ugander
+- Oegandees
+- ugandar
+- ugandez
+- ugandeză
+- ugandezi
+- ugandeza
+- ugandeze
+- ugandezi
+- ugandezo
+- Lugandayänan
+ISNI: 0000000122991309
+motto_text:
+- "Tros Dduw a Fy Ngwlad"
+- "За Бог и страната ми"
+- "For God and My Country"
+- "kwa mungu na nchi yangu"
+coordinate_location: "Point(32.39 1.28)"
+coordinates_of_northernmost_point: "Point(34.0 4.22)"
+nominal_GDP:
+- 45559202049
+- 40510241366
+diplomatic_relation:
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- '[[_Standards/WikiData/WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Sudan,1049]]'
+- "[[_Standards/WikiData/WD~Lake Victoria,5505]]"
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+country: '[[_Standards/WikiData/WD~Uganda,1036]]'
+official_language:
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Swahili,7838]]'
+capital: '[[_Standards/WikiData/WD~Kampala,3894]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~East Africa,27407]]"
+part_of: "[[_Standards/WikiData/WD~East Africa,27407]]"
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+unemployment_rate: 4
+marriageable_age: 18
+VAT_rate: 18
+mains_voltage: 240
+BTI_Governance_Index:
+- 5.7
+- 4.89
+- 5.14
+- 5.31
+- 5.33
+- 5.77
+- 5.82
+- 5.86
+- 6.07
+water_as_percent_of_area: 18.2
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.ug,43122]]'
+Inequality-adjusted_Human_Development_Index: 0.396
+Gini_coefficient: 42.7
+Happy_Planet_Index_score: 44.8
+Democracy_Index: 4.94
+BTI_Status_Index:
+- 5.14
+- 5.42
+- 5.54
+- 5.66
+- 6.19
+- 6.24
+- 6.27
+- 6.34
+Human_Development_Index: 0.525
+basic_form_of_government: "[[_Standards/WikiData/WD~presidential system,49892]]"
+head_of_state: "[[_Standards/WikiData/WD~Yoweri Museveni,57274]]"
+death_rate:
+- 5.579
+- 5.823
+- 5.852
+- 5.877
+total_fertility_rate: 5.775
+M49_code: 800
+ISO_3166-1_numeric_code: 800
+maritime_identification_digits: 675
+IAB_code: 1466
+mobile_country_code: 641
+birth_rate:
+- 36.215
+- 36.795
+- 37.252
+- 37.667
+OmegaWiki_Defined_Meaning: 7799
+life_expectancy: 59.889
+FIPS_10-4_countries_and_regions_: UG
+WIPO_ST_3: UG
+ISO_3166-1_alpha-2_code: UG
 area: 241038
-IOC country code: UGA
-ITU letter code: UGA
-ISO 3166-1 alpha-3 code: UGA
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationUganda.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Uganda%20%28orthographic%20projection%29.svg
-INSEE countries and foreign territories code: "99339"
-Dewey Decimal Classification: 2--6761
-Commons gallery: Uganda
+IOC_country_code: UGA
+ITU_letter_code: UGA
+ISO_3166-1_alpha-3_code: UGA
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LocationUganda.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Uganda%20%28orthographic%20projection%29.svg"
+INSEE_countries_and_foreign_territories_code: 99339
+Dewey_Decimal_Classification: 2--6761
+Commons_gallery: Uganda
 subreddit: Uganda
-MeSH tree code: Z01.058.290.120.880
-native label:
-  - Republic of Uganda
-  - Jamhuri ya Uganda
-official name:
-  - Ouganda
-  - Uganda
-  - Uganda
-short name: 🇺🇬
-urban population:
-  - 12360019
-  - 10462825
-  - 11080727
-  - 11717016
-male population:
-  - 21241606
-  - 22700638
-  - 23401332
-  - 21973090
-female population:
-  - 21707475
-  - 23848253
-  - 22431520
-  - 23153140
-rural population:
-  - 32486255
-  - 33323884
-  - 34136762
-  - 34889566
+MeSH_tree_code: Z01.058.290.120.880
+native_label:
+- "Republic of Uganda"
+- "Jamhuri ya Uganda"
+official_name:
+- Ouganda
+- Uganda
+- Uganda
+short_name: "\U0001F1FA\U0001F1EC"
+urban_population:
+- 12360019
+- 10462825
+- 11080727
+- 11717016
+male_population:
+- 21241606
+- 22700638
+- 23401332
+- 21973090
+female_population:
+- 21707475
+- 23848253
+- 22431520
+- 23153140
+rural_population:
+- 32486255
+- 33323884
+- 34136762
+- 34889566
 population: 47123531
 hashtag: Uganda
-Commons category: Uganda
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg
-inception: 1962-01-01T00:00:00Z 
-has_time_started: 1962-01-01T00:00:00Z 
-geoshape: http://commons.wikimedia.org/data/main/Data:Uganda.map
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Uganda.svg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Uganda.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A3%D9%88%D8%BA%D9%86%D8%AF%D8%A7.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%89%E0%AC%97%E0%AC%BE%E0%AC%A3%E0%AD%8D%E0%AC%A1%E0%AC%BE.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Uganda.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Uganda.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%89%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE.wav
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Uganda%20Wikivoyage%20banner.jpg
-official website: http://www.statehouse.go.ug/
-described at URL: https://www.exploreuganda.com/
-country calling code: "+256"
-U.S. National Archives Identifier: "10035681"
-PM20 geo code: C117
-licence plate code: EAU
-Colon Classification: SG--688
-Krugosvet article: strany_mira/UGANDA.html
-Unicode character: 🇺🇬
-CIVICUS Monitor country entry: uganda
-GitHub topic: uganda
+Commons_category: Uganda
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg"
+inception: "1962-01-01T00:00:00Z"
+has_time_started: "1962-01-01T00:00:00Z"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Uganda.map"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Uganda.svg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Uganda.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A3%D9%88%D8%BA%D9%86%D8%AF%D8%A7.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%89%E0%AC%97%E0%AC%BE%E0%AC%A3%E0%AD%8D%E0%AC%A1%E0%AC%BE.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Uganda.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Uganda.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%89%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE.wav"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Uganda%20Wikivoyage%20banner.jpg"
+official_website: "http://www.statehouse.go.ug/"
+described_at_URL: "https://www.exploreuganda.com/"
+country_calling_code: +256
+U_S_National_Archives_Identifier: 10035681
+PM20_geo_code: C117
+licence_plate_code: EAU
+Colon_Classification: SG--688
+Krugosvet_article: strany_mira/UGANDA.html
+Unicode_character: "\U0001F1FA\U0001F1EC"
+CIVICUS_Monitor_country_entry: uganda
+GitHub_topic: uganda
 has_id_wikidata: Q1036
 location:
 - 0.313611
@@ -454,13 +454,12 @@ location:
 type: Country
 tags:
 - geo/Country
-has_id_wikidata: Q1036 
 SpocWebEntityId: 27045
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Uganda
@@ -476,8 +475,8 @@ aliases:
 - أوغندا
 - 乌干达
 - Уганда
-- the Republic of Uganda
-- la República de Uganda
+- "the Republic of Uganda"
+- "la República de Uganda"
 Languages:
 - en-UG
 - lg

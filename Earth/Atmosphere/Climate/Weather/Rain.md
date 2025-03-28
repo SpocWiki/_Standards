@@ -1,57 +1,56 @@
----
+﻿---
 has_id_wikidata: Q7925
-Colon Classification: U2855
-has use:
-  - "[[_Standards/WikiData/WD~hydroelectricity,80638]]"
-  - "[[_Standards/WikiData/WD~construction,385378]]"
-  - "[[_Standards/WikiData/WD~laundering,852100]]"
-  - "[[_Standards/WikiData/WD~water supply,1061108]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~drop,185789]]"
-  - "[[_Standards/WikiData/WD~raindrop,131199014]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Religion in Geschichte und Gegenwart,1514334]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-different from: "[[_Standards/WikiData/WD~Rain,20423499]]"
-has effect:
-  - "[[_Standards/WikiData/WD~rainwater,21555202]]"
-  - "[[_Standards/WikiData/WD~flood,8068]]"
-instance of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
-studied in: "[[_Standards/WikiData/WD~ombrology,127220291]]"
-UMLS CUI: C0034640
-MeSH tree code:
-  - G16.500.175.859
-  - G16.500.275.063.725.395
-  - G16.500.750.775.450
-  - N06.230.300.100.725.450
-  - N06.230.520
-facet of: "[[_Standards/WikiData/WD~weather,11663]]"
-subclass of: "[[_Standards/WikiData/WD~precipitation,25257]]"
-OmegaWiki Defined Meaning: "3100"
-Commons gallery: Rain
-Commons category: Rain
-Iconclass notation: 26B
-Unicode character: 🌧
+Colon_Classification: U2855
+has_use:
+- '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
+- '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~laundering,852100]]'
+- "[[_Standards/WikiData/WD~water supply,1061108]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~drop,185789]]'
+- '[[_Standards/WikiData/WD~raindrop,131199014]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Religion in Geschichte und Gegenwart,1514334]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+different_from: '[[_Standards/WikiData/WD~Rain,20423499]]'
+has_effect:
+- '[[_Standards/WikiData/WD~rainwater,21555202]]'
+- '[[_Standards/WikiData/WD~flood,8068]]'
+instance_of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+studied_in: '[[_Standards/WikiData/WD~ombrology,127220291]]'
+UMLS_CUI: C0034640
+MeSH_tree_code:
+- G16.500.175.859
+- G16.500.275.063.725.395
+- G16.500.750.775.450
+- N06.230.300.100.725.450
+- N06.230.520
+facet_of: '[[_Standards/WikiData/WD~weather,11663]]'
+subclass_of: '[[_Standards/WikiData/WD~precipitation,25257]]'
+OmegaWiki_Defined_Meaning: 3100
+Commons_gallery: Rain
+Commons_category: Rain
+Iconclass_notation: 26B
+Unicode_character: "\U0001F327"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/08152%20Bukowsko%20%28powiat%20sanocki%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vihmavarjuga%20jalak%C3%A4ija%20Sossi%20m%C3%A4el%20Tallinnas.%202016.%20aasta%20aprill..jpg
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Dion-Bouton%2C%20regen%20op%20het%20linnen%20autodak%20-%20SoundCloud%20-%20Beeld%20en%20Geluid.ogg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Rain%202.gif
-exact match: http://purl.obolibrary.org/obo/ENVO_01001564
-Krugosvet article: Earth_sciences/geografiya/DOZHD.html
+- "http://commons.wikimedia.org/wiki/Special:FilePath/08152%20Bukowsko%20%28powiat%20sanocki%29.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Vihmavarjuga%20jalak%C3%A4ija%20Sossi%20m%C3%A4el%20Tallinnas.%202016.%20aasta%20aprill..jpg"
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Dion-Bouton%2C%20regen%20op%20het%20linnen%20autodak%20-%20SoundCloud%20-%20Beeld%20en%20Geluid.ogg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Rain%202.gif"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_01001564"
+Krugosvet_article: Earth_sciences/geografiya/DOZHD.html
 subreddit: raining
 ---
-
 
 ## #has_/text_of_/abstract 
 

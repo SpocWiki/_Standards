@@ -1,165 +1,164 @@
----
+﻿---
 aliases:
-  - Karl Marx
+- "Karl Marx"
 has_id_wikidata: Q9061
-student of: "[[_Standards/WikiData/WD~Friedrich Gottlieb Welcker,69028]]"
-influenced by:
-  - "[[_Standards/WikiData/WD~Ludwig Feuerbach,76422]]"
-  - "[[_Standards/WikiData/WD~Max Stirner,76725]]"
-  - "[[_Standards/WikiData/WD~The Essence of Christianity,1170769]]"
-  - "[[_Standards/WikiData/WD~Georg Wilhelm Friedrich Hegel,9235]]"
-doctoral advisor: "[[_Standards/WikiData/WD~Bruno Bauer,76878]]"
+student_of: "[[_Standards/WikiData/WD~Friedrich Gottlieb Welcker,69028]]"
+influenced_by:
+- "[[_Standards/WikiData/WD~Ludwig Feuerbach,76422]]"
+- "[[_Standards/WikiData/WD~Max Stirner,76725]]"
+- "[[_Standards/WikiData/WD~The Essence of Christianity,1170769]]"
+- "[[_Standards/WikiData/WD~Georg Wilhelm Friedrich Hegel,9235]]"
+doctoral_advisor: "[[_Standards/WikiData/WD~Bruno Bauer,76878]]"
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~author,482980]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~sociologist,2306091]]"
-  - "[[_Standards/WikiData/WD~revolutionary,3242115]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~social scientist,15319501]]"
-  - "[[_Standards/WikiData/WD~film screenwriter,69423232]]"
-  - "[[_Standards/WikiData/WD~television writer,73306227]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-archives at:
-  - "[[_Standards/WikiData/WD~Marx Memorial Library,93844]]"
-  - "[[_Standards/WikiData/WD~International Institute of Social History,1667757]]"
-  - "[[_Standards/WikiData/WD~Boris Yeltsin Presidential Library,4376778]]"
-educated at:
-  - "[[_Standards/WikiData/WD~Humboldt University of Berlin,152087]]"
-  - "[[_Standards/WikiData/WD~University of Bonn,152171]]"
-  - "[[_Standards/WikiData/WD~University of Jena,154561]]"
-  - "[[_Standards/WikiData/WD~Gimnasium Real Frederick William III,1457868]]"
-member of: "[[_Standards/WikiData/WD~International Workingmen's Association,183725]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~sociologist,2306091]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- "[[_Standards/WikiData/WD~social scientist,15319501]]"
+- "[[_Standards/WikiData/WD~film screenwriter,69423232]]"
+- "[[_Standards/WikiData/WD~television writer,73306227]]"
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+archives_at:
+- "[[_Standards/WikiData/WD~Marx Memorial Library,93844]]"
+- "[[_Standards/WikiData/WD~International Institute of Social History,1667757]]"
+- "[[_Standards/WikiData/WD~Boris Yeltsin Presidential Library,4376778]]"
+educated_at:
+- "[[_Standards/WikiData/WD~Humboldt University of Berlin,152087]]"
+- "[[_Standards/WikiData/WD~University of Bonn,152171]]"
+- "[[_Standards/WikiData/WD~University of Jena,154561]]"
+- "[[_Standards/WikiData/WD~Gimnasium Real Frederick William III,1457868]]"
+member_of: "[[_Standards/WikiData/WD~International Workingmen's Association,183725]]"
 father: "[[_Standards/WikiData/WD~Heinrich Marx,214986]]"
-country of citizenship:
-  - "[[_Standards/WikiData/WD~statelessness,223050]]"
-  - "[[_Standards/WikiData/WD~Kingdom of Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+country_of_citizenship:
+- '[[_Standards/WikiData/WD~statelessness,223050]]'
+- "[[_Standards/WikiData/WD~Kingdom of Prussia,27306]]"
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
 spouse: "[[_Standards/WikiData/WD~Jenny von Westphalen,238302]]"
 child:
-  - "[[_Standards/WikiData/WD~Laura Marx,259334]]"
-  - "[[_Standards/WikiData/WD~Jenny Longuet,448860]]"
-  - "[[_Standards/WikiData/WD~Edgar Marx,27867982]]"
-  - "[[_Standards/WikiData/WD~Frederick Demuth,67999546]]"
-  - "[[_Standards/WikiData/WD~Jenny Evelin Francis Marx,76366667]]"
-  - "[[_Standards/WikiData/WD~Heinrich Edward Guy Marx,76366665]]"
-  - "[[_Standards/WikiData/WD~Eleanor Marx,61412]]"
-notable work:
-  - "[[_Standards/WikiData/WD~Economic and Philosophic Manuscripts of 1844,295347]]"
-  - "[[_Standards/WikiData/WD~The German Ideology,470600]]"
-  - "[[_Standards/WikiData/WD~The Communist Manifesto,40591]]"
-  - "[[_Standards/WikiData/WD~Capital_ A Critique of Political Economy,58784]]"
-contributed to creative work:
-  - "[[_Standards/WikiData/WD~Deutsch–Französische Jahrbücher,387223]]"
-  - "[[_Standards/WikiData/WD~Rheinische Zeitung,519542]]"
+- "[[_Standards/WikiData/WD~Laura Marx,259334]]"
+- "[[_Standards/WikiData/WD~Jenny Longuet,448860]]"
+- "[[_Standards/WikiData/WD~Edgar Marx,27867982]]"
+- "[[_Standards/WikiData/WD~Frederick Demuth,67999546]]"
+- "[[_Standards/WikiData/WD~Jenny Evelin Francis Marx,76366667]]"
+- "[[_Standards/WikiData/WD~Heinrich Edward Guy Marx,76366665]]"
+- "[[_Standards/WikiData/WD~Eleanor Marx,61412]]"
+notable_work:
+- "[[_Standards/WikiData/WD~Economic and Philosophic Manuscripts of 1844,295347]]"
+- "[[_Standards/WikiData/WD~The German Ideology,470600]]"
+- "[[_Standards/WikiData/WD~The Communist Manifesto,40591]]"
+- "[[_Standards/WikiData/WD~Capital_ A Critique of Political Economy,58784]]"
+contributed_to_creative_work:
+- "[[_Standards/WikiData/WD~Deutsch–Französische Jahrbücher,387223]]"
+- "[[_Standards/WikiData/WD~Rheinische Zeitung,519542]]"
 employer:
-  - "[[_Standards/WikiData/WD~Neue Rheinische Zeitung,429850]]"
-  - "[[_Standards/WikiData/WD~Rheinische Zeitung,519542]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Allgemeine Deutsche Biographie,590208]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Den Store Danske Encyklopædi,1186818]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Q56604985,56604985]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Q106531550,106531550]]"
-  - "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
-member of political party: "[[_Standards/WikiData/WD~Communist League,642562]]"
-academic degree: "[[_Standards/WikiData/WD~Doctor of Philosophy,752297]]"
+- "[[_Standards/WikiData/WD~Neue Rheinische Zeitung,429850]]"
+- "[[_Standards/WikiData/WD~Rheinische Zeitung,519542]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Allgemeine Deutsche Biographie,590208]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Den Store Danske Encyklopædi,1186818]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
+- '[[_Standards/WikiData/WD~Q56604985,56604985]]'
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Q106531550,106531550]]'
+- "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Communist League,642562]]"
+academic_degree: "[[_Standards/WikiData/WD~Doctor of Philosophy,752297]]"
 relative: "[[_Standards/WikiData/WD~Ludwig von Westphalen,896639]]"
 sibling:
-  - "[[_Standards/WikiData/WD~Emilie Conradi,1337305]]"
-  - "[[_Standards/WikiData/WD~Louise Juta,1872165]]"
-  - "[[_Standards/WikiData/WD~Mauritz David Marx,38195664]]"
-  - "[[_Standards/WikiData/WD~Sophia Marx,43032506]]"
-part of:
-  - "[[_Standards/WikiData/WD~Marx siblings,1518091]]"
-  - "[[_Standards/WikiData/WD~Karl Marx and Friedrich Engels,20088846]]"
-different from: "[[_Standards/WikiData/WD~Karl Marx,1732308]]"
-given name:
-  - "[[_Standards/WikiData/WD~Heinrich,2018484]]"
-  - "[[_Standards/WikiData/WD~Karl,15731830]]"
-academic thesis: "[[_Standards/WikiData/WD~The Difference Between the Democritean and Epicurean Philosophy of Nature,3027686]]"
+- "[[_Standards/WikiData/WD~Emilie Conradi,1337305]]"
+- "[[_Standards/WikiData/WD~Louise Juta,1872165]]"
+- "[[_Standards/WikiData/WD~Mauritz David Marx,38195664]]"
+- "[[_Standards/WikiData/WD~Sophia Marx,43032506]]"
+part_of:
+- "[[_Standards/WikiData/WD~Marx siblings,1518091]]"
+- "[[_Standards/WikiData/WD~Karl Marx and Friedrich Engels,20088846]]"
+different_from: "[[_Standards/WikiData/WD~Karl Marx,1732308]]"
+given_name:
+- '[[_Standards/WikiData/WD~Heinrich,2018484]]'
+- '[[_Standards/WikiData/WD~Karl,15731830]]'
+academic_thesis: "[[_Standards/WikiData/WD~The Difference Between the Democritean and Epicurean Philosophy of Nature,3027686]]"
 residence:
-  - "[[_Standards/WikiData/WD~The Swan,3279995]]"
-  - "[[_Standards/WikiData/WD~Trier,3138]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-  - "[[_Standards/WikiData/WD~Paris,90]]"
-cause of death: "[[_Standards/WikiData/WD~lung disease,3392853]]"
-manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-religion or worldview:
-  - "[[_Standards/WikiData/WD~antitheism,5522978]]"
-  - "[[_Standards/WikiData/WD~atheism,7066]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Sociology,10858392]]"
-  - "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-family name: "[[_Standards/WikiData/WD~Marx,13647280]]"
-award received: "[[_Standards/WikiData/WD~Fellow of the Royal Society of Arts,15271633]]"
-place of burial: "[[_Standards/WikiData/WD~Tomb of Karl Marx,17526711]]"
+- "[[_Standards/WikiData/WD~The Swan,3279995]]"
+- '[[_Standards/WikiData/WD~Trier,3138]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
+cause_of_death: "[[_Standards/WikiData/WD~lung disease,3392853]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+religion_or_worldview:
+- '[[_Standards/WikiData/WD~antitheism,5522978]]'
+- '[[_Standards/WikiData/WD~atheism,7066]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Sociology,10858392]]"
+- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+family_name: '[[_Standards/WikiData/WD~Marx,13647280]]'
+award_received: "[[_Standards/WikiData/WD~Fellow of the Royal Society of Arts,15271633]]"
+place_of_burial: "[[_Standards/WikiData/WD~Tomb of Karl Marx,17526711]]"
 mother: "[[_Standards/WikiData/WD~Henriette Presburg,19841721]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Karl Marx,31062475]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-date of death: 1883-03-14T00:00:00Z
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Ikusgela%20-%20Karl%20Marx.webm
-ISNI: "0000000122796570"
-work location: "[[_Standards/WikiData/WD~Cologne,365]]"
-place of birth: "[[_Standards/WikiData/WD~Trier,3138]]"
-field of work:
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~sociology,21201]]"
-  - "[[_Standards/WikiData/WD~political economy,47555]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-place of death: "[[_Standards/WikiData/WD~London,84]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~German,188]]"
-writing language: "[[_Standards/WikiData/WD~German,188]]"
-native language: "[[_Standards/WikiData/WD~German,188]]"
-ethnic group: "[[_Standards/WikiData/WD~Ashkenazi Jews,34069]]"
-partner in business or sport: "[[_Standards/WikiData/WD~Friedrich Engels,34787]]"
-ArhivX LOD: "1419"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Karl Marx,31062475]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+date_of_death: "1883-03-14T00:00:00Z"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Ikusgela%20-%20Karl%20Marx.webm"
+ISNI: 0000000122796570
+work_location: '[[_Standards/WikiData/WD~Cologne,365]]'
+place_of_birth: '[[_Standards/WikiData/WD~Trier,3138]]'
+field_of_work:
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~sociology,21201]]'
+- "[[_Standards/WikiData/WD~political economy,47555]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
+native_language: '[[_Standards/WikiData/WD~German,188]]'
+ethnic_group: "[[_Standards/WikiData/WD~Ashkenazi Jews,34069]]"
+partner_in_business_or_sport: "[[_Standards/WikiData/WD~Friedrich Engels,34787]]"
+ArhivX_LOD: 1419
 nickname: Maurice
 hashtag: Marx
-name in native language: Karl Marx
-Commons Creator page: Karl Marx
-Commons gallery: Karl Marx
-Commons category: Karl Marx
-date of birth: 1818-05-05T00:00:00Z
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Marx-ar.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Marx%20001.jpg
-image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Marx%20Grave.jpg
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Marx%20Signature.svg
-NLC authorities: "000205383"
-U.S. National Archives Identifier:
-  - "10569640"
-  - "10580373"
-Swedish Open Cultural Heritage URI: SMVK-EM/name/1551293
-birth name: Karl Heinrich Marx
+name_in_native_language: "Karl Marx"
+Commons_Creator_page: "Karl Marx"
+Commons_gallery: "Karl Marx"
+Commons_category: "Karl Marx"
+date_of_birth: "1818-05-05T00:00:00Z"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Marx-ar.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Marx%20001.jpg"
+image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Marx%20Grave.jpg"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Marx%20Signature.svg"
+NLC_authorities: 000205383
+U_S_National_Archives_Identifier:
+- 10569640
+- 10580373
+Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/1551293
+birth_name: "Karl Heinrich Marx"
 Libris-URI: 42gjk8zn0slfltw
-BHCL UUID: a8b63136-ae0a-4818-8a52-9ca454ae1f16
-Europeana entity: agent/base/145337
-Regensburg Classification: BF 6410
-Wolfram Language entity code: Entity["Concept", "KarlMarx::882q5"]
+BHCL_UUID: a8b63136-ae0a-4818-8a52-9ca454ae1f16
+Europeana_entity: agent/base/145337
+Regensburg_Classification: "BF 6410"
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"KarlMarx::882q5\"]"
 pseudonym: Glückskind
-Krugosvet article: istoriya/MARKS_KARL.html
-PhilPapers topic: karl-marx
+Krugosvet_article: istoriya/MARKS_KARL.html
+PhilPapers_topic: karl-marx
 ---
-
 
 ## #has_/text_of_/abstract 
 

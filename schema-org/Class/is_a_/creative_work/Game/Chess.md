@@ -1,42 +1,42 @@
----
+﻿---
 has_id_wikidata: Q7181
-named after: "[[_Standards/WikiData/WD~globe,133792]]"
-has cause:
-  - "[[_Standards/WikiData/WD~international trade,178803]]"
-  - "[[_Standards/WikiData/WD~diplomacy,1889]]"
-  - "[[_Standards/WikiData/WD~mass media,11033]]"
-  - "[[_Standards/WikiData/WD~travel,61509]]"
-has effect:
-  - "[[_Standards/WikiData/WD~multiculturalism,190656]]"
-  - "[[_Standards/WikiData/WD~cultural conflict,5193269]]"
-opposite of:
-  - "[[_Standards/WikiData/WD~deglobalization,977984]]"
-  - "[[_Standards/WikiData/WD~triadization,2452266]]"
-instance of: "[[_Standards/WikiData/WD~social theory,1990987]]"
-said to be the same as: "[[_Standards/WikiData/WD~economic globalization,2339766]]"
-studied in:
-  - "[[_Standards/WikiData/WD~international studies,5654877]]"
-  - "[[_Standards/WikiData/WD~globalization studies,87593377]]"
-history of topic: "[[_Standards/WikiData/WD~history of globalization,5867928]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Globalization,11289692]]"
-  - "[[_Standards/WikiData/WD~Template_Globalization sidebar,16827250]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of globalization,17164731]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-different from: "[[_Standards/WikiData/WD~multilingualization,24897624]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-Wolfram Language entity code: Entity["Concept", "Globalisation::zbks4"]
-Library of Congress Classification: JZ1317.5-JZ1324
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Globalization.mp3
-subclass of: "[[_Standards/WikiData/WD~interaction,52948]]"
-OmegaWiki Defined Meaning: "7329"
-related image: http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20de%20Panam%C3%A1%20Mayo%202008%20342.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Globalisasyon.wav
-PhilPapers topic: globalization
-Commons category: Globalization
-Krugosvet article: istoriya/GLOBALIZATSIYA.html
+named_after: '[[_Standards/WikiData/WD~globe,133792]]'
+has_cause:
+- "[[_Standards/WikiData/WD~international trade,178803]]"
+- '[[_Standards/WikiData/WD~diplomacy,1889]]'
+- "[[_Standards/WikiData/WD~mass media,11033]]"
+- '[[_Standards/WikiData/WD~travel,61509]]'
+has_effect:
+- '[[_Standards/WikiData/WD~multiculturalism,190656]]'
+- "[[_Standards/WikiData/WD~cultural conflict,5193269]]"
+opposite_of:
+- '[[_Standards/WikiData/WD~deglobalization,977984]]'
+- '[[_Standards/WikiData/WD~triadization,2452266]]'
+instance_of: "[[_Standards/WikiData/WD~social theory,1990987]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~economic globalization,2339766]]"
+studied_in:
+- "[[_Standards/WikiData/WD~international studies,5654877]]"
+- "[[_Standards/WikiData/WD~globalization studies,87593377]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of globalization,5867928]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Globalization,11289692]]'
+- "[[_Standards/WikiData/WD~Template_Globalization sidebar,16827250]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of globalization,17164731]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+different_from: '[[_Standards/WikiData/WD~multilingualization,24897624]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"Globalisation::zbks4\"]"
+Library_of_Congress_Classification: JZ1317.5-JZ1324
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Globalization.mp3"
+subclass_of: '[[_Standards/WikiData/WD~interaction,52948]]'
+OmegaWiki_Defined_Meaning: 7329
+related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20de%20Panam%C3%A1%20Mayo%202008%20342.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Globalisasyon.wav"
+PhilPapers_topic: globalization
+Commons_category: Globalization
+Krugosvet_article: istoriya/GLOBALIZATSIYA.html
 ---
 
 # [[Chess]] 

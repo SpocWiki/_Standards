@@ -1,280 +1,279 @@
----
-instance of:
-  - "[[_Standards/WikiData/WD~island country,112099]]"
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-  - "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Bikini Atoll,152225]]"
-  - "[[_Standards/WikiData/WD~Ebon Atoll,152754]]"
-  - "[[_Standards/WikiData/WD~Jaluit Atoll,168576]]"
-  - "[[_Standards/WikiData/WD~Wotho Atoll,175931]]"
-  - "[[_Standards/WikiData/WD~Aur Atoll,260549]]"
-  - "[[_Standards/WikiData/WD~Kwajalein,309172]]"
-  - "[[_Standards/WikiData/WD~Lib Island,376862]]"
-  - "[[_Standards/WikiData/WD~Ailinginae Atoll,405164]]"
-  - "[[_Standards/WikiData/WD~Ailinglaplap Atoll,405165]]"
-  - "[[_Standards/WikiData/WD~Ailuk Atoll,405378]]"
-  - "[[_Standards/WikiData/WD~Wotje Atoll,518210]]"
-  - "[[_Standards/WikiData/WD~Likiep Atoll,518353]]"
-  - "[[_Standards/WikiData/WD~Rongelap Atoll,542619]]"
-  - "[[_Standards/WikiData/WD~Maloelap Atoll,567926]]"
-  - "[[_Standards/WikiData/WD~Enewetak Atoll,649190]]"
-  - "[[_Standards/WikiData/WD~Arno Atoll,694057]]"
-  - "[[_Standards/WikiData/WD~Ujae Atoll,697802]]"
-  - "[[_Standards/WikiData/WD~Jabat Island,697805]]"
-  - "[[_Standards/WikiData/WD~Bikar Atoll,697812]]"
-  - "[[_Standards/WikiData/WD~Namdrik Atoll,697819]]"
-  - "[[_Standards/WikiData/WD~Rongerik Atoll,697826]]"
-  - "[[_Standards/WikiData/WD~Kili Island,697832]]"
-  - "[[_Standards/WikiData/WD~Utirik Atoll,700015]]"
-  - "[[_Standards/WikiData/WD~Mili Atoll,700051]]"
-  - "[[_Standards/WikiData/WD~Bokak Atoll,700138]]"
-  - "[[_Standards/WikiData/WD~Mejit Island,703543]]"
-  - "[[_Standards/WikiData/WD~Toke Atoll,703587]]"
-  - "[[_Standards/WikiData/WD~Ujelang Atoll,703596]]"
-  - "[[_Standards/WikiData/WD~Erikub Atoll,703618]]"
-  - "[[_Standards/WikiData/WD~Namu Atoll,703627]]"
-  - "[[_Standards/WikiData/WD~Jemo Island,715830]]"
-  - "[[_Standards/WikiData/WD~Lae Atoll,741121]]"
-  - "[[_Standards/WikiData/WD~Majuro,12919]]"
-located in the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~German New Guinea,165008]]"
-  - "[[_Standards/WikiData/WD~German protectorate Marshall Islands,104722012]]"
-member of:
-  - "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+﻿---
+instance_of:
+- "[[_Standards/WikiData/WD~island country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Bikini Atoll,152225]]"
+- "[[_Standards/WikiData/WD~Ebon Atoll,152754]]"
+- "[[_Standards/WikiData/WD~Jaluit Atoll,168576]]"
+- "[[_Standards/WikiData/WD~Wotho Atoll,175931]]"
+- "[[_Standards/WikiData/WD~Aur Atoll,260549]]"
+- '[[_Standards/WikiData/WD~Kwajalein,309172]]'
+- "[[_Standards/WikiData/WD~Lib Island,376862]]"
+- "[[_Standards/WikiData/WD~Ailinginae Atoll,405164]]"
+- "[[_Standards/WikiData/WD~Ailinglaplap Atoll,405165]]"
+- "[[_Standards/WikiData/WD~Ailuk Atoll,405378]]"
+- "[[_Standards/WikiData/WD~Wotje Atoll,518210]]"
+- "[[_Standards/WikiData/WD~Likiep Atoll,518353]]"
+- "[[_Standards/WikiData/WD~Rongelap Atoll,542619]]"
+- "[[_Standards/WikiData/WD~Maloelap Atoll,567926]]"
+- "[[_Standards/WikiData/WD~Enewetak Atoll,649190]]"
+- "[[_Standards/WikiData/WD~Arno Atoll,694057]]"
+- "[[_Standards/WikiData/WD~Ujae Atoll,697802]]"
+- "[[_Standards/WikiData/WD~Jabat Island,697805]]"
+- "[[_Standards/WikiData/WD~Bikar Atoll,697812]]"
+- "[[_Standards/WikiData/WD~Namdrik Atoll,697819]]"
+- "[[_Standards/WikiData/WD~Rongerik Atoll,697826]]"
+- "[[_Standards/WikiData/WD~Kili Island,697832]]"
+- "[[_Standards/WikiData/WD~Utirik Atoll,700015]]"
+- "[[_Standards/WikiData/WD~Mili Atoll,700051]]"
+- "[[_Standards/WikiData/WD~Bokak Atoll,700138]]"
+- "[[_Standards/WikiData/WD~Mejit Island,703543]]"
+- "[[_Standards/WikiData/WD~Toke Atoll,703587]]"
+- "[[_Standards/WikiData/WD~Ujelang Atoll,703596]]"
+- "[[_Standards/WikiData/WD~Erikub Atoll,703618]]"
+- "[[_Standards/WikiData/WD~Namu Atoll,703627]]"
+- "[[_Standards/WikiData/WD~Jemo Island,715830]]"
+- "[[_Standards/WikiData/WD~Lae Atoll,741121]]"
+- '[[_Standards/WikiData/WD~Majuro,12919]]'
+located_in_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~German New Guinea,165008]]"
+- "[[_Standards/WikiData/WD~German protectorate Marshall Islands,104722012]]"
+member_of:
+- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
 flag: "[[_Standards/WikiData/WD~flag of the Marshall Islands,200260]]"
-"has seal, badge, or sigil": "[[_Standards/WikiData/WD~Seal of the Marshall Islands,459364]]"
-coat of arms: "[[_Standards/WikiData/WD~Seal of the Marshall Islands,459364]]"
-highest point: "[[_Standards/WikiData/WD~Likiep Atoll,518353]]"
-emergency phone number: "[[_Standards/WikiData/WD~911,533806]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
-named after: "[[_Standards/WikiData/WD~John Marshall,639410]]"
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Seal of the Marshall Islands,459364]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Seal of the Marshall Islands,459364]]"
+highest_point: "[[_Standards/WikiData/WD~Likiep Atoll,518353]]"
+emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+named_after: "[[_Standards/WikiData/WD~John Marshall,639410]]"
 anthem: "[[_Standards/WikiData/WD~Forever Marshall Islands,858826]]"
-history of topic: "[[_Standards/WikiData/WD~history of the Marshall Islands,899049]]"
-legislative body: "[[_Standards/WikiData/WD~Legislature of the Marshall Islands,1280186]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of the Marshall Islands,2734623]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of the Marshall Islands,3044358]]"
-has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of the Marshall Islands,3315868]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~Micronesia,3359409]]"
-part of:
-  - "[[_Standards/WikiData/WD~Micronesia,3359409]]"
-  - "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of the Marshall Islands,3736673]]"
-office held by head of government: "[[_Standards/WikiData/WD~President of the Marshall Islands,3736673]]"
-executive body: "[[_Standards/WikiData/WD~Government of the Marshall Islands,5589399]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of the Marshall Islands,899049]]"
+legislative_body: "[[_Standards/WikiData/WD~Legislature of the Marshall Islands,1280186]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of the Marshall Islands,2734623]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Marshall Islands,3044358]]"
+has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of the Marshall Islands,3315868]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Micronesia,3359409]]'
+part_of:
+- '[[_Standards/WikiData/WD~Micronesia,3359409]]'
+- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the Marshall Islands,3736673]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of the Marshall Islands,3736673]]"
+executive_body: "[[_Standards/WikiData/WD~Government of the Marshall Islands,5589399]]"
 culture: "[[_Standards/WikiData/WD~Marshallese culture,6773852]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of the Marshall Islands,7112766]]"
-geoshape: http://commons.wikimedia.org/data/main/Data:Marshall+Islands.map
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Marshallinselen.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-illes%20Marshall.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Insulele%20Marshall.wav
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Islands%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg
-IPA transcription: "'mɑːʂɑlœɪənə"
-country calling code: "+692"
-Commons gallery: Ṃajeḷ / Marshall Islands
-CIVICUS Monitor country entry: marshall-islands
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Marshall Islands,7112766]]"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Marshall+Islands.map"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Marshallinselen.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-illes%20Marshall.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Insulele%20Marshall.wav"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Islands%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg"
+IPA_transcription: "'mɑːʂɑlœɪənə"
+country_calling_code: +692
+Commons_gallery: "Ṃajeḷ / Marshall Islands"
+CIVICUS_Monitor_country_entry: marshall-islands
 subreddit: MarshallIslands
 hashtag: MarshallIslands
-Krugosvet article: strany_mira/MARSHALLOVI_OSTROVA.html
+Krugosvet_article: strany_mira/MARSHALLOVI_OSTROVA.html
 Libris-URI: zw9cb52h513v2ns
 demonym:
-  - marxalés
-  - marxalesa
-  - Marshallaise
-  - מאיי מרשל
-  - marshallesi
-  - маршалльцы
-  - marshałeza
-  - marshałeze
-  - marshałezi
-  - marshałezo
-  - مارشالي
-  - مارشالية
-  - مارشاليين
-  - مارشاليات
-  - Mairseallach
-  - Marshallais
-  - Marshall-szigeteki
-  - marshallese
-  - majel
-  - Marshallese
-  - marshallais
-motto text:
-  - Постижения чрез обединени усилия
-  - Accomplishment through joint effort
-  - Jepilpilin ke ejukaan
-  - Cyflawniad trwy ymdrech ar y cyd
-native label: Aolepān Aorōkin M̧ajeļ
-official name:
-  - Aolepān Aorōkin M̧ajeļ
-  - Marshall Islands
-short name:
-  - 🇲🇭
-  - MH
-topic's main template: "[[_Standards/WikiData/WD~Template_Marshall Islands,13360414]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Marshall Islands portal,15145524]]"
-archives at: "[[_Standards/WikiData/WD~National Archives of the Marshall Islands,16888259]]"
-head of state: "[[_Standards/WikiData/WD~Hilda C. Heine,20090884]]"
-head of government: "[[_Standards/WikiData/WD~Hilda C. Heine,20090884]]"
-highest judicial authority: "[[_Standards/WikiData/WD~Supreme Court of the Marshall Islands,25350659]]"
-category for people born here: "[[_Standards/WikiData/WD~Q32372270,32372270]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Pacific_Majuro,63285970]]"
-  - "[[_Standards/WikiData/WD~Pacific_Kwajalein,63285971]]"
-  - "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
-currency: "[[_Standards/WikiData/WD~SOV,96051466]]"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Islands%20banner.jpg
-coordinates of northernmost point: Point(168.92 14.72)
+- marxalés
+- marxalesa
+- Marshallaise
+- "מאיי מרשל"
+- marshallesi
+- маршалльцы
+- marshałeza
+- marshałeze
+- marshałezi
+- marshałezo
+- مارشالي
+- مارشالية
+- مارشاليين
+- مارشاليات
+- Mairseallach
+- Marshallais
+- Marshall-szigeteki
+- marshallese
+- majel
+- Marshallese
+- marshallais
+motto_text:
+- "Постижения чрез обединени усилия"
+- "Accomplishment through joint effort"
+- "Jepilpilin ke ejukaan"
+- "Cyflawniad trwy ymdrech ar y cyd"
+native_label: "Aolepān Aorōkin M̧ajeļ"
+official_name:
+- "Aolepān Aorōkin M̧ajeļ"
+- "Marshall Islands"
+short_name:
+- "\U0001F1F2\U0001F1ED"
+- MH
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Marshall Islands,13360414]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Marshall Islands portal,15145524]]"
+archives_at: "[[_Standards/WikiData/WD~National Archives of the Marshall Islands,16888259]]"
+head_of_state: "[[_Standards/WikiData/WD~Hilda C. Heine,20090884]]"
+head_of_government: "[[_Standards/WikiData/WD~Hilda C. Heine,20090884]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of the Marshall Islands,25350659]]"
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q32372270,32372270]]'
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~Pacific_Majuro,63285970]]'
+- '[[_Standards/WikiData/WD~Pacific_Kwajalein,63285971]]'
+- '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
+currency: '[[_Standards/WikiData/WD~SOV,96051466]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Islands%20banner.jpg"
+coordinates_of_northernmost_point: "Point(168.92 14.72)"
 continent: "[[_Standards/WikiData/WD~Insular Oceania,538]]"
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~Palau,695]]"
-  - "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Nauru,697]]"
-  - "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
-  - "[[_Standards/WikiData/WD~Kiribati,710]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
+diplomatic_relation:
+- '[[_Standards/WikiData/WD~Palau,695]]'
+- "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Nauru,697]]'
+- "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
+- '[[_Standards/WikiData/WD~Kiribati,710]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
 country: "[[_Standards/WikiData/WD~Marshall Islands,709]]"
-U.S. National Archives Identifier: "10046189"
-Unicode character: 🇲🇭
-coordinates of easternmost point: Point(172.165288888 5.896261111)
-coordinate location: Point(169.29 9.82)
-language used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Marshallese,36280]]"
-official language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Marshallese,36280]]"
-capital: "[[_Standards/WikiData/WD~Majuro,12919]]"
-lowest point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-located in or next to body of water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-water as percent of area: 0
-minimum temperature record: 20
-compulsory education (maximum age): 14
-top-level Internet domain: "[[_Standards/WikiData/WD~.mh,41789]]"
-Gini coefficient: 35.5
-maximum temperature record: 35.6
-total fertility rate: 4.05
-Human Development Index: 0.639
-death rate:
-  - 7.29
-  - 7.425
-  - 7.556
-  - 7.919
-rural population:
-  - 9640
-  - 8929
-  - 9183
-  - 10101
-ISO 3166-1 numeric code: "584"
-M49 code: "584"
-FIPS 5-2 numeric code (US states): "68"
-birth rate:
-  - 19.28
-  - 18.524
-  - 20.006
-  - 20.744
-male population:
-  - 22190
-  - 21223
-  - 21483
-  - 22874
-urban population:
-  - 32640
-  - 32867
-  - 33773
-  - 34627
-number of out-of-school children: 3624
-IAB code: "1442"
-FIPS 10-4 (countries and regions): RM
-maritime identification digits: "538"
-ISO 3166-1 alpha-2 code: MH
-FIPS 5-2 alpha code (US states): MH
+U_S_National_Archives_Identifier: 10046189
+Unicode_character: "\U0001F1F2\U0001F1ED"
+coordinates_of_easternmost_point: "Point(172.165288888 5.896261111)"
+coordinate_location: "Point(169.29 9.82)"
+language_used:
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Marshallese,36280]]'
+official_language:
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Marshallese,36280]]'
+capital: '[[_Standards/WikiData/WD~Majuro,12919]]'
+lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+water_as_percent_of_area: 0
+minimum_temperature_record: 20
+compulsory_education_maximum_age_: 14
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.mh,41789]]'
+Gini_coefficient: 35.5
+maximum_temperature_record: 35.6
+total_fertility_rate: 4.05
+Human_Development_Index: 0.639
+death_rate:
+- 7.29
+- 7.425
+- 7.556
+- 7.919
+rural_population:
+- 9640
+- 8929
+- 9183
+- 10101
+ISO_3166-1_numeric_code: 584
+M49_code: 584
+FIPS_5-2_numeric_code_US_states_: 68
+birth_rate:
+- 19.28
+- 18.524
+- 20.006
+- 20.744
+male_population:
+- 22190
+- 21223
+- 21483
+- 22874
+urban_population:
+- 32640
+- 32867
+- 33773
+- 34627
+number_of_out-of-school_children: 3624
+IAB_code: 1442
+FIPS_10-4_countries_and_regions_: RM
+maritime_identification_digits: 538
+ISO_3166-1_alpha-2_code: MH
+FIPS_5-2_alpha_code_US_states_: MH
 area: 181.43
-female population:
-  - 20346
-  - 20567
-  - 21224
-  - 21855
-mobile country code: "551"
+female_population:
+- 20346
+- 20567
+- 21224
+- 21855
+mobile_country_code: 551
 population: 53127
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20Marshall%20Islands.svg
-INSEE countries and foreign territories code: "99515"
-PM20 geo code: D16
-OmegaWiki Defined Meaning: "154432"
-nominal GDP:
-  - 259538700
-  - 279667900
-coordinates of westernmost point: Point(160.9 9.822222222)
-life expectancy: 65.23902
-ISO 3166-1 alpha-3 code: MHL
-ITU letter code: MHL
-IOC country code: MHL
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Marshall%20Islands.svg
-Commons category: Marshall Islands
-inception: 1986-10-21T00:00:00Z 
-has_time_started: 1986-10-21T00:00:00Z 
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20Marshall%20Islands.svg"
+INSEE_countries_and_foreign_territories_code: 99515
+PM20_geo_code: D16
+OmegaWiki_Defined_Meaning: 154432
+nominal_GDP:
+- 259538700
+- 279667900
+coordinates_of_westernmost_point: "Point(160.9 9.822222222)"
+life_expectancy: 65.23902
+ISO_3166-1_alpha-3_code: MHL
+ITU_letter_code: MHL
+IOC_country_code: MHL
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Marshall%20Islands.svg"
+Commons_category: "Marshall Islands"
+inception: "1986-10-21T00:00:00Z"
+has_time_started: "1986-10-21T00:00:00Z"
 has_id_wikidata: Q709
 location:
-    - 9.34833
-    - 168.348
+- 9.34833
+- 168.348
 type: Country
 tags:
-    - geo/Country
-has_id_wikidata: Q709 
+- geo/Country
 SpocWebEntityId: 26960
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
-title: Marshall Islands
-linkTitle: null
-keywords: null
-layout: null
+title: "Marshall Islands"
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - Marshall Islands
-    - Islas Marshall
-    - Îles Marshall
-    - جزر مارشال
-    - 马绍尔群岛
-    - Маршалловы Острова
-    - the Republic of the Marshall Islands
-    - Marshall Islands (the)
-    - la República de las Islas Marshall
-    - Islas Marshall (las)
+- "Marshall Islands"
+- "Islas Marshall"
+- "Îles Marshall"
+- "جزر مارشال"
+- 马绍尔群岛
+- "Маршалловы Острова"
+- "the Republic of the Marshall Islands"
+- "Marshall Islands (the)"
+- "la República de las Islas Marshall"
+- "Islas Marshall (las)"
 Languages:
-    - mh
-    - en-MH
+- mh
+- en-MH
 icon: flag-mh
 ---
 

@@ -1,74 +1,73 @@
----
+﻿---
 has_id_wikidata: Q3392
-different from: "[[_Standards/WikiData/WD~Nil,342513]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+different_from: '[[_Standards/WikiData/WD~Nil,342513]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Atbarah River,753897]]"
-  - "[[_Standards/WikiData/WD~Wadi Hammamat,1479250]]"
-origin of the watercourse:
-  - "[[_Standards/WikiData/WD~Blue Nile,882739]]"
-  - "[[_Standards/WikiData/WD~White Nile,4814791]]"
-drainage basin: "[[_Standards/WikiData/WD~Nile basin,2887548]]"
-topic's main template: "[[_Standards/WikiData/WD~Q17984079,17984079]]"
-depicted by:
-  - "[[_Standards/WikiData/WD~Nile, Fountain in Piazza del Campidoglio,125809210]]"
-  - "[[_Standards/WikiData/WD~Nile in Fontana dei fiumi,126210738]]"
-  - "[[_Standards/WikiData/WD~Allegories of the Nile,126421284]]"
-coordinate location:
-  - Point(32.5055 15.640138888)
-  - Point(30.3667 31.4653)
-BHCL UUID: 1d9421f4-29bf-468a-bb56-ce06ed15a88f
-basin country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~South Sudan,958]]"
-  - "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-  - "[[_Standards/WikiData/WD~Eritrea,986]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
+- "[[_Standards/WikiData/WD~Atbarah River,753897]]"
+- "[[_Standards/WikiData/WD~Wadi Hammamat,1479250]]"
+origin_of_the_watercourse:
+- "[[_Standards/WikiData/WD~Blue Nile,882739]]"
+- "[[_Standards/WikiData/WD~White Nile,4814791]]"
+drainage_basin: "[[_Standards/WikiData/WD~Nile basin,2887548]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q17984079,17984079]]'
+depicted_by:
+- "[[_Standards/WikiData/WD~Nile, Fountain in Piazza del Campidoglio,125809210]]"
+- "[[_Standards/WikiData/WD~Nile in Fontana dei fiumi,126210738]]"
+- "[[_Standards/WikiData/WD~Allegories of the Nile,126421284]]"
+coordinate_location:
+- "Point(32.5055 15.640138888)"
+- "Point(30.3667 31.4653)"
+BHCL_UUID: 1d9421f4-29bf-468a-bb56-ce06ed15a88f
+basin_country:
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- '[[_Standards/WikiData/WD~Eritrea,986]]'
+- '[[_Standards/WikiData/WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Sudan,1049]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
 country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~South Sudan,958]]"
-  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-  - "[[_Standards/WikiData/WD~Eritrea,986]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-instance of: "[[_Standards/WikiData/WD~river,4022]]"
-mouth of the watercourse: "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-elevation above sea level:
-  - 0
-  - 2700
-watershed area: 3400000
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- '[[_Standards/WikiData/WD~Eritrea,986]]'
+- '[[_Standards/WikiData/WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Sudan,1049]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+instance_of: '[[_Standards/WikiData/WD~river,4022]]'
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+elevation_above_sea_level:
+- 0
+- 2700
+watershed_area: 3400000
 discharge: 2830
 length: 6650
-OmegaWiki Defined Meaning: "1337351"
-U.S. National Archives Identifier: "10038761"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Aswan%20banner.jpg
-Commons gallery: Nile
-Commons category: Nile
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Cairo%20skyline%2C%20Panoramic%20view%2C%20Egypt.jpg
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/ISS-64%20Nile%20Delta%2C%20Sinai%20Peninsula%20and%20Mediterranean%20Sea%2C%20Middle%20East.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%86%D9%87%D8%B1%20%D8%A7%D9%84%D9%86%D9%8A%D9%84.wav
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/River%20Nile%20map.svg
-Wolfram Language entity code: Entity["River", "Nile::h43n2"]
-DPLA subject term: Nile River
+OmegaWiki_Defined_Meaning: 1337351
+U_S_National_Archives_Identifier: 10038761
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Aswan%20banner.jpg"
+Commons_gallery: Nile
+Commons_category: Nile
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cairo%20skyline%2C%20Panoramic%20view%2C%20Egypt.jpg"
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS-64%20Nile%20Delta%2C%20Sinai%20Peninsula%20and%20Mediterranean%20Sea%2C%20Middle%20East.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%86%D9%87%D8%B1%20%D8%A7%D9%84%D9%86%D9%8A%D9%84.wav"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/River%20Nile%20map.svg"
+Wolfram_Language_entity_code: "Entity[\"River\", \"Nile::h43n2\"]"
+DPLA_subject_term: "Nile River"
 ---
-
 
 ## #has_/text_of_/abstract 
 

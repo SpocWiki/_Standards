@@ -1,67 +1,66 @@
----
+﻿---
 has_id_wikidata: Q1073
-Colon Classification: L72
-Commons gallery: Brain
-Commons category: Brain
-Unicode character: 🧠
-subclass of:
-  - "[[_Standards/WikiData/WD~encephalon,75865]]"
-  - "[[_Standards/WikiData/WD~animal organ,24060765]]"
-  - "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~brain stem,182228]]"
-  - "[[_Standards/WikiData/WD~Mesencephalon,185080]]"
-  - "[[_Standards/WikiData/WD~prosencephalon,507027]]"
-  - "[[_Standards/WikiData/WD~rhombencephalon,1137072]]"
-connects with:
-  - "[[_Standards/WikiData/WD~optic nerve,186029]]"
-  - "[[_Standards/WikiData/WD~cranium,28947902]]"
-  - "[[_Standards/WikiData/WD~spinal cord,9606]]"
-studied in: "[[_Standards/WikiData/WD~neuroscience,207011]]"
-different from:
-  - "[[_Standards/WikiData/WD~human brain,492038]]"
-  - "[[_Standards/WikiData/WD~Brain,118501881]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-has cause:
-  - "[[_Standards/WikiData/WD~cephalization,1054543]]"
-  - "[[_Standards/WikiData/WD~brain development,14330969]]"
-anatomical location: "[[_Standards/WikiData/WD~cranial cavity,1710207]]"
-part of:
-  - "[[_Standards/WikiData/WD~neurovascular system,2330350]]"
-  - "[[_Standards/WikiData/WD~head,23640]]"
-  - "[[_Standards/WikiData/WD~central nervous system,47273]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox brain,7465538]]"
-  - "[[_Standards/WikiData/WD~Q10635998,10635998]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Chimp%20Brain%20in%20a%20jar.jpg
-small logo or icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20brain.svg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Garuna%2C%20erosle.webm
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AC%D5%AD%D5%B8%D6%82%D5%B2%D5%A5%D5%B2.ogg
-exact match:
-  - https://schema.org/BrainStructure
-  - https://turkic.elegantlexicon.com/turkforms.php?form=brainbrain
-  - https://ids.clld.org/parameters/4-203
-ground level 360 degree view URL:
-  - https://www.openanatomy.org/atlases/nac/brain-2017-01/viewer/#!/state/0c6fccc7-a7fc-4bc5-a6e5-648173430547
-  - https://www.zygotebody.com/#nav=1.46,112.52,99.98,0,0,0,0&sel=p:;h:;s:1754;c:-0.6;o:-0.75&layers=0,1,1250
-MeSH tree code: A08.186.211
-UMLS CUI:
-  - C1269537
-  - C0006104
-TA98 Latin term: cerebrum
-instance of:
-  - "[[_Standards/WikiData/WD~organ type,103812529]]"
-  - "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Gehirn2.ogg
-IAB code: "313"
-OmegaWiki Defined Meaning: "6504"
+Colon_Classification: L72
+Commons_gallery: Brain
+Commons_category: Brain
+Unicode_character: "\U0001F9E0"
+subclass_of:
+- '[[_Standards/WikiData/WD~encephalon,75865]]'
+- "[[_Standards/WikiData/WD~animal organ,24060765]]"
+- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~brain stem,182228]]"
+- '[[_Standards/WikiData/WD~Mesencephalon,185080]]'
+- '[[_Standards/WikiData/WD~prosencephalon,507027]]'
+- '[[_Standards/WikiData/WD~rhombencephalon,1137072]]'
+connects_with:
+- "[[_Standards/WikiData/WD~optic nerve,186029]]"
+- '[[_Standards/WikiData/WD~cranium,28947902]]'
+- "[[_Standards/WikiData/WD~spinal cord,9606]]"
+studied_in: '[[_Standards/WikiData/WD~neuroscience,207011]]'
+different_from:
+- "[[_Standards/WikiData/WD~human brain,492038]]"
+- '[[_Standards/WikiData/WD~Brain,118501881]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+has_cause:
+- '[[_Standards/WikiData/WD~cephalization,1054543]]'
+- "[[_Standards/WikiData/WD~brain development,14330969]]"
+anatomical_location: "[[_Standards/WikiData/WD~cranial cavity,1710207]]"
+part_of:
+- "[[_Standards/WikiData/WD~neurovascular system,2330350]]"
+- '[[_Standards/WikiData/WD~head,23640]]'
+- "[[_Standards/WikiData/WD~central nervous system,47273]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox brain,7465538]]"
+- '[[_Standards/WikiData/WD~Q10635998,10635998]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Chimp%20Brain%20in%20a%20jar.jpg"
+small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20brain.svg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Garuna%2C%20erosle.webm"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AC%D5%AD%D5%B8%D6%82%D5%B2%D5%A5%D5%B2.ogg"
+exact_match:
+- "https://schema.org/BrainStructure"
+- "https://turkic.elegantlexicon.com/turkforms.php?form=brainbrain"
+- "https://ids.clld.org/parameters/4-203"
+ground_level_360_degree_view_URL:
+- "https://www.openanatomy.org/atlases/nac/brain-2017-01/viewer/#!/state/0c6fccc7-a7fc-4bc5-a6e5-648173430547"
+- "https://www.zygotebody.com/#nav=1.46,112.52,99.98,0,0,0,0&sel=p:;h:;s:1754;c:-0.6;o:-0.75&layers=0,1,1250"
+MeSH_tree_code: A08.186.211
+UMLS_CUI:
+- C1269537
+- C0006104
+TA98_Latin_term: cerebrum
+instance_of:
+- "[[_Standards/WikiData/WD~organ type,103812529]]"
+- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Gehirn2.ogg"
+IAB_code: 313
+OmegaWiki_Defined_Meaning: 6504
 ---
-
 
 ## #has_/text_of_/abstract 
 

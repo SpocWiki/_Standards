@@ -1,64 +1,63 @@
----
+﻿---
 has_id_wikidata: Q6607
-Dewey Decimal Classification: "787.87"
-Krugosvet article: kultura_i_obrazovanie/muzyka/GITARA.html
-has part(s):
-  - "[[_Standards/WikiData/WD~sound hole,221712]]"
-  - "[[_Standards/WikiData/WD~truss rod,590623]]"
-  - "[[_Standards/WikiData/WD~fret,636309]]"
-  - "[[_Standards/WikiData/WD~fretboard,745887]]"
-  - "[[_Standards/WikiData/WD~bridge,830869]]"
-  - "[[_Standards/WikiData/WD~neck,944038]]"
-  - "[[_Standards/WikiData/WD~headstock,1033547]]"
-  - "[[_Standards/WikiData/WD~nut,1186738]]"
-  - "[[_Standards/WikiData/WD~sound board,1189953]]"
-  - "[[_Standards/WikiData/WD~guitar string,1527700]]"
-  - "[[_Standards/WikiData/WD~inlay,6034896]]"
-  - "[[_Standards/WikiData/WD~machine head,17149240]]"
-  - "[[_Standards/WikiData/WD~body,55185381]]"
-made from material:
-  - "[[_Standards/WikiData/WD~mahogany wood,239788]]"
-  - "[[_Standards/WikiData/WD~maple wood,402516]]"
-depicted by: "[[_Standards/WikiData/WD~Guitar Hero,533752]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Diccionario del español de México,5805556]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica,455]]"
-used by: "[[_Standards/WikiData/WD~guitarist,855091]]"
-different from: "[[_Standards/WikiData/WD~Sista,4420886]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox guitar model,10563739]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Guitar,14615774]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q21201204,21201204]]"
-award received: "[[_Standards/WikiData/WD~Instrument of the Year,48757486]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~guitar accessories,55185569]]"
-partially coincident with: "[[_Standards/WikiData/WD~electro-acoustic chordophones,55738960]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~Q57306162,57306162]]"
-  - "[[_Standards/WikiData/WD~long, thin object,113519195]]"
-instance of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
-Baidu Tieba name: 吉他
-Hornbostel-Sachs classification: 321.322-5-6
-OmegaWiki Defined Meaning: "349118"
-Nomenclature for Museum Cataloging: "10792"
-Commons category: Guitars
-social media followers: 1645845
-Amazon.com browse node: "11971241"
-Unicode character: 🎸
-GitHub topic: guitar
+Dewey_Decimal_Classification: 787.87
+Krugosvet_article: kultura_i_obrazovanie/muzyka/GITARA.html
+has_part_s_:
+- "[[_Standards/WikiData/WD~sound hole,221712]]"
+- "[[_Standards/WikiData/WD~truss rod,590623]]"
+- '[[_Standards/WikiData/WD~fret,636309]]'
+- '[[_Standards/WikiData/WD~fretboard,745887]]'
+- '[[_Standards/WikiData/WD~bridge,830869]]'
+- '[[_Standards/WikiData/WD~neck,944038]]'
+- '[[_Standards/WikiData/WD~headstock,1033547]]'
+- '[[_Standards/WikiData/WD~nut,1186738]]'
+- "[[_Standards/WikiData/WD~sound board,1189953]]"
+- "[[_Standards/WikiData/WD~guitar string,1527700]]"
+- '[[_Standards/WikiData/WD~inlay,6034896]]'
+- "[[_Standards/WikiData/WD~machine head,17149240]]"
+- '[[_Standards/WikiData/WD~body,55185381]]'
+made_from_material:
+- "[[_Standards/WikiData/WD~mahogany wood,239788]]"
+- "[[_Standards/WikiData/WD~maple wood,402516]]"
+depicted_by: "[[_Standards/WikiData/WD~Guitar Hero,533752]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Diccionario del español de México,5805556]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica,455]]"
+used_by: '[[_Standards/WikiData/WD~guitarist,855091]]'
+different_from: '[[_Standards/WikiData/WD~Sista,4420886]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox guitar model,10563739]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guitar,14615774]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201204,21201204]]'
+award_received: "[[_Standards/WikiData/WD~Instrument of the Year,48757486]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~guitar accessories,55185569]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~electro-acoustic chordophones,55738960]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~Q57306162,57306162]]'
+- "[[_Standards/WikiData/WD~long, thin object,113519195]]"
+instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
+Baidu_Tieba_name: 吉他
+Hornbostel-Sachs_classification: 321.322-5-6
+OmegaWiki_Defined_Meaning: 349118
+Nomenclature_for_Museum_Cataloging: 10792
+Commons_category: Guitars
+social_media_followers: 1645845
+Amazon_com_browse_node: 11971241
+Unicode_character: "\U0001F3B8"
+GitHub_topic: guitar
 subreddit: Guitar
-Commons gallery: Guitar
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Classical%20Guitar%20two%20views.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Mongrain-AirTap.ogv
-playing range image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20guitar.png
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Romanza%20espa%C3%B1ola.ogg
-equivalent class: http://dbpedia.org/ontology/Guitar
+Commons_gallery: Guitar
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Classical%20Guitar%20two%20views.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Mongrain-AirTap.ogv"
+playing_range_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Range%20guitar.png"
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Romanza%20espa%C3%B1ola.ogg"
+equivalent_class: "http://dbpedia.org/ontology/Guitar"
 ---
-
 
 ## #has_/text_of_/abstract 
 

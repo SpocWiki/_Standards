@@ -1,71 +1,70 @@
----
+﻿---
 has_id_wikidata: Q95074
-has characteristic:
-  - "[[_Standards/WikiData/WD~given name,202444]]"
-  - "[[_Standards/WikiData/WD~type of fictional character,112265308]]"
-  - "[[_Standards/WikiData/WD~biological sex,290]]"
-  - "[[_Standards/WikiData/WD~birthday,47223]]"
-model item:
-  - "[[_Standards/WikiData/WD~Doraemon,1186309]]"
-  - "[[_Standards/WikiData/WD~Yoh Asakura,2613152]]"
-  - "[[_Standards/WikiData/WD~Boruto Uzumaki,20426404]]"
-  - "[[_Standards/WikiData/WD~Pepper,47012488]]"
-different from:
-  - "[[_Standards/WikiData/WD~role,1707847]]"
-  - "[[_Standards/WikiData/WD~character,1792372]]"
-  - "[[_Standards/WikiData/WD~Personnage,3092486]]"
-  - "[[_Standards/WikiData/WD~mythical character,4271324]]"
-  - "[[_Standards/WikiData/WD~fictional human,15632617]]"
-  - "[[_Standards/WikiData/WD~character that may or may not be fictional,21070598]]"
-  - "[[_Standards/WikiData/WD~hypothetical person,75855169]]"
-  - "[[_Standards/WikiData/WD~fictional person,97498056]]"
-  - "[[_Standards/WikiData/WD~imaginary character,115537581]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-described by source: "[[_Standards/WikiData/WD~National Encyclopedia of Uzbekistan,5217764]]"
-has list: "[[_Standards/WikiData/WD~lists of fictional characters by work,6646924]]"
-instance of: "[[_Standards/WikiData/WD~literary element,6647660]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox character,6811189]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~fictional entity,14897293]]"
-  - "[[_Standards/WikiData/WD~imaginary character,115537581]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Narration,60007664]]"
-properties for this type:
-  - cause of death
-  - date of birth
-  - date of death
-  - given name
-  - family name
-  - inspired by
-  - from narrative universe
-  - present in work
-  - uses
-  - first appearance
-  - CharacTour character ID
-  - narrative age
-  - LezWatch.TV character ID
-  - Archive of Our Own tag
-  - character type
-  - Personality Database profile ID
-  - place of birth
-  - image
-  - sex or gender
-  - place of death
-  - country of citizenship
-  - occupation
-  - creator
-  - performer
-Wikidata property:
-  - characters
-  - narrative age
-PhilPapers topic: fictional-characters
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Quixote%2015.jpg
-equivalent class: http://dbpedia.org/ontology/FictionalCharacter
-Commons category: Fictional characters
-Wolfram Language entity type: FictionalCharacter
+has_characteristic:
+- "[[_Standards/WikiData/WD~given name,202444]]"
+- "[[_Standards/WikiData/WD~type of fictional character,112265308]]"
+- "[[_Standards/WikiData/WD~biological sex,290]]"
+- '[[_Standards/WikiData/WD~birthday,47223]]'
+model_item:
+- '[[_Standards/WikiData/WD~Doraemon,1186309]]'
+- "[[_Standards/WikiData/WD~Yoh Asakura,2613152]]"
+- "[[_Standards/WikiData/WD~Boruto Uzumaki,20426404]]"
+- '[[_Standards/WikiData/WD~Pepper,47012488]]'
+different_from:
+- '[[_Standards/WikiData/WD~role,1707847]]'
+- '[[_Standards/WikiData/WD~character,1792372]]'
+- '[[_Standards/WikiData/WD~Personnage,3092486]]'
+- "[[_Standards/WikiData/WD~mythical character,4271324]]"
+- "[[_Standards/WikiData/WD~fictional human,15632617]]"
+- "[[_Standards/WikiData/WD~character that may or may not be fictional,21070598]]"
+- "[[_Standards/WikiData/WD~hypothetical person,75855169]]"
+- "[[_Standards/WikiData/WD~fictional person,97498056]]"
+- "[[_Standards/WikiData/WD~imaginary character,115537581]]"
+- '[[_Standards/WikiData/WD~human,5]]'
+described_by_source: "[[_Standards/WikiData/WD~National Encyclopedia of Uzbekistan,5217764]]"
+has_list: "[[_Standards/WikiData/WD~lists of fictional characters by work,6646924]]"
+instance_of: "[[_Standards/WikiData/WD~literary element,6647660]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox character,6811189]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~fictional entity,14897293]]"
+- "[[_Standards/WikiData/WD~imaginary character,115537581]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Narration,60007664]]"
+properties_for_this_type:
+- "cause of death"
+- "date of birth"
+- "date of death"
+- "given name"
+- "family name"
+- "inspired by"
+- "from narrative universe"
+- "present in work"
+- uses
+- "first appearance"
+- "CharacTour character ID"
+- "narrative age"
+- "LezWatch.TV character ID"
+- "Archive of Our Own tag"
+- "character type"
+- "Personality Database profile ID"
+- "place of birth"
+- image
+- "sex or gender"
+- "place of death"
+- "country of citizenship"
+- occupation
+- creator
+- performer
+Wikidata_property:
+- characters
+- "narrative age"
+PhilPapers_topic: fictional-characters
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Quixote%2015.jpg"
+equivalent_class: "http://dbpedia.org/ontology/FictionalCharacter"
+Commons_category: "Fictional characters"
+Wolfram_Language_entity_type: FictionalCharacter
 subreddit: ImaginaryCharacters
-Krugosvet article: kultura_i_obrazovanie/teatr_i_kino/PERSONAZH.html
+Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/PERSONAZH.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

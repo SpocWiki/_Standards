@@ -1,30 +1,29 @@
----
+﻿---
 has_id_wikidata: Q12542
 uses: "[[_Standards/WikiData/WD~human sacrifice,119094]]"
 currency:
-  - "[[_Standards/WikiData/WD~cocoa bean,208008]]"
-  - "[[_Standards/WikiData/WD~Quachtli,105620744]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-history of topic: "[[_Standards/WikiData/WD~history of the Aztecs,2362871]]"
-instance of:
-  - "[[_Standards/WikiData/WD~historical ethnic group,4204501]]"
-  - "[[_Standards/WikiData/WD~civilization,8432]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-start time: 1200-01-01T00:00:00Z
-Commons category: Aztec
-U.S. National Archives Identifier: "10675178"
-Krugosvet article: istoriya/ATSTEKI.html
-end time: 1521-01-01T00:00:00Z
+- "[[_Standards/WikiData/WD~cocoa bean,208008]]"
+- '[[_Standards/WikiData/WD~Quachtli,105620744]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of the Aztecs,2362871]]"
+instance_of:
+- "[[_Standards/WikiData/WD~historical ethnic group,4204501]]"
+- '[[_Standards/WikiData/WD~civilization,8432]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
+start_time: "1200-01-01T00:00:00Z"
+Commons_category: Aztec
+U_S_National_Archives_Identifier: 10675178
+Krugosvet_article: istoriya/ATSTEKI.html
+end_time: "1521-01-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

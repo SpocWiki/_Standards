@@ -1,57 +1,56 @@
----
+﻿---
 has_id_wikidata: Q5511
-part of:
-  - "[[_Standards/WikiData/WD~African Great Lakes,87982]]"
-  - "[[_Standards/WikiData/WD~Rift Valley lakes,2915867]]"
+part_of:
+- "[[_Standards/WikiData/WD~African Great Lakes,87982]]"
+- "[[_Standards/WikiData/WD~Rift Valley lakes,2915867]]"
 outflows: "[[_Standards/WikiData/WD~Lukuga River,128350]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Ruzizi River,748195]]"
-  - "[[_Standards/WikiData/WD~Malagarasi River,1514693]]"
-  - "[[_Standards/WikiData/WD~Kalambo River,3179104]]"
-  - "[[_Standards/WikiData/WD~Mulobozi,22698525]]"
-drainage basin: "[[_Standards/WikiData/WD~Congo basin,932289]]"
-coordinate location: Point(29.5 -6.1)
-different from:
-  - "[[_Standards/WikiData/WD~Lake Uniamési,3549925]]"
-basin country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Burundi,967]]"
-  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Ruzizi River,748195]]"
+- "[[_Standards/WikiData/WD~Malagarasi River,1514693]]"
+- "[[_Standards/WikiData/WD~Kalambo River,3179104]]"
+- '[[_Standards/WikiData/WD~Mulobozi,22698525]]'
+drainage_basin: "[[_Standards/WikiData/WD~Congo basin,932289]]"
+coordinate_location: "Point(29.5 -6.1)"
+different_from:
+- "[[_Standards/WikiData/WD~Lake Uniamési,3549925]]"
+basin_country:
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Burundi,967]]'
+- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
 country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Burundi,967]]"
-  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-instance of: "[[_Standards/WikiData/WD~lake,23397]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-vertical depth:
-  - 570
-  - 1433
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Burundi,967]]'
+- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+vertical_depth:
+- 570
+- 1433
 width: 72
-volume as quantity: 18900
-watershed area: 231000
+volume_as_quantity: 18900
+watershed_area: 231000
 area: 32900
 length: 673
-elevation above sea level: 773
+elevation_above_sea_level: 773
 coastline: 1828
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Tanganyika.jpg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Tanganyika%20map.png
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Tanganyika%20WV%20banner.jpg
-Commons gallery: Lake Tanganyika
-Commons category: Lake Tanganyika
-lowest point: http://www.wikidata.org/.well-known/genid/8faa3595402e157dbe5aa4dd479da189
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Tanganyika.jpg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Tanganyika%20map.png"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Tanganyika%20WV%20banner.jpg"
+Commons_gallery: "Lake Tanganyika"
+Commons_category: "Lake Tanganyika"
+lowest_point: "http://www.wikidata.org/.well-known/genid/8faa3595402e157dbe5aa4dd479da189"
 aliases:
-  - Lake Tanganyika
+- "Lake Tanganyika"
 ---
-
 
 ## #has_/text_of_/abstract 
 

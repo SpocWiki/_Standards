@@ -1,433 +1,432 @@
----
-member of:
-  - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-  - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~COMECON,191582]]"
-  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~Organization of the Black Sea Economic Cooperation,380340]]"
-  - "[[_Standards/WikiData/WD~International Centre for Migration Policy Development,498496]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~Australia Group,782942]]"
-  - "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-  - "[[_Standards/WikiData/WD~Strategic Airlift Capability,1579424]]"
-  - "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-  - "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Warsaw Pact,41644]]"
-  - "[[_Standards/WikiData/WD~European Space Agency,42262]]"
-  - "[[_Standards/WikiData/WD~Q131720477,131720477]]"
-  - "[[_Standards/WikiData/WD~European Union,458]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~NATO,7184]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+﻿---
+member_of:
+- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
+- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- '[[_Standards/WikiData/WD~COMECON,191582]]'
+- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~Organization of the Black Sea Economic Cooperation,380340]]"
+- "[[_Standards/WikiData/WD~International Centre for Migration Policy Development,498496]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- "[[_Standards/WikiData/WD~Australia Group,782942]]"
+- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+- "[[_Standards/WikiData/WD~Strategic Airlift Capability,1579424]]"
+- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
+- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Warsaw Pact,41644]]"
+- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
+- '[[_Standards/WikiData/WD~Q131720477,131720477]]'
+- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- '[[_Standards/WikiData/WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
 flag: "[[_Standards/WikiData/WD~flag of Romania,130811]]"
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~Holy See,159583]]"
-  - "[[_Standards/WikiData/WD~Palestine,219060]]"
-  - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~Ireland,27]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Lithuania,37]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Slovenia,215]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
-  - "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Armenia,399]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~Chad,657]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Qatar,846]]"
-  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-  - "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
-  - "[[_Standards/WikiData/WD~Vietnam,881]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Satu Mare County,165459]]"
-  - "[[_Standards/WikiData/WD~Vaslui County,167199]]"
-  - "[[_Standards/WikiData/WD~Botoșani County,178861]]"
-  - "[[_Standards/WikiData/WD~Arad County,179559]]"
-  - "[[_Standards/WikiData/WD~Argeș County,179567]]"
-  - "[[_Standards/WikiData/WD~Bihor County,179588]]"
-  - "[[_Standards/WikiData/WD~Bacău County,179779]]"
-  - "[[_Standards/WikiData/WD~Suceava County,181209]]"
-  - "[[_Standards/WikiData/WD~Bistrița-Năsăud County,181513]]"
-  - "[[_Standards/WikiData/WD~Brașov County,182614]]"
-  - "[[_Standards/WikiData/WD~Cluj County,182624]]"
-  - "[[_Standards/WikiData/WD~Vrancea County,182778]]"
-  - "[[_Standards/WikiData/WD~Iași County,182888]]"
-  - "[[_Standards/WikiData/WD~Sibiu County,184797]]"
-  - "[[_Standards/WikiData/WD~Buzău County,185309]]"
-  - "[[_Standards/WikiData/WD~Timiș County,185586]]"
-  - "[[_Standards/WikiData/WD~Vâlcea County,186838]]"
-  - "[[_Standards/WikiData/WD~Caraș-Severin County,187925]]"
-  - "[[_Standards/WikiData/WD~Brăila County,188503]]"
-  - "[[_Standards/WikiData/WD~Constanța County,188505]]"
-  - "[[_Standards/WikiData/WD~Neamț County,188661]]"
-  - "[[_Standards/WikiData/WD~Prahova County,188665]]"
-  - "[[_Standards/WikiData/WD~Galați County,188796]]"
-  - "[[_Standards/WikiData/WD~Dâmbovița County,188797]]"
-  - "[[_Standards/WikiData/WD~Maramureș County,188813]]"
-  - "[[_Standards/WikiData/WD~Olt County,188945]]"
-  - "[[_Standards/WikiData/WD~Călărași County,188948]]"
-  - "[[_Standards/WikiData/WD~Covasna County,188959]]"
-  - "[[_Standards/WikiData/WD~Gorj County,190406]]"
-  - "[[_Standards/WikiData/WD~Sălaj County,190690]]"
-  - "[[_Standards/WikiData/WD~Harghita County,190702]]"
-  - "[[_Standards/WikiData/WD~Mureș County,190711]]"
-  - "[[_Standards/WikiData/WD~Dolj County,191065]]"
-  - "[[_Standards/WikiData/WD~Hunedoara County,191071]]"
-  - "[[_Standards/WikiData/WD~Tulcea County,191078]]"
-  - "[[_Standards/WikiData/WD~Teleorman County,191653]]"
-  - "[[_Standards/WikiData/WD~Ilfov County,191670]]"
-  - "[[_Standards/WikiData/WD~Mehedinți County,191717]]"
-  - "[[_Standards/WikiData/WD~Ialomița County,193044]]"
-  - "[[_Standards/WikiData/WD~Giurgiu County,193055]]"
-  - "[[_Standards/WikiData/WD~Bucharest,19660]]"
-  - "[[_Standards/WikiData/WD~Alba County,45868]]"
-coat of arms: "[[_Standards/WikiData/WD~Coat of arms of Romania,173213]]"
+diplomatic_relation:
+- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- '[[_Standards/WikiData/WD~Palestine,219060]]'
+- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Moldova,217]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- '[[_Standards/WikiData/WD~Chad,657]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Qatar,846]]'
+- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Thailand,869]]'
+- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- '[[_Standards/WikiData/WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Satu Mare County,165459]]"
+- "[[_Standards/WikiData/WD~Vaslui County,167199]]"
+- "[[_Standards/WikiData/WD~Botoșani County,178861]]"
+- "[[_Standards/WikiData/WD~Arad County,179559]]"
+- "[[_Standards/WikiData/WD~Argeș County,179567]]"
+- "[[_Standards/WikiData/WD~Bihor County,179588]]"
+- "[[_Standards/WikiData/WD~Bacău County,179779]]"
+- "[[_Standards/WikiData/WD~Suceava County,181209]]"
+- "[[_Standards/WikiData/WD~Bistrița-Năsăud County,181513]]"
+- "[[_Standards/WikiData/WD~Brașov County,182614]]"
+- "[[_Standards/WikiData/WD~Cluj County,182624]]"
+- "[[_Standards/WikiData/WD~Vrancea County,182778]]"
+- "[[_Standards/WikiData/WD~Iași County,182888]]"
+- "[[_Standards/WikiData/WD~Sibiu County,184797]]"
+- "[[_Standards/WikiData/WD~Buzău County,185309]]"
+- "[[_Standards/WikiData/WD~Timiș County,185586]]"
+- "[[_Standards/WikiData/WD~Vâlcea County,186838]]"
+- "[[_Standards/WikiData/WD~Caraș-Severin County,187925]]"
+- "[[_Standards/WikiData/WD~Brăila County,188503]]"
+- "[[_Standards/WikiData/WD~Constanța County,188505]]"
+- "[[_Standards/WikiData/WD~Neamț County,188661]]"
+- "[[_Standards/WikiData/WD~Prahova County,188665]]"
+- "[[_Standards/WikiData/WD~Galați County,188796]]"
+- "[[_Standards/WikiData/WD~Dâmbovița County,188797]]"
+- "[[_Standards/WikiData/WD~Maramureș County,188813]]"
+- "[[_Standards/WikiData/WD~Olt County,188945]]"
+- "[[_Standards/WikiData/WD~Călărași County,188948]]"
+- "[[_Standards/WikiData/WD~Covasna County,188959]]"
+- "[[_Standards/WikiData/WD~Gorj County,190406]]"
+- "[[_Standards/WikiData/WD~Sălaj County,190690]]"
+- "[[_Standards/WikiData/WD~Harghita County,190702]]"
+- "[[_Standards/WikiData/WD~Mureș County,190711]]"
+- "[[_Standards/WikiData/WD~Dolj County,191065]]"
+- "[[_Standards/WikiData/WD~Hunedoara County,191071]]"
+- "[[_Standards/WikiData/WD~Tulcea County,191078]]"
+- "[[_Standards/WikiData/WD~Teleorman County,191653]]"
+- "[[_Standards/WikiData/WD~Ilfov County,191670]]"
+- "[[_Standards/WikiData/WD~Mehedinți County,191717]]"
+- "[[_Standards/WikiData/WD~Ialomița County,193044]]"
+- "[[_Standards/WikiData/WD~Giurgiu County,193055]]"
+- '[[_Standards/WikiData/WD~Bucharest,19660]]'
+- "[[_Standards/WikiData/WD~Alba County,45868]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Romania,173213]]"
 anthem: "[[_Standards/WikiData/WD~Deșteaptă-te, române!,184540]]"
-history of topic: "[[_Standards/WikiData/WD~history of Romania,216672]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Romania,240722]]"
-different from: "[[_Standards/WikiData/WD~Romagna,244482]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Romania,280832]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-owner of:
-  - "[[_Standards/WikiData/WD~Ploiești–Brașov railway,645247]]"
-  - "[[_Standards/WikiData/WD~Vâlcele–Bujoreni Vâlcea railway,12723309]]"
-  - "[[_Standards/WikiData/WD~Brăila,12728802]]"
-  - "[[_Standards/WikiData/WD~Oravița railway station,18540347]]"
-  - "[[_Standards/WikiData/WD~Ploiești Nord railway station,18540349]]"
-  - "[[_Standards/WikiData/WD~Bucecea railway station,59606071]]"
-  - "[[_Standards/WikiData/WD~Periam railway station,60807227]]"
-  - "[[_Standards/WikiData/WD~Zădăreni railway station,60811190]]"
-  - "[[_Standards/WikiData/WD~Ovidiu railway station,78882256]]"
-highest point: "[[_Standards/WikiData/WD~Moldoveanu Peak,746524]]"
-office held by head of state: "[[_Standards/WikiData/WD~president of Romania,839139]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Romania,216672]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Romania,240722]]"
+different_from: '[[_Standards/WikiData/WD~Romagna,244482]]'
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Romania,280832]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+owner_of:
+- "[[_Standards/WikiData/WD~Ploiești–Brașov railway,645247]]"
+- "[[_Standards/WikiData/WD~Vâlcele–Bujoreni Vâlcea railway,12723309]]"
+- '[[_Standards/WikiData/WD~Brăila,12728802]]'
+- "[[_Standards/WikiData/WD~Oravița railway station,18540347]]"
+- "[[_Standards/WikiData/WD~Ploiești Nord railway station,18540349]]"
+- "[[_Standards/WikiData/WD~Bucecea railway station,59606071]]"
+- "[[_Standards/WikiData/WD~Periam railway station,60807227]]"
+- "[[_Standards/WikiData/WD~Zădăreni railway station,60811190]]"
+- "[[_Standards/WikiData/WD~Ovidiu railway station,78882256]]"
+highest_point: "[[_Standards/WikiData/WD~Moldoveanu Peak,746524]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~president of Romania,839139]]"
 replaces:
-  - "[[_Standards/WikiData/WD~Socialist Republic of Romania,842794]]"
-  - "[[_Standards/WikiData/WD~United Principalities of Moldavia and Wallachia,958291]]"
-central bank: "[[_Standards/WikiData/WD~National Bank of Romania,967861]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-legislative body: "[[_Standards/WikiData/WD~Parliament of Romania,1813360]]"
+- "[[_Standards/WikiData/WD~Socialist Republic of Romania,842794]]"
+- "[[_Standards/WikiData/WD~United Principalities of Moldavia and Wallachia,958291]]"
+central_bank: "[[_Standards/WikiData/WD~National Bank of Romania,967861]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+legislative_body: "[[_Standards/WikiData/WD~Parliament of Romania,1813360]]"
 culture: "[[_Standards/WikiData/WD~culture of Romania,1972914]]"
-significant event: "[[_Standards/WikiData/WD~unification of Wallachia and Moldavia,2031312]]"
-has cabinet: "[[_Standards/WikiData/WD~Government of Romania,2528718]]"
-executive body: "[[_Standards/WikiData/WD~Government of Romania,2528718]]"
-language used:
-  - "[[_Standards/WikiData/WD~Vlax Romani,2669199]]"
-  - "[[_Standards/WikiData/WD~Ukrainian,8798]]"
-  - "[[_Standards/WikiData/WD~Hungarian,9067]]"
-  - "[[_Standards/WikiData/WD~Romani,13201]]"
-  - "[[_Standards/WikiData/WD~Romanian Sign Language,7362575]]"
-  - "[[_Standards/WikiData/WD~Romanian,7913]]"
-has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Romania,3317516]]"
-instance of:
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-participant in: "[[_Standards/WikiData/WD~Global System of Trade Preferences among Developing Countries,5570670]]"
-list of monuments: "[[_Standards/WikiData/WD~list of historical monuments in Romania,6623358]]"
-official language: "[[_Standards/WikiData/WD~Romanian,7913]]"
-part of:
-  - "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-  - "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
-  - "[[_Standards/WikiData/WD~European Union,458]]"
-capital: "[[_Standards/WikiData/WD~Bucharest,19660]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-lowest point: "[[_Standards/WikiData/WD~Black Sea,166]]"
-country: "[[_Standards/WikiData/WD~Romania,218]]"
-unemployment rate: 7
-marriageable age: 18
-age of majority: 18
-VAT rate: 19
-mains voltage: 230
-BTI Governance Index:
-  - 6.3
-  - 4.85
-  - 5.58
-  - 5.84
-  - 5.85
-  - 5.89
-  - 6.35
-  - 6.41
-  - 6.52
-Democracy Index: 6.4
-suicide rate: 7.3
-life expectancy: 75
-BTI Status Index:
-  - 7.9
-  - 7.65
-  - 7.75
-  - 7.89
-  - 8.06
-  - 8.17
-  - 8.23
-  - 8.31
-birth rate:
-  - 9.6
-  - 10.1
-  - 10.3
-death rate:
-  - 13.4
-  - 14.3
-  - 15.5
-  - 17.5
-total fertility rate: 1.41
-top-level Internet domain: "[[_Standards/WikiData/WD~.ro,42677]]"
-Gini coefficient: 34.8
-Happy Planet Index score: 46.2
-trunk prefix: "0"
-basic form of government: "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
-Inequality-adjusted Human Development Index: 0.733
-Human Development Index: 0.821
-maritime identification digits: "264"
-UIC numerical country code: "53"
-mobile country code: "226"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Romania,7112426]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Romania,8132332]]"
-topic's main template: "[[_Standards/WikiData/WD~Q10723826,10723826]]"
-coordinates of northernmost point: Point(26.7 48.27)
-railway traffic side: "[[_Standards/WikiData/WD~right,14565199]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Romania,15304810]]"
-head of state: "[[_Standards/WikiData/WD~Ilie Bolojan,18538164]]"
-head of government: "[[_Standards/WikiData/WD~Marcel Ciolacu,21179176]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27062321,27062321]]"
-open data portal: "[[_Standards/WikiData/WD~Data.Gov.Ro,97098010]]"
-Provenio UUID: 3ba90882-e72b-4dc6-9181-008a2e0c9a86
-UMLS CUI: C0035826
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Romania%20-%20Location%20Map%20%282013%29%20-%20ROU%20-%20UNOCHA.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Apuseni.%20%2841412826664%29.jpg
+significant_event: "[[_Standards/WikiData/WD~unification of Wallachia and Moldavia,2031312]]"
+has_cabinet: "[[_Standards/WikiData/WD~Government of Romania,2528718]]"
+executive_body: "[[_Standards/WikiData/WD~Government of Romania,2528718]]"
+language_used:
+- "[[_Standards/WikiData/WD~Vlax Romani,2669199]]"
+- '[[_Standards/WikiData/WD~Ukrainian,8798]]'
+- '[[_Standards/WikiData/WD~Hungarian,9067]]'
+- '[[_Standards/WikiData/WD~Romani,13201]]'
+- "[[_Standards/WikiData/WD~Romanian Sign Language,7362575]]"
+- '[[_Standards/WikiData/WD~Romanian,7913]]'
+has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Romania,3317516]]"
+instance_of:
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
+participant_in: "[[_Standards/WikiData/WD~Global System of Trade Preferences among Developing Countries,5570670]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list of historical monuments in Romania,6623358]]"
+official_language: '[[_Standards/WikiData/WD~Romanian,7913]]'
+part_of:
+- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
+- "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
+- "[[_Standards/WikiData/WD~European Union,458]]"
+capital: '[[_Standards/WikiData/WD~Bucharest,19660]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Moldova,217]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+lowest_point: "[[_Standards/WikiData/WD~Black Sea,166]]"
+country: '[[_Standards/WikiData/WD~Romania,218]]'
+unemployment_rate: 7
+marriageable_age: 18
+age_of_majority: 18
+VAT_rate: 19
+mains_voltage: 230
+BTI_Governance_Index:
+- 6.3
+- 4.85
+- 5.58
+- 5.84
+- 5.85
+- 5.89
+- 6.35
+- 6.41
+- 6.52
+Democracy_Index: 6.4
+suicide_rate: 7.3
+life_expectancy: 75
+BTI_Status_Index:
+- 7.9
+- 7.65
+- 7.75
+- 7.89
+- 8.06
+- 8.17
+- 8.23
+- 8.31
+birth_rate:
+- 9.6
+- 10.1
+- 10.3
+death_rate:
+- 13.4
+- 14.3
+- 15.5
+- 17.5
+total_fertility_rate: 1.41
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.ro,42677]]'
+Gini_coefficient: 34.8
+Happy_Planet_Index_score: 46.2
+trunk_prefix: 0
+basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
+Inequality-adjusted_Human_Development_Index: 0.733
+Human_Development_Index: 0.821
+maritime_identification_digits: 264
+UIC_numerical_country_code: 53
+mobile_country_code: 226
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Romania,7112426]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Romania,8132332]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q10723826,10723826]]'
+coordinates_of_northernmost_point: "Point(26.7 48.27)"
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Romania,15304810]]"
+head_of_state: "[[_Standards/WikiData/WD~Ilie Bolojan,18538164]]"
+head_of_government: "[[_Standards/WikiData/WD~Marcel Ciolacu,21179176]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27062321,27062321]]'
+open_data_portal: '[[_Standards/WikiData/WD~Data.Gov.Ro,97098010]]'
+Provenio_UUID: 3ba90882-e72b-4dc6-9181-008a2e0c9a86
+UMLS_CUI: C0035826
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Romania%20-%20Location%20Map%20%282013%29%20-%20ROU%20-%20UNOCHA.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Apuseni.%20%2841412826664%29.jpg"
 demonym:
-  - روماني
-  - رومانية
-  - رومانيات
-  - رومانيين
-  - Rómánach
-  - رومانية
-  - Romanian
-  - Roumaine
-  - רומני
-  - רומנייה
-  - román
-  - Rumaniano
-  - rumena
-  - rumene
-  - rumeni
-  - rumeno
-  - Rumän
-  - Rumäner
-  - Rumänin
-  - romanian
-  - Roemeen
-  - român
-  - româncă
-  - români
-  - румын
-  - румынка
-  - румыны
-  - rumänsk
-  - rumen
-  - rumena
-  - rumene
-  - rumeni
-  - Rumänan
-  - roumin
-  - rouminne
-  - روماني
-  - رومانيون
-  - rumana
-  - rumanu
-  - румънски
-  - রোমানীয়
-  - romanès
-  - romanesa
-  - romanesos
-  - Rumäne
-  - Rumänin
-  - rumänisch
-  - rumano
-  - Roumain
-ISNI: "0000000123587092"
-coordinates of westernmost point: Point(20.26178777 46.12168563)
-MeSH tree code: Z01.542.248.764
-coordinates of easternmost point: Point(29.71667916 45.16381636)
-inception: 1859-02-05T00:00:00Z 
-has_time_started: 1859-02-05T00:00:00Z 
-nominal GDP:
-  - 285404683025
-  - 301261582924
-located in time zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-GS1 country code: "594"
-IAB code: "1386"
-FIPS 10-4 (countries and regions): RO
-NUTS code: RO
-licence plate code: RO
-ISO 3166-1 alpha-2 code: RO
-WIPO ST.3: RO
-UIC alphabetical country code: RO
-M49 code: "642"
-ISO 3166-1 numeric code: "642"
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg
+- روماني
+- رومانية
+- رومانيات
+- رومانيين
+- Rómánach
+- رومانية
+- Romanian
+- Roumaine
+- רומני
+- רומנייה
+- román
+- Rumaniano
+- rumena
+- rumene
+- rumeni
+- rumeno
+- Rumän
+- Rumäner
+- Rumänin
+- romanian
+- Roemeen
+- român
+- româncă
+- români
+- румын
+- румынка
+- румыны
+- rumänsk
+- rumen
+- rumena
+- rumene
+- rumeni
+- Rumänan
+- roumin
+- rouminne
+- روماني
+- رومانيون
+- rumana
+- rumanu
+- румънски
+- রোমানীয়
+- romanès
+- romanesa
+- romanesos
+- Rumäne
+- Rumänin
+- rumänisch
+- rumano
+- Roumain
+ISNI: 0000000123587092
+coordinates_of_westernmost_point: "Point(20.26178777 46.12168563)"
+MeSH_tree_code: Z01.542.248.764
+coordinates_of_easternmost_point: "Point(29.71667916 45.16381636)"
+inception: "1859-02-05T00:00:00Z"
+has_time_started: "1859-02-05T00:00:00Z"
+nominal_GDP:
+- 285404683025
+- 301261582924
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+GS1_country_code: 594
+IAB_code: 1386
+FIPS_10-4_countries_and_regions_: RO
+NUTS_code: RO
+licence_plate_code: RO
+ISO_3166-1_alpha-2_code: RO
+WIPO_ST_3: RO
+UIC_alphabetical_country_code: RO
+M49_code: 642
+ISO_3166-1_numeric_code: 642
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg"
 area: 238397
-number of out-of-school children: 332312
-relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20of%20Romania.png
-INSEE countries and foreign territories code: "99114"
-rural population:
-  - 8824640
-  - 8668484
-  - 8733236
-  - 8894686
-male population:
-  - 9245140
-  - 9377040
-  - 9213326
-  - 9320317
-urban population:
-  - 10440610
-  - 10378525
-  - 10388823
-  - 10476962
-PM20 geo code: A47
-OmegaWiki Defined Meaning: "154307"
-IOC country code: ROU
-ISO 3166-1 alpha-3 code: ROU
-ITU letter code: ROU
+number_of_out-of-school_children: 332312
+relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20of%20Romania.png"
+INSEE_countries_and_foreign_territories_code: 99114
+rural_population:
+- 8824640
+- 8668484
+- 8733236
+- 8894686
+male_population:
+- 9245140
+- 9377040
+- 9213326
+- 9320317
+urban_population:
+- 10440610
+- 10378525
+- 10388823
+- 10476962
+PM20_geo_code: A47
+OmegaWiki_Defined_Meaning: 154307
+IOC_country_code: ROU
+ISO_3166-1_alpha-3_code: ROU
+ITU_letter_code: ROU
 hashtag: Romania
-Commons category: Romania
+Commons_category: Romania
 subreddit: Romania
-U.S. National Archives Identifier: "10035825"
-female population:
-  - 9833682
-  - 9876919
-  - 9944933
-  - 9994608
-"Image Archive, Herder Institute": Q218
-coordinate location: Point(25.0 46.0)
+U_S_National_Archives_Identifier: 10035825
+female_population:
+- 9833682
+- 9876919
+- 9944933
+- 9994608
+Image_Archive_Herder_Institute: Q218
+coordinate_location: "Point(25.0 46.0)"
 population: 19053815
-coordinates of southernmost point: Point(25.39118528 43.6233705)
-CIVICUS Monitor country entry: romania
-GitHub topic: romania
-native label: România
-official name: România
-geoshape: http://commons.wikimedia.org/data/main/Data:Romania.map
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Romania.svg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Rum%C3%A4nien.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%B0%E0%AD%8B%E0%AC%AE%E0%AC%BE%E0%AC%A8%E0%AC%BF%E0%AC%86.wav
-short name: 🇷🇴
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Romania%20banner.jpg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Romania%20on%20the%20globe%20%28Europe%20centered%29.svg
-official website: http://www.guv.ro/
-country calling code: "+40"
-Dewey Decimal Classification: 2--498
-BHCL UUID:
-  - 33ba3794-f6b6-42cf-a09b-e3c552f49d2c
-  - c42e62f5-e5fb-4fc2-ae20-2f5df5ce7aca
+coordinates_of_southernmost_point: "Point(25.39118528 43.6233705)"
+CIVICUS_Monitor_country_entry: romania
+GitHub_topic: romania
+native_label: România
+official_name: România
+geoshape: "http://commons.wikimedia.org/data/main/Data:Romania.map"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Romania.svg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Rum%C3%A4nien.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%B0%E0%AD%8B%E0%AC%AE%E0%AC%BE%E0%AC%A8%E0%AC%BF%E0%AC%86.wav"
+short_name: "\U0001F1F7\U0001F1F4"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Romania%20banner.jpg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Romania%20on%20the%20globe%20%28Europe%20centered%29.svg"
+official_website: "http://www.guv.ro/"
+country_calling_code: +40
+Dewey_Decimal_Classification: 2--498
+BHCL_UUID:
+- 33ba3794-f6b6-42cf-a09b-e3c552f49d2c
+- c42e62f5-e5fb-4fc2-ae20-2f5df5ce7aca
 Libris-URI: ljx0z0441nfsv5d
-Unicode character: 🇷🇴
-Commons gallery: România
-IPA transcription:
-  - rʊˈmɨnʲɪjə
-  - ɾuˈmɑːnɪɑ
-Colon Classification: SG--5921
-Krugosvet article: strany_mira/RUMINIYA.html
-Baidu Tieba name: 罗马尼亚
+Unicode_character: "\U0001F1F7\U0001F1F4"
+Commons_gallery: România
+IPA_transcription:
+- rʊˈmɨnʲɪjə
+- ɾuˈmɑːnɪɑ
+Colon_Classification: SG--5921
+Krugosvet_article: strany_mira/RUMINIYA.html
+Baidu_Tieba_name: 罗马尼亚
 has_id_wikidata: Q218
 location:
-    - 46.2258
-    - 24.9906
+- 46.2258
+- 24.9906
 type: Country
 tags:
-    - geo/Country
-has_id_wikidata: Q218 
+- geo/Country
 SpocWebEntityId: 27006
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Romania
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - Romania
-    - Rumania
-    - Roumanie
-    - رومانيا
-    - 罗马尼亚
-    - Румыния
+- Romania
+- Rumania
+- Roumanie
+- رومانيا
+- 罗马尼亚
+- Румыния
 Languages:
-    - ro
-    - hu
-    - rom
+- ro
+- hu
+- rom
 icon: flag-ro
 ---
 

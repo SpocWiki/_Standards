@@ -1,52 +1,51 @@
----
+﻿---
 has_id_wikidata: Q9081
-has cause:
-  - "[[_Standards/WikiData/WD~learning,133500]]"
-  - "[[_Standards/WikiData/WD~revelation,192906]]"
-  - "[[_Standards/WikiData/WD~qualia,282250]]"
-partially coincident with:
-  - "[[_Standards/WikiData/WD~experience,164359]]"
-  - "[[_Standards/WikiData/WD~understanding,46744]]"
-used by: "[[_Standards/WikiData/WD~knowledge management,192060]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-different from:
-  - "[[_Standards/WikiData/WD~Knowledge,405996]]"
-  - "[[_Standards/WikiData/WD~Kila,417266]]"
-  - "[[_Standards/WikiData/WD~Wissen,1216869]]"
-contributing factor of:
-  - "[[_Standards/WikiData/WD~competence,527091]]"
-  - "[[_Standards/WikiData/WD~understanding,46744]]"
-opposite of: "[[_Standards/WikiData/WD~ignorance,815577]]"
-studied in:
-  - "[[_Standards/WikiData/WD~sociology of knowledge,847486]]"
-  - "[[_Standards/WikiData/WD~theory of knowledge,116930361]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~epistemology,9471]]"
-said to be the same as: "[[_Standards/WikiData/WD~certainty,1520777]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~knowledge environment,6423374]]"
-  - "[[_Standards/WikiData/WD~limits of knowledge,20921244]]"
-  - "[[_Standards/WikiData/WD~knowledge type,110403031]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of knowledge,7112676]]"
-history of topic: "[[_Standards/WikiData/WD~history of knowledge,16929577]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance of: "[[_Standards/WikiData/WD~philosophical concept,33104279]]"
-subclass of: "[[_Standards/WikiData/WD~memory,104127086]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q117833695,117833695]]"
-UMLS CUI: C0376553
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tetradrachm%20Athens%20480-420BC%20MBA%20Lyon.jpg
-OmegaWiki Defined Meaning: "8484"
-Dewey Decimal Classification: "001"
-Commons category: Knowledge
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8.wav
-Stack Exchange tag: https://philosophy.stackexchange.com/tags/knowledge
-Iconclass notation: 52A5
-MeSH tree code: K01.468
-PhilPapers topic: knowledge
+has_cause:
+- '[[_Standards/WikiData/WD~learning,133500]]'
+- '[[_Standards/WikiData/WD~revelation,192906]]'
+- '[[_Standards/WikiData/WD~qualia,282250]]'
+partially_coincident_with:
+- '[[_Standards/WikiData/WD~experience,164359]]'
+- '[[_Standards/WikiData/WD~understanding,46744]]'
+used_by: "[[_Standards/WikiData/WD~knowledge management,192060]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+different_from:
+- '[[_Standards/WikiData/WD~Knowledge,405996]]'
+- '[[_Standards/WikiData/WD~Kila,417266]]'
+- '[[_Standards/WikiData/WD~Wissen,1216869]]'
+contributing_factor_of:
+- '[[_Standards/WikiData/WD~competence,527091]]'
+- '[[_Standards/WikiData/WD~understanding,46744]]'
+opposite_of: '[[_Standards/WikiData/WD~ignorance,815577]]'
+studied_in:
+- "[[_Standards/WikiData/WD~sociology of knowledge,847486]]"
+- "[[_Standards/WikiData/WD~theory of knowledge,116930361]]"
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~certainty,1520777]]'
+has_characteristic:
+- "[[_Standards/WikiData/WD~knowledge environment,6423374]]"
+- "[[_Standards/WikiData/WD~limits of knowledge,20921244]]"
+- "[[_Standards/WikiData/WD~knowledge type,110403031]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of knowledge,7112676]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of knowledge,16929577]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~philosophical concept,33104279]]"
+subclass_of: '[[_Standards/WikiData/WD~memory,104127086]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117833695,117833695]]'
+UMLS_CUI: C0376553
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tetradrachm%20Athens%20480-420BC%20MBA%20Lyon.jpg"
+OmegaWiki_Defined_Meaning: 8484
+Dewey_Decimal_Classification: 001
+Commons_category: Knowledge
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8.wav"
+Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/knowledge"
+Iconclass_notation: 52A5
+MeSH_tree_code: K01.468
+PhilPapers_topic: knowledge
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,47 +1,46 @@
----
+﻿---
 has_id_wikidata: Q11427
-fabrication method: "[[_Standards/WikiData/WD~steelmaking,482090]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-different from:
-  - "[[_Standards/WikiData/WD~Çelik,1158653]]"
-  - "[[_Standards/WikiData/WD~Acél,121304601]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Steels,6436177]]"
-subclass of: "[[_Standards/WikiData/WD~iron alloy,10772391]]"
-UMLS CUI: C0038239
-Dewey Decimal Classification:
-  - "669.142"
-  - "620.17"
-  - "672"
-MeSH tree code:
-  - D01.490.800
-  - D01.552.033.847
-  - D25.058.807
-  - J01.637.051.058.807
-time of discovery or invention: 1865-01-01T00:00:00Z
-has part(s):
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~iron,677]]"
-tensile modulus of elasticity: 210
-instance of: "[[_Standards/WikiData/WD~alloy,37756]]"
-color: "[[_Standards/WikiData/WD~grey,42519]]"
+fabrication_method: '[[_Standards/WikiData/WD~steelmaking,482090]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+different_from:
+- '[[_Standards/WikiData/WD~Çelik,1158653]]'
+- '[[_Standards/WikiData/WD~Acél,121304601]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Steels,6436177]]'
+subclass_of: "[[_Standards/WikiData/WD~iron alloy,10772391]]"
+UMLS_CUI: C0038239
+Dewey_Decimal_Classification:
+- 669.142
+- 620.17
+- 672
+MeSH_tree_code:
+- D01.490.800
+- D01.552.033.847
+- D25.058.807
+- J01.637.051.058.807
+time_of_discovery_or_invention: "1865-01-01T00:00:00Z"
+has_part_s_:
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~iron,677]]'
+tensile_modulus_of_elasticity: 210
+instance_of: '[[_Standards/WikiData/WD~alloy,37756]]'
+color: '[[_Standards/WikiData/WD~grey,42519]]'
 density: 7850
-recycling code: "40"
-Nomenclature for Museum Cataloging: "6188"
-OmegaWiki Defined Meaning: "3625"
-Commons gallery: Steel
-Commons category: Steel
-UNSPSC Code: "11101704"
-Colon Classification: F182
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Steel%20wire%20rope.png
-U.S. National Archives Identifier: "10644079"
-CPV Supplementary code: AA11
+recycling_code: 40
+Nomenclature_for_Museum_Cataloging: 6188
+OmegaWiki_Defined_Meaning: 3625
+Commons_gallery: Steel
+Commons_category: Steel
+UNSPSC_Code: 11101704
+Colon_Classification: F182
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Steel%20wire%20rope.png"
+U_S_National_Archives_Identifier: 10644079
+CPV_Supplementary_code: AA11
 ---
-
 
 ## #has_/text_of_/abstract 
 

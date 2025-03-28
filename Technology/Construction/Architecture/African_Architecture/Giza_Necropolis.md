@@ -1,25 +1,25 @@
----
+﻿---
 aliases:
-  - Giza Necropolis
-  - Giza pyramid complex
+- "Giza Necropolis"
+- "Giza pyramid complex"
 has_id_wikidata: Q13217298
-has part(s):
-  - "[[_Standards/WikiData/WD~The Great Sphinx,130958]]"
-  - "[[_Standards/WikiData/WD~Pyramid of Khafre,208358]]"
-  - "[[_Standards/WikiData/WD~Pyramid of Menkaure,238623]]"
-  - "[[_Standards/WikiData/WD~Great Pyramid of Giza,37200]]"
-instance of: "[[_Standards/WikiData/WD~Ancient Egyptian necropolis,125866682]]"
-part of: "[[_Standards/WikiData/WD~Memphis,5715]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~The Great Sphinx,130958]]"
+- "[[_Standards/WikiData/WD~Pyramid of Khafre,208358]]"
+- "[[_Standards/WikiData/WD~Pyramid of Menkaure,238623]]"
+- "[[_Standards/WikiData/WD~Great Pyramid of Giza,37200]]"
+instance_of: "[[_Standards/WikiData/WD~Ancient Egyptian necropolis,125866682]]"
+part_of: '[[_Standards/WikiData/WD~Memphis,5715]]'
 culture: "[[_Standards/WikiData/WD~Ancient Egypt,11768]]"
-country of origin: "[[_Standards/WikiData/WD~Ancient Egypt,11768]]"
-said to be the same as: "[[_Standards/WikiData/WD~Giza pyramid complex,12508]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Giza Governorate,30832]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+country_of_origin: "[[_Standards/WikiData/WD~Ancient Egypt,11768]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Giza pyramid complex,12508]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Giza Governorate,30832]]"
+country: '[[_Standards/WikiData/WD~Egypt,79]]'
 area: 16359
-image: http://commons.wikimedia.org/wiki/Special:FilePath/All%20Gizah%20Pyramids.jpg
-coordinate location: Point(31.133333 29.983333)
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Giza%20banner.jpg
-Commons category: Giza pyramid complex
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/All%20Gizah%20Pyramids.jpg"
+coordinate_location: "Point(31.133333 29.983333)"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Giza%20banner.jpg"
+Commons_category: "Giza pyramid complex"
 ---
 
 #has_/time_/started :: -2550-06

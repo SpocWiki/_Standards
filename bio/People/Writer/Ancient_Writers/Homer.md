@@ -1,77 +1,76 @@
----
+﻿---
 aliases:
-  - Hómēros
+- Hómēros
 has_id_wikidata: Q6691
-has works in the collection:
-  - "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
-  - "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
-  - "[[_Standards/WikiData/WD~Minneapolis Institute of Art,1700481]]"
-place of death: "[[_Standards/WikiData/WD~Ios,216993]]"
+has_works_in_the_collection:
+- "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
+- "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
+- "[[_Standards/WikiData/WD~Minneapolis Institute of Art,1700481]]"
+place_of_death: '[[_Standards/WikiData/WD~Ios,216993]]'
 occupation:
-  - "[[_Standards/WikiData/WD~author,482980]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-ethnic group: "[[_Standards/WikiData/WD~Greeks,539051]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~1870 Dictionary of Greek and Roman Biography and Mythology,47500198]]"
-  - "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-  - "[[_Standards/WikiData/WD~Paradoxographus Vaticanus,131277687]]"
-field of work: "[[_Standards/WikiData/WD~Greek literature,1089547]]"
-different from:
-  - "[[_Standards/WikiData/WD~Gomer,1148172]]"
-  - "[[_Standards/WikiData/WD~Pseudo-Homer,105883447]]"
-country of citizenship: "[[_Standards/WikiData/WD~Ionian League,1568260]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given name: "[[_Standards/WikiData/WD~Homer,19826483]]"
-instance of: "[[_Standards/WikiData/WD~human whose existence is disputed,21070568]]"
-place of birth: http://www.wikidata.org/.well-known/genid/8e6b468f475c8e85b4ac4bd3fc2d5e7a
-notable work:
-  - "[[_Standards/WikiData/WD~Homeric epics,65406137]]"
-  - "[[_Standards/WikiData/WD~Iliad,8275]]"
-  - "[[_Standards/WikiData/WD~Odyssey,35160]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-attested in: "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
-mother: "[[_Standards/WikiData/WD~Kretheis,126709504]]"
-Library of Congress Classification: PA4018-PA4209
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+ethnic_group: '[[_Standards/WikiData/WD~Greeks,539051]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~1870 Dictionary of Greek and Roman Biography and Mythology,47500198]]"
+- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Paradoxographus Vaticanus,131277687]]"
+field_of_work: "[[_Standards/WikiData/WD~Greek literature,1089547]]"
+different_from:
+- '[[_Standards/WikiData/WD~Gomer,1148172]]'
+- '[[_Standards/WikiData/WD~Pseudo-Homer,105883447]]'
+country_of_citizenship: "[[_Standards/WikiData/WD~Ionian League,1568260]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Homer,19826483]]'
+instance_of: "[[_Standards/WikiData/WD~human whose existence is disputed,21070568]]"
+place_of_birth: "http://www.wikidata.org/.well-known/genid/8e6b468f475c8e85b4ac4bd3fc2d5e7a"
+notable_work:
+- "[[_Standards/WikiData/WD~Homeric epics,65406137]]"
+- '[[_Standards/WikiData/WD~Iliad,8275]]'
+- '[[_Standards/WikiData/WD~Odyssey,35160]]'
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+attested_in: "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
+mother: '[[_Standards/WikiData/WD~Kretheis,126709504]]'
+Library_of_Congress_Classification: PA4018-PA4209
 ISNI: 000000036354151X
-medical condition: "[[_Standards/WikiData/WD~blindness,10874]]"
-part of: "[[_Standards/WikiData/WD~Greek mythology,34726]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-writing language: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-native language: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+medical_condition: '[[_Standards/WikiData/WD~blindness,10874]]'
+part_of: "[[_Standards/WikiData/WD~Greek mythology,34726]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+writing_language: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+native_language: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
 genre: "[[_Standards/WikiData/WD~epic poem,37484]]"
-present in work: "[[_Standards/WikiData/WD~The Divine Comedy,40185]]"
-Commons gallery: Homer
-Commons category: Homer
-Commons Creator page: Homer
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Homer.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Homer%20bust%2C%20Farnese%20collection%20%28Naples%29.jpg
+present_in_work: "[[_Standards/WikiData/WD~The Divine Comedy,40185]]"
+Commons_gallery: Homer
+Commons_category: Homer
+Commons_Creator_page: Homer
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Homer.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Homer%20bust%2C%20Farnese%20collection%20%28Naples%29.jpg"
 Libris-URI: 0xbdfjvj5rjnrc0
-OmegaWiki Defined Meaning: "1443831"
-Provenio UUID: 3e6be691-a395-4a7c-baa9-cc2d5f40b66b
-Europeana entity: agent/base/145323
-BHCL UUID: d5a36c91-5ec6-442a-b326-4e7efd1ea31f
-Royal Academy new identifier: homer
-Krugosvet article: kultura_i_obrazovanie/religiya/GOMER.html
-Swedish Open Cultural Heritage URI: LSH/agents/54238
-name in native language: Ὅμηρος
-birth name: Ὅμηρος
-date of birth: -0900-01-01T00:00:00Z
-date of death: -0800-01-01T00:00:00Z
-floruit: -0800-01-01T00:00:00Z
+OmegaWiki_Defined_Meaning: 1443831
+Provenio_UUID: 3e6be691-a395-4a7c-baa9-cc2d5f40b66b
+Europeana_entity: agent/base/145323
+BHCL_UUID: d5a36c91-5ec6-442a-b326-4e7efd1ea31f
+Royal_Academy_new_identifier: homer
+Krugosvet_article: kultura_i_obrazovanie/religiya/GOMER.html
+Swedish_Open_Cultural_Heritage_URI: LSH/agents/54238
+name_in_native_language: Ὅμηρος
+birth_name: Ὅμηρος
+date_of_birth: "-0900-01-01T00:00:00Z"
+date_of_death: "-0800-01-01T00:00:00Z"
+floruit: "-0800-01-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

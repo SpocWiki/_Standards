@@ -1,107 +1,106 @@
----
+﻿---
 has_id_wikidata: Q513
-peak bagging classification: "[[_Standards/WikiData/WD~eight-thousander,185552]]"
-part of:
-  - "[[_Standards/WikiData/WD~eight-thousander,185552]]"
-  - "[[_Standards/WikiData/WD~Seven Summits,208126]]"
-  - "[[_Standards/WikiData/WD~ultra-prominent peak,3116906]]"
-  - "[[_Standards/WikiData/WD~Himalayas,5451]]"
-named after: "[[_Standards/WikiData/WD~George Everest,217119]]"
-different from: "[[_Standards/WikiData/WD~Everest,250831]]"
-instance of:
-  - "[[_Standards/WikiData/WD~tourist attraction,570116]]"
-  - "[[_Standards/WikiData/WD~mountain,8502]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-history of topic: "[[_Standards/WikiData/WD~timeline of Mount Everest expeditions,830481]]"
-mountain range: "[[_Standards/WikiData/WD~Mahalangur Himal,924257]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~China Standard Time,1143153]]"
-  - "[[_Standards/WikiData/WD~Nepal Standard Time,3297477]]"
-significant event: "[[_Standards/WikiData/WD~first ascent,1194369]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~Kangshung Face,1723748]]"
-  - "[[_Standards/WikiData/WD~North Face,17012778]]"
-  - "[[_Standards/WikiData/WD~North-East Ridge,104176116]]"
-  - "[[_Standards/WikiData/WD~Southeast Ridge,104176122]]"
-  - "[[_Standards/WikiData/WD~Southwest Face,104176172]]"
-located in protected area: "[[_Standards/WikiData/WD~Sagarmatha National Park,2211959]]"
-located in/on physical feature:
-  - "[[_Standards/WikiData/WD~China–Nepal border,3089177]]"
-  - "[[_Standards/WikiData/WD~Himalayas,5451]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~death zone,6171655]]"
-has list:
-  - "[[_Standards/WikiData/WD~list of people who died climbing Mount Everest,6633171]]"
-  - "[[_Standards/WikiData/WD~list of Mount Everest records,15712303]]"
-  - "[[_Standards/WikiData/WD~list of 20th-century summiters of Mount Everest,17008251]]"
-  - "[[_Standards/WikiData/WD~list of Mount Everest summiters by number of times to the summit,21068106]]"
-  - "[[_Standards/WikiData/WD~list of Mount Everest guides,21068206]]"
-  - "[[_Standards/WikiData/WD~list of Mount Everest expeditions,21068306]]"
-  - "[[_Standards/WikiData/WD~list of Mount Everest death statistics,24952342]]"
-significant place:
-  - "[[_Standards/WikiData/WD~Everest Base Camp (North, Tibet),99671023]]"
-  - "[[_Standards/WikiData/WD~Everest Base Camp (South, Nepal),99671286]]"
-  - "[[_Standards/WikiData/WD~Base Camp II,104155704]]"
-BHCL UUID: 02480686-6576-4362-a14c-957aa4edcb7c
+peak_bagging_classification: '[[_Standards/WikiData/WD~eight-thousander,185552]]'
+part_of:
+- '[[_Standards/WikiData/WD~eight-thousander,185552]]'
+- "[[_Standards/WikiData/WD~Seven Summits,208126]]"
+- "[[_Standards/WikiData/WD~ultra-prominent peak,3116906]]"
+- '[[_Standards/WikiData/WD~Himalayas,5451]]'
+named_after: "[[_Standards/WikiData/WD~George Everest,217119]]"
+different_from: '[[_Standards/WikiData/WD~Everest,250831]]'
+instance_of:
+- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
+- '[[_Standards/WikiData/WD~mountain,8502]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline of Mount Everest expeditions,830481]]"
+mountain_range: "[[_Standards/WikiData/WD~Mahalangur Himal,924257]]"
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~China Standard Time,1143153]]"
+- "[[_Standards/WikiData/WD~Nepal Standard Time,3297477]]"
+significant_event: "[[_Standards/WikiData/WD~first ascent,1194369]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~Kangshung Face,1723748]]"
+- "[[_Standards/WikiData/WD~North Face,17012778]]"
+- "[[_Standards/WikiData/WD~North-East Ridge,104176116]]"
+- "[[_Standards/WikiData/WD~Southeast Ridge,104176122]]"
+- "[[_Standards/WikiData/WD~Southwest Face,104176172]]"
+located_in_protected_area: "[[_Standards/WikiData/WD~Sagarmatha National Park,2211959]]"
+located_in_on_physical_feature:
+- "[[_Standards/WikiData/WD~China–Nepal border,3089177]]"
+- '[[_Standards/WikiData/WD~Himalayas,5451]]'
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~death zone,6171655]]"
+has_list:
+- "[[_Standards/WikiData/WD~list of people who died climbing Mount Everest,6633171]]"
+- "[[_Standards/WikiData/WD~list of Mount Everest records,15712303]]"
+- "[[_Standards/WikiData/WD~list of 20th-century summiters of Mount Everest,17008251]]"
+- "[[_Standards/WikiData/WD~list of Mount Everest summiters by number of times to the summit,21068106]]"
+- "[[_Standards/WikiData/WD~list of Mount Everest guides,21068206]]"
+- "[[_Standards/WikiData/WD~list of Mount Everest expeditions,21068306]]"
+- "[[_Standards/WikiData/WD~list of Mount Everest death statistics,24952342]]"
+significant_place:
+- "[[_Standards/WikiData/WD~Everest Base Camp (North, Tibet),99671023]]"
+- "[[_Standards/WikiData/WD~Everest Base Camp (South, Nepal),99671286]]"
+- "[[_Standards/WikiData/WD~Base Camp II,104155704]]"
+BHCL_UUID: 02480686-6576-4362-a14c-957aa4edcb7c
 country:
-  - "[[_Standards/WikiData/WD~Nepal,837]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-location: "[[_Standards/WikiData/WD~Himalayas,5451]]"
-made from material:
-  - "[[_Standards/WikiData/WD~rock,8063]]"
-  - "[[_Standards/WikiData/WD~ice,23392]]"
-located in the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
-  - "[[_Standards/WikiData/WD~Solukhumbu District,28363]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-visitors per year:
-  - 0
-  - 2
-  - 3
-  - 4
-  - 6
-  - 106
-  - 146
-  - 547
-  - 641
-  - 648
-  - 658
-  - 807
-  - 891
-topographic isolation: 40008
-topographic prominence: 8848.86
-elevation above sea level: 8848.86
-native label:
-  - Mount Everest
-  - ཇོ་མོ་གླང་མ
-  - सगरमाथा
-  - 圣母峰
-  - 珠穆朗玛峰
-  - 珠穆朗瑪峰
-  - 聖母峰
-size comparison diagram: http://commons.wikimedia.org/wiki/Special:FilePath/7summits%20v1.jpg
-view: http://commons.wikimedia.org/wiki/Special:FilePath/Amanecer%20desde%20la%20cima%20del%20Everest%20por%20Carlos%20Pauner.JPG
-panoramic view: http://commons.wikimedia.org/wiki/Special:FilePath/Everest%20panorama%20from%20Kala%20Patthar.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Kala%20Patthar.webm
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20Mount%20Everest.png
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%A2%E1%B1%9F%E1%B1%B6%E1%B1%B4%20%E1%B1%AE%E1%B1%B5%E1%B1%B7%E1%B1%9A%E1%B1%A8%E1%B1%AE%E1%B1%A5%E1%B1%B4.wav
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Everest.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Everest%20as%20seen%20from%20Drukair2%20PLW%20edit.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Everest%20banner%202.jpg
-relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/MountEverestRelief.png
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Starry%20night%20at%20Mount%20Everest.jpg
-U.S. National Archives Identifier: "10038395"
-Commons category: Mount Everest
+- '[[_Standards/WikiData/WD~Nepal,837]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+location: '[[_Standards/WikiData/WD~Himalayas,5451]]'
+made_from_material:
+- '[[_Standards/WikiData/WD~rock,8063]]'
+- '[[_Standards/WikiData/WD~ice,23392]]'
+located_in_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
+- "[[_Standards/WikiData/WD~Solukhumbu District,28363]]"
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
+visitors_per_year:
+- 0
+- 2
+- 3
+- 4
+- 6
+- 106
+- 146
+- 547
+- 641
+- 648
+- 658
+- 807
+- 891
+topographic_isolation: 40008
+topographic_prominence: 8848.86
+elevation_above_sea_level: 8848.86
+native_label:
+- "Mount Everest"
+- ཇོ་མོ་གླང་མ
+- सगरमाथा
+- 圣母峰
+- 珠穆朗玛峰
+- 珠穆朗瑪峰
+- 聖母峰
+size_comparison_diagram: "http://commons.wikimedia.org/wiki/Special:FilePath/7summits%20v1.jpg"
+view: "http://commons.wikimedia.org/wiki/Special:FilePath/Amanecer%20desde%20la%20cima%20del%20Everest%20por%20Carlos%20Pauner.JPG"
+panoramic_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Everest%20panorama%20from%20Kala%20Patthar.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Kala%20Patthar.webm"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20Mount%20Everest.png"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%A2%E1%B1%9F%E1%B1%B6%E1%B1%B4%20%E1%B1%AE%E1%B1%B5%E1%B1%B7%E1%B1%9A%E1%B1%A8%E1%B1%AE%E1%B1%A5%E1%B1%B4.wav"
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Everest.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Everest%20as%20seen%20from%20Drukair2%20PLW%20edit.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Everest%20banner%202.jpg"
+relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/MountEverestRelief.png"
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Starry%20night%20at%20Mount%20Everest.jpg"
+U_S_National_Archives_Identifier: 10038395
+Commons_category: "Mount Everest"
 Libris-URI: rp35400920gsz51
-Commons gallery: ཇོ་མོ་གླང་མ
-coordinate location: Point(86.925 27.988055555)
+Commons_gallery: ཇོ་མོ་གླང་མ
+coordinate_location: "Point(86.925 27.988055555)"
 ---
-
 
 ## #has_/text_of_/abstract 
 

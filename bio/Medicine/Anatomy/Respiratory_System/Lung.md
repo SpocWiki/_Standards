@@ -1,40 +1,39 @@
----
+﻿---
 has_id_wikidata: Q7886
-arterial supply: "[[_Standards/WikiData/WD~pulmonary artery,206280]]"
-venous drainage: "[[_Standards/WikiData/WD~pulmonary vein,535352]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Gray's Anatomy (20th edition),19558994]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~organ,712378]]"
-  - "[[_Standards/WikiData/WD~animal organ,24060765]]"
-  - "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-anatomical location: "[[_Standards/WikiData/WD~cavity of bony thorax,994554]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~pulmonary lobe,7259536]]"
-development of anatomical structure: "[[_Standards/WikiData/WD~lung development,14327711]]"
-instance of:
-  - "[[_Standards/WikiData/WD~organ type,103812529]]"
-  - "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-different from: "[[_Standards/WikiData/WD~pair of lungs,103998540]]"
-Baidu Tieba name: 肺
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Lunge.ogg
-part of: "[[_Standards/WikiData/WD~respiratory system,7891]]"
-Commons gallery: Lung
-video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20funktioniert%20die%20Atmung.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Thorax%20Lung%203d%20from%20ct%20scans.jpg
-WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/lungs
-ground level 360 degree view URL: https://www.zygotebody.com/#nav=-4.65,113.68,119.59,0,0,0,0&sel=p:;h:;s:1175,1177;c:-0.6;o:-0.75&layers=0,0,5000,0,0,0,0,10000,10000,10000,10000
-U.S. National Archives Identifier: "10646920"
-OmegaWiki Defined Meaning: "334158"
-MeSH tree code: A04.411
-UMLS CUI: C0024109
-Commons category: Lungs
-TA98 Latin term: pulmones
-Unicode character: 🫁
+arterial_supply: "[[_Standards/WikiData/WD~pulmonary artery,206280]]"
+venous_drainage: "[[_Standards/WikiData/WD~pulmonary vein,535352]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Gray's Anatomy (20th edition),19558994]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~organ,712378]]'
+- "[[_Standards/WikiData/WD~animal organ,24060765]]"
+- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+anatomical_location: "[[_Standards/WikiData/WD~cavity of bony thorax,994554]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~pulmonary lobe,7259536]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~lung development,14327711]]"
+instance_of:
+- "[[_Standards/WikiData/WD~organ type,103812529]]"
+- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+different_from: "[[_Standards/WikiData/WD~pair of lungs,103998540]]"
+Baidu_Tieba_name: 肺
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Lunge.ogg"
+part_of: "[[_Standards/WikiData/WD~respiratory system,7891]]"
+Commons_gallery: Lung
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/So%20funktioniert%20die%20Atmung.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Thorax%20Lung%203d%20from%20ct%20scans.jpg"
+WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/lungs"
+ground_level_360_degree_view_URL: "https://www.zygotebody.com/#nav=-4.65,113.68,119.59,0,0,0,0&sel=p:;h:;s:1175,1177;c:-0.6;o:-0.75&layers=0,0,5000,0,0,0,0,10000,10000,10000,10000"
+U_S_National_Archives_Identifier: 10646920
+OmegaWiki_Defined_Meaning: 334158
+MeSH_tree_code: A04.411
+UMLS_CUI: C0024109
+Commons_category: Lungs
+TA98_Latin_term: pulmones
+Unicode_character: "\U0001FAC1"
 ---
-
 
 ## #has_/text_of_/abstract 
 

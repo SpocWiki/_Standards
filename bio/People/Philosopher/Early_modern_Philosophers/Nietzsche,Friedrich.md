@@ -1,204 +1,204 @@
----
+﻿---
 aliases:
-  - Friedrich Nietzsche
-  - Friedrich Wilhelm Nietzsche
+- "Friedrich Nietzsche"
+- "Friedrich Wilhelm Nietzsche"
 has_id_wikidata: Q9358
-CYT/CCS:
-  - AC000530515
-  - AC000545232
-  - AC000530244
-  - AC000530243
-  - AC000194913
-  - AC000187198
-work period (start): 1865-01-01T00:00:00Z
-official website: http://www.pacelli-edition.de/Biographie/14013
-date of birth: 1844-10-15T00:00:00Z
-field of work:
-  - "[[_Standards/WikiData/WD~poetry,482]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~politics,7163]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-  - "[[_Standards/WikiData/WD~ethics,9465]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-  - "[[_Standards/WikiData/WD~aesthetics,35986]]"
-  - "[[_Standards/WikiData/WD~philology,40634]]"
-  - "[[_Standards/WikiData/WD~ontology,44325]]"
-  - "[[_Standards/WikiData/WD~nihilism,80968]]"
-  - "[[_Standards/WikiData/WD~philosophy of history,190721]]"
-  - "[[_Standards/WikiData/WD~classical philology,495527]]"
-influenced by:
-  - "[[_Standards/WikiData/WD~Stendhal,502]]"
-  - "[[_Standards/WikiData/WD~Napoleon,517]]"
-  - "[[_Standards/WikiData/WD~William Shakespeare,692]]"
-  - "[[_Standards/WikiData/WD~Plato,859]]"
-  - "[[_Standards/WikiData/WD~Aristotle,868]]"
-  - "[[_Standards/WikiData/WD~Socrates,913]]"
-  - "[[_Standards/WikiData/WD~Fyodor Dostoyevsky,991]]"
-  - "[[_Standards/WikiData/WD~Charles Darwin,1035]]"
-  - "[[_Standards/WikiData/WD~Julius Caesar,1048]]"
-  - "[[_Standards/WikiData/WD~Blaise Pascal,1290]]"
-  - "[[_Standards/WikiData/WD~Niccolò Machiavelli,1399]]"
-  - "[[_Standards/WikiData/WD~Richard Wagner,1511]]"
-  - "[[_Standards/WikiData/WD~Johann Wolfgang von Goethe,5879]]"
-  - "[[_Standards/WikiData/WD~Jean-Jacques Rousseau,6527]]"
-  - "[[_Standards/WikiData/WD~Homer,6691]]"
-  - "[[_Standards/WikiData/WD~Alexander the Great,8409]]"
-  - "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
-  - "[[_Standards/WikiData/WD~Voltaire,9068]]"
-  - "[[_Standards/WikiData/WD~Georg Wilhelm Friedrich Hegel,9235]]"
-  - "[[_Standards/WikiData/WD~Immanuel Kant,9312]]"
-  - "[[_Standards/WikiData/WD~Auguste Comte,12718]]"
-  - "[[_Standards/WikiData/WD~Richard Strauss,13894]]"
-  - "[[_Standards/WikiData/WD~Edgar Allan Poe,16867]]"
-  - "[[_Standards/WikiData/WD~Benedictus de Spinoza,35802]]"
-  - "[[_Standards/WikiData/WD~Zoroaster,35811]]"
-  - "[[_Standards/WikiData/WD~Arthur Schopenhauer,38193]]"
-  - "[[_Standards/WikiData/WD~Lou Andreas-Salomé,38873]]"
-  - "[[_Standards/WikiData/WD~William Butler Yeats,40213]]"
-  - "[[_Standards/WikiData/WD~Aeschylus,40939]]"
-  - "[[_Standards/WikiData/WD~Heraclitus,41155]]"
-  - "[[_Standards/WikiData/WD~Michel de Montaigne,41568]]"
-  - "[[_Standards/WikiData/WD~Thucydides,41683]]"
-  - "[[_Standards/WikiData/WD~Dionysus,41680]]"
-  - "[[_Standards/WikiData/WD~Democritus,41980]]"
-  - "[[_Standards/WikiData/WD~Epicurus,43216]]"
-  - "[[_Standards/WikiData/WD~Heinrich Heine,44403]]"
-  - "[[_Standards/WikiData/WD~Ralph Waldo Emerson,48226]]"
-  - "[[_Standards/WikiData/WD~Oswald Spengler,57112]]"
-  - "[[_Standards/WikiData/WD~Stefan George,57187]]"
-  - "[[_Standards/WikiData/WD~Johann Joachim Winckelmann,57280]]"
-  - "[[_Standards/WikiData/WD~Georg Christoph Lichtenberg,57554]]"
-  - "[[_Standards/WikiData/WD~Paul Tillich,60104]]"
-  - "[[_Standards/WikiData/WD~Friedrich Albert Lange,61674]]"
-  - "[[_Standards/WikiData/WD~Paul Rée,62596]]"
-  - "[[_Standards/WikiData/WD~Friedrich Wilhelm Ritschl,64632]]"
-  - "[[_Standards/WikiData/WD~Friedrich Hölderlin,75889]]"
-  - "[[_Standards/WikiData/WD~Max Scheler,76521]]"
-  - "[[_Standards/WikiData/WD~Max Stirner,76725]]"
-  - "[[_Standards/WikiData/WD~Mary Wigman,77127]]"
-  - "[[_Standards/WikiData/WD~Stefan Zweig,78491]]"
-  - "[[_Standards/WikiData/WD~Adam Mickiewicz,79822]]"
-  - "[[_Standards/WikiData/WD~Empedocles,83375]]"
-  - "[[_Standards/WikiData/WD~Parmenides,125551]]"
-  - "[[_Standards/WikiData/WD~Adalbert Stifter,168542]]"
-  - "[[_Standards/WikiData/WD~Protagoras,169243]]"
-  - "[[_Standards/WikiData/WD~Giacomo Leopardi,172599]]"
-  - "[[_Standards/WikiData/WD~Manu,178744]]"
-  - "[[_Standards/WikiData/WD~Cesare Borgia,187998]]"
-  - "[[_Standards/WikiData/WD~Paul Bourget,198644]]"
-  - "[[_Standards/WikiData/WD~Alexander Ivanovich Herzen,201221]]"
-  - "[[_Standards/WikiData/WD~Sextus Empiricus,236594]]"
-  - "[[_Standards/WikiData/WD~François de La Rochefoucauld,273708]]"
-  - "[[_Standards/WikiData/WD~Hippolyte Taine,297726]]"
-  - "[[_Standards/WikiData/WD~Ruđer Josip Bošković,310757]]"
-  - "[[_Standards/WikiData/WD~Lev Shestov,314189]]"
-  - "[[_Standards/WikiData/WD~Theognis of Megara,336115]]"
-  - "[[_Standards/WikiData/WD~Baltasar Gracián,360512]]"
-  - "[[_Standards/WikiData/WD~Bernard Mandeville,379912]]"
-  - "[[_Standards/WikiData/WD~African Spir,385790]]"
-  - "[[_Standards/WikiData/WD~Jean-Marie Guyau,707490]]"
-  - "[[_Standards/WikiData/WD~ancient Greek philosophy,999259]]"
-work location:
-  - "[[_Standards/WikiData/WD~Bonn,586]]"
-  - "[[_Standards/WikiData/WD~Leipzig,2079]]"
-  - "[[_Standards/WikiData/WD~Weimar,3955]]"
-  - "[[_Standards/WikiData/WD~Naumburg,15986]]"
-  - "[[_Standards/WikiData/WD~Basel,78]]"
-  - "[[_Standards/WikiData/WD~Schulpforte,1492092]]"
-place of death: "[[_Standards/WikiData/WD~Weimar,3955]]"
-country of citizenship: "[[_Standards/WikiData/WD~Kingdom of Prussia,27306]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-writing language: "[[_Standards/WikiData/WD~German,188]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~German,188]]"
-native language: "[[_Standards/WikiData/WD~German,188]]"
+CYT_CCS:
+- AC000530515
+- AC000545232
+- AC000530244
+- AC000530243
+- AC000194913
+- AC000187198
+work_period_start_: "1865-01-01T00:00:00Z"
+official_website: "http://www.pacelli-edition.de/Biographie/14013"
+date_of_birth: "1844-10-15T00:00:00Z"
+field_of_work:
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~ethics,9465]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~aesthetics,35986]]'
+- '[[_Standards/WikiData/WD~philology,40634]]'
+- '[[_Standards/WikiData/WD~ontology,44325]]'
+- '[[_Standards/WikiData/WD~nihilism,80968]]'
+- "[[_Standards/WikiData/WD~philosophy of history,190721]]"
+- "[[_Standards/WikiData/WD~classical philology,495527]]"
+influenced_by:
+- '[[_Standards/WikiData/WD~Stendhal,502]]'
+- '[[_Standards/WikiData/WD~Napoleon,517]]'
+- "[[_Standards/WikiData/WD~William Shakespeare,692]]"
+- '[[_Standards/WikiData/WD~Plato,859]]'
+- '[[_Standards/WikiData/WD~Aristotle,868]]'
+- '[[_Standards/WikiData/WD~Socrates,913]]'
+- "[[_Standards/WikiData/WD~Fyodor Dostoyevsky,991]]"
+- "[[_Standards/WikiData/WD~Charles Darwin,1035]]"
+- "[[_Standards/WikiData/WD~Julius Caesar,1048]]"
+- "[[_Standards/WikiData/WD~Blaise Pascal,1290]]"
+- "[[_Standards/WikiData/WD~Niccolò Machiavelli,1399]]"
+- "[[_Standards/WikiData/WD~Richard Wagner,1511]]"
+- "[[_Standards/WikiData/WD~Johann Wolfgang von Goethe,5879]]"
+- "[[_Standards/WikiData/WD~Jean-Jacques Rousseau,6527]]"
+- '[[_Standards/WikiData/WD~Homer,6691]]'
+- "[[_Standards/WikiData/WD~Alexander the Great,8409]]"
+- "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
+- '[[_Standards/WikiData/WD~Voltaire,9068]]'
+- "[[_Standards/WikiData/WD~Georg Wilhelm Friedrich Hegel,9235]]"
+- "[[_Standards/WikiData/WD~Immanuel Kant,9312]]"
+- "[[_Standards/WikiData/WD~Auguste Comte,12718]]"
+- "[[_Standards/WikiData/WD~Richard Strauss,13894]]"
+- "[[_Standards/WikiData/WD~Edgar Allan Poe,16867]]"
+- "[[_Standards/WikiData/WD~Benedictus de Spinoza,35802]]"
+- '[[_Standards/WikiData/WD~Zoroaster,35811]]'
+- "[[_Standards/WikiData/WD~Arthur Schopenhauer,38193]]"
+- "[[_Standards/WikiData/WD~Lou Andreas-Salomé,38873]]"
+- "[[_Standards/WikiData/WD~William Butler Yeats,40213]]"
+- '[[_Standards/WikiData/WD~Aeschylus,40939]]'
+- '[[_Standards/WikiData/WD~Heraclitus,41155]]'
+- "[[_Standards/WikiData/WD~Michel de Montaigne,41568]]"
+- '[[_Standards/WikiData/WD~Thucydides,41683]]'
+- '[[_Standards/WikiData/WD~Dionysus,41680]]'
+- '[[_Standards/WikiData/WD~Democritus,41980]]'
+- '[[_Standards/WikiData/WD~Epicurus,43216]]'
+- "[[_Standards/WikiData/WD~Heinrich Heine,44403]]"
+- "[[_Standards/WikiData/WD~Ralph Waldo Emerson,48226]]"
+- "[[_Standards/WikiData/WD~Oswald Spengler,57112]]"
+- "[[_Standards/WikiData/WD~Stefan George,57187]]"
+- "[[_Standards/WikiData/WD~Johann Joachim Winckelmann,57280]]"
+- "[[_Standards/WikiData/WD~Georg Christoph Lichtenberg,57554]]"
+- "[[_Standards/WikiData/WD~Paul Tillich,60104]]"
+- "[[_Standards/WikiData/WD~Friedrich Albert Lange,61674]]"
+- "[[_Standards/WikiData/WD~Paul Rée,62596]]"
+- "[[_Standards/WikiData/WD~Friedrich Wilhelm Ritschl,64632]]"
+- "[[_Standards/WikiData/WD~Friedrich Hölderlin,75889]]"
+- "[[_Standards/WikiData/WD~Max Scheler,76521]]"
+- "[[_Standards/WikiData/WD~Max Stirner,76725]]"
+- "[[_Standards/WikiData/WD~Mary Wigman,77127]]"
+- "[[_Standards/WikiData/WD~Stefan Zweig,78491]]"
+- "[[_Standards/WikiData/WD~Adam Mickiewicz,79822]]"
+- '[[_Standards/WikiData/WD~Empedocles,83375]]'
+- '[[_Standards/WikiData/WD~Parmenides,125551]]'
+- "[[_Standards/WikiData/WD~Adalbert Stifter,168542]]"
+- '[[_Standards/WikiData/WD~Protagoras,169243]]'
+- "[[_Standards/WikiData/WD~Giacomo Leopardi,172599]]"
+- '[[_Standards/WikiData/WD~Manu,178744]]'
+- "[[_Standards/WikiData/WD~Cesare Borgia,187998]]"
+- "[[_Standards/WikiData/WD~Paul Bourget,198644]]"
+- "[[_Standards/WikiData/WD~Alexander Ivanovich Herzen,201221]]"
+- "[[_Standards/WikiData/WD~Sextus Empiricus,236594]]"
+- "[[_Standards/WikiData/WD~François de La Rochefoucauld,273708]]"
+- "[[_Standards/WikiData/WD~Hippolyte Taine,297726]]"
+- "[[_Standards/WikiData/WD~Ruđer Josip Bošković,310757]]"
+- "[[_Standards/WikiData/WD~Lev Shestov,314189]]"
+- "[[_Standards/WikiData/WD~Theognis of Megara,336115]]"
+- "[[_Standards/WikiData/WD~Baltasar Gracián,360512]]"
+- "[[_Standards/WikiData/WD~Bernard Mandeville,379912]]"
+- "[[_Standards/WikiData/WD~African Spir,385790]]"
+- "[[_Standards/WikiData/WD~Jean-Marie Guyau,707490]]"
+- "[[_Standards/WikiData/WD~ancient Greek philosophy,999259]]"
+work_location:
+- '[[_Standards/WikiData/WD~Bonn,586]]'
+- '[[_Standards/WikiData/WD~Leipzig,2079]]'
+- '[[_Standards/WikiData/WD~Weimar,3955]]'
+- '[[_Standards/WikiData/WD~Naumburg,15986]]'
+- '[[_Standards/WikiData/WD~Basel,78]]'
+- '[[_Standards/WikiData/WD~Schulpforte,1492092]]'
+place_of_death: '[[_Standards/WikiData/WD~Weimar,3955]]'
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Prussia,27306]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+native_language: '[[_Standards/WikiData/WD~German,188]]'
 occupation:
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~pedagogue,1231865]]"
-  - "[[_Standards/WikiData/WD~music critic,1350157]]"
-  - "[[_Standards/WikiData/WD~classical scholar,2468727]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~classical philologist,16267607]]"
-student of:
-  - "[[_Standards/WikiData/WD~Jacob Burckhardt,59945]]"
-  - "[[_Standards/WikiData/WD~Friedrich Wilhelm Ritschl,64632]]"
-PhilPapers topic: friedrich-nietzsche
-Google Doodle: friedrich-nietzsches-169th-birthday
-Facebook username: FriedrichNietzscheAuthor
-Regensburg Classification:
-  - GL 7155
-  - DD 8480
-Krugosvet article: kultura_i_obrazovanie/literatura/NITSSHE_FRIDRIH.html
-name in native language: Friedrich Nietzsche
-birth name: Friedrich Wilhelm Nietzsche
-NLC authorities: "000195035"
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~pedagogue,1231865]]'
+- "[[_Standards/WikiData/WD~music critic,1350157]]"
+- "[[_Standards/WikiData/WD~classical scholar,2468727]]"
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- "[[_Standards/WikiData/WD~classical philologist,16267607]]"
+student_of:
+- "[[_Standards/WikiData/WD~Jacob Burckhardt,59945]]"
+- "[[_Standards/WikiData/WD~Friedrich Wilhelm Ritschl,64632]]"
+PhilPapers_topic: friedrich-nietzsche
+Google_Doodle: friedrich-nietzsches-169th-birthday
+Facebook_username: FriedrichNietzscheAuthor
+Regensburg_Classification:
+- "GL 7155"
+- "DD 8480"
+Krugosvet_article: kultura_i_obrazovanie/literatura/NITSSHE_FRIDRIH.html
+name_in_native_language: "Friedrich Nietzsche"
+birth_name: "Friedrich Wilhelm Nietzsche"
+NLC_authorities: 000195035
 sibling: "[[_Standards/WikiData/WD~Elisabeth Förster-Nietzsche,77377]]"
 student: "[[_Standards/WikiData/WD~Rudolf Steiner,78484]]"
-educated at:
-  - "[[_Standards/WikiData/WD~University of Bonn,152171]]"
-  - "[[_Standards/WikiData/WD~Leipzig University,154804]]"
-  - "[[_Standards/WikiData/WD~Landesschule Pforta,162494]]"
-  - "[[_Standards/WikiData/WD~Domgymnasium Naumburg,1237379]]"
-notable work: "[[_Standards/WikiData/WD~Thus Spoke Zarathustra,199774]]"
-has works in the collection: "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
-different from: "[[_Standards/WikiData/WD~Nietzsche,351245]]"
+educated_at:
+- "[[_Standards/WikiData/WD~University of Bonn,152171]]"
+- "[[_Standards/WikiData/WD~Leipzig University,154804]]"
+- "[[_Standards/WikiData/WD~Landesschule Pforta,162494]]"
+- "[[_Standards/WikiData/WD~Domgymnasium Naumburg,1237379]]"
+notable_work: "[[_Standards/WikiData/WD~Thus Spoke Zarathustra,199774]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
+different_from: '[[_Standards/WikiData/WD~Nietzsche,351245]]'
 employer: "[[_Standards/WikiData/WD~University of Basel,372608]]"
-place of burial: "[[_Standards/WikiData/WD~Lützen,517174]]"
-place of birth: "[[_Standards/WikiData/WD~Röcken,529879]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-movement: "[[_Standards/WikiData/WD~Lebensphilosophie,679490]]"
-academic degree: "[[_Standards/WikiData/WD~doctorate,849697]]"
-member of: "[[_Standards/WikiData/WD~Bonner Burschenschaft Frankonia,892732]]"
+place_of_burial: '[[_Standards/WikiData/WD~Lützen,517174]]'
+place_of_birth: '[[_Standards/WikiData/WD~Röcken,529879]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+movement: '[[_Standards/WikiData/WD~Lebensphilosophie,679490]]'
+academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
+member_of: "[[_Standards/WikiData/WD~Bonner Burschenschaft Frankonia,892732]]"
 father: "[[_Standards/WikiData/WD~Carl Ludwig Nietzsche,1039547]]"
 bibliography: "[[_Standards/WikiData/WD~Friedrich Nietzsche bibliography,3256303]]"
-list of works:
-  - "[[_Standards/WikiData/WD~Friedrich Nietzsche bibliography,3256303]]"
-  - "[[_Standards/WikiData/WD~list of musical compositions by Friedrich Nietzsche,3256341]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-cause of death: "[[_Standards/WikiData/WD~neurosyphilis,7888578]]"
-facial hair: "[[_Standards/WikiData/WD~walrus moustache,7963760]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-given name:
-  - "[[_Standards/WikiData/WD~Wilhelm,11027623]]"
-  - "[[_Standards/WikiData/WD~Friedrich,14038597]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Friedrich Nietzsche,11037105]]"
-position held: "[[_Standards/WikiData/WD~full professor,25339110]]"
-date of death: 1900-08-25T00:00:00Z
-documentation files at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-family name: "[[_Standards/WikiData/WD~Nietzsche,83374140]]"
-work period (end): 1889-01-01T00:00:00Z
-Wolfram Language entity code: Entity["Person", "FriedrichNietzsche::3q3v6"]
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Ikusgela-Nietzsche.webm
-ISNI: "0000000122828181"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Nietzsche187a.jpg
-Commons category: Friedrich Nietzsche
-Commons Creator page: Friedrich Nietzsche
+list_of_works:
+- "[[_Standards/WikiData/WD~Friedrich Nietzsche bibliography,3256303]]"
+- "[[_Standards/WikiData/WD~list of musical compositions by Friedrich Nietzsche,3256341]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+cause_of_death: '[[_Standards/WikiData/WD~neurosyphilis,7888578]]'
+facial_hair: "[[_Standards/WikiData/WD~walrus moustache,7963760]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+given_name:
+- '[[_Standards/WikiData/WD~Wilhelm,11027623]]'
+- '[[_Standards/WikiData/WD~Friedrich,14038597]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Friedrich Nietzsche,11037105]]"
+position_held: "[[_Standards/WikiData/WD~full professor,25339110]]"
+date_of_death: "1900-08-25T00:00:00Z"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+family_name: '[[_Standards/WikiData/WD~Nietzsche,83374140]]'
+work_period_end_: "1889-01-01T00:00:00Z"
+Wolfram_Language_entity_code: "Entity[\"Person\", \"FriedrichNietzsche::3q3v6\"]"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Ikusgela-Nietzsche.webm"
+ISNI: 0000000122828181
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nietzsche187a.jpg"
+Commons_category: "Friedrich Nietzsche"
+Commons_Creator_page: "Friedrich Nietzsche"
 hashtag: Nietzsche
-Commons gallery: Friedrich Wilhelm Nietzsche
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Friedrich%20Nietzsche2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Friedrich%20Wilhelm%20Nietzsche.oga
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Nietzsche%20Signature.svg
-image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%BCtzen%20R%C3%B6cken%20Kirche%202.jpg
+Commons_gallery: "Friedrich Wilhelm Nietzsche"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Friedrich%20Nietzsche2.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Friedrich%20Wilhelm%20Nietzsche.oga"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Nietzsche%20Signature.svg"
+image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%BCtzen%20R%C3%B6cken%20Kirche%202.jpg"
 Libris-URI: 31fhj7hm1w1m1l6
-BHCL UUID: 4366c11a-587e-4fdb-a27d-ff7358ebc829
-Provenio UUID: 88851a08-d6fd-4294-9023-478ad92c31c9
-Europeana entity: agent/base/200
+BHCL_UUID: 4366c11a-587e-4fdb-a27d-ff7358ebc829
+Provenio_UUID: 88851a08-d6fd-4294-9023-478ad92c31c9
+Europeana_entity: agent/base/200
 ---
 
 #has_/time_/started :: 1844-10-15

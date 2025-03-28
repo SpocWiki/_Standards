@@ -1,79 +1,78 @@
----
+﻿---
 has_id_wikidata: Q44
-U.S. National Archives Identifier: "10646278"
-Amazon.com browse node: "2983385011"
-Dewey Decimal Classification:
-  - "641.23"
-  - "641.623"
-  - "641.873"
-  - "663.42"
-Wolfram Language entity code: Entity["FoodType", "Beer"]
-MeSH tree code:
-  - G07.203.100.100.200
-  - J02.200.100.200
-  - G07.203.100.559.500
-  - G07.203.200.563.500
-  - J02.200.559.500
-  - J02.350.594.500
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PIVO.html
-Unicode character:
-  - 🍻
-  - 🍺
-produced by: "[[_Standards/WikiData/WD~brewery,131734]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~commodity,317088]]"
-  - "[[_Standards/WikiData/WD~alcopop,1571448]]"
-  - "[[_Standards/WikiData/WD~malt beverage,6744639]]"
-  - "[[_Standards/WikiData/WD~fermented alcoholic beverage,11258817]]"
-different from:
-  - "[[_Standards/WikiData/WD~Bier,421231]]"
-  - "[[_Standards/WikiData/WD~Piwo,20034664]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-has characteristic: "[[_Standards/WikiData/WD~bitterness,1517187]]"
-history of topic: "[[_Standards/WikiData/WD~history of beer,1517305]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~hops,3214940]]"
-  - "[[_Standards/WikiData/WD~barley,61665121]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~yeast,45422]]"
-made from material: "[[_Standards/WikiData/WD~hops,3214940]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Beer,8289204]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox beer,11202881]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Beer,13341435]]"
-disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-Provenio UUID: c232cd2d-2b67-4fe8-914b-a04bc8eccad9
-UMLS CUI: C0004922
-carbon footprint:
-  - 1
-  - 0.9
-2022 Harmonized System Code: "2203"
-OmegaWiki Defined Meaning: "6715"
-Commons gallery: Beer
-Commons category: Beer
-GS1 GPC code: "10000159"
-social media followers: 458316
-Stadtwiki Dresden article: Bier
-GitHub topic: beer
+U_S_National_Archives_Identifier: 10646278
+Amazon_com_browse_node: 2983385011
+Dewey_Decimal_Classification:
+- 641.23
+- 641.623
+- 641.873
+- 663.42
+Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Beer\"]"
+MeSH_tree_code:
+- G07.203.100.100.200
+- J02.200.100.200
+- G07.203.100.559.500
+- G07.203.200.563.500
+- J02.200.559.500
+- J02.350.594.500
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PIVO.html
+Unicode_character:
+- "\U0001F37B"
+- "\U0001F37A"
+produced_by: '[[_Standards/WikiData/WD~brewery,131734]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~commodity,317088]]'
+- '[[_Standards/WikiData/WD~alcopop,1571448]]'
+- "[[_Standards/WikiData/WD~malt beverage,6744639]]"
+- "[[_Standards/WikiData/WD~fermented alcoholic beverage,11258817]]"
+different_from:
+- '[[_Standards/WikiData/WD~Bier,421231]]'
+- '[[_Standards/WikiData/WD~Piwo,20034664]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of beer,1517305]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~hops,3214940]]'
+- '[[_Standards/WikiData/WD~barley,61665121]]'
+- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~yeast,45422]]'
+made_from_material: '[[_Standards/WikiData/WD~hops,3214940]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Beer,8289204]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox beer,11202881]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Beer,13341435]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+Provenio_UUID: c232cd2d-2b67-4fe8-914b-a04bc8eccad9
+UMLS_CUI: C0004922
+carbon_footprint:
+- 1
+- 0.9
+2022_Harmonized_System_Code: 2203
+OmegaWiki_Defined_Meaning: 6715
+Commons_gallery: Beer
+Commons_category: Beer
+GS1_GPC_code: 10000159
+social_media_followers: 458316
+Stadtwiki_Dresden_article: Bier
+GitHub_topic: beer
 subreddit: beer
-Colon Classification: F548
-start time: -3500-01-01T00:00:00Z
-equivalent class:
-  - http://aims.fao.org/aos/agrovoc/c_864
-  - http://dbpedia.org/ontology/Beer
-label in sign language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-cervesa-spreadthesign.ogv
-image: http://commons.wikimedia.org/wiki/Special:FilePath/NCI%20Visuals%20Food%20Beer.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Beer%20Beer%20glasses%20at%20Oktoberfest.png
-exact match: http://purl.obolibrary.org/obo/ENVO_01000015
+Colon_Classification: F548
+start_time: "-3500-01-01T00:00:00Z"
+equivalent_class:
+- "http://aims.fao.org/aos/agrovoc/c_864"
+- "http://dbpedia.org/ontology/Beer"
+label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-cervesa-spreadthesign.ogv"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/NCI%20Visuals%20Food%20Beer.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Beer%20Beer%20glasses%20at%20Oktoberfest.png"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_01000015"
 ---
-
 
 ## #has_/text_of_/abstract 
 

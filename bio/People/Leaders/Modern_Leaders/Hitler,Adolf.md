@@ -1,99 +1,98 @@
----
+﻿---
 aliases:
-  - Adolf Hitler
+- "Adolf Hitler"
 has_id_wikidata: Q35236
 occupation:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~geologist,520549]]"
-  - "[[_Standards/WikiData/WD~mining engineer,18524075]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~geologist,520549]]'
+- "[[_Standards/WikiData/WD~mining engineer,18524075]]"
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 residence:
-  - "[[_Standards/WikiData/WD~Stanford,173813]]"
-  - "[[_Standards/WikiData/WD~Hoover–Minthorn House,5898849]]"
-cause of death:
-  - "[[_Standards/WikiData/WD~colorectal cancer,188874]]"
-  - "[[_Standards/WikiData/WD~internal bleeding,2361887]]"
+- '[[_Standards/WikiData/WD~Stanford,173813]]'
+- "[[_Standards/WikiData/WD~Hoover–Minthorn House,5898849]]"
+cause_of_death:
+- "[[_Standards/WikiData/WD~colorectal cancer,188874]]"
+- "[[_Standards/WikiData/WD~internal bleeding,2361887]]"
 spouse: "[[_Standards/WikiData/WD~Lou Henry Hoover,233669]]"
-member of: "[[_Standards/WikiData/WD~National Academy of Sciences,270794]]"
-handedness: "[[_Standards/WikiData/WD~left-handedness,789447]]"
-position held:
-  - "[[_Standards/WikiData/WD~President-elect of the United States,1467287]]"
-  - "[[_Standards/WikiData/WD~Governor-General of the Philippines,1542521]]"
-  - "[[_Standards/WikiData/WD~United States Secretary of Commerce,2003296]]"
-  - "[[_Standards/WikiData/WD~President of the United States,11696]]"
-place of birth: "[[_Standards/WikiData/WD~West Branch,1798762]]"
-religion or worldview: "[[_Standards/WikiData/WD~Episcopal Church,3586152]]"
-given name:
-  - "[[_Standards/WikiData/WD~Clark,3679146]]"
-  - "[[_Standards/WikiData/WD~Herbert,4926833]]"
-manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+member_of: "[[_Standards/WikiData/WD~National Academy of Sciences,270794]]"
+handedness: '[[_Standards/WikiData/WD~left-handedness,789447]]'
+position_held:
+- "[[_Standards/WikiData/WD~President-elect of the United States,1467287]]"
+- "[[_Standards/WikiData/WD~Governor-General of the Philippines,1542521]]"
+- "[[_Standards/WikiData/WD~United States Secretary of Commerce,2003296]]"
+- "[[_Standards/WikiData/WD~President of the United States,11696]]"
+place_of_birth: "[[_Standards/WikiData/WD~West Branch,1798762]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Episcopal Church,3586152]]"
+given_name:
+- '[[_Standards/WikiData/WD~Clark,3679146]]'
+- '[[_Standards/WikiData/WD~Herbert,4926833]]'
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
 child:
-  - "[[_Standards/WikiData/WD~Allan Hoover,4730703]]"
-  - "[[_Standards/WikiData/WD~Herbert Hoover, Jr.,5734467]]"
-award received:
-  - "[[_Standards/WikiData/WD~NAS Public Welfare Medal,4811818]]"
-  - "[[_Standards/WikiData/WD~John Fritz Medal,6234290]]"
-  - "[[_Standards/WikiData/WD~Washington Award,7971681]]"
-  - "[[_Standards/WikiData/WD~Hoover Medal,17132005]]"
-  - "[[_Standards/WikiData/WD~honorary citizen of Tallinn,18625749]]"
-  - "[[_Standards/WikiData/WD~Memorial medal of the Winter War,28721482]]"
-  - "[[_Standards/WikiData/WD~American Library Association Honorary Membership,107183707]]"
-  - "[[_Standards/WikiData/WD~doctor honoris causa from the University of Lille,126420363]]"
-educated at:
-  - "[[_Standards/WikiData/WD~George Fox University,5539406]]"
-  - "[[_Standards/WikiData/WD~Stanford University,41506]]"
-archives at: "[[_Standards/WikiData/WD~Herbert Hoover Presidential Library and Museum,5734521]]"
-place of burial: "[[_Standards/WikiData/WD~Herbert Hoover Presidential Library and Museum,5734521]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-work location:
-  - "[[_Standards/WikiData/WD~Strelitz Buildings,14935914]]"
-  - "[[_Standards/WikiData/WD~Washington, D.C.,61]]"
-described by source:
-  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-family name: "[[_Standards/WikiData/WD~Hoover,20748947]]"
+- "[[_Standards/WikiData/WD~Allan Hoover,4730703]]"
+- "[[_Standards/WikiData/WD~Herbert Hoover, Jr.,5734467]]"
+award_received:
+- "[[_Standards/WikiData/WD~NAS Public Welfare Medal,4811818]]"
+- "[[_Standards/WikiData/WD~John Fritz Medal,6234290]]"
+- "[[_Standards/WikiData/WD~Washington Award,7971681]]"
+- "[[_Standards/WikiData/WD~Hoover Medal,17132005]]"
+- "[[_Standards/WikiData/WD~honorary citizen of Tallinn,18625749]]"
+- "[[_Standards/WikiData/WD~Memorial medal of the Winter War,28721482]]"
+- "[[_Standards/WikiData/WD~American Library Association Honorary Membership,107183707]]"
+- "[[_Standards/WikiData/WD~doctor honoris causa from the University of Lille,126420363]]"
+educated_at:
+- "[[_Standards/WikiData/WD~George Fox University,5539406]]"
+- "[[_Standards/WikiData/WD~Stanford University,41506]]"
+archives_at: "[[_Standards/WikiData/WD~Herbert Hoover Presidential Library and Museum,5734521]]"
+place_of_burial: "[[_Standards/WikiData/WD~Herbert Hoover Presidential Library and Museum,5734521]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+work_location:
+- "[[_Standards/WikiData/WD~Strelitz Buildings,14935914]]"
+- "[[_Standards/WikiData/WD~Washington, D.C.,61]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+family_name: '[[_Standards/WikiData/WD~Hoover,20748947]]'
 father: "[[_Standards/WikiData/WD~Jesse Hoover,20767981]]"
 sibling: "[[_Standards/WikiData/WD~Theodore Jesse Hoover,56707806]]"
 family: "[[_Standards/WikiData/WD~Hoover family,62531769]]"
 mother: "[[_Standards/WikiData/WD~Hulda Randall Minthorn,75766492]]"
-nominated for: "[[_Standards/WikiData/WD~doctor honoris causa from the University of Lille,126420363]]"
-date of birth: 1874-08-10T00:00:00Z
+nominated_for: "[[_Standards/WikiData/WD~doctor honoris causa from the University of Lille,126420363]]"
+date_of_birth: "1874-08-10T00:00:00Z"
 ISNI: 000000012099256X
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Mandarin,9192]]"
-writing language: "[[_Standards/WikiData/WD~English,1860]]"
-native language: "[[_Standards/WikiData/WD~English,1860]]"
-member of political party: "[[_Standards/WikiData/WD~Republican Party,29468]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-country of citizenship: "[[_Standards/WikiData/WD~United States,30]]"
-place of death: "[[_Standards/WikiData/WD~New York City,60]]"
-number of children: 2
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Mandarin,9192]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+member_of_political_party: "[[_Standards/WikiData/WD~Republican Party,29468]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: "[[_Standards/WikiData/WD~United States,30]]"
+place_of_death: "[[_Standards/WikiData/WD~New York City,60]]"
+number_of_children: 2
 height: 182
-DPLA subject term: Hoover, Herbert, 1874-1964
-Krugosvet article: istoriya/GUVER_GERBERT_KLARK.html
+DPLA_subject_term: "Hoover, Herbert, 1874-1964"
+Krugosvet_article: istoriya/GUVER_GERBERT_KLARK.html
 Libris-URI: mkz125z51s1slnm
-name in native language: Herbert Clark Hoover
-birth name: Herbert Clark Hoover
-date of death: 1964-10-20T00:00:00Z
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Clark%20Hoover%20Signature.svg
-image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Hoover-Gravesite.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Hoover%20video%20montage.ogv
-image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Hoover%20portrait.jpg
-U.S. National Archives Identifier: "10678005"
-BHCL UUID: 49a15759-b530-4cb4-b746-ee0257372996
-Commons Creator page: Herbert Hoover
-Commons gallery: Herbert Hoover
-Commons category: Herbert Hoover
+name_in_native_language: "Herbert Clark Hoover"
+birth_name: "Herbert Clark Hoover"
+date_of_death: "1964-10-20T00:00:00Z"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Clark%20Hoover%20Signature.svg"
+image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Hoover-Gravesite.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Hoover%20video%20montage.ogv"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Hoover%20portrait.jpg"
+U_S_National_Archives_Identifier: 10678005
+BHCL_UUID: 49a15759-b530-4cb4-b746-ee0257372996
+Commons_Creator_page: "Herbert Hoover"
+Commons_gallery: "Herbert Hoover"
+Commons_category: "Herbert Hoover"
 ---
-
 
 ## #has_/text_of_/abstract 
 

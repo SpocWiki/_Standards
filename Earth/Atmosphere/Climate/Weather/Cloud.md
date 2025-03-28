@@ -1,41 +1,40 @@
----
+﻿---
 has_id_wikidata: Q8074
-made from material:
-  - "[[_Standards/WikiData/WD~water vapor,190120]]"
-  - "[[_Standards/WikiData/WD~ice crystal,1325808]]"
-  - "[[_Standards/WikiData/WD~droplet,87446208]]"
-has effect: "[[_Standards/WikiData/WD~sun dog,208589]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-studied in: "[[_Standards/WikiData/WD~nephology,691312]]"
-said to be the same as: "[[_Standards/WikiData/WD~Nuaj,12894866]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-different from: "[[_Standards/WikiData/WD~Chmura,50393484]]"
-instance of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
-Digital Atlas of Idaho URL: https://digitalatlas.cose.isu.edu/clima/imaging/cldfr.htm
-label in sign language: http://commons.wikimedia.org/wiki/Special:FilePath/Nuage%20Nm%201%201%201%20-%20Elix.webm
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Arcus%20passing%20overhead%2028%20July%202021%20Galley%20Common.webm
-satellite view: http://commons.wikimedia.org/wiki/Special:FilePath/8402%20STS41B%20Challenger%20Thunderstorms%20over%20Brazil.jpg
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Cloud%202%20outline.svg
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20cloud%20to%20cloud%20%28aka%29.jpg
-winter view: http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20sun%20sets%20over%20Rose%20Valley.png
-subclass of: "[[_Standards/WikiData/WD~weather,11663]]"
-OmegaWiki Defined Meaning: "623"
-Commons gallery: Cloud
-Iconclass notation: 26A
-Commons category: Clouds
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Cumulus%20cloud.jpg
-exact match: http://purl.obolibrary.org/obo/ENVO_01000760
-Unicode character: ☁
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Above%20the%20Clouds.jpg
+made_from_material:
+- "[[_Standards/WikiData/WD~water vapor,190120]]"
+- "[[_Standards/WikiData/WD~ice crystal,1325808]]"
+- '[[_Standards/WikiData/WD~droplet,87446208]]'
+has_effect: "[[_Standards/WikiData/WD~sun dog,208589]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+studied_in: '[[_Standards/WikiData/WD~nephology,691312]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Nuaj,12894866]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
+different_from: '[[_Standards/WikiData/WD~Chmura,50393484]]'
+instance_of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+Digital_Atlas_of_Idaho_URL: "https://digitalatlas.cose.isu.edu/clima/imaging/cldfr.htm"
+label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Nuage%20Nm%201%201%201%20-%20Elix.webm"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Arcus%20passing%20overhead%2028%20July%202021%20Galley%20Common.webm"
+satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/8402%20STS41B%20Challenger%20Thunderstorms%20over%20Brazil.jpg"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Cloud%202%20outline.svg"
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20cloud%20to%20cloud%20%28aka%29.jpg"
+winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20sun%20sets%20over%20Rose%20Valley.png"
+subclass_of: '[[_Standards/WikiData/WD~weather,11663]]'
+OmegaWiki_Defined_Meaning: 623
+Commons_gallery: Cloud
+Iconclass_notation: 26A
+Commons_category: Clouds
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cumulus%20cloud.jpg"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_01000760"
+Unicode_character: ☁
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Above%20the%20Clouds.jpg"
 ---
-
 
 ## #has_/text_of_/abstract 
 

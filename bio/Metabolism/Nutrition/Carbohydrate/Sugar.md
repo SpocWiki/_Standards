@@ -1,19 +1,19 @@
----
+﻿---
 title: Sugar
 lang: en
 type: private_note
 keywords:
-  - Sugar
+- Sugar
 linkTitle: Sugar
 has_Template:
-  - - Extract~Note~Template
+- - Extract~Note~Template
 license: (c)copyrighted
 confidential: private
 isDeleted: false
 isReadOnly: false
 cssclasses:
-  - private
-  - note
+- private
+- note
 layout: 
 draft: true
 publish: false
@@ -21,55 +21,55 @@ publishDate:
 expiryDate: 
 has_time_started: 2024-12-28
 tags:
-  - Sugar
+- Sugar
 aliases:
-  - Sugar
-  - Zucker
-  - Sucrose
+- Sugar
+- Zucker
+- Sucrose
 has_id_wikidata: Q11002
-named after: "[[_Standards/WikiData/WD~-ose,158660]]"
-different from:
-  - "[[_Standards/WikiData/WD~maltose,170002]]"
-  - "[[_Standards/WikiData/WD~α-lactose,27104342]]"
-  - "[[_Standards/WikiData/WD~beta-L-fructo-furanose,27462479]]"
-  - "[[_Standards/WikiData/WD~sugar product,121599918]]"
-  - "[[_Standards/WikiData/WD~carbohydrate,11358]]"
-  - "[[_Standards/WikiData/WD~glucose,37525]]"
-has characteristic: "[[_Standards/WikiData/WD~hygroscopy,216678]]"
-instance of:
-  - "[[_Standards/WikiData/WD~commodity,317088]]"
-  - "[[_Standards/WikiData/WD~excipient,902638]]"
-  - "[[_Standards/WikiData/WD~sweetener,3400794]]"
-  - "[[_Standards/WikiData/WD~group or class of chemical substances,17339814]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-part of: "[[_Standards/WikiData/WD~cioccolato di Modica,1790835]]"
-UMLS CUI: C0242209
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q11002-ar.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Jer-Chucre.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%9A%E0%A9%80%E0%A8%A8%E0%A9%80.oga
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%85%E0%AE%B8%E0%AF%8D%E0%AE%95%E0%AE%BE.ogg
-exact match:
-  - https://ids.clld.org/parameters/5-850
-  - http://purl.obolibrary.org/obo/ENVO_00003970
-said to be the same as: "[[_Standards/WikiData/WD~carbohydrate,11358]]"
-subclass of: "[[_Standards/WikiData/WD~carbohydrate,11358]]"
-carbon footprint: 1.8
-OmegaWiki Defined Meaning: "3664"
-Commons gallery: Sugar
-U.S. National Archives Identifier: "10641540"
-Commons category: Sugars
-MeSH tree code: D09.947
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Sugar%202xmacro.jpg
-Iconclass notation: 41C63
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SAHAR.html
-acceptable daily intake: http://www.wikidata.org/.well-known/genid/50ae34edb819f26b38499f16a34d00ef
+named_after: '[[_Standards/WikiData/WD~-ose,158660]]'
+different_from:
+- '[[_Standards/WikiData/WD~maltose,170002]]'
+- '[[_Standards/WikiData/WD~α-lactose,27104342]]'
+- '[[_Standards/WikiData/WD~beta-L-fructo-furanose,27462479]]'
+- "[[_Standards/WikiData/WD~sugar product,121599918]]"
+- '[[_Standards/WikiData/WD~carbohydrate,11358]]'
+- '[[_Standards/WikiData/WD~glucose,37525]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
+instance_of:
+- '[[_Standards/WikiData/WD~commodity,317088]]'
+- '[[_Standards/WikiData/WD~excipient,902638]]'
+- '[[_Standards/WikiData/WD~sweetener,3400794]]'
+- "[[_Standards/WikiData/WD~group or class of chemical substances,17339814]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+part_of: "[[_Standards/WikiData/WD~cioccolato di Modica,1790835]]"
+UMLS_CUI: C0242209
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Q11002-ar.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Jer-Chucre.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%9A%E0%A9%80%E0%A8%A8%E0%A9%80.oga"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%85%E0%AE%B8%E0%AF%8D%E0%AE%95%E0%AE%BE.ogg"
+exact_match:
+- "https://ids.clld.org/parameters/5-850"
+- "http://purl.obolibrary.org/obo/ENVO_00003970"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~carbohydrate,11358]]'
+subclass_of: '[[_Standards/WikiData/WD~carbohydrate,11358]]'
+carbon_footprint: 1.8
+OmegaWiki_Defined_Meaning: 3664
+Commons_gallery: Sugar
+U_S_National_Archives_Identifier: 10641540
+Commons_category: Sugars
+MeSH_tree_code: D09.947
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sugar%202xmacro.jpg"
+Iconclass_notation: 41C63
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SAHAR.html
+acceptable_daily_intake: "http://www.wikidata.org/.well-known/genid/50ae34edb819f26b38499f16a34d00ef"
 ---
 
 ## #has_/text_of_/abstract 

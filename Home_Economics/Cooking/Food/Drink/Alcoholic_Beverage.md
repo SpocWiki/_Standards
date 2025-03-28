@@ -1,46 +1,45 @@
----
+﻿---
 aliases:
-  - Alcoholic beverage
+- "Alcoholic beverage"
 has_id_wikidata: Q154
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-has characteristic: "[[_Standards/WikiData/WD~bitterness,1517187]]"
-has list: "[[_Standards/WikiData/WD~list of alcoholic beverages,2468826]]"
-opposite of: "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
-produced by: "[[_Standards/WikiData/WD~alcohol industry,3150593]]"
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Alcoholic%20beverages%20montage.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Beer%20banner.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Common%20alcoholic%20beverages.jpg
-Stack Exchange site URL: https://alcohol.stackexchange.com
-Amazon.com browse node: "2983371011"
-Dewey Decimal Classification:
-  - "641.21"
-  - "663.1"
-FoodEx2 code: A03LZ
-Wolfram Language entity code:
-  - Entity["Concept", "AlcoholicBeverage::j7253"]
-  - Entity["FoodType", "AlcoholicBeverage"]
-MeSH tree code:
-  - G07.203.100.100
-  - J02.200.100
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SPIRTNIE_NAPITKI.html
-Baidu Tieba name: 酒
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox alcoholic beverage,10557691]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Alcoholic drinks,61473108]]"
-UMLS CUI: C0001967
-has active ingredient: "[[_Standards/WikiData/WD~ethanol,153]]"
-has part(s): "[[_Standards/WikiData/WD~ethanol,153]]"
-different from: "[[_Standards/WikiData/WD~alcohols,156]]"
-subclass of: "[[_Standards/WikiData/WD~drink,40050]]"
-instance of: "[[_Standards/WikiData/WD~drink,40050]]"
-IAB code: "211"
-Commons category: Alcoholic beverages
-U.S. National Archives Identifier: "10640438"
-Iconclass notation: 41C71
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
+has_list: "[[_Standards/WikiData/WD~list of alcoholic beverages,2468826]]"
+opposite_of: "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
+produced_by: "[[_Standards/WikiData/WD~alcohol industry,3150593]]"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alcoholic%20beverages%20montage.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Beer%20banner.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Common%20alcoholic%20beverages.jpg"
+Stack_Exchange_site_URL: "https://alcohol.stackexchange.com"
+Amazon_com_browse_node: 2983371011
+Dewey_Decimal_Classification:
+- 641.21
+- 663.1
+FoodEx2_code: A03LZ
+Wolfram_Language_entity_code:
+- "Entity[\"Concept\", \"AlcoholicBeverage::j7253\"]"
+- "Entity[\"FoodType\", \"AlcoholicBeverage\"]"
+MeSH_tree_code:
+- G07.203.100.100
+- J02.200.100
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SPIRTNIE_NAPITKI.html
+Baidu_Tieba_name: 酒
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox alcoholic beverage,10557691]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Alcoholic drinks,61473108]]"
+UMLS_CUI: C0001967
+has_active_ingredient: '[[_Standards/WikiData/WD~ethanol,153]]'
+has_part_s_: '[[_Standards/WikiData/WD~ethanol,153]]'
+different_from: '[[_Standards/WikiData/WD~alcohols,156]]'
+subclass_of: '[[_Standards/WikiData/WD~drink,40050]]'
+instance_of: '[[_Standards/WikiData/WD~drink,40050]]'
+IAB_code: 211
+Commons_category: "Alcoholic beverages"
+U_S_National_Archives_Identifier: 10640438
+Iconclass_notation: 41C71
 ---
-
 
 ## #has_/text_of_/abstract 
 

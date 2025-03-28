@@ -1,11 +1,11 @@
----
-license: CC BY-SA 4.0
+﻿---
+license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses:
-  - Country
+- Country
 publish: true
 type: Country
 title: Palestine
@@ -16,92 +16,92 @@ draft: false
 publishDate: 
 expiryDate: 
 tags:
-  - geo/Country
+- geo/Country
 aliases:
-  - Palestine
-  - State of Palestine
-  - Estado de Palestina
-  - État de Palestine
-  - دولة فلسطين
-  - 巴勒斯坦国
-  - Государство Палестина
-  - State of Palestine
-  - State of Palestine
-  - Estado  de Palestina
-  - Estado  de Palestina
+- Palestine
+- "State of Palestine"
+- "Estado de Palestina"
+- "État de Palestine"
+- "دولة فلسطين"
+- 巴勒斯坦国
+- "Государство Палестина"
+- "State of Palestine"
+- "State of Palestine"
+- "Estado  de Palestina"
+- "Estado  de Palestina"
 Languages:
-  - ar-PS
+- ar-PS
 has_id_wikidata: Q23792
-Commons category: Palestine
-literal translation: فلسطين
-coordinate location: Point(35.145264 31.625321)
-instance of:
-  - "[[_Standards/WikiData/WD~geographic region,82794]]"
-  - "[[_Standards/WikiData/WD~tourist destination,1200957]]"
-  - "[[_Standards/WikiData/WD~historical region,1620908]]"
-  - "[[_Standards/WikiData/WD~occupied territory,2577883]]"
-  - "[[_Standards/WikiData/WD~cultural region,3502482]]"
-  - "[[_Standards/WikiData/WD~divided region,5284036]]"
-said to be the same as:
-  - "[[_Standards/WikiData/WD~Land of Israel,155321]]"
-  - "[[_Standards/WikiData/WD~Holy Land in Islam,126894958]]"
+Commons_category: Palestine
+literal_translation: فلسطين
+coordinate_location: "Point(35.145264 31.625321)"
+instance_of:
+- "[[_Standards/WikiData/WD~geographic region,82794]]"
+- "[[_Standards/WikiData/WD~tourist destination,1200957]]"
+- "[[_Standards/WikiData/WD~historical region,1620908]]"
+- "[[_Standards/WikiData/WD~occupied territory,2577883]]"
+- "[[_Standards/WikiData/WD~cultural region,3502482]]"
+- "[[_Standards/WikiData/WD~divided region,5284036]]"
+said_to_be_the_same_as:
+- "[[_Standards/WikiData/WD~Land of Israel,155321]]"
+- "[[_Standards/WikiData/WD~Holy Land in Islam,126894958]]"
 country:
-  - "[[_Standards/WikiData/WD~Palestine,219060]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Jordan,810]]"
-different from:
-  - "[[_Standards/WikiData/WD~Palestine,219060]]"
-  - "[[_Standards/WikiData/WD~Palestine,617602]]"
-  - "[[_Standards/WikiData/WD~Palestinian National Authority,42620]]"
-history of topic: "[[_Standards/WikiData/WD~history of Palestine,556079]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-language used:
-  - "[[_Standards/WikiData/WD~Jewish Palestinian Aramaic,948909]]"
-  - "[[_Standards/WikiData/WD~South Levantine Arabic,55633582]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographic history of Palestine,5256060]]"
-studied in:
-  - "[[_Standards/WikiData/WD~Land of palestine Studies and Archaeology,7007095]]"
-  - "[[_Standards/WikiData/WD~Palestinian studies,12408688]]"
-part of: "[[_Standards/WikiData/WD~Southern Levant,7570085]]"
-maintained by WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject Asia,8503454]]"
-  - "[[_Standards/WikiData/WD~WikiProject Israel,10781185]]"
-  - "[[_Standards/WikiData/WD~WikiProject Western Asia,14867525]]"
-  - "[[_Standards/WikiData/WD~WikiProject Former countries,15304996]]"
-  - "[[_Standards/WikiData/WD~WikiProject Palestine,15885013]]"
-  - "[[_Standards/WikiData/WD~WikiProject Limited recognition,21830051]]"
-  - "[[_Standards/WikiData/WD~WikiProject Jewish history,21830231]]"
-  - "[[_Standards/WikiData/WD~WikiProject British Empire,88424997]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Palestine,11044579]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Palestine,55178332]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-Palestine.wav
-partially coincident with: "[[_Standards/WikiData/WD~Israel,801]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
+- '[[_Standards/WikiData/WD~Palestine,219060]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Jordan,810]]'
+different_from:
+- '[[_Standards/WikiData/WD~Palestine,219060]]'
+- '[[_Standards/WikiData/WD~Palestine,617602]]'
+- "[[_Standards/WikiData/WD~Palestinian National Authority,42620]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Palestine,556079]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+language_used:
+- "[[_Standards/WikiData/WD~Jewish Palestinian Aramaic,948909]]"
+- "[[_Standards/WikiData/WD~South Levantine Arabic,55633582]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographic history of Palestine,5256060]]"
+studied_in:
+- "[[_Standards/WikiData/WD~Land of palestine Studies and Archaeology,7007095]]"
+- "[[_Standards/WikiData/WD~Palestinian studies,12408688]]"
+part_of: "[[_Standards/WikiData/WD~Southern Levant,7570085]]"
+maintained_by_WikiProject:
+- "[[_Standards/WikiData/WD~WikiProject Asia,8503454]]"
+- "[[_Standards/WikiData/WD~WikiProject Israel,10781185]]"
+- "[[_Standards/WikiData/WD~WikiProject Western Asia,14867525]]"
+- "[[_Standards/WikiData/WD~WikiProject Former countries,15304996]]"
+- "[[_Standards/WikiData/WD~WikiProject Palestine,15885013]]"
+- "[[_Standards/WikiData/WD~WikiProject Limited recognition,21830051]]"
+- "[[_Standards/WikiData/WD~WikiProject Jewish history,21830231]]"
+- "[[_Standards/WikiData/WD~WikiProject British Empire,88424997]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Palestine,11044579]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Palestine,55178332]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-Palestine.wav"
+partially_coincident_with: '[[_Standards/WikiData/WD~Israel,801]]'
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 location: "[[_Standards/WikiData/WD~West Asia,27293]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20jordan.jpg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Palestine%20et%20Transjordanie%20%281922%20-%201948%29.PNG
-U.S. National Archives Identifier: "10044839"
-BHCL UUID: 82c96a6a-df72-4d0a-bc31-f624b93bd1b2
-INSEE countries and foreign territories code: "99261"
-PM20 geo code: B24a
-Provenio UUID: f9514186-867b-40a0-9acd-5941883d8433
-Krugosvet article:
-  - istoriya/PALESTINA_DREVNYAYA.html
-  - istoriya/PALESTINA.html
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20jordan.jpg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Palestine%20et%20Transjordanie%20%281922%20-%201948%29.PNG"
+U_S_National_Archives_Identifier: 10044839
+BHCL_UUID: 82c96a6a-df72-4d0a-bc31-f624b93bd1b2
+INSEE_countries_and_foreign_territories_code: 99261
+PM20_geo_code: B24a
+Provenio_UUID: f9514186-867b-40a0-9acd-5941883d8433
+Krugosvet_article:
+- istoriya/PALESTINA_DREVNYAYA.html
+- istoriya/PALESTINA.html
 ---
 
 # [[Palestine]] 

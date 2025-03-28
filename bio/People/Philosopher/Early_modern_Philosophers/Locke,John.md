@@ -1,108 +1,108 @@
----
+﻿---
 aliases:
-  - John Locke
+- "John Locke"
 has_id_wikidata: Q9353
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~philosopher of law,23760244]]"
-  - "[[_Standards/WikiData/WD~scientist,901]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~physician,39631]]"
-movement: "[[_Standards/WikiData/WD~empiricism,83368]]"
-member of: "[[_Standards/WikiData/WD~Royal Society,123885]]"
-influenced by:
-  - "[[_Standards/WikiData/WD~Hugo Grotius,154959]]"
-  - "[[_Standards/WikiData/WD~Anthony Ashley Cooper, 1st Earl of Shaftesbury,336002]]"
-  - "[[_Standards/WikiData/WD~Thomas Sydenham,559213]]"
-  - "[[_Standards/WikiData/WD~Robert Filmer,707787]]"
-  - "[[_Standards/WikiData/WD~Damaris Cudworth Masham,2332520]]"
-  - "[[_Standards/WikiData/WD~René Descartes,9191]]"
-  - "[[_Standards/WikiData/WD~Thomas Hobbes,37621]]"
-  - "[[_Standards/WikiData/WD~Samuel von Pufendorf,57186]]"
-field of work:
-  - "[[_Standards/WikiData/WD~political philosophy,179805]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~epistemology,9471]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
-country of citizenship: "[[_Standards/WikiData/WD~Kingdom of England,179876]]"
-notable work:
-  - "[[_Standards/WikiData/WD~Two Treatises of Government,231949]]"
-  - "[[_Standards/WikiData/WD~An Essay Concerning Human Understanding,482438]]"
-  - "[[_Standards/WikiData/WD~A Letter Concerning Toleration,914139]]"
-  - "[[_Standards/WikiData/WD~Some Thoughts Concerning Education,2471642]]"
-  - "[[_Standards/WikiData/WD~Of the Conduct of the Understanding,7078837]]"
-  - "[[_Standards/WikiData/WD~The prince and the cobbler,10339965]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- "[[_Standards/WikiData/WD~philosopher of law,23760244]]"
+- '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
+movement: '[[_Standards/WikiData/WD~empiricism,83368]]'
+member_of: "[[_Standards/WikiData/WD~Royal Society,123885]]"
+influenced_by:
+- "[[_Standards/WikiData/WD~Hugo Grotius,154959]]"
+- "[[_Standards/WikiData/WD~Anthony Ashley Cooper, 1st Earl of Shaftesbury,336002]]"
+- "[[_Standards/WikiData/WD~Thomas Sydenham,559213]]"
+- "[[_Standards/WikiData/WD~Robert Filmer,707787]]"
+- "[[_Standards/WikiData/WD~Damaris Cudworth Masham,2332520]]"
+- "[[_Standards/WikiData/WD~René Descartes,9191]]"
+- "[[_Standards/WikiData/WD~Thomas Hobbes,37621]]"
+- "[[_Standards/WikiData/WD~Samuel von Pufendorf,57186]]"
+field_of_work:
+- "[[_Standards/WikiData/WD~political philosophy,179805]]"
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of England,179876]]"
+notable_work:
+- "[[_Standards/WikiData/WD~Two Treatises of Government,231949]]"
+- "[[_Standards/WikiData/WD~An Essay Concerning Human Understanding,482438]]"
+- "[[_Standards/WikiData/WD~A Letter Concerning Toleration,914139]]"
+- "[[_Standards/WikiData/WD~Some Thoughts Concerning Education,2471642]]"
+- "[[_Standards/WikiData/WD~Of the Conduct of the Understanding,7078837]]"
+- "[[_Standards/WikiData/WD~The prince and the cobbler,10339965]]"
 employer:
-  - "[[_Standards/WikiData/WD~Anthony Ashley Cooper, 1st Earl of Shaftesbury,336002]]"
-  - "[[_Standards/WikiData/WD~Caleb Banks,5019214]]"
-  - "[[_Standards/WikiData/WD~University of Oxford,34433]]"
-different from: "[[_Standards/WikiData/WD~John Locke,399587]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Dictionary of National Biography, 1885–1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
-  - "[[_Standards/WikiData/WD~Pedagogues and Psychologists of the World,126722605]]"
-educated at:
-  - "[[_Standards/WikiData/WD~Christ Church,745967]]"
-  - "[[_Standards/WikiData/WD~Westminster School,1341516]]"
-place of birth: "[[_Standards/WikiData/WD~Wrington,1825419]]"
-place of death: "[[_Standards/WikiData/WD~High Laver,2233631]]"
-manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-given name: "[[_Standards/WikiData/WD~John,4925477]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
-award received: "[[_Standards/WikiData/WD~Fellow of the Royal Society,15631401]]"
-family name: "[[_Standards/WikiData/WD~Q16872404,16872404]]"
+- "[[_Standards/WikiData/WD~Anthony Ashley Cooper, 1st Earl of Shaftesbury,336002]]"
+- "[[_Standards/WikiData/WD~Caleb Banks,5019214]]"
+- "[[_Standards/WikiData/WD~University of Oxford,34433]]"
+different_from: "[[_Standards/WikiData/WD~John Locke,399587]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Dictionary of National Biography, 1885–1900,15987216]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
+- "[[_Standards/WikiData/WD~Pedagogues and Psychologists of the World,126722605]]"
+educated_at:
+- "[[_Standards/WikiData/WD~Christ Church,745967]]"
+- "[[_Standards/WikiData/WD~Westminster School,1341516]]"
+place_of_birth: '[[_Standards/WikiData/WD~Wrington,1825419]]'
+place_of_death: "[[_Standards/WikiData/WD~High Laver,2233631]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+given_name: '[[_Standards/WikiData/WD~John,4925477]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+- "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
+award_received: "[[_Standards/WikiData/WD~Fellow of the Royal Society,15631401]]"
+family_name: '[[_Standards/WikiData/WD~Q16872404,16872404]]'
 father: "[[_Standards/WikiData/WD~John Locke,21198546]]"
 mother: "[[_Standards/WikiData/WD~Agnes Keene,21198547]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-place of burial: "[[_Standards/WikiData/WD~High Laver,83958490]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+place_of_burial: "[[_Standards/WikiData/WD~High Laver,83958490]]"
 sibling: "[[_Standards/WikiData/WD~Thomas Locke,96089783]]"
-depicted by:
-  - "[[_Standards/WikiData/WD~John Locke (1632–1704),118992130]]"
-  - "[[_Standards/WikiData/WD~John Locke (1632–1704), Philosopher,119737628]]"
-  - "[[_Standards/WikiData/WD~John Locke (1632–1704),119932629]]"
-  - "[[_Standards/WikiData/WD~John Locke,119951956]]"
-ISNI: "0000000121272329"
-date of death: 1704-11-08T00:00:00Z
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-writing language: "[[_Standards/WikiData/WD~English,1860]]"
-cause of death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
-religion or worldview: "[[_Standards/WikiData/WD~Protestantism,23540]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-medical condition: "[[_Standards/WikiData/WD~asthma,35869]]"
-BHCL UUID: 48cb6882-ef92-4e17-aa81-87fc85ba6354
+depicted_by:
+- "[[_Standards/WikiData/WD~John Locke (1632–1704),118992130]]"
+- "[[_Standards/WikiData/WD~John Locke (1632–1704), Philosopher,119737628]]"
+- "[[_Standards/WikiData/WD~John Locke (1632–1704),119932629]]"
+- "[[_Standards/WikiData/WD~John Locke,119951956]]"
+ISNI: 0000000121272329
+date_of_death: "1704-11-08T00:00:00Z"
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+cause_of_death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Protestantism,23540]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+medical_condition: '[[_Standards/WikiData/WD~asthma,35869]]'
+BHCL_UUID: 48cb6882-ef92-4e17-aa81-87fc85ba6354
 Libris-URI: 53hkmkrp1gq7nrd
-Regensburg Classification: BF 4185
-Krugosvet article: filosofiya/lokk-dzhon
-Swedish Open Cultural Heritage URI: LSH/agents/45303
-date of birth: 1632-09-08T00:00:00Z
-name in native language: John Locke
-Commons gallery: John Locke
-Commons category: John Locke
-Commons Creator page: John Locke
-image: http://commons.wikimedia.org/wiki/Special:FilePath/JohnLocke.png
-plaque image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/All%20Saints%20Church%20external%20John%20Locke%20wall%20plaque%20at%20High%20Laver%20Essex%20England%201.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/All%20Saints%20Church%20external%20John%20Locke%20wall%20plaque%20at%20High%20Laver%20Essex%20England%202.jpg
-image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/All%20Saints%20Church%20John%20Locke%20churchyard%20tomb%20at%20High%20Laver%20Essex%20England.jpg
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Locke%20Signature.svg
+Regensburg_Classification: "BF 4185"
+Krugosvet_article: filosofiya/lokk-dzhon
+Swedish_Open_Cultural_Heritage_URI: LSH/agents/45303
+date_of_birth: "1632-09-08T00:00:00Z"
+name_in_native_language: "John Locke"
+Commons_gallery: "John Locke"
+Commons_category: "John Locke"
+Commons_Creator_page: "John Locke"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/JohnLocke.png"
+plaque_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/All%20Saints%20Church%20external%20John%20Locke%20wall%20plaque%20at%20High%20Laver%20Essex%20England%201.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/All%20Saints%20Church%20external%20John%20Locke%20wall%20plaque%20at%20High%20Laver%20Essex%20England%202.jpg"
+image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/All%20Saints%20Church%20John%20Locke%20churchyard%20tomb%20at%20High%20Laver%20Essex%20England.jpg"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Locke%20Signature.svg"
 ---
 
 #has_/time_/started :: 1632-08-29 

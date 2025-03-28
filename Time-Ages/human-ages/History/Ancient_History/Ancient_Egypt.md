@@ -1,48 +1,47 @@
----
-has_id_wikidata: Q11768 
-studied in: "[[_Standards/WikiData/WD~Egyptology,145903]]"
-historical region:
-  - "[[_Standards/WikiData/WD~ancient Near East,269678]]"
-  - "[[_Standards/WikiData/WD~Nile Valley Civilizations,11041351]]"
-history of topic: "[[_Standards/WikiData/WD~history of ancient Egypt,766876]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-instance of:
-  - "[[_Standards/WikiData/WD~historical region,1620908]]"
-  - "[[_Standards/WikiData/WD~historical country,3024240]]"
-  - "[[_Standards/WikiData/WD~cultural region,3502482]]"
-  - "[[_Standards/WikiData/WD~ancient civilization,28171280]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Ancient Egypt,2487803]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Ancient Egypt topics,6043821]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of ancient Egypt,7112549]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Ancient Egypt,8440998]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Giza.Sphinx.02%20%28cropped%29.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pharaoh%20Tutankhamun%20banner.jpg
-BHCL UUID: 3c692f3d-a5bb-4256-8e72-9155b8949b6e
+﻿---
+has_id_wikidata: Q11768
+studied_in: '[[_Standards/WikiData/WD~Egyptology,145903]]'
+historical_region:
+- "[[_Standards/WikiData/WD~ancient Near East,269678]]"
+- "[[_Standards/WikiData/WD~Nile Valley Civilizations,11041351]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of ancient Egypt,766876]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+instance_of:
+- "[[_Standards/WikiData/WD~historical region,1620908]]"
+- "[[_Standards/WikiData/WD~historical country,3024240]]"
+- "[[_Standards/WikiData/WD~cultural region,3502482]]"
+- "[[_Standards/WikiData/WD~ancient civilization,28171280]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Ancient Egypt,2487803]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ancient Egypt topics,6043821]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of ancient Egypt,7112549]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ancient Egypt,8440998]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Giza.Sphinx.02%20%28cropped%29.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Pharaoh%20Tutankhamun%20banner.jpg"
+BHCL_UUID: 3c692f3d-a5bb-4256-8e72-9155b8949b6e
 subreddit: ancientegypt
-Krugosvet article: istoriya/DREVNI_EGIPET.html
-OpenStreetMap tag or key: Tag:historic:civilization=ancient_egyptian
-MeSH tree code: Z01.586.035.325
-economy of topic: "[[_Standards/WikiData/WD~economy of Ancient Egypt,24734962]]"
-category for people who died here: "[[_Standards/WikiData/WD~Q32650623,32650623]]"
-category for people born here: "[[_Standards/WikiData/WD~Q44620178,44620178]]"
-coordinate location: Point(31.3 29.8)
-UMLS CUI: C4505338
-"dissolved, abolished or demolished date": -0029-01-01T00:00:00Z 
-has_time_stopped: -0029-01-01T00:00:00Z 
-inception: -4000-01-01T00:00:00Z 
-has_time_started: -4000-01-01T00:00:00Z 
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
-Dewey Decimal Classification:
-  - "932"
-  - 2--32
-Commons category: Ancient Egypt
+Krugosvet_article: istoriya/DREVNI_EGIPET.html
+OpenStreetMap_tag_or_key: "Tag:historic:civilization=ancient_egyptian"
+MeSH_tree_code: Z01.586.035.325
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Ancient Egypt,24734962]]"
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32650623,32650623]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q44620178,44620178]]'
+coordinate_location: "Point(31.3 29.8)"
+UMLS_CUI: C4505338
+dissolved_abolished_or_demolished_date: "-0029-01-01T00:00:00Z"
+has_time_stopped: "-0029-01-01T00:00:00Z"
+inception: "-4000-01-01T00:00:00Z"
+has_time_started: "-4000-01-01T00:00:00Z"
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+country: '[[_Standards/WikiData/WD~Egypt,79]]'
+Dewey_Decimal_Classification:
+- 932
+- 2--32
+Commons_category: "Ancient Egypt"
 ---
-
 
 ## #has_/text_of_/abstract 
 

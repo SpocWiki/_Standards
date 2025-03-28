@@ -1,34 +1,33 @@
----
+﻿---
 has_id_wikidata: Q8338
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-different from: "[[_Standards/WikiData/WD~Q4464220,4464220]]"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/C%20Major%20Scale%20Trumpet.ogv
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Trumpet%201.png
-UNSPSC Code: "60131101"
-Wolfram Language entity code: Entity["Concept", "Trumpet::4g5j6"]
-Krugosvet article: kultura_i_obrazovanie/muzyka/TRUBA.html
-practiced by: "[[_Standards/WikiData/WD~trumpeter,12377274]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Tyrsenus,12760076]]"
-award received: "[[_Standards/WikiData/WD~Instrument of the Year,48757486]]"
-subclass of: "[[_Standards/WikiData/WD~valve trumpets,55774273]]"
-instance of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
-has part(s): "[[_Standards/WikiData/WD~sur,131931143]]"
-Nomenclature for Museum Cataloging: "10676"
-Hornbostel-Sachs classification: "423.233"
-Amazon.com browse node: "11971791"
-U.S. National Archives Identifier: "10648442"
-OmegaWiki Defined Meaning: "344567"
-playing range image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20trumpet.svg
-Commons category: Trumpets
-Unicode character: 🎺
-Commons gallery: Trumpet
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+different_from: '[[_Standards/WikiData/WD~Q4464220,4464220]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/C%20Major%20Scale%20Trumpet.ogv"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Trumpet%201.png"
+UNSPSC_Code: 60131101
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"Trumpet::4g5j6\"]"
+Krugosvet_article: kultura_i_obrazovanie/muzyka/TRUBA.html
+practiced_by: '[[_Standards/WikiData/WD~trumpeter,12377274]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Tyrsenus,12760076]]'
+award_received: "[[_Standards/WikiData/WD~Instrument of the Year,48757486]]"
+subclass_of: "[[_Standards/WikiData/WD~valve trumpets,55774273]]"
+instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
+has_part_s_: '[[_Standards/WikiData/WD~sur,131931143]]'
+Nomenclature_for_Museum_Cataloging: 10676
+Hornbostel-Sachs_classification: 423.233
+Amazon_com_browse_node: 11971791
+U_S_National_Archives_Identifier: 10648442
+OmegaWiki_Defined_Meaning: 344567
+playing_range_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Range%20trumpet.svg"
+Commons_category: Trumpets
+Unicode_character: "\U0001F3BA"
+Commons_gallery: Trumpet
 ---
-
 
 ## #has_/text_of_/abstract 
 

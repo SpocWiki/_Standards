@@ -1,21 +1,20 @@
----
+﻿---
 has_id_wikidata: Q11403
-instance of: "[[_Standards/WikiData/WD~music genre,188451]]"
-subclass of: "[[_Standards/WikiData/WD~music of Brazil,899215]]"
-different from:
-  - "[[_Standards/WikiData/WD~samba,1340043]]"
-  - "[[_Standards/WikiData/WD~samba,1375949]]"
-practiced by: "[[_Standards/WikiData/WD~sambista,11305911]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Samba,22880924]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~Wiki Loves Cultura Popular Brasil - Danças, festivais e músicas,116742198]]"
-country of origin: "[[_Standards/WikiData/WD~Brazil,155]]"
-Commons gallery: Samba
-Commons category: Samba
-image: http://commons.wikimedia.org/wiki/Special:FilePath/HK%20TST%20night%20%E6%9F%8F%E9%BA%97%E8%B3%BC%E7%89%A9%E5%A4%A7%E9%81%93%20Park%20Lane%20Shopper%27s%20Boulevard%20%E5%B7%B4%E8%A5%BF%20Brasil%20%E6%A3%AE%E5%B7%B4%E8%88%9E%E5%A8%98%20Samba%20female%20dancers%20Nov-2010%2002.JPG
-inception: 1914-01-01T00:00:00Z 
-has_time_started: 1914-01-01T00:00:00Z 
+instance_of: "[[_Standards/WikiData/WD~music genre,188451]]"
+subclass_of: "[[_Standards/WikiData/WD~music of Brazil,899215]]"
+different_from:
+- '[[_Standards/WikiData/WD~samba,1340043]]'
+- '[[_Standards/WikiData/WD~samba,1375949]]'
+practiced_by: '[[_Standards/WikiData/WD~sambista,11305911]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Samba,22880924]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki Loves Cultura Popular Brasil - Danças, festivais e músicas,116742198]]"
+country_of_origin: '[[_Standards/WikiData/WD~Brazil,155]]'
+Commons_gallery: Samba
+Commons_category: Samba
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/HK%20TST%20night%20%E6%9F%8F%E9%BA%97%E8%B3%BC%E7%89%A9%E5%A4%A7%E9%81%93%20Park%20Lane%20Shopper%27s%20Boulevard%20%E5%B7%B4%E8%A5%BF%20Brasil%20%E6%A3%AE%E5%B7%B4%E8%88%9E%E5%A8%98%20Samba%20female%20dancers%20Nov-2010%2002.JPG"
+inception: "1914-01-01T00:00:00Z"
+has_time_started: "1914-01-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

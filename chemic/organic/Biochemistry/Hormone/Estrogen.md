@@ -1,28 +1,27 @@
----
+﻿---
 has_id_wikidata: Q277954
-subclass of:
-  - "[[_Standards/WikiData/WD~steroid hormone,422137]]"
-  - "[[_Standards/WikiData/WD~sex steroid,422812]]"
-  - "[[_Standards/WikiData/WD~hormone,11364]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A7%87%E0%A6%A8.wav
-WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/estrogens
-MeSH tree code: D27.505.696.399.472.277
-part of:
-  - "[[_Standards/WikiData/WD~response to estrogen,14599729]]"
-  - "[[_Standards/WikiData/WD~estrogen metabolic process,14863651]]"
-  - "[[_Standards/WikiData/WD~estrogen biosynthetic process,14865014]]"
-  - "[[_Standards/WikiData/WD~estrogen receptor activity,14902297]]"
-  - "[[_Standards/WikiData/WD~cellular response to estrogen stimulus,14902316]]"
-  - "[[_Standards/WikiData/WD~estrogen catabolic process,21123543]]"
-  - "[[_Standards/WikiData/WD~estrogen secretion,22290462]]"
-different from: "[[_Standards/WikiData/WD~estrin,30611685]]"
-instance of:
-  - "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
-Commons category: Estrogens
+subclass_of:
+- "[[_Standards/WikiData/WD~steroid hormone,422137]]"
+- "[[_Standards/WikiData/WD~sex steroid,422812]]"
+- '[[_Standards/WikiData/WD~hormone,11364]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A7%87%E0%A6%A8.wav"
+WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/estrogens"
+MeSH_tree_code: D27.505.696.399.472.277
+part_of:
+- "[[_Standards/WikiData/WD~response to estrogen,14599729]]"
+- "[[_Standards/WikiData/WD~estrogen metabolic process,14863651]]"
+- "[[_Standards/WikiData/WD~estrogen biosynthetic process,14865014]]"
+- "[[_Standards/WikiData/WD~estrogen receptor activity,14902297]]"
+- "[[_Standards/WikiData/WD~cellular response to estrogen stimulus,14902316]]"
+- "[[_Standards/WikiData/WD~estrogen catabolic process,21123543]]"
+- "[[_Standards/WikiData/WD~estrogen secretion,22290462]]"
+different_from: '[[_Standards/WikiData/WD~estrin,30611685]]'
+instance_of:
+- "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
+Commons_category: Estrogens
 aliases:
-  - oestrogen
+- oestrogen
 ---
-
 
 ## #has_/text_of_/abstract 
 

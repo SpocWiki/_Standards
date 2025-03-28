@@ -1,74 +1,73 @@
----
+﻿---
 has_id_wikidata: Q8486
-made from material:
-  - "[[_Standards/WikiData/WD~coffee bean,153697]]"
-  - "[[_Standards/WikiData/WD~hot water,1419245]]"
-different from:
-  - "[[_Standards/WikiData/WD~Joe,255073]]"
-  - "[[_Standards/WikiData/WD~Kawa,1211689]]"
-natural product of taxon:
-  - "[[_Standards/WikiData/WD~kapeng barako,263685]]"
-  - "[[_Standards/WikiData/WD~Coffea stenophylla,672410]]"
-  - "[[_Standards/WikiData/WD~Coffea charrieriana,2671806]]"
-  - "[[_Standards/WikiData/WD~Coffea robusta,50831333]]"
-  - "[[_Standards/WikiData/WD~Cultured coffee,124986927]]"
-  - "[[_Standards/WikiData/WD~Coffea arabica,47685]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~nootropic,742487]]"
-  - "[[_Standards/WikiData/WD~stimulant foodstuff,1365365]]"
-  - "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
-  - "[[_Standards/WikiData/WD~hot beverage,19359564]]"
-  - "[[_Standards/WikiData/WD~coffee drink,37756327]]"
-has characteristic: "[[_Standards/WikiData/WD~bitterness,1517187]]"
-history of topic: "[[_Standards/WikiData/WD~history of coffee,2635744]]"
-fabrication method:
-  - "[[_Standards/WikiData/WD~steeping,3309953]]"
-  - "[[_Standards/WikiData/WD~boiling,20074315]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Coffee,6492500]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q21287180,21287180]]"
-part of: "[[_Standards/WikiData/WD~gassosa al caffè,65129864]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Intangible Cultural Heritage,112898263]]"
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffee2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffee3.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q8486-ar.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%95%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF.ogg
-Baidu Tieba name: 咖啡
-country of origin:
-  - "[[_Standards/WikiData/WD~Yemen,805]]"
-  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
-pH value: 5
-water footprint: 18925
-social media followers: 1166582
-image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20small%20cup%20of%20coffee.JPG
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Coffee%20Beans%20Banner.jpg
-label in sign language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-caf%C3%A8-spreadthesign.ogv
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BClmen%2C%20Privatr%C3%B6sterei%20Schr%C3%B6er%20--%202018%20--%202.jpg
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Caf%C3%A9%20-%20parties%201%20%26%202.ogg
-WordLift URL: http://data.thenextweb.com/tnw/entity/coffee
-Stack Exchange site URL: https://coffee.stackexchange.com
-Unicode character: ☕
-Amazon.com browse node: "16318031"
-Iconclass notation: 41C721
-Commons gallery: Coffee
-Commons category: Coffee
-Archive of Our Own tag: Coffee
+made_from_material:
+- "[[_Standards/WikiData/WD~coffee bean,153697]]"
+- "[[_Standards/WikiData/WD~hot water,1419245]]"
+different_from:
+- '[[_Standards/WikiData/WD~Joe,255073]]'
+- '[[_Standards/WikiData/WD~Kawa,1211689]]'
+natural_product_of_taxon:
+- "[[_Standards/WikiData/WD~kapeng barako,263685]]"
+- "[[_Standards/WikiData/WD~Coffea stenophylla,672410]]"
+- "[[_Standards/WikiData/WD~Coffea charrieriana,2671806]]"
+- "[[_Standards/WikiData/WD~Coffea robusta,50831333]]"
+- "[[_Standards/WikiData/WD~Cultured coffee,124986927]]"
+- "[[_Standards/WikiData/WD~Coffea arabica,47685]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~nootropic,742487]]'
+- "[[_Standards/WikiData/WD~stimulant foodstuff,1365365]]"
+- "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
+- "[[_Standards/WikiData/WD~hot beverage,19359564]]"
+- "[[_Standards/WikiData/WD~coffee drink,37756327]]"
+has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of coffee,2635744]]"
+fabrication_method:
+- '[[_Standards/WikiData/WD~steeping,3309953]]'
+- '[[_Standards/WikiData/WD~boiling,20074315]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Coffee,6492500]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21287180,21287180]]'
+part_of: "[[_Standards/WikiData/WD~gassosa al caffè,65129864]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Intangible Cultural Heritage,112898263]]"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffee2.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffee3.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Q8486-ar.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%95%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF.ogg"
+Baidu_Tieba_name: 咖啡
+country_of_origin:
+- '[[_Standards/WikiData/WD~Yemen,805]]'
+- '[[_Standards/WikiData/WD~Ethiopia,115]]'
+pH_value: 5
+water_footprint: 18925
+social_media_followers: 1166582
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/A%20small%20cup%20of%20coffee.JPG"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Coffee%20Beans%20Banner.jpg"
+label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-caf%C3%A8-spreadthesign.ogv"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BClmen%2C%20Privatr%C3%B6sterei%20Schr%C3%B6er%20--%202018%20--%202.jpg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Caf%C3%A9%20-%20parties%201%20%26%202.ogg"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/coffee"
+Stack_Exchange_site_URL: "https://coffee.stackexchange.com"
+Unicode_character: ☕
+Amazon_com_browse_node: 16318031
+Iconclass_notation: 41C721
+Commons_gallery: Coffee
+Commons_category: Coffee
+Archive_of_Our_Own_tag: Coffee
 subreddit:
-  - Coffee
-  - CoffeePorn
-MeSH tree code:
-  - D20.215.784.249
-  - G07.203.100.325
-  - J02.200.325
-Wolfram Language entity code: Entity["FoodType", "Coffee"]
+- Coffee
+- CoffeePorn
+MeSH_tree_code:
+- D20.215.784.249
+- G07.203.100.325
+- J02.200.325
+Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Coffee\"]"
 ---
-
 
 ## #has_/text_of_/abstract 
 

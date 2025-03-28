@@ -1,16 +1,16 @@
----
+﻿---
 location:
-  - 42.5167
-  - 1.51333
+- 42.5167
+- 1.51333
 type: Country
 has_id_wikidata: Q228
 tags:
-  - geo/Country
-license: CC BY-SA 4.0
+- geo/Country
+license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Andorra
@@ -21,278 +21,278 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Andorra
-  - Andorre
-  - أندورا
-  - 安道尔
-  - Андорра
-  - the Principality of Andorra
-  - el Principado de Andorra
+- Andorra
+- Andorre
+- أندورا
+- 安道尔
+- Андорра
+- "the Principality of Andorra"
+- "el Principado de Andorra"
 Languages:
-  - ca
+- ca
 icon: flag-ad
-PM20 geo code: A30a
+PM20_geo_code: A30a
 demonym:
-  - Andórach
-  - أندوري
-  - أندورية
-  - أندوريون
-  - andorrana
-  - andorranu
-  - অ্যান্ডোরীয়
-  - andorrà
-  - andorrana
-  - Andořan
-  - Andořanka
-  - andorraner
-  - Andorano
-  - andorrana
-  - andorrano
-  - andorran
-  - andorrane
-  - andorranes
-  - andorrans
-  - אנדורי
-  - אנדורית
-  - andorrai
-  - Andorano
-  - andorrana
-  - andorrane
-  - andorrani
-  - andorrano
-  - アンドラ人
-  - andoran
-  - андорранец
-  - андорранка
-  - andoran
-  - andorana
-  - andorane
-  - andorani
-  - Landoränan
-  - أنضوري
-  - أنضوريات
-  - أنضورية
-  - أنضوريين
-  - 안도라인
-  - андорранцы
-  - андоррцы
-  - Andorran
-  - Andorran
-  - Andorrane
-MeSH tree code: Z01.542.049
-coordinates of easternmost point: Point(1.786388888 42.574166666)
-coordinates of westernmost point: Point(1.4090395 42.48627658)
-coordinates of southernmost point: Point(1.51718214 42.42875662)
-shares border with:
-  - "[[_Standards/WikiData/WD~European Union,458]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~European Union,458]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-member of: "[[_Standards/WikiData/WD~United Nations,1065]]"
+- Andórach
+- أندوري
+- أندورية
+- أندوريون
+- andorrana
+- andorranu
+- অ্যান্ডোরীয়
+- andorrà
+- andorrana
+- Andořan
+- Andořanka
+- andorraner
+- Andorano
+- andorrana
+- andorrano
+- andorran
+- andorrane
+- andorranes
+- andorrans
+- אנדורי
+- אנדורית
+- andorrai
+- Andorano
+- andorrana
+- andorrane
+- andorrani
+- andorrano
+- アンドラ人
+- andoran
+- андорранец
+- андорранка
+- andoran
+- andorana
+- andorane
+- andorani
+- Landoränan
+- أنضوري
+- أنضوريات
+- أنضورية
+- أنضوريين
+- 안도라인
+- андорранцы
+- андоррцы
+- Andorran
+- Andorran
+- Andorrane
+MeSH_tree_code: Z01.542.049
+coordinates_of_easternmost_point: "Point(1.786388888 42.574166666)"
+coordinates_of_westernmost_point: "Point(1.4090395 42.48627658)"
+coordinates_of_southernmost_point: "Point(1.51718214 42.42875662)"
+shares_border_with:
+- "[[_Standards/WikiData/WD~European Union,458]]"
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+diplomatic_relation:
+- "[[_Standards/WikiData/WD~European Union,458]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+member_of: "[[_Standards/WikiData/WD~United Nations,1065]]"
 capital: "[[_Standards/WikiData/WD~Andorra la Vella,1863]]"
-instance of:
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-language used: "[[_Standards/WikiData/WD~Catalan,7026]]"
-official language: "[[_Standards/WikiData/WD~Catalan,7026]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Andorra,8071]]"
-located in/on physical feature:
-  - "[[_Standards/WikiData/WD~Pyrenees,12431]]"
-  - "[[_Standards/WikiData/WD~Iberian Peninsula,12837]]"
-  - "[[_Standards/WikiData/WD~Southern Europe,27449]]"
-public holiday:
-  - "[[_Standards/WikiData/WD~Christmas,19809]]"
-  - "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-  - "[[_Standards/WikiData/WD~Constitution Day,14830607]]"
-  - "[[_Standards/WikiData/WD~Meritxell Day,14830608]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Canillo,24260]]"
-  - "[[_Standards/WikiData/WD~Encamp,24269]]"
-  - "[[_Standards/WikiData/WD~Ordino,24272]]"
-  - "[[_Standards/WikiData/WD~La Massana,24276]]"
-  - "[[_Standards/WikiData/WD~Sant Julià de Lòria,24282]]"
-  - "[[_Standards/WikiData/WD~Escaldes-Engordany,24286]]"
-  - "[[_Standards/WikiData/WD~Andorra la Vella,2522163]]"
-legislative body: "[[_Standards/WikiData/WD~General Council of Andorra,24824]]"
-lowest point: "[[_Standards/WikiData/WD~Gran Valira,24853]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Central European Time,25989]]"
-  - "[[_Standards/WikiData/WD~Europe_Andorra,28148764]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-water as percent of area: 0
-literacy rate: 100
-country: "[[_Standards/WikiData/WD~Andorra,228]]"
-birth rate:
-  - 7
-  - 6.2
-marriageable age: 16
-mains voltage: 220
-maximum temperature record: 36
-death rate:
-  - 3.9
-  - 4.6
-VAT rate: 4.5
-top-level Internet domain: "[[_Standards/WikiData/WD~.ad,36552]]"
-total fertility rate: 1.27
+instance_of:
+- '[[_Standards/WikiData/WD~country,6256]]'
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+language_used: '[[_Standards/WikiData/WD~Catalan,7026]]'
+official_language: '[[_Standards/WikiData/WD~Catalan,7026]]'
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Andorra,8071]]"
+located_in_on_physical_feature:
+- '[[_Standards/WikiData/WD~Pyrenees,12431]]'
+- "[[_Standards/WikiData/WD~Iberian Peninsula,12837]]"
+- "[[_Standards/WikiData/WD~Southern Europe,27449]]"
+public_holiday:
+- '[[_Standards/WikiData/WD~Christmas,19809]]'
+- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
+- "[[_Standards/WikiData/WD~Constitution Day,14830607]]"
+- "[[_Standards/WikiData/WD~Meritxell Day,14830608]]"
+contains_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Canillo,24260]]'
+- '[[_Standards/WikiData/WD~Encamp,24269]]'
+- '[[_Standards/WikiData/WD~Ordino,24272]]'
+- "[[_Standards/WikiData/WD~La Massana,24276]]"
+- "[[_Standards/WikiData/WD~Sant Julià de Lòria,24282]]"
+- '[[_Standards/WikiData/WD~Escaldes-Engordany,24286]]'
+- "[[_Standards/WikiData/WD~Andorra la Vella,2522163]]"
+legislative_body: "[[_Standards/WikiData/WD~General Council of Andorra,24824]]"
+lowest_point: "[[_Standards/WikiData/WD~Gran Valira,24853]]"
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~Central European Time,25989]]"
+- '[[_Standards/WikiData/WD~Europe_Andorra,28148764]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+water_as_percent_of_area: 0
+literacy_rate: 100
+country: '[[_Standards/WikiData/WD~Andorra,228]]'
+birth_rate:
+- 7
+- 6.2
+marriageable_age: 16
+mains_voltage: 220
+maximum_temperature_record: 36
+death_rate:
+- 3.9
+- 4.6
+VAT_rate: 4.5
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.ad,36552]]'
+total_fertility_rate: 1.27
 area: 468
-maritime identification digits: "202"
-head of state:
-  - "[[_Standards/WikiData/WD~Joan Enric Vives Sicília,57473]]"
-  - "[[_Standards/WikiData/WD~Emmanuel Macron,3052772]]"
-Human Development Index: 0.858
-highest point: "[[_Standards/WikiData/WD~Coma Pedrosa,62467]]"
-rural population:
-  - 9730
-  - 9173
-  - 9389
-  - 9596
-motto text:
-  - Virtus Unita Fortior
-  - El País dels Pirineus
-urban population:
-  - 67170
-  - 68311
-  - 69438
-  - 70094
-nominal GDP:
-  - 3325145407
-  - 3352032737
-ISO 3166-1 numeric code: "020"
-M49 code: "020"
-mobile country code: "213"
-FIPS 10-4 (countries and regions): AN
-IAB code: "1234"
-female population:
-  - 37502
-  - 38084
-  - 38673
-  - 39038
-male population:
-  - 38842
-  - 39615
-  - 40361
-  - 40786
-OmegaWiki Defined Meaning: "5757"
+maritime_identification_digits: 202
+head_of_state:
+- "[[_Standards/WikiData/WD~Joan Enric Vives Sicília,57473]]"
+- "[[_Standards/WikiData/WD~Emmanuel Macron,3052772]]"
+Human_Development_Index: 0.858
+highest_point: "[[_Standards/WikiData/WD~Coma Pedrosa,62467]]"
+rural_population:
+- 9730
+- 9173
+- 9389
+- 9596
+motto_text:
+- "Virtus Unita Fortior"
+- "El País dels Pirineus"
+urban_population:
+- 67170
+- 68311
+- 69438
+- 70094
+nominal_GDP:
+- 3325145407
+- 3352032737
+ISO_3166-1_numeric_code: 020
+M49_code: 020
+mobile_country_code: 213
+FIPS_10-4_countries_and_regions_: AN
+IAB_code: 1234
+female_population:
+- 37502
+- 38084
+- 38673
+- 39038
+male_population:
+- 38842
+- 39615
+- 40361
+- 40786
+OmegaWiki_Defined_Meaning: 5757
 population: 87097
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg
-official name: Andorra
-Colon Classification: SG--5417
-Krugosvet article: strany_mira/ANDORRA.html
-short name: 🇦🇩
-coordinates of northernmost point: Point(1.5492987 42.6559357)
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg"
+official_name: Andorra
+Colon_Classification: SG--5417
+Krugosvet_article: strany_mira/ANDORRA.html
+short_name: "\U0001F1E6\U0001F1E9"
+coordinates_of_northernmost_point: "Point(1.5492987 42.6559357)"
 flag: "[[_Standards/WikiData/WD~flag of Andorra,81526]]"
-ethnic group:
-  - "[[_Standards/WikiData/WD~French,121842]]"
-  - "[[_Standards/WikiData/WD~Spaniards,160894]]"
-  - "[[_Standards/WikiData/WD~Portuguese,178630]]"
-  - "[[_Standards/WikiData/WD~Andorrans,2146321]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Andorra,170553]]"
+ethnic_group:
+- '[[_Standards/WikiData/WD~French,121842]]'
+- '[[_Standards/WikiData/WD~Spaniards,160894]]'
+- '[[_Standards/WikiData/WD~Portuguese,178630]]'
+- '[[_Standards/WikiData/WD~Andorrans,2146321]]'
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Andorra,170553]]"
 anthem: "[[_Standards/WikiData/WD~El gran Carlemany,199506]]"
-part of: "[[_Standards/WikiData/WD~Catalan Countries,234963]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Andorra,634322]]"
-history of topic: "[[_Standards/WikiData/WD~history of Andorra,719335]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Andorra,853007]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Andorra,2087350]]"
-has list:
-  - "[[_Standards/WikiData/WD~list of diplomatic missions of Andorra,2421015]]"
-  - "[[_Standards/WikiData/WD~list of Andorrans,3250576]]"
-  - "[[_Standards/WikiData/WD~list of newspapers in Andorra,5000003]]"
-  - "[[_Standards/WikiData/WD~Index of Andorra-related articles,6017878]]"
-  - "[[_Standards/WikiData/WD~list of people on stamps of Andorra,6632997]]"
-  - "[[_Standards/WikiData/WD~Q16217091,16217091]]"
-  - "[[_Standards/WikiData/WD~Listă de scriitori andorrani,18599920]]"
+part_of: "[[_Standards/WikiData/WD~Catalan Countries,234963]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Andorra,634322]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Andorra,719335]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Andorra,853007]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Andorra,2087350]]"
+has_list:
+- "[[_Standards/WikiData/WD~list of diplomatic missions of Andorra,2421015]]"
+- "[[_Standards/WikiData/WD~list of Andorrans,3250576]]"
+- "[[_Standards/WikiData/WD~list of newspapers in Andorra,5000003]]"
+- "[[_Standards/WikiData/WD~Index of Andorra-related articles,6017878]]"
+- "[[_Standards/WikiData/WD~list of people on stamps of Andorra,6632997]]"
+- '[[_Standards/WikiData/WD~Q16217091,16217091]]'
+- "[[_Standards/WikiData/WD~Listă de scriitori andorrani,18599920]]"
 culture: "[[_Standards/WikiData/WD~culture of Andorra,3007244]]"
-has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-executive body: "[[_Standards/WikiData/WD~Executive Council of Andorra,5419813]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Parishes of Andorra,5992711]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Andorra,7112178]]"
-category for people born here: "[[_Standards/WikiData/WD~Q8043529,8043529]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Andorra,11183649]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~118,11185210]]"
-  - "[[_Standards/WikiData/WD~116,25648807]]"
-  - "[[_Standards/WikiData/WD~110,25648823]]"
-central bank: "[[_Standards/WikiData/WD~Andorran Financial Authority,11926724]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-list of monuments:
-  - "[[_Standards/WikiData/WD~Tentative List of World Heritage Sites in Andorra,16517140]]"
-  - "[[_Standards/WikiData/WD~list of UNESCO Intangible Cultural Heritage elements in Andorra,29837710]]"
-office held by head of state:
-  - "[[_Standards/WikiData/WD~Episcopal Co-Prince,19808790]]"
-  - "[[_Standards/WikiData/WD~French co-prince of Andorra,19808845]]"
-basic form of government: "[[_Standards/WikiData/WD~parliamentary coprincipality,20105434]]"
-head of government: "[[_Standards/WikiData/WD~Xavier Espot Zamora,21001195]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27115648,27115648]]"
-located in the religious territorial entity: "[[_Standards/WikiData/WD~archpriesthood of the Valleys of Andorra,110538735]]"
+has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+executive_body: "[[_Standards/WikiData/WD~Executive Council of Andorra,5419813]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Parishes of Andorra,5992711]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Andorra,7112178]]"
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q8043529,8043529]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Andorra,11183649]]'
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~118,11185210]]'
+- '[[_Standards/WikiData/WD~116,25648807]]'
+- '[[_Standards/WikiData/WD~110,25648823]]'
+central_bank: "[[_Standards/WikiData/WD~Andorran Financial Authority,11926724]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+list_of_monuments:
+- "[[_Standards/WikiData/WD~Tentative List of World Heritage Sites in Andorra,16517140]]"
+- "[[_Standards/WikiData/WD~list of UNESCO Intangible Cultural Heritage elements in Andorra,29837710]]"
+office_held_by_head_of_state:
+- "[[_Standards/WikiData/WD~Episcopal Co-Prince,19808790]]"
+- "[[_Standards/WikiData/WD~French co-prince of Andorra,19808845]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary coprincipality,20105434]]"
+head_of_government: "[[_Standards/WikiData/WD~Xavier Espot Zamora,21001195]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27115648,27115648]]'
+located_in_the_religious_territorial_entity: "[[_Standards/WikiData/WD~archpriesthood of the Valleys of Andorra,110538735]]"
 Libris-URI: 31fhgrjm14shh9g
 ISNI: 000000012150090X
-native label: Andorra
-licence plate code: AND
-ISO 3166-1 alpha-3 code: AND
-IOC country code: AND
-ITU letter code: AND
-ISO 3166-1 alpha-2 code: AD
-WIPO ST.3: AD
-INSEE countries and foreign territories code: "99130"
-GS1 country code: 840-849
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Andorra.svg
-inception: 1278-01-01T00:00:00Z 
-has_time_started: 1278-01-01T00:00:00Z 
-Dewey Decimal Classification: 2--4679
-Commons category: Andorra
-Commons gallery: Andorra
+native_label: Andorra
+licence_plate_code: AND
+ISO_3166-1_alpha-3_code: AND
+IOC_country_code: AND
+ITU_letter_code: AND
+ISO_3166-1_alpha-2_code: AD
+WIPO_ST_3: AD
+INSEE_countries_and_foreign_territories_code: 99130
+GS1_country_code: 840-849
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Andorra.svg"
+inception: "1278-01-01T00:00:00Z"
+has_time_started: "1278-01-01T00:00:00Z"
+Dewey_Decimal_Classification: 2--4679
+Commons_category: Andorra
+Commons_gallery: Andorra
 hashtag: Andorra
-U.S. National Archives Identifier: "10035747"
-detail map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-ca.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-en.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-de.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-es.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-fr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-hu.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-it.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-mk.svg
-coordinate location: Point(1.555277777 42.558333333)
-geoshape: http://commons.wikimedia.org/data/main/Data:Andorra.map
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20banner.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20la%20Vella%20-%20footpath.jpg
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20location%20map.svg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20on%20the%20globe%20%28Europe%20centered%29.svg
-relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20relief%20location%20map.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Andorra.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AC%A3%E0%AD%8D%E0%AC%A1%E0%AD%8B%E0%AC%B0%E0%AC%BE.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Andorra.wav
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Andorra-article.ogg
-official website: https://www.govern.ad/
-country calling code: "+376"
-Unicode character: 🇦🇩
-GitHub topic: andorra
-CIVICUS Monitor country entry: andorra
+U_S_National_Archives_Identifier: 10035747
+detail_map:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-ca.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-en.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-de.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-es.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-fr.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-hu.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-it.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20topographic%20map-mk.svg"
+coordinate_location: "Point(1.555277777 42.558333333)"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Andorra.map"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20banner.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20la%20Vella%20-%20footpath.jpg"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20location%20map.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20on%20the%20globe%20%28Europe%20centered%29.svg"
+relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Andorra%20relief%20location%20map.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Andorra.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AC%A3%E0%AD%8D%E0%AC%A1%E0%AD%8B%E0%AC%B0%E0%AC%BE.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Andorra.wav"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Andorra-article.ogg"
+official_website: "https://www.govern.ad/"
+country_calling_code: +376
+Unicode_character: "\U0001F1E6\U0001F1E9"
+GitHub_topic: andorra
+CIVICUS_Monitor_country_entry: andorra
 subreddit: andorra
-IPA transcription: ɐnˈdorːə
+IPA_transcription: ɐnˈdorːə
 ---
 
 # [[Andorra]] 

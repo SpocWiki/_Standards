@@ -1,23 +1,22 @@
----
+﻿---
 has_id_wikidata: Q11367
-different from:
-  - "[[_Standards/WikiData/WD~fat,127980]]"
-  - "[[_Standards/WikiData/WD~biogenic lipid,109910358]]"
-subclass of: "[[_Standards/WikiData/WD~organic compound,174211]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Lipids,14336537]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Glosariusz nazw klas związków organicznych i reaktywnych produktów pośrednich oparty na strukturze,56826519]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
-instance of: "[[_Standards/WikiData/WD~imprecise class of chemical entities,74892521]]"
-UMLS CUI: C0023779
+different_from:
+- '[[_Standards/WikiData/WD~fat,127980]]'
+- "[[_Standards/WikiData/WD~biogenic lipid,109910358]]"
+subclass_of: "[[_Standards/WikiData/WD~organic compound,174211]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Lipids,14336537]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Glosariusz nazw klas związków organicznych i reaktywnych produktów pośrednich oparty na strukturze,56826519]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+instance_of: "[[_Standards/WikiData/WD~imprecise class of chemical entities,74892521]]"
+UMLS_CUI: C0023779
 solubility: 0
-MeSH tree code: D10
-Commons category: Lipids
-Basisklassifikation: "35.78"
-CAS Registry Number: 66455-18-3
+MeSH_tree_code: D10
+Commons_category: Lipids
+Basisklassifikation: 35.78
+CAS_Registry_Number: 66455-18-3
 ---
-
 
 ## #has_/text_of_/abstract 
 

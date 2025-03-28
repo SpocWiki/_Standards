@@ -1,35 +1,34 @@
----
+﻿---
 has_id_wikidata: Q172587
 aliases:
-  - Stainless steel
-  - inox
-  - rustless steel
-  - corrosion-resistant steel
-  - CRES
-discoverer or inventor: "[[_Standards/WikiData/WD~Harry Brearley,470651]]"
-subclass of: "[[_Standards/WikiData/WD~alloy steel,1070521]]"
-different from: "[[_Standards/WikiData/WD~high-quality steel,1283378]]"
-has characteristic: "[[_Standards/WikiData/WD~corrosion resistance,4234269]]"
-history of topic: "[[_Standards/WikiData/WD~history of stainless steel,90563588]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-rostfreier%20Stahl.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Stainless%20Steel%20Seamless%20Pipe%20and%20Tube.jpg
-CAS Registry Number: 12597-68-1
-EC number: 603-108-1
+- "Stainless steel"
+- inox
+- "rustless steel"
+- "corrosion-resistant steel"
+- CRES
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Harry Brearley,470651]]"
+subclass_of: "[[_Standards/WikiData/WD~alloy steel,1070521]]"
+different_from: "[[_Standards/WikiData/WD~high-quality steel,1283378]]"
+has_characteristic: "[[_Standards/WikiData/WD~corrosion resistance,4234269]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of stainless steel,90563588]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-rostfreier%20Stahl.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stainless%20Steel%20Seamless%20Pipe%20and%20Tube.jpg"
+CAS_Registry_Number: 12597-68-1
+EC_number: 603-108-1
 subreddit: StainlessSteel
-UMLS CUI: C0038126
-MeSH tree code:
-  - D01.490.800.900
-  - D01.552.033.847.681
-  - D25.058.807.681
-  - J01.637.051.058.807.681
-time of discovery or invention: 1872-01-01T00:00:00Z
-has part(s):
-  - "[[_Standards/WikiData/WD~chromium,725]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
+UMLS_CUI: C0038126
+MeSH_tree_code:
+- D01.490.800.900
+- D01.552.033.847.681
+- D25.058.807.681
+- J01.637.051.058.807.681
+time_of_discovery_or_invention: "1872-01-01T00:00:00Z"
+has_part_s_:
+- '[[_Standards/WikiData/WD~chromium,725]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
 hardness: 250
-Commons category: Stainless steel
+Commons_category: "Stainless steel"
 ---
-
 
 ## #has_/text_of_/abstract 
 

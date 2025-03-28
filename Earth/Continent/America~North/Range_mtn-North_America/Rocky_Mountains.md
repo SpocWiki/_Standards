@@ -1,65 +1,64 @@
----
+﻿---
 has_id_wikidata: Q5463
-native label:
-  - montagnes Rocheuses
-  - Rocky Mountains
-made from material:
-  - "[[_Standards/WikiData/WD~sedimentary rock,82480]]"
-  - "[[_Standards/WikiData/WD~igneous rock,42045]]"
-  - "[[_Standards/WikiData/WD~metamorphic rock,47069]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Meyer’s Universum, Erster Band,126374795]]"
-mountain range: "[[_Standards/WikiData/WD~American Cordillera,605761]]"
-highest point: "[[_Standards/WikiData/WD~Mount Elbert,657225]]"
-instance of: "[[_Standards/WikiData/WD~non-geologically related mountain range,1437459]]"
-maintained by WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject Alberta,10302505]]"
-  - "[[_Standards/WikiData/WD~WikiProject British Columbia,10396821]]"
-  - "[[_Standards/WikiData/WD~WikiProject Mountains,10802042]]"
-  - "[[_Standards/WikiData/WD~WikiProject Geology,14943910]]"
-  - "[[_Standards/WikiData/WD~WikiProject Colorado,21829782]]"
-  - "[[_Standards/WikiData/WD~WikiProject Idaho,21830164]]"
-  - "[[_Standards/WikiData/WD~WikiProject Montana,21830431]]"
-  - "[[_Standards/WikiData/WD~WikiProject New Mexico,21830484]]"
-  - "[[_Standards/WikiData/WD~WikiProject Utah,21831056]]"
-  - "[[_Standards/WikiData/WD~WikiProject Wyoming,21831126]]"
-  - "[[_Standards/WikiData/WD~WikiProject Geography of Canada,120322493]]"
-partially coincident with: "[[_Standards/WikiData/WD~Rocky Mountain System,59746321]]"
-orientation: "[[_Standards/WikiData/WD~north-south,123705753]]"
-coordinate location: Point(-113.5 44.5)
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/RockyMountains-Range.svg
-located in the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Utah,829]]"
-  - "[[_Standards/WikiData/WD~Wyoming,1214]]"
-  - "[[_Standards/WikiData/WD~Montana,1212]]"
-  - "[[_Standards/WikiData/WD~Idaho,1221]]"
-  - "[[_Standards/WikiData/WD~Colorado,1261]]"
-  - "[[_Standards/WikiData/WD~New Mexico,1522]]"
-  - "[[_Standards/WikiData/WD~Alberta,1951]]"
-  - "[[_Standards/WikiData/WD~British Columbia,1973]]"
+native_label:
+- "montagnes Rocheuses"
+- "Rocky Mountains"
+made_from_material:
+- "[[_Standards/WikiData/WD~sedimentary rock,82480]]"
+- "[[_Standards/WikiData/WD~igneous rock,42045]]"
+- "[[_Standards/WikiData/WD~metamorphic rock,47069]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Meyer’s Universum, Erster Band,126374795]]"
+mountain_range: "[[_Standards/WikiData/WD~American Cordillera,605761]]"
+highest_point: "[[_Standards/WikiData/WD~Mount Elbert,657225]]"
+instance_of: "[[_Standards/WikiData/WD~non-geologically related mountain range,1437459]]"
+maintained_by_WikiProject:
+- "[[_Standards/WikiData/WD~WikiProject Alberta,10302505]]"
+- "[[_Standards/WikiData/WD~WikiProject British Columbia,10396821]]"
+- "[[_Standards/WikiData/WD~WikiProject Mountains,10802042]]"
+- "[[_Standards/WikiData/WD~WikiProject Geology,14943910]]"
+- "[[_Standards/WikiData/WD~WikiProject Colorado,21829782]]"
+- "[[_Standards/WikiData/WD~WikiProject Idaho,21830164]]"
+- "[[_Standards/WikiData/WD~WikiProject Montana,21830431]]"
+- "[[_Standards/WikiData/WD~WikiProject New Mexico,21830484]]"
+- "[[_Standards/WikiData/WD~WikiProject Utah,21831056]]"
+- "[[_Standards/WikiData/WD~WikiProject Wyoming,21831126]]"
+- "[[_Standards/WikiData/WD~WikiProject Geography of Canada,120322493]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Rocky Mountain System,59746321]]"
+orientation: '[[_Standards/WikiData/WD~north-south,123705753]]'
+coordinate_location: "Point(-113.5 44.5)"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/RockyMountains-Range.svg"
+located_in_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Utah,829]]'
+- '[[_Standards/WikiData/WD~Wyoming,1214]]'
+- '[[_Standards/WikiData/WD~Montana,1212]]'
+- '[[_Standards/WikiData/WD~Idaho,1221]]'
+- '[[_Standards/WikiData/WD~Colorado,1261]]'
+- "[[_Standards/WikiData/WD~New Mexico,1522]]"
+- '[[_Standards/WikiData/WD~Alberta,1951]]'
+- "[[_Standards/WikiData/WD~British Columbia,1973]]"
 country:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
 continent: "[[_Standards/WikiData/WD~North America,49]]"
 length: 3000
 width: 650
-elevation above sea level: 4401
-Commons gallery: Rocky Mountains
-Commons category: Rocky Mountains
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%2017092005.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Mountains%20banners.jpg
-U.S. National Archives Identifier: "10045934"
-OmegaWiki Defined Meaning: "756271"
+elevation_above_sea_level: 4401
+Commons_gallery: "Rocky Mountains"
+Commons_category: "Rocky Mountains"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%2017092005.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Mountains%20banners.jpg"
+U_S_National_Archives_Identifier: 10045934
+OmegaWiki_Defined_Meaning: 756271
 Libris-URI: 97mpndwt17dn9kd
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,98 +1,97 @@
----
+﻿---
 has_id_wikidata: Q2840
-symptoms and signs:
-  - "[[_Standards/WikiData/WD~rhinitis,114085]]"
-  - "[[_Standards/WikiData/WD~myalgia,474959]]"
-  - "[[_Standards/WikiData/WD~chest pain,693058]]"
-  - "[[_Standards/WikiData/WD~chills,2260058]]"
-  - "[[_Standards/WikiData/WD~nasal congestion,3245488]]"
-  - "[[_Standards/WikiData/WD~fatigue,9690]]"
-  - "[[_Standards/WikiData/WD~headache,86]]"
-  - "[[_Standards/WikiData/WD~cough,35805]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-drug or therapy used for treatment:
-  - "[[_Standards/WikiData/WD~zanamivir,146075]]"
-  - "[[_Standards/WikiData/WD~oseltamivir,211509]]"
-  - "[[_Standards/WikiData/WD~peramivir,412734]]"
-  - "[[_Standards/WikiData/WD~baloxavir marboxil,48333728]]"
-health specialty:
-  - "[[_Standards/WikiData/WD~pulmonology,203337]]"
-  - "[[_Standards/WikiData/WD~infectious diseases,788926]]"
-  - "[[_Standards/WikiData/WD~emergency medicine,2861470]]"
-  - "[[_Standards/WikiData/WD~family medicine,3505712]]"
-has cause: "[[_Standards/WikiData/WD~Orthomyxoviridae,287246]]"
-medical examination:
-  - "[[_Standards/WikiData/WD~immunofluorescence microscopy,592324]]"
-  - "[[_Standards/WikiData/WD~physical examination,835153]]"
-  - "[[_Standards/WikiData/WD~complete blood count,886518]]"
-  - "[[_Standards/WikiData/WD~viral culture,7933598]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
-disease transmission process:
-  - "[[_Standards/WikiData/WD~droplet infection,871752]]"
-  - "[[_Standards/WikiData/WD~airborne transmission,11986959]]"
-  - "[[_Standards/WikiData/WD~direct transmission,15304504]]"
-  - "[[_Standards/WikiData/WD~fomite transmission,88103997]]"
-different from: "[[_Standards/WikiData/WD~Haemophilus influenzae,1141979]]"
-has characteristic: "[[_Standards/WikiData/WD~contagiousness,1783077]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~viral infectious disease,1928978]]"
-  - "[[_Standards/WikiData/WD~respiratory disease,3286546]]"
-  - "[[_Standards/WikiData/WD~Orthomyxoviridae infectious disease,18975918]]"
-  - "[[_Standards/WikiData/WD~acute viral respiratory tract infection,55790495]]"
-  - "[[_Standards/WikiData/WD~Virus diseases of plants,107295072]]"
-  - "[[_Standards/WikiData/WD~pandemic and epidemic-prone diseases,131345497]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-has effect:
-  - "[[_Standards/WikiData/WD~influenza pandemic,2723958]]"
-  - "[[_Standards/WikiData/WD~disease outbreak,3241045]]"
-  - "[[_Standards/WikiData/WD~epidemic,44512]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Influenza sidebar,6818763]]"
-  - "[[_Standards/WikiData/WD~Template_Influenza,10820092]]"
-instance of:
-  - "[[_Standards/WikiData/WD~infectious disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
-Dewey Decimal Classification (works and editions):
-  - "616.203"
-  - "614.518"
-Library of Congress Classification: RA644.I6
-has natural reservoir:
-  - "[[_Standards/WikiData/WD~bird,5113]]"
-  - "[[_Standards/WikiData/WD~Sus,10798]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-anatomical location: "[[_Standards/WikiData/WD~respiratory system,7891]]"
-minimal incubation period in humans: 3
-maximal incubation period in humans: 72
+symptoms_and_signs:
+- '[[_Standards/WikiData/WD~rhinitis,114085]]'
+- '[[_Standards/WikiData/WD~myalgia,474959]]'
+- "[[_Standards/WikiData/WD~chest pain,693058]]"
+- '[[_Standards/WikiData/WD~chills,2260058]]'
+- "[[_Standards/WikiData/WD~nasal congestion,3245488]]"
+- '[[_Standards/WikiData/WD~fatigue,9690]]'
+- '[[_Standards/WikiData/WD~headache,86]]'
+- '[[_Standards/WikiData/WD~cough,35805]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
+drug_or_therapy_used_for_treatment:
+- '[[_Standards/WikiData/WD~zanamivir,146075]]'
+- '[[_Standards/WikiData/WD~oseltamivir,211509]]'
+- '[[_Standards/WikiData/WD~peramivir,412734]]'
+- "[[_Standards/WikiData/WD~baloxavir marboxil,48333728]]"
+health_specialty:
+- '[[_Standards/WikiData/WD~pulmonology,203337]]'
+- "[[_Standards/WikiData/WD~infectious diseases,788926]]"
+- "[[_Standards/WikiData/WD~emergency medicine,2861470]]"
+- "[[_Standards/WikiData/WD~family medicine,3505712]]"
+has_cause: '[[_Standards/WikiData/WD~Orthomyxoviridae,287246]]'
+medical_examination:
+- "[[_Standards/WikiData/WD~immunofluorescence microscopy,592324]]"
+- "[[_Standards/WikiData/WD~physical examination,835153]]"
+- "[[_Standards/WikiData/WD~complete blood count,886518]]"
+- "[[_Standards/WikiData/WD~viral culture,7933598]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
+disease_transmission_process:
+- "[[_Standards/WikiData/WD~droplet infection,871752]]"
+- "[[_Standards/WikiData/WD~airborne transmission,11986959]]"
+- "[[_Standards/WikiData/WD~direct transmission,15304504]]"
+- "[[_Standards/WikiData/WD~fomite transmission,88103997]]"
+different_from: "[[_Standards/WikiData/WD~Haemophilus influenzae,1141979]]"
+has_characteristic: '[[_Standards/WikiData/WD~contagiousness,1783077]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~viral infectious disease,1928978]]"
+- "[[_Standards/WikiData/WD~respiratory disease,3286546]]"
+- "[[_Standards/WikiData/WD~Orthomyxoviridae infectious disease,18975918]]"
+- "[[_Standards/WikiData/WD~acute viral respiratory tract infection,55790495]]"
+- "[[_Standards/WikiData/WD~Virus diseases of plants,107295072]]"
+- "[[_Standards/WikiData/WD~pandemic and epidemic-prone diseases,131345497]]"
+- '[[_Standards/WikiData/WD~disease,12136]]'
+has_effect:
+- "[[_Standards/WikiData/WD~influenza pandemic,2723958]]"
+- "[[_Standards/WikiData/WD~disease outbreak,3241045]]"
+- '[[_Standards/WikiData/WD~epidemic,44512]]'
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Influenza sidebar,6818763]]"
+- '[[_Standards/WikiData/WD~Template_Influenza,10820092]]'
+instance_of:
+- "[[_Standards/WikiData/WD~infectious disease,18123741]]"
+- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+- "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
+Dewey_Decimal_Classification_works_and_editions_:
+- 616.203
+- 614.518
+Library_of_Congress_Classification: RA644.I6
+has_natural_reservoir:
+- '[[_Standards/WikiData/WD~bird,5113]]'
+- '[[_Standards/WikiData/WD~Sus,10798]]'
+- '[[_Standards/WikiData/WD~human,5]]'
+anatomical_location: "[[_Standards/WikiData/WD~respiratory system,7891]]"
+minimal_incubation_period_in_humans: 3
+maximal_incubation_period_in_humans: 72
 ICD-9-CM:
-  - "487"
-  - "487.8"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/H1N1%20Influenza%20Virus%20Particles%20%288411599236%29.jpg
-DiseasesDB: "6791"
-OmegaWiki Defined Meaning: "481522"
-Commons category: Influenza
-exact match:
-  - http://identifiers.org/doid/DOID:8469
-  - http://purl.obolibrary.org/obo/DOID_8469
-U.S. National Archives Identifier: "10638694"
-UMLS CUI: C0021400
-MeSH tree code:
-  - C01.748.310
-  - C01.925.782.620.365
-  - C08.730.310
+- 487
+- 487.8
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/H1N1%20Influenza%20Virus%20Particles%20%288411599236%29.jpg"
+DiseasesDB: 6791
+OmegaWiki_Defined_Meaning: 481522
+Commons_category: Influenza
+exact_match:
+- "http://identifiers.org/doid/DOID:8469"
+- "http://purl.obolibrary.org/obo/DOID_8469"
+U_S_National_Archives_Identifier: 10638694
+UMLS_CUI: C0021400
+MeSH_tree_code:
+- C01.748.310
+- C01.925.782.620.365
+- C08.730.310
 ICD-10-CM: J11.1
-Krugosvet article: medicina/GRIPP.html
+Krugosvet_article: medicina/GRIPP.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

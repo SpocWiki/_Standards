@@ -1,20 +1,20 @@
----
+﻿---
 location:
-  - 62
-  - -6.78333
+- 62
+- -6.78333
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26895
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses:
-  - Country
+- Country
 publish: true
-title: Faroe Islands
+title: "Faroe Islands"
 linkTitle: 
 keywords: 
 layout: 
@@ -22,126 +22,125 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Faroe Islands
-  - Islas Feroe
-  - Îles Féroé
-  - جزر فايرو
-  - 法罗群岛
-  - Фарерские острова
+- "Faroe Islands"
+- "Islas Feroe"
+- "Îles Féroé"
+- "جزر فايرو"
+- 法罗群岛
+- "Фарерские острова"
 Languages:
-  - fo
-  - da-FO
+- fo
+- da-FO
 has_id_wikidata: Q4628
-member of:
-  - "[[_Standards/WikiData/WD~Nordic Council,146165]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-instance of:
-  - "[[_Standards/WikiData/WD~electoral unit,192611]]"
-  - "[[_Standards/WikiData/WD~autonomous country within the Kingdom of Denmark,66724388]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of the Faroe Islands,207296]]"
+member_of:
+- "[[_Standards/WikiData/WD~Nordic Council,146165]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+instance_of:
+- "[[_Standards/WikiData/WD~electoral unit,192611]]"
+- "[[_Standards/WikiData/WD~autonomous country within the Kingdom of Denmark,66724388]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of the Faroe Islands,207296]]"
 anthem: "[[_Standards/WikiData/WD~Tú alfagra land mítt,212973]]"
-history of topic: "[[_Standards/WikiData/WD~history of the Faroe Islands,254346]]"
-legislative body: "[[_Standards/WikiData/WD~Løgting,509668]]"
-head of government: "[[_Standards/WikiData/WD~Aksel V. Johannesen,556712]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q126878023,126878023]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of the Faroe Islands,671799]]"
-highest point: "[[_Standards/WikiData/WD~Slættaratindur,738746]]"
-part of:
-  - "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
-  - "[[_Standards/WikiData/WD~the unity of the Realm,1191549]]"
-  - "[[_Standards/WikiData/WD~Northern Europe,27479]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of the Faroe Islands,254346]]"
+legislative_body: '[[_Standards/WikiData/WD~Løgting,509668]]'
+head_of_government: "[[_Standards/WikiData/WD~Aksel V. Johannesen,556712]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Q126878023,126878023]]'
+geography_of_topic: "[[_Standards/WikiData/WD~geography of the Faroe Islands,671799]]"
+highest_point: '[[_Standards/WikiData/WD~Slættaratindur,738746]]'
+part_of:
+- "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
+- "[[_Standards/WikiData/WD~the unity of the Realm,1191549]]"
+- "[[_Standards/WikiData/WD~Northern Europe,27479]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
 country: "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of the Faroe Islands,897512]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of the Faroe Islands,1000849]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of the Faroe Islands,1000921]]"
-head of state: "[[_Standards/WikiData/WD~Frederik X of Denmark,1004037]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type K,1502017]]"
-  - "[[_Standards/WikiData/WD~Type E,2335536]]"
-different from: "[[_Standards/WikiData/WD~Fair Isle,3064518]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of the Faroe Islands,7112762]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Faroe Islands,8253768]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Faroe Islands topics,10530789]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Faroe Islands,13341438]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-category for people who died here: "[[_Standards/WikiData/WD~Q16887593,16887593]]"
-nominal GDP: 3649878680
-PM20 geo code: A15a
-coordinates of westernmost point: Point(-7.646111111 62.104166666)
-diplomatic relation: "[[_Standards/WikiData/WD~European Union,458]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Faroe Islands,897512]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of the Faroe Islands,1000849]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of the Faroe Islands,1000921]]"
+head_of_state: "[[_Standards/WikiData/WD~Frederik X of Denmark,1004037]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- "[[_Standards/WikiData/WD~Type K,1502017]]"
+- "[[_Standards/WikiData/WD~Type E,2335536]]"
+different_from: "[[_Standards/WikiData/WD~Fair Isle,3064518]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Faroe Islands,7112762]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Faroe Islands,8253768]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Faroe Islands topics,10530789]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Faroe Islands,13341438]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q16887593,16887593]]'
+nominal_GDP: 3649878680
+PM20_geo_code: A15a
+coordinates_of_westernmost_point: "Point(-7.646111111 62.104166666)"
+diplomatic_relation: "[[_Standards/WikiData/WD~European Union,458]]"
 flag: "[[_Standards/WikiData/WD~flag of the Faroe Islands,4575]]"
-located in time zone: "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
-language used:
-  - "[[_Standards/WikiData/WD~Danish,9035]]"
-  - "[[_Standards/WikiData/WD~Faroese,25258]]"
-official language:
-  - "[[_Standards/WikiData/WD~Danish,9035]]"
-  - "[[_Standards/WikiData/WD~Faroese,25258]]"
-capital: "[[_Standards/WikiData/WD~Tórshavn,10704]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-shares border with: "[[_Standards/WikiData/WD~Iceland,189]]"
-nominal GDP per capita: 3000000000
-mains voltage: 230
-VAT rate: 25
-total fertility rate: 2.6
-top-level Internet domain: "[[_Standards/WikiData/WD~.fo,41446]]"
-located in or next to body of water: "[[_Standards/WikiData/WD~Norwegian Sea,47545]]"
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+language_used:
+- '[[_Standards/WikiData/WD~Danish,9035]]'
+- '[[_Standards/WikiData/WD~Faroese,25258]]'
+official_language:
+- '[[_Standards/WikiData/WD~Danish,9035]]'
+- '[[_Standards/WikiData/WD~Faroese,25258]]'
+capital: '[[_Standards/WikiData/WD~Tórshavn,10704]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+shares_border_with: '[[_Standards/WikiData/WD~Iceland,189]]'
+nominal_GDP_per_capita: 3000000000
+mains_voltage: 230
+VAT_rate: 25
+total_fertility_rate: 2.6
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.fo,41446]]'
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Norwegian Sea,47545]]"
 perimeter: 1117
 area: 1399
-M49 code: "234"
-ISO 3166-1 numeric code: "234"
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Faroe%20Islands.svg
-Commons category: Faroe Islands
-Unicode character: 🇫🇴
-IAB code: "1436"
-maritime identification digits: "231"
+M49_code: 234
+ISO_3166-1_numeric_code: 234
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Faroe%20Islands.svg"
+Commons_category: "Faroe Islands"
+Unicode_character: "\U0001F1EB\U0001F1F4"
+IAB_code: 1436
+maritime_identification_digits: 231
 population: 54149
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Faroe%20Islands.svg
-FIPS 10-4 (countries and regions): FO
-licence plate code: FO
-ISO 3166-1 alpha-2 code: FO
-WIPO ST.3: FO
-INSEE countries and foreign territories code: "99101"
-Dewey Decimal Classification: 2--4915
-OmegaWiki Defined Meaning: "618658"
-coordinates of easternmost point: Point(-6.301666666 62.335)
-IOC country code: FRO
-ISO 3166-1 alpha-3 code: FRO
-GS1 country code: 570-579
-life expectancy: 82.24146
-Commons gallery: Føroyar
-coordinate location: Point(-6.844480555 61.969944444)
-inception: 1948-04-01T00:00:00Z 
-has_time_started: 1948-04-01T00:00:00Z 
-geoshape: http://commons.wikimedia.org/data/main/Data:Faroe+Islands.map
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe-Faroe%20Islands.svg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20Islands%20banner.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20Islands%20by%20Sentinel-2.jpg
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/LocationFaroeIslands.png
-country calling code: "+298"
-U.S. National Archives Identifier: "10044824"
-GitHub topic: faroe-islands
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Faroe%20Islands.svg"
+FIPS_10-4_countries_and_regions_: FO
+licence_plate_code: FO
+ISO_3166-1_alpha-2_code: FO
+WIPO_ST_3: FO
+INSEE_countries_and_foreign_territories_code: 99101
+Dewey_Decimal_Classification: 2--4915
+OmegaWiki_Defined_Meaning: 618658
+coordinates_of_easternmost_point: "Point(-6.301666666 62.335)"
+IOC_country_code: FRO
+ISO_3166-1_alpha-3_code: FRO
+GS1_country_code: 570-579
+life_expectancy: 82.24146
+Commons_gallery: Føroyar
+coordinate_location: "Point(-6.844480555 61.969944444)"
+inception: "1948-04-01T00:00:00Z"
+has_time_started: "1948-04-01T00:00:00Z"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Faroe+Islands.map"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Europe-Faroe%20Islands.svg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20Islands%20banner.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20Islands%20by%20Sentinel-2.jpg"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/LocationFaroeIslands.png"
+country_calling_code: +298
+U_S_National_Archives_Identifier: 10044824
+GitHub_topic: faroe-islands
 subreddit: FaroeIslands
 Libris-URI: jgvxwgd22swqvft
-name in native language:
-  - Færøerne
-  - Føroyar
-official name:
-  - Færøerne
-  - Føroyar
-native label: Føroyar
+name_in_native_language:
+- Færøerne
+- Føroyar
+official_name:
+- Færøerne
+- Føroyar
+native_label: Føroyar
 demonym: føroyingur
-short name: 🇫🇴
+short_name: "\U0001F1EB\U0001F1F4"
 ---
-
 
 # [[Faroe~Islands]] 
 

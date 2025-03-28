@@ -1,58 +1,57 @@
----
+﻿---
 aliases:
-  - Han Dynasty
+- "Han Dynasty"
 has_id_wikidata: Q7209
 capital:
-  - "[[_Standards/WikiData/WD~Luoyang,187136]]"
-  - "[[_Standards/WikiData/WD~Xuchang,404529]]"
-  - "[[_Standards/WikiData/WD~Chang'an,6501000]]"
-followed by:
-  - "[[_Standards/WikiData/WD~Eastern Wu,274488]]"
-  - "[[_Standards/WikiData/WD~Shu Han,320925]]"
-  - "[[_Standards/WikiData/WD~Cao Wei,320930]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-has part(s): "[[_Standards/WikiData/WD~Western Han,1072949]]"
-different from:
-  - "[[_Standards/WikiData/WD~Han,1574130]]"
-  - "[[_Standards/WikiData/WD~Han,123576003]]"
-named after: "[[_Standards/WikiData/WD~Han,1574130]]"
-instance of:
-  - "[[_Standards/WikiData/WD~historical country,3024240]]"
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
-  - "[[_Standards/WikiData/WD~Chinese dynasty,12857432]]"
-  - "[[_Standards/WikiData/WD~historical Chinese state,50068795]]"
-part of: "[[_Standards/WikiData/WD~Early Imperial China,5326669]]"
+- '[[_Standards/WikiData/WD~Luoyang,187136]]'
+- '[[_Standards/WikiData/WD~Xuchang,404529]]'
+- "[[_Standards/WikiData/WD~Chang'an,6501000]]"
+followed_by:
+- "[[_Standards/WikiData/WD~Eastern Wu,274488]]"
+- "[[_Standards/WikiData/WD~Shu Han,320925]]"
+- "[[_Standards/WikiData/WD~Cao Wei,320930]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+has_part_s_: "[[_Standards/WikiData/WD~Western Han,1072949]]"
+different_from:
+- '[[_Standards/WikiData/WD~Han,1574130]]'
+- '[[_Standards/WikiData/WD~Han,123576003]]'
+named_after: '[[_Standards/WikiData/WD~Han,1574130]]'
+instance_of:
+- "[[_Standards/WikiData/WD~historical country,3024240]]"
+- "[[_Standards/WikiData/WD~historical period,11514315]]"
+- "[[_Standards/WikiData/WD~Chinese dynasty,12857432]]"
+- "[[_Standards/WikiData/WD~historical Chinese state,50068795]]"
+part_of: "[[_Standards/WikiData/WD~Early Imperial China,5326669]]"
 country: "[[_Standards/WikiData/WD~Chinese Empire,12060881]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Han dynasty topics,14336069]]"
-  - "[[_Standards/WikiData/WD~Q20694828,20694828]]"
-history of topic: "[[_Standards/WikiData/WD~history of the Han dynasty,15709899]]"
-"dissolved, abolished or demolished date": 0220-01-01T00:00:00Z 
-has_time_stopped: 0220-01-01T00:00:00Z 
-inception: -0205-01-01T00:00:00Z 
-has_time_started: -0205-01-01T00:00:00Z 
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Han dynasty topics,14336069]]"
+- '[[_Standards/WikiData/WD~Q20694828,20694828]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of the Han dynasty,15709899]]"
+dissolved_abolished_or_demolished_date: "0220-01-01T00:00:00Z"
+has_time_stopped: "0220-01-01T00:00:00Z"
+inception: "-0205-01-01T00:00:00Z"
+has_time_started: "-0205-01-01T00:00:00Z"
 replaces: "[[_Standards/WikiData/WD~Qin dynasty,7183]]"
-basic form of government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 area: 6000000
-Commons category: Han Dynasty
-native label: 漢朝
-coordinate location: Point(108.857222222 34.304444444)
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/EN-Han%20dynasty-article.ogg
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Han%20Dynasty%20100%20BCE.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Han%20map.jpg
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20on%20Imperial%20Seal%20of%20China%20%22%E5%8F%97%E5%91%BD%E6%96%BC%E5%A4%A9%20%E6%97%A2%E5%A3%BD%E6%B0%B8%E6%98%8C%22.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Summer%20Vacation%202007%2C%20263%2C%20Watchtower%20In%20The%20Morning%20Light%2C%20Dunhuang%2C%20Gansu%20Province.jpg
-Library of Congress Classification: DS748-DS748.164
-Commons gallery: 漢朝
+Commons_category: "Han Dynasty"
+native_label: 漢朝
+coordinate_location: "Point(108.857222222 34.304444444)"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/EN-Han%20dynasty-article.ogg"
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Han%20Dynasty%20100%20BCE.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Han%20map.jpg"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20on%20Imperial%20Seal%20of%20China%20%22%E5%8F%97%E5%91%BD%E6%96%BC%E5%A4%A9%20%E6%97%A2%E5%A3%BD%E6%B0%B8%E6%98%8C%22.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Summer%20Vacation%202007%2C%20263%2C%20Watchtower%20In%20The%20Morning%20Light%2C%20Dunhuang%2C%20Gansu%20Province.jpg"
+Library_of_Congress_Classification: DS748-DS748.164
+Commons_gallery: 漢朝
 population:
-  - 56486856
-  - 59594978
+- 56486856
+- 59594978
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,33 +1,32 @@
----
+﻿---
 has_id_wikidata: Q11411
-instance of:
-  - "[[_Standards/WikiData/WD~board game,131436]]"
-  - "[[_Standards/WikiData/WD~dice game,1515156]]"
-  - "[[_Standards/WikiData/WD~social game,17351672]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-has use:
-  - "[[_Standards/WikiData/WD~entertainment,173799]]"
-  - "[[_Standards/WikiData/WD~competition,841654]]"
-  - "[[_Standards/WikiData/WD~sport,349]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-partially coincident with: "[[_Standards/WikiData/WD~Tavli,968853]]"
-subclass of: "[[_Standards/WikiData/WD~mind sport,1188693]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-practiced by: "[[_Standards/WikiData/WD~backgammon player,23929009]]"
-maximum number of players: 2
-minimum number of players: 2
-minimum age: 5
-Nomenclature for Museum Cataloging: "14218"
-Commons category: Backgammon
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Backgammon.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Backgammon%20lg.jpg
-OmegaWiki Defined Meaning: "858195"
+instance_of:
+- "[[_Standards/WikiData/WD~board game,131436]]"
+- "[[_Standards/WikiData/WD~dice game,1515156]]"
+- "[[_Standards/WikiData/WD~social game,17351672]]"
+- '[[_Standards/WikiData/WD~hobby,47728]]'
+has_use:
+- '[[_Standards/WikiData/WD~entertainment,173799]]'
+- '[[_Standards/WikiData/WD~competition,841654]]'
+- '[[_Standards/WikiData/WD~sport,349]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~Tavli,968853]]'
+subclass_of: "[[_Standards/WikiData/WD~mind sport,1188693]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+practiced_by: "[[_Standards/WikiData/WD~backgammon player,23929009]]"
+maximum_number_of_players: 2
+minimum_number_of_players: 2
+minimum_age: 5
+Nomenclature_for_Museum_Cataloging: 14218
+Commons_category: Backgammon
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Backgammon.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Backgammon%20lg.jpg"
+OmegaWiki_Defined_Meaning: 858195
 subreddit: backgammon
 ---
-
 
 ## #has_/text_of_/abstract 
 

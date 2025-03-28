@@ -1,46 +1,45 @@
----
+﻿---
 has_id_wikidata: Q8094
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Encyclopaedia of the Qur'ān,2617708]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass of: "[[_Standards/WikiData/WD~meteorological phenomenon,16332653]]"
-topic's main template: "[[_Standards/WikiData/WD~Q25745333,25745333]]"
-topic's main category: "[[_Standards/WikiData/WD~Q32816587,32816587]]"
-different from:
-  - "[[_Standards/WikiData/WD~wind energy,52664317]]"
-  - "[[_Standards/WikiData/WD~wind power,43302]]"
-"product, material, or service produced or provided": "[[_Standards/WikiData/WD~wind energy,52664317]]"
-has effect: "[[_Standards/WikiData/WD~Q57385793,57385793]]"
-instance of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
-UMLS CUI: C0043187
-MeSH tree code:
-  - G16.500.175.249.200
-  - G16.500.275.063.725.154.200
-  - G16.500.750.775.780
-  - N06.230.132.644.875
-  - N06.230.300.100.150.185.200
-  - N06.230.300.100.725.780
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wind%20in%20Swedish%20pine%20forest%20at%2025%20mps.ogg
-facet of: "[[_Standards/WikiData/WD~weather,11663]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-1990-0206-324%2C%20Berlin%2C%20Passanten%20im%20Wind.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%86%D8%B4%D8%A7%D8%A9%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD.wav
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20entsteht%20Wind%3F.webm
-OmegaWiki Defined Meaning: "4160"
-Krugosvet article: geologiya/veter
-Commons gallery: Wind
-Commons category: Wind
-Unicode character: 🌬
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Encyclopaedia of the Qur'ān,2617708]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+subclass_of: "[[_Standards/WikiData/WD~meteorological phenomenon,16332653]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q25745333,25745333]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32816587,32816587]]'
+different_from:
+- "[[_Standards/WikiData/WD~wind energy,52664317]]"
+- "[[_Standards/WikiData/WD~wind power,43302]]"
+product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~wind energy,52664317]]"
+has_effect: '[[_Standards/WikiData/WD~Q57385793,57385793]]'
+instance_of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+UMLS_CUI: C0043187
+MeSH_tree_code:
+- G16.500.175.249.200
+- G16.500.275.063.725.154.200
+- G16.500.750.775.780
+- N06.230.132.644.875
+- N06.230.300.100.150.185.200
+- N06.230.300.100.725.780
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wind%20in%20Swedish%20pine%20forest%20at%2025%20mps.ogg"
+facet_of: '[[_Standards/WikiData/WD~weather,11663]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-1990-0206-324%2C%20Berlin%2C%20Passanten%20im%20Wind.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%86%D8%B4%D8%A7%D8%A9%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD.wav"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20entsteht%20Wind%3F.webm"
+OmegaWiki_Defined_Meaning: 4160
+Krugosvet_article: geologiya/veter
+Commons_gallery: Wind
+Commons_category: Wind
+Unicode_character: "\U0001F32C"
 ---
-
 
 ## #has_/text_of_/abstract 
 

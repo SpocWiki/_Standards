@@ -1,50 +1,49 @@
----
+﻿---
 has_id_wikidata: Q11416
-has part(s):
-  - "[[_Standards/WikiData/WD~casino,133215]]"
-  - "[[_Standards/WikiData/WD~lottery,189409]]"
-  - "[[_Standards/WikiData/WD~amusement arcade,260676]]"
-  - "[[_Standards/WikiData/WD~bookmaker,664702]]"
-  - "[[_Standards/WikiData/WD~betting shop,1719063]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~recreation,184872]]"
-  - "[[_Standards/WikiData/WD~playing,1150958]]"
-said to be the same as: "[[_Standards/WikiData/WD~prediction market,282283]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-has effect: "[[_Standards/WikiData/WD~problem gambling,748309]]"
-contributing factor of: "[[_Standards/WikiData/WD~problem gambling,748309]]"
-partially coincident with: "[[_Standards/WikiData/WD~competition,841654]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~casino,133215]]'
+- '[[_Standards/WikiData/WD~lottery,189409]]'
+- "[[_Standards/WikiData/WD~amusement arcade,260676]]"
+- '[[_Standards/WikiData/WD~bookmaker,664702]]'
+- "[[_Standards/WikiData/WD~betting shop,1719063]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~recreation,184872]]'
+- '[[_Standards/WikiData/WD~playing,1150958]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~prediction market,282283]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+has_effect: "[[_Standards/WikiData/WD~problem gambling,748309]]"
+contributing_factor_of: "[[_Standards/WikiData/WD~problem gambling,748309]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~competition,841654]]'
 uses:
-  - "[[_Standards/WikiData/WD~bet,2565881]]"
-  - "[[_Standards/WikiData/WD~game of chance,3590573]]"
-different from:
-  - "[[_Standards/WikiData/WD~game of chance,3590573]]"
-  - "[[_Standards/WikiData/WD~video gaming,107022968]]"
-practiced by: "[[_Standards/WikiData/WD~gambler,9286830]]"
-has characteristic: "[[_Standards/WikiData/WD~excitement,16301153]]"
-Dewey Decimal Classification:
-  - "306.482"
-  - "795"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Gambling%20banner%20Sahara%20Hotel.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Gambling%20image.jpg
-Iconclass notation: 43C56
-MeSH tree code:
-  - F01.145.722.408
-  - F03.250.400
+- '[[_Standards/WikiData/WD~bet,2565881]]'
+- "[[_Standards/WikiData/WD~game of chance,3590573]]"
+different_from:
+- "[[_Standards/WikiData/WD~game of chance,3590573]]"
+- "[[_Standards/WikiData/WD~video gaming,107022968]]"
+practiced_by: '[[_Standards/WikiData/WD~gambler,9286830]]'
+has_characteristic: '[[_Standards/WikiData/WD~excitement,16301153]]'
+Dewey_Decimal_Classification:
+- 306.482
+- 795
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Gambling%20banner%20Sahara%20Hotel.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gambling%20image.jpg"
+Iconclass_notation: 43C56
+MeSH_tree_code:
+- F01.145.722.408
+- F03.250.400
 subreddit: gambling
-OpenStreetMap tag or key: Key:gambling
-OmegaWiki Defined Meaning: "697231"
-Commons category: Gambling
-U.S. National Archives Identifier: "10636709"
-Library of Congress Classification: K915
+OpenStreetMap_tag_or_key: "Key:gambling"
+OmegaWiki_Defined_Meaning: 697231
+Commons_category: Gambling
+U_S_National_Archives_Identifier: 10636709
+Library_of_Congress_Classification: K915
 ---
-
 
 ## #has_/text_of_/abstract 
 

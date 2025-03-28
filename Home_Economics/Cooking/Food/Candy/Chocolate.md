@@ -1,62 +1,61 @@
----
+﻿---
 has_id_wikidata: Q195
-Commons gallery: Chocolate
-Commons category: Chocolate
+Commons_gallery: Chocolate
+Commons_category: Chocolate
 subreddit: chocolate
-Amazon.com browse node:
-  - "16317461"
-  - "18774316011"
-Unicode character: 🍫
-inception: -1749-01-01T00:00:00Z 
-has_time_started: -1749-01-01T00:00:00Z 
-U.S. National Archives Identifier: "10639394"
-has active ingredient:
-  - "[[_Standards/WikiData/WD~theobromine,206844]]"
-  - "[[_Standards/WikiData/WD~caffeine,60235]]"
-made from material:
-  - "[[_Standards/WikiData/WD~cocoa bean,208008]]"
-  - "[[_Standards/WikiData/WD~cocoa butter,251106]]"
-  - "[[_Standards/WikiData/WD~chocolate liquor,1721876]]"
-  - "[[_Standards/WikiData/WD~vegetable oil,4739805]]"
-  - "[[_Standards/WikiData/WD~cocoa,45912917]]"
-  - "[[_Standards/WikiData/WD~sugar,11002]]"
-  - "[[_Standards/WikiData/WD~cacao,42385]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~cocoa bean,208008]]"
-  - "[[_Standards/WikiData/WD~sugar,11002]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~functional food,752276]]"
-  - "[[_Standards/WikiData/WD~stimulant foodstuff,1365365]]"
-  - "[[_Standards/WikiData/WD~condiment,2596997]]"
-  - "[[_Standards/WikiData/WD~confection,5159627]]"
-  - "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-part of: "[[_Standards/WikiData/WD~cioccolato di Modica,1790835]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of chocolate,7112581]]"
-different from:
-  - "[[_Standards/WikiData/WD~Čokolada,8079801]]"
-  - "[[_Standards/WikiData/WD~Chocolate,28837197]]"
-  - "[[_Standards/WikiData/WD~Schoko,100604487]]"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate%20Banner.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Jer-chocolat.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B4%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA%D8%A9.wav
-exact match: http://purl.obolibrary.org/obo/ENVO_02000065
-Wolfram Language entity code: Entity["FoodType", "Chocolate"]
-MeSH tree code:
-  - G07.203.300.195
-  - J02.500.195
-Stadtwiki Dresden article: Schokolade
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Cocoa%20Powder%20and%20Chocolate%20on%20Marble%20Background.jpg
-natural product of taxon: "[[_Standards/WikiData/WD~cacao,42385]]"
-OmegaWiki Defined Meaning: "6172"
-water footprint: 17196
+Amazon_com_browse_node:
+- 16317461
+- 18774316011
+Unicode_character: "\U0001F36B"
+inception: "-1749-01-01T00:00:00Z"
+has_time_started: "-1749-01-01T00:00:00Z"
+U_S_National_Archives_Identifier: 10639394
+has_active_ingredient:
+- '[[_Standards/WikiData/WD~theobromine,206844]]'
+- '[[_Standards/WikiData/WD~caffeine,60235]]'
+made_from_material:
+- "[[_Standards/WikiData/WD~cocoa bean,208008]]"
+- "[[_Standards/WikiData/WD~cocoa butter,251106]]"
+- "[[_Standards/WikiData/WD~chocolate liquor,1721876]]"
+- "[[_Standards/WikiData/WD~vegetable oil,4739805]]"
+- '[[_Standards/WikiData/WD~cocoa,45912917]]'
+- '[[_Standards/WikiData/WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~cacao,42385]]'
+has_part_s_:
+- "[[_Standards/WikiData/WD~cocoa bean,208008]]"
+- '[[_Standards/WikiData/WD~sugar,11002]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~functional food,752276]]"
+- "[[_Standards/WikiData/WD~stimulant foodstuff,1365365]]"
+- '[[_Standards/WikiData/WD~condiment,2596997]]'
+- '[[_Standards/WikiData/WD~confection,5159627]]'
+- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+part_of: "[[_Standards/WikiData/WD~cioccolato di Modica,1790835]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of chocolate,7112581]]"
+different_from:
+- '[[_Standards/WikiData/WD~Čokolada,8079801]]'
+- '[[_Standards/WikiData/WD~Chocolate,28837197]]'
+- '[[_Standards/WikiData/WD~Schoko,100604487]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate%20Banner.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Jer-chocolat.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B4%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA%D8%A9.wav"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_02000065"
+Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Chocolate\"]"
+MeSH_tree_code:
+- G07.203.300.195
+- J02.500.195
+Stadtwiki_Dresden_article: Schokolade
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cocoa%20Powder%20and%20Chocolate%20on%20Marble%20Background.jpg"
+natural_product_of_taxon: '[[_Standards/WikiData/WD~cacao,42385]]'
+OmegaWiki_Defined_Meaning: 6172
+water_footprint: 17196
 ---
-
 
 ## #has_/text_of_/abstract 
 

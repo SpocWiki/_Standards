@@ -1,96 +1,95 @@
----
+﻿---
 has_id_wikidata: Q3503
 tributary:
-  - "[[_Standards/WikiData/WD~Lukuga River,128350]]"
-  - "[[_Standards/WikiData/WD~Ubangi River,171649]]"
-  - "[[_Standards/WikiData/WD~Kasai River,186541]]"
-  - "[[_Standards/WikiData/WD~Luvua River,220839]]"
-  - "[[_Standards/WikiData/WD~Sangha,239883]]"
-  - "[[_Standards/WikiData/WD~Aruwimi River,540956]]"
-  - "[[_Standards/WikiData/WD~Lomami River,753765]]"
-  - "[[_Standards/WikiData/WD~Chambeshi River,777999]]"
-  - "[[_Standards/WikiData/WD~Lualaba River,836812]]"
-  - "[[_Standards/WikiData/WD~Itimbiri River,1675294]]"
-  - "[[_Standards/WikiData/WD~Luvu,2397127]]"
-  - "[[_Standards/WikiData/WD~Lulonga River,2634215]]"
-  - "[[_Standards/WikiData/WD~Tshuapa River,2635327]]"
-  - "[[_Standards/WikiData/WD~Alima,2661731]]"
-  - "[[_Standards/WikiData/WD~Ambe River,2841990]]"
-  - "[[_Standards/WikiData/WD~Inkisi River,3048266]]"
-  - "[[_Standards/WikiData/WD~Ikelemba,3148406]]"
-  - "[[_Standards/WikiData/WD~Q3193787,3193787]]"
-  - "[[_Standards/WikiData/WD~Lindi,3241422]]"
-  - "[[_Standards/WikiData/WD~Lufimi,3266301]]"
-  - "[[_Standards/WikiData/WD~Lefini River,3270093]]"
-  - "[[_Standards/WikiData/WD~Mongala River,3320633]]"
-  - "[[_Standards/WikiData/WD~M'pozo River,3327137]]"
-  - "[[_Standards/WikiData/WD~Ndjili River,3337491]]"
-  - "[[_Standards/WikiData/WD~Nsele River,3345955]]"
-  - "[[_Standards/WikiData/WD~Ruki,3453117]]"
-  - "[[_Standards/WikiData/WD~Ulindi River,3547925]]"
-  - "[[_Standards/WikiData/WD~Gobari,22354683]]"
-  - "[[_Standards/WikiData/WD~Q22357659,22357659]]"
-  - "[[_Standards/WikiData/WD~Maiko,22372019]]"
-  - "[[_Standards/WikiData/WD~Molua,22408818]]"
-  - "[[_Standards/WikiData/WD~Likouala-Mossaka,22430139]]"
-  - "[[_Standards/WikiData/WD~Likouala aux Herbes,22430156]]"
-  - "[[_Standards/WikiData/WD~Lilo (left tributary of the Lwalaba),22431602]]"
-  - "[[_Standards/WikiData/WD~Kwilu,22564149]]"
-  - "[[_Standards/WikiData/WD~Lowa (Kivu_Maniema),22586788]]"
-  - "[[_Standards/WikiData/WD~Lwika,22599257]]"
-  - "[[_Standards/WikiData/WD~Lukunga River,22602393]]"
-  - "[[_Standards/WikiData/WD~Kambu,24196047]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-origin of the watercourse:
-  - "[[_Standards/WikiData/WD~Lualaba River,836812]]"
-  - "[[_Standards/WikiData/WD~Boyoma Falls,38417]]"
-drainage basin: "[[_Standards/WikiData/WD~Congo basin,932289]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Kongo Central,1043494]]"
-coordinate location: Point(12.45 -6.075)
-basin country:
-  - "[[_Standards/WikiData/WD~Angola,916]]"
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Central African Republic,929]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~South Sudan,958]]"
-  - "[[_Standards/WikiData/WD~Burundi,967]]"
-  - "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-  - "[[_Standards/WikiData/WD~Gabon,1000]]"
-  - "[[_Standards/WikiData/WD~Cameroon,1009]]"
-  - "[[_Standards/WikiData/WD~Malawi,1020]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
+- "[[_Standards/WikiData/WD~Lukuga River,128350]]"
+- "[[_Standards/WikiData/WD~Ubangi River,171649]]"
+- "[[_Standards/WikiData/WD~Kasai River,186541]]"
+- "[[_Standards/WikiData/WD~Luvua River,220839]]"
+- '[[_Standards/WikiData/WD~Sangha,239883]]'
+- "[[_Standards/WikiData/WD~Aruwimi River,540956]]"
+- "[[_Standards/WikiData/WD~Lomami River,753765]]"
+- "[[_Standards/WikiData/WD~Chambeshi River,777999]]"
+- "[[_Standards/WikiData/WD~Lualaba River,836812]]"
+- "[[_Standards/WikiData/WD~Itimbiri River,1675294]]"
+- '[[_Standards/WikiData/WD~Luvu,2397127]]'
+- "[[_Standards/WikiData/WD~Lulonga River,2634215]]"
+- "[[_Standards/WikiData/WD~Tshuapa River,2635327]]"
+- '[[_Standards/WikiData/WD~Alima,2661731]]'
+- "[[_Standards/WikiData/WD~Ambe River,2841990]]"
+- "[[_Standards/WikiData/WD~Inkisi River,3048266]]"
+- '[[_Standards/WikiData/WD~Ikelemba,3148406]]'
+- '[[_Standards/WikiData/WD~Q3193787,3193787]]'
+- '[[_Standards/WikiData/WD~Lindi,3241422]]'
+- '[[_Standards/WikiData/WD~Lufimi,3266301]]'
+- "[[_Standards/WikiData/WD~Lefini River,3270093]]"
+- "[[_Standards/WikiData/WD~Mongala River,3320633]]"
+- "[[_Standards/WikiData/WD~M'pozo River,3327137]]"
+- "[[_Standards/WikiData/WD~Ndjili River,3337491]]"
+- "[[_Standards/WikiData/WD~Nsele River,3345955]]"
+- '[[_Standards/WikiData/WD~Ruki,3453117]]'
+- "[[_Standards/WikiData/WD~Ulindi River,3547925]]"
+- '[[_Standards/WikiData/WD~Gobari,22354683]]'
+- '[[_Standards/WikiData/WD~Q22357659,22357659]]'
+- '[[_Standards/WikiData/WD~Maiko,22372019]]'
+- '[[_Standards/WikiData/WD~Molua,22408818]]'
+- '[[_Standards/WikiData/WD~Likouala-Mossaka,22430139]]'
+- "[[_Standards/WikiData/WD~Likouala aux Herbes,22430156]]"
+- "[[_Standards/WikiData/WD~Lilo (left tributary of the Lwalaba),22431602]]"
+- '[[_Standards/WikiData/WD~Kwilu,22564149]]'
+- "[[_Standards/WikiData/WD~Lowa (Kivu_Maniema),22586788]]"
+- '[[_Standards/WikiData/WD~Lwika,22599257]]'
+- "[[_Standards/WikiData/WD~Lukunga River,22602393]]"
+- '[[_Standards/WikiData/WD~Kambu,24196047]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+origin_of_the_watercourse:
+- "[[_Standards/WikiData/WD~Lualaba River,836812]]"
+- "[[_Standards/WikiData/WD~Boyoma Falls,38417]]"
+drainage_basin: "[[_Standards/WikiData/WD~Congo basin,932289]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kongo Central,1043494]]"
+coordinate_location: "Point(12.45 -6.075)"
+basin_country:
+- '[[_Standards/WikiData/WD~Angola,916]]'
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- "[[_Standards/WikiData/WD~Central African Republic,929]]"
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- '[[_Standards/WikiData/WD~Burundi,967]]'
+- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- '[[_Standards/WikiData/WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Cameroon,1009]]'
+- '[[_Standards/WikiData/WD~Malawi,1020]]'
+- '[[_Standards/WikiData/WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Sudan,1049]]'
 country:
-  - "[[_Standards/WikiData/WD~Angola,916]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-  - "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-instance of: "[[_Standards/WikiData/WD~river,4022]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-mouth of the watercourse: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-elevation above sea level: 32
+- '[[_Standards/WikiData/WD~Angola,916]]'
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+instance_of: '[[_Standards/WikiData/WD~river,4022]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+elevation_above_sea_level: 32
 length: 4700
 discharge: 41800
-route map: http://commons.wikimedia.org/wiki/Special:FilePath/CongoLualaba%20watershed%20topo.png
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%95%E0%A8%BE%E0%A8%82%E0%A8%97%E0%A9%8B%20%E0%A8%A6%E0%A8%B0%E0%A8%BF%E0%A8%86.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Congo.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Sunrise%20near%20Mossaka%20%28Congo%29.JPG
-U.S. National Archives Identifier: "10046175"
-OmegaWiki Defined Meaning: "402389"
-Commons gallery: Congo River
-Commons category: Congo River
-watershed area: 401450000
+route_map: "http://commons.wikimedia.org/wiki/Special:FilePath/CongoLualaba%20watershed%20topo.png"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%95%E0%A8%BE%E0%A8%82%E0%A8%97%E0%A9%8B%20%E0%A8%A6%E0%A8%B0%E0%A8%BF%E0%A8%86.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Congo.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sunrise%20near%20Mossaka%20%28Congo%29.JPG"
+U_S_National_Archives_Identifier: 10046175
+OmegaWiki_Defined_Meaning: 402389
+Commons_gallery: "Congo River"
+Commons_category: "Congo River"
+watershed_area: 401450000
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,268 +1,268 @@
----
+﻿---
 Libris-URI: mkz118l5247m2dd
-Commons gallery: Sesel / Seychelles
-GitHub topic: seychelles
-CIVICUS Monitor country entry: seychelles
-Krugosvet article: strany_mira/SESHELSKIE_OSTROVA.html
+Commons_gallery: "Sesel / Seychelles"
+GitHub_topic: seychelles
+CIVICUS_Monitor_country_entry: seychelles
+Krugosvet_article: strany_mira/SESHELSKIE_OSTROVA.html
 demonym:
-  - سيشيلي
-  - سيشيلية
-  - سيشيليون
-  - seixelés
-  - seixelesa
-  - সেইশেলি
-  - Seychelloise
-  - Sejŝelano
-  - Seychelloise
-  - סיישלי
-  - סיישלית
-  - Seychelle-szigeteki
-  - Seycheliano
-  - seychellese
-  - seychellesi
-  - sexeles
-  - seychellez
-  - seychelleză
-  - seychellezi
-  - seychełeza
-  - seychełeze
-  - seychełezi
-  - seychełezo
-  - سيشيلي
-  - سيشيلية
-  - سيشيليات
-  - سيشيليين
-  - Seychellois
-  - Seychellois
-  - Séiséalach
-motto text:
-  - Another world
-  - Finis Coronat Opus
-  - The End Crowns the Work
-  - Mae Diwedd y Gwaith yn ei Goroni
-official name:
-  - la République des Seychelles
-  - Repubblica delle Seychelles
-  - Seychelles
-  - Seychelles
-native label: République des Seychelles
-short name: 🇸🇨
-instance of:
-  - "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
-  - "[[_Standards/WikiData/WD~island country,112099]]"
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-driving side: "[[_Standards/WikiData/WD~left,13196750]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Seychelles,13483977]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of Seychelles,18463915]]"
-office held by head of government: "[[_Standards/WikiData/WD~President of Seychelles,18463915]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~133,25648813]]"
-  - "[[_Standards/WikiData/WD~151,25648906]]"
-  - "[[_Standards/WikiData/WD~999,3086706]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~East African islands,28901162]]"
-has characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Indian_Mahe,63285927]]"
-  - "[[_Standards/WikiData/WD~UTC+04_00,6779]]"
-part of:
-  - "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-  - "[[_Standards/WikiData/WD~East Africa,27407]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Ile Perseverance I,104032277]]"
-  - "[[_Standards/WikiData/WD~Ile Perseverance II,104032556]]"
-  - "[[_Standards/WikiData/WD~Anse Etoile,387293]]"
-  - "[[_Standards/WikiData/WD~Anse Boileau,569453]]"
-  - "[[_Standards/WikiData/WD~Anse-aux-Pins,569458]]"
-  - "[[_Standards/WikiData/WD~Baie Sainte Anne,803716]]"
-  - "[[_Standards/WikiData/WD~Bel Air,815077]]"
-  - "[[_Standards/WikiData/WD~La Digue and Inner Islands,1094917]]"
-  - "[[_Standards/WikiData/WD~Grand'Anse Praslin,1231388]]"
-  - "[[_Standards/WikiData/WD~Port Glaud,1808165]]"
-  - "[[_Standards/WikiData/WD~La Rivière Anglaise,1819963]]"
-  - "[[_Standards/WikiData/WD~Cascade,1928685]]"
-  - "[[_Standards/WikiData/WD~Mont Fleuri,1945413]]"
-  - "[[_Standards/WikiData/WD~Plaisance,2199897]]"
-  - "[[_Standards/WikiData/WD~Saint Louis,2278695]]"
-  - "[[_Standards/WikiData/WD~Les Mamelles,2280357]]"
-  - "[[_Standards/WikiData/WD~Takamaka,2287379]]"
-  - "[[_Standards/WikiData/WD~Baie Lazare,2494551]]"
-  - "[[_Standards/WikiData/WD~Au Cap,2667004]]"
-  - "[[_Standards/WikiData/WD~Roche Caiman,2718315]]"
-  - "[[_Standards/WikiData/WD~Pointe La Rue,2877260]]"
-  - "[[_Standards/WikiData/WD~Anse Royale,3241674]]"
-  - "[[_Standards/WikiData/WD~Mont Buxton,3241682]]"
-  - "[[_Standards/WikiData/WD~Grand'Anse Mahé,3241690]]"
-  - "[[_Standards/WikiData/WD~Glacis,3241696]]"
-  - "[[_Standards/WikiData/WD~Bel Ombre,3245439]]"
-  - "[[_Standards/WikiData/WD~Beau Vallon,7479348]]"
-coordinates of westernmost point: Point(46.509444444 -9.734166666)
-coordinates of easternmost point: Point(56.283055555 -7.124444444)
-member of:
-  - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Southern African Development Community,816706]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Francophonie,1003588]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Indian Ocean Commission,1115631]]"
-  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African Union,7159]]"
-  - "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- سيشيلي
+- سيشيلية
+- سيشيليون
+- seixelés
+- seixelesa
+- সেইশেলি
+- Seychelloise
+- Sejŝelano
+- Seychelloise
+- סיישלי
+- סיישלית
+- Seychelle-szigeteki
+- Seycheliano
+- seychellese
+- seychellesi
+- sexeles
+- seychellez
+- seychelleză
+- seychellezi
+- seychełeza
+- seychełeze
+- seychełezi
+- seychełezo
+- سيشيلي
+- سيشيلية
+- سيشيليات
+- سيشيليين
+- Seychellois
+- Seychellois
+- Séiséalach
+motto_text:
+- "Another world"
+- "Finis Coronat Opus"
+- "The End Crowns the Work"
+- "Mae Diwedd y Gwaith yn ei Goroni"
+official_name:
+- "la République des Seychelles"
+- "Repubblica delle Seychelles"
+- Seychelles
+- Seychelles
+native_label: "République des Seychelles"
+short_name: "\U0001F1F8\U0001F1E8"
+instance_of:
+- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- "[[_Standards/WikiData/WD~island country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Seychelles,13483977]]'
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Seychelles,18463915]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Seychelles,18463915]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~133,25648813]]'
+- '[[_Standards/WikiData/WD~151,25648906]]'
+- '[[_Standards/WikiData/WD~999,3086706]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~East African islands,28901162]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~Indian_Mahe,63285927]]'
+- '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
+part_of:
+- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~East Africa,27407]]"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Ile Perseverance I,104032277]]"
+- "[[_Standards/WikiData/WD~Ile Perseverance II,104032556]]"
+- "[[_Standards/WikiData/WD~Anse Etoile,387293]]"
+- "[[_Standards/WikiData/WD~Anse Boileau,569453]]"
+- '[[_Standards/WikiData/WD~Anse-aux-Pins,569458]]'
+- "[[_Standards/WikiData/WD~Baie Sainte Anne,803716]]"
+- "[[_Standards/WikiData/WD~Bel Air,815077]]"
+- "[[_Standards/WikiData/WD~La Digue and Inner Islands,1094917]]"
+- "[[_Standards/WikiData/WD~Grand'Anse Praslin,1231388]]"
+- "[[_Standards/WikiData/WD~Port Glaud,1808165]]"
+- "[[_Standards/WikiData/WD~La Rivière Anglaise,1819963]]"
+- '[[_Standards/WikiData/WD~Cascade,1928685]]'
+- "[[_Standards/WikiData/WD~Mont Fleuri,1945413]]"
+- '[[_Standards/WikiData/WD~Plaisance,2199897]]'
+- "[[_Standards/WikiData/WD~Saint Louis,2278695]]"
+- "[[_Standards/WikiData/WD~Les Mamelles,2280357]]"
+- '[[_Standards/WikiData/WD~Takamaka,2287379]]'
+- "[[_Standards/WikiData/WD~Baie Lazare,2494551]]"
+- "[[_Standards/WikiData/WD~Au Cap,2667004]]"
+- "[[_Standards/WikiData/WD~Roche Caiman,2718315]]"
+- "[[_Standards/WikiData/WD~Pointe La Rue,2877260]]"
+- "[[_Standards/WikiData/WD~Anse Royale,3241674]]"
+- "[[_Standards/WikiData/WD~Mont Buxton,3241682]]"
+- "[[_Standards/WikiData/WD~Grand'Anse Mahé,3241690]]"
+- '[[_Standards/WikiData/WD~Glacis,3241696]]'
+- "[[_Standards/WikiData/WD~Bel Ombre,3245439]]"
+- "[[_Standards/WikiData/WD~Beau Vallon,7479348]]"
+coordinates_of_westernmost_point: "Point(46.509444444 -9.734166666)"
+coordinates_of_easternmost_point: "Point(56.283055555 -7.124444444)"
+member_of:
+- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Southern African Development Community,816706]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+- '[[_Standards/WikiData/WD~Francophonie,1003588]]'
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Indian Ocean Commission,1115631]]"
+- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~African Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
 flag: "[[_Standards/WikiData/WD~flag of Seychelles,173201]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of the Seychelles,213029]]"
-has part(s): "[[_Standards/WikiData/WD~La Digue,581154]]"
-legislative body: "[[_Standards/WikiData/WD~National Assembly,676484]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Seychelles,768271]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of the Seychelles,213029]]"
+has_part_s_: "[[_Standards/WikiData/WD~La Digue,581154]]"
+legislative_body: "[[_Standards/WikiData/WD~National Assembly,676484]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Seychelles,768271]]"
 anthem: "[[_Standards/WikiData/WD~Koste Seselwa,849850]]"
-named after: "[[_Standards/WikiData/WD~Jean Moreau de Séchelles,950360]]"
-history of topic: "[[_Standards/WikiData/WD~history of Seychelles,1477585]]"
-electrical plug type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-head of state: "[[_Standards/WikiData/WD~Wavel Ramkalawan,1568174]]"
-head of government: "[[_Standards/WikiData/WD~Wavel Ramkalawan,1568174]]"
-highest point: "[[_Standards/WikiData/WD~Morne Seychellois,1579060]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Seychelles,2427029]]"
-foundational text: "[[_Standards/WikiData/WD~Constitution of Seychelles,2995163]]"
-demographics of topic: "[[_Standards/WikiData/WD~Demographics of Seychelles,3044352]]"
-central bank: "[[_Standards/WikiData/WD~Central Bank of Seychelles,4504280]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Seychelles,7112446]]"
+named_after: "[[_Standards/WikiData/WD~Jean Moreau de Séchelles,950360]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Seychelles,1477585]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+head_of_state: "[[_Standards/WikiData/WD~Wavel Ramkalawan,1568174]]"
+head_of_government: "[[_Standards/WikiData/WD~Wavel Ramkalawan,1568174]]"
+highest_point: "[[_Standards/WikiData/WD~Morne Seychellois,1579060]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Seychelles,2427029]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution of Seychelles,2995163]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~Demographics of Seychelles,3044352]]"
+central_bank: "[[_Standards/WikiData/WD~Central Bank of Seychelles,4504280]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Seychelles,7112446]]"
 culture: "[[_Standards/WikiData/WD~culture of Seychelles,7884233]]"
-different from: "[[_Standards/WikiData/WD~Seszele,9335676]]"
-geoshape: http://commons.wikimedia.org/data/main/Data:Seychelles.map
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/2005-03-13%2008-55-02%20Seychelles%20-%20Misere.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Anse-La%20Digue-Seychellen.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Seychellen.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%B3%D9%8A%D8%B4%D9%84.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Seychelles.wav
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/SYC%20orthographic.svg
-official website: http://www.egov.sc/
-country calling code: "+248"
-urban population:
-  - 57542
-  - 70004
-  - 55762
-  - 56661
-male population:
-  - 63113
-  - 51368
-  - 51864
-  - 52299
-IAB code: "1401"
+different_from: '[[_Standards/WikiData/WD~Seszele,9335676]]'
+geoshape: "http://commons.wikimedia.org/data/main/Data:Seychelles.map"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/2005-03-13%2008-55-02%20Seychelles%20-%20Misere.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Anse-La%20Digue-Seychellen.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Seychellen.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%B3%D9%8A%D8%B4%D9%84.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Seychelles.wav"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/SYC%20orthographic.svg"
+official_website: "http://www.egov.sc/"
+country_calling_code: +248
+urban_population:
+- 57542
+- 70004
+- 55762
+- 56661
+male_population:
+- 63113
+- 51368
+- 51864
+- 52299
+IAB_code: 1401
 population: 95843
-ISO 3166-1 alpha-2 code: SC
-WIPO ST.3: SC
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Seychelles.svg
-IOC country code: SEY
-ITU letter code: SEY
-OmegaWiki Defined Meaning: "153897"
-INSEE countries and foreign territories code: "99398"
-ISO 3166-1 alpha-3 code: SYC
-inception: 1976-06-29T00:00:00Z 
-has_time_started: 1976-06-29T00:00:00Z 
-PM20 geo code: C106
-life expectancy: 74.30976
-coordinates of northernmost point: Point(55.2 -3.72)
-Commons category: Seychelles
+ISO_3166-1_alpha-2_code: SC
+WIPO_ST_3: SC
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Seychelles.svg"
+IOC_country_code: SEY
+ITU_letter_code: SEY
+OmegaWiki_Defined_Meaning: 153897
+INSEE_countries_and_foreign_territories_code: 99398
+ISO_3166-1_alpha-3_code: SYC
+inception: "1976-06-29T00:00:00Z"
+has_time_started: "1976-06-29T00:00:00Z"
+PM20_geo_code: C106
+life_expectancy: 74.30976
+coordinates_of_northernmost_point: "Point(55.2 -3.72)"
+Commons_category: Seychelles
 subreddit: Seychelles
 hashtag: Seychelles
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Seychelles.svg
-coordinate location: Point(52.766667 -7.1)
-nominal GDP:
-  - 1286687873
-  - 1588406479
-Unicode character: 🇸🇨
-U.S. National Archives Identifier: "10035806"
-Dewey Decimal Classification: 2--696
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Seychelles.svg"
+coordinate_location: "Point(52.766667 -7.1)"
+nominal_GDP:
+- 1286687873
+- 1588406479
+Unicode_character: "\U0001F1F8\U0001F1E8"
+U_S_National_Archives_Identifier: 10035806
+Dewey_Decimal_Classification: 2--696
 ISNI: 000000040459108X
-MeSH tree code:
-  - Z01.058.290.120.705
-  - Z01.639.520.750
-escutcheon image: http://commons.wikimedia.org/wiki/Special:FilePath/Insigne%20Insularum%20Seisellensium.svg
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Seychelles%20-%20Location%20Map%20%282013%29%20-%20SYC%20-%20UNOCHA.svg
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Comoros,970]]"
-  - "[[_Standards/WikiData/WD~Madagascar,1019]]"
-  - "[[_Standards/WikiData/WD~Mauritius,1027]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-country: "[[_Standards/WikiData/WD~Seychelles,1042]]"
-lowest point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
-language used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Seychellois Creole,34015]]"
-official language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Seychellois Creole,34015]]"
-capital: "[[_Standards/WikiData/WD~Victoria,3940]]"
+MeSH_tree_code:
+- Z01.058.290.120.705
+- Z01.639.520.750
+escutcheon_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Insigne%20Insularum%20Seisellensium.svg"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Seychelles%20-%20Location%20Map%20%282013%29%20-%20SYC%20-%20UNOCHA.svg"
+diplomatic_relation:
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Comoros,970]]'
+- '[[_Standards/WikiData/WD~Madagascar,1019]]'
+- '[[_Standards/WikiData/WD~Mauritius,1027]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+country: '[[_Standards/WikiData/WD~Seychelles,1042]]'
+lowest_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+language_used:
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- "[[_Standards/WikiData/WD~Seychellois Creole,34015]]"
+official_language:
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- "[[_Standards/WikiData/WD~Seychellois Creole,34015]]"
+capital: '[[_Standards/WikiData/WD~Victoria,3940]]'
 currency: "[[_Standards/WikiData/WD~Seychellois rupee,4595]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-VAT rate: 15
-age of majority: 18
-total fertility rate: 2.3
-mains voltage: 240
-death rate:
-  - 6.8
-  - 7.8
-  - 8.1
-  - 9.3
-birth rate:
-  - 13.1
-  - 15.8
-  - 16.4
-  - 16.8
-Gini coefficient: 32.1
-top-level Internet domain: "[[_Standards/WikiData/WD~.sc,43139]]"
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+VAT_rate: 15
+age_of_majority: 18
+total_fertility_rate: 2.3
+mains_voltage: 240
+death_rate:
+- 6.8
+- 7.8
+- 8.1
+- 9.3
+birth_rate:
+- 13.1
+- 15.8
+- 16.4
+- 16.8
+Gini_coefficient: 32.1
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.sc,43139]]'
 area: 459
-Inequality-adjusted Human Development Index: 0.661
-Human Development Index: 0.785
-number of out-of-school children: 1312
-ISO 3166-1 numeric code: "690"
-M49 code: "690"
-maritime identification digits: "664"
-licence plate code: SY
-rural population:
-  - 41716
-  - 41801
-  - 41863
-  - 49874
-mobile country code: "633"
-female population:
-  - 46256
-  - 46598
-  - 46958
-  - 56766
-FIPS 10-4 (countries and regions): SE
+Inequality-adjusted_Human_Development_Index: 0.661
+Human_Development_Index: 0.785
+number_of_out-of-school_children: 1312
+ISO_3166-1_numeric_code: 690
+M49_code: 690
+maritime_identification_digits: 664
+licence_plate_code: SY
+rural_population:
+- 41716
+- 41801
+- 41863
+- 49874
+mobile_country_code: 633
+female_population:
+- 46256
+- 46598
+- 46958
+- 56766
+FIPS_10-4_countries_and_regions_: SE
 has_id_wikidata: Q1042
 location:
 - -4.61667
@@ -270,13 +270,12 @@ location:
 type: Country
 tags:
 - geo/Country
-has_id_wikidata: Q1042 
 SpocWebEntityId: 27011
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Seychelles
@@ -290,9 +289,9 @@ aliases:
 - Seychelles
 - سيشيل
 - 塞舌尔
-- Сейшельские Острова
-- the Republic of Seychelles
-- la República de Seychelles
+- "Сейшельские Острова"
+- "the Republic of Seychelles"
+- "la República de Seychelles"
 Languages:
 - en-SC
 - fr-SC

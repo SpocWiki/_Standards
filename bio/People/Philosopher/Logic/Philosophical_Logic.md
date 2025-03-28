@@ -1,17 +1,16 @@
----
+﻿---
 has_id_wikidata: Q491412
-topic's main template: "[[_Standards/WikiData/WD~Template_Philosophical logic,18676718]]"
-instance of: "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
-has use: "[[_Standards/WikiData/WD~philosophical problem,28109781]]"
-Regensburg Classification: CC 2500
-part of:
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~logic,8078]]"
-subclass of: "[[_Standards/WikiData/WD~logic,8078]]"
-Stack Exchange tag: https://philosophy.stackexchange.com/tags/logic
-Commons category: Philosophical logic
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Philosophical logic,18676718]]"
+instance_of: "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
+has_use: "[[_Standards/WikiData/WD~philosophical problem,28109781]]"
+Regensburg_Classification: "CC 2500"
+part_of:
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~logic,8078]]'
+subclass_of: '[[_Standards/WikiData/WD~logic,8078]]'
+Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/logic"
+Commons_category: "Philosophical logic"
 ---
-
 
 ## #has_/text_of_/abstract 
 

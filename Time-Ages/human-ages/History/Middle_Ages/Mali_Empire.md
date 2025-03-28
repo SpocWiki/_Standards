@@ -1,50 +1,49 @@
----
+﻿---
 aliases:
-  - Mali Empire
+- "Mali Empire"
 has_id_wikidata: Q184536
-religion or worldview: "[[_Standards/WikiData/WD~traditional African religion,386498]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~traditional African religion,386498]]"
 replaces: "[[_Standards/WikiData/WD~Baté Empire,507346]]"
-capital: "[[_Standards/WikiData/WD~Kangaba,1031919]]"
-language used: "[[_Standards/WikiData/WD~Senegambian,1708753]]"
-head of state: "[[_Standards/WikiData/WD~Mansa,1886285]]"
-instance of: "[[_Standards/WikiData/WD~historical country,3024240]]"
-legislative body: "[[_Standards/WikiData/WD~Gbara,3299285]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D5%AC%D5%AB%D5%AB%20%D5%AF%D5%A1%D5%B5%D5%BD%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Mali%20Empire%29.ogg
-currency: "[[_Standards/WikiData/WD~gold,897]]"
-located in the present-day administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Burkina Faso,965]]"
-  - "[[_Standards/WikiData/WD~Guinea,1006]]"
-  - "[[_Standards/WikiData/WD~Guinea-Bissau,1007]]"
-  - "[[_Standards/WikiData/WD~The Gambia,1005]]"
-  - "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Senegal,1041]]"
-  - "[[_Standards/WikiData/WD~Ghana,117]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-official language: "[[_Standards/WikiData/WD~Mande,33681]]"
-basic form of government: "[[_Standards/WikiData/WD~empire,48349]]"
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%CE%91%CF%85%CF%84%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%BF%CF%81%CE%AF%CE%B1%20%CE%9C%CE%AC%CE%BB%CE%B9%20%CF%87%CE%AC%CF%81%CF%84%CE%B7%CF%82.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20empire%20map-ar.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20empire%20map.PNG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20empire%20map%20-%201350%20AD%20-%20el.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20reich%20Karte.PNG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Maliko%20inperioa.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Maliriket.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20mali-pt.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20mali.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Zh%20MALI%20empire%20map.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Catalan%20Atlas%20BNF%20Sheet%206%20Western%20Sahara.jpg
-detail map: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mali%20Empire.jpg
-Commons category: Mali Empire
-"dissolved, abolished or demolished date": 1670-01-01T00:00:00Z 
-has_time_stopped: 1670-01-01T00:00:00Z 
-inception: 1235-01-01T00:00:00Z 
-has_time_started: 1235-01-01T00:00:00Z 
+capital: '[[_Standards/WikiData/WD~Kangaba,1031919]]'
+language_used: '[[_Standards/WikiData/WD~Senegambian,1708753]]'
+head_of_state: '[[_Standards/WikiData/WD~Mansa,1886285]]'
+instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
+legislative_body: '[[_Standards/WikiData/WD~Gbara,3299285]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D5%AC%D5%AB%D5%AB%20%D5%AF%D5%A1%D5%B5%D5%BD%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Mali%20Empire%29.ogg"
+currency: '[[_Standards/WikiData/WD~gold,897]]'
+located_in_the_present-day_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Mali,912]]'
+- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+- '[[_Standards/WikiData/WD~Guinea,1006]]'
+- '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
+- "[[_Standards/WikiData/WD~The Gambia,1005]]"
+- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- '[[_Standards/WikiData/WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Niger,1032]]'
+- '[[_Standards/WikiData/WD~Senegal,1041]]'
+- '[[_Standards/WikiData/WD~Ghana,117]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+official_language: '[[_Standards/WikiData/WD~Mande,33681]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~empire,48349]]'
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/%CE%91%CF%85%CF%84%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%BF%CF%81%CE%AF%CE%B1%20%CE%9C%CE%AC%CE%BB%CE%B9%20%CF%87%CE%AC%CF%81%CF%84%CE%B7%CF%82.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20empire%20map-ar.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20empire%20map.PNG"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20empire%20map%20-%201350%20AD%20-%20el.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20reich%20Karte.PNG"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Maliko%20inperioa.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Maliriket.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20mali-pt.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20mali.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Zh%20MALI%20empire%20map.png"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Catalan%20Atlas%20BNF%20Sheet%206%20Western%20Sahara.jpg"
+detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mali%20Empire.jpg"
+Commons_category: "Mali Empire"
+dissolved_abolished_or_demolished_date: "1670-01-01T00:00:00Z"
+has_time_stopped: "1670-01-01T00:00:00Z"
+inception: "1235-01-01T00:00:00Z"
+has_time_started: "1235-01-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

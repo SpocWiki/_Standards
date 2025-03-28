@@ -1,32 +1,31 @@
----
+﻿---
 has_id_wikidata: Q11388
 follows: "[[_Standards/WikiData/WD~visible spectrum,76299]]"
-part of: "[[_Standards/WikiData/WD~electromagnetic spectrum,133139]]"
-facet of: "[[_Standards/WikiData/WD~electromagnetic radiation,12969754]]"
-subclass of: "[[_Standards/WikiData/WD~electromagnetic radiation,12969754]]"
-described by source: "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-does not have characteristic: "[[_Standards/WikiData/WD~visibility,30301666]]"
-used by: "[[_Standards/WikiData/WD~infrared perception,47015713]]"
-Stack Exchange tag:
-  - https://physics.stackexchange.com/tags/infrared-radiation
-  - https://electronics.stackexchange.com/tags/infrared
-UMLS CUI: C0021431
-OmegaWiki Defined Meaning: "1942"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Ir%20girl.png
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4%20%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%A3.wav
-exact match: http://purl.obolibrary.org/obo/ENVO_21001214
-IEV number: 845-21-004
-MeSH tree code:
-  - G01.358.500.505.650.552
-  - G01.590.540.552
-  - G01.750.250.650.552
-  - G01.750.770.578.552
-  - G16.500.275.063.725.525.400
-  - G16.500.750.775.525.400
-  - N06.230.300.100.725.525.400
-Commons category: Infrared
+part_of: "[[_Standards/WikiData/WD~electromagnetic spectrum,133139]]"
+facet_of: "[[_Standards/WikiData/WD~electromagnetic radiation,12969754]]"
+subclass_of: "[[_Standards/WikiData/WD~electromagnetic radiation,12969754]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+does_not_have_characteristic: '[[_Standards/WikiData/WD~visibility,30301666]]'
+used_by: "[[_Standards/WikiData/WD~infrared perception,47015713]]"
+Stack_Exchange_tag:
+- "https://physics.stackexchange.com/tags/infrared-radiation"
+- "https://electronics.stackexchange.com/tags/infrared"
+UMLS_CUI: C0021431
+OmegaWiki_Defined_Meaning: 1942
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ir%20girl.png"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4%20%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%A3.wav"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_21001214"
+IEV_number: 845-21-004
+MeSH_tree_code:
+- G01.358.500.505.650.552
+- G01.590.540.552
+- G01.750.250.650.552
+- G01.750.770.578.552
+- G16.500.275.063.725.525.400
+- G16.500.750.775.525.400
+- N06.230.300.100.725.525.400
+Commons_category: Infrared
 ---
-
 
 ## #has_/text_of_/abstract 
 

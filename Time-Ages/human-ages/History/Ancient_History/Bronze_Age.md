@@ -1,31 +1,30 @@
----
+﻿---
 aliases:
-  - Bronze Age
+- "Bronze Age"
 has_id_wikidata: Q11761
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Minoan%20copper%20ingot%20from%20Zakros%2C%20Crete.jpg
-EAGLE id: dates/lod/13
-Krugosvet article: istoriya/BRONZOVI_VEK.html
-OpenStreetMap tag or key: Tag:historic:period=bronze-age
-instance of: "[[_Standards/WikiData/WD~archaeological age,15401699]]"
-different from: "[[_Standards/WikiData/WD~Bronze age,67484121]]"
-end time:
-  - -0299-01-01T00:00:00Z
-  - -0599-01-01T00:00:00Z
-  - -1199-01-01T00:00:00Z
-start time:
-  - -3299-01-01T00:00:00Z
-  - -3199-01-01T00:00:00Z
-  - -3099-01-01T00:00:00Z
-subclass of: "[[_Standards/WikiData/WD~prehistory,11756]]"
-named after: "[[_Standards/WikiData/WD~bronze,34095]]"
-Commons category: Bronze Age
-OmegaWiki Defined Meaning: "846334"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Minoan%20copper%20ingot%20from%20Zakros%2C%20Crete.jpg"
+EAGLE_id: dates/lod/13
+Krugosvet_article: istoriya/BRONZOVI_VEK.html
+OpenStreetMap_tag_or_key: "Tag:historic:period=bronze-age"
+instance_of: "[[_Standards/WikiData/WD~archaeological age,15401699]]"
+different_from: "[[_Standards/WikiData/WD~Bronze age,67484121]]"
+end_time:
+- "-0299-01-01T00:00:00Z"
+- "-0599-01-01T00:00:00Z"
+- "-1199-01-01T00:00:00Z"
+start_time:
+- "-3299-01-01T00:00:00Z"
+- "-3199-01-01T00:00:00Z"
+- "-3099-01-01T00:00:00Z"
+subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
+named_after: '[[_Standards/WikiData/WD~bronze,34095]]'
+Commons_category: "Bronze Age"
+OmegaWiki_Defined_Meaning: 846334
 ---
-
 
 ## #has_/text_of_/abstract 
 

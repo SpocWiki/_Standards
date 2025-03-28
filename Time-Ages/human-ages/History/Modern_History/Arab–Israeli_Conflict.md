@@ -1,21 +1,20 @@
----
+﻿---
 aliases:
-  - Arab–Israeli conflict
+- "Arab–Israeli conflict"
 has_id_wikidata: Q8669
-instance of:
-  - "[[_Standards/WikiData/WD~ethnic conflict,766875]]"
-  - "[[_Standards/WikiData/WD~international conflict,11422542]]"
-history of topic: "[[_Standards/WikiData/WD~history of the Arab–Israeli conflict,2967235]]"
-partially coincident with: "[[_Standards/WikiData/WD~Arab–Israeli Wars,3491398]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Arab–Israeli conflict,6682272]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+instance_of:
+- "[[_Standards/WikiData/WD~ethnic conflict,766875]]"
+- "[[_Standards/WikiData/WD~international conflict,11422542]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of the Arab–Israeli conflict,2967235]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Arab–Israeli Wars,3491398]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Arab–Israeli conflict,6682272]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
 location: "[[_Standards/WikiData/WD~Middle East,7204]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Arab-Israeli%20Map.svg
-U.S. National Archives Identifier: "10637980"
-Commons category: Arab-Israeli conflict
-start time: 1948-05-15T00:00:00Z
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arab-Israeli%20Map.svg"
+U_S_National_Archives_Identifier: 10637980
+Commons_category: "Arab-Israeli conflict"
+start_time: "1948-05-15T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

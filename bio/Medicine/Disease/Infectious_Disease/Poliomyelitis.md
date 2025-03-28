@@ -1,95 +1,94 @@
----
+﻿---
 has_id_wikidata: Q12195
 ICD-9-CM:
-  - "045.90"
-  - "045.92"
-  - "045"
-  - "045.9"
-Dewey Decimal Classification:
-  - "614.549"
-  - "616.835"
-  - "618.92835"
+- 045.90
+- 045.92
+- 045
+- 045.9
+Dewey_Decimal_Classification:
+- 614.549
+- 616.835
+- 618.92835
 ICD-10-CM:
-  - A80.0
-  - A80.1
-  - A80.2
-  - A80.3
-  - A80.9
-  - A80
-  - A80.4
-UMLS CUI: C0032371
-MeSH tree code:
-  - C01.207.618.750
-  - C01.925.782.687.359.764
-  - C10.228.228.618.750
-  - C10.228.854.525.850
-  - C10.668.864
-  - C10.586.750.850
-Krugosvet article: medicina/POLIOMIELIT.html
+- A80.0
+- A80.1
+- A80.2
+- A80.3
+- A80.9
+- A80
+- A80.4
+UMLS_CUI: C0032371
+MeSH_tree_code:
+- C01.207.618.750
+- C01.925.782.687.359.764
+- C10.228.228.618.750
+- C10.228.854.525.850
+- C10.668.864
+- C10.586.750.850
+Krugosvet_article: medicina/POLIOMIELIT.html
 hashtag: polio
-named after:
-  - "[[_Standards/WikiData/WD~Jakob Heine,70238]]"
-  - "[[_Standards/WikiData/WD~Karl Oskar Medin,524574]]"
-health specialty:
-  - "[[_Standards/WikiData/WD~neurology,83042]]"
-  - "[[_Standards/WikiData/WD~orthopedics,216685]]"
-  - "[[_Standards/WikiData/WD~infectious diseases,788926]]"
-symptoms and signs:
-  - "[[_Standards/WikiData/WD~paralysis,107231]]"
-  - "[[_Standards/WikiData/WD~vomiting,127076]]"
-  - "[[_Standards/WikiData/WD~muscle weakness,270421]]"
-  - "[[_Standards/WikiData/WD~paresis,1126769]]"
-  - "[[_Standards/WikiData/WD~meningism signs,12122651]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
-  - "[[_Standards/WikiData/WD~diarrhea,40878]]"
-anatomical location: "[[_Standards/WikiData/WD~peripheral nervous system,169953]]"
-possible treatment:
-  - "[[_Standards/WikiData/WD~massage,179415]]"
-  - "[[_Standards/WikiData/WD~anti-inflammatory agent,581996]]"
-  - "[[_Standards/WikiData/WD~symptomatic treatment,621558]]"
-  - "[[_Standards/WikiData/WD~orthopedic surgery,15218776]]"
-  - "[[_Standards/WikiData/WD~physiotherapy,16643870]]"
-  - "[[_Standards/WikiData/WD~hypnotic,62962]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-medical examination:
-  - "[[_Standards/WikiData/WD~physical examination,835153]]"
-  - "[[_Standards/WikiData/WD~viral culture,7933598]]"
-  - "[[_Standards/WikiData/WD~serological test,25438941]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~peripheral neuropathy,945238]]"
-  - "[[_Standards/WikiData/WD~viral infectious disease,1928978]]"
-  - "[[_Standards/WikiData/WD~central nervous system viral disease,5062121]]"
-  - "[[_Standards/WikiData/WD~Enterovirus infectious disease,19000403]]"
-  - "[[_Standards/WikiData/WD~acquired motor neuron disease,55789139]]"
-  - "[[_Standards/WikiData/WD~pandemic and epidemic-prone diseases,131345497]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-disease transmission process:
-  - "[[_Standards/WikiData/WD~fecal–oral route,2272069]]"
-  - "[[_Standards/WikiData/WD~contact transmission,15304512]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-has cause: "[[_Standards/WikiData/WD~poliovirus,12438936]]"
-instance of:
-  - "[[_Standards/WikiData/WD~infectious disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
-has natural reservoir: "[[_Standards/WikiData/WD~human,5]]"
-minimal incubation period in humans: 5
-maximal incubation period in humans: 35
-OmegaWiki Defined Meaning: "7856"
-DiseasesDB: "10209"
-U.S. National Archives Identifier: "10644486"
-Commons category: Polio
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Polio%20sequelle.jpg
-exact match:
-  - http://identifiers.org/doid/DOID:4953
-  - http://purl.obolibrary.org/obo/DOID_4953
-  - http://www.orpha.net/ORDO/Orphanet_2912
+named_after:
+- "[[_Standards/WikiData/WD~Jakob Heine,70238]]"
+- "[[_Standards/WikiData/WD~Karl Oskar Medin,524574]]"
+health_specialty:
+- '[[_Standards/WikiData/WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~orthopedics,216685]]'
+- "[[_Standards/WikiData/WD~infectious diseases,788926]]"
+symptoms_and_signs:
+- '[[_Standards/WikiData/WD~paralysis,107231]]'
+- '[[_Standards/WikiData/WD~vomiting,127076]]'
+- "[[_Standards/WikiData/WD~muscle weakness,270421]]"
+- '[[_Standards/WikiData/WD~paresis,1126769]]'
+- "[[_Standards/WikiData/WD~meningism signs,12122651]]"
+- '[[_Standards/WikiData/WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~diarrhea,40878]]'
+anatomical_location: "[[_Standards/WikiData/WD~peripheral nervous system,169953]]"
+possible_treatment:
+- '[[_Standards/WikiData/WD~massage,179415]]'
+- "[[_Standards/WikiData/WD~anti-inflammatory agent,581996]]"
+- "[[_Standards/WikiData/WD~symptomatic treatment,621558]]"
+- "[[_Standards/WikiData/WD~orthopedic surgery,15218776]]"
+- '[[_Standards/WikiData/WD~physiotherapy,16643870]]'
+- '[[_Standards/WikiData/WD~hypnotic,62962]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
+medical_examination:
+- "[[_Standards/WikiData/WD~physical examination,835153]]"
+- "[[_Standards/WikiData/WD~viral culture,7933598]]"
+- "[[_Standards/WikiData/WD~serological test,25438941]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~peripheral neuropathy,945238]]"
+- "[[_Standards/WikiData/WD~viral infectious disease,1928978]]"
+- "[[_Standards/WikiData/WD~central nervous system viral disease,5062121]]"
+- "[[_Standards/WikiData/WD~Enterovirus infectious disease,19000403]]"
+- "[[_Standards/WikiData/WD~acquired motor neuron disease,55789139]]"
+- "[[_Standards/WikiData/WD~pandemic and epidemic-prone diseases,131345497]]"
+- '[[_Standards/WikiData/WD~disease,12136]]'
+disease_transmission_process:
+- "[[_Standards/WikiData/WD~fecal–oral route,2272069]]"
+- "[[_Standards/WikiData/WD~contact transmission,15304512]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+has_cause: '[[_Standards/WikiData/WD~poliovirus,12438936]]'
+instance_of:
+- "[[_Standards/WikiData/WD~infectious disease,18123741]]"
+- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+- "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
+has_natural_reservoir: '[[_Standards/WikiData/WD~human,5]]'
+minimal_incubation_period_in_humans: 5
+maximal_incubation_period_in_humans: 35
+OmegaWiki_Defined_Meaning: 7856
+DiseasesDB: 10209
+U_S_National_Archives_Identifier: 10644486
+Commons_category: Polio
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Polio%20sequelle.jpg"
+exact_match:
+- "http://identifiers.org/doid/DOID:4953"
+- "http://purl.obolibrary.org/obo/DOID_4953"
+- "http://www.orpha.net/ORDO/Orphanet_2912"
 ---
-
 
 ## #has_/text_of_/abstract 
 

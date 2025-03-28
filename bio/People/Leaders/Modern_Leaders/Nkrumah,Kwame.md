@@ -1,96 +1,95 @@
----
+﻿---
 aliases:
-  - Kwame Nkrumah
-  - Francis Kwame Nkrumah
+- "Kwame Nkrumah"
+- "Francis Kwame Nkrumah"
 has_id_wikidata: Q8620
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~lecturer,1569495]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-educated at:
-  - "[[_Standards/WikiData/WD~London School of Economics and Political Science,174570]]"
-  - "[[_Standards/WikiData/WD~Lincoln University,4570781]]"
-  - "[[_Standards/WikiData/WD~Achimota School,4673779]]"
-  - "[[_Standards/WikiData/WD~University of Pennsylvania Graduate School of Education,7896078]]"
-cause of death:
-  - "[[_Standards/WikiData/WD~prostate cancer,181257]]"
-  - "[[_Standards/WikiData/WD~skin cancer,192102]]"
-country of citizenship:
-  - "[[_Standards/WikiData/WD~Gold Coast Colony,503623]]"
-  - "[[_Standards/WikiData/WD~Ghana,117]]"
-honorific suffix: "[[_Standards/WikiData/WD~Privy Council of the United Kingdom,683120]]"
-award received:
-  - "[[_Standards/WikiData/WD~Order of the Companions of O. R. Tambo,727815]]"
-  - "[[_Standards/WikiData/WD~Knight Grand Cross with Collar of the Order of Merit of the Italian Republic,14539990]]"
-  - "[[_Standards/WikiData/WD~Grand Cross of the Order of Polonia Restituta,15715257]]"
-  - "[[_Standards/WikiData/WD~Collar of the Order of the White Lion,20966612]]"
-work location:
-  - "[[_Standards/WikiData/WD~Axim,792509]]"
-  - "[[_Standards/WikiData/WD~Elmina,968662]]"
-given name: "[[_Standards/WikiData/WD~Kwame,965276]]"
-member of political party:
-  - "[[_Standards/WikiData/WD~Convention People's Party,1129392]]"
-  - "[[_Standards/WikiData/WD~United Gold Coast Convention,2495200]]"
-position held:
-  - "[[_Standards/WikiData/WD~Minister for Foreign Affairs,1829500]]"
-  - "[[_Standards/WikiData/WD~President of Ghana,2672728]]"
-  - "[[_Standards/WikiData/WD~Prime Minister of Ghana,3657870]]"
-  - "[[_Standards/WikiData/WD~Minister for Defence,6865779]]"
-  - "[[_Standards/WikiData/WD~Minister for the Interior of Ghana,6866006]]"
-  - "[[_Standards/WikiData/WD~chairperson of the Organisation of African Unity,19161632]]"
-  - "[[_Standards/WikiData/WD~Member of the Parliament of Ghana,21290881]]"
-  - "[[_Standards/WikiData/WD~President of Guinea,28015517]]"
-  - "[[_Standards/WikiData/WD~Member of the Privy Council of the United Kingdom,28841847]]"
-  - "[[_Standards/WikiData/WD~Member of the 1st Parliament of the Gold Coast,107280864]]"
-  - "[[_Standards/WikiData/WD~Member of the 1st Parliament of the 1st Republic of Ghana,107392874]]"
-  - "[[_Standards/WikiData/WD~Member of the 2nd Parliament of the Gold Coast,107400457]]"
-place of burial:
-  - "[[_Standards/WikiData/WD~Nkroful,1994408]]"
-  - "[[_Standards/WikiData/WD~Kwame Nkrumah Mausoleum,13848097]]"
-  - "[[_Standards/WikiData/WD~Accra,3761]]"
-place of birth: "[[_Standards/WikiData/WD~Nkroful,1994408]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Dictionary of African Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Africa_ An Encyclopedic Reference,115653803]]"
-manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~diplomat,193391]]'
+- '[[_Standards/WikiData/WD~lecturer,1569495]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+educated_at:
+- "[[_Standards/WikiData/WD~London School of Economics and Political Science,174570]]"
+- "[[_Standards/WikiData/WD~Lincoln University,4570781]]"
+- "[[_Standards/WikiData/WD~Achimota School,4673779]]"
+- "[[_Standards/WikiData/WD~University of Pennsylvania Graduate School of Education,7896078]]"
+cause_of_death:
+- "[[_Standards/WikiData/WD~prostate cancer,181257]]"
+- "[[_Standards/WikiData/WD~skin cancer,192102]]"
+country_of_citizenship:
+- "[[_Standards/WikiData/WD~Gold Coast Colony,503623]]"
+- '[[_Standards/WikiData/WD~Ghana,117]]'
+honorific_suffix: "[[_Standards/WikiData/WD~Privy Council of the United Kingdom,683120]]"
+award_received:
+- "[[_Standards/WikiData/WD~Order of the Companions of O. R. Tambo,727815]]"
+- "[[_Standards/WikiData/WD~Knight Grand Cross with Collar of the Order of Merit of the Italian Republic,14539990]]"
+- "[[_Standards/WikiData/WD~Grand Cross of the Order of Polonia Restituta,15715257]]"
+- "[[_Standards/WikiData/WD~Collar of the Order of the White Lion,20966612]]"
+work_location:
+- '[[_Standards/WikiData/WD~Axim,792509]]'
+- '[[_Standards/WikiData/WD~Elmina,968662]]'
+given_name: '[[_Standards/WikiData/WD~Kwame,965276]]'
+member_of_political_party:
+- "[[_Standards/WikiData/WD~Convention People's Party,1129392]]"
+- "[[_Standards/WikiData/WD~United Gold Coast Convention,2495200]]"
+position_held:
+- "[[_Standards/WikiData/WD~Minister for Foreign Affairs,1829500]]"
+- "[[_Standards/WikiData/WD~President of Ghana,2672728]]"
+- "[[_Standards/WikiData/WD~Prime Minister of Ghana,3657870]]"
+- "[[_Standards/WikiData/WD~Minister for Defence,6865779]]"
+- "[[_Standards/WikiData/WD~Minister for the Interior of Ghana,6866006]]"
+- "[[_Standards/WikiData/WD~chairperson of the Organisation of African Unity,19161632]]"
+- "[[_Standards/WikiData/WD~Member of the Parliament of Ghana,21290881]]"
+- "[[_Standards/WikiData/WD~President of Guinea,28015517]]"
+- "[[_Standards/WikiData/WD~Member of the Privy Council of the United Kingdom,28841847]]"
+- "[[_Standards/WikiData/WD~Member of the 1st Parliament of the Gold Coast,107280864]]"
+- "[[_Standards/WikiData/WD~Member of the 1st Parliament of the 1st Republic of Ghana,107392874]]"
+- "[[_Standards/WikiData/WD~Member of the 2nd Parliament of the Gold Coast,107400457]]"
+place_of_burial:
+- '[[_Standards/WikiData/WD~Nkroful,1994408]]'
+- "[[_Standards/WikiData/WD~Kwame Nkrumah Mausoleum,13848097]]"
+- '[[_Standards/WikiData/WD~Accra,3761]]'
+place_of_birth: '[[_Standards/WikiData/WD~Nkroful,1994408]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Dictionary of African Biography,46002746]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Africa_ An Encyclopedic Reference,115653803]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
 child:
-  - "[[_Standards/WikiData/WD~Gamal Nkrumah,5519561]]"
-  - "[[_Standards/WikiData/WD~Samia Nkrumah,7409415]]"
-  - "[[_Standards/WikiData/WD~Sekou Nkrumah,16734082]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-member of: "[[_Standards/WikiData/WD~Phi Beta Sigma,7181514]]"
-military or police rank: "[[_Standards/WikiData/WD~field marshal,7821620]]"
-family name: "[[_Standards/WikiData/WD~Nkrumah,25113640]]"
-notable work: "[[_Standards/WikiData/WD~Africa Must Unite,103844411]]"
-partner in business or sport: "[[_Standards/WikiData/WD~David Wilberforce Kwami Dawson,112708966]]"
-participant in: "[[_Standards/WikiData/WD~Conference on Africa,114871694]]"
-ISNI: "0000000110549118"
-BHCL UUID: 807156f8-9896-4017-af80-9341a71ff5b5
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Akan,28026]]"
-  - "[[_Standards/WikiData/WD~Fante,35570]]"
-  - "[[_Standards/WikiData/WD~Nzema,36337]]"
-religion or worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
-place of death: "[[_Standards/WikiData/WD~Bucharest,19660]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-native language: "[[_Standards/WikiData/WD~Fante,35570]]"
-date of death: 1972-04-27T00:00:00Z
-image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20National%20Archives%20UK%20-%20CO%201069-50-1.jpg
-Ghana Place Names URL: https://sites.google.com/site/ghanaplacenames/places-in-perspective/birthplaces#h.gb1ksetz76dk
-U.S. National Archives Identifier: "134379849"
+- "[[_Standards/WikiData/WD~Gamal Nkrumah,5519561]]"
+- "[[_Standards/WikiData/WD~Samia Nkrumah,7409415]]"
+- "[[_Standards/WikiData/WD~Sekou Nkrumah,16734082]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+member_of: "[[_Standards/WikiData/WD~Phi Beta Sigma,7181514]]"
+military_or_police_rank: "[[_Standards/WikiData/WD~field marshal,7821620]]"
+family_name: '[[_Standards/WikiData/WD~Nkrumah,25113640]]'
+notable_work: "[[_Standards/WikiData/WD~Africa Must Unite,103844411]]"
+partner_in_business_or_sport: "[[_Standards/WikiData/WD~David Wilberforce Kwami Dawson,112708966]]"
+participant_in: "[[_Standards/WikiData/WD~Conference on Africa,114871694]]"
+ISNI: 0000000110549118
+BHCL_UUID: 807156f8-9896-4017-af80-9341a71ff5b5
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Akan,28026]]'
+- '[[_Standards/WikiData/WD~Fante,35570]]'
+- '[[_Standards/WikiData/WD~Nzema,36337]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
+place_of_death: '[[_Standards/WikiData/WD~Bucharest,19660]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+native_language: '[[_Standards/WikiData/WD~Fante,35570]]'
+date_of_death: "1972-04-27T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20National%20Archives%20UK%20-%20CO%201069-50-1.jpg"
+Ghana_Place_Names_URL: "https://sites.google.com/site/ghanaplacenames/places-in-perspective/birthplaces#h.gb1ksetz76dk"
+U_S_National_Archives_Identifier: 134379849
 Libris-URI: dbqt0xmx367xhb1
-Krugosvet article: istoriya/NKRUMA_KVAME.html
-Commons gallery: Kwame Nkrumah
-Commons category: Kwame Nkrumah
-name in native language: Kwame Nkrumah
-date of birth: 1909-09-21T00:00:00Z
+Krugosvet_article: istoriya/NKRUMA_KVAME.html
+Commons_gallery: "Kwame Nkrumah"
+Commons_category: "Kwame Nkrumah"
+name_in_native_language: "Kwame Nkrumah"
+date_of_birth: "1909-09-21T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

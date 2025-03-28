@@ -1,116 +1,117 @@
----
-license: CC BY-SA 4.0
+﻿---
+license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
 isReadOnly: false
 cssclasses:
-  - Type
+- Type
 publish: true
 type: Type
-title: is_a_protein Class
-linkTitle: is_a_protein Class
+title: "is_a_protein Class"
+linkTitle: "is_a_protein Class"
 keywords:
-  - protein
+- protein
 layout: 
 draft: false
 publishDate: 
 expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 aliases:
-  - protein
-  - protein
-  - Protein
-  - is_a_protein
-  - Eiweiß
+- protein
+- protein
+- Protein
+- is_a_protein
+- Eiweiß
 has_id_wikidata: Q8054
-UNSPSC Code: "12352202"
-MeSH tree code: D12.776
-Krugosvet article: khimiya/belki
-Wolfram Language entity type: Protein
-part of:
-  - "[[_Standards/WikiData/WD~ribonucleoprotein complex,417662]]"
-  - "[[_Standards/WikiData/WD~establishment of protein localization,14912137]]"
-  - "[[_Standards/WikiData/WD~ribonucleoprotein granule,21106243]]"
-  - "[[_Standards/WikiData/WD~regulation of protein catabolic process at synapse, modulating synaptic transmission,22252481]]"
-  - "[[_Standards/WikiData/WD~protein catabolic process, modulating synaptic transmission,22282565]]"
-  - "[[_Standards/WikiData/WD~protein localization to spindle pole body,22289142]]"
-  - "[[_Standards/WikiData/WD~establishment of protein localization to spindle pole body,22289146]]"
-  - "[[_Standards/WikiData/WD~protein transmembrane transport,22290846]]"
-  - "[[_Standards/WikiData/WD~protein localization to mitotic spindle pole body,22290921]]"
-  - "[[_Standards/WikiData/WD~protein localization to meiotic spindle pole body,22290970]]"
-  - "[[_Standards/WikiData/WD~protein localization to cell cortex of cell tip,22291013]]"
-  - "[[_Standards/WikiData/WD~membrane insertase activity,22324804]]"
-  - "[[_Standards/WikiData/WD~protein localization to cell wall,24480048]]"
-  - "[[_Standards/WikiData/WD~protein transport along microtubule to mitotic spindle pole body,26252194]]"
-  - "[[_Standards/WikiData/WD~microtubule polymerization based protein transport,27948963]]"
-  - "[[_Standards/WikiData/WD~microtubule polymerization based protein transport to cell tip cortex,27948964]]"
-  - "[[_Standards/WikiData/WD~protein catabolic process at postsynapse,56058202]]"
-  - "[[_Standards/WikiData/WD~regulation protein catabolic process at synapse,56058203]]"
-  - "[[_Standards/WikiData/WD~protein catabolic process at synapse,56058200]]"
-  - "[[_Standards/WikiData/WD~protein catabolic process at presynapse,56058201]]"
-  - "[[_Standards/WikiData/WD~regulation protein catabolic process at presynapse,56058204]]"
-  - "[[_Standards/WikiData/WD~regulation protein catabolic process at postsynapse,56058205]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~biopolymer,422649]]"
-  - "[[_Standards/WikiData/WD~gene product,424689]]"
-  - "[[_Standards/WikiData/WD~polypeptide,3084232]]"
-  - "[[_Standards/WikiData/WD~biological macromolecule,66560214]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~protein structure,735188]]"
-  - "[[_Standards/WikiData/WD~protein tertiary structure,898483]]"
-  - "[[_Standards/WikiData/WD~protein quaternary structure,898529]]"
-  - "[[_Standards/WikiData/WD~protein primary structure,899763]]"
-  - "[[_Standards/WikiData/WD~protein secondary structure,904984]]"
-  - "[[_Standards/WikiData/WD~protein dynamics,17156992]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Protein topics,6269469]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox protein,52493]]"
-different from:
-  - "[[_Standards/WikiData/WD~Protein,7251423]]"
-  - "[[_Standards/WikiData/WD~Proteīni,123615447]]"
-encoded by: "[[_Standards/WikiData/WD~protein-coding gene,20747295]]"
-model item: "[[_Standards/WikiData/WD~protein,21296145]]"
-instance of:
-  - "[[_Standards/WikiData/WD~second-order class,24017414]]"
-  - "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
-has cause: "[[_Standards/WikiData/WD~genome to protein translation,38594761]]"
-studied in:
-  - "[[_Standards/WikiData/WD~protein science,50490180]]"
-  - "[[_Standards/WikiData/WD~protein chemistry,105252429]]"
-Universal Decimal Classification: "547.96"
-EntitySchema for this class: E167
-equivalent class:
-  - https://schema.org/Protein
-  - http://bioschemas.org/Protein
-  - http://dbpedia.org/ontology/Protein
-  - http://purl.obolibrary.org/obo/CHEBI_36080
-  - http://purl.obolibrary.org/obo/PR_000000001
-properties for this type:
-  - UniProt protein ID
-  - RefSeq protein ID
-  - cell component
-  - molecular function
-  - biological process
-  - Ensembl protein ID
-  - regulates (molecular biology)
-has part(s):
-  - "[[_Standards/WikiData/WD~amino acid,8066]]"
-  - "[[_Standards/WikiData/WD~peptide bond,33293]]"
-Commons category: Proteins
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%BD%D5%BA%D5%AB%D5%BF%D5%A1%D5%AF%D5%B8%D6%82%D6%81%D5%B6%D5%A5%D6%80%20%28Protein%29.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Protein%20mosaic.jpg
-exact match:
-  - http://gbol.life/0.1/Protein
-  - http://semanticscience.org/resource/SIO_010043
-Stack Exchange tag: https://biology.stackexchange.com/tags/proteins
+UNSPSC_Code: 12352202
+MeSH_tree_code: D12.776
+Krugosvet_article: khimiya/belki
+Wolfram_Language_entity_type: Protein
+part_of:
+- "[[_Standards/WikiData/WD~ribonucleoprotein complex,417662]]"
+- "[[_Standards/WikiData/WD~establishment of protein localization,14912137]]"
+- "[[_Standards/WikiData/WD~ribonucleoprotein granule,21106243]]"
+- "[[_Standards/WikiData/WD~regulation of protein catabolic process at synapse, modulating synaptic transmission,22252481]]"
+- "[[_Standards/WikiData/WD~protein catabolic process, modulating synaptic transmission,22282565]]"
+- "[[_Standards/WikiData/WD~protein localization to spindle pole body,22289142]]"
+- "[[_Standards/WikiData/WD~establishment of protein localization to spindle pole body,22289146]]"
+- "[[_Standards/WikiData/WD~protein transmembrane transport,22290846]]"
+- "[[_Standards/WikiData/WD~protein localization to mitotic spindle pole body,22290921]]"
+- "[[_Standards/WikiData/WD~protein localization to meiotic spindle pole body,22290970]]"
+- "[[_Standards/WikiData/WD~protein localization to cell cortex of cell tip,22291013]]"
+- "[[_Standards/WikiData/WD~membrane insertase activity,22324804]]"
+- "[[_Standards/WikiData/WD~protein localization to cell wall,24480048]]"
+- "[[_Standards/WikiData/WD~protein transport along microtubule to mitotic spindle pole body,26252194]]"
+- "[[_Standards/WikiData/WD~microtubule polymerization based protein transport,27948963]]"
+- "[[_Standards/WikiData/WD~microtubule polymerization based protein transport to cell tip cortex,27948964]]"
+- "[[_Standards/WikiData/WD~protein catabolic process at postsynapse,56058202]]"
+- "[[_Standards/WikiData/WD~regulation protein catabolic process at synapse,56058203]]"
+- "[[_Standards/WikiData/WD~protein catabolic process at synapse,56058200]]"
+- "[[_Standards/WikiData/WD~protein catabolic process at presynapse,56058201]]"
+- "[[_Standards/WikiData/WD~regulation protein catabolic process at presynapse,56058204]]"
+- "[[_Standards/WikiData/WD~regulation protein catabolic process at postsynapse,56058205]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~biopolymer,422649]]'
+- "[[_Standards/WikiData/WD~gene product,424689]]"
+- '[[_Standards/WikiData/WD~polypeptide,3084232]]'
+- "[[_Standards/WikiData/WD~biological macromolecule,66560214]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~protein structure,735188]]"
+- "[[_Standards/WikiData/WD~protein tertiary structure,898483]]"
+- "[[_Standards/WikiData/WD~protein quaternary structure,898529]]"
+- "[[_Standards/WikiData/WD~protein primary structure,899763]]"
+- "[[_Standards/WikiData/WD~protein secondary structure,904984]]"
+- "[[_Standards/WikiData/WD~protein dynamics,17156992]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Protein topics,6269469]]"
+- "[[_Standards/WikiData/WD~Template_Infobox protein,52493]]"
+different_from:
+- '[[_Standards/WikiData/WD~Protein,7251423]]'
+- '[[_Standards/WikiData/WD~Proteīni,123615447]]'
+encoded_by: "[[_Standards/WikiData/WD~protein-coding gene,20747295]]"
+model_item: '[[_Standards/WikiData/WD~protein,21296145]]'
+instance_of:
+- "[[_Standards/WikiData/WD~second-order class,24017414]]"
+- "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
+has_cause: "[[_Standards/WikiData/WD~genome to protein translation,38594761]]"
+studied_in:
+- "[[_Standards/WikiData/WD~protein science,50490180]]"
+- "[[_Standards/WikiData/WD~protein chemistry,105252429]]"
+Universal_Decimal_Classification: 547.96
+EntitySchema_for_this_class: E167
+equivalent_class:
+- "https://schema.org/Protein"
+- "http://bioschemas.org/Protein"
+- "http://dbpedia.org/ontology/Protein"
+- "http://purl.obolibrary.org/obo/CHEBI_36080"
+- "http://purl.obolibrary.org/obo/PR_000000001"
+properties_for_this_type:
+- "UniProt protein ID"
+- "RefSeq protein ID"
+- "cell component"
+- "molecular function"
+- "biological process"
+- "Ensembl protein ID"
+- "regulates (molecular biology)"
+has_part_s_:
+- "[[_Standards/WikiData/WD~amino acid,8066]]"
+- "[[_Standards/WikiData/WD~peptide bond,33293]]"
+Commons_category: Proteins
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%BD%D5%BA%D5%AB%D5%BF%D5%A1%D5%AF%D5%B8%D6%82%D6%81%D5%B6%D5%A5%D6%80%20%28Protein%29.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Protein%20mosaic.jpg"
+exact_match:
+- "http://gbol.life/0.1/Protein"
+- "http://semanticscience.org/resource/SIO_010043"
+Stack_Exchange_tag: "https://biology.stackexchange.com/tags/proteins"
 ---
+
 ﻿
 
 Class of all proteins.

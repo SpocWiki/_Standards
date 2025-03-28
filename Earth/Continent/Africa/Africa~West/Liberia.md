@@ -1,308 +1,308 @@
----
-member of:
-  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-  - "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Mano River Union,1505172]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African Union,7159]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+﻿---
+member_of:
+- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
+- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Mano River Union,1505172]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~African Union,7159]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
 flag: "[[_Standards/WikiData/WD~flag of Liberia,170795]]"
-head of state: "[[_Standards/WikiData/WD~George Weah,173139]]"
-head of government: "[[_Standards/WikiData/WD~George Weah,173139]]"
-highest judicial authority: "[[_Standards/WikiData/WD~Supreme Court of Liberia,174776]]"
+head_of_state: "[[_Standards/WikiData/WD~George Weah,173139]]"
+head_of_government: "[[_Standards/WikiData/WD~George Weah,173139]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Liberia,174776]]"
 currency: "[[_Standards/WikiData/WD~Liberian dollar,242988]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Liberia,271210]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Liberia,271210]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
 anthem: "[[_Standards/WikiData/WD~All Hail, Liberia, Hail!,324342]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~911,533806]]"
-  - "[[_Standards/WikiData/WD~114,2945964]]"
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~911,533806]]'
+- '[[_Standards/WikiData/WD~114,2945964]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Republic of Maryland,544630]]"
-  - "[[_Standards/WikiData/WD~Colony of Liberia,104830524]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Grand Kru County,574952]]"
-  - "[[_Standards/WikiData/WD~Gbarpolu County,592251]]"
-  - "[[_Standards/WikiData/WD~Bomi County,844127]]"
-  - "[[_Standards/WikiData/WD~Montserrado County,862608]]"
-  - "[[_Standards/WikiData/WD~Nimba,868497]]"
-  - "[[_Standards/WikiData/WD~Lofa County,870130]]"
-  - "[[_Standards/WikiData/WD~Maryland County,870138]]"
-  - "[[_Standards/WikiData/WD~Bong County,877578]]"
-  - "[[_Standards/WikiData/WD~Grand Gedeh County,950841]]"
-  - "[[_Standards/WikiData/WD~River Cess County,955095]]"
-  - "[[_Standards/WikiData/WD~Sinoe County,1043644]]"
-  - "[[_Standards/WikiData/WD~River Gee County,1047875]]"
-  - "[[_Standards/WikiData/WD~Grand Bassa County,1047895]]"
-  - "[[_Standards/WikiData/WD~Grand Cape Mount County,1047921]]"
-  - "[[_Standards/WikiData/WD~Margibi County,1052737]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Liberia,677846]]"
-history of topic: "[[_Standards/WikiData/WD~history of Liberia,866271]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type E,2335536]]"
-  - "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-language used:
-  - "[[_Standards/WikiData/WD~Dan,1158971]]"
-  - "[[_Standards/WikiData/WD~Mende,1478672]]"
-  - "[[_Standards/WikiData/WD~Liberian English,1616241]]"
-  - "[[_Standards/WikiData/WD~Mano,3913286]]"
-  - "[[_Standards/WikiData/WD~Gbii,3914390]]"
-  - "[[_Standards/WikiData/WD~Southern Grebo,3914444]]"
-  - "[[_Standards/WikiData/WD~Klao,3914866]]"
-  - "[[_Standards/WikiData/WD~Dewoin,3914892]]"
-  - "[[_Standards/WikiData/WD~Glio-Ubi,3914977]]"
-  - "[[_Standards/WikiData/WD~Glaro-Twabo,3915313]]"
-  - "[[_Standards/WikiData/WD~Tajuasohn,3915326]]"
-  - "[[_Standards/WikiData/WD~Konobo,3915374]]"
-  - "[[_Standards/WikiData/WD~Sapo,3915386]]"
-  - "[[_Standards/WikiData/WD~Liberian Kreyol,6541128]]"
-  - "[[_Standards/WikiData/WD~Western Krahn,10975611]]"
-  - "[[_Standards/WikiData/WD~Manya,11006832]]"
-  - "[[_Standards/WikiData/WD~Grebo-Gboloo,11019342]]"
-  - "[[_Standards/WikiData/WD~Southern Kissi,11028974]]"
-  - "[[_Standards/WikiData/WD~Northern Grebo,11157042]]"
-  - "[[_Standards/WikiData/WD~Grebo-Barclayville,11157342]]"
-  - "[[_Standards/WikiData/WD~Central Grebo,18385114]]"
-  - "[[_Standards/WikiData/WD~Liberia Kpelle,20527226]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Bandi,34912]]"
-  - "[[_Standards/WikiData/WD~Bassa,34949]]"
-  - "[[_Standards/WikiData/WD~Grebo,35257]]"
-  - "[[_Standards/WikiData/WD~Gola,35482]]"
-  - "[[_Standards/WikiData/WD~Kuwaa,35579]]"
-  - "[[_Standards/WikiData/WD~Kpelle,35673]]"
-  - "[[_Standards/WikiData/WD~Loma,35885]]"
-  - "[[_Standards/WikiData/WD~Vai,36939]]"
-different from: "[[_Standards/WikiData/WD~Liberia,1205628]]"
-highest point: "[[_Standards/WikiData/WD~Mount Wuteve,1950836]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Liberia,2453399]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Liberia,2477633]]"
-central bank: "[[_Standards/WikiData/WD~Central Bank of Liberia,2899684]]"
+- "[[_Standards/WikiData/WD~Republic of Maryland,544630]]"
+- "[[_Standards/WikiData/WD~Colony of Liberia,104830524]]"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Grand Kru County,574952]]"
+- "[[_Standards/WikiData/WD~Gbarpolu County,592251]]"
+- "[[_Standards/WikiData/WD~Bomi County,844127]]"
+- "[[_Standards/WikiData/WD~Montserrado County,862608]]"
+- '[[_Standards/WikiData/WD~Nimba,868497]]'
+- "[[_Standards/WikiData/WD~Lofa County,870130]]"
+- "[[_Standards/WikiData/WD~Maryland County,870138]]"
+- "[[_Standards/WikiData/WD~Bong County,877578]]"
+- "[[_Standards/WikiData/WD~Grand Gedeh County,950841]]"
+- "[[_Standards/WikiData/WD~River Cess County,955095]]"
+- "[[_Standards/WikiData/WD~Sinoe County,1043644]]"
+- "[[_Standards/WikiData/WD~River Gee County,1047875]]"
+- "[[_Standards/WikiData/WD~Grand Bassa County,1047895]]"
+- "[[_Standards/WikiData/WD~Grand Cape Mount County,1047921]]"
+- "[[_Standards/WikiData/WD~Margibi County,1052737]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Liberia,677846]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Liberia,866271]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- "[[_Standards/WikiData/WD~Type E,2335536]]"
+- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+language_used:
+- '[[_Standards/WikiData/WD~Dan,1158971]]'
+- '[[_Standards/WikiData/WD~Mende,1478672]]'
+- "[[_Standards/WikiData/WD~Liberian English,1616241]]"
+- '[[_Standards/WikiData/WD~Mano,3913286]]'
+- '[[_Standards/WikiData/WD~Gbii,3914390]]'
+- "[[_Standards/WikiData/WD~Southern Grebo,3914444]]"
+- '[[_Standards/WikiData/WD~Klao,3914866]]'
+- '[[_Standards/WikiData/WD~Dewoin,3914892]]'
+- '[[_Standards/WikiData/WD~Glio-Ubi,3914977]]'
+- '[[_Standards/WikiData/WD~Glaro-Twabo,3915313]]'
+- '[[_Standards/WikiData/WD~Tajuasohn,3915326]]'
+- '[[_Standards/WikiData/WD~Konobo,3915374]]'
+- '[[_Standards/WikiData/WD~Sapo,3915386]]'
+- "[[_Standards/WikiData/WD~Liberian Kreyol,6541128]]"
+- "[[_Standards/WikiData/WD~Western Krahn,10975611]]"
+- '[[_Standards/WikiData/WD~Manya,11006832]]'
+- '[[_Standards/WikiData/WD~Grebo-Gboloo,11019342]]'
+- "[[_Standards/WikiData/WD~Southern Kissi,11028974]]"
+- "[[_Standards/WikiData/WD~Northern Grebo,11157042]]"
+- '[[_Standards/WikiData/WD~Grebo-Barclayville,11157342]]'
+- "[[_Standards/WikiData/WD~Central Grebo,18385114]]"
+- "[[_Standards/WikiData/WD~Liberia Kpelle,20527226]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Bandi,34912]]'
+- '[[_Standards/WikiData/WD~Bassa,34949]]'
+- '[[_Standards/WikiData/WD~Grebo,35257]]'
+- '[[_Standards/WikiData/WD~Gola,35482]]'
+- '[[_Standards/WikiData/WD~Kuwaa,35579]]'
+- '[[_Standards/WikiData/WD~Kpelle,35673]]'
+- '[[_Standards/WikiData/WD~Loma,35885]]'
+- '[[_Standards/WikiData/WD~Vai,36939]]'
+different_from: '[[_Standards/WikiData/WD~Liberia,1205628]]'
+highest_point: "[[_Standards/WikiData/WD~Mount Wuteve,1950836]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Liberia,2453399]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Liberia,2477633]]"
+central_bank: "[[_Standards/WikiData/WD~Central Bank of Liberia,2899684]]"
 culture: "[[_Standards/WikiData/WD~culture of Liberia,3007352]]"
-instance of:
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-legislative body: "[[_Standards/WikiData/WD~Legislature of Liberia,4345418]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Africa_Monrovia,4689514]]"
-  - "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Liberia,7112334]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Liberia,14615827]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of Liberia,19161825]]"
-office held by head of government: "[[_Standards/WikiData/WD~President of Liberia,19161825]]"
-has characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-coordinates of easternmost point: Point(-7.3678 5.33413)
-studied in: "[[_Standards/WikiData/WD~Liberian studies,115669699]]"
-UMLS CUI: C0023617
+instance_of:
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+legislative_body: "[[_Standards/WikiData/WD~Legislature of Liberia,4345418]]"
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~Africa_Monrovia,4689514]]'
+- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Liberia,7112334]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Liberia,14615827]]'
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Liberia,19161825]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Liberia,19161825]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+coordinates_of_easternmost_point: "Point(-7.3678 5.33413)"
+studied_in: "[[_Standards/WikiData/WD~Liberian studies,115669699]]"
+UMLS_CUI: C0023617
 demonym:
-  - ليبيري
-  - ليبيرية
-  - ليبيريين
-  - ليبيريات
-  - Libéarach
-  - Liberian
-  - ليبيري
-  - ليبيرية
-  - ليبيريون
-  - liberiana
-  - liberianu
-  - লাইবেরিয়
-  - Liberiano
-  - Libérien
-  - Libérienne
-  - ליברי
-  - ליברית
-  - libériai
-  - Liberiano
-  - liberiana
-  - liberiane
-  - liberiani
-  - liberiano
-  - liberian
-  - liberian
-  - liberiană
-  - liberieni
-  - liberian
-  - liberiana
-  - liberiane
-  - liberiani
-  - Liberänan
-ISNI: "0000000121813754"
-MeSH tree code: Z01.058.290.190.425
-coordinates of westernmost point: Point(-11.49911 6.92448)
-motto text:
-  - Ein Cariad at Ryddid a Ddaeth a Ni Yma
-  - Любовта към свободата ни доведе тук
-  - The Love Of Liberty Brought Us Here
-nominal GDP:
-  - 4001047150
-  - 3509000000
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Guinea,1006]]"
-  - "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
-  - "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
-country: "[[_Standards/WikiData/WD~Liberia,1014]]"
-official language: "[[_Standards/WikiData/WD~English,1860]]"
-capital: "[[_Standards/WikiData/WD~Monrovia,3748]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
-part of: "[[_Standards/WikiData/WD~West Africa,4412]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-lowest point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-located in or next to body of water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-unemployment rate: 4
-mains voltage:
-  - 120
-  - 220
-marriageable age:
-  - 18
-  - 21
-Inequality-adjusted Human Development Index: 0.33
-BTI Status Index:
-  - 4.2
-  - 2.79
-  - 5.09
-  - 5.28
-  - 5.34
-  - 5.48
-  - 5.54
-  - 5.56
-Happy Planet Index score: 46
-top-level Internet domain: "[[_Standards/WikiData/WD~.lr,42847]]"
-Gini coefficient: 35.3
-BTI Governance Index:
-  - 3.61
-  - 4.96
-  - 5.01
-  - 5.36
-  - 5.84
-  - 6.04
-  - 6.16
-  - 6.17
-  - 6.22
-Human Development Index: 0.481
-ISO 3166-1 numeric code: "430"
-M49 code: "430"
-Democracy Index: 5.32
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bomi%20lake%20banner1.jpg
-geoshape: http://commons.wikimedia.org/data/main/Data:Liberia.map
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Liberia.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%84%D9%8A%D8%A8%D9%8A%D8%B1%D9%8A%D8%A7.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Liberia.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Liberia%20%28orthographic%20projection%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationLiberia.svg
-country calling code: "+231"
+- ليبيري
+- ليبيرية
+- ليبيريين
+- ليبيريات
+- Libéarach
+- Liberian
+- ليبيري
+- ليبيرية
+- ليبيريون
+- liberiana
+- liberianu
+- লাইবেরিয়
+- Liberiano
+- Libérien
+- Libérienne
+- ליברי
+- ליברית
+- libériai
+- Liberiano
+- liberiana
+- liberiane
+- liberiani
+- liberiano
+- liberian
+- liberian
+- liberiană
+- liberieni
+- liberian
+- liberiana
+- liberiane
+- liberiani
+- Liberänan
+ISNI: 0000000121813754
+MeSH_tree_code: Z01.058.290.190.425
+coordinates_of_westernmost_point: "Point(-11.49911 6.92448)"
+motto_text:
+- "Ein Cariad at Ryddid a Ddaeth a Ni Yma"
+- "Любовта към свободата ни доведе тук"
+- "The Love Of Liberty Brought Us Here"
+nominal_GDP:
+- 4001047150
+- 3509000000
+diplomatic_relation:
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Guinea,1006]]'
+- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+country: '[[_Standards/WikiData/WD~Liberia,1014]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+capital: '[[_Standards/WikiData/WD~Monrovia,3748]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
+part_of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+unemployment_rate: 4
+mains_voltage:
+- 120
+- 220
+marriageable_age:
+- 18
+- 21
+Inequality-adjusted_Human_Development_Index: 0.33
+BTI_Status_Index:
+- 4.2
+- 2.79
+- 5.09
+- 5.28
+- 5.34
+- 5.48
+- 5.54
+- 5.56
+Happy_Planet_Index_score: 46
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.lr,42847]]'
+Gini_coefficient: 35.3
+BTI_Governance_Index:
+- 3.61
+- 4.96
+- 5.01
+- 5.36
+- 5.84
+- 6.04
+- 6.16
+- 6.17
+- 6.22
+Human_Development_Index: 0.481
+ISO_3166-1_numeric_code: 430
+M49_code: 430
+Democracy_Index: 5.32
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Bomi%20lake%20banner1.jpg"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Liberia.map"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Liberia.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%84%D9%8A%D8%A8%D9%8A%D8%B1%D9%8A%D8%A7.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Liberia.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav"
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Liberia%20%28orthographic%20projection%29.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LocationLiberia.svg"
+country_calling_code: +231
 Libris-URI: 64jlkc1q0lsvc9z
-CIVICUS Monitor country entry: liberia
-GitHub topic: liberia
-Krugosvet article: strany_mira/LIBERIYA.html
-native label: Republic of Liberia
-official name:
-  - la République du Libéria
-  - Repubblica di Libèria
-  - Liberia
-short name: 🇱🇷
-coordinates of southernmost point: Point(-7.6176 4.35291)
-total fertility rate: 4.719
-maritime identification digits:
-  - "636"
-  - "637"
-death rate:
-  - 8.632
-  - 8.658
-  - 8.753
-  - 8.838
-licence plate code: LB
-ISO 3166-1 alpha-2 code: LR
-WIPO ST.3: LR
-mobile country code: "618"
-birth rate:
-  - 30.996
-  - 31.287
-  - 31.708
-  - 32.181
-IAB code: "1339"
-life expectancy: 62.505
-IOC country code: LBR
-ISO 3166-1 alpha-3 code: LBR
-ITU letter code: LBR
-FIPS 10-4 (countries and regions): LI
+CIVICUS_Monitor_country_entry: liberia
+GitHub_topic: liberia
+Krugosvet_article: strany_mira/LIBERIYA.html
+native_label: "Republic of Liberia"
+official_name:
+- "la République du Libéria"
+- "Repubblica di Libèria"
+- Liberia
+short_name: "\U0001F1F1\U0001F1F7"
+coordinates_of_southernmost_point: "Point(-7.6176 4.35291)"
+total_fertility_rate: 4.719
+maritime_identification_digits:
+- 636
+- 637
+death_rate:
+- 8.632
+- 8.658
+- 8.753
+- 8.838
+licence_plate_code: LB
+ISO_3166-1_alpha-2_code: LR
+WIPO_ST_3: LR
+mobile_country_code: 618
+birth_rate:
+- 30.996
+- 31.287
+- 31.708
+- 32.181
+IAB_code: 1339
+life_expectancy: 62.505
+IOC_country_code: LBR
+ISO_3166-1_alpha-3_code: LBR
+ITU_letter_code: LBR
+FIPS_10-4_countries_and_regions_: LI
 area: 111369
-PM20 geo code: C56
-INSEE countries and foreign territories code: "99302"
+PM20_geo_code: C56
+INSEE_countries_and_foreign_territories_code: 99302
 population: 5214030
-U.S. National Archives Identifier: "10035726"
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg
-rural population:
-  - 2412132
-  - 2437512
-  - 2463081
-  - 2488813
-male population:
-  - 2479442
-  - 2531454
-  - 2585173
-  - 2640702
-female population:
-  - 2505847
-  - 2556131
-  - 2608243
-  - 2661979
-urban population:
-  - 2573157
-  - 2650072
-  - 2730335
-  - 2813868
-Commons gallery: Liberia
-Commons category: Liberia
+U_S_National_Archives_Identifier: 10035726
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg"
+rural_population:
+- 2412132
+- 2437512
+- 2463081
+- 2488813
+male_population:
+- 2479442
+- 2531454
+- 2585173
+- 2640702
+female_population:
+- 2505847
+- 2556131
+- 2608243
+- 2661979
+urban_population:
+- 2573157
+- 2650072
+- 2730335
+- 2813868
+Commons_gallery: Liberia
+Commons_category: Liberia
 subreddit: Liberia
 hashtag: Liberia
-coordinate location: Point(-9.75 6.533333)
-Dewey Decimal Classification: 2--6662
-inception: 1822-01-07T00:00:00Z 
-has_time_started: 1822-01-07T00:00:00Z 
-Unicode character: 🇱🇷
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Liberia.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Liberian%20Capitol%20Building.jpg
-coordinates of northernmost point: Point(-9.77 8.55)
+coordinate_location: "Point(-9.75 6.533333)"
+Dewey_Decimal_Classification: 2--6662
+inception: "1822-01-07T00:00:00Z"
+has_time_started: "1822-01-07T00:00:00Z"
+Unicode_character: "\U0001F1F1\U0001F1F7"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Liberia.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Liberian%20Capitol%20Building.jpg"
+coordinates_of_northernmost_point: "Point(-9.77 8.55)"
 has_id_wikidata: Q1014
 location:
 - 6.31667
@@ -310,13 +310,12 @@ location:
 type: Country
 tags:
 - geo/Country
-has_id_wikidata: Q1014 
 SpocWebEntityId: 26950
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Liberia
@@ -332,8 +331,8 @@ aliases:
 - ليبريا
 - 利比里亚
 - Либерия
-- the Republic of Liberia
-- la República de Liberia
+- "the Republic of Liberia"
+- "la República de Liberia"
 Languages:
 - en-LR
 ---

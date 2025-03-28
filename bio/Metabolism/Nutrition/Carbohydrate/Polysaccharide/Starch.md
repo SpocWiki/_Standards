@@ -1,79 +1,79 @@
----
+﻿---
 aliases:
-  - amylum
+- amylum
 has_id_wikidata: Q41534
-RTECS number: GM5090000
+RTECS_number: GM5090000
 UNII:
-  - O8232NY3SJ
-  - YAQ9FOE480
-  - 24SC3U704I
-  - 4DGK8B7I3S
-  - 79QS2MG2LP
-  - 8I089SAH3T
-  - 904CE6697V
-subclass of:
-  - "[[_Standards/WikiData/WD~polysaccharide,134219]]"
-  - "[[_Standards/WikiData/WD~primary metabolite,3333419]]"
-  - "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~amylose,207466]]"
-  - "[[_Standards/WikiData/WD~amylopectin,271643]]"
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-instance of:
-  - "[[_Standards/WikiData/WD~glucan,416796]]"
-  - "[[_Standards/WikiData/WD~excipient,902638]]"
-  - "[[_Standards/WikiData/WD~food product,951964]]"
-  - "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-has use:
-  - "[[_Standards/WikiData/WD~thickener,911138]]"
-  - "[[_Standards/WikiData/WD~nutriment,1422299]]"
-fabrication method: "[[_Standards/WikiData/WD~starch industry,2843284]]"
-part of:
-  - "[[_Standards/WikiData/WD~starch catabolic process,21118731]]"
-  - "[[_Standards/WikiData/WD~starch binding,21832642]]"
-  - "[[_Standards/WikiData/WD~starch metabolic process,22281683]]"
-  - "[[_Standards/WikiData/WD~starch biosynthetic process,22283028]]"
-associated hazard: "[[_Standards/WikiData/WD~starch exposure,21175313]]"
-has effect: "[[_Standards/WikiData/WD~starch exposure,21175313]]"
-MeSH tree code:
-  - D05.750.078.562.855
-  - D09.301.915
-  - D09.698.365.855
-Dewey Decimal Classification:
-  - "547.78"
-  - "572.566"
-  - "612.01578"
-  - "664.2"
-vapor pressure: 0
-time-weighted average exposure limit:
-  - 10
-  - 5
-  - 15
-minimum explosive concentration: 50
-sublimation temperature: 410
+- O8232NY3SJ
+- YAQ9FOE480
+- 24SC3U704I
+- 4DGK8B7I3S
+- 79QS2MG2LP
+- 8I089SAH3T
+- 904CE6697V
+subclass_of:
+- '[[_Standards/WikiData/WD~polysaccharide,134219]]'
+- "[[_Standards/WikiData/WD~primary metabolite,3333419]]"
+- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~amylose,207466]]'
+- '[[_Standards/WikiData/WD~amylopectin,271643]]'
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
+instance_of:
+- '[[_Standards/WikiData/WD~glucan,416796]]'
+- '[[_Standards/WikiData/WD~excipient,902638]]'
+- "[[_Standards/WikiData/WD~food product,951964]]"
+- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+has_use:
+- '[[_Standards/WikiData/WD~thickener,911138]]'
+- '[[_Standards/WikiData/WD~nutriment,1422299]]'
+fabrication_method: "[[_Standards/WikiData/WD~starch industry,2843284]]"
+part_of:
+- "[[_Standards/WikiData/WD~starch catabolic process,21118731]]"
+- "[[_Standards/WikiData/WD~starch binding,21832642]]"
+- "[[_Standards/WikiData/WD~starch metabolic process,22281683]]"
+- "[[_Standards/WikiData/WD~starch biosynthetic process,22283028]]"
+associated_hazard: "[[_Standards/WikiData/WD~starch exposure,21175313]]"
+has_effect: "[[_Standards/WikiData/WD~starch exposure,21175313]]"
+MeSH_tree_code:
+- D05.750.078.562.855
+- D09.301.915
+- D09.698.365.855
+Dewey_Decimal_Classification:
+- 547.78
+- 572.566
+- 612.01578
+- 664.2
+vapor_pressure: 0
+time-weighted_average_exposure_limit:
+- 10
+- 5
+- 15
+minimum_explosive_concentration: 50
+sublimation_temperature: 410
 density: 1450
-OmegaWiki Defined Meaning: "3608"
-ZVG number: "12160"
-CosIng number: "74532"
-Commons category: Starch
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Almidoitik%20zelulosara.webm
-chemical structure: http://commons.wikimedia.org/wiki/Special:FilePath/Amylopektin%20Sessel.svg
+OmegaWiki_Defined_Meaning: 3608
+ZVG_number: 12160
+CosIng_number: 74532
+Commons_category: Starch
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Almidoitik%20zelulosara.webm"
+chemical_structure: "http://commons.wikimedia.org/wiki/Special:FilePath/Amylopektin%20Sessel.svg"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cornstarch%20mixed%20with%20water.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Potato%20starch.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20starch%20granules.JPG
-EC number: 232-679-6
-CAS Registry Number: 9005-25-8
-FoodEx2 code: A068D
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Cornstarch%20mixed%20with%20water.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Potato%20starch.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20starch%20granules.JPG"
+EC_number: 232-679-6
+CAS_Registry_Number: 9005-25-8
+FoodEx2_code: A068D
 ---
 
 #is_/instance_of :: [[../Polysaccharide]] 

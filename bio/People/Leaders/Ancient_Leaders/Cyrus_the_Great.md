@@ -1,85 +1,84 @@
----
+﻿---
 aliases:
-  - Cyrus the Great
-  - Cyrus II of Persia
+- "Cyrus the Great"
+- "Cyrus II of Persia"
 has_id_wikidata: Q8423
-present in work:
-  - "[[_Standards/WikiData/WD~Isaiah,131458]]"
-  - "[[_Standards/WikiData/WD~Book of Ezra,131635]]"
-  - "[[_Standards/WikiData/WD~Second Book of Chronicles,209720]]"
-  - "[[_Standards/WikiData/WD~Cyropaedia,1145374]]"
-  - "[[_Standards/WikiData/WD~Cyrus the Great in the Quran,5201168]]"
-  - "[[_Standards/WikiData/WD~Cyrus the Great in the Bible,10869901]]"
-  - "[[_Standards/WikiData/WD~Civilization VI,24050047]]"
-replaced by: "[[_Standards/WikiData/WD~Cambyses II,182483]]"
+present_in_work:
+- '[[_Standards/WikiData/WD~Isaiah,131458]]'
+- "[[_Standards/WikiData/WD~Book of Ezra,131635]]"
+- "[[_Standards/WikiData/WD~Second Book of Chronicles,209720]]"
+- '[[_Standards/WikiData/WD~Cyropaedia,1145374]]'
+- "[[_Standards/WikiData/WD~Cyrus the Great in the Quran,5201168]]"
+- "[[_Standards/WikiData/WD~Cyrus the Great in the Bible,10869901]]"
+- "[[_Standards/WikiData/WD~Civilization VI,24050047]]"
+replaced_by: "[[_Standards/WikiData/WD~Cambyses II,182483]]"
 child:
-  - "[[_Standards/WikiData/WD~Cambyses II,182483]]"
-  - "[[_Standards/WikiData/WD~Atossa,233359]]"
-  - "[[_Standards/WikiData/WD~Bardiya,242267]]"
-  - "[[_Standards/WikiData/WD~Artystone,262739]]"
-  - "[[_Standards/WikiData/WD~Roxane,542520]]"
-military casualty classification: "[[_Standards/WikiData/WD~killed in action,210392]]"
-cause of death: "[[_Standards/WikiData/WD~killed in action,210392]]"
+- "[[_Standards/WikiData/WD~Cambyses II,182483]]"
+- '[[_Standards/WikiData/WD~Atossa,233359]]'
+- '[[_Standards/WikiData/WD~Bardiya,242267]]'
+- '[[_Standards/WikiData/WD~Artystone,262739]]'
+- '[[_Standards/WikiData/WD~Roxane,542520]]'
+military_casualty_classification: "[[_Standards/WikiData/WD~killed in action,210392]]"
+cause_of_death: "[[_Standards/WikiData/WD~killed in action,210392]]"
 mother: "[[_Standards/WikiData/WD~Mandane of Media,271260]]"
 father: "[[_Standards/WikiData/WD~Cambyses I,299428]]"
-country of citizenship:
-  - "[[_Standards/WikiData/WD~Achaemenid Empire,389688]]"
-  - "[[_Standards/WikiData/WD~Anshan Persia,569107]]"
+country_of_citizenship:
+- "[[_Standards/WikiData/WD~Achaemenid Empire,389688]]"
+- "[[_Standards/WikiData/WD~Anshan Persia,569107]]"
 spouse:
-  - "[[_Standards/WikiData/WD~Cassandane,442401]]"
-  - "[[_Standards/WikiData/WD~Amitis Shahbanu,482131]]"
-  - "[[_Standards/WikiData/WD~Neithiyti,21011250]]"
-place of death: "[[_Standards/WikiData/WD~Syr Darya,483159]]"
-place of birth: "[[_Standards/WikiData/WD~Anshan Persia,569107]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-different from: "[[_Standards/WikiData/WD~Darius the Mede,603176]]"
-noble title:
-  - "[[_Standards/WikiData/WD~King of Kings,938153]]"
-  - "[[_Standards/WikiData/WD~Great King,3114558]]"
-  - "[[_Standards/WikiData/WD~King of the Universe,15856226]]"
-  - "[[_Standards/WikiData/WD~King of the Four Corners,60773977]]"
-  - "[[_Standards/WikiData/WD~King of Sumer and Akkad,65074230]]"
-position held:
-  - "[[_Standards/WikiData/WD~King of Kings,938153]]"
-  - "[[_Standards/WikiData/WD~Great King,3114558]]"
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~Babylonian,946997]]"
-  - "[[_Standards/WikiData/WD~Old Persian,35225]]"
-  - "[[_Standards/WikiData/WD~Elamite,35470]]"
-said to be the same as:
-  - "[[_Standards/WikiData/WD~Dhul-Qarnayn,1207846]]"
-  - "[[_Standards/WikiData/WD~Kay Bahman,2670570]]"
-  - "[[_Standards/WikiData/WD~Cyrus the Great in the Bible,10869901]]"
+- '[[_Standards/WikiData/WD~Cassandane,442401]]'
+- "[[_Standards/WikiData/WD~Amitis Shahbanu,482131]]"
+- '[[_Standards/WikiData/WD~Neithiyti,21011250]]'
+place_of_death: "[[_Standards/WikiData/WD~Syr Darya,483159]]"
+place_of_birth: "[[_Standards/WikiData/WD~Anshan Persia,569107]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+different_from: "[[_Standards/WikiData/WD~Darius the Mede,603176]]"
+noble_title:
+- "[[_Standards/WikiData/WD~King of Kings,938153]]"
+- "[[_Standards/WikiData/WD~Great King,3114558]]"
+- "[[_Standards/WikiData/WD~King of the Universe,15856226]]"
+- "[[_Standards/WikiData/WD~King of the Four Corners,60773977]]"
+- "[[_Standards/WikiData/WD~King of Sumer and Akkad,65074230]]"
+position_held:
+- "[[_Standards/WikiData/WD~King of Kings,938153]]"
+- "[[_Standards/WikiData/WD~Great King,3114558]]"
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Babylonian,946997]]'
+- "[[_Standards/WikiData/WD~Old Persian,35225]]"
+- '[[_Standards/WikiData/WD~Elamite,35470]]'
+said_to_be_the_same_as:
+- '[[_Standards/WikiData/WD~Dhul-Qarnayn,1207846]]'
+- "[[_Standards/WikiData/WD~Kay Bahman,2670570]]"
+- "[[_Standards/WikiData/WD~Cyrus the Great in the Bible,10869901]]"
 occupation:
-  - "[[_Standards/WikiData/WD~military leader,1402561]]"
-  - "[[_Standards/WikiData/WD~sovereign,2304859]]"
-  - "[[_Standards/WikiData/WD~founder,4479442]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-place of burial: "[[_Standards/WikiData/WD~Tomb of Cyrus the Great,2635530]]"
-religion or worldview: "[[_Standards/WikiData/WD~mazdaism,3303092]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given name: "[[_Standards/WikiData/WD~Cyrus,10861063]]"
+- "[[_Standards/WikiData/WD~military leader,1402561]]"
+- '[[_Standards/WikiData/WD~sovereign,2304859]]'
+- '[[_Standards/WikiData/WD~founder,4479442]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
+place_of_burial: "[[_Standards/WikiData/WD~Tomb of Cyrus the Great,2635530]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~mazdaism,3303092]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Cyrus,10861063]]'
 family: "[[_Standards/WikiData/WD~Achaemenid dynasty,13527812]]"
-Provenio UUID: 7e191ea9-11df-46dd-9898-fed71f8b458e
-ISNI: "0000000437560028"
-date of birth: -0599-01-01T00:00:00Z
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-Commons category: Cyrus the Great
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Men%20and%20Famous%20Women%20Volume%201%20-%20Cyrus%20the%20Great.png
-BHCL UUID: 069ff67f-d90b-4a19-abf0-861c6d55748a
-Wolfram Language entity code: Entity["Concept", "CyrusII::spbg8"]
-Krugosvet article: istoriya/KIR_VELIKI.html
-name in native language: 𐎤𐎢𐎽𐎢𐏁
-date of death: -0529-01-01T00:00:00Z
+Provenio_UUID: 7e191ea9-11df-46dd-9898-fed71f8b458e
+ISNI: 0000000437560028
+date_of_birth: "-0599-01-01T00:00:00Z"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+Commons_category: "Cyrus the Great"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Men%20and%20Famous%20Women%20Volume%201%20-%20Cyrus%20the%20Great.png"
+BHCL_UUID: 069ff67f-d90b-4a19-abf0-861c6d55748a
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"CyrusII::spbg8\"]"
+Krugosvet_article: istoriya/KIR_VELIKI.html
+name_in_native_language: "\U000103A4\U000103A2\U000103BD\U000103A2\U000103C1"
+date_of_death: "-0529-01-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

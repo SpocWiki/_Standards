@@ -1,109 +1,108 @@
----
+﻿---
 aliases:
-  - Che Guevara
-  - Ernesto Che Guevara
+- "Che Guevara"
+- "Ernesto Che Guevara"
 has_id_wikidata: Q5809
 pseudonym:
-  - Fernando Sacamuelas
-  - Furibundo Serna
-  - Luís Hernández Gálvez
-  - Teté
-  - Ramón
-  - Pelado
-  - Fuser
-  - Tatu
-  - Che Guevara
-  - Adolfo Mena González
-  - Chancho
-  - Chang-Cho
-Krugosvet article: istoriya/GEVARA_CHE.html
+- "Fernando Sacamuelas"
+- "Furibundo Serna"
+- "Luís Hernández Gálvez"
+- Teté
+- Ramón
+- Pelado
+- Fuser
+- Tatu
+- "Che Guevara"
+- "Adolfo Mena González"
+- Chancho
+- Chang-Cho
+Krugosvet_article: istoriya/GEVARA_CHE.html
 Libris-URI: xv8bfbqg0h6sc2n
-name in native language: Ernesto Guevara
-birth name: Ernesto Guevara
+name_in_native_language: "Ernesto Guevara"
+birth_name: "Ernesto Guevara"
 mother: "[[_Standards/WikiData/WD~Celia de la Serna,10861998]]"
-award received:
-  - "[[_Standards/WikiData/WD~Order of Augusto César Sandino,16141095]]"
-  - "[[_Standards/WikiData/WD~Collar of the Order of the White Lion,20966612]]"
-  - "[[_Standards/WikiData/WD~Grand Cross of the Order of the Southern Cross,22058319]]"
-  - "[[_Standards/WikiData/WD~Order of the Southern Cross,93713]]"
-  - "[[_Standards/WikiData/WD~Order of the White Lion,93728]]"
-  - "[[_Standards/WikiData/WD~Order of the Republic,2054765]]"
-given name: "[[_Standards/WikiData/WD~Ernesto,16323364]]"
-family name: "[[_Standards/WikiData/WD~Guevara,21491349]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-unmarried partner: "[[_Standards/WikiData/WD~María del Carmen ''Chichina'' Ferreyra,34224327]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
-position held: "[[_Standards/WikiData/WD~Minister of Industry of Cuba,99883982]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Che%20Guevara%20-%20Guerrillero%20Heroico%20by%20Alberto%20Korda.jpg
+award_received:
+- "[[_Standards/WikiData/WD~Order of Augusto César Sandino,16141095]]"
+- "[[_Standards/WikiData/WD~Collar of the Order of the White Lion,20966612]]"
+- "[[_Standards/WikiData/WD~Grand Cross of the Order of the Southern Cross,22058319]]"
+- "[[_Standards/WikiData/WD~Order of the Southern Cross,93713]]"
+- "[[_Standards/WikiData/WD~Order of the White Lion,93728]]"
+- "[[_Standards/WikiData/WD~Order of the Republic,2054765]]"
+given_name: '[[_Standards/WikiData/WD~Ernesto,16323364]]'
+family_name: '[[_Standards/WikiData/WD~Guevara,21491349]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+unmarried_partner: "[[_Standards/WikiData/WD~María del Carmen ''Chichina'' Ferreyra,34224327]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
+position_held: "[[_Standards/WikiData/WD~Minister of Industry of Cuba,99883982]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Che%20Guevara%20-%20Guerrillero%20Heroico%20by%20Alberto%20Korda.jpg"
 ISNI:
-  - "0000000065205614"
-  - 000000012095861X
+- 0000000065205614
+- 000000012095861X
 residence:
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Guatemala,774]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-country of citizenship:
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-interested in:
-  - "[[_Standards/WikiData/WD~poetry,482]]"
-  - "[[_Standards/WikiData/WD~chess,718]]"
-  - "[[_Standards/WikiData/WD~rugby union,5849]]"
-  - "[[_Standards/WikiData/WD~reading,199657]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~Spanish,1321]]"
-influenced by:
-  - "[[_Standards/WikiData/WD~Vladimir Lenin,1394]]"
-  - "[[_Standards/WikiData/WD~Mao Zedong,5816]]"
-  - "[[_Standards/WikiData/WD~Karl Marx,9061]]"
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Guatemala,774]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+country_of_citizenship:
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+interested_in:
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~chess,718]]'
+- "[[_Standards/WikiData/WD~rugby union,5849]]"
+- '[[_Standards/WikiData/WD~reading,199657]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
+influenced_by:
+- "[[_Standards/WikiData/WD~Vladimir Lenin,1394]]"
+- "[[_Standards/WikiData/WD~Mao Zedong,5816]]"
+- "[[_Standards/WikiData/WD~Karl Marx,9061]]"
 sport: "[[_Standards/WikiData/WD~rugby union,5849]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-allegiance: "[[_Standards/WikiData/WD~Cuba,241]]"
-number of children: 5
-medical condition: "[[_Standards/WikiData/WD~asthma,35869]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+allegiance: '[[_Standards/WikiData/WD~Cuba,241]]'
+number_of_children: 5
+medical_condition: '[[_Standards/WikiData/WD~asthma,35869]]'
 height: 176
-place of birth: "[[_Standards/WikiData/WD~Rosario,52535]]"
-date of death: 1967-10-09T00:00:00Z
-U.S. National Archives Identifier: "10580374"
+place_of_birth: '[[_Standards/WikiData/WD~Rosario,52535]]'
+date_of_death: "1967-10-09T00:00:00Z"
+U_S_National_Archives_Identifier: 10580374
 nickname: Che
-date of birth: 1928-06-14T00:00:00Z
-Commons gallery: Che Guevara
-Commons category: Che Guevara
-manner of death: "[[_Standards/WikiData/WD~homicide,149086]]"
-educated at: "[[_Standards/WikiData/WD~University of Buenos Aires,194223]]"
+date_of_birth: "1928-06-14T00:00:00Z"
+Commons_gallery: "Che Guevara"
+Commons_category: "Che Guevara"
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
+educated_at: "[[_Standards/WikiData/WD~University of Buenos Aires,194223]]"
 occupation:
-  - "[[_Standards/WikiData/WD~partisan,212948]]"
-  - "[[_Standards/WikiData/WD~revolutionary,3242115]]"
-member of: "[[_Standards/WikiData/WD~26th of July Movement,218452]]"
-place of death: "[[_Standards/WikiData/WD~La Higuera,257326]]"
+- '[[_Standards/WikiData/WD~partisan,212948]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+member_of: "[[_Standards/WikiData/WD~26th of July Movement,218452]]"
+place_of_death: "[[_Standards/WikiData/WD~La Higuera,257326]]"
 spouse:
-  - "[[_Standards/WikiData/WD~Hilda Gadea,288348]]"
-  - "[[_Standards/WikiData/WD~Aleida March,2336896]]"
-member of political party: "[[_Standards/WikiData/WD~Communist Party of Cuba,371402]]"
+- "[[_Standards/WikiData/WD~Hilda Gadea,288348]]"
+- "[[_Standards/WikiData/WD~Aleida March,2336896]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Communist Party of Cuba,371402]]"
 child: "[[_Standards/WikiData/WD~Aleida Guevara,438288]]"
-killed by: "[[_Standards/WikiData/WD~Mario Terán,934119]]"
-military or police rank: "[[_Standards/WikiData/WD~major,983927]]"
-notable work:
-  - "[[_Standards/WikiData/WD~Guerrilla Warfare,1196149]]"
-  - "[[_Standards/WikiData/WD~The Bolivian diary,3706824]]"
-place of burial: "[[_Standards/WikiData/WD~Che Guevara Mausoleum,1946569]]"
-cause of death: "[[_Standards/WikiData/WD~gunshot wound,2140674]]"
-hair color: "[[_Standards/WikiData/WD~brown hair,2367101]]"
+killed_by: "[[_Standards/WikiData/WD~Mario Terán,934119]]"
+military_or_police_rank: '[[_Standards/WikiData/WD~major,983927]]'
+notable_work:
+- "[[_Standards/WikiData/WD~Guerrilla Warfare,1196149]]"
+- "[[_Standards/WikiData/WD~The Bolivian diary,3706824]]"
+place_of_burial: "[[_Standards/WikiData/WD~Che Guevara Mausoleum,1946569]]"
+cause_of_death: "[[_Standards/WikiData/WD~gunshot wound,2140674]]"
+hair_color: "[[_Standards/WikiData/WD~brown hair,2367101]]"
 father: "[[_Standards/WikiData/WD~Ernesto Guevara Lynch,4316165]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Che Guevara,6870740]]"
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/CheGuevaraSignature.svg
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Che%20Guevara-article.ogg
-NLC authorities: "000141541"
-BHCL UUID: b19cd5d2-69d1-4b52-b711-8b340c01dd88
-Wolfram Language entity code: Entity["Person", "CheGuevara::95v73"]
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Che Guevara,6870740]]"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/CheGuevaraSignature.svg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Che%20Guevara-article.ogg"
+NLC_authorities: 000141541
+BHCL_UUID: b19cd5d2-69d1-4b52-b711-8b340c01dd88
+Wolfram_Language_entity_code: "Entity[\"Person\", \"CheGuevara::95v73\"]"
 ---
-
 
 ## #has_/text_of_/abstract 
 

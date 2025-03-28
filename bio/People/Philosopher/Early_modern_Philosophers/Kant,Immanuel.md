@@ -1,144 +1,144 @@
----
+﻿---
 aliases:
-  - Immanuel Kant
+- "Immanuel Kant"
 has_id_wikidata: Q9312
 student:
-  - "[[_Standards/WikiData/WD~Jakob Sigismund Beck,70666]]"
-  - "[[_Standards/WikiData/WD~Markus Herz,72151]]"
-  - "[[_Standards/WikiData/WD~Christian Jakob Kraus,77881]]"
-  - "[[_Standards/WikiData/WD~Johann Gottlieb Fichte,102585]]"
-student of:
-  - "[[_Standards/WikiData/WD~Martin Knutzen,70793]]"
-  - "[[_Standards/WikiData/WD~Johann Gottfried Teske,1694154]]"
-doctoral student:
-  - "[[_Standards/WikiData/WD~Markus Herz,72151]]"
-  - "[[_Standards/WikiData/WD~Johann Gottlieb Fichte,102585]]"
-  - "[[_Standards/WikiData/WD~Karl Leonhard Reinhold,112258]]"
-  - "[[_Standards/WikiData/WD~Anton Friedrich Justus Thibaut,60865]]"
-religion or worldview: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
-influenced by:
-  - "[[_Standards/WikiData/WD~Christian Wolff,76510]]"
-  - "[[_Standards/WikiData/WD~George Berkeley,82049]]"
-  - "[[_Standards/WikiData/WD~Nicolas Malebranche,309818]]"
-  - "[[_Standards/WikiData/WD~Francis Hutcheson,316367]]"
-  - "[[_Standards/WikiData/WD~Plato,859]]"
-  - "[[_Standards/WikiData/WD~Isaac Newton,935]]"
-  - "[[_Standards/WikiData/WD~Jean-Jacques Rousseau,6527]]"
-  - "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
-  - "[[_Standards/WikiData/WD~René Descartes,9191]]"
-  - "[[_Standards/WikiData/WD~John Locke,9353]]"
-  - "[[_Standards/WikiData/WD~Benedictus de Spinoza,35802]]"
-  - "[[_Standards/WikiData/WD~David Hume,37160]]"
-  - "[[_Standards/WikiData/WD~Michel de Montaigne,41568]]"
-  - "[[_Standards/WikiData/WD~Johannes Nikolaus Tetens,63081]]"
-member of:
-  - "[[_Standards/WikiData/WD~Russian Academy of Sciences,83172]]"
-  - "[[_Standards/WikiData/WD~Royal Prussian Academy of Sciences,329464]]"
+- "[[_Standards/WikiData/WD~Jakob Sigismund Beck,70666]]"
+- "[[_Standards/WikiData/WD~Markus Herz,72151]]"
+- "[[_Standards/WikiData/WD~Christian Jakob Kraus,77881]]"
+- "[[_Standards/WikiData/WD~Johann Gottlieb Fichte,102585]]"
+student_of:
+- "[[_Standards/WikiData/WD~Martin Knutzen,70793]]"
+- "[[_Standards/WikiData/WD~Johann Gottfried Teske,1694154]]"
+doctoral_student:
+- "[[_Standards/WikiData/WD~Markus Herz,72151]]"
+- "[[_Standards/WikiData/WD~Johann Gottlieb Fichte,102585]]"
+- "[[_Standards/WikiData/WD~Karl Leonhard Reinhold,112258]]"
+- "[[_Standards/WikiData/WD~Anton Friedrich Justus Thibaut,60865]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+influenced_by:
+- "[[_Standards/WikiData/WD~Christian Wolff,76510]]"
+- "[[_Standards/WikiData/WD~George Berkeley,82049]]"
+- "[[_Standards/WikiData/WD~Nicolas Malebranche,309818]]"
+- "[[_Standards/WikiData/WD~Francis Hutcheson,316367]]"
+- '[[_Standards/WikiData/WD~Plato,859]]'
+- "[[_Standards/WikiData/WD~Isaac Newton,935]]"
+- "[[_Standards/WikiData/WD~Jean-Jacques Rousseau,6527]]"
+- "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
+- "[[_Standards/WikiData/WD~René Descartes,9191]]"
+- "[[_Standards/WikiData/WD~John Locke,9353]]"
+- "[[_Standards/WikiData/WD~Benedictus de Spinoza,35802]]"
+- "[[_Standards/WikiData/WD~David Hume,37160]]"
+- "[[_Standards/WikiData/WD~Michel de Montaigne,41568]]"
+- "[[_Standards/WikiData/WD~Johannes Nikolaus Tetens,63081]]"
+member_of:
+- "[[_Standards/WikiData/WD~Russian Academy of Sciences,83172]]"
+- "[[_Standards/WikiData/WD~Royal Prussian Academy of Sciences,329464]]"
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~librarian,182436]]"
-  - "[[_Standards/WikiData/WD~pedagogue,1231865]]"
-  - "[[_Standards/WikiData/WD~university teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~anthropologist,4773904]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~philosopher of law,23760244]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-notable work:
-  - "[[_Standards/WikiData/WD~Critique of Pure Reason,220002]]"
-  - "[[_Standards/WikiData/WD~Answering the Question_ What Is Enlightenment_,812981]]"
-  - "[[_Standards/WikiData/WD~Critique of Practical Reason,870851]]"
-  - "[[_Standards/WikiData/WD~Critique of Judgment,1056332]]"
-  - "[[_Standards/WikiData/WD~The Metaphysics of Morals,1214817]]"
-  - "[[_Standards/WikiData/WD~Religion within the Bounds of Bare Reason,1215763]]"
-  - "[[_Standards/WikiData/WD~Groundwork of the Metaphysic of Morals,1550565]]"
-  - "[[_Standards/WikiData/WD~Prolegomena to Any Future Metaphysics,1761342]]"
-place of burial: "[[_Standards/WikiData/WD~Königsberg Cathedral,225459]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Allgemeine Deutsche Biographie,590208]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Pedagogues and Psychologists of the World,126722605]]"
-  - "[[_Standards/WikiData/WD~Astronomers_ A Biographical Reference,126740695]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~librarian,182436]]'
+- '[[_Standards/WikiData/WD~pedagogue,1231865]]'
+- "[[_Standards/WikiData/WD~university teacher,1622272]]"
+- '[[_Standards/WikiData/WD~anthropologist,4773904]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- "[[_Standards/WikiData/WD~philosopher of law,23760244]]"
+- '[[_Standards/WikiData/WD~writer,36180]]'
+notable_work:
+- "[[_Standards/WikiData/WD~Critique of Pure Reason,220002]]"
+- "[[_Standards/WikiData/WD~Answering the Question_ What Is Enlightenment_,812981]]"
+- "[[_Standards/WikiData/WD~Critique of Practical Reason,870851]]"
+- "[[_Standards/WikiData/WD~Critique of Judgment,1056332]]"
+- "[[_Standards/WikiData/WD~The Metaphysics of Morals,1214817]]"
+- "[[_Standards/WikiData/WD~Religion within the Bounds of Bare Reason,1215763]]"
+- "[[_Standards/WikiData/WD~Groundwork of the Metaphysic of Morals,1550565]]"
+- "[[_Standards/WikiData/WD~Prolegomena to Any Future Metaphysics,1761342]]"
+place_of_burial: "[[_Standards/WikiData/WD~Königsberg Cathedral,225459]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Allgemeine Deutsche Biographie,590208]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- "[[_Standards/WikiData/WD~Pedagogues and Psychologists of the World,126722605]]"
+- "[[_Standards/WikiData/WD~Astronomers_ A Biographical Reference,126740695]]"
 employer: "[[_Standards/WikiData/WD~University of Königsberg,672420]]"
-educated at:
-  - "[[_Standards/WikiData/WD~University of Königsberg,672420]]"
-  - "[[_Standards/WikiData/WD~Collegium Fridericianum,1109215]]"
+educated_at:
+- "[[_Standards/WikiData/WD~University of Königsberg,672420]]"
+- "[[_Standards/WikiData/WD~Collegium Fridericianum,1109215]]"
 movement: "[[_Standards/WikiData/WD~German idealism,679842]]"
-residence: "[[_Standards/WikiData/WD~Königsberg,4120832]]"
-place of death: "[[_Standards/WikiData/WD~Königsberg,4120832]]"
-place of birth: "[[_Standards/WikiData/WD~Königsberg,4120832]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-family name: "[[_Standards/WikiData/WD~Kant,11271031]]"
-given name: "[[_Standards/WikiData/WD~Immanuel,18199901]]"
+residence: '[[_Standards/WikiData/WD~Königsberg,4120832]]'
+place_of_death: '[[_Standards/WikiData/WD~Königsberg,4120832]]'
+place_of_birth: '[[_Standards/WikiData/WD~Königsberg,4120832]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+family_name: '[[_Standards/WikiData/WD~Kant,11271031]]'
+given_name: '[[_Standards/WikiData/WD~Immanuel,18199901]]'
 father: "[[_Standards/WikiData/WD~Johann Georg Kant,21179195]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q23013869,23013869]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
-time period: "[[_Standards/WikiData/WD~18th-century philosophy,104465214]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23013869,23013869]]'
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
+time_period: "[[_Standards/WikiData/WD~18th-century philosophy,104465214]]"
 mother: "[[_Standards/WikiData/WD~Anna Regina Kant,123603152]]"
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Immanuel%20Kant%20signature.svg
-Stack Exchange tag: https://philosophy.stackexchange.com/tags/kant
-Provenio UUID: 27c65208-8b9d-44df-b06b-4ed9414d312e
-BHCL UUID: 62d2064e-4036-4ba2-ae67-d2967ce7e820
-Europeana entity: agent/base/145326
-Regensburg Classification:
-  - BF 4045
-  - BF 4045 - BF 4046
-  - CF 5000
-  - CF 5000 - CF 5017
-Wolfram Language entity code: Entity["Person", "ImmanuelKant::8z928"]
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Immanuel%20Kant%20signature.svg"
+Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/kant"
+Provenio_UUID: 27c65208-8b9d-44df-b06b-4ed9414d312e
+BHCL_UUID: 62d2064e-4036-4ba2-ae67-d2967ce7e820
+Europeana_entity: agent/base/145326
+Regensburg_Classification:
+- "BF 4045"
+- "BF 4045 - BF 4046"
+- "CF 5000"
+- "CF 5000 - CF 5017"
+Wolfram_Language_entity_code: "Entity[\"Person\", \"ImmanuelKant::8z928\"]"
 Libris-URI: gdsvw3z03wtsnhn
-Krugosvet article: gumanitarnye_nauki/filosofiya/KANT_IMMANUIL.html
-"Image Archive, Herder Institute": Q9312
-Gujarati Vishwakosh entry: કાન્ટ-ઇમાન્યુએલ
-Library of Congress Classification: B2750-B2799
-date of death: 1804-02-12T00:00:00Z
-Commons category: Immanuel Kant
-Commons Creator page: Immanuel Kant
-Commons gallery: Immanuel Kant
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Ikusgela-Kant.webm
-ISNI: "0000000122824025"
-image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Moskovskiy%20rayon%2C%20Konigsberg%2C%20Kaliningradskaya%20oblast%27%20Russia%20-%20panoramio%20-%20Aldis%20Dzenovskis%20%286%29.jpg
-birth name: Emanuel Kant
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Immanuel%20Kant%20-%20Gemaelde%202.jpg
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Immanuel%20Kant%20%28spoken%20by%20AI%20voice%29.mp3
-described at URL:
-  - http://www.digiporta.net/index.php?id=839608861
-  - http://www.digiporta.net/index.php?id=262214022
-  - http://www.digiporta.net/index.php?id=480299502
-  - http://www.digiporta.net/index.php?id=958676315
-  - http://www.digiporta.net/index.php?id=259015758
-  - http://www.digiporta.net/index.php?id=694009055
-  - http://www.digiporta.net/index.php?id=570896536
-  - http://www.digiporta.net/index.php?id=848250312
-date of birth: 1724-04-22T00:00:00Z
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Hebrew,9288]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-  - "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-field of work:
-  - "[[_Standards/WikiData/WD~ethics,9465]]"
-  - "[[_Standards/WikiData/WD~epistemology,9471]]"
-  - "[[_Standards/WikiData/WD~metaphysics,35277]]"
-country of citizenship: "[[_Standards/WikiData/WD~Kingdom of Prussia,27306]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-writing language: "[[_Standards/WikiData/WD~German,188]]"
-native language: "[[_Standards/WikiData/WD~German,188]]"
-ArhivX LOD: "993"
-name in native language: Immanuel Kant
+Krugosvet_article: gumanitarnye_nauki/filosofiya/KANT_IMMANUIL.html
+Image_Archive_Herder_Institute: Q9312
+Gujarati_Vishwakosh_entry: કાન્ટ-ઇમાન્યુએલ
+Library_of_Congress_Classification: B2750-B2799
+date_of_death: "1804-02-12T00:00:00Z"
+Commons_category: "Immanuel Kant"
+Commons_Creator_page: "Immanuel Kant"
+Commons_gallery: "Immanuel Kant"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Ikusgela-Kant.webm"
+ISNI: 0000000122824025
+image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Moskovskiy%20rayon%2C%20Konigsberg%2C%20Kaliningradskaya%20oblast%27%20Russia%20-%20panoramio%20-%20Aldis%20Dzenovskis%20%286%29.jpg"
+birth_name: "Emanuel Kant"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Immanuel%20Kant%20-%20Gemaelde%202.jpg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Immanuel%20Kant%20%28spoken%20by%20AI%20voice%29.mp3"
+described_at_URL:
+- "http://www.digiporta.net/index.php?id=839608861"
+- "http://www.digiporta.net/index.php?id=262214022"
+- "http://www.digiporta.net/index.php?id=480299502"
+- "http://www.digiporta.net/index.php?id=958676315"
+- "http://www.digiporta.net/index.php?id=259015758"
+- "http://www.digiporta.net/index.php?id=694009055"
+- "http://www.digiporta.net/index.php?id=570896536"
+- "http://www.digiporta.net/index.php?id=848250312"
+date_of_birth: "1724-04-22T00:00:00Z"
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Hebrew,9288]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+- "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+field_of_work:
+- '[[_Standards/WikiData/WD~ethics,9465]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277]]'
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Prussia,27306]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
+native_language: '[[_Standards/WikiData/WD~German,188]]'
+ArhivX_LOD: 993
+name_in_native_language: "Immanuel Kant"
 ---
 
 #has_/time_/started :: 1724-04-22  

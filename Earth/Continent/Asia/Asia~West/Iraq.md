@@ -1,384 +1,383 @@
----
+﻿---
 follows: "[[_Standards/WikiData/WD~Kingdom of Iraq,149805]]"
-member of:
-  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
-  - "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Arab League,7172]]"
-  - "[[_Standards/WikiData/WD~Organization of the Petroleum Exporting Countries,7795]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+member_of:
+- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
+- "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~Organization of the Petroleum Exporting Countries,7795]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
 flag: "[[_Standards/WikiData/WD~flag of Iraq,162781]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Iraq,186593]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Al Anbar Governorate,187334]]"
-  - "[[_Standards/WikiData/WD~Nineveh Governorate,189352]]"
-  - "[[_Standards/WikiData/WD~Duhok Governorate,189541]]"
-  - "[[_Standards/WikiData/WD~Wasit Governorate,189747]]"
-  - "[[_Standards/WikiData/WD~Diyala Governorate,190131]]"
-  - "[[_Standards/WikiData/WD~Baghdad Governorate,191075]]"
-  - "[[_Standards/WikiData/WD~Najaf Governorate,192882]]"
-  - "[[_Standards/WikiData/WD~Kirkuk Governorate,193268]]"
-  - "[[_Standards/WikiData/WD~Basra Governorate,193551]]"
-  - "[[_Standards/WikiData/WD~Al Muthanna Governorate,212761]]"
-  - "[[_Standards/WikiData/WD~Maysan Governorate,213170]]"
-  - "[[_Standards/WikiData/WD~Sulaymaniyah Governorate,213182]]"
-  - "[[_Standards/WikiData/WD~Erbil Governorate,213189]]"
-  - "[[_Standards/WikiData/WD~Karbala Governorate,214104]]"
-  - "[[_Standards/WikiData/WD~Dhi Qar Governorate,215649]]"
-  - "[[_Standards/WikiData/WD~Diyala Governorate,217075]]"
-  - "[[_Standards/WikiData/WD~Babylon Governorate,59202]]"
-  - "[[_Standards/WikiData/WD~Al-Qādisiyyah Governorate,62987]]"
-motto: "[[_Standards/WikiData/WD~Takbir,191811]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Iraq,186593]]"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Al Anbar Governorate,187334]]"
+- "[[_Standards/WikiData/WD~Nineveh Governorate,189352]]"
+- "[[_Standards/WikiData/WD~Duhok Governorate,189541]]"
+- "[[_Standards/WikiData/WD~Wasit Governorate,189747]]"
+- "[[_Standards/WikiData/WD~Diyala Governorate,190131]]"
+- "[[_Standards/WikiData/WD~Baghdad Governorate,191075]]"
+- "[[_Standards/WikiData/WD~Najaf Governorate,192882]]"
+- "[[_Standards/WikiData/WD~Kirkuk Governorate,193268]]"
+- "[[_Standards/WikiData/WD~Basra Governorate,193551]]"
+- "[[_Standards/WikiData/WD~Al Muthanna Governorate,212761]]"
+- "[[_Standards/WikiData/WD~Maysan Governorate,213170]]"
+- "[[_Standards/WikiData/WD~Sulaymaniyah Governorate,213182]]"
+- "[[_Standards/WikiData/WD~Erbil Governorate,213189]]"
+- "[[_Standards/WikiData/WD~Karbala Governorate,214104]]"
+- "[[_Standards/WikiData/WD~Dhi Qar Governorate,215649]]"
+- "[[_Standards/WikiData/WD~Diyala Governorate,217075]]"
+- "[[_Standards/WikiData/WD~Babylon Governorate,59202]]"
+- "[[_Standards/WikiData/WD~Al-Qādisiyyah Governorate,62987]]"
+motto: '[[_Standards/WikiData/WD~Takbir,191811]]'
 culture: "[[_Standards/WikiData/WD~culture of Iraq,198712]]"
-ethnic group:
-  - "[[_Standards/WikiData/WD~Yazidis,200885]]"
-  - "[[_Standards/WikiData/WD~Iraqi Turkmens,1165171]]"
-  - "[[_Standards/WikiData/WD~Shabak people,1515909]]"
-  - "[[_Standards/WikiData/WD~Assyrians in Iraq,2376604]]"
-  - "[[_Standards/WikiData/WD~Kurds in Iraq,12180107]]"
-  - "[[_Standards/WikiData/WD~Arabs,35323]]"
-anthem: "[[_Standards/WikiData/WD~Mawtini,217987]]"
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~Palestine,219060]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~European Union,458]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Yemen,805]]"
-  - "[[_Standards/WikiData/WD~Jordan,810]]"
-  - "[[_Standards/WikiData/WD~Kuwait,817]]"
-  - "[[_Standards/WikiData/WD~Lebanon,822]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-basic form of government:
-  - "[[_Standards/WikiData/WD~federal republic,512187]]"
-  - "[[_Standards/WikiData/WD~federation,43702]]"
-history of topic: "[[_Standards/WikiData/WD~history of Iraq,695980]]"
-described by source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of Iraq,889817]]"
+ethnic_group:
+- '[[_Standards/WikiData/WD~Yazidis,200885]]'
+- "[[_Standards/WikiData/WD~Iraqi Turkmens,1165171]]"
+- "[[_Standards/WikiData/WD~Shabak people,1515909]]"
+- "[[_Standards/WikiData/WD~Assyrians in Iraq,2376604]]"
+- "[[_Standards/WikiData/WD~Kurds in Iraq,12180107]]"
+- '[[_Standards/WikiData/WD~Arabs,35323]]'
+anthem: '[[_Standards/WikiData/WD~Mawtini,217987]]'
+diplomatic_relation:
+- '[[_Standards/WikiData/WD~Palestine,219060]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~European Union,458]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Yemen,805]]'
+- '[[_Standards/WikiData/WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Kuwait,817]]'
+- '[[_Standards/WikiData/WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- '[[_Standards/WikiData/WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+basic_form_of_government:
+- "[[_Standards/WikiData/WD~federal republic,512187]]"
+- '[[_Standards/WikiData/WD~federation,43702]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of Iraq,695980]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Iraq,889817]]"
 replaces: "[[_Standards/WikiData/WD~Coalition Provisional Authority,965174]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Iraq,966954]]"
-highest point: "[[_Standards/WikiData/WD~Cheekha Dar,1068860]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-  - "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Iraq,1476165]]"
-language used:
-  - "[[_Standards/WikiData/WD~Southern Kurdish,1496597]]"
-  - "[[_Standards/WikiData/WD~Shabaki,3289596]]"
-  - "[[_Standards/WikiData/WD~Bajelani,4848866]]"
-  - "[[_Standards/WikiData/WD~Neo-Mandaic,6991742]]"
-  - "[[_Standards/WikiData/WD~Sarli,7424256]]"
-  - "[[_Standards/WikiData/WD~Assyrian Neo-Aramaic,29440]]"
-  - "[[_Standards/WikiData/WD~Chaldean Neo-Aramaic,33236]]"
-  - "[[_Standards/WikiData/WD~Koy Sanjaq Syriac,33463]]"
-  - "[[_Standards/WikiData/WD~Mandaic,33500]]"
-  - "[[_Standards/WikiData/WD~Kurmanji,36163]]"
-  - "[[_Standards/WikiData/WD~Kurdish,36368]]"
-  - "[[_Standards/WikiData/WD~Sorani,36811]]"
-  - "[[_Standards/WikiData/WD~Mesopotamian Arabic,56232]]"
-  - "[[_Standards/WikiData/WD~Gulf Arabic,56385]]"
-  - "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
-  - "[[_Standards/WikiData/WD~Najdi Arabic,56574]]"
-  - "[[_Standards/WikiData/WD~North Mesopotamian Arabic,56577]]"
-central bank: "[[_Standards/WikiData/WD~Central Bank of Iraq,1778674]]"
-legislative body: "[[_Standards/WikiData/WD~Council of Representatives of Iraq,1973075]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Iraq,2087476]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Iraq,3044242]]"
-instance of:
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-head of government: "[[_Standards/WikiData/WD~Mohammed Shia' Al Sudani,3700793]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Governorates of Iraq,6463361]]"
-head of state: "[[_Standards/WikiData/WD~Abdul Latif Rashid,6496078]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Iraq,7112304]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q12853974,12853974]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Iraq,14614958]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~115,25648805]]"
-  - "[[_Standards/WikiData/WD~122,25648812]]"
-  - "[[_Standards/WikiData/WD~104,25648855]]"
-  - "[[_Standards/WikiData/WD~911,25648903]]"
-has characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Asia_Baghdad,63285939]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-coordinates of northernmost point: Point(42.8 37.38)
-Baidu Tieba name: 伊拉克
-UMLS CUI: C0022066
-coordinate location: Point(43.0 33.0)
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Iraq,966954]]"
+highest_point: "[[_Standards/WikiData/WD~Cheekha Dar,1068860]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Iraq,1476165]]"
+language_used:
+- "[[_Standards/WikiData/WD~Southern Kurdish,1496597]]"
+- '[[_Standards/WikiData/WD~Shabaki,3289596]]'
+- '[[_Standards/WikiData/WD~Bajelani,4848866]]'
+- '[[_Standards/WikiData/WD~Neo-Mandaic,6991742]]'
+- '[[_Standards/WikiData/WD~Sarli,7424256]]'
+- "[[_Standards/WikiData/WD~Assyrian Neo-Aramaic,29440]]"
+- "[[_Standards/WikiData/WD~Chaldean Neo-Aramaic,33236]]"
+- "[[_Standards/WikiData/WD~Koy Sanjaq Syriac,33463]]"
+- '[[_Standards/WikiData/WD~Mandaic,33500]]'
+- '[[_Standards/WikiData/WD~Kurmanji,36163]]'
+- '[[_Standards/WikiData/WD~Kurdish,36368]]'
+- '[[_Standards/WikiData/WD~Sorani,36811]]'
+- "[[_Standards/WikiData/WD~Mesopotamian Arabic,56232]]"
+- "[[_Standards/WikiData/WD~Gulf Arabic,56385]]"
+- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Najdi Arabic,56574]]"
+- "[[_Standards/WikiData/WD~North Mesopotamian Arabic,56577]]"
+central_bank: "[[_Standards/WikiData/WD~Central Bank of Iraq,1778674]]"
+legislative_body: "[[_Standards/WikiData/WD~Council of Representatives of Iraq,1973075]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Iraq,2087476]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Iraq,3044242]]"
+instance_of:
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
+head_of_government: "[[_Standards/WikiData/WD~Mohammed Shia' Al Sudani,3700793]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Governorates of Iraq,6463361]]"
+head_of_state: "[[_Standards/WikiData/WD~Abdul Latif Rashid,6496078]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Iraq,7112304]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12853974,12853974]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Iraq,14614958]]'
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~115,25648805]]'
+- '[[_Standards/WikiData/WD~122,25648812]]'
+- '[[_Standards/WikiData/WD~104,25648855]]'
+- '[[_Standards/WikiData/WD~911,25648903]]'
+has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~Asia_Baghdad,63285939]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+coordinates_of_northernmost_point: "Point(42.8 37.38)"
+Baidu_Tieba_name: 伊拉克
+UMLS_CUI: C0022066
+coordinate_location: "Point(43.0 33.0)"
 demonym:
-  - عراقي
-  - عراقية
-  - عراقيين
-  - عراقيات
-  - Iarácach
-  - عراقي
-  - Iraqi
-  - عراقية
-  - عراقيون
-  - iraquín
-  - iraquina
-  - ইরাকী
-  - Iraker
-  - Irakerin
-  - irakano
-  - Iraquí
-  - Irakien
-  - Irakienne
-  - עיראקי
-  - עיראקית
-  - iraki
-  - Irakano
-  - irachena
-  - irachene
-  - iracheni
-  - iracheno
-  - iraci
-  - Iraki
-  - Irakiër
-  - irakian
-  - irakiană
-  - irakieni
-  - иракец
-  - иракцы
-  - irachen
-  - irachena
-  - irachene
-  - iracheni
-  - Lirakänan
-ISNI: "0000000121814095"
-name in native language:
-  - جمهوریة العراق
-  - کۆماری عێراق
-coordinates of westernmost point: Point(38.79372 33.37478)
-native label:
-  - Republik Iraq
-  - العراق
-  - جمهورية العراق
-  - Iraq
-  - Republic of Iraq
-  - Iraq
-official name:
-  - Republik Iraq
-  - العراق
-  - جمهورية العراق
-  - Iraq
-  - Republic of Iraq
-  - la République d’Irak
-  - Iraq
-image: http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Sulaymaniyah%20%28Slemani%29%20City%20in%20Winter%20-%20Snow%202015.JPG
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Iraq%20provinces%20Numbered%20%282024%29.png
-MeSH tree code: Z01.252.245.500.360
-nominal GDP:
-  - 264182173793
-  - 207691599310
-coordinates of southernmost point: Point(46.42605 29.06123)
-coordinates of easternmost point: Point(48.47 29.98)
-official religion: "[[_Standards/WikiData/WD~Islam,432]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Jordan,810]]"
-  - "[[_Standards/WikiData/WD~Kuwait,817]]"
-  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-country: "[[_Standards/WikiData/WD~Iraq,796]]"
-capital: "[[_Standards/WikiData/WD~Baghdad,1530]]"
-part of:
-  - "[[_Standards/WikiData/WD~Middle East,7204]]"
-  - "[[_Standards/WikiData/WD~West Asia,27293]]"
-official language:
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~Kurdish,36368]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-unemployment rate: 30
-BTI Governance Index:
-  - 5
-  - 2.52
-  - 3.97
-  - 4.02
-  - 4.07
-  - 4.26
-  - 4.43
-  - 4.95
-marriageable age: 18
-mains voltage: 230
-BTI Status Index:
-  - 3.8
-  - 2.79
-  - 3.23
-  - 3.53
-  - 3.75
-  - 3.95
-  - 4.04
-  - 4.07
-  - 4.22
-top-level Internet domain: "[[_Standards/WikiData/WD~.iq,41768]]"
-Gini coefficient: 29.5
-Democracy Index: 3.51
-Happy Planet Index score: 45.3
-trunk prefix: "0"
-maritime identification digits: "425"
-Inequality-adjusted Human Development Index: 0.554
-Human Development Index: 0.686
-mobile country code: "418"
-death rate:
-  - 4.301
-  - 4.433
-  - 4.753
-  - 5.239
-total fertility rate: 4.566
-UIC numerical country code: "99"
-FIPS 10-4 (countries and regions): IZ
-IAB code: "1321"
-birth rate:
-  - 27.035
-  - 27.367
-  - 27.732
-  - 28.078
-ISO 3166-1 numeric code: "368"
-M49 code: "368"
-OmegaWiki Defined Meaning: "5741"
-life expectancy: 69.862
-social media followers: 81109
-Commons category: Iraq
+- عراقي
+- عراقية
+- عراقيين
+- عراقيات
+- Iarácach
+- عراقي
+- Iraqi
+- عراقية
+- عراقيون
+- iraquín
+- iraquina
+- ইরাকী
+- Iraker
+- Irakerin
+- irakano
+- Iraquí
+- Irakien
+- Irakienne
+- עיראקי
+- עיראקית
+- iraki
+- Irakano
+- irachena
+- irachene
+- iracheni
+- iracheno
+- iraci
+- Iraki
+- Irakiër
+- irakian
+- irakiană
+- irakieni
+- иракец
+- иракцы
+- irachen
+- irachena
+- irachene
+- iracheni
+- Lirakänan
+ISNI: 0000000121814095
+name_in_native_language:
+- "جمهوریة العراق"
+- "کۆماری عێراق"
+coordinates_of_westernmost_point: "Point(38.79372 33.37478)"
+native_label:
+- "Republik Iraq"
+- العراق
+- "جمهورية العراق"
+- Iraq
+- "Republic of Iraq"
+- Iraq
+official_name:
+- "Republik Iraq"
+- العراق
+- "جمهورية العراق"
+- Iraq
+- "Republic of Iraq"
+- "la République d’Irak"
+- Iraq
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Sulaymaniyah%20%28Slemani%29%20City%20in%20Winter%20-%20Snow%202015.JPG"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Iraq%20provinces%20Numbered%20%282024%29.png"
+MeSH_tree_code: Z01.252.245.500.360
+nominal_GDP:
+- 264182173793
+- 207691599310
+coordinates_of_southernmost_point: "Point(46.42605 29.06123)"
+coordinates_of_easternmost_point: "Point(48.47 29.98)"
+official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Kuwait,817]]'
+- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- '[[_Standards/WikiData/WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+country: '[[_Standards/WikiData/WD~Iraq,796]]'
+capital: '[[_Standards/WikiData/WD~Baghdad,1530]]'
+part_of:
+- "[[_Standards/WikiData/WD~Middle East,7204]]"
+- "[[_Standards/WikiData/WD~West Asia,27293]]"
+official_language:
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~Kurdish,36368]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
+unemployment_rate: 30
+BTI_Governance_Index:
+- 5
+- 2.52
+- 3.97
+- 4.02
+- 4.07
+- 4.26
+- 4.43
+- 4.95
+marriageable_age: 18
+mains_voltage: 230
+BTI_Status_Index:
+- 3.8
+- 2.79
+- 3.23
+- 3.53
+- 3.75
+- 3.95
+- 4.04
+- 4.07
+- 4.22
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.iq,41768]]'
+Gini_coefficient: 29.5
+Democracy_Index: 3.51
+Happy_Planet_Index_score: 45.3
+trunk_prefix: 0
+maritime_identification_digits: 425
+Inequality-adjusted_Human_Development_Index: 0.554
+Human_Development_Index: 0.686
+mobile_country_code: 418
+death_rate:
+- 4.301
+- 4.433
+- 4.753
+- 5.239
+total_fertility_rate: 4.566
+UIC_numerical_country_code: 99
+FIPS_10-4_countries_and_regions_: IZ
+IAB_code: 1321
+birth_rate:
+- 27.035
+- 27.367
+- 27.732
+- 28.078
+ISO_3166-1_numeric_code: 368
+M49_code: 368
+OmegaWiki_Defined_Meaning: 5741
+life_expectancy: 69.862
+social_media_followers: 81109
+Commons_category: Iraq
 hashtag: Iraq
 subreddit: Iraq
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Iraq.svg
-ISO 3166-1 alpha-2 code: IQ
-WIPO ST.3: IQ
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Iraq.svg"
+ISO_3166-1_alpha-2_code: IQ
+WIPO_ST_3: IQ
 area: 437072
-INSEE countries and foreign territories code: "99203"
-number of out-of-school children: 1826357
-male population:
-  - 22290370
-  - 20788703
-  - 21297577
-  - 21797409
-U.S. National Archives Identifier: "10035696"
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iraq.svg
-Krugosvet article: strany_mira/IRAK.html
-Commons gallery: العراق
-Gujarati Vishwakosh entry: ઇરાક
-short name: 🇮🇶
+INSEE_countries_and_foreign_territories_code: 99203
+number_of_out-of-school_children: 1826357
+male_population:
+- 22290370
+- 20788703
+- 21297577
+- 21797409
+U_S_National_Archives_Identifier: 10035696
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iraq.svg"
+Krugosvet_article: strany_mira/IRAK.html
+Commons_gallery: العراق
+Gujarati_Vishwakosh_entry: ઇરાક
+short_name: "\U0001F1EE\U0001F1F6"
 population: 38274618
-inception: 1932-01-01T00:00:00Z 
-has_time_started: 1932-01-01T00:00:00Z 
-licence plate code: IRQ
-ISO 3166-1 alpha-3 code: IRQ
-IOC country code: IRQ
-ITU letter code: IRQ
-UIC alphabetical country code: IRQ
-Unicode character: 🇮🇶
-rural population:
-  - 12187255
-  - 12387061
-  - 12572937
-  - 12746359
-female population:
-  - 20774818
-  - 21259406
-  - 21736184
-  - 22205751
-country calling code: "+964"
-urban population:
-  - 29376265
-  - 30169923
-  - 30960655
-  - 31749763
-geoshape: http://commons.wikimedia.org/data/main/Data:Iraq.map
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Iraq%20%28orthographic-projection%29.svg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Irak.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Irak.wav
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Irak-article.ogg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Baghdad%20Belts%20Mosque%20in%20Fallujah.jpg
-official website: https://gds.gov.iq/
-Dewey Decimal Classification: 2--567
-BHCL UUID:
-  - 951aaed8-f349-4183-8f8d-02a5dc05f416
-  - a647eb36-d3e9-4cdd-b7e8-f0fc113dbf6b
-Wolfram Language entity code: Entity["HistoricalCountry", "Iraq"]
-CIVICUS Monitor country entry: iraq
-GitHub topic: iraq
+inception: "1932-01-01T00:00:00Z"
+has_time_started: "1932-01-01T00:00:00Z"
+licence_plate_code: IRQ
+ISO_3166-1_alpha-3_code: IRQ
+IOC_country_code: IRQ
+ITU_letter_code: IRQ
+UIC_alphabetical_country_code: IRQ
+Unicode_character: "\U0001F1EE\U0001F1F6"
+rural_population:
+- 12187255
+- 12387061
+- 12572937
+- 12746359
+female_population:
+- 20774818
+- 21259406
+- 21736184
+- 22205751
+country_calling_code: +964
+urban_population:
+- 29376265
+- 30169923
+- 30960655
+- 31749763
+geoshape: "http://commons.wikimedia.org/data/main/Data:Iraq.map"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Iraq%20%28orthographic-projection%29.svg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Irak.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Irak.wav"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Irak-article.ogg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Baghdad%20Belts%20Mosque%20in%20Fallujah.jpg"
+official_website: "https://gds.gov.iq/"
+Dewey_Decimal_Classification: 2--567
+BHCL_UUID:
+- 951aaed8-f349-4183-8f8d-02a5dc05f416
+- a647eb36-d3e9-4cdd-b7e8-f0fc113dbf6b
+Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Iraq\"]"
+CIVICUS_Monitor_country_entry: iraq
+GitHub_topic: iraq
 has_id_wikidata: Q796
 location:
-    - 33.34
-    - 44.42
+- 33.34
+- 44.42
 type: Country
 tags:
-    - geo/Country
-has_id_wikidata: Q796 
+- geo/Country
 SpocWebEntityId: 26927
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Iraq
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - Iraq
-    - العراق
-    - 伊拉克
-    - Ирак
-    - the Republic of Iraq
-    - la República del Iraq
-    - Iraq (el)
+- Iraq
+- العراق
+- 伊拉克
+- Ирак
+- "the Republic of Iraq"
+- "la República del Iraq"
+- "Iraq (el)"
 Languages:
-    - ar-IQ
-    - ku
-    - hy
+- ar-IQ
+- ku
+- hy
 icon: flag-iq
 ---
 

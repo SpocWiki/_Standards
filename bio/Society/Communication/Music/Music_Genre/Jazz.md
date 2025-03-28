@@ -1,56 +1,55 @@
----
+﻿---
 has_id_wikidata: Q8341
 subreddit: Jazz
-Commons gallery: Jazz
-Commons category: Jazz
-Archive of Our Own tag: Jazz Music
-Krugosvet article: kultura_i_obrazovanie/muzyka/DZHAZ.html
-IPTC NewsCode: mediatopic/20000025
-short name:
-  - Jazz
-  - jazz
-  - jazz
+Commons_gallery: Jazz
+Commons_category: Jazz
+Archive_of_Our_Own_tag: "Jazz Music"
+Krugosvet_article: kultura_i_obrazovanie/muzyka/DZHAZ.html
+IPTC_NewsCode: mediatopic/20000025
+short_name:
+- Jazz
+- jazz
+- jazz
 audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Backbay%20Lounge%20%28ISRC%20USUAN1700068%29.mp3
-  - http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Alamo%20%281922%2C%20Benson%20Orchestra%20of%20Chicago%29.mp3
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Herskedal%20%E2%80%93%20Time%20of%20Water%20%E2%80%93%E2%80%93%20Nature%20cinematography%20of%20Svahken%20Sijte%20%28Svahken%20reindeer%20district%29%2C%20Femunden%20National%20Park%2C%20Norway.webm
-inception: 1917-01-01T00:00:00Z 
-has_time_started: 1917-01-01T00:00:00Z 
-instance of:
-  - "[[_Standards/WikiData/WD~music genre,188451]]"
-  - "[[_Standards/WikiData/WD~field of work,627436]]"
-subclass of: "[[_Standards/WikiData/WD~popular music,373342]]"
-history of topic:
-  - "[[_Standards/WikiData/WD~history of jazz,466571]]"
-  - "[[_Standards/WikiData/WD~origins of jazz,106543088]]"
-different from: "[[_Standards/WikiData/WD~Gas,2135060]]"
-has list: "[[_Standards/WikiData/WD~glossary of jazz music terminology,3518460]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of jazz,7112669]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Jazz,7224768]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Jazz,11032929]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Jazz,13417658]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
-practiced by:
-  - "[[_Standards/WikiData/WD~jazz musician,15981151]]"
-  - "[[_Standards/WikiData/WD~jazz record producer,67512484]]"
-  - "[[_Standards/WikiData/WD~jazz composer,116938279]]"
-studied in: "[[_Standards/WikiData/WD~jazz studies,99691757]]"
-described by source: "[[_Standards/WikiData/WD~DDEX AVS Data Dictionary Version 1,106615149]]"
-country of origin: "[[_Standards/WikiData/WD~United States,30]]"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Jazz%20Track%20banner.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Armstrong%20restored.jpg
-exact match:
-  - http://cv.iptc.org/newscodes/subjectcode/01011003
-  - http://id.loc.gov/authorities/subjects/sh85069833
-  - http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Jazz
-equivalent class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Jazz
-U.S. National Archives Identifier: "10636748"
-IAB code: "357"
-OmegaWiki Defined Meaning: "403266"
-Wolfram Language entity code: Entity["Concept", "Jazz::jnm2g"]
-PhilPapers topic: jazz
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Backbay%20Lounge%20%28ISRC%20USUAN1700068%29.mp3"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Alamo%20%281922%2C%20Benson%20Orchestra%20of%20Chicago%29.mp3"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Herskedal%20%E2%80%93%20Time%20of%20Water%20%E2%80%93%E2%80%93%20Nature%20cinematography%20of%20Svahken%20Sijte%20%28Svahken%20reindeer%20district%29%2C%20Femunden%20National%20Park%2C%20Norway.webm"
+inception: "1917-01-01T00:00:00Z"
+has_time_started: "1917-01-01T00:00:00Z"
+instance_of:
+- "[[_Standards/WikiData/WD~music genre,188451]]"
+- "[[_Standards/WikiData/WD~field of work,627436]]"
+subclass_of: "[[_Standards/WikiData/WD~popular music,373342]]"
+history_of_topic:
+- "[[_Standards/WikiData/WD~history of jazz,466571]]"
+- "[[_Standards/WikiData/WD~origins of jazz,106543088]]"
+different_from: '[[_Standards/WikiData/WD~Gas,2135060]]'
+has_list: "[[_Standards/WikiData/WD~glossary of jazz music terminology,3518460]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of jazz,7112669]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Jazz,7224768]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Jazz,11032929]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Jazz,13417658]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
+practiced_by:
+- "[[_Standards/WikiData/WD~jazz musician,15981151]]"
+- "[[_Standards/WikiData/WD~jazz record producer,67512484]]"
+- "[[_Standards/WikiData/WD~jazz composer,116938279]]"
+studied_in: "[[_Standards/WikiData/WD~jazz studies,99691757]]"
+described_by_source: "[[_Standards/WikiData/WD~DDEX AVS Data Dictionary Version 1,106615149]]"
+country_of_origin: "[[_Standards/WikiData/WD~United States,30]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Jazz%20Track%20banner.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Armstrong%20restored.jpg"
+exact_match:
+- "http://cv.iptc.org/newscodes/subjectcode/01011003"
+- "http://id.loc.gov/authorities/subjects/sh85069833"
+- "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Jazz"
+equivalent_class: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Jazz"
+U_S_National_Archives_Identifier: 10636748
+IAB_code: 357
+OmegaWiki_Defined_Meaning: 403266
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"Jazz::jnm2g\"]"
+PhilPapers_topic: jazz
 ---
-
 
 ## #has_/text_of_/abstract 
 

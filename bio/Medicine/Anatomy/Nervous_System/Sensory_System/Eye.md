@@ -1,64 +1,63 @@
----
+﻿---
 has_id_wikidata: Q7364
-Dewey Decimal Classification:
-  - "612.84"
-  - "573.88"
-  - "611.84"
-Colon Classification: L185
-Unicode character:
-  - 👁
-  - 👀
-has use: "[[_Standards/WikiData/WD~visual perception,162668]]"
-connects with:
-  - "[[_Standards/WikiData/WD~optic nerve,186029]]"
-  - "[[_Standards/WikiData/WD~eyestalk,4441421]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~sclera,193107]]"
-  - "[[_Standards/WikiData/WD~choroid,271762]]"
-  - "[[_Standards/WikiData/WD~posterior chamber of eyeball,760318]]"
-different from:
-  - "[[_Standards/WikiData/WD~Auge,230610]]"
-  - "[[_Standards/WikiData/WD~Oko,248387]]"
-  - "[[_Standards/WikiData/WD~Ain El Delb,4697341]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-studied in:
-  - "[[_Standards/WikiData/WD~optometry,618211]]"
-  - "[[_Standards/WikiData/WD~biology of colour,105582462]]"
-history of topic: "[[_Standards/WikiData/WD~evolution of the eye,2732276]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~sensory organ,3355930]]"
-  - "[[_Standards/WikiData/WD~animal organ,24060765]]"
-  - "[[_Standards/WikiData/WD~set of heterogeneous clusters,66576455]]"
-  - "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-development of anatomical structure: "[[_Standards/WikiData/WD~eye development,5422650]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Eye anatomy,8071025]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/201405%20eye.png
-UMLS CUI: C0015392
-Krugosvet article: nauka_i_tehnika/biologiya/GLAZ.html
-Gujarati Vishwakosh entry: આંખ
-permanent duplicated item:
-  - "[[_Standards/WikiData/WD~Q22828850,22828850]]"
-  - "[[_Standards/WikiData/WD~Q110127285,110127285]]"
-instance of:
-  - "[[_Standards/WikiData/WD~organ type,103812529]]"
-  - "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-Baidu Tieba name: 眼睛
-has characteristic: "[[_Standards/WikiData/WD~eye color,23786]]"
-IAB code: "294"
-OmegaWiki Defined Meaning: "5511"
-TA98 Latin term: oculus
-Commons category: Eyes
-Commons gallery: Eye
+Dewey_Decimal_Classification:
+- 612.84
+- 573.88
+- 611.84
+Colon_Classification: L185
+Unicode_character:
+- "\U0001F441"
+- "\U0001F440"
+has_use: "[[_Standards/WikiData/WD~visual perception,162668]]"
+connects_with:
+- "[[_Standards/WikiData/WD~optic nerve,186029]]"
+- '[[_Standards/WikiData/WD~eyestalk,4441421]]'
+has_part_s_:
+- '[[_Standards/WikiData/WD~sclera,193107]]'
+- '[[_Standards/WikiData/WD~choroid,271762]]'
+- "[[_Standards/WikiData/WD~posterior chamber of eyeball,760318]]"
+different_from:
+- '[[_Standards/WikiData/WD~Auge,230610]]'
+- '[[_Standards/WikiData/WD~Oko,248387]]'
+- "[[_Standards/WikiData/WD~Ain El Delb,4697341]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+studied_in:
+- '[[_Standards/WikiData/WD~optometry,618211]]'
+- "[[_Standards/WikiData/WD~biology of colour,105582462]]"
+history_of_topic: "[[_Standards/WikiData/WD~evolution of the eye,2732276]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~sensory organ,3355930]]"
+- "[[_Standards/WikiData/WD~animal organ,24060765]]"
+- "[[_Standards/WikiData/WD~set of heterogeneous clusters,66576455]]"
+- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~eye development,5422650]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Eye anatomy,8071025]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/201405%20eye.png"
+UMLS_CUI: C0015392
+Krugosvet_article: nauka_i_tehnika/biologiya/GLAZ.html
+Gujarati_Vishwakosh_entry: આંખ
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q22828850,22828850]]'
+- '[[_Standards/WikiData/WD~Q110127285,110127285]]'
+instance_of:
+- "[[_Standards/WikiData/WD~organ type,103812529]]"
+- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+Baidu_Tieba_name: 眼睛
+has_characteristic: "[[_Standards/WikiData/WD~eye color,23786]]"
+IAB_code: 294
+OmegaWiki_Defined_Meaning: 5511
+TA98_Latin_term: oculus
+Commons_category: Eyes
+Commons_gallery: Eye
 ---
-
 
 ## #has_/text_of_/abstract 
 
