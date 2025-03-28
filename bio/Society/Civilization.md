@@ -1,21 +1,20 @@
----
+﻿---
 has_id_wikidata: Q8432
-described by source: "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-facet of: "[[_Standards/WikiData/WD~humanity,1156970]]"
-different from: "[[_Standards/WikiData/WD~Civilization,1868663]]"
-said to be the same as: "[[_Standards/WikiData/WD~world community,8036557]]"
-opposite of: "[[_Standards/WikiData/WD~primitive culture,83781188]]"
-has characteristic: "[[_Standards/WikiData/WD~technological state of a civilization,113470485]]"
-Provenio UUID: aa01f293-410a-422c-b8b1-93552340f5cf
-UMLS CUI: C0008870
-subclass of: "[[_Standards/WikiData/WD~society,8425]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Giza.Sphinx.02.jpg
-Commons category: Civilizations
-MeSH tree code: I01.076.201.450.226
-OpenStreetMap tag or key: Key:historic:civilization
-Colon Classification: Y:1
+described_by_source: "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+facet_of: '[[_Standards/WikiData/WD~humanity,1156970]]'
+different_from: '[[_Standards/WikiData/WD~Civilization,1868663]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~world community,8036557]]"
+opposite_of: "[[_Standards/WikiData/WD~primitive culture,83781188]]"
+has_characteristic: "[[_Standards/WikiData/WD~technological state of a civilization,113470485]]"
+Provenio_UUID: aa01f293-410a-422c-b8b1-93552340f5cf
+UMLS_CUI: C0008870
+subclass_of: '[[_Standards/WikiData/WD~society,8425]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Giza.Sphinx.02.jpg"
+Commons_category: Civilizations
+MeSH_tree_code: I01.076.201.450.226
+OpenStreetMap_tag_or_key: "Key:historic:civilization"
+Colon_Classification: "Y:1"
 ---
-
 
 ## #has_/text_of_/abstract 
 

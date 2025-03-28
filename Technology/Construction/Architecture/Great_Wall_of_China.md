@@ -1,76 +1,75 @@
----
+﻿---
 aliases:
-  - Great Wall of China
+- "Great Wall of China"
 has_id_wikidata: Q12501
-name in native language: 長城
-OmegaWiki Defined Meaning: "810662"
-coordinate location: Point(116.083333333 40.416666666)
-Commons category: Great Wall of China
-image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Great%20Wall%20of%20China%20at%20Jinshanling-edit.jpg
-instance of:
-  - "[[_Standards/WikiData/WD~tourist attraction,570116]]"
-  - "[[_Standards/WikiData/WD~fortified line,2973801]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Atlas of Vanishing Places,113243983]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~Jiayuguan,1193122]]"
-  - "[[_Standards/WikiData/WD~Old Dragon Head,55179020]]"
-  - "[[_Standards/WikiData/WD~Guangwu Great Wall,56064263]]"
-present in work: "[[_Standards/WikiData/WD~Illusion of Gaia,1658920]]"
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/%E6%85%95%E7%94%B0%E5%B3%AA%E9%95%BF%E5%9F%8E%E8%88%AA%E6%8B%8D%202018-09-16%20151631.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Biking%20the%20Great%20Wall%20%28no%20audio%29.webm
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/GreatWallChina4.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20Great%20Wall%20of%20China.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Simatai%20Great%20Wall%20banner.jpg
-official website: http://www.thegreatwall.com.cn/en
-Commons gallery: 长城
-history of topic: "[[_Standards/WikiData/WD~history of the Great Wall of China,15984181]]"
-different from:
-  - "[[_Standards/WikiData/WD~Beijing Great Wall,16382735]]"
-  - "[[_Standards/WikiData/WD~The Great Wall,65961372]]"
-  - "[[_Standards/WikiData/WD~Great Wall of China,117214046]]"
-inception: -0700-01-01T00:00:00Z 
-has_time_started: -0700-01-01T00:00:00Z 
-spherical panorama image: http://commons.wikimedia.org/wiki/Special:FilePath/Mutianyu%20%E2%80%93%20Panorama%20%28Greg%20Zaal%20via%20Poly%20Haven%29.jpg
-located in the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Tianjin,11736]]"
-  - "[[_Standards/WikiData/WD~Sichuan,19770]]"
-  - "[[_Standards/WikiData/WD~Hebei,21208]]"
-  - "[[_Standards/WikiData/WD~Xinjiang,34800]]"
-  - "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
-  - "[[_Standards/WikiData/WD~Gansu,42392]]"
-  - "[[_Standards/WikiData/WD~Shandong,43407]]"
-  - "[[_Standards/WikiData/WD~Henan,43684]]"
-  - "[[_Standards/WikiData/WD~Hunan,45761]]"
-  - "[[_Standards/WikiData/WD~Qinghai,45833]]"
-  - "[[_Standards/WikiData/WD~Hubei,46862]]"
-  - "[[_Standards/WikiData/WD~Shanxi,46913]]"
-  - "[[_Standards/WikiData/WD~Shaanxi,47974]]"
-  - "[[_Standards/WikiData/WD~Ningxia,57448]]"
+name_in_native_language: 長城
+OmegaWiki_Defined_Meaning: 810662
+coordinate_location: "Point(116.083333333 40.416666666)"
+Commons_category: "Great Wall of China"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Great%20Wall%20of%20China%20at%20Jinshanling-edit.jpg"
+instance_of:
+- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
+- "[[_Standards/WikiData/WD~fortified line,2973801]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Atlas of Vanishing Places,113243983]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~Jiayuguan,1193122]]'
+- "[[_Standards/WikiData/WD~Old Dragon Head,55179020]]"
+- "[[_Standards/WikiData/WD~Guangwu Great Wall,56064263]]"
+present_in_work: "[[_Standards/WikiData/WD~Illusion of Gaia,1658920]]"
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%85%95%E7%94%B0%E5%B3%AA%E9%95%BF%E5%9F%8E%E8%88%AA%E6%8B%8D%202018-09-16%20151631.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Biking%20the%20Great%20Wall%20%28no%20audio%29.webm"
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/GreatWallChina4.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20Great%20Wall%20of%20China.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Simatai%20Great%20Wall%20banner.jpg"
+official_website: "http://www.thegreatwall.com.cn/en"
+Commons_gallery: 长城
+history_of_topic: "[[_Standards/WikiData/WD~history of the Great Wall of China,15984181]]"
+different_from:
+- "[[_Standards/WikiData/WD~Beijing Great Wall,16382735]]"
+- "[[_Standards/WikiData/WD~The Great Wall,65961372]]"
+- "[[_Standards/WikiData/WD~Great Wall of China,117214046]]"
+inception: "-0700-01-01T00:00:00Z"
+has_time_started: "-0700-01-01T00:00:00Z"
+spherical_panorama_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mutianyu%20%E2%80%93%20Panorama%20%28Greg%20Zaal%20via%20Poly%20Haven%29.jpg"
+located_in_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Tianjin,11736]]'
+- '[[_Standards/WikiData/WD~Sichuan,19770]]'
+- '[[_Standards/WikiData/WD~Hebei,21208]]'
+- '[[_Standards/WikiData/WD~Xinjiang,34800]]'
+- "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
+- '[[_Standards/WikiData/WD~Gansu,42392]]'
+- '[[_Standards/WikiData/WD~Shandong,43407]]'
+- '[[_Standards/WikiData/WD~Henan,43684]]'
+- '[[_Standards/WikiData/WD~Hunan,45761]]'
+- '[[_Standards/WikiData/WD~Qinghai,45833]]'
+- '[[_Standards/WikiData/WD~Hubei,46862]]'
+- '[[_Standards/WikiData/WD~Shanxi,46913]]'
+- '[[_Standards/WikiData/WD~Shaanxi,47974]]'
+- '[[_Standards/WikiData/WD~Ningxia,57448]]'
 creator: "[[_Standards/WikiData/WD~Qin Shi Huangdi,7192]]"
-made from material: "[[_Standards/WikiData/WD~limestone,23757]]"
+made_from_material: '[[_Standards/WikiData/WD~limestone,23757]]'
 country: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
 height:
-  - 5
-  - 7
-  - 8
-visitors per year:
-  - 16000000
-  - 15100
+- 5
+- 7
+- 8
+visitors_per_year:
+- 16000000
+- 15100
 width: 4.5
 length: 21195
 ---
-
 
 ## #has_/text_of_/abstract 
 

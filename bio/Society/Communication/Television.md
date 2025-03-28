@@ -1,71 +1,70 @@
----
+﻿---
 has_id_wikidata: Q289
-International Standard Industrial Classification code Rev.4: "6020"
-Nomenclature for Museum Cataloging: "11342"
+International_Standard_Industrial_Classification_code_Rev_4: 6020
+Nomenclature_for_Museum_Cataloging: 11342
 subreddit: television
-PhilPapers topic: television
-Commons gallery: Television
-Commons category: Television
-Unicode character: 📺
-Dewey Decimal Classification: "791.45"
-GS1 GPC code:
-  - "10001400"
-  - "68010100"
-Krugosvet article: nauka_i_tehnika/transport_i_svyaz/RADIO_I_TELEVIDENIE.html
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Around%20the%20Corner%20%281937%29%2024fps%20selection.webm
-Basisklassifikation: "05.36"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/LG%20smart%20TV.jpg
-instance of:
-  - "[[_Standards/WikiData/WD~infrastructure,121359]]"
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~type of mass media,121132955]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~John Logie Baird,133544]]"
-  - "[[_Standards/WikiData/WD~Philo Farnsworth,360098]]"
-  - "[[_Standards/WikiData/WD~Charles Francis Jenkins,1064424]]"
-  - "[[_Standards/WikiData/WD~Kenjirō Takayanagi,1473588]]"
-patron saint: "[[_Standards/WikiData/WD~Clare of Assisi,191107]]"
-"product, material, or service produced or provided":
-  - "[[_Standards/WikiData/WD~concert film,430525]]"
-  - "[[_Standards/WikiData/WD~television program,15416]]"
-different from: "[[_Standards/WikiData/WD~Internet television,841645]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~television network,1254874]]"
-  - "[[_Standards/WikiData/WD~television station,1616075]]"
-  - "[[_Standards/WikiData/WD~television channel,2001305]]"
-  - "[[_Standards/WikiData/WD~people-meter,3780321]]"
-  - "[[_Standards/WikiData/WD~television watcher,3982960]]"
-  - "[[_Standards/WikiData/WD~television set,8075]]"
-practiced by: "[[_Standards/WikiData/WD~announcer,1371925]]"
-history of topic: "[[_Standards/WikiData/WD~history of television,1517344]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Television,10316697]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~broadcasting,15078788]]"
-  - "[[_Standards/WikiData/WD~mass media,11033]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Q25719785,25719785]]"
-  - "[[_Standards/WikiData/WD~Template_Television,26837387]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27131926,27131926]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-exact match: http://cv.iptc.org/newscodes/subjectcode/01016000
-U.S. National Archives Identifier: "10643842"
-IEV number: 701-01-15
-Colon Classification: D65,45
-MeSH tree code:
-  - J01.897.280.500.898
-  - L01.462.500.590.875
-  - L01.462.500.820.090.898
-  - L01.462.500.847.823
-IPTC NewsCode: mediatopic/20000051
-Library of Congress Classification: PN1992-1992.92
-UMLS CUI: C0039461
-OmegaWiki Defined Meaning: "3734"
-IAB code: "640"
+PhilPapers_topic: television
+Commons_gallery: Television
+Commons_category: Television
+Unicode_character: "\U0001F4FA"
+Dewey_Decimal_Classification: 791.45
+GS1_GPC_code:
+- 10001400
+- 68010100
+Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/RADIO_I_TELEVIDENIE.html
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Around%20the%20Corner%20%281937%29%2024fps%20selection.webm"
+Basisklassifikation: 05.36
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/LG%20smart%20TV.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~infrastructure,121359]]'
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- "[[_Standards/WikiData/WD~type of mass media,121132955]]"
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~John Logie Baird,133544]]"
+- "[[_Standards/WikiData/WD~Philo Farnsworth,360098]]"
+- "[[_Standards/WikiData/WD~Charles Francis Jenkins,1064424]]"
+- "[[_Standards/WikiData/WD~Kenjirō Takayanagi,1473588]]"
+patron_saint: "[[_Standards/WikiData/WD~Clare of Assisi,191107]]"
+product_material_or_service_produced_or_provided:
+- "[[_Standards/WikiData/WD~concert film,430525]]"
+- "[[_Standards/WikiData/WD~television program,15416]]"
+different_from: "[[_Standards/WikiData/WD~Internet television,841645]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~television network,1254874]]"
+- "[[_Standards/WikiData/WD~television station,1616075]]"
+- "[[_Standards/WikiData/WD~television channel,2001305]]"
+- '[[_Standards/WikiData/WD~people-meter,3780321]]'
+- "[[_Standards/WikiData/WD~television watcher,3982960]]"
+- "[[_Standards/WikiData/WD~television set,8075]]"
+practiced_by: '[[_Standards/WikiData/WD~announcer,1371925]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of television,1517344]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Television,10316697]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~broadcasting,15078788]]'
+- "[[_Standards/WikiData/WD~mass media,11033]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Q25719785,25719785]]'
+- '[[_Standards/WikiData/WD~Template_Television,26837387]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131926,27131926]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+exact_match: "http://cv.iptc.org/newscodes/subjectcode/01016000"
+U_S_National_Archives_Identifier: 10643842
+IEV_number: 701-01-15
+Colon_Classification: D65,45
+MeSH_tree_code:
+- J01.897.280.500.898
+- L01.462.500.590.875
+- L01.462.500.820.090.898
+- L01.462.500.847.823
+IPTC_NewsCode: mediatopic/20000051
+Library_of_Congress_Classification: PN1992-1992.92
+UMLS_CUI: C0039461
+OmegaWiki_Defined_Meaning: 3734
+IAB_code: 640
 ---
-
 
 ## #has_/text_of_/abstract 
 

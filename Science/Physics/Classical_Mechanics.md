@@ -1,23 +1,22 @@
----
+﻿---
 has_id_wikidata: Q11397
 aliases:
-  - Classical mechanics
-different from: "[[_Standards/WikiData/WD~analytical mechanics,833065]]"
-history of topic:
-  - "[[_Standards/WikiData/WD~timeline of classical mechanics,2967073]]"
-  - "[[_Standards/WikiData/WD~history of classical mechanics,5867520]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Classical mechanics,6234453]]"
-Stack Exchange tag:
-  - https://physics.stackexchange.com/tags/classical-mechanics
-  - https://mathoverflow.net/tags/classical-mechanics
-  - https://math.stackexchange.com/tags/classical-mechanics
-named after: "[[_Standards/WikiData/WD~Isaac Newton,935]]"
-subclass of: "[[_Standards/WikiData/WD~mechanics,41217]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Newtons%20cradle%20animation%20book.gif
-Commons category: Classical mechanics
-PhilPapers topic: classical-mechanics
+- "Classical mechanics"
+different_from: "[[_Standards/WikiData/WD~analytical mechanics,833065]]"
+history_of_topic:
+- "[[_Standards/WikiData/WD~timeline of classical mechanics,2967073]]"
+- "[[_Standards/WikiData/WD~history of classical mechanics,5867520]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Classical mechanics,6234453]]"
+Stack_Exchange_tag:
+- "https://physics.stackexchange.com/tags/classical-mechanics"
+- "https://mathoverflow.net/tags/classical-mechanics"
+- "https://math.stackexchange.com/tags/classical-mechanics"
+named_after: "[[_Standards/WikiData/WD~Isaac Newton,935]]"
+subclass_of: '[[_Standards/WikiData/WD~mechanics,41217]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Newtons%20cradle%20animation%20book.gif"
+Commons_category: "Classical mechanics"
+PhilPapers_topic: classical-mechanics
 ---
-
 
 ## #has_/text_of_/abstract 
 

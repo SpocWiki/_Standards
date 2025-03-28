@@ -1,44 +1,45 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21998
 has_id_wikidata: Q1905
-location of discovery: "[[_Standards/WikiData/WD~University of California, Berkeley,168756]]"
-named after: "[[_Standards/WikiData/WD~Ernest Lawrence,169577]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
-instance of:
-  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox lawrencium,8085415]]"
+location_of_discovery: "[[_Standards/WikiData/WD~University of California, Berkeley,168756]]"
+named_after: "[[_Standards/WikiData/WD~Ernest Lawrence,169577]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
+instance_of:
+- "[[_Standards/WikiData/WD~synthetic element,755992]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox lawrencium,8085415]]"
 electronegativity: 1.3
-atomic number: 103
-PubChem CID: "31192"
-OmegaWiki Defined Meaning: "161353"
-time of discovery or invention: 1961-02-14T00:00:00Z
-chemical formula: Lr
-element symbol: Lr
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20103%20Lawrencium.svg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-lawrencium.wav
-canonical SMILES: "[Lr]"
-CAS Registry Number: 22537-19-5
+atomic_number: 103
+PubChem_CID: 31192
+OmegaWiki_Defined_Meaning: 161353
+time_of_discovery_or_invention: "1961-02-14T00:00:00Z"
+chemical_formula: Lr
+element_symbol: Lr
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20103%20Lawrencium.svg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-lawrencium.wav"
+canonical_SMILES: '[Lr]'
+CAS_Registry_Number: 22537-19-5
 InChIKey: CNQCVBJFEGMYDW-UHFFFAOYSA-N
-MeSH tree code:
-  - D01.268.271.100.500
-  - D01.268.556.423
-  - D01.268.956.295
-  - D01.496.749.305.100.500
-  - D01.552.020.507
-  - D01.552.544.423
-DSSTOX compound identifier: DTXCID8099548
+MeSH_tree_code:
+- D01.268.271.100.500
+- D01.268.556.423
+- D01.268.956.295
+- D01.496.749.305.100.500
+- D01.552.020.507
+- D01.552.544.423
+DSSTOX_compound_identifier: DTXCID8099548
 InChI: InChI=1S/Lr
-Commons gallery: Lawrencium
-Commons category: Lawrencium
+Commons_gallery: Lawrencium
+Commons_category: Lawrencium
 UNII: QRT37X99RQ
-Unicode character: 鐒
+Unicode_character: 鐒
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905]] 
 

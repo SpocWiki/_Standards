@@ -1,31 +1,30 @@
----
+﻿---
 has_id_wikidata: Q11658
-subclass of:
-  - "[[_Standards/WikiData/WD~electrical element,210729]]"
-  - "[[_Standards/WikiData/WD~passive electronic component,9252564]]"
-instance of: "[[_Standards/WikiData/WD~electrical element,210729]]"
-has use:
-  - "[[_Standards/WikiData/WD~voltage converter,387331]]"
-  - "[[_Standards/WikiData/WD~galvanic isolation,780813]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~_Kyrgyzstan_ national encyclopedia,16679904]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-different from:
-  - "[[_Standards/WikiData/WD~Transformer,624448]]"
-  - "[[_Standards/WikiData/WD~Transformator,9361144]]"
-  - "[[_Standards/WikiData/WD~Transformer,65078488]]"
-has part(s): "[[_Standards/WikiData/WD~coil,2981904]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~electrical element,210729]]"
+- "[[_Standards/WikiData/WD~passive electronic component,9252564]]"
+instance_of: "[[_Standards/WikiData/WD~electrical element,210729]]"
+has_use:
+- "[[_Standards/WikiData/WD~voltage converter,387331]]"
+- "[[_Standards/WikiData/WD~galvanic isolation,780813]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~_Kyrgyzstan_ national encyclopedia,16679904]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+different_from:
+- '[[_Standards/WikiData/WD~Transformer,624448]]'
+- '[[_Standards/WikiData/WD~Transformator,9361144]]'
+- '[[_Standards/WikiData/WD~Transformer,65078488]]'
+has_part_s_: '[[_Standards/WikiData/WD~coil,2981904]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20N4422%20-%20power%20supply%20transformer-2098.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bifilar%20wound%20toroidal%20transformer.jpg
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Transformer3d%20col3.svg
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TRANSFORMATOR_ELEKTRICHESKI.html
-Nomenclature for Museum Cataloging: "8827"
-Commons category: Transformers
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20N4422%20-%20power%20supply%20transformer-2098.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Bifilar%20wound%20toroidal%20transformer.jpg"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Transformer3d%20col3.svg"
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TRANSFORMATOR_ELEKTRICHESKI.html
+Nomenclature_for_Museum_Cataloging: 8827
+Commons_category: Transformers
 ---
-
 
 ## #has_/text_of_/abstract 
 

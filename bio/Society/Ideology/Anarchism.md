@@ -1,63 +1,62 @@
----
+﻿---
 has_id_wikidata: Q6199
-Dewey Decimal Classification:
-  - "335.83"
-  - "320.57"
-  - "321.07"
-Basisklassifikation: "89.20"
+Dewey_Decimal_Classification:
+- 335.83
+- 320.57
+- 321.07
+Basisklassifikation: 89.20
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Anarchy-symbol.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Graffiti%20%22No%20Gods%2C%20No%20Masters%22%20and%20anarchy%20symbol%20at%20central%20bus%20station%20ZOB%20in%20Munich%2C%20Germany.jpg
-Commons category: Anarchism
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Anarchy-symbol.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Graffiti%20%22No%20Gods%2C%20No%20Masters%22%20and%20anarchy%20symbol%20at%20central%20bus%20station%20ZOB%20in%20Munich%2C%20Germany.jpg"
+Commons_category: Anarchism
 subreddit: Anarchism
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-different from:
-  - "[[_Standards/WikiData/WD~minarchism,750630]]"
-  - "[[_Standards/WikiData/WD~anarchy,2371005]]"
-  - "[[_Standards/WikiData/WD~government,7188]]"
-  - "[[_Standards/WikiData/WD~Marxism,7264]]"
-has part(s): "[[_Standards/WikiData/WD~anarchist school of thought,1278791]]"
-instance of:
-  - "[[_Standards/WikiData/WD~school of thought,1387659]]"
-  - "[[_Standards/WikiData/WD~political movement,2738074]]"
-  - "[[_Standards/WikiData/WD~philosophical school,12765852]]"
-  - "[[_Standards/WikiData/WD~political ideology,12909644]]"
-history of topic: "[[_Standards/WikiData/WD~history of anarchism,2746978]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Anarchism,6025383]]"
-  - "[[_Standards/WikiData/WD~Template_Anarchism sidebar,13107319]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Anarchism,8519616]]"
-practiced by: "[[_Standards/WikiData/WD~anarchist,12359071]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Anarchism,15244022]]"
-studied in:
-  - "[[_Standards/WikiData/WD~anarchist studies,29917753]]"
-  - "[[_Standards/WikiData/WD~geography of anarchism,115690351]]"
-flag image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/BlackFlag.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Anarchist%20flag%20with%20symbol.svg
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/PT-Anarquismo.ogg
-Iconclass notation: 44F553
-PhilPapers topic: anarchism
-Wolfram Language entity code:
-  - Entity["Concept", "Anarchism::m77k8"]
-  - Entity["Word", "anarchism"]
-Library of Congress Classification: HX833
-Gujarati Vishwakosh entry: અરાજકતાવાદ
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+different_from:
+- '[[_Standards/WikiData/WD~minarchism,750630]]'
+- '[[_Standards/WikiData/WD~anarchy,2371005]]'
+- '[[_Standards/WikiData/WD~government,7188]]'
+- '[[_Standards/WikiData/WD~Marxism,7264]]'
+has_part_s_: "[[_Standards/WikiData/WD~anarchist school of thought,1278791]]"
+instance_of:
+- "[[_Standards/WikiData/WD~school of thought,1387659]]"
+- "[[_Standards/WikiData/WD~political movement,2738074]]"
+- "[[_Standards/WikiData/WD~philosophical school,12765852]]"
+- "[[_Standards/WikiData/WD~political ideology,12909644]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of anarchism,2746978]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Anarchism,6025383]]'
+- "[[_Standards/WikiData/WD~Template_Anarchism sidebar,13107319]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Anarchism,8519616]]'
+practiced_by: '[[_Standards/WikiData/WD~anarchist,12359071]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Anarchism,15244022]]"
+studied_in:
+- "[[_Standards/WikiData/WD~anarchist studies,29917753]]"
+- "[[_Standards/WikiData/WD~geography of anarchism,115690351]]"
+flag_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/BlackFlag.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Anarchist%20flag%20with%20symbol.svg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/PT-Anarquismo.ogg"
+Iconclass_notation: 44F553
+PhilPapers_topic: anarchism
+Wolfram_Language_entity_code:
+- "Entity[\"Concept\", \"Anarchism::m77k8\"]"
+- "Entity[\"Word\", \"anarchism\"]"
+Library_of_Congress_Classification: HX833
+Gujarati_Vishwakosh_entry: અરાજકતાવાદ
 Libris-URI: wt798k9f15wc7xn
-discoverer or inventor: "[[_Standards/WikiData/WD~Pierre-Joseph Proudhon,5749]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre-Joseph Proudhon,5749]]"
 ---
-
 
 ## #has_/text_of_/abstract 
 

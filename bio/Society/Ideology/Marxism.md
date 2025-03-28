@@ -1,39 +1,38 @@
----
+﻿---
 has_id_wikidata: Q7264
-different from:
-  - "[[_Standards/WikiData/WD~anarcho-communism,188670]]"
-  - "[[_Standards/WikiData/WD~anarchism,6199]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~Western Marxism,917453]]"
-  - "[[_Standards/WikiData/WD~Orthodox Marxism,937465]]"
-  - "[[_Standards/WikiData/WD~Classical Marxism,5128296]]"
-  - "[[_Standards/WikiData/WD~open Marxism,7096125]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Historisch-kritisches Wörterbuch des Marxismus,1308032]]"
-  - "[[_Standards/WikiData/WD~Brockhaus Encyclopedia, 21st edition, volume 17, Article _Marxism_,56627988]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-instance of:
-  - "[[_Standards/WikiData/WD~economic theory,1401304]]"
-  - "[[_Standards/WikiData/WD~school of economic thought,3048444]]"
-  - "[[_Standards/WikiData/WD~political ideology,12909644]]"
-opposite of: "[[_Standards/WikiData/WD~criticisms of Marxism,1781612]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Marxism sidebar,8084147]]"
-practiced by: "[[_Standards/WikiData/WD~Marxist,12716775]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Marxism,60647992]]"
-Provenio UUID: 231cb96e-f0fa-48ef-9409-2533c7922db3
-subclass of:
-  - "[[_Standards/WikiData/WD~communism,6186]]"
-  - "[[_Standards/WikiData/WD~socialism,7272]]"
-named after: "[[_Standards/WikiData/WD~Karl Marx,9061]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Karl Marx,9061]]"
-  - "[[_Standards/WikiData/WD~Friedrich Engels,34787]]"
-Commons category: Marxism
-OmegaWiki Defined Meaning: "354359"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%B5%E0%A4%BE%E0%A4%A6.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Marx%20and%20Engels.jpg
+different_from:
+- '[[_Standards/WikiData/WD~anarcho-communism,188670]]'
+- '[[_Standards/WikiData/WD~anarchism,6199]]'
+has_part_s_:
+- "[[_Standards/WikiData/WD~Western Marxism,917453]]"
+- "[[_Standards/WikiData/WD~Orthodox Marxism,937465]]"
+- "[[_Standards/WikiData/WD~Classical Marxism,5128296]]"
+- "[[_Standards/WikiData/WD~open Marxism,7096125]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Historisch-kritisches Wörterbuch des Marxismus,1308032]]"
+- "[[_Standards/WikiData/WD~Brockhaus Encyclopedia, 21st edition, volume 17, Article _Marxism_,56627988]]"
+- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+instance_of:
+- "[[_Standards/WikiData/WD~economic theory,1401304]]"
+- "[[_Standards/WikiData/WD~school of economic thought,3048444]]"
+- "[[_Standards/WikiData/WD~political ideology,12909644]]"
+opposite_of: "[[_Standards/WikiData/WD~criticisms of Marxism,1781612]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Marxism sidebar,8084147]]"
+practiced_by: '[[_Standards/WikiData/WD~Marxist,12716775]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Marxism,60647992]]'
+Provenio_UUID: 231cb96e-f0fa-48ef-9409-2533c7922db3
+subclass_of:
+- '[[_Standards/WikiData/WD~communism,6186]]'
+- '[[_Standards/WikiData/WD~socialism,7272]]'
+named_after: "[[_Standards/WikiData/WD~Karl Marx,9061]]"
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Karl Marx,9061]]"
+- "[[_Standards/WikiData/WD~Friedrich Engels,34787]]"
+Commons_category: Marxism
+OmegaWiki_Defined_Meaning: 354359
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%B5%E0%A4%BE%E0%A4%A6.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Marx%20and%20Engels.jpg"
 ---
-
 
 ## #has_/text_of_/abstract 
 

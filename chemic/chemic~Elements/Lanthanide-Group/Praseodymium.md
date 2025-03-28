@@ -1,53 +1,53 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21955
 has_id_wikidata: Q1386
-named after:
-  - "[[_Standards/WikiData/WD~twin,159979]]"
-  - "[[_Standards/WikiData/WD~green,3133]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-Unicode character: 鐠
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Praseod%C3%ADmio.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Praseodym%201.jpg
-canonical SMILES: "[Pr]"
-EC number: 231-120-3
-CAS Registry Number: 7440-10-0
-MeSH tree code:
-  - D01.268.558.362.750
-  - D01.552.550.399.750
-DSSTOX compound identifier: DTXCID2047648
+named_after:
+- '[[_Standards/WikiData/WD~twin,159979]]'
+- '[[_Standards/WikiData/WD~green,3133]]'
+part_of:
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+Unicode_character: 鐠
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Praseod%C3%ADmio.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Praseodym%201.jpg"
+canonical_SMILES: '[Pr]'
+EC_number: 231-120-3
+CAS_Registry_Number: 7440-10-0
+MeSH_tree_code:
+- D01.268.558.362.750
+- D01.552.550.399.750
+DSSTOX_compound_identifier: DTXCID2047648
 InChI: InChI=1S/Pr
 UNII: NKN7EZA750
 InChIKey: PUDIUYLPXJFUGB-UHFFFAOYSA-N
-UMLS CUI: C0032904
-time of discovery or invention: 1841-01-01T00:00:00Z
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-electrical resistivity: 7e-7
-atomic number: 59
-ionic radius:
-  - 0.85
-  - 0.96
-  - 0.99
-  - 1.13
+UMLS_CUI: C0032904
+time_of_discovery_or_invention: "1841-01-01T00:00:00Z"
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+electrical_resistivity: 7e-7
+atomic_number: 59
+ionic_radius:
+- 0.85
+- 0.96
+- 0.99
+- 1.13
 electronegativity: 1.13
-speed of sound: 2280
-melting point: 1208
-boiling point: 3403
+speed_of_sound: 2280
+melting_point: 1208
+boiling_point: 3403
 density: 6.773
-chemical formula: Pr
-element symbol: Pr
-PubChem CID: "23942"
-Commons gallery: Praseodymium
-Commons category: Praseodymium
-OmegaWiki Defined Meaning: "342115"
+chemical_formula: Pr
+element_symbol: Pr
+PubChem_CID: 23942
+Commons_gallery: Praseodymium
+Commons_category: Praseodymium
+OmegaWiki_Defined_Meaning: 342115
 mass: 140.90766
 ---
 

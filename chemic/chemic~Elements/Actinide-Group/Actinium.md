@@ -1,54 +1,54 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21984
 has_id_wikidata: Q1121
-part of:
-  - "[[_Standards/WikiData/WD~group 3,108307]]"
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~André-Louis Debierne,468371]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-named after: "[[_Standards/WikiData/WD~light beam,2493660]]"
-instance of:
-  - "[[_Standards/WikiData/WD~radioactive element,3658631]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828445,22828445]]"
-time of discovery or invention: 1899-01-01T00:00:00Z
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20152.jpg
-has characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
-oxidation state: 3
+part_of:
+- "[[_Standards/WikiData/WD~group 3,108307]]"
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~André-Louis Debierne,468371]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+named_after: "[[_Standards/WikiData/WD~light beam,2493660]]"
+instance_of:
+- "[[_Standards/WikiData/WD~radioactive element,3658631]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828445,22828445]]'
+time_of_discovery_or_invention: "1899-01-01T00:00:00Z"
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20152.jpg"
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+oxidation_state: 3
 electronegativity: 1.1
-atomic number: 89
-ionic radius: 112
-ionization energy:
-  - 1170
-  - 499
-OmegaWiki Defined Meaning: "33"
-PubChem CID: "23965"
+atomic_number: 89
+ionic_radius: 112
+ionization_energy:
+- 1170
+- 499
+OmegaWiki_Defined_Meaning: 33
+PubChem_CID: 23965
 mass: 227.028
-chemical formula: Ac
-element symbol: Ac
-Unicode character: 錒
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Actinium%20sample%20%2831481701837%29.png
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20089%20Actinium.svg
-canonical SMILES: "[Ac]"
-Dewey Decimal Classification:
-  - "546.421"
-  - "669.2921"
-CAS Registry Number: 7440-34-8
-Commons gallery: Actinium
-Commons category: Actinium
-MeSH tree code:
-  - D01.268.271.100.033
-  - D01.268.556.025
-  - D01.496.749.305.100.033
-  - D01.552.020.042
-  - D01.552.544.025
-DSSTOX compound identifier: DTXCID10147879
+chemical_formula: Ac
+element_symbol: Ac
+Unicode_character: 錒
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Actinium%20sample%20%2831481701837%29.png"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20089%20Actinium.svg"
+canonical_SMILES: '[Ac]'
+Dewey_Decimal_Classification:
+- 546.421
+- 669.2921
+CAS_Registry_Number: 7440-34-8
+Commons_gallery: Actinium
+Commons_category: Actinium
+MeSH_tree_code:
+- D01.268.271.100.033
+- D01.268.556.025
+- D01.496.749.305.100.033
+- D01.552.020.042
+- D01.552.544.025
+DSSTOX_compound_identifier: DTXCID10147879
 InChI: InChI=1S/Ac
 UNII: NIK1K0956U
 InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N

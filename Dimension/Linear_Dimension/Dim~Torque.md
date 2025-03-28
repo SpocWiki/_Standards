@@ -1,167 +1,40 @@
----
+﻿---
 has_id_wikidata: Q48103
-subclass of:
-  - "[[_Standards/WikiData/WD~physical quantity,107715]]"
-  - "[[_Standards/WikiData/WD~scalar quantity,181175]]"
-  - "[[_Standards/WikiData/WD~moment,13222844]]"
-recommended unit of measurement:
-  - "[[_Standards/WikiData/WD~newton metre,215571]]"
-  - "[[_Standards/WikiData/WD~kilogram square metre per square second,106681350]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-4_2006 Quantities and units—Part 4_ Mechanics,26711933]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-4_2019 Quantities and units — Part 4_ Mechanics,73391977]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8,124737635]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-different from: "[[_Standards/WikiData/WD~moment of force,17232562]]"
-said to be the same as: "[[_Standards/WikiData/WD~Q107294532,107294532]]"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Koppel1.png
-IEV number: 113-03-26
-UMLS CUI: C0376590
-MeSH tree code: G01.374.860.500
-quantity symbol (LaTeX):
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle T}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>T</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle M_{\mathrm {Q} }}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <msub>
-              <mi>M</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mrow class="MJX-TeXAtom-ORD">
-                  <mi mathvariant="normal">Q</mi>
-                </mrow>
-              </mrow>
-            </msub>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle M_{\mathrm {Q} }}</annotation>
-      </semantics>
-    </math>
-in defining formula:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle T}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>T</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\boldsymbol {e}}_{\mathrm {Q} }}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <msub>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="bold-italic">e</mi>
-              </mrow>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mrow class="MJX-TeXAtom-ORD">
-                  <mi mathvariant="normal">Q</mi>
-                </mrow>
-              </mrow>
-            </msub>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle {\boldsymbol {e}}_{\mathrm {Q} }}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\boldsymbol {M}}}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="bold-italic">M</mi>
-            </mrow>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle {\boldsymbol {M}}}</annotation>
-      </semantics>
-    </math>
-defining formula: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle T={\boldsymbol {M}}\cdot {\boldsymbol {e}}_{\mathrm {Q} }}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mi>T</mi>
-          <mo>=</mo>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="bold-italic">M</mi>
-          </mrow>
-          <mo>&#x22C5;<!-- ⋅ --></mo>
-          <msub>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="bold-italic">e</mi>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="normal">Q</mi>
-              </mrow>
-            </mrow>
-          </msub>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle T={\boldsymbol {M}}\cdot {\boldsymbol {e}}_{\mathrm {Q} }}</annotation>
-    </semantics>
-  </math>
-Wikidata property: torque
-ISQ dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {M}}{\mathsf {L}}^{2}{\mathsf {T}}^{-2}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="sans-serif">M</mi>
-            </mrow>
-          </mrow>
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">L</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mn>2</mn>
-            </mrow>
-          </msup>
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">T</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>2</mn>
-            </mrow>
-          </msup>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {M}}{\mathsf {L}}^{2}{\mathsf {T}}^{-2}}</annotation>
-    </semantics>
-  </math>
-Commons category: Torque
+subclass_of:
+- "[[_Standards/WikiData/WD~physical quantity,107715]]"
+- "[[_Standards/WikiData/WD~scalar quantity,181175]]"
+- '[[_Standards/WikiData/WD~moment,13222844]]'
+recommended_unit_of_measurement:
+- "[[_Standards/WikiData/WD~newton metre,215571]]"
+- "[[_Standards/WikiData/WD~kilogram square metre per square second,106681350]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~ISO 80000-4_2006 Quantities and units—Part 4_ Mechanics,26711933]]"
+- "[[_Standards/WikiData/WD~ISO 80000-4_2019 Quantities and units — Part 4_ Mechanics,73391977]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8,124737635]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+different_from: "[[_Standards/WikiData/WD~moment of force,17232562]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q107294532,107294532]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Koppel1.png"
+IEV_number: 113-03-26
+UMLS_CUI: C0376590
+MeSH_tree_code: G01.374.860.500
+quantity_symbol_LaTeX_:
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle T}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>T</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle T}</annotation>\n  </semantics>\n</math>"
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle M_{\\mathrm {Q} }}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>M</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"normal\">Q</mi>\n            </mrow>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle M_{\\mathrm {Q} }}</annotation>\n  </semantics>\n</math>"
+in_defining_formula:
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle T}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>T</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle T}</annotation>\n  </semantics>\n</math>"
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {e}}_{\\mathrm {Q} }}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"bold-italic\">e</mi>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"normal\">Q</mi>\n            </mrow>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {e}}_{\\mathrm {Q} }}</annotation>\n  </semantics>\n</math>"
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {M}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">M</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {M}}}</annotation>\n  </semantics>\n</math>"
+defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle T={\\boldsymbol {M}}\\cdot {\\boldsymbol {e}}_{\\mathrm {Q} }}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>T</mi>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">M</mi>\n        </mrow>\n        <mo>&#x22C5;<!-- ⋅ --></mo>\n        <msub>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"bold-italic\">e</mi>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"normal\">Q</mi>\n            </mrow>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle T={\\boldsymbol {M}}\\cdot {\\boldsymbol {e}}_{\\mathrm {Q} }}</annotation>\n  </semantics>\n</math>"
+Wikidata_property: torque
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {M}}{\\mathsf {L}}^{2}{\\mathsf {T}}^{-2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {M}}{\\mathsf {L}}^{2}{\\mathsf {T}}^{-2}}</annotation>\n  </semantics>\n</math>"
+Commons_category: Torque
 ---
+
 ﻿
 # [[Dim~Torque]] 
 

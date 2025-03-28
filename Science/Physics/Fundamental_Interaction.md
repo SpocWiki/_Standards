@@ -1,25 +1,24 @@
----
+﻿---
 aliases:
-  - Fundamental interaction
+- "Fundamental interaction"
 has_id_wikidata: Q104934
-has part(s):
-  - "[[_Standards/WikiData/WD~electromagnetic interaction,849919]]"
-  - "[[_Standards/WikiData/WD~strong interaction,11415]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak interaction,11418]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~physical phenomenon,1293220]]"
-  - "[[_Standards/WikiData/WD~interaction,52948]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_FundamentalForces,8081453]]"
-disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance of: "[[_Standards/WikiData/WD~type of interaction,123345464]]"
-studied in: "[[_Standards/WikiData/WD~physics,413]]"
-Wikidata property: interaction
-related image: http://commons.wikimedia.org/wiki/Special:FilePath/Feynman-electron-photon-emission.svg
-Dewey Decimal Classification: "539.754"
-Commons category: Fundamental forces
+has_part_s_:
+- "[[_Standards/WikiData/WD~electromagnetic interaction,849919]]"
+- "[[_Standards/WikiData/WD~strong interaction,11415]]"
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- "[[_Standards/WikiData/WD~weak interaction,11418]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~physical phenomenon,1293220]]"
+- '[[_Standards/WikiData/WD~interaction,52948]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_FundamentalForces,8081453]]'
+disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~type of interaction,123345464]]"
+studied_in: '[[_Standards/WikiData/WD~physics,413]]'
+Wikidata_property: interaction
+related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Feynman-electron-photon-emission.svg"
+Dewey_Decimal_Classification: 539.754
+Commons_category: "Fundamental forces"
 ---
-
 
 ## #has_/text_of_/abstract 
 

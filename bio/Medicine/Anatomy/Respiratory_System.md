@@ -1,40 +1,39 @@
----
+﻿---
 has_id_wikidata: Q7891
-has part(s):
-  - "[[_Standards/WikiData/WD~nasal cavity,156104]]"
-  - "[[_Standards/WikiData/WD~pharynx,174778]]"
-  - "[[_Standards/WikiData/WD~trachea,175449]]"
-  - "[[_Standards/WikiData/WD~bronchus,181602]]"
-  - "[[_Standards/WikiData/WD~respiratory tract,13400765]]"
-  - "[[_Standards/WikiData/WD~lung,7886]]"
-  - "[[_Standards/WikiData/WD~larynx,9637]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~organ system,188193]]"
-  - "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-produced sound: "[[_Standards/WikiData/WD~respiratory sound,779038]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Lower respiratory system anatomy,10522033]]"
-  - "[[_Standards/WikiData/WD~Q25720347,25720347]]"
-  - "[[_Standards/WikiData/WD~Q125741688,125741688]]"
-instance of:
-  - "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
-  - "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-part of: "[[_Standards/WikiData/WD~circulatory system,11068]]"
-MeSH tree code: A04
-Commons category: Respiratory system
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Respiratory%20system%20complete%20en.svg
-WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/respiratory_system
-Iconclass notation: 49G612
-UMLS CUI: C0035237
-Krugosvet article: nauka_i_tehnika/biologiya/DIHANIYA_ORGANI.html
-TA98 Latin term: systema respiratorium
+has_part_s_:
+- "[[_Standards/WikiData/WD~nasal cavity,156104]]"
+- '[[_Standards/WikiData/WD~pharynx,174778]]'
+- '[[_Standards/WikiData/WD~trachea,175449]]'
+- '[[_Standards/WikiData/WD~bronchus,181602]]'
+- "[[_Standards/WikiData/WD~respiratory tract,13400765]]"
+- '[[_Standards/WikiData/WD~lung,7886]]'
+- '[[_Standards/WikiData/WD~larynx,9637]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~organ system,188193]]"
+- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+produced_sound: "[[_Standards/WikiData/WD~respiratory sound,779038]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Lower respiratory system anatomy,10522033]]"
+- '[[_Standards/WikiData/WD~Q25720347,25720347]]'
+- '[[_Standards/WikiData/WD~Q125741688,125741688]]'
+instance_of:
+- "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
+- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+part_of: "[[_Standards/WikiData/WD~circulatory system,11068]]"
+MeSH_tree_code: A04
+Commons_category: "Respiratory system"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Respiratory%20system%20complete%20en.svg"
+WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/respiratory_system"
+Iconclass_notation: 49G612
+UMLS_CUI: C0035237
+Krugosvet_article: nauka_i_tehnika/biologiya/DIHANIYA_ORGANI.html
+TA98_Latin_term: "systema respiratorium"
 ---
-
 
 ## #has_/text_of_/abstract 
 

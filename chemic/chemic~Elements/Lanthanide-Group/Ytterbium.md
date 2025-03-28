@@ -1,51 +1,51 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21966
 has_id_wikidata: Q1855
-discoverer or inventor: "[[_Standards/WikiData/WD~Jean Charles Galissard de Marignac,124045]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
-named after: "[[_Standards/WikiData/WD~Ytterby mine,631733]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-made from material:
-  - "[[_Standards/WikiData/WD~hingganite-(Yb),3785712]]"
-  - "[[_Standards/WikiData/WD~keiviite-(Yb),3814344]]"
-  - "[[_Standards/WikiData/WD~xenotime-(Yb),4021784]]"
-  - "[[_Standards/WikiData/WD~samarskite-(Yb),19861251]]"
-time of discovery or invention: 1878-01-01T00:00:00Z
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-atomic number: 70
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Jean Charles Galissard de Marignac,124045]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+named_after: "[[_Standards/WikiData/WD~Ytterby mine,631733]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+made_from_material:
+- '[[_Standards/WikiData/WD~hingganite-(Yb),3785712]]'
+- '[[_Standards/WikiData/WD~keiviite-(Yb),3814344]]'
+- '[[_Standards/WikiData/WD~xenotime-(Yb),4021784]]'
+- '[[_Standards/WikiData/WD~samarskite-(Yb),19861251]]'
+time_of_discovery_or_invention: "1878-01-01T00:00:00Z"
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+atomic_number: 70
 electronegativity: 1.1
-ionic radius:
-  - 0.99
-  - 1.02
-  - 1.04
-  - 1.14
-Gmelin number: "16320"
+ionic_radius:
+- 0.99
+- 1.02
+- 1.04
+- 1.14
+Gmelin_number: 16320
 mass: 173.045
-PubChem CID: "23992"
-OmegaWiki Defined Meaning: "370462"
-chemical formula: Yb
-element symbol: Yb
-Unicode character: 鐿
-canonical SMILES: "[Yb]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium%20element.jpg
-EC number: 231-173-2
-CAS Registry Number: 7440-64-4
-UMLS CUI: C0043431
-MeSH tree code:
-  - D01.268.558.362.992
-  - D01.552.550.399.992
-DSSTOX compound identifier: DTXCID2026993
+PubChem_CID: 23992
+OmegaWiki_Defined_Meaning: 370462
+chemical_formula: Yb
+element_symbol: Yb
+Unicode_character: 鐿
+canonical_SMILES: '[Yb]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium%20element.jpg"
+EC_number: 231-173-2
+CAS_Registry_Number: 7440-64-4
+UMLS_CUI: C0043431
+MeSH_tree_code:
+- D01.268.558.362.992
+- D01.552.550.399.992
+DSSTOX_compound_identifier: DTXCID2026993
 InChI: InChI=1S/Yb
 UNII: MNQ4O4WSI1
 InChIKey: NAWDYIZEMPQZHO-UHFFFAOYSA-N
-Commons gallery: Ytterbium
-Commons category: Ytterbium
+Commons_gallery: Ytterbium
+Commons_category: Ytterbium
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Ytterbium,1855]] 

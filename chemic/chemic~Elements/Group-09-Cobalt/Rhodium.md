@@ -1,76 +1,77 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21943
 has_id_wikidata: Q1087
-OmegaWiki Defined Meaning: "349380"
-CPV Supplementary code: AA22
-time of discovery or invention: 1803-01-01T00:00:00Z
-Commons gallery: Rhodium
-Commons category: Rhodium
-Common Procurement Vocabulary code:
-  - "14744000"
-  - 14744000-8
-Unicode character: 銠
-part of:
-  - "[[_Standards/WikiData/WD~group 9,208107]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~platinum group,223995]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~transition metal,19588]]"
-different from: "[[_Standards/WikiData/WD~Rod,231105]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
-named after: "[[_Standards/WikiData/WD~rose,533047]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhodium%20powder%20pressed%20melted.jpg
-canonical SMILES: "[Rh]"
-EC number: 231-125-0
-CAS Registry Number: 7440-16-6
-MeSH tree code:
-  - D01.268.556.793
-  - D01.268.956.781
-  - D01.552.544.793
+OmegaWiki_Defined_Meaning: 349380
+CPV_Supplementary_code: AA22
+time_of_discovery_or_invention: "1803-01-01T00:00:00Z"
+Commons_gallery: Rhodium
+Commons_category: Rhodium
+Common_Procurement_Vocabulary_code:
+- 14744000
+- 14744000-8
+Unicode_character: 銠
+part_of:
+- "[[_Standards/WikiData/WD~group 9,208107]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~platinum group,223995]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~transition metal,19588]]"
+different_from: '[[_Standards/WikiData/WD~Rod,231105]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
+named_after: '[[_Standards/WikiData/WD~rose,533047]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhodium%20powder%20pressed%20melted.jpg"
+canonical_SMILES: '[Rh]'
+EC_number: 231-125-0
+CAS_Registry_Number: 7440-16-6
+MeSH_tree_code:
+- D01.268.556.793
+- D01.268.956.781
+- D01.552.544.793
 UNII: DMK383DSAC
-DSSTOX compound identifier: DTXCID0031053
-Wolfram Language entity code: Entity["Mineral", "Rhodium"]
+DSSTOX_compound_identifier: DTXCID0031053
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Rhodium\"]"
 InChI: InChI=1S/Rh
 InChIKey: MHOVAHRLVXNVSD-UHFFFAOYSA-N
-RTECS number: VI9069000
-instance of:
-  - "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated hazard: "[[_Standards/WikiData/WD~rhodium exposure,21175091]]"
-has effect: "[[_Standards/WikiData/WD~rhodium exposure,21175091]]"
-UMLS CUI: C0035493
-video: http://commons.wikimedia.org/wiki/Special:FilePath/A%20very%20unique%20rhodium%20cake.webm
-electron configuration: "[Kr] 5s¹ 4d⁸"
-vapor pressure: 0
-immediately dangerous to life or health: 100
-time-weighted average exposure limit: 0.1
-oxidation state: 3
-ionic radius:
-  - 0.6
-  - 0.55
-  - 0.67
-atomic number: 45
-electrical conductivity: 22300000
+RTECS_number: VI9069000
+instance_of:
+- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~rhodium exposure,21175091]]"
+has_effect: "[[_Standards/WikiData/WD~rhodium exposure,21175091]]"
+UMLS_CUI: C0035493
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/A%20very%20unique%20rhodium%20cake.webm"
+electron_configuration: "[Kr] 5s¹ 4d⁸"
+vapor_pressure: 0
+immediately_dangerous_to_life_or_health: 100
+time-weighted_average_exposure_limit: 0.1
+oxidation_state: 3
+ionic_radius:
+- 0.6
+- 0.55
+- 0.67
+atomic_number: 45
+electrical_conductivity: 22300000
 electronegativity: 2.28
-tensile modulus of elasticity: 275000
+tensile_modulus_of_elasticity: 275000
 density: 12.41
-melting point: 3571
-boiling point: 6741
-ZVG number: "7450"
-PubChem CID: "23948"
-chemical formula: Rh
-element symbol: Rh
+melting_point: 3571
+boiling_point: 6741
+ZVG_number: 7450
+PubChem_CID: 23948
+chemical_formula: Rh
+element_symbol: Rh
 mass: 102.90549
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Rhodium,1087]] 
 

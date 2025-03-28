@@ -1,19 +1,18 @@
----
+﻿---
 has_id_wikidata: Q11656
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~nonlinear electrical element,7049472]]"
-  - "[[_Standards/WikiData/WD~passive electronic component,9252564]]"
-  - "[[_Standards/WikiData/WD~active electronic component,12492106]]"
-  - "[[_Standards/WikiData/WD~electronic component,11653]]"
-instance of: "[[_Standards/WikiData/WD~type of electronic component,125517960]]"
-has use: "[[_Standards/WikiData/WD~electrical resistance,25358]]"
-Nomenclature for Museum Cataloging: "8836"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Diode-closeup.jpg
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Diode01.svg
-Commons category: Diodes
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~nonlinear electrical element,7049472]]"
+- "[[_Standards/WikiData/WD~passive electronic component,9252564]]"
+- "[[_Standards/WikiData/WD~active electronic component,12492106]]"
+- "[[_Standards/WikiData/WD~electronic component,11653]]"
+instance_of: "[[_Standards/WikiData/WD~type of electronic component,125517960]]"
+has_use: "[[_Standards/WikiData/WD~electrical resistance,25358]]"
+Nomenclature_for_Museum_Cataloging: 8836
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Diode-closeup.jpg"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Diode01.svg"
+Commons_category: Diodes
 ---
-
 
 ## #has_/text_of_/abstract 
 

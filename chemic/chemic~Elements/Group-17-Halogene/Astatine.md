@@ -1,45 +1,45 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21980
 has_id_wikidata: Q999
-discoverer or inventor: "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
-named after: "[[_Standards/WikiData/WD~instability,405372]]"
-instance of:
-  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20085%20Astatine.svg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-astate.wav
-canonical SMILES: "[At]"
-Commons gallery: Astatine
-Commons category: Astatine
-MeSH tree code:
-  - D01.268.271.110
-  - D01.268.380.075
-  - D01.496.749.305.110
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+- '[[_Standards/WikiData/WD~halogens,19605]]'
+named_after: '[[_Standards/WikiData/WD~instability,405372]]'
+instance_of:
+- "[[_Standards/WikiData/WD~synthetic element,755992]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20085%20Astatine.svg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-astate.wav"
+canonical_SMILES: '[At]'
+Commons_gallery: Astatine
+Commons_category: Astatine
+MeSH_tree_code:
+- D01.268.271.110
+- D01.268.380.075
+- D01.496.749.305.110
 InChI: InChI=1S/At
 InChIKey: RYXHOMYVWAEKHL-UHFFFAOYSA-N
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-UMLS CUI: C0004091
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20156.jpg
-subclass of:
-  - "[[_Standards/WikiData/WD~metalloid,19596]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
-location of discovery: "[[_Standards/WikiData/WD~United States,30]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+UMLS_CUI: C0004091
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20156.jpg"
+subclass_of:
+- '[[_Standards/WikiData/WD~metalloid,19596]]'
+- '[[_Standards/WikiData/WD~halogens,19605]]'
+location_of_discovery: "[[_Standards/WikiData/WD~United States,30]]"
 electronegativity: 2.2
-atomic number: 85
-boiling point: 503
-Gmelin number: "40440"
-chemical formula: At
-element symbol: At
-OmegaWiki Defined Meaning: "155974"
-PubChem CID: "5460479"
-CAS Registry Number: 7440-68-8
-DSSTOX compound identifier: DTXCID40147882
-time of discovery or invention: 1940-01-01T00:00:00Z
-Unicode character: 砈
+atomic_number: 85
+boiling_point: 503
+Gmelin_number: 40440
+chemical_formula: At
+element_symbol: At
+OmegaWiki_Defined_Meaning: 155974
+PubChem_CID: 5460479
+CAS_Registry_Number: 7440-68-8
+DSSTOX_compound_identifier: DTXCID40147882
+time_of_discovery_or_invention: "1940-01-01T00:00:00Z"
+Unicode_character: 砈
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Astatine,999]] 

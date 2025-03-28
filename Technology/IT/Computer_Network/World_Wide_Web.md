@@ -1,50 +1,49 @@
----
+﻿---
 has_id_wikidata: Q466
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Robert Cailliau,92749]]"
-  - "[[_Standards/WikiData/WD~Tim Berners-Lee,80]]"
-instance of:
-  - "[[_Standards/WikiData/WD~information system,121182]]"
-  - "[[_Standards/WikiData/WD~field of study,1047113]]"
-  - "[[_Standards/WikiData/WD~field of study,2267705]]"
-  - "[[_Standards/WikiData/WD~hypertext system,65966993]]"
-different from:
-  - "[[_Standards/WikiData/WD~GNOME Web,167784]]"
-  - "[[_Standards/WikiData/WD~W3,267091]]"
-  - "[[_Standards/WikiData/WD~Internet,75]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~deep web,221989]]"
-  - "[[_Standards/WikiData/WD~surface web,1476753]]"
-  - "[[_Standards/WikiData/WD~website,35127]]"
-influenced by:
-  - "[[_Standards/WikiData/WD~HyperCard,1053749]]"
-  - "[[_Standards/WikiData/WD~ENQUIRE,2385520]]"
-  - "[[_Standards/WikiData/WD~The Interactive Encyclopedia System,7742259]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~digital media,1076968]]"
-  - "[[_Standards/WikiData/WD~service on Internet,1668024]]"
-has effect: "[[_Standards/WikiData/WD~decline of newspapers,1089465]]"
-history of topic: "[[_Standards/WikiData/WD~history of the World Wide Web,1393866]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q23013914,23013914]]"
-motto text: Let's Share What We Know
-location of creation: "[[_Standards/WikiData/WD~CERN,42944]]"
-ACM Classification Code (2012): "10003260"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Alcal%C3%A1%20de%20Henares%20%28RPS%2008-04-2017%29%20Calle%20WWW%2C%20indicador.png
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/WorldWideWebAroundWikipedia.png
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/WWW%20logo%20by%20Robert%20Cailliau.svg
-Stack Exchange tag: https://stackoverflow.com/tags/web
-U.S. National Archives Identifier: "10644635"
-Commons gallery: World Wide Web
-Commons category: World Wide Web
-short name:
-  - WWW
-  - TTT
-inception: 1989-03-12T00:00:00Z 
-has_time_started: 1989-03-12T00:00:00Z 
-time of discovery or invention: 1990-01-01T00:00:00Z
-public domain date: 1993-04-30T00:00:00Z
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Robert Cailliau,92749]]"
+- "[[_Standards/WikiData/WD~Tim Berners-Lee,80]]"
+instance_of:
+- "[[_Standards/WikiData/WD~information system,121182]]"
+- "[[_Standards/WikiData/WD~field of study,1047113]]"
+- "[[_Standards/WikiData/WD~field of study,2267705]]"
+- "[[_Standards/WikiData/WD~hypertext system,65966993]]"
+different_from:
+- "[[_Standards/WikiData/WD~GNOME Web,167784]]"
+- '[[_Standards/WikiData/WD~W3,267091]]'
+- '[[_Standards/WikiData/WD~Internet,75]]'
+has_part_s_:
+- "[[_Standards/WikiData/WD~deep web,221989]]"
+- "[[_Standards/WikiData/WD~surface web,1476753]]"
+- '[[_Standards/WikiData/WD~website,35127]]'
+influenced_by:
+- '[[_Standards/WikiData/WD~HyperCard,1053749]]'
+- '[[_Standards/WikiData/WD~ENQUIRE,2385520]]'
+- "[[_Standards/WikiData/WD~The Interactive Encyclopedia System,7742259]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~digital media,1076968]]"
+- "[[_Standards/WikiData/WD~service on Internet,1668024]]"
+has_effect: "[[_Standards/WikiData/WD~decline of newspapers,1089465]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of the World Wide Web,1393866]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23013914,23013914]]'
+motto_text: "Let's Share What We Know"
+location_of_creation: '[[_Standards/WikiData/WD~CERN,42944]]'
+ACM_Classification_Code_2012_: 10003260
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alcal%C3%A1%20de%20Henares%20%28RPS%2008-04-2017%29%20Calle%20WWW%2C%20indicador.png"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/WorldWideWebAroundWikipedia.png"
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/WWW%20logo%20by%20Robert%20Cailliau.svg"
+Stack_Exchange_tag: "https://stackoverflow.com/tags/web"
+U_S_National_Archives_Identifier: 10644635
+Commons_gallery: "World Wide Web"
+Commons_category: "World Wide Web"
+short_name:
+- WWW
+- TTT
+inception: "1989-03-12T00:00:00Z"
+has_time_started: "1989-03-12T00:00:00Z"
+time_of_discovery_or_invention: "1990-01-01T00:00:00Z"
+public_domain_date: "1993-04-30T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

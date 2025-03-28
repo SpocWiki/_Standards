@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Germanic languages
-Wikidata property: Q21200
+- "Germanic languages"
+Wikidata_property: Q21200
 ---
-
 
 ## #has_/text_of_/abstract 
 

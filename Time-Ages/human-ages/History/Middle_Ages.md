@@ -1,38 +1,38 @@
----
+﻿---
 aliases:
-  - Middle Ages
+- "Middle Ages"
 has_id_wikidata: Q12554
-end time: 1500-01-01T00:00:00Z
-studied in:
-  - "[[_Standards/WikiData/WD~medieval studies,119190]]"
-  - "[[_Standards/WikiData/WD~medieval archaeology,1671076]]"
-  - "[[_Standards/WikiData/WD~medieval history,27992545]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Middle Ages,3248279]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of the Middle Ages,7112768]]"
-instance of:
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
-  - "[[_Standards/WikiData/WD~age,17522177]]"
-Provenio UUID: 44b7f32e-0d01-4964-9102-a67e76b0755d
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Azincourt%20%28cropped%29.jpg
-MeSH tree code: K01.400.500
-start time: 0476-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Europe,46]]"
-OmegaWiki Defined Meaning: "1757744"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg
-WordLift URL: http://data.thenextweb.com/tnw/entity/middle_ages
-Stack Exchange tag: https://history.stackexchange.com/questions/tagged/middle-ages
-U.S. National Archives Identifier: "10641432"
-Iconclass notation: 23T25
-Commons gallery: Middle Ages
-Commons category: Middle Ages
-Stadtwiki Dresden article: Mittelalter
-OpenStreetMap tag or key: Tag:historic:civilization=middle-ages
+end_time: "1500-01-01T00:00:00Z"
+studied_in:
+- "[[_Standards/WikiData/WD~medieval studies,119190]]"
+- "[[_Standards/WikiData/WD~medieval archaeology,1671076]]"
+- "[[_Standards/WikiData/WD~medieval history,27992545]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Middle Ages,3248279]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Middle Ages,7112768]]"
+instance_of:
+- "[[_Standards/WikiData/WD~historical period,11514315]]"
+- '[[_Standards/WikiData/WD~age,17522177]]'
+Provenio_UUID: 44b7f32e-0d01-4964-9102-a67e76b0755d
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Azincourt%20%28cropped%29.jpg"
+MeSH_tree_code: K01.400.500
+start_time: "0476-01-01T00:00:00Z"
+location: '[[_Standards/WikiData/WD~Europe,46]]'
+OmegaWiki_Defined_Meaning: 1757744
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/middle_ages"
+Stack_Exchange_tag: "https://history.stackexchange.com/questions/tagged/middle-ages"
+U_S_National_Archives_Identifier: 10641432
+Iconclass_notation: 23T25
+Commons_gallery: "Middle Ages"
+Commons_category: "Middle Ages"
+Stadtwiki_Dresden_article: Mittelalter
+OpenStreetMap_tag_or_key: "Tag:historic:civilization=middle-ages"
 ---
 
 #has_/time_/started :: 0500-06

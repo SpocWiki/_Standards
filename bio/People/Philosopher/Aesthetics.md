@@ -1,46 +1,44 @@
----
+﻿---
 has_id_wikidata: Q35986
-MeSH tree code:
-  - K01.752.210
-  - F02.463.785.477
-part of: "[[_Standards/WikiData/WD~axiology,186531]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-instance of:
-  - "[[_Standards/WikiData/WD~field of study,1047113]]"
-  - "[[_Standards/WikiData/WD~field of study,2267705]]"
-  - "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
-history of topic: "[[_Standards/WikiData/WD~history of aesthetics,3773025]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Aesthetics,6670897]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of aesthetics,16000272]]"
-practiced by: "[[_Standards/WikiData/WD~aesthetician,21550346]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-different from: "[[_Standards/WikiData/WD~art,55336315]]"
-Library of Congress Classification: BH1-BH301
-Provenio UUID: 142457bd-d95a-4f78-94d6-4916014bab56
-UMLS CUI: C0014901
-subclass of: "[[_Standards/WikiData/WD~philosophy,5891]]"
-OmegaWiki Defined Meaning: "69"
-Dewey Decimal Classification:
-  - "701"
-  - "701.17"
-  - "801.93"
-Commons category: Aesthetics
-Colon Classification: R5
-Basisklassifikation: "08.41"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Aristotelesbunt.jpg
-Iconclass notation: 49C214
+MeSH_tree_code:
+- K01.752.210
+- F02.463.785.477
+part_of: '[[_Standards/WikiData/WD~axiology,186531]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+instance_of:
+- "[[_Standards/WikiData/WD~field of study,1047113]]"
+- "[[_Standards/WikiData/WD~field of study,2267705]]"
+- "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of aesthetics,3773025]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aesthetics,6670897]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of aesthetics,16000272]]"
+practiced_by: '[[_Standards/WikiData/WD~aesthetician,21550346]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+different_from: '[[_Standards/WikiData/WD~art,55336315]]'
+Library_of_Congress_Classification: BH1-BH301
+Provenio_UUID: 142457bd-d95a-4f78-94d6-4916014bab56
+UMLS_CUI: C0014901
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+OmegaWiki_Defined_Meaning: 69
+Dewey_Decimal_Classification:
+- 701
+- 701.17
+- 801.93
+Commons_category: Aesthetics
+Colon_Classification: R5
+Basisklassifikation: 08.41
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Aristotelesbunt.jpg"
+Iconclass_notation: 49C214
 hashtag: aesthetics
 subreddit: Esthetics
-Krugosvet article: gumanitarnye_nauki/filosofiya/ESTETIKA.html
+Krugosvet_article: gumanitarnye_nauki/filosofiya/ESTETIKA.html
 ---
-
-
 
 ## #has_/text_of_/abstract 
 

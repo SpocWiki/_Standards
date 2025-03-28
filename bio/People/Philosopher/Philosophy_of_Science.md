@@ -1,31 +1,30 @@
----
+﻿---
 has_id_wikidata: Q59115
-instance of:
-  - "[[_Standards/WikiData/WD~subject heading,1128340]]"
-  - "[[_Standards/WikiData/WD~branch of science,2465832]]"
-  - "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Philosophy of science,8084428]]"
-Stack Exchange tag: https://philosophy.stackexchange.com/tags/philosophy-of-science
-GitHub topic: philosophy-of-science
+instance_of:
+- "[[_Standards/WikiData/WD~subject heading,1128340]]"
+- "[[_Standards/WikiData/WD~branch of science,2465832]]"
+- "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Philosophy of science,8084428]]"
+Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/philosophy-of-science"
+GitHub_topic: philosophy-of-science
 subreddit: PhilosophyofScience
-history of topic: "[[_Standards/WikiData/WD~Q11897492,11897492]]"
-practiced by: "[[_Standards/WikiData/WD~philosopher of science,16389557]]"
-different from: "[[_Standards/WikiData/WD~Cognitive theory,30747846]]"
-Dewey Decimal Classification:
-  - "001.01"
-  - 1--01
-  - "121"
-  - "501"
-Provenio UUID: 984b5720-f65a-4e5c-a539-9b1f00fbf5dd
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Philosophy%20of%20science%20%28spoken%20by%20AI%20voice%29.mp3
-Library of Congress Classification: Q174-Q175.3
-subclass of: "[[_Standards/WikiData/WD~philosophy,5891]]"
-said to be the same as: "[[_Standards/WikiData/WD~epistemology,9471]]"
-Basisklassifikation: "02.02"
-related image: http://commons.wikimedia.org/wiki/Special:FilePath/Sanzio%2001%20Plato%20Aristotle.jpg
-Commons category: Philosophy of science
+history_of_topic: '[[_Standards/WikiData/WD~Q11897492,11897492]]'
+practiced_by: "[[_Standards/WikiData/WD~philosopher of science,16389557]]"
+different_from: "[[_Standards/WikiData/WD~Cognitive theory,30747846]]"
+Dewey_Decimal_Classification:
+- 001.01
+- 1--01
+- 121
+- 501
+Provenio_UUID: 984b5720-f65a-4e5c-a539-9b1f00fbf5dd
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Philosophy%20of%20science%20%28spoken%20by%20AI%20voice%29.mp3"
+Library_of_Congress_Classification: Q174-Q175.3
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~epistemology,9471]]'
+Basisklassifikation: 02.02
+related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sanzio%2001%20Plato%20Aristotle.jpg"
+Commons_category: "Philosophy of science"
 ---
-
 
 ## #has_/text_of_/abstract 
 

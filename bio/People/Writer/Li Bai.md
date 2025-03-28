@@ -1,77 +1,76 @@
----
+﻿---
 has_id_wikidata: Q7071
-significant person:
-  - "[[_Standards/WikiData/WD~Wang Wei,313605]]"
-  - "[[_Standards/WikiData/WD~Wang Wei,15934970]]"
-described by source:
-  - "[[_Standards/WikiData/WD~New Book of Tang,386073]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Old Book of Tang,1146980]]"
-  - "[[_Standards/WikiData/WD~Wanxiaotang Huazhuan,15904701]]"
-  - "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
-place of birth:
-  - "[[_Standards/WikiData/WD~Suyab,413452]]"
-  - "[[_Standards/WikiData/WD~Jiangyou,1359300]]"
-cause of death: "[[_Standards/WikiData/WD~drowning,506616]]"
-family name: "[[_Standards/WikiData/WD~Li,686223]]"
+significant_person:
+- "[[_Standards/WikiData/WD~Wang Wei,313605]]"
+- "[[_Standards/WikiData/WD~Wang Wei,15934970]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~New Book of Tang,386073]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Old Book of Tang,1146980]]"
+- "[[_Standards/WikiData/WD~Wanxiaotang Huazhuan,15904701]]"
+- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
+place_of_birth:
+- '[[_Standards/WikiData/WD~Suyab,413452]]'
+- '[[_Standards/WikiData/WD~Jiangyou,1359300]]'
+cause_of_death: '[[_Standards/WikiData/WD~drowning,506616]]'
+family_name: '[[_Standards/WikiData/WD~Li,686223]]'
 occupation:
-  - "[[_Standards/WikiData/WD~lyricist,822146]]"
-  - "[[_Standards/WikiData/WD~calligrapher,3303330]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-place of death: "[[_Standards/WikiData/WD~Dangtu County,1159662]]"
-has works in the collection: "[[_Standards/WikiData/WD~The Palace Museum,2047427]]"
-part of: "[[_Standards/WikiData/WD~Eight Immortals of the Wine Cup,3235363]]"
-notable work:
-  - "[[_Standards/WikiData/WD~Quiet Night Thought,4391398]]"
-  - "[[_Standards/WikiData/WD~Mountain Q&A,10823450]]"
-  - "[[_Standards/WikiData/WD~Q10842233,10842233]]"
-  - "[[_Standards/WikiData/WD~Departing from Baidi in the Morning,10868584]]"
-  - "[[_Standards/WikiData/WD~Bringing in the Wine,14918677]]"
-  - "[[_Standards/WikiData/WD~Q17367385,17367385]]"
-  - "[[_Standards/WikiData/WD~A Farewell to a Friend,18909613]]"
-  - "[[_Standards/WikiData/WD~A Farewell to Meng Haoran on his Way to Yangzhou,18909728]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place of burial: "[[_Standards/WikiData/WD~Tomb of Li Bai,11097506]]"
+- '[[_Standards/WikiData/WD~lyricist,822146]]'
+- '[[_Standards/WikiData/WD~calligrapher,3303330]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+place_of_death: "[[_Standards/WikiData/WD~Dangtu County,1159662]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~The Palace Museum,2047427]]"
+part_of: "[[_Standards/WikiData/WD~Eight Immortals of the Wine Cup,3235363]]"
+notable_work:
+- "[[_Standards/WikiData/WD~Quiet Night Thought,4391398]]"
+- "[[_Standards/WikiData/WD~Mountain Q&A,10823450]]"
+- '[[_Standards/WikiData/WD~Q10842233,10842233]]'
+- "[[_Standards/WikiData/WD~Departing from Baidi in the Morning,10868584]]"
+- "[[_Standards/WikiData/WD~Bringing in the Wine,14918677]]"
+- '[[_Standards/WikiData/WD~Q17367385,17367385]]'
+- "[[_Standards/WikiData/WD~A Farewell to a Friend,18909613]]"
+- "[[_Standards/WikiData/WD~A Farewell to Meng Haoran on his Way to Yangzhou,18909728]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: "[[_Standards/WikiData/WD~Tomb of Li Bai,11097506]]"
 family: "[[_Standards/WikiData/WD~Li clan of Longxi,15914504]]"
 father: "[[_Standards/WikiData/WD~Li Ke,21198558]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-given name:
-  - "[[_Standards/WikiData/WD~Bai,94538856]]"
-  - "[[_Standards/WikiData/WD~Tàibái,124421967]]"
-ancestral home: "[[_Standards/WikiData/WD~Rencheng,113652092]]"
-ISNI: "0000000121470982"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E7%99%BD.png
-date of death: 0762-12-04T00:00:00Z
-writing language: "[[_Standards/WikiData/WD~Chinese,7850]]"
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~Chinese,7850]]"
-  - "[[_Standards/WikiData/WD~Classical Chinese,37041]]"
-work location: "[[_Standards/WikiData/WD~China,29520]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-Commons Creator page: Li Bai
-Commons category: Li Bai
-birth name: 李白
-courtesy name: 太白
-Baidu Tieba name: 李白
-NLC authorities: "000202087"
-CYT/CCS: AC000214871
-Europeana entity: agent/base/60135
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+given_name:
+- '[[_Standards/WikiData/WD~Bai,94538856]]'
+- '[[_Standards/WikiData/WD~Tàibái,124421967]]'
+ancestral_home: '[[_Standards/WikiData/WD~Rencheng,113652092]]'
+ISNI: 0000000121470982
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E7%99%BD.png"
+date_of_death: "0762-12-04T00:00:00Z"
+writing_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Chinese,7850]]'
+- "[[_Standards/WikiData/WD~Classical Chinese,37041]]"
+work_location: '[[_Standards/WikiData/WD~China,29520]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+Commons_Creator_page: "Li Bai"
+Commons_category: "Li Bai"
+birth_name: 李白
+courtesy_name: 太白
+Baidu_Tieba_name: 李白
+NLC_authorities: 000202087
+CYT_CCS: AC000214871
+Europeana_entity: agent/base/60135
 Libris-URI: b8nqlhxv1b7wbnz
-Krugosvet article: kultura_i_obrazovanie/literatura/LI_BO_LI_TA-BO.html
-Google Doodle: li-bais-birthday
-name in kana: り はく
-art name:
-  - 酒仙翁
-  - 青蓮居士
-name in native language: 李白
-date of birth: 0701-05-23T00:00:00Z
+Krugosvet_article: kultura_i_obrazovanie/literatura/LI_BO_LI_TA-BO.html
+Google_Doodle: li-bais-birthday
+name_in_kana: "り はく"
+art_name:
+- 酒仙翁
+- 青蓮居士
+name_in_native_language: 李白
+date_of_birth: "0701-05-23T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

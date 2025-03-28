@@ -1,26 +1,25 @@
----
+﻿---
 has_id_wikidata: Q9476
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-facet of: "[[_Standards/WikiData/WD~will,364340]]"
-instance of:
-  - "[[_Standards/WikiData/WD~religious concept,23847174]]"
-  - "[[_Standards/WikiData/WD~philosophical concept,33104279]]"
-does not have characteristic: "[[_Standards/WikiData/WD~limitation,105766481]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Freewill.ogg
-Stack Exchange tag:
-  - https://philosophy.stackexchange.com/tags/free-will
-  - https://physics.stackexchange.com/tags/free-will
-PhilPapers topic: free-will
-Colon Classification: Q:352
-has characteristic: "[[_Standards/WikiData/WD~liberty,2979]]"
-Commons category: Free will
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+facet_of: '[[_Standards/WikiData/WD~will,364340]]'
+instance_of:
+- "[[_Standards/WikiData/WD~religious concept,23847174]]"
+- "[[_Standards/WikiData/WD~philosophical concept,33104279]]"
+does_not_have_characteristic: '[[_Standards/WikiData/WD~limitation,105766481]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Freewill.ogg"
+Stack_Exchange_tag:
+- "https://philosophy.stackexchange.com/tags/free-will"
+- "https://physics.stackexchange.com/tags/free-will"
+PhilPapers_topic: free-will
+Colon_Classification: "Q:352"
+has_characteristic: '[[_Standards/WikiData/WD~liberty,2979]]'
+Commons_category: "Free will"
 ---
-
 
 ## #has_/text_of_/abstract 
 

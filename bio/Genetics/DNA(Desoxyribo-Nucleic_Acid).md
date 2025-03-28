@@ -1,57 +1,57 @@
----
+﻿---
 has_id_wikidata: Q7430
-Unicode character: 🧬
-image: http://commons.wikimedia.org/wiki/Special:FilePath/DNA%20animation.gif
-Merck Index monograph: m4178
-3D model: http://commons.wikimedia.org/wiki/Special:FilePath/3D-Modell%20DNA-Doppelhelix%2020220603.stl
-video: http://commons.wikimedia.org/wiki/Special:FilePath/CRISPR-Cas9%2C%20geneak%20mozteko%20guraizeak.webm
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dna.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B4%D5%B6%D5%A9%20%28DNA%29.oga
-CAS Registry Number: 9007-49-2
-MeSH tree code: D13.444.308
-NCI Dictionary of Genetics Terms entry:
-  - deoxyribonucleic-acid
-  - dna
-Biology Online Biology Dictionary entry: deoxyribonucleic-acid
-short name:
-  - DNK
-  - DNA
-has part(s):
-  - "[[_Standards/WikiData/WD~polynucleotide,80756]]"
-  - "[[_Standards/WikiData/WD~nucleotide,28745]]"
+Unicode_character: "\U0001F9EC"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/DNA%20animation.gif"
+Merck_Index_monograph: m4178
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/3D-Modell%20DNA-Doppelhelix%2020220603.stl"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/CRISPR-Cas9%2C%20geneak%20mozteko%20guraizeak.webm"
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Dna.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B4%D5%B6%D5%A9%20%28DNA%29.oga"
+CAS_Registry_Number: 9007-49-2
+MeSH_tree_code: D13.444.308
+NCI_Dictionary_of_Genetics_Terms_entry:
+- deoxyribonucleic-acid
+- dna
+Biology_Online_Biology_Dictionary_entry: deoxyribonucleic-acid
+short_name:
+- DNK
+- DNA
+has_part_s_:
+- '[[_Standards/WikiData/WD~polynucleotide,80756]]'
+- '[[_Standards/WikiData/WD~nucleotide,28745]]'
 shape:
-  - "[[_Standards/WikiData/WD~spring,102836]]"
-  - "[[_Standards/WikiData/WD~helix,201717]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~nucleic acids,123619]]"
-  - "[[_Standards/WikiData/WD~biopolymer,422649]]"
-  - "[[_Standards/WikiData/WD~biological macromolecule,66560214]]"
-part of:
-  - "[[_Standards/WikiData/WD~nucleosome,271794]]"
-  - "[[_Standards/WikiData/WD~DNA binding,14633858]]"
-  - "[[_Standards/WikiData/WD~DNA metabolic process,14877613]]"
-  - "[[_Standards/WikiData/WD~protein-DNA complex,14888035]]"
-  - "[[_Standards/WikiData/WD~DNA catabolic process,14901481]]"
-  - "[[_Standards/WikiData/WD~DNA biosynthetic process,21101125]]"
-  - "[[_Standards/WikiData/WD~DNA transport,22288464]]"
-  - "[[_Standards/WikiData/WD~DNA import into cell involved in transformation,22291735]]"
-  - "[[_Standards/WikiData/WD~DNA transmembrane transporter activity,22324811]]"
-  - "[[_Standards/WikiData/WD~protein-DNA-RNA complex,22325439]]"
-  - "[[_Standards/WikiData/WD~catalytic activity, acting on DNA,41512965]]"
-  - "[[_Standards/WikiData/WD~genome,7020]]"
-  - "[[_Standards/WikiData/WD~mitochondrion,39572]]"
-  - "[[_Standards/WikiData/WD~nucleus,40260]]"
-studied in: "[[_Standards/WikiData/WD~genealogical DNA test,1154589]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~Q2682086,2682086]]"
-disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
-Google Doodle: celebrating-dnas-50th-anniversary
-develops from: "[[_Standards/WikiData/WD~RNA,11053]]"
-OmegaWiki Defined Meaning: "961"
-CosIng number: "33725"
-Commons gallery: DNA
-Commons category: DNA
+- '[[_Standards/WikiData/WD~spring,102836]]'
+- '[[_Standards/WikiData/WD~helix,201717]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~nucleic acids,123619]]"
+- '[[_Standards/WikiData/WD~biopolymer,422649]]'
+- "[[_Standards/WikiData/WD~biological macromolecule,66560214]]"
+part_of:
+- '[[_Standards/WikiData/WD~nucleosome,271794]]'
+- "[[_Standards/WikiData/WD~DNA binding,14633858]]"
+- "[[_Standards/WikiData/WD~DNA metabolic process,14877613]]"
+- "[[_Standards/WikiData/WD~protein-DNA complex,14888035]]"
+- "[[_Standards/WikiData/WD~DNA catabolic process,14901481]]"
+- "[[_Standards/WikiData/WD~DNA biosynthetic process,21101125]]"
+- "[[_Standards/WikiData/WD~DNA transport,22288464]]"
+- "[[_Standards/WikiData/WD~DNA import into cell involved in transformation,22291735]]"
+- "[[_Standards/WikiData/WD~DNA transmembrane transporter activity,22324811]]"
+- "[[_Standards/WikiData/WD~protein-DNA-RNA complex,22325439]]"
+- "[[_Standards/WikiData/WD~catalytic activity, acting on DNA,41512965]]"
+- '[[_Standards/WikiData/WD~genome,7020]]'
+- '[[_Standards/WikiData/WD~mitochondrion,39572]]'
+- '[[_Standards/WikiData/WD~nucleus,40260]]'
+studied_in: "[[_Standards/WikiData/WD~genealogical DNA test,1154589]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~Q2682086,2682086]]'
+disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
+Google_Doodle: celebrating-dnas-50th-anniversary
+develops_from: '[[_Standards/WikiData/WD~RNA,11053]]'
+OmegaWiki_Defined_Meaning: 961
+CosIng_number: 33725
+Commons_gallery: DNA
+Commons_category: DNA
 subreddit: DNA
 hashtag: DNA
 ---

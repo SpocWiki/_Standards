@@ -1,27 +1,26 @@
----
+﻿---
 has_id_wikidata: Q5322
-has characteristic: "[[_Standards/WikiData/WD~capacitance,164399]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~one-port circuit,233003]]"
-  - "[[_Standards/WikiData/WD~passive electronic component,9252564]]"
-  - "[[_Standards/WikiData/WD~electronic component,11653]]"
-different from:
-  - "[[_Standards/WikiData/WD~battery,267298]]"
-  - "[[_Standards/WikiData/WD~condenser,607569]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315%20Fundamental%20Items%20Symbols%20%2832%29.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/JVC%20MX-J950R%20-%20power%20module-1112%20%28cropped%29%20-%20Elna%20Silmic%20electrolytic%20capacitors.jpg
-Stack Exchange tag: https://electronics.stackexchange.com/tags/capacitor
-GS1 GPC code: "10005622"
-Commons category: Capacitors
-short name:
-  - C
+has_characteristic: '[[_Standards/WikiData/WD~capacitance,164399]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~one-port circuit,233003]]"
+- "[[_Standards/WikiData/WD~passive electronic component,9252564]]"
+- "[[_Standards/WikiData/WD~electronic component,11653]]"
+different_from:
+- '[[_Standards/WikiData/WD~battery,267298]]'
+- '[[_Standards/WikiData/WD~condenser,607569]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315%20Fundamental%20Items%20Symbols%20%2832%29.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/JVC%20MX-J950R%20-%20power%20module-1112%20%28cropped%29%20-%20Elna%20Silmic%20electrolytic%20capacitors.jpg"
+Stack_Exchange_tag: "https://electronics.stackexchange.com/tags/capacitor"
+GS1_GPC_code: 10005622
+Commons_category: Capacitors
+short_name:
+- C
 aliases:
-  - electronic condenser
+- "electronic condenser"
 ---
-
 
 ## #has_/text_of_/abstract 
 

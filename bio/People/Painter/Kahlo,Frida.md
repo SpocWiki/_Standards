@@ -1,108 +1,108 @@
----
+﻿---
 aliases:
-  - Frida Kahlo
-  - Magdalena Carmen Frida Kahlo y Calderón
+- "Frida Kahlo"
+- "Magdalena Carmen Frida Kahlo y Calderón"
 has_id_wikidata: Q5588
 genre:
-  - "[[_Standards/WikiData/WD~portrait,134307]]"
-  - "[[_Standards/WikiData/WD~self-portrait,192110]]"
-  - "[[_Standards/WikiData/WD~portrait painting,1400853]]"
+- '[[_Standards/WikiData/WD~portrait,134307]]'
+- '[[_Standards/WikiData/WD~self-portrait,192110]]'
+- "[[_Standards/WikiData/WD~portrait painting,1400853]]"
 movement: "[[_Standards/WikiData/WD~magic realism,147516]]"
 spouse: "[[_Standards/WikiData/WD~Diego Rivera,171128]]"
-field of work:
-  - "[[_Standards/WikiData/WD~diary,185598]]"
-  - "[[_Standards/WikiData/WD~Mexican painting,6076382]]"
-  - "[[_Standards/WikiData/WD~art of painting,11629]]"
-has works in the collection:
-  - "[[_Standards/WikiData/WD~Museum of Modern Art,188740]]"
-  - "[[_Standards/WikiData/WD~National Museum of Women in the Arts,861608]]"
-  - "[[_Standards/WikiData/WD~San Francisco Museum of Modern Art,913672]]"
-  - "[[_Standards/WikiData/WD~Phoenix Art Museum,977015]]"
-  - "[[_Standards/WikiData/WD~Los Angeles County Museum of Art,1641836]]"
-  - "[[_Standards/WikiData/WD~Museo Dolores Olmedo,1744258]]"
-  - "[[_Standards/WikiData/WD~National Museum of Modern Art,1895953]]"
-  - "[[_Standards/WikiData/WD~Buffalo AKG Art Museum,1970945]]"
-  - "[[_Standards/WikiData/WD~The Nelson-Atkins Museum of Art,1976985]]"
-  - "[[_Standards/WikiData/WD~Frida Kahlo Museum,2663377]]"
-  - "[[_Standards/WikiData/WD~Museo de Arte Moderno,3032842]]"
-  - "[[_Standards/WikiData/WD~Harry Ransom Center,5671855]]"
-cause of death:
-  - "[[_Standards/WikiData/WD~pulmonary embolism,220570]]"
-  - "[[_Standards/WikiData/WD~bronchopneumonia,734512]]"
-  - "[[_Standards/WikiData/WD~phlebitis,1423167]]"
+field_of_work:
+- '[[_Standards/WikiData/WD~diary,185598]]'
+- "[[_Standards/WikiData/WD~Mexican painting,6076382]]"
+- "[[_Standards/WikiData/WD~art of painting,11629]]"
+has_works_in_the_collection:
+- "[[_Standards/WikiData/WD~Museum of Modern Art,188740]]"
+- "[[_Standards/WikiData/WD~National Museum of Women in the Arts,861608]]"
+- "[[_Standards/WikiData/WD~San Francisco Museum of Modern Art,913672]]"
+- "[[_Standards/WikiData/WD~Phoenix Art Museum,977015]]"
+- "[[_Standards/WikiData/WD~Los Angeles County Museum of Art,1641836]]"
+- "[[_Standards/WikiData/WD~Museo Dolores Olmedo,1744258]]"
+- "[[_Standards/WikiData/WD~National Museum of Modern Art,1895953]]"
+- "[[_Standards/WikiData/WD~Buffalo AKG Art Museum,1970945]]"
+- "[[_Standards/WikiData/WD~The Nelson-Atkins Museum of Art,1976985]]"
+- "[[_Standards/WikiData/WD~Frida Kahlo Museum,2663377]]"
+- "[[_Standards/WikiData/WD~Museo de Arte Moderno,3032842]]"
+- "[[_Standards/WikiData/WD~Harry Ransom Center,5671855]]"
+cause_of_death:
+- "[[_Standards/WikiData/WD~pulmonary embolism,220570]]"
+- '[[_Standards/WikiData/WD~bronchopneumonia,734512]]'
+- '[[_Standards/WikiData/WD~phlebitis,1423167]]'
 father: "[[_Standards/WikiData/WD~Guillermo Kahlo,573125]]"
-place of burial: "[[_Standards/WikiData/WD~Coyoacán,661315]]"
-given name:
-  - "[[_Standards/WikiData/WD~Magdalena,842544]]"
-  - "[[_Standards/WikiData/WD~Frida,848549]]"
-  - "[[_Standards/WikiData/WD~Carmen,1043619]]"
-occupation: "[[_Standards/WikiData/WD~painter,1028181]]"
-member of political party: "[[_Standards/WikiData/WD~Mexican Communist Party,2054610]]"
-place of death: "[[_Standards/WikiData/WD~Coyoacán,2597249]]"
-place of birth: "[[_Standards/WikiData/WD~Coyoacán,2597249]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-  - "[[_Standards/WikiData/WD~Concise Dictionary of Women Artists,28487969]]"
-  - "[[_Standards/WikiData/WD~Great Women Masters of Art,28927781]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]"
-notable work:
-  - "[[_Standards/WikiData/WD~The Two Fridas,3232010]]"
-  - "[[_Standards/WikiData/WD~Still Life_ Pitahayas,18343221]]"
-manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-copyright representative:
-  - "[[_Standards/WikiData/WD~Artists Rights Society,4801318]]"
-  - "[[_Standards/WikiData/WD~reproduction right represented by CISAC-member,71528227]]"
-  - "[[_Standards/WikiData/WD~Banco de México Diego Rivera Frida Kahlo Museums Trust,72402279]]"
-represented by: "[[_Standards/WikiData/WD~Artists Rights Society,4801318]]"
-artist files at:
-  - "[[_Standards/WikiData/WD~Frick Art Research Library,5503390]]"
-  - "[[_Standards/WikiData/WD~College for Creative Studies Library,117794751]]"
-owner of: "[[_Standards/WikiData/WD~Self-Portrait with Monkey,5712848]]"
-sex or gender: "[[_Standards/WikiData/WD~female,6581072]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-  - "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
-  - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
-second family name in Spanish name: "[[_Standards/WikiData/WD~Calderón,27792440]]"
-family name: "[[_Standards/WikiData/WD~Kahlo,41661665]]"
+place_of_burial: '[[_Standards/WikiData/WD~Coyoacán,661315]]'
+given_name:
+- '[[_Standards/WikiData/WD~Magdalena,842544]]'
+- '[[_Standards/WikiData/WD~Frida,848549]]'
+- '[[_Standards/WikiData/WD~Carmen,1043619]]'
+occupation: '[[_Standards/WikiData/WD~painter,1028181]]'
+member_of_political_party: "[[_Standards/WikiData/WD~Mexican Communist Party,2054610]]"
+place_of_death: '[[_Standards/WikiData/WD~Coyoacán,2597249]]'
+place_of_birth: '[[_Standards/WikiData/WD~Coyoacán,2597249]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
+- "[[_Standards/WikiData/WD~Concise Dictionary of Women Artists,28487969]]"
+- "[[_Standards/WikiData/WD~Great Women Masters of Art,28927781]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- '[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]'
+notable_work:
+- "[[_Standards/WikiData/WD~The Two Fridas,3232010]]"
+- "[[_Standards/WikiData/WD~Still Life_ Pitahayas,18343221]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+copyright_representative:
+- "[[_Standards/WikiData/WD~Artists Rights Society,4801318]]"
+- "[[_Standards/WikiData/WD~reproduction right represented by CISAC-member,71528227]]"
+- "[[_Standards/WikiData/WD~Banco de México Diego Rivera Frida Kahlo Museums Trust,72402279]]"
+represented_by: "[[_Standards/WikiData/WD~Artists Rights Society,4801318]]"
+artist_files_at:
+- "[[_Standards/WikiData/WD~Frick Art Research Library,5503390]]"
+- "[[_Standards/WikiData/WD~College for Creative Studies Library,117794751]]"
+owner_of: "[[_Standards/WikiData/WD~Self-Portrait with Monkey,5712848]]"
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+on_focus_list_of_Wikimedia_project:
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+- "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
+- "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
+second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Calderón,27792440]]'
+family_name: '[[_Standards/WikiData/WD~Kahlo,41661665]]'
 sibling: "[[_Standards/WikiData/WD~Cristina Kahlo y Calderón,47541637]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Diversidad%20de%20la%20Ciudad%20de%20Murcia%20-%20Placa%2016%20-%20Frida%20Kahlo%20%28cropped%29.jpg
-ISNI: "0000000121477893"
-birth name: Magdalena Frida Carmen Kahlo
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~Spanish,1321]]"
-work location:
-  - "[[_Standards/WikiData/WD~Mexico City,1489]]"
-  - "[[_Standards/WikiData/WD~Detroit,12439]]"
-  - "[[_Standards/WikiData/WD~San Francisco,62]]"
-  - "[[_Standards/WikiData/WD~New York City,60]]"
-religion or worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-medical condition: "[[_Standards/WikiData/WD~poliomyelitis,12195]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-country of citizenship: "[[_Standards/WikiData/WD~Mexico,96]]"
-sexual orientation: "[[_Standards/WikiData/WD~bisexuality,43200]]"
-social media followers: 59741
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%20signature%20firma.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro%20%281%29.ogg
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Diversidad%20de%20la%20Ciudad%20de%20Murcia%20-%20Placa%2016%20-%20Frida%20Kahlo%20%28cropped%29.jpg"
+ISNI: 0000000121477893
+birth_name: "Magdalena Frida Carmen Kahlo"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
+work_location:
+- "[[_Standards/WikiData/WD~Mexico City,1489]]"
+- '[[_Standards/WikiData/WD~Detroit,12439]]'
+- "[[_Standards/WikiData/WD~San Francisco,62]]"
+- "[[_Standards/WikiData/WD~New York City,60]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+medical_condition: '[[_Standards/WikiData/WD~poliomyelitis,12195]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Mexico,96]]'
+sexual_orientation: '[[_Standards/WikiData/WD~bisexuality,43200]]'
+social_media_followers: 59741
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%20signature%20firma.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg"
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro%20%281%29.ogg"
 Libris-URI: 42gjkdnn1bsxn0c
-BHCL UUID: ad3563dd-20a6-4f6a-9eef-bef48446a5cc
-Europeana entity: agent/base/61402
-Commons gallery: Frida Kahlo
-Commons category: Frida Kahlo
-Commons Creator page: Frida Kahlo
-Google Doodle: frida-kahlos-103rd-birthday
-X username: FridaKahlo
-IPI base code: I-001918102-1
-DPLA subject term: Kahlo, Frida
-Krugosvet article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/KALO_FRIDA.html
-name in native language: Frida Kahlo
-date of death: 1954-07-13T00:00:00Z
-date of birth: 1907-07-06T00:00:00Z
+BHCL_UUID: ad3563dd-20a6-4f6a-9eef-bef48446a5cc
+Europeana_entity: agent/base/61402
+Commons_gallery: "Frida Kahlo"
+Commons_category: "Frida Kahlo"
+Commons_Creator_page: "Frida Kahlo"
+Google_Doodle: frida-kahlos-103rd-birthday
+X_username: FridaKahlo
+IPI_base_code: I-001918102-1
+DPLA_subject_term: "Kahlo, Frida"
+Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/KALO_FRIDA.html
+name_in_native_language: "Frida Kahlo"
+date_of_death: "1954-07-13T00:00:00Z"
+date_of_birth: "1907-07-06T00:00:00Z"
 ---
 
 #has_/time_/started :: 1907-07-06 

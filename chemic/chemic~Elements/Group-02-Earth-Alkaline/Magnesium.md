@@ -1,99 +1,100 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21914
 has_id_wikidata: Q660
-made from material:
-  - "[[_Standards/WikiData/WD~talc,134583]]"
-  - "[[_Standards/WikiData/WD~dolomite,167741]]"
-  - "[[_Standards/WikiData/WD~carnallite,409781]]"
-  - "[[_Standards/WikiData/WD~brucite,419250]]"
-  - "[[_Standards/WikiData/WD~magnesite,425450]]"
-  - "[[_Standards/WikiData/WD~olivine,22693]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 3,211331]]"
-  - "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~period 3,211331]]"
-  - "[[_Standards/WikiData/WD~simple substance,2512777]]"
-  - "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
-named after: "[[_Standards/WikiData/WD~magnesium oxide,214769]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Joseph Black,272512]]"
-found in taxon:
-  - "[[_Standards/WikiData/WD~Hibiscus sabdariffa,319390]]"
-  - "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
-  - "[[_Standards/WikiData/WD~Phytelephas aequatorialis,2709988]]"
-  - "[[_Standards/WikiData/WD~Montanoa tomentosa,6904440]]"
-  - "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
-  - "[[_Standards/WikiData/WD~Montanoa frutescens,15564776]]"
-  - "[[_Standards/WikiData/WD~Montanoa grandiflora,15564965]]"
-  - "[[_Standards/WikiData/WD~Montanoa leucantha,15565960]]"
-  - "[[_Standards/WikiData/WD~Chamomilla recutita,50837010]]"
-  - "[[_Standards/WikiData/WD~Matricaria chamomilla,28437]]"
-  - "[[_Standards/WikiData/WD~cacao,42385]]"
-  - "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Magnesium,108309332]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-time of discovery or invention: 1755-01-01T00:00:00Z
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20magnesium%20crystal.webm
-different from: "[[_Standards/WikiData/WD~manganese,731]]"
-location of discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
-oxidation state:
-  - 1
-  - 2
+made_from_material:
+- '[[_Standards/WikiData/WD~talc,134583]]'
+- '[[_Standards/WikiData/WD~dolomite,167741]]'
+- '[[_Standards/WikiData/WD~carnallite,409781]]'
+- '[[_Standards/WikiData/WD~brucite,419250]]'
+- '[[_Standards/WikiData/WD~magnesite,425450]]'
+- '[[_Standards/WikiData/WD~olivine,22693]]'
+part_of:
+- "[[_Standards/WikiData/WD~period 3,211331]]"
+- "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~period 3,211331]]"
+- "[[_Standards/WikiData/WD~simple substance,2512777]]"
+- "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+named_after: "[[_Standards/WikiData/WD~magnesium oxide,214769]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Joseph Black,272512]]"
+found_in_taxon:
+- "[[_Standards/WikiData/WD~Hibiscus sabdariffa,319390]]"
+- "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
+- "[[_Standards/WikiData/WD~Phytelephas aequatorialis,2709988]]"
+- "[[_Standards/WikiData/WD~Montanoa tomentosa,6904440]]"
+- "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
+- "[[_Standards/WikiData/WD~Montanoa frutescens,15564776]]"
+- "[[_Standards/WikiData/WD~Montanoa grandiflora,15564965]]"
+- "[[_Standards/WikiData/WD~Montanoa leucantha,15565960]]"
+- "[[_Standards/WikiData/WD~Chamomilla recutita,50837010]]"
+- "[[_Standards/WikiData/WD~Matricaria chamomilla,28437]]"
+- '[[_Standards/WikiData/WD~cacao,42385]]'
+- "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- '[[_Standards/WikiData/WD~Magnesium,108309332]]'
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+time_of_discovery_or_invention: "1755-01-01T00:00:00Z"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20magnesium%20crystal.webm"
+different_from: '[[_Standards/WikiData/WD~manganese,731]]'
+location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+oxidation_state:
+- 1
+- 2
 electronegativity: 1
-boiling point: 1100
-atomic number: 12
-ionic radius:
-  - 0.57
-  - 0.72
-  - 0.89
-electrical conductivity: 21500000
-standard molar entropy: 32.7
-melting point: 649
-CosIng number: "87337"
+boiling_point: 1100
+atomic_number: 12
+ionic_radius:
+- 0.57
+- 0.72
+- 0.89
+electrical_conductivity: 21500000
+standard_molar_entropy: 32.7
+melting_point: 649
+CosIng_number: 87337
 mass: 24.305
-ZVG number:
-  - "7120"
-  - "8090"
-  - "500042"
-OmegaWiki Defined Meaning: "158358"
-U.S. National Archives Identifier: "10646571"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Magnesium%20crystals.jpg
-canonical SMILES: "[Mg]"
-electron configuration:
-  - "[Ne] 3s²"
-  - 1s² 2s² 2p⁶ 3s²
-EC number: 231-104-6
-Dewey Decimal Classification:
-  - "546.392"
-  - "669.723"
-PubChem CID: "5462224"
-CAS Registry Number: 7439-95-4
-UMLS CUI: C0024467
-MeSH tree code:
-  - D01.268.552.437
-  - D01.268.557.500
-  - D01.552.547.500
-DSSTOX compound identifier: DTXCID70876310
+ZVG_number:
+- 7120
+- 8090
+- 500042
+OmegaWiki_Defined_Meaning: 158358
+U_S_National_Archives_Identifier: 10646571
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Magnesium%20crystals.jpg"
+canonical_SMILES: '[Mg]'
+electron_configuration:
+- "[Ne] 3s²"
+- "1s² 2s² 2p⁶ 3s²"
+EC_number: 231-104-6
+Dewey_Decimal_Classification:
+- 546.392
+- 669.723
+PubChem_CID: 5462224
+CAS_Registry_Number: 7439-95-4
+UMLS_CUI: C0024467
+MeSH_tree_code:
+- D01.268.552.437
+- D01.268.557.500
+- D01.552.547.500
+DSSTOX_compound_identifier: DTXCID70876310
 InChIKey: FYYHWMGAXLPEAU-UHFFFAOYSA-N
 UNII: I38ZP9992A
 InChI: InChI=1S/Mg
-Commons gallery: Magnesium
-Commons category: Magnesium
-chemical formula: Mg
-element symbol: Mg
-Krugosvet article: nauka_i_tehnika/himiya/MAGNI.html
-Unicode character: 鎂
+Commons_gallery: Magnesium
+Commons_category: Magnesium
+chemical_formula: Mg
+element_symbol: Mg
+Krugosvet_article: nauka_i_tehnika/himiya/MAGNI.html
+Unicode_character: 鎂
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Magnesium,660]] 
 

@@ -1,76 +1,76 @@
----
+﻿---
 aliases:
-  - Southern Ocean
-  - Antarctic Ocean
+- "Southern Ocean"
+- "Antarctic Ocean"
 has_id_wikidata: Q7354
-Colon Classification: SG--983
-Commons category: Southern Ocean
-Commons gallery: Southern Ocean
-has part(s):
-  - "[[_Standards/WikiData/WD~Amundsen Sea,72154]]"
-  - "[[_Standards/WikiData/WD~Drake Passage,143650]]"
-  - "[[_Standards/WikiData/WD~Ross Sea,164466]]"
-  - "[[_Standards/WikiData/WD~Weddell Sea,173343]]"
-  - "[[_Standards/WikiData/WD~Bellingshausen Sea,183455]]"
-  - "[[_Standards/WikiData/WD~Scotia Sea,204703]]"
-  - "[[_Standards/WikiData/WD~Admiralty Bay,218189]]"
-  - "[[_Standards/WikiData/WD~Ellis Fjord,261108]]"
-  - "[[_Standards/WikiData/WD~Bigourdan Fjord,261115]]"
-  - "[[_Standards/WikiData/WD~Krok Fjord,261334]]"
-  - "[[_Standards/WikiData/WD~Langnes Fjord,261342]]"
-  - "[[_Standards/WikiData/WD~Nielsen Fjord,262167]]"
-  - "[[_Standards/WikiData/WD~Tryne Fjord,262799]]"
-  - "[[_Standards/WikiData/WD~Laubeuf Fjord,262999]]"
-  - "[[_Standards/WikiData/WD~Bourgeois Fjord,263370]]"
-  - "[[_Standards/WikiData/WD~Lallemand Fjord,263377]]"
-  - "[[_Standards/WikiData/WD~Davis Sea,509321]]"
-  - "[[_Standards/WikiData/WD~D'Urville Sea,1391243]]"
-  - "[[_Standards/WikiData/WD~Somov Sea,1404920]]"
-  - "[[_Standards/WikiData/WD~Cosmonauts Sea,1509546]]"
-  - "[[_Standards/WikiData/WD~Mawson Sea,1902276]]"
-  - "[[_Standards/WikiData/WD~Antarctic Bottom Water,3913650]]"
-  - "[[_Standards/WikiData/WD~Antarctic Intermediate Water,4770998]]"
-  - "[[_Standards/WikiData/WD~Briand Fjord,4965740]]"
-  - "[[_Standards/WikiData/WD~Cirque Fjord,5121960]]"
-  - "[[_Standards/WikiData/WD~Dogs Leg Fjord,5288437]]"
-  - "[[_Standards/WikiData/WD~Étienne Fjord,8078461]]"
-  - "[[_Standards/WikiData/WD~Innerster Fjord,22442395]]"
-  - "[[_Standards/WikiData/WD~Thala Fjord,22479884]]"
-  - "[[_Standards/WikiData/WD~Johnston Firth,22484627]]"
-  - "[[_Standards/WikiData/WD~Clemence Fjord,22512081]]"
-  - "[[_Standards/WikiData/WD~Nella Fjord,22592898]]"
-  - "[[_Standards/WikiData/WD~St. Nicholas Cove,65072782]]"
-different from: "[[_Standards/WikiData/WD~South Seas,351668]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-part of: "[[_Standards/WikiData/WD~World Ocean,715269]]"
-topic's main template: "[[_Standards/WikiData/WD~Q10584749,10584749]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Antarctic Treaty area,21590062]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42353201,42353201]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Southern%20Ocean.svg
-coordinates of southernmost point: Point(-163.685 -78.733)
-coordinates of northernmost point: Point(0.0 -60.0)
-named after:
-  - "[[_Standards/WikiData/WD~south,667]]"
-  - "[[_Standards/WikiData/WD~Antarctica,51]]"
-instance of: "[[_Standards/WikiData/WD~ocean,9430]]"
-continent: "[[_Standards/WikiData/WD~Antarctica,51]]"
+Colon_Classification: SG--983
+Commons_category: "Southern Ocean"
+Commons_gallery: "Southern Ocean"
+has_part_s_:
+- "[[_Standards/WikiData/WD~Amundsen Sea,72154]]"
+- "[[_Standards/WikiData/WD~Drake Passage,143650]]"
+- "[[_Standards/WikiData/WD~Ross Sea,164466]]"
+- "[[_Standards/WikiData/WD~Weddell Sea,173343]]"
+- "[[_Standards/WikiData/WD~Bellingshausen Sea,183455]]"
+- "[[_Standards/WikiData/WD~Scotia Sea,204703]]"
+- "[[_Standards/WikiData/WD~Admiralty Bay,218189]]"
+- "[[_Standards/WikiData/WD~Ellis Fjord,261108]]"
+- "[[_Standards/WikiData/WD~Bigourdan Fjord,261115]]"
+- "[[_Standards/WikiData/WD~Krok Fjord,261334]]"
+- "[[_Standards/WikiData/WD~Langnes Fjord,261342]]"
+- "[[_Standards/WikiData/WD~Nielsen Fjord,262167]]"
+- "[[_Standards/WikiData/WD~Tryne Fjord,262799]]"
+- "[[_Standards/WikiData/WD~Laubeuf Fjord,262999]]"
+- "[[_Standards/WikiData/WD~Bourgeois Fjord,263370]]"
+- "[[_Standards/WikiData/WD~Lallemand Fjord,263377]]"
+- "[[_Standards/WikiData/WD~Davis Sea,509321]]"
+- "[[_Standards/WikiData/WD~D'Urville Sea,1391243]]"
+- "[[_Standards/WikiData/WD~Somov Sea,1404920]]"
+- "[[_Standards/WikiData/WD~Cosmonauts Sea,1509546]]"
+- "[[_Standards/WikiData/WD~Mawson Sea,1902276]]"
+- "[[_Standards/WikiData/WD~Antarctic Bottom Water,3913650]]"
+- "[[_Standards/WikiData/WD~Antarctic Intermediate Water,4770998]]"
+- "[[_Standards/WikiData/WD~Briand Fjord,4965740]]"
+- "[[_Standards/WikiData/WD~Cirque Fjord,5121960]]"
+- "[[_Standards/WikiData/WD~Dogs Leg Fjord,5288437]]"
+- "[[_Standards/WikiData/WD~Étienne Fjord,8078461]]"
+- "[[_Standards/WikiData/WD~Innerster Fjord,22442395]]"
+- "[[_Standards/WikiData/WD~Thala Fjord,22479884]]"
+- "[[_Standards/WikiData/WD~Johnston Firth,22484627]]"
+- "[[_Standards/WikiData/WD~Clemence Fjord,22512081]]"
+- "[[_Standards/WikiData/WD~Nella Fjord,22592898]]"
+- "[[_Standards/WikiData/WD~St. Nicholas Cove,65072782]]"
+different_from: "[[_Standards/WikiData/WD~South Seas,351668]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+part_of: "[[_Standards/WikiData/WD~World Ocean,715269]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q10584749,10584749]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic Treaty area,21590062]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353201,42353201]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Southern%20Ocean.svg"
+coordinates_of_southernmost_point: "Point(-163.685 -78.733)"
+coordinates_of_northernmost_point: "Point(0.0 -60.0)"
+named_after:
+- '[[_Standards/WikiData/WD~south,667]]'
+- '[[_Standards/WikiData/WD~Antarctica,51]]'
+instance_of: '[[_Standards/WikiData/WD~ocean,9430]]'
+continent: '[[_Standards/WikiData/WD~Antarctica,51]]'
 location: "[[_Standards/WikiData/WD~Southern Hemisphere,41228]]"
-volume as quantity: 71800000
-OmegaWiki Defined Meaning: "204"
-vertical depth: 7235
+volume_as_quantity: 71800000
+OmegaWiki_Defined_Meaning: 204
+vertical_depth: 7235
 coastline: 17968
 area: 20327000
-coordinate location: Point(90.0 -65.0)
-official name: Southern Ocean
-relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctic%20Ocean%20relief%20location%20map.png
-bathymetry image: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica-Region.png
+coordinate_location: "Point(90.0 -65.0)"
+official_name: "Southern Ocean"
+relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Antarctic%20Ocean%20relief%20location%20map.png"
+bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica-Region.png"
 ---
 
 ## [[Ocean~Antarctic]]  

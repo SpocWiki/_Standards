@@ -1,66 +1,65 @@
----
+﻿---
 has_id_wikidata: Q11570
-named after:
-  - "[[_Standards/WikiData/WD~kilo,107428]]"
-  - "[[_Standards/WikiData/WD~gram,41803]]"
-different from: "[[_Standards/WikiData/WD~kilogram-force,216880]]"
-instance of:
-  - "[[_Standards/WikiData/WD~SI base unit,223662]]"
-  - "[[_Standards/WikiData/WD~unit of mass,3647172]]"
-  - "[[_Standards/WikiData/WD~coherent SI unit,69197847]]"
-part of:
-  - "[[_Standards/WikiData/WD~MKS system of units,512417]]"
-  - "[[_Standards/WikiData/WD~International System of Units,12457]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~SI Brochure (9th edition),68977219]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-replaces: "[[_Standards/WikiData/WD~grave,610135]]"
-determination method or standard: "[[_Standards/WikiData/WD~formula,976981]]"
-measured physical quantity:
-  - "[[_Standards/WikiData/WD~mass excess,1571163]]"
-  - "[[_Standards/WikiData/WD~rest mass,96941619]]"
-  - "[[_Standards/WikiData/WD~mass,11423]]"
-unit symbol:
-  - кг
-  - кг
-  - كغ
-  - kg
-  - kq
-  - кг
-  - кг
-  - kg
-  - χγρ
-  - kg
-  - kg
-  - ק"ג
-  - kg
-  - kg
-  - кг
-  - kg
-  - kg
-  - кг
-  - kg
-  - kg
-  - кг
-  - kg
-  - кг
-  - кг
-conversion to standard unit: 1000
-conversion to SI unit: 1
-UCUM code: kg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/CGKilogram.jpg
-Wolfram Language unit code: '"Kilograms"'
-IEV number: 112-02-06
-OmegaWiki Defined Meaning: "160738"
-Unicode character: ㎏
-UN/CEFACT Common Code: KGM
-Commons category: Kilogram
-Wikidata SPARQL query equivalent: wd:Q11570 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
-short name: kg
+named_after:
+- '[[_Standards/WikiData/WD~kilo,107428]]'
+- '[[_Standards/WikiData/WD~gram,41803]]'
+different_from: '[[_Standards/WikiData/WD~kilogram-force,216880]]'
+instance_of:
+- "[[_Standards/WikiData/WD~SI base unit,223662]]"
+- "[[_Standards/WikiData/WD~unit of mass,3647172]]"
+- "[[_Standards/WikiData/WD~coherent SI unit,69197847]]"
+part_of:
+- "[[_Standards/WikiData/WD~MKS system of units,512417]]"
+- "[[_Standards/WikiData/WD~International System of Units,12457]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~SI Brochure (9th edition),68977219]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+replaces: '[[_Standards/WikiData/WD~grave,610135]]'
+determination_method_or_standard: '[[_Standards/WikiData/WD~formula,976981]]'
+measured_physical_quantity:
+- "[[_Standards/WikiData/WD~mass excess,1571163]]"
+- "[[_Standards/WikiData/WD~rest mass,96941619]]"
+- '[[_Standards/WikiData/WD~mass,11423]]'
+unit_symbol:
+- кг
+- кг
+- كغ
+- kg
+- kq
+- кг
+- кг
+- kg
+- χγρ
+- kg
+- kg
+- "ק\"ג"
+- kg
+- kg
+- кг
+- kg
+- kg
+- кг
+- kg
+- kg
+- кг
+- kg
+- кг
+- кг
+conversion_to_standard_unit: 1000
+conversion_to_SI_unit: 1
+UCUM_code: kg
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/CGKilogram.jpg"
+Wolfram_Language_unit_code: "\"Kilograms\""
+IEV_number: 112-02-06
+OmegaWiki_Defined_Meaning: 160738
+Unicode_character: ㎏
+UN_CEFACT_Common_Code: KGM
+Commons_category: Kilogram
+Wikidata_SPARQL_query_equivalent: "wd:Q11570 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)"
+short_name: kg
 ---
-
 
 ## #has_/text_of_/abstract 
 

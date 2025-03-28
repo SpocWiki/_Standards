@@ -1,28 +1,27 @@
----
+﻿---
 has_id_wikidata: Q8183
-different from:
-  - "[[_Standards/WikiData/WD~allophone,146863]]"
-  - "[[_Standards/WikiData/WD~mora,521164]]"
-  - "[[_Standards/WikiData/WD~grapheme,2545446]]"
-  - "[[_Standards/WikiData/WD~vocal sound,4393922]]"
-  - "[[_Standards/WikiData/WD~syllable,8188]]"
-  - "[[_Standards/WikiData/WD~morpheme,43249]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Jan Baudouin de Courtenay,335092]]"
-  - "[[_Standards/WikiData/WD~Mikołaj Kruszewski,573860]]"
-subclass of: "[[_Standards/WikiData/WD~vocal sound,4393922]]"
-instance of: "[[_Standards/WikiData/WD~emic unit,5371079]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox IPA,5614568]]"
-related image: http://commons.wikimedia.org/wiki/Special:FilePath/Old%20latin%20dipthongs.svg
-Stack Exchange tag:
-  - https://stackoverflow.com/tags/phoneme
-  - https://linguistics.stackexchange.com/tags/phonemes
-Commons category: Phonemes
-Wikidata property: has phoneme
-studied in: "[[_Standards/WikiData/WD~phonology,40998]]"
-OmegaWiki Defined Meaning: "375783"
+different_from:
+- '[[_Standards/WikiData/WD~allophone,146863]]'
+- '[[_Standards/WikiData/WD~mora,521164]]'
+- '[[_Standards/WikiData/WD~grapheme,2545446]]'
+- "[[_Standards/WikiData/WD~vocal sound,4393922]]"
+- '[[_Standards/WikiData/WD~syllable,8188]]'
+- '[[_Standards/WikiData/WD~morpheme,43249]]'
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Jan Baudouin de Courtenay,335092]]"
+- "[[_Standards/WikiData/WD~Mikołaj Kruszewski,573860]]"
+subclass_of: "[[_Standards/WikiData/WD~vocal sound,4393922]]"
+instance_of: "[[_Standards/WikiData/WD~emic unit,5371079]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox IPA,5614568]]"
+related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20latin%20dipthongs.svg"
+Stack_Exchange_tag:
+- "https://stackoverflow.com/tags/phoneme"
+- "https://linguistics.stackexchange.com/tags/phonemes"
+Commons_category: Phonemes
+Wikidata_property: "has phoneme"
+studied_in: '[[_Standards/WikiData/WD~phonology,40998]]'
+OmegaWiki_Defined_Meaning: 375783
 ---
-
 
 ## #has_/text_of_/abstract 
 

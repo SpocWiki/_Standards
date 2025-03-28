@@ -1,26 +1,25 @@
----
+﻿---
 has_id_wikidata: Q11756
-subclass of: "[[_Standards/WikiData/WD~archaeological culture,465299]]"
-instance of:
-  - "[[_Standards/WikiData/WD~periodization,816829]]"
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
-  - "[[_Standards/WikiData/WD~time,11471]]"
-studied in:
-  - "[[_Standards/WikiData/WD~prehistory and early history,2310752]]"
-  - "[[_Standards/WikiData/WD~prehistoric archaeology,2415966]]"
-topic's main template: "[[_Standards/WikiData/WD~Q6187119,6187119]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Prehistory,7498415]]"
-described by source: "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-Provenio UUID: ecc9e72e-1bc6-446a-8c53-c6a97b8a37d6
-OmegaWiki Defined Meaning: "857661"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Historiaurreko%20pigmentuak.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V44%20D647%20Delineations%20on%20pieces%20of%20antler.jpg
-Iconclass notation: 23T21
-EAGLE id: dates/lod/67
-Commons category: Prehistory
-OpenStreetMap tag or key: Tag:historic:civilization=prehistoric
+subclass_of: "[[_Standards/WikiData/WD~archaeological culture,465299]]"
+instance_of:
+- '[[_Standards/WikiData/WD~periodization,816829]]'
+- "[[_Standards/WikiData/WD~historical period,11514315]]"
+- '[[_Standards/WikiData/WD~time,11471]]'
+studied_in:
+- "[[_Standards/WikiData/WD~prehistory and early history,2310752]]"
+- "[[_Standards/WikiData/WD~prehistoric archaeology,2415966]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q6187119,6187119]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Prehistory,7498415]]'
+described_by_source: "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+Provenio_UUID: ecc9e72e-1bc6-446a-8c53-c6a97b8a37d6
+OmegaWiki_Defined_Meaning: 857661
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Historiaurreko%20pigmentuak.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V44%20D647%20Delineations%20on%20pieces%20of%20antler.jpg"
+Iconclass_notation: 23T21
+EAGLE_id: dates/lod/67
+Commons_category: Prehistory
+OpenStreetMap_tag_or_key: "Tag:historic:civilization=prehistoric"
 ---
-
 
 ## #has_/text_of_/abstract 
 

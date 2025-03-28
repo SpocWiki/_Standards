@@ -1,31 +1,30 @@
----
+﻿---
 has_id_wikidata: Q11364
-studied in: "[[_Standards/WikiData/WD~endocrinology,162606]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~chemical mediator,420168]]"
-  - "[[_Standards/WikiData/WD~hormones, hormone substitutes, and hormone antagonists,50430050]]"
-  - "[[_Standards/WikiData/WD~biological macromolecule,66560214]]"
-  - "[[_Standards/WikiData/WD~hormone,125790843]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
-significant person: "[[_Standards/WikiData/WD~William Bayliss,594936]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Hormones,7139889]]"
-different from: "[[_Standards/WikiData/WD~hormone,125790843]]"
+studied_in: '[[_Standards/WikiData/WD~endocrinology,162606]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~chemical mediator,420168]]"
+- "[[_Standards/WikiData/WD~hormones, hormone substitutes, and hormone antagonists,50430050]]"
+- "[[_Standards/WikiData/WD~biological macromolecule,66560214]]"
+- '[[_Standards/WikiData/WD~hormone,125790843]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
+significant_person: "[[_Standards/WikiData/WD~William Bayliss,594936]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Hormones,7139889]]'
+different_from: '[[_Standards/WikiData/WD~hormone,125790843]]'
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hormone.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Transport%20von%20Hormonen.svg
-MeSH tree code:
-  - D06.472
-  - D27.505.696.399.472
-Krugosvet article: nauka_i_tehnika/biologiya/GORMONI.html
-UMLS CUI: C0019932
-Library of Congress Classification: QP571-QP572
-Commons category: Hormones
-time of discovery or invention: 1902-01-01T00:00:00Z
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hormone.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Transport%20von%20Hormonen.svg"
+MeSH_tree_code:
+- D06.472
+- D27.505.696.399.472
+Krugosvet_article: nauka_i_tehnika/biologiya/GORMONI.html
+UMLS_CUI: C0019932
+Library_of_Congress_Classification: QP571-QP572
+Commons_category: Hormones
+time_of_discovery_or_invention: "1902-01-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

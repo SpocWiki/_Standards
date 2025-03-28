@@ -1,22 +1,22 @@
----
+ï»¿---
 aliases:
-  - Early modern history
-  - early modern period
+- "Early modern history"
+- "early modern period"
 has_id_wikidata: Q5308718
-part of: "[[_Standards/WikiData/WD~periodization,816829]]"
-instance of:
-  - "[[_Standards/WikiData/WD~academic major,4671286]]"
-  - "[[_Standards/WikiData/WD~era,6428674]]"
+part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
+instance_of:
+- "[[_Standards/WikiData/WD~academic major,4671286]]"
+- '[[_Standards/WikiData/WD~era,6428674]]'
 follows: "[[_Standards/WikiData/WD~Postclassical Era,7234117]]"
-history of topic: "[[_Standards/WikiData/WD~Early Modern history,109120185]]"
-MeSH tree code: K01.400.475
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Early%20modern%20period.mp3
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler%20World%20Map%20AD1760.jpg
-Commons gallery: Early Modern period
-Commons category: Early Modern period
-end time: 1800-01-01T00:00:00Z
-start time: 1500-01-01T00:00:00Z
+history_of_topic: "[[_Standards/WikiData/WD~Early Modern history,109120185]]"
+MeSH_tree_code: K01.400.475
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Early%20modern%20period.mp3"
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler%20World%20Map%20AD1760.jpg"
+Commons_gallery: "Early Modern period"
+Commons_category: "Early Modern period"
+end_time: "1800-01-01T00:00:00Z"
+start_time: "1500-01-01T00:00:00Z"
 ---
 
 #has_/time_/started :: 1500-06
@@ -32,7 +32,7 @@ start time: 1500-01-01T00:00:00Z
 > depending on the area of history being studied. 
 > In general, the early modern period is considered to have lasted 
 > from around the start of the 16th century 
-> to the start of the 19th century (about 1500–1800). 
+> to the start of the 19th century (about 1500ï¿½1800). 
 > 
 > In a European context, it is defined as the period following the Middle Ages and preceding the advent of modernity; but the dates of these boundaries are far from universally agreed. In the context of global history, the early modern period is often used even in contexts where there is no equivalent "medieval" period.
 >

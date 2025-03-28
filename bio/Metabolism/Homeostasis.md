@@ -1,25 +1,24 @@
----
+﻿---
 has_id_wikidata: Q103191
-different from:
-  - "[[_Standards/WikiData/WD~hemostasis,487937]]"
-  - "[[_Standards/WikiData/WD~allostasis,3612637]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Autopoiesis and Cognition_ The Realization of the Living,89579038]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~equilibrium,11061286]]"
-  - "[[_Standards/WikiData/WD~control,29017603]]"
-has cause:
-  - "[[_Standards/WikiData/WD~homeostatic process,14882119]]"
-  - "[[_Standards/WikiData/WD~homeostatic regulation,105946076]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Human homeostasis,22755763]]"
-instance of: "[[_Standards/WikiData/WD~type of equilibrium,111796904]]"
-UMLS CUI: C0019868
-Commons category: Homeostasis
-MeSH tree code: G07.410
+different_from:
+- '[[_Standards/WikiData/WD~hemostasis,487937]]'
+- '[[_Standards/WikiData/WD~allostasis,3612637]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Autopoiesis and Cognition_ The Realization of the Living,89579038]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~equilibrium,11061286]]'
+- '[[_Standards/WikiData/WD~control,29017603]]'
+has_cause:
+- "[[_Standards/WikiData/WD~homeostatic process,14882119]]"
+- "[[_Standards/WikiData/WD~homeostatic regulation,105946076]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Human homeostasis,22755763]]"
+instance_of: "[[_Standards/WikiData/WD~type of equilibrium,111796904]]"
+UMLS_CUI: C0019868
+Commons_category: Homeostasis
+MeSH_tree_code: G07.410
 ---
-
 
 ## #has_/text_of_/abstract 
 

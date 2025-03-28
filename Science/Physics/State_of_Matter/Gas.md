@@ -1,29 +1,28 @@
----
+﻿---
 has_id_wikidata: Q11432
-subclass of: "[[_Standards/WikiData/WD~fluid,102205]]"
-has characteristic: "[[_Standards/WikiData/WD~viscosity,128709]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-topic's main category: "[[_Standards/WikiData/WD~Q6509956,6509956]]"
-instance of: "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
-manifestation of: "[[_Standards/WikiData/WD~gaseous state of matter,29147941]]"
-MeSH tree code: D01.362
-less than: "[[_Standards/WikiData/WD~liquid,11435]]"
-different from:
-  - "[[_Standards/WikiData/WD~Gaz,30067]]"
-  - "[[_Standards/WikiData/WD~gasoline,39558]]"
-  - "[[_Standards/WikiData/WD~natural gas,40858]]"
-OmegaWiki Defined Meaning: "1609"
-Commons category: Gases
-U.S. National Archives Identifier: "10637828"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Kinetic%20theory%20of%20gases.svg
-Dewey Decimal Classification: "530.43"
-Krugosvet article: nauka_i_tehnika/himiya/GAZ.html
+subclass_of: '[[_Standards/WikiData/WD~fluid,102205]]'
+has_characteristic: '[[_Standards/WikiData/WD~viscosity,128709]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q6509956,6509956]]'
+instance_of: "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
+manifestation_of: "[[_Standards/WikiData/WD~gaseous state of matter,29147941]]"
+MeSH_tree_code: D01.362
+less_than: '[[_Standards/WikiData/WD~liquid,11435]]'
+different_from:
+- '[[_Standards/WikiData/WD~Gaz,30067]]'
+- '[[_Standards/WikiData/WD~gasoline,39558]]'
+- "[[_Standards/WikiData/WD~natural gas,40858]]"
+OmegaWiki_Defined_Meaning: 1609
+Commons_category: Gases
+U_S_National_Archives_Identifier: 10637828
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kinetic%20theory%20of%20gases.svg"
+Dewey_Decimal_Classification: 530.43
+Krugosvet_article: nauka_i_tehnika/himiya/GAZ.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

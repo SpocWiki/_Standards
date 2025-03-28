@@ -1,55 +1,54 @@
----
+﻿---
 has_id_wikidata: Q8458
-IPTC NewsCode: mediatopic/20000592
-MeSH tree code:
-  - N03.706.437
-  - I01.880.604.473
+IPTC_NewsCode: mediatopic/20000592
+MeSH_tree_code:
+- N03.706.437
+- I01.880.604.473
 hashtag: StandUp4HumanRights
-social media followers: 13756
-partially coincident with:
-  - "[[_Standards/WikiData/WD~civil and political rights,191600]]"
-  - "[[_Standards/WikiData/WD~civil rights,25447176]]"
-  - "[[_Standards/WikiData/WD~civil liberties,29556]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~convention,367293]]"
-  - "[[_Standards/WikiData/WD~rights,780687]]"
-instance of:
-  - "[[_Standards/WikiData/WD~convention,367293]]"
-  - "[[_Standards/WikiData/WD~type of value,129510955]]"
-  - "[[_Standards/WikiData/WD~social movement,49773]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Der Volks-Brockhaus,107433072]]"
-practiced by: "[[_Standards/WikiData/WD~human rights activist,1476215]]"
-part of: "[[_Standards/WikiData/WD~international law,4394526]]"
-has part(s): "[[_Standards/WikiData/WD~human rights in Islam,5962805]]"
-personal library at: "[[_Standards/WikiData/WD~University of Minnesota Libraries,7895799]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Human rights,10863002]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-  - "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Human rights,13441595]]"
-  - "[[_Standards/WikiData/WD~Template_Substantive human rights,14444679]]"
-UMLS CUI:
-  - C4046017
-  - C0020138
-Library of Congress Classification: K3236-K3268.5
-foundational text: "[[_Standards/WikiData/WD~Universal Declaration of Human Rights,7813]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20the%20Rights%20of%20Man%20and%20of%20the%20Citizen%20in%201789.jpg
-WordLift URL: http://data.thenextweb.com/tnw/entity/human_rights
-U.S. National Archives Identifier: "10640045"
-OmegaWiki Defined Meaning: "1807"
-Basisklassifikation: "86.85"
-Krugosvet article: gumanitarnye_nauki/ekonomika_i_pravo/PRAVA_CHELOVEKA.html
-Commons category: Human rights
-PhilPapers topic: human-rights
-Wikitribune category: humanrights
+social_media_followers: 13756
+partially_coincident_with:
+- "[[_Standards/WikiData/WD~civil and political rights,191600]]"
+- "[[_Standards/WikiData/WD~civil rights,25447176]]"
+- "[[_Standards/WikiData/WD~civil liberties,29556]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~convention,367293]]'
+- '[[_Standards/WikiData/WD~rights,780687]]'
+instance_of:
+- '[[_Standards/WikiData/WD~convention,367293]]'
+- "[[_Standards/WikiData/WD~type of value,129510955]]"
+- "[[_Standards/WikiData/WD~social movement,49773]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Der Volks-Brockhaus,107433072]]"
+practiced_by: "[[_Standards/WikiData/WD~human rights activist,1476215]]"
+part_of: "[[_Standards/WikiData/WD~international law,4394526]]"
+has_part_s_: "[[_Standards/WikiData/WD~human rights in Islam,5962805]]"
+personal_library_at: "[[_Standards/WikiData/WD~University of Minnesota Libraries,7895799]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Human rights,10863002]]"
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Human rights,13441595]]"
+- "[[_Standards/WikiData/WD~Template_Substantive human rights,14444679]]"
+UMLS_CUI:
+- C4046017
+- C0020138
+Library_of_Congress_Classification: K3236-K3268.5
+foundational_text: "[[_Standards/WikiData/WD~Universal Declaration of Human Rights,7813]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20the%20Rights%20of%20Man%20and%20of%20the%20Citizen%20in%201789.jpg"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/human_rights"
+U_S_National_Archives_Identifier: 10640045
+OmegaWiki_Defined_Meaning: 1807
+Basisklassifikation: 86.85
+Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/PRAVA_CHELOVEKA.html
+Commons_category: "Human rights"
+PhilPapers_topic: human-rights
+Wikitribune_category: humanrights
 subreddit: humanrights
 ---
-
 
 ## #has_/text_of_/abstract 
 

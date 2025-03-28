@@ -1,23 +1,22 @@
----
+﻿---
 has_id_wikidata: Q36244
-subclass of: "[[_Standards/WikiData/WD~phone,202064]]"
-partially coincident with: "[[_Standards/WikiData/WD~semivowel,757410]]"
-facet of: "[[_Standards/WikiData/WD~spoken language,1322198]]"
-different from: "[[_Standards/WikiData/WD~vowel letter,9398093]]"
-depicted by: "[[_Standards/WikiData/WD~vowel letter,9398093]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
+subclass_of: '[[_Standards/WikiData/WD~phone,202064]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~semivowel,757410]]'
+facet_of: "[[_Standards/WikiData/WD~spoken language,1322198]]"
+different_from: "[[_Standards/WikiData/WD~vowel letter,9398093]]"
+depicted_by: "[[_Standards/WikiData/WD~vowel letter,9398093]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
 follows: "[[_Standards/WikiData/WD~prevocalic form,114092330]]"
-Stack Exchange tag: https://linguistics.stackexchange.com/tags/vowels
-opposite of: "[[_Standards/WikiData/WD~consonant,38035]]"
-Commons category: Vowels
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Es-Vocal-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vowel.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20International%20Phonetic%20Alphabet%20%282015%20version%29%20%28cropped%29%20%28only%20vowels%29.svg
+Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/vowels"
+opposite_of: '[[_Standards/WikiData/WD~consonant,38035]]'
+Commons_category: Vowels
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Vocal-article.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Vowel.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20International%20Phonetic%20Alphabet%20%282015%20version%29%20%28cropped%29%20%28only%20vowels%29.svg"
 ---
-
 
 ## #has_/text_of_/abstract 
 

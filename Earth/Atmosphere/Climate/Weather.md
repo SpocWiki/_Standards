@@ -1,51 +1,50 @@
----
+﻿---
 has_id_wikidata: Q11663
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Armenian Nature,16387823]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Topographia Hassiae,19230683]]"
-immediate cause of: "[[_Standards/WikiData/WD~shelter,989946]]"
-part of:
-  - "[[_Standards/WikiData/WD~atmospheric condition,1281564]]"
-  - "[[_Standards/WikiData/WD~atmospheric circulation,2615451]]"
-instance of: "[[_Standards/WikiData/WD~natural phenomenon,1322005]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~state,3505845]]"
-  - "[[_Standards/WikiData/WD~meteorological phenomenon,16332653]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Weather,8067988]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox weather type,20376438]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Weather,10814956]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Armenian Nature,16387823]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Topographia Hassiae,19230683]]"
+immediate_cause_of: '[[_Standards/WikiData/WD~shelter,989946]]'
+part_of:
+- "[[_Standards/WikiData/WD~atmospheric condition,1281564]]"
+- "[[_Standards/WikiData/WD~atmospheric circulation,2615451]]"
+instance_of: "[[_Standards/WikiData/WD~natural phenomenon,1322005]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~state,3505845]]'
+- "[[_Standards/WikiData/WD~meteorological phenomenon,16332653]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Weather,8067988]]'
+- "[[_Standards/WikiData/WD~Template_Infobox weather type,20376438]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Weather,10814956]]'
 hashtag:
-  - Погода
-  - Wetter
-  - Weather
-Provenio UUID: 539ad1d9-f94b-4a5a-ad7b-9095381a8a35
-MeSH tree code:
-  - G16.500.275.063.725
-  - G16.500.750.775
-  - N06.230.300.100.725
-Wikidata property: weather history
-different from: "[[_Standards/WikiData/WD~climate,7937]]"
-studied in: "[[_Standards/WikiData/WD~meteorology,25261]]"
-IAB code: "390"
-OmegaWiki Defined Meaning: "4129"
-Commons category: Weather
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Wikinews%20weather.png
-exact match: http://cv.iptc.org/newscodes/productgenre/weather
-U.S. National Archives Identifier: "10642860"
-Krugosvet article: fizika/pogoda-i-klimat-zemli
-IPTC NewsCode: mediatopic/17000000
-Colon Classification: U281
-GitHub topic: weather
+- Погода
+- Wetter
+- Weather
+Provenio_UUID: 539ad1d9-f94b-4a5a-ad7b-9095381a8a35
+MeSH_tree_code:
+- G16.500.275.063.725
+- G16.500.750.775
+- N06.230.300.100.725
+Wikidata_property: "weather history"
+different_from: '[[_Standards/WikiData/WD~climate,7937]]'
+studied_in: '[[_Standards/WikiData/WD~meteorology,25261]]'
+IAB_code: 390
+OmegaWiki_Defined_Meaning: 4129
+Commons_category: Weather
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikinews%20weather.png"
+exact_match: "http://cv.iptc.org/newscodes/productgenre/weather"
+U_S_National_Archives_Identifier: 10642860
+Krugosvet_article: fizika/pogoda-i-klimat-zemli
+IPTC_NewsCode: mediatopic/17000000
+Colon_Classification: U281
+GitHub_topic: weather
 subreddit:
-  - weather
-  - WeatherGifs
+- weather
+- WeatherGifs
 ---
-
 
 ## #has_/text_of_/abstract 
 

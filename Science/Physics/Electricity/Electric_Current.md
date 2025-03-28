@@ -1,27 +1,26 @@
----
+﻿---
 aliases:
-  - Electric current
+- "Electric current"
 has_id_wikidata: Q11651
-different from:
-  - "[[_Standards/WikiData/WD~electric current density,234072]]"
-  - "[[_Standards/WikiData/WD~flux density,51720768]]"
-  - "[[_Standards/WikiData/WD~electric current,29996]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-has part(s): "[[_Standards/WikiData/WD~ion current,6063423]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q25681476,25681476]]"
-subclass of: "[[_Standards/WikiData/WD~current,56298508]]"
-Wikidata property: maximum current
-facet of: "[[_Standards/WikiData/WD~electricity,12725]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Magnetic%20field%20of%20a%20steady%20current.svg
-OmegaWiki Defined Meaning: "684678"
-Colon Classification: C62
-Commons category: Electric current
+different_from:
+- "[[_Standards/WikiData/WD~electric current density,234072]]"
+- "[[_Standards/WikiData/WD~flux density,51720768]]"
+- "[[_Standards/WikiData/WD~electric current,29996]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
+has_part_s_: "[[_Standards/WikiData/WD~ion current,6063423]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681476,25681476]]'
+subclass_of: '[[_Standards/WikiData/WD~current,56298508]]'
+Wikidata_property: "maximum current"
+facet_of: '[[_Standards/WikiData/WD~electricity,12725]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Magnetic%20field%20of%20a%20steady%20current.svg"
+OmegaWiki_Defined_Meaning: 684678
+Colon_Classification: C62
+Commons_category: "Electric current"
 ---
-
 
 ## #has_/text_of_/abstract 
 

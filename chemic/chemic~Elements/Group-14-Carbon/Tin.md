@@ -1,83 +1,83 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 3285
 has_id_wikidata: Q1096
-boiling point:
-  - 2507
-  - 4545
+boiling_point:
+- 2507
+- 4545
 mass: 118.71
-ZVG number: "8380"
-OmegaWiki Defined Meaning: "3780"
-CosIng number: "86716"
-canonical SMILES: "[Sn]"
-chemical formula: Sn
-element symbol: Sn
-Commons category: Tin
-Commons gallery: Tin
-U.S. National Archives Identifier: "10643089"
-Unicode character: 錫
-UNSPSC Code: "11101716"
-PubChem CID: "5352426"
-instance of:
-  - "[[_Standards/WikiData/WD~chemical substance,79529]]"
-  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 14,106693]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~antimony-doped tin oxide,3886818]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~post-transition metal,19591]]"
-color: "[[_Standards/WikiData/WD~silver,317802]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Tin,84668552]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-safety classification and labelling: "[[_Standards/WikiData/WD~Regulation (EC) No. 1272_2008,2005334]]"
-has effect: "[[_Standards/WikiData/WD~tin poisoning,7807844]]"
-associated hazard: "[[_Standards/WikiData/WD~tin poisoning,7807844]]"
-subject has role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-different from: "[[_Standards/WikiData/WD~Timah,19752956]]"
-DSSTOX compound identifier: DTXCID701323006
-image: http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%ADn.PNG
-EC number: 231-141-8
+ZVG_number: 8380
+OmegaWiki_Defined_Meaning: 3780
+CosIng_number: 86716
+canonical_SMILES: '[Sn]'
+chemical_formula: Sn
+element_symbol: Sn
+Commons_category: Tin
+Commons_gallery: Tin
+U_S_National_Archives_Identifier: 10643089
+Unicode_character: 錫
+UNSPSC_Code: 11101716
+PubChem_CID: 5352426
+instance_of:
+- "[[_Standards/WikiData/WD~chemical substance,79529]]"
+- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 14,106693]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~antimony-doped tin oxide,3886818]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- '[[_Standards/WikiData/WD~metal,11426]]'
+- "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+color: '[[_Standards/WikiData/WD~silver,317802]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- '[[_Standards/WikiData/WD~Tin,84668552]]'
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~Regulation (EC) No. 1272_2008,2005334]]"
+has_effect: "[[_Standards/WikiData/WD~tin poisoning,7807844]]"
+associated_hazard: "[[_Standards/WikiData/WD~tin poisoning,7807844]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+different_from: '[[_Standards/WikiData/WD~Timah,19752956]]'
+DSSTOX_compound_identifier: DTXCID701323006
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%ADn.PNG"
+EC_number: 231-141-8
 UNII: 387GMG9FH5
-CAS Registry Number: 7440-31-5
+CAS_Registry_Number: 7440-31-5
 InChIKey: ATJFFYVFTNAWJD-UHFFFAOYSA-N
-UMLS CUI: C0040238
-MeSH tree code:
-  - D01.268.556.875
-  - D01.552.544.875
-Wolfram Language entity code: Entity["Mineral", "Tin"]
+UMLS_CUI: C0040238
+MeSH_tree_code:
+- D01.268.556.875
+- D01.552.544.875
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tin\"]"
 InChI: InChI=1S/Sn
-Krugosvet article:
-  - nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVA_PROIZVODSTVO.html
-  - nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVO.html
-RTECS number: XP7320000
-electron configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p²
-  - "[Kr] 5s² 5d¹⁰ 5p²"
-vapor pressure: 0
-immediately dangerous to life or health: 100
-time-weighted average exposure limit: 2
-atomic number: 50
-ionic radius:
-  - 0.55
-  - 0.69
-  - 0.81
+Krugosvet_article:
+- nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVA_PROIZVODSTVO.html
+- nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVO.html
+RTECS_number: XP7320000
+electron_configuration:
+- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p²"
+- "[Kr] 5s² 5d¹⁰ 5p²"
+vapor_pressure: 0
+immediately_dangerous_to_life_or_health: 100
+time-weighted_average_exposure_limit: 2
+atomic_number: 50
+ionic_radius:
+- 0.55
+- 0.69
+- 0.81
 electronegativity: 1.96
-standard molar entropy: 44.1
-melting point:
-  - 449
-  - 231.9
+standard_molar_entropy: 44.1
+melting_point:
+- 449
+- 231.9
 density: 7.28
 ---
 

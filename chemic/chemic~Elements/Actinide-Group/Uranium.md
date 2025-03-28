@@ -1,71 +1,71 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21987
 has_id_wikidata: Q1098
-EC number: 231-170-6
+EC_number: 231-170-6
 UNII: 4OC371KSTK
-Dewey Decimal Classification:
-  - "546.431"
-  - "669.2931"
-CAS Registry Number: 7440-61-1
-MeSH tree code:
-  - D01.268.271.100.950
-  - D01.268.556.900
-  - D01.496.749.305.100.950
-  - D01.552.020.940
-  - D01.552.544.900
-DSSTOX compound identifier: DTXCID304373
+Dewey_Decimal_Classification:
+- 546.431
+- 669.2931
+CAS_Registry_Number: 7440-61-1
+MeSH_tree_code:
+- D01.268.271.100.950
+- D01.268.556.900
+- D01.496.749.305.100.950
+- D01.552.020.940
+- D01.552.544.900
+DSSTOX_compound_identifier: DTXCID304373
 InChI: InChI=1S/U
 InChIKey: JFALSRSLKYAFGM-UHFFFAOYSA-N
-Krugosvet article: nauka_i_tehnika/himiya/URAN.html
-Commons category: Uranium
-Commons gallery: Uranium
-RTECS number: YR3490000
-Unicode character: 鈾
-fabrication method: "[[_Standards/WikiData/WD~uraninite,206467]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Eugène-Melchior Péligot,903801]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~radioactive element,3658631]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox uranium,8085707]]"
-UMLS CUI: C0041928
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20149.jpg
-named after: "[[_Standards/WikiData/WD~Uranus,324]]"
-has characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
-ionic radius:
-  - 1
-  - 0.45
-  - 0.52
-  - 0.73
-  - 0.76
-  - 0.86
-  - 0.89
-  - 1.03
-  - 1.17
-atomic number: 92
+Krugosvet_article: nauka_i_tehnika/himiya/URAN.html
+Commons_category: Uranium
+Commons_gallery: Uranium
+RTECS_number: YR3490000
+Unicode_character: 鈾
+fabrication_method: '[[_Standards/WikiData/WD~uraninite,206467]]'
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Melchior Péligot,903801]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~radioactive element,3658631]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox uranium,8085707]]"
+UMLS_CUI: C0041928
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20149.jpg"
+named_after: '[[_Standards/WikiData/WD~Uranus,324]]'
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+ionic_radius:
+- 1
+- 0.45
+- 0.52
+- 0.73
+- 0.76
+- 0.86
+- 0.89
+- 1.03
+- 1.17
+atomic_number: 92
 electronegativity: 1.38
 density: 19.05
-chemical formula: U
-element symbol: U
-ZVG number: "7920"
-Gmelin number: "16315"
-OmegaWiki Defined Meaning: "3902"
-PubChem CID: "23989"
-canonical SMILES: "[U]"
-U.S. National Archives Identifier: "10644103"
+chemical_formula: U
+element_symbol: U
+ZVG_number: 7920
+Gmelin_number: 16315
+OmegaWiki_Defined_Meaning: 3902
+PubChem_CID: 23989
+canonical_SMILES: '[U]'
+U_S_National_Archives_Identifier: 10644103
 mass: 238.02891
-time of discovery or invention: 1789-01-01T00:00:00Z
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg
-Common Procurement Vocabulary code: "09341000"
+time_of_discovery_or_invention: "1789-01-01T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg"
+Common_Procurement_Vocabulary_code: 09341000
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Uranium,1098]] 

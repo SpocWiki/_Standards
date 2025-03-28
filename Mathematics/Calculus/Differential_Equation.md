@@ -1,33 +1,32 @@
----
+﻿---
 has_id_wikidata: Q11214
-part of:
-  - "[[_Standards/WikiData/WD~differential calculus,149999]]"
-  - "[[_Standards/WikiData/WD~system of differential equations,96407346]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Method of Fluxions,3074567]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-different from:
-  - "[[_Standards/WikiData/WD~recurrence relation,740970]]"
-  - "[[_Standards/WikiData/WD~theory of differential equations,28575007]]"
-facet of: "[[_Standards/WikiData/WD~mathematical problem,1166625]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~mathematical problem,1166625]]"
-  - "[[_Standards/WikiData/WD~computational problem,3435924]]"
-  - "[[_Standards/WikiData/WD~equation,11345]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Differential equations,8084165]]"
-  - "[[_Standards/WikiData/WD~Template_Differential equations topics,42395842]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-studied in: "[[_Standards/WikiData/WD~theory of differential equations,28575007]]"
-has characteristic: "[[_Standards/WikiData/WD~order of a differential equation,98667776]]"
-Colon Classification: B321
-Commons category: Differential equations
-Krugosvet article: nauka_i_tehnika/matematika/DIFFERENTSIALNIE_URAVNENIYA.html
+part_of:
+- "[[_Standards/WikiData/WD~differential calculus,149999]]"
+- "[[_Standards/WikiData/WD~system of differential equations,96407346]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Method of Fluxions,3074567]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+different_from:
+- "[[_Standards/WikiData/WD~recurrence relation,740970]]"
+- "[[_Standards/WikiData/WD~theory of differential equations,28575007]]"
+facet_of: "[[_Standards/WikiData/WD~mathematical problem,1166625]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~mathematical problem,1166625]]"
+- "[[_Standards/WikiData/WD~computational problem,3435924]]"
+- '[[_Standards/WikiData/WD~equation,11345]]'
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Differential equations,8084165]]"
+- "[[_Standards/WikiData/WD~Template_Differential equations topics,42395842]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+studied_in: "[[_Standards/WikiData/WD~theory of differential equations,28575007]]"
+has_characteristic: "[[_Standards/WikiData/WD~order of a differential equation,98667776]]"
+Colon_Classification: B321
+Commons_category: "Differential equations"
+Krugosvet_article: nauka_i_tehnika/matematika/DIFFERENTSIALNIE_URAVNENIYA.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

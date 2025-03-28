@@ -1,63 +1,64 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21971
 has_id_wikidata: Q737
 InChIKey: WUAPFZMCVAUBPE-UHFFFAOYSA-N
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Ida Noddack,77529]]"
-  - "[[_Standards/WikiData/WD~Otto Berg,85727]]"
-  - "[[_Standards/WikiData/WD~Walter Noddack,62714]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 7,202602]]"
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-made from material:
-  - "[[_Standards/WikiData/WD~rheniite,411587]]"
-  - "[[_Standards/WikiData/WD~molybdenite mineral group,3777754]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-UMLS CUI: C0035419
-Common Procurement Vocabulary code:
-  - 14793000-6
-  - "14793000"
-named after: "[[_Standards/WikiData/WD~Rhine,584]]"
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-oxidation state:
-  - 3
-  - 5
-  - 7
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Ida Noddack,77529]]"
+- "[[_Standards/WikiData/WD~Otto Berg,85727]]"
+- "[[_Standards/WikiData/WD~Walter Noddack,62714]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 7,202602]]"
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+made_from_material:
+- '[[_Standards/WikiData/WD~rheniite,411587]]'
+- "[[_Standards/WikiData/WD~molybdenite mineral group,3777754]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+UMLS_CUI: C0035419
+Common_Procurement_Vocabulary_code:
+- 14793000-6
+- 14793000
+named_after: '[[_Standards/WikiData/WD~Rhine,584]]'
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+oxidation_state:
+- 3
+- 5
+- 7
 electronegativity: 1.9
-ionic radius:
-  - 0.38
-  - 0.53
-  - 0.55
-  - 0.58
-  - 0.63
-atomic number: 75
-ZVG number: "7750"
+ionic_radius:
+- 0.38
+- 0.53
+- 0.55
+- 0.58
+- 0.63
+atomic_number: 75
+ZVG_number: 7750
 mass: 186.207
-PubChem CID: "23947"
-OmegaWiki Defined Meaning: "348371"
-chemical formula: Re
-element symbol: Re
-canonical SMILES: "[Re]"
-time of discovery or invention: 1925-01-01T00:00:00Z
-Unicode character: 錸
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhenium%20single%20crystal%20bar%20and%201cm3%20cube.jpg
-electron configuration: "[Xe] 4f¹⁴ 5d⁵ 6s²"
-EC number: 231-124-5
-CAS Registry Number: 7440-15-5
+PubChem_CID: 23947
+OmegaWiki_Defined_Meaning: 348371
+chemical_formula: Re
+element_symbol: Re
+canonical_SMILES: '[Re]'
+time_of_discovery_or_invention: "1925-01-01T00:00:00Z"
+Unicode_character: 錸
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhenium%20single%20crystal%20bar%20and%201cm3%20cube.jpg"
+electron_configuration: "[Xe] 4f¹⁴ 5d⁵ 6s²"
+EC_number: 231-124-5
+CAS_Registry_Number: 7440-15-5
 UNII: 7YHU292INY
-CPV Supplementary code: AA42
-MeSH tree code:
-  - D01.268.556.787
-  - D01.268.956.750
-  - D01.552.544.787
-DSSTOX compound identifier: DTXCID7047649
-Wolfram Language entity code: Entity["Mineral", "Rhenium"]
+CPV_Supplementary_code: AA42
+MeSH_tree_code:
+- D01.268.556.787
+- D01.268.956.750
+- D01.552.544.787
+DSSTOX_compound_identifier: DTXCID7047649
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Rhenium\"]"
 InChI: InChI=1S/Re
-Krugosvet article: nauka_i_tehnika/himiya/RENI.html
-Commons gallery: Rhenium
-Commons category: Rhenium
+Krugosvet_article: nauka_i_tehnika/himiya/RENI.html
+Commons_gallery: Rhenium
+Commons_category: Rhenium
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Rhenium,737]] 
 

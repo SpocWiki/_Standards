@@ -1,49 +1,48 @@
----
+﻿---
 has_id_wikidata: Q11995
-Commons category: Human pregnancy
-Commons gallery: Human pregnancy
-Krugosvet article: nauka_i_tehnika/biologiya/BEREMENNOST_I_RODI.html
-has cause:
-  - "[[_Standards/WikiData/WD~in vitro fertilization,200117]]"
-  - "[[_Standards/WikiData/WD~human fertilization,2666904]]"
-part of:
-  - "[[_Standards/WikiData/WD~adulthood,378915]]"
-  - "[[_Standards/WikiData/WD~motherhood,1956046]]"
-  - "[[_Standards/WikiData/WD~mother,7560]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-health specialty: "[[_Standards/WikiData/WD~gynaecology,1221899]]"
-subclass of: "[[_Standards/WikiData/WD~pregnancy,1490716]]"
-instance of: "[[_Standards/WikiData/WD~physiological condition,7189713]]"
-facet of: "[[_Standards/WikiData/WD~women's health,8031191]]"
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Baby-1295826.svg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%97%E0%AC%B0%E0%AD%8D%E0%AC%AD%E0%AC%BE%E0%AC%AC%E0%AC%B8%E0%AD%8D%E0%AC%A5%E0%AC%BE.wav
-UMLS CUI: C0032961
-Terminologia Embryologica: E1.0.2.6.1.0.1
-MeSH tree code: G08.686.784.769
-Unicode character:
-  - 🤰
-  - 🫄
-  - 🫃
-topic's main template: "[[_Standards/WikiData/WD~Template_Pregnancy,13099510]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27135171,27135171]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-  - "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Lapse%20Pregnancy%20-%206800%20pictures%20in%2037%20seconds.webm
-different from: "[[_Standards/WikiData/WD~gestation,28627]]"
+Commons_category: "Human pregnancy"
+Commons_gallery: "Human pregnancy"
+Krugosvet_article: nauka_i_tehnika/biologiya/BEREMENNOST_I_RODI.html
+has_cause:
+- "[[_Standards/WikiData/WD~in vitro fertilization,200117]]"
+- "[[_Standards/WikiData/WD~human fertilization,2666904]]"
+part_of:
+- '[[_Standards/WikiData/WD~adulthood,378915]]'
+- '[[_Standards/WikiData/WD~motherhood,1956046]]'
+- '[[_Standards/WikiData/WD~mother,7560]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+health_specialty: '[[_Standards/WikiData/WD~gynaecology,1221899]]'
+subclass_of: '[[_Standards/WikiData/WD~pregnancy,1490716]]'
+instance_of: "[[_Standards/WikiData/WD~physiological condition,7189713]]"
+facet_of: "[[_Standards/WikiData/WD~women's health,8031191]]"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Baby-1295826.svg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%97%E0%AC%B0%E0%AD%8D%E0%AC%AD%E0%AC%BE%E0%AC%AC%E0%AC%B8%E0%AD%8D%E0%AC%A5%E0%AC%BE.wav"
+UMLS_CUI: C0032961
+Terminologia_Embryologica: E1.0.2.6.1.0.1
+MeSH_tree_code: G08.686.784.769
+Unicode_character:
+- "\U0001F930"
+- "\U0001FAC4"
+- "\U0001FAC3"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Pregnancy,13099510]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27135171,27135171]]'
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+- "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Lapse%20Pregnancy%20-%206800%20pictures%20in%2037%20seconds.webm"
+different_from: '[[_Standards/WikiData/WD~gestation,28627]]'
 duration: 38
-has effect: "[[_Standards/WikiData/WD~parturition,34581]]"
-IAB code: "305"
-DiseasesDB: "10545"
-OmegaWiki Defined Meaning: "1232378"
-Iconclass notation: 42A1
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Pregnant%20asian%20woman.jpg
+has_effect: '[[_Standards/WikiData/WD~parturition,34581]]'
+IAB_code: 305
+DiseasesDB: 10545
+OmegaWiki_Defined_Meaning: 1232378
+Iconclass_notation: 42A1
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pregnant%20asian%20woman.jpg"
 ---
-
 
 ## #has_/text_of_/abstract 
 

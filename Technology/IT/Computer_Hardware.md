@@ -1,41 +1,40 @@
----
+﻿---
 aliases:
-  - Computer hardware
+- "Computer hardware"
 has_id_wikidata: Q3966
-has part(s) of the class: "[[_Standards/WikiData/WD~firmware,104851]]"
-history of topic: "[[_Standards/WikiData/WD~history of computing hardware,186148]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~physical technological component,811909]]"
-  - "[[_Standards/WikiData/WD~electronic device,2858615]]"
-used by:
-  - "[[_Standards/WikiData/WD~device driver,1033951]]"
-  - "[[_Standards/WikiData/WD~operating system,9135]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox computer hardware,5857050]]"
-  - "[[_Standards/WikiData/WD~Template_Basic computer components,6405082]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20from%20inside%20018.jpg
-IEV number: 171-01-20
-IPTC NewsCode: mediatopic/20000226
-has characteristic: "[[_Standards/WikiData/WD~form factor,24574728]]"
-Baidu Tieba name: 硬件
-properties for this type:
-  - thermal design power
-  - connector
-  - manufacturer
-Wikidata property:
-  - video system
-  - audio system
-opposite of: "[[_Standards/WikiData/WD~software,7397]]"
-instance of: "[[_Standards/WikiData/WD~electronics,11650]]"
-part of: "[[_Standards/WikiData/WD~computer,68]]"
-OmegaWiki Defined Meaning: "396033"
-Amazon.com browse node: "541966"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~firmware,104851]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of computing hardware,186148]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~physical technological component,811909]]"
+- "[[_Standards/WikiData/WD~electronic device,2858615]]"
+used_by:
+- "[[_Standards/WikiData/WD~device driver,1033951]]"
+- "[[_Standards/WikiData/WD~operating system,9135]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox computer hardware,5857050]]"
+- "[[_Standards/WikiData/WD~Template_Basic computer components,6405082]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20from%20inside%20018.jpg"
+IEV_number: 171-01-20
+IPTC_NewsCode: mediatopic/20000226
+has_characteristic: "[[_Standards/WikiData/WD~form factor,24574728]]"
+Baidu_Tieba_name: 硬件
+properties_for_this_type:
+- "thermal design power"
+- connector
+- manufacturer
+Wikidata_property:
+- "video system"
+- "audio system"
+opposite_of: '[[_Standards/WikiData/WD~software,7397]]'
+instance_of: '[[_Standards/WikiData/WD~electronics,11650]]'
+part_of: '[[_Standards/WikiData/WD~computer,68]]'
+OmegaWiki_Defined_Meaning: 396033
+Amazon_com_browse_node: 541966
 subreddit: hardware
-Commons gallery: Computer hardware
-Commons category: Computer hardware
-Universal Decimal Classification: "004.3"
+Commons_gallery: "Computer hardware"
+Commons_category: "Computer hardware"
+Universal_Decimal_Classification: 004.3
 ---
-
 
 ## #has_/text_of_/abstract 
 

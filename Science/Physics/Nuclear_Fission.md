@@ -1,32 +1,31 @@
----
+﻿---
 aliases:
-  - Nuclear fission
+- "Nuclear fission"
 has_id_wikidata: Q11429
-facet of: "[[_Standards/WikiData/WD~nuclear physics,81197]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~nuclear reaction,238323]]"
-  - "[[_Standards/WikiData/WD~separation,3182649]]"
-instance of: "[[_Standards/WikiData/WD~nuclear reaction,238323]]"
-named after: "[[_Standards/WikiData/WD~fission,929080]]"
-different from: "[[_Standards/WikiData/WD~disproportionation reaction,64995469]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
-UMLS CUI: C0028576
-MeSH tree code:
-  - G01.536.485
-  - N06.230.132.580.500
-has effect:
-  - "[[_Standards/WikiData/WD~radioactivity,11448]]"
-  - "[[_Standards/WikiData/WD~heat,44432]]"
-time of discovery or invention: 1938-12-01T00:00:00Z
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%AA.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Kernspaltung.svg
-IEV number:
-  - 395-02-67
-  - 881-03-54
-Krugosvet article: nauka_i_tehnika/fizika/YADER_DELENIE.html
-Commons category: Nuclear fission
+facet_of: "[[_Standards/WikiData/WD~nuclear physics,81197]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~nuclear reaction,238323]]"
+- '[[_Standards/WikiData/WD~separation,3182649]]'
+instance_of: "[[_Standards/WikiData/WD~nuclear reaction,238323]]"
+named_after: '[[_Standards/WikiData/WD~fission,929080]]'
+different_from: "[[_Standards/WikiData/WD~disproportionation reaction,64995469]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+UMLS_CUI: C0028576
+MeSH_tree_code:
+- G01.536.485
+- N06.230.132.580.500
+has_effect:
+- '[[_Standards/WikiData/WD~radioactivity,11448]]'
+- '[[_Standards/WikiData/WD~heat,44432]]'
+time_of_discovery_or_invention: "1938-12-01T00:00:00Z"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%AA.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kernspaltung.svg"
+IEV_number:
+- 395-02-67
+- 881-03-54
+Krugosvet_article: nauka_i_tehnika/fizika/YADER_DELENIE.html
+Commons_category: "Nuclear fission"
 ---
-
 
 ## #has_/text_of_/abstract 
 

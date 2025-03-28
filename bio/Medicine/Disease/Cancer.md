@@ -1,74 +1,73 @@
----
+﻿---
 has_id_wikidata: Q12078
-UMLS CUI: C0006826
+UMLS_CUI: C0006826
 ICD-10-CM:
-  - C80.1
-  - C80
-Commons gallery: Cancer (illness)
-IPTC NewsCode: mediatopic/20000447
-subclass of:
-  - "[[_Standards/WikiData/WD~tumor,133212]]"
-  - "[[_Standards/WikiData/WD~neoplasm,1216998]]"
-  - "[[_Standards/WikiData/WD~disease of cellular proliferation,18554796]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-drug or therapy used for treatment:
-  - "[[_Standards/WikiData/WD~cholecalciferol,139347]]"
-  - "[[_Standards/WikiData/WD~alpha-linolenic acid,256502]]"
-  - "[[_Standards/WikiData/WD~methylprednisolone,417222]]"
-  - "[[_Standards/WikiData/WD~dexamethasone,422252]]"
-  - "[[_Standards/WikiData/WD~prednisone,424972]]"
-  - "[[_Standards/WikiData/WD~antineoplastic,2853144]]"
-  - "[[_Standards/WikiData/WD~prednisolone,11426176]]"
-studied in:
-  - "[[_Standards/WikiData/WD~oncology,162555]]"
-  - "[[_Standards/WikiData/WD~cancer research,3421914]]"
-  - "[[_Standards/WikiData/WD~cancer biology,85709956]]"
-health specialty: "[[_Standards/WikiData/WD~oncology,162555]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-risk factor: "[[_Standards/WikiData/WD~smoking,662860]]"
-opposite of: "[[_Standards/WikiData/WD~benign neoplasm,1417240]]"
-has characteristic: "[[_Standards/WikiData/WD~malignancy,1483951]]"
-"handled, mitigated, or managed by":
-  - "[[_Standards/WikiData/WD~cancer prevention,1787013]]"
-  - "[[_Standards/WikiData/WD~treatment of cancer,2575340]]"
-  - "[[_Standards/WikiData/WD~early detection of cancer,66770492]]"
-has effect: "[[_Standards/WikiData/WD~cancer pain,3712728]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-has cause:
-  - "[[_Standards/WikiData/WD~infectious causes of cancer,6029220]]"
-  - "[[_Standards/WikiData/WD~causes of cancer,18205885]]"
-named after: "[[_Standards/WikiData/WD~crab,16033394]]"
-instance of: "[[_Standards/WikiData/WD~class of disease,112193867]]"
-age of onset: "[[_Standards/WikiData/WD~any age,118907676]]"
-native label: καρκῐ́νος
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q12078-ar.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AC%B0%E0%AD%8D%E0%AC%95%E0%AC%9F%20%E0%AC%B0%E0%AD%8B%E0%AC%97.wav
-different from: "[[_Standards/WikiData/WD~carcinoma,33525]]"
-ICD-9-CM: "199"
-IAB code: "314"
-OmegaWiki Defined Meaning: "479"
-DiseasesDB: "28843"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Breast%20cancer%20cell%20%282%29.jpg
-exact match:
-  - http://identifiers.org/doid/DOID:162
-  - http://purl.obolibrary.org/obo/DOID_162
-U.S. National Archives Identifier: "10636616"
-Dewey Decimal Classification:
-  - "362.196994"
-  - "571.978"
-  - "614.5999"
-  - "616.994"
-  - "618.92994"
-  - "636.0896994"
+- C80.1
+- C80
+Commons_gallery: "Cancer (illness)"
+IPTC_NewsCode: mediatopic/20000447
+subclass_of:
+- '[[_Standards/WikiData/WD~tumor,133212]]'
+- '[[_Standards/WikiData/WD~neoplasm,1216998]]'
+- "[[_Standards/WikiData/WD~disease of cellular proliferation,18554796]]"
+- '[[_Standards/WikiData/WD~disease,12136]]'
+drug_or_therapy_used_for_treatment:
+- '[[_Standards/WikiData/WD~cholecalciferol,139347]]'
+- "[[_Standards/WikiData/WD~alpha-linolenic acid,256502]]"
+- '[[_Standards/WikiData/WD~methylprednisolone,417222]]'
+- '[[_Standards/WikiData/WD~dexamethasone,422252]]'
+- '[[_Standards/WikiData/WD~prednisone,424972]]'
+- '[[_Standards/WikiData/WD~antineoplastic,2853144]]'
+- '[[_Standards/WikiData/WD~prednisolone,11426176]]'
+studied_in:
+- '[[_Standards/WikiData/WD~oncology,162555]]'
+- "[[_Standards/WikiData/WD~cancer research,3421914]]"
+- "[[_Standards/WikiData/WD~cancer biology,85709956]]"
+health_specialty: '[[_Standards/WikiData/WD~oncology,162555]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
+opposite_of: "[[_Standards/WikiData/WD~benign neoplasm,1417240]]"
+has_characteristic: '[[_Standards/WikiData/WD~malignancy,1483951]]'
+handled_mitigated_or_managed_by:
+- "[[_Standards/WikiData/WD~cancer prevention,1787013]]"
+- "[[_Standards/WikiData/WD~treatment of cancer,2575340]]"
+- "[[_Standards/WikiData/WD~early detection of cancer,66770492]]"
+has_effect: "[[_Standards/WikiData/WD~cancer pain,3712728]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+has_cause:
+- "[[_Standards/WikiData/WD~infectious causes of cancer,6029220]]"
+- "[[_Standards/WikiData/WD~causes of cancer,18205885]]"
+named_after: '[[_Standards/WikiData/WD~crab,16033394]]'
+instance_of: "[[_Standards/WikiData/WD~class of disease,112193867]]"
+age_of_onset: "[[_Standards/WikiData/WD~any age,118907676]]"
+native_label: καρκῐ́νος
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Q12078-ar.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AC%B0%E0%AD%8D%E0%AC%95%E0%AC%9F%20%E0%AC%B0%E0%AD%8B%E0%AC%97.wav"
+different_from: '[[_Standards/WikiData/WD~carcinoma,33525]]'
+ICD-9-CM: 199
+IAB_code: 314
+OmegaWiki_Defined_Meaning: 479
+DiseasesDB: 28843
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Breast%20cancer%20cell%20%282%29.jpg"
+exact_match:
+- "http://identifiers.org/doid/DOID:162"
+- "http://purl.obolibrary.org/obo/DOID_162"
+U_S_National_Archives_Identifier: 10636616
+Dewey_Decimal_Classification:
+- 362.196994
+- 571.978
+- 614.5999
+- 616.994
+- 618.92994
+- 636.0896994
 ICD-O: 8000/3
 ---
-
 
 ## #has_/text_of_/abstract 
 

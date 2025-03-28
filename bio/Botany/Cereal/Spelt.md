@@ -1,75 +1,74 @@
----
+﻿---
 has_id_wikidata: Q158767
-taxon common name:
-  - Spelttivehnä
-  - Épeautre
-  - כוסמין
-  - Pir (biljka)
-  - Krupnik
-  - Tönkölybúza
-  - 스펠트 밀
-  - Крупник
-  - dinkeltarwe
-  - Spelt
-  - tarwe spelta
-  - pszenica orkisz
-  - szpelc
-  - Спельта
-  - Pira
-  - Прапшеница
-  - Dinkel
-  - Kavuzlu buğday
-  - Speate
-  - Yell
-  - orkisz
-  - escanda (var. fisga)
-  - динкел (dinkel)
-  - pšenice špalda
-  - Dinkel
-  - Όλυρα
-  - spelt
-  - spelt wheat
-  - Speltanisu
-this taxon is source of:
-  - "[[_Standards/WikiData/WD~Grünkern,142116]]"
-  - "[[_Standards/WikiData/WD~spelt flour,3066924]]"
-  - "[[_Standards/WikiData/WD~wheat,15645384]]"
-has effect: "[[_Standards/WikiData/WD~gluten-related disorder,1367782]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~wheat,15645384]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+taxon_common_name:
+- Spelttivehnä
+- Épeautre
+- כוסמין
+- "Pir (biljka)"
+- Krupnik
+- Tönkölybúza
+- "스펠트 밀"
+- Крупник
+- dinkeltarwe
+- Spelt
+- "tarwe spelta"
+- "pszenica orkisz"
+- szpelc
+- Спельта
+- Pira
+- Прапшеница
+- Dinkel
+- "Kavuzlu buğday"
+- Speate
+- Yell
+- orkisz
+- "escanda (var. fisga)"
+- "динкел (dinkel)"
+- "pšenice špalda"
+- Dinkel
+- Όλυρα
+- spelt
+- "spelt wheat"
+- Speltanisu
+this_taxon_is_source_of:
+- '[[_Standards/WikiData/WD~Grünkern,142116]]'
+- "[[_Standards/WikiData/WD~spelt flour,3066924]]"
+- '[[_Standards/WikiData/WD~wheat,15645384]]'
+has_effect: "[[_Standards/WikiData/WD~gluten-related disorder,1367782]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~wheat,15645384]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
 inflorescence: "[[_Standards/WikiData/WD~spike of spikelets,28771787]]"
-instance of:
-  - "[[_Standards/WikiData/WD~grain crop,113976623]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-UMLS CUI: C0331515
-short name:
-  - T. spelta
+instance_of:
+- "[[_Standards/WikiData/WD~grain crop,113976623]]"
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+UMLS_CUI: C0331515
+short_name:
+- "T. spelta"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/202304%207%20Tr.spelta%20color.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Triticum%20spelta0.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Spelt.jpg
-Commons category: Triticum aestivum subsp. spelta
-taxon rank: "[[_Standards/WikiData/WD~species,7432]]"
-parent taxon: "[[_Standards/WikiData/WD~Triticum,12106]]"
-has use:
-  - "[[_Standards/WikiData/WD~cereal grain,12117]]"
-ITIS TSN: "42243"
-taxon author citation: L.
-taxon name: Triticum spelta
-Commons gallery: Triticum spelta
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Spelt.ogg
-GRIN URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=40617
-sequenced genome URL: https://plants.ensembl.org/Triticum_spelta
-NBN System Key: NBNSYS0200003391
-EPPO Code: TRZSP
+- "http://commons.wikimedia.org/wiki/Special:FilePath/202304%207%20Tr.spelta%20color.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Triticum%20spelta0.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Spelt.jpg"
+Commons_category: "Triticum aestivum subsp. spelta"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+parent_taxon: '[[_Standards/WikiData/WD~Triticum,12106]]'
+has_use:
+- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+ITIS_TSN: 42243
+taxon_author_citation: L.
+taxon_name: "Triticum spelta"
+Commons_gallery: "Triticum spelta"
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Spelt.ogg"
+GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=40617"
+sequenced_genome_URL: "https://plants.ensembl.org/Triticum_spelta"
+NBN_System_Key: NBNSYS0200003391
+EPPO_Code: TRZSP
 UNII: W8705D5S0Q
 aliases:
-  - dinkel
+- dinkel
 ---
-
 
 ## #has_/text_of_/abstract 
 

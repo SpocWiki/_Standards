@@ -1,36 +1,35 @@
----
+﻿---
 has_id_wikidata: Q44167
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-part of: "[[_Standards/WikiData/WD~powertrain,609111]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~propulsion,2583685]]"
-  - "[[_Standards/WikiData/WD~power engine,18762500]]"
-  - "[[_Standards/WikiData/WD~machine,11019]]"
-different from: "[[_Standards/WikiData/WD~software engine,2622299]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox engine,10968599]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox automotive engine,22830011]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q96240196,96240196]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+part_of: '[[_Standards/WikiData/WD~powertrain,609111]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~propulsion,2583685]]'
+- "[[_Standards/WikiData/WD~power engine,18762500]]"
+- '[[_Standards/WikiData/WD~machine,11019]]'
+different_from: "[[_Standards/WikiData/WD~software engine,2622299]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox engine,10968599]]"
+- "[[_Standards/WikiData/WD~Template_Infobox automotive engine,22830011]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q96240196,96240196]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Displacement.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Motor.gif
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A8.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Motor2.ogg
-Nomenclature for Museum Cataloging: "8858"
-OmegaWiki Defined Meaning: "1200"
-Colon Classification: D513
-Commons category: Engines
-Commons gallery: Engine
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Displacement.gif"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Motor.gif"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A8.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Motor2.ogg"
+Nomenclature_for_Museum_Cataloging: 8858
+OmegaWiki_Defined_Meaning: 1200
+Colon_Classification: D513
+Commons_category: Engines
+Commons_gallery: Engine
 ---
-
 
 ## #has_/text_of_/abstract 
 

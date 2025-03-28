@@ -1,118 +1,118 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21931
 has_id_wikidata: Q871
-part of:
-  - "[[_Standards/WikiData/WD~group 15,106675]]"
-  - "[[_Standards/WikiData/WD~period 4,239825]]"
-  - "[[_Standards/WikiData/WD~arsenide(3-),415296]]"
-  - "[[_Standards/WikiData/WD~tailings,1784525]]"
-made from material:
-  - "[[_Standards/WikiData/WD~realgar,109746]]"
-  - "[[_Standards/WikiData/WD~arsenopyrite,191939]]"
-  - "[[_Standards/WikiData/WD~arsenide mineral,2864503]]"
-  - "[[_Standards/WikiData/WD~arsenate mineral,4796437]]"
-subject has role:
-  - "[[_Standards/WikiData/WD~carcinogen,187661]]"
-  - "[[_Standards/WikiData/WD~occupational carcinogen,21074597]]"
-named after:
-  - "[[_Standards/WikiData/WD~gold,208045]]"
-  - "[[_Standards/WikiData/WD~orpiment,419183]]"
-  - "[[_Standards/WikiData/WD~virility,3093051]]"
-crystal system: "[[_Standards/WikiData/WD~trigonal crystal system,588274]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Arsenic,84658865]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-medical condition treated: "[[_Standards/WikiData/WD~acute promyelocytic leukemia,612108]]"
-associated hazard:
-  - "[[_Standards/WikiData/WD~arsenic poisoning,730249]]"
-  - "[[_Standards/WikiData/WD~inorganic arsenic compound exposure,21167830]]"
-instance of:
-  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-  - "[[_Standards/WikiData/WD~metalloid,19596]]"
-found in taxon:
-  - "[[_Standards/WikiData/WD~Buccinum striatissimum,3710099]]"
-  - "[[_Standards/WikiData/WD~Lucensosergia lucens,104374937]]"
-has characteristic: "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-has effect: "[[_Standards/WikiData/WD~inorganic arsenic compound exposure,21167830]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 15,106675]]"
+- "[[_Standards/WikiData/WD~period 4,239825]]"
+- '[[_Standards/WikiData/WD~arsenide(3-),415296]]'
+- '[[_Standards/WikiData/WD~tailings,1784525]]'
+made_from_material:
+- '[[_Standards/WikiData/WD~realgar,109746]]'
+- '[[_Standards/WikiData/WD~arsenopyrite,191939]]'
+- "[[_Standards/WikiData/WD~arsenide mineral,2864503]]"
+- "[[_Standards/WikiData/WD~arsenate mineral,4796437]]"
+subject_has_role:
+- '[[_Standards/WikiData/WD~carcinogen,187661]]'
+- "[[_Standards/WikiData/WD~occupational carcinogen,21074597]]"
+named_after:
+- '[[_Standards/WikiData/WD~gold,208045]]'
+- '[[_Standards/WikiData/WD~orpiment,419183]]'
+- '[[_Standards/WikiData/WD~virility,3093051]]'
+crystal_system: "[[_Standards/WikiData/WD~trigonal crystal system,588274]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- '[[_Standards/WikiData/WD~Arsenic,84658865]]'
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~acute promyelocytic leukemia,612108]]"
+associated_hazard:
+- "[[_Standards/WikiData/WD~arsenic poisoning,730249]]"
+- "[[_Standards/WikiData/WD~inorganic arsenic compound exposure,21167830]]"
+instance_of:
+- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- '[[_Standards/WikiData/WD~metalloid,19596]]'
+found_in_taxon:
+- "[[_Standards/WikiData/WD~Buccinum striatissimum,3710099]]"
+- "[[_Standards/WikiData/WD~Lucensosergia lucens,104374937]]"
+has_characteristic: "[[_Standards/WikiData/WD~combustible powder,21073023]]"
+has_effect: "[[_Standards/WikiData/WD~inorganic arsenic compound exposure,21167830]]"
 mass: 74.921595
-time of discovery or invention: 1300-01-01T00:00:00Z
-oxidation state:
-  - -3
-  - 1
-  - 2
-  - 3
-  - 4
-vapor pressure: 0
-median lethal dose (LD50):
-  - 1000
-  - 20
-  - 50
-  - 38
-  - 75
-  - 144
-  - 145
-  - 0.285
-  - 46.2
-  - 763
-  - 794
-  - 13.39
-minimal lethal dose:
-  - 100
-  - 10
-  - 200
-  - 300
-  - 338
-time-weighted average exposure limit:
-  - 0.1
-  - 0.01
-  - 0.2
-  - 0.02
-  - 0.5
-  - 0.05
-ceiling exposure limit: 0.002
-immediately dangerous to life or health: 5
-atomic number: 33
-ionic radius:
-  - 0.34
-  - 0.46
-  - 0.58
+time_of_discovery_or_invention: "1300-01-01T00:00:00Z"
+oxidation_state:
+- -3
+- 1
+- 2
+- 3
+- 4
+vapor_pressure: 0
+median_lethal_dose_LD50_:
+- 1000
+- 20
+- 50
+- 38
+- 75
+- 144
+- 145
+- 0.285
+- 46.2
+- 763
+- 794
+- 13.39
+minimal_lethal_dose:
+- 100
+- 10
+- 200
+- 300
+- 338
+time-weighted_average_exposure_limit:
+- 0.1
+- 0.01
+- 0.2
+- 0.02
+- 0.5
+- 0.05
+ceiling_exposure_limit: 0.002
+immediately_dangerous_to_life_or_health: 5
+atomic_number: 33
+ionic_radius:
+- 0.34
+- 0.46
+- 0.58
 electronegativity: 2.18
 density: 5.73
-discoverer or inventor: "[[_Standards/WikiData/WD~Albertus Magnus,60059]]"
-sublimation temperature: 1135
-melting point: 1135
-OmegaWiki Defined Meaning: "255"
-ZVG number: "8280"
-chemical formula: As
-element symbol: As
-PubChem CID: "5359596"
-U.S. National Archives Identifier: "10637420"
-Unicode character: 砷
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Arsen%201.jpg
-canonical SMILES: "[As]"
-EC number: 231-148-6
-CAS Registry Number: 7440-38-2
-Commons gallery: Arsenic
-Commons category: Arsenic
-UMLS CUI: C0003818
-RTECS number: CG0525000
-MeSH tree code: D01.268.513.249
-DSSTOX compound identifier: DTXCID703886
-Wolfram Language entity code: Entity["Mineral", "Arsenic"]
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Albertus Magnus,60059]]"
+sublimation_temperature: 1135
+melting_point: 1135
+OmegaWiki_Defined_Meaning: 255
+ZVG_number: 8280
+chemical_formula: As
+element_symbol: As
+PubChem_CID: 5359596
+U_S_National_Archives_Identifier: 10637420
+Unicode_character: 砷
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arsen%201.jpg"
+canonical_SMILES: '[As]'
+EC_number: 231-148-6
+CAS_Registry_Number: 7440-38-2
+Commons_gallery: Arsenic
+Commons_category: Arsenic
+UMLS_CUI: C0003818
+RTECS_number: CG0525000
+MeSH_tree_code: D01.268.513.249
+DSSTOX_compound_identifier: DTXCID703886
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Arsenic\"]"
 InChI: InChI=1S/As
-Krugosvet article:
-  - meditsina/myshyak-i-zdorove-cheloveka
-  - nauka_i_tehnika/himiya/MISHYAK.html
+Krugosvet_article:
+- meditsina/myshyak-i-zdorove-cheloveka
+- nauka_i_tehnika/himiya/MISHYAK.html
 UNII: N712M78A8G
 InChIKey: RQNWIZPPADIBDY-UHFFFAOYSA-N
-Gujarati Vishwakosh entry: આર્સેનિક
+Gujarati_Vishwakosh_entry: આર્સેનિક
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Arsenic,871]] 

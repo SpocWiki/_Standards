@@ -1,52 +1,52 @@
----
+﻿---
 has_id_wikidata: Q7174
-IPTC NewsCode: mediatopic/20000654
-has part(s):
-  - "[[_Standards/WikiData/WD~direct democracy,171174]]"
-  - "[[_Standards/WikiData/WD~representative democracy,188759]]"
-  - "[[_Standards/WikiData/WD~ethnic democracy,3705343]]"
-  - "[[_Standards/WikiData/WD~electoral body,5290079]]"
-  - "[[_Standards/WikiData/WD~president,30461]]"
-opposite of: "[[_Standards/WikiData/WD~autocracy,173424]]"
-instance of:
-  - "[[_Standards/WikiData/WD~form of state,183039]]"
-  - "[[_Standards/WikiData/WD~form of government,1307214]]"
+IPTC_NewsCode: mediatopic/20000654
+has_part_s_:
+- "[[_Standards/WikiData/WD~direct democracy,171174]]"
+- "[[_Standards/WikiData/WD~representative democracy,188759]]"
+- "[[_Standards/WikiData/WD~ethnic democracy,3705343]]"
+- "[[_Standards/WikiData/WD~electoral body,5290079]]"
+- '[[_Standards/WikiData/WD~president,30461]]'
+opposite_of: '[[_Standards/WikiData/WD~autocracy,173424]]'
+instance_of:
+- "[[_Standards/WikiData/WD~form of state,183039]]"
+- "[[_Standards/WikiData/WD~form of government,1307214]]"
 uses:
-  - "[[_Standards/WikiData/WD~voting,189760]]"
-  - "[[_Standards/WikiData/WD~political participation,2101513]]"
-history of topic: "[[_Standards/WikiData/WD~history of democracy,587404]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-  - "[[_Standards/WikiData/WD~Princeton Encyclopedia of American Political History,20751032]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Democracy sidebar,6820948]]"
-has characteristic: "[[_Standards/WikiData/WD~type of democracy,7112606]]"
-part of: "[[_Standards/WikiData/WD~Plato's five regimes,7202412]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of democracy,25112605]]"
-UMLS CUI: C0011283
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/EL-%CE%B4%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Demokratie2.ogg
-MeSH tree code: I01.696.374
-subclass of: "[[_Standards/WikiData/WD~political system,28108]]"
-OmegaWiki Defined Meaning: "871"
-Colon Classification: W6
-GitHub topic: democracy
-PhilPapers topic: democracy
-Commons category: Democracy
-Basisklassifikation: "89.35"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Demokratie%20in%20Athen%20%28CC%20BY%204.0%29.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Election%20MG%203455.JPG
-WordLift URL: http://data.thenextweb.com/tnw/entity/democracy
-U.S. National Archives Identifier: "10638055"
+- '[[_Standards/WikiData/WD~voting,189760]]'
+- "[[_Standards/WikiData/WD~political participation,2101513]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of democracy,587404]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Princeton Encyclopedia of American Political History,20751032]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Democracy sidebar,6820948]]"
+has_characteristic: "[[_Standards/WikiData/WD~type of democracy,7112606]]"
+part_of: "[[_Standards/WikiData/WD~Plato's five regimes,7202412]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of democracy,25112605]]"
+UMLS_CUI: C0011283
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/EL-%CE%B4%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Demokratie2.ogg"
+MeSH_tree_code: I01.696.374
+subclass_of: "[[_Standards/WikiData/WD~political system,28108]]"
+OmegaWiki_Defined_Meaning: 871
+Colon_Classification: W6
+GitHub_topic: democracy
+PhilPapers_topic: democracy
+Commons_category: Democracy
+Basisklassifikation: 89.35
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Demokratie%20in%20Athen%20%28CC%20BY%204.0%29.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Election%20MG%203455.JPG"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/democracy"
+U_S_National_Archives_Identifier: 10638055
 ---
 
 ## Types of Democracies

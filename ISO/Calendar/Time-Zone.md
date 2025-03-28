@@ -1,32 +1,31 @@
----
+﻿---
 has_id_wikidata: Q12143
-subclass of:
-  - "[[_Standards/WikiData/WD~geographic region,82794]]"
-  - "[[_Standards/WikiData/WD~time standard,6313217]]"
-  - "[[_Standards/WikiData/WD~non-political administrative territorial entity,15642566]]"
-has list: "[[_Standards/WikiData/WD~lists of time zones,3048055]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_UTC time offsets,7474166]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox time zone,11001401]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox time zone UTC,13520154]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Time%20Zones%20Map.png
-Commons category: Time zones
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/HK%20Mongkok%20night%20banner.JPG
-equivalent class: http://www.w3.org/2006/time#TimeZone
-described at URL: https://github.com/whosonfirst/whosonfirst-placetypes#timezone
-Stack Exchange tag: https://stackoverflow.com/tags/timezone
-OpenStreetMap tag or key:
-  - Key:timezone
-  - Tag:boundary=timezone
-Wolfram Language entity type: TimeZone
-Commons gallery: Timezone
-properties for this type:
-  - located in time zone
-  - UTC timezone offset
-  - instance of
-Wikidata property: located in time zone
+subclass_of:
+- "[[_Standards/WikiData/WD~geographic region,82794]]"
+- "[[_Standards/WikiData/WD~time standard,6313217]]"
+- "[[_Standards/WikiData/WD~non-political administrative territorial entity,15642566]]"
+has_list: "[[_Standards/WikiData/WD~lists of time zones,3048055]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_UTC time offsets,7474166]]"
+- "[[_Standards/WikiData/WD~Template_Infobox time zone,11001401]]"
+- "[[_Standards/WikiData/WD~Template_Infobox time zone UTC,13520154]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Time%20Zones%20Map.png"
+Commons_category: "Time zones"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/HK%20Mongkok%20night%20banner.JPG"
+equivalent_class: "http://www.w3.org/2006/time#TimeZone"
+described_at_URL: "https://github.com/whosonfirst/whosonfirst-placetypes#timezone"
+Stack_Exchange_tag: "https://stackoverflow.com/tags/timezone"
+OpenStreetMap_tag_or_key:
+- "Key:timezone"
+- "Tag:boundary=timezone"
+Wolfram_Language_entity_type: TimeZone
+Commons_gallery: Timezone
+properties_for_this_type:
+- "located in time zone"
+- "UTC timezone offset"
+- "instance of"
+Wikidata_property: "located in time zone"
 ---
-
 
 ## #has_/text_of_/abstract 
 

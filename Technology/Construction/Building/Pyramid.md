@@ -1,29 +1,28 @@
----
+﻿---
 has_id_wikidata: Q12516
-different from: "[[_Standards/WikiData/WD~Piramida,105574]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-shape: "[[_Standards/WikiData/WD~pyramid,3358290]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox pyramid,13361861]]"
-instance of: "[[_Standards/WikiData/WD~type of structure,111972893]]"
-equivalent class: http://dbpedia.org/ontology/Pyramid
-Krugosvet article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PIRAMIDI.html
-GeoNames feature code:
-  - S.PYR
-  - S.PYRS
-OpenStreetMap tag or key: Tag:tomb=pyramid
+different_from: '[[_Standards/WikiData/WD~Piramida,105574]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+shape: '[[_Standards/WikiData/WD~pyramid,3358290]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox pyramid,13361861]]"
+instance_of: "[[_Standards/WikiData/WD~type of structure,111972893]]"
+equivalent_class: "http://dbpedia.org/ontology/Pyramid"
+Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PIRAMIDI.html
+GeoNames_feature_code:
+- S.PYR
+- S.PYRS
+OpenStreetMap_tag_or_key: "Tag:tomb=pyramid"
 name: ꠙꠤꠞꠣꠝꠤꠒ
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20at%20Jebel%20Barkal.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Pyramid%20of%20Giza%20-%20Pyramid%20of%20Khufu.jpg
-subclass of: "[[_Standards/WikiData/WD~building,41176]]"
-OmegaWiki Defined Meaning: "361006"
-Commons gallery: Pyramid
-Commons category: Pyramids
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20at%20Jebel%20Barkal.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Pyramid%20of%20Giza%20-%20Pyramid%20of%20Khufu.jpg"
+subclass_of: '[[_Standards/WikiData/WD~building,41176]]'
+OmegaWiki_Defined_Meaning: 361006
+Commons_gallery: Pyramid
+Commons_category: Pyramids
 ---
-
 
 ## #has_/text_of_/abstract 
 

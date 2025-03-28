@@ -1,57 +1,56 @@
----
+﻿---
 has_id_wikidata: Q12323
-has use:
-  - "[[_Standards/WikiData/WD~hydroelectricity,80638]]"
-  - "[[_Standards/WikiData/WD~reservoir,131681]]"
-  - "[[_Standards/WikiData/WD~aquaculture,188989]]"
-  - "[[_Standards/WikiData/WD~outdoor recreation,968907]]"
-  - "[[_Standards/WikiData/WD~navigability,1666353]]"
-  - "[[_Standards/WikiData/WD~flood control structure,2630707]]"
-  - "[[_Standards/WikiData/WD~drinking water,7892]]"
-  - "[[_Standards/WikiData/WD~agricultural irrigation,11453]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~levee,105190]]"
-  - "[[_Standards/WikiData/WD~infrastructure,121359]]"
-  - "[[_Standards/WikiData/WD~obstacle,264661]]"
-  - "[[_Standards/WikiData/WD~barrier structure,332907]]"
-  - "[[_Standards/WikiData/WD~architectural structure,811979]]"
-different from: "[[_Standards/WikiData/WD~Dam,226811]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Tamil Encyclopedia,7681254]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~spillway,911379]]"
-  - "[[_Standards/WikiData/WD~concrete dam,11302949]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox dam,5653690]]"
-partially coincident with: "[[_Standards/WikiData/WD~dam from granular material,98969382]]"
-properties for this type:
-  - height
-  - SNCZI-IPE dam ID
-  - drainage basin
-  - reservoir created
-Wikidata property: dam
-model item:
-  - "[[_Standards/WikiData/WD~Saint Petersburg Dam,27632]]"
-  - "[[_Standards/WikiData/WD~Aswan Dam,38891]]"
-OmegaWiki Defined Meaning: "824"
-Wolfram Language entity type: Dam
-Commons gallery: Dam
-U.S. National Archives Identifier: "10638327"
-Commons category: Dams
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Dam%20in%20Europe%20at%20Autumn%20as%20viewed%20from%20FPV%20drone.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/RappbodeLufts.JPG
-equivalent class: http://dbpedia.org/ontology/Dam
-exact match: http://purl.obolibrary.org/obo/ENVO_00000074
-UNSPSC Code: "30222207"
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PLOTINA.html
-GeoNames feature code: S.DAM
-OpenStreetMap tag or key: Tag:waterway=dam
+has_use:
+- '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
+- '[[_Standards/WikiData/WD~reservoir,131681]]'
+- '[[_Standards/WikiData/WD~aquaculture,188989]]'
+- "[[_Standards/WikiData/WD~outdoor recreation,968907]]"
+- '[[_Standards/WikiData/WD~navigability,1666353]]'
+- "[[_Standards/WikiData/WD~flood control structure,2630707]]"
+- "[[_Standards/WikiData/WD~drinking water,7892]]"
+- "[[_Standards/WikiData/WD~agricultural irrigation,11453]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~levee,105190]]'
+- '[[_Standards/WikiData/WD~infrastructure,121359]]'
+- '[[_Standards/WikiData/WD~obstacle,264661]]'
+- "[[_Standards/WikiData/WD~barrier structure,332907]]"
+- "[[_Standards/WikiData/WD~architectural structure,811979]]"
+different_from: '[[_Standards/WikiData/WD~Dam,226811]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Tamil Encyclopedia,7681254]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~spillway,911379]]'
+- "[[_Standards/WikiData/WD~concrete dam,11302949]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox dam,5653690]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~dam from granular material,98969382]]"
+properties_for_this_type:
+- height
+- "SNCZI-IPE dam ID"
+- "drainage basin"
+- "reservoir created"
+Wikidata_property: dam
+model_item:
+- "[[_Standards/WikiData/WD~Saint Petersburg Dam,27632]]"
+- "[[_Standards/WikiData/WD~Aswan Dam,38891]]"
+OmegaWiki_Defined_Meaning: 824
+Wolfram_Language_entity_type: Dam
+Commons_gallery: Dam
+U_S_National_Archives_Identifier: 10638327
+Commons_category: Dams
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Dam%20in%20Europe%20at%20Autumn%20as%20viewed%20from%20FPV%20drone.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/RappbodeLufts.JPG"
+equivalent_class: "http://dbpedia.org/ontology/Dam"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_00000074"
+UNSPSC_Code: 30222207
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PLOTINA.html
+GeoNames_feature_code: S.DAM
+OpenStreetMap_tag_or_key: "Tag:waterway=dam"
 ---
-
 
 ## #has_/text_of_/abstract 
 

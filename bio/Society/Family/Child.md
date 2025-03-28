@@ -1,45 +1,44 @@
----
+﻿---
 has_id_wikidata: Q7569
-IPTC NewsCode: mediatopic/20000790
-has characteristic: "[[_Standards/WikiData/WD~childhood,276258]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-instance of: "[[_Standards/WikiData/WD~population group,851990]]"
-different from:
-  - "[[_Standards/WikiData/WD~Kind,1178576]]"
-  - "[[_Standards/WikiData/WD~child,29514218]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~juvenile,1516282]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-followed by: "[[_Standards/WikiData/WD~preadolescent,116789753]]"
-UMLS CUI: C0008059
+IPTC_NewsCode: mediatopic/20000790
+has_characteristic: '[[_Standards/WikiData/WD~childhood,276258]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+instance_of: "[[_Standards/WikiData/WD~population group,851990]]"
+different_from:
+- '[[_Standards/WikiData/WD~Kind,1178576]]'
+- '[[_Standards/WikiData/WD~child,29514218]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~juvenile,1516282]]'
+- '[[_Standards/WikiData/WD~human,5]]'
+followed_by: '[[_Standards/WikiData/WD~preadolescent,116789753]]'
+UMLS_CUI: C0008059
 Libris-URI: hftwv7114fp5f2l
-MeSH tree code: M01.060.406
-Wikidata property:
-  - number of children
-  - child
-Colon Classification: S1
-OmegaWiki Defined Meaning: "568"
-Iconclass notation: 31D112
-Commons gallery: Child
-Commons category: Children
+MeSH_tree_code: M01.060.406
+Wikidata_property:
+- "number of children"
+- child
+Colon_Classification: S1
+OmegaWiki_Defined_Meaning: 568
+Iconclass_notation: 31D112
+Commons_gallery: Child
+Commons_category: Children
 hashtag: children
-female form of label: niña
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Child.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Little%20girl%20of%20Don%20Som.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5218%20%28que%29-Eavq-Wawa.wav
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Situace%20Video%20original%20Author%20Ladislav%20Kopunec%20Law%20Czech%20Republic%20Situation%20258367.webm
-WordLift URL: http://data.thenextweb.com/tnw/entity/child_2
-ACM Classification Code (2012): "10010931"
-U.S. National Archives Identifier: "10638853"
+female_form_of_label: niña
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Child.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Little%20girl%20of%20Don%20Som.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5218%20%28que%29-Eavq-Wawa.wav"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Situace%20Video%20original%20Author%20Ladislav%20Kopunec%20Law%20Czech%20Republic%20Situation%20258367.webm"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/child_2"
+ACM_Classification_Code_2012_: 10010931
+U_S_National_Archives_Identifier: 10638853
 ---
-
 
 ## #has_/text_of_/abstract 
 

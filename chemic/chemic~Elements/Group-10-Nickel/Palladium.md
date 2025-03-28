@@ -1,70 +1,71 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21944
 has_id_wikidata: Q1089
-Unicode character: 鈀
-time of discovery or invention: 1803-01-01T00:00:00Z
-part of:
-  - "[[_Standards/WikiData/WD~group 10,205253]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~platinum group,223995]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~precious metal,271449]]"
-  - "[[_Standards/WikiData/WD~transition metal,19588]]"
-different from:
-  - "[[_Standards/WikiData/WD~Palladium,255689]]"
-  - "[[_Standards/WikiData/WD~palladium as an investment,1669450]]"
-  - "[[_Standards/WikiData/WD~Pallad grenade launcher,2033786]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-UMLS CUI: C0030230
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%20crystal%20grown%20using%20CVD.webm
-electron configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d⁸
-  - "[Kr] 5s² 5d⁸"
-named after: "[[_Standards/WikiData/WD~Q3002,3002]]"
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+Unicode_character: 鈀
+time_of_discovery_or_invention: "1803-01-01T00:00:00Z"
+part_of:
+- "[[_Standards/WikiData/WD~group 10,205253]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~platinum group,223995]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~precious metal,271449]]"
+- "[[_Standards/WikiData/WD~transition metal,19588]]"
+different_from:
+- '[[_Standards/WikiData/WD~Palladium,255689]]'
+- "[[_Standards/WikiData/WD~palladium as an investment,1669450]]"
+- "[[_Standards/WikiData/WD~Pallad grenade launcher,2033786]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+UMLS_CUI: C0030230
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%20crystal%20grown%20using%20CVD.webm"
+electron_configuration:
+- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d⁸"
+- "[Kr] 5s² 5d⁸"
+named_after: '[[_Standards/WikiData/WD~Q3002,3002]]'
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 electronegativity: 2.2
-atomic number: 46
-ionic radius:
-  - 0.62
-  - 0.64
-  - 0.76
-  - 0.86
+atomic_number: 46
+ionic_radius:
+- 0.62
+- 0.64
+- 0.76
+- 0.86
 mass: 106.42
-PubChem CID: "23938"
-ZVG number: "8340"
-Commons gallery: Palladium
-Commons category: Palladium
-chemical formula: Pd
-element symbol: Pd
-CosIng number: "86747"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%201-noReflection.jpg
-canonical SMILES: "[Pd]"
-UNSPSC Code: "11101718"
-Common Procurement Vocabulary code: "14794000"
-EC number: 231-115-6
-OmegaWiki Defined Meaning: "341758"
-Reaxys registry number: "4937491"
+PubChem_CID: 23938
+ZVG_number: 8340
+Commons_gallery: Palladium
+Commons_category: Palladium
+chemical_formula: Pd
+element_symbol: Pd
+CosIng_number: 86747
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%201-noReflection.jpg"
+canonical_SMILES: '[Pd]'
+UNSPSC_Code: 11101718
+Common_Procurement_Vocabulary_code: 14794000
+EC_number: 231-115-6
+OmegaWiki_Defined_Meaning: 341758
+Reaxys_registry_number: 4937491
 UNII: 5TWQ1V240M
-CAS Registry Number: 7440-05-3
-CPV Supplementary code: AA43
-MeSH tree code:
-  - D01.268.556.680
-  - D01.268.956.718
-  - D01.552.544.680
-DSSTOX compound identifier: DTXCID2047644
-Wolfram Language entity code: Entity["Mineral", "Palladium"]
+CAS_Registry_Number: 7440-05-3
+CPV_Supplementary_code: AA43
+MeSH_tree_code:
+- D01.268.556.680
+- D01.268.956.718
+- D01.552.544.680
+DSSTOX_compound_identifier: DTXCID2047644
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Palladium\"]"
 InChI: InChI=1S/Pd
 InChIKey: KDLHZDBZIXYQEI-UHFFFAOYSA-N
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Palladium,1089]] 
 

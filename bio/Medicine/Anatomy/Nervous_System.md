@@ -1,45 +1,44 @@
----
+﻿---
 has_id_wikidata: Q9404
-studied in: "[[_Standards/WikiData/WD~neurology,83042]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~peripheral nervous system,169953]]"
-  - "[[_Standards/WikiData/WD~neuroglia,177105]]"
-  - "[[_Standards/WikiData/WD~neuron,43054]]"
-  - "[[_Standards/WikiData/WD~central nervous system,47273]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~organ system,188193]]"
-  - "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-made from material: "[[_Standards/WikiData/WD~nervous tissue,203850]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-development of anatomical structure: "[[_Standards/WikiData/WD~nervous system development,1345738]]"
-part of: "[[_Standards/WikiData/WD~neurovascular system,2330350]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Nervous system,5754642]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%9A%E0%A5%87%E0%A4%A4%E0%A4%BE%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE.wav
+studied_in: '[[_Standards/WikiData/WD~neurology,83042]]'
+has_part_s_:
+- "[[_Standards/WikiData/WD~peripheral nervous system,169953]]"
+- '[[_Standards/WikiData/WD~neuroglia,177105]]'
+- '[[_Standards/WikiData/WD~neuron,43054]]'
+- "[[_Standards/WikiData/WD~central nervous system,47273]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~organ system,188193]]"
+- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+made_from_material: "[[_Standards/WikiData/WD~nervous tissue,203850]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~nervous system development,1345738]]"
+part_of: "[[_Standards/WikiData/WD~neurovascular system,2330350]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Nervous system,5754642]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%9A%E0%A5%87%E0%A4%A4%E0%A4%BE%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE.wav"
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nervous%20system%20diagram-de.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/TE-Nervous%20system%20diagram-ru.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/TE-Nervous%20system%20diagram.svg
-WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/nervous_system_2
-Iconclass notation: 49G619
-UMLS CUI: C0027763
-Krugosvet article: nauka_i_tehnika/biologiya/NERVNAYA_SISTEMA.html
-TA98 Latin term: systema nervosum
-different from: "[[_Standards/WikiData/WD~human nervous system,11392181]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance of:
-  - "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
-  - "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-Library of Congress Classification:
-  - QL921-QL939
-  - QP351-QP495
-MeSH tree code: A08
-Commons category: Nervous system
-Colon Classification: L7
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Nervous%20system%20diagram-de.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/TE-Nervous%20system%20diagram-ru.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/TE-Nervous%20system%20diagram.svg"
+WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/nervous_system_2"
+Iconclass_notation: 49G619
+UMLS_CUI: C0027763
+Krugosvet_article: nauka_i_tehnika/biologiya/NERVNAYA_SISTEMA.html
+TA98_Latin_term: "systema nervosum"
+different_from: "[[_Standards/WikiData/WD~human nervous system,11392181]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+instance_of:
+- "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
+- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+Library_of_Congress_Classification:
+- QL921-QL939
+- QP351-QP495
+MeSH_tree_code: A08
+Commons_category: "Nervous system"
+Colon_Classification: L7
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,99 +1,98 @@
----
+﻿---
 aliases:
-  - St. Peter's Basilica
+- "St. Peter's Basilica"
 has_id_wikidata: Q12512
-founded by: "[[_Standards/WikiData/WD~Julius II,80516]]"
-located on street: "[[_Standards/WikiData/WD~Saint Peter's Square,83425]]"
+founded_by: "[[_Standards/WikiData/WD~Julius II,80516]]"
+located_on_street: "[[_Standards/WikiData/WD~Saint Peter's Square,83425]]"
 architect:
-  - "[[_Standards/WikiData/WD~Carlo Maderno,122328]]"
-  - "[[_Standards/WikiData/WD~Gian Lorenzo Bernini,160538]]"
-  - "[[_Standards/WikiData/WD~Giacomo della Porta,175566]]"
-  - "[[_Standards/WikiData/WD~Baldassare Peruzzi,177213]]"
-  - "[[_Standards/WikiData/WD~Giacomo Barozzi da Vignola,297565]]"
-  - "[[_Standards/WikiData/WD~Giuliano da Sangallo,312365]]"
-  - "[[_Standards/WikiData/WD~Bernardo Rossellino,325930]]"
-  - "[[_Standards/WikiData/WD~Antonio da Sangallo the Younger,357276]]"
-  - "[[_Standards/WikiData/WD~Pirro Ligorio,736090]]"
-  - "[[_Standards/WikiData/WD~Giovanni Giocondo,5585]]"
-  - "[[_Standards/WikiData/WD~Michelangelo,5592]]"
-  - "[[_Standards/WikiData/WD~Raphael,5597]]"
-  - "[[_Standards/WikiData/WD~Donato Bramante,7793]]"
-instance of:
-  - "[[_Standards/WikiData/WD~major basilica,124936]]"
-  - "[[_Standards/WikiData/WD~parish church,317557]]"
-  - "[[_Standards/WikiData/WD~tourist attraction,570116]]"
-  - "[[_Standards/WikiData/WD~architectural landmark,2319498]]"
-  - "[[_Standards/WikiData/WD~papal basilica,2713379]]"
-  - "[[_Standards/WikiData/WD~patriarchal basilica,15487029]]"
-architectural style:
-  - "[[_Standards/WikiData/WD~Renaissance architecture,236122]]"
-  - "[[_Standards/WikiData/WD~baroque architecture,840829]]"
-award received: "[[_Standards/WikiData/WD~Golden Rose,367484]]"
+- "[[_Standards/WikiData/WD~Carlo Maderno,122328]]"
+- "[[_Standards/WikiData/WD~Gian Lorenzo Bernini,160538]]"
+- "[[_Standards/WikiData/WD~Giacomo della Porta,175566]]"
+- "[[_Standards/WikiData/WD~Baldassare Peruzzi,177213]]"
+- "[[_Standards/WikiData/WD~Giacomo Barozzi da Vignola,297565]]"
+- "[[_Standards/WikiData/WD~Giuliano da Sangallo,312365]]"
+- "[[_Standards/WikiData/WD~Bernardo Rossellino,325930]]"
+- "[[_Standards/WikiData/WD~Antonio da Sangallo the Younger,357276]]"
+- "[[_Standards/WikiData/WD~Pirro Ligorio,736090]]"
+- "[[_Standards/WikiData/WD~Giovanni Giocondo,5585]]"
+- '[[_Standards/WikiData/WD~Michelangelo,5592]]'
+- '[[_Standards/WikiData/WD~Raphael,5597]]'
+- "[[_Standards/WikiData/WD~Donato Bramante,7793]]"
+instance_of:
+- "[[_Standards/WikiData/WD~major basilica,124936]]"
+- "[[_Standards/WikiData/WD~parish church,317557]]"
+- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
+- "[[_Standards/WikiData/WD~architectural landmark,2319498]]"
+- "[[_Standards/WikiData/WD~papal basilica,2713379]]"
+- "[[_Standards/WikiData/WD~patriarchal basilica,15487029]]"
+architectural_style:
+- "[[_Standards/WikiData/WD~Renaissance architecture,236122]]"
+- "[[_Standards/WikiData/WD~baroque architecture,840829]]"
+award_received: "[[_Standards/WikiData/WD~Golden Rose,367484]]"
 diocese: "[[_Standards/WikiData/WD~Diocese of Rome,665037]]"
-Christian liturgical rite: "[[_Standards/WikiData/WD~Roman Rite,730757]]"
-structure replaces: "[[_Standards/WikiData/WD~Old St. Peter's Basilica,810126]]"
-significant event:
-  - "[[_Standards/WikiData/WD~dedication,1762010]]"
-  - "[[_Standards/WikiData/WD~start of construction,27136782]]"
-part of:
-  - "[[_Standards/WikiData/WD~Seven Pilgrim Churches of Rome,2166566]]"
-  - "[[_Standards/WikiData/WD~Vatican City,237]]"
-described by source:
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The Altars and Altarpieces of New St. Peter's,116764361]]"
-has part(s): "[[_Standards/WikiData/WD~Tomb of Pope Leo XI,20897993]]"
-heritage designation: "[[_Standards/WikiData/WD~part of UNESCO World Heritage Site,43113623]]"
-position held by head of the organization: "[[_Standards/WikiData/WD~Archpriest of St. Peter's Basilica, Vatican City,105848309]]"
+Christian_liturgical_rite: "[[_Standards/WikiData/WD~Roman Rite,730757]]"
+structure_replaces: "[[_Standards/WikiData/WD~Old St. Peter's Basilica,810126]]"
+significant_event:
+- '[[_Standards/WikiData/WD~dedication,1762010]]'
+- "[[_Standards/WikiData/WD~start of construction,27136782]]"
+part_of:
+- "[[_Standards/WikiData/WD~Seven Pilgrim Churches of Rome,2166566]]"
+- "[[_Standards/WikiData/WD~Vatican City,237]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The Altars and Altarpieces of New St. Peter's,116764361]]"
+has_part_s_: "[[_Standards/WikiData/WD~Tomb of Pope Leo XI,20897993]]"
+heritage_designation: "[[_Standards/WikiData/WD~part of UNESCO World Heritage Site,43113623]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Archpriest of St. Peter's Basilica, Vatican City,105848309]]"
 name:
-  - church of the Prince of the Apostles
-  - S. Piero
-  - basilique de Saint-Pierre
-  - église de Saint-Pierre
-  - Saint-Pierre de Rome
-  - San-Pietro
-  - Saint-Pierre
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D5%B8%D6%82%D6%80%D5%A2%20%D5%8A%D5%A5%D5%BF%D6%80%D5%B8%D5%BD%D5%AB%20%D5%BF%D5%A1%D5%B3%D5%A1%D6%80%20%28St.%20Peter%27s%20Basilica%29.ogg
-ISNI: "0000000085215588"
+- "church of the Prince of the Apostles"
+- "S. Piero"
+- "basilique de Saint-Pierre"
+- "église de Saint-Pierre"
+- "Saint-Pierre de Rome"
+- San-Pietro
+- Saint-Pierre
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D5%B8%D6%82%D6%80%D5%A2%20%D5%8A%D5%A5%D5%BF%D6%80%D5%B8%D5%BD%D5%AB%20%D5%BF%D5%A1%D5%B3%D5%A1%D6%80%20%28St.%20Peter%27s%20Basilica%29.ogg"
+ISNI: 0000000085215588
 hashtag:
-  - BasilicaDiSanPietro
-  - StPetersBasilica
-religion or worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Vatican City,237]]"
+- BasilicaDiSanPietro
+- StPetersBasilica
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Vatican City,237]]"
 country: "[[_Standards/WikiData/WD~Vatican City,237]]"
-visitors per year: 11000000
+visitors_per_year: 11000000
 width: 150
 length: 220
-dedicated to: "[[_Standards/WikiData/WD~Saint Peter,33923]]"
-patron saint: "[[_Standards/WikiData/WD~Saint Peter,33923]]"
-named after: "[[_Standards/WikiData/WD~Saint Peter,33923]]"
-made from material:
-  - "[[_Standards/WikiData/WD~marble,40861]]"
-  - "[[_Standards/WikiData/WD~cement,45190]]"
+dedicated_to: "[[_Standards/WikiData/WD~Saint Peter,33923]]"
+patron_saint: "[[_Standards/WikiData/WD~Saint Peter,33923]]"
+named_after: "[[_Standards/WikiData/WD~Saint Peter,33923]]"
+made_from_material:
+- '[[_Standards/WikiData/WD~marble,40861]]'
+- '[[_Standards/WikiData/WD~cement,45190]]'
 height: 136.6
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Pietro%20%28notte%29.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Pietro%20in%20Vaticano%20September%202015-1a.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/PonteSantAngeloRom.jpg
-image of interior: http://commons.wikimedia.org/wiki/Special:FilePath/Rom%20%28Italien%29%3B%20Petersdom%20f.jpg
-image of design plans: http://commons.wikimedia.org/wiki/Special:FilePath/StPetersplan%20OttoLeuger1904.jpg
-official website: https://www.vatican.va/various/basiliche/san_pietro/index_it.htm
-Commons gallery: Basilica Sancti Petri
-Wolfram Language entity code: Entity["Building", "SaintPetersBasilica::33xpq"]
-Krugosvet article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SV_PETRA_SOBOR.html
-Commons category: Saint Peter's Basilica
-Commons Institution page: Saint Peter's Basilica
-native label:
-  - Basilica di San Pietro
-  - Basilica Sancti Petri
-official name:
-  - Basilica Papale di San Pietro in Vaticano
-  - Basilica Sancti Petri
-capital cost: 46800052
-coordinate location: Point(12.453416666 41.902222222)
-inception: 1506-04-28T00:00:00Z 
-has_time_started: 1506-04-28T00:00:00Z 
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Pietro%20%28notte%29.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Pietro%20in%20Vaticano%20September%202015-1a.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/PonteSantAngeloRom.jpg"
+image_of_interior: "http://commons.wikimedia.org/wiki/Special:FilePath/Rom%20%28Italien%29%3B%20Petersdom%20f.jpg"
+image_of_design_plans: "http://commons.wikimedia.org/wiki/Special:FilePath/StPetersplan%20OttoLeuger1904.jpg"
+official_website: "https://www.vatican.va/various/basiliche/san_pietro/index_it.htm"
+Commons_gallery: "Basilica Sancti Petri"
+Wolfram_Language_entity_code: "Entity[\"Building\", \"SaintPetersBasilica::33xpq\"]"
+Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SV_PETRA_SOBOR.html
+Commons_category: "Saint Peter's Basilica"
+Commons_Institution_page: "Saint Peter's Basilica"
+native_label:
+- "Basilica di San Pietro"
+- "Basilica Sancti Petri"
+official_name:
+- "Basilica Papale di San Pietro in Vaticano"
+- "Basilica Sancti Petri"
+capital_cost: 46800052
+coordinate_location: "Point(12.453416666 41.902222222)"
+inception: "1506-04-28T00:00:00Z"
+has_time_started: "1506-04-28T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

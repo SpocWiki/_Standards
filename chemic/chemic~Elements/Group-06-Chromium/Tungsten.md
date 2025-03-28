@@ -1,101 +1,102 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21970
 has_id_wikidata: Q743
-subclass of:
-  - "[[_Standards/WikiData/WD~heavy metal,105789]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~transition metal,19588]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Fausto Elhuyar,182745]]"
-  - "[[_Standards/WikiData/WD~infant,998]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 6,193280]]"
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-different from: "[[_Standards/WikiData/WD~wolfram,231299]]"
-made from material:
-  - "[[_Standards/WikiData/WD~scheelite,409096]]"
-  - "[[_Standards/WikiData/WD~ferberite,417387]]"
-  - "[[_Standards/WikiData/WD~hübnerite,417421]]"
-  - "[[_Standards/WikiData/WD~wolframite,541128]]"
-  - "[[_Standards/WikiData/WD~rhabdoborite-(W),55876692]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~electron medium,96796052]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated hazard: "[[_Standards/WikiData/WD~tungsten exposure,21175400]]"
-has effect: "[[_Standards/WikiData/WD~tungsten exposure,21175400]]"
-UMLS CUI: C0041383
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Smelted%20metal%20tungsten%20is%20very%20brittle.webm
-Common Procurement Vocabulary code:
-  - 14755000-8
-  - "14755000"
-named after: "[[_Standards/WikiData/WD~Canis lupus,18498]]"
-location of discovery: "[[_Standards/WikiData/WD~Spain,29]]"
-vapor pressure: 0
-short-term exposure limit: 10
-oxidation state:
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
-time-weighted average exposure limit: 5
-ionic radius:
-  - 0.6
-  - 0.42
-  - 0.51
-  - 0.62
-  - 0.66
-atomic number: 74
-thermal conductivity: 173
+subclass_of:
+- "[[_Standards/WikiData/WD~heavy metal,105789]]"
+- '[[_Standards/WikiData/WD~metal,11426]]'
+- "[[_Standards/WikiData/WD~transition metal,19588]]"
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Fausto Elhuyar,182745]]"
+- '[[_Standards/WikiData/WD~infant,998]]'
+part_of:
+- "[[_Standards/WikiData/WD~group 6,193280]]"
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+different_from: '[[_Standards/WikiData/WD~wolfram,231299]]'
+made_from_material:
+- '[[_Standards/WikiData/WD~scheelite,409096]]'
+- '[[_Standards/WikiData/WD~ferberite,417387]]'
+- '[[_Standards/WikiData/WD~hübnerite,417421]]'
+- '[[_Standards/WikiData/WD~wolframite,541128]]'
+- '[[_Standards/WikiData/WD~rhabdoborite-(W),55876692]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~electron medium,96796052]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~tungsten exposure,21175400]]"
+has_effect: "[[_Standards/WikiData/WD~tungsten exposure,21175400]]"
+UMLS_CUI: C0041383
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Smelted%20metal%20tungsten%20is%20very%20brittle.webm"
+Common_Procurement_Vocabulary_code:
+- 14755000-8
+- 14755000
+named_after: "[[_Standards/WikiData/WD~Canis lupus,18498]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Spain,29]]'
+vapor_pressure: 0
+short-term_exposure_limit: 10
+oxidation_state:
+- 2
+- 3
+- 4
+- 5
+- 6
+time-weighted_average_exposure_limit: 5
+ionic_radius:
+- 0.6
+- 0.42
+- 0.51
+- 0.62
+- 0.66
+atomic_number: 74
+thermal_conductivity: 173
 density: 19.3
 electronegativity: 2.36
-melting point:
-  - 3410
-  - 6170
-boiling point:
-  - 5930
-  - 10701
-molar enthalpy of vaporization: 774
-molar fusion enthalpy: 52.31
-chemical formula: W
-element symbol: W
+melting_point:
+- 3410
+- 6170
+boiling_point:
+- 5930
+- 10701
+molar_enthalpy_of_vaporization: 774
+molar_fusion_enthalpy: 52.31
+chemical_formula: W
+element_symbol: W
 mass: 183.84
-ZVG number: "7740"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Wolfram%20evaporated%20crystals%20and%201cm3%20cube.jpg
-PubChem CID: "23964"
-Gmelin number: "16317"
-OmegaWiki Defined Meaning: "369533"
-canonical SMILES: "[W]"
-Unicode character: 鎢
-electron configuration: "[Xe] 4f¹⁴ 5d⁴ 6s²"
-U.S. National Archives Identifier: "10641560"
-EC number: 231-143-9
-MCN code: 2611.00.00
-CAS Registry Number: 7440-33-7
-CPV Supplementary code: AA27
-MeSH tree code:
-  - D01.268.556.887
-  - D01.268.956.882
-  - D01.552.544.887
-DSSTOX compound identifier: DTXCID5031054
+ZVG_number: 7740
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfram%20evaporated%20crystals%20and%201cm3%20cube.jpg"
+PubChem_CID: 23964
+Gmelin_number: 16317
+OmegaWiki_Defined_Meaning: 369533
+canonical_SMILES: '[W]'
+Unicode_character: 鎢
+electron_configuration: "[Xe] 4f¹⁴ 5d⁴ 6s²"
+U_S_National_Archives_Identifier: 10641560
+EC_number: 231-143-9
+MCN_code: 2611.00.00
+CAS_Registry_Number: 7440-33-7
+CPV_Supplementary_code: AA27
+MeSH_tree_code:
+- D01.268.556.887
+- D01.268.956.882
+- D01.552.544.887
+DSSTOX_compound_identifier: DTXCID5031054
 InChI: InChI=1S/W
-Krugosvet article: nauka_i_tehnika/himiya/VOLFRAM.html
-Commons gallery: Tungsten
-Commons category: Tungsten
+Krugosvet_article: nauka_i_tehnika/himiya/VOLFRAM.html
+Commons_gallery: Tungsten
+Commons_category: Tungsten
 UNII: V9306CXO6G
 InChIKey: WFKWXMTUELFFGS-UHFFFAOYSA-N
-RTECS number: YO7175000
-time of discovery or invention: 1783-01-01T00:00:00Z
+RTECS_number: YO7175000
+time_of_discovery_or_invention: "1783-01-01T00:00:00Z"
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Tungsten,743]] 
 

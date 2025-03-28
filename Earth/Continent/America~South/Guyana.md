@@ -1,17 +1,17 @@
----
+﻿---
 location:
-  - 6.78
-  - -58.17
+- 6.78
+- -58.17
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 has_id_wikidata: Q734
 SpocWebEntityId: 26915
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Guyana
@@ -22,272 +22,272 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Guyana
-  - غيانا
-  - 圭亚那
-  - Гайана
-  - the Republic of Guyana
-  - la República de Guyana
+- Guyana
+- غيانا
+- 圭亚那
+- Гайана
+- "the Republic of Guyana"
+- "la República de Guyana"
 Languages:
-  - en-GY
+- en-GY
 icon: flag-gy
-member of:
-  - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
-  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-  - "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-  - "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
-  - "[[_Standards/WikiData/WD~Caribbean Free Trade Association,5039385]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
-  - "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+member_of:
+- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
+- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
+- "[[_Standards/WikiData/WD~Caribbean Free Trade Association,5039385]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
+- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
 flag: "[[_Standards/WikiData/WD~flag of Guyana,171124]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Guyana,263371]]"
-different from:
-  - "[[_Standards/WikiData/WD~Guyana,345756]]"
-  - "[[_Standards/WikiData/WD~French Guiana,3769]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Guyana,376006]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~911,533806]]"
-  - "[[_Standards/WikiData/WD~999,3086706]]"
-  - "[[_Standards/WikiData/WD~912,25648878]]"
-  - "[[_Standards/WikiData/WD~913,25648879]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Barima-Waini,537740]]"
-  - "[[_Standards/WikiData/WD~Pomeroon-Supenaam,680382]]"
-  - "[[_Standards/WikiData/WD~Cuyuni-Mazaruni,1146777]]"
-  - "[[_Standards/WikiData/WD~Demerara-Mahaica,1185362]]"
-  - "[[_Standards/WikiData/WD~East Berbice-Corentyne,1277758]]"
-  - "[[_Standards/WikiData/WD~Upper Demerara-Berbice,1309042]]"
-  - "[[_Standards/WikiData/WD~Essequibo Islands-West Demerara,1368802]]"
-  - "[[_Standards/WikiData/WD~Potaro-Siparuni,1454035]]"
-  - "[[_Standards/WikiData/WD~Mahaica-Berbice,1466671]]"
-  - "[[_Standards/WikiData/WD~Upper Takutu-Upper Essequibo,1516381]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Guyana,658980]]"
-part of:
-  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
-  - "[[_Standards/WikiData/WD~South America,18]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of Guyana,685925]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Guyana,263371]]"
+different_from:
+- '[[_Standards/WikiData/WD~Guyana,345756]]'
+- "[[_Standards/WikiData/WD~French Guiana,3769]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Guyana,376006]]"
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~911,533806]]'
+- '[[_Standards/WikiData/WD~999,3086706]]'
+- '[[_Standards/WikiData/WD~912,25648878]]'
+- '[[_Standards/WikiData/WD~913,25648879]]'
+contains_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Barima-Waini,537740]]'
+- '[[_Standards/WikiData/WD~Pomeroon-Supenaam,680382]]'
+- '[[_Standards/WikiData/WD~Cuyuni-Mazaruni,1146777]]'
+- '[[_Standards/WikiData/WD~Demerara-Mahaica,1185362]]'
+- "[[_Standards/WikiData/WD~East Berbice-Corentyne,1277758]]"
+- "[[_Standards/WikiData/WD~Upper Demerara-Berbice,1309042]]"
+- "[[_Standards/WikiData/WD~Essequibo Islands-West Demerara,1368802]]"
+- '[[_Standards/WikiData/WD~Potaro-Siparuni,1454035]]'
+- '[[_Standards/WikiData/WD~Mahaica-Berbice,1466671]]'
+- "[[_Standards/WikiData/WD~Upper Takutu-Upper Essequibo,1516381]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Guyana,658980]]"
+part_of:
+- '[[_Standards/WikiData/WD~Caribbean,664609]]'
+- "[[_Standards/WikiData/WD~South America,18]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Guyana,685925]]"
 anthem: "[[_Standards/WikiData/WD~National anthem of Guyana,858680]]"
-legislative body: "[[_Standards/WikiData/WD~National Assembly,1512579]]"
-history of topic: "[[_Standards/WikiData/WD~history of Guyana,1516437]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-  - "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-  - "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-central bank: "[[_Standards/WikiData/WD~Bank of Guyana,1812564]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Guyana,2393173]]"
-language used:
-  - "[[_Standards/WikiData/WD~Skepi Creole Dutch,2522153]]"
-  - "[[_Standards/WikiData/WD~Guyanese Creole,3305477]]"
-  - "[[_Standards/WikiData/WD~Wapishana,3450493]]"
-  - "[[_Standards/WikiData/WD~Atorada,3507932]]"
-  - "[[_Standards/WikiData/WD~Patamona,3915921]]"
-  - "[[_Standards/WikiData/WD~Taruma,5559094]]"
-  - "[[_Standards/WikiData/WD~Mapidian,6753812]]"
-  - "[[_Standards/WikiData/WD~Mawayana,6794377]]"
-  - "[[_Standards/WikiData/WD~Pemon,10729616]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Akawaio,28059]]"
-  - "[[_Standards/WikiData/WD~Berbice Creole Dutch,35215]]"
-  - "[[_Standards/WikiData/WD~Warao,36946]]"
-  - "[[_Standards/WikiData/WD~Carib,56611]]"
-  - "[[_Standards/WikiData/WD~Waiwai,56632]]"
-  - "[[_Standards/WikiData/WD~Macushi,56633]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Guyana,2667546]]"
+legislative_body: "[[_Standards/WikiData/WD~National Assembly,1512579]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Guyana,1516437]]"
+electrical_plug_type:
+- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
+central_bank: "[[_Standards/WikiData/WD~Bank of Guyana,1812564]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Guyana,2393173]]"
+language_used:
+- "[[_Standards/WikiData/WD~Skepi Creole Dutch,2522153]]"
+- "[[_Standards/WikiData/WD~Guyanese Creole,3305477]]"
+- '[[_Standards/WikiData/WD~Wapishana,3450493]]'
+- '[[_Standards/WikiData/WD~Atorada,3507932]]'
+- '[[_Standards/WikiData/WD~Patamona,3915921]]'
+- '[[_Standards/WikiData/WD~Taruma,5559094]]'
+- '[[_Standards/WikiData/WD~Mapidian,6753812]]'
+- '[[_Standards/WikiData/WD~Mawayana,6794377]]'
+- '[[_Standards/WikiData/WD~Pemon,10729616]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Akawaio,28059]]'
+- "[[_Standards/WikiData/WD~Berbice Creole Dutch,35215]]"
+- '[[_Standards/WikiData/WD~Warao,36946]]'
+- '[[_Standards/WikiData/WD~Carib,56611]]'
+- '[[_Standards/WikiData/WD~Waiwai,56632]]'
+- '[[_Standards/WikiData/WD~Macushi,56633]]'
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Guyana,2667546]]"
 culture: "[[_Standards/WikiData/WD~culture of Guyana,3007331]]"
-has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-instance of:
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+instance_of:
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
 replaces: "[[_Standards/WikiData/WD~Commonwealth realm of Guyana,5622720]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Guyana,7112284]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Guyana,10815225]]"
-driving side: "[[_Standards/WikiData/WD~left,13196750]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27103830,27103830]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~America_Guyana,63225363]]"
-  - "[[_Standards/WikiData/WD~UTC−04_00,5762]]"
-head of state: "[[_Standards/WikiData/WD~Irfaan Ali,64840184]]"
-head of government: "[[_Standards/WikiData/WD~Mark Phillips,98053664]]"
-UMLS CUI: C0018408
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Guyana,7112284]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guyana,10815225]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103830,27103830]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~America_Guyana,63225363]]'
+- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+head_of_state: "[[_Standards/WikiData/WD~Irfaan Ali,64840184]]"
+head_of_government: "[[_Standards/WikiData/WD~Mark Phillips,98053664]]"
+UMLS_CUI: C0018408
 demonym:
-  - ڭوياني
-  - ڭويانية
-  - ڭويانيين
-  - ڭويانيات
-  - guyanès
-  - guyanesa
-  - Guánach
-  - غياني
-  - غيانية
-  - guyanés
-  - guyanesa
-  - গায়ানি
-  - guyaner
-  - Gujanano
-  - Guyanien
-  - Guyanienne
-  - גיאני
-  - גיאנית
-  - guyanai
-  - Guyanano
-  - guyanese
-  - guyanesi
-  - guyanez
-  - guyaneză
-  - guyanezi
-  - guyaneza
-  - guyaneze
-  - guyanezo
-  - Gvayänan
-  - غيانيون
-  - Guyanese
-  - guyanezi
-coordinates of northernmost point: Point(-59.98 8.53)
-ISNI: "0000000121607790"
-coordinates of westernmost point: Point(-61.406293 5.962424)
-official name:
-  - Gajanos Kooperacinė Respublika
-  - Co-operative Republic of Guyana
-  - République coopérative du Guyana
-  - Guyana
-motto text:
-  - Un Bobl, Un Cenedl, Un Tynged
-  - Един народ,една нация, една съдба
-  - One People, One Nation, One Destiny
-  - South America Undiscovered
-nominal GDP:
-  - 15357537068
-  - 8044498801
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Suriname,730]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Barbados,244]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Suriname,730]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-country: "[[_Standards/WikiData/WD~Guyana,734]]"
-official language: "[[_Standards/WikiData/WD~English,1860]]"
-highest point: "[[_Standards/WikiData/WD~Mount Roraima,4777]]"
-capital: "[[_Standards/WikiData/WD~Georgetown,10717]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~South America,18]]"
+- ڭوياني
+- ڭويانية
+- ڭويانيين
+- ڭويانيات
+- guyanès
+- guyanesa
+- Guánach
+- غياني
+- غيانية
+- guyanés
+- guyanesa
+- গায়ানি
+- guyaner
+- Gujanano
+- Guyanien
+- Guyanienne
+- גיאני
+- גיאנית
+- guyanai
+- Guyanano
+- guyanese
+- guyanesi
+- guyanez
+- guyaneză
+- guyanezi
+- guyaneza
+- guyaneze
+- guyanezo
+- Gvayänan
+- غيانيون
+- Guyanese
+- guyanezi
+coordinates_of_northernmost_point: "Point(-59.98 8.53)"
+ISNI: 0000000121607790
+coordinates_of_westernmost_point: "Point(-61.406293 5.962424)"
+official_name:
+- "Gajanos Kooperacinė Respublika"
+- "Co-operative Republic of Guyana"
+- "République coopérative du Guyana"
+- Guyana
+motto_text:
+- "Un Bobl, Un Cenedl, Un Tynged"
+- "Един народ,една нация, една съдба"
+- "One People, One Nation, One Destiny"
+- "South America Undiscovered"
+nominal_GDP:
+- 15357537068
+- 8044498801
+diplomatic_relation:
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Suriname,730]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Barbados,244]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Suriname,730]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+country: '[[_Standards/WikiData/WD~Guyana,734]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+highest_point: "[[_Standards/WikiData/WD~Mount Roraima,4777]]"
+capital: '[[_Standards/WikiData/WD~Georgetown,10717]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South America,18]]"
 continent: "[[_Standards/WikiData/WD~South America,18]]"
-lowest point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-unemployment rate: 11
-VAT rate: 16
-marriageable age: 18
-age of majority: 18
-mains voltage: 240
-life expectancy: 66
-water as percent of area: 8.4
-top-level Internet domain: "[[_Standards/WikiData/WD~.gy,41448]]"
-Gini coefficient: 45.1
-Inequality-adjusted Human Development Index: 0.591
-Democracy Index: 6.25
-Human Development Index: 0.714
-total fertility rate: 2.558
-death rate: 9.762
-birth rate: 19.897
+lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+unemployment_rate: 11
+VAT_rate: 16
+marriageable_age: 18
+age_of_majority: 18
+mains_voltage: 240
+life_expectancy: 66
+water_as_percent_of_area: 8.4
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.gy,41448]]'
+Gini_coefficient: 45.1
+Inequality-adjusted_Human_Development_Index: 0.591
+Democracy_Index: 6.25
+Human_Development_Index: 0.714
+total_fertility_rate: 2.558
+death_rate: 9.762
+birth_rate: 19.897
 area: 214970
-IAB code: "1312"
-number of out-of-school children: 31248
-ISO 3166-1 numeric code: "328"
-M49 code: "328"
-mobile country code: "738"
-maritime identification digits: "750"
-OmegaWiki Defined Meaning: "154250"
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg
-Unicode character: 🇬🇾
-INSEE countries and foreign territories code: "99428"
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Guyana.svg
-urban population:
-  - 213179
-  - 213539
-  - 216404
-  - 218534
-Commons category: Guyana
-Commons gallery: Guyana
+IAB_code: 1312
+number_of_out-of-school_children: 31248
+ISO_3166-1_numeric_code: 328
+M49_code: 328
+mobile_country_code: 738
+maritime_identification_digits: 750
+OmegaWiki_Defined_Meaning: 154250
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg"
+Unicode_character: "\U0001F1EC\U0001F1FE"
+INSEE_countries_and_foreign_territories_code: 99428
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Guyana.svg"
+urban_population:
+- 213179
+- 213539
+- 216404
+- 218534
+Commons_category: Guyana
+Commons_gallery: Guyana
 subreddit: Guyana
 hashtag: Guyana
-Krugosvet article: strany_mira/GAANA.html
-MeSH tree code: Z01.107.757.488
-native label: Co-operative Republic of Guyana
-short name: 🇬🇾
-official website: https://parliament.gov.gy/
-coordinate location: Point(-59.316667 5.733333)
-coordinates of southernmost point: Point(-58.82578 1.16492)
-male population:
-  - 389899
-  - 392821
-  - 393635
-  - 395982
-female population:
-  - 405932
-  - 407303
-  - 410932
-  - 412743
-rural population:
-  - 583663
-  - 585574
-  - 588163
-  - 590192
+Krugosvet_article: strany_mira/GAANA.html
+MeSH_tree_code: Z01.107.757.488
+native_label: "Co-operative Republic of Guyana"
+short_name: "\U0001F1EC\U0001F1FE"
+official_website: "https://parliament.gov.gy/"
+coordinate_location: "Point(-59.316667 5.733333)"
+coordinates_of_southernmost_point: "Point(-58.82578 1.16492)"
+male_population:
+- 389899
+- 392821
+- 393635
+- 395982
+female_population:
+- 405932
+- 407303
+- 410932
+- 412743
+rural_population:
+- 583663
+- 585574
+- 588163
+- 590192
 population: 777859
-inception: 1966-01-01T00:00:00Z 
-has_time_started: 1966-01-01T00:00:00Z 
-ISO 3166-1 alpha-2 code: GY
-FIPS 10-4 (countries and regions): GY
-WIPO ST.3: GY
-licence plate code: GUY
-ISO 3166-1 alpha-3 code: GUY
-IOC country code: GUY
-ITU letter code: GUY
-U.S. National Archives Identifier: "10035730"
-coordinates of easternmost point: Point(-56.49115 1.95864)
-geoshape: http://commons.wikimedia.org/data/main/Data:Guyana.map
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/GUY%20orthographic.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationGuyana.svg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Guyana%20banner.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Guyana.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Guyana.wav
-country calling code: "+592"
-Dewey Decimal Classification: 2--881
+inception: "1966-01-01T00:00:00Z"
+has_time_started: "1966-01-01T00:00:00Z"
+ISO_3166-1_alpha-2_code: GY
+FIPS_10-4_countries_and_regions_: GY
+WIPO_ST_3: GY
+licence_plate_code: GUY
+ISO_3166-1_alpha-3_code: GUY
+IOC_country_code: GUY
+ITU_letter_code: GUY
+U_S_National_Archives_Identifier: 10035730
+coordinates_of_easternmost_point: "Point(-56.49115 1.95864)"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Guyana.map"
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/GUY%20orthographic.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LocationGuyana.svg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Guyana%20banner.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Guyana.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Guyana.wav"
+country_calling_code: +592
+Dewey_Decimal_Classification: 2--881
 Libris-URI: 20dgf15l0f5gwjw
-GitHub topic: guyana
-CIVICUS Monitor country entry: guyana
+GitHub_topic: guyana
+CIVICUS_Monitor_country_entry: guyana
 ---
 
 # [[Guyana]] 

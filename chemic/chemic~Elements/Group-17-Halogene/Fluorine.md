@@ -1,65 +1,65 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21911
 has_id_wikidata: Q650
 mass: 18.998403162
-time of discovery or invention: 1810-01-01T00:00:00Z
-Unicode character: 氟
-PubChem CID: "5360525"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Henri Moissan,102804]]"
-  - "[[_Standards/WikiData/WD~André-Marie Ampère,675]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 2,207712]]"
-  - "[[_Standards/WikiData/WD~perfluorinated compound,722568]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
-named after: "[[_Standards/WikiData/WD~hydrofluoric acid,209569]]"
-different from: "[[_Standards/WikiData/WD~fluorene,417934]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~diatomic nonmetal,19753344]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
-associated hazard: "[[_Standards/WikiData/WD~fluorine exposure,21174321]]"
-has effect: "[[_Standards/WikiData/WD~fluorine exposure,21174321]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fluorine-ar.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20fluorine%20tighter%20crop.jpg
-electron configuration:
-  - "[He] 2s² 2p⁵"
-  - 1s² 2s² 2p⁵
-MeSH tree code: D01.268.380.300
-RTECS number: LM6475000
-CAS Registry Number: 14762-94-8
-followed by: "[[_Standards/WikiData/WD~neon,654]]"
-melting point: -363
-boiling point: -307
-oxidation state: -1
-location of discovery: "[[_Standards/WikiData/WD~France,142]]"
-vapor pressure: 1
-time-weighted average exposure limit: 0.2
-ionic radius:
-  - 0.08
-  - 1.33
-atomic number: 9
-ionization energy: 15.7
+time_of_discovery_or_invention: "1810-01-01T00:00:00Z"
+Unicode_character: 氟
+PubChem_CID: 5360525
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Henri Moissan,102804]]"
+- "[[_Standards/WikiData/WD~André-Marie Ampère,675]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 2,207712]]"
+- "[[_Standards/WikiData/WD~perfluorinated compound,722568]]"
+- '[[_Standards/WikiData/WD~halogens,19605]]'
+named_after: "[[_Standards/WikiData/WD~hydrofluoric acid,209569]]"
+different_from: '[[_Standards/WikiData/WD~fluorene,417934]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~diatomic nonmetal,19753344]]"
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+- '[[_Standards/WikiData/WD~halogens,19605]]'
+associated_hazard: "[[_Standards/WikiData/WD~fluorine exposure,21174321]]"
+has_effect: "[[_Standards/WikiData/WD~fluorine exposure,21174321]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Fluorine-ar.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20fluorine%20tighter%20crop.jpg"
+electron_configuration:
+- "[He] 2s² 2p⁵"
+- "1s² 2s² 2p⁵"
+MeSH_tree_code: D01.268.380.300
+RTECS_number: LM6475000
+CAS_Registry_Number: 14762-94-8
+followed_by: '[[_Standards/WikiData/WD~neon,654]]'
+melting_point: -363
+boiling_point: -307
+oxidation_state: -1
+location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
+vapor_pressure: 1
+time-weighted_average_exposure_limit: 0.2
+ionic_radius:
+- 0.08
+- 1.33
+atomic_number: 9
+ionization_energy: 15.7
 electronegativity: 3.98
-chemical formula: F
-element symbol: F
-immediately dangerous to life or health: 38.75
-Gmelin number: "544"
-OmegaWiki Defined Meaning: "1496"
-Commons gallery: Fluorine
-Commons category: Fluorine
+chemical_formula: F
+element_symbol: F
+immediately_dangerous_to_life_or_health: 38.75
+Gmelin_number: 544
+OmegaWiki_Defined_Meaning: 1496
+Commons_gallery: Fluorine
+Commons_category: Fluorine
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Fluorine,650]]  

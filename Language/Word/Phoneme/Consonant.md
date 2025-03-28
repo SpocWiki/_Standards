@@ -1,22 +1,21 @@
----
+﻿---
 has_id_wikidata: Q38035
-has part(s): "[[_Standards/WikiData/WD~noise,179448]]"
-subclass of: "[[_Standards/WikiData/WD~phone,202064]]"
-described by source: "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-has characteristic: "[[_Standards/WikiData/WD~disruption,2956685]]"
-different from: "[[_Standards/WikiData/WD~consonant letter,3841820]]"
-depicted by: "[[_Standards/WikiData/WD~consonant letter,3841820]]"
+has_part_s_: '[[_Standards/WikiData/WD~noise,179448]]'
+subclass_of: '[[_Standards/WikiData/WD~phone,202064]]'
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+has_characteristic: '[[_Standards/WikiData/WD~disruption,2956685]]'
+different_from: "[[_Standards/WikiData/WD~consonant letter,3841820]]"
+depicted_by: "[[_Standards/WikiData/WD~consonant letter,3841820]]"
 follows: "[[_Standards/WikiData/WD~preconsonantal form,114752182]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Consonant.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/PlaceOfArticulation.svg
-Stack Exchange tag: https://linguistics.stackexchange.com/tags/consonants
-facet of: "[[_Standards/WikiData/WD~language,315]]"
-part of: "[[_Standards/WikiData/WD~language,315]]"
-opposite of: "[[_Standards/WikiData/WD~vowel,36244]]"
-OmegaWiki Defined Meaning: "403779"
-Commons category: Consonants
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Consonant.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/PlaceOfArticulation.svg"
+Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/consonants"
+facet_of: '[[_Standards/WikiData/WD~language,315]]'
+part_of: '[[_Standards/WikiData/WD~language,315]]'
+opposite_of: '[[_Standards/WikiData/WD~vowel,36244]]'
+OmegaWiki_Defined_Meaning: 403779
+Commons_category: Consonants
 ---
-
 
 ## #has_/text_of_/abstract 
 

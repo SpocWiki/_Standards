@@ -1,52 +1,51 @@
----
+﻿---
 has_id_wikidata: Q11436
-has part(s): "[[_Standards/WikiData/WD~aircraft cockpit,194156]]"
-instance of: "[[_Standards/WikiData/WD~mode of transport,334166]]"
+has_part_s_: "[[_Standards/WikiData/WD~aircraft cockpit,194156]]"
+instance_of: "[[_Standards/WikiData/WD~mode of transport,334166]]"
 operator:
-  - "[[_Standards/WikiData/WD~Chilean Air Force,652023]]"
-  - "[[_Standards/WikiData/WD~Armed Forces of Chile,860704]]"
-  - "[[_Standards/WikiData/WD~Algerian People's National Armed Forces,897700]]"
-  - "[[_Standards/WikiData/WD~Argentine Naval Aviation,2665958]]"
-  - "[[_Standards/WikiData/WD~Argentine Army Aviation,3958034]]"
-  - "[[_Standards/WikiData/WD~global aircraft fleet,24175393]]"
-  - "[[_Standards/WikiData/WD~Chilean Naval Aviation,90128770]]"
-  - "[[_Standards/WikiData/WD~Chilean Army Aviation,90130528]]"
-  - "[[_Standards/WikiData/WD~Bundeswehr,56010]]"
-  - "[[_Standards/WikiData/WD~Argentine Air Force,57770]]"
-different from: "[[_Standards/WikiData/WD~rocket,2037215]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Aircraft specifications,6672945]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~flying machine,7194062]]"
-  - "[[_Standards/WikiData/WD~vehicle,42889]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~aircraft model,15056995]]"
-  - "[[_Standards/WikiData/WD~aircraft type,45296117]]"
-UMLS CUI: C0683901
-properties for this type:
-  - aircraft registration
-  - avionics
-  - maximum glide ratio
-  - undercarriage
-  - takeoff and landing capability
-  - time to altitude
-has part(s) of the class:
-  - "[[_Standards/WikiData/WD~airplane,197]]"
-  - "[[_Standards/WikiData/WD~helicopter,34486]]"
-OmegaWiki Defined Meaning: "108"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Collection%20of%20military%20aircraft.jpg
-equivalent class: http://dbpedia.org/ontology/Aircraft
-exact match: http://purl.obolibrary.org/obo/ENVO_01001488
-GS1 GPC code:
-  - "10008049"
-  - "77040000"
-  - "77040100"
-U.S. National Archives Identifier: "10637967"
-Nomenclature for Museum Cataloging: "11689"
-Wolfram Language entity type: Aircraft
-Commons category: Aircraft
-MeSH tree code: J01.937.285.100
+- "[[_Standards/WikiData/WD~Chilean Air Force,652023]]"
+- "[[_Standards/WikiData/WD~Armed Forces of Chile,860704]]"
+- "[[_Standards/WikiData/WD~Algerian People's National Armed Forces,897700]]"
+- "[[_Standards/WikiData/WD~Argentine Naval Aviation,2665958]]"
+- "[[_Standards/WikiData/WD~Argentine Army Aviation,3958034]]"
+- "[[_Standards/WikiData/WD~global aircraft fleet,24175393]]"
+- "[[_Standards/WikiData/WD~Chilean Naval Aviation,90128770]]"
+- "[[_Standards/WikiData/WD~Chilean Army Aviation,90130528]]"
+- '[[_Standards/WikiData/WD~Bundeswehr,56010]]'
+- "[[_Standards/WikiData/WD~Argentine Air Force,57770]]"
+different_from: '[[_Standards/WikiData/WD~rocket,2037215]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Aircraft specifications,6672945]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~flying machine,7194062]]"
+- '[[_Standards/WikiData/WD~vehicle,42889]]'
+has_characteristic:
+- "[[_Standards/WikiData/WD~aircraft model,15056995]]"
+- "[[_Standards/WikiData/WD~aircraft type,45296117]]"
+UMLS_CUI: C0683901
+properties_for_this_type:
+- "aircraft registration"
+- avionics
+- "maximum glide ratio"
+- undercarriage
+- "takeoff and landing capability"
+- "time to altitude"
+has_part_s_of_the_class:
+- '[[_Standards/WikiData/WD~airplane,197]]'
+- '[[_Standards/WikiData/WD~helicopter,34486]]'
+OmegaWiki_Defined_Meaning: 108
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Collection%20of%20military%20aircraft.jpg"
+equivalent_class: "http://dbpedia.org/ontology/Aircraft"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_01001488"
+GS1_GPC_code:
+- 10008049
+- 77040000
+- 77040100
+U_S_National_Archives_Identifier: 10637967
+Nomenclature_for_Museum_Cataloging: 11689
+Wolfram_Language_entity_type: Aircraft
+Commons_category: Aircraft
+MeSH_tree_code: J01.937.285.100
 ---
-
 
 ## #has_/text_of_/abstract 
 

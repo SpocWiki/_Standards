@@ -1,32 +1,31 @@
----
+﻿---
 has_id_wikidata: Q11467
-subclass of: "[[_Standards/WikiData/WD~materials science,228736]]"
-instance of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~branch of science,2465832]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
-said to be the same as: "[[_Standards/WikiData/WD~metal industry,1924906]]"
-different from: "[[_Standards/WikiData/WD~Q11777633,11777633]]"
-practiced by:
-  - "[[_Standards/WikiData/WD~metallurgist,18576582]]"
-  - "[[_Standards/WikiData/WD~metallurgical engineer,27947380]]"
-partially coincident with: "[[_Standards/WikiData/WD~Q19724861,19724861]]"
-Stack Exchange tag: https://chemistry.stackexchange.com/tags/metallurgy
-Dewey Decimal Classification: "669"
-Colon Classification: F191
-Commons category: Metallurgy
-image: http://commons.wikimedia.org/wiki/Special:FilePath/VysokePece1.jpg
-U.S. National Archives Identifier: "10644494"
-MeSH tree code: J01.576.655.875.400
+subclass_of: "[[_Standards/WikiData/WD~materials science,228736]]"
+instance_of:
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- "[[_Standards/WikiData/WD~branch of science,2465832]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~metal industry,1924906]]"
+different_from: '[[_Standards/WikiData/WD~Q11777633,11777633]]'
+practiced_by:
+- '[[_Standards/WikiData/WD~metallurgist,18576582]]'
+- "[[_Standards/WikiData/WD~metallurgical engineer,27947380]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~Q19724861,19724861]]'
+Stack_Exchange_tag: "https://chemistry.stackexchange.com/tags/metallurgy"
+Dewey_Decimal_Classification: 669
+Colon_Classification: F191
+Commons_category: Metallurgy
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/VysokePece1.jpg"
+U_S_National_Archives_Identifier: 10644494
+MeSH_tree_code: J01.576.655.875.400
 ---
-
 
 ## #has_/text_of_/abstract 
 

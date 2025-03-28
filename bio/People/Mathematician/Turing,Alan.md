@@ -1,117 +1,118 @@
----
+﻿---
 aliases:
-  - Alan Turing
-  - Alan Mathison Turing
+- "Alan Turing"
+- "Alan Mathison Turing"
 has_id_wikidata: Q7251
 occupation:
-  - "[[_Standards/WikiData/WD~computer scientist,82594]]"
-  - "[[_Standards/WikiData/WD~cryptographer,15442776]]"
-student of: "[[_Standards/WikiData/WD~Alonzo Church,92741]]"
-doctoral advisor: "[[_Standards/WikiData/WD~Alonzo Church,92741]]"
+- "[[_Standards/WikiData/WD~computer scientist,82594]]"
+- '[[_Standards/WikiData/WD~cryptographer,15442776]]'
+student_of: "[[_Standards/WikiData/WD~Alonzo Church,92741]]"
+doctoral_advisor: "[[_Standards/WikiData/WD~Alonzo Church,92741]]"
 residence:
-  - "[[_Standards/WikiData/WD~Maida Vale,122744]]"
-  - "[[_Standards/WikiData/WD~Guildford,213465]]"
-place of birth: "[[_Standards/WikiData/WD~Maida Vale,122744]]"
-member of: "[[_Standards/WikiData/WD~Royal Society,123885]]"
-notable work:
-  - "[[_Standards/WikiData/WD~Turing machine,163310]]"
-  - "[[_Standards/WikiData/WD~Turing test,189223]]"
-  - "[[_Standards/WikiData/WD~Turing completeness,197970]]"
-  - "[[_Standards/WikiData/WD~Church-Turing thesis,309157]]"
-  - "[[_Standards/WikiData/WD~Bombe,480476]]"
-  - "[[_Standards/WikiData/WD~halting problem,622849]]"
-  - "[[_Standards/WikiData/WD~Computing Machinery and Intelligence,772056]]"
-  - "[[_Standards/WikiData/WD~non-deterministic Turing machine,1190223]]"
-  - "[[_Standards/WikiData/WD~probabilistic Turing machine,1191836]]"
-  - "[[_Standards/WikiData/WD~Turing degree,1527413]]"
-  - "[[_Standards/WikiData/WD~universal Turing machine,2703890]]"
-  - "[[_Standards/WikiData/WD~Symmetric Turing machine,7661303]]"
-  - "[[_Standards/WikiData/WD~On Computable Numbers, with an Application to the Entscheidungsproblem,20895949]]"
-  - "[[_Standards/WikiData/WD~Intelligent Machinery,20895966]]"
-medical condition: "[[_Standards/WikiData/WD~stuttering,186676]]"
+- "[[_Standards/WikiData/WD~Maida Vale,122744]]"
+- '[[_Standards/WikiData/WD~Guildford,213465]]'
+place_of_birth: "[[_Standards/WikiData/WD~Maida Vale,122744]]"
+member_of: "[[_Standards/WikiData/WD~Royal Society,123885]]"
+notable_work:
+- "[[_Standards/WikiData/WD~Turing machine,163310]]"
+- "[[_Standards/WikiData/WD~Turing test,189223]]"
+- "[[_Standards/WikiData/WD~Turing completeness,197970]]"
+- "[[_Standards/WikiData/WD~Church-Turing thesis,309157]]"
+- '[[_Standards/WikiData/WD~Bombe,480476]]'
+- "[[_Standards/WikiData/WD~halting problem,622849]]"
+- "[[_Standards/WikiData/WD~Computing Machinery and Intelligence,772056]]"
+- "[[_Standards/WikiData/WD~non-deterministic Turing machine,1190223]]"
+- "[[_Standards/WikiData/WD~probabilistic Turing machine,1191836]]"
+- "[[_Standards/WikiData/WD~Turing degree,1527413]]"
+- "[[_Standards/WikiData/WD~universal Turing machine,2703890]]"
+- "[[_Standards/WikiData/WD~Symmetric Turing machine,7661303]]"
+- "[[_Standards/WikiData/WD~On Computable Numbers, with an Application to the Entscheidungsproblem,20895949]]"
+- "[[_Standards/WikiData/WD~Intelligent Machinery,20895966]]"
+medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
 employer:
-  - "[[_Standards/WikiData/WD~Government Communications Headquarters,220798]]"
-  - "[[_Standards/WikiData/WD~Victoria University of Manchester,867530]]"
-  - "[[_Standards/WikiData/WD~National Physical Laboratory (United Kingdom),1967606]]"
-  - "[[_Standards/WikiData/WD~University of Cambridge,35794]]"
+- "[[_Standards/WikiData/WD~Government Communications Headquarters,220798]]"
+- "[[_Standards/WikiData/WD~Victoria University of Manchester,867530]]"
+- "[[_Standards/WikiData/WD~National Physical Laboratory (United Kingdom),1967606]]"
+- "[[_Standards/WikiData/WD~University of Cambridge,35794]]"
 student: "[[_Standards/WikiData/WD~Robin Gandy,249984]]"
-doctoral student:
-  - "[[_Standards/WikiData/WD~Robin Gandy,249984]]"
-  - "[[_Standards/WikiData/WD~Beatrice Helen Worsley,16493]]"
-given name: "[[_Standards/WikiData/WD~Alan,294833]]"
-influenced by: "[[_Standards/WikiData/WD~Max Newman,707155]]"
-interested in:
-  - "[[_Standards/WikiData/WD~foundations of mathematics,833585]]"
-  - "[[_Standards/WikiData/WD~mathematical logic,1166618]]"
-  - "[[_Standards/WikiData/WD~artificial intelligence,11660]]"
-cause of death: "[[_Standards/WikiData/WD~cyanide poisoning,883082]]"
-field of work:
-  - "[[_Standards/WikiData/WD~cryptanalysis,897511]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~logic,8078]]"
-  - "[[_Standards/WikiData/WD~cryptography,8789]]"
-  - "[[_Standards/WikiData/WD~computer science,21198]]"
-educated at:
-  - "[[_Standards/WikiData/WD~King's College,924289]]"
-  - "[[_Standards/WikiData/WD~Sherborne School,2278254]]"
-  - "[[_Standards/WikiData/WD~Hazlehurst Community Primary School,66135280]]"
-  - "[[_Standards/WikiData/WD~Princeton University,21578]]"
-award received:
-  - "[[_Standards/WikiData/WD~Smith's Prize,1690167]]"
-  - "[[_Standards/WikiData/WD~Officer of the Order of the British Empire,10762848]]"
-  - "[[_Standards/WikiData/WD~Fellow of the Royal Society,15631401]]"
-place of death: "[[_Standards/WikiData/WD~Wilmslow,2011497]]"
-archives at:
-  - "[[_Standards/WikiData/WD~Sherborne School,2278254]]"
-  - "[[_Standards/WikiData/WD~King's College Cambridge archive,81165230]]"
-exonerated of: "[[_Standards/WikiData/WD~gross indecency,5610496]]"
-convicted of: "[[_Standards/WikiData/WD~gross indecency,5610496]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-academic thesis: "[[_Standards/WikiData/WD~Systems of Logic Based on Ordinals,7663875]]"
-place of burial: "[[_Standards/WikiData/WD~Woking Crematorium,8029331]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20%285025990183%29.jpg
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20signature.svg
-official website: http://www.turingarchive.org/
-described at URL:
-  - https://www.nytimes.com/2019/06/05/obituaries/alan-turing-overlooked.html
-  - https://www.kings.cam.ac.uk/archive-centre/online-resources/online-exhibitions/alan-mathison-turing-1912-54
-  - https://universityarchives.princeton.edu/2014/11/alan-turings-princeton-university-file-available-online/
-  - https://heritage.humanists.uk/alan-turing/
-name in native language: Alan Mathison Turing
-birth name: Alan Mathison Turing
-date of burial or cremation: 1954-06-12T00:00:00Z
-date of death: 1954-06-07T00:00:00Z
-Commons category: Alan Turing
-Commons gallery: Alan Turing
-date of birth: 1912-06-23T00:00:00Z
-Google Doodle: alan-turings-100th-birthday
-BHCL UUID: d9bb7adf-e873-4dfa-a5e7-fea3a6deb04b
-Krugosvet article: gumanitarnye_nauki/lingvistika/TYURING_ALAN_MATISON.html
-Regensburg Classification: SF 8465
+doctoral_student:
+- "[[_Standards/WikiData/WD~Robin Gandy,249984]]"
+- "[[_Standards/WikiData/WD~Beatrice Helen Worsley,16493]]"
+given_name: '[[_Standards/WikiData/WD~Alan,294833]]'
+influenced_by: "[[_Standards/WikiData/WD~Max Newman,707155]]"
+interested_in:
+- "[[_Standards/WikiData/WD~foundations of mathematics,833585]]"
+- "[[_Standards/WikiData/WD~mathematical logic,1166618]]"
+- "[[_Standards/WikiData/WD~artificial intelligence,11660]]"
+cause_of_death: "[[_Standards/WikiData/WD~cyanide poisoning,883082]]"
+field_of_work:
+- '[[_Standards/WikiData/WD~cryptanalysis,897511]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~cryptography,8789]]'
+- "[[_Standards/WikiData/WD~computer science,21198]]"
+educated_at:
+- "[[_Standards/WikiData/WD~King's College,924289]]"
+- "[[_Standards/WikiData/WD~Sherborne School,2278254]]"
+- "[[_Standards/WikiData/WD~Hazlehurst Community Primary School,66135280]]"
+- "[[_Standards/WikiData/WD~Princeton University,21578]]"
+award_received:
+- "[[_Standards/WikiData/WD~Smith's Prize,1690167]]"
+- "[[_Standards/WikiData/WD~Officer of the Order of the British Empire,10762848]]"
+- "[[_Standards/WikiData/WD~Fellow of the Royal Society,15631401]]"
+place_of_death: '[[_Standards/WikiData/WD~Wilmslow,2011497]]'
+archives_at:
+- "[[_Standards/WikiData/WD~Sherborne School,2278254]]"
+- "[[_Standards/WikiData/WD~King's College Cambridge archive,81165230]]"
+exonerated_of: "[[_Standards/WikiData/WD~gross indecency,5610496]]"
+convicted_of: "[[_Standards/WikiData/WD~gross indecency,5610496]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+academic_thesis: "[[_Standards/WikiData/WD~Systems of Logic Based on Ordinals,7663875]]"
+place_of_burial: "[[_Standards/WikiData/WD~Woking Crematorium,8029331]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20%285025990183%29.jpg"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20signature.svg"
+official_website: "http://www.turingarchive.org/"
+described_at_URL:
+- "https://www.nytimes.com/2019/06/05/obituaries/alan-turing-overlooked.html"
+- "https://www.kings.cam.ac.uk/archive-centre/online-resources/online-exhibitions/alan-mathison-turing-1912-54"
+- "https://universityarchives.princeton.edu/2014/11/alan-turings-princeton-university-file-available-online/"
+- "https://heritage.humanists.uk/alan-turing/"
+name_in_native_language: "Alan Mathison Turing"
+birth_name: "Alan Mathison Turing"
+date_of_burial_or_cremation: "1954-06-12T00:00:00Z"
+date_of_death: "1954-06-07T00:00:00Z"
+Commons_category: "Alan Turing"
+Commons_gallery: "Alan Turing"
+date_of_birth: "1912-06-23T00:00:00Z"
+Google_Doodle: alan-turings-100th-birthday
+BHCL_UUID: d9bb7adf-e873-4dfa-a5e7-fea3a6deb04b
+Krugosvet_article: gumanitarnye_nauki/lingvistika/TYURING_ALAN_MATISON.html
+Regensburg_Classification: "SF 8465"
 Libris-URI: vs68cswd1fdccq5
 father: "[[_Standards/WikiData/WD~Julius Mathison Turing,20895930]]"
 mother: "[[_Standards/WikiData/WD~Ethel Sara Stoney,20895935]]"
-unmarried partner: "[[_Standards/WikiData/WD~Christopher Morcom,21693479]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Did Alan Turing have Asperger's syndrome_,27638634]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-owner of: "[[_Standards/WikiData/WD~Alan Turing teddy bear,47451142]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]"
-family name: "[[_Standards/WikiData/WD~Turing,104650420]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Alan Turing,120912950]]"
-ISNI: "0000000110589902"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20%281951%29%20%28crop%29.jpg
-sport: "[[_Standards/WikiData/WD~athletics,542]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~English,1860]]"
-native language: "[[_Standards/WikiData/WD~English,1860]]"
-sexual orientation: "[[_Standards/WikiData/WD~homosexuality,6636]]"
-religion or worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-manner of death: "[[_Standards/WikiData/WD~suicide,10737]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-country of citizenship: "[[_Standards/WikiData/WD~United Kingdom,145]]"
-Erdős number: 5
+unmarried_partner: "[[_Standards/WikiData/WD~Christopher Morcom,21693479]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Did Alan Turing have Asperger's syndrome_,27638634]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+owner_of: "[[_Standards/WikiData/WD~Alan Turing teddy bear,47451142]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
+family_name: '[[_Standards/WikiData/WD~Turing,104650420]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Alan Turing,120912950]]"
+ISNI: 0000000110589902
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20%281951%29%20%28crop%29.jpg"
+sport: '[[_Standards/WikiData/WD~athletics,542]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+Erdős_number: 5
 ---
+
 ﻿
 #has_/time_/started :: 1912-06-23  
 #has_/time_/stopped :: 1954-06-07 

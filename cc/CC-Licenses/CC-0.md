@@ -1,42 +1,29 @@
 ﻿---
-# Hugo Tags
 title: CC-0
-
 linkTitle: 
 keywords: 
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-type: #Tags falls back to the Directory in Hugo
-
-# Thing-Facts
-has_/time_/created:
-has_/time_/destroyed:
-has_/location_/created:
-has_/location_/destroyed:
-has_/creator: "[[]]"
-has_/destroyer: "[[]]"
-
-# Manage this File
+type: 
+has_time_created: 
+has_time_destroyed: 
+has_location_created: 
+has_location_destroyed: 
+has_creator: '[[]]'
+has_destroyer: '[[]]'
 isDeleted: false
 isReadOnly: false
 confidential: private
-
-# any other Data:
 Key: Value
-Predicate: #Object
-Predicate: "[[Object]]"
-
-#Obsidian well-known Keys
-cssclasses:
+Predicate: '[[Object]]'
+cssclasses: 
 publish: false
-
 aliases:
-  - 
-
+- 
 tags:
- - rather use #Tags (see below); remove the # if used here!
+- "rather use"
 lang: en
 ---
 

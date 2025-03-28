@@ -1,26 +1,25 @@
----
+﻿---
 has_id_wikidata: Q12277
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-subclass of: "[[_Standards/WikiData/WD~architectural element,391414]]"
-different from: "[[_Standards/WikiData/WD~Łuk,22340714]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~archway,40097962]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+subclass_of: "[[_Standards/WikiData/WD~architectural element,391414]]"
+different_from: '[[_Standards/WikiData/WD~Łuk,22340714]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~archway,40097962]]'
 shape: "[[_Standards/WikiData/WD~arch shape,124343772]]"
-Nomenclature for Museum Cataloging: "936"
-Commons category: Arches
-Commons gallery: Arch
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Arch%20%28PSF%29.png
-Krugosvet article:
-  - arkhitektura/arochnye-konstruktsii
-  - kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ARKA.html
+Nomenclature_for_Museum_Cataloging: 936
+Commons_category: Arches
+Commons_gallery: Arch
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arch%20%28PSF%29.png"
+Krugosvet_article:
+- arkhitektura/arochnye-konstruktsii
+- kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ARKA.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

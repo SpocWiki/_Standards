@@ -1,18 +1,18 @@
----
+﻿---
 location:
-  - 17.25
-  - -88.7667
+- 17.25
+- -88.7667
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26859
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Belize
 linkTitle: 
@@ -22,261 +22,261 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Belize
-  - Belice
-  - بليز
-  - 伯利兹
-  - Белиз
+- Belize
+- Belice
+- بليز
+- 伯利兹
+- Белиз
 Languages:
-  - en-BZ
-  - es
+- en-BZ
+- es
 icon: flag-bz
 has_id_wikidata: Q242
-member of:
-  - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
-  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Community of Latin American and Caribbean States,1045401]]"
-  - "[[_Standards/WikiData/WD~Association of Caribbean States,1147937]]"
-  - "[[_Standards/WikiData/WD~International Regional Organization for Agricultural Health,3356166]]"
-  - "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-  - "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-  - "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
-  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+member_of:
+- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
+- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Community of Latin American and Caribbean States,1045401]]"
+- "[[_Standards/WikiData/WD~Association of Caribbean States,1147937]]"
+- "[[_Standards/WikiData/WD~International Regional Organization for Agricultural Health,3356166]]"
+- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
+- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
 flag: "[[_Standards/WikiData/WD~flag of Belize,169192]]"
-coat of arms: "[[_Standards/WikiData/WD~Coat of arms of Belize,203016]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Belize,203016]]"
 anthem: "[[_Standards/WikiData/WD~Land of the Free,336345]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Stann Creek District,502652]]"
-  - "[[_Standards/WikiData/WD~Orange Walk District,506036]]"
-  - "[[_Standards/WikiData/WD~Toledo District,506049]]"
-  - "[[_Standards/WikiData/WD~Belize District,506056]]"
-  - "[[_Standards/WikiData/WD~Cayo District,508773]]"
-  - "[[_Standards/WikiData/WD~Corozal District,512273]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~911,533806]]"
-  - "[[_Standards/WikiData/WD~90,25743491]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-central bank: "[[_Standards/WikiData/WD~Central Bank of Belize,643949]]"
-part of:
-  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
-  - "[[_Standards/WikiData/WD~Continental Central America,18479603]]"
-  - "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-  - "[[_Standards/WikiData/WD~Central America,27611]]"
-named after: "[[_Standards/WikiData/WD~Belize River,815650]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Belize,862638]]"
-language used:
-  - "[[_Standards/WikiData/WD~Belizean Creole,1363055]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Yucatec Maya,13354]]"
-  - "[[_Standards/WikiData/WD~Garifuna,35490]]"
-  - "[[_Standards/WikiData/WD~Q’eqchi’,35536]]"
-  - "[[_Standards/WikiData/WD~Mopan Maya,36183]]"
-history of topic: "[[_Standards/WikiData/WD~history of Belize,1515463]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-  - "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Stann Creek District,502652]]"
+- "[[_Standards/WikiData/WD~Orange Walk District,506036]]"
+- "[[_Standards/WikiData/WD~Toledo District,506049]]"
+- "[[_Standards/WikiData/WD~Belize District,506056]]"
+- "[[_Standards/WikiData/WD~Cayo District,508773]]"
+- "[[_Standards/WikiData/WD~Corozal District,512273]]"
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~911,533806]]'
+- '[[_Standards/WikiData/WD~90,25743491]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
+central_bank: "[[_Standards/WikiData/WD~Central Bank of Belize,643949]]"
+part_of:
+- '[[_Standards/WikiData/WD~Caribbean,664609]]'
+- "[[_Standards/WikiData/WD~Continental Central America,18479603]]"
+- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~Central America,27611]]"
+named_after: "[[_Standards/WikiData/WD~Belize River,815650]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Belize,862638]]"
+language_used:
+- "[[_Standards/WikiData/WD~Belizean Creole,1363055]]"
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- "[[_Standards/WikiData/WD~Yucatec Maya,13354]]"
+- '[[_Standards/WikiData/WD~Garifuna,35490]]'
+- '[[_Standards/WikiData/WD~Q’eqchi’,35536]]'
+- "[[_Standards/WikiData/WD~Mopan Maya,36183]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Belize,1515463]]"
+electrical_plug_type:
+- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
 follows: "[[_Standards/WikiData/WD~British Honduras,1643555]]"
-different from: "[[_Standards/WikiData/WD~Belize,1792037]]"
-legislative body: "[[_Standards/WikiData/WD~National Assembly,1965042]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Belize,2359807]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Belize,2459935]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Belize,3044378]]"
-has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-basic form of government:
-  - "[[_Standards/WikiData/WD~parliamentary monarchy,3330103]]"
-  - "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-instance of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+different_from: '[[_Standards/WikiData/WD~Belize,1792037]]'
+legislative_body: "[[_Standards/WikiData/WD~National Assembly,1965042]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Belize,2359807]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Belize,2459935]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Belize,3044378]]"
+has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+basic_form_of_government:
+- "[[_Standards/WikiData/WD~parliamentary monarchy,3330103]]"
+- "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+instance_of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
 culture: "[[_Standards/WikiData/WD~culture of Belize,5193533]]"
-head of government: "[[_Standards/WikiData/WD~Johnny Briceño,6266369]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Belize,7112201]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Belize,14614550]]"
-executive body: "[[_Standards/WikiData/WD~Government of Belize,21129557]]"
-permanent duplicated item:
-  - "[[_Standards/WikiData/WD~Q27103722,27103722]]"
-  - "[[_Standards/WikiData/WD~Q111305300,111305300]]"
-office held by head of state: "[[_Standards/WikiData/WD~monarch of Belize,34517433]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~America_Belize,63286058]]"
-  - "[[_Standards/WikiData/WD~UTC−06_00,5385]]"
-UMLS CUI: C0004952
-coordinates of northernmost point: Point(-88.4027 18.4959)
+head_of_government: "[[_Standards/WikiData/WD~Johnny Briceño,6266369]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Belize,7112201]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Belize,14614550]]'
+executive_body: "[[_Standards/WikiData/WD~Government of Belize,21129557]]"
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q27103722,27103722]]'
+- '[[_Standards/WikiData/WD~Q111305300,111305300]]'
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of Belize,34517433]]"
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~America_Belize,63286058]]'
+- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+UMLS_CUI: C0004952
+coordinates_of_northernmost_point: "Point(-88.4027 18.4959)"
 demonym:
-  - بيليزي
-  - بيليزية
-  - بيليزيين
-  - بيليزيات
-  - Beilíseach
-  - بليزي
-  - بليزية
-  - بليزيون
-  - belizianu
-  - বেলজীয়
-  - Belizean
-  - Belizano
-  - beliceño
-  - Bélizien
-  - Bélizienne
-  - בליזי
-  - בליזית
-  - belize-i
-  - Belizeano
-  - beliziana
-  - beliziane
-  - beliziani
-  - beliziano
-  - belizan
-  - белизы
-  - bełisian
-  - bełisiana
-  - bełisiane
-  - bełisiani
-  - Belisänan
-ISNI: "0000000122862013"
-MeSH tree code: Z01.107.169.133
-coordinates of easternmost point: Point(-87.4919 17.4447)
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~Guatemala,774]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Guatemala,774]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-lowest point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
-official language: "[[_Standards/WikiData/WD~English,1860]]"
-capital: "[[_Standards/WikiData/WD~Belmopan,3043]]"
+- بيليزي
+- بيليزية
+- بيليزيين
+- بيليزيات
+- Beilíseach
+- بليزي
+- بليزية
+- بليزيون
+- belizianu
+- বেলজীয়
+- Belizean
+- Belizano
+- beliceño
+- Bélizien
+- Bélizienne
+- בליזי
+- בליזית
+- belize-i
+- Belizeano
+- beliziana
+- beliziane
+- beliziani
+- beliziano
+- belizan
+- белизы
+- bełisian
+- bełisiana
+- bełisiane
+- bełisiani
+- Belisänan
+ISNI: 0000000122862013
+MeSH_tree_code: Z01.107.169.133
+coordinates_of_easternmost_point: "Point(-87.4919 17.4447)"
+diplomatic_relation:
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- '[[_Standards/WikiData/WD~Guatemala,774]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Guatemala,774]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+lowest_point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+capital: '[[_Standards/WikiData/WD~Belmopan,3043]]'
 continent: "[[_Standards/WikiData/WD~North America,49]]"
-country: "[[_Standards/WikiData/WD~Belize,242]]"
-unemployment rate: 12
-marriageable age: 18
-mains voltage:
-  - 220
-  - 550
-suicide rate:
-  - 4.7
-  - 4.8
-  - 4.9
-  - 5.5
-life expectancy: 71
-VAT rate: 12.5
-top-level Internet domain: "[[_Standards/WikiData/WD~.bz,39903]]"
-head of state: "[[_Standards/WikiData/WD~Charles III,43274]]"
-highest point: "[[_Standards/WikiData/WD~Doyle's Delight,47490]]"
-Gini coefficient: 53.3
-Inequality-adjusted Human Development Index: 0.535
-Human Development Index: 0.683
-literacy rate: 82.8
-FIPS 10-4 (countries and regions): BH
-licence plate code: BH
-female population:
-  - 198800
-  - 193151
-  - 196111
-  - 201525
-total fertility rate: 2.579
-maritime identification digits: "312"
-death rate: 6.253
-number of out-of-school children: 9724
-ISO 3166-1 numeric code: "084"
-M49 code: "084"
-mobile country code: "702"
-birth rate: 17.763
-urban population:
-  - 188030
-  - 178462
-  - 181762
-  - 184818
-male population:
-  - 198810
-  - 195944
-  - 201231
-  - 203747
+country: '[[_Standards/WikiData/WD~Belize,242]]'
+unemployment_rate: 12
+marriageable_age: 18
+mains_voltage:
+- 220
+- 550
+suicide_rate:
+- 4.7
+- 4.8
+- 4.9
+- 5.5
+life_expectancy: 71
+VAT_rate: 12.5
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.bz,39903]]'
+head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+highest_point: "[[_Standards/WikiData/WD~Doyle's Delight,47490]]"
+Gini_coefficient: 53.3
+Inequality-adjusted_Human_Development_Index: 0.535
+Human_Development_Index: 0.683
+literacy_rate: 82.8
+FIPS_10-4_countries_and_regions_: BH
+licence_plate_code: BH
+female_population:
+- 198800
+- 193151
+- 196111
+- 201525
+total_fertility_rate: 2.579
+maritime_identification_digits: 312
+death_rate: 6.253
+number_of_out-of-school_children: 9724
+ISO_3166-1_numeric_code: 084
+M49_code: 084
+mobile_country_code: 702
+birth_rate: 17.763
+urban_population:
+- 188030
+- 178462
+- 181762
+- 184818
+male_population:
+- 198810
+- 195944
+- 201231
+- 203747
 area: 22966
-IAB code: "1250"
-INSEE countries and foreign territories code: "99429"
-ISO 3166-1 alpha-2 code: BZ
-WIPO ST.3: BZ
-rural population:
-  - 210633
-  - 213159
-  - 215213
-  - 217242
-OmegaWiki Defined Meaning: "8002"
+IAB_code: 1250
+INSEE_countries_and_foreign_territories_code: 99429
+ISO_3166-1_alpha-2_code: BZ
+WIPO_ST_3: BZ
+rural_population:
+- 210633
+- 213159
+- 215213
+- 217242
+OmegaWiki_Defined_Meaning: 8002
 population: 411106
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belize.svg
-PM20 geo code: E67
-ISO 3166-1 alpha-3 code: BLZ
-ITU letter code: BLZ
-IOC country code: BIZ
-coordinates of westernmost point: Point(-89.22758013 15.89616246)
-inception: 1981-09-21T00:00:00Z 
-has_time_started: 1981-09-21T00:00:00Z 
-geoshape: http://commons.wikimedia.org/data/main/Data:Belize.map
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Belize%20banner%20Caye%20with%20beach%20huts%20and%20palm%20trees.jpg
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Belize%20in%20its%20region.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/BLZ%20orthographic.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationBelize.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Belize%20Topography.png
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Belize.svg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Belize.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AC%E0%AD%87%E0%AC%B2%E0%AC%BF%E0%AC%9C.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Belize.wav
-official website: http://www.belize.gov.bz/
-country calling code: "+501"
-U.S. National Archives Identifier: "10044662"
-Dewey Decimal Classification: 2--7282
-CIVICUS Monitor country entry: belize
-GitHub topic: belize
-Commons gallery: Belize
-Commons category: Belize
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belize.svg"
+PM20_geo_code: E67
+ISO_3166-1_alpha-3_code: BLZ
+ITU_letter_code: BLZ
+IOC_country_code: BIZ
+coordinates_of_westernmost_point: "Point(-89.22758013 15.89616246)"
+inception: "1981-09-21T00:00:00Z"
+has_time_started: "1981-09-21T00:00:00Z"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Belize.map"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Belize%20banner%20Caye%20with%20beach%20huts%20and%20palm%20trees.jpg"
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Belize%20in%20its%20region.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/BLZ%20orthographic.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LocationBelize.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Belize%20Topography.png"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Belize.svg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Belize.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AC%E0%AD%87%E0%AC%B2%E0%AC%BF%E0%AC%9C.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Belize.wav"
+official_website: "http://www.belize.gov.bz/"
+country_calling_code: +501
+U_S_National_Archives_Identifier: 10044662
+Dewey_Decimal_Classification: 2--7282
+CIVICUS_Monitor_country_entry: belize
+GitHub_topic: belize
+Commons_gallery: Belize
+Commons_category: Belize
 subreddit: Belize
 hashtag: Belize
-IPA transcription: bɛˈliːs
-Unicode character: 🇧🇿
-Krugosvet article: strany_mira/BELIZ.html
-official name:
-  - Belize
-  - le Bélize
-  - Belize
-native label: Belize
-motto text: Under the shade I flourish
-short name: 🇧🇿
-coordinates of southernmost point: Point(-89.22234714 15.88594166)
-nominal GDP: 2824081836
-coordinate location: Point(-88.7 17.066666666)
+IPA_transcription: bɛˈliːs
+Unicode_character: "\U0001F1E7\U0001F1FF"
+Krugosvet_article: strany_mira/BELIZ.html
+official_name:
+- Belize
+- "le Bélize"
+- Belize
+native_label: Belize
+motto_text: "Under the shade I flourish"
+short_name: "\U0001F1E7\U0001F1FF"
+coordinates_of_southernmost_point: "Point(-89.22234714 15.88594166)"
+nominal_GDP: 2824081836
+coordinate_location: "Point(-88.7 17.066666666)"
 ---
 
 # [[Belize]] 

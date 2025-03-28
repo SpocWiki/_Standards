@@ -1,111 +1,110 @@
----
+﻿---
 has_id_wikidata: Q9135
-has part(s):
-  - "[[_Standards/WikiData/WD~file system,174989]]"
-  - "[[_Standards/WikiData/WD~access control,228502]]"
-  - "[[_Standards/WikiData/WD~scheduling,1123036]]"
-  - "[[_Standards/WikiData/WD~memory manager,3761391]]"
-  - "[[_Standards/WikiData/WD~kernel,9662]]"
-part of: "[[_Standards/WikiData/WD~computing platform,241317]]"
-subclass of: "[[_Standards/WikiData/WD~system software,676202]]"
-has list: "[[_Standards/WikiData/WD~list of operating systems,756435]]"
-history of topic: "[[_Standards/WikiData/WD~history of operating systems,1143393]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox OS,5856866]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox OS version,6326708]]"
-  - "[[_Standards/WikiData/WD~Template_Operating system,7731997]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Software,15659621]]"
-instance of: "[[_Standards/WikiData/WD~software category,17155032]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~operating system component,30059018]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q96464904,96464904]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Operating systems,108630976]]"
-EntitySchema for this class:
-  - E102
-  - E179
-short name:
-  - ОС
-  - OS
-  - SO
-  - SO
-  - OS
-  - SO
-  - SE
-  - АС
-  - ΛΣ
-  - SO
-  - ՕՀ
-  - SO
-  - オーエス
-  - ОС
-  - ОС
-  - OS
-  - OS
-  - ОС
-  - ОС
-properties for this type:
-  - programmed in
-  - platform
-  - inception
-  - publication date
-  - SteamGridDB ID
-  - based on
-  - developer
-Wikidata property: operating system
-follows: "[[_Standards/WikiData/WD~kernel,9662]]"
-studied in: "[[_Standards/WikiData/WD~computer science,21198]]"
-IAB code: "615"
-OmegaWiki Defined Meaning: "487336"
+has_part_s_:
+- "[[_Standards/WikiData/WD~file system,174989]]"
+- "[[_Standards/WikiData/WD~access control,228502]]"
+- '[[_Standards/WikiData/WD~scheduling,1123036]]'
+- "[[_Standards/WikiData/WD~memory manager,3761391]]"
+- '[[_Standards/WikiData/WD~kernel,9662]]'
+part_of: "[[_Standards/WikiData/WD~computing platform,241317]]"
+subclass_of: "[[_Standards/WikiData/WD~system software,676202]]"
+has_list: "[[_Standards/WikiData/WD~list of operating systems,756435]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of operating systems,1143393]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox OS,5856866]]"
+- "[[_Standards/WikiData/WD~Template_Infobox OS version,6326708]]"
+- "[[_Standards/WikiData/WD~Template_Operating system,7731997]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Software,15659621]]"
+instance_of: "[[_Standards/WikiData/WD~software category,17155032]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~operating system component,30059018]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q96464904,96464904]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Operating systems,108630976]]"
+EntitySchema_for_this_class:
+- E102
+- E179
+short_name:
+- ОС
+- OS
+- SO
+- SO
+- OS
+- SO
+- SE
+- АС
+- ΛΣ
+- SO
+- ՕՀ
+- SO
+- オーエス
+- ОС
+- ОС
+- OS
+- OS
+- ОС
+- ОС
+properties_for_this_type:
+- "programmed in"
+- platform
+- inception
+- "publication date"
+- "SteamGridDB ID"
+- "based on"
+- developer
+Wikidata_property: "operating system"
+follows: '[[_Standards/WikiData/WD~kernel,9662]]'
+studied_in: "[[_Standards/WikiData/WD~computer science,21198]]"
+IAB_code: 615
+OmegaWiki_Defined_Meaning: 487336
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-af.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-ar.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-as.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-be-tarask.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-bn.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-cs.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-de.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-el.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-eo.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-es.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-eu.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-fa.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-fr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-he.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-hr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-hu.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-id.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-it.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-ja.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-ka.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-kaa.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-lv.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-mg.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-mk.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-pl.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-pt.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-ru.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-sk.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-sl.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-sr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-sv.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-tr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-uk.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-uz.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-vec.jpeg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-zh-cn.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-zh-hk.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-zh-tw.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement%20bg.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement%20kor.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Role%20of%20the%20operating%20system%20sinhala.png
-Stack Exchange tag: https://stackoverflow.com/tags/operating-system
-IEV number: 171-05-01
-Wolfram Language entity code: Entity["Concept", "OperatingSystem::8bhpb"]
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/OPERATSIONNAYA_SISTEMA.html
-Commons category: Operating systems
-GitHub topic: operating-system
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-af.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-ar.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-as.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-be-tarask.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-bn.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-cs.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-de.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-el.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-eo.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-es.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-eu.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-fa.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-fr.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-he.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-hr.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-hu.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-id.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-it.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-ja.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-ka.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-kaa.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-lv.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-mg.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-mk.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-pl.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-pt.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-ru.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-sk.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-sl.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-sr.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-sv.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-tr.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-uk.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-uz.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-vec.jpeg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-zh-cn.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-zh-hk.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-zh-tw.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement%20bg.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement%20kor.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Role%20of%20the%20operating%20system%20sinhala.png"
+Stack_Exchange_tag: "https://stackoverflow.com/tags/operating-system"
+IEV_number: 171-05-01
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"OperatingSystem::8bhpb\"]"
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/OPERATSIONNAYA_SISTEMA.html
+Commons_category: "Operating systems"
+GitHub_topic: operating-system
 ---
-
 
 ## #has_/text_of_/abstract 
 

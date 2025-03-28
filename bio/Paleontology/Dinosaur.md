@@ -1,54 +1,53 @@
----
+﻿---
 has_id_wikidata: Q430
-Unicode character: 🦕
+Unicode_character: "\U0001F995"
 hashtag:
-  - dinosaur
-  - dinosaurs
+- dinosaur
+- dinosaurs
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Brontosaurus%20parvus.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20NT.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaur%20Rex%20and%20Triceratops.jpg
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Brontosaurus%20parvus.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20NT.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaur%20Rex%20and%20Triceratops.jpg"
 subreddit: Dinosaurs
-Commons category: Dinosauria
-taxon name: Dinosauria
-Commons gallery: Dinosauria
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-instance of:
-  - "[[_Standards/WikiData/WD~clade,713623]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-has list: "[[_Standards/WikiData/WD~list of dinosaurs,718452]]"
-taxon rank: "[[_Standards/WikiData/WD~superorder,5868144]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of dinosaurs,7112607]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Dinosaurs,8772060]]"
-studied in: "[[_Standards/WikiData/WD~dinosaur paleontology,9054789]]"
-topic's main template: "[[_Standards/WikiData/WD~Q50380956,50380956]]"
-parent taxon: "[[_Standards/WikiData/WD~Dracohors,52798775]]"
-different from:
-  - "[[_Standards/WikiData/WD~non-avian dinosaur,82363570]]"
-  - "[[_Standards/WikiData/WD~Dinosaurus,109923829]]"
-this taxon is source of: "[[_Standards/WikiData/WD~dinosaur footprint,106165679]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Dinosaur.ogg
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Dinosauria%20diversity.png
-WordLift URL: http://data.thenextweb.com/tnw/entity/dinosaur
-MeSH tree code: B01.050.150.900.833.150
-Wolfram Language entity code: Entity["Dinosaur", "Superorder:Dinosauria"]
-Krugosvet article: nauka_i_tehnika/biologiya/DINOZAVRI.html
-taxon common name:
-  - ਡਾਇਨਾਸੌਰ
-  - ڈائناسور
-  - ڈائناسر
-  - ڈائنوسار
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Helias%20C.%20%28BiblioCanet66%29-dinosaure.wav
-Provenio UUID: 5d3d232b-127d-4984-a09d-65ccef85d2c3
-UMLS CUI: C0949681
-OmegaWiki Defined Meaning: "636195"
-Wolfram Language entity type: Dinosaur
+Commons_category: Dinosauria
+taxon_name: Dinosauria
+Commons_gallery: Dinosauria
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+instance_of:
+- '[[_Standards/WikiData/WD~clade,713623]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+has_list: "[[_Standards/WikiData/WD~list of dinosaurs,718452]]"
+taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of dinosaurs,7112607]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dinosaurs,8772060]]'
+studied_in: "[[_Standards/WikiData/WD~dinosaur paleontology,9054789]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q50380956,50380956]]'
+parent_taxon: '[[_Standards/WikiData/WD~Dracohors,52798775]]'
+different_from:
+- "[[_Standards/WikiData/WD~non-avian dinosaur,82363570]]"
+- '[[_Standards/WikiData/WD~Dinosaurus,109923829]]'
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~dinosaur footprint,106165679]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Dinosaur.ogg"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dinosauria%20diversity.png"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/dinosaur"
+MeSH_tree_code: B01.050.150.900.833.150
+Wolfram_Language_entity_code: "Entity[\"Dinosaur\", \"Superorder:Dinosauria\"]"
+Krugosvet_article: nauka_i_tehnika/biologiya/DINOZAVRI.html
+taxon_common_name:
+- ਡਾਇਨਾਸੌਰ
+- ڈائناسور
+- ڈائناسر
+- ڈائنوسار
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Helias%20C.%20%28BiblioCanet66%29-dinosaure.wav"
+Provenio_UUID: 5d3d232b-127d-4984-a09d-65ccef85d2c3
+UMLS_CUI: C0949681
+OmegaWiki_Defined_Meaning: 636195
+Wolfram_Language_entity_type: Dinosaur
 ---
-
 
 ## #has_/text_of_/abstract 
 

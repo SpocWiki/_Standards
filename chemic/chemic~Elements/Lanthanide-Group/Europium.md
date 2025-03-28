@@ -1,50 +1,50 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21959
 has_id_wikidata: Q1396
-part of:
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Eugène-Anatole Demarçay,725850]]"
-has use: "[[_Standards/WikiData/WD~dopant,15119237]]"
-time of discovery or invention: 1901-01-01T00:00:00Z
-subject has role: "[[_Standards/WikiData/WD~luminescent agents,50430320]]"
-UMLS CUI: C0015180
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-named after: "[[_Standards/WikiData/WD~Europe,46]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Anatole Demarçay,725850]]"
+has_use: '[[_Standards/WikiData/WD~dopant,15119237]]'
+time_of_discovery_or_invention: "1901-01-01T00:00:00Z"
+subject_has_role: "[[_Standards/WikiData/WD~luminescent agents,50430320]]"
+UMLS_CUI: C0015180
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+named_after: '[[_Standards/WikiData/WD~Europe,46]]'
 electronegativity: 1.2
-atomic number: 63
-ionic radius:
-  - 0.95
-  - 1.07
-  - 1.17
-  - 1.25
-  - 1.35
-PubChem CID: "23981"
+atomic_number: 63
+ionic_radius:
+- 0.95
+- 1.07
+- 1.17
+- 1.25
+- 1.35
+PubChem_CID: 23981
 mass: 151.964
-OmegaWiki Defined Meaning: "158490"
-Gmelin number: "16279"
-ZVG number: "7630"
-chemical formula: Eu
-element symbol: Eu
-Unicode character: 銪
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Eu-Block.jpg
-canonical SMILES: "[Eu]"
-EC number: 231-161-7
+OmegaWiki_Defined_Meaning: 158490
+Gmelin_number: 16279
+ZVG_number: 7630
+chemical_formula: Eu
+element_symbol: Eu
+Unicode_character: 銪
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Eu-Block.jpg"
+canonical_SMILES: '[Eu]'
+EC_number: 231-161-7
 UNII: 444W947O8O
-CAS Registry Number: 7440-53-1
-MeSH tree code:
-  - D01.268.558.362.468
-  - D01.552.550.399.468
-DSSTOX compound identifier: DTXCID0047660
-Commons gallery: Europium
-Commons category: Europium
+CAS_Registry_Number: 7440-53-1
+MeSH_tree_code:
+- D01.268.558.362.468
+- D01.552.550.399.468
+DSSTOX_compound_identifier: DTXCID0047660
+Commons_gallery: Europium
+Commons_category: Europium
 InChI: InChI=1S/Eu
 InChIKey: OGPBJKLSAFTDLK-UHFFFAOYSA-N
 ---

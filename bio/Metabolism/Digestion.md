@@ -1,29 +1,28 @@
----
+﻿---
 has_id_wikidata: Q11978
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-instance of: "[[_Standards/WikiData/WD~biological process,2996394]]"
-has part(s): "[[_Standards/WikiData/WD~part of the digestion process,22290756]]"
-subclass of: "[[_Standards/WikiData/WD~multicellular organismal process,22299433]]"
-studied in: "[[_Standards/WikiData/WD~digestive physiology,130261998]]"
-Library of Congress Classification: QP145-QP159
-class of object(s) of occurrence: "[[_Standards/WikiData/WD~food,2095]]"
-different from: "[[_Standards/WikiData/WD~human digestive system,9649]]"
-OmegaWiki Defined Meaning: "924"
-Commons category: Digestion
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200316%20DigestiveSystem.png
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A4%9A%E0%A4%A8%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE.wav
-exact match: http://purl.obolibrary.org/obo/GO_0007586
-Iconclass notation: 31A622
-MeSH tree code:
-  - G07.203.650.250
-  - G10.261.190
-Krugosvet article: nauka_i_tehnika/biologiya/PISHCHEVARENIE.html
-native label: systema digestorium
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~biological process,2996394]]"
+has_part_s_: "[[_Standards/WikiData/WD~part of the digestion process,22290756]]"
+subclass_of: "[[_Standards/WikiData/WD~multicellular organismal process,22299433]]"
+studied_in: "[[_Standards/WikiData/WD~digestive physiology,130261998]]"
+Library_of_Congress_Classification: QP145-QP159
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~food,2095]]'
+different_from: "[[_Standards/WikiData/WD~human digestive system,9649]]"
+OmegaWiki_Defined_Meaning: 924
+Commons_category: Digestion
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200316%20DigestiveSystem.png"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A4%9A%E0%A4%A8%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE.wav"
+exact_match: "http://purl.obolibrary.org/obo/GO_0007586"
+Iconclass_notation: 31A622
+MeSH_tree_code:
+- G07.203.650.250
+- G10.261.190
+Krugosvet_article: nauka_i_tehnika/biologiya/PISHCHEVARENIE.html
+native_label: "systema digestorium"
 ---
-
 
 ## #has_/text_of_/abstract 
 

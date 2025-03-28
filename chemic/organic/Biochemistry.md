@@ -1,50 +1,49 @@
----
+﻿---
 has_id_wikidata: Q7094
 subreddit: Biochemistry
-Commons category: Biochemistry
-U.S. National Archives Identifier: "10638831"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-different from: "[[_Standards/WikiData/WD~chemical biology,731154]]"
-is the study of: "[[_Standards/WikiData/WD~bioelement,864276]]"
-history of topic: "[[_Standards/WikiData/WD~history of biochemistry,866782]]"
-instance of:
-  - "[[_Standards/WikiData/WD~interdisciplinary science,1665984]]"
-  - "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch of biology,28598684]]"
-practiced by: "[[_Standards/WikiData/WD~biochemist,2919046]]"
-maintained by WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject Biology,6723002]]"
-  - "[[_Standards/WikiData/WD~WikiProject Chemistry,8487234]]"
-  - "[[_Standards/WikiData/WD~WikiProject Pharmacology,9958716]]"
-  - "[[_Standards/WikiData/WD~WikiProject Molecular Biology,88425552]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of biochemistry,7112566]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20triglyceride%20shorthand%20formula.PNG
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8.wav
-Stack Exchange tag:
-  - https://biology.stackexchange.com/tags/biochemistry
-  - https://chemistry.stackexchange.com/tags/biochemistry
-Basisklassifikation: "44.33"
-Krugosvet article: nauka_i_tehnika/himiya/BIOHIMIYA.html
-OpenStreetMap tag or key: Tag:healthcare:speciality=biochemistry
-UMLS CUI: C0005477
-Library of Congress Classification: QD415-QD436
-MeSH tree code:
-  - H01.158.201
-  - H01.181.122
-part of:
-  - "[[_Standards/WikiData/WD~biology,420]]"
-  - "[[_Standards/WikiData/WD~chemistry,2329]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~biology,420]]"
-  - "[[_Standards/WikiData/WD~organic chemistry,11351]]"
-OmegaWiki Defined Meaning: "351"
-All-Science Journal Classification Codes: "1303"
+Commons_category: Biochemistry
+U_S_National_Archives_Identifier: 10638831
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+different_from: "[[_Standards/WikiData/WD~chemical biology,731154]]"
+is_the_study_of: '[[_Standards/WikiData/WD~bioelement,864276]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of biochemistry,866782]]"
+instance_of:
+- "[[_Standards/WikiData/WD~interdisciplinary science,1665984]]"
+- "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~branch of biology,28598684]]"
+practiced_by: '[[_Standards/WikiData/WD~biochemist,2919046]]'
+maintained_by_WikiProject:
+- "[[_Standards/WikiData/WD~WikiProject Biology,6723002]]"
+- "[[_Standards/WikiData/WD~WikiProject Chemistry,8487234]]"
+- "[[_Standards/WikiData/WD~WikiProject Pharmacology,9958716]]"
+- "[[_Standards/WikiData/WD~WikiProject Molecular Biology,88425552]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of biochemistry,7112566]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20triglyceride%20shorthand%20formula.PNG"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8.wav"
+Stack_Exchange_tag:
+- "https://biology.stackexchange.com/tags/biochemistry"
+- "https://chemistry.stackexchange.com/tags/biochemistry"
+Basisklassifikation: 44.33
+Krugosvet_article: nauka_i_tehnika/himiya/BIOHIMIYA.html
+OpenStreetMap_tag_or_key: "Tag:healthcare:speciality=biochemistry"
+UMLS_CUI: C0005477
+Library_of_Congress_Classification: QD415-QD436
+MeSH_tree_code:
+- H01.158.201
+- H01.181.122
+part_of:
+- '[[_Standards/WikiData/WD~biology,420]]'
+- '[[_Standards/WikiData/WD~chemistry,2329]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~biology,420]]'
+- "[[_Standards/WikiData/WD~organic chemistry,11351]]"
+OmegaWiki_Defined_Meaning: 351
+All-Science_Journal_Classification_Codes: 1303
 ---
-
 
 ## #has_/text_of_/abstract 
 

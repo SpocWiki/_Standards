@@ -1,37 +1,36 @@
----
+﻿---
 has_id_wikidata: Q37756
-subclass of:
-  - "[[_Standards/WikiData/WD~mixture,169336]]"
-  - "[[_Standards/WikiData/WD~metallic material,1924900]]"
-  - "[[_Standards/WikiData/WD~solution,5447188]]"
-different from: "[[_Standards/WikiData/WD~intermetallic,428069]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-said to be the same as: "[[_Standards/WikiData/WD~alloy,13196698]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox alloy,22862883]]"
-  - "[[_Standards/WikiData/WD~Q25745539,25745539]]"
-instance of: "[[_Standards/WikiData/WD~numismatic term,87491079]]"
-UMLS CUI: C0002154
-Common Procurement Vocabulary code: 14620000-3
-OmegaWiki Defined Meaning: "143"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Born%20bronze%20-%20Bronze%20casts.jpg
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Legering-article.ogg
-U.S. National Archives Identifier: "10646992"
-All-Science Journal Classification Codes: "2506"
-Commons category: Alloys
-MeSH tree code:
-  - D01.552.033
-  - D25.058
-  - J01.637.051.058
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SPLAVI.html
+subclass_of:
+- '[[_Standards/WikiData/WD~mixture,169336]]'
+- "[[_Standards/WikiData/WD~metallic material,1924900]]"
+- '[[_Standards/WikiData/WD~solution,5447188]]'
+different_from: '[[_Standards/WikiData/WD~intermetallic,428069]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~alloy,13196698]]'
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox alloy,22862883]]"
+- '[[_Standards/WikiData/WD~Q25745539,25745539]]'
+instance_of: "[[_Standards/WikiData/WD~numismatic term,87491079]]"
+UMLS_CUI: C0002154
+Common_Procurement_Vocabulary_code: 14620000-3
+OmegaWiki_Defined_Meaning: 143
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Born%20bronze%20-%20Bronze%20casts.jpg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Legering-article.ogg"
+U_S_National_Archives_Identifier: 10646992
+All-Science_Journal_Classification_Codes: 2506
+Commons_category: Alloys
+MeSH_tree_code:
+- D01.552.033
+- D25.058
+- J01.637.051.058
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SPLAVI.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,48 +1,48 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21994
 has_id_wikidata: Q1892
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
-  - "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
-instance of:
-  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox einsteinium,8085692]]"
-maintained by WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject Elements,11165030]]"
-  - "[[_Standards/WikiData/WD~WikiProject California,15785976]]"
-  - "[[_Standards/WikiData/WD~WikiProject University of California,21831035]]"
-UMLS CUI: C0013741
-named after: "[[_Standards/WikiData/WD~Albert Einstein,937]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
+- "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+instance_of:
+- "[[_Standards/WikiData/WD~synthetic element,755992]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox einsteinium,8085692]]"
+maintained_by_WikiProject:
+- "[[_Standards/WikiData/WD~WikiProject Elements,11165030]]"
+- "[[_Standards/WikiData/WD~WikiProject California,15785976]]"
+- "[[_Standards/WikiData/WD~WikiProject University of California,21831035]]"
+UMLS_CUI: C0013741
+named_after: "[[_Standards/WikiData/WD~Albert Einstein,937]]"
 electronegativity: 1.3
-atomic number: 99
-PubChem CID: "23913"
-chemical formula: Es
-element symbol: Es
-OmegaWiki Defined Meaning: "157713"
-time of discovery or invention: 1952-01-01T00:00:00Z
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Einsteinium.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-einsteinium.wav
-canonical SMILES: "[Es]"
-CAS Registry Number: 7429-92-7
+atomic_number: 99
+PubChem_CID: 23913
+chemical_formula: Es
+element_symbol: Es
+OmegaWiki_Defined_Meaning: 157713
+time_of_discovery_or_invention: "1952-01-01T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Einsteinium.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-einsteinium.wav"
+canonical_SMILES: '[Es]'
+CAS_Registry_Number: 7429-92-7
 InChIKey: CKBRQZNRCSJHFT-UHFFFAOYSA-N
-MeSH tree code:
-  - D01.268.271.100.250
-  - D01.268.556.244
-  - D01.496.749.305.100.250
-  - D01.552.020.337
-  - D01.552.544.244
-DSSTOX compound identifier: DTXCID90147796
-Commons gallery: Einsteinium
-Commons category: Einsteinium
+MeSH_tree_code:
+- D01.268.271.100.250
+- D01.268.556.244
+- D01.496.749.305.100.250
+- D01.552.020.337
+- D01.552.544.244
+DSSTOX_compound_identifier: DTXCID90147796
+Commons_gallery: Einsteinium
+Commons_category: Einsteinium
 InChI: InChI=1S/Es
 UNII: WV8XL34X3O
-Unicode character: 鑀
+Unicode_character: 鑀
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Einsteinium,1892]] 

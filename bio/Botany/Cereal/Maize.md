@@ -1,196 +1,195 @@
----
+﻿---
 has_id_wikidata: Q11575
-has use:
-  - "[[_Standards/WikiData/WD~medicinal plant,188840]]"
-  - "[[_Standards/WikiData/WD~building material,206615]]"
-  - "[[_Standards/WikiData/WD~fodder,211439]]"
-  - "[[_Standards/WikiData/WD~paste,904216]]"
-  - "[[_Standards/WikiData/WD~vegetable,11004]]"
-  - "[[_Standards/WikiData/WD~cereal grain,12117]]"
-  - "[[_Standards/WikiData/WD~fiber,161]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~annual plant,192691]]"
-  - "[[_Standards/WikiData/WD~useful plant,11992872]]"
-IUCN conservation status: "[[_Standards/WikiData/WD~Least Concern,211005]]"
-instance of:
-  - "[[_Standards/WikiData/WD~model organism,213907]]"
-  - "[[_Standards/WikiData/WD~food crop,31839438]]"
-  - "[[_Standards/WikiData/WD~cereal grain,12117]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-has fruit type: "[[_Standards/WikiData/WD~caryopsis,506139]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Flora of the Lesser Antilles, Leeward and Windward Islands,10878728]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora Reipublicae Popularis Sinicae, volume 10(2),112869382]]"
-this taxon is source of:
-  - "[[_Standards/WikiData/WD~corn oil,856775]]"
-  - "[[_Standards/WikiData/WD~corncob,1885918]]"
-  - "[[_Standards/WikiData/WD~corn starch,3393961]]"
-  - "[[_Standards/WikiData/WD~corn kernel,3936020]]"
-  - "[[_Standards/WikiData/WD~corn stover,12208391]]"
-  - "[[_Standards/WikiData/WD~maize,25618328]]"
-  - "[[_Standards/WikiData/WD~corn husks,91518598]]"
-  - "[[_Standards/WikiData/WD~maize straw,111146316]]"
-award received: "[[_Standards/WikiData/WD~Vegetable of the year,1344055]]"
-has part(s): "[[_Standards/WikiData/WD~corncob,1885918]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q25634218,25634218]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Invasion Biology,56241615]]"
-hardiness of plant: "[[_Standards/WikiData/WD~2,99546131]]"
-parent taxon: "[[_Standards/WikiData/WD~Zea sect. Zea,114560957]]"
-UMLS CUI: C0010028
-Baidu Tieba name: 玉米
-taxon common name:
-  - boroña
-  - الذُرة الشاميَّة
-  - الذُرة الصفراء
-  - الذُرة المصريَّة
-  - الذُرة الإسبانيَّة
-  - عَيْش الريف
-  - حِنْطَة الجِرْذَان
-  - トウモロコシ
-  - Maize
-  - Maïs
-  - Кукуруза
-  - Mais
-  - Mais
-  - Mais
-  - Mais
-  - Mais
-  - Corn
-  - Jagung
-  - Jagung
-  - Formenton
-  - Kaba
-  - Indian Corn
-  - maize
-  - मक्का
-  - kukuřice
-  - ذرت
-  - Meis
-  - Kukurydza
-  - Mısır
-  - 玉蜀黍
-  - Maïs
-  - Granturco
-  - 玉米
-  - 玉米花
-  - 玉米轴
-  - 玉米须
-  - 玉蜀黍叶
-  - 玉蜀黍根
-  - 玉蜀黍苞片
-  - 糯玉米
-  - 包谷
-  - 玉米
-  - 玉蜀黍
-  - 珍珠米
-  - 苞芦
-  - 玉米油
-  - תירס
-  - jagung
-  - Panís
-  - Aburoo
-  - maíz
-  - Gugarutz
-  - Tyrk
-  - Царевица
-  - Blat de moro
-  - Dacsa
-  - India-corn
-  - Majs
-  - Kukuruz
-  - Bli
-  - Καλαμπόκι
-  - corn,
-  - Teosinte
-  - Maizo
-  - Coronta o Panocha
-  - Elote o Choclo
-  - Maiz
-  - Olote
-  - Maissi
-  - viljamaissi
-  - blé d’Inde
-  - Kukorica
-  - Maizo
-  - Maís
-  - zumri
-  - Parastā kukurūza
-  - ਮੱਕੀ
-  - abati
-  - auati
-  - avati
-  - Milho
-  - Kukurica siata
-  - koruza
-  - Кукуруз
-  - Majs
-  - சோளம்
-  - ข้าวโพด
-  - ظات حعشلعق قوناق
-  - Sorgo Turco
-  - Dinrêye
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%AE%E0%A9%B1%E0%A8%95%E0%A9%80.oga
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%A1%E1%B1%9A%E1%B1%B1%E1%B1%B0%E1%B1%A8%E1%B1%9F.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5137%20%28guj%29-Sushant%20savla-%E0%AA%AE%E0%AA%95%E0%AA%BE%E0%AA%88.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AD%E0%A7%81%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%BE.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%8B%E0%AE%B3%E0%AE%AE%E0%AF%8D.ogg
-short name: Z. mays
-MeSH tree code: B01.875.800.575.912.250.822.966
-taxon range:
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-taxon rank: "[[_Standards/WikiData/WD~species,7432]]"
-water footprint:
-  - 700
-  - 1222
-  - 1314
-carbon footprint: 0.7
-OmegaWiki Defined Meaning: "157264"
-ITIS TSN: "42269"
-taxon author citation: L.
-taxon name: Zea mays
-Commons gallery: Zea mays
-Commons category: Zea mays
-Biology Online Biology Dictionary entry: corn
-GRIN URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=42207
-Amazon.com browse node:
-  - "16319431"
-  - "6465013011"
-Unicode character: 🌽
-U.S. National Archives Identifier: "10638319"
-Dewey Decimal Classification:
-  - "633.15"
-  - "584.92"
-  - "633.255"
-  - "635.67"
-  - "641.3315"
-  - "664.724"
+has_use:
+- "[[_Standards/WikiData/WD~medicinal plant,188840]]"
+- "[[_Standards/WikiData/WD~building material,206615]]"
+- '[[_Standards/WikiData/WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~paste,904216]]'
+- '[[_Standards/WikiData/WD~vegetable,11004]]'
+- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+- '[[_Standards/WikiData/WD~fiber,161]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~annual plant,192691]]"
+- "[[_Standards/WikiData/WD~useful plant,11992872]]"
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Least Concern,211005]]"
+instance_of:
+- "[[_Standards/WikiData/WD~model organism,213907]]"
+- "[[_Standards/WikiData/WD~food crop,31839438]]"
+- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+has_fruit_type: '[[_Standards/WikiData/WD~caryopsis,506139]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Flora of the Lesser Antilles, Leeward and Windward Islands,10878728]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
+- "[[_Standards/WikiData/WD~Flora Reipublicae Popularis Sinicae, volume 10(2),112869382]]"
+this_taxon_is_source_of:
+- "[[_Standards/WikiData/WD~corn oil,856775]]"
+- '[[_Standards/WikiData/WD~corncob,1885918]]'
+- "[[_Standards/WikiData/WD~corn starch,3393961]]"
+- "[[_Standards/WikiData/WD~corn kernel,3936020]]"
+- "[[_Standards/WikiData/WD~corn stover,12208391]]"
+- '[[_Standards/WikiData/WD~maize,25618328]]'
+- "[[_Standards/WikiData/WD~corn husks,91518598]]"
+- "[[_Standards/WikiData/WD~maize straw,111146316]]"
+award_received: "[[_Standards/WikiData/WD~Vegetable of the year,1344055]]"
+has_part_s_: '[[_Standards/WikiData/WD~corncob,1885918]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25634218,25634218]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Invasion Biology,56241615]]"
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
+parent_taxon: "[[_Standards/WikiData/WD~Zea sect. Zea,114560957]]"
+UMLS_CUI: C0010028
+Baidu_Tieba_name: 玉米
+taxon_common_name:
+- boroña
+- "الذُرة الشاميَّة"
+- "الذُرة الصفراء"
+- "الذُرة المصريَّة"
+- "الذُرة الإسبانيَّة"
+- "عَيْش الريف"
+- "حِنْطَة الجِرْذَان"
+- トウモロコシ
+- Maize
+- Maïs
+- Кукуруза
+- Mais
+- Mais
+- Mais
+- Mais
+- Mais
+- Corn
+- Jagung
+- Jagung
+- Formenton
+- Kaba
+- "Indian Corn"
+- maize
+- मक्का
+- kukuřice
+- ذرت
+- Meis
+- Kukurydza
+- Mısır
+- 玉蜀黍
+- Maïs
+- Granturco
+- 玉米
+- 玉米花
+- 玉米轴
+- 玉米须
+- 玉蜀黍叶
+- 玉蜀黍根
+- 玉蜀黍苞片
+- 糯玉米
+- 包谷
+- 玉米
+- 玉蜀黍
+- 珍珠米
+- 苞芦
+- 玉米油
+- תירס
+- jagung
+- Panís
+- Aburoo
+- maíz
+- Gugarutz
+- Tyrk
+- Царевица
+- "Blat de moro"
+- Dacsa
+- India-corn
+- Majs
+- Kukuruz
+- Bli
+- Καλαμπόκι
+- corn,
+- Teosinte
+- Maizo
+- "Coronta o Panocha"
+- "Elote o Choclo"
+- Maiz
+- Olote
+- Maissi
+- viljamaissi
+- "blé d’Inde"
+- Kukorica
+- Maizo
+- Maís
+- zumri
+- "Parastā kukurūza"
+- ਮੱਕੀ
+- abati
+- auati
+- avati
+- Milho
+- "Kukurica siata"
+- koruza
+- Кукуруз
+- Majs
+- சோளம்
+- ข้าวโพด
+- "ظات حعشلعق قوناق"
+- "Sorgo Turco"
+- Dinrêye
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%AE%E0%A9%B1%E0%A8%95%E0%A9%80.oga"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%A1%E1%B1%9A%E1%B1%B1%E1%B1%B0%E1%B1%A8%E1%B1%9F.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5137%20%28guj%29-Sushant%20savla-%E0%AA%AE%E0%AA%95%E0%AA%BE%E0%AA%88.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AD%E0%A7%81%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%BE.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%8B%E0%AE%B3%E0%AE%AE%E0%AF%8D.ogg"
+short_name: "Z. mays"
+MeSH_tree_code: B01.875.800.575.912.250.822.966
+taxon_range:
+- '[[_Standards/WikiData/WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175]]'
+- "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+water_footprint:
+- 700
+- 1222
+- 1314
+carbon_footprint: 0.7
+OmegaWiki_Defined_Meaning: 157264
+ITIS_TSN: 42269
+taxon_author_citation: L.
+taxon_name: "Zea mays"
+Commons_gallery: "Zea mays"
+Commons_category: "Zea mays"
+Biology_Online_Biology_Dictionary_entry: corn
+GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=42207"
+Amazon_com_browse_node:
+- 16319431
+- 6465013011
+Unicode_character: "\U0001F33D"
+U_S_National_Archives_Identifier: 10638319
+Dewey_Decimal_Classification:
+- 633.15
+- 584.92
+- 633.255
+- 635.67
+- 641.3315
+- 664.724
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Corn%20ready%20to%20produce.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Klip%20kukuruza%20uzgojen%20u%20Me%C4%91imurju%20%28Croatia%29.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Maize%20Farm%20in%20Northern%20Ghana.jpg
-sequenced genome URL: https://plants.ensembl.org/Zea_mays
-Krugosvet article: biologiya/kukuruza
-NBN System Key: NBNSYS0000014190
-EPPO Code: ZEAMX
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Corn%20ready%20to%20produce.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Klip%20kukuruza%20uzgojen%20u%20Me%C4%91imurju%20%28Croatia%29.JPG"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Maize%20Farm%20in%20Northern%20Ghana.jpg"
+sequenced_genome_URL: "https://plants.ensembl.org/Zea_mays"
+Krugosvet_article: biologiya/kukuruza
+NBN_System_Key: NBNSYS0000014190
+EPPO_Code: ZEAMX
 ---
-
 
 ## #has_/text_of_/abstract 
 

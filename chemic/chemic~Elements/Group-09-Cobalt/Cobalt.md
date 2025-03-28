@@ -1,87 +1,88 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21926
 has_id_wikidata: Q740
-Common Procurement Vocabulary code: "14733000"
-EC number: 231-158-0
+Common_Procurement_Vocabulary_code: 14733000
+EC_number: 231-158-0
 UNII: 3G0H8C9362
-CAS Registry Number: 7440-48-4
-MeSH tree code:
-  - D01.268.556.185
-  - D01.268.956.155
-  - D01.552.544.185
-DSSTOX compound identifier: DTXCID9011040
-RTECS number: GF8750000
+CAS_Registry_Number: 7440-48-4
+MeSH_tree_code:
+- D01.268.556.185
+- D01.268.956.155
+- D01.552.544.185
+DSSTOX_compound_identifier: DTXCID9011040
+RTECS_number: GF8750000
 InChIKey: GUTLYIVDDKVIGB-UHFFFAOYSA-N
 mass: 58.933194
-made from material:
-  - "[[_Standards/WikiData/WD~safflorite,120618]]"
-  - "[[_Standards/WikiData/WD~erythrite,247914]]"
-  - "[[_Standards/WikiData/WD~cobaltite,410396]]"
-  - "[[_Standards/WikiData/WD~skutterudite,417274]]"
-  - "[[_Standards/WikiData/WD~cattierite,422339]]"
-  - "[[_Standards/WikiData/WD~glaucodot,604784]]"
-  - "[[_Standards/WikiData/WD~spherocobaltite,786358]]"
-has characteristic: "[[_Standards/WikiData/WD~ferromagnetism,184207]]"
-subject has role:
-  - "[[_Standards/WikiData/WD~allergen,186752]]"
-  - "[[_Standards/WikiData/WD~carcinogen,187661]]"
-  - "[[_Standards/WikiData/WD~trace metal,7831165]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 9,208107]]"
-  - "[[_Standards/WikiData/WD~period 4,239825]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Georg Brandt,473225]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Cobalt,84680734]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-named after: "[[_Standards/WikiData/WD~kobold,1064669]]"
-subclass of: "[[_Standards/WikiData/WD~simple substance,2512777]]"
-associated hazard: "[[_Standards/WikiData/WD~cobalt poisoning,5138720]]"
-has effect: "[[_Standards/WikiData/WD~cobalt poisoning,5138720]]"
-UMLS CUI: C0009148
-time of discovery or invention: 1735-01-01T00:00:00Z
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-vapor pressure: 0
-time-weighted average exposure limit:
-  - 0.1
-  - 0.05
-immediately dangerous to life or health: 20
-oxidation state: 2
-ionic radius:
-  - 0.9
-  - 0.55
-  - 0.56
-  - 0.65
-atomic number: 27
-boiling point:
-  - 3200
-  - 2927
-  - 5612
+made_from_material:
+- '[[_Standards/WikiData/WD~safflorite,120618]]'
+- '[[_Standards/WikiData/WD~erythrite,247914]]'
+- '[[_Standards/WikiData/WD~cobaltite,410396]]'
+- '[[_Standards/WikiData/WD~skutterudite,417274]]'
+- '[[_Standards/WikiData/WD~cattierite,422339]]'
+- '[[_Standards/WikiData/WD~glaucodot,604784]]'
+- '[[_Standards/WikiData/WD~spherocobaltite,786358]]'
+has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
+subject_has_role:
+- '[[_Standards/WikiData/WD~allergen,186752]]'
+- '[[_Standards/WikiData/WD~carcinogen,187661]]'
+- "[[_Standards/WikiData/WD~trace metal,7831165]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 9,208107]]"
+- "[[_Standards/WikiData/WD~period 4,239825]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Georg Brandt,473225]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- '[[_Standards/WikiData/WD~Cobalt,84680734]]'
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+named_after: '[[_Standards/WikiData/WD~kobold,1064669]]'
+subclass_of: "[[_Standards/WikiData/WD~simple substance,2512777]]"
+associated_hazard: "[[_Standards/WikiData/WD~cobalt poisoning,5138720]]"
+has_effect: "[[_Standards/WikiData/WD~cobalt poisoning,5138720]]"
+UMLS_CUI: C0009148
+time_of_discovery_or_invention: "1735-01-01T00:00:00Z"
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+vapor_pressure: 0
+time-weighted_average_exposure_limit:
+- 0.1
+- 0.05
+immediately_dangerous_to_life_or_health: 20
+oxidation_state: 2
+ionic_radius:
+- 0.9
+- 0.55
+- 0.56
+- 0.65
+atomic_number: 27
+boiling_point:
+- 3200
+- 2927
+- 5612
 electronegativity: 1.88
 density: 8.92
-melting point:
-  - 1495
-  - 1768
-  - 2719
-OmegaWiki Defined Meaning: "645"
-ZVG number: "7270"
-element symbol: Co
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Kobalt%20electrolytic%20and%201cm3%20cube.jpg
-Commons gallery: Cobalt
-Commons category: Cobalt
-Unicode character: 鈷
-CPV Supplementary code: AA16
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BA%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D1%82.ogg
-WordLift URL: http://data.thenextweb.com/tnw/entity/cobalt
-electron configuration: "[Ar] 3d⁷ 4s²"
+melting_point:
+- 1495
+- 1768
+- 2719
+OmegaWiki_Defined_Meaning: 645
+ZVG_number: 7270
+element_symbol: Co
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kobalt%20electrolytic%20and%201cm3%20cube.jpg"
+Commons_gallery: Cobalt
+Commons_category: Cobalt
+Unicode_character: 鈷
+CPV_Supplementary_code: AA16
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BA%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D1%82.ogg"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/cobalt"
+electron_configuration: "[Ar] 3d⁷ 4s²"
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Cobalt,740]] 
 

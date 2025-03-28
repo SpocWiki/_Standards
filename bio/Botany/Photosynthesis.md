@@ -1,51 +1,50 @@
----
+﻿---
 has_id_wikidata: Q11982
 operator:
-  - "[[_Standards/WikiData/WD~phytoplankton,184755]]"
-  - "[[_Standards/WikiData/WD~plant,756]]"
-  - "[[_Standards/WikiData/WD~algae,37868]]"
+- '[[_Standards/WikiData/WD~phytoplankton,184755]]'
+- '[[_Standards/WikiData/WD~plant,756]]'
+- '[[_Standards/WikiData/WD~algae,37868]]'
 uses:
-  - "[[_Standards/WikiData/WD~sunlight,193788]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~carbon dioxide,1997]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~Calvin cycle,220389]]"
-  - "[[_Standards/WikiData/WD~light-dependent reactions,862876]]"
-  - "[[_Standards/WikiData/WD~photosynthesis, dark reaction,22283112]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-instance of: "[[_Standards/WikiData/WD~biological process,2996394]]"
-has characteristic: "[[_Standards/WikiData/WD~photosynthetic efficiency,7187915]]"
-subclass of: "[[_Standards/WikiData/WD~cell metabolism,13416689]]"
-history of topic: "[[_Standards/WikiData/WD~Evolution of photosynthesis,17012783]]"
-Library of Congress Classification: QR88.5
-MeSH tree code:
-  - G02.111.158.937
-  - G02.111.669.700
-  - G02.740.921
-  - G03.191.937
-  - G03.493.700
-  - G03.800.700
-  - G15.568
-"product, material, or service produced or provided":
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-  - "[[_Standards/WikiData/WD~glucose,37525]]"
-facet of: "[[_Standards/WikiData/WD~metabolism,1057]]"
-OmegaWiki Defined Meaning: "2786"
-Commons category: Photosynthesis
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20in%20iran%20%D8%A8%D8%B1%DA%AF%20%DA%AF%D9%84%D9%87%D8%A7%20%D9%88%20%DA%AF%DB%8C%D8%A7%D9%87%D8%A7%D9%86%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%2032.jpg
+- '[[_Standards/WikiData/WD~sunlight,193788]]'
+- '[[_Standards/WikiData/WD~water,283]]'
+- "[[_Standards/WikiData/WD~carbon dioxide,1997]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~Calvin cycle,220389]]"
+- "[[_Standards/WikiData/WD~light-dependent reactions,862876]]"
+- "[[_Standards/WikiData/WD~photosynthesis, dark reaction,22283112]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+instance_of: "[[_Standards/WikiData/WD~biological process,2996394]]"
+has_characteristic: "[[_Standards/WikiData/WD~photosynthetic efficiency,7187915]]"
+subclass_of: "[[_Standards/WikiData/WD~cell metabolism,13416689]]"
+history_of_topic: "[[_Standards/WikiData/WD~Evolution of photosynthesis,17012783]]"
+Library_of_Congress_Classification: QR88.5
+MeSH_tree_code:
+- G02.111.158.937
+- G02.111.669.700
+- G02.740.921
+- G03.191.937
+- G03.493.700
+- G03.800.700
+- G15.568
+product_material_or_service_produced_or_provided:
+- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~glucose,37525]]'
+facet_of: '[[_Standards/WikiData/WD~metabolism,1057]]'
+OmegaWiki_Defined_Meaning: 2786
+Commons_category: Photosynthesis
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20in%20iran%20%D8%A8%D8%B1%DA%AF%20%DA%AF%D9%84%D9%87%D8%A7%20%D9%88%20%DA%AF%DB%8C%D8%A7%D9%87%D8%A7%D9%86%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%2032.jpg"
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20en.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20equation.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20photosynthesis%20overview.svg
-exact match: http://purl.obolibrary.org/obo/GO_0015979
-Dewey Decimal Classification: "572.46"
-IEV number: 845-26-078
-Krugosvet article: biologiya/fotosintez
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20en.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20equation.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20photosynthesis%20overview.svg"
+exact_match: "http://purl.obolibrary.org/obo/GO_0015979"
+Dewey_Decimal_Classification: 572.46
+IEV_number: 845-26-078
+Krugosvet_article: biologiya/fotosintez
 ---
-
 
 ## #has_/text_of_/abstract 
 

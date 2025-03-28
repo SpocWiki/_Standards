@@ -1,37 +1,36 @@
----
+﻿---
 aliases:
-  - combustion engine
-  - Internal combustion engine
+- "combustion engine"
+- "Internal combustion engine"
 has_id_wikidata: Q12757
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Nicolaus Otto,75782]]"
-  - "[[_Standards/WikiData/WD~Rudolf Diesel,12674]]"
-has effect: "[[_Standards/WikiData/WD~air pollution,131123]]"
-has characteristic: "[[_Standards/WikiData/WD~combustion,133235]]"
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Nicolaus Otto,75782]]"
+- "[[_Standards/WikiData/WD~Rudolf Diesel,12674]]"
+has_effect: "[[_Standards/WikiData/WD~air pollution,131123]]"
+has_characteristic: '[[_Standards/WikiData/WD~combustion,133235]]'
 uses: "[[_Standards/WikiData/WD~motor fuel,337540]]"
-opposite of: "[[_Standards/WikiData/WD~external combustion engine,843537]]"
-produced sound: "[[_Standards/WikiData/WD~engine noise,1949792]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~internal combustion engine component,5156698]]"
-subclass of: "[[_Standards/WikiData/WD~combustion engine,6018565]]"
-described by source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-said to be the same as: "[[_Standards/WikiData/WD~explosion motor,20987250]]"
-Dewey Decimal Classification:
-  - "629.25"
-  - "621.43"
-  - "623.8723"
-properties for this type: supercharger
-short name: ICE
-OmegaWiki Defined Meaning: "1201812"
+opposite_of: "[[_Standards/WikiData/WD~external combustion engine,843537]]"
+produced_sound: "[[_Standards/WikiData/WD~engine noise,1949792]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~internal combustion engine component,5156698]]"
+subclass_of: "[[_Standards/WikiData/WD~combustion engine,6018565]]"
+described_by_source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~explosion motor,20987250]]"
+Dewey_Decimal_Classification:
+- 629.25
+- 621.43
+- 623.8723
+properties_for_this_type: supercharger
+short_name: ICE
+OmegaWiki_Defined_Meaning: 1201812
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Turbofan3%20Unlabelled.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Diesel%20Engine%20%284%20cycle%20running%29.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Qt-Flash-Final.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wankel%20Cycle%20anim.gif
-Colon Classification: D646
-Commons category: Internal combustion engines
-time of discovery or invention: 1924-01-01T00:00:00Z
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Turbofan3%20Unlabelled.gif"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Diesel%20Engine%20%284%20cycle%20running%29.gif"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Qt-Flash-Final.gif"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wankel%20Cycle%20anim.gif"
+Colon_Classification: D646
+Commons_category: "Internal combustion engines"
+time_of_discovery_or_invention: "1924-01-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

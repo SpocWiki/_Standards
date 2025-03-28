@@ -1,43 +1,42 @@
----
+﻿---
 aliases:
-  - Salt (chemistry)
+- "Salt (chemistry)"
 has_id_wikidata: Q12370
-has part(s):
-  - "[[_Standards/WikiData/WD~anion,107968]]"
-  - "[[_Standards/WikiData/WD~cation,326277]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-said to be the same as: "[[_Standards/WikiData/WD~ionic compound,2366155]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~ionic compound,2366155]]"
-  - "[[_Standards/WikiData/WD~mineral substance,12037703]]"
-part of:
-  - "[[_Standards/WikiData/WD~response to salt,22273555]]"
-  - "[[_Standards/WikiData/WD~cellular response to salt,22273556]]"
-  - "[[_Standards/WikiData/WD~salt transmembrane transporter activity,22324829]]"
-instance of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~anion,107968]]'
+- '[[_Standards/WikiData/WD~cation,326277]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~ionic compound,2366155]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~ionic compound,2366155]]"
+- "[[_Standards/WikiData/WD~mineral substance,12037703]]"
+part_of:
+- "[[_Standards/WikiData/WD~response to salt,22273555]]"
+- "[[_Standards/WikiData/WD~cellular response to salt,22273556]]"
+- "[[_Standards/WikiData/WD~salt transmembrane transporter activity,22324829]]"
+instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cobalt%28II%29-chloride-hexahydrate-sample.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-chloride-hexahydrate-sample.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-sulfate-hexahydrate-sample.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Potassium-dichromate-sample.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ammonium-cerium%28IV%29-sulfate-sample.jpg
-MeSH tree code: D01.786
-UMLS CUI: C0036140
-different from:
-  - "[[_Standards/WikiData/WD~sodium chloride,2314]]"
-  - "[[_Standards/WikiData/WD~table salt,11254]]"
-OmegaWiki Defined Meaning: "3299"
-Commons category: Salts
-name in kana: えん
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Cobalt%28II%29-chloride-hexahydrate-sample.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-chloride-hexahydrate-sample.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-sulfate-hexahydrate-sample.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Potassium-dichromate-sample.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ammonium-cerium%28IV%29-sulfate-sample.jpg"
+MeSH_tree_code: D01.786
+UMLS_CUI: C0036140
+different_from:
+- "[[_Standards/WikiData/WD~sodium chloride,2314]]"
+- "[[_Standards/WikiData/WD~table salt,11254]]"
+OmegaWiki_Defined_Meaning: 3299
+Commons_category: Salts
+name_in_kana: えん
 ---
-
 
 ## #has_/text_of_/abstract 
 

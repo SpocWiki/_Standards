@@ -1,49 +1,48 @@
----
+﻿---
 has_id_wikidata: Q7272
-Commons category: Socialism
-instance of:
-  - "[[_Standards/WikiData/WD~economic system,273005]]"
-  - "[[_Standards/WikiData/WD~social formation,1641112]]"
-  - "[[_Standards/WikiData/WD~political ideology,12909644]]"
-  - "[[_Standards/WikiData/WD~social movement,49773]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-subclass of: "[[_Standards/WikiData/WD~anti-capitalism,389647]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Socialism,6173104]]"
-  - "[[_Standards/WikiData/WD~Template_Socialism by state,8006697]]"
-  - "[[_Standards/WikiData/WD~Template_Socialism sidebar,13107357]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Socialism,8438481]]"
-practiced by: "[[_Standards/WikiData/WD~socialist,12718544]]"
-has characteristic: "[[_Standards/WikiData/WD~type of socialism,17166135]]"
-different from: "[[_Standards/WikiData/WD~Socjalizm,19167949]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of socialism,39087403]]"
-UMLS CUI: C0037446
-MeSH tree code: I01.696.798
-Dewey Decimal Classification:
-  - "335"
-  - "320.531"
-  - "306.345"
-Colon Classification: XN
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Socialist%20red%20flag.svg
-Basisklassifikation: "89.14"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5146%20%28por%29-NMaia-socialismo.wav
-U.S. National Archives Identifier: "10641527"
-Library of Congress Classification: HX1 HX550
+Commons_category: Socialism
+instance_of:
+- "[[_Standards/WikiData/WD~economic system,273005]]"
+- "[[_Standards/WikiData/WD~social formation,1641112]]"
+- "[[_Standards/WikiData/WD~political ideology,12909644]]"
+- "[[_Standards/WikiData/WD~social movement,49773]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+subclass_of: '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Socialism,6173104]]'
+- "[[_Standards/WikiData/WD~Template_Socialism by state,8006697]]"
+- "[[_Standards/WikiData/WD~Template_Socialism sidebar,13107357]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Socialism,8438481]]'
+practiced_by: '[[_Standards/WikiData/WD~socialist,12718544]]'
+has_characteristic: "[[_Standards/WikiData/WD~type of socialism,17166135]]"
+different_from: '[[_Standards/WikiData/WD~Socjalizm,19167949]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of socialism,39087403]]"
+UMLS_CUI: C0037446
+MeSH_tree_code: I01.696.798
+Dewey_Decimal_Classification:
+- 335
+- 320.531
+- 306.345
+Colon_Classification: XN
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Socialist%20red%20flag.svg"
+Basisklassifikation: 89.14
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5146%20%28por%29-NMaia-socialismo.wav"
+U_S_National_Archives_Identifier: 10641527
+Library_of_Congress_Classification: "HX1 HX550"
 subreddit: socialism
 ---
-
 
 ## #has_/text_of_/abstract 
 

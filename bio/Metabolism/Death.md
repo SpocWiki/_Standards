@@ -1,99 +1,98 @@
----
+﻿---
 has_id_wikidata: Q4
-Library of Congress Classification: BD443.8-BD445
-Provenio UUID: d38fc7f6-f474-4ccc-a109-a8570f4eb16d
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Wann%20tritt%20der%20klinische%20Tod%20ein%3F.webm
-properties for this type:
-  - location
-  - cause of death
-  - point in time
-  - manner of death
-has cause:
-  - "[[_Standards/WikiData/WD~suicide,10737]]"
-  - "[[_Standards/WikiData/WD~homicide,149086]]"
-  - "[[_Standards/WikiData/WD~cause of death,1931388]]"
-facet of:
-  - "[[_Standards/WikiData/WD~life,3]]"
-  - "[[_Standards/WikiData/WD~development of the human body,2347178]]"
-Dewey Decimal Classification:
-  - "393"
-  - "306.9"
-  - "155.937"
-  - "202.3"
-  - "128.5"
-  - "179.7"
-  - "571.939"
-  - "616.078"
-  - "636.0896078"
-IMDb keyword: death
-GitHub topic: death
-Commons category: Death
-Archive of Our Own tag: Death
-OmegaWiki Defined Meaning: "387598"
-Unicode character:
-  - ☠
-  - 💀
-U.S. National Archives Identifier: "10639416"
-instance of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~property,937228]]"
-  - "[[_Standards/WikiData/WD~end,12769393]]"
-said to be the same as: "[[_Standards/WikiData/WD~brain death,223867]]"
-has immediate cause:
-  - "[[_Standards/WikiData/WD~dying,267505]]"
-  - "[[_Standards/WikiData/WD~clinical death,1989450]]"
-different from:
-  - "[[_Standards/WikiData/WD~Death,393832]]"
-  - "[[_Standards/WikiData/WD~Tod,405101]]"
-  - "[[_Standards/WikiData/WD~Maut,1911820]]"
-  - "[[_Standards/WikiData/WD~Döden,19526941]]"
-studied in:
-  - "[[_Standards/WikiData/WD~medical jurisprudence,454812]]"
-  - "[[_Standards/WikiData/WD~thanatology,620462]]"
-  - "[[_Standards/WikiData/WD~sociology of death,1712831]]"
-  - "[[_Standards/WikiData/WD~philosophy of death,113540506]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass of: "[[_Standards/WikiData/WD~occurrence,1190554]]"
-has part(s) of the class:
-  - "[[_Standards/WikiData/WD~cause of death,1931388]]"
-  - "[[_Standards/WikiData/WD~manner of death,2438541]]"
-  - "[[_Standards/WikiData/WD~place of death,18658526]]"
-  - "[[_Standards/WikiData/WD~date of death,18748141]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~cause of death,1931388]]"
-  - "[[_Standards/WikiData/WD~manner of death,2438541]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~cell death,2383867]]"
-  - "[[_Standards/WikiData/WD~single-organism process,22269530]]"
-  - "[[_Standards/WikiData/WD~multi-organism process,22269697]]"
-  - "[[_Standards/WikiData/WD~philosophy of death,113540506]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Death,10728979]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Death,11109938]]"
-opposite of: "[[_Standards/WikiData/WD~birth,14819852]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of death,25047919]]"
-has effect: "[[_Standards/WikiData/WD~dead,83978562]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Dead%20dog%20in%20Ulaanbaatar.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ms-MY-Ajal.ogg
-WordLift URL: http://data.thenextweb.com/tnw/entity/death
-exact match: http://erlangen-crm.org/current/E69_Death
-equivalent class: http://pcp-on-web.de/ontology#Death
-described at URL: https://leanlogic.online/glossary/death/
-MeSH tree code: C23.550.260
-Krugosvet article: medicina/SMERT_I_UMIRANIE.html
-Colon Classification: Q:361
+Library_of_Congress_Classification: BD443.8-BD445
+Provenio_UUID: d38fc7f6-f474-4ccc-a109-a8570f4eb16d
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Wann%20tritt%20der%20klinische%20Tod%20ein%3F.webm"
+properties_for_this_type:
+- location
+- "cause of death"
+- "point in time"
+- "manner of death"
+has_cause:
+- '[[_Standards/WikiData/WD~suicide,10737]]'
+- '[[_Standards/WikiData/WD~homicide,149086]]'
+- "[[_Standards/WikiData/WD~cause of death,1931388]]"
+facet_of:
+- '[[_Standards/WikiData/WD~life,3]]'
+- "[[_Standards/WikiData/WD~development of the human body,2347178]]"
+Dewey_Decimal_Classification:
+- 393
+- 306.9
+- 155.937
+- 202.3
+- 128.5
+- 179.7
+- 571.939
+- 616.078
+- 636.0896078
+IMDb_keyword: death
+GitHub_topic: death
+Commons_category: Death
+Archive_of_Our_Own_tag: Death
+OmegaWiki_Defined_Meaning: 387598
+Unicode_character:
+- ☠
+- "\U0001F480"
+U_S_National_Archives_Identifier: 10639416
+instance_of:
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~property,937228]]'
+- '[[_Standards/WikiData/WD~end,12769393]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~brain death,223867]]"
+has_immediate_cause:
+- '[[_Standards/WikiData/WD~dying,267505]]'
+- "[[_Standards/WikiData/WD~clinical death,1989450]]"
+different_from:
+- '[[_Standards/WikiData/WD~Death,393832]]'
+- '[[_Standards/WikiData/WD~Tod,405101]]'
+- '[[_Standards/WikiData/WD~Maut,1911820]]'
+- '[[_Standards/WikiData/WD~Döden,19526941]]'
+studied_in:
+- "[[_Standards/WikiData/WD~medical jurisprudence,454812]]"
+- '[[_Standards/WikiData/WD~thanatology,620462]]'
+- "[[_Standards/WikiData/WD~sociology of death,1712831]]"
+- "[[_Standards/WikiData/WD~philosophy of death,113540506]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+subclass_of: '[[_Standards/WikiData/WD~occurrence,1190554]]'
+has_part_s_of_the_class:
+- "[[_Standards/WikiData/WD~cause of death,1931388]]"
+- "[[_Standards/WikiData/WD~manner of death,2438541]]"
+- "[[_Standards/WikiData/WD~place of death,18658526]]"
+- "[[_Standards/WikiData/WD~date of death,18748141]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~cause of death,1931388]]"
+- "[[_Standards/WikiData/WD~manner of death,2438541]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~cell death,2383867]]"
+- "[[_Standards/WikiData/WD~single-organism process,22269530]]"
+- "[[_Standards/WikiData/WD~multi-organism process,22269697]]"
+- "[[_Standards/WikiData/WD~philosophy of death,113540506]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Death,10728979]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Death,11109938]]'
+opposite_of: '[[_Standards/WikiData/WD~birth,14819852]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of death,25047919]]"
+has_effect: '[[_Standards/WikiData/WD~dead,83978562]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dead%20dog%20in%20Ulaanbaatar.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ms-MY-Ajal.ogg"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/death"
+exact_match: "http://erlangen-crm.org/current/E69_Death"
+equivalent_class: "http://pcp-on-web.de/ontology#Death"
+described_at_URL: "https://leanlogic.online/glossary/death/"
+MeSH_tree_code: C23.550.260
+Krugosvet_article: medicina/SMERT_I_UMIRANIE.html
+Colon_Classification: "Q:361"
 ---
-
 
 ## #has_/text_of_/abstract 
 

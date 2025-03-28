@@ -1,23 +1,22 @@
----
+﻿---
 has_id_wikidata: Q11078
-studied in: "[[_Standards/WikiData/WD~endocrinology,162606]]"
-part of: "[[_Standards/WikiData/WD~organ system,188193]]"
-development of anatomical structure: "[[_Standards/WikiData/WD~endocrine system development,21425993]]"
-opposite of: "[[_Standards/WikiData/WD~exocrine system,28539636]]"
-instance of: "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-  - "[[_Standards/WikiData/WD~glandular system,126129074]]"
-Library of Congress Classification: QP187.A1-QP187.Z
-MeSH tree code: A06
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Endocrine%20English.svg
-Iconclass notation: 49G615
-UMLS CUI: C0014136
-Commons gallery: Endocrine system
-Commons category: Endocrine system
-Krugosvet article: nauka_i_tehnika/biologiya/ENDOKRINNAYA_SISTEMA.html
+studied_in: '[[_Standards/WikiData/WD~endocrinology,162606]]'
+part_of: "[[_Standards/WikiData/WD~organ system,188193]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~endocrine system development,21425993]]"
+opposite_of: "[[_Standards/WikiData/WD~exocrine system,28539636]]"
+instance_of: "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+- "[[_Standards/WikiData/WD~glandular system,126129074]]"
+Library_of_Congress_Classification: QP187.A1-QP187.Z
+MeSH_tree_code: A06
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Endocrine%20English.svg"
+Iconclass_notation: 49G615
+UMLS_CUI: C0014136
+Commons_gallery: "Endocrine system"
+Commons_category: "Endocrine system"
+Krugosvet_article: nauka_i_tehnika/biologiya/ENDOKRINNAYA_SISTEMA.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

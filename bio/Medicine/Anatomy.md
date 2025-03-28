@@ -1,57 +1,56 @@
----
+﻿---
 has_id_wikidata: Q514
-has part(s):
-  - "[[_Standards/WikiData/WD~zootomy,220384]]"
-  - "[[_Standards/WikiData/WD~osteology,819121]]"
-  - "[[_Standards/WikiData/WD~neuroanatomy,948647]]"
-  - "[[_Standards/WikiData/WD~plant anatomy,4021]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Great Ukrainian Encyclopedia,12088289]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-maintained by WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject Biology,6723002]]"
-  - "[[_Standards/WikiData/WD~WikiProject Anatomy,8487304]]"
-  - "[[_Standards/WikiData/WD~WikiProject Animal anatomy,21829301]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox anatomy,5879630]]"
-  - "[[_Standards/WikiData/WD~Template_Anatomy-stub,6176497]]"
-  - "[[_Standards/WikiData/WD~Template_Anatomy,6678171]]"
-  - "[[_Standards/WikiData/WD~Template_Anatomy properties,104230796]]"
-practiced by: "[[_Standards/WikiData/WD~anatomist,10872101]]"
-different from: "[[_Standards/WikiData/WD~Anatomy,13429539]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Anatomy,14614547]]"
-instance of: "[[_Standards/WikiData/WD~branch of biology,28598684]]"
-opposite of: "[[_Standards/WikiData/WD~pseudoanatomy,116811323]]"
-UMLS CUI: C0002808
-subclass of: "[[_Standards/WikiData/WD~biology,420]]"
-part of:
-  - "[[_Standards/WikiData/WD~biology,420]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20Drawing%20of%20a%20Woman%27s%20Torso.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%B0%E0%A4%9A%E0%A4%A8%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8.wav
-Stack Exchange tag: https://biology.stackexchange.com/tags/anatomy
-U.S. National Archives Identifier: "10666355"
-OmegaWiki Defined Meaning: "172"
-All-Science Journal Classification Codes: "2702"
-Iconclass notation:
-  - 31A2
-  - 49G61
-Basisklassifikation: "44.34"
-Commons category: Anatomy
-MeSH tree code: H01.158.100
-Colon Classification: L:2
-OpenStreetMap tag or key: Tag:healthcare:speciality=anatomy
+has_part_s_:
+- '[[_Standards/WikiData/WD~zootomy,220384]]'
+- '[[_Standards/WikiData/WD~osteology,819121]]'
+- '[[_Standards/WikiData/WD~neuroanatomy,948647]]'
+- "[[_Standards/WikiData/WD~plant anatomy,4021]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Great Ukrainian Encyclopedia,12088289]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+maintained_by_WikiProject:
+- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject Biology,6723002]]"
+- "[[_Standards/WikiData/WD~WikiProject Anatomy,8487304]]"
+- "[[_Standards/WikiData/WD~WikiProject Animal anatomy,21829301]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox anatomy,5879630]]"
+- '[[_Standards/WikiData/WD~Template_Anatomy-stub,6176497]]'
+- '[[_Standards/WikiData/WD~Template_Anatomy,6678171]]'
+- "[[_Standards/WikiData/WD~Template_Anatomy properties,104230796]]"
+practiced_by: '[[_Standards/WikiData/WD~anatomist,10872101]]'
+different_from: '[[_Standards/WikiData/WD~Anatomy,13429539]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Anatomy,14614547]]'
+instance_of: "[[_Standards/WikiData/WD~branch of biology,28598684]]"
+opposite_of: '[[_Standards/WikiData/WD~pseudoanatomy,116811323]]'
+UMLS_CUI: C0002808
+subclass_of: '[[_Standards/WikiData/WD~biology,420]]'
+part_of:
+- '[[_Standards/WikiData/WD~biology,420]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20Drawing%20of%20a%20Woman%27s%20Torso.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%B0%E0%A4%9A%E0%A4%A8%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8.wav"
+Stack_Exchange_tag: "https://biology.stackexchange.com/tags/anatomy"
+U_S_National_Archives_Identifier: 10666355
+OmegaWiki_Defined_Meaning: 172
+All-Science_Journal_Classification_Codes: 2702
+Iconclass_notation:
+- 31A2
+- 49G61
+Basisklassifikation: 44.34
+Commons_category: Anatomy
+MeSH_tree_code: H01.158.100
+Colon_Classification: "L:2"
+OpenStreetMap_tag_or_key: "Tag:healthcare:speciality=anatomy"
 ---
-
 
 ## #has_/text_of_/abstract 
 

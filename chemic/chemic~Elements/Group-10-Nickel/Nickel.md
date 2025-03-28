@@ -1,104 +1,105 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21927
 has_id_wikidata: Q744
-has characteristic: "[[_Standards/WikiData/WD~ferromagnetism,184207]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~allergen,186752]]"
-  - "[[_Standards/WikiData/WD~material,214609]]"
-subject has role:
-  - "[[_Standards/WikiData/WD~carcinogen,187661]]"
-  - "[[_Standards/WikiData/WD~trace metal,7831165]]"
-  - "[[_Standards/WikiData/WD~occupational carcinogen,21074597]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 10,205253]]"
-  - "[[_Standards/WikiData/WD~period 4,239825]]"
-made from material:
-  - "[[_Standards/WikiData/WD~pentlandite,410101]]"
-  - "[[_Standards/WikiData/WD~millerite,411068]]"
-  - "[[_Standards/WikiData/WD~nickeline,419197]]"
-  - "[[_Standards/WikiData/WD~pyrrhotite,421944]]"
-  - "[[_Standards/WikiData/WD~garnierite mineral group,1494409]]"
-  - "[[_Standards/WikiData/WD~paratacamite-(Ni),19861151]]"
-  - "[[_Standards/WikiData/WD~phosphocyclite-(Ni),106623134]]"
-  - "[[_Standards/WikiData/WD~tetrahedrite-(Ni),108145984]]"
-  - "[[_Standards/WikiData/WD~tennantite-(Ni),108146107]]"
-named after: "[[_Standards/WikiData/WD~nickeline,419197]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Axel Fredrik Cronstedt,468351]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Nickel,108309417]]"
-found in taxon: "[[_Standards/WikiData/WD~Ludwigia repens,4406281]]"
-instance of:
-  - "[[_Standards/WikiData/WD~ferromagnetic material,9259184]]"
-  - "[[_Standards/WikiData/WD~flammable solid,21073024]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-has effect:
-  - "[[_Standards/WikiData/WD~nickel allergic contact dermatitis,16606544]]"
-  - "[[_Standards/WikiData/WD~nickel exposure,21174946]]"
-associated hazard: "[[_Standards/WikiData/WD~nickel exposure,21174946]]"
-time of discovery or invention: 1751-01-01T00:00:00Z
-oxidation state:
-  - -1
-  - 1
-  - 2
-  - 3
-  - 4
-vapor pressure: 0
-immediately dangerous to life or health: 10
-time-weighted average exposure limit:
-  - 1
-  - 0.015
-atomic number: 28
-ionic radius:
-  - 0.49
-  - 0.56
-  - 0.69
+has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~allergen,186752]]'
+- '[[_Standards/WikiData/WD~material,214609]]'
+subject_has_role:
+- '[[_Standards/WikiData/WD~carcinogen,187661]]'
+- "[[_Standards/WikiData/WD~trace metal,7831165]]"
+- "[[_Standards/WikiData/WD~occupational carcinogen,21074597]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 10,205253]]"
+- "[[_Standards/WikiData/WD~period 4,239825]]"
+made_from_material:
+- '[[_Standards/WikiData/WD~pentlandite,410101]]'
+- '[[_Standards/WikiData/WD~millerite,411068]]'
+- '[[_Standards/WikiData/WD~nickeline,419197]]'
+- '[[_Standards/WikiData/WD~pyrrhotite,421944]]'
+- "[[_Standards/WikiData/WD~garnierite mineral group,1494409]]"
+- '[[_Standards/WikiData/WD~paratacamite-(Ni),19861151]]'
+- '[[_Standards/WikiData/WD~phosphocyclite-(Ni),106623134]]'
+- '[[_Standards/WikiData/WD~tetrahedrite-(Ni),108145984]]'
+- '[[_Standards/WikiData/WD~tennantite-(Ni),108146107]]'
+named_after: '[[_Standards/WikiData/WD~nickeline,419197]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Axel Fredrik Cronstedt,468351]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- '[[_Standards/WikiData/WD~Nickel,108309417]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Ludwigia repens,4406281]]"
+instance_of:
+- "[[_Standards/WikiData/WD~ferromagnetic material,9259184]]"
+- "[[_Standards/WikiData/WD~flammable solid,21073024]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+has_effect:
+- "[[_Standards/WikiData/WD~nickel allergic contact dermatitis,16606544]]"
+- "[[_Standards/WikiData/WD~nickel exposure,21174946]]"
+associated_hazard: "[[_Standards/WikiData/WD~nickel exposure,21174946]]"
+time_of_discovery_or_invention: "1751-01-01T00:00:00Z"
+oxidation_state:
+- -1
+- 1
+- 2
+- 3
+- 4
+vapor_pressure: 0
+immediately_dangerous_to_life_or_health: 10
+time-weighted_average_exposure_limit:
+- 1
+- 0.015
+atomic_number: 28
+ionic_radius:
+- 0.49
+- 0.56
+- 0.69
 density: 8.9
 electronegativity: 1.91
-melting point:
-  - 1455
-  - 1728
-  - 2831
-boiling point:
-  - 2913
-  - 3186
-  - 5139
-OmegaWiki Defined Meaning: "2509"
-Gmelin number: "16229"
-PubChem CID: "935"
-ZVG number: "8230"
+melting_point:
+- 1455
+- 1728
+- 2831
+boiling_point:
+- 2913
+- 3186
+- 5139
+OmegaWiki_Defined_Meaning: 2509
+Gmelin_number: 16229
+PubChem_CID: 935
+ZVG_number: 8230
 mass: 58.6934
-chemical formula: Ni
-element symbol: Ni
-Commons gallery: Nickel
-Commons category: Nickel
-canonical SMILES: "[Ni]"
-Reaxys registry number: "4122946"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Electrolytic%20nickel.jpg
-U.S. National Archives Identifier: "10647023"
-UNSPSC Code: "11101706"
-EC number: 231-111-4
-CAS Registry Number: 7440-02-0
+chemical_formula: Ni
+element_symbol: Ni
+Commons_gallery: Nickel
+Commons_category: Nickel
+canonical_SMILES: '[Ni]'
+Reaxys_registry_number: 4122946
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Electrolytic%20nickel.jpg"
+U_S_National_Archives_Identifier: 10647023
+UNSPSC_Code: 11101706
+EC_number: 231-111-4
+CAS_Registry_Number: 7440-02-0
 UNII: 7OV03QG267
-UMLS CUI: C0028013
-MeSH tree code:
-  - D01.268.556.607
-  - D01.268.956.625
-  - D01.552.544.607
-DSSTOX compound identifier: DTXCID80925
-Wolfram Language entity code: Entity["Mineral", "Nickel"]
+UMLS_CUI: C0028013
+MeSH_tree_code:
+- D01.268.556.607
+- D01.268.956.625
+- D01.552.544.607
+DSSTOX_compound_identifier: DTXCID80925
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Nickel\"]"
 InChI: InChI=1S/Ni
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.html
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.html
 InChIKey: PXHVJJICTQNCMI-UHFFFAOYSA-N
-RTECS number: QR5950000
-Unicode character: 鎳
+RTECS_number: QR5950000
+Unicode_character: 鎳
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Nickel,744]] 
 

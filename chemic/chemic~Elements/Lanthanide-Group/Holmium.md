@@ -1,58 +1,58 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21963
 has_id_wikidata: Q1846
-Unicode character: 鈥
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Jacques-Louis Soret,124083]]"
-  - "[[_Standards/WikiData/WD~Marc Delafontaine,124122]]"
-  - "[[_Standards/WikiData/WD~Per Teodor Cleve,377822]]"
-has use:
-  - "[[_Standards/WikiData/WD~nuclear poison,221033]]"
-  - "[[_Standards/WikiData/WD~pole piece,2102629]]"
-different from: "[[_Standards/WikiData/WD~Ho,224477]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-made from material:
-  - "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
-  - "[[_Standards/WikiData/WD~gadolinite group,18043462]]"
-  - "[[_Standards/WikiData/WD~monazite sands,115626544]]"
-time of discovery or invention: 1878-01-01T00:00:00Z
-UMLS CUI: C0019846
-named after: "[[_Standards/WikiData/WD~Stockholm,1754]]"
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-location of discovery:
-  - "[[_Standards/WikiData/WD~Uppsala,25286]]"
-  - "[[_Standards/WikiData/WD~Geneva,71]]"
-oxidation state:
-  - 2
-  - 3
-atomic number: 67
+Unicode_character: 鈥
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Jacques-Louis Soret,124083]]"
+- "[[_Standards/WikiData/WD~Marc Delafontaine,124122]]"
+- "[[_Standards/WikiData/WD~Per Teodor Cleve,377822]]"
+has_use:
+- "[[_Standards/WikiData/WD~nuclear poison,221033]]"
+- "[[_Standards/WikiData/WD~pole piece,2102629]]"
+different_from: '[[_Standards/WikiData/WD~Ho,224477]]'
+part_of:
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+made_from_material:
+- "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
+- "[[_Standards/WikiData/WD~gadolinite group,18043462]]"
+- "[[_Standards/WikiData/WD~monazite sands,115626544]]"
+time_of_discovery_or_invention: "1878-01-01T00:00:00Z"
+UMLS_CUI: C0019846
+named_after: '[[_Standards/WikiData/WD~Stockholm,1754]]'
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+location_of_discovery:
+- '[[_Standards/WikiData/WD~Uppsala,25286]]'
+- '[[_Standards/WikiData/WD~Geneva,71]]'
+oxidation_state:
+- 2
+- 3
+atomic_number: 67
 electronegativity: 1.23
-melting point: 1734
-boiling point: 2873
-OmegaWiki Defined Meaning: "160464"
-PubChem CID: "23988"
-Gmelin number: "16291"
-ZVG number: "7670"
-chemical formula: Ho
-element symbol: Ho
-Commons gallery: Holmium
-Commons category: Holmium
+melting_point: 1734
+boiling_point: 2873
+OmegaWiki_Defined_Meaning: 160464
+PubChem_CID: 23988
+Gmelin_number: 16291
+ZVG_number: 7670
+chemical_formula: Ho
+element_symbol: Ho
+Commons_gallery: Holmium
+Commons_category: Holmium
 mass: 164.930329
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Holmium.jpg
-canonical SMILES: "[Ho]"
-EC number: 231-169-0
-CAS Registry Number: 7440-60-0
-MeSH tree code:
-  - D01.268.558.362.492
-  - D01.552.550.399.492
-DSSTOX compound identifier: DTXCID0047664
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Holmium.jpg"
+canonical_SMILES: '[Ho]'
+EC_number: 231-169-0
+CAS_Registry_Number: 7440-60-0
+MeSH_tree_code:
+- D01.268.558.362.492
+- D01.552.550.399.492
+DSSTOX_compound_identifier: DTXCID0047664
 InChI: InChI=1S/Ho
 InChIKey: KJZYNXUDTRRSPN-UHFFFAOYSA-N
 UNII: W1XX32SQN1

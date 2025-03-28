@@ -1,151 +1,58 @@
----
+﻿---
 aliases:
-  - Speed of light
+- "Speed of light"
 has_id_wikidata: Q2111
-discoverer or inventor: "[[_Standards/WikiData/WD~Ole Rømer,160187]]"
-instance of:
-  - "[[_Standards/WikiData/WD~physical constant,173227]]"
-  - "[[_Standards/WikiData/WD~scalar quantity,181175]]"
-  - "[[_Standards/WikiData/WD~constant,188248]]"
-  - "[[_Standards/WikiData/WD~fundamental limit,4493384]]"
-  - "[[_Standards/WikiData/WD~measured quantity value,15088658]]"
-  - "[[_Standards/WikiData/WD~unit of speed,15222637]]"
-  - "[[_Standards/WikiData/WD~UCUM constant,83155724]]"
-  - "[[_Standards/WikiData/WD~unit of measurement,47574]]"
-recommended unit of measurement: "[[_Standards/WikiData/WD~metre per second,182429]]"
-said to be the same as: "[[_Standards/WikiData/WD~speed of gravity,319686]]"
-facet of:
-  - "[[_Standards/WikiData/WD~massless quantum particle,2024141]]"
-  - "[[_Standards/WikiData/WD~electromagnetism,11406]]"
-  - "[[_Standards/WikiData/WD~special relativity,11455]]"
-  - "[[_Standards/WikiData/WD~vacuum,11475]]"
-measured physical quantity: "[[_Standards/WikiData/WD~speed,3711325]]"
-maintained by WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-  - "[[_Standards/WikiData/WD~WikiProject Physics,8487193]]"
-different from: "[[_Standards/WikiData/WD~speed of light in a medium,9092845]]"
-described by source:
-  - "[[_Standards/WikiData/WD~IEC 80000-6_2008 Quantities and units—Part 6_ Electromagnetism,26711936]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-7_2008 Quantities and units—Part 7_ Light,26711937]]"
-  - "[[_Standards/WikiData/WD~IEC 80000-6_2022 Quantities and units — Part 6_ Electromagnetism,117847945]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Velocidad%20de%20la%20luz-article-part1.ogg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Fizeau.ogv
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%B0%20%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%97.wav
-Wolfram Language unit code: '"SpeedOfLight"'
-UCUM code: "[c]"
-IEV number:
-  - 113-01-34
-  - 881-04-13
-Wolfram Language entity code: Entity["PhysicalConstant", "SpeedOfLight"]
-Commons category: Speed of light
-Dewey Decimal Classification: "535.24"
-defining formula: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle c_{0}=299792458\,\mathrm {m} /\mathrm {s} }">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <msub>
-            <mi>c</mi>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mn>0</mn>
-            </mrow>
-          </msub>
-          <mo>=</mo>
-          <mn>299792458</mn>
-          <mspace width="thinmathspace" />
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="normal">m</mi>
-          </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mo>/</mo>
-          </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi mathvariant="normal">s</mi>
-          </mrow>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle c_{0}=299792458\,\mathrm {m} /\mathrm {s} }</annotation>
-    </semantics>
-  </math>
-conversion to standard unit:
-  - 1079252848.8
-  - 670616629.384
-quantity symbol (LaTeX):
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle c}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>c</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle c}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle c_{0}}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <msub>
-              <mi>c</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mn>0</mn>
-              </mrow>
-            </msub>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle c_{0}}</annotation>
-      </semantics>
-    </math>
-OmegaWiki Defined Meaning: "688281"
-conversion to SI unit: 299792458.0147178
-unit symbol: c
-numeric value: 299792458
-ISQ dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}{\mathsf {T}}^{-1}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="sans-serif">L</mi>
-            </mrow>
-          </mrow>
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">T</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>1</mn>
-            </mrow>
-          </msup>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}{\mathsf {T}}^{-1}}</annotation>
-    </semantics>
-  </math>
-in defining formula: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle c_{0}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <msub>
-            <mi>c</mi>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mn>0</mn>
-            </mrow>
-          </msub>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle c_{0}}</annotation>
-    </semantics>
-  </math>
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Ole Rømer,160187]]"
+instance_of:
+- "[[_Standards/WikiData/WD~physical constant,173227]]"
+- "[[_Standards/WikiData/WD~scalar quantity,181175]]"
+- '[[_Standards/WikiData/WD~constant,188248]]'
+- "[[_Standards/WikiData/WD~fundamental limit,4493384]]"
+- "[[_Standards/WikiData/WD~measured quantity value,15088658]]"
+- "[[_Standards/WikiData/WD~unit of speed,15222637]]"
+- "[[_Standards/WikiData/WD~UCUM constant,83155724]]"
+- "[[_Standards/WikiData/WD~unit of measurement,47574]]"
+recommended_unit_of_measurement: "[[_Standards/WikiData/WD~metre per second,182429]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~speed of gravity,319686]]"
+facet_of:
+- "[[_Standards/WikiData/WD~massless quantum particle,2024141]]"
+- '[[_Standards/WikiData/WD~electromagnetism,11406]]'
+- "[[_Standards/WikiData/WD~special relativity,11455]]"
+- '[[_Standards/WikiData/WD~vacuum,11475]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~speed,3711325]]'
+maintained_by_WikiProject:
+- "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~WikiProject Physics,8487193]]"
+different_from: "[[_Standards/WikiData/WD~speed of light in a medium,9092845]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~IEC 80000-6_2008 Quantities and units—Part 6_ Electromagnetism,26711936]]"
+- "[[_Standards/WikiData/WD~ISO 80000-7_2008 Quantities and units—Part 7_ Light,26711937]]"
+- "[[_Standards/WikiData/WD~IEC 80000-6_2022 Quantities and units — Part 6_ Electromagnetism,117847945]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Velocidad%20de%20la%20luz-article-part1.ogg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Fizeau.ogv"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%B0%20%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%97.wav"
+Wolfram_Language_unit_code: "\"SpeedOfLight\""
+UCUM_code: '[c]'
+IEV_number:
+- 113-01-34
+- 881-04-13
+Wolfram_Language_entity_code: "Entity[\"PhysicalConstant\", \"SpeedOfLight\"]"
+Commons_category: "Speed of light"
+Dewey_Decimal_Classification: 535.24
+defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle c_{0}=299792458\\,\\mathrm {m} /\\mathrm {s} }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>c</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>0</mn>\n          </mrow>\n        </msub>\n        <mo>=</mo>\n        <mn>299792458</mn>\n        <mspace width=\"thinmathspace\" />\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">m</mi>\n        </mrow>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mo>/</mo>\n        </mrow>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">s</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle c_{0}=299792458\\,\\mathrm {m} /\\mathrm {s} }</annotation>\n  </semantics>\n</math>"
+conversion_to_standard_unit:
+- 1079252848.8
+- 670616629.384
+quantity_symbol_LaTeX_:
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle c}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>c</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle c}</annotation>\n  </semantics>\n</math>"
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle c_{0}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>c</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>0</mn>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle c_{0}}</annotation>\n  </semantics>\n</math>"
+OmegaWiki_Defined_Meaning: 688281
+conversion_to_SI_unit: 299792458.0147178
+unit_symbol: c
+numeric_value: 299792458
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}{\\mathsf {T}}^{-1}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">L</mi>\n          </mrow>\n        </mrow>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>1</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}{\\mathsf {T}}^{-1}}</annotation>\n  </semantics>\n</math>"
+in_defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle c_{0}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>c</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>0</mn>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle c_{0}}</annotation>\n  </semantics>\n</math>"
 ---
-
 
 ## #has_/text_of_/abstract 
 

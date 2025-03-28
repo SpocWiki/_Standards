@@ -1,13 +1,12 @@
----
+﻿---
 has_id_wikidata: Q2054106
-different from: "[[_Standards/WikiData/WD~philosophy of religion,209295]]"
-subclass of: "[[_Standards/WikiData/WD~philosophical movement,2915955]]"
-instance of: "[[_Standards/WikiData/WD~type of world view,110401282]]"
-Provenio UUID: 8f0820f8-109c-4f42-b9fe-ba67ccc3b1c1
-MeSH tree code: K01.844.799
-Commons category: Religious philosophy
+different_from: "[[_Standards/WikiData/WD~philosophy of religion,209295]]"
+subclass_of: "[[_Standards/WikiData/WD~philosophical movement,2915955]]"
+instance_of: "[[_Standards/WikiData/WD~type of world view,110401282]]"
+Provenio_UUID: 8f0820f8-109c-4f42-b9fe-ba67ccc3b1c1
+MeSH_tree_code: K01.844.799
+Commons_category: "Religious philosophy"
 ---
-
 
 ## #has_/text_of_/abstract 
 

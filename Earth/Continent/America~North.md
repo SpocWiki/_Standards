@@ -1,130 +1,129 @@
----
+﻿---
 type: Continent
 confidential: public
 isDeleted: false
 has_id_wikidata: Q49
 SpocWebEntityId: 27158
 tags:
-  - geo/Continent
+- geo/Continent
 Wikida: 
-named by:
-  - "[[_Standards/WikiData/WD~Matthias Ringmann,66192]]"
-  - "[[_Standards/WikiData/WD~Iroquois mythology,2314013]]"
-  - "[[_Standards/WikiData/WD~Martin Waldseemüller,57197]]"
-highest point: "[[_Standards/WikiData/WD~Denali,130018]]"
-history of topic: "[[_Standards/WikiData/WD~history of North America,149527]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of North America,583355]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
-  - "[[_Standards/WikiData/WD~Northern America and Mexico,19464773]]"
-  - "[[_Standards/WikiData/WD~Central America,27611]]"
-  - "[[_Standards/WikiData/WD~Greenland,223]]"
-lowest point: "[[_Standards/WikiData/WD~Badwater Basin,799720]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Pacific Time Zone,847142]]"
-  - "[[_Standards/WikiData/WD~Eastern Time Zone,941023]]"
-  - "[[_Standards/WikiData/WD~Atlantic Time Zone,2085376]]"
-  - "[[_Standards/WikiData/WD~Central Time Zone,2086913]]"
-  - "[[_Standards/WikiData/WD~Newfoundland Standard time,2420151]]"
-  - "[[_Standards/WikiData/WD~Mountain Time Zone,3134980]]"
-  - "[[_Standards/WikiData/WD~Alaska Time Zone,3238805]]"
-  - "[[_Standards/WikiData/WD~Hawaii–Aleutian Time Zone,3241537]]"
-instance of:
-  - "[[_Standards/WikiData/WD~subcontinent,855697]]"
-  - "[[_Standards/WikiData/WD~continent,5107]]"
-different from:
-  - "[[_Standards/WikiData/WD~Northern America,2017699]]"
-  - "[[_Standards/WikiData/WD~Northern America and Mexico,19464773]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of North America,3578647]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of North America,7112387]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Countries of North America,7473987]]"
-  - "[[_Standards/WikiData/WD~Template_North America topic,10969804]]"
-named after:
-  - "[[_Standards/WikiData/WD~Turtle Island,7856408]]"
-  - "[[_Standards/WikiData/WD~north,659]]"
-  - "[[_Standards/WikiData/WD~Amerigo Vespucci,47674]]"
-said to be the same as:
-  - "[[_Standards/WikiData/WD~Turtle Island,7856408]]"
-  - "[[_Standards/WikiData/WD~North and Central America,108275538]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_North America,8251832]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828144,22828144]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of North America,105743111]]"
-coordinate location: Point(-105.0 47.0)
-BHCL UUID:
-  - a93d848e-547a-4cf6-8638-aeb6807ae238
-  - 4ee05f89-8208-48f6-92cc-c10f67edfcaf
-satellite view: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Satellite%20View%20of%20a%20Back-door%20Cold%20Front%20%2814295309881%29.jpg
-coordinates of northernmost point: Point(-69.958333333 83.111388888)
-coordinates of southernmost point: Point(-80.885555555 7.211666666)
-coordinates of westernmost point: Point(172.437080555 52.921119444)
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-  - "[[_Standards/WikiData/WD~Saint Vincent and the Grenadines,757]]"
-  - "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
-  - "[[_Standards/WikiData/WD~Saint Lucia,760]]"
-  - "[[_Standards/WikiData/WD~Jamaica,766]]"
-  - "[[_Standards/WikiData/WD~Grenada,769]]"
-  - "[[_Standards/WikiData/WD~Guatemala,774]]"
-  - "[[_Standards/WikiData/WD~The Bahamas,778]]"
-  - "[[_Standards/WikiData/WD~Honduras,783]]"
-  - "[[_Standards/WikiData/WD~Antigua and Barbuda,781]]"
-  - "[[_Standards/WikiData/WD~Dominican Republic,786]]"
-  - "[[_Standards/WikiData/WD~Dominica,784]]"
-  - "[[_Standards/WikiData/WD~Haiti,790]]"
-  - "[[_Standards/WikiData/WD~El Salvador,792]]"
-  - "[[_Standards/WikiData/WD~Costa Rica,800]]"
-  - "[[_Standards/WikiData/WD~Panama,804]]"
-  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
-  - "[[_Standards/WikiData/WD~Bermuda,23635]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Greenland,223]]"
-  - "[[_Standards/WikiData/WD~Belize,242]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-  - "[[_Standards/WikiData/WD~Barbados,244]]"
-part of: "[[_Standards/WikiData/WD~Americas,828]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Eurasia,5401]]"
-  - "[[_Standards/WikiData/WD~South America,18]]"
-DPLA subject term: North America
-Commons gallery: North America
-Commons category: North America
-GitHub topic: north-america
-IMDb keyword: north-america
-MeSH tree code: Z01.107.567
-short name:
-  - 북미
-  - 北米
-located in/on physical feature: "[[_Standards/WikiData/WD~Northern Hemisphere,39061]]"
+named_by:
+- "[[_Standards/WikiData/WD~Matthias Ringmann,66192]]"
+- "[[_Standards/WikiData/WD~Iroquois mythology,2314013]]"
+- "[[_Standards/WikiData/WD~Martin Waldseemüller,57197]]"
+highest_point: '[[_Standards/WikiData/WD~Denali,130018]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of North America,149527]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of North America,583355]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~Caribbean,664609]]'
+- "[[_Standards/WikiData/WD~Northern America and Mexico,19464773]]"
+- "[[_Standards/WikiData/WD~Central America,27611]]"
+- '[[_Standards/WikiData/WD~Greenland,223]]'
+lowest_point: "[[_Standards/WikiData/WD~Badwater Basin,799720]]"
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~Pacific Time Zone,847142]]"
+- "[[_Standards/WikiData/WD~Eastern Time Zone,941023]]"
+- "[[_Standards/WikiData/WD~Atlantic Time Zone,2085376]]"
+- "[[_Standards/WikiData/WD~Central Time Zone,2086913]]"
+- "[[_Standards/WikiData/WD~Newfoundland Standard time,2420151]]"
+- "[[_Standards/WikiData/WD~Mountain Time Zone,3134980]]"
+- "[[_Standards/WikiData/WD~Alaska Time Zone,3238805]]"
+- "[[_Standards/WikiData/WD~Hawaii–Aleutian Time Zone,3241537]]"
+instance_of:
+- '[[_Standards/WikiData/WD~subcontinent,855697]]'
+- '[[_Standards/WikiData/WD~continent,5107]]'
+different_from:
+- "[[_Standards/WikiData/WD~Northern America,2017699]]"
+- "[[_Standards/WikiData/WD~Northern America and Mexico,19464773]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of North America,3578647]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of North America,7112387]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Countries of North America,7473987]]"
+- "[[_Standards/WikiData/WD~Template_North America topic,10969804]]"
+named_after:
+- "[[_Standards/WikiData/WD~Turtle Island,7856408]]"
+- '[[_Standards/WikiData/WD~north,659]]'
+- "[[_Standards/WikiData/WD~Amerigo Vespucci,47674]]"
+said_to_be_the_same_as:
+- "[[_Standards/WikiData/WD~Turtle Island,7856408]]"
+- "[[_Standards/WikiData/WD~North and Central America,108275538]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_North America,8251832]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828144,22828144]]'
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of North America,105743111]]"
+coordinate_location: "Point(-105.0 47.0)"
+BHCL_UUID:
+- a93d848e-547a-4cf6-8638-aeb6807ae238
+- 4ee05f89-8208-48f6-92cc-c10f67edfcaf
+satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Satellite%20View%20of%20a%20Back-door%20Cold%20Front%20%2814295309881%29.jpg"
+coordinates_of_northernmost_point: "Point(-69.958333333 83.111388888)"
+coordinates_of_southernmost_point: "Point(-80.885555555 7.211666666)"
+coordinates_of_westernmost_point: "Point(172.437080555 52.921119444)"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~Saint Vincent and the Grenadines,757]]"
+- "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
+- "[[_Standards/WikiData/WD~Saint Lucia,760]]"
+- '[[_Standards/WikiData/WD~Jamaica,766]]'
+- '[[_Standards/WikiData/WD~Grenada,769]]'
+- '[[_Standards/WikiData/WD~Guatemala,774]]'
+- "[[_Standards/WikiData/WD~The Bahamas,778]]"
+- '[[_Standards/WikiData/WD~Honduras,783]]'
+- "[[_Standards/WikiData/WD~Antigua and Barbuda,781]]"
+- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
+- '[[_Standards/WikiData/WD~Dominica,784]]'
+- '[[_Standards/WikiData/WD~Haiti,790]]'
+- "[[_Standards/WikiData/WD~El Salvador,792]]"
+- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- '[[_Standards/WikiData/WD~Panama,804]]'
+- '[[_Standards/WikiData/WD~Nicaragua,811]]'
+- '[[_Standards/WikiData/WD~Bermuda,23635]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Greenland,223]]'
+- '[[_Standards/WikiData/WD~Belize,242]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Barbados,244]]'
+part_of: '[[_Standards/WikiData/WD~Americas,828]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Eurasia,5401]]'
+- "[[_Standards/WikiData/WD~South America,18]]"
+DPLA_subject_term: "North America"
+Commons_gallery: "North America"
+Commons_category: "North America"
+GitHub_topic: north-america
+IMDb_keyword: north-america
+MeSH_tree_code: Z01.107.567
+short_name:
+- 북미
+- 北米
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Northern Hemisphere,39061]]"
 area: 24930000
-OmegaWiki Defined Meaning: "2562"
-IAB code: "1223"
-M49 code: "003"
+OmegaWiki_Defined_Meaning: 2562
+IAB_code: 1223
+M49_code: 003
 population: 613150000
-PM20 geo code: E2
-number of out-of-school children: 9399756
-coordinates of easternmost point: Point(-52.619444444 47.523611111)
-geoshape: http://commons.wikimedia.org/data/main/Data:North+America+Flickr.map
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Canyon-banner2.jpg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20North%20America.svg
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/North%20America%20laea%20location%20map.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20America%20satellite%20orthographic.jpg
-Basisklassifikation: "74.25"
-UMLS CUI: C0028405
-Wolfram Language entity code: Entity["HistoricalCountry", "NorthAmerica"]
-Archive of Our Own tag: North America
+PM20_geo_code: E2
+number_of_out-of-school_children: 9399756
+coordinates_of_easternmost_point: "Point(-52.619444444 47.523611111)"
+geoshape: "http://commons.wikimedia.org/data/main/Data:North+America+Flickr.map"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Canyon-banner2.jpg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20North%20America.svg"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/North%20America%20laea%20location%20map.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/North%20America%20satellite%20orthographic.jpg"
+Basisklassifikation: 74.25
+UMLS_CUI: C0028405
+Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"NorthAmerica\"]"
+Archive_of_Our_Own_tag: "North America"
 ---
-
 
 ```leaflet
 id: North-America

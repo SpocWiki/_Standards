@@ -1,34 +1,33 @@
----
+﻿---
 has_id_wikidata: Q1566
-has effect: "[[_Standards/WikiData/WD~tobacco use disorder,152100]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~stimulant,211036]]"
-  - "[[_Standards/WikiData/WD~commodity,317088]]"
-  - "[[_Standards/WikiData/WD~produce,1913301]]"
-different from:
-  - "[[_Standards/WikiData/WD~Tabac,264459]]"
-  - "[[_Standards/WikiData/WD~Tabacco,7672854]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-has part(s): "[[_Standards/WikiData/WD~tobacco leaf,111130823]]"
-CAS Registry Number: 8037-19-2
-OpenStreetMap tag or key: Key:tobacco
-IPTC NewsCode: mediatopic/20000330
-Provenio UUID: e9b3dc2f-ee4b-4784-af8f-dcb436130b48
-water footprint: 2925
-Nomenclature for Museum Cataloging: "2983"
-OmegaWiki Defined Meaning: "3785"
-Iconclass notation: 41C74
-Colon Classification: J456
-U.S. National Archives Identifier: "10643339"
-Commons gallery: Tobacco
-Commons category: Tobacco
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tabak%209290019.JPG
+has_effect: "[[_Standards/WikiData/WD~tobacco use disorder,152100]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~stimulant,211036]]'
+- '[[_Standards/WikiData/WD~commodity,317088]]'
+- '[[_Standards/WikiData/WD~produce,1913301]]'
+different_from:
+- '[[_Standards/WikiData/WD~Tabac,264459]]'
+- '[[_Standards/WikiData/WD~Tabacco,7672854]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+has_part_s_: "[[_Standards/WikiData/WD~tobacco leaf,111130823]]"
+CAS_Registry_Number: 8037-19-2
+OpenStreetMap_tag_or_key: "Key:tobacco"
+IPTC_NewsCode: mediatopic/20000330
+Provenio_UUID: e9b3dc2f-ee4b-4784-af8f-dcb436130b48
+water_footprint: 2925
+Nomenclature_for_Museum_Cataloging: 2983
+OmegaWiki_Defined_Meaning: 3785
+Iconclass_notation: 41C74
+Colon_Classification: J456
+U_S_National_Archives_Identifier: 10643339
+Commons_gallery: Tobacco
+Commons_category: Tobacco
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tabak%209290019.JPG"
 ---
-
 
 ## #has_/text_of_/abstract 
 

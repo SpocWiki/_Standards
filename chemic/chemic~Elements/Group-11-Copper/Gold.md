@@ -1,104 +1,105 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 17995
 has_id_wikidata: Q897
-different from:
-  - "[[_Standards/WikiData/WD~Au,106901]]"
-  - "[[_Standards/WikiData/WD~Or,223822]]"
-  - "[[_Standards/WikiData/WD~Oro,226229]]"
-  - "[[_Standards/WikiData/WD~Gold,228391]]"
-  - "[[_Standards/WikiData/WD~Gull,243459]]"
-  - "[[_Standards/WikiData/WD~Mas,350082]]"
-  - "[[_Standards/WikiData/WD~Oru,355663]]"
-  - "[[_Standards/WikiData/WD~Ouro,1039080]]"
-  - "[[_Standards/WikiData/WD~Emas,1334908]]"
-  - "[[_Standards/WikiData/WD~Goud,2619585]]"
-  - "[[_Standards/WikiData/WD~Gowd,5590004]]"
-  - "[[_Standards/WikiData/WD~Vàng,9393441]]"
-  - "[[_Standards/WikiData/WD~Guld,18450732]]"
-  - "[[_Standards/WikiData/WD~Ginto,20554459]]"
-  - "[[_Standards/WikiData/WD~Złoto,28863780]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 11,185870]]"
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-instance of:
-  - "[[_Standards/WikiData/WD~allergen,186752]]"
-  - "[[_Standards/WikiData/WD~precious metal,271449]]"
-  - "[[_Standards/WikiData/WD~metallic material,1924900]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-medical condition treated: "[[_Standards/WikiData/WD~rheumatoid arthritis,187255]]"
-color: "[[_Standards/WikiData/WD~gold,208045]]"
-crystal system: "[[_Standards/WikiData/WD~cubic crystal system,473227]]"
-subclass of: "[[_Standards/WikiData/WD~noble metal,585302]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Gold,84671735]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828621,22828621]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
-time of discovery or invention: -6000-01-01T00:00:00Z
-discoverer or inventor: http://www.wikidata.org/.well-known/genid/1a9eb9f7d2e410c81adc8f43484355f4
-video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20crystallization%20phenomenon%20when%20liquid%20gold%20solidifies%20is%20full%20of%20dendrites..webm
-Mohs' hardness: 3
-Poisson's ratio: 0.4
-ultimate tensile strength: 120
-total produced: 3300
-ionic radius:
-  - 0.64
-  - 0.85
-  - 1.37
-tensile modulus of elasticity:
-  - 78
-  - 79
-atomic number: 79
-thermal diffusivity: 127
-speed of sound: 2030
+different_from:
+- '[[_Standards/WikiData/WD~Au,106901]]'
+- '[[_Standards/WikiData/WD~Or,223822]]'
+- '[[_Standards/WikiData/WD~Oro,226229]]'
+- '[[_Standards/WikiData/WD~Gold,228391]]'
+- '[[_Standards/WikiData/WD~Gull,243459]]'
+- '[[_Standards/WikiData/WD~Mas,350082]]'
+- '[[_Standards/WikiData/WD~Oru,355663]]'
+- '[[_Standards/WikiData/WD~Ouro,1039080]]'
+- '[[_Standards/WikiData/WD~Emas,1334908]]'
+- '[[_Standards/WikiData/WD~Goud,2619585]]'
+- '[[_Standards/WikiData/WD~Gowd,5590004]]'
+- '[[_Standards/WikiData/WD~Vàng,9393441]]'
+- '[[_Standards/WikiData/WD~Guld,18450732]]'
+- '[[_Standards/WikiData/WD~Ginto,20554459]]'
+- '[[_Standards/WikiData/WD~Złoto,28863780]]'
+part_of:
+- "[[_Standards/WikiData/WD~group 11,185870]]"
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+instance_of:
+- '[[_Standards/WikiData/WD~allergen,186752]]'
+- "[[_Standards/WikiData/WD~precious metal,271449]]"
+- "[[_Standards/WikiData/WD~metallic material,1924900]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~rheumatoid arthritis,187255]]"
+color: '[[_Standards/WikiData/WD~gold,208045]]'
+crystal_system: "[[_Standards/WikiData/WD~cubic crystal system,473227]]"
+subclass_of: "[[_Standards/WikiData/WD~noble metal,585302]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- '[[_Standards/WikiData/WD~Gold,84671735]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828621,22828621]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
+time_of_discovery_or_invention: "-6000-01-01T00:00:00Z"
+discoverer_or_inventor: "http://www.wikidata.org/.well-known/genid/1a9eb9f7d2e410c81adc8f43484355f4"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20crystallization%20phenomenon%20when%20liquid%20gold%20solidifies%20is%20full%20of%20dendrites..webm"
+Mohs_hardness: 3
+Poisson_s_ratio: 0.4
+ultimate_tensile_strength: 120
+total_produced: 3300
+ionic_radius:
+- 0.64
+- 0.85
+- 1.37
+tensile_modulus_of_elasticity:
+- 78
+- 79
+atomic_number: 79
+thermal_diffusivity: 127
+speed_of_sound: 2030
 electronegativity: 2.54
-boiling point: 2940
-thermal conductivity: 318
-electrical conductivity: 45200000
-specific heat capacity: 129.1
+boiling_point: 2940
+thermal_conductivity: 318
+electrical_conductivity: 45200000
+specific_heat_capacity: 129.1
 density: 19.32
-OmegaWiki Defined Meaning: "5912"
-CosIng number: "32827"
-ZVG number: "8480"
-melting point: 1064.18
-PubChem CID: "23985"
-Commons gallery: Gold
-Commons category: Gold
-chemical formula: Au
-element symbol: Au
-Unicode character: 金
-E number: E175
+OmegaWiki_Defined_Meaning: 5912
+CosIng_number: 32827
+ZVG_number: 8480
+melting_point: 1064.18
+PubChem_CID: 23985
+Commons_gallery: Gold
+Commons_category: Gold
+chemical_formula: Au
+element_symbol: Au
+Unicode_character: 金
+E_number: E175
 price: 47784.69
-Thomson Reuters Business Classification: "51201060"
+Thomson_Reuters_Business_Classification: 51201060
 mass: 196.96657
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Illegal%20Mining%2C%20Peru%2C%202017-01-20%20by%20Planet%20Labs.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Gold-crystals.jpg
-canonical SMILES: "[Au]"
-UNSPSC Code: "11101801"
-EC number: 231-165-9
-CAS Registry Number: 7440-57-5
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Illegal%20Mining%2C%20Peru%2C%202017-01-20%20by%20Planet%20Labs.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gold-crystals.jpg"
+canonical_SMILES: '[Au]'
+UNSPSC_Code: 11101801
+EC_number: 231-165-9
+CAS_Registry_Number: 7440-57-5
 UNII: 79Y1949PYO
-UMLS CUI: C0018026
-MeSH tree code:
-  - D01.268.556.322
-  - D01.268.956.186
-  - D01.552.544.322
-DSSTOX compound identifier: DTXCID0047662
-Wolfram Language entity code: Entity["Mineral", "Gold"]
+UMLS_CUI: C0018026
+MeSH_tree_code:
+- D01.268.556.322
+- D01.268.956.186
+- D01.552.544.322
+DSSTOX_compound_identifier: DTXCID0047662
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Gold\"]"
 InChI: InChI=1S/Au
-Krugosvet article: nauka_i_tehnika/himiya/ZOLOTO.html
+Krugosvet_article: nauka_i_tehnika/himiya/ZOLOTO.html
 InChIKey: PCHJSUWPFVWCPO-UHFFFAOYSA-N
-OpenStreetMap tag or key: Tag:resource=gold
+OpenStreetMap_tag_or_key: "Tag:resource=gold"
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Gold,897]] 
 

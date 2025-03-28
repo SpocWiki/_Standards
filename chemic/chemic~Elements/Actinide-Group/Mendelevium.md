@@ -1,42 +1,42 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21996
 has_id_wikidata: Q1898
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-instance of:
-  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox mendelevium,8085394]]"
-UMLS CUI: C0025275
-named after: "[[_Standards/WikiData/WD~Dmitri Mendeleev,9106]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+instance_of:
+- "[[_Standards/WikiData/WD~synthetic element,755992]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox mendelevium,8085394]]"
+UMLS_CUI: C0025275
+named_after: "[[_Standards/WikiData/WD~Dmitri Mendeleev,9106]]"
 electronegativity: 1.3
-atomic number: 101
-discoverer or inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
-PubChem CID: "23943"
-chemical formula: Md
-element symbol: Md
-OmegaWiki Defined Meaning: "335094"
-Unicode character: 鍆
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20101%20Mendelevium.svg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-mend%C3%A9l%C3%A9vium.wav
-canonical SMILES: "[Md]"
-CAS Registry Number: 7440-11-1
-MeSH tree code:
-  - D01.268.271.100.525
-  - D01.268.556.494
-  - D01.496.749.305.100.525
-  - D01.552.020.561
-  - D01.552.544.494
-DSSTOX compound identifier: DTXCID90147877
+atomic_number: 101
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+PubChem_CID: 23943
+chemical_formula: Md
+element_symbol: Md
+OmegaWiki_Defined_Meaning: 335094
+Unicode_character: 鍆
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20101%20Mendelevium.svg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-mend%C3%A9l%C3%A9vium.wav"
+canonical_SMILES: '[Md]'
+CAS_Registry_Number: 7440-11-1
+MeSH_tree_code:
+- D01.268.271.100.525
+- D01.268.556.494
+- D01.496.749.305.100.525
+- D01.552.020.561
+- D01.552.544.494
+DSSTOX_compound_identifier: DTXCID90147877
 InChI: InChI=1S/Md
 UNII: LW3E571O0Z
-Commons gallery: Mendelevium
-Commons category: Mendelevium
+Commons_gallery: Mendelevium
+Commons_category: Mendelevium
 InChIKey: MQVSLOYRCXQRPM-UHFFFAOYSA-N
-time of discovery or invention: 1955-01-01T00:00:00Z
+time_of_discovery_or_invention: "1955-01-01T00:00:00Z"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Mendelevium,1898]] 

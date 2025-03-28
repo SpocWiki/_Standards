@@ -1,26 +1,25 @@
----
+﻿---
 has_id_wikidata: Q12485
-has effect: "[[_Standards/WikiData/WD~invariant,188211]]"
-opposite of: "[[_Standards/WikiData/WD~asymmetry,752641]]"
-subclass of: "[[_Standards/WikiData/WD~property,937228]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Simetria.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Br%C3%BCgge-Liebfrauenkirche-Prunkgr%C3%A4ber%20DSC0166.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%AA%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AF.wav
+has_effect: '[[_Standards/WikiData/WD~invariant,188211]]'
+opposite_of: '[[_Standards/WikiData/WD~asymmetry,752641]]'
+subclass_of: '[[_Standards/WikiData/WD~property,937228]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Simetria.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Br%C3%BCgge-Liebfrauenkirche-Prunkgr%C3%A4ber%20DSC0166.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%AA%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AF.wav"
 hashtag:
-  - Symmetrie
-  - Symmetry
-different from: "[[_Standards/WikiData/WD~symmetry,29892597]]"
-instance of: "[[_Standards/WikiData/WD~type of property,96253971]]"
-OmegaWiki Defined Meaning: "835216"
-Commons gallery: Symmetry
-Commons category: Symmetry
+- Symmetrie
+- Symmetry
+different_from: '[[_Standards/WikiData/WD~symmetry,29892597]]'
+instance_of: "[[_Standards/WikiData/WD~type of property,96253971]]"
+OmegaWiki_Defined_Meaning: 835216
+Commons_gallery: Symmetry
+Commons_category: Symmetry
 ---
-
 
 ## #has_/text_of_/abstract 
 

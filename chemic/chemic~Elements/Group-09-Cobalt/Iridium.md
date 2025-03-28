@@ -1,60 +1,61 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21973
 has_id_wikidata: Q877
-named after: "[[_Standards/WikiData/WD~Iris,184570]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 9,208107]]"
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-subclass of: "[[_Standards/WikiData/WD~platinum group,223995]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Smithson Tennant,377800]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Iridium,108310061]]"
-different from:
-  - "[[_Standards/WikiData/WD~Q11714083,11714083]]"
-  - "[[_Standards/WikiData/WD~indium,1094]]"
-topic's main category: "[[_Standards/WikiData/WD~Q18200788,18200788]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20foil.jpg
-EC number: 231-095-9
+named_after: '[[_Standards/WikiData/WD~Iris,184570]]'
+part_of:
+- "[[_Standards/WikiData/WD~group 9,208107]]"
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+subclass_of: "[[_Standards/WikiData/WD~platinum group,223995]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Smithson Tennant,377800]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Iridium,108310061]]'
+different_from:
+- '[[_Standards/WikiData/WD~Q11714083,11714083]]'
+- '[[_Standards/WikiData/WD~indium,1094]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q18200788,18200788]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20foil.jpg"
+EC_number: 231-095-9
 UNII: 44448S9773
-CAS Registry Number: 7439-88-5
-MeSH tree code:
-  - D01.268.556.401
-  - D01.268.956.280
-  - D01.552.544.401
-DSSTOX compound identifier: DTXCID8047636
-Wolfram Language entity code: Entity["Mineral", "Iridium"]
+CAS_Registry_Number: 7439-88-5
+MeSH_tree_code:
+- D01.268.556.401
+- D01.268.956.280
+- D01.552.544.401
+DSSTOX_compound_identifier: DTXCID8047636
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Iridium\"]"
 InChIKey: GKOZUEZYRPOHIO-UHFFFAOYSA-N
 InChI: InChI=1S/Ir
-Unicode character: 銥
-UMLS CUI: C0022071
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20sheets%20rolled%20after%20smelting.webm
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-location of discovery: "[[_Standards/WikiData/WD~London,84]]"
+Unicode_character: 銥
+UMLS_CUI: C0022071
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20sheets%20rolled%20after%20smelting.webm"
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+location_of_discovery: '[[_Standards/WikiData/WD~London,84]]'
 electronegativity: 2.2
-ionic radius:
-  - 0.57
-  - 0.63
-  - 0.68
-atomic number: 77
-ZVG number: "8460"
-PubChem CID: "23924"
+ionic_radius:
+- 0.57
+- 0.63
+- 0.68
+atomic_number: 77
+ZVG_number: 8460
+PubChem_CID: 23924
 mass: 192.217
-chemical formula: Ir
-element symbol: Ir
-OmegaWiki Defined Meaning: "160503"
-CPV Supplementary code: AA28
-Commons gallery: Iridium
-Commons category: Iridium
-time of discovery or invention: 1803-01-01T00:00:00Z
-canonical SMILES: "[Ir]"
-Common Procurement Vocabulary code: "14761000"
+chemical_formula: Ir
+element_symbol: Ir
+OmegaWiki_Defined_Meaning: 160503
+CPV_Supplementary_code: AA28
+Commons_gallery: Iridium
+Commons_category: Iridium
+time_of_discovery_or_invention: "1803-01-01T00:00:00Z"
+canonical_SMILES: '[Ir]'
+Common_Procurement_Vocabulary_code: 14761000
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Iridium,877]] 
 

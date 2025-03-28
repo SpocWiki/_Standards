@@ -1,70 +1,71 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21968
 has_id_wikidata: Q1119
 InChIKey: VBJZVLUMGGDVMO-UHFFFAOYSA-N
 UNII: X71938L1DO
-time of discovery or invention: 1922-01-01T00:00:00Z
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~George de Hevesy,76951]]"
-  - "[[_Standards/WikiData/WD~Dirk Coster,775969]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 4,189302]]"
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-associated hazard: "[[_Standards/WikiData/WD~hafnium exposure,21088855]]"
-has effect: "[[_Standards/WikiData/WD~hafnium exposure,21088855]]"
-UMLS CUI: C0018488
-Common Procurement Vocabulary code:
-  - 14753000-4
-  - "14753000"
-named after: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
-subclass of: "[[_Standards/WikiData/WD~transition metal,19588]]"
-location of discovery: "[[_Standards/WikiData/WD~Denmark,35]]"
-vapor pressure: 0
+time_of_discovery_or_invention: "1922-01-01T00:00:00Z"
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~George de Hevesy,76951]]"
+- "[[_Standards/WikiData/WD~Dirk Coster,775969]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 4,189302]]"
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+associated_hazard: "[[_Standards/WikiData/WD~hafnium exposure,21088855]]"
+has_effect: "[[_Standards/WikiData/WD~hafnium exposure,21088855]]"
+UMLS_CUI: C0018488
+Common_Procurement_Vocabulary_code:
+- 14753000-4
+- 14753000
+named_after: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+subclass_of: "[[_Standards/WikiData/WD~transition metal,19588]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Denmark,35]]'
+vapor_pressure: 0
 electronegativity: 1
-oxidation state: 4
-immediately dangerous to life or health: 50
-time-weighted average exposure limit: 0.5
+oxidation_state: 4
+immediately_dangerous_to_life_or_health: 50
+time-weighted_average_exposure_limit: 0.5
 density: 13
-ionic radius:
-  - 0.58
-  - 0.71
-  - 0.83
-atomic number: 72
-melting point: 4041
-boiling point: 8316
-ZVG number: "7720"
+ionic_radius:
+- 0.58
+- 0.71
+- 0.83
+atomic_number: 72
+melting_point: 4041
+boiling_point: 8316
+ZVG_number: 7720
 mass: 178.486
-chemical formula: Hf
-element symbol: Hf
-OmegaWiki Defined Meaning: "159925"
-PubChem CID: "23986"
-Unicode character: 鉿
-CPV Supplementary code: AA25
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Hafnium.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Hf-crystal%20bar.jpg
-canonical SMILES: "[Hf]"
-electron configuration: "[Xe] 4f¹⁴ 5d² 6s²"
-EC number: 231-166-4
-Dewey Decimal Classification: "546.514"
-CAS Registry Number: 7440-58-6
-MeSH tree code:
-  - D01.268.556.337
-  - D01.268.956.249
-  - D01.552.544.337
-DSSTOX compound identifier: DTXCID5047663
-Commons gallery: Hafnium
-Commons category: Hafnium
+chemical_formula: Hf
+element_symbol: Hf
+OmegaWiki_Defined_Meaning: 159925
+PubChem_CID: 23986
+Unicode_character: 鉿
+CPV_Supplementary_code: AA25
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Hafnium.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hf-crystal%20bar.jpg"
+canonical_SMILES: '[Hf]'
+electron_configuration: "[Xe] 4f¹⁴ 5d² 6s²"
+EC_number: 231-166-4
+Dewey_Decimal_Classification: 546.514
+CAS_Registry_Number: 7440-58-6
+MeSH_tree_code:
+- D01.268.556.337
+- D01.268.956.249
+- D01.552.544.337
+DSSTOX_compound_identifier: DTXCID5047663
+Commons_gallery: Hafnium
+Commons_category: Hafnium
 InChI: InChI=1S/Hf
-RTECS number: MG4600000
+RTECS_number: MG4600000
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Hafnium,1119]] 
 

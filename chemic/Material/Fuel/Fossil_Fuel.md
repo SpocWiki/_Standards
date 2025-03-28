@@ -1,33 +1,32 @@
----
+﻿---
 has_id_wikidata: Q12748
-studied in: "[[_Standards/WikiData/WD~economic geology,853915]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~mineral resource,889659]]"
-  - "[[_Standards/WikiData/WD~non-renewable resource,936791]]"
-  - "[[_Standards/WikiData/WD~energy source,1522115]]"
-  - "[[_Standards/WikiData/WD~fuel,42501]]"
-described by source: "[[_Standards/WikiData/WD~Mala hirnycha encyclopædia,1270052]]"
-made from material: "[[_Standards/WikiData/WD~organic matter,1783121]]"
-replaced by:
-  - "[[_Standards/WikiData/WD~sustainable energy,1962383]]"
-  - "[[_Standards/WikiData/WD~renewable energy,12705]]"
-has use: "[[_Standards/WikiData/WD~nonrenewable energy,2632167]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance of: "[[_Standards/WikiData/WD~type of natural resource,131700004]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Combustibles%20fossiles.png
-UMLS CUI: C0016613
-OmegaWiki Defined Meaning: "1555"
-Commons category: Fossil fuels
-U.S. National Archives Identifier: "10636986"
+studied_in: "[[_Standards/WikiData/WD~economic geology,853915]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~mineral resource,889659]]"
+- "[[_Standards/WikiData/WD~non-renewable resource,936791]]"
+- "[[_Standards/WikiData/WD~energy source,1522115]]"
+- '[[_Standards/WikiData/WD~fuel,42501]]'
+described_by_source: "[[_Standards/WikiData/WD~Mala hirnycha encyclopædia,1270052]]"
+made_from_material: "[[_Standards/WikiData/WD~organic matter,1783121]]"
+replaced_by:
+- "[[_Standards/WikiData/WD~sustainable energy,1962383]]"
+- "[[_Standards/WikiData/WD~renewable energy,12705]]"
+has_use: "[[_Standards/WikiData/WD~nonrenewable energy,2632167]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~type of natural resource,131700004]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Combustibles%20fossiles.png"
+UMLS_CUI: C0016613
+OmegaWiki_Defined_Meaning: 1555
+Commons_category: "Fossil fuels"
+U_S_National_Archives_Identifier: 10636986
 subreddit: Penetration
-Common Procurement Vocabulary code: "09111300"
-MeSH tree code:
-  - D20.345
-  - N06.230.132.258
+Common_Procurement_Vocabulary_code: 09111300
+MeSH_tree_code:
+- D20.345
+- N06.230.132.258
 hashtag: fossilfuels
 ---
-
 
 ## #has_/text_of_/abstract 
 

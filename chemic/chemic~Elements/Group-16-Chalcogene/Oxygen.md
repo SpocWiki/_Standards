@@ -1,85 +1,85 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21910
 has_id_wikidata: Q629
-discoverer or inventor: "[[_Standards/WikiData/WD~Carl Wilhelm Scheele,70538]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 16,104567]]"
-  - "[[_Standards/WikiData/WD~period 2,207712]]"
-  - "[[_Standards/WikiData/WD~oxygen carrier activity,14819284]]"
-  - "[[_Standards/WikiData/WD~oxygen gasoreceptor activity,21110130]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~group 16,104567]]"
-  - "[[_Standards/WikiData/WD~oxidizing agent,187689]]"
-has use: "[[_Standards/WikiData/WD~food additive,189567]]"
-opposite of: "[[_Standards/WikiData/WD~phlogiston,193353]]"
-different from:
-  - "[[_Standards/WikiData/WD~Oxygen,296933]]"
-  - "[[_Standards/WikiData/WD~dioxygen,5203615]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Oxygen,108309474]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
-  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
-  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27136445,27136445]]"
-has part(s): "[[_Standards/WikiData/WD~oxygen atom,47195191]]"
-MeSH tree code:
-  - D01.362.670
-  - D01.268.185.550
-named after: "[[_Standards/WikiData/WD~acid,11158]]"
-location of discovery: "[[_Standards/WikiData/WD~Sweden,34]]"
-oxidation state:
-  - -2
-  - -1
-  - 1
-  - 2
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Wilhelm Scheele,70538]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 16,104567]]"
+- "[[_Standards/WikiData/WD~period 2,207712]]"
+- "[[_Standards/WikiData/WD~oxygen carrier activity,14819284]]"
+- "[[_Standards/WikiData/WD~oxygen gasoreceptor activity,21110130]]"
+- '[[_Standards/WikiData/WD~water,283]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~group 16,104567]]"
+- "[[_Standards/WikiData/WD~oxidizing agent,187689]]"
+has_use: "[[_Standards/WikiData/WD~food additive,189567]]"
+opposite_of: '[[_Standards/WikiData/WD~phlogiston,193353]]'
+different_from:
+- '[[_Standards/WikiData/WD~Oxygen,296933]]'
+- '[[_Standards/WikiData/WD~dioxygen,5203615]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- '[[_Standards/WikiData/WD~Oxygen,108309474]]'
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+has_characteristic:
+- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27136445,27136445]]'
+has_part_s_: "[[_Standards/WikiData/WD~oxygen atom,47195191]]"
+MeSH_tree_code:
+- D01.362.670
+- D01.268.185.550
+named_after: '[[_Standards/WikiData/WD~acid,11158]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Sweden,34]]'
+oxidation_state:
+- -2
+- -1
+- 1
+- 2
 frequency: 60
 radius:
-  - 60
-  - 48
-  - 73
-  - 152
-atomic number: 8
-ionic radius:
-  - 1.4
-  - 1.21
-  - 142
+- 60
+- 48
+- 73
+- 152
+atomic_number: 8
+ionic_radius:
+- 1.4
+- 1.21
+- 142
 electronegativity: 3.44
-ionization energy:
-  - 1313.9
-  - 3388.3
-  - 5300.5
-  - 7469.2
+ionization_energy:
+- 1313.9
+- 3388.3
+- 5300.5
+- 7469.2
 mass: 15.999
-Commons gallery: Oxygen
-Commons category: Oxygen
-OmegaWiki Defined Meaning: "2698"
-element symbol: O
-CAS Registry Number: 17778-80-2
-E number: E948
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/8%20oxygen%20%28O%29%20Bohr%20model.png
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-oxygen-article.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20oxygen%20in%20a%20beaker%204.jpg
-electron configuration:
-  - "[He] 2s² 2p⁴"
-  - 1s² 2s² 2p⁴
-UNSPSC Code: "12141904"
-Krugosvet article: himiya/kislorod
-ATC code: V03AN01
-Unicode character: 氧
-time of discovery or invention: 1774-01-01T00:00:00Z
+Commons_gallery: Oxygen
+Commons_category: Oxygen
+OmegaWiki_Defined_Meaning: 2698
+element_symbol: O
+CAS_Registry_Number: 17778-80-2
+E_number: E948
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/8%20oxygen%20%28O%29%20Bohr%20model.png"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-oxygen-article.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20oxygen%20in%20a%20beaker%204.jpg"
+electron_configuration:
+- "[He] 2s² 2p⁴"
+- "1s² 2s² 2p⁴"
+UNSPSC_Code: 12141904
+Krugosvet_article: himiya/kislorod
+ATC_code: V03AN01
+Unicode_character: 氧
+time_of_discovery_or_invention: "1774-01-01T00:00:00Z"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Oxygen,629]] 

@@ -1,33 +1,32 @@
----
+﻿---
 has_id_wikidata: Q11430
-is metaclass for: "[[_Standards/WikiData/WD~phase,104837]]"
-different from:
-  - "[[_Standards/WikiData/WD~phase,104837]]"
-  - "[[_Standards/WikiData/WD~physical quantity,107715]]"
-part of: "[[_Standards/WikiData/WD~phase,104837]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Technical Encyclopedia, 1st edition,20078551]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-has list: "[[_Standards/WikiData/WD~list of states of matter,3271631]]"
-instance of:
-  - "[[_Standards/WikiData/WD~physical property,4373292]]"
-  - "[[_Standards/WikiData/WD~metaclass,19478619]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_States of matter,6147219]]"
-subclass of: "[[_Standards/WikiData/WD~type,21146257]]"
-disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-Wolfram Language entity type: MatterPhase
-Wikidata property: phase of matter
-OmegaWiki Defined Meaning: "3614"
-Dewey Decimal Classification: "530.4"
+is_metaclass_for: '[[_Standards/WikiData/WD~phase,104837]]'
+different_from:
+- '[[_Standards/WikiData/WD~phase,104837]]'
+- "[[_Standards/WikiData/WD~physical quantity,107715]]"
+part_of: '[[_Standards/WikiData/WD~phase,104837]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Technical Encyclopedia, 1st edition,20078551]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+has_list: "[[_Standards/WikiData/WD~list of states of matter,3271631]]"
+instance_of:
+- "[[_Standards/WikiData/WD~physical property,4373292]]"
+- '[[_Standards/WikiData/WD~metaclass,19478619]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_States of matter,6147219]]"
+subclass_of: '[[_Standards/WikiData/WD~type,21146257]]'
+disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+Wolfram_Language_entity_type: MatterPhase
+Wikidata_property: "phase of matter"
+OmegaWiki_Defined_Meaning: 3614
+Dewey_Decimal_Classification: 530.4
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Physics%20matter%20state%20transition%201%20en.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20change%20-%20en.svg
-Iconclass notation: 22A31
-Commons category: States of aggregation
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Physics%20matter%20state%20transition%201%20en.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20change%20-%20en.svg"
+Iconclass_notation: 22A31
+Commons_category: "States of aggregation"
 ---
-
 
 ## #has_/text_of_/abstract 
 

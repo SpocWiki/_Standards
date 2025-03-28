@@ -1,48 +1,47 @@
----
+﻿---
 has_id_wikidata: Q872
-has part(s):
-  - "[[_Standards/WikiData/WD~antenna,131214]]"
-  - "[[_Standards/WikiData/WD~radio receiver,159391]]"
-  - "[[_Standards/WikiData/WD~transmitter,190157]]"
-  - "[[_Standards/WikiData/WD~modulator,1942300]]"
-different from:
-  - "[[_Standards/WikiData/WD~radio receiver,159391]]"
-  - "[[_Standards/WikiData/WD~radio broadcasting,273623]]"
-  - "[[_Standards/WikiData/WD~broadcasting service,109680674]]"
-instance of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~technology,11016]]"
-history of topic:
-  - "[[_Standards/WikiData/WD~history of radio,1517374]]"
-  - "[[_Standards/WikiData/WD~timeline of radio,4501817]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of radio,7112714]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27131928,27131928]]"
-time of discovery or invention: 1894-01-01T00:00:00Z
-UMLS CUI: C0034546
-MeSH tree code:
-  - L01.462.500.590.700
-  - L01.462.500.820.090.739
-  - L01.462.500.847.514
-  - J01.897.280.500.739
-subclass of: "[[_Standards/WikiData/WD~telecommunication,418]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Radio,50760]]"
-International Standard Industrial Classification code Rev.4: "6010"
-Library of Congress Classification:
-  - TK
-  - PN1991-1991.9
-Commons gallery: Radio
-Commons category: Radio
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Amfm3-en-de.gif
+has_part_s_:
+- '[[_Standards/WikiData/WD~antenna,131214]]'
+- "[[_Standards/WikiData/WD~radio receiver,159391]]"
+- '[[_Standards/WikiData/WD~transmitter,190157]]'
+- '[[_Standards/WikiData/WD~modulator,1942300]]'
+different_from:
+- "[[_Standards/WikiData/WD~radio receiver,159391]]"
+- "[[_Standards/WikiData/WD~radio broadcasting,273623]]"
+- "[[_Standards/WikiData/WD~broadcasting service,109680674]]"
+instance_of:
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~technology,11016]]'
+history_of_topic:
+- "[[_Standards/WikiData/WD~history of radio,1517374]]"
+- "[[_Standards/WikiData/WD~timeline of radio,4501817]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of radio,7112714]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131928,27131928]]'
+time_of_discovery_or_invention: "1894-01-01T00:00:00Z"
+UMLS_CUI: C0034546
+MeSH_tree_code:
+- L01.462.500.590.700
+- L01.462.500.820.090.739
+- L01.462.500.847.514
+- J01.897.280.500.739
+subclass_of: '[[_Standards/WikiData/WD~telecommunication,418]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Radio,50760]]'
+International_Standard_Industrial_Classification_code_Rev_4: 6010
+Library_of_Congress_Classification:
+- TK
+- PN1991-1991.9
+Commons_gallery: Radio
+Commons_category: Radio
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Amfm3-en-de.gif"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Biblis%20RFE%20RL%2001.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pasilan%20linkkitorni.jpg
-Basisklassifikation: "05.35"
-U.S. National Archives Identifier: "10644297"
-Iconclass notation: "46E63"
-Dewey Decimal Classification: "791.4"
-Krugosvet article: nauka_i_tehnika/transport_i_svyaz/RADIO_I_TELEVIDENIE.html
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Biblis%20RFE%20RL%2001.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Pasilan%20linkkitorni.jpg"
+Basisklassifikation: 05.35
+U_S_National_Archives_Identifier: 10644297
+Iconclass_notation: 46E63
+Dewey_Decimal_Classification: 791.4
+Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/RADIO_I_TELEVIDENIE.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

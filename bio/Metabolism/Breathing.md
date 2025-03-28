@@ -1,24 +1,23 @@
----
+﻿---
 has_id_wikidata: Q9530
-part of: "[[_Standards/WikiData/WD~respiration,472287]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~inhalation,840343]]"
-  - "[[_Standards/WikiData/WD~exhalation,2197000]]"
-subclass of: "[[_Standards/WikiData/WD~gas exchange,1146120]]"
-instance of: "[[_Standards/WikiData/WD~biological process,2996394]]"
-class of object(s) of occurrence: "[[_Standards/WikiData/WD~air,7391292]]"
-"product, material, or service produced or provided": "[[_Standards/WikiData/WD~breath,13428325]]"
-UMLS CUI: C0035203
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Diaphragmatic%20breathing.gif
-video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20wichtig%20ist%20tiefes%20Atmen.webm
-MeSH tree code: G09.772.705
-Krugosvet article: nauka_i_tehnika/biologiya/DIHANIE.html
-Commons category: Respiration
+part_of: '[[_Standards/WikiData/WD~respiration,472287]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~inhalation,840343]]'
+- '[[_Standards/WikiData/WD~exhalation,2197000]]'
+subclass_of: "[[_Standards/WikiData/WD~gas exchange,1146120]]"
+instance_of: "[[_Standards/WikiData/WD~biological process,2996394]]"
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~air,7391292]]'
+product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~breath,13428325]]'
+UMLS_CUI: C0035203
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Diaphragmatic%20breathing.gif"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/So%20wichtig%20ist%20tiefes%20Atmen.webm"
+MeSH_tree_code: G09.772.705
+Krugosvet_article: nauka_i_tehnika/biologiya/DIHANIE.html
+Commons_category: Respiration
 ---
-
 
 ## #has_/text_of_/abstract 
 

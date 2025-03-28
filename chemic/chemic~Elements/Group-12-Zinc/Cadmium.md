@@ -1,91 +1,92 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21945
 has_id_wikidata: Q1091
-Common Procurement Vocabulary code: "14751000"
-EC number: 231-152-8
-CAS Registry Number: 7440-43-9
+Common_Procurement_Vocabulary_code: 14751000
+EC_number: 231-152-8
+CAS_Registry_Number: 7440-43-9
 InChIKey: BDOSMKKIYDKNTQ-UHFFFAOYSA-N
-Commons category: Cadmium
-Commons gallery: Cadmium
-MeSH tree code:
-  - D01.268.556.137
-  - D01.268.956.061
-  - D01.552.544.137
-DSSTOX compound identifier: DTXCID303940
-Wolfram Language entity code: Entity["Mineral", "Cadmium"]
-RTECS number: EU9800000
+Commons_category: Cadmium
+Commons_gallery: Cadmium
+MeSH_tree_code:
+- D01.268.556.137
+- D01.268.956.061
+- D01.552.544.137
+DSSTOX_compound_identifier: DTXCID303940
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Cadmium\"]"
+RTECS_number: EU9800000
 InChI: InChI=1S/Cd
-Krugosvet article: nauka_i_tehnika/himiya/KADMI.html
-Unicode character: 鎘
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Karl Samuel Leberecht Hermann,69080]]"
-  - "[[_Standards/WikiData/WD~Friedrich Stromeyer,77309]]"
-has use:
-  - "[[_Standards/WikiData/WD~pigment,161179]]"
-  - "[[_Standards/WikiData/WD~photodetector,210765]]"
-  - "[[_Standards/WikiData/WD~nuclear poison,221033]]"
-  - "[[_Standards/WikiData/WD~nickel–cadmium battery,898377]]"
-  - "[[_Standards/WikiData/WD~helium–cadmium laser,1271190]]"
-  - "[[_Standards/WikiData/WD~quantum dot display,1969361]]"
-  - "[[_Standards/WikiData/WD~electroplating,3503392]]"
-  - "[[_Standards/WikiData/WD~Silver-cadmium battery,48798855]]"
-  - "[[_Standards/WikiData/WD~solar cell,58803]]"
-subject has role:
-  - "[[_Standards/WikiData/WD~carcinogen,187661]]"
-  - "[[_Standards/WikiData/WD~male reproductive toxicant,55427774]]"
-  - "[[_Standards/WikiData/WD~developmental toxicant,72941151]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 12,191875]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-made from material:
-  - "[[_Standards/WikiData/WD~fly ash,236139]]"
-  - "[[_Standards/WikiData/WD~greenockite,414138]]"
-  - "[[_Standards/WikiData/WD~zinc ore,12168819]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~post-transition metal,19591]]"
-  - "[[_Standards/WikiData/WD~transition metal,19588]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-found in taxon: "[[_Standards/WikiData/WD~Tedania charcoti,1809628]]"
-instance of:
-  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated hazard: "[[_Standards/WikiData/WD~cadmium poisoning,3153690]]"
-UMLS CUI: C0006632
-electron configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰
-  - "[Kr] 5s² 5d¹⁰"
-named after: "[[_Standards/WikiData/WD~Cadmus,27613]]"
-ionic radius:
-  - 1.1
-  - 0.78
-  - 0.95
-  - 1.31
-atomic number: 48
+Krugosvet_article: nauka_i_tehnika/himiya/KADMI.html
+Unicode_character: 鎘
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Karl Samuel Leberecht Hermann,69080]]"
+- "[[_Standards/WikiData/WD~Friedrich Stromeyer,77309]]"
+has_use:
+- '[[_Standards/WikiData/WD~pigment,161179]]'
+- '[[_Standards/WikiData/WD~photodetector,210765]]'
+- "[[_Standards/WikiData/WD~nuclear poison,221033]]"
+- "[[_Standards/WikiData/WD~nickel–cadmium battery,898377]]"
+- "[[_Standards/WikiData/WD~helium–cadmium laser,1271190]]"
+- "[[_Standards/WikiData/WD~quantum dot display,1969361]]"
+- '[[_Standards/WikiData/WD~electroplating,3503392]]'
+- "[[_Standards/WikiData/WD~Silver-cadmium battery,48798855]]"
+- "[[_Standards/WikiData/WD~solar cell,58803]]"
+subject_has_role:
+- '[[_Standards/WikiData/WD~carcinogen,187661]]'
+- "[[_Standards/WikiData/WD~male reproductive toxicant,55427774]]"
+- "[[_Standards/WikiData/WD~developmental toxicant,72941151]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 12,191875]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+made_from_material:
+- "[[_Standards/WikiData/WD~fly ash,236139]]"
+- '[[_Standards/WikiData/WD~greenockite,414138]]'
+- "[[_Standards/WikiData/WD~zinc ore,12168819]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+- "[[_Standards/WikiData/WD~transition metal,19588]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Tedania charcoti,1809628]]"
+instance_of:
+- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~cadmium poisoning,3153690]]"
+UMLS_CUI: C0006632
+electron_configuration:
+- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰"
+- "[Kr] 5s² 5d¹⁰"
+named_after: '[[_Standards/WikiData/WD~Cadmus,27613]]'
+ionic_radius:
+- 1.1
+- 0.78
+- 0.95
+- 1.31
+atomic_number: 48
 electronegativity: 1.69
 density: 8.65
-OmegaWiki Defined Meaning: "468"
-ZVG number:
-  - "8360"
-  - "535087"
+OmegaWiki_Defined_Meaning: 468
+ZVG_number:
+- 8360
+- 535087
 mass: 112.414
-PubChem CID: "23973"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Cadmium-crystal%20bar.jpg
-canonical SMILES: "[Cd]"
-chemical formula: Cd
-element symbol: Cd
-UNSPSC Code: "11101710"
-time of discovery or invention: 1817-01-01T00:00:00Z
-CPV Supplementary code: AA23
+PubChem_CID: 23973
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cadmium-crystal%20bar.jpg"
+canonical_SMILES: '[Cd]'
+chemical_formula: Cd
+element_symbol: Cd
+UNSPSC_Code: 11101710
+time_of_discovery_or_invention: "1817-01-01T00:00:00Z"
+CPV_Supplementary_code: AA23
 UNII: 00BH33GNGH
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Cadmium,1091]]  
 

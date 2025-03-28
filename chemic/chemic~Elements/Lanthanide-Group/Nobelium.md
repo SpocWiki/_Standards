@@ -1,45 +1,45 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21997
 has_id_wikidata: Q1901
-different from: "[[_Standards/WikiData/WD~Nobel,224138]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-instance of:
-  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox nobelium,8085379]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Elements,11165030]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q65411346,65411346]]"
-UMLS CUI: C0028237
-named after: "[[_Standards/WikiData/WD~Alfred Nobel,23810]]"
+different_from: '[[_Standards/WikiData/WD~Nobel,224138]]'
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+instance_of:
+- "[[_Standards/WikiData/WD~synthetic element,755992]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox nobelium,8085379]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Elements,11165030]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65411346,65411346]]'
+UMLS_CUI: C0028237
+named_after: "[[_Standards/WikiData/WD~Alfred Nobel,23810]]"
 electronegativity: 1.3
-atomic number: 102
-discoverer or inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
-PubChem CID: "24822"
-OmegaWiki Defined Meaning: "339858"
-chemical formula: No
-element symbol: No
-time of discovery or invention: 1958-01-01T00:00:00Z
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20102%20Nobelium.svg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-nob%C3%A9lium.wav
-canonical SMILES: "[No]"
-CAS Registry Number: 10028-14-5
+atomic_number: 102
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+PubChem_CID: 24822
+OmegaWiki_Defined_Meaning: 339858
+chemical_formula: No
+element_symbol: No
+time_of_discovery_or_invention: "1958-01-01T00:00:00Z"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20102%20Nobelium.svg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-nob%C3%A9lium.wav"
+canonical_SMILES: '[No]'
+CAS_Registry_Number: 10028-14-5
 UNII: 2ZRJ207R3E
-MeSH tree code:
-  - D01.268.271.100.575
-  - D01.268.556.620
-  - D01.496.749.305.100.575
-  - D01.552.020.659
-  - D01.552.544.620
-DSSTOX compound identifier: DTXCID8065585
+MeSH_tree_code:
+- D01.268.271.100.575
+- D01.268.556.620
+- D01.496.749.305.100.575
+- D01.552.020.659
+- D01.552.544.620
+DSSTOX_compound_identifier: DTXCID8065585
 InChI: InChI=1S/No
-Commons gallery: Nobelium
-Commons category: Nobelium
+Commons_gallery: Nobelium
+Commons_category: Nobelium
 InChIKey: ORQBXQOJMQIAOY-UHFFFAOYSA-N
-Unicode character: 鍩
+Unicode_character: 鍩
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Nobelium,1901]] 

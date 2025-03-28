@@ -1,52 +1,52 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21986
 has_id_wikidata: Q1109
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Kazimierz Fajans,213667]]"
-  - "[[_Standards/WikiData/WD~Lise Meitner,56189]]"
-  - "[[_Standards/WikiData/WD~Otto Hahn,57065]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox protactinium,8085338]]"
-found in taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
-UMLS CUI: C0033597
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20150.jpg
-named after: "[[_Standards/WikiData/WD~actinium,1121]]"
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Kazimierz Fajans,213667]]"
+- "[[_Standards/WikiData/WD~Lise Meitner,56189]]"
+- "[[_Standards/WikiData/WD~Otto Hahn,57065]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox protactinium,8085338]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
+UMLS_CUI: C0033597
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20150.jpg"
+named_after: '[[_Standards/WikiData/WD~actinium,1121]]'
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 electronegativity: 2
-ionic radius:
-  - 0.9
-  - 0.78
-  - 1.04
-atomic number: 91
-PubChem CID: "23945"
-chemical formula: Pa
-element symbol: Pa
-OmegaWiki Defined Meaning: "345414"
+ionic_radius:
+- 0.9
+- 0.78
+- 1.04
+atomic_number: 91
+PubChem_CID: 23945
+chemical_formula: Pa
+element_symbol: Pa
+OmegaWiki_Defined_Meaning: 345414
 mass: 231.03588
-Commons gallery: Protactinium
-Commons category: Protactinium
-Unicode character: 鏷
-time of discovery or invention: 1917-01-01T00:00:00Z
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-protactinium.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Protactinium-233.jpg
-canonical SMILES: "[Pa]"
+Commons_gallery: Protactinium
+Commons_category: Protactinium
+Unicode_character: 鏷
+time_of_discovery_or_invention: "1917-01-01T00:00:00Z"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-protactinium.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Protactinium-233.jpg"
+canonical_SMILES: '[Pa]'
 UNII: 0S6855V29M
-Dewey Decimal Classification:
-  - "546.423"
-  - "669.2924"
-EC number: 616-087-9
-CAS Registry Number: 7440-13-3
-MeSH tree code:
-  - D01.268.271.100.725
-  - D01.268.556.750
-  - D01.496.749.305.100.725
-  - D01.552.020.778
-  - D01.552.544.750
-DSSTOX compound identifier: DTXCID50147878
+Dewey_Decimal_Classification:
+- 546.423
+- 669.2924
+EC_number: 616-087-9
+CAS_Registry_Number: 7440-13-3
+MeSH_tree_code:
+- D01.268.271.100.725
+- D01.268.556.750
+- D01.496.749.305.100.725
+- D01.552.020.778
+- D01.552.544.750
+DSSTOX_compound_identifier: DTXCID50147878
 InChI: InChI=1S/Pa
 InChIKey: XLROVYAPLOFLNU-UHFFFAOYSA-N
 ---

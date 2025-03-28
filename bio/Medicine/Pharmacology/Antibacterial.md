@@ -1,31 +1,30 @@
----
+﻿---
 has_id_wikidata: Q12187
-subclass of:
-  - "[[_Standards/WikiData/WD~antimicrobial drug,178859]]"
-  - "[[_Standards/WikiData/WD~bactericide,804539]]"
-  - "[[_Standards/WikiData/WD~anti-infective agent,50377176]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
-has characteristic: "[[_Standards/WikiData/WD~antibiotic resistance,380775]]"
-different from: "[[_Standards/WikiData/WD~bactericide,804539]]"
-named after:
-  - "[[_Standards/WikiData/WD~anti-,12818226]]"
-  - "[[_Standards/WikiData/WD~life,3]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance of:
-  - "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-WordLift URL: http://data.wordlift.io/wl01714/entity/antibiotics
-OmegaWiki Defined Meaning: "209"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%95.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Staphylococcus%20aureus%20%28AB%20Test%29.jpg
+subclass_of:
+- "[[_Standards/WikiData/WD~antimicrobial drug,178859]]"
+- '[[_Standards/WikiData/WD~bactericide,804539]]'
+- "[[_Standards/WikiData/WD~anti-infective agent,50377176]]"
+- '[[_Standards/WikiData/WD~medication,12140]]'
+has_characteristic: "[[_Standards/WikiData/WD~antibiotic resistance,380775]]"
+different_from: '[[_Standards/WikiData/WD~bactericide,804539]]'
+named_after:
+- '[[_Standards/WikiData/WD~anti-,12818226]]'
+- '[[_Standards/WikiData/WD~life,3]]'
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+instance_of:
+- "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
+- '[[_Standards/WikiData/WD~medication,12140]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+WordLift_URL: "http://data.wordlift.io/wl01714/entity/antibiotics"
+OmegaWiki_Defined_Meaning: 209
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%95.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Staphylococcus%20aureus%20%28AB%20Test%29.jpg"
 subreddit: Antibiotics
-Commons category: Antibiotics
-UMLS CUI: C0003232
-MeSH tree code: D27.505.954.122.085
-Krugosvet article: nauka_i_tehnika/biologiya/ANTIBIOTIKI.html
+Commons_category: Antibiotics
+UMLS_CUI: C0003232
+MeSH_tree_code: D27.505.954.122.085
+Krugosvet_article: nauka_i_tehnika/biologiya/ANTIBIOTIKI.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

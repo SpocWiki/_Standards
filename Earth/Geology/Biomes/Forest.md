@@ -1,88 +1,87 @@
----
+﻿---
 has_id_wikidata: Q4421
-has part(s):
-  - "[[_Standards/WikiData/WD~taiga,69564]]"
-  - "[[_Standards/WikiData/WD~vegetation,187997]]"
-  - "[[_Standards/WikiData/WD~tropical forest,199403]]"
-  - "[[_Standards/WikiData/WD~high forest,238804]]"
-  - "[[_Standards/WikiData/WD~selection cutting,352238]]"
-  - "[[_Standards/WikiData/WD~Laurel forest,788099]]"
-  - "[[_Standards/WikiData/WD~stand,830373]]"
-  - "[[_Standards/WikiData/WD~tropical forest,1048194]]"
-  - "[[_Standards/WikiData/WD~coppicing,1360410]]"
-  - "[[_Standards/WikiData/WD~oak forest,2972109]]"
-  - "[[_Standards/WikiData/WD~mixed forest,3079086]]"
-  - "[[_Standards/WikiData/WD~temperate forest,3079197]]"
-  - "[[_Standards/WikiData/WD~Coppice,3514024]]"
-  - "[[_Standards/WikiData/WD~Q3514028,3514028]]"
-  - "[[_Standards/WikiData/WD~beech forest,11334401]]"
-  - "[[_Standards/WikiData/WD~spruce-fir forests,13561020]]"
-  - "[[_Standards/WikiData/WD~forest station,111340313]]"
-part of:
-  - "[[_Standards/WikiData/WD~biome,101998]]"
-  - "[[_Standards/WikiData/WD~biosphere,42762]]"
-  - "[[_Standards/WikiData/WD~natural environment,43619]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~biome,101998]]"
-  - "[[_Standards/WikiData/WD~geographical feature,618123]]"
-  - "[[_Standards/WikiData/WD~vegetational formation,2083910]]"
-  - "[[_Standards/WikiData/WD~natural geographic entity,27096220]]"
-  - "[[_Standards/WikiData/WD~ecosystem,37813]]"
-model item:
-  - "[[_Standards/WikiData/WD~Amazon rainforest,177567]]"
-  - "[[_Standards/WikiData/WD~Białowieża Forest,192666]]"
-  - "[[_Standards/WikiData/WD~Tongass National Forest,1502633]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Green Map Icons,103892210]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-different from:
-  - "[[_Standards/WikiData/WD~Forest,938229]]"
-  - "[[_Standards/WikiData/WD~woodland,3241565]]"
-has characteristic: "[[_Standards/WikiData/WD~geographic location,2221906]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox forest,10810677]]"
-instance of: "[[_Standards/WikiData/WD~feature type,12046615]]"
-studied in:
-  - "[[_Standards/WikiData/WD~forestry science,19924411]]"
-  - "[[_Standards/WikiData/WD~forest engineering,21655156]]"
-OpenStreetMap tag or key:
-  - Tag:landuse=forest
-  - Tag:natural=wood
-UMLS CUI: C0086312
-has part(s) of the class:
-  - "[[_Standards/WikiData/WD~plant,756]]"
-  - "[[_Standards/WikiData/WD~tree,10884]]"
-  - "[[_Standards/WikiData/WD~liana,14079]]"
-  - "[[_Standards/WikiData/WD~shrub,42295]]"
-properties for this type:
-  - area
-  - geoshape
-OmegaWiki Defined Meaning: "1533"
-Wolfram Language entity type: Forest
+has_part_s_:
+- '[[_Standards/WikiData/WD~taiga,69564]]'
+- '[[_Standards/WikiData/WD~vegetation,187997]]'
+- "[[_Standards/WikiData/WD~tropical forest,199403]]"
+- "[[_Standards/WikiData/WD~high forest,238804]]"
+- "[[_Standards/WikiData/WD~selection cutting,352238]]"
+- "[[_Standards/WikiData/WD~Laurel forest,788099]]"
+- '[[_Standards/WikiData/WD~stand,830373]]'
+- "[[_Standards/WikiData/WD~tropical forest,1048194]]"
+- '[[_Standards/WikiData/WD~coppicing,1360410]]'
+- "[[_Standards/WikiData/WD~oak forest,2972109]]"
+- "[[_Standards/WikiData/WD~mixed forest,3079086]]"
+- "[[_Standards/WikiData/WD~temperate forest,3079197]]"
+- '[[_Standards/WikiData/WD~Coppice,3514024]]'
+- '[[_Standards/WikiData/WD~Q3514028,3514028]]'
+- "[[_Standards/WikiData/WD~beech forest,11334401]]"
+- "[[_Standards/WikiData/WD~spruce-fir forests,13561020]]"
+- "[[_Standards/WikiData/WD~forest station,111340313]]"
+part_of:
+- '[[_Standards/WikiData/WD~biome,101998]]'
+- '[[_Standards/WikiData/WD~biosphere,42762]]'
+- "[[_Standards/WikiData/WD~natural environment,43619]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~biome,101998]]'
+- "[[_Standards/WikiData/WD~geographical feature,618123]]"
+- "[[_Standards/WikiData/WD~vegetational formation,2083910]]"
+- "[[_Standards/WikiData/WD~natural geographic entity,27096220]]"
+- '[[_Standards/WikiData/WD~ecosystem,37813]]'
+model_item:
+- "[[_Standards/WikiData/WD~Amazon rainforest,177567]]"
+- "[[_Standards/WikiData/WD~Białowieża Forest,192666]]"
+- "[[_Standards/WikiData/WD~Tongass National Forest,1502633]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Green Map Icons,103892210]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+different_from:
+- '[[_Standards/WikiData/WD~Forest,938229]]'
+- '[[_Standards/WikiData/WD~woodland,3241565]]'
+has_characteristic: "[[_Standards/WikiData/WD~geographic location,2221906]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox forest,10810677]]"
+instance_of: "[[_Standards/WikiData/WD~feature type,12046615]]"
+studied_in:
+- "[[_Standards/WikiData/WD~forestry science,19924411]]"
+- "[[_Standards/WikiData/WD~forest engineering,21655156]]"
+OpenStreetMap_tag_or_key:
+- "Tag:landuse=forest"
+- "Tag:natural=wood"
+UMLS_CUI: C0086312
+has_part_s_of_the_class:
+- '[[_Standards/WikiData/WD~plant,756]]'
+- '[[_Standards/WikiData/WD~tree,10884]]'
+- '[[_Standards/WikiData/WD~liana,14079]]'
+- '[[_Standards/WikiData/WD~shrub,42295]]'
+properties_for_this_type:
+- area
+- geoshape
+OmegaWiki_Defined_Meaning: 1533
+Wolfram_Language_entity_type: Forest
 subreddit: Forest
-Commons gallery: Forest
-Commons category: Forests
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Brussels%20Zonienwoud.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BB%D0%B5%D1%81%20%28%D0%BC%D1%83%D0%B6%20%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%29.ogg
-exact match: http://purl.obolibrary.org/obo/ENVO_00000111
-Krugosvet article: biologiya/les
-MeSH tree code:
-  - G16.500.275.157.437
-  - N06.230.124.343
-IPTC NewsCode: mediatopic/20000433
-GeoNames feature code: V.FRST
+Commons_gallery: Forest
+Commons_category: Forests
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Brussels%20Zonienwoud.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BB%D0%B5%D1%81%20%28%D0%BC%D1%83%D0%B6%20%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%29.ogg"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_00000111"
+Krugosvet_article: biologiya/les
+MeSH_tree_code:
+- G16.500.275.157.437
+- N06.230.124.343
+IPTC_NewsCode: mediatopic/20000433
+GeoNames_feature_code: V.FRST
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,484 +1,483 @@
----
-language used:
-  - "[[_Standards/WikiData/WD~Amazonic Spanish,72256]]"
-  - "[[_Standards/WikiData/WD~Candoshi-Shapra,642843]]"
-  - "[[_Standards/WikiData/WD~Pisabo,966883]]"
-  - "[[_Standards/WikiData/WD~Jebero,967031]]"
-  - "[[_Standards/WikiData/WD~Huambisa,1526037]]"
-  - "[[_Standards/WikiData/WD~Chayahuita,1526525]]"
-  - "[[_Standards/WikiData/WD~Aguaruna,1526530]]"
-  - "[[_Standards/WikiData/WD~Urarina,1579560]]"
-  - "[[_Standards/WikiData/WD~Ticuna,1815205]]"
-  - "[[_Standards/WikiData/WD~Taushiro,1957508]]"
-  - "[[_Standards/WikiData/WD~Omurano,1957612]]"
-  - "[[_Standards/WikiData/WD~Chamicuro,2155119]]"
-  - "[[_Standards/WikiData/WD~Bora,2375468]]"
-  - "[[_Standards/WikiData/WD~Culina,2475442]]"
-  - "[[_Standards/WikiData/WD~Arabela,2591221]]"
-  - "[[_Standards/WikiData/WD~Cashinahua,2591230]]"
-  - "[[_Standards/WikiData/WD~Cholón,2591243]]"
-  - "[[_Standards/WikiData/WD~Murui Huitoto,2640935]]"
-  - "[[_Standards/WikiData/WD~Amahuaca,2669150]]"
-  - "[[_Standards/WikiData/WD~Iquito,2669184]]"
-  - "[[_Standards/WikiData/WD~Shipibo-Conibo,2671988]]"
-  - "[[_Standards/WikiData/WD~Achuar,2823170]]"
-  - "[[_Standards/WikiData/WD~Andoa,2846171]]"
-  - "[[_Standards/WikiData/WD~Tequiraca,2871740]]"
-  - "[[_Standards/WikiData/WD~Cahuarano,2933175]]"
-  - "[[_Standards/WikiData/WD~Capanahua,2937196]]"
-  - "[[_Standards/WikiData/WD~Ese Ejja,2980381]]"
-  - "[[_Standards/WikiData/WD~Matsés,2981620]]"
-  - "[[_Standards/WikiData/WD~Yaminawa,3026110]]"
-  - "[[_Standards/WikiData/WD~Isconahua,3052971]]"
-  - "[[_Standards/WikiData/WD~Yanesha',3088540]]"
-  - "[[_Standards/WikiData/WD~Yameo,3121032]]"
-  - "[[_Standards/WikiData/WD~Hibito,3135164]]"
-  - "[[_Standards/WikiData/WD~Yine,3135432]]"
-  - "[[_Standards/WikiData/WD~Wariapano,3141869]]"
-  - "[[_Standards/WikiData/WD~Yagua,3182567]]"
-  - "[[_Standards/WikiData/WD~Ocaina,3182577]]"
-  - "[[_Standards/WikiData/WD~Axininca,3327405]]"
-  - "[[_Standards/WikiData/WD~Aguano,3331203]]"
-  - "[[_Standards/WikiData/WD~Nomatsiguenga,3342992]]"
-  - "[[_Standards/WikiData/WD~Orejón,3355834]]"
-  - "[[_Standards/WikiData/WD~Aushiri,3409318]]"
-  - "[[_Standards/WikiData/WD~Asháninka,3437230]]"
-  - "[[_Standards/WikiData/WD~Mashco Piro,3446596]]"
-  - "[[_Standards/WikiData/WD~Huachipaeri,3446617]]"
-  - "[[_Standards/WikiData/WD~Ashéninka,3450481]]"
-  - "[[_Standards/WikiData/WD~Resígaro,3450504]]"
-  - "[[_Standards/WikiData/WD~Perené Ashéninka,3450601]]"
-  - "[[_Standards/WikiData/WD~Secoya,3477218]]"
-  - "[[_Standards/WikiData/WD~Remo,3501825]]"
-  - "[[_Standards/WikiData/WD~Ucayali–Yurúa Ashéninka,3501858]]"
-  - "[[_Standards/WikiData/WD~South Ucayali Ashéninka,3501868]]"
-  - "[[_Standards/WikiData/WD~Southern Aymara,3508036]]"
-  - "[[_Standards/WikiData/WD~Yora,3572572]]"
-  - "[[_Standards/WikiData/WD~Machiguenga,3915441]]"
-  - "[[_Standards/WikiData/WD~Peruvian Sign Language,3915508]]"
-  - "[[_Standards/WikiData/WD~Caquinte,3915557]]"
-  - "[[_Standards/WikiData/WD~Munichi,3915654]]"
-  - "[[_Standards/WikiData/WD~Kashibo,5359560]]"
-  - "[[_Standards/WikiData/WD~Huaylas Quechua,6094343]]"
-  - "[[_Standards/WikiData/WD~Pichis Ashéninka,7190661]]"
-  - "[[_Standards/WikiData/WD~Puno Quechua,7260479]]"
-  - "[[_Standards/WikiData/WD~Sensi,7451029]]"
-  - "[[_Standards/WikiData/WD~Santa Ana de Tusi Pasco Quechua,12953831]]"
-  - "[[_Standards/WikiData/WD~Ambo-Pasco Quechua,12953835]]"
-  - "[[_Standards/WikiData/WD~Eastern Apurímac Quechua,12953838]]"
-  - "[[_Standards/WikiData/WD~Cajatambo North Lima Quechua,12953839]]"
-  - "[[_Standards/WikiData/WD~Arequipa-La Unión Quechua,12953837]]"
-  - "[[_Standards/WikiData/WD~Shawsha Wanka,12953843]]"
-  - "[[_Standards/WikiData/WD~Southern Conchucos Ancash Quechua,12953840]]"
-  - "[[_Standards/WikiData/WD~Corongo Ancash Quechua,12953841]]"
-  - "[[_Standards/WikiData/WD~North Junín Quechua,12953844]]"
-  - "[[_Standards/WikiData/WD~Northern Pastaza Quichua,12953848]]"
-  - "[[_Standards/WikiData/WD~Sharanahua,12953881]]"
-  - "[[_Standards/WikiData/WD~Iñapari,15338035]]"
-  - "[[_Standards/WikiData/WD~Nanti,15342275]]"
-  - "[[_Standards/WikiData/WD~Central Aymara,20526610]]"
-  - "[[_Standards/WikiData/WD~Margos-Yarowilca-Lauricocha Quechua,25559675]]"
-  - "[[_Standards/WikiData/WD~Huamalíes-Dos de Mayo Huánuco Quechua,25559676]]"
-  - "[[_Standards/WikiData/WD~Chiquián Ancash Quechua,25559677]]"
-  - "[[_Standards/WikiData/WD~Chincha Quechua,25559686]]"
-  - "[[_Standards/WikiData/WD~Northern Conchucos Ancash Quechua,25559688]]"
-  - "[[_Standards/WikiData/WD~Southern Pastaza Quechua,25559692]]"
-  - "[[_Standards/WikiData/WD~Napo Lowland Quechua,25559706]]"
-  - "[[_Standards/WikiData/WD~Yanahuanca Pasco Quechua,42305075]]"
-  - "[[_Standards/WikiData/WD~Sihuas Ancash Quechua,42308366]]"
-  - "[[_Standards/WikiData/WD~Panao Quechua,63308389]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Quechua,5218]]"
-  - "[[_Standards/WikiData/WD~Cocama,33317]]"
-  - "[[_Standards/WikiData/WD~Jaqaru,33443]]"
-  - "[[_Standards/WikiData/WD~Omagua,33663]]"
-  - "[[_Standards/WikiData/WD~Cajamarca Quechua,35112]]"
-  - "[[_Standards/WikiData/WD~Amarakaeri,35128]]"
-  - "[[_Standards/WikiData/WD~Chachapoyas Quechua,35138]]"
-  - "[[_Standards/WikiData/WD~Cusco Quechua,35147]]"
-  - "[[_Standards/WikiData/WD~Ayacucho Quechua,35145]]"
-  - "[[_Standards/WikiData/WD~Huallaga Quechua,35492]]"
-  - "[[_Standards/WikiData/WD~Lambayeque Quechua,35519]]"
-  - "[[_Standards/WikiData/WD~Lamas Quechua,35880]]"
-  - "[[_Standards/WikiData/WD~Pacaraos Quechua,36331]]"
-  - "[[_Standards/WikiData/WD~Wanka Quechua,36960]]"
-  - "[[_Standards/WikiData/WD~Yauyos–Chincha Quechua,36964]]"
-  - "[[_Standards/WikiData/WD~Nüpode Huitoto,56333]]"
-member of:
-  - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-  - "[[_Standards/WikiData/WD~Andean Community,471690]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-  - "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~Holy See,159583]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+﻿---
+language_used:
+- "[[_Standards/WikiData/WD~Amazonic Spanish,72256]]"
+- '[[_Standards/WikiData/WD~Candoshi-Shapra,642843]]'
+- '[[_Standards/WikiData/WD~Pisabo,966883]]'
+- '[[_Standards/WikiData/WD~Jebero,967031]]'
+- '[[_Standards/WikiData/WD~Huambisa,1526037]]'
+- '[[_Standards/WikiData/WD~Chayahuita,1526525]]'
+- '[[_Standards/WikiData/WD~Aguaruna,1526530]]'
+- '[[_Standards/WikiData/WD~Urarina,1579560]]'
+- '[[_Standards/WikiData/WD~Ticuna,1815205]]'
+- '[[_Standards/WikiData/WD~Taushiro,1957508]]'
+- '[[_Standards/WikiData/WD~Omurano,1957612]]'
+- '[[_Standards/WikiData/WD~Chamicuro,2155119]]'
+- '[[_Standards/WikiData/WD~Bora,2375468]]'
+- '[[_Standards/WikiData/WD~Culina,2475442]]'
+- '[[_Standards/WikiData/WD~Arabela,2591221]]'
+- '[[_Standards/WikiData/WD~Cashinahua,2591230]]'
+- '[[_Standards/WikiData/WD~Cholón,2591243]]'
+- "[[_Standards/WikiData/WD~Murui Huitoto,2640935]]"
+- '[[_Standards/WikiData/WD~Amahuaca,2669150]]'
+- '[[_Standards/WikiData/WD~Iquito,2669184]]'
+- '[[_Standards/WikiData/WD~Shipibo-Conibo,2671988]]'
+- '[[_Standards/WikiData/WD~Achuar,2823170]]'
+- '[[_Standards/WikiData/WD~Andoa,2846171]]'
+- '[[_Standards/WikiData/WD~Tequiraca,2871740]]'
+- '[[_Standards/WikiData/WD~Cahuarano,2933175]]'
+- '[[_Standards/WikiData/WD~Capanahua,2937196]]'
+- "[[_Standards/WikiData/WD~Ese Ejja,2980381]]"
+- '[[_Standards/WikiData/WD~Matsés,2981620]]'
+- '[[_Standards/WikiData/WD~Yaminawa,3026110]]'
+- '[[_Standards/WikiData/WD~Isconahua,3052971]]'
+- "[[_Standards/WikiData/WD~Yanesha',3088540]]"
+- '[[_Standards/WikiData/WD~Yameo,3121032]]'
+- '[[_Standards/WikiData/WD~Hibito,3135164]]'
+- '[[_Standards/WikiData/WD~Yine,3135432]]'
+- '[[_Standards/WikiData/WD~Wariapano,3141869]]'
+- '[[_Standards/WikiData/WD~Yagua,3182567]]'
+- '[[_Standards/WikiData/WD~Ocaina,3182577]]'
+- '[[_Standards/WikiData/WD~Axininca,3327405]]'
+- '[[_Standards/WikiData/WD~Aguano,3331203]]'
+- '[[_Standards/WikiData/WD~Nomatsiguenga,3342992]]'
+- '[[_Standards/WikiData/WD~Orejón,3355834]]'
+- '[[_Standards/WikiData/WD~Aushiri,3409318]]'
+- '[[_Standards/WikiData/WD~Asháninka,3437230]]'
+- "[[_Standards/WikiData/WD~Mashco Piro,3446596]]"
+- '[[_Standards/WikiData/WD~Huachipaeri,3446617]]'
+- '[[_Standards/WikiData/WD~Ashéninka,3450481]]'
+- '[[_Standards/WikiData/WD~Resígaro,3450504]]'
+- "[[_Standards/WikiData/WD~Perené Ashéninka,3450601]]"
+- '[[_Standards/WikiData/WD~Secoya,3477218]]'
+- '[[_Standards/WikiData/WD~Remo,3501825]]'
+- "[[_Standards/WikiData/WD~Ucayali–Yurúa Ashéninka,3501858]]"
+- "[[_Standards/WikiData/WD~South Ucayali Ashéninka,3501868]]"
+- "[[_Standards/WikiData/WD~Southern Aymara,3508036]]"
+- '[[_Standards/WikiData/WD~Yora,3572572]]'
+- '[[_Standards/WikiData/WD~Machiguenga,3915441]]'
+- "[[_Standards/WikiData/WD~Peruvian Sign Language,3915508]]"
+- '[[_Standards/WikiData/WD~Caquinte,3915557]]'
+- '[[_Standards/WikiData/WD~Munichi,3915654]]'
+- '[[_Standards/WikiData/WD~Kashibo,5359560]]'
+- "[[_Standards/WikiData/WD~Huaylas Quechua,6094343]]"
+- "[[_Standards/WikiData/WD~Pichis Ashéninka,7190661]]"
+- "[[_Standards/WikiData/WD~Puno Quechua,7260479]]"
+- '[[_Standards/WikiData/WD~Sensi,7451029]]'
+- "[[_Standards/WikiData/WD~Santa Ana de Tusi Pasco Quechua,12953831]]"
+- "[[_Standards/WikiData/WD~Ambo-Pasco Quechua,12953835]]"
+- "[[_Standards/WikiData/WD~Eastern Apurímac Quechua,12953838]]"
+- "[[_Standards/WikiData/WD~Cajatambo North Lima Quechua,12953839]]"
+- "[[_Standards/WikiData/WD~Arequipa-La Unión Quechua,12953837]]"
+- "[[_Standards/WikiData/WD~Shawsha Wanka,12953843]]"
+- "[[_Standards/WikiData/WD~Southern Conchucos Ancash Quechua,12953840]]"
+- "[[_Standards/WikiData/WD~Corongo Ancash Quechua,12953841]]"
+- "[[_Standards/WikiData/WD~North Junín Quechua,12953844]]"
+- "[[_Standards/WikiData/WD~Northern Pastaza Quichua,12953848]]"
+- '[[_Standards/WikiData/WD~Sharanahua,12953881]]'
+- '[[_Standards/WikiData/WD~Iñapari,15338035]]'
+- '[[_Standards/WikiData/WD~Nanti,15342275]]'
+- "[[_Standards/WikiData/WD~Central Aymara,20526610]]"
+- "[[_Standards/WikiData/WD~Margos-Yarowilca-Lauricocha Quechua,25559675]]"
+- "[[_Standards/WikiData/WD~Huamalíes-Dos de Mayo Huánuco Quechua,25559676]]"
+- "[[_Standards/WikiData/WD~Chiquián Ancash Quechua,25559677]]"
+- "[[_Standards/WikiData/WD~Chincha Quechua,25559686]]"
+- "[[_Standards/WikiData/WD~Northern Conchucos Ancash Quechua,25559688]]"
+- "[[_Standards/WikiData/WD~Southern Pastaza Quechua,25559692]]"
+- "[[_Standards/WikiData/WD~Napo Lowland Quechua,25559706]]"
+- "[[_Standards/WikiData/WD~Yanahuanca Pasco Quechua,42305075]]"
+- "[[_Standards/WikiData/WD~Sihuas Ancash Quechua,42308366]]"
+- "[[_Standards/WikiData/WD~Panao Quechua,63308389]]"
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Quechua,5218]]'
+- '[[_Standards/WikiData/WD~Cocama,33317]]'
+- '[[_Standards/WikiData/WD~Jaqaru,33443]]'
+- '[[_Standards/WikiData/WD~Omagua,33663]]'
+- "[[_Standards/WikiData/WD~Cajamarca Quechua,35112]]"
+- '[[_Standards/WikiData/WD~Amarakaeri,35128]]'
+- "[[_Standards/WikiData/WD~Chachapoyas Quechua,35138]]"
+- "[[_Standards/WikiData/WD~Cusco Quechua,35147]]"
+- "[[_Standards/WikiData/WD~Ayacucho Quechua,35145]]"
+- "[[_Standards/WikiData/WD~Huallaga Quechua,35492]]"
+- "[[_Standards/WikiData/WD~Lambayeque Quechua,35519]]"
+- "[[_Standards/WikiData/WD~Lamas Quechua,35880]]"
+- "[[_Standards/WikiData/WD~Pacaraos Quechua,36331]]"
+- "[[_Standards/WikiData/WD~Wanka Quechua,36960]]"
+- "[[_Standards/WikiData/WD~Yauyos–Chincha Quechua,36964]]"
+- "[[_Standards/WikiData/WD~Nüpode Huitoto,56333]]"
+member_of:
+- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
+- "[[_Standards/WikiData/WD~Andean Community,471690]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+diplomatic_relation:
+- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- '[[_Standards/WikiData/WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
 flag: "[[_Standards/WikiData/WD~flag of Peru,160255]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Gran Colombia,199821]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-highest point: "[[_Standards/WikiData/WD~Huascarán,200935]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Loreto Department,200938]]"
-  - "[[_Standards/WikiData/WD~Amazonas Department,201162]]"
-  - "[[_Standards/WikiData/WD~Cusco Department,205057]]"
-  - "[[_Standards/WikiData/WD~Arequipa Department,205068]]"
-  - "[[_Standards/WikiData/WD~Cajamarca Department,205078]]"
-  - "[[_Standards/WikiData/WD~Ancash Department,205089]]"
-  - "[[_Standards/WikiData/WD~Puno Department,205104]]"
-  - "[[_Standards/WikiData/WD~Ayacucho Department,205112]]"
-  - "[[_Standards/WikiData/WD~La Libertad Department,205126]]"
-  - "[[_Standards/WikiData/WD~Tacna Department,207413]]"
-  - "[[_Standards/WikiData/WD~Ucayali Department,207424]]"
-  - "[[_Standards/WikiData/WD~Junin Department,207973]]"
-  - "[[_Standards/WikiData/WD~Moquegua Department,208182]]"
-  - "[[_Standards/WikiData/WD~Piura Department,208183]]"
-  - "[[_Standards/WikiData/WD~Ica Department,208186]]"
-  - "[[_Standards/WikiData/WD~Apurimac Department,208185]]"
-  - "[[_Standards/WikiData/WD~Tumbes Department,209597]]"
-  - "[[_Standards/WikiData/WD~Lambayeque Department,210061]]"
-  - "[[_Standards/WikiData/WD~Madre de Dios Department,210896]]"
-  - "[[_Standards/WikiData/WD~Pasco Department,211208]]"
-  - "[[_Standards/WikiData/WD~Lima Department,211795]]"
-  - "[[_Standards/WikiData/WD~San Martin Department,211793]]"
-  - "[[_Standards/WikiData/WD~Huanuco Department,215221]]"
-  - "[[_Standards/WikiData/WD~Huancavelica Department,505220]]"
-  - "[[_Standards/WikiData/WD~Constitutional Province of Callao,2634400]]"
-different from: "[[_Standards/WikiData/WD~PE,217884]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-history of topic: "[[_Standards/WikiData/WD~history of Peru,316648]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Peru,511629]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~911,533806]]"
-  - "[[_Standards/WikiData/WD~106,4546664]]"
-  - "[[_Standards/WikiData/WD~111,4547309]]"
-  - "[[_Standards/WikiData/WD~117,4547615]]"
-  - "[[_Standards/WikiData/WD~116,25648807]]"
-  - "[[_Standards/WikiData/WD~105,25648856]]"
-part of:
-  - "[[_Standards/WikiData/WD~Hispanic America,653884]]"
-  - "[[_Standards/WikiData/WD~Latin America,12585]]"
-  - "[[_Standards/WikiData/WD~South America,18]]"
-central bank: "[[_Standards/WikiData/WD~Central Reserve Bank of Peru,932146]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Peru,1185963]]"
-legislative body: "[[_Standards/WikiData/WD~Congress of the Republic of Peru,1357543]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Peru,2342212]]"
+shares_border_with:
+- "[[_Standards/WikiData/WD~Gran Colombia,199821]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+highest_point: '[[_Standards/WikiData/WD~Huascarán,200935]]'
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Loreto Department,200938]]"
+- "[[_Standards/WikiData/WD~Amazonas Department,201162]]"
+- "[[_Standards/WikiData/WD~Cusco Department,205057]]"
+- "[[_Standards/WikiData/WD~Arequipa Department,205068]]"
+- "[[_Standards/WikiData/WD~Cajamarca Department,205078]]"
+- "[[_Standards/WikiData/WD~Ancash Department,205089]]"
+- "[[_Standards/WikiData/WD~Puno Department,205104]]"
+- "[[_Standards/WikiData/WD~Ayacucho Department,205112]]"
+- "[[_Standards/WikiData/WD~La Libertad Department,205126]]"
+- "[[_Standards/WikiData/WD~Tacna Department,207413]]"
+- "[[_Standards/WikiData/WD~Ucayali Department,207424]]"
+- "[[_Standards/WikiData/WD~Junin Department,207973]]"
+- "[[_Standards/WikiData/WD~Moquegua Department,208182]]"
+- "[[_Standards/WikiData/WD~Piura Department,208183]]"
+- "[[_Standards/WikiData/WD~Ica Department,208186]]"
+- "[[_Standards/WikiData/WD~Apurimac Department,208185]]"
+- "[[_Standards/WikiData/WD~Tumbes Department,209597]]"
+- "[[_Standards/WikiData/WD~Lambayeque Department,210061]]"
+- "[[_Standards/WikiData/WD~Madre de Dios Department,210896]]"
+- "[[_Standards/WikiData/WD~Pasco Department,211208]]"
+- "[[_Standards/WikiData/WD~Lima Department,211795]]"
+- "[[_Standards/WikiData/WD~San Martin Department,211793]]"
+- "[[_Standards/WikiData/WD~Huanuco Department,215221]]"
+- "[[_Standards/WikiData/WD~Huancavelica Department,505220]]"
+- "[[_Standards/WikiData/WD~Constitutional Province of Callao,2634400]]"
+different_from: '[[_Standards/WikiData/WD~PE,217884]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Peru,316648]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Peru,511629]]"
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~911,533806]]'
+- '[[_Standards/WikiData/WD~106,4546664]]'
+- '[[_Standards/WikiData/WD~111,4547309]]'
+- '[[_Standards/WikiData/WD~117,4547615]]'
+- '[[_Standards/WikiData/WD~116,25648807]]'
+- '[[_Standards/WikiData/WD~105,25648856]]'
+part_of:
+- "[[_Standards/WikiData/WD~Hispanic America,653884]]"
+- "[[_Standards/WikiData/WD~Latin America,12585]]"
+- "[[_Standards/WikiData/WD~South America,18]]"
+central_bank: "[[_Standards/WikiData/WD~Central Reserve Bank of Peru,932146]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Peru,1185963]]"
+legislative_body: "[[_Standards/WikiData/WD~Congress of the Republic of Peru,1357543]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Peru,2342212]]"
 culture: "[[_Standards/WikiData/WD~culture of Peru,2739669]]"
-highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of Peru,2842477]]"
-has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-instance of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-executive body: "[[_Standards/WikiData/WD~Government of Peru,3649429]]"
-ethnic group: "[[_Standards/WikiData/WD~Peruvians,4359289]]"
-public holiday: "[[_Standards/WikiData/WD~Fiestas Patrias,5447343]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of Peru,5708511]]"
-office held by head of government: "[[_Standards/WikiData/WD~President of Peru,5708511]]"
-lowest point: "[[_Standards/WikiData/WD~Depresión de Sechura,5803287]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Regions of Peru,6083745]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Peru,7112412]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of Peru,2842477]]"
+has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+instance_of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+executive_body: "[[_Standards/WikiData/WD~Government of Peru,3649429]]"
+ethnic_group: '[[_Standards/WikiData/WD~Peruvians,4359289]]'
+public_holiday: "[[_Standards/WikiData/WD~Fiestas Patrias,5447343]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Peru,5708511]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Peru,5708511]]"
+lowest_point: "[[_Standards/WikiData/WD~Depresión de Sechura,5803287]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions of Peru,6083745]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Peru,7112412]]"
 follows: "[[_Standards/WikiData/WD~Protectorate of San Martín,7251405]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Peru,7336337]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27103714,27103714]]"
-open data portal:
-  - "[[_Standards/WikiData/WD~Peruvian State open data portal,97096839]]"
-  - "[[_Standards/WikiData/WD~DatosPeru,97318418]]"
-head of state: "[[_Standards/WikiData/WD~Dina Boluarte,106474688]]"
-head of government: "[[_Standards/WikiData/WD~Dina Boluarte,106474688]]"
-travel advisory category: "[[_Standards/WikiData/WD~Level 3_ Reconsider Travel,116031914]]"
-coordinates of easternmost point: Point(-68.652361111 -12.498138888)
-coordinates of westernmost point: Point(-81.328611111 -4.682777777)
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Peru,7336337]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103714,27103714]]'
+open_data_portal:
+- "[[_Standards/WikiData/WD~Peruvian State open data portal,97096839]]"
+- '[[_Standards/WikiData/WD~DatosPeru,97318418]]'
+head_of_state: "[[_Standards/WikiData/WD~Dina Boluarte,106474688]]"
+head_of_government: "[[_Standards/WikiData/WD~Dina Boluarte,106474688]]"
+travel_advisory_category: "[[_Standards/WikiData/WD~Level 3_ Reconsider Travel,116031914]]"
+coordinates_of_easternmost_point: "Point(-68.652361111 -12.498138888)"
+coordinates_of_westernmost_point: "Point(-81.328611111 -4.682777777)"
 name: ꠙꠦꠞꠥ
-UMLS CUI: C0031238
+UMLS_CUI: C0031238
 demonym:
-  - پيروڤي
-  - پيروڤية
-  - پيروڤيات
-  - پيروڤيين
-  - peruà
-  - peruana
-  - peruanes
-  - peroan
-  - peroana
-  - Perujec
-  - Perujka
-  - Peiriúch
-  - بيروفي
-  - بيروفية
-  - peruanu
-  - পেরুভীয়
-  - Peruanerin
-  - peruana
-  - Péruvien
-  - Péruvienne
-  - פרואני
-  - פרואנית
-  - perui
-  - peruviana
-  - peruviane
-  - peruviani
-  - peruviano
-  - peruan
-  - Peruaan
-  - Peruaanse
-  - Peruviaan
-  - Peruviaanse
-  - peruan
-  - peruană
-  - peruani
-  - перуанцы
-  - peruan
-  - peruana
-  - peruane
-  - peruani
-  - peruegna
-  - peruegne
-  - peruegni
-  - peruegno
-  - Peruvänan
-  - بيروفيون
-  - peruans
-  - Peruaner
-  - Peruvian
-  - peruana
-  - Peruano
-  - peruano
+- پيروڤي
+- پيروڤية
+- پيروڤيات
+- پيروڤيين
+- peruà
+- peruana
+- peruanes
+- peroan
+- peroana
+- Perujec
+- Perujka
+- Peiriúch
+- بيروفي
+- بيروفية
+- peruanu
+- পেরুভীয়
+- Peruanerin
+- peruana
+- Péruvien
+- Péruvienne
+- פרואני
+- פרואנית
+- perui
+- peruviana
+- peruviane
+- peruviani
+- peruviano
+- peruan
+- Peruaan
+- Peruaanse
+- Peruviaan
+- Peruviaanse
+- peruan
+- peruană
+- peruani
+- перуанцы
+- peruan
+- peruana
+- peruane
+- peruani
+- peruegna
+- peruegne
+- peruegni
+- peruegno
+- Peruvänan
+- بيروفيون
+- peruans
+- Peruaner
+- Peruvian
+- peruana
+- Peruano
+- peruano
 ISNI:
-  - "0000000122858313"
-  - 000000012290392X
-coordinates of northernmost point: Point(-75.17 -0.03)
-nominal GDP:
-  - 223717791483
-  - 242631549613
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Peru%20%28orthographic%20projection%29.svg
-motto text:
-  - Gwlad yr Inca
-  - Твърди и радостни за съюза
-  - Firm and Happy for the Union
-  - Land of the Incas
-  - Firme y feliz por la unión
-  - 연합을 위한 확고한 행복하다
-Europeana entity: place/base/216307
-MeSH tree code: Z01.107.757.702
-country: "[[_Standards/WikiData/WD~Peru,419]]"
-official language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Aymara,4627]]"
-  - "[[_Standards/WikiData/WD~Quechua,5218]]"
-capital: "[[_Standards/WikiData/WD~Lima,2868]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Peru,4530]]"
+- 0000000122858313
+- 000000012290392X
+coordinates_of_northernmost_point: "Point(-75.17 -0.03)"
+nominal_GDP:
+- 223717791483
+- 242631549613
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Peru%20%28orthographic%20projection%29.svg"
+motto_text:
+- "Gwlad yr Inca"
+- "Твърди и радостни за съюза"
+- "Firm and Happy for the Union"
+- "Land of the Incas"
+- "Firme y feliz por la unión"
+- "연합을 위한 확고한 행복하다"
+Europeana_entity: place/base/216307
+MeSH_tree_code: Z01.107.757.702
+country: '[[_Standards/WikiData/WD~Peru,419]]'
+official_language:
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Aymara,4627]]'
+- '[[_Standards/WikiData/WD~Quechua,5218]]'
+capital: '[[_Standards/WikiData/WD~Lima,2868]]'
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Peru,4530]]"
 anthem: "[[_Standards/WikiData/WD~National Anthem of Peru,4944]]"
-located in time zone: "[[_Standards/WikiData/WD~UTC−05_00,5390]]"
-minimum temperature record: -25.2
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
+minimum_temperature_record: -25.2
 continent: "[[_Standards/WikiData/WD~South America,18]]"
-unemployment rate: 4
-VAT rate: 18
-marriageable age: 18
-age of majority: 18
-mains voltage: 220
-suicide rate: 2.7
-BTI Governance Index:
-  - 5.4
-  - 5.27
-  - 5.65
-  - 5.73
-  - 5.77
-  - 5.78
-  - 5.81
-  - 5.82
-  - 5.94
-BTI Status Index:
-  - 6.6
-  - 6.56
-  - 6.57
-  - 6.74
-  - 6.83
-  - 6.85
-  - 6.86
-  - 6.94
-  - 7.04
-life expectancy: 73
-water as percent of area: 8.8
-top-level Internet domain: "[[_Standards/WikiData/WD~.pe,41954]]"
-Gini coefficient: 43.8
-trunk prefix: "0"
-basic form of government: "[[_Standards/WikiData/WD~presidential system,49892]]"
-Happy Planet Index score: 55.9
-Democracy Index: 6.09
-Inequality-adjusted Human Development Index: 0.635
-Human Development Index: 0.762
-IAB code: "1379"
-mobile country code: "716"
-total fertility rate: 2.455
-death rate: 7.505
-GS1 country code: "775"
-birth rate: 17.376
-M49 code: "604"
-ISO 3166-1 numeric code: "604"
-OmegaWiki Defined Meaning: "8091"
+unemployment_rate: 4
+VAT_rate: 18
+marriageable_age: 18
+age_of_majority: 18
+mains_voltage: 220
+suicide_rate: 2.7
+BTI_Governance_Index:
+- 5.4
+- 5.27
+- 5.65
+- 5.73
+- 5.77
+- 5.78
+- 5.81
+- 5.82
+- 5.94
+BTI_Status_Index:
+- 6.6
+- 6.56
+- 6.57
+- 6.74
+- 6.83
+- 6.85
+- 6.86
+- 6.94
+- 7.04
+life_expectancy: 73
+water_as_percent_of_area: 8.8
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.pe,41954]]'
+Gini_coefficient: 43.8
+trunk_prefix: 0
+basic_form_of_government: "[[_Standards/WikiData/WD~presidential system,49892]]"
+Happy_Planet_Index_score: 55.9
+Democracy_Index: 6.09
+Inequality-adjusted_Human_Development_Index: 0.635
+Human_Development_Index: 0.762
+IAB_code: 1379
+mobile_country_code: 716
+total_fertility_rate: 2.455
+death_rate: 7.505
+GS1_country_code: 775
+birth_rate: 17.376
+M49_code: 604
+ISO_3166-1_numeric_code: 604
+OmegaWiki_Defined_Meaning: 8091
 population: 33726000
-FIPS 10-4 (countries and regions): PE
-licence plate code: PE
-ISO 3166-1 alpha-2 code: PE
-WIPO ST.3: PE
-maritime identification digits: "760"
-U.S. National Archives Identifier: "10035732"
-number of out-of-school children: 476745
-ITU letter code: PRU
-IOC country code: PER
-ISO 3166-1 alpha-3 code: PER
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg
-PM20 geo code: E79
-Dewey Decimal Classification: 2--85
-BHCL UUID: 920eba0d-b96e-4651-bff2-d5bff7ba217b
-Provenio UUID: aa1baee5-5d1a-4271-b3a5-df597c143c4e
-Wolfram Language entity code:
-  - Entity["Country", "Peru"]
-  - Entity["HistoricalCountry", "Peru"]
+FIPS_10-4_countries_and_regions_: PE
+licence_plate_code: PE
+ISO_3166-1_alpha-2_code: PE
+WIPO_ST_3: PE
+maritime_identification_digits: 760
+U_S_National_Archives_Identifier: 10035732
+number_of_out-of-school_children: 476745
+ITU_letter_code: PRU
+IOC_country_code: PER
+ISO_3166-1_alpha-3_code: PER
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg"
+PM20_geo_code: E79
+Dewey_Decimal_Classification: 2--85
+BHCL_UUID: 920eba0d-b96e-4651-bff2-d5bff7ba217b
+Provenio_UUID: aa1baee5-5d1a-4271-b3a5-df597c143c4e
+Wolfram_Language_entity_code:
+- "Entity[\"Country\", \"Peru\"]"
+- "Entity[\"HistoricalCountry\", \"Peru\"]"
 subreddit: PERU
-alternative name: Peruvian Republic
-Colon Classification: SG--79162
-Krugosvet article: strany_mira/PERU.html
-official name: República del Perú
-native label: República del Perú
-short name: 🇵🇪
+alternative_name: "Peruvian Republic"
+Colon_Classification: SG--79162
+Krugosvet_article: strany_mira/PERU.html
+official_name: "República del Perú"
+native_label: "República del Perú"
+short_name: "\U0001F1F5\U0001F1EA"
 area: 1285216
-INSEE countries and foreign territories code: "99422"
-male population:
-  - 16695110
-  - 16268182
-  - 16499432
-  - 16857086
-Commons gallery: Peru
+INSEE_countries_and_foreign_territories_code: 99422
+male_population:
+- 16695110
+- 16268182
+- 16499432
+- 16857086
+Commons_gallery: Peru
 hashtag: Peru
-Commons category: Peru
-urban population:
-  - 26799750
-  - 25635888
-  - 26076625
-  - 26466645
-rural population:
-  - 7188973
-  - 7228131
-  - 7248826
-  - 7249838
-X (Twitter) username: peru
-CIVICUS Monitor country entry: peru
-GitHub topic: peru
-inception: 1821-07-28T00:00:00Z 
-has_time_started: 1821-07-28T00:00:00Z 
-female population:
-  - 16556679
-  - 16805323
-  - 17020361
-  - 17192503
-coordinate location: Point(-76.0 -9.4)
-seal image: http://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Sello%20de%20la%20Rep%C3%BAblica%20del%20Per%C3%BA.svg
-coordinates of southernmost point: Point(-70.3775 -18.352222222)
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20nacional%20del%20Per%C3%BA.svg
-Unicode character: 🇵🇪
-geoshape: http://commons.wikimedia.org/data/main/Data:Peru.map
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Cuarentena%20Lima%20%2819%20de%20marzo%202%29.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Peru.wav
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Peru%20banner.jpg
-official website: https://www.gob.pe/
-country calling code: "+51"
+Commons_category: Peru
+urban_population:
+- 26799750
+- 25635888
+- 26076625
+- 26466645
+rural_population:
+- 7188973
+- 7228131
+- 7248826
+- 7249838
+X_Twitter_username: peru
+CIVICUS_Monitor_country_entry: peru
+GitHub_topic: peru
+inception: "1821-07-28T00:00:00Z"
+has_time_started: "1821-07-28T00:00:00Z"
+female_population:
+- 16556679
+- 16805323
+- 17020361
+- 17192503
+coordinate_location: "Point(-76.0 -9.4)"
+seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Sello%20de%20la%20Rep%C3%BAblica%20del%20Per%C3%BA.svg"
+coordinates_of_southernmost_point: "Point(-70.3775 -18.352222222)"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20nacional%20del%20Per%C3%BA.svg"
+Unicode_character: "\U0001F1F5\U0001F1EA"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Peru.map"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cuarentena%20Lima%20%2819%20de%20marzo%202%29.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Peru.wav"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Peru%20banner.jpg"
+official_website: "https://www.gob.pe/"
+country_calling_code: +51
 has_id_wikidata: Q419
 location:
-    - -12.05
-    - -77.05
+- -12.05
+- -77.05
 type: Country
 tags:
-    - geo/Country
-has_id_wikidata: Q419 
+- geo/Country
 SpocWebEntityId: 26991
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Peru
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - Peru
-    - Perú
-    - Pérou
-    - بيرو
-    - 秘鲁
-    - Перу
-    - the Republic of Peru
-    - la República del Perú
-    - Perú (el)
+- Peru
+- Perú
+- Pérou
+- بيرو
+- 秘鲁
+- Перу
+- "the Republic of Peru"
+- "la República del Perú"
+- "Perú (el)"
 Languages:
-    - es-PE
-    - qu
-    - ay
+- es-PE
+- qu
+- ay
 icon: flag-pe
 ---
 

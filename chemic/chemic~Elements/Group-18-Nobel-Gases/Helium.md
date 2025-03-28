@@ -1,81 +1,81 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21905
 has_id_wikidata: Q560
-CAS Registry Number: 7440-59-7
-UMLS CUI: C0018880
-MeSH tree code:
-  - D01.268.613.350
-  - D01.362.641.352
-DSSTOX compound identifier: DTXCID5016402
-Commons category: Helium
+CAS_Registry_Number: 7440-59-7
+UMLS_CUI: C0018880
+MeSH_tree_code:
+- D01.268.613.350
+- D01.362.641.352
+DSSTOX_compound_identifier: DTXCID5016402
+Commons_category: Helium
 InChI: InChI=1S/He
-Krugosvet article: nauka_i_tehnika/himiya/GELI.html
+Krugosvet_article: nauka_i_tehnika/himiya/GELI.html
 InChIKey: SWQJXJOGLNCZEY-UHFFFAOYSA-N
-ATC code: V03AN03
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Norman Lockyer,127959]]"
-  - "[[_Standards/WikiData/WD~Pierre Janssen,298581]]"
-  - "[[_Standards/WikiData/WD~William Ramsay,950726]]"
-named after: "[[_Standards/WikiData/WD~Helios,134270]]"
-has use:
-  - "[[_Standards/WikiData/WD~food additive,189567]]"
-  - "[[_Standards/WikiData/WD~coolant,1056832]]"
-  - "[[_Standards/WikiData/WD~component,1310239]]"
-  - "[[_Standards/WikiData/WD~lifting gas,1408137]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 1,191936]]"
-  - "[[_Standards/WikiData/WD~noble gases,19609]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~s-block,208106]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
-  - "[[_Standards/WikiData/WD~noble gases,19609]]"
-different from: "[[_Standards/WikiData/WD~Hel,223931]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-conjugate acid: "[[_Standards/WikiData/WD~hydridohelium(1+),1188583]]"
-antiparticle: "[[_Standards/WikiData/WD~anti-helium,1991752]]"
-by-product of: "[[_Standards/WikiData/WD~natural-gas processing,2287558]]"
-instance of:
-  - "[[_Standards/WikiData/WD~atmophile element,2313842]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
-  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
-  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
-Stack Exchange tag: https://astronomy.stackexchange.com/tags/helium
-time of discovery or invention: 1868-08-18T00:00:00Z
-melting point: -272.05
-boiling point: -268.9
-atomic number: 2
-speed of sound:
-  - 180
-  - 965
+ATC_code: V03AN03
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Norman Lockyer,127959]]"
+- "[[_Standards/WikiData/WD~Pierre Janssen,298581]]"
+- "[[_Standards/WikiData/WD~William Ramsay,950726]]"
+named_after: '[[_Standards/WikiData/WD~Helios,134270]]'
+has_use:
+- "[[_Standards/WikiData/WD~food additive,189567]]"
+- '[[_Standards/WikiData/WD~coolant,1056832]]'
+- '[[_Standards/WikiData/WD~component,1310239]]'
+- "[[_Standards/WikiData/WD~lifting gas,1408137]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 1,191936]]"
+- "[[_Standards/WikiData/WD~noble gases,19609]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~s-block,208106]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+- "[[_Standards/WikiData/WD~noble gases,19609]]"
+different_from: '[[_Standards/WikiData/WD~Hel,223931]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+conjugate_acid: '[[_Standards/WikiData/WD~hydridohelium(1+),1188583]]'
+antiparticle: '[[_Standards/WikiData/WD~anti-helium,1991752]]'
+by-product_of: "[[_Standards/WikiData/WD~natural-gas processing,2287558]]"
+instance_of:
+- "[[_Standards/WikiData/WD~atmophile element,2313842]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+has_characteristic:
+- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
+Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/helium"
+time_of_discovery_or_invention: "1868-08-18T00:00:00Z"
+melting_point: -272.05
+boiling_point: -268.9
+atomic_number: 2
+speed_of_sound:
+- 180
+- 965
 electronegativity: 4.5
-standard molar entropy: 126
+standard_molar_entropy: 126
 density: 0.1785
-ZVG number: "7020"
-ASHRAE refrigerant number: "704"
-E number: E939
-OmegaWiki Defined Meaning: "7296"
-PubChem CID: "23987"
-refractive index: 1.000036
-U.S. National Archives Identifier: "10640583"
-chemical formula: He
-element symbol: He
+ZVG_number: 7020
+ASHRAE_refrigerant_number: 704
+E_number: E939
+OmegaWiki_Defined_Meaning: 7296
+PubChem_CID: 23987
+refractive_index: 1.000036
+U_S_National_Archives_Identifier: 10640583
+chemical_formula: He
+element_symbol: He
 mass: 4.002602
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Helium%20discharge%20tube.jpg
-canonical SMILES: "[He]"
-electron configuration: 1s²
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Helium.ogg
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Helium%20discharge%20tube.jpg"
+canonical_SMILES: '[He]'
+electron_configuration: 1s²
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Helium.ogg"
 UNII: 206GF3GB41
-EC number: 231-168-5
-Common Procurement Vocabulary code: "24111300"
+EC_number: 231-168-5
+Common_Procurement_Vocabulary_code: 24111300
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Helium,560|WD~Helium,560]]

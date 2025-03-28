@@ -1,53 +1,52 @@
----
+﻿---
 has_id_wikidata: Q12140
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-has use: "[[_Standards/WikiData/WD~pharmacotherapy,701216]]"
-different from:
-  - "[[_Standards/WikiData/WD~Medicine,1189264]]"
-  - "[[_Standards/WikiData/WD~Derman,5262676]]"
-  - "[[_Standards/WikiData/WD~Medication,16876752]]"
-  - "[[_Standards/WikiData/WD~Leigheas,123615676]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~effective dose,1425437]]"
-  - "[[_Standards/WikiData/WD~drug class,2585617]]"
-  - "[[_Standards/WikiData/WD~side effect,3269441]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox drug,6033882]]"
-said to be the same as: "[[_Standards/WikiData/WD~medicinal product,12034612]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~medicinal product,12034612]]"
-  - "[[_Standards/WikiData/WD~drug,8386]]"
-part of: "[[_Standards/WikiData/WD~pharmacy,13107184]]"
-produced by: "[[_Standards/WikiData/WD~pharmaceutical company,19644607]]"
-disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-partially coincident with: "[[_Standards/WikiData/WD~pharmaceutical product,28885102]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Medicines,56739955]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B4%D5%A5%D5%B2%D5%A1%D5%B6%D5%B5%D5%B8%D6%82%D5%A9%D5%A5%D6%80%20%28Pharmaceutical%20drugs%29.ogg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Medizin2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Arzneimittel.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Medikament.ogg
-properties for this type:
-  - significant drug interaction
-  - medical condition treated
-Wikidata property: drug or therapy used for treatment
-IAB code: "320"
-All-Science Journal Classification Codes: "2709"
-Colon Classification: F56
-Commons category: Pharmaceutical drugs
-image: http://commons.wikimedia.org/wiki/Special:FilePath/VariousPills.jpg
-Dewey Decimal Classification: "615.1"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Medication%20WV%20banner.jpg
-equivalent class:
-  - http://purl.obolibrary.org/obo/CHEBI_23888
-  - https://schema.org/Drug
-IPTC NewsCode: mediatopic/20000470
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+has_use: '[[_Standards/WikiData/WD~pharmacotherapy,701216]]'
+different_from:
+- '[[_Standards/WikiData/WD~Medicine,1189264]]'
+- '[[_Standards/WikiData/WD~Derman,5262676]]'
+- '[[_Standards/WikiData/WD~Medication,16876752]]'
+- '[[_Standards/WikiData/WD~Leigheas,123615676]]'
+has_characteristic:
+- "[[_Standards/WikiData/WD~effective dose,1425437]]"
+- "[[_Standards/WikiData/WD~drug class,2585617]]"
+- "[[_Standards/WikiData/WD~side effect,3269441]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox drug,6033882]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~medicinal product,12034612]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~medicinal product,12034612]]"
+- '[[_Standards/WikiData/WD~drug,8386]]'
+part_of: '[[_Standards/WikiData/WD~pharmacy,13107184]]'
+produced_by: "[[_Standards/WikiData/WD~pharmaceutical company,19644607]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~pharmaceutical product,28885102]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Medicines,56739955]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B4%D5%A5%D5%B2%D5%A1%D5%B6%D5%B5%D5%B8%D6%82%D5%A9%D5%A5%D6%80%20%28Pharmaceutical%20drugs%29.ogg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Medizin2.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Arzneimittel.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Medikament.ogg"
+properties_for_this_type:
+- "significant drug interaction"
+- "medical condition treated"
+Wikidata_property: "drug or therapy used for treatment"
+IAB_code: 320
+All-Science_Journal_Classification_Codes: 2709
+Colon_Classification: F56
+Commons_category: "Pharmaceutical drugs"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/VariousPills.jpg"
+Dewey_Decimal_Classification: 615.1
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Medication%20WV%20banner.jpg"
+equivalent_class:
+- "http://purl.obolibrary.org/obo/CHEBI_23888"
+- "https://schema.org/Drug"
+IPTC_NewsCode: mediatopic/20000470
 ---
-
 
 ## #has_/text_of_/abstract 
 

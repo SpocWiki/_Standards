@@ -1,32 +1,31 @@
----
+﻿---
 has_id_wikidata: Q9332
-different from:
-  - "[[_Standards/WikiData/WD~Behaviour,1206352]]"
-  - "[[_Standards/WikiData/WD~Verhalten,2515872]]"
-  - "[[_Standards/WikiData/WD~Behavior,60796659]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~habit,1299714]]"
-  - "[[_Standards/WikiData/WD~normality,1375683]]"
-  - "[[_Standards/WikiData/WD~pattern of behavior,2515887]]"
-  - "[[_Standards/WikiData/WD~abnormality,2724302]]"
-subclass of: "[[_Standards/WikiData/WD~pattern,2083958]]"
-partially coincident with:
-  - "[[_Standards/WikiData/WD~behavior,2515874]]"
-  - "[[_Standards/WikiData/WD~conduct,106803732]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~animal behavior,2990593]]"
-  - "[[_Standards/WikiData/WD~human behavior,3769299]]"
-  - "[[_Standards/WikiData/WD~action,4026292]]"
-  - "[[_Standards/WikiData/WD~system behaviour,108427150]]"
-described by source: "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-studied in: "[[_Standards/WikiData/WD~behavioral sciences,3919817]]"
-instance of: "[[_Standards/WikiData/WD~psychology concept,96634632]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Adams%20and%20Westlake%20%283092762993%29.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Ugali.wav
-facet of: "[[_Standards/WikiData/WD~psychology,9418]]"
-U.S. National Archives Identifier: "10676224"
+different_from:
+- '[[_Standards/WikiData/WD~Behaviour,1206352]]'
+- '[[_Standards/WikiData/WD~Verhalten,2515872]]'
+- '[[_Standards/WikiData/WD~Behavior,60796659]]'
+has_characteristic:
+- '[[_Standards/WikiData/WD~habit,1299714]]'
+- '[[_Standards/WikiData/WD~normality,1375683]]'
+- "[[_Standards/WikiData/WD~pattern of behavior,2515887]]"
+- '[[_Standards/WikiData/WD~abnormality,2724302]]'
+subclass_of: '[[_Standards/WikiData/WD~pattern,2083958]]'
+partially_coincident_with:
+- '[[_Standards/WikiData/WD~behavior,2515874]]'
+- '[[_Standards/WikiData/WD~conduct,106803732]]'
+has_part_s_:
+- "[[_Standards/WikiData/WD~animal behavior,2990593]]"
+- "[[_Standards/WikiData/WD~human behavior,3769299]]"
+- '[[_Standards/WikiData/WD~action,4026292]]'
+- "[[_Standards/WikiData/WD~system behaviour,108427150]]"
+described_by_source: "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+studied_in: "[[_Standards/WikiData/WD~behavioral sciences,3919817]]"
+instance_of: "[[_Standards/WikiData/WD~psychology concept,96634632]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Adams%20and%20Westlake%20%283092762993%29.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Ugali.wav"
+facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+U_S_National_Archives_Identifier: 10676224
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,64 +1,65 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21976
 has_id_wikidata: Q932
-Unicode character: 鉈
-part of:
-  - "[[_Standards/WikiData/WD~group 13,189294]]"
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~William Crookes,189552]]"
-named after: "[[_Standards/WikiData/WD~thallus,207495]]"
-associated hazard: "[[_Standards/WikiData/WD~thallium poisoning,374832]]"
-has effect: "[[_Standards/WikiData/WD~thallium poisoning,374832]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-instance of:
-  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-different from: "[[_Standards/WikiData/WD~Tal,5576117]]"
-UMLS CUI: C0039738
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20161.jpg
-time of discovery or invention: 1861-01-01T00:00:00Z
-subclass of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
-ionic radius:
-  - 1.5
-  - 1.7
-  - 0.75
-  - 0.89
-  - 0.98
-  - 1.59
-atomic number: 81
+Unicode_character: 鉈
+part_of:
+- "[[_Standards/WikiData/WD~group 13,189294]]"
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William Crookes,189552]]"
+named_after: '[[_Standards/WikiData/WD~thallus,207495]]'
+associated_hazard: "[[_Standards/WikiData/WD~thallium poisoning,374832]]"
+has_effect: "[[_Standards/WikiData/WD~thallium poisoning,374832]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+instance_of:
+- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+different_from: '[[_Standards/WikiData/WD~Tal,5576117]]'
+UMLS_CUI: C0039738
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20161.jpg"
+time_of_discovery_or_invention: "1861-01-01T00:00:00Z"
+subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+ionic_radius:
+- 1.5
+- 1.7
+- 0.75
+- 0.89
+- 0.98
+- 1.59
+atomic_number: 81
 electronegativity: 1.62
-OmegaWiki Defined Meaning: "3761"
+OmegaWiki_Defined_Meaning: 3761
 mass: 204.38
-ZVG number: "7810"
-Commons gallery: Thallium
-Commons category: Thallium
-Gmelin number: "16308"
-canonical SMILES: "[Tl]"
-chemical formula: Tl
-element symbol: Tl
-Common Procurement Vocabulary code: "14764000"
-PubChem CID: "5359464"
-CPV Supplementary code: AA31
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Thallium%20pieces%20in%20ampoule.jpg
-EC number: 231-138-1
-CAS Registry Number: 7440-28-0
+ZVG_number: 7810
+Commons_gallery: Thallium
+Commons_category: Thallium
+Gmelin_number: 16308
+canonical_SMILES: '[Tl]'
+chemical_formula: Tl
+element_symbol: Tl
+Common_Procurement_Vocabulary_code: 14764000
+PubChem_CID: 5359464
+CPV_Supplementary_code: AA31
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Thallium%20pieces%20in%20ampoule.jpg"
+EC_number: 231-138-1
+CAS_Registry_Number: 7440-28-0
 UNII: AD84R52XLF
 InChIKey: BKVIYDNLLOSFOA-UHFFFAOYSA-N
-MeSH tree code:
-  - D01.268.556.847
-  - D01.552.544.847
-DSSTOX compound identifier: DTXCID301012091
+MeSH_tree_code:
+- D01.268.556.847
+- D01.552.544.847
+DSSTOX_compound_identifier: DTXCID301012091
 InChI: InChI=1S/Tl
-Krugosvet article: nauka_i_tehnika/himiya/TALLI.html
+Krugosvet_article: nauka_i_tehnika/himiya/TALLI.html
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Thallium,932]] 
 

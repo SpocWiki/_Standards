@@ -1,74 +1,73 @@
----
+﻿---
 has_id_wikidata: Q10884
-MeSH tree code: B01.650.915
+MeSH_tree_code: B01.650.915
 subreddit: marijuanaenthusiasts
-Krugosvet article: nauka_i_tehnika/biologiya/DEREVO.html
-OpenStreetMap tag or key: Tag:natural=tree
-GeoNames feature code: V.TREE
-has part(s):
-  - "[[_Standards/WikiData/WD~bark,184453]]"
-  - "[[_Standards/WikiData/WD~trunk,193472]]"
-  - "[[_Standards/WikiData/WD~moisture,217651]]"
-  - "[[_Standards/WikiData/WD~tree crown,2138208]]"
-  - "[[_Standards/WikiData/WD~branch,2923673]]"
-  - "[[_Standards/WikiData/WD~root,41500]]"
-studied in:
-  - "[[_Standards/WikiData/WD~dendrology,192658]]"
-  - "[[_Standards/WikiData/WD~forestry science,19924411]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~woody plant,757163]]"
-  - "[[_Standards/WikiData/WD~phanerophyte,1649770]]"
-part of:
-  - "[[_Standards/WikiData/WD~phanerophyte,1649770]]"
-  - "[[_Standards/WikiData/WD~forest,4421]]"
-instance of:
-  - "[[_Standards/WikiData/WD~plant life-form,2355817]]"
-  - "[[_Standards/WikiData/WD~organisms known by a particular common name,55983715]]"
-  - "[[_Standards/WikiData/WD~first-order class,104086571]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox tree,10810580]]"
-  - "[[_Standards/WikiData/WD~Template_Tree,45244242]]"
-said to be the same as: "[[_Standards/WikiData/WD~macrophanerophytes,10878543]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Trees,11039711]]"
-different from:
-  - "[[_Standards/WikiData/WD~Baum,17492107]]"
-  - "[[_Standards/WikiData/WD~shrub,42295]]"
-disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Alnus%20glutinosa%20011.jpg
-UMLS CUI: C0040811
-Dewey Decimal Classification:
-  - "582.16"
-  - "634.97"
-  - "635.977"
-  - "634"
-exact match: https://turkic.elegantlexicon.com/turkforms.php?form=treetree
-properties for this type:
-  - location
-  - height
-this taxon is source of: "[[_Standards/WikiData/WD~wood,287]]"
-OmegaWiki Defined Meaning: "3854"
-Iconclass notation: 25G3
-U.S. National Archives Identifier: "10644616"
-Commons category: Trees
-Commons gallery: Tree
-Danbooru tag: tree
-3D model: http://commons.wikimedia.org/wiki/Special:FilePath/Baum%20mit%20verzweigten%20Zweigen%2020220726.stl
+Krugosvet_article: nauka_i_tehnika/biologiya/DEREVO.html
+OpenStreetMap_tag_or_key: "Tag:natural=tree"
+GeoNames_feature_code: V.TREE
+has_part_s_:
+- '[[_Standards/WikiData/WD~bark,184453]]'
+- '[[_Standards/WikiData/WD~trunk,193472]]'
+- '[[_Standards/WikiData/WD~moisture,217651]]'
+- "[[_Standards/WikiData/WD~tree crown,2138208]]"
+- '[[_Standards/WikiData/WD~branch,2923673]]'
+- '[[_Standards/WikiData/WD~root,41500]]'
+studied_in:
+- '[[_Standards/WikiData/WD~dendrology,192658]]'
+- "[[_Standards/WikiData/WD~forestry science,19924411]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~woody plant,757163]]"
+- '[[_Standards/WikiData/WD~phanerophyte,1649770]]'
+part_of:
+- '[[_Standards/WikiData/WD~phanerophyte,1649770]]'
+- '[[_Standards/WikiData/WD~forest,4421]]'
+instance_of:
+- "[[_Standards/WikiData/WD~plant life-form,2355817]]"
+- "[[_Standards/WikiData/WD~organisms known by a particular common name,55983715]]"
+- "[[_Standards/WikiData/WD~first-order class,104086571]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox tree,10810580]]"
+- '[[_Standards/WikiData/WD~Template_Tree,45244242]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~macrophanerophytes,10878543]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Trees,11039711]]'
+different_from:
+- '[[_Standards/WikiData/WD~Baum,17492107]]'
+- '[[_Standards/WikiData/WD~shrub,42295]]'
+disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alnus%20glutinosa%20011.jpg"
+UMLS_CUI: C0040811
+Dewey_Decimal_Classification:
+- 582.16
+- 634.97
+- 635.977
+- 634
+exact_match: "https://turkic.elegantlexicon.com/turkforms.php?form=treetree"
+properties_for_this_type:
+- location
+- height
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~wood,287]]'
+OmegaWiki_Defined_Meaning: 3854
+Iconclass_notation: 25G3
+U_S_National_Archives_Identifier: 10644616
+Commons_category: Trees
+Commons_gallery: Tree
+Danbooru_tag: tree
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Baum%20mit%20verzweigten%20Zweigen%2020220726.stl"
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Fotosynthese%20der%20B%C3%A4ume.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/So%20trinken%20B%C3%A4ume.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wann%20wachsen%20B%C3%A4ume%3F.webm
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Fotosynthese%20der%20B%C3%A4ume.webm"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/So%20trinken%20B%C3%A4ume.webm"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wann%20wachsen%20B%C3%A4ume%3F.webm"
 ---
-
 
 ## #has_/text_of_/abstract 
 

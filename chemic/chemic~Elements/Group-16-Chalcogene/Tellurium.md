@@ -1,72 +1,72 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21948
 has_id_wikidata: Q1100
-Commons gallery: Tellurium
-Commons category: Tellurium
-RTECS number: WY2625000
-time of discovery or invention: 1783-01-01T00:00:00Z
-part of:
-  - "[[_Standards/WikiData/WD~group 16,104567]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~group 16,104567]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~metalloid,19596]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Franz-Joseph Müller von Reichenstein,112012]]"
-named after: "[[_Standards/WikiData/WD~Terra,270867]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-instance of:
-  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-  - "[[_Standards/WikiData/WD~flammable solid,21073024]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-found in taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
-associated hazard: "[[_Standards/WikiData/WD~tellurium exposure,21175335]]"
-has effect: "[[_Standards/WikiData/WD~tellurium exposure,21175335]]"
-UMLS CUI: C0039462
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20crystals%20crystallizing.webm
-electron configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁴
-  - "[Kr] 5s² 5d¹⁰ 5p⁴"
-vapor pressure: 0
-time-weighted average exposure limit: 0.1
+Commons_gallery: Tellurium
+Commons_category: Tellurium
+RTECS_number: WY2625000
+time_of_discovery_or_invention: "1783-01-01T00:00:00Z"
+part_of:
+- "[[_Standards/WikiData/WD~group 16,104567]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~group 16,104567]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- '[[_Standards/WikiData/WD~metalloid,19596]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Franz-Joseph Müller von Reichenstein,112012]]"
+named_after: '[[_Standards/WikiData/WD~Terra,270867]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+instance_of:
+- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+- "[[_Standards/WikiData/WD~flammable solid,21073024]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
+associated_hazard: "[[_Standards/WikiData/WD~tellurium exposure,21175335]]"
+has_effect: "[[_Standards/WikiData/WD~tellurium exposure,21175335]]"
+UMLS_CUI: C0039462
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20crystals%20crystallizing.webm"
+electron_configuration:
+- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁴"
+- "[Kr] 5s² 5d¹⁰ 5p⁴"
+vapor_pressure: 0
+time-weighted_average_exposure_limit: 0.1
 electronegativity: 2.1
-immediately dangerous to life or health: 25
-ionic radius:
-  - 0.43
-  - 0.56
-  - 0.66
-  - 0.97
-  - 2.21
-atomic number: 52
+immediately_dangerous_to_life_or_health: 25
+ionic_radius:
+- 0.43
+- 0.56
+- 0.66
+- 0.97
+- 2.21
+atomic_number: 52
 density: 6.24
-melting point: 842
+melting_point: 842
 mass: 127.6
-boiling point: 1814
-ZVG number: "7520"
-Gmelin number: "16309"
-OmegaWiki Defined Meaning: "160178"
-PubChem CID: "6327182"
-Unicode character: 碲
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20element%202.jpg
-canonical SMILES: "[Te]"
-CAS Registry Number: 13494-80-9
-EC number: 236-813-4
-MeSH tree code:
-  - D01.268.185.950
-  - D01.268.513.968
-DSSTOX compound identifier: DTXCID7012119
-Wolfram Language entity code: Entity["Mineral", "Tellurium"]
+boiling_point: 1814
+ZVG_number: 7520
+Gmelin_number: 16309
+OmegaWiki_Defined_Meaning: 160178
+PubChem_CID: 6327182
+Unicode_character: 碲
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20element%202.jpg"
+canonical_SMILES: '[Te]'
+CAS_Registry_Number: 13494-80-9
+EC_number: 236-813-4
+MeSH_tree_code:
+- D01.268.185.950
+- D01.268.513.968
+DSSTOX_compound_identifier: DTXCID7012119
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tellurium\"]"
 InChI: InChI=1S/Te
 UNII: NQA0O090ZJ
 InChIKey: PORWMNRCUJJQNO-UHFFFAOYSA-N
-chemical formula: Te
-element symbol: Te
+chemical_formula: Te
+element_symbol: Te
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Tellurium,1100]]  

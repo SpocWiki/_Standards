@@ -1,59 +1,60 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21967
 has_id_wikidata: Q1857
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Carl Auer von Welsbach,89390]]"
-  - "[[_Standards/WikiData/WD~Georges Urbain,560404]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
-named after: "[[_Standards/WikiData/WD~Lutetia,270273]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox lutetium,8085411]]"
-UMLS CUI: C0024170
-Common Procurement Vocabulary code:
-  - 14752000-7
-  - "14752000"
-instance of:
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Carl Auer von Welsbach,89390]]"
+- "[[_Standards/WikiData/WD~Georges Urbain,560404]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+named_after: '[[_Standards/WikiData/WD~Lutetia,270273]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox lutetium,8085411]]"
+UMLS_CUI: C0024170
+Common_Procurement_Vocabulary_code:
+- 14752000-7
+- 14752000
+instance_of:
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
 electronegativity: 1
-oxidation state: 3
-atomic number: 71
-ionic radius:
-  - 0.86
-  - 0.97
-Gmelin number: "16202"
-PubChem CID: "23929"
-OmegaWiki Defined Meaning: "161929"
-chemical formula: Lu
-element symbol: Lu
+oxidation_state: 3
+atomic_number: 71
+ionic_radius:
+- 0.86
+- 0.97
+Gmelin_number: 16202
+PubChem_CID: 23929
+OmegaWiki_Defined_Meaning: 161929
+chemical_formula: Lu
+element_symbol: Lu
 mass: 174.96669
-CPV Supplementary code: AA24
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Lutetium%20sublimed%20dendritic%20and%201cm3%20cube.jpg
-canonical SMILES: "[Lu]"
-EC number: 231-103-0
+CPV_Supplementary_code: AA24
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lutetium%20sublimed%20dendritic%20and%201cm3%20cube.jpg"
+canonical_SMILES: '[Lu]'
+EC_number: 231-103-0
 UNII: 5H0DOZ21UJ
-CAS Registry Number: 7439-94-3
-MeSH tree code:
-  - D01.268.558.362.562
-  - D01.268.956.311
-  - D01.552.550.399.562
-DSSTOX compound identifier: DTXCID9027730
+CAS_Registry_Number: 7439-94-3
+MeSH_tree_code:
+- D01.268.558.362.562
+- D01.268.956.311
+- D01.552.550.399.562
+DSSTOX_compound_identifier: DTXCID9027730
 InChI: InChI=1S/Lu
-Commons gallery: Lutetium
-Commons category: Lutetium
+Commons_gallery: Lutetium
+Commons_category: Lutetium
 InChIKey: OHSVLFRHMCKCQY-UHFFFAOYSA-N
-Unicode character: 鎦
-time of discovery or invention: 1906-01-01T00:00:00Z
+Unicode_character: 鎦
+time_of_discovery_or_invention: "1906-01-01T00:00:00Z"
 aliases:
-  - cassiopeium
-  - cassiopium
-  - lutecium
-  - lutetium
+- cassiopeium
+- cassiopium
+- lutecium
+- lutetium
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857]] 
 

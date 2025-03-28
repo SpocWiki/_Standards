@@ -1,25 +1,24 @@
----
+﻿---
 aliases:
-  - Modern history
+- "Modern history"
 has_id_wikidata: Q3281534
-part of: "[[_Standards/WikiData/WD~periodization,816829]]"
-instance of:
-  - "[[_Standards/WikiData/WD~academic major,4671286]]"
-  - "[[_Standards/WikiData/WD~era,6428674]]"
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
+instance_of:
+- "[[_Standards/WikiData/WD~academic major,4671286]]"
+- '[[_Standards/WikiData/WD~era,6428674]]'
+- "[[_Standards/WikiData/WD~historical period,11514315]]"
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
 follows: "[[_Standards/WikiData/WD~Postclassical Era,7234117]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Modern history,13834331]]"
-practiced by: "[[_Standards/WikiData/WD~historian of Modern Age,17489339]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q23016635,23016635]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/La%20Libert%C3%A9%20guidant%20le%20peuple%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20129%20-%20apr%C3%A8s%20restauration%202024.jpg
-start time: 1700-01-01T00:00:00Z
-subclass of: "[[_Standards/WikiData/WD~history,309]]"
-U.S. National Archives Identifier: "10647222"
-MeSH tree code: K01.400.504
-Commons category: Modern period
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Modern history,13834331]]"
+practiced_by: "[[_Standards/WikiData/WD~historian of Modern Age,17489339]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23016635,23016635]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Libert%C3%A9%20guidant%20le%20peuple%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20129%20-%20apr%C3%A8s%20restauration%202024.jpg"
+start_time: "1700-01-01T00:00:00Z"
+subclass_of: '[[_Standards/WikiData/WD~history,309]]'
+U_S_National_Archives_Identifier: 10647222
+MeSH_tree_code: K01.400.504
+Commons_category: "Modern period"
 ---
-
 
 ## #has_/text_of_/abstract 
 

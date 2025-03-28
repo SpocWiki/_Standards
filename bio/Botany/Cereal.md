@@ -1,36 +1,35 @@
----
+﻿---
 has_id_wikidata: Q12117
-subclass of:
-  - "[[_Standards/WikiData/WD~raw material,192355]]"
-  - "[[_Standards/WikiData/WD~grain,2995529]]"
-  - "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-different from:
-  - "[[_Standards/WikiData/WD~pseudocereal,749997]]"
-  - "[[_Standards/WikiData/WD~cereal crop,13112756]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-part of: "[[_Standards/WikiData/WD~cereals and pseudocereals,2643145]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Cereals,6868173]]"
-instance of: "[[_Standards/WikiData/WD~group or class of agricultural products,113657383]]"
-water footprint:
-  - 0.51
-  - 1214
-  - 1294
-  - 1644
-  - 1774
-  - 1969
-  - 3388
-Commons category: Cereals
-Amazon.com browse node: "16323151"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Various%20grains%20edit2.jpg
-OKPD code of the good or service: 01.11.1
-Iconclass notation: 41C6121
-Biology Online Biology Dictionary entry: cereal
-Commons gallery: Cereal
+subclass_of:
+- "[[_Standards/WikiData/WD~raw material,192355]]"
+- '[[_Standards/WikiData/WD~grain,2995529]]'
+- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+different_from:
+- '[[_Standards/WikiData/WD~pseudocereal,749997]]'
+- "[[_Standards/WikiData/WD~cereal crop,13112756]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+part_of: "[[_Standards/WikiData/WD~cereals and pseudocereals,2643145]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Cereals,6868173]]'
+instance_of: "[[_Standards/WikiData/WD~group or class of agricultural products,113657383]]"
+water_footprint:
+- 0.51
+- 1214
+- 1294
+- 1644
+- 1774
+- 1969
+- 3388
+Commons_category: Cereals
+Amazon_com_browse_node: 16323151
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Various%20grains%20edit2.jpg"
+OKPD_code_of_the_good_or_service: 01.11.1
+Iconclass_notation: 41C6121
+Biology_Online_Biology_Dictionary_entry: cereal
+Commons_gallery: Cereal
 ---
-
 
 ## #has_/text_of_/abstract 
 

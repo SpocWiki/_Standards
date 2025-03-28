@@ -1,31 +1,30 @@
----
+﻿---
 has_id_wikidata: Q11435
-different from: "[[_Standards/WikiData/WD~fluid,102205]]"
-subclass of: "[[_Standards/WikiData/WD~fluid,102205]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~viscosity,128709]]"
-  - "[[_Standards/WikiData/WD~fluidity,3074482]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-manifestation of: "[[_Standards/WikiData/WD~liquid state of matter,6761456]]"
-instance of: "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
-less than: "[[_Standards/WikiData/WD~gas,11432]]"
-greater than:
-  - "[[_Standards/WikiData/WD~gas,11432]]"
-  - "[[_Standards/WikiData/WD~solid,11438]]"
-OmegaWiki Defined Meaning: "2174"
-Commons gallery: Liquid
-Commons category: Liquid
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Water%20drop%20001.jpg
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20model.svg
-Krugosvet article: nauka_i_tehnika/fizika/ZHIDKOST.html
-Library of Congress Classification: QC141
+different_from: '[[_Standards/WikiData/WD~fluid,102205]]'
+subclass_of: '[[_Standards/WikiData/WD~fluid,102205]]'
+has_characteristic:
+- '[[_Standards/WikiData/WD~viscosity,128709]]'
+- '[[_Standards/WikiData/WD~fluidity,3074482]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+manifestation_of: "[[_Standards/WikiData/WD~liquid state of matter,6761456]]"
+instance_of: "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
+less_than: '[[_Standards/WikiData/WD~gas,11432]]'
+greater_than:
+- '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~solid,11438]]'
+OmegaWiki_Defined_Meaning: 2174
+Commons_gallery: Liquid
+Commons_category: Liquid
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Water%20drop%20001.jpg"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20model.svg"
+Krugosvet_article: nauka_i_tehnika/fizika/ZHIDKOST.html
+Library_of_Congress_Classification: QC141
 ---
-
 
 ## #has_/text_of_/abstract 
 

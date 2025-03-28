@@ -1,26 +1,25 @@
----
+﻿---
 aliases:
-  - Weak interaction
+- "Weak interaction"
 has_id_wikidata: Q11418
-instance of: "[[_Standards/WikiData/WD~fundamental interaction,104934]]"
-subclass of: "[[_Standards/WikiData/WD~electroweak interaction,466416]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
+instance_of: "[[_Standards/WikiData/WD~fundamental interaction,104934]]"
+subclass_of: "[[_Standards/WikiData/WD~electroweak interaction,466416]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20weak%20interactions-vi.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20weak%20interactions-tr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AE%D8%B7%D8%B7%20%D8%AA%D9%81%D9%83%D9%83%20%D8%A7%D9%84%D9%83%D9%88%D8%A7%D8%B1%D9%83%20%D8%A8%D8%A5%D8%B4%D8%B9%D8%A7%D8%B9%20%D8%A8%D9%8A%D8%AA%D8%A7.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Weak%20decay%20diagram%20zh-hant.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Weak%20decay%20diagram%20zh-hans.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Weak%20Decay%20%28flipped%29%20mk.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Diagrama%20desintegraci%C3%B3%20feble.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Diagramme%20de%20la%20d%C3%A9sint%C3%A9gration%20des%20quarks%20par%20radioactivit%C3%A9%20beta.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Weak%20Decay%20%28flipped%29.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/PiPlus%20muon%20decay.svg
-Stack Exchange tag: https://physics.stackexchange.com/tags/weak-interaction
-Dewey Decimal Classification: "539.7544"
-Commons category: Weak nuclear force
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20weak%20interactions-vi.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20weak%20interactions-tr.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AE%D8%B7%D8%B7%20%D8%AA%D9%81%D9%83%D9%83%20%D8%A7%D9%84%D9%83%D9%88%D8%A7%D8%B1%D9%83%20%D8%A8%D8%A5%D8%B4%D8%B9%D8%A7%D8%B9%20%D8%A8%D9%8A%D8%AA%D8%A7.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Weak%20decay%20diagram%20zh-hant.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Weak%20decay%20diagram%20zh-hans.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Weak%20Decay%20%28flipped%29%20mk.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Diagrama%20desintegraci%C3%B3%20feble.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Diagramme%20de%20la%20d%C3%A9sint%C3%A9gration%20des%20quarks%20par%20radioactivit%C3%A9%20beta.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Weak%20Decay%20%28flipped%29.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/PiPlus%20muon%20decay.svg"
+Stack_Exchange_tag: "https://physics.stackexchange.com/tags/weak-interaction"
+Dewey_Decimal_Classification: 539.7544
+Commons_category: "Weak nuclear force"
 ---
-
 
 ## #has_/text_of_/abstract 
 

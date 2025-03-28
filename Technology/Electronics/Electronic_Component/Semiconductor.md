@@ -1,31 +1,30 @@
----
+﻿---
 has_id_wikidata: Q11456
-subclass of:
-  - "[[_Standards/WikiData/WD~electrical conductor,124291]]"
-  - "[[_Standards/WikiData/WD~material,214609]]"
-  - "[[_Standards/WikiData/WD~Q31450902,31450902]]"
-part of:
-  - "[[_Standards/WikiData/WD~semiconductor device,175805]]"
-  - "[[_Standards/WikiData/WD~semiconductor memory,1143031]]"
-  - "[[_Standards/WikiData/WD~semiconductor diode,1929430]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~p-type semiconductor,1196214]]"
-  - "[[_Standards/WikiData/WD~n-type semiconductor,1332028]]"
-practiced by:
-  - "[[_Standards/WikiData/WD~semiconductor industry,2986369]]"
-  - "[[_Standards/WikiData/WD~semiconductors chemistry,12168144]]"
-studied in: "[[_Standards/WikiData/WD~semiconductors chemistry,12168144]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~electrical conductor,124291]]"
+- '[[_Standards/WikiData/WD~material,214609]]'
+- '[[_Standards/WikiData/WD~Q31450902,31450902]]'
+part_of:
+- "[[_Standards/WikiData/WD~semiconductor device,175805]]"
+- "[[_Standards/WikiData/WD~semiconductor memory,1143031]]"
+- "[[_Standards/WikiData/WD~semiconductor diode,1929430]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~p-type semiconductor,1196214]]"
+- "[[_Standards/WikiData/WD~n-type semiconductor,1332028]]"
+practiced_by:
+- "[[_Standards/WikiData/WD~semiconductor industry,2986369]]"
+- "[[_Standards/WikiData/WD~semiconductors chemistry,12168144]]"
+studied_in: "[[_Standards/WikiData/WD~semiconductors chemistry,12168144]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Capteurs%20CCD%20et%20CMOS.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Semiconductor%20outlines.jpg
-IEV number: 121-12-06
-UMLS CUI: C0036623
-MeSH tree code: E07.305.625
-OmegaWiki Defined Meaning: "3378"
-Commons category: Semiconductors
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Capteurs%20CCD%20et%20CMOS.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Semiconductor%20outlines.jpg"
+IEV_number: 121-12-06
+UMLS_CUI: C0036623
+MeSH_tree_code: E07.305.625
+OmegaWiki_Defined_Meaning: 3378
+Commons_category: Semiconductors
 ---
-
 
 ## #has_/text_of_/abstract 
 

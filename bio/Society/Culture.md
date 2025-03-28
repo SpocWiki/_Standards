@@ -1,61 +1,60 @@
----
+﻿---
 has_id_wikidata: Q11042
-MeSH tree code:
-  - I01.076.201.450
-  - I01.880.853.100
-IPTC NewsCode: mediatopic/20000038
-Krugosvet article: sociologiya/kultura
-studied in:
-  - "[[_Standards/WikiData/WD~ethnography,132151]]"
-  - "[[_Standards/WikiData/WD~cultural history,858517]]"
-  - "[[_Standards/WikiData/WD~cultural studies,1143546]]"
-  - "[[_Standards/WikiData/WD~sociology of culture,1570681]]"
-  - "[[_Standards/WikiData/WD~philosophy of culture,1791813]]"
-  - "[[_Standards/WikiData/WD~anthropology,23404]]"
-instance of: "[[_Standards/WikiData/WD~concept,151885]]"
-geography of topic: "[[_Standards/WikiData/WD~cultural geography,168891]]"
-manifestation of:
-  - "[[_Standards/WikiData/WD~social norm,205665]]"
-  - "[[_Standards/WikiData/WD~mores,1115221]]"
-different from:
-  - "[[_Standards/WikiData/WD~cultural heritage,210272]]"
-  - "[[_Standards/WikiData/WD~cultivation,357279]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-named after:
-  - "[[_Standards/WikiData/WD~cult,756820]]"
-  - "[[_Standards/WikiData/WD~Ur,5699]]"
-history of topic: "[[_Standards/WikiData/WD~cultural history,858517]]"
-subclass of: "[[_Standards/WikiData/WD~pattern of behavior,2515887]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~human behavior,3769299]]"
-  - "[[_Standards/WikiData/WD~cultural rights,5193405]]"
-  - "[[_Standards/WikiData/WD~belief system,5390013]]"
-  - "[[_Standards/WikiData/WD~artificial physical object,8205328]]"
-  - "[[_Standards/WikiData/WD~art,735]]"
-has characteristic: "[[_Standards/WikiData/WD~cultural universal,3825100]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of culture,4773237]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Culture,6652637]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Culture,7743800]]"
-practiced by: "[[_Standards/WikiData/WD~culture personality,10550018]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828713,22828713]]"
-Provenio UUID: 26cc3bb0-742a-45f7-abda-2eb82963c52b
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Nwodua%20wulana%20Alhassan.jpg
-Wikidata property: culture
-Dewey Decimal Classification: "306"
+MeSH_tree_code:
+- I01.076.201.450
+- I01.880.853.100
+IPTC_NewsCode: mediatopic/20000038
+Krugosvet_article: sociologiya/kultura
+studied_in:
+- '[[_Standards/WikiData/WD~ethnography,132151]]'
+- "[[_Standards/WikiData/WD~cultural history,858517]]"
+- "[[_Standards/WikiData/WD~cultural studies,1143546]]"
+- "[[_Standards/WikiData/WD~sociology of culture,1570681]]"
+- "[[_Standards/WikiData/WD~philosophy of culture,1791813]]"
+- '[[_Standards/WikiData/WD~anthropology,23404]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
+geography_of_topic: "[[_Standards/WikiData/WD~cultural geography,168891]]"
+manifestation_of:
+- "[[_Standards/WikiData/WD~social norm,205665]]"
+- '[[_Standards/WikiData/WD~mores,1115221]]'
+different_from:
+- "[[_Standards/WikiData/WD~cultural heritage,210272]]"
+- '[[_Standards/WikiData/WD~cultivation,357279]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+named_after:
+- '[[_Standards/WikiData/WD~cult,756820]]'
+- '[[_Standards/WikiData/WD~Ur,5699]]'
+history_of_topic: "[[_Standards/WikiData/WD~cultural history,858517]]"
+subclass_of: "[[_Standards/WikiData/WD~pattern of behavior,2515887]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~human behavior,3769299]]"
+- "[[_Standards/WikiData/WD~cultural rights,5193405]]"
+- "[[_Standards/WikiData/WD~belief system,5390013]]"
+- "[[_Standards/WikiData/WD~artificial physical object,8205328]]"
+- '[[_Standards/WikiData/WD~art,735]]'
+has_characteristic: "[[_Standards/WikiData/WD~cultural universal,3825100]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of culture,4773237]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Culture,6652637]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Culture,7743800]]'
+practiced_by: "[[_Standards/WikiData/WD~culture personality,10550018]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828713,22828713]]'
+Provenio_UUID: 26cc3bb0-742a-45f7-abda-2eb82963c52b
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nwodua%20wulana%20Alhassan.jpg"
+Wikidata_property: culture
+Dewey_Decimal_Classification: 306
 hashtag: culture
-Chinese Library Classification: G1
-Commons category: Culture
-U.S. National Archives Identifier: "10640511"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Cultural%20attractions%20Petra.jpg
-exact match: http://cv.iptc.org/newscodes/subjectcode/01022000
+Chinese_Library_Classification: G1
+Commons_category: Culture
+U_S_National_Archives_Identifier: 10640511
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Cultural%20attractions%20Petra.jpg"
+exact_match: "http://cv.iptc.org/newscodes/subjectcode/01022000"
 ---
-
 
 ## #has_/text_of_/abstract 
 

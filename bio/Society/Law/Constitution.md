@@ -1,43 +1,42 @@
----
+﻿---
 has_id_wikidata: Q7755
-different from:
-  - "[[_Standards/WikiData/WD~Konstitution,256836]]"
-  - "[[_Standards/WikiData/WD~Q11743044,11743044]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~constitutional document,680655]]"
-  - "[[_Standards/WikiData/WD~statute,820655]]"
-  - "[[_Standards/WikiData/WD~sources of law,846882]]"
-  - "[[_Standards/WikiData/WD~structure,6671777]]"
-  - "[[_Standards/WikiData/WD~authorizing legislation,106706188]]"
-studied in: "[[_Standards/WikiData/WD~constitutional history,2515460]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~article of constitution,19917774]]"
-instance of: "[[_Standards/WikiData/WD~type of law,63718619]]"
-Library of Congress Classification: K3154-K3370
+different_from:
+- '[[_Standards/WikiData/WD~Konstitution,256836]]'
+- '[[_Standards/WikiData/WD~Q11743044,11743044]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~constitutional document,680655]]"
+- '[[_Standards/WikiData/WD~statute,820655]]'
+- "[[_Standards/WikiData/WD~sources of law,846882]]"
+- '[[_Standards/WikiData/WD~structure,6671777]]'
+- "[[_Standards/WikiData/WD~authorizing legislation,106706188]]"
+studied_in: "[[_Standards/WikiData/WD~constitutional history,2515460]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~article of constitution,19917774]]"
+instance_of: "[[_Standards/WikiData/WD~type of law,63718619]]"
+Library_of_Congress_Classification: K3154-K3370
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Progla%C5%A1enje%20Vidovdanskog%20ustava%201921.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Konstytucja%203%20Maja.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/A%20Carta%20Constitucional%20e%20a%20fam%C3%ADlia%20real.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Kanun-i%20Esasi.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Texas%20Constitution%201836.png
-properties for this type:
-  - inception
-  - country
-Wikidata property: main regulatory text
-Nomenclature for Museum Cataloging: "13271"
-OmegaWiki Defined Meaning: "379531"
-U.S. National Archives Identifier: "10639950"
-Commons category: Constitutions
-Krugosvet article:
-  - ekonomika-i-pravo/konstitutsiya
-  - ekonomika-i-pravo/konstitutsiya-0
-IPTC NewsCode: mediatopic/20000597
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Progla%C5%A1enje%20Vidovdanskog%20ustava%201921.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Konstytucja%203%20Maja.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Carta%20Constitucional%20e%20a%20fam%C3%ADlia%20real.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Kanun-i%20Esasi.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Texas%20Constitution%201836.png"
+properties_for_this_type:
+- inception
+- country
+Wikidata_property: "main regulatory text"
+Nomenclature_for_Museum_Cataloging: 13271
+OmegaWiki_Defined_Meaning: 379531
+U_S_National_Archives_Identifier: 10639950
+Commons_category: Constitutions
+Krugosvet_article:
+- ekonomika-i-pravo/konstitutsiya
+- ekonomika-i-pravo/konstitutsiya-0
+IPTC_NewsCode: mediatopic/20000597
 ---
-
 
 ## #has_/text_of_/abstract 
 

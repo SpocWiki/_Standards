@@ -1,49 +1,48 @@
----
+﻿---
 has_id_wikidata: Q128406
-is the study of:
-  - "[[_Standards/WikiData/WD~signaling receptor,208467]]"
-  - "[[_Standards/WikiData/WD~indication,496997]]"
-  - "[[_Standards/WikiData/WD~effect,926230]]"
-  - "[[_Standards/WikiData/WD~contraindication,1848900]]"
-  - "[[_Standards/WikiData/WD~drug,8386]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~pharmacokinetics,323936]]"
-  - "[[_Standards/WikiData/WD~pharmacodynamics,725307]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-different from: "[[_Standards/WikiData/WD~pharmacy,614304]]"
-subclass of: "[[_Standards/WikiData/WD~health sciences,843601]]"
-instance of:
-  - "[[_Standards/WikiData/WD~medical specialty,930752]]"
-  - "[[_Standards/WikiData/WD~pharmaceutical science,7180763]]"
-  - "[[_Standards/WikiData/WD~branch of biology,28598684]]"
-practiced by: "[[_Standards/WikiData/WD~pharmacologist,2114605]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%94%E0%A6%B7%E0%A6%A7%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav
-Dewey Decimal Classification:
-  - "174.2951"
-  - "615"
-  - "615.1"
-MeSH tree code:
-  - H01.158.703
-  - H02.628
-IPTC NewsCode: mediatopic/20000713
-GitHub topic: pharmacology
+is_the_study_of:
+- "[[_Standards/WikiData/WD~signaling receptor,208467]]"
+- '[[_Standards/WikiData/WD~indication,496997]]'
+- '[[_Standards/WikiData/WD~effect,926230]]'
+- '[[_Standards/WikiData/WD~contraindication,1848900]]'
+- '[[_Standards/WikiData/WD~drug,8386]]'
+has_part_s_:
+- '[[_Standards/WikiData/WD~pharmacokinetics,323936]]'
+- '[[_Standards/WikiData/WD~pharmacodynamics,725307]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+different_from: '[[_Standards/WikiData/WD~pharmacy,614304]]'
+subclass_of: "[[_Standards/WikiData/WD~health sciences,843601]]"
+instance_of:
+- "[[_Standards/WikiData/WD~medical specialty,930752]]"
+- "[[_Standards/WikiData/WD~pharmaceutical science,7180763]]"
+- "[[_Standards/WikiData/WD~branch of biology,28598684]]"
+practiced_by: '[[_Standards/WikiData/WD~pharmacologist,2114605]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%94%E0%A6%B7%E0%A6%A7%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav"
+Dewey_Decimal_Classification:
+- 174.2951
+- 615
+- 615.1
+MeSH_tree_code:
+- H01.158.703
+- H02.628
+IPTC_NewsCode: mediatopic/20000713
+GitHub_topic: pharmacology
 subreddit: pharmacology
-OpenStreetMap tag or key: Tag:healthcare:speciality=pharmacology
-topic's main template: "[[_Standards/WikiData/WD~Template_Pharmacology,13099509]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-UMLS CUI: C0031330
-OmegaWiki Defined Meaning: "2770"
-All-Science Journal Classification Codes: "3004"
-Commons category: Pharmacology
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Pharmacologyprism.jpg
-Basisklassifikation: "44.38"
-U.S. National Archives Identifier: "10642247"
+OpenStreetMap_tag_or_key: "Tag:healthcare:speciality=pharmacology"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Pharmacology,13099509]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+UMLS_CUI: C0031330
+OmegaWiki_Defined_Meaning: 2770
+All-Science_Journal_Classification_Codes: 3004
+Commons_category: Pharmacology
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pharmacologyprism.jpg"
+Basisklassifikation: 44.38
+U_S_National_Archives_Identifier: 10642247
 ---
-
 
 ## #has_/text_of_/abstract 
 

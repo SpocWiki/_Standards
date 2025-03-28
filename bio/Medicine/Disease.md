@@ -1,97 +1,96 @@
----
+﻿---
 has_id_wikidata: Q12136
-U.S. National Archives Identifier: "10640250"
-equivalent class:
-  - http://dbpedia.org/ontology/Disease
-  - https://schema.org/MedicalCondition
-narrower external class: http://id.nlm.nih.gov/mesh/vocab#SCR_Disease
-exact match:
-  - http://identifiers.org/doid/DOID:4
-  - http://purl.obolibrary.org/obo/DOID_4
-  - http://www.orpha.net/ORDO/Orphanet_377788
-Iconclass notation: 31A46
-ICD-9-CM: "799.9"
-UMLS CUI: C0012634
-MeSH tree code: C23.550.288
-APA Dictionary of Psychology entry: disease
-PhilPapers topic: disease
-Wolfram Language entity type: Disease
-Colon Classification: L:4
-IPTC NewsCode: mediatopic/20000446
-has characteristic:
-  - "[[_Standards/WikiData/WD~symptom,169872]]"
-  - "[[_Standards/WikiData/WD~duration,2199864]]"
-  - "[[_Standards/WikiData/WD~disease burden,5282120]]"
-  - "[[_Standards/WikiData/WD~disease attributes,54932064]]"
-  - "[[_Standards/WikiData/WD~disease state,88468369]]"
-  - "[[_Standards/WikiData/WD~severity,96278582]]"
-"handled, mitigated, or managed by":
-  - "[[_Standards/WikiData/WD~medical treatment,179661]]"
-  - "[[_Standards/WikiData/WD~disease management,883708]]"
-  - "[[_Standards/WikiData/WD~early detection of disease,19760770]]"
-  - "[[_Standards/WikiData/WD~disease prevention,106807541]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~congenital disorder,727096]]"
-  - "[[_Standards/WikiData/WD~acquired disorder,3621717]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~health problem,2057971]]"
-  - "[[_Standards/WikiData/WD~biological process,2996394]]"
-has cause: "[[_Standards/WikiData/WD~disease causative agent,2826767]]"
-on focus list of Wikimedia project:
-  - "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox medical condition (old),6436840]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox medical condition,22765453]]"
-partially coincident with: "[[_Standards/WikiData/WD~medical state,6806605]]"
-studied in:
-  - "[[_Standards/WikiData/WD~sociology of health and illness,7552854]]"
-  - "[[_Standards/WikiData/WD~pathology,7208]]"
-has effect:
-  - "[[_Standards/WikiData/WD~discomfort,12101178]]"
-  - "[[_Standards/WikiData/WD~death,4]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance of:
-  - "[[_Standards/WikiData/WD~variable-order class,23958852]]"
-  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
-different from:
-  - "[[_Standards/WikiData/WD~disease of a particular individual,112193769]]"
-  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Mycobacterium%20tuberculosis.jpg
-EntitySchema for this class: E69
-Wikidata property:
-  - OMIM ID
-  - suggests the existence of
-  - established from medical condition
-properties for this type:
-  - ICPC 2 ID
-  - Disease Ontology ID
-  - symptoms and signs
-  - medical examination
-  - possible treatment
-  - disease transmission process
-  - prevalence
-  - ICD-9-CM
-  - health specialty
-  - drug or therapy used for treatment
-  - genetic association
-  - disease burden
-  - named after
-opposite of: "[[_Standards/WikiData/WD~health,12147]]"
-OmegaWiki Defined Meaning: "941"
-Dewey Decimal Classification: "616"
-IAB code: "287"
-Commons category: Diseases and disorders
+U_S_National_Archives_Identifier: 10640250
+equivalent_class:
+- "http://dbpedia.org/ontology/Disease"
+- "https://schema.org/MedicalCondition"
+narrower_external_class: "http://id.nlm.nih.gov/mesh/vocab#SCR_Disease"
+exact_match:
+- "http://identifiers.org/doid/DOID:4"
+- "http://purl.obolibrary.org/obo/DOID_4"
+- "http://www.orpha.net/ORDO/Orphanet_377788"
+Iconclass_notation: 31A46
+ICD-9-CM: 799.9
+UMLS_CUI: C0012634
+MeSH_tree_code: C23.550.288
+APA_Dictionary_of_Psychology_entry: disease
+PhilPapers_topic: disease
+Wolfram_Language_entity_type: Disease
+Colon_Classification: "L:4"
+IPTC_NewsCode: mediatopic/20000446
+has_characteristic:
+- '[[_Standards/WikiData/WD~symptom,169872]]'
+- '[[_Standards/WikiData/WD~duration,2199864]]'
+- "[[_Standards/WikiData/WD~disease burden,5282120]]"
+- "[[_Standards/WikiData/WD~disease attributes,54932064]]"
+- "[[_Standards/WikiData/WD~disease state,88468369]]"
+- '[[_Standards/WikiData/WD~severity,96278582]]'
+handled_mitigated_or_managed_by:
+- "[[_Standards/WikiData/WD~medical treatment,179661]]"
+- "[[_Standards/WikiData/WD~disease management,883708]]"
+- "[[_Standards/WikiData/WD~early detection of disease,19760770]]"
+- "[[_Standards/WikiData/WD~disease prevention,106807541]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~congenital disorder,727096]]"
+- "[[_Standards/WikiData/WD~acquired disorder,3621717]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~health problem,2057971]]"
+- "[[_Standards/WikiData/WD~biological process,2996394]]"
+has_cause: "[[_Standards/WikiData/WD~disease causative agent,2826767]]"
+on_focus_list_of_Wikimedia_project:
+- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox medical condition (old),6436840]]"
+- "[[_Standards/WikiData/WD~Template_Infobox medical condition,22765453]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~medical state,6806605]]"
+studied_in:
+- "[[_Standards/WikiData/WD~sociology of health and illness,7552854]]"
+- '[[_Standards/WikiData/WD~pathology,7208]]'
+has_effect:
+- '[[_Standards/WikiData/WD~discomfort,12101178]]'
+- '[[_Standards/WikiData/WD~death,4]]'
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+instance_of:
+- "[[_Standards/WikiData/WD~variable-order class,23958852]]"
+- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+different_from:
+- "[[_Standards/WikiData/WD~disease of a particular individual,112193769]]"
+- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mycobacterium%20tuberculosis.jpg"
+EntitySchema_for_this_class: E69
+Wikidata_property:
+- "OMIM ID"
+- "suggests the existence of"
+- "established from medical condition"
+properties_for_this_type:
+- "ICPC 2 ID"
+- "Disease Ontology ID"
+- "symptoms and signs"
+- "medical examination"
+- "possible treatment"
+- "disease transmission process"
+- prevalence
+- ICD-9-CM
+- "health specialty"
+- "drug or therapy used for treatment"
+- "genetic association"
+- "disease burden"
+- "named after"
+opposite_of: '[[_Standards/WikiData/WD~health,12147]]'
+OmegaWiki_Defined_Meaning: 941
+Dewey_Decimal_Classification: 616
+IAB_code: 287
+Commons_category: "Diseases and disorders"
 ---
-
 
 ## #has_/text_of_/abstract 
 

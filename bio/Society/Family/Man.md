@@ -1,45 +1,44 @@
----
+﻿---
 has_id_wikidata: Q8441
-different from:
-  - "[[_Standards/WikiData/WD~husband,212878]]"
-  - "[[_Standards/WikiData/WD~masculine,499327]]"
-  - "[[_Standards/WikiData/WD~boyfriend,622404]]"
-  - "[[_Standards/WikiData/WD~masculinity,1076509]]"
-  - "[[_Standards/WikiData/WD~Homme,5890937]]"
-  - "[[_Standards/WikiData/WD~male,6581097]]"
-  - "[[_Standards/WikiData/WD~male human,84048850]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~adult human,9584157]]"
-  - "[[_Standards/WikiData/WD~male human,84048850]]"
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Men%20montage.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Pioneer%20plaque%20line-drawing%20of%20a%20human%20male.svg
-IPTC NewsCode: asportfacetvalue/men
-permanent duplicated item: "[[_Standards/WikiData/WD~Q13202929,13202929]]"
-part of: "[[_Standards/WikiData/WD~male and female,20686840]]"
-disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Man,27160632]]"
-produced sound: "[[_Standards/WikiData/WD~male voice,55164632]]"
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%B0.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Yahya-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33578%20%28ibo%29-Deventus-Nwoke.wav
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Male%20symbol.svg
-MeSH tree code: M01.390
-opposite of: "[[_Standards/WikiData/WD~woman,467]]"
-follows: "[[_Standards/WikiData/WD~boy,3010]]"
-OmegaWiki Defined Meaning: "6397"
-Dewey Decimal Classification: "920.71"
-Commons gallery: Man
-Commons category: Men
+different_from:
+- '[[_Standards/WikiData/WD~husband,212878]]'
+- '[[_Standards/WikiData/WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~boyfriend,622404]]'
+- '[[_Standards/WikiData/WD~masculinity,1076509]]'
+- '[[_Standards/WikiData/WD~Homme,5890937]]'
+- '[[_Standards/WikiData/WD~male,6581097]]'
+- "[[_Standards/WikiData/WD~male human,84048850]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~adult human,9584157]]"
+- "[[_Standards/WikiData/WD~male human,84048850]]"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Men%20montage.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pioneer%20plaque%20line-drawing%20of%20a%20human%20male.svg"
+IPTC_NewsCode: asportfacetvalue/men
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202929,13202929]]'
+part_of: "[[_Standards/WikiData/WD~male and female,20686840]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Man,27160632]]'
+produced_sound: "[[_Standards/WikiData/WD~male voice,55164632]]"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%B0.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Yahya-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33578%20%28ibo%29-Deventus-Nwoke.wav"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Male%20symbol.svg"
+MeSH_tree_code: M01.390
+opposite_of: '[[_Standards/WikiData/WD~woman,467]]'
+follows: '[[_Standards/WikiData/WD~boy,3010]]'
+OmegaWiki_Defined_Meaning: 6397
+Dewey_Decimal_Classification: 920.71
+Commons_gallery: Man
+Commons_category: Men
 hashtag: men
-U.S. National Archives Identifier: "10637899"
-Unicode character: 👨
+U_S_National_Archives_Identifier: 10637899
+Unicode_character: "\U0001F468"
 ---
-
 
 ## #has_/text_of_/abstract 
 

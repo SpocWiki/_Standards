@@ -1,86 +1,86 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21915
 has_id_wikidata: Q670
-oxidation state:
-  - 4
-  - -4
-  - -3
-  - -2
-  - -1
-  - 1
-  - 2
-  - 3
-ionic radius:
-  - 0.4
-  - 0.26
-time-weighted average exposure limit:
-  - 5
-  - 15
-  - 10
-atomic number: 14
-minimum explosive concentration: 160
+oxidation_state:
+- 4
+- -4
+- -3
+- -2
+- -1
+- 1
+- 2
+- 3
+ionic_radius:
+- 0.4
+- 0.26
+time-weighted_average_exposure_limit:
+- 5
+- 15
+- 10
+atomic_number: 14
+minimum_explosive_concentration: 160
 electronegativity: 1.9
-made from material:
-  - "[[_Standards/WikiData/WD~sand,34679]]"
-  - "[[_Standards/WikiData/WD~quartzite,237883]]"
-  - "[[_Standards/WikiData/WD~aluminosilicate,429979]]"
-standard molar entropy: 18.8
-melting point: 2570
+made_from_material:
+- '[[_Standards/WikiData/WD~sand,34679]]'
+- '[[_Standards/WikiData/WD~quartzite,237883]]'
+- '[[_Standards/WikiData/WD~aluminosilicate,429979]]'
+standard_molar_entropy: 18.8
+melting_point: 2570
 density: 2.329
-boiling point: 4271
+boiling_point: 4271
 mass: 28.085
-OmegaWiki Defined Meaning: "3421"
-ZVG number: "8110"
-CosIng number: "96140"
-chemical formula: Si
-element symbol: Si
-time of discovery or invention: 1823-01-01T00:00:00Z
-canonical SMILES: "[Si]"
-PubChem CID: "5461123"
-Unicode character: 矽
-UNSPSC Code: "12141911"
-named after: "[[_Standards/WikiData/WD~flint,83087]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 14,106693]]"
-  - "[[_Standards/WikiData/WD~period 3,211331]]"
-found in taxon: "[[_Standards/WikiData/WD~Opuntia stricta,141416]]"
-different from: "[[_Standards/WikiData/WD~silicone,146439]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Jöns Jacob Berzelius,151911]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Silicon,108309527]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-subject has role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-exact match: http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_7061
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Silicon-unit-cell-3D-balls.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/SiliconCroda.jpg
-electron configuration:
-  - "[Ne] 3s² 3p²"
-  - 1s² 2s² 2p⁶ 3s² 3p²
-EC number: 231-130-8
-CAS Registry Number: 7440-21-3
-MeSH tree code: D01.268.513.937
-DSSTOX compound identifier: DTXCID5030038
-Wolfram Language entity code: Entity["Mineral", "Silicon"]
-Krugosvet article: himiya/kremniy
+OmegaWiki_Defined_Meaning: 3421
+ZVG_number: 8110
+CosIng_number: 96140
+chemical_formula: Si
+element_symbol: Si
+time_of_discovery_or_invention: "1823-01-01T00:00:00Z"
+canonical_SMILES: '[Si]'
+PubChem_CID: 5461123
+Unicode_character: 矽
+UNSPSC_Code: 12141911
+named_after: '[[_Standards/WikiData/WD~flint,83087]]'
+part_of:
+- "[[_Standards/WikiData/WD~group 14,106693]]"
+- "[[_Standards/WikiData/WD~period 3,211331]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Opuntia stricta,141416]]"
+different_from: '[[_Standards/WikiData/WD~silicone,146439]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Jöns Jacob Berzelius,151911]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Silicon,108309527]]'
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+exact_match: "http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_7061"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Silicon-unit-cell-3D-balls.png"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/SiliconCroda.jpg"
+electron_configuration:
+- "[Ne] 3s² 3p²"
+- "1s² 2s² 2p⁶ 3s² 3p²"
+EC_number: 231-130-8
+CAS_Registry_Number: 7440-21-3
+MeSH_tree_code: D01.268.513.937
+DSSTOX_compound_identifier: DTXCID5030038
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Silicon\"]"
+Krugosvet_article: himiya/kremniy
 InChI: InChI=1S/Si
-Commons category: Silicon
-Commons gallery: Silicon
-RTECS number: VW0400000
+Commons_category: Silicon
+Commons_gallery: Silicon
+RTECS_number: VW0400000
 InChIKey: XUIMIQQOPSSXEZ-UHFFFAOYSA-N
 UNII: Z4152N8IUI
-associated hazard: "[[_Standards/WikiData/WD~silicon exposure,21175300]]"
-has effect: "[[_Standards/WikiData/WD~silicon exposure,21175300]]"
-UMLS CUI: C0037107
-subclass of: "[[_Standards/WikiData/WD~metalloid,19596]]"
-vapor pressure: 0
+associated_hazard: "[[_Standards/WikiData/WD~silicon exposure,21175300]]"
+has_effect: "[[_Standards/WikiData/WD~silicon exposure,21175300]]"
+UMLS_CUI: C0037107
+subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
+vapor_pressure: 0
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Silicon,670]] 

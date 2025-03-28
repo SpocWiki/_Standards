@@ -1,56 +1,55 @@
----
+﻿---
 aliases:
-  - Évariste Galois
+- "Évariste Galois"
 has_id_wikidata: Q7091
-Krugosvet article: nauka_i_tehnika/matematika/GALUA_EVARIST.html
+Krugosvet_article: nauka_i_tehnika/matematika/GALUA_EVARIST.html
 Libris-URI: rp3570b9208j5w3
-Regensburg Classification: SF 3100
+Regensburg_Classification: "SF 3100"
 employer: "[[_Standards/WikiData/WD~École Normale Supérieure,83259]]"
-educated at:
-  - "[[_Standards/WikiData/WD~École Normale Supérieure,83259]]"
-  - "[[_Standards/WikiData/WD~Lycée Louis-le-Grand,1059546]]"
-notable work: "[[_Standards/WikiData/WD~Galois theory,92552]]"
-field of work: "[[_Standards/WikiData/WD~Galois theory,92552]]"
-manner of death: "[[_Standards/WikiData/WD~homicide,149086]]"
-occupation: "[[_Standards/WikiData/WD~mathematician,170790]]"
-influenced by: "[[_Standards/WikiData/WD~Adrien-Marie Legendre,191021]]"
-place of birth: "[[_Standards/WikiData/WD~Bourg-la-Reine,249852]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Georgian Soviet Encyclopedia,1509493]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-political ideology: "[[_Standards/WikiData/WD~Republicanism,877848]]"
-award received: "[[_Standards/WikiData/WD~Concours général,908793]]"
-cause of death: "[[_Standards/WikiData/WD~gunshot wound,2140674]]"
-place of detention: "[[_Standards/WikiData/WD~La Force Prison,3142856]]"
-member of: "[[_Standards/WikiData/WD~Society of People of Friends,3488092]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-given name: "[[_Standards/WikiData/WD~Évariste,18402196]]"
+educated_at:
+- "[[_Standards/WikiData/WD~École Normale Supérieure,83259]]"
+- "[[_Standards/WikiData/WD~Lycée Louis-le-Grand,1059546]]"
+notable_work: "[[_Standards/WikiData/WD~Galois theory,92552]]"
+field_of_work: "[[_Standards/WikiData/WD~Galois theory,92552]]"
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
+occupation: '[[_Standards/WikiData/WD~mathematician,170790]]'
+influenced_by: "[[_Standards/WikiData/WD~Adrien-Marie Legendre,191021]]"
+place_of_birth: '[[_Standards/WikiData/WD~Bourg-la-Reine,249852]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Georgian Soviet Encyclopedia,1509493]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+political_ideology: '[[_Standards/WikiData/WD~Republicanism,877848]]'
+award_received: "[[_Standards/WikiData/WD~Concours général,908793]]"
+cause_of_death: "[[_Standards/WikiData/WD~gunshot wound,2140674]]"
+place_of_detention: "[[_Standards/WikiData/WD~La Force Prison,3142856]]"
+member_of: "[[_Standards/WikiData/WD~Society of People of Friends,3488092]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+given_name: '[[_Standards/WikiData/WD~Évariste,18402196]]'
 father: "[[_Standards/WikiData/WD~Nicolas-Gabriel Galois,66362753]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-family name: "[[_Standards/WikiData/WD~Galois,96107289]]"
-ISNI: "0000000108983441"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-work location: "[[_Standards/WikiData/WD~Paris,90]]"
-place of death: "[[_Standards/WikiData/WD~Paris,90]]"
-country of citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing language: "[[_Standards/WikiData/WD~French,150]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~French,150]]"
-date of death: 1832-05-31T00:00:00Z
-name in native language: Évariste Galois
-date of birth: 1811-10-25T00:00:00Z
-Commons category: Évariste Galois
-Commons Creator page: Évariste Galois
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Evariste%20Galois.jpg
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Galois-Signature.svg
-BHCL UUID: a05e33c2-ebe7-46cb-8d94-90baa8fe0c62
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+family_name: '[[_Standards/WikiData/WD~Galois,96107289]]'
+ISNI: 0000000108983441
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_location: '[[_Standards/WikiData/WD~Paris,90]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
+date_of_death: "1832-05-31T00:00:00Z"
+name_in_native_language: "Évariste Galois"
+date_of_birth: "1811-10-25T00:00:00Z"
+Commons_category: "Évariste Galois"
+Commons_Creator_page: "Évariste Galois"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Evariste%20Galois.jpg"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Galois-Signature.svg"
+BHCL_UUID: a05e33c2-ebe7-46cb-8d94-90baa8fe0c62
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,108 +1,108 @@
----
+﻿---
 location:
-  - -77
-  - 66
+- -77
+- 66
 type: Continent
 has_id_wikidata: Q51
 SpocWebEntityId: 27159
 confidential: public
 tags:
-  - geo/Continent
+- geo/Continent
 isDeleted: false
 isReadOnly: false
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Fabian Gottlieb von Bellingshausen,76754]]"
-  - "[[_Standards/WikiData/WD~Mikhail Lazarev,186203]]"
-instance of:
-  - "[[_Standards/WikiData/WD~geographic region,82794]]"
-  - "[[_Standards/WikiData/WD~terra nullius,312461]]"
-  - "[[_Standards/WikiData/WD~part of the world,2418896]]"
-  - "[[_Standards/WikiData/WD~continent,5107]]"
-highest point: "[[_Standards/WikiData/WD~Vinson Massif,163758]]"
-part of:
-  - "[[_Standards/WikiData/WD~landmass,205895]]"
-  - "[[_Standards/WikiData/WD~Antarctic,1555938]]"
-  - "[[_Standards/WikiData/WD~Earth,2]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~West Antarctica,530917]]"
-  - "[[_Standards/WikiData/WD~East Antarctica,866405]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-history of topic: "[[_Standards/WikiData/WD~history of Antarctica,722537]]"
-lowest point: "[[_Standards/WikiData/WD~Bentley Subglacial Trench,818322]]"
-different from: "[[_Standards/WikiData/WD~Antarctic,1555938]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Antarctica,2742952]]"
-named after:
-  - "[[_Standards/WikiData/WD~anti-,12818226]]"
-  - "[[_Standards/WikiData/WD~Arctic,25322]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Antarctica,13231363]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Antarctica,13379817]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Antarctic Treaty area,21590062]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828208,22828208]]"
-BHCL UUID: 2e650cb8-9fde-4a97-8480-d9f4ac4bf6b8
-page banner:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Las%20Estrellas.%20View%20to%20the%20bay.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica-banner1.jpg
-Wolfram Language entity code: Entity["HistoricalCountry", "Antarctica"]
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Fabian Gottlieb von Bellingshausen,76754]]"
+- "[[_Standards/WikiData/WD~Mikhail Lazarev,186203]]"
+instance_of:
+- "[[_Standards/WikiData/WD~geographic region,82794]]"
+- "[[_Standards/WikiData/WD~terra nullius,312461]]"
+- "[[_Standards/WikiData/WD~part of the world,2418896]]"
+- '[[_Standards/WikiData/WD~continent,5107]]'
+highest_point: "[[_Standards/WikiData/WD~Vinson Massif,163758]]"
+part_of:
+- '[[_Standards/WikiData/WD~landmass,205895]]'
+- '[[_Standards/WikiData/WD~Antarctic,1555938]]'
+- '[[_Standards/WikiData/WD~Earth,2]]'
+has_part_s_:
+- "[[_Standards/WikiData/WD~West Antarctica,530917]]"
+- "[[_Standards/WikiData/WD~East Antarctica,866405]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Antarctica,722537]]"
+lowest_point: "[[_Standards/WikiData/WD~Bentley Subglacial Trench,818322]]"
+different_from: '[[_Standards/WikiData/WD~Antarctic,1555938]]'
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Antarctica,2742952]]"
+named_after:
+- '[[_Standards/WikiData/WD~anti-,12818226]]'
+- '[[_Standards/WikiData/WD~Arctic,25322]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Antarctica,13231363]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Antarctica,13379817]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic Treaty area,21590062]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828208,22828208]]'
+BHCL_UUID: 2e650cb8-9fde-4a97-8480-d9f4ac4bf6b8
+page_banner:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Las%20Estrellas.%20View%20to%20the%20bay.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica-banner1.jpg"
+Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Antarctica\"]"
 demonym:
-  - Antartach
-  - Antartidanhon
-  - Antarctican
-  - antártica
-  - antártico
-  - Antarcticain
-  - Antarcticaine
-  - Antartiko
-  - Antartidanhën
-  - Antartiko
-  - Antartiku
-  - Antartiko
-IPTC NewsCode: worldregion/r901
-coordinates of northernmost point: Point(-57.302194444 -63.213305555)
-coordinates of southernmost point: Point(0.0 -90.0)
-coordinate location: Point(0.0 -90.0)
-located in time zone:
-  - "[[_Standards/WikiData/WD~UTC−04_00,5762]]"
-  - "[[_Standards/WikiData/WD~UTC−03_00,6513]]"
-  - "[[_Standards/WikiData/WD~UTC±00_00,6574]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-  - "[[_Standards/WikiData/WD~UTC+05_00,6806]]"
-  - "[[_Standards/WikiData/WD~UTC+06_00,6906]]"
-  - "[[_Standards/WikiData/WD~UTC+07_00,6940]]"
-  - "[[_Standards/WikiData/WD~UTC+08_00,6985]]"
-  - "[[_Standards/WikiData/WD~UTC+10_00,7056]]"
-  - "[[_Standards/WikiData/WD~UTC+11_00,7069]]"
-  - "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
-geoshape: http://commons.wikimedia.org/data/main/Data:Antarctica.map
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica%20%28orthographic%20projection%29.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica%206400px%20from%20Blue%20Marble.jpg
-relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica%20relief%20location%20map.jpg
+- Antartach
+- Antartidanhon
+- Antarctican
+- antártica
+- antártico
+- Antarcticain
+- Antarcticaine
+- Antartiko
+- Antartidanhën
+- Antartiko
+- Antartiku
+- Antartiko
+IPTC_NewsCode: worldregion/r901
+coordinates_of_northernmost_point: "Point(-57.302194444 -63.213305555)"
+coordinates_of_southernmost_point: "Point(0.0 -90.0)"
+coordinate_location: "Point(0.0 -90.0)"
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
+- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+- '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
+- '[[_Standards/WikiData/WD~UTC+06_00,6906]]'
+- '[[_Standards/WikiData/WD~UTC+07_00,6940]]'
+- '[[_Standards/WikiData/WD~UTC+08_00,6985]]'
+- '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
+- '[[_Standards/WikiData/WD~UTC+11_00,7069]]'
+- '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
+geoshape: "http://commons.wikimedia.org/data/main/Data:Antarctica.map"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica%20%28orthographic%20projection%29.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica%206400px%20from%20Blue%20Marble.jpg"
+relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Antarctica%20relief%20location%20map.jpg"
 population: 4400
 area: 14200000
-maximum temperature record: 17.5
-top-level Internet domain: "[[_Standards/WikiData/WD~.aq,41016]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~Southern Hemisphere,41228]]"
-country calling code: "+672"
-M49 code: "010"
-U.S. National Archives Identifier: "10035701"
-IAB code:
-  - "1225"
-  - "1227"
-  - "1237"
-OmegaWiki Defined Meaning: "202"
+maximum_temperature_record: 17.5
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.aq,41016]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern Hemisphere,41228]]"
+country_calling_code: +672
+M49_code: 010
+U_S_National_Archives_Identifier: 10035701
+IAB_code:
+- 1225
+- 1227
+- 1237
+OmegaWiki_Defined_Meaning: 202
 subreddit: antarctica
-Commons gallery: Antarctica
-Commons category: Antarctica
-Unicode character: 🇦🇶
-FIPS 10-4 (countries and regions): AY
-Krugosvet article: Earth_sciences/geologiya/ANTARKTIKA.html
+Commons_gallery: Antarctica
+Commons_category: Antarctica
+Unicode_character: "\U0001F1E6\U0001F1F6"
+FIPS_10-4_countries_and_regions_: AY
+Krugosvet_article: Earth_sciences/geologiya/ANTARKTIKA.html
 Libris-URI: zw9cbnhh0cvc58m
 ---
 

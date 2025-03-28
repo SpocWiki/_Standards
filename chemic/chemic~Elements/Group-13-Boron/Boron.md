@@ -1,66 +1,66 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21908
 has_id_wikidata: Q618
-UMLS CUI: C0006030
-MeSH tree code: D01.268.513.500
-DSSTOX compound identifier: DTXCID503922
+UMLS_CUI: C0006030
+MeSH_tree_code: D01.268.513.500
+DSSTOX_compound_identifier: DTXCID503922
 InChI: InChI=1S/B
 UNII: N9E3X5056Q
 InChIKey: ZOXJGFHDIHLPTG-UHFFFAOYSA-N
-discoverer or inventor: "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
-made from material: "[[_Standards/WikiData/WD~jadarite,182344]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 13,189294]]"
-  - "[[_Standards/WikiData/WD~period 2,207712]]"
-  - "[[_Standards/WikiData/WD~boron compound,49851249]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~simple substance,2512777]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-different from:
-  - "[[_Standards/WikiData/WD~Bor,1346524]]"
-  - "[[_Standards/WikiData/WD~borophene,15916419]]"
-named after: "[[_Standards/WikiData/WD~borax,3513011]]"
-subject has role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-time of discovery or invention: 1892-01-01T00:00:00Z
-subclass of: "[[_Standards/WikiData/WD~metalloid,19596]]"
-oxidation state:
-  - 1
-  - 2
-  - 3
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
+made_from_material: '[[_Standards/WikiData/WD~jadarite,182344]]'
+part_of:
+- "[[_Standards/WikiData/WD~group 13,189294]]"
+- "[[_Standards/WikiData/WD~period 2,207712]]"
+- "[[_Standards/WikiData/WD~boron compound,49851249]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~simple substance,2512777]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+different_from:
+- '[[_Standards/WikiData/WD~Bor,1346524]]'
+- '[[_Standards/WikiData/WD~borophene,15916419]]'
+named_after: '[[_Standards/WikiData/WD~borax,3513011]]'
+subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+time_of_discovery_or_invention: "1892-01-01T00:00:00Z"
+subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
+oxidation_state:
+- 1
+- 2
+- 3
 electronegativity: 2
-boiling point: 4000
-atomic number: 5
-ultimate tensile strength: 5700
+boiling_point: 4000
+atomic_number: 5
+ultimate_tensile_strength: 5700
 density:
-  - 2080
-  - 2.46
-chemical formula: B
-element symbol: B
+- 2080
+- 2.46
+chemical_formula: B
+element_symbol: B
 mass: 10.81
-OmegaWiki Defined Meaning: "420"
-melting point: 2077
-ZVG number: "8030"
-Commons category: Boron
-Commons gallery: Boron
-canonical SMILES: "[B]"
-Unicode character: 硼
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Boron.jpg
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20005%20Boron.png
-electron configuration:
-  - "[He] 2s² 2p¹"
-  - 1s² 2s² 2p¹
-EC number: 231-151-2
-Dewey Decimal Classification: "546.671"
-PubChem CID: "5462311"
-CAS Registry Number: 7440-42-8
+OmegaWiki_Defined_Meaning: 420
+melting_point: 2077
+ZVG_number: 8030
+Commons_category: Boron
+Commons_gallery: Boron
+canonical_SMILES: '[B]'
+Unicode_character: 硼
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Boron.jpg"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20005%20Boron.png"
+electron_configuration:
+- "[He] 2s² 2p¹"
+- "1s² 2s² 2p¹"
+EC_number: 231-151-2
+Dewey_Decimal_Classification: 546.671
+PubChem_CID: 5462311
+CAS_Registry_Number: 7440-42-8
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Boron,618]] 

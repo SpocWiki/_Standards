@@ -1,32 +1,31 @@
----
+﻿---
 has_id_wikidata: Q12453
-has characteristic:
-  - "[[_Standards/WikiData/WD~measurement error,196372]]"
-  - "[[_Standards/WikiData/WD~measurement uncertainty,1403517]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~International Vocabulary of Metrology (3rd edition, 2012),70257574]]"
-  - "[[_Standards/WikiData/WD~ISO 3534-2_2006(en) Statistics — Vocabulary and symbols — Part 2_ Applied statistics,113715213]]"
-subclass of: "[[_Standards/WikiData/WD~estimation,791801]]"
-instance of: "[[_Standards/WikiData/WD~academic major,4671286]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~measurement error,196372]]"
+- "[[_Standards/WikiData/WD~measurement uncertainty,1403517]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~International Vocabulary of Metrology (3rd edition, 2012),70257574]]"
+- "[[_Standards/WikiData/WD~ISO 3534-2_2006(en) Statistics — Vocabulary and symbols — Part 2_ Applied statistics,113715213]]"
+subclass_of: '[[_Standards/WikiData/WD~estimation,791801]]'
+instance_of: "[[_Standards/WikiData/WD~academic major,4671286]]"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/DUB0808c.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Taking%20measurements.jpg
-part of: "[[_Standards/WikiData/WD~metrology,394]]"
-Wikidata property: measures
-exact match:
-  - http://erlangen-crm.org/current/E16_Measurement
-  - http://www.ebi.ac.uk/efo/EFO_0001444
-narrower external class: http://purl.obolibrary.org/obo/IAO_0000414
-U.S. National Archives Identifier: "10639531"
-IEV number: 112-04-01
-Commons category: Measurement
-Krugosvet article: nauka_i_tehnika/fizika/IZMERENIYA_I_VZVESHIVANIE.html
+- "http://commons.wikimedia.org/wiki/Special:FilePath/DUB0808c.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Taking%20measurements.jpg"
+part_of: '[[_Standards/WikiData/WD~metrology,394]]'
+Wikidata_property: measures
+exact_match:
+- "http://erlangen-crm.org/current/E16_Measurement"
+- "http://www.ebi.ac.uk/efo/EFO_0001444"
+narrower_external_class: "http://purl.obolibrary.org/obo/IAO_0000414"
+U_S_National_Archives_Identifier: 10639531
+IEV_number: 112-04-01
+Commons_category: Measurement
+Krugosvet_article: nauka_i_tehnika/fizika/IZMERENIYA_I_VZVESHIVANIE.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,24 +1,24 @@
----
+﻿---
 has_id_wikidata: Q11158
-has effect: "[[_Standards/WikiData/WD~neutralization,337120]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-partially coincident with: "[[_Standards/WikiData/WD~sourness,2795949]]"
-different from: "[[_Standards/WikiData/WD~Kwasy,11751647]]"
-associated hazard: "[[_Standards/WikiData/WD~acid poisoning,21639927]]"
-instance of: "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
-has part(s): "[[_Standards/WikiData/WD~acidic proton,99553188]]"
-UMLS CUI: C0001128
-subclass of: "[[_Standards/WikiData/WD~chemical compound,11173]]"
-opposite of: "[[_Standards/WikiData/WD~base,11193]]"
-OmegaWiki Defined Meaning: "26"
-Colon Classification: E3
-Commons category: Acids
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%AE%E0%A7%8D%E0%A6%B2.wav
-IEV number: 114-01-17
-MeSH tree code: D01.029
+has_effect: '[[_Standards/WikiData/WD~neutralization,337120]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~sourness,2795949]]'
+different_from: '[[_Standards/WikiData/WD~Kwasy,11751647]]'
+associated_hazard: "[[_Standards/WikiData/WD~acid poisoning,21639927]]"
+instance_of: "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
+has_part_s_: "[[_Standards/WikiData/WD~acidic proton,99553188]]"
+UMLS_CUI: C0001128
+subclass_of: "[[_Standards/WikiData/WD~chemical compound,11173]]"
+opposite_of: '[[_Standards/WikiData/WD~base,11193]]'
+OmegaWiki_Defined_Meaning: 26
+Colon_Classification: E3
+Commons_category: Acids
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%AE%E0%A7%8D%E0%A6%B2.wav"
+IEV_number: 114-01-17
+MeSH_tree_code: D01.029
 ---
 
 ## #has_/text_of_/abstract 

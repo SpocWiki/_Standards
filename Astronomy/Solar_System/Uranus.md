@@ -1,156 +1,154 @@
----
+﻿---
 has_id_wikidata: Q324
-named after:
-  - "[[_Standards/WikiData/WD~Uranus,79999]]"
-  - "[[_Standards/WikiData/WD~Urania,104002]]"
-child astronomical body:
-  - "[[_Standards/WikiData/WD~ε ring,511479]]"
-  - "[[_Standards/WikiData/WD~β ring,615967]]"
-  - "[[_Standards/WikiData/WD~ν ring,628325]]"
-  - "[[_Standards/WikiData/WD~μ ring,1132027]]"
-  - "[[_Standards/WikiData/WD~5 ring,2851398]]"
-  - "[[_Standards/WikiData/WD~4 ring,2851399]]"
-  - "[[_Standards/WikiData/WD~6 ring,2851401]]"
-  - "[[_Standards/WikiData/WD~δ ring,2851408]]"
-  - "[[_Standards/WikiData/WD~γ ring,2851426]]"
-  - "[[_Standards/WikiData/WD~λ ring,2851428]]"
-  - "[[_Standards/WikiData/WD~η ring,2851444]]"
-  - "[[_Standards/WikiData/WD~ζ ring,3616611]]"
-  - "[[_Standards/WikiData/WD~α ring,3680062]]"
-  - "[[_Standards/WikiData/WD~Titania,3322]]"
-  - "[[_Standards/WikiData/WD~Oberon,3332]]"
-  - "[[_Standards/WikiData/WD~Umbriel,3338]]"
-  - "[[_Standards/WikiData/WD~Ariel,3343]]"
-  - "[[_Standards/WikiData/WD~Miranda,3352]]"
-  - "[[_Standards/WikiData/WD~Cordelia,15613]]"
-  - "[[_Standards/WikiData/WD~Ophelia,15616]]"
-  - "[[_Standards/WikiData/WD~Bianca,15629]]"
-  - "[[_Standards/WikiData/WD~Cressida,15633]]"
-  - "[[_Standards/WikiData/WD~Desdemona,15637]]"
-  - "[[_Standards/WikiData/WD~Juliet,15643]]"
-  - "[[_Standards/WikiData/WD~Rosalind,15646]]"
-  - "[[_Standards/WikiData/WD~Portia,15644]]"
-  - "[[_Standards/WikiData/WD~Cupid,15655]]"
-  - "[[_Standards/WikiData/WD~Belinda,15658]]"
-  - "[[_Standards/WikiData/WD~Puck,15662]]"
-  - "[[_Standards/WikiData/WD~Perdita,15660]]"
-  - "[[_Standards/WikiData/WD~Mab,15667]]"
-  - "[[_Standards/WikiData/WD~Q18465,18465]]"
-  - "[[_Standards/WikiData/WD~Caliban,18481]]"
-  - "[[_Standards/WikiData/WD~Stephano,18488]]"
-  - "[[_Standards/WikiData/WD~Trinculo,18494]]"
-  - "[[_Standards/WikiData/WD~Sycorax,18495]]"
-  - "[[_Standards/WikiData/WD~Margaret,18496]]"
-  - "[[_Standards/WikiData/WD~Prospero,18497]]"
-  - "[[_Standards/WikiData/WD~Setebos,18500]]"
-  - "[[_Standards/WikiData/WD~Ferdinand,18501]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-instance of:
-  - "[[_Standards/WikiData/WD~superior planet,844911]]"
-  - "[[_Standards/WikiData/WD~ice giant,1319599]]"
-  - "[[_Standards/WikiData/WD~outer planet,30014]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~atmosphere of Uranus,1708494]]"
-  - "[[_Standards/WikiData/WD~magnetosphere of Uranus,3843312]]"
+named_after:
+- '[[_Standards/WikiData/WD~Uranus,79999]]'
+- '[[_Standards/WikiData/WD~Urania,104002]]'
+child_astronomical_body:
+- "[[_Standards/WikiData/WD~ε ring,511479]]"
+- "[[_Standards/WikiData/WD~β ring,615967]]"
+- "[[_Standards/WikiData/WD~ν ring,628325]]"
+- "[[_Standards/WikiData/WD~μ ring,1132027]]"
+- "[[_Standards/WikiData/WD~5 ring,2851398]]"
+- "[[_Standards/WikiData/WD~4 ring,2851399]]"
+- "[[_Standards/WikiData/WD~6 ring,2851401]]"
+- "[[_Standards/WikiData/WD~δ ring,2851408]]"
+- "[[_Standards/WikiData/WD~γ ring,2851426]]"
+- "[[_Standards/WikiData/WD~λ ring,2851428]]"
+- "[[_Standards/WikiData/WD~η ring,2851444]]"
+- "[[_Standards/WikiData/WD~ζ ring,3616611]]"
+- "[[_Standards/WikiData/WD~α ring,3680062]]"
+- '[[_Standards/WikiData/WD~Titania,3322]]'
+- '[[_Standards/WikiData/WD~Oberon,3332]]'
+- '[[_Standards/WikiData/WD~Umbriel,3338]]'
+- '[[_Standards/WikiData/WD~Ariel,3343]]'
+- '[[_Standards/WikiData/WD~Miranda,3352]]'
+- '[[_Standards/WikiData/WD~Cordelia,15613]]'
+- '[[_Standards/WikiData/WD~Ophelia,15616]]'
+- '[[_Standards/WikiData/WD~Bianca,15629]]'
+- '[[_Standards/WikiData/WD~Cressida,15633]]'
+- '[[_Standards/WikiData/WD~Desdemona,15637]]'
+- '[[_Standards/WikiData/WD~Juliet,15643]]'
+- '[[_Standards/WikiData/WD~Rosalind,15646]]'
+- '[[_Standards/WikiData/WD~Portia,15644]]'
+- '[[_Standards/WikiData/WD~Cupid,15655]]'
+- '[[_Standards/WikiData/WD~Belinda,15658]]'
+- '[[_Standards/WikiData/WD~Puck,15662]]'
+- '[[_Standards/WikiData/WD~Perdita,15660]]'
+- '[[_Standards/WikiData/WD~Mab,15667]]'
+- '[[_Standards/WikiData/WD~Q18465,18465]]'
+- '[[_Standards/WikiData/WD~Caliban,18481]]'
+- '[[_Standards/WikiData/WD~Stephano,18488]]'
+- '[[_Standards/WikiData/WD~Trinculo,18494]]'
+- '[[_Standards/WikiData/WD~Sycorax,18495]]'
+- '[[_Standards/WikiData/WD~Margaret,18496]]'
+- '[[_Standards/WikiData/WD~Prospero,18497]]'
+- '[[_Standards/WikiData/WD~Setebos,18500]]'
+- '[[_Standards/WikiData/WD~Ferdinand,18501]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+instance_of:
+- "[[_Standards/WikiData/WD~superior planet,844911]]"
+- "[[_Standards/WikiData/WD~ice giant,1319599]]"
+- "[[_Standards/WikiData/WD~outer planet,30014]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~atmosphere of Uranus,1708494]]"
+- "[[_Standards/WikiData/WD~magnetosphere of Uranus,3843312]]"
 notation: "[[_Standards/WikiData/WD~Uranus symbol,3594854]]"
-part of: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
+part_of: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
 location: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Uranus,6416482]]"
-different from: "[[_Standards/WikiData/WD~Uranus,15614740]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Uranus,30589067]]"
-studied in: "[[_Standards/WikiData/WD~uranology,131626710]]"
-orbital inclination:
-  - 0.77263783
-  - 1.02
-  - 6.48
-UMLS CUI: C0242757
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Uranus,6416482]]'
+different_from: '[[_Standards/WikiData/WD~Uranus,15614740]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Uranus,30589067]]"
+studied_in: '[[_Standards/WikiData/WD~uranology,131626710]]'
+orbital_inclination:
+- 0.77263783
+- 1.02
+- 6.48
+UMLS_CUI: C0242757
 apoapsis: 3006318143
-semi-major axis of an orbit:
-  - 2870658186
-  - 19.18916464
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20Voyager2%20color%20calibrated.png
+semi-major_axis_of_an_orbit:
+- 2870658186
+- 19.18916464
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20Voyager2%20color%20calibrated.png"
 periapsis: 2734998229
-IPA transcription: ˈuːʁanʊs
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Uranus2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/It-Urano.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Uranus.wav
-MeSH tree code: G01.060.075.730.700.865
+IPA_transcription: ˈuːʁanʊs
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Uranus2.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Urano.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Uranus.wav"
+MeSH_tree_code: G01.060.075.730.700.865
 declination: -15.175
-parent astronomical body: "[[_Standards/WikiData/WD~Sun,525]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~William Herschel,14277]]"
-site of astronomical discovery: "[[_Standards/WikiData/WD~Bath,22889]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William Herschel,14277]]"
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Bath,22889]]'
 albedo:
-  - 0.3
-  - 0.488
-distance from Earth:
-  - 2600000000
-  - 3150000000
-argument of periapsis: 170.9542763
-time of discovery or invention: 1781-03-13T00:00:00Z
-longitude of ascending node: 74.01692503
-angular diameter:
-  - 3.3
-  - 4.1
+- 0.3
+- 0.488
+distance_from_Earth:
+- 2600000000
+- 3150000000
+argument_of_periapsis: 170.9542763
+time_of_discovery_or_invention: "1781-03-13T00:00:00Z"
+longitude_of_ascending_node: 74.01692503
+angular_diameter:
+- 3.3
+- 4.1
 temperature:
-  - 49
-  - 53
-  - 57
-apparent magnitude:
-  - 5.9
-  - 5.32
-surface gravity: 8.7
+- 49
+- 53
+- 57
+apparent_magnitude:
+- 5.9
+- 5.32
+surface_gravity: 8.7
 flattening: 0.0229
 density: 1271
-volume as quantity: 68330000000000
+volume_as_quantity: 68330000000000
 mass: 86810
 radius:
-  - 24973
-  - 25362
-  - 25559
-synodic period: 369.66
+- 24973
+- 25362
+- 25559
+synodic_period: 369.66
 diameter: 51118
-Commons gallery: Uranus
+Commons_gallery: Uranus
 area: 8115600000
-mean anomaly: 142.238
-right ascension: 257.311
-orbital period:
-  - 30688.5
-  - 84.0205
-OmegaWiki Defined Meaning: "382634"
-orbital eccentricity: 0.04725744
-Unicode character:
-  - ⛢
-  - ♅
-magnetic moment: 3.9e+24
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%88%D6%82%D6%80%D5%A1%D5%B6%20%28%D5%B4%D5%B8%D5%AC%D5%B8%D6%80%D5%A1%D5%AF%29.ogg
+mean_anomaly: 142.238
+right_ascension: 257.311
+orbital_period:
+- 30688.5
+- 84.0205
+OmegaWiki_Defined_Meaning: 382634
+orbital_eccentricity: 0.04725744
+Unicode_character:
+- ⛢
+- ♅
+magnetic_moment: 3.9e+24
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%88%D6%82%D6%80%D5%A1%D5%B6%20%28%D5%B4%D5%B8%D5%AC%D5%B8%D6%80%D5%A1%D5%AF%29.ogg"
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Inside%20of%20Urano.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Uranus-intern-hr-info.png
-astronomic symbol image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20monogram%20%28fixed%20width%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20symbol%20%28fixed%20width%29.svg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20orientation%201985-2030.gif
-Stack Exchange tag: https://astronomy.stackexchange.com/tags/uranus
-U.S. National Archives Identifier: "10046641"
-Dewey Decimal Classification:
-  - 2--9927
-  - "523.47"
-Wolfram Language entity code: Entity["Planet", "Uranus"]
-Commons category: Uranus (planet)
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Inside%20of%20Urano.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus-intern-hr-info.png"
+astronomic_symbol_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20monogram%20%28fixed%20width%29.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20symbol%20%28fixed%20width%29.svg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20orientation%201985-2030.gif"
+Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/uranus"
+U_S_National_Archives_Identifier: 10046641
+Dewey_Decimal_Classification:
+- 2--9927
+- 523.47
+Wolfram_Language_entity_code: "Entity[\"Planet\", \"Uranus\"]"
+Commons_category: "Uranus (planet)"
 demonym:
-  - uranià
-  - Uranian
-  - Uranano
+- uranià
+- Uranian
+- Uranano
 ---
-
-
 
 ## #has_/text_of_/abstract 
 

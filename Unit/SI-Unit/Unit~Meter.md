@@ -1,90 +1,90 @@
----
+﻿---
 has_id_wikidata: Q11573
-unit symbol:
-  - m
-  - m
-  - m
-  - m
-  - m
-  - م
-  - متر
-  - м
-  - м
-  - м
-  - м
-  - м
-  - м
-  - м
-  - মি
-  - ㍍
-  - മീ.
-  - 公尺
-  - மீ
-  - 公尺
-  - מ'
-  - 米
-  - m
-  - m
-  - m
-  - м
-  - 米
-  - م
-  - m
-  - m
-  - m
-  - m
-  - م
-  - μ
-  - m
-  - m
-  - m
-  - m
-Commons category: Metre
-conversion to standard unit:
-  - 0.0006213711922373339
-  - 1
-  - 0.001
-  - 3.28084
-Wolfram Language unit code: '"Meters"'
-measured physical quantity:
-  - "[[_Standards/WikiData/WD~distance,126017]]"
-  - "[[_Standards/WikiData/WD~radius,173817]]"
-  - "[[_Standards/WikiData/WD~displacement,190291]]"
-  - "[[_Standards/WikiData/WD~position vector,192388]]"
-  - "[[_Standards/WikiData/WD~height,208826]]"
-  - "[[_Standards/WikiData/WD~proper length,3153623]]"
-  - "[[_Standards/WikiData/WD~thickness,3589038]]"
-  - "[[_Standards/WikiData/WD~diffusion coefficient for fluence rate,98876254]]"
-  - "[[_Standards/WikiData/WD~width,35059]]"
-  - "[[_Standards/WikiData/WD~length,36253]]"
-  - "[[_Standards/WikiData/WD~diameter,37221]]"
-subdivision of this unit: "[[_Standards/WikiData/WD~decimetre,200323]]"
-instance of:
-  - "[[_Standards/WikiData/WD~SI base unit,223662]]"
-  - "[[_Standards/WikiData/WD~unit of length,1978718]]"
-  - "[[_Standards/WikiData/WD~metric unit,12036470]]"
-  - "[[_Standards/WikiData/WD~UCUM base unit,82047053]]"
-part of:
-  - "[[_Standards/WikiData/WD~MKS system of units,512417]]"
-  - "[[_Standards/WikiData/WD~MKSA system of units,730906]]"
-  - "[[_Standards/WikiData/WD~International System of Units,12457]]"
-described by source:
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-different from: "[[_Standards/WikiData/WD~Damlakaya,6808876]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Meter-article.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Platinum-Iridium%20meter%20bar.jpg
-IEV number: 112-02-05
-Wikidata SPARQL query equivalent: wd:Q11573 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
-permanent duplicated item: "[[_Standards/WikiData/WD~Q25507292,25507292]]"
-calculated from:
-  - "[[_Standards/WikiData/WD~speed of light in vacuum,2111]]"
-  - "[[_Standards/WikiData/WD~second,11574]]"
-conversion to SI unit: 1
-UCUM code: m
-OmegaWiki Defined Meaning: "160750"
-UN/CEFACT Common Code: MTR
+unit_symbol:
+- m
+- m
+- m
+- m
+- m
+- م
+- متر
+- м
+- м
+- м
+- м
+- м
+- м
+- м
+- মি
+- ㍍
+- മീ.
+- 公尺
+- மீ
+- 公尺
+- "מ'"
+- 米
+- m
+- m
+- m
+- м
+- 米
+- م
+- m
+- m
+- m
+- m
+- م
+- μ
+- m
+- m
+- m
+- m
+Commons_category: Metre
+conversion_to_standard_unit:
+- 0.0006213711922373339
+- 1
+- 0.001
+- 3.28084
+Wolfram_Language_unit_code: "\"Meters\""
+measured_physical_quantity:
+- '[[_Standards/WikiData/WD~distance,126017]]'
+- '[[_Standards/WikiData/WD~radius,173817]]'
+- '[[_Standards/WikiData/WD~displacement,190291]]'
+- "[[_Standards/WikiData/WD~position vector,192388]]"
+- '[[_Standards/WikiData/WD~height,208826]]'
+- "[[_Standards/WikiData/WD~proper length,3153623]]"
+- '[[_Standards/WikiData/WD~thickness,3589038]]'
+- "[[_Standards/WikiData/WD~diffusion coefficient for fluence rate,98876254]]"
+- '[[_Standards/WikiData/WD~width,35059]]'
+- '[[_Standards/WikiData/WD~length,36253]]'
+- '[[_Standards/WikiData/WD~diameter,37221]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~decimetre,200323]]'
+instance_of:
+- "[[_Standards/WikiData/WD~SI base unit,223662]]"
+- "[[_Standards/WikiData/WD~unit of length,1978718]]"
+- "[[_Standards/WikiData/WD~metric unit,12036470]]"
+- "[[_Standards/WikiData/WD~UCUM base unit,82047053]]"
+part_of:
+- "[[_Standards/WikiData/WD~MKS system of units,512417]]"
+- "[[_Standards/WikiData/WD~MKSA system of units,730906]]"
+- "[[_Standards/WikiData/WD~International System of Units,12457]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
+different_from: '[[_Standards/WikiData/WD~Damlakaya,6808876]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Meter-article.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Platinum-Iridium%20meter%20bar.jpg"
+IEV_number: 112-02-05
+Wikidata_SPARQL_query_equivalent: "wd:Q11573 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25507292,25507292]]'
+calculated_from:
+- "[[_Standards/WikiData/WD~speed of light in vacuum,2111]]"
+- '[[_Standards/WikiData/WD~second,11574]]'
+conversion_to_SI_unit: 1
+UCUM_code: m
+OmegaWiki_Defined_Meaning: 160750
+UN_CEFACT_Common_Code: MTR
 ---
 
  # [[Unit~Meter]] 

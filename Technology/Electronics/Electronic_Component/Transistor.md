@@ -1,30 +1,29 @@
----
+﻿---
 has_id_wikidata: Q5339
-subclass of:
-  - "[[_Standards/WikiData/WD~semiconductor device,175805]]"
-  - "[[_Standards/WikiData/WD~active electronic component,12492106]]"
-has part(s): "[[_Standards/WikiData/WD~p–n junction,176300]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~semiconductor device,175805]]"
+- "[[_Standards/WikiData/WD~active electronic component,12492106]]"
+has_part_s_: "[[_Standards/WikiData/WD~p–n junction,176300]]"
 follows:
-  - "[[_Standards/WikiData/WD~gas-filled tube,1159201]]"
-  - "[[_Standards/WikiData/WD~semiconductor diode,1929430]]"
-  - "[[_Standards/WikiData/WD~vacuum tube,3574371]]"
+- "[[_Standards/WikiData/WD~gas-filled tube,1159201]]"
+- "[[_Standards/WikiData/WD~semiconductor diode,1929430]]"
+- "[[_Standards/WikiData/WD~vacuum tube,3574371]]"
 icon:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20NPN%20symbol.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20PNP%20symbol.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Transistors.agr.jpg
-Stack Exchange tag: https://electronics.stackexchange.com/tags/transistors
-Dewey Decimal Classification:
-  - "621.381528"
-  - "621.38832"
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TRANZISTOR.html
-Commons category: Transistors
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox transistor,22835127]]"
-UMLS CUI: C2713584
-MeSH tree code: E07.305.625.714
-Nomenclature for Museum Cataloging: "8832"
-time of discovery or invention: 1947-12-01T00:00:00Z
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20NPN%20symbol.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20PNP%20symbol.png"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Transistors.agr.jpg"
+Stack_Exchange_tag: "https://electronics.stackexchange.com/tags/transistors"
+Dewey_Decimal_Classification:
+- 621.381528
+- 621.38832
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TRANZISTOR.html
+Commons_category: Transistors
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox transistor,22835127]]"
+UMLS_CUI: C2713584
+MeSH_tree_code: E07.305.625.714
+Nomenclature_for_Museum_Cataloging: 8832
+time_of_discovery_or_invention: "1947-12-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

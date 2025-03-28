@@ -1,76 +1,75 @@
----
+﻿---
 has_id_wikidata: Q11412
-Krugosvet article: fizika/tyagotenie
-Dewey Decimal Classification:
-  - "539.754"
-  - "531.14"
-  - "521.1"
-  - "629.4111"
-instance of:
-  - "[[_Standards/WikiData/WD~fundamental interaction,104934]]"
-  - "[[_Standards/WikiData/WD~physical phenomenon,1293220]]"
-studied in:
-  - "[[_Standards/WikiData/WD~Newton's law of universal gravitation,134465]]"
-  - "[[_Standards/WikiData/WD~general relativity,11452]]"
-different from:
-  - "[[_Standards/WikiData/WD~Gravity,235960]]"
-  - "[[_Standards/WikiData/WD~Gravitation,361496]]"
-  - "[[_Standards/WikiData/WD~gravity of Earth,673166]]"
-  - "[[_Standards/WikiData/WD~Gravité,3115788]]"
-  - "[[_Standards/WikiData/WD~apparent weight,3900737]]"
-  - "[[_Standards/WikiData/WD~Q5478402,5478402]]"
-  - "[[_Standards/WikiData/WD~Gravitas,12900118]]"
-  - "[[_Standards/WikiData/WD~standard acceleration of free fall,13400897]]"
-  - "[[_Standards/WikiData/WD~acceleration of free fall,103982270]]"
-  - "[[_Standards/WikiData/WD~gravitational force,119510698]]"
-  - "[[_Standards/WikiData/WD~weight,25288]]"
-  - "[[_Standards/WikiData/WD~gravitational acceleration,30006]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Tietosanakirja,2038734]]"
-  - "[[_Standards/WikiData/WD~Pieni tietosanakirja,3119395]]"
-  - "[[_Standards/WikiData/WD~Illustrated Norwegian conversation lexicon,12715646]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Nordisk familjebok, 1st edition,28009618]]"
-  - "[[_Standards/WikiData/WD~Norsk Haandlexikon,65528751]]"
-  - "[[_Standards/WikiData/WD~Salmonsens konversationsleksikon, 2nd edition,65529695]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
-  - "[[_Standards/WikiData/WD~Bonniers konversationslexikon, 1st edition,125572590]]"
-  - "[[_Standards/WikiData/WD~Åhlén & söners uppslagsbok,125582597]]"
-  - "[[_Standards/WikiData/WD~Den nye Salmonsen,125582660]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~spacetime curvature,4240689]]"
-  - "[[_Standards/WikiData/WD~gravitational force,119510698]]"
-has cause:
-  - "[[_Standards/WikiData/WD~spacetime curvature,4240689]]"
-  - "[[_Standards/WikiData/WD~matter,35758]]"
-has effect:
-  - "[[_Standards/WikiData/WD~fall,11620540]]"
-  - "[[_Standards/WikiData/WD~gravitational motion,29652844]]"
-said to be the same as: "[[_Standards/WikiData/WD~Q13211642,13211642]]"
-opposite of: "[[_Standards/WikiData/WD~non-gravitational force,38084560]]"
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Schwerkraft.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Gravitation.ogg
-Stack Exchange tag:
-  - https://mathoverflow.net/tags/gravity-theory
-  - https://space.stackexchange.com/tags/gravity
-  - https://astronomy.stackexchange.com/tags/gravity
-  - https://worldbuilding.stackexchange.com/tags/gravity
-  - https://scifi.stackexchange.com/tags/gravity
-  - https://physics.stackexchange.com/tags/gravity
-MeSH tree code: G01.060.350
-discoverer or inventor: "[[_Standards/WikiData/WD~Isaac Newton,935]]"
-OmegaWiki Defined Meaning: "8440"
-Commons category: Gravitation
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Schwerkraft%20als%20Kr%C3%BCmmung%20des%20Raumes%20%28CC%20BY%204.0%29.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20sys.jpg
-WordLift URL: http://data.thenextweb.com/tnw/entity/gravity
-Iconclass notation: "49E222"
+Krugosvet_article: fizika/tyagotenie
+Dewey_Decimal_Classification:
+- 539.754
+- 531.14
+- 521.1
+- 629.4111
+instance_of:
+- "[[_Standards/WikiData/WD~fundamental interaction,104934]]"
+- "[[_Standards/WikiData/WD~physical phenomenon,1293220]]"
+studied_in:
+- "[[_Standards/WikiData/WD~Newton's law of universal gravitation,134465]]"
+- "[[_Standards/WikiData/WD~general relativity,11452]]"
+different_from:
+- '[[_Standards/WikiData/WD~Gravity,235960]]'
+- '[[_Standards/WikiData/WD~Gravitation,361496]]'
+- "[[_Standards/WikiData/WD~gravity of Earth,673166]]"
+- '[[_Standards/WikiData/WD~Gravité,3115788]]'
+- "[[_Standards/WikiData/WD~apparent weight,3900737]]"
+- '[[_Standards/WikiData/WD~Q5478402,5478402]]'
+- '[[_Standards/WikiData/WD~Gravitas,12900118]]'
+- "[[_Standards/WikiData/WD~standard acceleration of free fall,13400897]]"
+- "[[_Standards/WikiData/WD~acceleration of free fall,103982270]]"
+- "[[_Standards/WikiData/WD~gravitational force,119510698]]"
+- '[[_Standards/WikiData/WD~weight,25288]]'
+- "[[_Standards/WikiData/WD~gravitational acceleration,30006]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- '[[_Standards/WikiData/WD~Tietosanakirja,2038734]]'
+- "[[_Standards/WikiData/WD~Pieni tietosanakirja,3119395]]"
+- "[[_Standards/WikiData/WD~Illustrated Norwegian conversation lexicon,12715646]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Nordisk familjebok, 1st edition,28009618]]"
+- "[[_Standards/WikiData/WD~Norsk Haandlexikon,65528751]]"
+- "[[_Standards/WikiData/WD~Salmonsens konversationsleksikon, 2nd edition,65529695]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
+- "[[_Standards/WikiData/WD~Bonniers konversationslexikon, 1st edition,125572590]]"
+- "[[_Standards/WikiData/WD~Åhlén & söners uppslagsbok,125582597]]"
+- "[[_Standards/WikiData/WD~Den nye Salmonsen,125582660]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~spacetime curvature,4240689]]"
+- "[[_Standards/WikiData/WD~gravitational force,119510698]]"
+has_cause:
+- "[[_Standards/WikiData/WD~spacetime curvature,4240689]]"
+- '[[_Standards/WikiData/WD~matter,35758]]'
+has_effect:
+- '[[_Standards/WikiData/WD~fall,11620540]]'
+- "[[_Standards/WikiData/WD~gravitational motion,29652844]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13211642,13211642]]'
+opposite_of: "[[_Standards/WikiData/WD~non-gravitational force,38084560]]"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Schwerkraft.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Gravitation.ogg"
+Stack_Exchange_tag:
+- "https://mathoverflow.net/tags/gravity-theory"
+- "https://space.stackexchange.com/tags/gravity"
+- "https://astronomy.stackexchange.com/tags/gravity"
+- "https://worldbuilding.stackexchange.com/tags/gravity"
+- "https://scifi.stackexchange.com/tags/gravity"
+- "https://physics.stackexchange.com/tags/gravity"
+MeSH_tree_code: G01.060.350
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Isaac Newton,935]]"
+OmegaWiki_Defined_Meaning: 8440
+Commons_category: Gravitation
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Schwerkraft%20als%20Kr%C3%BCmmung%20des%20Raumes%20%28CC%20BY%204.0%29.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20sys.jpg"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/gravity"
+Iconclass_notation: 49E222
 ---
-
 
 ## #has_/text_of_/abstract 
 

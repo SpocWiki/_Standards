@@ -1,77 +1,78 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21946
 has_id_wikidata: Q1094
-Commons gallery: Indium
-Commons category: Indium
-Krugosvet article: nauka_i_tehnika/himiya/INDI.html
-RTECS number: NL1050000
-Unicode character: 銦
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Ferdinand Reich,77307]]"
-  - "[[_Standards/WikiData/WD~Hieronymous Theodor Richter,77308]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 13,189294]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~post-transition metal,19591]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-instance of:
-  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-named after: "[[_Standards/WikiData/WD~indigo,5967009]]"
-associated hazard: "[[_Standards/WikiData/WD~indium exposure,21174765]]"
-has effect: "[[_Standards/WikiData/WD~indium exposure,21174765]]"
-different from:
-  - "[[_Standards/WikiData/WD~Hindujo _ Hindio _ Indija _ India,66376810]]"
-  - "[[_Standards/WikiData/WD~iridium,877]]"
-UMLS CUI: C0021223
-time of discovery or invention: 1863-01-01T00:00:00Z
-Common Procurement Vocabulary code:
-  - 14763000-7
-  - "14763000"
-electron configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p¹
-  - "[Kr] 5s² 5d¹⁰ 5p¹"
-vapor pressure: 0
-time-weighted average exposure limit: 0.1
-ionic radius:
-  - 0.8
-  - 0.62
-atomic number: 49
+Commons_gallery: Indium
+Commons_category: Indium
+Krugosvet_article: nauka_i_tehnika/himiya/INDI.html
+RTECS_number: NL1050000
+Unicode_character: 銦
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Ferdinand Reich,77307]]"
+- "[[_Standards/WikiData/WD~Hieronymous Theodor Richter,77308]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 13,189294]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+instance_of:
+- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+named_after: '[[_Standards/WikiData/WD~indigo,5967009]]'
+associated_hazard: "[[_Standards/WikiData/WD~indium exposure,21174765]]"
+has_effect: "[[_Standards/WikiData/WD~indium exposure,21174765]]"
+different_from:
+- "[[_Standards/WikiData/WD~Hindujo _ Hindio _ Indija _ India,66376810]]"
+- '[[_Standards/WikiData/WD~iridium,877]]'
+UMLS_CUI: C0021223
+time_of_discovery_or_invention: "1863-01-01T00:00:00Z"
+Common_Procurement_Vocabulary_code:
+- 14763000-7
+- 14763000
+electron_configuration:
+- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p¹"
+- "[Kr] 5s² 5d¹⁰ 5p¹"
+vapor_pressure: 0
+time-weighted_average_exposure_limit: 0.1
+ionic_radius:
+- 0.8
+- 0.62
+atomic_number: 49
 electronegativity: 1.78
-melting point: 314
+melting_point: 314
 density: 7.31
-boiling point: 3767
-OmegaWiki Defined Meaning: "160221"
-ZVG number: "8370"
+boiling_point: 3767
+OmegaWiki_Defined_Meaning: 160221
+ZVG_number: 8370
 mass: 114.818
-Gmelin number: "16297"
-UNSPSC Code: "11101717"
-CPV Supplementary code: AA30
-chemical formula: In
-element symbol: In
-canonical SMILES: "[In]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Indium%20wetting%20glass.jpg
+Gmelin_number: 16297
+UNSPSC_Code: 11101717
+CPV_Supplementary_code: AA30
+chemical_formula: In
+element_symbol: In
+canonical_SMILES: '[In]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Indium%20wetting%20glass.jpg"
 UNII: 045A6V3VFX
-EC number: 231-180-0
-PubChem CID: "5359967"
-CAS Registry Number: 7440-74-6
+EC_number: 231-180-0
+PubChem_CID: 5359967
+CAS_Registry_Number: 7440-74-6
 InChIKey: APFVFJFRJDLVQX-UHFFFAOYSA-N
-MeSH tree code:
-  - D01.268.556.381
-  - D01.552.544.381
-DSSTOX compound identifier: DTXCID401323007
-Wolfram Language entity code: Entity["Mineral", "Indium"]
+MeSH_tree_code:
+- D01.268.556.381
+- D01.552.544.381
+DSSTOX_compound_identifier: DTXCID401323007
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Indium\"]"
 InChI: InChI=1S/In
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Indium,1094]] 
 

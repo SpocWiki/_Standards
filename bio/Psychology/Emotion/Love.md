@@ -1,72 +1,71 @@
----
+﻿---
 has_id_wikidata: Q316
 hashtag:
-  - amore
-  - amour
-  - Liebe
-  - любовь
-  - love
-  - amor
-MeSH tree code: F01.470.734
-Krugosvet article: gumanitarnye_nauki/filosofiya/LYUBOV.html
-Colon Classification: S:55
-opposite of: "[[_Standards/WikiData/WD~hatred,160232]]"
-different from:
-  - "[[_Standards/WikiData/WD~Love,224654]]"
-  - "[[_Standards/WikiData/WD~Amo,231444]]"
-  - "[[_Standards/WikiData/WD~Amor,250861]]"
-  - "[[_Standards/WikiData/WD~Amore,450778]]"
-  - "[[_Standards/WikiData/WD~Amour,474367]]"
-  - "[[_Standards/WikiData/WD~limerence,1210705]]"
-  - "[[_Standards/WikiData/WD~infatuation,1320124]]"
-  - "[[_Standards/WikiData/WD~Meile,1516527]]"
-  - "[[_Standards/WikiData/WD~Laska,1806606]]"
-  - "[[_Standards/WikiData/WD~Liebe,1823724]]"
-  - "[[_Standards/WikiData/WD~falling in love,1854755]]"
-  - "[[_Standards/WikiData/WD~Ljubav,6660863]]"
-  - "[[_Standards/WikiData/WD~Cinta,11266420]]"
-  - "[[_Standards/WikiData/WD~Ljubezen,20519184]]"
-  - "[[_Standards/WikiData/WD~Armastus,20527689]]"
-  - "[[_Standards/WikiData/WD~Miłość,71068291]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire Infernal,1210353]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-instance of:
-  - "[[_Standards/WikiData/WD~theme,1053916]]"
-  - "[[_Standards/WikiData/WD~advanced emotion,16748888]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~affection,1124198]]"
-  - "[[_Standards/WikiData/WD~experience,5489108]]"
-  - "[[_Standards/WikiData/WD~emotions,9415]]"
-part of:
-  - "[[_Standards/WikiData/WD~theory of emotion,9357054]]"
-  - "[[_Standards/WikiData/WD~psychology terminology,77468620]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Love sidebar,11862748]]"
-has characteristic: "[[_Standards/WikiData/WD~intimacy,16358629]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828880,22828880]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~love in Islam,127121611]]"
-  - "[[_Standards/WikiData/WD~Affection to conspecifics in animals,131139934]]"
-Provenio UUID: c123128f-9937-423b-a4fa-93a94001e839
-UMLS CUI: C0024028
-Library of Congress Classification: BD436
-OmegaWiki Defined Meaning: "5497"
+- amore
+- amour
+- Liebe
+- любовь
+- love
+- amor
+MeSH_tree_code: F01.470.734
+Krugosvet_article: gumanitarnye_nauki/filosofiya/LYUBOV.html
+Colon_Classification: "S:55"
+opposite_of: '[[_Standards/WikiData/WD~hatred,160232]]'
+different_from:
+- '[[_Standards/WikiData/WD~Love,224654]]'
+- '[[_Standards/WikiData/WD~Amo,231444]]'
+- '[[_Standards/WikiData/WD~Amor,250861]]'
+- '[[_Standards/WikiData/WD~Amore,450778]]'
+- '[[_Standards/WikiData/WD~Amour,474367]]'
+- '[[_Standards/WikiData/WD~limerence,1210705]]'
+- '[[_Standards/WikiData/WD~infatuation,1320124]]'
+- '[[_Standards/WikiData/WD~Meile,1516527]]'
+- '[[_Standards/WikiData/WD~Laska,1806606]]'
+- '[[_Standards/WikiData/WD~Liebe,1823724]]'
+- "[[_Standards/WikiData/WD~falling in love,1854755]]"
+- '[[_Standards/WikiData/WD~Ljubav,6660863]]'
+- '[[_Standards/WikiData/WD~Cinta,11266420]]'
+- '[[_Standards/WikiData/WD~Ljubezen,20519184]]'
+- '[[_Standards/WikiData/WD~Armastus,20527689]]'
+- '[[_Standards/WikiData/WD~Miłość,71068291]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Dictionnaire Infernal,1210353]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+instance_of:
+- '[[_Standards/WikiData/WD~theme,1053916]]'
+- "[[_Standards/WikiData/WD~advanced emotion,16748888]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~affection,1124198]]'
+- '[[_Standards/WikiData/WD~experience,5489108]]'
+- '[[_Standards/WikiData/WD~emotions,9415]]'
+part_of:
+- "[[_Standards/WikiData/WD~theory of emotion,9357054]]"
+- "[[_Standards/WikiData/WD~psychology terminology,77468620]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Love sidebar,11862748]]"
+has_characteristic: '[[_Standards/WikiData/WD~intimacy,16358629]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828880,22828880]]'
+has_part_s_:
+- "[[_Standards/WikiData/WD~love in Islam,127121611]]"
+- "[[_Standards/WikiData/WD~Affection to conspecifics in animals,131139934]]"
+Provenio_UUID: c123128f-9937-423b-a4fa-93a94001e839
+UMLS_CUI: C0024028
+Library_of_Congress_Classification: BD436
+OmegaWiki_Defined_Meaning: 5497
 subreddit: love
-Archive of Our Own tag: Love
-Commons gallery: Love
-Commons category: Love
-image: http://commons.wikimedia.org/wiki/Special:FilePath/DickseeRomeoandJuliet.jpg
-Dewey Decimal Classification:
-  - "152.41"
-  - "177.7"
+Archive_of_Our_Own_tag: Love
+Commons_gallery: Love
+Commons_category: Love
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/DickseeRomeoandJuliet.jpg"
+Dewey_Decimal_Classification:
+- 152.41
+- 177.7
 ---
-
 
 ## #has_/text_of_/abstract 
 

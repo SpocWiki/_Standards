@@ -1,69 +1,68 @@
----
+﻿---
 has_id_wikidata: Q861
 InChIKey: GYHNNYVSQQEPJS-UHFFFAOYSA-N
 InChI: InChI=1S/Ga
-Krugosvet article: nauka_i_tehnika/himiya/GALLI.html
-made from material:
-  - "[[_Standards/WikiData/WD~bauxite,102078]]"
-  - "[[_Standards/WikiData/WD~gallite,411230]]"
-  - "[[_Standards/WikiData/WD~zinc ore,12168819]]"
-different from: "[[_Standards/WikiData/WD~Gal,141487]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 13,189294]]"
-  - "[[_Standards/WikiData/WD~period 4,239825]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Paul-Émile Lecoq de Boisbaudran,366827]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Gallium,84658438]]"
-instance of:
-  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-has effect: "[[_Standards/WikiData/WD~embrittlement,2919530]]"
-UMLS CUI: C0016980
-time of discovery or invention: 1875-01-01T00:00:00Z
-Common Procurement Vocabulary code:
-  - 14762000-0
-  - "14762000"
-subclass of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
-oxidation state:
-  - 1
-  - 2
-  - 3
-atomic number: 31
-ionic radius:
-  - 0.47
-  - 0.62
-named after: "[[_Standards/WikiData/WD~Gaul,38060]]"
+Krugosvet_article: nauka_i_tehnika/himiya/GALLI.html
+made_from_material:
+- '[[_Standards/WikiData/WD~bauxite,102078]]'
+- '[[_Standards/WikiData/WD~gallite,411230]]'
+- "[[_Standards/WikiData/WD~zinc ore,12168819]]"
+different_from: '[[_Standards/WikiData/WD~Gal,141487]]'
+part_of:
+- "[[_Standards/WikiData/WD~group 13,189294]]"
+- "[[_Standards/WikiData/WD~period 4,239825]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile Lecoq de Boisbaudran,366827]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- '[[_Standards/WikiData/WD~Gallium,84658438]]'
+instance_of:
+- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+has_effect: '[[_Standards/WikiData/WD~embrittlement,2919530]]'
+UMLS_CUI: C0016980
+time_of_discovery_or_invention: "1875-01-01T00:00:00Z"
+Common_Procurement_Vocabulary_code:
+- 14762000-0
+- 14762000
+subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+oxidation_state:
+- 1
+- 2
+- 3
+atomic_number: 31
+ionic_radius:
+- 0.47
+- 0.62
+named_after: '[[_Standards/WikiData/WD~Gaul,38060]]'
 electronegativity: 1.81
 density:
-  - 5.904
-  - 6.095
-ZVG number: "8260"
+- 5.904
+- 6.095
+ZVG_number: 8260
 mass: 69.723
-chemical formula: Ga
-element symbol: Ga
-canonical SMILES: "[Ga]"
-OmegaWiki Defined Meaning: "159177"
-PubChem CID: "5360835"
-Commons gallery: Gallium
-Commons category: Gallium
-Unicode character: 鎵
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Gallium%20crystals.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Gallium%20drops.ogv
-EC number: 231-163-8
-CAS Registry Number: 7440-55-3
-CPV Supplementary code: AA29
+chemical_formula: Ga
+element_symbol: Ga
+canonical_SMILES: '[Ga]'
+OmegaWiki_Defined_Meaning: 159177
+PubChem_CID: 5360835
+Commons_gallery: Gallium
+Commons_category: Gallium
+Unicode_character: 鎵
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gallium%20crystals.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Gallium%20drops.ogv"
+EC_number: 231-163-8
+CAS_Registry_Number: 7440-55-3
+CPV_Supplementary_code: AA29
 UNII: CH46OC8YV4
-MeSH tree code:
-  - D01.268.556.289
-  - D01.552.544.289
-DSSTOX compound identifier: DTXCID5047661
+MeSH_tree_code:
+- D01.268.556.289
+- D01.552.544.289
+DSSTOX_compound_identifier: DTXCID5047661
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,66 +1,66 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21912
 has_id_wikidata: Q654
-Commons category: Neon
-Unicode character: 氖
-part of:
-  - "[[_Standards/WikiData/WD~period 2,207712]]"
-  - "[[_Standards/WikiData/WD~noble gases,19609]]"
-different from: "[[_Standards/WikiData/WD~Neon,234950]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Morris Travers,380209]]"
-  - "[[_Standards/WikiData/WD~William Ramsay,950726]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-instance of:
-  - "[[_Standards/WikiData/WD~atmophile element,2313842]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Neon-ar.ogg
-electron configuration:
-  - "[He] 2s² 2p⁶"
-  - 1s² 2s² 2p⁶
-canonical SMILES: "[Ne]"
-EC number: 231-110-9
+Commons_category: Neon
+Unicode_character: 氖
+part_of:
+- "[[_Standards/WikiData/WD~period 2,207712]]"
+- "[[_Standards/WikiData/WD~noble gases,19609]]"
+different_from: '[[_Standards/WikiData/WD~Neon,234950]]'
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Morris Travers,380209]]"
+- "[[_Standards/WikiData/WD~William Ramsay,950726]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+instance_of:
+- "[[_Standards/WikiData/WD~atmophile element,2313842]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Neon-ar.ogg"
+electron_configuration:
+- "[He] 2s² 2p⁶"
+- "1s² 2s² 2p⁶"
+canonical_SMILES: '[Ne]'
+EC_number: 231-110-9
 UNII: 4VB4Y46AHD
-CAS Registry Number: 7440-01-9
-MeSH tree code:
-  - D01.268.613.600
-  - D01.362.641.592
-DSSTOX compound identifier: DTXCID2047642
+CAS_Registry_Number: 7440-01-9
+MeSH_tree_code:
+- D01.268.613.600
+- D01.362.641.592
+DSSTOX_compound_identifier: DTXCID2047642
 InChIKey: GKAOGPIIYCISHV-UHFFFAOYSA-N
 InChI: InChI=1S/Ne
-has characteristic:
-  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
-  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
-named after: "[[_Standards/WikiData/WD~novelty,12544101]]"
-conjugate acid: "[[_Standards/WikiData/WD~neonium ion,64995456]]"
-time of discovery or invention: 1898-01-01T00:00:00Z
-UMLS CUI: C0027608
-melting point: -248.6
-subclass of: "[[_Standards/WikiData/WD~noble gases,19609]]"
-boiling point: -246
-location of discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
-atomic number: 10
-speed of sound: 435
+has_characteristic:
+- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+named_after: '[[_Standards/WikiData/WD~novelty,12544101]]'
+conjugate_acid: "[[_Standards/WikiData/WD~neonium ion,64995456]]"
+time_of_discovery_or_invention: "1898-01-01T00:00:00Z"
+UMLS_CUI: C0027608
+melting_point: -248.6
+subclass_of: "[[_Standards/WikiData/WD~noble gases,19609]]"
+boiling_point: -246
+location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+atomic_number: 10
+speed_of_sound: 435
 density:
-  - 1.204
-  - 1.444
-  - 0.90035
-standard molar entropy: 146.2
-ZVG number: "7100"
-ASHRAE refrigerant number: "720"
-PubChem CID: "23935"
+- 1.204
+- 1.444
+- 0.90035
+standard_molar_entropy: 146.2
+ZVG_number: 7100
+ASHRAE_refrigerant_number: 720
+PubChem_CID: 23935
 mass: 20.1797
-OmegaWiki Defined Meaning: "159119"
-chemical formula: Ne
-element symbol: Ne
-image: http://commons.wikimedia.org/wiki/Special:FilePath/NeTube.jpg
-Commons gallery: Neon
+OmegaWiki_Defined_Meaning: 159119
+chemical_formula: Ne
+element_symbol: Ne
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/NeTube.jpg"
+Commons_gallery: Neon
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Neon,654]] 

@@ -1,71 +1,70 @@
----
+﻿---
 has_id_wikidata: Q3947
-OpenStreetMap tag or key: Tag:building=house
-Dewey Decimal Classification:
-  - "690.8"
-  - "728.37"
-  - "690.837"
-  - "643"
-  - "728"
-  - "643.1"
-has part(s):
-  - "[[_Standards/WikiData/WD~roof,83180]]"
-  - "[[_Standards/WikiData/WD~room,180516]]"
-  - "[[_Standards/WikiData/WD~floor,217164]]"
-  - "[[_Standards/WikiData/WD~basement,234852]]"
-  - "[[_Standards/WikiData/WD~attic,244490]]"
-  - "[[_Standards/WikiData/WD~majlis,10858057]]"
-  - "[[_Standards/WikiData/WD~window,35473]]"
-  - "[[_Standards/WikiData/WD~door,36794]]"
-  - "[[_Standards/WikiData/WD~wall,42948]]"
-made from material: "[[_Standards/WikiData/WD~building material,206615]]"
-different from:
-  - "[[_Standards/WikiData/WD~Dom,255708]]"
-  - "[[_Standards/WikiData/WD~Q65425102,65425102]]"
-  - "[[_Standards/WikiData/WD~home,7743]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-has use:
-  - "[[_Standards/WikiData/WD~residence,699405]]"
-  - "[[_Standards/WikiData/WD~shelter,989946]]"
-  - "[[_Standards/WikiData/WD~housing,1247867]]"
-  - "[[_Standards/WikiData/WD~home,7743]]"
-instance of: "[[_Standards/WikiData/WD~building type,811102]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~architectural structure,811979]]"
-  - "[[_Standards/WikiData/WD~shelter,989946]]"
-  - "[[_Standards/WikiData/WD~residential building,11755880]]"
-  - "[[_Standards/WikiData/WD~building,41176]]"
-facet of: "[[_Standards/WikiData/WD~minka,935445]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~house,55744010]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Haus2.ogg
-properties for this type:
-  - occupant
-  - inception
-  - located on street
-  - heritage designation
-  - time period
-  - country
-  - owned by
-  - located in the administrative territorial entity
-  - architectural style
-Wikidata property: number of houses
-IAB code: "447"
-Nomenclature for Museum Cataloging: "743"
-OmegaWiki Defined Meaning: "5517"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Ranch%20style%20home%20in%20Salinas%2C%20California.JPG
-exact match: https://schema.org/House
-equivalent class: https://schema.org/House
-Unicode character: 🏡
+OpenStreetMap_tag_or_key: "Tag:building=house"
+Dewey_Decimal_Classification:
+- 690.8
+- 728.37
+- 690.837
+- 643
+- 728
+- 643.1
+has_part_s_:
+- '[[_Standards/WikiData/WD~roof,83180]]'
+- '[[_Standards/WikiData/WD~room,180516]]'
+- '[[_Standards/WikiData/WD~floor,217164]]'
+- '[[_Standards/WikiData/WD~basement,234852]]'
+- '[[_Standards/WikiData/WD~attic,244490]]'
+- '[[_Standards/WikiData/WD~majlis,10858057]]'
+- '[[_Standards/WikiData/WD~window,35473]]'
+- '[[_Standards/WikiData/WD~door,36794]]'
+- '[[_Standards/WikiData/WD~wall,42948]]'
+made_from_material: "[[_Standards/WikiData/WD~building material,206615]]"
+different_from:
+- '[[_Standards/WikiData/WD~Dom,255708]]'
+- '[[_Standards/WikiData/WD~Q65425102,65425102]]'
+- '[[_Standards/WikiData/WD~home,7743]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+has_use:
+- '[[_Standards/WikiData/WD~residence,699405]]'
+- '[[_Standards/WikiData/WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~housing,1247867]]'
+- '[[_Standards/WikiData/WD~home,7743]]'
+instance_of: "[[_Standards/WikiData/WD~building type,811102]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~architectural structure,811979]]"
+- '[[_Standards/WikiData/WD~shelter,989946]]'
+- "[[_Standards/WikiData/WD~residential building,11755880]]"
+- '[[_Standards/WikiData/WD~building,41176]]'
+facet_of: '[[_Standards/WikiData/WD~minka,935445]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~house,55744010]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Haus2.ogg"
+properties_for_this_type:
+- occupant
+- inception
+- "located on street"
+- "heritage designation"
+- "time period"
+- country
+- "owned by"
+- "located in the administrative territorial entity"
+- "architectural style"
+Wikidata_property: "number of houses"
+IAB_code: 447
+Nomenclature_for_Museum_Cataloging: 743
+OmegaWiki_Defined_Meaning: 5517
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ranch%20style%20home%20in%20Salinas%2C%20California.JPG"
+exact_match: "https://schema.org/House"
+equivalent_class: "https://schema.org/House"
+Unicode_character: "\U0001F3E1"
 hashtag: house
-Commons category: Houses
-GeoNames feature code: S.HSE
+Commons_category: Houses
+GeoNames_feature_code: S.HSE
 ---
-
 
 ## #has_/text_of_/abstract 
 

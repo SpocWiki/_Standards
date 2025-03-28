@@ -1,68 +1,67 @@
----
+﻿---
 has_id_wikidata: Q467
-IPTC NewsCode: asportfacetvalue/women
-MeSH tree code: M01.975
-has characteristic:
-  - "[[_Standards/WikiData/WD~menstrual cycle,83864]]"
-  - "[[_Standards/WikiData/WD~female reproductive system,844342]]"
-  - "[[_Standards/WikiData/WD~fertility,964401]]"
-  - "[[_Standards/WikiData/WD~female body shape,3543843]]"
-  - "[[_Standards/WikiData/WD~female voice,50810224]]"
-different from:
-  - "[[_Standards/WikiData/WD~wife,188830]]"
-  - "[[_Standards/WikiData/WD~Dame,229756]]"
-  - "[[_Standards/WikiData/WD~Woman,911993]]"
-  - "[[_Standards/WikiData/WD~Frau,1159762]]"
-  - "[[_Standards/WikiData/WD~female,6581072]]"
-  - "[[_Standards/WikiData/WD~female human,84048852]]"
-  - "[[_Standards/WikiData/WD~girlfriend,49835]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Women in Today's World,101407938]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-said to be the same as:
-  - "[[_Standards/WikiData/WD~womyn,3569775]]"
-  - "[[_Standards/WikiData/WD~womxn,65090566]]"
-has list: "[[_Standards/WikiData/WD~list of lists of nude women,6626611]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~adult human,9584157]]"
-  - "[[_Standards/WikiData/WD~female human,84048852]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Women,15656558]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Women,21712210]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828751,22828751]]"
-disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-produced sound: "[[_Standards/WikiData/WD~female voice,50810224]]"
-category for eponymous categories: "[[_Standards/WikiData/WD~Q60607743,60607743]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
-Baidu Tieba name: 女人
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Frau2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BE.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Human-woman.png
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/FemaleBlack.svg
-follows: "[[_Standards/WikiData/WD~girl,3031]]"
-opposite of: "[[_Standards/WikiData/WD~man,8441]]"
-OmegaWiki Defined Meaning: "4165"
-Commons gallery: Woman
-U.S. National Archives Identifier: "10642093"
-Dewey Decimal Classification: "920.72"
-literal translation:
-  - woman
-  - female
-  - женщина
-  - жінка
-  - אישה
+IPTC_NewsCode: asportfacetvalue/women
+MeSH_tree_code: M01.975
+has_characteristic:
+- "[[_Standards/WikiData/WD~menstrual cycle,83864]]"
+- "[[_Standards/WikiData/WD~female reproductive system,844342]]"
+- '[[_Standards/WikiData/WD~fertility,964401]]'
+- "[[_Standards/WikiData/WD~female body shape,3543843]]"
+- "[[_Standards/WikiData/WD~female voice,50810224]]"
+different_from:
+- '[[_Standards/WikiData/WD~wife,188830]]'
+- '[[_Standards/WikiData/WD~Dame,229756]]'
+- '[[_Standards/WikiData/WD~Woman,911993]]'
+- '[[_Standards/WikiData/WD~Frau,1159762]]'
+- '[[_Standards/WikiData/WD~female,6581072]]'
+- "[[_Standards/WikiData/WD~female human,84048852]]"
+- '[[_Standards/WikiData/WD~girlfriend,49835]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Women in Today's World,101407938]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+said_to_be_the_same_as:
+- '[[_Standards/WikiData/WD~womyn,3569775]]'
+- '[[_Standards/WikiData/WD~womxn,65090566]]'
+has_list: "[[_Standards/WikiData/WD~list of lists of nude women,6626611]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~adult human,9584157]]"
+- "[[_Standards/WikiData/WD~female human,84048852]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Women,15656558]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Women,21712210]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828751,22828751]]'
+disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+produced_sound: "[[_Standards/WikiData/WD~female voice,50810224]]"
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q60607743,60607743]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
+Baidu_Tieba_name: 女人
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frau2.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BE.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Human-woman.png"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/FemaleBlack.svg"
+follows: '[[_Standards/WikiData/WD~girl,3031]]'
+opposite_of: '[[_Standards/WikiData/WD~man,8441]]'
+OmegaWiki_Defined_Meaning: 4165
+Commons_gallery: Woman
+U_S_National_Archives_Identifier: 10642093
+Dewey_Decimal_Classification: 920.72
+literal_translation:
+- woman
+- female
+- женщина
+- жінка
+- אישה
 hashtag: woman
-Unicode character: 👩
-Commons category: Women
-Colon Classification: Y15
-label in sign language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-dona-spreadthesign.ogv
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20Montage%20%281%29.jpg
+Unicode_character: "\U0001F469"
+Commons_category: Women
+Colon_Classification: Y15
+label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-dona-spreadthesign.ogv"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20Montage%20%281%29.jpg"
 ---
-
 
 ## #has_/text_of_/abstract 
 

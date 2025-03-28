@@ -1,75 +1,74 @@
----
+﻿---
 has_id_wikidata: Q788
-Krugosvet article: Earth_sciences/geografiya/SEVERNI_LEDOVITI_OKEAN.html
-Colon Classification: SG--987
-Gujarati Vishwakosh entry: આર્કટિક-મહાસાગર
-coordinate location: Point(0.0 90.0)
-has part(s):
-  - "[[_Standards/WikiData/WD~Northwest Passage,81136]]"
-  - "[[_Standards/WikiData/WD~Beaufort Sea,131274]]"
-  - "[[_Standards/WikiData/WD~East Siberian Sea,163434]]"
-  - "[[_Standards/WikiData/WD~Davis Strait,189262]]"
-  - "[[_Standards/WikiData/WD~Hudson Strait,207702]]"
-  - "[[_Standards/WikiData/WD~Lincoln Sea,243125]]"
-  - "[[_Standards/WikiData/WD~Wandel Sea,259929]]"
-  - "[[_Standards/WikiData/WD~Scoresby Sound,426453]]"
-  - "[[_Standards/WikiData/WD~Rijpfjorden,3441649]]"
-  - "[[_Standards/WikiData/WD~Duvefjorden,3441662]]"
-  - "[[_Standards/WikiData/WD~Hudson Bay,3040]]"
-  - "[[_Standards/WikiData/WD~Laptev Sea,7988]]"
-  - "[[_Standards/WikiData/WD~Kara Sea,33629]]"
-  - "[[_Standards/WikiData/WD~Baffin Bay,37040]]"
-  - "[[_Standards/WikiData/WD~Barents Sea,45823]]"
-  - "[[_Standards/WikiData/WD~Norwegian Sea,47545]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Limits of Oceans and Seas, 3rd edition,35541239]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-part of:
-  - "[[_Standards/WikiData/WD~World Ocean,715269]]"
-  - "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+Krugosvet_article: Earth_sciences/geografiya/SEVERNI_LEDOVITI_OKEAN.html
+Colon_Classification: SG--987
+Gujarati_Vishwakosh_entry: આર્કટિક-મહાસાગર
+coordinate_location: "Point(0.0 90.0)"
+has_part_s_:
+- "[[_Standards/WikiData/WD~Northwest Passage,81136]]"
+- "[[_Standards/WikiData/WD~Beaufort Sea,131274]]"
+- "[[_Standards/WikiData/WD~East Siberian Sea,163434]]"
+- "[[_Standards/WikiData/WD~Davis Strait,189262]]"
+- "[[_Standards/WikiData/WD~Hudson Strait,207702]]"
+- "[[_Standards/WikiData/WD~Lincoln Sea,243125]]"
+- "[[_Standards/WikiData/WD~Wandel Sea,259929]]"
+- "[[_Standards/WikiData/WD~Scoresby Sound,426453]]"
+- '[[_Standards/WikiData/WD~Rijpfjorden,3441649]]'
+- '[[_Standards/WikiData/WD~Duvefjorden,3441662]]'
+- "[[_Standards/WikiData/WD~Hudson Bay,3040]]"
+- "[[_Standards/WikiData/WD~Laptev Sea,7988]]"
+- "[[_Standards/WikiData/WD~Kara Sea,33629]]"
+- "[[_Standards/WikiData/WD~Baffin Bay,37040]]"
+- "[[_Standards/WikiData/WD~Barents Sea,45823]]"
+- "[[_Standards/WikiData/WD~Norwegian Sea,47545]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Limits of Oceans and Seas, 3rd edition,35541239]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+part_of:
+- "[[_Standards/WikiData/WD~World Ocean,715269]]"
+- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Hood River,1627362]]"
-  - "[[_Standards/WikiData/WD~Kukpuk River,3200297]]"
-  - "[[_Standards/WikiData/WD~Wolf River,16211936]]"
-lowest point: "[[_Standards/WikiData/WD~Molloy Deep,1943612]]"
-topic's main template: "[[_Standards/WikiData/WD~Q10727352,10727352]]"
-category for people who died here: "[[_Standards/WikiData/WD~Q27688757,27688757]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42353197,42353197]]"
-drainage basin:
-  - "[[_Standards/WikiData/WD~Arctic Ocean basin,46525532]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9288%20%28heb%29-YaronSh-%D7%90%D7%95%D7%A7%D7%99%D7%99%D7%A0%D7%95%D7%A1%20%D7%94%D7%A7%D7%A8%D7%97%20%D7%94%D7%A6%D7%A4%D7%95%D7%A0%D7%99.wav
-named after: "[[_Standards/WikiData/WD~north,659]]"
-instance of: "[[_Standards/WikiData/WD~ocean,9430]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~international waters,25855]]"
-basin country:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Iceland,189]]"
-  - "[[_Standards/WikiData/WD~Greenland,223]]"
-elevation above sea level: 0
-vertical depth:
-  - 5550
-  - 1038
-volume as quantity: 18750000
+- "[[_Standards/WikiData/WD~Hood River,1627362]]"
+- "[[_Standards/WikiData/WD~Kukpuk River,3200297]]"
+- "[[_Standards/WikiData/WD~Wolf River,16211936]]"
+lowest_point: "[[_Standards/WikiData/WD~Molloy Deep,1943612]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q10727352,10727352]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27688757,27688757]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353197,42353197]]'
+drainage_basin:
+- "[[_Standards/WikiData/WD~Arctic Ocean basin,46525532]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9288%20%28heb%29-YaronSh-%D7%90%D7%95%D7%A7%D7%99%D7%99%D7%A0%D7%95%D7%A1%20%D7%94%D7%A7%D7%A8%D7%97%20%D7%94%D7%A6%D7%A4%D7%95%D7%A0%D7%99.wav"
+named_after: '[[_Standards/WikiData/WD~north,659]]'
+instance_of: '[[_Standards/WikiData/WD~ocean,9430]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~international waters,25855]]"
+basin_country:
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Iceland,189]]'
+- '[[_Standards/WikiData/WD~Greenland,223]]'
+elevation_above_sea_level: 0
+vertical_depth:
+- 5550
+- 1038
+volume_as_quantity: 18750000
 area: 14056000
-bathymetry image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Ocean%20bathymetric%20features.png
-Commons category: Arctic Ocean
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Ocean.png
-video: http://commons.wikimedia.org/wiki/Special:FilePath/North%20Pole%20Sea%20Ice%201990-1999.ogv
-U.S. National Archives Identifier: "10038060"
+bathymetry_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Ocean%20bathymetric%20features.png"
+Commons_category: "Arctic Ocean"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Ocean.png"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Pole%20Sea%20Ice%201990-1999.ogv"
+U_S_National_Archives_Identifier: 10038060
 aliases:
-  - Arctic Ocean
+- "Arctic Ocean"
 ---
-
 
 ## #has_/text_of_/abstract 
 

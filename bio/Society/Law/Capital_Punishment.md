@@ -1,46 +1,45 @@
----
+﻿---
 aliases:
-  - Capital punishment
+- "Capital punishment"
 has_id_wikidata: Q8454
-subclass of:
-  - "[[_Standards/WikiData/WD~homicide,149086]]"
-  - "[[_Standards/WikiData/WD~punishment,186361]]"
-  - "[[_Standards/WikiData/WD~unnatural death,855919]]"
-  - "[[_Standards/WikiData/WD~sentence,1763090]]"
-  - "[[_Standards/WikiData/WD~cause of death,1931388]]"
-practiced by: "[[_Standards/WikiData/WD~executioner,207651]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Global Justice (2011 ed.),21002838]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-instance of: "[[_Standards/WikiData/WD~manner of death,2438541]]"
-has effect: "[[_Standards/WikiData/WD~execution,3966286]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-MeSH tree code: I01.880.604.160
-distribution map: http://commons.wikimedia.org/wiki/Special:FilePath/Capital%20punishment%20in%20the%20world%202024.svg
+subclass_of:
+- '[[_Standards/WikiData/WD~homicide,149086]]'
+- '[[_Standards/WikiData/WD~punishment,186361]]'
+- "[[_Standards/WikiData/WD~unnatural death,855919]]"
+- '[[_Standards/WikiData/WD~sentence,1763090]]'
+- "[[_Standards/WikiData/WD~cause of death,1931388]]"
+practiced_by: '[[_Standards/WikiData/WD~executioner,207651]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Global Justice (2011 ed.),21002838]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
+- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+instance_of: "[[_Standards/WikiData/WD~manner of death,2438541]]"
+has_effect: '[[_Standards/WikiData/WD~execution,3966286]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+MeSH_tree_code: I01.880.604.160
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Capital%20punishment%20in%20the%20world%202024.svg"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/SQ%20Lethal%20Injection%20Room.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/ASC%20Leiden%20-%20F.%20van%20der%20Kraaij%20Collection%20-%20The%20Hanging%20of%20the%20Harper%20Seven%2C%20Liberia%20-%2016%20February%201979%20-%2001.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Beheadingchina2.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20Chair%20at%20Sing%20Sing-noborder.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Executions%20of%20Filipino%20revolutionaries.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/John%20Martin%20-%20The%20Stoning%20of%20Saint%20Stephen%20-%20B1977.14.4252%20-%20Yale%20Center%20for%20British%20Art.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A4ttvisa%20skipas.jpg
-OmegaWiki Defined Meaning: "376982"
-U.S. National Archives Identifier: "10638012"
-Dewey Decimal Classification: "364.66"
-Commons category: Death penalty
-IPTC NewsCode: mediatopic/20000135
+- "http://commons.wikimedia.org/wiki/Special:FilePath/SQ%20Lethal%20Injection%20Room.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/ASC%20Leiden%20-%20F.%20van%20der%20Kraaij%20Collection%20-%20The%20Hanging%20of%20the%20Harper%20Seven%2C%20Liberia%20-%2016%20February%201979%20-%2001.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Beheadingchina2.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20Chair%20at%20Sing%20Sing-noborder.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Executions%20of%20Filipino%20revolutionaries.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Martin%20-%20The%20Stoning%20of%20Saint%20Stephen%20-%20B1977.14.4252%20-%20Yale%20Center%20for%20British%20Art.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A4ttvisa%20skipas.jpg"
+OmegaWiki_Defined_Meaning: 376982
+U_S_National_Archives_Identifier: 10638012
+Dewey_Decimal_Classification: 364.66
+Commons_category: "Death penalty"
+IPTC_NewsCode: mediatopic/20000135
 ---
-
 
 ## #has_/text_of_/abstract 
 

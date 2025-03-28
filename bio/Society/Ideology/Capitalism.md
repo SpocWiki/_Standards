@@ -1,62 +1,61 @@
----
+﻿---
 has_id_wikidata: Q6206
-Wolfram Language entity code: Entity["Concept", "Capitalism::qk623"]
-said to be the same as:
-  - "[[_Standards/WikiData/WD~laissez faire,171990]]"
-  - "[[_Standards/WikiData/WD~market economy,179522]]"
-  - "[[_Standards/WikiData/WD~economic liberalism,729119]]"
-  - "[[_Standards/WikiData/WD~capitalist mode of production,3132726]]"
-  - "[[_Standards/WikiData/WD~free market,46607]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~economic growth,189833]]"
-  - "[[_Standards/WikiData/WD~economic competition,319676]]"
-  - "[[_Standards/WikiData/WD~capital accumulation,420062]]"
-  - "[[_Standards/WikiData/WD~wage labor,949973]]"
-  - "[[_Standards/WikiData/WD~Price system,1131126]]"
-  - "[[_Standards/WikiData/WD~Voluntary exchange,11900430]]"
-has effect:
-  - "[[_Standards/WikiData/WD~mass production,215768]]"
-  - "[[_Standards/WikiData/WD~income inequality,5055020]]"
-has part(s): "[[_Standards/WikiData/WD~means of production,260747]]"
-subclass of: "[[_Standards/WikiData/WD~economic system,273005]]"
-opposite of:
-  - "[[_Standards/WikiData/WD~anti-capitalism,389647]]"
-  - "[[_Standards/WikiData/WD~communism,6186]]"
-based on:
-  - "[[_Standards/WikiData/WD~private property,555911]]"
-  - "[[_Standards/WikiData/WD~economic profit,26911]]"
-instance of: "[[_Standards/WikiData/WD~social formation,1641112]]"
-uses: "[[_Standards/WikiData/WD~commodification,1780322]]"
-item disputed by:
-  - "[[_Standards/WikiData/WD~anti-consumerism,1783091]]"
-  - "[[_Standards/WikiData/WD~Marxism,7264]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Global Justice (2011 ed.),21002838]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-history of topic: "[[_Standards/WikiData/WD~history of capitalism,3183163]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Aspects of capitalism,6688953]]"
-  - "[[_Standards/WikiData/WD~Template_Capitalism,65741511]]"
-Provenio UUID: dad5e2e0-c50e-4087-8697-9236b7606c4f
-UMLS CUI: C0006913
-MeSH tree code:
-  - I01.261.100
-  - I01.696.100
-OmegaWiki Defined Meaning: "1208510"
-Commons category: Capitalism
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"Capitalism::qk623\"]"
+said_to_be_the_same_as:
+- "[[_Standards/WikiData/WD~laissez faire,171990]]"
+- "[[_Standards/WikiData/WD~market economy,179522]]"
+- "[[_Standards/WikiData/WD~economic liberalism,729119]]"
+- "[[_Standards/WikiData/WD~capitalist mode of production,3132726]]"
+- "[[_Standards/WikiData/WD~free market,46607]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~economic growth,189833]]"
+- "[[_Standards/WikiData/WD~economic competition,319676]]"
+- "[[_Standards/WikiData/WD~capital accumulation,420062]]"
+- "[[_Standards/WikiData/WD~wage labor,949973]]"
+- "[[_Standards/WikiData/WD~Price system,1131126]]"
+- "[[_Standards/WikiData/WD~Voluntary exchange,11900430]]"
+has_effect:
+- "[[_Standards/WikiData/WD~mass production,215768]]"
+- "[[_Standards/WikiData/WD~income inequality,5055020]]"
+has_part_s_: "[[_Standards/WikiData/WD~means of production,260747]]"
+subclass_of: "[[_Standards/WikiData/WD~economic system,273005]]"
+opposite_of:
+- '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
+- '[[_Standards/WikiData/WD~communism,6186]]'
+based_on:
+- "[[_Standards/WikiData/WD~private property,555911]]"
+- "[[_Standards/WikiData/WD~economic profit,26911]]"
+instance_of: "[[_Standards/WikiData/WD~social formation,1641112]]"
+uses: '[[_Standards/WikiData/WD~commodification,1780322]]'
+item_disputed_by:
+- '[[_Standards/WikiData/WD~anti-consumerism,1783091]]'
+- '[[_Standards/WikiData/WD~Marxism,7264]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Global Justice (2011 ed.),21002838]]"
+- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of capitalism,3183163]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Aspects of capitalism,6688953]]"
+- '[[_Standards/WikiData/WD~Template_Capitalism,65741511]]'
+Provenio_UUID: dad5e2e0-c50e-4087-8697-9236b7606c4f
+UMLS_CUI: C0006913
+MeSH_tree_code:
+- I01.261.100
+- I01.696.100
+OmegaWiki_Defined_Meaning: 1208510
+Commons_category: Capitalism
 subreddit:
-  - Capitalism
-  - ABoringDystopia
+- Capitalism
+- ABoringDystopia
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Anti-capitalism%20color.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Microcosm%20of%20London%20Plate%20033%20-%20Corn%20Exchange.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B1%D8%A3%D8%B3%D9%85%D8%A7%D9%84%D9%8A%D8%A9.wav
-U.S. National Archives Identifier: "10638013"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Anti-capitalism%20color.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Microcosm%20of%20London%20Plate%20033%20-%20Corn%20Exchange.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B1%D8%A3%D8%B3%D9%85%D8%A7%D9%84%D9%8A%D8%A9.wav"
+U_S_National_Archives_Identifier: 10638013
 ---
-
 
 ## #has_/text_of_/abstract 
 

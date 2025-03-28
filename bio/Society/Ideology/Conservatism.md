@@ -1,48 +1,47 @@
----
+﻿---
 has_id_wikidata: Q7169
-facet of: "[[_Standards/WikiData/WD~right-wing,76074]]"
-significant person:
-  - "[[_Standards/WikiData/WD~Friedrich von Gentz,77476]]"
-  - "[[_Standards/WikiData/WD~Edmund Burke,165792]]"
-  - "[[_Standards/WikiData/WD~Joseph de Maistre,309854]]"
-  - "[[_Standards/WikiData/WD~Louis de Bonald,316674]]"
-  - "[[_Standards/WikiData/WD~Michael Oakeshott,959541]]"
-  - "[[_Standards/WikiData/WD~Justus Möser,65087]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Edmund Burke,165792]]"
-instance of:
-  - "[[_Standards/WikiData/WD~political philosophy,179805]]"
-  - "[[_Standards/WikiData/WD~social philosophy,180592]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~national conservatism,852739]]"
-  - "[[_Standards/WikiData/WD~libertarian conservatism,853562]]"
-  - "[[_Standards/WikiData/WD~liberal conservatism,1043096]]"
-  - "[[_Standards/WikiData/WD~social conservatism,1414298]]"
-  - "[[_Standards/WikiData/WD~traditionalist conservatism,2466570]]"
-  - "[[_Standards/WikiData/WD~fiscal conservatism,2698984]]"
-  - "[[_Standards/WikiData/WD~progressive conservatism,7248834]]"
-  - "[[_Standards/WikiData/WD~paternalistic conservatism,7333466]]"
-  - "[[_Standards/WikiData/WD~cultural conservatism,11168082]]"
-different from: "[[_Standards/WikiData/WD~conservation movement,1088777]]"
-described by source:
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-partially coincident with: "[[_Standards/WikiData/WD~conservatism,5163004]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Conservatism,10597639]]"
-subclass of: "[[_Standards/WikiData/WD~political ideology,12909644]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Conservatism,14615388]]"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Reagan%27s%20remarks%20at%20the%20Annual%20Conservative%20Political%20Action%20Conference%2C%20March%201%2C%201985.webm
-Library of Congress Classification: JC573-JC573.2
-opposite of: "[[_Standards/WikiData/WD~liberalism,6216]]"
-named by: "[[_Standards/WikiData/WD~François-Auguste-René de Chateaubriand,49767]]"
-Commons gallery: Conservatism
-Commons category: Conservatism
-Basisklassifikation: "89.11"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Conservatism%20-%20K.%20LCCN2011647256%20%28cropped%29.jpg
-Dewey Decimal Classification: "320.52"
+facet_of: '[[_Standards/WikiData/WD~right-wing,76074]]'
+significant_person:
+- "[[_Standards/WikiData/WD~Friedrich von Gentz,77476]]"
+- "[[_Standards/WikiData/WD~Edmund Burke,165792]]"
+- "[[_Standards/WikiData/WD~Joseph de Maistre,309854]]"
+- "[[_Standards/WikiData/WD~Louis de Bonald,316674]]"
+- "[[_Standards/WikiData/WD~Michael Oakeshott,959541]]"
+- "[[_Standards/WikiData/WD~Justus Möser,65087]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Edmund Burke,165792]]"
+instance_of:
+- "[[_Standards/WikiData/WD~political philosophy,179805]]"
+- "[[_Standards/WikiData/WD~social philosophy,180592]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~national conservatism,852739]]"
+- "[[_Standards/WikiData/WD~libertarian conservatism,853562]]"
+- "[[_Standards/WikiData/WD~liberal conservatism,1043096]]"
+- "[[_Standards/WikiData/WD~social conservatism,1414298]]"
+- "[[_Standards/WikiData/WD~traditionalist conservatism,2466570]]"
+- "[[_Standards/WikiData/WD~fiscal conservatism,2698984]]"
+- "[[_Standards/WikiData/WD~progressive conservatism,7248834]]"
+- "[[_Standards/WikiData/WD~paternalistic conservatism,7333466]]"
+- "[[_Standards/WikiData/WD~cultural conservatism,11168082]]"
+different_from: "[[_Standards/WikiData/WD~conservation movement,1088777]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~conservatism,5163004]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Conservatism,10597639]]'
+subclass_of: "[[_Standards/WikiData/WD~political ideology,12909644]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Conservatism,14615388]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Reagan%27s%20remarks%20at%20the%20Annual%20Conservative%20Political%20Action%20Conference%2C%20March%201%2C%201985.webm"
+Library_of_Congress_Classification: JC573-JC573.2
+opposite_of: '[[_Standards/WikiData/WD~liberalism,6216]]'
+named_by: "[[_Standards/WikiData/WD~François-Auguste-René de Chateaubriand,49767]]"
+Commons_gallery: Conservatism
+Commons_category: Conservatism
+Basisklassifikation: 89.11
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Conservatism%20-%20K.%20LCCN2011647256%20%28cropped%29.jpg"
+Dewey_Decimal_Classification: 320.52
 subreddit: Conservative
 ---
-
 
 ## #has_/text_of_/abstract 
 

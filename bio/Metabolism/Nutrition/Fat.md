@@ -1,31 +1,31 @@
----
+﻿---
 has_id_wikidata: Q127980
-subclass of:
-  - "[[_Standards/WikiData/WD~mixture,169336]]"
-  - "[[_Standards/WikiData/WD~material,214609]]"
-different from:
-  - "[[_Standards/WikiData/WD~triglyceride,186319]]"
-  - "[[_Standards/WikiData/WD~adipose tissue,193583]]"
-  - "[[_Standards/WikiData/WD~glyceride,407758]]"
-  - "[[_Standards/WikiData/WD~grease,629823]]"
-  - "[[_Standards/WikiData/WD~lipid,11367]]"
-  - "[[_Standards/WikiData/WD~oil,42962]]"
-has part(s): "[[_Standards/WikiData/WD~glyceride,407758]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Fats and oils,12218467]]"
-  - "[[_Standards/WikiData/WD~Template_Fats,13625308]]"
-UMLS CUI:
-  - C0012171
-  - C0015677
-Common Procurement Vocabulary code: 15412000-9
-MeSH tree code: D10.212
-Dewey Decimal Classification: "665"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20embolism%20%286467719609%29.jpg
-Commons category: Fat
+subclass_of:
+- '[[_Standards/WikiData/WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~material,214609]]'
+different_from:
+- '[[_Standards/WikiData/WD~triglyceride,186319]]'
+- "[[_Standards/WikiData/WD~adipose tissue,193583]]"
+- '[[_Standards/WikiData/WD~glyceride,407758]]'
+- '[[_Standards/WikiData/WD~grease,629823]]'
+- '[[_Standards/WikiData/WD~lipid,11367]]'
+- '[[_Standards/WikiData/WD~oil,42962]]'
+has_part_s_: '[[_Standards/WikiData/WD~glyceride,407758]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Fats and oils,12218467]]"
+- '[[_Standards/WikiData/WD~Template_Fats,13625308]]'
+UMLS_CUI:
+- C0012171
+- C0015677
+Common_Procurement_Vocabulary_code: 15412000-9
+MeSH_tree_code: D10.212
+Dewey_Decimal_Classification: 665
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20embolism%20%286467719609%29.jpg"
+Commons_category: Fat
 ---
 
 |**Aspect**|**Fats**|**Oils**|

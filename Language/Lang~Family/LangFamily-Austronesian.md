@@ -1,40 +1,40 @@
----
+﻿---
 type: LangFamily
 tags:
-  - Lang_Family
+- Lang_Family
 aliases:
-  - Austronesian languages
+- "Austronesian languages"
 has_id_wikidata: Q49228
-has part(s):
-  - "[[_Standards/WikiData/WD~Malayo-Polynesian,143158]]"
-  - "[[_Standards/WikiData/WD~Formosan,715278]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~Austric,783787]]"
-  - "[[_Standards/WikiData/WD~Austro-Tai,783816]]"
-  - "[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Austronesian languages,19891014]]"
-described by source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~Taiwan Island,22502]]"
-instance of: "[[_Standards/WikiData/WD~language family,25295]]"
-"number of speakers, writers, or signers": 300000000
-different from: "[[_Standards/WikiData/WD~Austroasiatic,33199]]"
-ABS ASCL 2011 code:
-  - "65"
-  - "93"
-ISO 639-5 code: map
-IETF language tag: map
-ISO 639-2 code: map
-Linguist List code: anes
-OmegaWiki Defined Meaning: "1639143"
-distribution map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20family.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20languages.PNG
-Dewey Decimal Classification: "499.2"
-Glottolog code: aust1307
-WALS family code: austronesian
-Commons category: Austronesian languages
-Krugosvet article: gumanitarnye_nauki/lingvistika/AVSTRONEZISKIE_YAZIKI.html
-GOST 7.75–97 code: авс 017
+has_part_s_:
+- '[[_Standards/WikiData/WD~Malayo-Polynesian,143158]]'
+- '[[_Standards/WikiData/WD~Formosan,715278]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~Austric,783787]]'
+- '[[_Standards/WikiData/WD~Austro-Tai,783816]]'
+- '[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Austronesian languages,19891014]]"
+described_by_source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Taiwan Island,22502]]"
+instance_of: "[[_Standards/WikiData/WD~language family,25295]]"
+number_of_speakers_writers_or_signers: 300000000
+different_from: '[[_Standards/WikiData/WD~Austroasiatic,33199]]'
+ABS_ASCL_2011_code:
+- 65
+- 93
+ISO_639-5_code: map
+IETF_language_tag: map
+ISO_639-2_code: map
+Linguist_List_code: anes
+OmegaWiki_Defined_Meaning: 1639143
+distribution_map:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20family.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20languages.PNG"
+Dewey_Decimal_Classification: 499.2
+Glottolog_code: aust1307
+WALS_family_code: austronesian
+Commons_category: "Austronesian languages"
+Krugosvet_article: gumanitarnye_nauki/lingvistika/AVSTRONEZISKIE_YAZIKI.html
+GOST_7_75_97_code: "авс 017"
 ---
 
 [SpocWebEntityId:: 237 ]

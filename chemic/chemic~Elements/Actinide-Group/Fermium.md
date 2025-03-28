@@ -1,44 +1,44 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21995
 has_id_wikidata: Q1896
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-instance of:
-  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-UMLS CUI: C0015853
-named after: "[[_Standards/WikiData/WD~Enrico Fermi,8753]]"
-subclass of: "[[_Standards/WikiData/WD~actinide,19577]]"
-atomic number: 100
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+instance_of:
+- "[[_Standards/WikiData/WD~synthetic element,755992]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+UMLS_CUI: C0015853
+named_after: "[[_Standards/WikiData/WD~Enrico Fermi,8753]]"
+subclass_of: '[[_Standards/WikiData/WD~actinide,19577]]'
+atomic_number: 100
 electronegativity: 1.3
-discoverer or inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
-PubChem CID: "23998"
-OmegaWiki Defined Meaning: "158627"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+PubChem_CID: 23998
+OmegaWiki_Defined_Meaning: 158627
 mass: 257.095
-chemical formula: Fm
-element symbol: Fm
-Commons gallery: Fermium
-Commons category: Fermium
-time of discovery or invention: 1952-12-01T00:00:00Z
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20100%20Fermium.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Fermium-Ytterbium%20Alloy.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-fermium.wav
-canonical SMILES: "[Fm]"
-CAS Registry Number: 7440-72-4
-MeSH tree code:
-  - D01.268.271.100.275
-  - D01.268.556.266
-  - D01.496.749.305.100.275
-  - D01.552.020.394
-  - D01.552.544.266
-DSSTOX compound identifier: DTXCID60147884
+chemical_formula: Fm
+element_symbol: Fm
+Commons_gallery: Fermium
+Commons_category: Fermium
+time_of_discovery_or_invention: "1952-12-01T00:00:00Z"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20100%20Fermium.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fermium-Ytterbium%20Alloy.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-fermium.wav"
+canonical_SMILES: '[Fm]'
+CAS_Registry_Number: 7440-72-4
+MeSH_tree_code:
+- D01.268.271.100.275
+- D01.268.556.266
+- D01.496.749.305.100.275
+- D01.552.020.394
+- D01.552.544.266
+DSSTOX_compound_identifier: DTXCID60147884
 InChI: InChI=1S/Fm
 InChIKey: MIORUQGGZCBUGO-UHFFFAOYSA-N
 UNII: Q70I3KBF4W
-Unicode character: 鐨
+Unicode_character: 鐨
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Fermium,1896]] 

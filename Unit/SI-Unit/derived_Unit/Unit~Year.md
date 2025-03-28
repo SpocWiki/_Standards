@@ -1,62 +1,63 @@
----
+﻿---
 has_id_wikidata: Q577
-subclass of:
-  - "[[_Standards/WikiData/WD~time interval,186081]]"
-  - "[[_Standards/WikiData/WD~orbital period,37640]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-based on: "[[_Standards/WikiData/WD~heliocentric orbit,737809]]"
-different from:
-  - "[[_Standards/WikiData/WD~annum,1092296]]"
-  - "[[_Standards/WikiData/WD~Q2851823,2851823]]"
-  - "[[_Standards/WikiData/WD~calendar year,3186692]]"
-  - "[[_Standards/WikiData/WD~year of the French Republican Calendar,16929628]]"
-  - "[[_Standards/WikiData/WD~Julian calendar year,107500825]]"
-  - "[[_Standards/WikiData/WD~Byzantine calendar year,107500860]]"
-  - "[[_Standards/WikiData/WD~Assyrian calendar year,107500883]]"
-  - "[[_Standards/WikiData/WD~Swedish calendar year,107507224]]"
-  - "[[_Standards/WikiData/WD~Ab urbe condita,107507800]]"
-subdivision of this unit: "[[_Standards/WikiData/WD~quarter,1643308]]"
-instance of: "[[_Standards/WikiData/WD~unit of time,1790144]]"
-measured physical quantity: "[[_Standards/WikiData/WD~duration,2199864]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Years,3247958]]"
-part of: "[[_Standards/WikiData/WD~Q3411974,3411974]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Year nav,5409481]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q27094353,27094353]]"
-said to be the same as: "[[_Standards/WikiData/WD~Holocene calendar year,107500562]]"
-unit symbol:
-  - j.
-  - l.
-  - год
-  - a
-  - a
-  - г.
-  - год.
-exact match:
-  - https://www.w3.org/TR/owl-time/#time:unitYear
-  - http://dati.beniculturali.it/cis/Year
-has part(s): "[[_Standards/WikiData/WD~month,5151]]"
-Wikidata time precision: 9
-conversion to standard unit:
-  - 12
-  - 31558000
-  - 365.25
-OmegaWiki Defined Meaning: "5605"
-UCUM code: a
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Analemma%20fishburn.tif
-label in sign language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-any-spreadthesign.ogv
-equivalent class: http://dbpedia.org/ontology/Year
-Wolfram Language unit code: '"Years"'
-Wolfram Language entity code: Entity["Concept", "Year::qcz76"]
-Commons category: Years
+subclass_of:
+- "[[_Standards/WikiData/WD~time interval,186081]]"
+- "[[_Standards/WikiData/WD~orbital period,37640]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+based_on: "[[_Standards/WikiData/WD~heliocentric orbit,737809]]"
+different_from:
+- '[[_Standards/WikiData/WD~annum,1092296]]'
+- '[[_Standards/WikiData/WD~Q2851823,2851823]]'
+- "[[_Standards/WikiData/WD~calendar year,3186692]]"
+- "[[_Standards/WikiData/WD~year of the French Republican Calendar,16929628]]"
+- "[[_Standards/WikiData/WD~Julian calendar year,107500825]]"
+- "[[_Standards/WikiData/WD~Byzantine calendar year,107500860]]"
+- "[[_Standards/WikiData/WD~Assyrian calendar year,107500883]]"
+- "[[_Standards/WikiData/WD~Swedish calendar year,107507224]]"
+- "[[_Standards/WikiData/WD~Ab urbe condita,107507800]]"
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~quarter,1643308]]'
+instance_of: "[[_Standards/WikiData/WD~unit of time,1790144]]"
+measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Years,3247958]]"
+part_of: '[[_Standards/WikiData/WD~Q3411974,3411974]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Year nav,5409481]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27094353,27094353]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Holocene calendar year,107500562]]"
+unit_symbol:
+- j.
+- l.
+- год
+- a
+- a
+- г.
+- год.
+exact_match:
+- "https://www.w3.org/TR/owl-time/#time:unitYear"
+- "http://dati.beniculturali.it/cis/Year"
+has_part_s_: '[[_Standards/WikiData/WD~month,5151]]'
+Wikidata_time_precision: 9
+conversion_to_standard_unit:
+- 12
+- 31558000
+- 365.25
+OmegaWiki_Defined_Meaning: 5605
+UCUM_code: a
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Analemma%20fishburn.tif"
+label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-any-spreadthesign.ogv"
+equivalent_class: "http://dbpedia.org/ontology/Year"
+Wolfram_Language_unit_code: "\"Years\""
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"Year::qcz76\"]"
+Commons_category: Years
 ---
+
 ﻿
 # [[Unit~Year]] 
 

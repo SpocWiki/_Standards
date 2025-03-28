@@ -1,34 +1,34 @@
----
+﻿---
 has_id_wikidata: Q11474
-made from material:
-  - "[[_Standards/WikiData/WD~polymer,81163]]"
-  - "[[_Standards/WikiData/WD~fossil fuel,12748]]"
-subclass of: "[[_Standards/WikiData/WD~material,214609]]"
-different from: "[[_Standards/WikiData/WD~synthetic resin,1418040]]"
-described by source: "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-instance of: "[[_Standards/WikiData/WD~organic matter,1783121]]"
-maintained by WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject Environment,5497659]]"
-  - "[[_Standards/WikiData/WD~WikiProject Chemistry,8487234]]"
-  - "[[_Standards/WikiData/WD~WikiProject Polymers,15885036]]"
-  - "[[_Standards/WikiData/WD~WikiProject Materials,88425338]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Plastics,9001872]]"
-Baidu Tieba name: 塑料
-UMLS CUI: C0032167
-Dewey Decimal Classification:
-  - "668.4"
-  - "620.1923"
-  - "668.9"
-All-Science Journal Classification Codes: "2507"
-Colon Classification: F52
-Commons category: Plastics
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic-ar.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20objects.jpg
-MeSH tree code:
-  - D05.750.716
-  - D25.720.716
-  - J01.637.051.720.716
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PLASTMASSI.html
+made_from_material:
+- '[[_Standards/WikiData/WD~polymer,81163]]'
+- "[[_Standards/WikiData/WD~fossil fuel,12748]]"
+subclass_of: '[[_Standards/WikiData/WD~material,214609]]'
+different_from: "[[_Standards/WikiData/WD~synthetic resin,1418040]]"
+described_by_source: "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+instance_of: "[[_Standards/WikiData/WD~organic matter,1783121]]"
+maintained_by_WikiProject:
+- "[[_Standards/WikiData/WD~WikiProject Environment,5497659]]"
+- "[[_Standards/WikiData/WD~WikiProject Chemistry,8487234]]"
+- "[[_Standards/WikiData/WD~WikiProject Polymers,15885036]]"
+- "[[_Standards/WikiData/WD~WikiProject Materials,88425338]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Plastics,9001872]]'
+Baidu_Tieba_name: 塑料
+UMLS_CUI: C0032167
+Dewey_Decimal_Classification:
+- 668.4
+- 620.1923
+- 668.9
+All-Science_Journal_Classification_Codes: 2507
+Colon_Classification: F52
+Commons_category: Plastics
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Plastic-ar.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20objects.jpg"
+MeSH_tree_code:
+- D05.750.716
+- D25.720.716
+- J01.637.051.720.716
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PLASTMASSI.html
 subreddit: plastic
 ---
 

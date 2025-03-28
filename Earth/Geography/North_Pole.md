@@ -1,30 +1,29 @@
----
+﻿---
 has_id_wikidata: Q934
-different from:
-  - "[[_Standards/WikiData/WD~North Pole,79494]]"
-  - "[[_Standards/WikiData/WD~North Magnetic Pole,842763]]"
-  - "[[_Standards/WikiData/WD~north geomagnetic pole,11942166]]"
-instance of: "[[_Standards/WikiData/WD~geographical pole,183273]]"
-part of: "[[_Standards/WikiData/WD~Earth's poles,3907660]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-named after: "[[_Standards/WikiData/WD~north,659]]"
-opposite of: "[[_Standards/WikiData/WD~South Pole,933]]"
-bathymetry image: http://commons.wikimedia.org/wiki/Special:FilePath/IBCAO%20betamap.jpg
+different_from:
+- "[[_Standards/WikiData/WD~North Pole,79494]]"
+- "[[_Standards/WikiData/WD~North Magnetic Pole,842763]]"
+- "[[_Standards/WikiData/WD~north geomagnetic pole,11942166]]"
+instance_of: "[[_Standards/WikiData/WD~geographical pole,183273]]"
+part_of: "[[_Standards/WikiData/WD~Earth's poles,3907660]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+named_after: '[[_Standards/WikiData/WD~north,659]]'
+opposite_of: "[[_Standards/WikiData/WD~South Pole,933]]"
+bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/IBCAO%20betamap.jpg"
 hashtag:
-  - Northpole
-coordinate location: Point(0.0 90.0)
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Ocean%20-%20en.png
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%20%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A7%81.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Noaa3-2006-0602-1206%20%28cropped%29.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/North%20pole%20banner.jpg
-U.S. National Archives Identifier: "10047242"
-Commons gallery: North Pole
-Commons category: North Pole
+- Northpole
+coordinate_location: "Point(0.0 90.0)"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Ocean%20-%20en.png"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%20%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A7%81.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Noaa3-2006-0602-1206%20%28cropped%29.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/North%20pole%20banner.jpg"
+U_S_National_Archives_Identifier: 10047242
+Commons_gallery: "North Pole"
+Commons_category: "North Pole"
 aliases:
-  - North Pole
+- "North Pole"
 ---
-
 
 ## #has_/text_of_/abstract 
 

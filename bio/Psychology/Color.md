@@ -1,65 +1,66 @@
----
+﻿---
 has_id_wikidata: Q1075
-MeSH tree code: G01.590.540.199
-OpenStreetMap tag or key: Key:colour
-model item: "[[_Standards/WikiData/WD~primary color,166902]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~qualia,282250]]"
-  - "[[_Standards/WikiData/WD~quality,1207505]]"
-  - "[[_Standards/WikiData/WD~optical phenomenon,14506045]]"
-has characteristic: "[[_Standards/WikiData/WD~color term,376431]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
-different from: "[[_Standards/WikiData/WD~Rang,2369428]]"
-instance of:
-  - "[[_Standards/WikiData/WD~physical property,4373292]]"
-  - "[[_Standards/WikiData/WD~second-order class,24017414]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Color,5412415]]"
-  - "[[_Standards/WikiData/WD~Template_Color topics,7643757]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox color,7975414]]"
-has list: "[[_Standards/WikiData/WD~list of colors,10291312]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Color,10755443]]"
-opposite of: "[[_Standards/WikiData/WD~colorlessness,11567495]]"
-has effect: "[[_Standards/WikiData/WD~sensory perception of light stimulus,14859561]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22827865,22827865]]"
-said to be the same as: "[[_Standards/WikiData/WD~Q30147439,30147439]]"
-has use:
-  - "[[_Standards/WikiData/WD~hiding,30301727]]"
-  - "[[_Standards/WikiData/WD~beauty,7242]]"
-has cause: "[[_Standards/WikiData/WD~absorbed or reflected object light,40890790]]"
-studied in:
-  - "[[_Standards/WikiData/WD~biology of colour,105582462]]"
-  - "[[_Standards/WikiData/WD~optics,14620]]"
-Dewey Decimal Classification:
-  - "701.85"
-  - "752"
-  - "701.8"
-  - "535.6"
-  - "770.11"
-  - "152.145"
-  - "667.6"
-Wikidata property:
-  - color
-  - official color
-  - color produced
-OmegaWiki Defined Meaning: "661"
-Iconclass notation: 22C4
-Commons category: Colors
-Commons gallery: Colors
-PhilPapers topic: color
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Colouring%20pencils.jpg
-Wolfram Language entity type: Color
-small logo or icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20palette%2048px.svg
-IEV number: 845-23-001
+MeSH_tree_code: G01.590.540.199
+OpenStreetMap_tag_or_key: "Key:colour"
+model_item: "[[_Standards/WikiData/WD~primary color,166902]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~qualia,282250]]'
+- '[[_Standards/WikiData/WD~quality,1207505]]'
+- "[[_Standards/WikiData/WD~optical phenomenon,14506045]]"
+has_characteristic: "[[_Standards/WikiData/WD~color term,376431]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
+different_from: '[[_Standards/WikiData/WD~Rang,2369428]]'
+instance_of:
+- "[[_Standards/WikiData/WD~physical property,4373292]]"
+- "[[_Standards/WikiData/WD~second-order class,24017414]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Color,5412415]]'
+- "[[_Standards/WikiData/WD~Template_Color topics,7643757]]"
+- "[[_Standards/WikiData/WD~Template_Infobox color,7975414]]"
+has_list: "[[_Standards/WikiData/WD~list of colors,10291312]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Color,10755443]]'
+opposite_of: '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+has_effect: "[[_Standards/WikiData/WD~sensory perception of light stimulus,14859561]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22827865,22827865]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q30147439,30147439]]'
+has_use:
+- '[[_Standards/WikiData/WD~hiding,30301727]]'
+- '[[_Standards/WikiData/WD~beauty,7242]]'
+has_cause: "[[_Standards/WikiData/WD~absorbed or reflected object light,40890790]]"
+studied_in:
+- "[[_Standards/WikiData/WD~biology of colour,105582462]]"
+- '[[_Standards/WikiData/WD~optics,14620]]'
+Dewey_Decimal_Classification:
+- 701.85
+- 752
+- 701.8
+- 535.6
+- 770.11
+- 152.145
+- 667.6
+Wikidata_property:
+- color
+- "official color"
+- "color produced"
+OmegaWiki_Defined_Meaning: 661
+Iconclass_notation: 22C4
+Commons_category: Colors
+Commons_gallery: Colors
+PhilPapers_topic: color
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Colouring%20pencils.jpg"
+Wolfram_Language_entity_type: Color
+small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20palette%2048px.svg"
+IEV_number: 845-23-001
 ---
+
 # [[Color]] 
 
 Color is a human physiological Phenomenon. 

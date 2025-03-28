@@ -1,52 +1,53 @@
 ﻿---
 type: Type
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 publish: true
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - schema-org/Class
-  - class/Class
+- schema-org/Class
+- class/Class
 aliases:
-  - Object
-  - Thing
-  - Instance
-  - Entity
-  - owl:Thing
-  - SomeThing
-  - AnyThing
-  - schema:Thing
-  - is_a_
-  - is_a_thing
-  - rdfs:Resource
-  - things
-  - sumo~Entity
+- Object
+- Thing
+- Instance
+- Entity
+- "owl:Thing"
+- SomeThing
+- AnyThing
+- "schema:Thing"
+- is_a_
+- is_a_thing
+- "rdfs:Resource"
+- things
+- sumo~Entity
 cssclasses:
-  - Type
-title: is_a_thing Class
-linkTitle: is_a_thing Class
+- Type
+title: "is_a_thing Class"
+linkTitle: "is_a_thing Class"
 keywords:
-  - thing
+- thing
 layout: 
 draft: false
 publishDate: 
 expiryDate: 
 has_time_started: 2023-10-02
 lang: en
-has_/sub_classes:
-  - "[[./Class/is_a_/action|Action]]"
-  - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
-  - "[[Class/is_a_/creative_work|creative_work]]"
-  - "[[Class/is_a_/event|event]]"
-  - "[[Class/is_a_/Intangible|Intangible]]"
-  - "[[Class/is_a_/medical_entity|medical-entity]]"
-  - "[[Class/is_a_/place.md|place]]"
-  - "[[Class/is_a_/organization|organization]]"
-  - "[[Class/is_a_/person|person]]"
-  - "[[Class/is_a_/product|product]]"
-  - "[[Class/is_a_/taxon|taxon]]"
+has_sub_classes:
+- '[[./Class/is_a_/action|Action]]'
+- '[[Class/is_a_/bio_chem_entity|bio_chem_entity]]'
+- '[[Class/is_a_/creative_work|creative_work]]'
+- '[[Class/is_a_/event|event]]'
+- '[[Class/is_a_/Intangible|Intangible]]'
+- '[[Class/is_a_/medical_entity|medical-entity]]'
+- '[[Class/is_a_/place.md|place]]'
+- '[[Class/is_a_/organization|organization]]'
+- '[[Class/is_a_/person|person]]'
+- '[[Class/is_a_/product|product]]'
+- '[[Class/is_a_/taxon|taxon]]'
 ---
+
 # Things/Entities/Resources/Instances 
 
 The Class of all things. Everything you can think about is a 'thing'. 

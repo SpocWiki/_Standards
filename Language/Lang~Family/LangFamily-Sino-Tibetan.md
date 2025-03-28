@@ -1,34 +1,35 @@
----
+﻿---
 type: LangFamily
 tags:
-  - Lang_Family
+- Lang_Family
 aliases:
-  - Sino-Tibetan languages
+- "Sino-Tibetan languages"
 has_id_wikidata: Q45961
-subclass of:
-  - "[[_Standards/WikiData/WD~Dené–Caucasian,507968]]"
-  - "[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]"
-  - "[[_Standards/WikiData/WD~Sino-Tibetan-Indo-European,97690709]]"
-  - "[[_Standards/WikiData/WD~Asian languages,98791755]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Q10500323,10500323]]"
-  - "[[_Standards/WikiData/WD~Template_Sino-Tibetan branches,22768844]]"
-Commons category: Sino-Tibetan languages
-Krugosvet article: gumanitarnye_nauki/lingvistika/SINO-TIBETSKIE_YAZIKI.html
-Glottolog code: sino1245
-WALS family code: sinotibetan
-GOST 7.75–97 code: сит 601
-Stack Exchange tag: https://languages.stackexchange.com/tags/sino-tibetan
-Linguist List code: sitb
-distribution map: http://commons.wikimedia.org/wiki/Special:FilePath/Sino-Tibetan%20Languages%20Map.png
+subclass_of:
+- '[[_Standards/WikiData/WD~Dené–Caucasian,507968]]'
+- '[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]'
+- '[[_Standards/WikiData/WD~Sino-Tibetan-Indo-European,97690709]]'
+- "[[_Standards/WikiData/WD~Asian languages,98791755]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Q10500323,10500323]]'
+- "[[_Standards/WikiData/WD~Template_Sino-Tibetan branches,22768844]]"
+Commons_category: "Sino-Tibetan languages"
+Krugosvet_article: gumanitarnye_nauki/lingvistika/SINO-TIBETSKIE_YAZIKI.html
+Glottolog_code: sino1245
+WALS_family_code: sinotibetan
+GOST_7_75_97_code: "сит 601"
+Stack_Exchange_tag: "https://languages.stackexchange.com/tags/sino-tibetan"
+Linguist_List_code: sitb
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Sino-Tibetan%20Languages%20Map.png"
 Libris-URI: b8nqtnkv5g43wf8
-instance of: "[[_Standards/WikiData/WD~language family,25295]]"
-"number of speakers, writers, or signers": 1200000000
-ISO 639-5 code: sit
-IETF language tag: sit
-ISO 639-2 code: sit
-ISO 639-6 code: snot
+instance_of: "[[_Standards/WikiData/WD~language family,25295]]"
+number_of_speakers_writers_or_signers: 1200000000
+ISO_639-5_code: sit
+IETF_language_tag: sit
+ISO_639-2_code: sit
+ISO_639-6_code: snot
 ---
+
 # [[LangFamily-Sino-Tibetan]] 
 
 [SpocWebEntityId:: 234 ]

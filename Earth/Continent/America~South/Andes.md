@@ -1,50 +1,49 @@
----
+﻿---
 has_id_wikidata: Q5456
-significant event: "[[_Standards/WikiData/WD~Zonda wind,219855]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-  - "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
-mountain range: "[[_Standards/WikiData/WD~American Cordillera,605761]]"
-BHCL UUID: cab2207f-240e-43d5-bb3f-bc5a4ce221c6
+significant_event: "[[_Standards/WikiData/WD~Zonda wind,219855]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
+mountain_range: "[[_Standards/WikiData/WD~American Cordillera,605761]]"
+BHCL_UUID: cab2207f-240e-43d5-bb3f-bc5a4ce221c6
 country:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~South America,18]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South America,18]]"
 width: 500
 length: 7000
 area: 3300000
-highest point: "[[_Standards/WikiData/WD~Aconcagua,39739]]"
-instance of: "[[_Standards/WikiData/WD~mountain system,46831]]"
-elevation above sea level: 6962
-OmegaWiki Defined Meaning: "155081"
-Commons gallery: Andes
-Commons category: Andes
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Andes%2070.30345W%2042.99203S.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Andes%20banner.jpg
+highest_point: '[[_Standards/WikiData/WD~Aconcagua,39739]]'
+instance_of: "[[_Standards/WikiData/WD~mountain system,46831]]"
+elevation_above_sea_level: 6962
+OmegaWiki_Defined_Meaning: 155081
+Commons_gallery: Andes
+Commons_category: Andes
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Andes%2070.30345W%2042.99203S.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Andes%20banner.jpg"
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Entstehung%20der%20Anden.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vulkanismus%20in%20den%20Anden.webm
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20satellite%20plane.jpg
-U.S. National Archives Identifier: "10046284"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Entstehung%20der%20Anden.webm"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Vulkanismus%20in%20den%20Anden.webm"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20satellite%20plane.jpg"
+U_S_National_Archives_Identifier: 10046284
 Libris-URI: ljx0z8142cqz9fx
-native label: Cordillera de los Andes
-coordinate location: Point(-66.698 -21.826)
+native_label: "Cordillera de los Andes"
+coordinate_location: "Point(-66.698 -21.826)"
 ---
-
 
 ## #has_/text_of_/abstract 
 

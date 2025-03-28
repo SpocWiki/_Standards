@@ -1,69 +1,70 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21941
 has_id_wikidata: Q1054
-Unicode character: 鎝
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
-  - "[[_Standards/WikiData/WD~Carlo Perrier,2939237]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 7,202602]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~transition metal,19588]]"
-instance of:
-  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-different from: "[[_Standards/WikiData/WD~Microsoft TechNet,958338]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-named after: "[[_Standards/WikiData/WD~technique,2695280]]"
-found in taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
-Common Procurement Vocabulary code:
-  - 14742000-4
-  - "14742000"
-has characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
-location of discovery: "[[_Standards/WikiData/WD~Italy,38]]"
-oxidation state:
-  - 4
-  - 6
-  - 7
+Unicode_character: 鎝
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
+- "[[_Standards/WikiData/WD~Carlo Perrier,2939237]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 7,202602]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~transition metal,19588]]"
+instance_of:
+- "[[_Standards/WikiData/WD~synthetic element,755992]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+different_from: "[[_Standards/WikiData/WD~Microsoft TechNet,958338]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+named_after: '[[_Standards/WikiData/WD~technique,2695280]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
+Common_Procurement_Vocabulary_code:
+- 14742000-4
+- 14742000
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Italy,38]]'
+oxidation_state:
+- 4
+- 6
+- 7
 electronegativity: 1.9
-atomic number: 43
-ionic radius: 0.65
-melting point: 2170
-Gmelin number: "16310"
+atomic_number: 43
+ionic_radius: 0.65
+melting_point: 2170
+Gmelin_number: 16310
 mass: 97.907
-PubChem CID: "23957"
-UNSPSC Code: "12141742"
-OmegaWiki Defined Meaning: "363476"
-canonical SMILES: "[Tc]"
-chemical formula: Tc
-element symbol: Tc
-Commons gallery: Technetium
-Commons category: Technetium
-time of discovery or invention: 1937-01-01T00:00:00Z
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20043%20technetium.png
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Tc-TableImage.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Technetium-sample.jpg
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Technetium.svg
-electron configuration: "[Kr] 4d⁵ 5s²"
-EC number: 231-136-0
-CAS Registry Number: 7440-26-8
-CPV Supplementary code: AA20
-MeSH tree code:
-  - D01.268.271.870
-  - D01.268.556.843
-  - D01.268.956.875
-  - D01.496.749.305.870
-  - D01.552.544.843
-DSSTOX compound identifier: DTXCID1047655
+PubChem_CID: 23957
+UNSPSC_Code: 12141742
+OmegaWiki_Defined_Meaning: 363476
+canonical_SMILES: '[Tc]'
+chemical_formula: Tc
+element_symbol: Tc
+Commons_gallery: Technetium
+Commons_category: Technetium
+time_of_discovery_or_invention: "1937-01-01T00:00:00Z"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20043%20technetium.png"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tc-TableImage.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Technetium-sample.jpg"
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Technetium.svg"
+electron_configuration: "[Kr] 4d⁵ 5s²"
+EC_number: 231-136-0
+CAS_Registry_Number: 7440-26-8
+CPV_Supplementary_code: AA20
+MeSH_tree_code:
+- D01.268.271.870
+- D01.268.556.843
+- D01.268.956.875
+- D01.496.749.305.870
+- D01.552.544.843
+DSSTOX_compound_identifier: DTXCID1047655
 InChIKey: GKLVYJBZJHMRIY-UHFFFAOYSA-N
 InChI: InChI=1S/Tc
-Krugosvet article: nauka_i_tehnika/himiya/TEHNETSI.html
+Krugosvet_article: nauka_i_tehnika/himiya/TEHNETSI.html
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Technetium,1054]] 
 

@@ -1,48 +1,47 @@
----
+﻿---
 has_id_wikidata: Q10990
-has part(s):
-  - "[[_Standards/WikiData/WD~adipose tissue,193583]]"
-  - "[[_Standards/WikiData/WD~liquid water,29053744]]"
-  - "[[_Standards/WikiData/WD~muscle,7365]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~animal product,629103]]"
-  - "[[_Standards/WikiData/WD~intermediate good,3955017]]"
-  - "[[_Standards/WikiData/WD~flesh,13119823]]"
-  - "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-replaced by: "[[_Standards/WikiData/WD~meat alternative,1343997]]"
-part of: "[[_Standards/WikiData/WD~slaughter,2432249]]"
-produced by: "[[_Standards/WikiData/WD~animal slaughter,4282505]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Meat,6462943]]"
-  - "[[_Standards/WikiData/WD~Q10624851,10624851]]"
-UMLS CUI: C0025017
-natural product of taxon: "[[_Standards/WikiData/WD~bird,5113]]"
-OmegaWiki Defined Meaning: "2300"
-Danbooru tag: meat
+has_part_s_:
+- "[[_Standards/WikiData/WD~adipose tissue,193583]]"
+- "[[_Standards/WikiData/WD~liquid water,29053744]]"
+- '[[_Standards/WikiData/WD~muscle,7365]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~animal product,629103]]"
+- "[[_Standards/WikiData/WD~intermediate good,3955017]]"
+- '[[_Standards/WikiData/WD~flesh,13119823]]'
+- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+- '[[_Standards/WikiData/WD~food,2095]]'
+replaced_by: "[[_Standards/WikiData/WD~meat alternative,1343997]]"
+part_of: '[[_Standards/WikiData/WD~slaughter,2432249]]'
+produced_by: "[[_Standards/WikiData/WD~animal slaughter,4282505]]"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Meat,6462943]]'
+- '[[_Standards/WikiData/WD~Q10624851,10624851]]'
+UMLS_CUI: C0025017
+natural_product_of_taxon: '[[_Standards/WikiData/WD~bird,5113]]'
+OmegaWiki_Defined_Meaning: 2300
+Danbooru_tag: meat
 subreddit: meat
-Dewey Decimal Classification:
-  - "641.36"
-  - "664.9"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Braucht%20der%20Mensch%20Fleisch%3F.webm
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D9%84%D8%AD%D9%85.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/FoodMeat.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Meat-banner-01.jpg
-exact match: http://purl.obolibrary.org/obo/ENVO_00002165
-MeSH tree code:
-  - G07.203.300.600
-  - J02.500.600
-Commons category: Meats
+Dewey_Decimal_Classification:
+- 641.36
+- 664.9
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Braucht%20der%20Mensch%20Fleisch%3F.webm"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D9%84%D8%AD%D9%85.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/FoodMeat.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Meat-banner-01.jpg"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_00002165"
+MeSH_tree_code:
+- G07.203.300.600
+- J02.500.600
+Commons_category: Meats
 ---
-
 
 ## #has_/text_of_/abstract 
 

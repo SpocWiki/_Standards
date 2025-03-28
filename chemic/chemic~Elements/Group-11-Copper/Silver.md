@@ -1,115 +1,116 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 17799
 has_id_wikidata: Q1090
-part of:
-  - "[[_Standards/WikiData/WD~group 11,185870]]"
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-has use: "[[_Standards/WikiData/WD~food additive,189567]]"
-different from:
-  - "[[_Standards/WikiData/WD~Silver,231486]]"
-  - "[[_Standards/WikiData/WD~Argento,243604]]"
-  - "[[_Standards/WikiData/WD~Argent,299171]]"
-  - "[[_Standards/WikiData/WD~Prata,402622]]"
-  - "[[_Standards/WikiData/WD~Arian,654785]]"
-  - "[[_Standards/WikiData/WD~Plata,1180904]]"
-  - "[[_Standards/WikiData/WD~Gümüş,1560182]]"
-  - "[[_Standards/WikiData/WD~Hobe,1621580]]"
-  - "[[_Standards/WikiData/WD~Silber,2285725]]"
-  - "[[_Standards/WikiData/WD~Srebro,9340889]]"
-  - "[[_Standards/WikiData/WD~Airgead,10526529]]"
-  - "[[_Standards/WikiData/WD~Stříbro,12057107]]"
-  - "[[_Standards/WikiData/WD~Ag,12783903]]"
-  - "[[_Standards/WikiData/WD~Silwer,21035026]]"
-  - "[[_Standards/WikiData/WD~Zilver,21096540]]"
-  - "[[_Standards/WikiData/WD~Perak,28491393]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~precious metal,271449]]"
-  - "[[_Standards/WikiData/WD~noble metal,585302]]"
-  - "[[_Standards/WikiData/WD~transition metal,19588]]"
-color: "[[_Standards/WikiData/WD~silver,317802]]"
-made from material:
-  - "[[_Standards/WikiData/WD~cerussite,409122]]"
-  - "[[_Standards/WikiData/WD~chlorargyrite,410592]]"
-  - "[[_Standards/WikiData/WD~acanthite,413498]]"
-  - "[[_Standards/WikiData/WD~argentite,422874]]"
-  - "[[_Standards/WikiData/WD~galena,37559]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-  - "[[_Standards/WikiData/WD~Chemical Encyclopedia (in Russian). Volume 4,125542226]]"
-associated hazard: "[[_Standards/WikiData/WD~silver exposure,21175303]]"
-has effect: "[[_Standards/WikiData/WD~silver exposure,21175303]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828616,22828616]]"
-canonical SMILES: "[Ag]"
-EC number: 231-131-3
+part_of:
+- "[[_Standards/WikiData/WD~group 11,185870]]"
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+has_use: "[[_Standards/WikiData/WD~food additive,189567]]"
+different_from:
+- '[[_Standards/WikiData/WD~Silver,231486]]'
+- '[[_Standards/WikiData/WD~Argento,243604]]'
+- '[[_Standards/WikiData/WD~Argent,299171]]'
+- '[[_Standards/WikiData/WD~Prata,402622]]'
+- '[[_Standards/WikiData/WD~Arian,654785]]'
+- '[[_Standards/WikiData/WD~Plata,1180904]]'
+- '[[_Standards/WikiData/WD~Gümüş,1560182]]'
+- '[[_Standards/WikiData/WD~Hobe,1621580]]'
+- '[[_Standards/WikiData/WD~Silber,2285725]]'
+- '[[_Standards/WikiData/WD~Srebro,9340889]]'
+- '[[_Standards/WikiData/WD~Airgead,10526529]]'
+- '[[_Standards/WikiData/WD~Stříbro,12057107]]'
+- '[[_Standards/WikiData/WD~Ag,12783903]]'
+- '[[_Standards/WikiData/WD~Silwer,21035026]]'
+- '[[_Standards/WikiData/WD~Zilver,21096540]]'
+- '[[_Standards/WikiData/WD~Perak,28491393]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~precious metal,271449]]"
+- "[[_Standards/WikiData/WD~noble metal,585302]]"
+- "[[_Standards/WikiData/WD~transition metal,19588]]"
+color: '[[_Standards/WikiData/WD~silver,317802]]'
+made_from_material:
+- '[[_Standards/WikiData/WD~cerussite,409122]]'
+- '[[_Standards/WikiData/WD~chlorargyrite,410592]]'
+- '[[_Standards/WikiData/WD~acanthite,413498]]'
+- '[[_Standards/WikiData/WD~argentite,422874]]'
+- '[[_Standards/WikiData/WD~galena,37559]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+- "[[_Standards/WikiData/WD~Chemical Encyclopedia (in Russian). Volume 4,125542226]]"
+associated_hazard: "[[_Standards/WikiData/WD~silver exposure,21175303]]"
+has_effect: "[[_Standards/WikiData/WD~silver exposure,21175303]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828616,22828616]]'
+canonical_SMILES: '[Ag]'
+EC_number: 231-131-3
 UNII: 3M4G523W1G
-CAS Registry Number: 7440-22-4
+CAS_Registry_Number: 7440-22-4
 InChIKey: BQCADISMDOOEFD-UHFFFAOYSA-N
-UMLS CUI:
-  - C0947651
-  - C0037125
-MeSH tree code:
-  - D01.268.556.812
-  - D01.268.956.843
-  - D01.552.544.812
-DSSTOX compound identifier:
-  - DTXCID004305
-  - DTXCID9083639
-Wolfram Language entity code: Entity["Mineral", "Silver"]
+UMLS_CUI:
+- C0947651
+- C0037125
+MeSH_tree_code:
+- D01.268.556.812
+- D01.268.956.843
+- D01.552.544.812
+DSSTOX_compound_identifier:
+- DTXCID004305
+- DTXCID9083639
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Silver\"]"
 InChI: InChI=1S/Ag
-Krugosvet article: nauka_i_tehnika/himiya/SEREBRO.html
-RTECS number: VW3500000
-Dewey Decimal Classification:
-  - "546.654"
-  - "669.23"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Silver.oga
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-named after: "[[_Standards/WikiData/WD~white,23444]]"
-vapor pressure: 0
-ionic radius:
-  - 100
-  - 75
-  - 79
-  - 94
-  - 115
-  - 128
-immediately dangerous to life or health: 10
-time-weighted average exposure limit: 0.01
+Krugosvet_article: nauka_i_tehnika/himiya/SEREBRO.html
+RTECS_number: VW3500000
+Dewey_Decimal_Classification:
+- 546.654
+- 669.23
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-Silver.oga"
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+named_after: '[[_Standards/WikiData/WD~white,23444]]'
+vapor_pressure: 0
+ionic_radius:
+- 100
+- 75
+- 79
+- 94
+- 115
+- 128
+immediately_dangerous_to_life_or_health: 10
+time-weighted_average_exposure_limit: 0.01
 electronegativity: 2
-atomic number: 47
-electrical conductivity: 63000000
-standard molar entropy: 42.6
+atomic_number: 47
+electrical_conductivity: 63000000
+standard_molar_entropy: 42.6
 density: 10.49
-melting point: 1761
-boiling point:
-  - 3632
-  - 961.78
-OmegaWiki Defined Meaning: "3424"
-PubChem CID: "23954"
-ZVG number: "8350"
-CosIng number: "32836"
+melting_point: 1761
+boiling_point:
+- 3632
+- 961.78
+OmegaWiki_Defined_Meaning: 3424
+PubChem_CID: 23954
+ZVG_number: 8350
+CosIng_number: 32836
 mass: 107.8682
-Commons gallery: Silver
-Commons category: Silver
-U.S. National Archives Identifier: "10641526"
-E number: E174
-Unicode character: 銀
-chemical formula: Ag
-element symbol: Ag
-time of discovery or invention: -5000-01-01T00:00:00Z
-UNSPSC Code: "11101802"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20crystal.jpg
+Commons_gallery: Silver
+Commons_category: Silver
+U_S_National_Archives_Identifier: 10641526
+E_number: E174
+Unicode_character: 銀
+chemical_formula: Ag
+element_symbol: Ag
+time_of_discovery_or_invention: "-5000-01-01T00:00:00Z"
+UNSPSC_Code: 11101802
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20crystal.jpg"
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Silver,1090]] 
 

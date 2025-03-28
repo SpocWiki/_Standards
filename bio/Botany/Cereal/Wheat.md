@@ -1,53 +1,52 @@
----
+﻿---
 has_id_wikidata: Q15645384
-natural product of taxon: "[[_Standards/WikiData/WD~Triticum aestivum,161098]]"
-instance of:
-  - "[[_Standards/WikiData/WD~caryopsis,506139]]"
-  - "[[_Standards/WikiData/WD~groat,1436715]]"
-  - "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
-has effect:
-  - "[[_Standards/WikiData/WD~gluten-related disorder,1367782]]"
-  - "[[_Standards/WikiData/WD~wheat allergy,4413030]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Wheat,7963158]]"
-Dewey Decimal Classification:
-  - "584.9"
-  - "633.11"
-  - "641.3311"
-  - "664.722"
-Wikidata usage instructions: focus on agriculture here, not on taxonomy
-subclass of:
-  - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[_Standards/WikiData/WD~cereal grain,12117]]"
-different from: "[[_Standards/WikiData/WD~Triticum,12106]]"
-part of: "[[_Standards/WikiData/WD~Russian cuisine,12505]]"
-water footprint: 1827
-Commons gallery: Wheat
-Commons category: Wheat
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-bl%C3%A9%20tendre.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%97%E0%A6%AE.wav
+natural_product_of_taxon: "[[_Standards/WikiData/WD~Triticum aestivum,161098]]"
+instance_of:
+- '[[_Standards/WikiData/WD~caryopsis,506139]]'
+- '[[_Standards/WikiData/WD~groat,1436715]]'
+- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
+has_effect:
+- "[[_Standards/WikiData/WD~gluten-related disorder,1367782]]"
+- "[[_Standards/WikiData/WD~wheat allergy,4413030]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Wheat,7963158]]'
+Dewey_Decimal_Classification:
+- 584.9
+- 633.11
+- 641.3311
+- 664.722
+Wikidata_usage_instructions: "focus on agriculture here, not on taxonomy"
+subclass_of:
+- '[[_Standards/WikiData/WD~food,2095]]'
+- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+different_from: '[[_Standards/WikiData/WD~Triticum,12106]]'
+part_of: "[[_Standards/WikiData/WD~Russian cuisine,12505]]"
+water_footprint: 1827
+Commons_gallery: Wheat
+Commons_category: Wheat
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Fr-bl%C3%A9%20tendre.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%97%E0%A6%AE.wav"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20close-up.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20field.jpg
-external data available at URL: https://data.inra.fr/dataverse/root?q=wheat
-OmegaWiki Defined Meaning: "466721"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20close-up.JPG"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20field.jpg"
+external_data_available_at_URL: "https://data.inra.fr/dataverse/root?q=wheat"
+OmegaWiki_Defined_Meaning: 466721
 UNII: 4J2I0SN84Y
-Colon Classification: J382
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PSHENITSA.html
-OpenStreetMap tag or key: Tag:crop=wheat
+Colon_Classification: J382
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PSHENITSA.html
+OpenStreetMap_tag_or_key: "Tag:crop=wheat"
 ---
-
 
 ## #has_/text_of_/abstract 
 

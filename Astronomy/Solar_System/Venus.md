@@ -1,116 +1,115 @@
----
+﻿---
 has_id_wikidata: Q313
-orbital inclination:
-  - 3.39471
-  - 3.39467605
-  - 2.19
-orbital eccentricity: 0.00677672
-semi-major axis of an orbit:
-  - 0.723332
-  - 108208930
-Unicode character: ♀
-Commons category: Venus (planet)
+orbital_inclination:
+- 3.39471
+- 3.39467605
+- 2.19
+orbital_eccentricity: 0.00677672
+semi-major_axis_of_an_orbit:
+- 0.723332
+- 108208930
+Unicode_character: ♀
+Commons_category: "Venus (planet)"
 subreddit: venus
-OmegaWiki Defined Meaning: "382618"
+OmegaWiki_Defined_Meaning: 382618
 periapsis:
-  - 0.7184327
-  - 107476259
+- 0.7184327
+- 107476259
 apoapsis:
-  - 0.7282312
-  - 108942109
-orbital period:
-  - 19414148
-  - 224.7
-longitude of ascending node: 76.67984255
-U.S. National Archives Identifier: "10046627"
-Iconclass notation: 24C19
-video: http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Venus%20transit%20UV.ogv
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Venus.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/It-Venere.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Venus.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Venus2.ogg
-astronomic symbol image: http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20symbol%20%28fixed%20width%29.svg
-Stack Exchange tag: https://astronomy.stackexchange.com/tags/venus
-Dewey Decimal Classification: "523.42"
-Wolfram Language entity code: Entity["Planet", "Venus"]
+- 0.7282312
+- 108942109
+orbital_period:
+- 19414148
+- 224.7
+longitude_of_ascending_node: 76.67984255
+U_S_National_Archives_Identifier: 10046627
+Iconclass_notation: 24C19
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Venus%20transit%20UV.ogv"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Venus.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Venere.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Venus.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Venus2.ogg"
+astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20symbol%20%28fixed%20width%29.svg"
+Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/venus"
+Dewey_Decimal_Classification: 523.42
+Wolfram_Language_entity_code: "Entity[\"Planet\", \"Venus\"]"
 demonym:
-  - زُهَرِيٌّ
-  - Venerian
-  - Venusian
-  - Venusano
-  - Vénusien
-different from:
-  - "[[_Standards/WikiData/WD~Venus,102040]]"
-  - "[[_Standards/WikiData/WD~Wenus,15615458]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-has use:
-  - "[[_Standards/WikiData/WD~terraforming of Venus,917241]]"
-  - "[[_Standards/WikiData/WD~colonization of Venus,5983202]]"
+- زُهَرِيٌّ
+- Venerian
+- Venusian
+- Venusano
+- Vénusien
+different_from:
+- '[[_Standards/WikiData/WD~Venus,102040]]'
+- '[[_Standards/WikiData/WD~Wenus,15615458]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+has_use:
+- "[[_Standards/WikiData/WD~terraforming of Venus,917241]]"
+- "[[_Standards/WikiData/WD~colonization of Venus,5983202]]"
 notation: "[[_Standards/WikiData/WD~Venus symbol,2513324]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~life on Venus,2582723]]"
-  - "[[_Standards/WikiData/WD~orbit of Venus,3895220]]"
-studied in:
-  - "[[_Standards/WikiData/WD~observations and explorations of Venus,2707053]]"
-  - "[[_Standards/WikiData/WD~cytherology,131626874]]"
-highest point: "[[_Standards/WikiData/WD~Skadi Mons,3486102]]"
-instance of:
-  - "[[_Standards/WikiData/WD~inner planet of the Solar System,3504248]]"
-  - "[[_Standards/WikiData/WD~inferior planet,3901935]]"
-part of: "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~life on Venus,2582723]]"
+- "[[_Standards/WikiData/WD~orbit of Venus,3895220]]"
+studied_in:
+- "[[_Standards/WikiData/WD~observations and explorations of Venus,2707053]]"
+- '[[_Standards/WikiData/WD~cytherology,131626874]]'
+highest_point: "[[_Standards/WikiData/WD~Skadi Mons,3486102]]"
+instance_of:
+- "[[_Standards/WikiData/WD~inner planet of the Solar System,3504248]]"
+- "[[_Standards/WikiData/WD~inferior planet,3901935]]"
+part_of: "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
 location: "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Venus,10993253]]"
-said to be the same as:
-  - "[[_Standards/WikiData/WD~Morning Star,12601444]]"
-  - "[[_Standards/WikiData/WD~Evening Star,65936050]]"
-lowest point: "[[_Standards/WikiData/WD~Diana Chasma,21211216]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Venus,30589068]]"
-UMLS CUI: C0242748
-image: http://commons.wikimedia.org/wiki/Special:FilePath/PIA23791-Venus-RealAndEnhancedContrastViews-20200608%20%28cropped%29.jpg
-IPA transcription: ˈveːnʊs
-MeSH tree code: G01.060.075.730.700.900
-argument of periapsis: 131.60246718
-parent astronomical body: "[[_Standards/WikiData/WD~Sun,525]]"
-has part(s): "[[_Standards/WikiData/WD~atmosphere of Venus,1941]]"
-apparent magnitude: -4.8
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Venus,10993253]]'
+said_to_be_the_same_as:
+- "[[_Standards/WikiData/WD~Morning Star,12601444]]"
+- "[[_Standards/WikiData/WD~Evening Star,65936050]]"
+lowest_point: "[[_Standards/WikiData/WD~Diana Chasma,21211216]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Venus,30589068]]"
+UMLS_CUI: C0242748
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/PIA23791-Venus-RealAndEnhancedContrastViews-20200608%20%28cropped%29.jpg"
+IPA_transcription: ˈveːnʊs
+MeSH_tree_code: G01.060.075.730.700.900
+argument_of_periapsis: 131.60246718
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+has_part_s_: "[[_Standards/WikiData/WD~atmosphere of Venus,1941]]"
+apparent_magnitude: -4.8
 flattening: 0
-distance from Earth:
-  - 38000000
-  - 108000000
-  - 261000000
+distance_from_Earth:
+- 38000000
+- 108000000
+- 261000000
 albedo:
-  - 0.59
-  - 0.689
-angular diameter:
-  - 66
-  - 9.7
-surface gravity: 8.9
+- 0.59
+- 0.689
+angular_diameter:
+- 66
+- 9.7
+surface_gravity: 8.9
 temperature: 464
-named after: "[[_Standards/WikiData/WD~Venus,47652]]"
+named_after: '[[_Standards/WikiData/WD~Venus,47652]]'
 density: 5.243
 declination: 67.16
-right ascension: 272.76
+right_ascension: 272.76
 area: 460230000
 mass: 4867.5
-mean anomaly: 50.115
-synodic period: 583.92
+mean_anomaly: 50.115
+synodic_period: 583.92
 radius: 6051.8
-volume as quantity: 928430000000
+volume_as_quantity: 928430000000
 diameter: 12103.6
-Commons gallery: Venus
+Commons_gallery: Venus
 ---
-
 
 ## #has_/text_of_/abstract 
 

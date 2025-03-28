@@ -1,49 +1,48 @@
----
+﻿---
 has_id_wikidata: Q9649
-has part(s):
-  - "[[_Standards/WikiData/WD~salivary gland,134938]]"
-  - "[[_Standards/WikiData/WD~rectum,158716]]"
-  - "[[_Standards/WikiData/WD~esophagus,173710]]"
-  - "[[_Standards/WikiData/WD~pharynx,174778]]"
-  - "[[_Standards/WikiData/WD~stomach,1029907]]"
-  - "[[_Standards/WikiData/WD~human mouth,1370895]]"
-  - "[[_Standards/WikiData/WD~Biliary tract,79216892]]"
-  - "[[_Standards/WikiData/WD~liver,9368]]"
-  - "[[_Standards/WikiData/WD~pancreas,9618]]"
-  - "[[_Standards/WikiData/WD~large intestine,11083]]"
-  - "[[_Standards/WikiData/WD~small intestine,11090]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~organ system,188193]]"
-  - "[[_Standards/WikiData/WD~human anatomical structure,25452965]]"
-  - "[[_Standards/WikiData/WD~human organ system,41653490]]"
-  - "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~organ,712378]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Digestive system navs,10862909]]"
-development of anatomical structure: "[[_Standards/WikiData/WD~digestive system development,21100420]]"
-instance of:
-  - "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
-  - "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-Terminologia Histologica: H3.04
-described by source: "[[_Standards/WikiData/WD~Encyclopædia Britannica,455]]"
-facet of: "[[_Standards/WikiData/WD~human anatomy,3999]]"
-location: "[[_Standards/WikiData/WD~abdomen,9597]]"
-different from: "[[_Standards/WikiData/WD~digestion,11978]]"
-has use: "[[_Standards/WikiData/WD~digestion,11978]]"
-part of: "[[_Standards/WikiData/WD~human body,23852]]"
-IAB code: "318"
-MeSH tree code: A03
-Colon Classification: L2
-OmegaWiki Defined Meaning: "1033886"
-Commons category: Digestive system
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Digestive%20system%20diagram%20en.svg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Gabonetako%20digestioa.webm
-WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/digestive_system
-Stack Exchange tag: https://biology.stackexchange.com/tags/digestive-system
-Iconclass notation: 49G613
-UMLS CUI: C0012240
-TA98 Latin term: systema digestorium
+has_part_s_:
+- "[[_Standards/WikiData/WD~salivary gland,134938]]"
+- '[[_Standards/WikiData/WD~rectum,158716]]'
+- '[[_Standards/WikiData/WD~esophagus,173710]]'
+- '[[_Standards/WikiData/WD~pharynx,174778]]'
+- '[[_Standards/WikiData/WD~stomach,1029907]]'
+- "[[_Standards/WikiData/WD~human mouth,1370895]]"
+- "[[_Standards/WikiData/WD~Biliary tract,79216892]]"
+- '[[_Standards/WikiData/WD~liver,9368]]'
+- '[[_Standards/WikiData/WD~pancreas,9618]]'
+- "[[_Standards/WikiData/WD~large intestine,11083]]"
+- "[[_Standards/WikiData/WD~small intestine,11090]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~organ system,188193]]"
+- "[[_Standards/WikiData/WD~human anatomical structure,25452965]]"
+- "[[_Standards/WikiData/WD~human organ system,41653490]]"
+- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~organ,712378]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Digestive system navs,10862909]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~digestive system development,21100420]]"
+instance_of:
+- "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
+- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+Terminologia_Histologica: H3.04
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica,455]]"
+facet_of: "[[_Standards/WikiData/WD~human anatomy,3999]]"
+location: '[[_Standards/WikiData/WD~abdomen,9597]]'
+different_from: '[[_Standards/WikiData/WD~digestion,11978]]'
+has_use: '[[_Standards/WikiData/WD~digestion,11978]]'
+part_of: "[[_Standards/WikiData/WD~human body,23852]]"
+IAB_code: 318
+MeSH_tree_code: A03
+Colon_Classification: L2
+OmegaWiki_Defined_Meaning: 1033886
+Commons_category: "Digestive system"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Digestive%20system%20diagram%20en.svg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Gabonetako%20digestioa.webm"
+WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/digestive_system"
+Stack_Exchange_tag: "https://biology.stackexchange.com/tags/digestive-system"
+Iconclass_notation: 49G613
+UMLS_CUI: C0012240
+TA98_Latin_term: "systema digestorium"
 ---
-
 
 ## #has_/text_of_/abstract 
 

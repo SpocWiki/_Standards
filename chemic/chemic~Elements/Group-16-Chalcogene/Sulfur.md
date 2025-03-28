@@ -1,85 +1,85 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21917
 has_id_wikidata: Q682
 aliases:
-  - Sulphur
-electron configuration:
-  - "[Ne] 3s² 3p⁴"
-  - 1s² 2s² 2p⁶ 3s² 3p⁴
-EC number: 231-722-6
-CAS Registry Number: 7704-34-9
-MeSH tree code: D01.268.185.900
-DSSTOX compound identifier: DTXCID7014941
-Wolfram Language entity code: Entity["Mineral", "Sulfur"]
+- Sulphur
+electron_configuration:
+- "[Ne] 3s² 3p⁴"
+- "1s² 2s² 2p⁶ 3s² 3p⁴"
+EC_number: 231-722-6
+CAS_Registry_Number: 7704-34-9
+MeSH_tree_code: D01.268.185.900
+DSSTOX_compound_identifier: DTXCID7014941
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Sulfur\"]"
 InChI: InChI=1S/S
-Krugosvet article: nauka_i_tehnika/himiya/SERA.html
+Krugosvet_article: nauka_i_tehnika/himiya/SERA.html
 InChIKey: NINIDFKCEFEMDL-UHFFFAOYSA-N
-time of discovery or invention: 1777-01-01T00:00:00Z
-part of:
-  - "[[_Standards/WikiData/WD~group 16,104567]]"
-  - "[[_Standards/WikiData/WD~period 3,211331]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~group 16,104567]]"
-  - "[[_Standards/WikiData/WD~polyatomic nonmetal,19753345]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
-found in taxon:
-  - "[[_Standards/WikiData/WD~Rutaceae,146030]]"
-  - "[[_Standards/WikiData/WD~Ceratophyllum demersum,157385]]"
-  - "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
-  - "[[_Standards/WikiData/WD~Clathria pyramida,2319118]]"
-  - "[[_Standards/WikiData/WD~Euodia,3060383]]"
-  - "[[_Standards/WikiData/WD~Lyngbya majuscula,20720044]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-instance of:
-  - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-different from:
-  - "[[_Standards/WikiData/WD~disulfur,5283603]]"
-  - "[[_Standards/WikiData/WD~Kebrit,5805138]]"
-  - "[[_Standards/WikiData/WD~Q20674464,20674464]]"
-  - "[[_Standards/WikiData/WD~sulfur atom,106570791]]"
-has use: "[[_Standards/WikiData/WD~ecological crop protection,65967059]]"
-UMLS CUI: C0038774
-oxidation state:
-  - -2
-  - -1
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
-ionic radius:
-  - 0.12
-  - 0.29
-  - 0.37
-  - 1.84
-atomic number: 16
+time_of_discovery_or_invention: "1777-01-01T00:00:00Z"
+part_of:
+- "[[_Standards/WikiData/WD~group 16,104567]]"
+- "[[_Standards/WikiData/WD~period 3,211331]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~group 16,104567]]"
+- "[[_Standards/WikiData/WD~polyatomic nonmetal,19753345]]"
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+found_in_taxon:
+- '[[_Standards/WikiData/WD~Rutaceae,146030]]'
+- "[[_Standards/WikiData/WD~Ceratophyllum demersum,157385]]"
+- "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
+- "[[_Standards/WikiData/WD~Clathria pyramida,2319118]]"
+- '[[_Standards/WikiData/WD~Euodia,3060383]]'
+- "[[_Standards/WikiData/WD~Lyngbya majuscula,20720044]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+instance_of:
+- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+different_from:
+- '[[_Standards/WikiData/WD~disulfur,5283603]]'
+- '[[_Standards/WikiData/WD~Kebrit,5805138]]'
+- '[[_Standards/WikiData/WD~Q20674464,20674464]]'
+- "[[_Standards/WikiData/WD~sulfur atom,106570791]]"
+has_use: "[[_Standards/WikiData/WD~ecological crop protection,65967059]]"
+UMLS_CUI: C0038774
+oxidation_state:
+- -2
+- -1
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+ionic_radius:
+- 0.12
+- 0.29
+- 0.37
+- 1.84
+atomic_number: 16
 density: 2.07
-discoverer or inventor: "[[_Standards/WikiData/WD~Antoine Lavoisier,39607]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Antoine Lavoisier,39607]]"
 electronegativity: 2.58
-OmegaWiki Defined Meaning: "3668"
+OmegaWiki_Defined_Meaning: 3668
 mass: 32.06
-chemical formula: S
-element symbol: S
-ZVG number: "8130"
-NSC number: "403664"
-CosIng number: "75467"
-canonical SMILES: "[S]"
-Commons gallery: Sulfur
-Commons category: Sulfur
-PubChem CID: "5362487"
-U.S. National Archives Identifier: "10645875"
-Unicode character: 硫
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20-%20El%20Desierto%20mine%2C%20San%20Pablo%20de%20Napa%2C%20Daniel%20Campos%20Province%2C%20Potos%C3%AD%2C%20Bolivia.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20crystals.webm
+chemical_formula: S
+element_symbol: S
+ZVG_number: 8130
+NSC_number: 403664
+CosIng_number: 75467
+canonical_SMILES: '[S]'
+Commons_gallery: Sulfur
+Commons_category: Sulfur
+PubChem_CID: 5362487
+U_S_National_Archives_Identifier: 10645875
+Unicode_character: 硫
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20-%20El%20Desierto%20mine%2C%20San%20Pablo%20de%20Napa%2C%20Daniel%20Campos%20Province%2C%20Potos%C3%AD%2C%20Bolivia.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20crystals.webm"
 ---
 
 # [[Sulfur]] 

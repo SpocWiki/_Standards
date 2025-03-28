@@ -1,134 +1,79 @@
----
-license: CC BY-SA 4.0
+﻿---
+license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
 isReadOnly: false
 cssclasses:
-  - Type
+- Type
 publish: true
 type: Type
-title: is_an_energy Class
-linkTitle: is_an_energy Class
+title: "is_an_energy Class"
+linkTitle: "is_an_energy Class"
 keywords:
-  - energy
+- energy
 layout: 
 draft: false
 publishDate: 
 expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 aliases:
-  - energy
-  - energy
-  - Energy
-  - is_an_energy
+- energy
+- energy
+- Energy
+- is_an_energy
 has_id_wikidata: Q11379
-Commons category: Energy
-social media followers: 171461
-ISQ dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}^{2}{\mathsf {M}}{\mathsf {T}}^{-2}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">L</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mn>2</mn>
-            </mrow>
-          </msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mi mathvariant="sans-serif">M</mi>
-            </mrow>
-          </mrow>
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">T</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>2</mn>
-            </mrow>
-          </msup>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{2}{\mathsf {M}}{\mathsf {T}}^{-2}}</annotation>
-    </semantics>
-  </math>
-recommended unit of measurement:
-  - "[[_Standards/WikiData/WD~electronvolt,83327]]"
-  - "[[_Standards/WikiData/WD~kilogram square metre per square second,106681350]]"
-  - "[[_Standards/WikiData/WD~joule,25269]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~physical quantity,107715]]"
-  - "[[_Standards/WikiData/WD~scalar quantity,181175]]"
-  - "[[_Standards/WikiData/WD~extensive quantity,3386703]]"
-different from:
-  - "[[_Standards/WikiData/WD~Energia,295193]]"
-  - "[[_Standards/WikiData/WD~energy source,1522115]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-5_2007 Quantities and units — Part 5_ Thermodynamics,26711934]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-5_2019 Quantities and units — Part 5_ Thermodynamics,92157468]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-studied in: "[[_Standards/WikiData/WD~energetics,719597]]"
-has use:
-  - "[[_Standards/WikiData/WD~energy industry,2151621]]"
-  - "[[_Standards/WikiData/WD~energy technology,14554973]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~form of energy,3935690]]"
-  - "[[_Standards/WikiData/WD~conservation of energy,11382]]"
-  - "[[_Standards/WikiData/WD~mass,11423]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of energy,7112616]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Energy footer,8093244]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Energy,15106301]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q117561470,117561470]]"
-quantity symbol (LaTeX):
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle E}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>E</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle E}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle W}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>W</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle W}</annotation>
-      </semantics>
-    </math>
-Stack Exchange tag:
-  - https://worldbuilding.stackexchange.com/tags/energy
-  - https://physics.stackexchange.com/tags/energy
-part of: "[[_Standards/WikiData/WD~mass–energy equivalence,35875]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20power%20transmission.jpg
-exact match: http://purl.obolibrary.org/obo/ENVO_2000015
-equivalent class: https://schema.org/Energy
-IEV number: 113-03-45
-OmegaWiki Defined Meaning: "1172"
-All-Science Journal Classification Codes: "2100"
-Colon Classification: C14
+Commons_category: Energy
+social_media_followers: 171461
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{2}{\\mathsf {M}}{\\mathsf {T}}^{-2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{2}{\\mathsf {M}}{\\mathsf {T}}^{-2}}</annotation>\n  </semantics>\n</math>"
+recommended_unit_of_measurement:
+- '[[_Standards/WikiData/WD~electronvolt,83327]]'
+- "[[_Standards/WikiData/WD~kilogram square metre per square second,106681350]]"
+- '[[_Standards/WikiData/WD~joule,25269]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~physical quantity,107715]]"
+- "[[_Standards/WikiData/WD~scalar quantity,181175]]"
+- "[[_Standards/WikiData/WD~extensive quantity,3386703]]"
+different_from:
+- '[[_Standards/WikiData/WD~Energia,295193]]'
+- "[[_Standards/WikiData/WD~energy source,1522115]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~ISO 80000-5_2007 Quantities and units — Part 5_ Thermodynamics,26711934]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
+- "[[_Standards/WikiData/WD~ISO 80000-5_2019 Quantities and units — Part 5_ Thermodynamics,92157468]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+studied_in: '[[_Standards/WikiData/WD~energetics,719597]]'
+has_use:
+- "[[_Standards/WikiData/WD~energy industry,2151621]]"
+- "[[_Standards/WikiData/WD~energy technology,14554973]]"
+has_characteristic:
+- "[[_Standards/WikiData/WD~form of energy,3935690]]"
+- "[[_Standards/WikiData/WD~conservation of energy,11382]]"
+- '[[_Standards/WikiData/WD~mass,11423]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of energy,7112616]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Energy footer,8093244]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Energy,15106301]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117561470,117561470]]'
+quantity_symbol_LaTeX_:
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle E}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>E</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle E}</annotation>\n  </semantics>\n</math>"
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle W}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>W</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle W}</annotation>\n  </semantics>\n</math>"
+Stack_Exchange_tag:
+- "https://worldbuilding.stackexchange.com/tags/energy"
+- "https://physics.stackexchange.com/tags/energy"
+part_of: "[[_Standards/WikiData/WD~mass–energy equivalence,35875]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20power%20transmission.jpg"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_2000015"
+equivalent_class: "https://schema.org/Energy"
+IEV_number: 113-03-45
+OmegaWiki_Defined_Meaning: 1172
+All-Science_Journal_Classification_Codes: 2100
+Colon_Classification: C14
 subreddit: energy
 ---
 

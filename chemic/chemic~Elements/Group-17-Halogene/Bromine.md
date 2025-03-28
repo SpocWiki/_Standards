@@ -1,55 +1,55 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21933
 has_id_wikidata: Q879
-subclass of:
-  - "[[_Standards/WikiData/WD~chemical substance,79529]]"
-  - "[[_Standards/WikiData/WD~diatomic nonmetal,19753344]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
-made from material:
-  - "[[_Standards/WikiData/WD~seawater,184395]]"
-  - "[[_Standards/WikiData/WD~brine,214403]]"
-different from: "[[_Standards/WikiData/WD~theobromine,206844]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 4,239825]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Antoine Jérôme Balard,314306]]"
-  - "[[_Standards/WikiData/WD~Carl Jacob Löwig,65517]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-named after: "[[_Standards/WikiData/WD~stink,1519476]]"
-associated hazard: "[[_Standards/WikiData/WD~bromine exposure,21173316]]"
-UMLS CUI: C0006223
-location of discovery: "[[_Standards/WikiData/WD~France,142]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~chemical substance,79529]]"
+- "[[_Standards/WikiData/WD~diatomic nonmetal,19753344]]"
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+- '[[_Standards/WikiData/WD~halogens,19605]]'
+made_from_material:
+- '[[_Standards/WikiData/WD~seawater,184395]]'
+- '[[_Standards/WikiData/WD~brine,214403]]'
+different_from: '[[_Standards/WikiData/WD~theobromine,206844]]'
+part_of:
+- "[[_Standards/WikiData/WD~period 4,239825]]"
+- '[[_Standards/WikiData/WD~halogens,19605]]'
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Antoine Jérôme Balard,314306]]"
+- "[[_Standards/WikiData/WD~Carl Jacob Löwig,65517]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+named_after: '[[_Standards/WikiData/WD~stink,1519476]]'
+associated_hazard: "[[_Standards/WikiData/WD~bromine exposure,21173316]]"
+UMLS_CUI: C0006223
+location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
 electronegativity: 3
-ionic radius:
-  - 0.25
-  - 0.31
-  - 0.39
-  - 1.96
-atomic number: 35
-ionization energy: 10.55
-OmegaWiki Defined Meaning: "434"
+ionic_radius:
+- 0.25
+- 0.31
+- 0.39
+- 1.96
+atomic_number: 35
+ionization_energy: 10.55
+OmegaWiki_Defined_Meaning: 434
 mass: 79.904
-Gmelin number: "1182"
-element symbol: Br
-time of discovery or invention: 1825-01-01T00:00:00Z
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine-ar.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine%20vial%20in%20acrylic%20cube.jpg
-Commons gallery: Bromine
-Commons category: Bromine
-MeSH tree code: D01.268.380.112
-Krugosvet article: nauka_i_tehnika/himiya/BROM.html
-Unicode character: 溴
+Gmelin_number: 1182
+element_symbol: Br
+time_of_discovery_or_invention: "1825-01-01T00:00:00Z"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Bromine-ar.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bromine%20vial%20in%20acrylic%20cube.jpg"
+Commons_gallery: Bromine
+Commons_category: Bromine
+MeSH_tree_code: D01.268.380.112
+Krugosvet_article: nauka_i_tehnika/himiya/BROM.html
+Unicode_character: 溴
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Bromine,879]] 

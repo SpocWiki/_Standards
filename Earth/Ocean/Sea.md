@@ -1,41 +1,40 @@
----
+﻿---
 has_id_wikidata: Q165
-has part(s):
-  - "[[_Standards/WikiData/WD~seawater,184395]]"
-  - "[[_Standards/WikiData/WD~land,11081619]]"
-has list: "[[_Standards/WikiData/WD~list of seas,229088]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~water area,2507626]]"
-  - "[[_Standards/WikiData/WD~marine water body,116126039]]"
-  - "[[_Standards/WikiData/WD~saline water body,116126228]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_List of seas,6272770]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox sea,26095412]]"
-different from: "[[_Standards/WikiData/WD~Q61744472,61744472]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Seas,61791277]]"
-produced sound: "[[_Standards/WikiData/WD~Q110068397,110068397]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic%20near%20Faroe%20Islands.jpg
-Dewey Decimal Classification:
-  - "551.46"
-  - 2--162
-OmegaWiki Defined Meaning: "3333"
-Commons category: Seas
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q35650%20%28ken%29-Akopoly-aja%28sea%29.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%B8%E0%A8%AE%E0%A9%81%E0%A9%B0%E0%A8%A6%E0%A8%B0.wav
-exact match: http://purl.obolibrary.org/obo/ENVO_00000016
-equivalent class: https://schema.org/SeaBodyOfWater
-Commons gallery: Atlas of the Oceans
-GeoNames feature code: H.SEA
+has_part_s_:
+- '[[_Standards/WikiData/WD~seawater,184395]]'
+- '[[_Standards/WikiData/WD~land,11081619]]'
+has_list: "[[_Standards/WikiData/WD~list of seas,229088]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~water area,2507626]]"
+- "[[_Standards/WikiData/WD~marine water body,116126039]]"
+- "[[_Standards/WikiData/WD~saline water body,116126228]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_List of seas,6272770]]"
+- "[[_Standards/WikiData/WD~Template_Infobox sea,26095412]]"
+different_from: '[[_Standards/WikiData/WD~Q61744472,61744472]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Seas,61791277]]'
+produced_sound: '[[_Standards/WikiData/WD~Q110068397,110068397]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic%20near%20Faroe%20Islands.jpg"
+Dewey_Decimal_Classification:
+- 551.46
+- 2--162
+OmegaWiki_Defined_Meaning: 3333
+Commons_category: Seas
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q35650%20%28ken%29-Akopoly-aja%28sea%29.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%B8%E0%A8%AE%E0%A9%81%E0%A9%B0%E0%A8%A6%E0%A8%B0.wav"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_00000016"
+equivalent_class: "https://schema.org/SeaBodyOfWater"
+Commons_gallery: "Atlas of the Oceans"
+GeoNames_feature_code: H.SEA
 ---
-
 
 ## #has_/text_of_/abstract 
 

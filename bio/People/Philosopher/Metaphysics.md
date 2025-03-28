@@ -1,42 +1,41 @@
----
+﻿---
 has_id_wikidata: Q35277
-opposite of: "[[_Standards/WikiData/WD~agnosticism,288928]]"
-subclass of: "[[_Standards/WikiData/WD~metaphilosophy,596284]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Metaphysics,661655]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
-is the study of: "[[_Standards/WikiData/WD~unmoved mover,2326055]]"
-history of topic: "[[_Standards/WikiData/WD~Q3137267,3137267]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Metaphysics,8084282]]"
-instance of:
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
-practiced by: "[[_Standards/WikiData/WD~metaphysician,16743941]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of metaphysics,17004632]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Meta-moerbeke%20jpeg031-part.jpg
-Stack Exchange tag: https://philosophy.stackexchange.com/tags/metaphysics
-Krugosvet article: gumanitarnye_nauki/filosofiya/METAFIZIKA.html
-UMLS CUI: C0025566
-native label: μεταφυσικά
-MeSH tree code: K01.752.511
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Metaphysics%20%28spoken%20by%20AI%20voice%29.mp3
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Sartus85-m%C3%A9taphysique.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Persent101-metaphysics.wav
-Universal Decimal Classification: "11"
-Dewey Decimal Classification: "110"
-Colon Classification: R3
+opposite_of: '[[_Standards/WikiData/WD~agnosticism,288928]]'
+subclass_of: '[[_Standards/WikiData/WD~metaphilosophy,596284]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- '[[_Standards/WikiData/WD~Metaphysics,661655]]'
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+is_the_study_of: "[[_Standards/WikiData/WD~unmoved mover,2326055]]"
+history_of_topic: '[[_Standards/WikiData/WD~Q3137267,3137267]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Metaphysics,8084282]]'
+instance_of:
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
+practiced_by: '[[_Standards/WikiData/WD~metaphysician,16743941]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of metaphysics,17004632]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Meta-moerbeke%20jpeg031-part.jpg"
+Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/metaphysics"
+Krugosvet_article: gumanitarnye_nauki/filosofiya/METAFIZIKA.html
+UMLS_CUI: C0025566
+native_label: μεταφυσικά
+MeSH_tree_code: K01.752.511
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Metaphysics%20%28spoken%20by%20AI%20voice%29.mp3"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Sartus85-m%C3%A9taphysique.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Persent101-metaphysics.wav"
+Universal_Decimal_Classification: 11
+Dewey_Decimal_Classification: 110
+Colon_Classification: R3
 subreddit: Metaphysics
-Commons category: Metaphysics
-OmegaWiki Defined Meaning: "526039"
-PhilPapers topic: metaphysics
+Commons_category: Metaphysics
+OmegaWiki_Defined_Meaning: 526039
+PhilPapers_topic: metaphysics
 ---
-
 
 ## #has_/text_of_/abstract 
 

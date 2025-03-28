@@ -1,28 +1,27 @@
----
+﻿---
 has_id_wikidata: Q12171
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-instance of: "[[_Standards/WikiData/WD~biological process,2996394]]"
-facet of:
-  - "[[_Standards/WikiData/WD~human reproduction,3427336]]"
-  - "[[_Standards/WikiData/WD~women's health,8031191]]"
-subclass of: "[[_Standards/WikiData/WD~menstruation,17155666]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+instance_of: "[[_Standards/WikiData/WD~biological process,2996394]]"
+facet_of:
+- "[[_Standards/WikiData/WD~human reproduction,3427336]]"
+- "[[_Standards/WikiData/WD~women's health,8031191]]"
+subclass_of: '[[_Standards/WikiData/WD~menstruation,17155666]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
 DOI: 10.1163/1875-3922_Q3_EQSIM_00278
-OmegaWiki Defined Meaning: "343457"
-described at URL:
-  - http://bacsisaigon.net/kinh-nguyet-mau-den.html
-  - http://bacsisaigon.net/kinh-nguyet-mau-nau.html
-image: http://commons.wikimedia.org/wiki/Special:FilePath/MenstrualCycle2%20es.svg
-WordLift URL: http://data.thenextweb.com/tnw/entity/menstruation
-Iconclass notation: 31A223623
-Commons category: Menstruation
+OmegaWiki_Defined_Meaning: 343457
+described_at_URL:
+- "http://bacsisaigon.net/kinh-nguyet-mau-den.html"
+- "http://bacsisaigon.net/kinh-nguyet-mau-nau.html"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/MenstrualCycle2%20es.svg"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/menstruation"
+Iconclass_notation: 31A223623
+Commons_category: Menstruation
 ---
-
 
 ## #has_/text_of_/abstract 
 

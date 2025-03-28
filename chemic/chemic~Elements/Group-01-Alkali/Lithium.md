@@ -1,35 +1,35 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21906
 has_id_wikidata: Q558
-place of birth: "[[_Standards/WikiData/WD~19th arrondissement of Paris,204622]]"
-educated at:
-  - "[[_Standards/WikiData/WD~École du Louvre,273534]]"
-  - "[[_Standards/WikiData/WD~Panthéon-Assas University Paris,662976]]"
-has works in the collection:
-  - "[[_Standards/WikiData/WD~National Gallery of Victoria,1464509]]"
-  - "[[_Standards/WikiData/WD~Kunstmuseum Den Haag,1499958]]"
-given name: "[[_Standards/WikiData/WD~Hedi,1593262]]"
+place_of_birth: "[[_Standards/WikiData/WD~19th arrondissement of Paris,204622]]"
+educated_at:
+- "[[_Standards/WikiData/WD~École du Louvre,273534]]"
+- "[[_Standards/WikiData/WD~Panthéon-Assas University Paris,662976]]"
+has_works_in_the_collection:
+- "[[_Standards/WikiData/WD~National Gallery of Victoria,1464509]]"
+- "[[_Standards/WikiData/WD~Kunstmuseum Den Haag,1499958]]"
+given_name: '[[_Standards/WikiData/WD~Hedi,1593262]]'
 occupation:
-  - "[[_Standards/WikiData/WD~dressmaker,2034021]]"
-  - "[[_Standards/WikiData/WD~fashion designer,3501317]]"
-  - "[[_Standards/WikiData/WD~photographer,33231]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Hedi%20Slimane%20in%202015.jpg
-official website: https://www.hedislimane.com/
-Commons category: Hedi Slimane
-X username: hedislimanetwit
-name in native language: Hedi Slimane
-represented by: "[[_Standards/WikiData/WD~Almine Rech Gallery,55661948]]"
-family name: "[[_Standards/WikiData/WD~Slimane,63486092]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
-ISNI: "0000000121016085"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-country of citizenship: "[[_Standards/WikiData/WD~France,142]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~French,150]]"
-social media followers: 43663
-date of birth: 1968-07-05T00:00:00Z
+- '[[_Standards/WikiData/WD~dressmaker,2034021]]'
+- "[[_Standards/WikiData/WD~fashion designer,3501317]]"
+- '[[_Standards/WikiData/WD~photographer,33231]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hedi%20Slimane%20in%202015.jpg"
+official_website: "https://www.hedislimane.com/"
+Commons_category: "Hedi Slimane"
+X_username: hedislimanetwit
+name_in_native_language: "Hedi Slimane"
+represented_by: "[[_Standards/WikiData/WD~Almine Rech Gallery,55661948]]"
+family_name: '[[_Standards/WikiData/WD~Slimane,63486092]]'
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
+ISNI: 0000000121016085
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
+social_media_followers: 43663
+date_of_birth: "1968-07-05T00:00:00Z"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Lithium,568|WD~Lithium,568]] 

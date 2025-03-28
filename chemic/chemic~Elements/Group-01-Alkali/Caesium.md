@@ -1,78 +1,78 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21951
 has_id_wikidata: Q1108
-Commons gallery: Caesium
-Commons category: Caesium
-MeSH tree code:
-  - D01.268.549.125
-  - D01.268.556.165
-  - D01.552.528.160
-  - D01.552.544.165
-DSSTOX compound identifier: DTXCID40820345
-Krugosvet article: himiya/ceziy
+Commons_gallery: Caesium
+Commons_category: Caesium
+MeSH_tree_code:
+- D01.268.549.125
+- D01.268.556.165
+- D01.552.528.160
+- D01.552.544.165
+DSSTOX_compound_identifier: DTXCID40820345
+Krugosvet_article: himiya/ceziy
 InChI: InChI=1S/Cs
 InChIKey: TVFDJXOCXUVLDH-UHFFFAOYSA-N
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Robert Bunsen,71031]]"
-  - "[[_Standards/WikiData/WD~Gustav Kirchhoff,60052]]"
-has characteristic: "[[_Standards/WikiData/WD~paramagnetism,188479]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~s-block,208106]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~alkali metal,19557]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-  - "[[_Standards/WikiData/WD~group 1,10801007]]"
-  - "[[_Standards/WikiData/WD~alkali metal,19557]]"
-named after: "[[_Standards/WikiData/WD~sky blue,373160]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-UMLS CUI: C0007886
-Common Procurement Vocabulary code:
-  - 14771000-6
-  - "14771000"
-electron configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s¹
-  - "[Xe] 6s¹"
-time of discovery or invention: 1860-01-01T00:00:00Z
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Robert Bunsen,71031]]"
+- "[[_Standards/WikiData/WD~Gustav Kirchhoff,60052]]"
+has_characteristic: '[[_Standards/WikiData/WD~paramagnetism,188479]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~s-block,208106]]'
+- '[[_Standards/WikiData/WD~metal,11426]]'
+- "[[_Standards/WikiData/WD~alkali metal,19557]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~group 1,10801007]]"
+- "[[_Standards/WikiData/WD~alkali metal,19557]]"
+named_after: "[[_Standards/WikiData/WD~sky blue,373160]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+UMLS_CUI: C0007886
+Common_Procurement_Vocabulary_code:
+- 14771000-6
+- 14771000
+electron_configuration:
+- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s¹"
+- "[Xe] 6s¹"
+time_of_discovery_or_invention: "1860-01-01T00:00:00Z"
 mass: 132.90545196
-different from: "[[_Standards/WikiData/WD~cerium,1385]]"
-location of discovery: "[[_Standards/WikiData/WD~Heidelberg,2966]]"
-oxidation state: 1
-Mohs' hardness: 0.2
-ionization energy:
-  - 3400
-  - 375.7
-  - 2234.3
-atomic number: 55
+different_from: '[[_Standards/WikiData/WD~cerium,1385]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Heidelberg,2966]]'
+oxidation_state: 1
+Mohs_hardness: 0.2
+ionization_energy:
+- 3400
+- 375.7
+- 2234.3
+atomic_number: 55
 electronegativity: 0.79
-ionic radius:
-  - 1.67
-  - 1.74
-  - 1.81
-  - 1.88
-OmegaWiki Defined Meaning: "470"
-standard molar entropy: 85.2
-element symbol: Cs
-chemical formula: Cs
-ZVG number: "7550"
-canonical SMILES: "[Cs]"
-PubChem CID: "5354618"
-Unicode character: 銫
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Cesium.jpg
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Caesium.ogg
+ionic_radius:
+- 1.67
+- 1.74
+- 1.81
+- 1.88
+OmegaWiki_Defined_Meaning: 470
+standard_molar_entropy: 85.2
+element_symbol: Cs
+chemical_formula: Cs
+ZVG_number: 7550
+canonical_SMILES: '[Cs]'
+PubChem_CID: 5354618
+Unicode_character: 銫
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cesium.jpg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Caesium.ogg"
 UNII: 1KSV9V4Y4I
-EC number: 231-155-4
-Dewey Decimal Classification: "546.385"
-CAS Registry Number: 7440-46-2
+EC_number: 231-155-4
+Dewey_Decimal_Classification: 546.385
+CAS_Registry_Number: 7440-46-2
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Caesium,1108]] 

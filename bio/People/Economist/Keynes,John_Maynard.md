@@ -1,110 +1,109 @@
----
+﻿---
 aliases:
-  - John Maynard Keynes
+- "John Maynard Keynes"
 has_id_wikidata: Q9317
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~professor,121594]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~author,482980]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~non-fiction writer,15980158]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
-noble title:
-  - "[[_Standards/WikiData/WD~baron,165503]]"
-  - "[[_Standards/WikiData/WD~Baron Keynes,113488758]]"
-country of citizenship:
-  - "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
-doctoral advisor:
-  - "[[_Standards/WikiData/WD~Alfred North Whitehead,183372]]"
-  - "[[_Standards/WikiData/WD~William Ernest Johnson,2578676]]"
-member of:
-  - "[[_Standards/WikiData/WD~Royal Swedish Academy of Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~American Academy of Arts and Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~British Academy,723551]]"
-  - "[[_Standards/WikiData/WD~Econometric Society,1282089]]"
-educated at:
-  - "[[_Standards/WikiData/WD~Eton College,192088]]"
-  - "[[_Standards/WikiData/WD~King's College,924289]]"
-  - "[[_Standards/WikiData/WD~St Faith's School,7593056]]"
-  - "[[_Standards/WikiData/WD~University of Cambridge,35794]]"
-doctoral student:
-  - "[[_Standards/WikiData/WD~Joan Robinson,234793]]"
-  - "[[_Standards/WikiData/WD~D. G. Champernowne,3011054]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~diplomat,193391]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- "[[_Standards/WikiData/WD~non-fiction writer,15980158]]"
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
+noble_title:
+- '[[_Standards/WikiData/WD~baron,165503]]'
+- "[[_Standards/WikiData/WD~Baron Keynes,113488758]]"
+country_of_citizenship:
+- "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+doctoral_advisor:
+- "[[_Standards/WikiData/WD~Alfred North Whitehead,183372]]"
+- "[[_Standards/WikiData/WD~William Ernest Johnson,2578676]]"
+member_of:
+- "[[_Standards/WikiData/WD~Royal Swedish Academy of Sciences,191583]]"
+- "[[_Standards/WikiData/WD~American Academy of Arts and Sciences,463303]]"
+- "[[_Standards/WikiData/WD~British Academy,723551]]"
+- "[[_Standards/WikiData/WD~Econometric Society,1282089]]"
+educated_at:
+- "[[_Standards/WikiData/WD~Eton College,192088]]"
+- "[[_Standards/WikiData/WD~King's College,924289]]"
+- "[[_Standards/WikiData/WD~St Faith's School,7593056]]"
+- "[[_Standards/WikiData/WD~University of Cambridge,35794]]"
+doctoral_student:
+- "[[_Standards/WikiData/WD~Joan Robinson,234793]]"
+- "[[_Standards/WikiData/WD~D. G. Champernowne,3011054]]"
 spouse: "[[_Standards/WikiData/WD~Lydia Lopokova,271920]]"
-unmarried partner:
-  - "[[_Standards/WikiData/WD~Dilly Knox,318252]]"
-  - "[[_Standards/WikiData/WD~Lytton Strachey,540427]]"
-  - "[[_Standards/WikiData/WD~David Garnett,704860]]"
-  - "[[_Standards/WikiData/WD~Duncan Grant,766166]]"
-  - "[[_Standards/WikiData/WD~James Strachey,1681142]]"
-  - "[[_Standards/WikiData/WD~Arthur Hobhouse,4799090]]"
-  - "[[_Standards/WikiData/WD~Daniel Macmillan,18670964]]"
+unmarried_partner:
+- "[[_Standards/WikiData/WD~Dilly Knox,318252]]"
+- "[[_Standards/WikiData/WD~Lytton Strachey,540427]]"
+- "[[_Standards/WikiData/WD~David Garnett,704860]]"
+- "[[_Standards/WikiData/WD~Duncan Grant,766166]]"
+- "[[_Standards/WikiData/WD~James Strachey,1681142]]"
+- "[[_Standards/WikiData/WD~Arthur Hobhouse,4799090]]"
+- "[[_Standards/WikiData/WD~Daniel Macmillan,18670964]]"
 father: "[[_Standards/WikiData/WD~John Neville Keynes,561107]]"
 movement: "[[_Standards/WikiData/WD~Bloomsbury Group,603529]]"
-member of political party: "[[_Standards/WikiData/WD~Liberal Party,622441]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Liberal Party,622441]]"
 employer:
-  - "[[_Standards/WikiData/WD~King's College,924289]]"
-  - "[[_Standards/WikiData/WD~University of Cambridge,35794]]"
-notable work:
-  - "[[_Standards/WikiData/WD~The General Theory of Employment, Interest and Money,1047156]]"
-  - "[[_Standards/WikiData/WD~The Economic Consequences of the Peace,2299605]]"
-  - "[[_Standards/WikiData/WD~A Treatise on Money,3997938]]"
-  - "[[_Standards/WikiData/WD~A Treatise on Probability,17022390]]"
-  - "[[_Standards/WikiData/WD~Indian Currency and Finance,19068025]]"
-  - "[[_Standards/WikiData/WD~Economic Possibilities for our Grandchildren,116505822]]"
+- "[[_Standards/WikiData/WD~King's College,924289]]"
+- "[[_Standards/WikiData/WD~University of Cambridge,35794]]"
+notable_work:
+- "[[_Standards/WikiData/WD~The General Theory of Employment, Interest and Money,1047156]]"
+- "[[_Standards/WikiData/WD~The Economic Consequences of the Peace,2299605]]"
+- "[[_Standards/WikiData/WD~A Treatise on Money,3997938]]"
+- "[[_Standards/WikiData/WD~A Treatise on Probability,17022390]]"
+- "[[_Standards/WikiData/WD~Indian Currency and Finance,19068025]]"
+- "[[_Standards/WikiData/WD~Economic Possibilities for our Grandchildren,116505822]]"
 sibling:
-  - "[[_Standards/WikiData/WD~Geoffrey Keynes,1503011]]"
-  - "[[_Standards/WikiData/WD~Margaret Neville Keynes,19831832]]"
-student of:
-  - "[[_Standards/WikiData/WD~William Ernest Johnson,2578676]]"
-  - "[[_Standards/WikiData/WD~Alfred Marshall,13529]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-place of death: "[[_Standards/WikiData/WD~Firle,3072862]]"
+- "[[_Standards/WikiData/WD~Geoffrey Keynes,1503011]]"
+- "[[_Standards/WikiData/WD~Margaret Neville Keynes,19831832]]"
+student_of:
+- "[[_Standards/WikiData/WD~William Ernest Johnson,2578676]]"
+- "[[_Standards/WikiData/WD~Alfred Marshall,13529]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+place_of_death: '[[_Standards/WikiData/WD~Firle,3072862]]'
 mother: "[[_Standards/WikiData/WD~Florence Ada Keynes,3073935]]"
-manner of death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-award received:
-  - "[[_Standards/WikiData/WD~Adam Smith Prize,4679816]]"
-  - "[[_Standards/WikiData/WD~Companion of the Order of the Bath,12177472]]"
-  - "[[_Standards/WikiData/WD~Fellow of the British Academy,27988727]]"
-  - "[[_Standards/WikiData/WD~Fellow of the Econometric Society,59766840]]"
-  - "[[_Standards/WikiData/WD~doctor honoris causa from the University of Paris,126418747]]"
-given name:
-  - "[[_Standards/WikiData/WD~John,4925477]]"
-  - "[[_Standards/WikiData/WD~Maynard,16290674]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_John Maynard Keynes,13554200]]"
-position held: "[[_Standards/WikiData/WD~member of the House of Lords,18952564]]"
-family name: "[[_Standards/WikiData/WD~Keynes,23908925]]"
-depicted by: "[[_Standards/WikiData/WD~John Maynard Keynes, Baron Keynes; Lydia Lopokova,28051495]]"
-date of birth: 1883-06-05T00:00:00Z
-ISNI: "0000000121258885"
-place of birth: "[[_Standards/WikiData/WD~Cambridge,350]]"
-writing language: "[[_Standards/WikiData/WD~English,1860]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~English,1860]]"
-native language: "[[_Standards/WikiData/WD~English,1860]]"
-cause of death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-field of work: "[[_Standards/WikiData/WD~microeconomics,39072]]"
-Commons gallery: John Maynard Keynes
-Commons category: John Maynard Keynes
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/JM%20Keynes%20signature.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Keynes%201933.jpg
-BHCL UUID: dae9d032-17c9-4798-9c9a-b8bdf862b80b
-Krugosvet article: ekonomika-i-pravo/keyns-dzhon-meynard
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+award_received:
+- "[[_Standards/WikiData/WD~Adam Smith Prize,4679816]]"
+- "[[_Standards/WikiData/WD~Companion of the Order of the Bath,12177472]]"
+- "[[_Standards/WikiData/WD~Fellow of the British Academy,27988727]]"
+- "[[_Standards/WikiData/WD~Fellow of the Econometric Society,59766840]]"
+- "[[_Standards/WikiData/WD~doctor honoris causa from the University of Paris,126418747]]"
+given_name:
+- '[[_Standards/WikiData/WD~John,4925477]]'
+- '[[_Standards/WikiData/WD~Maynard,16290674]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_John Maynard Keynes,13554200]]"
+position_held: "[[_Standards/WikiData/WD~member of the House of Lords,18952564]]"
+family_name: '[[_Standards/WikiData/WD~Keynes,23908925]]'
+depicted_by: "[[_Standards/WikiData/WD~John Maynard Keynes, Baron Keynes; Lydia Lopokova,28051495]]"
+date_of_birth: "1883-06-05T00:00:00Z"
+ISNI: 0000000121258885
+place_of_birth: '[[_Standards/WikiData/WD~Cambridge,350]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+cause_of_death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+field_of_work: '[[_Standards/WikiData/WD~microeconomics,39072]]'
+Commons_gallery: "John Maynard Keynes"
+Commons_category: "John Maynard Keynes"
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/JM%20Keynes%20signature.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Keynes%201933.jpg"
+BHCL_UUID: dae9d032-17c9-4798-9c9a-b8bdf862b80b
+Krugosvet_article: ekonomika-i-pravo/keyns-dzhon-meynard
 Libris-URI: sq467g7b2jfmbsk
-name in native language: John Maynard Keynes
-date of death: 1946-04-21T00:00:00Z
+name_in_native_language: "John Maynard Keynes"
+date_of_death: "1946-04-21T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

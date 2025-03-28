@@ -1,38 +1,37 @@
----
+﻿---
 has_id_wikidata: Q870
-has part(s):
-  - "[[_Standards/WikiData/WD~locomotive,93301]]"
-  - "[[_Standards/WikiData/WD~railroad car,208502]]"
-instance of: "[[_Standards/WikiData/WD~mode of transport,334166]]"
-has use:
-  - "[[_Standards/WikiData/WD~rail and rope guided transport,350783]]"
-  - "[[_Standards/WikiData/WD~rail transport,3565868]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~rolling stock,1414135]]"
-  - "[[_Standards/WikiData/WD~wheeled vehicle,15618781]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox train,5902995]]"
-  - "[[_Standards/WikiData/WD~Q106811496,106811496]]"
-different from:
-  - "[[_Standards/WikiData/WD~train service,15141321]]"
-  - "[[_Standards/WikiData/WD~pod,112893788]]"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20drone%20chase%20of%20a%20train.webm
-image: http://commons.wikimedia.org/wiki/Special:FilePath/UBTZ%202TE116UM-022%20Cagaan%20Had%20-%20Sumangijn%20Zoo.jpg
-OmegaWiki Defined Meaning: "3834"
-Nomenclature for Museum Cataloging: "12378"
-Commons category: Trains
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/FS%20E%20444%20084%20Cervo%20Andora%20banner.jpg
-U.S. National Archives Identifier: "10675596"
-Unicode character: 🚆
-small logo or icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20directions%20train%2048px.svg
-equivalent class: http://dbpedia.org/ontology/Train
-MIL-STD-2525 Symbol Identification Code: "10011500001500000000"
-OpenStreetMap tag or key: Key:train
+has_part_s_:
+- '[[_Standards/WikiData/WD~locomotive,93301]]'
+- "[[_Standards/WikiData/WD~railroad car,208502]]"
+instance_of: "[[_Standards/WikiData/WD~mode of transport,334166]]"
+has_use:
+- "[[_Standards/WikiData/WD~rail and rope guided transport,350783]]"
+- "[[_Standards/WikiData/WD~rail transport,3565868]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~rolling stock,1414135]]"
+- "[[_Standards/WikiData/WD~wheeled vehicle,15618781]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox train,5902995]]"
+- '[[_Standards/WikiData/WD~Q106811496,106811496]]'
+different_from:
+- "[[_Standards/WikiData/WD~train service,15141321]]"
+- '[[_Standards/WikiData/WD~pod,112893788]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20drone%20chase%20of%20a%20train.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/UBTZ%202TE116UM-022%20Cagaan%20Had%20-%20Sumangijn%20Zoo.jpg"
+OmegaWiki_Defined_Meaning: 3834
+Nomenclature_for_Museum_Cataloging: 12378
+Commons_category: Trains
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/FS%20E%20444%20084%20Cervo%20Andora%20banner.jpg"
+U_S_National_Archives_Identifier: 10675596
+Unicode_character: "\U0001F686"
+small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20directions%20train%2048px.svg"
+equivalent_class: "http://dbpedia.org/ontology/Train"
+MIL-STD-2525_Symbol_Identification_Code: 10011500001500000000
+OpenStreetMap_tag_or_key: "Key:train"
 ---
-
 
 ## #has_/text_of_/abstract 
 

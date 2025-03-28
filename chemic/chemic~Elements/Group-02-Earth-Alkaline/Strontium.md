@@ -1,71 +1,72 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21936
 has_id_wikidata: Q938
-Commons gallery: Strontium
-Commons category: Strontium
+Commons_gallery: Strontium
+Commons_category: Strontium
 UNII: YZS2RPE8LE
-Unicode character: 鍶
-time of discovery or invention: 1787-01-01T00:00:00Z
-part of:
-  - "[[_Standards/WikiData/WD~period 5,244982]]"
-  - "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
-made from material:
-  - "[[_Standards/WikiData/WD~celestine,407221]]"
-  - "[[_Standards/WikiData/WD~strontianite,422827]]"
-  - "[[_Standards/WikiData/WD~piemontite-(Sr),3902818]]"
-  - "[[_Standards/WikiData/WD~epidote-(Sr),19833533]]"
-named after: "[[_Standards/WikiData/WD~Strontian,503042]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~Strontium,84688515]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~William Cruickshank,902388]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox strontium,8085983]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~good article badge,17437798]]"
-UMLS CUI: C0038467
-location of discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+Unicode_character: 鍶
+time_of_discovery_or_invention: "1787-01-01T00:00:00Z"
+part_of:
+- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+made_from_material:
+- '[[_Standards/WikiData/WD~celestine,407221]]'
+- '[[_Standards/WikiData/WD~strontianite,422827]]'
+- '[[_Standards/WikiData/WD~piemontite-(Sr),3902818]]'
+- '[[_Standards/WikiData/WD~epidote-(Sr),19833533]]'
+named_after: '[[_Standards/WikiData/WD~Strontian,503042]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- '[[_Standards/WikiData/WD~Strontium,84688515]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William Cruickshank,902388]]"
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox strontium,8085983]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~good article badge,17437798]]"
+UMLS_CUI: C0038467
+location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
 electronegativity: 1
-oxidation state: 2
-atomic number: 38
-ionic radius:
-  - 1.18
-  - 1.26
-  - 1.36
-  - 1.44
-found in taxon: "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+oxidation_state: 2
+atomic_number: 38
+ionic_radius:
+- 1.18
+- 1.26
+- 1.36
+- 1.44
+found_in_taxon: "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
 mass: 87.62
-Gmelin number: "6868"
-ZVG number: "8310"
-OmegaWiki Defined Meaning: "3646"
-canonical SMILES: "[Sr]"
-chemical formula: Sr
-element symbol: Sr
-PubChem CID: "5359327"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Strontium%20destilled%20crystals.jpg
-electron configuration: "[Kr] 5s²"
-Common Procurement Vocabulary code: "14772000"
-EC number: 231-133-4
-MCN code: 2805.19.10
-Dewey Decimal Classification: "546.394"
-CAS Registry Number: 7440-24-6
-CPV Supplementary code: AA34
-Krugosvet article: biologiya/stronciy
+Gmelin_number: 6868
+ZVG_number: 8310
+OmegaWiki_Defined_Meaning: 3646
+canonical_SMILES: '[Sr]'
+chemical_formula: Sr
+element_symbol: Sr
+PubChem_CID: 5359327
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Strontium%20destilled%20crystals.jpg"
+electron_configuration: "[Kr] 5s²"
+Common_Procurement_Vocabulary_code: 14772000
+EC_number: 231-133-4
+MCN_code: 2805.19.10
+Dewey_Decimal_Classification: 546.394
+CAS_Registry_Number: 7440-24-6
+CPV_Supplementary_code: AA34
+Krugosvet_article: biologiya/stronciy
 InChIKey: CIOAGBVUUVVLOB-UHFFFAOYSA-N
-MeSH tree code:
-  - D01.268.552.850
-  - D01.268.556.825
-  - D01.552.539.861
-  - D01.552.544.825
-DSSTOX compound identifier: DTXCID50875720
+MeSH_tree_code:
+- D01.268.552.850
+- D01.268.556.825
+- D01.552.539.861
+- D01.552.544.825
+DSSTOX_compound_identifier: DTXCID50875720
 InChI: InChI=1S/Sr
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Strontium,938]] 
 

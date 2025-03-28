@@ -1,38 +1,37 @@
----
+﻿---
 has_id_wikidata: Q12725
-time of discovery or invention: 1821-01-01T00:00:00Z
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-facet of: "[[_Standards/WikiData/WD~electromagnetic interaction,849919]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~physical phenomenon,1293220]]"
-  - "[[_Standards/WikiData/WD~energy source,1522115]]"
-  - "[[_Standards/WikiData/WD~energy,11379]]"
-has part(s): "[[_Standards/WikiData/WD~electrical polarity,1985691]]"
-different from: "[[_Standards/WikiData/WD~eleki,108297234]]"
-Library of Congress Classification: QC501-QC721
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Ruthin%20electrical%20substation%20between%20Ffordd%20Cae%20Glas%20and%20Gellifor%20-%20aerial%20video%20Jan%202025.webm
-studied in:
-  - "[[_Standards/WikiData/WD~electrochemistry,7877]]"
-  - "[[_Standards/WikiData/WD~electromagnetism,11406]]"
-part of: "[[_Standards/WikiData/WD~electromagnetism,11406]]"
-Dewey Decimal Classification: "537"
-OmegaWiki Defined Meaning: "1109"
-Colon Classification: C6
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20simulator%20questacon04.jpg
-Stack Exchange tag: https://physics.stackexchange.com/tags/electricity
-U.S. National Archives Identifier: "10639437"
-IEV number: 121-11-76
-Commons category: Electricity
-MeSH tree code: G01.358.500.249
+time_of_discovery_or_invention: "1821-01-01T00:00:00Z"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
+facet_of: "[[_Standards/WikiData/WD~electromagnetic interaction,849919]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~physical phenomenon,1293220]]"
+- "[[_Standards/WikiData/WD~energy source,1522115]]"
+- '[[_Standards/WikiData/WD~energy,11379]]'
+has_part_s_: "[[_Standards/WikiData/WD~electrical polarity,1985691]]"
+different_from: '[[_Standards/WikiData/WD~eleki,108297234]]'
+Library_of_Congress_Classification: QC501-QC721
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Ruthin%20electrical%20substation%20between%20Ffordd%20Cae%20Glas%20and%20Gellifor%20-%20aerial%20video%20Jan%202025.webm"
+studied_in:
+- '[[_Standards/WikiData/WD~electrochemistry,7877]]'
+- '[[_Standards/WikiData/WD~electromagnetism,11406]]'
+part_of: '[[_Standards/WikiData/WD~electromagnetism,11406]]'
+Dewey_Decimal_Classification: 537
+OmegaWiki_Defined_Meaning: 1109
+Colon_Classification: C6
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20simulator%20questacon04.jpg"
+Stack_Exchange_tag: "https://physics.stackexchange.com/tags/electricity"
+U_S_National_Archives_Identifier: 10639437
+IEV_number: 121-11-76
+Commons_category: Electricity
+MeSH_tree_code: G01.358.500.249
 ---
-
 
 ## #has_/text_of_/abstract 
 

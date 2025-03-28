@@ -1,25 +1,24 @@
----
+﻿---
 aliases:
-  - Civil war
+- "Civil war"
 has_id_wikidata: Q8465
-has list: "[[_Standards/WikiData/WD~list of civil wars,941002]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~communal violence,5153967]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Gettysburg.jpg
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/State-based%20conflicts%20since%201946%2C%20OWID.svg
-IPTC NewsCode: mediatopic/20000063
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42353206,42353206]]"
-instance of: "[[_Standards/WikiData/WD~type of war,124867660]]"
-OmegaWiki Defined Meaning: "156339"
-U.S. National Archives Identifier: "10646216"
-Commons category: Civil wars
-PhilPapers topic: civil-war
+has_list: "[[_Standards/WikiData/WD~list of civil wars,941002]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~communal violence,5153967]]"
+- '[[_Standards/WikiData/WD~war,198]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Gettysburg.jpg"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/State-based%20conflicts%20since%201946%2C%20OWID.svg"
+IPTC_NewsCode: mediatopic/20000063
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353206,42353206]]'
+instance_of: "[[_Standards/WikiData/WD~type of war,124867660]]"
+OmegaWiki_Defined_Meaning: 156339
+U_S_National_Archives_Identifier: 10646216
+Commons_category: "Civil wars"
+PhilPapers_topic: civil-war
 ---
-
 
 ## #has_/text_of_/abstract 
 

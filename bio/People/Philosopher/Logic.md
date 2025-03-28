@@ -1,64 +1,63 @@
----
+﻿---
 has_id_wikidata: Q8078
-has part(s):
-  - "[[_Standards/WikiData/WD~causality,179289]]"
-  - "[[_Standards/WikiData/WD~propositional calculus,200694]]"
-  - "[[_Standards/WikiData/WD~modal logic,210841]]"
-  - "[[_Standards/WikiData/WD~fuzzy logic,224821]]"
-  - "[[_Standards/WikiData/WD~classical logic,236975]]"
-  - "[[_Standards/WikiData/WD~deductive reasoning,484284]]"
-  - "[[_Standards/WikiData/WD~inductive reasoning,484511]]"
-  - "[[_Standards/WikiData/WD~quantum logic,1206311]]"
-  - "[[_Standards/WikiData/WD~predicate logic,35148]]"
-has effect: "[[_Standards/WikiData/WD~logical consequence,374182]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-is the study of:
-  - "[[_Standards/WikiData/WD~condition,813912]]"
-  - "[[_Standards/WikiData/WD~validity,1047000]]"
-  - "[[_Standards/WikiData/WD~logical system,17488292]]"
-  - "[[_Standards/WikiData/WD~conclusion,20665666]]"
-instance of:
-  - "[[_Standards/WikiData/WD~formal science,816264]]"
-  - "[[_Standards/WikiData/WD~class used in Universal Decimal Classification,15831325]]"
-  - "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Logic,6469110]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of logic,7112678]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-practiced by: "[[_Standards/WikiData/WD~logician,14565331]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Logic,14614975]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q113143870,113143870]]"
-Provenio UUID:
-  - 120a80b1-cec8-497b-8e0d-34fce2e62d4c
-  - b264533f-c325-4ba2-9a90-70c7ea29e6f1
-UMLS CUI: C0023963
-part of:
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-Universal Decimal Classification: "16"
-Dewey Decimal Classification: "160"
-All-Science Journal Classification Codes: "2609"
-Colon Classification: R1
+has_part_s_:
+- '[[_Standards/WikiData/WD~causality,179289]]'
+- "[[_Standards/WikiData/WD~propositional calculus,200694]]"
+- "[[_Standards/WikiData/WD~modal logic,210841]]"
+- "[[_Standards/WikiData/WD~fuzzy logic,224821]]"
+- "[[_Standards/WikiData/WD~classical logic,236975]]"
+- "[[_Standards/WikiData/WD~deductive reasoning,484284]]"
+- "[[_Standards/WikiData/WD~inductive reasoning,484511]]"
+- "[[_Standards/WikiData/WD~quantum logic,1206311]]"
+- "[[_Standards/WikiData/WD~predicate logic,35148]]"
+has_effect: "[[_Standards/WikiData/WD~logical consequence,374182]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+is_the_study_of:
+- '[[_Standards/WikiData/WD~condition,813912]]'
+- '[[_Standards/WikiData/WD~validity,1047000]]'
+- "[[_Standards/WikiData/WD~logical system,17488292]]"
+- '[[_Standards/WikiData/WD~conclusion,20665666]]'
+instance_of:
+- "[[_Standards/WikiData/WD~formal science,816264]]"
+- "[[_Standards/WikiData/WD~class used in Universal Decimal Classification,15831325]]"
+- "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Logic,6469110]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of logic,7112678]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+practiced_by: '[[_Standards/WikiData/WD~logician,14565331]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Logic,14614975]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q113143870,113143870]]'
+Provenio_UUID:
+- 120a80b1-cec8-497b-8e0d-34fce2e62d4c
+- b264533f-c325-4ba2-9a90-70c7ea29e6f1
+UMLS_CUI: C0023963
+part_of:
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+Universal_Decimal_Classification: 16
+Dewey_Decimal_Classification: 160
+All-Science_Journal_Classification_Codes: 2609
+Colon_Classification: R1
 subreddit: logic
 hashtag: logic
-PhilPapers topic: logics
-Commons category: Logic
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Discourse-into-the-night.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0.wav
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q8078%20noun%2063409%20ccSimonChild%20logical.svg
-Krugosvet article: gumanitarnye_nauki/filosofiya/LOGIKA.html
-MeSH tree code: K01.752.448
+PhilPapers_topic: logics
+Commons_category: Logic
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Discourse-into-the-night.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0.wav"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Q8078%20noun%2063409%20ccSimonChild%20logical.svg"
+Krugosvet_article: gumanitarnye_nauki/filosofiya/LOGIKA.html
+MeSH_tree_code: K01.752.448
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,71 +1,70 @@
----
+﻿---
 has_id_wikidata: Q11035
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Johann Philipp Reis,77124]]"
-  - "[[_Standards/WikiData/WD~Antonio Meucci,273314]]"
-  - "[[_Standards/WikiData/WD~Elisha Gray,318449]]"
-  - "[[_Standards/WikiData/WD~Alexander Graham Bell,34286]]"
-has use: "[[_Standards/WikiData/WD~dialogue,131395]]"
-different from:
-  - "[[_Standards/WikiData/WD~phone,202064]]"
-  - "[[_Standards/WikiData/WD~telephone,399448]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~home appliance,212920]]"
-  - "[[_Standards/WikiData/WD~consumer electronics,581105]]"
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~electrical appliance,2425052]]"
-  - "[[_Standards/WikiData/WD~telecommunications equipment,107325483]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Enciclopedia universal ilustrada europeo-americana (1908-1930),115627942]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~process engineering device,620681]]"
-  - "[[_Standards/WikiData/WD~telecommunications network,1068715]]"
-produced sound: "[[_Standards/WikiData/WD~ringtone,690856]]"
-instance of:
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~product type,128889633]]"
-history of topic: "[[_Standards/WikiData/WD~history of the telephone,5870934]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q110377305,110377305]]"
-UMLS CUI: C0039019
-time of discovery or invention: 1876-01-01T00:00:00Z
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Johann Philipp Reis,77124]]"
+- "[[_Standards/WikiData/WD~Antonio Meucci,273314]]"
+- "[[_Standards/WikiData/WD~Elisha Gray,318449]]"
+- "[[_Standards/WikiData/WD~Alexander Graham Bell,34286]]"
+has_use: '[[_Standards/WikiData/WD~dialogue,131395]]'
+different_from:
+- '[[_Standards/WikiData/WD~phone,202064]]'
+- '[[_Standards/WikiData/WD~telephone,399448]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~home appliance,212920]]"
+- "[[_Standards/WikiData/WD~consumer electronics,581105]]"
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- "[[_Standards/WikiData/WD~electrical appliance,2425052]]"
+- "[[_Standards/WikiData/WD~telecommunications equipment,107325483]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Enciclopedia universal ilustrada europeo-americana (1908-1930),115627942]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~process engineering device,620681]]"
+- "[[_Standards/WikiData/WD~telecommunications network,1068715]]"
+produced_sound: '[[_Standards/WikiData/WD~ringtone,690856]]'
+instance_of:
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- "[[_Standards/WikiData/WD~product type,128889633]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of the telephone,5870934]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110377305,110377305]]'
+UMLS_CUI: C0039019
+time_of_discovery_or_invention: "1876-01-01T00:00:00Z"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Old%20wooden%20rotary%20wall-mounted%20phone.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%204050a-2.jpg
-MeSH tree code: L01.462.500.847.698
-Nomenclature for Museum Cataloging: "11329"
-OmegaWiki Defined Meaning: "5945"
-Danbooru tag: phone
-Iconclass notation: "46E62"
-Commons gallery: Telephone
-Commons category: Telephones
-Colon Classification:
-  - X36
-  - D665,48
-Unicode character:
-  - 📞
-  - ☎
-  - ☏
-  - ✆
-  - ℡
-OpenStreetMap tag or key: Tag:amenity=telephone
-U.S. National Archives Identifier: "10643595"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Kaunas%20banner%20phone%20booths.jpg
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/WWS%20Dial-operatedtelephone.ogg
-exact match: http://purl.obolibrary.org/obo/ENVO_01000580
-Krugosvet article: nauka_i_tehnika/transport_i_svyaz/TELEFON.html
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20wooden%20rotary%20wall-mounted%20phone.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%204050a-2.jpg"
+MeSH_tree_code: L01.462.500.847.698
+Nomenclature_for_Museum_Cataloging: 11329
+OmegaWiki_Defined_Meaning: 5945
+Danbooru_tag: phone
+Iconclass_notation: 46E62
+Commons_gallery: Telephone
+Commons_category: Telephones
+Colon_Classification:
+- X36
+- D665,48
+Unicode_character:
+- "\U0001F4DE"
+- ☎
+- ☏
+- ✆
+- ℡
+OpenStreetMap_tag_or_key: "Tag:amenity=telephone"
+U_S_National_Archives_Identifier: 10643595
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kaunas%20banner%20phone%20booths.jpg"
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/WWS%20Dial-operatedtelephone.ogg"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_01000580"
+Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/TELEFON.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

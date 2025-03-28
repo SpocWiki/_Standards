@@ -1,61 +1,60 @@
----
+﻿---
 has_id_wikidata: Q12796
 uses:
-  - "[[_Standards/WikiData/WD~combustion,133235]]"
-  - "[[_Standards/WikiData/WD~projectile,49393]]"
-different from:
-  - "[[_Standards/WikiData/WD~cold weapon,222405]]"
-  - "[[_Standards/WikiData/WD~pneumatic weapon,1260928]]"
-  - "[[_Standards/WikiData/WD~explosive device,3054261]]"
-  - "[[_Standards/WikiData/WD~draft weapon,30750835]]"
-  - "[[_Standards/WikiData/WD~gun,110155210]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~gun barrel,487192]]"
-  - "[[_Standards/WikiData/WD~sight,1134322]]"
-  - "[[_Standards/WikiData/WD~receiver,11741880]]"
-  - "[[_Standards/WikiData/WD~firearm component,107184001]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~projectile weapon,1194773]]"
-  - "[[_Standards/WikiData/WD~gun,110155210]]"
+- '[[_Standards/WikiData/WD~combustion,133235]]'
+- '[[_Standards/WikiData/WD~projectile,49393]]'
+different_from:
+- "[[_Standards/WikiData/WD~cold weapon,222405]]"
+- "[[_Standards/WikiData/WD~pneumatic weapon,1260928]]"
+- "[[_Standards/WikiData/WD~explosive device,3054261]]"
+- "[[_Standards/WikiData/WD~draft weapon,30750835]]"
+- '[[_Standards/WikiData/WD~gun,110155210]]'
+has_part_s_:
+- "[[_Standards/WikiData/WD~gun barrel,487192]]"
+- '[[_Standards/WikiData/WD~sight,1134322]]'
+- '[[_Standards/WikiData/WD~receiver,11741880]]'
+- "[[_Standards/WikiData/WD~firearm component,107184001]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~projectile weapon,1194773]]"
+- '[[_Standards/WikiData/WD~gun,110155210]]'
 follows: "[[_Standards/WikiData/WD~early thermal weapons,2609860]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox firearm,15966569]]"
-  - "[[_Standards/WikiData/WD~Template_Firearms,117351333]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~military equipment,18643213]]"
-described by source:
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-connects with: "[[_Standards/WikiData/WD~gun mount,97384104]]"
-instance of: "[[_Standards/WikiData/WD~weapon functional class,124078422]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox firearm,15966569]]"
+- '[[_Standards/WikiData/WD~Template_Firearms,117351333]]'
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~military equipment,18643213]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+connects_with: "[[_Standards/WikiData/WD~gun mount,97384104]]"
+instance_of: "[[_Standards/WikiData/WD~weapon functional class,124078422]]"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gun%20from%20upper%20west%20region.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Small%20arms%20compilation.jpg
-Dewey Decimal Classification:
-  - "623.442"
-  - "683.4"
-properties for this type:
-  - ammunition
-  - caliber
-exact match:
-  - http://wordnet-rdf.princeton.edu/wn30/03467984-n
-  - http://wordnet-rdf.princeton.edu/wn31/103444276-n
-Unicode character: 🔫
-Iconclass notation: 45C16
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Gun%20from%20upper%20west%20region.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Small%20arms%20compilation.jpg"
+Dewey_Decimal_Classification:
+- 623.442
+- 683.4
+properties_for_this_type:
+- ammunition
+- caliber
+exact_match:
+- "http://wordnet-rdf.princeton.edu/wn30/03467984-n"
+- "http://wordnet-rdf.princeton.edu/wn31/103444276-n"
+Unicode_character: "\U0001F52B"
+Iconclass_notation: 45C16
 hashtag:
-  - firearms
-  - GunOfTheDay
-  - Guns
+- firearms
+- GunOfTheDay
+- Guns
 subreddit:
-  - Firearms
-  - guns
-Commons category: Guns
-MeSH tree code: J01.637.870.350
+- Firearms
+- guns
+Commons_category: Guns
+MeSH_tree_code: J01.637.870.350
 ---
-
 
 ## #has_/text_of_/abstract 
 

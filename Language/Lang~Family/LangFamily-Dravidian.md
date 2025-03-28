@@ -1,37 +1,37 @@
----
+﻿---
 type: LangFamily
 tags:
-  - Lang_Family
+- Lang_Family
 aliases:
-  - Dravidian languages
+- "Dravidian languages"
 has_id_wikidata: Q33311
-indigenous to: "[[_Standards/WikiData/WD~Dravidian peoples,69798]]"
-linguistic typology: "[[_Standards/WikiData/WD~agglutinative language,171263]]"
-writing system: "[[_Standards/WikiData/WD~Brahmic scripts,467037]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
-studied in: "[[_Standards/WikiData/WD~Dravidian studies,1128227]]"
-has grammatical case: "[[_Standards/WikiData/WD~antessive case,4771446]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Dravidian languages,10520572]]"
-subclass of: "[[_Standards/WikiData/WD~human language,20162172]]"
-Linguist List code: drav
-distribution map: http://commons.wikimedia.org/wiki/Special:FilePath/Dravidische%20Sprachen.png
-WALS family code: dravidian
-instance of: "[[_Standards/WikiData/WD~language family,25295]]"
-"number of speakers, writers, or signers": 200000000
-ABS ASCL 2011 code: "51"
-Commons category: Dravidian languages
-OmegaWiki Defined Meaning: "587369"
-ISO 639-5 code: dra
-IETF language tag: dra
-ISO 639-2 code: dra
-exact match: http://publications.europa.eu/resource/authority/language/DRA
-Dewey Decimal Classification: "494.8"
-Krugosvet article: gumanitarnye_nauki/lingvistika/DRAVIDISKIE_YAZIKI.html
-GOST 7.75–97 code: дра 185
+indigenous_to: "[[_Standards/WikiData/WD~Dravidian peoples,69798]]"
+linguistic_typology: "[[_Standards/WikiData/WD~agglutinative language,171263]]"
+writing_system: "[[_Standards/WikiData/WD~Brahmic scripts,467037]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
+studied_in: "[[_Standards/WikiData/WD~Dravidian studies,1128227]]"
+has_grammatical_case: "[[_Standards/WikiData/WD~antessive case,4771446]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Dravidian languages,10520572]]"
+subclass_of: "[[_Standards/WikiData/WD~human language,20162172]]"
+Linguist_List_code: drav
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Dravidische%20Sprachen.png"
+WALS_family_code: dravidian
+instance_of: "[[_Standards/WikiData/WD~language family,25295]]"
+number_of_speakers_writers_or_signers: 200000000
+ABS_ASCL_2011_code: 51
+Commons_category: "Dravidian languages"
+OmegaWiki_Defined_Meaning: 587369
+ISO_639-5_code: dra
+IETF_language_tag: dra
+ISO_639-2_code: dra
+exact_match: "http://publications.europa.eu/resource/authority/language/DRA"
+Dewey_Decimal_Classification: 494.8
+Krugosvet_article: gumanitarnye_nauki/lingvistika/DRAVIDISKIE_YAZIKI.html
+GOST_7_75_97_code: "дра 185"
 ---
 
 [SpocWebEntityId:: 238 ]

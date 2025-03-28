@@ -1,33 +1,32 @@
----
+﻿---
 has_id_wikidata: Q235352
-has use: "[[_Standards/WikiData/WD~harvest,213753]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~commodity,317088]]"
-  - "[[_Standards/WikiData/WD~renewable resource,1138571]]"
-  - "[[_Standards/WikiData/WD~useful plant,11992872]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-different from: "[[_Standards/WikiData/WD~tillage,878333]]"
-part of: "[[_Standards/WikiData/WD~cultigen,1362373]]"
-instance of: "[[_Standards/WikiData/WD~plant life-form,2355817]]"
-said to be the same as: "[[_Standards/WikiData/WD~agricultural product,11827455]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-Dewey Decimal Classification: "633"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Oedelem%20Weg%20naar%20Sint-Kruis%20R01.jpg
-exact match: https://w3id.org/def/saref4agri#Crop
-U.S. National Archives Identifier: "10639679"
-MeSH tree code:
-  - B01.650.160
-  - G07.203.300.300
-  - J02.500.300
-UMLS CUI: C0242775
-Commons category: Crops
-Colon Classification: J:5
-OpenStreetMap tag or key: Key:crop
+has_use: '[[_Standards/WikiData/WD~harvest,213753]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~commodity,317088]]'
+- "[[_Standards/WikiData/WD~renewable resource,1138571]]"
+- "[[_Standards/WikiData/WD~useful plant,11992872]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+different_from: '[[_Standards/WikiData/WD~tillage,878333]]'
+part_of: '[[_Standards/WikiData/WD~cultigen,1362373]]'
+instance_of: "[[_Standards/WikiData/WD~plant life-form,2355817]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~agricultural product,11827455]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+Dewey_Decimal_Classification: 633
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Oedelem%20Weg%20naar%20Sint-Kruis%20R01.jpg"
+exact_match: "https://w3id.org/def/saref4agri#Crop"
+U_S_National_Archives_Identifier: 10639679
+MeSH_tree_code:
+- B01.650.160
+- G07.203.300.300
+- J02.500.300
+UMLS_CUI: C0242775
+Commons_category: Crops
+Colon_Classification: "J:5"
+OpenStreetMap_tag_or_key: "Key:crop"
 ---
-
 
 ## #has_/text_of_/abstract 
 

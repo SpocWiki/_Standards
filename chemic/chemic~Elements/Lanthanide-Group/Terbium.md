@@ -1,52 +1,52 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21961
 has_id_wikidata: Q1838
-part of:
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
-named after: "[[_Standards/WikiData/WD~Ytterby mine,631733]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-made from material:
-  - "[[_Standards/WikiData/WD~bastnäsite mineral group,3777619]]"
-  - "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
-  - "[[_Standards/WikiData/WD~xenotime mineral group,3777882]]"
-  - "[[_Standards/WikiData/WD~euxenite mineral group,18016084]]"
-found in taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
-UMLS CUI: C0039541
-time of discovery or invention: 1843-01-01T00:00:00Z
-location of discovery: "[[_Standards/WikiData/WD~Stockholm,1754]]"
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
+named_after: "[[_Standards/WikiData/WD~Ytterby mine,631733]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+made_from_material:
+- "[[_Standards/WikiData/WD~bastnäsite mineral group,3777619]]"
+- "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
+- "[[_Standards/WikiData/WD~xenotime mineral group,3777882]]"
+- "[[_Standards/WikiData/WD~euxenite mineral group,18016084]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
+UMLS_CUI: C0039541
+time_of_discovery_or_invention: "1843-01-01T00:00:00Z"
+location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754]]'
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 electronegativity: 1.2
-atomic number: 65
-ionic radius:
-  - 0.76
-  - 0.88
-  - 0.92
-  - 1.04
-PubChem CID: "23958"
-Gmelin number: "16311"
-chemical formula: Tb
-element symbol: Tb
-OmegaWiki Defined Meaning: "364226"
-Commons gallery: Terbium
-Commons category: Terbium
+atomic_number: 65
+ionic_radius:
+- 0.76
+- 0.88
+- 0.92
+- 1.04
+PubChem_CID: 23958
+Gmelin_number: 16311
+chemical_formula: Tb
+element_symbol: Tb
+OmegaWiki_Defined_Meaning: 364226
+Commons_gallery: Terbium
+Commons_category: Terbium
 mass: 158.925354
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Terbium%20element.jpg
-canonical SMILES: "[Tb]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Terbium%20element.jpg"
+canonical_SMILES: '[Tb]'
 UNII: 06SSF7P179
-EC number: 231-137-6
-CAS Registry Number: 7440-27-9
-MeSH tree code:
-  - D01.268.558.362.968
-  - D01.552.550.399.968
-DSSTOX compound identifier: DTXCID6047656
+EC_number: 231-137-6
+CAS_Registry_Number: 7440-27-9
+MeSH_tree_code:
+- D01.268.558.362.968
+- D01.552.550.399.968
+DSSTOX_compound_identifier: DTXCID6047656
 InChIKey: GZCRRIHWUXGPOV-UHFFFAOYSA-N
 InChI: InChI=1S/Tb
-Unicode character: 鋱
+Unicode_character: 鋱
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Terbium,1838]] 

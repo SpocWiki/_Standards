@@ -1,131 +1,130 @@
----
+﻿---
 type: Lang
 aliases:
-  - Japanese
-  - Japanese language
+- Japanese
+- "Japanese language"
 tags:
-  - Lang/ja
+- Lang/ja
 has_id_wikidata: Q5287
-writing system:
-  - "[[_Standards/WikiData/WD~katakana,82946]]"
-  - "[[_Standards/WikiData/WD~kana,187659]]"
-  - "[[_Standards/WikiData/WD~hiragana,48332]]"
-has grammatical case:
-  - "[[_Standards/WikiData/WD~nominative case,131105]]"
-  - "[[_Standards/WikiData/WD~dative case,145599]]"
-  - "[[_Standards/WikiData/WD~accusative case,146078]]"
-  - "[[_Standards/WikiData/WD~genitive case,146233]]"
-  - "[[_Standards/WikiData/WD~ablative case,156986]]"
-  - "[[_Standards/WikiData/WD~instrumental case,192997]]"
-  - "[[_Standards/WikiData/WD~lative case,260425]]"
-linguistic typology:
-  - "[[_Standards/WikiData/WD~postposition,161873]]"
-  - "[[_Standards/WikiData/WD~agglutinative language,171263]]"
-  - "[[_Standards/WikiData/WD~nominative–accusative language,178435]]"
-  - "[[_Standards/WikiData/WD~subject–object–verb,539808]]"
-  - "[[_Standards/WikiData/WD~pro-drop language,661936]]"
-  - "[[_Standards/WikiData/WD~direct–inverse alignment,892484]]"
-  - "[[_Standards/WikiData/WD~pitch accent,1441804]]"
-  - "[[_Standards/WikiData/WD~moraic language,3217341]]"
-  - "[[_Standards/WikiData/WD~time–manner–place,7806656]]"
-  - "[[_Standards/WikiData/WD~adjective-noun,74834637]]"
-  - "[[_Standards/WikiData/WD~synthetic language,48612]]"
-has tense:
-  - "[[_Standards/WikiData/WD~present tense,192613]]"
-  - "[[_Standards/WikiData/WD~past tense,1994301]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-does not have characteristic: "[[_Standards/WikiData/WD~agreement,829903]]"
-language regulatory body:
-  - "[[_Standards/WikiData/WD~Agency for Cultural Affairs,1009519]]"
-  - "[[_Standards/WikiData/WD~Ministry of Education, Culture, Sports, Science and Technology,1054379]]"
-  - "[[_Standards/WikiData/WD~Kokugo Shingikai,11421375]]"
-  - "[[_Standards/WikiData/WD~Council for Cultural Affairs,11499811]]"
-has grammatical mood: "[[_Standards/WikiData/WD~desiderative,1200631]]"
-instance of:
-  - "[[_Standards/WikiData/WD~modern language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural language,33742]]"
-maintained by WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject Languages,8486980]]"
-  - "[[_Standards/WikiData/WD~WikiProject Japan,8504015]]"
-  - "[[_Standards/WikiData/WD~WikiProject East Asia,21829890]]"
-studied in: "[[_Standards/WikiData/WD~Japanese linguistics,11509142]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Japanese language,12342711]]"
-UNESCO language status: "[[_Standards/WikiData/WD~1 safe,20672086]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Japanese,27075666]]"
-Ethnologue language status: "[[_Standards/WikiData/WD~1 National,29051546]]"
+writing_system:
+- '[[_Standards/WikiData/WD~katakana,82946]]'
+- '[[_Standards/WikiData/WD~kana,187659]]'
+- '[[_Standards/WikiData/WD~hiragana,48332]]'
+has_grammatical_case:
+- "[[_Standards/WikiData/WD~nominative case,131105]]"
+- "[[_Standards/WikiData/WD~dative case,145599]]"
+- "[[_Standards/WikiData/WD~accusative case,146078]]"
+- "[[_Standards/WikiData/WD~genitive case,146233]]"
+- "[[_Standards/WikiData/WD~ablative case,156986]]"
+- "[[_Standards/WikiData/WD~instrumental case,192997]]"
+- "[[_Standards/WikiData/WD~lative case,260425]]"
+linguistic_typology:
+- '[[_Standards/WikiData/WD~postposition,161873]]'
+- "[[_Standards/WikiData/WD~agglutinative language,171263]]"
+- "[[_Standards/WikiData/WD~nominative–accusative language,178435]]"
+- '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
+- "[[_Standards/WikiData/WD~pro-drop language,661936]]"
+- "[[_Standards/WikiData/WD~direct–inverse alignment,892484]]"
+- "[[_Standards/WikiData/WD~pitch accent,1441804]]"
+- "[[_Standards/WikiData/WD~moraic language,3217341]]"
+- '[[_Standards/WikiData/WD~time–manner–place,7806656]]'
+- '[[_Standards/WikiData/WD~adjective-noun,74834637]]'
+- "[[_Standards/WikiData/WD~synthetic language,48612]]"
+has_tense:
+- "[[_Standards/WikiData/WD~present tense,192613]]"
+- "[[_Standards/WikiData/WD~past tense,1994301]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+does_not_have_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
+language_regulatory_body:
+- "[[_Standards/WikiData/WD~Agency for Cultural Affairs,1009519]]"
+- "[[_Standards/WikiData/WD~Ministry of Education, Culture, Sports, Science and Technology,1054379]]"
+- "[[_Standards/WikiData/WD~Kokugo Shingikai,11421375]]"
+- "[[_Standards/WikiData/WD~Council for Cultural Affairs,11499811]]"
+has_grammatical_mood: '[[_Standards/WikiData/WD~desiderative,1200631]]'
+instance_of:
+- "[[_Standards/WikiData/WD~modern language,1288568]]"
+- "[[_Standards/WikiData/WD~natural language,33742]]"
+maintained_by_WikiProject:
+- "[[_Standards/WikiData/WD~WikiProject Languages,8486980]]"
+- "[[_Standards/WikiData/WD~WikiProject Japan,8504015]]"
+- "[[_Standards/WikiData/WD~WikiProject East Asia,21829890]]"
+studied_in: "[[_Standards/WikiData/WD~Japanese linguistics,11509142]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Japanese language,12342711]]"
+UNESCO_language_status: "[[_Standards/WikiData/WD~1 safe,20672086]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Japanese,27075666]]'
+Ethnologue_language_status: "[[_Standards/WikiData/WD~1 National,29051546]]"
 hashtag:
-  - 日本語
-  - japanese
-Stack Exchange tag:
-  - https://linguistics.stackexchange.com/tags/japanese
-  - https: //apple.stackexchange.com/tags/japanese
-  - https://anime.stackexchange.com/tags/japanese-language
-  - https://languagelearning.stackexchange.com/tags/japanese
+- 日本語
+- japanese
+Stack_Exchange_tag:
+- "https://linguistics.stackexchange.com/tags/japanese"
+- https: //apple.stackexchange.com/tags/japanese
+- "https://anime.stackexchange.com/tags/japanese-language"
+- "https://languagelearning.stackexchange.com/tags/japanese"
 subreddit:
-  - japaneselanguage
-  - japanese
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hakushu%20Kitahara-Gojuon.oga
+- japaneselanguage
+- japanese
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hakushu%20Kitahara-Gojuon.oga"
 Libris-URI: ljx0zm34331cvc3
 country:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~South Korea,884]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-indigenous to: "[[_Standards/WikiData/WD~Japan,17]]"
-different from: "[[_Standards/WikiData/WD~Javanese,33549]]"
-subclass of: "[[_Standards/WikiData/WD~Japonic,33612]]"
-"number of speakers, writers, or signers": 128000000
-Wikimedia language code: ja
-IETF language tag: ja
-ISO 639-1 code: ja
-POSIX locale identifier: ja
-OmegaWiki Defined Meaning: "6220"
-ABS ASCL 2011 code:
-  - "72"
-  - "7201"
-IAB code: "1105"
-Ethnologue.com language code: jpn
-WALS lect code: jpn
-ISO 639-3 code: jpn
-ISO 639-2 code: jpn
-native label: 日本語
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20ja.svg
-distribution map: http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20dialects-en.png
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Fuji%20banner%20Fuji%20and%20cherry%20blossoms.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Nihongo.svg
-exact match: http://publications.europa.eu/resource/authority/language/JPN
-Stack Exchange site URL:
-  - https://ja.stackoverflow.com
-  - https: //japanese.stackexchange.com
-Linguasphere code: 45-CAA
-Universal Decimal Classification: "811.521"
-Krugosvet article: gumanitarnye_nauki/lingvistika/YAPONSKI_YAZIK.html
-GitHub topic: japanese
-Commons category: Japanese language
-Glottolog code: nucl1643
-entry in abbreviations table: яп.
-GOST 7.75–97 code: япо 870
-Baidu Tieba name: 日语
-short name:
-  - yaponca
-  - япойнаг
-  - японский
-  - жопунӣ
-  - ҷопонӣ
-  - японська
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- "[[_Standards/WikiData/WD~South Korea,884]]"
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+indigenous_to: '[[_Standards/WikiData/WD~Japan,17]]'
+different_from: '[[_Standards/WikiData/WD~Javanese,33549]]'
+subclass_of: '[[_Standards/WikiData/WD~Japonic,33612]]'
+number_of_speakers_writers_or_signers: 128000000
+Wikimedia_language_code: ja
+IETF_language_tag: ja
+ISO_639-1_code: ja
+POSIX_locale_identifier: ja
+OmegaWiki_Defined_Meaning: 6220
+ABS_ASCL_2011_code:
+- 72
+- 7201
+IAB_code: 1105
+Ethnologue_com_language_code: jpn
+WALS_lect_code: jpn
+ISO_639-3_code: jpn
+ISO_639-2_code: jpn
+native_label: 日本語
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20ja.svg"
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20dialects-en.png"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Fuji%20banner%20Fuji%20and%20cherry%20blossoms.png"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nihongo.svg"
+exact_match: "http://publications.europa.eu/resource/authority/language/JPN"
+Stack_Exchange_site_URL:
+- "https://ja.stackoverflow.com"
+- https: //japanese.stackexchange.com
+Linguasphere_code: 45-CAA
+Universal_Decimal_Classification: 811.521
+Krugosvet_article: gumanitarnye_nauki/lingvistika/YAPONSKI_YAZIK.html
+GitHub_topic: japanese
+Commons_category: "Japanese language"
+Glottolog_code: nucl1643
+entry_in_abbreviations_table: яп.
+GOST_7_75_97_code: "япо 870"
+Baidu_Tieba_name: 日语
+short_name:
+- yaponca
+- япойнаг
+- японский
+- жопунӣ
+- ҷопонӣ
+- японська
 ---
 
- 
 # [[Lang-ja]] 
 
 

@@ -1,20 +1,19 @@
----
+﻿---
 has_id_wikidata: Q1059
-studied in: "[[_Standards/WikiData/WD~immunology,101929]]"
-has effect: "[[_Standards/WikiData/WD~immunity,182581]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~organ system,188193]]"
-  - "[[_Standards/WikiData/WD~biological system,30336093]]"
-has part(s): "[[_Standards/WikiData/WD~memory T cell,2304808]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Lymph immune and complement navs,11112574]]"
-development of anatomical structure: "[[_Standards/WikiData/WD~immune system development,14863467]]"
-instance of: "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
-UMLS CUI: C0020962
-Commons category: Immune system
-WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/immune_system_2
-MeSH tree code: A15.382
+studied_in: '[[_Standards/WikiData/WD~immunology,101929]]'
+has_effect: '[[_Standards/WikiData/WD~immunity,182581]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~organ system,188193]]"
+- "[[_Standards/WikiData/WD~biological system,30336093]]"
+has_part_s_: "[[_Standards/WikiData/WD~memory T cell,2304808]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Lymph immune and complement navs,11112574]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~immune system development,14863467]]"
+instance_of: "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
+UMLS_CUI: C0020962
+Commons_category: "Immune system"
+WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/immune_system_2"
+MeSH_tree_code: A15.382
 ---
-
 
 ## #has_/text_of_/abstract 
 

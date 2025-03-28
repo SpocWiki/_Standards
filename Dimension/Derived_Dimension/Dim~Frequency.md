@@ -1,130 +1,43 @@
----
+﻿---
 has_id_wikidata: Q11652
-subclass of:
-  - "[[_Standards/WikiData/WD~physical quantity,107715]]"
-  - "[[_Standards/WikiData/WD~scalar quantity,181175]]"
-  - "[[_Standards/WikiData/WD~reciprocal duration,98690850]]"
-different from:
-  - "[[_Standards/WikiData/WD~letter frequency,520562]]"
-  - "[[_Standards/WikiData/WD~frequency,762856]]"
-  - "[[_Standards/WikiData/WD~rotational frequency,30338278]]"
-recommended unit of measurement:
-  - "[[_Standards/WikiData/WD~reciprocal second,6137407]]"
-  - "[[_Standards/WikiData/WD~hertz,39369]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q11498076,11498076]]"
-facet of: "[[_Standards/WikiData/WD~repetition,18699055]]"
-described by source:
-  - "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-3_2019 Quantities and units — Part 3_ Space and time,90137277]]"
-ISQ dimension: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {T}}^{-1}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <msup>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi mathvariant="sans-serif">T</mi>
-              </mrow>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>1</mn>
-            </mrow>
-          </msup>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {T}}^{-1}}</annotation>
-    </semantics>
-  </math>
-in defining formula:
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle T}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>T</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle f}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>f</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
-      </semantics>
-    </math>
-quantity symbol (LaTeX):
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle f}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>f</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \nu }">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>&#x03BD;<!-- ν --></mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
-      </semantics>
-    </math>
-  - |-
-    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle F}">
-      <semantics>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mstyle displaystyle="true" scriptlevel="0">
-            <mi>F</mi>
-          </mstyle>
-        </mrow>
-        <annotation encoding="application/x-tex">{\displaystyle F}</annotation>
-      </semantics>
-    </math>
-Wikidata property: frequency
-quantity symbol (string):
-  - f
-  - ν
-image: http://commons.wikimedia.org/wiki/Special:FilePath/FrequencyAnimation.gif
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95.wav
-equivalent class: http://purl.org/dc/terms/Frequency
-IEV number: 103-06-02
-OmegaWiki Defined Meaning: "7836"
-Commons category: Frequency
-OpenStreetMap tag or key: Key:frequency
-Gujarati Vishwakosh entry: આવૃત્તિ
-defining formula: |-
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle f={\frac {1}{T}}}">
-    <semantics>
-      <mrow class="MJX-TeXAtom-ORD">
-        <mstyle displaystyle="true" scriptlevel="0">
-          <mi>f</mi>
-          <mo>=</mo>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mfrac>
-              <mn>1</mn>
-              <mi>T</mi>
-            </mfrac>
-          </mrow>
-        </mstyle>
-      </mrow>
-      <annotation encoding="application/x-tex">{\displaystyle f={\frac {1}{T}}}</annotation>
-    </semantics>
-  </math>
+subclass_of:
+- "[[_Standards/WikiData/WD~physical quantity,107715]]"
+- "[[_Standards/WikiData/WD~scalar quantity,181175]]"
+- "[[_Standards/WikiData/WD~reciprocal duration,98690850]]"
+different_from:
+- "[[_Standards/WikiData/WD~letter frequency,520562]]"
+- '[[_Standards/WikiData/WD~frequency,762856]]'
+- "[[_Standards/WikiData/WD~rotational frequency,30338278]]"
+recommended_unit_of_measurement:
+- "[[_Standards/WikiData/WD~reciprocal second,6137407]]"
+- '[[_Standards/WikiData/WD~hertz,39369]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q11498076,11498076]]'
+facet_of: '[[_Standards/WikiData/WD~repetition,18699055]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
+- "[[_Standards/WikiData/WD~ISO 80000-3_2019 Quantities and units — Part 3_ Space and time,90137277]]"
+ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {T}}^{-1}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>1</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {T}}^{-1}}</annotation>\n  </semantics>\n</math>"
+in_defining_formula:
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle T}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>T</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle T}</annotation>\n  </semantics>\n</math>"
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle f}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>f</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle f}</annotation>\n  </semantics>\n</math>"
+quantity_symbol_LaTeX_:
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle f}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>f</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle f}</annotation>\n  </semantics>\n</math>"
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\nu }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>&#x03BD;<!-- ν --></mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\nu }</annotation>\n  </semantics>\n</math>"
+- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle F}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>F</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle F}</annotation>\n  </semantics>\n</math>"
+Wikidata_property: frequency
+quantity_symbol_string_:
+- f
+- ν
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/FrequencyAnimation.gif"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95.wav"
+equivalent_class: "http://purl.org/dc/terms/Frequency"
+IEV_number: 103-06-02
+OmegaWiki_Defined_Meaning: 7836
+Commons_category: Frequency
+OpenStreetMap_tag_or_key: "Key:frequency"
+Gujarati_Vishwakosh_entry: આવૃત્તિ
+defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle f={\\frac {1}{T}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>f</mi>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mi>T</mi>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle f={\\frac {1}{T}}}</annotation>\n  </semantics>\n</math>"
 ---
 
 # [[Dim~Frequency]] 

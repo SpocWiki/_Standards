@@ -1,46 +1,45 @@
----
+﻿---
 has_id_wikidata: Q12128
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-instance of:
-  - "[[_Standards/WikiData/WD~medical specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-history of topic: "[[_Standards/WikiData/WD~history of dentistry,2155629]]"
-practiced by:
-  - "[[_Standards/WikiData/WD~Q3349342,3349342]]"
-  - "[[_Standards/WikiData/WD~professor of dentistry,130629406]]"
-  - "[[_Standards/WikiData/WD~dentist,27349]]"
-different from: "[[_Standards/WikiData/WD~oral medicine,3673891]]"
-said to be the same as: "[[_Standards/WikiData/WD~oral medicine,3673891]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Dentistry,10887576]]"
-has part(s): "[[_Standards/WikiData/WD~clinical dentistry,121493590]]"
-Gujarati Vishwakosh entry: દાંત-અને-દંતવિદ્યા
-UMLS CUI: C0011438
-WordLift URL: http://data.wordlift.io/wl01714/entity/dentistry
-MeSH tree code:
-  - H02.163
-  - E06
-exact match: https://schema.org/Dentistry
-subclass of: "[[_Standards/WikiData/WD~medicine,11190]]"
-All-Science Journal Classification Codes: "3501"
-Dewey Decimal Classification:
-  - "617"
-  - "617.6"
-OmegaWiki Defined Meaning: "451926"
-U.S. National Archives Identifier: "10646970"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Dental%20surgery%20aboard%20USS%20Eisenhower%2C%20January%201990.JPEG
-Basisklassifikation: "44.96"
-Iconclass notation: 49G6131
-GitHub topic: dentistry
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+instance_of:
+- "[[_Standards/WikiData/WD~medical specialty,930752]]"
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of dentistry,2155629]]"
+practiced_by:
+- '[[_Standards/WikiData/WD~Q3349342,3349342]]'
+- "[[_Standards/WikiData/WD~professor of dentistry,130629406]]"
+- '[[_Standards/WikiData/WD~dentist,27349]]'
+different_from: "[[_Standards/WikiData/WD~oral medicine,3673891]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~oral medicine,3673891]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dentistry,10887576]]'
+has_part_s_: "[[_Standards/WikiData/WD~clinical dentistry,121493590]]"
+Gujarati_Vishwakosh_entry: દાંત-અને-દંતવિદ્યા
+UMLS_CUI: C0011438
+WordLift_URL: "http://data.wordlift.io/wl01714/entity/dentistry"
+MeSH_tree_code:
+- H02.163
+- E06
+exact_match: "https://schema.org/Dentistry"
+subclass_of: '[[_Standards/WikiData/WD~medicine,11190]]'
+All-Science_Journal_Classification_Codes: 3501
+Dewey_Decimal_Classification:
+- 617
+- 617.6
+OmegaWiki_Defined_Meaning: 451926
+U_S_National_Archives_Identifier: 10646970
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dental%20surgery%20aboard%20USS%20Eisenhower%2C%20January%201990.JPEG"
+Basisklassifikation: 44.96
+Iconclass_notation: 49G6131
+GitHub_topic: dentistry
 subreddit: Dentistry
-Commons gallery: Dentistry
-Commons category: Dentistry
-IPTC NewsCode: mediatopic/20000712
+Commons_gallery: Dentistry
+Commons_category: Dentistry
+IPTC_NewsCode: mediatopic/20000712
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,25 +1,24 @@
----
+﻿---
 aliases:
-  - Base (chemistry)
-  - Base(chemistry)
+- "Base (chemistry)"
+- Base(chemistry)
 has_id_wikidata: Q11193
-has use:
-  - "[[_Standards/WikiData/WD~acid–base reaction,378751]]"
-  - "[[_Standards/WikiData/WD~acidity regulator,898753]]"
-different from:
-  - "[[_Standards/WikiData/WD~alkali,485742]]"
-  - "[[_Standards/WikiData/WD~base,29841371]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Sodium%20hydroxide%20solution.jpg
-IEV number: 114-01-18
-described by source:
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-instance of: "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
-opposite of: "[[_Standards/WikiData/WD~acid,11158]]"
-subclass of: "[[_Standards/WikiData/WD~chemical compound,11173]]"
-Commons category: Bases
+has_use:
+- "[[_Standards/WikiData/WD~acid–base reaction,378751]]"
+- "[[_Standards/WikiData/WD~acidity regulator,898753]]"
+different_from:
+- '[[_Standards/WikiData/WD~alkali,485742]]'
+- '[[_Standards/WikiData/WD~base,29841371]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sodium%20hydroxide%20solution.jpg"
+IEV_number: 114-01-18
+described_by_source:
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+instance_of: "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
+opposite_of: '[[_Standards/WikiData/WD~acid,11158]]'
+subclass_of: "[[_Standards/WikiData/WD~chemical compound,11173]]"
+Commons_category: Bases
 ---
-
 
 ## #has_/text_of_/abstract 
 

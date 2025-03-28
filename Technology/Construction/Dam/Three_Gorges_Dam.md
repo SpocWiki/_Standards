@@ -1,55 +1,54 @@
----
+﻿---
 has_id_wikidata: Q12514
 aliases:
-  - Three Gorges Dam
-has use:
-  - "[[_Standards/WikiData/WD~hydroelectricity,80638]]"
-  - "[[_Standards/WikiData/WD~inland navigation,499814]]"
-  - "[[_Standards/WikiData/WD~flood control,1187968]]"
-powered by: "[[_Standards/WikiData/WD~Francis turbine,217817]]"
-named after: "[[_Standards/WikiData/WD~Three Gorges,673287]]"
+- "Three Gorges Dam"
+has_use:
+- '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
+- "[[_Standards/WikiData/WD~inland navigation,499814]]"
+- "[[_Standards/WikiData/WD~flood control,1187968]]"
+powered_by: "[[_Standards/WikiData/WD~Francis turbine,217817]]"
+named_after: "[[_Standards/WikiData/WD~Three Gorges,673287]]"
 operator: "[[_Standards/WikiData/WD~China Yangtze Power,752496]]"
-owned by: "[[_Standards/WikiData/WD~China Yangtze Power,752496]]"
+owned_by: "[[_Standards/WikiData/WD~China Yangtze Power,752496]]"
 location: "[[_Standards/WikiData/WD~Sandouping Town,849367]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Sandouping Town,849367]]"
-instance of:
-  - "[[_Standards/WikiData/WD~gravity dam,3497167]]"
-  - "[[_Standards/WikiData/WD~hydroelectric power station,15911738]]"
-  - "[[_Standards/WikiData/WD~boat lift,14908]]"
-part of: "[[_Standards/WikiData/WD~Cascade of hydropower stations on Yangtze River,4216607]]"
-reservoir created: "[[_Standards/WikiData/WD~Three Gorges Reservoir Region,7797505]]"
-drainage basin: "[[_Standards/WikiData/WD~Yangtze River basin,15758768]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~Yangtze,5413]]"
-located in or next to body of water: "[[_Standards/WikiData/WD~Yangtze,5413]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sandouping Town,849367]]"
+instance_of:
+- "[[_Standards/WikiData/WD~gravity dam,3497167]]"
+- "[[_Standards/WikiData/WD~hydroelectric power station,15911738]]"
+- "[[_Standards/WikiData/WD~boat lift,14908]]"
+part_of: "[[_Standards/WikiData/WD~Cascade of hydropower stations on Yangtze River,4216607]]"
+reservoir_created: "[[_Standards/WikiData/WD~Three Gorges Reservoir Region,7797505]]"
+drainage_basin: "[[_Standards/WikiData/WD~Yangtze River basin,15758768]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Yangtze,5413]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Yangtze,5413]]'
 country: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-watershed area: 1000000
+watershed_area: 1000000
 width:
-  - 40
-  - 115
-elevation above sea level:
-  - 4
-  - 185
-capacity factor: 45
+- 40
+- 115
+elevation_above_sea_level:
+- 4
+- 185
+capacity_factor: 45
 discharge: 116000
 height: 181
-nominal power output: 22500
-hydraulic head: 80.6
+nominal_power_output: 22500
+hydraulic_head: 80.6
 length: 2335
-annual energy output: 103.65
-OmegaWiki Defined Meaning: "876979"
-coordinate location: Point(111.00367 30.82386)
-date of official opening: 2003-01-01T00:00:00Z
-service entry: 2003-01-01T00:00:00Z
-inception: 2003-01-01T00:00:00Z 
-has_time_started: 2003-01-01T00:00:00Z 
-image: http://commons.wikimedia.org/wiki/Special:FilePath/ThreeGorgesDam-China2009.jpg
-Commons gallery: Three Gorges Dam
-Commons category: Three Gorges Dam
-native label:
-  - 三峽大壩
-  - 三峡大坝
+annual_energy_output: 103.65
+OmegaWiki_Defined_Meaning: 876979
+coordinate_location: "Point(111.00367 30.82386)"
+date_of_official_opening: "2003-01-01T00:00:00Z"
+service_entry: "2003-01-01T00:00:00Z"
+inception: "2003-01-01T00:00:00Z"
+has_time_started: "2003-01-01T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/ThreeGorgesDam-China2009.jpg"
+Commons_gallery: "Three Gorges Dam"
+Commons_category: "Three Gorges Dam"
+native_label:
+- 三峽大壩
+- 三峡大坝
 ---
-
 
 ## #has_/text_of_/abstract 
 

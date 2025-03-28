@@ -1,64 +1,63 @@
----
+﻿---
 has_id_wikidata: Q12202
-Krugosvet article: medicina/INSULT.html
-WordLift URL:
-  - http://data.medicalrecords.com/medicalrecords/healthwise/stroke
-  - http://data.medicalrecords.com/medicalrecords/healthwise/stroke_3
-health specialty:
-  - "[[_Standards/WikiData/WD~neurology,83042]]"
-  - "[[_Standards/WikiData/WD~neurosurgery,188449]]"
-instance of:
-  - "[[_Standards/WikiData/WD~syndrome,179630]]"
-  - "[[_Standards/WikiData/WD~cause of death,1931388]]"
-  - "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
-drug or therapy used for treatment: "[[_Standards/WikiData/WD~pentoxifylline,416331]]"
-anatomical location: "[[_Standards/WikiData/WD~human brain,492038]]"
+Krugosvet_article: medicina/INSULT.html
+WordLift_URL:
+- "http://data.medicalrecords.com/medicalrecords/healthwise/stroke"
+- "http://data.medicalrecords.com/medicalrecords/healthwise/stroke_3"
+health_specialty:
+- '[[_Standards/WikiData/WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~neurosurgery,188449]]'
+instance_of:
+- '[[_Standards/WikiData/WD~syndrome,179630]]'
+- "[[_Standards/WikiData/WD~cause of death,1931388]]"
+- "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
+drug_or_therapy_used_for_treatment: '[[_Standards/WikiData/WD~pentoxifylline,416331]]'
+anatomical_location: "[[_Standards/WikiData/WD~human brain,492038]]"
 location: "[[_Standards/WikiData/WD~human brain,492038]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan. National encyclopedia,4208106]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-risk factor: "[[_Standards/WikiData/WD~smoking,662860]]"
-different from: "[[_Standards/WikiData/WD~Stroke,1216832]]"
-said to be the same as: "[[_Standards/WikiData/WD~cerebrovascular disease,3010352]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~cerebrovascular disease,3010352]]"
-  - "[[_Standards/WikiData/WD~neurological symptom,12040808]]"
-  - "[[_Standards/WikiData/WD~general symptom,31836626]]"
-genetic association:
-  - "[[_Standards/WikiData/WD~ADAMTS2,14881709]]"
-  - "[[_Standards/WikiData/WD~ALDH2,14911781]]"
-  - "[[_Standards/WikiData/WD~CRYBG1,17816379]]"
-  - "[[_Standards/WikiData/WD~ZFHX3,17832572]]"
-  - "[[_Standards/WikiData/WD~IMPA2,18027905]]"
-  - "[[_Standards/WikiData/WD~KALRN,18033696]]"
-  - "[[_Standards/WikiData/WD~HDAC9,18034627]]"
-  - "[[_Standards/WikiData/WD~ADAMTS12,18047096]]"
-  - "[[_Standards/WikiData/WD~SPSB4,18048631]]"
-UMLS CUI:
-  - CL461690
-  - C0751956
-medical examination:
-  - "[[_Standards/WikiData/WD~Orpington Prognostic Scale,108525687]]"
-  - "[[_Standards/WikiData/WD~ROSIER scale,108525694]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Kazakhstan. National encyclopedia,4208106]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
+different_from: '[[_Standards/WikiData/WD~Stroke,1216832]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~cerebrovascular disease,3010352]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~cerebrovascular disease,3010352]]"
+- "[[_Standards/WikiData/WD~neurological symptom,12040808]]"
+- "[[_Standards/WikiData/WD~general symptom,31836626]]"
+genetic_association:
+- '[[_Standards/WikiData/WD~ADAMTS2,14881709]]'
+- '[[_Standards/WikiData/WD~ALDH2,14911781]]'
+- '[[_Standards/WikiData/WD~CRYBG1,17816379]]'
+- '[[_Standards/WikiData/WD~ZFHX3,17832572]]'
+- '[[_Standards/WikiData/WD~IMPA2,18027905]]'
+- '[[_Standards/WikiData/WD~KALRN,18033696]]'
+- '[[_Standards/WikiData/WD~HDAC9,18034627]]'
+- '[[_Standards/WikiData/WD~ADAMTS12,18047096]]'
+- '[[_Standards/WikiData/WD~SPSB4,18048631]]'
+UMLS_CUI:
+- CL461690
+- C0751956
+medical_examination:
+- "[[_Standards/WikiData/WD~Orpington Prognostic Scale,108525687]]"
+- "[[_Standards/WikiData/WD~ROSIER scale,108525694]]"
 prevalence:
-  - 0.006
-  - 0.0024
+- 0.006
+- 0.0024
 incidence: 213
-OmegaWiki Defined Meaning: "8156"
-DiseasesDB: "2247"
-Commons category: Stroke
-disease burden: 141348082
-image: http://commons.wikimedia.org/wiki/Special:FilePath/MCA-Stroke-Brain-Humn-2A.jpg
-exact match: http://purl.obolibrary.org/obo/SYMP_0000734
-MeSH tree code:
-  - C10.228.140.300.775
-  - C14.907.253.855
+OmegaWiki_Defined_Meaning: 8156
+DiseasesDB: 2247
+Commons_category: Stroke
+disease_burden: 141348082
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/MCA-Stroke-Brain-Humn-2A.jpg"
+exact_match: "http://purl.obolibrary.org/obo/SYMP_0000734"
+MeSH_tree_code:
+- C10.228.140.300.775
+- C14.907.253.855
 ---
-
 
 ## #has_/text_of_/abstract 
 

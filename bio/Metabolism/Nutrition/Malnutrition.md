@@ -1,31 +1,30 @@
----
+﻿---
 has_id_wikidata: Q12167
-health specialty:
-  - "[[_Standards/WikiData/WD~endocrinology,162606]]"
-  - "[[_Standards/WikiData/WD~intensive care medicine,679690]]"
-  - "[[_Standards/WikiData/WD~nutrition,2138622]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~nutrition disorder,1361144]]"
-  - "[[_Standards/WikiData/WD~clinical sign,1441305]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Nutritional pathology,8096293]]"
-instance of:
-  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~failure mode,100151658]]"
-"relates to sustainable development goal, target or indicator": "[[_Standards/WikiData/WD~Target 2.2 of the Sustainable Development Goals,57590463]]"
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Mangelern%C3%A4hrung.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AD%81%E0%AC%AA%E0%AD%8B%E0%AC%B7%E0%AC%A3.wav
-facet of: "[[_Standards/WikiData/WD~poverty,10294]]"
-OmegaWiki Defined Meaning: "2232"
-U.S. National Archives Identifier: "10638452"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Kwashiorkor%206180.jpg
-exact match: http://purl.obolibrary.org/obo/HP_0004395
-UMLS CUI: C0162429
-MeSH tree code: C18.654.521
-Commons category: Malnutrition
+health_specialty:
+- '[[_Standards/WikiData/WD~endocrinology,162606]]'
+- "[[_Standards/WikiData/WD~intensive care medicine,679690]]"
+- '[[_Standards/WikiData/WD~nutrition,2138622]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~nutrition disorder,1361144]]"
+- "[[_Standards/WikiData/WD~clinical sign,1441305]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Nutritional pathology,8096293]]"
+instance_of:
+- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~failure mode,100151658]]"
+relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target 2.2 of the Sustainable Development Goals,57590463]]"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Mangelern%C3%A4hrung.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AD%81%E0%AC%AA%E0%AD%8B%E0%AC%B7%E0%AC%A3.wav"
+facet_of: '[[_Standards/WikiData/WD~poverty,10294]]'
+OmegaWiki_Defined_Meaning: 2232
+U_S_National_Archives_Identifier: 10638452
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kwashiorkor%206180.jpg"
+exact_match: "http://purl.obolibrary.org/obo/HP_0004395"
+UMLS_CUI: C0162429
+MeSH_tree_code: C18.654.521
+Commons_category: Malnutrition
 ---
-
 
 ## #has_/text_of_/abstract 
 

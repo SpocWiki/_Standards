@@ -1,48 +1,48 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21990
 has_id_wikidata: Q1872
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox americium,8085709]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Americium%20microscope.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-am%C3%A9ricium.wav
-EC number: 231-144-4
-Dewey Decimal Classification: "546.441"
-CAS Registry Number: 7440-35-9
-MeSH tree code:
-  - D01.268.271.100.050
-  - D01.268.556.037
-  - D01.496.749.305.100.050
-  - D01.552.020.086
-  - D01.552.544.037
-DSSTOX compound identifier: DTXCID6047658
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox americium,8085709]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Americium%20microscope.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-am%C3%A9ricium.wav"
+EC_number: 231-144-4
+Dewey_Decimal_Classification: 546.441
+CAS_Registry_Number: 7440-35-9
+MeSH_tree_code:
+- D01.268.271.100.050
+- D01.268.556.037
+- D01.496.749.305.100.050
+- D01.552.020.086
+- D01.552.544.037
+DSSTOX_compound_identifier: DTXCID6047658
 InChI: InChI=1S/Am
 InChIKey: LXQXZNRPTYVCNG-UHFFFAOYSA-N
 UNII: VW92PHU2UY
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20146.jpg
-named after: "[[_Standards/WikiData/WD~Americas,828]]"
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-ionic radius:
-  - 0.85
-  - 0.95
-  - 0.98
-  - 1.09
-atomic number: 95
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20146.jpg"
+named_after: '[[_Standards/WikiData/WD~Americas,828]]'
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+ionic_radius:
+- 0.85
+- 0.95
+- 0.98
+- 1.09
+atomic_number: 95
 electronegativity: 1.13
 mass: 243
-discoverer or inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
-chemical formula: Am
-element symbol: Am
-PubChem CID: "23966"
-OmegaWiki Defined Meaning: "155847"
-time of discovery or invention: 1944-01-01T00:00:00Z
-canonical SMILES: "[Am]"
-Unicode character: 鋂
-Commons gallery: Americium
-Commons category: Americium
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+chemical_formula: Am
+element_symbol: Am
+PubChem_CID: 23966
+OmegaWiki_Defined_Meaning: 155847
+time_of_discovery_or_invention: "1944-01-01T00:00:00Z"
+canonical_SMILES: '[Am]'
+Unicode_character: 鋂
+Commons_gallery: Americium
+Commons_category: Americium
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Americium,1872]] 

@@ -1,36 +1,35 @@
----
+﻿---
 has_id_wikidata: Q11197
-approximation algorithm: "[[_Standards/WikiData/WD~CORDIC,116076]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~John Napier,159592]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~binary operation,164307]]"
-  - "[[_Standards/WikiData/WD~multivalued function,629085]]"
-  - "[[_Standards/WikiData/WD~transcendental function,864333]]"
-opposite of: "[[_Standards/WikiData/WD~exponential function,168698]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~The Art of Computer Programming, Volume 1_ Fundamental Algorithms, 3rd edition,47755251]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-2_2019 Quantities and units — Part 2_ Mathematics,109490582]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-instance of: "[[_Standards/WikiData/WD~type of mathematical function,47279819]]"
-OmegaWiki Defined Meaning: "1443315"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Logaritmo.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Mplwp%20log2e10.svg
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20approximation%20of%20natural%20logarithm.gif
-Stack Exchange tag: https://stackoverflow.com/tags/logarithm
-Commons gallery: Logarithm
-Commons category: Logarithm
+approximation_algorithm: '[[_Standards/WikiData/WD~CORDIC,116076]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~John Napier,159592]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~binary operation,164307]]"
+- "[[_Standards/WikiData/WD~multivalued function,629085]]"
+- "[[_Standards/WikiData/WD~transcendental function,864333]]"
+opposite_of: "[[_Standards/WikiData/WD~exponential function,168698]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~The Art of Computer Programming, Volume 1_ Fundamental Algorithms, 3rd edition,47755251]]"
+- "[[_Standards/WikiData/WD~ISO 80000-2_2019 Quantities and units — Part 2_ Mathematics,109490582]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+instance_of: "[[_Standards/WikiData/WD~type of mathematical function,47279819]]"
+OmegaWiki_Defined_Meaning: 1443315
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Logaritmo.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mplwp%20log2e10.svg"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20approximation%20of%20natural%20logarithm.gif"
+Stack_Exchange_tag: "https://stackoverflow.com/tags/logarithm"
+Commons_gallery: Logarithm
+Commons_category: Logarithm
 subreddit: Logarithms
-Krugosvet article: nauka_i_tehnika/matematika/LOGARIFM.html
+Krugosvet_article: nauka_i_tehnika/matematika/LOGARIFM.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

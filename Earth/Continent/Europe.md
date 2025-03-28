@@ -1,16 +1,14 @@
 ﻿---
 type: Continent
 icon: flag-eu
-has_id_wikidata: Q46 
+has_id_wikidata: Q46
 SpocWebEntityId: 1111
-'confidential:': public
+confidential_: public
 aliases:
-    - Europa
+- Europa
 tags:
-    - geo/Continent
+- geo/Continent
 isDeleted: false
-icon: fas_earth_europe
-icon: flag-eu 
 ---
 
 # [[Europe]] 

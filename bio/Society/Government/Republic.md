@@ -1,24 +1,24 @@
----
+﻿---
 has_id_wikidata: Q7270
-instance of:
-  - "[[_Standards/WikiData/WD~form of state,183039]]"
-  - "[[_Standards/WikiData/WD~form of government,1307214]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-different from: "[[_Standards/WikiData/WD~Republika,1769193]]"
-named after: "[[_Standards/WikiData/WD~Res publica,1994847]]"
-subclass of: "[[_Standards/WikiData/WD~regime,5589178]]"
-has list: "[[_Standards/WikiData/WD~list of republics,6636489]]"
-opposite of: "[[_Standards/WikiData/WD~monarchic system,22676587]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Forms%20of%20government.svg
-U.S. National Archives Identifier: "10644306"
-OmegaWiki Defined Meaning: "154847"
-Dewey Decimal Classification:
-  - "321.804"
-  - "321.86"
-Commons category: Republic
+instance_of:
+- "[[_Standards/WikiData/WD~form of state,183039]]"
+- "[[_Standards/WikiData/WD~form of government,1307214]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+different_from: '[[_Standards/WikiData/WD~Republika,1769193]]'
+named_after: "[[_Standards/WikiData/WD~Res publica,1994847]]"
+subclass_of: '[[_Standards/WikiData/WD~regime,5589178]]'
+has_list: "[[_Standards/WikiData/WD~list of republics,6636489]]"
+opposite_of: "[[_Standards/WikiData/WD~monarchic system,22676587]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Forms%20of%20government.svg"
+U_S_National_Archives_Identifier: 10644306
+OmegaWiki_Defined_Meaning: 154847
+Dewey_Decimal_Classification:
+- 321.804
+- 321.86
+Commons_category: Republic
 ---
 
 Most modern democracies are also republics. 

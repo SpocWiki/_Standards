@@ -1,64 +1,65 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21972
 has_id_wikidata: Q751
-part of:
-  - "[[_Standards/WikiData/WD~group 8,202224]]"
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-subclass of: "[[_Standards/WikiData/WD~platinum group,223995]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
-  - "[[_Standards/WikiData/WD~Smithson Tennant,377800]]"
-named after: "[[_Standards/WikiData/WD~odor,485537]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopaedia Hebraica,751026]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-UMLS CUI: C0029383
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20osmium%20collides%20with%20each%20other%20and%20makes%20a%20crisp%20sound.webm
-Common Procurement Vocabulary code:
-  - 14792000-9
-  - "14792000"
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-oxidation state: 4
+part_of:
+- "[[_Standards/WikiData/WD~group 8,202224]]"
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+subclass_of: "[[_Standards/WikiData/WD~platinum group,223995]]"
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
+- "[[_Standards/WikiData/WD~Smithson Tennant,377800]]"
+named_after: '[[_Standards/WikiData/WD~odor,485537]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopaedia Hebraica,751026]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+UMLS_CUI: C0029383
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20osmium%20collides%20with%20each%20other%20and%20makes%20a%20crisp%20sound.webm"
+Common_Procurement_Vocabulary_code:
+- 14792000-9
+- 14792000
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+oxidation_state: 4
 electronegativity: 2.2
-ionic radius:
-  - 0.39
-  - 0.55
-  - 0.58
-  - 0.63
-atomic number: 76
+ionic_radius:
+- 0.39
+- 0.55
+- 0.58
+- 0.63
+atomic_number: 76
 mass: 190.23
-ZVG number: "7760"
-Gmelin number: "16234"
-PubChem CID: "23937"
-chemical formula: Os
-element symbol: Os
-OmegaWiki Defined Meaning: "340604"
-Commons gallery: Osmium
-Commons category: Osmium
-time of discovery or invention: 1804-01-01T00:00:00Z
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Osmium%20crystals.jpg
-canonical SMILES: "[Os]"
-electron configuration: "[Xe] 4f¹⁴ 5d⁶ 6s²"
-EC number: 231-114-0
+ZVG_number: 7760
+Gmelin_number: 16234
+PubChem_CID: 23937
+chemical_formula: Os
+element_symbol: Os
+OmegaWiki_Defined_Meaning: 340604
+Commons_gallery: Osmium
+Commons_category: Osmium
+time_of_discovery_or_invention: "1804-01-01T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Osmium%20crystals.jpg"
+canonical_SMILES: '[Os]'
+electron_configuration: "[Xe] 4f¹⁴ 5d⁶ 6s²"
+EC_number: 231-114-0
 UNII: 2E7M255OPY
-CAS Registry Number: 7440-04-2
-CPV Supplementary code: AA41
-MeSH tree code:
-  - D01.268.556.660
-  - D01.268.956.702
-  - D01.552.544.660
-DSSTOX compound identifier: DTXCID7047643
-Wolfram Language entity code: Entity["Mineral", "Osmium"]
+CAS_Registry_Number: 7440-04-2
+CPV_Supplementary_code: AA41
+MeSH_tree_code:
+- D01.268.556.660
+- D01.268.956.702
+- D01.552.544.660
+DSSTOX_compound_identifier: DTXCID7047643
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Osmium\"]"
 InChI: InChI=1S/Os
 InChIKey: SYQBFIAQOQZEGI-UHFFFAOYSA-N
-Unicode character: 鋨
+Unicode_character: 鋨
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Osmium,751]] 
 

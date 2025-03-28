@@ -1,54 +1,54 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21993
 has_id_wikidata: Q1888
-location of discovery: "[[_Standards/WikiData/WD~University of California, Berkeley,168756]]"
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
-  - "[[_Standards/WikiData/WD~Kenneth Street Jr.,1989591]]"
-  - "[[_Standards/WikiData/WD~Stanley Gerald Thompson,3068373]]"
-  - "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
-instance of:
-  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Infobox californium,8085325]]"
-electron configuration: "[Rn] 5f¹⁰ 7s²"
-Dewey Decimal Classification: "546.448"
-CAS Registry Number: 7440-71-3
+location_of_discovery: "[[_Standards/WikiData/WD~University of California, Berkeley,168756]]"
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
+- "[[_Standards/WikiData/WD~Kenneth Street Jr.,1989591]]"
+- "[[_Standards/WikiData/WD~Stanley Gerald Thompson,3068373]]"
+- "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+instance_of:
+- "[[_Standards/WikiData/WD~synthetic element,755992]]"
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox californium,8085325]]"
+electron_configuration: "[Rn] 5f¹⁰ 7s²"
+Dewey_Decimal_Classification: 546.448
+CAS_Registry_Number: 7440-71-3
 UNII: 975X05H15A
-MeSH tree code:
-  - D01.268.271.100.150
-  - D01.268.556.156
-  - D01.496.749.305.100.150
-  - D01.552.020.200
-  - D01.552.544.156
-DSSTOX compound identifier: DTXCID00147883
+MeSH_tree_code:
+- D01.268.271.100.150
+- D01.268.556.156
+- D01.496.749.305.100.150
+- D01.552.020.200
+- D01.552.544.156
+DSSTOX_compound_identifier: DTXCID00147883
 InChIKey: HGLDOAKPQXAFKI-UHFFFAOYSA-N
 InChI: InChI=1S/Cf
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-UMLS CUI: C0006758
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20143.jpg
-named after: "[[_Standards/WikiData/WD~California,99]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+UMLS_CUI: C0006758
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20143.jpg"
+named_after: '[[_Standards/WikiData/WD~California,99]]'
 electronegativity: 1.3
-ionic radius:
-  - 0.82
-  - 0.92
-  - 0.95
-atomic number: 98
+ionic_radius:
+- 0.82
+- 0.92
+- 0.95
+atomic_number: 98
 density: 15.1
-melting point: 1173
-PubChem CID: "23997"
-OmegaWiki Defined Meaning: "156905"
-Commons category: Californium
-canonical SMILES: "[Cf]"
-chemical formula: Cf
-element symbol: Cf
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg
-time of discovery or invention: 1950-01-01T00:00:00Z
-Unicode character: 鉲
+melting_point: 1173
+PubChem_CID: 23997
+OmegaWiki_Defined_Meaning: 156905
+Commons_category: Californium
+canonical_SMILES: '[Cf]'
+chemical_formula: Cf
+element_symbol: Cf
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg"
+time_of_discovery_or_invention: "1950-01-01T00:00:00Z"
+Unicode_character: 鉲
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Californium,1888]] 

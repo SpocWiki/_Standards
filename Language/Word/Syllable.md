@@ -1,32 +1,31 @@
----
+﻿---
 has_id_wikidata: Q8188
-subclass of:
-  - "[[_Standards/WikiData/WD~phone,202064]]"
-  - "[[_Standards/WikiData/WD~structure,6671777]]"
-  - "[[_Standards/WikiData/WD~linguistic unit,11953984]]"
-different from:
-  - "[[_Standards/WikiData/WD~mora,521164]]"
-  - "[[_Standards/WikiData/WD~phoneme,8183]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-Commons category: Syllable
-has part(s):
-  - "[[_Standards/WikiData/WD~onset,72383392]]"
-  - "[[_Standards/WikiData/WD~rime,72385898]]"
-  - "[[_Standards/WikiData/WD~phoneme,8183]]"
-  - "[[_Standards/WikiData/WD~letter,9788]]"
-  - "[[_Standards/WikiData/WD~sound,11461]]"
-  - "[[_Standards/WikiData/WD~vowel,36244]]"
-  - "[[_Standards/WikiData/WD~consonant,38035]]"
-instance of: "[[_Standards/WikiData/WD~unit of speech,115820013]]"
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Syllable.svg
-Krugosvet article: gumanitarnye_nauki/lingvistika/SLOG.html
-part of: "[[_Standards/WikiData/WD~word,8171]]"
-notation: "[[_Standards/WikiData/WD~Σ,14413]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~phone,202064]]'
+- '[[_Standards/WikiData/WD~structure,6671777]]'
+- "[[_Standards/WikiData/WD~linguistic unit,11953984]]"
+different_from:
+- '[[_Standards/WikiData/WD~mora,521164]]'
+- '[[_Standards/WikiData/WD~phoneme,8183]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+Commons_category: Syllable
+has_part_s_:
+- '[[_Standards/WikiData/WD~onset,72383392]]'
+- '[[_Standards/WikiData/WD~rime,72385898]]'
+- '[[_Standards/WikiData/WD~phoneme,8183]]'
+- '[[_Standards/WikiData/WD~letter,9788]]'
+- '[[_Standards/WikiData/WD~sound,11461]]'
+- '[[_Standards/WikiData/WD~vowel,36244]]'
+- '[[_Standards/WikiData/WD~consonant,38035]]'
+instance_of: "[[_Standards/WikiData/WD~unit of speech,115820013]]"
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Syllable.svg"
+Krugosvet_article: gumanitarnye_nauki/lingvistika/SLOG.html
+part_of: '[[_Standards/WikiData/WD~word,8171]]'
+notation: '[[_Standards/WikiData/WD~Σ,14413]]'
 ---
-
 
 ## #has_/text_of_/abstract 
 

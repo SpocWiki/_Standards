@@ -1,154 +1,153 @@
----
+﻿---
 has_id_wikidata: Q48
 type: Continent
 confidential: public
-has_id_wikidata: Q48 
 SpocWebEntityId: 27161
 tags:
-    - geo/Continent
+- geo/Continent
 isDeleted: false
 icon: earth_asia
-located in time zone:
-  - "[[_Standards/WikiData/WD~Korea Standard Time,76133]]"
-  - "[[_Standards/WikiData/WD~time in China,187189]]"
-  - "[[_Standards/WikiData/WD~Eastern European Time,190252]]"
-  - "[[_Standards/WikiData/WD~Magadan Time,385504]]"
-  - "[[_Standards/WikiData/WD~Indian Standard Time,604055]]"
-  - "[[_Standards/WikiData/WD~Vladivostok Time,632994]]"
-  - "[[_Standards/WikiData/WD~Taiwan time,712168]]"
-  - "[[_Standards/WikiData/WD~Japan Standard Time,909085]]"
-  - "[[_Standards/WikiData/WD~Asia_Thimphu,1087393]]"
-  - "[[_Standards/WikiData/WD~Pakistan Standard Time,2234548]]"
-  - "[[_Standards/WikiData/WD~Yekaterinburg Time,2332010]]"
-  - "[[_Standards/WikiData/WD~Irkutsk Time,2347353]]"
-  - "[[_Standards/WikiData/WD~Yakutsk Time,2351250]]"
-  - "[[_Standards/WikiData/WD~Krasnoyarsk Time,2351310]]"
-  - "[[_Standards/WikiData/WD~Iran Standard Time Zone,2392297]]"
-  - "[[_Standards/WikiData/WD~Israel Standard Time,2583609]]"
-  - "[[_Standards/WikiData/WD~Singapore Standard Time,3244578]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan Time,3246553]]"
-  - "[[_Standards/WikiData/WD~Bangladesh Standard Time,3248716]]"
-  - "[[_Standards/WikiData/WD~Time in Malaysia,3272978]]"
-  - "[[_Standards/WikiData/WD~ASEAN Common Time,3273861]]"
-  - "[[_Standards/WikiData/WD~Nepal Standard Time,3297477]]"
-  - "[[_Standards/WikiData/WD~Sri Lanka Standard Time,3522509]]"
-  - "[[_Standards/WikiData/WD~Philippine Standard Time,3543509]]"
-  - "[[_Standards/WikiData/WD~Armenia Time,4127120]]"
-  - "[[_Standards/WikiData/WD~Hong Kong Time,5895100]]"
-  - "[[_Standards/WikiData/WD~Indonesia Western Standard Time,7458035]]"
-  - "[[_Standards/WikiData/WD~Indonesia Central Standard Time,7458046]]"
-  - "[[_Standards/WikiData/WD~UTC+06_00,6906]]"
-instance of:
-  - "[[_Standards/WikiData/WD~geographic region,82794]]"
-  - "[[_Standards/WikiData/WD~part of the world,2418896]]"
-  - "[[_Standards/WikiData/WD~continent,5107]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~Eastern Hemisphere,186198]]"
-named after: "[[_Standards/WikiData/WD~Asia,210718]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Church Encyclopedia,9253865]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Great dictionary of geographical names,113510146]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-studied in:
-  - "[[_Standards/WikiData/WD~oriental studies,476294]]"
-  - "[[_Standards/WikiData/WD~Asian studies,4806809]]"
-history of topic: "[[_Standards/WikiData/WD~history of Asia,627531]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~South Asia,771405]]"
-  - "[[_Standards/WikiData/WD~Middle East,7204]]"
-  - "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
-  - "[[_Standards/WikiData/WD~East Asia,27231]]"
-  - "[[_Standards/WikiData/WD~Central Asia,27275]]"
-  - "[[_Standards/WikiData/WD~West Asia,27293]]"
-  - "[[_Standards/WikiData/WD~North Asia,27329]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Asia,1184845]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Asia,2001617]]"
-part of:
-  - "[[_Standards/WikiData/WD~Ostfeste,2035462]]"
-  - "[[_Standards/WikiData/WD~Afro-Asia,125965270]]"
-  - "[[_Standards/WikiData/WD~Eurasia,5401]]"
-  - "[[_Standards/WikiData/WD~Earth,2]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Asia,3044208]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Asia topic,6688407]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Asia,7112190]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Asia,8252068]]"
-different from: "[[_Standards/WikiData/WD~Azja,9163217]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828169,22828169]]"
-coordinate location: Point(87.331111111 43.681111111)
-Baidu Tieba name: 亚洲
-Provenio UUID: 3cd537fd-ecac-4ecf-8ff1-156aa3401bf6
-BHCL UUID: a3a78752-7575-47d8-ab1f-5bd198ae7821
-UMLS CUI: C0003980
-coordinates of southernmost point: Point(122.87475 -11.007561111)
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Everest%20Panorama%20banner.jpg
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~Korea Standard Time,76133]]"
+- "[[_Standards/WikiData/WD~time in China,187189]]"
+- "[[_Standards/WikiData/WD~Eastern European Time,190252]]"
+- "[[_Standards/WikiData/WD~Magadan Time,385504]]"
+- "[[_Standards/WikiData/WD~Indian Standard Time,604055]]"
+- "[[_Standards/WikiData/WD~Vladivostok Time,632994]]"
+- "[[_Standards/WikiData/WD~Taiwan time,712168]]"
+- "[[_Standards/WikiData/WD~Japan Standard Time,909085]]"
+- '[[_Standards/WikiData/WD~Asia_Thimphu,1087393]]'
+- "[[_Standards/WikiData/WD~Pakistan Standard Time,2234548]]"
+- "[[_Standards/WikiData/WD~Yekaterinburg Time,2332010]]"
+- "[[_Standards/WikiData/WD~Irkutsk Time,2347353]]"
+- "[[_Standards/WikiData/WD~Yakutsk Time,2351250]]"
+- "[[_Standards/WikiData/WD~Krasnoyarsk Time,2351310]]"
+- "[[_Standards/WikiData/WD~Iran Standard Time Zone,2392297]]"
+- "[[_Standards/WikiData/WD~Israel Standard Time,2583609]]"
+- "[[_Standards/WikiData/WD~Singapore Standard Time,3244578]]"
+- "[[_Standards/WikiData/WD~Azerbaijan Time,3246553]]"
+- "[[_Standards/WikiData/WD~Bangladesh Standard Time,3248716]]"
+- "[[_Standards/WikiData/WD~Time in Malaysia,3272978]]"
+- "[[_Standards/WikiData/WD~ASEAN Common Time,3273861]]"
+- "[[_Standards/WikiData/WD~Nepal Standard Time,3297477]]"
+- "[[_Standards/WikiData/WD~Sri Lanka Standard Time,3522509]]"
+- "[[_Standards/WikiData/WD~Philippine Standard Time,3543509]]"
+- "[[_Standards/WikiData/WD~Armenia Time,4127120]]"
+- "[[_Standards/WikiData/WD~Hong Kong Time,5895100]]"
+- "[[_Standards/WikiData/WD~Indonesia Western Standard Time,7458035]]"
+- "[[_Standards/WikiData/WD~Indonesia Central Standard Time,7458046]]"
+- '[[_Standards/WikiData/WD~UTC+06_00,6906]]'
+instance_of:
+- "[[_Standards/WikiData/WD~geographic region,82794]]"
+- "[[_Standards/WikiData/WD~part of the world,2418896]]"
+- '[[_Standards/WikiData/WD~continent,5107]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Eastern Hemisphere,186198]]"
+named_after: '[[_Standards/WikiData/WD~Asia,210718]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Church Encyclopedia,9253865]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great dictionary of geographical names,113510146]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+studied_in:
+- "[[_Standards/WikiData/WD~oriental studies,476294]]"
+- "[[_Standards/WikiData/WD~Asian studies,4806809]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Asia,627531]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~South Asia,771405]]"
+- "[[_Standards/WikiData/WD~Middle East,7204]]"
+- "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
+- "[[_Standards/WikiData/WD~East Asia,27231]]"
+- "[[_Standards/WikiData/WD~Central Asia,27275]]"
+- "[[_Standards/WikiData/WD~West Asia,27293]]"
+- "[[_Standards/WikiData/WD~North Asia,27329]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Asia,1184845]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Asia,2001617]]"
+part_of:
+- '[[_Standards/WikiData/WD~Ostfeste,2035462]]'
+- '[[_Standards/WikiData/WD~Afro-Asia,125965270]]'
+- '[[_Standards/WikiData/WD~Eurasia,5401]]'
+- '[[_Standards/WikiData/WD~Earth,2]]'
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Asia,3044208]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Asia topic,6688407]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Asia,7112190]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Asia,8252068]]'
+different_from: '[[_Standards/WikiData/WD~Azja,9163217]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828169,22828169]]'
+coordinate_location: "Point(87.331111111 43.681111111)"
+Baidu_Tieba_name: 亚洲
+Provenio_UUID: 3cd537fd-ecac-4ecf-8ff1-156aa3401bf6
+BHCL_UUID: a3a78752-7575-47d8-ab1f-5bd198ae7821
+UMLS_CUI: C0003980
+coordinates_of_southernmost_point: "Point(122.87475 -11.007561111)"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Everest%20Panorama%20banner.jpg"
 demonym:
-  - Áiseach
-  - asiática
-  - asiáticos
-  - asiáticu
-  - asiátiques
-  - asiatisch
-  - Aziano
-  - Asiatique
-  - एशियाई
-  - ázsiai
-  - asiatica
-  - asiatiche
-  - asiatici
-  - asiatico
-  - Aziaat
-  - азиаты
-  - Asian
-  - آسيوي
-MeSH tree code: Z01.252
-Dewey Decimal Classification: 2--5
+- Áiseach
+- asiática
+- asiáticos
+- asiáticu
+- asiátiques
+- asiatisch
+- Aziano
+- Asiatique
+- एशियाई
+- ázsiai
+- asiatica
+- asiatiche
+- asiatici
+- asiatico
+- Aziaat
+- азиаты
+- Asian
+- آسيوي
+MeSH_tree_code: Z01.252
+Dewey_Decimal_Classification: 2--5
 Libris-URI: 42gjht4n0gm3kgk
-Colon Classification: SG--4
-coordinates of westernmost point: Point(25.665472222 40.125)
-highest point: "[[_Standards/WikiData/WD~Mount Everest,513]]"
-lowest point: "[[_Standards/WikiData/WD~Dead Sea,23883]]"
-top-level Internet domain: "[[_Standards/WikiData/WD~.asia,31837]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-number of out-of-school children: 143000000
-M49 code: "142"
-OmegaWiki Defined Meaning: "265"
-IAB code: "1221"
-PM20 geo code: B1
+Colon_Classification: SG--4
+coordinates_of_westernmost_point: "Point(25.665472222 40.125)"
+highest_point: "[[_Standards/WikiData/WD~Mount Everest,513]]"
+lowest_point: "[[_Standards/WikiData/WD~Dead Sea,23883]]"
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.asia,31837]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+number_of_out-of-school_children: 143000000
+M49_code: 142
+OmegaWiki_Defined_Meaning: 265
+IAB_code: 1221
+PM20_geo_code: B1
 area: 44614500
-Commons category: Asia
-Archive of Our Own tag: Asia
-Commons gallery: Asia
+Commons_category: Asia
+Archive_of_Our_Own_tag: Asia
+Commons_gallery: Asia
 population: 4164252000
-Wikitribune category: asia
-GitHub topic: asia
-coordinates of easternmost point: Point(-169.65 66.08)
-coordinates of northernmost point: Point(59.239444444 81.843055555)
-geoshape: http://commons.wikimedia.org/data/main/Data:Asia+Flickr.map
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A2%D8%B3%DB%8C%D8%A7.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Jer-%C3%82sie.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-azia.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/La-cls-Asia.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%8F%E0%A8%B8%E0%A8%BC%E0%A9%80%E0%A8%86.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Asia.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%86%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BE.ogg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Asia%20%28orthographic%20projection%29.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Asia%20%28orthographic%20projection%29.svg
-exact match: http://cv.iptc.org/newscodes/worldregion/r142
-Stack Exchange tag: https://opendata.stackexchange.com/tags/asia
-U.S. National Archives Identifier: "10035693"
+Wikitribune_category: asia
+GitHub_topic: asia
+coordinates_of_easternmost_point: "Point(-169.65 66.08)"
+coordinates_of_northernmost_point: "Point(59.239444444 81.843055555)"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Asia+Flickr.map"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A2%D8%B3%DB%8C%D8%A7.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Jer-%C3%82sie.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ka-azia.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/La-cls-Asia.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%8F%E0%A8%B8%E0%A8%BC%E0%A9%80%E0%A8%86.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Asia.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%86%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BE.ogg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Asia%20%28orthographic%20projection%29.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Asia%20%28orthographic%20projection%29.svg"
+exact_match: "http://cv.iptc.org/newscodes/worldregion/r142"
+Stack_Exchange_tag: "https://opendata.stackexchange.com/tags/asia"
+U_S_National_Archives_Identifier: 10035693
 ---
 
 # [[Asia]] 

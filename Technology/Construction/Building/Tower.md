@@ -1,40 +1,39 @@
----
+﻿---
 has_id_wikidata: Q12518
-subclass of:
-  - "[[_Standards/WikiData/WD~architectural structure,811979]]"
-  - "[[_Standards/WikiData/WD~building,41176]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-topic's main template: "[[_Standards/WikiData/WD~Q22845830,22845830]]"
-instance of: "[[_Standards/WikiData/WD~type of structure,111972893]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons%20%28cropped%29.jpg
-properties for this type:
-  - located in time zone
-  - inception
-  - official website
-  - heritage designation
-  - width
-  - height
-  - diameter
-  - architect
-  - located in the administrative territorial entity
-  - architectural style
-model item: "[[_Standards/WikiData/WD~Eiffel Tower,243]]"
-Nomenclature for Museum Cataloging: "958"
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20232996%20cc%20Castle.svg
-equivalent class: http://dbpedia.org/ontology/Tower
-OmegaWiki Defined Meaning: "6890"
-GeoNames feature code: S.TOWR
-OpenStreetMap tag or key:
-  - Tag:building=tower
-  - Tag:man_made=tower
-Commons gallery: Tower
-Commons category: Towers
+subclass_of:
+- "[[_Standards/WikiData/WD~architectural structure,811979]]"
+- '[[_Standards/WikiData/WD~building,41176]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q22845830,22845830]]'
+instance_of: "[[_Standards/WikiData/WD~type of structure,111972893]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons%20%28cropped%29.jpg"
+properties_for_this_type:
+- "located in time zone"
+- inception
+- "official website"
+- "heritage designation"
+- width
+- height
+- diameter
+- architect
+- "located in the administrative territorial entity"
+- "architectural style"
+model_item: "[[_Standards/WikiData/WD~Eiffel Tower,243]]"
+Nomenclature_for_Museum_Cataloging: 958
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20232996%20cc%20Castle.svg"
+equivalent_class: "http://dbpedia.org/ontology/Tower"
+OmegaWiki_Defined_Meaning: 6890
+GeoNames_feature_code: S.TOWR
+OpenStreetMap_tag_or_key:
+- "Tag:building=tower"
+- "Tag:man_made=tower"
+Commons_gallery: Tower
+Commons_category: Towers
 ---
-
 
 ## #has_/text_of_/abstract 
 

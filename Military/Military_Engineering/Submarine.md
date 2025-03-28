@@ -1,52 +1,51 @@
----
+﻿---
 has_id_wikidata: Q2811
-part of: "[[_Standards/WikiData/WD~water transport,155930]]"
-different from:
-  - "[[_Standards/WikiData/WD~Submarine,361183]]"
-  - "[[_Standards/WikiData/WD~Nautilus,1500360]]"
-  - "[[_Standards/WikiData/WD~U-Boot,16104133]]"
-said to be the same as: "[[_Standards/WikiData/WD~U-boat,428661]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-source of energy:
-  - "[[_Standards/WikiData/WD~air-independent propulsion,789826]]"
-  - "[[_Standards/WikiData/WD~diesel-electric transmission,1163778]]"
-  - "[[_Standards/WikiData/WD~nuclear power,12739]]"
-made from material:
-  - "[[_Standards/WikiData/WD~carbon steel,967996]]"
-  - "[[_Standards/WikiData/WD~alloy steel,1070521]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_United States O class submarine,5872225]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox submarine,11182407]]"
-  - "[[_Standards/WikiData/WD~Template_German Type UE I submarines,22726919]]"
-  - "[[_Standards/WikiData/WD~Q22897150,22897150]]"
-  - "[[_Standards/WikiData/WD~Q22897157,22897157]]"
-  - "[[_Standards/WikiData/WD~Q22900301,22900301]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~vessel,16391167]]"
-  - "[[_Standards/WikiData/WD~underwater vehicle,19623198]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~military equipment,18643213]]"
+part_of: "[[_Standards/WikiData/WD~water transport,155930]]"
+different_from:
+- '[[_Standards/WikiData/WD~Submarine,361183]]'
+- '[[_Standards/WikiData/WD~Nautilus,1500360]]'
+- '[[_Standards/WikiData/WD~U-Boot,16104133]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~U-boat,428661]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+source_of_energy:
+- "[[_Standards/WikiData/WD~air-independent propulsion,789826]]"
+- "[[_Standards/WikiData/WD~diesel-electric transmission,1163778]]"
+- "[[_Standards/WikiData/WD~nuclear power,12739]]"
+made_from_material:
+- "[[_Standards/WikiData/WD~carbon steel,967996]]"
+- "[[_Standards/WikiData/WD~alloy steel,1070521]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_United States O class submarine,5872225]]"
+- "[[_Standards/WikiData/WD~Template_Infobox submarine,11182407]]"
+- "[[_Standards/WikiData/WD~Template_German Type UE I submarines,22726919]]"
+- '[[_Standards/WikiData/WD~Q22897150,22897150]]'
+- '[[_Standards/WikiData/WD~Q22897157,22897157]]'
+- '[[_Standards/WikiData/WD~Q22900301,22900301]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~vessel,16391167]]'
+- "[[_Standards/WikiData/WD~underwater vehicle,19623198]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~military equipment,18643213]]"
 name: Tauchboot
-instance of: "[[_Standards/WikiData/WD~submarine type,121289744]]"
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Submarine-article.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Submarine%20dive.gif
-equivalent class: http://rdf.muninn-project.org/ontologies/naval#Submarine
-exact match: http://wordnet-rdf.princeton.edu/wn30/04347754-n
-MIL-STD-2525 Symbol Identification Code: "10013500001101000000"
-Iconclass notation: 46C252
-OmegaWiki Defined Meaning: "3652"
-Nomenclature for Museum Cataloging: "12833"
-short name: U-Boot
-U.S. National Archives Identifier: "10644594"
-Commons category: Submarines
-Commons gallery: Submarine
-UNSPSC Code: "25111701"
+instance_of: "[[_Standards/WikiData/WD~submarine type,121289744]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-Submarine-article.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Submarine%20dive.gif"
+equivalent_class: "http://rdf.muninn-project.org/ontologies/naval#Submarine"
+exact_match: "http://wordnet-rdf.princeton.edu/wn30/04347754-n"
+MIL-STD-2525_Symbol_Identification_Code: 10013500001101000000
+Iconclass_notation: 46C252
+OmegaWiki_Defined_Meaning: 3652
+Nomenclature_for_Museum_Cataloging: 12833
+short_name: U-Boot
+U_S_National_Archives_Identifier: 10644594
+Commons_category: Submarines
+Commons_gallery: Submarine
+UNSPSC_Code: 25111701
 subreddit: submarines
-GitHub topic: submarine
+GitHub_topic: submarine
 ---
-
 
 ## #has_/text_of_/abstract 
 

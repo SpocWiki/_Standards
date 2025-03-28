@@ -1,18 +1,17 @@
----
+﻿---
 has_id_wikidata: Q4323994
-subclass of:
-  - "[[_Standards/WikiData/WD~motion,79782]]"
-  - "[[_Standards/WikiData/WD~physical system,1454986]]"
-contributing factor of: "[[_Standards/WikiData/WD~air pollution,131123]]"
-described by source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-produced sound: "[[_Standards/WikiData/WD~traffic noise,1748361]]"
-Commons category: Transport
-Basisklassifikation: "55.84"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Kreuzung%20B1-B96%20Berlin%20-%20Fahrbahnmarkierungen.jpg
-IPTC NewsCode: mediatopic/20000342
-Commons gallery: Traffic
+subclass_of:
+- '[[_Standards/WikiData/WD~motion,79782]]'
+- "[[_Standards/WikiData/WD~physical system,1454986]]"
+contributing_factor_of: "[[_Standards/WikiData/WD~air pollution,131123]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+produced_sound: "[[_Standards/WikiData/WD~traffic noise,1748361]]"
+Commons_category: Transport
+Basisklassifikation: 55.84
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kreuzung%20B1-B96%20Berlin%20-%20Fahrbahnmarkierungen.jpg"
+IPTC_NewsCode: mediatopic/20000342
+Commons_gallery: Traffic
 ---
-
 
 ## #has_/text_of_/abstract 
 

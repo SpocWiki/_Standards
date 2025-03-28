@@ -1,93 +1,92 @@
----
+﻿---
 has_id_wikidata: Q8434
-GitHub topic: education
+GitHub_topic: education
 subreddit: education
-PhilPapers topic: education
-image: http://commons.wikimedia.org/wiki/Special:FilePath/1887%20Bettannier%20Der%20Schwarze%20Fleck%20anagoria.jpg
-label in sign language: http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20education.ogv
-icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q8434%20noun%20225573%20ccRflor%20education.svg
-WordLift URL: http://data.thenextweb.com/tnw/entity/education
-U.S. National Archives Identifier: "10640533"
-Classification of Instructional Programs code:
-  - "13.01"
-  - "13.0101"
-  - "13"
-MeSH tree code: I02
-IPTC NewsCode: mediatopic/05000000
-Gujarati Vishwakosh entry: શિક્ષણ
-has part(s):
-  - "[[_Standards/WikiData/WD~learning,133500]]"
-  - "[[_Standards/WikiData/WD~teaching,352842]]"
-  - "[[_Standards/WikiData/WD~self-education,11613008]]"
-  - "[[_Standards/WikiData/WD~educational activity,61788126]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-partially coincident with:
-  - "[[_Standards/WikiData/WD~teaching,352842]]"
-  - "[[_Standards/WikiData/WD~education,11499482]]"
-studied in:
-  - "[[_Standards/WikiData/WD~sociology of education,829367]]"
-  - "[[_Standards/WikiData/WD~educational sciences,861641]]"
-  - "[[_Standards/WikiData/WD~educommunication,8772471]]"
-  - "[[_Standards/WikiData/WD~pedagogy,7922]]"
-practiced by:
-  - "[[_Standards/WikiData/WD~educator,974144]]"
-  - "[[_Standards/WikiData/WD~lecturer,1569495]]"
-  - "[[_Standards/WikiData/WD~social educator,5819949]]"
-  - "[[_Standards/WikiData/WD~educational personnel,93918935]]"
-  - "[[_Standards/WikiData/WD~assistant (teacher),106542609]]"
-  - "[[_Standards/WikiData/WD~teacher,37226]]"
-facet of: "[[_Standards/WikiData/WD~paedology,2120372]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~social process,2305441]]"
-  - "[[_Standards/WikiData/WD~knowledge sharing,6423395]]"
-  - "[[_Standards/WikiData/WD~service,7406919]]"
-has effect:
-  - "[[_Standards/WikiData/WD~upbringing,2353731]]"
-  - "[[_Standards/WikiData/WD~education,11499482]]"
-instance of:
-  - "[[_Standards/WikiData/WD~branch of science,2465832]]"
-  - "[[_Standards/WikiData/WD~topic,26256810]]"
-  - "[[_Standards/WikiData/WD~service type,130303173]]"
-different from: "[[_Standards/WikiData/WD~Education,5340858]]"
-said to be the same as: "[[_Standards/WikiData/WD~human resource development,5366892]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of education,7112612]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Education,8486648]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Infobox education in country,11838819]]"
-  - "[[_Standards/WikiData/WD~Template_Education,14400727]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Education,13359951]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q22828648,22828648]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~Wikidata_ WikiProject Systemic Racism Knowledge Graph,120754096]]"
-Provenio UUID: dfeed428-0c3a-4831-b8df-22ff6aef549f
-Mastodon instance URL: https://mastodon.education
-has characteristic: "[[_Standards/WikiData/WD~educational stage,18189]]"
-social media followers: 21700
-Universal Decimal Classification: "37"
-IAB code:
-  - "92"
-  - "132"
-  - "1013"
-Colon Classification: T
-Dewey Decimal Classification: "370"
-OmegaWiki Defined Meaning: "1087"
-All-Science Journal Classification Codes: "3304"
-Chinese Library Classification: G4
-Commons category: Education
-Iconclass notation: 49A
+PhilPapers_topic: education
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/1887%20Bettannier%20Der%20Schwarze%20Fleck%20anagoria.jpg"
+label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20education.ogv"
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Q8434%20noun%20225573%20ccRflor%20education.svg"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/education"
+U_S_National_Archives_Identifier: 10640533
+Classification_of_Instructional_Programs_code:
+- 13.01
+- 13.0101
+- 13
+MeSH_tree_code: I02
+IPTC_NewsCode: mediatopic/05000000
+Gujarati_Vishwakosh_entry: શિક્ષણ
+has_part_s_:
+- '[[_Standards/WikiData/WD~learning,133500]]'
+- '[[_Standards/WikiData/WD~teaching,352842]]'
+- '[[_Standards/WikiData/WD~self-education,11613008]]'
+- "[[_Standards/WikiData/WD~educational activity,61788126]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+partially_coincident_with:
+- '[[_Standards/WikiData/WD~teaching,352842]]'
+- '[[_Standards/WikiData/WD~education,11499482]]'
+studied_in:
+- "[[_Standards/WikiData/WD~sociology of education,829367]]"
+- "[[_Standards/WikiData/WD~educational sciences,861641]]"
+- '[[_Standards/WikiData/WD~educommunication,8772471]]'
+- '[[_Standards/WikiData/WD~pedagogy,7922]]'
+practiced_by:
+- '[[_Standards/WikiData/WD~educator,974144]]'
+- '[[_Standards/WikiData/WD~lecturer,1569495]]'
+- "[[_Standards/WikiData/WD~social educator,5819949]]"
+- "[[_Standards/WikiData/WD~educational personnel,93918935]]"
+- "[[_Standards/WikiData/WD~assistant (teacher),106542609]]"
+- '[[_Standards/WikiData/WD~teacher,37226]]'
+facet_of: '[[_Standards/WikiData/WD~paedology,2120372]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~social process,2305441]]"
+- "[[_Standards/WikiData/WD~knowledge sharing,6423395]]"
+- '[[_Standards/WikiData/WD~service,7406919]]'
+has_effect:
+- '[[_Standards/WikiData/WD~upbringing,2353731]]'
+- '[[_Standards/WikiData/WD~education,11499482]]'
+instance_of:
+- "[[_Standards/WikiData/WD~branch of science,2465832]]"
+- '[[_Standards/WikiData/WD~topic,26256810]]'
+- "[[_Standards/WikiData/WD~service type,130303173]]"
+different_from: '[[_Standards/WikiData/WD~Education,5340858]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~human resource development,5366892]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of education,7112612]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Education,8486648]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Infobox education in country,11838819]]"
+- '[[_Standards/WikiData/WD~Template_Education,14400727]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Education,13359951]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828648,22828648]]'
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_ WikiProject Systemic Racism Knowledge Graph,120754096]]"
+Provenio_UUID: dfeed428-0c3a-4831-b8df-22ff6aef549f
+Mastodon_instance_URL: "https://mastodon.education"
+has_characteristic: "[[_Standards/WikiData/WD~educational stage,18189]]"
+social_media_followers: 21700
+Universal_Decimal_Classification: 37
+IAB_code:
+- 92
+- 132
+- 1013
+Colon_Classification: T
+Dewey_Decimal_Classification: 370
+OmegaWiki_Defined_Meaning: 1087
+All-Science_Journal_Classification_Codes: 3304
+Chinese_Library_Classification: G4
+Commons_category: Education
+Iconclass_notation: 49A
 ---
-
 
 ## #has_/text_of_/abstract 
 

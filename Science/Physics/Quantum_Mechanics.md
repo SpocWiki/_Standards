@@ -1,55 +1,54 @@
----
+﻿---
 aliases:
-  - Quantum mechanics
+- "Quantum mechanics"
 has_id_wikidata: Q944
-short name:
-  - MQ
-  - MQ
-  - КМ
-  - QM
-  - MC
-  - CHLT
+short_name:
+- MQ
+- MQ
+- КМ
+- QM
+- MC
+- CHLT
 creator:
-  - "[[_Standards/WikiData/WD~Wolfgang Pauli,65989]]"
-  - "[[_Standards/WikiData/WD~Louis de Broglie,83331]]"
-  - "[[_Standards/WikiData/WD~John Stewart Bell,370077]]"
-  - "[[_Standards/WikiData/WD~Albert Einstein,937]]"
-  - "[[_Standards/WikiData/WD~Max Planck,9021]]"
-  - "[[_Standards/WikiData/WD~Erwin Schrödinger,9130]]"
-  - "[[_Standards/WikiData/WD~John von Neumann,17455]]"
-  - "[[_Standards/WikiData/WD~Werner Heisenberg,40904]]"
-  - "[[_Standards/WikiData/WD~Paul Dirac,47480]]"
-  - "[[_Standards/WikiData/WD~Max Born,58978]]"
-  - "[[_Standards/WikiData/WD~Pascual Jordano,61761]]"
-part of:
-  - "[[_Standards/WikiData/WD~modern physics,658544]]"
-  - "[[_Standards/WikiData/WD~quantum physics,1144457]]"
-history of topic: "[[_Standards/WikiData/WD~history of quantum mechanics,2358974]]"
-instance of:
-  - "[[_Standards/WikiData/WD~branch of physics,4162444]]"
-  - "[[_Standards/WikiData/WD~physical theory,9357058]]"
-topic's main template:
-  - "[[_Standards/WikiData/WD~Template_Quantum mechanics,6534867]]"
-  - "[[_Standards/WikiData/WD~Template_Quantum mechanics topics,19794166]]"
-described by source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-publication date: 1900-01-01T00:00:00Z
-practiced by: "[[_Standards/WikiData/WD~quantum theoretician,114964328]]"
-Baidu Tieba name: 量子力学
-UMLS CUI: C0034385
-MeSH tree code: H01.671.579.800.750
-subclass of: "[[_Standards/WikiData/WD~mechanics,41217]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%AE%20%E0%A6%AC%E0%A6%B2%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav
-Dewey Decimal Classification: "530.12"
-Commons category: Quantum mechanics
-OmegaWiki Defined Meaning: "796351"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Ondaparticula.JPG
-Stack Exchange tag: https://physics.stackexchange.com/tags/quantum-mechanics
-Iconclass notation: "49E212"
-Krugosvet article: fizika/kvantovaya-mehanika
-GitHub topic: quantum-mechanics
-PhilPapers topic: quantum-mechanics
+- "[[_Standards/WikiData/WD~Wolfgang Pauli,65989]]"
+- "[[_Standards/WikiData/WD~Louis de Broglie,83331]]"
+- "[[_Standards/WikiData/WD~John Stewart Bell,370077]]"
+- "[[_Standards/WikiData/WD~Albert Einstein,937]]"
+- "[[_Standards/WikiData/WD~Max Planck,9021]]"
+- "[[_Standards/WikiData/WD~Erwin Schrödinger,9130]]"
+- "[[_Standards/WikiData/WD~John von Neumann,17455]]"
+- "[[_Standards/WikiData/WD~Werner Heisenberg,40904]]"
+- "[[_Standards/WikiData/WD~Paul Dirac,47480]]"
+- "[[_Standards/WikiData/WD~Max Born,58978]]"
+- "[[_Standards/WikiData/WD~Pascual Jordano,61761]]"
+part_of:
+- "[[_Standards/WikiData/WD~modern physics,658544]]"
+- "[[_Standards/WikiData/WD~quantum physics,1144457]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of quantum mechanics,2358974]]"
+instance_of:
+- "[[_Standards/WikiData/WD~branch of physics,4162444]]"
+- "[[_Standards/WikiData/WD~physical theory,9357058]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Quantum mechanics,6534867]]"
+- "[[_Standards/WikiData/WD~Template_Quantum mechanics topics,19794166]]"
+described_by_source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+publication_date: "1900-01-01T00:00:00Z"
+practiced_by: "[[_Standards/WikiData/WD~quantum theoretician,114964328]]"
+Baidu_Tieba_name: 量子力学
+UMLS_CUI: C0034385
+MeSH_tree_code: H01.671.579.800.750
+subclass_of: '[[_Standards/WikiData/WD~mechanics,41217]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%AE%20%E0%A6%AC%E0%A6%B2%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav"
+Dewey_Decimal_Classification: 530.12
+Commons_category: "Quantum mechanics"
+OmegaWiki_Defined_Meaning: 796351
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ondaparticula.JPG"
+Stack_Exchange_tag: "https://physics.stackexchange.com/tags/quantum-mechanics"
+Iconclass_notation: 49E212
+Krugosvet_article: fizika/kvantovaya-mehanika
+GitHub_topic: quantum-mechanics
+PhilPapers_topic: quantum-mechanics
 ---
-
 
 ## #has_/text_of_/abstract 
 

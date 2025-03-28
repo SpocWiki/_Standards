@@ -1,73 +1,72 @@
----
+﻿---
 aliases:
-  - clothes
-  - garments
-  - apparel
-  - attire
+- clothes
+- garments
+- apparel
+- attire
 has_id_wikidata: Q11460
-has use:
-  - "[[_Standards/WikiData/WD~hygiene,162297]]"
-  - "[[_Standards/WikiData/WD~security,2526135]]"
-  - "[[_Standards/WikiData/WD~fashion,12684]]"
-manufacturer: "[[_Standards/WikiData/WD~tailor,242468]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~work,386724]]"
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~artificial physical object,8205328]]"
-  - "[[_Standards/WikiData/WD~flat object,113518695]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-has characteristic: "[[_Standards/WikiData/WD~clothing sizes,1075138]]"
-made from material:
-  - "[[_Standards/WikiData/WD~artificial leather,1792537]]"
-  - "[[_Standards/WikiData/WD~leather,286]]"
-  - "[[_Standards/WikiData/WD~textile,28823]]"
-history of topic: "[[_Standards/WikiData/WD~history of costume,2501507]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Clothing,8079042]]"
-part of:
-  - "[[_Standards/WikiData/WD~clothing industry,11828862]]"
-  - "[[_Standards/WikiData/WD~fashion,12684]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~costume component,28935403]]"
-studied in: "[[_Standards/WikiData/WD~clothing research,105812644]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
-earliest date: -170000-01-01T00:00:00Z
-UMLS CUI: C0009072
-MeSH tree code: J01.637.215
-Wikidata property:
-  - wears
-  - worn by
-Nomenclature for Museum Cataloging:
-  - "1999"
-  - "2356"
-Dewey Decimal Classification:
-  - "687"
-  - "391"
-  - "646"
-  - "646.3"
-GS1 GPC code: "67000000"
-OmegaWiki Defined Meaning: "621"
-Commons category: Clothing
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Clothes.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Clothing%20store%20banner.JPG
-U.S. National Archives Identifier: "10636632"
-Iconclass notation: 41D2
-MCN code: 6309.00.10
-Colon Classification:
-  - L:577
-  - Y:88
-IPTC NewsCode: mediatopic/20000245
-start time: -57000-01-01T00:00:00Z
+has_use:
+- '[[_Standards/WikiData/WD~hygiene,162297]]'
+- '[[_Standards/WikiData/WD~security,2526135]]'
+- '[[_Standards/WikiData/WD~fashion,12684]]'
+manufacturer: '[[_Standards/WikiData/WD~tailor,242468]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~work,386724]]'
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- "[[_Standards/WikiData/WD~artificial physical object,8205328]]"
+- "[[_Standards/WikiData/WD~flat object,113518695]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+has_characteristic: "[[_Standards/WikiData/WD~clothing sizes,1075138]]"
+made_from_material:
+- "[[_Standards/WikiData/WD~artificial leather,1792537]]"
+- '[[_Standards/WikiData/WD~leather,286]]'
+- '[[_Standards/WikiData/WD~textile,28823]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of costume,2501507]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Clothing,8079042]]'
+part_of:
+- "[[_Standards/WikiData/WD~clothing industry,11828862]]"
+- '[[_Standards/WikiData/WD~fashion,12684]]'
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~costume component,28935403]]"
+studied_in: "[[_Standards/WikiData/WD~clothing research,105812644]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
+earliest_date: "-170000-01-01T00:00:00Z"
+UMLS_CUI: C0009072
+MeSH_tree_code: J01.637.215
+Wikidata_property:
+- wears
+- "worn by"
+Nomenclature_for_Museum_Cataloging:
+- 1999
+- 2356
+Dewey_Decimal_Classification:
+- 687
+- 391
+- 646
+- 646.3
+GS1_GPC_code: 67000000
+OmegaWiki_Defined_Meaning: 621
+Commons_category: Clothing
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Clothes.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Clothing%20store%20banner.JPG"
+U_S_National_Archives_Identifier: 10636632
+Iconclass_notation: 41D2
+MCN_code: 6309.00.10
+Colon_Classification:
+- "L:577"
+- "Y:88"
+IPTC_NewsCode: mediatopic/20000245
+start_time: "-57000-01-01T00:00:00Z"
 ---
-
 
 ## #has_/text_of_/abstract 
 

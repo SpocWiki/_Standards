@@ -1,49 +1,49 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21988
 has_id_wikidata: Q1105
-part of:
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-discoverer or inventor:
-  - "[[_Standards/WikiData/WD~Philip Abelson,377815]]"
-  - "[[_Standards/WikiData/WD~Edwin McMillan,19009]]"
-different from: "[[_Standards/WikiData/WD~Neptun,1261928]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-UMLS CUI: C0027734
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20148.jpg
-named after: "[[_Standards/WikiData/WD~Neptune,332]]"
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-ionic radius:
-  - 0.72
-  - 0.75
-  - 0.87
-  - 1.01
-atomic number: 93
+part_of:
+- "[[_Standards/WikiData/WD~period 7,244979]]"
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+discoverer_or_inventor:
+- "[[_Standards/WikiData/WD~Philip Abelson,377815]]"
+- "[[_Standards/WikiData/WD~Edwin McMillan,19009]]"
+different_from: '[[_Standards/WikiData/WD~Neptun,1261928]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+UMLS_CUI: C0027734
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20148.jpg"
+named_after: '[[_Standards/WikiData/WD~Neptune,332]]'
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+ionic_radius:
+- 0.72
+- 0.75
+- 0.87
+- 1.01
+atomic_number: 93
 electronegativity: 1.36
-PubChem CID: "23933"
-chemical formula: Np
-element symbol: Np
-OmegaWiki Defined Meaning: "377199"
-Unicode character: 錼
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Neptunium2.jpg
-canonical SMILES: "[Np]"
-EC number: 231-108-8
-Dewey Decimal Classification: "546.432"
+PubChem_CID: 23933
+chemical_formula: Np
+element_symbol: Np
+OmegaWiki_Defined_Meaning: 377199
+Unicode_character: 錼
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Neptunium2.jpg"
+canonical_SMILES: '[Np]'
+EC_number: 231-108-8
+Dewey_Decimal_Classification: 546.432
 UNII: 6200K977BQ
-CAS Registry Number: 7439-99-8
-MeSH tree code:
-  - D01.268.271.100.550
-  - D01.268.556.600
-  - D01.496.749.305.100.550
-  - D01.552.020.621
-  - D01.552.544.600
-DSSTOX compound identifier: DTXCID3047639
+CAS_Registry_Number: 7439-99-8
+MeSH_tree_code:
+- D01.268.271.100.550
+- D01.268.556.600
+- D01.496.749.305.100.550
+- D01.552.020.621
+- D01.552.544.600
+DSSTOX_compound_identifier: DTXCID3047639
 InChI: InChI=1S/Np
 InChIKey: LFNLGNPSGWYGGD-UHFFFAOYSA-N
-Commons gallery: Neptunium
-Commons category: Neptunium
-time of discovery or invention: 1940-01-01T00:00:00Z
+Commons_gallery: Neptunium
+Commons_category: Neptunium
+time_of_discovery_or_invention: "1940-01-01T00:00:00Z"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Neptunium,1105]] 

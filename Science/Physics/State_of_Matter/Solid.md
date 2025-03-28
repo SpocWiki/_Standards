@@ -1,27 +1,26 @@
----
+﻿---
 has_id_wikidata: Q11438
-different from:
-  - "[[_Standards/WikiData/WD~physical object,223557]]"
-  - "[[_Standards/WikiData/WD~solid figure,937946]]"
-described by source: "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-studied in:
-  - "[[_Standards/WikiData/WD~solid-state physics,715396]]"
-  - "[[_Standards/WikiData/WD~solid mechanics,1080293]]"
-topic's main category: "[[_Standards/WikiData/WD~Q9734169,9734169]]"
-instance of:
-  - "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
-  - "[[_Standards/WikiData/WD~physical state,66591990]]"
-  - "[[_Standards/WikiData/WD~state of matter,11430]]"
-manifestation of: "[[_Standards/WikiData/WD~solid state of matter,29115074]]"
-subclass of: "[[_Standards/WikiData/WD~matter,35758]]"
-OmegaWiki Defined Meaning: "3546"
-Colon Classification: C21
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Different%20minerals.jpg
-Dewey Decimal Classification: "530.41"
-Krugosvet article: nauka_i_tehnika/fizika/TVERDOE_TELO.html
-Commons category: Solids (matter)
+different_from:
+- "[[_Standards/WikiData/WD~physical object,223557]]"
+- "[[_Standards/WikiData/WD~solid figure,937946]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+studied_in:
+- "[[_Standards/WikiData/WD~solid-state physics,715396]]"
+- "[[_Standards/WikiData/WD~solid mechanics,1080293]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9734169,9734169]]'
+instance_of:
+- "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
+- "[[_Standards/WikiData/WD~physical state,66591990]]"
+- "[[_Standards/WikiData/WD~state of matter,11430]]"
+manifestation_of: "[[_Standards/WikiData/WD~solid state of matter,29115074]]"
+subclass_of: '[[_Standards/WikiData/WD~matter,35758]]'
+OmegaWiki_Defined_Meaning: 3546
+Colon_Classification: C21
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Different%20minerals.jpg"
+Dewey_Decimal_Classification: 530.41
+Krugosvet_article: nauka_i_tehnika/fizika/TVERDOE_TELO.html
+Commons_category: "Solids (matter)"
 ---
-
 
 ## #has_/text_of_/abstract 
 

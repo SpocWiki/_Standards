@@ -1,23 +1,22 @@
----
+﻿---
 has_id_wikidata: Q9420
-studied in: "[[_Standards/WikiData/WD~cognitive science,147638]]"
-said to be the same as: "[[_Standards/WikiData/WD~thought,349047]]"
-subclass of: "[[_Standards/WikiData/WD~cognitive process,781413]]"
-has part(s): "[[_Standards/WikiData/WD~proprioception,1129066]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of thought,7112801]]"
-different from: "[[_Standards/WikiData/WD~thinking process,7784616]]"
-part of:
-  - "[[_Standards/WikiData/WD~human energy,20984829]]"
-  - "[[_Standards/WikiData/WD~psychology terminology,77468620]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8,124737635]]"
-UMLS CUI: C0039869
-Library of Congress Classification: LB1590.3-LB1590.5
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-thought.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Herkulaneischer%20Meister%20002.jpg
-MeSH tree code: F02.463.785
-Commons category: Thinking
+studied_in: "[[_Standards/WikiData/WD~cognitive science,147638]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~thought,349047]]'
+subclass_of: "[[_Standards/WikiData/WD~cognitive process,781413]]"
+has_part_s_: '[[_Standards/WikiData/WD~proprioception,1129066]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of thought,7112801]]"
+different_from: "[[_Standards/WikiData/WD~thinking process,7784616]]"
+part_of:
+- "[[_Standards/WikiData/WD~human energy,20984829]]"
+- "[[_Standards/WikiData/WD~psychology terminology,77468620]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8,124737635]]"
+UMLS_CUI: C0039869
+Library_of_Congress_Classification: LB1590.3-LB1590.5
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-thought.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Herkulaneischer%20Meister%20002.jpg"
+MeSH_tree_code: F02.463.785
+Commons_category: Thinking
 ---
-
 
 ## #has_/text_of_/abstract 
 

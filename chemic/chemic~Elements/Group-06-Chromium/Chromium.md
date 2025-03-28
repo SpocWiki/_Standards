@@ -1,117 +1,118 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21924
 has_id_wikidata: Q725
-made from material: "[[_Standards/WikiData/WD~chromite,107172]]"
-found in taxon:
-  - "[[_Standards/WikiData/WD~Rosmarinus officinalis,122679]]"
-  - "[[_Standards/WikiData/WD~Tilia,127849]]"
-  - "[[_Standards/WikiData/WD~Baccharis,133834]]"
-  - "[[_Standards/WikiData/WD~Cytisus scoparius,145781]]"
-  - "[[_Standards/WikiData/WD~Thymus serpyllum,147251]]"
-  - "[[_Standards/WikiData/WD~Cupressus sempervirens,147513]]"
-  - "[[_Standards/WikiData/WD~Centaurium erythraea,156870]]"
-  - "[[_Standards/WikiData/WD~Lamium album,157626]]"
-  - "[[_Standards/WikiData/WD~Geranium robertianum,160096]]"
-  - "[[_Standards/WikiData/WD~Passiflora,161185]]"
-  - "[[_Standards/WikiData/WD~Verbena officinalis,161417]]"
-  - "[[_Standards/WikiData/WD~Teucrium scorodonia,161748]]"
-  - "[[_Standards/WikiData/WD~Erica arborea,176647]]"
-  - "[[_Standards/WikiData/WD~Polygonum aviculare,242573]]"
-  - "[[_Standards/WikiData/WD~Cistus ladanifer,789800]]"
-  - "[[_Standards/WikiData/WD~Genista tridentata,854115]]"
-  - "[[_Standards/WikiData/WD~Hypericum androsaemum,886411]]"
-  - "[[_Standards/WikiData/WD~Cistus creticus,891305]]"
-  - "[[_Standards/WikiData/WD~Lavandula stoechas,1342976]]"
-  - "[[_Standards/WikiData/WD~Plains coreopsis,2631259]]"
-  - "[[_Standards/WikiData/WD~Vaccinium myrtillus,5413585]]"
-  - "[[_Standards/WikiData/WD~Erica umbellata,5835689]]"
-  - "[[_Standards/WikiData/WD~Streptomyces griseus,7623385]]"
-  - "[[_Standards/WikiData/WD~Glandora diffusa,15588755]]"
-  - "[[_Standards/WikiData/WD~Apium graveolens,28298]]"
-  - "[[_Standards/WikiData/WD~Cashew,34007]]"
-  - "[[_Standards/WikiData/WD~Coriandrum sativum,41611]]"
-  - "[[_Standards/WikiData/WD~cacao,42385]]"
-  - "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~allergen,186752]]"
-  - "[[_Standards/WikiData/WD~simple substance,2512777]]"
-part of:
-  - "[[_Standards/WikiData/WD~group 6,193280]]"
-  - "[[_Standards/WikiData/WD~period 4,239825]]"
-manufacturer: "[[_Standards/WikiData/WD~Pfizer,206921]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Louis Nicolas Vauquelin,333438]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Chromium,84676042]]"
-  - "[[_Standards/WikiData/WD~Enciclopedia universal ilustrada europeo-americana (1908-1930),115627942]]"
-different from:
-  - "[[_Standards/WikiData/WD~Krum,1015373]]"
-  - "[[_Standards/WikiData/WD~Chromium,17086855]]"
-  - "[[_Standards/WikiData/WD~Chromium,48524]]"
-instance of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-named after: "[[_Standards/WikiData/WD~color field,2948548]]"
-associated hazard:
-  - "[[_Standards/WikiData/WD~chromium toxicity,5113833]]"
-  - "[[_Standards/WikiData/WD~chromium exposure,21173579]]"
-subject has role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-has effect: "[[_Standards/WikiData/WD~chromium exposure,21173579]]"
-UMLS CUI: C0008574
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystal%20grown%20using%20CVD%20method.webm
-vapor pressure: 0
-oxidation state: 3
-time-weighted average exposure limit: 0.5
-atomic number: 24
-immediately dangerous to life or health: 250
-ionic radius:
-  - 0.26
-  - 0.41
-  - 0.44
-  - 0.55
-  - 0.62
-  - 0.73
+made_from_material: '[[_Standards/WikiData/WD~chromite,107172]]'
+found_in_taxon:
+- "[[_Standards/WikiData/WD~Rosmarinus officinalis,122679]]"
+- '[[_Standards/WikiData/WD~Tilia,127849]]'
+- '[[_Standards/WikiData/WD~Baccharis,133834]]'
+- "[[_Standards/WikiData/WD~Cytisus scoparius,145781]]"
+- "[[_Standards/WikiData/WD~Thymus serpyllum,147251]]"
+- "[[_Standards/WikiData/WD~Cupressus sempervirens,147513]]"
+- "[[_Standards/WikiData/WD~Centaurium erythraea,156870]]"
+- "[[_Standards/WikiData/WD~Lamium album,157626]]"
+- "[[_Standards/WikiData/WD~Geranium robertianum,160096]]"
+- '[[_Standards/WikiData/WD~Passiflora,161185]]'
+- "[[_Standards/WikiData/WD~Verbena officinalis,161417]]"
+- "[[_Standards/WikiData/WD~Teucrium scorodonia,161748]]"
+- "[[_Standards/WikiData/WD~Erica arborea,176647]]"
+- "[[_Standards/WikiData/WD~Polygonum aviculare,242573]]"
+- "[[_Standards/WikiData/WD~Cistus ladanifer,789800]]"
+- "[[_Standards/WikiData/WD~Genista tridentata,854115]]"
+- "[[_Standards/WikiData/WD~Hypericum androsaemum,886411]]"
+- "[[_Standards/WikiData/WD~Cistus creticus,891305]]"
+- "[[_Standards/WikiData/WD~Lavandula stoechas,1342976]]"
+- "[[_Standards/WikiData/WD~Plains coreopsis,2631259]]"
+- "[[_Standards/WikiData/WD~Vaccinium myrtillus,5413585]]"
+- "[[_Standards/WikiData/WD~Erica umbellata,5835689]]"
+- "[[_Standards/WikiData/WD~Streptomyces griseus,7623385]]"
+- "[[_Standards/WikiData/WD~Glandora diffusa,15588755]]"
+- "[[_Standards/WikiData/WD~Apium graveolens,28298]]"
+- '[[_Standards/WikiData/WD~Cashew,34007]]'
+- "[[_Standards/WikiData/WD~Coriandrum sativum,41611]]"
+- '[[_Standards/WikiData/WD~cacao,42385]]'
+- "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~allergen,186752]]'
+- "[[_Standards/WikiData/WD~simple substance,2512777]]"
+part_of:
+- "[[_Standards/WikiData/WD~group 6,193280]]"
+- "[[_Standards/WikiData/WD~period 4,239825]]"
+manufacturer: '[[_Standards/WikiData/WD~Pfizer,206921]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Louis Nicolas Vauquelin,333438]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Chromium,84676042]]'
+- "[[_Standards/WikiData/WD~Enciclopedia universal ilustrada europeo-americana (1908-1930),115627942]]"
+different_from:
+- '[[_Standards/WikiData/WD~Krum,1015373]]'
+- '[[_Standards/WikiData/WD~Chromium,17086855]]'
+- '[[_Standards/WikiData/WD~Chromium,48524]]'
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- "[[_Standards/WikiData/WD~chemical element,11344]]"
+named_after: "[[_Standards/WikiData/WD~color field,2948548]]"
+associated_hazard:
+- "[[_Standards/WikiData/WD~chromium toxicity,5113833]]"
+- "[[_Standards/WikiData/WD~chromium exposure,21173579]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+has_effect: "[[_Standards/WikiData/WD~chromium exposure,21173579]]"
+UMLS_CUI: C0008574
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystal%20grown%20using%20CVD%20method.webm"
+vapor_pressure: 0
+oxidation_state: 3
+time-weighted_average_exposure_limit: 0.5
+atomic_number: 24
+immediately_dangerous_to_life_or_health: 250
+ionic_radius:
+- 0.26
+- 0.41
+- 0.44
+- 0.55
+- 0.62
+- 0.73
 electronegativity: 1.66
 density: 7.14
-melting point: 1907
-boiling point:
-  - 2945
-  - 4788
-  - 2671.9
-PubChem CID: "23976"
-ZVG number: "8190"
-OmegaWiki Defined Meaning: "585"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystals%20and%201cm3%20cube.jpg
+melting_point: 1907
+boiling_point:
+- 2945
+- 4788
+- 2671.9
+PubChem_CID: 23976
+ZVG_number: 8190
+OmegaWiki_Defined_Meaning: 585
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystals%20and%201cm3%20cube.jpg"
 mass: 51.9961
-chemical formula: Cr
-element symbol: Cr
-U.S. National Archives Identifier: "10646811"
-CPV Supplementary code: AA14
-WordLift URL: http://data.medicalrecords.com/medicalrecords/healthwise/chromium
-electron configuration: "[Ar] 3d⁵ 4s¹"
-canonical SMILES: "[Cr]"
+chemical_formula: Cr
+element_symbol: Cr
+U_S_National_Archives_Identifier: 10646811
+CPV_Supplementary_code: AA14
+WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/chromium"
+electron_configuration: "[Ar] 3d⁵ 4s¹"
+canonical_SMILES: '[Cr]'
 UNII: 0R0008Q3JB
-EC number: 231-157-5
-CAS Registry Number: 7440-47-3
-Commons gallery: Chromium
-Commons category: Chromium
-MeSH tree code:
-  - D01.268.556.175
-  - D01.268.956.124
-  - D01.552.544.175
-DSSTOX compound identifier: DTXCID1011022
-Wolfram Language entity code: Entity["Mineral", "Chromium"]
-RTECS number: GB4200000
+EC_number: 231-157-5
+CAS_Registry_Number: 7440-47-3
+Commons_gallery: Chromium
+Commons_category: Chromium
+MeSH_tree_code:
+- D01.268.556.175
+- D01.268.956.124
+- D01.552.544.175
+DSSTOX_compound_identifier: DTXCID1011022
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Chromium\"]"
+RTECS_number: GB4200000
 InChI: InChI=1S/Cr
-Krugosvet article: nauka_i_tehnika/himiya/HROM.html
+Krugosvet_article: nauka_i_tehnika/himiya/HROM.html
 InChIKey: VYZAMTAEIAYCRO-UHFFFAOYSA-N
-Unicode character: 鉻
-time of discovery or invention: 1797-01-01T00:00:00Z
+Unicode_character: 鉻
+time_of_discovery_or_invention: "1797-01-01T00:00:00Z"
 ---
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Chromium,725]] 
 

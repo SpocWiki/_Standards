@@ -1,82 +1,81 @@
----
+﻿---
 aliases:
-  - Empire State Building
+- "Empire State Building"
 has_id_wikidata: Q9188
-Pinterest username: empirestatebldg
-Instagram username: empirestatebldg
-X (Twitter) username:
-  - empirestatebldg
-  - EmpireStateBldg
-Facebook username: empirestatebuilding
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Attractions%20Banner.jpg
-date of official opening: 1931-05-01T00:00:00Z
-inception: 1931-05-01T00:00:00Z 
-has_time_started: 1931-05-01T00:00:00Z 
-located on street:
-  - "[[_Standards/WikiData/WD~Fifth Avenue,109858]]"
-  - "[[_Standards/WikiData/WD~34th Street,110049]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~observation deck,177305]]"
-  - "[[_Standards/WikiData/WD~transmitter mast,1068623]]"
-  - "[[_Standards/WikiData/WD~retail area,5152545]]"
-  - "[[_Standards/WikiData/WD~lobby,31948]]"
-has use: "[[_Standards/WikiData/WD~office,182060]]"
-significant event:
-  - "[[_Standards/WikiData/WD~construction,385378]]"
-  - "[[_Standards/WikiData/WD~aviation accident,744913]]"
-  - "[[_Standards/WikiData/WD~groundbreaking ceremony,1068633]]"
-  - "[[_Standards/WikiData/WD~opening ceremony,3010369]]"
-instance of:
-  - "[[_Standards/WikiData/WD~tourist attraction,570116]]"
-  - "[[_Standards/WikiData/WD~office building,1021645]]"
-  - "[[_Standards/WikiData/WD~skyscraper,11303]]"
+Pinterest_username: empirestatebldg
+Instagram_username: empirestatebldg
+X_Twitter_username:
+- empirestatebldg
+- EmpireStateBldg
+Facebook_username: empirestatebuilding
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Attractions%20Banner.jpg"
+date_of_official_opening: "1931-05-01T00:00:00Z"
+inception: "1931-05-01T00:00:00Z"
+has_time_started: "1931-05-01T00:00:00Z"
+located_on_street:
+- "[[_Standards/WikiData/WD~Fifth Avenue,109858]]"
+- "[[_Standards/WikiData/WD~34th Street,110049]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~observation deck,177305]]"
+- "[[_Standards/WikiData/WD~transmitter mast,1068623]]"
+- "[[_Standards/WikiData/WD~retail area,5152545]]"
+- '[[_Standards/WikiData/WD~lobby,31948]]'
+has_use: '[[_Standards/WikiData/WD~office,182060]]'
+significant_event:
+- '[[_Standards/WikiData/WD~construction,385378]]'
+- "[[_Standards/WikiData/WD~aviation accident,744913]]"
+- "[[_Standards/WikiData/WD~groundbreaking ceremony,1068633]]"
+- "[[_Standards/WikiData/WD~opening ceremony,3010369]]"
+instance_of:
+- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
+- "[[_Standards/WikiData/WD~office building,1021645]]"
+- '[[_Standards/WikiData/WD~skyscraper,11303]]'
 architect: "[[_Standards/WikiData/WD~Shreve, Lamb & Harmon,617190]]"
-heritage designation:
-  - "[[_Standards/WikiData/WD~National Historic Landmark,624232]]"
-  - "[[_Standards/WikiData/WD~National Register of Historic Places listed place,19558910]]"
-  - "[[_Standards/WikiData/WD~New York City Landmark,19825927]]"
-  - "[[_Standards/WikiData/WD~New York State Register of Historic Places listed place,120763427]]"
-different from: "[[_Standards/WikiData/WD~Empire Building,1339295]]"
-named after: "[[_Standards/WikiData/WD~Empire State,7102494]]"
-architectural style: "[[_Standards/WikiData/WD~Art Deco architecture,12720942]]"
-part of: "[[_Standards/WikiData/WD~Seven Wonders of the Modern World,12800832]]"
-structural engineer: "[[_Standards/WikiData/WD~Homer G. Balcom,16856049]]"
-owned by: "[[_Standards/WikiData/WD~Empire State Realty Trust,27146006]]"
-CRIS Unique Site Number: "06101.001691"
-coordinate location: Point(-73.985555555 40.748333333)
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Esb-logo-oneline.svg
-Danbooru tag: empire_state_building
-official website: https://www.esbnyc.com/
+heritage_designation:
+- "[[_Standards/WikiData/WD~National Historic Landmark,624232]]"
+- "[[_Standards/WikiData/WD~National Register of Historic Places listed place,19558910]]"
+- "[[_Standards/WikiData/WD~New York City Landmark,19825927]]"
+- "[[_Standards/WikiData/WD~New York State Register of Historic Places listed place,120763427]]"
+different_from: "[[_Standards/WikiData/WD~Empire Building,1339295]]"
+named_after: "[[_Standards/WikiData/WD~Empire State,7102494]]"
+architectural_style: "[[_Standards/WikiData/WD~Art Deco architecture,12720942]]"
+part_of: "[[_Standards/WikiData/WD~Seven Wonders of the Modern World,12800832]]"
+structural_engineer: "[[_Standards/WikiData/WD~Homer G. Balcom,16856049]]"
+owned_by: "[[_Standards/WikiData/WD~Empire State Realty Trust,27146006]]"
+CRIS_Unique_Site_Number: 06101.001691
+coordinate_location: "Point(-73.985555555 40.748333333)"
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Esb-logo-oneline.svg"
+Danbooru_tag: empire_state_building
+official_website: "https://www.esbnyc.com/"
 location: "[[_Standards/WikiData/WD~Midtown Manhattan,11249]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Manhattan,11299]]"
-made from material:
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-  - "[[_Standards/WikiData/WD~limestone,23757]]"
-  - "[[_Standards/WikiData/WD~brick,40089]]"
-  - "[[_Standards/WikiData/WD~cement,45190]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Manhattan,11299]]'
+made_from_material:
+- '[[_Standards/WikiData/WD~steel,11427]]'
+- '[[_Standards/WikiData/WD~limestone,23757]]'
+- '[[_Standards/WikiData/WD~brick,40089]]'
+- '[[_Standards/WikiData/WD~cement,45190]]'
 country: "[[_Standards/WikiData/WD~United States,30]]"
-floors below ground: 1
+floors_below_ground: 1
 height:
-  - 1500
-  - 453
-social media followers:
-  - 27000
-  - 267434
-number of elevators: 73
-floors above ground: 102
-postal code: "10118"
-capital cost: 40948900
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20State%20Building%20%28aerial%20view%29.jpg
+- 1500
+- 453
+social_media_followers:
+- 27000
+- 267434
+number_of_elevators: 73
+floors_above_ground: 102
+postal_code: 10118
+capital_cost: 40948900
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20State%20Building%20%28aerial%20view%29.jpg"
 area: 2248355
-Commons category: Empire State Building
-view: http://commons.wikimedia.org/wiki/Special:FilePath/Blick%20auf%20New%20York%20City%20%28S%C3%BCden%29%20vom%20Empire%20State%20Building.jpg
-3D model: http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20State%20Building%20%28simplified%29.stl
-image of interior: http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20State%20Building%2086th%20floor.jpg
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20Subway%20Series%20%2851446644524%29.jpg
-U.S. National Archives Identifier: "10676252"
-NRHP reference number: "82001192"
+Commons_category: "Empire State Building"
+view: "http://commons.wikimedia.org/wiki/Special:FilePath/Blick%20auf%20New%20York%20City%20%28S%C3%BCden%29%20vom%20Empire%20State%20Building.jpg"
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20State%20Building%20%28simplified%29.stl"
+image_of_interior: "http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20State%20Building%2086th%20floor.jpg"
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20Subway%20Series%20%2851446644524%29.jpg"
+U_S_National_Archives_Identifier: 10676252
+NRHP_reference_number: 82001192
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,37 +1,36 @@
----
+﻿---
 has_id_wikidata: Q376
-has use:
-  - "[[_Standards/WikiData/WD~chronometry,186398]]"
-  - "[[_Standards/WikiData/WD~displaying,115203785]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~metrological mechanism,4198689]]"
-  - "[[_Standards/WikiData/WD~timepiece,42622779]]"
-  - "[[_Standards/WikiData/WD~decorative object,115923123]]"
-  - "[[_Standards/WikiData/WD~machine,11019]]"
-union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-3D model: http://commons.wikimedia.org/wiki/Special:FilePath/Uhr%2020230505%20001.stl
-Nomenclature for Museum Cataloging: "10265"
-OmegaWiki Defined Meaning: "5790"
-Iconclass notation: 23U24
-GS1 GPC code: "10002252"
-Commons gallery: Clock
-Commons category: Clocks
-OpenStreetMap tag or key: Tag:amenity=clock
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Clock.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Klok%20%28tijd%29-article.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Pendulum%20clock%20by%20Jacob%20Kock%2C%20antique%20furniture%20photography%2C%20IMG%200931%20edit.jpg
-exact match: http://wordnet-rdf.princeton.edu/wn31/103050242-n
-Krugosvet article: nauka_i_tehnika/tehnologiya_i_promyshlennost/CHASI.html
+has_use:
+- '[[_Standards/WikiData/WD~chronometry,186398]]'
+- '[[_Standards/WikiData/WD~displaying,115203785]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+subclass_of:
+- "[[_Standards/WikiData/WD~metrological mechanism,4198689]]"
+- '[[_Standards/WikiData/WD~timepiece,42622779]]'
+- "[[_Standards/WikiData/WD~decorative object,115923123]]"
+- '[[_Standards/WikiData/WD~machine,11019]]'
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Uhr%2020230505%20001.stl"
+Nomenclature_for_Museum_Cataloging: 10265
+OmegaWiki_Defined_Meaning: 5790
+Iconclass_notation: 23U24
+GS1_GPC_code: 10002252
+Commons_gallery: Clock
+Commons_category: Clocks
+OpenStreetMap_tag_or_key: "Tag:amenity=clock"
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Clock.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Klok%20%28tijd%29-article.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pendulum%20clock%20by%20Jacob%20Kock%2C%20antique%20furniture%20photography%2C%20IMG%200931%20edit.jpg"
+exact_match: "http://wordnet-rdf.princeton.edu/wn31/103050242-n"
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/CHASI.html
 ---
-
 
 ## #has_/text_of_/abstract 
 

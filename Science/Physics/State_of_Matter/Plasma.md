@@ -1,32 +1,31 @@
----
+﻿---
 has_id_wikidata: Q10251
-different from: "[[_Standards/WikiData/WD~blood plasma,79749]]"
-studied in:
-  - "[[_Standards/WikiData/WD~plasma physics,5615097]]"
-  - "[[_Standards/WikiData/WD~plasma chemistry,12140686]]"
-instance of:
-  - "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
-  - "[[_Standards/WikiData/WD~classical state of matter,52063183]]"
-manifestation of: "[[_Standards/WikiData/WD~plasma state of matter,29148313]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~gas,11432]]"
-  - "[[_Standards/WikiData/WD~matter,35758]]"
-has part(s): "[[_Standards/WikiData/WD~ion,36496]]"
-OmegaWiki Defined Meaning: "681784"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9C%E0%A6%AE%E0%A6%BE.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Plasma-lamp.jpg
-exact match: http://purl.obolibrary.org/obo/ENVO_01000798
-IEV number:
-  - 113-06-48
-  - 395-02-24
-Dewey Decimal Classification: "530.44"
-Europeana entity: agent/base/33720
-MeSH tree code: D01.362.740
-Wolfram Language entity code: Entity["PhysicalEffect", "Plasma"]
-Krugosvet article: nauka_i_tehnika/fizika/PLAZMA.html
-Commons category: Plasma physics
+different_from: "[[_Standards/WikiData/WD~blood plasma,79749]]"
+studied_in:
+- "[[_Standards/WikiData/WD~plasma physics,5615097]]"
+- "[[_Standards/WikiData/WD~plasma chemistry,12140686]]"
+instance_of:
+- "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
+- "[[_Standards/WikiData/WD~classical state of matter,52063183]]"
+manifestation_of: "[[_Standards/WikiData/WD~plasma state of matter,29148313]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~matter,35758]]'
+has_part_s_: '[[_Standards/WikiData/WD~ion,36496]]'
+OmegaWiki_Defined_Meaning: 681784
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9C%E0%A6%AE%E0%A6%BE.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plasma-lamp.jpg"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_01000798"
+IEV_number:
+- 113-06-48
+- 395-02-24
+Dewey_Decimal_Classification: 530.44
+Europeana_entity: agent/base/33720
+MeSH_tree_code: D01.362.740
+Wolfram_Language_entity_code: "Entity[\"PhysicalEffect\", \"Plasma\"]"
+Krugosvet_article: nauka_i_tehnika/fizika/PLAZMA.html
+Commons_category: "Plasma physics"
 ---
-
 
 ## #has_/text_of_/abstract 
 

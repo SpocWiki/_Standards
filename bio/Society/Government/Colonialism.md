@@ -1,23 +1,22 @@
----
+﻿---
 has_id_wikidata: Q7167
-different from: "[[_Standards/WikiData/WD~colony,133156]]"
-has effect:
-  - "[[_Standards/WikiData/WD~oppression,252000]]"
-  - "[[_Standards/WikiData/WD~detribalization,65052129]]"
-instance of: "[[_Standards/WikiData/WD~social formation,1641112]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Colonialism,10815165]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia of Global Justice (2011 ed.),21002838]]"
-UMLS CUI: C0009372
-MeSH tree code: I01.696.116
-subclass of: "[[_Standards/WikiData/WD~imperialism,7260]]"
-Commons category: Colonialism
-image: http://commons.wikimedia.org/wiki/Special:FilePath/RomanEmpire%20117.svg
-Dewey Decimal Classification: "325.3"
-Library of Congress Classification: JV51
+different_from: '[[_Standards/WikiData/WD~colony,133156]]'
+has_effect:
+- '[[_Standards/WikiData/WD~oppression,252000]]'
+- '[[_Standards/WikiData/WD~detribalization,65052129]]'
+instance_of: "[[_Standards/WikiData/WD~social formation,1641112]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Colonialism,10815165]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Encyclopedia of Global Justice (2011 ed.),21002838]]"
+UMLS_CUI: C0009372
+MeSH_tree_code: I01.696.116
+subclass_of: '[[_Standards/WikiData/WD~imperialism,7260]]'
+Commons_category: Colonialism
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/RomanEmpire%20117.svg"
+Dewey_Decimal_Classification: 325.3
+Library_of_Congress_Classification: JV51
 ---
-
 
 ## #has_/text_of_/abstract 
 

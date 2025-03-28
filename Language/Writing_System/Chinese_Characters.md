@@ -1,59 +1,58 @@
----
+﻿---
 aliases:
-  - Chinese characters
+- "Chinese characters"
 has_id_wikidata: Q8201
-has effect: "[[_Standards/WikiData/WD~East Asian cultural sphere,716566]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~Chinese character radical,849778]]"
-  - "[[_Standards/WikiData/WD~Chinese character stroke,1689024]]"
-  - "[[_Standards/WikiData/WD~hanzi component,15911848]]"
-creator: "[[_Standards/WikiData/WD~Cangjie,1033199]]"
-part of:
-  - "[[_Standards/WikiData/WD~CJKV,1198450]]"
-  - "[[_Standards/WikiData/WD~Han with Bopomofo,28454520]]"
-  - "[[_Standards/WikiData/WD~Chinese,7850]]"
-instance of:
-  - "[[_Standards/WikiData/WD~logographic writing system,3953107]]"
-  - "[[_Standards/WikiData/WD~natural writing system,29517555]]"
-  - "[[_Standards/WikiData/WD~writing system,8192]]"
-history of topic:
-  - "[[_Standards/WikiData/WD~stages of evolution of Chinese characters,4532947]]"
-  - "[[_Standards/WikiData/WD~history of Chinese characters,15899315]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~sinogram,17300291]]"
-different from: "[[_Standards/WikiData/WD~sinogram,17300291]]"
-script directionality:
-  - "[[_Standards/WikiData/WD~left-to-right,17321844]]"
-  - "[[_Standards/WikiData/WD~vertical right-to-left,105395084]]"
-based on: "[[_Standards/WikiData/WD~proto-writing,18175774]]"
-topic's main template: "[[_Standards/WikiData/WD~Q91927946,91927946]]"
-inception: -1250-01-01T00:00:00Z 
-has_time_started: -1250-01-01T00:00:00Z 
-facet of:
-  - "[[_Standards/WikiData/WD~Japanese,5287]]"
-  - "[[_Standards/WikiData/WD~Chinese,7850]]"
-language of work or name:
-  - "[[_Standards/WikiData/WD~Japanese,5287]]"
-  - "[[_Standards/WikiData/WD~Chinese,7850]]"
-  - "[[_Standards/WikiData/WD~Korean,9176]]"
-  - "[[_Standards/WikiData/WD~Vietnamese,9199]]"
-  - "[[_Standards/WikiData/WD~Zhuang,13216]]"
-  - "[[_Standards/WikiData/WD~Okinawan,34233]]"
-Wikidata property: Han character in this lexeme
-subclass of: "[[_Standards/WikiData/WD~writing system,8192]]"
-country of origin: "[[_Standards/WikiData/WD~China,29520]]"
-ISO 15924 numeric code: "500"
+has_effect: "[[_Standards/WikiData/WD~East Asian cultural sphere,716566]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~Chinese character radical,849778]]"
+- "[[_Standards/WikiData/WD~Chinese character stroke,1689024]]"
+- "[[_Standards/WikiData/WD~hanzi component,15911848]]"
+creator: '[[_Standards/WikiData/WD~Cangjie,1033199]]'
+part_of:
+- '[[_Standards/WikiData/WD~CJKV,1198450]]'
+- "[[_Standards/WikiData/WD~Han with Bopomofo,28454520]]"
+- '[[_Standards/WikiData/WD~Chinese,7850]]'
+instance_of:
+- "[[_Standards/WikiData/WD~logographic writing system,3953107]]"
+- "[[_Standards/WikiData/WD~natural writing system,29517555]]"
+- "[[_Standards/WikiData/WD~writing system,8192]]"
+history_of_topic:
+- "[[_Standards/WikiData/WD~stages of evolution of Chinese characters,4532947]]"
+- "[[_Standards/WikiData/WD~history of Chinese characters,15899315]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~sinogram,17300291]]'
+different_from: '[[_Standards/WikiData/WD~sinogram,17300291]]'
+script_directionality:
+- '[[_Standards/WikiData/WD~left-to-right,17321844]]'
+- "[[_Standards/WikiData/WD~vertical right-to-left,105395084]]"
+based_on: '[[_Standards/WikiData/WD~proto-writing,18175774]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q91927946,91927946]]'
+inception: "-1250-01-01T00:00:00Z"
+has_time_started: "-1250-01-01T00:00:00Z"
+facet_of:
+- '[[_Standards/WikiData/WD~Japanese,5287]]'
+- '[[_Standards/WikiData/WD~Chinese,7850]]'
+language_of_work_or_name:
+- '[[_Standards/WikiData/WD~Japanese,5287]]'
+- '[[_Standards/WikiData/WD~Chinese,7850]]'
+- '[[_Standards/WikiData/WD~Korean,9176]]'
+- '[[_Standards/WikiData/WD~Vietnamese,9199]]'
+- '[[_Standards/WikiData/WD~Zhuang,13216]]'
+- '[[_Standards/WikiData/WD~Okinawan,34233]]'
+Wikidata_property: "Han character in this lexeme"
+subclass_of: "[[_Standards/WikiData/WD~writing system,8192]]"
+country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
+ISO_15924_numeric_code: 500
 name:
-  - Han
-  - Han (Hanzi, Kanji, Hanja)
-  - idéogrammes han (sinogrammes)
-ISO 15924 alpha-4 code: Hani
-distribution map: http://commons.wikimedia.org/wiki/Special:FilePath/Chinese-Characters-Distribution.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Hanzi.svg
-Commons gallery: Chinese character
-Commons category: Chinese writing
-Unicode range: U+2E80-2EFF,U+3000-303F,U+3200-32FF,U+3300-33FF,U+3400-4DBF,U+4E00-9FFF,U+F900-FAFF,U+FE30-FE4F
+- Han
+- "Han (Hanzi, Kanji, Hanja)"
+- "idéogrammes han (sinogrammes)"
+ISO_15924_alpha-4_code: Hani
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Chinese-Characters-Distribution.png"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hanzi.svg"
+Commons_gallery: "Chinese character"
+Commons_category: "Chinese writing"
+Unicode_range: U+2E80-2EFF,U+3000-303F,U+3200-32FF,U+3300-33FF,U+3400-4DBF,U+4E00-9FFF,U+F900-FAFF,U+FE30-FE4F
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,68 +1,67 @@
----
+﻿---
 has_id_wikidata: Q5283
-Unicode character: 💎
-video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20entstehen%20Diamanten%20%28CC%20BY%204.0%29.webm
+Unicode_character: "\U0001F48E"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/So%20entstehen%20Diamanten%20%28CC%20BY%204.0%29.webm"
 UNII: 6GRV67N0U2
-MCN code: 7104.20.10
-Krugosvet article: Earth_sciences/geologiya/ALMAZ.html
-has use:
-  - "[[_Standards/WikiData/WD~gemstone,83437]]"
-  - "[[_Standards/WikiData/WD~diamond industry,56604589]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~gemstone,83437]]"
-  - "[[_Standards/WikiData/WD~allotrope of carbon,622460]]"
-  - "[[_Standards/WikiData/WD~covalent network solid,632350]]"
-  - "[[_Standards/WikiData/WD~native element mineral,723127]]"
-  - "[[_Standards/WikiData/WD~carbon-silicon family,13292702]]"
-crystal habit: "[[_Standards/WikiData/WD~octahedron,188884]]"
-different from: "[[_Standards/WikiData/WD~Diamond,224096]]"
-named after: "[[_Standards/WikiData/WD~Invincible,226841]]"
-crystal system: "[[_Standards/WikiData/WD~cubic crystal system,473227]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-mineral fracture: "[[_Standards/WikiData/WD~conchoidal fracture,2747476]]"
-instance of: "[[_Standards/WikiData/WD~mineral species,12089225]]"
-point group: "[[_Standards/WikiData/WD~cubic-hexoctahedral,13359931]]"
-IMA status and/or rank: "[[_Standards/WikiData/WD~grandfathered mineral (G),13406846]]"
-cleavage: "[[_Standards/WikiData/WD~{111},14754934]]"
-space group: "[[_Standards/WikiData/WD~space group Fd-3m,15041895]]"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Diamonds.jpg
-Baidu Tieba name: 钻石
-UMLS CUI: C0057717
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Diamond-1128734.jpg
-MeSH tree code: D01.268.150.200
-has part(s): "[[_Standards/WikiData/WD~carbon,623]]"
-made from material: "[[_Standards/WikiData/WD~carbon,623]]"
-streak color: "[[_Standards/WikiData/WD~white,23444]]"
-Mohs' hardness: 10
-tensile modulus of elasticity: 1050
+MCN_code: 7104.20.10
+Krugosvet_article: Earth_sciences/geologiya/ALMAZ.html
+has_use:
+- '[[_Standards/WikiData/WD~gemstone,83437]]'
+- "[[_Standards/WikiData/WD~diamond industry,56604589]]"
+subclass_of:
+- '[[_Standards/WikiData/WD~gemstone,83437]]'
+- "[[_Standards/WikiData/WD~allotrope of carbon,622460]]"
+- "[[_Standards/WikiData/WD~covalent network solid,632350]]"
+- "[[_Standards/WikiData/WD~native element mineral,723127]]"
+- "[[_Standards/WikiData/WD~carbon-silicon family,13292702]]"
+crystal_habit: '[[_Standards/WikiData/WD~octahedron,188884]]'
+different_from: '[[_Standards/WikiData/WD~Diamond,224096]]'
+named_after: '[[_Standards/WikiData/WD~Invincible,226841]]'
+crystal_system: "[[_Standards/WikiData/WD~cubic crystal system,473227]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+mineral_fracture: "[[_Standards/WikiData/WD~conchoidal fracture,2747476]]"
+instance_of: "[[_Standards/WikiData/WD~mineral species,12089225]]"
+point_group: '[[_Standards/WikiData/WD~cubic-hexoctahedral,13359931]]'
+IMA_status_and_or_rank: "[[_Standards/WikiData/WD~grandfathered mineral (G),13406846]]"
+cleavage: '[[_Standards/WikiData/WD~{111},14754934]]'
+space_group: "[[_Standards/WikiData/WD~space group Fd-3m,15041895]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Diamonds.jpg"
+Baidu_Tieba_name: 钻石
+UMLS_CUI: C0057717
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Diamond-1128734.jpg"
+MeSH_tree_code: D01.268.150.200
+has_part_s_: '[[_Standards/WikiData/WD~carbon,623]]'
+made_from_material: '[[_Standards/WikiData/WD~carbon,623]]'
+streak_color: '[[_Standards/WikiData/WD~white,23444]]'
+Mohs_hardness: 10
+tensile_modulus_of_elasticity: 1050
 density:
-  - 3.51
-  - 3.515
-shear modulus: 478
-Dana 8th edition: 1.3.6.1
-standard molar entropy: 2.377
-refractive index: 2.384
-chemical formula: C
-Gmelin number: "15667"
-EC number: 231-953-2
-CAS Registry Number: 7782-40-3
-Commons category: Diamonds
-Commons gallery: Diamond
-OmegaWiki Defined Meaning: "416537"
-IMA Mineral Symbol: Dia
-"Nickel-Strunz '10th ed', review of (9th ed/ 2009 update)": 1.CB.10a
-Nickel-Strunz 9th edition (updated 2009): 1.CB.10a
-U.S. National Archives Identifier: "10647959"
+- 3.51
+- 3.515
+shear_modulus: 478
+Dana_8th_edition: 1.3.6.1
+standard_molar_entropy: 2.377
+refractive_index: 2.384
+chemical_formula: C
+Gmelin_number: 15667
+EC_number: 231-953-2
+CAS_Registry_Number: 7782-40-3
+Commons_category: Diamonds
+Commons_gallery: Diamond
+OmegaWiki_Defined_Meaning: 416537
+IMA_Mineral_Symbol: Dia
+Nickel-Strunz_10th_ed_review_of_9th_ed_2009_update_: 1.CB.10a
+Nickel-Strunz_9th_edition_updated_2009_: 1.CB.10a
+U_S_National_Archives_Identifier: 10647959
 ---
-
 
 ## #has_/text_of_/abstract 
 

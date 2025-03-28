@@ -1,54 +1,55 @@
----
+﻿---
 aliases:
-  - Litre
+- Litre
 has_id_wikidata: Q11582
-instance of:
-  - "[[_Standards/WikiData/WD~unit of volume,1302471]]"
-  - "[[_Standards/WikiData/WD~non-SI unit mentioned in and accepted with the SI,3268848]]"
-  - "[[_Standards/WikiData/WD~UCUM derived unit,82047057]]"
-  - "[[_Standards/WikiData/WD~SI-accepted non-SI unit,106839753]]"
-said to be the same as:
-  - "[[_Standards/WikiData/WD~cubic decimetre,2175964]]"
-  - "[[_Standards/WikiData/WD~Maß,48680]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-different from: "[[_Standards/WikiData/WD~Litre,59279570]]"
-conversion to standard unit:
-  - 1000
-  - 1
-  - 0.1
-  - 0.01
-conversion to SI unit: 0.001
-measured physical quantity: "[[_Standards/WikiData/WD~volume,39297]]"
-UCUM code:
-  - L
-  - l
-unit symbol:
-  - l
-  - L
-  - l
-  - l
-  - l
-  - l
-  - l
-  - l
-  - l
-  - L
-  - L
-  - لتر
-  - ל'
-  - லீ.
-  - л
-  - л
-  - л
-UN/CEFACT Common Code: LTR
-image: http://commons.wikimedia.org/wiki/Special:FilePath/CubeLitre.svg
-Wolfram Language unit code: '"Liters"'
-Commons category: Litre
-Wikidata SPARQL query equivalent: wd:Q11582 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+instance_of:
+- "[[_Standards/WikiData/WD~unit of volume,1302471]]"
+- "[[_Standards/WikiData/WD~non-SI unit mentioned in and accepted with the SI,3268848]]"
+- "[[_Standards/WikiData/WD~UCUM derived unit,82047057]]"
+- "[[_Standards/WikiData/WD~SI-accepted non-SI unit,106839753]]"
+said_to_be_the_same_as:
+- "[[_Standards/WikiData/WD~cubic decimetre,2175964]]"
+- '[[_Standards/WikiData/WD~Maß,48680]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
+different_from: '[[_Standards/WikiData/WD~Litre,59279570]]'
+conversion_to_standard_unit:
+- 1000
+- 1
+- 0.1
+- 0.01
+conversion_to_SI_unit: 0.001
+measured_physical_quantity: '[[_Standards/WikiData/WD~volume,39297]]'
+UCUM_code:
+- L
+- l
+unit_symbol:
+- l
+- L
+- l
+- l
+- l
+- l
+- l
+- l
+- l
+- L
+- L
+- لتر
+- "ל'"
+- லீ.
+- л
+- л
+- л
+UN_CEFACT_Common_Code: LTR
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/CubeLitre.svg"
+Wolfram_Language_unit_code: "\"Liters\""
+Commons_category: Litre
+Wikidata_SPARQL_query_equivalent: "wd:Q11582 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)"
 ---
+
 ﻿
 # [[Unit~Liter]] 
 

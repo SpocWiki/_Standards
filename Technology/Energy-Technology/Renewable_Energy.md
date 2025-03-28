@@ -1,29 +1,28 @@
----
+﻿---
 has_id_wikidata: Q12705
 aliases:
-  - Renewable energy
-part of: "[[_Standards/WikiData/WD~sustainability,219416]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~renewable resource,1138571]]"
-  - "[[_Standards/WikiData/WD~energy source,1522115]]"
-opposite of: "[[_Standards/WikiData/WD~nonrenewable energy,2632167]]"
-different from:
-  - "[[_Standards/WikiData/WD~alternative energy,4202245]]"
-  - "[[_Standards/WikiData/WD~renewable energy source,119080683]]"
-IEV number: 617-04-11
-IPTC NewsCode: mediatopic/20000436
+- "Renewable energy"
+part_of: '[[_Standards/WikiData/WD~sustainability,219416]]'
+subclass_of:
+- "[[_Standards/WikiData/WD~renewable resource,1138571]]"
+- "[[_Standards/WikiData/WD~energy source,1522115]]"
+opposite_of: "[[_Standards/WikiData/WD~nonrenewable energy,2632167]]"
+different_from:
+- "[[_Standards/WikiData/WD~alternative energy,4202245]]"
+- "[[_Standards/WikiData/WD~renewable energy source,119080683]]"
+IEV_number: 617-04-11
+IPTC_NewsCode: mediatopic/20000436
 subreddit: RenewableEnergy
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-"relates to sustainable development goal, target or indicator": "[[_Standards/WikiData/WD~Target 7.2 of the Sustainable Development Goals,57590808]]"
-described by source: "[[_Standards/WikiData/WD~Solar Wind Energy Input_ The Primary Control Factor of Magnetotail Reconnection Site,114650413]]"
-studied in: "[[_Standards/WikiData/WD~renewable energy science,120411401]]"
-MeSH tree code: N06.230.132.644
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
+relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target 7.2 of the Sustainable Development Goals,57590808]]"
+described_by_source: "[[_Standards/WikiData/WD~Solar Wind Energy Input_ The Primary Control Factor of Magnetotail Reconnection Site,114650413]]"
+studied_in: "[[_Standards/WikiData/WD~renewable energy science,120411401]]"
+MeSH_tree_code: N06.230.132.644
 replaces: "[[_Standards/WikiData/WD~fossil fuel,12748]]"
-social media followers: 116760
-Commons category: Renewable energy
-GitHub topic: renewable-energy
+social_media_followers: 116760
+Commons_category: "Renewable energy"
+GitHub_topic: renewable-energy
 ---
-
 
 ## #has_/text_of_/abstract 
 

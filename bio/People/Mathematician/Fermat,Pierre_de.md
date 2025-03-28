@@ -1,83 +1,82 @@
----
+﻿---
 aliases:
-  - Pierre de Fermat
+- "Pierre de Fermat"
 has_id_wikidata: Q75655
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20de%20Fermat3.jpg
-name in native language: Pierre de Fermat
-date of death: 1665-01-12T00:00:00Z
-BHCL UUID: 509d9d86-d75f-4cf0-b26e-5c5094fd892f
-Krugosvet article: nauka_i_tehnika/matematika/FERMA_PER.html
-Google Doodle: pierre-de-fermats-410th-birthday
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20de%20Fermat3.jpg"
+name_in_native_language: "Pierre de Fermat"
+date_of_death: "1665-01-12T00:00:00Z"
+BHCL_UUID: 509d9d86-d75f-4cf0-b26e-5c5094fd892f
+Krugosvet_article: nauka_i_tehnika/matematika/FERMA_PER.html
+Google_Doodle: pierre-de-fermats-410th-birthday
 Libris-URI: wt79d12f0snxn1p
-notable work:
-  - "[[_Standards/WikiData/WD~Fermat's Last Theorem,132469]]"
-  - "[[_Standards/WikiData/WD~Fermat's little theorem,188295]]"
-  - "[[_Standards/WikiData/WD~Fermat number,207264]]"
-  - "[[_Standards/WikiData/WD~Fermat's principle,331041]]"
-  - "[[_Standards/WikiData/WD~Fermat point,914929]]"
-field of work:
-  - "[[_Standards/WikiData/WD~Fermat's Last Theorem,132469]]"
-  - "[[_Standards/WikiData/WD~analytic geometry,134787]]"
-  - "[[_Standards/WikiData/WD~Fermat's little theorem,188295]]"
-  - "[[_Standards/WikiData/WD~Fermat number,207264]]"
-  - "[[_Standards/WikiData/WD~statute,820655]]"
-  - "[[_Standards/WikiData/WD~probability theory,5862903]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~mathematical analysis,7754]]"
-  - "[[_Standards/WikiData/WD~number theory,12479]]"
-  - "[[_Standards/WikiData/WD~optics,14620]]"
+notable_work:
+- "[[_Standards/WikiData/WD~Fermat's Last Theorem,132469]]"
+- "[[_Standards/WikiData/WD~Fermat's little theorem,188295]]"
+- "[[_Standards/WikiData/WD~Fermat number,207264]]"
+- "[[_Standards/WikiData/WD~Fermat's principle,331041]]"
+- "[[_Standards/WikiData/WD~Fermat point,914929]]"
+field_of_work:
+- "[[_Standards/WikiData/WD~Fermat's Last Theorem,132469]]"
+- "[[_Standards/WikiData/WD~analytic geometry,134787]]"
+- "[[_Standards/WikiData/WD~Fermat's little theorem,188295]]"
+- "[[_Standards/WikiData/WD~Fermat number,207264]]"
+- '[[_Standards/WikiData/WD~statute,820655]]'
+- "[[_Standards/WikiData/WD~probability theory,5862903]]"
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- "[[_Standards/WikiData/WD~mathematical analysis,7754]]"
+- "[[_Standards/WikiData/WD~number theory,12479]]"
+- '[[_Standards/WikiData/WD~optics,14620]]'
 occupation:
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~jurist,185351]]"
-  - "[[_Standards/WikiData/WD~polyglot,323081]]"
-  - "[[_Standards/WikiData/WD~judge,16533]]"
-  - "[[_Standards/WikiData/WD~lawyer,40348]]"
-influenced by:
-  - "[[_Standards/WikiData/WD~Diophantus of Alexandria,178217]]"
-  - "[[_Standards/WikiData/WD~Gerolamo Cardano,184530]]"
-  - "[[_Standards/WikiData/WD~François Viète,188623]]"
-place of burial: "[[_Standards/WikiData/WD~Castres,188776]]"
-place of death: "[[_Standards/WikiData/WD~Castres,188776]]"
-significant event: "[[_Standards/WikiData/WD~cremation,207315]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
-  - "[[_Standards/WikiData/WD~Olomouc City Library regional database,130368343]]"
-place of birth: "[[_Standards/WikiData/WD~Beaumont-de-Lomagne,660118]]"
-academic degree: "[[_Standards/WikiData/WD~Bachelor of Laws,798137]]"
-given name: "[[_Standards/WikiData/WD~Pierre,2093070]]"
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~polyglot,323081]]'
+- '[[_Standards/WikiData/WD~judge,16533]]'
+- '[[_Standards/WikiData/WD~lawyer,40348]]'
+influenced_by:
+- "[[_Standards/WikiData/WD~Diophantus of Alexandria,178217]]"
+- "[[_Standards/WikiData/WD~Gerolamo Cardano,184530]]"
+- "[[_Standards/WikiData/WD~François Viète,188623]]"
+place_of_burial: '[[_Standards/WikiData/WD~Castres,188776]]'
+place_of_death: '[[_Standards/WikiData/WD~Castres,188776]]'
+significant_event: '[[_Standards/WikiData/WD~cremation,207315]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
+- "[[_Standards/WikiData/WD~Olomouc City Library regional database,130368343]]"
+place_of_birth: '[[_Standards/WikiData/WD~Beaumont-de-Lomagne,660118]]'
+academic_degree: "[[_Standards/WikiData/WD~Bachelor of Laws,798137]]"
+given_name: '[[_Standards/WikiData/WD~Pierre,2093070]]'
 employer: "[[_Standards/WikiData/WD~Parliament of Toulouse,3365529]]"
-sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-educated at: "[[_Standards/WikiData/WD~Old University of Orléans,23197733]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-family name: "[[_Standards/WikiData/WD~de Fermat,104814497]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+educated_at: "[[_Standards/WikiData/WD~Old University of Orléans,23197733]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+family_name: "[[_Standards/WikiData/WD~de Fermat,104814497]]"
 spouse: "[[_Standards/WikiData/WD~Louise de Long,108646034]]"
-date of birth: 1607-01-01T00:00:00Z
-Stack Exchange tag: https://hsm.stackexchange.com/tags/fermat
-plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/Fermats%20Epitaph.JPG
-ISNI: "0000000080934049"
-described at URL: http://www.digiporta.net/index.php?id=158254188
-"languages spoken, written or signed":
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-country of citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing language: "[[_Standards/WikiData/WD~French,150]]"
-number of children:
-  - 5
-  - 8
-Commons gallery: Pierre de Fermat
-Commons category: Pierre de Fermat
+date_of_birth: "1607-01-01T00:00:00Z"
+Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/fermat"
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fermats%20Epitaph.JPG"
+ISNI: 0000000080934049
+described_at_URL: "http://www.digiporta.net/index.php?id=158254188"
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+number_of_children:
+- 5
+- 8
+Commons_gallery: "Pierre de Fermat"
+Commons_category: "Pierre de Fermat"
 ---
-
 
 ## #has_/text_of_/abstract 
 

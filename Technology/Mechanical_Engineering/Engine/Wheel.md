@@ -1,35 +1,34 @@
----
+﻿---
 has_id_wikidata: Q446
-subclass of: "[[_Standards/WikiData/WD~simple machine,186713]]"
-part of:
-  - "[[_Standards/WikiData/WD~wheel and axle,592289]]"
-  - "[[_Standards/WikiData/WD~wheeled vehicle,15618781]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-connects with: "[[_Standards/WikiData/WD~wheel hub assembly,2140339]]"
-different from: "[[_Standards/WikiData/WD~runner,3381460]]"
+subclass_of: "[[_Standards/WikiData/WD~simple machine,186713]]"
+part_of:
+- "[[_Standards/WikiData/WD~wheel and axle,592289]]"
+- "[[_Standards/WikiData/WD~wheeled vehicle,15618781]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+connects_with: "[[_Standards/WikiData/WD~wheel hub assembly,2140339]]"
+different_from: '[[_Standards/WikiData/WD~runner,3381460]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hub%20%28PSF%29.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Speichenkreuzung.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tekerlek.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wheel%20Iran.jpg
-3D model: http://commons.wikimedia.org/wiki/Special:FilePath/MeshRad%2020221030.stl
-Krugosvet article: tehnologiya-i-promyshlennost/koleso
-Unicode character: 🛞
-shape: "[[_Standards/WikiData/WD~circle,17278]]"
-Nomenclature for Museum Cataloging: "9243"
-OmegaWiki Defined Meaning: "335923"
-Commons category: Wheels
-GS1 GPC code: "10002926"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hub%20%28PSF%29.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Speichenkreuzung.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Tekerlek.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wheel%20Iran.jpg"
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/MeshRad%2020221030.stl"
+Krugosvet_article: tehnologiya-i-promyshlennost/koleso
+Unicode_character: "\U0001F6DE"
+shape: '[[_Standards/WikiData/WD~circle,17278]]'
+Nomenclature_for_Museum_Cataloging: 9243
+OmegaWiki_Defined_Meaning: 335923
+Commons_category: Wheels
+GS1_GPC_code: 10002926
 ---
-
 
 ## #has_/text_of_/abstract 
 

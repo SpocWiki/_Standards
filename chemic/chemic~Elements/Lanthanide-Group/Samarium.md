@@ -1,54 +1,54 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21958
 has_id_wikidata: Q1819
-part of:
-  - "[[_Standards/WikiData/WD~period 6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
-different from: "[[_Standards/WikiData/WD~Samar,345447]]"
-discoverer or inventor: "[[_Standards/WikiData/WD~Paul-Émile Lecoq de Boisbaudran,366827]]"
-named after: "[[_Standards/WikiData/WD~samarskite-(Y),417648]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
-made from material:
-  - "[[_Standards/WikiData/WD~spent nuclear fuel,2623868]]"
-  - "[[_Standards/WikiData/WD~monazite-(Sm),3860584]]"
-  - "[[_Standards/WikiData/WD~florencite-(Sm),13588763]]"
-time of discovery or invention: 1879-01-01T00:00:00Z
-UMLS CUI: C0036147
-instance of: "[[_Standards/WikiData/WD~chemical element,11344]]"
-location of discovery: "[[_Standards/WikiData/WD~Paris,90]]"
-atomic number: 62
-ionic radius:
-  - 0.96
-  - 1.08
-  - 1.19
-  - 1.24
-  - 1.27
+part_of:
+- "[[_Standards/WikiData/WD~period 6,239813]]"
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+different_from: '[[_Standards/WikiData/WD~Samar,345447]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile Lecoq de Boisbaudran,366827]]"
+named_after: '[[_Standards/WikiData/WD~samarskite-(Y),417648]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
+made_from_material:
+- "[[_Standards/WikiData/WD~spent nuclear fuel,2623868]]"
+- '[[_Standards/WikiData/WD~monazite-(Sm),3860584]]'
+- '[[_Standards/WikiData/WD~florencite-(Sm),13588763]]'
+time_of_discovery_or_invention: "1879-01-01T00:00:00Z"
+UMLS_CUI: C0036147
+instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'
+atomic_number: 62
+ionic_radius:
+- 0.96
+- 1.08
+- 1.19
+- 1.24
+- 1.27
 electronegativity: 1.17
 mass: 150.36
-PubChem CID: "23951"
-Gmelin number: "16301"
-chemical formula: Sm
-element symbol: Sm
-OmegaWiki Defined Meaning: "356071"
-Commons gallery: Samarium
-Commons category: Samarium
-canonical SMILES: "[Sm]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Samarium%201.jpg
-EC number: 231-128-7
+PubChem_CID: 23951
+Gmelin_number: 16301
+chemical_formula: Sm
+element_symbol: Sm
+OmegaWiki_Defined_Meaning: 356071
+Commons_gallery: Samarium
+Commons_category: Samarium
+canonical_SMILES: '[Sm]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Samarium%201.jpg"
+EC_number: 231-128-7
 UNII: 42OD65L39F
-CAS Registry Number: 7440-19-9
-MeSH tree code:
-  - D01.268.558.362.937
-  - D01.552.550.399.937
-DSSTOX compound identifier: DTXCID6047652
+CAS_Registry_Number: 7440-19-9
+MeSH_tree_code:
+- D01.268.558.362.937
+- D01.552.550.399.937
+DSSTOX_compound_identifier: DTXCID6047652
 InChI: InChI=1S/Sm
 InChIKey: KZUNJOHGWZRPMI-UHFFFAOYSA-N
-Unicode character: 釤
+Unicode_character: 釤
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Samarium,1819]] 

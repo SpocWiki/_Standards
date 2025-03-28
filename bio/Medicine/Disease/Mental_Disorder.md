@@ -1,73 +1,72 @@
----
+﻿---
 has_id_wikidata: Q12135
 ICD-9-CM:
-  - V11.9
-  - 290-299.99
-  - "298.8"
-drug or therapy used for treatment:
-  - "[[_Standards/WikiData/WD~antidepressant,76560]]"
-  - "[[_Standards/WikiData/WD~psychotherapy,183257]]"
-  - "[[_Standards/WikiData/WD~antipsychotics,208144]]"
-  - "[[_Standards/WikiData/WD~tranquilizer,1941660]]"
-  - "[[_Standards/WikiData/WD~mood stabilizer,2622367]]"
-  - "[[_Standards/WikiData/WD~anxiolytic,62903]]"
-health specialty:
-  - "[[_Standards/WikiData/WD~psychotherapy,183257]]"
-  - "[[_Standards/WikiData/WD~clinical psychology,199906]]"
-  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
-possible treatment:
-  - "[[_Standards/WikiData/WD~psychotherapy,183257]]"
-  - "[[_Standards/WikiData/WD~psychopharmacology,1515727]]"
-opposite of: "[[_Standards/WikiData/WD~mental health,317309]]"
-different from:
-  - "[[_Standards/WikiData/WD~mental health,317309]]"
-  - "[[_Standards/WikiData/WD~mental illness,1499013]]"
-  - "[[_Standards/WikiData/WD~somatic disease,7101840]]"
-has effect:
-  - "[[_Standards/WikiData/WD~damage,481609]]"
-  - "[[_Standards/WikiData/WD~somatic disease,7101840]]"
-  - "[[_Standards/WikiData/WD~suicide,10737]]"
-  - "[[_Standards/WikiData/WD~death,4]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-has list: "[[_Standards/WikiData/WD~list of mental disorders,2182963]]"
-partially coincident with:
-  - "[[_Standards/WikiData/WD~neurological disorder,3339235]]"
-  - "[[_Standards/WikiData/WD~psychosomatic disease,10267833]]"
-"handled, mitigated, or managed by":
-  - "[[_Standards/WikiData/WD~treatment of mental disorders,3984210]]"
-  - "[[_Standards/WikiData/WD~prevention of mental disorders,48998239]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-has cause: "[[_Standards/WikiData/WD~causes of mental disorders,5054620]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Mental disorders,8096255]]"
-instance of: "[[_Standards/WikiData/WD~class of disease,112193867]]"
-UMLS CUI:
-  - C4046029
-  - C0376338
-  - C0004936
-  - C0029516
-PhilPapers topic:
-  - mental-disorders
-  - mental-illness
-properties for this type: DSM-IV classification
-subclass of: "[[_Standards/WikiData/WD~disease,12136]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Gautier%20-%20Salpetriere.JPG
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Starry%20night%20banner.jpg
-exact match:
-  - http://identifiers.org/doid/DOID:150
-  - http://purl.obolibrary.org/obo/DOID_150
-described at URL: https://www.hilarispublisher.com/scholarly/mental-health-morbidity-journals-articles-ppts-list-2525.html
-DiseasesDB: "28852"
-Dewey Decimal Classification: "616.89"
-MeSH tree code: F03
+- V11.9
+- 290-299.99
+- 298.8
+drug_or_therapy_used_for_treatment:
+- '[[_Standards/WikiData/WD~antidepressant,76560]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~antipsychotics,208144]]'
+- '[[_Standards/WikiData/WD~tranquilizer,1941660]]'
+- "[[_Standards/WikiData/WD~mood stabilizer,2622367]]"
+- '[[_Standards/WikiData/WD~anxiolytic,62903]]'
+health_specialty:
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- "[[_Standards/WikiData/WD~clinical psychology,199906]]"
+- '[[_Standards/WikiData/WD~psychiatry,7867]]'
+possible_treatment:
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~psychopharmacology,1515727]]'
+opposite_of: "[[_Standards/WikiData/WD~mental health,317309]]"
+different_from:
+- "[[_Standards/WikiData/WD~mental health,317309]]"
+- "[[_Standards/WikiData/WD~mental illness,1499013]]"
+- "[[_Standards/WikiData/WD~somatic disease,7101840]]"
+has_effect:
+- '[[_Standards/WikiData/WD~damage,481609]]'
+- "[[_Standards/WikiData/WD~somatic disease,7101840]]"
+- '[[_Standards/WikiData/WD~suicide,10737]]'
+- '[[_Standards/WikiData/WD~death,4]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+has_list: "[[_Standards/WikiData/WD~list of mental disorders,2182963]]"
+partially_coincident_with:
+- "[[_Standards/WikiData/WD~neurological disorder,3339235]]"
+- "[[_Standards/WikiData/WD~psychosomatic disease,10267833]]"
+handled_mitigated_or_managed_by:
+- "[[_Standards/WikiData/WD~treatment of mental disorders,3984210]]"
+- "[[_Standards/WikiData/WD~prevention of mental disorders,48998239]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+has_cause: "[[_Standards/WikiData/WD~causes of mental disorders,5054620]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mental disorders,8096255]]"
+instance_of: "[[_Standards/WikiData/WD~class of disease,112193867]]"
+UMLS_CUI:
+- C4046029
+- C0376338
+- C0004936
+- C0029516
+PhilPapers_topic:
+- mental-disorders
+- mental-illness
+properties_for_this_type: "DSM-IV classification"
+subclass_of: '[[_Standards/WikiData/WD~disease,12136]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gautier%20-%20Salpetriere.JPG"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Starry%20night%20banner.jpg"
+exact_match:
+- "http://identifiers.org/doid/DOID:150"
+- "http://purl.obolibrary.org/obo/DOID_150"
+described_at_URL: "https://www.hilarispublisher.com/scholarly/mental-health-morbidity-journals-articles-ppts-list-2525.html"
+DiseasesDB: 28852
+Dewey_Decimal_Classification: 616.89
+MeSH_tree_code: F03
 ICD-10-CM:
-  - F99
-  - F99-F99
-Commons category: Mental and behavioural diseases and disorders
+- F99
+- F99-F99
+Commons_category: "Mental and behavioural diseases and disorders"
 ---
-
 
 ## #has_/text_of_/abstract 
 
