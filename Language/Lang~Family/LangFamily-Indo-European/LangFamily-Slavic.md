@@ -28,15 +28,15 @@ Stack_Exchange_tag:
 - "https://linguistics.stackexchange.com/tags/slavic-languages"
 - "https://russian.stackexchange.com/tags/slavic"
 Linguist_List_code: slav
-Libris-URI: c9prr17w25qh0nx
+Libris_URI: c9prr17w25qh0nx
 different_from: "[[_Standards/WikiData/WD~Church Slavonic,33251]]"
 indigenous_to: '[[_Standards/WikiData/WD~Slavs,40477]]'
 number_of_speakers_writers_or_signers: 315000000
 Dewey_Decimal_Classification: 491.8
 OmegaWiki_Defined_Meaning: 347539
-ISO_639-5_code: sla
+ISO_639_5_code: sla
 IETF_language_tag: sla
-ISO_639-2_code: sla
+ISO_639_2_code: sla
 Commons_category: "Slavic languages"
 ---
 

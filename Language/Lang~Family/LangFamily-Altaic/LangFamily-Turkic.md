@@ -17,17 +17,17 @@ subclass_of: "[[_Standards/WikiData/WD~human language,20162172]]"
 has_list: "[[_Standards/WikiData/WD~list of Turkic languages,27661143]]"
 Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/turkic-languages"
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Turkic%20Languages%20distribution%20map.png"
-Libris-URI: sq46573b4ndxc0n
+Libris_URI: sq46573b4ndxc0n
 studied_in: '[[_Standards/WikiData/WD~Turkology,8427]]'
 instance_of: "[[_Standards/WikiData/WD~language family,25295]]"
 number_of_speakers_writers_or_signers: 300000000
 ABS_ASCL_2011_code: 43
-ISO_639-5_code: trk
+ISO_639_5_code: trk
 IETF_language_tag: trk
 Linguist_List_code: turk
 Dewey_Decimal_Classification: 494.3
 Krugosvet_article: gumanitarnye_nauki/lingvistika/TYURKSKIE_YAZIKI.html
-ISO_639-6_code: tkic
+ISO_639_6_code: tkic
 Glottolog_code: turk1311
 Commons_category: "Turkic languages"
 type: LangFamily

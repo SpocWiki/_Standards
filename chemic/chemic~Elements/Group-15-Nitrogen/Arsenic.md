@@ -69,7 +69,7 @@ minimal_lethal_dose:
 - 200
 - 300
 - 338
-time-weighted_average_exposure_limit:
+time_weighted_average_exposure_limit:
 - 0.1
 - 0.01
 - 0.2

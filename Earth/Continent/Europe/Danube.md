@@ -413,7 +413,7 @@ pronunciation_audio:
 U_S_National_Archives_Identifier: 10045695
 Commons_gallery: Danube
 Commons_category: Danube
-Libris-URI: gdsvt9003qddvhh
+Libris_URI: gdsvt9003qddvhh
 Image_Archive_Herder_Institute: Q1653
 ---
 

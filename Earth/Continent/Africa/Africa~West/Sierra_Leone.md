@@ -161,8 +161,8 @@ marriageable_age: 18
 age_of_majority: 21
 mains_voltage: 230
 Happy_Planet_Index_score: 29
-Inequality-adjusted_Human_Development_Index: 0.309
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.sl,43767]]'
+Inequality_adjusted_Human_Development_Index: 0.309
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sl,43767]]'
 Gini_coefficient: 35.7
 Human_Development_Index: 0.477
 BTI_Governance_Index:
@@ -208,7 +208,7 @@ U_S_National_Archives_Identifier: 10035817
 IAB_code: 1402
 Dewey_Decimal_Classification: 2--664
 maritime_identification_digits: 667
-ISO_3166-1_numeric_code: 694
+ISO_3166_1_numeric_code: 694
 M49_code: 694
 OmegaWiki_Defined_Meaning: 8553
 INSEE_countries_and_foreign_territories_code: 99342
@@ -221,15 +221,15 @@ GitHub_topic: sierra-leone
 CIVICUS_Monitor_country_entry: sierra-leone
 subreddit: SierraLeone
 hashtag: SierraLeone
-ISO_3166-1_alpha-2_code: SL
-FIPS_10-4_countries_and_regions_: SL
+ISO_3166_1_alpha_2_code: SL
+FIPS_10_4_countries_and_regions_: SL
 WIPO_ST_3: SL
 Unicode_character: "\U0001F1F8\U0001F1F1"
-ISO_3166-1_alpha-3_code: SLE
+ISO_3166_1_alpha_3_code: SLE
 IOC_country_code: SLE
 ITU_letter_code: SRL
 Krugosvet_article: strany_mira/SERRA-LEONE.html
-Libris-URI: vs688hwd1kqw9rk
+Libris_URI: vs688hwd1kqw9rk
 licence_plate_code: WAL
 official_name:
 - "República de Sierra Leone"

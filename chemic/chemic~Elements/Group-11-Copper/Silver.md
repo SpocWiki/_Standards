@@ -84,7 +84,7 @@ ionic_radius:
 - 115
 - 128
 immediately_dangerous_to_life_or_health: 10
-time-weighted_average_exposure_limit: 0.01
+time_weighted_average_exposure_limit: 0.01
 electronegativity: 2
 atomic_number: 47
 electrical_conductivity: 63000000

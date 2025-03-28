@@ -129,7 +129,7 @@ Stadtwiki_Dresden_article: Augustus
 Royal_Academy_new_identifier: augustus
 BHCL_UUID: 92f18b2a-35bb-4817-b54d-5e6256e3fe16
 EAGLE_id: dates/lod/136
-Libris-URI: gdsvvhw04l6fnhb
+Libris_URI: gdsvvhw04l6fnhb
 Krugosvet_article: istoriya/AVGUST.html
 birth_name: "C. Octavius C.f."
 nickname: Thurinus

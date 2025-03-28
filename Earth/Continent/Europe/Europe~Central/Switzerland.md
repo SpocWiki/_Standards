@@ -215,7 +215,7 @@ Provenio_UUID: b06a0af1-b509-41e1-ab18-570cd236f584
 NUTS_code:
 - CH0
 - CH
-Libris-URI: nl0229c6538hjvc
+Libris_URI: nl0229c6538hjvc
 hashtag:
 - Schweiz
 - Svizzera
@@ -357,7 +357,7 @@ railway_traffic_side:
 - '[[_Standards/WikiData/WD~left,13196750]]'
 - '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.swiss,20577158]]'
 - '[[_Standards/WikiData/WD~.ch,39676]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20829665,20829665]]'
@@ -395,23 +395,23 @@ IAB_code: 1419
 vehicles_per_thousand_people: 539
 UIC_alphabetical_country_code: CH
 licence_plate_code: CH
-ISO_3166-1_alpha-2_code: CH
+ISO_3166_1_alpha_2_code: CH
 WIPO_ST_3: CH
 Happy_Planet_Index_score: 60.1
 social_media_followers: 80800
 Democracy_Index: 8.83
-Inequality-adjusted_Human_Development_Index: 0.894
+Inequality_adjusted_Human_Development_Index: 0.894
 budget: 89700000000
 Human_Development_Index: 0.962
 maritime_identification_digits: 269
 M49_code: 756
-ISO_3166-1_numeric_code: 756
+ISO_3166_1_numeric_code: 756
 UIC_numerical_country_code: 85
 OmegaWiki_Defined_Meaning: 6791
 area: 41285
 mobile_country_code: 228
-FIPS_10-4_countries_and_regions_: SZ
-number_of_out-of-school_children: 69459
+FIPS_10_4_countries_and_regions_: SZ
+number_of_out_of_school_children: 69459
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg"
 rural_population:
 - 2263530
@@ -423,7 +423,7 @@ ITU_letter_code: SUI
 PM20_geo_code: A34
 Commons_category: Switzerland
 Commons_gallery: Switzerland
-ISO_3166-1_alpha-3_code: CHE
+ISO_3166_1_alpha_3_code: CHE
 INSEE_countries_and_foreign_territories_code: 99140
 coordinate_location: "Point(8.231973 46.798562)"
 GS1_country_code: 760-769

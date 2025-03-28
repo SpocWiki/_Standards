@@ -72,7 +72,7 @@ exact_match: "http://purl.obolibrary.org/obo/ENVO_2000015"
 equivalent_class: "https://schema.org/Energy"
 IEV_number: 113-03-45
 OmegaWiki_Defined_Meaning: 1172
-All-Science_Journal_Classification_Codes: 2100
+All_Science_Journal_Classification_Codes: 2100
 Colon_Classification: C14
 subreddit: energy
 ---

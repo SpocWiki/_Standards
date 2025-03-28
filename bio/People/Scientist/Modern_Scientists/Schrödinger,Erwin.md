@@ -103,7 +103,7 @@ Commons_gallery: "Erwin Schrödinger"
 Commons_category: "Erwin Schrödinger"
 Google_Doodle: erwin-schrodingers-126th-birthday
 Krugosvet_article: nauka_i_tehnika/fizika/SHREDINGER_ERVIN.html
-Libris-URI: sq4681nb3v6gcrp
+Libris_URI: sq4681nb3v6gcrp
 Regensburg_Classification: "UB 2747"
 birth_name: "Erwin Rudolf Josef Alexander Schrödinger"
 name_in_native_language: "Erwin Schrödinger"

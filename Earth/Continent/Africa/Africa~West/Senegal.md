@@ -195,7 +195,7 @@ BTI_Governance_Index:
 - 6.76
 - 6.7
 Democracy_Index: 5.67
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.sn,60117]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sn,60117]]'
 mobile_country_code: 608
 OmegaWiki_Defined_Meaning: 7317
 motto_text:
@@ -220,7 +220,7 @@ subreddit: Senegal
 hashtag: Senegal
 Commons_category: Senegal
 social_media_followers: 13217
-FIPS_10-4_countries_and_regions_: SG
+FIPS_10_4_countries_and_regions_: SG
 GS1_country_code: 604
 maritime_identification_digits: 663
 life_expectancy: 67.146
@@ -228,12 +228,12 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sene
 IAB_code: 1399
 WIPO_ST_3: SN
 licence_plate_code: SN
-ISO_3166-1_alpha-2_code: SN
+ISO_3166_1_alpha_2_code: SN
 M49_code: 686
-ISO_3166-1_numeric_code: 686
+ISO_3166_1_numeric_code: 686
 area: 196722
 ITU_letter_code: SEN
-ISO_3166-1_alpha-3_code: SEN
+ISO_3166_1_alpha_3_code: SEN
 IOC_country_code: SEN
 urban_population:
 - 7909390
@@ -247,7 +247,7 @@ rural_population:
 - 8816497
 INSEE_countries_and_foreign_territories_code: 99341
 population: 16876720
-number_of_out-of-school_children: 1921575
+number_of_out_of_school_children: 1921575
 male_population:
 - 7860618
 - 8076926
@@ -276,7 +276,7 @@ locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationSenegal.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Senegal%20%28orthographic%20projection%29.svg"
 country_calling_code: +221
-Libris-URI: 0xbddmtj2fgkp1w
+Libris_URI: 0xbddmtj2fgkp1w
 GitHub_topic: senegal
 CIVICUS_Monitor_country_entry: senegal
 Commons_gallery: Sénégal
@@ -333,7 +333,7 @@ marriageable_age:
 age_of_majority: 18
 VAT_rate: 18
 mains_voltage: 230
-Inequality-adjusted_Human_Development_Index: 0.354
+Inequality_adjusted_Human_Development_Index: 0.354
 MeSH_tree_code: Z01.058.290.190.710
 official_name: "République du Sénégal"
 native_label: Senegaal

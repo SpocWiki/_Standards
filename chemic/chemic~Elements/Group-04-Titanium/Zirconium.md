@@ -37,12 +37,12 @@ Common_Procurement_Vocabulary_code:
 - 14735000-2
 - 14735000
 vapor_pressure: 0
-short-term_exposure_limit: 10
+short_term_exposure_limit: 10
 electronegativity: 1
 location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
 atomic_number: 40
 oxidation_state: 4
-time-weighted_average_exposure_limit: 5
+time_weighted_average_exposure_limit: 5
 immediately_dangerous_to_life_or_health: 25
 ionic_radius:
 - 0.59

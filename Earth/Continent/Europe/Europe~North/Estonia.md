@@ -251,14 +251,14 @@ BTI_Governance_Index:
 - 7.46
 Human_Development_Index: 0.89
 total_fertility_rate: 1.52
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ee,38908]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ee,38908]]'
 Gini_coefficient: 30.8
 Happy_Planet_Index_score: 34.4
 mobile_country_code: 248
 UIC_numerical_country_code: 26
 maritime_identification_digits: 276
 Democracy_Index: 7.84
-Inequality-adjusted_Human_Development_Index: 0.829
+Inequality_adjusted_Human_Development_Index: 0.829
 BTI_Status_Index:
 - 9.28
 - 9.29
@@ -268,19 +268,19 @@ BTI_Status_Index:
 - 9.49
 - 9.52
 - 9.54
-number_of_out-of-school_children: 5533
+number_of_out_of_school_children: 5533
 IAB_code: 1290
 NUTS_code:
 - EE
 - EE0
 - EE00
 WIPO_ST_3: EE
-ISO_3166-1_alpha-2_code: EE
+ISO_3166_1_alpha_2_code: EE
 Image_Archive_Herder_Institute: Q191
 Dewey_Decimal_Classification: 2--4798
-FIPS_10-4_countries_and_regions_: EN
+FIPS_10_4_countries_and_regions_: EN
 M49_code: 233
-ISO_3166-1_numeric_code: 233
+ISO_3166_1_numeric_code: 233
 GS1_country_code: 474
 area: 45335
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg"
@@ -333,7 +333,7 @@ subreddit: eesti
 Commons_gallery: Eesti
 Facebook_username: eesti.ee
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Estonia\"]"
-Libris-URI: pm132kn72mgvch6
+Libris_URI: pm132kn72mgvch6
 Colon_Classification: SG--5975
 Krugosvet_article: strany_mira/ESTONIYA.html
 MeSH_tree_code: Z01.542.248.136.360
@@ -354,7 +354,7 @@ IOC_country_code: EST
 ITU_letter_code: EST
 UIC_alphabetical_country_code: EST
 licence_plate_code: EST
-ISO_3166-1_alpha-3_code: EST
+ISO_3166_1_alpha_3_code: EST
 PM20_geo_code: A60
 life_expectancy: 77.73659
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Estonia.svg"

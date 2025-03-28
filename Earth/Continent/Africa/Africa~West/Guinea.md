@@ -214,16 +214,16 @@ BTI_Governance_Index:
 - 5.82
 - 5.83
 - 5.98
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gn,41761]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gn,41761]]'
 Gini_coefficient: 29.6
-Inequality-adjusted_Human_Development_Index: 0.299
+Inequality_adjusted_Human_Development_Index: 0.299
 Democracy_Index: 3.08
 Happy_Planet_Index_score: 38.1
 Human_Development_Index: 0.465
 U_S_National_Archives_Identifier: 10035717
 Dewey_Decimal_Classification: 2--6652
 WIPO_ST_3: GN
-ISO_3166-1_alpha-2_code: GN
+ISO_3166_1_alpha_2_code: GN
 Unicode_character: "\U0001F1EC\U0001F1F3"
 CIVICUS_Monitor_country_entry: guinea
 GitHub_topic: guinea
@@ -255,7 +255,7 @@ IAB_code: 1310
 mobile_country_code: 611
 maritime_identification_digits: 632
 licence_plate_code: RG
-ISO_3166-1_numeric_code: 324
+ISO_3166_1_numeric_code: 324
 M49_code: 324
 birth_rate:
 - 33.855
@@ -282,14 +282,14 @@ female_population:
 - 6527547
 - 6687118
 - 6846006
-number_of_out-of-school_children: 1490614
+number_of_out_of_school_children: 1490614
 PM20_geo_code: C31
 ITU_letter_code: GUI
 IOC_country_code: GUI
-ISO_3166-1_alpha-3_code: GIN
+ISO_3166_1_alpha_3_code: GIN
 Commons_category: Guinea
 hashtag: Guinea
-FIPS_10-4_countries_and_regions_: GV
+FIPS_10_4_countries_and_regions_: GV
 rural_population:
 - 8177237
 - 8335753

@@ -120,7 +120,7 @@ date_of_death: "1941-01-13T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Joyce%20by%20Alex%20Ehrenzweig%2C%201915%20cropped.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Joyce%20signature.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Joyce%27s%20Dublin%20banner%20The%20James%20Joyce%20Bridge.jpg"
-Libris-URI: 20dghpwl18w4tz7
+Libris_URI: 20dghpwl18w4tz7
 BHCL_UUID: 577ec2fe-91d0-4c67-8564-9315c537ba2e
 Wolfram_Language_entity_code:
 - "Entity[\"Concept\", \"JamesAugustineAloysiusJoyce::847v2\"]"

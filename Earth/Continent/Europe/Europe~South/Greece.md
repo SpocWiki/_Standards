@@ -368,14 +368,14 @@ nominal_GDP:
 - 214873879834
 - 219065872466
 coordinates_of_easternmost_point: "Point(29.7291 35.9229)"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gr,37893]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gr,37893]]'
 unemployment_rate: 18.5
 Gini_coefficient: 33.1
 economy_of_topic: "[[_Standards/WikiData/WD~economy of Greece,45074]]"
 Happy_Planet_Index_score: 48.8
 mobile_country_code: 202
 Democracy_Index: 7.39
-Inequality-adjusted_Human_Development_Index: 0.791
+Inequality_adjusted_Human_Development_Index: 0.791
 life_expectancy: 81.1
 Human_Development_Index: 0.887
 maritime_identification_digits:
@@ -386,12 +386,12 @@ maritime_identification_digits:
 GS1_country_code:
 - 520
 - 521
-ISO_3166-1_numeric_code: 300
+ISO_3166_1_numeric_code: 300
 M49_code: 300
-number_of_out-of-school_children: 45430
+number_of_out_of_school_children: 45430
 licence_plate_code: GR
-ISO_3166-1_alpha-2_code: GR
-FIPS_10-4_countries_and_regions_: GR
+ISO_3166_1_alpha_2_code: GR
+FIPS_10_4_countries_and_regions_: GR
 WIPO_ST_3: GR
 UIC_alphabetical_country_code: GR
 UIC_numerical_country_code: 73
@@ -445,7 +445,7 @@ inception: "1821-04-06T00:00:00Z"
 has_time_started: "1821-04-06T00:00:00Z"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Greece.map"
 Basisklassifikation: 15.69
-ISO_3166-1_alpha-3_code: GRC
+ISO_3166_1_alpha_3_code: GRC
 ITU_letter_code: GRC
 Commons_gallery: Ελλάδα
 U_S_National_Archives_Identifier: 10035789
@@ -459,7 +459,7 @@ IPA_transcription: ˈɡrʲet͡sɨjə
 country_calling_code: +30
 Dewey_Decimal_Classification: 2--495
 BHCL_UUID: 4dc9811e-720f-4a48-a9e2-9a406a6e4d35
-Libris-URI: 75kml65r2vq53rp
+Libris_URI: 75kml65r2vq53rp
 Unicode_character: "\U0001F1EC\U0001F1F7"
 Colon_Classification: SG--51
 Krugosvet_article: strany_mira/GRETSIYA.html

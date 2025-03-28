@@ -271,7 +271,7 @@ retirement_age: 66
 suicide_rate: 7.2
 Democracy_Index: 7.9
 total_fertility_rate: 1.21
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.pt,39959]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.pt,39959]]'
 Gini_coefficient: 32.8
 follows: "[[_Standards/WikiData/WD~Kingdom of Portugal,45670]]"
 Happy_Planet_Index_score: 46.3
@@ -284,7 +284,7 @@ maritime_identification_digits: 263
 mobile_country_code: 268
 GS1_country_code: 560
 OpenStreetMap_zoom_level: 6
-ISO_3166-1_numeric_code: 620
+ISO_3166_1_numeric_code: 620
 M49_code: 620
 OmegaWiki_Defined_Meaning: 7867
 UIC_numerical_country_code: 94
@@ -299,7 +299,7 @@ PM20_geo_code: A32
 licence_plate_code: P
 UIC_alphabetical_country_code: P
 IPA_transcription: pərtʊˈɡalʲɪjə
-FIPS_10-4_countries_and_regions_: PO
+FIPS_10_4_countries_and_regions_: PO
 IOC_country_code: POR
 ITU_letter_code: POR
 CIVICUS_Monitor_country_entry: portugal
@@ -312,8 +312,8 @@ coordinates_of_easternmost_point: "Point(-6.19021386 41.57488702)"
 nominal_GDP:
 - 251945377529
 - 253982847571
-ISO_3166-1_alpha-3_code: PRT
-ISO_3166-1_alpha-2_code: PT
+ISO_3166_1_alpha_3_code: PRT
+ISO_3166_1_alpha_2_code: PT
 NUTS_code: PT
 WIPO_ST_3: PT
 Unicode_character: "\U0001F1F5\U0001F1F9"
@@ -329,13 +329,13 @@ name_in_native_language:
 - "Portugalská republika"
 - "la République portugaise"
 - "República Portuguesa"
-Inequality-adjusted_Human_Development_Index: 0.773
+Inequality_adjusted_Human_Development_Index: 0.773
 native_label:
 - Portugal
 - "República Portuguesa"
 Human_Development_Index: 0.866
 short_name: "\U0001F1F5\U0001F1F9"
-number_of_out-of-school_children: 19620
+number_of_out_of_school_children: 19620
 area: 92225
 urban_population:
 - 6926780

@@ -410,10 +410,10 @@ exact_match:
 - "http://identifiers.org/doid/DOID:9970"
 - "http://purl.obolibrary.org/obo/DOID_9970"
 - "http://purl.obolibrary.org/obo/HP_0001513"
-ICD-9-CM: 278.00
+ICD_9_CM: 278.00
 OmegaWiki_Defined_Meaning: 512161
 UMLS_CUI: C0028754
-ICD-10-CM: E66.9
+ICD_10_CM: E66.9
 Wolfram_Language_entity_code: "Entity[\"Disease\", \"Obesity\"]"
 IPTC_NewsCode: mediatopic/20000460
 Krugosvet_article: medicina/OZHIRENIE.html

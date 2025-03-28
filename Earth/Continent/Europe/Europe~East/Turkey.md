@@ -417,7 +417,7 @@ social_media_followers:
 - 154520
 head_of_state: "[[_Standards/WikiData/WD~Recep Tayyip Erdoğan,39259]]"
 head_of_government: "[[_Standards/WikiData/WD~Recep Tayyip Erdoğan,39259]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tr,41104]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tr,41104]]'
 BTI_Governance_Index:
 - 3.98
 - 4.05
@@ -433,18 +433,18 @@ Gini_coefficient: 41.9
 Democracy_Index: 4.35
 trunk_prefix: 0
 UIC_numerical_country_code: 75
-Inequality-adjusted_Human_Development_Index: 0.717
+Inequality_adjusted_Human_Development_Index: 0.717
 Human_Development_Index: 0.838
 maritime_identification_digits: 271
 M49_code: 792
-ISO_3166-1_numeric_code: 792
+ISO_3166_1_numeric_code: 792
 death_rate: 5.101
 mobile_country_code: 286
 birth_rate: 14.468
 UIC_alphabetical_country_code: TR
 NUTS_code: TR
 licence_plate_code: TR
-ISO_3166-1_alpha-2_code: TR
+ISO_3166_1_alpha_2_code: TR
 WIPO_ST_3: TR
 hashtag:
 - Turkey
@@ -454,13 +454,13 @@ subreddit: Turkey
 IAB_code: 1462
 OmegaWiki_Defined_Meaning: 7320
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg"
-FIPS_10-4_countries_and_regions_: TU
+FIPS_10_4_countries_and_regions_: TU
 area: 783562
 INSEE_countries_and_foreign_territories_code: 99208
 PM20_geo_code: B21
-number_of_out-of-school_children: 1378723
+number_of_out_of_school_children: 1378723
 ITU_letter_code: TUR
-ISO_3166-1_alpha-3_code: TUR
+ISO_3166_1_alpha_3_code: TUR
 IOC_country_code: TUR
 rural_population:
 - 20124610

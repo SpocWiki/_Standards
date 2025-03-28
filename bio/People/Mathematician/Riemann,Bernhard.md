@@ -94,7 +94,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Friedrich%20B
 Commons_category: "Bernhard Riemann"
 Commons_gallery: "Georg Friedrich Bernhard Riemann"
 Krugosvet_article: matematika/riman-georg-fridrih-bernhard
-Libris-URI: nl024p965rb53d7
+Libris_URI: nl024p965rb53d7
 Regensburg_Classification: "SF 7140"
 name_in_native_language: "Bernhard Riemann"
 birth_name: "Georg Friedrich Bernhard Riemann"

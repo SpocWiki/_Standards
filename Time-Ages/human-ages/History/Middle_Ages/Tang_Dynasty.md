@@ -40,7 +40,7 @@ has_time_stopped: "0907-01-01T00:00:00Z"
 start_time: "0618-01-01T00:00:00Z"
 inception: "0618-01-01T00:00:00Z"
 has_time_started: "0618-01-01T00:00:00Z"
-located_in_the_present-day_administrative_territorial_entity:
+located_in_the_present_day_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - "[[_Standards/WikiData/WD~North Korea,423]]"
 - '[[_Standards/WikiData/WD~Mongolia,711]]'

@@ -99,7 +99,7 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Razgrad,2790675]]'
 - '[[_Standards/WikiData/WD~Lovech,6587068]]'
 replaces: "[[_Standards/WikiData/WD~People's Republic of Bulgaria,121932]]"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.бг,140775]]'
 - '[[_Standards/WikiData/WD~.bg,39029]]'
 coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Bulgaria,173163]]"
@@ -180,7 +180,7 @@ Dewey_Decimal_Classification: 2--499
 IPA_transcription: bɐlˈɡarʲɪjə
 Colon_Classification: SG--5926
 Krugosvet_article: strany_mira/BOLGARIYA.html
-Libris-URI: xv8b9p1g14q9h82
+Libris_URI: xv8b9p1g14q9h82
 demonym:
 - بلغاري
 - búlgara
@@ -346,7 +346,7 @@ BTI_Governance_Index:
 - 6.73
 - 6.76
 Democracy_Index: 6.71
-Inequality-adjusted_Human_Development_Index: 0.701
+Inequality_adjusted_Human_Development_Index: 0.701
 Human_Development_Index: 0.795
 GS1_country_code: 380
 UIC_numerical_country_code: 52
@@ -358,18 +358,18 @@ coordinates_of_southernmost_point: "Point(25.28502345 41.23552689)"
 GOST_7_67_cyrillic: БОГ
 coordinates_of_easternmost_point: "Point(28.60926144 43.541729)"
 M49_code: 100
-ISO_3166-1_numeric_code: 100
+ISO_3166_1_numeric_code: 100
 NUTS_code: BG
 licence_plate_code: BG
-ISO_3166-1_alpha-2_code: BG
+ISO_3166_1_alpha_2_code: BG
 WIPO_ST_3: BG
 UIC_alphabetical_country_code: BG
-number_of_out-of-school_children: 66616
+number_of_out_of_school_children: 66616
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg"
 IAB_code: 1263
 social_media_followers: 149701
-FIPS_10-4_countries_and_regions_: BU
-ISO_3166-1_alpha-3_code: BGR
+FIPS_10_4_countries_and_regions_: BU
+ISO_3166_1_alpha_3_code: BGR
 hashtag: Bulgaria
 Commons_category: Bulgaria
 INSEE_countries_and_foreign_territories_code: 99111

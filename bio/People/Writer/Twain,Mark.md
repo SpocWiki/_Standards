@@ -89,7 +89,7 @@ NLC_authorities: 000205309
 U_S_National_Archives_Identifier:
 - 10574508
 - 10581697
-Libris-URI: 1zcfb5hk1bq7d78
+Libris_URI: 1zcfb5hk1bq7d78
 BHCL_UUID:
 - 21588604-940b-429b-b46b-7fb0887f3319
 - a84f8e03-b331-4761-a023-7d44f1903b30

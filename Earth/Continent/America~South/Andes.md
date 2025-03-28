@@ -40,7 +40,7 @@ video:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Vulkanismus%20in%20den%20Anden.webm"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20satellite%20plane.jpg"
 U_S_National_Archives_Identifier: 10046284
-Libris-URI: ljx0z8142cqz9fx
+Libris_URI: ljx0z8142cqz9fx
 native_label: "Cordillera de los Andes"
 coordinate_location: "Point(-66.698 -21.826)"
 ---

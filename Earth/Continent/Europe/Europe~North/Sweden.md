@@ -404,12 +404,12 @@ social_media_followers:
 unemployment_rate: 8.4
 suicide_rate: 12.4
 total_fertility_rate: 1.57
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.se,40442]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.se,40442]]'
 Gini_coefficient: 29.3
 head_of_state: "[[_Standards/WikiData/WD~Carl XVI Gustaf of Sweden,45068]]"
 trunk_prefix: 0
 Happy_Planet_Index_score: 50.5
-Inequality-adjusted_Human_Development_Index: 0.885
+Inequality_adjusted_Human_Development_Index: 0.885
 Democracy_Index: 9.26
 Human_Development_Index: 0.947
 literacy_rate: 99.9
@@ -417,9 +417,9 @@ mobile_country_code: 240
 UIC_numerical_country_code: 74
 IAB_code: 1418
 M49_code: 752
-ISO_3166-1_numeric_code: 752
-FIPS_10-4_countries_and_regions_: SW
-number_of_out-of-school_children: 9424
+ISO_3166_1_numeric_code: 752
+FIPS_10_4_countries_and_regions_: SW
+number_of_out_of_school_children: 9424
 ITU_letter_code: S
 UIC_alphabetical_country_code: S
 licence_plate_code: S
@@ -437,7 +437,7 @@ carbon_footprint:
 WIPO_ST_3: SE
 aircraft_registration_prefix: SE
 NUTS_code: SE
-ISO_3166-1_alpha-2_code: SE
+ISO_3166_1_alpha_2_code: SE
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg"
 INSEE_countries_and_foreign_territories_code: 99104
 official_name: "Konungariket Sverige"
@@ -458,7 +458,7 @@ male_population:
 - 5211232
 - 5285164
 IOC_country_code: SWE
-ISO_3166-1_alpha-3_code: SWE
+ISO_3166_1_alpha_3_code: SWE
 rural_population:
 - 1206837
 - 1225108
@@ -499,7 +499,7 @@ MeSH_tree_code: Z01.542.816.500
 short_name: "\U0001F1F8\U0001F1EA"
 Dewey_Decimal_Classification: 2--485
 ISBN_identifier_group: 978-91
-Libris-URI: 97mppvdt327j8rx
+Libris_URI: 97mppvdt327j8rx
 BHCL_UUID:
 - c066aa66-ff98-4b09-b409-91084233d189
 - dfe028fd-2642-4bb8-aaec-32be15dcbed0

@@ -231,7 +231,7 @@ BTI_Governance_Index:
 Krugosvet_article: gosudarstvo-i-politika/kosovo
 GitHub_topic: kosovo
 CIVICUS_Monitor_country_entry: kosovo
-Libris-URI: ljx00cf41g9xzhn
+Libris_URI: ljx00cf41g9xzhn
 Unicode_character: "\U0001F1FD\U0001F1F0"
 short_name:
 - "\U0001F1FD\U0001F1F0"
@@ -249,14 +249,14 @@ total_fertility_rate: 1.87
 trunk_prefix: 0
 literacy_rate: 96.8
 GS1_country_code: 390
-FIPS_10-4_countries_and_regions_: KV
+FIPS_10_4_countries_and_regions_: KV
 IOC_country_code: KOS
 number_of_households: 353702
 INSEE_countries_and_foreign_territories_code: 99157
 OmegaWiki_Defined_Meaning: 378295
 population: 1586659
 coordinates_of_easternmost_point: "Point(21.78986622 42.65122705)"
-ISO_3166-1_alpha-2_code: XK
+ISO_3166_1_alpha_2_code: XK
 Commons_category: Kosovo
 hashtag: Kosovo
 Commons_gallery: "Kosova / Косово"

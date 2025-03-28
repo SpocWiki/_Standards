@@ -225,9 +225,9 @@ BTI_Status_Index:
 - 7.09
 - 7.15
 - 7.32
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.na,42758]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.na,42758]]'
 Happy_Planet_Index_score: 36.8
-Inequality-adjusted_Human_Development_Index: 0.402
+Inequality_adjusted_Human_Development_Index: 0.402
 trunk_prefix: 0
 BTI_Governance_Index:
 - 5.07
@@ -249,7 +249,7 @@ death_rate:
 - 8.475
 - 10.709
 - 11.457
-ISO_3166-1_numeric_code: 516
+ISO_3166_1_numeric_code: 516
 M49_code: 516
 maritime_identification_digits: 659
 OmegaWiki_Defined_Meaning: 7981
@@ -258,11 +258,11 @@ birth_rate:
 - 27.439
 - 27.876
 - 28.433
-ISO_3166-1_alpha-2_code: NA
+ISO_3166_1_alpha_2_code: NA
 WIPO_ST_3: NA
 IAB_code: 1363
 life_expectancy: 64.388
-number_of_out-of-school_children: 91819
+number_of_out_of_school_children: 91819
 male_population:
 - 1201660
 - 1181378
@@ -270,10 +270,10 @@ male_population:
 - 1238563
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Namibia.svg"
 licence_plate_code: NAM
-ISO_3166-1_alpha-3_code: NAM
+ISO_3166_1_alpha_3_code: NAM
 IOC_country_code: NAM
 INSEE_countries_and_foreign_territories_code: 99311
-FIPS_10-4_countries_and_regions_: WA
+FIPS_10_4_countries_and_regions_: WA
 area: 825615
 rural_population:
 - 1181955

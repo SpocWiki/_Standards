@@ -88,7 +88,7 @@ religion_or_worldview: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 medical_condition: '[[_Standards/WikiData/WD~asthma,35869]]'
 BHCL_UUID: 48cb6882-ef92-4e17-aa81-87fc85ba6354
-Libris-URI: 53hkmkrp1gq7nrd
+Libris_URI: 53hkmkrp1gq7nrd
 Regensburg_Classification: "BF 4185"
 Krugosvet_article: filosofiya/lokk-dzhon
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/45303

@@ -197,14 +197,14 @@ birth_rate:
 lowest_point: "[[_Standards/WikiData/WD~South China Sea,37660]]"
 total_fertility_rate: 1.75
 male_population: 235000
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bn,41199]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bn,41199]]'
 trunk_prefix: 0
 head_of_state: "[[_Standards/WikiData/WD~Hassanal Bolkiah I of Brunei,57327]]"
 head_of_government: "[[_Standards/WikiData/WD~Hassanal Bolkiah I of Brunei,57327]]"
 Human_Development_Index: 0.829
 WIPO_ST_3: BN
-ISO_3166-1_alpha-2_code: BN
-ISO_3166-1_alpha-3_code: BRN
+ISO_3166_1_alpha_2_code: BN
+ISO_3166_1_alpha_3_code: BRN
 female_population: 210400
 maritime_identification_digits: 508
 death_rate:
@@ -213,7 +213,7 @@ death_rate:
 - 5.211
 - 5.431
 mobile_country_code: 528
-number_of_out-of-school_children: 8309
+number_of_out_of_school_children: 8309
 GS1_country_code: 623
 urban_population:
 - 345650
@@ -242,8 +242,8 @@ nominal_GDP:
 - 14006497000
 OmegaWiki_Defined_Meaning: 8305
 M49_code: 096
-ISO_3166-1_numeric_code: 096
-FIPS_10-4_countries_and_regions_: BX
+ISO_3166_1_numeric_code: 096
+FIPS_10_4_countries_and_regions_: BX
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Brunei.svg"
 population: 458949
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brunei.svg"
@@ -264,7 +264,7 @@ official_website:
 - "https://www.gov.bn/bm/Home.aspx"
 - "https://www.gov.bn/SitePages/Home.aspx"
 country_calling_code: +673
-Libris-URI: 0xbdcr0j4q915dl
+Libris_URI: 0xbdcr0j4q915dl
 Dewey_Decimal_Classification: 2--5955
 Unicode_character: "\U0001F1E7\U0001F1F3"
 GitHub_topic: brunei

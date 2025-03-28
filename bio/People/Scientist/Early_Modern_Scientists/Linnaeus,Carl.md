@@ -146,7 +146,7 @@ Provenio_UUID:
 - af1202b4-8d8d-4702-a7c1-87e49e521707
 - 774664b4-b6c0-43bd-b354-1fb1e5b67fef
 Krugosvet_article: biologiya/linney-karl
-Libris-URI: c9prv8dw4nhccx1
+Libris_URI: c9prv8dw4nhccx1
 Royal_Academy_new_identifier: carl-linnaeus
 Swedish_Open_Cultural_Heritage_URI:
 - LSH/agents/18471

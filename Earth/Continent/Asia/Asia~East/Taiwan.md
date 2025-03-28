@@ -329,7 +329,7 @@ official_website:
 - "https://www.gov.tw"
 - "https://www.taiwan.gov.tw/"
 country_calling_code: +886
-Libris-URI: 31fhghxm5smt9wc
+Libris_URI: 31fhghxm5smt9wc
 member_of: "[[_Standards/WikiData/WD~United Nations,1065]]"
 capital: '[[_Standards/WikiData/WD~Taipei,1867]]'
 located_in_on_physical_feature:
@@ -375,10 +375,10 @@ total_fertility_rate: 1.07
 inflation_rate: 2.07
 Gini_coefficient: 0.338
 unemployment_rate: 3.39
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tw,43824]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tw,43824]]'
 Happy_Planet_Index_score: 43.2
 trunk_prefix: 0
-ISO_3166-1_numeric_code: 158
+ISO_3166_1_numeric_code: 158
 BTI_Governance_Index:
 - 7.04
 - 7.12
@@ -417,11 +417,11 @@ official_name: 中華民國
 Commons_category: Taiwan
 number_of_households: 9323985
 coordinate_location: "Point(121.0 24.0)"
-ISO_3166-1_alpha-3_code: TWN
+ISO_3166_1_alpha_3_code: TWN
 male_population: 11536982
 female_population: 11872341
-ISO_3166-1_alpha-2_code: TW
-FIPS_10-4_countries_and_regions_: TW
+ISO_3166_1_alpha_2_code: TW
+FIPS_10_4_countries_and_regions_: TW
 population: 23409323
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/National%20Emblem%20of%20the%20Republic%20of%20China.svg"
 U_S_National_Archives_Identifier: 10035791

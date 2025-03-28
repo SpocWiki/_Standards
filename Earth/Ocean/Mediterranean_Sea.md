@@ -341,7 +341,7 @@ bathymetry_image:
 detail_map:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Mediterranean%20Sea%20Bathymetry%20map.svg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mediterranean%20Sea%20political%20map-es.svg"
-Libris-URI: 64jlkdhq2gnbp3s
+Libris_URI: 64jlkdhq2gnbp3s
 Krugosvet_article: Earth_sciences/geografiya/SREDIZEMNOE_MORE.html
 subreddit:
 - MediterraneanSea

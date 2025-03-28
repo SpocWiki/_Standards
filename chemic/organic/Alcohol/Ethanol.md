@@ -196,7 +196,7 @@ flash_point:
 - 12
 - 55
 pKa: 16
-time-weighted_average_exposure_limit: 1900
+time_weighted_average_exposure_limit: 1900
 upper_flammable_limit: 19
 lower_flammable_limit: 3.3
 vapor_pressure:

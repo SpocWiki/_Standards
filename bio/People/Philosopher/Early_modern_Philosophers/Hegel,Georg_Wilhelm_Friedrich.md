@@ -98,7 +98,7 @@ Regensburg_Classification: "BF 3900"
 Wolfram_Language_entity_code: "Entity[\"Person\", \"GeorgWilhelmFriedrichHegel::t7pq2\"]"
 BHCL_UUID: f4750624-fee1-45f9-bdad-4559a218a6ea
 PhilPapers_topic: g-w-f-hegel
-Libris-URI: gdsvw1h017935tm
+Libris_URI: gdsvw1h017935tm
 Krugosvet_article: gumanitarnye_nauki/filosofiya/GEGEL_GEORG_VILGELM_FRIDRIH.html
 family_name: '[[_Standards/WikiData/WD~Hegel,15917370]]'
 possible_creator: "[[_Standards/WikiData/WD~The Oldest Systematic Program of German Idealism,16934411]]"

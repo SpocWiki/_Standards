@@ -188,7 +188,7 @@ demonym:
 - "كوريات جنوبيات"
 - "Güney Koreli"
 - "cənubi koreyalı"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.한국,12579915]]'
 - '[[_Standards/WikiData/WD~.kr,41853]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
@@ -222,7 +222,7 @@ ISBN_identifier_group:
 - 979-11
 - 978-89
 Revised_Romanization: "Daehan Minguk"
-Libris-URI: gdsvv1n0540tps9
+Libris_URI: gdsvv1n0540tps9
 Instagram_username: koreanet_official
 Unicode_character: "\U0001F1F0\U0001F1F7"
 CIVICUS_Monitor_country_entry: south-korea
@@ -312,7 +312,7 @@ BTI_Governance_Index:
 - 7.24
 - 7.25
 Democracy_Index: 8.16
-Inequality-adjusted_Human_Development_Index: 0.838
+Inequality_adjusted_Human_Development_Index: 0.838
 BTI_Status_Index:
 - 8.51
 - 8.55
@@ -323,7 +323,7 @@ BTI_Status_Index:
 - 8.89
 - 8.99
 Human_Development_Index: 0.925
-ISO_3166-1_numeric_code: 410
+ISO_3166_1_numeric_code: 410
 M49_code: 410
 maritime_identification_digits:
 - 440
@@ -331,7 +331,7 @@ maritime_identification_digits:
 mobile_country_code: 450
 UIC_numerical_country_code: 61
 GS1_country_code: 880
-ISO_3166-1_alpha-2_code: KR
+ISO_3166_1_alpha_2_code: KR
 WIPO_ST_3: KR
 IAB_code: 1447
 short_name:
@@ -358,11 +358,11 @@ median_income:
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg"
 aircraft_registration_prefix: HL
 area: 100295
-number_of_out-of-school_children: 122477
-ISO_3166-1_alpha-3_code: KOR
+number_of_out_of_school_children: 122477
+ISO_3166_1_alpha_3_code: KOR
 ITU_letter_code: KOR
 IOC_country_code: KOR
-FIPS_10-4_countries_and_regions_: KS
+FIPS_10_4_countries_and_regions_: KS
 Commons_category: "South Korea"
 Commons_gallery: 대한민국
 rural_population: 9718290

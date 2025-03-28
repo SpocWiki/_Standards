@@ -42,7 +42,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-%E0%A4%B8%E0%A5%81%E0%A4%AC%E0%A5%8B%E0%A4%A7%20%E0%A4%95%E0%A5%81%E0%A4%B2%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A5%80-%E0%A4%97%E0%A4%82%E0%A4%97%E0%A4%BE%20%E0%A4%A8%E0%A4%A6%E0%A5%80.wav"
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Varanasi%2C%20India%2C%20Ganges%20River%20after%20sunset.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Ghats%20across%20the%20Ganges%2C%20Varanasi.jpg"
-Libris-URI: 42gjh2gn5n3wcw5
+Libris_URI: 42gjh2gn5n3wcw5
 Commons_category: "Ganges River"
 basin_country: '[[_Standards/WikiData/WD~India,668]]'
 country: '[[_Standards/WikiData/WD~India,668]]'

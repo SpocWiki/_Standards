@@ -63,7 +63,7 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 BHCL_UUID: 664a22e2-8a6b-47ce-9f81-d2cddbda71c1
 Krugosvet_article: kultura_i_obrazovanie/literatura/PRUST_MARSEL.html
 Facebook_username: MarcelProustAuthor
-Libris-URI: xv8bc29g3xf1bcl
+Libris_URI: xv8bc29g3xf1bcl
 birth_name: "Valentin Louis Georges Eugène Marcel Proust"
 ArhivX_LOD: 4430
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Marcel%20Proust%20%28P%C3%A8re%20Lachaise%29.jpg"

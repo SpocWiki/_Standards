@@ -57,7 +57,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%201709
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Mountains%20banners.jpg"
 U_S_National_Archives_Identifier: 10045934
 OmegaWiki_Defined_Meaning: 756271
-Libris-URI: 97mpndwt17dn9kd
+Libris_URI: 97mpndwt17dn9kd
 ---
 
 ## #has_/text_of_/abstract 

@@ -774,14 +774,14 @@ BTI_Status_Index:
 retirement_age: 65
 life_expectancy: 75
 mains_voltage: 127
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mx,40979]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mx,40979]]'
 Gini_coefficient: 45.4
 maritime_identification_digits: 345
 M49_code: 484
-ISO_3166-1_numeric_code: 484
+ISO_3166_1_numeric_code: 484
 Happy_Planet_Index_score: 54.3
 Democracy_Index: 6.07
-Inequality-adjusted_Human_Development_Index: 0.621
+Inequality_adjusted_Human_Development_Index: 0.621
 Human_Development_Index: 0.758
 total_fertility_rate: 2.243
 GitHub_topic: mexico
@@ -801,14 +801,14 @@ area: 1972550
 ITU_letter_code: MEX
 IOC_country_code: MEX
 licence_plate_code: MEX
-ISO_3166-1_alpha-3_code: MEX
+ISO_3166_1_alpha_3_code: MEX
 WIPO_ST_3: MX
-FIPS_10-4_countries_and_regions_: MX
-ISO_3166-1_alpha-2_code: MX
+FIPS_10_4_countries_and_regions_: MX
+ISO_3166_1_alpha_2_code: MX
 INSEE_countries_and_foreign_territories_code: 99405
 PM20_geo_code: E20
 OmegaWiki_Defined_Meaning: 155305
-number_of_out-of-school_children: 4330276
+number_of_out_of_school_children: 4330276
 nominal_GDP:
 - 1272838810896
 - 1414187193992

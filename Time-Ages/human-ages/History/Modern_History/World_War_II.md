@@ -97,7 +97,7 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q25681543,25681543]]'
 - '[[_Standards/WikiData/WD~Q27643331,27643331]]'
 UMLS_CUI: C0681710
-Libris-URI: 64jlkvmq4b77rq1
+Libris_URI: 64jlkvmq4b77rq1
 MeSH_tree_code:
 - I01.880.735.950.250.984
 - K01.400.504.968.901

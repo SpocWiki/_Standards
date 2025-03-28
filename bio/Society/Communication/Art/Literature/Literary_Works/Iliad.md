@@ -169,7 +169,7 @@ plot_expanded_in:
 - '[[_Standards/WikiData/WD~Aeneid,60220]]'
 genre: "[[_Standards/WikiData/WD~epic poem,37484]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/AmbrosianIliadPict47Achilles.jpg"
-Libris-URI: 86lpxg5s21zpr23
+Libris_URI: 86lpxg5s21zpr23
 ---
 
 ## #has_/text_of_/abstract 

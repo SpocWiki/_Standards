@@ -65,7 +65,7 @@ UMLS_CUI: C0008574
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystal%20grown%20using%20CVD%20method.webm"
 vapor_pressure: 0
 oxidation_state: 3
-time-weighted_average_exposure_limit: 0.5
+time_weighted_average_exposure_limit: 0.5
 atomic_number: 24
 immediately_dangerous_to_life_or_health: 250
 ionic_radius:

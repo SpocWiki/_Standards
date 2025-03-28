@@ -272,7 +272,7 @@ death_rate:
 - 15.9
 - 18.5
 - 21.4
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ua,40656]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ua,40656]]'
 Gini_coefficient: 25.6
 Happy_Planet_Index_score: 40.9
 trunk_prefix: 0
@@ -288,7 +288,7 @@ BTI_Status_Index:
 - 6.81
 - 6.93
 - 6.96
-Inequality-adjusted_Human_Development_Index: 0.726
+Inequality_adjusted_Human_Development_Index: 0.726
 Human_Development_Index: 0.773
 UIC_numerical_country_code: 22
 GS1_country_code: 482
@@ -366,23 +366,23 @@ urban_population:
 - 26569220
 population: 41167335
 coordinates_of_westernmost_point: "Point(22.137222222 48.419166666)"
-number_of_out-of-school_children: 117710
+number_of_out_of_school_children: 117710
 mobile_country_code: 255
 maritime_identification_digits: 272
-ISO_3166-1_numeric_code: 804
+ISO_3166_1_numeric_code: 804
 M49_code: 804
 aircraft_registration_prefix: UR
 area: 603550
 OmegaWiki_Defined_Meaning: 8331
-FIPS_10-4_countries_and_regions_: UP
+FIPS_10_4_countries_and_regions_: UP
 licence_plate_code: UA
-ISO_3166-1_alpha-2_code: UA
+ISO_3166_1_alpha_2_code: UA
 WIPO_ST_3: UA
 UIC_alphabetical_country_code: UA
 UN_LOCODE: UA
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ukraine.svg"
 IOC_country_code: UKR
-ISO_3166-1_alpha-3_code: UKR
+ISO_3166_1_alpha_3_code: UKR
 ITU_letter_code: UKR
 UNDP_country_code: UKR
 INSEE_countries_and_foreign_territories_code: 99155

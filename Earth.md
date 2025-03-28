@@ -15,7 +15,7 @@ apoapsis:
 - 151930000
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20%285052124705%29.jpg"
 distance_from_Earth: 0
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 149598023
 - 1
 rotation_period: 24
@@ -33,7 +33,7 @@ maximum_temperature_record: 56.7
 temperature: 15
 said_to_be_the_same_as: '[[_Standards/WD/WD~world,16502]]'
 population: 8028504258
-number_of_out-of-school_children: 264000000
+number_of_out_of_school_children: 264000000
 albedo:
 - 0.306
 - 0.434
@@ -57,6 +57,7 @@ volume_as_quantity: 1083210000000
 mean_anomaly: 358.617
 mass: 5972.37
 ---
+
 # [[Earth]] 
 
 #is_/same_as :: [[WD~Earth,2]] 

@@ -647,19 +647,19 @@ BTI_Status_Index:
 head_of_state: "[[_Standards/WikiData/WD~Luiz Inácio Lula da Silva,37181]]"
 head_of_government: "[[_Standards/WikiData/WD~Luiz Inácio Lula da Silva,37181]]"
 total_fertility_rate: 1.74
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.br,39889]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.br,39889]]'
 described_at_URL: "https://www.cia.gov/library/publications/resources/the-world-factbook/geos/br.html"
 official_website: "https://www.gov.br"
 Universal_Decimal_Classification: (81)
 Gini_coefficient: 48.9
 country_calling_code: +55
-ISO_3166-1_numeric_code: 076
+ISO_3166_1_numeric_code: 076
 M49_code: 076
 U_S_National_Archives_Identifier: 10035712
 RIA_Novosti_reference: 1033162646
 IAB_code: 1260
 Dewey_Decimal_Classification: 2--81
-Libris-URI: 31fhgvzm2hg6014
+Libris_URI: 31fhgvzm2hg6014
 Provenio_UUID: 51c2a4a7-5001-421c-be15-79edc5a1a3a2
 maritime_identification_digits: 710
 mobile_country_code: 724
@@ -669,10 +669,10 @@ INSEE_countries_and_foreign_territories_code: 99416
 ITU_letter_code: B
 WIPO_ST_3: BR
 licence_plate_code: BR
-ISO_3166-1_alpha-2_code: BR
-FIPS_10-4_countries_and_regions_: BR
+ISO_3166_1_alpha_2_code: BR
+FIPS_10_4_countries_and_regions_: BR
 Unicode_character: "\U0001F1E7\U0001F1F7"
-ISO_3166-1_alpha-3_code: BRA
+ISO_3166_1_alpha_3_code: BRA
 IOC_country_code: BRA
 subreddit: brasil
 Commons_gallery: Brasil
@@ -696,7 +696,7 @@ aircraft_registration_prefix:
 - PP
 Colon_Classification: SG--7918
 Krugosvet_article: strany_mira/BRAZILIYA.html
-Inequality-adjusted_Human_Development_Index: 0.576
+Inequality_adjusted_Human_Development_Index: 0.576
 MeSH_tree_code: Z01.107.757.176
 Baidu_Tieba_name: 巴西
 Democracy_Index: 6.86
@@ -714,7 +714,7 @@ life_expectancy: 75.723
 social_media_followers:
 - 88095
 - 1446954
-number_of_out-of-school_children: 3181989
+number_of_out_of_school_children: 3181989
 area: 8515767
 inception: "1822-09-07T00:00:00Z"
 has_time_started: "1822-09-07T00:00:00Z"

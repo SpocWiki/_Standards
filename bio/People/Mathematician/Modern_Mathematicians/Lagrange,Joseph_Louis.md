@@ -93,7 +93,7 @@ Commons_category: "Joseph-Louis Lagrange"
 date_of_death: "1813-04-10T00:00:00Z"
 Krugosvet_article: matematika/lagranzh-zhozef-lui
 Regensburg_Classification: "SF 4840"
-Libris-URI: vs68b59d4g2mdf4
+Libris_URI: vs68b59d4g2mdf4
 name_in_native_language: "Giuseppe Ludovico Lagrangia"
 birth_name: "Giuseppe Ludovico Lagrangia"
 date_of_birth: "1736-01-25T00:00:00Z"

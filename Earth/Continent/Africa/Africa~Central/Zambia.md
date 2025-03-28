@@ -234,7 +234,7 @@ unemployment_rate: 13
 VAT_rate: 16
 mains_voltage: 230
 marriageable_age: 25
-Inequality-adjusted_Human_Development_Index: 0.39
+Inequality_adjusted_Human_Development_Index: 0.39
 BTI_Governance_Index:
 - 5.5
 - 3.91
@@ -255,7 +255,7 @@ BTI_Status_Index:
 - 5.97
 - 5.99
 - 6.07
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.zm,41842]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.zm,41842]]'
 lowest_point: "[[_Standards/WikiData/WD~Zambezi River,43106]]"
 Happy_Planet_Index_score: 34.4
 Democracy_Index: 4.86
@@ -270,12 +270,12 @@ death_rate:
 - 6.602
 - 6.716
 - 6.973
-ISO_3166-1_numeric_code: 894
+ISO_3166_1_numeric_code: 894
 M49_code: 894
 mobile_country_code: 645
 maritime_identification_digits: 678
 licence_plate_code: Z
-FIPS_10-4_countries_and_regions_: ZA
+FIPS_10_4_countries_and_regions_: ZA
 birth_rate:
 - 34.127
 - 34.511
@@ -284,7 +284,7 @@ birth_rate:
 IOC_country_code: ZAM
 life_expectancy: 61.874
 INSEE_countries_and_foreign_territories_code: 99346
-ISO_3166-1_alpha-2_code: ZM
+ISO_3166_1_alpha_2_code: ZM
 WIPO_ST_3: ZM
 area: 752618
 urban_population:
@@ -300,7 +300,7 @@ rural_population:
 Commons_category: Zambia
 Commons_gallery: Zambia
 Unicode_character: "\U0001F1FF\U0001F1F2"
-ISO_3166-1_alpha-3_code: ZMB
+ISO_3166_1_alpha_3_code: ZMB
 ITU_letter_code: ZMB
 native_label: "Republic of Zambia"
 official_name:
@@ -339,7 +339,7 @@ described_at_URL:
 - "https://www.britannica.com/place/Zambia"
 - "https://www.cia.gov/library/publications/the-world-factbook/geos/za.html"
 country_calling_code: +260
-Libris-URI: 42gjhl6n4qb4j5h
+Libris_URI: 42gjhl6n4qb4j5h
 Krugosvet_article: strany_mira/ZAMBIYA.html
 MeSH_tree_code: Z01.058.290.175.920
 GitHub_topic: zambia

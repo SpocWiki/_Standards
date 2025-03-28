@@ -760,7 +760,7 @@ birth_rate:
 - 11.5
 - 11.6
 - 12.1
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.au,37420]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.au,37420]]'
 total_fertility_rate: 1.74
 minimum_wage: 24.1
 Gini_coefficient: 32.4
@@ -776,7 +776,7 @@ maritime_identification_digits: 503
 continent: '[[_Standards/WikiData/WD~Oceania,55643]]'
 vehicles_per_thousand_people: 784
 life_expectancy: 83.2
-Inequality-adjusted_Human_Development_Index: 0.876
+Inequality_adjusted_Human_Development_Index: 0.876
 Democracy_Index: 8.96
 Human_Development_Index: 0.951
 UIC_numerical_country_code: 61
@@ -802,7 +802,7 @@ Commons_gallery: Australia
 perimeter:
 - 35877
 - 59736
-ISO_3166-1_numeric_code: 036
+ISO_3166_1_numeric_code: 036
 M49_code: 036
 annual_number_of_weddings:
 - 78987
@@ -810,7 +810,7 @@ annual_number_of_weddings:
 - 113815
 - 119186
 - 127161
-number_of_out-of-school_children: 107065
+number_of_out_of_school_children: 107065
 Colon_Classification: SG--8
 Krugosvet_article: strany_mira/AVSTRALIYA.html
 subreddit:
@@ -907,7 +907,7 @@ spoken_text_audio:
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Uluru-Kata%20Tjuta%20banner%20Uluru%20Sunset.jpg"
 official_website: "https://www.australia.gov.au/"
 Iconclass_notation: 25A26
-Libris-URI: 97mpn0ft3gmr61w
+Libris_URI: 97mpn0ft3gmr61w
 BHCL_UUID:
 - c7ae36ae-6cb9-46a2-b624-635895df7396
 - f413fd89-9aad-4c39-be8c-a80802c59425
@@ -929,7 +929,7 @@ coordinates_of_easternmost_point: "Point(153.637222222 -28.6375)"
 coordinates_of_northernmost_point: "Point(142.53151 -10.68717)"
 country: '[[_Standards/WikiData/WD~Australia,408]]'
 OmegaWiki_Defined_Meaning: 5776
-FIPS_10-4_countries_and_regions_: AS
+FIPS_10_4_countries_and_regions_: AS
 rural_population:
 - 3515460
 - 3529080
@@ -937,7 +937,7 @@ rural_population:
 - 3515066
 total_exports: 464925000000
 INSEE_countries_and_foreign_territories_code: 99501
-ISO_3166-1_alpha-3_code: AUS
+ISO_3166_1_alpha_3_code: AUS
 licence_plate_code: AUS
 IOC_country_code: AUS
 ITU_letter_code: AUS
@@ -946,7 +946,7 @@ PM20_geo_code: D30
 WOEID: 23424748
 GS1_country_code: 930-939
 nominal_GDP_per_capita: 54348.23
-ISO_3166-1_alpha-2_code: AU
+ISO_3166_1_alpha_2_code: AU
 UN_LOCODE: AU
 WIPO_ST_3: AU
 UIC_alphabetical_country_code: AU

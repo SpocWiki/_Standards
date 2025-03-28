@@ -103,7 +103,7 @@ image_of_grave:
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20G%C3%B6del%20signature.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Kurt%20G%C3%B6del%20as%20a%20student%20in%201925.jpg"
 ACM_Classification_Code_2012_: 10011419
-Libris-URI: 1zcfhb3k1zschfj
+Libris_URI: 1zcfhb3k1zschfj
 BHCL_UUID: b2dcc5e1-8d62-4eff-ba00-38370fc7b150
 Wolfram_Language_entity_code: "Entity[\"Person\", \"KurtGodel::h4724\"]"
 ---

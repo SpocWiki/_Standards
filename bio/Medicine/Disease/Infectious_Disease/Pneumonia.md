@@ -56,7 +56,7 @@ symptoms_and_signs:
 - '[[_Standards/WikiData/WD~tachypnea,570920]]'
 - '[[_Standards/WikiData/WD~hemoptysis,647099]]'
 - '[[_Standards/WikiData/WD~chills,2260058]]'
-ICD-9-CM:
+ICD_9_CM:
 - 483
 - 486
 - 484.8

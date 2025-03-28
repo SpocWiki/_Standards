@@ -107,7 +107,7 @@ number_of_cases: 39000000
 number_of_deaths: 40400000
 OmegaWiki_Defined_Meaning: 105
 DiseasesDB: 5938
-ICD-10-CM: B20
+ICD_10_CM: B20
 start_time: "1959-01-01T00:00:00Z"
 time_of_discovery_or_invention: "1959-01-01T00:00:00Z"
 Commons_gallery: AIDS

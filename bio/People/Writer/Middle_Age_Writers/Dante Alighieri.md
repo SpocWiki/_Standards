@@ -152,7 +152,7 @@ Iconclass_notation: 82A(DANTE)
 Dewey_Decimal_Classification: 851.1
 Provenio_UUID: ad30affd-87cd-44b4-badf-7c697ad9c9d5
 Europeana_entity: agent/base/59792
-Libris-URI: c9prrn7w4mx98hn
+Libris_URI: c9prrn7w4mx98hn
 Regensburg_Classification: "CE 2670"
 Commons_category: "Dante Alighieri"
 Commons_Creator_page: "Dante Alighieri"

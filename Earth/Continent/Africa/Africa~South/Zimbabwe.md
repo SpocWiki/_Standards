@@ -211,14 +211,14 @@ BTI_Status_Index:
 - 3.68
 - 3.83
 - 3.91
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.zw,42286]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.zw,42286]]'
 Democracy_Index: 3.16
-Inequality-adjusted_Human_Development_Index: 0.458
+Inequality_adjusted_Human_Development_Index: 0.458
 Gini_coefficient: 50.3
 Human_Development_Index: 0.593
 mobile_country_code: 648
 M49_code: 716
-ISO_3166-1_numeric_code: 716
+ISO_3166_1_numeric_code: 716
 total_fertility_rate: 3.923
 death_rate:
 - 8.043
@@ -235,9 +235,9 @@ maritime_identification_digits: 679
 life_expectancy: 61.163
 IAB_code: 1477
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg"
-FIPS_10-4_countries_and_regions_: ZI
+FIPS_10_4_countries_and_regions_: ZI
 Unicode_character: "\U0001F1FF\U0001F1FC"
-number_of_out-of-school_children: 1123710
+number_of_out_of_school_children: 1123710
 INSEE_countries_and_foreign_territories_code: 99310
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20%28orthographic%20projection%29.svg"
@@ -275,11 +275,11 @@ inception: "1980-04-18T00:00:00Z"
 has_time_started: "1980-04-18T00:00:00Z"
 Dewey_Decimal_Classification: 2--6891
 ITU_letter_code: ZWE
-ISO_3166-1_alpha-3_code: ZWE
+ISO_3166_1_alpha_3_code: ZWE
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Zimbabwe.svg"
 WIPO_ST_3: ZW
 licence_plate_code: ZW
-ISO_3166-1_alpha-2_code: ZW
+ISO_3166_1_alpha_2_code: ZW
 official_name:
 - Zimbabwe
 - Zimbabwe

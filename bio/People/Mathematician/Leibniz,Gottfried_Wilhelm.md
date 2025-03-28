@@ -225,7 +225,7 @@ native_language: '[[_Standards/WikiData/WD~German,188]]'
 ArhivX_LOD: 5466
 Google_Doodle: gottfried-wilhelm-leibnizs-372nd-birthday
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/44765
-Libris-URI: mkz1361553f1hb2
+Libris_URI: mkz1361553f1hb2
 name_in_native_language: "Gottfried Wilhelm Leibniz"
 Stack_Exchange_tag:
 - "https://hsm.stackexchange.com/tags/leibniz"

@@ -97,7 +97,7 @@ relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/MountEv
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Starry%20night%20at%20Mount%20Everest.jpg"
 U_S_National_Archives_Identifier: 10038395
 Commons_category: "Mount Everest"
-Libris-URI: rp35400920gsz51
+Libris_URI: rp35400920gsz51
 Commons_gallery: ཇོ་མོ་གླང་མ
 coordinate_location: "Point(86.925 27.988055555)"
 ---

@@ -255,13 +255,13 @@ birth_rate:
 - 10.4
 - 10.5
 Gini_coefficient: 23.2
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.sk,41529]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sk,41529]]'
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Slovakia,45369]]"
 Happy_Planet_Index_score: 46.6
 trunk_prefix: 0
 Democracy_Index: 6.97
 head_of_government: "[[_Standards/WikiData/WD~Robert Fico,57606]]"
-Inequality-adjusted_Human_Development_Index: 0.803
+Inequality_adjusted_Human_Development_Index: 0.803
 Human_Development_Index: 0.848
 BTI_Status_Index:
 - 8.59
@@ -281,15 +281,15 @@ unemployment_rate:
 - 6.894
 IAB_code: 1405
 mobile_country_code: 231
-ISO_3166-1_numeric_code: 703
+ISO_3166_1_numeric_code: 703
 M49_code: 703
 GS1_country_code: 858
-FIPS_10-4_countries_and_regions_: LO
+FIPS_10_4_countries_and_regions_: LO
 area: 49035
 INSEE_countries_and_foreign_territories_code: 99117
 winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/HighTatras.JPG"
 licence_plate_code: SK
-ISO_3166-1_alpha-2_code: SK
+ISO_3166_1_alpha_2_code: SK
 NUTS_code:
 - SK
 - SK0
@@ -300,7 +300,7 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/EU-Slovak
 Image_Archive_Herder_Institute: Q214
 population: 5449270
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovakia.svg"
-ISO_3166-1_alpha-3_code: SVK
+ISO_3166_1_alpha_3_code: SVK
 IOC_country_code: SVK
 ITU_letter_code: SVK
 Commons_category: Slovakia

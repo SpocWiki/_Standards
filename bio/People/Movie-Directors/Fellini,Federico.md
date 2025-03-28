@@ -95,7 +95,7 @@ family_name: '[[_Standards/WikiData/WD~Fellini,99908740]]'
 significant_person: "[[_Standards/WikiData/WD~Luigi Benzi,104822989]]"
 place_of_burial: "[[_Standards/WikiData/WD~Fellini tomb,123690196]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Federico%20Fellini%20NYWTS%202.jpg"
-Libris-URI: 97mppq9t1gh198r
+Libris_URI: 97mppq9t1gh198r
 ---
 
 ## #has_/text_of_/abstract 

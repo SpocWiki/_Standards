@@ -70,7 +70,7 @@ maintained_by_WikiProject:
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Association of Southeast Asian Nations (ASEAN),6845384]]"
 has_subsidiary: '[[_Standards/WikiData/WD~ASEANstats,55703876]]'
 described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-Libris-URI: 75kmks9r3tdq5ld
+Libris_URI: 75kmks9r3tdq5ld
 ISNI:
 - 0000000121770221
 - 0000000406444753

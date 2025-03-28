@@ -326,20 +326,20 @@ urban_population:
 - 33575039
 population: 46164219
 M49_code: 012
-ISO_3166-1_numeric_code: 012
+ISO_3166_1_numeric_code: 012
 maritime_identification_digits: 605
 GS1_country_code: 613
 WIPO_ST_3: DZ
 UIC_alphabetical_country_code: DZ
 licence_plate_code: DZ
-ISO_3166-1_alpha-2_code: DZ
+ISO_3166_1_alpha_2_code: DZ
 birth_rate:
 - 20.572
 - 21.524
 - 22.431
 - 23.298
 OmegaWiki_Defined_Meaning: 5755
-FIPS_10-4_countries_and_regions_: AG
+FIPS_10_4_countries_and_regions_: AG
 life_expectancy: 76.078
 PM20_geo_code: C19
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Algeria.svg"
@@ -348,7 +348,7 @@ IOC_country_code: ALG
 native_label:
 - الجزائر
 - "الجمهورية الجزائرية الديمقراطية الشعبية"
-ISO_3166-1_alpha-3_code: DZA
+ISO_3166_1_alpha_3_code: DZA
 INSEE_countries_and_foreign_territories_code: 99352
 area: 2381741
 inception: "1962-07-03T00:00:00Z"
@@ -393,7 +393,7 @@ BTI_Governance_Index:
 - 4.58
 - 4.67
 literacy_rate: 75
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.dz,41039]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.dz,41039]]'
 Gini_coefficient: 27.6
 geography_of_topic: "[[_Standards/WikiData/WD~geography of Algeria,44321]]"
 Democracy_Index: 3.77
@@ -410,7 +410,7 @@ Happy_Planet_Index_score: 46.5
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 UIC_numerical_country_code: 92
 basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
-Inequality-adjusted_Human_Development_Index: 0.598
+Inequality_adjusted_Human_Development_Index: 0.598
 Human_Development_Index: 0.745
 mobile_country_code: 603
 total_fertility_rate: 2.857

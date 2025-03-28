@@ -262,7 +262,7 @@ BTI_Governance_Index:
 - 4.46
 suicide_rate: 4.7
 literacy_rate: 66
-ISO_3166-1_alpha-3_code: AGO
+ISO_3166_1_alpha_3_code: AGO
 IOC_country_code: ANG
 licence_plate_code: ANG
 GitHub_topic: angola
@@ -271,9 +271,9 @@ subreddit: angola
 Commons_gallery: Angola
 hashtag: Angola
 Commons_category: Angola
-FIPS_10-4_countries_and_regions_: AO
+FIPS_10_4_countries_and_regions_: AO
 WIPO_ST_3: AO
-ISO_3166-1_alpha-2_code: AO
+ISO_3166_1_alpha_2_code: AO
 Unicode_character: "\U0001F1E6\U0001F1F4"
 PM20_geo_code: C85
 Colon_Classification: SG--643
@@ -313,7 +313,7 @@ female_population:
 - 16370553
 - 16910989
 - 17452283
-number_of_out-of-school_children: 2088363
+number_of_out_of_school_children: 2088363
 coordinates_of_westernmost_point: "Point(11.7 -16.5833)"
 male_population:
 - 15983035
@@ -330,7 +330,7 @@ has_time_started: "1992-08-25T00:00:00Z"
 coordinates_of_southernmost_point: "Point(20.825527777 -18.0385)"
 population: 36749906
 coordinate_location: "Point(17.35 -12.35)"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ao,39006]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ao,39006]]'
 BTI_Status_Index:
 - 3.41
 - 3.82
@@ -341,7 +341,7 @@ BTI_Status_Index:
 - 4.56
 - 4.92
 Democracy_Index: 3.66
-Inequality-adjusted_Human_Development_Index: 0.407
+Inequality_adjusted_Human_Development_Index: 0.407
 maximum_temperature_record: 43.5
 Gini_coefficient: 51.3
 Human_Development_Index: 0.586
@@ -358,7 +358,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Malange%20%28An
 official_website: "https://www.governo.gov.ao/"
 country_calling_code: +244
 M49_code: 024
-ISO_3166-1_numeric_code: 024
+ISO_3166_1_numeric_code: 024
 U_S_National_Archives_Identifier: 10035816
 IAB_code: 1235
 Dewey_Decimal_Classification: 2--673

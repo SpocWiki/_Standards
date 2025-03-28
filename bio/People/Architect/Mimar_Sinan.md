@@ -26,7 +26,7 @@ given_name: '[[_Standards/WikiData/WD~Q110818088,110818088]]'
 date_of_birth: "1490-01-01T00:00:00Z"
 position_held: "[[_Standards/WikiData/WD~chief Ottoman imperial architect,130685555]]"
 ISNI: 0000000080016993
-Libris-URI: dwxsvwcnbptk6rsl
+Libris_URI: dwxsvwcnbptk6rsl
 date_of_death: "1588-07-17T00:00:00Z"
 place_of_burial: '[[_Standards/WikiData/WD~Constantinople,16869]]'
 place_of_death: '[[_Standards/WikiData/WD~Constantinople,16869]]'

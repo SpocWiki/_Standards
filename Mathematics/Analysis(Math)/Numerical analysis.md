@@ -22,7 +22,7 @@ UMLS_CUI: C0028645
 Stack_Exchange_tag: "https://mathoverflow.net/tags/na.numerical-analysis"
 MeSH_tree_code: L01.224.680.700
 Dewey_Decimal_Classification: 518
-All-Science_Journal_Classification_Codes: 2612
+All_Science_Journal_Classification_Codes: 2612
 Commons_category: "Numerical analysis"
 ACM_Classification_Code_2012_: 10003715
 OmegaWiki_Defined_Meaning: 847567

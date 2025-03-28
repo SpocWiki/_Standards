@@ -476,7 +476,7 @@ BHCL_UUID: 3826b91c-8c5e-4537-93f5-7537e2e88599
 Europeana_entity: agent/base/113189
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/RUBENS_PITER_PAUL.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/25633
-Libris-URI: mkz12t1556fgjnz
+Libris_URI: mkz12t1556fgjnz
 Royal_Academy_new_identifier: peter-paul-rubens
 date_of_death: "1640-05-30T00:00:00Z"
 name_in_native_language: "Peter Paul Rubens"

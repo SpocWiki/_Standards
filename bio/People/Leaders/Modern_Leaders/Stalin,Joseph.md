@@ -161,7 +161,7 @@ birth_name: "იოსებ ბესარიონის ძე ჯუღა�
 work_period_start_: "1895-01-01T00:00:00Z"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg"
 RIA_Novosti_reference: 42596093
-Libris-URI: 53hkl14p58hf71m
+Libris_URI: 53hkl14p58hf71m
 BHCL_UUID: 7bc6d92e-1864-4a3e-a5ae-7a678889539f
 Wolfram_Language_entity_code: "Entity[\"Person\", \"JosefStalin::2333v\"]"
 Krugosvet_article: istoriya/STALIN_IOSIF_VISSARIONOVICH.html

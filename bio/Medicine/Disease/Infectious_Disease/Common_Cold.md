@@ -75,10 +75,10 @@ instance_of:
 - "[[_Standards/WikiData/WD~infectious disease,18123741]]"
 - "[[_Standards/WikiData/WD~class of disease,112193867]]"
 - "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
-ICD-9-CM: 460
+ICD_9_CM: 460
 IAB_code: 315
 DiseasesDB: 31088
-ICD-10-CM: J00
+ICD_10_CM: J00
 OmegaWiki_Defined_Meaning: 1178541
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-rhume.wav"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhinovirus%20isosurface.png"

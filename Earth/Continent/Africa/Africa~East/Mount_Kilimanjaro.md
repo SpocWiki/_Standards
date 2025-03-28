@@ -36,7 +36,7 @@ Commons_gallery: Kilimanjaro
 Commons_category: Kilimanjaro
 native_label: Kilimanjaro
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kilimanjaro%20banner.jpg"
-Libris-URI: gdsvtjz04dk2szm
+Libris_URI: gdsvtjz04dk2szm
 ---
 
 ## #has_/text_of_/abstract 

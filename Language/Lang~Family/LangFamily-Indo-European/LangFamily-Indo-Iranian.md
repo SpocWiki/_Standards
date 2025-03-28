@@ -10,9 +10,9 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Iranian languages,8084
 instance_of: "[[_Standards/WikiData/WD~language family,25295]]"
 subclass_of: '[[_Standards/WikiData/WD~Indo-Iranian,33514]]'
 ABS_ASCL_2011_code: 41
-ISO_639-5_code: ira
+ISO_639_5_code: ira
 IETF_language_tag: ira
-ISO_639-2_code: ira
+ISO_639_2_code: ira
 OmegaWiki_Defined_Meaning: 587023
 Universal_Decimal_Classification: 811.22
 Krugosvet_article: gumanitarnye_nauki/lingvistika/IRANSKIE_YAZIKI.html

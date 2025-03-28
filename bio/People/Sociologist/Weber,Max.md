@@ -68,7 +68,7 @@ Regensburg_Classification:
 - "MQ 3911"
 Krugosvet_article: gumanitarnye_nauki/sociologiya/VEBER_MAKS.html
 GitHub_topic: max-weber
-Libris-URI: vs68917d1vbhj88
+Libris_URI: vs68917d1vbhj88
 birth_name: "Maximilian Carl Emil Weber"
 date_of_death: "1920-06-14T00:00:00Z"
 spouse: "[[_Standards/WikiData/WD~Marianne Weber,66916]]"

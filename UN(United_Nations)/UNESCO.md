@@ -121,7 +121,7 @@ official_website:
 terms_of_service_URL: "https://digital.archives.unesco.org/en"
 charter_URL: "https://unesdoc.unesco.org/ark:/48223/pf0000179478"
 OmegaWiki_Defined_Meaning: 1637876
-Libris-URI: 31fjmpsm5bh4ns6
+Libris_URI: 31fjmpsm5bh4ns6
 BHCL_UUID: 586f1969-5e78-4a9c-9717-df6ade6fe592
 MeSH_tree_code: N03.540.514.718.400
 ---

@@ -60,7 +60,7 @@ Iconclass_notation: 98B(OVID)9
 Provenio_UUID: 9f05592c-1d0f-4ac6-a476-9765f0b7eaed
 Europeana_entity: agent/base/60351
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Ovid::hsk2f\"]"
-Libris-URI: khwz0c533nt6t8c
+Libris_URI: khwz0c533nt6t8c
 Krugosvet_article: kultura_i_obrazovanie/literatura/OVIDI_PUBLI_OVIDI_NAZON.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/22478
 Royal_Academy_new_identifier: ovid

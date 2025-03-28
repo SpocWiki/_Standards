@@ -19,7 +19,7 @@ Dewey_Decimal_Classification:
 - 668.4
 - 620.1923
 - 668.9
-All-Science_Journal_Classification_Codes: 2507
+All_Science_Journal_Classification_Codes: 2507
 Colon_Classification: F52
 Commons_category: Plastics
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Plastic-ar.ogg"

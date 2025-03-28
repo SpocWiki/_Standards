@@ -67,7 +67,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/SRINIVASA%20RAMANUJAN
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Srinivasa%20Ramanujan%20-%20OPC%20-%202%20%28cleaned%29.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Srinivasa%20Ramanujan%20-%20OPC%20-%201.jpg"
-Libris-URI: b8nqsp1v561tqqz
+Libris_URI: b8nqsp1v561tqqz
 Google_Doodle: srinivasa-ramanujans-125th-birthday
 date_of_birth: "1887-12-22T00:00:00Z"
 ISNI: 0000000121252846

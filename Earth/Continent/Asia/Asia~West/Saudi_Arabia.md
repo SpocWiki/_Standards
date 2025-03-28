@@ -4,7 +4,7 @@ located_in_or_next_to_body_of_water:
 - "[[_Standards/WikiData/WD~Gulf of Aqaba,81611]]"
 - "[[_Standards/WikiData/WD~Persian Gulf,34675]]"
 - "[[_Standards/WikiData/WD~Red Sea,23406]]"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~AlSaudiah,137014]]'
 - '[[_Standards/WikiData/WD~.sa,41433]]'
 significant_event:
@@ -293,7 +293,7 @@ death_rate:
 - 2.913
 total_fertility_rate: 2.765
 maritime_identification_digits: 403
-ISO_3166-1_numeric_code: 682
+ISO_3166_1_numeric_code: 682
 M49_code: 682
 birth_rate:
 - 16.919
@@ -322,7 +322,7 @@ lowest_point: "[[_Standards/WikiData/WD~Red Sea,23406]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Arabian Peninsula,31945]]"
 minimum_temperature_record: -12
 country_calling_code: +966
-Libris-URI: pm133bb70b96fmb
+Libris_URI: pm133bb70b96fmb
 subreddit: saudiarabia
 hashtag: SaudiArabia
 Krugosvet_article: strany_mira/SAUDOVSKAYA_ARAVIYA.html
@@ -333,18 +333,18 @@ official_name:
 - السعودية
 short_name: "\U0001F1F8\U0001F1E6"
 Dewey_Decimal_Classification: 2--538
-ISO_3166-1_alpha-2_code: SA
-FIPS_10-4_countries_and_regions_: SA
+ISO_3166_1_alpha_2_code: SA
+FIPS_10_4_countries_and_regions_: SA
 WIPO_ST_3: SA
 life_expectancy: 74.561
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Saudi%20Arabia.svg"
 OmegaWiki_Defined_Meaning: 7966
 INSEE_countries_and_foreign_territories_code: 99201
-ISO_3166-1_alpha-3_code: SAU
+ISO_3166_1_alpha_3_code: SAU
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saudi%20Arabia.svg"
 licence_plate_code: KSA
 IOC_country_code: KSA
-number_of_out-of-school_children: 372396
+number_of_out_of_school_children: 372396
 rural_population:
 - 5709090
 - 5559991

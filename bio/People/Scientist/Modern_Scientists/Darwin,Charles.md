@@ -100,7 +100,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-Y-DNA_Haplogroup: "[[_Standards/WikiData/WD~Haplogroup R1b,674896]]"
+Y_DNA_Haplogroup: "[[_Standards/WikiData/WD~Haplogroup R1b,674896]]"
 employer:
 - "[[_Standards/WikiData/WD~Royal Geographical Society,691152]]"
 has_works_in_the_collection:
@@ -178,7 +178,7 @@ Wolfram_Language_entity_code:
 - "Entity[\"Person\", \"CharlesDarwin::y57y6\"]"
 Regensburg_Classification: "HL 2560"
 Krugosvet_article: nauka_i_tehnika/biologiya/DARVIN_CHARLZ_ROBERT.html
-Libris-URI: pm135sp73dmxqcf
+Libris_URI: pm135sp73dmxqcf
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2234785
 significant_person: "[[_Standards/WikiData/WD~James Philip Mansel Weale,21392043]]"
 archives_at: "[[_Standards/WikiData/WD~ETH Zurich University Archives,39934978]]"

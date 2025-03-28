@@ -249,7 +249,7 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Dhaka,16879288]]'
 - '[[_Standards/WikiData/WD~UTC+06_00,6906]]'
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Bangladesh,3346963]]"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.বাংলা,4545424]]'
 - '[[_Standards/WikiData/WD~.bd,39144]]'
 participant_in: "[[_Standards/WikiData/WD~Global System of Trade Preferences among Developing Countries,5570670]]"
@@ -306,26 +306,26 @@ BTI_Status_Index:
 - 5.82
 - 6.01
 trunk_prefix: 0
-Inequality-adjusted_Human_Development_Index: 0.503
+Inequality_adjusted_Human_Development_Index: 0.503
 mobile_country_code: 470
 Happy_Planet_Index_score: 54.5
 Democracy_Index: 5.99
 Human_Development_Index: 0.661
-ISO_3166-1_numeric_code: 050
+ISO_3166_1_numeric_code: 050
 M49_code: 050
 birth_rate: 17.48
 WIPO_ST_3: BD
 licence_plate_code: BD
-ISO_3166-1_alpha-2_code: BD
+ISO_3166_1_alpha_2_code: BD
 death_rate: 5.296
 area: 147570
 maritime_identification_digits: 405
 IAB_code: 1246
-FIPS_10-4_countries_and_regions_: BG
+FIPS_10_4_countries_and_regions_: BG
 INSEE_countries_and_foreign_territories_code: 99246
 OmegaWiki_Defined_Meaning: 7844
 ITU_letter_code: BGD
-ISO_3166-1_alpha-3_code: BGD
+ISO_3166_1_alpha_3_code: BGD
 Commons_category: Bangladesh
 hashtag:
 - Bangladesh
@@ -376,7 +376,7 @@ native_label:
 PPP_GDP_per_capita: 5811.571
 coordinates_of_westernmost_point: "Point(88.008 24.6678)"
 U_S_National_Archives_Identifier: 10035837
-number_of_out-of-school_children: 9755446
+number_of_out_of_school_children: 9755446
 population: 171466990
 coordinate_location: "Point(89.866666666 24.016666666)"
 Unicode_character: "\U0001F1E7\U0001F1E9"
@@ -394,7 +394,7 @@ Dewey_Decimal_Classification: 2--5492
 CIVICUS_Monitor_country_entry: bangladesh
 subreddit: bangladesh
 GitHub_topic: bangladesh
-Libris-URI: qn243f68501q4zt
+Libris_URI: qn243f68501q4zt
 Krugosvet_article: strany_mira/BANGLADESH.html
 official_name: "গণপ্রজাতন্ত্রী বাংলাদেশ"
 motto_text:

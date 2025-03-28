@@ -2,7 +2,7 @@
 aliases:
 - "Ferdinand Magellan"
 has_id_wikidata: Q1496
-Libris-URI: 31fhlmwm0rwtplr
+Libris_URI: 31fhlmwm0rwtplr
 BHCL_UUID: bb9c4f21-6b3c-4a7a-93ed-ed98da2dc363
 Commons_category: "Ferdinand Magellan"
 Commons_gallery: "Fernão de Magalhães"

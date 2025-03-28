@@ -255,7 +255,7 @@ birth_rate:
 - 20.57
 - 21.73
 - 22.76
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.kz,40619]]'
 - '[[_Standards/WikiData/WD~.қаз,48137]]'
 total_fertility_rate: 2.74
@@ -284,24 +284,24 @@ U_S_National_Archives_Identifier: 10046437
 trunk_prefix: 8
 basic_form_of_government: "[[_Standards/WikiData/WD~presidential system,49892]]"
 life_expectancy: 72.3
-Inequality-adjusted_Human_Development_Index: 0.755
+Inequality_adjusted_Human_Development_Index: 0.755
 Human_Development_Index: 0.811
 maritime_identification_digits: 436
 GS1_country_code: 487
 UIC_numerical_country_code: 27
 IAB_code: 1331
 social_media_followers: 23756
-ISO_3166-1_numeric_code: 398
+ISO_3166_1_numeric_code: 398
 M49_code: 398
 mobile_country_code: 401
-number_of_out-of-school_children: 24659
+number_of_out_of_school_children: 24659
 area: 2724900
 OmegaWiki_Defined_Meaning: 8358
 Dewey_Decimal_Classification: 2--5845
 INSEE_countries_and_foreign_territories_code: 99256
-FIPS_10-4_countries_and_regions_: KZ
+FIPS_10_4_countries_and_regions_: KZ
 licence_plate_code: KZ
-ISO_3166-1_alpha-2_code: KZ
+ISO_3166_1_alpha_2_code: KZ
 WIPO_ST_3: KZ
 UIC_alphabetical_country_code: KZ
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg"
@@ -310,7 +310,7 @@ urban_population:
 - 10652767
 - 11096634
 - 11386327
-ISO_3166-1_alpha-3_code: KAZ
+ISO_3166_1_alpha_3_code: KAZ
 ITU_letter_code: KAZ
 UNDP_country_code: KAZ
 IOC_country_code: KAZ

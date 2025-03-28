@@ -189,12 +189,12 @@ birth_rate:
 - 12.3
 - 13.1
 total_fertility_rate: 1.93
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.is,39896]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.is,39896]]'
 Gini_coefficient: 26.1
 IAB_code: 1318
-ISO_3166-1_numeric_code: 352
+ISO_3166_1_numeric_code: 352
 M49_code: 352
-Inequality-adjusted_Human_Development_Index: 0.915
+Inequality_adjusted_Human_Development_Index: 0.915
 Democracy_Index: 9.37
 Human_Development_Index: 0.959
 follows: "[[_Standards/WikiData/WD~Kingdom of Iceland,62567]]"
@@ -213,10 +213,10 @@ NUTS_code:
 - IS00
 - IS0
 licence_plate_code: IS
-ISO_3166-1_alpha-2_code: IS
+ISO_3166_1_alpha_2_code: IS
 WIPO_ST_3: IS
 maritime_identification_digits: 251
-number_of_out-of-school_children: 3994
+number_of_out_of_school_children: 3994
 mobile_country_code: 274
 GS1_country_code: 569
 OmegaWiki_Defined_Meaning: 5728
@@ -235,9 +235,9 @@ female_population:
 - 186202
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg"
 PM20_geo_code: A16
-FIPS_10-4_countries_and_regions_: IC
+FIPS_10_4_countries_and_regions_: IC
 INSEE_countries_and_foreign_territories_code: 99102
-ISO_3166-1_alpha-3_code: ISL
+ISO_3166_1_alpha_3_code: ISL
 IOC_country_code: ISL
 ITU_letter_code: ISL
 native_label: Ísland
@@ -266,7 +266,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Islanda.wav"
 official_website: "http://www.iceland.is/"
 country_calling_code: +354
-Libris-URI: 0xbdc1cj2kcd42w
+Libris_URI: 0xbdc1cj2kcd42w
 BHCL_UUID: 84c18899-7659-435c-b59e-581b7f14c92e
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Iceland\"]"
 GitHub_topic: iceland

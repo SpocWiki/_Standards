@@ -67,7 +67,7 @@ genetic_association:
 afflicts: "[[_Standards/WikiData/WD~coronary artery,18361829]]"
 health_specialty: '[[_Standards/WikiData/WD~cardiology,10379]]'
 DiseasesDB: 8664
-ICD-10-CM:
+ICD_10_CM:
 - I21
 - I22
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Heart%20attack%20diagram.png"

@@ -35,7 +35,7 @@ narrative_motif:
 main_subject: "[[_Standards/WikiData/WD~pursuit of immortality,128402347]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AB%D5%AC%D5%A3%D5%A1%D5%B4%D5%A5%D5%B7%20%28%D5%A7%D5%BA%D5%B8%D5%BD%29%20-%20Epic%20of%20Gilgamesh.ogg"
 Library_of_Congress_Classification: PJ3771.G5-PJ3771.G6
-Libris-URI: 75knt7zr5s4ngd5
+Libris_URI: 75knt7zr5s4ngd5
 described_at_URL:
 - "https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html"
 - "https://www.ebl.lmu.de/corpus/L/1/4"

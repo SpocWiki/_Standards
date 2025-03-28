@@ -100,7 +100,7 @@ plaque_image:
 official_website: "http://www.wittgen-cam.ac.uk"
 IPA_transcription: ˈvɪtɡənˌstaɪn
 BHCL_UUID: 22593deb-47a1-4a16-a50b-99b7c9e6acfa
-Libris-URI: 53hklbnp1sd57gb
+Libris_URI: 53hklbnp1sd57gb
 Europeana_entity: agent/base/145338
 Regensburg_Classification: "BF 7370"
 Wolfram_Language_entity_code: "Entity[\"Person\", \"LudwigWittgenstein::4kv26\"]"

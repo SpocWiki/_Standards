@@ -276,11 +276,11 @@ age_of_majority: 17
 Gini_coefficient: 31
 Democracy_Index: 1.08
 suicide_rate: 11.2
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.kp,42172]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.kp,42172]]'
 trunk_prefix: 0
 UIC_numerical_country_code: 30
 head_of_state: "[[_Standards/WikiData/WD~Kim Jong-un,56226]]"
-Libris-URI: 97mpnkct4lwgtln
+Libris_URI: 97mpnkct4lwgtln
 subreddit:
 - dprk
 - northkorea
@@ -375,7 +375,7 @@ birth_rate:
 - 13.058
 - 13.333
 - 13.487
-ISO_3166-1_numeric_code: 408
+ISO_3166_1_numeric_code: 408
 M49_code: 408
 total_fertility_rate: 1.979
 mobile_country_code: 467
@@ -385,19 +385,19 @@ death_rate:
 - 9.313
 - 9.353
 area: 120540
-ISO_3166-1_alpha-2_code: KP
+ISO_3166_1_alpha_2_code: KP
 licence_plate_code: KP
 WIPO_ST_3: KP
 maritime_identification_digits: 445
 GS1_country_code: 867
-FIPS_10-4_countries_and_regions_: KN
+FIPS_10_4_countries_and_regions_: KN
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Korea.svg"
 life_expectancy: 71.685
 Unicode_character: "\U0001F1F0\U0001F1F5"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20North%20Korea.svg"
-number_of_out-of-school_children: 610009
+number_of_out_of_school_children: 610009
 INSEE_countries_and_foreign_territories_code: 99239
-ISO_3166-1_alpha-3_code: PRK
+ISO_3166_1_alpha_3_code: PRK
 IOC_country_code: PRK
 UIC_alphabetical_country_code: PRK
 OmegaWiki_Defined_Meaning: 154503

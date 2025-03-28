@@ -7,7 +7,7 @@ tags:
 - geo/Country
 icon: flag-ba
 has_id_wikidata: Q225
-Libris-URI: pm1358x74smx2mv
+Libris_URI: pm1358x74smx2mv
 Colon_Classification: SG--592242
 Krugosvet_article: strany_mira/BOSNIYA_I_GERTSEGOVINA.html
 MeSH_tree_code: Z01.542.248.160
@@ -184,7 +184,7 @@ BTI_Governance_Index:
 retirement_age: 65
 Human_Development_Index: 0.78
 literacy_rate: 97
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ba,39661]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ba,39661]]'
 official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
 Happy_Planet_Index_score: 47.8
 Democracy_Index: 4.84
@@ -204,7 +204,7 @@ BTI_Status_Index:
 - 6.43
 - 6.51
 - 6.61
-Inequality-adjusted_Human_Development_Index: 0.677
+Inequality_adjusted_Human_Development_Index: 0.677
 birth_rate:
 - 8.42
 - 8.278
@@ -213,26 +213,26 @@ birth_rate:
 total_fertility_rate: 1.263
 maritime_identification_digits: 478
 WIPO_ST_3: BA
-ISO_3166-1_alpha-2_code: BA
+ISO_3166_1_alpha_2_code: BA
 GS1_country_code: 387
 death_rate:
 - 12.266
 - 14.094
 - 15.712
 - 15.865
-FIPS_10-4_countries_and_regions_: BK
+FIPS_10_4_countries_and_regions_: BK
 IAB_code: 1257
 social_media_followers: 48693
 area: 51197
 Dewey_Decimal_Classification: 2--49742
 life_expectancy: 76.911
-ISO_3166-1_numeric_code: 070
+ISO_3166_1_numeric_code: 070
 M49_code: 070
 IOC_country_code: BIH
 ITU_letter_code: BIH
 UIC_alphabetical_country_code: BIH
 licence_plate_code: BIH
-ISO_3166-1_alpha-3_code: BIH
+ISO_3166_1_alpha_3_code: BIH
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bosnia%20and%20Herzegovina.svg"
 INSEE_countries_and_foreign_territories_code: 99118

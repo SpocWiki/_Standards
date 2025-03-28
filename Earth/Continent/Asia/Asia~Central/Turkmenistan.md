@@ -98,10 +98,10 @@ Happy_Planet_Index_score: 33
 water_as_percent_of_area: 4.9
 Democracy_Index: 1.66
 flag: "[[_Standards/WikiData/WD~flag of Turkmenistan,41327]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tm,41824]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tm,41824]]'
 Gini_coefficient: 40.8
 maximum_temperature_record: 50.1
-Inequality-adjusted_Human_Development_Index: 0.619
+Inequality_adjusted_Human_Development_Index: 0.619
 Human_Development_Index: 0.745
 literacy_rate: 99.6
 total_fertility_rate: 2.301
@@ -114,7 +114,7 @@ Dewey_Decimal_Classification: 2--585
 maritime_identification_digits: 434
 UIC_numerical_country_code: 67
 M49_code: 795
-ISO_3166-1_numeric_code: 795
+ISO_3166_1_numeric_code: 795
 demonym:
 - تركمانية
 - turcman
@@ -166,7 +166,7 @@ birth_rate:
 mobile_country_code: 438
 area: 491210
 life_expectancy: 67.835
-Libris-URI: nl0228661f7cn67
+Libris_URI: nl0228661f7cn67
 Krugosvet_article: strany_mira/TURKMENISTAN.html
 CIVICUS_Monitor_country_entry: turkmenistan
 GitHub_topic: turkmenistan
@@ -234,12 +234,12 @@ urban_population:
 - 3440076
 ITU_letter_code: TKM
 IOC_country_code: TKM
-ISO_3166-1_alpha-3_code: TKM
+ISO_3166_1_alpha_3_code: TKM
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg"
 WIPO_ST_3: TM
 UIC_alphabetical_country_code: TM
 licence_plate_code: TM
-ISO_3166-1_alpha-2_code: TM
+ISO_3166_1_alpha_2_code: TM
 rural_population:
 - 2953086
 - 2967958
@@ -251,7 +251,7 @@ female_population:
 - 3200126
 - 3244911
 population: 6117933
-FIPS_10-4_countries_and_regions_: TX
+FIPS_10_4_countries_and_regions_: TX
 Unicode_character: "\U0001F1F9\U0001F1F2"
 hashtag: Turkmenistan
 subreddit: Turkmenistan

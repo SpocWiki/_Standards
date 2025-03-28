@@ -198,11 +198,11 @@ BTI_Status_Index:
 lowest_point: "[[_Standards/WikiData/WD~Persian Gulf,34675]]"
 capital: "[[_Standards/WikiData/WD~Kuwait City,35178]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.kw,42672]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.kw,42672]]'
 Happy_Planet_Index_score: 33.3
 Democracy_Index: 3.91
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
-ISO_3166-1_numeric_code: 414
+ISO_3166_1_numeric_code: 414
 M49_code: 414
 language_used:
 - "[[_Standards/WikiData/WD~Gulf Arabic,56385]]"
@@ -234,17 +234,17 @@ urban_population:
 - 4250114
 - 4268873
 - 4360444
-number_of_out-of-school_children: 49553
+number_of_out_of_school_children: 49553
 life_expectancy: 74.694
 GitHub_topic: kuwait
 Unicode_character: "\U0001F1F0\U0001F1FC"
-Libris-URI: nl021sm606xg5sg
+Libris_URI: nl021sm606xg5sg
 Krugosvet_article: strany-mira/kuveyt
 Commons_gallery: "الكويت / Kuwait"
 short_name: "\U0001F1F0\U0001F1FC"
 coordinates_of_westernmost_point: "Point(46.55325 29.1012)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Kuwait.svg"
-FIPS_10-4_countries_and_regions_: KU
+FIPS_10_4_countries_and_regions_: KU
 INSEE_countries_and_foreign_territories_code: 99240
 male_population:
 - 2671060
@@ -259,10 +259,10 @@ female_population:
 - 1672926
 - 1689384
 - 1702878
-ISO_3166-1_alpha-2_code: KW
+ISO_3166_1_alpha_2_code: KW
 WIPO_ST_3: KW
 licence_plate_code: KWT
-ISO_3166-1_alpha-3_code: KWT
+ISO_3166_1_alpha_3_code: KWT
 ITU_letter_code: KWT
 native_label: الكويت
 U_S_National_Archives_Identifier: 10035716

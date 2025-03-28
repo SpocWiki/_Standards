@@ -49,7 +49,7 @@ UMLS_CUI: C0009148
 time_of_discovery_or_invention: "1735-01-01T00:00:00Z"
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 vapor_pressure: 0
-time-weighted_average_exposure_limit:
+time_weighted_average_exposure_limit:
 - 0.1
 - 0.05
 immediately_dangerous_to_life_or_health: 20

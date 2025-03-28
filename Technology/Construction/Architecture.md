@@ -55,7 +55,7 @@ partially_coincident_with: "[[_Standards/WikiData/WD~urban design,63100]]"
 OmegaWiki_Defined_Meaning: 240
 Universal_Decimal_Classification: 72
 Dewey_Decimal_Classification: 720
-All-Science_Journal_Classification_Codes: 2216
+All_Science_Journal_Classification_Codes: 2216
 Colon_Classification: NA
 U_S_National_Archives_Identifier: 10639354
 Iconclass_notation: 48C1

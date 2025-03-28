@@ -32,7 +32,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyrillic%20alternates
 OmegaWiki_Defined_Meaning: 633412
 Commons_gallery: "Cyrillic alphabet"
 Commons_category: "Cyrillic alphabet"
-ISO_15924_alpha-4_code: Cyrl
+ISO_15924_alpha_4_code: Cyrl
 Krugosvet_article: lingvistika/glagolitsa-i-kirilitsa
 Unicode_range:
 - U+0400-04FF

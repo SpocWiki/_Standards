@@ -121,7 +121,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Aweil East State,25550606]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~federal republic,512187]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ss,717118]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ss,717118]]'
 highest_point: '[[_Standards/WikiData/WD~Kinyeti,948298]]'
 history_of_topic: "[[_Standards/WikiData/WD~history of South Sudan,1459113]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography of South Sudan,2422107]]"
@@ -151,7 +151,7 @@ locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationSouthSudan.svg"
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/South%20Sudan%20rel%20location%20map.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Yei%20township%20%28South%20Sudan%29%20banner.jpg"
-Libris-URI: 64jmsl1q22s63kc
+Libris_URI: 64jmsl1q22s63kc
 hashtag: SoudanduSud
 CIVICUS_Monitor_country_entry: south-sudan
 GitHub_topic: south-sudan
@@ -250,7 +250,7 @@ BTI_Governance_Index:
 - 2.15
 - 2.99
 - 3.52
-Inequality-adjusted_Human_Development_Index: 0.245
+Inequality_adjusted_Human_Development_Index: 0.245
 Human_Development_Index: 0.385
 Gini_coefficient: 44.1
 head_of_state: "[[_Standards/WikiData/WD~Salva Kiir Mayardit,57315]]"
@@ -268,9 +268,9 @@ unemployment_rate:
 - 13.868
 - 14.204
 mobile_country_code: 659
-ISO_3166-1_alpha-2_code: SS
+ISO_3166_1_alpha_2_code: SS
 WIPO_ST_3: SS
-ISO_3166-1_numeric_code: 728
+ISO_3166_1_numeric_code: 728
 M49_code: 728
 birth_rate:
 - 28.857
@@ -279,7 +279,7 @@ birth_rate:
 - 29.166
 IAB_code: 1411
 life_expectancy: 56.811
-FIPS_10-4_countries_and_regions_: OD
+FIPS_10_4_countries_and_regions_: OD
 male_population:
 - 5167140
 - 5248072
@@ -304,7 +304,7 @@ rural_population:
 - 8463875
 - 8543371
 - 8638206
-ISO_3166-1_alpha-3_code: SSD
+ISO_3166_1_alpha_3_code: SSD
 ITU_letter_code: SSD
 IOC_country_code: SSD
 population: 12575714

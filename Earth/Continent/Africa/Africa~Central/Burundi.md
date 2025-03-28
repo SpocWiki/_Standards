@@ -140,8 +140,8 @@ BTI_Governance_Index:
 - 4.55
 suicide_rate: 9.1
 Democracy_Index: 2.14
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bi,41988]]'
-Inequality-adjusted_Human_Development_Index: 0.302
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bi,41988]]'
+Inequality_adjusted_Human_Development_Index: 0.302
 BTI_Status_Index:
 - 3.38
 - 3.49
@@ -155,10 +155,10 @@ BTI_Status_Index:
 Happy_Planet_Index_score: 37.7
 Gini_coefficient: 38.6
 Human_Development_Index: 0.426
-number_of_out-of-school_children: 824000
+number_of_out_of_school_children: 824000
 literacy_rate: 85.5
 maritime_identification_digits: 609
-ISO_3166-1_numeric_code: 108
+ISO_3166_1_numeric_code: 108
 M49_code: 108
 total_fertility_rate: 5.948
 death_rate:
@@ -168,7 +168,7 @@ death_rate:
 - 7.562
 licence_plate_code: RU
 IAB_code: 1265
-ISO_3166-1_alpha-2_code: BI
+ISO_3166_1_alpha_2_code: BI
 WIPO_ST_3: BI
 area: 27834
 birth_rate:
@@ -181,7 +181,7 @@ life_expectancy: 57.481
 mobile_country_code: 642
 GitHub_topic: burundi
 CIVICUS_Monitor_country_entry: burundi
-Libris-URI: pm132kx738pwbj5
+Libris_URI: pm132kx738pwbj5
 Krugosvet_article: strany_mira/BURUNDI.html
 motto_text:
 - "Единство, труд, прогрес"
@@ -204,7 +204,7 @@ urban_population:
 - 1858290
 - 1587191
 - 1675149
-FIPS_10-4_countries_and_regions_: BY
+FIPS_10_4_countries_and_regions_: BY
 female_population:
 - 5980560
 - 6488650
@@ -221,7 +221,7 @@ male_population:
 - 6066599
 - 6231786
 - 6400926
-ISO_3166-1_alpha-3_code: BDI
+ISO_3166_1_alpha_3_code: BDI
 ITU_letter_code: BDI
 IOC_country_code: BDI
 inception: "1962-07-01T00:00:00Z"

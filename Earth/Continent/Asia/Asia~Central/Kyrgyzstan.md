@@ -204,7 +204,7 @@ BTI_Status_Index:
 - 5.61
 - 5.71
 - 5.87
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.kg,41723]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.kg,41723]]'
 Democracy_Index: 3.62
 BTI_Governance_Index:
 - 4.17
@@ -219,20 +219,20 @@ trunk_prefix: 0
 GS1_country_code: 470
 UIC_numerical_country_code: 59
 Happy_Planet_Index_score: 53.7
-Inequality-adjusted_Human_Development_Index: 0.627
+Inequality_adjusted_Human_Development_Index: 0.627
 Human_Development_Index: 0.692
 maritime_identification_digits: 451
 mobile_country_code: 437
 IAB_code: 1335
-ISO_3166-1_numeric_code: 417
+ISO_3166_1_numeric_code: 417
 M49_code: 417
 population: 6694200
-number_of_out-of-school_children: 104763
+number_of_out_of_school_children: 104763
 licence_plate_code: KS
 UIC_alphabetical_country_code: KS
-ISO_3166-1_alpha-2_code: KG
+ISO_3166_1_alpha_2_code: KG
 WIPO_ST_3: KG
-FIPS_10-4_countries_and_regions_: KG
+FIPS_10_4_countries_and_regions_: KG
 area: 199951
 INSEE_countries_and_foreign_territories_code: 99257
 OmegaWiki_Defined_Meaning: 154268
@@ -258,7 +258,7 @@ rural_population:
 - 4257353
 - 4362033
 life_expectancy: 70.95122
-ISO_3166-1_alpha-3_code: KGZ
+ISO_3166_1_alpha_3_code: KGZ
 ITU_letter_code: KGZ
 IOC_country_code: KGZ
 native_label: Кыргызстан

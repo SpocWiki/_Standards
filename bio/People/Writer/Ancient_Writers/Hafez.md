@@ -52,7 +52,7 @@ place_of_birth: '[[_Standards/WikiData/WD~Shiraz,6397066]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Shams%20al-Din%20Hafez.jpg"
 Provenio_UUID: 1dca830e-1676-46fb-a2e8-17e35e7ba0b9
-Libris-URI: nl02xcb64g2wgkl
+Libris_URI: nl02xcb64g2wgkl
 pseudonym: حافظ
 name_in_native_language: "خواجه شمسالدین محمد حافظ شیرازی"
 given_name:

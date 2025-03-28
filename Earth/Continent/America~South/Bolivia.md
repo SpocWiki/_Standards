@@ -287,7 +287,7 @@ death_rate:
 - 9.062
 - 9.945
 suicide_rate: 12.2
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bo,40510]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bo,40510]]'
 Gini_coefficient: 43.6
 Democracy_Index: 4.65
 BTI_Governance_Index:
@@ -300,32 +300,32 @@ BTI_Governance_Index:
 - 5.54
 - 5.63
 - 5.66
-Inequality-adjusted_Human_Development_Index: 0.549
+Inequality_adjusted_Human_Development_Index: 0.549
 Human_Development_Index: 0.692
 social_media_followers: 26990
 total_fertility_rate: 2.968
 maritime_identification_digits: 720
 GS1_country_code: 777
-FIPS_10-4_countries_and_regions_: BL
+FIPS_10_4_countries_and_regions_: BL
 birth_rate:
 - 21.599
 - 21.836
 - 22.056
 - 22.323
 mobile_country_code: 736
-ISO_3166-1_alpha-2_code: BO
+ISO_3166_1_alpha_2_code: BO
 WIPO_ST_3: BO
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/LagunaChiarKhota2013.jpg"
 life_expectancy: 69.125
 IAB_code: 1255
 OmegaWiki_Defined_Meaning: 7847
 INSEE_countries_and_foreign_territories_code: 99418
-ISO_3166-1_numeric_code: 068
+ISO_3166_1_numeric_code: 068
 M49_code: 068
-number_of_out-of-school_children: 329105
+number_of_out_of_school_children: 329105
 licence_plate_code: BOL
 IPA_transcription: "bu'liːʋɪɑ"
-Libris-URI: pm132gb71klqcxl
+Libris_URI: pm132gb71klqcxl
 Colon_Classification: SG--79161
 Krugosvet_article: strany_mira/BOLIVIYA.html
 native_label:
@@ -343,7 +343,7 @@ coordinates_of_northernmost_point: "Point(-65.45 -9.67)"
 coordinates_of_southernmost_point: "Point(-67.56765 -22.89824)"
 coordinates_of_easternmost_point: "Point(-57.4538 -18.23022)"
 coordinates_of_westernmost_point: "Point(-69.64439 -17.28154)"
-ISO_3166-1_alpha-3_code: BOL
+ISO_3166_1_alpha_3_code: BOL
 IOC_country_code: BOL
 ITU_letter_code: BOL
 area: 1098581

@@ -126,7 +126,7 @@ academic_thesis: "[[_Standards/WikiData/WD~Quantum Mechanics,107073499]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Dirac%2C%201933.jpg"
 Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/dirac"
 NLC_authorities: 000129543
-Libris-URI: 64jllj0q4s1jwbp
+Libris_URI: 64jllj0q4s1jwbp
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Dirac::7x5wf\"]"
 Krugosvet_article: nauka_i_tehnika/fizika/DIRAK_POL_ADRIEN_MORIS.html
 Commons_gallery: "Paul Dirac"

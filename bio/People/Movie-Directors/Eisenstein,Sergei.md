@@ -40,7 +40,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Sergej%20Eisenste
 NLC_authorities: 000119357
 BHCL_UUID: ceb9b05e-dea5-4d65-8bbc-4a8d92e287d0
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/EZENSHTEN_SERGE_MIHALOVICH.html
-Libris-URI: nl0220162hhzbjh
+Libris_URI: nl0220162hhzbjh
 Google_Doodle: sergei-eisensteins-120th-birthday
 birth_name: "Сергей Михайлович Эйзенштейн"
 given_name: '[[_Standards/WikiData/WD~Sergey,12902079]]'

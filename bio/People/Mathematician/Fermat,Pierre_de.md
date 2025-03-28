@@ -8,7 +8,7 @@ date_of_death: "1665-01-12T00:00:00Z"
 BHCL_UUID: 509d9d86-d75f-4cf0-b26e-5c5094fd892f
 Krugosvet_article: nauka_i_tehnika/matematika/FERMA_PER.html
 Google_Doodle: pierre-de-fermats-410th-birthday
-Libris-URI: wt79d12f0snxn1p
+Libris_URI: wt79d12f0snxn1p
 notable_work:
 - "[[_Standards/WikiData/WD~Fermat's Last Theorem,132469]]"
 - "[[_Standards/WikiData/WD~Fermat's little theorem,188295]]"

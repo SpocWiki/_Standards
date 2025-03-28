@@ -57,11 +57,11 @@ median_lethal_dose_LD50_:
 - 720
 - 7500
 - 1115
-time-weighted_average_exposure_limit:
+time_weighted_average_exposure_limit:
 - 0.1
 - 0.2
 - 0.5
-short-term_exposure_limit:
+short_term_exposure_limit:
 - 2
 - 5
 - 0.5

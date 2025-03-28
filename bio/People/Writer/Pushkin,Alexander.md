@@ -142,7 +142,7 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: "[[_Standards/WikiData/WD~Russian Empire,34266]]"
 ArhivX_LOD: 4444
 BHCL_UUID: 5f455afb-640d-45a6-9c54-8ae2f54fe371
-Libris-URI: 75kmjwfr4d93z03
+Libris_URI: 75kmjwfr4d93z03
 RIA_Novosti_reference: 941314088
 Europeana_entity: agent/base/60512
 Commons_Creator_page: "Aleksandr Pushkin"

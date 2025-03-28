@@ -9,7 +9,7 @@ Provenio_UUID:
 - 5d8c041c-7f5b-4861-bc7f-23ecea6c10b8
 - 740a19f0-f7ab-427f-b6a5-7d09c6945d6c
 - 68e861b7-53da-4466-84c7-61b881b016b9
-Libris-URI: 97mpqxmt5hsxtbz
+Libris_URI: 97mpqxmt5hsxtbz
 occupation:
 - '[[_Standards/WikiData/WD~politician,82955]]'
 - '[[_Standards/WikiData/WD~sovereign,2304859]]'

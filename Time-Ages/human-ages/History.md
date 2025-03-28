@@ -37,7 +37,7 @@ Iconclass_notation: 6
 Dewey_Decimal_Classification: 900
 Library_of_Congress_Classification: D
 Colon_Classification: V
-All-Science_Journal_Classification_Codes: 1202
+All_Science_Journal_Classification_Codes: 1202
 Regensburg_Classification: N
 OmegaWiki_Defined_Meaning: 1777
 Commons_category: History

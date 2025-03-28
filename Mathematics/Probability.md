@@ -41,7 +41,7 @@ ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"blo
 notation: '[[_Standards/WikiData/WD~P,9946]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nuvola%20apps%20atlantik.png"
 IEV_number: 103-08-02
-All-Science_Journal_Classification_Codes: 2613
+All_Science_Journal_Classification_Codes: 2613
 Universal_Decimal_Classification: 519.2
 Iconclass_notation: 52B31
 MeSH_tree_code:

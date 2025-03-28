@@ -140,7 +140,7 @@ BHCL_UUID: e401631d-f116-415f-ad68-b5216b15dfd2
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"IronChancellor::84y86\"]"
 Krugosvet_article: istoriya/BISMARK_OTTO_FON.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/3344
-Libris-URI: mkz11rc534rdqjt
+Libris_URI: mkz11rc534rdqjt
 Royal_Academy_new_identifier: otto-von-bismark
 Image_Archive_Herder_Institute: Q8442
 birth_name: "Otto Eduard Leopold von Bismarck"

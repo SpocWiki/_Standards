@@ -229,7 +229,7 @@ BTI_Governance_Index:
 - 5.78
 - 5.79
 - 5.91
-Inequality-adjusted_Human_Development_Index: 0.64
+Inequality_adjusted_Human_Development_Index: 0.64
 BTI_Status_Index:
 - 7.1
 - 6.58
@@ -246,7 +246,7 @@ birth_rate:
 - 17.692
 - 17.919
 - 18.228
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.pa,41948]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.pa,41948]]'
 Gini_coefficient: 49.8
 death_rate:
 - 5.12
@@ -275,13 +275,13 @@ total_fertility_rate: 2.444
 GS1_country_code: 745
 IAB_code: 1376
 M49_code: 591
-ISO_3166-1_numeric_code: 591
+ISO_3166_1_numeric_code: 591
 WIPO_ST_3: PA
 licence_plate_code: PA
-ISO_3166-1_alpha-2_code: PA
+ISO_3166_1_alpha_2_code: PA
 mobile_country_code: 714
-number_of_out-of-school_children: 62819
-ISO_3166-1_alpha-3_code: PAN
+number_of_out_of_school_children: 62819
+ISO_3166_1_alpha_3_code: PAN
 IOC_country_code: PAN
 OmegaWiki_Defined_Meaning: 8082
 female_population:
@@ -289,7 +289,7 @@ female_population:
 - 2204170
 - 2145526
 - 2174744
-FIPS_10-4_countries_and_regions_: PM
+FIPS_10_4_countries_and_regions_: PM
 male_population:
 - 2148870
 - 2204410

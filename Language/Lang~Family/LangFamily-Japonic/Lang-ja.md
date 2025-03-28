@@ -71,7 +71,7 @@ subreddit:
 - japaneselanguage
 - japanese
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hakushu%20Kitahara-Gojuon.oga"
-Libris-URI: ljx0zm34331cvc3
+Libris_URI: ljx0zm34331cvc3
 country:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
@@ -87,7 +87,7 @@ subclass_of: '[[_Standards/WikiData/WD~Japonic,33612]]'
 number_of_speakers_writers_or_signers: 128000000
 Wikimedia_language_code: ja
 IETF_language_tag: ja
-ISO_639-1_code: ja
+ISO_639_1_code: ja
 POSIX_locale_identifier: ja
 OmegaWiki_Defined_Meaning: 6220
 ABS_ASCL_2011_code:
@@ -96,8 +96,8 @@ ABS_ASCL_2011_code:
 IAB_code: 1105
 Ethnologue_com_language_code: jpn
 WALS_lect_code: jpn
-ISO_639-3_code: jpn
-ISO_639-2_code: jpn
+ISO_639_3_code: jpn
+ISO_639_2_code: jpn
 native_label: 日本語
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20ja.svg"
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20dialects-en.png"

@@ -139,7 +139,7 @@ Regensburg_Classification: "DD 5090"
 BHCL_UUID: e3b453c5-c94c-4967-9f69-853a634ff461
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Aristotle::5pwch\"]"
 Krugosvet_article: gumanitarnye_nauki/filosofiya/ARISTOTEL.html
-Libris-URI: ljx00l940489lqb
+Libris_URI: ljx00l940489lqb
 ---
 
 #has_/time_/started :: -384-06-01 

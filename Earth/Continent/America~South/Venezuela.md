@@ -233,11 +233,11 @@ life_expectancy: 71
 death_rate: 8.1
 Democracy_Index: 2.11
 total_fertility_rate: 2.18
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ve,42760]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ve,42760]]'
 Gini_coefficient: 44.8
 Happy_Planet_Index_score: 48.9
 trunk_prefix: 0
-Inequality-adjusted_Human_Development_Index: 0.592
+Inequality_adjusted_Human_Development_Index: 0.592
 Human_Development_Index: 0.691
 head_of_state:
 - "[[_Standards/WikiData/WD~Nicolás Maduro,58132]]"
@@ -326,18 +326,18 @@ inception:
 coordinate_location: "Point(-67.0 8.0)"
 country: '[[_Standards/WikiData/WD~Venezuela,717]]'
 capital: '[[_Standards/WikiData/WD~Caracas,1533]]'
-ISO_3166-1_alpha-2_code: VE
-FIPS_10-4_countries_and_regions_: VE
+ISO_3166_1_alpha_2_code: VE
+FIPS_10_4_countries_and_regions_: VE
 WIPO_ST_3: VE
 mobile_country_code: 734
 GS1_country_code: 759
 M49_code: 862
-ISO_3166-1_numeric_code: 862
+ISO_3166_1_numeric_code: 862
 OmegaWiki_Defined_Meaning: 8343
 area: 912050
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Venezuela.svg"
 Unicode_character: "\U0001F1FB\U0001F1EA"
-ISO_3166-1_alpha-3_code: VEN
+ISO_3166_1_alpha_3_code: VEN
 IOC_country_code: VEN
 ITU_letter_code: VEN
 INSEE_countries_and_foreign_territories_code: 99424
@@ -347,7 +347,7 @@ rural_population:
 - 3292334
 - 3339366
 U_S_National_Archives_Identifier: 10035746
-number_of_out-of-school_children: 752436
+number_of_out_of_school_children: 752436
 native_label: Venezuela
 official_name:
 - Venezuela

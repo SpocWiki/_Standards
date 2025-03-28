@@ -31,7 +31,7 @@ vapor_pressure: 0
 electronegativity: 1
 oxidation_state: 4
 immediately_dangerous_to_life_or_health: 50
-time-weighted_average_exposure_limit: 0.5
+time_weighted_average_exposure_limit: 0.5
 density: 13
 ionic_radius:
 - 0.58

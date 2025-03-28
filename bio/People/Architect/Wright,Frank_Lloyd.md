@@ -84,7 +84,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Lloyd%20W
 described_at_URL:
 - "https://www.oxfordreference.com/view/10.1093/acref/9780195335798.001.0001/acref-9780195335798-e-2277"
 - "http://arch-pavouk.cz/index.php/architekti/1450-wright-frank-lloyd"
-Libris-URI: 0xbdgrmj5s0zpzv
+Libris_URI: 0xbdgrmj5s0zpzv
 Commons_gallery: "Frank Lloyd Wright"
 Commons_category: "Frank Lloyd Wright"
 Commons_Creator_page: "Frank Lloyd Wright"

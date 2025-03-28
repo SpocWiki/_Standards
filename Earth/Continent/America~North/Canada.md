@@ -308,11 +308,11 @@ death_rate:
 - 8.1
 - 8.2
 - 8.6
-Inequality-adjusted_Human_Development_Index: 0.86
+Inequality_adjusted_Human_Development_Index: 0.86
 literacy_rate: 99
 suicide_rate: 12.5
 total_fertility_rate: 1.57
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.ca,39582]]'
 - '[[_Standards/WikiData/WD~.quebec,18916286]]'
 motto: "[[_Standards/WikiData/WD~A Mari Usque Ad Mare,41423]]"
@@ -325,7 +325,7 @@ Happy_Planet_Index_score: 40.2
 elevation_above_sea_level: 487
 maximum_temperature_record: 49.6
 trunk_prefix: 1
-ISO_3166-1_numeric_code: 124
+ISO_3166_1_numeric_code: 124
 M49_code: 124
 water_as_percent_of_area: 8.62
 Democracy_Index: 9.24
@@ -336,8 +336,8 @@ mobile_country_code: 302
 life_expectancy: 83.62
 maritime_identification_digits: 316
 aircraft_registration_prefix: C
-FIPS_10-4_countries_and_regions_: CA
-ISO_3166-1_alpha-2_code: CA
+FIPS_10_4_countries_and_regions_: CA
+ISO_3166_1_alpha_2_code: CA
 WIPO_ST_3: CA
 OmegaWiki_Defined_Meaning: 5727
 GS1_country_code:
@@ -367,7 +367,7 @@ native_label:
 - Canada
 - Canada
 IOC_country_code: CAN
-ISO_3166-1_alpha-3_code: CAN
+ISO_3166_1_alpha_3_code: CAN
 ITU_letter_code: CAN
 male_population:
 - 18688790

@@ -17,7 +17,7 @@ pseudonym:
 - Chancho
 - Chang-Cho
 Krugosvet_article: istoriya/GEVARA_CHE.html
-Libris-URI: xv8bfbqg0h6sc2n
+Libris_URI: xv8bfbqg0h6sc2n
 name_in_native_language: "Ernesto Guevara"
 birth_name: "Ernesto Guevara"
 mother: "[[_Standards/WikiData/WD~Celia de la Serna,10861998]]"

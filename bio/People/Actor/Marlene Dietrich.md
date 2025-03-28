@@ -89,7 +89,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Marlene%20Dietrich%20
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Marlene%20Dietrich%20Signature.svg"
 official_website: "https://marlene.com/"
 IPI_name_number: 00008226801
-Libris-URI: 1zcfhdwk4m9l119
+Libris_URI: 1zcfhdwk4m9l119
 RIA_Novosti_reference: 57906872
 work_period_start_: "1919-01-01T00:00:00Z"
 date_of_birth: "1901-12-27T00:00:00Z"

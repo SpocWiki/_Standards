@@ -195,7 +195,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Friedrich%20Wilhelm%20Nietzsche.oga"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Nietzsche%20Signature.svg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%BCtzen%20R%C3%B6cken%20Kirche%202.jpg"
-Libris-URI: 31fhj7hm1w1m1l6
+Libris_URI: 31fhj7hm1w1m1l6
 BHCL_UUID: 4366c11a-587e-4fdb-a27d-ff7358ebc829
 Provenio_UUID: 88851a08-d6fd-4294-9023-478ad92c31c9
 Europeana_entity: agent/base/200

@@ -36,7 +36,7 @@ occupation:
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Nuwas.jpg"
-Libris-URI: 97mppbbt5jgjw77
+Libris_URI: 97mppbbt5jgjw77
 Commons_category: "Abu Nuwas"
 Europeana_entity: agent/base/65803
 Krugosvet_article: literatura/abu-nuvas

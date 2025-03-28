@@ -100,7 +100,7 @@ VAT_rate: 19
 mains_voltage: 240
 suicide_rate: 3.2
 retirement_age: 65
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.cy,40459]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cy,40459]]'
 Gini_coefficient: 31.2
 Happy_Planet_Index_score: 49.4
 maritime_identification_digits:
@@ -113,7 +113,7 @@ death_rate:
 - 6.971
 - 7.257
 Democracy_Index: 7.56
-Inequality-adjusted_Human_Development_Index: 0.819
+Inequality_adjusted_Human_Development_Index: 0.819
 has_part_s_:
 - "[[_Standards/WikiData/WD~Paphos District,59133]]"
 - "[[_Standards/WikiData/WD~Kyrenia District,59146]]"
@@ -130,8 +130,8 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Larnaca District,59153]]"
 Human_Development_Index: 0.896
 total_fertility_rate: 1.446
-number_of_out-of-school_children: 3331
-ISO_3166-1_numeric_code: 196
+number_of_out_of_school_children: 3331
+ISO_3166_1_numeric_code: 196
 M49_code: 196
 BHCL_UUID: 5107be86-5156-462d-aabc-bb6eea760acf
 Unicode_character: "\U0001F1E8\U0001F1FE"
@@ -266,7 +266,7 @@ mobile_country_code: 280
 social_media_followers: 31859
 IAB_code: 1280
 life_expectancy: 80.508
-ISO_3166-1_alpha-3_code: CYP
+ISO_3166_1_alpha_3_code: CYP
 IOC_country_code: CYP
 ITU_letter_code: CYP
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg"
@@ -297,8 +297,8 @@ area: 9242.45
 INSEE_countries_and_foreign_territories_code: 99254
 population: 1344976
 licence_plate_code: CY
-ISO_3166-1_alpha-2_code: CY
-FIPS_10-4_countries_and_regions_: CY
+ISO_3166_1_alpha_2_code: CY
+FIPS_10_4_countries_and_regions_: CY
 WIPO_ST_3: CY
 inception: "1960-08-16T00:00:00Z"
 has_time_started: "1960-08-16T00:00:00Z"

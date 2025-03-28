@@ -1,6 +1,6 @@
 ﻿---
 has_id_wikidata: Q198
-Libris-URI: c9prqv9w0rr5l02
+Libris_URI: c9prqv9w0rr5l02
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Thure%20de%20Thulstrup%20-%20L.%20Prang%20and%20Co.%20-%20Battle%20of%20Gettysburg%20-%20Restoration%20by%20Adam%20Cuerden.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/History%20of%20war.png"

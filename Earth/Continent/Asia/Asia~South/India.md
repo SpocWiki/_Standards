@@ -959,7 +959,7 @@ topic_s_main_template:
 - "[[_Standards/WikiData/WD~Template_India topics,6803811]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_India,10631731]]'
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject India,11037573]]"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.భారత్,12947846]]'
 - '[[_Standards/WikiData/WD~.ਭਾਰਤ,12947844]]'
 - '[[_Standards/WikiData/WD~.இந்தியா,12947845]]'
@@ -1155,12 +1155,12 @@ total_fertility_rate: 2.28
 flag: "[[_Standards/WikiData/WD~flag of India,41673]]"
 Gini_coefficient: 35.7
 Happy_Planet_Index_score: 36.4
-Inequality-adjusted_Human_Development_Index: 0.475
+Inequality_adjusted_Human_Development_Index: 0.475
 trunk_prefix: 0
 Human_Development_Index: 0.633
 Democracy_Index: 6.91
 literacy_rate: 69.3
-Libris-URI: mkz10nf529zbmt7
+Libris_URI: mkz10nf529zbmt7
 Colon_Classification: SG--44
 Krugosvet_article: strany_mira/INDIYA.html
 hashtag:
@@ -1177,7 +1177,7 @@ life_expectancy: 70.03
 IAB_code: 1319
 death_rate: 9.074
 birth_rate: 16.267
-ISO_3166-1_numeric_code: 356
+ISO_3166_1_numeric_code: 356
 M49_code: 356
 mobile_country_code:
 - 404
@@ -1197,18 +1197,18 @@ rural_population: 893660000
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20India.svg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg"
-ISO_3166-1_alpha-3_code: IND
+ISO_3166_1_alpha_3_code: IND
 licence_plate_code: IND
 IOC_country_code: IND
 ITU_letter_code: IND
-ISO_3166-1_alpha-2_code: IN
-FIPS_10-4_countries_and_regions_: IN
+ISO_3166_1_alpha_2_code: IN
+FIPS_10_4_countries_and_regions_: IN
 WIPO_ST_3: IN
 inception: "1947-08-15T00:00:00Z"
 has_time_started: "1947-08-15T00:00:00Z"
 illiterate_population: 447216165
 coordinates_of_southernmost_point: "Point(93.8426 6.74678)"
-number_of_out-of-school_children: 60824152
+number_of_out_of_school_children: 60824152
 INSEE_countries_and_foreign_territories_code: 99223
 social_media_followers: 1747347
 area: 3287263

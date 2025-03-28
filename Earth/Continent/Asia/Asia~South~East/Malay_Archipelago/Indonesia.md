@@ -1092,7 +1092,7 @@ BTI_Governance_Index:
 - 5.77
 - 5.87
 total_fertility_rate: 2.04
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.id,41102]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.id,41102]]'
 currency: '[[_Standards/WikiData/WD~rupiah,41588]]'
 Gini_coefficient: 37.9
 trunk_prefix: 0
@@ -1100,9 +1100,9 @@ Happy_Planet_Index_score: 49.6
 maritime_identification_digits: 525
 GS1_country_code: 899
 WIPO_ST_3: ID
-ISO_3166-1_alpha-2_code: ID
-FIPS_10-4_countries_and_regions_: ID
-Inequality-adjusted_Human_Development_Index: 0.585
+ISO_3166_1_alpha_2_code: ID
+FIPS_10_4_countries_and_regions_: ID
+Inequality_adjusted_Human_Development_Index: 0.585
 BTI_Status_Index:
 - 6.04
 - 6.14
@@ -1127,7 +1127,7 @@ birth_rate:
 - 16.196
 - 16.425
 - 16.649
-ISO_3166-1_numeric_code: 360
+ISO_3166_1_numeric_code: 360
 M49_code: 360
 mobile_country_code: 510
 IAB_code: 1320
@@ -1140,13 +1140,13 @@ area: 1904570
 population: 275439000
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg"
 IOC_country_code: INA
-ISO_3166-1_alpha-3_code: IDN
+ISO_3166_1_alpha_3_code: IDN
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/National%20emblem%20of%20Indonesia%20Garuda%20Pancasila.svg"
 Commons_category: Indonesia
 Commons_gallery: Indonesia
 hashtag: Indonesia
 U_S_National_Archives_Identifier: 10035695
-number_of_out-of-school_children: 8523872
+number_of_out_of_school_children: 8523872
 PM20_geo_code: B62
 geoshape: "http://commons.wikimedia.org/data/main/Data:Indonesia.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Bali%20banner%20Sunset.jpg"

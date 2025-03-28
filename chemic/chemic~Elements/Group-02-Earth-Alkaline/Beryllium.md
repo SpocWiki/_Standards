@@ -58,7 +58,7 @@ vapor_pressure: 0
 location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
 oxidation_state: 2
 electronegativity: 2
-time-weighted_average_exposure_limit: 0.002
+time_weighted_average_exposure_limit: 0.002
 immediately_dangerous_to_life_or_health: 4
 atomic_number: 4
 ceiling_exposure_limit: 0.0005

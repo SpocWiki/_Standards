@@ -14,7 +14,7 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q94701131,94701131]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q96077045,96077045]]'
 instance_of: "[[_Standards/WikiData/WD~type of value,129510955]]"
 Provenio_UUID: e50ca798-9971-4705-95da-0ff688e8d853
-Libris-URI: 1zcffr8k5m1hqvd
+Libris_URI: 1zcffr8k5m1hqvd
 does_not_have_characteristic: '[[_Standards/WikiData/WD~war,198]]'
 opposite_of: '[[_Standards/WikiData/WD~war,198]]'
 OmegaWiki_Defined_Meaning: 5838

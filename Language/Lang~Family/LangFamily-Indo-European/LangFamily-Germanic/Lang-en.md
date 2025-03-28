@@ -108,7 +108,7 @@ short_name:
 - англійська
 described_at_URL: "https://afbo.info/languages/64"
 PyPI_trove_classifier: "Natural Language :: English"
-Libris-URI: jgvxwdb246f6r4z
+Libris_URI: jgvxwdb246f6r4z
 entry_in_abbreviations_table:
 - инг.
 - англ.
@@ -290,7 +290,7 @@ ABS_ASCL_2011_code:
 - 1201
 Wikimedia_language_code: en
 IETF_language_tag: en
-ISO_639-1_code: en
+ISO_639_1_code: en
 Wikidata_language_code: en
 POSIX_locale_identifier: en
 Dewey_Decimal_Classification: 420
@@ -312,8 +312,8 @@ ISBN_identifier_group:
 - 978-1
 Ethnologue_com_language_code: eng
 WALS_lect_code: eng
-ISO_639-3_code: eng
-ISO_639-2_code: eng
+ISO_639_3_code: eng
+ISO_639_2_code: eng
 Archive_of_Our_Own_tag: English
 Commons_category: "English language"
 GitHub_topic: english-language

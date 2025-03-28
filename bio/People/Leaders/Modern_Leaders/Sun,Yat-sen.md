@@ -60,7 +60,7 @@ BHCL_UUID: 6e9d2e67-55e3-45de-be88-415802b2f63e
 CYT_CCS: AC000000655
 Google_Doodle: dr-sun-yat-sens-birthday
 Krugosvet_article: istoriya/SUN_YATSEN.html
-Libris-URI: khwzvlj34vfmlsr
+Libris_URI: khwzvlj34vfmlsr
 Commons_Creator_page: "Sun Yat-sen"
 Commons_gallery: "Sun Yat-sen"
 Commons_category: "Sun Yat-sen"

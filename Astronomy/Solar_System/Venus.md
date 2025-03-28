@@ -5,7 +5,7 @@ orbital_inclination:
 - 3.39467605
 - 2.19
 orbital_eccentricity: 0.00677672
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 0.723332
 - 108208930
 Unicode_character: ♀

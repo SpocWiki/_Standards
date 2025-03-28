@@ -85,7 +85,7 @@ marriageable_age: 18
 mains_voltage: 230
 suicide_rate: 7.9
 Democracy_Index: 2.15
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.er,41019]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.er,41019]]'
 Human_Development_Index: 0.492
 head_of_state: "[[_Standards/WikiData/WD~Isaias Afwerki,57348]]"
 head_of_government: "[[_Standards/WikiData/WD~Isaias Afwerki,57348]]"
@@ -105,7 +105,7 @@ birth_rate:
 - 28.624
 - 28.706
 - 28.941
-ISO_3166-1_numeric_code: 232
+ISO_3166_1_numeric_code: 232
 M49_code: 232
 PM20_geo_code: C126
 life_expectancy: 65.092
@@ -116,11 +116,11 @@ male_population:
 - 1753513
 - 1817878
 OmegaWiki_Defined_Meaning: 8348
-ISO_3166-1_alpha-3_code: ERI
+ISO_3166_1_alpha_3_code: ERI
 IOC_country_code: ERI
 ITU_letter_code: ERI
 IPA_transcription: "ɛɾɪ'tɾeːɑ"
-Libris-URI: khwzxfh35lb4g66
+Libris_URI: khwzxfh35lb4g66
 Colon_Classification: SG--681
 hashtag:
 - State-of-Eritrea
@@ -230,7 +230,7 @@ subreddit:
 - Eritrean
 - Eritrea
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eritrea.svg"
-number_of_out-of-school_children: 968035
+number_of_out_of_school_children: 968035
 urban_population:
 - 1424439
 - 1470245
@@ -248,8 +248,8 @@ rural_population:
 - 2113713
 Unicode_character: "\U0001F1EA\U0001F1F7"
 licence_plate_code: ER
-ISO_3166-1_alpha-2_code: ER
-FIPS_10-4_countries_and_regions_: ER
+ISO_3166_1_alpha_2_code: ER
+FIPS_10_4_countries_and_regions_: ER
 WIPO_ST_3: ER
 Commons_category: Eritrea
 Commons_gallery: Eritrea

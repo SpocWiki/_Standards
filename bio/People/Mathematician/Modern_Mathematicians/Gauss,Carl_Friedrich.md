@@ -116,7 +116,7 @@ BHCL_UUID:
 - 224e3c81-3ffa-467e-a646-1bd1c1e1269e
 - 82e7a1f8-ee07-4d58-91c5-e2847178eb47
 - 735e0cad-1e6e-4e3d-b126-45e85574da2d
-Libris-URI: 42gjjlkn3jvj7jk
+Libris_URI: 42gjjlkn3jvj7jk
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Gauss::9y6g5\"]"
 Commons_gallery: "Johann Carl Friedrich Gauß"
 Google_Doodle: johann-carl-friedrich-gaus-241st-birthday

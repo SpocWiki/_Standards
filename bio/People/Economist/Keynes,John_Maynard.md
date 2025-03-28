@@ -100,7 +100,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/JM%20Keynes%20sig
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Keynes%201933.jpg"
 BHCL_UUID: dae9d032-17c9-4798-9c9a-b8bdf862b80b
 Krugosvet_article: ekonomika-i-pravo/keyns-dzhon-meynard
-Libris-URI: sq467g7b2jfmbsk
+Libris_URI: sq467g7b2jfmbsk
 name_in_native_language: "John Maynard Keynes"
 date_of_death: "1946-04-21T00:00:00Z"
 ---

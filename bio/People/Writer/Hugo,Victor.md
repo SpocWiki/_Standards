@@ -119,7 +119,7 @@ Provenio_UUID: c0d3e44d-a430-4add-bbfb-96b4e6de17f3
 Google_Doodle: celebrating-victor-hugo
 Regensburg_Classification: "IG 6400"
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/GYUGO_VIKTOR.html
-Libris-URI: tr5780zc5bxxld3
+Libris_URI: tr5780zc5bxxld3
 last_words: "C'est ici le combat du jour et de la nuit… Je vois de la lumière noire."
 birth_name: "Victor-Marie Hugo"
 award_received:

@@ -158,15 +158,15 @@ age_of_majority: 18
 mains_voltage: 220
 suicide_rate: 6.7
 area: 23200
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.dj,41012]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.dj,41012]]'
 Democracy_Index: 2.71
-Inequality-adjusted_Human_Development_Index: 0.309
+Inequality_adjusted_Human_Development_Index: 0.309
 BTI_Status_Index:
 - 4.12
 - 4.16
 Gini_coefficient: 41.6
 Human_Development_Index: 0.509
-ISO_3166-1_numeric_code: 262
+ISO_3166_1_numeric_code: 262
 M49_code: 262
 BTI_Governance_Index:
 - 5.14
@@ -193,10 +193,10 @@ male_population:
 life_expectancy: 62.465
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Djibouti.svg"
 IAB_code: 1283
-ISO_3166-1_alpha-3_code: DJI
+ISO_3166_1_alpha_3_code: DJI
 IOC_country_code: DJI
 ITU_letter_code: DJI
-number_of_out-of-school_children: 137785
+number_of_out_of_school_children: 137785
 OmegaWiki_Defined_Meaning: 8120
 INSEE_countries_and_foreign_territories_code: 99399
 rural_population:
@@ -204,8 +204,8 @@ rural_population:
 - 239158
 - 240823
 - 242328
-ISO_3166-1_alpha-2_code: DJ
-FIPS_10-4_countries_and_regions_: DJ
+ISO_3166_1_alpha_2_code: DJ
+FIPS_10_4_countries_and_regions_: DJ
 WIPO_ST_3: DJ
 female_population:
 - 540367
@@ -255,7 +255,7 @@ Unicode_character: "\U0001F1E9\U0001F1EF"
 Commons_category: Djibouti
 subreddit: Djibouti
 hashtag: Djibouti
-Libris-URI: ljx0zd0451qfg4f
+Libris_URI: ljx0zd0451qfg4f
 Krugosvet_article: strany_mira/DZHIBUTI.html
 has_id_wikidata: Q977
 location:

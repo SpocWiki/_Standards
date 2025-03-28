@@ -256,13 +256,13 @@ BTI_Status_Index:
 - 4.04
 - 4.07
 - 4.22
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.iq,41768]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.iq,41768]]'
 Gini_coefficient: 29.5
 Democracy_Index: 3.51
 Happy_Planet_Index_score: 45.3
 trunk_prefix: 0
 maritime_identification_digits: 425
-Inequality-adjusted_Human_Development_Index: 0.554
+Inequality_adjusted_Human_Development_Index: 0.554
 Human_Development_Index: 0.686
 mobile_country_code: 418
 death_rate:
@@ -272,14 +272,14 @@ death_rate:
 - 5.239
 total_fertility_rate: 4.566
 UIC_numerical_country_code: 99
-FIPS_10-4_countries_and_regions_: IZ
+FIPS_10_4_countries_and_regions_: IZ
 IAB_code: 1321
 birth_rate:
 - 27.035
 - 27.367
 - 27.732
 - 28.078
-ISO_3166-1_numeric_code: 368
+ISO_3166_1_numeric_code: 368
 M49_code: 368
 OmegaWiki_Defined_Meaning: 5741
 life_expectancy: 69.862
@@ -288,11 +288,11 @@ Commons_category: Iraq
 hashtag: Iraq
 subreddit: Iraq
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Iraq.svg"
-ISO_3166-1_alpha-2_code: IQ
+ISO_3166_1_alpha_2_code: IQ
 WIPO_ST_3: IQ
 area: 437072
 INSEE_countries_and_foreign_territories_code: 99203
-number_of_out-of-school_children: 1826357
+number_of_out_of_school_children: 1826357
 male_population:
 - 22290370
 - 20788703
@@ -308,7 +308,7 @@ population: 38274618
 inception: "1932-01-01T00:00:00Z"
 has_time_started: "1932-01-01T00:00:00Z"
 licence_plate_code: IRQ
-ISO_3166-1_alpha-3_code: IRQ
+ISO_3166_1_alpha_3_code: IRQ
 IOC_country_code: IRQ
 ITU_letter_code: IRQ
 UIC_alphabetical_country_code: IRQ

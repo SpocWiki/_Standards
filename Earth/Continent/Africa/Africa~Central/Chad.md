@@ -261,7 +261,7 @@ pronunciation_audio:
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Ouara%20banner.jpg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/TCD%20orthographic.svg"
 country_calling_code: +235
-Libris-URI: rp3545s91js3154
+Libris_URI: rp3545s91js3154
 Krugosvet_article: strany_mira/CHAD.html
 motto_text:
 - "الاتحاد، العمل، التقدم"
@@ -388,9 +388,9 @@ BTI_Status_Index:
 - 3.86
 suicide_rate: 8.8
 Democracy_Index: 1.55
-Inequality-adjusted_Human_Development_Index: 0.251
+Inequality_adjusted_Human_Development_Index: 0.251
 Happy_Planet_Index_score: 30.4
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.td,43081]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.td,43081]]'
 Gini_coefficient: 37.5
 Human_Development_Index: 0.394
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
@@ -417,7 +417,7 @@ death_rate:
 - 12.486
 - 12.504
 IOC_country_code: CHA
-ISO_3166-1_numeric_code: 148
+ISO_3166_1_numeric_code: 148
 M49_code: 148
 mobile_country_code: 622
 maritime_identification_digits: 670
@@ -428,7 +428,7 @@ birth_rate:
 - 44.229
 IAB_code: 1270
 life_expectancy: 52.903
-FIPS_10-4_countries_and_regions_: CD
+FIPS_10_4_countries_and_regions_: CD
 INSEE_countries_and_foreign_territories_code: 99344
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chad.svg"
 OmegaWiki_Defined_Meaning: 7322
@@ -447,11 +447,11 @@ Commons_category: Chad
 hashtag: Chad
 subreddit: Chad
 Commons_gallery: Tchad
-number_of_out-of-school_children: 1757281
+number_of_out_of_school_children: 1757281
 licence_plate_code:
 - TD
 - TCH
-ISO_3166-1_alpha-2_code: TD
+ISO_3166_1_alpha_2_code: TD
 WIPO_ST_3: TD
 U_S_National_Archives_Identifier: 10035839
 urban_population:
@@ -459,7 +459,7 @@ urban_population:
 - 3914834
 - 4085514
 - 4264761
-ISO_3166-1_alpha-3_code: TCD
+ISO_3166_1_alpha_3_code: TCD
 ITU_letter_code: TCD
 ---
 

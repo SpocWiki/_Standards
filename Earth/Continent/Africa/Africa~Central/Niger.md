@@ -219,9 +219,9 @@ BTI_Governance_Index:
 - 5.94
 - 6.11
 - 6.12
-Inequality-adjusted_Human_Development_Index: 0.292
+Inequality_adjusted_Human_Development_Index: 0.292
 Democracy_Index: 3.29
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ne,43158]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ne,43158]]'
 Gini_coefficient: 37.3
 Happy_Planet_Index_score: 41.4
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
@@ -240,7 +240,7 @@ country_calling_code: +227
 U_S_National_Archives_Identifier: 10035780
 Dewey_Decimal_Classification: 2--6626
 Unicode_character: "\U0001F1F3\U0001F1EA"
-ISO_3166-1_alpha-3_code: NER
+ISO_3166_1_alpha_3_code: NER
 CIVICUS_Monitor_country_entry: niger
 GitHub_topic: niger
 Krugosvet_article: strany_mira/NIGER.html
@@ -259,11 +259,11 @@ death_rate:
 - 8.141
 - 8.281
 maritime_identification_digits: 656
-ISO_3166-1_alpha-2_code: NE
+ISO_3166_1_alpha_2_code: NE
 WIPO_ST_3: NE
 mobile_country_code: 614
 IAB_code: 1444
-ISO_3166-1_numeric_code: 562
+ISO_3166_1_numeric_code: 562
 M49_code: 562
 birth_rate:
 - 45.029
@@ -273,7 +273,7 @@ birth_rate:
 life_expectancy: 60.058
 licence_plate_code: RN
 INSEE_countries_and_foreign_territories_code: 99337
-FIPS_10-4_countries_and_regions_: NG
+FIPS_10_4_countries_and_regions_: NG
 ITU_letter_code: NGR
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg"
 IOC_country_code: NIG
@@ -283,7 +283,7 @@ male_population:
 - 12809135
 - 13293383
 coordinate_location: "Point(10.0 17.0)"
-number_of_out-of-school_children: 3410345
+number_of_out_of_school_children: 3410345
 urban_population:
 - 3872145
 - 4045711

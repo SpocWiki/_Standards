@@ -5,7 +5,7 @@ has_id_wikidata: Q9397
 CYT_CCS: AC000211556
 Europeana_entity: agent/base/145527
 Krugosvet_article: istoriya/CHZHU_SI.html
-Libris-URI: tr57727c2jchhxf
+Libris_URI: tr57727c2jchhxf
 PhilPapers_topic: zhu-xi
 name_in_kana: "しゅ き"
 courtesy_name:

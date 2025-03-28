@@ -105,7 +105,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Chekhov%20wit
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Chekhov%20Anton%20grave.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%86%E0%A4%82%E0%A4%A4%E0%A5%8B%E0%A4%A8%20%E0%A4%9A%E0%A5%87%E0%A4%96%E0%A4%B5.wav"
 NLC_authorities: 000287356
-Libris-URI: 31fhj2fm133fqns
+Libris_URI: 31fhj2fm133fqns
 BHCL_UUID: 468ccc86-ad23-4f07-abfd-26ac99d43257
 Provenio_UUID: 9f91bc9d-9df1-4d20-b7d5-4ff8a2bb18e8
 Europeana_entity: agent/base/59862

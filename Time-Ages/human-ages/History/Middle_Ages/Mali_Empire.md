@@ -11,7 +11,7 @@ instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
 legislative_body: '[[_Standards/WikiData/WD~Gbara,3299285]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D5%AC%D5%AB%D5%AB%20%D5%AF%D5%A1%D5%B5%D5%BD%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Mali%20Empire%29.ogg"
 currency: '[[_Standards/WikiData/WD~gold,897]]'
-located_in_the_present-day_administrative_territorial_entity:
+located_in_the_present_day_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Mali,912]]'
 - "[[_Standards/WikiData/WD~Burkina Faso,965]]"
 - '[[_Standards/WikiData/WD~Guinea,1006]]'

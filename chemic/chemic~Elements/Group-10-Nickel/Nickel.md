@@ -51,7 +51,7 @@ oxidation_state:
 - 4
 vapor_pressure: 0
 immediately_dangerous_to_life_or_health: 10
-time-weighted_average_exposure_limit:
+time_weighted_average_exposure_limit:
 - 1
 - 0.015
 atomic_number: 28

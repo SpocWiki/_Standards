@@ -273,7 +273,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Henri%20Matisse-%20into.ogg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20Henri%20Matisse%20Nice.jpg"
 Europeana_entity: agent/base/60593
-Libris-URI: hftwxp415qbdbxs
+Libris_URI: hftwxp415qbdbxs
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MATISS_ANRI.html
 ---
 

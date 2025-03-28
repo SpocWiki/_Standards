@@ -3,7 +3,7 @@ aliases:
 - "Chinese language"
 has_id_wikidata: Q7850
 OmegaWiki_Defined_Meaning: 6061
-ISO_639-2_code:
+ISO_639_2_code:
 - chi
 - zho
 GitHub_topic:
@@ -53,7 +53,7 @@ topic_s_main_template:
 - "[[_Standards/WikiData/WD~Template_Chinese language,10964946]]"
 - '[[_Standards/WikiData/WD~Q22772532,22772532]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q18121684,18121684]]'
-ISO_639-3_code: zho
+ISO_639_3_code: zho
 Ethnologue_com_language_code: zho
 described_by_source:
 - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
@@ -85,7 +85,7 @@ subclass_of: '[[_Standards/WikiData/WD~Sino-Tibetan,45961]]'
 ABS_ASCL_2011_code: 71
 Wikimedia_language_code: zh
 IETF_language_tag: zh
-ISO_639-1_code: zh
+ISO_639_1_code: zh
 POSIX_locale_identifier: zh
 IAB_code: 1213
 ---

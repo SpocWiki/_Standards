@@ -137,10 +137,10 @@ BTI_Status_Index:
 - 3.73
 - 3.78
 suicide_rate: 5.9
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.cg,39906]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cg,39906]]'
 Democracy_Index: 3.11
 area: 342000
-Inequality-adjusted_Human_Development_Index: 0.432
+Inequality_adjusted_Human_Development_Index: 0.432
 Happy_Planet_Index_score: 47.2
 Gini_coefficient: 48.9
 mobile_country_code: 629
@@ -153,7 +153,7 @@ death_rate:
 - 7.275
 - 7.388
 maritime_identification_digits: 615
-ISO_3166-1_numeric_code: 178
+ISO_3166_1_numeric_code: 178
 M49_code: 178
 male_population:
 - 2981800
@@ -165,7 +165,7 @@ birth_rate:
 - 30.691
 - 31.155
 - 31.676
-ISO_3166-1_alpha-3_code: COG
+ISO_3166_1_alpha_3_code: COG
 life_expectancy: 64.625
 INSEE_countries_and_foreign_territories_code: 99324
 urban_population:
@@ -173,12 +173,12 @@ urban_population:
 - 3867728
 - 3984863
 - 4103831
-FIPS_10-4_countries_and_regions_: CF
+FIPS_10_4_countries_and_regions_: CF
 PM20_geo_code: C77
 population: 6142180
 IOC_country_code: CGO
 licence_plate_code: RCB
-ISO_3166-1_alpha-2_code: CG
+ISO_3166_1_alpha_2_code: CG
 WIPO_ST_3: CG
 Commons_category: "Republic of the Congo"
 Commons_gallery: "République du Congo"

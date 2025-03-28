@@ -92,12 +92,12 @@ nominal_GDP_per_capita: 3000000000
 mains_voltage: 230
 VAT_rate: 25
 total_fertility_rate: 2.6
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.fo,41446]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.fo,41446]]'
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Norwegian Sea,47545]]"
 perimeter: 1117
 area: 1399
 M49_code: 234
-ISO_3166-1_numeric_code: 234
+ISO_3166_1_numeric_code: 234
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Faroe%20Islands.svg"
 Commons_category: "Faroe Islands"
 Unicode_character: "\U0001F1EB\U0001F1F4"
@@ -105,16 +105,16 @@ IAB_code: 1436
 maritime_identification_digits: 231
 population: 54149
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Faroe%20Islands.svg"
-FIPS_10-4_countries_and_regions_: FO
+FIPS_10_4_countries_and_regions_: FO
 licence_plate_code: FO
-ISO_3166-1_alpha-2_code: FO
+ISO_3166_1_alpha_2_code: FO
 WIPO_ST_3: FO
 INSEE_countries_and_foreign_territories_code: 99101
 Dewey_Decimal_Classification: 2--4915
 OmegaWiki_Defined_Meaning: 618658
 coordinates_of_easternmost_point: "Point(-6.301666666 62.335)"
 IOC_country_code: FRO
-ISO_3166-1_alpha-3_code: FRO
+ISO_3166_1_alpha_3_code: FRO
 GS1_country_code: 570-579
 life_expectancy: 82.24146
 Commons_gallery: Føroyar
@@ -130,7 +130,7 @@ country_calling_code: +298
 U_S_National_Archives_Identifier: 10044824
 GitHub_topic: faroe-islands
 subreddit: FaroeIslands
-Libris-URI: jgvxwgd22swqvft
+Libris_URI: jgvxwgd22swqvft
 name_in_native_language:
 - Færøerne
 - Føroyar

@@ -190,14 +190,14 @@ suicide_rate:
 - 5.5
 life_expectancy: 71
 VAT_rate: 12.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bz,39903]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bz,39903]]'
 head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
 highest_point: "[[_Standards/WikiData/WD~Doyle's Delight,47490]]"
 Gini_coefficient: 53.3
-Inequality-adjusted_Human_Development_Index: 0.535
+Inequality_adjusted_Human_Development_Index: 0.535
 Human_Development_Index: 0.683
 literacy_rate: 82.8
-FIPS_10-4_countries_and_regions_: BH
+FIPS_10_4_countries_and_regions_: BH
 licence_plate_code: BH
 female_population:
 - 198800
@@ -207,8 +207,8 @@ female_population:
 total_fertility_rate: 2.579
 maritime_identification_digits: 312
 death_rate: 6.253
-number_of_out-of-school_children: 9724
-ISO_3166-1_numeric_code: 084
+number_of_out_of_school_children: 9724
+ISO_3166_1_numeric_code: 084
 M49_code: 084
 mobile_country_code: 702
 birth_rate: 17.763
@@ -225,7 +225,7 @@ male_population:
 area: 22966
 IAB_code: 1250
 INSEE_countries_and_foreign_territories_code: 99429
-ISO_3166-1_alpha-2_code: BZ
+ISO_3166_1_alpha_2_code: BZ
 WIPO_ST_3: BZ
 rural_population:
 - 210633
@@ -236,7 +236,7 @@ OmegaWiki_Defined_Meaning: 8002
 population: 411106
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belize.svg"
 PM20_geo_code: E67
-ISO_3166-1_alpha-3_code: BLZ
+ISO_3166_1_alpha_3_code: BLZ
 ITU_letter_code: BLZ
 IOC_country_code: BIZ
 coordinates_of_westernmost_point: "Point(-89.22758013 15.89616246)"

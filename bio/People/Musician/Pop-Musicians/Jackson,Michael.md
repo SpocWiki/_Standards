@@ -191,7 +191,7 @@ Instagram_username: michaeljackson
 X_username: michaeljackson
 subreddit: MichaelJackson
 Library_of_Congress_Classification: ML420.J175
-Libris-URI: rp3563595lkhv4q
+Libris_URI: rp3563595lkhv4q
 Baidu_Tieba_name: 迈克尔杰克逊
 birth_name: "Michael Joseph Jackson"
 nickname: "The King of Pop"

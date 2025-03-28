@@ -63,7 +63,7 @@ BHCL_UUID:
 - e90be4fa-01eb-48eb-9bf3-76e15b8e01e8
 - 58d03fe1-b3f0-4f34-a6e0-a2794dbb96cf
 Wolfram_Language_entity_code: "Entity[\"GeographicRegion\", \"Africa\"]"
-Libris-URI: rp354fn93k1wgrp
+Libris_URI: rp354fn93k1wgrp
 Colon_Classification: SG--6
 MeSH_tree_code: Z01.058
 Gujarati_Vishwakosh_entry: આફ્રિકા
@@ -106,7 +106,7 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
 population: 1200000000
 vehicles_per_thousand_people: 44
-number_of_out-of-school_children: 101000000
+number_of_out_of_school_children: 101000000
 studied_in:
 - "[[_Standards/WikiData/WD~Africana studies,37542]]"
 - "[[_Standards/WikiData/WD~African studies,38157]]"

@@ -8,7 +8,7 @@ BHCL_UUID: 37d71a79-96c1-4a1d-97e7-1bb810e1b967
 Provenio_UUID: 4d5c288b-095c-4fba-9e33-3bf6b5442070
 Krugosvet_article: arhitektura/le-korbyuze
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"CharlesEdouardJeanneret::46q6f\"]"
-Libris-URI: gdsvql602csx7lm
+Libris_URI: gdsvql602csx7lm
 IPI_base_code: I-002459096-1
 Regensburg_Classification: "IH 57220"
 place_of_birth: "[[_Standards/WikiData/WD~La Chaux-de-Fonds,68124]]"

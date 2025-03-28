@@ -201,7 +201,7 @@ geography_of_topic: "[[_Standards/WikiData/WD~geography of Vanuatu,2734883]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Vanuatu,3044426]]"
 has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy of Vanuatu,3235438]]"
-ISO_3166-1_numeric_code: 548
+ISO_3166_1_numeric_code: 548
 M49_code: 548
 maritime_identification_digits:
 - 576
@@ -209,7 +209,7 @@ maritime_identification_digits:
 OmegaWiki_Defined_Meaning: 8537
 INSEE_countries_and_foreign_territories_code: 99514
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Vanuatu\"]"
-FIPS_10-4_countries_and_regions_: NH
+FIPS_10_4_countries_and_regions_: NH
 Krugosvet_article: strany_mira/VANUATU.html
 IOC_country_code: VAN
 subreddit: vanuatu
@@ -218,10 +218,10 @@ CIVICUS_Monitor_country_entry: vanuatu
 Commons_category: Vanuatu
 Commons_gallery: Vanuatu
 hashtag: Vanuatu
-ISO_3166-1_alpha-2_code: VU
+ISO_3166_1_alpha_2_code: VU
 WIPO_ST_3: VU
 Unicode_character: "\U0001F1FB\U0001F1FA"
-ISO_3166-1_alpha-3_code: VUT
+ISO_3166_1_alpha_3_code: VUT
 ITU_letter_code: VUT
 MeSH_tree_code: Z01.639.760.590.736
 demonym:
@@ -283,7 +283,7 @@ death_rate:
 - 5.395
 - 5.487
 - 5.663
-number_of_out-of-school_children: 12208
+number_of_out_of_school_children: 12208
 rural_population:
 - 237230
 - 227104
@@ -370,9 +370,9 @@ VAT_rate: 13
 marriageable_age: 21
 mains_voltage: 220
 capital: "[[_Standards/WikiData/WD~Port Vila,37806]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.vu,42701]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.vu,42701]]'
 Gini_coefficient: 32.3
-Inequality-adjusted_Human_Development_Index: 0.489
+Inequality_adjusted_Human_Development_Index: 0.489
 Happy_Planet_Index_score: 60.4
 Human_Development_Index: 0.607
 geoshape: "http://commons.wikimedia.org/data/main/Data:Vanuatu.map"
@@ -392,7 +392,7 @@ area: 12190
 country_calling_code: +678
 U_S_National_Archives_Identifier: 10035720
 IAB_code: 1471
-Libris-URI: 31fhhmpm20pljbx
+Libris_URI: 31fhhmpm20pljbx
 mobile_country_code: 451
 ---
 

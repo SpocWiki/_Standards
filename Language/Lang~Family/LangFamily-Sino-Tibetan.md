@@ -21,13 +21,13 @@ GOST_7_75_97_code: "сит 601"
 Stack_Exchange_tag: "https://languages.stackexchange.com/tags/sino-tibetan"
 Linguist_List_code: sitb
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Sino-Tibetan%20Languages%20Map.png"
-Libris-URI: b8nqtnkv5g43wf8
+Libris_URI: b8nqtnkv5g43wf8
 instance_of: "[[_Standards/WikiData/WD~language family,25295]]"
 number_of_speakers_writers_or_signers: 1200000000
-ISO_639-5_code: sit
+ISO_639_5_code: sit
 IETF_language_tag: sit
-ISO_639-2_code: sit
-ISO_639-6_code: snot
+ISO_639_2_code: sit
+ISO_639_6_code: snot
 ---
 
 # [[LangFamily-Sino-Tibetan]] 

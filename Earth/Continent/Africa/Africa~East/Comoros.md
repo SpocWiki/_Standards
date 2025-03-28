@@ -151,7 +151,7 @@ part_of: "[[_Standards/WikiData/WD~East Africa,27407]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 6
 mains_voltage: 220
-Inequality-adjusted_Human_Development_Index: 0.31
+Inequality_adjusted_Human_Development_Index: 0.31
 suicide_rate: 6.8
 birth_rate:
 - 30.4
@@ -159,14 +159,14 @@ birth_rate:
 - 29.398
 - 29.896
 Democracy_Index: 3.09
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.km,42843]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.km,42843]]'
 Happy_Planet_Index_score: 42.4
 total_fertility_rate: 4.49
 Gini_coefficient: 45.3
 maritime_identification_digits:
 - 620
 - 616
-FIPS_10-4_countries_and_regions_: CN
+FIPS_10_4_countries_and_regions_: CN
 Human_Development_Index: 0.558
 area: 2034
 death_rate:
@@ -175,7 +175,7 @@ death_rate:
 - 8.528
 - 8.718
 mobile_country_code: 654
-ISO_3166-1_numeric_code: 174
+ISO_3166_1_numeric_code: 174
 M49_code: 174
 IAB_code: 1429
 female_population:
@@ -188,9 +188,9 @@ rural_population:
 - 560303
 - 569314
 - 578317
-number_of_out-of-school_children: 61523
+number_of_out_of_school_children: 61523
 life_expectancy: 63.701
-ISO_3166-1_alpha-2_code: KM
+ISO_3166_1_alpha_2_code: KM
 WIPO_ST_3: KM
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Grande%20Comore%20banner.jpg"
 urban_population:
@@ -199,7 +199,7 @@ urban_population:
 - 243308
 - 249894
 IOC_country_code: COM
-ISO_3166-1_alpha-3_code: COM
+ISO_3166_1_alpha_3_code: COM
 ITU_letter_code: COM
 INSEE_countries_and_foreign_territories_code: 99397
 male_population:

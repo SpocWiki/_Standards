@@ -123,7 +123,7 @@ work_period_start_: "1643-01-01T00:00:00Z"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20de%20La%20Fontaine%20%26%20Moli%C3%A8re%20%28P%C3%A8re%20Lachaise%29.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Mignard%20-%20Portrait%20de%20Jean-Baptiste%20Poquelin%20dit%20Moli%C3%A8re%20%281622-1673%29%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
 BHCL_UUID: 83724579-183f-47d0-a985-deed6636cd75
-Libris-URI: 86lnpgss2fbkrr6
+Libris_URI: 86lnpgss2fbkrr6
 Europeana_entity: agent/base/60496
 ---
 

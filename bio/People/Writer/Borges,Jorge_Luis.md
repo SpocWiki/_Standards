@@ -123,7 +123,7 @@ medical_condition: '[[_Standards/WikiData/WD~blindness,10874]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 place_of_death: '[[_Standards/WikiData/WD~Geneva,71]]'
 nominated_for: "[[_Standards/WikiData/WD~Nobel Prize in Literature,37922]]"
-Libris-URI: fcrtvmvz02f2qd8
+Libris_URI: fcrtvmvz02f2qd8
 pseudonym:
 - "H. Bustos Domecq"
 - "B. Suarez Lynch"

@@ -67,7 +67,7 @@ electron_configuration:
 - "[Kr] 5s² 5d¹⁰ 5p²"
 vapor_pressure: 0
 immediately_dangerous_to_life_or_health: 100
-time-weighted_average_exposure_limit: 2
+time_weighted_average_exposure_limit: 2
 atomic_number: 50
 ionic_radius:
 - 0.55

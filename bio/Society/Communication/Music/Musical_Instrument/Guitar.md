@@ -42,7 +42,7 @@ subclass_of:
 - "[[_Standards/WikiData/WD~long, thin object,113519195]]"
 instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
 Baidu_Tieba_name: 吉他
-Hornbostel-Sachs_classification: 321.322-5-6
+Hornbostel_Sachs_classification: 321.322-5-6
 OmegaWiki_Defined_Meaning: 349118
 Nomenclature_for_Museum_Cataloging: 10792
 Commons_category: Guitars

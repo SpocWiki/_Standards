@@ -84,10 +84,10 @@ WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/post-tra
 exact_match:
 - "http://identifiers.org/doid/DOID:2055"
 - "http://purl.obolibrary.org/obo/DOID_2055"
-ICD-9-CM: 309.81
+ICD_9_CM: 309.81
 UMLS_CUI: C0038436
 MeSH_tree_code: F03.950.750.500
-ICD-10-CM:
+ICD_10_CM:
 - F43.10
 - F43.11
 - F43.12

@@ -167,11 +167,11 @@ Human_Development_Index: 0.5
 VAT_rate: 15
 mains_voltage: 230
 area: 11300
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gm,41758]]'
-Inequality-adjusted_Human_Development_Index: 0.348
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gm,41758]]'
+Inequality_adjusted_Human_Development_Index: 0.348
 Democracy_Index: 4.49
 maritime_identification_digits: 629
-ISO_3166-1_alpha-2_code: GM
+ISO_3166_1_alpha_2_code: GM
 WIPO_ST_3: GM
 BTI_Governance_Index:
 - 5.73
@@ -186,7 +186,7 @@ death_rate:
 - 7.137
 - 7.373
 - 7.543
-ISO_3166-1_numeric_code: 270
+ISO_3166_1_numeric_code: 270
 M49_code: 270
 birth_rate:
 - 32.696
@@ -196,7 +196,7 @@ birth_rate:
 life_expectancy: 61.193
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20The%20Gambia.svg"
 IAB_code: 1439
-FIPS_10-4_countries_and_regions_: GA
+FIPS_10_4_countries_and_regions_: GA
 urban_population:
 - 1727830
 - 1553776
@@ -204,7 +204,7 @@ urban_population:
 - 1669008
 licence_plate_code: WAG
 PM20_geo_code: C51
-ISO_3166-1_alpha-3_code: GMB
+ISO_3166_1_alpha_3_code: GMB
 ITU_letter_code: GMB
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20The%20Gambia.svg"
 IOC_country_code: GAM
@@ -242,7 +242,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Gambia.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav"
 country_calling_code: +220
-Libris-URI: 75kml5jr0dgh804
+Libris_URI: 75kml5jr0dgh804
 CIVICUS_Monitor_country_entry: gambia
 Unicode_character: "\U0001F1EC\U0001F1F2"
 Krugosvet_article: strany_mira/GAMBIYA.html

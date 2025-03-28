@@ -90,9 +90,9 @@ BTI_Governance_Index:
 - 4.92
 - 5.21
 - 5.25
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.rw,43592]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.rw,43592]]'
 Happy_Planet_Index_score: 39.2
-Inequality-adjusted_Human_Development_Index: 0.402
+Inequality_adjusted_Human_Development_Index: 0.402
 Gini_coefficient: 43.7
 Human_Development_Index: 0.534
 death_rate:
@@ -110,11 +110,11 @@ birth_rate:
 - 29.976
 - 30.309
 - 30.776
-ISO_3166-1_numeric_code: 646
+ISO_3166_1_numeric_code: 646
 M49_code: 646
-ISO_3166-1_alpha-2_code: RW
+ISO_3166_1_alpha_2_code: RW
 WIPO_ST_3: RW
-FIPS_10-4_countries_and_regions_: RW
+FIPS_10_4_countries_and_regions_: RW
 life_expectancy: 67.129
 rural_population:
 - 10612900
@@ -210,7 +210,7 @@ GitHub_topic: rwanda
 CIVICUS_Monitor_country_entry:
 - rwanda
 - sao-tome-and-principe
-Libris-URI: sq4656cb0z1sjs7
+Libris_URI: sq4656cb0z1sjs7
 Krugosvet_article: strany_mira/RUANDA.html
 official_name:
 - "la République du Rwanda"
@@ -228,7 +228,7 @@ short_name: "\U0001F1F7\U0001F1FC"
 OmegaWiki_Defined_Meaning: 8523
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rwanda.svg"
 licence_plate_code: RWA
-ISO_3166-1_alpha-3_code: RWA
+ISO_3166_1_alpha_3_code: RWA
 IOC_country_code: RWA
 INSEE_countries_and_foreign_territories_code: 99340
 ITU_letter_code: RRW

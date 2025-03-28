@@ -151,7 +151,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
 - "[[_Standards/WikiData/WD~United States,30]]"
-number_of_out-of-school_children: 100000
+number_of_out_of_school_children: 100000
 speed_limit:
 - 50
 - 90
@@ -171,7 +171,7 @@ birth_rate:
 - 16.093
 - 16.628
 - 17.215
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tn,43163]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tn,43163]]'
 Gini_coefficient: 36.1
 BTI_Governance_Index:
 - 4.32
@@ -194,15 +194,15 @@ BTI_Status_Index:
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 OpenStreetMap_zoom_level: 6
 GS1_country_code: 619
-Inequality-adjusted_Human_Development_Index: 0.588
+Inequality_adjusted_Human_Development_Index: 0.588
 Democracy_Index: 6.59
 Human_Development_Index: 0.731
-ISO_3166-1_numeric_code: 788
+ISO_3166_1_numeric_code: 788
 M49_code: 788
 OmegaWiki_Defined_Meaning: 8406
 UIC_numerical_country_code: 91
 licence_plate_code: TN
-ISO_3166-1_alpha-2_code: TN
+ISO_3166_1_alpha_2_code: TN
 WIPO_ST_3: TN
 UIC_alphabetical_country_code: TN
 death_rate:
@@ -213,7 +213,7 @@ death_rate:
 area: 163610
 IAB_code: 1461
 mobile_country_code: 605
-FIPS_10-4_countries_and_regions_: TS
+FIPS_10_4_countries_and_regions_: TS
 maritime_identification_digits: 672
 annual_number_of_weddings:
 - 63902
@@ -332,7 +332,7 @@ female_population:
 - 6257745
 INSEE_countries_and_foreign_territories_code: 99351
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg"
-ISO_3166-1_alpha-3_code: TUN
+ISO_3166_1_alpha_3_code: TUN
 IOC_country_code: TUN
 ITU_letter_code: TUN
 rural_population:
@@ -362,7 +362,7 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tunisia%2
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tunisia%20banner%20Roman%20mosaic%20at%20Carthage.jpg"
 country_calling_code: +216
 U_S_National_Archives_Identifier: 10035673
-Libris-URI: mkz102w54z7qc1l
+Libris_URI: mkz102w54z7qc1l
 Colon_Classification: SG--673
 Krugosvet_article: strany_mira/TUNIS.html
 Unicode_character: "\U0001F1F9\U0001F1F3"

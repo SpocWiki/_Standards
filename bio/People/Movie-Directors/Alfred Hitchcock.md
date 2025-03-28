@@ -134,7 +134,7 @@ plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hitchcock%20wa
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hitchcock%2C%20Alfred%2002.jpg"
 Google_Doodle: alfred-hitchcocks-104th-birthday
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/HICHKOK_ALFRED.html
-Libris-URI: pm13zg274hjzfzr
+Libris_URI: pm13zg274hjzfzr
 birth_name: "Alfred Joseph Hitchcock"
 work_period_start_: "1921-01-01T00:00:00Z"
 ---

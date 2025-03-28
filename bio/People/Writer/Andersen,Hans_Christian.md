@@ -3,7 +3,7 @@ aliases:
 - "Hans Christian Andersen"
 has_id_wikidata: Q5673
 IPI_name_number: 00000889100
-Libris-URI: 53hkk68p38wnhpr
+Libris_URI: 53hkk68p38wnhpr
 Provenio_UUID: 991bb5e0-7c91-4c83-90e8-a9c04f93d672
 BHCL_UUID: adcf2feb-a08e-4ece-b706-c2fe4f6fb82b
 Europeana_entity: agent/base/60027

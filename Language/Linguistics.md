@@ -59,7 +59,7 @@ entry_in_abbreviations_table:
 - лінгв.
 Dewey_Decimal_Classification: 410
 DFG_Science_Classification: 104
-All-Science_Journal_Classification_Codes:
+All_Science_Journal_Classification_Codes:
 - 1203
 - 3310
 OmegaWiki_Defined_Meaning: 375148

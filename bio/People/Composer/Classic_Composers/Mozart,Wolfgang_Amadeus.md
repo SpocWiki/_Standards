@@ -153,7 +153,7 @@ native_language: '[[_Standards/WikiData/WD~German,188]]'
 place_of_birth: '[[_Standards/WikiData/WD~Salzburg,34713]]'
 height: 1.63
 social_media_followers: 179000
-Libris-URI: mkz12t351kx8pb4
+Libris_URI: mkz12t351kx8pb4
 Google_Doodle: mozarts-250th-birthday
 name_in_native_language: "Johann Chrysostomos Wolfgang Gottlieb Mozart"
 cause_of_death: "http://www.wikidata.org/.well-known/genid/023ca7411c0a2535a9fa4ccea84eb1fe"

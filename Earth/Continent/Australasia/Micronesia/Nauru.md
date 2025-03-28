@@ -165,9 +165,9 @@ marriageable_age:
 area: 21
 mains_voltage: 240
 life_expectancy: 64
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.nr,42689]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.nr,42689]]'
 Gini_coefficient: 34.8
-number_of_out-of-school_children: 518
+number_of_out_of_school_children: 518
 female_population:
 - 6050
 - 5955
@@ -175,7 +175,7 @@ female_population:
 - 6233
 head_of_state: "[[_Standards/WikiData/WD~David Adeang,58096]]"
 population: 13650
-ISO_3166-1_numeric_code: 520
+ISO_3166_1_numeric_code: 520
 M49_code: 520
 total_fertility_rate: 3.463
 mobile_country_code: 536
@@ -191,8 +191,8 @@ urban_population:
 - 12315
 - 12511
 - 12668
-FIPS_10-4_countries_and_regions_: NR
-ISO_3166-1_alpha-2_code: NR
+FIPS_10_4_countries_and_regions_: NR
+ISO_3166_1_alpha_2_code: NR
 WIPO_ST_3: NR
 official_name:
 - Nauru
@@ -214,7 +214,7 @@ nominal_GDP:
 - 145536603
 - 150922211
 IOC_country_code: NRU
-ISO_3166-1_alpha-3_code: NRU
+ISO_3166_1_alpha_3_code: NRU
 ITU_letter_code: NRU
 licence_plate_code: NAU
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nauru.svg"
@@ -232,7 +232,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rocks%20by%20th
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Nauru%20satellite.jpg"
 country_calling_code: +674
 U_S_National_Archives_Identifier: 10045245
-Libris-URI: dbqsrn5x3mptzhp
+Libris_URI: dbqsrn5x3mptzhp
 Commons_gallery: "Naoero / Nauru"
 CIVICUS_Monitor_country_entry: nauru
 subreddit: nauru

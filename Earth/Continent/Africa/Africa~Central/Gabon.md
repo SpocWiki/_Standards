@@ -200,7 +200,7 @@ marriageable_age: 21
 mains_voltage: 220
 Gini_coefficient: 38
 nominal_GDP: 4800000000
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ga,41784]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ga,41784]]'
 Democracy_Index: 3.54
 Happy_Planet_Index_score: 39.9
 BTI_Governance_Index:
@@ -210,7 +210,7 @@ BTI_Status_Index:
 - 4.83
 - 4.89
 trunk_prefix: 0
-Inequality-adjusted_Human_Development_Index: 0.554
+Inequality_adjusted_Human_Development_Index: 0.554
 Human_Development_Index: 0.706
 head_of_state: "[[_Standards/WikiData/WD~Ali Bongo Ondimba,57521]]"
 head_of_government: "[[_Standards/WikiData/WD~Raymond Ndong Sima,57856]]"
@@ -251,7 +251,7 @@ rural_population:
 - 224215
 - 227148
 - 230087
-ISO_3166-1_numeric_code: 266
+ISO_3166_1_numeric_code: 266
 M49_code: 266
 birth_rate:
 - 26.803
@@ -262,16 +262,16 @@ maritime_identification_digits: 626
 life_expectancy: 66.105
 OmegaWiki_Defined_Meaning: 8368
 PM20_geo_code: C78
-ISO_3166-1_alpha-2_code: GA
+ISO_3166_1_alpha_2_code: GA
 WIPO_ST_3: GA
 area: 267667
-FIPS_10-4_countries_and_regions_: GB
+FIPS_10_4_countries_and_regions_: GB
 Commons_category: Gabon
 hashtag: Gabon
 Commons_gallery: Gabon
 INSEE_countries_and_foreign_territories_code: 99328
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gabon.svg"
-ISO_3166-1_alpha-3_code: GAB
+ISO_3166_1_alpha_3_code: GAB
 ITU_letter_code: GAB
 IOC_country_code: GAB
 female_population:

@@ -284,7 +284,7 @@ BTI_Status_Index:
 - 7.39
 - 7.43
 - 7.51
-Inequality-adjusted_Human_Development_Index: 0.72
+Inequality_adjusted_Human_Development_Index: 0.72
 life_expectancy: 75
 birth_rate:
 - 8.9
@@ -293,7 +293,7 @@ birth_rate:
 replaces: "[[_Standards/WikiData/WD~Serbia and Montenegro,37024]]"
 total_fertility_rate: 1.43
 Gini_coefficient: 34.5
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.rs,45155]]'
 - '[[_Standards/WikiData/WD~.срб,48367]]'
 BTI_Governance_Index: 4.89
@@ -365,24 +365,24 @@ Human_Development_Index: 0.802
 UIC_numerical_country_code: 72
 mobile_country_code: 220
 maritime_identification_digits: 279
-ISO_3166-1_numeric_code: 688
+ISO_3166_1_numeric_code: 688
 M49_code: 688
 GS1_country_code: 860
 ITU_letter_code: SRB
 UIC_alphabetical_country_code: SRB
 IOC_country_code: SRB
 licence_plate_code: SRB
-ISO_3166-1_alpha-3_code: SRB
-number_of_out-of-school_children: 33041
+ISO_3166_1_alpha_3_code: SRB
+number_of_out_of_school_children: 33041
 OmegaWiki_Defined_Meaning: 8071
 IAB_code: 1400
 Dewey_Decimal_Classification: 2--4971
 area: 88499
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Serbian%20national%20anthem%2C%20instrumental.oga"
-FIPS_10-4_countries_and_regions_: RI
+FIPS_10_4_countries_and_regions_: RI
 WIPO_ST_3: RS
 NUTS_code: RS
-ISO_3166-1_alpha-2_code: RS
+ISO_3166_1_alpha_2_code: RS
 INSEE_countries_and_foreign_territories_code: 99121
 coordinate_location: "Point(20.933333333 43.95)"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg"

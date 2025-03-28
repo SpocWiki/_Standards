@@ -142,7 +142,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Qalyubia Governorate,31075]]"
 - "[[_Standards/WikiData/WD~Port Said Governorate,31079]]"
 lowest_point: "[[_Standards/WikiData/WD~Qattara Depression,841050]]"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.مصر,914712]]'
 - '[[_Standards/WikiData/WD~.eg,40381]]'
 central_bank: "[[_Standards/WikiData/WD~Central Bank of Egypt,920699]]"
@@ -365,7 +365,7 @@ Happy_Planet_Index_score: 43.2
 trunk_prefix: 0
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 OpenStreetMap_zoom_level: 4
-Inequality-adjusted_Human_Development_Index: 0.519
+Inequality_adjusted_Human_Development_Index: 0.519
 death_rate:
 - 6.39
 - 5.581
@@ -374,7 +374,7 @@ death_rate:
 Human_Development_Index: 0.731
 UIC_numerical_country_code: 90
 total_fertility_rate: 3.338
-ISO_3166-1_numeric_code: 818
+ISO_3166_1_numeric_code: 818
 M49_code: 818
 GS1_country_code: 622
 maritime_identification_digits: 622
@@ -393,13 +393,13 @@ INSEE_countries_and_foreign_territories_code: 99301
 licence_plate_code: ET
 UIC_alphabetical_country_code: ET
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg"
-ISO_3166-1_alpha-3_code: EGY
+ISO_3166_1_alpha_3_code: EGY
 ITU_letter_code: EGY
 IOC_country_code: EGY
-number_of_out-of-school_children: 1456758
-ISO_3166-1_alpha-2_code: EG
+number_of_out_of_school_children: 1456758
+ISO_3166_1_alpha_2_code: EG
 WIPO_ST_3: EG
-FIPS_10-4_countries_and_regions_: EG
+FIPS_10_4_countries_and_regions_: EG
 Commons_category: Egypt
 has_id_wikidata: Q79
 location:

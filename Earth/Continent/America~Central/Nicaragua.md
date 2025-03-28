@@ -47,7 +47,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Jinotega Department,728120]]"
 - "[[_Standards/WikiData/WD~Rivas Department,728127]]"
 - "[[_Standards/WikiData/WD~Río San Juan Department,728155]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ni,487644]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ni,487644]]'
 geography_of_topic: "[[_Standards/WikiData/WD~geography of Nicaragua,572049]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
@@ -205,7 +205,7 @@ BTI_Status_Index:
 - 5.88
 - 6.08
 Gini_coefficient: 46.2
-Inequality-adjusted_Human_Development_Index: 0.516
+Inequality_adjusted_Human_Development_Index: 0.516
 mobile_country_code: 710
 Happy_Planet_Index_score: 55.2
 Human_Development_Index: 0.667
@@ -213,16 +213,16 @@ head_of_state: "[[_Standards/WikiData/WD~Daniel Ortega,57402]]"
 maritime_identification_digits: 350
 total_fertility_rate: 2.264
 death_rate: 4.655
-ISO_3166-1_numeric_code: 558
+ISO_3166_1_numeric_code: 558
 M49_code: 558
-number_of_out-of-school_children: 142550
+number_of_out_of_school_children: 142550
 birth_rate: 20.018
 IAB_code: 1368
 GS1_country_code: 743
-ISO_3166-1_alpha-2_code: NI
+ISO_3166_1_alpha_2_code: NI
 WIPO_ST_3: NI
 area: 130375
-FIPS_10-4_countries_and_regions_: NU
+FIPS_10_4_countries_and_regions_: NU
 male_population:
 - 3375630
 - 3284332
@@ -243,7 +243,7 @@ subreddit: Nicaragua
 hashtag: Nicaragua
 Commons_gallery: Nicaragua
 licence_plate_code: NIC
-ISO_3166-1_alpha-3_code: NIC
+ISO_3166_1_alpha_3_code: NIC
 rural_population:
 - 2748202
 - 2769106

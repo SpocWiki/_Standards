@@ -67,7 +67,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20Gustav%2
 official_website: "http://www.gustav-mahler.org"
 IPI_name_number:
 - 00019139783
-Libris-URI: 20dghftl2wj9lll
+Libris_URI: 20dghftl2wj9lll
 instance_of:
 - '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'

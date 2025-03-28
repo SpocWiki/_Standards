@@ -55,7 +55,7 @@ Iconclass_notation: 82A(TAMBURLAINE)
 BHCL_UUID: c6006258-bb69-417d-89be-6cf3fd95146f
 Krugosvet_article: istoriya/TIMUR.html
 Commons_gallery: Tamerlan
-Libris-URI: xv8bf2kg2m0d860
+Libris_URI: xv8bf2kg2m0d860
 given_name: '[[_Standards/WikiData/WD~Timur,12376986]]'
 family: "[[_Standards/WikiData/WD~Timurid dynasty,20737645]]"
 mother: "[[_Standards/WikiData/WD~Tekina Khatun,108091442]]"

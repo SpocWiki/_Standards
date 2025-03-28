@@ -52,7 +52,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/A%20very%20unique%20r
 electron_configuration: "[Kr] 5s¹ 4d⁸"
 vapor_pressure: 0
 immediately_dangerous_to_life_or_health: 100
-time-weighted_average_exposure_limit: 0.1
+time_weighted_average_exposure_limit: 0.1
 oxidation_state: 3
 ionic_radius:
 - 0.6

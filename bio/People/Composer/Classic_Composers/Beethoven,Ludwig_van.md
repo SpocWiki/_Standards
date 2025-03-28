@@ -5,7 +5,7 @@ has_id_wikidata: Q255
 BHCL_UUID: 4ed3ca11-0e63-4a90-ba05-43b61f6955e6
 Europeana_entity: agent/base/146880
 Google_Doodle: celebrating-ludwig-van-beethovens-245th-year
-Libris-URI: fcrtthqz07g9rj7
+Libris_URI: fcrtthqz07g9rj7
 Krugosvet_article: kultura_i_obrazovanie/muzyka/BETHOVEN_LYUDVIG_VAN.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/2330
 Royal_Academy_new_identifier: ludwig-van-beethoven

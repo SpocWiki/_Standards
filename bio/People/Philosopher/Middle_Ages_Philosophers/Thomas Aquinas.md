@@ -127,7 +127,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/St-thomas-aquinas.jpg
 BHCL_UUID:
 - 215ae786-4575-428b-a2d2-094b7d51c22a
 - 6dd56c4a-1106-4e13-b466-1307fde90310
-Libris-URI: 97mpq6nt0br14h7
+Libris_URI: 97mpq6nt0br14h7
 Provenio_UUID: a20c71ce-014c-4fe7-bd0e-359792866c5c
 Regensburg_Classification:
 - "BN 2543"

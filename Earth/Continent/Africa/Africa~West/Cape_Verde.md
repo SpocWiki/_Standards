@@ -196,12 +196,12 @@ VAT_rate: 15
 mains_voltage: 220
 literacy_rate: 87
 suicide_rate: 11.3
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.cv,41022]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cv,41022]]'
 Gini_coefficient: 42.4
 Human_Development_Index: 0.662
 Democracy_Index: 7.65
 head_of_state: "[[_Standards/WikiData/WD~José Maria Neves,57649]]"
-ISO_3166-1_numeric_code: 132
+ISO_3166_1_numeric_code: 132
 M49_code: 132
 total_fertility_rate: 2.303
 IAB_code: 1266
@@ -212,11 +212,11 @@ death_rate:
 - 5.692
 - 6.028
 Dewey_Decimal_Classification: 2--6658
-FIPS_10-4_countries_and_regions_: CV
+FIPS_10_4_countries_and_regions_: CV
 licence_plate_code: CV
-ISO_3166-1_alpha-2_code: CV
+ISO_3166_1_alpha_2_code: CV
 WIPO_ST_3: CV
-number_of_out-of-school_children: 14273
+number_of_out_of_school_children: 14273
 birth_rate:
 - 16.686
 - 16.951
@@ -265,7 +265,7 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cape
 inception: "1975-07-05T00:00:00Z"
 has_time_started: "1975-07-05T00:00:00Z"
 IOC_country_code: CPV
-ISO_3166-1_alpha-3_code: CPV
+ISO_3166_1_alpha_3_code: CPV
 ITU_letter_code: CPV
 coordinates_of_geographic_center: "Point(-24.0125 16.0025)"
 coordinate_location: "Point(-23.7 15.3)"

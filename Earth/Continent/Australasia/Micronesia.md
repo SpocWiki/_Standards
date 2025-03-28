@@ -65,13 +65,13 @@ marriageable_age:
 - 16
 - 18
 minimum_temperature_record: 17.8
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.fm,40423]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.fm,40423]]'
 capital: '[[_Standards/WikiData/WD~Palikir,42751]]'
 maximum_temperature_record: 36.1
 Gini_coefficient: 40.1
 IAB_code: 1292
 mobile_country_code: 550
-FIPS_5-2_numeric_code_US_states_: 64
+FIPS_5_2_numeric_code_US_states_: 64
 Human_Development_Index: 0.628
 area: 702
 continent:
@@ -94,11 +94,11 @@ urban_population:
 - 25709
 - 26097
 - 26505
-ISO_3166-1_numeric_code: 583
+ISO_3166_1_numeric_code: 583
 M49_code: 583
-FIPS_10-4_countries_and_regions_: FM
-ISO_3166-1_alpha-2_code: FM
-FIPS_5-2_alpha_code_US_states_: FM
+FIPS_10_4_countries_and_regions_: FM
+ISO_3166_1_alpha_2_code: FM
+FIPS_5_2_alpha_code_US_states_: FM
 female_population:
 - 55307
 - 55694
@@ -210,7 +210,7 @@ nominal_GDP:
 - 404028900
 - 427094119
 IOC_country_code: FSM
-ISO_3166-1_alpha-3_code: FSM
+ISO_3166_1_alpha_3_code: FSM
 geoshape: "http://commons.wikimedia.org/data/main/Data:Federated+States+of+Micronesia.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Falalop%20Island%20%28Ulithi%20atoll%2C%20Federated%20States%20of%20Micronesia%29%20banner%20Aerial%20view%20of%20airfield.jpg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Federated%20States%20of%20Micronesia.svg"
@@ -223,7 +223,7 @@ pronunciation_audio:
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Micronesia%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20Federated%20States%20of%20Micronesia.svg"
 country_calling_code: +691
-Libris-URI: 1zcfjv1k00zfm8d
+Libris_URI: 1zcfjv1k00zfm8d
 Commons_gallery: "Federated States of Micronesia"
 Commons_category: "Federated States of Micronesia"
 hashtag: FederatedStatesofMicronesia

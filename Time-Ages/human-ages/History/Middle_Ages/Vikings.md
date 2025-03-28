@@ -19,7 +19,7 @@ start_time: "0793-01-01T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dublin%20-%20Dublinia%20-%2020190809102938.jpg"
 OmegaWiki_Defined_Meaning: 933625
 Krugosvet_article: istoriya/VIKINGI.html
-Libris-URI: pm136tj73pg9mnj
+Libris_URI: pm136tj73pg9mnj
 OpenStreetMap_tag_or_key: "Tag:historic:civilization=vikingian"
 GitHub_topic: viking
 Commons_gallery: Vikings

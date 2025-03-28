@@ -102,7 +102,7 @@ orbital_eccentricity: 0.0933941
 OmegaWiki_Defined_Meaning: 160405
 Commons_category: "Mars (planet)"
 area: 144798500
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 1.523679
 - 227936637
 diameter: 6791.432

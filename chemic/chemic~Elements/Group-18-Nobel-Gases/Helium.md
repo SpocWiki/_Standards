@@ -40,7 +40,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
 conjugate_acid: '[[_Standards/WikiData/WD~hydridohelium(1+),1188583]]'
 antiparticle: '[[_Standards/WikiData/WD~anti-helium,1991752]]'
-by-product_of: "[[_Standards/WikiData/WD~natural-gas processing,2287558]]"
+by_product_of: "[[_Standards/WikiData/WD~natural-gas processing,2287558]]"
 instance_of:
 - "[[_Standards/WikiData/WD~atmophile element,2313842]]"
 - "[[_Standards/WikiData/WD~chemical element,11344]]"

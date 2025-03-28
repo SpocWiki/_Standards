@@ -79,7 +79,7 @@ number_of_children: 2
 height: 182
 DPLA_subject_term: "Hoover, Herbert, 1874-1964"
 Krugosvet_article: istoriya/GUVER_GERBERT_KLARK.html
-Libris-URI: mkz125z51s1slnm
+Libris_URI: mkz125z51s1slnm
 name_in_native_language: "Herbert Clark Hoover"
 birth_name: "Herbert Clark Hoover"
 date_of_death: "1964-10-20T00:00:00Z"

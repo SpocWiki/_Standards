@@ -168,7 +168,7 @@ electrical_plug_type:
 economy_of_topic: "[[_Standards/WikiData/WD~economy of Israel,1379800]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography of Israel,1616635]]"
 production_statistics: '[[_Standards/WikiData/WD~olive,1621080]]'
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~ישראל.,1833465]]'
 - '[[_Standards/WikiData/WD~.il,40467]]'
 language_used:
@@ -364,7 +364,7 @@ Happy_Planet_Index_score: 48.2
 trunk_prefix: 0
 mobile_country_code: 425
 Democracy_Index: 7.97
-Inequality-adjusted_Human_Development_Index: 0.815
+Inequality_adjusted_Human_Development_Index: 0.815
 life_expectancy: 82.6
 Human_Development_Index: 0.919
 population: 9840000
@@ -402,7 +402,7 @@ IAB_code: 1325
 Dewey_Decimal_Classification: 2--5694
 WOEID: 23424852
 M49_code: 376
-ISO_3166-1_numeric_code: 376
+ISO_3166_1_numeric_code: 376
 OmegaWiki_Defined_Meaning: 5746
 GS1_country_code: 729
 UIC_numerical_country_code: 95
@@ -413,11 +413,11 @@ BHCL_UUID:
 WIPO_ST_3: IL
 UIC_alphabetical_country_code: IL
 licence_plate_code: IL
-ISO_3166-1_alpha-2_code: IL
+ISO_3166_1_alpha_2_code: IL
 Unicode_character: "\U0001F1EE\U0001F1F1"
-FIPS_10-4_countries_and_regions_: IS
+FIPS_10_4_countries_and_regions_: IS
 ITU_letter_code: ISR
-ISO_3166-1_alpha-3_code: ISR
+ISO_3166_1_alpha_3_code: ISR
 IOC_country_code: ISR
 hashtag:
 - israel
@@ -442,7 +442,7 @@ minimum_wage:
 - 5571.75
 nominal_GDP: 520700000000
 unemployment_rate: 66.36
-number_of_out-of-school_children: 26676
+number_of_out_of_school_children: 26676
 male_population:
 - 4592300
 - 4509772
@@ -475,7 +475,7 @@ Threads_username:
 - stateofisrael
 Facebook_username: IsraelArabic
 Krugosvet_article: strany-mira/izrail-strana
-Libris-URI: wt798x9f33sdv3p
+Libris_URI: wt798x9f33sdv3p
 Commons_gallery: "ישראל / إسرائيل"
 Gujarati_Vishwakosh_entry: ઇઝરાયલ
 has_id_wikidata: Q801

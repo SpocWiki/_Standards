@@ -414,7 +414,7 @@ official_website:
 - "https://www.malaysia.travel/en/us"
 - "https://www.malaysia.gov.my"
 country_calling_code: +60
-Libris-URI: khwzxrd31q8xhb5
+Libris_URI: khwzxrd31q8xhb5
 CIVICUS_Monitor_country_entry: malaysia
 subreddit: malaysia
 GitHub_topic: malaysia
@@ -481,7 +481,7 @@ BTI_Governance_Index:
 - 5.68
 - 5.71
 total_fertility_rate: 1.76
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.my,43127]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.my,43127]]'
 Happy_Planet_Index_score: 41.7
 Gini_coefficient: 46.2
 trunk_prefix: 0
@@ -501,7 +501,7 @@ death_rate:
 - 5.311
 - 5.443
 - 6.034
-ISO_3166-1_numeric_code: 458
+ISO_3166_1_numeric_code: 458
 M49_code: 458
 Dewey_Decimal_Classification: 2--5951
 female_population: 15652000
@@ -512,10 +512,10 @@ social_media_followers:
 - 427386
 rural_population: 7420200
 maritime_identification_digits: 533
-number_of_out-of-school_children: 1176190
+number_of_out_of_school_children: 1176190
 WIPO_ST_3: MY
-ISO_3166-1_alpha-2_code: MY
-FIPS_10-4_countries_and_regions_: MY
+ISO_3166_1_alpha_2_code: MY
+FIPS_10_4_countries_and_regions_: MY
 male_population: 16999500
 urban_population: 22379800
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg"
@@ -523,7 +523,7 @@ area: 330803
 INSEE_countries_and_foreign_territories_code: 99227
 IOC_country_code: MAS
 ITU_letter_code: MLA
-ISO_3166-1_alpha-3_code: MYS
+ISO_3166_1_alpha_3_code: MYS
 inception: "1963-09-16T00:00:00Z"
 has_time_started: "1963-09-16T00:00:00Z"
 Commons_category: Malaysia

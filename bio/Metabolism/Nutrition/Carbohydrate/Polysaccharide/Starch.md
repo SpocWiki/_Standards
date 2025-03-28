@@ -54,7 +54,7 @@ Dewey_Decimal_Classification:
 - 612.01578
 - 664.2
 vapor_pressure: 0
-time-weighted_average_exposure_limit:
+time_weighted_average_exposure_limit:
 - 10
 - 5
 - 15

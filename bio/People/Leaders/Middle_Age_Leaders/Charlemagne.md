@@ -112,7 +112,7 @@ Provenio_UUID:
 - b949f5f9-8277-4672-9e04-3c96558cfa22
 Commons_gallery: "Carolus Magnus"
 Commons_category: "Carolus Magnus"
-Libris-URI: dbqst1qx38cnxc6
+Libris_URI: dbqst1qx38cnxc6
 Krugosvet_article: istoriya/karl-0742-0814-velikiy
 ---
 

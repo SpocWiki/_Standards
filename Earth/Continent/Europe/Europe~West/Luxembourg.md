@@ -224,19 +224,19 @@ Gini_coefficient:
 - 34.9
 retirement_age: 65
 life_expectancy: 83
-Inequality-adjusted_Human_Development_Index: 0.85
+Inequality_adjusted_Human_Development_Index: 0.85
 Human_Development_Index: 0.93
 total_fertility_rate: 1.55
 poverty_incidence: 17.5
 budget: 27300000000
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.lu,41795]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.lu,41795]]'
 Happy_Planet_Index_score: 31.7
 GS1_country_code: 540-549
 vehicles_per_thousand_people: 662
 Democracy_Index: 8.68
 IAB_code: 1343
-ISO_3166-1_numeric_code: 442
+ISO_3166_1_numeric_code: 442
 M49_code: 442
 NUTS_code:
 - LU0
@@ -251,7 +251,7 @@ country_calling_code: +352
 Dewey_Decimal_Classification: 2--4935
 BHCL_UUID: c53a20ef-d5bd-4ab4-9190-99a97f628b5d
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Luxembourg\"]"
-Libris-URI: jgvxwpw249jldlg
+Libris_URI: jgvxwpw249jldlg
 Instagram_username: luxembourg_lets_make_it_happen
 Facebook_username: luxembourg.lu
 X_Twitter_username: LuxembourgLU
@@ -285,11 +285,11 @@ native_label:
 - Lëtzebuerg
 - Luxembourg
 - Luxemburg
-number_of_out-of-school_children: 5946
+number_of_out_of_school_children: 5946
 mobile_country_code: 270
 maritime_identification_digits: 253
-FIPS_10-4_countries_and_regions_: LU
-ISO_3166-1_alpha-2_code: LU
+FIPS_10_4_countries_and_regions_: LU
+ISO_3166_1_alpha_2_code: LU
 WIPO_ST_3: LU
 OmegaWiki_Defined_Meaning: 154047
 licence_plate_code: L
@@ -320,7 +320,7 @@ urban_population:
 - 600078
 PM20_geo_code: A27
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxembourg.svg"
-ISO_3166-1_alpha-3_code: LUX
+ISO_3166_1_alpha_3_code: LUX
 ITU_letter_code: LUX
 IOC_country_code: LUX
 Unicode_character: "\U0001F1F1\U0001F1FA"

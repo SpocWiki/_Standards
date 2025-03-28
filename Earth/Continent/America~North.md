@@ -112,7 +112,7 @@ IAB_code: 1223
 M49_code: 003
 population: 613150000
 PM20_geo_code: E2
-number_of_out-of-school_children: 9399756
+number_of_out_of_school_children: 9399756
 coordinates_of_easternmost_point: "Point(-52.619444444 47.523611111)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:North+America+Flickr.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Canyon-banner2.jpg"

@@ -29,7 +29,7 @@ periapsis:
 orbital_inclination:
 - 17.14001206
 - 11.88
-semi-major_axis_of_an_orbit: 39.48211675
+semi_major_axis_of_an_orbit: 39.48211675
 child_astronomical_body:
 - '[[_Standards/WikiData/WD~Nix,102694]]'
 - '[[_Standards/WikiData/WD~Hydra,102701]]'

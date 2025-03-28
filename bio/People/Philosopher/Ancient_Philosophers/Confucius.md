@@ -130,7 +130,7 @@ depicted_by: "[[_Standards/WikiData/WD~Bust of Confucius,116679061]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Confucius%2C%20fresco%20from%20a%20Western%20Han%20tomb%20of%20Dongping%20County%2C%20Shandong%20province%2C%20China.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Konfuzius.ogg"
 NLC_authorities: 038015049
-Libris-URI: 0xbdfmcj22v36r3
+Libris_URI: 0xbdfmcj22v36r3
 BHCL_UUID:
 - 9537e028-57b4-45d4-9927-5bd104a75f18
 - ace539d7-455e-4b8d-85cd-d0f268f08356

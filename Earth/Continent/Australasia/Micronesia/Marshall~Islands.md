@@ -95,7 +95,7 @@ CIVICUS_Monitor_country_entry: marshall-islands
 subreddit: MarshallIslands
 hashtag: MarshallIslands
 Krugosvet_article: strany_mira/MARSHALLOVI_OSTROVA.html
-Libris-URI: zw9cb52h513v2ns
+Libris_URI: zw9cb52h513v2ns
 demonym:
 - marxalés
 - marxalesa
@@ -175,7 +175,7 @@ located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific Ocean,98]
 water_as_percent_of_area: 0
 minimum_temperature_record: 20
 compulsory_education_maximum_age_: 14
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mh,41789]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mh,41789]]'
 Gini_coefficient: 35.5
 maximum_temperature_record: 35.6
 total_fertility_rate: 4.05
@@ -190,9 +190,9 @@ rural_population:
 - 8929
 - 9183
 - 10101
-ISO_3166-1_numeric_code: 584
+ISO_3166_1_numeric_code: 584
 M49_code: 584
-FIPS_5-2_numeric_code_US_states_: 68
+FIPS_5_2_numeric_code_US_states_: 68
 birth_rate:
 - 19.28
 - 18.524
@@ -208,12 +208,12 @@ urban_population:
 - 32867
 - 33773
 - 34627
-number_of_out-of-school_children: 3624
+number_of_out_of_school_children: 3624
 IAB_code: 1442
-FIPS_10-4_countries_and_regions_: RM
+FIPS_10_4_countries_and_regions_: RM
 maritime_identification_digits: 538
-ISO_3166-1_alpha-2_code: MH
-FIPS_5-2_alpha_code_US_states_: MH
+ISO_3166_1_alpha_2_code: MH
+FIPS_5_2_alpha_code_US_states_: MH
 area: 181.43
 female_population:
 - 20346
@@ -231,7 +231,7 @@ nominal_GDP:
 - 279667900
 coordinates_of_westernmost_point: "Point(160.9 9.822222222)"
 life_expectancy: 65.23902
-ISO_3166-1_alpha-3_code: MHL
+ISO_3166_1_alpha_3_code: MHL
 ITU_letter_code: MHL
 IOC_country_code: MHL
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Marshall%20Islands.svg"

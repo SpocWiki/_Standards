@@ -66,7 +66,7 @@ Unicode_range:
 - U+1CD0-1CFF
 native_label: देवनागरी
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20Verbreitung.svg"
-ISO_15924_alpha-4_code: Deva
+ISO_15924_alpha_4_code: Deva
 Commons_category: Devanagari
 name:
 - Devanagari

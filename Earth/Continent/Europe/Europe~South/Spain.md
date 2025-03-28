@@ -285,7 +285,7 @@ IPA_transcription:
 - ˈspeɪn
 - esˈpaɲa
 - ɪˈspanʲɪjə
-Libris-URI: 0xbddljj0wdngtx
+Libris_URI: 0xbddljj0wdngtx
 Dewey_Decimal_Classification: 2--46
 BHCL_UUID: e2f8a55c-e941-4638-8f8b-5086aa7744f8
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Spain\"]"
@@ -454,18 +454,18 @@ death_rate:
 - 9.7
 - 10.4
 total_fertility_rate: 1.27
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.es,37883]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.es,37883]]'
 highest_point: '[[_Standards/WikiData/WD~Teide,38954]]'
 Gini_coefficient: 34.3
 Happy_Planet_Index_score: 52.3
 UIC_numerical_country_code: 71
 M49_code: 724
-ISO_3166-1_numeric_code: 724
+ISO_3166_1_numeric_code: 724
 subreddit:
 - es
 - spain
 social_media_followers: 7430
-Inequality-adjusted_Human_Development_Index: 0.788
+Inequality_adjusted_Human_Development_Index: 0.788
 Democracy_Index: 8.12
 Human_Development_Index: 0.905
 maritime_identification_digits:
@@ -474,7 +474,7 @@ maritime_identification_digits:
 ITU_letter_code: E
 UIC_alphabetical_country_code: E
 licence_plate_code: E
-FIPS_10-4_countries_and_regions_: SP
+FIPS_10_4_countries_and_regions_: SP
 mobile_country_code: 214
 median_income: 21959
 coordinates_of_southernmost_point:
@@ -497,14 +497,14 @@ history_of_topic: "[[_Standards/WikiData/WD~history of Spain,7781]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy of Spain,8050]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Iberian Peninsula,12837]]"
 PM20_geo_code: A30
-number_of_out-of-school_children: 35822
+number_of_out_of_school_children: 35822
 area: 505990
 OmegaWiki_Defined_Meaning: 7965
 NUTS_code: ES
 WIPO_ST_3: ES
-ISO_3166-1_alpha-2_code: ES
+ISO_3166_1_alpha_2_code: ES
 IOC_country_code: ESP
-ISO_3166-1_alpha-3_code: ESP
+ISO_3166_1_alpha_3_code: ESP
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg"
 IAB_code: 1412
 INSEE_countries_and_foreign_territories_code: 99134

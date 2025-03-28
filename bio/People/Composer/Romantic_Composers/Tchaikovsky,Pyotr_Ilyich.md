@@ -114,7 +114,7 @@ BHCL_UUID: 78c9b126-be03-4c19-8d09-7a7f93b47817
 Europeana_entity: agent/base/146907
 Krugosvet_article: kultura_i_obrazovanie/muzyka/CHAKOVSKI_PETR_ILICH.html
 Google_Doodle: pyotr-ilyich-tchaikovskys-170th-birthday
-Libris-URI: rp3525690cjjjhr
+Libris_URI: rp3525690cjjjhr
 transliteration_or_transcription: Tschaikowsky
 name_in_native_language:
 - "Пётр Ильич Чайковский"

@@ -65,7 +65,7 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/ChaucerA
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Chaucer::f2kcz\"]"
 Krugosvet_article: kultura_i_obrazovanie/literatura/CHOSER_DZHEFRI.html
 Colon_Classification: O111,1H40
-Libris-URI: xv8bb52g42v8pqx
+Libris_URI: xv8bb52g42v8pqx
 name_in_native_language: "Geoffrey Chaucer"
 date_of_birth: "1343-01-01T00:00:00Z"
 ISNI: 0000000375840787

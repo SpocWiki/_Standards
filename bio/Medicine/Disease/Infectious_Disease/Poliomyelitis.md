@@ -1,6 +1,6 @@
 ﻿---
 has_id_wikidata: Q12195
-ICD-9-CM:
+ICD_9_CM:
 - 045.90
 - 045.92
 - 045
@@ -9,7 +9,7 @@ Dewey_Decimal_Classification:
 - 614.549
 - 616.835
 - 618.92835
-ICD-10-CM:
+ICD_10_CM:
 - A80.0
 - A80.1
 - A80.2

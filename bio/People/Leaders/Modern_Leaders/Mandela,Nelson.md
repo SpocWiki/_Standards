@@ -157,7 +157,7 @@ Commons_gallery: "Nelson Mandela"
 Commons_category: "Nelson Mandela"
 Commons_Creator_page: "Nelson Mandela"
 Krugosvet_article: istoriya/MANDELA_NELSON.html
-Libris-URI: jgvxssb23tp2h8t
+Libris_URI: jgvxssb23tp2h8t
 Google_Doodle: nelson-mandelas-96th-birthday
 X_username: NelsonMandela
 name_in_native_language: "Nelson Rolihlahla Mandela"

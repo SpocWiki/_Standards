@@ -63,7 +63,7 @@ Commons_gallery: "Muhammad ibn Musa al-Khwarizmi"
 date_of_death: "0850-01-01T00:00:00Z"
 work_period_end_: "0846-01-01T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Al-Khwarizmi%20portrait.jpg"
-Libris-URI: 1zcf8rck5jh8jzf
+Libris_URI: 1zcf8rck5jh8jzf
 ---
 
 ## #has_/text_of_/abstract 

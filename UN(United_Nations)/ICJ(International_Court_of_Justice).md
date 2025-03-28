@@ -41,7 +41,7 @@ Google_Play_developer_slug: "Cour internationale de Justice"
 email_address: "mailto:info@icj-cij.org"
 seal_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20International%20Court%20of%20Justice.png"
-Libris-URI: rp353p293x92lzz
+Libris_URI: rp353p293x92lzz
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Internationaler%20Gerichtshof.ogg"
 official_website:
 - "https://icj-cij.org/home"

@@ -96,7 +96,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Sarah%20Bernhardt%20grave.jpg"
 name_in_native_language: "Sarah Bernhardt"
 date_of_death: "1923-03-26T00:00:00Z"
-Libris-URI: 75kmg7qr3x14kw7
+Libris_URI: 75kmg7qr3x14kw7
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/BERNAR_SARA.html
 Commons_gallery: "Sarah Bernhardt"
 Commons_category: "Sarah Bernhardt"

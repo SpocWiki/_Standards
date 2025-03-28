@@ -279,13 +279,13 @@ BTI_Status_Index:
 - 7.98
 suicide_rate: 23.5
 unemployment_rate: 27.2
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.za,42754]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.za,42754]]'
 Happy_Planet_Index_score: 36.2
-Inequality-adjusted_Human_Development_Index: 0.471
+Inequality_adjusted_Human_Development_Index: 0.471
 trunk_prefix: 0
 maritime_identification_digits: 601
 M49_code: 710
-ISO_3166-1_numeric_code: 710
+ISO_3166_1_numeric_code: 710
 Gini_coefficient: 63.1
 Human_Development_Index: 0.713
 Democracy_Index: 7.24
@@ -302,10 +302,10 @@ death_rate:
 - 9.425
 - 11.432
 - 12.032
-FIPS_10-4_countries_and_regions_: SF
+FIPS_10_4_countries_and_regions_: SF
 WIPO_ST_3: ZA
 licence_plate_code: ZA
-ISO_3166-1_alpha-2_code: ZA
+ISO_3166_1_alpha_2_code: ZA
 life_expectancy: 62.774
 IAB_code: 1409
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg"
@@ -327,7 +327,7 @@ native_label:
 - "Afurika Tshipembe"
 - "uMzantsi Afrika"
 - "iNingizimu Afrika"
-number_of_out-of-school_children: 1815742
+number_of_out_of_school_children: 1815742
 ITU_letter_code: AFS
 demonym:
 - "South African"
@@ -371,7 +371,7 @@ subreddit: southafrica
 hashtag: SouthAfrica
 Krugosvet_article: strany-mira/yuzhno-afrikanskaya-respublika-yuar
 MeSH_tree_code: Z01.058.290.175.735
-ISO_3166-1_alpha-3_code: ZAF
+ISO_3166_1_alpha_3_code: ZAF
 official_name:
 - "Republiek van Suid-Afrika"
 - "Republic of South Africa"

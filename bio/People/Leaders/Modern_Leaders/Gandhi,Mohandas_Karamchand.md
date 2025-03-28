@@ -80,7 +80,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mahatma-Gandhi%2C%20s
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Mahatma%20Gandhi-article.ogg"
 NLC_authorities: 000144994
 U_S_National_Archives_Identifier: 10582643
-Libris-URI: 42gknt6n1m6s83l
+Libris_URI: 42gknt6n1m6s83l
 BHCL_UUID: 4d3544db-c1d5-4403-9b50-1b3e636d9976
 ArhivX_LOD: 50078
 nickname:

@@ -223,7 +223,7 @@ birth_rate:
 - 11.4
 - 11.6
 Gini_coefficient: 29.4
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.me,43673]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.me,43673]]'
 Happy_Planet_Index_score: 41.3
 trunk_prefix: 0
 maritime_identification_digits: 262
@@ -238,10 +238,10 @@ BTI_Governance_Index:
 - 6.51
 - 6.63
 Democracy_Index: 6.67
-Inequality-adjusted_Human_Development_Index: 0.756
+Inequality_adjusted_Human_Development_Index: 0.756
 Human_Development_Index: 0.832
 total_fertility_rate: 1.689
-ISO_3166-1_alpha-2_code: ME
+ISO_3166_1_alpha_2_code: ME
 NUTS_code:
 - ME
 - ME00
@@ -257,13 +257,13 @@ female_population:
 - 317538
 - 318464
 - 318725
-ISO_3166-1_numeric_code: 499
+ISO_3166_1_numeric_code: 499
 M49_code: 499
 life_expectancy: 77.116
 OmegaWiki_Defined_Meaning: 7931
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg"
 licence_plate_code: MNE
-ISO_3166-1_alpha-3_code: MNE
+ISO_3166_1_alpha_3_code: MNE
 IOC_country_code: MNE
 ITU_letter_code: MNE
 UIC_alphabetical_country_code:
@@ -274,7 +274,7 @@ rural_population:
 - 199225
 - 201999
 - 204336
-FIPS_10-4_countries_and_regions_: MJ
+FIPS_10_4_countries_and_regions_: MJ
 male_population:
 - 300543
 - 301673
@@ -310,7 +310,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Montenegro%20ba
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/R-1%20regional%20road%20%28Montenegro%29%2007.jpg"
 country_calling_code: +382
 U_S_National_Archives_Identifier: 10046442
-Libris-URI: fcrtsnjz1zlrqm2
+Libris_URI: fcrtsnjz1zlrqm2
 Unicode_character: "\U0001F1F2\U0001F1EA"
 Colon_Classification: SG--592245
 Krugosvet_article: strany_mira/CHERNOGORIYA.html

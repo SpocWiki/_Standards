@@ -167,12 +167,12 @@ marriageable_age: 18
 mains_voltage: 240
 life_expectancy: 68
 Gini_coefficient: 27.8
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ki,42030]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ki,42030]]'
 total_fertility_rate: 3.73
-Inequality-adjusted_Human_Development_Index: 0.516
+Inequality_adjusted_Human_Development_Index: 0.516
 Human_Development_Index: 0.624
 area: 811
-ISO_3166-1_alpha-2_code: KI
+ISO_3166_1_alpha_2_code: KI
 WIPO_ST_3: KI
 male_population:
 - 60390
@@ -186,8 +186,8 @@ female_population:
 - 64968
 - 67289
 maritime_identification_digits: 529
-FIPS_10-4_countries_and_regions_: KR
-ISO_3166-1_numeric_code: 296
+FIPS_10_4_countries_and_regions_: KR
+ISO_3166_1_numeric_code: 296
 M49_code: 296
 birth_rate: 26.723
 rural_population:
@@ -206,7 +206,7 @@ population: 119438
 INSEE_countries_and_foreign_territories_code: 99513
 U_S_National_Archives_Identifier: 10035699
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kiribati.svg"
-ISO_3166-1_alpha-3_code: KIR
+ISO_3166_1_alpha_3_code: KIR
 IOC_country_code: KIR
 ITU_letter_code: KIR
 inception: "1979-07-12T00:00:00Z"

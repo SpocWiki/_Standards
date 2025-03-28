@@ -286,7 +286,7 @@ unemployment_rate: 2.4
 mean_age: 42
 retirement_age: 65
 life_expectancy: 79
-Inequality-adjusted_Human_Development_Index: 0.85
+Inequality_adjusted_Human_Development_Index: 0.85
 BTI_Status_Index:
 - 9.4
 - 9.23
@@ -328,7 +328,7 @@ total_fertility_rate:
 - 1.69
 - 1.71
 - 1.83
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.cz,37531]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cz,37531]]'
 minimum_wage: 17300
 Gini_coefficient: 25.3
 maximum_temperature_record: 40.4
@@ -351,8 +351,8 @@ Human_Development_Index: 0.889
 IAB_code: 1281
 UIC_numerical_country_code: 54
 maritime_identification_digits: 270
-number_of_out-of-school_children: 10695
-ISO_3166-1_numeric_code: 203
+number_of_out_of_school_children: 10695
+ISO_3166_1_numeric_code: 203
 M49_code: 203
 mobile_country_code: 230
 Image_Archive_Herder_Institute: Q213
@@ -362,7 +362,7 @@ NUTS_code:
 - CZ
 - CZ0
 licence_plate_code: CZ
-ISO_3166-1_alpha-2_code: CZ
+ISO_3166_1_alpha_2_code: CZ
 WIPO_ST_3: CZ
 UIC_alphabetical_country_code: CZ
 OmegaWiki_Defined_Meaning: 8455
@@ -376,14 +376,14 @@ official_name:
 - "Česká republika"
 - "Czech Republic"
 - "République tchèque"
-FIPS_10-4_countries_and_regions_: EZ
+FIPS_10_4_countries_and_regions_: EZ
 Commons_category: "Czech Republic"
 rural_population:
 - 2709018
 - 2734517
 - 2774917
 - 2783117
-ISO_3166-1_alpha-3_code: CZE
+ISO_3166_1_alpha_3_code: CZE
 ITU_letter_code: CZE
 IOC_country_code: CZE
 male_population:

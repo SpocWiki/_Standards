@@ -426,11 +426,11 @@ VAT_rate:
 - 24
 - 25.5
 birth_rate: 8.1
-Inequality-adjusted_Human_Development_Index: 0.89
+Inequality_adjusted_Human_Development_Index: 0.89
 Human_Development_Index: 0.94
 death_rate: 11.4
 suicide_rate: 13.4
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.fi,37164]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.fi,37164]]'
 total_fertility_rate: 1.75
 Gini_coefficient: 27.7
 maximum_temperature_record: 37.2
@@ -443,13 +443,13 @@ Democracy_Index: 9.27
 OpenStreetMap_zoom_level: 5
 mobile_country_code: 244
 M49_code: 246
-ISO_3166-1_numeric_code: 246
+ISO_3166_1_numeric_code: 246
 WIPO_ST_3: FI
-FIPS_10-4_countries_and_regions_: FI
+FIPS_10_4_countries_and_regions_: FI
 NUTS_code: FI
-ISO_3166-1_alpha-2_code: FI
+ISO_3166_1_alpha_2_code: FI
 maritime_identification_digits: 230
-number_of_out-of-school_children: 14344
+number_of_out_of_school_children: 14344
 median_income: 34615
 IAB_code: 1294
 OmegaWiki_Defined_Meaning: 7956
@@ -470,7 +470,7 @@ ITU_letter_code: FIN
 UIC_alphabetical_country_code: FIN
 IOC_country_code: FIN
 licence_plate_code: FIN
-ISO_3166-1_alpha-3_code: FIN
+ISO_3166_1_alpha_3_code: FIN
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg"
 CIVICUS_Monitor_country_entry: finland
 Danbooru_tag: finland
@@ -531,7 +531,7 @@ pronunciation_audio:
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B6%C3%B6l%C3%B6nlahti1.jpg"
 official_website: "https://finland.fi/"
 country_calling_code: +358
-Libris-URI: 1zcfdxqk1s19qp1
+Libris_URI: 1zcfdxqk1s19qp1
 Dewey_Decimal_Classification: 2--4897
 BHCL_UUID:
 - 401326d7-3ab0-478d-be5e-fab1c3af1db7

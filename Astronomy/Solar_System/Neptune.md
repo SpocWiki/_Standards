@@ -54,7 +54,7 @@ has_part_s_: "[[_Standards/WikiData/WD~magnetosphere of Neptune,3843313]]"
 part_of: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
 location: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Neptune,5651603]]'
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 4503443661
 - 30.06992276
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Neptune,30589066]]"

@@ -153,7 +153,7 @@ short_name:
 - "\U0001F1F8\U0001F1FF"
 native_label: "Umbuso weSwatini"
 UMLS_CUI: C0038983
-Libris-URI: 1zcffl3k3d9llt7
+Libris_URI: 1zcffl3k3d9llt7
 ISNI: 0000000121107657
 MeSH_tree_code: Z01.058.290.175.300
 female_population:
@@ -184,7 +184,7 @@ nominal_GDP:
 - 4748702401
 PM20_geo_code: C97
 Unicode_character: "\U0001F1F8\U0001F1FF"
-ISO_3166-1_alpha-3_code: SWZ
+ISO_3166_1_alpha_3_code: SWZ
 ITU_letter_code: SWZ
 IOC_country_code: SWZ
 coordinates_of_northernmost_point: "Point(31.42 -25.72)"
@@ -227,12 +227,12 @@ BTI_Governance_Index:
 - 3.06
 - 3.12
 Democracy_Index: 3.08
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.sz,43149]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sz,43149]]'
 BTI_Status_Index:
 - 3.51
 - 3.56
 Happy_Planet_Index_score: 35.3
-Inequality-adjusted_Human_Development_Index: 0.424
+Inequality_adjusted_Human_Development_Index: 0.424
 Gini_coefficient: 54.6
 Human_Development_Index: 0.597
 head_of_state: "[[_Standards/WikiData/WD~Mswati III,57340]]"
@@ -251,13 +251,13 @@ birth_rate:
 - 24.615
 - 25.118
 mobile_country_code: 653
-ISO_3166-1_alpha-2_code: SZ
+ISO_3166_1_alpha_2_code: SZ
 WIPO_ST_3: SZ
 life_expectancy: 57.754
-ISO_3166-1_numeric_code: 748
+ISO_3166_1_numeric_code: 748
 M49_code: 748
-number_of_out-of-school_children: 70951
-FIPS_10-4_countries_and_regions_: WZ
+number_of_out_of_school_children: 70951
+FIPS_10_4_countries_and_regions_: WZ
 IAB_code: 1417
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Eswatini.svg"
 urban_population:

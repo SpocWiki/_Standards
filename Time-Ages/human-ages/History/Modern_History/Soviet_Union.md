@@ -173,7 +173,7 @@ demonym:
 - Sovjet
 UMLS_CUI: C0042120
 ISNI: 0000000123751518
-located_in_the_present-day_administrative_territorial_entity:
+located_in_the_present_day_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
@@ -219,8 +219,8 @@ continent:
 based_on: "[[_Standards/WikiData/WD~Russian Empire,34266]]"
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"UnionSovietSocialistRepublics\"]"
 Krugosvet_article: istoriya/SOYUZ_SOVETSKIH_SOTSIALISTICHESKIH_RESPUBLIK_SSSR.html
-Libris-URI: sq466dbb4qsk383
-ISO_3166-3: SUHH
+Libris_URI: sq466dbb4qsk383
+ISO_3166_3: SUHH
 MeSH_tree_code:
 - Z01.542.931
 - Z01.586.950
@@ -241,9 +241,9 @@ motto_text:
 - "პროლეტარებო ყველა ქვეყნისა, შეერთდით!"
 - "Әхли юртларың пролетарлары, бирлешиң!"
 - "Visų šalių proletarai, vienykitės!"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.su,48369]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.su,48369]]'
 trunk_prefix: 8
-ISO_3166-1_numeric_code: 810
+ISO_3166_1_numeric_code: 810
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Soviet%20Union.svg"
 IOC_country_code: URS
 short_name: СССР
@@ -251,7 +251,7 @@ area: 22402200
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Soviet%20Union%20%281956%E2%80%931991%29.svg"
 PM20_geo_code: A50
 OmegaWiki_Defined_Meaning: 354904
-ISO_3166-1_alpha-3_code: SUN
+ISO_3166_1_alpha_3_code: SUN
 Commons_category: "Soviet Union"
 population: 293047571
 official_name: "Союз Советских Социалистических Республик"

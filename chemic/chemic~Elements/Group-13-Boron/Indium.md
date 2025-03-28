@@ -41,7 +41,7 @@ electron_configuration:
 - "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p¹"
 - "[Kr] 5s² 5d¹⁰ 5p¹"
 vapor_pressure: 0
-time-weighted_average_exposure_limit: 0.1
+time_weighted_average_exposure_limit: 0.1
 ionic_radius:
 - 0.8
 - 0.62

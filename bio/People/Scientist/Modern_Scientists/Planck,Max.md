@@ -147,7 +147,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Planck.png"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Planck%20signature.svg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Max%20Planck%20%28intro%29.ogg"
 BHCL_UUID: 87088654-4cd9-482c-bb3f-20d6c7aa3600
-Libris-URI: ljx02r443b40qlb
+Libris_URI: ljx02r443b40qlb
 Google_Doodle: max-plancks-156th-birthday-born-1858
 Krugosvet_article: nauka_i_tehnika/fizika/PLANK_MAKS.html
 Regensburg_Classification: "UB 2720"

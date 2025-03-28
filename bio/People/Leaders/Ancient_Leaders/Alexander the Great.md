@@ -82,7 +82,7 @@ BHCL_UUID: 134a2f73-1dbf-4269-b5d6-f00a1e1b9c82
 Provenio_UUID:
 - 9017979f-5700-49d3-9eee-f7cdeb88ba2e
 - 80907af2-363e-4d98-ad6c-5c3e24d91ffb
-Libris-URI: b8nqsbtv5r550n4
+Libris_URI: b8nqsbtv5r550n4
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"AlexanderTheGreat::c5yk9\"]"
 Krugosvet_article: istoriya/ALEKSANDR_VELIKI_MAKEDONSKI.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/500

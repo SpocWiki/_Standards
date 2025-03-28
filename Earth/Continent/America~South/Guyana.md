@@ -212,9 +212,9 @@ age_of_majority: 18
 mains_voltage: 240
 life_expectancy: 66
 water_as_percent_of_area: 8.4
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gy,41448]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gy,41448]]'
 Gini_coefficient: 45.1
-Inequality-adjusted_Human_Development_Index: 0.591
+Inequality_adjusted_Human_Development_Index: 0.591
 Democracy_Index: 6.25
 Human_Development_Index: 0.714
 total_fertility_rate: 2.558
@@ -222,8 +222,8 @@ death_rate: 9.762
 birth_rate: 19.897
 area: 214970
 IAB_code: 1312
-number_of_out-of-school_children: 31248
-ISO_3166-1_numeric_code: 328
+number_of_out_of_school_children: 31248
+ISO_3166_1_numeric_code: 328
 M49_code: 328
 mobile_country_code: 738
 maritime_identification_digits: 750
@@ -266,11 +266,11 @@ rural_population:
 population: 777859
 inception: "1966-01-01T00:00:00Z"
 has_time_started: "1966-01-01T00:00:00Z"
-ISO_3166-1_alpha-2_code: GY
-FIPS_10-4_countries_and_regions_: GY
+ISO_3166_1_alpha_2_code: GY
+FIPS_10_4_countries_and_regions_: GY
 WIPO_ST_3: GY
 licence_plate_code: GUY
-ISO_3166-1_alpha-3_code: GUY
+ISO_3166_1_alpha_3_code: GUY
 IOC_country_code: GUY
 ITU_letter_code: GUY
 U_S_National_Archives_Identifier: 10035730
@@ -285,7 +285,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Guyana.wav"
 country_calling_code: +592
 Dewey_Decimal_Classification: 2--881
-Libris-URI: 20dgf15l0f5gwjw
+Libris_URI: 20dgf15l0f5gwjw
 GitHub_topic: guyana
 CIVICUS_Monitor_country_entry: guyana
 ---

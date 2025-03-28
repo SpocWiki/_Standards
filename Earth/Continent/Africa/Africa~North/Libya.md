@@ -247,7 +247,7 @@ Krugosvet_article: strany-mira/liviya
 native_label: "دولة ليبيا"
 short_name: "\U0001F1F1\U0001F1FE"
 coordinate_location: "Point(17.0 27.0)"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ly,42035]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ly,42035]]'
 coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Libya,44783]]"
 anthem: "[[_Standards/WikiData/WD~Libya, Libya, Libya,45861]]"
 Happy_Planet_Index_score: 42.7
@@ -265,7 +265,7 @@ death_rate:
 - 6.018
 GS1_country_code: 624
 M49_code: 434
-ISO_3166-1_numeric_code: 434
+ISO_3166_1_numeric_code: 434
 mobile_country_code: 606
 birth_rate:
 - 17.298
@@ -281,12 +281,12 @@ rural_population:
 - 1288001
 INSEE_countries_and_foreign_territories_code: 99316
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Libya.svg"
-ISO_3166-1_alpha-3_code: LBY
+ISO_3166_1_alpha_3_code: LBY
 ITU_letter_code: LBY
 Dewey_Decimal_Classification: 2--612
 OmegaWiki_Defined_Meaning: 8287
-FIPS_10-4_countries_and_regions_: LY
-ISO_3166-1_alpha-2_code: LY
+FIPS_10_4_countries_and_regions_: LY
+ISO_3166_1_alpha_2_code: LY
 WIPO_ST_3: LY
 inception:
 - "1969-09-01T00:00:00Z"

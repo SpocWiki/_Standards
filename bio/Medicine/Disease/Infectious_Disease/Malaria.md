@@ -103,13 +103,13 @@ disease_burden:
 number_of_deaths:
 - 445000
 - 627000
-ICD-9-CM:
+ICD_9_CM:
 - 084
 - 084.6
 DiseasesDB: 7728
 OmegaWiki_Defined_Meaning: 2230
 U_S_National_Archives_Identifier: 10638168
-ICD-10-CM: B54
+ICD_10_CM: B54
 GitHub_topic: malaria
 Commons_category: Malaria
 subreddit: Malaria

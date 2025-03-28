@@ -180,7 +180,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Warhol%20A
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Warhol%27s%20grave.jpg"
 official_website: "http://www.warhol.org"
 NLC_authorities: 001125340
-Libris-URI: 53hkld2p0b9lqcv
+Libris_URI: 53hkld2p0b9lqcv
 Europeana_entity: agent/base/59837
 artist_files_at:
 - "[[_Standards/WikiData/WD~Frick Art Research Library,5503390]]"

@@ -240,7 +240,7 @@ life_expectancy: 69
 Democracy_Index: 1.77
 total_fertility_rate: 2.57
 lowest_point: "[[_Standards/WikiData/WD~Mekong River,41179]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.la,41926]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.la,41926]]'
 female_population: 3260000
 BTI_Status_Index:
 - 3.35
@@ -265,7 +265,7 @@ BTI_Governance_Index:
 Gini_coefficient: 38.8
 flag: "[[_Standards/WikiData/WD~flag of Laos,46008]]"
 Happy_Planet_Index_score: 42.8
-Inequality-adjusted_Human_Development_Index: 0.459
+Inequality_adjusted_Human_Development_Index: 0.459
 trunk_prefix: 0
 Human_Development_Index: 0.607
 head_of_state: "[[_Standards/WikiData/WD~Thongloun Sisoulith,58323]]"
@@ -288,7 +288,7 @@ U_S_National_Archives_Identifier: 10035723
 IAB_code: 1441
 Dewey_Decimal_Classification: 2--594
 WOEID: 23424872
-ISO_3166-1_numeric_code: 418
+ISO_3166_1_numeric_code: 418
 M49_code: 418
 maritime_identification_digits: 531
 native_label: "ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ"
@@ -301,7 +301,7 @@ urban_population:
 - 2830480
 - 2570736
 - 2742742
-number_of_out-of-school_children: 382255
+number_of_out_of_school_children: 382255
 population: 6858160
 rural_population:
 - 4641317
@@ -317,13 +317,13 @@ coordinates_of_easternmost_point: "Point(107.63506 15.31914)"
 OmegaWiki_Defined_Meaning: 7992
 INSEE_countries_and_foreign_territories_code: 99241
 WIPO_ST_3: LA
-FIPS_10-4_countries_and_regions_: LA
-ISO_3166-1_alpha-2_code: LA
+FIPS_10_4_countries_and_regions_: LA
+ISO_3166_1_alpha_2_code: LA
 Unicode_character: "\U0001F1F1\U0001F1E6"
 ITU_letter_code: LAO
 IOC_country_code: LAO
 licence_plate_code: LAO
-ISO_3166-1_alpha-3_code: LAO
+ISO_3166_1_alpha_3_code: LAO
 CIVICUS_Monitor_country_entry: laos
 subreddit: laos
 GitHub_topic: laos

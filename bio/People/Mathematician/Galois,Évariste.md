@@ -3,7 +3,7 @@ aliases:
 - "Évariste Galois"
 has_id_wikidata: Q7091
 Krugosvet_article: nauka_i_tehnika/matematika/GALUA_EVARIST.html
-Libris-URI: rp3570b9208j5w3
+Libris_URI: rp3570b9208j5w3
 Regensburg_Classification: "SF 3100"
 employer: "[[_Standards/WikiData/WD~École Normale Supérieure,83259]]"
 educated_at:

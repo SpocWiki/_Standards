@@ -12,8 +12,8 @@ Linguasphere_code: 51-AAA-a
 OmegaWiki_Defined_Meaning: 6064
 Universal_Decimal_Classification: 811.134.3
 Krugosvet_article: gumanitarnye_nauki/lingvistika/PORTUGALSKI_YAZIK.html
-ISO_639-3_code: por
-ISO_639-2_code: por
+ISO_639_3_code: por
+ISO_639_2_code: por
 Ethnologue_com_language_code: por
 WALS_lect_code: por
 Glottolog_code: port1283
@@ -114,7 +114,7 @@ Dewey_Decimal_Classification:
 - 469
 Wikimedia_language_code: pt
 IETF_language_tag: pt
-ISO_639-1_code: pt
+ISO_639_1_code: pt
 POSIX_locale_identifier: pt
 IAB_code: 1161
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Castelo%20de%20Guimar%C3%A3es%20%28Homenagem%20placa%29%20%28cropped%29.JPG"

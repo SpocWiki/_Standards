@@ -466,7 +466,7 @@ motto_text:
 - "Paix – Travail – Patrie"
 coordinates_of_southernmost_point: "Point(16.05582 1.65588)"
 coordinates_of_northernmost_point: "Point(14.08 13.08)"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.cm,40698]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cm,40698]]'
 Democracy_Index: 2.77
 BTI_Governance_Index:
 - 3.24
@@ -476,7 +476,7 @@ BTI_Governance_Index:
 - 3.46
 - 3.63
 - 3.95
-Inequality-adjusted_Human_Development_Index: 0.393
+Inequality_adjusted_Human_Development_Index: 0.393
 Happy_Planet_Index_score: 39.9
 Gini_coefficient: 46.6
 Human_Development_Index: 0.576
@@ -489,7 +489,7 @@ death_rate:
 total_fertility_rate: 4.704
 mobile_country_code: 624
 M49_code: 120
-ISO_3166-1_numeric_code: 120
+ISO_3166_1_numeric_code: 120
 maritime_identification_digits: 613
 OmegaWiki_Defined_Meaning: 7993
 birth_rate:
@@ -500,7 +500,7 @@ birth_rate:
 IAB_code: 1268
 life_expectancy: 58.073
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cameroon.svg"
-ISO_3166-1_alpha-3_code: CMR
+ISO_3166_1_alpha_3_code: CMR
 IOC_country_code: CMR
 licence_plate_code: CAM
 WIPO_ST_3: CM
@@ -518,8 +518,8 @@ official_name:
 - Cameroun
 native_label: "République du Cameroun"
 short_name: "\U0001F1E8\U0001F1F2"
-ISO_3166-1_alpha-2_code: CM
-FIPS_10-4_countries_and_regions_: CM
+ISO_3166_1_alpha_2_code: CM
+FIPS_10_4_countries_and_regions_: CM
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Cameroon%20banner%20Kribi%20beach%20with%20boats.jpg"
 area: 475442
 INSEE_countries_and_foreign_territories_code: 99322
@@ -538,7 +538,7 @@ urban_population:
 - 14687684
 - 15815458
 - 16395044
-number_of_out-of-school_children: 1773968
+number_of_out_of_school_children: 1773968
 nominal_GDP:
 - 44341646509
 - 45338285386

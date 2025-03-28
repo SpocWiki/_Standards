@@ -24,7 +24,7 @@ Unicode_character: "\U0001FA88"
 used_by: '[[_Standards/WikiData/WD~flautist,12902372]]'
 instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
 earliest_date: "-35000-01-01T00:00:00Z"
-Hornbostel-Sachs_classification: 421
+Hornbostel_Sachs_classification: 421
 Nomenclature_for_Museum_Cataloging: 7358
 Iconclass_notation: 48C7351
 OmegaWiki_Defined_Meaning: 344824

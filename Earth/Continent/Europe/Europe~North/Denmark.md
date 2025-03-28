@@ -318,7 +318,7 @@ birth_rate:
 - 10.5
 - 10.8
 total_fertility_rate: 1.67
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.dk,39509]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.dk,39509]]'
 Gini_coefficient: 27.7
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
 Happy_Planet_Index_score: 45.3
@@ -349,13 +349,13 @@ maritime_identification_digits:
 - 220
 - 219
 IAB_code: 1282
-ISO_3166-1_numeric_code: 208
+ISO_3166_1_numeric_code: 208
 M49_code: 208
 UIC_numerical_country_code: 86
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg"
-number_of_out-of-school_children: 36238
+number_of_out_of_school_children: 36238
 water_area: 43094
-FIPS_10-4_countries_and_regions_: DA
+FIPS_10_4_countries_and_regions_: DA
 urban_population:
 - 5138400
 - 5116342
@@ -456,7 +456,7 @@ nominal_GDP:
 - 395403906582
 coordinate_location: "Point(10.0 56.0)"
 Gregorian_calendar_start_date: "1700-03-01T00:00:00Z"
-ISO_3166-1_alpha-2_code: DK
+ISO_3166_1_alpha_2_code: DK
 WIPO_ST_3: DK
 UIC_alphabetical_country_code: DK
 short_name:
@@ -484,7 +484,7 @@ female_population:
 - 2931257
 - 2943337
 - 2966194
-ISO_3166-1_alpha-3_code: DNK
+ISO_3166_1_alpha_3_code: DNK
 ITU_letter_code: DNK
 area: 42925.46
 population: 5827463

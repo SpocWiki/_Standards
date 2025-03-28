@@ -234,12 +234,12 @@ death_rate:
 - 15.5
 - 17.5
 total_fertility_rate: 1.41
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ro,42677]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ro,42677]]'
 Gini_coefficient: 34.8
 Happy_Planet_Index_score: 46.2
 trunk_prefix: 0
 basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
-Inequality-adjusted_Human_Development_Index: 0.733
+Inequality_adjusted_Human_Development_Index: 0.733
 Human_Development_Index: 0.821
 maritime_identification_digits: 264
 UIC_numerical_country_code: 53
@@ -321,17 +321,17 @@ nominal_GDP:
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 GS1_country_code: 594
 IAB_code: 1386
-FIPS_10-4_countries_and_regions_: RO
+FIPS_10_4_countries_and_regions_: RO
 NUTS_code: RO
 licence_plate_code: RO
-ISO_3166-1_alpha-2_code: RO
+ISO_3166_1_alpha_2_code: RO
 WIPO_ST_3: RO
 UIC_alphabetical_country_code: RO
 M49_code: 642
-ISO_3166-1_numeric_code: 642
+ISO_3166_1_numeric_code: 642
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg"
 area: 238397
-number_of_out-of-school_children: 332312
+number_of_out_of_school_children: 332312
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20of%20Romania.png"
 INSEE_countries_and_foreign_territories_code: 99114
 rural_population:
@@ -352,7 +352,7 @@ urban_population:
 PM20_geo_code: A47
 OmegaWiki_Defined_Meaning: 154307
 IOC_country_code: ROU
-ISO_3166-1_alpha-3_code: ROU
+ISO_3166_1_alpha_3_code: ROU
 ITU_letter_code: ROU
 hashtag: Romania
 Commons_category: Romania
@@ -385,7 +385,7 @@ Dewey_Decimal_Classification: 2--498
 BHCL_UUID:
 - 33ba3794-f6b6-42cf-a09b-e3c552f49d2c
 - c42e62f5-e5fb-4fc2-ae20-2f5df5ce7aca
-Libris-URI: ljx0z0441nfsv5d
+Libris_URI: ljx0z0441nfsv5d
 Unicode_character: "\U0001F1F7\U0001F1F4"
 Commons_gallery: România
 IPA_transcription:

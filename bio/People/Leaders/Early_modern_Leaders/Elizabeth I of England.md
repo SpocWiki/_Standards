@@ -70,7 +70,7 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 father: "[[_Standards/WikiData/WD~Henry VIII of England,38370]]"
 place_of_detention: "[[_Standards/WikiData/WD~Tower of London,62378]]"
 BHCL_UUID: b49dc647-009b-4838-87b0-e63c25accff3
-Libris-URI: dbqssqqx3d0qkl9
+Libris_URI: dbqssqqx3d0qkl9
 Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"ElizabethIAccedes1558\"]"
 Krugosvet_article: istoriya/ELIZAVETA_I.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/61360

@@ -108,7 +108,7 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Belarus,1460577
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Europe_Minsk,16886728]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.бел,18109066]]'
 - '[[_Standards/WikiData/WD~.by,39870]]'
 described_by_source:
@@ -290,12 +290,12 @@ BTI_Status_Index:
 - 4.72
 - 4.89
 Happy_Planet_Index_score: 42.9
-ISO_3166-1_numeric_code: 112
+ISO_3166_1_numeric_code: 112
 M49_code: 112
 maritime_identification_digits: 206
 trunk_prefix: 8
 basic_form_of_government: "[[_Standards/WikiData/WD~presidential system,49892]]"
-Inequality-adjusted_Human_Development_Index: 0.765
+Inequality_adjusted_Human_Development_Index: 0.765
 Human_Development_Index: 0.808
 IAB_code: 1248
 foreign_direct_investment_net_outflow:
@@ -318,10 +318,10 @@ foreign_direct_investment_net_inflow:
 - 17988200000
 - 18649900000
 - 19821800000
-number_of_out-of-school_children: 18425
+number_of_out_of_school_children: 18425
 GS1_country_code: 481
 OmegaWiki_Defined_Meaning: 7845
-FIPS_10-4_countries_and_regions_: BO
+FIPS_10_4_countries_and_regions_: BO
 different_from: "[[_Standards/WikiData/WD~White movement,104309]]"
 flag: "[[_Standards/WikiData/WD~flag of Belarus,132633]]"
 anthem: "[[_Standards/WikiData/WD~My Belarusy,166350]]"
@@ -356,14 +356,14 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20o
 official_website: "https://www.belarus.by/"
 U_S_National_Archives_Identifier: 10045271
 Dewey_Decimal_Classification: 2--478
-Libris-URI: 20dggxjl156qg5x
+Libris_URI: 20dggxjl156qg5x
 INSEE_countries_and_foreign_territories_code: 99148
 area: 207595
 licence_plate_code: BLR
-ISO_3166-1_alpha-3_code: BLR
+ISO_3166_1_alpha_3_code: BLR
 IOC_country_code: BLR
 ITU_letter_code: BLR
-ISO_3166-1_alpha-2_code: BY
+ISO_3166_1_alpha_2_code: BY
 WIPO_ST_3: BY
 UIC_alphabetical_country_code: BY
 male_population:

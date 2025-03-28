@@ -138,7 +138,7 @@ date_of_death: "1954-11-28T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%201943-49.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%20signature.svg"
 NLC_authorities: 043499918
-Libris-URI: 53hkkl6p2gp5kvk
+Libris_URI: 53hkkl6p2gp5kvk
 Commons_gallery: "Enrico Fermi"
 Commons_category: "Enrico Fermi"
 Krugosvet_article: nauka_i_tehnika/fizika/FERMI_ENRIKO.html

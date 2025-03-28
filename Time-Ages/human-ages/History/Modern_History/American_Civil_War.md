@@ -44,7 +44,7 @@ followed_by: "[[_Standards/WikiData/WD~Second American Civil War,17130955]]"
 BHCL_UUID: 457c1207-823b-45ef-a524-ce7e602b32bd
 UMLS_CUI: C1449762
 Baidu_Tieba_name: 南北战争
-Libris-URI: b8nqplcv0p6qlts
+Libris_URI: b8nqplcv0p6qlts
 end_time: "1865-04-09T00:00:00Z"
 start_time: "1861-04-12T00:00:00Z"
 instance_of: "[[_Standards/WikiData/WD~civil war,8465]]"

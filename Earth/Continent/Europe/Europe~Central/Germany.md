@@ -10,7 +10,7 @@ SpocWebEntityId: 26878
 WOEID: 23424829
 mobile_country_code: 262
 M49_code: 276
-ISO_3166-1_numeric_code: 276
+ISO_3166_1_numeric_code: 276
 GS1_country_code: 400-440
 license: "CC BY-SA 4.0"
 source: "https://datahub.io/core/country-codes"
@@ -405,10 +405,10 @@ subreddit:
 - deutschland
 - germany
 NUTS_code: DE
-ISO_3166-1_alpha-2_code: DE
+ISO_3166_1_alpha_2_code: DE
 WIPO_ST_3: DE
 Unicode_character: "\U0001F1E9\U0001F1EA"
-ISO_3166-1_alpha-3_code: DEU
+ISO_3166_1_alpha_3_code: DEU
 GitHub_topic: deutschland
 Commons_gallery: Deutschland
 hashtag:
@@ -418,7 +418,7 @@ Wolfram_Language_entity_code: "Entity[\"Country\", \"Germany\"]"
 IOC_country_code: GER
 CIVICUS_Monitor_country_entry: germany
 Commons_category: Germany
-FIPS_10-4_countries_and_regions_: GM
+FIPS_10_4_countries_and_regions_: GM
 Image_Archive_Herder_Institute: Q183
 Colon_Classification: SG--55
 Krugosvet_article: strany_mira/GERMANIYA.html
@@ -571,7 +571,7 @@ ISNI: 0000000122854945
 compulsory_education_maximum_age_: "http://www.wikidata.org/.well-known/genid/74ea97b1ddfcd696f574cf6ab5e78e91"
 coordinates_of_westernmost_point: "Point(5.86636662 51.05110016)"
 Democracy_Index: 8.67
-Inequality-adjusted_Human_Development_Index: 0.883
+Inequality_adjusted_Human_Development_Index: 0.883
 head_of_government: "[[../../../../WikiData/WD~Olaf Scholz]]"
 minimum_wage:
 - 9.19
@@ -614,7 +614,7 @@ water_as_percent_of_area: 2.3
 suicide_rate: 8.3
 literacy_rate: 99
 total_fertility_rate: 1.39
-top-level_Internet_domain: '[[../../../../WikiData/WD~.de]]'
+top_level_Internet_domain: '[[../../../../WikiData/WD~.de]]'
 Gini_coefficient: 31.7
 maximum_temperature_record: 41.2
 patron_saint: '[[../../../../WikiData/WD~Michael]]'

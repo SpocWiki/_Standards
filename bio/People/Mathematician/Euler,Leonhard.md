@@ -136,7 +136,7 @@ Commons_Creator_page: "Leonhard Euler"
 Google_Doodle: leonhard-eulers-306th-birthday
 Krugosvet_article: nauka_i_tehnika/matematika/ELER_LEONARD.html
 Regensburg_Classification: "SF 2620"
-Libris-URI: vs6888qd42r4qlr
+Libris_URI: vs6888qd42r4qlr
 name_in_native_language: "Leonhard Euler"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler.jpg"
 date_of_death: "1783-09-18T00:00:00Z"

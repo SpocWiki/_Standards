@@ -14,7 +14,7 @@ oxidation_state:
 ionic_radius:
 - 0.4
 - 0.26
-time-weighted_average_exposure_limit:
+time_weighted_average_exposure_limit:
 - 5
 - 15
 - 10

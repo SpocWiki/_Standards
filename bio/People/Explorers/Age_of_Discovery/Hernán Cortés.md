@@ -52,7 +52,7 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%2
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Hernan%20Cortes%20Signature.svg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Fernando%20Cortes%20%28intro%29.ogg"
 BHCL_UUID: 345bac6c-c028-4d4f-9ddc-e8f2616e631f
-Libris-URI: 64jllhxq1ft877c
+Libris_URI: 64jllhxq1ft877c
 Royal_Academy_new_identifier: hernan-cortez
 Krugosvet_article: istoriya/kortes-ernan
 ISNI: 0000000121318008

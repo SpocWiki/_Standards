@@ -89,7 +89,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by
 spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro%20%281%29.ogg"
-Libris-URI: 42gjkdnn1bsxn0c
+Libris_URI: 42gjkdnn1bsxn0c
 BHCL_UUID: ad3563dd-20a6-4f6a-9eef-bef48446a5cc
 Europeana_entity: agent/base/61402
 Commons_gallery: "Frida Kahlo"

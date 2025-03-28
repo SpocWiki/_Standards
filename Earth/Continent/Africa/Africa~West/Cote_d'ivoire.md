@@ -287,7 +287,7 @@ BTI_Governance_Index:
 - 5.54
 Human_Development_Index: 0.55
 suicide_rate: 14.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ci,40333]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ci,40333]]'
 lowest_point: "[[_Standards/WikiData/WD~Gulf of Guinea,41430]]"
 BTI_Status_Index:
 - 3.14
@@ -299,17 +299,17 @@ BTI_Status_Index:
 - 5.09
 - 5.38
 - 5.49
-Inequality-adjusted_Human_Development_Index: 0.358
+Inequality_adjusted_Human_Development_Index: 0.358
 Gini_coefficient: 37.2
 Happy_Planet_Index_score: 39.6
 Democracy_Index: 4.11
 maritime_identification_digits: 619
 head_of_state: "[[_Standards/WikiData/WD~Alassane Ouattara,57413]]"
-ISO_3166-1_numeric_code: 384
+ISO_3166_1_numeric_code: 384
 M49_code: 384
 mobile_country_code: 612
 licence_plate_code: CI
-ISO_3166-1_alpha-2_code: CI
+ISO_3166_1_alpha_2_code: CI
 WIPO_ST_3: CI
 total_fertility_rate: 5.001
 death_rate:
@@ -317,7 +317,7 @@ death_rate:
 - 8.817
 - 8.843
 - 9.001
-FIPS_10-4_countries_and_regions_: IV
+FIPS_10_4_countries_and_regions_: IV
 GS1_country_code: 618
 birth_rate:
 - 33.492
@@ -336,7 +336,7 @@ PM20_geo_code:
 - C37
 - C33
 area: 322463
-ISO_3166-1_alpha-3_code: CIV
+ISO_3166_1_alpha_3_code: CIV
 IOC_country_code: CIV
 male_population:
 - 14215570
@@ -386,7 +386,7 @@ pronunciation_audio:
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/San%20P%C3%A9dro%20banner%20Beach.jpg"
 IPA_transcription: "'ɛlfənbeːnsçʏstn̩"
 country_calling_code: +225
-Libris-URI: 53hkj1tp10n5rtj
+Libris_URI: 53hkj1tp10n5rtj
 Commons_gallery: "Côte d'Ivoire"
 CIVICUS_Monitor_country_entry: cote-divoire
 subreddit:

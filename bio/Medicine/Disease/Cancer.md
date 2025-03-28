@@ -1,7 +1,7 @@
 ﻿---
 has_id_wikidata: Q12078
 UMLS_CUI: C0006826
-ICD-10-CM:
+ICD_10_CM:
 - C80.1
 - C80
 Commons_gallery: "Cancer (illness)"
@@ -50,7 +50,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AC%B0%E0%AD%8D%E0%AC%95%E0%AC%9F%20%E0%AC%B0%E0%AD%8B%E0%AC%97.wav"
 different_from: '[[_Standards/WikiData/WD~carcinoma,33525]]'
-ICD-9-CM: 199
+ICD_9_CM: 199
 IAB_code: 314
 OmegaWiki_Defined_Meaning: 479
 DiseasesDB: 28843
@@ -66,7 +66,7 @@ Dewey_Decimal_Classification:
 - 616.994
 - 618.92994
 - 636.0896994
-ICD-O: 8000/3
+ICD_O: 8000/3
 ---
 
 ## #has_/text_of_/abstract 

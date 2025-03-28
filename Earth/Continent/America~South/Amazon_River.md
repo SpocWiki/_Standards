@@ -83,7 +83,7 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20CIAT%20%282%29.jpg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20River%20banner.jpg"
 Wolfram_Language_entity_code: "Entity[\"River\", \"Amazon::n9532\"]"
-Libris-URI: wt798k5f3x77lf3
+Libris_URI: wt798k5f3x77lf3
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Amazonas.ogg"
 ---
 

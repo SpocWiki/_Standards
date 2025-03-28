@@ -199,8 +199,8 @@ BTI_Governance_Index:
 - 5.86
 - 5.99
 VAT_rate: 16.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mw,43073]]'
-Inequality-adjusted_Human_Development_Index: 0.377
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mw,43073]]'
+Inequality_adjusted_Human_Development_Index: 0.377
 Gini_coefficient: 38.5
 Happy_Planet_Index_score: 38.7
 BTI_Status_Index:
@@ -223,14 +223,14 @@ death_rate:
 - 6.983
 maritime_identification_digits: 655
 mobile_country_code: 650
-FIPS_10-4_countries_and_regions_: MI
+FIPS_10_4_countries_and_regions_: MI
 birth_rate:
 - 32.611
 - 32.859
 - 33.233
 - 33.598
 life_expectancy: 63.223
-ISO_3166-1_numeric_code: 454
+ISO_3166_1_numeric_code: 454
 M49_code: 454
 OmegaWiki_Defined_Meaning: 8354
 male_population:
@@ -249,9 +249,9 @@ urban_population:
 - 3519490
 - 3240276
 - 3668876
-number_of_out-of-school_children: 764717
+number_of_out_of_school_children: 764717
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Zomba%20Plateau%20banner.jpg"
-ISO_3166-1_alpha-3_code: MWI
+ISO_3166_1_alpha_3_code: MWI
 ITU_letter_code: MWI
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malawi.svg"
 inception: "1964-07-06T00:00:00Z"
@@ -271,7 +271,7 @@ rural_population:
 population: 18622104
 IOC_country_code: MAW
 licence_plate_code: MW
-ISO_3166-1_alpha-2_code: MW
+ISO_3166_1_alpha_2_code: MW
 WIPO_ST_3: MW
 U_S_National_Archives_Identifier: 10044541
 coordinates_of_southernmost_point: "Point(35.0973 -17.1295)"

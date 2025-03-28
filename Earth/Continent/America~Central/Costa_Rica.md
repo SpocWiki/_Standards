@@ -193,10 +193,10 @@ BTI_Status_Index:
 - 8.74
 - 8.84
 - 8.86
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.cr,40973]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cr,40973]]'
 Gini_coefficient: 49.3
 Happy_Planet_Index_score: 62.1
-Inequality-adjusted_Human_Development_Index: 0.664
+Inequality_adjusted_Human_Development_Index: 0.664
 BTI_Governance_Index:
 - 6.66
 - 6.73
@@ -208,7 +208,7 @@ BTI_Governance_Index:
 - 7.13
 Human_Development_Index: 0.809
 Democracy_Index: 8.16
-ISO_3166-1_numeric_code: 188
+ISO_3166_1_numeric_code: 188
 M49_code: 188
 total_fertility_rate: 1.819
 mobile_country_code: 712
@@ -225,13 +225,13 @@ birth_rate:
 - 12.152
 - 12.847
 licence_plate_code: CR
-ISO_3166-1_alpha-2_code: CR
+ISO_3166_1_alpha_2_code: CR
 WIPO_ST_3: CR
 maritime_identification_digits: 321
 GS1_country_code: 744
-FIPS_10-4_countries_and_regions_: CS
+FIPS_10_4_countries_and_regions_: CS
 INSEE_countries_and_foreign_territories_code: 99406
-number_of_out-of-school_children: 53761
+number_of_out_of_school_children: 53761
 social_media_followers: 58337
 life_expectancy: 79.831
 ITU_letter_code: CTR
@@ -265,7 +265,7 @@ Commons_gallery: "Costa Rica"
 PM20_geo_code: E70
 inception: "1821-01-01T00:00:00Z"
 has_time_started: "1821-01-01T00:00:00Z"
-ISO_3166-1_alpha-3_code: CRI
+ISO_3166_1_alpha_3_code: CRI
 U_S_National_Archives_Identifier: 10044685
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Costa%20Rica.svg"
 coordinates_of_westernmost_point: "Point(-87.061111111 5.528055555)"

@@ -100,7 +100,7 @@ name: "Симона-Люси-Эрнестина-Мари Бертран де Б�
 date_of_death: "1986-04-14T00:00:00Z"
 date_of_birth: "1908-01-09T00:00:00Z"
 Europeana_entity: agent/base/145400
-Libris-URI: b8nqsxdv4sgf29h
+Libris_URI: b8nqsxdv4sgf29h
 Wolfram_Language_entity_code:
 - "Entity[\"Concept\", \"Beauvoir::g5dzb\"]"
 - "Entity[\"Person\", \"SimoneDeBeauvoir::p33hn\"]"

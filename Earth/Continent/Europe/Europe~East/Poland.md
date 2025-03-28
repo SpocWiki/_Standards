@@ -399,7 +399,7 @@ death_rate:
 - 12.6
 - 13.8
 total_fertility_rate: 1.29
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.pl,37907]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.pl,37907]]'
 Gini_coefficient: 30.2
 flag: "[[_Standards/WikiData/WD~flag of Poland,42436]]"
 total_expenditure: 4.12
@@ -421,7 +421,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Greater Poland Voivodeship,54187]]"
 - "[[_Standards/WikiData/WD~Warmian-Masurian Voivodeship,54184]]"
 - "[[_Standards/WikiData/WD~West Pomeranian Voivodeship,54188]]"
-Inequality-adjusted_Human_Development_Index: 0.816
+Inequality_adjusted_Human_Development_Index: 0.816
 Human_Development_Index: 0.876
 GS1_country_code: 590
 UIC_numerical_country_code: 51
@@ -430,27 +430,27 @@ mobile_country_code: 260
 aircraft_registration_prefix:
 - SP
 - SN
-ISO_3166-1_numeric_code: 616
+ISO_3166_1_numeric_code: 616
 M49_code: 616
 maritime_identification_digits: 261
 social_media_followers: 54836
 OmegaWiki_Defined_Meaning: 8084
 IOC_country_code: POL
 ITU_letter_code: POL
-ISO_3166-1_alpha-3_code: POL
+ISO_3166_1_alpha_3_code: POL
 short_name: Polska
 native_label:
 - Polska
 - "Rzeczpospolita Polska"
 official_name: "Rzeczpospolita Polska"
 PM20_geo_code: A12
-FIPS_10-4_countries_and_regions_: PL
+FIPS_10_4_countries_and_regions_: PL
 NUTS_code: PL
 WIPO_ST_3: PL
 licence_plate_code: PL
-ISO_3166-1_alpha-2_code: PL
+ISO_3166_1_alpha_2_code: PL
 UIC_alphabetical_country_code: PL
-number_of_out-of-school_children: 228797
+number_of_out_of_school_children: 228797
 area: 312683
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg"
 INSEE_countries_and_foreign_territories_code: 99122
@@ -516,7 +516,7 @@ Dewey_Decimal_Classification: 2--438
 Wolfram_Language_entity_code:
 - "Entity[\"Country\", \"Poland\"]"
 - "Entity[\"HistoricalCountry\", \"Poland\"]"
-Libris-URI: fcrtsr1z0mdxhjq
+Libris_URI: fcrtsr1z0mdxhjq
 Colon_Classification: SG--595
 Krugosvet_article: strany_mira/POLSHA.html
 ---

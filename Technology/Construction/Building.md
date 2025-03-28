@@ -88,7 +88,7 @@ CPV_Supplementary_code: IA36
 OpenStreetMap_tag_or_key:
 - "Key:building"
 - "Tag:building=yes"
-Libris-URI: nl021hv61spd5n2
+Libris_URI: nl021hv61spd5n2
 GeoNames_feature_code: S.BLDG
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lutheran%20Cathedral%20Helsinki.jpg"
 ---

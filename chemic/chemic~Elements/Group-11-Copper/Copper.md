@@ -70,7 +70,7 @@ time_of_discovery_or_invention: "-7000-01-01T00:00:00Z"
 vapor_pressure: 0
 compressive_modulus_of_elasticity: 100
 immediately_dangerous_to_life_or_health: 100
-time-weighted_average_exposure_limit: 1
+time_weighted_average_exposure_limit: 1
 oxidation_state:
 - 1
 - 2

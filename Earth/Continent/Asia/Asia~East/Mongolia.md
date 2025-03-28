@@ -114,7 +114,7 @@ open_data_portal: "[[_Standards/WikiData/WD~National Statistics Office of Mongol
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mongolia%20%28orthographic%20projection%29.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mongolian%20landscape%20banner.jpg"
 country_calling_code: +976
-Libris-URI: 20dgf94l53xh9bf
+Libris_URI: 20dgf94l53xh9bf
 ISBN_identifier_group:
 - 978-9919
 - 978-99929
@@ -201,12 +201,12 @@ mobile_country_code: 428
 maritime_identification_digits: 457
 elevation_above_sea_level: 1528
 IAB_code: 1357
-number_of_out-of-school_children: 53090
+number_of_out_of_school_children: 53090
 death_rate: 5.479
 GS1_country_code: 865
-ISO_3166-1_numeric_code: 496
+ISO_3166_1_numeric_code: 496
 M49_code: 496
-ISO_3166-1_alpha-2_code: MN
+ISO_3166_1_alpha_2_code: MN
 WIPO_ST_3: MN
 birth_rate: 20.447
 OmegaWiki_Defined_Meaning: 8332
@@ -217,8 +217,8 @@ rural_population:
 - 1016826
 - 1032543
 - 1055872
-FIPS_10-4_countries_and_regions_: MG
-ISO_3166-1_alpha-3_code: MNG
+FIPS_10_4_countries_and_regions_: MG
+ISO_3166_1_alpha_3_code: MNG
 ITU_letter_code: MNG
 INSEE_countries_and_foreign_territories_code: 99242
 PM20_geo_code: B99
@@ -312,10 +312,10 @@ life_expectancy: 73
 total_fertility_rate: 1.93
 Happy_Planet_Index_score: 24.5
 named_after: '[[_Standards/WikiData/WD~Mongols,41975]]'
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mn,42873]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mn,42873]]'
 Gini_coefficient: 32.7
 Democracy_Index: 6.42
-Inequality-adjusted_Human_Development_Index: 0.644
+Inequality_adjusted_Human_Development_Index: 0.644
 has_id_wikidata: Q711
 location:
 - 47.9167

@@ -7,7 +7,7 @@ death_rate:
 - 5.047
 - 5.117
 basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
-Inequality-adjusted_Human_Development_Index: 0.553
+Inequality_adjusted_Human_Development_Index: 0.553
 Human_Development_Index: 0.577
 language_used:
 - "[[_Standards/WikiData/WD~Mesopotamian Arabic,56232]]"
@@ -30,8 +30,8 @@ IAB_code: 1420
 GS1_country_code: 621
 OmegaWiki_Defined_Meaning: 8547
 mobile_country_code: 417
-FIPS_10-4_countries_and_regions_: SY
-ISO_3166-1_alpha-2_code: SY
+FIPS_10_4_countries_and_regions_: SY
+ISO_3166_1_alpha_2_code: SY
 WIPO_ST_3: SY
 demonym:
 - סורית
@@ -77,10 +77,10 @@ demonym:
 - сірыйцы
 - sûrî
 - Σῦρος
-ISO_3166-1_numeric_code: 760
+ISO_3166_1_numeric_code: 760
 M49_code: 760
 licence_plate_code: SYR
-ISO_3166-1_alpha-3_code: SYR
+ISO_3166_1_alpha_3_code: SYR
 ITU_letter_code: SYR
 UIC_alphabetical_country_code: SYR
 IOC_country_code: SYR
@@ -95,7 +95,7 @@ official_name:
 - سوريا
 - Syria
 - "Republik Arab Syria"
-number_of_out-of-school_children: 2416365
+number_of_out_of_school_children: 2416365
 native_label:
 - "الجمهورية العربية السورية"
 - سوريا
@@ -287,7 +287,7 @@ BTI_Governance_Index: 1.21
 Democracy_Index: 1.43
 BTI_Status_Index: 1.54
 total_fertility_rate: 2.95
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.sy,42778]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sy,42778]]'
 Gini_coefficient: 37.5
 flag: "[[_Standards/WikiData/WD~flag of Syria,45136]]"
 has_id_wikidata: Q858

@@ -54,7 +54,7 @@ Wolfram_Language_entity_code:
 - "Entity[\"Word\", \"anarchism\"]"
 Library_of_Congress_Classification: HX833
 Gujarati_Vishwakosh_entry: અરાજકતાવાદ
-Libris-URI: wt798k9f15wc7xn
+Libris_URI: wt798k9f15wc7xn
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre-Joseph Proudhon,5749]]"
 ---
 

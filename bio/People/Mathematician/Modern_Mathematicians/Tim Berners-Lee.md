@@ -119,7 +119,7 @@ audio_recording_of_the_subject_s_spoken_voice: "http://commons.wikimedia.org/wik
 described_at_URL: "http://www.bbc.co.uk/things/2166d5db-3cd1-4d8a-a066-bddb220ef216#id"
 official_website: "http://www.w3.org/People/Berners-Lee/"
 ORCID_iD: 0000-0003-1279-3709
-Libris-URI: dbqtznnx2d0rnc2
+Libris_URI: dbqtznnx2d0rnc2
 Wolfram_Language_entity_code: "Entity[\"Person\", \"TimBerners-Lee::958zk\"]"
 affiliation_string:
 - "MIT Computer Science and Artificial Intelligence Laboratory"

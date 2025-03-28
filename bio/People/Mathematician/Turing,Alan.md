@@ -89,7 +89,7 @@ Google_Doodle: alan-turings-100th-birthday
 BHCL_UUID: d9bb7adf-e873-4dfa-a5e7-fea3a6deb04b
 Krugosvet_article: gumanitarnye_nauki/lingvistika/TYURING_ALAN_MATISON.html
 Regensburg_Classification: "SF 8465"
-Libris-URI: vs68cswd1fdccq5
+Libris_URI: vs68cswd1fdccq5
 father: "[[_Standards/WikiData/WD~Julius Mathison Turing,20895930]]"
 mother: "[[_Standards/WikiData/WD~Ethel Sara Stoney,20895935]]"
 unmarried_partner: "[[_Standards/WikiData/WD~Christopher Morcom,21693479]]"

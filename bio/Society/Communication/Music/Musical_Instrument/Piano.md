@@ -22,7 +22,7 @@ Nomenclature_for_Museum_Cataloging: 10717
 OmegaWiki_Defined_Meaning: 344431
 Commons_gallery: Piano
 Iconclass_notation: 48C7333
-Hornbostel-Sachs_classification: 314.122-4-8
+Hornbostel_Sachs_classification: 314.122-4-8
 GitHub_topic: piano
 subreddit: piano
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Steinway%20%26%20Sons%20concert%20grand%20piano%2C%20model%20D-274%2C%20manufactured%20at%20Steinway%27s%20factory%20in%20Hamburg%2C%20Germany.png"

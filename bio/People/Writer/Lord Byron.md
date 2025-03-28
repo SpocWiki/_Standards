@@ -119,7 +119,7 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Byron%20
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6nigswinter%20Lord-Byron-Platz%20Gedenktafel.jpg"
 IPI_name_number: 00004725509
 NLC_authorities: 049927042
-Libris-URI: 31fhh4lm26d5g5m
+Libris_URI: 31fhh4lm26d5g5m
 BHCL_UUID: 4882fd5b-c49f-4600-b8eb-232953163ae1
 RIA_Novosti_reference: 918728426
 name_in_native_language: "George Gordon Byron"

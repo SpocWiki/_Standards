@@ -56,7 +56,7 @@ locator_map_image:
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tifariti%20%28Western%20Sahara%29%20banner%20Navarra%20hospital.jpg"
 U_S_National_Archives_Identifier: 10035840
 Krugosvet_article: Earth_sciences/geografiya/ZAPADNAYA_SAHARA.html
-Libris-URI: fcrtt0zz0tr5lv6
+Libris_URI: fcrtt0zz0tr5lv6
 GitHub_topic: western-sahara
 subreddit: WesternSahara
 Commons_gallery: "صحراء غربية - Sahara Occidental"
@@ -65,7 +65,7 @@ country:
 - "[[_Standards/WikiData/WD~Spanish Sahara,689837]]"
 - "[[_Standards/WikiData/WD~Spanish West Africa,1191986]]"
 - "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.eh,433562]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.eh,433562]]'
 different_from:
 - "[[_Standards/WikiData/WD~Río de Oro,929147]]"
 - "[[_Standards/WikiData/WD~Saharan Morocco,14207244]]"
@@ -111,19 +111,19 @@ located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97
 elevation_above_sea_level: 237
 area: 266000
 population: 612000
-FIPS_10-4_countries_and_regions_: WI
-ISO_3166-1_numeric_code: 732
+FIPS_10_4_countries_and_regions_: WI
+ISO_3166_1_numeric_code: 732
 M49_code: 732
 IAB_code: 1474
 INSEE_countries_and_foreign_territories_code: 99389
 Dewey_Decimal_Classification: 2--648
 Commons_category: "Western Sahara"
-ISO_3166-1_alpha-2_code: EH
+ISO_3166_1_alpha_2_code: EH
 HASC: EH
 WIPO_ST_3: EH
 PM20_geo_code: C50
 OmegaWiki_Defined_Meaning: 750643
-ISO_3166-1_alpha-3_code: ESH
+ISO_3166_1_alpha_3_code: ESH
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Sahrawi%20Arab%20Democratic%20Republic.svg"
 country_calling_code: +212
 ---

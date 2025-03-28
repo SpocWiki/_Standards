@@ -339,7 +339,7 @@ marriageable_age: 18
 mains_voltage: 220
 Gini_coefficient: 35
 suicide_rate: 7.2
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.et,40363]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.et,40363]]'
 BTI_Status_Index:
 - 3.33
 - 3.55
@@ -359,7 +359,7 @@ BTI_Governance_Index:
 - 4.21
 - 4.26
 - 4.96
-Inequality-adjusted_Human_Development_Index: 0.363
+Inequality_adjusted_Human_Development_Index: 0.363
 Happy_Planet_Index_score: 41.7
 trunk_prefix: 0
 Human_Development_Index: 0.498
@@ -380,18 +380,18 @@ mobile_country_code: 636
 area: 1104300
 IAB_code: 1291
 M49_code: 231
-ISO_3166-1_numeric_code: 231
+ISO_3166_1_numeric_code: 231
 life_expectancy: 65.475
 OmegaWiki_Defined_Meaning: 8356
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ethiopia.svg"
 Unicode_character: "\U0001F1EA\U0001F1F9"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Ethiopia.svg"
-FIPS_10-4_countries_and_regions_: ET
-ISO_3166-1_alpha-2_code: ET
+FIPS_10_4_countries_and_regions_: ET
+ISO_3166_1_alpha_2_code: ET
 WIPO_ST_3: ET
 IOC_country_code: ETH
 licence_plate_code: ETH
-ISO_3166-1_alpha-3_code: ETH
+ISO_3166_1_alpha_3_code: ETH
 ITU_letter_code: ETH
 INSEE_countries_and_foreign_territories_code: 99315
 hashtag: Ethiopia
@@ -405,7 +405,7 @@ male_population:
 nominal_GDP:
 - 111261882913
 - 126783472501
-number_of_out-of-school_children: 10092202
+number_of_out_of_school_children: 10092202
 coordinates_of_southernmost_point: "Point(39.55249786 3.40375788)"
 official_name: "la République démocratique fédérale d’Éthiopie"
 native_label:

@@ -97,7 +97,7 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"SigmundFreud::37qr9\"]"
 Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/FRED_ZIGMUND.html
 PhilPapers_topic: sigmund-freud
 Google_Doodle: sigmund-freuds-160th-birthday
-Libris-URI: zw9cfj8h0hs00zn
+Libris_URI: zw9cfj8h0hs00zn
 birth_name: "Sigismund Schlomo Freud"
 name_in_native_language: "Sigmund Freud"
 father: "[[_Standards/WikiData/WD~Jacob Freud,10304780]]"

@@ -5,7 +5,7 @@ has_id_wikidata: Q7311
 Europeana_entity: agent/base/146824
 BHCL_UUID: c2d1f6af-8394-4754-bbb3-b4897a6a96d9
 Krugosvet_article: kultura_i_obrazovanie/muzyka/PUCHCHINI_DZHAKOMO.html
-Libris-URI: vs689bvd428jxcv
+Libris_URI: vs689bvd428jxcv
 birth_name: "Giacomo Antonio Domenico Michele Secondo Maria Puccini"
 work_period_start_: "1876-01-01T00:00:00Z"
 ISNI: 0000000121031832

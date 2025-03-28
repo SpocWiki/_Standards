@@ -44,7 +44,7 @@ Commons_category: "Latin alphabet"
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20alphabet%20world%20distribution.svg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Latijnsalfabet.ogg"
 described_at_URL: "https://wikipesija.org/wiki/sitelen_Lasina"
-ISO_15924_alpha-4_code: Latn
+ISO_15924_alpha_4_code: Latn
 Commons_gallery: "Latin letters"
 ---
 

@@ -23,7 +23,7 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~translating activity,115160303
 Baidu_Tieba_name: 翻译
 MeSH_tree_code: L01.462.500.682.920
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%9Cbersetzung2.ogg"
-Libris-URI: gdsvtxz01ctbbm0
+Libris_URI: gdsvtxz01ctbbm0
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Icon%20Translate%20to%20Gujarati.png"
 Wikidata_property: translation
 OmegaWiki_Defined_Meaning: 7173

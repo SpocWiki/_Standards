@@ -83,7 +83,7 @@ Universal_Decimal_Classification:
 - 94(430).086
 population: 109518183
 country: "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
-located_in_the_present-day_administrative_territorial_entity:
+located_in_the_present_day_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Poland,36]]'
 - '[[_Standards/WikiData/WD~Austria,40]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'

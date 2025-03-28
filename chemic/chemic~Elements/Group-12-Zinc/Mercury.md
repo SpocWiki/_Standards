@@ -72,7 +72,7 @@ melting_point:
 named_after: '[[_Standards/WikiData/WD~Mercury,1150]]'
 subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
 immediately_dangerous_to_life_or_health: 10
-time-weighted_average_exposure_limit: 0.1
+time_weighted_average_exposure_limit: 0.1
 electronegativity: 2
 atomic_number: 80
 vapor_pressure: 0.0012

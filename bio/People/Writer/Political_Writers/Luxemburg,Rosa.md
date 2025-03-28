@@ -82,7 +82,7 @@ country_of_citizenship:
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - "[[_Standards/WikiData/WD~Russian Empire,34266]]"
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
-Libris-URI: 53hkfdpp1hw3zxq
+Libris_URI: 53hkfdpp1hw3zxq
 BHCL_UUID: a0ccdd13-bb67-42aa-9ed2-de5ba233dddc
 Wolfram_Language_entity_code: "Entity[\"Person\", \"RosaLuxemburg::zpmv7\"]"
 pseudonym: "R. Kruszynska"

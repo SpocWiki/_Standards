@@ -71,7 +71,7 @@ Europeana_entity: agent/base/145354
 BHCL_UUID: e664daac-2265-408b-a46e-5f7a7ef7b693
 Wolfram_Language_entity_code: "Entity[\"Person\", \"ReneDescartes::x2xj8\"]"
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/41922
-Libris-URI: nl02209622nvnn9
+Libris_URI: nl02209622nvnn9
 Royal_Academy_new_identifier: rene-descartes
 PhilPapers_topic: rene-descartes
 position_held: '[[_Standards/WikiData/WD~professor,121594]]'

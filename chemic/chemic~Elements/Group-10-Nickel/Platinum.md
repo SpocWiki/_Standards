@@ -33,7 +33,7 @@ UMLS_CUI:
 - C0699665
 - C0032207
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20crystal%20grown%20using%20CVD%20method.webm"
-Libris-URI: 0xbdcbjj24ffd70
+Libris_URI: 0xbdcbjj24ffd70
 named_after: '[[_Standards/WikiData/WD~silver,1090]]'
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 ionic_radius:

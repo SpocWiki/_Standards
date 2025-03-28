@@ -169,7 +169,7 @@ MeSH_tree_code:
 subclass_of: "[[_Standards/WikiData/WD~transition metal,19588]]"
 location_of_discovery: '[[_Standards/WikiData/WD~Finland,33]]'
 vapor_pressure: 0
-time-weighted_average_exposure_limit: 1
+time_weighted_average_exposure_limit: 1
 electronegativity: 1
 oxidation_state: 3
 immediately_dangerous_to_life_or_health: 500

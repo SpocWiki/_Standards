@@ -38,7 +38,7 @@ Dewey_Decimal_Classification:
 - 624
 - 690
 IAB_code: 121
-All-Science_Journal_Classification_Codes: 2215
+All_Science_Journal_Classification_Codes: 2215
 name:
 - Construction
 - construction

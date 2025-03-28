@@ -61,7 +61,7 @@ Dewey_Decimal_Classification:
 - 340
 - 348
 Colon_Classification: Z
-All-Science_Journal_Classification_Codes: 3308
+All_Science_Journal_Classification_Codes: 3308
 Commons_category: Law
 ---
 

@@ -85,7 +85,7 @@ Colon_Classification: B
 Basisklassifikation: 31
 Universal_Decimal_Classification: 51
 Dewey_Decimal_Classification: 510
-All-Science_Journal_Classification_Codes: 2601
+All_Science_Journal_Classification_Codes: 2601
 social_media_followers:
 - 100727
 - 2098483

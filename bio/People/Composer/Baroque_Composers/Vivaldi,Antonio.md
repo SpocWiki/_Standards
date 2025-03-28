@@ -72,7 +72,7 @@ Europeana_entity: agent/base/146757
 Google_Doodle: antonio-vivaldis-birthday
 BHCL_UUID:
 - b166fbce-43d2-4c62-b538-3d32f52d3cd8
-Libris-URI: dbqspm1x1wwr2pz
+Libris_URI: dbqspm1x1wwr2pz
 Krugosvet_article: kultura_i_obrazovanie/muzyka/VIVALDI_ANTONIO.html
 birth_name: "Antonio Lucio Vivaldi"
 nickname:

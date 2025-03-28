@@ -106,7 +106,7 @@ languages_spoken_written_or_signed:
 native_language: '[[_Standards/WikiData/WD~Persian,9168]]'
 place_of_death: '[[_Standards/WikiData/WD~Hamadan,28587]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-Libris-URI: 1zcf8x4k27cjsb2
+Libris_URI: 1zcf8x4k27cjsb2
 BHCL_UUID: 757f7e4c-30ef-495e-b7f7-88399ea89604
 PhilPapers_topic: avicenna
 Regensburg_Classification: "CE 2100"

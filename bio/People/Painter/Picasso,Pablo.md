@@ -248,7 +248,7 @@ occupation:
 archives_at: "[[_Standards/WikiData/WD~Musée Picasso,743206]]"
 handedness: '[[_Standards/WikiData/WD~left-handedness,789447]]'
 Google_Doodle: pablo-picassos-121st-birthday
-Libris-URI: wt79b7cf3r8x8lx
+Libris_URI: wt79b7cf3r8x8lx
 birth_name: "Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Ruiz y Picasso"
 relative:
 - "[[_Standards/WikiData/WD~Javier Vilató y Ruiz,11955331]]"

@@ -131,7 +131,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Galileo.arp.300pix.jp
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Galileo%20Galilei%20Signature%202.svg"
 NLC_authorities: 000276008
 BHCL_UUID: 8599137b-be6d-42d9-8450-604c95d298c9
-Libris-URI: zw9ccf7h4zlxqv4
+Libris_URI: zw9ccf7h4zlxqv4
 date_of_death: "1642-01-08T00:00:00Z"
 date_of_birth: "1564-02-25T00:00:00Z"
 field_of_work:

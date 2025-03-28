@@ -307,7 +307,7 @@ birth_rate:
 lowest_point: "[[_Standards/WikiData/WD~South China Sea,37660]]"
 total_fertility_rate: 2.06
 Democracy_Index: 2.94
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.vn,42683]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.vn,42683]]'
 Gini_coefficient: 35.7
 BTI_Status_Index:
 - 4.34
@@ -331,7 +331,7 @@ BTI_Governance_Index:
 - 5.33
 Happy_Planet_Index_score: 48.4
 trunk_prefix: 0
-Inequality-adjusted_Human_Development_Index: 0.602
+Inequality_adjusted_Human_Development_Index: 0.602
 Human_Development_Index: 0.703
 literacy_rate: 94.5
 UIC_numerical_country_code: 32
@@ -343,7 +343,7 @@ death_rate:
 mobile_country_code: 452
 maritime_identification_digits: 574
 M49_code: 704
-ISO_3166-1_numeric_code: 704
+ISO_3166_1_numeric_code: 704
 GS1_country_code: 893
 area: 331690
 IAB_code: 1472
@@ -421,14 +421,14 @@ WIPO_ST_3: VN
 aircraft_registration_prefix: VN
 UIC_alphabetical_country_code: VN
 licence_plate_code: VN
-ISO_3166-1_alpha-2_code: VN
+ISO_3166_1_alpha_2_code: VN
 short_name:
 - VN
 - "\U0001F1FB\U0001F1F3"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg"
-FIPS_10-4_countries_and_regions_: VM
+FIPS_10_4_countries_and_regions_: VM
 urban_population: 36564680
-number_of_out-of-school_children: 4069875
+number_of_out_of_school_children: 4069875
 male_population: 49097090
 female_population: 49409110
 rural_population: 61941570
@@ -447,7 +447,7 @@ hashtag:
 - Vietnam
 CIVICUS_Monitor_country_entry: vietnam
 GitHub_topic: vietnam
-ISO_3166-1_alpha-3_code: VNM
+ISO_3166_1_alpha_3_code: VNM
 geoshape: "http://commons.wikimedia.org/data/main/Data:Vietnam.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Vietnam.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Ha%20Long%20bay%20%28Vietnam%29%20banner%20Islands%20in%20the%20bay.png"
@@ -458,7 +458,7 @@ detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/VietnameseProvin
 country_calling_code: +84
 Dewey_Decimal_Classification: 2--597
 BHCL_UUID: 46e757c0-a7b7-44b0-8f11-2c265f94dff8
-Libris-URI: gdsvv0g01x6bwwh
+Libris_URI: gdsvv0g01x6bwwh
 Krugosvet_article: strany_mira/VETNAM.html
 Commons_gallery: "Việt Nam"
 Commons_category: Vietnam

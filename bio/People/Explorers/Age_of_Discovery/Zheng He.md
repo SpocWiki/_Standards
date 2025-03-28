@@ -27,7 +27,7 @@ described_by_source:
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 place_of_burial: "[[_Standards/WikiData/WD~Tomb of Zheng Da Chia,90146414]]"
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
-Y-DNA_Haplogroup: "[[_Standards/WikiData/WD~Haplogroup L-M27,99464044]]"
+Y_DNA_Haplogroup: "[[_Standards/WikiData/WD~Haplogroup L-M27,99464044]]"
 CYT_CCS: AC000523161
 ISNI:
 - 0000000116701918
@@ -58,7 +58,7 @@ work_period_start_: "1405-01-01T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/2016%20Malakka%2C%20Stadhuys%20%2809%29.jpg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Zheng%20He%27s%20tomb%2C%20Nanjing.jpg"
 BHCL_UUID: 13a89697-7302-4d23-87c5-f1781c849386
-Libris-URI: 42gkqrcn3bmhgn6
+Libris_URI: 42gkqrcn3bmhgn6
 ---
 
 ## #has_/text_of_/abstract 

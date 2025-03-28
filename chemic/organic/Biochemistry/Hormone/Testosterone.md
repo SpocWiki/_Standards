@@ -100,7 +100,7 @@ Gmelin_number: 538843
 ZVG_number: 492352
 UNII: 3XMK78S47O
 canonical_SMILES: CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C
-World_Health_Organisation_international_non-proprietary_name: testosterone
+World_Health_Organisation_international_non_proprietary_name: testosterone
 ATC_code: G03BA03
 ---
 

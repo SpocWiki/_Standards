@@ -6,7 +6,7 @@ aliases:
 has_id_wikidata: Q8958
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg.jpg"
 BHCL_UUID: 46bc5a78-af56-48d3-8da1-ebdfd79594c1
-Libris-URI: 86lnnrrs2d6rpnz
+Libris_URI: 86lnnrrs2d6rpnz
 Google_Doodle: celebrating-johannes-gutenberg
 Commons_gallery: "Johannes Gensfleisch zur Laden zum Gutenberg"
 Commons_category: "Johannes Gutenberg"

@@ -149,7 +149,7 @@ work_period_end_: "1976-01-01T00:00:00Z"
 short_name: "Charlie Chaplin"
 name_in_native_language: "Charles Chaplin"
 date_of_death: "1977-12-25T00:00:00Z"
-ex-libris: "http://commons.wikimedia.org/wiki/Special:FilePath/%28Bookplate%20of%20Charles%20Chaplin%29%20%28LOC%29%20%2815606497101%29.jpg"
+ex_libris: "http://commons.wikimedia.org/wiki/Special:FilePath/%28Bookplate%20of%20Charles%20Chaplin%29%20%28LOC%29%20%2815606497101%29.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Chaplin%20portrait.jpg"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Chaplin%20walk%20of%20fame.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Charles%20Chaplin.svg"
@@ -162,7 +162,7 @@ Google_Doodle: 122nd-birthday-of-charlie-chaplin
 BHCL_UUID: 5c5bdccf-525a-46d6-a784-61f6cbbbe5f2
 Facebook_username: CharlieChaplinOfficial
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/CHAPLIN_CHARLZ_SPENSER.html
-Libris-URI: xv8b541g55nb3w2
+Libris_URI: xv8b541g55nb3w2
 birth_name: "Charles Spencer Chaplin"
 ---
 

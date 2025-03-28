@@ -36,7 +36,7 @@ properties_for_this_type:
 - "medical condition treated"
 Wikidata_property: "drug or therapy used for treatment"
 IAB_code: 320
-All-Science_Journal_Classification_Codes: 2709
+All_Science_Journal_Classification_Codes: 2709
 Colon_Classification: F56
 Commons_category: "Pharmaceutical drugs"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/VariousPills.jpg"

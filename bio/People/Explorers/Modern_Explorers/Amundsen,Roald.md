@@ -92,7 +92,7 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Norway,20]]'
 place_of_burial: "[[_Standards/WikiData/WD~Barents Sea,45823]]"
 Krugosvet_article: Earth_sciences/geografiya/AMUNDSEN_RUAL.html
-Libris-URI: fcrtxzkz08swbdk
+Libris_URI: fcrtxzkz08swbdk
 birth_name: "Roald Engelbregt Gravning Amundsen"
 name_in_native_language: "Roald Amundsen"
 ---

@@ -176,7 +176,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hilbert.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%A1%20%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%9F.wav"
 BHCL_UUID: b973bac2-3359-4d96-be71-e2a504d94322
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"DavidHilbert::j6254\"]"
-Libris-URI: ljx02wz42b9965k
+Libris_URI: ljx02wz42b9965k
 Krugosvet_article: nauka_i_tehnika/matematika/GILBERT_DAVID.html
 Regensburg_Classification: "SF 3940"
 name_in_native_language: "David Hilbert"

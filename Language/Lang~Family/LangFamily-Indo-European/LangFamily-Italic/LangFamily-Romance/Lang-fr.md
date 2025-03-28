@@ -188,7 +188,7 @@ ABS_ASCL_2011_code:
 - 21
 Wikimedia_language_code: fr
 IETF_language_tag: fr
-ISO_639-1_code: fr
+ISO_639_1_code: fr
 POSIX_locale_identifier: fr
 number_of_speakers_writers_or_signers:
 - 77200000
@@ -202,12 +202,12 @@ OmegaWiki_Defined_Meaning: 5687
 social_media_followers: 186974
 GitHub_topic: french
 ISBN_identifier_group: 978-2
-ISO_639-2_code:
+ISO_639_2_code:
 - fre
 - fra
 WALS_lect_code: fre
 native_label: français
-ISO_639-3_code: fra
+ISO_639_3_code: fra
 Ethnologue_com_language_code: fra
 Linguasphere_code: 51-AAA-i
 Commons_category: "French language"

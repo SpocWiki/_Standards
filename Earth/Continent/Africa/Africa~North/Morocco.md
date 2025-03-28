@@ -212,7 +212,7 @@ official_website:
 - "https://www.maroc.ma/fr"
 Dewey_Decimal_Classification: 2--64
 Provenio_UUID: b34b5d6c-651c-47da-a724-9419045a3990
-Libris-URI: khwzxrn30k0tv0g
+Libris_URI: khwzxrn30k0tv0g
 Unicode_character: "\U0001F1F2\U0001F1E6"
 Krugosvet_article: strany_mira/MAROKKO.html
 diplomatic_relation:
@@ -285,14 +285,14 @@ BTI_Status_Index:
 - 4.65
 - 4.77
 retirement_age: 65
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ma,41439]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ma,41439]]'
 social_media_followers: 28200
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
 Gini_coefficient: 39.5
 trunk_prefix: 0
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 Democracy_Index: 5.04
-Inequality-adjusted_Human_Development_Index: 0.504
+Inequality_adjusted_Human_Development_Index: 0.504
 Happy_Planet_Index_score: 50.9
 aircraft_registration_prefix: CN
 death_rate:
@@ -307,14 +307,14 @@ UIC_numerical_country_code: 93
 WIPO_ST_3: MA
 UIC_alphabetical_country_code: MA
 licence_plate_code: MA
-ISO_3166-1_alpha-2_code: MA
+ISO_3166_1_alpha_2_code: MA
 birth_rate:
 - 17.161
 - 17.545
 - 17.889
 - 18.337
 maritime_identification_digits: 242
-ISO_3166-1_numeric_code: 504
+ISO_3166_1_numeric_code: 504
 M49_code: 504
 GS1_country_code: 611
 mobile_country_code: 604
@@ -351,15 +351,15 @@ coordinates_of_southernmost_point: "Point(-13.000833 21.334026)"
 Commons_gallery: "المغرب / ⵍⵎⵖⵔⵉⴱ / Maroc"
 OmegaWiki_Defined_Meaning: 8352
 area: 446550
-FIPS_10-4_countries_and_regions_: MO
+FIPS_10_4_countries_and_regions_: MO
 life_expectancy: 75.821
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg"
 INSEE_countries_and_foreign_territories_code: 99350
 IAB_code: 1360
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Morocco.svg"
-ISO_3166-1_alpha-3_code: MAR
+ISO_3166_1_alpha_3_code: MAR
 IOC_country_code: MAR
-number_of_out-of-school_children: 1137547
+number_of_out_of_school_children: 1137547
 rural_population:
 - 13261620
 - 13323470

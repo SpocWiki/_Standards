@@ -385,7 +385,7 @@ BTI_Governance_Index:
 - 2.99
 - 3.12
 - 3.36
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.cd,40673]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cd,40673]]'
 BTI_Status_Index:
 - 2.62
 - 2.95
@@ -433,7 +433,7 @@ demonym:
 ISNI: 0000000122899107
 population: 105789731
 coordinates_of_easternmost_point: "Point(31.313 2.127)"
-Inequality-adjusted_Human_Development_Index: 0.341
+Inequality_adjusted_Human_Development_Index: 0.341
 Happy_Planet_Index_score: 40.5
 Gini_coefficient: 42.1
 Human_Development_Index: 0.479
@@ -442,7 +442,7 @@ IAB_code:
 - 1433
 mobile_country_code: 630
 M49_code: 180
-ISO_3166-1_numeric_code: 180
+ISO_3166_1_numeric_code: 180
 subreddit:
 - Congo
 total_fertility_rate: 6.006
@@ -461,7 +461,7 @@ annual_number_of_weddings:
 - 35107
 - 38127
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg"
-ISO_3166-1_alpha-3_code: COD
+ISO_3166_1_alpha_3_code: COD
 IOC_country_code: COD
 birth_rate:
 - 41.737
@@ -471,9 +471,9 @@ birth_rate:
 life_expectancy: 59.621
 maritime_identification_digits: 676
 WIPO_ST_3: CD
-ISO_3166-1_alpha-2_code: CD
+ISO_3166_1_alpha_2_code: CD
 licence_plate_code: CGO
-FIPS_10-4_countries_and_regions_: CG
+FIPS_10_4_countries_and_regions_: CG
 INSEE_countries_and_foreign_territories_code: 99312
 area: 2344858
 OmegaWiki_Defined_Meaning: 918629
@@ -552,7 +552,7 @@ country_calling_code: +243
 CIVICUS_Monitor_country_entry: democratic-republic-congo
 hashtag: DemocraticRepublicoftheCongo
 IPA_transcription: "dən dɛmu'kɾɑːtɪskə rɛpʉ'blɪkən 'kɔŋgu"
-Libris-URI: jgvxw1623z0vp37
+Libris_URI: jgvxw1623z0vp37
 ---
 
 # [[Congo~Kinshasa]] 

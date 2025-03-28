@@ -117,7 +117,7 @@ CYT_CCS: AC000110028
 Europeana_entity: agent/base/145333
 Regensburg_Classification: "BF 6870"
 Wolfram_Language_entity_code: "Entity[\"Person\", \"Jean-PaulSartre::2n797\"]"
-Libris-URI: fcrtvnwz11lv92q
+Libris_URI: fcrtvnwz11lv92q
 pseudonym: "Jacques Guillemin"
 Google_Doodle: jean-paul-sartres-105th-birthday
 Krugosvet_article: kultura_i_obrazovanie/literatura/SARTR_ZHAN_POL.html

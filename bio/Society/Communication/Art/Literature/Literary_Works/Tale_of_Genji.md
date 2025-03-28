@@ -128,7 +128,7 @@ genre: "[[_Standards/WikiData/WD~tsukuri monogatari,11385322]]"
 list_of_episodes:
 - '[[_Standards/WikiData/WD~Q11564162,11564162]]'
 - "[[_Standards/WikiData/WD~plot of The Tale of Genji,11564167]]"
-has_spin-off: "[[_Standards/WikiData/WD~provenance of the Tale of Genji and related works,11564161]]"
+has_spin_off: "[[_Standards/WikiData/WD~provenance of the Tale of Genji and related works,11564161]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_The Tale of Genji,14636263]]"
 Stack_Exchange_tag: "https://literature.stackexchange.com/tags/the-tale-of-genji"
 Baidu_Tieba_name: 源氏物语

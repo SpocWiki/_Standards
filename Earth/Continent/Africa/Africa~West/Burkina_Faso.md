@@ -198,7 +198,7 @@ CIVICUS_Monitor_country_entry: burkina-faso
 GitHub_topic: burkina-faso
 hashtag: BurkinaFaso
 subreddit: BurkinaFaso
-Libris-URI: sq465kxb2sk6b2n
+Libris_URI: sq465kxb2sk6b2n
 Krugosvet_article: strany_mira/BURKINA-FASO.html
 motto_text:
 - "Единство - прогрес - справедливост"
@@ -237,8 +237,8 @@ BTI_Governance_Index:
 - 5.24
 suicide_rate: 7.7
 geography_of_topic: "[[_Standards/WikiData/WD~geography of Burkina Faso,39313]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bf,41195]]'
-Inequality-adjusted_Human_Development_Index: 0.315
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bf,41195]]'
+Inequality_adjusted_Human_Development_Index: 0.315
 Democracy_Index: 3.73
 literacy_rate: 41.2
 Happy_Planet_Index_score: 41.5
@@ -259,7 +259,7 @@ birth_rate:
 - 36.689
 IAB_code: 1264
 maritime_identification_digits: 633
-ISO_3166-1_numeric_code: 854
+ISO_3166_1_numeric_code: 854
 M49_code: 854
 life_expectancy: 60.361
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Burkina%20Faso.svg"
@@ -311,7 +311,7 @@ urban_population:
 U_S_National_Archives_Identifier: 10035682
 native_label: "Burkina Faso"
 licence_plate_code: BF
-ISO_3166-1_alpha-2_code: BF
+ISO_3166_1_alpha_2_code: BF
 WIPO_ST_3: BF
 Commons_category: "Burkina Faso"
 Commons_gallery: "Burkina Faso"
@@ -322,8 +322,8 @@ rural_population:
 - 15446047
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Burkina%20Faso%20Wikivoyage%20banner.jpg"
 OmegaWiki_Defined_Meaning: 154116
-number_of_out-of-school_children: 2493607
-ISO_3166-1_alpha-3_code: BFA
+number_of_out_of_school_children: 2493607
+ISO_3166_1_alpha_3_code: BFA
 ITU_letter_code: BFA
 IOC_country_code: BUR
 inception: "1960-01-01T00:00:00Z"
@@ -338,7 +338,7 @@ female_population:
 - 10804024
 - 11089986
 - 11374607
-FIPS_10-4_countries_and_regions_: UV
+FIPS_10_4_countries_and_regions_: UV
 coordinates_of_southernmost_point: "Point(-2.76758 9.41073)"
 population: 23025776
 coordinates_of_easternmost_point: "Point(2.40408 11.9003)"

@@ -281,7 +281,7 @@ different_from:
 - '[[_Standards/WikiData/WD~Nga,10798581]]'
 - '[[_Standards/WikiData/WD~Rusia,87212467]]'
 - '[[_Standards/WikiData/WD~Russland,87212465]]'
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.рф,200439]]'
 - '[[_Standards/WikiData/WD~.ru,36541]]'
 - '[[_Standards/WikiData/WD~.su,48369]]'
@@ -648,12 +648,12 @@ total_exports:
 - 281900000000
 - 337800000000
 - 497800000000
-number_of_out-of-school_children: 368000
+number_of_out_of_school_children: 368000
 maximum_temperature_record: 45.4
 trunk_prefix: 8
-Inequality-adjusted_Human_Development_Index: 0.751
+Inequality_adjusted_Human_Development_Index: 0.751
 Human_Development_Index: 0.822
-ISO_3166-1_numeric_code: 643
+ISO_3166_1_numeric_code: 643
 M49_code: 643
 UIC_numerical_country_code: 20
 unemployment_rate:
@@ -664,7 +664,7 @@ unemployment_rate:
 mobile_country_code: 250
 maritime_identification_digits: 273
 WIPO_ST_3: RU
-ISO_3166-1_alpha-2_code: RU
+ISO_3166_1_alpha_2_code: RU
 IAB_code: 1449
 OmegaWiki_Defined_Meaning: 8444
 aircraft_registration_prefix:
@@ -672,7 +672,7 @@ aircraft_registration_prefix:
 - RF
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20the%20Russian%20Federation.svg"
 area: 17075400
-FIPS_10-4_countries_and_regions_: RS
+FIPS_10_4_countries_and_regions_: RS
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Russia topics,11032328]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
@@ -842,7 +842,7 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russ
 ITU_letter_code: RUS
 UIC_alphabetical_country_code: RUS
 licence_plate_code: RUS
-ISO_3166-1_alpha-3_code: RUS
+ISO_3166_1_alpha_3_code: RUS
 IOC_country_code: RUS
 INSEE_countries_and_foreign_territories_code: 99123
 official_name: "Российская Федерация"

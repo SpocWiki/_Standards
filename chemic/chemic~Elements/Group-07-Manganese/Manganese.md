@@ -60,9 +60,9 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20cross%20section
 different_from: '[[_Standards/WikiData/WD~magnesium,660]]'
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 vapor_pressure: 0
-time-weighted_average_exposure_limit: 1
+time_weighted_average_exposure_limit: 1
 oxidation_state: 2
-short-term_exposure_limit: 3
+short_term_exposure_limit: 3
 immediately_dangerous_to_life_or_health: 500
 ceiling_exposure_limit: 5
 atomic_number: 25

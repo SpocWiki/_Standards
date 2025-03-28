@@ -419,13 +419,13 @@ death_rate:
 - 14.5
 - 16.1
 total_fertility_rate: 1.35
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.hu,40622]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.hu,40622]]'
 anthem: '[[_Standards/WikiData/WD~Himnusz,45788]]'
 Happy_Planet_Index_score: 45.4
 mobile_country_code: 216
 UIC_numerical_country_code: 55
 retirement_age: 62.5
-Inequality-adjusted_Human_Development_Index: 0.792
+Inequality_adjusted_Human_Development_Index: 0.792
 head_of_government: "[[_Standards/WikiData/WD~Viktor Orbán,57641]]"
 Human_Development_Index: 0.846
 UIC_alphabetical_country_code: H
@@ -433,12 +433,12 @@ licence_plate_code: H
 GS1_country_code: 599
 NUTS_code: HU
 WIPO_ST_3: HU
-ISO_3166-1_alpha-2_code: HU
-FIPS_10-4_countries_and_regions_: HU
+ISO_3166_1_alpha_2_code: HU
+FIPS_10_4_countries_and_regions_: HU
 trunk_prefix: 06
 maritime_identification_digits: 243
 M49_code: 348
-ISO_3166-1_numeric_code: 348
+ISO_3166_1_numeric_code: 348
 OmegaWiki_Defined_Meaning: 5752
 motto_text:
 - "Think Hungary more than expected"
@@ -477,10 +477,10 @@ subreddit: hungary
 GitHub_topic: hungary
 Commons_gallery: Magyarország
 nominal_GDP_per_capita: 37128
-number_of_out-of-school_children: 62764
+number_of_out_of_school_children: 62764
 annual_number_of_weddings: 67301
 IAB_code: 1317
-ISO_3166-1_alpha-3_code: HUN
+ISO_3166_1_alpha_3_code: HUN
 IOC_country_code: HUN
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg"
 rural_population:

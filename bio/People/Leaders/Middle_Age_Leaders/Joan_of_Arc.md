@@ -9,7 +9,7 @@ coat_of_arms_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20Jeanne%20d%27Arc.svg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Jeanne%20d%27Arc%20signature%2016%20mars%201430.svg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Exilexi-Jeanne%20d%27Arc.wav"
-Libris-URI: 20dghnfl41b8dck
+Libris_URI: 20dghnfl41b8dck
 BHCL_UUID: 7ba4c1b2-c521-48fe-b224-a35bb5217362
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"JeanneDArc::98yg9\"]"
 allegiance: "[[_Standards/WikiData/WD~Kingdom of France,70972]]"

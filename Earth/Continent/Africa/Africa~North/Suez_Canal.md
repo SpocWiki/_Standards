@@ -48,7 +48,7 @@ U_S_National_Archives_Identifier:
 - 10641285
 Wolfram_Language_entity_code: "Entity[\"Canal\", \"SuezCanal::xsbd4\"]"
 Krugosvet_article: istoriya/SUETSKI_KANAL.html
-Libris-URI: nl0227m656nxmb4
+Libris_URI: nl0227m656nxmb4
 Commons_category: "Suez Canal"
 Commons_gallery: "Suez Canal"
 ---

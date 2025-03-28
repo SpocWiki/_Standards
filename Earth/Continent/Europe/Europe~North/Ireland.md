@@ -285,7 +285,7 @@ life_expectancy: 83
 suicide_rate: 8.9
 birth_rate: 11.2
 total_fertility_rate: 1.96
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ie,39382]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ie,39382]]'
 trunk_prefix: 0
 unemployment_rate:
 - 4.95
@@ -294,19 +294,19 @@ unemployment_rate:
 - 6.194
 OpenStreetMap_zoom_level: 6
 head_of_state: "[[_Standards/WikiData/WD~Michael D. Higgins,57276]]"
-Inequality-adjusted_Human_Development_Index: 0.886
+Inequality_adjusted_Human_Development_Index: 0.886
 Democracy_Index: 9.05
 Human_Development_Index: 0.945
 IAB_code: 1322
 UIC_numerical_country_code: 60
 maritime_identification_digits: 250
-number_of_out-of-school_children: 6033
-FIPS_10-4_countries_and_regions_: EI
+number_of_out_of_school_children: 6033
+FIPS_10_4_countries_and_regions_: EI
 median_income: 25969
 mobile_country_code: 272
 GS1_country_code: 539
 social_media_followers: 44987
-ISO_3166-1_numeric_code: 372
+ISO_3166_1_numeric_code: 372
 M49_code: 372
 area: 69797
 OmegaWiki_Defined_Meaning: 5744
@@ -330,7 +330,7 @@ native_label:
 - Éire
 INSEE_countries_and_foreign_territories_code: 99136
 licence_plate_code: IRL
-ISO_3166-1_alpha-3_code: IRL
+ISO_3166_1_alpha_3_code: IRL
 IOC_country_code: IRL
 UIC_alphabetical_country_code: IRL
 rural_population:
@@ -357,7 +357,7 @@ population: 5149139
 coordinates_of_southernmost_point: "Point(-9.514083333 51.419944444)"
 PM20_geo_code: A22b
 NUTS_code: IE
-ISO_3166-1_alpha-2_code: IE
+ISO_3166_1_alpha_2_code: IE
 WIPO_ST_3: IE
 Unicode_character: "\U0001F1EE\U0001F1EA"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ireland.svg"

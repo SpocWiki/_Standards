@@ -72,7 +72,7 @@ CYT_CCS: AC000211980
 Europeana_entity: agent/base/145401
 Krugosvet_article: filosofiya/lao-czy
 PhilPapers_topic: laozi
-Libris-URI: tr577r0c21jz6qp
+Libris_URI: tr577r0c21jz6qp
 ---
 
 ## #has_/text_of_/abstract 

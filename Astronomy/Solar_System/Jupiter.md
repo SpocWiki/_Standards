@@ -129,7 +129,7 @@ child_astronomical_body:
 - "[[_Standards/WikiData/WD~S_2017 J 6,55598492]]"
 - "[[_Standards/WikiData/WD~S_2017 J 7,55598496]]"
 studied_in: '[[_Standards/WikiData/WD~zenology,131581772]]'
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 778112020
 - 5.20336301
 Stack_Exchange_tag:

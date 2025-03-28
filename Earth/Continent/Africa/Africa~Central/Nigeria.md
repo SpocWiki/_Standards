@@ -782,9 +782,9 @@ BTI_Status_Index:
 - 5.67
 suicide_rate: 6.9
 VAT_rate: 7.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ng,43151]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ng,43151]]'
 Happy_Planet_Index_score: 34.1
-Inequality-adjusted_Human_Development_Index: 0.341
+Inequality_adjusted_Human_Development_Index: 0.341
 Gini_coefficient: 35.1
 trunk_prefix: 0
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
@@ -805,11 +805,11 @@ birth_rate:
 - 37.467
 - 37.849
 M49_code: 566
-ISO_3166-1_numeric_code: 566
+ISO_3166_1_numeric_code: 566
 OmegaWiki_Defined_Meaning: 8284
 life_expectancy: 53.428
 INSEE_countries_and_foreign_territories_code: 99338
-FIPS_10-4_countries_and_regions_: NI
+FIPS_10_4_countries_and_regions_: NI
 social_media_followers: 93449
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg"
 short_name:
@@ -818,7 +818,7 @@ short_name:
 - "\U0001F1F3\U0001F1EC"
 country_calling_code: +234
 WIPO_ST_3: NG
-ISO_3166-1_alpha-2_code: NG
+ISO_3166_1_alpha_2_code: NG
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationNigeria.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Nigeria%20%28orthographic%20projection%29.svg"
@@ -843,7 +843,7 @@ official_name:
 inception: "1963-10-01T00:00:00Z"
 has_time_started: "1963-10-01T00:00:00Z"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Nigeria.svg"
-ISO_3166-1_alpha-3_code: NGA
+ISO_3166_1_alpha_3_code: NGA
 geoshape: "http://commons.wikimedia.org/data/main/Data:Nigeria.map"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Nigeria.ogg"

@@ -133,7 +133,7 @@ Google_Doodle: fyodor-dostoevskys-190th-birthday
 Facebook_username: FyodorDostoevskyAuthor
 Krugosvet_article: kultura_i_obrazovanie/literatura/DOSTOEVSKI_FEDOR_MIHALOVICH.html
 Swedish_Royal_Theater_Archive: Person/485
-Libris-URI: wt7948lf1wwk8z0
+Libris_URI: wt7948lf1wwk8z0
 name_in_native_language: "Фёдор Михайлович Достоевский"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Perov%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20-%20Google%20Art%20Project.jpg"
 date_of_birth: "1821-11-11T00:00:00Z"

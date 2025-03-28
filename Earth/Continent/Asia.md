@@ -111,16 +111,16 @@ demonym:
 - آسيوي
 MeSH_tree_code: Z01.252
 Dewey_Decimal_Classification: 2--5
-Libris-URI: 42gjht4n0gm3kgk
+Libris_URI: 42gjht4n0gm3kgk
 Colon_Classification: SG--4
 coordinates_of_westernmost_point: "Point(25.665472222 40.125)"
 highest_point: "[[_Standards/WikiData/WD~Mount Everest,513]]"
 lowest_point: "[[_Standards/WikiData/WD~Dead Sea,23883]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.asia,31837]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.asia,31837]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Africa,15]]'
 - '[[_Standards/WikiData/WD~Europe,46]]'
-number_of_out-of-school_children: 143000000
+number_of_out_of_school_children: 143000000
 M49_code: 142
 OmegaWiki_Defined_Meaning: 265
 IAB_code: 1221

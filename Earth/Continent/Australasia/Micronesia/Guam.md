@@ -94,7 +94,7 @@ official_map_URL: "http://gis.guam.gov/gmap/index.html"
 official_website: "http://www.guam.gov/"
 country_calling_code: +1671
 GitHub_topic: guam
-ISO_3166-2_code: US-GU
+ISO_3166_2_code: US-GU
 MeSH_tree_code: Z01.639.760.680.435
 official_name:
 - Guåhån
@@ -116,7 +116,7 @@ demonym:
 - guamesas
 - guameses
 - Guamach
-FIPS_10-4_countries_and_regions_: GQ
+FIPS_10_4_countries_and_regions_: GQ
 OmegaWiki_Defined_Meaning: 628569
 INSEE_countries_and_foreign_territories_code: 99505
 PM20_geo_code: D6
@@ -177,25 +177,25 @@ mains_voltage: 110
 marriageable_age: 18
 minimum_temperature_record: 56
 maximum_temperature_record: 96
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gu,43141]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gu,43141]]'
 OpenStreetMap_zoom_level: 10
-FIPS_5-2_numeric_code_US_states_: 66
+FIPS_5_2_numeric_code_US_states_: 66
 area: 544
 total_fertility_rate: 2.386
 IAB_code: 1307
 nominal_GDP: 6123000000
 water_as_percent_of_area: 63.23
-ISO_3166-1_numeric_code: 316
+ISO_3166_1_numeric_code: 316
 M49_code: 316
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guam.svg"
-FIPS_6-4: 66010
+FIPS_6_4: 66010
 life_expectancy: 79.575
-ISO_3166-1_alpha-2_code: GU
-FIPS_5-2_alpha_code_US_states_: GU
+ISO_3166_1_alpha_2_code: GU
+FIPS_5_2_alpha_code_US_states_: GU
 Unicode_character: "\U0001F1EC\U0001F1FA"
 population: 153836
 IOC_country_code: GUM
-ISO_3166-1_alpha-3_code: GUM
+ISO_3166_1_alpha_3_code: GUM
 ---
 
 # [[Guam]] 

@@ -154,7 +154,7 @@ ArhivX_LOD: 22993
 Google_Doodle: celebrating-johann-sebastian-bach
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"JohannSebastianBach::239gh\"]"
 Royal_Academy_new_identifier: johann-sebastian-bach
-Libris-URI: ljx00n545p9mmng
+Libris_URI: ljx00n545p9mmng
 name_in_native_language: "Johann Sebastian Bach"
 date_of_baptism: "1685-04-02T00:00:00Z"
 date_of_birth: "1685-03-31T00:00:00Z"

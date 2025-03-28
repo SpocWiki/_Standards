@@ -10,7 +10,7 @@ Royal_Academy_new_identifier: james-cook
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Captainjamescookportrait.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Cook%20Signature.svg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-James%20Cook-article.ogg"
-Libris-URI: 0xbdd8xj2s1p259
+Libris_URI: 0xbdd8xj2s1p259
 BHCL_UUID: ff936950-b45c-4238-a2e7-ec435486fd5f
 Krugosvet_article: istoriya/KUK_DZHEMS.html
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2248651

@@ -29,7 +29,7 @@ Royal_Academy_new_identifier: michael-faraday
 name_in_native_language: "Michael Faraday"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/M%20Faraday%20Th%20Phillips%20oil%201842.jpg"
 U_S_National_Archives_Identifier: 10582376
-Libris-URI: 75kmmn4r42qsvtv
+Libris_URI: 75kmmn4r42qsvtv
 BHCL_UUID: ac93e3cb-7188-4f55-84df-1dac6ad3e4d3
 Commons_category: "Michael Faraday"
 Commons_Creator_page: "Michael Faraday"

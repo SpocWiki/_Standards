@@ -19,7 +19,7 @@ instance_of: "[[_Standards/WikiData/WD~weapon functional class,124078422]]"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/M2%20Browning%2C%20Mus%C3%A9e%20de%20l%27Arm%C3%A9e.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Mitrailleur%207.62mm%20MAG%20geplaatst%20op%20een%20grondaffuit%20%282009%20D050713-X1083%29.jpg"
-MIL-STD-2525_Symbol_Identification_Code: 10011500001102000000
+MIL_STD_2525_Symbol_Identification_Code: 10011500001102000000
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Maschinengewehr.ogg"
 OmegaWiki_Defined_Meaning: 349994
 Commons_category: "Machine guns"

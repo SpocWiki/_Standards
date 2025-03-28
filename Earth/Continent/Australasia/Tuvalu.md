@@ -112,16 +112,16 @@ rural_population:
 - 3945
 - 3983
 capital: '[[_Standards/WikiData/WD~Funafuti,34126]]'
-number_of_out-of-school_children: 510
+number_of_out_of_school_children: 510
 life_expectancy:
 - 64
 - 65
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Polynesia,35942]]'
 part_of: '[[_Standards/WikiData/WD~Polynesia,35942]]'
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tv,40373]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tv,40373]]'
 head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
 Gini_coefficient: 39.1
-Inequality-adjusted_Human_Development_Index: 0.541
+Inequality_adjusted_Human_Development_Index: 0.541
 Human_Development_Index: 0.641
 Krugosvet_article: strany_mira/TUVALU.html
 CIVICUS_Monitor_country_entry: tuvalu
@@ -144,7 +144,7 @@ total_fertility_rate:
 - 3.163
 - 3.188
 - 3.199
-ISO_3166-1_numeric_code: 798
+ISO_3166_1_numeric_code: 798
 M49_code: 798
 female_population:
 - 5301
@@ -174,15 +174,15 @@ birth_rate:
 - 23.619
 - 23.632
 maritime_identification_digits: 572
-FIPS_10-4_countries_and_regions_: TV
-ISO_3166-1_alpha-2_code: TV
+FIPS_10_4_countries_and_regions_: TV
+ISO_3166_1_alpha_2_code: TV
 WIPO_ST_3: TV
 mobile_country_code: 553
 OmegaWiki_Defined_Meaning: 8403
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Tuvalu.svg"
 INSEE_countries_and_foreign_territories_code: 99511
 IOC_country_code: TUV
-ISO_3166-1_alpha-3_code: TUV
+ISO_3166_1_alpha_3_code: TUV
 ITU_letter_code: TUV
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tuvalu.svg"
 U_S_National_Archives_Identifier: 10035728

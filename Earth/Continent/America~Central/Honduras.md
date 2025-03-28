@@ -223,7 +223,7 @@ mains_voltage: 110
 VAT_rate: 15
 marriageable_age: 18
 age_of_majority: 21
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.hn,41025]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.hn,41025]]'
 BTI_Status_Index:
 - 4.71
 - 4.94
@@ -234,7 +234,7 @@ BTI_Status_Index:
 - 5.97
 - 6.04
 - 6.09
-Inequality-adjusted_Human_Development_Index: 0.479
+Inequality_adjusted_Human_Development_Index: 0.479
 Gini_coefficient: 48.2
 Democracy_Index: 5.36
 Happy_Planet_Index_score: 57.7
@@ -252,25 +252,25 @@ death_rate:
 - 5.608
 maritime_identification_digits: 334
 OmegaWiki_Defined_Meaning: 5751
-ISO_3166-1_numeric_code: 340
+ISO_3166_1_numeric_code: 340
 M49_code: 340
 GS1_country_code: 742
-FIPS_10-4_countries_and_regions_: HO
+FIPS_10_4_countries_and_regions_: HO
 IAB_code: 1315
 life_expectancy: 73.575
 mobile_country_code: 708
 area: 112492
 country_calling_code: +504
-ISO_3166-1_alpha-2_code: HN
+ISO_3166_1_alpha_2_code: HN
 WIPO_ST_3: HN
-number_of_out-of-school_children: 369528
+number_of_out_of_school_children: 369528
 INSEE_countries_and_foreign_territories_code: 99411
 male_population:
 - 5112980
 - 5031794
 - 5190703
 - 5267354
-ISO_3166-1_alpha-3_code: HND
+ISO_3166_1_alpha_3_code: HND
 ITU_letter_code: HND
 urban_population:
 - 5906960

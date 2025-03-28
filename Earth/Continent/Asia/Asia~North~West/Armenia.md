@@ -137,7 +137,7 @@ birth_rate:
 - 12.049
 - 12.455
 - 12.892
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.am,37245]]'
 - '[[_Standards/WikiData/WD~.հայ,18578153]]'
 Gini_coefficient: 25.2
@@ -290,7 +290,7 @@ has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Noravank%20panorama.jpg"
 area: 29743.423459
 UMLS_CUI: C0003798
-Libris-URI: 1zcfdqzk3pmntnv
+Libris_URI: 1zcfdqzk3pmntnv
 BTI_Governance_Index:
 - 4.25
 - 4.31
@@ -315,26 +315,26 @@ BTI_Status_Index:
 - 6.41
 - 6.43
 - 6.69
-Inequality-adjusted_Human_Development_Index: 0.688
+Inequality_adjusted_Human_Development_Index: 0.688
 Human_Development_Index: 0.759
 total_fertility_rate: 1.531
-number_of_out-of-school_children: 37720
+number_of_out_of_school_children: 37720
 death_rate:
 - 9.662
 - 11.881
 - 12.792
 - 13.007
-ISO_3166-1_numeric_code: 051
+ISO_3166_1_numeric_code: 051
 M49_code: 051
 GS1_country_code: 485
 IAB_code: 1240
-ISO_3166-1_alpha-3_code: ARM
+ISO_3166_1_alpha_3_code: ARM
 IOC_country_code: ARM
 ITU_letter_code: ARM
 Dewey_Decimal_Classification: 2--4756
 life_expectancy: 74.618
-ISO_3166-1_alpha-2_code: AM
-FIPS_10-4_countries_and_regions_: AM
+ISO_3166_1_alpha_2_code: AM
+FIPS_10_4_countries_and_regions_: AM
 licence_plate_code: AM
 WIPO_ST_3: AM
 UIC_alphabetical_country_code: AM

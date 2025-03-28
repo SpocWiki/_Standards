@@ -158,7 +158,7 @@ IAB_code: 1422
 Dewey_Decimal_Classification: 2--586
 maritime_identification_digits: 472
 M49_code: 762
-ISO_3166-1_numeric_code: 762
+ISO_3166_1_numeric_code: 762
 OmegaWiki_Defined_Meaning: 8525
 INSEE_countries_and_foreign_territories_code: 99259
 Krugosvet_article: strany_mira/TADZHIKISTAN.html
@@ -168,12 +168,12 @@ subreddit: Tajikistan
 hashtag: Tajikistan
 Commons_category: Tajikistan
 IPA_transcription: tɑdˈʂɪkɪstɑːn
-FIPS_10-4_countries_and_regions_: TI
+FIPS_10_4_countries_and_regions_: TI
 WIPO_ST_3: TJ
 UIC_alphabetical_country_code: TJ
 HASC: TJ
 licence_plate_code: TJ
-ISO_3166-1_alpha-2_code: TJ
+ISO_3166_1_alpha_2_code: TJ
 Unicode_character: "\U0001F1F9\U0001F1EF"
 country: '[[_Standards/WikiData/WD~Tajikistan,863]]'
 official_language:
@@ -211,12 +211,12 @@ BTI_Status_Index:
 - 3.59
 Democracy_Index: 1.94
 highest_point: "[[_Standards/WikiData/WD~Ismoil Somoni Peak,41413]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tj,42033]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tj,42033]]'
 total_fertility_rate: 3.49
 UIC_numerical_country_code: 66
 Happy_Planet_Index_score: 55.2
 basic_form_of_government: "[[_Standards/WikiData/WD~presidential system,49892]]"
-Inequality-adjusted_Human_Development_Index: 0.599
+Inequality_adjusted_Human_Development_Index: 0.599
 Human_Development_Index: 0.685
 head_of_state: "[[_Standards/WikiData/WD~Emomali Rahmon,57366]]"
 area: 143100
@@ -228,10 +228,10 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Taji
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tajikistan%20%28orthographic%20projection%29.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tajikistan%20wikivoyage%20banner.jpg"
 country_calling_code: +992
-Libris-URI: 0xbdcv7j46j3xzq
+Libris_URI: 0xbdcv7j46j3xzq
 ITU_letter_code: TJK
 IOC_country_code: TJK
-ISO_3166-1_alpha-3_code: TJK
+ISO_3166_1_alpha_3_code: TJK
 Commons_gallery: Тоҷикистон
 official_name:
 - "República de Tayikistán"
@@ -259,7 +259,7 @@ death_rate:
 - 6.121
 population: 9504000
 life_expectancy: 71.051
-number_of_out-of-school_children: 198438
+number_of_out_of_school_children: 198438
 urban_population:
 - 2549842
 - 2624955

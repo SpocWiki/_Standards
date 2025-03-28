@@ -247,7 +247,7 @@ mains_voltage: 230
 retirement_age: 65
 suicide_rate: 10.3
 total_fertility_rate: 1.87
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.nz,42019]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.nz,42019]]'
 head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
 trunk_prefix: 0
 UIC_numerical_country_code: 64
@@ -257,7 +257,7 @@ death_rate:
 - 6.83
 - 6.87
 - 7.53
-Inequality-adjusted_Human_Development_Index: 0.865
+Inequality_adjusted_Human_Development_Index: 0.865
 Democracy_Index: 9.37
 Human_Development_Index: 0.937
 birth_rate:
@@ -267,13 +267,13 @@ birth_rate:
 - 11.96
 mobile_country_code: 530
 licence_plate_code: NZ
-ISO_3166-1_alpha-2_code: NZ
-FIPS_10-4_countries_and_regions_: NZ
+ISO_3166_1_alpha_2_code: NZ
+FIPS_10_4_countries_and_regions_: NZ
 WIPO_ST_3: NZ
 UIC_alphabetical_country_code: NZ
-ISO_3166-1_numeric_code: 554
+ISO_3166_1_numeric_code: 554
 M49_code: 554
-number_of_out-of-school_children: 11792
+number_of_out_of_school_children: 11792
 maritime_identification_digits: 512
 median_income: 35562
 population: 5118700
@@ -283,7 +283,7 @@ official_name:
 - "New Zealand"
 - Nouvelle-Zélande
 - Aotearoa
-ISO_3166-1_alpha-3_code: NZL
+ISO_3166_1_alpha_3_code: NZL
 IOC_country_code: NZL
 ITU_letter_code: NZL
 male_population:
@@ -328,7 +328,7 @@ official_website: "https://www.govt.nz/"
 country_calling_code: +64
 BHCL_UUID: 55d59c10-4620-4958-a631-756bf10f2ff8
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"NewZealand\"]"
-Libris-URI: mkz10wv559pm8sb
+Libris_URI: mkz10wv559pm8sb
 Commons_gallery: "New Zealand / Aotearoa"
 Danbooru_tag: new_zealand
 subreddit: newzealand

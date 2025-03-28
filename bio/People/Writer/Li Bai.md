@@ -61,7 +61,7 @@ Baidu_Tieba_name: 李白
 NLC_authorities: 000202087
 CYT_CCS: AC000214871
 Europeana_entity: agent/base/60135
-Libris-URI: b8nqlhxv1b7wbnz
+Libris_URI: b8nqlhxv1b7wbnz
 Krugosvet_article: kultura_i_obrazovanie/literatura/LI_BO_LI_TA-BO.html
 Google_Doodle: li-bais-birthday
 name_in_kana: "り はく"

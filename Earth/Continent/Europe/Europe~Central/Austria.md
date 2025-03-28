@@ -283,7 +283,7 @@ death_rate:
 - 10.3
 literacy_rate: 99
 total_fertility_rate: 1.48
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.at,37715]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.at,37715]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Carinthia,37985]]'
 - '[[_Standards/WikiData/WD~Vorarlberg,38981]]'
@@ -300,13 +300,13 @@ flag: "[[_Standards/WikiData/WD~flag of Austria,46835]]"
 Happy_Planet_Index_score: 46.8
 trunk_prefix: 0
 Democracy_Index: 8.16
-Inequality-adjusted_Human_Development_Index: 0.851
+Inequality_adjusted_Human_Development_Index: 0.851
 Human_Development_Index: 0.916
-ISO_3166-1_numeric_code: 040
+ISO_3166_1_numeric_code: 040
 M49_code: 040
 licence_plate_code: A
 UIC_alphabetical_country_code: A
-ISO_3166-1_alpha-2_code: AT
+ISO_3166_1_alpha_2_code: AT
 NUTS_code: AT
 WIPO_ST_3: AT
 UIC_numerical_country_code: 81
@@ -345,7 +345,7 @@ mobile_country_code: 232
 median_income: 34911
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Austria.svg"
-ISO_3166-1_alpha-3_code: AUT
+ISO_3166_1_alpha_3_code: AUT
 IOC_country_code: AUT
 ITU_letter_code: AUT
 UNDP_country_code: AUS
@@ -372,7 +372,7 @@ urban_population:
 - 5238479
 - 5283472
 - 5357839
-FIPS_10-4_countries_and_regions_: AU
+FIPS_10_4_countries_and_regions_: AU
 Commons_category: Austria
 hashtag:
 - Austria

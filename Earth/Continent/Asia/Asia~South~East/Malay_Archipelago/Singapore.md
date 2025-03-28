@@ -319,7 +319,7 @@ birth_rate:
 suicide_rate: 9.7
 total_fertility_rate: 1.25
 office_held_by_head_of_state: "[[/_Standards/WikiData/WD~President of Singapore,39021]]"
-top-level_Internet_domain: '[[/_Standards/WikiData/WD~.sg,41851]]'
+top_level_Internet_domain: '[[/_Standards/WikiData/WD~.sg,41851]]'
 Happy_Planet_Index_score: 45.5
 mobile_country_code: 525
 BTI_Governance_Index:
@@ -339,7 +339,7 @@ BTI_Status_Index:
 - 7.25
 - 7.28
 - 7.47
-Inequality-adjusted_Human_Development_Index: 0.817
+Inequality_adjusted_Human_Development_Index: 0.817
 Human_Development_Index: 0.939
 literacy_rate: 96.8
 water_as_percent_of_area: 1.444
@@ -352,18 +352,18 @@ maritime_identification_digits:
 - 566
 area: 719.1
 M49_code: 702
-ISO_3166-1_numeric_code: 702
+ISO_3166_1_numeric_code: 702
 HASC: SG
-ISO_3166-1_alpha-2_code: SG
+ISO_3166_1_alpha_2_code: SG
 WIPO_ST_3: SG
 INSEE_countries_and_foreign_territories_code: 99226
 IAB_code: 1403
 OmegaWiki_Defined_Meaning: 8539
-FIPS_10-4_countries_and_regions_: SN
+FIPS_10_4_countries_and_regions_: SN
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg"
 IOC_country_code: SGP
 licence_plate_code: SGP
-ISO_3166-1_alpha-3_code: SGP
+ISO_3166_1_alpha_3_code: SGP
 ITU_letter_code: SNG
 male_population: 1990212
 female_population: 2083027
@@ -405,7 +405,7 @@ country_calling_code: +65
 Dewey_Decimal_Classification: 2--5957
 BHCL_UUID: 476c746b-bfdd-4667-8665-8d08237f08c6
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Singapore\"]"
-Libris-URI: gdsvv3l03k6z32s
+Libris_URI: gdsvv3l03k6z32s
 ---
 
 # [[Singapore]] 

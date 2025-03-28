@@ -73,7 +73,7 @@ has_natural_reservoir:
 anatomical_location: "[[_Standards/WikiData/WD~respiratory system,7891]]"
 minimal_incubation_period_in_humans: 3
 maximal_incubation_period_in_humans: 72
-ICD-9-CM:
+ICD_9_CM:
 - 487
 - 487.8
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/H1N1%20Influenza%20Virus%20Particles%20%288411599236%29.jpg"
@@ -89,7 +89,7 @@ MeSH_tree_code:
 - C01.748.310
 - C01.925.782.620.365
 - C08.730.310
-ICD-10-CM: J11.1
+ICD_10_CM: J11.1
 Krugosvet_article: medicina/GRIPP.html
 ---
 

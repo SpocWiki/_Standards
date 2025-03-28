@@ -170,7 +170,7 @@ Colon_Classification: O111,2J64
 Swedish_Royal_Theater_Archive: Person/881
 subreddit: shakespeare
 Archive_of_Our_Own_tag: "SHAKESPEARE William - Works"
-Libris-URI: vs689q5d2cm6xlc
+Libris_URI: vs689q5d2cm6xlc
 Royal_Academy_new_identifier: william-shakespeare
 Gujarati_Vishwakosh_entry: શેક્સપિયર-વિલિયમ
 nickname: "The Bard of Avon"

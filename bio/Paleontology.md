@@ -26,7 +26,7 @@ named_by: "[[_Standards/WikiData/WD~Henri Marie Ducrotay de Blainville,44691]]"
 Dewey_Decimal_Classification: 560
 Universal_Decimal_Classification: 56
 OmegaWiki_Defined_Meaning: 2712
-All-Science_Journal_Classification_Codes: 1911
+All_Science_Journal_Classification_Codes: 1911
 subreddit: Paleontology
 Commons_category: Paleontology
 Colon_Classification: H6

@@ -103,7 +103,7 @@ demonym:
 - saotomensi
 - santomense
 ISNI: 0000000123430458
-Libris-URI: 53hkksqp1px6w8p
+Libris_URI: 53hkksqp1px6w8p
 coordinate_location: "Point(6.6 0.316667)"
 nominal_GDP:
 - 526653791
@@ -136,25 +136,25 @@ lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
 marriageable_age: 18
 mains_voltage: 220
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.st,43772]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.st,43772]]'
 Gini_coefficient: 40.7
-Inequality-adjusted_Human_Development_Index: 0.503
+Inequality_adjusted_Human_Development_Index: 0.503
 Human_Development_Index: 0.618
 area: 1001
 IAB_code: 1397
 maritime_identification_digits: 668
-number_of_out-of-school_children: 4104
+number_of_out_of_school_children: 4104
 total_fertility_rate: 4.576
 death_rate:
 - 5.838
 - 5.876
 - 6.294
 - 6.387
-ISO_3166-1_alpha-2_code: ST
+ISO_3166_1_alpha_2_code: ST
 WIPO_ST_3: ST
-ISO_3166-1_numeric_code: 678
+ISO_3166_1_numeric_code: 678
 M49_code: 678
-FIPS_10-4_countries_and_regions_: TP
+FIPS_10_4_countries_and_regions_: TP
 birth_rate:
 - 27.974
 - 28.263
@@ -190,7 +190,7 @@ inception: "1975-07-12T00:00:00Z"
 has_time_started: "1975-07-12T00:00:00Z"
 U_S_National_Archives_Identifier: 10035804
 IOC_country_code: STP
-ISO_3166-1_alpha-3_code: STP
+ISO_3166_1_alpha_3_code: STP
 ITU_letter_code: STP
 UNDP_country_code: STP
 Dewey_Decimal_Classification: 2--6715

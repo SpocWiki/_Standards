@@ -105,7 +105,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Bedawi Arabic,56714]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Jordan,7112315]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Jordan,7243300]]"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.الاردن,12950805]]'
 - '[[_Standards/WikiData/WD~.jo,42634]]'
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Jordan topics,14445146]]"
@@ -205,7 +205,7 @@ BTI_Status_Index:
 - 5.14
 - 5.15
 - 5.22
-Inequality-adjusted_Human_Development_Index: 0.617
+Inequality_adjusted_Human_Development_Index: 0.617
 head_of_state: '[[_Standards/WikiData/WD~Q57464,57464]]'
 death_rate:
 - 3.148
@@ -214,7 +214,7 @@ death_rate:
 - 3.957
 total_fertility_rate: 3.422
 mobile_country_code: 416
-ISO_3166-1_numeric_code: 400
+ISO_3166_1_numeric_code: 400
 M49_code: 400
 GS1_country_code: 625
 IAB_code: 1330
@@ -226,9 +226,9 @@ area: 89341
 hashtag: Jordan
 Commons_category: Jordan
 WIPO_ST_3: JO
-FIPS_10-4_countries_and_regions_: JO
-ISO_3166-1_alpha-2_code: JO
-number_of_out-of-school_children: 261842
+FIPS_10_4_countries_and_regions_: JO
+ISO_3166_1_alpha_2_code: JO
+number_of_out_of_school_children: 261842
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Jordan.svg"
 coordinates_of_northernmost_point: "Point(38.8 33.37)"
 INSEE_countries_and_foreign_territories_code: 99222
@@ -247,7 +247,7 @@ subreddit: jordan
 GitHub_topic: jordan
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jordan.svg"
 ITU_letter_code: JOR
-ISO_3166-1_alpha-3_code: JOR
+ISO_3166_1_alpha_3_code: JOR
 IOC_country_code: JOR
 female_population:
 - 5143079
@@ -273,7 +273,7 @@ detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Jordan%20sm01.jp
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Jordanien.ogg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Petra%20%28Jordan%29%20banner.jpg"
 country_calling_code: +962
-Libris-URI: 1zcfd3lk1493jr7
+Libris_URI: 1zcfd3lk1493jr7
 Dewey_Decimal_Classification: 2--5695
 RIA_Novosti_reference: 60548722
 Unicode_character: "\U0001F1EF\U0001F1F4"

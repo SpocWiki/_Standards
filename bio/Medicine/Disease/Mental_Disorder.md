@@ -1,6 +1,6 @@
 ﻿---
 has_id_wikidata: Q12135
-ICD-9-CM:
+ICD_9_CM:
 - V11.9
 - 290-299.99
 - 298.8
@@ -62,7 +62,7 @@ described_at_URL: "https://www.hilarispublisher.com/scholarly/mental-health-morb
 DiseasesDB: 28852
 Dewey_Decimal_Classification: 616.89
 MeSH_tree_code: F03
-ICD-10-CM:
+ICD_10_CM:
 - F99
 - F99-F99
 Commons_category: "Mental and behavioural diseases and disorders"

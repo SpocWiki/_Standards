@@ -15,8 +15,8 @@ short_name:
 - лотинӣ
 - латина
 Ethnologue_com_language_code: lat
-ISO_639-3_code: lat
-ISO_639-2_code: lat
+ISO_639_3_code: lat
+ISO_639_2_code: lat
 Basisklassifikation: 18.44
 Commons_gallery: "Latin language"
 Commons_category: "Latin language"
@@ -104,7 +104,7 @@ language_regulatory_body: "[[_Standards/WikiData/WD~Pontifical Academy for Latin
 Dewey_Decimal_Classification: 470
 Wikimedia_language_code: la
 IETF_language_tag: la
-ISO_639-1_code: la
+ISO_639_1_code: la
 POSIX_locale_identifier: la
 IAB_code: 1122
 ABS_ASCL_2011_code: 2902

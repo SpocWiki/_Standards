@@ -14,7 +14,7 @@ Basisklassifikation: 44
 Dewey_Decimal_Classification: 610
 Colon_Classification: L
 OmegaWiki_Defined_Meaning: 2305
-All-Science_Journal_Classification_Codes: 2701
+All_Science_Journal_Classification_Codes: 2701
 Commons_gallery: Medicine
 Commons_category: Medicine
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rod%20of%20Asclepius2.svg"

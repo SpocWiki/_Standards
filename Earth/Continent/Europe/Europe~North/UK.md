@@ -189,7 +189,7 @@ public_holiday:
 - "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
 central_bank: "[[_Standards/WikiData/WD~Bank of England,183231]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy of the United Kingdom,323138]]"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.gb,433862]]'
 - '[[_Standards/WikiData/WD~.uk,37913]]'
 language_used:
@@ -384,15 +384,15 @@ age_of_majority: 18
 mains_voltage: 230
 Happy_Planet_Index_score: 56
 suicide_rate: 6.9
-Inequality-adjusted_Human_Development_Index: 0.85
+Inequality_adjusted_Human_Development_Index: 0.85
 total_fertility_rate: 1.83
 anthem: "[[_Standards/WikiData/WD~God Save the King,40807]]"
 Krugosvet_article: Earth_sciences/geografiya/SOEDINENNOE_KOROLEVSTVO_VELIKOBRITANII_I_SEVERNO_IRLANDII.html
 Wolfram_Language_entity_code: "Entity[\"Country\", \"UnitedKingdom\"]"
 Wikitribune_category: europe/united-kingdom
 Unicode_character: "\U0001F1EC\U0001F1E7"
-ISO_3166-2_code: GB-UKM
-Libris-URI: jgvxx4n24nx12bv
+ISO_3166_2_code: GB-UKM
+Libris_URI: jgvxx4n24nx12bv
 GSS_code_2011_: K02000001
 Pinterest_username: number10gov
 CIVICUS_Monitor_country_entry: united-kingdom
@@ -477,22 +477,22 @@ IAB_code: 1453
 median_income: 31617
 OmegaWiki_Defined_Meaning: 8302
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%283-5%29.svg"
-number_of_out-of-school_children: 62799
+number_of_out_of_school_children: 62799
 Commons_category: "United Kingdom"
 Commons_gallery: "United Kingdom"
 INSEE_countries_and_foreign_territories_code: 99132
-ISO_3166-1_numeric_code: 826
+ISO_3166_1_numeric_code: 826
 M49_code: 826
 area: 242495
-ISO_3166-1_alpha-2_code: GB
+ISO_3166_1_alpha_2_code: GB
 WIPO_ST_3: GB
 UIC_alphabetical_country_code: GB
 licence_plate_code: UK
-FIPS_10-4_countries_and_regions_: UK
+FIPS_10_4_countries_and_regions_: UK
 NUTS_code: UK
 life_expectancy: 80.9561
 IOC_country_code: GBR
-ISO_3166-1_alpha-3_code: GBR
+ISO_3166_1_alpha_3_code: GBR
 PM20_geo_code: A22
 Danbooru_tag: united_kingdom
 GS1_country_code: 500-509

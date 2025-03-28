@@ -332,7 +332,7 @@ BTI_Governance_Index:
 - 5.28
 total_fertility_rate: 1.54
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.th,43133]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.th,43133]]'
 Environmental_Performance_Index: 38.1
 BTI_Status_Index:
 - 4.71
@@ -348,7 +348,7 @@ official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation
 trunk_prefix: 0
 Happy_Planet_Index_score: 52.9
 Democracy_Index: 6.04
-Inequality-adjusted_Human_Development_Index: 0.686
+Inequality_adjusted_Human_Development_Index: 0.686
 literacy_rate: 93.8
 geoshape: "http://commons.wikimedia.org/data/main/Data:Thailand.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Thailand.svg"
@@ -367,22 +367,22 @@ mobile_country_code: 520
 RIA_Novosti_reference: 54083009
 maritime_identification_digits: 567
 M49_code: 764
-ISO_3166-1_numeric_code: 764
+ISO_3166_1_numeric_code: 764
 OmegaWiki_Defined_Meaning: 8308
 GS1_country_code: 885
 INSEE_countries_and_foreign_territories_code: 99219
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Thailand\"]"
-Libris-URI: fcrtsttz36c6892
+Libris_URI: fcrtsttz36c6892
 Colon_Classification: SG--433
 Krugosvet_article: strany_mira/TAILAND.html
 licence_plate_code: T
 WIPO_ST_3: TH
-FIPS_10-4_countries_and_regions_: TH
-ISO_3166-1_alpha-2_code: TH
+FIPS_10_4_countries_and_regions_: TH
+ISO_3166_1_alpha_2_code: TH
 Unicode_character: "\U0001F1F9\U0001F1ED"
 ITU_letter_code: THA
 IOC_country_code: THA
-ISO_3166-1_alpha-3_code: THA
+ISO_3166_1_alpha_3_code: THA
 CIVICUS_Monitor_country_entry: thailand
 GitHub_topic: thailand
 subreddit: Thailand
@@ -405,7 +405,7 @@ native_label: ประเทศไทย
 death_rate: 7.487
 birth_rate: 8.806
 median_income: 328224
-number_of_out-of-school_children: 1025331
+number_of_out_of_school_children: 1025331
 female_population: 33819860
 rural_population:
 - 34251820

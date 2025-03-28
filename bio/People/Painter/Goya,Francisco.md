@@ -220,7 +220,7 @@ on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
 - "[[_Standards/WikiData/WD~WikiProject New York Public Library,121437821]]"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Francisco%20de%20Goya.svg"
-Libris-URI: 20dggk1l48cg55f
+Libris_URI: 20dggk1l48cg55f
 BHCL_UUID: 52eb73cc-762f-450f-8ca9-62bcadac0929
 Europeana_entity: agent/base/59979
 Royal_Academy_new_identifier: francisco-goya

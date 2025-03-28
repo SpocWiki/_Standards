@@ -89,7 +89,7 @@ motto_text:
 - "Une Afrique unie et forte"
 UMLS_CUI: C4042919
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20African%20Union%20with%20Suspended%20States.svg"
-Libris-URI: khw04hq30jrww20
+Libris_URI: khw04hq30jrww20
 ISNI:
 - 0000000121899463
 MeSH_tree_code:

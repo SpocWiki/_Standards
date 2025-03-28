@@ -45,7 +45,7 @@ union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Transport.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-X-Javier-transport.wav"
-All-Science_Journal_Classification_Codes: 3313
+All_Science_Journal_Classification_Codes: 3313
 OmegaWiki_Defined_Meaning: 3848
 Commons_gallery: Transport
 Commons_category: Transport

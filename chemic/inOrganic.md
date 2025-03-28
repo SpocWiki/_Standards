@@ -13,7 +13,7 @@ MeSH_tree_code: H01.181.370
 part_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 opposite_of: "[[_Standards/WikiData/WD~organic chemistry,11351]]"
-All-Science_Journal_Classification_Codes: 1604
+All_Science_Journal_Classification_Codes: 1604
 OmegaWiki_Defined_Meaning: 1953
 Regensburg_Classification: VH
 Universal_Decimal_Classification: 546

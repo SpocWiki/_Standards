@@ -29,7 +29,7 @@ U_S_National_Archives_Identifier: 10675596
 Unicode_character: "\U0001F686"
 small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20directions%20train%2048px.svg"
 equivalent_class: "http://dbpedia.org/ontology/Train"
-MIL-STD-2525_Symbol_Identification_Code: 10011500001500000000
+MIL_STD_2525_Symbol_Identification_Code: 10011500001500000000
 OpenStreetMap_tag_or_key: "Key:train"
 ---
 

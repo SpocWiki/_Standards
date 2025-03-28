@@ -213,7 +213,7 @@ ISNI:
 Provenio_UUID: da0174c3-2412-4455-b4e6-7cd379d7ba06
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/RAFAEL.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/26066
-Libris-URI: qn245kj849t8hwk
+Libris_URI: qn245kj849t8hwk
 Commons_Creator_page: "Raffaello Sanzio"
 Commons_gallery: "Raffaello Sanzio"
 Commons_category: "Raffaello Sanzio"

@@ -46,7 +46,7 @@ boiling_point: -307
 oxidation_state: -1
 location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
 vapor_pressure: 1
-time-weighted_average_exposure_limit: 0.2
+time_weighted_average_exposure_limit: 0.2
 ionic_radius:
 - 0.08
 - 1.33

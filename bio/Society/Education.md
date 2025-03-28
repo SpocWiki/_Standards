@@ -82,7 +82,7 @@ IAB_code:
 Colon_Classification: T
 Dewey_Decimal_Classification: 370
 OmegaWiki_Defined_Meaning: 1087
-All-Science_Journal_Classification_Codes: 3304
+All_Science_Journal_Classification_Codes: 3304
 Chinese_Library_Classification: G4
 Commons_category: Education
 Iconclass_notation: 49A

@@ -59,7 +59,7 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~carbon,623]]'
 - '[[_Standards/WikiData/WD~oxygen,629]]'
 vapor_pressure: 0
-time-weighted_average_exposure_limit:
+time_weighted_average_exposure_limit:
 - 10
 - 5
 - 15

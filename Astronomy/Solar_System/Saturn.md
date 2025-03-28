@@ -175,7 +175,7 @@ magnetic_moment: 4.6e+25
 apoapsis:
 - 10.11595804
 - 1503509229
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 1429394069
 - 9.53667594
 named_after:

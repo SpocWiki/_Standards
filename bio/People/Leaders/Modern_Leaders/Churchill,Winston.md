@@ -230,7 +230,7 @@ image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Churchill%27
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Winston%20Churchill.svg"
 audio_recording_of_the_subject_s_spoken_voice: "http://commons.wikimedia.org/wiki/Special:FilePath/Winston%20Churchill%20-%20Be%20Ye%20Men%20of%20Valour.ogg"
 NLC_authorities: 000230368
-Libris-URI: 53hkkdkp4cljjgm
+Libris_URI: 53hkkdkp4cljjgm
 ---
 
 ## #has_/text_of_/abstract 

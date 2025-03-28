@@ -20,7 +20,7 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Instruments%20de%20musiques%20traditionnelles%20en%20pays%20naouda.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Drum%20for%20cultural%20dance.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/DrumMozartRegiment.jpg"
-Hornbostel-Sachs_classification: 21
+Hornbostel_Sachs_classification: 21
 Nomenclature_for_Museum_Cataloging: 10740
 Commons_gallery: Drums
 Commons_category: Drums

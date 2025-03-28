@@ -231,8 +231,8 @@ BTI_Governance_Index:
 - 6.08
 - 6.42
 suicide_rate: 9.9
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bj,41100]]'
-Inequality-adjusted_Human_Development_Index: 0.334
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bj,41100]]'
+Inequality_adjusted_Human_Development_Index: 0.334
 Gini_coefficient: 37.8
 literacy_rate: 38.4
 Happy_Planet_Index_score: 41.4
@@ -250,12 +250,12 @@ BTI_Status_Index:
 - 6.43
 - 6.44
 maritime_identification_digits: 610
-FIPS_10-4_countries_and_regions_: BN
-ISO_3166-1_numeric_code: 204
+FIPS_10_4_countries_and_regions_: BN
+ISO_3166_1_numeric_code: 204
 M49_code: 204
 total_fertility_rate: 4.766
 Dewey_Decimal_Classification: 2--6683
-ISO_3166-1_alpha-2_code: BJ
+ISO_3166_1_alpha_2_code: BJ
 WIPO_ST_3: BJ
 death_rate:
 - 9.248
@@ -271,7 +271,7 @@ birth_rate:
 - 37.114
 - 37.675
 IOC_country_code: BEN
-ISO_3166-1_alpha-3_code: BEN
+ISO_3166_1_alpha_3_code: BEN
 ITU_letter_code: BEN
 life_expectancy: 60.907
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg"
@@ -290,7 +290,7 @@ male_population:
 - 6330776
 - 6509711
 - 6689295
-number_of_out-of-school_children: 827619
+number_of_out_of_school_children: 827619
 licence_plate_code: DY
 female_population:
 - 5120929

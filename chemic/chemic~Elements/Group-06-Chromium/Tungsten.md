@@ -40,14 +40,14 @@ Common_Procurement_Vocabulary_code:
 named_after: "[[_Standards/WikiData/WD~Canis lupus,18498]]"
 location_of_discovery: '[[_Standards/WikiData/WD~Spain,29]]'
 vapor_pressure: 0
-short-term_exposure_limit: 10
+short_term_exposure_limit: 10
 oxidation_state:
 - 2
 - 3
 - 4
 - 5
 - 6
-time-weighted_average_exposure_limit: 5
+time_weighted_average_exposure_limit: 5
 ionic_radius:
 - 0.6
 - 0.42

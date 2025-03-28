@@ -70,7 +70,7 @@ MeSH_tree_code:
 - C19.246
 GitHub_topic: diabetes
 subreddit: diabetes
-ICD-10-CM:
+ICD_10_CM:
 - E08-E13
 - E10.E14
 - E11
@@ -84,7 +84,7 @@ instance_of:
 - "[[_Standards/WikiData/WD~class of disease,112193867]]"
 - '[[_Standards/WikiData/WD~disease,12136]]'
 Baidu_Tieba_name: 糖尿病
-ICD-9-CM: 250
+ICD_9_CM: 250
 IAB_code: 317
 social_media_followers: 104234
 OmegaWiki_Defined_Meaning: 863325

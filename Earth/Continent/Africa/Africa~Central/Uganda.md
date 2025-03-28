@@ -342,8 +342,8 @@ BTI_Governance_Index:
 - 5.86
 - 6.07
 water_as_percent_of_area: 18.2
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ug,43122]]'
-Inequality-adjusted_Human_Development_Index: 0.396
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ug,43122]]'
+Inequality_adjusted_Human_Development_Index: 0.396
 Gini_coefficient: 42.7
 Happy_Planet_Index_score: 44.8
 Democracy_Index: 4.94
@@ -366,7 +366,7 @@ death_rate:
 - 5.877
 total_fertility_rate: 5.775
 M49_code: 800
-ISO_3166-1_numeric_code: 800
+ISO_3166_1_numeric_code: 800
 maritime_identification_digits: 675
 IAB_code: 1466
 mobile_country_code: 641
@@ -377,13 +377,13 @@ birth_rate:
 - 37.667
 OmegaWiki_Defined_Meaning: 7799
 life_expectancy: 59.889
-FIPS_10-4_countries_and_regions_: UG
+FIPS_10_4_countries_and_regions_: UG
 WIPO_ST_3: UG
-ISO_3166-1_alpha-2_code: UG
+ISO_3166_1_alpha_2_code: UG
 area: 241038
 IOC_country_code: UGA
 ITU_letter_code: UGA
-ISO_3166-1_alpha-3_code: UGA
+ISO_3166_1_alpha_3_code: UGA
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationUganda.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Uganda%20%28orthographic%20projection%29.svg"

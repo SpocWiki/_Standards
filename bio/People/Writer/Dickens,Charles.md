@@ -135,7 +135,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Dickens
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dickens%20Gurney%20head.jpg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Charles%20Dickens-article.ogg"
 Provenio_UUID: 3cba94de-58f5-463e-b3af-9c44b5cbe112
-Libris-URI: 42gjjgtn110l7gz
+Libris_URI: 42gjjgtn110l7gz
 BHCL_UUID: 80a24d97-bbc0-4f16-87cc-614c1ef34012
 Europeana_entity: agent/base/59904
 pseudonym: Boz

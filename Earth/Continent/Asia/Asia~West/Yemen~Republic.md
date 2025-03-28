@@ -229,8 +229,8 @@ BTI_Status_Index:
 - 3.91
 - 4.08
 Democracy_Index: 1.95
-Inequality-adjusted_Human_Development_Index: 0.307
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ye,42842]]'
+Inequality_adjusted_Human_Development_Index: 0.307
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ye,42842]]'
 Gini_coefficient: 35.9
 total_fertility_rate: 4.16
 Happy_Planet_Index_score: 44.6
@@ -250,7 +250,7 @@ death_rate:
 - 6.845
 rural_population: 17955000
 social_media_followers: 21678
-ISO_3166-1_numeric_code: 887
+ISO_3166_1_numeric_code: 887
 M49_code: 887
 birth_rate:
 - 29.919
@@ -262,25 +262,25 @@ life_expectancy: 64.953
 OmegaWiki_Defined_Meaning: 8456
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Yemen.svg"
 Unicode_character: "\U0001F1FE\U0001F1EA"
-ISO_3166-1_alpha-3_code: YEM
+ISO_3166_1_alpha_3_code: YEM
 ITU_letter_code: YEM
 IOC_country_code: YEM
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Yemen.svg"
 INSEE_countries_and_foreign_territories_code: 99251
-FIPS_10-4_countries_and_regions_: YM
+FIPS_10_4_countries_and_regions_: YM
 female_population:
 - 16313210
 - 15593113
 - 15963067
 - 16673411
-number_of_out-of-school_children: 2337346
+number_of_out_of_school_children: 2337346
 short_name:
 - اليمن
 - "\U0001F1FE\U0001F1EA"
 population: 28250420
 licence_plate_code: YAR
 PM20_geo_code: B31
-ISO_3166-1_alpha-2_code: YE
+ISO_3166_1_alpha_2_code: YE
 WIPO_ST_3: YE
 male_population:
 - 15953578

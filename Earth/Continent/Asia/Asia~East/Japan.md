@@ -402,7 +402,7 @@ birth_rate:
 compulsory_education_maximum_age_: 15
 marriageable_age: 18
 age_of_majority: 18
-Inequality-adjusted_Human_Development_Index: 0.85
+Inequality_adjusted_Human_Development_Index: 0.85
 death_rate:
 - 11.1
 - 11.2
@@ -410,7 +410,7 @@ death_rate:
 - 12.9
 total_fertility_rate: 1.38
 suicide_rate: 14.6
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.jp,39132]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.jp,39132]]'
 highest_point: "[[_Standards/WikiData/WD~Mount Fuji,39231]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
 Gini_coefficient: 32.9
@@ -474,7 +474,7 @@ mobile_country_code:
 - 441
 native_label: 日本
 M49_code: 392
-ISO_3166-1_numeric_code: 392
+ISO_3166_1_numeric_code: 392
 OmegaWiki_Defined_Meaning: 6916
 ITU_letter_code: J
 UIC_alphabetical_country_code: J
@@ -492,16 +492,16 @@ median_income:
 male_population: 60758000
 female_population: 64189000
 IAB_code: 1328
-number_of_out-of-school_children: 153722
+number_of_out_of_school_children: 153722
 INSEE_countries_and_foreign_territories_code: 99217
 aircraft_registration_prefix:
 - JA
 - JR
-FIPS_10-4_countries_and_regions_: JA
+FIPS_10_4_countries_and_regions_: JA
 name: Japan
 HASC: JP
 WIPO_ST_3: JP
-ISO_3166-1_alpha-2_code: JP
+ISO_3166_1_alpha_2_code: JP
 seal_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Gyomei%20kokuji.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Kamon%20of%20the%20Imperial%20House%20of%20Japan.svg"
@@ -509,7 +509,7 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kamon%20
 GS1_country_code:
 - 450-459
 - 490-499
-ISO_3166-1_alpha-3_code: JPN
+ISO_3166_1_alpha_3_code: JPN
 IOC_country_code: JPN
 life_expectancy: 83.98488
 rural_population:
@@ -551,7 +551,7 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/japan_2"
 Stack_Exchange_tag: "https://travel.stackexchange.com/tags/japan"
 Dewey_Decimal_Classification: 2--52
 WOEID: 23424856
-Libris-URI: 53hkj6mp5hgzjd3
+Libris_URI: 53hkj6mp5hgzjd3
 BHCL_UUID: d4a959c9-c688-4606-a2f3-ac84bec2fa04
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Japan\"]"
 Colon_Classification: SG--42

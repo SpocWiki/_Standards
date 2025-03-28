@@ -58,8 +58,8 @@ Commons_category: Diamonds
 Commons_gallery: Diamond
 OmegaWiki_Defined_Meaning: 416537
 IMA_Mineral_Symbol: Dia
-Nickel-Strunz_10th_ed_review_of_9th_ed_2009_update_: 1.CB.10a
-Nickel-Strunz_9th_edition_updated_2009_: 1.CB.10a
+Nickel_Strunz_10th_ed_review_of_9th_ed_2009_update_: 1.CB.10a
+Nickel_Strunz_9th_edition_updated_2009_: 1.CB.10a
 U_S_National_Archives_Identifier: 10647959
 ---
 

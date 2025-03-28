@@ -49,7 +49,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~profession,28640]]'
 has_list: "[[_Standards/WikiData/WD~lists of mathematicians,66777993]]"
 uses: "[[_Standards/WikiData/WD~mathematical terminology,66785817]]"
-Portuguese_Job_Code_CPP-2010: 2120.1
+Portuguese_Job_Code_CPP_2010: 2120.1
 Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/mathematicians"
 UMLS_CUI: C0402139
 Provenio_UUID: 4a565061-b09f-47d5-8e75-9f87f6f8fe6e
@@ -62,10 +62,10 @@ properties_for_this_type:
 subclass_of: '[[_Standards/WikiData/WD~scientist,901]]'
 Wikidata_property: "zbMATH author ID"
 quantity: 80000
-ISCO-08_occupation_class:
+ISCO_08_occupation_class:
 - 212
 - 2120
-ISCO-88_occupation_class:
+ISCO_88_occupation_class:
 - 212
 - 2121
 OmegaWiki_Defined_Meaning: 376949

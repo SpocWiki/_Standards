@@ -99,7 +99,7 @@ Regensburg_Classification:
 - "CF 5000"
 - "CF 5000 - CF 5017"
 Wolfram_Language_entity_code: "Entity[\"Person\", \"ImmanuelKant::8z928\"]"
-Libris-URI: gdsvw3z03wtsnhn
+Libris_URI: gdsvw3z03wtsnhn
 Krugosvet_article: gumanitarnye_nauki/filosofiya/KANT_IMMANUIL.html
 Image_Archive_Herder_Institute: Q9312
 Gujarati_Vishwakosh_entry: કાન્ટ-ઇમાન્યુએલ

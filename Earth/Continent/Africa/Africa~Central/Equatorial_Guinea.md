@@ -113,7 +113,7 @@ suicide_rate:
 - 16.5
 - 16.7
 Democracy_Index: 1.92
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gq,41460]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gq,41460]]'
 BTI_Status_Index:
 - 2.97
 - 3.02
@@ -130,7 +130,7 @@ death_rate:
 - 8.708
 - 9.026
 - 9.042
-ISO_3166-1_numeric_code: 226
+ISO_3166_1_numeric_code: 226
 M49_code: 226
 OmegaWiki_Defined_Meaning: 154211
 area: 28051
@@ -141,7 +141,7 @@ birth_rate:
 - 31.874
 IAB_code: 1288
 INSEE_countries_and_foreign_territories_code: 99392
-number_of_out-of-school_children: 50071
+number_of_out_of_school_children: 50071
 life_expectancy: 57.681
 urban_population:
 - 1127920
@@ -149,9 +149,9 @@ urban_population:
 - 1166712
 - 1239599
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Equatorial%20Guinea.svg"
-ISO_3166-1_alpha-2_code: GQ
+ISO_3166_1_alpha_2_code: GQ
 WIPO_ST_3: GQ
-Libris-URI: jgvxwd224s4ltg3
+Libris_URI: jgvxwd224s4ltg3
 Krugosvet_article: strany_mira/EKVATORIALNAYA_GVINEYA.html
 demonym:
 - ecuatoguineana
@@ -275,14 +275,14 @@ has_time_started: "1968-10-12T00:00:00Z"
 population: 1847549
 ITU_letter_code: GNE
 IOC_country_code: GEQ
-FIPS_10-4_countries_and_regions_: EK
+FIPS_10_4_countries_and_regions_: EK
 geoshape: "http://commons.wikimedia.org/data/main/Data:Equatorial+Guinea.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Equatorial%20Guinea.svg"
 Commons_category: "Equatorial Guinea"
 Commons_gallery: "Guinea Ecuatorial"
 U_S_National_Archives_Identifier: 10035697
 official_website: "https://www.guineaecuatorialpress.com/"
-ISO_3166-1_alpha-3_code: GNQ
+ISO_3166_1_alpha_3_code: GNQ
 coordinates_of_easternmost_point: "Point(11.5 1.58947)"
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationEquatorialGuinea.svg"

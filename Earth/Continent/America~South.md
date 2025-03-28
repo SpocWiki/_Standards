@@ -83,7 +83,7 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
 - '[[_Standards/WikiData/WD~UTC−02_00,6536]]'
 Commons_gallery: "Sudamérica - América do Sul"
-Libris-URI: xv8bbh3g0d10v0c
+Libris_URI: xv8bbh3g0d10v0c
 demonym:
 - "South American"
 - Sudamerikano
@@ -115,7 +115,7 @@ IAB_code: 1224
 OmegaWiki_Defined_Meaning: 3564
 PM20_geo_code: E4
 M49_code: 005
-number_of_out-of-school_children: 6472941
+number_of_out_of_school_children: 6472941
 Commons_category: "South America"
 Archive_of_Our_Own_tag: "South America"
 geoshape: "http://commons.wikimedia.org/data/main/Data:South+America+Flickr.map"

@@ -3,7 +3,7 @@ aliases:
 - "Archimedes of Syracuse"
 has_id_wikidata: Q8739
 BHCL_UUID: 20ee560e-e2f7-4d51-abb3-e9d686667bfd
-Libris-URI: 97mpp9pt464vwcc
+Libris_URI: 97mpp9pt464vwcc
 Commons_category: Archimedes
 Commons_Creator_page: Archimedes
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Archimedes::dw6qq\"]"

@@ -41,7 +41,7 @@ pronunciation_audio:
 Stack_Exchange_tag: "https://biology.stackexchange.com/tags/anatomy"
 U_S_National_Archives_Identifier: 10666355
 OmegaWiki_Defined_Meaning: 172
-All-Science_Journal_Classification_Codes: 2702
+All_Science_Journal_Classification_Codes: 2702
 Iconclass_notation:
 - 31A2
 - 49G61

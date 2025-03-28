@@ -197,7 +197,7 @@ BTI_Governance_Index:
 - 4.53
 Happy_Planet_Index_score: 39
 flag: "[[_Standards/WikiData/WD~flag of Lebanon,36005]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.lb,41835]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.lb,41835]]'
 Gini_coefficient: 31.8
 Democracy_Index: 4.16
 trunk_prefix: 0
@@ -213,7 +213,7 @@ death_rate:
 GS1_country_code: 528
 area: 10452
 mobile_country_code: 415
-ISO_3166-1_alpha-2_code: LB
+ISO_3166_1_alpha_2_code: LB
 WIPO_ST_3: LB
 aircraft_registration_prefix: LB
 birth_rate:
@@ -221,15 +221,15 @@ birth_rate:
 - 14.948
 - 15.332
 - 15.822
-ISO_3166-1_numeric_code: 422
+ISO_3166_1_numeric_code: 422
 M49_code: 422
-FIPS_10-4_countries_and_regions_: LE
+FIPS_10_4_countries_and_regions_: LE
 IAB_code: 1337
 OmegaWiki_Defined_Meaning: 7483
 life_expectancy: 79.584
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lebanon.svg"
 social_media_followers: 91494
-number_of_out-of-school_children: 201675
+number_of_out_of_school_children: 201675
 motto_text:
 - "Libanus: Y Wefr o Fyw"
 - "Lebanon Passion for Living"
@@ -282,7 +282,7 @@ urban_population:
 - 5035754
 - 5131905
 population: 6100075
-ISO_3166-1_alpha-3_code: LBN
+ISO_3166_1_alpha_3_code: LBN
 ITU_letter_code: LBN
 IOC_country_code: LBN
 PM20_geo_code: B24c

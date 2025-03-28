@@ -52,7 +52,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fourth%20Global%20Rev
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/WTO%20members%20and%20observers.svg"
 RIA_Novosti_reference: 1562868842
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/VSEMIRNAYA_TORGOVAYA_ORGANIZATSIYA_VTO.html
-Libris-URI: sq465cbb0rv1dmb
+Libris_URI: sq465cbb0rv1dmb
 Facebook_username: worldtradeorganization
 Instagram_username: worldtradeorganization
 X_Twitter_username: wto

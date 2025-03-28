@@ -163,7 +163,7 @@ Commons_Creator_page: "Julius Caesar"
 short_name: "Julius Caesar"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gaius%20Iulius%20Caesar%20%28Vatican%20Museum%29.jpg"
 BHCL_UUID: 0c3dd285-04e4-4c7b-a768-155edd850d3c
-Libris-URI: 0xbdd6fj3p61h54
+Libris_URI: 0xbdd6fj3p61h54
 last_words: "Καὶ σὺ τέκνον"
 religious_name: "Divus Julius"
 date_of_birth: "-0099-07-01T00:00:00Z"

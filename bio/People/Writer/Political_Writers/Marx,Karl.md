@@ -150,7 +150,7 @@ U_S_National_Archives_Identifier:
 - 10580373
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/1551293
 birth_name: "Karl Heinrich Marx"
-Libris-URI: 42gjk8zn0slfltw
+Libris_URI: 42gjk8zn0slfltw
 BHCL_UUID: a8b63136-ae0a-4818-8a52-9ca454ae1f16
 Europeana_entity: agent/base/145337
 Regensburg_Classification: "BF 6410"

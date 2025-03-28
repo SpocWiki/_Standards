@@ -91,7 +91,7 @@ spouse:
 - "[[_Standards/WikiData/WD~Franziska Bertram,108667562]]"
 - "[[_Standards/WikiData/WD~Käthe Margarethe Deppner,108667561]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Pauli%2C%20Wolfgang.tif"
-Libris-URI: 20dgj9vl4dzz19l
+Libris_URI: 20dgj9vl4dzz19l
 date_of_death: "1958-12-15T00:00:00Z"
 Commons_category: "Wolfgang Pauli"
 Commons_gallery: "Wolfgang Pauli"

@@ -224,9 +224,9 @@ mains_voltage: 230
 water_as_percent_of_area: 2.5
 literacy_rate: 88
 suicide_rate: 9.3
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bw,40989]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bw,40989]]'
 Happy_Planet_Index_score: 31.9
-Inequality-adjusted_Human_Development_Index: 0.426
+Inequality_adjusted_Human_Development_Index: 0.426
 Gini_coefficient: 53.3
 BTI_Governance_Index:
 - 6.81
@@ -257,10 +257,10 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~South-East District,57695]]"
 total_fertility_rate: 2.836
 IAB_code: 1258
-ISO_3166-1_numeric_code: 072
+ISO_3166_1_numeric_code: 072
 M49_code: 072
 maritime_identification_digits: 611
-FIPS_10-4_countries_and_regions_: BC
+FIPS_10_4_countries_and_regions_: BC
 birth_rate:
 - 23.036
 - 23.576
@@ -269,7 +269,7 @@ birth_rate:
 mobile_country_code: 652
 life_expectancy: 66.797
 OmegaWiki_Defined_Meaning: 8342
-number_of_out-of-school_children: 74929
+number_of_out_of_school_children: 74929
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg"
 Unicode_character: "\U0001F1E7\U0001F1FC"
 INSEE_countries_and_foreign_territories_code: 99347
@@ -290,14 +290,14 @@ female_population:
 - 1289694
 - 1310688
 - 1331489
-ISO_3166-1_alpha-3_code: BWA
+ISO_3166_1_alpha_3_code: BWA
 urban_population:
 - 1754091
 - 1804813
 - 1852275
 - 1899705
 licence_plate_code: BW
-ISO_3166-1_alpha-2_code: BW
+ISO_3166_1_alpha_2_code: BW
 WIPO_ST_3: BW
 population: 2480244
 inception: "1966-01-01T00:00:00Z"

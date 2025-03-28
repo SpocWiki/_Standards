@@ -1,8 +1,7 @@
 ﻿---
-database-plugin: basic
-
-
+database_plugin: basic
 ---
+
 ```yaml:dbfolder
 name: Countries
 description: Table of all Countries

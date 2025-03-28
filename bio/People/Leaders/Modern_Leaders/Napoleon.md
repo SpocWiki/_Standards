@@ -144,7 +144,7 @@ position_held: "[[_Standards/WikiData/WD~Emperor of the French,5373953]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Napoleon,14407298]]'
-Libris-URI: c9prsk1w3rp2xzk
+Libris_URI: c9prsk1w3rp2xzk
 archival_creator_authority_record_at_the_Archives_nationales: FRAN_NP_051171
 Regensburg_Classification: "IG 5730"
 Krugosvet_article: istoriya/NAPOLEON_I.html

@@ -253,7 +253,7 @@ birth_rate:
 - 24.6
 - 25.9
 - 26.2
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.uz,41846]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.uz,41846]]'
 Gini_coefficient: 35.3
 trunk_prefix: 8
 Happy_Planet_Index_score: 54.1
@@ -265,16 +265,16 @@ UIC_numerical_country_code: 29
 IAB_code: 1470
 mobile_country_code: 434
 maritime_identification_digits: 437
-ISO_3166-1_numeric_code: 860
+ISO_3166_1_numeric_code: 860
 M49_code: 860
 life_expectancy: 71.314
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg"
 OmegaWiki_Defined_Meaning: 7798
 INSEE_countries_and_foreign_territories_code: 99258
 Dewey_Decimal_Classification: 2--587
-number_of_out-of-school_children: 314944
+number_of_out_of_school_children: 314944
 population: 34915100
-ISO_3166-1_alpha-3_code: UZB
+ISO_3166_1_alpha_3_code: UZB
 IOC_country_code: UZB
 ITU_letter_code: UZB
 area: 448978
@@ -311,9 +311,9 @@ inception: "1991-01-01T00:00:00Z"
 has_time_started: "1991-01-01T00:00:00Z"
 coordinates_of_westernmost_point: "Point(56.0 41.319444444)"
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Aral%20Sea%201989-2008.jpg"
-FIPS_10-4_countries_and_regions_: UZ
+FIPS_10_4_countries_and_regions_: UZ
 licence_plate_code: UZ
-ISO_3166-1_alpha-2_code: UZ
+ISO_3166_1_alpha_2_code: UZ
 WIPO_ST_3: UZ
 UIC_alphabetical_country_code: UZ
 geoshape: "http://commons.wikimedia.org/data/main/Data:Uzbekistan.map"
@@ -327,7 +327,7 @@ country_calling_code: +998
 short_name: "\U0001F1FA\U0001F1FF"
 coordinates_of_southernmost_point: "Point(67.788888888 37.1875)"
 Commons_gallery: Oʻzbekiston
-Libris-URI: pm1339771nt8scw
+Libris_URI: pm1339771nt8scw
 Krugosvet_article: strany_mira/UZBEKISTAN.html
 Unicode_character: "\U0001F1FA\U0001F1FF"
 GitHub_topic: uzbekistan

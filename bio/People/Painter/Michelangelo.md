@@ -130,7 +130,7 @@ movement: "[[_Standards/WikiData/WD~Renaissance painting,15885248]]"
 ArhivX_LOD: 42542
 Commons_gallery: Michelangelo
 BHCL_UUID: df1ff736-b44c-4e7f-8ec3-fc83d31e08f7
-Libris-URI: khw03x335qvphhh
+Libris_URI: khw03x335qvphhh
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MIKELANDZHELO_BUONARROTI.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/19920
 Royal_Academy_new_identifier: michelangelo-buonarroti

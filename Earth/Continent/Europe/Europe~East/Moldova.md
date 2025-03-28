@@ -244,7 +244,7 @@ BTI_Governance_Index:
 - 5.31
 - 5.39
 Happy_Planet_Index_score: 51
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.md,40324]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.md,40324]]'
 highest_point: "[[_Standards/WikiData/WD~Bălănești Hill,47940]]"
 trunk_prefix: 0
 BTI_Status_Index:
@@ -258,7 +258,7 @@ BTI_Status_Index:
 - 6.33
 GS1_country_code: 484
 Democracy_Index: 5.78
-Inequality-adjusted_Human_Development_Index: 0.711
+Inequality_adjusted_Human_Development_Index: 0.711
 Human_Development_Index: 0.767
 total_fertility_rate: 1.256
 UIC_numerical_country_code: 23
@@ -278,11 +278,11 @@ birth_rate:
 - 12.432
 - 12.481
 - 12.894
-ISO_3166-1_numeric_code: 498
+ISO_3166_1_numeric_code: 498
 M49_code: 498
 maritime_identification_digits: 214
 OmegaWiki_Defined_Meaning: 8077
-number_of_out-of-school_children: 75391
+number_of_out_of_school_children: 75391
 male_population:
 - 1232180
 - 1208783
@@ -294,14 +294,14 @@ female_population:
 - 1330111
 - 1383296
 - 1397819
-FIPS_10-4_countries_and_regions_: MD
+FIPS_10_4_countries_and_regions_: MD
 licence_plate_code: MD
-ISO_3166-1_alpha-2_code: MD
+ISO_3166_1_alpha_2_code: MD
 WIPO_ST_3: MD
 UIC_alphabetical_country_code: MD
 area: 33843.5
 IOC_country_code: MDA
-ISO_3166-1_alpha-3_code: MDA
+ISO_3166_1_alpha_3_code: MDA
 ITU_letter_code: MDA
 INSEE_countries_and_foreign_territories_code: 99151
 urban_population:
@@ -345,7 +345,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/MoldRelief.jpg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20Moldova%20banner.jpg"
 official_website: "http://www.moldova.md/"
 BHCL_UUID: 014530d4-a223-4ac7-b37e-4718c9bc3470
-Libris-URI: b8nqpkcv3tsj8ml
+Libris_URI: b8nqpkcv3tsj8ml
 Unicode_character: "\U0001F1F2\U0001F1E9"
 Colon_Classification: SG--586
 Krugosvet_article: strany_mira/MOLDAVIYA.html

@@ -350,7 +350,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20autog
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandtvanrijn.ogg"
 described_at_URL: "http://www.nationalgallery.org.uk/artists/rembrandt"
-Libris-URI: 86lnp38s429lfmj
+Libris_URI: 86lnp38s429lfmj
 BHCL_UUID: ae6aefba-7f36-4727-a54c-3e57fcf5bd22
 Europeana_entity: agent/base/82853
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/REMBRANDT_HARMENS_VAN_REN.html

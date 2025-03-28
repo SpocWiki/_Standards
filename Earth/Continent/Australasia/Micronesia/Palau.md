@@ -164,7 +164,7 @@ birth_rate:
 minimum_temperature_record: 18.9
 total_fertility_rate: 2.02
 OpenStreetMap_zoom_level: 8
-number_of_out-of-school_children: 539
+number_of_out_of_school_children: 539
 Human_Development_Index: 0.767
 male_population:
 - 9380
@@ -183,7 +183,7 @@ female_population:
 - 8595
 - 8643
 - 8679
-FIPS_5-2_numeric_code_US_states_: 70
+FIPS_5_2_numeric_code_US_states_: 70
 mobile_country_code: 552
 urban_population:
 - 14417
@@ -192,14 +192,14 @@ urban_population:
 - 14797
 maritime_identification_digits: 511
 population: 21729
-FIPS_10-4_countries_and_regions_: PS
+FIPS_10_4_countries_and_regions_: PS
 IAB_code: 1375
 INSEE_countries_and_foreign_territories_code: 99517
-ISO_3166-1_numeric_code: 585
+ISO_3166_1_numeric_code: 585
 M49_code: 585
-ISO_3166-1_alpha-2_code: PW
+ISO_3166_1_alpha_2_code: PW
 WIPO_ST_3: PW
-FIPS_5-2_alpha_code_US_states_: PW
+FIPS_5_2_alpha_code_US_states_: PW
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palau.svg"
 IOC_country_code: PLW
 short_name:
@@ -210,7 +210,7 @@ inception: "1994-10-01T00:00:00Z"
 has_time_started: "1994-10-01T00:00:00Z"
 coordinate_location: "Point(134.55 7.466667)"
 area: 465.550362
-ISO_3166-1_alpha-3_code: PLW
+ISO_3166_1_alpha_3_code: PLW
 Commons_category: Palau
 subreddit: Palau
 hashtag: Palau

@@ -110,7 +110,7 @@ described_at_URL: "http://www.johannesbrahms.org"
 official_website: "https://www.brahms-institut.de/index.php/de/allgemeines"
 IPI_name_number: 00004028731
 BHCL_UUID: 04c00179-873a-46c3-b2b5-0ee661554d54
-Libris-URI: 31fhh7dm1l4nvml
+Libris_URI: 31fhh7dm1l4nvml
 Europeana_entity: agent/base/146859
 pseudonym: "G.W. Marks"
 ---

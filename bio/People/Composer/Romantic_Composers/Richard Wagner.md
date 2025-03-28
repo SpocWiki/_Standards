@@ -126,7 +126,7 @@ pseudonym:
 - "K. Freigedank"
 Krugosvet_article: kultura_i_obrazovanie/muzyka/VAGNER_RIHARD.html
 Image_Archive_Herder_Institute: Q1511
-Libris-URI: qn245zj82gvb84s
+Libris_URI: qn245zj82gvb84s
 Commons_gallery: "Richard Wagner"
 Commons_category: "Richard Wagner"
 Commons_Creator_page: "Richard Wagner"

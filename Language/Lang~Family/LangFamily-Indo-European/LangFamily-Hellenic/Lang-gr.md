@@ -82,7 +82,7 @@ short_name:
 - "toki Elena"
 - "toki Elina"
 - грецька
-Libris-URI: qn243pn82nq2r13
+Libris_URI: qn243pn82nq2r13
 writing_system: "[[_Standards/WikiData/WD~Greek alphabet,8216]]"
 indigenous_to:
 - '[[_Standards/WikiData/WD~Greece,41]]'
@@ -102,7 +102,7 @@ distribution_map:
 OmegaWiki_Defined_Meaning: 6121
 Commons_category: "Greek language"
 IETF_language_tag: grk
-ISO_639-5_code: grk
+ISO_639_5_code: grk
 native_label:
 - ελληνικά
 - "νέα ελληνικά"

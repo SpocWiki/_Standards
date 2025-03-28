@@ -80,7 +80,7 @@ date_of_death: "2014-04-17T00:00:00Z"
 Google_Doodle: gabriel-garcia-marquezs-91st-birthday
 Facebook_username: GabrielGarciaMarquezAuthor
 Krugosvet_article: kultura_i_obrazovanie/literatura/MARKES_GARSIA_GABRIEL_JOSE.html
-Libris-URI: ljx002z43kw6tvw
+Libris_URI: ljx002z43kw6tvw
 short_name: "Gabriel García Márquez"
 name_in_native_language: "Gabriel García Márquez"
 birth_name: "Gabriel José de la Concordia García Márquez"

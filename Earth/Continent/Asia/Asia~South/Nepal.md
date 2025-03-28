@@ -337,7 +337,7 @@ retirement_age: 58
 suicide_rate: 9.8
 total_fertility_rate: 1.93
 Gini_coefficient: 32.8
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.np,43582]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.np,43582]]'
 BTI_Governance_Index:
 - 3.74
 - 3.75
@@ -349,7 +349,7 @@ BTI_Governance_Index:
 - 4.46
 - 5.02
 Democracy_Index: 4.41
-Inequality-adjusted_Human_Development_Index: 0.449
+Inequality_adjusted_Human_Development_Index: 0.449
 Happy_Planet_Index_score: 53.1
 literacy_rate: 59.6
 Human_Development_Index: 0.602
@@ -369,7 +369,7 @@ life_expectancy: 72.12
 Dewey_Decimal_Classification: 2--5496
 mobile_country_code: 429
 GS1_country_code: 524
-ISO_3166-1_numeric_code: 524
+ISO_3166_1_numeric_code: 524
 M49_code: 524
 maritime_identification_digits: 459
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg"
@@ -380,12 +380,12 @@ urban_population:
 - 5810613
 - 6038773
 - 6552761
-number_of_out-of-school_children: 1055237
+number_of_out_of_school_children: 1055237
 ITU_letter_code: NPL
-ISO_3166-1_alpha-3_code: NPL
+ISO_3166_1_alpha_3_code: NPL
 WIPO_ST_3: NP
-FIPS_10-4_countries_and_regions_: NP
-ISO_3166-1_alpha-2_code: NP
+FIPS_10_4_countries_and_regions_: NP
+ISO_3166_1_alpha_2_code: NP
 subreddit: Nepal
 Commons_category: Nepal
 GitHub_topic: nepal
@@ -425,7 +425,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Nepal%20banner2
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Nepal%20in%20October%202002.jpg"
 official_website: "https://nepal.gov.np"
 country_calling_code: +977
-Libris-URI: fcrtsp8z0f4309t
+Libris_URI: fcrtsp8z0f4309t
 CIVICUS_Monitor_country_entry: nepal
 has_id_wikidata: Q837
 location:

@@ -204,7 +204,7 @@ birth_rate:
 - 8.5
 - 8.6
 total_fertility_rate: 1.38
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mt,41856]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mt,41856]]'
 area: 316
 Happy_Planet_Index_score: 43.5
 IPA_transcription: ˈmalʲtə
@@ -220,13 +220,13 @@ maritime_identification_digits:
 - 249
 - 256
 mobile_country_code: 278
-ISO_3166-1_numeric_code: 470
+ISO_3166_1_numeric_code: 470
 M49_code: 470
 GS1_country_code: 535
 OmegaWiki_Defined_Meaning: 8353
 INSEE_countries_and_foreign_territories_code: 99144
 PM20_geo_code: A25
-Libris-URI: jgvxwqd22lv1ccz
+Libris_URI: jgvxwqd22lv1ccz
 licence_plate_code: M
 GitHub_topic: malta
 CIVICUS_Monitor_country_entry: malta
@@ -247,15 +247,15 @@ subreddit: malta
 Commons_category: Malta
 Commons_gallery: Malta
 hashtag: Malta
-ISO_3166-1_alpha-3_code: MLT
+ISO_3166_1_alpha_3_code: MLT
 IOC_country_code: MLT
 ITU_letter_code: MLT
 NUTS_code:
 - MT
 - MT0
 - MT00
-ISO_3166-1_alpha-2_code: MT
-FIPS_10-4_countries_and_regions_: MT
+ISO_3166_1_alpha_2_code: MT
+FIPS_10_4_countries_and_regions_: MT
 WIPO_ST_3: MT
 Unicode_character: "\U0001F1F2\U0001F1F9"
 Colon_Classification: SG--5285
@@ -264,7 +264,7 @@ motto_text: "Truly Mediterranean"
 Democracy_Index: 7.68
 native_label: Malta
 official_name: "Repubblika ta' Malta"
-Inequality-adjusted_Human_Development_Index: 0.849
+Inequality_adjusted_Human_Development_Index: 0.849
 Human_Development_Index: 0.918
 short_name: "\U0001F1F2\U0001F1F9"
 rural_population:
@@ -272,7 +272,7 @@ rural_population:
 - 26826
 - 26912
 - 27086
-number_of_out-of-school_children: 2795
+number_of_out_of_school_children: 2795
 coordinates_of_southernmost_point: "Point(14.51625165 35.80623721)"
 female_population:
 - 244207

@@ -419,17 +419,17 @@ BTI_Status_Index:
 unemployment_rate: 7.1
 poverty_incidence: 13.2
 total_fertility_rate: 2.89
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ph,41840]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ph,41840]]'
 Gini_coefficient: 42.3
 trunk_prefix: 0
 Happy_Planet_Index_score: 57.1
-Inequality-adjusted_Human_Development_Index: 0.574
+Inequality_adjusted_Human_Development_Index: 0.574
 Democracy_Index: 6.62
 Human_Development_Index: 0.699
 literacy_rate: 96.3
 maritime_identification_digits: 548
 M49_code: 608
-ISO_3166-1_numeric_code: 608
+ISO_3166_1_numeric_code: 608
 GitHub_topic: philippines
 GS1_country_code: 480
 death_rate:
@@ -515,7 +515,7 @@ native_label:
 - Philippines
 Dewey_Decimal_Classification: 2--599
 ITU_letter_code: PHL
-ISO_3166-1_alpha-3_code: PHL
+ISO_3166_1_alpha_3_code: PHL
 Commons_gallery: "Pilipinas / Philippines"
 Colon_Classification: SG--931
 Krugosvet_article: strany_mira/FILIPPINI.html
@@ -554,7 +554,7 @@ birth_rate:
 - 22.254
 mobile_country_code: 515
 aircraft_registration_prefix: RP
-FIPS_10-4_countries_and_regions_: RP
+FIPS_10_4_countries_and_regions_: RP
 licence_plate_code: RP
 median_income: 307190
 OmegaWiki_Defined_Meaning: 8540
@@ -562,9 +562,9 @@ life_expectancy: 71.095
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg"
 Unicode_character: "\U0001F1F5\U0001F1ED"
 PM20_geo_code: B86
-number_of_out-of-school_children: 1070690
+number_of_out_of_school_children: 1070690
 WIPO_ST_3: PH
-ISO_3166-1_alpha-2_code: PH
+ISO_3166_1_alpha_2_code: PH
 area: 343448
 female_population: 53649400
 INSEE_countries_and_foreign_territories_code: 99220

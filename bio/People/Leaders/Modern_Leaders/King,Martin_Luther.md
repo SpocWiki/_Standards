@@ -99,7 +99,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Luther%2
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Luther%20King%2C%20Jr..jpg"
 BHCL_UUID: d4c5fcd3-8b02-4796-860d-427a6b5681aa
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"MartinLutherKing::srt4t\"]"
-Libris-URI: gdsvwfv045jzw67
+Libris_URI: gdsvwfv045jzw67
 Krugosvet_article: istoriya/KING_MARTIN_LYUTER.html
 DPLA_subject_term: "King, Martin Luther, Jr., 1929-1968"
 PhilPapers_topic: martin-luther-king

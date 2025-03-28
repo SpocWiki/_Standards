@@ -152,7 +152,7 @@ named_after: '[[_Standards/WikiData/WD~Sesotho,34340]]'
 Democracy_Index: 6.3
 Happy_Planet_Index_score: 27.3
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ls,41794]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ls,41794]]'
 BTI_Governance_Index:
 - 3.58
 - 3.59
@@ -161,7 +161,7 @@ BTI_Governance_Index:
 - 4.96
 - 5.42
 - 5.43
-Inequality-adjusted_Human_Development_Index: 0.372
+Inequality_adjusted_Human_Development_Index: 0.372
 Gini_coefficient: 44.9
 BTI_Status_Index:
 - 5.03
@@ -173,7 +173,7 @@ BTI_Status_Index:
 - 5.48
 Human_Development_Index: 0.514
 head_of_state: "[[_Standards/WikiData/WD~Letsie III of Lesotho,57537]]"
-ISO_3166-1_numeric_code: 426
+ISO_3166_1_numeric_code: 426
 M49_code: 426
 total_fertility_rate: 3.185
 IAB_code: 1338
@@ -191,7 +191,7 @@ area: 30355
 maritime_identification_digits: 644
 mobile_country_code: 651
 life_expectancy: 54.174
-FIPS_10-4_countries_and_regions_: LT
+FIPS_10_4_countries_and_regions_: LT
 urban_population:
 - 654320
 - 636217
@@ -199,9 +199,9 @@ urban_population:
 - 690433
 OmegaWiki_Defined_Meaning: 8087
 licence_plate_code: LS
-ISO_3166-1_alpha-2_code: LS
+ISO_3166_1_alpha_2_code: LS
 WIPO_ST_3: LS
-number_of_out-of-school_children: 142364
+number_of_out_of_school_children: 142364
 rural_population:
 - 1599780
 - 1589485
@@ -237,7 +237,7 @@ female_population:
 - 1168329
 coordinates_of_southernmost_point: "Point(28.11363 -30.67558)"
 population: 2007201
-ISO_3166-1_alpha-3_code: LSO
+ISO_3166_1_alpha_3_code: LSO
 ITU_letter_code: LSO
 inception: "1966-01-01T00:00:00Z"
 has_time_started: "1966-01-01T00:00:00Z"

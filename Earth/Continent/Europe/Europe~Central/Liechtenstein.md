@@ -182,9 +182,9 @@ birth_rate:
 - 9.2
 - 9.6
 total_fertility_rate: 1.45
-number_of_out-of-school_children: 245
+number_of_out_of_school_children: 245
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.li,42641]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.li,42641]]'
 urban_population:
 - 5530
 - 5587
@@ -211,22 +211,22 @@ female_population:
 - 19825
 mobile_country_code: 295
 IAB_code: 1341
-ISO_3166-1_numeric_code: 438
+ISO_3166_1_numeric_code: 438
 M49_code: 438
 population: 37922
 licence_plate_code: FL
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Staatswappen-Liechtensteins.svg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liechtenstein.svg"
 Unicode_character: "\U0001F1F1\U0001F1EE"
-ISO_3166-1_alpha-2_code: LI
+ISO_3166_1_alpha_2_code: LI
 NUTS_code:
 - LI
 - LI0
 - LI00
 - LI000
 WIPO_ST_3: LI
-FIPS_10-4_countries_and_regions_: LS
-ISO_3166-1_alpha-3_code: LIE
+FIPS_10_4_countries_and_regions_: LS
+ISO_3166_1_alpha_3_code: LIE
 IOC_country_code: LIE
 ITU_letter_code: LIE
 life_expectancy: 82.6561

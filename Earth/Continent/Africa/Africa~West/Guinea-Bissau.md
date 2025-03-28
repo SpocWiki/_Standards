@@ -163,8 +163,8 @@ BTI_Governance_Index:
 - 4.3
 - 4.6
 Democracy_Index: 2.63
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gw,41450]]'
-Inequality-adjusted_Human_Development_Index: 0.306
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gw,41450]]'
+Inequality_adjusted_Human_Development_Index: 0.306
 Gini_coefficient: 34.8
 Human_Development_Index: 0.483
 BTI_Status_Index:
@@ -172,7 +172,7 @@ BTI_Status_Index:
 - 5.32
 maritime_identification_digits: 630
 total_fertility_rate: 4.835
-ISO_3166-1_numeric_code: 624
+ISO_3166_1_numeric_code: 624
 M49_code: 624
 life_expectancy: 59.86
 death_rate:
@@ -182,8 +182,8 @@ death_rate:
 - 8.716
 IAB_code: 1311
 mobile_country_code: 632
-FIPS_10-4_countries_and_regions_: PU
-number_of_out-of-school_children: 201430
+FIPS_10_4_countries_and_regions_: PU
+number_of_out_of_school_children: 201430
 birth_rate:
 - 30.611
 - 31.087
@@ -202,7 +202,7 @@ rural_population:
 - 1124913
 - 1141289
 - 1157198
-ISO_3166-1_alpha-2_code: GW
+ISO_3166_1_alpha_2_code: GW
 WIPO_ST_3: GW
 coordinates_of_northernmost_point: "Point(-14.5 12.68)"
 subreddit:
@@ -217,7 +217,7 @@ official_name:
 native_label: "República da Guiné-Bissau"
 short_name: "\U0001F1EC\U0001F1FC"
 INSEE_countries_and_foreign_territories_code: 99330
-ISO_3166-1_alpha-3_code: GNB
+ISO_3166_1_alpha_3_code: GNB
 ITU_letter_code: GNB
 Dewey_Decimal_Classification: 2--6657
 urban_population:
@@ -247,7 +247,7 @@ pronunciation_audio:
 official_website: "https://www.gov.gw/"
 country_calling_code: +245
 U_S_National_Archives_Identifier: 10035793
-Libris-URI: 20dgf16l23qsczg
+Libris_URI: 20dgf16l23qsczg
 Commons_gallery: Guiné-Bissau
 CIVICUS_Monitor_country_entry: guinea-bissau
 has_id_wikidata: Q1007

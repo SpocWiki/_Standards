@@ -277,9 +277,9 @@ Happy_Planet_Index_score: 48
 suicide_rate: 5.5
 literacy_rate: 81
 total_fertility_rate: 2.36
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.kh,41047]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.kh,41047]]'
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-Inequality-adjusted_Human_Development_Index: 0.479
+Inequality_adjusted_Human_Development_Index: 0.479
 mobile_country_code: 456
 Human_Development_Index: 0.593
 head_of_state: "[[_Standards/WikiData/WD~Norodom Sihamoni,57319]]"
@@ -290,14 +290,14 @@ birth_rate:
 - 19.334
 - 19.849
 M49_code: 116
-ISO_3166-1_numeric_code: 116
+ISO_3166_1_numeric_code: 116
 death_rate:
 - 5.947
 - 6.228
 - 6.785
 - 6.838
 OmegaWiki_Defined_Meaning: 7930
-number_of_out-of-school_children: 904800
+number_of_out_of_school_children: 904800
 maritime_identification_digits:
 - 514
 - 515
@@ -306,8 +306,8 @@ IAB_code: 1267
 social_media_followers: 30274
 life_expectancy: 68.981
 WIPO_ST_3: KH
-ISO_3166-1_alpha-2_code: KH
-FIPS_10-4_countries_and_regions_: CB
+ISO_3166_1_alpha_2_code: KH
+FIPS_10_4_countries_and_regions_: CB
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg"
 Unicode_character: "\U0001F1F0\U0001F1ED"
 IOC_country_code: CAM
@@ -326,7 +326,7 @@ Dewey_Decimal_Classification: 2--596
 U_S_National_Archives_Identifier: 10035677
 inception: "1953-11-09T00:00:00Z"
 has_time_started: "1953-11-09T00:00:00Z"
-ISO_3166-1_alpha-3_code: KHM
+ISO_3166_1_alpha_3_code: KHM
 coordinates_of_easternmost_point: "Point(107.62762785 13.36703242)"
 country_calling_code: +855
 official_name:

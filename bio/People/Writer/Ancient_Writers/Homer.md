@@ -57,7 +57,7 @@ Commons_category: Homer
 Commons_Creator_page: Homer
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Homer.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Homer%20bust%2C%20Farnese%20collection%20%28Naples%29.jpg"
-Libris-URI: 0xbdfjvj5rjnrc0
+Libris_URI: 0xbdfjvj5rjnrc0
 OmegaWiki_Defined_Meaning: 1443831
 Provenio_UUID: 3e6be691-a395-4a7c-baa9-cc2d5f40b66b
 Europeana_entity: agent/base/145323

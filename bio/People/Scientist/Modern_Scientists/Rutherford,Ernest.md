@@ -144,7 +144,7 @@ date_of_death: "1937-10-19T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Rutherford%20LOC.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20rutherford%20sig.jpg"
 Krugosvet_article: nauka_i_tehnika/fizika/REZERFORD_ERNEST.html
-Libris-URI: qn2591t858fdcnp
+Libris_URI: qn2591t858fdcnp
 Regensburg_Classification: "UB 2735"
 place_of_birth: "[[_Standards/WikiData/WD~Spring Grove,65430768]]"
 father: "[[_Standards/WikiData/WD~James Rutherford,75451548]]"

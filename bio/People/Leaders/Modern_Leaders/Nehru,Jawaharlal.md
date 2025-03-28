@@ -63,7 +63,7 @@ Krugosvet_article: istoriya/NERU_DZHAVAHARLAL.html
 U_S_National_Archives_Identifier: 10582117
 Commons_gallery: "Jawaharlal Nehru"
 Commons_category: "Jawaharlal Nehru"
-Libris-URI: vs69dpqd1krx3vs
+Libris_URI: vs69dpqd1krx3vs
 name_in_native_language: "जवाहरलाल नेहरू"
 date_of_birth: "1889-11-14T00:00:00Z"
 described_at_URL: "http://gadyakosh.org/gk/जवाहरलाल_नेहरू"

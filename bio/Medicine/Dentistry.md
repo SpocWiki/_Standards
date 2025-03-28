@@ -25,7 +25,7 @@ MeSH_tree_code:
 - E06
 exact_match: "https://schema.org/Dentistry"
 subclass_of: '[[_Standards/WikiData/WD~medicine,11190]]'
-All-Science_Journal_Classification_Codes: 3501
+All_Science_Journal_Classification_Codes: 3501
 Dewey_Decimal_Classification:
 - 617
 - 617.6

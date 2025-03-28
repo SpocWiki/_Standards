@@ -1,5 +1,5 @@
 ﻿---
-Libris-URI: mkz118l5247m2dd
+Libris_URI: mkz118l5247m2dd
 Commons_gallery: "Sesel / Seychelles"
 GitHub_topic: seychelles
 CIVICUS_Monitor_country_entry: seychelles
@@ -170,14 +170,14 @@ male_population:
 - 52299
 IAB_code: 1401
 population: 95843
-ISO_3166-1_alpha-2_code: SC
+ISO_3166_1_alpha_2_code: SC
 WIPO_ST_3: SC
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Seychelles.svg"
 IOC_country_code: SEY
 ITU_letter_code: SEY
 OmegaWiki_Defined_Meaning: 153897
 INSEE_countries_and_foreign_territories_code: 99398
-ISO_3166-1_alpha-3_code: SYC
+ISO_3166_1_alpha_3_code: SYC
 inception: "1976-06-29T00:00:00Z"
 has_time_started: "1976-06-29T00:00:00Z"
 PM20_geo_code: C106
@@ -242,12 +242,12 @@ birth_rate:
 - 16.4
 - 16.8
 Gini_coefficient: 32.1
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.sc,43139]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sc,43139]]'
 area: 459
-Inequality-adjusted_Human_Development_Index: 0.661
+Inequality_adjusted_Human_Development_Index: 0.661
 Human_Development_Index: 0.785
-number_of_out-of-school_children: 1312
-ISO_3166-1_numeric_code: 690
+number_of_out_of_school_children: 1312
+ISO_3166_1_numeric_code: 690
 M49_code: 690
 maritime_identification_digits: 664
 licence_plate_code: SY
@@ -262,7 +262,7 @@ female_population:
 - 46598
 - 46958
 - 56766
-FIPS_10-4_countries_and_regions_: SE
+FIPS_10_4_countries_and_regions_: SE
 has_id_wikidata: Q1042
 location:
 - -4.61667

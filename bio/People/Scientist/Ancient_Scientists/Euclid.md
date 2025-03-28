@@ -5,7 +5,7 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"Euclid::2m284\"]"
 Royal_Academy_new_identifier: euclid
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/48620
 Krugosvet_article: matematika/evklid
-Libris-URI: nl0222j64180qkf
+Libris_URI: nl0222j64180qkf
 name_in_native_language: Εὐκλείδης
 birth_name: Εὐκλείδης
 floruit:

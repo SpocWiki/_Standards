@@ -24,12 +24,12 @@ instance_of:
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/68-4062-1%20%28ATED%29.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Watch%20for%20the%20blind.jpg"
-ICD-9-CM: 369
+ICD_9_CM: 369
 DiseasesDB: 28256
 subreddit: Blind
 Colon_Classification: T68
 Iconclass_notation: 31A4111
-ICD-10-CM: H54
+ICD_10_CM: H54
 U_S_National_Archives_Identifier: 10637723
 OmegaWiki_Defined_Meaning: 1146370
 Commons_category: "Visual impairment"

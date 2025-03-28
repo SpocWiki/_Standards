@@ -161,7 +161,7 @@ birth_name: "Владимир Ильич Ульянов"
 date_of_death: "1924-01-21T00:00:00Z"
 RIA_Novosti_reference: 39726152
 BHCL_UUID: 439d0470-8359-4df2-830f-15b8a94239a8
-Libris-URI: 86lnph8s2bkzgxz
+Libris_URI: 86lnph8s2bkzgxz
 Provenio_UUID: 9fd914bf-ff65-4e1c-b689-57438007b712
 Regensburg_Classification: "BF 6230"
 Wolfram_Language_entity_code: "Entity[\"Person\", \"Lenin::7388d\"]"

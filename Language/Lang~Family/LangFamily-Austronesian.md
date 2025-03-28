@@ -21,9 +21,9 @@ different_from: '[[_Standards/WikiData/WD~Austroasiatic,33199]]'
 ABS_ASCL_2011_code:
 - 65
 - 93
-ISO_639-5_code: map
+ISO_639_5_code: map
 IETF_language_tag: map
-ISO_639-2_code: map
+ISO_639_2_code: map
 Linguist_List_code: anes
 OmegaWiki_Defined_Meaning: 1639143
 distribution_map:

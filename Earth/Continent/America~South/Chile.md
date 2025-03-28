@@ -48,10 +48,10 @@ GitHub_topic: chile
 Commons_category: Chile
 Commons_gallery: Chile
 hashtag: Chile
-ISO_3166-1_alpha-3_code: CHL
+ISO_3166_1_alpha_3_code: CHL
 ITU_letter_code: CHL
-FIPS_10-4_countries_and_regions_: CI
-ISO_3166-1_alpha-2_code: CL
+FIPS_10_4_countries_and_regions_: CI
+ISO_3166_1_alpha_2_code: CL
 WIPO_ST_3: CL
 Unicode_character: "\U0001F1E8\U0001F1F1"
 PM20_geo_code: E85
@@ -117,7 +117,7 @@ native_label:
 short_name: "\U0001F1E8\U0001F1F1"
 death_rate: 7.199
 birth_rate: 11.755
-number_of_out-of-school_children: 167350
+number_of_out_of_school_children: 167350
 population: 19458000
 area: 756102
 rural_population:
@@ -334,7 +334,7 @@ age_of_majority: 18
 VAT_rate: 19
 mains_voltage: 220
 total_fertility_rate: 1.75
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.cl,39885]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cl,39885]]'
 Gini_coefficient: 44.9
 Happy_Planet_Index_score: 45.6
 trunk_prefix: 0
@@ -346,7 +346,7 @@ BTI_Governance_Index:
 - 7.38
 - 7.51
 - 7.55
-Inequality-adjusted_Human_Development_Index: 0.722
+Inequality_adjusted_Human_Development_Index: 0.722
 Democracy_Index: 7.92
 Human_Development_Index: 0.855
 BTI_Status_Index:
@@ -369,7 +369,7 @@ official_website: "https://www.thisischile.cl/?lang=en"
 country_calling_code: +56
 U_S_National_Archives_Identifier: 10035713
 IAB_code: 1271
-ISO_3166-1_numeric_code: 152
+ISO_3166_1_numeric_code: 152
 M49_code: 152
 Dewey_Decimal_Classification: 2--83
 ---

@@ -102,7 +102,7 @@ inception: "1948-04-07T00:00:00Z"
 has_time_started: "1948-04-07T00:00:00Z"
 NLC_authorities: 000469810
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20WHO.svg"
-Libris-URI: rp35496922hhnr5
+Libris_URI: rp35496922hhnr5
 Mastodon_address: WHO@mstdn.social
 Pinterest_username: worldhealthorganization
 GitHub_username: WorldHealthOrganization

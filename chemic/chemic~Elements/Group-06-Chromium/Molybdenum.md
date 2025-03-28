@@ -47,7 +47,7 @@ vapor_pressure: 0
 electronegativity: 2
 immediately_dangerous_to_life_or_health: 5000
 oxidation_state: 6
-time-weighted_average_exposure_limit: 15
+time_weighted_average_exposure_limit: 15
 tensile_modulus_of_elasticity:
 - 330
 - 329000

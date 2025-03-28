@@ -168,7 +168,7 @@ shares_border_with:
 country: '[[_Standards/WikiData/WD~Lithuania,37]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 capital: '[[_Standards/WikiData/WD~Vilnius,216]]'
-Inequality-adjusted_Human_Development_Index: 0.8
+Inequality_adjusted_Human_Development_Index: 0.8
 birth_rate:
 - 9
 - 7.8
@@ -197,7 +197,7 @@ BTI_Status_Index:
 total_fertility_rate: 1.59
 suicide_rate: 20.2
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Baltic states,39731]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.lt,39900]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.lt,39900]]'
 Gini_coefficient: 35.3
 anthem: "[[_Standards/WikiData/WD~Tautiška giesmė,43978]]"
 Happy_Planet_Index_score: 36.9
@@ -216,9 +216,9 @@ Democracy_Index: 7.13
 Human_Development_Index: 0.875
 UIC_numerical_country_code: 24
 mobile_country_code: 246
-ISO_3166-1_numeric_code: 440
+ISO_3166_1_numeric_code: 440
 M49_code: 440
-number_of_out-of-school_children: 4808
+number_of_out_of_school_children: 4808
 IAB_code: 1342
 maritime_identification_digits: 277
 GS1_country_code: 477
@@ -226,15 +226,15 @@ NUTS_code:
 - LT
 - LT0
 licence_plate_code: LT
-ISO_3166-1_alpha-2_code: LT
+ISO_3166_1_alpha_2_code: LT
 WIPO_ST_3: LT
 UIC_alphabetical_country_code: LT
 OmegaWiki_Defined_Meaning: 7449
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lithuania.svg"
 PM20_geo_code: A61
-FIPS_10-4_countries_and_regions_: LH
+FIPS_10_4_countries_and_regions_: LH
 IOC_country_code: LTU
-ISO_3166-1_alpha-3_code: LTU
+ISO_3166_1_alpha_3_code: LTU
 ITU_letter_code: LTU
 Dewey_Decimal_Classification: 2--4793
 INSEE_countries_and_foreign_territories_code: 99108

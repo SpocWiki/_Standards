@@ -104,7 +104,7 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/AVGUSTIN_SV.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/49853
 Colon_Classification: "Q6:332wD354"
 Image_Archive_Herder_Institute: Q8018
-Libris-URI: qn244qg848hwt8d
+Libris_URI: qn244qg848hwt8d
 name_in_native_language: "Aurelius Augustinus"
 ISNI: 0000000121376443
 ORCID_iD: 0000-0003-2685-9211

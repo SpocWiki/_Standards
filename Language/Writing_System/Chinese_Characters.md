@@ -46,7 +46,7 @@ name:
 - Han
 - "Han (Hanzi, Kanji, Hanja)"
 - "idéogrammes han (sinogrammes)"
-ISO_15924_alpha-4_code: Hani
+ISO_15924_alpha_4_code: Hani
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Chinese-Characters-Distribution.png"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hanzi.svg"
 Commons_gallery: "Chinese character"

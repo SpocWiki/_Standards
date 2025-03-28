@@ -1,5 +1,5 @@
 ﻿---
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.so,126480]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.so,126480]]'
 flag: "[[_Standards/WikiData/WD~flag of Somalia,159538]]"
 member_of:
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -204,11 +204,11 @@ death_rate:
 total_fertility_rate: 6.463
 IAB_code: 1408
 licence_plate_code: SO
-ISO_3166-1_alpha-2_code: SO
+ISO_3166_1_alpha_2_code: SO
 WIPO_ST_3: SO
-FIPS_10-4_countries_and_regions_: SO
+FIPS_10_4_countries_and_regions_: SO
 social_media_followers: 22687
-ISO_3166-1_numeric_code: 706
+ISO_3166_1_numeric_code: 706
 M49_code: 706
 OmegaWiki_Defined_Meaning: 8554
 mobile_country_code: 637
@@ -224,7 +224,7 @@ Unicode_character: "\U0001F1F8\U0001F1F4"
 area: 637657
 INSEE_countries_and_foreign_territories_code: 99318
 PM20_geo_code: C123
-ISO_3166-1_alpha-3_code: SOM
+ISO_3166_1_alpha_3_code: SOM
 ITU_letter_code: SOM
 IOC_country_code: SOM
 urban_population:
@@ -267,7 +267,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Somalia.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav"
 Dewey_Decimal_Classification: 2--6773
-Libris-URI: fcrtt3qz3712wzg
+Libris_URI: fcrtt3qz3712wzg
 Colon_Classification: SG--685
 CIVICUS_Monitor_country_entry: somalia
 GitHub_topic: somalia

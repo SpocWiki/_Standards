@@ -267,7 +267,7 @@ compulsory_education_maximum_age_: 14
 marriageable_age: 16
 age_of_majority: 18
 mains_voltage: 220
-Inequality-adjusted_Human_Development_Index: 0.71
+Inequality_adjusted_Human_Development_Index: 0.71
 BTI_Status_Index:
 - 8.9
 - 9.3
@@ -280,7 +280,7 @@ BTI_Status_Index:
 - 9.33
 suicide_rate: 18.8
 total_fertility_rate: 2.02
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.uy,41848]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.uy,41848]]'
 Gini_coefficient: 40.2
 Happy_Planet_Index_score: 57.5
 BTI_Governance_Index:
@@ -308,10 +308,10 @@ birth_rate:
 - 10.473
 - 10.822
 maritime_identification_digits: 770
-ISO_3166-1_numeric_code: 858
+ISO_3166_1_numeric_code: 858
 M49_code: 858
 aircraft_registration_prefix: CX
-number_of_out-of-school_children: 51499
+number_of_out_of_school_children: 51499
 mobile_country_code: 748
 life_expectancy: 77.493
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg"
@@ -323,8 +323,8 @@ rural_population:
 - 156815
 area: 176215
 licence_plate_code: UY
-ISO_3166-1_alpha-2_code: UY
-FIPS_10-4_countries_and_regions_: UY
+ISO_3166_1_alpha_2_code: UY
+FIPS_10_4_countries_and_regions_: UY
 WIPO_ST_3: UY
 ITU_letter_code: URG
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Uruguay.svg"
@@ -351,7 +351,7 @@ Commons_gallery: Uruguay
 hashtag: Uruguay
 inception: "1825-08-25T00:00:00Z"
 has_time_started: "1825-08-25T00:00:00Z"
-ISO_3166-1_alpha-3_code: URY
+ISO_3166_1_alpha_3_code: URY
 Unicode_character: "\U0001F1FA\U0001F1FE"
 U_S_National_Archives_Identifier: 10035745
 CIVICUS_Monitor_country_entry: uruguay

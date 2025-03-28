@@ -69,7 +69,7 @@ BHCL_UUID: 1ee535de-317b-4b63-affe-315c76aaa517
 date_of_birth: "-0495-01-01T00:00:00Z"
 date_of_death: "-0405-01-01T00:00:00Z"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Sophocles::7322v\"]"
-Libris-URI: hftwxc410z5p0lz
+Libris_URI: hftwxc410z5p0lz
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/SOFOKL.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/63853
 Colon_Classification: O13,2C502

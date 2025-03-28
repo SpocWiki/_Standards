@@ -261,7 +261,7 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Provinces of Iran,5626
 head_of_government: "[[_Standards/WikiData/WD~Masoud Pezeshkian,5933752]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Iran,7112300]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Iran,10815236]]'
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~ایران.,12950808]]'
 - '[[_Standards/WikiData/WD~.ir,41774]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
@@ -402,7 +402,7 @@ BTI_Status_Index:
 Gini_coefficient: 40.9
 Happy_Planet_Index_score: 43.6
 trunk_prefix: 0
-Inequality-adjusted_Human_Development_Index: 0.686
+Inequality_adjusted_Human_Development_Index: 0.686
 Human_Development_Index: 0.774
 head_of_state: "[[_Standards/WikiData/WD~Ali Khamenei,57336]]"
 visitors_per_year: 1654000
@@ -424,7 +424,7 @@ birth_rate:
 maritime_identification_digits: 422
 WOEID: 130758
 M49_code: 364
-ISO_3166-1_numeric_code: 364
+ISO_3166_1_numeric_code: 364
 GS1_country_code: 626
 life_expectancy: 75.953
 social_media_followers: 81025
@@ -432,7 +432,7 @@ OmegaWiki_Defined_Meaning: 5740
 INSEE_countries_and_foreign_territories_code: 99204
 ITU_letter_code: IRN
 UNDP_country_code: IRN
-ISO_3166-1_alpha-3_code: IRN
+ISO_3166_1_alpha_3_code: IRN
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iran.svg"
 hashtag: Iran
 DPLA_subject_term: Iran
@@ -447,7 +447,7 @@ urban_population:
 - 67125144
 - 68013036
 PM20_geo_code: B40
-number_of_out-of-school_children: 1595342
+number_of_out_of_school_children: 1595342
 area: 1648195
 aircraft_registration_prefix:
 - EP
@@ -458,9 +458,9 @@ has_time_started: "1979-04-01T00:00:00Z"
 Baidu_Tieba_name: 伊朗
 WIPO_ST_3: IR
 UIC_alphabetical_country_code: IR
-FIPS_10-4_countries_and_regions_: IR
+FIPS_10_4_countries_and_regions_: IR
 licence_plate_code: IR
-ISO_3166-1_alpha-2_code: IR
+ISO_3166_1_alpha_2_code: IR
 IOC_country_code: IRI
 CIVICUS_Monitor_country_entry: iran
 subreddit: iran

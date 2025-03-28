@@ -36,7 +36,7 @@ BHCL_UUID: 3db1598f-587e-4126-a5b8-a411cffd7543
 Europeana_entity: agent/base/145491
 Google_Doodle: birthday-of-ibn-khaldun
 Krugosvet_article: gumanitarnye_nauki/filosofiya/IBN_HALDUN_VALI_AD-DIN_ABD_AR-RAHMAN_IBN_MUHAMMAD.html
-Libris-URI: wt795rmf4hhldfb
+Libris_URI: wt795rmf4hhldfb
 name_in_native_language: "عبد الرحمٰن بن مُحمَّد بن خلدون الحضرمي"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 topic_s_main_template:

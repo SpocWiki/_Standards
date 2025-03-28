@@ -83,7 +83,7 @@ date_of_death: "1972-04-27T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20National%20Archives%20UK%20-%20CO%201069-50-1.jpg"
 Ghana_Place_Names_URL: "https://sites.google.com/site/ghanaplacenames/places-in-perspective/birthplaces#h.gb1ksetz76dk"
 U_S_National_Archives_Identifier: 134379849
-Libris-URI: dbqt0xmx367xhb1
+Libris_URI: dbqt0xmx367xhb1
 Krugosvet_article: istoriya/NKRUMA_KVAME.html
 Commons_gallery: "Kwame Nkrumah"
 Commons_category: "Kwame Nkrumah"

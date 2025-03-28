@@ -226,7 +226,7 @@ death_rate:
 - 12.3
 - 12.4
 - 15.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mk,41319]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mk,41319]]'
 Happy_Planet_Index_score: 43.9
 trunk_prefix: 0
 Democracy_Index: 5.89
@@ -239,18 +239,18 @@ BTI_Status_Index:
 - 7.37
 - 7.52
 - 7.53
-Inequality-adjusted_Human_Development_Index: 0.686
+Inequality_adjusted_Human_Development_Index: 0.686
 UIC_numerical_country_code: 65
 total_fertility_rate: 1.524
 GS1_country_code: 531
 OmegaWiki_Defined_Meaning: 8361
-FIPS_10-4_countries_and_regions_: MK
+FIPS_10_4_countries_and_regions_: MK
 NUTS_code:
 - MK
 - MK0
 - MK00
 licence_plate_code: MK
-ISO_3166-1_alpha-2_code: MK
+ISO_3166_1_alpha_2_code: MK
 WIPO_ST_3: MK
 UIC_alphabetical_country_code: MK
 unemployment_rate:
@@ -345,11 +345,11 @@ MeSH_tree_code: Z01.542.248.750
 coordinates_of_easternmost_point: "Point(23.03405464 41.70938891)"
 capital: '[[_Standards/WikiData/WD~Skopje,384]]'
 mobile_country_code: 294
-ISO_3166-1_numeric_code: 807
+ISO_3166_1_numeric_code: 807
 M49_code: 807
 area: 25713
 IAB_code: 1437
-number_of_out-of-school_children: 48258
+number_of_out_of_school_children: 48258
 CIVICUS_Monitor_country_entry: macedonia
 subreddit:
 - macedonia
@@ -396,7 +396,7 @@ urban_population:
 population: 1836713
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Macedonia.svg"
 IOC_country_code: MKD
-ISO_3166-1_alpha-3_code: MKD
+ISO_3166_1_alpha_3_code: MKD
 ITU_letter_code: MKD
 Commons_category: "North Macedonia"
 Commons_gallery: "Северна Македонија"

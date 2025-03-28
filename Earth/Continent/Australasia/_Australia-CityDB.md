@@ -1,8 +1,7 @@
 ﻿---
-database-plugin: basic
-
-
+database_plugin: basic
 ---
+
 ```yaml:dbfolder
 name: Cities
 description: Prominent Cities around the World

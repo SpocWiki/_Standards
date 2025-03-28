@@ -216,9 +216,9 @@ BTI_Status_Index:
 - 5.76
 - 5.78
 - 5.89
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ke,42695]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ke,42695]]'
 Gini_coefficient: 40.8
-Inequality-adjusted_Human_Development_Index: 0.426
+Inequality_adjusted_Human_Development_Index: 0.426
 Happy_Planet_Index_score: 45.2
 trunk_prefix: 0
 Democracy_Index: 5.05
@@ -236,11 +236,11 @@ birth_rate:
 - 27.998
 total_fertility_rate: 4.334
 M49_code: 404
-ISO_3166-1_numeric_code: 404
+ISO_3166_1_numeric_code: 404
 GS1_country_code: 616
-ISO_3166-1_alpha-2_code: KE
+ISO_3166_1_alpha_2_code: KE
 WIPO_ST_3: KE
-FIPS_10-4_countries_and_regions_: KE
+FIPS_10_4_countries_and_regions_: KE
 mobile_country_code: 639
 IAB_code: 1332
 OmegaWiki_Defined_Meaning: 7985
@@ -322,7 +322,7 @@ subreddit: Kenya
 Commons_gallery: Kenya
 Colon_Classification: SG--687
 Krugosvet_article: strany-mira/keniya
-Libris-URI: tr576w8c4mr916b
+Libris_URI: tr576w8c4mr916b
 motto_text:
 - "Cenia Lledrithiol"
 - "Magical Kenya"
@@ -345,8 +345,8 @@ urban_population:
 - 14015215
 - 14553419
 - 15669052
-number_of_out-of-school_children: 1999614
-ISO_3166-1_alpha-3_code: KEN
+number_of_out_of_school_children: 1999614
+ISO_3166_1_alpha_3_code: KEN
 ITU_letter_code: KEN
 IOC_country_code: KEN
 CIVICUS_Monitor_country_entry: kenya

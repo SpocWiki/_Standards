@@ -40,7 +40,7 @@ winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Field-with-snow
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Snowing%20video%20samye%20ling%201.ogv"
 Unicode_character: ⁎
 U_S_National_Archives_Identifier: 10644069
-IHO_Hydrographic_Dictionary_S-32_Number: 4834
+IHO_Hydrographic_Dictionary_S_32_Number: 4834
 Commons_gallery: Snow
 Commons_category: Snow
 ---

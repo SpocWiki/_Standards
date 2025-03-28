@@ -182,15 +182,15 @@ death_rate:
 - 2.777
 - 2.858
 - 3.001
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mv,43753]]'
-Inequality-adjusted_Human_Development_Index: 0.594
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mv,43753]]'
+Inequality_adjusted_Human_Development_Index: 0.594
 Human_Development_Index: 0.747
 literacy_rate: 97.7
 mobile_country_code: 472
-ISO_3166-1_numeric_code: 462
+ISO_3166_1_numeric_code: 462
 M49_code: 462
 maritime_identification_digits: 455
-number_of_out-of-school_children: 8537
+number_of_out_of_school_children: 8537
 birth_rate:
 - 13.638
 - 14.088
@@ -223,10 +223,10 @@ rural_population:
 - 306227
 - 307128
 IOC_country_code: MDV
-ISO_3166-1_alpha-3_code: MDV
+ISO_3166_1_alpha_3_code: MDV
 INSEE_countries_and_foreign_territories_code: 99229
-FIPS_10-4_countries_and_regions_: MV
-ISO_3166-1_alpha-2_code: MV
+FIPS_10_4_countries_and_regions_: MV
+ISO_3166_1_alpha_2_code: MV
 WIPO_ST_3: MV
 inception:
 - "1968-11-11T00:00:00Z"

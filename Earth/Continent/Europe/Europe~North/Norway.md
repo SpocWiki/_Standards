@@ -358,7 +358,7 @@ death_rate:
 - 7.6
 - 7.8
 - 8.4
-Inequality-adjusted_Human_Development_Index: 0.91
+Inequality_adjusted_Human_Development_Index: 0.91
 birth_rate:
 - 9.4
 - 9.8
@@ -366,7 +366,7 @@ birth_rate:
 - 10.4
 suicide_rate: 11.8
 total_fertility_rate: 1.78
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.no,41060]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.no,41060]]'
 Gini_coefficient: 27.7
 lowest_point: "[[_Standards/WikiData/WD~Norwegian Sea,47545]]"
 Happy_Planet_Index_score: 50.9
@@ -377,18 +377,18 @@ maritime_identification_digits:
 - 259
 - 257
 - 258
-ISO_3166-1_numeric_code: 578
+ISO_3166_1_numeric_code: 578
 M49_code: 578
 UIC_alphabetical_country_code: N
 licence_plate_code: N
 mobile_country_code: 242
-FIPS_10-4_countries_and_regions_: NO
-ISO_3166-1_alpha-2_code: NO
+FIPS_10_4_countries_and_regions_: NO
+ISO_3166_1_alpha_2_code: NO
 NUTS_code:
 - NO
 - NO0
 WIPO_ST_3: NO
-number_of_out-of-school_children: 18627
+number_of_out_of_school_children: 18627
 annual_number_of_weddings:
 - 22111
 - 22537
@@ -408,7 +408,7 @@ hashtag: Norway
 area: 385207
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg"
 IOC_country_code: NOR
-ISO_3166-1_alpha-3_code: NOR
+ISO_3166_1_alpha_3_code: NOR
 ITU_letter_code: NOR
 INSEE_countries_and_foreign_territories_code: 99103
 rural_population:

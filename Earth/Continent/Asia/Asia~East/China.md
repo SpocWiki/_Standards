@@ -644,7 +644,7 @@ replaces:
 - "[[_Standards/WikiData/WD~Kingdom Shunzheng,15905301]]"
 - '[[_Standards/WikiData/WD~Q15909533,15909533]]'
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Premier of the People's Republic of China,4122271]]"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.公司,4222408]]'
 - '[[_Standards/WikiData/WD~.中国,11837308]]'
 - '[[_Standards/WikiData/WD~.中國,11837483]]'
@@ -802,7 +802,7 @@ BHCL_UUID: 10354a7b-3da5-4479-b072-e5a95d9348fe
 IAB_code: 1272
 OmegaWiki_Defined_Meaning: 155279
 M49_code: 156
-ISO_3166-1_numeric_code: 156
+ISO_3166_1_numeric_code: 156
 Dewey_Decimal_Classification: 2--51
 Provenio_UUID: 25f94552-1184-4beb-83ca-f32d13c743a2
 UIC_numerical_country_code: 33
@@ -815,21 +815,21 @@ GS1_country_code: 690-699
 INSEE_countries_and_foreign_territories_code: 99216
 Wikitribune_category: asia/china
 PM20_geo_code: B94
-FIPS_10-4_countries_and_regions_: CH
+FIPS_10_4_countries_and_regions_: CH
 GitHub_topic: china
 CIVICUS_Monitor_country_entry: china
 hashtag: China
 subreddit: China
 Commons_category: China
 ITU_letter_code: CHN
-ISO_3166-1_alpha-3_code: CHN
+ISO_3166_1_alpha_3_code: CHN
 IOC_country_code: CHN
 WIPO_ST_3: CN
-ISO_3166-1_alpha-2_code: CN
+ISO_3166_1_alpha_2_code: CN
 Unicode_character: "\U0001F1E8\U0001F1F3"
 Library_of_Congress_Classification: DS777.545-DS779.32
 Wolfram_Language_entity_code: "Entity[\"Country\", \"China\"]"
-Libris-URI: khwzxm2321g72mt
+Libris_URI: khwzxm2321g72mt
 UIC_alphabetical_country_code: RC
 licence_plate_code: RC
 Colon_Classification: SG--41
@@ -893,7 +893,7 @@ demonym:
 - شينويات
 - Kitajec
 - Síneach
-Inequality-adjusted_Human_Development_Index: 0.651
+Inequality_adjusted_Human_Development_Index: 0.651
 birth_rate: 6.77
 death_rate: 7.37
 Human_Development_Index: 0.768

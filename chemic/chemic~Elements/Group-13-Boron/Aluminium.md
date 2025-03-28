@@ -48,7 +48,7 @@ history_of_topic: "[[_Standards/WikiData/WD~history of aluminium,43884467]]"
 UMLS_CUI: C0002367
 mass: 26.9815384
 vapor_pressure: 0
-time-weighted_average_exposure_limit:
+time_weighted_average_exposure_limit:
 - 10
 - 20
 - 2

@@ -96,7 +96,7 @@ Krugosvet_article: istoriya/ATATYURK_MUSTAFA_KEMAL.html
 Commons_Creator_page: "Mustafa Kemal Atatürk"
 Commons_gallery: "Mustafa Kemal Atatürk"
 Commons_category: "Mustafa Kemal Atatürk"
-Libris-URI: vs688wtd0q3f7sf
+Libris_URI: vs688wtd0q3f7sf
 birth_name: "Ali Rıza oğlu Mustafa"
 date_of_birth: "1881-01-01T00:00:00Z"
 nickname:

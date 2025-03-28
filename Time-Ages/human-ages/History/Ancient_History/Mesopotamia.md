@@ -45,7 +45,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mesopotamia%20B
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Spread%20of%20Oecumene%20Mesopotamia.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20Gudea%20Met%2059.2.jpg"
 Stack_Exchange_tag: "https://history.stackexchange.com/tags/mesopotamia"
-Libris-URI: fcrtsnzz50p6171
+Libris_URI: fcrtsnzz50p6171
 ---
 
 ## #has_/text_of_/abstract 

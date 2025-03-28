@@ -48,7 +48,7 @@ exact_match: "http://wordnet-rdf.princeton.edu/wn30/04536866-n"
 Krugosvet_article: kultura_i_obrazovanie/muzyka/SKRIPKA.html
 Colon_Classification: NR;32
 Baidu_Tieba_name: 小提琴
-Hornbostel-Sachs_classification: 321.322-71
+Hornbostel_Sachs_classification: 321.322-71
 Nomenclature_for_Museum_Cataloging: 10790
 ---
 

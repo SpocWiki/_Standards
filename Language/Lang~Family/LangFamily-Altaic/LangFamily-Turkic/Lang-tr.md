@@ -76,7 +76,7 @@ Stack_Exchange_tag:
 described_at_URL:
 - "https://turkic.elegantlexicon.com/lx.php?lx=tur"
 - "https://afbo.info/languages/81"
-Libris-URI: qn2431n85jhb0r6
+Libris_URI: qn2431n85jhb0r6
 studied_in: '[[_Standards/WikiData/WD~Turkology,8427]]'
 country:
 - "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
@@ -86,7 +86,7 @@ country:
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 Wikimedia_language_code: tr
 IETF_language_tag: tr
-ISO_639-1_code: tr
+ISO_639_1_code: tr
 POSIX_locale_identifier: tr
 IAB_code: 1195
 OmegaWiki_Defined_Meaning: 6296
@@ -94,8 +94,8 @@ number_of_speakers_writers_or_signers:
 - 5870300
 - 82231620
 ABS_ASCL_2011_code: 4301
-ISO_639-3_code: tur
-ISO_639-2_code: tur
+ISO_639_3_code: tur
+ISO_639_2_code: tur
 Ethnologue_com_language_code: tur
 WALS_lect_code: tur
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Turkish%20alphabet.svg"

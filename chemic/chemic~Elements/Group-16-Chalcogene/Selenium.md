@@ -49,7 +49,7 @@ oxidation_state:
 - 6
 vapor_pressure: 0
 immediately_dangerous_to_life_or_health: 1
-time-weighted_average_exposure_limit: 0.2
+time_weighted_average_exposure_limit: 0.2
 ionic_radius:
 - 0.5
 - 0.28

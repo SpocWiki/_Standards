@@ -62,7 +62,7 @@ Iconclass_notation: "84(ONE THOUSAND AND ONE NIGHTS)"
 Krugosvet_article: kultura_i_obrazovanie/literatura/TISYACHA_I_ODNA_NOCH.html
 vocalized_name: "أَلْفُ لَيْلَةٍ وَلَيْلَة"
 Library_of_Congress_Classification: PJ7711-PJ7737
-Libris-URI: dbqsrzjx2rsdczl
+Libris_URI: dbqsrzjx2rsdczl
 language_of_work_or_name: '[[_Standards/WikiData/WD~Arabic,13955]]'
 copyright_status: "[[_Standards/WikiData/WD~public domain,19652]]"
 country_of_origin: "[[_Standards/WikiData/WD~Near East,48214]]"

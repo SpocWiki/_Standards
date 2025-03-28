@@ -10,7 +10,7 @@ exact_match:
 - "http://purl.obolibrary.org/obo/DOID_4"
 - "http://www.orpha.net/ORDO/Orphanet_377788"
 Iconclass_notation: 31A46
-ICD-9-CM: 799.9
+ICD_9_CM: 799.9
 UMLS_CUI: C0012634
 MeSH_tree_code: C23.550.288
 APA_Dictionary_of_Psychology_entry: disease

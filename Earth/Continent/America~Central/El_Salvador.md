@@ -141,9 +141,9 @@ demonym:
 ISNI: 0000000123752529
 GS1_country_code: 741
 licence_plate_code: ES
-FIPS_10-4_countries_and_regions_: ES
+FIPS_10_4_countries_and_regions_: ES
 life_expectancy: 73.512
-ISO_3166-1_alpha-2_code: SV
+ISO_3166_1_alpha_2_code: SV
 WIPO_ST_3: SV
 OmegaWiki_Defined_Meaning: 7865
 rural_population:
@@ -151,7 +151,7 @@ rural_population:
 - 1598862
 - 1634233
 - 1671098
-number_of_out-of-school_children: 172164
+number_of_out_of_school_children: 172164
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20El%20Salvador.svg"
 male_population:
 - 2997430
@@ -175,7 +175,7 @@ female_population:
 - 3307476
 - 3319856
 - 3295300
-ISO_3166-1_alpha-3_code: SLV
+ISO_3166_1_alpha_3_code: SLV
 ITU_letter_code: SLV
 PM20_geo_code: E66
 population: 6029976
@@ -267,9 +267,9 @@ BTI_Governance_Index:
 - 6.84
 mains_voltage: 115
 suicide_rate: 13.7
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.sv,42665]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sv,42665]]'
 Gini_coefficient: 38.3
-Inequality-adjusted_Human_Development_Index: 0.548
+Inequality_adjusted_Human_Development_Index: 0.548
 Happy_Planet_Index_score: 56.3
 Human_Development_Index: 0.675
 maritime_identification_digits: 359
@@ -285,7 +285,7 @@ birth_rate:
 - 16.188
 - 16.416
 area: 20742
-ISO_3166-1_numeric_code: 222
+ISO_3166_1_numeric_code: 222
 M49_code: 222
 mobile_country_code: 706
 IAB_code: 1287

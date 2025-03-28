@@ -137,7 +137,7 @@ MeSH_tree_code:
 - C10.228.140.380.100
 - C10.574.945.249
 - F03.615.400.100
-ICD-10-CM:
+ICD_10_CM:
 - G30.9
 - G30
 Krugosvet_article: medicina/ALTSGEMERA_BOLEZN.html
@@ -147,12 +147,12 @@ spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%AC%D6%81%D5%B0%D5%A1%D5%B5%D5%B4%D5%A5%D6%80%D5%AB%20%D5%B0%D5%AB%D5%BE%D5%A1%D5%B6%D5%A4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Alzheimer%27s%20disease%29.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer%27s%20Disease.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ziekte%20van%20Alzheimer-article.ogg"
-Libris-URI: nl025r261zzdcw3
+Libris_URI: nl025r261zzdcw3
 prevalence: 0.0505
 DiseasesDB: 490
 social_media_followers: 12071
 Commons_category: "Alzheimer's disease"
-ICD-9-CM:
+ICD_9_CM:
 - 290.1
 - 331.0
 schematic:

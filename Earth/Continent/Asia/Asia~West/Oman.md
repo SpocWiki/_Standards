@@ -190,7 +190,7 @@ BTI_Status_Index:
 - 5.41
 - 5.53
 suicide_rate: 4.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.om,43132]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.om,43132]]'
 BTI_Governance_Index:
 - 3.52
 - 3.54
@@ -200,7 +200,7 @@ BTI_Governance_Index:
 - 4.51
 - 4.58
 - 4.79
-Inequality-adjusted_Human_Development_Index: 0.708
+Inequality_adjusted_Human_Development_Index: 0.708
 Human_Development_Index: 0.816
 death_rate:
 - 2.205
@@ -210,7 +210,7 @@ death_rate:
 total_fertility_rate: 2.774
 area: 309500
 maritime_identification_digits: 461
-ISO_3166-1_numeric_code: 512
+ISO_3166_1_numeric_code: 512
 M49_code: 512
 mobile_country_code: 422
 birth_rate:
@@ -218,7 +218,7 @@ birth_rate:
 - 18.419
 - 18.791
 - 19.298
-number_of_out-of-school_children: 22215
+number_of_out_of_school_children: 22215
 IAB_code: 1373
 CIVICUS_Monitor_country_entry: oman
 GitHub_topic: oman
@@ -228,7 +228,7 @@ official_name: "سلطنة عُمان"
 native_label: "سلطنة عُمان"
 short_name: "\U0001F1F4\U0001F1F2"
 life_expectancy: 77.029
-FIPS_10-4_countries_and_regions_: MU
+FIPS_10_4_countries_and_regions_: MU
 OmegaWiki_Defined_Meaning: 8080
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oman.svg"
 IOC_country_code: OMA
@@ -242,7 +242,7 @@ rural_population:
 - 670025
 inception: "1970-07-23T00:00:00Z"
 has_time_started: "1970-07-23T00:00:00Z"
-ISO_3166-1_alpha-3_code: OMN
+ISO_3166_1_alpha_3_code: OMN
 female_population:
 - 1678067
 - 1722614
@@ -262,7 +262,7 @@ urban_population:
 - 3934799
 - 4015701
 coordinates_of_northernmost_point: "Point(56.38 26.38)"
-ISO_3166-1_alpha-2_code: OM
+ISO_3166_1_alpha_2_code: OM
 WIPO_ST_3: OM
 INSEE_countries_and_foreign_territories_code: 99250
 coordinate_location: "Point(57.0 21.0)"

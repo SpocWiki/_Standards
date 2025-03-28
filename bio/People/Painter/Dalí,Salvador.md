@@ -163,7 +163,7 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Salvad
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Salvador%20Dali%20Crypt%20in%20Figueres.jpg"
 official_website: "http://www.salvador-dali.org/"
 RIA_Novosti_reference: 39964396
-Libris-URI: 53hkkgbp4h22cm8
+Libris_URI: 53hkkgbp4h22cm8
 BHCL_UUID: 72e0cd18-3b76-4738-8d5d-a76100f35fd4
 Europeana_entity: agent/base/53397
 Provenio_UUID: bd0058d8-8144-484a-80a8-19f347e6b33a

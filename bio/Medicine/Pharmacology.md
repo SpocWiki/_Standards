@@ -37,7 +37,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Pharmacology,13099509]
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
 UMLS_CUI: C0031330
 OmegaWiki_Defined_Meaning: 2770
-All-Science_Journal_Classification_Codes: 3004
+All_Science_Journal_Classification_Codes: 3004
 Commons_category: Pharmacology
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pharmacologyprism.jpg"
 Basisklassifikation: 44.38

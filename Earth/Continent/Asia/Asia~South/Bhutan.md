@@ -118,7 +118,7 @@ name: ꠜꠥꠐꠣꠘ
 CIVICUS_Monitor_country_entry: bhutan
 subreddit: bhutan
 Unicode_character: "\U0001F1E7\U0001F1F9"
-Libris-URI: dbqsr4cx3v97mcz
+Libris_URI: dbqsr4cx3v97mcz
 Krugosvet_article: strany_mira/BUTAN.html
 Gujarati_Vishwakosh_entry: ભુતાન
 demonym:
@@ -175,10 +175,10 @@ death_rate:
 - 6.545
 - 6.626
 IAB_code: 1253
-ISO_3166-1_alpha-2_code: BT
-FIPS_10-4_countries_and_regions_: BT
+ISO_3166_1_alpha_2_code: BT
+FIPS_10_4_countries_and_regions_: BT
 WIPO_ST_3: BT
-number_of_out-of-school_children: 30548
+number_of_out_of_school_children: 30548
 mobile_country_code: 402
 area: 38394
 OmegaWiki_Defined_Meaning: 8304
@@ -186,14 +186,14 @@ median_income: 115787
 urban_population: 311994
 female_population: 365518
 male_population: 397731
-ISO_3166-1_numeric_code: 064
+ISO_3166_1_numeric_code: 064
 M49_code: 064
 rural_population: 451255
 INSEE_countries_and_foreign_territories_code: 99214
 Dewey_Decimal_Classification: 2--5498
 U_S_National_Archives_Identifier: 10046439
 population: 787424
-ISO_3166-1_alpha-3_code: BTN
+ISO_3166_1_alpha_3_code: BTN
 ITU_letter_code: BTN
 PM20_geo_code: B56
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Bhutan.svg"
@@ -272,11 +272,11 @@ BTI_Governance_Index:
 - 6.67
 - 6.69
 suicide_rate: 11.4
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bt,40001]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bt,40001]]'
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
 Happy_Planet_Index_score: 36.7
 Gini_coefficient: 37.4
-Inequality-adjusted_Human_Development_Index: 0.471
+Inequality_adjusted_Human_Development_Index: 0.471
 Democracy_Index: 5.71
 Human_Development_Index: 0.666
 life_expectancy: 71.5

@@ -170,7 +170,7 @@ Commons_category: "Diego Velázquez"
 Commons_Creator_page: "Diego Velázquez"
 Royal_Academy_new_identifier: diego-velazquez
 Google_Doodle: diego-velazquezs-birthday
-Libris-URI: jgvxzq125htnbx4
+Libris_URI: jgvxzq125htnbx4
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/VELASKES_RODRIGES_DIEGO_DE_SILVA-I-VELASKES.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/29527
 birth_name: "Diego Rodríguez de Silva y Velázquez"

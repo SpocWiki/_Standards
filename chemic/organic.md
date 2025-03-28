@@ -25,7 +25,7 @@ UMLS_CUI: C0008002
 part_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 opposite_of: "[[_Standards/WikiData/WD~inorganic chemistry,11165]]"
-All-Science_Journal_Classification_Codes: 1605
+All_Science_Journal_Classification_Codes: 1605
 Universal_Decimal_Classification: 547
 Dewey_Decimal_Classification: 547
 OmegaWiki_Defined_Meaning: 2662

@@ -316,7 +316,7 @@ described_at_URL:
 - "https://www.arthistoricum.net/themen/wvz/albrecht-duerer/digi-literatur"
 NLC_authorities: 000132148
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/DYURER_ALBREHT.html
-Libris-URI: nl0220v60d965hr
+Libris_URI: nl0220v60d965hr
 name_in_native_language: "Albrecht Dürer"
 name: "Albert Durer"
 date_of_death: "1528-04-16T00:00:00Z"

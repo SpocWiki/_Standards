@@ -242,7 +242,7 @@ BTI_Governance_Index:
 - 4.62
 literacy_rate: 43
 suicide_rate: 4.7
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.af,37407]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.af,37407]]'
 Gini_coefficient: 27.8
 BTI_Status_Index:
 - 2.81
@@ -254,11 +254,11 @@ BTI_Status_Index:
 - 3.14
 - 3.21
 Happy_Planet_Index_score: 29.4
-Inequality-adjusted_Human_Development_Index: 0.323
+Inequality_adjusted_Human_Development_Index: 0.323
 Human_Development_Index: 0.478
 trunk_prefix: 0
 M49_code: 004
-ISO_3166-1_numeric_code: 004
+ISO_3166_1_numeric_code: 004
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 mobile_country_code: 412
 social_media_followers: 84600
@@ -390,19 +390,19 @@ OmegaWiki_Defined_Meaning: 5753
 life_expectancy: 63.673
 area: 652230
 IAB_code: 1229
-FIPS_10-4_countries_and_regions_: AF
-ISO_3166-1_alpha-2_code: AF
+FIPS_10_4_countries_and_regions_: AF
+ISO_3166_1_alpha_2_code: AF
 WIPO_ST_3: AF
 IOC_country_code: AFG
 licence_plate_code: AFG
-ISO_3166-1_alpha-3_code: AFG
+ISO_3166_1_alpha_3_code: AFG
 INSEE_countries_and_foreign_territories_code: 99212
 female_population:
 - 19279930
 - 18679089
 - 19844584
 - 20362329
-number_of_out-of-school_children: 2941796
+number_of_out_of_school_children: 2941796
 rural_population:
 - 29547690
 - 28042342
@@ -444,7 +444,7 @@ Unicode_character: "\U0001F1E6\U0001F1EB"
 GitHub_topic: afghanistan
 CIVICUS_Monitor_country_entry: afghanistan
 subreddit: afghanistan
-Libris-URI: hftwv5d13fdgp13
+Libris_URI: hftwv5d13fdgp13
 Colon_Classification: SG--491
 Krugosvet_article: strany-mira/afganistan
 Commons_gallery: افغانستان

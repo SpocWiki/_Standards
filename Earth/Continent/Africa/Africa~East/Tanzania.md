@@ -325,9 +325,9 @@ BTI_Status_Index:
 - 5.58
 - 5.65
 - 5.84
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tz,43159]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tz,43159]]'
 Gini_coefficient: 40.5
-Inequality-adjusted_Human_Development_Index: 0.418
+Inequality_adjusted_Human_Development_Index: 0.418
 BTI_Governance_Index:
 - 4.43
 - 4.47
@@ -354,7 +354,7 @@ death_rate:
 maritime_identification_digits:
 - 674
 - 677
-ISO_3166-1_numeric_code: 834
+ISO_3166_1_numeric_code: 834
 M49_code: 834
 OmegaWiki_Defined_Meaning: 8004
 IAB_code: 1468
@@ -377,8 +377,8 @@ has_time_started: "1964-04-26T00:00:00Z"
 hashtag: Tanzania
 Commons_gallery: Tanzania
 Commons_category: Tanzania
-FIPS_10-4_countries_and_regions_: TZ
-ISO_3166-1_alpha-2_code: TZ
+FIPS_10_4_countries_and_regions_: TZ
+ISO_3166_1_alpha_2_code: TZ
 WIPO_ST_3: TZ
 Unicode_character: "\U0001F1F9\U0001F1FF"
 MeSH_tree_code: Z01.058.290.120.840
@@ -418,12 +418,12 @@ pronunciation_audio:
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tanzania%20Wikivoyage%20banner.jpg"
 official_website: "https://www.tanzania.go.tz/"
 country_calling_code: +255
-Libris-URI: fcrtstdz0wc8wwx
+Libris_URI: fcrtstdz0wc8wwx
 Krugosvet_article: strany_mira/TANZANIYA.html
 CIVICUS_Monitor_country_entry: tanzania
 subreddit: tanzania
 GitHub_topic: tanzania
-ISO_3166-1_alpha-3_code: TZA
+ISO_3166_1_alpha_3_code: TZA
 ITU_letter_code: TZA
 has_id_wikidata: Q924
 location:

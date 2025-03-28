@@ -169,7 +169,7 @@ demonym:
 - Mozambikänan
 - 莫桑比克人
 - Mozambican
-Libris-URI: hftwvqh11khjtp0
+Libris_URI: hftwvqh11khjtp0
 ISNI: 0000000121581519
 MeSH_tree_code: Z01.058.290.175.545
 motto_text:
@@ -212,7 +212,7 @@ capital: '[[_Standards/WikiData/WD~Maputo,3889]]'
 official_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern Africa,27394]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-Inequality-adjusted_Human_Development_Index: 0.3
+Inequality_adjusted_Human_Development_Index: 0.3
 BTI_Governance_Index:
 - 5
 - 4.21
@@ -239,7 +239,7 @@ BTI_Status_Index:
 - 5.56
 - 5.71
 - 6.01
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mz,43131]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mz,43131]]'
 Democracy_Index: 3.51
 Happy_Planet_Index_score: 44.2
 Human_Development_Index: 0.446
@@ -250,7 +250,7 @@ death_rate:
 - 8.793
 mobile_country_code: 643
 M49_code: 508
-ISO_3166-1_numeric_code: 508
+ISO_3166_1_numeric_code: 508
 total_fertility_rate: 5.359
 maritime_identification_digits: 650
 birth_rate:
@@ -263,8 +263,8 @@ OmegaWiki_Defined_Meaning: 8371
 life_expectancy: 58.311
 area: 801590
 WIPO_ST_3: MZ
-FIPS_10-4_countries_and_regions_: MZ
-ISO_3166-1_alpha-2_code: MZ
+FIPS_10_4_countries_and_regions_: MZ
+ISO_3166_1_alpha_2_code: MZ
 INSEE_countries_and_foreign_territories_code: 99393
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mozambique.svg"
 subreddit: Mozambique
@@ -281,12 +281,12 @@ female_population:
 - 16339849
 - 16793302
 PM20_geo_code: C100
-number_of_out-of-school_children: 2405631
+number_of_out_of_school_children: 2405631
 inception: "1975-06-25T00:00:00Z"
 has_time_started: "1975-06-25T00:00:00Z"
 IOC_country_code: MOZ
 ITU_letter_code: MOZ
-ISO_3166-1_alpha-3_code: MOZ
+ISO_3166_1_alpha_3_code: MOZ
 Colon_Classification: SG--612
 Krugosvet_article: strany_mira/MOZAMBIK.html
 native_label: "República de Moçambique"

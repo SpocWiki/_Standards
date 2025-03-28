@@ -205,22 +205,22 @@ described_at_URL: "https://afbo.info/languages/102"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5885%20%28tam%29-Sriveenkat-%E0%AE%89%E0%AE%B0%E0%AF%81%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D.wav"
 Universal_Decimal_Classification: 811.161.1
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolay%20Nasedkin%20video%201.ogv"
-Libris-URI: sq4656db00td7wg
+Libris_URI: sq4656db00td7wg
 writing_system: "[[_Standards/WikiData/WD~Cyrillic script,8209]]"
 country: '[[_Standards/WikiData/WD~Russia,159]]'
 number_of_speakers_writers_or_signers: 154000000
 indigenous_to: '[[_Standards/WikiData/WD~Russians,49542]]'
 Wikimedia_language_code: ru
 IETF_language_tag: ru
-ISO_639-1_code: ru
+ISO_639_1_code: ru
 POSIX_locale_identifier: ru
 ABS_ASCL_2011_code: 3402
 IAB_code: 1166
 OmegaWiki_Defined_Meaning: 6092
 Ethnologue_com_language_code: rus
 WALS_lect_code: rus
-ISO_639-3_code: rus
-ISO_639-2_code: rus
+ISO_639_3_code: rus
+ISO_639_2_code: rus
 native_label: "русский язык"
 ---
 

@@ -124,7 +124,7 @@ Human_Development_Index: 0.74
 suicide_rate: 7.7
 life_expectancy: 78
 total_fertility_rate: 2.21
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ec,41113]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ec,41113]]'
 BTI_Governance_Index:
 - 3.66
 - 3.73
@@ -137,7 +137,7 @@ BTI_Governance_Index:
 - 5.22
 Gini_coefficient: 47.3
 death_rate: 4.85
-ISO_3166-1_numeric_code: 218
+ISO_3166_1_numeric_code: 218
 M49_code: 218
 BTI_Status_Index:
 - 5.39
@@ -154,7 +154,7 @@ basic_form_of_government:
 - '[[_Standards/WikiData/WD~republic,7270]]'
 Democracy_Index: 5.71
 Happy_Planet_Index_score: 58.8
-Inequality-adjusted_Human_Development_Index: 0.604
+Inequality_adjusted_Human_Development_Index: 0.604
 IAB_code: 1285
 birth_rate: 16.583
 mobile_country_code: 740
@@ -163,7 +163,7 @@ maritime_identification_digits: 735
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg"
 Unicode_character: "\U0001F1EA\U0001F1E8"
 OmegaWiki_Defined_Meaning: 8349
-number_of_out-of-school_children: 225277
+number_of_out_of_school_children: 225277
 short_name:
 - ECU
 - Ecuador
@@ -197,7 +197,7 @@ short_name:
 - Эквадор
 - אקוודור
 INSEE_countries_and_foreign_territories_code: 99420
-ISO_3166-1_alpha-3_code: ECU
+ISO_3166_1_alpha_3_code: ECU
 IOC_country_code: ECU
 official_name:
 - Ecuador
@@ -232,9 +232,9 @@ Commons_category: Ecuador
 hashtag: Ecuador
 Commons_gallery: Ecuador
 licence_plate_code: EC
-ISO_3166-1_alpha-2_code: EC
+ISO_3166_1_alpha_2_code: EC
 WIPO_ST_3: EC
-FIPS_10-4_countries_and_regions_: EC
+FIPS_10_4_countries_and_regions_: EC
 executive_body: "[[_Standards/WikiData/WD~Government of Ecuador,55645704]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Pacific_Galapagos,63286095]]'
@@ -335,7 +335,7 @@ marriageable_age: 18
 IPA_transcription: "ɛkʋɑ'doːɾ"
 Colon_Classification: SG--79163
 Krugosvet_article: strany_mira/EKVADOR.html
-Libris-URI: wt798q8f27vk3cx
+Libris_URI: wt798q8f27vk3cx
 MeSH_tree_code: Z01.107.757.362
 Baidu_Tieba_name: 厄瓜多尔
 native_label: "República del Ecuador"

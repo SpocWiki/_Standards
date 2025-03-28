@@ -9,7 +9,7 @@ Regensburg_Classification:
 - "DD 8060"
 - "GG 6811"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Luther::76ds9\"]"
-Libris-URI: gdsvw6004fh3pt0
+Libris_URI: gdsvw6004fh3pt0
 Krugosvet_article: kultura_i_obrazovanie/religiya/LYUTER_MARTIN.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/48067
 Commons_category: "Martin Luther"

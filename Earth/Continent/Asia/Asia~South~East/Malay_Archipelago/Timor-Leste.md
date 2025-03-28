@@ -129,9 +129,9 @@ flag: "[[_Standards/WikiData/WD~flag of East Timor,30768]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 marriageable_age: 17
 mains_voltage: 220
-Inequality-adjusted_Human_Development_Index: 0.44
+Inequality_adjusted_Human_Development_Index: 0.44
 Gini_coefficient: 28.7
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tl,43153]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tl,43153]]'
 total_fertility_rate: 3.98
 maritime_identification_digits: 550
 BTI_Governance_Index:
@@ -145,20 +145,20 @@ Democracy_Index: 7.06
 death_rate: 6.535
 mobile_country_code: 514
 birth_rate: 24.611
-number_of_out-of-school_children: 33004
-ISO_3166-1_numeric_code: 626
+number_of_out_of_school_children: 33004
+ISO_3166_1_numeric_code: 626
 M49_code: 626
 IAB_code: 1456
 life_expectancy: 68.881
 INSEE_countries_and_foreign_territories_code: 99262
-FIPS_10-4_countries_and_regions_: TT
+FIPS_10_4_countries_and_regions_: TT
 OmegaWiki_Defined_Meaning: 8538
 ITU_letter_code: TLS
-ISO_3166-1_alpha-3_code: TLS
+ISO_3166_1_alpha_3_code: TLS
 IOC_country_code: TLS
 WIPO_ST_3: TL
 licence_plate_code: TL
-ISO_3166-1_alpha-2_code: TL
+ISO_3166_1_alpha_2_code: TL
 urban_population:
 - 396257
 - 407158
@@ -242,7 +242,7 @@ nominal_GDP:
 - 3163324631
 - 3621222400
 Unicode_character: "\U0001F1F9\U0001F1F1"
-ISO_3166-3: TPTL
+ISO_3166_3: TPTL
 MeSH_tree_code: Z01.252.145.900
 official_name:
 - "République démocratique du Timor oriental"
@@ -288,7 +288,7 @@ country_calling_code: +670
 U_S_National_Archives_Identifier: 10044822
 Dewey_Decimal_Classification: 2--5987
 hashtag: EastTimor
-Libris-URI: hftwvzz126qs8cf
+Libris_URI: hftwvzz126qs8cf
 IPA_transcription: œstːɪˈmuːɾ
 Krugosvet_article: strany_mira/DEMOKRATICHESKAYA_RESPUBLIKA_VOSTOCHNI_TIMOR.html
 subreddit: Timor

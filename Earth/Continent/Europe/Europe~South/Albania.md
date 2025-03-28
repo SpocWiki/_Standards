@@ -246,9 +246,9 @@ mains_voltage: 220
 suicide_rate: 3.7
 Happy_Planet_Index_score: 51
 water_as_percent_of_area: 5.7
-Inequality-adjusted_Human_Development_Index: 0.71
+Inequality_adjusted_Human_Development_Index: 0.71
 literacy_rate: 97
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.al,38291]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.al,38291]]'
 Gini_coefficient: 30.8
 trunk_prefix: 0
 flag: "[[_Standards/WikiData/WD~flag of Albania,48409]]"
@@ -288,16 +288,16 @@ birth_rate:
 total_fertility_rate: 1.784
 UIC_numerical_country_code: 41
 OmegaWiki_Defined_Meaning: 5754
-number_of_out-of-school_children: 5693
+number_of_out_of_school_children: 5693
 GS1_country_code: 530
 IAB_code: 1231
 maritime_identification_digits: 201
-FIPS_10-4_countries_and_regions_: AL
+FIPS_10_4_countries_and_regions_: AL
 NUTS_code:
 - AL
 - AL0
 licence_plate_code: AL
-ISO_3166-1_alpha-2_code: AL
+ISO_3166_1_alpha_2_code: AL
 WIPO_ST_3: AL
 UIC_alphabetical_country_code: AL
 area: 28748
@@ -306,9 +306,9 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Alba
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Albania.svg"
 Dewey_Decimal_Classification: 2--4965
 IOC_country_code: ALB
-ISO_3166-1_alpha-3_code: ALB
+ISO_3166_1_alpha_3_code: ALB
 ITU_letter_code: ALB
-ISO_3166-1_numeric_code: 008
+ISO_3166_1_numeric_code: 008
 M49_code: 008
 INSEE_countries_and_foreign_territories_code: 99125
 rural_population:
@@ -356,7 +356,7 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Albania%2
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Albania%20banner.jpg"
 official_website: "https://www.kryeministria.al/en/"
 country_calling_code: +355
-Libris-URI: 42gjhs5n14cnffm
+Libris_URI: 42gjhs5n14cnffm
 Unicode_character: "\U0001F1E6\U0001F1F1"
 CIVICUS_Monitor_country_entry: albania
 subreddit: albania

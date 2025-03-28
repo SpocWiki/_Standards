@@ -142,7 +142,7 @@ capital:
 - '[[_Standards/WikiData/WD~Colombo,35381]]'
 - "[[_Standards/WikiData/WD~Sri Jayawardenepura Kotte,41963]]"
 suicide_rate: 12.9
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.lk,41035]]'
 - '[[_Standards/WikiData/WD~.இலங்கை,136682]]'
 Gini_coefficient: 39.3
@@ -236,7 +236,7 @@ native_label:
 - "இலங்கை சனநாயக சோசலிசக் குடியரசு"
 short_name: "\U0001F1F1\U0001F1F0"
 coordinates_of_westernmost_point: "Point(79.52224 9.38811)"
-Inequality-adjusted_Human_Development_Index: 0.676
+Inequality_adjusted_Human_Development_Index: 0.676
 death_rate:
 - 7.36
 - 7.056
@@ -256,19 +256,19 @@ birth_rate:
 - 14.235
 - 14.534
 OmegaWiki_Defined_Meaning: 7530
-FIPS_10-4_countries_and_regions_: CE
+FIPS_10_4_countries_and_regions_: CE
 population: 21444000
-ISO_3166-1_numeric_code: 144
+ISO_3166_1_numeric_code: 144
 M49_code: 144
 maritime_identification_digits: 417
 IAB_code: 1413
 GS1_country_code: 479
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Sri%20Lanka.svg"
-number_of_out-of-school_children: 436411
-ISO_3166-1_alpha-2_code: LK
+number_of_out_of_school_children: 436411
+ISO_3166_1_alpha_2_code: LK
 WIPO_ST_3: LK
 INSEE_countries_and_foreign_territories_code: 99235
-ISO_3166-1_alpha-3_code: LKA
+ISO_3166_1_alpha_3_code: LKA
 PM20_geo_code: B57
 inception: "1972-05-22T00:00:00Z"
 has_time_started: "1972-05-22T00:00:00Z"

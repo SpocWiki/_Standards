@@ -44,7 +44,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%9A%E0%AF%82%E0%AE%B4%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D.ogg"
 Stack_Exchange_tag: "https://biology.stackexchange.com/tags/ecology"
 U_S_National_Archives_Identifier: 10639171
-All-Science_Journal_Classification_Codes: 2303
+All_Science_Journal_Classification_Codes: 2303
 subreddit: ecologie
 GitHub_topic: ecology
 Commons_category: Ecology

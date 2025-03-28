@@ -115,7 +115,7 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/MONRO_MERILIN.html
 EcuRed_article: Marilyn_Monroe
 subreddit: MarilynMonroe
 hashtag: MarilynMonroe
-Libris-URI: mkz13rj52m3g5cn
+Libris_URI: mkz13rj52m3g5cn
 birth_name: "Norma Jeane Mortenson"
 date_of_birth: "1926-06-01T00:00:00Z"
 ---

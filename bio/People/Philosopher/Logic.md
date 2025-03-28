@@ -46,7 +46,7 @@ part_of:
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 Universal_Decimal_Classification: 16
 Dewey_Decimal_Classification: 160
-All-Science_Journal_Classification_Codes: 2609
+All_Science_Journal_Classification_Codes: 2609
 Colon_Classification: R1
 subreddit: logic
 hashtag: logic

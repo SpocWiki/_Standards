@@ -1,7 +1,7 @@
 ﻿---
 has_id_wikidata: Q7011
 Provenio_UUID: 85a6aec6-408f-4cc6-9227-ba150de1feac
-Libris-URI: 86lpthqs1l1vmjk
+Libris_URI: 86lpthqs1l1vmjk
 Europeana_entity: agent/base/62991
 BHCL_UUID: fd6d0cf6-7643-4099-9c31-286b066c8f6a
 Commons_category: Kālidāsa

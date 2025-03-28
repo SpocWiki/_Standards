@@ -5,7 +5,7 @@ aliases:
 has_id_wikidata: Q8479
 BHCL_UUID: 47bdd968-a65b-4921-a2e8-17db139bb1aa
 Krugosvet_article: istoriya/PETR_I_ALEKSEEVICH.html
-Libris-URI: ljx01dj41c527fr
+Libris_URI: ljx01dj41c527fr
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/23708
 military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
 award_received:

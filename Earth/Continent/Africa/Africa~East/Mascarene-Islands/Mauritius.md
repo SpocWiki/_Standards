@@ -198,7 +198,7 @@ birth_rate:
 - 10.6
 total_fertility_rate: 1.43
 area: 2040
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mu,43076]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mu,43076]]'
 Gini_coefficient: 36.8
 Happy_Planet_Index_score: 51.5
 BTI_Governance_Index:
@@ -210,7 +210,7 @@ BTI_Governance_Index:
 - 6.99
 - 7.13
 - 7.63
-Inequality-adjusted_Human_Development_Index: 0.666
+Inequality_adjusted_Human_Development_Index: 0.666
 BTI_Status_Index:
 - 7.94
 - 8.09
@@ -223,10 +223,10 @@ Human_Development_Index: 0.802
 Democracy_Index: 8.14
 IAB_code: 1353
 GS1_country_code: 609
-ISO_3166-1_numeric_code: 480
+ISO_3166_1_numeric_code: 480
 M49_code: 480
 licence_plate_code: MS
-number_of_out-of-school_children: 19949
+number_of_out_of_school_children: 19949
 mobile_country_code: 617
 maritime_identification_digits: 645
 OmegaWiki_Defined_Meaning: 8360
@@ -235,9 +235,9 @@ female_population:
 - 639989
 - 640852
 - 641465
-ISO_3166-1_alpha-2_code: MU
+ISO_3166_1_alpha_2_code: MU
 WIPO_ST_3: MU
-ISO_3166-1_alpha-3_code: MUS
+ISO_3166_1_alpha_3_code: MUS
 IOC_country_code: MRI
 urban_population:
 - 515236
@@ -268,7 +268,7 @@ hashtag:
 - Maurice
 - Mauritius
 coordinates_of_southernmost_point: "Point(57.5301 -20.5256)"
-FIPS_10-4_countries_and_regions_: MP
+FIPS_10_4_countries_and_regions_: MP
 life_expectancy: 74.39488
 PM20_geo_code: C105
 geoshape: "http://commons.wikimedia.org/data/main/Data:Mauritius.map"
@@ -294,7 +294,7 @@ CIVICUS_Monitor_country_entry: mauritius
 GitHub_topic: mauritius
 Commons_category: Mauritius
 subreddit: Mauritius
-Libris-URI: mkz10tw54bbnm9c
+Libris_URI: mkz10tw54bbnm9c
 Unicode_character: "\U0001F1F2\U0001F1FA"
 Krugosvet_article: strany_mira/MAVRIKI.html
 native_label: "République de Maurice"

@@ -106,7 +106,7 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/SERVANTES_SAAVEDRA_MIGEL_DE.
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/66829
 Royal_Academy_new_identifier: miguel-de-cervantes
 Google_Doodle: miguel-de-cervantes-birthday
-Libris-URI: rp350zp95v56q6r
+Libris_URI: rp350zp95v56q6r
 name: "Cervantes Saavedra, Miguel de"
 nickname: "El manco de Lepanto"
 ---

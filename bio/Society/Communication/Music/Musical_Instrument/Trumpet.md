@@ -19,7 +19,7 @@ subclass_of: "[[_Standards/WikiData/WD~valve trumpets,55774273]]"
 instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
 has_part_s_: '[[_Standards/WikiData/WD~sur,131931143]]'
 Nomenclature_for_Museum_Cataloging: 10676
-Hornbostel-Sachs_classification: 423.233
+Hornbostel_Sachs_classification: 423.233
 Amazon_com_browse_node: 11971791
 U_S_National_Archives_Identifier: 10648442
 OmegaWiki_Defined_Meaning: 344567

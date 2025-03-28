@@ -3,7 +3,7 @@ located_in_or_next_to_body_of_water:
 - "[[_Standards/WikiData/WD~Gulf of Oman,79948]]"
 - "[[_Standards/WikiData/WD~Persian Gulf,34675]]"
 flag: "[[_Standards/WikiData/WD~flag of the United Arab Emirates,134247]]"
-top-level_Internet_domain:
+top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.امارات,136728]]'
 - '[[_Standards/WikiData/WD~.ae,37239]]'
 contains_the_administrative_territorial_entity:
@@ -342,14 +342,14 @@ IAB_code: 1452
 OmegaWiki_Defined_Meaning: 154330
 Dewey_Decimal_Classification: 2--5357
 mobile_country_code: 424
-ISO_3166-1_numeric_code: 784
+ISO_3166_1_numeric_code: 784
 M49_code: 784
 INSEE_countries_and_foreign_territories_code: 99247
-ISO_3166-1_alpha-2_code: AE
-FIPS_10-4_countries_and_regions_: AE
+ISO_3166_1_alpha_2_code: AE
+FIPS_10_4_countries_and_regions_: AE
 WIPO_ST_3: AE
 Unicode_character: "\U0001F1E6\U0001F1EA"
-ISO_3166-1_alpha-3_code: ARE
+ISO_3166_1_alpha_3_code: ARE
 IPA_transcription: "dɪ fɔ'ɾeːntə ɑ'ɾɑːbɪskə ɛmɪ'ɾɑːtəɾ"
 Wolfram_Language_entity_code: "Entity[\"Country\", \"UnitedArabEmirates\"]"
 Krugosvet_article: strany_mira/OBEDINENNIE_ARABSKIE_EMIRATI_OAE.html

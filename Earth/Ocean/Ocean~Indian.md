@@ -256,7 +256,7 @@ Dewey_Decimal_Classification:
 volume_as_quantity: 282650000
 area: 76174000
 OmegaWiki_Defined_Meaning: 1879
-FIPS_10-4_countries_and_regions_: XO
+FIPS_10_4_countries_and_regions_: XO
 coordinates_of_northernmost_point: "Point(49.99825 31.1859)"
 coordinates_of_southernmost_point: "Point(80.0 -60.0)"
 bathymetry_image:

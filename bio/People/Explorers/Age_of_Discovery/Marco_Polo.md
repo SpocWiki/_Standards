@@ -66,7 +66,7 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 BHCL_UUID: 6953dc55-05ac-4e79-8071-8c028a3847fe
 Krugosvet_article: Earth_sciences/geografiya/POLO_MARKO.html
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"MarcoPolo::3szzq\"]"
-Libris-URI: fcrtw46z5hjtb3l
+Libris_URI: fcrtw46z5hjtb3l
 date_of_birth: "1254-09-22T00:00:00Z"
 ArhivX_LOD: 6457
 name_in_native_language: "Marco Polo"

@@ -140,7 +140,7 @@ BHCL_UUID: 4b941790-3183-4fef-bda6-fc96464b8e39
 Europeana_entity: agent/base/146742
 Regensburg_Classification: "IF 8020"
 Krugosvet_article: istoriya/LYUDOVIK_XIV.html
-Libris-URI: jgvxz7s22x67v1f
+Libris_URI: jgvxz7s22x67v1f
 Commons_gallery: "Louis XIV de France"
 Royal_Academy_new_identifier: louis-xiv
 ---

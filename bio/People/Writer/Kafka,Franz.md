@@ -123,7 +123,7 @@ Google_Doodle: franz-kafkas-130th-birthday
 Facebook_username: FranzKafkaAuthor
 Krugosvet_article: literatura/kafka-franc
 Swedish_Royal_Theater_Archive: Person/663
-Libris-URI: vs6890md120bwhj
+Libris_URI: vs6890md120bwhj
 last_words: "Tue-moi ou tu es un assassin !"
 work_period_start_: "1904-01-01T00:00:00Z"
 ---

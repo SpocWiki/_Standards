@@ -80,7 +80,7 @@ name_in_native_language: 松尾芭蕉
 birth_name: 金作
 date_of_death: "1694-11-28T00:00:00Z"
 date_of_birth: "1644-01-01T00:00:00Z"
-Libris-URI: 20dgklcl11sbmq7
+Libris_URI: 20dgklcl11sbmq7
 BHCL_UUID: 3d492d2d-ecf8-4615-ac87-5881260c0005
 Europeana_entity: agent/base/60913
 Commons_category: "Matsuo Basho"

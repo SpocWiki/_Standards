@@ -226,7 +226,7 @@ BTI_Status_Index:
 - 5.36
 - 5.43
 - 5.55
-Inequality-adjusted_Human_Development_Index: 0.46
+Inequality_adjusted_Human_Development_Index: 0.46
 BTI_Governance_Index:
 - 5.5
 - 3.36
@@ -238,7 +238,7 @@ BTI_Governance_Index:
 - 5.05
 - 5.37
 suicide_rate: 6.2
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gt,41781]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gt,41781]]'
 Gini_coefficient: 48.3
 Democracy_Index: 4.97
 Happy_Planet_Index_score: 57.9
@@ -256,7 +256,7 @@ death_rate:
 - 6.767
 maritime_identification_digits: 332
 M49_code: 320
-ISO_3166-1_numeric_code: 320
+ISO_3166_1_numeric_code: 320
 mobile_country_code: 704
 aircraft_registration_prefix: TG
 detail_map:
@@ -279,11 +279,11 @@ male_population:
 area: 108889
 OmegaWiki_Defined_Meaning: 7984
 WIPO_ST_3: GT
-ISO_3166-1_alpha-2_code: GT
-FIPS_10-4_countries_and_regions_: GT
+ISO_3166_1_alpha_2_code: GT
+FIPS_10_4_countries_and_regions_: GT
 IOC_country_code: GUA
 PM20_geo_code: E65
-number_of_out-of-school_children: 963351
+number_of_out_of_school_children: 963351
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guatemala.svg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Guatemala.svg"
 INSEE_countries_and_foreign_territories_code: 99409
@@ -320,7 +320,7 @@ has_time_started: "1821-01-01T00:00:00Z"
 population: 17263239
 licence_plate_code: GCA
 ITU_letter_code: GTM
-ISO_3166-1_alpha-3_code: GTM
+ISO_3166_1_alpha_3_code: GTM
 coordinates_of_easternmost_point: "Point(-88.231694444 15.724555555)"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Chicken%20bus%20excerpt.avi.ogv"
 montage_image:

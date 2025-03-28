@@ -128,7 +128,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
 - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.nl,493202]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.nl,493202]]'
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
 located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Gooimeer,629864]]'
@@ -226,7 +226,7 @@ speed_limit:
 - 50
 - 80
 - 130
-number_of_out-of-school_children: 20000
+number_of_out_of_school_children: 20000
 compulsory_education_minimum_age_: 5
 VAT_rate:
 - 6
@@ -357,7 +357,7 @@ rural_population:
 - 1302355
 - 1354158
 - 1409098
-FIPS_10-4_countries_and_regions_: NL
+FIPS_10_4_countries_and_regions_: NL
 NUTS_code: NL
 WIPO_ST_3: NL
 UIC_alphabetical_country_code: NL
@@ -458,7 +458,7 @@ Dewey_Decimal_Classification: 2--492
 BHCL_UUID:
 - 3ddc0c78-ee8c-46f0-bb09-063f62818210
 - 7c672690-aa08-4e09-99eb-de5486282524
-Libris-URI: fcrtsp7z3dl9s7q
+Libris_URI: fcrtsp7z3dl9s7q
 CIVICUS_Monitor_country_entry: netherlands
 GitHub_topic: netherlands
 Colon_Classification: SG--5962

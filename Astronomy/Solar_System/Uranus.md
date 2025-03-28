@@ -71,7 +71,7 @@ orbital_inclination:
 - 6.48
 UMLS_CUI: C0242757
 apoapsis: 3006318143
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 2870658186
 - 19.18916464
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20Voyager2%20color%20calibrated.png"

@@ -115,8 +115,8 @@ number_of_speakers_writers_or_signers:
 - 58452300
 - 76540740
 Basisklassifikation: 18.09
-ISO_639-3_code: deu
-ISO_639-2_code:
+ISO_639_3_code: deu
+ISO_639_2_code:
 - deu
 - ger
 Ethnologue_com_language_code: deu
@@ -149,7 +149,7 @@ Baidu_Tieba_name: 德语
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20de.svg"
 Provenio_UUID: 17dee4a8-6ef7-4dd7-8141-41a45247cabb
 Archive_of_Our_Own_tag: "Deutsch | German"
-Libris-URI: 31fhgjhm28n8njz
+Libris_URI: 31fhgjhm28n8njz
 Dewey_Decimal_Classification:
 - 6--31
 - 430
@@ -167,7 +167,7 @@ country:
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - "[[_Standards/WikiData/WD~Czech Republic,213]]"
 uses_capitalization_for: '[[_Standards/WikiData/WD~noun,1084]]'
-ISO_639-1_code: de
+ISO_639_1_code: de
 Wikimedia_language_code: de
 IETF_language_tag: de
 POSIX_locale_identifier: de

@@ -206,12 +206,12 @@ marriageable_age: 18
 age_of_majority: 18
 VAT_rate: 21
 mains_voltage: 220
-Inequality-adjusted_Human_Development_Index: 0.72
+Inequality_adjusted_Human_Development_Index: 0.72
 life_expectancy: 76
 suicide_rate: 8.1
 unemployment_rate: 8.9
 literacy_rate: 99
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ar,38300]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ar,38300]]'
 total_fertility_rate: 2.15
 highest_point: '[[_Standards/WikiData/WD~Aconcagua,39739]]'
 contains_the_administrative_territorial_entity:
@@ -256,14 +256,14 @@ death_rate: 8.589
 IAB_code: 1239
 mobile_country_code: 722
 birth_rate: 13.794
-ISO_3166-1_numeric_code: 032
+ISO_3166_1_numeric_code: 032
 M49_code: 032
 maritime_identification_digits: 701
 area: 2780400
 OmegaWiki_Defined_Meaning: 5774
-FIPS_10-4_countries_and_regions_: AR
+FIPS_10_4_countries_and_regions_: AR
 WIPO_ST_3: AR
-ISO_3166-1_alpha-2_code: AR
+ISO_3166_1_alpha_2_code: AR
 licence_plate_code: RA
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fitz%20Roy%201b.jpg"
 demonym:
@@ -339,9 +339,9 @@ minimum_temperature_record: -32.8
 continent: "[[_Standards/WikiData/WD~South America,18]]"
 IOC_country_code: ARG
 ITU_letter_code: ARG
-ISO_3166-1_alpha-3_code: ARG
+ISO_3166_1_alpha_3_code: ARG
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg"
-number_of_out-of-school_children: 261811
+number_of_out_of_school_children: 261811
 INSEE_countries_and_foreign_territories_code: 99415
 GS1_country_code: 778-779
 Commons_gallery: Argentina

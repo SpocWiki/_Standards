@@ -192,7 +192,7 @@ mains_voltage:
 marriageable_age:
 - 18
 - 21
-Inequality-adjusted_Human_Development_Index: 0.33
+Inequality_adjusted_Human_Development_Index: 0.33
 BTI_Status_Index:
 - 4.2
 - 2.79
@@ -203,7 +203,7 @@ BTI_Status_Index:
 - 5.54
 - 5.56
 Happy_Planet_Index_score: 46
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.lr,42847]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.lr,42847]]'
 Gini_coefficient: 35.3
 BTI_Governance_Index:
 - 3.61
@@ -216,7 +216,7 @@ BTI_Governance_Index:
 - 6.17
 - 6.22
 Human_Development_Index: 0.481
-ISO_3166-1_numeric_code: 430
+ISO_3166_1_numeric_code: 430
 M49_code: 430
 Democracy_Index: 5.32
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Bomi%20lake%20banner1.jpg"
@@ -230,7 +230,7 @@ locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Liberia%20%28orthographic%20projection%29.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationLiberia.svg"
 country_calling_code: +231
-Libris-URI: 64jlkc1q0lsvc9z
+Libris_URI: 64jlkc1q0lsvc9z
 CIVICUS_Monitor_country_entry: liberia
 GitHub_topic: liberia
 Krugosvet_article: strany_mira/LIBERIYA.html
@@ -251,7 +251,7 @@ death_rate:
 - 8.753
 - 8.838
 licence_plate_code: LB
-ISO_3166-1_alpha-2_code: LR
+ISO_3166_1_alpha_2_code: LR
 WIPO_ST_3: LR
 mobile_country_code: 618
 birth_rate:
@@ -262,9 +262,9 @@ birth_rate:
 IAB_code: 1339
 life_expectancy: 62.505
 IOC_country_code: LBR
-ISO_3166-1_alpha-3_code: LBR
+ISO_3166_1_alpha_3_code: LBR
 ITU_letter_code: LBR
-FIPS_10-4_countries_and_regions_: LI
+FIPS_10_4_countries_and_regions_: LI
 area: 111369
 PM20_geo_code: C56
 INSEE_countries_and_foreign_territories_code: 99302

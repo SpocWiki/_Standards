@@ -101,7 +101,7 @@ named_after: '[[_Standards/WikiData/WD~Kassites,243312]]'
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Aral–Caspian Depression,625587]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS056-E-13641%20-%20View%20of%20Azerbaijan.jpg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/KaspischeZeeLocatie.png"
-Libris-URI: 42gjh6cn5jv40t7
+Libris_URI: 42gjh6cn5jv40t7
 Commons_category: "Caspian Sea"
 Commons_gallery: Caspium
 Wolfram_Language_entity_code: "Entity[\"Lake\", \"CaspianSea::8mv93\"]"

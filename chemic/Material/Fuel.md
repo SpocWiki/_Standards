@@ -30,7 +30,7 @@ Dewey_Decimal_Classification:
 Common_Procurement_Vocabulary_code:
 - 09100000-0
 - 09100000
-All-Science_Journal_Classification_Codes: 2103
+All_Science_Journal_Classification_Codes: 2103
 Commons_gallery: Fuel
 Colon_Classification: F55
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fire%2C%20Fireplace%2C%20Rostov-on-Don%2C%20Russia.jpg"

@@ -25,7 +25,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/UN%20building%2C%20Ge
 Provenio_UUID: fab4a10d-365d-4598-80b2-56f74dd1a804
 UMLS_CUI: C4042935
 Library_of_Congress_Classification: JZ1305-JZ2060
-Libris-URI: vs687n5d5qw80p2
+Libris_URI: vs687n5d5qw80p2
 MeSH_tree_code:
 - F01.829.316.171
 - F02.463.785.373.520.500

@@ -32,9 +32,9 @@ OmegaWiki_Defined_Meaning: 603402
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Tabula%20Linguarum%20Romanicarum.png"
 Universal_Decimal_Classification: 811.13
 Krugosvet_article: gumanitarnye_nauki/lingvistika/ROMANSKIE_YAZIKI.html
-ISO_639-5_code: roa
+ISO_639_5_code: roa
 IETF_language_tag: roa
-ISO_639-2_code: roa
+ISO_639_2_code: roa
 Glottolog_code: roma1334
 Commons_category: "Romance languages"
 ---

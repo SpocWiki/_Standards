@@ -159,7 +159,7 @@ Provenio_UUID:
 - 059f1ecc-364a-4b1b-bc0d-a437785c2b5d
 - e83cb121-1565-4df3-99d2-a6309192c588
 ArhivX_LOD: 1755
-Libris-URI: 75kmn1kr3mpfb1g
+Libris_URI: 75kmn1kr3mpfb1g
 BHCL_UUID: ab9faa05-dfb7-43e6-92df-70bc37a5609a
 Europeana_entity: agent/base/145349
 Regensburg_Classification: "DD 8780"

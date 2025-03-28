@@ -277,8 +277,8 @@ BTI_Status_Index:
 - 5.93
 - 6.09
 - 6.16
-Inequality-adjusted_Human_Development_Index: 0.291
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ml,42026]]'
+Inequality_adjusted_Human_Development_Index: 0.291
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ml,42026]]'
 literacy_rate: 33.1
 Gini_coefficient: 36.1
 geography_of_topic: "[[_Standards/WikiData/WD~geography of Mali,44444]]"
@@ -298,11 +298,11 @@ locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20%28orthographic%20projection%29.svg"
 official_website: "http://www.primature.gov.ml"
 country_calling_code: +223
-Libris-URI: 0xbdc6tj4b06pst
+Libris_URI: 0xbdc6tj4b06pst
 U_S_National_Archives_Identifier: 10035750
 IAB_code: 1349
 Dewey_Decimal_Classification: 2--6623
-ISO_3166-1_numeric_code: 466
+ISO_3166_1_numeric_code: 466
 M49_code: 466
 OmegaWiki_Defined_Meaning: 8333
 INSEE_countries_and_foreign_territories_code: 99335
@@ -313,11 +313,11 @@ subreddit: Mali
 Commons_category: Mali
 hashtag: Mali
 Commons_gallery: Mali
-ISO_3166-1_alpha-2_code: ML
+ISO_3166_1_alpha_2_code: ML
 WIPO_ST_3: ML
-FIPS_10-4_countries_and_regions_: ML
+FIPS_10_4_countries_and_regions_: ML
 Unicode_character: "\U0001F1F2\U0001F1F1"
-ISO_3166-1_alpha-3_code: MLI
+ISO_3166_1_alpha_3_code: MLI
 ITU_letter_code: MLI
 IOC_country_code: MLI
 licence_plate_code: RMM
@@ -343,7 +343,7 @@ rural_population:
 - 12118494
 - 12327741
 area: 1240192
-number_of_out-of-school_children: 2474516
+number_of_out_of_school_children: 2474516
 urban_population:
 - 8871964
 - 9319264

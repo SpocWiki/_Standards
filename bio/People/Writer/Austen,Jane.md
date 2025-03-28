@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q36322
 Europeana_entity: agent/base/60053
 Archive_of_Our_Own_tag: "AUSTEN Jane - Works"
-Libris-URI: gdsvwng02fdsq4t
+Libris_URI: gdsvwng02fdsq4t
 Royal_Academy_new_identifier: jane-austen
 Google_Doodle: jane-austens-235th-birthday
 subreddit: janeausten

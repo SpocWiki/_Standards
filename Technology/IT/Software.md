@@ -76,10 +76,10 @@ Wikidata_property: "PRONOM software ID"
 opposite_of: "[[_Standards/WikiData/WD~computer hardware,3966]]"
 part_of: '[[_Standards/WikiData/WD~computer,68]]'
 OmegaWiki_Defined_Meaning: 3493
-All-Science_Journal_Classification_Codes: 1712
+All_Science_Journal_Classification_Codes: 1712
 Nomenclature_for_Museum_Cataloging: 10402
 IAB_code: 602
-IHO_Hydrographic_Dictionary_S-32_Number: 4837
+IHO_Hydrographic_Dictionary_S_32_Number: 4837
 social_media_followers: 183738
 Dewey_Decimal_Classification:
 - 005

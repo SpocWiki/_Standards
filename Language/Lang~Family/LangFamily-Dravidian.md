@@ -25,9 +25,9 @@ number_of_speakers_writers_or_signers: 200000000
 ABS_ASCL_2011_code: 51
 Commons_category: "Dravidian languages"
 OmegaWiki_Defined_Meaning: 587369
-ISO_639-5_code: dra
+ISO_639_5_code: dra
 IETF_language_tag: dra
-ISO_639-2_code: dra
+ISO_639_2_code: dra
 exact_match: "http://publications.europa.eu/resource/authority/language/DRA"
 Dewey_Decimal_Classification: 494.8
 Krugosvet_article: gumanitarnye_nauki/lingvistika/DRAVIDISKIE_YAZIKI.html

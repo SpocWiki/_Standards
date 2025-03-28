@@ -191,7 +191,7 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"LeoTolstoy::q5266\"]"
 Krugosvet_article: kultura_i_obrazovanie/literatura/TOLSTO_LEV_NIKOLAEVICH.html
 Google_Doodle: leo-tolstoys-186th-birthday
 Swedish_Royal_Theater_Archive: Person/972
-Libris-URI: qn241vb851hnskb
+Libris_URI: qn241vb851hnskb
 pseudonym:
 - "Л. Н. Т."
 - "Л. Н."

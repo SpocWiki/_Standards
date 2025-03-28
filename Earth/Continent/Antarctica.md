@@ -87,7 +87,7 @@ relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Antarct
 population: 4400
 area: 14200000
 maximum_temperature_record: 17.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.aq,41016]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.aq,41016]]'
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern Hemisphere,41228]]"
 country_calling_code: +672
 M49_code: 010
@@ -101,9 +101,9 @@ subreddit: antarctica
 Commons_gallery: Antarctica
 Commons_category: Antarctica
 Unicode_character: "\U0001F1E6\U0001F1F6"
-FIPS_10-4_countries_and_regions_: AY
+FIPS_10_4_countries_and_regions_: AY
 Krugosvet_article: Earth_sciences/geologiya/ANTARKTIKA.html
-Libris-URI: zw9cbnhh0cvc58m
+Libris_URI: zw9cbnhh0cvc58m
 ---
 
 # [[Antarctica]] 

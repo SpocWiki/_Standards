@@ -55,7 +55,7 @@ Universal_Decimal_Classification: 52
 Dewey_Decimal_Classification: 520
 OmegaWiki_Defined_Meaning: 269
 Colon_Classification: B9
-All-Science_Journal_Classification_Codes: 3100
+All_Science_Journal_Classification_Codes: 3100
 Library_of_Congress_Classification: QB
 Iconclass_notation: 49E1
 start_time: "-8000-01-01T00:00:00Z"
@@ -64,7 +64,6 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/astronomy"
 Stack_Exchange_site_URL: "https://astronomy.stackexchange.com"
 U_S_National_Archives_Identifier: 10637421
 ---
-
 
 ## #has_/text_of_/abstract 
 

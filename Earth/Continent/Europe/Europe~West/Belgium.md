@@ -289,14 +289,14 @@ literacy_rate: 99
 poverty_incidence: 13.1
 total_fertility_rate: 1.75
 suicide_rate: 20.7
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.be,39773]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.be,39773]]'
 Gini_coefficient: 27.2
 maximum_temperature_record: 41.8
 Happy_Planet_Index_score: 42.5
 official_website: "https://www.belgium.be/"
 country_calling_code: +32
 trunk_prefix: 0
-ISO_3166-1_numeric_code: 056
+ISO_3166_1_numeric_code: 056
 M49_code: 056
 U_S_National_Archives_Identifier: 10035761
 IAB_code: 1249
@@ -401,12 +401,12 @@ PM20_geo_code: A21
 UIC_alphabetical_country_code: B
 licence_plate_code: B
 WIPO_ST_3: BE
-ISO_3166-1_alpha-2_code: BE
-FIPS_10-4_countries_and_regions_: BE
+ISO_3166_1_alpha_2_code: BE
+FIPS_10_4_countries_and_regions_: BE
 NUTS_code: BE
 Unicode_character: "\U0001F1E7\U0001F1EA"
 ITU_letter_code: BEL
-ISO_3166-1_alpha-3_code: BEL
+ISO_3166_1_alpha_3_code: BEL
 IOC_country_code: BEL
 Commons_gallery: "België / Belgique / Belgien"
 GitHub_topic: belgium
@@ -422,7 +422,7 @@ BHCL_UUID: ffd382be-2f2b-4c19-ae5a-6ba50f65aec5
 unemployment_rate: 5.55
 Colon_Classification: SG--5961
 Krugosvet_article: strany_mira/BELGIYA.html
-Libris-URI: xv8b9nqg4r1hd2b
+Libris_URI: xv8b9nqg4r1hd2b
 motto_text:
 - "Einigkeit macht stark"
 - "L’union fait la force"
@@ -441,8 +441,8 @@ official_name:
 - "Royaume de Belgique"
 - "Koninkrijk België"
 Democracy_Index: 7.51
-number_of_out-of-school_children: 8330
-Inequality-adjusted_Human_Development_Index: 0.874
+number_of_out_of_school_children: 8330
+Inequality_adjusted_Human_Development_Index: 0.874
 Human_Development_Index: 0.937
 short_name: "\U0001F1E7\U0001F1EA"
 social_media_followers: 59360

@@ -150,7 +150,7 @@ influenced_by:
 - '[[_Standards/WikiData/WD~linguistics,8162]]'
 - '[[_Standards/WikiData/WD~psychology,9418]]'
 IAB_code: 597
-All-Science_Journal_Classification_Codes: 1702
+All_Science_Journal_Classification_Codes: 1702
 ---
 
 ## #has_/text_of_/abstract 

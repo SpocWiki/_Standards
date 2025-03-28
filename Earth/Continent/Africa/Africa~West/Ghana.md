@@ -179,10 +179,10 @@ BTI_Status_Index:
 - 7.36
 - 7.39
 lowest_point: "[[_Standards/WikiData/WD~Gulf of Guinea,41430]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gh,41634]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gh,41634]]'
 Happy_Planet_Index_score: 39.5
 Gini_coefficient: 43.5
-Inequality-adjusted_Human_Development_Index: 0.458
+Inequality_adjusted_Human_Development_Index: 0.458
 trunk_prefix: 0
 mobile_country_code: 620
 BTI_Governance_Index:
@@ -308,7 +308,7 @@ death_rate:
 - 7.585
 - 7.627
 maritime_identification_digits: 627
-ISO_3166-1_numeric_code: 288
+ISO_3166_1_numeric_code: 288
 M49_code: 288
 life_expectancy: 62.742
 IAB_code: 1301
@@ -318,13 +318,13 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ghan
 CIVICUS_Monitor_country_entry: ghana
 subreddit: ghana
 GitHub_topic: ghana
-ISO_3166-1_alpha-2_code: GH
+ISO_3166_1_alpha_2_code: GH
 licence_plate_code: GH
-FIPS_10-4_countries_and_regions_: GH
+FIPS_10_4_countries_and_regions_: GH
 WIPO_ST_3: GH
 INSEE_countries_and_foreign_territories_code: 99329
-number_of_out-of-school_children: 1615385
-ISO_3166-1_alpha-3_code: GHA
+number_of_out_of_school_children: 1615385
+ISO_3166_1_alpha_3_code: GHA
 IOC_country_code: GHA
 ITU_letter_code: GHA
 hashtag: Ghana

@@ -7,7 +7,7 @@ BHCL_UUID: 748fb790-6d94-4c82-aae1-0e0110d9fdaf
 Europeana_entity: agent/base/146949
 pseudonym: "Disney, Walter Elias"
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/DISNE_UOLT.html
-Libris-URI: qn258d981jh64pf
+Libris_URI: qn258d981jh64pf
 birth_name: "Walter Elias Disney"
 occupation:
 - "[[_Standards/WikiData/WD~film actor,10800557]]"

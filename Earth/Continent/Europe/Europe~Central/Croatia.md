@@ -212,7 +212,7 @@ death_rate:
 - 14.8
 - 16.2
 total_fertility_rate: 1.46
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.hr,41008]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.hr,41008]]'
 Gini_coefficient: 28.9
 replaces:
 - "[[_Standards/WikiData/WD~Socialist Federal Republic of Yugoslavia,83286]]"
@@ -268,31 +268,31 @@ BTI_Governance_Index:
 - 6.61
 - 6.87
 - 6.88
-Inequality-adjusted_Human_Development_Index: 0.797
+Inequality_adjusted_Human_Development_Index: 0.797
 head_of_state: "[[_Standards/WikiData/WD~Zoran Milanović,57687]]"
 Human_Development_Index: 0.858
 GS1_country_code: 385
 maritime_identification_digits: 238
 Dewey_Decimal_Classification: 2--4972
-ISO_3166-1_numeric_code: 191
+ISO_3166_1_numeric_code: 191
 M49_code: 191
 UIC_numerical_country_code: 78
 IAB_code: 1277
 Image_Archive_Herder_Institute: Q224
-number_of_out-of-school_children: 27168
+number_of_out_of_school_children: 27168
 mobile_country_code: 219
 area: 56594
 OmegaWiki_Defined_Meaning: 8119
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg"
 licence_plate_code: HR
-ISO_3166-1_alpha-2_code: HR
-FIPS_10-4_countries_and_regions_: HR
+ISO_3166_1_alpha_2_code: HR
+FIPS_10_4_countries_and_regions_: HR
 NUTS_code:
 - HR
 - HR0
 WIPO_ST_3: HR
 UIC_alphabetical_country_code: HR
-ISO_3166-1_alpha-3_code: HRV
+ISO_3166_1_alpha_3_code: HRV
 ITU_letter_code: HRV
 IOC_country_code: CRO
 INSEE_countries_and_foreign_territories_code: 99119
@@ -349,7 +349,7 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20o
 WOEID: 23424843
 inception: "1991-06-25T00:00:00Z"
 has_time_started: "1991-06-25T00:00:00Z"
-Libris-URI: 64jlkbvq4b1l6f6
+Libris_URI: 64jlkbvq4b1l6f6
 official_website:
 - "https://vlada.gov.hr/en"
 - "http://www.vlada.hr"

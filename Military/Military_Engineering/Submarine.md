@@ -34,7 +34,7 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-Submar
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Submarine%20dive.gif"
 equivalent_class: "http://rdf.muninn-project.org/ontologies/naval#Submarine"
 exact_match: "http://wordnet-rdf.princeton.edu/wn30/04347754-n"
-MIL-STD-2525_Symbol_Identification_Code: 10013500001101000000
+MIL_STD_2525_Symbol_Identification_Code: 10013500001101000000
 Iconclass_notation: 46C252
 OmegaWiki_Defined_Meaning: 3652
 Nomenclature_for_Museum_Cataloging: 12833

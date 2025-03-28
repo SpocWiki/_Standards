@@ -445,21 +445,21 @@ Happy_Planet_Index_score: 47.9
 trunk_prefix: 0
 maritime_identification_digits: 278
 Democracy_Index: 7.54
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.si,58723]]'
-Inequality-adjusted_Human_Development_Index: 0.878
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.si,58723]]'
+Inequality_adjusted_Human_Development_Index: 0.878
 Human_Development_Index: 0.918
 UIC_numerical_country_code: 79
 GS1_country_code: 383
 mobile_country_code: 293
-ISO_3166-1_numeric_code: 705
+ISO_3166_1_numeric_code: 705
 M49_code: 705
 WIPO_ST_3: SI
-ISO_3166-1_alpha-2_code: SI
-FIPS_10-4_countries_and_regions_: SI
+ISO_3166_1_alpha_2_code: SI
+FIPS_10_4_countries_and_regions_: SI
 NUTS_code:
 - SI
 - SI0
-number_of_out-of-school_children: 6716
+number_of_out_of_school_children: 6716
 carbon_footprint:
 - 15365000
 - 15939000
@@ -507,7 +507,7 @@ urban_population:
 - 1168445
 - 1177453
 ITU_letter_code: SVN
-ISO_3166-1_alpha-3_code: SVN
+ISO_3166_1_alpha_3_code: SVN
 coordinates_of_easternmost_point: "Point(16.61068976 46.46978084)"
 inception: "1991-06-25T00:00:00Z"
 has_time_started: "1991-06-25T00:00:00Z"

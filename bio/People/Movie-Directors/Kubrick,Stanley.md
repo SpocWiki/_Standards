@@ -95,7 +95,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Stanley%20Kubrick
 official_website: "http://www.kubrickfilms.com"
 BHCL_UUID: 7c573766-0090-4ea0-a377-f84ef05bd352
 Europeana_entity: agent/base/146920
-Libris-URI: rp356zw91k0whxj
+Libris_URI: rp356zw91k0whxj
 Commons_category: "Stanley Kubrick"
 Commons_Creator_page: "Stanley Kubrick"
 subreddit: StanleyKubrick

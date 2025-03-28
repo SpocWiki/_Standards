@@ -19,7 +19,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~human,5]]'
 followed_by: '[[_Standards/WikiData/WD~preadolescent,116789753]]'
 UMLS_CUI: C0008059
-Libris-URI: hftwv7114fp5f2l
+Libris_URI: hftwv7114fp5f2l
 MeSH_tree_code: M01.060.406
 Wikidata_property:
 - "number of children"

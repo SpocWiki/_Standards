@@ -359,16 +359,16 @@ death_rate:
 - 11.9
 - 12.1
 - 12.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.it,39155]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.it,39155]]'
 flag: "[[_Standards/WikiData/WD~flag of Italy,42876]]"
 Gini_coefficient: 35.2
 Happy_Planet_Index_score: 50.7
 Democracy_Index: 7.74
-Inequality-adjusted_Human_Development_Index: 0.791
+Inequality_adjusted_Human_Development_Index: 0.791
 Human_Development_Index: 0.895
 maritime_identification_digits: 247
 M49_code: 380
-ISO_3166-1_numeric_code: 380
+ISO_3166_1_numeric_code: 380
 OpenStreetMap_zoom_level: 5
 executive_body: "[[_Standards/WikiData/WD~Government of Italy,3773971]]"
 head_of_state: "[[_Standards/WikiData/WD~Sergio Mattarella,3956186]]"
@@ -479,12 +479,12 @@ UIC_numerical_country_code: 83
 median_income: 20085
 mobile_country_code: 222
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg"
-number_of_out-of-school_children: 178653
+number_of_out_of_school_children: 178653
 INSEE_countries_and_foreign_territories_code: 99127
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Italy.svg"
 area: 302068
 IOC_country_code: ITA
-ISO_3166-1_alpha-3_code: ITA
+ISO_3166_1_alpha_3_code: ITA
 social_media_followers: 559808
 number_of_deaths: 713499
 life_expectancy: 82.5439
@@ -495,10 +495,10 @@ official_name:
 - Italia
 - "Repubblica Italiana"
 Image_Archive_Herder_Institute: Q38
-FIPS_10-4_countries_and_regions_: IT
+FIPS_10_4_countries_and_regions_: IT
 NUTS_code: IT
 WIPO_ST_3: IT
-ISO_3166-1_alpha-2_code: IT
+ISO_3166_1_alpha_2_code: IT
 ISBN_identifier_group:
 - 978-88
 - 979-12

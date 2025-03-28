@@ -27,7 +27,7 @@ UMLS_CUI:
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20Hearing%20Loop%20Hadi%20Davodpour%2028161.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/International%20Symbol%20for%20Deafness.svg"
-ICD-9-CM:
+ICD_9_CM:
 - 389
 - 389.8
 - 389.9
@@ -43,7 +43,7 @@ MeSH_tree_code:
 - C09.218.458.341
 - C10.597.751.418.341
 - C23.888.592.763.393.341
-ICD-10-CM: H90
+ICD_10_CM: H90
 Krugosvet_article: medicina/GLUHOTA.html
 Colon_Classification: S67
 Unicode_character: "\U0001F9CF"

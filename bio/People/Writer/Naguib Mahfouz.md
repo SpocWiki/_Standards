@@ -109,7 +109,7 @@ date_of_birth: "1911-12-11T00:00:00Z"
 Commons_category: "Naguib Mahfouz"
 work_period_end_: "2004-01-01T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Necip%20Mahfuz.jpg"
-Libris-URI: 1zcfg80k3k3f5gw
+Libris_URI: 1zcfg80k3k3f5gw
 BHCL_UUID: 47e8e468-f719-43c6-bf71-2c44e6ea2b0d
 Europeana_entity: agent/base/60182
 ---

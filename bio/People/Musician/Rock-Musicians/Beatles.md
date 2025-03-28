@@ -106,7 +106,7 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_The Beatles,1337
 described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Beatles%20members%20at%20New%20York%20City%20in%201964.jpg"
 ISNI: 0000000121707484
-Libris-URI: b8nqnr4v0cckkp1
+Libris_URI: b8nqnr4v0cckkp1
 has_part_s_:
 - "[[_Standards/WikiData/WD~John Lennon,1203]]"
 - "[[_Standards/WikiData/WD~Paul McCartney,2599]]"

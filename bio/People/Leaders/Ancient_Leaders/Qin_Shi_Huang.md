@@ -56,7 +56,7 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuang.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuangdi3.jpg"
 BHCL_UUID: 617ad11e-0cd4-4123-8d1a-48e9366ded76
-Libris-URI: c9prs62w049fwb2
+Libris_URI: c9prs62w049fwb2
 ---
 
 ## #has_/text_of_/abstract 

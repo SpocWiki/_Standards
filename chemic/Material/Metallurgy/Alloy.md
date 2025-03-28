@@ -23,7 +23,7 @@ OmegaWiki_Defined_Meaning: 143
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Born%20bronze%20-%20Bronze%20casts.jpg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Legering-article.ogg"
 U_S_National_Archives_Identifier: 10646992
-All-Science_Journal_Classification_Codes: 2506
+All_Science_Journal_Classification_Codes: 2506
 Commons_category: Alloys
 MeSH_tree_code:
 - D01.552.033

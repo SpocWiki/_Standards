@@ -361,20 +361,20 @@ death_rate:
 total_fertility_rate: 1.52
 suicide_rate: 16.1
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Baltic states,39731]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.lv,41629]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.lv,41629]]'
 Happy_Planet_Index_score: 34.1
 Gini_coefficient: 34.5
 UIC_numerical_country_code: 25
 retirement_age: 62.5
 Democracy_Index: 7.24
-Inequality-adjusted_Human_Development_Index: 0.792
+Inequality_adjusted_Human_Development_Index: 0.792
 Human_Development_Index: 0.863
 mobile_country_code: 247
-ISO_3166-1_numeric_code: 428
+ISO_3166_1_numeric_code: 428
 M49_code: 428
 GS1_country_code: 475
 maritime_identification_digits: 275
-number_of_out-of-school_children: 6581
+number_of_out_of_school_children: 6581
 IAB_code: 1336
 Dewey_Decimal_Classification: 2--4796
 OmegaWiki_Defined_Meaning: 8351
@@ -383,9 +383,9 @@ male_population:
 - 871746
 - 872894
 - 878681
-FIPS_10-4_countries_and_regions_: LG
+FIPS_10_4_countries_and_regions_: LG
 licence_plate_code: LV
-ISO_3166-1_alpha-2_code: LV
+ISO_3166_1_alpha_2_code: LV
 NUTS_code:
 - LV
 - LV0
@@ -395,7 +395,7 @@ UIC_alphabetical_country_code: LV
 INSEE_countries_and_foreign_territories_code: 99107
 IOC_country_code: LAT
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg"
-ISO_3166-1_alpha-3_code: LVA
+ISO_3166_1_alpha_3_code: LVA
 ITU_letter_code: LVA
 PM20_geo_code: A58
 rural_population:

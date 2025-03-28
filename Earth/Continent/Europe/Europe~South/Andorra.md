@@ -141,7 +141,7 @@ death_rate:
 - 3.9
 - 4.6
 VAT_rate: 4.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ad,36552]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ad,36552]]'
 total_fertility_rate: 1.27
 area: 468
 maritime_identification_digits: 202
@@ -166,10 +166,10 @@ urban_population:
 nominal_GDP:
 - 3325145407
 - 3352032737
-ISO_3166-1_numeric_code: 020
+ISO_3166_1_numeric_code: 020
 M49_code: 020
 mobile_country_code: 213
-FIPS_10-4_countries_and_regions_: AN
+FIPS_10_4_countries_and_regions_: AN
 IAB_code: 1234
 female_population:
 - 37502
@@ -246,14 +246,14 @@ basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary coprincipality
 head_of_government: "[[_Standards/WikiData/WD~Xavier Espot Zamora,21001195]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27115648,27115648]]'
 located_in_the_religious_territorial_entity: "[[_Standards/WikiData/WD~archpriesthood of the Valleys of Andorra,110538735]]"
-Libris-URI: 31fhgrjm14shh9g
+Libris_URI: 31fhgrjm14shh9g
 ISNI: 000000012150090X
 native_label: Andorra
 licence_plate_code: AND
-ISO_3166-1_alpha-3_code: AND
+ISO_3166_1_alpha_3_code: AND
 IOC_country_code: AND
 ITU_letter_code: AND
-ISO_3166-1_alpha-2_code: AD
+ISO_3166_1_alpha_2_code: AD
 WIPO_ST_3: AD
 INSEE_countries_and_foreign_territories_code: 99130
 GS1_country_code: 840-849

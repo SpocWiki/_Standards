@@ -190,7 +190,7 @@ mains_voltage: 230
 annual_number_of_weddings: 86
 VAT_rate: 19.6
 area: 2.02
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mc,42020]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mc,42020]]'
 female_population:
 - 18890
 - 18596
@@ -201,16 +201,16 @@ population: 38350
 mobile_country_code: 212
 maritime_identification_digits: 254
 licence_plate_code: MC
-ISO_3166-1_alpha-2_code: MC
+ISO_3166_1_alpha_2_code: MC
 WIPO_ST_3: MC
 IAB_code: 1356
-FIPS_10-4_countries_and_regions_: MN
+FIPS_10_4_countries_and_regions_: MN
 male_population:
 - 17872
 - 17982
 - 18095
 - 18145
-ISO_3166-1_numeric_code: 492
+ISO_3166_1_numeric_code: 492
 M49_code: 492
 urban_population:
 - 36469
@@ -226,7 +226,7 @@ subreddit: Monaco
 hashtag: Monaco
 Commons_gallery: Monaco
 OmegaWiki_Defined_Meaning: 8078
-ISO_3166-1_alpha-3_code: MCO
+ISO_3166_1_alpha_3_code: MCO
 ITU_letter_code: MCO
 PM20_geo_code: A37
 motto_text:
@@ -274,7 +274,7 @@ Unicode_character: "\U0001F1F2\U0001F1E8"
 GitHub_topic: monaco
 CIVICUS_Monitor_country_entry: monaco
 Krugosvet_article: strany_mira/MONAKO.html
-Libris-URI: tr5762wc3td6mvt
+Libris_URI: tr5762wc3td6mvt
 ---
 
 # [[Monaco]] 

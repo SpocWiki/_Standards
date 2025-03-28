@@ -83,7 +83,7 @@ IPI_name_number:
 birth_name: "Franz Peter Schubert"
 work_period_start_: "1810-01-01T00:00:00Z"
 date_of_birth: "1797-01-31T00:00:00Z"
-Libris-URI: 0xbdf6sj4lqc75h
+Libris_URI: 0xbdf6sj4lqc75h
 BHCL_UUID: 6cde0efa-445b-446a-9bb2-8fc0df62e766
 Europeana_entity: agent/base/147001
 Krugosvet_article: kultura_i_obrazovanie/muzyka/SHUBERT_FRANTS.html

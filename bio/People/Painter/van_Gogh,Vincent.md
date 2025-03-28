@@ -298,7 +298,7 @@ image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Auvers-sur-O
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Vincent%20van%20Gogh-article.ogg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20signature%20%28Vincent%29.svg"
 NLC_authorities: 000136202
-Libris-URI: 31fhhlwm46clncx
+Libris_URI: 31fhhlwm46clncx
 BHCL_UUID: 7b191576-8e14-448d-bc96-43f099d7a09c
 Europeana_entity: agent/base/59832
 ---

@@ -61,7 +61,7 @@ number_of_speakers_writers_or_signers: 918000000
 ABS_ASCL_2011_code: 7104
 Ethnologue_com_language_code: cmn
 IETF_language_tag: cmn
-ISO_639-3_code: cmn
+ISO_639_3_code: cmn
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Chinois%20Mandarin.png"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Guanhua%20swapped.svg"
 Linguasphere_code: 79-AAA-b

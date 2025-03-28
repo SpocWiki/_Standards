@@ -119,7 +119,7 @@ child:
 - "[[_Standards/WikiData/WD~Katsushika Ōi,11621076]]"
 - "[[_Standards/WikiData/WD~Katsushika Tatsujo,11621090]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Hokusai,57755508]]'
-Libris-URI: 75kmnrkr5jp3xf2
+Libris_URI: 75kmnrkr5jp3xf2
 Europeana_entity: agent/base/59803
 Google_Doodle: birthday-of-katsushika-hokusai
 Commons_category: "Katsushika Hokusai"

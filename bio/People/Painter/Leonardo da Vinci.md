@@ -167,7 +167,7 @@ Regensburg_Classification: "IU 4936"
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/LEONARDO_DA_VINCHI.html
 Google_Doodle: leonardo-da-vincis-553rd-birthday
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/17814
-Libris-URI: zw9cd5zh025njcf
+Libris_URI: zw9cd5zh025njcf
 birth_name: "Leonardo di ser Piero da Vinci"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~person depicted in Mona Lisa,11879536]]"
 given_name: '[[_Standards/WikiData/WD~Leonardo,18220847]]'

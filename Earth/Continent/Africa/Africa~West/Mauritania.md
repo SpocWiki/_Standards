@@ -118,7 +118,7 @@ driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Mauritania,28002551]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Mauritania,30101469]]"
 has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-ISO_3166-1_numeric_code: 478
+ISO_3166_1_numeric_code: 478
 M49_code: 478
 mobile_country_code: 609
 total_fertility_rate: 4.603
@@ -127,8 +127,8 @@ death_rate:
 - 7.203
 - 7.466
 - 7.44
-ISO_3166-1_alpha-2_code: MR
-FIPS_10-4_countries_and_regions_: MR
+ISO_3166_1_alpha_2_code: MR
+FIPS_10_4_countries_and_regions_: MR
 WIPO_ST_3: MR
 area: 1030700
 maritime_identification_digits: 654
@@ -151,7 +151,7 @@ male_population:
 - 2202418
 - 2321228
 INSEE_countries_and_foreign_territories_code: 99336
-number_of_out-of-school_children: 451856
+number_of_out_of_school_children: 451856
 short_name:
 - RIM
 - "\U0001F1F2\U0001F1F7"
@@ -205,7 +205,7 @@ urban_population:
 - 2590523
 - 2695952
 population: 4614974
-ISO_3166-1_alpha-3_code: MRT
+ISO_3166_1_alpha_3_code: MRT
 inception: "1960-11-28T00:00:00Z"
 has_time_started: "1960-11-28T00:00:00Z"
 IOC_country_code: MTN
@@ -301,10 +301,10 @@ BTI_Status_Index:
 - 4.35
 - 4.36
 - 4.41
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.mr,42653]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mr,42653]]'
 Gini_coefficient: 32.6
 Happy_Planet_Index_score: 34.7
-Inequality-adjusted_Human_Development_Index: 0.389
+Inequality_adjusted_Human_Development_Index: 0.389
 Democracy_Index: 3.92
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 Human_Development_Index: 0.556

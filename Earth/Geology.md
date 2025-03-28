@@ -46,7 +46,7 @@ Dewey_Decimal_Classification:
 - 550
 - 551
 Colon_Classification: H
-All-Science_Journal_Classification_Codes: 1907
+All_Science_Journal_Classification_Codes: 1907
 OmegaWiki_Defined_Meaning: 1645
 Commons_gallery: Geology
 Commons_category: Geology

@@ -40,7 +40,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Vasco%20da%20Gama
 BHCL_UUID:
 - 12fbe78d-8b04-41ed-9b80-4672471515ba
 - 42176443-af8b-4a1c-a568-6f858f533947
-Libris-URI: 20dggjcl5bjkxhw
+Libris_URI: 20dggjcl5bjkxhw
 Krugosvet_article: istoriya/GAMA_VASKO_DA.html
 given_name: '[[_Standards/WikiData/WD~Vasco,16620432]]'
 family_name: '[[_Standards/WikiData/WD~Gama,16870092]]'

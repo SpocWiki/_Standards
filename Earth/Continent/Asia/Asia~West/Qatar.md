@@ -139,7 +139,7 @@ death_rate:
 - 1.311
 Happy_Planet_Index_score: 24.3
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.qa,43117]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.qa,43117]]'
 Democracy_Index: 3.65
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 social_media_followers: 7570
@@ -150,9 +150,9 @@ Human_Development_Index: 0.855
 literacy_rate: 97.8
 IAB_code: 1384
 total_fertility_rate: 2.026
-number_of_out-of-school_children: 24440
+number_of_out_of_school_children: 24440
 maritime_identification_digits: 466
-ISO_3166-1_numeric_code: 634
+ISO_3166_1_numeric_code: 634
 M49_code: 634
 birth_rate:
 - 9.091
@@ -168,13 +168,13 @@ rural_population:
 - 22795
 mobile_country_code: 427
 median_income: 26555
-ISO_3166-1_alpha-2_code: QA
-FIPS_10-4_countries_and_regions_: QA
+ISO_3166_1_alpha_2_code: QA
+FIPS_10_4_countries_and_regions_: QA
 WIPO_ST_3: QA
 life_expectancy: 78.184
 OmegaWiki_Defined_Meaning: 8439
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Qatar.svg"
-ISO_3166-1_alpha-3_code: QAT
+ISO_3166_1_alpha_3_code: QAT
 IOC_country_code: QAT
 ITU_letter_code: QAT
 urban_population:

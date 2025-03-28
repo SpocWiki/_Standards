@@ -66,7 +66,7 @@ has_edition_or_translation:
 - '[[_Standards/WikiData/WD~Mahabharat,124638710]]'
 - '[[_Standards/WikiData/WD~Bharat-ratna,125912043]]'
 - '[[_Standards/WikiData/WD~Mahabharat,129435402]]'
-Libris-URI: 20dhnd7l0p7c1vl
+Libris_URI: 20dhnd7l0p7c1vl
 entry_in_abbreviations_table: MBh.
 language_of_work_or_name: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
 copyright_status: "[[_Standards/WikiData/WD~public domain,19652]]"

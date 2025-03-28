@@ -98,7 +98,7 @@ U_S_National_Archives_Identifier: 10569067
 BHCL_UUID: e7df1d75-d0a6-4fbb-aaca-ba6077eefd61
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Edison::d6j5v\"]"
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/EDISON_TOMAS_ALVA.html
-Libris-URI: sq46649b16hj3md
+Libris_URI: sq46649b16hj3md
 Google_Doodle: thomas-edisons-birthday
 spouse:
 - "[[_Standards/WikiData/WD~Mary Stilwell Edison,22087332]]"

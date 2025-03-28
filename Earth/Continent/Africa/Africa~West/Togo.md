@@ -159,8 +159,8 @@ BTI_Governance_Index:
 - 4.93
 - 4.95
 - 4.96
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tg,42860]]'
-Inequality-adjusted_Human_Development_Index: 0.372
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tg,42860]]'
+Inequality_adjusted_Human_Development_Index: 0.372
 Happy_Planet_Index_score: 37.3
 Gini_coefficient: 42.4
 lowest_point: "[[_Standards/WikiData/WD~Bight of Benin,47530]]"
@@ -234,14 +234,14 @@ death_rate:
 - 8.417
 - 8.465
 mobile_country_code: 615
-FIPS_10-4_countries_and_regions_: TO
+FIPS_10_4_countries_and_regions_: TO
 IAB_code: 1457
 WIPO_ST_3: TG
 licence_plate_code: TG
-ISO_3166-1_alpha-2_code: TG
+ISO_3166_1_alpha_2_code: TG
 maritime_identification_digits: 671
 M49_code: 768
-ISO_3166-1_numeric_code: 768
+ISO_3166_1_numeric_code: 768
 OmegaWiki_Defined_Meaning: 8346
 area: 56785
 life_expectancy: 60.232
@@ -251,14 +251,14 @@ official_name:
 - "République togolaise"
 INSEE_countries_and_foreign_territories_code: 99345
 ITU_letter_code: TGO
-ISO_3166-1_alpha-3_code: TGO
+ISO_3166_1_alpha_3_code: TGO
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kpalime.jpg"
 female_population:
 - 4101080
 - 4199517
 - 4299551
 - 4400474
-number_of_out-of-school_children: 547181
+number_of_out_of_school_children: 547181
 IOC_country_code: TOG
 coordinates_of_northernmost_point: "Point(-0.1362 11.13949)"
 urban_population:

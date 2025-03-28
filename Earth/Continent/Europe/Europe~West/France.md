@@ -386,7 +386,7 @@ suicide_rate: 9.7
 death_rate: 9.8
 birth_rate: 10.6
 poverty_incidence: 13.6
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.fr,37271]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.fr,37271]]'
 total_fertility_rate: 1.99
 annual_number_of_weddings:
 - 241000
@@ -417,13 +417,13 @@ Happy_Planet_Index_score: 51.8
 basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
 social_media_followers: 7140
 Democracy_Index: 7.99
-Inequality-adjusted_Human_Development_Index: 0.825
+Inequality_adjusted_Human_Development_Index: 0.825
 Human_Development_Index: 0.903
 ITU_letter_code: F
 UIC_alphabetical_country_code: F
 licence_plate_code: F
 M49_code: 250
-ISO_3166-1_numeric_code: 250
+ISO_3166_1_numeric_code: 250
 UIC_numerical_country_code: 87
 budget: 455200000000
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg"
@@ -434,10 +434,10 @@ maritime_identification_digits:
 - 227
 - 228
 WIPO_ST_3: FR
-ISO_3166-1_alpha-2_code: FR
-FIPS_10-4_countries_and_regions_: FR
+ISO_3166_1_alpha_2_code: FR
+FIPS_10_4_countries_and_regions_: FR
 NUTS_code: FR
-number_of_out-of-school_children: 29418
+number_of_out_of_school_children: 29418
 median_income: 30364
 male_population:
 - 33279000
@@ -521,7 +521,7 @@ demonym:
 - francesa
 - francia
 - Française
-ISO_3166-1_alpha-3_code: FRA
+ISO_3166_1_alpha_3_code: FRA
 IOC_country_code: FRA
 number_of_deaths: 593865
 U_S_National_Archives_Identifier: 10035788

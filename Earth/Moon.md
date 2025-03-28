@@ -100,7 +100,7 @@ orbital_eccentricity: 0.0567
 density: 3.344
 periapsis: 363300
 area: 37930000
-semi-major_axis_of_an_orbit: 384400
+semi_major_axis_of_an_orbit: 384400
 apoapsis: 405500
 orbital_inclination: 5.145
 volume_as_quantity: 21968000000

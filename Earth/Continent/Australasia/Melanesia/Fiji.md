@@ -163,17 +163,17 @@ life_expectancy: 68
 Human_Development_Index: 0.73
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Melanesia,37394]]'
 capital: '[[_Standards/WikiData/WD~Suva,38807]]'
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.fj,39878]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.fj,39878]]'
 Gini_coefficient: 30.7
 Democracy_Index: 5.72
-Inequality-adjusted_Human_Development_Index: 0.608
+Inequality_adjusted_Human_Development_Index: 0.608
 OmegaWiki_Defined_Meaning: 7957
-number_of_out-of-school_children: 16270
+number_of_out_of_school_children: 16270
 maritime_identification_digits: 520
 total_fertility_rate: 2.564
 death_rate: 8.235
 mobile_country_code: 542
-ISO_3166-1_numeric_code: 242
+ISO_3166_1_numeric_code: 242
 M49_code: 242
 area: 18274
 birth_rate: 19.131
@@ -229,11 +229,11 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Fiji
 Commons_category: Fiji
 hashtag: Fiji
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fiji%20%28orthographic%20projection%29.svg"
-ISO_3166-1_alpha-2_code: FJ
+ISO_3166_1_alpha_2_code: FJ
 WIPO_ST_3: FJ
-FIPS_10-4_countries_and_regions_: FJ
+FIPS_10_4_countries_and_regions_: FJ
 licence_plate_code: FJI
-ISO_3166-1_alpha-3_code: FJI
+ISO_3166_1_alpha_3_code: FJI
 ITU_letter_code: FJI
 geoshape: "http://commons.wikimedia.org/data/main/Data:Fiji.map"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D1%83%D0%B8%D0%BD%D1%81-%D1%80%D0%BE%D1%83%D0%B4%2C%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%20%D0%9D%D0%B0%D0%BD%D0%B4%D0%B8%20%28Queens%20Rd.%2C%20Nadi%29.jpg"
@@ -246,7 +246,7 @@ official_website: "https://www.fiji.gov.fj/Home"
 IPA_transcription: "'fɪdʂɪ"
 country_calling_code: +679
 U_S_National_Archives_Identifier: 10044435
-Libris-URI: 42gjh1pn1qq3mrr
+Libris_URI: 42gjh1pn1qq3mrr
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Fiji\"]"
 CIVICUS_Monitor_country_entry: fiji
 Commons_gallery: "Fiji / Viti"

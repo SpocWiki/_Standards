@@ -578,7 +578,7 @@ unemployment_rate: 6.7
 life_expectancy: 77
 death_rate: 9.8
 suicide_rate: 14.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.us,37861]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.us,37861]]'
 social_media_followers:
 - 19900
 - 46276
@@ -599,7 +599,7 @@ maximum_temperature_record: 56.7
 central_bank: "[[_Standards/WikiData/WD~Federal Reserve System,53536]]"
 vehicles_per_thousand_people: 778
 Democracy_Index: 7.92
-Inequality-adjusted_Human_Development_Index: 0.819
+Inequality_adjusted_Human_Development_Index: 0.819
 Human_Development_Index: 0.921
 literacy_rate: 99.4
 total_fertility_rate: 1.665
@@ -613,7 +613,7 @@ country_calling_code: +1
 aircraft_registration_prefix: N
 IAB_code: 1455
 M49_code: 840
-ISO_3166-1_numeric_code: 840
+ISO_3166_1_numeric_code: 840
 per_capita_income: 35384
 median_income: 43585
 coastline: 95471
@@ -622,12 +622,12 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%
 ITU_letter_code: USA
 IOC_country_code: USA
 licence_plate_code: USA
-ISO_3166-1_alpha-3_code: USA
+ISO_3166_1_alpha_3_code: USA
 INSEE_countries_and_foreign_territories_code: 99404
 PM20_geo_code: E15
 WIPO_ST_3: US
-FIPS_10-4_countries_and_regions_: US
-ISO_3166-1_alpha-2_code: US
+FIPS_10_4_countries_and_regions_: US
+ISO_3166_1_alpha_2_code: US
 DPLA_subject_term: "United States"
 Commons_gallery: "United States"
 Commons_category: "United States"
@@ -635,7 +635,7 @@ seal_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Seal%20of%20the%20United%20States%20%28obverse%29.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Seal%20of%20the%20United%20States%20%28reverse%29.svg"
 motto_text: "In God We Trust"
-number_of_out-of-school_children: 2528999
+number_of_out_of_school_children: 2528999
 Basisklassifikation: 15.87
 WOEID: 23424977
 area: 9826675
@@ -680,7 +680,7 @@ rural_population:
 - 56376192
 - 56870028
 population: 340110988
-Libris-URI: xv8b9vvg52nbbxp
+Libris_URI: xv8b9vvg52nbbxp
 MeSH_tree_code: Z01.107.567.875
 Baidu_Tieba_name: 美国
 native_label:

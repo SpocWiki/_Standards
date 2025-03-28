@@ -58,7 +58,7 @@ subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
 vapor_pressure: 0
 immediately_dangerous_to_life_or_health: 100
 electronegativity: 2
-time-weighted_average_exposure_limit: 0.05
+time_weighted_average_exposure_limit: 0.05
 ionic_radius:
 - 1.4
 - 0.65

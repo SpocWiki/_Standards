@@ -135,7 +135,7 @@ Commons_Creator_page: "Marie Curie"
 Google_Doodle: marie-curies-144th-birthday
 Krugosvet_article: nauka_i_tehnika/fizika/SKLODOVSKAYA-KYURI_MARIYA.html
 Image_Archive_Herder_Institute: Q7186
-Libris-URI: zw9cc7dh3h9vk0k
+Libris_URI: zw9cc7dh3h9vk0k
 name_in_native_language:
 - "Marie Curie"
 - "Maria Skłodowska-Curie"

@@ -44,20 +44,20 @@ GS1_country_code: 608
 OmegaWiki_Defined_Meaning: 8336
 INSEE_countries_and_foreign_territories_code: 99249
 PM20_geo_code: B36
-FIPS_10-4_countries_and_regions_: BA
+FIPS_10_4_countries_and_regions_: BA
 GitHub_topic: bahrain
 CIVICUS_Monitor_country_entry: bahrain
 Commons_category: Bahrain
 subreddit: Bahrain
 hashtag: Bahrain
-ISO_3166-1_alpha-2_code: BH
+ISO_3166_1_alpha_2_code: BH
 WIPO_ST_3: BH
 Unicode_character: "\U0001F1E7\U0001F1ED"
-ISO_3166-1_alpha-3_code: BHR
+ISO_3166_1_alpha_3_code: BHR
 ITU_letter_code: BHR
 licence_plate_code: BRN
 IOC_country_code: BRN
-Libris-URI: sq465h4b3hn904z
+Libris_URI: sq465h4b3hn904z
 Krugosvet_article: strany_mira/BAHREN.html
 MeSH_tree_code: Z01.252.245.500.175
 Commons_gallery: "البحرين / Bahrain"
@@ -106,7 +106,7 @@ death_rate:
 - 2.476
 - 2.479
 - 2
-number_of_out-of-school_children: 7114
+number_of_out_of_school_children: 7114
 area: 786.5
 birth_rate:
 - 11.454
@@ -273,7 +273,7 @@ BTI_Status_Index:
 - 6.21
 suicide_rate: 5.9
 lowest_point: "[[_Standards/WikiData/WD~Persian Gulf,34675]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bh,39993]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bh,39993]]'
 Democracy_Index: 2.52
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
 BTI_Governance_Index:
@@ -304,7 +304,7 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%
 literacy_rate: 97.5
 official_website: "https://www.bahrain.bh"
 country_calling_code: +973
-ISO_3166-1_numeric_code: 048
+ISO_3166_1_numeric_code: 048
 M49_code: 048
 U_S_National_Archives_Identifier: 10046225
 ---

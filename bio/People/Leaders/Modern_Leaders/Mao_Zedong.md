@@ -105,7 +105,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Mao%20Zedong%20si
 Academia_edu_profile_URL: "https://www.academia.edu/People/Mao_Zedong"
 NLC_authorities: 000184442
 U_S_National_Archives_Identifier: 10580956
-Libris-URI: 64jlgg5q502wmgq
+Libris_URI: 64jlgg5q502wmgq
 work_period_end_: "1976-01-01T00:00:00Z"
 date_of_death: "1976-09-09T00:00:00Z"
 BHCL_UUID: d2b53d24-6407-4b09-828d-40beb2d0d284

@@ -42,7 +42,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~biology,420]]'
 - "[[_Standards/WikiData/WD~organic chemistry,11351]]"
 OmegaWiki_Defined_Meaning: 351
-All-Science_Journal_Classification_Codes: 1303
+All_Science_Journal_Classification_Codes: 1303
 ---
 
 ## #has_/text_of_/abstract 
