@@ -1,4 +1,4 @@
-﻿---
+---
 language_used:
 - "[[_Standards/WikiData/WD~Nyah Kur,116849]]"
 - "[[_Standards/WikiData/WD~Northern Thai,565110]]"
@@ -379,7 +379,7 @@ licence_plate_code: T
 WIPO_ST_3: TH
 FIPS_10_4_countries_and_regions_: TH
 ISO_3166_1_alpha_2_code: TH
-Unicode_character: "\U0001F1F9\U0001F1ED"
+Unicode_character: 🇹🇭 
 ITU_letter_code: THA
 IOC_country_code: THA
 ISO_3166_1_alpha_3_code: THA

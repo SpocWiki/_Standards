@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8081
 Commons_category: Tornadoes
 has_cause: '[[_Standards/WikiData/WD~cumulonimbus,182311]]'
@@ -30,7 +30,7 @@ MeSH_tree_code:
 - G16.500.750.775.745
 - N06.230.100.230.850
 Krugosvet_article: nauka_i_tehnika/fizika/SMERCHI_I_TORNADO.html
-Unicode_character: "\U0001F32A"
+Unicode_character: 🌪 
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13133108,13133108]]'
 instance_of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tornadoes,123154370]]'

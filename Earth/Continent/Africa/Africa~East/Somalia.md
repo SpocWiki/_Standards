@@ -1,4 +1,4 @@
-﻿---
+---
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.so,126480]]'
 flag: "[[_Standards/WikiData/WD~flag of Somalia,159538]]"
 member_of:
@@ -220,7 +220,7 @@ birth_rate:
 life_expectancy: 56.293
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg"
 maritime_identification_digits: 666
-Unicode_character: "\U0001F1F8\U0001F1F4"
+Unicode_character: 🇸🇴 
 area: 637657
 INSEE_countries_and_foreign_territories_code: 99318
 PM20_geo_code: C123

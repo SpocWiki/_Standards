@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11035
 discoverer_or_inventor:
 - "[[_Standards/WikiData/WD~Johann Philipp Reis,77124]]"
@@ -53,11 +53,12 @@ Colon_Classification:
 - X36
 - D665,48
 Unicode_character:
-- "\U0001F4DE"
-- ☎
-- ☏
-- ✆
-- ℡
+- 📞 
+- ☎ 
+- ☏ 
+- ✆ 
+- ℡ 
+- ☎️ 
 OpenStreetMap_tag_or_key: "Tag:amenity=telephone"
 U_S_National_Archives_Identifier: 10643595
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kaunas%20banner%20phone%20booths.jpg"

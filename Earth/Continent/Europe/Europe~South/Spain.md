@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spain
 linkTitle: 
 type: Country
@@ -519,7 +519,7 @@ rural_population:
 - 8982448
 - 9089469
 - 9160656
-Unicode_character: "\U0001F1EA\U0001F1F8"
+Unicode_character: 🇪🇸 
 official_website: "https://administracion.gob.es/"
 CIVICUS_Monitor_country_entry: spain
 GitHub_topic: spain

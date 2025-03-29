@@ -1,4 +1,4 @@
-﻿---
+---
 highest_point: "[[_Standards/WikiData/WD~Mount Ararat,72303]]"
 part_of:
 - "[[_Standards/WikiData/WD~Mediterranean Basin,72499]]"
@@ -498,7 +498,7 @@ X_Twitter_username: ekapi
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Turkey\"]"
 Colon_Classification: SG--591
 Krugosvet_article: strany_mira/TURTSIYA.html
-Unicode_character: "\U0001F1F9\U0001F1F7"
+Unicode_character: 🇹🇷 
 CIVICUS_Monitor_country_entry: turkey
 GitHub_topic: turkey
 Commons_gallery: Türkiye

@@ -1,7 +1,7 @@
-﻿---
+---
 has_id_wikidata: Q847
 exact_match: "http://imagenet.stanford.edu/synset?wnid=n00482298"
-Unicode_character: "\U0001F3BE"
+Unicode_character: 🎾 
 U_S_National_Archives_Identifier: 10645054
 Iconclass_notation: 43C4151
 IPTC_NewsCode: mediatopic/20001085

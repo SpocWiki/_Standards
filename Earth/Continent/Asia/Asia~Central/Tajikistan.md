@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
 - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
@@ -174,7 +174,7 @@ UIC_alphabetical_country_code: TJ
 HASC: TJ
 licence_plate_code: TJ
 ISO_3166_1_alpha_2_code: TJ
-Unicode_character: "\U0001F1F9\U0001F1EF"
+Unicode_character: 🇹🇯 
 country: '[[_Standards/WikiData/WD~Tajikistan,863]]'
 official_language:
 - '[[_Standards/WikiData/WD~Russian,7737]]'

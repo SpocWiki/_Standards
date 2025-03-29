@@ -1,4 +1,4 @@
-﻿---
+---
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Mwanza,110218]]'
 - "[[_Standards/WikiData/WD~Ruvuma Region,115318]]"
@@ -380,7 +380,7 @@ Commons_category: Tanzania
 FIPS_10_4_countries_and_regions_: TZ
 ISO_3166_1_alpha_2_code: TZ
 WIPO_ST_3: TZ
-Unicode_character: "\U0001F1F9\U0001F1FF"
+Unicode_character: 🇹🇿 
 MeSH_tree_code: Z01.058.290.120.840
 native_label:
 - "United Republic of Tanzania"

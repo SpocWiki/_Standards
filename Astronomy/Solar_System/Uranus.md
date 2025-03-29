@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q324
 named_after:
 - '[[_Standards/WikiData/WD~Uranus,79999]]'

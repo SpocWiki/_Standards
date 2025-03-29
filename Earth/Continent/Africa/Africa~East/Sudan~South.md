@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked country,123480]]"
 - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
@@ -315,7 +315,7 @@ Commons_category: "South Sudan"
 Commons_gallery: "South Sudan"
 inception: "2011-07-09T00:00:00Z"
 has_time_started: "2011-07-09T00:00:00Z"
-Unicode_character: "\U0001F1F8\U0001F1F8"
+Unicode_character: 🇸🇩 
 coordinates_of_easternmost_point: "Point(35.949 4.63103)"
 coordinates_of_northernmost_point: "Point(32.73159 12.23638)"
 has_id_wikidata: Q958

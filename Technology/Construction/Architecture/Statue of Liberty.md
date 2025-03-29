@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Statue of Liberty"
 has_id_wikidata: Q9202
@@ -10,7 +10,7 @@ aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20L
 winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Statue%20of%20Liberty%201.jpg"
 official_website: "http://www.nps.gov/stli/index.htm"
 webcam_page_URL: "https://share.earthcam.net/tJ90CoLmq7TzrY396Yd88I5yUI5fB6qcgNfvLV46ynk!.tJ90CoLmq7TzrY396Yd88FAPmLPx_8Tz2fAtvDt69GE!/statue_of_liberty_ellis_island_foundation/statue_of_liberty/live"
-Unicode_character: "\U0001F5FD"
+Unicode_character: 🗽 
 Google_Doodle: 130th-anniversary-of-france-delivering-the-statue-of-liberty-to-the-united-states
 Wolfram_Language_entity_code: "Entity[\"Artwork\", \"StatueOfLiberty::FredericAugusteBartholdi\"]"
 Library_of_Congress_Classification: F128.64.L6

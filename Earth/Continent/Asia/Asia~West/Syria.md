@@ -1,4 +1,4 @@
-﻿---
+---
 trunk_prefix: 0
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 death_rate:
@@ -256,7 +256,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Palmyra%20banne
 inception: "1920-03-08T00:00:00Z"
 has_time_started: "1920-03-08T00:00:00Z"
 U_S_National_Archives_Identifier: 10035790
-Unicode_character: "\U0001F1F8\U0001F1FE"
+Unicode_character: 🇸🇾 
 coordinate_location: "Point(38.583333 35.216667)"
 coordinates_of_southernmost_point: "Point(36.838055555 32.311388888)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Syria%20%282024%E2%80%93present%29.svg"

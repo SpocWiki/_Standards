@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Tuvalu,105643]]"
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
@@ -129,7 +129,7 @@ Commons_gallery: Tuvalu
 Commons_category: Tuvalu
 subreddit: Tuvalu
 hashtag: Tuvalu
-Unicode_character: "\U0001F1F9\U0001F1FB"
+Unicode_character: 🇹🇻 
 official_name:
 - "les Tuvalu"
 - Tuvalu

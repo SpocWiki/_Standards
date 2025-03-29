@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -26.3167
 - 31.1333
@@ -183,7 +183,7 @@ nominal_GDP:
 - 4854167638
 - 4748702401
 PM20_geo_code: C97
-Unicode_character: "\U0001F1F8\U0001F1FF"
+Unicode_character: 🇸🇿 
 ISO_3166_1_alpha_3_code: SWZ
 ITU_letter_code: SWZ
 IOC_country_code: SWZ

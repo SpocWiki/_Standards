@@ -1,4 +1,4 @@
-﻿---
+---
 located_in_or_next_to_body_of_water:
 - "[[_Standards/WikiData/WD~Gulf of Oman,79948]]"
 - "[[_Standards/WikiData/WD~Persian Gulf,34675]]"
@@ -348,7 +348,7 @@ INSEE_countries_and_foreign_territories_code: 99247
 ISO_3166_1_alpha_2_code: AE
 FIPS_10_4_countries_and_regions_: AE
 WIPO_ST_3: AE
-Unicode_character: "\U0001F1E6\U0001F1EA"
+Unicode_character: 🇦🇪 
 ISO_3166_1_alpha_3_code: ARE
 IPA_transcription: "dɪ fɔ'ɾeːntə ɑ'ɾɑːbɪskə ɛmɪ'ɾɑːtəɾ"
 Wolfram_Language_entity_code: "Entity[\"Country\", \"UnitedArabEmirates\"]"

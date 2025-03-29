@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.45
 - 30.5
@@ -334,7 +334,7 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Ukraine\"]"
 Image_Archive_Herder_Institute: Q212
 Colon_Classification: SG--587
 Krugosvet_article: strany_mira/UKRAINA.html
-Unicode_character: "\U0001F1FA\U0001F1E6"
+Unicode_character: 🇺🇦 
 hashtag:
 - Ucraina
 - Ucrânia

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6097
 MeSH_tree_code:
 - J02.200.831
@@ -59,7 +59,10 @@ Commons_category: Tea
 OmegaWiki_Defined_Meaning: 5926
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Boiling%20water%20being%20poured%20into%20a%20mug%20for%20tea.ogg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20Banner3.jpg"
-Unicode_character: "\U0001F375"
+Unicode_character: 
+- 🍵 
+- ☕ 
+- ⛾ 
 U_S_National_Archives_Identifier: 10645808
 Amazon_com_browse_node: 16318401
 UNSPSC_Code: 50201711

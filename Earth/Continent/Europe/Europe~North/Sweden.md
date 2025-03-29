@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 59.7646
 - 16.5434
@@ -503,7 +503,7 @@ Libris_URI: 97mppvdt327j8rx
 BHCL_UUID:
 - c066aa66-ff98-4b09-b409-91084233d189
 - dfe028fd-2642-4bb8-aaec-32be15dcbed0
-Unicode_character: "\U0001F1F8\U0001F1EA"
+Unicode_character: 🇸🇪 
 Colon_Classification: SG--571
 Krugosvet_article: strany_mira/SHVETSIYA.html
 Commons_gallery: Sverige

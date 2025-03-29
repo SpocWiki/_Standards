@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
 - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
@@ -365,7 +365,7 @@ U_S_National_Archives_Identifier: 10035673
 Libris_URI: mkz102w54z7qc1l
 Colon_Classification: SG--673
 Krugosvet_article: strany_mira/TUNIS.html
-Unicode_character: "\U0001F1F9\U0001F1F3"
+Unicode_character: 🇹🇳 
 CIVICUS_Monitor_country_entry: tunisia
 GitHub_topic: tunisia
 Commons_gallery: "تونس / Tunest / Tunisie"

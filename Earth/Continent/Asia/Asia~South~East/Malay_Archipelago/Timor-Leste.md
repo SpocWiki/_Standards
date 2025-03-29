@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -8.56667
 - 125.567
@@ -241,7 +241,7 @@ coordinates_of_westernmost_point: "Point(124.04173849 -9.34005816)"
 nominal_GDP:
 - 3163324631
 - 3621222400
-Unicode_character: "\U0001F1F9\U0001F1F1"
+Unicode_character: 🇹🇱 
 ISO_3166_3: TPTL
 MeSH_tree_code: Z01.252.145.900
 official_name:

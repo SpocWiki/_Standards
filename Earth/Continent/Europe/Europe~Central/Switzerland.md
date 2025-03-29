@@ -1,4 +1,4 @@
-﻿---
+---
 title: Switzerland
 type: Country
 location:
@@ -454,7 +454,7 @@ U_S_National_Archives_Identifier: 10045644
 coordinates_of_southernmost_point: "Point(9.01705027 45.8179357)"
 official_website: "https://www.admin.ch"
 coordinates_of_geographic_center: "Point(8.226667 46.801111)"
-Unicode_character: "\U0001F1E8\U0001F1ED"
+Unicode_character: 🇨🇭 
 ---
 
 #has_/time_/started :: 1291-08-01 

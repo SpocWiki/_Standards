@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q289
 International_Standard_Industrial_Classification_code_Rev_4: 6020
 Nomenclature_for_Museum_Cataloging: 11342
@@ -6,7 +6,7 @@ subreddit: television
 PhilPapers_topic: television
 Commons_gallery: Television
 Commons_category: Television
-Unicode_character: "\U0001F4FA"
+Unicode_character: 📺 
 Dewey_Decimal_Classification: 791.45
 GS1_GPC_code:
 - 10001400

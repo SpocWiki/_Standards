@@ -1,8 +1,8 @@
-﻿---
+---
 CIVICUS_Monitor_country_entry: taiwan
 subreddit: taiwan
 GitHub_topic: taiwan
-Unicode_character: "\U0001F1F9\U0001F1FC"
+Unicode_character: 🇹🇼 
 hashtag:
 - 台灣
 - Taiwan

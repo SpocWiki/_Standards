@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 5.86
 - -55.17
@@ -219,7 +219,7 @@ pronunciation_audio:
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Suriname%20banner.png"
 country_calling_code: +597
 Dewey_Decimal_Classification: 2--883
-Unicode_character: "\U0001F1F8\U0001F1F7"
+Unicode_character: 🇸🇷 
 Krugosvet_article: strany_mira/SURINAM.html
 GitHub_topic: suriname
 CIVICUS_Monitor_country_entry: suriname

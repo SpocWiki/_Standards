@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q870
 has_part_s_:
 - '[[_Standards/WikiData/WD~locomotive,93301]]'
@@ -26,7 +26,7 @@ Nomenclature_for_Museum_Cataloging: 12378
 Commons_category: Trains
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/FS%20E%20444%20084%20Cervo%20Andora%20banner.jpg"
 U_S_National_Archives_Identifier: 10675596
-Unicode_character: "\U0001F686"
+Unicode_character: 🚆 
 small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20directions%20train%2048px.svg"
 equivalent_class: "http://dbpedia.org/ontology/Train"
 MIL_STD_2525_Symbol_Identification_Code: 10011500001500000000

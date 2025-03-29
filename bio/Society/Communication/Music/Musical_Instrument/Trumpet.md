@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8338
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
@@ -25,7 +25,7 @@ U_S_National_Archives_Identifier: 10648442
 OmegaWiki_Defined_Meaning: 344567
 playing_range_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Range%20trumpet.svg"
 Commons_category: Trumpets
-Unicode_character: "\U0001F3BA"
+Unicode_character: 🎺 
 Commons_gallery: Trumpet
 ---
 

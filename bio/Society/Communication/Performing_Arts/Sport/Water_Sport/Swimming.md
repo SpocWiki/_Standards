@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6388
 different_from:
 - "[[_Standards/WikiData/WD~underwater diving,179643]]"
@@ -15,7 +15,7 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Swimming,1461595
 UMLS_CUI: C0039003
 sport: '[[_Standards/WikiData/WD~swimming,31920]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Avishag%20Turek%20in%20training%20camp%20Eilat%20Israel.jpg"
-Unicode_character: "\U0001F3CA"
+Unicode_character: 🏊 
 MeSH_tree_code:
 - G11.427.410.568.800
 - G11.427.410.698.277.875

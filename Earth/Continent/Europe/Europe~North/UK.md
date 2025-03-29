@@ -1,4 +1,4 @@
-﻿---
+---
 title: UK
 type: Country
 location:
@@ -390,7 +390,7 @@ anthem: "[[_Standards/WikiData/WD~God Save the King,40807]]"
 Krugosvet_article: Earth_sciences/geografiya/SOEDINENNOE_KOROLEVSTVO_VELIKOBRITANII_I_SEVERNO_IRLANDII.html
 Wolfram_Language_entity_code: "Entity[\"Country\", \"UnitedKingdom\"]"
 Wikitribune_category: europe/united-kingdom
-Unicode_character: "\U0001F1EC\U0001F1E7"
+Unicode_character: 🇬🇧 
 ISO_3166_2_code: GB-UKM
 Libris_URI: jgvxx4n24nx12bv
 GSS_code_2011_: K02000001

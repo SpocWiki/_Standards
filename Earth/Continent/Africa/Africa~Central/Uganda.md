@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Uganda,103037]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Uganda,108570]]"
 anthem: "[[_Standards/WikiData/WD~Oh Uganda, Land of Beauty,110193]]"
@@ -444,7 +444,7 @@ PM20_geo_code: C117
 licence_plate_code: EAU
 Colon_Classification: SG--688
 Krugosvet_article: strany_mira/UGANDA.html
-Unicode_character: "\U0001F1FA\U0001F1EC"
+Unicode_character: 🇺🇬 
 CIVICUS_Monitor_country_entry: uganda
 GitHub_topic: uganda
 has_id_wikidata: Q1036

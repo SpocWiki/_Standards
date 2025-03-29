@@ -1,4 +1,4 @@
-﻿---
+---
 demonym:
 - Tógalannach
 - togolès
@@ -296,7 +296,7 @@ official_website: "https://www.republicoftogo.com"
 country_calling_code: +228
 Dewey_Decimal_Classification: 2--6681
 Krugosvet_article: strany_mira/TOGO.html
-Unicode_character: "\U0001F1F9\U0001F1EC"
+Unicode_character: 🇹🇬 
 native_label: Togo
 short_name: "\U0001F1F9\U0001F1EC"
 coordinate_location: "Point(1.183333 8.25)"

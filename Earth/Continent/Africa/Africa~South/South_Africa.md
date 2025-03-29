@@ -1,4 +1,4 @@
-﻿---
+---
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~KwaZulu-Natal,81725]]'
 - "[[_Standards/WikiData/WD~Western Cape,127167]]"
@@ -309,7 +309,7 @@ ISO_3166_1_alpha_2_code: ZA
 life_expectancy: 62.774
 IAB_code: 1409
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg"
-Unicode_character: "\U0001F1FF\U0001F1E6"
+Unicode_character: 🇿🇦 
 IOC_country_code: RSA
 OmegaWiki_Defined_Meaning: 7933
 social_media_followers: 207107
