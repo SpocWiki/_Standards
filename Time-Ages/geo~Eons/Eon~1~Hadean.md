@@ -4,23 +4,36 @@
 
 A time period from 4567 to 4031 million years ago.
 
+#has_/time_/started :: -4.567e9 
+#has_/time_/stopped :: -4.031e9 
+
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/prev_item :: --- 
 #has_/next_item :: [[Eon~2~Archean]]    
 
+#has_/time_/started :: 
+
 ## #has_/text_of_/abstract 
 
 
-> The **Hadean** (IPA:  hay-DEE-ən, HAY-dee-ən) is the first and oldest of the four known  geologic eons of Earth's history, starting with the planet's formation about 4.54 Bya, now defined as (4567.30 ± 0.16) Mya set by the age of the oldest solid material in the Solar System found in some meteorites about 4.567 billion years old. 
+> The **Hadean** (IPA:  hay-DEE-ən, HAY-dee-ən) is the first and oldest of the four known geologic eons 
+> of Earth's history, starting with the planet's formation about 4.54 Bya, 
+> now defined as (4567.30 ± 0.16) Mya set by the age of the oldest solid material in the Solar System 
+> found in some meteorites about 4.567 billion years old. 
 > 
 > The supposed interplanetary collision that created the Moon occurred early in this eon. 
 > 
-> The Hadean ended 4.031 billion years ago and was succeeded by the Archean eon, with the Late Heavy Bombardment hypothesized to have occurred at the Hadean-Archean boundary.
+> The Hadean ended 4.031 billion years ago and was succeeded by the Archean eon, 
+> with the Late Heavy Bombardment hypothesized to have occurred at the Hadean-Archean boundary.
 >
-> Hadean rocks are very rare, largely consisting of granular zircons from one locality (Jack Hills) in Western Australia. Hadean geophysical models remain controversial among geologists: it appears that plate tectonics and the growth of continents may have started in the Hadean. 
+> Hadean rocks are very rare, 
+> largely consisting of granular zircons from one locality (Jack Hills) in Western Australia. 
+> Hadean geophysical models remain controversial among geologists: 
+> it appears that plate tectonics and the growth of continents may have started in the Hadean. 
 > 
-> Earth in the early Hadean had a very thick carbon dioxide- and methane-rich prebiotic atmosphere, but eventually oceans made of liquid water were formed.
+> Earth in the early Hadean had a very thick carbon dioxide- and methane-rich prebiotic atmosphere, 
+> but eventually oceans made of liquid water were formed.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hadean)
 
@@ -45,9 +58,6 @@ A time period from 4567 to 4031 million years ago.
 #has_/label_/zh  :: 冥古宙（非正式）
 
 #has_/abbreviation :: HA
-
-#has_/time_/started :: -4.567e9 
-#has_/time_/stopped :: -4.031e9 
 
 #has_/text_of_/color :: 0xAE027E
 

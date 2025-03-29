@@ -7,7 +7,7 @@ aliases:
 # [[Mesolithic]] 
 
 #is_a_/time_/Culture 
-#is_/part_of_ :: [[../History/Stone_Age]] 
+#is_/part_of_ :: [[../Stone-Age]] 
 
 #has_/time_/started :: -13e3 
 #has_/time_/stopped ::  -8e3 

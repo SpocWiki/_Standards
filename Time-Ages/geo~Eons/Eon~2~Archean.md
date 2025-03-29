@@ -4,6 +4,9 @@
 
 A time period from 4031 to 2500 million years ago.
 
+#has_/time_/started :: -4.031e9 
+#has_/time_/stopped :: -2.500e9 
+
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/prev_item :: [[Eon~1~Hadean]]    
@@ -48,9 +51,6 @@ A time period from 4031 to 2500 million years ago.
 #has_/label_/zh  :: 太古宙
 
 #has_/abbreviation :: AR
-
-#has_/time_/started :: -4.031e9 
-#has_/time_/stopped :: -2.500e9 
 
 #has_/text_of_/color :: 0xF0047F
 
