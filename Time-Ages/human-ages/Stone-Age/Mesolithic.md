@@ -1,7 +1,5 @@
 ---
-aliases:
-  - Epipaleolithic
-  - Middle Stone Age
+aliases: [Epipaleolithic, Middle Stone Age]
 ---
 
 # [[Mesolithic]] 

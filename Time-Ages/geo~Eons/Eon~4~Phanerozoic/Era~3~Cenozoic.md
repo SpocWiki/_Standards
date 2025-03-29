@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: []
 ischart: Cenozoic
   - Age of Mammals
 ---

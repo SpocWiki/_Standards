@@ -1,23 +1,21 @@
-﻿---
-aliases:
-- "Protestant Reformation"
-- Reformation
+---
+aliases: ["Protestant Reformation", Reformation]
 has_id_wikidata: Q12562
 facet_of:
-- "[[_Standards/WikiData/WD~Reformed Christianity,101849]]"
-- '[[_Standards/WikiData/WD~Protestantism,23540]]'
+  - '[[_Standards/WikiData/WD~Protestantism,23540]]'
+  - "[[_Standards/WikiData/WD~Reformed Christianity,101849]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
 instance_of:
-- "[[_Standards/WikiData/WD~subject heading,1128340]]"
-- "[[_Standards/WikiData/WD~schism from the Catholic Church,126288065]]"
+  - "[[_Standards/WikiData/WD~schism from the Catholic Church,126288065]]"
+  - "[[_Standards/WikiData/WD~subject heading,1128340]]"
 different_from: '[[_Standards/WikiData/WD~reformism,1323572]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~English Reformation,1645505]]"
+  - "[[_Standards/WikiData/WD~English Reformation,1645505]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/95Thesen%20facsimile%20colour.png"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Protestant%20Reformation%20pagebanner.jpg"
 Krugosvet_article: kultura_i_obrazovanie/religiya/REFORMATSIYA.html

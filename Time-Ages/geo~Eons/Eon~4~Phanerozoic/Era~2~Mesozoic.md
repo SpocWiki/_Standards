@@ -1,12 +1,12 @@
 ---
-aliases: 
+aliases: []
 ischart: Mesozoic
 has_id_wikidata: Q83222
 described_by_source:
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
   - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
 instance_of:
   - "[[_Standards/WikiData/WD~era,630830]]"
   - "[[_Standards/WikiData/WD~erathem,2464485]]"

@@ -1,13 +1,13 @@
-﻿---
+---
 has_id_wikidata: Q11756
 subclass_of: "[[_Standards/WikiData/WD~archaeological culture,465299]]"
 instance_of:
-- '[[_Standards/WikiData/WD~periodization,816829]]'
-- "[[_Standards/WikiData/WD~historical period,11514315]]"
-- '[[_Standards/WikiData/WD~time,11471]]'
+  - '[[_Standards/WikiData/WD~periodization,816829]]'
+  - '[[_Standards/WikiData/WD~time,11471]]'
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
 studied_in:
-- "[[_Standards/WikiData/WD~prehistory and early history,2310752]]"
-- "[[_Standards/WikiData/WD~prehistoric archaeology,2415966]]"
+  - "[[_Standards/WikiData/WD~prehistoric archaeology,2415966]]"
+  - "[[_Standards/WikiData/WD~prehistory and early history,2310752]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q6187119,6187119]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Prehistory,7498415]]'
 described_by_source: "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"

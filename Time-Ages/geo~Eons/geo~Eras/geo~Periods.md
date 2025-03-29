@@ -3,8 +3,8 @@ has_id_wikidata: Q392928
 studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
 standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigraphy,402104]]"
 different_from:
-  - "[[_Standards/WikiData/WD~system,403523]]"
   - "[[_Standards/WikiData/WD~archaeological period,15401633]]"
+  - "[[_Standards/WikiData/WD~system,403523]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
@@ -13,8 +13,8 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~epoch,754897]]"
   - "[[_Standards/WikiData/WD~subperiod,2239359]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~unit of time,1790144]]"
   - "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
+  - "[[_Standards/WikiData/WD~unit of time,1790144]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Geological period,10305208]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Geological%20time%20spiral.png
 equivalent_class: http://dbpedia.org/ontology/GeologicalPeriod

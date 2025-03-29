@@ -1,7 +1,5 @@
 ---
-aliases:
-  - Viséan
-  - Visian
+aliases: [Viséan, Visian]
 ---
 # [[Age~Visean]] 
 

@@ -1,40 +1,39 @@
-﻿---
+---
 has_id_wikidata: Q12536
-aliases:
-- "Abbasid Caliphate"
+aliases: ["Abbasid Caliphate"]
 replaced_by:
-- "[[_Standards/WikiData/WD~Fatimid Caliphate,160307]]"
-- "[[_Standards/WikiData/WD~Mamluk Sultanate,282428]]"
-- "[[_Standards/WikiData/WD~Ottoman Empire,12560]]"
+  - "[[_Standards/WikiData/WD~Fatimid Caliphate,160307]]"
+  - "[[_Standards/WikiData/WD~Mamluk Sultanate,282428]]"
+  - "[[_Standards/WikiData/WD~Ottoman Empire,12560]]"
 followed_by:
-- "[[_Standards/WikiData/WD~Fatimid Caliphate,160307]]"
-- '[[_Standards/WikiData/WD~Ilkhanate,178084]]'
-- "[[_Standards/WikiData/WD~Tulunid emirate,4147013]]"
+  - '[[_Standards/WikiData/WD~Ilkhanate,178084]]'
+  - "[[_Standards/WikiData/WD~Fatimid Caliphate,160307]]"
+  - "[[_Standards/WikiData/WD~Tulunid emirate,4147013]]"
 capital:
-- '[[_Standards/WikiData/WD~Samarra,170047]]'
-- '[[_Standards/WikiData/WD~Hashimiyya,68169717]]'
-- '[[_Standards/WikiData/WD~Baghdad,1530]]'
-- '[[_Standards/WikiData/WD~Cairo,85]]'
+  - '[[_Standards/WikiData/WD~Baghdad,1530]]'
+  - '[[_Standards/WikiData/WD~Cairo,85]]'
+  - '[[_Standards/WikiData/WD~Hashimiyya,68169717]]'
+  - '[[_Standards/WikiData/WD~Samarra,170047]]'
 main_regulatory_text:
-- '[[_Standards/WikiData/WD~Sunnah,234764]]'
-- '[[_Standards/WikiData/WD~sharia,482752]]'
-- '[[_Standards/WikiData/WD~Qur’an,428]]'
+  - '[[_Standards/WikiData/WD~Qur’an,428]]'
+  - '[[_Standards/WikiData/WD~sharia,482752]]'
+  - '[[_Standards/WikiData/WD~Sunnah,234764]]'
 founded_by: '[[_Standards/WikiData/WD~As-Saffah,252087]]'
 head_of_state: '[[_Standards/WikiData/WD~As-Saffah,252087]]'
 named_after: "[[_Standards/WikiData/WD~Abbas ibn Abd al-Muttalib,293599]]"
 currency:
-- '[[_Standards/WikiData/WD~Dirham,572664]]'
-- "[[_Standards/WikiData/WD~gold dinar,11220294]]"
+  - '[[_Standards/WikiData/WD~Dirham,572664]]'
+  - "[[_Standards/WikiData/WD~gold dinar,11220294]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
 culture:
-- "[[_Standards/WikiData/WD~culture of Iran,953291]]"
-- "[[_Standards/WikiData/WD~Islamic culture,1340372]]"
+  - "[[_Standards/WikiData/WD~culture of Iran,953291]]"
+  - "[[_Standards/WikiData/WD~Islamic culture,1340372]]"
 instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
 family: '[[_Standards/WikiData/WD~Abbasids,4437641]]'
 follows: "[[_Standards/WikiData/WD~Umayyad Caliphate,8575586]]"
@@ -42,14 +41,14 @@ position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Abbasid cal
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~Abbasid caliph,28541943]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351353,42351353]]'
 locator_map_image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD-ar.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD.png"
+  - "http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD-ar.png"
+  - "http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD.png"
 inception: "0750-01-01T00:00:00Z"
 has_time_started: "0750-01-01T00:00:00Z"
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 language_used:
-- '[[_Standards/WikiData/WD~Persian,9168]]'
-- '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~Persian,9168]]'
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 area: 11100000

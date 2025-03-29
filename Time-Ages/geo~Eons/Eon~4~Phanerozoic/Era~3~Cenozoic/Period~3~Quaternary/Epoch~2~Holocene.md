@@ -1,8 +1,5 @@
 ---
-aliases:
-  - Human Era
-  - Holocene Era
-  - Holocene calendar
+aliases: [Holocene calendar, Holocene Era, Human Era]
 ---
 # [[Epoch~2~Holocene]] 
 

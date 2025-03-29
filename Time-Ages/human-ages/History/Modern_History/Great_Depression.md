@@ -1,38 +1,35 @@
-﻿---
-aliases:
-- Weltwirtschaftskrise
-- "Große Depression"
-- "Great Depression"
+---
+aliases: ["Great Depression", "Große Depression", Weltwirtschaftskrise]
 has_id_wikidata: Q8698
 instance_of:
-- '[[_Standards/WikiData/WD~recession,176494]]'
-- "[[_Standards/WikiData/WD~economic crisis,290178]]"
-- '[[_Standards/WikiData/WD~era,6428674]]'
-- "[[_Standards/WikiData/WD~historical period,11514315]]"
+  - '[[_Standards/WikiData/WD~era,6428674]]'
+  - '[[_Standards/WikiData/WD~recession,176494]]'
+  - "[[_Standards/WikiData/WD~economic crisis,290178]]"
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Canon of Dutch History,907660]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Financial Instability,59440034]]"
+  - "[[_Standards/WikiData/WD~Canon of Dutch History,907660]]"
+  - "[[_Standards/WikiData/WD~Financial Instability,59440034]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
 country:
-- "[[_Standards/WikiData/WD~German Reich,1206012]]"
-- "[[_Standards/WikiData/WD~South Africa,258]]"
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Afghanistan,889]]'
-- "[[_Standards/WikiData/WD~British Empire,8680]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
-- '[[_Standards/WikiData/WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
+  - '[[_Standards/WikiData/WD~Chile,298]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~Netherlands,55]]'
+  - "[[_Standards/WikiData/WD~British Empire,8680]]"
+  - "[[_Standards/WikiData/WD~German Reich,1206012]]"
+  - "[[_Standards/WikiData/WD~South Africa,258]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
 has_cause: "[[_Standards/WikiData/WD~causes of the Great Depression,2910703]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Great Depression in France,3114934]]"
-- "[[_Standards/WikiData/WD~Great Depression in Canada,5599047]]"
-- "[[_Standards/WikiData/WD~Great Depression in India,5599050]]"
-- "[[_Standards/WikiData/WD~Great Depression in South Africa,5599051]]"
-- "[[_Standards/WikiData/WD~Great Depression in Australia,5599048]]"
-- "[[_Standards/WikiData/WD~Great Depression in Central Europe,5599049]]"
-- "[[_Standards/WikiData/WD~Great Depression in Latin America,5599053]]"
-- "[[_Standards/WikiData/WD~Great Depression in the United Kingdom,5599058]]"
-- "[[_Standards/WikiData/WD~Great Depression in Chile,17071849]]"
+  - "[[_Standards/WikiData/WD~Great Depression in Australia,5599048]]"
+  - "[[_Standards/WikiData/WD~Great Depression in Canada,5599047]]"
+  - "[[_Standards/WikiData/WD~Great Depression in Central Europe,5599049]]"
+  - "[[_Standards/WikiData/WD~Great Depression in Chile,17071849]]"
+  - "[[_Standards/WikiData/WD~Great Depression in France,3114934]]"
+  - "[[_Standards/WikiData/WD~Great Depression in India,5599050]]"
+  - "[[_Standards/WikiData/WD~Great Depression in Latin America,5599053]]"
+  - "[[_Standards/WikiData/WD~Great Depression in South Africa,5599051]]"
+  - "[[_Standards/WikiData/WD~Great Depression in the United Kingdom,5599058]]"
 history_of_topic: "[[_Standards/WikiData/WD~timeline of the Great Depression,7806351]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Great Depression,22734544]]"
 notable_work: "[[_Standards/WikiData/WD~Some of the most important features of the economic and financial situation in 1932,107353518]]"
@@ -43,11 +40,11 @@ end_time: "1941-01-01T00:00:00Z"
 start_time: "1929-10-29T00:00:00Z"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Depression-ar.ogg"
 exact_match:
-- "http://data.culture.fr/thesaurus/page/ark:/67717/T4-96"
-- "http://lemac.sgcb.mcu.es/Autoridades/LEMAC201209787/concept"
-- "http://lod.gesis.org/thesoz/concept_10050097"
-- "http://wordnet-rdf.princeton.edu/pwn30/14489361-n"
-- "https://data.bnf.fr/ark:/12148/cb11937041r"
+  - "http://data.culture.fr/thesaurus/page/ark:/67717/T4-96"
+  - "http://lemac.sgcb.mcu.es/Autoridades/LEMAC201209787/concept"
+  - "http://lod.gesis.org/thesoz/concept_10050097"
+  - "http://wordnet-rdf.princeton.edu/pwn30/14489361-n"
+  - "https://data.bnf.fr/ark:/12148/cb11937041r"
 RIA_Novosti_reference: 190264066
 ---
 

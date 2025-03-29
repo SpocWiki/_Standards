@@ -4,10 +4,10 @@ named_by: "[[_Standards/WikiData/WD~Adam Sedgwick,350891]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
 instance_of:
   - "[[_Standards/WikiData/WD~era,630830]]"
   - "[[_Standards/WikiData/WD~erathem,2464485]]"

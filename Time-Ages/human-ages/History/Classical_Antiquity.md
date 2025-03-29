@@ -1,40 +1,36 @@
-﻿---
+---
 has_id_wikidata: Q486761
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Mediterranean Basin,72499]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~Macedonia,83958]]'
-- '[[_Standards/WikiData/WD~Scythians,131802]]'
-- "[[_Standards/WikiData/WD~Bronze age Cyprus,245813]]"
-- '[[_Standards/WikiData/WD~Lydians,1778719]]'
-- "[[_Standards/WikiData/WD~Italic peoples,3617880]]"
-- "[[_Standards/WikiData/WD~Byzantine Empire,12544]]"
-- '[[_Standards/WikiData/WD~Etruscans,17161]]'
+  - '[[_Standards/WikiData/WD~Etruscans,17161]]'
+  - '[[_Standards/WikiData/WD~Lydians,1778719]]'
+  - '[[_Standards/WikiData/WD~Macedonia,83958]]'
+  - '[[_Standards/WikiData/WD~Scythians,131802]]'
+  - "[[_Standards/WikiData/WD~Bronze age Cyprus,245813]]"
+  - "[[_Standards/WikiData/WD~Byzantine Empire,12544]]"
+  - "[[_Standards/WikiData/WD~Italic peoples,3617880]]"
 studied_in:
-- "[[_Standards/WikiData/WD~classical philology,495527]]"
-- "[[_Standards/WikiData/WD~Classical Greek and Roman history,112939719]]"
+  - "[[_Standards/WikiData/WD~Classical Greek and Roman history,112939719]]"
+  - "[[_Standards/WikiData/WD~classical philology,495527]]"
 facet_of:
-- "[[_Standards/WikiData/WD~Greco-Roman world,937284]]"
+  - "[[_Standards/WikiData/WD~Greco-Roman world,937284]]"
 instance_of:
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- "[[_Standards/WikiData/WD~historical period,11514315]]"
+  - '[[_Standards/WikiData/WD~style,1292119]]'
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
 follows: "[[_Standards/WikiData/WD~Early antiquity,98270938]]"
 Provenio_UUID: 6ed0abb9-8760-428d-bbf2-89754e4fd8ef
 end_time: "0500-01-01T00:00:00Z"
 Iconclass_notation:
-- 98
-- 23T23
+  - 23T23
+  - 98
 Commons_category: "Ancient history"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20pano%20%284362583154%29.jpg"
 start_time:
-- "-1198-01-01T00:00:00Z"
-- "-0798-01-01T00:00:00Z"
-aliases:
-- "classical era"
-- "classical period"
-- "classical age"
-- antiquity
+  - "-0798-01-01T00:00:00Z"
+  - "-1198-01-01T00:00:00Z"
+aliases: ["classical age", "classical era", "classical period", antiquity]
 ---
 
 #has_/time_/started :: -0800-06 

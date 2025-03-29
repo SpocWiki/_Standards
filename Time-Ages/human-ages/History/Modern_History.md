@@ -1,13 +1,12 @@
-﻿---
-aliases:
-- "Modern history"
+---
+aliases: ["Modern history"]
 has_id_wikidata: Q3281534
 part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 instance_of:
-- "[[_Standards/WikiData/WD~academic major,4671286]]"
-- '[[_Standards/WikiData/WD~era,6428674]]'
-- "[[_Standards/WikiData/WD~historical period,11514315]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+  - '[[_Standards/WikiData/WD~era,6428674]]'
+  - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~academic major,4671286]]"
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
 follows: "[[_Standards/WikiData/WD~Postclassical Era,7234117]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Modern history,13834331]]"
 practiced_by: "[[_Standards/WikiData/WD~historian of Modern Age,17489339]]"

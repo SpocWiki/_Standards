@@ -1,43 +1,42 @@
-﻿---
-aliases:
-- "American Civil War"
+---
+aliases: ["American Civil War"]
 has_id_wikidata: Q8676
 Library_of_Congress_Classification: E461-E655
 Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"AmericanCivilWar\"]"
 MeSH_tree_code:
-- I01.880.735.950.250.188
-- K01.400.504.937.100
+  - I01.880.735.950.250.188
+  - K01.400.504.937.100
 nickname:
-- "War Between the States"
-- "War of Northern Aggression"
+  - "War Between the States"
+  - "War of Northern Aggression"
 participant:
-- "[[_Standards/WikiData/WD~Confederate States of America,81931]]"
-- '[[_Standards/WikiData/WD~Union,214102]]'
+  - '[[_Standards/WikiData/WD~Union,214102]]'
+  - "[[_Standards/WikiData/WD~Confederate States of America,81931]]"
 has_cause: "[[_Standards/WikiData/WD~slavery in the United States,118382]]"
 has_effect:
-- "[[_Standards/WikiData/WD~Thirteenth Amendment to the United States Constitution,175613]]"
-- "[[_Standards/WikiData/WD~Ten percent plan,7699410]]"
+  - "[[_Standards/WikiData/WD~Ten percent plan,7699410]]"
+  - "[[_Standards/WikiData/WD~Thirteenth Amendment to the United States Constitution,175613]]"
 has_contributing_factor:
-- "[[_Standards/WikiData/WD~Fugitive Slave Act of 1850,535519]]"
-- "[[_Standards/WikiData/WD~Kansas–Nebraska Act,619762]]"
-- "[[_Standards/WikiData/WD~Dred Scott v. Sandford,690462]]"
+  - "[[_Standards/WikiData/WD~Dred Scott v. Sandford,690462]]"
+  - "[[_Standards/WikiData/WD~Fugitive Slave Act of 1850,535519]]"
+  - "[[_Standards/WikiData/WD~Kansas–Nebraska Act,619762]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
 location:
-- "[[_Standards/WikiData/WD~Northern United States,1357541]]"
-- "[[_Standards/WikiData/WD~Southern United States,49042]]"
+  - "[[_Standards/WikiData/WD~Northern United States,1357541]]"
+  - "[[_Standards/WikiData/WD~Southern United States,49042]]"
 studied_in: "[[_Standards/WikiData/WD~military history of the United States,1483473]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Pacific Coast Theater of the American Civil War,2036652]]"
-- "[[_Standards/WikiData/WD~Trans-Mississippi theater of the American Civil War,2496537]]"
-- "[[_Standards/WikiData/WD~Western Theater of the American Civil War,2988047]]"
+  - "[[_Standards/WikiData/WD~Pacific Coast Theater of the American Civil War,2036652]]"
+  - "[[_Standards/WikiData/WD~Trans-Mississippi theater of the American Civil War,2496537]]"
+  - "[[_Standards/WikiData/WD~Western Theater of the American Civil War,2988047]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_American Civil War,6677215]]"
 has_immediate_cause:
-- "[[_Standards/WikiData/WD~President Lincoln's 75,000 Volunteers,7241234]]"
-- "[[_Standards/WikiData/WD~secession of the Southern United States,18077700]]"
+  - "[[_Standards/WikiData/WD~President Lincoln's 75,000 Volunteers,7241234]]"
+  - "[[_Standards/WikiData/WD~secession of the Southern United States,18077700]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_American Civil War,10730168]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
 followed_by: "[[_Standards/WikiData/WD~Second American Civil War,17130955]]"

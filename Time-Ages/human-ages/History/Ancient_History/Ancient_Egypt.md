@@ -1,20 +1,20 @@
-﻿---
+---
 has_id_wikidata: Q11768
 studied_in: '[[_Standards/WikiData/WD~Egyptology,145903]]'
 historical_region:
-- "[[_Standards/WikiData/WD~ancient Near East,269678]]"
-- "[[_Standards/WikiData/WD~Nile Valley Civilizations,11041351]]"
+  - "[[_Standards/WikiData/WD~ancient Near East,269678]]"
+  - "[[_Standards/WikiData/WD~Nile Valley Civilizations,11041351]]"
 history_of_topic: "[[_Standards/WikiData/WD~history of ancient Egypt,766876]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+  - '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
 instance_of:
-- "[[_Standards/WikiData/WD~historical region,1620908]]"
-- "[[_Standards/WikiData/WD~historical country,3024240]]"
-- "[[_Standards/WikiData/WD~cultural region,3502482]]"
-- "[[_Standards/WikiData/WD~ancient civilization,28171280]]"
+  - "[[_Standards/WikiData/WD~ancient civilization,28171280]]"
+  - "[[_Standards/WikiData/WD~cultural region,3502482]]"
+  - "[[_Standards/WikiData/WD~historical country,3024240]]"
+  - "[[_Standards/WikiData/WD~historical region,1620908]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography of Ancient Egypt,2487803]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ancient Egypt topics,6043821]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline of ancient Egypt,7112549]]"
@@ -38,8 +38,8 @@ has_time_started: "-4000-01-01T00:00:00Z"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 country: '[[_Standards/WikiData/WD~Egypt,79]]'
 Dewey_Decimal_Classification:
-- 932
-- 2--32
+  - 2--32
+  - 932
 Commons_category: "Ancient Egypt"
 ---
 

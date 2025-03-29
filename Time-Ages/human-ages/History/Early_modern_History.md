@@ -1,12 +1,10 @@
-﻿---
-aliases:
-- "Early modern history"
-- "early modern period"
+---
+aliases: ["Early modern history", "early modern period"]
 has_id_wikidata: Q5308718
 part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 instance_of:
-- "[[_Standards/WikiData/WD~academic major,4671286]]"
-- '[[_Standards/WikiData/WD~era,6428674]]'
+  - '[[_Standards/WikiData/WD~era,6428674]]'
+  - "[[_Standards/WikiData/WD~academic major,4671286]]"
 follows: "[[_Standards/WikiData/WD~Postclassical Era,7234117]]"
 history_of_topic: "[[_Standards/WikiData/WD~Early Modern history,109120185]]"
 MeSH_tree_code: K01.400.475

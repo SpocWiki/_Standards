@@ -1,16 +1,13 @@
-﻿---
-aliases:
-- "Hundred Years' War"
-- "Hundred Year War"
-- "Hundred Years War"
+---
+aliases: ["Hundred Year War", "Hundred Years War", "Hundred Years' War"]
 has_id_wikidata: Q12551
 participant:
-- "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
-- "[[_Standards/WikiData/WD~Kingdom of England,179876]]"
+  - "[[_Standards/WikiData/WD~Kingdom of England,179876]]"
+  - "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
 has_list: "[[_Standards/WikiData/WD~timeline of the Hundred Years' War,7806363]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q12107%20%28bre%29-ThonyVezbe-Brezel%20Kant%20Vloaz.wav"
 Provenio_UUID: 920bb582-b77d-47f3-ae2e-55587b8870ef

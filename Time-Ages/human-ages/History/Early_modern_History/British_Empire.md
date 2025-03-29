@@ -1,14 +1,13 @@
-﻿---
-aliases:
-- "British Empire"
+---
+aliases: ["British Empire"]
 has_id_wikidata: Q8680
 coat_of_arms: "[[_Standards/WikiData/WD~royal coat of arms of the United Kingdom,165762]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
 replaces: "[[_Standards/WikiData/WD~English overseas possession,617219]]"
 instance_of: "[[_Standards/WikiData/WD~colonial empire,1790360]]"
 different_from: "[[_Standards/WikiData/WD~Britannic Empire,2078249]]"
@@ -21,11 +20,11 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20o
 inception: "1583-01-01T00:00:00Z"
 has_time_started: "1583-01-01T00:00:00Z"
 continent:
-- "[[_Standards/WikiData/WD~Insular Oceania,538]]"
-- '[[_Standards/WikiData/WD~Americas,828]]'
-- '[[_Standards/WikiData/WD~Africa,15]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
+  - '[[_Standards/WikiData/WD~Africa,15]]'
+  - '[[_Standards/WikiData/WD~Americas,828]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - "[[_Standards/WikiData/WD~Insular Oceania,538]]"
 language_used: '[[_Standards/WikiData/WD~English,1860]]'
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
 capital: '[[_Standards/WikiData/WD~London,84]]'
@@ -42,8 +41,8 @@ has_time_stopped: "1997-01-01T00:00:00Z"
 coordinate_location: "Point(-0.1275 51.507222)"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/British%20Empire%20banner%20map%20border.jpg"
 spoken_text_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/En-British%20Empire-article.oga"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B2%D6%80%D5%AB%D5%BF%D5%A1%D5%B6%D5%A1%D5%AF%D5%A1%D5%B6%20%D5%AF%D5%A1%D5%B5%D5%BD%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6.ogg"
+  - "http://commons.wikimedia.org/wiki/Special:FilePath/En-British%20Empire-article.oga"
+  - "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B2%D6%80%D5%AB%D5%BF%D5%A1%D5%B6%D5%A1%D5%AF%D5%A1%D5%B6%20%D5%AF%D5%A1%D5%B5%D5%BD%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6.ogg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20British%20Empire.png"
 Commons_category: "British Empire"
 Krugosvet_article: istoriya/BRITANSKAYA_IMPERIYA.html

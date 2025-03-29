@@ -5,21 +5,21 @@ subject_has_role: "[[_Standards/WikiData/WD~protonym,10640897]]"
 protonym_of: "[[_Standards/WikiData/WD~Acrocodia indica,27868283]]"
 taxon_synonym: "[[_Standards/WikiData/WD~Acrocodia indica,27868283]]"
 taxon_common_name:
-  - Schabrackentapir
-  - Malay Tapir
-  - Asiatischer Tapir
-  - Malaysischer Tapir
   - Asian tapir
   - Asian Tapir
   - Asiatic Tapir
+  - Asiatischer Tapir
   - Indian Tapir
+  - indijski tapir
+  - Malay Tapir
   - Malayan Tapir
-  - Tapir Malayo
+  - Malaysischer Tapir
+  - Schabrackentapir
   - Tapir à dos blanc
   - Tapir àcChabraque
   - Tapir de l'Inde
   - Tapir Malais
-  - indijski tapir
+  - Tapir Malayo
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered status,96377276]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Malayan%20Tapir.JPG
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Malayan%20Tapir%20area.png

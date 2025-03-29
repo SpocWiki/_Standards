@@ -1,7 +1,5 @@
 ---
-aliases:
-  - Upper Paleolithic
-  - Upper Palaeolithic
+aliases: [Upper Palaeolithic, Upper Paleolithic]
 ---
 ﻿# [[Upper_Paleolithic]]
 

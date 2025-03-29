@@ -1,15 +1,15 @@
-﻿---
+---
 has_id_wikidata: Q217050
 instance_of:
-- "[[_Standards/WikiData/WD~archaeological culture,465299]]"
-- "[[_Standards/WikiData/WD~historical period,11514315]]"
-- '[[_Standards/WikiData/WD~culture,11042]]'
+  - '[[_Standards/WikiData/WD~culture,11042]]'
+  - "[[_Standards/WikiData/WD~archaeological culture,465299]]"
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Late antiquity,10968580]]"
 start_time: "http://www.wikidata.org/.well-known/genid/84c01416ae2f369201ef10762dfd0d97"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Vergilius%20romanus%20234v.jpg"
 EAGLE_id:
-- dates/lod/185
-- dates/lod/25
+  - dates/lod/185
+  - dates/lod/25
 Commons_category: "Late antiquity"
 end_time: "http://www.wikidata.org/.well-known/genid/4fb801ba8c9f6c8f6758c284f6b841f2"
 ---

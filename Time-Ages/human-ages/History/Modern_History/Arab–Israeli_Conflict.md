@@ -1,10 +1,9 @@
-﻿---
-aliases:
-- "Arab–Israeli conflict"
+---
+aliases: ["Arab–Israeli conflict"]
 has_id_wikidata: Q8669
 instance_of:
-- "[[_Standards/WikiData/WD~ethnic conflict,766875]]"
-- "[[_Standards/WikiData/WD~international conflict,11422542]]"
+  - "[[_Standards/WikiData/WD~ethnic conflict,766875]]"
+  - "[[_Standards/WikiData/WD~international conflict,11422542]]"
 history_of_topic: "[[_Standards/WikiData/WD~history of the Arab–Israeli conflict,2967235]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~Arab–Israeli Wars,3491398]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Arab–Israeli conflict,6682272]]"

@@ -1,18 +1,18 @@
-﻿---
+---
 has_id_wikidata: Q12567
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
 has_works_in_the_collection: "[[_Standards/WikiData/WD~Fries Museum,848313]]"
 instance_of:
-- '[[_Standards/WikiData/WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~people,2472587]]'
-- "[[_Standards/WikiData/WD~historical period,11514315]]"
-- '[[_Standards/WikiData/WD~culture,11042]]'
+  - '[[_Standards/WikiData/WD~culture,11042]]'
+  - '[[_Standards/WikiData/WD~people,2472587]]'
+  - '[[_Standards/WikiData/WD~style,1292119]]'
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
 different_from: '[[_Standards/WikiData/WD~Wikingowie,16615111]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110097651,110097651]]'
 start_time: "0793-01-01T00:00:00Z"

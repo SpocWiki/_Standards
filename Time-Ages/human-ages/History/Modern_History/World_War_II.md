@@ -1,8 +1,5 @@
-﻿---
-aliases:
-- "Great Patriotic War"
-- WWII
-- "World War II"
+---
+aliases: ["Great Patriotic War", "World War II", WWII]
 has_id_wikidata: Q362
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/WW2%20collage.jpg"
 Stack_Exchange_tag: "https://history.stackexchange.com/tags/world-war-two"
@@ -12,8 +9,8 @@ Swedish_Anbytarforum: 11155.0
 Basisklassifikation: 15.24
 Provenio_UUID: 656acf95-f583-4653-b9d0-693e9159fc3e
 Wolfram_Language_entity_code:
-- "Entity[\"HistoricalEvent\", \"WorldWar2\"]"
-- "Entity[\"MilitaryConflict\", \"WorldWarII\"]"
+  - "Entity[\"HistoricalEvent\", \"WorldWar2\"]"
+  - "Entity[\"MilitaryConflict\", \"WorldWarII\"]"
 Krugosvet_article: istoriya/VTORAYA_MIROVAYA_VONA.html
 Regensburg_Classification: "NQ 2545 - NQ 2795"
 Commons_category: "World War II"
@@ -24,83 +21,83 @@ Stadtwiki_Dresden_article: Zweiter_Weltkrieg
 end_time: "1945-09-02T00:00:00Z"
 start_time: "1939-09-01T00:00:00Z"
 instance_of:
-- "[[_Standards/WikiData/WD~world war,103495]]"
-- "[[_Standards/WikiData/WD~historical period,11514315]]"
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
+  - "[[_Standards/WikiData/WD~world war,103495]]"
 has_effect:
-- "[[_Standards/WikiData/WD~Empire of Japan,188712]]"
-- "[[_Standards/WikiData/WD~Allies of World War II,329888]]"
-- "[[_Standards/WikiData/WD~Korean Peninsula,483134]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
-- '[[_Standards/WikiData/WD~Austria,40]]'
-- "[[_Standards/WikiData/WD~League of Nations,38130]]"
+  - '[[_Standards/WikiData/WD~Austria,40]]'
+  - '[[_Standards/WikiData/WD~Japan,17]]'
+  - "[[_Standards/WikiData/WD~Allies of World War II,329888]]"
+  - "[[_Standards/WikiData/WD~Empire of Japan,188712]]"
+  - "[[_Standards/WikiData/WD~Korean Peninsula,483134]]"
+  - "[[_Standards/WikiData/WD~League of Nations,38130]]"
+  - "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
+  - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+  - "[[_Standards/WikiData/WD~United Nations,1065]]"
+  - "[[_Standards/WikiData/WD~United States,30]]"
 has_cause:
-- '[[_Standards/WikiData/WD~chauvinism,226418]]'
-- "[[_Standards/WikiData/WD~causes of World War II,714999]]"
-- '[[_Standards/WikiData/WD~revanchism,1136718]]'
-- '[[_Standards/WikiData/WD~providentialism,2298962]]'
-- "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
-- '[[_Standards/WikiData/WD~fascism,6223]]'
+  - '[[_Standards/WikiData/WD~chauvinism,226418]]'
+  - '[[_Standards/WikiData/WD~fascism,6223]]'
+  - '[[_Standards/WikiData/WD~providentialism,2298962]]'
+  - '[[_Standards/WikiData/WD~revanchism,1136718]]'
+  - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
+  - "[[_Standards/WikiData/WD~causes of World War II,714999]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~timeline of World War II,327039]]"
-- "[[_Standards/WikiData/WD~diplomatic history of World War II,16973783]]"
+  - "[[_Standards/WikiData/WD~diplomatic history of World War II,16973783]]"
+  - "[[_Standards/WikiData/WD~timeline of World War II,327039]]"
 participant:
-- "[[_Standards/WikiData/WD~Allies of World War II,329888]]"
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~Axis Powers,43056]]"
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~Taiwan,865]]'
+  - "[[_Standards/WikiData/WD~Allies of World War II,329888]]"
+  - "[[_Standards/WikiData/WD~Axis Powers,43056]]"
+  - "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
 location:
-- "[[_Standards/WikiData/WD~South Asia,771405]]"
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
-- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-- "[[_Standards/WikiData/WD~Middle East,7204]]"
-- "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
-- '[[_Standards/WikiData/WD~Scandinavia,21195]]'
-- "[[_Standards/WikiData/WD~North Asia,27329]]"
-- "[[_Standards/WikiData/WD~Southern Africa,27394]]"
-- "[[_Standards/WikiData/WD~East Africa,27407]]"
-- "[[_Standards/WikiData/WD~Central Africa,27433]]"
-- '[[_Standards/WikiData/WD~Africa,15]]'
-- "[[_Standards/WikiData/WD~South America,18]]"
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~Europe,46]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
-- "[[_Standards/WikiData/WD~North America,49]]"
-- "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Africa,15]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Japan,17]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+  - "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+  - "[[_Standards/WikiData/WD~Central Africa,27433]]"
+  - "[[_Standards/WikiData/WD~East Africa,27407]]"
+  - "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+  - "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+  - "[[_Standards/WikiData/WD~Middle East,7204]]"
+  - "[[_Standards/WikiData/WD~North America,49]]"
+  - "[[_Standards/WikiData/WD~North Asia,27329]]"
+  - "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~South America,18]]"
+  - "[[_Standards/WikiData/WD~South Asia,771405]]"
+  - "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
+  - "[[_Standards/WikiData/WD~Southern Africa,27394]]"
 order_of_battle:
-- "[[_Standards/WikiData/WD~French army 1939-1940,2862963]]"
-- "[[_Standards/WikiData/WD~Order of battle for 7th Armoured Division,7100586]]"
-- "[[_Standards/WikiData/WD~Order of battle of RAF Coastal Command,7275247]]"
-- "[[_Standards/WikiData/WD~Supplementary Order of Battle,7644454]]"
-- "[[_Standards/WikiData/WD~Yugoslav Army in the Fatherland order of battle,12759406]]"
-- "[[_Standards/WikiData/WD~Imperial Japanese Navy order of battle 1941,16056731]]"
+  - "[[_Standards/WikiData/WD~French army 1939-1940,2862963]]"
+  - "[[_Standards/WikiData/WD~Imperial Japanese Navy order of battle 1941,16056731]]"
+  - "[[_Standards/WikiData/WD~Order of battle for 7th Armoured Division,7100586]]"
+  - "[[_Standards/WikiData/WD~Order of battle of RAF Coastal Command,7275247]]"
+  - "[[_Standards/WikiData/WD~Supplementary Order of Battle,7644454]]"
+  - "[[_Standards/WikiData/WD~Yugoslav Army in the Fatherland order of battle,12759406]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_World War II,3247957]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
+  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
 has_immediate_cause: "[[_Standards/WikiData/WD~Secret Additional Protocol to the Molotov–Ribbentrop Pact,4413308]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_World War II,5928186]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject World War II,10653810]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline of World War II,16056531]]"
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q21777981,21777981]]'
-- '[[_Standards/WikiData/WD~Q25681543,25681543]]'
-- '[[_Standards/WikiData/WD~Q27643331,27643331]]'
+  - '[[_Standards/WikiData/WD~Q21777981,21777981]]'
+  - '[[_Standards/WikiData/WD~Q25681543,25681543]]'
+  - '[[_Standards/WikiData/WD~Q27643331,27643331]]'
 UMLS_CUI: C0681710
 Libris_URI: 64jlkvmq4b77rq1
 MeSH_tree_code:
-- I01.880.735.950.250.984
-- K01.400.504.968.901
+  - I01.880.735.950.250.984
+  - K01.400.504.968.901
 described_at_URL: "https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ereig-0074"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Infobox%20collage%20for%20WWII.PNG"
 number_of_deaths: 73000000

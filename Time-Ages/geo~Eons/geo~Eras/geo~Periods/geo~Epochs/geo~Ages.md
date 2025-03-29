@@ -5,8 +5,8 @@ standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigrap
 part_of: "[[_Standards/WikiData/WD~epoch,754897]]"
 different_from:
   - "[[_Standards/WikiData/WD~age of the Earth,935310]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
   - "[[_Standards/WikiData/WD~age,100343219]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
 has_part_s_: "[[_Standards/WikiData/WD~polarity chron,3290178]]"
 subclass_of: "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
 ---

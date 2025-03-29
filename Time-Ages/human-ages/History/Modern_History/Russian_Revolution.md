@@ -1,11 +1,10 @@
-﻿---
-aliases:
-- "Russian Revolution"
+---
+aliases: ["Russian Revolution"]
 has_id_wikidata: Q8729
 participant:
-- '[[_Standards/WikiData/WD~Bolsheviks,83372]]'
-- '[[_Standards/WikiData/WD~Mensheviks,191515]]'
-- "[[_Standards/WikiData/WD~Socialist Revolutionary Party,217009]]"
+  - '[[_Standards/WikiData/WD~Bolsheviks,83372]]'
+  - '[[_Standards/WikiData/WD~Mensheviks,191515]]'
+  - "[[_Standards/WikiData/WD~Socialist Revolutionary Party,217009]]"
 part_of: "[[_Standards/WikiData/WD~Revolutions of 1917–1923,7318933]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Russian Revolution,14398246]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Revoluci%C3%B3n-marzo-rusia--russianbolshevik00rossuoft.png"

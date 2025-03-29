@@ -1,6 +1,5 @@
 ---
-aliases:
-  - New Stone Age
+aliases: [New Stone Age]
 ---
 # [[Neolithic]] 
 
