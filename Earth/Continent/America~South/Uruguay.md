@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -352,7 +352,7 @@ hashtag: Uruguay
 inception: "1825-08-25T00:00:00Z"
 has_time_started: "1825-08-25T00:00:00Z"
 ISO_3166_1_alpha_3_code: URY
-Unicode_character: "\U0001F1FA\U0001F1FE"
+Unicode_character: 🇺🇾 
 U_S_National_Archives_Identifier: 10035745
 CIVICUS_Monitor_country_entry: uruguay
 subreddit: uruguay

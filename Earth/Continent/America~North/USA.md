@@ -1,4 +1,4 @@
-﻿---
+---
 title: "United States of America"
 type: Country
 location:
@@ -669,7 +669,7 @@ Colon_Classification: SG--73
 Krugosvet_article: strany_mira/SOEDINENNIE_SHTATI_AMERIKI.html
 CIVICUS_Monitor_country_entry: united-states-america
 IMDb_keyword: united-states-of-america
-Unicode_character: "\U0001F1FA\U0001F1F8"
+Unicode_character: 🇺🇸 
 Instagram_username: usagov
 X_Twitter_username:
 - usagov

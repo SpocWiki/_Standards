@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -17.75
 - 168.3
@@ -220,7 +220,7 @@ Commons_gallery: Vanuatu
 hashtag: Vanuatu
 ISO_3166_1_alpha_2_code: VU
 WIPO_ST_3: VU
-Unicode_character: "\U0001F1FB\U0001F1FA"
+Unicode_character: 🇻🇺 
 ISO_3166_1_alpha_3_code: VUT
 ITU_letter_code: VUT
 MeSH_tree_code: Z01.639.760.590.736
