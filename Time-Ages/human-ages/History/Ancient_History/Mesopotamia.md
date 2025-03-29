@@ -1,13 +1,9 @@
 ---
 has_id_wikidata: Q11767
-shares_border_with:
-  - '[[_Standards/WikiData/WD~Anatolia,51614]]'
-  - '[[_Standards/WikiData/WD~Levant,81483]]'
-  - "[[_Standards/WikiData/WD~Arabian Peninsula,31945]]"
-location:
-  - "[[_Standards/WikiData/WD~Fertile Crescent,170526]]"
-  - "[[_Standards/WikiData/WD~Tigris–Euphrates river system,3608991]]"
-  - "[[_Standards/WikiData/WD~West Asia,27293]]"
+BHCL_UUID: a39ba9e4-d11b-4ff3-ba41-de6b9525c46a
+Commons_category: Mesopotamia
+coordinate_location: "Point(43.5 33.7)"
+country: '[[_Standards/WikiData/WD~Iraq,796]]'
 described_by_source:
   - '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
@@ -18,34 +14,38 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+Dewey_Decimal_Classification:
+  - 2--35
+  - 935
+different_from: '[[_Standards/WikiData/WD~Mesopotamia,1922493]]'
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Mesopotamia,3123364]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Mesopotamia,2481441]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20Gudea%20Met%2059.2.jpg"
 instance_of:
   - "[[_Standards/WikiData/WD~ancient civilization,28171280]]"
   - "[[_Standards/WikiData/WD~cultural landscape,1129474]]"
   - "[[_Standards/WikiData/WD~cultural region,3502482]]"
   - "[[_Standards/WikiData/WD~historical region,1620908]]"
-different_from: '[[_Standards/WikiData/WD~Mesopotamia,1922493]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Mesopotamia,2481441]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Mesopotamia,3123364]]"
+Libris_URI: fcrtsnzz50p6171
+location:
+  - "[[_Standards/WikiData/WD~Fertile Crescent,170526]]"
+  - "[[_Standards/WikiData/WD~Tigris–Euphrates river system,3608991]]"
+  - "[[_Standards/WikiData/WD~West Asia,27293]]"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Spread%20of%20Oecumene%20Mesopotamia.jpg"
+MeSH_tree_code: Z01.586.035.587
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mesopotamia%20Banner.jpg"
+PM20_geo_code: B23
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Beth Nahrain,16827153]]"
+shares_border_with:
+  - '[[_Standards/WikiData/WD~Anatolia,51614]]'
+  - '[[_Standards/WikiData/WD~Levant,81483]]'
+  - "[[_Standards/WikiData/WD~Arabian Peninsula,31945]]"
+Stack_Exchange_tag: "https://history.stackexchange.com/tags/mesopotamia"
 topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Ancient Mesopotamia topics,6436745]]"
   - "[[_Standards/WikiData/WD~Template_Timeline of Mesopotamia,14443438]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Beth Nahrain,16827153]]"
-BHCL_UUID: a39ba9e4-d11b-4ff3-ba41-de6b9525c46a
-UMLS_CUI: C3658323
-MeSH_tree_code: Z01.586.035.587
-country: '[[_Standards/WikiData/WD~Iraq,796]]'
-Dewey_Decimal_Classification:
-  - 2--35
-  - 935
-Commons_category: Mesopotamia
-PM20_geo_code: B23
-coordinate_location: "Point(43.5 33.7)"
 U_S_National_Archives_Identifier: 10044410
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mesopotamia%20Banner.jpg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Spread%20of%20Oecumene%20Mesopotamia.jpg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20Gudea%20Met%2059.2.jpg"
-Stack_Exchange_tag: "https://history.stackexchange.com/tags/mesopotamia"
-Libris_URI: fcrtsnzz50p6171
+UMLS_CUI: C3658323
 ---
 
 ## #has_/text_of_/abstract 

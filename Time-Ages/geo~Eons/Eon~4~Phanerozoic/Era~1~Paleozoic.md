@@ -1,6 +1,6 @@
 ---
 has_id_wikidata: Q75507
-named_by: "[[_Standards/WikiData/WD~Adam Sedgwick,350891]]"
+Commons_category: Paleozoic
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
@@ -8,18 +8,18 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+end_time: -251902000-01-01T00:00:00Z
+Iconclass_notation: 25E(PALEOZOIC)
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Trilobite%20Heinrich%20Harder.jpg
 instance_of:
   - "[[_Standards/WikiData/WD~era,630830]]"
   - "[[_Standards/WikiData/WD~erathem,2464485]]"
-part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
-end_time: -251902000-01-01T00:00:00Z
-sRGB_color_hex_triplet: 99C08D
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Trilobite%20Heinrich%20Harder.jpg
-OmegaWiki_Defined_Meaning: "952626"
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Paleozoic%20Palaeozoikum.png
-Iconclass_notation: 25E(PALEOZOIC)
 Krugosvet_article: geologiya/paleozoiskaya-era
-Commons_category: Paleozoic
+named_by: "[[_Standards/WikiData/WD~Adam Sedgwick,350891]]"
+OmegaWiki_Defined_Meaning: "952626"
+part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Paleozoic%20Palaeozoikum.png
+sRGB_color_hex_triplet: 99C08D
 start_time: -538800000-01-01T00:00:00Z
 ---
 

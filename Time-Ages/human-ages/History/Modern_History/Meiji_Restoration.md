@@ -1,18 +1,18 @@
 ---
+has_id_wikidata: Q8707
 aliases:
   - "Meiji Restoration"
-has_id_wikidata: Q8707
+Commons_category: "Meiji Restoration"
 country: "[[_Standards/WikiData/WD~Empire of Japan,188712]]"
-instance_of: '[[_Standards/WikiData/WD~reform,900406]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+end_time: "1889-02-11T00:00:00Z"
 has_part_s_:
   - "[[_Standards/WikiData/WD~Conscription Law,11020846]]"
   - "[[_Standards/WikiData/WD~Full Name Ordinance,11483153]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
-end_time: "1889-02-11T00:00:00Z"
-start_time: "1868-01-01T00:00:00Z"
-Commons_category: "Meiji Restoration"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/MeijiJoukyou.jpg"
+instance_of: '[[_Standards/WikiData/WD~reform,900406]]'
 native_label: 明治維新
+start_time: "1868-01-01T00:00:00Z"
 ---
 
 ## #has_/text_of_/abstract 

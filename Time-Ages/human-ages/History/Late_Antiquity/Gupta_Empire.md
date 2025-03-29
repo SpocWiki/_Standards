@@ -1,11 +1,29 @@
 ---
+has_id_wikidata: Q11774
 aliases:
   - "Gupta Empire"
-has_id_wikidata: Q11774
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
 capital: '[[_Standards/WikiData/WD~Pataliputra,389755]]'
+Commons_category: "Gupta Empire"
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+dissolved_abolished_or_demolished_date: "0550-01-01T00:00:00Z"
+has_time_started: "0320-01-01T00:00:00Z"
+has_time_stopped: "0550-01-01T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/IndiaGuptaEmpire1.jpg"
+inception: "0320-01-01T00:00:00Z"
+instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
+language_used: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gupta%20Empire%20320%20-%20600%20ad.PNG"
+native_label:
+  - "गुप्त राजवंश"
+  - गुप्त
+official_language: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
+official_religion:
+  - '[[_Standards/WikiData/WD~Buddhism,748]]'
+  - '[[_Standards/WikiData/WD~Hinduism,9089]]'
 replaced_by:
   - '[[_Standards/WikiData/WD~Gurjara-Pratihara,5324]]'
   - "[[_Standards/WikiData/WD~Empire of Harsha,20732380]]"
@@ -16,24 +34,6 @@ replaces:
   - "[[_Standards/WikiData/WD~Bharshiva dynasty,17150787]]"
   - "[[_Standards/WikiData/WD~Kushan Empire,25979]]"
   - "[[_Standards/WikiData/WD~Western Satraps,2086608]]"
-instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
-official_religion:
-  - '[[_Standards/WikiData/WD~Buddhism,748]]'
-  - '[[_Standards/WikiData/WD~Hinduism,9089]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
-language_used: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
-official_language: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gupta%20Empire%20320%20-%20600%20ad.PNG"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/IndiaGuptaEmpire1.jpg"
-Commons_category: "Gupta Empire"
-native_label:
-  - "गुप्त राजवंश"
-  - गुप्त
-inception: "0320-01-01T00:00:00Z"
-has_time_started: "0320-01-01T00:00:00Z"
-dissolved_abolished_or_demolished_date: "0550-01-01T00:00:00Z"
-has_time_stopped: "0550-01-01T00:00:00Z"
 ---
 
 #has_/time_/started :: 0320-06 

@@ -1,31 +1,26 @@
 ---
+has_id_wikidata: Q362
 aliases:
   - "Great Patriotic War"
   - "World War II"
   - WWII
-has_id_wikidata: Q362
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/WW2%20collage.jpg"
-Stack_Exchange_tag: "https://history.stackexchange.com/tags/world-war-two"
-RIA_Novosti_reference: 1021937064.
-U_S_National_Archives_Identifier: 10644634
-Swedish_Anbytarforum: 11155.0
 Basisklassifikation: 15.24
-Provenio_UUID: 656acf95-f583-4653-b9d0-693e9159fc3e
-Wolfram_Language_entity_code:
-  - "Entity[\"HistoricalEvent\", \"WorldWar2\"]"
-  - "Entity[\"MilitaryConflict\", \"WorldWarII\"]"
-Krugosvet_article: istoriya/VTORAYA_MIROVAYA_VONA.html
-Regensburg_Classification: "NQ 2545 - NQ 2795"
 Commons_category: "World War II"
 Commons_gallery: "World War II"
 Danbooru_tag: world_war_ii
-subreddit: WW2
-Stadtwiki_Dresden_article: Zweiter_Weltkrieg
+described_at_URL: "https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ereig-0074"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
+  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
 end_time: "1945-09-02T00:00:00Z"
-start_time: "1939-09-01T00:00:00Z"
-instance_of:
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
-  - "[[_Standards/WikiData/WD~world war,103495]]"
+has_cause:
+  - '[[_Standards/WikiData/WD~chauvinism,226418]]'
+  - '[[_Standards/WikiData/WD~fascism,6223]]'
+  - '[[_Standards/WikiData/WD~providentialism,2298962]]'
+  - '[[_Standards/WikiData/WD~revanchism,1136718]]'
+  - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
+  - "[[_Standards/WikiData/WD~causes of World War II,714999]]"
 has_effect:
   - '[[_Standards/WikiData/WD~Austria,40]]'
   - '[[_Standards/WikiData/WD~Japan,17]]'
@@ -37,23 +32,16 @@ has_effect:
   - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
   - "[[_Standards/WikiData/WD~United Nations,1065]]"
   - "[[_Standards/WikiData/WD~United States,30]]"
-has_cause:
-  - '[[_Standards/WikiData/WD~chauvinism,226418]]'
-  - '[[_Standards/WikiData/WD~fascism,6223]]'
-  - '[[_Standards/WikiData/WD~providentialism,2298962]]'
-  - '[[_Standards/WikiData/WD~revanchism,1136718]]'
-  - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
-  - "[[_Standards/WikiData/WD~causes of World War II,714999]]"
+has_immediate_cause: "[[_Standards/WikiData/WD~Secret Additional Protocol to the Molotov–Ribbentrop Pact,4413308]]"
 history_of_topic:
   - "[[_Standards/WikiData/WD~diplomatic history of World War II,16973783]]"
   - "[[_Standards/WikiData/WD~timeline of World War II,327039]]"
-participant:
-  - '[[_Standards/WikiData/WD~Australia,408]]'
-  - '[[_Standards/WikiData/WD~Taiwan,865]]'
-  - "[[_Standards/WikiData/WD~Allies of World War II,329888]]"
-  - "[[_Standards/WikiData/WD~Axis Powers,43056]]"
-  - "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Infobox%20collage%20for%20WWII.PNG"
+instance_of:
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
+  - "[[_Standards/WikiData/WD~world war,103495]]"
+Krugosvet_article: istoriya/VTORAYA_MIROVAYA_VONA.html
+Libris_URI: 64jlkvmq4b77rq1
 location:
   - '[[_Standards/WikiData/WD~Africa,15]]'
   - '[[_Standards/WikiData/WD~Asia,48]]'
@@ -76,6 +64,12 @@ location:
   - "[[_Standards/WikiData/WD~South Asia,771405]]"
   - "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
   - "[[_Standards/WikiData/WD~Southern Africa,27394]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject World War II,10653810]]"
+MeSH_tree_code:
+  - I01.880.735.950.250.984
+  - K01.400.504.968.901
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/WW2%20collage.jpg"
+number_of_deaths: 73000000
 order_of_battle:
   - "[[_Standards/WikiData/WD~French army 1939-1940,2862963]]"
   - "[[_Standards/WikiData/WD~Imperial Japanese Navy order of battle 1941,16056731]]"
@@ -83,31 +77,37 @@ order_of_battle:
   - "[[_Standards/WikiData/WD~Order of battle of RAF Coastal Command,7275247]]"
   - "[[_Standards/WikiData/WD~Supplementary Order of Battle,7644454]]"
   - "[[_Standards/WikiData/WD~Yugoslav Army in the Fatherland order of battle,12759406]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_World War II,3247957]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
-  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-has_immediate_cause: "[[_Standards/WikiData/WD~Secret Additional Protocol to the Molotov–Ribbentrop Pact,4413308]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_World War II,5928186]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject World War II,10653810]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of World War II,16056531]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20II%20Banner.jpg"
+participant:
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~Taiwan,865]]'
+  - "[[_Standards/WikiData/WD~Allies of World War II,329888]]"
+  - "[[_Standards/WikiData/WD~Axis Powers,43056]]"
+  - "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
+  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
 permanent_duplicated_item:
   - '[[_Standards/WikiData/WD~Q21777981,21777981]]'
   - '[[_Standards/WikiData/WD~Q25681543,25681543]]'
   - '[[_Standards/WikiData/WD~Q27643331,27643331]]'
-UMLS_CUI: C0681710
-Libris_URI: 64jlkvmq4b77rq1
-MeSH_tree_code:
-  - I01.880.735.950.250.984
-  - K01.400.504.968.901
-described_at_URL: "https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ereig-0074"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Infobox%20collage%20for%20WWII.PNG"
-number_of_deaths: 73000000
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9.wav"
+Provenio_UUID: 656acf95-f583-4653-b9d0-693e9159fc3e
+Regensburg_Classification: "NQ 2545 - NQ 2795"
+RIA_Novosti_reference: 1021937064.
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Tweede%20Wereldoorlog-article.ogg"
+Stack_Exchange_tag: "https://history.stackexchange.com/tags/world-war-two"
+Stadtwiki_Dresden_article: Zweiter_Weltkrieg
+start_time: "1939-09-01T00:00:00Z"
+subreddit: WW2
+Swedish_Anbytarforum: 11155.0
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_World War II,5928186]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_World War II,3247957]]"
+U_S_National_Archives_Identifier: 10644634
+UMLS_CUI: C0681710
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Square%20military%20parade%20November%207%2C%201941.ogv"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20II%20Banner.jpg"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of World War II,16056531]]"
+Wolfram_Language_entity_code:
+  - "Entity[\"HistoricalEvent\", \"WorldWar2\"]"
+  - "Entity[\"MilitaryConflict\", \"WorldWarII\"]"
 ---
 
 #has_/time_/started :: 1939-09-01 

@@ -1,12 +1,12 @@
 ---
 has_id_wikidata: Q731470
+Commons_category: Eoarchean
+end_time: -3600000000-01-01T00:00:00Z
 instance_of:
   - "[[_Standards/WikiData/WD~era,630830]]"
   - "[[_Standards/WikiData/WD~erathem,2464485]]"
 part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
 sRGB_color_hex_triplet: DA037F
-end_time: -3600000000-01-01T00:00:00Z
-Commons_category: Eoarchean
 start_time: -4031000000-01-01T00:00:00Z
 ---
 

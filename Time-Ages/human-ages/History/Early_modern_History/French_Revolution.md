@@ -1,9 +1,11 @@
 ---
+has_id_wikidata: Q6534
 aliases:
   - "French Revolution"
-has_id_wikidata: Q6534
-history_of_topic: "[[_Standards/WikiData/WD~timeline of the French Revolution,186961]]"
-different_from: "[[_Standards/WikiData/WD~French Revolution,239523]]"
+Archive_of_Our_Own_tag: "French Revolution RPF"
+BHCL_UUID: fbef2e02-f948-4704-969d-fe324ffff48c
+Commons_category: "French Revolution"
+country: '[[_Standards/WikiData/WD~France,142]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
@@ -11,29 +13,27 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
   - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_French Revolution,3247542]]"
+different_from: "[[_Standards/WikiData/WD~French Revolution,239523]]"
+end_time: "1799-11-09T00:00:00Z"
+history_of_topic: "[[_Standards/WikiData/WD~timeline of the French Revolution,186961]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/LouisXVIExecutionBig.jpg"
 instance_of:
   - '[[_Standards/WikiData/WD~revolution,10931]]'
   - "[[_Standards/WikiData/WD~historical event,13418847]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_French Revolution,14403429]]"
-BHCL_UUID: fbef2e02-f948-4704-969d-fe324ffff48c
-UMLS_CUI: C1449767
-participant: "[[_Standards/WikiData/WD~Louis Antoine de Saint-Just,27764]]"
-country: '[[_Standards/WikiData/WD~France,142]]'
+Krugosvet_article: kultura_i_obrazovanie/religiya/VELIKAYA_FRANTSUZSKAYA_REVOLYUTSIYA.html
 location: '[[_Standards/WikiData/WD~France,142]]'
-Commons_category: "French Revolution"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Revoluci%C3%B3n%20Francesa-article.ogg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/LouisXVIExecutionBig.jpg"
-U_S_National_Archives_Identifier: 10638936
-Provenio_UUID: b2270e29-4998-4b15-aec5-c99cb843eba0
-Archive_of_Our_Own_tag: "French Revolution RPF"
 MeSH_tree_code:
   - I01.880.735.950.250.563
   - K01.400.504.875.374
-Krugosvet_article: kultura_i_obrazovanie/religiya/VELIKAYA_FRANTSUZSKAYA_REVOLYUTSIYA.html
-end_time: "1799-11-09T00:00:00Z"
-start_time: "1789-07-14T00:00:00Z"
+participant: "[[_Standards/WikiData/WD~Louis Antoine de Saint-Just,27764]]"
 point_in_time: "1789-05-05T00:00:00Z"
+Provenio_UUID: b2270e29-4998-4b15-aec5-c99cb843eba0
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Revoluci%C3%B3n%20Francesa-article.ogg"
+start_time: "1789-07-14T00:00:00Z"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_French Revolution,14403429]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_French Revolution,3247542]]"
+U_S_National_Archives_Identifier: 10638936
+UMLS_CUI: C1449767
 ---
 
 ## #has_/text_of_/abstract 

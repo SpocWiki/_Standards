@@ -1,54 +1,54 @@
 ---
+has_id_wikidata: Q11409
 aliases:
   - "Apartheid in South Africa"
-has_id_wikidata: Q11409
-subclass_of:
-  - "[[_Standards/WikiData/WD~divide and rule,68951]]"
-  - "[[_Standards/WikiData/WD~racial segregation,59816]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Hendrik Frensch Verwoerd,297000]]"
+applies_to_jurisdiction:
+  - "[[_Standards/WikiData/WD~South Africa,258]]"
+  - "[[_Standards/WikiData/WD~South-West Africa,953068]]"
 based_on:
   - '[[_Standards/WikiData/WD~Baasskap,2877652]]'
   - '[[_Standards/WikiData/WD~racism,8461]]'
   - "[[_Standards/WikiData/WD~white supremacy,698752]]"
+Commons_category: Apartheid
+described_by_source:
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+  - "[[_Standards/WikiData/WD~The Oxford Encyclopedia of African Thought,22639418]]"
+Dewey_Decimal_Classification: 305.800968
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Hendrik Frensch Verwoerd,297000]]"
+dissolved_abolished_or_demolished_date: "1991-01-01T00:00:00Z"
+followed_by: "[[_Standards/WikiData/WD~history of South Africa (1944–present),3136857]]"
+follows: "[[_Standards/WikiData/WD~history of South Africa (1910–1948),4533954]]"
 foundational_text:
   - "[[_Standards/WikiData/WD~Population Registration Act, 1950,772197]]"
   - "[[_Standards/WikiData/WD~Prohibition of Mixed Marriages Act, 1949,1586493]]"
 has_characteristic:
   - '[[_Standards/WikiData/WD~Minoritarianism,6869224]]'
   - "[[_Standards/WikiData/WD~social stratification,841628]]"
-applies_to_jurisdiction:
-  - "[[_Standards/WikiData/WD~South Africa,258]]"
-  - "[[_Standards/WikiData/WD~South-West Africa,953068]]"
+has_effect: "[[_Standards/WikiData/WD~Legacies of apartheid,6517187]]"
+has_time_started: "1948-01-01T00:00:00Z"
+has_time_stopped: "1991-01-01T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/DurbanSign1989.jpg"
+inception: "1948-01-01T00:00:00Z"
 instance_of:
   - '[[_Standards/WikiData/WD~policy,1156854]]'
   - '[[_Standards/WikiData/WD~racism,8461]]'
-followed_by: "[[_Standards/WikiData/WD~history of South Africa (1944–present),3136857]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-  - "[[_Standards/WikiData/WD~The Oxford Encyclopedia of African Thought,22639418]]"
-follows: "[[_Standards/WikiData/WD~history of South Africa (1910–1948),4533954]]"
-significant_event: "[[_Standards/WikiData/WD~Coloured vote constitutional crisis,5149235]]"
-has_effect: "[[_Standards/WikiData/WD~Legacies of apartheid,6517187]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-UMLS_CUI: C0680431
-manifestation_of: '[[_Standards/WikiData/WD~racism,8461]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/DurbanSign1989.jpg"
-OmegaWiki_Defined_Meaning: 431433
-U_S_National_Archives_Identifier: 10640722
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Apartheid-Intro.ogg"
-Dewey_Decimal_Classification: 305.800968
-PhilPapers_topic: apartheid
-Commons_category: Apartheid
 Library_of_Congress_Classification: DT1757
+manifestation_of: '[[_Standards/WikiData/WD~racism,8461]]'
 MeSH_tree_code:
   - I01.696.050
   - I01.880.735.820.500.125
-dissolved_abolished_or_demolished_date: "1991-01-01T00:00:00Z"
-has_time_stopped: "1991-01-01T00:00:00Z"
-inception: "1948-01-01T00:00:00Z"
-has_time_started: "1948-01-01T00:00:00Z"
+OmegaWiki_Defined_Meaning: 431433
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+PhilPapers_topic: apartheid
+significant_event: "[[_Standards/WikiData/WD~Coloured vote constitutional crisis,5149235]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Apartheid-Intro.ogg"
+subclass_of:
+  - "[[_Standards/WikiData/WD~divide and rule,68951]]"
+  - "[[_Standards/WikiData/WD~racial segregation,59816]]"
+U_S_National_Archives_Identifier: 10640722
+UMLS_CUI: C0680431
 ---
 
 ## #has_/text_of_/abstract 

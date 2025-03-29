@@ -1,7 +1,7 @@
 ---
+has_id_wikidata: Q12548
 aliases:
   - Holy Roman Empire
-has_id_wikidata: Q12548
 ---
 
 

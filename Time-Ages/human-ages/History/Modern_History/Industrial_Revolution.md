@@ -1,8 +1,20 @@
 ---
+has_id_wikidata: Q2269
 aliases:
   - "Industrial Revolution"
-has_id_wikidata: Q2269
+Commons_category: "Industrial revolution"
+Commons_gallery: "Industrial revolution"
 country_of_origin: "[[_Standards/WikiData/WD~Kingdom of Great Britain,161885]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+  - "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
+  - "[[_Standards/WikiData/WD~Meyer’s Universum, Neunter Band,131719188]]"
+end_time: "1820-01-01T00:00:00Z"
+has_characteristic:
+  - '[[_Standards/WikiData/WD~industrialization,202398]]'
+  - '[[_Standards/WikiData/WD~mechanization,1160362]]'
+  - "[[_Standards/WikiData/WD~technological transition,7692537]]"
+has_effect: "[[_Standards/WikiData/WD~economic growth,189833]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~Industrial Revolution in England,3938059]]"
   - "[[_Standards/WikiData/WD~Industrial Revolution in Scotland,16847469]]"
@@ -11,23 +23,11 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~rural flight,2608153]]"
   - "[[_Standards/WikiData/WD~steam engine,12760]]"
   - "[[_Standards/WikiData/WD~working class,191159]]"
-has_effect: "[[_Standards/WikiData/WD~economic growth,189833]]"
-has_characteristic:
-  - '[[_Standards/WikiData/WD~industrialization,202398]]'
-  - '[[_Standards/WikiData/WD~mechanization,1160362]]'
-  - "[[_Standards/WikiData/WD~technological transition,7692537]]"
-subclass_of: "[[_Standards/WikiData/WD~economic development,4530482]]"
-instance_of: "[[_Standards/WikiData/WD~historical period,11514315]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-  - "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
-  - "[[_Standards/WikiData/WD~Meyer’s Universum, Neunter Band,131719188]]"
-start_time: "1760-01-01T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9moires%20de%20la%20Soci%C3%A9t%C3%A9%20g%C3%A9ologique%20de%20France%20%28IA%20meymoiresdelaso00socig%29.pdf"
-Commons_gallery: "Industrial revolution"
-Commons_category: "Industrial revolution"
-end_time: "1820-01-01T00:00:00Z"
+instance_of: "[[_Standards/WikiData/WD~historical period,11514315]]"
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/PROMISHLENNAYA_REVOLYUTSIYA.html
+start_time: "1760-01-01T00:00:00Z"
+subclass_of: "[[_Standards/WikiData/WD~economic development,4530482]]"
 ---
 
 ## Divisions 

@@ -1,41 +1,19 @@
 ---
+has_id_wikidata: Q8733
 aliases:
   - "Qing Dynasty"
-has_id_wikidata: Q8733
-shares_border_with:
-  - '[[_Standards/WikiData/WD~Bhutan,917]]'
-  - '[[_Standards/WikiData/WD~Joseon,28179]]'
-  - "[[_Standards/WikiData/WD~British Raj,129286]]"
-  - "[[_Standards/WikiData/WD~Dzungar Khanate,1923401]]"
-  - "[[_Standards/WikiData/WD~Empire of Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Kazakh Khanate,1433867]]"
-  - "[[_Standards/WikiData/WD~Kingdom of Nepal,1078602]]"
-  - "[[_Standards/WikiData/WD~Kingdom of Sikkim,3960459]]"
-  - "[[_Standards/WikiData/WD~Konbaung dynasty,1062422]]"
-  - "[[_Standards/WikiData/WD~Korean Empire,28233]]"
-  - "[[_Standards/WikiData/WD~Namgyal dynasty of Ladakh,2709041]]"
-  - "[[_Standards/WikiData/WD~Nguyen dynasty,6500483]]"
-  - "[[_Standards/WikiData/WD~Russian Empire,34266]]"
-authority: '[[_Standards/WikiData/WD~Manchu,145665]]'
-replaces:
-  - "[[_Standards/WikiData/WD~Da Ming Shun Tian Guo,15903902]]"
-  - "[[_Standards/WikiData/WD~Dzungar Khanate,1923401]]"
-  - "[[_Standards/WikiData/WD~Kingdom of Tungning,152855]]"
-  - "[[_Standards/WikiData/WD~Later Jin (1616-1636),1062546]]"
-  - "[[_Standards/WikiData/WD~Ming dynasty,9903]]"
-  - "[[_Standards/WikiData/WD~Shun dynasty,2370784]]"
-  - "[[_Standards/WikiData/WD~Southern Ming dynasty,1198163]]"
-  - "[[_Standards/WikiData/WD~Taiping Heavenly Kingdom,3486676]]"
-  - "[[_Standards/WikiData/WD~Xi dynasty,1178974]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
-currency:
-  - '[[_Standards/WikiData/WD~Sycee,1364284]]'
-  - '[[_Standards/WikiData/WD~tael,876244]]'
-  - "[[_Standards/WikiData/WD~Great Qing Treasure Note,9929178]]"
-  - "[[_Standards/WikiData/WD~Hubu Guanpiao,17025285]]"
-flag: "[[_Standards/WikiData/WD~flag of the Qing dynasty,976372]]"
-follows: "[[_Standards/WikiData/WD~Later Jin (1616-1636),1062546]]"
 anthem: "[[_Standards/WikiData/WD~Gong Jin'ou,1142935]]"
+area: 14700000
+authority: '[[_Standards/WikiData/WD~Manchu,145665]]'
+Baidu_Tieba_name: 清朝
+basic_form_of_government: "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
+BHCL_UUID: ba1625c7-677a-47c8-886b-0cf18da83e46
+capital:
+  - "[[_Standards/WikiData/WD~Fengtian Fu,10054424]]"
+  - "[[_Standards/WikiData/WD~Shuntian Fu,7334692]]"
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q118059515,118059515]]'
+Commons_category: "Qing Dynasty"
+Commons_gallery: 清朝
 contains_the_administrative_territorial_entity:
   - '[[_Standards/WikiData/WD~Anhui,28411808]]'
   - '[[_Standards/WikiData/WD~Fengtian,25390008]]'
@@ -63,57 +41,79 @@ contains_the_administrative_territorial_entity:
   - '[[_Standards/WikiData/WD~Zhili,2604022]]'
   - "[[_Standards/WikiData/WD~Fujian-Taiwan Province,15939597]]"
   - "[[_Standards/WikiData/WD~Xinjiang Province,15908308]]"
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
+coordinate_location: "Point(103.0 38.0)"
+currency:
+  - '[[_Standards/WikiData/WD~Sycee,1364284]]'
+  - '[[_Standards/WikiData/WD~tael,876244]]'
+  - "[[_Standards/WikiData/WD~Great Qing Treasure Note,9929178]]"
+  - "[[_Standards/WikiData/WD~Hubu Guanpiao,17025285]]"
+described_at_URL: "https://www.biografiasyvidas.com/biografia/q/qing.htm"
 described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+dissolved_abolished_or_demolished_date: "1912-01-01T00:00:00Z"
+end_time: "1911-01-01T00:00:00Z"
+flag: "[[_Standards/WikiData/WD~flag of the Qing dynasty,976372]]"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20China%20%281889%E2%80%931912%29.svg"
+follows: "[[_Standards/WikiData/WD~Later Jin (1616-1636),1062546]]"
+has_time_started: "1636-01-01T00:00:00Z"
+has_time_stopped: "1912-01-01T00:00:00Z"
+history_of_topic: "[[_Standards/WikiData/WD~timeline of the Qing dynasty,55635904]]"
+inception: "1636-01-01T00:00:00Z"
+instance_of:
+  - "[[_Standards/WikiData/WD~historical Chinese state,50068795]]"
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
+language_used:
+  - '[[_Standards/WikiData/WD~Manchu,33638]]'
+  - '[[_Standards/WikiData/WD~Mongolian,9246]]'
+  - "[[_Standards/WikiData/WD~Classical Chinese,37041]]"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ching%20Dynasty%201892.png"
+native_label: "ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ"
+official_language:
+  - '[[_Standards/WikiData/WD~Chinese,7850]]'
+  - '[[_Standards/WikiData/WD~Manchu,33638]]'
+  - '[[_Standards/WikiData/WD~Mongolian,9246]]'
+  - '[[_Standards/WikiData/WD~Tibetan,34271]]'
+official_name:
+  - "ᠳᠠᠢᠢᠴᠢᠩ ᠤᠯᠤᠰ"
+  - "ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ"
+  - 大清
+part_of: "[[_Standards/WikiData/WD~Late Imperial China,6495224]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828807,22828807]]'
+population: 383100000
 religion_or_worldview:
   - '[[_Standards/WikiData/WD~Buddhism,748]]'
   - '[[_Standards/WikiData/WD~Christianity,5043]]'
   - '[[_Standards/WikiData/WD~Islam,432]]'
   - '[[_Standards/WikiData/WD~Taoism,9598]]'
   - "[[_Standards/WikiData/WD~Heaven worship,5694834]]"
-part_of: "[[_Standards/WikiData/WD~Late Imperial China,6495224]]"
-capital:
-  - "[[_Standards/WikiData/WD~Fengtian Fu,10054424]]"
-  - "[[_Standards/WikiData/WD~Shuntian Fu,7334692]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~historical Chinese state,50068795]]"
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Qing dynasty topics,22725674]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828807,22828807]]'
-history_of_topic: "[[_Standards/WikiData/WD~timeline of the Qing dynasty,55635904]]"
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q118059515,118059515]]'
-coordinate_location: "Point(103.0 38.0)"
 replaced_by: '[[_Standards/WikiData/WD~Taiwan,865]]'
-official_language:
-  - '[[_Standards/WikiData/WD~Chinese,7850]]'
-  - '[[_Standards/WikiData/WD~Manchu,33638]]'
-  - '[[_Standards/WikiData/WD~Mongolian,9246]]'
-  - '[[_Standards/WikiData/WD~Tibetan,34271]]'
-language_used:
-  - '[[_Standards/WikiData/WD~Manchu,33638]]'
-  - '[[_Standards/WikiData/WD~Mongolian,9246]]'
-  - "[[_Standards/WikiData/WD~Classical Chinese,37041]]"
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-area: 14700000
-population: 383100000
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20China%20%281889%E2%80%931912%29.svg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ching%20Dynasty%201892.png"
+replaces:
+  - "[[_Standards/WikiData/WD~Da Ming Shun Tian Guo,15903902]]"
+  - "[[_Standards/WikiData/WD~Dzungar Khanate,1923401]]"
+  - "[[_Standards/WikiData/WD~Kingdom of Tungning,152855]]"
+  - "[[_Standards/WikiData/WD~Later Jin (1616-1636),1062546]]"
+  - "[[_Standards/WikiData/WD~Ming dynasty,9903]]"
+  - "[[_Standards/WikiData/WD~Shun dynasty,2370784]]"
+  - "[[_Standards/WikiData/WD~Southern Ming dynasty,1198163]]"
+  - "[[_Standards/WikiData/WD~Taiping Heavenly Kingdom,3486676]]"
+  - "[[_Standards/WikiData/WD~Xi dynasty,1178974]]"
 seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Qing%20dynasty.svg"
-described_at_URL: "https://www.biografiasyvidas.com/biografia/q/qing.htm"
-BHCL_UUID: ba1625c7-677a-47c8-886b-0cf18da83e46
-Commons_category: "Qing Dynasty"
-Commons_gallery: 清朝
-Baidu_Tieba_name: 清朝
-official_name:
-  - "ᠳᠠᠢᠢᠴᠢᠩ ᠤᠯᠤᠰ"
-  - "ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ"
-  - 大清
-native_label: "ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ"
-dissolved_abolished_or_demolished_date: "1912-01-01T00:00:00Z"
-has_time_stopped: "1912-01-01T00:00:00Z"
-end_time: "1911-01-01T00:00:00Z"
+shares_border_with:
+  - '[[_Standards/WikiData/WD~Bhutan,917]]'
+  - '[[_Standards/WikiData/WD~Joseon,28179]]'
+  - "[[_Standards/WikiData/WD~British Raj,129286]]"
+  - "[[_Standards/WikiData/WD~Dzungar Khanate,1923401]]"
+  - "[[_Standards/WikiData/WD~Empire of Japan,188712]]"
+  - "[[_Standards/WikiData/WD~Kazakh Khanate,1433867]]"
+  - "[[_Standards/WikiData/WD~Kingdom of Nepal,1078602]]"
+  - "[[_Standards/WikiData/WD~Kingdom of Sikkim,3960459]]"
+  - "[[_Standards/WikiData/WD~Konbaung dynasty,1062422]]"
+  - "[[_Standards/WikiData/WD~Korean Empire,28233]]"
+  - "[[_Standards/WikiData/WD~Namgyal dynasty of Ladakh,2709041]]"
+  - "[[_Standards/WikiData/WD~Nguyen dynasty,6500483]]"
+  - "[[_Standards/WikiData/WD~Russian Empire,34266]]"
 start_time: "1636-01-01T00:00:00Z"
-inception: "1636-01-01T00:00:00Z"
-has_time_started: "1636-01-01T00:00:00Z"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Qing dynasty topics,22725674]]"
 ---
 
 ## #has_/text_of_/abstract 

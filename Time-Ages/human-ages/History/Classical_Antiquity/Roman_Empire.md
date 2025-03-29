@@ -1,17 +1,26 @@
 ---
+has_id_wikidata: Q2277
 aliases:
   - "Roman Empire"
-has_id_wikidata: Q2277
+area: 5957000
 basic_form_of_government:
   - '[[_Standards/WikiData/WD~autocracy,173424]]'
   - '[[_Standards/WikiData/WD~monarchy,7269]]'
   - '[[_Standards/WikiData/WD~triumvirate,83204]]'
   - "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
-official_religion:
-  - '[[_Standards/WikiData/WD~Arianism,83922]]'
-  - '[[_Standards/WikiData/WD~Christianity,5043]]'
-  - '[[_Standards/WikiData/WD~paganism,29536]]'
-  - "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
+capital:
+  - '[[_Standards/WikiData/WD~Constantinople,16869]]'
+  - '[[_Standards/WikiData/WD~Milan,490]]'
+  - '[[_Standards/WikiData/WD~Ravenna,13364]]'
+  - '[[_Standards/WikiData/WD~Roma,18287233]]'
+  - '[[_Standards/WikiData/WD~Rome,220]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q32642796,32642796]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q42859641,42859641]]'
+coat_of_arms:
+  - '[[_Standards/WikiData/WD~vexillum,264655]]'
+  - "[[_Standards/WikiData/WD~Roman legion,163323]]"
+Commons_category: "Roman Empire"
+Commons_gallery: "Atlas of ancient Rome"
 contains_the_administrative_territorial_entity:
   - '[[_Standards/WikiData/WD~Achaea,204772]]'
   - '[[_Standards/WikiData/WD~Africa,181238]]'
@@ -76,47 +85,13 @@ contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Transalpine Gaul,1007736]]"
   - "[[_Standards/WikiData/WD~Tres Daciae,12270914]]"
   - "[[_Standards/WikiData/WD~Upper Pannonia,642188]]"
-coat_of_arms:
-  - '[[_Standards/WikiData/WD~vexillum,264655]]'
-  - "[[_Standards/WikiData/WD~Roman legion,163323]]"
-different_from: "[[_Standards/WikiData/WD~Latin Empire,178897]]"
-flag: '[[_Standards/WikiData/WD~vexillum,264655]]'
-diplomatic_relation:
-  - '[[_Standards/WikiData/WD~Germania,62646]]'
-  - '[[_Standards/WikiData/WD~Hibernia,302980]]'
-  - "[[_Standards/WikiData/WD~Han dynasty,7209]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Roman emperor,842606]]"
+continent:
+  - '[[_Standards/WikiData/WD~Africa,15]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+coordinate_location: "Point(12.5 41.9)"
 currency: "[[_Standards/WikiData/WD~Roman currency,952064]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Book of Jin,1154753]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Daqin,1521359]]'
-shares_border_with: "[[_Standards/WikiData/WD~Parthian Empire,1986139]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the Roman Empire,2671119]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~historical country,3024240]]"
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
-legislative_body: "[[_Standards/WikiData/WD~Senate of the Roman Empire,3510883]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the Roman Empire,3718695]]"
-participant_in: "[[_Standards/WikiData/WD~military history of ancient Rome,3974187]]"
-capital:
-  - '[[_Standards/WikiData/WD~Constantinople,16869]]'
-  - '[[_Standards/WikiData/WD~Milan,490]]'
-  - '[[_Standards/WikiData/WD~Ravenna,13364]]'
-  - '[[_Standards/WikiData/WD~Roma,18287233]]'
-  - '[[_Standards/WikiData/WD~Rome,220]]'
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Roman Empire,21192389]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201536,21201536]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q32642796,32642796]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353313,42353313]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q42859641,42859641]]'
-dissolved_abolished_or_demolished_date: "0395-01-18T00:00:00Z"
-has_time_stopped: "0395-01-18T00:00:00Z"
-end_time: "0395-01-01T00:00:00Z"
-start_time: "-0026-01-01T00:00:00Z"
 demonym:
   - erromatar
   - Rimljan
@@ -134,39 +109,64 @@ demonym:
   - Rzymianin
   - Rzymianka
   - римляни
-Commons_gallery: "Atlas of ancient Rome"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Book of Jin,1154753]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+different_from: "[[_Standards/WikiData/WD~Latin Empire,178897]]"
+diplomatic_relation:
+  - '[[_Standards/WikiData/WD~Germania,62646]]'
+  - '[[_Standards/WikiData/WD~Hibernia,302980]]'
+  - "[[_Standards/WikiData/WD~Han dynasty,7209]]"
+dissolved_abolished_or_demolished_date: "0395-01-18T00:00:00Z"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of the Roman Empire,3718695]]"
+end_time: "0395-01-01T00:00:00Z"
+flag: '[[_Standards/WikiData/WD~vexillum,264655]]'
+founded_by: '[[_Standards/WikiData/WD~Augustus,1405]]'
+has_time_stopped: "0395-01-18T00:00:00Z"
+history_of_topic: "[[_Standards/WikiData/WD~history of the Roman Empire,2671119]]"
+Iconclass_notation: 23S14
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20Theatre%20Leptis%20Magna%20Libya.JPG"
+instance_of:
+  - "[[_Standards/WikiData/WD~historical country,3024240]]"
+  - "[[_Standards/WikiData/WD~historical period,11514315]]"
 ISNI: 0000000121065979
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Imperio%20romano%20%28hablado%20por%20voz%20AI%29.mp3"
 language_used:
   - '[[_Standards/WikiData/WD~Latin,397]]'
   - "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-official_language:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-founded_by: '[[_Standards/WikiData/WD~Augustus,1405]]'
-replaced_by:
-  - "[[_Standards/WikiData/WD~Byzantine Empire,12544]]"
-  - "[[_Standards/WikiData/WD~Western Roman Empire,42834]]"
+legislative_body: "[[_Standards/WikiData/WD~Senate of the Roman Empire,3510883]]"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Empire%20Trajan%20117AD.png"
 named_after:
   - '[[_Standards/WikiData/WD~Rome,220]]'
   - "[[_Standards/WikiData/WD~Province of Imperia,16186]]"
-continent:
-  - '[[_Standards/WikiData/WD~Africa,15]]'
-  - '[[_Standards/WikiData/WD~Asia,48]]'
-  - '[[_Standards/WikiData/WD~Europe,46]]'
-population: 87500000
-area: 5957000
 native_label:
   - "Imperium Romanum"
   - "Βασιλεία τῶν Ῥωμαίων"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20Theatre%20Leptis%20Magna%20Libya.JPG"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20mosaic%20banner.JPG"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Empire%20Trajan%20117AD.png"
-Iconclass_notation: 23S14
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Roman emperor,842606]]"
+official_language:
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+official_religion:
+  - '[[_Standards/WikiData/WD~Arianism,83922]]'
+  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - '[[_Standards/WikiData/WD~paganism,29536]]'
+  - "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
 OmegaWiki_Defined_Meaning: 913359
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20mosaic%20banner.JPG"
+participant_in: "[[_Standards/WikiData/WD~military history of ancient Rome,3974187]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201536,21201536]]'
+population: 87500000
+religion_or_worldview: "[[_Standards/WikiData/WD~ancient Roman religion,337547]]"
+replaced_by:
+  - "[[_Standards/WikiData/WD~Byzantine Empire,12544]]"
+  - "[[_Standards/WikiData/WD~Western Roman Empire,42834]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Daqin,1521359]]'
+shares_border_with: "[[_Standards/WikiData/WD~Parthian Empire,1986139]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Imperio%20romano%20%28hablado%20por%20voz%20AI%29.mp3"
+start_time: "-0026-01-01T00:00:00Z"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353313,42353313]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"RomanEmpire\"]"
-Commons_category: "Roman Empire"
-coordinate_location: "Point(12.5 41.9)"
 ---
 
 ## #has_/text_of_/abstract 

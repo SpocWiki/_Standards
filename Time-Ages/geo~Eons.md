@@ -1,15 +1,15 @@
 ---
 has_id_wikidata: Q108256
-studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
+Commons_category: Geologic eons
 different_from:
   - "[[_Standards/WikiData/WD~aeon,398085]]"
   - "[[_Standards/WikiData/WD~eonothem,2669627]]"
-standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigraphy,402104]]"
 has_part_s_: "[[_Standards/WikiData/WD~era,630830]]"
-subclass_of: "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
 next_higher_rank: "[[_Standards/WikiData/WD~supereon,15398983]]"
 part_of: "[[_Standards/WikiData/WD~supereon,15398983]]"
-Commons_category: Geologic eons
+standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigraphy,402104]]"
+studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
+subclass_of: "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
 ---
 
 # [[geo~Eons]] 

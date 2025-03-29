@@ -1,18 +1,80 @@
 ---
+has_id_wikidata: Q7318
 aliases:
   - "Nazi Germany"
-has_id_wikidata: Q7318
+anthem:
+  - '[[_Standards/WikiData/WD~Horst-Wessel-Lied,154059]]'
+  - "[[_Standards/WikiData/WD~Das Lied der Deutschen,44042]]"
+area: 696.265
+basic_form_of_government:
+  - '[[_Standards/WikiData/WD~dictatorship,317]]'
+  - '[[_Standards/WikiData/WD~republic,7270]]'
+  - "[[_Standards/WikiData/WD~one-party dictatorship,117405789]]"
+  - "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
+capital: '[[_Standards/WikiData/WD~Berlin,64]]'
+coat_of_arms:
+  - '[[_Standards/WikiData/WD~Reichsadler,2139378]]'
+  - "[[_Standards/WikiData/WD~Reichsadler of the Nazi Germany,9274199]]"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Reichsadler%20Deutsches%20Reich%20%281935%E2%80%931945%29.svg"
 Commons_category: "Nazi Germany"
 Commons_gallery: "Third Reich"
-native_label: "Deutsches Reich"
-name_in_native_language: "Deutsches Reich"
-official_name: "Deutsches Reich"
-area: 696.265
-motto_text: "Ein Volk, ein Reich, ein Führer"
+contains_the_administrative_territorial_entity:
+  - '[[_Standards/WikiData/WD~Bavaria,980]]'
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
+  - '[[_Standards/WikiData/WD~Bremen,1209]]'
+  - '[[_Standards/WikiData/WD~Hamburg,1055]]'
+  - '[[_Standards/WikiData/WD~Lübeck,2843]]'
+  - '[[_Standards/WikiData/WD~Q27069436,27069436]]'
+  - "[[_Standards/WikiData/WD~Free People's State of Württemberg,569871]]"
+  - "[[_Standards/WikiData/WD~Free State of Anhalt,705438]]"
+  - "[[_Standards/WikiData/WD~Free State of Mecklenburg,578002]]"
+  - "[[_Standards/WikiData/WD~Free State of Oldenburg,2372248]]"
+  - "[[_Standards/WikiData/WD~Free State of Prussia,161036]]"
+  - "[[_Standards/WikiData/WD~People's State of Hesse,694231]]"
+  - "[[_Standards/WikiData/WD~Republic of Baden,690821]]"
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+coordinate_location: "Point(13.379722222 52.511111111)"
+country: "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
 dissolved_abolished_or_demolished_date: "1945-05-23T00:00:00Z"
-has_time_stopped: "1945-05-23T00:00:00Z"
-inception: "1933-03-15T00:00:00Z"
+facet_of: "[[_Standards/WikiData/WD~German Reich,1206012]]"
+flag: "[[_Standards/WikiData/WD~flag of Nazi Germany,1073388]]"
+flag_image:
+  - "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany%20%281933%E2%80%931935%29.svg"
+  - "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany%20%281935%E2%80%931945%29.svg"
 has_time_started: "1933-03-15T00:00:00Z"
+has_time_stopped: "1945-05-23T00:00:00Z"
+head_of_state:
+  - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
+  - "[[_Standards/WikiData/WD~Karl Dönitz,76437]]"
+  - "[[_Standards/WikiData/WD~Paul von Hindenburg,2667]]"
+inception: "1933-03-15T00:00:00Z"
+instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
+language_used: '[[_Standards/WikiData/WD~German,188]]'
+legislative_body: '[[_Standards/WikiData/WD~Reichstag,878525]]'
+located_in_the_present_day_administrative_territorial_entity:
+  - '[[_Standards/WikiData/WD~Austria,40]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+  - '[[_Standards/WikiData/WD~Poland,36]]'
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20II%20in%20Europe%2C%201942.svg"
+member_of: "[[_Standards/WikiData/WD~Axis Powers,43056]]"
+motto_text: "Ein Volk, ein Reich, ein Führer"
+name_in_native_language: "Deutsches Reich"
+native_label: "Deutsches Reich"
+official_language: '[[_Standards/WikiData/WD~German,188]]'
+official_name: "Deutsches Reich"
+official_religion: "[[_Standards/WikiData/WD~secular state,859563]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828761,22828761]]'
+population: 109518183
+replaced_by:
+  - "[[_Standards/WikiData/WD~American occupation zone in Germany,55304]]"
+  - "[[_Standards/WikiData/WD~British occupation zone in Germany,55306]]"
+  - "[[_Standards/WikiData/WD~French occupation zone in Germany,55309]]"
+  - "[[_Standards/WikiData/WD~Soviet occupation zone of Germany,55300]]"
+replaces:
+  - "[[_Standards/WikiData/WD~Federal State of Austria,176495]]"
+  - "[[_Standards/WikiData/WD~Free City of Danzig,216173]]"
+  - "[[_Standards/WikiData/WD~Weimar Republic,41304]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Third Reich,518617]]"
 shares_border_with:
   - '[[_Standards/WikiData/WD~Belgium,31]]'
   - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -36,78 +98,16 @@ shares_border_with:
   - "[[_Standards/WikiData/WD~Slovak Republic,154401]]"
   - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
   - "[[_Standards/WikiData/WD~Vichy France,69808]]"
-head_of_state:
-  - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
-  - "[[_Standards/WikiData/WD~Karl Dönitz,76437]]"
-  - "[[_Standards/WikiData/WD~Paul von Hindenburg,2667]]"
-anthem:
-  - '[[_Standards/WikiData/WD~Horst-Wessel-Lied,154059]]'
-  - "[[_Standards/WikiData/WD~Das Lied der Deutschen,44042]]"
-contains_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Bavaria,980]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
-  - '[[_Standards/WikiData/WD~Bremen,1209]]'
-  - '[[_Standards/WikiData/WD~Hamburg,1055]]'
-  - '[[_Standards/WikiData/WD~Lübeck,2843]]'
-  - '[[_Standards/WikiData/WD~Q27069436,27069436]]'
-  - "[[_Standards/WikiData/WD~Free People's State of Württemberg,569871]]"
-  - "[[_Standards/WikiData/WD~Free State of Anhalt,705438]]"
-  - "[[_Standards/WikiData/WD~Free State of Mecklenburg,578002]]"
-  - "[[_Standards/WikiData/WD~Free State of Oldenburg,2372248]]"
-  - "[[_Standards/WikiData/WD~Free State of Prussia,161036]]"
-  - "[[_Standards/WikiData/WD~People's State of Hesse,694231]]"
-  - "[[_Standards/WikiData/WD~Republic of Baden,690821]]"
-replaces:
-  - "[[_Standards/WikiData/WD~Federal State of Austria,176495]]"
-  - "[[_Standards/WikiData/WD~Free City of Danzig,216173]]"
-  - "[[_Standards/WikiData/WD~Weimar Republic,41304]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Third Reich,518617]]"
-official_religion: "[[_Standards/WikiData/WD~secular state,859563]]"
-legislative_body: '[[_Standards/WikiData/WD~Reichstag,878525]]'
-flag: "[[_Standards/WikiData/WD~flag of Nazi Germany,1073388]]"
-facet_of: "[[_Standards/WikiData/WD~German Reich,1206012]]"
-coat_of_arms:
-  - '[[_Standards/WikiData/WD~Reichsadler,2139378]]'
-  - "[[_Standards/WikiData/WD~Reichsadler of the Nazi Germany,9274199]]"
-instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nazi Germany,6877252]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828761,22828761]]'
-basic_form_of_government:
-  - '[[_Standards/WikiData/WD~dictatorship,317]]'
-  - '[[_Standards/WikiData/WD~republic,7270]]'
-  - "[[_Standards/WikiData/WD~one-party dictatorship,117405789]]"
-  - "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
-coordinate_location: "Point(13.379722222 52.511111111)"
-Universal_Decimal_Classification:
-  - "(430)\"1933/1945\""
-  - 94(430).086
-population: 109518183
-country: "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
-located_in_the_present_day_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Austria,40]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
-  - '[[_Standards/WikiData/WD~Poland,36]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-capital: '[[_Standards/WikiData/WD~Berlin,64]]'
-language_used: '[[_Standards/WikiData/WD~German,188]]'
-official_language: '[[_Standards/WikiData/WD~German,188]]'
-flag_image:
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany%20%281933%E2%80%931935%29.svg"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany%20%281935%E2%80%931945%29.svg"
-member_of: "[[_Standards/WikiData/WD~Axis Powers,43056]]"
 short_name:
   - Deutschland
   - Niemcy
   - Германия
   - Немачка
   - Нямеччына
-replaced_by:
-  - "[[_Standards/WikiData/WD~American occupation zone in Germany,55304]]"
-  - "[[_Standards/WikiData/WD~British occupation zone in Germany,55306]]"
-  - "[[_Standards/WikiData/WD~French occupation zone in Germany,55309]]"
-  - "[[_Standards/WikiData/WD~Soviet occupation zone of Germany,55300]]"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Reichsadler%20Deutsches%20Reich%20%281935%E2%80%931945%29.svg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20II%20in%20Europe%2C%201942.svg"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nazi Germany,6877252]]"
+Universal_Decimal_Classification:
+  - "(430)\"1933/1945\""
+  - 94(430).086
 ---
 
 ## #has_/text_of_/abstract 

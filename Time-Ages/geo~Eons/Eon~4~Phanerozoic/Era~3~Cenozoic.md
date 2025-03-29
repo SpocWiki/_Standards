@@ -1,7 +1,6 @@
 ---
 aliases: []
 ischart: Cenozoic
-  - Age of Mammals
 ---
 
 # [[Era~3~Cenozoic]] 

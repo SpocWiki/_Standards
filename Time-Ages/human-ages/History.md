@@ -1,64 +1,64 @@
 ---
 has_id_wikidata: Q309
-studied_in:
-  - '[[_Standards/WikiData/WD~historiography,50675]]'
-  - '[[_Standards/WikiData/WD~humanities,80083]]'
-  - "[[_Standards/WikiData/WD~historical game studies,131382190]]"
-  - "[[_Standards/WikiData/WD~study of history,1066186]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_History,175361]]'
-facet_of: '[[_Standards/WikiData/WD~past,192630]]'
-has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~historical event,13418847]]"
-  - "[[_Standards/WikiData/WD~oral tradition,209815]]"
-  - "[[_Standards/WikiData/WD~recorded history,1145106]]"
+All_Science_Journal_Classification_Codes: 1202
+Archive_of_Our_Own_tag: Historical
+Baidu_Tieba_name: 历史
+Basisklassifikation: 15.00
+Colon_Classification: V
+Commons_category: History
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
   - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+Dewey_Decimal_Classification: 900
 different_from:
   - '[[_Standards/WikiData/WD~histology,7168]]'
+  - "[[_Standards/WikiData/WD~study of history,1066186]]"
+exact_match:
+  - "http://id.cabi.org/cabt/57756"
+  - "http://linkeddata.ge.imati.cnr.it/resource/EARTh/89480"
+  - "http://www.eionet.europa.eu/gemet/concept/3983"
+facet_of: '[[_Standards/WikiData/WD~past,192630]]'
+Gujarati_Vishwakosh_entry: ઇતિહાસવિદ્યા
+has_part_s_of_the_class:
+  - "[[_Standards/WikiData/WD~historical event,13418847]]"
+  - "[[_Standards/WikiData/WD~oral tradition,209815]]"
+  - "[[_Standards/WikiData/WD~recorded history,1145106]]"
+hashtag: history
+Iconclass_notation: 6
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaos%20Gyzis%20-%20Historia.jpg"
+Library_of_Congress_Classification: D
+MeSH_tree_code: K01.400
+OmegaWiki_Defined_Meaning: 1777
+OpenStreetMap_tag_or_key: "Key:historic"
+permanent_duplicated_item:
+  - '[[_Standards/WikiData/WD~Q20829341,20829341]]'
+  - '[[_Standards/WikiData/WD~Q58237100,58237100]]'
+PhilPapers_topic: history
+Provenio_UUID:
+  - eb678fc3-8581-4b25-acb2-e03c1c6a8446
+  - fdf8fc48-6865-41fe-95e7-37b96c591813
+Regensburg_Classification: N
+Stack_Exchange_site_URL: "https://history.stackexchange.com"
+studied_in:
+  - '[[_Standards/WikiData/WD~historiography,50675]]'
+  - '[[_Standards/WikiData/WD~humanities,80083]]'
+  - "[[_Standards/WikiData/WD~historical game studies,131382190]]"
   - "[[_Standards/WikiData/WD~study of history,1066186]]"
 subclass_of:
   - '[[_Standards/WikiData/WD~occurrence,1190554]]'
   - "[[_Standards/WikiData/WD~chain of events,5067949]]"
   - "[[_Standards/WikiData/WD~object of study,4330518]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of history,7112655]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_History of science and technology in the United States,14403588]]"
-permanent_duplicated_item:
-  - '[[_Standards/WikiData/WD~Q20829341,20829341]]'
-  - '[[_Standards/WikiData/WD~Q58237100,58237100]]'
-Baidu_Tieba_name: 历史
-Provenio_UUID:
-  - eb678fc3-8581-4b25-acb2-e03c1c6a8446
-  - fdf8fc48-6865-41fe-95e7-37b96c591813
-Iconclass_notation: 6
-Dewey_Decimal_Classification: 900
-Library_of_Congress_Classification: D
-Colon_Classification: V
-All_Science_Journal_Classification_Codes: 1202
-Regensburg_Classification: N
-OmegaWiki_Defined_Meaning: 1777
-Commons_category: History
 subreddit:
   - Geschichte
   - history
   - HistoryPorn
-PhilPapers_topic: history
-hashtag: history
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaos%20Gyzis%20-%20Historia.jpg"
-exact_match:
-  - "http://id.cabi.org/cabt/57756"
-  - "http://linkeddata.ge.imati.cnr.it/resource/EARTh/89480"
-  - "http://www.eionet.europa.eu/gemet/concept/3983"
-Stack_Exchange_site_URL: "https://history.stackexchange.com"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_History of science and technology in the United States,14403588]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_History,175361]]'
 U_S_National_Archives_Identifier: 10638122
-Basisklassifikation: 15.00
-MeSH_tree_code: K01.400
-OpenStreetMap_tag_or_key: "Key:historic"
-Gujarati_Vishwakosh_entry: ઇતિહાસવિદ્યા
-Archive_of_Our_Own_tag: Historical
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of history,7112655]]"
 ---
 
 #is_/part_of :: [[../../bio/Society|Society]] 

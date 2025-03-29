@@ -1,7 +1,7 @@
 ---
+has_id_wikidata: Q12560
 aliases:
   - Ottoman Empire
-has_id_wikidata: Q12560
 ---
 
 

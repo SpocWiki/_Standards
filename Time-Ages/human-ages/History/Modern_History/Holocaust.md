@@ -1,36 +1,23 @@
 ---
 has_id_wikidata: Q2763
+BHCL_UUID: 28f30748-7717-47cd-9815-1a19ff7d1ff5
+Commons_category: "The Holocaust"
+country:
+  - "[[_Standards/WikiData/WD~Kingdom of Romania,203493]]"
+  - "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
+defendant:
+  - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
+  - "[[_Standards/WikiData/WD~Hermann Göring,47906]]"
+  - "[[_Standards/WikiData/WD~list of accused at the Nuremberg Trials,13424569]]"
+end_time: "1945-01-01T00:00:00Z"
 facet_of:
   - '[[_Standards/WikiData/WD~antisemitism,22649]]'
   - '[[_Standards/WikiData/WD~evil,15292]]'
   - '[[_Standards/WikiData/WD~racism,8461]]'
   - '[[_Standards/WikiData/WD~violence,124490]]'
-perpetrator:
-  - '[[_Standards/WikiData/WD~Gestapo,43250]]'
-  - '[[_Standards/WikiData/WD~SS-Totenkopfverbände,312204]]'
-  - '[[_Standards/WikiData/WD~Wehrmacht,128781]]'
-  - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
-  - "[[_Standards/WikiData/WD~Heinrich Himmler,43067]]"
-  - "[[_Standards/WikiData/WD~Reinhard Heydrich,60039]]"
-location:
-  - '[[_Standards/WikiData/WD~Shanghai,8686]]'
-  - "[[_Standards/WikiData/WD~French Algeria,218272]]"
-  - "[[_Standards/WikiData/WD~French protectorate in Morocco,907234]]"
-  - "[[_Standards/WikiData/WD~Italian Ethiopia,3348640]]"
-  - "[[_Standards/WikiData/WD~Kingdom of Hungary,600018]]"
-  - "[[_Standards/WikiData/WD~Kingdom of Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Kingdom of Romania,203493]]"
-  - "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
-instance_of:
-  - '[[_Standards/WikiData/WD~genocide,41397]]'
-  - "[[_Standards/WikiData/WD~crime against humanity,173462]]"
-  - "[[_Standards/WikiData/WD~ethnic violence,13634374]]"
-  - "[[_Standards/WikiData/WD~hate crime,459409]]"
-  - "[[_Standards/WikiData/WD~key event,2245405]]"
-  - "[[_Standards/WikiData/WD~state crime,857833]]"
-country:
-  - "[[_Standards/WikiData/WD~Kingdom of Romania,203493]]"
-  - "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
+has_cause:
+  - '[[_Standards/WikiData/WD~antisemitism,22649]]'
+  - '[[_Standards/WikiData/WD~racism,8461]]'
 has_part_s_:
   - "[[_Standards/WikiData/WD~Holocaust in the Netherlands,2278817]]"
   - "[[_Standards/WikiData/WD~Jews outside Europe under Axis occupation,6190224]]"
@@ -56,35 +43,48 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~The Holocaust in the Lublin District,96409006]]"
   - "[[_Standards/WikiData/WD~The Holocaust in the Sudetenland,85807478]]"
   - "[[_Standards/WikiData/WD~The Holocaust in Yugoslavia,4499403]]"
-studied_in: "[[_Standards/WikiData/WD~Holocaust studies,1568255]]"
-on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject Holocaust,51879864]]"
-  - "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-defendant:
-  - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
-  - "[[_Standards/WikiData/WD~Hermann Göring,47906]]"
-  - "[[_Standards/WikiData/WD~list of accused at the Nuremberg Trials,13424569]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Holocaust,14554949]]'
-BHCL_UUID: 28f30748-7717-47cd-9815-1a19ff7d1ff5
-UMLS_CUI: C0206236
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Selection%20on%20the%20ramp%20at%20Auschwitz-Birkenau%2C%201944%20%28Auschwitz%20Album%29%201b.jpg"
+instance_of:
+  - '[[_Standards/WikiData/WD~genocide,41397]]'
+  - "[[_Standards/WikiData/WD~crime against humanity,173462]]"
+  - "[[_Standards/WikiData/WD~ethnic violence,13634374]]"
+  - "[[_Standards/WikiData/WD~hate crime,459409]]"
+  - "[[_Standards/WikiData/WD~key event,2245405]]"
+  - "[[_Standards/WikiData/WD~state crime,857833]]"
+location:
+  - '[[_Standards/WikiData/WD~Shanghai,8686]]'
+  - "[[_Standards/WikiData/WD~French Algeria,218272]]"
+  - "[[_Standards/WikiData/WD~French protectorate in Morocco,907234]]"
+  - "[[_Standards/WikiData/WD~Italian Ethiopia,3348640]]"
+  - "[[_Standards/WikiData/WD~Kingdom of Hungary,600018]]"
+  - "[[_Standards/WikiData/WD~Kingdom of Italy,172579]]"
+  - "[[_Standards/WikiData/WD~Kingdom of Romania,203493]]"
+  - "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
 MeSH_tree_code:
   - I01.198.240.903.149.500
   - I01.880.735.950.500.903.149.500
-has_cause:
-  - '[[_Standards/WikiData/WD~antisemitism,22649]]'
-  - '[[_Standards/WikiData/WD~racism,8461]]'
+number_of_deaths: 6000000
+on_focus_list_of_Wikimedia_project:
+  - "[[_Standards/WikiData/WD~WikiProject Holocaust,51879864]]"
+  - "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Arbeit%20macht%20frei%20banner.jpg"
 part_of:
   - '[[_Standards/WikiData/WD~antisemitism,22649]]'
   - "[[_Standards/WikiData/WD~persecution of Jews,48136]]"
-number_of_deaths: 6000000
+perpetrator:
+  - '[[_Standards/WikiData/WD~Gestapo,43250]]'
+  - '[[_Standards/WikiData/WD~SS-Totenkopfverbände,312204]]'
+  - '[[_Standards/WikiData/WD~Wehrmacht,128781]]'
+  - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
+  - "[[_Standards/WikiData/WD~Heinrich Himmler,43067]]"
+  - "[[_Standards/WikiData/WD~Reinhard Heydrich,60039]]"
+start_time: "1933-01-01T00:00:00Z"
+studied_in: "[[_Standards/WikiData/WD~Holocaust studies,1568255]]"
 subclass_of:
   - '[[_Standards/WikiData/WD~genocide,41397]]'
   - "[[_Standards/WikiData/WD~persecution of Jews,48136]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Selection%20on%20the%20ramp%20at%20Auschwitz-Birkenau%2C%201944%20%28Auschwitz%20Album%29%201b.jpg"
-Commons_category: "The Holocaust"
-end_time: "1945-01-01T00:00:00Z"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Arbeit%20macht%20frei%20banner.jpg"
-start_time: "1933-01-01T00:00:00Z"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Holocaust,14554949]]'
+UMLS_CUI: C0206236
 ---
 
 #has_/time_/started :: 1941-06-01 

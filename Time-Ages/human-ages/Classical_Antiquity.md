@@ -1,5 +1,4 @@
-﻿---
-
+---
 ClassicalAntiquity:
 - ["Event and Year of...","Start","End"]
 - ["[Sumerian](https://en.wikipedia.org/wiki/Sumer ) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform ) [writing system](https://en.wikipedia.org/wiki/Writing_system )",-3500,200]
@@ -216,7 +215,6 @@ ClassicalAntiquity:
 - ["Vandals sack Rome, capture Sicily and Sardinia.",455,""]
 - ["[Skandagupta](https://en.wikipedia.org/wiki/Skandagupta ) repels a [Huna people](https://en.wikipedia.org/wiki/Huna_people ) attack on [India](https://en.wikipedia.org/wiki/India ).",455,""]
 - ["[Romulus Augustulus](https://en.wikipedia.org/wiki/Romulus_Augustulus ), last [Western Roman Emperor](https://en.wikipedia.org/wiki/Western_Roman_Emperor ) is forced to abdicate by [Odoacer](https://en.wikipedia.org/wiki/Odoacer ), a chieftain of the [Germanic](https://en.wikipedia.org/wiki/Germanic_tribes ) [Heruli](https://en.wikipedia.org/wiki/Heruli ); Odoacer returns the imperial regalia to [Eastern Roman Emperor](https://en.wikipedia.org/wiki/Eastern_Roman_Emperor ) [Zeno](https://en.wikipedia.org/wiki/Zeno_(emperor) ) in [Constantinople](https://en.wikipedia.org/wiki/Constantinople ) in return for the title of _dux_ of [Italy](https://en.wikipedia.org/wiki/Italy ); most frequently cited date for the end of ancient history.",476,""]
-
 ---
 
 # [[Classical_Antiquity]] 

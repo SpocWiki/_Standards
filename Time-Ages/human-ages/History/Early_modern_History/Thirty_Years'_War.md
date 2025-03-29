@@ -1,9 +1,29 @@
 ---
+has_id_wikidata: Q2487
 aliases:
   - "Thirty Year War"
   - "Thirty Years War"
   - "Thirty Years' War"
-has_id_wikidata: Q2487
+BHCL_UUID: a98fc6a6-6a4e-4d9c-aadd-59e78a8964ca
+Commons_category: "Thirty Years War"
+country: "[[_Standards/WikiData/WD~Holy Roman Empire,12548]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
+distribution_map:
+  - "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Thirty%20Years%20War-en.svg"
+  - "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Thirty%20Years%20War-fr.svg"
+end_time: "1648-01-01T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Magdeburg%201631.jpg"
+instance_of: "[[_Standards/WikiData/WD~religious war,1827102]]"
+Krugosvet_article: istoriya/TRIDTSATILETNYAYA_VONA.html
+Library_of_Congress_Classification: D251-D271
+location: "[[_Standards/WikiData/WD~Central Europe,27509]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Lutzen%20banner.jpg"
 participant:
   - '[[_Standards/WikiData/WD~Brandenburg-Prussia,157367]]'
   - '[[_Standards/WikiData/WD~Denmark–Norway,62651]]'
@@ -19,30 +39,10 @@ participant:
   - "[[_Standards/WikiData/WD~Lands of the Bohemian Crown,686971]]"
   - "[[_Standards/WikiData/WD~Principality of Transylvania,655621]]"
   - "[[_Standards/WikiData/WD~Spanish Empire,80702]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-instance_of: "[[_Standards/WikiData/WD~religious war,1827102]]"
 point_in_time: "1618-05-23T00:00:00Z"
-start_time: "1618-01-01T00:00:00Z"
-Library_of_Congress_Classification: D251-D271
-country: "[[_Standards/WikiData/WD~Holy Roman Empire,12548]]"
-location: "[[_Standards/WikiData/WD~Central Europe,27509]]"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Lutzen%20banner.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-30-j%C3%A4hriger%20Krieg.ogg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Magdeburg%201631.jpg"
-distribution_map:
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Thirty%20Years%20War-en.svg"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Thirty%20Years%20War-fr.svg"
 Provenio_UUID: 75ec0398-483e-451b-b4c6-47b60f2fdcba
-BHCL_UUID: a98fc6a6-6a4e-4d9c-aadd-59e78a8964ca
-Krugosvet_article: istoriya/TRIDTSATILETNYAYA_VONA.html
-Commons_category: "Thirty Years War"
-end_time: "1648-01-01T00:00:00Z"
+start_time: "1618-01-01T00:00:00Z"
 ---
 
 #has_/time_/started ::  1618-05-23 

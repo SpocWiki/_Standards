@@ -1,38 +1,38 @@
 ---
+has_id_wikidata: Q12554
 aliases:
   - "Middle Ages"
-has_id_wikidata: Q12554
-end_time: "1500-01-01T00:00:00Z"
-studied_in:
-  - "[[_Standards/WikiData/WD~medieval archaeology,1671076]]"
-  - "[[_Standards/WikiData/WD~medieval history,27992545]]"
-  - "[[_Standards/WikiData/WD~medieval studies,119190]]"
+Commons_category: "Middle Ages"
+Commons_gallery: "Middle Ages"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
   - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Middle Ages,3248279]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Middle Ages,7112768]]"
+end_time: "1500-01-01T00:00:00Z"
+Iconclass_notation: 23T25
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg"
 instance_of:
   - '[[_Standards/WikiData/WD~age,17522177]]'
   - "[[_Standards/WikiData/WD~historical period,11514315]]"
-Provenio_UUID: 44b7f32e-0d01-4964-9102-a67e76b0755d
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Azincourt%20%28cropped%29.jpg"
-MeSH_tree_code: K01.400.500
-start_time: "0476-01-01T00:00:00Z"
 location: '[[_Standards/WikiData/WD~Europe,46]]'
+MeSH_tree_code: K01.400.500
 OmegaWiki_Defined_Meaning: 1757744
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg"
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/middle_ages"
-Stack_Exchange_tag: "https://history.stackexchange.com/questions/tagged/middle-ages"
-U_S_National_Archives_Identifier: 10641432
-Iconclass_notation: 23T25
-Commons_gallery: "Middle Ages"
-Commons_category: "Middle Ages"
-Stadtwiki_Dresden_article: Mittelalter
 OpenStreetMap_tag_or_key: "Tag:historic:civilization=middle-ages"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Azincourt%20%28cropped%29.jpg"
+Provenio_UUID: 44b7f32e-0d01-4964-9102-a67e76b0755d
+Stack_Exchange_tag: "https://history.stackexchange.com/questions/tagged/middle-ages"
+Stadtwiki_Dresden_article: Mittelalter
+start_time: "0476-01-01T00:00:00Z"
+studied_in:
+  - "[[_Standards/WikiData/WD~medieval archaeology,1671076]]"
+  - "[[_Standards/WikiData/WD~medieval history,27992545]]"
+  - "[[_Standards/WikiData/WD~medieval studies,119190]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Middle Ages,3248279]]"
+U_S_National_Archives_Identifier: 10641432
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Middle Ages,7112768]]"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/middle_ages"
 ---
 
 #has_/time_/started :: 0500-06

@@ -2,43 +2,43 @@
 has_id_wikidata: Q8683
 aliases:
   - "Cold War"
-start_time: "1945-01-01T00:00:00Z"
+Commons_category: "Cold War"
+described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
+end_time: "1991-12-25T00:00:00Z"
+has_cause: '[[_Standards/WikiData/WD~superpower,1489259]]'
 has_effect:
   - "[[_Standards/WikiData/WD~dissolution of the Soviet Union,5167679]]"
   - "[[_Standards/WikiData/WD~Eastern Bloc,170541]]"
   - "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
   - "[[_Standards/WikiData/WD~European Union,458]]"
   - "[[_Standards/WikiData/WD~United States,30]]"
-participant:
-  - "[[_Standards/WikiData/WD~Eastern Bloc,170541]]"
-  - "[[_Standards/WikiData/WD~Western Bloc,1507074]]"
-subclass_of: "[[_Standards/WikiData/WD~low-intensity conflict,369799]]"
+has_part_s_: "[[_Standards/WikiData/WD~proxy war,864113]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/US%20Army%20tanks%20face%20off%20against%20Soviet%20tanks%2C%20Berlin%201961.jpg"
 instance_of:
   - "[[_Standards/WikiData/WD~cold war,4176199]]"
   - "[[_Standards/WikiData/WD~historical period,11514315]]"
   - "[[_Standards/WikiData/WD~perpetual war,1469686]]"
   - "[[_Standards/WikiData/WD~proxy war,864113]]"
-has_part_s_: "[[_Standards/WikiData/WD~proxy war,864113]]"
-has_cause: '[[_Standards/WikiData/WD~superpower,1489259]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Cold War,10652253]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cold War,10729138]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Cold War,27627838]]"
-studied_in: "[[_Standards/WikiData/WD~history of the Cold War,108312481]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/NATO%20vs.%20Warsaw%20Pact%20%281949-1990%29.svg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Kalter%20Krieg.ogg"
+Krugosvet_article: istoriya/HOLODNAYA_VONA.html
 location:
   - '[[_Standards/WikiData/WD~Africa,15]]'
   - '[[_Standards/WikiData/WD~Asia,48]]'
   - '[[_Standards/WikiData/WD~Europe,46]]'
   - "[[_Standards/WikiData/WD~Latin America,12585]]"
-end_time: "1991-12-25T00:00:00Z"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Cold%20War.ogg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/NATO%20vs.%20Warsaw%20Pact%20%281949-1990%29.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Cold%20war%20banner.jpg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/US%20Army%20tanks%20face%20off%20against%20Soviet%20tanks%2C%20Berlin%201961.jpg"
-Commons_category: "Cold War"
-Krugosvet_article: istoriya/HOLODNAYA_VONA.html
+participant:
+  - "[[_Standards/WikiData/WD~Eastern Bloc,170541]]"
+  - "[[_Standards/WikiData/WD~Western Bloc,1507074]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Kalter%20Krieg.ogg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Cold%20War.ogg"
+start_time: "1945-01-01T00:00:00Z"
+studied_in: "[[_Standards/WikiData/WD~history of the Cold War,108312481]]"
+subclass_of: "[[_Standards/WikiData/WD~low-intensity conflict,369799]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Cold War,10652253]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cold War,10729138]]"
+union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Cold War,27627838]]"
 ---
 
 # [[Cold_War]] 

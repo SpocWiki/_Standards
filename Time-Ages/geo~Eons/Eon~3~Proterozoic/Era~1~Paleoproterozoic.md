@@ -1,33 +1,8 @@
 ---
 has_id_wikidata: Q336529
-occupation:
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Whigs,108700]]"
-position_held:
-  - "[[_Standards/WikiData/WD~ambassador,121998]]"
-  - "[[_Standards/WikiData/WD~Leader of the House of Lords,2012061]]"
-  - "[[_Standards/WikiData/WD~Lord Lieutenant of Ireland,1752225]]"
-  - "[[_Standards/WikiData/WD~Lord Lieutenant of Norfolk,6679626]]"
-  - "[[_Standards/WikiData/WD~Lord President of the Council,943379]]"
-  - "[[_Standards/WikiData/WD~Secretary of State for the Northern Department,3954358]]"
-member_of: "[[_Standards/WikiData/WD~Royal Society,123885]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Great Britain,161885]]"
-noble_title: "[[_Standards/WikiData/WD~viscount,185902]]"
-educated_at:
-  - "[[_Standards/WikiData/WD~Eton College,192088]]"
-  - "[[_Standards/WikiData/WD~King's College,924289]]"
 award_received:
   - "[[_Standards/WikiData/WD~Fellow of the Royal Society,15631401]]"
   - "[[_Standards/WikiData/WD~Order of the Garter,215248]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Dictionary of National Biography, 1885–1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-place_of_death: "[[_Standards/WikiData/WD~Raynham,656999]]"
-given_name: "[[_Standards/WikiData/WD~Charles,2958359]]"
 child:
   - "[[_Standards/WikiData/WD~Charles Townshend, 3rd Viscount Townshend,5083011]]"
   - "[[_Standards/WikiData/WD~Dorothy Townshend,75531948]]"
@@ -38,22 +13,47 @@ child:
   - "[[_Standards/WikiData/WD~Roger Townshend,7359025]]"
   - "[[_Standards/WikiData/WD~Thomas Townshend,7794524]]"
   - "[[_Standards/WikiData/WD~William Townshend,8019485]]"
+Commons_category: Charles Townshend, 2nd Viscount Townshend
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Great Britain,161885]]"
+date_of_birth: 1674-04-18T00:00:00Z
+date_of_death: 1738-06-21T00:00:00Z
+depicted_by: "[[_Standards/WikiData/WD~Charles Townshend, 2nd Viscount Townshend,28045175]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Dictionary of National Biography, 1885–1900,15987216]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+educated_at:
+  - "[[_Standards/WikiData/WD~Eton College,192088]]"
+  - "[[_Standards/WikiData/WD~King's College,924289]]"
 father: "[[_Standards/WikiData/WD~Horatio Townshend, 1st Viscount Townshend,5902810]]"
+given_name: "[[_Standards/WikiData/WD~Charles,2958359]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Townshend%2C%202nd%20Viscount%20Townshend%20by%20Sir%20Godfrey%20Kneller%2C%20Bt%20%282%29.jpg
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+ISNI: 000000002432473X
+member_of: "[[_Standards/WikiData/WD~Royal Society,123885]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Whigs,108700]]"
+mother: "[[_Standards/WikiData/WD~Mary Ashe,76267089]]"
+National_Library_of_Poland_Descriptor: "9810571798505606"
+noble_title: "[[_Standards/WikiData/WD~viscount,185902]]"
+occupation:
+  - "[[_Standards/WikiData/WD~diplomat,193391]]"
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+place_of_birth: "[[_Standards/WikiData/WD~Norfolk,23109]]"
+place_of_death: "[[_Standards/WikiData/WD~Raynham,656999]]"
+position_held:
+  - "[[_Standards/WikiData/WD~ambassador,121998]]"
+  - "[[_Standards/WikiData/WD~Leader of the House of Lords,2012061]]"
+  - "[[_Standards/WikiData/WD~Lord Lieutenant of Ireland,1752225]]"
+  - "[[_Standards/WikiData/WD~Lord Lieutenant of Norfolk,6679626]]"
+  - "[[_Standards/WikiData/WD~Lord President of the Council,943379]]"
+  - "[[_Standards/WikiData/WD~Secretary of State for the Northern Department,3954358]]"
 sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+sibling: "[[_Standards/WikiData/WD~Horatio Townshend,22336914]]"
 spouse:
   - "[[_Standards/WikiData/WD~Dorothy Walpole,16859606]]"
   - "[[_Standards/WikiData/WD~Elizabeth Pelham,75272921]]"
-sibling: "[[_Standards/WikiData/WD~Horatio Townshend,22336914]]"
-depicted_by: "[[_Standards/WikiData/WD~Charles Townshend, 2nd Viscount Townshend,28045175]]"
-mother: "[[_Standards/WikiData/WD~Mary Ashe,76267089]]"
-date_of_death: 1738-06-21T00:00:00Z
-ISNI: 000000002432473X
-place_of_birth: "[[_Standards/WikiData/WD~Norfolk,23109]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-date_of_birth: 1674-04-18T00:00:00Z
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Townshend%2C%202nd%20Viscount%20Townshend%20by%20Sir%20Godfrey%20Kneller%2C%20Bt%20%282%29.jpg
-National_Library_of_Poland_Descriptor: "9810571798505606"
-Commons_category: Charles Townshend, 2nd Viscount Townshend
 ---
 
 # [[Era~1~Paleoproterozoic]] 

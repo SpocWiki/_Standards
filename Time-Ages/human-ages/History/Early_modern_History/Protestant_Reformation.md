@@ -1,32 +1,32 @@
 ---
+has_id_wikidata: Q12562
 aliases:
   - "Protestant Reformation"
   - Reformation
-has_id_wikidata: Q12562
-facet_of:
-  - '[[_Standards/WikiData/WD~Protestantism,23540]]'
-  - "[[_Standards/WikiData/WD~Reformed Christianity,101849]]"
+Commons_category: Reformation
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~schism from the Catholic Church,126288065]]"
-  - "[[_Standards/WikiData/WD~subject heading,1128340]]"
 different_from: '[[_Standards/WikiData/WD~reformism,1323572]]'
+end_time: "1648-01-01T00:00:00Z"
+facet_of:
+  - '[[_Standards/WikiData/WD~Protestantism,23540]]'
+  - "[[_Standards/WikiData/WD~Reformed Christianity,101849]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~English Reformation,1645505]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/95Thesen%20facsimile%20colour.png"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Protestant%20Reformation%20pagebanner.jpg"
+instance_of:
+  - "[[_Standards/WikiData/WD~schism from the Catholic Church,126288065]]"
+  - "[[_Standards/WikiData/WD~subject heading,1128340]]"
 Krugosvet_article: kultura_i_obrazovanie/religiya/REFORMATSIYA.html
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Reformation sidebar,10934624]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Protestant%20Reformation%20pagebanner.jpg"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Religious reform,22827749]]"
-subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
-Commons_category: Reformation
 start_time: "1517-11-10T00:00:00Z"
-end_time: "1648-01-01T00:00:00Z"
+subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Reformation sidebar,10934624]]"
 ---
 
 ## #has_/text_of_/abstract 

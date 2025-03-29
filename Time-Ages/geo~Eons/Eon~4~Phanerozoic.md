@@ -1,19 +1,19 @@
 ---
 has_id_wikidata: Q101313
+Commons_category: Phanerozoic
+described_by_source: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20age%20fauna%20of%20northern%20Spain%20-%20Mauricio%20Ant%C3%B3n.jpg
 instance_of:
   - "[[_Standards/WikiData/WD~eon,108256]]"
   - "[[_Standards/WikiData/WD~eonothem,2669627]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q26108156,26108156]]"
+IPA_transcription: /ˌfænərəˈzoʊ.ɪk/
 named_by: "[[_Standards/WikiData/WD~George Halcott Chadwick,46122631]]"
-described_by_source: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
 part_of:
   - "[[_Standards/WikiData/WD~geologic time scale,43521]]"
   - "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
 sRGB_color_hex_triplet: 9AD9DD
-IPA_transcription: /ˌfænərəˈzoʊ.ɪk/
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20age%20fauna%20of%20northern%20Spain%20-%20Mauricio%20Ant%C3%B3n.jpg
-Commons_category: Phanerozoic
 start_time: -538800000-01-01T00:00:00Z
+topic_s_main_template: "[[_Standards/WikiData/WD~Q26108156,26108156]]"
 ---
 
 # [[Eon~4~Phanerozoic]] 
