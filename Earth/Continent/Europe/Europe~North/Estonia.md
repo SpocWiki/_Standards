@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -284,7 +284,7 @@ ISO_3166_1_numeric_code: 233
 GS1_country_code: 474
 area: 45335
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg"
-Unicode_character: "\U0001F1EA\U0001F1EA"
+Unicode_character: 🇪🇪 
 hashtag: Estonia
 Commons_category: Estonia
 DPLA_subject_term: Estonia

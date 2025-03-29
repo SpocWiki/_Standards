@@ -1,4 +1,4 @@
-﻿---
+---
 title: France
 linkTitle: 
 type: Country
@@ -357,7 +357,7 @@ Provenio_UUID:
 - 7a46ed56-f65d-4463-9e0d-1abb4e5951dc
 - 9b903d05-1ba3-4263-ad05-b650062f7971
 ISBN_identifier_group: 979-10
-Unicode_character: "\U0001F1EB\U0001F1F7"
+Unicode_character: 🇫🇷 
 Colon_Classification: SG--53
 Krugosvet_article: strany_mira/FRANTSIYA.html
 continent: '[[_Standards/WikiData/WD~Europe,46]]'

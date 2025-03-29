@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 41.7167
 - 44.7833
@@ -412,7 +412,7 @@ CIVICUS_Monitor_country_entry: georgia
 GitHub_topic: georgia
 motto_text: "ძალა ერთობაშია"
 coordinates_of_westernmost_point: "Point(40.00773713 43.38783202)"
-Unicode_character: "\U0001F1EC\U0001F1EA"
+Unicode_character: 🇬🇪 
 coordinates_of_southernmost_point: "Point(46.49392605 41.05521392)"
 U_S_National_Archives_Identifier: 10045259
 country_calling_code: +995

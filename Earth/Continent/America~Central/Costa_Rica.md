@@ -1,8 +1,8 @@
-﻿---
+---
 CIVICUS_Monitor_country_entry: costa-rica
 subreddit: costarica
 hashtag: CostaRica
-Unicode_character: "\U0001F1E8\U0001F1F7"
+Unicode_character: 🇨🇷 
 Colon_Classification: SG--758
 Krugosvet_article: strany-mira/kosta-rika
 demonym:

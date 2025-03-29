@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -4.26667
 - 15.2833
@@ -232,7 +232,7 @@ native_label:
 - "République du Congo"
 - "Repubilika ya Kongo"
 - "Republíki ya Kongó"
-Unicode_character: "\U0001F1E8\U0001F1EC"
+Unicode_character: 🇨🇬 
 U_S_National_Archives_Identifier: 10035680
 nominal_GDP:
 - 13366230821

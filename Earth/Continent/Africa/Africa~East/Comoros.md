@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
 - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
@@ -244,7 +244,7 @@ pronunciation_audio:
 country_calling_code: +269
 PM20_geo_code: C102a
 CIVICUS_Monitor_country_entry: comoros
-Unicode_character: "\U0001F1F0\U0001F1F2"
+Unicode_character: 🇰🇲 
 IPA_transcription: "ku'muːɾn̩ə"
 Krugosvet_article: strany_mira/KOMORSKIE_OSTROVA.html
 has_id_wikidata: Q970

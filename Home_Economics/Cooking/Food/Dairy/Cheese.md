@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q10943
 hashtag:
 - Cheese
@@ -6,7 +6,7 @@ hashtag:
 Commons_gallery: Cheese
 Colon_Classification: "KX31:78"
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SIR.html
-Unicode_character: "\U0001F9C0"
+Unicode_character: 🧀 
 Danbooru_tag: cheese
 history_of_topic: "[[_Standards/WikiData/WD~history of cheese,471230]]"
 described_by_source:

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -33.45
 - -70.67
@@ -53,7 +53,7 @@ ITU_letter_code: CHL
 FIPS_10_4_countries_and_regions_: CI
 ISO_3166_1_alpha_2_code: CL
 WIPO_ST_3: CL
-Unicode_character: "\U0001F1E8\U0001F1F1"
+Unicode_character: 🇨🇱 
 PM20_geo_code: E85
 licence_plate_code: RCH
 Colon_Classification: SG--7914

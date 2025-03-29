@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 6.85
 - -5.3
@@ -327,7 +327,7 @@ birth_rate:
 IAB_code: 1276
 life_expectancy: 53.582
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg"
-Unicode_character: "\U0001F1E8\U0001F1EE"
+Unicode_character: 🇨🇮 
 EPSG_CRS: 6226
 OmegaWiki_Defined_Meaning: 7929
 INSEE_countries_and_foreign_territories_code: 99326

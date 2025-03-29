@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q195
 Commons_gallery: Chocolate
 Commons_category: Chocolate
@@ -6,7 +6,7 @@ subreddit: chocolate
 Amazon_com_browse_node:
 - 16317461
 - 18774316011
-Unicode_character: "\U0001F36B"
+Unicode_character: 🍫 
 inception: "-1749-01-01T00:00:00Z"
 has_time_started: "-1749-01-01T00:00:00Z"
 U_S_National_Archives_Identifier: 10639394

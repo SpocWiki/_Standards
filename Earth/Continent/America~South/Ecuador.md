@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -161,7 +161,7 @@ mobile_country_code: 740
 GS1_country_code: 786
 maritime_identification_digits: 735
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg"
-Unicode_character: "\U0001F1EA\U0001F1E8"
+Unicode_character: 🇪🇨 
 OmegaWiki_Defined_Meaning: 8349
 number_of_out_of_school_children: 225277
 short_name:

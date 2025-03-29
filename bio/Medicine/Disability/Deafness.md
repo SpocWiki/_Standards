@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12133
 subreddit: deaf
 health_specialty: '[[_Standards/WikiData/WD~otolaryngology,189553]]'
@@ -46,7 +46,7 @@ MeSH_tree_code:
 ICD_10_CM: H90
 Krugosvet_article: medicina/GLUHOTA.html
 Colon_Classification: S67
-Unicode_character: "\U0001F9CF"
+Unicode_character: 🧏 
 ---
 
 ## #has_/text_of_/abstract 

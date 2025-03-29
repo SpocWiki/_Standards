@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_gallery: "The Gambia"
 Commons_category: "The Gambia"
 hashtag: TheGambia
@@ -244,7 +244,7 @@ pronunciation_audio:
 country_calling_code: +220
 Libris_URI: 75kml5jr0dgh804
 CIVICUS_Monitor_country_entry: gambia
-Unicode_character: "\U0001F1EC\U0001F1F2"
+Unicode_character: 🇬🇲 
 Krugosvet_article: strany_mira/GAMBIYA.html
 has_id_wikidata: Q1005
 location:

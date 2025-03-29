@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q2095
 properties_for_this_type:
 - "subclass of"
@@ -27,7 +27,7 @@ label_in_sign_language:
 Commons_gallery: Food
 Commons_category: Food
 Archive_of_Our_Own_tag: Food
-Unicode_character: "\U0001F372"
+Unicode_character: 🍲 
 U_S_National_Archives_Identifier: 10640291
 Danbooru_tag: food
 GitHub_topic: food

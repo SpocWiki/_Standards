@@ -1,4 +1,4 @@
-﻿---
+---
 different_from:
 - '[[_Standards/WikiData/WD~Cerete,100358]]'
 - '[[_Standards/WikiData/WD~Columbia,766625]]'
@@ -381,7 +381,7 @@ official_website: "https://www.gov.co/"
 country_calling_code: +57
 U_S_National_Archives_Identifier: 10035714
 Dewey_Decimal_Classification: 2--861
-Unicode_character: "\U0001F1E8\U0001F1F4"
+Unicode_character: 🇨🇴 
 CIVICUS_Monitor_country_entry: colombia
 GitHub_topic: colombia
 age_of_majority: 18

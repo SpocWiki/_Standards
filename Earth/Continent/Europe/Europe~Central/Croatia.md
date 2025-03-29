@@ -1,4 +1,4 @@
-﻿---
+---
 demonym:
 - Crótach
 - Chorvatka
@@ -303,7 +303,7 @@ rural_population:
 - 1738221
 Commons_category: Croatia
 hashtag: Croatia
-Unicode_character: "\U0001F1ED\U0001F1F7"
+Unicode_character: 🇭🇷 
 Commons_gallery: Hrvatska
 Colon_Classification: SG--59222
 Krugosvet_article: strany_mira/HORVATIYA.html

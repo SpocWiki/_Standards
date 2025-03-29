@@ -1,6 +1,6 @@
-﻿---
+---
 has_id_wikidata: Q5283
-Unicode_character: "\U0001F48E"
+Unicode_character: 💎 
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/So%20entstehen%20Diamanten%20%28CC%20BY%204.0%29.webm"
 UNII: 6GRV67N0U2
 MCN_code: 7104.20.10

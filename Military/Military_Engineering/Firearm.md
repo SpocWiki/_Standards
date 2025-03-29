@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12796
 uses:
 - '[[_Standards/WikiData/WD~combustion,133235]]'
@@ -43,7 +43,7 @@ properties_for_this_type:
 exact_match:
 - "http://wordnet-rdf.princeton.edu/wn30/03467984-n"
 - "http://wordnet-rdf.princeton.edu/wn31/103444276-n"
-Unicode_character: "\U0001F52B"
+Unicode_character: 🔫 
 Iconclass_notation: 45C16
 hashtag:
 - firearms

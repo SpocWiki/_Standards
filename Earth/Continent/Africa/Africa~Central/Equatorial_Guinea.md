@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 3.75
 - 8.78333
@@ -299,7 +299,7 @@ CIVICUS_Monitor_country_entry: equatorial-guinea
 subreddit: EquatorialGuinea
 hashtag: EquatorialGuinea
 IPA_transcription: "ɛkʋɑtu'ɾɪɑːlgɪneːɑ"
-Unicode_character: "\U0001F1EC\U0001F1F6"
+Unicode_character: 🇬🇶 
 ---
 
 # [[Equatorial_Guinea]] 

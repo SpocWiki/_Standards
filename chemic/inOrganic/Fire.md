@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q3196
 has_part_s_:
 - '[[_Standards/WikiData/WD~smoke,130768]]'
@@ -36,7 +36,7 @@ Commons_gallery: Fire
 Commons_category: Fire
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Burning%20Tent.ogv"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/FIRE%2001.JPG"
-Unicode_character: "\U0001F525"
+Unicode_character: 🔥 
 MIL_STD_2525_Symbol_Identification_Code: 10014000001400000000
 U_S_National_Archives_Identifier:
 - 10636978

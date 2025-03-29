@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q185583
 subclass_of: '[[_Standards/WikiData/WD~confection,5159627]]'
 said_to_be_the_same_as:
@@ -16,7 +16,7 @@ Commons_category: Candy
 Danbooru_tag: candy
 U_S_National_Archives_Identifier: 10636889
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Candy%20in%20Damascus.jpg"
-Unicode_character: "\U0001F36C"
+Unicode_character: 🍬 
 ---
 
 ## #has_/text_of_/abstract 

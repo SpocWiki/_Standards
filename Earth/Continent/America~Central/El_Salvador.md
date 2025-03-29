@@ -1,4 +1,4 @@
-﻿---
+---
 highest_point: "[[_Standards/WikiData/WD~Cerro El Pital,74214]]"
 member_of:
 - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
@@ -186,7 +186,7 @@ coordinates_of_easternmost_point: "Point(-87.6975 13.179722222)"
 coordinates_of_southernmost_point: "Point(-87.8999323 13.1562325)"
 coordinates_of_northernmost_point: "Point(-89.38 14.45)"
 U_S_National_Archives_Identifier: 10044746
-Unicode_character: "\U0001F1F8\U0001F1FB"
+Unicode_character: 🇸🇻 
 geoshape: "http://commons.wikimedia.org/data/main/Data:El+Salvador.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20El%20Salvador.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Salvador%20banner%202.jpg"

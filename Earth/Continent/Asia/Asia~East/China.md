@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 35.6637
 - 117.985
@@ -826,7 +826,7 @@ ISO_3166_1_alpha_3_code: CHN
 IOC_country_code: CHN
 WIPO_ST_3: CN
 ISO_3166_1_alpha_2_code: CN
-Unicode_character: "\U0001F1E8\U0001F1F3"
+Unicode_character: 🇨🇳 
 Library_of_Congress_Classification: DS777.545-DS779.32
 Wolfram_Language_entity_code: "Entity[\"Country\", \"China\"]"
 Libris_URI: khwzxm2321g72mt

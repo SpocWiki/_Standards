@@ -1,4 +1,4 @@
-﻿---
+---
 geography_of_topic: "[[_Standards/WikiData/WD~geography of the Czech Republic,76380]]"
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
@@ -445,7 +445,7 @@ Provenio_UUID:
 - 9963be13-e3bd-4edd-97c1-eebd98d4954e
 - d408ae3e-8359-4a83-8507-ec1f547f0265
 Commons_gallery: Česko
-Unicode_character: "\U0001F1E8\U0001F1FF"
+Unicode_character: 🇨🇿 
 subreddit:
 - czech
 GitHub_topic: czech-republic

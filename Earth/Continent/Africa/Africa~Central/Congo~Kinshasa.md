@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -4.3
 - 15.3
@@ -534,7 +534,7 @@ female_population:
 - 46787187
 - 48319268
 - 49892177
-Unicode_character: "\U0001F1E8\U0001F1E9"
+Unicode_character: 🇨🇩 
 Commons_category: "Democratic Republic of the Congo"
 Commons_gallery: "République Démocratique du Congo"
 rural_population:

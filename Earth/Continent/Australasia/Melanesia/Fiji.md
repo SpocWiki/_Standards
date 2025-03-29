@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
 - "[[_Standards/WikiData/WD~unitary state,179164]]"
@@ -251,7 +251,7 @@ Wolfram_Language_entity_code: "Entity[\"Country\", \"Fiji\"]"
 CIVICUS_Monitor_country_entry: fiji
 Commons_gallery: "Fiji / Viti"
 subreddit: FijiIslands
-Unicode_character: "\U0001F1EB\U0001F1EF"
+Unicode_character: 🇫🇯 
 has_id_wikidata: Q712
 location:
 - -18.1667

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 62.3173
 - 25.4668
@@ -511,7 +511,7 @@ short_name: "\U0001F1EB\U0001F1EE"
 inception: "1917-12-06T00:00:00Z"
 has_time_started: "1917-12-06T00:00:00Z"
 U_S_National_Archives_Identifier: 10035776
-Unicode_character: "\U0001F1EB\U0001F1EE"
+Unicode_character: 🇫🇮 
 geoshape: "http://commons.wikimedia.org/data/main/Data:Finland.map"
 area: 338478.34
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Finland.svg"

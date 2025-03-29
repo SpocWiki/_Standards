@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 62
 - -6.78333
@@ -100,7 +100,7 @@ M49_code: 234
 ISO_3166_1_numeric_code: 234
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Faroe%20Islands.svg"
 Commons_category: "Faroe Islands"
-Unicode_character: "\U0001F1EB\U0001F1F4"
+Unicode_character: 🇫🇴 
 IAB_code: 1436
 maritime_identification_digits: 231
 population: 54149

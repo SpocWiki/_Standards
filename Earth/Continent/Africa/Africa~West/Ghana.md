@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 5.55
 - -0.25
@@ -359,7 +359,7 @@ demonym: Ghanaian
 population: 32833031
 U_S_National_Archives_Identifier: 10035708
 coordinate_location: "Point(-1.08 8.03)"
-Unicode_character: "\U0001F1EC\U0001F1ED"
+Unicode_character: 🇬🇭 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ghana.svg"
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Ghana%202008%20Parliamentary%20Map.png"
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 55.6789
 - 10.5
@@ -364,7 +364,7 @@ urban_population:
 Commons_category: Denmark
 subreddit: Denmark
 hashtag: Denmark
-Unicode_character: "\U0001F1E9\U0001F1F0"
+Unicode_character: 🇩🇰 
 aircraft_registration_prefix: OY
 OmegaWiki_Defined_Meaning: 7997
 IOC_country_code: DEN

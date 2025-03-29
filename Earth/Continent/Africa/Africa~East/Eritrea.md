@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
 - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
@@ -246,7 +246,7 @@ rural_population:
 - 2085623
 - 2100324
 - 2113713
-Unicode_character: "\U0001F1EA\U0001F1F7"
+Unicode_character: 🇪🇷 
 licence_plate_code: ER
 ISO_3166_1_alpha_2_code: ER
 FIPS_10_4_countries_and_regions_: ER

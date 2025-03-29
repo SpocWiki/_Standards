@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7364
 Dewey_Decimal_Classification:
 - 612.84
@@ -6,8 +6,8 @@ Dewey_Decimal_Classification:
 - 611.84
 Colon_Classification: L185
 Unicode_character:
-- "\U0001F441"
-- "\U0001F440"
+- 👀
+- 👁
 has_use: "[[_Standards/WikiData/WD~visual perception,162668]]"
 connects_with:
 - "[[_Standards/WikiData/WD~optic nerve,186029]]"

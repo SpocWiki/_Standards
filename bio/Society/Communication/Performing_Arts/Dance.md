@@ -1,10 +1,10 @@
-﻿---
+---
 has_id_wikidata: Q11639
 IPTC_NewsCode: mediatopic/20000007
 Krugosvet_article: muzyka/tanets
 Unicode_character:
-- "\U0001F57A"
-- "\U0001F483"
+- 💃 
+- 🕺 
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dance-At-Bougival.jpg"
 has_part_s_:
 - '[[_Standards/WikiData/WD~choreography,180856]]'

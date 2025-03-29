@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q4
 Library_of_Congress_Classification: BD443.8-BD445
 Provenio_UUID: d38fc7f6-f474-4ccc-a109-a8570f4eb16d
@@ -32,7 +32,7 @@ Archive_of_Our_Own_tag: Death
 OmegaWiki_Defined_Meaning: 387598
 Unicode_character:
 - ☠
-- "\U0001F480"
+- 💀 
 U_S_National_Archives_Identifier: 10639416
 instance_of:
 - '[[_Standards/WikiData/WD~concept,151885]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8142
 model_item: "[[_Standards/WikiData/WD~Indian rupee,80524]]"
 described_by_source:
@@ -33,7 +33,7 @@ properties_for_this_type:
 Wikidata_property: currency
 IAB_code: 82
 OmegaWiki_Defined_Meaning: 347472
-Unicode_character: "\U0001F4B5"
+Unicode_character: 💵 
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Money%20and%20pills%20in%20three%20colors%20banner.jpg"
 Commons_category: Currencies
 Basisklassifikation: 83.44

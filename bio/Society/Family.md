@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8436
 uses: "[[_Standards/WikiData/WD~family name,101352]]"
 different_from:
@@ -56,7 +56,7 @@ OmegaWiki_Defined_Meaning: 1405
 IAB_code: 186
 Colon_Classification: Y2
 Commons_category: Families
-Unicode_character: "\U0001F46A"
+Unicode_character: 👪 
 hashtag: family
 U_S_National_Archives_Identifier: 10639448
 Archive_of_Our_Own_tag: Family

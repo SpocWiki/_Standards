@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q38695
 practiced_by:
 - '[[_Standards/WikiData/WD~cook,156839]]'
@@ -52,7 +52,7 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Wok%20cooking%20and%20the%20heat%20source%20by%20The%20Pocket%20in%20Nanjing.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Roosenburg.jpg"
 described_at_URL: "https://neal.fun/earth-reviews/cooking"
-Unicode_character: "\U0001F373"
+Unicode_character: 🍳 
 U_S_National_Archives_Identifier: 10675369
 MeSH_tree_code: J01.576.423.200.200
 ---

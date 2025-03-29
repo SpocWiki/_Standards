@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Food and Agriculture Organization,82151]]"
 - "[[_Standards/WikiData/WD~Non-Aligned Movement,83201]]"
@@ -226,7 +226,7 @@ hashtag: CapeVerde
 subreddit:
 - CapeVerde
 - CaboVerde
-Unicode_character: "\U0001F1E8\U0001F1FB"
+Unicode_character: 🇨🇻 
 Commons_gallery: "Kabu Verdi / Cabo Verde"
 Krugosvet_article: strany_mira/KABO-VERDE.html
 motto_text: "Paz, Trabalho, Pátria"

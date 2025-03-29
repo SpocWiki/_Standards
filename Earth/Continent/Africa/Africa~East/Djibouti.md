@@ -1,4 +1,4 @@
-﻿---
+---
 lowest_point: "[[_Standards/WikiData/WD~Lake Assal,81239]]"
 flag: "[[_Standards/WikiData/WD~flag of Djibouti,102184]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Djibouti,109125]]"
@@ -251,7 +251,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%A4%E0%A6%BF.wav"
 official_website: "https://www.presidence.dj/"
 country_calling_code: +253
-Unicode_character: "\U0001F1E9\U0001F1EF"
+Unicode_character: 🇩🇯 
 Commons_category: Djibouti
 subreddit: Djibouti
 hashtag: Djibouti

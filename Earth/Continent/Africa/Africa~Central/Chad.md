@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 12.1
 - 16.0333
@@ -402,7 +402,7 @@ rural_population:
 - 13094226
 - 13458554
 population: 19319064
-Unicode_character: "\U0001F1F9\U0001F1E9"
+Unicode_character: 🇹🇩 
 coordinates_of_westernmost_point: "Point(13.47035408 14.41655905)"
 coordinates_of_southernmost_point: "Point(15.79989149 7.44298327)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Chad.svg"

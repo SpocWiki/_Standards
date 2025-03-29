@@ -1,4 +1,4 @@
-﻿---
+---
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
@@ -134,7 +134,7 @@ number_of_out_of_school_children: 3331
 ISO_3166_1_numeric_code: 196
 M49_code: 196
 BHCL_UUID: 5107be86-5156-462d-aabc-bb6eea760acf
-Unicode_character: "\U0001F1E8\U0001F1FE"
+Unicode_character: 🇨🇾 
 NUTS_code:
 - CY0
 - CY00

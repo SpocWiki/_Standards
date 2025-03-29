@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11404
 part_of: "[[_Standards/WikiData/WD~drum kit,128309]]"
 described_by_source:
@@ -25,7 +25,7 @@ Nomenclature_for_Museum_Cataloging: 10740
 Commons_gallery: Drums
 Commons_category: Drums
 Iconclass_notation: 48C7341
-Unicode_character: "\U0001F941"
+Unicode_character: 🥁 
 OmegaWiki_Defined_Meaning: 386380
 Amazon_com_browse_node: 11970521
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Bass%20drum.ogg"

@@ -1,4 +1,4 @@
-﻿---
+---
 shares_border_with:
 - '[[_Standards/WikiData/WD~Levant,81483]]'
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
@@ -315,7 +315,7 @@ official_name: "جُمهورِيّةُ مِصرَ العَرَبيّةِ"
 subreddit: Egypt
 hashtag: Egypt
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/All%20Gizah%20Pyramids.jpg"
-Unicode_character: "\U0001F1EA\U0001F1EC"
+Unicode_character: 🇪🇬 
 nominal_GDP:
 - 424671765456
 - 476747720365

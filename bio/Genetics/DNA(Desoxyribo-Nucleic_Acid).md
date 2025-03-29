@@ -1,6 +1,6 @@
-﻿---
+---
 has_id_wikidata: Q7430
-Unicode_character: "\U0001F9EC"
+Unicode_character: 🧬 
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/DNA%20animation.gif"
 Merck_Index_monograph: m4178
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/3D-Modell%20DNA-Doppelhelix%2020220603.stl"

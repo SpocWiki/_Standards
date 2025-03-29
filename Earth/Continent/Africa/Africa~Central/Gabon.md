@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Gabon,101769]]"
 member_of:
 - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
@@ -297,7 +297,7 @@ coordinates_of_southernmost_point: "Point(11.15322 -3.96005)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Gabon.svg"
 U_S_National_Archives_Identifier: 10035698
 subreddit: GABON
-Unicode_character: "\U0001F1EC\U0001F1E6"
+Unicode_character: 🇬🇦 
 coordinate_location: "Point(11.5 -0.683330555)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Gabon.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Gabon%20banner%20Lop%C3%A9%20National%20Park.jpg"

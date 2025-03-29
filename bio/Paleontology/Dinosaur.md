@@ -1,6 +1,6 @@
-﻿---
+---
 has_id_wikidata: Q430
-Unicode_character: "\U0001F995"
+Unicode_character: 🦕 
 hashtag:
 - dinosaur
 - dinosaurs

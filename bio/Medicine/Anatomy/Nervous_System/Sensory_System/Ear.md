@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7362
 has_use: '[[_Standards/WikiData/WD~hearing,160289]]'
 has_part_s_:
@@ -38,7 +38,7 @@ OmegaWiki_Defined_Meaning: 5510
 Colon_Classification: L183
 APA_Dictionary_of_Psychology_entry: ear
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Closeup%20of%20a%20human%20ear.jpg"
-Unicode_character: "\U0001F442"
+Unicode_character: 👂 
 MeSH_tree_code:
 - A01.456.313
 - A09.246

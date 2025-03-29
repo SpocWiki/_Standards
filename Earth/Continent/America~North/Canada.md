@@ -1,4 +1,4 @@
-﻿---
+---
 title: Canada
 type: Country
 location:
@@ -469,7 +469,7 @@ urban_population:
 - 31016918
 - 31223996
 - 31833457
-Unicode_character: "\U0001F1E8\U0001F1E6"
+Unicode_character: 🇨🇦 
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Canada%20wordmark.svg"
 population: 36991981
 Colon_Classification: SG--72

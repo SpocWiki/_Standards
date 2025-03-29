@@ -1,11 +1,11 @@
-﻿---
+---
 has_id_wikidata: Q5377
 subreddit: golf
 MeSH_tree_code: I03.450.642.845.400
 IPTC_NewsCode: mediatopic/20000940
 Colon_Classification: MY2145
 OpenStreetMap_tag_or_key: "Tag:sport=golf"
-Unicode_character: "\U0001F3CC"
+Unicode_character: 🏌 
 different_from:
 - '[[_Standards/WikiData/WD~Golf,211807]]'
 - '[[_Standards/WikiData/WD~Goif,13034823]]'

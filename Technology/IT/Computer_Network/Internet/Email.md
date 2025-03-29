@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9158
 Commons_category: E-mail
 creator: "[[_Standards/WikiData/WD~Raymond Tomlinson,92631]]"
@@ -27,7 +27,7 @@ different_from:
 - "[[_Standards/WikiData/WD~email message,30070439]]"
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/%40%20symbol.svg"
 Stack_Exchange_tag: "https://stackoverflow.com/tags/email"
-Unicode_character: "\U0001F4E7"
+Unicode_character: 📧 
 UMLS_CUI: C0013849
 MeSH_tree_code:
 - L01.462.500.847.249

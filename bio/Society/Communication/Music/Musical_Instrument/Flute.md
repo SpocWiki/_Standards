@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11405
 subclass_of:
 - "[[_Standards/WikiData/WD~wind instrument,173453]]"
@@ -20,7 +20,7 @@ Amazon_com_browse_node:
 - 11969561
 Krugosvet_article: kultura_i_obrazovanie/muzyka/FLETA.html
 Colon_Classification: NR;22
-Unicode_character: "\U0001FA88"
+Unicode_character: 🪈 
 used_by: '[[_Standards/WikiData/WD~flautist,12902372]]'
 instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
 earliest_date: "-35000-01-01T00:00:00Z"
