@@ -26,8 +26,8 @@ Terminologia_Embryologica: E1.0.2.6.1.0.1
 MeSH_tree_code: G08.686.784.769
 Unicode_character:
 - 🤰 
-- "\U0001FAC4"
-- "\U0001FAC3"
+- 🫄 
+- 🫃 
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Pregnancy,13099510]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27135171,27135171]]'
 on_focus_list_of_Wikimedia_project:

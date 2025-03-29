@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -54,7 +54,7 @@ culture: "[[_Standards/WikiData/WD~culture of Qatar,3007363]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~999,3086706]]'
 central_bank: "[[_Standards/WikiData/WD~Qatar Central Bank,3365778]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Qatar,7112422]]"
-Unicode_character: "\U0001F1F6\U0001F1E6"
+Unicode_character: 🇶🇦 
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Qatar,14616116]]'
 aerial_view:

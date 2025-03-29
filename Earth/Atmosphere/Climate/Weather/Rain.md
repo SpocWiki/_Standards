@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7925
 Colon_Classification: U2855
 has_use:
@@ -41,7 +41,10 @@ OmegaWiki_Defined_Meaning: 3100
 Commons_gallery: Rain
 Commons_category: Rain
 Iconclass_notation: 26B
-Unicode_character: "\U0001F327"
+Unicode_character: 
+- 🌦
+- ⛆ 
+- 🌧
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/08152%20Bukowsko%20%28powiat%20sanocki%29.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Vihmavarjuga%20jalak%C3%A4ija%20Sossi%20m%C3%A4el%20Tallinnas.%202016.%20aasta%20aprill..jpg"
