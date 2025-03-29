@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q395
 has_part_s_:
 - '[[_Standards/WikiData/WD~combinatorics,76592]]'
@@ -102,9 +102,24 @@ Stack_Exchange_site_URL: "https://math.stackexchange.com"
 
 ## #has_/text_of_/abstract 
 
-> **Mathematics** is a field of study that discovers and organizes methods, theories and theorems that are developed and proved for the needs of empirical sciences and mathematics itself. There are many areas of mathematics, which include number theory (the study of numbers), algebra (the study of formulas and related structures), geometry (the study of shapes and spaces that contain them), analysis (the study of continuous changes), and set theory (presently used as a foundation for all mathematics).
+> **Mathematics** is a field of study that discovers and organizes methods, theories 
+> and theorems that are developed and proved for the needs of empirical sciences and mathematics itself. 
+> 
+> There are many areas of mathematics, which include 
+> - number theory (the study of numbers), 
+> - algebra (the study of formulas and related structures), 
+> - geometry (the study of shapes and spaces that contain them), 
+> - analysis (the study of continuous changes), and 
+> - set theory (presently used as a foundation for all mathematics).
 >
-> Mathematics involves the description and manipulation of abstract objects that consist of either abstractions from nature or—in modern mathematics—purely abstract entities that are stipulated to have certain properties, called axioms.  Mathematics uses pure reason to prove properties of objects, a proof consisting of a succession of applications of deductive rules to already established results. These results include previously proved theorems, axioms, and—in case of abstraction from nature—some basic properties that are considered true starting points of the theory under consideration.
+> Mathematics involves the description and manipulation of abstract objects 
+> that consist of either abstractions from nature or—in modern mathematics—
+> purely abstract entities that are stipulated to have certain properties, called axioms.  
+> 
+> Mathematics uses pure reason to prove properties of objects, 
+> a proof consisting of a succession of applications of deductive rules to already established results. 
+> These results include previously proved theorems, axioms, and—in case of abstraction from nature—
+> some basic properties that are considered true starting points of the theory under consideration.
 >
 > Mathematics is essential in the natural sciences, engineering, medicine, finance, computer science, 
 > and the social sciences. 
@@ -129,5 +144,5 @@ Stack_Exchange_site_URL: "https://math.stackexchange.com"
 > which heralded a dramatic increase in the number of mathematical areas and their fields of application. 
 > The contemporary Mathematics Subject Classification lists more than sixty first-level areas of mathematics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mathematics) 
 

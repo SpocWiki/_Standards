@@ -1,6 +1,24 @@
 ---
-aliases:
+aliases: 
 ischart: Mesozoic
+has_id_wikidata: Q83222
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~era,630830]]"
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+named_by: "[[_Standards/WikiData/WD~John Phillips,1701428]]"
+part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mesozoic,101435488]]"
+end_time: -66000000-01-01T00:00:00Z
+start_time: -251902000-01-01T00:00:00Z
+sRGB_color_hex_triplet: 67C5CA
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Mesozoic%20Mesozoikum.png
+OmegaWiki_Defined_Meaning: "952543"
+Commons_category: Mesozoic
 ---
 
 # [[Era~2~Mesozoic]] 
@@ -13,6 +31,15 @@ A time period from 251.902 to 66.0 million years ago.
 
 #has_/prev_item :: [[Era~1~Paleozoic]] 
 #has_/next_item :: [[Era~3~Cenozoic]] 
+
+#has_/abbreviation :: MZ
+
+#has_/time_/started :: -251.902e6 
+#has_/time_/stopped ::  -66.000e6 
+
+    sh:order 76 
+
+#has_/text_of_/color :: 0x67C5CA
 
 ## #has_/text_of_/abstract 
 
@@ -37,15 +64,6 @@ A time period from 251.902 to 66.0 million years ago.
 #has_/label_/sl  :: mezozoik
 #has_/label_/sv  :: mesozoikum
 #has_/label_/zh  :: 中生代
-
-#has_/abbreviation :: MZ
-
-#has_/time_/started :: -251.902e6 
-#has_/time_/stopped ::  -66.000e6 
-
-    sh:order 76 
-
-#has_/text_of_/color :: 0x67C5CA
 
 ## All Contents
 

@@ -1,3 +1,13 @@
+---
+has_id_wikidata: Q336530
+instance_of: "[[_Standards/WikiData/WD~Federal Act (Germany),1006079]]"
+start_time: 1894-06-04T00:00:00Z
+applies_to_jurisdiction: "[[_Standards/WikiData/WD~Germany,183]]"
+short_name:
+  - Abzahlungsgesetz
+  - AbzG
+title: Gesetz betreffend die Abzahlungsgeschäfte
+---
 # [[Era~2~Mesoproterozoic]] 
 
 #is_a_/time_/Era 

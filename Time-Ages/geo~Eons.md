@@ -1,5 +1,15 @@
 ---
-
+has_id_wikidata: Q108256
+studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
+different_from:
+  - "[[_Standards/WikiData/WD~aeon,398085]]"
+  - "[[_Standards/WikiData/WD~eonothem,2669627]]"
+standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigraphy,402104]]"
+has_part_s_: "[[_Standards/WikiData/WD~era,630830]]"
+subclass_of: "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
+next_higher_rank: "[[_Standards/WikiData/WD~supereon,15398983]]"
+part_of: "[[_Standards/WikiData/WD~supereon,15398983]]"
+Commons_category: Geologic eons
 ---
 
 # [[geo~Eons]] 
@@ -160,12 +170,13 @@ Quaternary: crit, -2580000, 0
 const data = dv.pages("#is_a_/time_/Period")
     .sort(p => Number(p.has_time_started), 'asc')
     .map(p => [
+        p.file.folder.split("/").pop(),//.substring(0),//.replaceAll("~","-"), (default left-aligned)
         p.file.name.substring(7),//.replaceAll("~","-"), (default left-aligned)
         Number(p.has_time_started), // Start (right-aligned)
         Number(p.has_time_stopped) // End (right-aligned)
     ]);
 
-const headers = ["Period", "Start", "End"];
+const headers = ["Era", "Period", "Start", "End"];
 
 dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
 ```
@@ -218,13 +229,17 @@ Holocene: crit, -11700, 0
 ```dataviewjs
 const data = dv.pages("#is_a_/time_/Epoch")
     .sort(p => Number(p.has_time_started), 'asc')
-    .map(p => [
+    .map(p => {
+	    let dirs = p.file.folder.split("/"); 
+	    return [
         p.file.name.substring(6),//.replaceAll("~","-"), (default left-aligned)
+        dirs.pop().substring(7),//.replaceAll("~","-"), (default left-aligned)
+        dirs.pop().substring(4),//.replaceAll("~","-"), (default left-aligned)
         Number(p.has_time_started), // Start (right-aligned)
         Number(p.has_time_stopped) // End (right-aligned)
-    ]);
+    ]});
 
-const headers = ["Epoch", "Start", "End"];
+const headers = ["Epoch", "Period", "Era", "Start", "End"];
 
 dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
 ```
@@ -292,13 +307,18 @@ Meghalayan: crit, -4200, 0
 ```dataviewjs
 const data = dv.pages("#is_a_/time_/Age")
     .sort(p => Number(p.has_time_started), 'asc')
-    .map(p => [
+    .map(p => {
+	    let dirs = p.file.folder.split("/"); 
+	    return [
         p.file.name.substring(4),//.replaceAll("~","-"), (default left-aligned)
+        dirs.pop().substring(6),//.replaceAll("~","-"), (default left-aligned)
+        dirs.pop().substring(7),//.replaceAll("~","-"), (default left-aligned)
+        dirs.pop().substring(4),//.replaceAll("~","-"), (default left-aligned)
         Number(p.has_time_started), // Start (right-aligned)
         Number(p.has_time_stopped) // End (right-aligned)
-    ]);
+    ]});
 
-const headers = ["Age", "Start", "End"];
+const headers = ["Age", "Epoch", "Period", "Era", "Start", "End"];
 
 dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
 ```
@@ -793,7 +813,7 @@ dv.paragraph(dv.markdownTable(headers, data).replaceAll("--- |","--: |"));
 
 
 
-## All Contents
+## All Contents 
 
 ```folderv
 ```

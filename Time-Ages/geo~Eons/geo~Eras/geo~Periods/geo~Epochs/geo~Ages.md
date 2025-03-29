@@ -1,3 +1,16 @@
+---
+has_id_wikidata: Q568683
+studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
+standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigraphy,402104]]"
+part_of: "[[_Standards/WikiData/WD~epoch,754897]]"
+different_from:
+  - "[[_Standards/WikiData/WD~age of the Earth,935310]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+  - "[[_Standards/WikiData/WD~age,100343219]]"
+has_part_s_: "[[_Standards/WikiData/WD~polarity chron,3290178]]"
+subclass_of: "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
+---
+
 # [[geo~Ages]] 
 
 #is_/part_of :: [[../geo~Epochs|geo~Epochs]] 
@@ -5,6 +18,10 @@
 
 An age is the smallest hierarchical geochronologic unit after [[../geo~Epochs|geo~Epochs]] 
 and is equivalent to a chronostratigraphic stage. These are thousands to millions of years in length
+
+## polarity chron 
+
+Phases with reversed magnetic Polarity 
 
 ## Edit
 

@@ -10,7 +10,7 @@
 > The span of recorded history is roughly 5,000 years, 
 > beginning with the development of Sumerian cuneiform script. 
 > 
-> Ancient history covers all continents inhabited by humans in the period 3000 BC – AD 500, 
+> Ancient history covers all continents inhabited by humans in the period 3000 BC ï¿½ AD 500, 
 > ending with the expansion of Islam in late antiquity. 
 > 
 > The three-age system periodises ancient history into the Stone Age, the Bronze Age, and the Iron Age, 

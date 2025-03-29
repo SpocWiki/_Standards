@@ -9,6 +9,8 @@ A time period from 1600 to 1400 million years ago.
 #has_/prev_item :: [[../Era~1~Paleoproterozoic/Period~4~Statherian|Period~4~Statherian]] 
 #has_/next_item :: [[Period~2~Ectasian]] 
 
+#is_/part_of :: [[../../Eon~4~Phanerozoic/Era~2~Mesozoic]] 
+
 ## #has_/text_of_/abstract 
 
 

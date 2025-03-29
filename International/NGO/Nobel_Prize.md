@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nobel Prize"
 has_id_wikidata: Q7191

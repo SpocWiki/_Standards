@@ -1,3 +1,25 @@
+---
+has_id_wikidata: Q104168
+instance_of:
+  - "[[_Standards/WikiData/WD~eon,108256]]"
+  - "[[_Standards/WikiData/WD~eonothem,2669627]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q11039569,11039569]]"
+part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Q100870042,100870042]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Archean.png
+IPA_transcription: /ɑːrˈkiːən/
+sRGB_color_hex_triplet: F0047F
+Commons_category: Archean
+end_time: -2500000000-01-01T00:00:00Z
+start_time: -4031000000-01-01T00:00:00Z
+---
 # [[Eon~2~Archean]] 
 
 #is_a_/time_/Eon

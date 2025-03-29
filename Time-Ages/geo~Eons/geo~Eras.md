@@ -1,4 +1,25 @@
-# [[geo~Eras]] 
+---
+has_id_wikidata: Q630830
+part_of: "[[_Standards/WikiData/WD~eon,108256]]"
+studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
+has_part_s_: "[[_Standards/WikiData/WD~period,392928]]"
+standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigraphy,402104]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
+instance_of: "[[_Standards/WikiData/WD~unit of time,1790144]]"
+different_from:
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+  - "[[_Standards/WikiData/WD~era,6428674]]"
+subclass_of: "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Geologic%20time%20scale.gif
+related_image: http://commons.wikimedia.org/wiki/Special:FilePath/T-Rex2.jpg
+Commons_category: Geology by era
+---
+?# [[geo~Eras]] 
 
 #is_/part_of :: [[../geo~Eons]]
 #has_/parts :: [[geo~Eras/geo~Periods]] 

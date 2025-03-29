@@ -1,3 +1,14 @@
+---
+has_id_wikidata: Q645135
+instance_of:
+  - "[[_Standards/WikiData/WD~era,630830]]"
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+start_time: -2800000000-01-01T00:00:00Z
+sRGB_color_hex_triplet: F99BC1
+Commons_category: Archean
+end_time: -2500000000-01-01T00:00:00Z
+---
 # [[Era~4~Neoarchean]] 
 
 #is_a_/time_/Era 

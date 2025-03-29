@@ -1,3 +1,27 @@
+---
+has_id_wikidata: Q75507
+named_by: "[[_Standards/WikiData/WD~Adam Sedgwick,350891]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~era,630830]]"
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+end_time: -251902000-01-01T00:00:00Z
+sRGB_color_hex_triplet: 99C08D
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Trilobite%20Heinrich%20Harder.jpg
+OmegaWiki_Defined_Meaning: "952626"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Paleozoic%20Palaeozoikum.png
+Iconclass_notation: 25E(PALEOZOIC)
+Krugosvet_article: geologiya/paleozoiskaya-era
+Commons_category: Paleozoic
+start_time: -538800000-01-01T00:00:00Z
+---
 
 # [[Era~1~Paleozoic]] 
 
@@ -9,6 +33,15 @@ A time period from 251.902 to 538.8 million years ago
 
 #has_/prev_item :: [[../Eon~3~Proterozoic/Era~3~Neoproterozoic|Era~3~Neoproterozoic]] 
 #has_/next_item :: [[Era~2~Mesozoic]] 
+
+#has_/abbreviation :: PZ
+
+#has_/time_/started :: -538.800e6 
+#has_/time_/stopped :: -251.902e6 
+
+    sh:order 77 
+
+#has_/text_of_/color :: 0x99C08D
 
 ## #has_/text_of_/abstract 
 
@@ -36,15 +69,6 @@ A time period from 251.902 to 538.8 million years ago
 #has_/label_/sl  :: paleozoik
 #has_/label_/sv  :: paleozoikum
 #has_/label_/zh  :: 古生代
-
-#has_/abbreviation :: PZ
-
-#has_/time_/started :: -538.800e6 
-#has_/time_/stopped :: -251.902e6 
-
-    sh:order 77 
-
-#has_/text_of_/color :: 0x99C08D
 
 ## All Contents
 

@@ -1,20 +1,39 @@
+---
+has_id_wikidata: Q731470
+instance_of:
+  - "[[_Standards/WikiData/WD~era,630830]]"
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+sRGB_color_hex_triplet: DA037F
+end_time: -3600000000-01-01T00:00:00Z
+Commons_category: Eoarchean
+start_time: -4031000000-01-01T00:00:00Z
+---
 # [[Era~1~Eoarchean]] 
 
 #is_a_/time_/Era 
 
 A time period from 4031 to 3600 million years ago.
 
+#has_/time_/started :: -4.031e9 
+#has_/time_/stopped :: -3.600e9 
+
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/prev_item :: [[../Eon~1~Hadean|Eon~1~Hadean]] 
 #has_/next_item :: [[Era~2~Paleoarchean]] 
 
+#has_/text_of_/color :: 0xDA037F
+
 ## #has_/text_of_/abstract 
 
-> The **Eoarchean** (IPA:  EE-oh-ar-KEE-ən; also spelled Eoarchaean) is the first era of the Archean Eon of the geologic record. It spans 431 million years, from the end of the [[../Eon~1~Hadean]] 4031 Mya to the start of the [[Era~2~Paleoarchean]] 3600 Mya. 
+> The **Eoarchean** (IPA:  EE-oh-ar-KEE-ən; also spelled Eoarchaean) is the first era of the Archean Eon of the geologic record. 
+> It spans 431 million years, from the end of the [[../Eon~1~Hadean]] 4031 Mya to the start of the [[Era~2~Paleoarchean]] 3600 Mya. 
 > 
-> The beginnings of life on Earth have been dated to this era and evidence of archaea and cyanobacteria date to 3500 Mya, comparatively shortly after the Eoarchean. 
-> At that time, the atmosphere was without oxygen and the pressure values ranged from 10 to 100 bar (around 10 to 100 times the atmospheric pressure today).
+> The beginnings of life on Earth have been dated to this era 
+> and evidence of archaea and cyanobacteria date to 3500 Mya, comparatively shortly after the Eoarchean. 
+> At that time, the atmosphere was without oxygen 
+> and the pressure values ranged from 10 to 100 bar (around 10 to 100 times the atmospheric pressure today).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eoarchean)
 
@@ -42,11 +61,6 @@ A time period from 4031 to 3600 million years ago.
 #has_/label_/sl  :: eoarhaik
 #has_/label_/sv  :: eoarkeikum
 #has_/label_/zh  :: 始太古代
-
-#has_/time_/started :: -4.031e9 
-#has_/time_/stopped :: -3.600e9 
-
-#has_/text_of_/color :: 0xDA037F
 
 ## All Contents
 
