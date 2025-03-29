@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q283
 has_part_s_:
 - '[[_Standards/WikiData/WD~oxygen,629]]'
@@ -123,9 +123,9 @@ Commons_gallery: Water
 Commons_category: Water
 Archive_of_Our_Own_tag: Water
 Unicode_character:
-- "\U0001F4A7"
-- "\U0001F6B0"
-- "\U0001F6B1"
+- 💧 
+- 🚰 
+- 🚱 
 subreddit: water
 Amazon_com_browse_node: 16318651
 OpenStreetMap_tag_or_key: "Tag:resource=water"

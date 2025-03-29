@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Food and Agriculture Organization,82151]]"
 - "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
@@ -299,7 +299,7 @@ rural_population:
 - 10857387
 Commons_category: Zambia
 Commons_gallery: Zambia
-Unicode_character: "\U0001F1FF\U0001F1F2"
+Unicode_character: 🇿🇲 
 ISO_3166_1_alpha_3_code: ZMB
 ITU_letter_code: ZMB
 native_label: "Republic of Zambia"

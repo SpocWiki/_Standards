@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q467
 IPTC_NewsCode: asportfacetvalue/women
 MeSH_tree_code: M01.975
@@ -56,7 +56,7 @@ literal_translation:
 - жінка
 - אישה
 hashtag: woman
-Unicode_character: "\U0001F469"
+Unicode_character: 👩 
 Commons_category: Women
 Colon_Classification: Y15
 label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-dona-spreadthesign.ogv"

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 27.1536
 - -13.2033
@@ -32,7 +32,7 @@ Languages:
 - ar
 - mey
 has_id_wikidata: Q6250
-Unicode_character: "\U0001F1EA\U0001F1ED"
+Unicode_character: 🇪🇭 
 demonym:
 - صحراوي
 - صحراوية

@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
 - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
@@ -336,7 +336,7 @@ ISO_3166_1_numeric_code: 862
 OmegaWiki_Defined_Meaning: 8343
 area: 912050
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Venezuela.svg"
-Unicode_character: "\U0001F1FB\U0001F1EA"
+Unicode_character: 🇻🇪 
 ISO_3166_1_alpha_3_code: VEN
 IOC_country_code: VEN
 ITU_letter_code: VEN

@@ -1,4 +1,4 @@
-﻿---
+---
 currency: "[[_Standards/WikiData/WD~Indian rupee,80524]]"
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked country,123480]]"
@@ -236,7 +236,7 @@ life_expectancy: 61.163
 IAB_code: 1477
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg"
 FIPS_10_4_countries_and_regions_: ZI
-Unicode_character: "\U0001F1FF\U0001F1FC"
+Unicode_character: 🇿🇼 
 number_of_out_of_school_children: 1123710
 INSEE_countries_and_foreign_territories_code: 99310
 locator_map_image:

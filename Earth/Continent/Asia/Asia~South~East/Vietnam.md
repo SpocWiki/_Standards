@@ -1,4 +1,4 @@
-﻿---
+---
 ethnic_group:
 - "[[_Standards/WikiData/WD~Tay people,72484]]"
 - "[[_Standards/WikiData/WD~Muong people,72805]]"
@@ -440,7 +440,7 @@ U_S_National_Archives_Identifier: 10035814
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hanoi%20Temple%20of%20Literature.jpg"
 ITU_letter_code: VTN
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Vietnam%20relief%20location%20map.jpg"
-Unicode_character: "\U0001F1FB\U0001F1F3"
+Unicode_character: 🇻🇳 
 hashtag:
 - vietnam
 - Việt_Nam

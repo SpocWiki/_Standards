@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q282
 has_part_s_:
 - "[[_Standards/WikiData/WD~sparkling wine,321263]]"
@@ -51,7 +51,7 @@ OmegaWiki_Defined_Meaning: 6329
 Commons_gallery: Wine
 Commons_category: Wine
 CosIng_number: 60188
-Unicode_character: "\U0001F377"
+Unicode_character: 🍷 
 earliest_date: "-5400-01-01T00:00:00Z"
 Colon_Classification: F547
 GitHub_topic:

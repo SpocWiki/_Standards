@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q446
 subclass_of: "[[_Standards/WikiData/WD~simple machine,186713]]"
 part_of:
@@ -22,7 +22,7 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Wheel%20Iran.jpg"
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/MeshRad%2020221030.stl"
 Krugosvet_article: tehnologiya-i-promyshlennost/koleso
-Unicode_character: "\U0001F6DE"
+Unicode_character: 🛞 
 shape: '[[_Standards/WikiData/WD~circle,17278]]'
 Nomenclature_for_Museum_Cataloging: 9243
 OmegaWiki_Defined_Meaning: 335923

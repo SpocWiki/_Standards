@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8094
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
@@ -38,7 +38,7 @@ OmegaWiki_Defined_Meaning: 4160
 Krugosvet_article: geologiya/veter
 Commons_gallery: Wind
 Commons_category: Wind
-Unicode_character: "\U0001F32C"
+Unicode_character: 🌬 
 ---
 
 ## #has_/text_of_/abstract 

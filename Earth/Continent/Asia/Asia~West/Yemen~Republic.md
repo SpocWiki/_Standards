@@ -1,4 +1,4 @@
-﻿---
+---
 madhhab:
 - '[[_Standards/WikiData/WD~Shafi`i,82245]]'
 - '[[_Standards/WikiData/WD~Zaidism,144333]]'
@@ -261,7 +261,7 @@ IAB_code: 1475
 life_expectancy: 64.953
 OmegaWiki_Defined_Meaning: 8456
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Yemen.svg"
-Unicode_character: "\U0001F1FE\U0001F1EA"
+Unicode_character: 🇾🇪 
 ISO_3166_1_alpha_3_code: YEM
 ITU_letter_code: YEM
 IOC_country_code: YEM

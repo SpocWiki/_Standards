@@ -1,7 +1,7 @@
-﻿---
+---
 has_id_wikidata: Q287
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/DREVESINA.html
-Unicode_character: "\U0001FAB5"
+Unicode_character: 🪵 
 used_by:
 - '[[_Standards/WikiData/WD~carpenter,154549]]'
 - '[[_Standards/WikiData/WD~joiner,326358]]'

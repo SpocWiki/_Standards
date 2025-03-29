@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8355
 Iconclass_notation: 48C7311
 Commons_gallery: Violin
@@ -7,7 +7,7 @@ Commons_category: Violins
 playing_range_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Range%20violin.png"
 U_S_National_Archives_Identifier: 10645208
 Amazon_com_browse_node: 11971521
-Unicode_character: "\U0001F3BB"
+Unicode_character: 🎻 
 different_from:
 - '[[_Standards/WikiData/WD~viola,80284]]'
 - '[[_Standards/WikiData/WD~Q13014533,13014533]]'
