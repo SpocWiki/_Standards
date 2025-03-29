@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
 - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
@@ -145,7 +145,7 @@ official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Gilbertese,30898]]'
 country_calling_code: +686
-Unicode_character: "\U0001F1F0\U0001F1EE"
+Unicode_character: 🇰🇮 
 CIVICUS_Monitor_country_entry: kiribati
 Commons_category: Kiribati
 hashtag: Kiribati

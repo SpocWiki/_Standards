@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Lithuania,81477]]"
 replaces:
 - "[[_Standards/WikiData/WD~Lithuanian Soviet Socialist Republic,173761]]"
@@ -288,7 +288,7 @@ motto_text: "Vienybė težydi"
 coordinates_of_southernmost_point: "Point(24.3520546 53.89695489)"
 DPLA_subject_term: Lithuania
 hashtag: Lithuania
-Unicode_character: "\U0001F1F1\U0001F1F9"
+Unicode_character: 🇱🇹 
 coordinates_of_northernmost_point: "Point(24.88 56.45)"
 Commons_gallery: Lietuva
 coordinate_location: "Point(24.0 55.2)"

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8495
 MeSH_tree_code:
 - A12.200.455
@@ -9,7 +9,7 @@ MeSH_tree_code:
 - A12.790
 UMLS_CUI: C0026131
 Colon_Classification: "KX31:71"
-Unicode_character: "\U0001F95B"
+Unicode_character: 🥛
 has_part_s_:
 - '[[_Standards/WikiData/WD~fat,127980]]'
 - "[[_Standards/WikiData/WD~liquid water,29053744]]"

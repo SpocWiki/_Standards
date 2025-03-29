@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11995
 Commons_category: "Human pregnancy"
 Commons_gallery: "Human pregnancy"
@@ -25,7 +25,7 @@ UMLS_CUI: C0032961
 Terminologia_Embryologica: E1.0.2.6.1.0.1
 MeSH_tree_code: G08.686.784.769
 Unicode_character:
-- "\U0001F930"
+- 🤰 
 - "\U0001FAC4"
 - "\U0001FAC3"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Pregnancy,13099510]]'

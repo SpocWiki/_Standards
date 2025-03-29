@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 42.55
 - 20.83
@@ -232,7 +232,7 @@ Krugosvet_article: gosudarstvo-i-politika/kosovo
 GitHub_topic: kosovo
 CIVICUS_Monitor_country_entry: kosovo
 Libris_URI: ljx00cf41g9xzhn
-Unicode_character: "\U0001F1FD\U0001F1F0"
+Unicode_character: 🇽🇰 
 short_name:
 - "\U0001F1FD\U0001F1F0"
 - Косово

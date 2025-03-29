@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
 - "[[_Standards/WikiData/WD~Commonwealth realm,202686]]"
@@ -333,7 +333,7 @@ Commons_gallery: "New Zealand / Aotearoa"
 Danbooru_tag: new_zealand
 subreddit: newzealand
 hashtag: NewZealand
-Unicode_character: "\U0001F1F3\U0001F1FF"
+Unicode_character: 🇳🇿 
 Colon_Classification: SG--937
 Krugosvet_article: strany_mira/NOVAYA_ZELANDIYA.html
 MeSH_tree_code:

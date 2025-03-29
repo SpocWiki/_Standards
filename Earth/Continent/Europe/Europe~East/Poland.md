@@ -1,4 +1,4 @@
-﻿---
+---
 title: Poland
 linkTitle: 
 type: Country
@@ -487,7 +487,7 @@ urban_population:
 - 22793332
 Commons_gallery: Polska
 Image_Archive_Herder_Institute: Q36
-Unicode_character: "\U0001F1F5\U0001F1F1"
+Unicode_character: 🇵🇱 
 subreddit:
 - polska
 - poland

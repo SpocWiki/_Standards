@@ -1,4 +1,4 @@
-﻿---
+---
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Daugavpils,80021]]'
 - '[[_Standards/WikiData/WD~Ventspils,104036]]'
@@ -415,7 +415,7 @@ urban_population:
 - 1305648
 population: 1871882
 coordinates_of_westernmost_point: "Point(20.97017527 56.35502738)"
-Unicode_character: "\U0001F1F1\U0001F1FB"
+Unicode_character: 🇱🇻 
 postal_code: LV-1919
 Colon_Classification: SG--5973
 Krugosvet_article: strany-mira/latviya

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7561
 has_use: "[[_Standards/WikiData/WD~winter sport,204686]]"
 subclass_of:

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q702
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Palau,695]]'
@@ -227,7 +227,7 @@ Libris_URI: 1zcfjv1k00zfm8d
 Commons_gallery: "Federated States of Micronesia"
 Commons_category: "Federated States of Micronesia"
 hashtag: FederatedStatesofMicronesia
-Unicode_character: "\U0001F1EB\U0001F1F2"
+Unicode_character: 🇫🇲 
 CIVICUS_Monitor_country_entry: micronesia
 subreddit: micronesia
 IPA_transcription: "mɪkɾu'neːsɪɑfœdəɾɑʂuːnː"

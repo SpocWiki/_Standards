@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Lesotho,104969]]"
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked country,123480]]"
@@ -244,7 +244,7 @@ has_time_started: "1966-01-01T00:00:00Z"
 coordinates_of_northernmost_point: "Point(28.65 -28.57)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lesotho.svg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg"
-Unicode_character: "\U0001F1F1\U0001F1F8"
+Unicode_character: 🇱🇸 
 coordinates_of_westernmost_point: "Point(27.01128 -29.64941)"
 Commons_category: Lesotho
 Commons_gallery: Lesotho

@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
 - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
@@ -323,7 +323,7 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxe
 ISO_3166_1_alpha_3_code: LUX
 ITU_letter_code: LUX
 IOC_country_code: LUX
-Unicode_character: "\U0001F1F1\U0001F1FA"
+Unicode_character: 🇱🇺 
 coordinates_of_northernmost_point: "Point(6.024783 50.182794)"
 Commons_category: Luxembourg
 hashtag: Luxembourg

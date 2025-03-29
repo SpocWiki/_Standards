@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 19.4
 - -99.15
@@ -796,7 +796,7 @@ birth_rate: 14.636
 social_media_followers: 371630
 GS1_country_code: 750
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg"
-Unicode_character: "\U0001F1F2\U0001F1FD"
+Unicode_character: 🇲🇽 
 area: 1972550
 ITU_letter_code: MEX
 IOC_country_code: MEX

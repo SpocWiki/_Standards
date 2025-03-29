@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 13.4792
 - 144.75
@@ -192,7 +192,7 @@ FIPS_6_4: 66010
 life_expectancy: 79.575
 ISO_3166_1_alpha_2_code: GU
 FIPS_5_2_alpha_code_US_states_: GU
-Unicode_character: "\U0001F1EC\U0001F1FA"
+Unicode_character: 🇬🇺 
 population: 153836
 IOC_country_code: GUM
 ISO_3166_1_alpha_3_code: GUM

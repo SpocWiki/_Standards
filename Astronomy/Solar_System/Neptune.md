@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q332
 discoverer_or_inventor:
 - "[[_Standards/WikiData/WD~Johann Gottfried Galle,76431]]"

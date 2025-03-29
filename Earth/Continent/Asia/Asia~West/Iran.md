@@ -1,4 +1,4 @@
-﻿---
+---
 located_in_or_next_to_body_of_water:
 - "[[_Standards/WikiData/WD~Gulf of Oman,79948]]"
 - "[[_Standards/WikiData/WD~Caspian Sea,5484]]"
@@ -283,7 +283,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Jamkaran%20Mosq
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Iran.ogg"
 Dewey_Decimal_Classification: 2--55
 BHCL_UUID: 726ed594-b1b1-47a4-b617-09fad9ab0404
-Unicode_character: "\U0001F1EE\U0001F1F7"
+Unicode_character: 🇮🇷 
 IPA_transcription:
 - ɪˈɹæn
 - ɪˈɹɑːn

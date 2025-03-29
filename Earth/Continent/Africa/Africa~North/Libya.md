@@ -1,4 +1,4 @@
-﻿---
+---
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Misrata,131323]]'
 - '[[_Standards/WikiData/WD~Nalut,132409]]'
@@ -241,7 +241,7 @@ flag: "[[_Standards/WikiData/WD~flag of Libya,34599]]"
 retirement_age: 65
 Democracy_Index: 1.95
 GitHub_topic: libya
-Unicode_character: "\U0001F1F1\U0001F1FE"
+Unicode_character: 🇱🇾 
 Colon_Classification: SG--674
 Krugosvet_article: strany-mira/liviya
 native_label: "دولة ليبيا"

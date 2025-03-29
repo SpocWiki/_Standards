@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 41.98
 - 21.43
@@ -431,7 +431,7 @@ official_name:
 coordinates_of_southernmost_point: "Point(21.11888766 40.85390983)"
 coordinate_location: "Point(21.716667 41.65)"
 BHCL_UUID: 371a777b-a6f6-47cb-8062-48c7528e2a82
-Unicode_character: "\U0001F1F2\U0001F1F0"
+Unicode_character: 🇲🇰 
 GitHub_topic: north-macedonia
 hashtag: NorthMacedonia
 Colon_Classification: SG--59226

@@ -1,4 +1,4 @@
-﻿---
+---
 official_religion: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
@@ -275,7 +275,7 @@ Commons_category: Iceland
 Dreadnought_Project_page: Iceland
 subreddit: Iceland
 hashtag: Iceland
-Unicode_character: "\U0001F1EE\U0001F1F8"
+Unicode_character: 🇮🇸 
 Commons_gallery: Ísland
 IPA_transcription:
 - ɪˈslan⁽ʲ⁾dʲɪjə

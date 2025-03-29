@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 43.715
 - 7.41
@@ -270,7 +270,7 @@ GS1_country_code: 300-379
 X_Twitter_username: gvtMonaco
 Facebook_username: GvtMonaco
 IPA_transcription: mɐˈnakə
-Unicode_character: "\U0001F1F2\U0001F1E8"
+Unicode_character: 🇲🇨 
 GitHub_topic: monaco
 CIVICUS_Monitor_country_entry: monaco
 Krugosvet_article: strany_mira/MONAKO.html

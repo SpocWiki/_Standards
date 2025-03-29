@@ -1,4 +1,4 @@
-﻿---
+---
 title: Italy
 linkTitle: 
 type: Country
@@ -532,7 +532,7 @@ Dewey_Decimal_Classification: 2--45
 BHCL_UUID:
 - 37872850-d9da-4cc4-b1dd-0f54053e8a1e
 - eced42c8-d06d-4ea3-b038-50674f687336
-Unicode_character: "\U0001F1EE\U0001F1F9"
+Unicode_character: 🇮🇹 
 Commons_gallery: Italia
 CIVICUS_Monitor_country_entry: italy
 subreddit: italy

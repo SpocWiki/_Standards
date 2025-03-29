@@ -1,4 +1,4 @@
-﻿---
+---
 named_after:
 - '[[_Standards/WikiData/WD~Marrakesh,101625]]'
 - "[[_Standards/WikiData/WD~Mauri people,6792792]]"
@@ -213,7 +213,7 @@ official_website:
 Dewey_Decimal_Classification: 2--64
 Provenio_UUID: b34b5d6c-651c-47da-a724-9419045a3990
 Libris_URI: khwzxrn30k0tv0g
-Unicode_character: "\U0001F1F2\U0001F1E6"
+Unicode_character: 🇲🇦 
 Krugosvet_article: strany_mira/MAROKKO.html
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Canada,16]]'

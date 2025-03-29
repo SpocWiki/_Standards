@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7886
 arterial_supply: "[[_Standards/WikiData/WD~pulmonary artery,206280]]"
 venous_drainage: "[[_Standards/WikiData/WD~pulmonary vein,535352]]"
@@ -32,7 +32,7 @@ MeSH_tree_code: A04.411
 UMLS_CUI: C0024109
 Commons_category: Lungs
 TA98_Latin_term: pulmones
-Unicode_character: "\U0001FAC1"
+Unicode_character: 🫁 
 ---
 
 ## #has_/text_of_/abstract 

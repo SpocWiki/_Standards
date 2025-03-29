@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q339
 schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20%28de%29.jpg"

@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~geographic region,82794]]"
 - "[[_Standards/WikiData/WD~landlocked country,123480]]"
@@ -373,7 +373,7 @@ ISO_3166_1_numeric_code: 524
 M49_code: 524
 maritime_identification_digits: 459
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg"
-Unicode_character: "\U0001F1F3\U0001F1F5"
+Unicode_character: 🇳🇵 
 INSEE_countries_and_foreign_territories_code: 99215
 urban_population:
 - 6309750

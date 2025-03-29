@@ -1,4 +1,4 @@
-﻿---
+---
 named_after: '[[_Standards/WikiData/WD~Namib,131377]]'
 flag: "[[_Standards/WikiData/WD~flag of Namibia,165822]]"
 member_of:
@@ -303,7 +303,7 @@ hashtag: Namibia
 inception: "1990-01-01T00:00:00Z"
 has_time_started: "1990-01-01T00:00:00Z"
 Dewey_Decimal_Classification: 2--6881
-Unicode_character: "\U0001F1F3\U0001F1E6"
+Unicode_character: 🇳🇦 
 U_S_National_Archives_Identifier: 10035830
 CIVICUS_Monitor_country_entry: namibia
 GitHub_topic: namibia

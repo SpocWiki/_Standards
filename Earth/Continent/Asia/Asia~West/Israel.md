@@ -1,4 +1,4 @@
-﻿---
+---
 located_in_or_next_to_body_of_water:
 - "[[_Standards/WikiData/WD~Gulf of Aqaba,81611]]"
 - "[[_Standards/WikiData/WD~Sea of Galilee,126982]]"
@@ -414,7 +414,7 @@ WIPO_ST_3: IL
 UIC_alphabetical_country_code: IL
 licence_plate_code: IL
 ISO_3166_1_alpha_2_code: IL
-Unicode_character: "\U0001F1EE\U0001F1F1"
+Unicode_character: 🇮🇱 
 FIPS_10_4_countries_and_regions_: IS
 ITU_letter_code: ISR
 ISO_3166_1_alpha_3_code: ISR

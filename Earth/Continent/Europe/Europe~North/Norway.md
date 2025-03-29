@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 61.8685
 - 11.4588
@@ -445,7 +445,7 @@ Danbooru_tag: norway
 GitHub_topic: norway
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Norway.svg"
 official_name: "Kongeriket Norge"
-Unicode_character: "\U0001F1F3\U0001F1F4"
+Unicode_character: 🇳🇴 
 coordinates_of_easternmost_point: "Point(31.168194444 70.387527777)"
 coordinates_of_northernmost_point: "Point(27.6510362 71.1338906)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Norway.map"

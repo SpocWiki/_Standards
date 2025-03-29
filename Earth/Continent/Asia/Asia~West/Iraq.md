@@ -1,4 +1,4 @@
-﻿---
+---
 follows: "[[_Standards/WikiData/WD~Kingdom of Iraq,149805]]"
 member_of:
 - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
@@ -312,7 +312,7 @@ ISO_3166_1_alpha_3_code: IRQ
 IOC_country_code: IRQ
 ITU_letter_code: IRQ
 UIC_alphabetical_country_code: IRQ
-Unicode_character: "\U0001F1EE\U0001F1F6"
+Unicode_character: 🇮🇶 
 rural_population:
 - 12187255
 - 12387061

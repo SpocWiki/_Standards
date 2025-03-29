@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Kenya,165905]]"
 member_of:
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -315,7 +315,7 @@ part_of: "[[_Standards/WikiData/WD~East Africa,27407]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 Dewey_Decimal_Classification: 2--6762
 licence_plate_code: EAK
-Unicode_character: "\U0001F1F0\U0001F1EA"
+Unicode_character: 🇰🇪 
 hashtag: Kenya
 Commons_category: Kenya
 subreddit: Kenya

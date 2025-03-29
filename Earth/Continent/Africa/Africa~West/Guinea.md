@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
 - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
@@ -224,7 +224,7 @@ U_S_National_Archives_Identifier: 10035717
 Dewey_Decimal_Classification: 2--6652
 WIPO_ST_3: GN
 ISO_3166_1_alpha_2_code: GN
-Unicode_character: "\U0001F1EC\U0001F1F3"
+Unicode_character: 🇬🇳 
 CIVICUS_Monitor_country_entry: guinea
 GitHub_topic: guinea
 subreddit: GuineaRepublic

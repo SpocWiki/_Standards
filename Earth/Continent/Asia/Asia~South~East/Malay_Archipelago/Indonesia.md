@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Indonesia,101472]]"
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
@@ -1181,7 +1181,7 @@ coordinates_of_northernmost_point: "Point(95.22 5.9)"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Indonesian%20Culture.jpg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Indonesia%20location%20map.svg"
 coordinate_location: "Point(118.0 -2.0)"
-Unicode_character: "\U0001F1EE\U0001F1E9"
+Unicode_character: 🇮🇩 
 GitHub_topic: indonesia
 CIVICUS_Monitor_country_entry: indonesia
 subreddit: indonesia

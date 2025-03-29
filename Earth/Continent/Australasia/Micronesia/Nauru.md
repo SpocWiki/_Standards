@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -0.547778
 - 166.921
@@ -238,7 +238,7 @@ CIVICUS_Monitor_country_entry: nauru
 subreddit: nauru
 Commons_category: Nauru
 hashtag: Nauru
-Unicode_character: "\U0001F1F3\U0001F1F7"
+Unicode_character: 🇳🇷 
 X_Twitter_username: Republic_Nauru
 Krugosvet_article: strany_mira/NAURU.html
 native_label:

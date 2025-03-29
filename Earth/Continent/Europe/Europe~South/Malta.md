@@ -1,4 +1,4 @@
-﻿---
+---
 central_bank: "[[_Standards/WikiData/WD~Central Bank of Malta,74690]]"
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
@@ -257,7 +257,7 @@ NUTS_code:
 ISO_3166_1_alpha_2_code: MT
 FIPS_10_4_countries_and_regions_: MT
 WIPO_ST_3: MT
-Unicode_character: "\U0001F1F2\U0001F1F9"
+Unicode_character: 🇲🇹 
 Colon_Classification: SG--5285
 Krugosvet_article: strany_mira/MALTA.html
 motto_text: "Truly Mediterranean"

@@ -1,4 +1,4 @@
-﻿---
+---
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
 - "[[_Standards/WikiData/WD~Saint Lucia,760]]"
@@ -393,7 +393,7 @@ GS1_country_code: 867
 FIPS_10_4_countries_and_regions_: KN
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Korea.svg"
 life_expectancy: 71.685
-Unicode_character: "\U0001F1F0\U0001F1F5"
+Unicode_character: 🇰🇵 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20North%20Korea.svg"
 number_of_out_of_school_children: 610009
 INSEE_countries_and_foreign_territories_code: 99239

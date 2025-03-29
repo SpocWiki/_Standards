@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -311,7 +311,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/R-1%20regional%20road
 country_calling_code: +382
 U_S_National_Archives_Identifier: 10046442
 Libris_URI: fcrtsnjz1zlrqm2
-Unicode_character: "\U0001F1F2\U0001F1EA"
+Unicode_character: 🇲🇪 
 Colon_Classification: SG--592245
 Krugosvet_article: strany_mira/CHERNOGORIYA.html
 IPA_transcription:

@@ -1,4 +1,4 @@
-﻿---
+---
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Aomori Prefecture,71699]]"
 - "[[_Standards/WikiData/WD~Fukushima Prefecture,71707]]"
@@ -485,7 +485,9 @@ hashtag:
 - Japan
 - 日本
 Commons_category: Japan
-Unicode_character: "\U0001F1EF\U0001F1F5"
+Unicode_character: 
+- 🇯🇵 
+- 🗾 
 median_income:
 - 34822
 - 557655

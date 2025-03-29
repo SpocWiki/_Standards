@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -122,7 +122,7 @@ BHCL_UUID: 3563e5ad-bb69-43bc-bf62-bb2692bbe9c6
 CIVICUS_Monitor_country_entry: paraguay
 GitHub_topic: paraguay
 IPA_transcription: "pɑɾɑ'guɑɪ"
-Unicode_character: "\U0001F1F5\U0001F1FE"
+Unicode_character: 🇵🇾 
 Colon_Classification: SG--7915
 Krugosvet_article: strany_mira/PARAGVA.html
 demonym:

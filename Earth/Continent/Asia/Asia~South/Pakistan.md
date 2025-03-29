@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Pakistan,128347]]"
 replaces:
 - "[[_Standards/WikiData/WD~British Raj,129286]]"
@@ -399,7 +399,7 @@ INSEE_countries_and_foreign_territories_code: 99213
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg"
 Commons_category: Pakistan
 hashtag: Pakistan
-Unicode_character: "\U0001F1F5\U0001F1F0"
+Unicode_character: 🇵🇰 
 IAB_code: 1374
 licence_plate_code: PK
 ISO_3166_1_alpha_2_code: PK

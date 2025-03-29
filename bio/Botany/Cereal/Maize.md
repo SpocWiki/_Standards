@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11575
 has_use:
 - "[[_Standards/WikiData/WD~medicinal plant,188840]]"
@@ -172,7 +172,7 @@ GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=42207"
 Amazon_com_browse_node:
 - 16319431
 - 6465013011
-Unicode_character: "\U0001F33D"
+Unicode_character: 🌽 
 U_S_National_Archives_Identifier: 10638319
 Dewey_Decimal_Classification:
 - 633.15

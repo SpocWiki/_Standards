@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6607
 Dewey_Decimal_Classification: 787.87
 Krugosvet_article: kultura_i_obrazovanie/muzyka/GITARA.html
@@ -48,7 +48,7 @@ Nomenclature_for_Museum_Cataloging: 10792
 Commons_category: Guitars
 social_media_followers: 1645845
 Amazon_com_browse_node: 11971241
-Unicode_character: "\U0001F3B8"
+Unicode_character: 🎸 
 GitHub_topic: guitar
 subreddit: Guitar
 Commons_gallery: Guitar

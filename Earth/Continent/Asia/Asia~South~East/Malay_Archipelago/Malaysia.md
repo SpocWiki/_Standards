@@ -1,4 +1,4 @@
-﻿---
+---
 ethnic_group:
 - '[[_Standards/WikiData/WD~Malays,142702]]'
 - '[[_Standards/WikiData/WD~Asli,254387]]'
@@ -533,7 +533,7 @@ U_S_National_Archives_Identifier: 10035733
 native_label: Malaysia
 official_name: Malaysia
 population: 32447385
-Unicode_character: "\U0001F1F2\U0001F1FE"
+Unicode_character: 🇲🇾 
 coordinate_location: "Point(102.314361666 3.7805111)"
 coordinates_of_northernmost_point: "Point(117.234612808 7.379678153)"
 coordinates_of_easternmost_point: "Point(119.2691 5.2329)"

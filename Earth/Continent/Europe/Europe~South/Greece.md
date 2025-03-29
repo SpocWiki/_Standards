@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 38.6175
 - 23.0356
@@ -460,7 +460,7 @@ country_calling_code: +30
 Dewey_Decimal_Classification: 2--495
 BHCL_UUID: 4dc9811e-720f-4a48-a9e2-9a406a6e4d35
 Libris_URI: 75kml65r2vq53rp
-Unicode_character: "\U0001F1EC\U0001F1F7"
+Unicode_character: 🇬🇷 
 Colon_Classification: SG--51
 Krugosvet_article: strany_mira/GRETSIYA.html
 motto_text:

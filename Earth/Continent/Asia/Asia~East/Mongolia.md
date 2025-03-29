@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
 - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
@@ -249,7 +249,7 @@ nominal_GDP:
 - 16810883361
 Commons_category: Mongolia
 hashtag: Mongolia
-Unicode_character: "\U0001F1F2\U0001F1F3"
+Unicode_character: 🇲🇳 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/State%20emblem%20of%20Mongolia.svg"
 Commons_gallery: "Монгол улс"
 inception: "1992-02-12T00:00:00Z"

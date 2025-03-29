@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Nigeria,102960]]"
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Anambra State,117714]]"
@@ -865,7 +865,7 @@ coordinate_location: "Point(8.0 9.0)"
 Wolfram_Language_entity_code:
 - "Entity[\"Country\", \"Nigeria\"]"
 - "Entity[\"HistoricalCountry\", \"Nigeria\"]"
-Unicode_character: "\U0001F1F3\U0001F1EC"
+Unicode_character: 🇳🇬 
 GitHub_topic: nigeria
 CIVICUS_Monitor_country_entry: nigeria
 Colon_Classification: SG--654

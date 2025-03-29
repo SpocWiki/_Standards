@@ -1,4 +1,4 @@
-﻿---
+---
 public_holiday:
 - "[[_Standards/WikiData/WD~Maundy Thursday,106333]]"
 - "[[_Standards/WikiData/WD~New Year's Day,196627]]"
@@ -560,7 +560,7 @@ median_income: 307190
 OmegaWiki_Defined_Meaning: 8540
 life_expectancy: 71.095
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg"
-Unicode_character: "\U0001F1F5\U0001F1ED"
+Unicode_character: 🇵🇭 
 PM20_geo_code: B86
 number_of_out_of_school_children: 1070690
 WIPO_ST_3: PH

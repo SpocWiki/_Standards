@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q3947
 OpenStreetMap_tag_or_key: "Tag:building=house"
 Dewey_Decimal_Classification:
@@ -60,7 +60,7 @@ OmegaWiki_Defined_Meaning: 5517
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ranch%20style%20home%20in%20Salinas%2C%20California.JPG"
 exact_match: "https://schema.org/House"
 equivalent_class: "https://schema.org/House"
-Unicode_character: "\U0001F3E1"
+Unicode_character: 🏡 
 hashtag: house
 Commons_category: Houses
 GeoNames_feature_code: S.HSE

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 29.33
 - 48
@@ -237,7 +237,7 @@ urban_population:
 number_of_out_of_school_children: 49553
 life_expectancy: 74.694
 GitHub_topic: kuwait
-Unicode_character: "\U0001F1F0\U0001F1FC"
+Unicode_character: 🇰🇼 
 Libris_URI: nl021sm606xg5sg
 Krugosvet_article: strany-mira/kuveyt
 Commons_gallery: "الكويت / Kuwait"

@@ -1,4 +1,4 @@
-﻿---
+---
 named_after: '[[_Standards/WikiData/WD~Kazakhs,80040]]'
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
@@ -276,7 +276,7 @@ Commons_category: Kazakhstan
 subreddit: Kazakhstan
 hashtag: Kazakhstan
 Commons_gallery: Kazakhstan
-Unicode_character: "\U0001F1F0\U0001F1FF"
+Unicode_character: 🇰🇿 
 coordinates_of_northernmost_point: "Point(68.97 55.43)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Kazakhstan%20latin.svg"
 coordinates_of_westernmost_point: "Point(46.49431229 48.43352876)"

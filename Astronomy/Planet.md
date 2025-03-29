@@ -1,7 +1,7 @@
-﻿---
+---
 has_id_wikidata: Q634
 Commons_category: Planets
-Unicode_character: "\U0001FA90"
+Unicode_character: 🪐 
 different_from:
 - '[[_Standards/WikiData/WD~Planetes,95063]]'
 - '[[_Standards/WikiData/WD~Planeta,1206832]]'

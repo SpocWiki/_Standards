@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Malawi,103001]]"
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked country,123480]]"
@@ -278,7 +278,7 @@ coordinates_of_southernmost_point: "Point(35.0973 -17.1295)"
 coordinate_location: "Point(34.0 -13.0)"
 Dewey_Decimal_Classification: 2--6897
 coordinates_of_northernmost_point: "Point(33.0 -9.37)"
-Unicode_character: "\U0001F1F2\U0001F1FC"
+Unicode_character: 🇲🇼 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Malawi.svg"
 coordinates_of_easternmost_point: "Point(35.9185 -14.8954)"
 has_id_wikidata: Q1020

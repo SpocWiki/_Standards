@@ -1,4 +1,4 @@
-﻿---
+---
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Sahel,66065]]'
 flag: "[[_Standards/WikiData/WD~flag of Mauritania,102977]]"
 member_of:
@@ -144,7 +144,7 @@ OmegaWiki_Defined_Meaning: 8072
 Commons_category: Mauritania
 subreddit: Mauritania
 hashtag: Mauritania
-Unicode_character: "\U0001F1F2\U0001F1F7"
+Unicode_character: 🇲🇷 
 male_population:
 - 2145130
 - 2260590

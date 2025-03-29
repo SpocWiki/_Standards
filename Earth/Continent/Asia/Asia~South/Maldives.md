@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
 - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
@@ -240,7 +240,7 @@ Commons_category: Maldives
 hashtag: Maldives
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Maldives.svg"
 coordinates_of_westernmost_point: "Point(72.62944444 6.33833333)"
-Unicode_character: "\U0001F1F2\U0001F1FB"
+Unicode_character: 🇲🇻 
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Maldives%20%28orthographic%20projection%29.svg"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Maldives.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Maldives.svg"

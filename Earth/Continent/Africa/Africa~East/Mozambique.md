@@ -1,4 +1,4 @@
-﻿---
+---
 lowest_point: "[[_Standards/WikiData/WD~Mozambique Channel,165100]]"
 member_of:
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -326,7 +326,7 @@ U_S_National_Archives_Identifier:
 - 10038399
 - 10047088
 Commons_gallery: Moçambique
-Unicode_character: "\U0001F1F2\U0001F1FF"
+Unicode_character: 🇲🇿 
 has_id_wikidata: Q1029
 location:
 - -22.1

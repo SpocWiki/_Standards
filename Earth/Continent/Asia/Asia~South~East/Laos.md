@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked country,123480]]"
 - "[[_Standards/WikiData/WD~people's republic,465613]]"
@@ -319,7 +319,7 @@ INSEE_countries_and_foreign_territories_code: 99241
 WIPO_ST_3: LA
 FIPS_10_4_countries_and_regions_: LA
 ISO_3166_1_alpha_2_code: LA
-Unicode_character: "\U0001F1F1\U0001F1E6"
+Unicode_character: 🇱🇦 
 ITU_letter_code: LAO
 IOC_country_code: LAO
 licence_plate_code: LAO

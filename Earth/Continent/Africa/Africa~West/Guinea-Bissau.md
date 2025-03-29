@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Guinea-Bissau,102953]]"
 member_of:
 - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
@@ -191,7 +191,7 @@ birth_rate:
 - 32.093
 area: 36125
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea-Bissau.svg"
-Unicode_character: "\U0001F1EC\U0001F1FC"
+Unicode_character: 🇬🇼 
 male_population:
 - 1039860
 - 971745

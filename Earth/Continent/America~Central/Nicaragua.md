@@ -1,4 +1,4 @@
-﻿---
+---
 head_of_government:
 - "[[_Standards/WikiData/WD~Violeta Barrios,114142]]"
 - "[[_Standards/WikiData/WD~Enrique Bolaños,311355]]"
@@ -263,7 +263,7 @@ has_time_started: "1821-01-01T00:00:00Z"
 nominal_GDP:
 - 14145852101
 - 15671583878
-Unicode_character: "\U0001F1F3\U0001F1EE"
+Unicode_character: 🇳🇮 
 country_calling_code: +505
 coordinates_of_westernmost_point: "Point(-87.75 13.25)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Nicaragua.map"

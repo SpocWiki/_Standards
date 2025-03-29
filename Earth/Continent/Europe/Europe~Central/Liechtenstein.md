@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
 - "[[_Standards/WikiData/WD~European Free Trade Association,166546]]"
@@ -217,7 +217,7 @@ population: 37922
 licence_plate_code: FL
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Staatswappen-Liechtensteins.svg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liechtenstein.svg"
-Unicode_character: "\U0001F1F1\U0001F1EE"
+Unicode_character: 🇱🇮 
 ISO_3166_1_alpha_2_code: LI
 NUTS_code:
 - LI

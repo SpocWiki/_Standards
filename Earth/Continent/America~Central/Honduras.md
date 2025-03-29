@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 14.1
 - -87.2167
@@ -313,7 +313,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Honduras.wav"
 official_website: "https://www.honduras.travel/en/"
 Dewey_Decimal_Classification: 2--7283
-Unicode_character: "\U0001F1ED\U0001F1F3"
+Unicode_character: 🇭🇳 
 Colon_Classification: SG--752
 Krugosvet_article: strany_mira/GONDURAS.html
 motto_text: "Libre, Soberana e Independiente"

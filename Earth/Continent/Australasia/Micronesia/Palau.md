@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
 - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
@@ -230,7 +230,7 @@ country_calling_code: +680
 U_S_National_Archives_Identifier: 10044689
 Commons_gallery: "Belau / Palau"
 CIVICUS_Monitor_country_entry: palau
-Unicode_character: "\U0001F1F5\U0001F1FC"
+Unicode_character: 🇵🇼 
 Krugosvet_article: strany_mira/PALAU.html
 MeSH_tree_code: Z01.639.760.680.717
 has_id_wikidata: Q695

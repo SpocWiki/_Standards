@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 52.1525
 - 5.386944
@@ -387,7 +387,7 @@ motto_text:
 - "I will uphold"
 - "Ik zal handhaven"
 name_in_native_language: "Koninkrijk der Nederlanden"
-Unicode_character: "\U0001F1F3\U0001F1F1"
+Unicode_character: 🇳🇱 
 urban_population:
 - 15935776
 - 16087342

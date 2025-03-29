@@ -1,4 +1,4 @@
-﻿---
+---
 located_in_time_zone:
 - "[[_Standards/WikiData/WD~Korea Standard Time,76133]]"
 - '[[_Standards/WikiData/WD~Asia_Seoul,27963524]]'
@@ -224,7 +224,7 @@ ISBN_identifier_group:
 Revised_Romanization: "Daehan Minguk"
 Libris_URI: gdsvv1n0540tps9
 Instagram_username: koreanet_official
-Unicode_character: "\U0001F1F0\U0001F1F7"
+Unicode_character: 🇰🇷 
 CIVICUS_Monitor_country_entry: south-korea
 GitHub_topic: south-korea
 subreddit: southkorea

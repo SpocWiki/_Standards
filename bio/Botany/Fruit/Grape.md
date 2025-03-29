@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q10978
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
@@ -48,7 +48,7 @@ schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Wine%20grape%20diagram%20numbered.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Wine%20grapes03.jpg"
 equivalent_class: "http://dbpedia.org/ontology/Grape"
-Unicode_character: "\U0001F347"
+Unicode_character: 🍇 
 Amazon_com_browse_node:
 - 2255595011
 - 6464957011

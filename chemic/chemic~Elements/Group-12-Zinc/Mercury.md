@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21975
 has_id_wikidata: Q925

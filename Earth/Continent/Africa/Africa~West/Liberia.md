@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -299,7 +299,7 @@ coordinate_location: "Point(-9.75 6.533333)"
 Dewey_Decimal_Classification: 2--6662
 inception: "1822-01-07T00:00:00Z"
 has_time_started: "1822-01-07T00:00:00Z"
-Unicode_character: "\U0001F1F1\U0001F1F7"
+Unicode_character: 🇱🇷 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Liberia.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Liberian%20Capitol%20Building.jpg"
 coordinates_of_northernmost_point: "Point(-9.77 8.55)"

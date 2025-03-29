@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
 - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
@@ -277,7 +277,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Kirgisistan.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-K%C3%A2rg%C3%A2zstan.wav"
 country_calling_code: +996
-Unicode_character: "\U0001F1F0\U0001F1EC"
+Unicode_character: 🇰🇬 
 CIVICUS_Monitor_country_entry: kyrgyzstan
 GitHub_topic: kyrgyzstan
 Commons_category: Kyrgyzstan

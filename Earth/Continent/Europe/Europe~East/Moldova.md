@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 47
 - 28.9167
@@ -346,7 +346,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%2
 official_website: "http://www.moldova.md/"
 BHCL_UUID: 014530d4-a223-4ac7-b37e-4718c9bc3470
 Libris_URI: b8nqpkcv3tsj8ml
-Unicode_character: "\U0001F1F2\U0001F1E9"
+Unicode_character: 🇲🇩 
 Colon_Classification: SG--586
 Krugosvet_article: strany_mira/MOLDAVIYA.html
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -337,7 +337,7 @@ official_website: "https://www.guatemala.gob.gt/"
 country_calling_code: +502
 U_S_National_Archives_Identifier: 10044770
 Dewey_Decimal_Classification: 2--7281
-Unicode_character: "\U0001F1EC\U0001F1F9"
+Unicode_character: 🇬🇹 
 CIVICUS_Monitor_country_entry: guatemala
 subreddit: guatemala
 GitHub_topic: guatemala

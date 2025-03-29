@@ -1,4 +1,4 @@
-﻿---
+---
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Levant,81483]]'
 member_of:
 - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
@@ -301,7 +301,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Zahle%20%28Leba
 country_calling_code: +961
 U_S_National_Archives_Identifier: 10035724
 Dewey_Decimal_Classification: 2--5692
-Unicode_character: "\U0001F1F1\U0001F1E7"
+Unicode_character: 🇱🇧 
 Krugosvet_article: strany-mira/livan
 MeSH_tree_code: Z01.252.245.500.450
 Commons_gallery: "لبنان / Liban"

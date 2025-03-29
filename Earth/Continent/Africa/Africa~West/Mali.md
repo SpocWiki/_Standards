@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked country,123480]]"
 - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
@@ -316,7 +316,7 @@ Commons_gallery: Mali
 ISO_3166_1_alpha_2_code: ML
 WIPO_ST_3: ML
 FIPS_10_4_countries_and_regions_: ML
-Unicode_character: "\U0001F1F2\U0001F1F1"
+Unicode_character: 🇲🇱 
 ISO_3166_1_alpha_3_code: MLI
 ITU_letter_code: MLI
 IOC_country_code: MLI

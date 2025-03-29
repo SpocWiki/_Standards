@@ -1,4 +1,4 @@
-﻿---
+---
 replaces:
 - "[[_Standards/WikiData/WD~Nabha State,929357]]"
 - "[[_Standards/WikiData/WD~Kalsia State,932359]]"
@@ -1229,7 +1229,7 @@ BHCL_UUID:
 - 38d9684b-e73e-4ced-9331-b23249b40c59
 WOEID: 23424848
 Wolfram_Language_entity_code: "Entity[\"Country\", \"India\"]"
-Unicode_character: "\U0001F1EE\U0001F1F3"
+Unicode_character: 🇮🇳 
 has_id_wikidata: Q668
 location:
 - 20.3923

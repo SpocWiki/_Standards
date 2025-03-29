@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 6.78
 - -58.17
@@ -229,7 +229,7 @@ mobile_country_code: 738
 maritime_identification_digits: 750
 OmegaWiki_Defined_Meaning: 154250
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg"
-Unicode_character: "\U0001F1EC\U0001F1FE"
+Unicode_character: 🇬🇾 
 INSEE_countries_and_foreign_territories_code: 99428
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Guyana.svg"
 urban_population:

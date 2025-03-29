@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q4439
 has_use: "[[_Standards/WikiData/WD~computer data storage device,66221]]"
 subclass_of:
@@ -34,7 +34,7 @@ Stack_Exchange_tag: "https://stackoverflow.com/tags/hard-drive"
 Common_Procurement_Vocabulary_code: 30233132
 UNSPSC_Code: 43201803
 Commons_gallery: "Hard disk"
-Unicode_character: "\U0001F5B4"
+Unicode_character: 🖴 
 ---
 
 ## #has_/text_of_/abstract 

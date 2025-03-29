@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8441
 different_from:
 - '[[_Standards/WikiData/WD~husband,212878]]'
@@ -37,7 +37,7 @@ Commons_gallery: Man
 Commons_category: Men
 hashtag: men
 U_S_National_Archives_Identifier: 10637899
-Unicode_character: "\U0001F468"
+Unicode_character: 👨 
 ---
 
 ## #has_/text_of_/abstract 

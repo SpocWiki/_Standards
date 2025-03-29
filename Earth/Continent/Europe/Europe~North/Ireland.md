@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 53.0702
 - -7.70895
@@ -359,7 +359,7 @@ PM20_geo_code: A22b
 NUTS_code: IE
 ISO_3166_1_alpha_2_code: IE
 WIPO_ST_3: IE
-Unicode_character: "\U0001F1EE\U0001F1EA"
+Unicode_character: 🇮🇪 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ireland.svg"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Ireland.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Cruaighpadraigh%20banner.jpg"

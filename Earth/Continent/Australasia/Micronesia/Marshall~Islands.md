@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
 - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
@@ -160,7 +160,7 @@ shares_border_with:
 - "[[_Standards/WikiData/WD~United States,30]]"
 country: "[[_Standards/WikiData/WD~Marshall Islands,709]]"
 U_S_National_Archives_Identifier: 10046189
-Unicode_character: "\U0001F1F2\U0001F1ED"
+Unicode_character: 🇲🇭 
 coordinates_of_easternmost_point: "Point(172.165288888 5.896261111)"
 coordinate_location: "Point(169.29 9.82)"
 language_used:

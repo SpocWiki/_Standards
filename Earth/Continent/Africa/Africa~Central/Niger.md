@@ -1,4 +1,4 @@
-﻿---
+---
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Sahel,66065]]'
 flag: "[[_Standards/WikiData/WD~flag of Niger,103046]]"
 instance_of:
@@ -239,7 +239,7 @@ official_website: "http://www.presidence.ne"
 country_calling_code: +227
 U_S_National_Archives_Identifier: 10035780
 Dewey_Decimal_Classification: 2--6626
-Unicode_character: "\U0001F1F3\U0001F1EA"
+Unicode_character: 🇳🇪 
 ISO_3166_1_alpha_3_code: NER
 CIVICUS_Monitor_country_entry: niger
 GitHub_topic: niger

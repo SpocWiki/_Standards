@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 8.96667
 - -79.5333
@@ -325,7 +325,7 @@ inception: "1903-01-01T00:00:00Z"
 has_time_started: "1903-01-01T00:00:00Z"
 coordinate_location: "Point(-80.366667 8.616667)"
 coordinates_of_westernmost_point: "Point(-83.0518 8.3335)"
-Unicode_character: "\U0001F1F5\U0001F1E6"
+Unicode_character: 🇵🇦 
 geoshape: "http://commons.wikimedia.org/data/main/Data:Panama.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Panama.svg"
 pronunciation_audio:

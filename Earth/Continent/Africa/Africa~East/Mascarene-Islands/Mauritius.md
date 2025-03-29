@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
 - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
@@ -295,7 +295,7 @@ GitHub_topic: mauritius
 Commons_category: Mauritius
 subreddit: Mauritius
 Libris_URI: mkz10tw54bbnm9c
-Unicode_character: "\U0001F1F2\U0001F1FA"
+Unicode_character: 🇲🇺 
 Krugosvet_article: strany_mira/MAVRIKI.html
 native_label: "République de Maurice"
 short_name: "\U0001F1F2\U0001F1FA"
