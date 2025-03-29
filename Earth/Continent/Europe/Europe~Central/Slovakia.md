@@ -1,4 +1,4 @@
-﻿---
+---
 highest_point: "[[_Standards/WikiData/WD~Gerlachovský štít,81213]]"
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
@@ -351,7 +351,7 @@ official_website: "https://www.slovakia.com/"
 country_calling_code: +421
 Dewey_Decimal_Classification: 2--4373
 Colon_Classification: SG--59252
-Unicode_character: "\U0001F1F8\U0001F1F0"
+Unicode_character: 🇸🇰 
 GitHub_topic: slovakia
 has_id_wikidata: Q214
 location:

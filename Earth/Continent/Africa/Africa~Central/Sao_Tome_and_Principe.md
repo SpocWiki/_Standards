@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~island country,112099]]"
 - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
@@ -222,7 +222,7 @@ Commons_gallery: "São Tomé e Príncipe"
 hashtag: SãoToméandPríncipe
 subreddit: SaoTomePrincipe
 IPA_transcription: "sɑu'tumeː ɔ pɾɪn'siːp"
-Unicode_character: "\U0001F1F8\U0001F1F9"
+Unicode_character: 🇸🇹 
 Krugosvet_article: strany_mira/SAN-TOME_I_PRINSIPI.html
 MeSH_tree_code:
 - Z01.058.290.100.690

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 52.6418
 - 47.4574
@@ -804,7 +804,7 @@ Krugosvet_article: Earth_sciences/geografiya/ROSSIYA_ROSSISKAYA_FEDERATSIYA_RF.h
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Russia\"]"
 Facebook_username: MyCountryRussia
 IPA_transcription: rɐˈsʲijə
-Unicode_character: "\U0001F1F7\U0001F1FA"
+Unicode_character: 🇷🇺 
 subreddit: russia
 hashtag:
 - russia

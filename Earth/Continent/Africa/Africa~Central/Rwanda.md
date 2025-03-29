@@ -1,4 +1,4 @@
-﻿---
+---
 shares_border_with:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Burundi,967]]'
@@ -205,7 +205,7 @@ nominal_GDP:
 - 13312796765
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Wv%20Ruanda%20banner.jpg"
 coordinate_location: "Point(30.0 -2.0)"
-Unicode_character: "\U0001F1F7\U0001F1FC"
+Unicode_character: 🇷🇼 
 GitHub_topic: rwanda
 CIVICUS_Monitor_country_entry:
 - rwanda

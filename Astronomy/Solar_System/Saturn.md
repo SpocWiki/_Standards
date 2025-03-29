@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q193
 child_astronomical_body:
 - '[[_Standards/WikiData/WD~Prometheus,17739]]'
@@ -127,7 +127,7 @@ distance_from_Earth:
 area: 42700000000
 surface_gravity: 8.96
 Unicode_character:
-- "\U0001FA90"
+- 🪐 
 - ♄
 speed:
 - 9.137

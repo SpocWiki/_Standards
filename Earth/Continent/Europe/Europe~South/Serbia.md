@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 44.82
 - 20.48
@@ -431,7 +431,7 @@ IPA_transcription: ˈsʲerbʲɪjə
 country_calling_code: +381
 U_S_National_Archives_Identifier: 10045307
 Image_Archive_Herder_Institute: Q403
-Unicode_character: "\U0001F1F7\U0001F1F8"
+Unicode_character: 🇷🇸 
 CIVICUS_Monitor_country_entry: serbia
 subreddit: serbia
 GitHub_topic: serbia

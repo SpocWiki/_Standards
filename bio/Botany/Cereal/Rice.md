@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5090
 different_from: "[[_Standards/WikiData/WD~Oryza sativa,161426]]"
 natural_product_of_taxon:
@@ -40,7 +40,7 @@ water_footprint:
 - 1673
 - 2172
 OmegaWiki_Defined_Meaning: 3236
-Unicode_character: "\U0001F35A"
+Unicode_character: 🍚 
 Commons_gallery: Rice
 Commons_category: Rice
 UNSPSC_Code: 10151701

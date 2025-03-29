@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11012
 has_part_s_:
 - '[[_Standards/WikiData/WD~sensor,167676]]'
@@ -28,7 +28,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Dockvorgang%20M%C3%A4
 IEV_number: 171-09-25
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/ROBOT.html
 Commons_gallery: Robot
-Unicode_character: "\U0001F916"
+Unicode_character: 🤖 
 time_of_earliest_written_record: "1920-01-01T00:00:00Z"
 ---
 

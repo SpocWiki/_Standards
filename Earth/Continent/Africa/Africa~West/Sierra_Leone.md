@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Sierra Leone,168912]]"
 member_of:
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -224,7 +224,7 @@ hashtag: SierraLeone
 ISO_3166_1_alpha_2_code: SL
 FIPS_10_4_countries_and_regions_: SL
 WIPO_ST_3: SL
-Unicode_character: "\U0001F1F8\U0001F1F1"
+Unicode_character: 🇸🇱 
 ISO_3166_1_alpha_3_code: SLE
 IOC_country_code: SLE
 ITU_letter_code: SRL

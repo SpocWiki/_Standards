@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
 - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
@@ -280,7 +280,7 @@ Libris_URI: 0xbddmtj2fgkp1w
 GitHub_topic: senegal
 CIVICUS_Monitor_country_entry: senegal
 Commons_gallery: Sénégal
-Unicode_character: "\U0001F1F8\U0001F1F3"
+Unicode_character: 🇸🇳 
 Krugosvet_article: strany_mira/SENEGAL.html
 ISNI: 0000000404582116
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20map%20of%20Senegal.svg"

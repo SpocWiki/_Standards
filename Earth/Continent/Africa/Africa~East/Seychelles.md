@@ -1,4 +1,4 @@
-﻿---
+---
 Libris_URI: mkz118l5247m2dd
 Commons_gallery: "Sesel / Seychelles"
 GitHub_topic: seychelles
@@ -191,7 +191,7 @@ coordinate_location: "Point(52.766667 -7.1)"
 nominal_GDP:
 - 1286687873
 - 1588406479
-Unicode_character: "\U0001F1F8\U0001F1E8"
+Unicode_character: 🇸🇨 
 U_S_National_Archives_Identifier: 10035806
 Dewey_Decimal_Classification: 2--696
 ISNI: 000000040459108X

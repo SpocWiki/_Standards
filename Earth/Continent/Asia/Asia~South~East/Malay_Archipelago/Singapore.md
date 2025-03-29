@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 1.28
 - 103.85
@@ -271,7 +271,7 @@ twinned_administrative_body:
 present_in_work: "[[/_Standards/WikiData/WD~Civilization V,2385]]"
 part_of: "[[/_Standards/WikiData/WD~Southeast Asia,11708]]"
 continent: '[[/_Standards/WikiData/WD~Asia,48]]'
-Unicode_character: "\U0001F1F8\U0001F1EC"
+Unicode_character: 🇸🇬 
 UN_LOCODE: SGSIN
 GitHub_topic: singapore
 CIVICUS_Monitor_country_entry: singapore

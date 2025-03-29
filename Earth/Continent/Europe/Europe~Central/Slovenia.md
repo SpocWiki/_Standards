@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
 - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
@@ -529,7 +529,7 @@ country_calling_code: +386
 U_S_National_Archives_Identifier: 10045308
 BHCL_UUID: 6ce7bf2f-0a71-4070-841b-d81c20f18c0c
 Colon_Classification: SG--59223
-Unicode_character: "\U0001F1F8\U0001F1EE"
+Unicode_character: 🇸🇮 
 has_id_wikidata: Q215
 location:
 - 46.05

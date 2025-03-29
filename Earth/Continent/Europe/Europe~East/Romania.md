@@ -1,4 +1,4 @@
-﻿---
+---
 member_of:
 - "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
 - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
@@ -386,7 +386,7 @@ BHCL_UUID:
 - 33ba3794-f6b6-42cf-a09b-e3c552f49d2c
 - c42e62f5-e5fb-4fc2-ae20-2f5df5ce7aca
 Libris_URI: ljx0z0441nfsv5d
-Unicode_character: "\U0001F1F7\U0001F1F4"
+Unicode_character: 🇷🇴 
 Commons_gallery: România
 IPA_transcription:
 - rʊˈmɨnʲɪjə
