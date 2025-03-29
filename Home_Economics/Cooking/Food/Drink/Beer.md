@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q44
 U_S_National_Archives_Identifier: 10646278
 Amazon_com_browse_node: 2983385011
@@ -17,8 +17,8 @@ MeSH_tree_code:
 - J02.350.594.500
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PIVO.html
 Unicode_character:
-- "\U0001F37B"
-- "\U0001F37A"
+- 🍺 
+- 🍻
 produced_by: '[[_Standards/WikiData/WD~brewery,131734]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~commodity,317088]]'

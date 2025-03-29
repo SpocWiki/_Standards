@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -77
 - 66
@@ -100,7 +100,7 @@ OmegaWiki_Defined_Meaning: 202
 subreddit: antarctica
 Commons_gallery: Antarctica
 Commons_category: Antarctica
-Unicode_character: "\U0001F1E6\U0001F1F6"
+Unicode_character: 🇦🇶 
 FIPS_10_4_countries_and_regions_: AY
 Krugosvet_article: Earth_sciences/geologiya/ANTARKTIKA.html
 Libris_URI: zw9cbnhh0cvc58m

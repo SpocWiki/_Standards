@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11442
 discoverer_or_inventor:
 - "[[_Standards/WikiData/WD~Karl Drais,77122]]"
@@ -105,7 +105,7 @@ U_S_National_Archives_Identifier: 10647185
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/EN%20Bicycle.ogg"
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Sinnbild%20Radfahrer%2C%20StVO%201992.svg"
 Stack_Exchange_site_URL: "https://bicycles.stackexchange.com/"
-Unicode_character: "\U0001F6B2"
+Unicode_character: 🚲 
 UNSPSC_Code: 25161507
 MCN_code: 8712.00.10
 GitHub_topic: bicycle

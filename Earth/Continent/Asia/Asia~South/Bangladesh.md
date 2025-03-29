@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 23.7
 - 90.36
@@ -379,7 +379,7 @@ U_S_National_Archives_Identifier: 10035837
 number_of_out_of_school_children: 9755446
 population: 171466990
 coordinate_location: "Point(89.866666666 24.016666666)"
-Unicode_character: "\U0001F1E7\U0001F1E9"
+Unicode_character: 🇧🇩 
 Commons_gallery: বাংলাদেশ
 urban_population: 52009072
 geoshape: "http://commons.wikimedia.org/data/main/Data:Bangladesh.map"

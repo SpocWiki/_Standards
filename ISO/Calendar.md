@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12132
 Dewey_Decimal_Classification:
 - 529.3
@@ -41,8 +41,8 @@ UMLS_CUI:
 - C1516147
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Revolution%20kalendar.jpg"
 Unicode_character:
-- "\U0001F4C5"
-- "\U0001F5D3"
+- 📅 
+- 🗓 
 U_S_National_Archives_Identifier: 10638843
 Iconclass_notation: 23U1
 Colon_Classification: "B9:17"

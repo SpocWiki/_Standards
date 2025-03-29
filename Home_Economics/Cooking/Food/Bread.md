@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7802
 Commons_gallery: Bread
 subreddit: breaddit
@@ -57,7 +57,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Pronouncing%20bread%20in%20Tigrinya.ogg"
 label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-pa-spreadthesign.ogv"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Brood-article.ogg"
-Unicode_character: "\U0001F35E"
+Unicode_character: 🍞 
 Commons_category: Bread
 ---
 

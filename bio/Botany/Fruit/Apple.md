@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q89
 Commons_gallery: Apple
 OmegaWiki_Defined_Meaning: 5781
@@ -41,8 +41,8 @@ Dewey_Decimal_Classification:
 - 641.3411
 Commons_category: Apples
 Unicode_character:
-- "\U0001F34F"
-- "\U0001F34E"
+- 🍎
+- 🍏
 U_S_National_Archives_Identifier: 10647441
 natural_product_of_taxon:
 - '[[_Standards/WikiData/WD~Malus,104819]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Cameroon,107152]]"
 located_in_or_next_to_body_of_water:
 - "[[_Standards/WikiData/WD~Lake Chad,125309]]"
@@ -508,7 +508,7 @@ subreddit:
 - cameroun
 - Cameroon
 Commons_gallery: "Cameroun / Cameroon"
-Unicode_character: "\U0001F1E8\U0001F1F2"
+Unicode_character: 🇨🇲 
 Krugosvet_article: strany_mira/KAMERUN.html
 MeSH_tree_code: Z01.058.290.100.110
 official_name:

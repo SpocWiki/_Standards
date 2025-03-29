@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -3.5
 - 30
@@ -198,7 +198,7 @@ short_name:
 - "\U0001F1E7\U0001F1EE"
 native_label: Uburundi
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burundi.svg"
-Unicode_character: "\U0001F1E7\U0001F1EE"
+Unicode_character: 🇧🇮 
 urban_population:
 - 1764450
 - 1858290

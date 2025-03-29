@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 11.55
 - 104.917
@@ -309,7 +309,7 @@ WIPO_ST_3: KH
 ISO_3166_1_alpha_2_code: KH
 FIPS_10_4_countries_and_regions_: CB
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg"
-Unicode_character: "\U0001F1F0\U0001F1ED"
+Unicode_character: 🇰🇭 
 IOC_country_code: CAM
 area: 181035
 INSEE_countries_and_foreign_territories_code: 99234

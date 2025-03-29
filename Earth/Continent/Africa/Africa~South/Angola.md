@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -8.8
 - 13.23
@@ -274,7 +274,7 @@ Commons_category: Angola
 FIPS_10_4_countries_and_regions_: AO
 WIPO_ST_3: AO
 ISO_3166_1_alpha_2_code: AO
-Unicode_character: "\U0001F1E6\U0001F1F4"
+Unicode_character: 🇦🇴
 PM20_geo_code: C85
 Colon_Classification: SG--643
 Krugosvet_article: strany_mira/ANGOLA.html

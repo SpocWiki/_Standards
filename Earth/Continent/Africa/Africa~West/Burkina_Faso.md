@@ -1,4 +1,4 @@
-﻿---
+---
 highest_point: "[[_Standards/WikiData/WD~Mount Tenakourou,116675]]"
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked country,123480]]"
@@ -345,7 +345,7 @@ coordinates_of_easternmost_point: "Point(2.40408 11.9003)"
 nominal_GDP:
 - 18884619613
 - 19737616003
-Unicode_character: "\U0001F1E7\U0001F1EB"
+Unicode_character: 🇧🇫 
 has_id_wikidata: Q965
 location:
 - 12.3333

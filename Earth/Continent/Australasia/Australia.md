@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -35.4776
 - 149.027
@@ -891,7 +891,7 @@ audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Navy%20Band%2C%20Advance%20Australia%20Fair%20%28abridged%29.oga"
 country_calling_code: +61
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg"
-Unicode_character: "\U0001F1E6\U0001F1FA"
+Unicode_character: 🇦🇺 
 coordinates_of_westernmost_point: "Point(113.155 -26.151388888)"
 population: 26473055
 geoshape: "http://commons.wikimedia.org/data/main/Data:Australia.map"

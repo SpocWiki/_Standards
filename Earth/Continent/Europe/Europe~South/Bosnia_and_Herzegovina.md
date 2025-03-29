@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 43.87
 - 18.43
@@ -262,7 +262,7 @@ population: 3816459
 coordinate_location: "Point(18.0 44.0)"
 inception: "1992-03-01T00:00:00Z"
 has_time_started: "1992-03-01T00:00:00Z"
-Unicode_character: "\U0001F1E7\U0001F1E6"
+Unicode_character: 🇧🇦 
 Commons_category: "Bosnia and Herzegovina"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gornji%20Orahovac%2C%20Bosnia%20y%20Herzegovina%2C%202014-04-14%2C%20DD%2010-13%20PAN.jpg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bosnia%20and%20Herzegovina%20%28orthographic%20projection%29.svg"

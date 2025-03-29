@@ -1,4 +1,4 @@
-﻿---
+---
 flag: "[[_Standards/WikiData/WD~flag of Benin,130442]]"
 member_of:
 - "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
@@ -275,7 +275,7 @@ ISO_3166_1_alpha_3_code: BEN
 ITU_letter_code: BEN
 life_expectancy: 60.907
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg"
-Unicode_character: "\U0001F1E7\U0001F1EF"
+Unicode_character: 🇧🇯 
 area: 114763
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Benin.svg"
 INSEE_countries_and_foreign_territories_code: 99327

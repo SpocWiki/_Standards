@@ -1,4 +1,4 @@
-﻿---
+---
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Brunei-Muara District,153009]]"
 - "[[_Standards/WikiData/WD~Temburong District,263285]]"
@@ -266,7 +266,7 @@ official_website:
 country_calling_code: +673
 Libris_URI: 0xbdcr0j4q915dl
 Dewey_Decimal_Classification: 2--5955
-Unicode_character: "\U0001F1E7\U0001F1F3"
+Unicode_character: 🇧🇳 
 GitHub_topic: brunei
 subreddit: Brunei
 hashtag: Brunei

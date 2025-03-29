@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 34.5
 - 69.2
@@ -440,7 +440,7 @@ BHCL_UUID:
 - 0ac41946-f765-4e9d-b2a2-29e468304cea
 - 25245d37-5e6f-4e33-bdda-ffd39da95467
 Dewey_Decimal_Classification: 2--581
-Unicode_character: "\U0001F1E6\U0001F1EB"
+Unicode_character: 🇦🇫
 GitHub_topic: afghanistan
 CIVICUS_Monitor_country_entry: afghanistan
 subreddit: afghanistan

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -34.62
 - -58.41
@@ -358,7 +358,7 @@ urban_population:
 - 41339571
 - 42248949
 - 42696478
-Unicode_character: "\U0001F1E6\U0001F1F7"
+Unicode_character: 🇦🇷 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Argentina.svg"
 U_S_National_Archives_Identifier: 10045211
 inception: "1816-07-09T00:00:00Z"

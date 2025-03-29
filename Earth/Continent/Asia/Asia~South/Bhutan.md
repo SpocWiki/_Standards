@@ -1,4 +1,4 @@
-﻿---
+---
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked country,123480]]"
 - '[[_Standards/WikiData/WD~kingdom,417175]]'
@@ -117,7 +117,7 @@ coordinates_of_northernmost_point: "Point(90.0 28.32)"
 name: ꠜꠥꠐꠣꠘ
 CIVICUS_Monitor_country_entry: bhutan
 subreddit: bhutan
-Unicode_character: "\U0001F1E7\U0001F1F9"
+Unicode_character: 🇧🇹 
 Libris_URI: dbqsr4cx3v97mcz
 Krugosvet_article: strany_mira/BUTAN.html
 Gujarati_Vishwakosh_entry: ભુતાન

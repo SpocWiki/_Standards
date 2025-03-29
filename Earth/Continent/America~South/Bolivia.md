@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -17.7667
 - -66.7
@@ -391,7 +391,7 @@ described_at_URL: "https://www.cia.gov/library/publications/the-world-factbook/g
 country_calling_code: +591
 Dewey_Decimal_Classification: 2--84
 Swedish_Anbytarforum: 21980.0
-Unicode_character: "\U0001F1E7\U0001F1F4"
+Unicode_character: 🇧🇴 
 subreddit: BOLIVIA
 ---
 

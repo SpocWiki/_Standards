@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.8165
 - 4.29368
@@ -404,7 +404,7 @@ WIPO_ST_3: BE
 ISO_3166_1_alpha_2_code: BE
 FIPS_10_4_countries_and_regions_: BE
 NUTS_code: BE
-Unicode_character: "\U0001F1E7\U0001F1EA"
+Unicode_character: 🇧🇪 
 ITU_letter_code: BEL
 ISO_3166_1_alpha_3_code: BEL
 IOC_country_code: BEL

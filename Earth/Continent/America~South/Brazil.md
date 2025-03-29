@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -20.7333
 - -45.9467
@@ -671,7 +671,7 @@ WIPO_ST_3: BR
 licence_plate_code: BR
 ISO_3166_1_alpha_2_code: BR
 FIPS_10_4_countries_and_regions_: BR
-Unicode_character: "\U0001F1E7\U0001F1F7"
+Unicode_character: 🇧🇷 
 ISO_3166_1_alpha_3_code: BRA
 IOC_country_code: BRA
 subreddit: brasil

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 42.9342
 - 25.3029
@@ -403,7 +403,7 @@ PM20_geo_code: A46
 population: 6795803
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rila%20Monastery%2C%20August%202013.jpg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bulgaria.svg"
-Unicode_character: "\U0001F1E7\U0001F1EC"
+Unicode_character: 🇧🇬 
 CIVICUS_Monitor_country_entry: bulgaria
 subreddit: bulgaria
 GitHub_topic: bulgaria

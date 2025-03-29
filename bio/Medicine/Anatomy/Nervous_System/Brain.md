@@ -1,9 +1,9 @@
-﻿---
+---
 has_id_wikidata: Q1073
 Colon_Classification: L72
 Commons_gallery: Brain
 Commons_category: Brain
-Unicode_character: "\U0001F9E0"
+Unicode_character: 🧠
 subclass_of:
 - '[[_Standards/WikiData/WD~encephalon,75865]]'
 - "[[_Standards/WikiData/WD~animal organ,24060765]]"

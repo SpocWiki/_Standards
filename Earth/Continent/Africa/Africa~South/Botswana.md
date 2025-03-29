@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -24.6333
 - 25.9167
@@ -271,7 +271,7 @@ life_expectancy: 66.797
 OmegaWiki_Defined_Meaning: 8342
 number_of_out_of_school_children: 74929
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg"
-Unicode_character: "\U0001F1E7\U0001F1FC"
+Unicode_character: 🇧🇼 
 INSEE_countries_and_foreign_territories_code: 99347
 area: 581737
 nominal_GDP_per_capita: 6710.99

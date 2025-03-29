@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 53.9
 - 27.57
@@ -39,7 +39,7 @@ CIVICUS_Monitor_country_entry: belarus
 subreddit: belarus
 GitHub_topic: belarus
 IPA_transcription: bʲɛɫ̪äˈrus̪ʲ
-Unicode_character: "\U0001F1E7\U0001F1FE"
+Unicode_character: 🇧🇾 
 BHCL_UUID:
 - cce2d4f8-3080-4d6d-ab9f-002b949112d1
 - e3fb4002-bf4f-4f69-b95b-5f5122e8d1c0

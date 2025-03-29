@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 26.2
 - 50.58
@@ -52,7 +52,7 @@ subreddit: Bahrain
 hashtag: Bahrain
 ISO_3166_1_alpha_2_code: BH
 WIPO_ST_3: BH
-Unicode_character: "\U0001F1E7\U0001F1ED"
+Unicode_character: 🇧🇭 
 ISO_3166_1_alpha_3_code: BHR
 ITU_letter_code: BHR
 licence_plate_code: BRN

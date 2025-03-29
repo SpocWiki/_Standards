@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 17.25
 - -88.7667
@@ -265,7 +265,7 @@ Commons_category: Belize
 subreddit: Belize
 hashtag: Belize
 IPA_transcription: bɛˈliːs
-Unicode_character: "\U0001F1E7\U0001F1FF"
+Unicode_character: 🇧🇿 
 Krugosvet_article: strany_mira/BELIZ.html
 official_name:
 - Belize

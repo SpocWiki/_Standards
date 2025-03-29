@@ -1,4 +1,4 @@
-﻿---
+---
 title: Austria
 linkTitle: 
 type: Country
@@ -384,7 +384,7 @@ area: 83878.99
 population: 8979894
 official_name: Österreich
 PM20_geo_code: A40b
-Unicode_character: "\U0001F1E6\U0001F1F9"
+Unicode_character: 🇦🇹 
 Image_Archive_Herder_Institute: Q40
 Commons_gallery: Österreich
 geoshape: "http://commons.wikimedia.org/data/main/Data:Austria.map"

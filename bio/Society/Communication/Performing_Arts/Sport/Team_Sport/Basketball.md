@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5372
 discoverer_or_inventor: "[[_Standards/WikiData/WD~James Naismith,188962]]"
 instance_of:
@@ -45,7 +45,7 @@ IAB_code: 547
 OmegaWiki_Defined_Meaning: 6375
 short_name: basket
 U_S_National_Archives_Identifier: 10647372
-Unicode_character: "\U0001F3C0"
+Unicode_character: 🏀 
 GitHub_topic: basketball
 hashtag: basketball
 Commons_gallery: Basketball
