@@ -1,4 +1,11 @@
-﻿A period is equivalent to a chronostratigraphic system. These are millions to tens of millions of years in length.
+
+
+# [[geo~Periods]]
+
+#is_/part_of :: [[../geo~Eras]]
+#has_/parts :: [[geo~Periods/geo~Epochs]] 
+
+A period is equivalent to a chronostratigraphic system. These are millions to tens of millions of years in length.
 
 ## All Contents
 

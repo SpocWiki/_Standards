@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q309
 studied_in:
 - '[[_Standards/WikiData/WD~humanities,80083]]'

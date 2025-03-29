@@ -4,6 +4,9 @@
 
 # [[geo~Eons]] 
 
+#is_/part_of :: ---
+#has_/parts :: [[geo~Eons/geo~Eras]]  
+
 An eon is the largest formal geochronologic time unit 
 and is equivalent to a chronostratigraphic eonothem. 
 These are several hundred million years to two billion years in length.

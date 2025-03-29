@@ -1,6 +1,10 @@
-﻿# [[geo~Ages]] 
+# [[geo~Ages]] 
 
-An age is the smallest hierarchical geochronologic unit and is equivalent to a chronostratigraphic stage. These are thousands to millions of years in length
+#is_/part_of :: [[../geo~Epochs|geo~Epochs]] 
+#has_/parts :: ---
+
+An age is the smallest hierarchical geochronologic unit after [[../geo~Epochs|geo~Epochs]] 
+and is equivalent to a chronostratigraphic stage. These are thousands to millions of years in length
 
 ## Edit
 

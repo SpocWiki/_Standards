@@ -1,6 +1,10 @@
-﻿# [[geo~Eras]] 
+# [[geo~Eras]] 
 
-An era is the second largest geochronologic time unit and is equivalent to a chronostratigraphic erathem. 
+#is_/part_of :: [[../geo~Eons]]
+#has_/parts :: [[geo~Eras/geo~Periods]] 
+
+An era is the second largest geochronologic time unit after [[../geo~Eons|geo~Eons]] 
+and is equivalent to a chronostratigraphic erathem. 
 These are tens to hundreds of millions of years in length.
 ## Edit
 

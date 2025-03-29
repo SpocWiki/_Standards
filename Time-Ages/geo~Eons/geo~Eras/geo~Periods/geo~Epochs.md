@@ -1,4 +1,7 @@
-﻿# [[geo~Epochs]] 
+# [[geo~Epochs]] 
+
+#is_/part_of :: [[../geo~Periods|geo~Periods]] 
+#has_/parts :: [[geo~Epochs/geo~Ages]] 
 
 An epoch is the second smallest geochronologic unit. It is equivalent to a chronostratigraphic series. These are hundreds of thousands to tens of millions of years length.
 
