@@ -357,7 +357,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Albania%20banne
 official_website: "https://www.kryeministria.al/en/"
 country_calling_code: +355
 Libris_URI: 42gjhs5n14cnffm
-Unicode_character: "\U0001F1E6\U0001F1F1"
+Unicode_character: 🇦🇱
 CIVICUS_Monitor_country_entry: albania
 subreddit: albania
 GitHub_topic: albania

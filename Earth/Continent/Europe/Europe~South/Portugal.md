@@ -316,7 +316,7 @@ ISO_3166_1_alpha_3_code: PRT
 ISO_3166_1_alpha_2_code: PT
 NUTS_code: PT
 WIPO_ST_3: PT
-Unicode_character: "\U0001F1F5\U0001F1F9"
+Unicode_character: 🇵🇹
 Colon_Classification: SG--542
 Krugosvet_article: strany_mira/PORTUGALIYA.html
 MeSH_tree_code: Z01.542.727
