@@ -1,6 +1,8 @@
 ---
-aliases: [Cambrian Stage 2]
+aliases:
+  - Cambrian Stage 2
 ---
+
 # [[Age~2~Tommotian]] 
 
 #is_a_/time_/Age 

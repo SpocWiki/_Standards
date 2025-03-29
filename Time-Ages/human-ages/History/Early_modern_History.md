@@ -1,5 +1,7 @@
 ---
-aliases: ["Early modern history", "early modern period"]
+aliases:
+  - "Early modern history"
+  - "early modern period"
 has_id_wikidata: Q5308718
 part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 instance_of:

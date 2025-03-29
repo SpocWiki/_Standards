@@ -1,6 +1,8 @@
 ---
-aliases: [New Stone Age]
+aliases:
+  - New Stone Age
 ---
+
 # [[Neolithic]] 
 
 #is_a_/time_/Culture 

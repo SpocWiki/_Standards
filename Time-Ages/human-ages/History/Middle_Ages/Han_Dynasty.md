@@ -1,5 +1,6 @@
 ---
-aliases: ["Han Dynasty"]
+aliases:
+  - "Han Dynasty"
 has_id_wikidata: Q7209
 capital:
   - '[[_Standards/WikiData/WD~Luoyang,187136]]'

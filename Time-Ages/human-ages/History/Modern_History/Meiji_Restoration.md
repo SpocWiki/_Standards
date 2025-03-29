@@ -1,5 +1,6 @@
 ---
-aliases: ["Meiji Restoration"]
+aliases:
+  - "Meiji Restoration"
 has_id_wikidata: Q8707
 country: "[[_Standards/WikiData/WD~Empire of Japan,188712]]"
 instance_of: '[[_Standards/WikiData/WD~reform,900406]]'

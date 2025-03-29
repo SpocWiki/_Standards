@@ -1,5 +1,6 @@
 ---
-aliases: ["Mali Empire"]
+aliases:
+  - "Mali Empire"
 has_id_wikidata: Q184536
 religion_or_worldview: "[[_Standards/WikiData/WD~traditional African religion,386498]]"
 replaces: "[[_Standards/WikiData/WD~Baté Empire,507346]]"

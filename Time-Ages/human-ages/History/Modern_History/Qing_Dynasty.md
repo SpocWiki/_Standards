@@ -1,5 +1,6 @@
 ---
-aliases: ["Qing Dynasty"]
+aliases:
+  - "Qing Dynasty"
 has_id_wikidata: Q8733
 shares_border_with:
   - '[[_Standards/WikiData/WD~Bhutan,917]]'

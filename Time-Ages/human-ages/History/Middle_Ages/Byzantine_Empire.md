@@ -100,7 +100,8 @@ shares_border_with:
   - "[[_Standards/WikiData/WD~Western Roman Empire,42834]]"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Byzantine%20Empire%20animated.gif"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Byzantine%20imperial%20flag%2C%2014th%20century.svg"
-aliases: ["Byzantine Empire"]
+aliases:
+  - "Byzantine Empire"
 ---
 
 ## #has_/text_of_/abstract 

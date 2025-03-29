@@ -1,5 +1,6 @@
 ---
-aliases: ["Gupta Empire"]
+aliases:
+  - "Gupta Empire"
 has_id_wikidata: Q11774
 capital: '[[_Standards/WikiData/WD~Pataliputra,389755]]'
 described_by_source:

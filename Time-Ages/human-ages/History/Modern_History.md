@@ -1,5 +1,6 @@
 ---
-aliases: ["Modern history"]
+aliases:
+  - "Modern history"
 has_id_wikidata: Q3281534
 part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 instance_of:

@@ -1,5 +1,6 @@
 ---
-aliases: ["Mongol Empire"]
+aliases:
+  - "Mongol Empire"
 has_id_wikidata: Q12557
 has_part_s_:
   - '[[_Standards/WikiData/WD~Ilkhanate,178084]]'

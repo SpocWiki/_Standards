@@ -1,5 +1,6 @@
 ---
-aliases: ["Apartheid in South Africa"]
+aliases:
+  - "Apartheid in South Africa"
 has_id_wikidata: Q11409
 subclass_of:
   - "[[_Standards/WikiData/WD~divide and rule,68951]]"

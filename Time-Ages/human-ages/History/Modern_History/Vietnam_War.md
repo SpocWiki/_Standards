@@ -1,5 +1,6 @@
 ---
-aliases: ["Vietnam War"]
+aliases:
+  - "Vietnam War"
 has_id_wikidata: Q8740
 participant:
   - '[[_Standards/WikiData/WD~Australia,408]]'

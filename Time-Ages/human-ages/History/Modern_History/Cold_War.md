@@ -1,6 +1,7 @@
 ---
 has_id_wikidata: Q8683
-aliases: ["Cold War"]
+aliases:
+  - "Cold War"
 start_time: "1945-01-01T00:00:00Z"
 has_effect:
   - "[[_Standards/WikiData/WD~dissolution of the Soviet Union,5167679]]"

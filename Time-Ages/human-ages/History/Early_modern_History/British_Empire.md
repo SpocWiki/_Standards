@@ -1,5 +1,6 @@
 ---
-aliases: ["British Empire"]
+aliases:
+  - "British Empire"
 has_id_wikidata: Q8680
 coat_of_arms: "[[_Standards/WikiData/WD~royal coat of arms of the United Kingdom,165762]]"
 described_by_source:

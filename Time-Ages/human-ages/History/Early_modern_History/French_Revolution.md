@@ -1,5 +1,6 @@
 ---
-aliases: ["French Revolution"]
+aliases:
+  - "French Revolution"
 has_id_wikidata: Q6534
 history_of_topic: "[[_Standards/WikiData/WD~timeline of the French Revolution,186961]]"
 different_from: "[[_Standards/WikiData/WD~French Revolution,239523]]"

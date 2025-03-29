@@ -1,5 +1,6 @@
 ---
-aliases: ["Arab–Israeli conflict"]
+aliases:
+  - "Arab–Israeli conflict"
 has_id_wikidata: Q8669
 instance_of:
   - "[[_Standards/WikiData/WD~ethnic conflict,766875]]"

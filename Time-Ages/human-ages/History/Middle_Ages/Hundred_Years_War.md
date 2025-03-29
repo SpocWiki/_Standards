@@ -1,5 +1,8 @@
 ---
-aliases: ["Hundred Year War", "Hundred Years War", "Hundred Years' War"]
+aliases:
+  - "Hundred Year War"
+  - "Hundred Years War"
+  - "Hundred Years' War"
 has_id_wikidata: Q12551
 participant:
   - "[[_Standards/WikiData/WD~Kingdom of England,179876]]"

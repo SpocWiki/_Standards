@@ -1,5 +1,6 @@
 ---
-aliases: [Stone Age]
+aliases:
+  - Stone Age
 has_id_wikidata: Q11759
 named_after: "[[_Standards/WikiData/WD~stone tool,479257]]"
 described_by_source:

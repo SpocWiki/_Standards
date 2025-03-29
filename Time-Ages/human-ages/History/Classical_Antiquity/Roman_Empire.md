@@ -1,5 +1,6 @@
 ---
-aliases: ["Roman Empire"]
+aliases:
+  - "Roman Empire"
 has_id_wikidata: Q2277
 basic_form_of_government:
   - '[[_Standards/WikiData/WD~autocracy,173424]]'
@@ -125,7 +126,6 @@ demonym:
   - romana
   - romanas
   - Romani
-  - romano
   - romano
   - romanos
   - Römer

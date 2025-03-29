@@ -1,5 +1,6 @@
 ---
-aliases: ["American Civil War"]
+aliases:
+  - "American Civil War"
 has_id_wikidata: Q8676
 Library_of_Congress_Classification: E461-E655
 Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"AmericanCivilWar\"]"

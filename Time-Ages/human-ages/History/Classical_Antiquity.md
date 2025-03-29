@@ -30,7 +30,11 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20pano%20%284
 start_time:
   - "-0798-01-01T00:00:00Z"
   - "-1198-01-01T00:00:00Z"
-aliases: ["classical age", "classical era", "classical period", antiquity]
+aliases:
+  - "classical age"
+  - "classical era"
+  - "classical period"
+  - antiquity
 ---
 
 #has_/time_/started :: -0800-06 

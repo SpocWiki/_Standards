@@ -40,6 +40,7 @@ date_of_birth:
   - 1377-01-01T00:00:00Z
   - 1374-01-01T00:00:00Z
 ---
+
 # [[Era~3~Neoproterozoic]] 
 
 #is_a_/time_/Era 

@@ -1,5 +1,6 @@
 ---
-aliases: ["Soviet Union"]
+aliases:
+  - "Soviet Union"
 has_id_wikidata: Q15180
 party_chief_representative:
   - "[[_Standards/WikiData/WD~Constantine Chernenko,127442]]"
@@ -145,7 +146,6 @@ demonym:
   - Soviet
   - sovietic
   - sovietică
-  - soviética
   - soviética
   - soviético
   - soviéticu

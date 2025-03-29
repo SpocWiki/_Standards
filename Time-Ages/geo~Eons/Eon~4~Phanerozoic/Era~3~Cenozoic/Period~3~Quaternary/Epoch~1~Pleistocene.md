@@ -1,6 +1,8 @@
 ---
-aliases: [Ice Age]
+aliases:
+  - Ice Age
 ---
+
 ﻿
 # [[Epoch~1~Pleistocene]] 
 

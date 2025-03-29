@@ -1,5 +1,7 @@
 ---
-aliases: ["Protestant Reformation", Reformation]
+aliases:
+  - "Protestant Reformation"
+  - Reformation
 has_id_wikidata: Q12562
 facet_of:
   - '[[_Standards/WikiData/WD~Protestantism,23540]]'

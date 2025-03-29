@@ -1,6 +1,10 @@
 ---
-aliases: [Holocene calendar, Holocene Era, Human Era]
+aliases:
+  - Holocene calendar
+  - Holocene Era
+  - Human Era
 ---
+
 # [[Epoch~2~Holocene]] 
 
 #is_a_/time_/Epoch 

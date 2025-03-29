@@ -9,6 +9,7 @@ sRGB_color_hex_triplet: F99BC1
 Commons_category: Archean
 end_time: -2500000000-01-01T00:00:00Z
 ---
+
 # [[Era~4~Neoarchean]] 
 
 #is_a_/time_/Era 

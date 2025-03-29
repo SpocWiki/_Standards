@@ -1,5 +1,6 @@
 ---
-aliases: ["Middle Ages"]
+aliases:
+  - "Middle Ages"
 has_id_wikidata: Q12554
 end_time: "1500-01-01T00:00:00Z"
 studied_in:

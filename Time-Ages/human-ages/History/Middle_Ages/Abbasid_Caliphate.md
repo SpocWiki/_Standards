@@ -1,6 +1,7 @@
 ---
 has_id_wikidata: Q12536
-aliases: ["Abbasid Caliphate"]
+aliases:
+  - "Abbasid Caliphate"
 replaced_by:
   - "[[_Standards/WikiData/WD~Fatimid Caliphate,160307]]"
   - "[[_Standards/WikiData/WD~Mamluk Sultanate,282428]]"

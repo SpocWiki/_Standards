@@ -1,5 +1,6 @@
 ---
-aliases: ["Industrial Revolution"]
+aliases:
+  - "Industrial Revolution"
 has_id_wikidata: Q2269
 country_of_origin: "[[_Standards/WikiData/WD~Kingdom of Great Britain,161885]]"
 has_part_s_:

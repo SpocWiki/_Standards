@@ -1,5 +1,6 @@
 ---
-aliases: ["Russian Revolution"]
+aliases:
+  - "Russian Revolution"
 has_id_wikidata: Q8729
 participant:
   - '[[_Standards/WikiData/WD~Bolsheviks,83372]]'

@@ -1,5 +1,7 @@
 ---
-aliases: ["World War I", WWI]
+aliases:
+  - "World War I"
+  - WWI
 has_id_wikidata: Q361
 history_of_topic:
   - "[[_Standards/WikiData/WD~diplomatic history of World War I,30324643]]"

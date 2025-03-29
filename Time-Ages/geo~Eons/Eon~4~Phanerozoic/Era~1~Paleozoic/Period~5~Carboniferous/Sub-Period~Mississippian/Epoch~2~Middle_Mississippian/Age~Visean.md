@@ -1,6 +1,9 @@
 ---
-aliases: [Viséan, Visian]
+aliases:
+  - Viséan
+  - Visian
 ---
+
 # [[Age~Visean]] 
 
 #is_a_/time_/Age 

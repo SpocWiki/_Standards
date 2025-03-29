@@ -1,5 +1,8 @@
 ---
-aliases: ["Great Depression", "Große Depression", Weltwirtschaftskrise]
+aliases:
+  - "Great Depression"
+  - "Große Depression"
+  - Weltwirtschaftskrise
 has_id_wikidata: Q8698
 instance_of:
   - '[[_Standards/WikiData/WD~era,6428674]]'

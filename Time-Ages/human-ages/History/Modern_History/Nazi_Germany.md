@@ -1,5 +1,6 @@
 ---
-aliases: ["Nazi Germany"]
+aliases:
+  - "Nazi Germany"
 has_id_wikidata: Q7318
 Commons_category: "Nazi Germany"
 Commons_gallery: "Third Reich"

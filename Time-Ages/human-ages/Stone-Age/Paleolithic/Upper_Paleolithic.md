@@ -1,6 +1,9 @@
 ---
-aliases: [Upper Palaeolithic, Upper Paleolithic]
+aliases:
+  - Upper Palaeolithic
+  - Upper Paleolithic
 ---
+
 ﻿# [[Upper_Paleolithic]]
 
 #is_a_/time_/Culture 

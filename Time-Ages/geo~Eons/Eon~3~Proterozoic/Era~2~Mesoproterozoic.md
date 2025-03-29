@@ -8,6 +8,7 @@ short_name:
   - AbzG
 title: Gesetz betreffend die Abzahlungsgeschäfte
 ---
+
 # [[Era~2~Mesoproterozoic]] 
 
 #is_a_/time_/Era 

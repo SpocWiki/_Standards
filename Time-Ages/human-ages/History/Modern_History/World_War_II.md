@@ -1,5 +1,8 @@
 ---
-aliases: ["Great Patriotic War", "World War II", WWII]
+aliases:
+  - "Great Patriotic War"
+  - "World War II"
+  - WWII
 has_id_wikidata: Q362
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/WW2%20collage.jpg"
 Stack_Exchange_tag: "https://history.stackexchange.com/tags/world-war-two"

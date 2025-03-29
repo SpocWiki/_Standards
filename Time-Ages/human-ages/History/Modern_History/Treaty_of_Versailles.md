@@ -1,5 +1,6 @@
 ---
-aliases: ["Treaty of Versailles"]
+aliases:
+  - "Treaty of Versailles"
 has_id_wikidata: Q8736
 signatory:
   - '[[_Standards/WikiData/WD~Belgium,31]]'

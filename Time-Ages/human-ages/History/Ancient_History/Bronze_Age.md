@@ -1,5 +1,6 @@
 ---
-aliases: ["Bronze Age"]
+aliases:
+  - "Bronze Age"
 has_id_wikidata: Q11761
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"

@@ -1,5 +1,6 @@
 ---
-aliases: ["Ancient Greece"]
+aliases:
+  - "Ancient Greece"
 has_id_wikidata: Q11772
 studied_in:
   - '[[_Standards/WikiData/WD~classics,841090]]'

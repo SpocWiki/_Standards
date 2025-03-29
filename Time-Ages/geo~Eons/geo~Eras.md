@@ -19,6 +19,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Geologic%20time%20scal
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/T-Rex2.jpg
 Commons_category: Geology by era
 ---
+
 ?# [[geo~Eras]] 
 
 #is_/part_of :: [[../geo~Eons]]

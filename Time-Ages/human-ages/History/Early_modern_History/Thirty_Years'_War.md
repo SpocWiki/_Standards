@@ -1,5 +1,8 @@
 ---
-aliases: ["Thirty Year War", "Thirty Years War", "Thirty Years' War"]
+aliases:
+  - "Thirty Year War"
+  - "Thirty Years War"
+  - "Thirty Years' War"
 has_id_wikidata: Q2487
 participant:
   - '[[_Standards/WikiData/WD~Brandenburg-Prussia,157367]]'
