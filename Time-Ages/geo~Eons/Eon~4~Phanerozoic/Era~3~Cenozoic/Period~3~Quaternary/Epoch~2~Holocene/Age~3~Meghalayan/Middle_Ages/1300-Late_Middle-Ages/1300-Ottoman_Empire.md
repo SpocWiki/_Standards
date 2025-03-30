@@ -116,7 +116,7 @@ native_label: دولت عالیه عثمانیه
 dissolved_abolished_or_demolished_date: 1922-11-17T00:00:00Z
 ---
 
-# [[Ottoman_Empire]] 
+# [[1300-Ottoman_Empire]] 
 
 
 has_/time_/started :: 1300-06 
@@ -134,11 +134,67 @@ has_/time_/stopped :: 1922-11-17
 > it also controlled parts of southeastern Central Europe, 
 > between the early 16th and early 18th centuries. 
 >
-> The empire emerged from a beylik, or principality, founded in northwestern Anatolia in c. 1299 by the Turkoman tribal leader Osman I. His successors conquered much of Anatolia and expanded into the Balkans by the mid-14th century, transforming their petty kingdom into a transcontinental empire. The Ottomans ended the Byzantine Empire with the conquest of Constantinople in 1453 by Mehmed II, which marked the Ottomans' emergence as a major regional power. Under Suleiman the Magnificent (1520–1566), the empire reached the zenith of its power, prosperity, and political development expanding its influence further into Middle East and Central Europe. With its capital at Constantinople (modern-day Istanbul) and control over a significant portion of the Mediterranean Basin, the Ottoman Empire was at the centre of interactions between the Middle East and Europe for six centuries. Ruling over so many peoples, the empire granted varying levels of autonomy to its many confessional communities, or millets, to manage their own affairs per Islamic law. 
+> The empire emerged from a beylik, or principality, 
+> founded in northwestern Anatolia in c. 1299 by the Turkoman tribal leader Osman I. 
+> His successors conquered much of Anatolia 
+> and expanded into the Balkans by the mid-14th century, 
+> transforming their petty kingdom into a transcontinental empire. 
+> 
+> The Ottomans ended the Byzantine Empire with the conquest of Constantinople in 1453 
+> by Mehmed II, which marked the Ottomans' emergence as a major regional power. 
+> 
+> Under Suleiman the Magnificent (1520–1566), the empire reached the zenith of its power, 
+> prosperity, and political development expanding its influence further into Middle East and Central Europe. 
+> With its capital at Constantinople (modern-day Istanbul) 
+> and control over a significant portion of the Mediterranean Basin, 
+> the Ottoman Empire was at the centre of interactions between the Middle East and Europe 
+> for six centuries. 
+> Ruling over so many peoples, 
+> the empire granted varying levels of autonomy to its many confessional communities, 
+> or millets, to manage their own affairs per Islamic law. 
 >
-> While the Ottoman Empire was once thought to have entered a period of decline after the death of Suleiman the Magnificent, modern academic consensus posits that the empire continued to maintain a flexible and strong economy, society and military into much of the 18th century. However, during a long period of peace from 1740 to 1768, Ottoman military and bureaucratic systems fell behind those of its chief European rivals, the Habsburg and Russian empires. The Ottomans consequently suffered severe military defeats in the late 18th and early 19th centuries, culminating in the loss of both territory and global prestige. In 1826, Sultan Mahmud II abolished the Janissary corps following the Auspicious Incident, which had been roadblocking attempts at reform. This prompted a comprehensive process of reform and modernization known as the Tanzimat; over the course of the 19th century, the Ottoman state became vastly more powerful and organized internally, despite suffering further territorial losses, especially in the Balkans, where a number of new states emerged. The Ottoman Empire joined the Concert of Europe with the 1856 Treaty of Paris. In the 1876 revolution, the Ottoman Empire attempted constitutional monarchy, before reverting to a royalist dictatorship under Abdul Hamid II, following the Great Eastern Crisis. 
+> While the Ottoman Empire was once thought to have entered a period of decline 
+> after the death of Suleiman the Magnificent, modern academic consensus posits 
+> that the empire continued to maintain a flexible and strong economy, society 
+> and military into much of the 18th century. 
+> 
+> However, during a long period of peace from 1740 to 1768, 
+> Ottoman military and bureaucratic systems fell behind those of its chief European rivals, 
+> the Habsburg and Russian empires. 
+> The Ottomans consequently suffered severe military defeats in the late 18th 
+> and early 19th centuries, culminating in the loss of both territory and global prestige. 
+> In 1826, Sultan Mahmud II abolished the Janissary corps following the Auspicious Incident, 
+> which had been roadblocking attempts at reform. 
+> This prompted a comprehensive process of reform and modernization known as the Tanzimat; 
+> over the course of the 19th century, the Ottoman state became vastly more powerful 
+> and organized internally, despite suffering further territorial losses, 
+> especially in the Balkans, where a number of new states emerged. 
+> The Ottoman Empire joined the Concert of Europe with the 1856 Treaty of Paris. 
+> In the 1876 revolution, the Ottoman Empire attempted constitutional monarchy, 
+> before reverting to a royalist dictatorship under Abdul Hamid II, 
+> following the Great Eastern Crisis. 
 >
-> Over the course of the late 19th century, Ottoman intellectuals known as Young Turks sought to liberalize and rationalize society and politics along Western lines, culminating in the Young Turk Revolution of 1908 led by the Committee of Union and Progress (CUP), which reestablished a constitutional monarchy. However, following the disastrous Balkan Wars, the CUP became increasingly radicalized and nationalistic, leading a coup d'état in 1913 that established a dictatorship. The CUP joined World War I on the side of the Central Powers. It struggled with internal dissent, especially the Arab Revolt, and engaged in genocide against Armenians, Assyrians, and Greeks. In the aftermath of World War I, the victorious Allied Powers occupied and partitioned the Ottoman Empire, which lost its southern territories to the United Kingdom and France. The successful Turkish War of Independence, led by Mustafa Kemal Atatürk against the occupying Allies, led to the emergence of the Republic of Turkey and the abolition of the Ottoman monarchy in 1922.
+> Over the course of the late 19th century, Ottoman intellectuals known as Young Turks 
+> sought to liberalize and rationalize society and politics along Western lines, 
+> culminating in the Young Turk Revolution of 1908 
+> led by the Committee of Union and Progress (CUP), 
+> which reestablished a constitutional monarchy. 
+> 
+> However, following the disastrous Balkan Wars, 
+> the CUP became increasingly radicalized and nationalistic, 
+> leading a coup d'état in 1913 that established a dictatorship. 
+> The CUP joined World War I on the side of the Central Powers. 
+> 
+> It struggled with internal dissent, especially the Arab Revolt, 
+> and engaged in genocide against Armenians, Assyrians, and Greeks. 
+> 
+> In the aftermath of World War I, 
+> the victorious Allied Powers occupied and partitioned the Ottoman Empire, 
+> which lost its southern territories to the United Kingdom and France. 
+> The successful Turkish War of Independence, 
+> led by Mustafa Kemal Atatürk against the occupying Allies, 
+> led to the emergence of the Republic of Turkey 
+> and the abolition of the Ottoman monarchy in 1922.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ottoman%20Empire) 
 
