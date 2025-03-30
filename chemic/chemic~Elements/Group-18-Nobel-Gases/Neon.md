@@ -39,7 +39,7 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
 named_after: '[[_Standards/WikiData/WD~novelty,12544101]]'
 conjugate_acid: "[[_Standards/WikiData/WD~neonium ion,64995456]]"
-time_of_discovery_or_invention: "1898-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1898"
 UMLS_CUI: C0027608
 melting_point: -248.6
 subclass_of: "[[_Standards/WikiData/WD~noble gases,19609]]"

@@ -38,10 +38,10 @@ length: 2335
 annual_energy_output: 103.65
 OmegaWiki_Defined_Meaning: 876979
 coordinate_location: "Point(111.00367 30.82386)"
-date_of_official_opening: "2003-01-01T00:00:00Z"
-service_entry: "2003-01-01T00:00:00Z"
-inception: "2003-01-01T00:00:00Z"
-has_time_started: "2003-01-01T00:00:00Z"
+date_of_official_opening: "2003"
+service_entry: "2003"
+inception: "2003"
+has_time_started: "2003"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/ThreeGorgesDam-China2009.jpg"
 Commons_gallery: "Three Gorges Dam"
 Commons_category: "Three Gorges Dam"

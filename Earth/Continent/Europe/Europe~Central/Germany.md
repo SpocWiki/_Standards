@@ -566,7 +566,7 @@ Provenio_UUID: 25109579-f83d-4205-8a35-383a1387c62c
 UMLS_CUI: C0017480
 coordinate_location: "Point(10.0 51.0)"
 coordinates_of_easternmost_point: "Point(15.04178122 51.27279981)"
-time_of_earliest_written_record: "0919-01-01T00:00:00Z"
+time_of_earliest_written_record: "0919"
 ISNI: 0000000122854945
 compulsory_education_maximum_age_: "http://www.wikidata.org/.well-known/genid/74ea97b1ddfcd696f574cf6ab5e78e91"
 coordinates_of_westernmost_point: "Point(5.86636662 51.05110016)"
@@ -587,8 +587,8 @@ coordinates_of_northernmost_point: "Point(8.4193 55.0584)"
 nominal_GDP:
 - 4259934911822
 - 4072191736090
-inception: "1949-05-23T00:00:00Z"
-has_time_started: "1949-05-23T00:00:00Z"
+inception: "1949-05-23"
+has_time_started: "1949-05-23"
 area: 357587.77
 budget: 476290763000
 compulsory_education_minimum_age_:
@@ -707,8 +707,8 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 > The nation's capital and most populous city is [[Germany/Germany~West/State~Berlin/cities~Berlin/Berlin|Berlin]] 
 > and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
 >
-> Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/human-ages/Stone-Age/Paleolithic|Paleolithic]], 
-> with various tribes inhabiting it from the [[../../../../Time-Ages/human-ages/Stone-Age/Neolithic|Neolithic]] onward, chiefly the Celts. 
+> Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic|Paleolithic]], 
+> with various tribes inhabiting it from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~2~Northgrippian/2000-Neolithic|2000-Neolithic]] onward, chiefly the Celts. 
 > 
 > Various Germanic tribes have inhabited the northern parts of modern Germany 
 > since classical antiquity. A region named Germania was documented before AD 100. 
@@ -729,9 +729,9 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 > the Empire was in turn transformed into the semi-presidential Weimar Republic. 
 > 
 > The Nazi seizure of power in 1933 led to the establishment of a totalitarian dictatorship, 
-> [[../../../../Time-Ages/human-ages/History/Modern_History/World_War_II|World War II]], and the [[../../../../Time-Ages/human-ages/History/Modern_History/Holocaust|Holocaust]]. 
+> [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_II|World War II]], and the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Holocaust|Holocaust]]. 
 > 
-> After the end of [[../../../../Time-Ages/human-ages/History/Modern_History/World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
+> After the end of [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
 > Germany as a whole was organized into two separate polities with limited sovereignty: 
 > the [[Germany/Germany~West|Federal Republic of Germany]], generally known as West Germany, 
 > and the [[Germany/Germany~East|German Democratic Republic]], known as [[Germany/Germany~East|East Germany]], 

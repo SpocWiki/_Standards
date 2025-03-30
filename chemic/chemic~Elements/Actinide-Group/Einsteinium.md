@@ -25,7 +25,7 @@ PubChem_CID: 23913
 chemical_formula: Es
 element_symbol: Es
 OmegaWiki_Defined_Meaning: 157713
-time_of_discovery_or_invention: "1952-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1952"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Einsteinium.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-einsteinium.wav"
 canonical_SMILES: '[Es]'

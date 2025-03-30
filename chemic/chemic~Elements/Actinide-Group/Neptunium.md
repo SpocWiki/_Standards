@@ -43,7 +43,7 @@ InChI: InChI=1S/Np
 InChIKey: LFNLGNPSGWYGGD-UHFFFAOYSA-N
 Commons_gallery: Neptunium
 Commons_category: Neptunium
-time_of_discovery_or_invention: "1940-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1940"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Neptunium,1105]] 

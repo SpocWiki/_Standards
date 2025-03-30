@@ -257,8 +257,8 @@ rural_population:
 - 749987
 population: 1264613
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritius.svg"
-inception: "1968-03-12T00:00:00Z"
-has_time_started: "1968-03-12T00:00:00Z"
+inception: "1968-03-12"
+has_time_started: "1968-03-12"
 official_name:
 - Mauritius
 - "République de Maurice"

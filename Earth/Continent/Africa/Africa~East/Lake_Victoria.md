@@ -28,7 +28,7 @@ category_for_the_water_basin: '[[_Standards/WikiData/WD~Q18120944,18120944]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Getting%20out%20to%20fish%20at%20dusk.jpg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kaart%20Victoriameer.png"
 bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Vic%20Bathy.jpg"
-time_of_discovery_or_invention: "1858-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1858"
 basin_country:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Uganda,1036]]'

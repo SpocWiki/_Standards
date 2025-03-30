@@ -98,7 +98,7 @@ Commons_gallery: "Mustafa Kemal Atatürk"
 Commons_category: "Mustafa Kemal Atatürk"
 Libris_URI: vs688wtd0q3f7sf
 birth_name: "Ali Rıza oğlu Mustafa"
-date_of_birth: "1881-01-01T00:00:00Z"
+date_of_birth: "1881"
 nickname:
 - "Türklerin babası"
 - "Father of the Turks"
@@ -118,7 +118,7 @@ place_of_birth: '[[_Standards/WikiData/WD~Thessaloniki,17151]]'
 member_of_political_party: "[[_Standards/WikiData/WD~Republican People's Party,19079]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 height: 174
-date_of_death: "1938-11-10T00:00:00Z"
+date_of_death: "1938-11-10"
 name_in_native_language: "Mustafa Kemal Atatürk"
 ---
 

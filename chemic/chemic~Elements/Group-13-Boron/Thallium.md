@@ -24,7 +24,7 @@ instance_of:
 different_from: '[[_Standards/WikiData/WD~Tal,5576117]]'
 UMLS_CUI: C0039738
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20161.jpg"
-time_of_discovery_or_invention: "1861-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1861"
 subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
 ionic_radius:
 - 1.5

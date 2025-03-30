@@ -175,8 +175,8 @@ rural_population:
 - 901726
 - 906348
 population: 1230506
-inception: "1968-09-06T00:00:00Z"
-has_time_started: "1968-09-06T00:00:00Z"
+inception: "1968-09-06"
+has_time_started: "1968-09-06"
 OmegaWiki_Defined_Meaning: 153704
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg"
 nominal_GDP:

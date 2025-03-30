@@ -320,8 +320,8 @@ population: 2603813
 U_S_National_Archives_Identifier: 10045270
 country_calling_code: +373
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Moldova.svg"
-inception: "1991-08-27T00:00:00Z"
-has_time_started: "1991-08-27T00:00:00Z"
+inception: "1991-08-27"
+has_time_started: "1991-08-27"
 coordinates_of_easternmost_point: "Point(30.16235769 46.41360763)"
 official_name:
 - "Republica Moldova"

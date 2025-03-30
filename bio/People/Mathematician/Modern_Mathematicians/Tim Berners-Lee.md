@@ -113,7 +113,7 @@ JRC_Names_id: 61072
 social_media_followers: 355205
 Commons_gallery: "Tim Berners-Lee"
 Commons_category: "Tim Berners-Lee"
-date_of_birth: "1955-06-08T00:00:00Z"
+date_of_birth: "1955-06-08"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Tim%20Berners-Lee%20%28cropped%29.jpg"
 audio_recording_of_the_subject_s_spoken_voice: "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Berners-Lee%20-%20The%20New%20Elizabethans%20-%2029%20August%202012.flac"
 described_at_URL: "http://www.bbc.co.uk/things/2166d5db-3cd1-4d8a-a066-bddb220ef216#id"

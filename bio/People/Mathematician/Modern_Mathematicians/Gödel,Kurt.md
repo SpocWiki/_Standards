@@ -93,8 +93,8 @@ Krugosvet_article: nauka_i_tehnika/matematika/GEDEL_KURT.html
 Regensburg_Classification: "SF 3305"
 name_in_native_language: "Kurt Friedrich Gödel"
 birth_name: "Kurt Friedrich Gödel"
-date_of_birth: "1906-04-28T00:00:00Z"
-date_of_death: "1978-01-14T00:00:00Z"
+date_of_birth: "1906-04-28"
+date_of_death: "1978-01-14"
 Commons_gallery: "Kurt Gödel"
 Commons_category: "Kurt Gödel"
 image_of_grave:

@@ -143,8 +143,8 @@ spouse: "[[_Standards/WikiData/WD~Juana Pacheco,22340307]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
 child: "[[_Standards/WikiData/WD~Francisca de Silva Velázquez y Pacheco,105748660]]"
-date_of_birth: "1599-06-06T00:00:00Z"
-date_of_baptism: "1599-06-06T00:00:00Z"
+date_of_birth: "1599-06-06"
+date_of_baptism: "1599-06-06"
 ISNI: 0000000121400618
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Vel%C3%A1zquez%2C%20Diego%20Rodr%C3%ADguez%20de%20Silva%20y%201599-1660%2003%20Signatur.jpg"
 work_location:
@@ -174,7 +174,7 @@ Libris_URI: jgvxzq125htnbx4
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/VELASKES_RODRIGES_DIEGO_DE_SILVA-I-VELASKES.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/29527
 birth_name: "Diego Rodríguez de Silva y Velázquez"
-date_of_death: "1660-08-06T00:00:00Z"
+date_of_death: "1660-08-06"
 ---
 
 #has_/time_/started :: 1599-06-06 

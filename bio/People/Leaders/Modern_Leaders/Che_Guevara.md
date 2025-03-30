@@ -68,10 +68,10 @@ number_of_children: 5
 medical_condition: '[[_Standards/WikiData/WD~asthma,35869]]'
 height: 176
 place_of_birth: '[[_Standards/WikiData/WD~Rosario,52535]]'
-date_of_death: "1967-10-09T00:00:00Z"
+date_of_death: "1967-10-09"
 U_S_National_Archives_Identifier: 10580374
 nickname: Che
-date_of_birth: "1928-06-14T00:00:00Z"
+date_of_birth: "1928-06-14"
 Commons_gallery: "Che Guevara"
 Commons_category: "Che Guevara"
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'

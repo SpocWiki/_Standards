@@ -88,8 +88,8 @@ nickname:
 - बापू
 - "बापू जी"
 OmegaWiki_Defined_Meaning: 1444027
-date_of_death: "1948-01-30T00:00:00Z"
-work_period_end_: "1948-01-01T00:00:00Z"
+date_of_death: "1948-01-30"
+work_period_end_: "1948"
 Commons_category: "Mohandas K. Gandhi"
 Commons_Creator_page: "Mohandas K. Gandhi"
 Commons_gallery: "Mohandas K. Gandhi"
@@ -116,11 +116,11 @@ sibling:
 - "[[_Standards/WikiData/WD~Pankunvarben Gandhi,100778902]]"
 - "[[_Standards/WikiData/WD~Laxmidas Karamchand Gandhi,100779061]]"
 - "[[_Standards/WikiData/WD~Karsandas Gandhi,100779088]]"
-work_period_start_: "1893-01-01T00:00:00Z"
+work_period_start_: "1893"
 described_at_URL: "http://gadyakosh.org/gk/महात्मा_गांधी"
 audio_recording_of_the_subject_s_spoken_voice: "http://commons.wikimedia.org/wiki/Special:FilePath/Gandhi%20-%20His%20Spiritual%20Message%20to%20the%20World%2C%2017%20October%201931.mp3"
 ISNI: 0000000121386043
-date_of_birth: "1869-10-02T00:00:00Z"
+date_of_birth: "1869-10-02"
 residence:
 - "[[_Standards/WikiData/WD~South Africa,258]]"
 - '[[_Standards/WikiData/WD~India,668]]'

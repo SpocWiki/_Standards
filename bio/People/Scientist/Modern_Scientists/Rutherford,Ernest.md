@@ -140,7 +140,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
 spouse: "[[_Standards/WikiData/WD~Mary Georgina Rutherford,22287025]]"
 name_in_native_language: "Ernest Rutherford"
-date_of_death: "1937-10-19T00:00:00Z"
+date_of_death: "1937-10-19"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Rutherford%20LOC.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20rutherford%20sig.jpg"
 Krugosvet_article: nauka_i_tehnika/fizika/REZERFORD_ERNEST.html
@@ -151,7 +151,7 @@ father: "[[_Standards/WikiData/WD~James Rutherford,75451548]]"
 mother: "[[_Standards/WikiData/WD~Martha Thompson,75451549]]"
 child: "[[_Standards/WikiData/WD~Eileen Mary Rutherford,75451555]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
-date_of_birth: "1871-08-30T00:00:00Z"
+date_of_birth: "1871-08-30"
 ISNI: 0000000121373664
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=328800832"

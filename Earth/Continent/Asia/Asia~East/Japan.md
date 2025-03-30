@@ -191,7 +191,7 @@ nickname:
 - "Страна Восходящего Солнца"
 - "Terra del sol naixent"
 - "Land der aufgehenden Sonne"
-Gregorian_calendar_start_date: "1873-01-01T00:00:00Z"
+Gregorian_calendar_start_date: "1873"
 nominal_GDP:
 - 5005536736792
 - 4231141201863
@@ -523,8 +523,8 @@ PM20_geo_code: B111
 U_S_National_Archives_Identifier: 10035705
 coordinates_of_easternmost_point: "Point(153.986388888 24.283055555)"
 country_calling_code: +81
-inception: "1947-05-03T00:00:00Z"
-has_time_started: "1947-05-03T00:00:00Z"
+inception: "1947-05-03"
+has_time_started: "1947-05-03"
 official_name: 日本国
 name_in_native_language: 日本国
 coordinate_location: "Point(136.0 35.0)"

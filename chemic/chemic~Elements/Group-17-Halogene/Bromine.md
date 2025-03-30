@@ -42,7 +42,7 @@ OmegaWiki_Defined_Meaning: 434
 mass: 79.904
 Gmelin_number: 1182
 element_symbol: Br
-time_of_discovery_or_invention: "1825-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1825"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Bromine-ar.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bromine%20vial%20in%20acrylic%20cube.jpg"
 Commons_gallery: Bromine

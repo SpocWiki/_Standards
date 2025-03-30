@@ -42,7 +42,7 @@ has_effect:
 - "[[_Standards/WikiData/WD~nickel allergic contact dermatitis,16606544]]"
 - "[[_Standards/WikiData/WD~nickel exposure,21174946]]"
 associated_hazard: "[[_Standards/WikiData/WD~nickel exposure,21174946]]"
-time_of_discovery_or_invention: "1751-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1751"
 oxidation_state:
 - -1
 - 1

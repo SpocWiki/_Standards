@@ -70,7 +70,7 @@ Krugosvet_article: gumanitarnye_nauki/sociologiya/VEBER_MAKS.html
 GitHub_topic: max-weber
 Libris_URI: vs68917d1vbhj88
 birth_name: "Maximilian Carl Emil Weber"
-date_of_death: "1920-06-14T00:00:00Z"
+date_of_death: "1920-06-14"
 spouse: "[[_Standards/WikiData/WD~Marianne Weber,66916]]"
 sibling:
 - "[[_Standards/WikiData/WD~Alfred Weber,76514]]"
@@ -128,7 +128,7 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Weber%27s%2
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Weber%20in%201918.png"
 subreddit: MaxWeber
 ISNI: 000000012145101X
-date_of_birth: "1864-04-21T00:00:00Z"
+date_of_birth: "1864-04-21"
 ---
 
 ## #has_/text_of_/abstract 

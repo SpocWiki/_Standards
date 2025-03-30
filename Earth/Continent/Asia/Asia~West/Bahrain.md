@@ -135,8 +135,8 @@ urban_population:
 - 1322423
 - 1335714
 population: 1569666
-inception: "1971-08-14T00:00:00Z"
-has_time_started: "1971-08-14T00:00:00Z"
+inception: "1971-08-14"
+has_time_started: "1971-08-14"
 coordinates_of_easternmost_point: "Point(50.82483664 25.73997823)"
 coordinates_of_westernmost_point: "Point(50.33137355 26.18209739)"
 nominal_GDP:

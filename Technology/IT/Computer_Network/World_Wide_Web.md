@@ -39,10 +39,10 @@ Commons_category: "World Wide Web"
 short_name:
 - WWW
 - TTT
-inception: "1989-03-12T00:00:00Z"
-has_time_started: "1989-03-12T00:00:00Z"
-time_of_discovery_or_invention: "1990-01-01T00:00:00Z"
-public_domain_date: "1993-04-30T00:00:00Z"
+inception: "1989-03-12"
+has_time_started: "1989-03-12"
+time_of_discovery_or_invention: "1990"
+public_domain_date: "1993-04-30"
 ---
 
 ## #has_/text_of_/abstract 

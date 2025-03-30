@@ -263,8 +263,8 @@ area: 51179.92
 Commons_category: "Costa Rica"
 Commons_gallery: "Costa Rica"
 PM20_geo_code: E70
-inception: "1821-01-01T00:00:00Z"
-has_time_started: "1821-01-01T00:00:00Z"
+inception: "1821"
+has_time_started: "1821"
 ISO_3166_1_alpha_3_code: CRI
 U_S_National_Archives_Identifier: 10044685
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Costa%20Rica.svg"

@@ -441,8 +441,8 @@ CIVICUS_Monitor_country_entry: greece
 subreddit: greece
 hashtag: greece
 GitHub_topic: greece
-inception: "1821-04-06T00:00:00Z"
-has_time_started: "1821-04-06T00:00:00Z"
+inception: "1821-04-06"
+has_time_started: "1821-04-06"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Greece.map"
 Basisklassifikation: 15.69
 ISO_3166_1_alpha_3_code: GRC
@@ -450,7 +450,7 @@ ITU_letter_code: GRC
 Commons_gallery: Ελλάδα
 U_S_National_Archives_Identifier: 10035789
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Greece%20location%20map.svg"
-Gregorian_calendar_start_date: "1923-03-01T00:00:00Z"
+Gregorian_calendar_start_date: "1923-03-01"
 coordinates_of_southernmost_point: "Point(24.09585 34.69698)"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Greece%20on%20the%20globe%20%28Europe%20centered%29.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kompsatos%20river%20bridge%2C%20Thrace.jpg"

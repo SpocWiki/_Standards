@@ -99,7 +99,7 @@ family_name: '[[_Standards/WikiData/WD~Borges,16739664]]'
 second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Acevedo,21449237]]'
 depicted_by: "[[_Standards/WikiData/WD~The Books and the Night,33701838]]"
 documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-date_of_birth: "1899-08-24T00:00:00Z"
+date_of_birth: "1899-08-24"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Borges::f73z4\"]"
 NLC_authorities: 000175496
@@ -131,7 +131,7 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/BORHES_HORHE_LUIS.html
 Colon_Classification: O12397913,3M99
 birth_name: "Jorge Francisco Isidoro Luis Borges Acevedo"
 name_in_native_language: "Jorge Luis Borges"
-date_of_death: "1986-06-14T00:00:00Z"
+date_of_death: "1986-06-14"
 Commons_gallery: "Jorge Luis Borges"
 Commons_category: "Jorge Luis Borges"
 Commons_Creator_page: "Jorge Luis Borges"

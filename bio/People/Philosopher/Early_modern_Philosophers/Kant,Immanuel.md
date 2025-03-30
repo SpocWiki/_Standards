@@ -104,7 +104,7 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/KANT_IMMANUIL.html
 Image_Archive_Herder_Institute: Q9312
 Gujarati_Vishwakosh_entry: કાન્ટ-ઇમાન્યુએલ
 Library_of_Congress_Classification: B2750-B2799
-date_of_death: "1804-02-12T00:00:00Z"
+date_of_death: "1804-02-12"
 Commons_category: "Immanuel Kant"
 Commons_Creator_page: "Immanuel Kant"
 Commons_gallery: "Immanuel Kant"
@@ -123,7 +123,7 @@ described_at_URL:
 - "http://www.digiporta.net/index.php?id=694009055"
 - "http://www.digiporta.net/index.php?id=570896536"
 - "http://www.digiporta.net/index.php?id=848250312"
-date_of_birth: "1724-04-22T00:00:00Z"
+date_of_birth: "1724-04-22"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~Hebrew,9288]]'

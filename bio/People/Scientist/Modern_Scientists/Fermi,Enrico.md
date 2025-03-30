@@ -97,7 +97,7 @@ academic_degree: "[[_Standards/WikiData/WD~Doctor of Philosophy,752297]]"
 manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
 doctoral_advisor: "[[_Standards/WikiData/WD~Luigi Puccianti,3840066]]"
 spouse: "[[_Standards/WikiData/WD~Laura Fermi,6498895]]"
-date_of_birth: "1901-09-29T00:00:00Z"
+date_of_birth: "1901-09-29"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_burial: "[[_Standards/WikiData/WD~Oak Woods Cemetery,7073757]]"
 archives_at: "[[_Standards/WikiData/WD~University of Chicago Library,7895259]]"
@@ -134,7 +134,7 @@ nominated_for:
 - "[[_Standards/WikiData/WD~Nobel Prize in Chemistry,44585]]"
 name_in_native_language: "Enrico Fermi"
 U_S_National_Archives_Identifier: 10582037
-date_of_death: "1954-11-28T00:00:00Z"
+date_of_death: "1954-11-28"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%201943-49.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%20signature.svg"
 NLC_authorities: 043499918

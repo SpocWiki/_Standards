@@ -152,7 +152,7 @@ Google_Doodle: max-plancks-156th-birthday-born-1858
 Krugosvet_article: nauka_i_tehnika/fizika/PLANK_MAKS.html
 Regensburg_Classification: "UB 2720"
 name_in_native_language: "Max Planck"
-date_of_death: "1947-10-04T00:00:00Z"
+date_of_death: "1947-10-04"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
 ISNI: 0000000110245894
 described_at_URL:
@@ -166,7 +166,7 @@ described_at_URL:
 - "http://www.digiporta.net/index.php?id=118976689"
 - "http://www.digiporta.net/index.php?id=959088004"
 birth_name: "Maximilian Karl Ernst Ludwig Planck"
-date_of_birth: "1858-04-23T00:00:00Z"
+date_of_birth: "1858-04-23"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~German,188]]'

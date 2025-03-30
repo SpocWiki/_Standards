@@ -96,7 +96,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pursina.jpg"
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=772078164"
 - "http://www.digiporta.net/index.php?id=735085354"
-date_of_death: "1037-06-24T00:00:00Z"
+date_of_death: "1037-06-24"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Islam,432]]'
 - "[[_Standards/WikiData/WD~Shia Islam,9585]]"
@@ -117,7 +117,7 @@ name: "أبو علي الحسين بن عبد الله بن الحسن بن عل
 birth_name: "أبو علي الحسين بن عبد الله بن الحسن بن علي بن سينا"
 name_in_native_language: "ابن سینا"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Avicenna%2C%20Hamdan.jpg"
-date_of_birth: "0980-01-01T00:00:00Z"
+date_of_birth: "0980"
 ---
 
 #has_/time_/started :: 0980-06 

@@ -188,7 +188,7 @@ on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
 - '[[_Standards/WikiData/WD~The_Women’s_Library_LSESuffrageInterviewsProject,117322976]]'
 bibliography: "[[_Standards/WikiData/WD~Bibliography of Winston Churchill,124055325]]"
-date_of_birth: "1874-11-30T00:00:00Z"
+date_of_birth: "1874-11-30"
 ISNI: 0000000120966628
 described_at_URL: "https://www.gov.uk/government/history/past-prime-ministers/winston-churchill"
 languages_spoken_written_or_signed:
@@ -222,7 +222,7 @@ nickname:
 birth_name: "Winston Leonard Spencer Churchill"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Winston%20Churchill%20-%2019086236948.jpg"
 name_in_native_language: "Winston Churchill"
-date_of_death: "1965-01-24T00:00:00Z"
+date_of_death: "1965-01-24"
 U_S_National_Archives_Identifier: 10583171
 Commons_category: "Winston Churchill"
 Commons_gallery: "Winston Churchill"

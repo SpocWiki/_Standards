@@ -47,7 +47,7 @@ Commons_gallery: Lutetium
 Commons_category: Lutetium
 InChIKey: OHSVLFRHMCKCQY-UHFFFAOYSA-N
 Unicode_character: 鎦
-time_of_discovery_or_invention: "1906-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1906"
 aliases:
 - cassiopeium
 - cassiopium

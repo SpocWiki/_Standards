@@ -44,8 +44,8 @@ name:
 - Cyrillic
 - cyrillique
 native_label: кириллица
-inception: "0870-01-01T00:00:00Z"
-has_time_started: "0870-01-01T00:00:00Z"
+inception: "0870"
+has_time_started: "0870"
 ---
 
 ## #has_/text_of_/abstract 

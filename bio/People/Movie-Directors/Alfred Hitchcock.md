@@ -108,7 +108,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The Times,50008]]"
 documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
-date_of_birth: "1899-08-13T00:00:00Z"
+date_of_birth: "1899-08-13"
 father: "[[_Standards/WikiData/WD~William Hitchcock,109240273]]"
 ISNI: 0000000121318219
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
@@ -119,9 +119,9 @@ native_language: '[[_Standards/WikiData/WD~English,1860]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 height: 170
 influenced_by: "[[_Standards/WikiData/WD~F. W. Murnau,55412]]"
-work_period_end_: "1980-01-01T00:00:00Z"
+work_period_end_: "1980"
 name_in_native_language: "Alfred Hitchcock"
-date_of_death: "1980-04-29T00:00:00Z"
+date_of_death: "1980-04-29"
 U_S_National_Archives_Identifier: 10581331
 pseudonym: Hitchcock
 Commons_category: "Alfred Hitchcock"
@@ -136,7 +136,7 @@ Google_Doodle: alfred-hitchcocks-104th-birthday
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/HICHKOK_ALFRED.html
 Libris_URI: pm13zg274hjzfzr
 birth_name: "Alfred Joseph Hitchcock"
-work_period_start_: "1921-01-01T00:00:00Z"
+work_period_start_: "1921"
 ---
 
 ## #has_/text_of_/abstract 

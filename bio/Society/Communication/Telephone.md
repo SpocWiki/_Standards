@@ -38,7 +38,7 @@ instance_of:
 history_of_topic: "[[_Standards/WikiData/WD~history of the telephone,5870934]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110377305,110377305]]'
 UMLS_CUI: C0039019
-time_of_discovery_or_invention: "1876-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1876"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20wooden%20rotary%20wall-mounted%20phone.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%204050a-2.jpg"

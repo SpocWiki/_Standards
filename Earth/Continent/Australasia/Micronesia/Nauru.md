@@ -208,8 +208,8 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20o
 PM20_geo_code:
 - D8
 - D16
-inception: "1968-01-31T00:00:00Z"
-has_time_started: "1968-01-31T00:00:00Z"
+inception: "1968-01-31"
+has_time_started: "1968-01-31"
 nominal_GDP:
 - 145536603
 - 150922211

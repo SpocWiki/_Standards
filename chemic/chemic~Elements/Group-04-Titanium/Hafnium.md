@@ -4,7 +4,7 @@ SpocWebEntityId: 21968
 has_id_wikidata: Q1119
 InChIKey: VBJZVLUMGGDVMO-UHFFFAOYSA-N
 UNII: X71938L1DO
-time_of_discovery_or_invention: "1922-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1922"
 discoverer_or_inventor:
 - "[[_Standards/WikiData/WD~George de Hevesy,76951]]"
 - "[[_Standards/WikiData/WD~Dirk Coster,775969]]"

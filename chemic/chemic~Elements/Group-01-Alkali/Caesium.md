@@ -42,7 +42,7 @@ Common_Procurement_Vocabulary_code:
 electron_configuration:
 - "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s¹"
 - "[Xe] 6s¹"
-time_of_discovery_or_invention: "1860-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1860"
 mass: 132.90545196
 different_from: '[[_Standards/WikiData/WD~cerium,1385]]'
 location_of_discovery: '[[_Standards/WikiData/WD~Heidelberg,2966]]'

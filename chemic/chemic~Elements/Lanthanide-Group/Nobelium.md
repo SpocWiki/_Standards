@@ -22,7 +22,7 @@ PubChem_CID: 24822
 OmegaWiki_Defined_Meaning: 339858
 chemical_formula: No
 element_symbol: No
-time_of_discovery_or_invention: "1958-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1958"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20102%20Nobelium.svg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-nob%C3%A9lium.wav"
 canonical_SMILES: '[No]'

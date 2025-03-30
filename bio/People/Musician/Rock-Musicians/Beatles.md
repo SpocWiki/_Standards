@@ -120,15 +120,15 @@ country_of_origin: "[[_Standards/WikiData/WD~United Kingdom,145]]"
 social_media_followers:
 - 8720000
 - 3882367
-dissolved_abolished_or_demolished_date: "1970-04-10T00:00:00Z"
-has_time_stopped: "1970-04-10T00:00:00Z"
-work_period_end_: "1970-04-10T00:00:00Z"
+dissolved_abolished_or_demolished_date: "1970-04-10"
+has_time_stopped: "1970-04-10"
+work_period_end_: "1970-04-10"
 name: "The Beatles"
 Commons_gallery: "The Beatles"
 Commons_category: "The Beatles"
-inception: "1960-01-01T00:00:00Z"
-has_time_started: "1960-01-01T00:00:00Z"
-work_period_start_: "1960-01-01T00:00:00Z"
+inception: "1960"
+has_time_started: "1960"
+work_period_start_: "1960"
 ---
 
 ## #has_/text_of_/abstract 

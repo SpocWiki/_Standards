@@ -15,7 +15,7 @@ named_after: "[[_Standards/WikiData/WD~Ernest Rutherford,9123]]"
 subclass_of: "[[_Standards/WikiData/WD~transition metal,19588]]"
 atomic_number: 104
 OmegaWiki_Defined_Meaning: 353376
-time_of_discovery_or_invention: "1964-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1964"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20104%20Rutherfordium.svg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-rutherfordium.wav"
 canonical_SMILES: '[Rf]'

@@ -148,7 +148,7 @@ archives_at: "[[_Standards/WikiData/WD~ETH Zurich University Archives,39934978]]
 academic_thesis: "[[_Standards/WikiData/WD~Über invariante Eigenschaften specieller binärer Formen, insbesondere der Kugelfunctionen,57883806]]"
 spouse: "[[_Standards/WikiData/WD~Käthe Hilbert,94754128]]"
 ISNI: 0000000108956224
-date_of_birth: "1862-01-23T00:00:00Z"
+date_of_birth: "1862-01-23"
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=156131556"
 - "http://www.digiporta.net/index.php?id=141244042"
@@ -170,7 +170,7 @@ nominated_for: "[[_Standards/WikiData/WD~Nobel Prize in Physics,38104]]"
 Commons_category: "David Hilbert"
 Commons_gallery: "David Hilbert"
 ACM_Classification_Code_2012_: 10011384
-date_of_death: "1943-02-14T00:00:00Z"
+date_of_death: "1943-02-14"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6ttingen%20Stadtfriedhof%20Grab%20David%20Hilbert.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hilbert.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%A1%20%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%9F.wav"

@@ -129,14 +129,14 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 studied_in: "[[_Standards/WikiData/WD~Shakespeare studies,101243133]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen Leest,101246526]]"
 present_in_work: "[[_Standards/WikiData/WD~Star Trek_ The Original Series Core Game Book,115519946]]"
-date_of_burial_or_cremation: "1616-05-05T00:00:00Z"
-date_of_death: "1616-05-03T00:00:00Z"
+date_of_burial_or_cremation: "1616-05-05"
+date_of_death: "1616-05-03"
 Provenio_UUID: b1f3fb4e-6800-4915-be86-a583876c6cc1
 NLC_authorities: 038034636
 ISNI: 0000000121032683
 ORCID_iD: 0000-0002-6710-8441
-date_of_baptism: "1564-05-06T00:00:00Z"
-date_of_birth: "1564-04-01T00:00:00Z"
+date_of_baptism: "1564-05-06"
+date_of_birth: "1564-04-01"
 genre:
 - '[[_Standards/WikiData/WD~poetry,482]]'
 - '[[_Standards/WikiData/WD~play,25379]]'

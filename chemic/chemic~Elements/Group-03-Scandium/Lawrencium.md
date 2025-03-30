@@ -17,7 +17,7 @@ electronegativity: 1.3
 atomic_number: 103
 PubChem_CID: 31192
 OmegaWiki_Defined_Meaning: 161353
-time_of_discovery_or_invention: "1961-02-14T00:00:00Z"
+time_of_discovery_or_invention: "1961-02-14"
 chemical_formula: Lr
 element_symbol: Lr
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20103%20Lawrencium.svg"

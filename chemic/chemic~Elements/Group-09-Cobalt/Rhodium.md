@@ -4,7 +4,7 @@ SpocWebEntityId: 21943
 has_id_wikidata: Q1087
 OmegaWiki_Defined_Meaning: 349380
 CPV_Supplementary_code: AA22
-time_of_discovery_or_invention: "1803-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1803"
 Commons_gallery: Rhodium
 Commons_category: Rhodium
 Common_Procurement_Vocabulary_code:

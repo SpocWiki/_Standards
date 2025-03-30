@@ -829,7 +829,7 @@ rural_population:
 - 36964045
 - 36668590
 coordinates_of_easternmost_point: "Point(-169.056944444 65.781111111)"
-Gregorian_calendar_start_date: "1918-02-14T00:00:00Z"
+Gregorian_calendar_start_date: "1918-02-14"
 male_population:
 - 66987198
 - 67227319
@@ -856,8 +856,8 @@ life_expectancy: 71.59293
 coordinates_of_northernmost_point: "Point(59.239444444 81.843055555)"
 Image_Archive_Herder_Institute: Q159
 country_calling_code: +7
-inception: "1991-12-25T00:00:00Z"
-has_time_started: "1991-12-25T00:00:00Z"
+inception: "1991-12-25"
+has_time_started: "1991-12-25"
 PM20_geo_code: A50(1)
 U_S_National_Archives_Identifier: 10044286
 geoshape: "http://commons.wikimedia.org/data/main/Data:Russia.map"

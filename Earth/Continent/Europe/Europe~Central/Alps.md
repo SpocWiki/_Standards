@@ -22,7 +22,7 @@ subclass_of:
 - "[[_Standards/WikiData/WD~powder explosive,21290872]]"
 history_of_topic: "[[_Standards/WikiData/WD~history of gunpowder,3137297]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Czarny%20proch%20Vesuvit%20LC%20%283%29.jpg"
-time_of_discovery_or_invention: "0900-01-01T00:00:00Z"
+time_of_discovery_or_invention: "0900"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Berthold Schwarz,64236]]"
 Nomenclature_for_Museum_Cataloging: 7771
 Commons_category: Gunpowder

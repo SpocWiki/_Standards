@@ -80,12 +80,12 @@ documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject New York Public Library,121437821]]"
 sibling: "[[_Standards/WikiData/WD~Fritz Brahms,125459269]]"
-date_of_death: "1897-04-03T00:00:00Z"
+date_of_death: "1897-04-03"
 Google_Doodle: johannes-brahmss-190th-birthday
 ISNI: 0000000121195925
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Johannes%20Brahms.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Johannes%20Brahms.ogg"
-work_period_start_: "1843-01-01T00:00:00Z"
+work_period_start_: "1843"
 country_of_citizenship: '[[_Standards/WikiData/WD~Hamburg,1055]]'
 place_of_birth: '[[_Standards/WikiData/WD~Hamburg,1055]]'
 residence: '[[_Standards/WikiData/WD~Vienna,1741]]'
@@ -96,8 +96,8 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 influenced_by:
 - "[[_Standards/WikiData/WD~Wolfgang Amadeus Mozart,254]]"
 - "[[_Standards/WikiData/WD~Ludwig van Beethoven,255]]"
-date_of_baptism: "1833-05-26T00:00:00Z"
-date_of_birth: "1833-05-07T00:00:00Z"
+date_of_baptism: "1833-05-26"
+date_of_birth: "1833-05-07"
 Krugosvet_article: kultura_i_obrazovanie/muzyka/BRAMS_IOGANNES.html
 name_in_native_language: "Johannes Brahms"
 Commons_category: "Johannes Brahms"

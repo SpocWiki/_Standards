@@ -84,7 +84,7 @@ described_by_source:
 occupation: "[[_Standards/WikiData/WD~theoretical physicist,19350898]]"
 family_name: '[[_Standards/WikiData/WD~Pauli,32860671]]'
 archives_at: "[[_Standards/WikiData/WD~ETH Zurich University Archives,39934978]]"
-date_of_birth: "1900-04-25T00:00:00Z"
+date_of_birth: "1900-04-25"
 place_of_burial: "[[_Standards/WikiData/WD~Zollikon cemetery,102348640]]"
 academic_thesis: "[[_Standards/WikiData/WD~Über das Modell des Wasserstoff-Molekülions,106407308]]"
 spouse:
@@ -92,7 +92,7 @@ spouse:
 - "[[_Standards/WikiData/WD~Käthe Margarethe Deppner,108667561]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Pauli%2C%20Wolfgang.tif"
 Libris_URI: 20dgj9vl4dzz19l
-date_of_death: "1958-12-15T00:00:00Z"
+date_of_death: "1958-12-15"
 Commons_category: "Wolfgang Pauli"
 Commons_gallery: "Wolfgang Pauli"
 Krugosvet_article: nauka_i_tehnika/fizika/PAULI_VOLFGANG.html

@@ -23,7 +23,7 @@ Krugosvet_article: nauka_i_tehnika/biologiya/GORMONI.html
 UMLS_CUI: C0019932
 Library_of_Congress_Classification: QP571-QP572
 Commons_category: Hormones
-time_of_discovery_or_invention: "1902-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1902"
 ---
 
 ## #has_/text_of_/abstract 

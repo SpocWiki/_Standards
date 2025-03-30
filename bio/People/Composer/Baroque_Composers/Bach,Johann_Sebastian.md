@@ -156,8 +156,8 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"JohannSebastianBach::239gh\
 Royal_Academy_new_identifier: johann-sebastian-bach
 Libris_URI: ljx00n545p9mmng
 name_in_native_language: "Johann Sebastian Bach"
-date_of_baptism: "1685-04-02T00:00:00Z"
-date_of_birth: "1685-03-31T00:00:00Z"
+date_of_baptism: "1685-04-02"
+date_of_birth: "1685-03-31"
 Commons_category: "Johann Sebastian Bach"
 Commons_gallery: "Johann Sebastian Bach"
 Commons_Creator_page: "Johann Sebastian Bach"
@@ -185,12 +185,12 @@ discography: "[[_Standards/WikiData/WD~Johann Sebastian Bach discography,5982701
 has_works_in_the_collection: "[[_Standards/WikiData/WD~Procuratoria di San Marco musical archive,64348192]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Christian Hymns,100975219]]"
-date_of_death: "1750-07-28T00:00:00Z"
+date_of_death: "1750-07-28"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Johann%20Sebastian%20Bach.ogg"
 Baidu_Tieba_name: 巴赫
 ISNI: 0000000122764157
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Sebastian%20Bach.png"
-work_period_start_: "1710-01-01T00:00:00Z"
+work_period_start_: "1710"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~Italian,652]]'

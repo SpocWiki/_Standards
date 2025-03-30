@@ -13,7 +13,7 @@ occupation:
 - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
 - "[[_Standards/WikiData/WD~army officer,38239859]]"
 height: 174
-date_of_death: "1938-11-10T00:00:00Z"
+date_of_death: "1938-11-10"
 name_in_native_language: "Mustafa Kemal Atatürk"
 ethnic_group: '[[_Standards/WikiData/WD~Turks,84072]]'
 cause_of_death: "[[_Standards/WikiData/WD~liver cirrhosis,147778]]"
@@ -103,7 +103,7 @@ Commons_Creator_page: "Mustafa Kemal Atatürk"
 Commons_gallery: "Mustafa Kemal Atatürk"
 Libris_URI: vs688wtd0q3f7sf
 birth_name: "Ali Rıza oğlu Mustafa"
-date_of_birth: "1881-01-01T00:00:00Z"
+date_of_birth: "1881"
 nickname:
 - "Türklerin babası"
 - "Father of the Turks"

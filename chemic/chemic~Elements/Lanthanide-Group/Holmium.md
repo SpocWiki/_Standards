@@ -22,7 +22,7 @@ made_from_material:
 - "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
 - "[[_Standards/WikiData/WD~gadolinite group,18043462]]"
 - "[[_Standards/WikiData/WD~monazite sands,115626544]]"
-time_of_discovery_or_invention: "1878-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1878"
 UMLS_CUI: C0019846
 named_after: '[[_Standards/WikiData/WD~Stockholm,1754]]'
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"

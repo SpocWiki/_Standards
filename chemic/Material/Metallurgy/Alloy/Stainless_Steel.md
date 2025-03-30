@@ -22,7 +22,7 @@ MeSH_tree_code:
 - D01.552.033.847.681
 - D25.058.807.681
 - J01.637.051.058.807.681
-time_of_discovery_or_invention: "1872-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1872"
 has_part_s_:
 - '[[_Standards/WikiData/WD~chromium,725]]'
 - '[[_Standards/WikiData/WD~steel,11427]]'

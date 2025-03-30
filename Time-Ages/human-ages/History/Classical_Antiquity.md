@@ -8,7 +8,7 @@ aliases:
 Commons_category: "Ancient history"
 described_by_source:
   - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-end_time: "0500-01-01T00:00:00Z"
+end_time: "0500"
 facet_of:
   - "[[_Standards/WikiData/WD~Greco-Roman world,937284]]"
 follows: "[[_Standards/WikiData/WD~Early antiquity,98270938]]"
@@ -30,8 +30,8 @@ instance_of:
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Mediterranean Basin,72499]]"
 Provenio_UUID: 6ed0abb9-8760-428d-bbf2-89754e4fd8ef
 start_time:
-  - "-0798-01-01T00:00:00Z"
-  - "-1198-01-01T00:00:00Z"
+  - "-0798"
+  - "-1198"
 studied_in:
   - "[[_Standards/WikiData/WD~Classical Greek and Roman history,112939719]]"
   - "[[_Standards/WikiData/WD~classical philology,495527]]"

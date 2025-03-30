@@ -78,7 +78,7 @@ BHCL_UUID:
 - 937f5058-8de8-41ba-8c90-35d837c86c5d
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/2009%2011%20riemann%20008.jpg"
 ISNI: 0000000108653450
-date_of_death: "1866-07-20T00:00:00Z"
+date_of_death: "1866-07-20"
 described_at_URL: "http://www.digiporta.net/index.php?id=551078548"
 place_of_death: '[[_Standards/WikiData/WD~Verbania,3639]]'
 doctoral_advisor: "[[_Standards/WikiData/WD~Carl Friedrich Gauss,6722]]"
@@ -88,7 +88,7 @@ influenced_by: "[[_Standards/WikiData/WD~Johann Peter Gustav Lejeune Dirichlet,2
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
-date_of_birth: "1826-09-17T00:00:00Z"
+date_of_birth: "1826-09-17"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Bernhard%20Riemann%20signature.png"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Friedrich%20Bernhard%20Riemann.jpeg"
 Commons_category: "Bernhard Riemann"

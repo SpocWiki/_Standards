@@ -85,7 +85,7 @@ spouse: "[[_Standards/WikiData/WD~Annemarie Schrödinger,94742201]]"
 doctoral_student: "[[_Standards/WikiData/WD~Franz Zeilinger,102442697]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
 family_name: '[[_Standards/WikiData/WD~Schrödinger,105061814]]'
-date_of_birth: "1887-08-12T00:00:00Z"
+date_of_birth: "1887-08-12"
 ISNI: 0000000109035603
 place_of_death: '[[_Standards/WikiData/WD~Vienna,1741]]'
 place_of_birth: '[[_Standards/WikiData/WD~Vienna,1741]]'
@@ -110,7 +110,7 @@ name_in_native_language: "Erwin Schrödinger"
 nominated_for: "[[_Standards/WikiData/WD~Nobel Prize in Physics,38104]]"
 lifestyle: '[[_Standards/WikiData/WD~mysticism,45996]]'
 NLC_authorities: 000089173
-date_of_death: "1961-01-04T00:00:00Z"
+date_of_death: "1961-01-04"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Erwin%20Schr%C3%B6dinger%20-%20Narodowe%20Archiwum%20Cyfrowe%20%281-E-939%29.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Erwin%20Schr%C3%B6dinger%20signature.svg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Friedhof%20Alpbach.jpg"

@@ -122,7 +122,7 @@ genre:
 - "[[_Standards/WikiData/WD~family film,1361932]]"
 sibling: "[[_Standards/WikiData/WD~Roy O. Disney,347432]]"
 spouse: "[[_Standards/WikiData/WD~Lillian Disney,434814]]"
-date_of_birth: "1901-12-05T00:00:00Z"
+date_of_birth: "1901-12-05"
 religion_or_worldview: "[[_Standards/WikiData/WD~Congregational churches,1062789]]"
 field_of_work: "[[_Standards/WikiData/WD~young adult literature,1233720]]"
 place_of_burial: "[[_Standards/WikiData/WD~Forest Lawn Memorial Park,1437214]]"
@@ -136,11 +136,11 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%20Grave.JPG"
 NLC_authorities: 000129345
-work_period_start_: "1920-01-01T00:00:00Z"
+work_period_start_: "1920"
 ArhivX_LOD: 7035
 name_in_native_language: "Walt Disney"
-date_of_death: "1966-12-15T00:00:00Z"
-work_period_end_: "1966-11-01T00:00:00Z"
+date_of_death: "1966-12-15"
+work_period_end_: "1966-11-01"
 Commons_gallery: "Walt Disney"
 Commons_category: "Walt Disney"
 Commons_Creator_page: "Walt Disney"

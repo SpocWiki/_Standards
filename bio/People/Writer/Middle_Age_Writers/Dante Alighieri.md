@@ -110,13 +110,13 @@ attested_in:
 - "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
 - "[[_Standards/WikiData/WD~Mare Magnum. Etruria (vol. 95),118466009]]"
 ISNI: 0000000121446210
-date_of_death: "1321-09-22T00:00:00Z"
-work_period_end_: "1321-01-01T00:00:00Z"
+date_of_death: "1321-09-22"
+work_period_end_: "1321"
 CYT_CCS:
 - AC000190760
 - AC000082498
 birth_name: "Dante da Alaghiero degli Alaghieri"
-work_period_start_: "1292-01-01T00:00:00Z"
+work_period_start_: "1292"
 writing_language:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~Italian,652]]'
@@ -160,7 +160,7 @@ Commons_gallery: "Dante Alighieri"
 Royal_Academy_new_identifier: dante-alighieri
 Krugosvet_article: kultura_i_obrazovanie/literatura/DANTE_ALIGERI.html
 Colon_Classification: O121,1G65
-date_of_birth: "1265-01-01T00:00:00Z"
+date_of_birth: "1265"
 ---
 
 ## #has_/text_of_/abstract 

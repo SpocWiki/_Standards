@@ -115,7 +115,7 @@ given_name: '[[_Standards/WikiData/WD~Alexandros,19828977]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828658,22828658]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
 different_from: "[[_Standards/WikiData/WD~Pseudo-Alexander the Great,115561503]]"
-date_of_birth: "-0355-07-15T00:00:00Z"
+date_of_birth: "-0355-07-15"
 Commons_gallery: "Alexander the Great"
 Commons_category: "Alexander the Great"
 Iconclass_notation: "98B(ALEXANDER THE GREAT)"
@@ -123,7 +123,7 @@ Iconclass_notation: "98B(ALEXANDER THE GREAT)"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20the%20Great%20mosaic%20%28cropped%29.jpg"
 ISNI: 0000000122835816
 described_at_URL: "http://www.digiporta.net/index.php?id=634550643"
-date_of_death: "-0322-06-05T00:00:00Z"
+date_of_death: "-0322-06-05"
 influenced_by: '[[_Standards/WikiData/WD~Aristotle,868]]'
 place_of_death: '[[_Standards/WikiData/WD~Babylon,5684]]'
 noble_title: '[[_Standards/WikiData/WD~king,12097]]'

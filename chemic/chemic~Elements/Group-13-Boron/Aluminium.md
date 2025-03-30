@@ -87,7 +87,7 @@ element_symbol: Al
 canonical_SMILES: '[Al]'
 E_number: E173
 UNSPSC_Code: 11101705
-time_of_discovery_or_invention: "1825-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1825"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Aluminium-4.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A3%D9%84%D9%88%D9%85%D9%86%D9%8A%D9%88%D9%85.wav"
 electron_configuration:

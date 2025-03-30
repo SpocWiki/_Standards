@@ -102,12 +102,12 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/MAHFUZ_NAGIB.html
 Google_Doodle: naguib-mahfouzs-birthday
 name_in_native_language: "نجيب محفوظ"
 birth_name: "نجيب محفوظ عبد العزيز إبراهيم أحمد الباشا"
-date_of_death: "2006-08-30T00:00:00Z"
-date_of_burial_or_cremation: "2006-08-31T00:00:00Z"
-work_period_start_: "1932-01-01T00:00:00Z"
-date_of_birth: "1911-12-11T00:00:00Z"
+date_of_death: "2006-08-30"
+date_of_burial_or_cremation: "2006-08-31"
+work_period_start_: "1932"
+date_of_birth: "1911-12-11"
 Commons_category: "Naguib Mahfouz"
-work_period_end_: "2004-01-01T00:00:00Z"
+work_period_end_: "2004"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Necip%20Mahfuz.jpg"
 Libris_URI: 1zcfg80k3k3f5gw
 BHCL_UUID: 47e8e468-f719-43c6-bf71-2c44e6ea2b0d

@@ -78,7 +78,7 @@ depicted_by:
 - "[[_Standards/WikiData/WD~John Locke (1632–1704),119932629]]"
 - "[[_Standards/WikiData/WD~John Locke,119951956]]"
 ISNI: 0000000121272329
-date_of_death: "1704-11-08T00:00:00Z"
+date_of_death: "1704-11-08"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
@@ -92,7 +92,7 @@ Libris_URI: 53hkmkrp1gq7nrd
 Regensburg_Classification: "BF 4185"
 Krugosvet_article: filosofiya/lokk-dzhon
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/45303
-date_of_birth: "1632-09-08T00:00:00Z"
+date_of_birth: "1632-09-08"
 name_in_native_language: "John Locke"
 Commons_gallery: "John Locke"
 Commons_category: "John Locke"

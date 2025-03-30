@@ -9,7 +9,7 @@ thermal_conductivity: 0.1805
 density: 0.08987
 ionization_energy: 13.598
 refractive_index: 1.000132
-time_of_discovery_or_invention: "1766-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1766"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Henry Cavendish,131733]]"
 has_use: "[[_Standards/WikiData/WD~food additive,189567]]"
 part_of:

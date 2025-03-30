@@ -226,10 +226,10 @@ ethnic_group: "[[_Standards/WikiData/WD~African Americans,49085]]"
 name_in_native_language: "Michael Jackson"
 Commons_gallery: "Michael Jackson"
 Commons_category: "Michael Jackson"
-work_period_start_: "1964-01-01T00:00:00Z"
-date_of_birth: "1958-08-29T00:00:00Z"
-work_period_end_: "2009-01-01T00:00:00Z"
-date_of_death: "2009-06-25T00:00:00Z"
+work_period_start_: "1964"
+date_of_birth: "1958-08-29"
+work_period_end_: "2009"
+date_of_death: "2009-06-25"
 U_S_National_Archives_Identifier: 10569140
 ---
 

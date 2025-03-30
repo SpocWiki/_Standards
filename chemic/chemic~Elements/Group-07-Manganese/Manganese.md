@@ -21,7 +21,7 @@ InChIKey: PWHULOQIROXLJO-UHFFFAOYSA-N
 Unicode_character: 錳
 CPV_Supplementary_code: AA15
 mass: 54.938043
-time_of_discovery_or_invention: "1774-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1774"
 part_of:
 - "[[_Standards/WikiData/WD~group 7,202602]]"
 - "[[_Standards/WikiData/WD~period 4,239825]]"

@@ -42,7 +42,7 @@ described_by_source:
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
 - "[[_Standards/WikiData/WD~chemical element,11344]]"
-time_of_discovery_or_invention: "1755-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1755"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20magnesium%20crystal.webm"
 different_from: '[[_Standards/WikiData/WD~manganese,731]]'
 location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"

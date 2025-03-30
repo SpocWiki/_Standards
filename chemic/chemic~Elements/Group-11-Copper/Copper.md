@@ -66,7 +66,7 @@ has_effect: "[[_Standards/WikiData/WD~copper exposure,21174096]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q29583093,29583093]]'
 - '[[_Standards/WikiData/WD~Q55744201,55744201]]'
-time_of_discovery_or_invention: "-7000-01-01T00:00:00Z"
+time_of_discovery_or_invention: "-7000"
 vapor_pressure: 0
 compressive_modulus_of_elasticity: 100
 immediately_dangerous_to_life_or_health: 100

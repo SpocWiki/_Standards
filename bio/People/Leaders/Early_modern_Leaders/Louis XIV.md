@@ -111,7 +111,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Provenance,98801351]]"
 Provenio_UUID: 9a2ee87e-0977-4533-993c-96d81b0691a0
 ISNI: 0000000383255772
-date_of_death: "1715-09-01T00:00:00Z"
+date_of_death: "1715-09-01"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~French,150]]'
@@ -126,8 +126,8 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/18975
 nickname:
 - "le Roi Soleil"
 - "Louis le Grand"
-date_of_baptism: "1643-04-21T00:00:00Z"
-date_of_birth: "1638-09-05T00:00:00Z"
+date_of_baptism: "1643-04-21"
+date_of_birth: "1638-09-05"
 Commons_Creator_page: "Louis XIV of France"
 Commons_category: "Louis XIV of France"
 name_in_native_language: "Louis XIV"

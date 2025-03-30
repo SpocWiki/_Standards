@@ -58,7 +58,7 @@ documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 patronym_or_matronym: '[[_Standards/WikiData/WD~Mikhailovich,108652455]]'
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard Film Archive Project,111249030]]"
-date_of_birth: "1898-01-22T00:00:00Z"
+date_of_birth: "1898-01-22"
 ISNI: 000000012133987X
 place_of_death: '[[_Standards/WikiData/WD~Moscow,649]]'
 place_of_birth: '[[_Standards/WikiData/WD~Riga,1773]]'
@@ -70,11 +70,11 @@ country_of_citizenship:
 - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
 - "[[_Standards/WikiData/WD~Russian Empire,34266]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-date_of_death: "1948-02-11T00:00:00Z"
-work_period_end_: "1945-01-01T00:00:00Z"
+date_of_death: "1948-02-11"
+work_period_end_: "1945"
 Commons_category: "Sergei Eisenstein"
 Commons_Creator_page: "Sergei Eisenstein"
-work_period_start_: "1924-01-01T00:00:00Z"
+work_period_start_: "1924"
 ---
 
 ## #has_/text_of_/abstract 

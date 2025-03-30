@@ -305,8 +305,8 @@ Commons_gallery: العراق
 Gujarati_Vishwakosh_entry: ઇરાક
 short_name: "\U0001F1EE\U0001F1F6"
 population: 38274618
-inception: "1932-01-01T00:00:00Z"
-has_time_started: "1932-01-01T00:00:00Z"
+inception: "1932"
+has_time_started: "1932"
 licence_plate_code: IRQ
 ISO_3166_1_alpha_3_code: IRQ
 IOC_country_code: IRQ

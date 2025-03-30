@@ -44,7 +44,7 @@ atomic_number: 97
 PubChem_CID: 23971
 OmegaWiki_Defined_Meaning: 156441
 Unicode_character: 鉳
-time_of_discovery_or_invention: "1949-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1949"
 chemical_formula: Bk
 element_symbol: Bk
 ---

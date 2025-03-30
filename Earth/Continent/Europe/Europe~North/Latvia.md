@@ -426,8 +426,8 @@ official_name:
 - "Republiken Lettland"
 short_name: "\U0001F1F1\U0001F1FB"
 coordinate_location: "Point(25.0 57.0)"
-inception: "1918-11-18T00:00:00Z"
-has_time_started: "1918-11-18T00:00:00Z"
+inception: "1918-11-18"
+has_time_started: "1918-11-18"
 coordinates_of_southernmost_point: "Point(26.5967685 55.67478947)"
 area:
 - 62226.85

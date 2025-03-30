@@ -420,8 +420,8 @@ ITU_letter_code: PAK
 male_population: 106018220
 official_website: "http://www.pakistan.gov.pk"
 number_of_out_of_school_children: 20799612
-inception: "1947-08-14T00:00:00Z"
-has_time_started: "1947-08-14T00:00:00Z"
+inception: "1947-08-14"
+has_time_started: "1947-08-14"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Pakistan.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Dudipat%20WV%20Panorama.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Pakistan.ogg"

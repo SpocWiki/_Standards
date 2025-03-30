@@ -293,8 +293,8 @@ Commons_category: Niger
 subreddit: Niger
 Commons_gallery: Niger
 hashtag: Niger
-inception: "1960-01-01T00:00:00Z"
-has_time_started: "1960-01-01T00:00:00Z"
+inception: "1960"
+has_time_started: "1960"
 female_population:
 - 11553632
 - 11991269

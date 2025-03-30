@@ -11,8 +11,8 @@ social_media_followers:
 - 129671
 - 13800
 EU_Corporate_body_code: ICJ
-inception: "1945-01-01T00:00:00Z"
-has_time_started: "1945-01-01T00:00:00Z"
+inception: "1945"
+has_time_started: "1945"
 chairperson: "[[_Standards/WikiData/WD~Nawaf Salam,638463]]"
 different_from:
 - "[[_Standards/WikiData/WD~International Commission of Jurists,684800]]"

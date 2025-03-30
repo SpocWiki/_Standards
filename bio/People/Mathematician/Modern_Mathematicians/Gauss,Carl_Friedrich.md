@@ -143,7 +143,7 @@ ISNI: 0000000121257962
 plaque_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6ttinger%20Gedenktafel%20Carl%20Friedrich%20Gau%C3%9F%20%26%20Wilhelm%20Eduard%20Weber%20Geismarer%20Landstr.%2011.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6ttinger%20Gedenktafel%20-%20Gau%C3%9F%2C%20Carl%20Friedrich%20%28Kurze-Geismar-Stra%C3%9Fe%2025%29.jpg"
-date_of_death: "1855-02-23T00:00:00Z"
+date_of_death: "1855-02-23"
 writing_language:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~German,188]]'
@@ -159,7 +159,7 @@ ArhivX_LOD: 41529
 Commons_category: "Carl Friedrich Gauß"
 Commons_Creator_page: "Carl Friedrich Gauß"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Friedrich%20Gauss.jpg"
-date_of_birth: "1777-04-30T00:00:00Z"
+date_of_birth: "1777-04-30"
 ---
 
 ## #has_/text_of_/abstract 

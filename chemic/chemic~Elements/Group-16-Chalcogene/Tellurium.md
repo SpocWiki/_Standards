@@ -5,7 +5,7 @@ has_id_wikidata: Q1100
 Commons_gallery: Tellurium
 Commons_category: Tellurium
 RTECS_number: WY2625000
-time_of_discovery_or_invention: "1783-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1783"
 part_of:
 - "[[_Standards/WikiData/WD~group 16,104567]]"
 - "[[_Standards/WikiData/WD~period 5,244982]]"

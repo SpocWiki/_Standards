@@ -105,8 +105,8 @@ country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 native_language: '[[_Standards/WikiData/WD~French,150]]'
-date_of_death: "1980-04-15T00:00:00Z"
-date_of_burial_or_cremation: "1980-04-23T00:00:00Z"
+date_of_death: "1980-04-15"
+date_of_burial_or_cremation: "1980-04-23"
 Commons_category: "Jean-Paul Sartre"
 Commons_Creator_page: "Jean-Paul Sartre"
 Commons_gallery: "Jean-Paul Sartre"
@@ -124,7 +124,7 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/SARTR_ZHAN_POL.html
 Swedish_Royal_Theater_Archive: Person/865
 birth_name: "Jean-Paul Charles Aymard Sartre"
 name_in_native_language: "Jean-Paul Sartre"
-date_of_birth: "1905-06-21T00:00:00Z"
+date_of_birth: "1905-06-21"
 ---
 
 ## #has_/text_of_/abstract 

@@ -85,7 +85,7 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_John Maynard Keynes,13
 position_held: "[[_Standards/WikiData/WD~member of the House of Lords,18952564]]"
 family_name: '[[_Standards/WikiData/WD~Keynes,23908925]]'
 depicted_by: "[[_Standards/WikiData/WD~John Maynard Keynes, Baron Keynes; Lydia Lopokova,28051495]]"
-date_of_birth: "1883-06-05T00:00:00Z"
+date_of_birth: "1883-06-05"
 ISNI: 0000000121258885
 place_of_birth: '[[_Standards/WikiData/WD~Cambridge,350]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -102,7 +102,7 @@ BHCL_UUID: dae9d032-17c9-4798-9c9a-b8bdf862b80b
 Krugosvet_article: ekonomika-i-pravo/keyns-dzhon-meynard
 Libris_URI: sq467g7b2jfmbsk
 name_in_native_language: "John Maynard Keynes"
-date_of_death: "1946-04-21T00:00:00Z"
+date_of_death: "1946-04-21"
 ---
 
 ## #has_/text_of_/abstract 

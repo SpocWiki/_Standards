@@ -376,8 +376,8 @@ permanent_duplicated_item:
 executive_body: "[[_Standards/WikiData/WD~Government of Denmark,24039188]]"
 open_data_portal: "[[_Standards/WikiData/WD~Open Data DK,97014270]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
-inception: "0800-01-01T00:00:00Z"
-has_time_started: "0800-01-01T00:00:00Z"
+inception: "0800"
+has_time_started: "0800"
 NUTS_code:
 - DK0
 - DK
@@ -455,7 +455,7 @@ nominal_GDP:
 - 398303272764
 - 395403906582
 coordinate_location: "Point(10.0 56.0)"
-Gregorian_calendar_start_date: "1700-03-01T00:00:00Z"
+Gregorian_calendar_start_date: "1700-03-01"
 ISO_3166_1_alpha_2_code: DK
 WIPO_ST_3: DK
 UIC_alphabetical_country_code: DK

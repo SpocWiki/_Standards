@@ -224,8 +224,8 @@ male_population:
 ISO_3166_1_alpha_3_code: BDI
 ITU_letter_code: BDI
 IOC_country_code: BDI
-inception: "1962-07-01T00:00:00Z"
-has_time_started: "1962-07-01T00:00:00Z"
+inception: "1962-07-01"
+has_time_started: "1962-07-01"
 rural_population:
 - 10287647
 - 10545078

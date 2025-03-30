@@ -44,8 +44,8 @@ practiced_by:
 - "[[_Standards/WikiData/WD~registered player,48676230]]"
 - "[[_Standards/WikiData/WD~amateur tennis player,48995125]]"
 different_from: '[[_Standards/WikiData/WD~Tenis,12565374]]'
-inception: "1882-08-01T00:00:00Z"
-has_time_started: "1882-08-01T00:00:00Z"
+inception: "1882-08-01"
+has_time_started: "1882-08-01"
 BHCL_UUID: 36c06bc2-cb5f-45ff-8d90-a7874ec96418
 UMLS_CUI: C0039515
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Federer%202.jpg"

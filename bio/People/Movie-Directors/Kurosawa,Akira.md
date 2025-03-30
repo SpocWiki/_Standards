@@ -91,14 +91,14 @@ name_in_native_language:
 - 黒沢明
 - 黒澤明
 name_in_kana: "くろさわ あきら"
-work_period_end_: "1993-01-01T00:00:00Z"
+work_period_end_: "1993"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Akira%20Kurosawa%20Signature.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Akirakurosawa-onthesetof7samurai-1953-page88.jpg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/An%27yo-in%20Kamakura%20Kurosawa%20Akira%27s%20Grave.jpg"
 Libris_URI: nl024z463cgt1l5
-date_of_death: "1998-09-06T00:00:00Z"
-work_period_start_: "1936-01-01T00:00:00Z"
-date_of_birth: "1910-03-23T00:00:00Z"
+date_of_death: "1998-09-06"
+work_period_start_: "1936"
+date_of_birth: "1910-03-23"
 Google_Doodle: akira-kurosawas-birthday
 subreddit: akirakurosawa
 Krugosvet_article: istoriya/kurosava-akira

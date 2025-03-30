@@ -29,7 +29,7 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 social_media_followers: 43663
-date_of_birth: "1968-07-05T00:00:00Z"
+date_of_birth: "1968-07-05"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Lithium,568|WD~Lithium,568]] 

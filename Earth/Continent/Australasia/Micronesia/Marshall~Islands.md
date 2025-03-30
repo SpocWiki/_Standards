@@ -236,8 +236,8 @@ ITU_letter_code: MHL
 IOC_country_code: MHL
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Marshall%20Islands.svg"
 Commons_category: "Marshall Islands"
-inception: "1986-10-21T00:00:00Z"
-has_time_started: "1986-10-21T00:00:00Z"
+inception: "1986-10-21"
+has_time_started: "1986-10-21"
 has_id_wikidata: Q709
 location:
 - 9.34833

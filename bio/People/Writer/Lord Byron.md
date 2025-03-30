@@ -113,7 +113,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 place_of_burial: '[[_Standards/WikiData/WD~Nottinghamshire,23092]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-date_of_death: "1824-04-19T00:00:00Z"
+date_of_death: "1824-04-19"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Autograph-LordByron.svg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Byron%20arms.svg"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6nigswinter%20Lord-Byron-Platz%20Gedenktafel.jpg"
@@ -124,7 +124,7 @@ BHCL_UUID: 4882fd5b-c49f-4600-b8eb-232953163ae1
 RIA_Novosti_reference: 918728426
 name_in_native_language: "George Gordon Byron"
 birth_name: "George Gordon Byron"
-date_of_birth: "1788-01-22T00:00:00Z"
+date_of_birth: "1788-01-22"
 Europeana_entity: agent/base/107755
 Commons_Creator_page: "George Gordon Byron"
 Commons_gallery: "George Gordon Byron"

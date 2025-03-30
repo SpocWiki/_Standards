@@ -45,7 +45,7 @@ pseudonym:
 last_words: "cela fait longtemps que je n’ai plus bu du champagne…"
 name_in_native_language: "Антон Павлович Чехов"
 birth_name: "Антонъ Павловичъ Чеховъ"
-date_of_death: "1904-07-15T00:00:00Z"
+date_of_death: "1904-07-15"
 place_of_birth: '[[_Standards/WikiData/WD~Taganrog,170513]]'
 place_of_burial: "[[_Standards/WikiData/WD~Novodevichy Cemetery,208175]]"
 spouse: "[[_Standards/WikiData/WD~Olga Knipper,466584]]"
@@ -96,7 +96,7 @@ spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/En-Anton%20Chekhov%20%28intro%29.ogg"
 ISNI: 0000000121031904
 CYT_CCS: AC000090318
-date_of_birth: "1860-01-29T00:00:00Z"
+date_of_birth: "1860-01-29"
 writing_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737]]'
 Commons_Creator_page: "Anton Chekhov"

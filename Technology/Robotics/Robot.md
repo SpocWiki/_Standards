@@ -29,7 +29,7 @@ IEV_number: 171-09-25
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/ROBOT.html
 Commons_gallery: Robot
 Unicode_character: 🤖 
-time_of_earliest_written_record: "1920-01-01T00:00:00Z"
+time_of_earliest_written_record: "1920"
 ---
 
 ## #has_/text_of_/abstract 

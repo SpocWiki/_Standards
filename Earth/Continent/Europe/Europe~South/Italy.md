@@ -468,7 +468,7 @@ nominal_GDP:
 - 2010431598465
 - 2114355756914
 MeSH_tree_code: Z01.542.489
-Gregorian_calendar_start_date: "1582-10-15T00:00:00Z"
+Gregorian_calendar_start_date: "1582-10-15"
 IAB_code: 1326
 OmegaWiki_Defined_Meaning: 5748
 ITU_letter_code: I
@@ -548,8 +548,8 @@ rural_population:
 - 17214086
 - 17479118
 coordinate_location: "Point(12.5 42.5)"
-inception: "1946-06-18T00:00:00Z"
-has_time_started: "1946-06-18T00:00:00Z"
+inception: "1946-06-18"
+has_time_started: "1946-06-18"
 female_population:
 - 30198875
 - 30312143

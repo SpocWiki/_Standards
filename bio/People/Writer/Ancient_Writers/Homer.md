@@ -67,9 +67,9 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/GOMER.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/54238
 name_in_native_language: Ὅμηρος
 birth_name: Ὅμηρος
-date_of_birth: "-0900-01-01T00:00:00Z"
-date_of_death: "-0800-01-01T00:00:00Z"
-floruit: "-0800-01-01T00:00:00Z"
+date_of_birth: "-0900"
+date_of_death: "-0800"
+floruit: "-0800"
 ---
 
 ## #has_/text_of_/abstract 

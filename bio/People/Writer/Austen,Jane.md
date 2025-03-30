@@ -24,7 +24,7 @@ occupation:
 - '[[_Standards/WikiData/WD~novelist,6625963]]'
 - "[[_Standards/WikiData/WD~short story writer,15949613]]"
 social_media_followers: 18736
-date_of_death: "1817-07-18T00:00:00Z"
+date_of_death: "1817-07-18"
 Commons_gallery: "Jane Austen"
 Commons_category: "Jane Austen"
 Commons_Creator_page: "Jane Austen"
@@ -32,11 +32,11 @@ name_in_native_language: "Jane Austen"
 birth_name: "Jane Austen"
 last_words: "I want nothing but death."
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/CassandraAusten-JaneAusten%28c.1810%29%20hires.jpg"
-work_period_start_: "1787-01-01T00:00:00Z"
+work_period_start_: "1787"
 date_of_baptism:
-- "1776-04-05T00:00:00Z"
-- "1775-12-16T00:00:00Z"
-date_of_birth: "1775-12-16T00:00:00Z"
+- "1776-04-05"
+- "1775-12-16"
+date_of_birth: "1775-12-16"
 country_of_citizenship:
 - "[[_Standards/WikiData/WD~Kingdom of Great Britain,161885]]"
 - "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"

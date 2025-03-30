@@ -14,7 +14,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
 canonical_SMILES: '[Ra]'
-time_of_discovery_or_invention: "1898-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1898"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Radium226.jpg"
 electron_configuration: "[Rn] 7s²"
 EC_number: 231-122-4

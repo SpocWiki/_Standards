@@ -63,7 +63,7 @@ Regensburg_Classification:
 - "BF 3635"
 - "DD 5870"
 - "IF 7450"
-date_of_death: "1650-02-11T00:00:00Z"
+date_of_death: "1650-02-11"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20Descartes.svg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Rene%20Descartes%20monument%20in%20the%20Adolf%20Fredriks%20Kyrka%20Stockholm%202.jpg"
 NLC_authorities: 037958787
@@ -137,8 +137,8 @@ plaque_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20%C3%A0%20R%C3%A9n%C3%A9%20Descartes%2C%2014%20rue%20Rollin%2C%20Paris%202016.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Vrijheid%20van%20Amsterdam%20%287%29%20Descartes.jpg"
 ISNI: 0000000121296144
-date_of_baptism: "1596-04-03T00:00:00Z"
-date_of_birth: "1596-03-31T00:00:00Z"
+date_of_baptism: "1596-04-03"
+date_of_birth: "1596-03-31"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20famille%20fr%20Descartes.svg"
 described_at_URL: "http://www.digiporta.net/index.php?id=679740498"
 ---

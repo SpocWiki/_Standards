@@ -19,7 +19,7 @@ Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/pluto"
 Iconclass_notation: 24C16
 Wolfram_Language_entity_code: "Entity[\"MinorPlanet\", \"Pluto\"]"
 orbital_eccentricity: 0.24880766
-time_of_discovery_or_invention: "1930-02-18T00:00:00Z"
+time_of_discovery_or_invention: "1930-02-18"
 apoapsis:
 - 7376671004.22
 - 49.31

@@ -52,7 +52,7 @@ Commons_gallery: Wine
 Commons_category: Wine
 CosIng_number: 60188
 Unicode_character: 🍷 
-earliest_date: "-5400-01-01T00:00:00Z"
+earliest_date: "-5400"
 Colon_Classification: F547
 GitHub_topic:
 - wine

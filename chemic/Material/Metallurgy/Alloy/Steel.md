@@ -22,7 +22,7 @@ MeSH_tree_code:
 - D01.552.033.847
 - D25.058.807
 - J01.637.051.058.807
-time_of_discovery_or_invention: "1865-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1865"
 has_part_s_:
 - '[[_Standards/WikiData/WD~carbon,623]]'
 - '[[_Standards/WikiData/WD~iron,677]]'

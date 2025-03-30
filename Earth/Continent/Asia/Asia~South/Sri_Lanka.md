@@ -270,8 +270,8 @@ WIPO_ST_3: LK
 INSEE_countries_and_foreign_territories_code: 99235
 ISO_3166_1_alpha_3_code: LKA
 PM20_geo_code: B57
-inception: "1972-05-22T00:00:00Z"
-has_time_started: "1972-05-22T00:00:00Z"
+inception: "1972-05-22"
+has_time_started: "1972-05-22"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg"
 urban_population:
 - 4052088

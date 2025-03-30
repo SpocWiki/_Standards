@@ -179,9 +179,9 @@ motto_text:
 - "100% Pur"
 - "100% Pure"
 inception:
-- "1841-01-01T00:00:00Z"
-- "1986-12-13T00:00:00Z"
-- "1907-09-26T00:00:00Z"
+- "1841"
+- "1986-12-13"
+- "1907-09-26"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'

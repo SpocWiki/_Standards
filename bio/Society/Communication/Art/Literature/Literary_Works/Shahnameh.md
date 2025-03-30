@@ -111,8 +111,8 @@ copyright_status: "[[_Standards/WikiData/WD~public domain,19652]]"
 culture: "[[_Standards/WikiData/WD~Greater Iran,25763]]"
 genre: "[[_Standards/WikiData/WD~epic poem,37484]]"
 inception:
-- "1011-01-01T00:00:00Z"
-- "1000-01-01T00:00:00Z"
+- "1011"
+- "1000"
 Commons_category: Shahnameh
 Commons_gallery: شاهنامه
 first_line: "به نام خداوند جان و خرد کزین برتر اندیشه برنگذرد"

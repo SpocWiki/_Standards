@@ -17,7 +17,7 @@ made_from_material:
 - "[[_Standards/WikiData/WD~gadolinite group,18043462]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
 named_after: '[[_Standards/WikiData/WD~getting,12913541]]'
-time_of_discovery_or_invention: "1886-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1886"
 UMLS_CUI: C0013407
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'

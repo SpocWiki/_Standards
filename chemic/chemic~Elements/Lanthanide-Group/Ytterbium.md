@@ -16,7 +16,7 @@ made_from_material:
 - '[[_Standards/WikiData/WD~keiviite-(Yb),3814344]]'
 - '[[_Standards/WikiData/WD~xenotime-(Yb),4021784]]'
 - '[[_Standards/WikiData/WD~samarskite-(Yb),19861251]]'
-time_of_discovery_or_invention: "1878-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1878"
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 atomic_number: 70
 electronegativity: 1.1

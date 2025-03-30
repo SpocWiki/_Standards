@@ -189,10 +189,10 @@ motto_text:
 - "Arfordir Gorllewin Ewrop"
 - "Europe's West Coast"
 official_website: "https://www.portugal.gov.pt/"
-inception: "1179-05-30T00:00:00Z"
-has_time_started: "1179-05-30T00:00:00Z"
+inception: "1179-05-30"
+has_time_started: "1179-05-30"
 coordinates_of_northernmost_point: "Point(-8.198888888 42.154166666)"
-Gregorian_calendar_start_date: "1582-10-15T00:00:00Z"
+Gregorian_calendar_start_date: "1582-10-15"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'

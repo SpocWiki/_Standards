@@ -3,7 +3,7 @@ aliases:
 - "Zheng He"
 - "Cheng Ho"
 has_id_wikidata: Q7333
-date_of_birth: "1371-01-01T00:00:00Z"
+date_of_birth: "1371"
 occupation:
 - '[[_Standards/WikiData/WD~eunuch,179294]]'
 - '[[_Standards/WikiData/WD~diplomat,193391]]'
@@ -33,8 +33,8 @@ ISNI:
 - 0000000116701918
 - 0000000444580000
 date_of_death:
-- "1435-01-01T00:00:00Z"
-- "1433-01-01T00:00:00Z"
+- "1435"
+- "1433"
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 work_location:
 - "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
@@ -54,7 +54,7 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: "Zheng He"
 name_in_native_language: 鄭和
 birth_name: 鄭和
-work_period_start_: "1405-01-01T00:00:00Z"
+work_period_start_: "1405"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/2016%20Malakka%2C%20Stadhuys%20%2809%29.jpg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Zheng%20He%27s%20tomb%2C%20Nanjing.jpg"
 BHCL_UUID: 13a89697-7302-4d23-87c5-f1781c849386

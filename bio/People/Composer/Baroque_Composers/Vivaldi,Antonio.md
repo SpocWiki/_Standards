@@ -83,8 +83,8 @@ documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive
 archives_at: "[[_Standards/WikiData/WD~Archivi dell'Istituto Italiano Antonio Vivaldi,116878246]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q117706064,117706064]]'
-date_of_death: "1741-07-28T00:00:00Z"
-work_period_end_: "1741-01-01T00:00:00Z"
+date_of_death: "1741-07-28"
+work_period_end_: "1741"
 image_of_grave:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Antonio%20Vivaldi.jpg"
 ISNI: 0000000121299169
@@ -104,11 +104,11 @@ instance_of:
 social_media_followers: 74000
 occupation:
 - '[[_Standards/WikiData/WD~composer,36834]]'
-work_period_start_: "1685-01-01T00:00:00Z"
+work_period_start_: "1685"
 Commons_Creator_page: "Antonio Vivaldi"
 Commons_gallery: "Antonio Vivaldi"
 Commons_category: "Antonio Vivaldi"
-date_of_birth: "1678-03-04T00:00:00Z"
+date_of_birth: "1678-03-04"
 ---
 
 ## #has_/text_of_/abstract 

@@ -451,9 +451,9 @@ on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
 - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot — Smithsonian Libraries — Artists Files,105757729]]"
 NLC_authorities: 038648989
-floruit: "1600-01-01T00:00:00Z"
+floruit: "1600"
 ISNI: 0000000121341267
-date_of_birth: "1577-07-08T00:00:00Z"
+date_of_birth: "1577-07-08"
 residence:
 - '[[_Standards/WikiData/WD~Cologne,365]]'
 - '[[_Standards/WikiData/WD~Siegen,3167]]'
@@ -478,7 +478,7 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/RUBENS_PITER_P
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/25633
 Libris_URI: mkz12t1556fgjnz
 Royal_Academy_new_identifier: peter-paul-rubens
-date_of_death: "1640-05-30T00:00:00Z"
+date_of_death: "1640-05-30"
 name_in_native_language: "Peter Paul Rubens"
 Commons_gallery: "Peter Paul Rubens"
 Commons_category: "Peter Paul Rubens"

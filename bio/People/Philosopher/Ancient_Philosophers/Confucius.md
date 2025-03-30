@@ -122,7 +122,7 @@ native_language: "[[_Standards/WikiData/WD~Historical Chinese,10913056]]"
 spouse: "[[_Standards/WikiData/WD~Qiguan Shi,24835105]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27890372,27890372]]'
 name_in_native_language: 孔夫子
-date_of_birth: "-0550-01-01T00:00:00Z"
+date_of_birth: "-0550"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 given_name: '[[_Standards/WikiData/WD~Qiu,105723379]]'
 ancestral_home: '[[_Standards/WikiData/WD~Qufu,113492144]]'
@@ -154,7 +154,7 @@ Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/25095897
 ISNI: 0000000121430614
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20Confucius%20Banner.jpg"
 described_at_URL: "http://www.digiporta.net/index.php?id=757647953"
-date_of_death: "-0478-01-01T00:00:00Z"
+date_of_death: "-0478"
 religion_or_worldview: '[[_Standards/WikiData/WD~Confucianism,9581]]'
 movement: '[[_Standards/WikiData/WD~Confucianism,9581]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'

@@ -347,8 +347,8 @@ life_expectancy: 78.02195
 PM20_geo_code: A40g
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Croatia.svg"
 WOEID: 23424843
-inception: "1991-06-25T00:00:00Z"
-has_time_started: "1991-06-25T00:00:00Z"
+inception: "1991-06-25"
+has_time_started: "1991-06-25"
 Libris_URI: 64jlkbvq4b1l6f6
 official_website:
 - "https://vlada.gov.hr/en"

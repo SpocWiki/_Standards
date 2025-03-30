@@ -61,16 +61,16 @@ family: "[[_Standards/WikiData/WD~Timurid dynasty,20737645]]"
 mother: "[[_Standards/WikiData/WD~Tekina Khatun,108091442]]"
 participant_in: "[[_Standards/WikiData/WD~Timur's Counter Siege,118957290]]"
 date_of_birth:
-- "1336-04-17T00:00:00Z"
-- "1336-04-16T00:00:00Z"
+- "1336-04-17"
+- "1336-04-16"
 Provenio_UUID: 77af2203-ef68-427c-9f46-71a0f810a36f
 ISNI: 000000012136280X
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Timur%20seated%20%28earliest%20known%20portrait%29%2C%20Timurid%20genealogy%2C%201405-1409%2C%20Samarkand%20%28TSMK%2C%20H2152%29.jpg"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 height: 1.72
 date_of_death:
-- "1405-02-28T00:00:00Z"
-- "1405-02-27T00:00:00Z"
+- "1405-02-28"
+- "1405-02-27"
 Commons_category: Timur
 Commons_Creator_page: Timur
 ---

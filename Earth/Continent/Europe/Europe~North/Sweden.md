@@ -297,15 +297,15 @@ language_used:
 - "[[_Standards/WikiData/WD~Lule Sami,56322]]"
 - "[[_Standards/WikiData/WD~Ume Sami,56415]]"
 open_data_portal: "[[_Standards/WikiData/WD~Sweden's data portal,92961134]]"
-Gregorian_calendar_start_date: "1753-03-01T00:00:00Z"
+Gregorian_calendar_start_date: "1753-03-01"
 coordinates_of_easternmost_point: "Point(24.166666666 65.701111111)"
 nominal_GDP:
 - 636856236396
 - 585939170124
 Baidu_Tieba_name: 瑞典
 UMLS_CUI: C0038995
-inception: "0900-01-01T00:00:00Z"
-has_time_started: "0900-01-01T00:00:00Z"
+inception: "0900"
+has_time_started: "0900"
 coordinates_of_westernmost_point: "Point(10.9575 58.928611111)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'

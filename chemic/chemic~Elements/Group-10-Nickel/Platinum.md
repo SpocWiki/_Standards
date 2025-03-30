@@ -4,7 +4,7 @@ SpocWebEntityId: 21974
 has_id_wikidata: Q880
 Unicode_character: 鉑
 mass: 195.084
-time_of_discovery_or_invention: "1557-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1557"
 part_of:
 - "[[_Standards/WikiData/WD~group 10,205253]]"
 - "[[_Standards/WikiData/WD~period 6,239813]]"

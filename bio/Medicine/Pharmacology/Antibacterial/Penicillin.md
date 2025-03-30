@@ -34,7 +34,7 @@ MeSH_tree_code:
 - D02.886.108.750
 - D03.633.100.300.750
 native_label: penicillin
-time_of_discovery_or_invention: "1928-09-28T00:00:00Z"
+time_of_discovery_or_invention: "1928-09-28"
 ---
 
 ## #has_/text_of_/abstract 

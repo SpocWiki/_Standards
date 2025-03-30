@@ -55,7 +55,7 @@ mass: 137.327
 chemical_formula: Ba
 element_symbol: Ba
 Unicode_character: 鋇
-time_of_discovery_or_invention: "1808-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1808"
 PubChem_CID: 5355457
 CPV_Supplementary_code: AA32
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Barium%201.jpg"

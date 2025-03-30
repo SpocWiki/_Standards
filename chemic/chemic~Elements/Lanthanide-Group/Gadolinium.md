@@ -27,7 +27,7 @@ made_from_material:
 - '[[_Standards/WikiData/WD~lepersonnite-(Gd),1820045]]'
 - '[[_Standards/WikiData/WD~monazite-(Gd),116007092]]'
 - '[[_Standards/WikiData/WD~xenotime-(Gd),124538270]]'
-time_of_discovery_or_invention: "1880-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1880"
 UMLS_CUI: C0016911
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 electronegativity: 1.2

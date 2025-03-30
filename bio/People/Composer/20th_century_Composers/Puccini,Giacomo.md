@@ -7,9 +7,9 @@ BHCL_UUID: c2d1f6af-8394-4754-bbb3-b4897a6a96d9
 Krugosvet_article: kultura_i_obrazovanie/muzyka/PUCHCHINI_DZHAKOMO.html
 Libris_URI: vs689bvd428jxcv
 birth_name: "Giacomo Antonio Domenico Michele Secondo Maria Puccini"
-work_period_start_: "1876-01-01T00:00:00Z"
+work_period_start_: "1876"
 ISNI: 0000000121031832
-date_of_birth: "1858-12-22T00:00:00Z"
+date_of_birth: "1858-12-22"
 field_of_work:
 - '[[_Standards/WikiData/WD~music,638]]'
 - '[[_Standards/WikiData/WD~opera,1344]]'
@@ -94,7 +94,7 @@ Commons_category: "Giacomo Puccini"
 Commons_Creator_page: "Giacomo Puccini"
 name_in_native_language: "Giacomo Puccini"
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Caruso%20-%20Nellie%20Melba%20-%20La%20boh%C3%A8me%20-%20O%20soave%20fanciulla%20%28restored%29.ogg"
-date_of_death: "1924-11-29T00:00:00Z"
+date_of_death: "1924-11-29"
 ---
 
 ## #has_/text_of_/abstract 

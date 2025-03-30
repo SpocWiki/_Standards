@@ -21,7 +21,7 @@ Colon_Classification: Q63x(wL)
 Image_Archive_Herder_Institute: Q9554
 last_words: Ja.
 name_in_native_language: "Martin Luther"
-date_of_death: "1546-02-28T00:00:00Z"
+date_of_death: "1546-02-28"
 U_S_National_Archives_Identifier: 178419658
 ISNI: 0000000121214073
 Europeana_entity: agent/base/166687
@@ -152,8 +152,8 @@ doctoral_student: "[[_Standards/WikiData/WD~Andreas Hoffrichter,47490799]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Christian Hymns,100975219]]"
 has_characteristic: "[[_Standards/WikiData/WD~Theology of Martin Luther,123545179]]"
-date_of_baptism: "1483-11-20T00:00:00Z"
-date_of_birth: "1483-11-19T00:00:00Z"
+date_of_baptism: "1483-11-20"
+date_of_birth: "1483-11-19"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Martin%20Luther%2C%201528%20%28Veste%20Coburg%29.jpg"
 birth_name: "Martin Luder"
 ---

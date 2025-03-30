@@ -47,7 +47,7 @@ bibliography: '[[_Standards/WikiData/WD~Q17354037,17354037]]'
 archives_at: "[[_Standards/WikiData/WD~The Rare Book & Manuscript Library,18749551]]"
 family_name: '[[_Standards/WikiData/WD~Proust,24510673]]'
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-date_of_birth: "1871-07-10T00:00:00Z"
+date_of_birth: "1871-07-10"
 ISNI: 0000000121003911
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-Marcel%20Proust.wav"
 field_of_work: '[[_Standards/WikiData/WD~novel,8261]]'
@@ -72,7 +72,7 @@ Commons_Creator_page: "Marcel Proust"
 Commons_gallery: "Marcel Proust"
 Commons_category: "Marcel Proust"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Marcel%20Proust%201895.jpg"
-date_of_death: "1922-11-18T00:00:00Z"
+date_of_death: "1922-11-18"
 name_in_native_language: "Marcel Proust"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Marcel%20Proust%20signature.svg"
 ---

@@ -29,7 +29,7 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Wankel%20Cycle%20anim.gif"
 Colon_Classification: D646
 Commons_category: "Internal combustion engines"
-time_of_discovery_or_invention: "1924-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1924"
 ---
 
 ## #has_/text_of_/abstract 

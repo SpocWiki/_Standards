@@ -9,7 +9,7 @@ Unicode_character: 釩
 melting_point: 1887
 boiling_point: 3377
 mass: 50.9415
-time_of_discovery_or_invention: "1801-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1801"
 part_of:
 - "[[_Standards/WikiData/WD~group 5,193276]]"
 - "[[_Standards/WikiData/WD~period 4,239825]]"

@@ -214,11 +214,11 @@ ISNI: 0000000121363183
 Commons_category: "Salvador Dalí"
 Commons_Creator_page: "Salvador Dalí"
 Commons_gallery: "Salvador Dalí"
-work_period_end_: "1988-01-01T00:00:00Z"
-date_of_death: "1989-01-23T00:00:00Z"
+work_period_end_: "1988"
+date_of_death: "1989-01-23"
 birth_name: "Salvador Domingo Felipe Jacinto Dalí i Domènech"
-work_period_start_: "1922-01-01T00:00:00Z"
-date_of_birth: "1904-05-11T00:00:00Z"
+work_period_start_: "1922"
+date_of_birth: "1904-05-11"
 ---
 
 #has_/time_/started :: 1904-05-11 

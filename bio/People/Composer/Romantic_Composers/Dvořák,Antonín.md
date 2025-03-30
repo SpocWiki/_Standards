@@ -142,15 +142,15 @@ plaque_image:
 Commons_category: "Antonín Dvořák"
 Commons_Creator_page: "Antonín Dvořák"
 Commons_gallery: "Antonín Dvořák"
-date_of_death: "1904-05-01T00:00:00Z"
+date_of_death: "1904-05-01"
 Libris_URI: pm1331x71rt1ctq
 birth_name: "Antonín Leopold Dvořák"
 official_website: "https://www.antonin-dvorak.cz/"
 Google_Doodle: antonin-dvoraks-182nd-birthday
 ISNI: 0000000121389690
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Dvorzak.jpg"
-date_of_baptism: "1841-09-09T00:00:00Z"
-date_of_birth: "1841-09-08T00:00:00Z"
+date_of_baptism: "1841-09-09"
+date_of_birth: "1841-09-08"
 place_of_death: '[[_Standards/WikiData/WD~Prague,1085]]'
 genre:
 - '[[_Standards/WikiData/WD~opera,1344]]'

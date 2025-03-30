@@ -2,8 +2,8 @@
 aliases:
 - "Association of Southeast Asian Nations"
 has_id_wikidata: Q7768
-inception: "1967-08-08T00:00:00Z"
-has_time_started: "1967-08-08T00:00:00Z"
+inception: "1967-08-08"
+has_time_started: "1967-08-08"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/ASEAN%20explained%20in%205%20minutes.webm"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Association%20of%20Southeast%20Asian%20Nations%20%28orthographic%20projection%29.svg"
 official_website: "https://asean.org"

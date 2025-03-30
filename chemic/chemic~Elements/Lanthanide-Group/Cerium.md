@@ -173,7 +173,7 @@ PubChem_CID: 23974
 OmegaWiki_Defined_Meaning: 156939
 element_symbol: Ce
 chemical_formula: Ce
-time_of_discovery_or_invention: "1804-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1804"
 Commons_gallery: Cerium
 Commons_category: Cerium
 EC_number: 231-154-9

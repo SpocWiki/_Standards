@@ -405,8 +405,8 @@ male_population:
 - 20294308
 - 20470151
 - 20602695
-inception: "1991-08-24T00:00:00Z"
-has_time_started: "1991-08-24T00:00:00Z"
+inception: "1991-08-24"
+has_time_started: "1991-08-24"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Ukraine.map"
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/46-101-0548%20Lviv%20Latin%20Cathedral%20RB%2018.jpg"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/81-702-7022%20departs%20from%20Dorohozhychi%20station.webm"

@@ -51,7 +51,7 @@ OmegaWiki_Defined_Meaning: 160503
 CPV_Supplementary_code: AA28
 Commons_gallery: Iridium
 Commons_category: Iridium
-time_of_discovery_or_invention: "1803-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1803"
 canonical_SMILES: '[Ir]'
 Common_Procurement_Vocabulary_code: 14761000
 ---

@@ -424,8 +424,8 @@ rural_population:
 X_Twitter_username: peru
 CIVICUS_Monitor_country_entry: peru
 GitHub_topic: peru
-inception: "1821-07-28T00:00:00Z"
-has_time_started: "1821-07-28T00:00:00Z"
+inception: "1821-07-28"
+has_time_started: "1821-07-28"
 female_population:
 - 16556679
 - 16805323

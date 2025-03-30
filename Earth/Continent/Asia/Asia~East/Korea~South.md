@@ -385,8 +385,8 @@ native_label: 대한민국
 name_in_native_language: 대한민국
 coordinates_of_southernmost_point: "Point(126.268333333 33.1125)"
 U_S_National_Archives_Identifier: 10044504
-inception: "1948-08-15T00:00:00Z"
-has_time_started: "1948-08-15T00:00:00Z"
+inception: "1948-08-15"
+has_time_started: "1948-08-15"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/South%20Korea%20%28orthographic%20projection%29.svg"
 male_population: 25850044
 female_population: 25888027

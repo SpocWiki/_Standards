@@ -201,8 +201,8 @@ on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
 - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot — Smithsonian Libraries — Artists Files,105757729]]"
 date_of_birth:
-- "1483-04-15T00:00:00Z"
-- "1483-04-06T00:00:00Z"
+- "1483-04-15"
+- "1483-04-06"
 name:
 - "Raphaël d'Urbin"
 - "Raphaël d’Urbin"
@@ -221,8 +221,8 @@ Royal_Academy_new_identifier: raphael
 name_in_native_language: "Raffaello Sanzio"
 birth_name: "Raffaello Sanzio"
 date_of_death:
-- "1520-04-17T00:00:00Z"
-- "1520-04-16T00:00:00Z"
+- "1520-04-17"
+- "1520-04-16"
 NLC_authorities: 000185495
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio%20da%20Urbino%201483-1520%2008%20Signature.svg"

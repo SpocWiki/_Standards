@@ -326,8 +326,8 @@ number_of_out_of_school_children: 2493607
 ISO_3166_1_alpha_3_code: BFA
 ITU_letter_code: BFA
 IOC_country_code: BUR
-inception: "1960-01-01T00:00:00Z"
-has_time_started: "1960-01-01T00:00:00Z"
+inception: "1960"
+has_time_started: "1960"
 male_population:
 - 10431262
 - 10718602

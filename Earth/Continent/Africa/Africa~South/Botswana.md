@@ -300,8 +300,8 @@ licence_plate_code: BW
 ISO_3166_1_alpha_2_code: BW
 WIPO_ST_3: BW
 population: 2480244
-inception: "1966-01-01T00:00:00Z"
-has_time_started: "1966-01-01T00:00:00Z"
+inception: "1966"
+has_time_started: "1966"
 IOC_country_code: BOT
 ITU_letter_code: BOT
 Commons_gallery: Botswana

@@ -39,7 +39,7 @@ part_of:
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~costume component,28935403]]"
 studied_in: "[[_Standards/WikiData/WD~clothing research,105812644]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
-earliest_date: "-170000-01-01T00:00:00Z"
+earliest_date: "-170000"
 UMLS_CUI: C0009072
 MeSH_tree_code: J01.637.215
 Wikidata_property:
@@ -65,7 +65,7 @@ Colon_Classification:
 - "L:577"
 - "Y:88"
 IPTC_NewsCode: mediatopic/20000245
-start_time: "-57000-01-01T00:00:00Z"
+start_time: "-57000"
 ---
 
 ## #has_/text_of_/abstract 

@@ -94,14 +94,14 @@ U_S_National_Archives_Identifier: 10582275
 name_in_native_language: "Marilyn Monroe"
 Douban_site_name: 160854
 date_of_death:
-- "1962-08-05T00:00:00Z"
-- "1962-08-04T00:00:00Z"
-work_period_end_: "1962-01-01T00:00:00Z"
+- "1962-08-05"
+- "1962-08-04"
+work_period_end_: "1962"
 Commons_gallery: "Marilyn Monroe"
 pseudonym: "Marilyn Monroe"
 Commons_category: "Marilyn Monroe"
 Archive_of_Our_Own_tag: "Marilyn Monroe"
-work_period_start_: "1945-01-01T00:00:00Z"
+work_period_start_: "1945"
 plaque_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Marilyn%20Monroe%20Grauman%27s%20Chinese%20Theatre.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Marilyn%20Monroe%20Star%20%2815706815112%29.jpg"
@@ -117,7 +117,7 @@ subreddit: MarilynMonroe
 hashtag: MarilynMonroe
 Libris_URI: mkz13rj52m3g5cn
 birth_name: "Norma Jeane Mortenson"
-date_of_birth: "1926-06-01T00:00:00Z"
+date_of_birth: "1926-06-01"
 ---
 
 #has_/time_/started :: 1926-06-01 

@@ -12,7 +12,7 @@ Commons_gallery: "Johannes Gensfleisch zur Laden zum Gutenberg"
 Commons_category: "Johannes Gutenberg"
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/GUTENBERG_IOGANN.html
 name_in_native_language: "Johannes Gutenberg"
-date_of_birth: "1400-01-01T00:00:00Z"
+date_of_birth: "1400"
 occupation:
 - '[[_Standards/WikiData/WD~engineer,81096]]'
 - '[[_Standards/WikiData/WD~inventor,205375]]'
@@ -48,7 +48,7 @@ sibling:
 - "[[_Standards/WikiData/WD~Else Vitztum,47006135]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 depicted_by: "[[_Standards/WikiData/WD~Gutenberg stele,122926292]]"
-date_of_death: "1468-01-01T00:00:00Z"
+date_of_death: "1468"
 birth_name:
 - "Johannes Gensfleisch zur Laden zum Gutenberg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gensfleisch%20family%20coat%20of%20arms.png"

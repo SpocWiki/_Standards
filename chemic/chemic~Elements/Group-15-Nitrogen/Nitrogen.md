@@ -8,7 +8,7 @@ MeSH_tree_code:
 Krugosvet_article: nauka_i_tehnika/himiya/AZOT.html
 ATC_code: V03AN04
 Unicode_character: 氮
-time_of_discovery_or_invention: "1772-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1772"
 part_of:
 - "[[_Standards/WikiData/WD~group 15,106675]]"
 - "[[_Standards/WikiData/WD~period 2,207712]]"

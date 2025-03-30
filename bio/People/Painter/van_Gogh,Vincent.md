@@ -276,11 +276,11 @@ depicted_by: "[[_Standards/WikiData/WD~DIA goes to court to protect ownership of
 employer: "[[_Standards/WikiData/WD~Goupil & Cie,110561773]]"
 member_of: "[[_Standards/WikiData/WD~Société française de gravure,112827329]]"
 student: "[[_Standards/WikiData/WD~Antoon Hermans,123528150]]"
-date_of_death: "1890-07-29T00:00:00Z"
+date_of_death: "1890-07-29"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Self-Portrait%20-%20Google%20Art%20Project%20%28454045%29.jpg"
 described_at_URL: "https://keeswouters.files.wordpress.com/2015/12/gek-van-van-gogh1.pdf"
 ISNI: 0000000120955689
-date_of_birth: "1853-03-30T00:00:00Z"
+date_of_birth: "1853-03-30"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Dutch,7411]]'
 - '[[_Standards/WikiData/WD~French,150]]'

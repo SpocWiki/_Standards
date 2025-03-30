@@ -351,8 +351,8 @@ ITU_letter_code: KEN
 IOC_country_code: KEN
 CIVICUS_Monitor_country_entry: kenya
 GitHub_topic: kenya
-inception: "1963-01-01T00:00:00Z"
-has_time_started: "1963-01-01T00:00:00Z"
+inception: "1963"
+has_time_started: "1963"
 PM20_geo_code: C116
 male_population:
 - 25272193

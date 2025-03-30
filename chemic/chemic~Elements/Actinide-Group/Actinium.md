@@ -17,7 +17,7 @@ instance_of:
 - "[[_Standards/WikiData/WD~radioactive element,3658631]]"
 - "[[_Standards/WikiData/WD~chemical element,11344]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828445,22828445]]'
-time_of_discovery_or_invention: "1899-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1899"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20152.jpg"
 has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
 oxidation_state: 3

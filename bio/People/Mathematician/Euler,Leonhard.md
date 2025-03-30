@@ -139,7 +139,7 @@ Regensburg_Classification: "SF 2620"
 Libris_URI: vs6888qd42r4qlr
 name_in_native_language: "Leonhard Euler"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler.jpg"
-date_of_death: "1783-09-18T00:00:00Z"
+date_of_death: "1783-09-18"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Euler%20Grave%20at%20Alexander%20Nevsky%20Monastry.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Euler%27s%20signature.svg"
 BHCL_UUID: ae608bb5-f8a2-437a-9822-aa70154a92d8
@@ -157,7 +157,7 @@ described_at_URL:
 - "http://www.digiporta.net/index.php?id=942474402"
 - "http://www.digiporta.net/index.php?id=907853109"
 - "http://www.digiporta.net/index.php?id=480058009"
-date_of_birth: "1707-04-15T00:00:00Z"
+date_of_birth: "1707-04-15"
 writing_language:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~French,150]]'

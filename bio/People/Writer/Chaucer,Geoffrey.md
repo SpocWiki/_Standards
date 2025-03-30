@@ -60,14 +60,14 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Geoff
 BHCL_UUID: 53d2d252-bcf7-4911-a58b-36d5fd91748f
 Commons_gallery: "Geoffrey Chaucer"
 Commons_category: "Geoffrey Chaucer"
-date_of_death: "1400-11-03T00:00:00Z"
+date_of_death: "1400-11-03"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/ChaucerArms%20Ancient.svg"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Chaucer::f2kcz\"]"
 Krugosvet_article: kultura_i_obrazovanie/literatura/CHOSER_DZHEFRI.html
 Colon_Classification: O111,1H40
 Libris_URI: xv8bb52g42v8pqx
 name_in_native_language: "Geoffrey Chaucer"
-date_of_birth: "1343-01-01T00:00:00Z"
+date_of_birth: "1343"
 ISNI: 0000000375840787
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Geoffrey%20Chaucer.svg"
 genre: '[[_Standards/WikiData/WD~poetry,482]]'

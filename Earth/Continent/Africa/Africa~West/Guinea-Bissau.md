@@ -232,8 +232,8 @@ female_population:
 - 1065706
 OmegaWiki_Defined_Meaning: 155348
 population: 1861283
-inception: "1974-01-01T00:00:00Z"
-has_time_started: "1974-01-01T00:00:00Z"
+inception: "1974"
+has_time_started: "1974"
 Commons_category: Guinea-Bissau
 IOC_country_code: GBS
 geoshape: "http://commons.wikimedia.org/data/main/Data:Guinea-Bissau.map"

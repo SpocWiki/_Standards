@@ -52,7 +52,7 @@ notable_work: "[[_Standards/WikiData/WD~The book of Ser Marco Polo the Venetian 
 Provenio_UUID: 7d951859-ae03-45a5-ba33-0dde00b2ad02
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D6%80%D5%AF%D5%B8%20%D5%8A%D5%B8%D5%AC%D5%B8.ogg"
 ISNI: 0000000355895756
-date_of_death: "1324-01-16T00:00:00Z"
+date_of_death: "1324-01-16"
 place_of_death: '[[_Standards/WikiData/WD~Venice,641]]'
 place_of_birth: '[[_Standards/WikiData/WD~Venice,641]]'
 languages_spoken_written_or_signed:
@@ -67,7 +67,7 @@ BHCL_UUID: 6953dc55-05ac-4e79-8071-8c028a3847fe
 Krugosvet_article: Earth_sciences/geografiya/POLO_MARKO.html
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"MarcoPolo::3szzq\"]"
 Libris_URI: fcrtw46z5hjtb3l
-date_of_birth: "1254-09-22T00:00:00Z"
+date_of_birth: "1254-09-22"
 ArhivX_LOD: 6457
 name_in_native_language: "Marco Polo"
 Commons_category: "Marco Polo"

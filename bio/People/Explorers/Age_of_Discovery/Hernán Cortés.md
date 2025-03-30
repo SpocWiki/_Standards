@@ -47,7 +47,7 @@ family_name: '[[_Standards/WikiData/WD~Cortés,29470991]]'
 position_held: "[[_Standards/WikiData/WD~Viceroy of New Spain,42079568]]"
 father: "[[_Standards/WikiData/WD~Martín Cortés de Monroy,50824534]]"
 mother: "[[_Standards/WikiData/WD~Catalina Pizarro Altamirano,101402678]]"
-date_of_birth: "1485-01-01T00:00:00Z"
+date_of_birth: "1485"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20Hern%C3%A1n%20Cort%C3%A9s%20completo.svg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Hernan%20Cortes%20Signature.svg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Fernando%20Cortes%20%28intro%29.ogg"
@@ -64,11 +64,11 @@ place_of_burial: "[[_Standards/WikiData/WD~Mexico City,1489]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
 allegiance: '[[_Standards/WikiData/WD~Spain,29]]'
-date_of_death: "1547-12-12T00:00:00Z"
+date_of_death: "1547-12-12"
 Commons_Creator_page: "Hernán Cortés"
 Commons_gallery: "Hernán Cortés"
 Commons_category: "Hernán Cortés"
-work_period_start_: "1504-01-01T00:00:00Z"
+work_period_start_: "1504"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Hern%C3%A1n%20Cort%C3%A9s.jpg"
 ---
 

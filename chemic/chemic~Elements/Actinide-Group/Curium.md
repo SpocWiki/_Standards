@@ -33,7 +33,7 @@ chemical_formula: Cm
 element_symbol: Cm
 Commons_gallery: Curium
 Commons_category: Curium
-time_of_discovery_or_invention: "1944-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1944"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cm-Fluoreszenz.png"
 canonical_SMILES: '[Cm]'
 Dewey_Decimal_Classification: 546.442

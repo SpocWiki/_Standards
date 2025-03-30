@@ -205,8 +205,8 @@ name:
 Commons_gallery: "Leonardo da Vinci"
 Commons_Creator_page: "Leonardo da Vinci"
 Commons_category: "Leonardo da Vinci"
-date_of_death: "1519-05-12T00:00:00Z"
-work_period_end_: "1519-01-01T00:00:00Z"
+date_of_death: "1519-05-12"
+work_period_end_: "1519"
 ArhivX_LOD: 22618
 name_in_native_language: "Leonardo da Vinci"
 on_focus_list_of_Wikimedia_project:
@@ -221,7 +221,7 @@ ISNI: 000000012124423X
 ORCID_iD: 0000-0002-3013-9914
 U_S_National_Archives_Identifier: 88694584
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20famille%20it%20da%20Vinci%20%28Toscane%29.svg"
-date_of_birth: "1452-04-24T00:00:00Z"
+date_of_birth: "1452-04-24"
 residence:
 - '[[_Standards/WikiData/WD~Milan,490]]'
 - '[[_Standards/WikiData/WD~Venice,641]]'

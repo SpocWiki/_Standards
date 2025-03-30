@@ -21,7 +21,7 @@ DPLA_subject_term: Photography
 Commons_gallery: Photography
 Commons_category: Photography
 Library_of_Congress_Classification: TR
-time_of_discovery_or_invention: "1800-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1800"
 different_from:
 - '[[_Standards/WikiData/WD~photograph,125191]]'
 - '[[_Standards/WikiData/WD~Q3498649,3498649]]'

@@ -38,8 +38,8 @@ different_from:
 fabrication_method: '[[_Standards/WikiData/WD~breadmaking,3063799]]'
 instance_of: "[[_Standards/WikiData/WD~type of food or dish,19861951]]"
 UMLS_CUI: C0006138
-inception: "-30000-01-01T00:00:00Z"
-has_time_started: "-30000-01-01T00:00:00Z"
+inception: "-30000"
+has_time_started: "-30000"
 has_part_s_:
 - '[[_Standards/WikiData/WD~water,283]]'
 - '[[_Standards/WikiData/WD~flour,36465]]'

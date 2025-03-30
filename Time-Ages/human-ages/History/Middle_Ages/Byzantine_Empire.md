@@ -38,7 +38,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
 different_from: "[[_Standards/WikiData/WD~Greater Greece,124371648]]"
-dissolved_abolished_or_demolished_date: "1453-06-07T00:00:00Z"
+dissolved_abolished_or_demolished_date: "1453-06-07"
 DPLA_subject_term: "Byzantine Empire"
 economy_of_topic: "[[_Standards/WikiData/WD~economy of the Byzantine Empire,2091298]]"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Byzantine%20imperial%20flag%2C%2014th%20century.svg"
@@ -48,14 +48,14 @@ followed_by:
   - "[[_Standards/WikiData/WD~Ottoman Empire,12560]]"
   - "[[_Standards/WikiData/WD~Rashidun Caliphate,12490507]]"
   - "[[_Standards/WikiData/WD~Umayyad Caliphate,8575586]]"
-has_time_started: "0395-01-18T00:00:00Z"
-has_time_stopped: "1453-06-07T00:00:00Z"
+has_time_started: "0395-01-18"
+has_time_stopped: "1453-06-07"
 has_works_in_the_collection:
   - "[[_Standards/WikiData/WD~Art Institute of Chicago,239303]]"
 head_of_state: "[[_Standards/WikiData/WD~Byzantine emperor,18577504]]"
 history_of_topic:
   - "[[_Standards/WikiData/WD~history of the Byzantine Empire,2993777]]"
-inception: "0395-01-18T00:00:00Z"
+inception: "0395-01-18"
 instance_of:
   - "[[_Standards/WikiData/WD~historical country,3024240]]"
   - "[[_Standards/WikiData/WD~historical period,11514315]]"

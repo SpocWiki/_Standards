@@ -64,7 +64,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 ISNI:
 - 0000000083820354
 - 0000000368516866
-date_of_birth: "1871-03-05T00:00:00Z"
+date_of_birth: "1871-03-05"
 birth_name:
 - "Rozalia Luksenburg"
 - "Rozalia Luxenburg"
@@ -86,7 +86,7 @@ Libris_URI: 53hkfdpp1hw3zxq
 BHCL_UUID: a0ccdd13-bb67-42aa-9ed2-de5ba233dddc
 Wolfram_Language_entity_code: "Entity[\"Person\", \"RosaLuxemburg::zpmv7\"]"
 pseudonym: "R. Kruszynska"
-date_of_death: "1919-01-15T00:00:00Z"
+date_of_death: "1919-01-15"
 Commons_Creator_page: "Rosa Luxemburg"
 Commons_gallery: "Rosa Luxemburg"
 Commons_category: "Rosa Luxemburg"

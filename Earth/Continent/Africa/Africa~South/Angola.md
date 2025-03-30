@@ -325,8 +325,8 @@ urban_population:
 - 22338586
 - 23276246
 - 24229338
-inception: "1992-08-25T00:00:00Z"
-has_time_started: "1992-08-25T00:00:00Z"
+inception: "1992-08-25"
+has_time_started: "1992-08-25"
 coordinates_of_southernmost_point: "Point(20.825527777 -18.0385)"
 population: 36749906
 coordinate_location: "Point(17.35 -12.35)"

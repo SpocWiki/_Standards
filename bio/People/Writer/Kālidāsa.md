@@ -44,10 +44,10 @@ described_by_source:
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-work_period_start_: "0400-01-01T00:00:00Z"
-floruit: "0400-01-01T00:00:00Z"
+work_period_start_: "0400"
+floruit: "0400"
 ISNI: 0000000081700594
-work_period_end_: "0500-01-01T00:00:00Z"
+work_period_end_: "0500"
 religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
 writing_language: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Sanskrit,11059]]'

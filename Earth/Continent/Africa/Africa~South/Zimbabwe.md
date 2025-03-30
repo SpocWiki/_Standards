@@ -271,8 +271,8 @@ rural_population:
 - 10617452
 - 10827136
 - 11033499
-inception: "1980-04-18T00:00:00Z"
-has_time_started: "1980-04-18T00:00:00Z"
+inception: "1980-04-18"
+has_time_started: "1980-04-18"
 Dewey_Decimal_Classification: 2--6891
 ITU_letter_code: ZWE
 ISO_3166_1_alpha_3_code: ZWE

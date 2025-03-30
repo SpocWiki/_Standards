@@ -426,8 +426,8 @@ urban_population:
 - 37919842
 coordinates_of_easternmost_point: "Point(105.6353 15.6514)"
 inception:
-- "1238-01-01T00:00:00Z"
-- "1768-12-28T00:00:00Z"
+- "1238"
+- "1768-12-28"
 population: 66188503
 has_id_wikidata: Q869
 location:

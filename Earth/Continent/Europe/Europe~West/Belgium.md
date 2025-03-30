@@ -462,8 +462,8 @@ rural_population:
 - 221657
 - 225069
 NIS_INS_code: 01000
-inception: "1830-10-04T00:00:00Z"
-has_time_started: "1830-10-04T00:00:00Z"
+inception: "1830-10-04"
+has_time_started: "1830-10-04"
 male_population:
 - 5667234
 - 5695855

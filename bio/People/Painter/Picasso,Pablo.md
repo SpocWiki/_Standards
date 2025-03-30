@@ -344,14 +344,14 @@ on_focus_list_of_Wikimedia_project:
 partner_in_business_or_sport: "[[_Standards/WikiData/WD~François Hugo,109325081]]"
 sibling: "[[_Standards/WikiData/WD~Lola Ruiz Picasso,109943174]]"
 award_received: "[[_Standards/WikiData/WD~doctor honoris causa from the University of Paris 1 Pantheon-Sorbonne,126416227]]"
-date_of_birth: "1881-10-25T00:00:00Z"
+date_of_birth: "1881-10-25"
 pseudonym: "Pau de Gósol"
 ISNI: 0000000122755381
 described_at_URL: "http://www.digiporta.net/index.php?id=115551668"
 native_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 significant_person: "[[_Standards/WikiData/WD~Henri Matisse,5589]]"
 place_of_birth: '[[_Standards/WikiData/WD~Málaga,8851]]'
-date_of_death: "1973-04-08T00:00:00Z"
+date_of_death: "1973-04-08"
 Commons_category: "Pablo Picasso"
 Commons_Creator_page: "Pablo Picasso"
 Commons_gallery: "Pablo Picasso"

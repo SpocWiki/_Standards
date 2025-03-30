@@ -119,7 +119,7 @@ Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/aristotle"
 ISNI: 0000000123748095
 ORCID_iD: 0000-0003-2052-1391
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Aristotle%20%28spoken%20by%20AI%20voice%29.mp3"
-date_of_death: "-0321-01-01T00:00:00Z"
+date_of_death: "-0321"
 student_of: '[[_Standards/WikiData/WD~Plato,859]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
@@ -132,7 +132,7 @@ Iconclass_notation: 98B(ARISTOTLE)
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Aristotle.wav"
 NLC_authorities: 000090073
 Colon_Classification: R851w615
-date_of_birth: "-0383-01-01T00:00:00Z"
+date_of_birth: "-0383"
 Europeana_entity: agent/base/178
 PhilPapers_topic: aristotle
 Regensburg_Classification: "DD 5090"

@@ -18,9 +18,9 @@ Krugosvet_article: nauka_i_tehnika/fizika/OTNOSITELNOSTI_TEORIYA_SPETSIALNAYA_â€
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Albert Einstein,937]]"
 part_of: "[[_Standards/WikiData/WD~theory of relativity,43514]]"
 Commons_category: "Special relativity"
-time_of_discovery_or_invention: "1905-01-01T00:00:00Z"
-inception: "1905-01-01T00:00:00Z"
-has_time_started: "1905-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1905"
+inception: "1905"
+has_time_started: "1905"
 ---
 
 ## #has_/text_of_/abstract 

@@ -13,7 +13,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Anatole Demarçay,725850]]"
 has_use: '[[_Standards/WikiData/WD~dopant,15119237]]'
-time_of_discovery_or_invention: "1901-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1901"
 subject_has_role: "[[_Standards/WikiData/WD~luminescent agents,50430320]]"
 UMLS_CUI: C0015180
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"

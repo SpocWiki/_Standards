@@ -50,7 +50,7 @@ InChIKey: OYEHPCDNVJXUIW-UHFFFAOYSA-N
 Commons_gallery: Plutonium
 Commons_category: Plutonium
 Unicode_character: 鈽
-time_of_discovery_or_invention: "1941-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1941"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Plutonium,1102]] 

@@ -4,7 +4,7 @@ SpocWebEntityId: 21918
 has_id_wikidata: Q688
 Unicode_character: 氯
 mass: 35.45
-time_of_discovery_or_invention: "1774-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1774"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Wilhelm Scheele,70538]]"
 part_of:
 - "[[_Standards/WikiData/WD~period 3,211331]]"

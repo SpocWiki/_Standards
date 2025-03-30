@@ -1,6 +1,6 @@
 ﻿---
 has_id_wikidata: Q12725
-time_of_discovery_or_invention: "1821-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1821"
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"

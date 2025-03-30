@@ -141,12 +141,12 @@ name_in_native_language:
 - "Maria Skłodowska-Curie"
 birth_name: "Marya Salomea Skłodowska"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/POL%20COA%20Do%C5%82%C4%99ga.svg"
-date_of_death: "1934-07-04T00:00:00Z"
+date_of_death: "1934-07-04"
 ISNI:
 - 0000000368644542
 - 0000000121401274
 - 0000000368644534
-date_of_birth: "1867-11-07T00:00:00Z"
+date_of_birth: "1867-11-07"
 spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Marie%20Curie.mp3"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Spoken%20Wikipedia-Marie%20Curie.oga"

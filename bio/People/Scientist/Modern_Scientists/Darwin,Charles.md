@@ -161,7 +161,7 @@ Commons_gallery: "Charles Darwin"
 Commons_category: "Charles Darwin"
 Commons_Creator_page: "Charles Darwin"
 short_name: "Charles Darwin"
-date_of_birth: "1809-02-12T00:00:00Z"
+date_of_birth: "1809-02-12"
 U_S_National_Archives_Identifier: 10580367
 name_in_native_language: "Charles Robert Darwin"
 birth_name: "Charles Robert Darwin"
@@ -186,7 +186,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~TP updated between September 2019 and August 2020,98755339]]"
 - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
-date_of_death: "1882-04-19T00:00:00Z"
+date_of_death: "1882-04-19"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Darwin%20Coat%20of%20Arms.svg"
 ISNI: 0000000121251077
 described_at_URL:

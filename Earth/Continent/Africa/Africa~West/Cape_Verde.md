@@ -262,8 +262,8 @@ urban_population:
 INSEE_countries_and_foreign_territories_code: 99396
 population: 555988
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cape%20Verde.svg"
-inception: "1975-07-05T00:00:00Z"
-has_time_started: "1975-07-05T00:00:00Z"
+inception: "1975-07-05"
+has_time_started: "1975-07-05"
 IOC_country_code: CPV
 ISO_3166_1_alpha_3_code: CPV
 ITU_letter_code: CPV

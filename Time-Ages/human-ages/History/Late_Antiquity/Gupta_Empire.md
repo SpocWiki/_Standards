@@ -9,11 +9,11 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-dissolved_abolished_or_demolished_date: "0550-01-01T00:00:00Z"
-has_time_started: "0320-01-01T00:00:00Z"
-has_time_stopped: "0550-01-01T00:00:00Z"
+dissolved_abolished_or_demolished_date: "0550"
+has_time_started: "0320"
+has_time_stopped: "0550"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/IndiaGuptaEmpire1.jpg"
-inception: "0320-01-01T00:00:00Z"
+inception: "0320"
 instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
 language_used: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gupta%20Empire%20320%20-%20600%20ad.PNG"

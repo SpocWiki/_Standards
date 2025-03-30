@@ -109,7 +109,7 @@ name_in_native_language: "Aurelius Augustinus"
 ISNI: 0000000121376443
 ORCID_iD: 0000-0003-2685-9211
 Europeana_entity: agent/base/171259
-date_of_birth: "0354-11-14T00:00:00Z"
+date_of_birth: "0354-11-14"
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 feast_day:
 - "[[_Standards/WikiData/WD~June 15,2613]]"
@@ -122,7 +122,7 @@ canonization_status: '[[_Standards/WikiData/WD~saint,43115]]'
 influenced_by: '[[_Standards/WikiData/WD~Ambrose,43689]]'
 lifestyle: '[[_Standards/WikiData/WD~mysticism,45996]]'
 Library_of_Congress_Classification: BR1720.A9
-date_of_death: "0430-08-29T00:00:00Z"
+date_of_death: "0430-08-29"
 PhilPapers_topic: augustine
 Royal_Academy_new_identifier: augustine
 ArhivX_LOD: 36876

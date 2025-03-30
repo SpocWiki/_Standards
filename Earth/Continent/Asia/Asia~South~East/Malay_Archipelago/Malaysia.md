@@ -524,8 +524,8 @@ INSEE_countries_and_foreign_territories_code: 99227
 IOC_country_code: MAS
 ITU_letter_code: MLA
 ISO_3166_1_alpha_3_code: MYS
-inception: "1963-09-16T00:00:00Z"
-has_time_started: "1963-09-16T00:00:00Z"
+inception: "1963-09-16"
+has_time_started: "1963-09-16"
 Commons_category: Malaysia
 Commons_gallery: Malaysia
 licence_plate_code: MAL

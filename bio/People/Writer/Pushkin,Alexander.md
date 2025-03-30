@@ -129,8 +129,8 @@ CYT_CCS:
 - AC000151983
 - AC000151941
 - AC000072681
-date_of_death: "1837-02-10T00:00:00Z"
-work_period_end_: "1837-01-01T00:00:00Z"
+date_of_death: "1837-02-10"
+work_period_end_: "1837"
 place_of_birth: '[[_Standards/WikiData/WD~Moscow,649]]'
 place_of_death: "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
 writing_language:
@@ -163,8 +163,8 @@ pseudonym:
 Swedish_Royal_Theater_Archive: Person/823
 name_in_native_language: "Александр Сергеевич Пушкин"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Orest%20Kiprensky%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%BE%D1%8D%D1%82%D0%B0%20%D0%90.%D0%A1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%20-%20Google%20Art%20Project.jpg"
-work_period_start_: "1814-01-01T00:00:00Z"
-date_of_birth: "1799-06-06T00:00:00Z"
+work_period_start_: "1814"
+date_of_birth: "1799-06-06"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Pushkin%20Signature.svg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/PushkinGory%20asv2018-07%20img18%20Svyatogorsky%20Monastery.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Pushkin.ogg"

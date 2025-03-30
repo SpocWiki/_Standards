@@ -9,9 +9,9 @@ X_Twitter_username:
 - EmpireStateBldg
 Facebook_username: empirestatebuilding
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Attractions%20Banner.jpg"
-date_of_official_opening: "1931-05-01T00:00:00Z"
-inception: "1931-05-01T00:00:00Z"
-has_time_started: "1931-05-01T00:00:00Z"
+date_of_official_opening: "1931-05-01"
+inception: "1931-05-01"
+has_time_started: "1931-05-01"
 located_on_street:
 - "[[_Standards/WikiData/WD~Fifth Avenue,109858]]"
 - "[[_Standards/WikiData/WD~34th Street,110049]]"

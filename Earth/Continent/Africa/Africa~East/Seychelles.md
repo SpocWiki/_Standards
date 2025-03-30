@@ -178,8 +178,8 @@ ITU_letter_code: SEY
 OmegaWiki_Defined_Meaning: 153897
 INSEE_countries_and_foreign_territories_code: 99398
 ISO_3166_1_alpha_3_code: SYC
-inception: "1976-06-29T00:00:00Z"
-has_time_started: "1976-06-29T00:00:00Z"
+inception: "1976-06-29"
+has_time_started: "1976-06-29"
 PM20_geo_code: C106
 life_expectancy: 74.30976
 coordinates_of_northernmost_point: "Point(55.2 -3.72)"

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12483
 GitHub_topic: statistics
 subreddit: statistics

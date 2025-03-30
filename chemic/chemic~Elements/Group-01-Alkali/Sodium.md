@@ -110,7 +110,7 @@ element_symbol: Na
 Colon_Classification: E111
 Unicode_character: 鈉
 PubChem_CID: 5360545
-time_of_discovery_or_invention: "1807-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1807"
 canonical_SMILES: '[Na]'
 Commons_category: Sodium
 Commons_gallery: Sodium

@@ -117,11 +117,11 @@ topic_s_main_template:
 described_by_source:
 - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-date_of_death: "1968-04-04T00:00:00Z"
+date_of_death: "1968-04-04"
 Commons_gallery: "Martin Luther King, Jr."
 Commons_category: "Martin Luther King, Jr."
 U_S_National_Archives_Identifier: 10583019
-date_of_birth: "1929-01-15T00:00:00Z"
+date_of_birth: "1929-01-15"
 doctoral_advisor: "[[_Standards/WikiData/WD~Lotan Harold DeWolf,48886010]]"
 documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
 archives_at: "[[_Standards/WikiData/WD~Swarthmore College Peace Collection,98382711]]"

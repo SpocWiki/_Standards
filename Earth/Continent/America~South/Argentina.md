@@ -361,8 +361,8 @@ urban_population:
 Unicode_character: 🇦🇷 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Argentina.svg"
 U_S_National_Archives_Identifier: 10045211
-inception: "1816-07-09T00:00:00Z"
-has_time_started: "1816-07-09T00:00:00Z"
+inception: "1816-07-09"
+has_time_started: "1816-07-09"
 male_population:
 - 22249019
 - 22465694

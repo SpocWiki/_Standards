@@ -155,14 +155,14 @@ social_media_followers: 208000
 Commons_Creator_page: "Ludwig van Beethoven"
 Commons_gallery: "Ludwig van Beethoven"
 Commons_category: "Ludwig van Beethoven"
-date_of_death: "1827-03-26T00:00:00Z"
-work_period_end_: "1827-01-01T00:00:00Z"
+date_of_death: "1827-03-26"
+work_period_end_: "1827"
 name_in_native_language: "Ludwig van Beethoven"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Beethoven.jpg"
-work_period_start_: "1782-01-01T00:00:00Z"
+work_period_start_: "1782"
 NLC_authorities: 000036053
-date_of_baptism: "1770-12-17T00:00:00Z"
-date_of_birth: "1770-12-16T00:00:00Z"
+date_of_baptism: "1770-12-17"
+date_of_birth: "1770-12-16"
 ---
 
 ## #has_/text_of_/abstract 

@@ -54,8 +54,8 @@ dedicated_to: '[[_Standards/WikiData/WD~Athena,37122]]'
 width: 30.8
 height: 13.72
 length: 69.61
-inception: "-0500-01-01T00:00:00Z"
-has_time_started: "-0500-01-01T00:00:00Z"
+inception: "-0500"
+has_time_started: "-0500"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Athens%20Acropolis%20Parthenon%20day.ogv"
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Parthenon.stl"
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Parthenon%20by%20night.jpg"

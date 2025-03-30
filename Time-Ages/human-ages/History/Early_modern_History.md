@@ -6,7 +6,7 @@ aliases:
 Commons_category: "Early Modern period"
 Commons_gallery: "Early Modern period"
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
-end_time: "1800-01-01T00:00:00Z"
+end_time: "1800"
 follows: "[[_Standards/WikiData/WD~Postclassical Era,7234117]]"
 history_of_topic: "[[_Standards/WikiData/WD~Early Modern history,109120185]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler%20World%20Map%20AD1760.jpg"
@@ -16,7 +16,7 @@ instance_of:
 MeSH_tree_code: K01.400.475
 part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Early%20modern%20period.mp3"
-start_time: "1500-01-01T00:00:00Z"
+start_time: "1500"
 ---
 
 #has_/time_/started :: 1500-06

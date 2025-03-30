@@ -7,7 +7,7 @@ Instagram_username: om_kulthum
 Facebook_username: ommkalthom
 Commons_category: "Umm Kulthum"
 Google_Doodle: umm-kalthums-birthday
-work_period_start_: "1923-01-01T00:00:00Z"
+work_period_start_: "1923"
 award_received:
 - "[[_Standards/WikiData/WD~National Order of the Cedar,93864]]"
 - "[[_Standards/WikiData/WD~Order of the Republic,2054765]]"
@@ -41,7 +41,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
 - "[[_Standards/WikiData/WD~Africa_ An Encyclopedic Reference,115653803]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
-date_of_birth: "1898-12-31T00:00:00Z"
+date_of_birth: "1898-12-31"
 birth_name: "فاطمه ابراهيم السيد البلتاجى"
 ISNI: 000000012120430X
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Umm%20Kulthum%20in%201950.jpg"
@@ -53,8 +53,8 @@ native_language: "[[_Standards/WikiData/WD~Egyptian Arabic,29919]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 place_of_death: '[[_Standards/WikiData/WD~Cairo,85]]'
 voice_type: '[[_Standards/WikiData/WD~contralto,37137]]'
-work_period_end_: "1975-01-01T00:00:00Z"
-date_of_death: "1975-02-03T00:00:00Z"
+work_period_end_: "1975"
+date_of_death: "1975-02-03"
 ---
 
 ## #has_/text_of_/abstract 

@@ -97,8 +97,8 @@ NLC_authorities: 000170920
 BHCL_UUID: 2a3d9226-0757-49e5-9305-1b891ad9e7eb
 birth_name: "Simone Lucie Ernestine Marie Bertrand de Beauvoir"
 name: "Симона-Люси-Эрнестина-Мари Бертран де Бовуар"
-date_of_death: "1986-04-14T00:00:00Z"
-date_of_birth: "1908-01-09T00:00:00Z"
+date_of_death: "1986-04-14"
+date_of_birth: "1908-01-09"
 Europeana_entity: agent/base/145400
 Libris_URI: b8nqsxdv4sgf29h
 Wolfram_Language_entity_code:

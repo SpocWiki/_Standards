@@ -292,8 +292,8 @@ Commons_category: Montenegro
 hashtag: Montenegro
 Commons_gallery: "Црна Гора / Crna Gora"
 short_name: "\U0001F1F2\U0001F1EA"
-inception: "2006-06-03T00:00:00Z"
-has_time_started: "2006-06-03T00:00:00Z"
+inception: "2006-06-03"
+has_time_started: "2006-06-03"
 coordinate_location: "Point(19.216667 42.766667)"
 coordinates_of_westernmost_point: "Point(18.4338221 42.48397418)"
 coordinates_of_northernmost_point: "Point(18.98 43.55)"

@@ -32,7 +32,7 @@ history_of_topic: "[[_Standards/WikiData/WD~history of paper,1811550]]"
 subclass_of: "[[_Standards/WikiData/WD~manufactured product,3406743]]"
 studied_in: "[[_Standards/WikiData/WD~paper studies,7132695]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Paper,8513114]]'
-time_of_discovery_or_invention: "-0140-01-01T00:00:00Z"
+time_of_discovery_or_invention: "-0140"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
 UMLS_CUI: C0030351
 International_Classification_for_Standards: 85.060

@@ -22,7 +22,7 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox transistor,228
 UMLS_CUI: C2713584
 MeSH_tree_code: E07.305.625.714
 Nomenclature_for_Museum_Cataloging: 8832
-time_of_discovery_or_invention: "1947-12-01T00:00:00Z"
+time_of_discovery_or_invention: "1947-12-01"
 ---
 
 ## #has_/text_of_/abstract 

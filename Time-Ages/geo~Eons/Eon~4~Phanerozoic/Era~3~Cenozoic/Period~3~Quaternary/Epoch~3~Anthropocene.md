@@ -13,7 +13,8 @@
 
 > **Anthropocene** is a term that has been used to refer to the period of time 
 > during which humanity has become a planetary force of change. 
-> It appears in scientific and social discourse, especially with respect to accelerating geophysical and biochemical changes 
+> It appears in scientific and social discourse, 
+> especially with respect to accelerating geophysical and biochemical changes 
 > that characterize the 20th and 21st centuries on Earth. 
 > 
 > Originally a proposal for a new geological epoch following the Holocene, 
@@ -63,7 +64,7 @@
 ## Indicators 
 
 Proponents argue that evidence for the Anthropocene includes:
-- **Climate Change**: Accelerated climate change attributed to human activities, primarily the increase of greenhouse gases in the atmosphere since the [[../../../../human-ages/History/Modern_History/Industrial_Revolution|Industrial Revolution]].
+- **Climate Change**: Accelerated climate change attributed to human activities, primarily the increase of greenhouse gases in the atmosphere since the [[Epoch~3~Anthropocene/Modern_History/Industrial_Revolution|Industrial Revolution]].
 - **Biodiversity Loss**: Increased rates of species extinctions and biodiversity loss linked to habitat destruction, pollution, and other anthropogenic factors.
 - **Sediment Changes**: Changes in sedimentation patterns due to urbanization, agriculture, and industrial processes.
 - **Chemical Signatures**: The presence of new materials like plastics, concrete, and nuclear fallout in the geologic record, which may serve as markers for the Anthropocene.
@@ -74,6 +75,6 @@ Proponents argue that evidence for the Anthropocene includes:
 The onset of the Anthropocene epoch is still debated. Proposed starting points include:
 - Neolithic Revolution (12,000–15,000 years ago): 
 - the [[Epoch~2~Holocene|Holocene Calendar]] or  Human Era as proposed by Cesare Emiliani 
-- **[[../../../../human-ages/History/Modern_History/Industrial_Revolution|Industrial Revolution]] (~1750 CE)**: Marking the significant rise in coal use and greenhouse gas emissions.
+- **[[Epoch~3~Anthropocene/Modern_History/Industrial_Revolution|Industrial Revolution]] (~1750 CE)**: Marking the significant rise in coal use and greenhouse gas emissions.
 - **The Great Acceleration (~1950 CE)**: Highlighting the exponential growth in population, industrialization, and environmental impacts.
 

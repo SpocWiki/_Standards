@@ -6,8 +6,8 @@ has_id_wikidata: Q926
 U_S_National_Archives_Identifier: 10582138
 Commons_gallery: "Roald Amundsen"
 Commons_category: "Roald Amundsen"
-date_of_disappearance: "1928-06-18T00:00:00Z"
-date_of_death: "1928-06-18T00:00:00Z"
+date_of_disappearance: "1928-06-18"
+date_of_death: "1928-06-18"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Amundsen%20in%20fur%20skins.jpg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8C%D5%B8%D6%82%D5%A1%D5%AC%20%D4%B1%D5%B4%D5%B8%D6%82%D5%B6%D5%A4%D5%BD%D5%A5%D5%B6%20%28Roald%20Amundsen%29.ogg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Amundsen%20Banner.jpg"
@@ -76,7 +76,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 has_works_in_the_collection: "[[_Standards/WikiData/WD~Photography Collection,105026832]]"
 depicted_by: "[[_Standards/WikiData/WD~Fra Strøget. _ XLV._ Roald Amundsen,109729634]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject New York Public Library,121437821]]"
-date_of_birth: "1872-07-16T00:00:00Z"
+date_of_birth: "1872-07-16"
 ISNI: 0000000114475638
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=652827039"

@@ -20,7 +20,7 @@ continent: '[[_Standards/WikiData/WD~Eurasia,5401]]'
 currency: '[[_Standards/WikiData/WD~balysh,4077050]]'
 described_by_source: "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
 different_from: "[[_Standards/WikiData/WD~Mughal Empire,33296]]"
-dissolved_abolished_or_demolished_date: "1368-01-01T00:00:00Z"
+dissolved_abolished_or_demolished_date: "1368"
 flag: "[[_Standards/WikiData/WD~Flag of the Mongol Empire,65406099]]"
 has_part_s_:
   - '[[_Standards/WikiData/WD~Ilkhanate,178084]]'
@@ -29,8 +29,8 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~House of Ögedei,294652]]"
   - "[[_Standards/WikiData/WD~Yuan dynasty,7313]]"
 has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Imperial Seal of Mongolia,3874663]]"
-has_time_started: "1206-01-01T00:00:00Z"
-has_time_stopped: "1368-01-01T00:00:00Z"
+has_time_started: "1206"
+has_time_stopped: "1368"
 head_of_state:
   - "[[_Standards/WikiData/WD~Genghis Khan,720]]"
   - "[[_Standards/WikiData/WD~Güyük Khan,7520]]"
@@ -38,7 +38,7 @@ head_of_state:
   - "[[_Standards/WikiData/WD~Möngke Khan,7521]]"
   - "[[_Standards/WikiData/WD~Ögedei Khan,7519]]"
   - "[[_Standards/WikiData/WD~Toghon Temür,8666]]"
-inception: "1206-01-01T00:00:00Z"
+inception: "1206"
 instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
 language_used: "[[_Standards/WikiData/WD~Middle Chinese,2016252]]"
 legislative_body: '[[_Standards/WikiData/WD~Kurultai,136649]]'

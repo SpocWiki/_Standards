@@ -156,8 +156,8 @@ Swedish_National_Archive_reference_code:
 - SE/UUB/REA000136843
 birth_name: "Carl Nilsson Linnaeus"
 name_in_native_language: "Carl von Linné"
-date_of_death: "1778-01-10T00:00:00Z"
-work_period_end_: "1778-01-01T00:00:00Z"
+date_of_death: "1778-01-10"
+work_period_end_: "1778"
 mother: "[[_Standards/WikiData/WD~Christina Brodersonia,19387900]]"
 family_name:
 - '[[_Standards/WikiData/WD~Linné,19983536]]'
@@ -173,8 +173,8 @@ described_at_URL:
 - "http://www.digiporta.net/index.php?id=490919988"
 - "http://www.digiporta.net/index.php?id=707578679"
 - "https://forum.genealogi.se/index.php?topic=77624.0"
-work_period_start_: "1722-01-01T00:00:00Z"
-date_of_birth: "1707-05-23T00:00:00Z"
+work_period_start_: "1722"
+date_of_birth: "1707-05-23"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~Swedish,9027]]'

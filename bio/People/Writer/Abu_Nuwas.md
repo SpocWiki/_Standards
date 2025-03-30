@@ -2,10 +2,10 @@
 has_id_wikidata: Q5670
 name_in_native_language: "أبو نواس"
 date_of_death:
-- "0815-01-01T00:00:00Z"
-- "0814-01-01T00:00:00Z"
-- "0813-01-01T00:00:00Z"
-- "0810-01-01T00:00:00Z"
+- "0815"
+- "0814"
+- "0813"
+- "0810"
 place_of_birth: '[[_Standards/WikiData/WD~Ahvaz,170366]]'
 sexual_orientation: '[[_Standards/WikiData/WD~non-heterosexuality,339014]]'
 described_by_source:
@@ -22,8 +22,8 @@ given_name: '[[_Standards/WikiData/WD~Hassan,16276444]]'
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 ISNI: 0000000115072339
 date_of_birth:
-- "0762-01-01T00:00:00Z"
-- "0756-01-01T00:00:00Z"
+- "0762"
+- "0756"
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 genre: '[[_Standards/WikiData/WD~poetry,482]]'
 place_of_death: '[[_Standards/WikiData/WD~Baghdad,1530]]'

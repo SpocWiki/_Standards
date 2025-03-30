@@ -716,8 +716,8 @@ social_media_followers:
 - 1446954
 number_of_out_of_school_children: 3181989
 area: 8515767
-inception: "1822-09-07T00:00:00Z"
-has_time_started: "1822-09-07T00:00:00Z"
+inception: "1822-09-07"
+has_time_started: "1822-09-07"
 rural_population:
 - 26795765
 - 27182995
@@ -729,7 +729,7 @@ urban_population:
 - 187143228
 - 188517733
 coordinates_of_easternmost_point: "Point(-34.793055555 -7.155555555)"
-time_of_discovery_or_invention: "1500-05-02T00:00:00Z"
+time_of_discovery_or_invention: "1500-05-02"
 population: 203062512
 ---
 

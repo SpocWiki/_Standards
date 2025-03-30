@@ -328,8 +328,8 @@ coordinates_of_northernmost_point: "Point(6.024783 50.182794)"
 Commons_category: Luxembourg
 hashtag: Luxembourg
 subreddit: Luxembourg
-inception: "1815-01-01T00:00:00Z"
-has_time_started: "1815-01-01T00:00:00Z"
+inception: "1815"
+has_time_started: "1815"
 coordinates_of_southernmost_point: "Point(6.041683 49.44775)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:LuxembourgCountry.map"
 has_id_wikidata: Q32

@@ -69,7 +69,7 @@ given_name: '[[_Standards/WikiData/WD~Cyrus,10861063]]'
 family: "[[_Standards/WikiData/WD~Achaemenid dynasty,13527812]]"
 Provenio_UUID: 7e191ea9-11df-46dd-9898-fed71f8b458e
 ISNI: 0000000437560028
-date_of_birth: "-0599-01-01T00:00:00Z"
+date_of_birth: "-0599"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: "Cyrus the Great"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Men%20and%20Famous%20Women%20Volume%201%20-%20Cyrus%20the%20Great.png"
@@ -77,7 +77,7 @@ BHCL_UUID: 069ff67f-d90b-4a19-abf0-861c6d55748a
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"CyrusII::spbg8\"]"
 Krugosvet_article: istoriya/KIR_VELIKI.html
 name_in_native_language: "\U000103A4\U000103A2\U000103BD\U000103A2\U000103C1"
-date_of_death: "-0529-01-01T00:00:00Z"
+date_of_death: "-0529"
 ---
 
 ## #has_/text_of_/abstract 

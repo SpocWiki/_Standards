@@ -14,9 +14,9 @@ different_from: '[[_Standards/WikiData/WD~piano,2707020]]'
 highest_note: '[[_Standards/WikiData/WD~C8,5349143]]'
 instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
 Baidu_Tieba_name: 钢琴
-inception: "1720-01-01T00:00:00Z"
-has_time_started: "1720-01-01T00:00:00Z"
-time_of_discovery_or_invention: "1700-01-01T00:00:00Z"
+inception: "1720"
+has_time_started: "1720"
+time_of_discovery_or_invention: "1700"
 subclass_of: "[[_Standards/WikiData/WD~keyboard instrument,52954]]"
 Nomenclature_for_Museum_Cataloging: 10717
 OmegaWiki_Defined_Meaning: 344431

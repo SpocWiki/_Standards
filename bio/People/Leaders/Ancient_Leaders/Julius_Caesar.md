@@ -145,7 +145,7 @@ name_in_native_language:
 - "GAIVS IVLIVS CAESAR"
 - "DIVVS IVLIVS"
 ISNI: 0000000382473815
-date_of_death: "-0043-03-13T00:00:00Z"
+date_of_death: "-0043-03-13"
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
@@ -166,7 +166,7 @@ BHCL_UUID: 0c3dd285-04e4-4c7b-a768-155edd850d3c
 Libris_URI: 0xbdd6fj3p61h54
 last_words: "Καὶ σὺ τέκνον"
 religious_name: "Divus Julius"
-date_of_birth: "-0099-07-01T00:00:00Z"
+date_of_birth: "-0099-07-01"
 OmegaWiki_Defined_Meaning: 1443151
 Provenio_UUID: b1faf8c3-589f-4100-ab8e-82d8ccc9521b
 posthumous_name: "Divus Iulius"

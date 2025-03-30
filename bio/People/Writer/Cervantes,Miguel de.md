@@ -79,7 +79,7 @@ artist_files_at: "[[_Standards/WikiData/WD~Philadelphia Museum of Art Library an
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen Leest,101246526]]"
 family_name: "[[_Standards/WikiData/WD~de Cervantes,101439484]]"
 depicted_by: "[[_Standards/WikiData/WD~Statue of Miguel Cervantes, Naupactus,114139842]]"
-date_of_death: "1616-04-22T00:00:00Z"
+date_of_death: "1616-04-22"
 NLC_authorities: 000061136
 ISNI: 0000000121221919
 plaque_image:
@@ -92,8 +92,8 @@ Commons_gallery: "Miguel de Cervantes"
 Commons_category: "Miguel de Cervantes"
 Commons_Creator_page: "Miguel de Cervantes"
 name_in_native_language: "Miguel de Cervantes Saavedra"
-date_of_baptism: "1547-10-19T00:00:00Z"
-date_of_birth: "1547-10-09T00:00:00Z"
+date_of_baptism: "1547-10-19"
+date_of_birth: "1547-10-09"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cervantes%20J%C3%A1uregui.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20de%20Cervantes%20signature.svg"
 IPI_name_number: 00005750114

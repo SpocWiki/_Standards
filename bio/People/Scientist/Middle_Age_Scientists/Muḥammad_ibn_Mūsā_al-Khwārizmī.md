@@ -31,7 +31,7 @@ field_of_work:
 - "[[_Standards/WikiData/WD~earth science,8008]]"
 - '[[_Standards/WikiData/WD~trigonometry,8084]]'
 - '[[_Standards/WikiData/WD~arithmetic,11205]]'
-work_period_start_: "0813-01-01T00:00:00Z"
+work_period_start_: "0813"
 given_name: '[[_Standards/WikiData/WD~Muhammad,5837762]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
@@ -44,7 +44,7 @@ ISNI:
 - 0000000121416329
 - 0000000458424420
 place_of_birth: "http://www.wikidata.org/.well-known/genid/9897314d2ccf179eb6f15e5db987ec64"
-date_of_birth: "0780-01-01T00:00:00Z"
+date_of_birth: "0780"
 name_in_native_language: "أبو عبد الله محمد بن موسى الخوارزمي"
 residence:
 - '[[_Standards/WikiData/WD~Baghdad,1530]]'
@@ -60,8 +60,8 @@ employer:
 Commons_category: "Muhammad ibn Musa al-Khwarizmi"
 Commons_Creator_page: "Muhammad ibn Musa al-Khwarizmi"
 Commons_gallery: "Muhammad ibn Musa al-Khwarizmi"
-date_of_death: "0850-01-01T00:00:00Z"
-work_period_end_: "0846-01-01T00:00:00Z"
+date_of_death: "0850"
+work_period_end_: "0846"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Al-Khwarizmi%20portrait.jpg"
 Libris_URI: 1zcf8rck5jh8jzf
 ---

@@ -329,8 +329,8 @@ urban_population:
 - 46831955
 - 47689118
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Egypt%20relief%20location%20map.jpg"
-inception: "1922-02-28T00:00:00Z"
-has_time_started: "1922-02-28T00:00:00Z"
+inception: "1922-02-28"
+has_time_started: "1922-02-28"
 female_population:
 - 52189268
 - 53107732

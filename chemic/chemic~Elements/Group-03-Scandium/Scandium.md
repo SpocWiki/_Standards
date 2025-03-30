@@ -22,7 +22,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
 - "[[_Standards/WikiData/WD~chemical element,11344]]"
 different_from: '[[_Standards/WikiData/WD~Scandinavium,1138447]]'
-time_of_discovery_or_invention: "1879-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1879"
 UMLS_CUI: C0036274
 Common_Procurement_Vocabulary_code:
 - 14723000-5

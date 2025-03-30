@@ -31,7 +31,7 @@ has_characteristic:
 subject_has_role:
 - "[[_Standards/WikiData/WD~radioactive air pollutants,50429809]]"
 - "[[_Standards/WikiData/WD~environmental carcinogens,50429902]]"
-time_of_discovery_or_invention: "1899-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1899"
 UMLS_CUI: C0205919
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg"
 different_from: '[[_Standards/WikiData/WD~radium,1128]]'

@@ -209,8 +209,8 @@ official_name: Հայաստան
 coordinates_of_northernmost_point: "Point(45.0 41.3)"
 U_S_National_Archives_Identifier: 10045258
 name_in_native_language: "Հայաստանի Հանրապետություն"
-inception: "1991-09-23T00:00:00Z"
-has_time_started: "1991-09-23T00:00:00Z"
+inception: "1991-09-23"
+has_time_started: "1991-09-23"
 CIVICUS_Monitor_country_entry: armenia
 subreddit: armenia
 X_Twitter_username: armenia

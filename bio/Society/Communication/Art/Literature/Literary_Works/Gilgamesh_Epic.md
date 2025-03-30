@@ -39,8 +39,8 @@ Libris_URI: 75knt7zr5s4ngd5
 described_at_URL:
 - "https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html"
 - "https://www.ebl.lmu.de/corpus/L/1/4"
-inception: "-2100-01-01T00:00:00Z"
-has_time_started: "-2100-01-01T00:00:00Z"
+inception: "-2100"
+has_time_started: "-2100"
 language_of_work_or_name: '[[_Standards/WikiData/WD~Akkadian,35518]]'
 different_from: "[[_Standards/WikiData/WD~epic poem,37484]]"
 genre: "[[_Standards/WikiData/WD~epic poem,37484]]"

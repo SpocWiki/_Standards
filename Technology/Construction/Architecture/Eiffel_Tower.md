@@ -74,11 +74,11 @@ Facebook_username: TourEiffel
 Instagram_username: toureiffelofficielle
 native_label: "tour Eiffel"
 date_of_official_opening:
-- "1889-05-15T00:00:00Z"
-- "1889-03-31T00:00:00Z"
+- "1889-05-15"
+- "1889-03-31"
 inception:
-- "1889-03-31T00:00:00Z"
-- "1887-01-28T00:00:00Z"
+- "1889-03-31"
+- "1887-01-28"
 ground_level_360_degree_view_URL: "https://360stories.com/paris/place/eiffel-tower-at-night"
 coordinate_location: "Point(2.294479 48.858296)"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20Paris%20banner.jpg"
@@ -94,7 +94,7 @@ mass: 10100
 postal_code: 75007
 social_media_followers: 356097
 visitors_per_year: 6207303
-public_domain_date: "1993-01-01T00:00:00Z"
+public_domain_date: "1993"
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/EiffelTower%20fixed.stl"
 Commons_category: "Eiffel Tower"
 ---

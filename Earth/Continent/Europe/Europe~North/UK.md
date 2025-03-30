@@ -244,7 +244,7 @@ named_after: '[[_Standards/WikiData/WD~union,17853087]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828650,22828650]]'
 category_of_associated_people: '[[_Standards/WikiData/WD~Q32670711,32670711]]'
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
-Gregorian_calendar_start_date: "1752-09-14T00:00:00Z"
+Gregorian_calendar_start_date: "1752-09-14"
 coordinates_of_northernmost_point: "Point(-0.87 60.87)"
 Baidu_Tieba_name: 英国
 short_name:
@@ -448,8 +448,8 @@ coordinate_location: "Point(-2.0 54.6)"
 nominal_GDP:
 - 3122480345925
 - 3070667732359
-inception: "1927-04-12T00:00:00Z"
-has_time_started: "1927-04-12T00:00:00Z"
+inception: "1927-04-12"
+has_time_started: "1927-04-12"
 urban_population:
 - 55909924
 - 56283168

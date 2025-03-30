@@ -17,7 +17,7 @@ made_from_material:
 - "[[_Standards/WikiData/WD~euxenite mineral group,18016084]]"
 found_in_taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
 UMLS_CUI: C0039541
-time_of_discovery_or_invention: "1843-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1843"
 location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754]]'
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 electronegativity: 1.2

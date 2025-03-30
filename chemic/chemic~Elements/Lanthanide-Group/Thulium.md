@@ -13,7 +13,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox thulium,8085525]]"
-time_of_discovery_or_invention: "1879-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1879"
 UMLS_CUI: C0040066
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 electronegativity: 1

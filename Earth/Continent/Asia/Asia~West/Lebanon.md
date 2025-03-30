@@ -288,8 +288,8 @@ IOC_country_code: LBN
 PM20_geo_code: B24c
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lebanon%20%28orthographic%20projection%29.svg"
 UNDP_country_code: LEB
-inception: "1943-11-22T00:00:00Z"
-has_time_started: "1943-11-22T00:00:00Z"
+inception: "1943-11-22"
+has_time_started: "1943-11-22"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Lebanon.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lebanon.svg"
 pronunciation_audio:

@@ -28,7 +28,7 @@ operator: "[[_Standards/WikiData/WD~Suez Canal Authority,1542301]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Suez Canal,6352759]]"
 nickname: "Marlboro Canal"
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Suez%20canal%20blank.jpg"
-date_of_official_opening: "1869-11-17T00:00:00Z"
+date_of_official_opening: "1869-11-17"
 coordinate_location: "Point(32.344166666 30.705)"
 destination_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
 connects_with:

@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q75655
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20de%20Fermat3.jpg"
 name_in_native_language: "Pierre de Fermat"
-date_of_death: "1665-01-12T00:00:00Z"
+date_of_death: "1665-01-12"
 BHCL_UUID: 509d9d86-d75f-4cf0-b26e-5c5094fd892f
 Krugosvet_article: nauka_i_tehnika/matematika/FERMA_PER.html
 Google_Doodle: pierre-de-fermats-410th-birthday
@@ -60,7 +60,7 @@ educated_at: "[[_Standards/WikiData/WD~Old University of Orléans,23197733]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 family_name: "[[_Standards/WikiData/WD~de Fermat,104814497]]"
 spouse: "[[_Standards/WikiData/WD~Louise de Long,108646034]]"
-date_of_birth: "1607-01-01T00:00:00Z"
+date_of_birth: "1607"
 Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/fermat"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fermats%20Epitaph.JPG"
 ISNI: 0000000080934049

@@ -108,8 +108,8 @@ diplomatic_relation:
 social_media_followers: 980583
 Commons_category: "African Union"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20African%20Union.svg"
-inception: "1999-09-09T00:00:00Z"
-has_time_started: "1999-09-09T00:00:00Z"
+inception: "1999-09-09"
+has_time_started: "1999-09-09"
 X_Twitter_username: _AfricanUnion
 aliases:
 - "African Union"

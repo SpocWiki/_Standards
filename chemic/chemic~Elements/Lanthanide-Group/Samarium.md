@@ -17,7 +17,7 @@ made_from_material:
 - "[[_Standards/WikiData/WD~spent nuclear fuel,2623868]]"
 - '[[_Standards/WikiData/WD~monazite-(Sm),3860584]]'
 - '[[_Standards/WikiData/WD~florencite-(Sm),13588763]]'
-time_of_discovery_or_invention: "1879-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1879"
 UMLS_CUI: C0036147
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'

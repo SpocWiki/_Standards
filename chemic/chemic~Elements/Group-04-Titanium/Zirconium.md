@@ -8,7 +8,7 @@ RTECS_number: ZH7070000
 Commons_gallery: Zirconium
 Commons_category: Zirconium
 Unicode_character: 鋯
-time_of_discovery_or_invention: "1789-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1789"
 discoverer_or_inventor:
 - "[[_Standards/WikiData/WD~Jöns Jacob Berzelius,151911]]"
 - "[[_Standards/WikiData/WD~Martin Heinrich Klaproth,160196]]"

@@ -96,14 +96,14 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 height: 1.84
 present_in_work: "[[_Standards/WikiData/WD~Orlando Furioso,48922]]"
 Royal_Academy_new_identifier: charlemagne
-date_of_birth: "0740-01-01T00:00:00Z"
+date_of_birth: "0740"
 name: "Charles Ier"
 Iconclass_notation: 11H(CHARLEMAGNE)
 monogram: "http://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne%20autograph.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne%20denier%20Mayence%20812%20814.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Karldergrossesignatur.jpg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Karlsschrein%20front%20side%20left.jpg"
-date_of_death: "0814-02-01T00:00:00Z"
+date_of_death: "0814-02-01"
 BHCL_UUID:
 - 26296244-fd07-4d08-ab24-cff15ec2613d
 - 482f1403-a923-4f8a-be98-1116237423ed

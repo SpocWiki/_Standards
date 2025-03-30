@@ -47,7 +47,7 @@ family_name: '[[_Standards/WikiData/WD~Joule,16871210]]'
 spouse: "[[_Standards/WikiData/WD~Amelia Grimes,22249972]]"
 father: "[[_Standards/WikiData/WD~Ryann bezerra,112482838]]"
 mother: "[[_Standards/WikiData/WD~Alice Prescott,112482889]]"
-date_of_death: "1889-10-11T00:00:00Z"
+date_of_death: "1889-10-11"
 ISNI: 0000000081073121
 described_at_URL: "http://www.digiporta.net/index.php?id=264860325"
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -59,7 +59,7 @@ influenced_by: "[[_Standards/WikiData/WD~John Dalton,41284]]"
 place_of_birth: '[[_Standards/WikiData/WD~Salford,47952]]'
 name_in_native_language: "James Prescott Joule"
 Commons_category: "James Prescott Joule"
-date_of_birth: "1818-12-24T00:00:00Z"
+date_of_birth: "1818-12-24"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Prescott%20Joule%20gravestone.JPG"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/SS-joule.jpg"
 ---

@@ -17,7 +17,7 @@ history_of_topic:
 - "[[_Standards/WikiData/WD~timeline of radio,4501817]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline of radio,7112714]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131928,27131928]]'
-time_of_discovery_or_invention: "1894-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1894"
 UMLS_CUI: C0034546
 MeSH_tree_code:
 - L01.462.500.590.700

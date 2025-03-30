@@ -38,8 +38,8 @@ different_from:
 - "[[_Standards/WikiData/WD~Beijing Great Wall,16382735]]"
 - "[[_Standards/WikiData/WD~The Great Wall,65961372]]"
 - "[[_Standards/WikiData/WD~Great Wall of China,117214046]]"
-inception: "-0700-01-01T00:00:00Z"
-has_time_started: "-0700-01-01T00:00:00Z"
+inception: "-0700"
+has_time_started: "-0700"
 spherical_panorama_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mutianyu%20%E2%80%93%20Panorama%20%28Greg%20Zaal%20via%20Poly%20Haven%29.jpg"
 located_in_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Beijing,956]]'

@@ -17,7 +17,7 @@ described_by_source:
 distribution_map:
   - "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Thirty%20Years%20War-en.svg"
   - "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Thirty%20Years%20War-fr.svg"
-end_time: "1648-01-01T00:00:00Z"
+end_time: "1648"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Magdeburg%201631.jpg"
 instance_of: "[[_Standards/WikiData/WD~religious war,1827102]]"
 Krugosvet_article: istoriya/TRIDTSATILETNYAYA_VONA.html
@@ -39,10 +39,10 @@ participant:
   - "[[_Standards/WikiData/WD~Lands of the Bohemian Crown,686971]]"
   - "[[_Standards/WikiData/WD~Principality of Transylvania,655621]]"
   - "[[_Standards/WikiData/WD~Spanish Empire,80702]]"
-point_in_time: "1618-05-23T00:00:00Z"
+point_in_time: "1618-05-23"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-30-j%C3%A4hriger%20Krieg.ogg"
 Provenio_UUID: 75ec0398-483e-451b-b4c6-47b60f2fdcba
-start_time: "1618-01-01T00:00:00Z"
+start_time: "1618"
 ---
 
 #has_/time_/started ::  1618-05-23 

@@ -1175,8 +1175,8 @@ urban_population:
 - 153983073
 - 156833203
 - 159608946
-inception: "1945-08-17T00:00:00Z"
-has_time_started: "1945-08-17T00:00:00Z"
+inception: "1945-08-17"
+has_time_started: "1945-08-17"
 coordinates_of_northernmost_point: "Point(95.22 5.9)"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Indonesian%20Culture.jpg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Indonesia%20location%20map.svg"

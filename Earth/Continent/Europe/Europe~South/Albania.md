@@ -344,8 +344,8 @@ nominal_GDP:
 - 18882095518
 - 17930565119
 coordinates_of_northernmost_point: "Point(19.73 42.67)"
-inception: "1912-11-28T00:00:00Z"
-has_time_started: "1912-11-28T00:00:00Z"
+inception: "1912-11-28"
+has_time_started: "1912-11-28"
 coordinates_of_southernmost_point: "Point(20.19382596 39.64477547)"
 population: 2811655
 PM20_geo_code: A48

@@ -44,7 +44,7 @@ chemical_formula: Tc
 element_symbol: Tc
 Commons_gallery: Technetium
 Commons_category: Technetium
-time_of_discovery_or_invention: "1937-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1937"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20043%20technetium.png"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tc-TableImage.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Technetium-sample.jpg"

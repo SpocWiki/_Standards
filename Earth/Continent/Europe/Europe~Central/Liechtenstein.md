@@ -249,8 +249,8 @@ subreddit:
 - Liechtenstein
 GitHub_topic: liechtenstein
 CIVICUS_Monitor_country_entry: liechtenstein
-inception: "1806-07-12T00:00:00Z"
-has_time_started: "1806-07-12T00:00:00Z"
+inception: "1806-07-12"
+has_time_started: "1806-07-12"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Liechtenstein.map"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Liechtenstein.ogg"

@@ -36,7 +36,7 @@ UMLS_CUI:
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg"
 FoodEx2_code: A0ETG
 Library_of_Congress_Classification: QK600-QK638
-start_time: "-410000000-01-01T00:00:00Z"
+start_time: "-410000000"
 different_from: '[[_Standards/WikiData/WD~plant,756]]'
 studied_in: '[[_Standards/WikiData/WD~mycology,7175]]'
 subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'

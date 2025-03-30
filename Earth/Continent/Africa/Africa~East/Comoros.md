@@ -227,8 +227,8 @@ Commons_gallery: Komori
 Commons_category: Comoros
 subreddit: Comoros
 hashtag: Comoros
-inception: "1975-07-06T00:00:00Z"
-has_time_started: "1975-07-06T00:00:00Z"
+inception: "1975-07-06"
+has_time_started: "1975-07-06"
 coordinates_of_northernmost_point: "Point(43.35 -11.37)"
 coordinate_location: "Point(43.7 -12.3)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Comoros.map"

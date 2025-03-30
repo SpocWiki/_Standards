@@ -47,7 +47,7 @@ canonical_SMILES: '[Cf]'
 chemical_formula: Cf
 element_symbol: Cf
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg"
-time_of_discovery_or_invention: "1950-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1950"
 Unicode_character: 鉲
 ---
 

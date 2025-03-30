@@ -177,8 +177,8 @@ Krugosvet_article: filosofiya/leybnic-gotfrid-vilgelm
 Commons_gallery: "Gottfried Wilhelm Leibniz"
 Commons_category: "Gottfried Wilhelm Leibniz"
 Commons_Creator_page: "Gottfried Wilhelm Leibniz"
-date_of_baptism: "1646-07-03T00:00:00Z"
-date_of_birth: "1646-07-01T00:00:00Z"
+date_of_baptism: "1646-07-03"
+date_of_birth: "1646-07-01"
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=781836899"
 - "http://www.digiporta.net/index.php?id=264412184"
@@ -205,7 +205,7 @@ described_at_URL:
 - "http://www.digiporta.net/index.php?id=597406112"
 - "http://www.digiporta.net/index.php?id=177719137"
 - "http://www.digiporta.net/index.php?id=476354852"
-date_of_death: "1716-11-14T00:00:00Z"
+date_of_death: "1716-11-14"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~Italian,652]]'

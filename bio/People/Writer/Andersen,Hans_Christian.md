@@ -8,8 +8,8 @@ Provenio_UUID: 991bb5e0-7c91-4c83-90e8-a9c04f93d672
 BHCL_UUID: adcf2feb-a08e-4ece-b706-c2fe4f6fb82b
 Europeana_entity: agent/base/60027
 ArhivX_LOD: 45469
-work_period_start_: "1827-01-01T00:00:00Z"
-date_of_birth: "1805-04-02T00:00:00Z"
+work_period_start_: "1827"
+date_of_birth: "1805-04-02"
 Commons_gallery: "Hans Christian Andersen"
 Commons_category: "Hans Christian Andersen"
 Commons_Creator_page: "Hans Christian Andersen"
@@ -130,8 +130,8 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen Leest,101246526]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
 depicted_by: "[[_Standards/WikiData/WD~Bust of Hans C. Andersen, Naupactus,114140031]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Da-Hans%20Christian%20Andersen.ogg"
-date_of_death: "1875-08-04T00:00:00Z"
-work_period_end_: "1875-01-01T00:00:00Z"
+date_of_death: "1875-08-04"
+work_period_end_: "1875"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/HCA%20by%20Thora%20Hallager%201869.jpg"
 ISNI: 0000000121184353
 Google_Doodle: hans-christian-andersens-205th-birthday

@@ -67,8 +67,8 @@ X_Twitter_username:
 - WorldBankMENA
 - WorldBankSAsia
 - WorldBankWater
-inception: "1945-12-27T00:00:00Z"
-has_time_started: "1945-12-27T00:00:00Z"
+inception: "1945-12-27"
+has_time_started: "1945-12-27"
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20World%20Bank%20logo.svg"
 official_blog_URL: "https://blogs.worldbank.org/"
 official_website: "https://www.worldbank.org/"

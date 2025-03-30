@@ -18,7 +18,7 @@ Krugosvet_article: nauka_i_tehnika/himiya/KALTSI.html
 InChIKey: OYPRJOBELJOOCE-UHFFFAOYSA-N
 UNII: SY7Q814VUP
 Unicode_character: 鈣
-time_of_discovery_or_invention: "1808-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1808"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
 part_of:
 - "[[_Standards/WikiData/WD~period 4,239825]]"

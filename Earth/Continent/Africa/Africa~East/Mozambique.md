@@ -282,8 +282,8 @@ female_population:
 - 16793302
 PM20_geo_code: C100
 number_of_out_of_school_children: 2405631
-inception: "1975-06-25T00:00:00Z"
-has_time_started: "1975-06-25T00:00:00Z"
+inception: "1975-06-25"
+has_time_started: "1975-06-25"
 IOC_country_code: MOZ
 ITU_letter_code: MOZ
 ISO_3166_1_alpha_3_code: MOZ

@@ -29,7 +29,7 @@ different_from:
 - '[[_Standards/WikiData/WD~borophene,15916419]]'
 named_after: '[[_Standards/WikiData/WD~borax,3513011]]'
 subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-time_of_discovery_or_invention: "1892-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1892"
 subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
 oxidation_state:
 - 1

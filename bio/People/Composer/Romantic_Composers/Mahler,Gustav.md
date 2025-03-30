@@ -76,8 +76,8 @@ Commons_gallery: "Gustav Mahler"
 Commons_category: "Gustav Mahler"
 name_in_native_language: "Gustav Mahler"
 date_of_burial_or_cremation:
-- "1911-05-20T00:00:00Z"
-date_of_death: "1911-05-18T00:00:00Z"
+- "1911-05-20"
+date_of_death: "1911-05-18"
 Europeana_entity: agent/base/147114
 BHCL_UUID:
 - b3b6bc50-7830-46b8-9d95-f870feb21a31
@@ -88,7 +88,7 @@ ISNI: 0000000121358915
 image_of_grave:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Gustav%20Mahler.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Gustav%20Mahler.ogg"
-date_of_birth: "1860-07-07T00:00:00Z"
+date_of_birth: "1860-07-07"
 place_of_death: '[[_Standards/WikiData/WD~Vienna,1741]]'
 ethnic_group:
 - "[[_Standards/WikiData/WD~Jewish people,7325]]"

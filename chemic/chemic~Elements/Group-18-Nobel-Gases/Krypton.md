@@ -30,7 +30,7 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
 - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
 named_after: '[[_Standards/WikiData/WD~hiding,30301727]]'
-time_of_discovery_or_invention: "1898-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1898"
 UMLS_CUI: C0022792
 location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
 electronegativity: 3

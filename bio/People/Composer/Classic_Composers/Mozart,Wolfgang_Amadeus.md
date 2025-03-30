@@ -125,9 +125,9 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject Christian Hymns,100975219]]"
 - "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
-work_period_start_: "1761-01-01T00:00:00Z"
-date_of_baptism: "1756-01-28T00:00:00Z"
-date_of_birth: "1756-01-27T00:00:00Z"
+work_period_start_: "1761"
+date_of_baptism: "1756-01-28"
+date_of_birth: "1756-01-27"
 Commons_category: "Wolfgang Amadeus Mozart"
 Commons_Creator_page: "Wolfgang Amadeus Mozart"
 Commons_gallery: "Wolfgang Amadeus Mozart"
@@ -157,8 +157,8 @@ Libris_URI: mkz12t351kx8pb4
 Google_Doodle: mozarts-250th-birthday
 name_in_native_language: "Johann Chrysostomos Wolfgang Gottlieb Mozart"
 cause_of_death: "http://www.wikidata.org/.well-known/genid/023ca7411c0a2535a9fa4ccea84eb1fe"
-date_of_death: "1791-12-05T00:00:00Z"
-work_period_end_: "1791-01-01T00:00:00Z"
+date_of_death: "1791-12-05"
+work_period_end_: "1791"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Wolfgang%20Amadeus%20Mozart-article.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang-amadeus-mozart%201.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang%20Amadeus%20Mozart%20Signature.svg"

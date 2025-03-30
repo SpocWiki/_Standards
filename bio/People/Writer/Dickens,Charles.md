@@ -115,7 +115,7 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen Leest,101246526]]"
 ISNI:
 - 0000000121428469
 - 0000000448885549
-date_of_death: "1870-06-09T00:00:00Z"
+date_of_death: "1870-06-09"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - "[[_Standards/WikiData/WD~British English,7979]]"
@@ -148,7 +148,7 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/DIKKENS_CHARLZ.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/6216
 Colon_Classification: O111,3M12
 birth_name: "Charles John Huffam Dickens"
-date_of_birth: "1812-02-07T00:00:00Z"
+date_of_birth: "1812-02-07"
 ---
 
 #has_/time_/started :: 1812-02-07 

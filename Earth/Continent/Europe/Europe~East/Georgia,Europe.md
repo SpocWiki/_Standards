@@ -406,8 +406,8 @@ coordinates_of_easternmost_point: "Point(46.73609197 41.28500627)"
 Dewey_Decimal_Classification: 2--4758
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Greater%20coat%20of%20arms%20of%20Georgia.svg"
 coordinates_of_northernmost_point: "Point(40.25 43.58)"
-inception: "1991-12-25T00:00:00Z"
-has_time_started: "1991-12-25T00:00:00Z"
+inception: "1991-12-25"
+has_time_started: "1991-12-25"
 CIVICUS_Monitor_country_entry: georgia
 GitHub_topic: georgia
 motto_text: "ძალა ერთობაშია"

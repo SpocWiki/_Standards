@@ -29,7 +29,7 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pole-sout
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Geographic%20Southpole%20crop.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%A6%E0%A9%B1%E0%A8%96%E0%A8%A3%E0%A9%80%20%E0%A8%A7%E0%A8%B0%E0%A9%81%E0%A8%B5.wav"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/South%20Pole-banner2.jpg"
-time_of_discovery_or_invention: "1911-12-14T00:00:00Z"
+time_of_discovery_or_invention: "1911-12-14"
 aliases:
 - "South Pole"
 ---

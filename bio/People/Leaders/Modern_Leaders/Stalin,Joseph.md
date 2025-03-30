@@ -158,7 +158,7 @@ name_in_native_language:
 - "იოსებ ბესარიონის ძე ჯუღაშვილი"
 - "Иосиф Виссарионович Джугашвили"
 birth_name: "იოსებ ბესარიონის ძე ჯუღაშვილი"
-work_period_start_: "1895-01-01T00:00:00Z"
+work_period_start_: "1895"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg"
 RIA_Novosti_reference: 42596093
 Libris_URI: 53hkl14p58hf71m
@@ -176,8 +176,8 @@ height:
 - 163
 - 1.68
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Joseph%20Stalin.png"
-date_of_death: "1953-03-05T00:00:00Z"
-work_period_end_: "1953-01-01T00:00:00Z"
+date_of_death: "1953-03-05"
+work_period_end_: "1953"
 nickname:
 - Коба
 - "Uncle Joe"
@@ -186,7 +186,7 @@ Commons_category: "Joseph Stalin"
 U_S_National_Archives_Identifier: 10581030
 Commons_gallery: "Joseph Vissarionovich Stalin"
 pseudonym: Сталин
-date_of_birth: "1878-12-18T00:00:00Z"
+date_of_birth: "1878-12-18"
 ISNI: 0000000121457825
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20Speech%201941%20Red%20Army%20Parade%207%20November%20%28English%20Subtitles%29.webm"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stalin%20birthplace%20plaque.jpg"

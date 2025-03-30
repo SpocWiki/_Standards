@@ -251,7 +251,7 @@ on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject New York Public Library,121437821]]"
 - "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
 ISNI: 0000000121300449
-date_of_birth: "1869-12-31T00:00:00Z"
+date_of_birth: "1869-12-31"
 signature:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Matisse%20signature.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Matisse%20autograph.svg"
@@ -268,7 +268,7 @@ Commons_gallery: "Henri Matisse"
 Commons_category: "Henri Matisse"
 Commons_Creator_page: "Henri Matisse"
 NLC_authorities: 000206316
-date_of_death: "1954-11-03T00:00:00Z"
+date_of_death: "1954-11-03"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Henri%20Matisse-%20into.ogg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20Henri%20Matisse%20Nice.jpg"

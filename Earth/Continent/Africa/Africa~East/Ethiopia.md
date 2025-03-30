@@ -418,8 +418,8 @@ urban_population:
 - 25424568
 - 26671558
 - 27959125
-inception: "1995-08-21T00:00:00Z"
-has_time_started: "1995-08-21T00:00:00Z"
+inception: "1995-08-21"
+has_time_started: "1995-08-21"
 coordinates_of_easternmost_point: "Point(48.00083399 8.00122459)"
 female_population:
 - 56745161

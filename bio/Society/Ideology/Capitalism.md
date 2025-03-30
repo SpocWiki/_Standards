@@ -95,7 +95,7 @@ U_S_National_Archives_Identifier: 10638013
 > as well as mercantilist practices by European countries 
 > between the 16th and 18th centuries. 
 > 
-> The [[../../../Time-Ages/human-ages/History/Modern_History/Industrial_Revolution]] of the 18th century 
+> The[[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Industrial_Revolution]]] of the 18th century 
 > established capitalism as a dominant mode of production
 > , characterized by factory work and a complex division of labor. 
 > 

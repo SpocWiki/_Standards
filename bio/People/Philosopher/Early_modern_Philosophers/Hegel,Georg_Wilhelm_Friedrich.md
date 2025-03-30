@@ -108,14 +108,14 @@ spouse: "[[_Standards/WikiData/WD~Marie von Tucher,22340304]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 relative: "[[_Standards/WikiData/WD~Georg Ludwig Christoph Hegel,102515598]]"
 mother: "[[_Standards/WikiData/WD~Maria Magdalena Louisa Fromm,102515921]]"
-date_of_death: "1831-11-14T00:00:00Z"
-work_period_end_: "1831-01-01T00:00:00Z"
+date_of_death: "1831-11-14"
+work_period_end_: "1831"
 Commons_gallery: "Georg Wilhelm Friedrich Hegel"
 Commons_category: "Georg Wilhelm Friedrich Hegel"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/1831%20Schlesinger%20Philosoph%20Georg%20Friedrich%20Wilhelm%20Hegel%20anagoria.JPG"
 name_in_native_language: "Georg Wilhelm Friedrich Hegel"
-work_period_start_: "1788-01-01T00:00:00Z"
-date_of_birth: "1770-08-27T00:00:00Z"
+work_period_start_: "1788"
+date_of_birth: "1770-08-27"
 ISNI: 0000000122828149
 NLC_authorities: 000150361
 CYT_CCS: AC000132968

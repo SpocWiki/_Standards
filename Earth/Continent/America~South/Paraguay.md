@@ -297,8 +297,8 @@ ISO_3166_1_alpha_2_code: PY
 WIPO_ST_3: PY
 ISO_3166_1_alpha_3_code: PRY
 U_S_National_Archives_Identifier: 10035731
-inception: "1811-01-01T00:00:00Z"
-has_time_started: "1811-01-01T00:00:00Z"
+inception: "1811"
+has_time_started: "1811"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/PRY%20orthographic.svg"
 Commons_category: Paraguay
 subreddit: Paraguay

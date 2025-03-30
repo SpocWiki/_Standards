@@ -186,8 +186,8 @@ urban_population:
 population: 204327
 OmegaWiki_Defined_Meaning: 154381
 INSEE_countries_and_foreign_territories_code: 99394
-inception: "1975-07-12T00:00:00Z"
-has_time_started: "1975-07-12T00:00:00Z"
+inception: "1975-07-12"
+has_time_started: "1975-07-12"
 U_S_National_Archives_Identifier: 10035804
 IOC_country_code: STP
 ISO_3166_1_alpha_3_code: STP

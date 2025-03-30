@@ -27,7 +27,7 @@ hardness:
 - 1493
 mass: 47.867
 boiling_point: 3286.85
-time_of_discovery_or_invention: "1791-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1791"
 part_of:
 - "[[_Standards/WikiData/WD~group 4,189302]]"
 - "[[_Standards/WikiData/WD~period 4,239825]]"

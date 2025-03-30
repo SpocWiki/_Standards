@@ -296,8 +296,8 @@ rural_population:
 - 8489377
 - 8638804
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg"
-inception: "1958-10-02T00:00:00Z"
-has_time_started: "1958-10-02T00:00:00Z"
+inception: "1958-10-02"
+has_time_started: "1958-10-02"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Guinea.map"
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Guinea%20%28orthographic%20projection%29.svg"

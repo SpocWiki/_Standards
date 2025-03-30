@@ -114,7 +114,7 @@ member_of: "[[_Standards/WikiData/WD~All-Union Society of Old Bolsheviks,1246499
 depicted_by: "[[_Standards/WikiData/WD~Metamorphoses of Lenin,126278170]]"
 patronym_or_matronym: '[[_Standards/WikiData/WD~Ilyich,130337382]]'
 ISNI: 0000000120988915
-date_of_birth: "1870-04-22T00:00:00Z"
+date_of_birth: "1870-04-22"
 work_location:
 - '[[_Standards/WikiData/WD~Moscow,649]]'
 - "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
@@ -158,7 +158,7 @@ pseudonym:
 - Старик
 - Lenin
 birth_name: "Владимир Ильич Ульянов"
-date_of_death: "1924-01-21T00:00:00Z"
+date_of_death: "1924-01-21"
 RIA_Novosti_reference: 39726152
 BHCL_UUID: 439d0470-8359-4df2-830f-15b8a94239a8
 Libris_URI: 86lnph8s2bkzgxz

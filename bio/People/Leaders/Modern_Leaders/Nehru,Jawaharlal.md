@@ -65,7 +65,7 @@ Commons_gallery: "Jawaharlal Nehru"
 Commons_category: "Jawaharlal Nehru"
 Libris_URI: vs69dpqd1krx3vs
 name_in_native_language: "जवाहरलाल नेहरू"
-date_of_birth: "1889-11-14T00:00:00Z"
+date_of_birth: "1889-11-14"
 described_at_URL: "http://gadyakosh.org/gk/जवाहरलाल_नेहरू"
 ISNI: 0000000081273684
 place_of_death: "[[_Standards/WikiData/WD~New Delhi,987]]"
@@ -80,7 +80,7 @@ member_of_political_party: "[[_Standards/WikiData/WD~Indian National Congress,10
 cause_of_death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 influenced_by: "[[_Standards/WikiData/WD~Bertrand Russell,33760]]"
-date_of_death: "1964-05-27T00:00:00Z"
+date_of_death: "1964-05-27"
 ---
 
 ## #has_/text_of_/abstract 

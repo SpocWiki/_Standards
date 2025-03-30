@@ -90,7 +90,7 @@ mother: "[[_Standards/WikiData/WD~Johanna Rosina Wagner-Geyer,55916654]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 patient_of: "[[_Standards/WikiData/WD~Friedrich Keppler,94837891]]"
 father: "[[_Standards/WikiData/WD~Carl Friedrich Wagner,102061876]]"
-date_of_death: "1883-02-13T00:00:00Z"
+date_of_death: "1883-02-13"
 Gujarati_Vishwakosh_entry: વાગ્નર-રિચાર્ડ
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Richard%20Wagner.jpg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8C%D5%AB%D5%AD%D5%A1%D6%80%D5%A4%20%D5%8E%D5%A1%D5%A3%D5%B6%D5%A5%D6%80%20%28Richard%20Wagner%29.ogg"
@@ -118,8 +118,8 @@ NLC_authorities: 000091759
 Royal_Academy_new_identifier: wilhelm-richard-wagner
 name_in_native_language: "Richard Wagner"
 birth_name: "Wilhelm Richard Wagner"
-work_period_start_: "1832-01-01T00:00:00Z"
-date_of_birth: "1813-05-22T00:00:00Z"
+work_period_start_: "1832"
+date_of_birth: "1813-05-22"
 Wolfram_Language_entity_code: "Entity[\"Person\", \"RichardWagner::9qfsw\"]"
 pseudonym:
 - "H. Valentino"

@@ -19,8 +19,8 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Q131308011,131308011]]'
 different_from: '[[_Standards/WikiData/WD~animation,130285417]]'
 time_of_discovery_or_invention:
-- "1892-10-28T00:00:00Z"
-- "1888-12-01T00:00:00Z"
+- "1892-10-28"
+- "1888-12-01"
 UMLS_CUI: C0376650
 MeSH_tree_code:
 - V01.110

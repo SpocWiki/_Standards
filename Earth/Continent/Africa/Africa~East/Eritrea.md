@@ -254,8 +254,8 @@ WIPO_ST_3: ER
 Commons_category: Eritrea
 Commons_gallery: Eritrea
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Eritrea%20%28or%20argent%20azur%29.svg"
-inception: "1993-05-24T00:00:00Z"
-has_time_started: "1993-05-24T00:00:00Z"
+inception: "1993-05-24"
+has_time_started: "1993-05-24"
 coordinate_location: "Point(38.25 15.483333)"
 coordinates_of_northernmost_point: "Point(38.58253 18.02049)"
 coordinates_of_southernmost_point: "Point(42.70097 12.35482)"

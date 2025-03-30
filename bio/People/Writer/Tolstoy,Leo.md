@@ -168,7 +168,7 @@ Library_of_Congress_Classification: PG3365-PG3417
 name_in_native_language: "Толсто́й Лев Никола́евич"
 ISNI: 0000000122424494
 official_website: "https://tolstoy.ru/"
-work_period_start_: "1847-01-01T00:00:00Z"
+work_period_start_: "1847"
 writing_language:
 - '[[_Standards/WikiData/WD~Russian,7737]]'
 - '[[_Standards/WikiData/WD~French,150]]'
@@ -196,9 +196,9 @@ pseudonym:
 - "Л. Н. Т."
 - "Л. Н."
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20house%20of%20Tolstoy%20%282%29.svg"
-date_of_death: "1910-11-20T00:00:00Z"
-work_period_end_: "1910-01-01T00:00:00Z"
-date_of_birth: "1828-09-09T00:00:00Z"
+date_of_death: "1910-11-20"
+work_period_end_: "1910"
+date_of_birth: "1828-09-09"
 Commons_gallery: "Leo Tolstoy"
 Commons_category: "Leo Tolstoy"
 Commons_Creator_page: "Leo Tolstoy"

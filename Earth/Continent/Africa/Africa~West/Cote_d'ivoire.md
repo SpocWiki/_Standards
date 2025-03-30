@@ -350,8 +350,8 @@ urban_population:
 - 14829623
 U_S_National_Archives_Identifier: 10035718
 ITU_letter_code: CTI
-inception: "1960-01-01T00:00:00Z"
-has_time_started: "1960-01-01T00:00:00Z"
+inception: "1960"
+has_time_started: "1960"
 rural_population:
 - 12749807
 - 12948486

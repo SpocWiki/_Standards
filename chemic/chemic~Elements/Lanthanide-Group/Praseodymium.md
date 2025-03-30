@@ -28,7 +28,7 @@ InChI: InChI=1S/Pr
 UNII: NKN7EZA750
 InChIKey: PUDIUYLPXJFUGB-UHFFFAOYSA-N
 UMLS_CUI: C0032904
-time_of_discovery_or_invention: "1841-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1841"
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 electrical_resistivity: 7e-7
 atomic_number: 59

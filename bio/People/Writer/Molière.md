@@ -89,8 +89,8 @@ documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive
 family_name: '[[_Standards/WikiData/WD~Poquelin,53733927]]'
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 father: "[[_Standards/WikiData/WD~Jean Poquelin,108802338]]"
-date_of_birth: "1622-01-15T00:00:00Z"
-date_of_baptism: "1622-01-15T00:00:00Z"
+date_of_birth: "1622-01-15"
+date_of_baptism: "1622-01-15"
 Provenio_UUID:
 - 93751044-e9f8-41aa-9894-ca226a983489
 - c9c88bb0-5449-484c-a0dc-0b0d80d695c2
@@ -118,8 +118,8 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/MOLER_POKLEN_ZHAN-BATIST.htm
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/42704
 Swedish_Royal_Theater_Archive: Person/759
 birth_name: "Jean-Baptiste Poquelin"
-date_of_death: "1673-02-17T00:00:00Z"
-work_period_start_: "1643-01-01T00:00:00Z"
+date_of_death: "1673-02-17"
+work_period_start_: "1643"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20de%20La%20Fontaine%20%26%20Moli%C3%A8re%20%28P%C3%A8re%20Lachaise%29.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Mignard%20-%20Portrait%20de%20Jean-Baptiste%20Poquelin%20dit%20Moli%C3%A8re%20%281622-1673%29%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
 BHCL_UUID: 83724579-183f-47d0-a985-deed6636cd75

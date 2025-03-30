@@ -70,7 +70,7 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 student_of: "[[_Standards/WikiData/WD~Antonio Salieri,51088]]"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Franz%20Schubert%20Linz.jpg"
 name_in_native_language: "Franz Schubert"
-date_of_death: "1828-11-19T00:00:00Z"
+date_of_death: "1828-11-19"
 Commons_Creator_page: "Franz Schubert"
 Commons_gallery: "Franz Schubert"
 Commons_category: "Franz Schubert"
@@ -81,8 +81,8 @@ IPI_name_number:
 - 00028072890
 - 00494487895
 birth_name: "Franz Peter Schubert"
-work_period_start_: "1810-01-01T00:00:00Z"
-date_of_birth: "1797-01-31T00:00:00Z"
+work_period_start_: "1810"
+date_of_birth: "1797-01-31"
 Libris_URI: 0xbdf6sj4lqc75h
 BHCL_UUID: 6cde0efa-445b-446a-9bb2-8fc0df62e766
 Europeana_entity: agent/base/147001

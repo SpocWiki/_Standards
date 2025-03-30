@@ -102,10 +102,10 @@ subreddit: StanleyKubrick
 Krugosvet_article: teatr-i-kino/kubrik-stenli
 name_in_native_language: "Stanley Kubrick"
 birth_name: "Stanley Kubrick"
-work_period_start_: "1951-01-01T00:00:00Z"
-work_period_end_: "1999-01-01T00:00:00Z"
-date_of_death: "1999-03-07T00:00:00Z"
-date_of_birth: "1928-07-26T00:00:00Z"
+work_period_start_: "1951"
+work_period_end_: "1999"
+date_of_death: "1999-03-07"
+date_of_birth: "1928-07-26"
 ---
 
 ## #has_/text_of_/abstract 

@@ -236,8 +236,8 @@ urban_population:
 - 491624
 - 503893
 population: 553214
-inception: "1964-09-21T00:00:00Z"
-has_time_started: "1964-09-21T00:00:00Z"
+inception: "1964-09-21"
+has_time_started: "1964-09-21"
 life_expectancy: 81.79756
 nominal_GDP: 17765270015
 coordinates_of_easternmost_point: "Point(14.57650043 35.86131012)"

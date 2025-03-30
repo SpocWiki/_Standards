@@ -14,9 +14,9 @@ title:
 - 石頭記
 - 紅樓夢
 publication_date:
-- "1800-01-01T00:00:00Z"
-- "1792-01-01T00:00:00Z"
-- "1868-01-01T00:00:00Z"
+- "1800"
+- "1792"
+- "1868"
 author: "[[_Standards/WikiData/WD~Cao Xueqin,182874]]"
 part_of: "[[_Standards/WikiData/WD~Four Great Classical Novels,753883]]"
 language_of_work_or_name:
@@ -104,8 +104,8 @@ instance_of: "[[_Standards/WikiData/WD~literary work,7725634]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Dream of the Red Chamber,10953908]]"
 takes_place_in_fictional_universe: "[[_Standards/WikiData/WD~Dream of the Red Chamber universe,42184554]]"
 Baidu_Tieba_name: 红楼梦
-inception: "1701-01-01T00:00:00Z"
-has_time_started: "1701-01-01T00:00:00Z"
+inception: "1701"
+has_time_started: "1701"
 form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
 copyright_status: "[[_Standards/WikiData/WD~public domain,19652]]"
 ---

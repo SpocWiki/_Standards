@@ -145,8 +145,8 @@ nickname:
 - "Doctor Angelicus"
 - "Doctor Communis"
 name_in_native_language: "Thomas Aquinos"
-date_of_death: "1274-03-14T00:00:00Z"
-date_of_birth: "1225-01-01T00:00:00Z"
+date_of_death: "1274-03-14"
+date_of_birth: "1225"
 ---
 
 #has_/time_/started :: 1225-06

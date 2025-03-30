@@ -35,7 +35,7 @@ Commons_category: "Michael Faraday"
 Commons_Creator_page: "Michael Faraday"
 Commons_gallery: "Michael Faraday"
 Krugosvet_article: nauka_i_tehnika/fizika/FARADE_MAKL.html
-date_of_birth: "1791-09-22T00:00:00Z"
+date_of_birth: "1791-09-22"
 member_of:
 - "[[_Standards/WikiData/WD~Royal Society,123885]]"
 - "[[_Standards/WikiData/WD~French Academy of Sciences,188771]]"
@@ -92,7 +92,7 @@ field_of_work:
 - '[[_Standards/WikiData/WD~electromagnetism,11406]]'
 sibling: "[[_Standards/WikiData/WD~Robert Faraday,125500666]]"
 ISNI: 0000000122784641
-date_of_death: "1867-08-25T00:00:00Z"
+date_of_death: "1867-08-25"
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=146816125"
 - "http://www.digiporta.net/index.php?id=701720751"

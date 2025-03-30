@@ -49,7 +49,7 @@ given_name:
 - '[[_Standards/WikiData/WD~Wen,94957241]]'
 - '[[_Standards/WikiData/WD~Ziyang,106766761]]'
 ancestral_home: "[[_Standards/WikiData/WD~Jian Zhou,113651152]]"
-date_of_death: "1200-04-30T00:00:00Z"
+date_of_death: "1200-04-30"
 ISNI: 0000000121309654
 NLC_authorities: 000111645
 field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
@@ -62,7 +62,7 @@ posthumous_name:
 - 文
 Commons_category: "Zhu Xi"
 Commons_Creator_page: "Zhu Xi"
-date_of_birth: "1130-10-25T00:00:00Z"
+date_of_birth: "1130-10-25"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Zhu%20xi.jpg"
 ---
 

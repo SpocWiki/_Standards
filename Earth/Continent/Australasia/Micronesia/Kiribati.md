@@ -209,8 +209,8 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kiri
 ISO_3166_1_alpha_3_code: KIR
 IOC_country_code: KIR
 ITU_letter_code: KIR
-inception: "1979-07-12T00:00:00Z"
-has_time_started: "1979-07-12T00:00:00Z"
+inception: "1979-07-12"
+has_time_started: "1979-07-12"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Kiribati.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Kiribati.svg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kiribati%20on%20the%20globe%20%28Polynesia%20centered%29.svg"

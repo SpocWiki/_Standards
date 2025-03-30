@@ -77,7 +77,7 @@ element_symbol: Ta
 chemical_formula: Ta
 mass: 180.94788
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tantalum%20single%20crystal%20and%201cm3%20cube.jpg"
-time_of_discovery_or_invention: "1802-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1802"
 Unicode_character: 鉭
 ---
 #chemic/Element 

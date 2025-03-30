@@ -4,7 +4,7 @@ part_of: "[[_Standards/WikiData/WD~electromagnetic field,177625]]"
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q20696574,20696574]]'
 union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-time_of_discovery_or_invention: "1886-11-13T00:00:00Z"
+time_of_discovery_or_invention: "1886-11-13"
 UMLS_CUI: C0034519
 MeSH_tree_code:
 - G01.358.500.505

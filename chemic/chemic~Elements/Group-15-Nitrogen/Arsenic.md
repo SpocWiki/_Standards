@@ -42,7 +42,7 @@ found_in_taxon:
 has_characteristic: "[[_Standards/WikiData/WD~combustible powder,21073023]]"
 has_effect: "[[_Standards/WikiData/WD~inorganic arsenic compound exposure,21167830]]"
 mass: 74.921595
-time_of_discovery_or_invention: "1300-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1300"
 oxidation_state:
 - -3
 - 1

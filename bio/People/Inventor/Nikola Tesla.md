@@ -90,7 +90,7 @@ birth_name: "Никола Тесла"
 Commons_Creator_page: "Nikola Tesla"
 Commons_gallery: "Nikola Tesla"
 Commons_category: "Nikola Tesla"
-date_of_death: "1943-01-07T00:00:00Z"
+date_of_death: "1943-01-07"
 Google_Doodle: nikola-teslas-birthday
 Regensburg_Classification: "UB 2758"
 mother: "[[_Standards/WikiData/WD~Đuka Mandic,12750167]]"
@@ -101,7 +101,7 @@ family_name: '[[_Standards/WikiData/WD~Tesla,37251206]]'
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/tesla"
 ISNI: 0000000121021829
-date_of_birth: "1856-07-10T00:00:00Z"
+date_of_birth: "1856-07-10"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~Italian,652]]'

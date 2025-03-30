@@ -373,8 +373,8 @@ urban_population:
 - 8369995
 - 8513008
 - 8658337
-inception: "1825-01-01T00:00:00Z"
-has_time_started: "1825-01-01T00:00:00Z"
+inception: "1825"
+has_time_started: "1825"
 population: 12244159
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg"
 CIVICUS_Monitor_country_entry: bolivia

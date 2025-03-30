@@ -79,7 +79,7 @@ UNSPSC_Code: 12141904
 Krugosvet_article: himiya/kislorod
 ATC_code: V03AN01
 Unicode_character: 氧
-time_of_discovery_or_invention: "1774-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1774"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Oxygen,629]] 

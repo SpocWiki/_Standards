@@ -542,8 +542,8 @@ number_of_out_of_school_children: 1773968
 nominal_GDP:
 - 44341646509
 - 45338285386
-inception: "1960-01-01T00:00:00Z"
-has_time_started: "1960-01-01T00:00:00Z"
+inception: "1960"
+has_time_started: "1960"
 PM20_geo_code: C65
 hashtag: Cameroon
 Commons_category: Cameroon

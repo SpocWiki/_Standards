@@ -14,7 +14,7 @@ Libris_URI: 0xbdd8xj2s1p259
 BHCL_UUID: ff936950-b45c-4238-a2e7-ec435486fd5f
 Krugosvet_article: istoriya/KUK_DZHEMS.html
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2248651
-date_of_death: "1779-02-14T00:00:00Z"
+date_of_death: "1779-02-14"
 member_of: "[[_Standards/WikiData/WD~Royal Society,123885]]"
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Great Britain,161885]]"
@@ -67,7 +67,7 @@ child:
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Cook%20Coat%20of%20Arms.svg"
 ISNI: 0000000122779981
-date_of_birth: "1728-10-27T00:00:00Z"
+date_of_birth: "1728-10-27"
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=275174503"
 - "http://www.digiporta.net/index.php?id=434394195"

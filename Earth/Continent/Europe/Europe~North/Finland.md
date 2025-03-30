@@ -508,8 +508,8 @@ official_name:
 - "Suomen tasavalta"
 - "Republiken Finland"
 short_name: "\U0001F1EB\U0001F1EE"
-inception: "1917-12-06T00:00:00Z"
-has_time_started: "1917-12-06T00:00:00Z"
+inception: "1917-12-06"
+has_time_started: "1917-12-06"
 U_S_National_Archives_Identifier: 10035776
 Unicode_character: 🇫🇮 
 geoshape: "http://commons.wikimedia.org/data/main/Data:Finland.map"

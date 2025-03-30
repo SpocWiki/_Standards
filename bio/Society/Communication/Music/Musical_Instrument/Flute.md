@@ -23,7 +23,7 @@ Colon_Classification: NR;22
 Unicode_character: 🪈 
 used_by: '[[_Standards/WikiData/WD~flautist,12902372]]'
 instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
-earliest_date: "-35000-01-01T00:00:00Z"
+earliest_date: "-35000"
 Hornbostel_Sachs_classification: 421
 Nomenclature_for_Museum_Cataloging: 7358
 Iconclass_notation: 48C7351

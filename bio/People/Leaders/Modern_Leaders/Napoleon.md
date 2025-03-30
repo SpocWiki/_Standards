@@ -185,12 +185,12 @@ U_S_National_Archives_Identifier: 12012599
 monogram: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Napoleon%20Bonaparte.svg"
 ORCID_iD: 0000-0003-3559-5174
 Commons_gallery: "Napoléon Bonaparte"
-date_of_death: "1821-05-05T00:00:00Z"
-work_period_end_: "1821-01-01T00:00:00Z"
+date_of_death: "1821-05-05"
+work_period_end_: "1821"
 Commons_Creator_page: "Napoleon I of France"
 Commons_category: "Napoleon I of France"
-work_period_start_: "1789-01-01T00:00:00Z"
-date_of_birth: "1769-08-15T00:00:00Z"
+work_period_start_: "1789"
+date_of_birth: "1769-08-15"
 given_name: '[[_Standards/WikiData/WD~Napoléon,19882955]]'
 family_name: '[[_Standards/WikiData/WD~Bonaparte,24530160]]'
 part_of: "[[_Standards/WikiData/WD~Napoleon I of France and Josephine,63195474]]"

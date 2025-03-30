@@ -58,7 +58,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Lanthanum%20element%2
 electron_configuration:
 - "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s² 6d¹"
 - "[Xe] 6s² 6d¹"
-time_of_discovery_or_invention: "1839-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1839"
 followed_by: '[[_Standards/WikiData/WD~cerium,1385]]'
 instance_of:
 - "[[_Standards/WikiData/WD~chemical element,11344]]"

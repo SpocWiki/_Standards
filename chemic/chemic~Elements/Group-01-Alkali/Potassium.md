@@ -86,7 +86,7 @@ Commons_category: Potassium
 Commons_gallery: Potassium
 Colon_Classification: E112
 canonical_SMILES: '[K]'
-time_of_discovery_or_invention: "1807-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1807"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kalium.jpg"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Potassium%20metal%20in%20water.webm"
 electron_configuration:

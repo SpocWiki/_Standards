@@ -79,7 +79,7 @@ religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 place_of_death: '[[_Standards/WikiData/WD~Bucharest,19660]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 native_language: '[[_Standards/WikiData/WD~Fante,35570]]'
-date_of_death: "1972-04-27T00:00:00Z"
+date_of_death: "1972-04-27"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20National%20Archives%20UK%20-%20CO%201069-50-1.jpg"
 Ghana_Place_Names_URL: "https://sites.google.com/site/ghanaplacenames/places-in-perspective/birthplaces#h.gb1ksetz76dk"
 U_S_National_Archives_Identifier: 134379849
@@ -88,7 +88,7 @@ Krugosvet_article: istoriya/NKRUMA_KVAME.html
 Commons_gallery: "Kwame Nkrumah"
 Commons_category: "Kwame Nkrumah"
 name_in_native_language: "Kwame Nkrumah"
-date_of_birth: "1909-09-21T00:00:00Z"
+date_of_birth: "1909-09-21"
 ---
 
 ## #has_/text_of_/abstract 

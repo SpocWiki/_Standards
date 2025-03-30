@@ -26,7 +26,7 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
 - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
 named_after: '[[_Standards/WikiData/WD~stranger,58179319]]'
-time_of_discovery_or_invention: "1898-07-12T00:00:00Z"
+time_of_discovery_or_invention: "1898-07-12"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B2%D9%8A%D9%86%D9%88%D9%86.wav"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Xenon%20discharge%20tube.jpg"
 electron_configuration:

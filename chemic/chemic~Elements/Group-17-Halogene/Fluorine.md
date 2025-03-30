@@ -3,7 +3,7 @@ type: Element
 SpocWebEntityId: 21911
 has_id_wikidata: Q650
 mass: 18.998403162
-time_of_discovery_or_invention: "1810-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1810"
 Unicode_character: 氟
 PubChem_CID: 5360525
 discoverer_or_inventor:

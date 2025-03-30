@@ -5,7 +5,7 @@ has_id_wikidata: Q9041
 Commons_gallery: "James Watt"
 Commons_category: "James Watt"
 name_in_native_language: "James Watt"
-date_of_death: "1819-08-25T00:00:00Z"
+date_of_death: "1819-08-25"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Watt%20by%20Henry%20Howard.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Watt%20Signature.svg"
 BHCL_UUID: 3e4e8480-ce53-46f0-ad71-8bdf9047aa84
@@ -74,7 +74,7 @@ depicted_by:
 - "[[_Standards/WikiData/WD~Portrait of James Watt (1736-1819),98149322]]"
 mother: "[[_Standards/WikiData/WD~Agnes Muirhead,75600694]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
-date_of_birth: "1736-01-19T00:00:00Z"
+date_of_birth: "1736-01-19"
 ISNI: 0000000121238286
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=154582123"

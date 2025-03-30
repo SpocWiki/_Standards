@@ -101,8 +101,8 @@ IPI_base_code: I-001918102-1
 DPLA_subject_term: "Kahlo, Frida"
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/KALO_FRIDA.html
 name_in_native_language: "Frida Kahlo"
-date_of_death: "1954-07-13T00:00:00Z"
-date_of_birth: "1907-07-06T00:00:00Z"
+date_of_death: "1954-07-13"
+date_of_birth: "1907-07-06"
 ---
 
 #has_/time_/started :: 1907-07-06 

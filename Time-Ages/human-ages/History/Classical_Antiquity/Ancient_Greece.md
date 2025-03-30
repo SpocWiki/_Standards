@@ -12,7 +12,7 @@ Dewey_Decimal_Classification:
   - 2--38
   - 938
 economy_of_topic: "[[_Standards/WikiData/WD~economy of ancient Greece,2736823]]"
-end_time: "0600-01-01T00:00:00Z"
+end_time: "0600"
 history_of_topic: "[[_Standards/WikiData/WD~history of ancient Greece,7798]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sicily%20Selinunte%20Temple%20E%20%28Hera%29.JPG"
 indigenous_to: '[[_Standards/WikiData/WD~Greece,41]]'
@@ -32,7 +32,7 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828833,22828833]]'
 shares_border_with:
   - '[[_Standards/WikiData/WD~Illyria,32047]]'
   - '[[_Standards/WikiData/WD~Thrace,41741]]'
-start_time: "-1200-01-01T00:00:00Z"
+start_time: "-1200"
 studied_in:
   - '[[_Standards/WikiData/WD~classics,841090]]'
   - "[[_Standards/WikiData/WD~ancient history,435608]]"

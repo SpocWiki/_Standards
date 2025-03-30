@@ -41,8 +41,8 @@ part_of: "[[_Standards/WikiData/WD~theory of relativity,43514]]"
 Colon_Classification: CN
 Commons_category: "General relativity"
 OmegaWiki_Defined_Meaning: 688297
-inception: "1916-01-01T00:00:00Z"
-has_time_started: "1916-01-01T00:00:00Z"
+inception: "1916"
+has_time_started: "1916"
 Dewey_Decimal_Classification: 530.11
 ---
 

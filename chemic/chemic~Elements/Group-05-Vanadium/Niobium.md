@@ -3,7 +3,7 @@ type: Element
 SpocWebEntityId: 21939
 has_id_wikidata: Q1046
 Unicode_character: 鈮
-time_of_discovery_or_invention: "1801-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1801"
 part_of:
 - "[[_Standards/WikiData/WD~group 5,193276]]"
 - "[[_Standards/WikiData/WD~period 5,244982]]"

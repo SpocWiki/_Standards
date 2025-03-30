@@ -397,8 +397,8 @@ hashtag: Belarus
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Belarus%20%282020%E2%80%93present%29.svg"
 coordinates_of_southernmost_point: "Point(30.583333333 51.266666666)"
 inception:
-- "1991-08-25T00:00:00Z"
-- "1991-09-19T00:00:00Z"
+- "1991-08-25"
+- "1991-09-19"
 country_calling_code: +375
 Commons_gallery: Беларусь
 coordinates_of_westernmost_point: "Point(23.178333333 52.283166666)"

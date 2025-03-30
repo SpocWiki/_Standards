@@ -87,7 +87,7 @@ mother: "[[_Standards/WikiData/WD~Julie Kafka,25343319]]"
 place_of_death: "[[_Standards/WikiData/WD~Kafka Sterbehaus,38018317]]"
 documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-date_of_birth: "1883-07-03T00:00:00Z"
+date_of_birth: "1883-07-03"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Franz%20Kafka.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%AB%E0%A5%8D%E0%A4%95%E0%A4%BE.wav"
@@ -113,7 +113,7 @@ Commons_Creator_page: "Franz Kafka"
 Commons_gallery: "Franz Kafka"
 Commons_category: "Franz Kafka"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20von%20franz%20kafka.jpg"
-date_of_death: "1924-06-03T00:00:00Z"
+date_of_death: "1924-06-03"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Kafka%27s%20signature.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Kafka%2C%201923.jpg"
 NLC_authorities: 000160303
@@ -125,7 +125,7 @@ Krugosvet_article: literatura/kafka-franc
 Swedish_Royal_Theater_Archive: Person/663
 Libris_URI: vs6890md120bwhj
 last_words: "Tue-moi ou tu es un assassin !"
-work_period_start_: "1904-01-01T00:00:00Z"
+work_period_start_: "1904"
 ---
 
 #has_/time_/started :: 1883-07-03

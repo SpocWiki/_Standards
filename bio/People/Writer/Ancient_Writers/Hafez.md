@@ -3,7 +3,7 @@ aliases:
 - "Khājeh Shams-od-Dīn Moḥammad Ḥāfeẓ-e Shīrāzī"
 has_id_wikidata: Q6240
 ISNI: 0000000123418061
-date_of_birth: "1325-01-01T00:00:00Z"
+date_of_birth: "1325"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Islam,432]]'
 - '[[_Standards/WikiData/WD~Sufism,9603]]'
@@ -29,7 +29,7 @@ occupation:
 - '[[_Standards/WikiData/WD~lyricist,822146]]'
 Commons_category: Hafez
 Commons_Creator_page: Hafez
-date_of_death: "1389-01-01T00:00:00Z"
+date_of_death: "1389"
 place_of_burial: "[[_Standards/WikiData/WD~Tomb of Hafez,129479]]"
 genre: "[[_Standards/WikiData/WD~lyric poetry,182357]]"
 movement: "[[_Standards/WikiData/WD~lyric poetry,182357]]"

@@ -98,8 +98,8 @@ different_from: "[[_Standards/WikiData/WD~Piotr Czajkowski,92840242]]"
 mother: "[[_Standards/WikiData/WD~Aleksandra Tchaikovskaya,94572868]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_University of Washington,98970039]]"
 patronym_or_matronym: '[[_Standards/WikiData/WD~Ilyich,130337382]]'
-date_of_death: "1893-11-06T00:00:00Z"
-work_period_end_: "1893-10-16T00:00:00Z"
+date_of_death: "1893-11-06"
+work_period_end_: "1893-10-16"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4t%20des%20Komponisten%20Pjotr%20I.%20Tschaikowski%20%281840-1893%29.jpg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Tchaikovsky%20Grave.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Tchaikovsky%20Signature.svg"
@@ -121,8 +121,8 @@ name_in_native_language:
 - "Петръ Ильичъ Чайковскій"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8A%D5%B5%D5%B8%D5%BF%D6%80%20%D5%89%D5%A1%D5%B5%D5%AF%D5%B8%D5%BE%D5%BD%D5%AF%D5%AB%20%28Pyotr%20Ilyich%20Tchaikovsky%29.ogg"
 ISNI: 0000000121449518
-work_period_start_: "1859-06-01T00:00:00Z"
-date_of_birth: "1840-05-07T00:00:00Z"
+work_period_start_: "1859-06-01"
+date_of_birth: "1840-05-07"
 work_location:
 - '[[_Standards/WikiData/WD~Moscow,649]]'
 - "[[_Standards/WikiData/WD~Saint Petersburg,656]]"

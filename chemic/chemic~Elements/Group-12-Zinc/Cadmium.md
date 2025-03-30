@@ -82,7 +82,7 @@ canonical_SMILES: '[Cd]'
 chemical_formula: Cd
 element_symbol: Cd
 UNSPSC_Code: 11101710
-time_of_discovery_or_invention: "1817-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1817"
 CPV_Supplementary_code: AA23
 UNII: 00BH33GNGH
 ---

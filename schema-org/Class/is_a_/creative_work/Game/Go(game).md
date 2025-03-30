@@ -46,7 +46,7 @@ Bilibili_UID: 3461565862906475
 indigenous_to: '[[_Standards/WikiData/WD~China,29520]]'
 maximum_number_of_players: 2
 OmegaWiki_Defined_Meaning: 334648
-time_of_discovery_or_invention: "-2254-01-01T00:00:00Z"
+time_of_discovery_or_invention: "-2254"
 subreddit: baduk
 inception: "http://www.wikidata.org/.well-known/genid/608be816cb2411d765977da3b7caf000"
 ---

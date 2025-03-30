@@ -7,8 +7,8 @@ Amazon_com_browse_node:
 - 16317461
 - 18774316011
 Unicode_character: 🍫 
-inception: "-1749-01-01T00:00:00Z"
-has_time_started: "-1749-01-01T00:00:00Z"
+inception: "-1749"
+has_time_started: "-1749"
 U_S_National_Archives_Identifier: 10639394
 has_active_ingredient:
 - '[[_Standards/WikiData/WD~theobromine,206844]]'

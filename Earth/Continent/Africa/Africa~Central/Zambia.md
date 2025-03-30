@@ -310,8 +310,8 @@ short_name: "\U0001F1FF\U0001F1F2"
 subreddit: Zambia
 hashtag: Zambia
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zambia.svg"
-inception: "1964-10-24T00:00:00Z"
-has_time_started: "1964-10-24T00:00:00Z"
+inception: "1964-10-24"
+has_time_started: "1964-10-24"
 coordinates_of_southernmost_point: "Point(26.6935 -18.0759)"
 male_population:
 - 9066397

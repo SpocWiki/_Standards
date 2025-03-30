@@ -144,9 +144,9 @@ Commons_category: "The Tale of Genji"
 last_line: いつしかと待ちおはするに、かくたどたどしくて歸り來たれば、すさまじく、「なかなかなり」と、思すことさまざまにて、「人の隱し据ゑたるにやあらむ」と、わが御心の思ひ寄らぬ隈なく、落とし置きたまへりしならひに、とぞ本にはべめる。
 first_line: いづれの御時にか、女御、更衣あまたさぶらひたまひけるなかに、いとやむごとなき際にはあらぬが、すぐれて時めきたまふありけり。
 title: 源氏物語
-inception: "1010-01-01T00:00:00Z"
-has_time_started: "1010-01-01T00:00:00Z"
-time_of_earliest_written_record: "1008-12-07T00:00:00Z"
+inception: "1010"
+has_time_started: "1010"
+time_of_earliest_written_record: "1008-12-07"
 ---
 
 ## #has_/text_of_/abstract 

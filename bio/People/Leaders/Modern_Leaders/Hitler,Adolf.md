@@ -63,7 +63,7 @@ sibling: "[[_Standards/WikiData/WD~Theodore Jesse Hoover,56707806]]"
 family: "[[_Standards/WikiData/WD~Hoover family,62531769]]"
 mother: "[[_Standards/WikiData/WD~Hulda Randall Minthorn,75766492]]"
 nominated_for: "[[_Standards/WikiData/WD~doctor honoris causa from the University of Lille,126420363]]"
-date_of_birth: "1874-08-10T00:00:00Z"
+date_of_birth: "1874-08-10"
 ISNI: 000000012099256X
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
@@ -82,7 +82,7 @@ Krugosvet_article: istoriya/GUVER_GERBERT_KLARK.html
 Libris_URI: mkz125z51s1slnm
 name_in_native_language: "Herbert Clark Hoover"
 birth_name: "Herbert Clark Hoover"
-date_of_death: "1964-10-20T00:00:00Z"
+date_of_death: "1964-10-20"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Clark%20Hoover%20Signature.svg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Hoover-Gravesite.jpg"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Hoover%20video%20montage.ogv"

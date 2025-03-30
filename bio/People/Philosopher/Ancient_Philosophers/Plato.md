@@ -144,7 +144,7 @@ depicted_by:
 - "[[_Standards/WikiData/WD~Plato statue, Athens,111707940]]"
 - "[[_Standards/WikiData/WD~Bust of Plato, Irakleio,115106616]]"
 - "[[_Standards/WikiData/WD~Head of Plato,126215153]]"
-date_of_birth: "-0428-01-01T00:00:00Z"
+date_of_birth: "-0428"
 ISNI: 0000000120967858
 place_of_death: '[[_Standards/WikiData/WD~Athens,1524]]'
 place_of_birth: '[[_Standards/WikiData/WD~Athens,1524]]'
@@ -174,7 +174,7 @@ Commons_category: Plato
 Colon_Classification: R851w571
 name_in_native_language: Πλάτων
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plato%20Silanion%20Musei%20Capitolini%20MC1377.jpg"
-date_of_death: "-0348-01-01T00:00:00Z"
+date_of_death: "-0348"
 birth_name: Ἀριστοκλῆς
 place_of_burial: "http://www.wikidata.org/.well-known/genid/10188825e9e1766a73af1d86fa2d6af0"
 ---

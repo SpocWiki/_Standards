@@ -46,7 +46,7 @@ given_name:
 ancestral_home: '[[_Standards/WikiData/WD~Rencheng,113652092]]'
 ISNI: 0000000121470982
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E7%99%BD.png"
-date_of_death: "0762-12-04T00:00:00Z"
+date_of_death: "0762-12-04"
 writing_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Chinese,7850]]'
@@ -69,7 +69,7 @@ art_name:
 - 酒仙翁
 - 青蓮居士
 name_in_native_language: 李白
-date_of_birth: "0701-05-23T00:00:00Z"
+date_of_birth: "0701-05-23"
 ---
 
 ## #has_/text_of_/abstract 

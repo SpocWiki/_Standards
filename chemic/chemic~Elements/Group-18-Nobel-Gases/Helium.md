@@ -49,7 +49,7 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
 - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
 Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/helium"
-time_of_discovery_or_invention: "1868-08-18T00:00:00Z"
+time_of_discovery_or_invention: "1868-08-18"
 melting_point: -272.05
 boiling_point: -268.9
 atomic_number: 2

@@ -93,7 +93,7 @@ distance_from_Earth:
 - 2600000000
 - 3150000000
 argument_of_periapsis: 170.9542763
-time_of_discovery_or_invention: "1781-03-13T00:00:00Z"
+time_of_discovery_or_invention: "1781-03-13"
 longitude_of_ascending_node: 74.01692503
 angular_diameter:
 - 3.3

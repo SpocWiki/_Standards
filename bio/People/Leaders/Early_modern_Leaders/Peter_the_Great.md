@@ -82,7 +82,7 @@ present_in_work: "[[_Standards/WikiData/WD~Civilization VI,24050047]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q26145231,26145231]]'
 Commons_gallery: "Пётр Первый"
 ISNI: 0000000121263465
-date_of_death: "1725-02-08T00:00:00Z"
+date_of_death: "1725-02-08"
 place_of_birth: '[[_Standards/WikiData/WD~Moscow,649]]'
 place_of_death: "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
 father: "[[_Standards/WikiData/WD~Alexei I of Russia,7731]]"
@@ -100,7 +100,7 @@ Royal_Academy_new_identifier: peter-i
 Image_Archive_Herder_Institute: Q8479
 name_in_native_language: "Пётр I"
 birth_name: "Романов Пётр Алексеевич"
-date_of_birth: "1672-06-09T00:00:00Z"
+date_of_birth: "1672-06-09"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inconnu%20d%27apr%C3%A8s%20J.-M.%20Nattier%2C%20Portrait%20de%20Pierre%20Ier%20%28mus%C3%A9e%20de%20l%E2%80%99Ermitage%29.jpg"
 ---
 

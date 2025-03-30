@@ -426,8 +426,8 @@ population: 23409323
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/National%20Emblem%20of%20the%20Republic%20of%20China.svg"
 U_S_National_Archives_Identifier: 10035791
 Commons_gallery: 中華民國
-inception: "1912-01-01T00:00:00Z"
-has_time_started: "1912-01-01T00:00:00Z"
+inception: "1912"
+has_time_started: "1912"
 coordinates_of_easternmost_point: "Point(122.10638889 25.485)"
 has_id_wikidata: Q865
 location:

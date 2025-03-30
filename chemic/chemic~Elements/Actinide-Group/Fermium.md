@@ -22,7 +22,7 @@ chemical_formula: Fm
 element_symbol: Fm
 Commons_gallery: Fermium
 Commons_category: Fermium
-time_of_discovery_or_invention: "1952-12-01T00:00:00Z"
+time_of_discovery_or_invention: "1952-12-01"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20100%20Fermium.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fermium-Ytterbium%20Alloy.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-fermium.wav"

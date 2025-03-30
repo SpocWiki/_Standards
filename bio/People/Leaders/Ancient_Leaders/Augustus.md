@@ -117,7 +117,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Augustus%20of%20Prima
 Library_of_Congress_Classification: DG279
 ISNI: 0000000121227317
 name_in_native_language: "Imperator Caesar Divi filius Augustus"
-date_of_birth: "-0062-09-21T00:00:00Z"
+date_of_birth: "-0062-09-21"
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Latin,397]]'
 present_in_work: "[[_Standards/WikiData/WD~Civilization V,2385]]"
@@ -133,7 +133,7 @@ Libris_URI: gdsvvhw04l6fnhb
 Krugosvet_article: istoriya/AVGUST.html
 birth_name: "C. Octavius C.f."
 nickname: Thurinus
-date_of_death: "0014-08-17T00:00:00Z"
+date_of_death: "0014-08-17"
 ---
 
 ## #has_/text_of_/abstract 

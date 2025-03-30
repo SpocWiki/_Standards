@@ -12,7 +12,7 @@ Regensburg_Classification: "SF 1060"
 Gujarati_Vishwakosh_entry: આર્કિમીડીઝ
 birth_name: Ἀρχιμήδης
 name_in_native_language: "Ἀρχιμήδης ὁ Συρακόσιος"
-date_of_death: "-0211-01-01T00:00:00Z"
+date_of_death: "-0211"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/03.%20%D0%A0%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%81%D0%BA%D0%B0%20%D1%81%D0%B8%D0%BB%D0%B0%20%D0%BA%D0%B0%D1%98%20%D0%B0%D1%80%D1%85%D0%B8%D0%BC%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D0%BE%D1%82%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD.ogv"
 occupation:
 - '[[_Standards/WikiData/WD~engineer,81096]]'
@@ -68,7 +68,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
 given_name: '[[_Standards/WikiData/WD~Αρχιμήδης,109590340]]'
 attested_in: "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
-date_of_birth: "-0286-01-01T00:00:00Z"
+date_of_birth: "-0286"
 Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/archimedes"
 Provenio_UUID: bf7e7a56-8da8-469e-bfc7-f7622f75b734
 spoken_text_audio:

@@ -270,8 +270,8 @@ nominal_GDP:
 - 184558274289
 - 136797422274
 coordinate_location: "Point(47.6 29.166667)"
-inception: "1991-02-26T00:00:00Z"
-has_time_started: "1991-02-26T00:00:00Z"
+inception: "1991-02-26"
+has_time_started: "1991-02-26"
 Commons_category: Kuwait
 subreddit: Kuwait
 hashtag: Kuwait

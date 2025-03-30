@@ -48,10 +48,10 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Old Chinese,35137]]"
 noble_title: '[[_Standards/WikiData/WD~emperor,39018]]'
 place_of_birth: '[[_Standards/WikiData/WD~Handan,58570]]'
-date_of_death: "-0209-01-01T00:00:00Z"
+date_of_death: "-0209"
 name: 秦始皇
 Commons_category: "Qin Shi Huang"
-date_of_birth: "-0258-01-01T00:00:00Z"
+date_of_birth: "-0258"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuang.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuangdi3.jpg"

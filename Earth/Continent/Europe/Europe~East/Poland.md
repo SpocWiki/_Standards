@@ -276,7 +276,7 @@ ISNI:
 - 000000012293278X
 - 0000000404710018
 MeSH_tree_code: Z01.542.248.679
-Gregorian_calendar_start_date: "1582-10-15T00:00:00Z"
+Gregorian_calendar_start_date: "1582-10-15"
 coordinate_location: "Point(19.0 52.0)"
 coordinates_of_southernmost_point: "Point(22.84727097 49.00263222)"
 diplomatic_relation:
@@ -496,8 +496,8 @@ GitHub_topic: poland
 CIVICUS_Monitor_country_entry: poland
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Warsaw%20Old%20Town%20Market%20Square%2010.JPG"
 population: 38382576
-inception: "1918-11-11T00:00:00Z"
-has_time_started: "1918-11-11T00:00:00Z"
+inception: "1918-11-11"
+has_time_started: "1918-11-11"
 coordinates_of_northernmost_point: "Point(18.292777777 54.835555555)"
 coordinates_of_easternmost_point: "Point(24.14563179 50.86940732)"
 U_S_National_Archives_Identifier: 10045341

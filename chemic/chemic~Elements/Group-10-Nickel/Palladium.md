@@ -3,7 +3,7 @@ type: Element
 SpocWebEntityId: 21944
 has_id_wikidata: Q1089
 Unicode_character: 鈀
-time_of_discovery_or_invention: "1803-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1803"
 part_of:
 - "[[_Standards/WikiData/WD~group 10,205253]]"
 - "[[_Standards/WikiData/WD~period 5,244982]]"

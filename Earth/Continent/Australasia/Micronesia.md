@@ -203,8 +203,8 @@ coordinates_of_easternmost_point: "Point(162.973889 5.313333)"
 native_label:
 - Mikronesia
 - "Federated States of Micronesia"
-inception: "1986-11-03T00:00:00Z"
-has_time_started: "1986-11-03T00:00:00Z"
+inception: "1986-11-03"
+has_time_started: "1986-11-03"
 coordinate_location: "Point(158.183333333 6.916666666)"
 nominal_GDP:
 - 404028900

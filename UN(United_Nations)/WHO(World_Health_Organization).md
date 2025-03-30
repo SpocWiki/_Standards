@@ -98,8 +98,8 @@ social_media_followers:
 - 12067344
 - 890000
 Commons_category: "United Nations World Health Organization"
-inception: "1948-04-07T00:00:00Z"
-has_time_started: "1948-04-07T00:00:00Z"
+inception: "1948-04-07"
+has_time_started: "1948-04-07"
 NLC_authorities: 000469810
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20WHO.svg"
 Libris_URI: rp35496922hhnr5

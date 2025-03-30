@@ -61,7 +61,7 @@ Gmelin_number: 1160
 NSC_number: 42355
 Reaxys_registry_number: 3587194
 mass: 126.90447
-time_of_discovery_or_invention: "1811-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1811"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sample%20of%20iodine.jpg"
 CAS_Registry_Number: 7553-56-2
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%A1%E0%A6%BF%E0%A6%A8.wav"

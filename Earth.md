@@ -22,8 +22,8 @@ rotation_period: 24
 coordinates_of_southernmost_point: "Point(0.0 -90.0)"
 coordinates_of_northernmost_point: "Point(0.0 90.0)"
 longitude_of_ascending_node: 348.73936
-inception: "-4540000000-01-01T00:00:00Z"
-has_time_started: "-4540000000-01-01T00:00:00Z"
+inception: "-4540000000"
+has_time_started: "-4540000000"
 highest_point: '[[_Standards/WD/WD~Mount_Everest,513]]'
 lowest_point: '[[_Standards/WD/WD~Challenger_Deep,459173]]'
 opposite_of: '[[_Standards/WD/WD~sky,527]]'

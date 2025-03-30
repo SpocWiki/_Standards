@@ -9,8 +9,8 @@ Libris_URI: nl0222j64180qkf
 name_in_native_language: Εὐκλείδης
 birth_name: Εὐκλείδης
 floruit:
-- "-0250-01-01T00:00:00Z"
-- "-0299-01-01T00:00:00Z"
+- "-0250"
+- "-0299"
 Commons_gallery: Euclid
 Commons_category: Euclid
 Commons_Creator_page: Euclid
@@ -57,7 +57,7 @@ NLC_authorities: 000188413
 ISNI: 0000000356067426
 place_of_birth: "http://www.wikidata.org/.well-known/genid/1ee31067b36761617c45a6a116add931"
 date_of_death: "http://www.wikidata.org/.well-known/genid/2ff0210e23f5de523a911d2ae67ec10b"
-date_of_birth: "-0333-01-01T00:00:00Z"
+date_of_birth: "-0333"
 field_of_work: '[[_Standards/WikiData/WD~geometry,8087]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 residence: '[[_Standards/WikiData/WD~Alexandria,87]]'

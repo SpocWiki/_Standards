@@ -171,7 +171,7 @@ mother: "[[_Standards/WikiData/WD~Francesca di Neri del Miniato Siena,111456913]
 place_of_burial:
 - "[[_Standards/WikiData/WD~Tomb of Michelangelo Buonarroti,126003984]]"
 - "[[_Standards/WikiData/WD~Basilica of Santa Croce,51177]]"
-date_of_birth: "1475-03-15T00:00:00Z"
+date_of_birth: "1475-03-15"
 ISNI: 0000000121243640
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=154887250"
@@ -179,7 +179,7 @@ described_at_URL:
 - "http://www.digiporta.net/index.php?id=694153081"
 - "http://www.digiporta.net/index.php?id=523768652"
 - "http://www.digiporta.net/index.php?id=839821825"
-date_of_death: "1564-02-28T00:00:00Z"
+date_of_death: "1564-02-28"
 work_location:
 - '[[_Standards/WikiData/WD~Venice,641]]'
 - '[[_Standards/WikiData/WD~Bologna,1891]]'

@@ -26,9 +26,9 @@ practiced_by:
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Basketball,8090946]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Basketball,8206894]]'
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
-time_of_discovery_or_invention: "1891-12-01T00:00:00Z"
-inception: "1891-12-01T00:00:00Z"
-has_time_started: "1891-12-01T00:00:00Z"
+time_of_discovery_or_invention: "1891-12-01"
+inception: "1891-12-01"
+has_time_started: "1891-12-01"
 Baidu_Tieba_name: 篮球
 BHCL_UUID: b749c553-f4a5-4c56-8dd0-14a32c86db02
 Library_of_Congress_Classification: GV882-GV889.23

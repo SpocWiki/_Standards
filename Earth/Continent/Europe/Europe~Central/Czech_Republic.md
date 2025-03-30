@@ -213,7 +213,7 @@ ISNI: 000000012290990X
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Czechia%20Montage.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Czechia%20Montage.jpg"
 MeSH_tree_code: Z01.542.248.395
-time_of_earliest_written_record: "0900-01-01T00:00:00Z"
+time_of_earliest_written_record: "0900"
 coordinate_location: "Point(15.0 50.0)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Chile,298]]'
@@ -420,8 +420,8 @@ short_name:
 native_label: Česko
 motto_text:
 - "Pravda vítězí."
-inception: "1993-01-01T00:00:00Z"
-has_time_started: "1993-01-01T00:00:00Z"
+inception: "1993"
+has_time_started: "1993"
 coordinates_of_southernmost_point: "Point(14.33321804 48.55181702)"
 coordinates_of_westernmost_point: "Point(12.09061235 50.25239141)"
 coordinates_of_northernmost_point: "Point(14.3156 51.0557)"

@@ -301,8 +301,8 @@ coordinates_of_westernmost_point: "Point(-91.55 -0.37)"
 nominal_GDP:
 - 106165866000
 - 115049476000
-inception: "1840-02-16T00:00:00Z"
-has_time_started: "1840-02-16T00:00:00Z"
+inception: "1840-02-16"
+has_time_started: "1840-02-16"
 coordinate_location: "Point(-78.0 -1.0)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'

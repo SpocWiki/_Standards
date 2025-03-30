@@ -51,7 +51,7 @@ made_from_material:
 - '[[_Standards/WikiData/WD~hingganite-(Nd),68769615]]'
 - '[[_Standards/WikiData/WD~lepersonnite-(Nd),110297480]]'
 - '[[_Standards/WikiData/WD~chinleite-(Nd),114793058]]'
-time_of_discovery_or_invention: "1885-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1885"
 UMLS_CUI: C0027599
 location_of_discovery: '[[_Standards/WikiData/WD~Vienna,1741]]'
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"

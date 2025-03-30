@@ -79,10 +79,10 @@ ISNI:
 birth_name:
 - "Sarah Marie Henriette Bernard"
 - "Sara Marie Henriette Bernhardt"
-work_period_start_: "1862-01-01T00:00:00Z"
+work_period_start_: "1862"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Sarah%20Bernhardt%20signature%20droite.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Face%20detail%2C%20Sarah%20Bernhardt%20as%20Do%C3%B1a%20Sol%20in%20Hernani%20%28cropped%29.png"
-date_of_birth: "1844-10-23T00:00:00Z"
+date_of_birth: "1844-10-23"
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~English,1860]]'
@@ -95,7 +95,7 @@ country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Sarah%20Bernhardt%20grave.jpg"
 name_in_native_language: "Sarah Bernhardt"
-date_of_death: "1923-03-26T00:00:00Z"
+date_of_death: "1923-03-26"
 Libris_URI: 75kmg7qr3x14kw7
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/BERNAR_SARA.html
 Commons_gallery: "Sarah Bernhardt"

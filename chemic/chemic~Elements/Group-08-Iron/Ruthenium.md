@@ -23,7 +23,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20crystal%2
 Common_Procurement_Vocabulary_code:
 - 14743000-1
 - 14743000
-time_of_discovery_or_invention: "1844-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1844"
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 oxidation_state:
 - 3

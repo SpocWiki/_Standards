@@ -39,7 +39,7 @@ OmegaWiki_Defined_Meaning: 348371
 chemical_formula: Re
 element_symbol: Re
 canonical_SMILES: '[Re]'
-time_of_discovery_or_invention: "1925-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1925"
 Unicode_character: 錸
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhenium%20single%20crystal%20bar%20and%201cm3%20cube.jpg"
 electron_configuration: "[Xe] 4f¹⁴ 5d⁵ 6s²"

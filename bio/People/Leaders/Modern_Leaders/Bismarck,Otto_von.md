@@ -145,7 +145,7 @@ Royal_Academy_new_identifier: otto-von-bismark
 Image_Archive_Herder_Institute: Q8442
 birth_name: "Otto Eduard Leopold von Bismarck"
 name_in_native_language: "Otto von Bismarck"
-date_of_birth: "1815-04-01T00:00:00Z"
+date_of_birth: "1815-04-01"
 Commons_gallery: "Otto von Bismarck"
 Commons_category: "Otto von Bismarck"
 Commons_Creator_page: "Otto von Bismarck"
@@ -157,7 +157,7 @@ father: "[[_Standards/WikiData/WD~Ferdinand von Bismarck,94779889]]"
 mother: "[[_Standards/WikiData/WD~Wilhelmine Luise Mencken,96244639]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~TP updated between September 2019 and August 2020,98755339]]"
 has_list: '[[_Standards/WikiData/WD~Q104523585,104523585]]'
-date_of_death: "1898-07-30T00:00:00Z"
+date_of_death: "1898-07-30"
 ISNI: 0000000121010812
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=528022910"

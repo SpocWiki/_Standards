@@ -481,16 +481,16 @@ coordinates_of_southernmost_point:
 - "Point(-17.980833333 27.641944444)"
 - "Point(-5.610388888 36.000194444)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20Espa%C3%B1a%20%28variant%29.svg"
-Gregorian_calendar_start_date: "1582-10-15T00:00:00Z"
+Gregorian_calendar_start_date: "1582-10-15"
 nominal_GDP:
 - 1397509272054
 - 1427380681295
 inception:
-- "1715-01-01T00:00:00Z"
-- "1978-12-29T00:00:00Z"
-- "1812-03-19T00:00:00Z"
-- "1931-12-09T00:00:00Z"
-- "1516-03-24T00:00:00Z"
+- "1715"
+- "1978-12-29"
+- "1812-03-19"
+- "1931-12-09"
+- "1516-03-24"
 official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 capital: '[[_Standards/WikiData/WD~Madrid,2807]]'
 history_of_topic: "[[_Standards/WikiData/WD~history of Spain,7781]]"

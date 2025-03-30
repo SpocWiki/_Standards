@@ -229,8 +229,8 @@ FIPS_10_4_countries_and_regions_: MV
 ISO_3166_1_alpha_2_code: MV
 WIPO_ST_3: MV
 inception:
-- "1968-11-11T00:00:00Z"
-- "1965-07-26T00:00:00Z"
+- "1968-11-11"
+- "1965-07-26"
 PM20_geo_code: B60
 ITU_letter_code: MLD
 U_S_National_Archives_Identifier: 10044514

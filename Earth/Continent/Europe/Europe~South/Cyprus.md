@@ -300,8 +300,8 @@ licence_plate_code: CY
 ISO_3166_1_alpha_2_code: CY
 FIPS_10_4_countries_and_regions_: CY
 WIPO_ST_3: CY
-inception: "1960-08-16T00:00:00Z"
-has_time_started: "1960-08-16T00:00:00Z"
+inception: "1960-08-16"
+has_time_started: "1960-08-16"
 coordinates_of_westernmost_point: "Point(32.2697087 35.0704524)"
 U_S_National_Archives_Identifier: 10035687
 Commons_category: Cyprus

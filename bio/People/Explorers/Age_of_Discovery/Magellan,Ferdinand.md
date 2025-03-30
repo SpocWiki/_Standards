@@ -9,7 +9,7 @@ Commons_gallery: "Fernão de Magalhães"
 Krugosvet_article: istoriya/MAGELLAN_FERNAN.html
 name: "Magellan, Ferdinand"
 name_in_native_language: "Fernão de Magalhães"
-date_of_death: "1521-05-07T00:00:00Z"
+date_of_death: "1521-05-07"
 allegiance: "[[_Standards/WikiData/WD~Spanish Empire,80702]]"
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 military_casualty_classification: "[[_Standards/WikiData/WD~killed in action,210392]]"
@@ -43,7 +43,7 @@ spouse: "[[_Standards/WikiData/WD~Beatriz Barbosa,22668563]]"
 father: "[[_Standards/WikiData/WD~Rui de Rui de Magalhães,42293555]]"
 mother: "[[_Standards/WikiData/WD~Alda de Mesquita,100953577]]"
 family_name: "[[_Standards/WikiData/WD~Mbappe lotin,109590735]]"
-date_of_birth: "1480-01-01T00:00:00Z"
+date_of_birth: "1480"
 ISNI: 0000000121361727
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=143424712"

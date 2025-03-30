@@ -110,7 +110,7 @@ InChI: InChI=1S/Cr
 Krugosvet_article: nauka_i_tehnika/himiya/HROM.html
 InChIKey: VYZAMTAEIAYCRO-UHFFFAOYSA-N
 Unicode_character: 鉻
-time_of_discovery_or_invention: "1797-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1797"
 ---
 
 #chemic/Element 

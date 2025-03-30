@@ -125,12 +125,12 @@ signature:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Corbusier%20signature%201957.svg"
 external_data_available_at_URL: "http://www.fondationlecorbusier.asso.fr/"
 ArhivX_LOD: 5670
-date_of_death: "1965-08-27T00:00:00Z"
+date_of_death: "1965-08-27"
 Commons_gallery: "Le Corbusier"
 Commons_category: "Le Corbusier"
 Commons_Creator_page: "Le Corbusier"
 name_in_native_language: "Le Corbusier"
-date_of_birth: "1887-10-06T00:00:00Z"
+date_of_birth: "1887-10-06"
 described_at_URL:
 - "https://arteforadomuseu.com.br/artistas/le-corbusier/"
 - "http://arch-pavouk.cz/index.php/architekti/247-le-corbusier"

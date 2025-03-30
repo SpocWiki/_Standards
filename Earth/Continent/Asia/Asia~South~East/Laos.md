@@ -308,8 +308,8 @@ rural_population:
 - 4663189
 - 4682315
 - 4698995
-inception: "1949-01-01T00:00:00Z"
-has_time_started: "1949-01-01T00:00:00Z"
+inception: "1949"
+has_time_started: "1949"
 coordinate_location: "Point(104.1 18.2)"
 coordinates_of_northernmost_point: "Point(101.77 22.5)"
 coordinates_of_southernmost_point: "Point(106.10484 13.90976)"

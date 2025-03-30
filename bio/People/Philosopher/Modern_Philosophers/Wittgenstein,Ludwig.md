@@ -39,7 +39,7 @@ sibling:
 - "[[_Standards/WikiData/WD~Rudolf Wittgenstein,96090161]]"
 - "[[_Standards/WikiData/WD~Margaret Stonborough-Wittgenstein,85885]]"
 - "[[_Standards/WikiData/WD~Paul Wittgenstein,170348]]"
-date_of_birth: "1889-04-26T00:00:00Z"
+date_of_birth: "1889-04-26"
 NLC_authorities: 000063057
 ISNI: 0000000120999171
 place_of_death: '[[_Standards/WikiData/WD~Cambridge,350]]'
@@ -106,7 +106,7 @@ Regensburg_Classification: "BF 7370"
 Wolfram_Language_entity_code: "Entity[\"Person\", \"LudwigWittgenstein::4kv26\"]"
 Krugosvet_article: gumanitarnye_nauki/lingvistika/VITGENSHTEN_LYUDVIG_OZEF_IOGANN.html
 PhilPapers_topic: ludwig-wittgenstein
-date_of_death: "1951-04-29T00:00:00Z"
+date_of_death: "1951-04-29"
 Commons_Creator_page: "Ludwig Wittgenstein"
 Commons_gallery: "Ludwig Wittgenstein"
 Commons_category: "Ludwig Wittgenstein"

@@ -49,8 +49,8 @@ mother: "[[_Standards/WikiData/WD~Izabel Sodre,101518414]]"
 spouse: "[[_Standards/WikiData/WD~Catarina de Ataíde,108650778]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ignoto%20portoghese%2C%20ritratto%20di%20un%20cavaliere%20dell%27ordine%20di%20cristo%2C%201525-50%20ca.%2002.jpg"
 date_of_birth:
-- "1469-01-01T00:00:00Z"
-- "1460-01-01T00:00:00Z"
+- "1469"
+- "1460"
 ISNI: 0000000083462817
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=419835040"
@@ -64,7 +64,7 @@ country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Portugal,45670]]"
 name_in_native_language: "Vasco da Gama"
 Commons_gallery: "Vasco da Gama"
 Commons_category: "Vasco da Gama"
-date_of_death: "1525-01-03T00:00:00Z"
+date_of_death: "1525-01-03"
 ---
 
 ## #has_/text_of_/abstract 

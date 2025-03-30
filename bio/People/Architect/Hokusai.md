@@ -136,22 +136,22 @@ name_in_native_language:
 - 葛飾北斎
 - "葛飾\U000E0101北齋"
 floruit:
-- "1808-01-01T00:00:00Z"
-- "1849-01-01T00:00:00Z"
-work_period_start_: "1775-01-01T00:00:00Z"
+- "1808"
+- "1849"
+work_period_start_: "1775"
 given_name: '[[_Standards/WikiData/WD~Hokusai,65613226]]'
 family_name: '[[_Standards/WikiData/WD~Katsushika,65613231]]'
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject New York Public Library,121437821]]"
 place_of_birth: '[[_Standards/WikiData/WD~Honjo,129278253]]'
-date_of_birth: "1760-10-31T00:00:00Z"
+date_of_birth: "1760-10-31"
 spouse:
 - "http://www.wikidata.org/.well-known/genid/8196368e2dec5a3f7356cfb15466b997"
 - "http://www.wikidata.org/.well-known/genid/aed02d5591fdcefd1c0bac9cc0dc3a50"
 ISNI: 0000000121381517
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
-date_of_death: "1849-05-10T00:00:00Z"
-work_period_end_: "1849-01-01T00:00:00Z"
+date_of_death: "1849-05-10"
+work_period_end_: "1849"
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Japanese,5287]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Japan,17]]'

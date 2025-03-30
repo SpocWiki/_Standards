@@ -23,11 +23,11 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse: "[[_Standards/WikiData/WD~Fatma Nur,24956078]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 given_name: '[[_Standards/WikiData/WD~Q110818088,110818088]]'
-date_of_birth: "1490-01-01T00:00:00Z"
+date_of_birth: "1490"
 position_held: "[[_Standards/WikiData/WD~chief Ottoman imperial architect,130685555]]"
 ISNI: 0000000080016993
 Libris_URI: dwxsvwcnbptk6rsl
-date_of_death: "1588-07-17T00:00:00Z"
+date_of_death: "1588-07-17"
 place_of_burial: '[[_Standards/WikiData/WD~Constantinople,16869]]'
 place_of_death: '[[_Standards/WikiData/WD~Constantinople,16869]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'

@@ -6,7 +6,7 @@ Commons_gallery: Strontium
 Commons_category: Strontium
 UNII: YZS2RPE8LE
 Unicode_character: 鍶
-time_of_discovery_or_invention: "1787-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1787"
 part_of:
 - "[[_Standards/WikiData/WD~period 5,244982]]"
 - "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"

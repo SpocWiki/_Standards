@@ -313,8 +313,8 @@ ISNI: 0000000123587092
 coordinates_of_westernmost_point: "Point(20.26178777 46.12168563)"
 MeSH_tree_code: Z01.542.248.764
 coordinates_of_easternmost_point: "Point(29.71667916 45.16381636)"
-inception: "1859-02-05T00:00:00Z"
-has_time_started: "1859-02-05T00:00:00Z"
+inception: "1859-02-05"
+has_time_started: "1859-02-05"
 nominal_GDP:
 - 285404683025
 - 301261582924

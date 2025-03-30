@@ -171,10 +171,10 @@ documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
 field_of_work: "[[_Standards/WikiData/WD~creative and professional writing,113209507]]"
-date_of_burial_or_cremation: "1885-06-01T00:00:00Z"
-date_of_death: "1885-05-22T00:00:00Z"
+date_of_burial_or_cremation: "1885-06-01"
+date_of_death: "1885-05-22"
 ArhivX_LOD: 3724
-work_period_end_: "1883-01-01T00:00:00Z"
+work_period_end_: "1883"
 Archive_of_Our_Own_tag: "Victor Hugo (1802-1885)"
 ISNI: 0000000121200982
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Pante%C3%B3n%2C%20Par%C3%ADs%2C%20Francia%2C%202022-10-29%2C%20DD%2049-51%20HDR.jpg"
@@ -196,8 +196,8 @@ name_in_native_language: "Victor Hugo"
 Commons_Creator_page: "Victor Hugo"
 Commons_gallery: "Victor Hugo"
 Commons_category: "Victor Hugo"
-work_period_start_: "1819-01-01T00:00:00Z"
-date_of_birth: "1802-02-26T00:00:00Z"
+work_period_start_: "1819"
+date_of_birth: "1802-02-26"
 ---
 
 ## #has_/text_of_/abstract 

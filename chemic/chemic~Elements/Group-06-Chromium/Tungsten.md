@@ -94,7 +94,7 @@ Commons_category: Tungsten
 UNII: V9306CXO6G
 InChIKey: WFKWXMTUELFFGS-UHFFFAOYSA-N
 RTECS_number: YO7175000
-time_of_discovery_or_invention: "1783-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1783"
 ---
 
 #chemic/Element 

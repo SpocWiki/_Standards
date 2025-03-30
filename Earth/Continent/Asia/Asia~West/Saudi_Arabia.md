@@ -311,8 +311,8 @@ motto_text:
 - "There is no god but God; Muhammad is the messenger of God"
 - "لَا إِلٰهَ إِلَّا ٱلله مُحَمَّدٌ رَسُولُ ٱلله"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Saudi%20Arabia%20Base%20Map.png"
-inception: "1727-01-01T00:00:00Z"
-has_time_started: "1727-01-01T00:00:00Z"
+inception: "1727"
+has_time_started: "1727"
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 country: "[[_Standards/WikiData/WD~Saudi Arabia,851]]"

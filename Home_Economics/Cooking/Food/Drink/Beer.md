@@ -64,7 +64,7 @@ Stadtwiki_Dresden_article: Bier
 GitHub_topic: beer
 subreddit: beer
 Colon_Classification: F548
-start_time: "-3500-01-01T00:00:00Z"
+start_time: "-3500"
 equivalent_class:
 - "http://aims.fao.org/aos/agrovoc/c_864"
 - "http://dbpedia.org/ontology/Beer"

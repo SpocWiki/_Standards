@@ -419,12 +419,12 @@ location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Netherlands%20
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Netherlands.webm"
 ISNI: 000000012369754X
 Gregorian_calendar_start_date:
-- "1583-01-12T00:00:00Z"
-- "1582-12-25T00:00:00Z"
-- "1701-05-12T00:00:00Z"
-- "1701-01-12T00:00:00Z"
-- "1700-12-12T00:00:00Z"
-- "1700-07-12T00:00:00Z"
+- "1583-01-12"
+- "1582-12-25"
+- "1701-05-12"
+- "1701-01-12"
+- "1700-12-12"
+- "1700-07-12"
 coordinates_of_southernmost_point: "Point(5.91513991 50.75040004)"
 capital: '[[_Standards/WikiData/WD~Amsterdam,727]]'
 located_in_time_zone:
@@ -436,8 +436,8 @@ short_name: "\U0001F1F3\U0001F1F1"
 population: 17942942
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20coat%20of%20arms%20of%20the%20Netherlands.svg"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Nederland.map"
-inception: "1795-01-19T00:00:00Z"
-has_time_started: "1795-01-19T00:00:00Z"
+inception: "1795-01-19"
+has_time_started: "1795-01-19"
 coordinates_of_northernmost_point: "Point(6.74727917 53.46633589)"
 route_map:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Genummerde%20wegen%202009.svg"

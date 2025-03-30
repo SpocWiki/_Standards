@@ -371,8 +371,8 @@ ISNI: 0000000122974701
 MeSH_tree_code: Z01.542.883
 nominal_GDP: 807706035352
 coordinates_of_westernmost_point: "Point(5.9561348 46.13244515)"
-inception: "1848-09-12T00:00:00Z"
-has_time_started: "1848-09-12T00:00:00Z"
+inception: "1848-09-12"
+has_time_started: "1848-09-12"
 coordinates_of_northernmost_point: "Point(8.57 47.8)"
 VAT_rate:
 - 2.5

@@ -206,8 +206,8 @@ short_name:
 - "\U0001F1F5\U0001F1FC"
 - PW
 coordinates_of_northernmost_point: "Point(134.63 8.17)"
-inception: "1994-10-01T00:00:00Z"
-has_time_started: "1994-10-01T00:00:00Z"
+inception: "1994-10-01"
+has_time_started: "1994-10-01"
 coordinate_location: "Point(134.55 7.466667)"
 area: 465.550362
 ISO_3166_1_alpha_3_code: PLW

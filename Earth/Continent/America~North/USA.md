@@ -448,10 +448,10 @@ on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
 - "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
 Gregorian_calendar_start_date:
-- "1752-09-14T00:00:00Z"
-- "1867-10-18T00:00:00Z"
-- "1582-12-20T00:00:00Z"
-- "1582-10-15T00:00:00Z"
+- "1752-09-14"
+- "1867-10-18"
+- "1582-12-20"
+- "1582-10-15"
 coordinates_of_westernmost_point: "Point(172.43708 52.92112)"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Amerikai%20Egyes%C3%BClt%20%C3%81llamok.ogg"
@@ -707,8 +707,8 @@ female_population:
 coordinate_location: "Point(-98.5795 39.828175)"
 coordinates_of_southernmost_point: "Point(-81.8051241 24.5442989)"
 coordinates_of_easternmost_point: "Point(-66.94995403 44.81539337)"
-inception: "1784-05-12T00:00:00Z"
-has_time_started: "1784-05-12T00:00:00Z"
+inception: "1784-05-12"
+has_time_started: "1784-05-12"
 ---
 
 # [[USA]] 

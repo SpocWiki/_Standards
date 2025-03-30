@@ -106,7 +106,7 @@ E_number: E174
 Unicode_character: 銀
 chemical_formula: Ag
 element_symbol: Ag
-time_of_discovery_or_invention: "-5000-01-01T00:00:00Z"
+time_of_discovery_or_invention: "-5000"
 UNSPSC_Code: 11101802
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20crystal.jpg"
 ---

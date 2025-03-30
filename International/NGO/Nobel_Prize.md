@@ -31,8 +31,8 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Nobel Prizes,5830529]]
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nobel prize,11194208]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13206142,13206142]]'
 disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-inception: "1901-01-01T00:00:00Z"
-has_time_started: "1901-01-01T00:00:00Z"
+inception: "1901"
+has_time_started: "1901"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q33094346,33094346]]'
 UMLS_CUI: C0028236
 spoken_text_audio:

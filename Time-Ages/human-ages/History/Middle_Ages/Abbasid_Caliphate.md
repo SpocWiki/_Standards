@@ -24,7 +24,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-dissolved_abolished_or_demolished_date: "1258-02-17T00:00:00Z"
+dissolved_abolished_or_demolished_date: "1258-02-17"
 family: '[[_Standards/WikiData/WD~Abbasids,4437641]]'
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20flag.svg"
 followed_by:
@@ -33,10 +33,10 @@ followed_by:
   - "[[_Standards/WikiData/WD~Tulunid emirate,4147013]]"
 follows: "[[_Standards/WikiData/WD~Umayyad Caliphate,8575586]]"
 founded_by: '[[_Standards/WikiData/WD~As-Saffah,252087]]'
-has_time_started: "0750-01-01T00:00:00Z"
-has_time_stopped: "1258-02-17T00:00:00Z"
+has_time_started: "0750"
+has_time_stopped: "1258-02-17"
 head_of_state: '[[_Standards/WikiData/WD~As-Saffah,252087]]'
-inception: "0750-01-01T00:00:00Z"
+inception: "0750"
 instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
 language_used:
   - '[[_Standards/WikiData/WD~Arabic,13955]]'

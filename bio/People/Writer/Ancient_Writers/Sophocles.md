@@ -66,8 +66,8 @@ Provenio_UUID:
 - 1ee501b0-a7ae-4b4d-abfc-008a0b4d5a8a
 - 5bacbfd0-f151-4d5a-9bc5-03c04b895397
 BHCL_UUID: 1ee535de-317b-4b63-affe-315c76aaa517
-date_of_birth: "-0495-01-01T00:00:00Z"
-date_of_death: "-0405-01-01T00:00:00Z"
+date_of_birth: "-0495"
+date_of_death: "-0405"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Sophocles::7322v\"]"
 Libris_URI: hftwxc410z5p0lz
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/SOFOKL.html

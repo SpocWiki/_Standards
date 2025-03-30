@@ -48,7 +48,7 @@ Commons_category: Francium
 InChI: InChI=1S/Fr
 InChIKey: KLMCZVJOEAUDNE-UHFFFAOYSA-N
 Unicode_character: 鍅
-time_of_discovery_or_invention: "1939-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1939"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Francium,671]] 

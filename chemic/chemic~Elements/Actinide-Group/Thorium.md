@@ -38,7 +38,7 @@ chemical_formula: Th
 element_symbol: Th
 mass: 232.0377
 OmegaWiki_Defined_Meaning: 365213
-time_of_discovery_or_invention: "1828-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1828"
 Commons_category: Thorium
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Thorium%20sample%200.1g.jpg"
 canonical_SMILES: '[Th]'

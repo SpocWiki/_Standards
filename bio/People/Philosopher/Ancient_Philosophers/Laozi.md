@@ -44,7 +44,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 given_name: '[[_Standards/WikiData/WD~Er,96181790]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116819358,116819358]]'
 ISNI: 0000000447219093
-date_of_birth: "-0579-01-01T00:00:00Z"
+date_of_birth: "-0579"
 Library_of_Congress_Classification: BL1930
 name_in_native_language: tilin
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Chinese,7850]]'
@@ -63,7 +63,7 @@ Commons_Creator_page: Laozi
 Commons_category: Laozi
 name_in_kana: ろうし
 posthumous_name: 玄元皇帝
-date_of_death: "-0499-01-01T00:00:00Z"
+date_of_death: "-0499"
 Baidu_Tieba_name: 老子
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Lu-Laozi%20Riding%20an%20Ox%20%28cropped%29.jpg"
 NLC_authorities: 000205575

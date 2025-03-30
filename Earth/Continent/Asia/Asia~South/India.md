@@ -1204,8 +1204,8 @@ ITU_letter_code: IND
 ISO_3166_1_alpha_2_code: IN
 FIPS_10_4_countries_and_regions_: IN
 WIPO_ST_3: IN
-inception: "1947-08-15T00:00:00Z"
-has_time_started: "1947-08-15T00:00:00Z"
+inception: "1947-08-15"
+has_time_started: "1947-08-15"
 illiterate_population: 447216165
 coordinates_of_southernmost_point: "Point(93.8426 6.74678)"
 number_of_out_of_school_children: 60824152

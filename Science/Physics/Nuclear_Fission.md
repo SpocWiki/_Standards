@@ -17,7 +17,7 @@ MeSH_tree_code:
 has_effect:
 - '[[_Standards/WikiData/WD~radioactivity,11448]]'
 - '[[_Standards/WikiData/WD~heat,44432]]'
-time_of_discovery_or_invention: "1938-12-01T00:00:00Z"
+time_of_discovery_or_invention: "1938-12-01"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%AA.wav"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kernspaltung.svg"
 IEV_number:

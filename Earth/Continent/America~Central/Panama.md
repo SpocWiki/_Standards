@@ -321,8 +321,8 @@ subreddit: Panama
 hashtag: Panama
 Commons_category: Panama
 short_name: "\U0001F1F5\U0001F1E6"
-inception: "1903-01-01T00:00:00Z"
-has_time_started: "1903-01-01T00:00:00Z"
+inception: "1903"
+has_time_started: "1903"
 coordinate_location: "Point(-80.366667 8.616667)"
 coordinates_of_westernmost_point: "Point(-83.0518 8.3335)"
 Unicode_character: 🇵🇦 

@@ -119,7 +119,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 Stack_Exchange_tag: "https://psychology.stackexchange.com/tags/freud"
 ISNI: 0000000121272193
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Austrian-psychoanalyst-Sigmund-Freud-1935.webp"
-date_of_birth: "1856-05-06T00:00:00Z"
+date_of_birth: "1856-05-06"
 work_location:
 - '[[_Standards/WikiData/WD~Vienna,1741]]'
 - '[[_Standards/WikiData/WD~London,84]]'
@@ -133,7 +133,7 @@ Commons_gallery: "Sigmund Freud"
 Commons_category: "Sigmund Freud"
 Commons_Creator_page: "Sigmund Freud"
 subreddit: Freud
-date_of_death: "1939-09-23T00:00:00Z"
+date_of_death: "1939-09-23"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stele%20-%20Sigmund%20Freud%2C%20Das%20Geheimnis%20des%20Traumes%20%28Wien%201900%29%20002.jpg"
 ---
 

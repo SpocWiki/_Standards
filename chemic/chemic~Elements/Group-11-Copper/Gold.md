@@ -43,7 +43,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Gold,84671735]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828621,22828621]]'
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
-time_of_discovery_or_invention: "-6000-01-01T00:00:00Z"
+time_of_discovery_or_invention: "-6000"
 discoverer_or_inventor: "http://www.wikidata.org/.well-known/genid/1a9eb9f7d2e410c81adc8f43484355f4"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20crystallization%20phenomenon%20when%20liquid%20gold%20solidifies%20is%20full%20of%20dendrites..webm"
 Mohs_hardness: 3

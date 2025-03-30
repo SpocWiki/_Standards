@@ -8,12 +8,12 @@ Commons_category: "Mali Empire"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 currency: '[[_Standards/WikiData/WD~gold,897]]'
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mali%20Empire.jpg"
-dissolved_abolished_or_demolished_date: "1670-01-01T00:00:00Z"
-has_time_started: "1235-01-01T00:00:00Z"
-has_time_stopped: "1670-01-01T00:00:00Z"
+dissolved_abolished_or_demolished_date: "1670"
+has_time_started: "1235"
+has_time_stopped: "1670"
 head_of_state: '[[_Standards/WikiData/WD~Mansa,1886285]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Catalan%20Atlas%20BNF%20Sheet%206%20Western%20Sahara.jpg"
-inception: "1235-01-01T00:00:00Z"
+inception: "1235"
 instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
 language_used: '[[_Standards/WikiData/WD~Senegambian,1708753]]'
 legislative_body: '[[_Standards/WikiData/WD~Gbara,3299285]]'

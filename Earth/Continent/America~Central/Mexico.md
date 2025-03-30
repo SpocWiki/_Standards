@@ -816,8 +816,8 @@ Commons_gallery: México
 coordinates_of_easternmost_point: "Point(-86.74072981 21.135385)"
 coordinates_of_geographic_center: "Point(-99.895833333 20.520833333)"
 U_S_National_Archives_Identifier: 10044640
-inception: "1810-09-16T00:00:00Z"
-has_time_started: "1810-09-16T00:00:00Z"
+inception: "1810-09-16"
+has_time_started: "1810-09-16"
 rural_population:
 - 23843271
 - 24053703

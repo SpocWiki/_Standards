@@ -281,8 +281,8 @@ subreddit: Togo
 hashtag: Togo
 Commons_gallery: Togo
 Commons_category: Togo
-inception: "1960-04-27T00:00:00Z"
-has_time_started: "1960-04-27T00:00:00Z"
+inception: "1960-04-27"
+has_time_started: "1960-04-27"
 PM20_geo_code: C58
 U_S_National_Archives_Identifier: 10046283
 coordinates_of_southernmost_point: "Point(1.19964 6.11236)"

@@ -233,8 +233,8 @@ motto_text:
 short_name: "\U0001F1E7\U0001F1EC"
 coordinate_location: "Point(25.5 42.75)"
 nominal_GDP: 89040398406
-inception: "1878-07-13T00:00:00Z"
-has_time_started: "1878-07-13T00:00:00Z"
+inception: "1878-07-13"
+has_time_started: "1878-07-13"
 UMLS_CUI: C0006368
 ISNI:
 - 0000000123254108

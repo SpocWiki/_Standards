@@ -25,14 +25,14 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
 different_from: "[[_Standards/WikiData/WD~Britannic Empire,2078249]]"
-dissolved_abolished_or_demolished_date: "1997-01-01T00:00:00Z"
+dissolved_abolished_or_demolished_date: "1997"
 economy_of_topic: "[[_Standards/WikiData/WD~economy of the British Empire,48803177]]"
 flag: "[[_Standards/WikiData/WD~Union Jack,3173323]]"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%281-2%29.svg"
 has_part_s_: "[[_Standards/WikiData/WD~Colony of Trinidad,116288296]]"
-has_time_started: "1583-01-01T00:00:00Z"
-has_time_stopped: "1997-01-01T00:00:00Z"
-inception: "1583-01-01T00:00:00Z"
+has_time_started: "1583"
+has_time_stopped: "1997"
+inception: "1583"
 instance_of: "[[_Standards/WikiData/WD~colonial empire,1790360]]"
 Krugosvet_article: istoriya/BRITANSKAYA_IMPERIYA.html
 language_used: '[[_Standards/WikiData/WD~English,1860]]'

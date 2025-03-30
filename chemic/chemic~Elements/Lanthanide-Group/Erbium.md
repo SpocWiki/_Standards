@@ -27,7 +27,7 @@ made_from_material:
 - "[[_Standards/WikiData/WD~euxenite mineral group,18016084]]"
 - "[[_Standards/WikiData/WD~monazite sands,115626544]]"
 UMLS_CUI: C0014688
-time_of_discovery_or_invention: "1843-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1843"
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 ionic_radius:
 - 1

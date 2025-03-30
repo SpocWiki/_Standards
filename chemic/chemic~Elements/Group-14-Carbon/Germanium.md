@@ -35,7 +35,7 @@ subclass_of:
 instance_of:
 - "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
 - "[[_Standards/WikiData/WD~chemical element,11344]]"
-time_of_discovery_or_invention: "1886-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1886"
 oxidation_state:
 - -4
 - -3

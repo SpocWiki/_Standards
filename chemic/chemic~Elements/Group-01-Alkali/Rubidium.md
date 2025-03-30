@@ -35,7 +35,7 @@ UMLS_CUI: C0035930
 Common_Procurement_Vocabulary_code:
 - 14773000-0
 - 14773000
-time_of_discovery_or_invention: "1861-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1861"
 named_after: '[[_Standards/WikiData/WD~red,3142]]'
 oxidation_state: 1
 electronegativity: 1

@@ -90,7 +90,7 @@ Krugosvet_article: nauka_i_tehnika/himiya/MOLIBDEN.html
 RTECS_number: QA4680000
 InChIKey: ZOKXTWBITQBERF-UHFFFAOYSA-N
 Unicode_character: 鉬
-time_of_discovery_or_invention: "1778-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1778"
 ---
 
 #chemic/Element 

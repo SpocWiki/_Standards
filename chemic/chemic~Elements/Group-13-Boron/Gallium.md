@@ -26,7 +26,7 @@ instance_of:
 - "[[_Standards/WikiData/WD~chemical element,11344]]"
 has_effect: '[[_Standards/WikiData/WD~embrittlement,2919530]]'
 UMLS_CUI: C0016980
-time_of_discovery_or_invention: "1875-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1875"
 Common_Procurement_Vocabulary_code:
 - 14762000-0
 - 14762000

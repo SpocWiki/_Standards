@@ -13,14 +13,14 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-end_time: "1521-01-01T00:00:00Z"
+end_time: "1521"
 history_of_topic: "[[_Standards/WikiData/WD~history of the Aztecs,2362871]]"
 instance_of:
   - '[[_Standards/WikiData/WD~civilization,8432]]'
   - '[[_Standards/WikiData/WD~culture,11042]]'
   - "[[_Standards/WikiData/WD~historical ethnic group,4204501]]"
 Krugosvet_article: istoriya/ATSTEKI.html
-start_time: "1200-01-01T00:00:00Z"
+start_time: "1200"
 U_S_National_Archives_Identifier: 10675178
 uses: "[[_Standards/WikiData/WD~human sacrifice,119094]]"
 ---

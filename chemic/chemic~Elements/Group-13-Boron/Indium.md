@@ -33,7 +33,7 @@ different_from:
 - "[[_Standards/WikiData/WD~Hindujo _ Hindio _ Indija _ India,66376810]]"
 - '[[_Standards/WikiData/WD~iridium,877]]'
 UMLS_CUI: C0021223
-time_of_discovery_or_invention: "1863-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1863"
 Common_Procurement_Vocabulary_code:
 - 14763000-7
 - 14763000

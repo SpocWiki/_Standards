@@ -72,11 +72,11 @@ BHCL_UUID: d80f36e6-07a8-49c3-9819-c91641186fea
 nickname:
 - Gabo
 - Gabito
-work_period_start_: "1947-01-01T00:00:00Z"
+work_period_start_: "1947"
 Commons_category: "Gabriel García Márquez"
-work_period_end_: "2009-01-01T00:00:00Z"
-date_of_birth: "1927-03-06T00:00:00Z"
-date_of_death: "2014-04-17T00:00:00Z"
+work_period_end_: "2009"
+date_of_birth: "1927-03-06"
+date_of_death: "2014-04-17"
 Google_Doodle: gabriel-garcia-marquezs-91st-birthday
 Facebook_username: GabrielGarciaMarquezAuthor
 Krugosvet_article: kultura_i_obrazovanie/literatura/MARKES_GARSIA_GABRIEL_JOSE.html

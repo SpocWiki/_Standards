@@ -84,7 +84,7 @@ birth_name: "Flavius Constantinus"
 ISNI: 0000000120966935
 nickname: Trachala
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/0%20Gaius%20Flavius%20Valerius%20Constantinus%2C%20Palatino.jpg"
-date_of_death: "0337-05-23T00:00:00Z"
+date_of_death: "0337-05-23"
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Latin,397]]'
 feast_day:
@@ -106,7 +106,7 @@ Image_Archive_Herder_Institute: Q8413
 Krugosvet_article: religiya/konstantin-i
 name_in_native_language: "Flavius Valerius Aurelius Constantinus"
 praenomen: "http://www.wikidata.org/.well-known/genid/da1808b5fcac9cd93e8386aa03a460d3"
-date_of_birth: "0272-02-27T00:00:00Z"
+date_of_birth: "0272-02-27"
 ---
 
 ## #has_/text_of_/abstract 

@@ -40,7 +40,7 @@ attested_in: "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
 depicted_by: "[[_Standards/WikiData/WD~Monument to Ovid,125809221]]"
 Stack_Exchange_tag: "https://latin.stackexchange.com/tags/ovidius"
 ISNI: 0000000121427757
-date_of_birth: "-0042-03-18T00:00:00Z"
+date_of_birth: "-0042-03-18"
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 native_language: '[[_Standards/WikiData/WD~Latin,397]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Latin,397]]'
@@ -51,7 +51,7 @@ place_of_birth: '[[_Standards/WikiData/WD~Sulmona,50157]]'
 ArhivX_LOD: 9275
 Commons_Creator_page: Ovid
 Commons_category: Ovid
-date_of_death: "0017-01-01T00:00:00Z"
+date_of_death: "0017"
 NLC_authorities: 000121273
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ovid%20by%20an%20anonymous%20sculptor.jpg"
 name_in_native_language: "Publius Ovidius Naso"

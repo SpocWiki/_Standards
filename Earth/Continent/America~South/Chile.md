@@ -143,8 +143,8 @@ urban_population:
 - 17118329
 - 17234034
 coordinate_location: "Point(-71.0 -33.0)"
-inception: "1810-09-18T00:00:00Z"
-has_time_started: "1810-09-18T00:00:00Z"
+inception: "1810-09-18"
+has_time_started: "1810-09-18"
 coordinates_of_northernmost_point: "Point(-69.4683 -17.49848)"
 coordinates_of_easternmost_point: "Point(-66.41690522 -55.22008886)"
 MeSH_tree_code: Z01.107.757.235

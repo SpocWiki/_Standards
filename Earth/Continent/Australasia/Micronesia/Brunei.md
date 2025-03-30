@@ -130,9 +130,9 @@ demonym:
 - Brunänan
 open_data_portal: "[[_Standards/WikiData/WD~Brunei Open Data Portal,97152537]]"
 inception:
-- "1888-09-17T00:00:00Z"
-- "1368-01-01T00:00:00Z"
-- "1984-01-01T00:00:00Z"
+- "1888-09-17"
+- "1368"
+- "1984"
 area: 5765.313533
 coordinate_location: "Point(114.566667 4.4)"
 official_name:

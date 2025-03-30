@@ -453,8 +453,8 @@ aircraft_registration_prefix:
 - EP
 - IR
 U_S_National_Archives_Identifier: 10044493
-inception: "1979-04-01T00:00:00Z"
-has_time_started: "1979-04-01T00:00:00Z"
+inception: "1979-04-01"
+has_time_started: "1979-04-01"
 Baidu_Tieba_name: 伊朗
 WIPO_ST_3: IR
 UIC_alphabetical_country_code: IR

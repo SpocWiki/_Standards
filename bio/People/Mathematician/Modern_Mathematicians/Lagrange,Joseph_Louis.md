@@ -90,13 +90,13 @@ BHCL_UUID: 25d1a6d0-adb7-4be3-9bf7-d872837534b8
 Commons_Creator_page: "Joseph-Louis Lagrange"
 Commons_gallery: "Joseph-Louis Lagrange"
 Commons_category: "Joseph-Louis Lagrange"
-date_of_death: "1813-04-10T00:00:00Z"
+date_of_death: "1813-04-10"
 Krugosvet_article: matematika/lagranzh-zhozef-lui
 Regensburg_Classification: "SF 4840"
 Libris_URI: vs68b59d4g2mdf4
 name_in_native_language: "Giuseppe Ludovico Lagrangia"
 birth_name: "Giuseppe Ludovico Lagrangia"
-date_of_birth: "1736-01-25T00:00:00Z"
+date_of_birth: "1736-01-25"
 ISNI: 0000000110197060
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=114909671"

@@ -289,10 +289,10 @@ FIPS_10_4_countries_and_regions_: LY
 ISO_3166_1_alpha_2_code: LY
 WIPO_ST_3: LY
 inception:
-- "1969-09-01T00:00:00Z"
-- "1977-03-02T00:00:00Z"
-- "1551-08-25T00:00:00Z"
-- "1951-12-24T00:00:00Z"
+- "1969-09-01"
+- "1977-03-02"
+- "1551-08-25"
+- "1951-12-24"
 PM20_geo_code: C15
 urban_population:
 - 5455170

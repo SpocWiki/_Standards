@@ -32,7 +32,7 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
 - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
 - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
-time_of_discovery_or_invention: "1894-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1894"
 UMLS_CUI: C0003781
 melting_point: -189.34
 boiling_point: -185.85

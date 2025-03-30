@@ -50,7 +50,7 @@ Commons_category: Promethium
 InChIKey: VQMWBBYLQSCNPO-UHFFFAOYSA-N
 UNII: ZGV62C09KN
 Unicode_character: 鉕
-time_of_discovery_or_invention: "1945-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1945"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Promethium,1809]] 

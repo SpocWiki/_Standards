@@ -43,8 +43,8 @@ award_received:
 - "[[_Standards/WikiData/WD~doctor honoris causa from the University of Paris,126418747]]"
 influenced_by: "[[_Standards/WikiData/WD~John Stuart Mill,50020]]"
 ArhivX_LOD: 34457
-date_of_death: "1984-10-20T00:00:00Z"
-date_of_birth: "1902-08-08T00:00:00Z"
+date_of_death: "1984-10-20"
+date_of_birth: "1902-08-08"
 member_of:
 - "[[_Standards/WikiData/WD~Royal Irish Academy,110587]]"
 - "[[_Standards/WikiData/WD~Royal Society of Edinburgh,117467]]"

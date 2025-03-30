@@ -41,7 +41,7 @@ element_symbol: Os
 OmegaWiki_Defined_Meaning: 340604
 Commons_gallery: Osmium
 Commons_category: Osmium
-time_of_discovery_or_invention: "1804-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1804"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Osmium%20crystals.jpg"
 canonical_SMILES: '[Os]'
 electron_configuration: "[Xe] 4f¹⁴ 5d⁶ 6s²"

@@ -30,7 +30,7 @@ mass: 231.03588
 Commons_gallery: Protactinium
 Commons_category: Protactinium
 Unicode_character: 鏷
-time_of_discovery_or_invention: "1917-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1917"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-protactinium.wav"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Protactinium-233.jpg"
 canonical_SMILES: '[Pa]'

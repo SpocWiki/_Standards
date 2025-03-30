@@ -78,7 +78,7 @@ on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
 place_of_burial: "[[_Standards/WikiData/WD~Taliesin West Burial Site,106036103]]"
 student: "[[_Standards/WikiData/WD~Gira Sarabhai,106089430]]"
-work_period_start_: "1893-01-01T00:00:00Z"
+work_period_start_: "1893"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Lloyd%20Wright%20LC-USZ62-36384.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Lloyd%20Wright%20signature.svg"
 described_at_URL:
@@ -89,8 +89,8 @@ Commons_gallery: "Frank Lloyd Wright"
 Commons_category: "Frank Lloyd Wright"
 Commons_Creator_page: "Frank Lloyd Wright"
 name_in_native_language: "Frank Lloyd Wright"
-date_of_death: "1959-04-09T00:00:00Z"
-work_period_end_: "1959-01-01T00:00:00Z"
+date_of_death: "1959-04-09"
+work_period_end_: "1959"
 U_S_National_Archives_Identifier: 10580379
 Europeana_entity: agent/base/146814
 BHCL_UUID: dac89b08-5b0a-4645-9ed5-023875c06018
@@ -101,7 +101,7 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/RAT_FRANK_LLOD
 birth_name: "Franklin Lincoln Wright"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Frank%20Lloyd%20Wright%20View%20of%20Taliesin%20West.jpg"
 ISNI: 0000000121000710
-date_of_birth: "1867-06-08T00:00:00Z"
+date_of_birth: "1867-06-08"
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 field_of_work: '[[_Standards/WikiData/WD~architecture,12271]]'

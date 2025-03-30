@@ -26,7 +26,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Western%20Digital%20W
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Hard%20drive-en.svg"
 Nomenclature_for_Museum_Cataloging: 10535
 Commons_category: "Hard disks"
-time_of_discovery_or_invention: "1956-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1956"
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Harddisk.svg"
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/hard_disk_drive"
 exact_match: "http://wordnet-rdf.princeton.edu/wn30/03492542-n"

@@ -19,7 +19,7 @@ UMLS_CUI:
 MeSH_tree_code: J01.040
 IPTC_NewsCode: mediatopic/20000210
 Library_of_Congress_Classification: S1-S790.3
-start_time: "-8000-01-01T00:00:00Z"
+start_time: "-8000"
 uses:
 - "[[_Standards/WikiData/WD~fresh water,102192]]"
 - "[[_Standards/WikiData/WD~arable land,843920]]"
@@ -64,7 +64,7 @@ different_from: "[[_Standards/WikiData/WD~crop and animal production, hunting an
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078555,59078555]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Landwirtschaft.ogg"
 Provenio_UUID: e29ffdd3-1d29-4625-860a-1a7027f6dd9f
-earliest_date: "-15000-01-01T00:00:00Z"
+earliest_date: "-15000"
 view: "http://commons.wikimedia.org/wiki/Special:FilePath/View%20towards%20Mere%20Carnival%20-%20geograph.org.uk%20-%205909922.jpg"
 IAB_code: 102
 Universal_Decimal_Classification: 63

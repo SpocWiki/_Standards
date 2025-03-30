@@ -433,9 +433,9 @@ male_population: 49097090
 female_population: 49409110
 rural_population: 61941570
 inception:
-- "1976-07-02T00:00:00Z"
-- "1945-09-02T00:00:00Z"
-- "1804-01-01T00:00:00Z"
+- "1976-07-02"
+- "1945-09-02"
+- "1804"
 U_S_National_Archives_Identifier: 10035814
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hanoi%20Temple%20of%20Literature.jpg"
 ITU_letter_code: VTN

@@ -36,7 +36,7 @@ UNII: LW3E571O0Z
 Commons_gallery: Mendelevium
 Commons_category: Mendelevium
 InChIKey: MQVSLOYRCXQRPM-UHFFFAOYSA-N
-time_of_discovery_or_invention: "1955-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1955"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Mendelevium,1898]] 

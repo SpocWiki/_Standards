@@ -69,7 +69,7 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Srinivasa%20Ramanujan%20-%20OPC%20-%201.jpg"
 Libris_URI: b8nqsp1v561tqqz
 Google_Doodle: srinivasa-ramanujans-125th-birthday
-date_of_birth: "1887-12-22T00:00:00Z"
+date_of_birth: "1887-12-22"
 ISNI: 0000000121252846
 name_in_native_language: "சீனிவாச இராமானுஜன்,"
 religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
@@ -78,7 +78,7 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Erdős_number: 3
 Commons_category: "Srinivasa Ramanujan"
 Commons_gallery: "Srinivasa Ramanujan"
-date_of_death: "1920-04-26T00:00:00Z"
+date_of_death: "1920-04-26"
 ---
 
 ## #has_/text_of_/abstract 

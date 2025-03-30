@@ -14,7 +14,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
 different_from: "[[_Standards/WikiData/WD~French Revolution,239523]]"
-end_time: "1799-11-09T00:00:00Z"
+end_time: "1799-11-09"
 history_of_topic: "[[_Standards/WikiData/WD~timeline of the French Revolution,186961]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/LouisXVIExecutionBig.jpg"
 instance_of:
@@ -26,10 +26,10 @@ MeSH_tree_code:
   - I01.880.735.950.250.563
   - K01.400.504.875.374
 participant: "[[_Standards/WikiData/WD~Louis Antoine de Saint-Just,27764]]"
-point_in_time: "1789-05-05T00:00:00Z"
+point_in_time: "1789-05-05"
 Provenio_UUID: b2270e29-4998-4b15-aec5-c99cb843eba0
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Revoluci%C3%B3n%20Francesa-article.ogg"
-start_time: "1789-07-14T00:00:00Z"
+start_time: "1789-07-14"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_French Revolution,14403429]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_French Revolution,3247542]]"
 U_S_National_Archives_Identifier: 10638936

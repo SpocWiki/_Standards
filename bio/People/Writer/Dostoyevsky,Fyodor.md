@@ -92,12 +92,12 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 patronym_or_matronym: '[[_Standards/WikiData/WD~Mikhailovich,108652455]]'
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0%20%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE.jpg"
 date_of_burial_or_cremation:
-- "1881-02-14T00:00:00Z"
-- "1881-02-12T00:00:00Z"
-date_of_death: "1881-02-09T00:00:00Z"
-work_period_end_: "1880-01-01T00:00:00Z"
+- "1881-02-14"
+- "1881-02-12"
+date_of_death: "1881-02-09"
+work_period_end_: "1880"
 ISNI: 0000000121462392
-work_period_start_: "1844-01-01T00:00:00Z"
+work_period_start_: "1844"
 place_of_death: "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
 native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 writing_language: '[[_Standards/WikiData/WD~Russian,7737]]'
@@ -136,7 +136,7 @@ Swedish_Royal_Theater_Archive: Person/485
 Libris_URI: wt7948lf1wwk8z0
 name_in_native_language: "Фёдор Михайлович Достоевский"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Perov%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20-%20Google%20Art%20Project.jpg"
-date_of_birth: "1821-11-11T00:00:00Z"
+date_of_birth: "1821-11-11"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Fyodor%20Dostoyevsky%20Signature.svg"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AB%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%A6%E0%A4%B0%20%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%AF%E0%A5%87%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%80.wav"

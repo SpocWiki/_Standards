@@ -54,7 +54,7 @@ depicted_by:
 - "[[_Standards/WikiData/WD~Queen Elizabeth I,28042820]]"
 - "[[_Standards/WikiData/WD~Queen Elizabeth I (1533–1603),52152113]]"
 - "[[_Standards/WikiData/WD~Queen Elizabeth I (1533–1603),52255074]]"
-date_of_death: "1603-04-03T00:00:00Z"
+date_of_death: "1603-04-03"
 ISNI: 0000000121446237
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
@@ -77,7 +77,7 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/61360
 nickname:
 - "Good Queen Bess"
 - Gloriana
-date_of_birth: "1533-09-17T00:00:00Z"
+date_of_birth: "1533-09-17"
 Royal_Academy_new_identifier: elizabeth-i
 name_in_native_language: "Elizabeth I"
 Commons_gallery: "Elizabeth I of England"

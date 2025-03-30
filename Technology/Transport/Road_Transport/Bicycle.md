@@ -88,7 +88,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline of bicycles,7112565]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202837,13202837]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bicycle,20879015]]'
 source_of_energy: "[[_Standards/WikiData/WD~human energy,20984829]]"
-time_of_discovery_or_invention: "1885-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1885"
 Baidu_Tieba_name: 自行车
 carbon_footprint:
 - 21

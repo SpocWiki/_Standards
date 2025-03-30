@@ -66,7 +66,7 @@ Commons_gallery: "Sun Yat-sen"
 Commons_category: "Sun Yat-sen"
 U_S_National_Archives_Identifier: 10582860
 NLC_authorities: 000057697
-date_of_death: "1925-03-12T00:00:00Z"
+date_of_death: "1925-03-12"
 Facebook_username: sun.yat.sen
 name_in_kana: "そん ぶん"
 name_in_native_language: 孫逸仙
@@ -81,7 +81,7 @@ given_name:
 mother: "[[_Standards/WikiData/WD~Madame Yang,95476008]]"
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/4243344
 ISNI: 0000000123205197
-date_of_birth: "1866-11-12T00:00:00Z"
+date_of_birth: "1866-11-12"
 country_of_citizenship: '[[_Standards/WikiData/WD~Taiwan,865]]'
 writing_language:
 - '[[_Standards/WikiData/WD~English,1860]]'

@@ -78,7 +78,7 @@ Stack_Exchange_tag:
 - "https://physics.stackexchange.com/tags/universe"
 - "https://astronomy.stackexchange.com/tags/universe"
 - "https://philosophy.stackexchange.com/tags/universe"
-start_time: "-13798000000-01-01T00:00:00Z"
+start_time: "-13798000000"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~world,16502]]'
 mass: 1e+53
 diameter: 8.8e+23

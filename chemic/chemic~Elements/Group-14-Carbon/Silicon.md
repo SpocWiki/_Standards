@@ -35,7 +35,7 @@ ZVG_number: 8110
 CosIng_number: 96140
 chemical_formula: Si
 element_symbol: Si
-time_of_discovery_or_invention: "1823-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1823"
 canonical_SMILES: '[Si]'
 PubChem_CID: 5461123
 Unicode_character: 矽

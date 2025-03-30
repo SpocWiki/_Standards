@@ -82,7 +82,7 @@ PubChem_CID: 5460467
 Commons_gallery: Beryllium
 Commons_category: Beryllium
 Unicode_character: 鈹
-time_of_discovery_or_invention: "1798-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1798"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Beryllium%20nuggets%202.jpg"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20de%20004%20Beryllium.svg"
 ---

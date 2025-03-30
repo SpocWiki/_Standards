@@ -363,10 +363,10 @@ instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 - "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
 inception:
-- "1565-01-01T00:00:00Z"
-- "1901-07-04T00:00:00Z"
-- "1946-07-04T00:00:00Z"
-- "1935-11-15T00:00:00Z"
+- "1565"
+- "1901-07-04"
+- "1946-07-04"
+- "1935-11-15"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Islam,432]]'
 - '[[_Standards/WikiData/WD~Catholicism,1841]]'

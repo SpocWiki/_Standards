@@ -303,8 +303,8 @@ MeSH_tree_code: Z01.542.286
 coordinates_of_easternmost_point: "Point(9.56 42.282222222)"
 coordinates_of_southernmost_point: "Point(9.258953435 41.333546483)"
 Gregorian_calendar_start_date:
-- "1582-12-20T00:00:00Z"
-- "1806-01-01T00:00:00Z"
+- "1582-12-20"
+- "1806"
 coordinates_of_westernmost_point: "Point(-5.151111111 48.445833333)"
 highest_point: "[[_Standards/WikiData/WD~Mont Blanc,583]]"
 shares_border_with:
@@ -548,8 +548,8 @@ seal_image:
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20French%20Republic.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Sainte-Enimie-Gorges%20du%20Tarn%20France%20banner.jpg"
 geoshape: "http://commons.wikimedia.org/data/main/Data:France.map"
-inception: "0843-08-01T00:00:00Z"
-has_time_started: "0843-08-01T00:00:00Z"
+inception: "0843-08-01"
+has_time_started: "0843-08-01"
 coordinates_of_northernmost_point: "Point(2.54549 51.089)"
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20RF.svg"
 Instagram_username: servicepublicfr

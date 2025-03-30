@@ -67,7 +67,7 @@ Unicode_character: 碳
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coal%20anthracite.jpg"
 Commons_category: Carbon
 Commons_gallery: Carbon
-time_of_discovery_or_invention: "1789-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1789"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/3D-Printing-of-Meso-structurally-Ordered-Carbon-FiberPolymer-Composites-with-Unprecedented-srep43401-s1.ogv"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Carbon-ar.ogg"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20006%20Carbon.svg"

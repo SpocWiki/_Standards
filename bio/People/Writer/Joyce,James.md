@@ -78,7 +78,7 @@ family_name: '[[_Standards/WikiData/WD~Joyce,18515516]]'
 documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Harry Ransom Center,105936481]]"
-date_of_birth: "1882-02-02T00:00:00Z"
+date_of_birth: "1882-02-02"
 official_website: "https://jamesjoyce.ie"
 ISNI: 0000000121302495
 languages_spoken_written_or_signed:
@@ -112,11 +112,11 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/DZHOS_DZHEMS_OGASTIN.html
 Colon_Classification: O111,3M82
 name_in_native_language: "James Augustine Aloysius Joyce"
 birth_name: "James Augustine Aloysius Joyce"
-work_period_start_: "1904-01-01T00:00:00Z"
+work_period_start_: "1904"
 Commons_gallery: "James Joyce"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20James%20Joyce.jpg"
 U_S_National_Archives_Identifier: 10574736
-date_of_death: "1941-01-13T00:00:00Z"
+date_of_death: "1941-01-13"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Joyce%20by%20Alex%20Ehrenzweig%2C%201915%20cropped.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Joyce%20signature.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Joyce%27s%20Dublin%20banner%20The%20James%20Joyce%20Bridge.jpg"

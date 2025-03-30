@@ -181,7 +181,7 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q25929957,25929957]]'
 - '[[_Standards/WikiData/WD~Q83643185,83643185]]'
 open_data_portal: '[[_Standards/WikiData/WD~data.gov.ie,61454777]]'
-Gregorian_calendar_start_date: "1752-09-14T00:00:00Z"
+Gregorian_calendar_start_date: "1752-09-14"
 coordinates_of_easternmost_point: "Point(-5.997722222 52.965361111)"
 Baidu_Tieba_name: 爱尔兰
 Provenio_UUID: cea218bf-ad0d-4a63-a865-8949e176fe7e
@@ -348,8 +348,8 @@ Commons_gallery: "Republic of Ireland / Poblacht na hÉireann"
 hashtag: RepublicofIreland
 Krugosvet_article: strany_mira/IRLANDSKAYA_RESPUBLIKA.html
 motto_text: "Jump into Ireland"
-inception: "1937-12-29T00:00:00Z"
-has_time_started: "1937-12-29T00:00:00Z"
+inception: "1937-12-29"
+has_time_started: "1937-12-29"
 coordinates_of_westernmost_point: "Point(-10.669583333 52.073611111)"
 coordinate_location: "Point(-8.0 53.0)"
 coordinates_of_northernmost_point: "Point(-7.371833333 55.384194444)"

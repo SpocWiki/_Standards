@@ -400,8 +400,8 @@ ISO_3166_1_alpha_3_code: MKD
 ITU_letter_code: MKD
 Commons_category: "North Macedonia"
 Commons_gallery: "Северна Македонија"
-inception: "1991-01-01T00:00:00Z"
-has_time_started: "1991-01-01T00:00:00Z"
+inception: "1991"
+has_time_started: "1991"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Macedonia.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20North%20Macedonia.svg"
 pronunciation_audio:

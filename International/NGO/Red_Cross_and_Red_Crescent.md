@@ -76,8 +76,8 @@ MeSH_tree_code:
 - N03.540.514.642
 - N03.540.630.780.608
 Library_of_Congress_Classification: HV560-HV583
-inception: "1863-02-17T00:00:00Z"
-has_time_started: "1863-02-17T00:00:00Z"
+inception: "1863-02-17"
+has_time_started: "1863-02-17"
 logo_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Movement-6-4.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Cross%2C%20Red%20Crescent%2C%20Red%20Crystal%20logo.svg"

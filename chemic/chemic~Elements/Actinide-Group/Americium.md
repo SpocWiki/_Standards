@@ -38,7 +38,7 @@ chemical_formula: Am
 element_symbol: Am
 PubChem_CID: 23966
 OmegaWiki_Defined_Meaning: 155847
-time_of_discovery_or_invention: "1944-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1944"
 canonical_SMILES: '[Am]'
 Unicode_character: 鋂
 Commons_gallery: Americium

@@ -42,7 +42,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works hav
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Q113320298,113320298]]'
 - "[[_Standards/WikiData/WD~Template_Ibn Khaldun,113320305]]"
-date_of_birth: "1332-06-04T00:00:00Z"
+date_of_birth: "1332-06-04"
 ISNI: 0000000121296275
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 place_of_birth: '[[_Standards/WikiData/WD~Tunis,3572]]'
@@ -53,7 +53,7 @@ ArhivX_LOD:
 - 35568
 - 74262
 Commons_category: "Ibn Khaldun"
-date_of_death: "1406-03-26T00:00:00Z"
+date_of_death: "1406-03-26"
 ---
 
 ## #has_/text_of_/abstract 

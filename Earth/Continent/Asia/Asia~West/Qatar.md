@@ -251,8 +251,8 @@ UMLS_CUI: C0034366
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Qatar%20location%20map.svg"
 ISNI: 0000000120973908
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Clear%20Skies%20over%20Qatar%20%28MODIS%29.jpg"
-inception: "1870-01-01T00:00:00Z"
-has_time_started: "1870-01-01T00:00:00Z"
+inception: "1870"
+has_time_started: "1870"
 Facebook_username: AmiriDiwan
 X_Twitter_username: AmiriDiwan
 Instagram_username: amiridiwan

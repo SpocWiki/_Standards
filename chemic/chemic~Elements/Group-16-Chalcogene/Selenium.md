@@ -67,7 +67,7 @@ chemical_formula: Se
 element_symbol: Se
 Unicode_character: 硒
 canonical_SMILES: '[Se]'
-time_of_discovery_or_invention: "1817-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1817"
 Commons_gallery: Selenium
 Commons_category: Selenium
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Selen%201.jpg"

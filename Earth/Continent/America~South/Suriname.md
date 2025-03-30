@@ -277,8 +277,8 @@ hashtag: Suriname
 subreddit: Suriname
 licence_plate_code: SME
 PM20_geo_code: E101
-inception: "1975-11-25T00:00:00Z"
-has_time_started: "1975-11-25T00:00:00Z"
+inception: "1975-11-25"
+has_time_started: "1975-11-25"
 ISO_3166_1_alpha_3_code: SUR
 IOC_country_code: SUR
 ITU_letter_code: SUR

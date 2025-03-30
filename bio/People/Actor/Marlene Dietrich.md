@@ -42,8 +42,8 @@ given_name:
 Commons_gallery: "Marlene Dietrich"
 pseudonym: "Marlene Dietrich"
 Commons_category: "Marlene Dietrich"
-work_period_end_: "1984-01-01T00:00:00Z"
-date_of_death: "1992-05-06T00:00:00Z"
+work_period_end_: "1984"
+date_of_death: "1992-05-06"
 U_S_National_Archives_Identifier: 10580325
 unmarried_partner:
 - "[[_Standards/WikiData/WD~Yul Brynner,102813]]"
@@ -91,8 +91,8 @@ official_website: "https://marlene.com/"
 IPI_name_number: 00008226801
 Libris_URI: 1zcfhdwk4m9l119
 RIA_Novosti_reference: 57906872
-work_period_start_: "1919-01-01T00:00:00Z"
-date_of_birth: "1901-12-27T00:00:00Z"
+work_period_start_: "1919"
+date_of_birth: "1901-12-27"
 family_name: '[[_Standards/WikiData/WD~Dietrich,18145879]]'
 father: "[[_Standards/WikiData/WD~Louis Erich Otto Dietrich,21149248]]"
 mother: "[[_Standards/WikiData/WD~Wilhelmina Elisabeth Joséphine Felsing,21149249]]"

@@ -162,8 +162,8 @@ Google_Doodle: nelson-mandelas-96th-birthday
 X_username: NelsonMandela
 name_in_native_language: "Nelson Rolihlahla Mandela"
 birth_name: "Rolihllahla Mandela"
-date_of_death: "2013-12-05T00:00:00Z"
-date_of_birth: "1918-07-18T00:00:00Z"
+date_of_death: "2013-12-05"
+date_of_birth: "1918-07-18"
 social_media_followers: 1569148
 hashtag: Madiba
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20Mandela%201994.jpg"

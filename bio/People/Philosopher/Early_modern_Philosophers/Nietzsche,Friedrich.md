@@ -10,9 +10,9 @@ CYT_CCS:
 - AC000530243
 - AC000194913
 - AC000187198
-work_period_start_: "1865-01-01T00:00:00Z"
+work_period_start_: "1865"
 official_website: "http://www.pacelli-edition.de/Biographie/14013"
-date_of_birth: "1844-10-15T00:00:00Z"
+date_of_birth: "1844-10-15"
 field_of_work:
 - '[[_Standards/WikiData/WD~poetry,482]]'
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
@@ -177,11 +177,11 @@ given_name:
 - '[[_Standards/WikiData/WD~Friedrich,14038597]]'
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Friedrich Nietzsche,11037105]]"
 position_held: "[[_Standards/WikiData/WD~full professor,25339110]]"
-date_of_death: "1900-08-25T00:00:00Z"
+date_of_death: "1900-08-25"
 documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
 family_name: '[[_Standards/WikiData/WD~Nietzsche,83374140]]'
-work_period_end_: "1889-01-01T00:00:00Z"
+work_period_end_: "1889"
 Wolfram_Language_entity_code: "Entity[\"Person\", \"FriedrichNietzsche::3q3v6\"]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Ikusgela-Nietzsche.webm"
 ISNI: 0000000122828181

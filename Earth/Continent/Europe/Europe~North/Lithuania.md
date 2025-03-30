@@ -275,8 +275,8 @@ official_name:
 native_label: Lietuva
 coordinates_of_easternmost_point: "Point(26.83513641 55.28537238)"
 U_S_National_Archives_Identifier: 10045235
-inception: "1990-03-11T00:00:00Z"
-has_time_started: "1990-03-11T00:00:00Z"
+inception: "1990-03-11"
+has_time_started: "1990-03-11"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lithuania.svg"
 coordinates_of_westernmost_point: "Point(20.9541893 55.28107074)"
 Commons_category: Lithuania

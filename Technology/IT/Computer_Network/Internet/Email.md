@@ -39,7 +39,7 @@ named_after: '[[_Standards/WikiData/WD~mail,49845]]'
 IAB_code: 623
 OmegaWiki_Defined_Meaning: 5117
 Nomenclature_for_Museum_Cataloging: 13662
-time_of_discovery_or_invention: "1971-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1971"
 GitHub_topic: email
 U_S_National_Archives_Identifier: 10636085
 ---

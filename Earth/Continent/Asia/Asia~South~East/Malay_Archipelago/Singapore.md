@@ -367,8 +367,8 @@ ISO_3166_1_alpha_3_code: SGP
 ITU_letter_code: SNG
 male_population: 1990212
 female_population: 2083027
-inception: "1965-08-09T00:00:00Z"
-has_time_started: "1965-08-09T00:00:00Z"
+inception: "1965-08-09"
+has_time_started: "1965-08-09"
 urban_population:
 - 5453566
 - 5637022

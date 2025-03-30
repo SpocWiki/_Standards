@@ -240,8 +240,8 @@ rural_population:
 - 585672
 - 623536
 - 670025
-inception: "1970-07-23T00:00:00Z"
-has_time_started: "1970-07-23T00:00:00Z"
+inception: "1970-07-23"
+has_time_started: "1970-07-23"
 ISO_3166_1_alpha_3_code: OMN
 female_population:
 - 1678067

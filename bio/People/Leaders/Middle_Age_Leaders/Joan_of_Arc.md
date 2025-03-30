@@ -59,7 +59,7 @@ ISNI:
 - 0000000121446253
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20of%20Arc%20miniature%20graded.jpg"
 birth_name: "http://www.wikidata.org/.well-known/genid/57e43202ec1633f68fd6168ac5cbc3d4"
-date_of_death: "1431-06-08T00:00:00Z"
+date_of_death: "1431-06-08"
 feast_day:
 - "[[_Standards/WikiData/WD~May 30,2590]]"
 penalty: "[[_Standards/WikiData/WD~capital punishment,8454]]"
@@ -75,7 +75,7 @@ occupation:
 Krugosvet_article: istoriya/zhanna-dark
 Commons_gallery: "Jeanne d'Arc"
 Commons_category: "Jeanne d'Arc"
-date_of_birth: "1412-01-15T00:00:00Z"
+date_of_birth: "1412-01-15"
 ---
 
 #has_/time_/started :: 1412-01-15 

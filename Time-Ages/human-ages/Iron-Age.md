@@ -2,7 +2,7 @@
 
 #is_a_/time_/Culture 
 
-> The Iron Age is the final epoch of the three historical Metal Ages, after the Copper and Bronze Ages. It has also been considered as the final Age of the three-age division starting with prehistory (before recorded history) and progressing to protohistory (before written history). In this usage, it is preceded by the [[Stone-Age]] (subdivided into the Paleolithic, Mesolithic and Neolithic) and [[Bronze-Age]]. These concepts originated in describing Iron Age Europe and the Ancient Near East, but they now include other parts of the Old World.
+> The Iron Age is the final epoch of the three historical Metal Ages, after the Copper and Bronze Ages. It has also been considered as the final Age of the three-age division starting with prehistory (before recorded history) and progressing to protohistory (before written history). In this usage, it is preceded by the[[../geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age]]] (subdivided into the Paleolithic, Mesolithic and Neolit[[../geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age]]]nze-Age]]. These concepts originated in describing Iron Age Europe and the Ancient Near East, but they now include other parts of the Old World.
 >
 > Although meteoritic iron has been used for millennia in many regions, the beginning of the Iron Age is locally defined around the world by archaeological convention when the production of smelted iron (especially steel tools and weapons) replaces their bronze equivalents in common use. 
 > 

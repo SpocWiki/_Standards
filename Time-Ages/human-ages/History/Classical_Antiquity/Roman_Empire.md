@@ -119,12 +119,12 @@ diplomatic_relation:
   - '[[_Standards/WikiData/WD~Germania,62646]]'
   - '[[_Standards/WikiData/WD~Hibernia,302980]]'
   - "[[_Standards/WikiData/WD~Han dynasty,7209]]"
-dissolved_abolished_or_demolished_date: "0395-01-18T00:00:00Z"
+dissolved_abolished_or_demolished_date: "0395-01-18"
 economy_of_topic: "[[_Standards/WikiData/WD~economy of the Roman Empire,3718695]]"
-end_time: "0395-01-01T00:00:00Z"
+end_time: "0395"
 flag: '[[_Standards/WikiData/WD~vexillum,264655]]'
 founded_by: '[[_Standards/WikiData/WD~Augustus,1405]]'
-has_time_stopped: "0395-01-18T00:00:00Z"
+has_time_stopped: "0395-01-18"
 history_of_topic: "[[_Standards/WikiData/WD~history of the Roman Empire,2671119]]"
 Iconclass_notation: 23S14
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20Theatre%20Leptis%20Magna%20Libya.JPG"
@@ -164,7 +164,7 @@ replaced_by:
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Daqin,1521359]]'
 shares_border_with: "[[_Standards/WikiData/WD~Parthian Empire,1986139]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Imperio%20romano%20%28hablado%20por%20voz%20AI%29.mp3"
-start_time: "-0026-01-01T00:00:00Z"
+start_time: "-0026"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353313,42353313]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"RomanEmpire\"]"
 ---

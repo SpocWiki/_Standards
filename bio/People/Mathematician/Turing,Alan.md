@@ -80,11 +80,11 @@ described_at_URL:
 - "https://heritage.humanists.uk/alan-turing/"
 name_in_native_language: "Alan Mathison Turing"
 birth_name: "Alan Mathison Turing"
-date_of_burial_or_cremation: "1954-06-12T00:00:00Z"
-date_of_death: "1954-06-07T00:00:00Z"
+date_of_burial_or_cremation: "1954-06-12"
+date_of_death: "1954-06-07"
 Commons_category: "Alan Turing"
 Commons_gallery: "Alan Turing"
-date_of_birth: "1912-06-23T00:00:00Z"
+date_of_birth: "1912-06-23"
 Google_Doodle: alan-turings-100th-birthday
 BHCL_UUID: d9bb7adf-e873-4dfa-a5e7-fea3a6deb04b
 Krugosvet_article: gumanitarnye_nauki/lingvistika/TYURING_ALAN_MATISON.html

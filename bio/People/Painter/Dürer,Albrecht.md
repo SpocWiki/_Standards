@@ -286,8 +286,8 @@ on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
 - "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Harry Ransom Center,105936481]]"
 - "[[_Standards/WikiData/WD~WikiProject New York Public Library,121437821]]"
-work_period_start_: "1484-01-01T00:00:00Z"
-date_of_birth: "1471-05-30T00:00:00Z"
+work_period_start_: "1484"
+date_of_birth: "1471-05-30"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Albrecht%20D%C3%BCrer.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20Alte%20Pinakothek.jpg"
 ISNI: 0000000120961368
@@ -319,8 +319,8 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/DYURER_ALBREHT
 Libris_URI: nl0220v60d965hr
 name_in_native_language: "Albrecht Dürer"
 name: "Albert Durer"
-date_of_death: "1528-04-16T00:00:00Z"
-work_period_end_: "1528-01-01T00:00:00Z"
+date_of_death: "1528-04-16"
+work_period_end_: "1528"
 ---
 
 #has_/time_/started :: 1471-05-21 

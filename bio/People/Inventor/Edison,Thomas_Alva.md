@@ -115,10 +115,10 @@ sibling: "[[_Standards/WikiData/WD~Carlisle Snow Edison,110260135]]"
 Commons_gallery: "Thomas Alva Edison"
 Commons_Creator_page: "Thomas Alva Edison"
 Commons_category: "Thomas Edison"
-date_of_death: "1931-10-18T00:00:00Z"
+date_of_death: "1931-10-18"
 name_in_native_language: "Thomas Edison"
 audio_recording_of_the_subject_s_spoken_voice: "http://commons.wikimedia.org/wiki/Special:FilePath/Aroundworldonphon1888.ogg"
-work_period_start_: "1877-01-01T00:00:00Z"
+work_period_start_: "1877"
 ISNI: 0000000121373760
 described_at_URL:
 - "http://www.digiporta.net/index.php?id=259239776"
@@ -129,7 +129,7 @@ described_at_URL:
 - "http://www.digiporta.net/index.php?id=973615823"
 - "http://www.digiporta.net/index.php?id=382622613"
 - "http://www.digiporta.net/index.php?id=270702823"
-date_of_birth: "1847-02-11T00:00:00Z"
+date_of_birth: "1847-02-11"
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'

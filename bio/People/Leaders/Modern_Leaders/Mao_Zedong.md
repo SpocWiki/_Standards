@@ -81,7 +81,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~SourceWatch List of Dictators,121698959]]"
 given_name: '[[_Standards/WikiData/WD~Zedong,74010591]]'
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mao Zedong,123439911]]"
-date_of_birth: "1893-12-26T00:00:00Z"
+date_of_birth: "1893-12-26"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%AE%E0%AE%BE%20%E0%AE%9A%E0%AF%87%20%E0%AE%A4%E0%AF%81%E0%AE%99%E0%AF%8D-spoken%20wikipedia.ogg"
 ISNI: 0000000120961122
 CYT_CCS: AC000207008
@@ -106,8 +106,8 @@ Academia_edu_profile_URL: "https://www.academia.edu/People/Mao_Zedong"
 NLC_authorities: 000184442
 U_S_National_Archives_Identifier: 10580956
 Libris_URI: 64jlgg5q502wmgq
-work_period_end_: "1976-01-01T00:00:00Z"
-date_of_death: "1976-09-09T00:00:00Z"
+work_period_end_: "1976"
+date_of_death: "1976-09-09"
 BHCL_UUID: d2b53d24-6407-4b09-828d-40beb2d0d284
 Wolfram_Language_entity_code: "Entity[\"Person\", \"MaoZedong::ksc4t\"]"
 Krugosvet_article: istoriya/MAO_TSZEDUN.html

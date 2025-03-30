@@ -41,9 +41,9 @@ place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
-date_of_death: "1832-05-31T00:00:00Z"
+date_of_death: "1832-05-31"
 name_in_native_language: "Évariste Galois"
-date_of_birth: "1811-10-25T00:00:00Z"
+date_of_birth: "1811-10-25"
 Commons_category: "Évariste Galois"
 Commons_Creator_page: "Évariste Galois"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Evariste%20Galois.jpg"

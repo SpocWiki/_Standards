@@ -19,7 +19,7 @@ has_characteristic: "[[_Standards/WikiData/WD~Japanese Yen rate,11394831]]"
 foundational_text: "[[_Standards/WikiData/WD~New Currency Act,11504131]]"
 main_regulatory_text: "[[_Standards/WikiData/WD~Act on Currency Units and Issuance of Coins,11639619]]"
 subclass_of: '[[_Standards/WikiData/WD~yuan,25530138]]'
-start_time: "1871-07-01T00:00:00Z"
+start_time: "1871-07-01"
 price:
 - 0.0101948230688456
 - 0.013

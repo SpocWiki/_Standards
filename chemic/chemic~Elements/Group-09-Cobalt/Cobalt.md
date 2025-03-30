@@ -46,7 +46,7 @@ subclass_of: "[[_Standards/WikiData/WD~simple substance,2512777]]"
 associated_hazard: "[[_Standards/WikiData/WD~cobalt poisoning,5138720]]"
 has_effect: "[[_Standards/WikiData/WD~cobalt poisoning,5138720]]"
 UMLS_CUI: C0009148
-time_of_discovery_or_invention: "1735-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1735"
 instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
 vapor_pressure: 0
 time_weighted_average_exposure_limit:

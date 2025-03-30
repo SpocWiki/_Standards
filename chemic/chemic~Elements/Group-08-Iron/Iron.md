@@ -98,7 +98,7 @@ Krugosvet_article: nauka_i_tehnika/himiya/ZHELEZO.html
 InChIKey: XEEYBQQBJWHFJM-UHFFFAOYSA-N
 Gujarati_Vishwakosh_entry: આયર્ન-લોહ
 Unicode_character: 鐵
-time_of_discovery_or_invention: "-5000-01-01T00:00:00Z"
+time_of_discovery_or_invention: "-5000"
 ---
 
 #chemic/Element 

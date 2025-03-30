@@ -312,8 +312,8 @@ PM20_geo_code: C38
 Commons_category: Benin
 hashtag: Benin
 subreddit: Benin
-inception: "1960-08-01T00:00:00Z"
-has_time_started: "1960-08-01T00:00:00Z"
+inception: "1960-08-01"
+has_time_started: "1960-08-01"
 GitHub_topic: benin
 CIVICUS_Monitor_country_entry: benin
 population: 14111034

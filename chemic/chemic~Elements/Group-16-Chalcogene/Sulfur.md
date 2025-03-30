@@ -15,7 +15,7 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Sulfur\"]"
 InChI: InChI=1S/S
 Krugosvet_article: nauka_i_tehnika/himiya/SERA.html
 InChIKey: NINIDFKCEFEMDL-UHFFFAOYSA-N
-time_of_discovery_or_invention: "1777-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1777"
 part_of:
 - "[[_Standards/WikiData/WD~group 16,104567]]"
 - "[[_Standards/WikiData/WD~period 3,211331]]"

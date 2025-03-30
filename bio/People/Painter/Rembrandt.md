@@ -390,15 +390,15 @@ depicted_by:
 - "[[_Standards/WikiData/WD~Nazi-looted Rembrandt handed back 65 years later,105523505]]"
 - "[[_Standards/WikiData/WD~The Young Rembrandt,114346254]]"
 patronym_or_matronym: '[[_Standards/WikiData/WD~Harmenszoon,121133232]]'
-work_period_start_: "1625-01-01T00:00:00Z"
-date_of_birth: "1606-07-15T00:00:00Z"
+work_period_start_: "1625"
+date_of_birth: "1606-07-15"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8C%D5%A5%D5%B4%D5%A2%D6%80%D5%A1%D5%B6%D5%A4%20%D5%BE%D5%A1%D5%B6%20%D5%8C%D5%A5%D5%B5%D5%B6%20%28Rembrandt%29.ogg"
 ISNI: 0000000121363802
 Commons_category: Rembrandt
 Commons_gallery: Rembrandt
 Commons_Creator_page: Rembrandt
-date_of_death: "1669-10-04T00:00:00Z"
-work_period_end_: "1669-01-01T00:00:00Z"
+date_of_death: "1669-10-04"
+work_period_end_: "1669"
 Royal_Academy_new_identifier: rembrandt
 ---
 

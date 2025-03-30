@@ -226,7 +226,7 @@ Europeana_entity: agent/base/59979
 Royal_Academy_new_identifier: francisco-goya
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GOYA_FRANSISKO_HOSE.html
 name_in_native_language: "Francisco José de Goya y Lucientes"
-date_of_birth: "1746-03-30T00:00:00Z"
+date_of_birth: "1746-03-30"
 ISNI: 0000000122801608
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
 work_location:
@@ -245,7 +245,7 @@ country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
 Commons_gallery: "Francisco de Goya"
 Commons_category: "Francisco de Goya y Lucientes"
 Commons_Creator_page: "Francisco de Goya y Lucientes"
-date_of_death: "1828-04-16T00:00:00Z"
+date_of_death: "1828-04-16"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Madrid.%20Tumba.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
 ---

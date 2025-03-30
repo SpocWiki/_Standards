@@ -32,7 +32,7 @@ topic_s_main_template:
 - "[[_Standards/WikiData/WD~Template_Quantum mechanics,6534867]]"
 - "[[_Standards/WikiData/WD~Template_Quantum mechanics topics,19794166]]"
 described_by_source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-publication_date: "1900-01-01T00:00:00Z"
+publication_date: "1900"
 practiced_by: "[[_Standards/WikiData/WD~quantum theoretician,114964328]]"
 Baidu_Tieba_name: 量子力学
 UMLS_CUI: C0034385

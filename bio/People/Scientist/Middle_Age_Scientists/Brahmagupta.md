@@ -26,11 +26,11 @@ Krugosvet_article: nauka_i_tehnika/matematika/BRAHMAGUPTA.html
 name_in_native_language: ब्रह्मगुप्तः
 birth_name: ब्रह्मगुप्तः
 father: '[[_Standards/WikiData/WD~Jishnugupta,116470998]]'
-date_of_death: "0670-01-01T00:00:00Z"
+date_of_death: "0670"
 ISNI: 0000000062992448
 field_of_work: '[[_Standards/WikiData/WD~mathematics,395]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-date_of_birth: "0598-01-01T00:00:00Z"
+date_of_birth: "0598"
 Commons_category: Brahmagupta
 ---
 

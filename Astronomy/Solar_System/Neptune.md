@@ -62,7 +62,7 @@ studied_in: '[[_Standards/WikiData/WD~poseidology,131626776]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Neptune%20Voyager2%20color%20calibrated.png"
 apoapsis: 4537039826
 MeSH_tree_code: G01.060.075.730.700.796
-time_of_discovery_or_invention: "1846-09-23T00:00:00Z"
+time_of_discovery_or_invention: "1846-09-23"
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 named_after: '[[_Standards/WikiData/WD~Neptune,3954]]'
 apparent_magnitude:

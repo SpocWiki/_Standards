@@ -63,7 +63,7 @@ PubChem_CID: 23989
 canonical_SMILES: '[U]'
 U_S_National_Archives_Identifier: 10644103
 mass: 238.02891
-time_of_discovery_or_invention: "1789-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1789"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg"
 Common_Procurement_Vocabulary_code: 09341000
 ---

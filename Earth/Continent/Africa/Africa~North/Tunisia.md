@@ -370,8 +370,8 @@ CIVICUS_Monitor_country_entry: tunisia
 GitHub_topic: tunisia
 Commons_gallery: "تونس / Tunest / Tunisie"
 short_name: "\U0001F1F9\U0001F1F3"
-inception: "1956-03-20T00:00:00Z"
-has_time_started: "1956-03-20T00:00:00Z"
+inception: "1956-03-20"
+has_time_started: "1956-03-20"
 coordinates_of_westernmost_point: "Point(7.52542 33.79829)"
 has_id_wikidata: Q948
 location:

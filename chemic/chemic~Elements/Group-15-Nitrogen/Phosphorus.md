@@ -79,7 +79,7 @@ Commons_gallery: Phosphorus
 Commons_category: Phosphorus
 UNII: 27YLU75U4W
 canonical_SMILES: '[P]'
-time_of_discovery_or_invention: "1669-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1669"
 Unicode_character: 磷
 PubChem_CID: 5462309
 CAS_Registry_Number: 7723-14-0

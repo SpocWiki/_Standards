@@ -321,8 +321,8 @@ coordinates_of_southernmost_point: "Point(-65.5436145 0.6530752)"
 MeSH_tree_code: Z01.107.757.943
 coordinates_of_northernmost_point: "Point(-63.619416666 15.670972222)"
 inception:
-- "1845-03-30T00:00:00Z"
-- "1811-07-05T00:00:00Z"
+- "1845-03-30"
+- "1811-07-05"
 coordinate_location: "Point(-67.0 8.0)"
 country: '[[_Standards/WikiData/WD~Venezuela,717]]'
 capital: '[[_Standards/WikiData/WD~Caracas,1533]]'

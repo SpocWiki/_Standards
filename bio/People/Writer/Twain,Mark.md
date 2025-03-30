@@ -112,9 +112,9 @@ ISNI:
 - 0000000077209145
 - 0000000108003124
 - 0000000121324854
-work_period_start_: "1864-01-01T00:00:00Z"
+work_period_start_: "1864"
 described_at_URL: "http://www.digiporta.net/index.php?id=116582238"
-date_of_birth: "1835-11-30T00:00:00Z"
+date_of_birth: "1835-11-30"
 writing_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~German,188]]'
@@ -128,8 +128,8 @@ country_of_citizenship: "[[_Standards/WikiData/WD~United States,30]]"
 Commons_gallery: "Mark Twain"
 Commons_category: "Mark Twain"
 Commons_Creator_page: "Mark Twain"
-date_of_death: "1910-04-21T00:00:00Z"
-work_period_end_: "1910-01-01T00:00:00Z"
+date_of_death: "1910-04-21"
+work_period_end_: "1910"
 ArhivX_LOD: 17431
 name_in_native_language: "Mark Twain"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Twain%20Grave.JPG"

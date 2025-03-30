@@ -200,8 +200,8 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%2
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bhutan.svg"
 IOC_country_code: BHU
 licence_plate_code: BHT
-inception: "1949-08-08T00:00:00Z"
-has_time_started: "1949-08-08T00:00:00Z"
+inception: "1949-08-08"
+has_time_started: "1949-08-08"
 coordinates_of_westernmost_point: "Point(88.74647 27.14187)"
 Commons_category: Bhutan
 hashtag: Bhutan

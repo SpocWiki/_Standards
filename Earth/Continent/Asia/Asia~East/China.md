@@ -905,8 +905,8 @@ literacy_rate: 96.8
 median_income: 36883
 population: 1442965000
 area: 9596961
-inception: "1949-10-01T00:00:00Z"
-has_time_started: "1949-10-01T00:00:00Z"
+inception: "1949-10-01"
+has_time_started: "1949-10-01"
 male_population:
 - 720646499
 - 720928153

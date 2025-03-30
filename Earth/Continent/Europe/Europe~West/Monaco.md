@@ -155,8 +155,8 @@ demonym:
 ISNI: 0000000121814116
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20von%20Monaco-La%20Turbie.jpg"
 MeSH_tree_code: Z01.542.616
-inception: "1297-01-15T00:00:00Z"
-has_time_started: "1297-01-15T00:00:00Z"
+inception: "1297-01-15"
+has_time_started: "1297-01-15"
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~European Union,458]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'

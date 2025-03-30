@@ -140,7 +140,7 @@ element_symbol: Y
 Gmelin_number: 16319
 canonical_SMILES: '[Y]'
 OmegaWiki_Defined_Meaning: 370956
-time_of_discovery_or_invention: "1787-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1787"
 associated_hazard: "[[_Standards/WikiData/WD~yttrium exposure,21175428]]"
 has_effect: "[[_Standards/WikiData/WD~yttrium exposure,21175428]]"
 Commons_gallery: Yttrium

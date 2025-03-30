@@ -6,15 +6,15 @@ A time period from 8_200 to 4_200 thousand years ago.
 
 #has_/abbreviation :: q6
 
-#has_/time_/started :: -8.200 
+#has_/time_/started :: -8200 
 #has_/time_/stopped :: -4200 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
     sh:order 2 
 
 #has_/text_of_/color :: 0xFDECE4
-
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
 #has_/prev_item :: [[Age~1~Greenlandian]]   
 #has_/next_item :: [[Age~3~Meghalayan]]   

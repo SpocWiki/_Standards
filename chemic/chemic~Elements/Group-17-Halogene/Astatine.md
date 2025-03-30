@@ -38,7 +38,7 @@ OmegaWiki_Defined_Meaning: 155974
 PubChem_CID: 5460479
 CAS_Registry_Number: 7440-68-8
 DSSTOX_compound_identifier: DTXCID40147882
-time_of_discovery_or_invention: "1940-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1940"
 Unicode_character: 砈
 ---
 
