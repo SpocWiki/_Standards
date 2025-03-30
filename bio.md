@@ -1,6 +1,34 @@
 ﻿---
 aliases:
 - Biology
+Baidu_Tieba_name: 生物
+Basisklassifikation: 42
+Colon_Classification: G
+Commons_category: Biology
+CPV_Supplementary_code: RD03
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Russian Encyclopedic Dictionary,19217220]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+Dewey_Decimal_Classification: 570
+DFG_Science_Classification: 21
+hashtag: biology
+has_characteristic:
+- "[[_Standards/WikiData/WD~biological nomenclature,522190]]"
+- '[[_Standards/WikiData/WD~evolution,1063]]'
 has_id_wikidata: Q420
 has_part_s_:
 - "[[_Standards/WikiData/WD~computational biology,177005]]"
@@ -20,71 +48,43 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~genetics,7162]]'
 - '[[_Standards/WikiData/WD~mycology,7175]]'
 - '[[_Standards/WikiData/WD~microbiology,7193]]'
-has_characteristic:
-- "[[_Standards/WikiData/WD~biological nomenclature,522190]]"
-- '[[_Standards/WikiData/WD~evolution,1063]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Russian Encyclopedic Dictionary,19217220]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
 history_of_topic: "[[_Standards/WikiData/WD~history of biology,746656]]"
-practiced_by:
-- '[[_Standards/WikiData/WD~biologist,864503]]'
-- "[[_Standards/WikiData/WD~biology student,105497222]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~life sciences,864928]]"
+IAB_code: 465
+Iconclass_notation: 49F
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Biology-0001.jpg"
 instance_of:
 - "[[_Standards/WikiData/WD~branch of science,2465832]]"
 - "[[_Standards/WikiData/WD~academic major,4671286]]"
 - "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+IPTC_NewsCode: mediatopic/20000719
+is_the_study_of:
+- '[[_Standards/WikiData/WD~organism,7239]]'
+- '[[_Standards/WikiData/WD~life,3]]'
+Krugosvet_article: nauka_i_tehnika/biologiya/BIOLOGIYA.html
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Biology,6723002]]"
+MeSH_tree_code: H01.158.273
+OmegaWiki_Defined_Meaning: 384
+partially_coincident_with: '[[_Standards/WikiData/WD~paleontology,7205]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13053276,13053276]]'
+practiced_by:
+- '[[_Standards/WikiData/WD~biologist,864503]]'
+- "[[_Standards/WikiData/WD~biology student,105497222]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav"
+Regensburg_Classification: W
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~life sciences,864928]]"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BF%D5%A5%D5%B6%D5%BD%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Biology%29.ogg"
+Stack_Exchange_site_URL: "https://biology.stackexchange.com"
+Stack_Exchange_tag: "https://esperanto.stackexchange.com/tags/biology"
+subclass_of: "[[_Standards/WikiData/WD~natural science,7991]]"
+subreddit: biology
 topic_s_main_template:
 - "[[_Standards/WikiData/WD~Template_Branches of biology,5896225]]"
 - '[[_Standards/WikiData/WD~Template_Biology,16929616]]'
 - '[[_Standards/WikiData/WD~Template_TopicTOC-Biology,107099815]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Biology,6723002]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Biology,6726222]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13053276,13053276]]'
-subreddit: biology
-hashtag: biology
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Biology-0001.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav"
-Stack_Exchange_site_URL: "https://biology.stackexchange.com"
-Stack_Exchange_tag: "https://esperanto.stackexchange.com/tags/biology"
-MeSH_tree_code: H01.158.273
-IPTC_NewsCode: mediatopic/20000719
-Krugosvet_article: nauka_i_tehnika/biologiya/BIOLOGIYA.html
-UMLS_CUI: C0005532
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BF%D5%A5%D5%B6%D5%BD%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Biology%29.ogg"
-partially_coincident_with: '[[_Standards/WikiData/WD~paleontology,7205]]'
-is_the_study_of:
-- '[[_Standards/WikiData/WD~organism,7239]]'
-- '[[_Standards/WikiData/WD~life,3]]'
-subclass_of: "[[_Standards/WikiData/WD~natural science,7991]]"
 UKÄ_standard_classification_of_Swedish_science_topics_: 106
-Basisklassifikation: 42
-OmegaWiki_Defined_Meaning: 384
-DFG_Science_Classification: 21
-IAB_code: 465
-Colon_Classification: G
-Regensburg_Classification: W
-Baidu_Tieba_name: 生物
-Dewey_Decimal_Classification: 570
-Iconclass_notation: 49F
-Commons_category: Biology
+UMLS_CUI: C0005532
 U_S_National_Archives_Identifier: 10639636
-CPV_Supplementary_code: RD03
 ---
 
 This Folder Structure contains Data related to Biology. 
