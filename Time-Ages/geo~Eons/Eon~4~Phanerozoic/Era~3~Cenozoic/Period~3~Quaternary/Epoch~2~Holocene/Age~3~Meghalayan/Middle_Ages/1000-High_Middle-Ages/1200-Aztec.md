@@ -27,8 +27,8 @@ U_S_National_Archives_Identifier: 10675178
 uses: "[[_Standards/WikiData/WD~human sacrifice,119094]]"
 ---
 
-#has_/time_/started :: `=this.has_time_started` 
-#has_/time_/stopped :: `=this.has_time_stopped` 
+has_/time_/started :: `=this.has_time_started` 
+has_/time_/stopped :: `=this.has_time_stopped` 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 

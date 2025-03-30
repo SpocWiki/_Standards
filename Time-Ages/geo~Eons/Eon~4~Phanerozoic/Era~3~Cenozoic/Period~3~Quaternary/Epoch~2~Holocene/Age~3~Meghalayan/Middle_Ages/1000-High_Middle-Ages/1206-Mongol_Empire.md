@@ -66,6 +66,14 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351369,42351369]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"MongolEmpire\"]"
 ---
 
+# [[1206-Mongol_Empire]] 
+
+has_/time_/started :: `=this.has_time_started` 
+has_/time_/stopped :: `=this.has_time_stopped` 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
 ## #has_/text_of_/abstract 
 
 > The **Mongol Empire** of the 13th and 14th centuries was the largest contiguous empire in history. Originating in present-day Mongolia in East Asia, the Mongol Empire at its height stretched from the Sea of Japan to parts of Eastern Europe, extending northward into parts of the Arctic; eastward and southward into parts of the Indian subcontinent, mounted invasions of Southeast Asia, and conquered the Iranian Plateau; and reached westward as far as the Levant and the Carpathian Mountains.
