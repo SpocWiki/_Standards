@@ -1,9 +1,10 @@
 ---
 has_id_wikidata: Q12554
 aliases:
-  - "Middle Ages"
-Commons_category: "Middle Ages"
-Commons_gallery: "Middle Ages"
+  - Middle Ages
+  - Middle_Ages
+Commons_category: Middle Ages
+Commons_gallery: Middle Ages
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
@@ -12,17 +13,17 @@ described_by_source:
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
 end_time: "1500"
 Iconclass_notation: 23T25
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~age,17522177]]'
+  - "[[_Standards/WikiData/WD~age,17522177]]"
   - "[[_Standards/WikiData/WD~historical period,11514315]]"
-location: '[[_Standards/WikiData/WD~Europe,46]]'
+location: "[[_Standards/WikiData/WD~Europe,46]]"
 MeSH_tree_code: K01.400.500
 OmegaWiki_Defined_Meaning: 1757744
-OpenStreetMap_tag_or_key: "Tag:historic:civilization=middle-ages"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Azincourt%20%28cropped%29.jpg"
+OpenStreetMap_tag_or_key: Tag:historic:civilization=middle-ages
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Azincourt%20%28cropped%29.jpg
 Provenio_UUID: 44b7f32e-0d01-4964-9102-a67e76b0755d
-Stack_Exchange_tag: "https://history.stackexchange.com/questions/tagged/middle-ages"
+Stack_Exchange_tag: https://history.stackexchange.com/questions/tagged/middle-ages
 Stadtwiki_Dresden_article: Mittelalter
 start_time: "0476"
 studied_in:
@@ -32,10 +33,38 @@ studied_in:
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Middle Ages,3248279]]"
 U_S_National_Archives_Identifier: 10641432
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Middle Ages,7112768]]"
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/middle_ages"
+WordLift_URL: http://data.thenextweb.com/tnw/entity/middle_ages
+title: [[Middle_Ages]]
+type: private_note
+keywords: Middle_Ages
+linkTitle: Middle_Ages
+has_Template: "[[Extract~Note~Template]]"
+license: (c)copyrighted
+confidential: private
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - private
+  - note
+layout: 
+draft: true
+publish: false
+publishDate: 
+expiryDate: 
+has_time_started: 2025-03-30
+tags:
+  - Middle_Ages
+  - excalidraw
+excalidraw-plugin: parsed
+excalidraw-open-md: true
+excalidraw-autoexport: svg
 ---
 
-#has_/time_/started :: 0500-06
+# [[Middle_Ages]] 
+
+#is_a_/time_/Culture 
+
+#has_/time_/started :: 0750-06
 #has_/time_/stopped  :: 1500-06
 
 
@@ -52,9 +81,9 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/middle_ages"
 > - modern period. 
 >
 > The medieval period is itself subdivided into the 
-> - Early Middle Ages, 
-> - High Middle Ages, and 
-> - Late Middle Ages.
+> - [[Middle_Ages/Early_Middle-Ages|Early Middle Ages]], 
+> - [[Middle_Ages/High_Middle-Ages|High Middle Ages]], and 
+> - [[Middle_Ages/Late_Middle-Ages|Late Middle Ages]].
 >
 > Population decline, counterurbanisation, the collapse of centralised authority, invasions, 
 > and mass migrations of tribes, which had begun in late antiquity, continued into the Early Middle Ages. 
@@ -111,3 +140,50 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/middle_ages"
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Ages) 
 
 
+
+## All Contents
+
+```folderv
+```
+
+```ccard
+type: folder_brief_live
+style : card
+col: 2
+briefMax: 128
+noteOnly: true
+```
+
+
+## Confidential Links & Embeds: 
+
+### [Middle-Ages](/_public/Time-Ages/human-ages/Medieval/Middle-Ages.md) 
+
+### [Middle-Ages.internal](/_internal/Time-Ages/human-ages/Medieval/Middle-Ages.internal.md) 
+
+### [Middle-Ages.protect](/_protect/Time-Ages/human-ages/Medieval/Middle-Ages.protect.md) 
+
+### [Middle-Ages.private](/_private/Time-Ages/human-ages/Medieval/Middle-Ages.private.md) 
+
+### [Middle-Ages.personal](/_personal/Time-Ages/human-ages/Medieval/Middle-Ages.personal.md) 
+
+### [Middle-Ages.secret](/_secret/Time-Ages/human-ages/Medieval/Middle-Ages.secret.md) 
+
+# [[Middle_Ages]] 
+
+#is_/part_of :: [[Middle-Ages]] 
+
+![[Middle_Ages.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

@@ -17,6 +17,10 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Late antiquity,1
 #has_/time_/started :: 0250-06 
 #has_/time_/stopped :: 0750-06 
 
+#has_/previous_item :: [[Classical_Antiquity]]  
+#has_/next_item :: [[Middle_Ages/Early_Middle-Ages]]
+
+
 ## #has_/text_of_/abstract 
 
 > Late antiquity is sometimes defined as spanning from the end of classical antiquity 

@@ -7,10 +7,7 @@ TableByName:
   "OSZE.tsv":
     columns: ["country","year"]
     headings:  
-    
-allTables:
-- { path: "OSZE.tsv", columns: ["country","year"], headings:  } 
-
+    align: "|---|--:|:--|:-:|"
 ---
 
 #has_/time_/started :: 1975-06 

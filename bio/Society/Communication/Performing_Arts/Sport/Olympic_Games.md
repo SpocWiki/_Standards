@@ -88,7 +88,7 @@ aliases:
 
 ## History 
 
-Modern Olympic Games started after Greece achieved Independence from the [[../../../../../Time-Ages/human-ages/History/Middle_Ages/Ottoman_Empire]]. 
+Modern Olympic Games started after Greece achieved Independence from the [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages/Ottoman_Empire]]. 
 They were sponsored by 
 Greek interest in reviving the Olympic Games began with the [Greek War of Independence](https://en.wikipedia.org/wiki/Greek_War_of_Independence "Greek War of Independence") from the [Ottoman Empire](https://en.wikipedia.org/wiki/Ottoman_Empire "Ottoman Empire") in 1821. 
 [Evangelos Zappas](https://en.wikipedia.org/wiki/Evangelos_Zappas "Evangelos Zappas"), a wealthy Greek-Romanian philanthropist, first wrote to [King Otto of Greece](https://en.wikipedia.org/wiki/King_Otto_of_Greece "King Otto of Greece"), in 1856, 
