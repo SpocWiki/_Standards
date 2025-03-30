@@ -294,7 +294,7 @@ subreddit: Niger
 Commons_gallery: Niger
 hashtag: Niger
 inception: "1960"
-has_time_started: "1960"
+has_time_started: 1960-06 
 female_population:
 - 11553632
 - 11991269

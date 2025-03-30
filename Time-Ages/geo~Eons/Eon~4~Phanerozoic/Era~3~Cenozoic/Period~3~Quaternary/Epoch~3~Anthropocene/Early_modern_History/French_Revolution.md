@@ -14,7 +14,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
 different_from: "[[_Standards/WikiData/WD~French Revolution,239523]]"
-end_time: "1799-11-09"
+end_time: 1799-11-09 
+has_time_stopped: 1799-11-09
 history_of_topic: "[[_Standards/WikiData/WD~timeline of the French Revolution,186961]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/LouisXVIExecutionBig.jpg"
 instance_of:

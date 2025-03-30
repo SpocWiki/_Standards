@@ -265,7 +265,7 @@ rural_population:
 - 590192
 population: 777859
 inception: "1966"
-has_time_started: "1966"
+has_time_started: 1966-06 
 ISO_3166_1_alpha_2_code: GY
 FIPS_10_4_countries_and_regions_: GY
 WIPO_ST_3: GY

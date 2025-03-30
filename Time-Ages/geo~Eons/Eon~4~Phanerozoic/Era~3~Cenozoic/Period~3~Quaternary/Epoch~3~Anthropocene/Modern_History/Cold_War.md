@@ -4,7 +4,8 @@ aliases:
   - "Cold War"
 Commons_category: "Cold War"
 described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
-end_time: "1991-12-25"
+end_time: 1991-12-25 
+has_time_stopped: 1991-12-25
 has_cause: '[[_Standards/WikiData/WD~superpower,1489259]]'
 has_effect:
   - "[[_Standards/WikiData/WD~dissolution of the Soviet Union,5167679]]"
@@ -32,8 +33,8 @@ participant:
   - "[[_Standards/WikiData/WD~Western Bloc,1507074]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Kalter%20Krieg.ogg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Cold%20War.ogg"
-start_time: "1945" 
-has_time_started: "1945"
+start_time: 1945-06  
+has_time_started: 1945-06 
 studied_in: "[[_Standards/WikiData/WD~history of the Cold War,108312481]]"
 subclass_of: "[[_Standards/WikiData/WD~low-intensity conflict,369799]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Cold War,10652253]]"

@@ -17,7 +17,7 @@ Commons_category: "Electronic music"
 subreddit: electronicmusic
 short_name: elektronisk
 inception: "1920"
-has_time_started: "1920"
+has_time_started: 1920-06 
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/1st%20commercial%20Moog%20synthesizer%20%281964%2C%20commissioned%20by%20the%20Alwin%20Nikolai%20Dance%20Theater%20of%20NY%29%20%40%20Stearns%20Collection%20%28Stearns%202035%29%2C%20University%20of%20Michigan.jpg"
 ---
 

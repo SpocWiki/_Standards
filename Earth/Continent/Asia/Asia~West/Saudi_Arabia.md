@@ -312,7 +312,7 @@ motto_text:
 - "لَا إِلٰهَ إِلَّا ٱلله مُحَمَّدٌ رَسُولُ ٱلله"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Saudi%20Arabia%20Base%20Map.png"
 inception: "1727"
-has_time_started: "1727"
+has_time_started: 1727-06 
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 country: "[[_Standards/WikiData/WD~Saudi Arabia,851]]"

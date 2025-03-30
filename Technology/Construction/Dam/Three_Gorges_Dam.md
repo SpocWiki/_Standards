@@ -41,7 +41,7 @@ coordinate_location: "Point(111.00367 30.82386)"
 date_of_official_opening: "2003"
 service_entry: "2003"
 inception: "2003"
-has_time_started: "2003"
+has_time_started: 2003-06 
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/ThreeGorgesDam-China2009.jpg"
 Commons_gallery: "Three Gorges Dam"
 Commons_category: "Three Gorges Dam"

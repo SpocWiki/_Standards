@@ -27,7 +27,7 @@ followed_by:
   - "[[_Standards/WikiData/WD~Shu Han,320925]]"
 has_part_s_: "[[_Standards/WikiData/WD~Western Han,1072949]]"
 has_time_started: "-0205"
-has_time_stopped: "0220"
+has_time_stopped: 0220-06 
 history_of_topic: "[[_Standards/WikiData/WD~history of the Han dynasty,15709899]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Summer%20Vacation%202007%2C%20263%2C%20Watchtower%20In%20The%20Morning%20Light%2C%20Dunhuang%2C%20Gansu%20Province.jpg"
 inception: "-0205"

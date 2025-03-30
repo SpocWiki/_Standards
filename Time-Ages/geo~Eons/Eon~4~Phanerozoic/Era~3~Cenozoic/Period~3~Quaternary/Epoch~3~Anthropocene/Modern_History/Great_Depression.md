@@ -18,7 +18,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Canon of Dutch History,907660]]"
   - "[[_Standards/WikiData/WD~Financial Instability,59440034]]"
   - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-end_time: "1941"
+end_time::  1941-06 
+has_time_stopped: 1941-06 
 exact_match:
   - "http://data.culture.fr/thesaurus/page/ark:/67717/T4-96"
   - "http://lemac.sgcb.mcu.es/Autoridades/LEMAC201209787/concept"

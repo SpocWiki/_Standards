@@ -377,7 +377,7 @@ executive_body: "[[_Standards/WikiData/WD~Government of Denmark,24039188]]"
 open_data_portal: "[[_Standards/WikiData/WD~Open Data DK,97014270]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
 inception: "0800"
-has_time_started: "0800"
+has_time_started: 0800-06 
 NUTS_code:
 - DK0
 - DK

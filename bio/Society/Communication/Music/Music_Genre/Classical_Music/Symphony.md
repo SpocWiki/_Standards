@@ -20,7 +20,7 @@ has_list: "[[_Standards/WikiData/WD~list of symphonies by number,6642033]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Classical music,8485042]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10739150,10739150]]'
 inception: "1600"
-has_time_started: "1600"
+has_time_started: 1600-06 
 OmegaWiki_Defined_Meaning: 352651
 Commons_category: Symphonies
 image:

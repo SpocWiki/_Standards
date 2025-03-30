@@ -127,7 +127,7 @@ name: "The Beatles"
 Commons_gallery: "The Beatles"
 Commons_category: "The Beatles"
 inception: "1960"
-has_time_started: "1960"
+has_time_started: 1960-06 
 work_period_start_: "1960"
 ---
 

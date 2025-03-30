@@ -13,7 +13,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
   - "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
   - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-end_time: "1945-09-02"
+end_time: 1945-09-02 
+has_time_stopped: 1945-09-02
 has_cause:
   - '[[_Standards/WikiData/WD~chauvinism,226418]]'
   - '[[_Standards/WikiData/WD~fascism,6223]]'

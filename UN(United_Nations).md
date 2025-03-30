@@ -213,7 +213,7 @@ seal_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20the%20United%20Nations.svg"
 social_media_followers: 16204666
 inception: "1945"
-has_time_started: "1945"
+has_time_started: 1945-06 
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20the%20United%20Nations.svg"
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20the%20United%20Nations.svg"
 Unicode_character: 🇺🇳 

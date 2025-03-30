@@ -301,7 +301,7 @@ subreddit: Namibia
 Commons_gallery: Namibia
 hashtag: Namibia
 inception: "1990"
-has_time_started: "1990"
+has_time_started: 1990-06 
 Dewey_Decimal_Classification: 2--6881
 Unicode_character: 🇳🇦 
 U_S_National_Archives_Identifier: 10035830

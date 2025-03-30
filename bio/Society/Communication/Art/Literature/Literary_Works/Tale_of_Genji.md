@@ -145,7 +145,7 @@ last_line: いつしかと待ちおはするに、かくたどたどしくて歸
 first_line: いづれの御時にか、女御、更衣あまたさぶらひたまひけるなかに、いとやむごとなき際にはあらぬが、すぐれて時めきたまふありけり。
 title: 源氏物語
 inception: "1010"
-has_time_started: "1010"
+has_time_started: 1010-06 
 time_of_earliest_written_record: "1008-12-07"
 ---
 

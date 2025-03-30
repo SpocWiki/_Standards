@@ -12,7 +12,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
   - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
 DPLA_subject_term: "American Civil War, 1861-1865"
-end_time: "1865-04-09"
+end_time: 1865-04-09 
+has_time_stopped: 1865-04-09
 exact_match: "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-77"
 followed_by: "[[_Standards/WikiData/WD~Second American Civil War,17130955]]"
 has_cause: "[[_Standards/WikiData/WD~slavery in the United States,118382]]"

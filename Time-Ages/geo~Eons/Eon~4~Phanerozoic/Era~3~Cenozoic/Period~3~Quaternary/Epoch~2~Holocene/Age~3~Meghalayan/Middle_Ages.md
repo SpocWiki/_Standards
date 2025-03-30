@@ -11,7 +11,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-end_time: "1500"
+end_time: 1500-06 
+has_time_stopped: 1500-06
 Iconclass_notation: 23T25
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg
 instance_of:
@@ -25,8 +26,8 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%2
 Provenio_UUID: 44b7f32e-0d01-4964-9102-a67e76b0755d
 Stack_Exchange_tag: https://history.stackexchange.com/questions/tagged/middle-ages
 Stadtwiki_Dresden_article: Mittelalter
-start_time: "0476" 
-has_time_started: "0476"
+start_time: 0476-06  
+has_time_started: 0476-06 
 studied_in:
   - "[[_Standards/WikiData/WD~medieval archaeology,1671076]]"
   - "[[_Standards/WikiData/WD~medieval history,27992545]]"

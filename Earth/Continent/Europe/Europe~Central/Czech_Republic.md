@@ -421,7 +421,7 @@ native_label: Česko
 motto_text:
 - "Pravda vítězí."
 inception: "1993"
-has_time_started: "1993"
+has_time_started: 1993-06 
 coordinates_of_southernmost_point: "Point(14.33321804 48.55181702)"
 coordinates_of_westernmost_point: "Point(12.09061235 50.25239141)"
 coordinates_of_northernmost_point: "Point(14.3156 51.0557)"

@@ -260,7 +260,7 @@ female_population:
 - 8800406
 coordinates_of_southernmost_point: "Point(-16.71726 12.33954)"
 inception: "1960"
-has_time_started: "1960"
+has_time_started: 1960-06 
 U_S_National_Archives_Identifier: 10035805
 coordinates_of_northernmost_point: "Point(-14.9863 16.6912)"
 Dewey_Decimal_Classification: 2--663

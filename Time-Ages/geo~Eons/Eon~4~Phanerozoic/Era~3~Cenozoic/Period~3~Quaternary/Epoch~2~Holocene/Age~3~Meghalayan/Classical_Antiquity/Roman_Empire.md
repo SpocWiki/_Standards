@@ -121,7 +121,8 @@ diplomatic_relation:
   - "[[_Standards/WikiData/WD~Han dynasty,7209]]"
 dissolved_abolished_or_demolished_date: "0395-01-18"
 economy_of_topic: "[[_Standards/WikiData/WD~economy of the Roman Empire,3718695]]"
-end_time: "0395"
+end_time::  0395-06 
+has_time_stopped: 0395-06 
 flag: '[[_Standards/WikiData/WD~vexillum,264655]]'
 founded_by: '[[_Standards/WikiData/WD~Augustus,1405]]'
 has_time_stopped: "0395-01-18"

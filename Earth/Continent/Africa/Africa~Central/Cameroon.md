@@ -543,7 +543,7 @@ nominal_GDP:
 - 44341646509
 - 45338285386
 inception: "1960"
-has_time_started: "1960"
+has_time_started: 1960-06 
 PM20_geo_code: C65
 hashtag: Cameroon
 Commons_category: Cameroon

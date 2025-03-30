@@ -252,7 +252,7 @@ location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Qatar%20locati
 ISNI: 0000000120973908
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Clear%20Skies%20over%20Qatar%20%28MODIS%29.jpg"
 inception: "1870"
-has_time_started: "1870"
+has_time_started: 1870-06 
 Facebook_username: AmiriDiwan
 X_Twitter_username: AmiriDiwan
 Instagram_username: amiridiwan

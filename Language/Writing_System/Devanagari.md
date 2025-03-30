@@ -73,7 +73,7 @@ name:
 - "Devanagari (Nagari)"
 - dévanâgarî
 inception: "1100"
-has_time_started: "1100"
+has_time_started: 1100-06 
 ---
 
 ## #has_/text_of_/abstract 

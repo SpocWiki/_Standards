@@ -9,7 +9,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
   - "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
   - "[[_Standards/WikiData/WD~Meyer’s Universum, Neunter Band,131719188]]"
-end_time: "1820"
+end_time::  1820-06 
+has_time_stopped: 1820-06 
 has_characteristic:
   - '[[_Standards/WikiData/WD~industrialization,202398]]'
   - '[[_Standards/WikiData/WD~mechanization,1160362]]'
@@ -26,8 +27,8 @@ has_part_s_:
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9moires%20de%20la%20Soci%C3%A9t%C3%A9%20g%C3%A9ologique%20de%20France%20%28IA%20meymoiresdelaso00socig%29.pdf"
 instance_of: "[[_Standards/WikiData/WD~historical period,11514315]]"
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/PROMISHLENNAYA_REVOLYUTSIYA.html
-start_time: "1760" 
-has_time_started: "1760"
+start_time: 1760-06  
+has_time_started: 1760-06 
 subclass_of: "[[_Standards/WikiData/WD~economic development,4530482]]"
 ---
 

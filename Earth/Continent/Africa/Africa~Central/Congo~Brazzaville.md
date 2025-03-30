@@ -199,7 +199,7 @@ female_population:
 - 2921372
 - 2988624
 inception: "1960"
-has_time_started: "1960"
+has_time_started: 1960-06 
 motto_text:
 - "Unité, Travail, Progrès"
 - "Единство, труд, прогрес"

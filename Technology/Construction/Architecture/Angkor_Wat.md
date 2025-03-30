@@ -18,7 +18,7 @@ based_on: "[[_Standards/WikiData/WD~Mount Meru,652550]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Siem Reap Province,652818]]"
 present_in_work: "[[_Standards/WikiData/WD~Illusion of Gaia,1658920]]"
 inception: "1200"
-has_time_started: "1200"
+has_time_started: 1200-06 
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%B6%D5%A3%D5%AF%D5%B8%D6%80%20%D5%8E%D5%A1%D5%BF%20%28Angkor%20Wat%29.ogg"
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20Wat%20Aerial%20View%20Siem%20Reap%20Cambodia%202011.jpg"
 video:

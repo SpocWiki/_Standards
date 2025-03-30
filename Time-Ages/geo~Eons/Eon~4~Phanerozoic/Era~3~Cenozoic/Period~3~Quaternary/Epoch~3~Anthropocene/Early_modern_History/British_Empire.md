@@ -30,8 +30,8 @@ economy_of_topic: "[[_Standards/WikiData/WD~economy of the British Empire,488031
 flag: "[[_Standards/WikiData/WD~Union Jack,3173323]]"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%281-2%29.svg"
 has_part_s_: "[[_Standards/WikiData/WD~Colony of Trinidad,116288296]]"
-has_time_started: "1583"
-has_time_stopped: "1997"
+has_time_started: 1583-06 
+has_time_stopped: 1997-06 
 inception: "1583"
 instance_of: "[[_Standards/WikiData/WD~colonial empire,1790360]]"
 Krugosvet_article: istoriya/BRITANSKAYA_IMPERIYA.html

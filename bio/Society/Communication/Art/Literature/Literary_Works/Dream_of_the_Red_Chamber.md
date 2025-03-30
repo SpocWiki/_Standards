@@ -105,7 +105,7 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Dream of the Red Chamb
 takes_place_in_fictional_universe: "[[_Standards/WikiData/WD~Dream of the Red Chamber universe,42184554]]"
 Baidu_Tieba_name: 红楼梦
 inception: "1701"
-has_time_started: "1701"
+has_time_started: 1701-06 
 form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
 copyright_status: "[[_Standards/WikiData/WD~public domain,19652]]"
 ---

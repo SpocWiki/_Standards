@@ -5,15 +5,16 @@ aliases:
 Commons_category: "Meiji Restoration"
 country: "[[_Standards/WikiData/WD~Empire of Japan,188712]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
-end_time: "1889-02-11"
+end_time: 1889-02-11 
+has_time_stopped: 1889-02-11
 has_part_s_:
   - "[[_Standards/WikiData/WD~Conscription Law,11020846]]"
   - "[[_Standards/WikiData/WD~Full Name Ordinance,11483153]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/MeijiJoukyou.jpg"
 instance_of: '[[_Standards/WikiData/WD~reform,900406]]'
 native_label: 明治維新
-start_time: "1868" 
-has_time_started: "1868"
+start_time: 1868-06  
+has_time_started: 1868-06 
 ---
 
 ## #has_/text_of_/abstract 

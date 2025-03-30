@@ -376,7 +376,7 @@ rural_population:
 - 1216952
 PM20_geo_code: B26
 inception: "1971"
-has_time_started: "1971"
+has_time_started: 1971-06 
 female_population:
 - 2767844
 - 2811921

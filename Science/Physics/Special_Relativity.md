@@ -20,7 +20,7 @@ part_of: "[[_Standards/WikiData/WD~theory of relativity,43514]]"
 Commons_category: "Special relativity"
 time_of_discovery_or_invention: "1905"
 inception: "1905"
-has_time_started: "1905"
+has_time_started: 1905-06 
 ---
 
 ## #has_/text_of_/abstract 

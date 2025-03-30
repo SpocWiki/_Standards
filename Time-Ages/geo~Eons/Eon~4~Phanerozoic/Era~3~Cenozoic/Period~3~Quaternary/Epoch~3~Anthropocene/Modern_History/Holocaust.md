@@ -9,7 +9,8 @@ defendant:
   - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
   - "[[_Standards/WikiData/WD~Hermann Göring,47906]]"
   - "[[_Standards/WikiData/WD~list of accused at the Nuremberg Trials,13424569]]"
-end_time: "1945"
+end_time::  1945-06 
+has_time_stopped: 1945-06 
 facet_of:
   - '[[_Standards/WikiData/WD~antisemitism,22649]]'
   - '[[_Standards/WikiData/WD~evil,15292]]'
@@ -78,8 +79,8 @@ perpetrator:
   - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
   - "[[_Standards/WikiData/WD~Heinrich Himmler,43067]]"
   - "[[_Standards/WikiData/WD~Reinhard Heydrich,60039]]"
-start_time: "1933" 
-has_time_started: "1933"
+start_time: 1933-06  
+has_time_started: 1933-06 
 studied_in: "[[_Standards/WikiData/WD~Holocaust studies,1568255]]"
 subclass_of:
   - '[[_Standards/WikiData/WD~genocide,41397]]'

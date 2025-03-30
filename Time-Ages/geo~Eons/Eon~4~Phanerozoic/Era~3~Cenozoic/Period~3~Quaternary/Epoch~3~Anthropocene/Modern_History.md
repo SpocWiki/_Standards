@@ -14,16 +14,16 @@ MeSH_tree_code: K01.400.504
 part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23016635,23016635]]'
 practiced_by: "[[_Standards/WikiData/WD~historian of Modern Age,17489339]]"
-start_time: "1700" 
-has_time_started: "1700"
+start_time: 1700-06 
+has_time_started: 1700-06
 subclass_of: '[[_Standards/WikiData/WD~history,309]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Modern history,13834331]]"
 U_S_National_Archives_Identifier: 10647222
 ---
 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 
 ## #has_/text_of_/abstract 

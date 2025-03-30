@@ -325,7 +325,7 @@ native_label:
 - "المملكة المغربية"
 short_name: "\U0001F1F2\U0001F1E6"
 inception: "0789"
-has_time_started: "0789"
+has_time_started: 0789-06 
 UMLS_CUI: C0020822
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Morocco%20relief%20location%20map.jpg"
 ISNI: 0000000121703280

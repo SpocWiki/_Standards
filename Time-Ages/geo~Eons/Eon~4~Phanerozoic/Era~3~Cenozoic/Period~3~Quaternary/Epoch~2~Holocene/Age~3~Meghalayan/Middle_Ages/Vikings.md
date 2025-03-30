@@ -23,8 +23,8 @@ Libris_URI: pm136tj73pg9mnj
 OmegaWiki_Defined_Meaning: 933625
 OpenStreetMap_tag_or_key: "Tag:historic:civilization=vikingian"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110097651,110097651]]'
-start_time: "0793" 
-has_time_started: "0793"
+start_time: 0793-06  
+has_time_started: 0793-06 
 ---
 
 ## #has_/text_of_/abstract 

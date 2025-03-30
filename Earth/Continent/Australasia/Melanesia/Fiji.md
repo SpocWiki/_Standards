@@ -152,7 +152,7 @@ official_language:
 - "[[_Standards/WikiData/WD~Fiji Hindi,46728]]"
 lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
 inception: "1970"
-has_time_started: "1970"
+has_time_started: 1970-06 
 suicide_rate: 5
 unemployment_rate: 8
 VAT_rate: 15

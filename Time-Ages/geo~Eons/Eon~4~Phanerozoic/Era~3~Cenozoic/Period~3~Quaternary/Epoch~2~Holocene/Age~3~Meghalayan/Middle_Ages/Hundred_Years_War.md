@@ -10,7 +10,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-end_time: "1453"
+end_time::  1453-06 
+has_time_stopped: 1453-06 
 has_list: "[[_Standards/WikiData/WD~timeline of the Hundred Years' War,7806363]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20crecy%20froissart.jpg"
 instance_of: '[[_Standards/WikiData/WD~war,198]]'
@@ -21,8 +22,8 @@ participant:
   - "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q12107%20%28bre%29-ThonyVezbe-Brezel%20Kant%20Vloaz.wav"
 Provenio_UUID: 920bb582-b77d-47f3-ae2e-55587b8870ef
-start_time: "1337" 
-has_time_started: "1337"
+start_time: 1337-06  
+has_time_started: 1337-06 
 Universal_Decimal_Classification: "355.48(410:44)\"1337/1453\""
 Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"HundredYearsWar\"]"
 ---

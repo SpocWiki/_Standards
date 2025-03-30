@@ -352,7 +352,7 @@ IOC_country_code: KEN
 CIVICUS_Monitor_country_entry: kenya
 GitHub_topic: kenya
 inception: "1963"
-has_time_started: "1963"
+has_time_started: 1963-06 
 PM20_geo_code: C116
 male_population:
 - 25272193

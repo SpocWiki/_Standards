@@ -3,7 +3,8 @@ has_id_wikidata: Q8740
 aliases:
   - "Vietnam War"
 Commons_category: "Vietnam War"
-end_time: "1975-04-30"
+end_time: 1975-04-30 
+has_time_stopped: 1975-04-30
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/VietnamMural.jpg"
 instance_of: "[[_Standards/WikiData/WD~proxy war,864113]]"
 Krugosvet_article: istoriya/VETNAMSKAYA_VONA.html

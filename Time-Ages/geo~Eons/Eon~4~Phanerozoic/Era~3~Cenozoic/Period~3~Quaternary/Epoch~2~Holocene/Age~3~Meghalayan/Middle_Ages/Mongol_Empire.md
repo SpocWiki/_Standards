@@ -29,8 +29,8 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~House of Ögedei,294652]]"
   - "[[_Standards/WikiData/WD~Yuan dynasty,7313]]"
 has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Imperial Seal of Mongolia,3874663]]"
-has_time_started: "1206"
-has_time_stopped: "1368"
+has_time_started: 1206-06 
+has_time_stopped: 1368-06 
 head_of_state:
   - "[[_Standards/WikiData/WD~Genghis Khan,720]]"
   - "[[_Standards/WikiData/WD~Güyük Khan,7520]]"

@@ -42,7 +42,7 @@ Colon_Classification: CN
 Commons_category: "General relativity"
 OmegaWiki_Defined_Meaning: 688297
 inception: "1916"
-has_time_started: "1916"
+has_time_started: 1916-06 
 Dewey_Decimal_Classification: 530.11
 ---
 

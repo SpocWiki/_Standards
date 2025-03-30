@@ -47,7 +47,7 @@ coordinate_location: "Point(6.09 46.12)"
 Commons_gallery: "World Trade Organization"
 Commons_category: "World Trade Organization"
 inception: "1995"
-has_time_started: "1995"
+has_time_started: 1995-06 
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fourth%20Global%20Review%20of%20Aid%20for%20Trade%201691%20%289237986689%29.jpg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/WTO%20members%20and%20observers.svg"
 RIA_Novosti_reference: 1562868842

@@ -340,7 +340,7 @@ PM20_geo_code: A40f
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Slovakia.svg"
 coordinates_of_geographic_center: "Point(19.5 48.666667)"
 inception: "1993"
-has_time_started: "1993"
+has_time_started: 1993-06 
 short_name: Slovensko
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/000%20Sllovakia%20harta.PNG"
 pronunciation_audio:

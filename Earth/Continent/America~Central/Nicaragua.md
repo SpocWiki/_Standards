@@ -259,7 +259,7 @@ urban_population:
 IOC_country_code: NCA
 population: 6676948
 inception: "1821"
-has_time_started: "1821"
+has_time_started: 1821-06 
 nominal_GDP:
 - 14145852101
 - 15671583878

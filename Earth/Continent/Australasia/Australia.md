@@ -704,7 +704,7 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q20514998,20514998]]'
 - '[[_Standards/WikiData/WD~Q41336722,41336722]]'
 inception: "1901"
-has_time_started: "1901"
+has_time_started: 1901-06 
 open_data_portal: '[[_Standards/WikiData/WD~data.gov.au,97016727]]'
 has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great Seal of Australia,119084894]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"

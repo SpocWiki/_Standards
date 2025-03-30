@@ -9,7 +9,7 @@ native_label:
 - "ताज महल"
 coordinate_location: "Point(78.041944444 27.175)"
 inception: "1631"
-has_time_started: "1631"
+has_time_started: 1631-06 
 founded_by: "[[_Standards/WikiData/WD~Shah Jahan,83672]]"
 commissioned_by: "[[_Standards/WikiData/WD~Shah Jahan,83672]]"
 different_from: "[[_Standards/WikiData/WD~Taj Mahal,125021]]"

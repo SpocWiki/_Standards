@@ -51,12 +51,13 @@ currency:
 described_at_URL: "https://www.biografiasyvidas.com/biografia/q/qing.htm"
 described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
 dissolved_abolished_or_demolished_date: "1912"
-end_time: "1911"
+end_time::  1911-06 
+has_time_stopped: 1911-06 
 flag: "[[_Standards/WikiData/WD~flag of the Qing dynasty,976372]]"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20China%20%281889%E2%80%931912%29.svg"
 follows: "[[_Standards/WikiData/WD~Later Jin (1616-1636),1062546]]"
-has_time_started: "1636"
-has_time_stopped: "1912"
+has_time_started: 1636-06 
+has_time_stopped: 1912-06 
 history_of_topic: "[[_Standards/WikiData/WD~timeline of the Qing dynasty,55635904]]"
 inception: "1636"
 instance_of:
@@ -112,8 +113,8 @@ shares_border_with:
   - "[[_Standards/WikiData/WD~Namgyal dynasty of Ladakh,2709041]]"
   - "[[_Standards/WikiData/WD~Nguyen dynasty,6500483]]"
   - "[[_Standards/WikiData/WD~Russian Empire,34266]]"
-start_time: "1636" 
-has_time_started: "1636"
+start_time: 1636-06  
+has_time_started: 1636-06 
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Qing dynasty topics,22725674]]"
 ---
 

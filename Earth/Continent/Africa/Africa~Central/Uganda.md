@@ -425,7 +425,7 @@ hashtag: Uganda
 Commons_category: Uganda
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg"
 inception: "1962"
-has_time_started: "1962"
+has_time_started: 1962-06 
 geoshape: "http://commons.wikimedia.org/data/main/Data:Uganda.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Uganda.svg"
 pronunciation_audio:

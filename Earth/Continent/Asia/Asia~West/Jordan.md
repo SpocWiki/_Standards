@@ -265,7 +265,7 @@ short_name: "\U0001F1EF\U0001F1F4"
 Commons_gallery: الأردن
 U_S_National_Archives_Identifier: 10035706
 inception: "1946"
-has_time_started: "1946"
+has_time_started: 1946-06 
 licence_plate_code: HKJ
 geoshape: "http://commons.wikimedia.org/data/main/Data:Jordan.map"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Jordan%20on%20the%20globe%20%28Afro-Eurasia%20centered%29.svg"

@@ -327,7 +327,7 @@ ISO_3166_1_alpha_3_code: BFA
 ITU_letter_code: BFA
 IOC_country_code: BUR
 inception: "1960"
-has_time_started: "1960"
+has_time_started: 1960-06 
 male_population:
 - 10431262
 - 10718602

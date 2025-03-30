@@ -32,7 +32,7 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nobel prize,1119
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13206142,13206142]]'
 disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
 inception: "1901"
-has_time_started: "1901"
+has_time_started: 1901-06 
 topic_s_main_category: '[[_Standards/WikiData/WD~Q33094346,33094346]]'
 UMLS_CUI: C0028236
 spoken_text_audio:

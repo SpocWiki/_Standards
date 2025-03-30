@@ -14,11 +14,12 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
 dissolved_abolished_or_demolished_date: "0907"
-end_time: "0907"
+end_time::  0907-06 
+has_time_stopped: 0907-06 
 followed_by: "[[_Standards/WikiData/WD~Second Turkic Khaganate,4833446]]"
 founded_by: "[[_Standards/WikiData/WD~Emperor Gaozu of Tang,9700]]"
-has_time_started: "0618"
-has_time_stopped: "0907"
+has_time_started: 0618-06 
+has_time_stopped: 0907-06 
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Dynasty%20circa%20700%20CE.png"
 inception: "0618"
 instance_of:
@@ -65,8 +66,8 @@ replaces:
   - "[[_Standards/WikiData/WD~Qi (Huang Chao),11180184]]"
   - "[[_Standards/WikiData/WD~Sui dynasty,7405]]"
   - "[[_Standards/WikiData/WD~Zhou dynasty (690–705),835435]]"
-start_time: "0618" 
-has_time_started: "0618"
+start_time: 0618-06  
+has_time_started: 0618-06 
 topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'
 ---
 

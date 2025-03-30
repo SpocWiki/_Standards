@@ -11,7 +11,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
 different_from: '[[_Standards/WikiData/WD~reformism,1323572]]'
-end_time: "1648"
+end_time::  1648-06 
+has_time_stopped: 1648-06 
 facet_of:
   - '[[_Standards/WikiData/WD~Protestantism,23540]]'
   - "[[_Standards/WikiData/WD~Reformed Christianity,101849]]"

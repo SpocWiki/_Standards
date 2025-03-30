@@ -12,7 +12,8 @@ Dewey_Decimal_Classification:
   - 2--38
   - 938
 economy_of_topic: "[[_Standards/WikiData/WD~economy of ancient Greece,2736823]]"
-end_time: "0600"
+end_time::  0600-06 
+has_time_stopped: 0600-06 
 history_of_topic: "[[_Standards/WikiData/WD~history of ancient Greece,7798]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sicily%20Selinunte%20Temple%20E%20%28Hera%29.JPG"
 indigenous_to: '[[_Standards/WikiData/WD~Greece,41]]'

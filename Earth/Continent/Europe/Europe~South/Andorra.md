@@ -259,7 +259,7 @@ INSEE_countries_and_foreign_territories_code: 99130
 GS1_country_code: 840-849
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Andorra.svg"
 inception: "1278"
-has_time_started: "1278"
+has_time_started: 1278-06 
 Dewey_Decimal_Classification: 2--4679
 Commons_category: Andorra
 Commons_gallery: Andorra

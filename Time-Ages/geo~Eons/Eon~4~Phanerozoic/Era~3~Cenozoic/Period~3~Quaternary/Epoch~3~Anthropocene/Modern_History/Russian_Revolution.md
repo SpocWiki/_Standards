@@ -13,7 +13,7 @@ participant:
   - '[[_Standards/WikiData/WD~Bolsheviks,83372]]'
   - '[[_Standards/WikiData/WD~Mensheviks,191515]]'
   - "[[_Standards/WikiData/WD~Socialist Revolutionary Party,217009]]"
-point_in_time: "1917"
+point_in_time: 1917-06 
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Russian Revolution,14398246]]"
 ---
 

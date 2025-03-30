@@ -18,7 +18,8 @@ aliases:
 Commons_category: Ancient history
 described_by_source:
   - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-end_time: "0500"
+end_time::  0500-06 
+has_time_stopped: 0500-06 
 facet_of:
   - "[[_Standards/WikiData/WD~Greco-Roman world,937284]]"
 follows: "[[_Standards/WikiData/WD~Early antiquity,98270938]]"

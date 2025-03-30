@@ -144,7 +144,7 @@ electrical_plug_type:
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~village of Guam,96857311]]"
 archives_at: "[[_Standards/WikiData/WD~Office of Vital Statistics,106712467]]"
 inception: "1898"
-has_time_started: "1898"
+has_time_started: 1898-06 
 Instagram_username: visitguam_jp
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/GuamMap.png"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Woods%20at%20Guam%20No.1.JPG"

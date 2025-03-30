@@ -17,7 +17,8 @@ described_by_source:
 different_from:
   - '[[_Standards/WikiData/WD~Q1046100,1046100]]'
   - "[[_Standards/WikiData/WD~(The) Great War,85888603]]"
-end_time: "1918-11-11"
+end_time: 1918-11-11 
+has_time_stopped: 1918-11-11
 facet_of: "[[_Standards/WikiData/WD~German colonial empire,329618]]"
 has_cause: "[[_Standards/WikiData/WD~multiple causes,18121382]]"
 has_contributing_factor:

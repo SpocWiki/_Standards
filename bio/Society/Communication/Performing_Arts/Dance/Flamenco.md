@@ -38,7 +38,7 @@ country_of_origin: '[[_Standards/WikiData/WD~Spain,29]]'
 Commons_gallery: Flamenco
 Commons_category: Flamenco
 inception: "1774"
-has_time_started: "1774"
+has_time_started: 1774-06 
 ---
 
 ## #has_/text_of_/abstract 

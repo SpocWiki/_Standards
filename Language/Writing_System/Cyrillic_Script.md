@@ -45,7 +45,7 @@ name:
 - cyrillique
 native_label: кириллица
 inception: "0870"
-has_time_started: "0870"
+has_time_started: 0870-06 
 ---
 
 ## #has_/text_of_/abstract 

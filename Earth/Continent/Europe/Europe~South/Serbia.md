@@ -414,7 +414,7 @@ BHCL_UUID:
 - f05755c3-3759-4ba1-8982-7157bd8d9708
 - 9e68967f-4ca3-4b99-8c7f-c4e956949fe6
 inception: "2006"
-has_time_started: "2006"
+has_time_started: 2006-06 
 short_name: "\U0001F1F7\U0001F1F8"
 nominal_GDP:
 - 63501748652

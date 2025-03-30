@@ -341,7 +341,7 @@ official_name:
 - "República de Colombia"
 short_name: "\U0001F1E8\U0001F1F4"
 inception: "1810"
-has_time_started: "1810"
+has_time_started: 1810-06 
 male_population:
 - 24779301
 - 25139588

@@ -15,7 +15,7 @@ audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Alamo%20%281922%2C%20Benson%20Orchestra%20of%20Chicago%29.mp3"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Herskedal%20%E2%80%93%20Time%20of%20Water%20%E2%80%93%E2%80%93%20Nature%20cinematography%20of%20Svahken%20Sijte%20%28Svahken%20reindeer%20district%29%2C%20Femunden%20National%20Park%2C%20Norway.webm"
 inception: "1917"
-has_time_started: "1917"
+has_time_started: 1917-06 
 instance_of:
 - "[[_Standards/WikiData/WD~music genre,188451]]"
 - "[[_Standards/WikiData/WD~field of work,627436]]"

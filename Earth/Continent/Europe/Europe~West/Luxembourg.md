@@ -329,7 +329,7 @@ Commons_category: Luxembourg
 hashtag: Luxembourg
 subreddit: Luxembourg
 inception: "1815"
-has_time_started: "1815"
+has_time_started: 1815-06 
 coordinates_of_southernmost_point: "Point(6.041683 49.44775)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:LuxembourgCountry.map"
 has_id_wikidata: Q32

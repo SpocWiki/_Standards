@@ -292,7 +292,7 @@ urban_population:
 population: 2025137
 native_label: "République gabonaise"
 inception: "1960"
-has_time_started: "1960"
+has_time_started: 1960-06 
 coordinates_of_southernmost_point: "Point(11.15322 -3.96005)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Gabon.svg"
 U_S_National_Archives_Identifier: 10035698

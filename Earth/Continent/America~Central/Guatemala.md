@@ -316,7 +316,7 @@ urban_population:
 - 8938987
 - 9141704
 inception: "1821"
-has_time_started: "1821"
+has_time_started: 1821-06 
 population: 17263239
 licence_plate_code: GCA
 ITU_letter_code: GTM

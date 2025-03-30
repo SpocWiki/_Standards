@@ -271,7 +271,7 @@ BTI_Governance_Index:
 - 4.71
 - 4.72
 inception: "1991"
-has_time_started: "1991"
+has_time_started: 1991-06 
 Commons_category: Kazakhstan
 subreddit: Kazakhstan
 hashtag: Kazakhstan

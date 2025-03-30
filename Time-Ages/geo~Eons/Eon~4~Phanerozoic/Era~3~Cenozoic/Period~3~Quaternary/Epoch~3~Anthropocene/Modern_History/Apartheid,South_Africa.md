@@ -27,8 +27,8 @@ has_characteristic:
   - '[[_Standards/WikiData/WD~Minoritarianism,6869224]]'
   - "[[_Standards/WikiData/WD~social stratification,841628]]"
 has_effect: "[[_Standards/WikiData/WD~Legacies of apartheid,6517187]]"
-has_time_started: "1948"
-has_time_stopped: "1991"
+has_time_started: 1948-06 
+has_time_stopped: 1991-06 
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/DurbanSign1989.jpg"
 inception: "1948"
 instance_of:

@@ -427,7 +427,7 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/National
 U_S_National_Archives_Identifier: 10035791
 Commons_gallery: 中華民國
 inception: "1912"
-has_time_started: "1912"
+has_time_started: 1912-06 
 coordinates_of_easternmost_point: "Point(122.10638889 25.485)"
 has_id_wikidata: Q865
 location:
