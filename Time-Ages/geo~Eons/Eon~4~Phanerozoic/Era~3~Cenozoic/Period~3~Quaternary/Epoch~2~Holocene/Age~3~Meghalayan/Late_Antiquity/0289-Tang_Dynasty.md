@@ -71,6 +71,13 @@ has_time_started: 0618-06
 topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'
 ---
 
+# [[0289-Tang_Dynasty]] 
+
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
+
 ## #has_/text_of_/abstract 
 
 > The **Tang Dynasty** (, [tʰǎŋ]; Chinese: 唐朝), or the Tang Empire, was an imperial dynasty of China that ruled from 618 to 907, with an interregnum between 690 and 705. It was preceded by the Sui dynasty and followed by the Five Dynasties and Ten Kingdoms period. Historians generally regard the Tang as a high point in Chinese civilisation, and a golden age of cosmopolitan culture. Tang territory, acquired through the military campaigns of its early rulers, rivalled that of the Han dynasty.

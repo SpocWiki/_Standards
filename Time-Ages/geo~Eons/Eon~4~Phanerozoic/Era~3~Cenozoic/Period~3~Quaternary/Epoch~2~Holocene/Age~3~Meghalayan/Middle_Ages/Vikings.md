@@ -27,6 +27,15 @@ start_time: 0793-06
 has_time_started: 0793-06 
 ---
 
+# [[Vikings]] 
+
+has_/time_/started :: `=this.has_time_started`
+has_/time_/stopped :: `=this.has_time_stopped` 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
+
 ## #has_/text_of_/abstract 
 
 > **Vikings** were seafaring people originally from Scandinavia (present-day Denmark, Norway, and Sweden), who from the late 8th to the late 11th centuries raided, pirated, traded, and settled throughout parts of Europe. They also voyaged as far as the Mediterranean, North Africa, the Middle East, Greenland, and Vinland (present-day Newfoundland in Canada, North America). In their countries of origin, and some of the countries they raided and settled in, this period is popularly known as the Viking Age, and the term "Viking" also commonly includes the inhabitants of the Scandinavian homelands as a whole. The Vikings had a profound impact on the early medieval history of northern and Eastern Europe, including the political and social development of England (and the English language) and parts of France, and established the embryo of Russia in Kievan Rus'.
