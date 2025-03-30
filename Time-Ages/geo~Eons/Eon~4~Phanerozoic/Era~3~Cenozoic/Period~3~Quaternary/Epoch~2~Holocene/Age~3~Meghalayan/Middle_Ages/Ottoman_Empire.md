@@ -2,7 +2,128 @@
 has_id_wikidata: Q12560
 aliases:
   - Ottoman Empire
+named_after: "[[_Standards/WikiData/WD~Osman I,83100]]"
+shares_border_with:
+  - "[[_Standards/WikiData/WD~Austrian Empire,131964]]"
+  - "[[_Standards/WikiData/WD~Kingdom of Bulgaria,147909]]"
+  - "[[_Standards/WikiData/WD~Kingdom of Hungary,171150]]"
+  - "[[_Standards/WikiData/WD~Austria-Hungary,28513]]"
+religion_or_worldview:
+  - "[[_Standards/WikiData/WD~Alevism,137097]]"
+  - "[[_Standards/WikiData/WD~Syriac Orthodox Church,210540]]"
+  - "[[_Standards/WikiData/WD~Bektashi Order,467692]]"
+  - "[[_Standards/WikiData/WD~Sunni Islam,483654]]"
+  - "[[_Standards/WikiData/WD~Armenian Apostolic Church,683724]]"
+  - "[[_Standards/WikiData/WD~Greek Orthodoxy,7970362]]"
+  - "[[_Standards/WikiData/WD~Judaism,9268]]"
+part_of: "[[_Standards/WikiData/WD~Central Powers,152283]]"
+follows:
+  - "[[_Standards/WikiData/WD~Empire of Trebizond,178913]]"
+  - "[[_Standards/WikiData/WD~Byzantine Empire,12544]]"
+basic_form_of_government:
+  - "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
+  - "[[_Standards/WikiData/WD~dual monarchy,2994894]]"
+  - "[[_Standards/WikiData/WD~monarchy,7269]]"
+  - "[[_Standards/WikiData/WD~military dictatorship,49896]]"
+  - "[[_Standards/WikiData/WD~single-party system,50686]]"
+currency:
+  - "[[_Standards/WikiData/WD~sultani,188416]]"
+  - "[[_Standards/WikiData/WD~Akçe,424754]]"
+  - "[[_Standards/WikiData/WD~kuruş,661854]]"
+diplomatic_relation: "[[_Standards/WikiData/WD~Ukrainian People's Republic,243610]]"
+official_religion: "[[_Standards/WikiData/WD~Sunni Islam,483654]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~New History of Yuan,1053256]]"
+  - "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Regesta Imperii XIII,97879676]]"
+  - "[[_Standards/WikiData/WD~Meyer’s Universum, Neunter Band,131719188]]"
+  - "[[_Standards/WikiData/WD~History of Ming,28763]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of the Ottoman Empire,817316]]"
+anthem: "[[_Standards/WikiData/WD~Imperial anthems of the Ottoman Empire,1192863]]"
+flag: "[[_Standards/WikiData/WD~flags of the Ottoman Empire,1907209]]"
+central_bank: "[[_Standards/WikiData/WD~Ottoman Bank,2041453]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of the Ottoman Empire,2564225]]"
+replaced_by: "[[_Standards/WikiData/WD~Government of the Grand National Assembly,2949827]]"
+instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
+legislative_body: "[[_Standards/WikiData/WD~General Assembly of the Ottoman Empire,3333555]]"
+replaces:
+  - "[[_Standards/WikiData/WD~Beylik of Osman,4338046]]"
+  - "[[_Standards/WikiData/WD~Maona of Chios and Phocaea,6753657]]"
+  - "[[_Standards/WikiData/WD~Beylik of Bafra,6874824]]"
+  - "[[_Standards/WikiData/WD~Duchy of Leucas,127607963]]"
+  - "[[_Standards/WikiData/WD~Abbasid Caliphate,12536]]"
+  - "[[_Standards/WikiData/WD~Byzantine Empire,12544]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economic history of the Ottoman Empire,4817421]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Ottoman Empire,5256115]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Ottoman Empire,7112772]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q8067222,8067222]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ottoman Empire,10634124]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ottoman Empire topics,14448021]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~sultan of the Ottoman Empire,15315411]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~sultan of the Ottoman Empire,15315411]]"
+UMLS_CUI: C2718043
+motto_text: دولت ابد مدت
+National_Library_of_Poland_Descriptor: "9810651820805606"
+demonym:
+  - Otamánach
+  - عُثماني
+  - عُثمانيَّة
+  - otomà
+  - otomana
+  - Ottoman
+  - Otomanano
+  - otomana
+  - otomano
+  - oszmán
+  - Османлија
+  - osman
+  - Osmanlı
+  - Osman
+  - Osmanka
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Ottoman%20Empire%20%28spoken%20by%20AI%20voice%29.mp3
+MeSH_tree_code: Z01.586.687
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Rise%20and%20Fall%20of%20the%20Ottoman%20Empire%201300-1923.gif
+coordinate_location: Point(29.0 41.0)
+inception:
+  - 1300-01-01T00:00:00Z
+  - 1299-08-05T00:00:00Z
+language_used:
+  - "[[_Standards/WikiData/WD~Greek,9129]]"
+  - "[[_Standards/WikiData/WD~Persian,9168]]"
+  - "[[_Standards/WikiData/WD~Arabic,13955]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+capital: "[[_Standards/WikiData/WD~Constantinople,16869]]"
+continent:
+  - "[[_Standards/WikiData/WD~Africa,15]]"
+  - "[[_Standards/WikiData/WD~Europe,46]]"
+  - "[[_Standards/WikiData/WD~Asia,48]]"
+area: 5200000
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Ottoman%20Empire%20%281882%E2%80%931922%29.svg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Ottoman%20Empire%20%281844%E2%80%931922%29.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Ottoman%20Sultan%20Selim%20III%20banner.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/OttomanEmpireIn1683.png
+U_S_National_Archives_Identifier: "10046527"
+OmegaWiki_Defined_Meaning: "798994"
+PM20_geo_code: A43
+BHCL_UUID: dd6c4065-465a-4b28-b626-e8d1bd856704
+Krugosvet_article: istoriya/OSMANSKAYA_OTTOMANSKAYA_IMPERIYA.html
+Commons_category: Ottoman Empire
+native_label: دولت عالیه عثمانیه
+dissolved_abolished_or_demolished_date: 1922-11-17T00:00:00Z
 ---
+
+# [[Ottoman_Empire]] 
+
+
+has_/time_/started :: `=this.has_time_started` 
+has_/time_/stopped :: 1922-11-17T00:00:00Z
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
 
 ## #has_/text_of_/abstract 

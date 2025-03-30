@@ -45,13 +45,36 @@ replaces: "[[_Standards/WikiData/WD~Baté Empire,507346]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D5%AC%D5%AB%D5%AB%20%D5%AF%D5%A1%D5%B5%D5%BD%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Mali%20Empire%29.ogg"
 ---
 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
 ## #has_/text_of_/abstract 
 
-> The **Mali Empire** (Manding: Mandé or Manden Duguba; Arabic: مالي, romanized: Mālī) was an empire in West Africa from c. 1226 to 1670. The empire was founded by Sundiata Keita (c. 1214 – c. 1255) and became renowned for the wealth of its rulers, especially Mansa Musa (Musa Keita). At its peak, Mali was the largest empire in West Africa, widely influencing the culture of the region through the spread of its language, laws, and customs.
+> The **Mali Empire** (Manding: Mandé or Manden Duguba; Arabic: مالي, romanized: Mālī) 
+> was an empire in West Africa from c. 1226 to 1670. 
+> The empire was founded by Sundiata Keita (c. 1214 – c. 1255) 
+> and became renowned for the wealth of its rulers, especially Mansa Musa (Musa Keita). 
+> At its peak, Mali was the largest empire in West Africa, 
+> widely influencing the culture of the region through the spread of its language, laws, and customs.
 >
-> The empire began as a small Mandinka kingdom at the upper reaches of the Niger River, centered around the Manding region. It began to develop during the 11th and 12th centuries as the Ghana Empire, or Wagadu, declined and trade epicentres shifted southward. The history of the Mali Empire before the 13th century is unclear, as there are conflicting and imprecise accounts by both Arab chroniclers and oral traditionalists. The first ruler for which there is accurate written information is Sundiata Keita, a warrior-prince of the Keita dynasty who was called upon to free the local people from the rule of the king of the Sosso Empire, Soumaoro Kanté. The conquest of Sosso in c. 1235 marked the emergence of Mali as a major power, with the Kouroukan Fouga as its constitution.
+> The empire began as a small Mandinka kingdom at the upper reaches of the Niger River, 
+> centered around the Manding region. 
+> It began to develop during the 11th and 12th centuries 
+> as the Ghana Empire, or Wagadu, declined and trade epicentres shifted southward. 
+> The history of the Mali Empire before the 13th century is unclear, 
+> as there are conflicting and imprecise accounts by both Arab chroniclers and oral traditionalists. 
+> The first ruler for which there is accurate written information is Sundiata Keita, 
+> a warrior-prince of the Keita dynasty 
+> who was called upon to free the local people from the rule of the king of the Sosso Empire, 
+> Soumaoro Kanté. 
+> The conquest of Sosso in c. 1235 marked the emergence of Mali as a major power, 
+> with the Kouroukan Fouga as its constitution.
 >
-> Following the death of Sundiata Keita, in c. 1255, the kings of Mali were referred to by the title mansa. In c. 1285 Sakoura, a former royal court slave, became emperor and was one of Mali's most powerful rulers, greatly expanding the empire's territory. He made a pilgrimage to Mecca during the reign of Mamluk Sultan An-Nasir Muhammad (r. 1298–1308), but died on his voyage home. Mansa Musa took the throne in c. 1312. He made a famous pilgrimage to Mecca from 1324 to 1326, where his generous gifts and his expenditure of gold caused significant inflation in Egypt. Maghan I succeeded him as mansa in 1337, but was deposed by his uncle Suleyman in 1341. It was during Suleyman's 19-year reign that Ibn Battuta visited Mali. Suleyman's death marked the end of Mali's Golden Age and the beginning of a slow decline.
+> Following the death of Sundiata Keita, in c. 1255, 
+> the kings of Mali were referred to by the title mansa. 
+> 
+> In c. 1285 Sakoura, a former royal court slave, became emperor and was one of Mali's most powerful rulers, greatly expanding the empire's territory. He made a pilgrimage to Mecca during the reign of Mamluk Sultan An-Nasir Muhammad (r. 1298–1308), but died on his voyage home. Mansa Musa took the throne in c. 1312. He made a famous pilgrimage to Mecca from 1324 to 1326, where his generous gifts and his expenditure of gold caused significant inflation in Egypt. Maghan I succeeded him as mansa in 1337, but was deposed by his uncle Suleyman in 1341. It was during Suleyman's 19-year reign that Ibn Battuta visited Mali. Suleyman's death marked the end of Mali's Golden Age and the beginning of a slow decline.
 >
 > The Tarikh al-Sudan records that Mali was still a sizeable state in the 15th century. At that time, the Venetian explorer Alvise Cadamosto and Portuguese traders confirmed that the peoples who settled within Gambia River were still subject to the mansa of Mali. Upon Leo Africanus's visit at the beginning of the 16th century, his descriptions of the territorial domains of Mali showed that it was still a kingdom of considerable size. However, from 1507 onwards neighboring states such as Diarra, Great Fulo, Yatenga, and the Songhai Empire chipped away at Mali's borders. In 1542, the Songhai invaded the capital but were unsuccessful in conquering the empire. During the 17th century, the Mali Empire faced incursions from the Bamana Empire, who ultimately sacked and burned the capital in 1670. The Mali Empire rapidly disintegrated, being replaced by independent chiefdoms. The Keitas retreated to the town of Kangaba, where they became provincial chiefs.
 >

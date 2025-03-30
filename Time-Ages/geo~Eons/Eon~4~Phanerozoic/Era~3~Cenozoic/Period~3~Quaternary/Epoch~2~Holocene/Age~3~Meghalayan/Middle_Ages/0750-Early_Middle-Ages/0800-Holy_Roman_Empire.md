@@ -146,12 +146,8 @@ coordinate_location: Point(14.42215841 50.091352242)
 #has_/time_/started :: 0800-12-29 
 #has_/time_/stopped :: 1806-08-06 
 
-has_/time_/started :: `=this.has_time_started` 
-has_/time_/stopped :: `=this.has_time_stopped` 
-
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
-
 
 ## #has_/text_of_/abstract 
 

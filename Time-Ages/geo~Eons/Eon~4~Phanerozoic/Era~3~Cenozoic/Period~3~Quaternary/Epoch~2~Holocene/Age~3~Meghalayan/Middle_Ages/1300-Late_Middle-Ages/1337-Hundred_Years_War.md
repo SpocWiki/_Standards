@@ -28,9 +28,21 @@ Universal_Decimal_Classification: "355.48(410:44)\"1337/1453\""
 Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"HundredYearsWar\"]"
 ---
 
+# [[1337-Hundred_Years_War]] 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
+
 ## #has_/text_of_/abstract 
 
-> The **Hundred Years' War** (French: Guerre de Cent Ans; 1337–1453) was a conflict between the kingdoms of England and France and a civil war in France during the Late Middle Ages.  It emerged from feudal disputes over the Duchy of Aquitaine and was triggered by a claim to the French throne made by Edward III of England. The war grew into a broader military, economic, and political struggle involving factions from across Western Europe, fuelled by emerging nationalism on both sides. The periodisation of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces. 
+> The **Hundred Years' War** (French: Guerre de Cent Ans; 1337–1453) 
+> was a conflict between the kingdoms of England and France 
+> and a civil war in France during the Late Middle Ages.  
+> 
+> It emerged from feudal disputes over the Duchy of Aquitaine 
+> and was triggered by a claim to the French throne made by Edward III of England. 
+> The war grew into a broader military, economic, and political struggle involving factions from across Western Europe, fuelled by emerging nationalism on both sides. The periodisation of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces. 
 >
 > The Hundred Years' War was a significant conflict in the Middle Ages. During the war, five generations of kings from two rival dynasties fought for the throne of France, which was then the wealthiest and most populous kingdom in Western Europe. The war had a lasting effect on European history: both sides produced innovations in military technology and tactics, including professional standing armies and artillery, that permanently changed European warfare. Chivalry, which reached its height during the conflict, subsequently declined. Stronger national identities took root in both kingdoms, which became more centralized and gradually emerged as global powers.
 >
