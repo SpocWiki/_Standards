@@ -2,8 +2,7 @@
 #has_/time_/started :: 1492  
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().getFullYear()) - dv.current().has_time_started))` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now).getFullYear()) - this.has_time_started` 
-: `$=JSON.stringify(new Date(),' ', '---')` 
+#has_/duration_ :: `=default(this.has_time_stopped, number(dateformat(date(now), "y"))) - this.has_time_started` 
 
 
 #has_/prev_item :: [[Epoch~2~Holocene]]    
@@ -28,8 +27,10 @@
 > The effects of human activities on Earth can be seen for example in biodiversity loss and climate change. 
 > 
 > Various start dates for the Anthropocene have been proposed, 
-> ranging from the beginning of the Neolithic Revolution (12,000–15,000 years ago), to as recently as the 1960s. 
-> The biologist Eugene F. Stoermer is credited with first coining and using the term anthropocene informally in the 1980s; 
+> ranging from the beginning of the Neolithic Revolution (12,000–15,000 years ago), 
+> to as recently as the 1960s. 
+> The biologist Eugene F. Stoermer is credited with first coining 
+> and using the term anthropocene informally in the 1980s; 
 > Paul J. Crutzen re-invented and popularized the term.
 >
 > The Anthropocene Working Group (AWG) of the Subcommission on Quaternary Stratigraphy (SQS) of the ICS 
