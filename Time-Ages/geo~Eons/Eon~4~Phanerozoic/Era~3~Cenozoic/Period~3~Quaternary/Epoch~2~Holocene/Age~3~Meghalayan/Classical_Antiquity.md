@@ -18,8 +18,7 @@ aliases:
 Commons_category: Ancient history
 described_by_source:
   - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-end_time::  0500-06 
-has_time_stopped: 0500-06 
+end_time:  0500-06 
 facet_of:
   - "[[_Standards/WikiData/WD~Greco-Roman world,937284]]"
 follows: "[[_Standards/WikiData/WD~Early antiquity,98270938]]"
@@ -75,9 +74,8 @@ excalidraw-autoexport: svg
 #has_/time_/started :: -0800 
 #has_/time_/stopped :: 0500 
 
-
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
-#has_/duration_ :: `$=(dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 ## #has_/text_of_/abstract 
 

@@ -66,9 +66,11 @@ excalidraw-autoexport: svg
 
 #is_a_/time_/Culture 
 
-#has_/time_/started :: 0750-06
-#has_/time_/stopped  :: 1500-06
+#has_/time_/started :: 0750-06 
+#has_/time_/stopped  :: 1500-06 
 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 ## #has_/text_of_/abstract 
 
@@ -83,9 +85,9 @@ excalidraw-autoexport: svg
 > - modern period. 
 >
 > The medieval period is itself subdivided into the 
-> - [[Middle_Ages/Early_Middle-Ages|Early Middle Ages]], 
-> - [[Middle_Ages/High_Middle-Ages|High Middle Ages]], and 
-> - [[Middle_Ages/Late_Middle-Ages|Late Middle Ages]].
+> - [[Middle_Ages/0750-Early_Middle-Ages|Early Middle Ages]], 
+> - [[Middle_Ages/1000-High_Middle-Ages|High Middle Ages]], and 
+> - [[Middle_Ages/1300-Late_Middle-Ages|Late Middle Ages]].
 >
 > Population decline, counterurbanisation, the collapse of centralised authority, invasions, 
 > and mass migrations of tribes, which had begun in late antiquity, continued into the Early Middle Ages. 
@@ -98,7 +100,7 @@ excalidraw-autoexport: svg
 > 
 > Although there were substantial changes in society and political structures, 
 > the break with classical antiquity was incomplete. 
-> The still-sizeable [[Middle_Ages/Byzantine_Empire|Byzantine Empire]], Rome's direct continuation, survived in the Eastern Mediterranean 
+> The still-sizeable [[Late_Antiquity/0395-Byzantine_Empire|Byzantine Empire]], Rome's direct continuation, survived in the Eastern Mediterranean 
 > and remained a major power. The empire's law code, the Corpus Juris Civilis or "Code of Justinian", 
 > was rediscovered in Northern Italy in the 11th century. 
 > In the West, most kingdoms incorporated the few extant Roman institutions. 
@@ -111,13 +113,13 @@ excalidraw-autoexport: svg
 > - Magyars from the east, and 
 > - Saracens from the south.
 >
-> During the [[Middle_Ages/High_Middle-Ages|High Middle Ages]], which began after 1000, the population of Europe increased significantly 
+> During the [[Middle_Ages/1000-High_Middle-Ages|High Middle Ages]], which began after 1000, the population of Europe increased significantly 
 > as technological and agricultural innovations allowed trade to flourish 
 > and the Medieval Warm Period climate change allowed crop yields to increase. 
 > Manorialism, the organisation of peasants into villages that owed rent and labour services to the nobles, 
 > and feudalism, the political structure whereby knights and lower-status nobles owed military service 
 > to their overlords in return for the right to rent from lands and manors, 
-> were two of the ways society was organised in the [[Middle_Ages/High_Middle-Ages|High Middle Ages]].
+> were two of the ways society was organised in the [[Middle_Ages/1000-High_Middle-Ages|High Middle Ages]].
 >
 > This period also saw the collapse of the unified Christian church with the East–West Schism of 1054. 
 > The Crusades, first preached in 1095, were military attempts by Western European Christians 

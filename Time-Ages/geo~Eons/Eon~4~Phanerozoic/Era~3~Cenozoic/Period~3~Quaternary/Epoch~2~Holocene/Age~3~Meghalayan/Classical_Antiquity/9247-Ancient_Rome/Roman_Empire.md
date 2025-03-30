@@ -121,7 +121,7 @@ diplomatic_relation:
   - "[[_Standards/WikiData/WD~Han dynasty,7209]]"
 dissolved_abolished_or_demolished_date: "0395-01-18"
 economy_of_topic: "[[_Standards/WikiData/WD~economy of the Roman Empire,3718695]]"
-end_time::  0395-06 
+end_time:  0395-06 
 has_time_stopped: 0395-06 
 flag: '[[_Standards/WikiData/WD~vexillum,264655]]'
 founded_by: '[[_Standards/WikiData/WD~Augustus,1405]]'
@@ -170,6 +170,13 @@ has_time_started: "-0026"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353313,42353313]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"RomanEmpire\"]"
 ---
+
+
+#has_/time_/started :: -100 
+#has_/time_/stopped ::  400 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 ## #has_/text_of_/abstract 
 

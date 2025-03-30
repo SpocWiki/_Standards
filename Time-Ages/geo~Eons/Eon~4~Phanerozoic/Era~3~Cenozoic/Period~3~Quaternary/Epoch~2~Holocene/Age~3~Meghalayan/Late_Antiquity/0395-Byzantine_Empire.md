@@ -104,15 +104,64 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Byzantine Empire,711
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"ByzantineEmpire\"]"
 ---
 
+
+#has_/time_/started :: `=this.has_time_started` 
+#has_/time_/stopped :: `=this.has_time_stopped` 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
 ## #has_/text_of_/abstract 
 
-> The **Byzantine Empire**, also known as the Eastern Roman Empire, was the continuation of the Roman Empire centred on Constantinople during late antiquity and the Middle Ages. Having survived the conditions that led to the fall of the Western Roman Empire in the 5th century AD, it endured until the fall of Constantinople to the Ottoman Empire in 1453. Throughout much of its history, the empire remained the most powerful economic, cultural, and military force in the Mediterranean world. The term 'Byzantine Empire' was coined only after its demise; its citizens called the polity the 'Roman Empire' and themselves 'Romans'.
+> The **Byzantine Empire**, also known as the Eastern Roman Empire, 
+> was the continuation of the Roman Empire 
+> centred on Constantinople during late antiquity and the Middle Ages. 
+> 
+> Having survived the conditions 
+> that led to the fall of the Western Roman Empire in the 5th century AD, 
+> it endured until the fall of Constantinople to the Ottoman Empire in 1453. 
+> 
+> Throughout much of its history, the empire remained the most powerful economic, cultural, 
+> and military force in the Mediterranean world. 
+> The term 'Byzantine Empire' was coined only after its demise; 
+> its citizens called the polity the 'Roman Empire' and themselves 'Romans'.
 >
-> During the early centuries of the Roman Empire, the western provinces were Latinised, but the eastern parts kept their Hellenistic culture. Constantine I (r. 324–337) legalised Christianity and moved the capital to Constantinople. Theodosius I (r. 379–395) made Christianity the state religion and Greek gradually replaced Latin for official use. The empire adopted a defensive strategy and, throughout its remaining history, experienced recurring cycles of decline and recovery. 
+> During the early centuries of the Roman Empire, the western provinces were Latinised, 
+> but the eastern parts kept their Hellenistic culture. 
+> 
+> Constantine I (r. 324–337) legalised Christianity and moved the capital to Constantinople. 
+> Theodosius I (r. 379–395) made Christianity the state religion 
+> and Greek gradually replaced Latin for official use. 
+> The empire adopted a defensive strategy and, throughout its remaining history, 
+> experienced recurring cycles of decline and recovery. 
 >
-> It reached its greatest extent during the reign of Justinian I (r. 527–565), who briefly reconquered much of Italy and the western Mediterranean coast. The plague emerged, and a devastating war with Persia drained the empire's resources. The Arab conquests led to the loss of the empire's richest provinces—Egypt and Syria—to the Rashidun Caliphate. In 698, Africa was lost to the Umayyad Caliphate, but the empire stabilised under the Isaurian dynasty. It expanded once more under the Macedonian dynasty, experiencing a two-century-long renaissance. Thereafter, periods of civil war and Seljuk incursion resulted in the loss of most of Asia Minor. The empire recovered during the Komnenian restoration, and Constantinople remained the largest and wealthiest city in Europe until the 13th century.
+> It reached its greatest extent during the reign of Justinian I (r. 527–565), 
+> who briefly reconquered much of Italy and the western Mediterranean coast. 
+> The plague emerged, and a devastating war with Persia drained the empire's resources. 
+> 
+> The Arab conquests led to the loss of the empire's richest provinces—
+> Egypt and Syria—to the Rashidun Caliphate. 
+> In 698, Africa was lost to the Umayyad Caliphate, 
+> but the empire stabilised under the Isaurian dynasty. 
+> 
+> It expanded once more under the Macedonian dynasty, 
+> experiencing a two-century-long renaissance. 
+> 
+> Thereafter, periods of civil war and Seljuk incursion resulted in the loss of most of Asia Minor. 
+> The empire recovered during the Komnenian restoration, 
+> and Constantinople remained the largest and wealthiest city in Europe until the 13th century.
 >
-> The empire was largely dismantled in 1204, following the sack of Constantinople during the Fourth Crusade; its former territories were then divided into competing Greek rump states and Latin realms. Despite the eventual recovery of Constantinople in 1261, the reconstituted empire wielded only regional power during its final two centuries. Its remaining territories were progressively annexed by the Ottomans in a series of wars fought in the 14th and 15th centuries. The fall of Constantinople to the Ottomans in 1453 brought the empire to an end, but its history and legacy remain topics of debate to this day.
+> The empire was largely dismantled in 1204, 
+> following the sack of Constantinople during the Fourth Crusade; 
+> its former territories were then divided into competing Greek rump states and Latin realms. 
+> 
+> Despite the eventual recovery of Constantinople in 1261, 
+> the reconstituted empire wielded only regional power during its final two centuries. 
+> Its remaining territories were progressively annexed by the Ottomans 
+> in a series of wars fought in the 14th and 15th centuries. 
+> 
+> The fall of Constantinople to the Ottomans in 1453 brought the empire to an end, 
+> but its history and legacy remain topics of debate to this day.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Byzantine%20Empire) 
 

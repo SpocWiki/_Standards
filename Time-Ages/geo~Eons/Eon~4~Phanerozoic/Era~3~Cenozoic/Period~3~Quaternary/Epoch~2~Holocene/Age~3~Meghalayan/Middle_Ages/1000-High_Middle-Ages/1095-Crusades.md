@@ -21,7 +21,7 @@ Dewey_Decimal_Classification:
   - 956.014
   - 956.94032
 different_from: '[[_Standards/WikiData/WD~Crusade,1037072]]'
-end_time::  1291-06 
+end_time:  1291-06 
 has_time_stopped: 1291-06 
 has_list: "[[_Standards/WikiData/WD~list of main crusades to the land of Israel,7055142]]"
 has_part_s_:
@@ -44,6 +44,14 @@ topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Campaignbox Crusades,6855578]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Crusades,10730110]]'
 ---
+
+
+#has_/time_/started :: `=this.has_time_started` 
+#has_/time_/stopped :: `=this.has_time_stopped` 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
 
 ## #has_/text_of_/abstract 
 

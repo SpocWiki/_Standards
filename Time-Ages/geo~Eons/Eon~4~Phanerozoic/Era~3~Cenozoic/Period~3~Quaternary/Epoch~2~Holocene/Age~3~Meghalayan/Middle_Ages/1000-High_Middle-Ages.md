@@ -12,8 +12,8 @@ aliases:
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
-#has_/previous_item :: [[../Middle_Ages/Early_Middle-Ages]] 
-#has_/next_item :: [[Late_Middle-Ages]]
+#has_/previous_item :: [[0750-Early_Middle-Ages]] 
+#has_/next_item :: [[1300-Late_Middle-Ages]]
 
 ## #has_/text_of_/abstract 
 
@@ -21,7 +21,7 @@ aliases:
 > was the period of European history that lasted from AD 1000 to 1300. 
 > 
 > The High Middle Ages were preceded by the Early Middle Ages 
-> and followed by the [[Late_Middle-Ages]], which ended around AD 1500 (by historiographical convention).
+> and followed by the [[1300-Late_Middle-Ages]], which ended around AD 1500 (by historiographical convention).
 >
 > Key historical trends of the High Middle Ages include the rapidly increasing population of Europe, which brought about great social and political change from the preceding era, and the Renaissance of the 12th century, including the first developments of rural exodus and urbanization. By 1350, the robust population increase had greatly benefited the European economy, which had reached levels that would not be seen again in some areas until the 19th century. That trend faltered during the Late Middle Ages because of a series of calamities, most notably the Black Death, but also numerous wars as well as economic stagnation.
 >

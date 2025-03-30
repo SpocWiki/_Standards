@@ -51,7 +51,7 @@ currency:
 described_at_URL: "https://www.biografiasyvidas.com/biografia/q/qing.htm"
 described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
 dissolved_abolished_or_demolished_date: "1912"
-end_time::  1911-06 
+end_time:  1911-06 
 has_time_stopped: 1911-06 
 flag: "[[_Standards/WikiData/WD~flag of the Qing dynasty,976372]]"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20China%20%281889%E2%80%931912%29.svg"

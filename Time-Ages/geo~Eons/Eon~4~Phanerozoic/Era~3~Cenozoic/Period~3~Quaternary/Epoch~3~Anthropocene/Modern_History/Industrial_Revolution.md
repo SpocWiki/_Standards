@@ -9,7 +9,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
   - "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
   - "[[_Standards/WikiData/WD~Meyer’s Universum, Neunter Band,131719188]]"
-end_time::  1820-06 
+end_time:  1820-06 
 has_time_stopped: 1820-06 
 has_characteristic:
   - '[[_Standards/WikiData/WD~industrialization,202398]]'

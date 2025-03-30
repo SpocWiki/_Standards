@@ -36,6 +36,10 @@ replaces:
   - "[[_Standards/WikiData/WD~Western Satraps,2086608]]"
 ---
 
+
+#has_/time_/started :: `=this.has_time_started` 
+#has_/time_/stopped :: `=this.has_time_stopped` 
+
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
@@ -44,9 +48,17 @@ replaces:
 
 ## #has_/text_of_/abstract 
 
-> The **Gupta Empire** was an Indian empire during the classical period of the Indian subcontinent which existed from the mid 3rd century to mid 6th century CE. At its zenith, the dynasty ruled over an empire that spanned much of the northern Indian subcontinent. This period has been considered as the Golden Age of India by some historians, although this characterisation has been disputed by others. The ruling dynasty of the empire was founded by Gupta.
+> The **Gupta Empire** was an Indian empire during the classical period of the Indian subcontinent 
+> which existed from the mid 3rd century to mid 6th century CE. 
+> At its zenith, the dynasty ruled over an empire that spanned much of the northern Indian subcontinent. 
+> This period has been considered as the Golden Age of India by some historians, 
+> although this characterisation has been disputed by others. 
+> The ruling dynasty of the empire was founded by Gupta.
 >
-> The high points of this period are the great cultural developments which took place primarily during the reigns of Samudragupta, Chandragupta II and Kumaragupta I. Many Hindu epics and literary sources, such as the Mahabharata and Ramayana, were canonised during this period. The Gupta period produced scholars such as Kalidasa, Aryabhata, Varahamihira and Vatsyayana, who made significant advancements in many academic fields. Science and political administration reached new heights during the Gupta era. The period, sometimes described as Pax Gupta, gave rise to achievements in architecture, sculpture, and painting that "set standards of form and taste [that] determined the whole subsequent course of art, not only in India but far beyond her borders". Strong trade ties also made the region an important cultural centre and established the region as a base that would influence nearby kingdoms and regions in India and Southeast Asia. The Puranas, earlier long poems on a variety of subjects, are also thought to have been committed to written texts around this period. Hinduism was followed by the rulers and the Brahmins flourished in the Gupta empire but the Guptas were tolerant towards people of other faiths as well.
+> The high points of this period are the great cultural developments 
+> which took place primarily during the reigns of Samudragupta, Chandragupta II and Kumaragupta I. 
+> Many Hindu epics and literary sources, such as the Mahabharata and Ramayana, 
+> were canonised during this period. The Gupta period produced scholars such as Kalidasa, Aryabhata, Varahamihira and Vatsyayana, who made significant advancements in many academic fields. Science and political administration reached new heights during the Gupta era. The period, sometimes described as Pax Gupta, gave rise to achievements in architecture, sculpture, and painting that "set standards of form and taste [that] determined the whole subsequent course of art, not only in India but far beyond her borders". Strong trade ties also made the region an important cultural centre and established the region as a base that would influence nearby kingdoms and regions in India and Southeast Asia. The Puranas, earlier long poems on a variety of subjects, are also thought to have been committed to written texts around this period. Hinduism was followed by the rulers and the Brahmins flourished in the Gupta empire but the Guptas were tolerant towards people of other faiths as well.
 >
 > The empire eventually died out because of factors such as substantial loss of territory and imperial authority caused by their own erstwhile feudatories, as well as the invasion by the Huna peoples (Kidarites and Alchon Huns) from Central Asia. After the collapse of the Gupta Empire in the 6th century, India was again ruled by numerous regional kingdoms.
 >

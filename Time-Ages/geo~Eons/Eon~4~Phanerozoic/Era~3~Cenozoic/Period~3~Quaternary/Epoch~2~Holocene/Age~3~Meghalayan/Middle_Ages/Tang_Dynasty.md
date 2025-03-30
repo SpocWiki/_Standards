@@ -14,7 +14,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
 dissolved_abolished_or_demolished_date: "0907"
-end_time::  0907-06 
+end_time:  0907-06 
 has_time_stopped: 0907-06 
 followed_by: "[[_Standards/WikiData/WD~Second Turkic Khaganate,4833446]]"
 founded_by: "[[_Standards/WikiData/WD~Emperor Gaozu of Tang,9700]]"

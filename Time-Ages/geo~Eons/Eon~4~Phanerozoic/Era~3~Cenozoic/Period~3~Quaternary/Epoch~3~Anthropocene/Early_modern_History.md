@@ -6,7 +6,7 @@ aliases:
 Commons_category: "Early Modern period"
 Commons_gallery: "Early Modern period"
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
-end_time::  1800-06 
+end_time:  1800-06 
 has_time_stopped: 1800-06 
 follows: "[[_Standards/WikiData/WD~Postclassical Era,7234117]]"
 history_of_topic: "[[_Standards/WikiData/WD~Early Modern history,109120185]]"

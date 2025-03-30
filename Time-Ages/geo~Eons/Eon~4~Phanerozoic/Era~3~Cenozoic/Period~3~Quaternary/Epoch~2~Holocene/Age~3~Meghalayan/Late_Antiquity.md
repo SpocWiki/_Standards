@@ -10,8 +10,6 @@ instance_of:
   - "[[_Standards/WikiData/WD~culture,11042]]"
   - "[[_Standards/WikiData/WD~archaeological culture,465299]]"
   - "[[_Standards/WikiData/WD~historical period,11514315]]"
-start_time: http://www.wikidata.org/.well-known/genid/84c01416ae2f369201ef10762dfd0d97 
-has_time_started: http://www.wikidata.org/.well-known/genid/84c01416ae2f369201ef10762dfd0d97
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Late antiquity,10968580]]"
 aliases:
   - Late_Antiquity
@@ -21,8 +19,11 @@ aliases:
 #has_/time_/started :: 0250-06 
 #has_/time_/stopped :: 0750-06 
 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+
 #has_/previous_item :: [[Classical_Antiquity]]  
-#has_/next_item :: [[Middle_Ages/Early_Middle-Ages]]
+#has_/next_item :: [[Middle_Ages/0750-Early_Middle-Ages]]
 
 
 ## #has_/text_of_/abstract 

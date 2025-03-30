@@ -4,7 +4,7 @@ aliases:
   - early medieval period
   - Dark Ages
 ---
-# [[Early_Middle-Ages]] 
+# [[0750-Early_Middle-Ages]] 
 
 #is_a_/time_/Culture 
 
@@ -15,7 +15,7 @@ aliases:
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
 #has_/previous_item :: [[../Late_Antiquity]] 
-#has_/next_item :: [[High_Middle-Ages]]
+#has_/next_item :: [[1000-High_Middle-Ages]]
 
 > The **Early Middle Ages** (or early medieval period), 
 > sometimes controversially referred to as the Dark Ages, 

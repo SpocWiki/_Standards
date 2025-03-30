@@ -9,7 +9,7 @@ defendant:
   - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
   - "[[_Standards/WikiData/WD~Hermann Göring,47906]]"
   - "[[_Standards/WikiData/WD~list of accused at the Nuremberg Trials,13424569]]"
-end_time::  1945-06 
+end_time:  1945-06 
 has_time_stopped: 1945-06 
 facet_of:
   - '[[_Standards/WikiData/WD~antisemitism,22649]]'

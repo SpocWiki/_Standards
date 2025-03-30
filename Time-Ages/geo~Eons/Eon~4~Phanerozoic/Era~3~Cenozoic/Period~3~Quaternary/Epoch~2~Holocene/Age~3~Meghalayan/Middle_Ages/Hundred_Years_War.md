@@ -10,7 +10,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-end_time::  1453-06 
+end_time:  1453-06 
 has_time_stopped: 1453-06 
 has_list: "[[_Standards/WikiData/WD~timeline of the Hundred Years' War,7806363]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20crecy%20froissart.jpg"
