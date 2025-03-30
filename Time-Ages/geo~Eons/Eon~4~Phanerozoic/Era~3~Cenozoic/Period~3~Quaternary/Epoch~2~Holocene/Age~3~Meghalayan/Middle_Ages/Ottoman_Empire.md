@@ -7,7 +7,11 @@ aliases:
 
 ## #has_/text_of_/abstract 
 
-> The **Ottoman Empire** ( ), also called the Turkish Empire, was an imperial realm that controlled much of Southeast Europe, West Asia, and North Africa from the 14th to early 20th centuries; it also controlled parts of southeastern Central Europe, between the early 16th and early 18th centuries. 
+> The **Ottoman Empire** ( ), also called the Turkish Empire, 
+> was an imperial realm that controlled much of Southeast Europe, West Asia, 
+> and North Africa from the 14th to early 20th centuries; 
+> it also controlled parts of southeastern Central Europe, 
+> between the early 16th and early 18th centuries. 
 >
 > The empire emerged from a beylik, or principality, founded in northwestern Anatolia in c. 1299 by the Turkoman tribal leader Osman I. His successors conquered much of Anatolia and expanded into the Balkans by the mid-14th century, transforming their petty kingdom into a transcontinental empire. The Ottomans ended the Byzantine Empire with the conquest of Constantinople in 1453 by Mehmed II, which marked the Ottomans' emergence as a major regional power. Under Suleiman the Magnificent (1520–1566), the empire reached the zenith of its power, prosperity, and political development expanding its influence further into Middle East and Central Europe. With its capital at Constantinople (modern-day Istanbul) and control over a significant portion of the Mediterranean Basin, the Ottoman Empire was at the centre of interactions between the Middle East and Europe for six centuries. Ruling over so many peoples, the empire granted varying levels of autonomy to its many confessional communities, or millets, to manage their own affairs per Islamic law. 
 >
