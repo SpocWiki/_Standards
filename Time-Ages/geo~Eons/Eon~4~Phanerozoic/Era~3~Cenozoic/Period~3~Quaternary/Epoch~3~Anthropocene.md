@@ -1,8 +1,9 @@
 
-#has_/time_/started :: 1750-06  
+#has_/time_/started :: 1492  
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().getFullYear()) - dv.current().has_time_started))` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).getFullYear()) - this.has_time_started` 
+: `$=JSON.stringify(new Date(),' ', '---')` 
 
 
 #has_/prev_item :: [[Epoch~2~Holocene]]    
