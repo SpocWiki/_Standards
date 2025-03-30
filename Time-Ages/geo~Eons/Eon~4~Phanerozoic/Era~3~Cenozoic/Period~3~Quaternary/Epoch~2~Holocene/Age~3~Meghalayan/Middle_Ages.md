@@ -25,7 +25,8 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%2
 Provenio_UUID: 44b7f32e-0d01-4964-9102-a67e76b0755d
 Stack_Exchange_tag: https://history.stackexchange.com/questions/tagged/middle-ages
 Stadtwiki_Dresden_article: Mittelalter
-start_time: "0476"
+start_time: "0476" 
+has_time_started: "0476"
 studied_in:
   - "[[_Standards/WikiData/WD~medieval archaeology,1671076]]"
   - "[[_Standards/WikiData/WD~medieval history,27992545]]"
@@ -96,7 +97,7 @@ excalidraw-autoexport: svg
 > 
 > Although there were substantial changes in society and political structures, 
 > the break with classical antiquity was incomplete. 
-> The still-sizeable Byzantine Empire, Rome's direct continuation, survived in the Eastern Mediterranean 
+> The still-sizeable [[Middle_Ages/Byzantine_Empire|Byzantine Empire]], Rome's direct continuation, survived in the Eastern Mediterranean 
 > and remained a major power. The empire's law code, the Corpus Juris Civilis or "Code of Justinian", 
 > was rediscovered in Northern Italy in the 11th century. 
 > In the West, most kingdoms incorporated the few extant Roman institutions. 
@@ -109,13 +110,13 @@ excalidraw-autoexport: svg
 > - Magyars from the east, and 
 > - Saracens from the south.
 >
-> During the High Middle Ages, which began after 1000, the population of Europe increased significantly 
+> During the [[Middle_Ages/High_Middle-Ages|High Middle Ages]], which began after 1000, the population of Europe increased significantly 
 > as technological and agricultural innovations allowed trade to flourish 
 > and the Medieval Warm Period climate change allowed crop yields to increase. 
 > Manorialism, the organisation of peasants into villages that owed rent and labour services to the nobles, 
 > and feudalism, the political structure whereby knights and lower-status nobles owed military service 
 > to their overlords in return for the right to rent from lands and manors, 
-> were two of the ways society was organised in the High Middle Ages.
+> were two of the ways society was organised in the [[Middle_Ages/High_Middle-Ages|High Middle Ages]].
 >
 > This period also saw the collapse of the unified Christian church with the East–West Schism of 1054. 
 > The Crusades, first preached in 1095, were military attempts by Western European Christians 

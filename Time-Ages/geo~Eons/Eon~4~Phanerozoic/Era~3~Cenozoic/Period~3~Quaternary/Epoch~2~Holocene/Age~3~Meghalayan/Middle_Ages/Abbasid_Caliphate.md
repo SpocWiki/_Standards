@@ -33,8 +33,8 @@ followed_by:
   - "[[_Standards/WikiData/WD~Tulunid emirate,4147013]]"
 follows: "[[_Standards/WikiData/WD~Umayyad Caliphate,8575586]]"
 founded_by: '[[_Standards/WikiData/WD~As-Saffah,252087]]'
-has_time_started: "0750"
-has_time_stopped: "1258-02-17"
+has_time_started: 0750-06
+has_time_stopped: 1258-02-17
 head_of_state: '[[_Standards/WikiData/WD~As-Saffah,252087]]'
 inception: "0750"
 instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
@@ -42,7 +42,7 @@ language_used:
   - '[[_Standards/WikiData/WD~Arabic,13955]]'
   - '[[_Standards/WikiData/WD~Persian,9168]]'
 locator_map_image:
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD-ar.png"
+  - "http: //commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD-ar.png"
   - "http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD.png"
 main_regulatory_text:
   - '[[_Standards/WikiData/WD~Qur’an,428]]'
@@ -62,13 +62,52 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351353,42351353]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"AbbasidCaliphate\"]"
 ---
 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
 ## #has_/text_of_/abstract 
 
-> The **Abbasid Caliphate** or Abbasid Empire (; Arabic: الْخِلَافَة الْعَبَّاسِيَّة, romanized: al-Khilāfa al-ʿAbbāsiyya) was the third caliphate to succeed the Islamic prophet Muhammad. It was founded by a dynasty descended from Muhammad's uncle, Abbas ibn Abd al-Muttalib (566–653 CE), from whom the dynasty takes its name. They ruled as caliphs for most of the caliphate from their capital in Baghdad in modern-day Iraq, after having overthrown the Umayyad Caliphate in the Abbasid Revolution of 750 CE (132 AH). The Abbasid Revolution had its origins and first successes in the easterly region of Khorasan, far from the Levantine center of Umayyad influence. 
+> The **Abbasid Caliphate** or Abbasid Empire (; Arabic: الْخِلَافَة الْعَبَّاسِيَّة, 
+> romanized: al-Khilāfa al-ʿAbbāsiyya) 
+> was the third caliphate to succeed the Islamic prophet Muhammad. 
+> 
+> It was founded by a dynasty descended from Muhammad's uncle, 
+> Abbas ibn Abd al-Muttalib (566–653 CE), from whom the dynasty takes its name. 
+> 
+> They ruled as caliphs for most of the caliphate from their capital in Baghdad in modern-day Iraq, 
+> after having overthrown the Umayyad Caliphate in the Abbasid Revolution of 750 CE (132 AH). 
+> The Abbasid Revolution had its origins and first successes in the easterly region of Khorasan, 
+> far from the Levantine center of Umayyad influence. 
 >
-> The Abbasid Caliphate first centered its government in Kufa, modern-day Iraq, but in 762 the caliph al-Mansur founded the city of Baghdad, near the ancient Babylonian capital city of Babylon and Sassanid city of Ctesiphon. Baghdad became the center of science, culture, and invention in what became known as the Golden Age of Islam. It was also during this period that Islamic manuscript production reached its height. Between the 8th and 10th centuries, Abbasid artisans pioneered and perfected manuscript techniques that became standards of the practice. This, in addition to housing several key academic institutions, including the House of Wisdom, as well as a multiethnic and multi-religious environment, garnered it an international reputation as a centre of learning. The Abbasid period was marked by the use of bureaucrats (such as the Barmakid family) for governing the territories as well as an increasing inclusion of non-Arab Muslims in the ummah (Muslim community). Despite this initial cooperation, the Abbasids of the late 8th century had alienated both non-Arab mawali (clients).
+> The Abbasid Caliphate first centered its government in Kufa, modern-day Iraq, 
+> but in 762 the caliph al-Mansur founded the city of Baghdad, 
+> near the ancient Babylonian capital city of Babylon and Sassanid city of Ctesiphon. 
+> 
+> Baghdad became the center of science, culture, and invention 
+> in what became known as the Golden Age of Islam. 
+> 
+> It was also during this period that Islamic manuscript production reached its height. 
+> Between the 8th and 10th centuries, 
+> Abbasid artisans pioneered and perfected manuscript techniques 
+> that became standards of the practice. 
+> 
+> This, in addition to housing several key academic institutions, including the House of Wisdom, 
+> as well as a multiethnic and multi-religious environment, 
+> garnered it an international reputation as a centre of learning. 
+> 
+> The Abbasid period was marked by the use of bureaucrats (such as the Barmakid family) 
+> for governing the territories 
+> as well as an increasing inclusion of non-Arab Muslims in the ummah (Muslim community). 
+> Despite this initial cooperation, 
+> the Abbasids of the late 8th century had alienated both non-Arab mawali (clients).
 >
-> The political power of the caliphs was limited with the rise of the Iranian Buyids and the Seljuq Turks, who captured Baghdad in 945 and 1055, respectively. Although Abbasid leadership over the vast Islamic empire was gradually reduced to a ceremonial religious function in much of the caliphate, the dynasty retained control of its Mesopotamian domain during the rule of Caliph al-Muqtafi and extended into Iran during the reign of Caliph al-Nasir. The Abbasids' age of cultural revival and fruition ended in 1258 with the siege of Baghdad by the Mongols under Hulagu Khan and the execution of al-Musta'sim. The Abbasid line of rulers re-centred themselves in the Mamluk capital of Cairo in 1261. Though lacking in political power, with the brief exception of Caliph al-Musta'in, the dynasty continued to claim religious authority until a few years after the Ottoman conquest of Egypt in 1517, with the last Abbasid caliph being al-Mutawakkil III.
+> The political power of the caliphs was limited with the rise of the Iranian Buyids 
+> and the Seljuq Turks, who captured Baghdad in 945 and 1055, respectively. 
+> 
+> Although Abbasid leadership over the vast Islamic empire was gradually 
+> reduced to a ceremonial religious function in much of the caliphate, 
+> the dynasty retained control of its Mesopotamian domain during the rule of Caliph al-Muqtafi and extended into Iran during the reign of Caliph al-Nasir. The Abbasids' age of cultural revival and fruition ended in 1258 with the siege of Baghdad by the Mongols under Hulagu Khan and the execution of al-Musta'sim. The Abbasid line of rulers re-centred themselves in the Mamluk capital of Cairo in 1261. Though lacking in political power, with the brief exception of Caliph al-Musta'in, the dynasty continued to claim religious authority until a few years after the Ottoman conquest of Egypt in 1517, with the last Abbasid caliph being al-Mutawakkil III.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abbasid%20Caliphate) 
 

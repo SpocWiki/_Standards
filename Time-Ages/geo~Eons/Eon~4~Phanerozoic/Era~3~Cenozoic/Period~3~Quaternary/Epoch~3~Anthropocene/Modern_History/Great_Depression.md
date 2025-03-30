@@ -46,7 +46,8 @@ instance_of:
 notable_work: "[[_Standards/WikiData/WD~Some of the most important features of the economic and financial situation in 1932,107353518]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Depression-ar.ogg"
 RIA_Novosti_reference: 190264066
-start_time: "1929-10-29"
+start_time: "1929-10-29" 
+has_time_started: "1929-10-29"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Great Depression,22734544]]"
 U_S_National_Archives_Identifier: 12222222
 ---

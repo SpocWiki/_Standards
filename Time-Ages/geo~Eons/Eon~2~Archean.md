@@ -8,7 +8,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-end_time: -2500000000-01-01T00:00:00Z
+end_time: -2500000000
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Archean.png
 instance_of:
   - "[[_Standards/WikiData/WD~eon,108256]]"
@@ -17,7 +17,8 @@ IPA_transcription: /ɑːrˈkiːən/
 part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q11039569,11039569]]"
 sRGB_color_hex_triplet: F0047F
-start_time: -4031000000-01-01T00:00:00Z
+start_time: -4031000000 
+has_time_started: -4031000000
 topic_s_main_template: "[[_Standards/WikiData/WD~Q100870042,100870042]]"
 ---
 

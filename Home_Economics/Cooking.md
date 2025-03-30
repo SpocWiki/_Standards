@@ -43,7 +43,8 @@ OmegaWiki_Defined_Meaning: 479078
 Iconclass_notation: 41C25
 subreddit: Cooking
 Commons_category: Cooking
-start_time: "-500000"
+start_time: "-500000" 
+has_time_started: "-500000"
 IMDb_keyword: cooking
 hashtag:
 - cooking

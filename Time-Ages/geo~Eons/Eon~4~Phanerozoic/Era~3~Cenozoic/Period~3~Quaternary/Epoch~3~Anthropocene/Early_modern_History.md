@@ -16,7 +16,8 @@ instance_of:
 MeSH_tree_code: K01.400.475
 part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Early%20modern%20period.mp3"
-start_time: "1500"
+start_time: "1500" 
+has_time_started: "1500"
 ---
 
 #has_/time_/started :: 1500-06

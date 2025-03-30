@@ -15,8 +15,8 @@ child:
   - "[[_Standards/WikiData/WD~William Townshend,8019485]]"
 Commons_category: Charles Townshend, 2nd Viscount Townshend
 country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Great Britain,161885]]"
-date_of_birth: 1674-04-18T00:00:00Z
-date_of_death: 1738-06-21T00:00:00Z
+date_of_birth: 1674-04-18
+date_of_death: 1738-06-21
 depicted_by: "[[_Standards/WikiData/WD~Charles Townshend, 2nd Viscount Townshend,28045175]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"

@@ -65,7 +65,8 @@ replaces:
   - "[[_Standards/WikiData/WD~Qi (Huang Chao),11180184]]"
   - "[[_Standards/WikiData/WD~Sui dynasty,7405]]"
   - "[[_Standards/WikiData/WD~Zhou dynasty (690–705),835435]]"
-start_time: "0618"
+start_time: "0618" 
+has_time_started: "0618"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'
 ---
 

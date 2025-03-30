@@ -26,7 +26,8 @@ has_part_s_:
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9moires%20de%20la%20Soci%C3%A9t%C3%A9%20g%C3%A9ologique%20de%20France%20%28IA%20meymoiresdelaso00socig%29.pdf"
 instance_of: "[[_Standards/WikiData/WD~historical period,11514315]]"
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/PROMISHLENNAYA_REVOLYUTSIYA.html
-start_time: "1760"
+start_time: "1760" 
+has_time_started: "1760"
 subclass_of: "[[_Standards/WikiData/WD~economic development,4530482]]"
 ---
 

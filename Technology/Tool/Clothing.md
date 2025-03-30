@@ -65,7 +65,8 @@ Colon_Classification:
 - "L:577"
 - "Y:88"
 IPTC_NewsCode: mediatopic/20000245
-start_time: "-57000"
+start_time: "-57000" 
+has_time_started: "-57000"
 ---
 
 ## #has_/text_of_/abstract 

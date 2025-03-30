@@ -78,7 +78,8 @@ perpetrator:
   - "[[_Standards/WikiData/WD~Adolf Hitler,352]]"
   - "[[_Standards/WikiData/WD~Heinrich Himmler,43067]]"
   - "[[_Standards/WikiData/WD~Reinhard Heydrich,60039]]"
-start_time: "1933"
+start_time: "1933" 
+has_time_started: "1933"
 studied_in: "[[_Standards/WikiData/WD~Holocaust studies,1568255]]"
 subclass_of:
   - '[[_Standards/WikiData/WD~genocide,41397]]'

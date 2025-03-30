@@ -88,7 +88,8 @@ pronunciation_audio:
   - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33491%20%28hat%29-Jnermano-Premy%C3%A8%20G%C3%A8%20mondyal.wav"
 Provenio_UUID: aa705b1b-8350-45cf-a43a-fd7fbde67892
 Stadtwiki_Dresden_article: Erster_Weltkrieg
-start_time: "1914-07-28"
+start_time: "1914-07-28" 
+has_time_started: "1914-07-28"
 Swedish_Anbytarforum: 11154.0
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_World War I,5909782]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_World War I,10651811]]"

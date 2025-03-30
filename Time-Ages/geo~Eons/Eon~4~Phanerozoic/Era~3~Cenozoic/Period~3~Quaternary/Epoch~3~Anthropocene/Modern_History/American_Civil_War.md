@@ -50,7 +50,8 @@ participant:
   - '[[_Standards/WikiData/WD~Union,214102]]'
   - "[[_Standards/WikiData/WD~Confederate States of America,81931]]"
 short_name: "Civil War"
-start_time: "1861-04-12"
+start_time: "1861-04-12" 
+has_time_started: "1861-04-12"
 studied_in: "[[_Standards/WikiData/WD~military history of the United States,1483473]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_American Civil War,6677215]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_American Civil War,10730168]]"

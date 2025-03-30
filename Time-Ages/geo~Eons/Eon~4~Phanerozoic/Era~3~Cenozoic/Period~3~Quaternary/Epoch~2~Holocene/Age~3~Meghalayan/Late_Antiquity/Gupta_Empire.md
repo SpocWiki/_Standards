@@ -9,11 +9,11 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-dissolved_abolished_or_demolished_date: "0550"
-has_time_started: "0320"
-has_time_stopped: "0550"
+dissolved_abolished_or_demolished_date: 0550-06
+has_time_started: 0320-06
+has_time_stopped: 0550-06
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/IndiaGuptaEmpire1.jpg"
-inception: "0320"
+inception: 0320-06
 instance_of: "[[_Standards/WikiData/WD~historical country,3024240]]"
 language_used: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gupta%20Empire%20320%20-%20600%20ad.PNG"
@@ -36,10 +36,9 @@ replaces:
   - "[[_Standards/WikiData/WD~Western Satraps,2086608]]"
 ---
 
-#has_/time_/started :: 0320-06 
-#has_/time_/stopped :: 0550-06 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=(default(this.has_time_stopped,date(now)) - this.has_time_started)` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
 #has_/duration_/months :: `=durationformat(default(this.has_time_stopped,date(now)) - this.has_time_started,"M")` 
  
 

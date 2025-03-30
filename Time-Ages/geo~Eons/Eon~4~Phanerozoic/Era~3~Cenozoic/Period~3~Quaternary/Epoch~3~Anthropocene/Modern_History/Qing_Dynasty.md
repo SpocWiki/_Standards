@@ -112,7 +112,8 @@ shares_border_with:
   - "[[_Standards/WikiData/WD~Namgyal dynasty of Ladakh,2709041]]"
   - "[[_Standards/WikiData/WD~Nguyen dynasty,6500483]]"
   - "[[_Standards/WikiData/WD~Russian Empire,34266]]"
-start_time: "1636"
+start_time: "1636" 
+has_time_started: "1636"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Qing dynasty topics,22725674]]"
 ---
 

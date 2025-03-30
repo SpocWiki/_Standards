@@ -8,7 +8,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-end_time: -251902000-01-01T00:00:00Z
+end_time: -251902000
 Iconclass_notation: 25E(PALEOZOIC)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Trilobite%20Heinrich%20Harder.jpg
 instance_of:
@@ -20,7 +20,8 @@ OmegaWiki_Defined_Meaning: "952626"
 part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Paleozoic%20Palaeozoikum.png
 sRGB_color_hex_triplet: 99C08D
-start_time: -538800000-01-01T00:00:00Z
+start_time: -538800000 
+has_time_started: -538800000
 ---
 
 # [[Era~1~Paleozoic]] 

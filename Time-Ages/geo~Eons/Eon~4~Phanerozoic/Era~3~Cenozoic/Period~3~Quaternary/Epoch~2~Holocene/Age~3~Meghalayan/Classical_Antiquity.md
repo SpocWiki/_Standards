@@ -13,6 +13,7 @@ aliases:
   - classical era
   - classical period
   - antiquity
+  - Classical Antiquity
   - Classical_Antiquity
 Commons_category: Ancient history
 described_by_source:
@@ -62,7 +63,6 @@ draft: true
 publish: false
 publishDate: 
 expiryDate: 
-has_time_started: 2025-03-30
 tags:
   - Classical_Antiquity
   - excalidraw
@@ -71,8 +71,12 @@ excalidraw-open-md: true
 excalidraw-autoexport: svg
 ---
 
-#has_/time_/started :: -0800-06 
-#has_/time_/stopped :: 0500-06 
+#has_/time_/started :: -0800 
+#has_/time_/stopped :: 0500 
+
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_ :: `$=(dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started` 
 
 ## #has_/text_of_/abstract 
 

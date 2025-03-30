@@ -1,6 +1,15 @@
+---
+aliases:
+  - Ancient_History
+  - Ancient History
+---
 
-#has_/time_/started :: -3000-06 
-#has_/time_/stopped :: 0500-06
+#has_/time_/started :: -3000 
+#has_/time_/stopped :: 0500
+
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_ :: `$=(dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started` 
 
 
 ## #has_/text_of_/abstract 

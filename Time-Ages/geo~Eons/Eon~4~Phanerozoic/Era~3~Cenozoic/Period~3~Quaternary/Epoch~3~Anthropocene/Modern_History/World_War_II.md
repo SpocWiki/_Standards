@@ -96,7 +96,8 @@ RIA_Novosti_reference: 1021937064.
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Tweede%20Wereldoorlog-article.ogg"
 Stack_Exchange_tag: "https://history.stackexchange.com/tags/world-war-two"
 Stadtwiki_Dresden_article: Zweiter_Weltkrieg
-start_time: "1939-09-01"
+start_time: "1939-09-01" 
+has_time_started: "1939-09-01"
 subreddit: WW2
 Swedish_Anbytarforum: 11155.0
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_World War II,5928186]]"

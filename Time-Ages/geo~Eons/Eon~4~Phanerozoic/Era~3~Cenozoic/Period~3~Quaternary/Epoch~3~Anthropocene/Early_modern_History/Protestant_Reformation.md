@@ -24,7 +24,8 @@ instance_of:
 Krugosvet_article: kultura_i_obrazovanie/religiya/REFORMATSIYA.html
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Protestant%20Reformation%20pagebanner.jpg"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Religious reform,22827749]]"
-start_time: "1517-11-10"
+start_time: "1517-11-10" 
+has_time_started: "1517-11-10"
 subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Reformation sidebar,10934624]]"
 ---

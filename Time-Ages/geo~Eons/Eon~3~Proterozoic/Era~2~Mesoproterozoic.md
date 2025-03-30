@@ -5,7 +5,8 @@ instance_of: "[[_Standards/WikiData/WD~Federal Act (Germany),1006079]]"
 short_name:
   - Abzahlungsgesetz
   - AbzG
-start_time: 1894-06-04T00:00:00Z
+start_time: 1894-06-04 
+has_time_started: 1894-06-04
 title: Gesetz betreffend die Abzahlungsgeschäfte
 ---
 

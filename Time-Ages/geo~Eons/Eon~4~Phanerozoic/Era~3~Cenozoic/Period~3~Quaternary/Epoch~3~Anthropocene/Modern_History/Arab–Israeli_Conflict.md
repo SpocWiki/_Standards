@@ -11,7 +11,8 @@ instance_of:
 location: "[[_Standards/WikiData/WD~Middle East,7204]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~Arab–Israeli Wars,3491398]]"
-start_time: "1948-05-15"
+start_time: "1948-05-15" 
+has_time_started: "1948-05-15"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Arab–Israeli conflict,6682272]]"
 U_S_National_Archives_Identifier: 10637980
 ---

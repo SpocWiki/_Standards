@@ -14,23 +14,58 @@ MeSH_tree_code: K01.400.504
 part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23016635,23016635]]'
 practiced_by: "[[_Standards/WikiData/WD~historian of Modern Age,17489339]]"
-start_time: "1700"
+start_time: "1700" 
+has_time_started: "1700"
 subclass_of: '[[_Standards/WikiData/WD~history,309]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Modern history,13834331]]"
 U_S_National_Archives_Identifier: 10647222
 ---
 
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
+
 ## #has_/text_of_/abstract 
 
-> The modern era or the modern period is considered the current historical period of human history. It was originally applied to the history of Europe and Western history for events that came after the Middle Ages, often from around the year 1500, like the Reformation in Germany giving rise to Protestantism. From the 1990s, it is more common among historians to refer to the period after the Middle Ages and up to the 19th century as the early modern period. The modern period is today more often used for events from the 19th century until today. The time from the end of World War II (1945) can also be described as being part of contemporary history.
+> The modern era or the modern period is the current historical period of human history. 
+> It was originally applied to the history of Europe and Western history 
+> for events that came after the Middle Ages, often from around the year 1500, 
+> like the Reformation in Germany giving rise to Protestantism. 
+> 
+> From the 1990s, it is more common among historians to refer to 
+> the period after the Middle Ages and up to the 19th century as the early modern period. 
+> The modern period is today more often used for events from the 19th century until today. 
+> The time from the end of World War II (1945) can also be described as contemporary history.
 >
 > The common definition of the modern period today is often associated with events like the French Revolution, the Industrial Revolution, and the transition to nationalism toward the liberal international order.
 >
-> The modern period has been a period of significant development in the fields of science, politics, warfare, and technology. It has also been an Age of Discovery and globalization. During this time, the European powers and later their colonies, strengthened its political, economic, and cultural colonization of the rest of the world. It also created a new modern lifestyle and has permanently changed the way people around the world live. 
+> The modern period has been a period of significant development in the fields of science, politics, warfare, and technology. 
+> 
+> It has also been an Age of Discovery and globalization. 
+> During this time, the European powers and later their colonies, 
+> strengthened its political, economic, and cultural colonization of the rest of the world. 
+> It also created a new modern lifestyle 
+> and has permanently changed the way people around the world live. 
 >
-> In the  19th and early 20th century, modernist art, politics, science, and culture have come to dominate not only Western Europe and North America, but almost every area on the globe, including movements thought of as opposed to the western world and globalization. The modern era is closely associated with the development of individualism, capitalism, urbanization, and a belief in the positive possibilities of technological and political progress.
+> In the  19th and early 20th century, modernist art, politics, science, and culture 
+> have come to dominate not only Western Europe and North America, 
+> but almost every area on the globe, 
+> including movements thought of as opposed to the western world and globalization. 
+> 
+> The modern era is closely associated with the 
+> development of individualism, capitalism, urbanization, 
+> and a belief in the positive possibilities of technological and political progress.
 >
-> The brutal wars and other conflicts of this era, many of which come from the effects of rapid change, and the connected loss of strength of traditional religious and ethical norms, have led to many reactions against modern development. Optimism and the belief in constant progress have been most recently criticized by postmodernism, while the dominance of Western Europe and North America over the rest of the world has been criticized by postcolonial theory.
+> The brutal wars and other conflicts of this era, 
+> many of which come from the effects of rapid change, 
+> and the connected loss of strength of traditional religious and ethical norms, 
+> have led to many reactions against modern development. 
+> 
+> Optimism and the belief in constant progress 
+> have been most recently criticized by postmodernism, 
+> while the dominance of Western Europe and North America over the rest of the world 
+> has been criticized by postcolonial theory.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20era) 
 

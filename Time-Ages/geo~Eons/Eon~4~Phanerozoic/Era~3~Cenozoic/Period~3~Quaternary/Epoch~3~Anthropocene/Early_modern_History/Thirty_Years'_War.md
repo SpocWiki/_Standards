@@ -42,7 +42,8 @@ participant:
 point_in_time: "1618-05-23"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-30-j%C3%A4hriger%20Krieg.ogg"
 Provenio_UUID: 75ec0398-483e-451b-b4c6-47b60f2fdcba
-start_time: "1618"
+start_time: "1618" 
+has_time_started: "1618"
 ---
 
 #has_/time_/started ::  1618-05-23 

@@ -21,7 +21,8 @@ participant:
   - "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q12107%20%28bre%29-ThonyVezbe-Brezel%20Kant%20Vloaz.wav"
 Provenio_UUID: 920bb582-b77d-47f3-ae2e-55587b8870ef
-start_time: "1337"
+start_time: "1337" 
+has_time_started: "1337"
 Universal_Decimal_Classification: "355.48(410:44)\"1337/1453\""
 Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"HundredYearsWar\"]"
 ---

@@ -12,7 +12,8 @@ has_part_s_:
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/MeijiJoukyou.jpg"
 instance_of: '[[_Standards/WikiData/WD~reform,900406]]'
 native_label: 明治維新
-start_time: "1868"
+start_time: "1868" 
+has_time_started: "1868"
 ---
 
 ## #has_/text_of_/abstract 

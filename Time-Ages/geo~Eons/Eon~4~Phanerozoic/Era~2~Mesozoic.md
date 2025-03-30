@@ -7,7 +7,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
   - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-end_time: -66000000-01-01T00:00:00Z
+end_time: -66000000
 instance_of:
   - "[[_Standards/WikiData/WD~era,630830]]"
   - "[[_Standards/WikiData/WD~erathem,2464485]]"
@@ -17,7 +17,8 @@ OmegaWiki_Defined_Meaning: "952543"
 part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Mesozoic%20Mesozoikum.png
 sRGB_color_hex_triplet: 67C5CA
-start_time: -251902000-01-01T00:00:00Z
+start_time: -251902000 
+has_time_started: -251902000
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mesozoic,101435488]]"
 ---
 

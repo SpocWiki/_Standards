@@ -1,6 +1,6 @@
 ---
 Unicode_character: 𨧀
-time_of_discovery_or_invention: 1970-02-18T00:00:00Z
+time_of_discovery_or_invention: 1970-02-18
 type: Element
 SpocWebEntityId: 22000
 has_id_wikidata: Q1232

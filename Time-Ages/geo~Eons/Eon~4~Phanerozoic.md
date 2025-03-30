@@ -12,7 +12,8 @@ part_of:
   - "[[_Standards/WikiData/WD~geologic time scale,43521]]"
   - "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
 sRGB_color_hex_triplet: 9AD9DD
-start_time: -538800000-01-01T00:00:00Z
+start_time: -538800000 
+has_time_started: -538800000
 topic_s_main_template: "[[_Standards/WikiData/WD~Q26108156,26108156]]"
 ---
 

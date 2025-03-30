@@ -20,7 +20,8 @@ instance_of:
   - '[[_Standards/WikiData/WD~culture,11042]]'
   - "[[_Standards/WikiData/WD~historical ethnic group,4204501]]"
 Krugosvet_article: istoriya/ATSTEKI.html
-start_time: "1200"
+start_time: "1200" 
+has_time_started: "1200"
 U_S_National_Archives_Identifier: 10675178
 uses: "[[_Standards/WikiData/WD~human sacrifice,119094]]"
 ---

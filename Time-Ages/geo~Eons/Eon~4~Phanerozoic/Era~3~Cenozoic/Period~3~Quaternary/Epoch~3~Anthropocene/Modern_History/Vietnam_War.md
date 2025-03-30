@@ -42,7 +42,8 @@ participant:
   - "[[_Standards/WikiData/WD~South Korea,884]]"
   - "[[_Standards/WikiData/WD~United States,30]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Vietnamkrieg.ogg"
-start_time: "1955-11-01"
+start_time: "1955-11-01" 
+has_time_started: "1955-11-01"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Campaignbox Vietnam War,8085558]]"
 U_S_National_Archives_Identifier: 10643608
 UMLS_CUI: C1449760

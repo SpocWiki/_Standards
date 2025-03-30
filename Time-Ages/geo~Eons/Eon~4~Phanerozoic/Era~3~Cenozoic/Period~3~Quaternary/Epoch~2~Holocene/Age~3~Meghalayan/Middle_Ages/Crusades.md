@@ -34,7 +34,8 @@ Krugosvet_article: istoriya/krestovye-pohody
 OmegaWiki_Defined_Meaning: 709200
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Crusades%20Banner.jpg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BD%D5%A1%D5%B9%D5%A1%D5%AF%D6%80%D5%A1%D6%81%20%D5%A1%D6%80%D5%B7%D5%A1%D5%BE%D5%A1%D5%B6%D6%84%D5%B6%D5%A5%D6%80%20%28Crusades%29.ogg"
-start_time: "1095"
+start_time: "1095" 
+has_time_started: "1095"
 subclass_of: "[[_Standards/WikiData/WD~military campaign,831663]]"
 topic_s_main_template:
   - '[[_Standards/WikiData/WD~Q22706102,22706102]]'

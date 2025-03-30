@@ -19,7 +19,8 @@ UMLS_CUI:
 MeSH_tree_code: J01.040
 IPTC_NewsCode: mediatopic/20000210
 Library_of_Congress_Classification: S1-S790.3
-start_time: "-8000"
+start_time: "-8000" 
+has_time_started: "-8000"
 uses:
 - "[[_Standards/WikiData/WD~fresh water,102192]]"
 - "[[_Standards/WikiData/WD~arable land,843920]]"

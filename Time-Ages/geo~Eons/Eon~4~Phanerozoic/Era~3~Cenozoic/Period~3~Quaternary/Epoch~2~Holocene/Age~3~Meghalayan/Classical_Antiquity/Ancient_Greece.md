@@ -32,7 +32,8 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828833,22828833]]'
 shares_border_with:
   - '[[_Standards/WikiData/WD~Illyria,32047]]'
   - '[[_Standards/WikiData/WD~Thrace,41741]]'
-start_time: "-1200"
+start_time: "-1200" 
+has_time_started: "-1200"
 studied_in:
   - '[[_Standards/WikiData/WD~classics,841090]]'
   - "[[_Standards/WikiData/WD~ancient history,435608]]"

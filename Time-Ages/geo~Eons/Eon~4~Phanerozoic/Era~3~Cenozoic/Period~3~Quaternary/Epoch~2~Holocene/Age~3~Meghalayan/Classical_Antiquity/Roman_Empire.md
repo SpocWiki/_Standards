@@ -164,7 +164,8 @@ replaced_by:
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Daqin,1521359]]'
 shares_border_with: "[[_Standards/WikiData/WD~Parthian Empire,1986139]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Imperio%20romano%20%28hablado%20por%20voz%20AI%29.mp3"
-start_time: "-0026"
+start_time: "-0026" 
+has_time_started: "-0026"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353313,42353313]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"RomanEmpire\"]"
 ---

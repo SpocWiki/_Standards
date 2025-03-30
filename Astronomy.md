@@ -58,7 +58,8 @@ Colon_Classification: B9
 All_Science_Journal_Classification_Codes: 3100
 Library_of_Congress_Classification: QB
 Iconclass_notation: 49E1
-start_time: "-8000"
+start_time: "-8000" 
+has_time_started: "-8000"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Agence%20Rol%2C%20L%E2%80%99%C3%A9clipse%2C%20gare%20Saint-Lazare%2C%201921%20%28cropped%29.jpg"
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/astronomy"
 Stack_Exchange_site_URL: "https://astronomy.stackexchange.com"

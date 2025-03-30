@@ -29,7 +29,8 @@ participant: "[[_Standards/WikiData/WD~Louis Antoine de Saint-Just,27764]]"
 point_in_time: "1789-05-05"
 Provenio_UUID: b2270e29-4998-4b15-aec5-c99cb843eba0
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Revoluci%C3%B3n%20Francesa-article.ogg"
-start_time: "1789-07-14"
+start_time: "1789-07-14" 
+has_time_started: "1789-07-14"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_French Revolution,14403429]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_French Revolution,3247542]]"
 U_S_National_Archives_Identifier: 10638936

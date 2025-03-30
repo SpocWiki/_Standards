@@ -6,9 +6,9 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/CoatOfArm
 Commons_category: Stefan Lazarević
 country_of_citizenship: "[[_Standards/WikiData/WD~Serbian Despotate,878319]]"
 date_of_birth:
-  - 1377-01-01T00:00:00Z
-  - 1374-01-01T00:00:00Z
-date_of_death: 1427-07-19T00:00:00Z
+  - 1377
+  - 1374
+date_of_death: 1427-07-19
 described_by_source: "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
 family: "[[_Standards/WikiData/WD~Lazarević dynasty,3176309]]"
 family_name: "[[_Standards/WikiData/WD~Lazarević,21507455]]"
