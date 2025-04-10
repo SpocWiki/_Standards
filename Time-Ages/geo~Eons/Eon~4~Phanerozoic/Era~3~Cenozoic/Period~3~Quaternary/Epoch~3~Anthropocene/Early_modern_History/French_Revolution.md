@@ -36,13 +36,35 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_French Revolution,1440
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_French Revolution,3247542]]"
 U_S_National_Archives_Identifier: 10638936
 UMLS_CUI: C1449767
+
 ---
+
+
+#has_/time_/started : `=has_time_started` 
+#has_/time_/stopped : `=has_time_stopped`
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+
 
 ## #has_/text_of_/abstract 
 
-> The **French Revolution** (French: Révolution française [ʁevɔlysjɔ̃ fʁɑ̃sɛːz]) was a period of political and societal change in France that began with the Estates General of 1789, and ended with the coup of 18 Brumaire in November 1799 and the formation of the French Consulate. Many of its ideas are considered fundamental principles of liberal democracy, while its values and institutions remain central to modern French political discourse.
+> The **French Revolution** (French: Révolution française [ʁevɔlysjɔ̃ fʁɑ̃sɛːz]) 
+> was a period of political and societal change in France that began with the Estates General of 1789, 
+> and ended with the coup of 18 Brumaire in November 1799 and the formation of the French Consulate. 
+> Many of its ideas are considered fundamental principles of liberal democracy, 
+> while its values and institutions remain central to modern French political discourse.
 >
-> The causes of the revolution were a combination of social, political, and economic factors which the ancien régime ("old regime") proved unable to manage. A financial crisis and widespread social distress led to the convocation of the Estates General in May 1789, its first meeting since 1614. The representatives of the Third Estate broke away, and re-constituted themselves as a National Assembly in June. The Storming of the Bastille in Paris on 14 July was followed by a series of radical measures by the Assembly, among them the abolition of feudalism, state control over the Catholic Church, and a declaration of rights. The next three years were dominated by the struggle for political control, and military defeats following the outbreak of the French Revolutionary Wars in April 1792 led to an insurrection on 10 August. The monarchy was replaced by the French First Republic in September, and Louis XVI was executed in January 1793. 
+> The causes of the revolution were a combination of social, political, and economic factors 
+> which the ancien régime ("old regime") proved unable to manage. 
+> 
+> A financial crisis and widespread social distress 
+> led to the convocation of the Estates General in May 1789, its first meeting since 1614. 
+> 
+> The representatives of the [[Third_Estate]] broke away, 
+> and re-constituted themselves as a National Assembly in June. 
+> 
+> The Storming of the Bastille in Paris on 14 July was followed by a series of radical measures by the Assembly, among them the abolition of feudalism, state control over the Catholic Church, and a declaration of rights. The next three years were dominated by the struggle for political control, and military defeats following the outbreak of the French Revolutionary Wars in April 1792 led to an insurrection on 10 August. The monarchy was replaced by the French First Republic in September, and Louis XVI was executed in January 1793. 
 >
 > After another revolt in June 1793, the constitution was suspended, and adequate political power passed from the National Convention to the Committee of Public Safety, led by the Jacobins. About 16,000 people were executed in what was later referred to as Reign of Terror, which ended in July 1794. Weakened by external threats and internal opposition, the Republic was replaced in 1795 by the Directory, and four years later, in 1799, the Consulate seized power in a military coup led by Napoleon Bonaparte on 9 November. This event is generally seen as marking the end of the Revolutionary period.
 >

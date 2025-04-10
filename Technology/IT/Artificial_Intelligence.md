@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11660
 subclass_of:
 - "[[_Standards/WikiData/WD~emerging technology,120208]]"

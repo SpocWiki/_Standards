@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12271
 subclass_of: '[[_Standards/WikiData/WD~design,82604]]'
 uses: "[[_Standards/WikiData/WD~architectural engineering,150737]]"
