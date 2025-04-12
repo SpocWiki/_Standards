@@ -13,9 +13,12 @@ aliases:
 > named after British economist John Maynard Keynes) 
 > are the various macroeconomic theories and models of how aggregate demand 
 > (total spending in the economy) strongly influences economic output and inflation. 
+> 
 > In the Keynesian view, aggregate demand does not necessarily equal the productive capacity of the economy. It is influenced by a host of factors that sometimes behave erratically and impact production, employment, and inflation.
 >
-> Keynesian economists generally argue that aggregate demand is volatile and unstable and that, consequently, a market economy often experiences inefficient macroeconomic outcomes, including recessions when demand is too low and inflation when demand is too high. Further, they argue that these economic fluctuations can be mitigated by economic policy responses coordinated between a government and their central bank. In particular, fiscal policy actions taken by the government and monetary policy actions taken by the central bank, can help stabilize economic output, inflation, and unemployment over the business cycle. Keynesian economists generally advocate a regulated market economy – predominantly private sector, but with an active role for government intervention during recessions and depressions.
+> Keynesian economists generally argue that aggregate demand is volatile and unstable 
+> and that, consequently, a market economy often experiences inefficient macroeconomic outcomes, 
+> including recessions when demand is too low and inflation when demand is too high. Further, they argue that these economic fluctuations can be mitigated by economic policy responses coordinated between a government and their central bank. In particular, fiscal policy actions taken by the government and monetary policy actions taken by the central bank, can help stabilize economic output, inflation, and unemployment over the business cycle. Keynesian economists generally advocate a regulated market economy – predominantly private sector, but with an active role for government intervention during recessions and depressions.
 >
 > Keynesian economics developed during and after the Great Depression from the ideas presented by Keynes in his 1936 book, The General Theory of Employment, Interest and Money. Keynes' approach was a stark contrast to the aggregate supply-focused classical economics that preceded his book. Interpreting Keynes's work is a contentious topic, and several schools of economic thought claim his legacy.
 >
