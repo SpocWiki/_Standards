@@ -57,7 +57,10 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q139
 U_S_National_Archives_Identifier: 10638013
 ---
 
-#has_/previous_item :: [[../../../Economics/Mercantilism|Mercantilism]] 
+#has_/previous_item :: [[Mercantilism|Mercantilism]] 
+#has_/next_item :: [[Keynesianism]] 
+#has_/creator :: [[../../../People/Economist/Smith,Adam|Smith,Adam]] 
+#has_/creator :: [[../../../../Economics/Ricardo,David|Ricardo,David]]  
 
 ## #has_/text_of_/abstract 
 
@@ -75,7 +78,7 @@ U_S_National_Archives_Identifier: 10638013
 > whereas prices and the distribution of goods and services are mainly 
 > determined by __competition in goods and services markets__.
 >
-> Economists, historians, political economists, and sociologists 
+> [[../../../People/Economist|Economists]], [[../../../People/Historian|historians]], political economists, and [[../../../People/Sociologist|sociologists]] 
 > have adopted different perspectives in their analyses of capitalism 
 > and have recognized various forms of it in practice. 
 > 
@@ -93,22 +96,30 @@ U_S_National_Archives_Identifier: 10638013
 > that combine elements of free markets with state intervention 
 > and in some cases economic planning.
 >
-> Capitalism in its modern form emerged from agrarianism in England, 
+> Capitalism in its modern form emerged from agrarianism in [[../../../../Earth/Continent/Europe/Europe~North/UK/England|England]], 
 > as well as mercantilist practices by European countries 
 > between the 16th and 18th centuries. 
 > 
-> The [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Industrial_Revolution|Industrial_Revolution]] of the 18th century 
+> The [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Industrial_Revolution|Industrial_Revolution]] of the 18th century 
 > established capitalism as a dominant mode of production
-> , characterized by [[factory work]] and a complex [[../../../Economics/Division_of_Labor|division of labor]]. 
+> , characterized by [[factory work]] and a complex [[../../../../Economics/Division_of_Labor|division of labor]]. 
 > 
-> Through the process of globalization, 
+> Through the process of [[../../Social_Issues/Globalization|globalization]], 
 > capitalism spread across the world in the 19th and 20th centuries, 
-> especially before World War I and after the end of the Cold War. 
+> especially before [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_I|World War I]] and after the end of the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Cold_War|Cold War]]. 
 > During the 19th century, capitalism was largely unregulated by the state, 
-> but became more regulated in the post–World War II period through [[Keynesianism]], 
+> but became more regulated in the post–[[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_II|World War II]] period through [[Keynesianism]], 
 > followed by a return of more unregulated capitalism starting in the 1980s through [[Neoliberalism]].
 >
-> Market economies have existed under many forms of government and in many different times, places, and cultures. Modern industrial capitalist societies developed in Western Europe in a process that led to the Industrial Revolution. Capitalist economies promote economic growth through accumulation of capital, however a business cycle of economic growth followed by recession is a common characteristic of such economies.
+> Market economies have existed under many forms of government 
+> and in many different times, places, and cultures. 
+> 
+> Modern industrial capitalist societies developed in Western Europe 
+> in a process that led to the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Industrial_Revolution|Industrial Revolution]]. 
+> 
+> Capitalist economies promote economic growth through accumulation of capital, 
+> however a business cycle of economic growth followed by recession 
+> is a common characteristic of such economies.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
 

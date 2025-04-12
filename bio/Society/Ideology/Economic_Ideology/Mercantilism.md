@@ -14,7 +14,7 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Wallerstein%27s%20
 Commons_category: Mercantilism
 ---
 
-#has_/next_item :: [[../bio/Society/Ideology/Capitalism|Capitalism]] 
+#has_/next_item :: [[Capitalism|Capitalism]] 
 
 ## #has_/text_of_/abstract 
 
