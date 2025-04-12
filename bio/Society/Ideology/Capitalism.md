@@ -104,7 +104,9 @@ U_S_National_Archives_Identifier: 10638013
 > Through the process of globalization, 
 > capitalism spread across the world in the 19th and 20th centuries, 
 > especially before World War I and after the end of the Cold War. 
-> During the 19th century, capitalism was largely unregulated by the state, but became more regulated in the post–World War II period through Keynesianism, followed by a return of more unregulated capitalism starting in the 1980s through neoliberalism.
+> During the 19th century, capitalism was largely unregulated by the state, 
+> but became more regulated in the post–World War II period through [[Keynesianism]], 
+> followed by a return of more unregulated capitalism starting in the 1980s through [[Neoliberalism]].
 >
 > Market economies have existed under many forms of government and in many different times, places, and cultures. Modern industrial capitalist societies developed in Western Europe in a process that led to the Industrial Revolution. Capitalist economies promote economic growth through accumulation of capital, however a business cycle of economic growth followed by recession is a common characteristic of such economies.
 >
