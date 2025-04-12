@@ -4,7 +4,10 @@ aliases:
 ---
 
 #has_/time_/started ::  1772-04-18 
-#has_/time_/started ::  1823-09-11  
+#has_/time_/stopped ::  1823-09-11  
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
 ## #has_/text_of_/abstract 
 
@@ -13,7 +16,8 @@ aliases:
 > alongside figures such as Thomas Malthus, Adam Smith and James Mill.
 >
 > Ricardo was born in London as the third surviving child of a successful stockbroker and his wife. 
-> He came from a Sephardic Jewish family of Portuguese origin. At 21, he eloped with a Quaker and converted to Unitarianism, causing estrangement from his family. He made his fortune financing government borrowing and later retired to an estate in Gloucestershire. Ricardo served as High Sheriff of Gloucestershire and bought a seat in Parliament as an earnest reformer. He was friends with prominent figures like James Mill, Jeremy Bentham, and Thomas Malthus, engaging in debates over various topics. Ricardo was also a member of The Geological Society, and his youngest sister was an author.
+> He came from a Sephardic Jewish family of Portuguese origin. 
+> At 21, he eloped with a Quaker and converted to Unitarianism, causing estrangement from his family. He made his fortune financing government borrowing and later retired to an estate in Gloucestershire. Ricardo served as High Sheriff of Gloucestershire and bought a seat in Parliament as an earnest reformer. He was friends with prominent figures like James Mill, Jeremy Bentham, and Thomas Malthus, engaging in debates over various topics. Ricardo was also a member of The Geological Society, and his youngest sister was an author.
 >
 > As MP for Portarlington, Ricardo advocated for liberal political movements and reforms, including free trade, parliamentary reform, and criminal law reform. He believed free trade increased the well-being of people by making goods more affordable. Ricardo notably opposed the Corn Laws, which he saw as barriers to economic growth. His friend John Louis Mallett described Ricardo's conviction in his beliefs, though he expressed doubts about Ricardo's disregard for experience and practice. Ricardo died at 51 from an ear infection that led to septicaemia (sepsis). He left behind a considerable fortune and a lasting legacy, with his free trade views eventually becoming public policy in Britain.
 >
