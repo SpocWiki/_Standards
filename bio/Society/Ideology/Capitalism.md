@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6206
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Capitalism::qk623\"]"
 said_to_be_the_same_as:
@@ -57,6 +57,8 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q139
 U_S_National_Archives_Identifier: 10638013
 ---
 
+#has_/previous_item :: [[../../../Economics/Mercantilism|Mercantilism]] 
+
 ## #has_/text_of_/abstract 
 
 > **Capitalism** is an economic system based on the 
@@ -95,9 +97,9 @@ U_S_National_Archives_Identifier: 10638013
 > as well as mercantilist practices by European countries 
 > between the 16th and 18th centuries. 
 > 
-> The[[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Industrial_Revolution]]] of the 18th century 
+> The [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Industrial_Revolution|Industrial_Revolution]] of the 18th century 
 > established capitalism as a dominant mode of production
-> , characterized by factory work and a complex division of labor. 
+> , characterized by [[factory work]] and a complex [[../../../Economics/Division_of_Labor|division of labor]]. 
 > 
 > Through the process of globalization, 
 > capitalism spread across the world in the 19th and 20th centuries, 
