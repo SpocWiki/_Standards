@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8134
 significant_person:
 - "[[_Standards/WikiData/WD~Joseph Schumpeter,78477]]"
