@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Maynard Keynes"
 has_id_wikidata: Q9317

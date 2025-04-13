@@ -38,7 +38,7 @@ Commons_category: "Gregorian calendars"
 
 #has_/time_/started :: 1582-10-15 
 
-The new [[Gregorian_Calendar]] better approximates the [[Julian calendar]], 
+The new [[Gregorian_Calendar]] better approximates the[[../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Julian_calendar]]], 
 which accumulated 10 days (11 minutes per year; 1 day every 129 years) 
 between its introduction -0045-01-01 and the reform in 1582-10-15. 
 

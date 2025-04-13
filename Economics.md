@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8134
 significant_person:
 - "[[_Standards/WikiData/WD~Joseph Schumpeter,78477]]"
@@ -122,9 +122,7 @@ IPTC_NewsCode: mediatopic/20000745
 >
 > Economic analysis can be applied throughout society, including business, finance, cybersecurity, health care, engineering and government. It is also applied to such diverse subjects as crime, education, the family, feminism, law, philosophy, politics, religion, social institutions, war, science, and the environment.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Economics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Economics) 
 
-
-//en.wikipedia.org/wiki/Economics)
 
 
