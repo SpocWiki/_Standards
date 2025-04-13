@@ -34,7 +34,7 @@ Die Librettos stammen i.d.R. aus der Trivial-Literatur.
 Viele Kritiker bewerten seine Werke als trivial; 
 Puccini gibt in seinen Interviews zu, dass er dem Publikum gefallen möchte. 
 
-Puccini hat [[Wagner,Richard]] für seine moderne Musik bewundert 
+Puccini hat [[../../../../../../People/Composer/Classic_Composers/Wagner,Richard]] für seine moderne Musik bewundert 
 und sich später auch für [[Stravinsky,Igor]] und [[Schönberg,Arnold]] interessiert. 
 
 
