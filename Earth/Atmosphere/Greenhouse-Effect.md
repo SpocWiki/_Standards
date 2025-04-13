@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 ---
 aliases:
   - Treibhaus-Effekt
 ---
 
-=======
-﻿
->>>>>>> bdcd21786d99d3822f7d54cf79592cf46b4725fb
 # [[Greenhouse-Effect]] 
 
 Greenhouses work, because Glass is transparent to visible Light and opaque to IR. 

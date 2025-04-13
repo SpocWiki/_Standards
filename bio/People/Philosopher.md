@@ -21,4 +21,4 @@ aliases:
 
 
 [[Philosopher/Fukuyama,Francis]] 
-[[Philosopher/Peter Sloterdijk]]   
+[[../../../Knowledge/Philosophy/Philosopher/Sloterdijk,Peter]]   

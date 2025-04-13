@@ -1,6 +1,6 @@
 ﻿
 #has_/time_/destroyed/Ma :: -5.9
-#has_/time_/created/Ma :: -5.3 
+#has_/time_/started/Ma :: -5.3 
 
 > The **Mediterranean Sea** is a sea connected to the Atlantic Ocean, 
 > surrounded by the Mediterranean Basin and almost completely enclosed by land: 

@@ -2,35 +2,6 @@
 aliases:
   - Adam Smith
 has_id_wikidata: Q9381
-Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/SMIT_ADAM.html
-Libris-URI: vs69dx1d1xfbxct
-work_period_start_: 1748-01-01T00:00:00Z
-ISNI: "0000000122796642"
-date_of_baptism: 1723-06-16T00:00:00Z
-date_of_birth: 1723-06-01T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-field_of_work:
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-  - "[[_Standards/WikiData/WD~ethics,9465]]"
-  - "[[_Standards/WikiData/WD~political philosophy,179805]]"
-  - "[[_Standards/WikiData/WD~economic liberalism,729119]]"
-  - "[[_Standards/WikiData/WD~economic theory,1401304]]"
-influenced_by: "[[_Standards/WikiData/WD~François Quesnay,13575]]"
-place_of_death: "[[_Standards/WikiData/WD~Edinburgh,23436]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Scotland,22]]"
-occupation:
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~economist,188094]]"
-  - "[[_Standards/WikiData/WD~French moralist,1297719]]"
-  - "[[_Standards/WikiData/WD~university teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~publisher,2516866]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~non-fiction writer,15980158]]"
-Commons_Creator_page: Adam Smith
-Commons_gallery: Adam Smith
 member_of:
   - "[[_Standards/WikiData/WD~Royal Society of Edinburgh,117467]]"
   - "[[_Standards/WikiData/WD~Royal Society,123885]]"
@@ -41,6 +12,21 @@ employer:
   - "[[_Standards/WikiData/WD~University of Edinburgh,160302]]"
   - "[[_Standards/WikiData/WD~University of Glasgow,192775]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Great Britain,161885]]"
+field_of_work:
+  - "[[_Standards/WikiData/WD~political philosophy,179805]]"
+  - "[[_Standards/WikiData/WD~economic liberalism,729119]]"
+  - "[[_Standards/WikiData/WD~economic theory,1401304]]"
+  - "[[_Standards/WikiData/WD~philosophy,5891]]"
+  - "[[_Standards/WikiData/WD~economics,8134]]"
+  - "[[_Standards/WikiData/WD~ethics,9465]]"
+occupation:
+  - "[[_Standards/WikiData/WD~economist,188094]]"
+  - "[[_Standards/WikiData/WD~French moralist,1297719]]"
+  - "[[_Standards/WikiData/WD~university teacher,1622272]]"
+  - "[[_Standards/WikiData/WD~publisher,2516866]]"
+  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
+  - "[[_Standards/WikiData/WD~non-fiction writer,15980158]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
 educated_at:
   - "[[_Standards/WikiData/WD~University of Glasgow,192775]]"
   - "[[_Standards/WikiData/WD~Balliol College,805285]]"
@@ -86,10 +72,26 @@ name_in_native_language: Adam Smith
 ArhivX_LOD: "80588"
 Commons_category: Adam Smith (philosopher)
 date_of_death: 1790-07-17T00:00:00Z
+Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/SMIT_ADAM.html
+Libris-URI: vs69dx1d1xfbxct
+work_period_start_: 1748-01-01T00:00:00Z
+ISNI: "0000000122796642"
+date_of_baptism: 1723-06-16T00:00:00Z
+date_of_birth: 1723-06-01T00:00:00Z
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+influenced_by: "[[_Standards/WikiData/WD~François Quesnay,13575]]"
+place_of_death: "[[_Standards/WikiData/WD~Edinburgh,23436]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+work_location: "[[_Standards/WikiData/WD~Scotland,22]]"
+Commons_Creator_page: Adam Smith
+Commons_gallery: Adam Smith
 ---
 
 #has_/time_/started :: 1723-06-16 
 #has_/time_/stopped  :: 1790-07-17 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 #has_/created :: [[Wealth_of_Nations]]  
 
@@ -105,7 +107,7 @@ Leistungsgesellschaft
 > and key figure during the Scottish Enlightenment. 
 > 
 > Seen by some as "The Father of Economics" or "The Father of Capitalism", 
-> he wrote two classic works, The [[Theory of Moral Sentiments]] (1759) 
+> he wrote two classic works, The [[../../../../Knowledge/Economy/Theory_of_Moral_Sentiments]] (1759) 
 > and An Inquiry into the Nature and Causes of the [[Wealth_of_Nations]] (1776). 
 > 
 > The latter, often abbreviated as The Wealth of Nations, 

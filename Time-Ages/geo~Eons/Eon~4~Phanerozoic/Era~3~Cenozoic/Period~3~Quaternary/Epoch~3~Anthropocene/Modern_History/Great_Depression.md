@@ -55,12 +55,13 @@ U_S_National_Archives_Identifier: 12222222
 
 #has_/time_/started :: 1929-10-24 
 #has_/time_/stopped :: 1939-06 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 #is_/different_from :: [[Great_Recession]] 
 
 ## #has_/text_of_/abstract 
 
 > Als **Great Depression**, deutsch Große Depression, bezeichnet man die schwere Wirtschaftskrise in den USA, 
-> die am 24. Oktober 1929 mit dem „Schwarzen Donnerstag“ begann und die 1930er Jahre dominierte. 
+> die am 24. Oktober 1929 mit dem Schwarzen Donnerstag begann und die 1930er Jahre dominierte. 
 > Sie war Teil bzw. Ursprung der Weltwirtschaftskrise, 
 > im Englischen wird der Begriff auch synonym dafür verwendet.
 >
@@ -137,3 +138,4 @@ U_S_National_Archives_Identifier: 12222222
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Depression)
 
 
+[[Hurricane_Katrina]] 
