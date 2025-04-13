@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Charles-Édouard Jeanneret"
 - "Le Corbusier"
@@ -183,8 +183,8 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 > societal expression and equality, and his alleged ties with fascism, antisemitism, eugenics, 
 > and the dictator Benito Mussolini have resulted in some continuing contention.
 >
-> Le Corbusier also designed well-known furniture such as the LC4 Chaise Lounge chair 
-> and the LC1 chair, both made of leather with metal framing.
+> Le Corbusier also designed well-known furniture such as the LC4 Chaise Lounge Chair, 
+> and the ALC-3001 chair, both made of leather with metal framing.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Le%20Corbusier)
 

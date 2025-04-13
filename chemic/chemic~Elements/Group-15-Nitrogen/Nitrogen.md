@@ -135,12 +135,7 @@ Nitrogen is hard to involve chemical reactions and used to be rare.
 
 - Guano 
 - Chile Salpeter 
-- [[Haber–Bosch process]] 
-- 
-
-
-
-## Confidential Links & Embeds: 
+- [[Haber–Bosch [[Haber–Bosch_Process]]]idential Links & Embeds: 
 
 ### [Nitrogen](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.md) 
 

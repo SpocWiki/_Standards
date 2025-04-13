@@ -1,5 +1,5 @@
 
-#is_/similar_to :: [[trigonal planar geometry]]
+#is_/similar_to :: [[trigonal_planar_geometry]]
 
 
 ## #has_/text_of_/abstract 

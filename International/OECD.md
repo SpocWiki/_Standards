@@ -36,7 +36,7 @@ TableByName:
 > 62.2% of global nominal GDP (USD 49.6 trillion) and 
 > 42.8% of global GDP (Int$54.2 trillion) at purchasing power parity. 
 > 
-> The OECD is an official [[United Nations observer]]. 
+> The OECD is an official [[United_Nations_Observer]]. 
 > OECD nations have strong social security systems; 
 > their average social welfare spending stood at roughly 21% of GDP.
 >

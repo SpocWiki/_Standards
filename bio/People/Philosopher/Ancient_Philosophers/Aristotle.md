@@ -172,8 +172,7 @@ Experience => Thinking => Reality
 > His father, Nicomachus, died when Aristotle was a child, and he was brought up by a guardian. 
 > At 17 or 18, he joined [[Plato]]'s Academy in Athens and remained there until the age of 37 (c. 347 BC). 
 > Shortly after Plato died, Aristotle left Athens and, at the request of Philip II of Macedon, 
-> tutored his son [[Alexander_the_Great]] beginning in 343 BC. 
-> He established a library in the Lyceum, 
+> tutored his son [[Alexander_the_Great]] beginni[[../../../../../Knowledge/Philosophy/Philosopher/Alexander_the_Great]]ablished a library in the Lyceum, 
 > which helped him to produce many of his hundreds of books on papyrus scrolls.
 >
 > Though Aristotle wrote many elegant treatises and dialogues for publication, 
@@ -190,7 +189,7 @@ Experience => Thinking => Reality
 > especially the Neoplatonism of the Early Church and the scholastic tradition of the Catholic Church.
 >
 > Aristotle was revered among medieval Muslim scholars as "The First Teacher", 
-> and among medieval Christians like [[../Middle_Ages_Philosophers/Thomas Aquinas]] as simply "The Philosopher", 
+> and among medieval Christians like[[../Middle_Ages_Philosophers/Aquinas,Thomas]]] as simply "The Philosopher", 
 > while the poet [[Dante]] called him "the master of those who know". 
 > 
 > His works contain the earliest known formal study of logic, 

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q4918
 drainage_basin:
 - "[[_Standards/WikiData/WD~Mediterranean Basin,72499]]"
