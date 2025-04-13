@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jean-Paul Sartre"
 - "Jean-Paul Charles Aymard Sartre"

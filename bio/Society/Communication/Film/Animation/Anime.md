@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11078
 studied_in: '[[_Standards/WikiData/WD~endocrinology,162606]]'
 part_of: "[[_Standards/WikiData/WD~organ system,188193]]"
