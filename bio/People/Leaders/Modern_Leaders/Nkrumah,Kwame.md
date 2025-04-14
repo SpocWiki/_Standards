@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Kwame Nkrumah"
 - "Francis Kwame Nkrumah"
@@ -91,15 +91,54 @@ name_in_native_language: "Kwame Nkrumah"
 date_of_birth: "1909-09-21"
 ---
 
+#has_/time_/started ::  1909-09-21
+#has_/time_/started ::  1972-04-27 
+#has_/created_/quote :: Capitalism is a Refinement from Feudalism just as Feudalism is a Refinement from Slavery. Capitalism is but the Gentleman's Method of Slavery. 
+
 ## #has_/text_of_/abstract 
 
-> Francis **Kwame Nkrumah** (21 September 1909 – 27 April 1972) was a Ghanaian politician, political theorist, and revolutionary. He served as Prime Minister of the Gold Coast from 1952 until 1957, when it gained independence from Britain. He was then the first Prime Minister and then the President of Ghana, from 1957 until 1966. An influential advocate of Pan-Africanism, Nkrumah was a founding member of the Organization of African Unity (OAU) and winner of the Lenin Peace Prize from the Soviet Union in 1962.
+> Francis **Kwame Nkrumah** (21 September 1909 – 27 April 1972) 
+> was a Ghanaian politician, political theorist, and revolutionary. 
+> He served as Prime Minister of the Gold Coast from 1952 until 1957, 
+> when it gained independence from Britain. 
+> 
+> He was then the first Prime Minister and then the President of [[../../../../Earth/Continent/Africa/Africa~West/Ghana|Ghana]], from 1957 until 1966. 
+> An influential advocate of Pan-Africanism, 
+> Nkrumah was a founding member of the Organization of African Unity (OAU) 
+> and winner of the Lenin Peace Prize from the Soviet Union in 1962.
 >
-> After twelve years abroad pursuing higher education, developing his political philosophy, and organizing with other diasporic pan-Africanists, Nkrumah returned to the Gold Coast to begin his political career as an advocate of national independence. He formed the Convention People's Party, which achieved rapid success through its unprecedented appeal to the common voter. He became Prime Minister in 1952 and retained the position when he led Ghana to achieve independence from Britain in 1957, a first in sub-saharan Africa at the time. In 1960, Ghanaians approved a new constitution and elected Nkrumah President.
+> After twelve years abroad pursuing higher education, developing his political philosophy, 
+> and organizing with other diasporic pan-Africanists, 
+> Nkrumah returned to the Gold Coast to begin his political career as an advocate of national independence. 
+> He formed the Convention People's Party, 
+> which achieved rapid success through its unprecedented appeal to the common voter. 
+> 
+> He became Prime Minister in 1952 and retained the position 
+> when he led Ghana to achieve independence from Britain in 1957, 
+> a first in sub-saharan Africa at the time. 
+> In 1960, Ghanaians approved a new constitution and elected Nkrumah President.
 >
-> His administration was primarily socialist as well as nationalist. It funded national industrial and energy projects, developed a strong national education system and promoted a pan-Africanist culture. Under Nkrumah, Ghana played a leading role in African international relations and the pan-africanist movement during Africa's decolonization period.
+> His administration was primarily socialist as well as nationalist. 
+> It funded national industrial and energy projects, 
+> developed a strong national education system and promoted a pan-Africanist culture. 
+> Under Nkrumah, Ghana played a leading role in African international relations 
+> and the pan-africanist movement during Africa's decolonization period.
 >
-> After multiple failed attempts on his life, coupled with increasingly difficult local economic conditions, Nkrumah's government became authoritarian in the 1960s, as he repressed political opposition and conducted elections that were neither free nor fair. In 1964, a constitutional amendment made Ghana a one-party state, with Nkrumah as president for life of both the nation and its party. He fostered a personality cult, forming ideological institutes and adopting the title of 'Osagyefo Dr.' Nkrumah was deposed in 1966 in a coup d'état by the National Liberation Council, under whose supervision the country's economy was privatized. Claims of CIA involvement in his overthrow have never been verified. Nkrumah lived the rest of his life in Guinea, where he was named honorary co-president.
+> After multiple failed attempts on his life, coupled with increasingly difficult local economic conditions, 
+> Nkrumah's government became authoritarian in the 1960s, 
+> as he repressed political opposition and conducted elections that were neither free nor fair. 
+> 
+> In 1964, a constitutional amendment made Ghana a one-party state, 
+> with Nkrumah as president for life of both the nation and its party. 
+> 
+> He fostered a personality cult, forming ideological institutes and adopting the title of 'Osagyefo Dr.' 
+> Nkrumah was deposed in 1966 in a coup d'état by the National Liberation Council, 
+> under whose supervision the country's economy was privatized. 
+> Claims of CIA involvement in his overthrow have never been verified. 
+> Nkrumah lived the rest of his life in Guinea, where he was named honorary co-president.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kwame%20Nkrumah)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kwame%20Nkrumah) 
+
+
+
 

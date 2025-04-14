@@ -23,6 +23,7 @@ publishDate:
 expiryDate: 
 aliases:
 - Ghana
+- Gold Coast
 - غانا
 - 加纳
 - Гана
@@ -472,13 +473,57 @@ Capital :: [[Accra]]
 
 ## #has_/text_of_/abstract 
 
-> **Ghana**, officially the Republic of Ghana, is a unitary country in West Africa. It lies adjacent to the Gulf of Guinea and the Atlantic Ocean to the south, sharing a border with Ivory Coast in the west, Burkina Faso in the north, and Togo in the east. Ghana covers an area of 239,567 km2 (92,497 sq mi), spanning diverse ecologies, from coastal savannas to tropical rainforests. With nearly 35 million inhabitants, Ghana is the second-most populous country in West Africa. The capital and largest city is Accra; other significant cities include Tema, Kumasi, Tamale, and Sekondi-Takoradi. In 1957 Ghana became the first colony in Sub-Saharan Africa to achieve sovereignty, under the leadership of Kwame Nkrumah. 
+> **Ghana**, officially the Republic of Ghana, is a unitary country in West Africa. 
+> It lies adjacent to the Gulf of Guinea and the [[../../../Ocean/Ocean~Atlantic|Atlantic Ocean]] to the south, sharing a border with 
+> - [[Cote_d'ivoire|Ivory Coast]] in the west, 
+> - [[Burkina_Faso|Burkina Faso]] in the north, and 
+> - [[Togo]] in the east. 
+> 
+> Ghana covers an area of 239,567 km2 (92,497 sq mi), 
+> spanning diverse ecologies, from coastal savannas to tropical rainforests. 
+> With nearly 35 million inhabitants, Ghana is the second-most populous country in West Africa. 
+> The capital and largest city is Accra; 
+> other significant cities include Tema, Kumasi, Tamale, and Sekondi-Takoradi. 
+> In 1957 Ghana became the first colony in Sub-Saharan Africa to achieve sovereignty, 
+> under the leadership of [[../../../../bio/People/Leaders/Modern_Leaders/Nkrumah,Kwame|Kwame Nkrumah]]. 
+> 
+> The earliest kingdoms to emerge in Ghana were Bonoman in the south 
+> and the Kingdom of Dagbon in the north, with Bonoman existing in the area during the 11th century. 
+> The Ashanti Empire and other Akan kingdoms in the south emerged over the centuries. 
+> Beginning in the 15th century, the Portuguese Empire, followed by other European powers, 
+> contested the area for trading rights, 
+> until the British ultimately established control of the coast by the 19th century. 
+> Following more than a century of colonial resistance, the current borders of the country took shape, 
+> encompassing four separate British colonial territories: Gold Coast, Ashanti, the Northern Territories, and British Togoland. 
+> 
+> These were unified as an independent dominion within the [[../../../../International/Commonwealth_of_Nations|Commonwealth of Nations]]. 
+> On 6 March 1957 Ghana became the first colony in Sub-Saharan Africa to achieve sovereignty - 
+> that is, gain independence. 
+> Under President Kwame Nkrumah, it became influential in decolonisation efforts 
+> and the Pan-African movement.
 >
-> The earliest kingdoms to emerge in Ghana were Bonoman in the south and the Kingdom of Dagbon in the north, with Bonoman existing in the area during the 11th century. The Ashanti Empire and other Akan kingdoms in the south emerged over the centuries. Beginning in the 15th century, the Portuguese Empire, followed by other European powers, contested the area for trading rights, until the British ultimately established control of the coast by the 19th century. Following more than a century of colonial resistance, the current borders of the country took shape, encompassing four separate British colonial territories: Gold Coast, Ashanti, the Northern Territories, and British Togoland. These were unified as an independent dominion within the Commonwealth of Nations. On 6 March 1957 Ghana became the first colony in Sub-Saharan Africa to achieve sovereignty - that is, gain independence. Under President Kwame Nkrumah, it became influential in decolonisation efforts and the Pan-African movement.
+> Ghana is a multi-ethnic country with diverse linguistic and religious groups; 
+> while the Akan are the largest ethnic group, they constitute a plurality. 
+> Most Ghanaians are Christians (71.3%); almost a fifth are Muslims; 
+> a tenth practice traditional faiths or report no religion. 
+> 
+> Ghana is a unitary constitutional democracy led by a 
+> president who is head of state and head of government. 
+> 
+> For  political stability in Africa, Ghana ranked 
+> - seventh in the 2012 Ibrahim Index of African Governance and 
+> - fifth in the 2012 Fragile States Index. 
+> 
+> It has maintained since 1993 one of the freest and most stable governments on the continent, 
+> and it performs relatively well in healthcare, economic growth, and human development, 
+> so that it has a significant influence in West Africa and Africa as a whole. 
+> 
+> Ghana is highly integrated in international affairs, 
+> being a founding member of the Non-Aligned Movement and the [[../../../../International/African_Union|African Union]], 
+> and a member of the Economic Community of West African States, the Group of 24 
+> and the Commonwealth of Nations.
 >
-> Ghana is a multi-ethnic country with diverse linguistic and religious groups; while the Akan are the largest ethnic group, they constitute a plurality. Most Ghanaians are Christians (71.3%); almost a fifth are Muslims; a tenth practice traditional faiths or report no religion. Ghana is a unitary constitutional democracy led by a president who is head of state and head of government. For  political stability in Africa, Ghana ranked seventh in the 2012 Ibrahim Index of African Governance and fifth in the 2012 Fragile States Index. It has maintained since 1993 one of the freest and most stable governments on the continent, and it performs relatively well in healthcare, economic growth, and human development, so that it has a significant influence in West Africa and Africa as a whole. Ghana is highly integrated in international affairs, being a founding member of the Non-Aligned Movement and the African Union, and a member of the Economic Community of West African States, the Group of 24 and the Commonwealth of Nations.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Ghana)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ghana) 
 
 ## Confidential Links & Embeds: 
 
