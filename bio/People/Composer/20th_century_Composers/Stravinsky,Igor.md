@@ -5,11 +5,18 @@ aliases:
 has_id_wikidata: Q7314
 ---
 
+#has_/time_/started :: 1882-06-17 
+#has_/time_/stopped :: 1971-04-06 
+#has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000 /60 /60 /24 /365.2425)` 
 
-## #has_/text_of_/abstract 
+## #has_/text_of_/abstract  
 
-> Igor Fyodorovich Stravinsky (17 June [O.S. 5 June] 1882 – 6 April 1971) was a Russian composer 
-> and conductor with French citizenship (from 1934) and American citizenship (from 1945). 
+
+> Igor Fyodorovich Stravinsky (17 June [O.S. 5 June] 1882 – 6 April 1971) 
+> was a Russian composer and conductor with French citizenship (from 1934) 
+> and American citizenship (from 1945). 
+> 
 > He is widely considered one of the most important and influential composers of the 20th century 
 > and a pivotal figure in modernist music.
 >
@@ -26,4 +33,7 @@ has_id_wikidata: Q7314
 > While many supporters were confused by Stravinsky's constant stylistic changes, later writers recognized his versatile language as important in the development of modernist music. Stravinsky's revolutionary ideas influenced composers as diverse as Aaron Copland, Philip Glass, Béla Bartók, and Pierre Boulez, who were all challenged to innovate music in areas beyond tonality, especially rhythm and musical form. In 1998, Time magazine listed Stravinsky as one of the 100 most influential people of the century. Stravinsky died of pulmonary edema on 6 April 1971 in New York City, having left six memoirs written with his friend and assistant Robert Craft, as well as an earlier autobiography and a series of lectures.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Igor%20Stravinsky)
+
+
+
 

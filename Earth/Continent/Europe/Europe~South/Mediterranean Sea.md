@@ -1,6 +1,365 @@
-﻿
+﻿---
+has_id_wikidata: Q4918
+drainage_basin:
+- "[[_Standards/WikiData/WD~Mediterranean Basin,72499]]"
+inflows:
+- '[[_Standards/WikiData/WD~Hérault,81773]]'
+- "[[_Standards/WikiData/WD~Manavgat River,153675]]"
+- "[[_Standards/WikiData/WD~Orontes River,188871]]"
+- '[[_Standards/WikiData/WD~Aude,214240]]'
+- "[[_Standards/WikiData/WD~Nahal Sorek,252254]]"
+- "[[_Standards/WikiData/WD~Köprüçay River,385473]]"
+- '[[_Standards/WikiData/WD~Alcantara,387849]]'
+- '[[_Standards/WikiData/WD~Agly,394311]]'
+- "[[_Standards/WikiData/WD~Aksu River,421630]]"
+- '[[_Standards/WikiData/WD~Cagne,432508]]'
+- "[[_Standards/WikiData/WD~Litani River,456415]]"
+- "[[_Standards/WikiData/WD~torrent de Pareis,514672]]"
+- '[[_Standards/WikiData/WD~Loup,549450]]'
+- '[[_Standards/WikiData/WD~Foix,574493]]'
+- '[[_Standards/WikiData/WD~Argens,644839]]'
+- '[[_Standards/WikiData/WD~Siagne,652329]]'
+- '[[_Standards/WikiData/WD~Huveaune,667130]]'
+- '[[_Standards/WikiData/WD~Göksu,732201]]'
+- '[[_Standards/WikiData/WD~Muga,740393]]'
+- '[[_Standards/WikiData/WD~Besòs,765483]]'
+- "[[_Standards/WikiData/WD~Dim River,770193]]"
+- "[[_Standards/WikiData/WD~Chelif River,772214]]"
+- '[[_Standards/WikiData/WD~Vinalopó,783114]]'
+- '[[_Standards/WikiData/WD~Irminio,854834]]'
+- "[[_Standards/WikiData/WD~Seyhan River,910975]]"
+- '[[_Standards/WikiData/WD~Q925665,925665]]'
+- '[[_Standards/WikiData/WD~Var,933979]]'
+- "[[_Standards/WikiData/WD~Girona River,952383]]"
+- "[[_Standards/WikiData/WD~Nahal Taninim,972150]]"
+- "[[_Standards/WikiData/WD~Ceyhan River,1057961]]"
+- '[[_Standards/WikiData/WD~Verdura,1061674]]'
+- '[[_Standards/WikiData/WD~Brague,1087647]]'
+- '[[_Standards/WikiData/WD~Ciane,1091382]]'
+- '[[_Standards/WikiData/WD~Gela,1110162]]'
+- "[[_Standards/WikiData/WD~Moulouya River,1146608]]"
+- '[[_Standards/WikiData/WD~Megalopotamos,1261060]]'
+- '[[_Standards/WikiData/WD~Lez,1333963]]'
+- '[[_Standards/WikiData/WD~Solenzara,1343438]]'
+- '[[_Standards/WikiData/WD~Torto,1369511]]'
+- '[[_Standards/WikiData/WD~Fango,1403910]]'
+- "[[_Standards/WikiData/WD~Nahal Me'arot Nature Reserve,1443478]]"
+- '[[_Standards/WikiData/WD~Liamone,1482537]]'
+- '[[_Standards/WikiData/WD~Têt,1529011]]'
+- '[[_Standards/WikiData/WD~Gravona,1544024]]'
+- '[[_Standards/WikiData/WD~Xanthe,1547533]]'
+- '[[_Standards/WikiData/WD~Grand-Rhône,1548342]]'
+- "[[_Standards/WikiData/WD~Guadalmina River,1552583]]"
+- '[[_Standards/WikiData/WD~Petit-Rhône,1655597]]'
+- '[[_Standards/WikiData/WD~Cenia,1859972]]'
+- '[[_Standards/WikiData/WD~Alexander,1962200]]'
+- "[[_Standards/WikiData/WD~Nahr al-Kalb,1963736]]"
+- '[[_Standards/WikiData/WD~Taravo,2006062]]'
+- '[[_Standards/WikiData/WD~Orb,2028483]]'
+- '[[_Standards/WikiData/WD~Gialias,2059947]]'
+- '[[_Standards/WikiData/WD~Tech,2063591]]'
+- '[[_Standards/WikiData/WD~Rizzanese,2064199]]'
+- '[[_Standards/WikiData/WD~Vidourle,2096448]]'
+- "[[_Standards/WikiData/WD~Rhummel River,2148305]]"
+- "[[_Standards/WikiData/WD~Riera de Calonge,2153518]]"
+- "[[_Standards/WikiData/WD~Riu Algar,2179056]]"
+- '[[_Standards/WikiData/WD~Ostriconi,2278116]]'
+- '[[_Standards/WikiData/WD~Ippari,2282391]]'
+- '[[_Standards/WikiData/WD~Berre,2332816]]'
+- "[[_Standards/WikiData/WD~Oued El Harrach,2377920]]"
+- "[[_Standards/WikiData/WD~Lakhish River,2469454]]"
+- "[[_Standards/WikiData/WD~Hadera Stream,2498901]]"
+- "[[_Standards/WikiData/WD~Nahr al-Kabir al-Janoubi,2553222]]"
+- "[[_Standards/WikiData/WD~Nahal Poleg,2578736]]"
+- "[[_Standards/WikiData/WD~Besor River,2668577]]"
+- "[[_Standards/WikiData/WD~Ga'aton River,2776903]]"
+- '[[_Standards/WikiData/WD~Agay,2826506]]'
+- '[[_Standards/WikiData/WD~Daró,2834239]]'
+- '[[_Standards/WikiData/WD~Aliso,2837143]]'
+- '[[_Standards/WikiData/WD~Baillaury,2879862]]'
+- '[[_Standards/WikiData/WD~Batailler,2890959]]'
+- "[[_Standards/WikiData/WD~Belcaire River,2894262]]"
+- "[[_Standards/WikiData/WD~Nahal Evtah,2897190]]"
+- "[[_Standards/WikiData/WD~Nahal Betzet,2908288]]"
+- "[[_Standards/WikiData/WD~Nahal Kziv,2910078]]"
+- "[[_Standards/WikiData/WD~Awali River,2914997]]"
+- '[[_Standards/WikiData/WD~Buggiu,2927717]]'
+- "[[_Standards/WikiData/WD~Béal de Jean Natte,2929379]]"
+- "[[_Standards/WikiData/WD~Canal de Caronte,2935987]]"
+- '[[_Standards/WikiData/WD~Chiuni,2964030]]'
+- '[[_Standards/WikiData/WD~Chíllar,2972116]]'
+- '[[_Standards/WikiData/WD~Dardo,3016019]]'
+- '[[_Standards/WikiData/WD~Eygoutier,3062773]]'
+- '[[_Standards/WikiData/WD~Figarella,3071610]]'
+- "[[_Standards/WikiData/WD~Fium'Albino,3073088]]"
+- "[[_Standards/WikiData/WD~Damour river,3073659]]"
+- '[[_Standards/WikiData/WD~Paillon,3088027]]'
+- '[[_Standards/WikiData/WD~Gapeau,3095247]]'
+- '[[_Standards/WikiData/WD~Giscle,3107754]]'
+- "[[_Standards/WikiData/WD~Grand Vallat,3114622]]"
+- '[[_Standards/WikiData/WD~Las,3218203]]'
+- '[[_Standards/WikiData/WD~Libron,3237955]]'
+- '[[_Standards/WikiData/WD~Liscia,3242471]]'
+- '[[_Standards/WikiData/WD~Liscu,3242475]]'
+- '[[_Standards/WikiData/WD~Prunelli,3247399]]'
+- '[[_Standards/WikiData/WD~Magnan,3277062]]'
+- '[[_Standards/WikiData/WD~Maravenne,3287526]]'
+- '[[_Standards/WikiData/WD~Massane,3297525]]'
+- "[[_Standards/WikiData/WD~Mazafran River,3303045]]"
+- "[[_Standards/WikiData/WD~Rambla de las Ovejas,3308361]]"
+- '[[_Standards/WikiData/WD~Q3335149,3335149]]'
+- '[[_Standards/WikiData/WD~Q3335152,3335152]]'
+- '[[_Standards/WikiData/WD~Q3335157,3335157]]'
+- '[[_Standards/WikiData/WD~Q3335162,3335162]]'
+- "[[_Standards/WikiData/WD~Beirut River,3335163]]"
+- '[[_Standards/WikiData/WD~Q3335160,3335160]]'
+- "[[_Standards/WikiData/WD~Ghadir River,3335165]]"
+- '[[_Standards/WikiData/WD~Olmeta,3351522]]'
+- '[[_Standards/WikiData/WD~Ortolo,3356827]]'
+- "[[_Standards/WikiData/WD~Oued Kiss,3358028]]"
+- "[[_Standards/WikiData/WD~Oued Miliane,3358045]]"
+- '[[_Standards/WikiData/WD~Pellegrin,3374487]]'
+- "[[_Standards/WikiData/WD~Gaià River,3390203]]"
+- '[[_Standards/WikiData/WD~Porto,3399339]]'
+- '[[_Standards/WikiData/WD~Préconil,3408826]]'
+- '[[_Standards/WikiData/WD~Regino,3423530]]'
+- '[[_Standards/WikiData/WD~Roubaud,3443073]]'
+- '[[_Standards/WikiData/WD~Sagone,3461438]]'
+- '[[_Standards/WikiData/WD~Salaison,3469558]]'
+- '[[_Standards/WikiData/WD~Salle,3469839]]'
+- '[[_Standards/WikiData/WD~Santu,3473009]]'
+- "[[_Standards/WikiData/WD~Seybouse River,3480994]]"
+- "[[_Standards/WikiData/WD~Berdan River,3515829]]"
+- "[[_Standards/WikiData/WD~U Guadu Grande,3547584]]"
+- '[[_Standards/WikiData/WD~Ventilegne,3555612]]'
+- "[[_Standards/WikiData/WD~Arena (river),3622135]]"
+- '[[_Standards/WikiData/WD~Carboj,3658276]]'
+- "[[_Standards/WikiData/WD~Fiumara di Modica,3746224]]"
+- "[[_Standards/WikiData/WD~Limonlu Çayı,3775655]]"
+- '[[_Standards/WikiData/WD~Mazaro,3849227]]'
+- '[[_Standards/WikiData/WD~Q3860013,3860013]]'
+- '[[_Standards/WikiData/WD~Naro,3870436]]'
+- '[[_Standards/WikiData/WD~Rifriscolaro,3935377]]'
+- "[[_Standards/WikiData/WD~Nachal Oren,3995568]]"
+- "[[_Standards/WikiData/WD~Nahal Ezov,4023598]]"
+- "[[_Standards/WikiData/WD~Nahal Giborim,4024328]]"
+- "[[_Standards/WikiData/WD~Nahal Galim,4024415]]"
+- "[[_Standards/WikiData/WD~Nahal Maharal,4025506]]"
+- "[[_Standards/WikiData/WD~Nahal Siach,4025762]]"
+- '[[_Standards/WikiData/WD~Q4077328,4077328]]'
+- "[[_Standards/WikiData/WD~Ieropotamos River,4198092]]"
+- "[[_Standards/WikiData/WD~Río de Oro,4786221]]"
+- '[[_Standards/WikiData/WD~Borrigo,4946582]]'
+- '[[_Standards/WikiData/WD~Carei,5038981]]'
+- "[[_Standards/WikiData/WD~Chrysochou River,5114755]]"
+- '[[_Standards/WikiData/WD~Gorbio,5584563]]'
+- '[[_Standards/WikiData/WD~Guadarranque,5613271]]'
+- "[[_Standards/WikiData/WD~Müftü River,6950447]]"
+- "[[_Standards/WikiData/WD~Naẖal Daliyya,7217998]]"
+- "[[_Standards/WikiData/WD~Wadi al-Ḥaṣā,7218661]]"
+- "[[_Standards/WikiData/WD~Amadorio River,8196976]]"
+- "[[_Standards/WikiData/WD~Canal de la Dreta de l'Ebre,8261622]]"
+- "[[_Standards/WikiData/WD~Canal de l'Esquerra de l'Ebre,8261624]]"
+- '[[_Standards/WikiData/WD~Carraixet,8339510]]'
+- "[[_Standards/WikiData/WD~Cérvol River,8353134]]"
+- '[[_Standards/WikiData/WD~Gorgos,8964745]]'
+- "[[_Standards/WikiData/WD~Montnegre River,9034584]]"
+- "[[_Standards/WikiData/WD~Veo River, Spain,9072129]]"
+- "[[_Standards/WikiData/WD~Vaca River,9072201]]"
+- "[[_Standards/WikiData/WD~Wadi al-Arish,10719024]]"
+- "[[_Standards/WikiData/WD~Riera de Riudecanyes,11945606]]"
+- "[[_Standards/WikiData/WD~Riu Bullent,11945685]]"
+- '[[_Standards/WikiData/WD~Q11952425,11952425]]'
+- '[[_Standards/WikiData/WD~Q12039619,12039619]]'
+- '[[_Standards/WikiData/WD~Q12039643,12039643]]'
+- "[[_Standards/WikiData/WD~Naẖal Bet Ha'Emeq,12039692]]"
+- '[[_Standards/WikiData/WD~Q12039978,12039978]]'
+- '[[_Standards/WikiData/WD~Q12040053,12040053]]'
+- "[[_Standards/WikiData/WD~Naẖal Silqa,12040133]]"
+- "[[_Standards/WikiData/WD~Naẖal Sha‘al,12040216]]"
+- '[[_Standards/WikiData/WD~Q12040243,12040243]]'
+- '[[_Standards/WikiData/WD~Cadoule,13534585]]'
+- '[[_Standards/WikiData/WD~Rhône,602]]'
+- '[[_Standards/WikiData/WD~Nile,3392]]'
+- '[[_Standards/WikiData/WD~Ebro,10965]]'
+- '[[_Standards/WikiData/WD~Júcar-Xúquer,14311]]'
+- '[[_Standards/WikiData/WD~Guadiaro,17952]]'
+- '[[_Standards/WikiData/WD~Guadalhorce,17956]]'
+- '[[_Standards/WikiData/WD~Guadalmedina,17973]]'
+- '[[_Standards/WikiData/WD~Guadalfeo,17993]]'
+- "[[_Standards/WikiData/WD~Adra River,17998]]"
+- '[[_Standards/WikiData/WD~Andarax,18030]]'
+- '[[_Standards/WikiData/WD~Almanzora,18041]]'
+- '[[_Standards/WikiData/WD~Segura,18612]]'
+- '[[_Standards/WikiData/WD~Turia,20118]]'
+- "[[_Standards/WikiData/WD~Mijares River,20142]]"
+- '[[_Standards/WikiData/WD~Salso,24358]]'
+- "[[_Standards/WikiData/WD~Francolí River,31334]]"
+- '[[_Standards/WikiData/WD~Llobregat,31424]]'
+- '[[_Standards/WikiData/WD~Tordera,31456]]'
+- '[[_Standards/WikiData/WD~Ter,31482]]'
+- '[[_Standards/WikiData/WD~Fluvià,31551]]'
+- '[[_Standards/WikiData/WD~Palancia,47508]]'
+- '[[_Standards/WikiData/WD~Serpis,54882]]'
+- '[[_Standards/WikiData/WD~Diarízos,14490881]]'
+- '[[_Standards/WikiData/WD~Fossan,16912387]]'
+- "[[_Standards/WikiData/WD~Riou de l'Argentière,16913799]]"
+- "[[_Standards/WikiData/WD~Mezitli River,16951738]]"
+- "[[_Standards/WikiData/WD~Grande Frayère River,17629331]]"
+- "[[_Standards/WikiData/WD~Rec de Treumal,18008673]]"
+- "[[_Standards/WikiData/WD~Ruisseau des Aygalades,18304284]]"
+- "[[_Standards/WikiData/WD~Eşen River,18690050]]"
+- "[[_Standards/WikiData/WD~Rec Madral,18696787]]"
+- "[[_Standards/WikiData/WD~Oued Laou River,19297812]]"
+- "[[_Standards/WikiData/WD~Fiume Liscia,20009967]]"
+- '[[_Standards/WikiData/WD~Q21013434,21013434]]'
+- '[[_Standards/WikiData/WD~Q21013435,21013435]]'
+- '[[_Standards/WikiData/WD~Q21013433,21013433]]'
+- '[[_Standards/WikiData/WD~Q21013438,21013438]]'
+- '[[_Standards/WikiData/WD~Q21013439,21013439]]'
+- '[[_Standards/WikiData/WD~Q21013436,21013436]]'
+- '[[_Standards/WikiData/WD~Q21013437,21013437]]'
+- '[[_Standards/WikiData/WD~Q21013442,21013442]]'
+- '[[_Standards/WikiData/WD~Q21013441,21013441]]'
+- "[[_Standards/WikiData/WD~Hamiz River,21013445]]"
+- "[[_Standards/WikiData/WD~Isser River,21013451]]"
+- '[[_Standards/WikiData/WD~Q21013452,21013452]]'
+- "[[_Standards/WikiData/WD~Reghaïa River,21013453]]"
+- '[[_Standards/WikiData/WD~Q21209833,21209833]]'
+- "[[_Standards/WikiData/WD~Antas River,21522755]]"
+- '[[_Standards/WikiData/WD~Q21589107,21589107]]'
+- "[[_Standards/WikiData/WD~Verde River,23977859]]"
+- "[[_Standards/WikiData/WD~Barranc dels Racons,23983088]]"
+- "[[_Standards/WikiData/WD~Aguas River, Almería,23990945]]"
+- '[[_Standards/WikiData/WD~Riberette,24084544]]'
+- '[[_Standards/WikiData/WD~Q28493770,28493770]]'
+- "[[_Standards/WikiData/WD~Rec d'en Massoni,28803843]]"
+- '[[_Standards/WikiData/WD~Q31197993,31197993]]'
+- "[[_Standards/WikiData/WD~Naẖal Yasaf,35498018]]"
+- "[[_Standards/WikiData/WD~Naẖal ‘Aliyya,35499294]]"
+instance_of:
+- "[[_Standards/WikiData/WD~drainage basin,166620]]"
+- "[[_Standards/WikiData/WD~mediterranean sea,986177]]"
+- "[[_Standards/WikiData/WD~adjacent sea,1973404]]"
+has_part_s_:
+- "[[_Standards/WikiData/WD~Sea of Crete,193149]]"
+- "[[_Standards/WikiData/WD~Mar Menor,1553876]]"
+- "[[_Standards/WikiData/WD~Euxeinos Pontos,1913944]]"
+- "[[_Standards/WikiData/WD~Eastern Mediterranean,3301962]]"
+- "[[_Standards/WikiData/WD~Western Mediterranean,6008933]]"
+- "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
+- "[[_Standards/WikiData/WD~Strait of Gibraltar,36124]]"
+country:
+- '[[_Standards/WikiData/WD~Palestine,219060]]'
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Albania,222]]'
+- '[[_Standards/WikiData/WD~Croatia,224]]'
+- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Monaco,235]]'
+- '[[_Standards/WikiData/WD~Malta,233]]'
+- '[[_Standards/WikiData/WD~Montenegro,236]]'
+part_of:
+- "[[_Standards/WikiData/WD~North Atlantic Ocean,350134]]"
+- "[[_Standards/WikiData/WD~Mediterranean Sea Area,111384107]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Limits of Oceans and Seas, 3rd edition,35541239]]"
+different_from: "[[_Standards/WikiData/WD~mediterranean sea,986177]]"
+lowest_point: "[[_Standards/WikiData/WD~Calypso Deep,1027846]]"
+shares_border_with:
+- "[[_Standards/WikiData/WD~Cordillera Penibética,2504871]]"
+- "[[_Standards/WikiData/WD~Júcar Basin,5793715]]"
+- "[[_Standards/WikiData/WD~North Africa,27381]]"
+- "[[_Standards/WikiData/WD~Almanzora basin,83412997]]"
+MeSH_tree_code:
+- Z01.756.592
+basin_country:
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Albania,222]]'
+- '[[_Standards/WikiData/WD~Croatia,224]]'
+- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Malta,233]]'
+- '[[_Standards/WikiData/WD~Montenegro,236]]'
+elevation_above_sea_level: 0
+residence_time_of_water:
+- 100
+- 80
+area: 2500000
+temperature: 18.1
+vertical_depth:
+- 1541
+- 5267
+salinity: 37.75
+volume_as_quantity: 3839000
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Ceuta%20banner.jpg"
+OmegaWiki_Defined_Meaning: 5095
+U_S_National_Archives_Identifier: 10046199
+Commons_gallery: "Mediterranean Sea"
+Commons_category: "Mediterranean Sea"
+bathymetry_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mar%20Mediterran%C3%A8a%20-%20Topografia.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mediterranean%20Sea%20Bathymetry%20map.svg"
+detail_map:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mediterranean%20Sea%20Bathymetry%20map.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mediterranean%20Sea%20political%20map-es.svg"
+Libris_URI: 64jlkdhq2gnbp3s
+Krugosvet_article: Earth_sciences/geografiya/SREDIZEMNOE_MORE.html
+subreddit:
+- MediterraneanSea
+Colon_Classification: SG--961
+coordinate_location: "Point(17.0 38.0)"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mediterranean%20Sea%20political%20map-en.svg"
+UMLS_CUI: C0025138
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS067-E-95811%20-%20View%20of%20Earth.jpg"
+aliases:
+- "Mediterranean Sea"
+---
+
+# [[Mediterranean_Sea]] 
+
 #has_/time_/destroyed/Ma :: -5.9
 #has_/time_/started/Ma :: -5.3 
+
+## #has_/text_of_/abstract 
 
 > The **Mediterranean Sea** is a sea connected to the Atlantic Ocean, 
 > surrounded by the Mediterranean Basin and almost completely enclosed by land: 
@@ -62,6 +421,33 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Mediterranean%20Sea)
 
 
+```leaflet
+id: Mediterranean_Sea
+minZoom: 2 
+defaultZoom: 4
+maxZoom: 18
+geojsonFolder: ./Mediterranean_Sea/
+markerFolder: ./Mediterranean_Sea/
+long: 17.20
+lat: 38.27
+```
+
+zoomFeatures: true
+38.267514581844445,17.209218327845512,,,,
+
+
+## All Contents
+
+```folderv
+```
+
+```ccard
+type: folder_brief_live
+style : card
+col: 2
+briefMax: 128
+noteOnly: true
+```
 
 
 ## Confidential Links & Embeds: 

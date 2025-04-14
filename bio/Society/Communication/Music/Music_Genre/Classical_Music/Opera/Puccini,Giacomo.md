@@ -35,6 +35,6 @@ Viele Kritiker bewerten seine Werke als trivial;
 Puccini gibt in seinen Interviews zu, dass er dem Publikum gefallen möchte. 
 
 Puccini hat [[../../../../../../People/Composer/Classic_Composers/Wagner,Richard]] für seine moderne Musik bewundert 
-und sich später auch für [[Stravinsky,Igor]] und [[Schönberg,Arnold]] interessiert. 
+und sich später auch für [[../../../../../../People/Composer/20th_century_Composers/Stravinsky,Igor]] und [[Schönberg,Arnold]] interessiert. 
 
 
