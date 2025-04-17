@@ -2,31 +2,31 @@
 has_id_wikidata: Q482
 model_item:
 - '[[_Standards/WikiData/WD~tanka,258331]]'
-- "[[_Standards/WikiData/WD~Lancelot, the Knight of the Cart,520372]]"
-- "[[_Standards/WikiData/WD~Olympic Odes,18146776]]"
-- "[[_Standards/WikiData/WD~Nemean Odes,27214182]]"
-- "[[_Standards/WikiData/WD~Picking on Peach Blossom,44590028]]"
+- "[[_Standards/WikiData/WD~Lancelot,_the_Knight_of_the_Cart,520372]]"
+- "[[_Standards/WikiData/WD~Olympic_Odes,18146776]]"
+- "[[_Standards/WikiData/WD~Nemean_Odes,27214182]]"
+- "[[_Standards/WikiData/WD~Picking_on_Peach_Blossom,44590028]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8,124737635]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~dichter,1293108]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
 instance_of:
-- "[[_Standards/WikiData/WD~literary form,4263830]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~literary_form,4263830]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 different_from: '[[_Standards/WikiData/WD~poem,5185279]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of poetry,7112700]]"
-subclass_of: "[[_Standards/WikiData/WD~literary work,7725634]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_poetry,7112700]]"
+subclass_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Poetry,11774659]]'
-permanent_duplicated_item: "[[_Standards/WikiData/WD~poetic art,12532433]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Poetry of different cultures and languages,14444553]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~poetic_art,12532433]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Poetry_of_different_cultures_and_languages,14444553]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q87902966,87902966]]'
 Provenio_UUID: 22c3091c-a78b-4aa8-a8d0-ecd3b6915ffd
 IAB_code: 49

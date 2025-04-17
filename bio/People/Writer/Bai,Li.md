@@ -1,18 +1,18 @@
 ---
 has_id_wikidata: Q7071
 significant_person:
-- "[[_Standards/WikiData/WD~Wang Wei,313605]]"
-- "[[_Standards/WikiData/WD~Wang Wei,15934970]]"
+- "[[_Standards/WikiData/WD~Wang_Wei,313605]]"
+- "[[_Standards/WikiData/WD~Wang_Wei,15934970]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~New Book of Tang,386073]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Old Book of Tang,1146980]]"
-- "[[_Standards/WikiData/WD~Wanxiaotang Huazhuan,15904701]]"
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
+- "[[_Standards/WikiData/WD~New_Book_of_Tang,386073]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Old_Book_of_Tang,1146980]]"
+- "[[_Standards/WikiData/WD~Wanxiaotang_Huazhuan,15904701]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
 place_of_birth:
 - '[[_Standards/WikiData/WD~Suyab,413452]]'
 - '[[_Standards/WikiData/WD~Jiangyou,1359300]]'
@@ -23,23 +23,23 @@ occupation:
 - '[[_Standards/WikiData/WD~calligrapher,3303330]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
-place_of_death: "[[_Standards/WikiData/WD~Dangtu County,1159662]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~The Palace Museum,2047427]]"
-part_of: "[[_Standards/WikiData/WD~Eight Immortals of the Wine Cup,3235363]]"
+place_of_death: "[[_Standards/WikiData/WD~Dangtu_County,1159662]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~The_Palace_Museum,2047427]]"
+part_of: "[[_Standards/WikiData/WD~Eight_Immortals_of_the_Wine_Cup,3235363]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Quiet Night Thought,4391398]]"
-- "[[_Standards/WikiData/WD~Mountain Q&A,10823450]]"
+- "[[_Standards/WikiData/WD~Quiet_Night_Thought,4391398]]"
+- "[[_Standards/WikiData/WD~Mountain_Q&A,10823450]]"
 - '[[_Standards/WikiData/WD~Q10842233,10842233]]'
-- "[[_Standards/WikiData/WD~Departing from Baidi in the Morning,10868584]]"
-- "[[_Standards/WikiData/WD~Bringing in the Wine,14918677]]"
+- "[[_Standards/WikiData/WD~Departing_from_Baidi_in_the_Morning,10868584]]"
+- "[[_Standards/WikiData/WD~Bringing_in_the_Wine,14918677]]"
 - '[[_Standards/WikiData/WD~Q17367385,17367385]]'
-- "[[_Standards/WikiData/WD~A Farewell to a Friend,18909613]]"
-- "[[_Standards/WikiData/WD~A Farewell to Meng Haoran on his Way to Yangzhou,18909728]]"
+- "[[_Standards/WikiData/WD~A_Farewell_to_a_Friend,18909613]]"
+- "[[_Standards/WikiData/WD~A_Farewell_to_Meng_Haoran_on_his_Way_to_Yangzhou,18909728]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_burial: "[[_Standards/WikiData/WD~Tomb of Li Bai,11097506]]"
-family: "[[_Standards/WikiData/WD~Li clan of Longxi,15914504]]"
-father: "[[_Standards/WikiData/WD~Li Ke,21198558]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+place_of_burial: "[[_Standards/WikiData/WD~Tomb_of_Li_Bai,11097506]]"
+family: "[[_Standards/WikiData/WD~Li_clan_of_Longxi,15914504]]"
+father: "[[_Standards/WikiData/WD~Li_Ke,21198558]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 given_name:
 - '[[_Standards/WikiData/WD~Bai,94538856]]'
 - '[[_Standards/WikiData/WD~Tàibái,124421967]]'
@@ -50,7 +50,7 @@ date_of_death: "0762-12-04"
 writing_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Chinese,7850]]'
-- "[[_Standards/WikiData/WD~Classical Chinese,37041]]"
+- "[[_Standards/WikiData/WD~Classical_Chinese,37041]]"
 work_location: '[[_Standards/WikiData/WD~China,29520]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_Creator_page: "Li Bai"

@@ -46,9 +46,9 @@ Unicode_character:
 U_S_National_Archives_Identifier: 10647441
 natural_product_of_taxon:
 - '[[_Standards/WikiData/WD~Malus,104819]]'
-- "[[_Standards/WikiData/WD~Malus domestica,18674606]]"
+- "[[_Standards/WikiData/WD~Malus_domestica,18674606]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~fruit of Maloideae,145150]]"
+- "[[_Standards/WikiData/WD~fruit_of_Maloideae,145150]]"
 - '[[_Standards/WikiData/WD~fruit,3314483]]'
 - '[[_Standards/WikiData/WD~pome,41274]]'
 different_from:
@@ -64,14 +64,14 @@ color:
 - '[[_Standards/WikiData/WD~green,3133]]'
 - '[[_Standards/WikiData/WD~red,3142]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-named_after: "[[_Standards/WikiData/WD~forbidden fruit,1192941]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+named_after: "[[_Standards/WikiData/WD~forbidden_fruit,1192941]]"
 sectional_view:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Antoonovka.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Gunilla2008horcut.JPG"

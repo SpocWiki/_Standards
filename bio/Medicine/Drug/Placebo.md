@@ -1,16 +1,16 @@
 ﻿---
 has_id_wikidata: Q269829
 instance_of:
-- "[[_Standards/WikiData/WD~medical treatment,179661]]"
-- "[[_Standards/WikiData/WD~scientific control,367359]]"
+- "[[_Standards/WikiData/WD~medical_treatment,179661]]"
+- "[[_Standards/WikiData/WD~scientific_control,367359]]"
 - '[[_Standards/WikiData/WD~medication,12140]]'
 different_from: '[[_Standards/WikiData/WD~Placebo,344161]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~medical procedure,796194]]"
+- "[[_Standards/WikiData/WD~medical_procedure,796194]]"
 - '[[_Standards/WikiData/WD~simulacrum,1412596]]'
-has_effect: "[[_Standards/WikiData/WD~placebo effect,16303139]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~sham comparator,107295177]]"
-has_use: "[[_Standards/WikiData/WD~double-blind clinical trial,108483352]]"
+has_effect: "[[_Standards/WikiData/WD~placebo_effect,16303139]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~sham_comparator,107295177]]"
+has_use: "[[_Standards/WikiData/WD~double-blind_clinical_trial,108483352]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/%22Miracle%20Cure%21%22%20Health%20Fraud%20Scams%20%288528312890%29.jpg"
 MeSH_tree_code:
 - D26.660

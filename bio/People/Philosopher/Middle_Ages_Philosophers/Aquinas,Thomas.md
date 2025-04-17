@@ -7,20 +7,20 @@ aliases:
 has_id_wikidata: Q9438
 influenced_by:
 - '[[_Standards/WikiData/WD~Boethius,102851]]'
-- "[[_Standards/WikiData/WD~Moshe ben Maimon,127398]]"
+- "[[_Standards/WikiData/WD~Moshe_ben_Maimon,127398]]"
 - '[[_Standards/WikiData/WD~Al-Kindi,179759]]'
-- "[[_Standards/WikiData/WD~Johannes Scotus Eriugena,184500]]"
+- "[[_Standards/WikiData/WD~Johannes_Scotus_Eriugena,184500]]"
 - '[[_Standards/WikiData/WD~Plato,859]]'
 - '[[_Standards/WikiData/WD~Aristotle,868]]'
 - '[[_Standards/WikiData/WD~Cicero,1541]]'
 - '[[_Standards/WikiData/WD~Avicenna,8011]]'
-- "[[_Standards/WikiData/WD~Augustine of Hippo,8018]]"
-- "[[_Standards/WikiData/WD~Paul the Apostle,9200]]"
+- "[[_Standards/WikiData/WD~Augustine_of_Hippo,8018]]"
+- "[[_Standards/WikiData/WD~Paul_the_Apostle,9200]]"
 - '[[_Standards/WikiData/WD~Al-Ghazali,9546]]'
 - '[[_Standards/WikiData/WD~Averroes,39837]]'
-- "[[_Standards/WikiData/WD~Gregory I,42827]]"
-- "[[_Standards/WikiData/WD~Anselm of Canterbury,43939]]"
-- "[[_Standards/WikiData/WD~Albertus Magnus,60059]]"
+- "[[_Standards/WikiData/WD~Gregory_I,42827]]"
+- "[[_Standards/WikiData/WD~Anselm_of_Canterbury,43939]]"
+- "[[_Standards/WikiData/WD~Albertus_Magnus,60059]]"
 residence:
 - '[[_Standards/WikiData/WD~Aquino,116415]]'
 place_of_birth: '[[_Standards/WikiData/WD~Roccasecca,117211]]'
@@ -28,99 +28,99 @@ occupation:
 - '[[_Standards/WikiData/WD~professor,121594]]'
 - '[[_Standards/WikiData/WD~friar,548320]]'
 - '[[_Standards/WikiData/WD~theologian,1234713]]'
-- "[[_Standards/WikiData/WD~Latin Catholic priest,1469535]]"
+- "[[_Standards/WikiData/WD~Latin_Catholic_priest,1469535]]"
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- "[[_Standards/WikiData/WD~Catholic theologian,98833890]]"
-- "[[_Standards/WikiData/WD~theology teacher,127327158]]"
+- "[[_Standards/WikiData/WD~Catholic_theologian,98833890]]"
+- "[[_Standards/WikiData/WD~theology_teacher,127327158]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 position_held: '[[_Standards/WikiData/WD~professor,121594]]'
-religious_order: "[[_Standards/WikiData/WD~Dominican Order,131479]]"
+religious_order: "[[_Standards/WikiData/WD~Dominican_Order,131479]]"
 domain_of_saint_or_deity:
 - '[[_Standards/WikiData/WD~learning,133500]]'
 - '[[_Standards/WikiData/WD~chastity,207894]]'
 - '[[_Standards/WikiData/WD~apologist,619553]]'
 - '[[_Standards/WikiData/WD~theologian,1234713]]'
-- "[[_Standards/WikiData/WD~university teacher,1622272]]"
+- "[[_Standards/WikiData/WD~university_teacher,1622272]]"
 - '[[_Standards/WikiData/WD~Aquino,30022281]]'
 - '[[_Standards/WikiData/WD~Belcastro,30022685]]'
-- "[[_Standards/WikiData/WD~theology teacher,127327158]]"
+- "[[_Standards/WikiData/WD~theology_teacher,127327158]]"
 - '[[_Standards/WikiData/WD~student,48282]]'
-honorific_prefix: "[[_Standards/WikiData/WD~Doctor of the Church,192499]]"
-noble_title: "[[_Standards/WikiData/WD~Doctor of the Church,192499]]"
+honorific_prefix: "[[_Standards/WikiData/WD~Doctor_of_the_Church,192499]]"
+noble_title: "[[_Standards/WikiData/WD~Doctor_of_the_Church,192499]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~Victoria and Albert Museum,213322]]"
-- "[[_Standards/WikiData/WD~J. Paul Getty Museum,731126]]"
-- "[[_Standards/WikiData/WD~Museum De Lakenhal,2098586]]"
-- "[[_Standards/WikiData/WD~Huis Bergh,99370641]]"
+- "[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]"
+- "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
+- "[[_Standards/WikiData/WD~Museum_De_Lakenhal,2098586]]"
+- "[[_Standards/WikiData/WD~Huis_Bergh,99370641]]"
 movement:
 - '[[_Standards/WikiData/WD~Thomism,328945]]'
-- "[[_Standards/WikiData/WD~just war theory,847198]]"
+- "[[_Standards/WikiData/WD~just_war_theory,847198]]"
 - '[[_Standards/WikiData/WD~scholasticism,41679]]'
 notable_work:
-- "[[_Standards/WikiData/WD~De regimine principum,331046]]"
-- "[[_Standards/WikiData/WD~Summa contra Gentiles,604274]]"
-- "[[_Standards/WikiData/WD~Summa Theologica,653871]]"
-- "[[_Standards/WikiData/WD~Quinque viae,1192931]]"
+- "[[_Standards/WikiData/WD~De_regimine_principum,331046]]"
+- "[[_Standards/WikiData/WD~Summa_contra_Gentiles,604274]]"
+- "[[_Standards/WikiData/WD~Summa_Theologica,653871]]"
+- "[[_Standards/WikiData/WD~Quinque_viae,1192931]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Great Encyclopedia of Cyril and Methodius,4091875]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Concise Literary Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-- "[[_Standards/WikiData/WD~Dictionary of Biblical Criticism and Interpretation (2007 ed.),21065550]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]"
+- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Catholic Social Thought, Social Science, and Social Policy,125025946]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Catholic_Social_Thought,_Social_Science,_and_Social_Policy,125025946]]"
 student:
-- "[[_Standards/WikiData/WD~Henry Bate of Malines,676267]]"
-- "[[_Standards/WikiData/WD~Remigio dei Girolami,1636083]]"
+- "[[_Standards/WikiData/WD~Henry_Bate_of_Malines,676267]]"
+- "[[_Standards/WikiData/WD~Remigio_dei_Girolami,1636083]]"
 educated_at:
-- "[[_Standards/WikiData/WD~University of Naples Federico II,691851]]"
-- "[[_Standards/WikiData/WD~University of Paris,2845896]]"
+- "[[_Standards/WikiData/WD~University_of_Naples_Federico_II,691851]]"
+- "[[_Standards/WikiData/WD~University_of_Paris,2845896]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~Catholic theology,1367940]]"
+- "[[_Standards/WikiData/WD~Catholic_theology,1367940]]"
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 - '[[_Standards/WikiData/WD~theology,34178]]'
-place_of_death: "[[_Standards/WikiData/WD~Fossanova Abbey,1775258]]"
+place_of_death: "[[_Standards/WikiData/WD~Fossanova_Abbey,1775258]]"
 employer:
-- "[[_Standards/WikiData/WD~University of Paris,2845896]]"
-list_of_works: "[[_Standards/WikiData/WD~Thomas Aquinas bibliography,3256335]]"
+- "[[_Standards/WikiData/WD~University_of_Paris,2845896]]"
+list_of_works: "[[_Standards/WikiData/WD~Thomas_Aquinas_bibliography,3256335]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 given_name: '[[_Standards/WikiData/WD~Tommaso,15654302]]'
 different_from:
 - '[[_Standards/WikiData/WD~Pseudo-Aquinas,18925150]]'
-father: "[[_Standards/WikiData/WD~Landulphe d'Aquino,21283581]]"
+father: "[[_Standards/WikiData/WD~Landulphe_d'Aquino,21283581]]"
 languages_spoken_written_or_signed:
-- "[[_Standards/WikiData/WD~Medieval Italian,21550769]]"
+- "[[_Standards/WikiData/WD~Medieval_Italian,21550769]]"
 - '[[_Standards/WikiData/WD~Latin,397]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 place_of_burial:
-- "[[_Standards/WikiData/WD~Church of the Jacobins,96743264]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Christian Hymns,100975219]]"
-canonization_status: "[[_Standards/WikiData/WD~canonized saint,123110154]]"
+- "[[_Standards/WikiData/WD~Church_of_the_Jacobins,96743264]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]"
+canonization_status: "[[_Standards/WikiData/WD~canonized_saint,123110154]]"
 ISNI: 0000000453792101
 feast_day:
 - '[[_Standards/WikiData/WD~Catholicism,1841]]'
-- "[[_Standards/WikiData/WD~January 28,2285]]"
-- "[[_Standards/WikiData/WD~March 7,2394]]"
+- "[[_Standards/WikiData/WD~January_28,2285]]"
+- "[[_Standards/WikiData/WD~March_7,2394]]"
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 instance_of:
 - '[[_Standards/WikiData/WD~human,5]]'
-named_after: "[[_Standards/WikiData/WD~Thomas the Apostle,43669]]"
+named_after: "[[_Standards/WikiData/WD~Thomas_the_Apostle,43669]]"
 lifestyle: '[[_Standards/WikiData/WD~mysticism,45996]]'
-student_of: "[[_Standards/WikiData/WD~Albertus Magnus,60059]]"
+student_of: "[[_Standards/WikiData/WD~Albertus_Magnus,60059]]"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Couvent%20des%20Jacobins%20de%20Toulouse%20-%20Autel%20de%20St%20Thomas%20d%27Aquin.jpg"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/EpigrafeTommasoAquinoFossanova.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/St-thomas-aquinas.jpg"

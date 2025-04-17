@@ -1,41 +1,41 @@
 ---
 has_id_wikidata: Q11035
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Johann Philipp Reis,77124]]"
-- "[[_Standards/WikiData/WD~Antonio Meucci,273314]]"
-- "[[_Standards/WikiData/WD~Elisha Gray,318449]]"
-- "[[_Standards/WikiData/WD~Alexander Graham Bell,34286]]"
+- "[[_Standards/WikiData/WD~Johann_Philipp_Reis,77124]]"
+- "[[_Standards/WikiData/WD~Antonio_Meucci,273314]]"
+- "[[_Standards/WikiData/WD~Elisha_Gray,318449]]"
+- "[[_Standards/WikiData/WD~Alexander_Graham_Bell,34286]]"
 has_use: '[[_Standards/WikiData/WD~dialogue,131395]]'
 different_from:
 - '[[_Standards/WikiData/WD~phone,202064]]'
 - '[[_Standards/WikiData/WD~telephone,399448]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~home appliance,212920]]"
-- "[[_Standards/WikiData/WD~consumer electronics,581105]]"
+- "[[_Standards/WikiData/WD~home_appliance,212920]]"
+- "[[_Standards/WikiData/WD~consumer_electronics,581105]]"
 - '[[_Standards/WikiData/WD~product,2424752]]'
-- "[[_Standards/WikiData/WD~electrical appliance,2425052]]"
-- "[[_Standards/WikiData/WD~telecommunications equipment,107325483]]"
+- "[[_Standards/WikiData/WD~electrical_appliance,2425052]]"
+- "[[_Standards/WikiData/WD~telecommunications_equipment,107325483]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Enciclopedia universal ilustrada europeo-americana (1908-1930),115627942]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo-americana_(1908-1930),115627942]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~process engineering device,620681]]"
-- "[[_Standards/WikiData/WD~telecommunications network,1068715]]"
+- "[[_Standards/WikiData/WD~process_engineering_device,620681]]"
+- "[[_Standards/WikiData/WD~telecommunications_network,1068715]]"
 produced_sound: '[[_Standards/WikiData/WD~ringtone,690856]]'
 instance_of:
 - '[[_Standards/WikiData/WD~product,2424752]]'
-- "[[_Standards/WikiData/WD~product type,128889633]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the telephone,5870934]]"
+- "[[_Standards/WikiData/WD~product_type,128889633]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_telephone,5870934]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110377305,110377305]]'
 UMLS_CUI: C0039019
 time_of_discovery_or_invention: "1876"

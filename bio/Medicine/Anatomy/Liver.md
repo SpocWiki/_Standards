@@ -4,38 +4,38 @@ TA98_Latin_term: hepar
 Commons_gallery: Liver
 Krugosvet_article: nauka_i_tehnika/biologiya/PECHEN.html
 innervates:
-- "[[_Standards/WikiData/WD~vagus nerve,190140]]"
-- "[[_Standards/WikiData/WD~celiac ganglia,897760]]"
+- "[[_Standards/WikiData/WD~vagus_nerve,190140]]"
+- "[[_Standards/WikiData/WD~celiac_ganglia,897760]]"
 innervated_by:
-- "[[_Standards/WikiData/WD~vagus nerve,190140]]"
-- "[[_Standards/WikiData/WD~celiac ganglia,897760]]"
-arterial_supply: "[[_Standards/WikiData/WD~hepatic artery proper,542166]]"
+- "[[_Standards/WikiData/WD~vagus_nerve,190140]]"
+- "[[_Standards/WikiData/WD~celiac_ganglia,897760]]"
+arterial_supply: "[[_Standards/WikiData/WD~hepatic_artery_proper,542166]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Gray's Anatomy (20th edition),19558994]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
 studied_in:
 - '[[_Standards/WikiData/WD~hepatology,668064]]'
 - '[[_Standards/WikiData/WD~anatomy,514]]'
-anatomical_location: "[[_Standards/WikiData/WD~abdominal cavity,682466]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~liver as food,1470283]]"
-venous_drainage: "[[_Standards/WikiData/WD~hepatic vein,1578686]]"
+anatomical_location: "[[_Standards/WikiData/WD~abdominal_cavity,682466]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~liver_as_food,1470283]]"
+venous_drainage: "[[_Standards/WikiData/WD~hepatic_vein,1578686]]"
 follows: '[[_Standards/WikiData/WD~foregut,2533722]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~accessory digestive gland,4672532]]"
-- "[[_Standards/WikiData/WD~lobular organ,28846466]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-- "[[_Standards/WikiData/WD~glandular organ,126131070]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~liver development,11878517]]"
-lymphatic_drainage: "[[_Standards/WikiData/WD~Hepatic lymph nodes,17077735]]"
+- "[[_Standards/WikiData/WD~accessory_digestive_gland,4672532]]"
+- "[[_Standards/WikiData/WD~lobular_organ,28846466]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+- "[[_Standards/WikiData/WD~glandular_organ,126131070]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~liver_development,11878517]]"
+lymphatic_drainage: "[[_Standards/WikiData/WD~Hepatic_lymph_nodes,17077735]]"
 instance_of:
-- "[[_Standards/WikiData/WD~organ type,103812529]]"
-- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+- "[[_Standards/WikiData/WD~organ_type,103812529]]"
+- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 Wolfram_Language_entity_code: "Entity[\"AnatomicalStructure\", \"Liver\"]"
 Iconclass_notation: 31A22321
-part_of: "[[_Standards/WikiData/WD~human digestive system,9649]]"
+part_of: "[[_Standards/WikiData/WD~human_digestive_system,9649]]"
 OmegaWiki_Defined_Meaning: 5476
 Commons_category: Livers
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leber%20Schaf.jpg"

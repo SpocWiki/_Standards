@@ -1,26 +1,26 @@
 ﻿---
 has_id_wikidata: Q11081
-named_after: "[[_Standards/WikiData/WD~Alois Alzheimer,70530]]"
+named_after: "[[_Standards/WikiData/WD~Alois_Alzheimer,70530]]"
 symptoms_and_signs:
 - '[[_Standards/WikiData/WD~dementia,83030]]'
-- "[[_Standards/WikiData/WD~confusion with time and space,30141302]]"
-- "[[_Standards/WikiData/WD~challenges in planning or solving problems,30141343]]"
-- "[[_Standards/WikiData/WD~difficulty completing familiar tasks at home, at work or at leisure,30141359]]"
-- "[[_Standards/WikiData/WD~problems with words in speaking or writing,30141385]]"
-- "[[_Standards/WikiData/WD~decreased or poor judgment,30141399]]"
-- "[[_Standards/WikiData/WD~changes in mood and personality,30141414]]"
-- "[[_Standards/WikiData/WD~withdrawal from work or social activities,30141432]]"
-- "[[_Standards/WikiData/WD~trouble understanding visual images and spatial relationships,30141517]]"
-- "[[_Standards/WikiData/WD~misplacing things and losing the ability to retrace steps,30141588]]"
-- "[[_Standards/WikiData/WD~memory loss that disrupts daily life,30141616]]"
+- "[[_Standards/WikiData/WD~confusion_with_time_and_space,30141302]]"
+- "[[_Standards/WikiData/WD~challenges_in_planning_or_solving_problems,30141343]]"
+- "[[_Standards/WikiData/WD~difficulty_completing_familiar_tasks_at_home,_at_work_or_at_leisure,30141359]]"
+- "[[_Standards/WikiData/WD~problems_with_words_in_speaking_or_writing,30141385]]"
+- "[[_Standards/WikiData/WD~decreased_or_poor_judgment,30141399]]"
+- "[[_Standards/WikiData/WD~changes_in_mood_and_personality,30141414]]"
+- "[[_Standards/WikiData/WD~withdrawal_from_work_or_social_activities,30141432]]"
+- "[[_Standards/WikiData/WD~trouble_understanding_visual_images_and_spatial_relationships,30141517]]"
+- "[[_Standards/WikiData/WD~misplacing_things_and_losing_the_ability_to_retrace_steps,30141588]]"
+- "[[_Standards/WikiData/WD~memory_loss_that_disrupts_daily_life,30141616]]"
 health_specialty: '[[_Standards/WikiData/WD~neurology,83042]]'
 medical_examination:
-- "[[_Standards/WikiData/WD~magnetic resonance imaging,161238]]"
-- "[[_Standards/WikiData/WD~medical history,188952]]"
-- "[[_Standards/WikiData/WD~genetic testing,285223]]"
-- "[[_Standards/WikiData/WD~psychological test,873512]]"
-- "[[_Standards/WikiData/WD~neurological diagnostic techniques,64830627]]"
-different_from: "[[_Standards/WikiData/WD~Asperger syndrome,161790]]"
+- "[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]"
+- "[[_Standards/WikiData/WD~medical_history,188952]]"
+- "[[_Standards/WikiData/WD~genetic_testing,285223]]"
+- "[[_Standards/WikiData/WD~psychological_test,873512]]"
+- "[[_Standards/WikiData/WD~neurological_diagnostic_techniques,64830627]]"
+different_from: "[[_Standards/WikiData/WD~Asperger_syndrome,161790]]"
 drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~quetiapine,408535]]'
 - '[[_Standards/WikiData/WD~aripiprazole,411188]]'
@@ -126,12 +126,12 @@ genetic_association:
 - '[[_Standards/WikiData/WD~SLC8A1-AS1,18062755]]'
 - '[[_Standards/WikiData/WD~PPIAP59,20787111]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~aging-associated disease,438962]]"
+- "[[_Standards/WikiData/WD~aging-associated_disease,438962]]"
 - '[[_Standards/WikiData/WD~tauopathy,2397106]]'
 - '[[_Standards/WikiData/WD~disease,12136]]'
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-- "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+- "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 UMLS_CUI: C0002395
 MeSH_tree_code:
 - C10.228.140.380.100
@@ -142,7 +142,7 @@ ICD_10_CM:
 - G30
 Krugosvet_article: medicina/ALTSGEMERA_BOLEZN.html
 has_cause: '[[_Standards/WikiData/WD~unknown,24238356]]'
-instance_of: "[[_Standards/WikiData/WD~class of disease,112193867]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
 spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%AC%D6%81%D5%B0%D5%A1%D5%B5%D5%B4%D5%A5%D6%80%D5%AB%20%D5%B0%D5%AB%D5%BE%D5%A1%D5%B6%D5%A4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Alzheimer%27s%20disease%29.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer%27s%20Disease.ogg"

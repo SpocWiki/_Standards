@@ -3,94 +3,94 @@ aliases:
 - "Ludwig Wittgenstein"
 has_id_wikidata: Q9391
 name_in_native_language: "Ludwig Josef Johann Wittgenstein"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ludwig Wittgenstein,13290949]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ludwig_Wittgenstein,13290949]]"
 given_name: '[[_Standards/WikiData/WD~Ludwig,14159020]]'
 occupation:
 - '[[_Standards/WikiData/WD~logician,14565331]]'
 - '[[_Standards/WikiData/WD~epistemologist,15632482]]'
-- "[[_Standards/WikiData/WD~architectural theoretician,17391659]]"
-- "[[_Standards/WikiData/WD~philosopher of language,18930236]]"
+- "[[_Standards/WikiData/WD~architectural_theoretician,17391659]]"
+- "[[_Standards/WikiData/WD~philosopher_of_language,18930236]]"
 - '[[_Standards/WikiData/WD~professor,121594]]'
 - '[[_Standards/WikiData/WD~mathematician,170790]]'
 - '[[_Standards/WikiData/WD~aphorist,3606216]]'
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
 - '[[_Standards/WikiData/WD~teacher,37226]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 11,124355862]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
 - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
 educated_at:
-- "[[_Standards/WikiData/WD~Bundesrealgymnasium Linz Fadingerstraße,18734905]]"
-- "[[_Standards/WikiData/WD~University of Cambridge,35794]]"
-- "[[_Standards/WikiData/WD~Trinity College,332342]]"
-- "[[_Standards/WikiData/WD~Victoria University of Manchester,867530]]"
-- "[[_Standards/WikiData/WD~Technische Universität Berlin,51985]]"
+- "[[_Standards/WikiData/WD~Bundesrealgymnasium_Linz_Fadingerstraße,18734905]]"
+- "[[_Standards/WikiData/WD~University_of_Cambridge,35794]]"
+- "[[_Standards/WikiData/WD~Trinity_College,332342]]"
+- "[[_Standards/WikiData/WD~Victoria_University_of_Manchester,867530]]"
+- "[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]"
 mother: '[[_Standards/WikiData/WD~Q21549619,21549619]]'
 family_name: '[[_Standards/WikiData/WD~Wittgenstein,62029472]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 sibling:
-- "[[_Standards/WikiData/WD~Hermine Wittgenstein,96090154]]"
-- "[[_Standards/WikiData/WD~Dora Wittgenstein,96090155]]"
-- "[[_Standards/WikiData/WD~Rittmeister Konrad Wittgenstein,96090158]]"
-- "[[_Standards/WikiData/WD~Johannes Wittgenstein,96090157]]"
-- "[[_Standards/WikiData/WD~Helene Wittgenstein,96090160]]"
-- "[[_Standards/WikiData/WD~Rudolf Wittgenstein,96090161]]"
-- "[[_Standards/WikiData/WD~Margaret Stonborough-Wittgenstein,85885]]"
-- "[[_Standards/WikiData/WD~Paul Wittgenstein,170348]]"
+- "[[_Standards/WikiData/WD~Hermine_Wittgenstein,96090154]]"
+- "[[_Standards/WikiData/WD~Dora_Wittgenstein,96090155]]"
+- "[[_Standards/WikiData/WD~Rittmeister_Konrad_Wittgenstein,96090158]]"
+- "[[_Standards/WikiData/WD~Johannes_Wittgenstein,96090157]]"
+- "[[_Standards/WikiData/WD~Helene_Wittgenstein,96090160]]"
+- "[[_Standards/WikiData/WD~Rudolf_Wittgenstein,96090161]]"
+- "[[_Standards/WikiData/WD~Margaret_Stonborough-Wittgenstein,85885]]"
+- "[[_Standards/WikiData/WD~Paul_Wittgenstein,170348]]"
 date_of_birth: "1889-04-26"
 NLC_authorities: 000063057
 ISNI: 0000000120999171
 place_of_death: '[[_Standards/WikiData/WD~Cambridge,350]]'
 relative:
-- "[[_Standards/WikiData/WD~Friedrich Hayek,1325]]"
-- "[[_Standards/WikiData/WD~Joseph Joachim,159976]]"
+- "[[_Standards/WikiData/WD~Friedrich_Hayek,1325]]"
+- "[[_Standards/WikiData/WD~Joseph_Joachim,159976]]"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~German,188]]'
 field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
 influenced_by:
-- "[[_Standards/WikiData/WD~Søren Kierkegaard,6512]]"
-- "[[_Standards/WikiData/WD~Bertrand Russell,33760]]"
-- "[[_Standards/WikiData/WD~Arthur Schopenhauer,38193]]"
-- "[[_Standards/WikiData/WD~Gottlob Frege,60028]]"
+- "[[_Standards/WikiData/WD~Søren_Kierkegaard,6512]]"
+- "[[_Standards/WikiData/WD~Bertrand_Russell,33760]]"
+- "[[_Standards/WikiData/WD~Arthur_Schopenhauer,38193]]"
+- "[[_Standards/WikiData/WD~Gottlob_Frege,60028]]"
 sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
 instrument: '[[_Standards/WikiData/WD~clarinet,8343]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
 - '[[_Standards/WikiData/WD~Austria,40]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 native_language: '[[_Standards/WikiData/WD~German,188]]'
 doctoral_advisor:
-- "[[_Standards/WikiData/WD~Bertrand Russell,33760]]"
-- "[[_Standards/WikiData/WD~Frank P. Ramsey,315387]]"
+- "[[_Standards/WikiData/WD~Bertrand_Russell,33760]]"
+- "[[_Standards/WikiData/WD~Frank_P._Ramsey,315387]]"
 residence:
-- "[[_Standards/WikiData/WD~Wiener Neustadt,131612]]"
+- "[[_Standards/WikiData/WD~Wiener_Neustadt,131612]]"
 - '[[_Standards/WikiData/WD~Skjolden,2666245]]'
-cause_of_death: "[[_Standards/WikiData/WD~prostate cancer,181257]]"
-movement: "[[_Standards/WikiData/WD~analytic philosophy,183216]]"
+cause_of_death: "[[_Standards/WikiData/WD~prostate_cancer,181257]]"
+movement: "[[_Standards/WikiData/WD~analytic_philosophy,183216]]"
 medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
 student:
-- "[[_Standards/WikiData/WD~G. E. M. Anscombe,229646]]"
-- "[[_Standards/WikiData/WD~Alice Ambrose,4725710]]"
-employer: "[[_Standards/WikiData/WD~Trinity College,332342]]"
-father: "[[_Standards/WikiData/WD~Karl Wittgenstein,563305]]"
-academic_thesis: "[[_Standards/WikiData/WD~Tractatus Logico-Philosophicus,655717]]"
+- "[[_Standards/WikiData/WD~G._E._M._Anscombe,229646]]"
+- "[[_Standards/WikiData/WD~Alice_Ambrose,4725710]]"
+employer: "[[_Standards/WikiData/WD~Trinity_College,332342]]"
+father: "[[_Standards/WikiData/WD~Karl_Wittgenstein,563305]]"
+academic_thesis: "[[_Standards/WikiData/WD~Tractatus_Logico-Philosophicus,655717]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Tractatus Logico-Philosophicus,655717]]"
-- "[[_Standards/WikiData/WD~Philosophical Investigations,772496]]"
+- "[[_Standards/WikiData/WD~Tractatus_Logico-Philosophicus,655717]]"
+- "[[_Standards/WikiData/WD~Philosophical_Investigations,772496]]"
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 doctoral_student:
-- "[[_Standards/WikiData/WD~Reuben Goodstein,1191771]]"
-- "[[_Standards/WikiData/WD~Casimir Lewy,2941054]]"
+- "[[_Standards/WikiData/WD~Reuben_Goodstein,1191771]]"
+- "[[_Standards/WikiData/WD~Casimir_Lewy,2941054]]"
 place_of_birth: '[[_Standards/WikiData/WD~Neuwaldegg,1981987]]'
-family: "[[_Standards/WikiData/WD~Wittgenstein family,2586809]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-place_of_burial: "[[_Standards/WikiData/WD~Ascension Parish Burial Ground,4803837]]"
+family: "[[_Standards/WikiData/WD~Wittgenstein_family,2586809]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+place_of_burial: "[[_Standards/WikiData/WD~Ascension_Parish_Burial_Ground,4803837]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Wittgenstein.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Wittgenstein%20signature.svg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Wittgenstein%20Gravestone.jpg"

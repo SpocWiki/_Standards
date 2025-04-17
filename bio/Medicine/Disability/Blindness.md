@@ -5,22 +5,22 @@ health_specialty:
 - '[[_Standards/WikiData/WD~ophthalmology,161437]]'
 different_from: '[[_Standards/WikiData/WD~Blindness,357780]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~visual impairment,737460]]"
-- "[[_Standards/WikiData/WD~eye disease,3041498]]"
-- "[[_Standards/WikiData/WD~vision symptom,102186718]]"
-- "[[_Standards/WikiData/WD~sensory disability,115269691]]"
+- "[[_Standards/WikiData/WD~visual_impairment,737460]]"
+- "[[_Standards/WikiData/WD~eye_disease,3041498]]"
+- "[[_Standards/WikiData/WD~vision_symptom,102186718]]"
+- "[[_Standards/WikiData/WD~sensory_disability,115269691]]"
 studied_in: '[[_Standards/WikiData/WD~typhlology,3991234]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
 has_cause: '[[_Standards/WikiData/WD~blinding,18228398]]'
 instance_of:
-- "[[_Standards/WikiData/WD~class of disease,112193867]]"
-- "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
+- "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+- "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/68-4062-1%20%28ATED%29.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Watch%20for%20the%20blind.jpg"

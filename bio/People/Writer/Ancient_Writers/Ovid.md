@@ -6,38 +6,38 @@ residence: '[[_Standards/WikiData/WD~Constanța,79808]]'
 genre:
 - '[[_Standards/WikiData/WD~tragedy,80930]]'
 - '[[_Standards/WikiData/WD~elegy,174864]]'
-- "[[_Standards/WikiData/WD~epic poem,37484]]"
+- "[[_Standards/WikiData/WD~epic_poem,37484]]"
 notable_work:
 - '[[_Standards/WikiData/WD~Metamorphoses,184742]]'
 - '[[_Standards/WikiData/WD~Heroides,1236672]]'
 - '[[_Standards/WikiData/WD~Ibis,3791552]]'
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Lygdamus,320643]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Encountering Ovid's Phaedra in House V.2.10–11, Pompeii,47068496]]"
-- "[[_Standards/WikiData/WD~1870 Dictionary of Greek and Roman Biography and Mythology,47500198]]"
-- "[[_Standards/WikiData/WD~La selección de Ovidio en los _Versus Sententiosi_ de Bartholomeus Schönborn_ el término _amor_,51799764]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Encountering_Ovid's_Phaedra_in_House_V.2.10–11,_Pompeii,47068496]]"
+- "[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]"
+- "[[_Standards/WikiData/WD~La_selección_de_Ovidio_en_los__Versus_Sententiosi__de_Bartholomeus_Schönborn__el_término__amor_,51799764]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 place_of_death: '[[_Standards/WikiData/WD~Tomis,2441154]]'
-student_of: "[[_Standards/WikiData/WD~Marcus Porcius Latro,2626808]]"
+student_of: "[[_Standards/WikiData/WD~Marcus_Porcius_Latro,2626808]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 praenomen: '[[_Standards/WikiData/WD~Publius,21485186]]'
 cognomen: '[[_Standards/WikiData/WD~Naso,25510268]]'
-gens: "[[_Standards/WikiData/WD~Ovidia gens,30600773]]"
+gens: "[[_Standards/WikiData/WD~Ovidia_gens,30600773]]"
 nomen_gentilicium: '[[_Standards/WikiData/WD~Ovidius,53796534]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-attested_in: "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
-depicted_by: "[[_Standards/WikiData/WD~Monument to Ovid,125809221]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+attested_in: "[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]"
+depicted_by: "[[_Standards/WikiData/WD~Monument_to_Ovid,125809221]]"
 Stack_Exchange_tag: "https://latin.stackexchange.com/tags/ovidius"
 ISNI: 0000000121427757
 date_of_birth: "-0042-03-18"
@@ -45,7 +45,7 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 native_language: '[[_Standards/WikiData/WD~Latin,397]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Latin,397]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-present_in_work: "[[_Standards/WikiData/WD~The Divine Comedy,40185]]"
+present_in_work: "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
 occupation: '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_birth: '[[_Standards/WikiData/WD~Sulmona,50157]]'
 ArhivX_LOD: 9275

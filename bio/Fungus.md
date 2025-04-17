@@ -14,22 +14,22 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~mushroom,83093]]'
 - '[[_Standards/WikiData/WD~mycelium,326228]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International Code of Nomenclature for algae, fungi, and plants,693148]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]"
 parent_taxon: '[[_Standards/WikiData/WD~Holomycota,2943473]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fungi,10814969]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Fungus navs,10977052]]"
+- "[[_Standards/WikiData/WD~Template_Fungus_navs,10977052]]"
 - '[[_Standards/WikiData/WD~Template_Fungus,14403518]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of fungi,39087041]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~plant-based food,107122728]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_fungi,39087041]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~plant-based_food,107122728]]"
 UMLS_CUI:
 - C0369241
 - C0016832

@@ -10,77 +10,77 @@ occupation:
 - '[[_Standards/WikiData/WD~calligrapher,3303330]]'
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
 - '[[_Standards/WikiData/WD~strategist,7621877]]'
-- "[[_Standards/WikiData/WD~political theorist,15994177]]"
+- "[[_Standards/WikiData/WD~political_theorist,15994177]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~teacher,37226]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_death: '[[_Standards/WikiData/WD~Zhongnanhai,197889]]'
 residence:
 - '[[_Standards/WikiData/WD~Zhongnanhai,197889]]'
-- "[[_Standards/WikiData/WD~Mao Zedong's Former Residence,14505721]]"
-- "[[_Standards/WikiData/WD~Former residence of Mao Zedong during his first stay in Beijing,15929957]]"
+- "[[_Standards/WikiData/WD~Mao_Zedong's_Former_Residence,14505721]]"
+- "[[_Standards/WikiData/WD~Former_residence_of_Mao_Zedong_during_his_first_stay_in_Beijing,15929957]]"
 military_branch:
-- "[[_Standards/WikiData/WD~People’s Liberation Army,200106]]"
-- "[[_Standards/WikiData/WD~Chinese Workers’ and Peasants’ Red Army,1036830]]"
-- "[[_Standards/WikiData/WD~New Army,1186887]]"
+- "[[_Standards/WikiData/WD~People’s_Liberation_Army,200106]]"
+- "[[_Standards/WikiData/WD~Chinese_Workers’_and_Peasants’_Red_Army,1036830]]"
+- "[[_Standards/WikiData/WD~New_Army,1186887]]"
 spouse:
-- "[[_Standards/WikiData/WD~He Zizhen,272321]]"
-- "[[_Standards/WikiData/WD~Yang Kaihui,284278]]"
-- "[[_Standards/WikiData/WD~Luo Yixiu,710752]]"
+- "[[_Standards/WikiData/WD~He_Zizhen,272321]]"
+- "[[_Standards/WikiData/WD~Yang_Kaihui,284278]]"
+- "[[_Standards/WikiData/WD~Luo_Yixiu,710752]]"
 field_of_work:
 - '[[_Standards/WikiData/WD~teaching,352842]]'
 - '[[_Standards/WikiData/WD~politics,7163]]'
 child:
-- "[[_Standards/WikiData/WD~Mao Anying,482807]]"
-- "[[_Standards/WikiData/WD~Li Na,707760]]"
-- "[[_Standards/WikiData/WD~Mao Anqing,922651]]"
-- "[[_Standards/WikiData/WD~Li Min,3267042]]"
-- "[[_Standards/WikiData/WD~Mao Anlong,4120451]]"
-- "[[_Standards/WikiData/WD~Yang Yuehua,4120464]]"
+- "[[_Standards/WikiData/WD~Mao_Anying,482807]]"
+- "[[_Standards/WikiData/WD~Li_Na,707760]]"
+- "[[_Standards/WikiData/WD~Mao_Anqing,922651]]"
+- "[[_Standards/WikiData/WD~Li_Min,3267042]]"
+- "[[_Standards/WikiData/WD~Mao_Anlong,4120451]]"
+- "[[_Standards/WikiData/WD~Yang_Yuehua,4120464]]"
 sibling:
-- "[[_Standards/WikiData/WD~Mao Zemin,707246]]"
-- "[[_Standards/WikiData/WD~Mao Zetan,1335071]]"
+- "[[_Standards/WikiData/WD~Mao_Zemin,707246]]"
+- "[[_Standards/WikiData/WD~Mao_Zetan,1335071]]"
 place_of_birth: '[[_Standards/WikiData/WD~Shaoshan,838542]]'
 family_name: '[[_Standards/WikiData/WD~Mao,1043021]]'
-place_of_burial: "[[_Standards/WikiData/WD~Mausoleum of Mao Zedong,1154819]]"
-hair_color: "[[_Standards/WikiData/WD~black hair,1922956]]"
+place_of_burial: "[[_Standards/WikiData/WD~Mausoleum_of_Mao_Zedong,1154819]]"
+hair_color: "[[_Standards/WikiData/WD~black_hair,1922956]]"
 vehicle_normally_used: '[[_Standards/WikiData/WD~ZIS-115,2071708]]'
 notable_work:
-- "[[_Standards/WikiData/WD~Bombard the Headquarters,2384116]]"
-- "[[_Standards/WikiData/WD~On the People's Democratic Dictatorship,7091464]]"
-- "[[_Standards/WikiData/WD~Poetry of Mao Zedong,7207534]]"
-- "[[_Standards/WikiData/WD~Statement by comrade Mao Zedong, chairman of the Central Committee of the Communist Party of China, in support of the Afro-American struggle against violent repression,10873177]]"
-- "[[_Standards/WikiData/WD~calligraphy of Mao Zedong,11127627]]"
-- "[[_Standards/WikiData/WD~Selected works of Mao Zedong,11127658]]"
-- "[[_Standards/WikiData/WD~Three Old Articles,17003514]]"
-- "[[_Standards/WikiData/WD~On Coalition Government,18834688]]"
-- "[[_Standards/WikiData/WD~Quotations from Chairman Mao Tse-tung,36393]]"
-position_held: "[[_Standards/WikiData/WD~Chairman of the Chinese Communist Party,2708520]]"
+- "[[_Standards/WikiData/WD~Bombard_the_Headquarters,2384116]]"
+- "[[_Standards/WikiData/WD~On_the_People's_Democratic_Dictatorship,7091464]]"
+- "[[_Standards/WikiData/WD~Poetry_of_Mao_Zedong,7207534]]"
+- "[[_Standards/WikiData/WD~Statement_by_comrade_Mao_Zedong,_chairman_of_the_Central_Committee_of_the_Communist_Party_of_China,_in_support_of_the_Afro-American_struggle_against_violent_repression,10873177]]"
+- "[[_Standards/WikiData/WD~calligraphy_of_Mao_Zedong,11127627]]"
+- "[[_Standards/WikiData/WD~Selected_works_of_Mao_Zedong,11127658]]"
+- "[[_Standards/WikiData/WD~Three_Old_Articles,17003514]]"
+- "[[_Standards/WikiData/WD~On_Coalition_Government,18834688]]"
+- "[[_Standards/WikiData/WD~Quotations_from_Chairman_Mao_Tse-tung,36393]]"
+position_held: "[[_Standards/WikiData/WD~Chairman_of_the_Chinese_Communist_Party,2708520]]"
 handedness: '[[_Standards/WikiData/WD~right-handedness,3039938]]'
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-father: "[[_Standards/WikiData/WD~Mao Yichang,4120355]]"
-mother: "[[_Standards/WikiData/WD~Wen Qimei,4120370]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+father: "[[_Standards/WikiData/WD~Mao_Yichang,4120355]]"
+mother: "[[_Standards/WikiData/WD~Wen_Qimei,4120370]]"
 educated_at:
-- "[[_Standards/WikiData/WD~Xiangxiang First Senior High School,4126571]]"
-- "[[_Standards/WikiData/WD~The First High School of Changsha, Hunan,4126639]]"
-- "[[_Standards/WikiData/WD~Hunan First Normal University,4126742]]"
-- "[[_Standards/WikiData/WD~Dongshan Senior High School,10870085]]"
+- "[[_Standards/WikiData/WD~Xiangxiang_First_Senior_High_School,4126571]]"
+- "[[_Standards/WikiData/WD~The_First_High_School_of_Changsha,_Hunan,4126639]]"
+- "[[_Standards/WikiData/WD~Hunan_First_Normal_University,4126742]]"
+- "[[_Standards/WikiData/WD~Dongshan_Senior_High_School,10870085]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-award_received: "[[_Standards/WikiData/WD~People's Liberation Army Strategist,10872938]]"
-employer: "[[_Standards/WikiData/WD~Peking University Library,10902170]]"
-student_of: "[[_Standards/WikiData/WD~Li Yuanfu,11095429]]"
+award_received: "[[_Standards/WikiData/WD~People's_Liberation_Army_Strategist,10872938]]"
+employer: "[[_Standards/WikiData/WD~Peking_University_Library,10902170]]"
+student_of: "[[_Standards/WikiData/WD~Li_Yuanfu,11095429]]"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~atheist,13211738]]'
 - '[[_Standards/WikiData/WD~atheism,7066]]'
 movement: '[[_Standards/WikiData/WD~Marxism–Leninism–Maoism,18127879]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~SourceWatch List of Dictators,121698959]]"
+- "[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]"
 given_name: '[[_Standards/WikiData/WD~Zedong,74010591]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mao Zedong,123439911]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mao_Zedong,123439911]]"
 date_of_birth: "1893-12-26"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%AE%E0%AE%BE%20%E0%AE%9A%E0%AF%87%20%E0%AE%A4%E0%AF%81%E0%AE%99%E0%AF%8D-spoken%20wikipedia.ogg"
 ISNI: 0000000120961122
@@ -89,18 +89,18 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mao%20Tse%20tung%20in
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Chinese,7850]]'
 - '[[_Standards/WikiData/WD~Mandarin,9192]]'
-- "[[_Standards/WikiData/WD~Xiang Chinese,13220]]"
+- "[[_Standards/WikiData/WD~Xiang_Chinese,13220]]"
 native_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
-medical_condition: "[[_Standards/WikiData/WD~Parkinson's disease,11085]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
+medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
+cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
 member_of_political_party:
-- "[[_Standards/WikiData/WD~Chinese Communist Party,17427]]"
+- "[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]"
 - '[[_Standards/WikiData/WD~Kuomintang,31113]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 number_of_children: 10
 height: 180
-ethnic_group: "[[_Standards/WikiData/WD~Han Chinese people,42740]]"
+ethnic_group: "[[_Standards/WikiData/WD~Han_Chinese_people,42740]]"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Mao%20Zedong%20signature.svg"
 Academia_edu_profile_URL: "https://www.academia.edu/People/Mao_Zedong"
 NLC_authorities: 000184442

@@ -9,17 +9,17 @@ date_of_death:
 place_of_birth: '[[_Standards/WikiData/WD~Ahvaz,170366]]'
 sexual_orientation: '[[_Standards/WikiData/WD~non-heterosexuality,339014]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Hassan,16276444]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 ISNI: 0000000115072339
 date_of_birth:
 - "0762"
@@ -27,7 +27,7 @@ date_of_birth:
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 genre: '[[_Standards/WikiData/WD~poetry,482]]'
 place_of_death: '[[_Standards/WikiData/WD~Baghdad,1530]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Abbasid Caliphate,12536]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Abbasid_Caliphate,12536]]"
 writing_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Arabic,13955]]'
 native_language: '[[_Standards/WikiData/WD~Arabic,13955]]'

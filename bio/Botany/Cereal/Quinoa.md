@@ -35,17 +35,17 @@ taxon_common_name:
 parent_taxon: '[[_Standards/WikiData/WD~Chenopodium,158094]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~pseudocereal,749997]]'
-- "[[_Standards/WikiData/WD~useful plant,11992872]]"
+- "[[_Standards/WikiData/WD~useful_plant,11992872]]"
 this_taxon_is_source_of:
-- "[[_Standards/WikiData/WD~quinoa oil,7272327]]"
-- "[[_Standards/WikiData/WD~quinoa seed,104030862]]"
+- "[[_Standards/WikiData/WD~quinoa_oil,7272327]]"
+- "[[_Standards/WikiData/WD~quinoa_seed,104030862]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 instance_of:
-- "[[_Standards/WikiData/WD~food crop,31839438]]"
+- "[[_Standards/WikiData/WD~food_crop,31839438]]"
 - '[[_Standards/WikiData/WD~taxon,16521]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Invasion Biology,56241615]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 UMLS_CUI: C0453354
 short_name: "C. quinoa"
 GenBank_assembly_accession_number:

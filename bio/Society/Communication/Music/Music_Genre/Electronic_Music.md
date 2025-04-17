@@ -2,12 +2,12 @@
 aliases:
 - "Electronic music"
 has_id_wikidata: Q9778
-instance_of: "[[_Standards/WikiData/WD~music genre,188451]]"
+instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
 different_from: '[[_Standards/WikiData/WD~electronica,817138]]'
-practiced_by: "[[_Standards/WikiData/WD~electronic musician,5358395]]"
+practiced_by: "[[_Standards/WikiData/WD~electronic_musician,5358395]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Electronica,13501008]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Electronic music,14615763]]"
-described_by_source: "[[_Standards/WikiData/WD~DDEX AVS Data Dictionary Version 1,106615149]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Electronic_music,14615763]]"
+described_by_source: "[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]"
 subclass_of: '[[_Standards/WikiData/WD~music,115484611]]'
 IAB_code: 351
 exact_match: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ElectronicMusic"

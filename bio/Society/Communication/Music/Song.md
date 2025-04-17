@@ -6,33 +6,33 @@ different_from:
 - '[[_Standards/WikiData/WD~Canción,8261758]]'
 instance_of:
 - '[[_Standards/WikiData/WD~genre,483394]]'
-- "[[_Standards/WikiData/WD~literary form,4263830]]"
-- "[[_Standards/WikiData/WD~type of musical work_composition,107487333]]"
+- "[[_Standards/WikiData/WD~literary_form,4263830]]"
+- "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Music,5830855]]"
-- "[[_Standards/WikiData/WD~WikiProject Arts,14942897]]"
-- "[[_Standards/WikiData/WD~WikiProject Songs,15885085]]"
-- "[[_Standards/WikiData/WD~WikiProject Professional sound production,21830665]]"
+- "[[_Standards/WikiData/WD~WikiProject_Music,5830855]]"
+- "[[_Standards/WikiData/WD~WikiProject_Arts,14942897]]"
+- "[[_Standards/WikiData/WD~WikiProject_Songs,15885085]]"
+- "[[_Standards/WikiData/WD~WikiProject_Professional_sound_production,21830665]]"
 model_item:
 - '[[_Standards/WikiData/WD~Poovukkul,7228913]]'
-- "[[_Standards/WikiData/WD~Wuthering Heights,55777670]]"
+- "[[_Standards/WikiData/WD~Wuthering_Heights,55777670]]"
 said_to_be_the_same_as:
-- "[[_Standards/WikiData/WD~audio track,7302866]]"
+- "[[_Standards/WikiData/WD~audio_track,7302866]]"
 - '[[_Standards/WikiData/WD~song,20828540]]'
 - '[[_Standards/WikiData/WD~Q122459316,122459316]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox song,9001861]]"
-- "[[_Standards/WikiData/WD~Template_Infobox song 2,15527749]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_song,9001861]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_song_2,15527749]]"
 partially_coincident_with:
 - '[[_Standards/WikiData/WD~Q11816927,11816927]]'
-- "[[_Standards/WikiData/WD~lyrico-musical work,114586269]]"
+- "[[_Standards/WikiData/WD~lyrico-musical_work,114586269]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Song,13420405]]'
 instrumentation: '[[_Standards/WikiData/WD~voice,17172850]]'
-has_list: "[[_Standards/WikiData/WD~list of lists of songs,65178170]]"
-subclass_of: "[[_Standards/WikiData/WD~lyrico-musical work,114586269]]"
+has_list: "[[_Standards/WikiData/WD~list_of_lists_of_songs,65178170]]"
+subclass_of: "[[_Standards/WikiData/WD~lyrico-musical_work,114586269]]"
 Baidu_Tieba_name: 歌曲
 properties_for_this_type:
 - "part of"

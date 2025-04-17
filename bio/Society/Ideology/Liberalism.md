@@ -1,43 +1,43 @@
 ﻿---
 has_id_wikidata: Q6216
 has_characteristic:
-- "[[_Standards/WikiData/WD~freedom of assembly,162254]]"
-- "[[_Standards/WikiData/WD~freedom of religion,171899]]"
-- "[[_Standards/WikiData/WD~market economy,179522]]"
-- "[[_Standards/WikiData/WD~civil and political rights,191600]]"
-- "[[_Standards/WikiData/WD~liberal democracy,192125]]"
+- "[[_Standards/WikiData/WD~freedom_of_assembly,162254]]"
+- "[[_Standards/WikiData/WD~freedom_of_religion,171899]]"
+- "[[_Standards/WikiData/WD~market_economy,179522]]"
+- "[[_Standards/WikiData/WD~civil_and_political_rights,191600]]"
+- "[[_Standards/WikiData/WD~liberal_democracy,192125]]"
 - '[[_Standards/WikiData/WD~secularism,216920]]'
-- "[[_Standards/WikiData/WD~economic freedom,322996]]"
-- "[[_Standards/WikiData/WD~private property,555911]]"
-- "[[_Standards/WikiData/WD~political freedom,831058]]"
-- "[[_Standards/WikiData/WD~right to privacy,8354932]]"
+- "[[_Standards/WikiData/WD~economic_freedom,322996]]"
+- "[[_Standards/WikiData/WD~private_property,555911]]"
+- "[[_Standards/WikiData/WD~political_freedom,831058]]"
+- "[[_Standards/WikiData/WD~right_to_privacy,8354932]]"
 - '[[_Standards/WikiData/WD~constitution,7755]]'
-- "[[_Standards/WikiData/WD~human rights,8458]]"
-- "[[_Standards/WikiData/WD~freedom of the press,22688]]"
-- "[[_Standards/WikiData/WD~freedom of speech,22692]]"
-- "[[_Standards/WikiData/WD~rule of law,44918]]"
+- "[[_Standards/WikiData/WD~human_rights,8458]]"
+- "[[_Standards/WikiData/WD~freedom_of_the_press,22688]]"
+- "[[_Standards/WikiData/WD~freedom_of_speech,22692]]"
+- "[[_Standards/WikiData/WD~rule_of_law,44918]]"
 different_from:
 - '[[_Standards/WikiData/WD~libertarianism,178598]]'
-- "[[_Standards/WikiData/WD~Anglo-Saxon model,1054209]]"
-- "[[_Standards/WikiData/WD~linguistic liberalism,11755657]]"
+- "[[_Standards/WikiData/WD~Anglo-Saxon_model,1054209]]"
+- "[[_Standards/WikiData/WD~linguistic_liberalism,11755657]]"
 - '[[_Standards/WikiData/WD~libertinism,18915146]]'
 instance_of:
-- "[[_Standards/WikiData/WD~political philosophy,179805]]"
-- "[[_Standards/WikiData/WD~political ideology,12909644]]"
+- "[[_Standards/WikiData/WD~political_philosophy,179805]]"
+- "[[_Standards/WikiData/WD~political_ideology,12909644]]"
 based_on:
-- "[[_Standards/WikiData/WD~equality before the law,316254]]"
-- "[[_Standards/WikiData/WD~social contract,1326430]]"
-- "[[_Standards/WikiData/WD~Individual and group rights,1661649]]"
-- "[[_Standards/WikiData/WD~consent of the governed,5162861]]"
-- "[[_Standards/WikiData/WD~Political egalitarianism,7210297]]"
-- "[[_Standards/WikiData/WD~right to property,11917765]]"
+- "[[_Standards/WikiData/WD~equality_before_the_law,316254]]"
+- "[[_Standards/WikiData/WD~social_contract,1326430]]"
+- "[[_Standards/WikiData/WD~Individual_and_group_rights,1661649]]"
+- "[[_Standards/WikiData/WD~consent_of_the_governed,5162861]]"
+- "[[_Standards/WikiData/WD~Political_egalitarianism,7210297]]"
+- "[[_Standards/WikiData/WD~right_to_property,11917765]]"
 - '[[_Standards/WikiData/WD~liberty,2979]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of liberalism,830997]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_liberalism,830997]]"
 opposite_of: '[[_Standards/WikiData/WD~antiliberalism,2853246]]'
 Dewey_Decimal_Classification: 320.51
 Library_of_Congress_Classification: JC574

@@ -8,35 +8,35 @@ Wikidata_usage_instructions:
 has_part_s_:
 - '[[_Standards/WikiData/WD~judiciary,105985]]'
 - '[[_Standards/WikiData/WD~legislature,11204]]'
-- "[[_Standards/WikiData/WD~executive branch,35798]]"
+- "[[_Standards/WikiData/WD~executive_branch,35798]]"
 different_from:
 - '[[_Standards/WikiData/WD~anarcho-communism,188670]]'
 - '[[_Standards/WikiData/WD~anarcho-capitalism,192424]]'
 - '[[_Standards/WikiData/WD~cabinet,640506]]'
-- "[[_Standards/WikiData/WD~state system,20076236]]"
+- "[[_Standards/WikiData/WD~state_system,20076236]]"
 - '[[_Standards/WikiData/WD~anarchism,6199]]'
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~state,7275]]'
-opposite_of: "[[_Standards/WikiData/WD~political opposition,192852]]"
+opposite_of: "[[_Standards/WikiData/WD~political_opposition,192852]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~governing body,895526]]"
+- "[[_Standards/WikiData/WD~governing_body,895526]]"
 - '[[_Standards/WikiData/WD~organization,43229]]'
 has_characteristic:
-- "[[_Standards/WikiData/WD~form of government,1307214]]"
-- "[[_Standards/WikiData/WD~government structure,19944802]]"
+- "[[_Standards/WikiData/WD~form_of_government,1307214]]"
+- "[[_Standards/WikiData/WD~government_structure,19944802]]"
 uses: '[[_Standards/WikiData/WD~governance,1553864]]'
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~head of government,2285706]]"
-subject_has_role: "[[_Standards/WikiData/WD~government administration,3754526]]"
-instance_of: "[[_Standards/WikiData/WD~type of organisation,17197366]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of government,25113003]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~head_of_government,2285706]]"
+subject_has_role: "[[_Standards/WikiData/WD~government_administration,3754526]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_organisation,17197366]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_government,25113003]]"
 Provenio_UUID: 7ce001f2-1d06-4662-996a-41b8f44fe777
 UMLS_CUI: C0018104
 properties_for_this_type:

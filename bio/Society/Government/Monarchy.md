@@ -1,18 +1,18 @@
 ﻿---
 has_id_wikidata: Q7269
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~form of government,1307214]]"
-has_list: "[[_Standards/WikiData/WD~list of monarchies,3446184]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
+has_list: "[[_Standards/WikiData/WD~list_of_monarchies,3446184]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Monarchies,8073521]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Monarchy,8209976]]'
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Wedding%20Stockholm%20banner.jpg"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Monarchy::44v86\"]"
 Krugosvet_article: gosudarstvo-i-politika/monarkhiya
 Library_of_Congress_Classification: JC375
-subclass_of: "[[_Standards/WikiData/WD~monarchic system,22676587]]"
+subclass_of: "[[_Standards/WikiData/WD~monarchic_system,22676587]]"
 has_part_s_: '[[_Standards/WikiData/WD~monarch,116]]'
 Colon_Classification: W4
 Commons_category: Monarchy

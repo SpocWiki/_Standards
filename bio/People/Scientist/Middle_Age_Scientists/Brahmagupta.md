@@ -8,19 +8,19 @@ residence:
 - '[[_Standards/WikiData/WD~Bhinmal,797437]]'
 place_of_death: '[[_Standards/WikiData/WD~Ujjain,200119]]'
 notable_work:
-- "[[_Standards/WikiData/WD~Brahmagupta–Fibonacci identity,279090]]"
-- "[[_Standards/WikiData/WD~Brahmagupta's formula,1149348]]"
+- "[[_Standards/WikiData/WD~Brahmagupta–Fibonacci_identity,279090]]"
+- "[[_Standards/WikiData/WD~Brahmagupta's_formula,1149348]]"
 - '[[_Standards/WikiData/WD~Brāhmasphuṭasiddhānta,1290001]]'
-- "[[_Standards/WikiData/WD~Brahmagupta theorem,1425308]]"
-- "[[_Standards/WikiData/WD~Brahmagupta matrix,4929982]]"
-- "[[_Standards/WikiData/WD~Brahmagupta's problem,4955534]]"
-- "[[_Standards/WikiData/WD~Brahmagupta polynomial,16056720]]"
-- "[[_Standards/WikiData/WD~Brahmagupta's interpolation formula,17003778]]"
-- "[[_Standards/WikiData/WD~Brahmagupta's identity,17005467]]"
+- "[[_Standards/WikiData/WD~Brahmagupta_theorem,1425308]]"
+- "[[_Standards/WikiData/WD~Brahmagupta_matrix,4929982]]"
+- "[[_Standards/WikiData/WD~Brahmagupta's_problem,4955534]]"
+- "[[_Standards/WikiData/WD~Brahmagupta_polynomial,16056720]]"
+- "[[_Standards/WikiData/WD~Brahmagupta's_interpolation_formula,17003778]]"
+- "[[_Standards/WikiData/WD~Brahmagupta's_identity,17005467]]"
 - '[[_Standards/WikiData/WD~Khandakhadyaka,19542993]]'
 place_of_birth: '[[_Standards/WikiData/WD~Bhinmal,797437]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Brahmagupta.ogg"
 Krugosvet_article: nauka_i_tehnika/matematika/BRAHMAGUPTA.html
 name_in_native_language: ब्रह्मगुप्तः

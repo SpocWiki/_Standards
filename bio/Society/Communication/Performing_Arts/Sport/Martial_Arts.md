@@ -3,28 +3,28 @@ has_id_wikidata: Q11417
 subclass_of:
 - '[[_Standards/WikiData/WD~tradition,82821]]'
 - '[[_Standards/WikiData/WD~art,735]]'
-has_list: "[[_Standards/WikiData/WD~list of martial arts,180524]]"
+has_list: "[[_Standards/WikiData/WD~list_of_martial_arts,180524]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~blocking,195872]]'
-- "[[_Standards/WikiData/WD~grappling hold,196431]]"
+- "[[_Standards/WikiData/WD~grappling_hold,196431]]"
 - '[[_Standards/WikiData/WD~rule,1151067]]'
 - '[[_Standards/WikiData/WD~strike,3242199]]'
 - '[[_Standards/WikiData/WD~dodging,111017056]]'
 - '[[_Standards/WikiData/WD~kata,40795]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox martial art,5915378]]"
-- "[[_Standards/WikiData/WD~Template_Martial arts,6141234]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_martial_art,5915378]]"
+- "[[_Standards/WikiData/WD~Template_Martial_arts,6141234]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~Martial arts timeline,6774717]]"
-- "[[_Standards/WikiData/WD~history of martial arts,17112053]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of martial arts,7112681]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~combat sport,7128792]]"
-practiced_by: "[[_Standards/WikiData/WD~martial artist,11124885]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Martial arts,14614552]]"
-has_use: "[[_Standards/WikiData/WD~close combat,15041854]]"
+- "[[_Standards/WikiData/WD~Martial_arts_timeline,6774717]]"
+- "[[_Standards/WikiData/WD~history_of_martial_arts,17112053]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_martial_arts,7112681]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~combat_sport,7128792]]"
+practiced_by: "[[_Standards/WikiData/WD~martial_artist,11124885]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Martial_arts,14614552]]"
+has_use: "[[_Standards/WikiData/WD~close_combat,15041854]]"
 instance_of:
-- "[[_Standards/WikiData/WD~type of arts,56055944]]"
-- "[[_Standards/WikiData/WD~type of sport,31629]]"
+- "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
+- "[[_Standards/WikiData/WD~type_of_sport,31629]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Martial%20arts%20Flying%20sidekick.jpg"
 MeSH_tree_code: I03.450.642.845.560
 IAB_code: 520

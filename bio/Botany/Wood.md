@@ -5,40 +5,40 @@ Unicode_character: 🪵
 used_by:
 - '[[_Standards/WikiData/WD~carpenter,154549]]'
 - '[[_Standards/WikiData/WD~joiner,326358]]'
-- "[[_Standards/WikiData/WD~wood carver,6138343]]"
+- "[[_Standards/WikiData/WD~wood_carver,6138343]]"
 - '[[_Standards/WikiData/WD~woodworker,15977971]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~lignin,184817]]'
 - '[[_Standards/WikiData/WD~holocellulose,12020010]]'
-- "[[_Standards/WikiData/WD~wood extractive,87989458]]"
+- "[[_Standards/WikiData/WD~wood_extractive,87989458]]"
 has_characteristic:
 - '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-- "[[_Standards/WikiData/WD~type of wood,1493054]]"
+- "[[_Standards/WikiData/WD~type_of_wood,1493054]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~commodity,317088]]'
-- "[[_Standards/WikiData/WD~renewable resource,1138571]]"
-- "[[_Standards/WikiData/WD~plant material,28969364]]"
+- "[[_Standards/WikiData/WD~renewable_resource,1138571]]"
+- "[[_Standards/WikiData/WD~plant_material,28969364]]"
 - '[[_Standards/WikiData/WD~biomass,18537]]'
 - '[[_Standards/WikiData/WD~tissue,40397]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 natural_product_of_taxon:
-- "[[_Standards/WikiData/WD~woody plant,757163]]"
+- "[[_Standards/WikiData/WD~woody_plant,757163]]"
 - '[[_Standards/WikiData/WD~tree,10884]]'
 studied_in: '[[_Standards/WikiData/WD~xylology,3201372]]'
 has_use:
-- "[[_Standards/WikiData/WD~natural building material,3300024]]"
-- "[[_Standards/WikiData/WD~sculpture material,21685333]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Wood products,15205293]]"
+- "[[_Standards/WikiData/WD~natural_building_material,3300024]]"
+- "[[_Standards/WikiData/WD~sculpture_material,21685333]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Wood_products,15205293]]"
 different_from: '[[_Standards/WikiData/WD~Drewno,15730190]]'
 Dewey_Decimal_Classification:
 - 691.1

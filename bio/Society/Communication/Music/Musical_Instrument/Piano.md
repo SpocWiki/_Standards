@@ -1,23 +1,23 @@
 ﻿---
 has_id_wikidata: Q5994
 official_name: "gravicembalo col piano e forte"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Bartolomeo Cristofori,301597]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Bartolomeo_Cristofori,301597]]"
 used_by: '[[_Standards/WikiData/WD~pianist,486748]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 lowest_note: '[[_Standards/WikiData/WD~A,744346]]'
 different_from: '[[_Standards/WikiData/WD~piano,2707020]]'
 highest_note: '[[_Standards/WikiData/WD~C8,5349143]]'
-instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
 Baidu_Tieba_name: 钢琴
 inception: "1720"
 has_time_started: 1720-06 
 time_of_discovery_or_invention: "1700"
-subclass_of: "[[_Standards/WikiData/WD~keyboard instrument,52954]]"
+subclass_of: "[[_Standards/WikiData/WD~keyboard_instrument,52954]]"
 Nomenclature_for_Museum_Cataloging: 10717
 OmegaWiki_Defined_Meaning: 344431
 Commons_gallery: Piano

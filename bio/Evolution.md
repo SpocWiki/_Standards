@@ -6,31 +6,31 @@ U_S_National_Archives_Identifier: 10676447
 opposite_of: '[[_Standards/WikiData/WD~creationism,130352]]'
 studied_in:
 - '[[_Standards/WikiData/WD~phylogenetics,171184]]'
-- "[[_Standards/WikiData/WD~evolutionary biology,840400]]"
-- "[[_Standards/WikiData/WD~theory of evolution,11640129]]"
+- "[[_Standards/WikiData/WD~evolutionary_biology,840400]]"
+- "[[_Standards/WikiData/WD~theory_of_evolution,11640129]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~introduction to evolution,14916834]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~introduction_to_evolution,14916834]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 has_cause:
-- "[[_Standards/WikiData/WD~genetic drift,486420]]"
-- "[[_Standards/WikiData/WD~germline mutation,5552256]]"
+- "[[_Standards/WikiData/WD~genetic_drift,486420]]"
+- "[[_Standards/WikiData/WD~germline_mutation,5552256]]"
 has_immediate_cause:
-- "[[_Standards/WikiData/WD~survival of the fittest,721322]]"
-- "[[_Standards/WikiData/WD~selective breeding,4023882]]"
-- "[[_Standards/WikiData/WD~natural selection,43478]]"
+- "[[_Standards/WikiData/WD~survival_of_the_fittest,721322]]"
+- "[[_Standards/WikiData/WD~selective_breeding,4023882]]"
+- "[[_Standards/WikiData/WD~natural_selection,43478]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~biological process,2996394]]"
-- "[[_Standards/WikiData/WD~pattern in nature,3455898]]"
+- "[[_Standards/WikiData/WD~biological_process,2996394]]"
+- "[[_Standards/WikiData/WD~pattern_in_nature,3455898]]"
 - '[[_Standards/WikiData/WD~evolution,5418608]]'
-- "[[_Standards/WikiData/WD~aspect of history,17524420]]"
+- "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Evolution,8084453]]'
 spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Evoluci%C3%B3n%20biol%C3%B3gica-article.ogg"
@@ -45,12 +45,12 @@ MeSH_tree_code:
 - G05.045
 - G16.075
 Gujarati_Vishwakosh_entry: ઉત્ક્રાંતિ-સજીવોની
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of evolution,25303767]]"
-instance_of: "[[_Standards/WikiData/WD~type of process,116505632]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_evolution,25303767]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_process,116505632]]"
 UMLS_CUI: C0015219
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/L%27origine%20de%20l%27%C3%A9volution.jpg"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Darwin%27s%20Theory%20of%20Evolution%20%E2%80%93%20Natural%20Selection%20%28explainer%20video%20by%20Sprouts%29.webm"
-has_characteristic: "[[_Standards/WikiData/WD~evolutionary pressure,27348]]"
+has_characteristic: "[[_Standards/WikiData/WD~evolutionary_pressure,27348]]"
 OmegaWiki_Defined_Meaning: 1369
 Dewey_Decimal_Classification: 576
 ---

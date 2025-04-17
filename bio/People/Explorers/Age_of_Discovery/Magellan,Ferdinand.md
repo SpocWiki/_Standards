@@ -10,28 +10,28 @@ Krugosvet_article: istoriya/MAGELLAN_FERNAN.html
 name: "Magellan, Ferdinand"
 name_in_native_language: "Fernão de Magalhães"
 date_of_death: "1521-05-07"
-allegiance: "[[_Standards/WikiData/WD~Spanish Empire,80702]]"
+allegiance: "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
-military_casualty_classification: "[[_Standards/WikiData/WD~killed in action,210392]]"
-cause_of_death: "[[_Standards/WikiData/WD~killed in action,210392]]"
-place_of_birth: "[[_Standards/WikiData/WD~Ponte da Barca,491484]]"
+military_casualty_classification: "[[_Standards/WikiData/WD~killed_in_action,210392]]"
+cause_of_death: "[[_Standards/WikiData/WD~killed_in_action,210392]]"
+place_of_birth: "[[_Standards/WikiData/WD~Ponte_da_Barca,491484]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 place_of_death: '[[_Standards/WikiData/WD~Mactan,685318]]'
-member_of: "[[_Standards/WikiData/WD~Order of Santiago,757097]]"
+member_of: "[[_Standards/WikiData/WD~Order_of_Santiago,757097]]"
 award_received:
-- "[[_Standards/WikiData/WD~Order of Christ,840941]]"
-- "[[_Standards/WikiData/WD~Military Order of Saint James of the Sword,1515829]]"
-- "[[_Standards/WikiData/WD~Commander of the Order of Santiago,67221016]]"
+- "[[_Standards/WikiData/WD~Order_of_Christ,840941]]"
+- "[[_Standards/WikiData/WD~Military_Order_of_Saint_James_of_the_Sword,1515829]]"
+- "[[_Standards/WikiData/WD~Commander_of_the_Order_of_Santiago,67221016]]"
 commander_of_DEPRECATED_: '[[_Standards/WikiData/WD~Trinidad,2453459]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 occupation:
@@ -39,10 +39,10 @@ occupation:
 - '[[_Standards/WikiData/WD~seafarer,12038843]]'
 - '[[_Standards/WikiData/WD~sailor,45199]]'
 given_name: '[[_Standards/WikiData/WD~Fernão,18171074]]'
-spouse: "[[_Standards/WikiData/WD~Beatriz Barbosa,22668563]]"
-father: "[[_Standards/WikiData/WD~Rui de Rui de Magalhães,42293555]]"
-mother: "[[_Standards/WikiData/WD~Alda de Mesquita,100953577]]"
-family_name: "[[_Standards/WikiData/WD~Mbappe lotin,109590735]]"
+spouse: "[[_Standards/WikiData/WD~Beatriz_Barbosa,22668563]]"
+father: "[[_Standards/WikiData/WD~Rui_de_Rui_de_Magalhães,42293555]]"
+mother: "[[_Standards/WikiData/WD~Alda_de_Mesquita,100953577]]"
+family_name: "[[_Standards/WikiData/WD~Mbappe_lotin,109590735]]"
 date_of_birth: "1480"
 ISNI: 0000000121361727
 described_at_URL:
@@ -55,7 +55,7 @@ languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Portuguese,5146]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~captain,19100]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Portugal,45670]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Hernando%20de%20Magallanes.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Magellan%20Signature.svg"
 ---

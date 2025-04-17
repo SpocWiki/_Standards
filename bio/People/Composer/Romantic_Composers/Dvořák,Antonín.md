@@ -5,15 +5,15 @@ aliases:
 has_id_wikidata: Q7298
 instrument:
 - '[[_Standards/WikiData/WD~viola,80284]]'
-- "[[_Standards/WikiData/WD~pipe organ,281460]]"
+- "[[_Standards/WikiData/WD~pipe_organ,281460]]"
 - '[[_Standards/WikiData/WD~piano,5994]]'
 - '[[_Standards/WikiData/WD~violin,8355]]'
 work_location:
 - '[[_Standards/WikiData/WD~Olomouc,81137]]'
 - '[[_Standards/WikiData/WD~Kroměříž,158239]]'
 - '[[_Standards/WikiData/WD~Cholina,744601]]'
-- "[[_Standards/WikiData/WD~New York City,60]]"
-place_of_burial: "[[_Standards/WikiData/WD~Vyšehrad cemetery,118967]]"
+- "[[_Standards/WikiData/WD~New_York_City,60]]"
+place_of_burial: "[[_Standards/WikiData/WD~Vyšehrad_cemetery,118967]]"
 occupation:
 - '[[_Standards/WikiData/WD~professor,121594]]'
 - '[[_Standards/WikiData/WD~conductor,158852]]'
@@ -23,103 +23,103 @@ occupation:
 - '[[_Standards/WikiData/WD~violist,899758]]'
 - '[[_Standards/WikiData/WD~violinist,1259917]]'
 - '[[_Standards/WikiData/WD~musicologist,14915627]]'
-- "[[_Standards/WikiData/WD~music educator,16145150]]"
-- "[[_Standards/WikiData/WD~classical composer,21680663]]"
+- "[[_Standards/WikiData/WD~music_educator,16145150]]"
+- "[[_Standards/WikiData/WD~classical_composer,21680663]]"
 - '[[_Standards/WikiData/WD~composer,36834]]'
 - '[[_Standards/WikiData/WD~teacher,37226]]'
 notable_work:
-- "[[_Standards/WikiData/WD~Symphony No. 1,163532]]"
+- "[[_Standards/WikiData/WD~Symphony_No._1,163532]]"
 - '[[_Standards/WikiData/WD~Requiem,205756]]'
 - '[[_Standards/WikiData/WD~Rusalka,831255]]'
-- "[[_Standards/WikiData/WD~Cello Concerto,1053081]]"
-- "[[_Standards/WikiData/WD~The Jacobin,1194594]]"
-- "[[_Standards/WikiData/WD~The Devil and Kate,1216733]]"
-- "[[_Standards/WikiData/WD~Slavonic Dances,1468901]]"
-- "[[_Standards/WikiData/WD~Stabat Mater,2299142]]"
-- "[[_Standards/WikiData/WD~Te Deum,2398152]]"
+- "[[_Standards/WikiData/WD~Cello_Concerto,1053081]]"
+- "[[_Standards/WikiData/WD~The_Jacobin,1194594]]"
+- "[[_Standards/WikiData/WD~The_Devil_and_Kate,1216733]]"
+- "[[_Standards/WikiData/WD~Slavonic_Dances,1468901]]"
+- "[[_Standards/WikiData/WD~Stabat_Mater,2299142]]"
+- "[[_Standards/WikiData/WD~Te_Deum,2398152]]"
 - '[[_Standards/WikiData/WD~Vanda,2547832]]'
 - '[[_Standards/WikiData/WD~Armida,3312234]]'
 - '[[_Standards/WikiData/WD~Alfred,3499250]]'
 - '[[_Standards/WikiData/WD~Dimitrij,5277544]]'
-- "[[_Standards/WikiData/WD~King and Charcoal Burner,6412175]]"
-- "[[_Standards/WikiData/WD~Saint Ludmila, Op. 71, B. 144,7401743]]"
-- "[[_Standards/WikiData/WD~The Cunning Peasant,7484737]]"
-- "[[_Standards/WikiData/WD~The Stubborn Lovers,7767095]]"
-- "[[_Standards/WikiData/WD~Biblical Songs, Op. 99,11145498]]"
-- "[[_Standards/WikiData/WD~Symphony No. 9,11985]]"
+- "[[_Standards/WikiData/WD~King_and_Charcoal_Burner,6412175]]"
+- "[[_Standards/WikiData/WD~Saint_Ludmila,_Op._71,_B._144,7401743]]"
+- "[[_Standards/WikiData/WD~The_Cunning_Peasant,7484737]]"
+- "[[_Standards/WikiData/WD~The_Stubborn_Lovers,7767095]]"
+- "[[_Standards/WikiData/WD~Biblical_Songs,_Op._99,11145498]]"
+- "[[_Standards/WikiData/WD~Symphony_No._9,11985]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~performing arts,184485]]"
-- "[[_Standards/WikiData/WD~composed musical work,207628]]"
-- "[[_Standards/WikiData/WD~music composing,11895763]]"
-- "[[_Standards/WikiData/WD~music education,27908]]"
+- "[[_Standards/WikiData/WD~performing_arts,184485]]"
+- "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
+- "[[_Standards/WikiData/WD~music_composing,11895763]]"
+- "[[_Standards/WikiData/WD~music_education,27908]]"
 student:
-- "[[_Standards/WikiData/WD~Franz Lehár,191917]]"
-- "[[_Standards/WikiData/WD~Josef Suk,312700]]"
-- "[[_Standards/WikiData/WD~Edwin Franko Goldman,322210]]"
-- "[[_Standards/WikiData/WD~Vítězslav Novák,347611]]"
-- "[[_Standards/WikiData/WD~Will Marion Cook,739583]]"
-- "[[_Standards/WikiData/WD~Oskar Nedbal,920997]]"
-- "[[_Standards/WikiData/WD~Camille Zeckwer,1029297]]"
-- "[[_Standards/WikiData/WD~Jaroslav Kocián,1375563]]"
-- "[[_Standards/WikiData/WD~John Stepan Zamecnik,2270307]]"
-- "[[_Standards/WikiData/WD~William Arms Fisher,3209532]]"
-- "[[_Standards/WikiData/WD~Clara Anna Korn,5125934]]"
-- "[[_Standards/WikiData/WD~Emil Kühnel,27824587]]"
-- "[[_Standards/WikiData/WD~Rudolf Friml,48363]]"
-relative: "[[_Standards/WikiData/WD~Jiří Sobotka,383293]]"
+- "[[_Standards/WikiData/WD~Franz_Lehár,191917]]"
+- "[[_Standards/WikiData/WD~Josef_Suk,312700]]"
+- "[[_Standards/WikiData/WD~Edwin_Franko_Goldman,322210]]"
+- "[[_Standards/WikiData/WD~Vítězslav_Novák,347611]]"
+- "[[_Standards/WikiData/WD~Will_Marion_Cook,739583]]"
+- "[[_Standards/WikiData/WD~Oskar_Nedbal,920997]]"
+- "[[_Standards/WikiData/WD~Camille_Zeckwer,1029297]]"
+- "[[_Standards/WikiData/WD~Jaroslav_Kocián,1375563]]"
+- "[[_Standards/WikiData/WD~John_Stepan_Zamecnik,2270307]]"
+- "[[_Standards/WikiData/WD~William_Arms_Fisher,3209532]]"
+- "[[_Standards/WikiData/WD~Clara_Anna_Korn,5125934]]"
+- "[[_Standards/WikiData/WD~Emil_Kühnel,27824587]]"
+- "[[_Standards/WikiData/WD~Rudolf_Friml,48363]]"
+relative: "[[_Standards/WikiData/WD~Jiří_Sobotka,383293]]"
 country_of_citizenship:
 - '[[_Standards/WikiData/WD~Cisleithania,533534]]'
-- "[[_Standards/WikiData/WD~Kingdom of Bohemia,42585]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Bohemia,42585]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~A Dictionary of Music and Musicians, 1900,16011749]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Antologie z oper,54459780]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Antonín Dvořák,123486079]]"
-- "[[_Standards/WikiData/WD~regional database of the Pilsen City Library,125545196]]"
-- "[[_Standards/WikiData/WD~Brief Biographical Dictionary of Foreign Composers,125935456]]"
-- "[[_Standards/WikiData/WD~Olomouc City Library regional database,130368343]]"
-personal_library_at: "[[_Standards/WikiData/WD~Antonín Dvořák Museum,608318]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Antologie_z_oper,54459780]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Antonín_Dvořák,123486079]]"
+- "[[_Standards/WikiData/WD~regional_database_of_the_Pilsen_City_Library,125545196]]"
+- "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
+- "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
+personal_library_at: "[[_Standards/WikiData/WD~Antonín_Dvořák_Museum,608318]]"
 award_received:
-- "[[_Standards/WikiData/WD~Order of the Iron Crown,694151]]"
-- "[[_Standards/WikiData/WD~Order of the Iron Crown,6766065]]"
-- "[[_Standards/WikiData/WD~honorary doctor of the Charles University of Prague,49980426]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Iron_Crown,694151]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Iron_Crown,6766065]]"
+- "[[_Standards/WikiData/WD~honorary_doctor_of_the_Charles_University_of_Prague,49980426]]"
 employer:
-- "[[_Standards/WikiData/WD~Prague Conservatory,927373]]"
-- "[[_Standards/WikiData/WD~Church of Saint Adalbert,1319567]]"
-- "[[_Standards/WikiData/WD~Provisional Theatre,1763605]]"
+- "[[_Standards/WikiData/WD~Prague_Conservatory,927373]]"
+- "[[_Standards/WikiData/WD~Church_of_Saint_Adalbert,1319567]]"
+- "[[_Standards/WikiData/WD~Provisional_Theatre,1763605]]"
 place_of_birth: '[[_Standards/WikiData/WD~Nelahozeves,1021621]]'
 given_name:
 - '[[_Standards/WikiData/WD~Leopold,1076652]]'
 - '[[_Standards/WikiData/WD~Antonín,15238531]]'
-member_of: "[[_Standards/WikiData/WD~Serbian Academy of Sciences and Arts,1132636]]"
+member_of: "[[_Standards/WikiData/WD~Serbian_Academy_of_Sciences_and_Arts,1132636]]"
 student_of:
-- "[[_Standards/WikiData/WD~Josef Leopold Zvonař,1705143]]"
-- "[[_Standards/WikiData/WD~Antonín Liehmann,87772944]]"
+- "[[_Standards/WikiData/WD~Josef_Leopold_Zvonař,1705143]]"
+- "[[_Standards/WikiData/WD~Antonín_Liehmann,87772944]]"
 list_of_works:
-- "[[_Standards/WikiData/WD~list of compositions by Antonín Dvořák,2338391]]"
-- "[[_Standards/WikiData/WD~Burghauser catalog,59958044]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+- "[[_Standards/WikiData/WD~list_of_compositions_by_Antonín_Dvořák,2338391]]"
+- "[[_Standards/WikiData/WD~Burghauser_catalog,59958044]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-academic_degree: "[[_Standards/WikiData/WD~music educator,16145150]]"
-different_from: "[[_Standards/WikiData/WD~Antonín Dvořák,20820820]]"
+academic_degree: "[[_Standards/WikiData/WD~music_educator,16145150]]"
+different_from: "[[_Standards/WikiData/WD~Antonín_Dvořák,20820820]]"
 family_name: '[[_Standards/WikiData/WD~Dvořák,20884194]]'
-residence: "[[_Standards/WikiData/WD~birth house of Antonín Dvořák,29018403]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-father: "[[_Standards/WikiData/WD~František Dvořák,60467540]]"
+residence: "[[_Standards/WikiData/WD~birth_house_of_Antonín_Dvořák,29018403]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+father: "[[_Standards/WikiData/WD~František_Dvořák,60467540]]"
 child:
-- "[[_Standards/WikiData/WD~Otilie Suková,60467588]]"
-- "[[_Standards/WikiData/WD~Otakar Dvořák,90274150]]"
-- "[[_Standards/WikiData/WD~Magdalena Dvořáková,95444193]]"
-spouse: "[[_Standards/WikiData/WD~Anna Čermáková,60467653]]"
-position_held: "[[_Standards/WikiData/WD~Member of the House of Lords (Austria),67653663]]"
-mother: "[[_Standards/WikiData/WD~Anna Dvořáková,83487995]]"
+- "[[_Standards/WikiData/WD~Otilie_Suková,60467588]]"
+- "[[_Standards/WikiData/WD~Otakar_Dvořák,90274150]]"
+- "[[_Standards/WikiData/WD~Magdalena_Dvořáková,95444193]]"
+spouse: "[[_Standards/WikiData/WD~Anna_Čermáková,60467653]]"
+position_held: "[[_Standards/WikiData/WD~Member_of_the_House_of_Lords_(Austria),67653663]]"
+mother: "[[_Standards/WikiData/WD~Anna_Dvořáková,83487995]]"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Antonin%20dvorak%20signature.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dvorak.jpg"
 IPI_name_number: 00008944179
@@ -154,7 +154,7 @@ date_of_birth: "1841-09-08"
 place_of_death: '[[_Standards/WikiData/WD~Prague,1085]]'
 genre:
 - '[[_Standards/WikiData/WD~opera,1344]]'
-- "[[_Standards/WikiData/WD~classical music,9730]]"
+- "[[_Standards/WikiData/WD~classical_music,9730]]"
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Czech,9056]]'
 cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'

@@ -11,30 +11,30 @@ married_name: "Maria Magdalena Sieber"
 birth_name: "Marie Magdalene Dietrich"
 name_in_native_language: "Marlene Dietrich"
 occupation:
-- "[[_Standards/WikiData/WD~television actor,10798782]]"
-- "[[_Standards/WikiData/WD~film actor,10800557]]"
+- "[[_Standards/WikiData/WD~television_actor,10798782]]"
+- "[[_Standards/WikiData/WD~film_actor,10800557]]"
 - '[[_Standards/WikiData/WD~entertainer,138858]]'
 - '[[_Standards/WikiData/WD~singer,177220]]'
 - '[[_Standards/WikiData/WD~violinist,1259917]]'
-- "[[_Standards/WikiData/WD~resistance fighter,1397808]]"
-- "[[_Standards/WikiData/WD~stage actor,2259451]]"
+- "[[_Standards/WikiData/WD~resistance_fighter,1397808]]"
+- "[[_Standards/WikiData/WD~stage_actor,2259451]]"
 - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
 - '[[_Standards/WikiData/WD~actor,33999]]'
 award_received:
-- "[[_Standards/WikiData/WD~Officer of the Legion of Honour,10855195]]"
-- "[[_Standards/WikiData/WD~Commander of the Legion of Honour,10855212]]"
-- "[[_Standards/WikiData/WD~Knight of the Legion of Honour,10855271]]"
-- "[[_Standards/WikiData/WD~Knight of the National Order of Merit,13422138]]"
-- "[[_Standards/WikiData/WD~Commandeur des Arts et des Lettres,13452531]]"
-- "[[_Standards/WikiData/WD~Chevalier des Arts et des Lettres,13452528]]"
-- "[[_Standards/WikiData/WD~Knight of the Order of Leopold,14900497]]"
-- "[[_Standards/WikiData/WD~honorary citizen of Berlin,15124573]]"
-- "[[_Standards/WikiData/WD~AFI's 100 Years... 100 Stars,1022110]]"
-- "[[_Standards/WikiData/WD~German Film Awards_honorary award,1204836]]"
-- "[[_Standards/WikiData/WD~Medal of Freedom,1330790]]"
-- "[[_Standards/WikiData/WD~star on Hollywood Walk of Fame,17985761]]"
-- "[[_Standards/WikiData/WD~CFDA Lifetime Achievement Award,67949672]]"
-- "[[_Standards/WikiData/WD~Order of Leopold,26126]]"
+- "[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]"
+- "[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]"
+- "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
+- "[[_Standards/WikiData/WD~Knight_of_the_National_Order_of_Merit,13422138]]"
+- "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
+- "[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]"
+- "[[_Standards/WikiData/WD~Knight_of_the_Order_of_Leopold,14900497]]"
+- "[[_Standards/WikiData/WD~honorary_citizen_of_Berlin,15124573]]"
+- "[[_Standards/WikiData/WD~AFI's_100_Years..._100_Stars,1022110]]"
+- "[[_Standards/WikiData/WD~German_Film_Awards_honorary_award,1204836]]"
+- "[[_Standards/WikiData/WD~Medal_of_Freedom,1330790]]"
+- "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+- "[[_Standards/WikiData/WD~CFDA_Lifetime_Achievement_Award,67949672]]"
+- "[[_Standards/WikiData/WD~Order_of_Leopold,26126]]"
 given_name:
 - '[[_Standards/WikiData/WD~Magdalene,16859848]]'
 - '[[_Standards/WikiData/WD~Marie,632104]]'
@@ -46,42 +46,42 @@ work_period_end_: "1984"
 date_of_death: "1992-05-06"
 U_S_National_Archives_Identifier: 10580325
 unmarried_partner:
-- "[[_Standards/WikiData/WD~Yul Brynner,102813]]"
-- "[[_Standards/WikiData/WD~Mercedes de Acosta,270643]]"
-- "[[_Standards/WikiData/WD~Wilhelm Michel,123158807]]"
-- "[[_Standards/WikiData/WD~John F. Kennedy,9696]]"
-- "[[_Standards/WikiData/WD~Jean Gabin,23842]]"
-- "[[_Standards/WikiData/WD~Erich Maria Remarque,47293]]"
-nominated_for: "[[_Standards/WikiData/WD~Academy Award for Best Actress,103618]]"
-spouse: "[[_Standards/WikiData/WD~Rudolf Sieber,153120]]"
-notable_work: "[[_Standards/WikiData/WD~The Blue Angel,158047]]"
-place_of_death: "[[_Standards/WikiData/WD~8th arrondissement of Paris,270230]]"
-child: "[[_Standards/WikiData/WD~Maria Riva,449649]]"
-place_of_birth: "[[_Standards/WikiData/WD~Rote Insel,464401]]"
-cause_of_death: "[[_Standards/WikiData/WD~kidney failure,476921]]"
+- "[[_Standards/WikiData/WD~Yul_Brynner,102813]]"
+- "[[_Standards/WikiData/WD~Mercedes_de_Acosta,270643]]"
+- "[[_Standards/WikiData/WD~Wilhelm_Michel,123158807]]"
+- "[[_Standards/WikiData/WD~John_F._Kennedy,9696]]"
+- "[[_Standards/WikiData/WD~Jean_Gabin,23842]]"
+- "[[_Standards/WikiData/WD~Erich_Maria_Remarque,47293]]"
+nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
+spouse: "[[_Standards/WikiData/WD~Rudolf_Sieber,153120]]"
+notable_work: "[[_Standards/WikiData/WD~The_Blue_Angel,158047]]"
+place_of_death: "[[_Standards/WikiData/WD~8th_arrondissement_of_Paris,270230]]"
+child: "[[_Standards/WikiData/WD~Maria_Riva,449649]]"
+place_of_birth: "[[_Standards/WikiData/WD~Rote_Insel,464401]]"
+cause_of_death: "[[_Standards/WikiData/WD~kidney_failure,476921]]"
 copyright_representative: '[[_Standards/WikiData/WD~GEMA,481497]]'
 educated_at:
-- "[[_Standards/WikiData/WD~Hochschule für Musik Franz Liszt Weimar,536163]]"
-- "[[_Standards/WikiData/WD~Ernst Busch Academy of Dramatic Arts,895796]]"
-- "[[_Standards/WikiData/WD~Goethe Gymnasium,1534107]]"
-employer: "[[_Standards/WikiData/WD~Office of Strategic Services,658626]]"
-place_of_burial: "[[_Standards/WikiData/WD~III. Städtischer Friedhof Stubenrauchstraße,873085]]"
+- "[[_Standards/WikiData/WD~Hochschule_für_Musik_Franz_Liszt_Weimar,536163]]"
+- "[[_Standards/WikiData/WD~Ernst_Busch_Academy_of_Dramatic_Arts,895796]]"
+- "[[_Standards/WikiData/WD~Goethe_Gymnasium,1534107]]"
+employer: "[[_Standards/WikiData/WD~Office_of_Strategic_Services,658626]]"
+place_of_burial: "[[_Standards/WikiData/WD~III._Städtischer_Friedhof_Stubenrauchstraße,873085]]"
 instrument:
-- "[[_Standards/WikiData/WD~musical saw,1144761]]"
+- "[[_Standards/WikiData/WD~musical_saw,1144761]]"
 - '[[_Standards/WikiData/WD~voice,17172850]]'
 - '[[_Standards/WikiData/WD~violin,8355]]'
 country_of_citizenship:
-- "[[_Standards/WikiData/WD~German Reich,1206012]]"
-- "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
-- "[[_Standards/WikiData/WD~Weimar Republic,41304]]"
-- "[[_Standards/WikiData/WD~German Empire,43287]]"
-record_label: "[[_Standards/WikiData/WD~Liberty Records,1392321]]"
-military_branch: "[[_Standards/WikiData/WD~United Service Organizations,1972821]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+- "[[_Standards/WikiData/WD~German_Reich,1206012]]"
+- "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
+- "[[_Standards/WikiData/WD~Weimar_Republic,41304]]"
+- "[[_Standards/WikiData/WD~German_Empire,43287]]"
+record_label: "[[_Standards/WikiData/WD~Liberty_Records,1392321]]"
+military_branch: "[[_Standards/WikiData/WD~United_Service_Organizations,1972821]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
-filmography: "[[_Standards/WikiData/WD~Marlene Dietrich filmography,6771730]]"
-discography: "[[_Standards/WikiData/WD~Marlene Dietrich discography,6771729]]"
+filmography: "[[_Standards/WikiData/WD~Marlene_Dietrich_filmography,6771730]]"
+discography: "[[_Standards/WikiData/WD~Marlene_Dietrich_discography,6771729]]"
 plaque_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/2018-07-18%20Sterne%20der%20Satire%20-%20Walk%20of%20Fame%20des%20Kabaretts%20Nr%2074%20Marlene%20Dietrich-1106.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Marlene%20Dietrich.jpg"
@@ -94,13 +94,13 @@ RIA_Novosti_reference: 57906872
 work_period_start_: "1919"
 date_of_birth: "1901-12-27"
 family_name: '[[_Standards/WikiData/WD~Dietrich,18145879]]'
-father: "[[_Standards/WikiData/WD~Louis Erich Otto Dietrich,21149248]]"
-mother: "[[_Standards/WikiData/WD~Wilhelmina Elisabeth Joséphine Felsing,21149249]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
-relative: "[[_Standards/WikiData/WD~Georg Hugo Will,61422101]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
+father: "[[_Standards/WikiData/WD~Louis_Erich_Otto_Dietrich,21149248]]"
+mother: "[[_Standards/WikiData/WD~Wilhelmina_Elisabeth_Joséphine_Felsing,21149249]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+relative: "[[_Standards/WikiData/WD~Georg_Hugo_Will,61422101]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
 owner_of: '[[_Standards/WikiData/WD~Q109466910,109466910]]'
 ISNI: 0000000121447133
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/No-MARLENEDIETRICH.ogg"
@@ -112,7 +112,7 @@ languages_spoken_written_or_signed:
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 work_location:
 - '[[_Standards/WikiData/WD~Berlin,64]]'
-- "[[_Standards/WikiData/WD~Los Angeles,65]]"
+- "[[_Standards/WikiData/WD~Los_Angeles,65]]"
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
 native_language: '[[_Standards/WikiData/WD~German,188]]'
 social_media_followers: 12700

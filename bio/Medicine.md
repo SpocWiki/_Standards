@@ -2,11 +2,11 @@
 has_id_wikidata: Q11190
 practiced_by:
 - '[[_Standards/WikiData/WD~physician,39631]]'
-- "[[_Standards/WikiData/WD~nurse practitioner,595071]]"
-- "[[_Standards/WikiData/WD~physician assistant,718927]]"
-- "[[_Standards/WikiData/WD~military officer of healthcare,2020172]]"
-- "[[_Standards/WikiData/WD~medical specialist for people with intellectual disability,2522100]]"
-- "[[_Standards/WikiData/WD~public health physician,10334684]]"
+- "[[_Standards/WikiData/WD~nurse_practitioner,595071]]"
+- "[[_Standards/WikiData/WD~physician_assistant,718927]]"
+- "[[_Standards/WikiData/WD~military_officer_of_healthcare,2020172]]"
+- "[[_Standards/WikiData/WD~medical_specialist_for_people_with_intellectual_disability,2522100]]"
+- "[[_Standards/WikiData/WD~public_health_physician,10334684]]"
 DFG_Science_Classification:
 - 205
 - 22
@@ -27,35 +27,35 @@ entry_in_abbreviations_table:
 - tıp.
 subreddit: medicine
 PhilPapers_topic: medicine
-opposite_of: "[[_Standards/WikiData/WD~alternative medicine,188504]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of medicine,380274]]"
+opposite_of: "[[_Standards/WikiData/WD~alternative_medicine,188504]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_medicine,380274]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~American Medical Biographies,19037977]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~American_Medical_Biographies,19037977]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 instance_of:
-- "[[_Standards/WikiData/WD~field of work,627436]]"
-- "[[_Standards/WikiData/WD~field of study,2267705]]"
-- "[[_Standards/WikiData/WD~academic major,4671286]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-subclass_of: "[[_Standards/WikiData/WD~health sciences,843601]]"
-part_of: "[[_Standards/WikiData/WD~life sciences,864928]]"
+- "[[_Standards/WikiData/WD~field_of_work,627436]]"
+- "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+- "[[_Standards/WikiData/WD~academic_major,4671286]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+subclass_of: "[[_Standards/WikiData/WD~health_sciences,843601]]"
+part_of: "[[_Standards/WikiData/WD~life_sciences,864928]]"
 different_from:
 - '[[_Standards/WikiData/WD~Medicine,1189264]]'
 - '[[_Standards/WikiData/WD~Medica,1762790]]'
 - '[[_Standards/WikiData/WD~Leigheas,123615676]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of medicine,7112684]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_medicine,7112684]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Medicine,7252016]]'
-- "[[_Standards/WikiData/WD~Template_Medicine navs,10965716]]"
+- "[[_Standards/WikiData/WD~Template_Medicine_navs,10965716]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Medicine,10631989]]'
-industry: "[[_Standards/WikiData/WD~health care industry,15067276]]"
-has_characteristic: "[[_Standards/WikiData/WD~medical attribute,44476427]]"
+industry: "[[_Standards/WikiData/WD~health_care_industry,15067276]]"
+has_characteristic: "[[_Standards/WikiData/WD~medical_attribute,44476427]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Physical%20examination.jpg"
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/medicine"
 MeSH_tree_code: H02.403

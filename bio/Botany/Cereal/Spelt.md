@@ -32,16 +32,16 @@ taxon_common_name:
 - Speltanisu
 this_taxon_is_source_of:
 - '[[_Standards/WikiData/WD~Grünkern,142116]]'
-- "[[_Standards/WikiData/WD~spelt flour,3066924]]"
+- "[[_Standards/WikiData/WD~spelt_flour,3066924]]"
 - '[[_Standards/WikiData/WD~wheat,15645384]]'
-has_effect: "[[_Standards/WikiData/WD~gluten-related disorder,1367782]]"
+has_effect: "[[_Standards/WikiData/WD~gluten-related_disorder,1367782]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~wheat,15645384]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-inflorescence: "[[_Standards/WikiData/WD~spike of spikelets,28771787]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+inflorescence: "[[_Standards/WikiData/WD~spike_of_spikelets,28771787]]"
 instance_of:
-- "[[_Standards/WikiData/WD~grain crop,113976623]]"
+- "[[_Standards/WikiData/WD~grain_crop,113976623]]"
 - '[[_Standards/WikiData/WD~taxon,16521]]'
 UMLS_CUI: C0331515
 short_name:
@@ -54,7 +54,7 @@ Commons_category: "Triticum aestivum subsp. spelta"
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 parent_taxon: '[[_Standards/WikiData/WD~Triticum,12106]]'
 has_use:
-- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+- "[[_Standards/WikiData/WD~cereal_grain,12117]]"
 ITIS_TSN: 42243
 taxon_author_citation: L.
 taxon_name: "Triticum spelta"

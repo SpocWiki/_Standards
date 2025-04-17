@@ -3,17 +3,17 @@ aliases:
 - "Water sport"
 has_id_wikidata: Q61065
 subclass_of:
-- "[[_Standards/WikiData/WD~sports in nature,3493904]]"
+- "[[_Standards/WikiData/WD~sports_in_nature,3493904]]"
 - '[[_Standards/WikiData/WD~sport,349]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Aquatics,7494551]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Water sports,15262675]]"
-described_by_source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Water_sports,15262675]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 practiced_by: '[[_Standards/WikiData/WD~Q116445694,116445694]]'
 uses:
-- "[[_Standards/WikiData/WD~water sports venue,121085044]]"
+- "[[_Standards/WikiData/WD~water_sports_venue,121085044]]"
 - '[[_Standards/WikiData/WD~water,283]]'
-has_list: "[[_Standards/WikiData/WD~list of water sports,121750997]]"
-instance_of: "[[_Standards/WikiData/WD~type of sport,31629]]"
+has_list: "[[_Standards/WikiData/WD~list_of_water_sports,121750997]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
 Dewey_Decimal_Classification: 797
 Colon_Classification: MY25
 Iconclass_notation: 43C22

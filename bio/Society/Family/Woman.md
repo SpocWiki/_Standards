@@ -3,39 +3,39 @@ has_id_wikidata: Q467
 IPTC_NewsCode: asportfacetvalue/women
 MeSH_tree_code: M01.975
 has_characteristic:
-- "[[_Standards/WikiData/WD~menstrual cycle,83864]]"
-- "[[_Standards/WikiData/WD~female reproductive system,844342]]"
+- "[[_Standards/WikiData/WD~menstrual_cycle,83864]]"
+- "[[_Standards/WikiData/WD~female_reproductive_system,844342]]"
 - '[[_Standards/WikiData/WD~fertility,964401]]'
-- "[[_Standards/WikiData/WD~female body shape,3543843]]"
-- "[[_Standards/WikiData/WD~female voice,50810224]]"
+- "[[_Standards/WikiData/WD~female_body_shape,3543843]]"
+- "[[_Standards/WikiData/WD~female_voice,50810224]]"
 different_from:
 - '[[_Standards/WikiData/WD~wife,188830]]'
 - '[[_Standards/WikiData/WD~Dame,229756]]'
 - '[[_Standards/WikiData/WD~Woman,911993]]'
 - '[[_Standards/WikiData/WD~Frau,1159762]]'
 - '[[_Standards/WikiData/WD~female,6581072]]'
-- "[[_Standards/WikiData/WD~female human,84048852]]"
+- "[[_Standards/WikiData/WD~female_human,84048852]]"
 - '[[_Standards/WikiData/WD~girlfriend,49835]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Women in Today's World,101407938]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Women_in_Today's_World,101407938]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~womyn,3569775]]'
 - '[[_Standards/WikiData/WD~womxn,65090566]]'
-has_list: "[[_Standards/WikiData/WD~list of lists of nude women,6626611]]"
+has_list: "[[_Standards/WikiData/WD~list_of_lists_of_nude_women,6626611]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~adult human,9584157]]"
-- "[[_Standards/WikiData/WD~female human,84048852]]"
+- "[[_Standards/WikiData/WD~adult_human,9584157]]"
+- "[[_Standards/WikiData/WD~female_human,84048852]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Women,15656558]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Women,21712210]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Women,21712210]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828751,22828751]]'
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-produced_sound: "[[_Standards/WikiData/WD~female voice,50810224]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+produced_sound: "[[_Standards/WikiData/WD~female_voice,50810224]]"
 category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q60607743,60607743]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
 Baidu_Tieba_name: 女人
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frau2.ogg"

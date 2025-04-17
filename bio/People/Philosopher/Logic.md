@@ -2,38 +2,38 @@
 has_id_wikidata: Q8078
 has_part_s_:
 - '[[_Standards/WikiData/WD~causality,179289]]'
-- "[[_Standards/WikiData/WD~propositional calculus,200694]]"
-- "[[_Standards/WikiData/WD~modal logic,210841]]"
-- "[[_Standards/WikiData/WD~fuzzy logic,224821]]"
-- "[[_Standards/WikiData/WD~classical logic,236975]]"
-- "[[_Standards/WikiData/WD~deductive reasoning,484284]]"
-- "[[_Standards/WikiData/WD~inductive reasoning,484511]]"
-- "[[_Standards/WikiData/WD~quantum logic,1206311]]"
-- "[[_Standards/WikiData/WD~predicate logic,35148]]"
-has_effect: "[[_Standards/WikiData/WD~logical consequence,374182]]"
+- "[[_Standards/WikiData/WD~propositional_calculus,200694]]"
+- "[[_Standards/WikiData/WD~modal_logic,210841]]"
+- "[[_Standards/WikiData/WD~fuzzy_logic,224821]]"
+- "[[_Standards/WikiData/WD~classical_logic,236975]]"
+- "[[_Standards/WikiData/WD~deductive_reasoning,484284]]"
+- "[[_Standards/WikiData/WD~inductive_reasoning,484511]]"
+- "[[_Standards/WikiData/WD~quantum_logic,1206311]]"
+- "[[_Standards/WikiData/WD~predicate_logic,35148]]"
+has_effect: "[[_Standards/WikiData/WD~logical_consequence,374182]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 is_the_study_of:
 - '[[_Standards/WikiData/WD~condition,813912]]'
 - '[[_Standards/WikiData/WD~validity,1047000]]'
-- "[[_Standards/WikiData/WD~logical system,17488292]]"
+- "[[_Standards/WikiData/WD~logical_system,17488292]]"
 - '[[_Standards/WikiData/WD~conclusion,20665666]]'
 instance_of:
-- "[[_Standards/WikiData/WD~formal science,816264]]"
-- "[[_Standards/WikiData/WD~class used in Universal Decimal Classification,15831325]]"
-- "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
+- "[[_Standards/WikiData/WD~formal_science,816264]]"
+- "[[_Standards/WikiData/WD~class_used_in_Universal_Decimal_Classification,15831325]]"
+- "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Logic,6469110]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of logic,7112678]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_logic,7112678]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 practiced_by: '[[_Standards/WikiData/WD~logician,14565331]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Logic,14614975]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q113143870,113143870]]'

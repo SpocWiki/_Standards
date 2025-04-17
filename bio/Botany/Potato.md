@@ -1,34 +1,34 @@
 ---
 has_id_wikidata: Q10998
 subclass_of:
-  - "[[_Standards/WikiData/WD~perennial plant,157957]]"
-  - "[[_Standards/WikiData/WD~useful plant,11992872]]"
-  - "[[_Standards/WikiData/WD~poisonous plant,21028485]]"
+  - "[[_Standards/WikiData/WD~perennial_plant,157957]]"
+  - "[[_Standards/WikiData/WD~useful_plant,11992872]]"
+  - "[[_Standards/WikiData/WD~poisonous_plant,21028485]]"
 has_use:
-  - "[[_Standards/WikiData/WD~medicinal plant,188840]]"
+  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~fodder,211439]]"
-  - "[[_Standards/WikiData/WD~human food,8195619]]"
+  - "[[_Standards/WikiData/WD~human_food,8195619]]"
   - "[[_Standards/WikiData/WD~vegetable,11004]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora Reipublicae Popularis Sinicae, volume 67(1),112869471]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_67(1),112869471]]"
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~potato starch,715160]]"
+  - "[[_Standards/WikiData/WD~potato_starch,715160]]"
   - "[[_Standards/WikiData/WD~potato,16587531]]"
 award_received:
-  - "[[_Standards/WikiData/WD~Vegetable of the year,1344055]]"
-  - "[[_Standards/WikiData/WD~Poisonous Plant of the Year,1523589]]"
+  - "[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]"
+  - "[[_Standards/WikiData/WD~Poisonous_Plant_of_the_Year,1523589]]"
 different_from:
   - "[[_Standards/WikiData/WD~potato,16587531]]"
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Patana,25634247]]"
-basionym_of: "[[_Standards/WikiData/WD~Solanum tuberosum subsp. chiloense,50921950]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Invasion Biology,56241615]]"
+basionym_of: "[[_Standards/WikiData/WD~Solanum_tuberosum_subsp._chiloense,50921950]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 taxon_common_name:
   - бульба
   - patata
@@ -132,8 +132,8 @@ MeSH_tree_code: B01.875.800.575.912.250.908.500.725.777
 taxon_range:
   - "[[_Standards/WikiData/WD~Beijing,956]]"
   - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
 instance_of:

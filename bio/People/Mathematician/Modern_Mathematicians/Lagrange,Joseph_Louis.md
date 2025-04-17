@@ -9,80 +9,80 @@ occupation:
 - '[[_Standards/WikiData/WD~politician,82955]]'
 - '[[_Standards/WikiData/WD~physicist,169470]]'
 - '[[_Standards/WikiData/WD~mathematician,170790]]'
-- "[[_Standards/WikiData/WD~university teacher,1622272]]"
+- "[[_Standards/WikiData/WD~university_teacher,1622272]]"
 - '[[_Standards/WikiData/WD~astronomer,11063]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
 employer:
-- "[[_Standards/WikiData/WD~École Normale Supérieure,83259]]"
-- "[[_Standards/WikiData/WD~French Academy of Sciences,188771]]"
-- "[[_Standards/WikiData/WD~École polytechnique,273626]]"
-- "[[_Standards/WikiData/WD~Royal Prussian Academy of Sciences,329464]]"
-- "[[_Standards/WikiData/WD~Royal Academy of Turin,3603945]]"
+- "[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]"
+- "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
+- "[[_Standards/WikiData/WD~École_polytechnique,273626]]"
+- "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
+- "[[_Standards/WikiData/WD~Royal_Academy_of_Turin,3603945]]"
 member_of:
-- "[[_Standards/WikiData/WD~Royal Society of Edinburgh,117467]]"
-- "[[_Standards/WikiData/WD~Royal Society,123885]]"
-- "[[_Standards/WikiData/WD~French Academy of Sciences,188771]]"
-- "[[_Standards/WikiData/WD~Royal Swedish Academy of Sciences,191583]]"
-- "[[_Standards/WikiData/WD~Royal Prussian Academy of Sciences,329464]]"
-- "[[_Standards/WikiData/WD~Bavarian Academy of Sciences and Humanities,684415]]"
-- "[[_Standards/WikiData/WD~Academy of Sciences of Turin,2822396]]"
-- "[[_Standards/WikiData/WD~Accademia Nazionale delle Scienze detta dei XL,3603946]]"
-- "[[_Standards/WikiData/WD~Saint Petersburg Academy of Sciences,4345832]]"
+- "[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]"
+- "[[_Standards/WikiData/WD~Royal_Society,123885]]"
+- "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
+- "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
+- "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
+- "[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]"
+- "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
+- "[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]"
+- "[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]"
 field_of_work:
 - '[[_Standards/WikiData/WD~calculus,149972]]'
-- "[[_Standards/WikiData/WD~celestial mechanics,184274]]"
-- "[[_Standards/WikiData/WD~Analytical mechanics,21653530]]"
+- "[[_Standards/WikiData/WD~celestial_mechanics,184274]]"
+- "[[_Standards/WikiData/WD~Analytical_mechanics,21653530]]"
 - '[[_Standards/WikiData/WD~mathematics,395]]'
-- "[[_Standards/WikiData/WD~mathematical analysis,7754]]"
-- "[[_Standards/WikiData/WD~number theory,12479]]"
+- "[[_Standards/WikiData/WD~mathematical_analysis,7754]]"
+- "[[_Standards/WikiData/WD~number_theory,12479]]"
 award_received:
-- "[[_Standards/WikiData/WD~72 names on the Eiffel Tower,162873]]"
-- "[[_Standards/WikiData/WD~Grand Officer of the Legion of Honour,10855216]]"
-- "[[_Standards/WikiData/WD~Fellow of the Royal Society,15631401]]"
-- "[[_Standards/WikiData/WD~Knight Grand Cross of the Order of the Reunion,19689642]]"
+- "[[_Standards/WikiData/WD~72_names_on_the_Eiffel_Tower,162873]]"
+- "[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]"
+- "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
+- "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_the_Reunion,19689642]]"
 country_of_citizenship:
-- "[[_Standards/WikiData/WD~Kingdom of Sardinia,165154]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Sardinia,165154]]"
 - '[[_Standards/WikiData/WD~France,142]]'
 place_of_burial: '[[_Standards/WikiData/WD~Panthéon,188856]]'
 doctoral_student:
-- "[[_Standards/WikiData/WD~Siméon Denis Poisson,190772]]"
-- "[[_Standards/WikiData/WD~Giovanni Plana,373799]]"
-- "[[_Standards/WikiData/WD~Joseph Fourier,8772]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~ZKM Center for Art and Media Karlsruhe,191228]]"
-educated_at: "[[_Standards/WikiData/WD~University of Turin,499911]]"
-relative: "[[_Standards/WikiData/WD~Pierre Charles Le Monnier,563553]]"
+- "[[_Standards/WikiData/WD~Siméon_Denis_Poisson,190772]]"
+- "[[_Standards/WikiData/WD~Giovanni_Plana,373799]]"
+- "[[_Standards/WikiData/WD~Joseph_Fourier,8772]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~ZKM_Center_for_Art_and_Media_Karlsruhe,191228]]"
+educated_at: "[[_Standards/WikiData/WD~University_of_Turin,499911]]"
+relative: "[[_Standards/WikiData/WD~Pierre_Charles_Le_Monnier,563553]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Astronomers_ A Biographical Reference,126740695]]"
+- "[[_Standards/WikiData/WD~Astronomers__A_Biographical_Reference,126740695]]"
 student_of:
-- "[[_Standards/WikiData/WD~Giovanni Battista Beccaria,981544]]"
-- "[[_Standards/WikiData/WD~Leonhard Euler,7604]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Giovanni Battista Beccaria,981544]]"
+- "[[_Standards/WikiData/WD~Giovanni_Battista_Beccaria,981544]]"
+- "[[_Standards/WikiData/WD~Leonhard_Euler,7604]]"
+doctoral_advisor: "[[_Standards/WikiData/WD~Giovanni_Battista_Beccaria,981544]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 notable_work:
-- "[[_Standards/WikiData/WD~list of things named after Joseph-Louis Lagrange,15634298]]"
-- "[[_Standards/WikiData/WD~Mécanique analytique,25100963]]"
+- "[[_Standards/WikiData/WD~list_of_things_named_after_Joseph-Louis_Lagrange,15634298]]"
+- "[[_Standards/WikiData/WD~Mécanique_analytique,25100963]]"
 position_held:
-- "[[_Standards/WikiData/WD~member of the Sénat conservateur,21032677]]"
+- "[[_Standards/WikiData/WD~member_of_the_Sénat_conservateur,21032677]]"
 - '[[_Standards/WikiData/WD~president,30461]]'
 spouse:
-- "[[_Standards/WikiData/WD~Vittoria Conti,22348223]]"
-- "[[_Standards/WikiData/WD~Adélaïde Le Monnier,104721253]]"
+- "[[_Standards/WikiData/WD~Vittoria_Conti,22348223]]"
+- "[[_Standards/WikiData/WD~Adélaïde_Le_Monnier,104721253]]"
 family_name: '[[_Standards/WikiData/WD~Lagrange,24533919]]'
 given_name: '[[_Standards/WikiData/WD~Joseph-Louis,58134917]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-noble_title: "[[_Standards/WikiData/WD~Count of the Empire,98693456]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+noble_title: "[[_Standards/WikiData/WD~Count_of_the_Empire,98693456]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B0%D0%B3%D1%80%D0%B0%D0%BD%D0%B6.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph-Louis%20Lagrange%20signature.png"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Lagrange%27s%20tomb%20at%20the%20Pantheon.jpg"
@@ -110,7 +110,7 @@ work_location:
 - '[[_Standards/WikiData/WD~Paris,90]]'
 place_of_birth: '[[_Standards/WikiData/WD~Turin,495]]'
 native_language: '[[_Standards/WikiData/WD~Italian,652]]'
-influenced_by: "[[_Standards/WikiData/WD~Leonhard Euler,7604]]"
+influenced_by: "[[_Standards/WikiData/WD~Leonhard_Euler,7604]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
 writing_language: '[[_Standards/WikiData/WD~French,150]]'

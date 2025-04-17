@@ -1,19 +1,19 @@
 ﻿---
 has_id_wikidata: Q12117
 subclass_of:
-- "[[_Standards/WikiData/WD~raw material,192355]]"
+- "[[_Standards/WikiData/WD~raw_material,192355]]"
 - '[[_Standards/WikiData/WD~grain,2995529]]'
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 different_from:
 - '[[_Standards/WikiData/WD~pseudocereal,749997]]'
-- "[[_Standards/WikiData/WD~cereal crop,13112756]]"
+- "[[_Standards/WikiData/WD~cereal_crop,13112756]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-part_of: "[[_Standards/WikiData/WD~cereals and pseudocereals,2643145]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+part_of: "[[_Standards/WikiData/WD~cereals_and_pseudocereals,2643145]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Cereals,6868173]]'
-instance_of: "[[_Standards/WikiData/WD~group or class of agricultural products,113657383]]"
+instance_of: "[[_Standards/WikiData/WD~group_or_class_of_agricultural_products,113657383]]"
 water_footprint:
 - 0.51
 - 1214

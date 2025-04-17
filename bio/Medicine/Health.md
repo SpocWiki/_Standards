@@ -2,28 +2,28 @@
 has_id_wikidata: Q12147
 Baidu_Tieba_name: 健康
 studied_in:
-- "[[_Standards/WikiData/WD~public health,189603]]"
-- "[[_Standards/WikiData/WD~sociology of health and illness,7552854]]"
+- "[[_Standards/WikiData/WD~public_health,189603]]"
+- "[[_Standards/WikiData/WD~sociology_of_health_and_illness,7552854]]"
 - '[[_Standards/WikiData/WD~medicine,11190]]'
-- "[[_Standards/WikiData/WD~health economics,31218]]"
+- "[[_Standards/WikiData/WD~health_economics,31218]]"
 instance_of:
 - '[[_Standards/WikiData/WD~need,190258]]'
-- "[[_Standards/WikiData/WD~field of study,1047113]]"
-- "[[_Standards/WikiData/WD~field of study,2267705]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+- "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 - '[[_Standards/WikiData/WD~goods,28877]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~determinants of health,3706138]]"
-- "[[_Standards/WikiData/WD~medical state,6806605]]"
+- "[[_Standards/WikiData/WD~determinants_of_health,3706138]]"
+- "[[_Standards/WikiData/WD~medical_state,6806605]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~physiological condition,7189713]]"
+- "[[_Standards/WikiData/WD~physiological_condition,7189713]]"
 - '[[_Standards/WikiData/WD~normality,16681739]]'
 - '[[_Standards/WikiData/WD~absence,19829125]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Health and fitness,11015739]]"
-facet_of: "[[_Standards/WikiData/WD~quality of life,13100823]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]"
+facet_of: "[[_Standards/WikiData/WD~quality_of_life,13100823]]"
 UMLS_CUI: C0949333
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Gesundheit2.ogg"
 opposite_of: '[[_Standards/WikiData/WD~disease,12136]]'

@@ -17,26 +17,26 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Herskedal%20
 inception: "1917"
 has_time_started: 1917-06 
 instance_of:
-- "[[_Standards/WikiData/WD~music genre,188451]]"
-- "[[_Standards/WikiData/WD~field of work,627436]]"
-subclass_of: "[[_Standards/WikiData/WD~popular music,373342]]"
+- "[[_Standards/WikiData/WD~music_genre,188451]]"
+- "[[_Standards/WikiData/WD~field_of_work,627436]]"
+subclass_of: "[[_Standards/WikiData/WD~popular_music,373342]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~history of jazz,466571]]"
-- "[[_Standards/WikiData/WD~origins of jazz,106543088]]"
+- "[[_Standards/WikiData/WD~history_of_jazz,466571]]"
+- "[[_Standards/WikiData/WD~origins_of_jazz,106543088]]"
 different_from: '[[_Standards/WikiData/WD~Gas,2135060]]'
-has_list: "[[_Standards/WikiData/WD~glossary of jazz music terminology,3518460]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of jazz,7112669]]"
+has_list: "[[_Standards/WikiData/WD~glossary_of_jazz_music_terminology,3518460]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_jazz,7112669]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Jazz,7224768]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Jazz,11032929]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Jazz,13417658]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Jazz,13417658]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
 practiced_by:
-- "[[_Standards/WikiData/WD~jazz musician,15981151]]"
-- "[[_Standards/WikiData/WD~jazz record producer,67512484]]"
-- "[[_Standards/WikiData/WD~jazz composer,116938279]]"
-studied_in: "[[_Standards/WikiData/WD~jazz studies,99691757]]"
-described_by_source: "[[_Standards/WikiData/WD~DDEX AVS Data Dictionary Version 1,106615149]]"
-country_of_origin: "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~jazz_musician,15981151]]"
+- "[[_Standards/WikiData/WD~jazz_record_producer,67512484]]"
+- "[[_Standards/WikiData/WD~jazz_composer,116938279]]"
+studied_in: "[[_Standards/WikiData/WD~jazz_studies,99691757]]"
+described_by_source: "[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Jazz%20Track%20banner.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Armstrong%20restored.jpg"
 exact_match:

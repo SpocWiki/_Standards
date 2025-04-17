@@ -6,16 +6,16 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~assimilation,741773]]'
 - '[[_Standards/WikiData/WD~ingestion,1663054]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 practiced_by: '[[_Standards/WikiData/WD~nutritionist,2576499]]'
-part_of: "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+part_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 different_from:
 - '[[_Standards/WikiData/WD~Výživa,16520513]]'
-- "[[_Standards/WikiData/WD~nutritional science,17652193]]"
-studied_in: "[[_Standards/WikiData/WD~nutritional science,17652193]]"
-instance_of: "[[_Standards/WikiData/WD~health specialty,44597158]]"
-subclass_of: "[[_Standards/WikiData/WD~diet, food and nutrition,66615814]]"
+- "[[_Standards/WikiData/WD~nutritional_science,17652193]]"
+studied_in: "[[_Standards/WikiData/WD~nutritional_science,17652193]]"
+instance_of: "[[_Standards/WikiData/WD~health_specialty,44597158]]"
+subclass_of: "[[_Standards/WikiData/WD~diet,_food_and_nutrition,66615814]]"
 U_S_National_Archives_Identifier: 10644258
 MeSH_tree_code: G07.203.650
 subreddit:

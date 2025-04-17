@@ -1,12 +1,12 @@
 ﻿---
 has_id_wikidata: Q7257
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 part_of: '[[_Standards/WikiData/WD~culture,11042]]'
-subclass_of: "[[_Standards/WikiData/WD~world view,49447]]"
+subclass_of: "[[_Standards/WikiData/WD~world_view,49447]]"
 OmegaWiki_Defined_Meaning: 1841
 Commons_category: Ideologies
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ideologie-article.ogg"

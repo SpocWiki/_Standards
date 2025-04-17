@@ -9,34 +9,34 @@ occupation:
 - '[[_Standards/WikiData/WD~playwright,214917]]'
 - '[[_Standards/WikiData/WD~lyricist,822146]]'
 - '[[_Standards/WikiData/WD~biographer,864380]]'
-- "[[_Standards/WikiData/WD~resistance fighter,1397808]]"
-- "[[_Standards/WikiData/WD~literary critic,4263842]]"
+- "[[_Standards/WikiData/WD~resistance_fighter,1397808]]"
+- "[[_Standards/WikiData/WD~literary_critic,4263842]]"
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- "[[_Standards/WikiData/WD~opinion journalist,6051619]]"
+- "[[_Standards/WikiData/WD~opinion_journalist,6051619]]"
 - '[[_Standards/WikiData/WD~novelist,6625963]]'
 - '[[_Standards/WikiData/WD~essayist,11774202]]'
 - '[[_Standards/WikiData/WD~epistemologist,15632482]]'
-- "[[_Standards/WikiData/WD~political writer,15958642]]"
-- "[[_Standards/WikiData/WD~peace activist,16323111]]"
+- "[[_Standards/WikiData/WD~political_writer,15958642]]"
+- "[[_Standards/WikiData/WD~peace_activist,16323111]]"
 - '[[_Standards/WikiData/WD~screenwriter,28389]]'
 nominated_for:
-- "[[_Standards/WikiData/WD~Nobel Prize in Literature,37922]]"
-- "[[_Standards/WikiData/WD~Academy Award for Best Story,504298]]"
+- "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+- "[[_Standards/WikiData/WD~Academy_Award_for_Best_Story,504298]]"
 award_received:
-- "[[_Standards/WikiData/WD~Nobel Prize in Literature,37922]]"
-- "[[_Standards/WikiData/WD~Eugène Dabit populist novel award,2111300]]"
-- "[[_Standards/WikiData/WD~Grand Prize for the Best Novels of the Half-Century,3114795]]"
-- "[[_Standards/WikiData/WD~Fellow of the American Academy of Arts and Sciences,52382875]]"
+- "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+- "[[_Standards/WikiData/WD~Eugène_Dabit_populist_novel_award,2111300]]"
+- "[[_Standards/WikiData/WD~Grand_Prize_for_the_Best_Novels_of_the_Half-Century,3114795]]"
+- "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
 movement:
 - '[[_Standards/WikiData/WD~existentialism,38066]]'
-- "[[_Standards/WikiData/WD~continental philosophy,59104]]"
+- "[[_Standards/WikiData/WD~continental_philosophy,59104]]"
 - '[[_Standards/WikiData/WD~phenomenology,179235]]'
-- "[[_Standards/WikiData/WD~French philosophy,1450620]]"
+- "[[_Standards/WikiData/WD~French_philosophy,1450620]]"
 - '[[_Standards/WikiData/WD~atheism,7066]]'
 - '[[_Standards/WikiData/WD~Marxism,7264]]'
 residence:
-- "[[_Standards/WikiData/WD~Le Havre,42810]]"
-- "[[_Standards/WikiData/WD~La Rochelle,82185]]"
+- "[[_Standards/WikiData/WD~Le_Havre,42810]]"
+- "[[_Standards/WikiData/WD~La_Rochelle,82185]]"
 - '[[_Standards/WikiData/WD~Laon,167141]]'
 - '[[_Standards/WikiData/WD~Meudon,234735]]'
 - '[[_Standards/WikiData/WD~Paris,90]]'
@@ -48,53 +48,53 @@ field_of_work:
 - '[[_Standards/WikiData/WD~ethics,9465]]'
 - '[[_Standards/WikiData/WD~epistemology,9471]]'
 influenced_by:
-- "[[_Standards/WikiData/WD~Martin Heidegger,48301]]"
-- "[[_Standards/WikiData/WD~Edmund Husserl,58586]]"
-- "[[_Standards/WikiData/WD~Louis-Ferdinand Céline,151820]]"
-- "[[_Standards/WikiData/WD~Emmanuel Levinas,153034]]"
-- "[[_Standards/WikiData/WD~Karl Marx,9061]]"
-- "[[_Standards/WikiData/WD~Georg Wilhelm Friedrich Hegel,9235]]"
+- "[[_Standards/WikiData/WD~Martin_Heidegger,48301]]"
+- "[[_Standards/WikiData/WD~Edmund_Husserl,58586]]"
+- "[[_Standards/WikiData/WD~Louis-Ferdinand_Céline,151820]]"
+- "[[_Standards/WikiData/WD~Emmanuel_Levinas,153034]]"
+- "[[_Standards/WikiData/WD~Karl_Marx,9061]]"
+- "[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235]]"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20Jean-Paul%20Sartre%20and%20Simone%20de%20Beauvoir.jpg"
 ArhivX_LOD: 4546
 educated_at:
-- "[[_Standards/WikiData/WD~École Normale Supérieure,83259]]"
-- "[[_Standards/WikiData/WD~University of Paris,209842]]"
-- "[[_Standards/WikiData/WD~Lycée Louis-le-Grand,1059546]]"
-- "[[_Standards/WikiData/WD~Lycée Henri-IV,1878600]]"
-- "[[_Standards/WikiData/WD~Cours Hattemer,3128334]]"
+- "[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]"
+- "[[_Standards/WikiData/WD~University_of_Paris,209842]]"
+- "[[_Standards/WikiData/WD~Lycée_Louis-le-Grand,1059546]]"
+- "[[_Standards/WikiData/WD~Lycée_Henri-IV,1878600]]"
+- "[[_Standards/WikiData/WD~Cours_Hattemer,3128334]]"
 cause_of_death: '[[_Standards/WikiData/WD~edema,152234]]'
-place_of_death: "[[_Standards/WikiData/WD~14th arrondissement of Paris,187153]]"
+place_of_death: "[[_Standards/WikiData/WD~14th_arrondissement_of_Paris,187153]]"
 significant_event: '[[_Standards/WikiData/WD~funeral,201676]]'
-place_of_burial: "[[_Standards/WikiData/WD~Montparnasse Cemetery,272208]]"
-member_of: "[[_Standards/WikiData/WD~American Academy of Arts and Sciences,463303]]"
-archives_at: "[[_Standards/WikiData/WD~Beinecke Rare Book & Manuscript Library,814779]]"
-employer: "[[_Standards/WikiData/WD~Lycée Condorcet,926749]]"
-time_period: "[[_Standards/WikiData/WD~contemporary philosophy,943303]]"
+place_of_burial: "[[_Standards/WikiData/WD~Montparnasse_Cemetery,272208]]"
+member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+archives_at: "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
+employer: "[[_Standards/WikiData/WD~Lycée_Condorcet,926749]]"
+time_period: "[[_Standards/WikiData/WD~contemporary_philosophy,943303]]"
 described_by_source:
 - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Pedagogues and Psychologists of the World,126722605]]"
-assessment: "[[_Standards/WikiData/WD~agrégation de philosophie,2827292]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
+assessment: "[[_Standards/WikiData/WD~agrégation_de_philosophie,2827292]]"
 medical_condition:
 - '[[_Standards/WikiData/WD~one-eyed,3321212]]'
 - '[[_Standards/WikiData/WD~blindness,10874]]'
 unmarried_partner:
-- "[[_Standards/WikiData/WD~Wanda Kosakiewicz,3566009]]"
-- "[[_Standards/WikiData/WD~Olga Kosakiewicz,3643831]]"
-- "[[_Standards/WikiData/WD~Michelle Vian,16766274]]"
-- "[[_Standards/WikiData/WD~Simone de Beauvoir,7197]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+- "[[_Standards/WikiData/WD~Wanda_Kosakiewicz,3566009]]"
+- "[[_Standards/WikiData/WD~Olga_Kosakiewicz,3643831]]"
+- "[[_Standards/WikiData/WD~Michelle_Vian,16766274]]"
+- "[[_Standards/WikiData/WD~Simone_de_Beauvoir,7197]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Jean-Paul Sartre,11013802]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Jean-Paul_Sartre,11013802]]"
 given_name: '[[_Standards/WikiData/WD~Jean-Paul,16798217]]'
 family_name: '[[_Standards/WikiData/WD~Sartre,16882740]]'
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-father: "[[_Standards/WikiData/WD~Jean-Baptiste Sartre,55860592]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+father: "[[_Standards/WikiData/WD~Jean-Baptiste_Sartre,55860592]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
 significant_person:
-- "[[_Standards/WikiData/WD~Claude Faux,97765991]]"
-- "[[_Standards/WikiData/WD~Simone de Beauvoir,7197]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Bryn Mawr College Special Collections,101240133]]"
+- "[[_Standards/WikiData/WD~Claude_Faux,97765991]]"
+- "[[_Standards/WikiData/WD~Simone_de_Beauvoir,7197]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Bryn_Mawr_College_Special_Collections,101240133]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz%20J%C3%A4hnick-Jean-Paul%20Sartre.wav"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Government%20Press%20Office%20%28GPO%29%20-%20Jean%20Paul%20Sartre%20and%20Simone%20De%20Beauvoir%20welcomed%20by%20Avraham%20Shlonsky%20and%20Leah%20Goldberg%20%28cropped%29.jpg"
 ISNI: 000000012321080X

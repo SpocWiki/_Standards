@@ -3,15 +3,15 @@ has_id_wikidata: Q81513
 taxon_synonym: '[[_Standards/WikiData/WD~Fortunella,106090]]'
 has_fruit_type: '[[_Standards/WikiData/WD~hesperidium,1429336]]'
 this_taxon_is_source_of:
-- "[[_Standards/WikiData/WD~citrus fruit,2574750]]"
-- "[[_Standards/WikiData/WD~citrus juice,104126379]]"
+- "[[_Standards/WikiData/WD~citrus_fruit,2574750]]"
+- "[[_Standards/WikiData/WD~citrus_juice,104126379]]"
 parent_taxon: '[[_Standards/WikiData/WD~Citreae,3216053]]'
 subclass_of: '[[_Standards/WikiData/WD~fruit,3314483]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Citrus,7638507]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Flora Reipublicae Popularis Sinicae, volume 43(2),112869427]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(2),112869427]]"
 UMLS_CUI: C1258049
 taxon_common_name:
 - 柑桔属

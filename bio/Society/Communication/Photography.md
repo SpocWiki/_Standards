@@ -25,31 +25,31 @@ time_of_discovery_or_invention: "1800"
 different_from:
 - '[[_Standards/WikiData/WD~photograph,125191]]'
 - '[[_Standards/WikiData/WD~Q3498649,3498649]]'
-- "[[_Standards/WikiData/WD~photographic work,11900210]]"
+- "[[_Standards/WikiData/WD~photographic_work,11900210]]"
 product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~photograph,125191]]'
 has_use:
 - '[[_Standards/WikiData/WD~pleasure,208195]]'
-- "[[_Standards/WikiData/WD~information exchange,6031064]]"
-- "[[_Standards/WikiData/WD~economic profit,26911]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of photography,355472]]"
+- "[[_Standards/WikiData/WD~information_exchange,6031064]]"
+- "[[_Standards/WikiData/WD~economic_profit,26911]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_photography,355472]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Thomas Wedgwood,933545]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Thomas_Wedgwood,933545]]"
 subclass_of: '[[_Standards/WikiData/WD~activity,1914636]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Photography,3248943]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of photography,7112699]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_photography,7112699]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Photography,8084538]]'
 instance_of:
-- "[[_Standards/WikiData/WD~artistic technique,11177771]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-- "[[_Standards/WikiData/WD~type of arts,56055944]]"
+- "[[_Standards/WikiData/WD~artistic_technique,11177771]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+- "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
 - '[[_Standards/WikiData/WD~hobby,47728]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-part_of: "[[_Standards/WikiData/WD~lens-based visual arts,113147222]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+part_of: "[[_Standards/WikiData/WD~lens-based_visual_arts,113147222]]"
 equivalent_class:
 - "http://id.cabi.org/cabt/89400"
 - "http://skos.um.es/unesco6/220917"

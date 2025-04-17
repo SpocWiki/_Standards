@@ -10,21 +10,21 @@ Krugosvet_article: nauka_i_tehnika/matematika/FERMA_PER.html
 Google_Doodle: pierre-de-fermats-410th-birthday
 Libris_URI: wt79d12f0snxn1p
 notable_work:
-- "[[_Standards/WikiData/WD~Fermat's Last Theorem,132469]]"
-- "[[_Standards/WikiData/WD~Fermat's little theorem,188295]]"
-- "[[_Standards/WikiData/WD~Fermat number,207264]]"
-- "[[_Standards/WikiData/WD~Fermat's principle,331041]]"
-- "[[_Standards/WikiData/WD~Fermat point,914929]]"
+- "[[_Standards/WikiData/WD~Fermat's_Last_Theorem,132469]]"
+- "[[_Standards/WikiData/WD~Fermat's_little_theorem,188295]]"
+- "[[_Standards/WikiData/WD~Fermat_number,207264]]"
+- "[[_Standards/WikiData/WD~Fermat's_principle,331041]]"
+- "[[_Standards/WikiData/WD~Fermat_point,914929]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~Fermat's Last Theorem,132469]]"
-- "[[_Standards/WikiData/WD~analytic geometry,134787]]"
-- "[[_Standards/WikiData/WD~Fermat's little theorem,188295]]"
-- "[[_Standards/WikiData/WD~Fermat number,207264]]"
+- "[[_Standards/WikiData/WD~Fermat's_Last_Theorem,132469]]"
+- "[[_Standards/WikiData/WD~analytic_geometry,134787]]"
+- "[[_Standards/WikiData/WD~Fermat's_little_theorem,188295]]"
+- "[[_Standards/WikiData/WD~Fermat_number,207264]]"
 - '[[_Standards/WikiData/WD~statute,820655]]'
-- "[[_Standards/WikiData/WD~probability theory,5862903]]"
+- "[[_Standards/WikiData/WD~probability_theory,5862903]]"
 - '[[_Standards/WikiData/WD~mathematics,395]]'
-- "[[_Standards/WikiData/WD~mathematical analysis,7754]]"
-- "[[_Standards/WikiData/WD~number theory,12479]]"
+- "[[_Standards/WikiData/WD~mathematical_analysis,7754]]"
+- "[[_Standards/WikiData/WD~number_theory,12479]]"
 - '[[_Standards/WikiData/WD~optics,14620]]'
 occupation:
 - '[[_Standards/WikiData/WD~mathematician,170790]]'
@@ -33,33 +33,33 @@ occupation:
 - '[[_Standards/WikiData/WD~judge,16533]]'
 - '[[_Standards/WikiData/WD~lawyer,40348]]'
 influenced_by:
-- "[[_Standards/WikiData/WD~Diophantus of Alexandria,178217]]"
-- "[[_Standards/WikiData/WD~Gerolamo Cardano,184530]]"
-- "[[_Standards/WikiData/WD~François Viète,188623]]"
+- "[[_Standards/WikiData/WD~Diophantus_of_Alexandria,178217]]"
+- "[[_Standards/WikiData/WD~Gerolamo_Cardano,184530]]"
+- "[[_Standards/WikiData/WD~François_Viète,188623]]"
 place_of_burial: '[[_Standards/WikiData/WD~Castres,188776]]'
 place_of_death: '[[_Standards/WikiData/WD~Castres,188776]]'
 significant_event: '[[_Standards/WikiData/WD~cremation,207315]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
-- "[[_Standards/WikiData/WD~Olomouc City Library regional database,130368343]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]"
+- "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
 place_of_birth: '[[_Standards/WikiData/WD~Beaumont-de-Lomagne,660118]]'
-academic_degree: "[[_Standards/WikiData/WD~Bachelor of Laws,798137]]"
+academic_degree: "[[_Standards/WikiData/WD~Bachelor_of_Laws,798137]]"
 given_name: '[[_Standards/WikiData/WD~Pierre,2093070]]'
-employer: "[[_Standards/WikiData/WD~Parliament of Toulouse,3365529]]"
+employer: "[[_Standards/WikiData/WD~Parliament_of_Toulouse,3365529]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-educated_at: "[[_Standards/WikiData/WD~Old University of Orléans,23197733]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-family_name: "[[_Standards/WikiData/WD~de Fermat,104814497]]"
-spouse: "[[_Standards/WikiData/WD~Louise de Long,108646034]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+educated_at: "[[_Standards/WikiData/WD~Old_University_of_Orléans,23197733]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+family_name: "[[_Standards/WikiData/WD~de_Fermat,104814497]]"
+spouse: "[[_Standards/WikiData/WD~Louise_de_Long,108646034]]"
 date_of_birth: "1607"
 Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/fermat"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fermats%20Epitaph.JPG"

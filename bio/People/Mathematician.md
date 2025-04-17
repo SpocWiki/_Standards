@@ -42,13 +42,13 @@ male_form_of_label:
 - matematikas
 - matemático
 - математик
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 instance_of:
 - '[[_Standards/WikiData/WD~occupation,12737077]]'
-- "[[_Standards/WikiData/WD~occupation group according to ISCO-08,108300140]]"
+- "[[_Standards/WikiData/WD~occupation_group_according_to_ISCO-08,108300140]]"
 - '[[_Standards/WikiData/WD~profession,28640]]'
-has_list: "[[_Standards/WikiData/WD~lists of mathematicians,66777993]]"
-uses: "[[_Standards/WikiData/WD~mathematical terminology,66785817]]"
+has_list: "[[_Standards/WikiData/WD~lists_of_mathematicians,66777993]]"
+uses: "[[_Standards/WikiData/WD~mathematical_terminology,66785817]]"
 Portuguese_Job_Code_CPP_2010: 2120.1
 Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/mathematicians"
 UMLS_CUI: C0402139

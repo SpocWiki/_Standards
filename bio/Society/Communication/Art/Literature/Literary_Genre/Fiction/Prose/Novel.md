@@ -2,25 +2,25 @@
 has_id_wikidata: Q8261
 different_from:
 - '[[_Standards/WikiData/WD~novella,149537]]'
-- "[[_Standards/WikiData/WD~short novel,12799318]]"
+- "[[_Standards/WikiData/WD~short_novel,12799318]]"
 - '[[_Standards/WikiData/WD~Riwaya,54894431]]'
 - '[[_Standards/WikiData/WD~xiaoshuo,59126]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-part_of: "[[_Standards/WikiData/WD~novel sequence,2005755]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+part_of: "[[_Standards/WikiData/WD~novel_sequence,2005755]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~narration,3328821]]'
-- "[[_Standards/WikiData/WD~work of fiction,87482979]]"
-instance_of: "[[_Standards/WikiData/WD~literary form,4263830]]"
+- "[[_Standards/WikiData/WD~work_of_fiction,87482979]]"
+instance_of: "[[_Standards/WikiData/WD~literary_form,4263830]]"
 practiced_by: '[[_Standards/WikiData/WD~novelist,6625963]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Novels,11774360]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Narration,60007664]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]"
 Provenio_UUID: 04b724a8-e921-4166-b5fb-1ddf19d37f6f
 properties_for_this_type:
 - author

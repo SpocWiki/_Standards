@@ -3,44 +3,44 @@ has_id_wikidata: Q687
 aliases:
 - "Jean-Baptiste Poquelin"
 different_from:
-- "[[_Standards/WikiData/WD~Richard Mollier,65825]]"
+- "[[_Standards/WikiData/WD~Richard_Mollier,65825]]"
 - '[[_Standards/WikiData/WD~Molière,119141371]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Dom Juan,179485]]"
+- "[[_Standards/WikiData/WD~Dom_Juan,179485]]"
 - '[[_Standards/WikiData/WD~Tartuffe,205875]]'
-- "[[_Standards/WikiData/WD~The Miser,389933]]"
-- "[[_Standards/WikiData/WD~The Imaginary Invalid,588161]]"
-- "[[_Standards/WikiData/WD~Le Médecin malgré lui,663716]]"
-- "[[_Standards/WikiData/WD~The School for Wives,937443]]"
-- "[[_Standards/WikiData/WD~The Misanthrope,1053387]]"
-- "[[_Standards/WikiData/WD~Le Bourgeois gentilhomme,1054372]]"
-- "[[_Standards/WikiData/WD~Les Femmes Savantes,1218375]]"
-- "[[_Standards/WikiData/WD~Les Précieuses ridicules,1219041]]"
-- "[[_Standards/WikiData/WD~The School for Husbands,1423962]]"
-- "[[_Standards/WikiData/WD~L'Amour médecin,2044613]]"
-- "[[_Standards/WikiData/WD~La jalousie du barbouillé,2401538]]"
-- "[[_Standards/WikiData/WD~Monsieur de Pourceaugnac,2456214]]"
-- "[[_Standards/WikiData/WD~Scapin the Schemer,2469735]]"
-- "[[_Standards/WikiData/WD~L'Impromptu de Versailles,3204061]]"
-- "[[_Standards/WikiData/WD~The Blunderer, or the Counterplots,3205504]]"
-- "[[_Standards/WikiData/WD~Princess of Elis,3211935]]"
-- "[[_Standards/WikiData/WD~Lovers' quarrels,3222564]]"
-- "[[_Standards/WikiData/WD~Marriage by Compulsion,3224315]]"
-- "[[_Standards/WikiData/WD~Le Sicilien ou l'Amour peintre,3227160]]"
-- "[[_Standards/WikiData/WD~Les amants magnifiques,3230474]]"
-- "[[_Standards/WikiData/WD~Les Fâcheux,3232857]]"
+- "[[_Standards/WikiData/WD~The_Miser,389933]]"
+- "[[_Standards/WikiData/WD~The_Imaginary_Invalid,588161]]"
+- "[[_Standards/WikiData/WD~Le_Médecin_malgré_lui,663716]]"
+- "[[_Standards/WikiData/WD~The_School_for_Wives,937443]]"
+- "[[_Standards/WikiData/WD~The_Misanthrope,1053387]]"
+- "[[_Standards/WikiData/WD~Le_Bourgeois_gentilhomme,1054372]]"
+- "[[_Standards/WikiData/WD~Les_Femmes_Savantes,1218375]]"
+- "[[_Standards/WikiData/WD~Les_Précieuses_ridicules,1219041]]"
+- "[[_Standards/WikiData/WD~The_School_for_Husbands,1423962]]"
+- "[[_Standards/WikiData/WD~L'Amour_médecin,2044613]]"
+- "[[_Standards/WikiData/WD~La_jalousie_du_barbouillé,2401538]]"
+- "[[_Standards/WikiData/WD~Monsieur_de_Pourceaugnac,2456214]]"
+- "[[_Standards/WikiData/WD~Scapin_the_Schemer,2469735]]"
+- "[[_Standards/WikiData/WD~L'Impromptu_de_Versailles,3204061]]"
+- "[[_Standards/WikiData/WD~The_Blunderer,_or_the_Counterplots,3205504]]"
+- "[[_Standards/WikiData/WD~Princess_of_Elis,3211935]]"
+- "[[_Standards/WikiData/WD~Lovers'_quarrels,3222564]]"
+- "[[_Standards/WikiData/WD~Marriage_by_Compulsion,3224315]]"
+- "[[_Standards/WikiData/WD~Le_Sicilien_ou_l'Amour_peintre,3227160]]"
+- "[[_Standards/WikiData/WD~Les_amants_magnifiques,3230474]]"
+- "[[_Standards/WikiData/WD~Les_Fâcheux,3232857]]"
 - '[[_Standards/WikiData/WD~Mélicerte,3332920]]'
 - '[[_Standards/WikiData/WD~Psyché,3410202]]'
-- "[[_Standards/WikiData/WD~The Imaginary Cuckold,3481105]]"
-- "[[_Standards/WikiData/WD~Le Médecin volant,14071768]]"
-- "[[_Standards/WikiData/WD~Pastorale comique,17636452]]"
+- "[[_Standards/WikiData/WD~The_Imaginary_Cuckold,3481105]]"
+- "[[_Standards/WikiData/WD~Le_Médecin_volant,14071768]]"
+- "[[_Standards/WikiData/WD~Pastorale_comique,17636452]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~Archives nationales,182542]]"
-- "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
-- "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
+- "[[_Standards/WikiData/WD~Archives_nationales,182542]]"
+- "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
+- "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
 influenced_by:
-- "[[_Standards/WikiData/WD~commedia dell'arte,191890]]"
+- "[[_Standards/WikiData/WD~commedia_dell'arte,191890]]"
 - '[[_Standards/WikiData/WD~Plautus,47160]]'
 genre:
 - '[[_Standards/WikiData/WD~farce,193979]]'
@@ -48,47 +48,47 @@ genre:
 occupation:
 - '[[_Standards/WikiData/WD~playwright,214917]]'
 - '[[_Standards/WikiData/WD~dramaturge,487596]]'
-- "[[_Standards/WikiData/WD~theatre manager,1776724]]"
-- "[[_Standards/WikiData/WD~stage actor,2259451]]"
-- "[[_Standards/WikiData/WD~theatrical director,3387717]]"
+- "[[_Standards/WikiData/WD~theatre_manager,1776724]]"
+- "[[_Standards/WikiData/WD~stage_actor,2259451]]"
+- "[[_Standards/WikiData/WD~theatrical_director,3387717]]"
 - '[[_Standards/WikiData/WD~satirist,9334029]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
 field_of_work:
 - '[[_Standards/WikiData/WD~acting,222749]]'
 - '[[_Standards/WikiData/WD~theatre,11635]]'
-unmarried_partner: "[[_Standards/WikiData/WD~Madeleine Béjart,266019]]"
+unmarried_partner: "[[_Standards/WikiData/WD~Madeleine_Béjart,266019]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-spouse: "[[_Standards/WikiData/WD~Armande Béjart,460831]]"
+spouse: "[[_Standards/WikiData/WD~Armande_Béjart,460831]]"
 educated_at:
-- "[[_Standards/WikiData/WD~Lycée Louis-le-Grand,1059546]]"
-- "[[_Standards/WikiData/WD~Old University of Orléans,23197733]]"
+- "[[_Standards/WikiData/WD~Lycée_Louis-le-Grand,1059546]]"
+- "[[_Standards/WikiData/WD~Old_University_of_Orléans,23197733]]"
 given_name: '[[_Standards/WikiData/WD~Jean-Baptiste,1499767]]'
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject France,10816832]]"
-- "[[_Standards/WikiData/WD~WikiProject Theatre,14942918]]"
-- "[[_Standards/WikiData/WD~WikiProject Poetry,15885028]]"
-- "[[_Standards/WikiData/WD~WikiProject Biography_Arts and entertainment,21829610]]"
+- "[[_Standards/WikiData/WD~WikiProject_France,10816832]]"
+- "[[_Standards/WikiData/WD~WikiProject_Theatre,14942918]]"
+- "[[_Standards/WikiData/WD~WikiProject_Poetry,15885028]]"
+- "[[_Standards/WikiData/WD~WikiProject_Biography_Arts_and_entertainment,21829610]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Molière,14346845]]'
-child: "[[_Standards/WikiData/WD~Esprit-Madeleine Poquelin,21009290]]"
+child: "[[_Standards/WikiData/WD~Esprit-Madeleine_Poquelin,21009290]]"
 depicted_by: '[[_Standards/WikiData/WD~Molière,26709657]]'
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
 family_name: '[[_Standards/WikiData/WD~Poquelin,53733927]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-father: "[[_Standards/WikiData/WD~Jean Poquelin,108802338]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+father: "[[_Standards/WikiData/WD~Jean_Poquelin,108802338]]"
 date_of_birth: "1622-01-15"
 date_of_baptism: "1622-01-15"
 Provenio_UUID:
@@ -99,7 +99,7 @@ ISNI: 0000000123197131
 signature:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Moli%C3%A8re%20signature.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Moliere.svg"
-place_of_burial: "[[_Standards/WikiData/WD~Père Lachaise Cemetery,311]]"
+place_of_burial: "[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]"
 cause_of_death: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'

@@ -16,33 +16,33 @@ Dewey_Decimal_Classification:
 - 616.858445
 has_cause:
 - '[[_Standards/WikiData/WD~frustration,192242]]'
-- "[[_Standards/WikiData/WD~human overpopulation,331439]]"
-- "[[_Standards/WikiData/WD~existential crisis,2603358]]"
-- "[[_Standards/WikiData/WD~psychological stress,3500368]]"
+- "[[_Standards/WikiData/WD~human_overpopulation,331439]]"
+- "[[_Standards/WikiData/WD~existential_crisis,2603358]]"
+- "[[_Standards/WikiData/WD~psychological_stress,3500368]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 different_from:
-- "[[_Standards/WikiData/WD~erotic asphyxiation,603780]]"
-- "[[_Standards/WikiData/WD~line of duty death,1036604]]"
+- "[[_Standards/WikiData/WD~erotic_asphyxiation,603780]]"
+- "[[_Standards/WikiData/WD~line_of_duty_death,1036604]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~killing,844482]]'
 - '[[_Standards/WikiData/WD~tragedy,1881552]]'
 - '[[_Standards/WikiData/WD~autoaggression,4072473]]'
 part_of: '[[_Standards/WikiData/WD~calamity,1689296]]'
 instance_of:
-- "[[_Standards/WikiData/WD~cause of death,1931388]]"
-- "[[_Standards/WikiData/WD~manner of death,2438541]]"
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~suicide prevention,3298118]]"
+- "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
+- "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
+handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~suicide_prevention,3298118]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Suicide sidebar,13378273]]"
-- "[[_Standards/WikiData/WD~Template_Suicide navbox,15634300]]"
-victim_s_: "[[_Standards/WikiData/WD~suicide victim,89062296]]"
-perpetrator: "[[_Standards/WikiData/WD~suicide victim,89062296]]"
+- "[[_Standards/WikiData/WD~Template_Suicide_sidebar,13378273]]"
+- "[[_Standards/WikiData/WD~Template_Suicide_navbox,15634300]]"
+victim_s_: "[[_Standards/WikiData/WD~suicide_victim,89062296]]"
+perpetrator: "[[_Standards/WikiData/WD~suicide_victim,89062296]]"
 UMLS_CUI: C0038661
 health_specialty:
 - '[[_Standards/WikiData/WD~psychiatry,7867]]'

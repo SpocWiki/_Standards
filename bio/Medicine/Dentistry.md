@@ -1,22 +1,22 @@
 ﻿---
 has_id_wikidata: Q12128
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 instance_of:
-- "[[_Standards/WikiData/WD~medical specialty,930752]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of dentistry,2155629]]"
+- "[[_Standards/WikiData/WD~medical_specialty,930752]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_dentistry,2155629]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~Q3349342,3349342]]'
-- "[[_Standards/WikiData/WD~professor of dentistry,130629406]]"
+- "[[_Standards/WikiData/WD~professor_of_dentistry,130629406]]"
 - '[[_Standards/WikiData/WD~dentist,27349]]'
-different_from: "[[_Standards/WikiData/WD~oral medicine,3673891]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~oral medicine,3673891]]"
+different_from: "[[_Standards/WikiData/WD~oral_medicine,3673891]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~oral_medicine,3673891]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dentistry,10887576]]'
-has_part_s_: "[[_Standards/WikiData/WD~clinical dentistry,121493590]]"
+has_part_s_: "[[_Standards/WikiData/WD~clinical_dentistry,121493590]]"
 Gujarati_Vishwakosh_entry: દાંત-અને-દંતવિદ્યા
 UMLS_CUI: C0011438
 WordLift_URL: "http://data.wordlift.io/wl01714/entity/dentistry"

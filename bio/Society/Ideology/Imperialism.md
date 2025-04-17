@@ -6,10 +6,10 @@ instance_of:
 - '[[_Standards/WikiData/WD~ideology,7257]]'
 different_from: '[[_Standards/WikiData/WD~militarism,177266]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 subclass_of: '[[_Standards/WikiData/WD~expansionism,1031250]]'
 opposite_of: '[[_Standards/WikiData/WD~anti-imperialism,1144178]]'
 practiced_by: '[[_Standards/WikiData/WD~imperialist,120327993]]'

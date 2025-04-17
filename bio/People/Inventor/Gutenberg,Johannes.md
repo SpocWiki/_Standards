@@ -24,30 +24,30 @@ occupation:
 field_of_work:
 - '[[_Standards/WikiData/WD~inventor,205375]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Neue Deutsche Biographie,222784]]"
-- "[[_Standards/WikiData/WD~Allgemeine Deutsche Biographie,590208]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-educated_at: "[[_Standards/WikiData/WD~University of Erfurt,702524]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Minneapolis Institute of Art,1700481]]"
+- "[[_Standards/WikiData/WD~Neue_Deutsche_Biographie,222784]]"
+- "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+educated_at: "[[_Standards/WikiData/WD~University_of_Erfurt,702524]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]"
 given_name: '[[_Standards/WikiData/WD~Johannes,2117521]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Gutenberg,16870366]]'
-father: "[[_Standards/WikiData/WD~Friele Gensfleisch zur Laden,47005568]]"
-mother: "[[_Standards/WikiData/WD~Else Wirich,47005582]]"
+father: "[[_Standards/WikiData/WD~Friele_Gensfleisch_zur_Laden,47005568]]"
+mother: "[[_Standards/WikiData/WD~Else_Wirich,47005582]]"
 sibling:
-- "[[_Standards/WikiData/WD~Friele Gensfleisch,47006097]]"
-- "[[_Standards/WikiData/WD~Else Vitztum,47006135]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-depicted_by: "[[_Standards/WikiData/WD~Gutenberg stele,122926292]]"
+- "[[_Standards/WikiData/WD~Friele_Gensfleisch,47006097]]"
+- "[[_Standards/WikiData/WD~Else_Vitztum,47006135]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+depicted_by: "[[_Standards/WikiData/WD~Gutenberg_stele,122926292]]"
 date_of_death: "1468"
 birth_name:
 - "Johannes Gensfleisch zur Laden zum Gutenberg"
@@ -73,7 +73,7 @@ place_of_death: '[[_Standards/WikiData/WD~Mainz,1720]]'
 place_of_birth: '[[_Standards/WikiData/WD~Mainz,1720]]'
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Christianity,5043]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Holy Roman Empire,12548]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 ---

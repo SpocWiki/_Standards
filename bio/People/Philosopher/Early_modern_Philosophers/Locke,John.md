@@ -5,85 +5,85 @@ has_id_wikidata: Q9353
 occupation:
 - '[[_Standards/WikiData/WD~politician,82955]]'
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- "[[_Standards/WikiData/WD~philosopher of law,23760244]]"
+- "[[_Standards/WikiData/WD~philosopher_of_law,23760244]]"
 - '[[_Standards/WikiData/WD~scientist,901]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~physician,39631]]'
 movement: '[[_Standards/WikiData/WD~empiricism,83368]]'
-member_of: "[[_Standards/WikiData/WD~Royal Society,123885]]"
+member_of: "[[_Standards/WikiData/WD~Royal_Society,123885]]"
 influenced_by:
-- "[[_Standards/WikiData/WD~Hugo Grotius,154959]]"
-- "[[_Standards/WikiData/WD~Anthony Ashley Cooper, 1st Earl of Shaftesbury,336002]]"
-- "[[_Standards/WikiData/WD~Thomas Sydenham,559213]]"
-- "[[_Standards/WikiData/WD~Robert Filmer,707787]]"
-- "[[_Standards/WikiData/WD~Damaris Cudworth Masham,2332520]]"
-- "[[_Standards/WikiData/WD~René Descartes,9191]]"
-- "[[_Standards/WikiData/WD~Thomas Hobbes,37621]]"
-- "[[_Standards/WikiData/WD~Samuel von Pufendorf,57186]]"
+- "[[_Standards/WikiData/WD~Hugo_Grotius,154959]]"
+- "[[_Standards/WikiData/WD~Anthony_Ashley_Cooper,_1st_Earl_of_Shaftesbury,336002]]"
+- "[[_Standards/WikiData/WD~Thomas_Sydenham,559213]]"
+- "[[_Standards/WikiData/WD~Robert_Filmer,707787]]"
+- "[[_Standards/WikiData/WD~Damaris_Cudworth_Masham,2332520]]"
+- "[[_Standards/WikiData/WD~René_Descartes,9191]]"
+- "[[_Standards/WikiData/WD~Thomas_Hobbes,37621]]"
+- "[[_Standards/WikiData/WD~Samuel_von_Pufendorf,57186]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~political philosophy,179805]]"
+- "[[_Standards/WikiData/WD~political_philosophy,179805]]"
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 - '[[_Standards/WikiData/WD~epistemology,9471]]'
 - '[[_Standards/WikiData/WD~medicine,11190]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of England,179876]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Two Treatises of Government,231949]]"
-- "[[_Standards/WikiData/WD~An Essay Concerning Human Understanding,482438]]"
-- "[[_Standards/WikiData/WD~A Letter Concerning Toleration,914139]]"
-- "[[_Standards/WikiData/WD~Some Thoughts Concerning Education,2471642]]"
-- "[[_Standards/WikiData/WD~Of the Conduct of the Understanding,7078837]]"
-- "[[_Standards/WikiData/WD~The prince and the cobbler,10339965]]"
+- "[[_Standards/WikiData/WD~Two_Treatises_of_Government,231949]]"
+- "[[_Standards/WikiData/WD~An_Essay_Concerning_Human_Understanding,482438]]"
+- "[[_Standards/WikiData/WD~A_Letter_Concerning_Toleration,914139]]"
+- "[[_Standards/WikiData/WD~Some_Thoughts_Concerning_Education,2471642]]"
+- "[[_Standards/WikiData/WD~Of_the_Conduct_of_the_Understanding,7078837]]"
+- "[[_Standards/WikiData/WD~The_prince_and_the_cobbler,10339965]]"
 employer:
-- "[[_Standards/WikiData/WD~Anthony Ashley Cooper, 1st Earl of Shaftesbury,336002]]"
-- "[[_Standards/WikiData/WD~Caleb Banks,5019214]]"
-- "[[_Standards/WikiData/WD~University of Oxford,34433]]"
-different_from: "[[_Standards/WikiData/WD~John Locke,399587]]"
+- "[[_Standards/WikiData/WD~Anthony_Ashley_Cooper,_1st_Earl_of_Shaftesbury,336002]]"
+- "[[_Standards/WikiData/WD~Caleb_Banks,5019214]]"
+- "[[_Standards/WikiData/WD~University_of_Oxford,34433]]"
+different_from: "[[_Standards/WikiData/WD~John_Locke,399587]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Dictionary of National Biography, 1885–1900,15987216]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885–1900,15987216]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
-- "[[_Standards/WikiData/WD~Pedagogues and Psychologists of the World,126722605]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
+- "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
 educated_at:
-- "[[_Standards/WikiData/WD~Christ Church,745967]]"
-- "[[_Standards/WikiData/WD~Westminster School,1341516]]"
+- "[[_Standards/WikiData/WD~Christ_Church,745967]]"
+- "[[_Standards/WikiData/WD~Westminster_School,1341516]]"
 place_of_birth: '[[_Standards/WikiData/WD~Wrington,1825419]]'
-place_of_death: "[[_Standards/WikiData/WD~High Laver,2233631]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+place_of_death: "[[_Standards/WikiData/WD~High_Laver,2233631]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 given_name: '[[_Standards/WikiData/WD~John,4925477]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-- "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
-award_received: "[[_Standards/WikiData/WD~Fellow of the Royal Society,15631401]]"
+- "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
+- "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+award_received: "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
 family_name: '[[_Standards/WikiData/WD~Q16872404,16872404]]'
-father: "[[_Standards/WikiData/WD~John Locke,21198546]]"
-mother: "[[_Standards/WikiData/WD~Agnes Keene,21198547]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-place_of_burial: "[[_Standards/WikiData/WD~High Laver,83958490]]"
-sibling: "[[_Standards/WikiData/WD~Thomas Locke,96089783]]"
+father: "[[_Standards/WikiData/WD~John_Locke,21198546]]"
+mother: "[[_Standards/WikiData/WD~Agnes_Keene,21198547]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+place_of_burial: "[[_Standards/WikiData/WD~High_Laver,83958490]]"
+sibling: "[[_Standards/WikiData/WD~Thomas_Locke,96089783]]"
 depicted_by:
-- "[[_Standards/WikiData/WD~John Locke (1632–1704),118992130]]"
-- "[[_Standards/WikiData/WD~John Locke (1632–1704), Philosopher,119737628]]"
-- "[[_Standards/WikiData/WD~John Locke (1632–1704),119932629]]"
-- "[[_Standards/WikiData/WD~John Locke,119951956]]"
+- "[[_Standards/WikiData/WD~John_Locke_(1632–1704),118992130]]"
+- "[[_Standards/WikiData/WD~John_Locke_(1632–1704),_Philosopher,119737628]]"
+- "[[_Standards/WikiData/WD~John_Locke_(1632–1704),119932629]]"
+- "[[_Standards/WikiData/WD~John_Locke,119951956]]"
 ISNI: 0000000121272329
 date_of_death: "1704-11-08"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-cause_of_death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
+cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
 religion_or_worldview: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 medical_condition: '[[_Standards/WikiData/WD~asthma,35869]]'

@@ -8,41 +8,41 @@ Unicode_character:
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dance-At-Bougival.jpg"
 has_part_s_:
 - '[[_Standards/WikiData/WD~choreography,180856]]'
-- "[[_Standards/WikiData/WD~musical work,2188189]]"
-- "[[_Standards/WikiData/WD~performance work,17538722]]"
+- "[[_Standards/WikiData/WD~musical_work,2188189]]"
+- "[[_Standards/WikiData/WD~performance_work,17538722]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~performing arts,184485]]"
-- "[[_Standards/WikiData/WD~physical activity,747883]]"
-- "[[_Standards/WikiData/WD~creative work,17537576]]"
+- "[[_Standards/WikiData/WD~performing_arts,184485]]"
+- "[[_Standards/WikiData/WD~physical_activity,747883]]"
+- "[[_Standards/WikiData/WD~creative_work,17537576]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-has_list: "[[_Standards/WikiData/WD~list of dances,1759354]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+has_list: "[[_Standards/WikiData/WD~list_of_dances,1759354]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~répétiteur,1784753]]'
 - '[[_Standards/WikiData/WD~dancer,5716684]]'
-studied_in: "[[_Standards/WikiData/WD~dance studies,2393450]]"
-history_of_topic: "[[_Standards/WikiData/WD~Dance in mythology and religion,5215255]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of dance,7112602]]"
+studied_in: "[[_Standards/WikiData/WD~dance_studies,2393450]]"
+history_of_topic: "[[_Standards/WikiData/WD~Dance_in_mythology_and_religion,5215255]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_dance,7112602]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Dance,8085029]]'
-- "[[_Standards/WikiData/WD~Template_Infobox dance,14473795]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_dance,14473795]]"
 used_by: '[[_Standards/WikiData/WD~dance,25543541]]'
 instance_of:
-- "[[_Standards/WikiData/WD~performing arts genre,45971958]]"
+- "[[_Standards/WikiData/WD~performing_arts_genre,45971958]]"
 - '[[_Standards/WikiData/WD~sport,349]]'
 - '[[_Standards/WikiData/WD~hobby,47728]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Performing arts,59956276]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276]]"
 Provenio_UUID: 2db51e5b-1ab8-4885-8230-7c489e873b29
 MeSH_tree_code: I03.450.642.287
 Wikidata_property: "dance style"

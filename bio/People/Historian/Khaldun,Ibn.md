@@ -19,17 +19,17 @@ field_of_work:
 - '[[_Standards/WikiData/WD~economics,8134]]'
 - '[[_Standards/WikiData/WD~sociology,21201]]'
 - '[[_Standards/WikiData/WD~anthropology,23404]]'
-given_name: "[[_Standards/WikiData/WD~Abd al-Rahman,307378]]"
-educated_at: "[[_Standards/WikiData/WD~Ez-Zitouna University,428136]]"
+given_name: "[[_Standards/WikiData/WD~Abd_al-Rahman,307378]]"
+educated_at: "[[_Standards/WikiData/WD~Ez-Zitouna_University,428136]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Dictionary of African Biography,46002746]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Africa_ An Encyclopedic Reference,115653803]]"
-notable_work: "[[_Standards/WikiData/WD~Book of Lessons,960651]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]"
+notable_work: "[[_Standards/WikiData/WD~Book_of_Lessons,960651]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Ibn%20Khaldun%20%28Casbah%20of%20Bejaia%2C%20Algeria%29.jpg"
 BHCL_UUID: 3db1598f-587e-4126-a5b8-a411cffd7543
@@ -38,10 +38,10 @@ Google_Doodle: birthday-of-ibn-khaldun
 Krugosvet_article: gumanitarnye_nauki/filosofiya/IBN_HALDUN_VALI_AD-DIN_ABD_AR-RAHMAN_IBN_MUHAMMAD.html
 Libris_URI: wt795rmf4hhldfb
 name_in_native_language: "عبد الرحمٰن بن مُحمَّد بن خلدون الحضرمي"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Q113320298,113320298]]'
-- "[[_Standards/WikiData/WD~Template_Ibn Khaldun,113320305]]"
+- "[[_Standards/WikiData/WD~Template_Ibn_Khaldun,113320305]]"
 date_of_birth: "1332-06-04"
 ISNI: 0000000121296275
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'

@@ -3,12 +3,12 @@ has_id_wikidata: Q1059
 studied_in: '[[_Standards/WikiData/WD~immunology,101929]]'
 has_effect: '[[_Standards/WikiData/WD~immunity,182581]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~organ system,188193]]"
-- "[[_Standards/WikiData/WD~biological system,30336093]]"
-has_part_s_: "[[_Standards/WikiData/WD~memory T cell,2304808]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Lymph immune and complement navs,11112574]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~immune system development,14863467]]"
-instance_of: "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
+- "[[_Standards/WikiData/WD~organ_system,188193]]"
+- "[[_Standards/WikiData/WD~biological_system,30336093]]"
+has_part_s_: "[[_Standards/WikiData/WD~memory_T_cell,2304808]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Lymph_immune_and_complement_navs,11112574]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~immune_system_development,14863467]]"
+instance_of: "[[_Standards/WikiData/WD~anatomical_system_type,104027169]]"
 UMLS_CUI: C0020962
 Commons_category: "Immune system"
 WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/immune_system_2"

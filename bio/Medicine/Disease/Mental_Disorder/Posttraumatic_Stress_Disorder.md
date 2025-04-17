@@ -5,10 +5,10 @@ aliases:
 has_id_wikidata: Q202387
 has_cause:
 - '[[_Standards/WikiData/WD~refugee,131572]]'
-- "[[_Standards/WikiData/WD~sexual violence,558075]]"
+- "[[_Standards/WikiData/WD~sexual_violence,558075]]"
 - '[[_Standards/WikiData/WD~combat,650711]]'
-- "[[_Standards/WikiData/WD~psychological abuse,1339137]]"
-- "[[_Standards/WikiData/WD~physical abuse,2827132]]"
+- "[[_Standards/WikiData/WD~psychological_abuse,1339137]]"
+- "[[_Standards/WikiData/WD~physical_abuse,2827132]]"
 - '[[_Standards/WikiData/WD~friend,17297777]]'
 - '[[_Standards/WikiData/WD~war,198]]'
 drug_or_therapy_used_for_treatment:
@@ -30,39 +30,39 @@ drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~fluoxetine,422244]]'
 - '[[_Standards/WikiData/WD~escitalopram,423757]]'
 - '[[_Standards/WikiData/WD~prazosin,425296]]'
-- "[[_Standards/WikiData/WD~Transcendental Meditation,558571]]"
+- "[[_Standards/WikiData/WD~Transcendental_Meditation,558571]]"
 - '[[_Standards/WikiData/WD~venlafaxine,898407]]'
-- "[[_Standards/WikiData/WD~cognitive behavioral therapy,1147152]]"
-- "[[_Standards/WikiData/WD~prolonged exposure therapy,2412412]]"
-- "[[_Standards/WikiData/WD~Cannabis indica,2936421]]"
-- "[[_Standards/WikiData/WD~cognitive processing therapy,5141234]]"
-- "[[_Standards/WikiData/WD~trauma focused cognitive behavioral therapy,18354078]]"
+- "[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]"
+- "[[_Standards/WikiData/WD~prolonged_exposure_therapy,2412412]]"
+- "[[_Standards/WikiData/WD~Cannabis_indica,2936421]]"
+- "[[_Standards/WikiData/WD~cognitive_processing_therapy,5141234]]"
+- "[[_Standards/WikiData/WD~trauma_focused_cognitive_behavioral_therapy,18354078]]"
 symptoms_and_signs:
 - '[[_Standards/WikiData/WD~anxiety,154430]]'
-- "[[_Standards/WikiData/WD~sleep disorder,177190]]"
+- "[[_Standards/WikiData/WD~sleep_disorder,177190]]"
 - '[[_Standards/WikiData/WD~nightmare,192692]]'
-- "[[_Standards/WikiData/WD~heart rate variability,933954]]"
+- "[[_Standards/WikiData/WD~heart_rate_variability,933954]]"
 - '[[_Standards/WikiData/WD~insomnia,1869874]]'
-- "[[_Standards/WikiData/WD~avoidance coping,2517007]]"
+- "[[_Standards/WikiData/WD~avoidance_coping,2517007]]"
 health_specialty:
-- "[[_Standards/WikiData/WD~clinical psychology,199906]]"
+- "[[_Standards/WikiData/WD~clinical_psychology,199906]]"
 - '[[_Standards/WikiData/WD~psychiatry,7867]]'
 different_from:
-- "[[_Standards/WikiData/WD~acute stress reaction,424221]]"
-- "[[_Standards/WikiData/WD~posttraumatic stress disorder in children and teens,1246099]]"
-- "[[_Standards/WikiData/WD~let-down effect,120065119]]"
+- "[[_Standards/WikiData/WD~acute_stress_reaction,424221]]"
+- "[[_Standards/WikiData/WD~posttraumatic_stress_disorder_in_children_and_teens,1246099]]"
+- "[[_Standards/WikiData/WD~let-down_effect,120065119]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~anxiety disorder,544006]]"
-- "[[_Standards/WikiData/WD~stress-related disorders,815296]]"
+- "[[_Standards/WikiData/WD~anxiety_disorder,544006]]"
+- "[[_Standards/WikiData/WD~stress-related_disorders,815296]]"
 - '[[_Standards/WikiData/WD~sequelae,3089469]]'
 - '[[_Standards/WikiData/WD~disease,12136]]'
-- "[[_Standards/WikiData/WD~major depressive disorder,42844]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~combat disorder,1482034]]"
+- "[[_Standards/WikiData/WD~major_depressive_disorder,42844]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~combat_disorder,1482034]]"
 handled_mitigated_or_managed_by:
 - '[[_Standards/WikiData/WD~desensitization,2700499]]'
-- "[[_Standards/WikiData/WD~treatments for PTSD,7836915]]"
-- "[[_Standards/WikiData/WD~MDMA-assisted psychotherapy,65042395]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~treatments_for_PTSD,7836915]]"
+- "[[_Standards/WikiData/WD~MDMA-assisted_psychotherapy,65042395]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
 genetic_association:
 - '[[_Standards/WikiData/WD~PRKN,14864255]]'
 - '[[_Standards/WikiData/WD~KAT2B,14908260]]'
@@ -77,8 +77,8 @@ genetic_association:
 - '[[_Standards/WikiData/WD~TRMT9B,18044229]]'
 - '[[_Standards/WikiData/WD~SLC4A5,18044722]]'
 - '[[_Standards/WikiData/WD~ZMAT3,18045650]]'
-medical_examination: "[[_Standards/WikiData/WD~Davidson Trauma Scale,108525744]]"
-instance_of: "[[_Standards/WikiData/WD~class of disease,112193867]]"
+medical_examination: "[[_Standards/WikiData/WD~Davidson_Trauma_Scale,108525744]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Goya-Guerra%20%2809%29.jpg"
 WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/post-traumatic_stress_disorder"
 exact_match:

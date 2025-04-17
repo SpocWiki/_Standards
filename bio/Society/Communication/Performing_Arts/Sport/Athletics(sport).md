@@ -4,49 +4,49 @@ Colon_Classification: MY2
 OpenStreetMap_tag_or_key: "Tag:sport=athletics"
 has_part_s_:
 - '[[_Standards/WikiData/WD~racewalking,202391]]'
-- "[[_Standards/WikiData/WD~long-distance running,917206]]"
+- "[[_Standards/WikiData/WD~long-distance_running,917206]]"
 - '[[_Standards/WikiData/WD~jumping,1151752]]'
 - '[[_Standards/WikiData/WD~throwing,3216963]]'
-- "[[_Standards/WikiData/WD~track and field,3312129]]"
-- "[[_Standards/WikiData/WD~combined track and field events,3924425]]"
-- "[[_Standards/WikiData/WD~indoor athletics,10235779]]"
-- "[[_Standards/WikiData/WD~running discipline of track,21467672]]"
-- "[[_Standards/WikiData/WD~field sport,52177345]]"
+- "[[_Standards/WikiData/WD~track_and_field,3312129]]"
+- "[[_Standards/WikiData/WD~combined_track_and_field_events,3924425]]"
+- "[[_Standards/WikiData/WD~indoor_athletics,10235779]]"
+- "[[_Standards/WikiData/WD~running_discipline_of_track,21467672]]"
+- "[[_Standards/WikiData/WD~field_sport,52177345]]"
 record_or_record_progression:
-- "[[_Standards/WikiData/WD~list of world records in athletics,208410]]"
-- "[[_Standards/WikiData/WD~list of world junior records in athletics,592883]]"
-- "[[_Standards/WikiData/WD~list of South American records in athletics,965765]]"
-- "[[_Standards/WikiData/WD~list of Olympic records in athletics,1043261]]"
-- "[[_Standards/WikiData/WD~list of European records in athletics,1445200]]"
-- "[[_Standards/WikiData/WD~list of African records in athletics,2115084]]"
-- "[[_Standards/WikiData/WD~list of Asian records in athletics,2271743]]"
-- "[[_Standards/WikiData/WD~list of North American records in athletics,3643775]]"
+- "[[_Standards/WikiData/WD~list_of_world_records_in_athletics,208410]]"
+- "[[_Standards/WikiData/WD~list_of_world_junior_records_in_athletics,592883]]"
+- "[[_Standards/WikiData/WD~list_of_South_American_records_in_athletics,965765]]"
+- "[[_Standards/WikiData/WD~list_of_Olympic_records_in_athletics,1043261]]"
+- "[[_Standards/WikiData/WD~list_of_European_records_in_athletics,1445200]]"
+- "[[_Standards/WikiData/WD~list_of_African_records_in_athletics,2115084]]"
+- "[[_Standards/WikiData/WD~list_of_Asian_records_in_athletics,2271743]]"
+- "[[_Standards/WikiData/WD~list_of_North_American_records_in_athletics,3643775]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~Olympic sport,212434]]"
+- "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
 - '[[_Standards/WikiData/WD~athletics,11047409]]'
 different_from:
 - '[[_Standards/WikiData/WD~Atletika,347884]]'
-- "[[_Standards/WikiData/WD~track and field,3312129]]"
+- "[[_Standards/WikiData/WD~track_and_field,3312129]]"
 - '[[_Standards/WikiData/WD~Athletics,3628059]]'
 - '[[_Standards/WikiData/WD~Atletiko,12961784]]'
 - '[[_Standards/WikiData/WD~Athletau,123023706]]'
 - '[[_Standards/WikiData/WD~Atletiks,123023867]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-uses: "[[_Standards/WikiData/WD~athletics track,1004435]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+uses: "[[_Standards/WikiData/WD~athletics_track,1004435]]"
 practiced_by:
-- "[[_Standards/WikiData/WD~track and field official,7831495]]"
-- "[[_Standards/WikiData/WD~athletics competitor,11513337]]"
-- "[[_Standards/WikiData/WD~track and field coach,19827985]]"
+- "[[_Standards/WikiData/WD~track_and_field_official,7831495]]"
+- "[[_Standards/WikiData/WD~athletics_competitor,11513337]]"
+- "[[_Standards/WikiData/WD~track_and_field_coach,19827985]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Athletics,8289031]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox athletics race,11171523]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Athletics,15079710]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_athletics_race,11171523]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Athletics,15079710]]"
 BHCL_UUID: e4d99bf3-d0d7-4c89-84eb-0487150b46f0
-authority: "[[_Standards/WikiData/WD~World Athletics,1158]]"
-instance_of: "[[_Standards/WikiData/WD~type of sport,31629]]"
+authority: "[[_Standards/WikiData/WD~World_Athletics,1158]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20pictogram.svg"
 OmegaWiki_Defined_Meaning: 711492
 Commons_category: Athletics

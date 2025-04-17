@@ -5,66 +5,66 @@ aliases:
 has_id_wikidata: Q1340
 instrument:
 - '[[_Standards/WikiData/WD~harpsichord,81982]]'
-- "[[_Standards/WikiData/WD~viola d'amore,742180]]"
+- "[[_Standards/WikiData/WD~viola_d'amore,742180]]"
 - '[[_Standards/WikiData/WD~violin,8355]]'
-hair_color: "[[_Standards/WikiData/WD~red hair,152357]]"
+hair_color: "[[_Standards/WikiData/WD~red_hair,152357]]"
 influenced_by:
-- "[[_Standards/WikiData/WD~Arcangelo Corelli,164475]]"
-- "[[_Standards/WikiData/WD~Giuseppe Torelli,207532]]"
+- "[[_Standards/WikiData/WD~Arcangelo_Corelli,164475]]"
+- "[[_Standards/WikiData/WD~Giuseppe_Torelli,207532]]"
 genre:
-- "[[_Standards/WikiData/WD~chamber music,189201]]"
+- "[[_Standards/WikiData/WD~chamber_music,189201]]"
 - '[[_Standards/WikiData/WD~sinfonia,377141]]'
 - '[[_Standards/WikiData/WD~sardana,1413570]]'
-- "[[_Standards/WikiData/WD~church music,8812109]]"
+- "[[_Standards/WikiData/WD~church_music,8812109]]"
 - '[[_Standards/WikiData/WD~opera,1344]]'
 - '[[_Standards/WikiData/WD~concerto,9748]]'
 catalogue_raisonné:
 - '[[_Standards/WikiData/WD~Ryom-Verzeichnis,209201]]'
 position_held:
 - '[[_Standards/WikiData/WD~chapelmaster,215793]]'
-- "[[_Standards/WikiData/WD~Latin Catholic priest,1469535]]"
-- "[[_Standards/WikiData/WD~music teacher,2675537]]"
+- "[[_Standards/WikiData/WD~Latin_Catholic_priest,1469535]]"
+- "[[_Standards/WikiData/WD~music_teacher,2675537]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Orlando furioso,241950]]"
-- "[[_Standards/WikiData/WD~Juditha triumphans,1370159]]"
-- "[[_Standards/WikiData/WD~L'estro armonico, Op. 3,1521015]]"
-- "[[_Standards/WikiData/WD~Gloria in D Major,2261005]]"
+- "[[_Standards/WikiData/WD~Orlando_furioso,241950]]"
+- "[[_Standards/WikiData/WD~Juditha_triumphans,1370159]]"
+- "[[_Standards/WikiData/WD~L'estro_armonico,_Op._3,1521015]]"
+- "[[_Standards/WikiData/WD~Gloria_in_D_Major,2261005]]"
 - '[[_Standards/WikiData/WD~Giustino,2639298]]'
-- "[[_Standards/WikiData/WD~Stabat Mater,3495373]]"
-- "[[_Standards/WikiData/WD~Vivaldi's 'Manchester' Violin Sonatas,107967581]]"
-- "[[_Standards/WikiData/WD~The Four Seasons,12016]]"
+- "[[_Standards/WikiData/WD~Stabat_Mater,3495373]]"
+- "[[_Standards/WikiData/WD~Vivaldi's_'Manchester'_Violin_Sonatas,107967581]]"
+- "[[_Standards/WikiData/WD~The_Four_Seasons,12016]]"
 student_of:
-- "[[_Standards/WikiData/WD~Giovanni Legrenzi,354947]]"
-- "[[_Standards/WikiData/WD~Giovanni Battista Vivaldi,1525940]]"
+- "[[_Standards/WikiData/WD~Giovanni_Legrenzi,354947]]"
+- "[[_Standards/WikiData/WD~Giovanni_Battista_Vivaldi,1525940]]"
 student:
-- "[[_Standards/WikiData/WD~Johann Georg Pisendel,508635]]"
-- "[[_Standards/WikiData/WD~Giovanni Battista Somis,960222]]"
-- "[[_Standards/WikiData/WD~František Jiránek,1445590]]"
-- "[[_Standards/WikiData/WD~Anna Girò,3495712]]"
+- "[[_Standards/WikiData/WD~Johann_Georg_Pisendel,508635]]"
+- "[[_Standards/WikiData/WD~Giovanni_Battista_Somis,960222]]"
+- "[[_Standards/WikiData/WD~František_Jiránek,1445590]]"
+- "[[_Standards/WikiData/WD~Anna_Girò,3495712]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Brief Biographical Dictionary of Foreign Composers,125935456]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
 employer:
-- "[[_Standards/WikiData/WD~Philip of Hesse-Darmstadt,669773]]"
-- "[[_Standards/WikiData/WD~Teatro San Angelo,1110282]]"
-- "[[_Standards/WikiData/WD~Ospedale della Pietà,1816328]]"
-father: "[[_Standards/WikiData/WD~Giovanni Battista Vivaldi,1525940]]"
+- "[[_Standards/WikiData/WD~Philip_of_Hesse-Darmstadt,669773]]"
+- "[[_Standards/WikiData/WD~Teatro_San_Angelo,1110282]]"
+- "[[_Standards/WikiData/WD~Ospedale_della_Pietà,1816328]]"
+father: "[[_Standards/WikiData/WD~Giovanni_Battista_Vivaldi,1525940]]"
 list_of_works:
-- "[[_Standards/WikiData/WD~list of operas by Vivaldie,1787122]]"
-- "[[_Standards/WikiData/WD~list of compositions by Antonio Vivaldi,2397972]]"
+- "[[_Standards/WikiData/WD~list_of_operas_by_Vivaldie,1787122]]"
+- "[[_Standards/WikiData/WD~list_of_compositions_by_Antonio_Vivaldi,2397972]]"
 different_from:
-- "[[_Standards/WikiData/WD~Antonio Vittorio Vivaldi,2416055]]"
-discography: "[[_Standards/WikiData/WD~Antonio Vivaldi discography,3709637]]"
+- "[[_Standards/WikiData/WD~Antonio_Vittorio_Vivaldi,2416055]]"
+discography: "[[_Standards/WikiData/WD~Antonio_Vivaldi_discography,3709637]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name:
 - '[[_Standards/WikiData/WD~Antonio,7141520]]'
 - '[[_Standards/WikiData/WD~Lucio,8140778]]'
 religion_or_worldview:
-- "[[_Standards/WikiData/WD~Roman Catholic,7361618]]"
+- "[[_Standards/WikiData/WD~Roman_Catholic,7361618]]"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Vivaldi%20signature.svg"
 IPI_name_number:
 - 00032204634
@@ -77,10 +77,10 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/VIVALDI_ANTONIO.html
 birth_name: "Antonio Lucio Vivaldi"
 nickname:
 - "il Prete Rosso"
-mother: "[[_Standards/WikiData/WD~Camilla Calicchio,20013710]]"
+mother: "[[_Standards/WikiData/WD~Camilla_Calicchio,20013710]]"
 family_name: '[[_Standards/WikiData/WD~Vivaldi,37452514]]'
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-archives_at: "[[_Standards/WikiData/WD~Archivi dell'Istituto Italiano Antonio Vivaldi,116878246]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+archives_at: "[[_Standards/WikiData/WD~Archivi_dell'Istituto_Italiano_Antonio_Vivaldi,116878246]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q117706064,117706064]]'
 date_of_death: "1741-07-28"
@@ -97,8 +97,8 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Vivaldi.jpg"
 name_in_native_language: "Antonio Vivaldi"
 place_of_death: '[[_Standards/WikiData/WD~Vienna,1741]]'
 place_of_burial: '[[_Standards/WikiData/WD~Vienna,1741]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Republic of Venice,4948]]"
-movement: "[[_Standards/WikiData/WD~Baroque music,8361]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Republic_of_Venice,4948]]"
+movement: "[[_Standards/WikiData/WD~Baroque_music,8361]]"
 instance_of:
 - '[[_Standards/WikiData/WD~human,5]]'
 social_media_followers: 74000

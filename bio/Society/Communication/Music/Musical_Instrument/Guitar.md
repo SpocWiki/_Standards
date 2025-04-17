@@ -3,44 +3,44 @@ has_id_wikidata: Q6607
 Dewey_Decimal_Classification: 787.87
 Krugosvet_article: kultura_i_obrazovanie/muzyka/GITARA.html
 has_part_s_:
-- "[[_Standards/WikiData/WD~sound hole,221712]]"
-- "[[_Standards/WikiData/WD~truss rod,590623]]"
+- "[[_Standards/WikiData/WD~sound_hole,221712]]"
+- "[[_Standards/WikiData/WD~truss_rod,590623]]"
 - '[[_Standards/WikiData/WD~fret,636309]]'
 - '[[_Standards/WikiData/WD~fretboard,745887]]'
 - '[[_Standards/WikiData/WD~bridge,830869]]'
 - '[[_Standards/WikiData/WD~neck,944038]]'
 - '[[_Standards/WikiData/WD~headstock,1033547]]'
 - '[[_Standards/WikiData/WD~nut,1186738]]'
-- "[[_Standards/WikiData/WD~sound board,1189953]]"
-- "[[_Standards/WikiData/WD~guitar string,1527700]]"
+- "[[_Standards/WikiData/WD~sound_board,1189953]]"
+- "[[_Standards/WikiData/WD~guitar_string,1527700]]"
 - '[[_Standards/WikiData/WD~inlay,6034896]]'
-- "[[_Standards/WikiData/WD~machine head,17149240]]"
+- "[[_Standards/WikiData/WD~machine_head,17149240]]"
 - '[[_Standards/WikiData/WD~body,55185381]]'
 made_from_material:
-- "[[_Standards/WikiData/WD~mahogany wood,239788]]"
-- "[[_Standards/WikiData/WD~maple wood,402516]]"
-depicted_by: "[[_Standards/WikiData/WD~Guitar Hero,533752]]"
+- "[[_Standards/WikiData/WD~mahogany_wood,239788]]"
+- "[[_Standards/WikiData/WD~maple_wood,402516]]"
+depicted_by: "[[_Standards/WikiData/WD~Guitar_Hero,533752]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Diccionario del español de México,5805556]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica,455]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
 used_by: '[[_Standards/WikiData/WD~guitarist,855091]]'
 different_from: '[[_Standards/WikiData/WD~Sista,4420886]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox guitar model,10563739]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_guitar_model,10563739]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guitar,14615774]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201204,21201204]]'
-award_received: "[[_Standards/WikiData/WD~Instrument of the Year,48757486]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~guitar accessories,55185569]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~electro-acoustic chordophones,55738960]]"
+award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~guitar_accessories,55185569]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~electro-acoustic_chordophones,55738960]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~Q57306162,57306162]]'
-- "[[_Standards/WikiData/WD~long, thin object,113519195]]"
-instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
+- "[[_Standards/WikiData/WD~long,_thin_object,113519195]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
 Baidu_Tieba_name: 吉他
 Hornbostel_Sachs_classification: 321.322-5-6
 OmegaWiki_Defined_Meaning: 349118

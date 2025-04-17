@@ -1,35 +1,35 @@
 ﻿---
 has_id_wikidata: Q9649
 has_part_s_:
-- "[[_Standards/WikiData/WD~salivary gland,134938]]"
+- "[[_Standards/WikiData/WD~salivary_gland,134938]]"
 - '[[_Standards/WikiData/WD~rectum,158716]]'
 - '[[_Standards/WikiData/WD~esophagus,173710]]'
 - '[[_Standards/WikiData/WD~pharynx,174778]]'
 - '[[_Standards/WikiData/WD~stomach,1029907]]'
-- "[[_Standards/WikiData/WD~human mouth,1370895]]"
-- "[[_Standards/WikiData/WD~Biliary tract,79216892]]"
+- "[[_Standards/WikiData/WD~human_mouth,1370895]]"
+- "[[_Standards/WikiData/WD~Biliary_tract,79216892]]"
 - '[[_Standards/WikiData/WD~liver,9368]]'
 - '[[_Standards/WikiData/WD~pancreas,9618]]'
-- "[[_Standards/WikiData/WD~large intestine,11083]]"
-- "[[_Standards/WikiData/WD~small intestine,11090]]"
+- "[[_Standards/WikiData/WD~large_intestine,11083]]"
+- "[[_Standards/WikiData/WD~small_intestine,11090]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~organ system,188193]]"
-- "[[_Standards/WikiData/WD~human anatomical structure,25452965]]"
-- "[[_Standards/WikiData/WD~human organ system,41653490]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+- "[[_Standards/WikiData/WD~organ_system,188193]]"
+- "[[_Standards/WikiData/WD~human_anatomical_structure,25452965]]"
+- "[[_Standards/WikiData/WD~human_organ_system,41653490]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~organ,712378]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Digestive system navs,10862909]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~digestive system development,21100420]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Digestive_system_navs,10862909]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~digestive_system_development,21100420]]"
 instance_of:
-- "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
-- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+- "[[_Standards/WikiData/WD~anatomical_system_type,104027169]]"
+- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 Terminologia_Histologica: H3.04
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica,455]]"
-facet_of: "[[_Standards/WikiData/WD~human anatomy,3999]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
+facet_of: "[[_Standards/WikiData/WD~human_anatomy,3999]]"
 location: '[[_Standards/WikiData/WD~abdomen,9597]]'
 different_from: '[[_Standards/WikiData/WD~digestion,11978]]'
 has_use: '[[_Standards/WikiData/WD~digestion,11978]]'
-part_of: "[[_Standards/WikiData/WD~human body,23852]]"
+part_of: "[[_Standards/WikiData/WD~human_body,23852]]"
 IAB_code: 318
 MeSH_tree_code: A03
 Colon_Classification: L2

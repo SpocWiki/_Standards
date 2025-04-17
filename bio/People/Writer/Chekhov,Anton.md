@@ -7,35 +7,35 @@ medical_condition: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
 cause_of_death: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
 field_of_work:
 - '[[_Standards/WikiData/WD~drama,25372]]'
-- "[[_Standards/WikiData/WD~creative and professional writing,113209507]]"
+- "[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]"
 - '[[_Standards/WikiData/WD~prose,676]]'
 - '[[_Standards/WikiData/WD~medicine,11190]]'
 genre:
 - '[[_Standards/WikiData/WD~play,25379]]'
-- "[[_Standards/WikiData/WD~short story,49084]]"
-- "[[_Standards/WikiData/WD~short novel,12799318]]"
+- "[[_Standards/WikiData/WD~short_story,49084]]"
+- "[[_Standards/WikiData/WD~short_novel,12799318]]"
 place_of_death: '[[_Standards/WikiData/WD~Badenweiler,25430]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Russian Empire,34266]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
 occupation:
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~playwright,214917]]'
 - '[[_Standards/WikiData/WD~journalist,1930187]]'
 - '[[_Standards/WikiData/WD~satirist,9334029]]'
-- "[[_Standards/WikiData/WD~prose writer,12144794]]"
-- "[[_Standards/WikiData/WD~short story writer,15949613]]"
+- "[[_Standards/WikiData/WD~prose_writer,12144794]]"
+- "[[_Standards/WikiData/WD~short_story_writer,15949613]]"
 influenced_by:
-- "[[_Standards/WikiData/WD~Henrik Ibsen,36661]]"
-- "[[_Standards/WikiData/WD~Ivan Turgenev,42831]]"
-- "[[_Standards/WikiData/WD~Gustave Flaubert,43444]]"
-- "[[_Standards/WikiData/WD~Nikolai Gogol,43718]]"
-- "[[_Standards/WikiData/WD~Alexander Ostrovsky,171976]]"
-- "[[_Standards/WikiData/WD~Émile Zola,504]]"
-- "[[_Standards/WikiData/WD~Fyodor Dostoyevsky,991]]"
-- "[[_Standards/WikiData/WD~Alexander Pushkin,7200]]"
-- "[[_Standards/WikiData/WD~Leo Tolstoy,7243]]"
-- "[[_Standards/WikiData/WD~Guy de Maupassant,9327]]"
-- "[[_Standards/WikiData/WD~Honoré de Balzac,9711]]"
+- "[[_Standards/WikiData/WD~Henrik_Ibsen,36661]]"
+- "[[_Standards/WikiData/WD~Ivan_Turgenev,42831]]"
+- "[[_Standards/WikiData/WD~Gustave_Flaubert,43444]]"
+- "[[_Standards/WikiData/WD~Nikolai_Gogol,43718]]"
+- "[[_Standards/WikiData/WD~Alexander_Ostrovsky,171976]]"
+- "[[_Standards/WikiData/WD~Émile_Zola,504]]"
+- "[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]"
+- "[[_Standards/WikiData/WD~Alexander_Pushkin,7200]]"
+- "[[_Standards/WikiData/WD~Leo_Tolstoy,7243]]"
+- "[[_Standards/WikiData/WD~Guy_de_Maupassant,9327]]"
+- "[[_Standards/WikiData/WD~Honoré_de_Balzac,9711]]"
 Krugosvet_article: kultura_i_obrazovanie/literatura/CHEHOV_ANTON_PAVLOVICH.html
 Swedish_Royal_Theater_Archive: Person/968
 pseudonym:
@@ -47,50 +47,50 @@ name_in_native_language: "Антон Павлович Чехов"
 birth_name: "Антонъ Павловичъ Чеховъ"
 date_of_death: "1904-07-15"
 place_of_birth: '[[_Standards/WikiData/WD~Taganrog,170513]]'
-place_of_burial: "[[_Standards/WikiData/WD~Novodevichy Cemetery,208175]]"
-spouse: "[[_Standards/WikiData/WD~Olga Knipper,466584]]"
+place_of_burial: "[[_Standards/WikiData/WD~Novodevichy_Cemetery,208175]]"
+spouse: "[[_Standards/WikiData/WD~Olga_Knipper,466584]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Three Sisters,477823]]"
-- "[[_Standards/WikiData/WD~The Cherry Orchard,478381]]"
-- "[[_Standards/WikiData/WD~The Seagull,650063]]"
-- "[[_Standards/WikiData/WD~Uncle Vanya,753298]]"
+- "[[_Standards/WikiData/WD~Three_Sisters,477823]]"
+- "[[_Standards/WikiData/WD~The_Cherry_Orchard,478381]]"
+- "[[_Standards/WikiData/WD~The_Seagull,650063]]"
+- "[[_Standards/WikiData/WD~Uncle_Vanya,753298]]"
 - '[[_Standards/WikiData/WD~Vanka,872532]]'
-- "[[_Standards/WikiData/WD~Fat and Thin,3223397]]"
+- "[[_Standards/WikiData/WD~Fat_and_Thin,3223397]]"
 residence: '[[_Standards/WikiData/WD~Melikhovo,564901]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Concise Literary Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Russian writers_ XIX c. [2_2],125555366]]"
+- "[[_Standards/WikiData/WD~Russian_writers__XIX_c. [2_2],125555366]]"
 award_received:
-- "[[_Standards/WikiData/WD~Pushkin Prize,840693]]"
-- "[[_Standards/WikiData/WD~Medal for works on the first general census,4287075]]"
-- "[[_Standards/WikiData/WD~Order of Saint Stanislaus, 3rd class,18084456]]"
-list_of_works: "[[_Standards/WikiData/WD~Anton Chekhov bibliography,842213]]"
+- "[[_Standards/WikiData/WD~Pushkin_Prize,840693]]"
+- "[[_Standards/WikiData/WD~Medal_for_works_on_the_first_general_census,4287075]]"
+- "[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_3rd_class,18084456]]"
+list_of_works: "[[_Standards/WikiData/WD~Anton_Chekhov_bibliography,842213]]"
 sibling:
-- "[[_Standards/WikiData/WD~Maria Chekhova,1978234]]"
-- "[[_Standards/WikiData/WD~Mikhail Chekhov,2145765]]"
-- "[[_Standards/WikiData/WD~Nikolai Chekhov,3341702]]"
-- "[[_Standards/WikiData/WD~Alexander Chekhov,4515202]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-nominated_for: "[[_Standards/WikiData/WD~Drama Desk Award for Outstanding Revival of a Play,5305724]]"
+- "[[_Standards/WikiData/WD~Maria_Chekhova,1978234]]"
+- "[[_Standards/WikiData/WD~Mikhail_Chekhov,2145765]]"
+- "[[_Standards/WikiData/WD~Nikolai_Chekhov,3341702]]"
+- "[[_Standards/WikiData/WD~Alexander_Chekhov,4515202]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+nominated_for: "[[_Standards/WikiData/WD~Drama_Desk_Award_for_Outstanding_Revival_of_a_Play,5305724]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Anton Chekhov,13364789]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Anton_Chekhov,13364789]]"
 family_name: '[[_Standards/WikiData/WD~Chekhov,16865517]]'
-educated_at: "[[_Standards/WikiData/WD~Medical faculty of Moscow University,28064984]]"
+educated_at: "[[_Standards/WikiData/WD~Medical_faculty_of_Moscow_University,28064984]]"
 given_name: '[[_Standards/WikiData/WD~Anton,35663473]]'
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-father: "[[_Standards/WikiData/WD~Pavel Chekhov,68150495]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+father: "[[_Standards/WikiData/WD~Pavel_Chekhov,68150495]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 patronym_or_matronym: '[[_Standards/WikiData/WD~Pavlovich,100965196]]'
-mother: "[[_Standards/WikiData/WD~Evgenia Chekhova,113495056]]"
+mother: "[[_Standards/WikiData/WD~Evgenia_Chekhova,113495056]]"
 spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%B6%D5%BF%D5%B8%D5%B6%20%D5%89%D5%A5%D5%AD%D5%B8%D5%BE%20%28Anton%20Chekhov%29.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/En-Anton%20Chekhov%20%28intro%29.ogg"

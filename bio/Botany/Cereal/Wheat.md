@@ -1,24 +1,24 @@
 ﻿---
 has_id_wikidata: Q15645384
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Triticum aestivum,161098]]"
+natural_product_of_taxon: "[[_Standards/WikiData/WD~Triticum_aestivum,161098]]"
 instance_of:
 - '[[_Standards/WikiData/WD~caryopsis,506139]]'
 - '[[_Standards/WikiData/WD~groat,1436715]]'
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
 has_effect:
-- "[[_Standards/WikiData/WD~gluten-related disorder,1367782]]"
-- "[[_Standards/WikiData/WD~wheat allergy,4413030]]"
+- "[[_Standards/WikiData/WD~gluten-related_disorder,1367782]]"
+- "[[_Standards/WikiData/WD~wheat_allergy,4413030]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Wheat,7963158]]'
 Dewey_Decimal_Classification:
 - 584.9
@@ -28,9 +28,9 @@ Dewey_Decimal_Classification:
 Wikidata_usage_instructions: "focus on agriculture here, not on taxonomy"
 subclass_of:
 - '[[_Standards/WikiData/WD~food,2095]]'
-- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+- "[[_Standards/WikiData/WD~cereal_grain,12117]]"
 different_from: '[[_Standards/WikiData/WD~Triticum,12106]]'
-part_of: "[[_Standards/WikiData/WD~Russian cuisine,12505]]"
+part_of: "[[_Standards/WikiData/WD~Russian_cuisine,12505]]"
 water_footprint: 1827
 Commons_gallery: Wheat
 Commons_category: Wheat

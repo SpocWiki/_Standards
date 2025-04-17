@@ -1,13 +1,13 @@
 ﻿---
 has_id_wikidata: Q11403
-instance_of: "[[_Standards/WikiData/WD~music genre,188451]]"
-subclass_of: "[[_Standards/WikiData/WD~music of Brazil,899215]]"
+instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
+subclass_of: "[[_Standards/WikiData/WD~music_of_Brazil,899215]]"
 different_from:
 - '[[_Standards/WikiData/WD~samba,1340043]]'
 - '[[_Standards/WikiData/WD~samba,1375949]]'
 practiced_by: '[[_Standards/WikiData/WD~sambista,11305911]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Samba,22880924]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki Loves Cultura Popular Brasil - Danças, festivais e músicas,116742198]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_-_Danças,_festivais_e_músicas,116742198]]"
 country_of_origin: '[[_Standards/WikiData/WD~Brazil,155]]'
 Commons_gallery: Samba
 Commons_category: Samba

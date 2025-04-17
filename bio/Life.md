@@ -15,42 +15,42 @@ different_from:
 - '[[_Standards/WikiData/WD~Leben,1199642]]'
 - '[[_Standards/WikiData/WD~Liv,10567996]]'
 has_characteristic:
-- "[[_Standards/WikiData/WD~form of life,422742]]"
+- "[[_Standards/WikiData/WD~form_of_life,422742]]"
 - '[[_Standards/WikiData/WD~adaptation,483921]]'
-- "[[_Standards/WikiData/WD~biological life cycle,513359]]"
-- "[[_Standards/WikiData/WD~phase of life,1811014]]"
-- "[[_Standards/WikiData/WD~quality of life,13100823]]"
-- "[[_Standards/WikiData/WD~maximum life span,13419831]]"
+- "[[_Standards/WikiData/WD~biological_life_cycle,513359]]"
+- "[[_Standards/WikiData/WD~phase_of_life,1811014]]"
+- "[[_Standards/WikiData/WD~quality_of_life,13100823]]"
+- "[[_Standards/WikiData/WD~maximum_life_span,13419831]]"
 - '[[_Standards/WikiData/WD~lifetime,22675021]]'
 - '[[_Standards/WikiData/WD~metabolism,1057]]'
 - '[[_Standards/WikiData/WD~reproduction,11990]]'
 - '[[_Standards/WikiData/WD~biodiversity,47041]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Encyclopaedia of the Qur'ān,2617708]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 studied_in:
-- "[[_Standards/WikiData/WD~life sciences,864928]]"
+- "[[_Standards/WikiData/WD~life_sciences,864928]]"
 - '[[_Standards/WikiData/WD~biology,420]]'
 instance_of:
 - '[[_Standards/WikiData/WD~property,937228]]'
-- "[[_Standards/WikiData/WD~natural phenomenon,1322005]]"
-- "[[_Standards/WikiData/WD~biological process,2996394]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~real life,1058876]]"
+- "[[_Standards/WikiData/WD~natural_phenomenon,1322005]]"
+- "[[_Standards/WikiData/WD~biological_process,2996394]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~real_life,1058876]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~history of life,1098275]]"
-- "[[_Standards/WikiData/WD~timeline of evolutionary history of life,3138223]]"
+- "[[_Standards/WikiData/WD~history_of_life,1098275]]"
+- "[[_Standards/WikiData/WD~timeline_of_evolutionary_history_of_life,3138223]]"
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~Earthling,1349305]]'
 - '[[_Standards/WikiData/WD~Q12898198,12898198]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~biological process,2996394]]"
+- "[[_Standards/WikiData/WD~biological_process,2996394]]"
 - '[[_Standards/WikiData/WD~metabolism,1057]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/HumanNewborn.JPG"
 pronunciation_audio:
@@ -58,8 +58,8 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Wodencafe-life.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Lepticed7-vie.wav"
 MeSH_tree_code: K01.752.400
-manifestation_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-has_immediate_cause: "[[_Standards/WikiData/WD~not yet determined,59496158]]"
+manifestation_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+has_immediate_cause: "[[_Standards/WikiData/WD~not_yet_determined,59496158]]"
 Library_of_Congress_Classification: QH501-QH531
 UMLS_CUI: C0376558
 exact_match: "https://www.newworldencyclopedia.org/entry/Life"

@@ -1,63 +1,63 @@
 ﻿---
 has_id_wikidata: Q12206
 has_part_s_:
-- "[[_Standards/WikiData/WD~type-1 diabetes,124407]]"
-- "[[_Standards/WikiData/WD~gestational diabetes,126691]]"
-- "[[_Standards/WikiData/WD~maturity-onset diabetes of the young,663041]]"
-- "[[_Standards/WikiData/WD~Latent autoimmune diabetes,1797833]]"
-- "[[_Standards/WikiData/WD~type 2 diabetes,3025883]]"
-- "[[_Standards/WikiData/WD~Mitochondrial diabetes,4296712]]"
-- "[[_Standards/WikiData/WD~Diabetes mellitus and deafness,4313947]]"
-- "[[_Standards/WikiData/WD~malnutrition-related diabetes mellitus,4409454]]"
+- "[[_Standards/WikiData/WD~type-1_diabetes,124407]]"
+- "[[_Standards/WikiData/WD~gestational_diabetes,126691]]"
+- "[[_Standards/WikiData/WD~maturity-onset_diabetes_of_the_young,663041]]"
+- "[[_Standards/WikiData/WD~Latent_autoimmune_diabetes,1797833]]"
+- "[[_Standards/WikiData/WD~type_2_diabetes,3025883]]"
+- "[[_Standards/WikiData/WD~Mitochondrial_diabetes,4296712]]"
+- "[[_Standards/WikiData/WD~Diabetes_mellitus_and_deafness,4313947]]"
+- "[[_Standards/WikiData/WD~malnutrition-related_diabetes_mellitus,4409454]]"
 has_effect:
 - '[[_Standards/WikiData/WD~cataract,127724]]'
-- "[[_Standards/WikiData/WD~diabetic retinopathy,631361]]"
-- "[[_Standards/WikiData/WD~peripheral neuropathy,945238]]"
-- "[[_Standards/WikiData/WD~diabetic nephropathy,1129105]]"
-- "[[_Standards/WikiData/WD~diabetic foot,52856]]"
+- "[[_Standards/WikiData/WD~diabetic_retinopathy,631361]]"
+- "[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]"
+- "[[_Standards/WikiData/WD~diabetic_nephropathy,1129105]]"
+- "[[_Standards/WikiData/WD~diabetic_foot,52856]]"
 studied_in:
 - '[[_Standards/WikiData/WD~endocrinology,162606]]'
 - '[[_Standards/WikiData/WD~diabetology,1207969]]'
 health_specialty:
 - '[[_Standards/WikiData/WD~endocrinology,162606]]'
 - '[[_Standards/WikiData/WD~diabetology,1207969]]'
-different_from: "[[_Standards/WikiData/WD~diabetes insipidus,220551]]"
+different_from: "[[_Standards/WikiData/WD~diabetes_insipidus,220551]]"
 medical_examination:
-- "[[_Standards/WikiData/WD~blood glucose,275157]]"
-- "[[_Standards/WikiData/WD~glycated hemoglobin,311213]]"
+- "[[_Standards/WikiData/WD~blood_glucose,275157]]"
+- "[[_Standards/WikiData/WD~glycated_hemoglobin,311213]]"
 - '[[_Standards/WikiData/WD~urinalysis,842424]]'
-- "[[_Standards/WikiData/WD~complete blood count,886518]]"
-- "[[_Standards/WikiData/WD~blood test,886837]]"
-- "[[_Standards/WikiData/WD~glucose tolerance test,1501412]]"
-- "[[_Standards/WikiData/WD~blood glucose monitoring,4927806]]"
-- "[[_Standards/WikiData/WD~glucose test,5572348]]"
-- "[[_Standards/WikiData/WD~noninvasive glucose monitor,7049439]]"
+- "[[_Standards/WikiData/WD~complete_blood_count,886518]]"
+- "[[_Standards/WikiData/WD~blood_test,886837]]"
+- "[[_Standards/WikiData/WD~glucose_tolerance_test,1501412]]"
+- "[[_Standards/WikiData/WD~blood_glucose_monitoring,4927806]]"
+- "[[_Standards/WikiData/WD~glucose_test,5572348]]"
+- "[[_Standards/WikiData/WD~noninvasive_glucose_monitor,7049439]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8,124737635]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
 symptoms_and_signs:
 - '[[_Standards/WikiData/WD~polydipsia,635195]]'
 - '[[_Standards/WikiData/WD~polyphagia,653267]]'
 - '[[_Standards/WikiData/WD~polyuria,1124286]]'
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~diabetes management,1100933]]"
+handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~diabetes_management,1100933]]"
 drug_or_therapy_used_for_treatment:
-- "[[_Standards/WikiData/WD~chromium picolinate,2329715]]"
-- "[[_Standards/WikiData/WD~Insulin Lispro,3492616]]"
+- "[[_Standards/WikiData/WD~chromium_picolinate,2329715]]"
+- "[[_Standards/WikiData/WD~Insulin_Lispro,3492616]]"
 - '[[_Standards/WikiData/WD~voglibose,7939403]]'
 - '[[_Standards/WikiData/WD~metformin,19484]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~endocrine system disease,2661443]]"
-- "[[_Standards/WikiData/WD~autoimmune disease of endocrine system,18553586]]"
-- "[[_Standards/WikiData/WD~glucose metabolism disease,18556224]]"
+- "[[_Standards/WikiData/WD~endocrine_system_disease,2661443]]"
+- "[[_Standards/WikiData/WD~autoimmune_disease_of_endocrine_system,18553586]]"
+- "[[_Standards/WikiData/WD~glucose_metabolism_disease,18556224]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-- "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of diabetes,7112608]]"
+- "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject_COVID-19,87748614]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_diabetes,7112608]]"
 exact_match:
 - "http://identifiers.org/doid/DOID:9351"
 - "http://purl.obolibrary.org/obo/DOID_9351"
@@ -76,12 +76,12 @@ ICD_10_CM:
 - E11
 Colon_Classification: "L293:46"
 Krugosvet_article: medicina/DIABET_SAHARNI.html
-possible_medical_findings: "[[_Standards/WikiData/WD~polyuric-polydipsic syndrome,15974799]]"
+possible_medical_findings: "[[_Standards/WikiData/WD~polyuric-polydipsic_syndrome,15974799]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Diabetes,18517643]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-risk_factor: "[[_Standards/WikiData/WD~maternal smoking,56196009]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+risk_factor: "[[_Standards/WikiData/WD~maternal_smoking,56196009]]"
 instance_of:
-- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+- "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
 - '[[_Standards/WikiData/WD~disease,12136]]'
 Baidu_Tieba_name: 糖尿病
 ICD_9_CM: 250

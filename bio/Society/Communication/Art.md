@@ -21,48 +21,48 @@ Krugosvet_article:
 - zhivopis-i-grafika/iskusstvo
 studied_in:
 - '[[_Standards/WikiData/WD~humanities,80083]]'
-- "[[_Standards/WikiData/WD~sociology of art,1792635]]"
+- "[[_Standards/WikiData/WD~sociology_of_art,1792635]]"
 - '[[_Standards/WikiData/WD~art,55336315]]'
-- "[[_Standards/WikiData/WD~art practice,62302889]]"
-- "[[_Standards/WikiData/WD~art history,50637]]"
+- "[[_Standards/WikiData/WD~art_practice,62302889]]"
+- "[[_Standards/WikiData/WD~art_history,50637]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~artist,483501]]'
-- "[[_Standards/WikiData/WD~art writer,88190618]]"
-- "[[_Standards/WikiData/WD~fictional artist,125938151]]"
+- "[[_Standards/WikiData/WD~art_writer,88190618]]"
+- "[[_Standards/WikiData/WD~fictional_artist,125938151]]"
 instance_of:
-- "[[_Standards/WikiData/WD~essentially contested concept,576639]]"
-- "[[_Standards/WikiData/WD~field of work,627436]]"
-- "[[_Standards/WikiData/WD~economic sector,3958441]]"
-- "[[_Standards/WikiData/WD~academic major,4671286]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~essentially_contested_concept,576639]]"
+- "[[_Standards/WikiData/WD~field_of_work,627436]]"
+- "[[_Standards/WikiData/WD~economic_sector,3958441]]"
+- "[[_Standards/WikiData/WD~academic_major,4671286]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 - '[[_Standards/WikiData/WD~topic,26256810]]'
 different_from:
-- "[[_Standards/WikiData/WD~work of art,838948]]"
+- "[[_Standards/WikiData/WD~work_of_art,838948]]"
 - '[[_Standards/WikiData/WD~Sztuka,9352290]]'
 - '[[_Standards/WikiData/WD~art,55336315]]'
-product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~work of art,838948]]"
+product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~work_of_art,838948]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~art genre,1792379]]"
-- "[[_Standards/WikiData/WD~art style,1792644]]"
-- "[[_Standards/WikiData/WD~Classificatory disputes about art,2976552]]"
-- "[[_Standards/WikiData/WD~type of arts,56055944]]"
+- "[[_Standards/WikiData/WD~art_genre,1792379]]"
+- "[[_Standards/WikiData/WD~art_style,1792644]]"
+- "[[_Standards/WikiData/WD~Classificatory_disputes_about_art,2976552]]"
+- "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
 part_of:
 - '[[_Standards/WikiData/WD~arts,2018526]]'
 - '[[_Standards/WikiData/WD~culture,11042]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Arts,3918365]]'
-subclass_of: "[[_Standards/WikiData/WD~creative work,17537576]]"
+subclass_of: "[[_Standards/WikiData/WD~creative_work,17537576]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828630,22828630]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Authority control (arts),105654429]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Authority_control_(arts),105654429]]"
 Mastodon_instance_URL:
 - "https://mastodon.art"
 - "https://sunny.garden"
@@ -79,7 +79,7 @@ OmegaWiki_Defined_Meaning:
 - 256
 - 8514
 Universal_Decimal_Classification: 7
-history_of_topic: "[[_Standards/WikiData/WD~history of art,50641]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_art,50641]]"
 Iconclass_notation: 48
 Library_of_Congress_Classification: N
 Dewey_Decimal_Classification: 700

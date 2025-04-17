@@ -10,71 +10,71 @@ MeSH_tree_code:
 Commons_category: "Common cold"
 health_specialty:
 - '[[_Standards/WikiData/WD~otolaryngology,189553]]'
-- "[[_Standards/WikiData/WD~infectious diseases,788926]]"
-- "[[_Standards/WikiData/WD~family medicine,3505712]]"
+- "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+- "[[_Standards/WikiData/WD~family_medicine,3505712]]"
 symptoms_and_signs:
 - '[[_Standards/WikiData/WD~tinnitus,192309]]'
 - '[[_Standards/WikiData/WD~snoring,205835]]'
-- "[[_Standards/WikiData/WD~runny nose,1115038]]"
-- "[[_Standards/WikiData/WD~sore throat,1292082]]"
-- "[[_Standards/WikiData/WD~nasal congestion,3245488]]"
+- "[[_Standards/WikiData/WD~runny_nose,1115038]]"
+- "[[_Standards/WikiData/WD~sore_throat,1292082]]"
+- "[[_Standards/WikiData/WD~nasal_congestion,3245488]]"
 - '[[_Standards/WikiData/WD~headache,86]]'
 - '[[_Standards/WikiData/WD~cough,35805]]'
 - '[[_Standards/WikiData/WD~sneeze,35830]]'
 - '[[_Standards/WikiData/WD~fever,38933]]'
 has_cause:
 - '[[_Standards/WikiData/WD~Adenoviridae,193447]]'
-- "[[_Standards/WikiData/WD~human bocavirus,667756]]"
-- "[[_Standards/WikiData/WD~human metapneumovirus,743338]]"
-- "[[_Standards/WikiData/WD~respiratory syncytial virus,1052913]]"
+- "[[_Standards/WikiData/WD~human_bocavirus,667756]]"
+- "[[_Standards/WikiData/WD~human_metapneumovirus,743338]]"
+- "[[_Standards/WikiData/WD~respiratory_syncytial_virus,1052913]]"
 - '[[_Standards/WikiData/WD~Coronaviridae,1134583]]'
 - '[[_Standards/WikiData/WD~Rhinovirus,1351647]]'
-- "[[_Standards/WikiData/WD~human parainfluenza,2051533]]"
+- "[[_Standards/WikiData/WD~human_parainfluenza,2051533]]"
 drug_or_therapy_used_for_treatment:
-- "[[_Standards/WikiData/WD~zinc chloride,204714]]"
+- "[[_Standards/WikiData/WD~zinc_chloride,204714]]"
 - '[[_Standards/WikiData/WD~(+)-norephedrin,413147]]'
 - '[[_Standards/WikiData/WD~guaifenesin,420682]]'
-- "[[_Standards/WikiData/WD~sodium ascorbate,424551]]"
-- "[[_Standards/WikiData/WD~Vicks VapoRub,3123711]]"
-- "[[_Standards/WikiData/WD~zinc gluconate,3822815]]"
+- "[[_Standards/WikiData/WD~sodium_ascorbate,424551]]"
+- "[[_Standards/WikiData/WD~Vicks_VapoRub,3123711]]"
+- "[[_Standards/WikiData/WD~zinc_gluconate,3822815]]"
 - '[[_Standards/WikiData/WD~paracetamol,57055]]'
 does_not_have_cause: '[[_Standards/WikiData/WD~cold,270952]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~adenovirus infection,837054]]"
-- "[[_Standards/WikiData/WD~human parainfluenza,2051533]]"
-- "[[_Standards/WikiData/WD~respiratory syncytial virus infectious disease,18554367]]"
-- "[[_Standards/WikiData/WD~coronavirus disease,18975243]]"
-- "[[_Standards/WikiData/WD~Rhinovirus infection,22461944]]"
-- "[[_Standards/WikiData/WD~Bocavirus infection,56244339]]"
-- "[[_Standards/WikiData/WD~metapneumovirus infection,56634075]]"
+- "[[_Standards/WikiData/WD~adenovirus_infection,837054]]"
+- "[[_Standards/WikiData/WD~human_parainfluenza,2051533]]"
+- "[[_Standards/WikiData/WD~respiratory_syncytial_virus_infectious_disease,18554367]]"
+- "[[_Standards/WikiData/WD~coronavirus_disease,18975243]]"
+- "[[_Standards/WikiData/WD~Rhinovirus_infection,22461944]]"
+- "[[_Standards/WikiData/WD~Bocavirus_infection,56244339]]"
+- "[[_Standards/WikiData/WD~metapneumovirus_infection,56634075]]"
 disease_transmission_process:
-- "[[_Standards/WikiData/WD~droplet infection,871752]]"
-- "[[_Standards/WikiData/WD~airborne transmission,11986959]]"
-- "[[_Standards/WikiData/WD~direct transmission,15304504]]"
-- "[[_Standards/WikiData/WD~contact transmission,15304512]]"
-- "[[_Standards/WikiData/WD~fomite transmission,88103997]]"
+- "[[_Standards/WikiData/WD~droplet_infection,871752]]"
+- "[[_Standards/WikiData/WD~airborne_transmission,11986959]]"
+- "[[_Standards/WikiData/WD~direct_transmission,15304504]]"
+- "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
+- "[[_Standards/WikiData/WD~fomite_transmission,88103997]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~upper respiratory tract infection,2622199]]"
+- "[[_Standards/WikiData/WD~upper_respiratory_tract_infection,2622199]]"
 - '[[_Standards/WikiData/WD~nasopharyngitis,3936113]]'
-- "[[_Standards/WikiData/WD~upper respiratory tract disease,18558209]]"
-- "[[_Standards/WikiData/WD~Picornaviridae infectious disease,18975569]]"
-- "[[_Standards/WikiData/WD~acute viral respiratory tract infection,55790495]]"
-- "[[_Standards/WikiData/WD~viral rhinitis,111527211]]"
+- "[[_Standards/WikiData/WD~upper_respiratory_tract_disease,18558209]]"
+- "[[_Standards/WikiData/WD~Picornaviridae_infectious_disease,18975569]]"
+- "[[_Standards/WikiData/WD~acute_viral_respiratory_tract_infection,55790495]]"
+- "[[_Standards/WikiData/WD~viral_rhinitis,111527211]]"
 - '[[_Standards/WikiData/WD~disease,12136]]'
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-- "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Common cold,6383067]]"
+- "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject_COVID-19,87748614]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Common_cold,6383067]]"
 instance_of:
-- "[[_Standards/WikiData/WD~infectious disease,18123741]]"
-- "[[_Standards/WikiData/WD~class of disease,112193867]]"
-- "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
+- "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
+- "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+- "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
 ICD_9_CM: 460
 IAB_code: 315
 DiseasesDB: 31088

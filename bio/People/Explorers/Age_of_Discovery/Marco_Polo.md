@@ -7,48 +7,48 @@ occupation:
 - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
 - '[[_Standards/WikiData/WD~diplomat,193391]]'
 - '[[_Standards/WikiData/WD~merchant,215536]]'
-- "[[_Standards/WikiData/WD~world traveler,1937330]]"
+- "[[_Standards/WikiData/WD~world_traveler,1937330]]"
 - '[[_Standards/WikiData/WD~memoirist,11774156]]'
 - '[[_Standards/WikiData/WD~explorer,11900058]]'
 - '[[_Standards/WikiData/WD~traveler,22813352]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
-different_from: "[[_Standards/WikiData/WD~Marco Polo,231433]]"
+different_from: "[[_Standards/WikiData/WD~Marco_Polo,231433]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New History of Yuan,1053256]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Concise Literary Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-place_of_burial: "[[_Standards/WikiData/WD~San Lorenzo, Venice,428317]]"
-significant_event: "[[_Standards/WikiData/WD~The Travels of Marco Polo,654562]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+place_of_burial: "[[_Standards/WikiData/WD~San_Lorenzo,_Venice,428317]]"
+significant_event: "[[_Standards/WikiData/WD~The_Travels_of_Marco_Polo,654562]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~travel book,1164267]]"
-- "[[_Standards/WikiData/WD~memoir literature,112117845]]"
+- "[[_Standards/WikiData/WD~travel_book,1164267]]"
+- "[[_Standards/WikiData/WD~memoir_literature,112117845]]"
 - '[[_Standards/WikiData/WD~diplomacy,1889]]'
 - '[[_Standards/WikiData/WD~commerce,26643]]'
 - '[[_Standards/WikiData/WD~travel,61509]]'
 family: '[[_Standards/WikiData/WD~Polo,3395400]]'
-spouse: "[[_Standards/WikiData/WD~Donata Badoer,3713678]]"
+spouse: "[[_Standards/WikiData/WD~Donata_Badoer,3713678]]"
 child:
-- "[[_Standards/WikiData/WD~Fantina Polo,3739406]]"
+- "[[_Standards/WikiData/WD~Fantina_Polo,3739406]]"
 - '[[_Standards/WikiData/WD~Agnese,110864111]]'
-relative: "[[_Standards/WikiData/WD~Maffeo Polo,3852178]]"
-father: "[[_Standards/WikiData/WD~Niccolò Polo,3875886]]"
+relative: "[[_Standards/WikiData/WD~Maffeo_Polo,3852178]]"
+father: "[[_Standards/WikiData/WD~Niccolò_Polo,3875886]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Macau Scientific and Cultural Centre Museum,17167651]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Macau_Scientific_and_Cultural_Centre_Museum,17167651]]"
 given_name: '[[_Standards/WikiData/WD~Marco,17520955]]'
 family_name: '[[_Standards/WikiData/WD~Polo,18331415]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-notable_work: "[[_Standards/WikiData/WD~The book of Ser Marco Polo the Venetian concerning the kingdoms and marvels of the East,114047218]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+notable_work: "[[_Standards/WikiData/WD~The_book_of_Ser_Marco_Polo_the_Venetian_concerning_the_kingdoms_and_marvels_of_the_East,114047218]]"
 Provenio_UUID: 7d951859-ae03-45a5-ba33-0dde00b2ad02
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D6%80%D5%AF%D5%B8%20%D5%8A%D5%B8%D5%AC%D5%B8.ogg"
 ISNI: 0000000355895756
@@ -58,10 +58,10 @@ place_of_birth: '[[_Standards/WikiData/WD~Venice,641]]'
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Italian,652]]'
 - '[[_Standards/WikiData/WD~Venetian,32724]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Republic of Venice,4948]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Republic_of_Venice,4948]]"
 work_location:
-- "[[_Standards/WikiData/WD~Yuan dynasty,7313]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~Yuan_dynasty,7313]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 BHCL_UUID: 6953dc55-05ac-4e79-8071-8c028a3847fe
 Krugosvet_article: Earth_sciences/geografiya/POLO_MARKO.html

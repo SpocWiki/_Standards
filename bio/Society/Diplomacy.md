@@ -1,25 +1,25 @@
 ﻿---
 has_id_wikidata: Q1889
 facet_of:
-- "[[_Standards/WikiData/WD~international relations,166542]]"
-- "[[_Standards/WikiData/WD~foreign policy,181648]]"
+- "[[_Standards/WikiData/WD~international_relations,166542]]"
+- "[[_Standards/WikiData/WD~foreign_policy,181648]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~foreign policy,181648]]"
+- "[[_Standards/WikiData/WD~foreign_policy,181648]]"
 - '[[_Standards/WikiData/WD~negotiation,202875]]'
 practiced_by: '[[_Standards/WikiData/WD~diplomat,193391]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~diplomatic mission,213283]]"
+- "[[_Standards/WikiData/WD~diplomatic_mission,213283]]"
 - '[[_Standards/WikiData/WD~embassy,3917681]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-history_of_topic: "[[_Standards/WikiData/WD~diplomatic history,2177756]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+history_of_topic: "[[_Standards/WikiData/WD~diplomatic_history,2177756]]"
 different_from: '[[_Standards/WikiData/WD~Dyplomacja,9213719]]'
-instance_of: "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Diplomacy,13502958]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/UN%20building%2C%20Geneva.jpg"
 Provenio_UUID: fab4a10d-365d-4598-80b2-56f74dd1a804

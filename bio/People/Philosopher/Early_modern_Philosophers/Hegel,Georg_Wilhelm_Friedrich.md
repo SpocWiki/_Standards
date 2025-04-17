@@ -3,39 +3,39 @@ aliases:
 - "Georg Wilhelm Friedrich Hegel"
 has_id_wikidata: Q9235
 influenced_by:
-- "[[_Standards/WikiData/WD~Friedrich Schleiermacher,76576]]"
-- "[[_Standards/WikiData/WD~Jakob Böhme,77017]]"
-- "[[_Standards/WikiData/WD~Johann Gottlieb Fichte,102585]]"
+- "[[_Standards/WikiData/WD~Friedrich_Schleiermacher,76576]]"
+- "[[_Standards/WikiData/WD~Jakob_Böhme,77017]]"
+- "[[_Standards/WikiData/WD~Johann_Gottlieb_Fichte,102585]]"
 - '[[_Standards/WikiData/WD~Plotinus,134189]]'
-- "[[_Standards/WikiData/WD~Nicholas of Cusa,154751]]"
+- "[[_Standards/WikiData/WD~Nicholas_of_Cusa,154751]]"
 - '[[_Standards/WikiData/WD~Proclus,271809]]'
 - '[[_Standards/WikiData/WD~Plato,859]]'
 - '[[_Standards/WikiData/WD~Aristotle,868]]'
-- "[[_Standards/WikiData/WD~Jean-Jacques Rousseau,6527]]"
-- "[[_Standards/WikiData/WD~René Descartes,9191]]"
-- "[[_Standards/WikiData/WD~Immanuel Kant,9312]]"
+- "[[_Standards/WikiData/WD~Jean-Jacques_Rousseau,6527]]"
+- "[[_Standards/WikiData/WD~René_Descartes,9191]]"
+- "[[_Standards/WikiData/WD~Immanuel_Kant,9312]]"
 - '[[_Standards/WikiData/WD~Montesquieu,15975]]'
-- "[[_Standards/WikiData/WD~Benedictus de Spinoza,35802]]"
+- "[[_Standards/WikiData/WD~Benedictus_de_Spinoza,35802]]"
 - '[[_Standards/WikiData/WD~Heraclitus,41155]]'
-- "[[_Standards/WikiData/WD~Anselm of Canterbury,43939]]"
-- "[[_Standards/WikiData/WD~Friedrich Wilhelm Joseph Schelling,60070]]"
-student: "[[_Standards/WikiData/WD~Max Stirner,76725]]"
-child: "[[_Standards/WikiData/WD~Karl Von Hegel,86130]]"
+- "[[_Standards/WikiData/WD~Anselm_of_Canterbury,43939]]"
+- "[[_Standards/WikiData/WD~Friedrich_Wilhelm_Joseph_Schelling,60070]]"
+student: "[[_Standards/WikiData/WD~Max_Stirner,76725]]"
+child: "[[_Standards/WikiData/WD~Karl_Von_Hegel,86130]]"
 professorship: '[[_Standards/WikiData/WD~professor,121594]]'
 employer:
-- "[[_Standards/WikiData/WD~Heidelberg University,151510]]"
-- "[[_Standards/WikiData/WD~University of Jena,154561]]"
-- "[[_Standards/WikiData/WD~Frederick William University Berlin,20266330]]"
+- "[[_Standards/WikiData/WD~Heidelberg_University,151510]]"
+- "[[_Standards/WikiData/WD~University_of_Jena,154561]]"
+- "[[_Standards/WikiData/WD~Frederick_William_University_Berlin,20266330]]"
 educated_at:
-- "[[_Standards/WikiData/WD~University of Tübingen,153978]]"
-- "[[_Standards/WikiData/WD~University of Jena,154561]]"
-- "[[_Standards/WikiData/WD~Tübinger Stift,560023]]"
+- "[[_Standards/WikiData/WD~University_of_Tübingen,153978]]"
+- "[[_Standards/WikiData/WD~University_of_Jena,154561]]"
+- "[[_Standards/WikiData/WD~Tübinger_Stift,560023]]"
 - '[[_Standards/WikiData/WD~Eberhard-Ludwigs-Gymnasium,1278808]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of Württemberg,159631]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~political philosophy,179805]]"
-- "[[_Standards/WikiData/WD~social philosophy,180592]]"
-- "[[_Standards/WikiData/WD~philosophy of history,190721]]"
+- "[[_Standards/WikiData/WD~political_philosophy,179805]]"
+- "[[_Standards/WikiData/WD~social_philosophy,180592]]"
+- "[[_Standards/WikiData/WD~philosophy_of_history,190721]]"
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 - '[[_Standards/WikiData/WD~logic,8078]]'
 - '[[_Standards/WikiData/WD~religion,9174]]'
@@ -43,53 +43,53 @@ field_of_work:
 - '[[_Standards/WikiData/WD~metaphysics,35277]]'
 - '[[_Standards/WikiData/WD~aesthetics,35986]]'
 notable_work:
-- "[[_Standards/WikiData/WD~Science of Logic,374811]]"
-- "[[_Standards/WikiData/WD~The Phenomenology of Spirit,877510]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of the Philosophical Sciences,919699]]"
-- "[[_Standards/WikiData/WD~Lectures on Aesthetics,1045336]]"
-- "[[_Standards/WikiData/WD~Lectures on the Philosophy of History,1210941]]"
-- "[[_Standards/WikiData/WD~Elements of the Philosophy of Right,1486412]]"
-- "[[_Standards/WikiData/WD~Lectures on the Philosophy of Religion,6512443]]"
-- "[[_Standards/WikiData/WD~Lectures on the History of Philosophy,6512440]]"
+- "[[_Standards/WikiData/WD~Science_of_Logic,374811]]"
+- "[[_Standards/WikiData/WD~The_Phenomenology_of_Spirit,877510]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_the_Philosophical_Sciences,919699]]"
+- "[[_Standards/WikiData/WD~Lectures_on_Aesthetics,1045336]]"
+- "[[_Standards/WikiData/WD~Lectures_on_the_Philosophy_of_History,1210941]]"
+- "[[_Standards/WikiData/WD~Elements_of_the_Philosophy_of_Right,1486412]]"
+- "[[_Standards/WikiData/WD~Lectures_on_the_Philosophy_of_Religion,6512443]]"
+- "[[_Standards/WikiData/WD~Lectures_on_the_History_of_Philosophy,6512440]]"
 movement:
 - '[[_Standards/WikiData/WD~historicism,460501]]'
-- "[[_Standards/WikiData/WD~German idealism,679842]]"
+- "[[_Standards/WikiData/WD~German_idealism,679842]]"
 - '[[_Standards/WikiData/WD~Hegelianism,906313]]'
-place_of_burial: "[[_Standards/WikiData/WD~Dorotheenstadt Cemetery,564922]]"
+place_of_burial: "[[_Standards/WikiData/WD~Dorotheenstadt_Cemetery,564922]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Allgemeine Deutsche Biographie,590208]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Georgian Soviet Encyclopedia,1509493]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-- "[[_Standards/WikiData/WD~Heidelberg Scholar Lexicon 1803–1932,48711337]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Heidelberg_Scholar_Lexicon_1803–1932,48711337]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
 occupation:
-- "[[_Standards/WikiData/WD~university teacher,1622272]]"
+- "[[_Standards/WikiData/WD~university_teacher,1622272]]"
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
 - '[[_Standards/WikiData/WD~logician,14565331]]'
-- "[[_Standards/WikiData/WD~philosopher of law,23760244]]"
-- "[[_Standards/WikiData/WD~philosophy historian,24265174]]"
+- "[[_Standards/WikiData/WD~philosopher_of_law,23760244]]"
+- "[[_Standards/WikiData/WD~philosophy_historian,24265174]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 given_name:
 - '[[_Standards/WikiData/WD~Georg,1985538]]'
 - '[[_Standards/WikiData/WD~Wilhelm,11027623]]'
 - '[[_Standards/WikiData/WD~Friedrich,14038597]]'
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-list_of_works: "[[_Standards/WikiData/WD~Georg Wilhelm Friedrich Hegel bibliography,5535835]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+list_of_works: "[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel_bibliography,5535835]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Am%20Kupfergraben%20%284a%29%20Georg%20Wilhelm%20Friedrich%20Hegel.JPG"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Grave-of-Hegel.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Hegel%20Unterschrift.svg"
@@ -101,13 +101,13 @@ PhilPapers_topic: g-w-f-hegel
 Libris_URI: gdsvw1h017935tm
 Krugosvet_article: gumanitarnye_nauki/filosofiya/GEGEL_GEORG_VILGELM_FRIDRIH.html
 family_name: '[[_Standards/WikiData/WD~Hegel,15917370]]'
-possible_creator: "[[_Standards/WikiData/WD~The Oldest Systematic Program of German Idealism,16934411]]"
-award_received: "[[_Standards/WikiData/WD~Order of the Red Eagle 3rd Class,17484040]]"
-father: "[[_Standards/WikiData/WD~Georg Ludwig Hegel,21198339]]"
-spouse: "[[_Standards/WikiData/WD~Marie von Tucher,22340304]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-relative: "[[_Standards/WikiData/WD~Georg Ludwig Christoph Hegel,102515598]]"
-mother: "[[_Standards/WikiData/WD~Maria Magdalena Louisa Fromm,102515921]]"
+possible_creator: "[[_Standards/WikiData/WD~The_Oldest_Systematic_Program_of_German_Idealism,16934411]]"
+award_received: "[[_Standards/WikiData/WD~Order_of_the_Red_Eagle_3rd_Class,17484040]]"
+father: "[[_Standards/WikiData/WD~Georg_Ludwig_Hegel,21198339]]"
+spouse: "[[_Standards/WikiData/WD~Marie_von_Tucher,22340304]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+relative: "[[_Standards/WikiData/WD~Georg_Ludwig_Christoph_Hegel,102515598]]"
+mother: "[[_Standards/WikiData/WD~Maria_Magdalena_Louisa_Fromm,102515921]]"
 date_of_death: "1831-11-14"
 work_period_end_: "1831"
 Commons_gallery: "Georg Wilhelm Friedrich Hegel"
@@ -130,8 +130,8 @@ work_location: '[[_Standards/WikiData/WD~Berlin,64]]'
 place_of_death: '[[_Standards/WikiData/WD~Berlin,64]]'
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
 native_language: '[[_Standards/WikiData/WD~German,188]]'
-doctoral_advisor: "[[_Standards/WikiData/WD~Friedrich Wilhelm Joseph Schelling,60070]]"
-doctoral_student: "[[_Standards/WikiData/WD~Johann Eduard Erdmann,64623]]"
+doctoral_advisor: "[[_Standards/WikiData/WD~Friedrich_Wilhelm_Joseph_Schelling,60070]]"
+doctoral_student: "[[_Standards/WikiData/WD~Johann_Eduard_Erdmann,64623]]"
 ArhivX_LOD: 811
 ---
 

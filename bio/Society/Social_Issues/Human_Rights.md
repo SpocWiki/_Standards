@@ -7,37 +7,37 @@ MeSH_tree_code:
 hashtag: StandUp4HumanRights
 social_media_followers: 13756
 partially_coincident_with:
-- "[[_Standards/WikiData/WD~civil and political rights,191600]]"
-- "[[_Standards/WikiData/WD~civil rights,25447176]]"
-- "[[_Standards/WikiData/WD~civil liberties,29556]]"
+- "[[_Standards/WikiData/WD~civil_and_political_rights,191600]]"
+- "[[_Standards/WikiData/WD~civil_rights,25447176]]"
+- "[[_Standards/WikiData/WD~civil_liberties,29556]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~convention,367293]]'
 - '[[_Standards/WikiData/WD~rights,780687]]'
 instance_of:
 - '[[_Standards/WikiData/WD~convention,367293]]'
-- "[[_Standards/WikiData/WD~type of value,129510955]]"
-- "[[_Standards/WikiData/WD~social movement,49773]]"
+- "[[_Standards/WikiData/WD~type_of_value,129510955]]"
+- "[[_Standards/WikiData/WD~social_movement,49773]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Der Volks-Brockhaus,107433072]]"
-practiced_by: "[[_Standards/WikiData/WD~human rights activist,1476215]]"
-part_of: "[[_Standards/WikiData/WD~international law,4394526]]"
-has_part_s_: "[[_Standards/WikiData/WD~human rights in Islam,5962805]]"
-personal_library_at: "[[_Standards/WikiData/WD~University of Minnesota Libraries,7895799]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Human rights,10863002]]"
+- "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]"
+practiced_by: "[[_Standards/WikiData/WD~human_rights_activist,1476215]]"
+part_of: "[[_Standards/WikiData/WD~international_law,4394526]]"
+has_part_s_: "[[_Standards/WikiData/WD~human_rights_in_Islam,5962805]]"
+personal_library_at: "[[_Standards/WikiData/WD~University_of_Minnesota_Libraries,7895799]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Human_rights,10863002]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+- "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
 - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Human rights,13441595]]"
-- "[[_Standards/WikiData/WD~Template_Substantive human rights,14444679]]"
+- "[[_Standards/WikiData/WD~Template_Human_rights,13441595]]"
+- "[[_Standards/WikiData/WD~Template_Substantive_human_rights,14444679]]"
 UMLS_CUI:
 - C4046017
 - C0020138
 Library_of_Congress_Classification: K3236-K3268.5
-foundational_text: "[[_Standards/WikiData/WD~Universal Declaration of Human Rights,7813]]"
+foundational_text: "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20the%20Rights%20of%20Man%20and%20of%20the%20Citizen%20in%201789.jpg"
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/human_rights"
 U_S_National_Archives_Identifier: 10640045

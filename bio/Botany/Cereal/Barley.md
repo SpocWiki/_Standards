@@ -2,18 +2,18 @@
 has_id_wikidata: Q11577
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 has_use:
-- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+- "[[_Standards/WikiData/WD~cereal_grain,12117]]"
 - '[[_Standards/WikiData/WD~fiber,161]]'
-- "[[_Standards/WikiData/WD~medicinal plant,188840]]"
+- "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
 - '[[_Standards/WikiData/WD~fodder,211439]]'
 taxon_range:
 - '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Fujian,41705]]'
 instance_of:
 - '[[_Standards/WikiData/WD~taxon,16521]]'
-- "[[_Standards/WikiData/WD~grain crop,113976623]]"
+- "[[_Standards/WikiData/WD~grain_crop,113976623]]"
 taxon_common_name:
 - árpa
 - jęczmień
@@ -56,17 +56,17 @@ OmegaWiki_Defined_Meaning: 398106
 has_fruit_type: '[[_Standards/WikiData/WD~caryopsis,506139]]'
 parent_taxon: '[[_Standards/WikiData/WD~Hordeum,518044]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
-- "[[_Standards/WikiData/WD~Flora Reipublicae Popularis Sinicae, volume 9(3),112869380]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+- "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]"
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Food and drink,8485990]]"
-- "[[_Standards/WikiData/WD~WikiProject Agriculture,10549418]]"
-- "[[_Standards/WikiData/WD~WikiProject Plants,10823481]]"
-- "[[_Standards/WikiData/WD~WikiProject Invasion Biology,56241615]]"
+- "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
+- "[[_Standards/WikiData/WD~WikiProject_Agriculture,10549418]]"
+- "[[_Standards/WikiData/WD~WikiProject_Plants,10823481]]"
+- "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=317403"
 sequenced_genome_URL:
 - "https://plants.ensembl.org/Hordeum_vulgare"
@@ -78,9 +78,9 @@ Krugosvet_article: nauka_i_tehnika/biologiya/YACHMEN_OBIKNOVENNI.html
 NBN_System_Key: NBNSYS0000002604
 this_taxon_is_source_of:
 - '[[_Standards/WikiData/WD~Q15789710,15789710]]'
-- "[[_Standards/WikiData/WD~Hordei Fructus Germinatus,27660203]]"
+- "[[_Standards/WikiData/WD~Hordei_Fructus_Germinatus,27660203]]"
 - '[[_Standards/WikiData/WD~barley,61665121]]'
-- "[[_Standards/WikiData/WD~barley bran,104219028]]"
+- "[[_Standards/WikiData/WD~barley_bran,104219028]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117712931,117712931]]'
 Dewey_Decimal_Classification:
 - 584.9

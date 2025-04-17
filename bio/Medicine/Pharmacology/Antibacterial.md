@@ -1,20 +1,20 @@
 ﻿---
 has_id_wikidata: Q12187
 subclass_of:
-- "[[_Standards/WikiData/WD~antimicrobial drug,178859]]"
+- "[[_Standards/WikiData/WD~antimicrobial_drug,178859]]"
 - '[[_Standards/WikiData/WD~bactericide,804539]]'
-- "[[_Standards/WikiData/WD~anti-infective agent,50377176]]"
+- "[[_Standards/WikiData/WD~anti-infective_agent,50377176]]"
 - '[[_Standards/WikiData/WD~medication,12140]]'
-has_characteristic: "[[_Standards/WikiData/WD~antibiotic resistance,380775]]"
+has_characteristic: "[[_Standards/WikiData/WD~antibiotic_resistance,380775]]"
 different_from: '[[_Standards/WikiData/WD~bactericide,804539]]'
 named_after:
 - '[[_Standards/WikiData/WD~anti-,12818226]]'
 - '[[_Standards/WikiData/WD~life,3]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 instance_of:
-- "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
+- "[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]"
 - '[[_Standards/WikiData/WD~medication,12140]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 WordLift_URL: "http://data.wordlift.io/wl01714/entity/antibiotics"
 OmegaWiki_Defined_Meaning: 209
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%95.wav"

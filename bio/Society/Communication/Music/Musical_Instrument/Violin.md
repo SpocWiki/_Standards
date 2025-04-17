@@ -11,35 +11,35 @@ Unicode_character: 🎻
 different_from:
 - '[[_Standards/WikiData/WD~viola,80284]]'
 - '[[_Standards/WikiData/WD~Q13014533,13014533]]'
-subclass_of: "[[_Standards/WikiData/WD~bowed string instrument,192096]]"
+subclass_of: "[[_Standards/WikiData/WD~bowed_string_instrument,192096]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~pegbox,254155]]'
-- "[[_Standards/WikiData/WD~sound box,660436]]"
+- "[[_Standards/WikiData/WD~sound_box,660436]]"
 - '[[_Standards/WikiData/WD~fretboard,745887]]'
 - '[[_Standards/WikiData/WD~bridge,830869]]'
 - '[[_Standards/WikiData/WD~tailpiece,896967]]'
 - '[[_Standards/WikiData/WD~neck,944038]]'
 - '[[_Standards/WikiData/WD~scroll,1116074]]'
-- "[[_Standards/WikiData/WD~sound board,1189953]]"
-- "[[_Standards/WikiData/WD~fine tuner,1402002]]"
+- "[[_Standards/WikiData/WD~sound_board,1189953]]"
+- "[[_Standards/WikiData/WD~fine_tuner,1402002]]"
 - '[[_Standards/WikiData/WD~chinrest,1742233]]'
 - '[[_Standards/WikiData/WD~f-hole,11200647]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~fiddle,510487]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 used_by: '[[_Standards/WikiData/WD~violinist,1259917]]'
-part_of: "[[_Standards/WikiData/WD~violin family,1365097]]"
-award_received: "[[_Standards/WikiData/WD~Instrument of the Year,48757486]]"
+part_of: "[[_Standards/WikiData/WD~violin_family,1365097]]"
+award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
 lowest_note: '[[_Standards/WikiData/WD~G3,96251665]]'
-instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
-connects_with: "[[_Standards/WikiData/WD~violin bow,123982138]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
+connects_with: "[[_Standards/WikiData/WD~violin_bow,123982138]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Viool-article.ogg"
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Violin.stl"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Violin%20VL100.png"

@@ -2,27 +2,27 @@
 has_id_wikidata: Q11028
 has_cause:
 - '[[_Standards/WikiData/WD~signal,174984]]'
-- "[[_Standards/WikiData/WD~raw data,2110223]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~accuracy and precision,272035]]"
+- "[[_Standards/WikiData/WD~raw_data,2110223]]"
+has_contributing_factor: "[[_Standards/WikiData/WD~accuracy_and_precision,272035]]"
 used_by:
 - '[[_Standards/WikiData/WD~informetrics,355654]]'
-- "[[_Standards/WikiData/WD~information curation,65770360]]"
+- "[[_Standards/WikiData/WD~information_curation,65770360]]"
 different_from: '[[_Standards/WikiData/WD~Information,3150833]]'
 has_characteristic:
-- "[[_Standards/WikiData/WD~information quality,3412851]]"
-- "[[_Standards/WikiData/WD~information form,21550682]]"
+- "[[_Standards/WikiData/WD~information_quality,3412851]]"
+- "[[_Standards/WikiData/WD~information_form,21550682]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Kazakhstan. National encyclopedia,4208106]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
+- "[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Computer Science,6526225]]"
-- "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-- "[[_Standards/WikiData/WD~WikiProject Technology,9497549]]"
-- "[[_Standards/WikiData/WD~WikiProject Cognitive science,11755993]]"
-subclass_of: "[[_Standards/WikiData/WD~abstract entity,7048977]]"
+- "[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]"
+- "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~WikiProject_Technology,9497549]]"
+- "[[_Standards/WikiData/WD~WikiProject_Cognitive_science,11755993]]"
+subclass_of: "[[_Standards/WikiData/WD~abstract_entity,7048977]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~information,71699827]]'
 has_effect: '[[_Standards/WikiData/WD~knowledge,9081]]'
-studied_in: "[[_Standards/WikiData/WD~information science,16387]]"
+studied_in: "[[_Standards/WikiData/WD~information_science,16387]]"
 Dewey_Decimal_Classification:
 - 020
 - 306.42

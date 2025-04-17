@@ -6,8 +6,8 @@ subclass_of:
 different_from:
 - '[[_Standards/WikiData/WD~despotism,179352]]'
 - '[[_Standards/WikiData/WD~dictator,183318]]'
-instance_of: "[[_Standards/WikiData/WD~form of government,1307214]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Politics,5492483]]"
+instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hitler%20N%C3%BCrnberg%201935.jpg"
 OmegaWiki_Defined_Meaning: 353010
 Commons_category: Dictatorship

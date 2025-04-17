@@ -15,36 +15,36 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Amundsen%
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/RoaldAmundsen.ogg"
 NLC_authorities: 038217618
 residence:
-- "[[_Standards/WikiData/WD~Fredrikstad Municipality,107135]]"
-- "[[_Standards/WikiData/WD~Roald Amundsen's house in Uranienborg,12008560]]"
+- "[[_Standards/WikiData/WD~Fredrikstad_Municipality,107135]]"
+- "[[_Standards/WikiData/WD~Roald_Amundsen's_house_in_Uranienborg,12008560]]"
 - '[[_Standards/WikiData/WD~Oslo,585]]'
 award_received:
-- "[[_Standards/WikiData/WD~Congressional Gold Medal,721743]]"
-- "[[_Standards/WikiData/WD~Medal for Outstanding Civic Service,893537]]"
-- "[[_Standards/WikiData/WD~Polar Medal,1093361]]"
-- "[[_Standards/WikiData/WD~Medal of Merit,1838612]]"
-- "[[_Standards/WikiData/WD~Charles P. Daly Medal,2654823]]"
-- "[[_Standards/WikiData/WD~Vega Medal,3332237]]"
-- "[[_Standards/WikiData/WD~South Pole Medal,3444211]]"
-- "[[_Standards/WikiData/WD~Medal for Aeronautical Valour,3853523]]"
-- "[[_Standards/WikiData/WD~Constantin Medal,4231444]]"
-- "[[_Standards/WikiData/WD~Hubbard Medal,4287207]]"
-- "[[_Standards/WikiData/WD~Medalla Plus Ultra,6008353]]"
-- "[[_Standards/WikiData/WD~Livingstone Medal,10568200]]"
-- "[[_Standards/WikiData/WD~Knight of the Legion of Honour,10855271]]"
-- "[[_Standards/WikiData/WD~Knight Grand Cross of the Order of St. Olav,13377518]]"
-- "[[_Standards/WikiData/WD~Knight of the Order of Leopold,14900497]]"
-- "[[_Standards/WikiData/WD~Fridtjof Nansen Award of Excellence, Mathematics-Natural sciences class,18757335]]"
-- "[[_Standards/WikiData/WD~Grande Médaille d'Or des Explorations,19904118]]"
-- "[[_Standards/WikiData/WD~Alexander von Humboldt Medal,19971572]]"
-- "[[_Standards/WikiData/WD~Order of the Polar Star - Commander's Grand Cross,20899901]]"
-- "[[_Standards/WikiData/WD~Patron’s Medal,26837312]]"
-- "[[_Standards/WikiData/WD~Grand Cross of the Order of Franz Joseph,28609445]]"
-- "[[_Standards/WikiData/WD~Medal of Merit in Gold with Crown,114261689]]"
-cause_of_death: "[[_Standards/WikiData/WD~aviation accident,744913]]"
-place_of_birth: "[[_Standards/WikiData/WD~Borge Municipality,966777]]"
+- "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
+- "[[_Standards/WikiData/WD~Medal_for_Outstanding_Civic_Service,893537]]"
+- "[[_Standards/WikiData/WD~Polar_Medal,1093361]]"
+- "[[_Standards/WikiData/WD~Medal_of_Merit,1838612]]"
+- "[[_Standards/WikiData/WD~Charles_P._Daly_Medal,2654823]]"
+- "[[_Standards/WikiData/WD~Vega_Medal,3332237]]"
+- "[[_Standards/WikiData/WD~South_Pole_Medal,3444211]]"
+- "[[_Standards/WikiData/WD~Medal_for_Aeronautical_Valour,3853523]]"
+- "[[_Standards/WikiData/WD~Constantin_Medal,4231444]]"
+- "[[_Standards/WikiData/WD~Hubbard_Medal,4287207]]"
+- "[[_Standards/WikiData/WD~Medalla_Plus_Ultra,6008353]]"
+- "[[_Standards/WikiData/WD~Livingstone_Medal,10568200]]"
+- "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
+- "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_St._Olav,13377518]]"
+- "[[_Standards/WikiData/WD~Knight_of_the_Order_of_Leopold,14900497]]"
+- "[[_Standards/WikiData/WD~Fridtjof_Nansen_Award_of_Excellence,_Mathematics-Natural_sciences_class,18757335]]"
+- "[[_Standards/WikiData/WD~Grande_Médaille_d'Or_des_Explorations,19904118]]"
+- "[[_Standards/WikiData/WD~Alexander_von_Humboldt_Medal,19971572]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Polar_Star_-_Commander's_Grand_Cross,20899901]]"
+- "[[_Standards/WikiData/WD~Patron’s_Medal,26837312]]"
+- "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Franz_Joseph,28609445]]"
+- "[[_Standards/WikiData/WD~Medal_of_Merit_in_Gold_with_Crown,114261689]]"
+cause_of_death: "[[_Standards/WikiData/WD~aviation_accident,744913]]"
+place_of_birth: "[[_Standards/WikiData/WD~Borge_Municipality,966777]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~polar exploration,1640995]]"
+- "[[_Standards/WikiData/WD~polar_exploration,1640995]]"
 - '[[_Standards/WikiData/WD~exploration,6502154]]'
 given_name:
 - '[[_Standards/WikiData/WD~Roald,1646751]]'
@@ -52,30 +52,30 @@ given_name:
 - '[[_Standards/WikiData/WD~Gravning,43278543]]'
 occupation:
 - '[[_Standards/WikiData/WD~researcher,1650915]]'
-- "[[_Standards/WikiData/WD~aircraft pilot,2095549]]"
-- "[[_Standards/WikiData/WD~film director,2526255]]"
+- "[[_Standards/WikiData/WD~aircraft_pilot,2095549]]"
+- "[[_Standards/WikiData/WD~film_director,2526255]]"
 - '[[_Standards/WikiData/WD~explorer,11900058]]'
-- "[[_Standards/WikiData/WD~polar explorer,13382749]]"
+- "[[_Standards/WikiData/WD~polar_explorer,13382749]]"
 - '[[_Standards/WikiData/WD~traveler,22813352]]'
-- "[[_Standards/WikiData/WD~naval aviator,108114975]]"
+- "[[_Standards/WikiData/WD~naval_aviator,108114975]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~sailor,45199]]'
-participant_in: "[[_Standards/WikiData/WD~The Gjøa expedition (1903–1906),3062320]]"
-father: "[[_Standards/WikiData/WD~Jens Amundsen,3177180]]"
-different_from: "[[_Standards/WikiData/WD~Roald Amundsen,3434117]]"
+participant_in: "[[_Standards/WikiData/WD~The_Gjøa_expedition_(1903–1906),3062320]]"
+father: "[[_Standards/WikiData/WD~Jens_Amundsen,3177180]]"
+different_from: "[[_Standards/WikiData/WD~Roald_Amundsen,3434117]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 family_name: '[[_Standards/WikiData/WD~Amundsen,16148979]]'
-sibling: "[[_Standards/WikiData/WD~Leon Amundsen,18647630]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental death,21142718]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Photography Collection,105026832]]"
-depicted_by: "[[_Standards/WikiData/WD~Fra Strøget. _ XLV._ Roald Amundsen,109729634]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject New York Public Library,121437821]]"
+sibling: "[[_Standards/WikiData/WD~Leon_Amundsen,18647630]]"
+manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Photography_Collection,105026832]]"
+depicted_by: "[[_Standards/WikiData/WD~Fra_Strøget.___XLV.__Roald_Amundsen,109729634]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
 date_of_birth: "1872-07-16"
 ISNI: 0000000114475638
 described_at_URL:
@@ -86,11 +86,11 @@ described_at_URL:
 - "http://www.digiporta.net/index.php?id=441425770"
 - "http://www.digiporta.net/index.php?id=491240431"
 - "http://www.digiporta.net/index.php?id=274047796"
-place_of_death: "[[_Standards/WikiData/WD~Arctic Ocean,788]]"
+place_of_death: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Norwegian,9043]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Norway,20]]'
-place_of_burial: "[[_Standards/WikiData/WD~Barents Sea,45823]]"
+place_of_burial: "[[_Standards/WikiData/WD~Barents_Sea,45823]]"
 Krugosvet_article: Earth_sciences/geografiya/AMUNDSEN_RUAL.html
 Libris_URI: fcrtxzkz08swbdk
 birth_name: "Roald Engelbregt Gravning Amundsen"

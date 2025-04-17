@@ -3,21 +3,21 @@ has_id_wikidata: Q35277
 opposite_of: '[[_Standards/WikiData/WD~agnosticism,288928]]'
 subclass_of: '[[_Standards/WikiData/WD~metaphilosophy,596284]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - '[[_Standards/WikiData/WD~Metaphysics,661655]]'
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
-is_the_study_of: "[[_Standards/WikiData/WD~unmoved mover,2326055]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+is_the_study_of: "[[_Standards/WikiData/WD~unmoved_mover,2326055]]"
 history_of_topic: '[[_Standards/WikiData/WD~Q3137267,3137267]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Metaphysics,8084282]]'
 instance_of:
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-- "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+- "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
 practiced_by: '[[_Standards/WikiData/WD~metaphysician,16743941]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of metaphysics,17004632]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_metaphysics,17004632]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Meta-moerbeke%20jpeg031-part.jpg"
 Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/metaphysics"
 Krugosvet_article: gumanitarnye_nauki/filosofiya/METAFIZIKA.html

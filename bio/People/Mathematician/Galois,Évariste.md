@@ -5,34 +5,34 @@ has_id_wikidata: Q7091
 Krugosvet_article: nauka_i_tehnika/matematika/GALUA_EVARIST.html
 Libris_URI: rp3570b9208j5w3
 Regensburg_Classification: "SF 3100"
-employer: "[[_Standards/WikiData/WD~École Normale Supérieure,83259]]"
+employer: "[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]"
 educated_at:
-- "[[_Standards/WikiData/WD~École Normale Supérieure,83259]]"
-- "[[_Standards/WikiData/WD~Lycée Louis-le-Grand,1059546]]"
-notable_work: "[[_Standards/WikiData/WD~Galois theory,92552]]"
-field_of_work: "[[_Standards/WikiData/WD~Galois theory,92552]]"
+- "[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]"
+- "[[_Standards/WikiData/WD~Lycée_Louis-le-Grand,1059546]]"
+notable_work: "[[_Standards/WikiData/WD~Galois_theory,92552]]"
+field_of_work: "[[_Standards/WikiData/WD~Galois_theory,92552]]"
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 occupation: '[[_Standards/WikiData/WD~mathematician,170790]]'
-influenced_by: "[[_Standards/WikiData/WD~Adrien-Marie Legendre,191021]]"
+influenced_by: "[[_Standards/WikiData/WD~Adrien-Marie_Legendre,191021]]"
 place_of_birth: '[[_Standards/WikiData/WD~Bourg-la-Reine,249852]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Georgian Soviet Encyclopedia,1509493]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 political_ideology: '[[_Standards/WikiData/WD~Republicanism,877848]]'
-award_received: "[[_Standards/WikiData/WD~Concours général,908793]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot wound,2140674]]"
-place_of_detention: "[[_Standards/WikiData/WD~La Force Prison,3142856]]"
-member_of: "[[_Standards/WikiData/WD~Society of People of Friends,3488092]]"
+award_received: "[[_Standards/WikiData/WD~Concours_général,908793]]"
+cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
+place_of_detention: "[[_Standards/WikiData/WD~La_Force_Prison,3142856]]"
+member_of: "[[_Standards/WikiData/WD~Society_of_People_of_Friends,3488092]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 given_name: '[[_Standards/WikiData/WD~Évariste,18402196]]'
-father: "[[_Standards/WikiData/WD~Nicolas-Gabriel Galois,66362753]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+father: "[[_Standards/WikiData/WD~Nicolas-Gabriel_Galois,66362753]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 family_name: '[[_Standards/WikiData/WD~Galois,96107289]]'
 ISNI: 0000000108983441
 instance_of: '[[_Standards/WikiData/WD~human,5]]'

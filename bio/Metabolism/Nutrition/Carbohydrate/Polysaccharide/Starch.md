@@ -13,8 +13,8 @@ UNII:
 - 904CE6697V
 subclass_of:
 - '[[_Standards/WikiData/WD~polysaccharide,134219]]'
-- "[[_Standards/WikiData/WD~primary metabolite,3333419]]"
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~amylose,207466]]'
 - '[[_Standards/WikiData/WD~amylopectin,271643]]'
@@ -24,26 +24,26 @@ has_part_s_:
 instance_of:
 - '[[_Standards/WikiData/WD~glucan,416796]]'
 - '[[_Standards/WikiData/WD~excipient,902638]]'
-- "[[_Standards/WikiData/WD~food product,951964]]"
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~food_product,951964]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_use:
 - '[[_Standards/WikiData/WD~thickener,911138]]'
 - '[[_Standards/WikiData/WD~nutriment,1422299]]'
-fabrication_method: "[[_Standards/WikiData/WD~starch industry,2843284]]"
+fabrication_method: "[[_Standards/WikiData/WD~starch_industry,2843284]]"
 part_of:
-- "[[_Standards/WikiData/WD~starch catabolic process,21118731]]"
-- "[[_Standards/WikiData/WD~starch binding,21832642]]"
-- "[[_Standards/WikiData/WD~starch metabolic process,22281683]]"
-- "[[_Standards/WikiData/WD~starch biosynthetic process,22283028]]"
-associated_hazard: "[[_Standards/WikiData/WD~starch exposure,21175313]]"
-has_effect: "[[_Standards/WikiData/WD~starch exposure,21175313]]"
+- "[[_Standards/WikiData/WD~starch_catabolic_process,21118731]]"
+- "[[_Standards/WikiData/WD~starch_binding,21832642]]"
+- "[[_Standards/WikiData/WD~starch_metabolic_process,22281683]]"
+- "[[_Standards/WikiData/WD~starch_biosynthetic_process,22283028]]"
+associated_hazard: "[[_Standards/WikiData/WD~starch_exposure,21175313]]"
+has_effect: "[[_Standards/WikiData/WD~starch_exposure,21175313]]"
 MeSH_tree_code:
 - D05.750.078.562.855
 - D09.301.915

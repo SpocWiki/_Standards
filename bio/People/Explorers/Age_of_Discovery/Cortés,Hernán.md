@@ -13,40 +13,40 @@ cause_of_death:
 - '[[_Standards/WikiData/WD~dysentery,129279]]'
 - '[[_Standards/WikiData/WD~pleurisy,55998]]'
 unmarried_partner:
-- "[[_Standards/WikiData/WD~La Malinche,230314]]"
-- "[[_Standards/WikiData/WD~Isabel Moctezuma,465561]]"
+- "[[_Standards/WikiData/WD~La_Malinche,230314]]"
+- "[[_Standards/WikiData/WD~Isabel_Moctezuma,465561]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Appletons' Cyclopædia of American Biography,12912667]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 place_of_birth: '[[_Standards/WikiData/WD~Medellín,668384]]'
-award_received: "[[_Standards/WikiData/WD~Order of Santiago,757097]]"
-place_of_death: "[[_Standards/WikiData/WD~Castilleja de la Cuesta,841589]]"
-depicted_by: "[[_Standards/WikiData/WD~The Road to El Dorado,866358]]"
+award_received: "[[_Standards/WikiData/WD~Order_of_Santiago,757097]]"
+place_of_death: "[[_Standards/WikiData/WD~Castilleja_de_la_Cuesta,841589]]"
+depicted_by: "[[_Standards/WikiData/WD~The_Road_to_El_Dorado,866358]]"
 child:
-- "[[_Standards/WikiData/WD~Leonor Cortés Moctezuma de la torre,965442]]"
-- "[[_Standards/WikiData/WD~Martín Cortés,1905889]]"
-- "[[_Standards/WikiData/WD~Martín Cortés, 2nd Marquis of the Valley of Oaxaca,2270460]]"
-- "[[_Standards/WikiData/WD~Juana Cortés de Zuñiga,110935071]]"
-- "[[_Standards/WikiData/WD~María Cortés y Ramírez de Arellano,110935091]]"
-military_branch: "[[_Standards/WikiData/WD~Spanish Army,1322103]]"
-significant_person: "[[_Standards/WikiData/WD~Johannes Dantiscus,1358292]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+- "[[_Standards/WikiData/WD~Leonor_Cortés_Moctezuma_de_la_torre,965442]]"
+- "[[_Standards/WikiData/WD~Martín_Cortés,1905889]]"
+- "[[_Standards/WikiData/WD~Martín_Cortés,_2nd_Marquis_of_the_Valley_of_Oaxaca,2270460]]"
+- "[[_Standards/WikiData/WD~Juana_Cortés_de_Zuñiga,110935071]]"
+- "[[_Standards/WikiData/WD~María_Cortés_y_Ramírez_de_Arellano,110935091]]"
+military_branch: "[[_Standards/WikiData/WD~Spanish_Army,1322103]]"
+significant_person: "[[_Standards/WikiData/WD~Johannes_Dantiscus,1358292]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Hernán,19688586]]'
 second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Pizarro,21004060]]'
 spouse:
-- "[[_Standards/WikiData/WD~Catalina Suárez Marcayda,21711020]]"
-- "[[_Standards/WikiData/WD~Juana Ramírez de Arellano y Zúñiga,113995403]]"
+- "[[_Standards/WikiData/WD~Catalina_Suárez_Marcayda,21711020]]"
+- "[[_Standards/WikiData/WD~Juana_Ramírez_de_Arellano_y_Zúñiga,113995403]]"
 family_name: '[[_Standards/WikiData/WD~Cortés,29470991]]'
-position_held: "[[_Standards/WikiData/WD~Viceroy of New Spain,42079568]]"
-father: "[[_Standards/WikiData/WD~Martín Cortés de Monroy,50824534]]"
-mother: "[[_Standards/WikiData/WD~Catalina Pizarro Altamirano,101402678]]"
+position_held: "[[_Standards/WikiData/WD~Viceroy_of_New_Spain,42079568]]"
+father: "[[_Standards/WikiData/WD~Martín_Cortés_de_Monroy,50824534]]"
+mother: "[[_Standards/WikiData/WD~Catalina_Pizarro_Altamirano,101402678]]"
 date_of_birth: "1485"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20Hern%C3%A1n%20Cort%C3%A9s%20completo.svg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Hernan%20Cortes%20Signature.svg"
@@ -60,7 +60,7 @@ name_in_native_language: "Hernán Cortés y Pizarro"
 birth_name: "Hernán Cortés y Pizarro"
 described_at_URL: "http://www.digiporta.net/index.php?id=643505497"
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
-place_of_burial: "[[_Standards/WikiData/WD~Mexico City,1489]]"
+place_of_burial: "[[_Standards/WikiData/WD~Mexico_City,1489]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
 allegiance: '[[_Standards/WikiData/WD~Spain,29]]'

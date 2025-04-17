@@ -1,26 +1,26 @@
 ---
 has_id_wikidata: Q7886
-arterial_supply: "[[_Standards/WikiData/WD~pulmonary artery,206280]]"
-venous_drainage: "[[_Standards/WikiData/WD~pulmonary vein,535352]]"
+arterial_supply: "[[_Standards/WikiData/WD~pulmonary_artery,206280]]"
+venous_drainage: "[[_Standards/WikiData/WD~pulmonary_vein,535352]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Gray's Anatomy (20th edition),19558994]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~organ,712378]]'
-- "[[_Standards/WikiData/WD~animal organ,24060765]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-anatomical_location: "[[_Standards/WikiData/WD~cavity of bony thorax,994554]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~pulmonary lobe,7259536]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~lung development,14327711]]"
+- "[[_Standards/WikiData/WD~animal_organ,24060765]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+anatomical_location: "[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~pulmonary_lobe,7259536]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~lung_development,14327711]]"
 instance_of:
-- "[[_Standards/WikiData/WD~organ type,103812529]]"
-- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-different_from: "[[_Standards/WikiData/WD~pair of lungs,103998540]]"
+- "[[_Standards/WikiData/WD~organ_type,103812529]]"
+- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+different_from: "[[_Standards/WikiData/WD~pair_of_lungs,103998540]]"
 Baidu_Tieba_name: 肺
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Lunge.ogg"
-part_of: "[[_Standards/WikiData/WD~respiratory system,7891]]"
+part_of: "[[_Standards/WikiData/WD~respiratory_system,7891]]"
 Commons_gallery: Lung
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/So%20funktioniert%20die%20Atmung.webm"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Thorax%20Lung%203d%20from%20ct%20scans.jpg"

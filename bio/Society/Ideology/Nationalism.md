@@ -2,19 +2,19 @@
 has_id_wikidata: Q6235
 has_characteristic:
 - '[[_Standards/WikiData/WD~irredentism,182274]]'
-- "[[_Standards/WikiData/WD~Types of nationalism,7860958]]"
+- "[[_Standards/WikiData/WD~Types_of_nationalism,7860958]]"
 opposite_of:
 - '[[_Standards/WikiData/WD~cosmopolitanism,188843]]'
 - '[[_Standards/WikiData/WD~anti-nationalism,649132]]'
 - '[[_Standards/WikiData/WD~internationalism,695838]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-studied_in: "[[_Standards/WikiData/WD~nationalism studies,4314780]]"
-subclass_of: "[[_Standards/WikiData/WD~political ideology,12909644]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+studied_in: "[[_Standards/WikiData/WD~nationalism_studies,4314780]]"
+subclass_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Nationalism,13107438]]'
-- "[[_Standards/WikiData/WD~Template_Nationalism sidebar,13107436]]"
+- "[[_Standards/WikiData/WD~Template_Nationalism_sidebar,13107436]]"
 practiced_by: '[[_Standards/WikiData/WD~nationalist,106399618]]'
 Provenio_UUID: cfabbabf-ca77-4237-aad4-82df4ec93568
 different_from: '[[_Standards/WikiData/WD~patriotism,6241]]'

@@ -5,45 +5,45 @@ aliases:
 - "Chinggis Khan"
 has_id_wikidata: Q7200
 influenced_by:
-- "[[_Standards/WikiData/WD~John Keats,82083]]"
-- "[[_Standards/WikiData/WD~Percy Bysshe Shelley,93343]]"
-- "[[_Standards/WikiData/WD~William Shakespeare,692]]"
-- "[[_Standards/WikiData/WD~Dante Alighieri,1067]]"
-- "[[_Standards/WikiData/WD~Lord Byron,5679]]"
-- "[[_Standards/WikiData/WD~Johann Wolfgang von Goethe,5879]]"
+- "[[_Standards/WikiData/WD~John_Keats,82083]]"
+- "[[_Standards/WikiData/WD~Percy_Bysshe_Shelley,93343]]"
+- "[[_Standards/WikiData/WD~William_Shakespeare,692]]"
+- "[[_Standards/WikiData/WD~Dante_Alighieri,1067]]"
+- "[[_Standards/WikiData/WD~Lord_Byron,5679]]"
+- "[[_Standards/WikiData/WD~Johann_Wolfgang_von_Goethe,5879]]"
 - '[[_Standards/WikiData/WD~Voltaire,9068]]'
-- "[[_Standards/WikiData/WD~Friedrich Schiller,22670]]"
+- "[[_Standards/WikiData/WD~Friedrich_Schiller,22670]]"
 notable_work:
-- "[[_Standards/WikiData/WD~The Captain's Daughter,144569]]"
-- "[[_Standards/WikiData/WD~Boris Godunov,893665]]"
-- "[[_Standards/WikiData/WD~The Tale of the Fisherman and the Fish,1247776]]"
-- "[[_Standards/WikiData/WD~Ruslan and Ludmila,2353039]]"
-- "[[_Standards/WikiData/WD~The Prophet,4380917]]"
-- "[[_Standards/WikiData/WD~The Tale of the Golden Cockerel,4421382]]"
-- "[[_Standards/WikiData/WD~The Tale of the Dead Princess and the Seven Knights,4421383]]"
-- "[[_Standards/WikiData/WD~The Tale of the Priest and of His Workman Balda,4421388]]"
-- "[[_Standards/WikiData/WD~Eugene Onegin,50948]]"
+- "[[_Standards/WikiData/WD~The_Captain's_Daughter,144569]]"
+- "[[_Standards/WikiData/WD~Boris_Godunov,893665]]"
+- "[[_Standards/WikiData/WD~The_Tale_of_the_Fisherman_and_the_Fish,1247776]]"
+- "[[_Standards/WikiData/WD~Ruslan_and_Ludmila,2353039]]"
+- "[[_Standards/WikiData/WD~The_Prophet,4380917]]"
+- "[[_Standards/WikiData/WD~The_Tale_of_the_Golden_Cockerel,4421382]]"
+- "[[_Standards/WikiData/WD~The_Tale_of_the_Dead_Princess_and_the_Seven_Knights,4421383]]"
+- "[[_Standards/WikiData/WD~The_Tale_of_the_Priest_and_of_His_Workman_Balda,4421388]]"
+- "[[_Standards/WikiData/WD~Eugene_Onegin,50948]]"
 manner_of_death:
 - '[[_Standards/WikiData/WD~homicide,149086]]'
 - '[[_Standards/WikiData/WD~duel,191503]]'
 genre:
-- "[[_Standards/WikiData/WD~opinion journalism,156035]]"
-- "[[_Standards/WikiData/WD~historical novel,192239]]"
-- "[[_Standards/WikiData/WD~verse novel,948970]]"
-- "[[_Standards/WikiData/WD~robber novel,1543634]]"
-- "[[_Standards/WikiData/WD~short novel,12799318]]"
+- "[[_Standards/WikiData/WD~opinion_journalism,156035]]"
+- "[[_Standards/WikiData/WD~historical_novel,192239]]"
+- "[[_Standards/WikiData/WD~verse_novel,948970]]"
+- "[[_Standards/WikiData/WD~robber_novel,1543634]]"
+- "[[_Standards/WikiData/WD~short_novel,12799318]]"
 - '[[_Standards/WikiData/WD~prose,676]]'
-- "[[_Standards/WikiData/WD~fairy tale,699]]"
+- "[[_Standards/WikiData/WD~fairy_tale,699]]"
 - '[[_Standards/WikiData/WD~criticism,17955]]'
 - '[[_Standards/WikiData/WD~play,25379]]'
 residence:
 - '[[_Standards/WikiData/WD~Layış,156648]]'
-- "[[_Standards/WikiData/WD~Bolshoye Boldino,4092262]]"
-- "[[_Standards/WikiData/WD~Yazykov Estate,4536541]]"
+- "[[_Standards/WikiData/WD~Bolshoye_Boldino,4092262]]"
+- "[[_Standards/WikiData/WD~Yazykov_Estate,4536541]]"
 - '[[_Standards/WikiData/WD~Yaropolets,4538749]]'
 - '[[_Standards/WikiData/WD~Moscow,649]]'
-- "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
-- "[[_Standards/WikiData/WD~Nizhny Novgorod,891]]"
+- "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
+- "[[_Standards/WikiData/WD~Nizhny_Novgorod,891]]"
 - '[[_Standards/WikiData/WD~Kazan,900]]'
 - '[[_Standards/WikiData/WD~Odesa,1874]]'
 - '[[_Standards/WikiData/WD~Saratov,5332]]'
@@ -58,73 +58,73 @@ occupation:
 - '[[_Standards/WikiData/WD~translator,333634]]'
 - '[[_Standards/WikiData/WD~author,482980]]'
 - '[[_Standards/WikiData/WD~dramaturge,487596]]'
-- "[[_Standards/WikiData/WD~literary critic,4263842]]"
-- "[[_Standards/WikiData/WD~children's writer,4853732]]"
-- "[[_Standards/WikiData/WD~opinion journalist,6051619]]"
+- "[[_Standards/WikiData/WD~literary_critic,4263842]]"
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- "[[_Standards/WikiData/WD~opinion_journalist,6051619]]"
 - '[[_Standards/WikiData/WD~novelist,6625963]]'
 - '[[_Standards/WikiData/WD~librettist,8178443]]'
 - '[[_Standards/WikiData/WD~essayist,11774202]]'
-- "[[_Standards/WikiData/WD~prose writer,12144794]]"
+- "[[_Standards/WikiData/WD~prose_writer,12144794]]"
 - '[[_Standards/WikiData/WD~bretteur,27044075]]'
-- "[[_Standards/WikiData/WD~book collector,28776412]]"
+- "[[_Standards/WikiData/WD~book_collector,28776412]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
-spouse: "[[_Standards/WikiData/WD~Natalia Pushkina,274331]]"
+spouse: "[[_Standards/WikiData/WD~Natalia_Pushkina,274331]]"
 different_from:
-- "[[_Standards/WikiData/WD~Alexander Pichushkin,317496]]"
-- "[[_Standards/WikiData/WD~Alexander Pushkin,15210311]]"
-list_of_works: "[[_Standards/WikiData/WD~Alexander Pushkin bibliography,407581]]"
+- "[[_Standards/WikiData/WD~Alexander_Pichushkin,317496]]"
+- "[[_Standards/WikiData/WD~Alexander_Pushkin,15210311]]"
+list_of_works: "[[_Standards/WikiData/WD~Alexander_Pushkin_bibliography,407581]]"
 field_of_work:
 - '[[_Standards/WikiData/WD~dramaturgy,492537]]'
-- "[[_Standards/WikiData/WD~study of history,1066186]]"
+- "[[_Standards/WikiData/WD~study_of_history,1066186]]"
 - '[[_Standards/WikiData/WD~translation,7553]]'
 - '[[_Standards/WikiData/WD~criticism,17955]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Concise Literary Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Literary Encyclopedia 1929—1939,4263804]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
+- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929—1939,4263804]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Russian writers_ XIX c. [2_2],125555366]]"
-killed_by: "[[_Standards/WikiData/WD~Georges-Charles de Heeckeren d'Anthès,709997]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
-civil_rank: "[[_Standards/WikiData/WD~titular councillor,1336636]]"
+- "[[_Standards/WikiData/WD~Russian_writers__XIX_c. [2_2],125555366]]"
+killed_by: "[[_Standards/WikiData/WD~Georges-Charles_de_Heeckeren_d'Anthès,709997]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
+civil_rank: "[[_Standards/WikiData/WD~titular_councillor,1336636]]"
 member_of:
-- "[[_Standards/WikiData/WD~Arzamas Society,1964755]]"
-- "[[_Standards/WikiData/WD~Green Lamp Society,4190651]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot wound,2140674]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Eastern Orthodoxy,3333484]]"
+- "[[_Standards/WikiData/WD~Arzamas_Society,1964755]]"
+- "[[_Standards/WikiData/WD~Green_Lamp_Society,4190651]]"
+cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
 child:
-- "[[_Standards/WikiData/WD~Natalya Alexandrovna Pushkina,3870579]]"
-- "[[_Standards/WikiData/WD~Maria Pushkina,4133961]]"
-- "[[_Standards/WikiData/WD~Alexander Alexandrovich Pushkin,4384708]]"
-- "[[_Standards/WikiData/WD~Grigory Aleksandrovich Pushkin,4384717]]"
-mother: "[[_Standards/WikiData/WD~Nadezhda Pushkina,4133327]]"
+- "[[_Standards/WikiData/WD~Natalya_Alexandrovna_Pushkina,3870579]]"
+- "[[_Standards/WikiData/WD~Maria_Pushkina,4133961]]"
+- "[[_Standards/WikiData/WD~Alexander_Alexandrovich_Pushkin,4384708]]"
+- "[[_Standards/WikiData/WD~Grigory_Aleksandrovich_Pushkin,4384717]]"
+mother: "[[_Standards/WikiData/WD~Nadezhda_Pushkina,4133327]]"
 sibling:
-- "[[_Standards/WikiData/WD~Olga Pavlischeva,4341443]]"
-- "[[_Standards/WikiData/WD~Lev Sergeyevich Pushkin,4384725]]"
-father: "[[_Standards/WikiData/WD~Sergey Pushkin,4384727]]"
-studied_in: "[[_Standards/WikiData/WD~Pushkin studies,4384741]]"
-place_of_burial: "[[_Standards/WikiData/WD~Svyatogorsky Monastery,4411519]]"
-artist_files_at: "[[_Standards/WikiData/WD~Frick Art Research Library,5503390]]"
+- "[[_Standards/WikiData/WD~Olga_Pavlischeva,4341443]]"
+- "[[_Standards/WikiData/WD~Lev_Sergeyevich_Pushkin,4384725]]"
+father: "[[_Standards/WikiData/WD~Sergey_Pushkin,4384727]]"
+studied_in: "[[_Standards/WikiData/WD~Pushkin_studies,4384741]]"
+place_of_burial: "[[_Standards/WikiData/WD~Svyatogorsky_Monastery,4411519]]"
+artist_files_at: "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Aleksandr,17501806]]'
 depicted_by:
-- "[[_Standards/WikiData/WD~Portrait of Alexander Pushkin,18688281]]"
-- "[[_Standards/WikiData/WD~Alexander Pushkin memorial,126364392]]"
+- "[[_Standards/WikiData/WD~Portrait_of_Alexander_Pushkin,18688281]]"
+- "[[_Standards/WikiData/WD~Alexander_Pushkin_memorial,126364392]]"
 family_name: '[[_Standards/WikiData/WD~Pushkin,27966336]]'
-position_held: "[[_Standards/WikiData/WD~member of Filiki Etería,43296860]]"
+position_held: "[[_Standards/WikiData/WD~member_of_Filiki_Etería,43296860]]"
 patronym_or_matronym: '[[_Standards/WikiData/WD~Sergeyevich,47517078]]'
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Frick Art Reference Library,104694359]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
 ISNI: 0000000121372055
 CYT_CCS:
 - AC000151983
@@ -133,14 +133,14 @@ CYT_CCS:
 date_of_death: "1837-02-10"
 work_period_end_: "1837"
 place_of_birth: '[[_Standards/WikiData/WD~Moscow,649]]'
-place_of_death: "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
+place_of_death: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
 writing_language:
 - '[[_Standards/WikiData/WD~Russian,7737]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737]]'
 native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Russian Empire,34266]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
 ArhivX_LOD: 4444
 BHCL_UUID: 5f455afb-640d-45a6-9c54-8ae2f54fe371
 Libris_URI: 75kmjwfr4d93z03

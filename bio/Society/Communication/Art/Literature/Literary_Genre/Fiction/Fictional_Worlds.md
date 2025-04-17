@@ -1,18 +1,18 @@
 ﻿---
 has_id_wikidata: Q559618
 has_list:
-- "[[_Standards/WikiData/WD~list of fictional universes in literature,6619794]]"
-- "[[_Standards/WikiData/WD~list of science fiction universes,6638008]]"
-has_part_s_: "[[_Standards/WikiData/WD~fictional object,15706911]]"
+- "[[_Standards/WikiData/WD~list_of_fictional_universes_in_literature,6619794]]"
+- "[[_Standards/WikiData/WD~list_of_science_fiction_universes,6638008]]"
+has_part_s_: "[[_Standards/WikiData/WD~fictional_object,15706911]]"
 instance_of:
-- "[[_Standards/WikiData/WD~class of fictional entities,15831596]]"
-- "[[_Standards/WikiData/WD~fictional class,126864576]]"
+- "[[_Standards/WikiData/WD~class_of_fictional_entities,15831596]]"
+- "[[_Standards/WikiData/WD~fictional_class,126864576]]"
 fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~universe,36906466]]'
 different_from:
-- "[[_Standards/WikiData/WD~fictional parallel universe,47306921]]"
-- "[[_Standards/WikiData/WD~mythical universe,107863035]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Fictional universes,73601054]]"
-subclass_of: "[[_Standards/WikiData/WD~fictional collective entity,108764372]]"
+- "[[_Standards/WikiData/WD~fictional_parallel_universe,47306921]]"
+- "[[_Standards/WikiData/WD~mythical_universe,107863035]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Fictional_universes,73601054]]"
+subclass_of: "[[_Standards/WikiData/WD~fictional_collective_entity,108764372]]"
 Wikidata_property:
 - "from narrative universe"
 - "takes place in fictional universe"

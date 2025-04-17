@@ -2,16 +2,16 @@
 has_id_wikidata: Q11398
 uses:
 - '[[_Standards/WikiData/WD~cladistics,192210]]'
-- "[[_Standards/WikiData/WD~form classification,17105508]]"
-described_by_source: "[[_Standards/WikiData/WD~Baidu Baike,803722]]"
+- "[[_Standards/WikiData/WD~form_classification,17105508]]"
+described_by_source: "[[_Standards/WikiData/WD~Baidu_Baike,803722]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Biological kingdom classification,6221922]]"
-- "[[_Standards/WikiData/WD~Template_Biological classification,6470140]]"
+- "[[_Standards/WikiData/WD~Template_Biological_kingdom_classification,6221922]]"
+- "[[_Standards/WikiData/WD~Template_Biological_classification,6470140]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~specialised classification scheme,24249534]]"
+- "[[_Standards/WikiData/WD~specialised_classification_scheme,24249534]]"
 - '[[_Standards/WikiData/WD~taxonomy,7211]]'
-instance_of: "[[_Standards/WikiData/WD~type of classification,121344523]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_classification,121344523]]"
 Commons_category: Taxonomy
 ---
 

@@ -5,13 +5,13 @@ IPTC_NewsCode: mediatopic/20000775
 name_in_kana: さべつ
 instance_of:
 - '[[_Standards/WikiData/WD~crime,83267]]'
-- "[[_Standards/WikiData/WD~hate crime,459409]]"
-- "[[_Standards/WikiData/WD~legal concept,2135465]]"
-- "[[_Standards/WikiData/WD~sociological concept,33104129]]"
+- "[[_Standards/WikiData/WD~hate_crime,459409]]"
+- "[[_Standards/WikiData/WD~legal_concept,2135465]]"
+- "[[_Standards/WikiData/WD~sociological_concept,33104129]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~sexism,93200]]'
 - '[[_Standards/WikiData/WD~ableism,1192251]]'
-- "[[_Standards/WikiData/WD~class discrimination,1414964]]"
+- "[[_Standards/WikiData/WD~class_discrimination,1414964]]"
 - '[[_Standards/WikiData/WD~lookism,1463434]]'
 - '[[_Standards/WikiData/WD~racism,8461]]'
 - '[[_Standards/WikiData/WD~homophobia,33487]]'
@@ -19,35 +19,35 @@ has_part_s_:
 has_cause: '[[_Standards/WikiData/WD~xenophobia,166005]]'
 named_after: '[[_Standards/WikiData/WD~discriminant,192487]]'
 said_to_be_the_same_as:
-- "[[_Standards/WikiData/WD~affirmative action,214244]]"
-- "[[_Standards/WikiData/WD~negative discrimination,1772837]]"
+- "[[_Standards/WikiData/WD~affirmative_action,214244]]"
+- "[[_Standards/WikiData/WD~negative_discrimination,1772837]]"
 different_from:
-- "[[_Standards/WikiData/WD~affirmative action,214244]]"
+- "[[_Standards/WikiData/WD~affirmative_action,214244]]"
 - '[[_Standards/WikiData/WD~Q1228891,1228891]]'
 - '[[_Standards/WikiData/WD~discrimination,69942272]]'
 has_effect:
-- "[[_Standards/WikiData/WD~hate crime,459409]]"
-- "[[_Standards/WikiData/WD~hate speech,653347]]"
-- "[[_Standards/WikiData/WD~social inequality,5431887]]"
+- "[[_Standards/WikiData/WD~hate_crime,459409]]"
+- "[[_Standards/WikiData/WD~hate_speech,653347]]"
+- "[[_Standards/WikiData/WD~social_inequality,5431887]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~social issue,1920219]]"
+- "[[_Standards/WikiData/WD~social_issue,1920219]]"
 - '[[_Standards/WikiData/WD~discrimination,115667577]]'
 - '[[_Standards/WikiData/WD~behavior,9332]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Gender Glossar,106508758]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Gender_Glossar,106508758]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 studied_in:
-- "[[_Standards/WikiData/WD~feminist theory,4810748]]"
-- "[[_Standards/WikiData/WD~sociology of inequalities,111327036]]"
+- "[[_Standards/WikiData/WD~feminist_theory,4810748]]"
+- "[[_Standards/WikiData/WD~sociology_of_inequalities,111327036]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Discrimination sidebar,7583764]]"
+- "[[_Standards/WikiData/WD~Template_Discrimination_sidebar,7583764]]"
 - '[[_Standards/WikiData/WD~Template_Discrimination,13107827]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Discrimination,13107857]]'
 opposite_of:
 - '[[_Standards/WikiData/WD~non-discrimination,27976816]]'
 - '[[_Standards/WikiData/WD~anti-discrimination,58375253]]'
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target 10.3 of the Sustainable Development Goals,57590844]]"
+relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_10.3_of_the_Sustainable_Development_Goals,57590844]]"
 Library_of_Congress_Classification: K3242
 Universal_Decimal_Classification: 316.647.82
 Commons_category: "Prejudice and discrimination"

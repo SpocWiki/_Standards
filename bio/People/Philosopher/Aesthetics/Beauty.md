@@ -8,14 +8,14 @@ subclass_of:
 - '[[_Standards/WikiData/WD~value,194112]]'
 - '[[_Standards/WikiData/WD~convention,367293]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Why Beauty Matters,23755376]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Why_Beauty_Matters,23755376]]"
 opposite_of: '[[_Standards/WikiData/WD~ugliness,1415055]]'
 instance_of:
-- "[[_Standards/WikiData/WD~personality trait,2393196]]"
-- "[[_Standards/WikiData/WD~aesthetic concept,55387456]]"
-- "[[_Standards/WikiData/WD~type of value,129510955]]"
+- "[[_Standards/WikiData/WD~personality_trait,2393196]]"
+- "[[_Standards/WikiData/WD~aesthetic_concept,55387456]]"
+- "[[_Standards/WikiData/WD~type_of_value,129510955]]"
 UMLS_CUI: C0004898
 IAB_code: 553
 OmegaWiki_Defined_Meaning: 156089

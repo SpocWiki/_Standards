@@ -6,65 +6,65 @@ aliases:
 - Gabo
 has_id_wikidata: Q5878
 award_received:
-- "[[_Standards/WikiData/WD~Order of the Aztec Eagle,93956]]"
-- "[[_Standards/WikiData/WD~Order of Honour,2268261]]"
-- "[[_Standards/WikiData/WD~Common Wealth Award of Distinguished Service,5153503]]"
-- "[[_Standards/WikiData/WD~Orden al Mérito Docente y Cultural Gabriela Mistral,9052807]]"
-- "[[_Standards/WikiData/WD~Commander of the Legion of Honour,10855212]]"
-- "[[_Standards/WikiData/WD~Grand Officer of the Legion of Honour,10855216]]"
-- "[[_Standards/WikiData/WD~Nobel Prize in Literature,37922]]"
-movement: "[[_Standards/WikiData/WD~magic realism,147516]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Aztec_Eagle,93956]]"
+- "[[_Standards/WikiData/WD~Order_of_Honour,2268261]]"
+- "[[_Standards/WikiData/WD~Common_Wealth_Award_of_Distinguished_Service,5153503]]"
+- "[[_Standards/WikiData/WD~Orden_al_Mérito_Docente_y_Cultural_Gabriela_Mistral,9052807]]"
+- "[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]"
+- "[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]"
+- "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+movement: "[[_Standards/WikiData/WD~magic_realism,147516]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~opinion journalism,156035]]"
-- "[[_Standards/WikiData/WD~creative and professional writing,113209507]]"
+- "[[_Standards/WikiData/WD~opinion_journalism,156035]]"
+- "[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]"
 - '[[_Standards/WikiData/WD~prose,676]]'
 - '[[_Standards/WikiData/WD~novel,8261]]'
 - '[[_Standards/WikiData/WD~journalism,11030]]'
-- "[[_Standards/WikiData/WD~short story,49084]]"
+- "[[_Standards/WikiData/WD~short_story,49084]]"
 notable_work:
-- "[[_Standards/WikiData/WD~One Hundred Years of Solitude,178869]]"
-- "[[_Standards/WikiData/WD~Love in the Time of Cholera,499396]]"
-- "[[_Standards/WikiData/WD~The Story of a Shipwrecked Sailor,820591]]"
-- "[[_Standards/WikiData/WD~Chronicle of a Death Foretold,935935]]"
-- "[[_Standards/WikiData/WD~The Autumn of the Patriarch,961566]]"
-- "[[_Standards/WikiData/WD~No One Writes to the Colonel,1132408]]"
+- "[[_Standards/WikiData/WD~One_Hundred_Years_of_Solitude,178869]]"
+- "[[_Standards/WikiData/WD~Love_in_the_Time_of_Cholera,499396]]"
+- "[[_Standards/WikiData/WD~The_Story_of_a_Shipwrecked_Sailor,820591]]"
+- "[[_Standards/WikiData/WD~Chronicle_of_a_Death_Foretold,935935]]"
+- "[[_Standards/WikiData/WD~The_Autumn_of_the_Patriarch,961566]]"
+- "[[_Standards/WikiData/WD~No_One_Writes_to_the_Colonel,1132408]]"
 cause_of_death:
 - '[[_Standards/WikiData/WD~lymphoma,208414]]'
 - '[[_Standards/WikiData/WD~pneumonia,12192]]'
 occupation:
 - '[[_Standards/WikiData/WD~playwright,214917]]'
-- "[[_Standards/WikiData/WD~poet lawyer,1209498]]"
+- "[[_Standards/WikiData/WD~poet_lawyer,1209498]]"
 - '[[_Standards/WikiData/WD~journalist,1930187]]'
 - '[[_Standards/WikiData/WD~publisher,2516866]]'
-- "[[_Standards/WikiData/WD~film director,2526255]]"
-- "[[_Standards/WikiData/WD~opinion journalist,6051619]]"
+- "[[_Standards/WikiData/WD~film_director,2526255]]"
+- "[[_Standards/WikiData/WD~opinion_journalist,6051619]]"
 - '[[_Standards/WikiData/WD~novelist,6625963]]'
-- "[[_Standards/WikiData/WD~television actor,10798782]]"
-- "[[_Standards/WikiData/WD~prose writer,12144794]]"
-- "[[_Standards/WikiData/WD~short story writer,15949613]]"
+- "[[_Standards/WikiData/WD~television_actor,10798782]]"
+- "[[_Standards/WikiData/WD~prose_writer,12144794]]"
+- "[[_Standards/WikiData/WD~short_story_writer,15949613]]"
 - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-- "[[_Standards/WikiData/WD~film screenwriter,69423232]]"
-- "[[_Standards/WikiData/WD~television writer,73306227]]"
+- "[[_Standards/WikiData/WD~film_screenwriter,69423232]]"
+- "[[_Standards/WikiData/WD~television_writer,73306227]]"
 - '[[_Standards/WikiData/WD~screenwriter,28389]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~Aracataca,624492]]'
-child: "[[_Standards/WikiData/WD~Rodrigo García Márquez,714651]]"
+child: "[[_Standards/WikiData/WD~Rodrigo_García_Márquez,714651]]"
 family_name: '[[_Standards/WikiData/WD~García,980636]]'
-educated_at: "[[_Standards/WikiData/WD~National University of Colombia,1150419]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+educated_at: "[[_Standards/WikiData/WD~National_University_of_Colombia,1150419]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 given_name:
 - '[[_Standards/WikiData/WD~Gabriel,4925914]]'
 - '[[_Standards/WikiData/WD~José,29043257]]'
-archives_at: "[[_Standards/WikiData/WD~Harry Ransom Center,5671855]]"
-list_of_works: "[[_Standards/WikiData/WD~Gabriel García Márquez bibliography,6344145]]"
+archives_at: "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
+list_of_works: "[[_Standards/WikiData/WD~Gabriel_García_Márquez_bibliography,6344145]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Márquez,12666120]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Gabriel García Márquez,13416202]]"
-member_of: "[[_Standards/WikiData/WD~Academy of Arts of the GDR,15646111]]"
-spouse: "[[_Standards/WikiData/WD~Mercedes Barcha,22087347]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-sibling: "[[_Standards/WikiData/WD~Eligio García Márquez,111424819]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Gabriel_García_Márquez,13416202]]"
+member_of: "[[_Standards/WikiData/WD~Academy_of_Arts_of_the_GDR,15646111]]"
+spouse: "[[_Standards/WikiData/WD~Mercedes_Barcha,22087347]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+sibling: "[[_Standards/WikiData/WD~Eligio_García_Márquez,111424819]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Gabriel%20Garcia%20Marquez.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Garcia%20Marquez.jpg"
 Europeana_entity: agent/base/122591
@@ -92,12 +92,12 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Marquez
 country_of_citizenship: '[[_Standards/WikiData/WD~Colombia,739]]'
 writing_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
-place_of_death: "[[_Standards/WikiData/WD~Mexico City,1489]]"
-medical_condition: "[[_Standards/WikiData/WD~Alzheimer's disease,11081]]"
+place_of_death: "[[_Standards/WikiData/WD~Mexico_City,1489]]"
+medical_condition: "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 influenced_by:
-- "[[_Standards/WikiData/WD~William Faulkner,38392]]"
-- "[[_Standards/WikiData/WD~Virginia Woolf,40909]]"
+- "[[_Standards/WikiData/WD~William_Faulkner,38392]]"
+- "[[_Standards/WikiData/WD~Virginia_Woolf,40909]]"
 ---
 
 #has_/time_/started :: 1927-03-06 

@@ -6,14 +6,14 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"JamesPrescottJoule::z3947\"
 Krugosvet_article: nauka_i_tehnika/fizika/DZHOUL_DZHEMS_PRESKOTT.html
 Regensburg_Classification: "UB 2640"
 member_of:
-- "[[_Standards/WikiData/WD~Royal Society,123885]]"
-- "[[_Standards/WikiData/WD~National Academy of Sciences,270794]]"
-- "[[_Standards/WikiData/WD~American Academy of Arts and Sciences,463303]]"
-- "[[_Standards/WikiData/WD~Academy of Sciences of Turin,2822396]]"
-- "[[_Standards/WikiData/WD~Manchester Literary and Philosophical Society,3285345]]"
+- "[[_Standards/WikiData/WD~Royal_Society,123885]]"
+- "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
+- "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+- "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
+- "[[_Standards/WikiData/WD~Manchester_Literary_and_Philosophical_Society,3285345]]"
 occupation: '[[_Standards/WikiData/WD~physicist,169470]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
-educated_at: "[[_Standards/WikiData/WD~University of Manchester,230899]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+educated_at: "[[_Standards/WikiData/WD~University_of_Manchester,230899]]"
 position_held:
 - '[[_Standards/WikiData/WD~secretary,319544]]'
 - '[[_Standards/WikiData/WD~president,1255921]]'
@@ -21,32 +21,32 @@ field_of_work:
 - '[[_Standards/WikiData/WD~chemist,593644]]'
 - '[[_Standards/WikiData/WD~physics,413]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Georgian Soviet Encyclopedia,1509493]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Dictionary of National Biography, 1885–1900,15987216]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885–1900,15987216]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]"
 given_name:
 - '[[_Standards/WikiData/WD~James,677191]]'
 - '[[_Standards/WikiData/WD~Prescott,29969535]]'
 place_of_death: '[[_Standards/WikiData/WD~Sale,1022733]]'
 award_received:
-- "[[_Standards/WikiData/WD~Albert Medal,4710826]]"
-- "[[_Standards/WikiData/WD~Fellow of the Royal Society,15631401]]"
-- "[[_Standards/WikiData/WD~Fellow of the American Academy of Arts and Sciences,52382875]]"
+- "[[_Standards/WikiData/WD~Albert_Medal,4710826]]"
+- "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
+- "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
 place_of_burial: '[[_Standards/WikiData/WD~Brooklands,4974665]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 family_name: '[[_Standards/WikiData/WD~Joule,16871210]]'
-spouse: "[[_Standards/WikiData/WD~Amelia Grimes,22249972]]"
-father: "[[_Standards/WikiData/WD~Ryann bezerra,112482838]]"
-mother: "[[_Standards/WikiData/WD~Alice Prescott,112482889]]"
+spouse: "[[_Standards/WikiData/WD~Amelia_Grimes,22249972]]"
+father: "[[_Standards/WikiData/WD~Ryann_bezerra,112482838]]"
+mother: "[[_Standards/WikiData/WD~Alice_Prescott,112482889]]"
 date_of_death: "1889-10-11"
 ISNI: 0000000081073121
 described_at_URL: "http://www.digiporta.net/index.php?id=264860325"
@@ -54,8 +54,8 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 notable_work: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-student_of: "[[_Standards/WikiData/WD~John Dalton,41284]]"
-influenced_by: "[[_Standards/WikiData/WD~John Dalton,41284]]"
+student_of: "[[_Standards/WikiData/WD~John_Dalton,41284]]"
+influenced_by: "[[_Standards/WikiData/WD~John_Dalton,41284]]"
 place_of_birth: '[[_Standards/WikiData/WD~Salford,47952]]'
 name_in_native_language: "James Prescott Joule"
 Commons_category: "James Prescott Joule"

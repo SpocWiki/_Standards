@@ -1,8 +1,8 @@
 ﻿---
 has_id_wikidata: Q491412
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Philosophical logic,18676718]]"
-instance_of: "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
-has_use: "[[_Standards/WikiData/WD~philosophical problem,28109781]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Philosophical_logic,18676718]]"
+instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
+has_use: "[[_Standards/WikiData/WD~philosophical_problem,28109781]]"
 Regensburg_Classification: "CC 2500"
 part_of:
 - '[[_Standards/WikiData/WD~philosophy,5891]]'

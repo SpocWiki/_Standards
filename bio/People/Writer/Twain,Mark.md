@@ -4,85 +4,85 @@ aliases:
 - "Samuel Langhorne Clemens"
 has_id_wikidata: Q7245
 notable_work:
-- "[[_Standards/WikiData/WD~Adventures of Huckleberry Finn,215410]]"
-- "[[_Standards/WikiData/WD~The Adventures of Tom Sawyer,326914]]"
-member_of: "[[_Standards/WikiData/WD~American Academy of Arts and Letters,463281]]"
+- "[[_Standards/WikiData/WD~Adventures_of_Huckleberry_Finn,215410]]"
+- "[[_Standards/WikiData/WD~The_Adventures_of_Tom_Sawyer,326914]]"
+member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]"
 place_of_birth: '[[_Standards/WikiData/WD~Florida,537803]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Appletons' Cyclopædia of American Biography,12912667]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Cartoon portraits and biographical sketches of men of the day,19025033]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia (1902–1905),20089963]]"
-- "[[_Standards/WikiData/WD~Iedereen Leest,41981607]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Cartoon_portraits_and_biographical_sketches_of_men_of_the_day,19025033]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902–1905),20089963]]"
+- "[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
 given_name:
 - '[[_Standards/WikiData/WD~Samuel,629347]]'
 - '[[_Standards/WikiData/WD~Mark,13610143]]'
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~J. Paul Getty Museum,731126]]"
-- "[[_Standards/WikiData/WD~Australian National Maritime Museum,844329]]"
-- "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
+- "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
+- "[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]"
+- "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
 archives_at:
-- "[[_Standards/WikiData/WD~Beinecke Rare Book & Manuscript Library,814779]]"
-- "[[_Standards/WikiData/WD~Harry Ransom Center,5671855]]"
-- "[[_Standards/WikiData/WD~University of Wisconsin–Madison Libraries,33122195]]"
-genre: "[[_Standards/WikiData/WD~historical fiction,1196408]]"
+- "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
+- "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
+- "[[_Standards/WikiData/WD~University_of_Wisconsin–Madison_Libraries,33122195]]"
+genre: "[[_Standards/WikiData/WD~historical_fiction,1196408]]"
 occupation:
 - '[[_Standards/WikiData/WD~journalist,1930187]]'
-- "[[_Standards/WikiData/WD~travel writer,3579035]]"
+- "[[_Standards/WikiData/WD~travel_writer,3579035]]"
 - '[[_Standards/WikiData/WD~aphorist,3606216]]'
-- "[[_Standards/WikiData/WD~children's writer,4853732]]"
-- "[[_Standards/WikiData/WD~opinion journalist,6051619]]"
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- "[[_Standards/WikiData/WD~opinion_journalist,6051619]]"
 - '[[_Standards/WikiData/WD~novelist,6625963]]'
-- "[[_Standards/WikiData/WD~prose writer,12144794]]"
+- "[[_Standards/WikiData/WD~prose_writer,12144794]]"
 - '[[_Standards/WikiData/WD~humorist,12406482]]'
 - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-- "[[_Standards/WikiData/WD~science fiction writer,18844224]]"
+- "[[_Standards/WikiData/WD~science_fiction_writer,18844224]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~teacher,37226]]'
 place_of_death: '[[_Standards/WikiData/WD~Redding,2018185]]'
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 residence:
-- "[[_Standards/WikiData/WD~Mark Twain House,4165331]]"
-- "[[_Standards/WikiData/WD~Mark Twain Birthplace State Historic Site,6770077]]"
-educated_at: "[[_Standards/WikiData/WD~Cascadilla School,5048217]]"
+- "[[_Standards/WikiData/WD~Mark_Twain_House,4165331]]"
+- "[[_Standards/WikiData/WD~Mark_Twain_Birthplace_State_Historic_Site,6770077]]"
+educated_at: "[[_Standards/WikiData/WD~Cascadilla_School,5048217]]"
 child:
-- "[[_Standards/WikiData/WD~Clara Clemens,5125968]]"
-- "[[_Standards/WikiData/WD~Jean Clemens,6170445]]"
-- "[[_Standards/WikiData/WD~Susy Clemens,7649832]]"
-father: "[[_Standards/WikiData/WD~John Marshall Clemens,6246874]]"
+- "[[_Standards/WikiData/WD~Clara_Clemens,5125968]]"
+- "[[_Standards/WikiData/WD~Jean_Clemens,6170445]]"
+- "[[_Standards/WikiData/WD~Susy_Clemens,7649832]]"
+father: "[[_Standards/WikiData/WD~John_Marshall_Clemens,6246874]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 different_from: '[[_Standards/WikiData/WD~MARC,6714458]]'
-spouse: "[[_Standards/WikiData/WD~Olivia Langdon Clemens,7088070]]"
-sibling: "[[_Standards/WikiData/WD~Orion Clemens,7102773]]"
-facial_hair: "[[_Standards/WikiData/WD~walrus moustache,7963760]]"
-place_of_burial: "[[_Standards/WikiData/WD~Woodlawn Cemetery,8033007]]"
+spouse: "[[_Standards/WikiData/WD~Olivia_Langdon_Clemens,7088070]]"
+sibling: "[[_Standards/WikiData/WD~Orion_Clemens,7102773]]"
+facial_hair: "[[_Standards/WikiData/WD~walrus_moustache,7963760]]"
+place_of_burial: "[[_Standards/WikiData/WD~Woodlawn_Cemetery,8033007]]"
 family_name:
 - '[[_Standards/WikiData/WD~Twain,12675473]]'
 - '[[_Standards/WikiData/WD~Clemens,27133250]]'
 - '[[_Standards/WikiData/WD~Langhorne,29407143]]'
 award_received:
-- "[[_Standards/WikiData/WD~honorary doctor of the Yale University,63072513]]"
-- "[[_Standards/WikiData/WD~member of the Nevada Newspaper Hall of Fame,106401240]]"
-- "[[_Standards/WikiData/WD~member of the Nevada Writers Hall of Fame,106910608]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+- "[[_Standards/WikiData/WD~honorary_doctor_of_the_Yale_University,63072513]]"
+- "[[_Standards/WikiData/WD~member_of_the_Nevada_Newspaper_Hall_of_Fame,106401240]]"
+- "[[_Standards/WikiData/WD~member_of_the_Nevada_Writers_Hall_of_Fame,106910608]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 present_in_work:
-- "[[_Standards/WikiData/WD~The Autobiography of Jean-Luc Picard,73402184]]"
-- "[[_Standards/WikiData/WD~Assimilation², Issue 1,83879450]]"
-mother: "[[_Standards/WikiData/WD~Jane Lampton Clemens,96322060]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen Leest,101246526]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Harry Ransom Center,105936481]]"
+- "[[_Standards/WikiData/WD~The_Autobiography_of_Jean-Luc_Picard,73402184]]"
+- "[[_Standards/WikiData/WD~Assimilation²,_Issue_1,83879450]]"
+mother: "[[_Standards/WikiData/WD~Jane_Lampton_Clemens,96322060]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Twain%20Signatures-2.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/MarkTwain.LOC.jpg"
 NLC_authorities: 000205309
@@ -122,9 +122,9 @@ languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~German,188]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
-cause_of_death: "[[_Standards/WikiData/WD~myocardial infarction,12152]]"
+cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~United States,30]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 Commons_gallery: "Mark Twain"
 Commons_category: "Mark Twain"
 Commons_Creator_page: "Mark Twain"

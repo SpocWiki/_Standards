@@ -3,13 +3,13 @@ aliases:
 - "Koca Mi'mâr Sinân Âğâ"
 has_id_wikidata: Q5600
 notable_work:
-- "[[_Standards/WikiData/WD~Süleymaniye Mosque,178643]]"
-- "[[_Standards/WikiData/WD~Selimiye Mosqueq,184534]]"
-- "[[_Standards/WikiData/WD~Stari Most,188528]]"
-- "[[_Standards/WikiData/WD~Mehmed Paša Sokolović Bridge,210055]]"
-- "[[_Standards/WikiData/WD~Şehzade Mosque,644677]]"
-- "[[_Standards/WikiData/WD~Banya Bashi Mosque,790052]]"
-- "[[_Standards/WikiData/WD~Ferhat Pasha Mosque,1267134]]"
+- "[[_Standards/WikiData/WD~Süleymaniye_Mosque,178643]]"
+- "[[_Standards/WikiData/WD~Selimiye_Mosqueq,184534]]"
+- "[[_Standards/WikiData/WD~Stari_Most,188528]]"
+- "[[_Standards/WikiData/WD~Mehmed_Paša_Sokolović_Bridge,210055]]"
+- "[[_Standards/WikiData/WD~Şehzade_Mosque,644677]]"
+- "[[_Standards/WikiData/WD~Banya_Bashi_Mosque,790052]]"
+- "[[_Standards/WikiData/WD~Ferhat_Pasha_Mosque,1267134]]"
 work_location:
 - '[[_Standards/WikiData/WD~Višegrad,239266]]'
 - '[[_Standards/WikiData/WD~Istanbul,406]]'
@@ -18,13 +18,13 @@ work_location:
 - '[[_Standards/WikiData/WD~Edirne,43387]]'
 significant_event: '[[_Standards/WikiData/WD~devşirme,815841]]'
 place_of_birth: '[[_Standards/WikiData/WD~Ağırnas,1892504]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-spouse: "[[_Standards/WikiData/WD~Fatma Nur,24956078]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+spouse: "[[_Standards/WikiData/WD~Fatma_Nur,24956078]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 given_name: '[[_Standards/WikiData/WD~Q110818088,110818088]]'
 date_of_birth: "1490"
-position_held: "[[_Standards/WikiData/WD~chief Ottoman imperial architect,130685555]]"
+position_held: "[[_Standards/WikiData/WD~chief_Ottoman_imperial_architect,130685555]]"
 ISNI: 0000000080016993
 Libris_URI: dwxsvwcnbptk6rsl
 date_of_death: "1588-07-17"

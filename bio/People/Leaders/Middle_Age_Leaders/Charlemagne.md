@@ -2,38 +2,38 @@
 aliases:
 - Charlemagne
 has_id_wikidata: Q3044
-father: "[[_Standards/WikiData/WD~Pepin the Short,81212]]"
-appointed_by: "[[_Standards/WikiData/WD~Leo III,132086]]"
-family: "[[_Standards/WikiData/WD~Carolingian dynasty,133602]]"
+father: "[[_Standards/WikiData/WD~Pepin_the_Short,81212]]"
+appointed_by: "[[_Standards/WikiData/WD~Leo_III,132086]]"
+family: "[[_Standards/WikiData/WD~Carolingian_dynasty,133602]]"
 country_of_citizenship: '[[_Standards/WikiData/WD~Francia,146246]]'
 place_of_birth: '[[_Standards/WikiData/WD~Francia,146246]]'
 position_held:
-- "[[_Standards/WikiData/WD~Holy Roman Emperor,181765]]"
-- "[[_Standards/WikiData/WD~king of Franks,22923081]]"
-- "[[_Standards/WikiData/WD~King of Lombards,22997793]]"
-- "[[_Standards/WikiData/WD~duke of Bavaria,23011565]]"
+- "[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]"
+- "[[_Standards/WikiData/WD~king_of_Franks,22923081]]"
+- "[[_Standards/WikiData/WD~King_of_Lombards,22997793]]"
+- "[[_Standards/WikiData/WD~duke_of_Bavaria,23011565]]"
 noble_title:
-- "[[_Standards/WikiData/WD~Holy Roman Emperor,181765]]"
-- "[[_Standards/WikiData/WD~king of Franks,22923081]]"
-- "[[_Standards/WikiData/WD~King of Lombards,22997793]]"
+- "[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]"
+- "[[_Standards/WikiData/WD~king_of_Franks,22923081]]"
+- "[[_Standards/WikiData/WD~King_of_Lombards,22997793]]"
 sibling:
-- "[[_Standards/WikiData/WD~Carloman I,191003]]"
-- "[[_Standards/WikiData/WD~Gisela, Abbess of Chelles,1010767]]"
+- "[[_Standards/WikiData/WD~Carloman_I,191003]]"
+- "[[_Standards/WikiData/WD~Gisela,_Abbess_of_Chelles,1010767]]"
 - '[[_Standards/WikiData/WD~Pepin,23930942]]'
 - '[[_Standards/WikiData/WD~Adelais,23930947]]'
 - '[[_Standards/WikiData/WD~Chrothais,23930970]]'
 spouse:
-- "[[_Standards/WikiData/WD~Hildegard of Vinzgouw,234410]]"
+- "[[_Standards/WikiData/WD~Hildegard_of_Vinzgouw,234410]]"
 - '[[_Standards/WikiData/WD~Fastrada,241165]]'
 - '[[_Standards/WikiData/WD~Luitgard,261866]]'
-- "[[_Standards/WikiData/WD~Desiderata of the Lombards,263474]]"
+- "[[_Standards/WikiData/WD~Desiderata_of_the_Lombards,263474]]"
 - '[[_Standards/WikiData/WD~Himiltrude,1036526]]'
-mother: "[[_Standards/WikiData/WD~Bertrada of Laon,266751]]"
+mother: "[[_Standards/WikiData/WD~Bertrada_of_Laon,266751]]"
 child:
 - '[[_Standards/WikiData/WD~Rotrude,269691]]'
-- "[[_Standards/WikiData/WD~Charles the Younger,283107]]"
-- "[[_Standards/WikiData/WD~Pepin of Italy,299645]]"
-- "[[_Standards/WikiData/WD~Pepin the Hunchback,302212]]"
+- "[[_Standards/WikiData/WD~Charles_the_Younger,283107]]"
+- "[[_Standards/WikiData/WD~Pepin_of_Italy,299645]]"
+- "[[_Standards/WikiData/WD~Pepin_the_Hunchback,302212]]"
 - '[[_Standards/WikiData/WD~Theodrada,452984]]'
 - '[[_Standards/WikiData/WD~Drogo,723791]]'
 - '[[_Standards/WikiData/WD~Bertha,827676]]'
@@ -48,24 +48,24 @@ child:
 - '[[_Standards/WikiData/WD~Hiltrude,23930966]]'
 - '[[_Standards/WikiData/WD~Adaltrude,23930974]]'
 - '[[_Standards/WikiData/WD~Theodoric,23930981]]'
-- "[[_Standards/WikiData/WD~Louis the Pious,43974]]"
+- "[[_Standards/WikiData/WD~Louis_the_Pious,43974]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Allgemeine Deutsche Biographie,590208]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Canon of Dutch History,907660]]"
-- "[[_Standards/WikiData/WD~Hamburg Biographies,1573212]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-- "[[_Standards/WikiData/WD~Frankfurter Personenlexikon,39845173]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Canon of Flanders,111845748]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]"
+- "[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+- "[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]"
 unmarried_partner:
 - '[[_Standards/WikiData/WD~Himiltrude,1036526]]'
 - '[[_Standards/WikiData/WD~Gersuinda,1515128]]'
@@ -76,25 +76,25 @@ occupation:
 - '[[_Standards/WikiData/WD~sovereign,2304859]]'
 - '[[_Standards/WikiData/WD~monarch,116]]'
 canonization_status: '[[_Standards/WikiData/WD~blessed,2369287]]'
-place_of_burial: "[[_Standards/WikiData/WD~Palatine Chapel,2458522]]"
+place_of_burial: "[[_Standards/WikiData/WD~Palatine_Chapel,2458522]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Frankish,10860505]]'
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~Greek,9129]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 Library_of_Congress_Classification: DD133-DD133.2
 ISNI: 0000000121430569
 birth_name: Karlus
 place_of_death: '[[_Standards/WikiData/WD~Aachen,1017]]'
-feast_day: "[[_Standards/WikiData/WD~January 18,2265]]"
+feast_day: "[[_Standards/WikiData/WD~January_18,2265]]"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Christianity,5043]]'
-- "[[_Standards/WikiData/WD~Catholic Church,9592]]"
+- "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
 cause_of_death: '[[_Standards/WikiData/WD~disease,12136]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 height: 1.84
-present_in_work: "[[_Standards/WikiData/WD~Orlando Furioso,48922]]"
+present_in_work: "[[_Standards/WikiData/WD~Orlando_Furioso,48922]]"
 Royal_Academy_new_identifier: charlemagne
 date_of_birth: "0740"
 name: "Charles Ier"

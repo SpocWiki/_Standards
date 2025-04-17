@@ -4,19 +4,19 @@ different_from:
 - '[[_Standards/WikiData/WD~Konstitution,256836]]'
 - '[[_Standards/WikiData/WD~Q11743044,11743044]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~constitutional document,680655]]"
+- "[[_Standards/WikiData/WD~constitutional_document,680655]]"
 - '[[_Standards/WikiData/WD~statute,820655]]'
-- "[[_Standards/WikiData/WD~sources of law,846882]]"
+- "[[_Standards/WikiData/WD~sources_of_law,846882]]"
 - '[[_Standards/WikiData/WD~structure,6671777]]'
-- "[[_Standards/WikiData/WD~authorizing legislation,106706188]]"
-studied_in: "[[_Standards/WikiData/WD~constitutional history,2515460]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~article of constitution,19917774]]"
-instance_of: "[[_Standards/WikiData/WD~type of law,63718619]]"
+- "[[_Standards/WikiData/WD~authorizing_legislation,106706188]]"
+studied_in: "[[_Standards/WikiData/WD~constitutional_history,2515460]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~article_of_constitution,19917774]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_law,63718619]]"
 Library_of_Congress_Classification: K3154-K3370
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Progla%C5%A1enje%20Vidovdanskog%20ustava%201921.jpg"

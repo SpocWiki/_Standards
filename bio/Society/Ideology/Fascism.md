@@ -18,31 +18,31 @@ does_not_have_characteristic:
 - '[[_Standards/WikiData/WD~individualism,171995]]'
 - '[[_Standards/WikiData/WD~egalitarianism,188958]]'
 - '[[_Standards/WikiData/WD~democracy,7174]]'
-country_of_origin: "[[_Standards/WikiData/WD~Kingdom of Italy,172579]]"
+country_of_origin: "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
 has_characteristic:
 - '[[_Standards/WikiData/WD~autocracy,173424]]'
 - '[[_Standards/WikiData/WD~militarism,177266]]'
 - '[[_Standards/WikiData/WD~anti-communism,182121]]'
 - '[[_Standards/WikiData/WD~dictator,183318]]'
-- "[[_Standards/WikiData/WD~social stratification,841628]]"
+- "[[_Standards/WikiData/WD~social_stratification,841628]]"
 - '[[_Standards/WikiData/WD~dirigisme,1227725]]'
-- "[[_Standards/WikiData/WD~social conservatism,1414298]]"
+- "[[_Standards/WikiData/WD~social_conservatism,1414298]]"
 - '[[_Standards/WikiData/WD~antiliberalism,2853246]]'
-- "[[_Standards/WikiData/WD~aestheticization of politics,4688589]]"
+- "[[_Standards/WikiData/WD~aestheticization_of_politics,4688589]]"
 - '[[_Standards/WikiData/WD~ultranationalism,38352698]]'
 - '[[_Standards/WikiData/WD~authoritarianism,6229]]'
-- "[[_Standards/WikiData/WD~single-party system,50686]]"
+- "[[_Standards/WikiData/WD~single-party_system,50686]]"
 interested_in:
 - '[[_Standards/WikiData/WD~youth,190007]]'
-- "[[_Standards/WikiData/WD~direct action,506259]]"
-- "[[_Standards/WikiData/WD~racial hygiene,717939]]"
-- "[[_Standards/WikiData/WD~master race,836329]]"
-political_alignment: "[[_Standards/WikiData/WD~right-wing extremism,204481]]"
-facet_of: "[[_Standards/WikiData/WD~right-wing extremism,204481]]"
+- "[[_Standards/WikiData/WD~direct_action,506259]]"
+- "[[_Standards/WikiData/WD~racial_hygiene,717939]]"
+- "[[_Standards/WikiData/WD~master_race,836329]]"
+political_alignment: "[[_Standards/WikiData/WD~right-wing_extremism,204481]]"
+facet_of: "[[_Standards/WikiData/WD~right-wing_extremism,204481]]"
 opposite_of: '[[_Standards/WikiData/WD~anti-fascism,210189]]'
 influenced_by:
-- "[[_Standards/WikiData/WD~fin de siècle,265581]]"
-- "[[_Standards/WikiData/WD~Charles Maurras,3048]]"
+- "[[_Standards/WikiData/WD~fin_de_siècle,265581]]"
+- "[[_Standards/WikiData/WD~Charles_Maurras,3048]]"
 has_goal:
 - '[[_Standards/WikiData/WD~autarky,309070]]'
 - '[[_Standards/WikiData/WD~supremacism,1031455]]'
@@ -59,32 +59,32 @@ in_opposition_to:
 has_use: '[[_Standards/WikiData/WD~pejorative,545779]]'
 followed_by: '[[_Standards/WikiData/WD~neo-fascism,696116]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~Italian Fascism,747081]]"
-- "[[_Standards/WikiData/WD~economics of fascism,2573585]]"
-- "[[_Standards/WikiData/WD~Fascist syndicalism,3961444]]"
-- "[[_Standards/WikiData/WD~fascism in North America,5436686]]"
-- "[[_Standards/WikiData/WD~fascism in Europe,5436685]]"
-- "[[_Standards/WikiData/WD~Nazi Germany,7318]]"
+- "[[_Standards/WikiData/WD~Italian_Fascism,747081]]"
+- "[[_Standards/WikiData/WD~economics_of_fascism,2573585]]"
+- "[[_Standards/WikiData/WD~Fascist_syndicalism,3961444]]"
+- "[[_Standards/WikiData/WD~fascism_in_North_America,5436686]]"
+- "[[_Standards/WikiData/WD~fascism_in_Europe,5436685]]"
+- "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Putinism,1207817]]'
 instance_of:
-- "[[_Standards/WikiData/WD~political movement,2738074]]"
-- "[[_Standards/WikiData/WD~political ideology,12909644]]"
-- "[[_Standards/WikiData/WD~political system,28108]]"
-significant_event: "[[_Standards/WikiData/WD~Fasci d'Azione Rivoluzionaria,5436620]]"
+- "[[_Standards/WikiData/WD~political_movement,2738074]]"
+- "[[_Standards/WikiData/WD~political_ideology,12909644]]"
+- "[[_Standards/WikiData/WD~political_system,28108]]"
+significant_event: "[[_Standards/WikiData/WD~Fasci_d'Azione_Rivoluzionaria,5436620]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Fascism sidebar,6329541]]"
+- "[[_Standards/WikiData/WD~Template_Fascism_sidebar,6329541]]"
 - '[[_Standards/WikiData/WD~Template_Fascism,12340760]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fascism,6640299]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 practiced_by: '[[_Standards/WikiData/WD~fascist,88110348]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of fascism,109677916]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_fascism,109677916]]"
 Provenio_UUID: 041449e8-d418-4d1c-821d-e53ba27f3fcd
 UMLS_CUI: C0870548
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fascist%20symbol.svg"
 IPA_transcription: ˈfæʃɪzəm
-significant_person: "[[_Standards/WikiData/WD~Benito Mussolini,23559]]"
+significant_person: "[[_Standards/WikiData/WD~Benito_Mussolini,23559]]"
 U_S_National_Archives_Identifier: 10640824
 OmegaWiki_Defined_Meaning: 351598
 ---

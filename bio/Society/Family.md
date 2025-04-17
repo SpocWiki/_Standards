@@ -1,49 +1,49 @@
 ---
 has_id_wikidata: Q8436
-uses: "[[_Standards/WikiData/WD~family name,101352]]"
+uses: "[[_Standards/WikiData/WD~family_name,101352]]"
 different_from:
-- "[[_Standards/WikiData/WD~family name,101352]]"
+- "[[_Standards/WikiData/WD~family_name,101352]]"
 - '[[_Standards/WikiData/WD~household,259059]]'
-- "[[_Standards/WikiData/WD~family of choice,96377694]]"
-- "[[_Standards/WikiData/WD~family with children,123558977]]"
+- "[[_Standards/WikiData/WD~family_of_choice,96377694]]"
+- "[[_Standards/WikiData/WD~family_with_children,123558977]]"
 - '[[_Standards/WikiData/WD~family,35409]]'
-model_item: "[[_Standards/WikiData/WD~Rothschild family,159386]]"
+model_item: "[[_Standards/WikiData/WD~Rothschild_family,159386]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~institution,178706]]'
-- "[[_Standards/WikiData/WD~human social group,874405]]"
+- "[[_Standards/WikiData/WD~human_social_group,874405]]"
 - '[[_Standards/WikiData/WD~kindred,1313923]]'
-- "[[_Standards/WikiData/WD~group of humans,16334295]]"
+- "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
 - '[[_Standards/WikiData/WD~agent,24229398]]'
-- "[[_Standards/WikiData/WD~collective agent,131085629]]"
-has_effect: "[[_Standards/WikiData/WD~birth rate,203516]]"
+- "[[_Standards/WikiData/WD~collective_agent,131085629]]"
+has_effect: "[[_Standards/WikiData/WD~birth_rate,203516]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~family values,1811480]]"
-- "[[_Standards/WikiData/WD~family tradition,5433392]]"
-- "[[_Standards/WikiData/WD~family structure,66363776]]"
-studied_in: "[[_Standards/WikiData/WD~sociology of the family,2290557]]"
+- "[[_Standards/WikiData/WD~family_values,1811480]]"
+- "[[_Standards/WikiData/WD~family_tradition,5433392]]"
+- "[[_Standards/WikiData/WD~family_structure,66363776]]"
+studied_in: "[[_Standards/WikiData/WD~sociology_of_the_family,2290557]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox family,5623668]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_family,5623668]]"
 - '[[_Standards/WikiData/WD~Template_Family,6459756]]'
-has_part_s_: "[[_Standards/WikiData/WD~family member,9200133]]"
+has_part_s_: "[[_Standards/WikiData/WD~family_member,9200133]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Family,10815002]]'
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~family head,11455584]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~family_head,11455584]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
 named_after: '[[_Standards/WikiData/WD~familia,15281450]]'
-partially_coincident_with: "[[_Standards/WikiData/WD~family of choice,96377694]]"
-instance_of: "[[_Standards/WikiData/WD~type of social group,112807602]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~family_of_choice,96377694]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_social_group,112807602]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q123419311,123419311]]'
-has_cause: "[[_Standards/WikiData/WD~starting a family,130746549]]"
+has_cause: "[[_Standards/WikiData/WD~starting_a_family,130746549]]"
 properties_for_this_type:
 - "family name"
 - image

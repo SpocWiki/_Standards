@@ -2,77 +2,77 @@
 aliases:
 - "Kurt Gödel"
 has_id_wikidata: Q41390
-student_of: "[[_Standards/WikiData/WD~Philipp Furtwängler,68514]]"
+student_of: "[[_Standards/WikiData/WD~Philipp_Furtwängler,68514]]"
 occupation:
-- "[[_Standards/WikiData/WD~computer scientist,82594]]"
+- "[[_Standards/WikiData/WD~computer_scientist,82594]]"
 - '[[_Standards/WikiData/WD~physicist,169470]]'
 - '[[_Standards/WikiData/WD~mathematician,170790]]'
-- "[[_Standards/WikiData/WD~university teacher,1622272]]"
+- "[[_Standards/WikiData/WD~university_teacher,1622272]]"
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-doctoral_advisor: "[[_Standards/WikiData/WD~Hans Hahn,84552]]"
+doctoral_advisor: "[[_Standards/WikiData/WD~Hans_Hahn,84552]]"
 member_of:
-- "[[_Standards/WikiData/WD~Royal Society,123885]]"
-- "[[_Standards/WikiData/WD~French Academy of Sciences,188771]]"
-- "[[_Standards/WikiData/WD~National Academy of Sciences,270794]]"
-- "[[_Standards/WikiData/WD~American Academy of Arts and Sciences,463303]]"
+- "[[_Standards/WikiData/WD~Royal_Society,123885]]"
+- "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
+- "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
+- "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
 place_of_death: '[[_Standards/WikiData/WD~Princeton,138518]]'
-educated_at: "[[_Standards/WikiData/WD~University of Vienna,165980]]"
+educated_at: "[[_Standards/WikiData/WD~University_of_Vienna,165980]]"
 employer:
-- "[[_Standards/WikiData/WD~University of Vienna,165980]]"
-- "[[_Standards/WikiData/WD~University of Notre Dame,178848]]"
-- "[[_Standards/WikiData/WD~Institute for Advanced Study,635642]]"
-- "[[_Standards/WikiData/WD~Princeton University,21578]]"
+- "[[_Standards/WikiData/WD~University_of_Vienna,165980]]"
+- "[[_Standards/WikiData/WD~University_of_Notre_Dame,178848]]"
+- "[[_Standards/WikiData/WD~Institute_for_Advanced_Study,635642]]"
+- "[[_Standards/WikiData/WD~Princeton_University,21578]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~philosophy of mathematics,180536]]"
-- "[[_Standards/WikiData/WD~analytic philosophy,183216]]"
-- "[[_Standards/WikiData/WD~mathematical logic,1166618]]"
+- "[[_Standards/WikiData/WD~philosophy_of_mathematics,180536]]"
+- "[[_Standards/WikiData/WD~analytic_philosophy,183216]]"
+- "[[_Standards/WikiData/WD~mathematical_logic,1166618]]"
 - '[[_Standards/WikiData/WD~mathematics,395]]'
 - '[[_Standards/WikiData/WD~physics,413]]'
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 - '[[_Standards/WikiData/WD~logic,8078]]'
-- "[[_Standards/WikiData/WD~set theory,12482]]"
-- "[[_Standards/WikiData/WD~predicate logic,35148]]"
-- "[[_Standards/WikiData/WD~theory of relativity,43514]]"
+- "[[_Standards/WikiData/WD~set_theory,12482]]"
+- "[[_Standards/WikiData/WD~predicate_logic,35148]]"
+- "[[_Standards/WikiData/WD~theory_of_relativity,43514]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Gödel's incompleteness theorems,200787]]"
-- "[[_Standards/WikiData/WD~Von Neumann–Bernays–Gödel set theory,278770]]"
-- "[[_Standards/WikiData/WD~Gödel's ontological proof,598840]]"
-- "[[_Standards/WikiData/WD~Gödel's completeness theorem,902052]]"
-- "[[_Standards/WikiData/WD~Gödel's second incompleteness theorem,1031460]]"
-- "[[_Standards/WikiData/WD~Gödel numbering,1451046]]"
-- "[[_Standards/WikiData/WD~Gödel metric,1559192]]"
-- "[[_Standards/WikiData/WD~constructible universe,2777107]]"
-- "[[_Standards/WikiData/WD~Gödel-incomplete machine,3842016]]"
-- "[[_Standards/WikiData/WD~Gödel's speed-up theorem,5626450]]"
-- "[[_Standards/WikiData/WD~Gödel's β function,5626454]]"
-- "[[_Standards/WikiData/WD~Gödel operation,18207443]]"
-- "[[_Standards/WikiData/WD~Gödel logic,18347776]]"
-- "[[_Standards/WikiData/WD~Godel's first incompleteness theorem,62091930]]"
+- "[[_Standards/WikiData/WD~Gödel's_incompleteness_theorems,200787]]"
+- "[[_Standards/WikiData/WD~Von_Neumann–Bernays–Gödel_set_theory,278770]]"
+- "[[_Standards/WikiData/WD~Gödel's_ontological_proof,598840]]"
+- "[[_Standards/WikiData/WD~Gödel's_completeness_theorem,902052]]"
+- "[[_Standards/WikiData/WD~Gödel's_second_incompleteness_theorem,1031460]]"
+- "[[_Standards/WikiData/WD~Gödel_numbering,1451046]]"
+- "[[_Standards/WikiData/WD~Gödel_metric,1559192]]"
+- "[[_Standards/WikiData/WD~constructible_universe,2777107]]"
+- "[[_Standards/WikiData/WD~Gödel-incomplete_machine,3842016]]"
+- "[[_Standards/WikiData/WD~Gödel's_speed-up_theorem,5626450]]"
+- "[[_Standards/WikiData/WD~Gödel's_β_function,5626454]]"
+- "[[_Standards/WikiData/WD~Gödel_operation,18207443]]"
+- "[[_Standards/WikiData/WD~Gödel_logic,18347776]]"
+- "[[_Standards/WikiData/WD~Godel's_first_incompleteness_theorem,62091930]]"
 country_of_citizenship:
 - '[[_Standards/WikiData/WD~Cisleithania,533534]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Austria,40]]'
 - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 award_received:
-- "[[_Standards/WikiData/WD~Albert Einstein Award,577432]]"
-- "[[_Standards/WikiData/WD~Josiah Willard Gibbs Lectureship,1522873]]"
-- "[[_Standards/WikiData/WD~Foreign Member of the Royal Society,14906020]]"
-- "[[_Standards/WikiData/WD~honorary doctor of the University of Vienna,34476636]]"
-- "[[_Standards/WikiData/WD~honorary doctorate from Princeton University,42309226]]"
+- "[[_Standards/WikiData/WD~Albert_Einstein_Award,577432]]"
+- "[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]"
+- "[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]"
+- "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Vienna,34476636]]"
+- "[[_Standards/WikiData/WD~honorary_doctorate_from_Princeton_University,42309226]]"
 cause_of_death: '[[_Standards/WikiData/WD~starvation,853930]]'
 given_name: '[[_Standards/WikiData/WD~Kurt,1158489]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_burial: "[[_Standards/WikiData/WD~Princeton Cemetery,7244940]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+place_of_burial: "[[_Standards/WikiData/WD~Princeton_Cemetery,7244940]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~REGO,125023568]]'
-archives_at: "[[_Standards/WikiData/WD~ETH Zurich University Archives,39934978]]"
-spouse: "[[_Standards/WikiData/WD~Adele Gödel,51311280]]"
+archives_at: "[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]"
+spouse: "[[_Standards/WikiData/WD~Adele_Gödel,51311280]]"
 family_name: '[[_Standards/WikiData/WD~Gödel,62740818]]'
-academic_thesis: "[[_Standards/WikiData/WD~Über die Vollständigkeit des Logikkalküls,109450144]]"
+academic_thesis: "[[_Standards/WikiData/WD~Über_die_Vollständigkeit_des_Logikkalküls,109450144]]"
 ISNI: 000000011031567X
 plaque_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Pam%C4%9Btn%C3%AD%20deska%20Kurta%20G%C3%B6dela%20na%20jeho%20rodn%C3%A9m%20dom%C4%9B.jpg"

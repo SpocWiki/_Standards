@@ -3,18 +3,18 @@ aliases:
 - "Ibn Sina"
 - Avicenna
 has_id_wikidata: Q8011
-present_in_work: "[[_Standards/WikiData/WD~The Divine Comedy,40185]]"
+present_in_work: "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
 field_of_work:
 - '[[_Standards/WikiData/WD~mechanics,41217]]'
-- "[[_Standards/WikiData/WD~philosophy of science,59115]]"
+- "[[_Standards/WikiData/WD~philosophy_of_science,59115]]"
 - '[[_Standards/WikiData/WD~aromatherapy,206202]]'
-- "[[_Standards/WikiData/WD~Ilm al-Kalam,280817]]"
+- "[[_Standards/WikiData/WD~Ilm_al-Kalam,280817]]"
 - '[[_Standards/WikiData/WD~physics,413]]'
 - '[[_Standards/WikiData/WD~poetry,482]]'
 - '[[_Standards/WikiData/WD~geology,1069]]'
 - '[[_Standards/WikiData/WD~chemistry,2329]]'
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
-- "[[_Standards/WikiData/WD~earth science,8008]]"
+- "[[_Standards/WikiData/WD~earth_science,8008]]"
 - '[[_Standards/WikiData/WD~logic,8078]]'
 - '[[_Standards/WikiData/WD~psychology,9418]]'
 - '[[_Standards/WikiData/WD~medicine,11190]]'
@@ -25,10 +25,10 @@ occupation:
 - '[[_Standards/WikiData/WD~mathematician,170790]]'
 - '[[_Standards/WikiData/WD~author,482980]]'
 - '[[_Standards/WikiData/WD~chemist,593644]]'
-- "[[_Standards/WikiData/WD~Islamic jurist,1999841]]"
+- "[[_Standards/WikiData/WD~Islamic_jurist,1999841]]"
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
 - '[[_Standards/WikiData/WD~ethicist,5403434]]'
-- "[[_Standards/WikiData/WD~music theorist,16031530]]"
+- "[[_Standards/WikiData/WD~music_theorist,16031530]]"
 - '[[_Standards/WikiData/WD~astronomer,11063]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~physician,39631]]'
@@ -39,17 +39,17 @@ Provenio_UUID:
 - 09ec4cfb-f59d-4c31-a5c0-7c927cf4d74e
 - 121649c0-bcdf-4984-9857-a240b76a6ca7
 student:
-- "[[_Standards/WikiData/WD~Ali ibn Yusuf al-Ilaqi,117991]]"
+- "[[_Standards/WikiData/WD~Ali_ibn_Yusuf_al-Ilaqi,117991]]"
 - '[[_Standards/WikiData/WD~Bahmanyār,1151481]]'
-- "[[_Standards/WikiData/WD~Ibn Abi Sadiq,4116689]]"
+- "[[_Standards/WikiData/WD~Ibn_Abi_Sadiq,4116689]]"
 influenced_by:
 - '[[_Standards/WikiData/WD~Plotinus,134189]]'
 - '[[_Standards/WikiData/WD~Farabi,160460]]'
-- "[[_Standards/WikiData/WD~Abu Bakr al-Razi,169234]]"
+- "[[_Standards/WikiData/WD~Abu_Bakr_al-Razi,169234]]"
 - '[[_Standards/WikiData/WD~Al-Kindi,179759]]'
-- "[[_Standards/WikiData/WD~Abu Zayd al-Balkhi,335516]]"
-- "[[_Standards/WikiData/WD~Ibn Zuhr,470914]]"
-- "[[_Standards/WikiData/WD~Wasil ibn Ata,3478100]]"
+- "[[_Standards/WikiData/WD~Abu_Zayd_al-Balkhi,335516]]"
+- "[[_Standards/WikiData/WD~Ibn_Zuhr,470914]]"
+- "[[_Standards/WikiData/WD~Wasil_ibn_Ata,3478100]]"
 - '[[_Standards/WikiData/WD~Aristotle,868]]'
 - '[[_Standards/WikiData/WD~Hippocrates,5264]]'
 - '[[_Standards/WikiData/WD~Galen,8778]]'
@@ -63,34 +63,34 @@ residence:
 - '[[_Standards/WikiData/WD~Bukhara,5764]]'
 - '[[_Standards/WikiData/WD~Hamadan,28587]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - '[[_Standards/WikiData/WD~Q56260657,56260657]]'
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Canon of Medicine,466060]]"
-- "[[_Standards/WikiData/WD~The Book of Healing,1030940]]"
-- "[[_Standards/WikiData/WD~Al-isharat wa al-tanbihat,22948618]]"
-student_of: "[[_Standards/WikiData/WD~Abu Sahl 'Isa ibn Yahya al-Masihi,2822092]]"
+- "[[_Standards/WikiData/WD~Canon_of_Medicine,466060]]"
+- "[[_Standards/WikiData/WD~The_Book_of_Healing,1030940]]"
+- "[[_Standards/WikiData/WD~Al-isharat_wa_al-tanbihat,22948618]]"
+student_of: "[[_Standards/WikiData/WD~Abu_Sahl_'Isa_ibn_Yahya_al-Masihi,2822092]]"
 place_of_birth: '[[_Standards/WikiData/WD~Afshona,4072887]]'
-place_of_burial: "[[_Standards/WikiData/WD~Avicenna Mausoleum,5952145]]"
+place_of_burial: "[[_Standards/WikiData/WD~Avicenna_Mausoleum,5952145]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 given_name: '[[_Standards/WikiData/WD~Hussein,27101961]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
-kunya: "[[_Standards/WikiData/WD~Abdullah Ibn Al Hussain,105992738]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+kunya: "[[_Standards/WikiData/WD~Abdullah_Ibn_Al_Hussain,105992738]]"
 ISNI: 0000000121430876
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pursina.jpg"
 described_at_URL:
@@ -99,7 +99,7 @@ described_at_URL:
 date_of_death: "1037-06-24"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Islam,432]]'
-- "[[_Standards/WikiData/WD~Shia Islam,9585]]"
+- "[[_Standards/WikiData/WD~Shia_Islam,9585]]"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Persian,9168]]'
 - '[[_Standards/WikiData/WD~Arabic,13955]]'

@@ -1,6 +1,6 @@
 ﻿---
 has_id_wikidata: Q1566
-has_effect: "[[_Standards/WikiData/WD~tobacco use disorder,152100]]"
+has_effect: "[[_Standards/WikiData/WD~tobacco_use_disorder,152100]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~stimulant,211036]]'
 - '[[_Standards/WikiData/WD~commodity,317088]]'
@@ -9,11 +9,11 @@ different_from:
 - '[[_Standards/WikiData/WD~Tabac,264459]]'
 - '[[_Standards/WikiData/WD~Tabacco,7672854]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-has_part_s_: "[[_Standards/WikiData/WD~tobacco leaf,111130823]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+has_part_s_: "[[_Standards/WikiData/WD~tobacco_leaf,111130823]]"
 CAS_Registry_Number: 8037-19-2
 OpenStreetMap_tag_or_key: "Key:tobacco"
 IPTC_NewsCode: mediatopic/20000330

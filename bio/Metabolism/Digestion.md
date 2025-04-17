@@ -1,16 +1,16 @@
 ﻿---
 has_id_wikidata: Q11978
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~biological process,2996394]]"
-has_part_s_: "[[_Standards/WikiData/WD~part of the digestion process,22290756]]"
-subclass_of: "[[_Standards/WikiData/WD~multicellular organismal process,22299433]]"
-studied_in: "[[_Standards/WikiData/WD~digestive physiology,130261998]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
+has_part_s_: "[[_Standards/WikiData/WD~part_of_the_digestion_process,22290756]]"
+subclass_of: "[[_Standards/WikiData/WD~multicellular_organismal_process,22299433]]"
+studied_in: "[[_Standards/WikiData/WD~digestive_physiology,130261998]]"
 Library_of_Congress_Classification: QP145-QP159
 class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~food,2095]]'
-different_from: "[[_Standards/WikiData/WD~human digestive system,9649]]"
+different_from: "[[_Standards/WikiData/WD~human_digestive_system,9649]]"
 OmegaWiki_Defined_Meaning: 924
 Commons_category: Digestion
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200316%20DigestiveSystem.png"

@@ -3,37 +3,37 @@ has_id_wikidata: Q8425
 instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~hierarchy,188619]]'
-- "[[_Standards/WikiData/WD~social norm,205665]]"
-- "[[_Standards/WikiData/WD~social structure,211606]]"
+- "[[_Standards/WikiData/WD~social_norm,205665]]"
+- "[[_Standards/WikiData/WD~social_structure,211606]]"
 - '[[_Standards/WikiData/WD~social,345367]]'
-- "[[_Standards/WikiData/WD~social action,769620]]"
-- "[[_Standards/WikiData/WD~social change,1510761]]"
-- "[[_Standards/WikiData/WD~social order,1518716]]"
+- "[[_Standards/WikiData/WD~social_action,769620]]"
+- "[[_Standards/WikiData/WD~social_change,1510761]]"
+- "[[_Standards/WikiData/WD~social_order,1518716]]"
 - '[[_Standards/WikiData/WD~sociality,3307505]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~human social group,874405]]"
+- "[[_Standards/WikiData/WD~human_social_group,874405]]"
 - '[[_Standards/WikiData/WD~human,5]]'
 part_of: '[[_Standards/WikiData/WD~humanity,1156970]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Society,3708001]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of society,7112731]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_society,7112731]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~society,10372568]]'
-- "[[_Standards/WikiData/WD~group of humans,16334295]]"
-different_from: "[[_Standards/WikiData/WD~society (ethnology),15093984]]"
+- "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
+different_from: "[[_Standards/WikiData/WD~society_(ethnology),15093984]]"
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~group of humans,16334295]]"
+- "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
 - '[[_Standards/WikiData/WD~human,5]]'
 Provenio_UUID: b4165ac8-d915-43a5-b717-520162f77b0b
 studied_in:
 - '[[_Standards/WikiData/WD~sociology,21201]]'
 - '[[_Standards/WikiData/WD~anthropology,23404]]'
-- "[[_Standards/WikiData/WD~social science,34749]]"
-significant_person: "[[_Standards/WikiData/WD~Niklas Luhmann,57238]]"
+- "[[_Standards/WikiData/WD~social_science,34749]]"
+significant_person: "[[_Standards/WikiData/WD~Niklas_Luhmann,57238]]"
 OmegaWiki_Defined_Meaning: 3484
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D0%BA%20%281%29.jpg"
 Commons_category: Society

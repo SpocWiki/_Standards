@@ -5,29 +5,29 @@ MeSH_tree_code:
 - H01.158.273.248
 - H01.277.249
 Krugosvet_article: nauka_i_tehnika/biologiya/EKOLOGIYA.html
-history_of_topic: "[[_Standards/WikiData/WD~history of ecology,551745]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_ecology,551745]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~human ecology,720858]]"
-- "[[_Standards/WikiData/WD~plant ecology,1387972]]"
-- "[[_Standards/WikiData/WD~animal ecology,10900987]]"
-- "[[_Standards/WikiData/WD~genetic ecology,48997455]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~environmental research,1640238]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of ecology,7112610]]"
+- "[[_Standards/WikiData/WD~human_ecology,720858]]"
+- "[[_Standards/WikiData/WD~plant_ecology,1387972]]"
+- "[[_Standards/WikiData/WD~animal_ecology,10900987]]"
+- "[[_Standards/WikiData/WD~genetic_ecology,48997455]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~environmental_research,1640238]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ecology,7112610]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ecology,11721377]]'
 instance_of:
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-- "[[_Standards/WikiData/WD~branch of geography,19935939]]"
-- "[[_Standards/WikiData/WD~branch of biology,28598684]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+- "[[_Standards/WikiData/WD~branch_of_geography,19935939]]"
+- "[[_Standards/WikiData/WD~branch_of_biology,28598684]]"
 practiced_by: '[[_Standards/WikiData/WD~ecologist,15839134]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20482107,20482107]]'
 is_the_study_of:
-- "[[_Standards/WikiData/WD~ecological concept,56575300]]"
+- "[[_Standards/WikiData/WD~ecological_concept,56575300]]"
 - '[[_Standards/WikiData/WD~ecosystem,37813]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q106843449,106843449]]'
 Provenio_UUID: 113b2e20-1527-4fb9-bf06-052cb82cf4c1

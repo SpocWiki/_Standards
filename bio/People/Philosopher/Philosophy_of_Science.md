@@ -1,16 +1,16 @@
 ﻿---
 has_id_wikidata: Q59115
 instance_of:
-- "[[_Standards/WikiData/WD~subject heading,1128340]]"
-- "[[_Standards/WikiData/WD~branch of science,2465832]]"
-- "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Philosophy of science,8084428]]"
+- "[[_Standards/WikiData/WD~subject_heading,1128340]]"
+- "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+- "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Philosophy_of_science,8084428]]"
 Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/philosophy-of-science"
 GitHub_topic: philosophy-of-science
 subreddit: PhilosophyofScience
 history_of_topic: '[[_Standards/WikiData/WD~Q11897492,11897492]]'
-practiced_by: "[[_Standards/WikiData/WD~philosopher of science,16389557]]"
-different_from: "[[_Standards/WikiData/WD~Cognitive theory,30747846]]"
+practiced_by: "[[_Standards/WikiData/WD~philosopher_of_science,16389557]]"
+different_from: "[[_Standards/WikiData/WD~Cognitive_theory,30747846]]"
 Dewey_Decimal_Classification:
 - 001.01
 - 1--01

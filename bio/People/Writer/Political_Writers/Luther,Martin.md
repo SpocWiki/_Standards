@@ -37,21 +37,21 @@ writing_language:
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~German,188]]'
-- "[[_Standards/WikiData/WD~New High German,454476]]"
+- "[[_Standards/WikiData/WD~New_High_German,454476]]"
 residence:
 - '[[_Standards/WikiData/WD~Erfurt,1729]]'
 - '[[_Standards/WikiData/WD~Magdeburg,1733]]'
-- "[[_Standards/WikiData/WD~Lutherstadt Wittenberg,6837]]"
+- "[[_Standards/WikiData/WD~Lutherstadt_Wittenberg,6837]]"
 - '[[_Standards/WikiData/WD~Eisenach,7070]]'
-- "[[_Standards/WikiData/WD~Lutherstadt Eisleben,484870]]"
+- "[[_Standards/WikiData/WD~Lutherstadt_Eisleben,484870]]"
 - '[[_Standards/WikiData/WD~Mansfeld,502926]]'
 field_of_work:
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 - '[[_Standards/WikiData/WD~translation,7553]]'
 - '[[_Standards/WikiData/WD~literature,8242]]'
 - '[[_Standards/WikiData/WD~theology,34178]]'
-influenced_by: "[[_Standards/WikiData/WD~Augustine of Hippo,8018]]"
-different_from: "[[_Standards/WikiData/WD~Martin Luther King Jr.,8027]]"
+influenced_by: "[[_Standards/WikiData/WD~Augustine_of_Hippo,8018]]"
+different_from: "[[_Standards/WikiData/WD~Martin_Luther_King_Jr.,8027]]"
 movement: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 facet_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 religious_order: '[[_Standards/WikiData/WD~Augustinians,29075]]'
@@ -63,95 +63,95 @@ occupation:
 - '[[_Standards/WikiData/WD~lawyer,40348]]'
 - '[[_Standards/WikiData/WD~professor,121594]]'
 - '[[_Standards/WikiData/WD~pastor,152002]]'
-- "[[_Standards/WikiData/WD~Catholic priest,250867]]"
+- "[[_Standards/WikiData/WD~Catholic_priest,250867]]"
 - '[[_Standards/WikiData/WD~translator,333634]]'
 - '[[_Standards/WikiData/WD~preacher,432386]]'
-- "[[_Standards/WikiData/WD~Protestant reformer,763779]]"
+- "[[_Standards/WikiData/WD~Protestant_reformer,763779]]"
 - '[[_Standards/WikiData/WD~scribe,916292]]'
 - '[[_Standards/WikiData/WD~theologian,1234713]]'
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
 - '[[_Standards/WikiData/WD~hymnwriter,13424456]]'
-- "[[_Standards/WikiData/WD~Bible translator,24262584]]"
+- "[[_Standards/WikiData/WD~Bible_translator,24262584]]"
 - '[[_Standards/WikiData/WD~reformator,124985058]]'
 significant_person:
 - '[[_Standards/WikiData/WD~Erasmus,43499]]'
-- "[[_Standards/WikiData/WD~Willibald Pirckheimer,62663]]"
-- "[[_Standards/WikiData/WD~Philipp Melanchthon,76325]]"
-- "[[_Standards/WikiData/WD~Huldrych Zwingli,123034]]"
-- "[[_Standards/WikiData/WD~Wolfgang Capito,1368362]]"
+- "[[_Standards/WikiData/WD~Willibald_Pirckheimer,62663]]"
+- "[[_Standards/WikiData/WD~Philipp_Melanchthon,76325]]"
+- "[[_Standards/WikiData/WD~Huldrych_Zwingli,123034]]"
+- "[[_Standards/WikiData/WD~Wolfgang_Capito,1368362]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-Martin%20Luther.ogg"
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Luthergrave.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Luther.ogg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Luther%20Signature.svg"
 student:
-- "[[_Standards/WikiData/WD~Martin Helwig,75667]]"
-- "[[_Standards/WikiData/WD~Jacob Heerbrand,98742]]"
-- "[[_Standards/WikiData/WD~Michael Neander,105649]]"
+- "[[_Standards/WikiData/WD~Martin_Helwig,75667]]"
+- "[[_Standards/WikiData/WD~Jacob_Heerbrand,98742]]"
+- "[[_Standards/WikiData/WD~Michael_Neander,105649]]"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Lutheranism,75809]]'
-- "[[_Standards/WikiData/WD~Latin Church,597526]]"
-spouse: "[[_Standards/WikiData/WD~Katharina von Bora,77239]]"
+- "[[_Standards/WikiData/WD~Latin_Church,597526]]"
+spouse: "[[_Standards/WikiData/WD~Katharina_von_Bora,77239]]"
 child:
-- "[[_Standards/WikiData/WD~Paul Luther,86832]]"
-- "[[_Standards/WikiData/WD~Magdalena Luther,6729875]]"
-- "[[_Standards/WikiData/WD~Martin Luther, Jr.,11988529]]"
-- "[[_Standards/WikiData/WD~Elisabeth Luther,13223865]]"
-- "[[_Standards/WikiData/WD~Margaretha Luther,15450045]]"
-- "[[_Standards/WikiData/WD~Johannes Luther,19799797]]"
-named_after: "[[_Standards/WikiData/WD~Martin of Tours,133704]]"
+- "[[_Standards/WikiData/WD~Paul_Luther,86832]]"
+- "[[_Standards/WikiData/WD~Magdalena_Luther,6729875]]"
+- "[[_Standards/WikiData/WD~Martin_Luther,_Jr.,11988529]]"
+- "[[_Standards/WikiData/WD~Elisabeth_Luther,13223865]]"
+- "[[_Standards/WikiData/WD~Margaretha_Luther,15450045]]"
+- "[[_Standards/WikiData/WD~Johannes_Luther,19799797]]"
+named_after: "[[_Standards/WikiData/WD~Martin_of_Tours,133704]]"
 lifestyle: '[[_Standards/WikiData/WD~monasticism,148836]]'
-notable_work: "[[_Standards/WikiData/WD~Ninety-five Theses,157506]]"
+notable_work: "[[_Standards/WikiData/WD~Ninety-five_Theses,157506]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~Museo del Prado,160112]]"
-- "[[_Standards/WikiData/WD~Royal Collections of the Netherlands,50632603]]"
+- "[[_Standards/WikiData/WD~Museo_del_Prado,160112]]"
+- "[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Allgemeine Deutsche Biographie,590208]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Dictionary of Biblical Criticism and Interpretation (2007 ed.),21065550]]"
-- "[[_Standards/WikiData/WD~Contemporaries of Erasmus (vol. 2),21274842]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Frankfurter Personenlexikon,39845173]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Martin Luther and the mission of the church,55266024]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Outstanding personalities in Dresden and their flats,116033998]]"
-- "[[_Standards/WikiData/WD~Brief Biographical Dictionary of Foreign Composers,125935456]]"
-employer: "[[_Standards/WikiData/WD~University of Wittenberg,316592]]"
-work_location: "[[_Standards/WikiData/WD~St. Augustine's Monastery,420158]]"
-place_of_death: "[[_Standards/WikiData/WD~Lutherstadt Eisleben,484870]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lutherstadt Eisleben,484870]]"
-place_of_burial: "[[_Standards/WikiData/WD~All Saints' Church, Lutherstadt Wittenberg,661752]]"
-educated_at: "[[_Standards/WikiData/WD~University of Erfurt,702524]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
+- "[[_Standards/WikiData/WD~Contemporaries_of_Erasmus_(vol._2),21274842]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Martin_Luther_and_the_mission_of_the_church,55266024]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Outstanding_personalities_in_Dresden_and_their_flats,116033998]]"
+- "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
+employer: "[[_Standards/WikiData/WD~University_of_Wittenberg,316592]]"
+work_location: "[[_Standards/WikiData/WD~St._Augustine's_Monastery,420158]]"
+place_of_death: "[[_Standards/WikiData/WD~Lutherstadt_Eisleben,484870]]"
+place_of_birth: "[[_Standards/WikiData/WD~Lutherstadt_Eisleben,484870]]"
+place_of_burial: "[[_Standards/WikiData/WD~All_Saints'_Church,_Lutherstadt_Wittenberg,661752]]"
+educated_at: "[[_Standards/WikiData/WD~University_of_Erfurt,702524]]"
 significant_event: '[[_Standards/WikiData/WD~sanctification,956444]]'
-position_held: "[[_Standards/WikiData/WD~university teacher,1622272]]"
+position_held: "[[_Standards/WikiData/WD~university_teacher,1622272]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Luther,16876104]]'
 given_name: '[[_Standards/WikiData/WD~Martin,18002399]]'
 depicted_by:
-- "[[_Standards/WikiData/WD~Martin Luther,18600836]]"
-- "[[_Standards/WikiData/WD~Martin Luther and the Wittenberg Reformers,28797644]]"
-- "[[_Standards/WikiData/WD~Philip Melanchthon (1497-1560), Martin Luther (1483-1546) and Johann Bugenhagen, called Dr Pommer (1485-1558),52223674]]"
-father: "[[_Standards/WikiData/WD~Hans Luther,20494923]]"
+- "[[_Standards/WikiData/WD~Martin_Luther,18600836]]"
+- "[[_Standards/WikiData/WD~Martin_Luther_and_the_Wittenberg_Reformers,28797644]]"
+- "[[_Standards/WikiData/WD~Philip_Melanchthon_(1497-1560),_Martin_Luther_(1483-1546)_and_Johann_Bugenhagen,_called_Dr_Pommer_(1485-1558),52223674]]"
+father: "[[_Standards/WikiData/WD~Hans_Luther,20494923]]"
 NLC_authorities: 000190683
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25161015,25161015]]'
-mother: "[[_Standards/WikiData/WD~Margarethe Luther,28657970]]"
-sibling: "[[_Standards/WikiData/WD~Jacob Luther,30247850]]"
-archives_at: "[[_Standards/WikiData/WD~ETH Zurich University Archives,39934978]]"
-doctoral_student: "[[_Standards/WikiData/WD~Andreas Hoffrichter,47490799]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Christian Hymns,100975219]]"
-has_characteristic: "[[_Standards/WikiData/WD~Theology of Martin Luther,123545179]]"
+mother: "[[_Standards/WikiData/WD~Margarethe_Luther,28657970]]"
+sibling: "[[_Standards/WikiData/WD~Jacob_Luther,30247850]]"
+archives_at: "[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]"
+doctoral_student: "[[_Standards/WikiData/WD~Andreas_Hoffrichter,47490799]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]"
+has_characteristic: "[[_Standards/WikiData/WD~Theology_of_Martin_Luther,123545179]]"
 date_of_baptism: "1483-11-20"
 date_of_birth: "1483-11-19"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Martin%20Luther%2C%201528%20%28Veste%20Coburg%29.jpg"

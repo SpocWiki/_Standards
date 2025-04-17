@@ -2,43 +2,43 @@
 has_id_wikidata: Q6206
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Capitalism::qk623\"]"
 said_to_be_the_same_as:
-- "[[_Standards/WikiData/WD~laissez faire,171990]]"
-- "[[_Standards/WikiData/WD~market economy,179522]]"
-- "[[_Standards/WikiData/WD~economic liberalism,729119]]"
-- "[[_Standards/WikiData/WD~capitalist mode of production,3132726]]"
-- "[[_Standards/WikiData/WD~free market,46607]]"
+- "[[_Standards/WikiData/WD~laissez_faire,171990]]"
+- "[[_Standards/WikiData/WD~market_economy,179522]]"
+- "[[_Standards/WikiData/WD~economic_liberalism,729119]]"
+- "[[_Standards/WikiData/WD~capitalist_mode_of_production,3132726]]"
+- "[[_Standards/WikiData/WD~free_market,46607]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~economic growth,189833]]"
-- "[[_Standards/WikiData/WD~economic competition,319676]]"
-- "[[_Standards/WikiData/WD~capital accumulation,420062]]"
-- "[[_Standards/WikiData/WD~wage labor,949973]]"
-- "[[_Standards/WikiData/WD~Price system,1131126]]"
-- "[[_Standards/WikiData/WD~Voluntary exchange,11900430]]"
+- "[[_Standards/WikiData/WD~economic_growth,189833]]"
+- "[[_Standards/WikiData/WD~economic_competition,319676]]"
+- "[[_Standards/WikiData/WD~capital_accumulation,420062]]"
+- "[[_Standards/WikiData/WD~wage_labor,949973]]"
+- "[[_Standards/WikiData/WD~Price_system,1131126]]"
+- "[[_Standards/WikiData/WD~Voluntary_exchange,11900430]]"
 has_effect:
-- "[[_Standards/WikiData/WD~mass production,215768]]"
-- "[[_Standards/WikiData/WD~income inequality,5055020]]"
-has_part_s_: "[[_Standards/WikiData/WD~means of production,260747]]"
-subclass_of: "[[_Standards/WikiData/WD~economic system,273005]]"
+- "[[_Standards/WikiData/WD~mass_production,215768]]"
+- "[[_Standards/WikiData/WD~income_inequality,5055020]]"
+has_part_s_: "[[_Standards/WikiData/WD~means_of_production,260747]]"
+subclass_of: "[[_Standards/WikiData/WD~economic_system,273005]]"
 opposite_of:
 - '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
 - '[[_Standards/WikiData/WD~communism,6186]]'
 based_on:
-- "[[_Standards/WikiData/WD~private property,555911]]"
-- "[[_Standards/WikiData/WD~economic profit,26911]]"
-instance_of: "[[_Standards/WikiData/WD~social formation,1641112]]"
+- "[[_Standards/WikiData/WD~private_property,555911]]"
+- "[[_Standards/WikiData/WD~economic_profit,26911]]"
+instance_of: "[[_Standards/WikiData/WD~social_formation,1641112]]"
 uses: '[[_Standards/WikiData/WD~commodification,1780322]]'
 item_disputed_by:
 - '[[_Standards/WikiData/WD~anti-consumerism,1783091]]'
 - '[[_Standards/WikiData/WD~Marxism,7264]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Global Justice (2011 ed.),21002838]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of capitalism,3183163]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_capitalism,3183163]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Aspects of capitalism,6688953]]"
+- "[[_Standards/WikiData/WD~Template_Aspects_of_capitalism,6688953]]"
 - '[[_Standards/WikiData/WD~Template_Capitalism,65741511]]'
 Provenio_UUID: dad5e2e0-c50e-4087-8697-9236b7606c4f
 UMLS_CUI: C0006913

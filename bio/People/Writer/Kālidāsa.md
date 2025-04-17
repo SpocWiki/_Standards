@@ -20,30 +20,30 @@ notable_work:
 - '[[_Standards/WikiData/WD~Vikramōrvaśīyam,2671559]]'
 - '[[_Standards/WikiData/WD~Ṛtusaṃhāra,2672059]]'
 genre:
-- "[[_Standards/WikiData/WD~lyric poetry,182357]]"
-- "[[_Standards/WikiData/WD~Sanskrit drama,3351966]]"
-- "[[_Standards/WikiData/WD~drama fiction,21010853]]"
-- "[[_Standards/WikiData/WD~epic poem,37484]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
+- "[[_Standards/WikiData/WD~lyric_poetry,182357]]"
+- "[[_Standards/WikiData/WD~Sanskrit_drama,3351966]]"
+- "[[_Standards/WikiData/WD~drama_fiction,21010853]]"
+- "[[_Standards/WikiData/WD~epic_poem,37484]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
 occupation:
 - '[[_Standards/WikiData/WD~playwright,214917]]'
 - '[[_Standards/WikiData/WD~lyricist,822146]]'
-- "[[_Standards/WikiData/WD~film screenwriter,69423232]]"
+- "[[_Standards/WikiData/WD~film_screenwriter,69423232]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Indian Sociology Through Ghurye, a Dictionary,106913762]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Indian_Sociology_Through_Ghurye,_a_Dictionary,106913762]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 work_period_start_: "0400"
 floruit: "0400"
 ISNI: 0000000081700594

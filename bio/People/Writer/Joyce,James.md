@@ -3,81 +3,81 @@ aliases:
 - "James Joyce"
 - "James Augustine Aloysius Joyce"
 has_id_wikidata: Q6882
-influenced_by: "[[_Standards/WikiData/WD~Giambattista Vico,178709]]"
+influenced_by: "[[_Standards/WikiData/WD~Giambattista_Vico,178709]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
-- "[[_Standards/WikiData/WD~Minneapolis Institute of Art,1700481]]"
+- "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
+- "[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]"
 cause_of_death: '[[_Standards/WikiData/WD~peritonitis,223102]]'
 genre:
 - '[[_Standards/WikiData/WD~bildungsroman,223945]]'
-- "[[_Standards/WikiData/WD~fiction literature,38072107]]"
-- "[[_Standards/WikiData/WD~psychological fiction,101240581]]"
+- "[[_Standards/WikiData/WD~fiction_literature,38072107]]"
+- "[[_Standards/WikiData/WD~psychological_fiction,101240581]]"
 - '[[_Standards/WikiData/WD~poetry,482]]'
 archives_at:
-- "[[_Standards/WikiData/WD~Zürich James Joyce Foundation,230416]]"
-- "[[_Standards/WikiData/WD~Beinecke Rare Book & Manuscript Library,814779]]"
-- "[[_Standards/WikiData/WD~National Library of Ireland,1672830]]"
-- "[[_Standards/WikiData/WD~Harry Ransom Center,5671855]]"
-- "[[_Standards/WikiData/WD~University at Buffalo - North Campus,100993236]]"
-- "[[_Standards/WikiData/WD~British Library,23308]]"
-sibling: "[[_Standards/WikiData/WD~Stanislaus Joyce,326243]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Nora Barnacle,444609]]"
-spouse: "[[_Standards/WikiData/WD~Nora Barnacle,444609]]"
-sponsor: "[[_Standards/WikiData/WD~Harriet Shaw Weaver,455830]]"
+- "[[_Standards/WikiData/WD~Zürich_James_Joyce_Foundation,230416]]"
+- "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
+- "[[_Standards/WikiData/WD~National_Library_of_Ireland,1672830]]"
+- "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
+- "[[_Standards/WikiData/WD~University_at_Buffalo_-_North_Campus,100993236]]"
+- "[[_Standards/WikiData/WD~British_Library,23308]]"
+sibling: "[[_Standards/WikiData/WD~Stanislaus_Joyce,326243]]"
+unmarried_partner: "[[_Standards/WikiData/WD~Nora_Barnacle,444609]]"
+spouse: "[[_Standards/WikiData/WD~Nora_Barnacle,444609]]"
+sponsor: "[[_Standards/WikiData/WD~Harriet_Shaw_Weaver,455830]]"
 notable_work:
 - '[[_Standards/WikiData/WD~Dubliners,459592]]'
-- "[[_Standards/WikiData/WD~A Portrait of the Artist as a Young Man,465360]]"
-- "[[_Standards/WikiData/WD~Pomes Penyeach,1304943]]"
-- "[[_Standards/WikiData/WD~Stephen Hero,2070762]]"
+- "[[_Standards/WikiData/WD~A_Portrait_of_the_Artist_as_a_Young_Man,465360]]"
+- "[[_Standards/WikiData/WD~Pomes_Penyeach,1304943]]"
+- "[[_Standards/WikiData/WD~Stephen_Hero,2070762]]"
 - '[[_Standards/WikiData/WD~Exiles,2297900]]'
-- "[[_Standards/WikiData/WD~Finnegans Wake,6507]]"
+- "[[_Standards/WikiData/WD~Finnegans_Wake,6507]]"
 - '[[_Standards/WikiData/WD~Ulysses,6511]]'
 occupation:
 - '[[_Standards/WikiData/WD~author,482980]]'
 - '[[_Standards/WikiData/WD~journalist,1930187]]'
-- "[[_Standards/WikiData/WD~literary critic,4263842]]"
+- "[[_Standards/WikiData/WD~literary_critic,4263842]]"
 - '[[_Standards/WikiData/WD~novelist,6625963]]'
-- "[[_Standards/WikiData/WD~prose writer,12144794]]"
+- "[[_Standards/WikiData/WD~prose_writer,12144794]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~teacher,37226]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
-place_of_burial: "[[_Standards/WikiData/WD~Fluntern Cemetery,666565]]"
+place_of_burial: "[[_Standards/WikiData/WD~Fluntern_Cemetery,666565]]"
 given_name: '[[_Standards/WikiData/WD~James,677191]]'
 wears:
 - '[[_Standards/WikiData/WD~eyepatch,760330]]'
 - '[[_Standards/WikiData/WD~glasses,37501]]'
 educated_at:
-- "[[_Standards/WikiData/WD~University College Dublin,1068258]]"
-- "[[_Standards/WikiData/WD~Clongowes Wood College,2294995]]"
-- "[[_Standards/WikiData/WD~Belvedere College,3777738]]"
+- "[[_Standards/WikiData/WD~University_College_Dublin,1068258]]"
+- "[[_Standards/WikiData/WD~Clongowes_Wood_College,2294995]]"
+- "[[_Standards/WikiData/WD~Belvedere_College,3777738]]"
 described_by_source:
 - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Marketing Modernism for Children; or How Joyce’s The Cat and the Devil and Woolf’s Nurse Lugton… Were Made into Picture Story Books in English, Italian, and French,48768932]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~James Joyce,129665523]]"
-- "[[_Standards/WikiData/WD~James Joyce_ A Literary Life,129677569]]"
-uses: "[[_Standards/WikiData/WD~walking stick,1347864]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Marketing_Modernism_for_Children;_or_How_Joyce’s_The_Cat_and_the_Devil_and_Woolf’s_Nurse_Lugton…_Were_Made_into_Picture_Story_Books_in_English,_Italian,_and French,48768932]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~James_Joyce,129665523]]"
+- "[[_Standards/WikiData/WD~James_Joyce__A_Literary_Life,129677569]]"
+uses: "[[_Standards/WikiData/WD~walking_stick,1347864]]"
 medical_condition:
 - '[[_Standards/WikiData/WD~astraphobia,2000742]]'
 - '[[_Standards/WikiData/WD~iritis,2346396]]'
-hair_color: "[[_Standards/WikiData/WD~brown hair,2367101]]"
+hair_color: "[[_Standards/WikiData/WD~brown_hair,2367101]]"
 place_of_birth: '[[_Standards/WikiData/WD~Rathgar,2528857]]'
-residence: "[[_Standards/WikiData/WD~avenue Charles-Floquet,2873559]]"
+residence: "[[_Standards/WikiData/WD~avenue_Charles-Floquet,2873559]]"
 handedness: '[[_Standards/WikiData/WD~right-handedness,3039938]]'
-father: "[[_Standards/WikiData/WD~John Stanislaus Joyce,3809381]]"
+father: "[[_Standards/WikiData/WD~John_Stanislaus_Joyce,3809381]]"
 child:
-- "[[_Standards/WikiData/WD~Lucia Joyce,3838462]]"
-- "[[_Standards/WikiData/WD~Giorgio Joyce,94827526]]"
-personal_library_at: "[[_Standards/WikiData/WD~Harry Ransom Center,5671855]]"
+- "[[_Standards/WikiData/WD~Lucia_Joyce,3838462]]"
+- "[[_Standards/WikiData/WD~Giorgio_Joyce,94827526]]"
+personal_library_at: "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 eye_color: '[[_Standards/WikiData/WD~blue,17122834]]'
 family_name: '[[_Standards/WikiData/WD~Joyce,18515516]]'
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Harry Ransom Center,105936481]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]"
 date_of_birth: "1882-02-02"
 official_website: "https://jamesjoyce.ie"
 ISNI: 0000000121302495

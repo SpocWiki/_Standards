@@ -5,18 +5,18 @@ subclass_of:
 - '[[_Standards/WikiData/WD~material,214609]]'
 different_from:
 - '[[_Standards/WikiData/WD~triglyceride,186319]]'
-- "[[_Standards/WikiData/WD~adipose tissue,193583]]"
+- "[[_Standards/WikiData/WD~adipose_tissue,193583]]"
 - '[[_Standards/WikiData/WD~glyceride,407758]]'
 - '[[_Standards/WikiData/WD~grease,629823]]'
 - '[[_Standards/WikiData/WD~lipid,11367]]'
 - '[[_Standards/WikiData/WD~oil,42962]]'
 has_part_s_: '[[_Standards/WikiData/WD~glyceride,407758]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Fats and oils,12218467]]"
+- "[[_Standards/WikiData/WD~Template_Fats_and_oils,12218467]]"
 - '[[_Standards/WikiData/WD~Template_Fats,13625308]]'
 UMLS_CUI:
 - C0012171

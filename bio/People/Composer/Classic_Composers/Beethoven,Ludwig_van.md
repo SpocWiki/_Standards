@@ -10,109 +10,109 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/BETHOVEN_LYUDVIG_VAN.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/2330
 Royal_Academy_new_identifier: ludwig-van-beethoven
 student:
-- "[[_Standards/WikiData/WD~Archduke Rudolf of Austria,93373]]"
-- "[[_Standards/WikiData/WD~Ferdinand Ries,213558]]"
-- "[[_Standards/WikiData/WD~Carl Czerny,215333]]"
-- "[[_Standards/WikiData/WD~Dorothea von Ertmann,1246313]]"
-- "[[_Standards/WikiData/WD~Babette Countess Keglevich de Buzin,63255363]]"
+- "[[_Standards/WikiData/WD~Archduke_Rudolf_of_Austria,93373]]"
+- "[[_Standards/WikiData/WD~Ferdinand_Ries,213558]]"
+- "[[_Standards/WikiData/WD~Carl_Czerny,215333]]"
+- "[[_Standards/WikiData/WD~Dorothea_von_Ertmann,1246313]]"
+- "[[_Standards/WikiData/WD~Babette_Countess_Keglevich_de_Buzin,63255363]]"
 country_of_citizenship:
-- "[[_Standards/WikiData/WD~Austrian Empire,131964]]"
-- "[[_Standards/WikiData/WD~Electorate of Cologne,7904317]]"
+- "[[_Standards/WikiData/WD~Austrian_Empire,131964]]"
+- "[[_Standards/WikiData/WD~Electorate_of_Cologne,7904317]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Piano Sonata No. 8,146113]]"
-- "[[_Standards/WikiData/WD~Piano Sonata No. 21,146535]]"
-- "[[_Standards/WikiData/WD~Piano Sonata No. 23,146614]]"
-- "[[_Standards/WikiData/WD~Symphony No. 3,157489]]"
-- "[[_Standards/WikiData/WD~Symphony No. 5,188709]]"
+- "[[_Standards/WikiData/WD~Piano_Sonata_No._8,146113]]"
+- "[[_Standards/WikiData/WD~Piano_Sonata_No._21,146535]]"
+- "[[_Standards/WikiData/WD~Piano_Sonata_No._23,146614]]"
+- "[[_Standards/WikiData/WD~Symphony_No._3,157489]]"
+- "[[_Standards/WikiData/WD~Symphony_No._5,188709]]"
 - '[[_Standards/WikiData/WD~Fidelio,193778]]'
-- "[[_Standards/WikiData/WD~Symphony No. 6,246433]]"
-- "[[_Standards/WikiData/WD~Missa Solemnis,723790]]"
-- "[[_Standards/WikiData/WD~Violin Sonata No. 9,1154601]]"
-- "[[_Standards/WikiData/WD~Für Elise,11980]]"
-- "[[_Standards/WikiData/WD~Symphony No. 9,11989]]"
-- "[[_Standards/WikiData/WD~Piano Sonata No. 14,12008]]"
-cause_of_death: "[[_Standards/WikiData/WD~liver cirrhosis,147778]]"
+- "[[_Standards/WikiData/WD~Symphony_No._6,246433]]"
+- "[[_Standards/WikiData/WD~Missa_Solemnis,723790]]"
+- "[[_Standards/WikiData/WD~Violin_Sonata_No._9,1154601]]"
+- "[[_Standards/WikiData/WD~Für_Elise,11980]]"
+- "[[_Standards/WikiData/WD~Symphony_No._9,11989]]"
+- "[[_Standards/WikiData/WD~Piano_Sonata_No._14,12008]]"
+cause_of_death: "[[_Standards/WikiData/WD~liver_cirrhosis,147778]]"
 medical_condition:
-- "[[_Standards/WikiData/WD~liver cirrhosis,147778]]"
+- "[[_Standards/WikiData/WD~liver_cirrhosis,147778]]"
 - '[[_Standards/WikiData/WD~sarcoidosis,193894]]'
-- "[[_Standards/WikiData/WD~Whipple disease,653078]]"
+- "[[_Standards/WikiData/WD~Whipple_disease,653078]]"
 - '[[_Standards/WikiData/WD~otosclerosis,756610]]'
-- "[[_Standards/WikiData/WD~iron overload,2025687]]"
-- "[[_Standards/WikiData/WD~Paget's disease of bone,2035074]]"
-- "[[_Standards/WikiData/WD~alcoholic hepatitis,3144986]]"
-- "[[_Standards/WikiData/WD~Crohn's disease,1472]]"
-- "[[_Standards/WikiData/WD~hepatitis B,6853]]"
+- "[[_Standards/WikiData/WD~iron_overload,2025687]]"
+- "[[_Standards/WikiData/WD~Paget's_disease_of_bone,2035074]]"
+- "[[_Standards/WikiData/WD~alcoholic_hepatitis,3144986]]"
+- "[[_Standards/WikiData/WD~Crohn's_disease,1472]]"
+- "[[_Standards/WikiData/WD~hepatitis_B,6853]]"
 - '[[_Standards/WikiData/WD~deafness,12133]]'
 - '[[_Standards/WikiData/WD~asthma,35869]]'
 - '[[_Standards/WikiData/WD~syphilis,41083]]'
-archives_at: "[[_Standards/WikiData/WD~Berlin State Library,170109]]"
+archives_at: "[[_Standards/WikiData/WD~Berlin_State_Library,170109]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~chamber music,189201]]"
-- "[[_Standards/WikiData/WD~string trio,923298]]"
-- "[[_Standards/WikiData/WD~traditional folk song,943929]]"
-- "[[_Standards/WikiData/WD~string quartet,11487510]]"
-- "[[_Standards/WikiData/WD~piano performance,104998020]]"
+- "[[_Standards/WikiData/WD~chamber_music,189201]]"
+- "[[_Standards/WikiData/WD~string_trio,923298]]"
+- "[[_Standards/WikiData/WD~traditional_folk_song,943929]]"
+- "[[_Standards/WikiData/WD~string_quartet,11487510]]"
+- "[[_Standards/WikiData/WD~piano_performance,104998020]]"
 - '[[_Standards/WikiData/WD~music,638]]'
 - '[[_Standards/WikiData/WD~opera,1344]]'
-- "[[_Standards/WikiData/WD~classical music,9730]]"
+- "[[_Standards/WikiData/WD~classical_music,9730]]"
 - '[[_Standards/WikiData/WD~symphony,9734]]'
 student_of:
-- "[[_Standards/WikiData/WD~Muzio Clementi,193673]]"
-- "[[_Standards/WikiData/WD~Christian Gottlob Neefe,213556]]"
-- "[[_Standards/WikiData/WD~Johann Georg Albrechtsberger,314164]]"
-- "[[_Standards/WikiData/WD~Johann Baptist Schenk,693052]]"
-- "[[_Standards/WikiData/WD~Gilles van der Eeden,16191592]]"
-- "[[_Standards/WikiData/WD~Joseph Haydn,7349]]"
-- "[[_Standards/WikiData/WD~Antonio Salieri,51088]]"
+- "[[_Standards/WikiData/WD~Muzio_Clementi,193673]]"
+- "[[_Standards/WikiData/WD~Christian_Gottlob_Neefe,213556]]"
+- "[[_Standards/WikiData/WD~Johann_Georg_Albrechtsberger,314164]]"
+- "[[_Standards/WikiData/WD~Johann_Baptist_Schenk,693052]]"
+- "[[_Standards/WikiData/WD~Gilles_van_der_Eeden,16191592]]"
+- "[[_Standards/WikiData/WD~Joseph_Haydn,7349]]"
+- "[[_Standards/WikiData/WD~Antonio_Salieri,51088]]"
 different_from: '[[_Standards/WikiData/WD~Beethoven,229086]]'
-place_of_burial: "[[_Standards/WikiData/WD~Vienna Central Cemetery,240744]]"
+place_of_burial: "[[_Standards/WikiData/WD~Vienna_Central_Cemetery,240744]]"
 ethnic_group:
-- "[[_Standards/WikiData/WD~Flemish people,242485]]"
+- "[[_Standards/WikiData/WD~Flemish_people,242485]]"
 - '[[_Standards/WikiData/WD~Germans,42884]]'
-member_of: "[[_Standards/WikiData/WD~Royal Netherlands Academy of Arts and Sciences,253439]]"
+member_of: "[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]"
 work_location:
 - '[[_Standards/WikiData/WD~Mödling,277965]]'
 - '[[_Standards/WikiData/WD~Baden,486450]]'
 - '[[_Standards/WikiData/WD~Bonn,586]]'
 - '[[_Standards/WikiData/WD~Vienna,1741]]'
 influenced_by:
-- "[[_Standards/WikiData/WD~Johann Joseph Fux,311378]]"
-- "[[_Standards/WikiData/WD~Johann Sebastian Bach,1339]]"
-- "[[_Standards/WikiData/WD~Joseph Haydn,7349]]"
-- "[[_Standards/WikiData/WD~Wolfgang Amadeus Mozart,254]]"
-residence: "[[_Standards/WikiData/WD~Beethoven House,318084]]"
+- "[[_Standards/WikiData/WD~Johann_Joseph_Fux,311378]]"
+- "[[_Standards/WikiData/WD~Johann_Sebastian_Bach,1339]]"
+- "[[_Standards/WikiData/WD~Joseph_Haydn,7349]]"
+- "[[_Standards/WikiData/WD~Wolfgang_Amadeus_Mozart,254]]"
+residence: "[[_Standards/WikiData/WD~Beethoven_House,318084]]"
 sponsor:
-- "[[_Standards/WikiData/WD~Count Ferdinand Ernst Gabriel von Waldstein,472851]]"
-- "[[_Standards/WikiData/WD~Joseph Francis, 7th Prince of Lobkowicz,570845]]"
-- "[[_Standards/WikiData/WD~Karl Alois, Prince Lichnowsky,685156]]"
-- "[[_Standards/WikiData/WD~Moritz Reichsgraf von Fries,1948037]]"
+- "[[_Standards/WikiData/WD~Count_Ferdinand_Ernst_Gabriel_von_Waldstein,472851]]"
+- "[[_Standards/WikiData/WD~Joseph_Francis,_7th_Prince_of_Lobkowicz,570845]]"
+- "[[_Standards/WikiData/WD~Karl_Alois,_Prince_Lichnowsky,685156]]"
+- "[[_Standards/WikiData/WD~Moritz_Reichsgraf_von_Fries,1948037]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Allgemeine Deutsche Biographie,590208]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~A Dictionary of Music and Musicians, 1900,16011749]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Beethoven's medical history from a physician's viewpoint,30525836]]"
-- "[[_Standards/WikiData/WD~Ludwig van Beethoven (1770-3024), German composer,30538077]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Beethoven's_medical_history_from_a_physician's_viewpoint,30525836]]"
+- "[[_Standards/WikiData/WD~Ludwig_van_Beethoven_(1770-3024),_German_composer,30538077]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Berühmte Klavierspieler der Vergangenheit und Gegenwart,118809333]]"
-- "[[_Standards/WikiData/WD~Brief Biographical Dictionary of Foreign Composers,125935456]]"
+- "[[_Standards/WikiData/WD~Berühmte_Klavierspieler_der_Vergangenheit_und_Gegenwart,118809333]]"
+- "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
 list_of_works:
-- "[[_Standards/WikiData/WD~WoO (Beethoven),616043]]"
-- "[[_Standards/WikiData/WD~list of compositions by Ludwig van Beethoven,859387]]"
-- "[[_Standards/WikiData/WD~list of compositions by Ludwig van Beethoven by opus number,24953042]]"
-father: "[[_Standards/WikiData/WD~Johann van Beethoven,2153541]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+- "[[_Standards/WikiData/WD~WoO_(Beethoven),616043]]"
+- "[[_Standards/WikiData/WD~list_of_compositions_by_Ludwig_van_Beethoven,859387]]"
+- "[[_Standards/WikiData/WD~list_of_compositions_by_Ludwig_van_Beethoven_by_opus_number,24953042]]"
+father: "[[_Standards/WikiData/WD~Johann_van_Beethoven,2153541]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sibling:
-- "[[_Standards/WikiData/WD~Kaspar Anton Karl van Beethoven,6374627]]"
-- "[[_Standards/WikiData/WD~Nicolaus Johann van Beethoven,10336787]]"
+- "[[_Standards/WikiData/WD~Kaspar_Anton_Karl_van_Beethoven,6374627]]"
+- "[[_Standards/WikiData/WD~Nicolaus_Johann_van_Beethoven,10336787]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Beethoven%20house%20of%20birth%20bonn%20inscription%20feb%202002.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Beethoven%20Signature.svg"
@@ -122,20 +122,20 @@ IPI_name_number:
 - 00075607366
 last_words: "Schade, schade, zu spät!"
 given_name: '[[_Standards/WikiData/WD~Ludwig,14159020]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ludwig van Beethoven,14336588]]"
-mother: "[[_Standards/WikiData/WD~Maria Magdalena van Beethoven,14507972]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ludwig_van_Beethoven,14336588]]"
+mother: "[[_Standards/WikiData/WD~Maria_Magdalena_van_Beethoven,14507972]]"
 relative:
-- "[[_Standards/WikiData/WD~Karl van Beethoven,15823075]]"
-- "[[_Standards/WikiData/WD~Josyne van Beethoven,17351370]]"
-family_name: "[[_Standards/WikiData/WD~van Beethoven,42864897]]"
-depicted_by: "[[_Standards/WikiData/WD~Portrait of Beethoven,46993414]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-award_received: "[[_Standards/WikiData/WD~Bröckemännche Award,61016303]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Procuratoria di San Marco musical archive,64348192]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+- "[[_Standards/WikiData/WD~Karl_van_Beethoven,15823075]]"
+- "[[_Standards/WikiData/WD~Josyne_van_Beethoven,17351370]]"
+family_name: "[[_Standards/WikiData/WD~van_Beethoven,42864897]]"
+depicted_by: "[[_Standards/WikiData/WD~Portrait_of_Beethoven,46993414]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+award_received: "[[_Standards/WikiData/WD~Bröckemännche_Award,61016303]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Procuratoria_di_San_Marco_musical_archive,64348192]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Christian Hymns,100975219]]"
-- "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
+- "[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]"
+- "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
 ISNI: 0000000121268987
 official_website: "https://www.beethoven.de"
 place_of_birth: '[[_Standards/WikiData/WD~Bonn,586]]'
@@ -144,7 +144,7 @@ religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 instrument:
 - '[[_Standards/WikiData/WD~piano,5994]]'
 - '[[_Standards/WikiData/WD~violin,8355]]'
-movement: "[[_Standards/WikiData/WD~Classical period,17723]]"
+movement: "[[_Standards/WikiData/WD~Classical_period,17723]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 0
 writing_language: '[[_Standards/WikiData/WD~German,188]]'

@@ -2,12 +2,12 @@
 has_id_wikidata: Q9453
 subclass_of: '[[_Standards/WikiData/WD~discourse,190539]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
-part_of: "[[_Standards/WikiData/WD~Western philosophy,842333]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+part_of: "[[_Standards/WikiData/WD~Western_philosophy,842333]]"
 main_subject: '[[_Standards/WikiData/WD~contrast,12378336]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Pencz%2C%20Dialectic%2C%20NGA%2033130.jpg"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Schopenhauers%20basis%20of%20dialectic.svg"

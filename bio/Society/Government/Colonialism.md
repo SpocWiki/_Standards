@@ -4,11 +4,11 @@ different_from: '[[_Standards/WikiData/WD~colony,133156]]'
 has_effect:
 - '[[_Standards/WikiData/WD~oppression,252000]]'
 - '[[_Standards/WikiData/WD~detribalization,65052129]]'
-instance_of: "[[_Standards/WikiData/WD~social formation,1641112]]"
+instance_of: "[[_Standards/WikiData/WD~social_formation,1641112]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Colonialism,10815165]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Global Justice (2011 ed.),21002838]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]"
 UMLS_CUI: C0009372
 MeSH_tree_code: I01.696.116
 subclass_of: '[[_Standards/WikiData/WD~imperialism,7260]]'

@@ -4,21 +4,21 @@ Commons_category: "Human pregnancy"
 Commons_gallery: "Human pregnancy"
 Krugosvet_article: nauka_i_tehnika/biologiya/BEREMENNOST_I_RODI.html
 has_cause:
-- "[[_Standards/WikiData/WD~in vitro fertilization,200117]]"
-- "[[_Standards/WikiData/WD~human fertilization,2666904]]"
+- "[[_Standards/WikiData/WD~in_vitro_fertilization,200117]]"
+- "[[_Standards/WikiData/WD~human_fertilization,2666904]]"
 part_of:
 - '[[_Standards/WikiData/WD~adulthood,378915]]'
 - '[[_Standards/WikiData/WD~motherhood,1956046]]'
 - '[[_Standards/WikiData/WD~mother,7560]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 health_specialty: '[[_Standards/WikiData/WD~gynaecology,1221899]]'
 subclass_of: '[[_Standards/WikiData/WD~pregnancy,1490716]]'
-instance_of: "[[_Standards/WikiData/WD~physiological condition,7189713]]"
-facet_of: "[[_Standards/WikiData/WD~women's health,8031191]]"
+instance_of: "[[_Standards/WikiData/WD~physiological_condition,7189713]]"
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Baby-1295826.svg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%97%E0%AC%B0%E0%AD%8D%E0%AC%AD%E0%AC%BE%E0%AC%AC%E0%AC%B8%E0%AD%8D%E0%AC%A5%E0%AC%BE.wav"
 UMLS_CUI: C0032961
@@ -31,8 +31,8 @@ Unicode_character:
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Pregnancy,13099510]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27135171,27135171]]'
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-- "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
+- "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+- "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Lapse%20Pregnancy%20-%206800%20pictures%20in%2037%20seconds.webm"
 different_from: '[[_Standards/WikiData/WD~gestation,28627]]'
 duration: 38

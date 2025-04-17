@@ -1,28 +1,28 @@
 ﻿---
 has_id_wikidata: Q9759
-instance_of: "[[_Standards/WikiData/WD~music genre,188451]]"
+instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~popular music,373342]]"
-- "[[_Standards/WikiData/WD~music of North America,107718737]]"
+- "[[_Standards/WikiData/WD~popular_music,373342]]"
+- "[[_Standards/WikiData/WD~music_of_North_America,107718737]]"
 practiced_by:
-- "[[_Standards/WikiData/WD~blues shouter,2907348]]"
-- "[[_Standards/WikiData/WD~blues musician,42303786]]"
+- "[[_Standards/WikiData/WD~blues_shouter,2907348]]"
+- "[[_Standards/WikiData/WD~blues_musician,42303786]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Blues,6557994]]'
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~traditional blues verse,7832322]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~traditional_blues_verse,7832322]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/B.B.%20King%2C%202006-06-26.jpg"
 equivalent_class: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Blues"
 subreddit: blues
 PhilPapers_topic: blues
 Krugosvet_article: kultura_i_obrazovanie/muzyka/BLYUZ.html
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Blues,10514224]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
 different_from: '[[_Standards/WikiData/WD~blues,39076517]]'
-described_by_source: "[[_Standards/WikiData/WD~DDEX AVS Data Dictionary Version 1,106615149]]"
+described_by_source: "[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]"
 inception: "1890"
 has_time_started: 1890-06 
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stafford%20and%20Her%20Jazz%20Band%20-%20Royal%20Garden%20Blues.mp3"
 has_use: '[[_Standards/WikiData/WD~music,638]]'
-country_of_origin: "[[_Standards/WikiData/WD~United States,30]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
 IAB_code: 360
 OmegaWiki_Defined_Meaning: 851080
 Commons_category: Blues

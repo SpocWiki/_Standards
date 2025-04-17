@@ -5,77 +5,77 @@ aliases:
 has_id_wikidata: Q8409
 occupation:
 - '[[_Standards/WikiData/WD~politician,82955]]'
-- "[[_Standards/WikiData/WD~military leader,1402561]]"
+- "[[_Standards/WikiData/WD~military_leader,1402561]]"
 - '[[_Standards/WikiData/WD~monarch,116]]'
-cause_of_death: "[[_Standards/WikiData/WD~typhoid fever,83319]]"
+cause_of_death: "[[_Standards/WikiData/WD~typhoid_fever,83319]]"
 time_period:
 - '[[_Standards/WikiData/WD~Macedonia,83958]]'
-- "[[_Standards/WikiData/WD~Macedonian Era (Egypt),105747873]]"
+- "[[_Standards/WikiData/WD~Macedonian_Era_(Egypt),105747873]]"
 country_of_citizenship: '[[_Standards/WikiData/WD~Macedonia,83958]]'
-father: "[[_Standards/WikiData/WD~Philip II of Macedon,130650]]"
+father: "[[_Standards/WikiData/WD~Philip_II_of_Macedon,130650]]"
 spouse:
 - '[[_Standards/WikiData/WD~Roxana,190055]]'
-- "[[_Standards/WikiData/WD~Parysatis II,434369]]"
+- "[[_Standards/WikiData/WD~Parysatis_II,434369]]"
 - '[[_Standards/WikiData/WD~Stateira,5429464]]'
 mount: '[[_Standards/WikiData/WD~Bucephalus,201598]]'
 owner_of: '[[_Standards/WikiData/WD~Bucephalus,201598]]'
 child:
-- "[[_Standards/WikiData/WD~Alexandros IV of Macedon,207847]]"
-- "[[_Standards/WikiData/WD~Heracles of Macedon,447770]]"
+- "[[_Standards/WikiData/WD~Alexandros_IV_of_Macedon,207847]]"
+- "[[_Standards/WikiData/WD~Heracles_of_Macedon,447770]]"
 place_of_birth: '[[_Standards/WikiData/WD~Pella,213679]]'
 student_of:
-- "[[_Standards/WikiData/WD~Anaximenes of Lampsacus,221787]]"
+- "[[_Standards/WikiData/WD~Anaximenes_of_Lampsacus,221787]]"
 - '[[_Standards/WikiData/WD~Aristotle,868]]'
 mother: '[[_Standards/WikiData/WD~Olympias,223134]]'
 sibling:
-- "[[_Standards/WikiData/WD~Cleopatra of Macedon,230258]]"
+- "[[_Standards/WikiData/WD~Cleopatra_of_Macedon,230258]]"
 - '[[_Standards/WikiData/WD~Cynane,235588]]'
-- "[[_Standards/WikiData/WD~Thessalonike of Macedon,242293]]"
-- "[[_Standards/WikiData/WD~Philip III of Macedon,295530]]"
+- "[[_Standards/WikiData/WD~Thessalonike_of_Macedon,242293]]"
+- "[[_Standards/WikiData/WD~Philip_III_of_Macedon,295530]]"
 - '[[_Standards/WikiData/WD~Caranus,2937876]]'
-- "[[_Standards/WikiData/WD~Europa of Macedon,5412073]]"
+- "[[_Standards/WikiData/WD~Europa_of_Macedon,5412073]]"
 unmarried_partner:
 - '[[_Standards/WikiData/WD~Barsine,233783]]'
 - '[[_Standards/WikiData/WD~Hephaestion,310739]]'
 - '[[_Standards/WikiData/WD~Campaspe,432787]]'
 - '[[_Standards/WikiData/WD~Bagoas,799959]]'
 relative:
-- "[[_Standards/WikiData/WD~Eurydice I of Macedon,242295]]"
-- "[[_Standards/WikiData/WD~Amyntas III of Macedon,313907]]"
-- "[[_Standards/WikiData/WD~Neoptolemus I of Epirus,13230617]]"
+- "[[_Standards/WikiData/WD~Eurydice_I_of_Macedon,242295]]"
+- "[[_Standards/WikiData/WD~Amyntas_III_of_Macedon,313907]]"
+- "[[_Standards/WikiData/WD~Neoptolemus_I_of_Epirus,13230617]]"
 military_or_police_rank: '[[_Standards/WikiData/WD~commander-in-chief,380782]]'
-medical_condition: "[[_Standards/WikiData/WD~heterochromia iridum,461486]]"
-family: "[[_Standards/WikiData/WD~Argead dynasty,538849]]"
+medical_condition: "[[_Standards/WikiData/WD~heterochromia_iridum,461486]]"
+family: "[[_Standards/WikiData/WD~Argead_dynasty,538849]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Parallel Lives,842337]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Church Encyclopedia,9253865]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Parallel_Lives,842337]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]"
 - '[[_Standards/WikiData/WD~Arrissalah,12238937]]'
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Dictionary of African Biography,46002746]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Pavlenkov Encyclopedic Dictionary,106323898]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-position_held: "[[_Standards/WikiData/WD~king of Macedonia,622602]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Pavlenkov_Encyclopedic_Dictionary,106323898]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+position_held: "[[_Standards/WikiData/WD~king_of_Macedonia,622602]]"
 religion_or_worldview:
-- "[[_Standards/WikiData/WD~Ancient Greek religion,855270]]"
-- "[[_Standards/WikiData/WD~Greek mythology,34726]]"
+- "[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]"
+- "[[_Standards/WikiData/WD~Greek_mythology,34726]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Dhul-Qarnayn,1207846]]'
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Xenoph%C3%B4n-Alexandre%20le%20Grand.wav"
 BHCL_UUID: 134a2f73-1dbf-4269-b5d6-f00a1e1b9c82
@@ -89,32 +89,32 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/500
 OpenStreetMap_tag_or_key: "Tag:historic:period=alexander_the_great"
 name_in_native_language: "Ἀλέξανδρος Γ' ὁ Μέγας"
 depicted_by:
-- "[[_Standards/WikiData/WD~Alexander the Great statue, Thessaloniki,11823111]]"
-- "[[_Standards/WikiData/WD~bust of Alexander the Great, Athens,111697968]]"
-- "[[_Standards/WikiData/WD~Relief Bust of Alexander the Great, Papagos,114139028]]"
-- "[[_Standards/WikiData/WD~Bust of Alexander the Great, Parikia,114140011]]"
-- "[[_Standards/WikiData/WD~Bust of Alexander the Great, Chaidari,114140391]]"
-- "[[_Standards/WikiData/WD~Equestrian statue of Alexander the Great, Giannitsa,115105842]]"
-- "[[_Standards/WikiData/WD~Equestrian statue of Alexander the Great (Pella),115105843]]"
-- "[[_Standards/WikiData/WD~Bust of Alexander, Kozani,115106193]]"
-- "[[_Standards/WikiData/WD~Alexander the Great Memorial, Polykastro,116954315]]"
-- "[[_Standards/WikiData/WD~Equestrian statue of Alexander the Great, Edessa,116954339]]"
-- "[[_Standards/WikiData/WD~Equestrian statue of Alexander the Great, Nea Roda,116954343]]"
-- "[[_Standards/WikiData/WD~Equestrian statue of Alexander the Great (Litochoro),116954340]]"
-- "[[_Standards/WikiData/WD~Memorial to Alexander the Great, Katerini,116954347]]"
-- "[[_Standards/WikiData/WD~Alexander the Great stele, Peristasi,116954375]]"
-- "[[_Standards/WikiData/WD~Alexander the Great from Villa Ludovisi,126287903]]"
+- "[[_Standards/WikiData/WD~Alexander_the_Great_statue,_Thessaloniki,11823111]]"
+- "[[_Standards/WikiData/WD~bust_of_Alexander_the_Great,_Athens,111697968]]"
+- "[[_Standards/WikiData/WD~Relief_Bust_of_Alexander_the_Great,_Papagos,114139028]]"
+- "[[_Standards/WikiData/WD~Bust_of_Alexander_the_Great,_Parikia,114140011]]"
+- "[[_Standards/WikiData/WD~Bust_of_Alexander_the_Great,_Chaidari,114140391]]"
+- "[[_Standards/WikiData/WD~Equestrian_statue_of_Alexander_the_Great,_Giannitsa,115105842]]"
+- "[[_Standards/WikiData/WD~Equestrian_statue_of_Alexander_the_Great_(Pella),115105843]]"
+- "[[_Standards/WikiData/WD~Bust_of_Alexander,_Kozani,115106193]]"
+- "[[_Standards/WikiData/WD~Alexander_the_Great_Memorial,_Polykastro,116954315]]"
+- "[[_Standards/WikiData/WD~Equestrian_statue_of_Alexander_the_Great,_Edessa,116954339]]"
+- "[[_Standards/WikiData/WD~Equestrian_statue_of_Alexander_the_Great,_Nea_Roda,116954343]]"
+- "[[_Standards/WikiData/WD~Equestrian_statue_of_Alexander_the_Great_(Litochoro),116954340]]"
+- "[[_Standards/WikiData/WD~Memorial_to_Alexander_the_Great,_Katerini,116954347]]"
+- "[[_Standards/WikiData/WD~Alexander_the_Great_stele,_Peristasi,116954375]]"
+- "[[_Standards/WikiData/WD~Alexander_the_Great_from_Villa_Ludovisi,126287903]]"
 eye_color:
 - '[[_Standards/WikiData/WD~blue,17122834]]'
 - '[[_Standards/WikiData/WD~black,17244465]]'
 present_in_work:
-- "[[_Standards/WikiData/WD~Vows of the Peacock,17640582]]"
-- "[[_Standards/WikiData/WD~Civilization VI,24050047]]"
-- "[[_Standards/WikiData/WD~Civilization V,2385]]"
+- "[[_Standards/WikiData/WD~Vows_of_the_Peacock,17640582]]"
+- "[[_Standards/WikiData/WD~Civilization_VI,24050047]]"
+- "[[_Standards/WikiData/WD~Civilization_V,2385]]"
 given_name: '[[_Standards/WikiData/WD~Alexandros,19828977]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828658,22828658]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
-different_from: "[[_Standards/WikiData/WD~Pseudo-Alexander the Great,115561503]]"
+different_from: "[[_Standards/WikiData/WD~Pseudo-Alexander_the_Great,115561503]]"
 date_of_birth: "-0355-07-15"
 Commons_gallery: "Alexander the Great"
 Commons_category: "Alexander the Great"
@@ -129,8 +129,8 @@ place_of_death: '[[_Standards/WikiData/WD~Babylon,5684]]'
 noble_title: '[[_Standards/WikiData/WD~king,12097]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 place_of_burial: '[[_Standards/WikiData/WD~Alexandria,87]]'
-writing_language: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+writing_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
 Royal_Academy_new_identifier: alexander
 ---
 

@@ -1,53 +1,53 @@
 ---
 has_id_wikidata: Q11575
 has_use:
-- "[[_Standards/WikiData/WD~medicinal plant,188840]]"
-- "[[_Standards/WikiData/WD~building material,206615]]"
+- "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
+- "[[_Standards/WikiData/WD~building_material,206615]]"
 - '[[_Standards/WikiData/WD~fodder,211439]]'
 - '[[_Standards/WikiData/WD~paste,904216]]'
 - '[[_Standards/WikiData/WD~vegetable,11004]]'
-- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+- "[[_Standards/WikiData/WD~cereal_grain,12117]]"
 - '[[_Standards/WikiData/WD~fiber,161]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~annual plant,192691]]"
-- "[[_Standards/WikiData/WD~useful plant,11992872]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least Concern,211005]]"
+- "[[_Standards/WikiData/WD~annual_plant,192691]]"
+- "[[_Standards/WikiData/WD~useful_plant,11992872]]"
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
 instance_of:
-- "[[_Standards/WikiData/WD~model organism,213907]]"
-- "[[_Standards/WikiData/WD~food crop,31839438]]"
-- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+- "[[_Standards/WikiData/WD~model_organism,213907]]"
+- "[[_Standards/WikiData/WD~food_crop,31839438]]"
+- "[[_Standards/WikiData/WD~cereal_grain,12117]]"
 - '[[_Standards/WikiData/WD~taxon,16521]]'
 has_fruit_type: '[[_Standards/WikiData/WD~caryopsis,506139]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Flora of the Lesser Antilles, Leeward and Windward Islands,10878728]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
-- "[[_Standards/WikiData/WD~Flora Reipublicae Popularis Sinicae, volume 10(2),112869382]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+- "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_10(2),112869382]]"
 this_taxon_is_source_of:
-- "[[_Standards/WikiData/WD~corn oil,856775]]"
+- "[[_Standards/WikiData/WD~corn_oil,856775]]"
 - '[[_Standards/WikiData/WD~corncob,1885918]]'
-- "[[_Standards/WikiData/WD~corn starch,3393961]]"
-- "[[_Standards/WikiData/WD~corn kernel,3936020]]"
-- "[[_Standards/WikiData/WD~corn stover,12208391]]"
+- "[[_Standards/WikiData/WD~corn_starch,3393961]]"
+- "[[_Standards/WikiData/WD~corn_kernel,3936020]]"
+- "[[_Standards/WikiData/WD~corn_stover,12208391]]"
 - '[[_Standards/WikiData/WD~maize,25618328]]'
-- "[[_Standards/WikiData/WD~corn husks,91518598]]"
-- "[[_Standards/WikiData/WD~maize straw,111146316]]"
-award_received: "[[_Standards/WikiData/WD~Vegetable of the year,1344055]]"
+- "[[_Standards/WikiData/WD~corn_husks,91518598]]"
+- "[[_Standards/WikiData/WD~maize_straw,111146316]]"
+award_received: "[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]"
 has_part_s_: '[[_Standards/WikiData/WD~corncob,1885918]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25634218,25634218]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Invasion Biology,56241615]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
-parent_taxon: "[[_Standards/WikiData/WD~Zea sect. Zea,114560957]]"
+parent_taxon: "[[_Standards/WikiData/WD~Zea_sect._Zea,114560957]]"
 UMLS_CUI: C0010028
 Baidu_Tieba_name: 玉米
 taxon_common_name:
@@ -152,8 +152,8 @@ MeSH_tree_code: B01.875.800.575.912.250.822.966
 taxon_range:
 - '[[_Standards/WikiData/WD~Beijing,956]]'
 - '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Fujian,41705]]'
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 water_footprint:

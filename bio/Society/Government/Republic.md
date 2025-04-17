@@ -1,17 +1,17 @@
 ﻿---
 has_id_wikidata: Q7270
 instance_of:
-- "[[_Standards/WikiData/WD~form of state,183039]]"
-- "[[_Standards/WikiData/WD~form of government,1307214]]"
+- "[[_Standards/WikiData/WD~form_of_state,183039]]"
+- "[[_Standards/WikiData/WD~form_of_government,1307214]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 different_from: '[[_Standards/WikiData/WD~Republika,1769193]]'
-named_after: "[[_Standards/WikiData/WD~Res publica,1994847]]"
+named_after: "[[_Standards/WikiData/WD~Res_publica,1994847]]"
 subclass_of: '[[_Standards/WikiData/WD~regime,5589178]]'
-has_list: "[[_Standards/WikiData/WD~list of republics,6636489]]"
-opposite_of: "[[_Standards/WikiData/WD~monarchic system,22676587]]"
+has_list: "[[_Standards/WikiData/WD~list_of_republics,6636489]]"
+opposite_of: "[[_Standards/WikiData/WD~monarchic_system,22676587]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Forms%20of%20government.svg"
 U_S_National_Archives_Identifier: 10644306
 OmegaWiki_Defined_Meaning: 154847

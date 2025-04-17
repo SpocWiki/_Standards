@@ -1,25 +1,25 @@
 ﻿---
 has_id_wikidata: Q290
 different_from:
-- "[[_Standards/WikiData/WD~grammatical gender,162378]]"
+- "[[_Standards/WikiData/WD~grammatical_gender,162378]]"
 - '[[_Standards/WikiData/WD~floor,217164]]'
 - '[[_Standards/WikiData/WD~Sex,225833]]'
-- "[[_Standards/WikiData/WD~connector gender,5531000]]"
+- "[[_Standards/WikiData/WD~connector_gender,5531000]]"
 - '[[_Standards/WikiData/WD~Geslacht,11054337]]'
 - '[[_Standards/WikiData/WD~Geschlecht,121080710]]'
-- "[[_Standards/WikiData/WD~human sexual behavior,608]]"
-- "[[_Standards/WikiData/WD~sexual intercourse,5873]]"
+- "[[_Standards/WikiData/WD~human_sexual_behavior,608]]"
+- "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
 - '[[_Standards/WikiData/WD~gender,48277]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 partially_coincident_with:
-- "[[_Standards/WikiData/WD~sex of humans,4369513]]"
-- "[[_Standards/WikiData/WD~genetic sex,126193261]]"
-- "[[_Standards/WikiData/WD~anatomical sex,126193284]]"
-- "[[_Standards/WikiData/WD~gender identity,48264]]"
+- "[[_Standards/WikiData/WD~sex_of_humans,4369513]]"
+- "[[_Standards/WikiData/WD~genetic_sex,126193261]]"
+- "[[_Standards/WikiData/WD~anatomical_sex,126193284]]"
+- "[[_Standards/WikiData/WD~gender_identity,48264]]"
 - '[[_Standards/WikiData/WD~gender,48277]]'
 subclass_of: '[[_Standards/WikiData/WD~role,4897819]]'
 pronunciation_audio:
@@ -27,15 +27,15 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A7%88%E0%A6%AC%E0%A6%BF%E0%A6%95%20%E0%A6%B2%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97.wav"
 MeSH_tree_code: G08.686.810
 Krugosvet_article: nauka_i_tehnika/biologiya/POL.html
-part_of: "[[_Standards/WikiData/WD~sex or gender,18382802]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+part_of: "[[_Standards/WikiData/WD~sex_or_gender,18382802]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Sex (biology),24379920]]"
-- "[[_Standards/WikiData/WD~Template_Sex sidebar,25733581]]"
-instance_of: "[[_Standards/WikiData/WD~medical attribute,44476427]]"
+- "[[_Standards/WikiData/WD~Template_Sex_(biology),24379920]]"
+- "[[_Standards/WikiData/WD~Template_Sex_sidebar,25733581]]"
+instance_of: "[[_Standards/WikiData/WD~medical_attribute,44476427]]"
 model_item:
-- "[[_Standards/WikiData/WD~genetic sex,126193261]]"
-- "[[_Standards/WikiData/WD~anatomical sex,126193284]]"
+- "[[_Standards/WikiData/WD~genetic_sex,126193261]]"
+- "[[_Standards/WikiData/WD~anatomical_sex,126193284]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cromosomas%20X-Y%20y%20gametos.jpg"
 exact_match: "https://w3id.org/italia/onto/CPV/Sex"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Sex%20%28spoken%20by%20AI%20voice%29.mp3"

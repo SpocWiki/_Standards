@@ -10,10 +10,10 @@ occupation:
 - '[[_Standards/WikiData/WD~playwright,214917]]'
 - '[[_Standards/WikiData/WD~accountant,326653]]'
 - '[[_Standards/WikiData/WD~lyricist,822146]]'
-- "[[_Standards/WikiData/WD~tax collector,1139055]]"
+- "[[_Standards/WikiData/WD~tax_collector,1139055]]"
 - '[[_Standards/WikiData/WD~soldier,4991371]]'
 - '[[_Standards/WikiData/WD~novelist,6625963]]'
-place_of_birth: "[[_Standards/WikiData/WD~Alcalá de Henares,46940]]"
+place_of_birth: "[[_Standards/WikiData/WD~Alcalá_de_Henares,46940]]"
 ArhivX_LOD: 20638
 genre:
 - '[[_Standards/WikiData/WD~tragedy,80930]]'
@@ -21,64 +21,64 @@ genre:
 - '[[_Standards/WikiData/WD~poetry,482]]'
 ethnic_group: '[[_Standards/WikiData/WD~Spaniards,160894]]'
 influenced_by:
-- "[[_Standards/WikiData/WD~Lope de Vega,165257]]"
-- "[[_Standards/WikiData/WD~Garcilaso de la Vega,311405]]"
-- "[[_Standards/WikiData/WD~Heliodorus of Emesa,313011]]"
-- "[[_Standards/WikiData/WD~Amadis de Gaula,452075]]"
-- "[[_Standards/WikiData/WD~Guzmán de Alfarache,1215261]]"
+- "[[_Standards/WikiData/WD~Lope_de_Vega,165257]]"
+- "[[_Standards/WikiData/WD~Garcilaso_de_la_Vega,311405]]"
+- "[[_Standards/WikiData/WD~Heliodorus_of_Emesa,313011]]"
+- "[[_Standards/WikiData/WD~Amadis_de_Gaula,452075]]"
+- "[[_Standards/WikiData/WD~Guzmán_de_Alfarache,1215261]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
-- "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
-- "[[_Standards/WikiData/WD~The Nelson-Atkins Museum of Art,1976985]]"
-- "[[_Standards/WikiData/WD~Royal Collections of the Netherlands,50632603]]"
-- "[[_Standards/WikiData/WD~Geldersch Landschap en Kasteelen,98904445]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Crown of Castile,217196]]"
+- "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
+- "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
+- "[[_Standards/WikiData/WD~The_Nelson-Atkins_Museum_of_Art,1976985]]"
+- "[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]"
+- "[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Crown_of_Castile,217196]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Iedereen Leest,41981607]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 educated_at:
-- "[[_Standards/WikiData/WD~University of Salamanca,308963]]"
-- "[[_Standards/WikiData/WD~Estudio de la Villa,5849846]]"
+- "[[_Standards/WikiData/WD~University_of_Salamanca,308963]]"
+- "[[_Standards/WikiData/WD~Estudio_de_la_Villa,5849846]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Exemplary Novels,555699]]"
-- "[[_Standards/WikiData/WD~Don Quixote,480]]"
-movement: "[[_Standards/WikiData/WD~Renaissance literature,1781608]]"
+- "[[_Standards/WikiData/WD~Exemplary_Novels,555699]]"
+- "[[_Standards/WikiData/WD~Don_Quixote,480]]"
+movement: "[[_Standards/WikiData/WD~Renaissance_literature,1781608]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~military affairs,1791716]]"
+- "[[_Standards/WikiData/WD~military_affairs,1791716]]"
 - '[[_Standards/WikiData/WD~fiction,8253972]]'
 - '[[_Standards/WikiData/WD~literature,8242]]'
 - '[[_Standards/WikiData/WD~theatre,11635]]'
-cause_of_death: "[[_Standards/WikiData/WD~type 2 diabetes,3025883]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-place_of_burial: "[[_Standards/WikiData/WD~convent of the Barefoot Trinitarians,5166200]]"
-writing_language: "[[_Standards/WikiData/WD~Early Modern Spanish,5364419]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Early Modern Spanish,5364419]]"
-native_language: "[[_Standards/WikiData/WD~Early Modern Spanish,5364419]]"
-father: "[[_Standards/WikiData/WD~Rodrigo de Cervantes,6110848]]"
+cause_of_death: "[[_Standards/WikiData/WD~type_2_diabetes,3025883]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+place_of_burial: "[[_Standards/WikiData/WD~convent_of_the_Barefoot_Trinitarians,5166200]]"
+writing_language: "[[_Standards/WikiData/WD~Early_Modern_Spanish,5364419]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Early_Modern_Spanish,5364419]]"
+native_language: "[[_Standards/WikiData/WD~Early_Modern_Spanish,5364419]]"
+father: "[[_Standards/WikiData/WD~Rodrigo_de_Cervantes,6110848]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Miguel,15620295]]'
-mother: "[[_Standards/WikiData/WD~Leonor de Cortinas,16303005]]"
+mother: "[[_Standards/WikiData/WD~Leonor_de_Cortinas,16303005]]"
 second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Saavedra,16882453]]'
-child: "[[_Standards/WikiData/WD~Isabel de Saavedra,17276367]]"
+child: "[[_Standards/WikiData/WD~Isabel_de_Saavedra,17276367]]"
 list_of_works: '[[_Standards/WikiData/WD~Q20388037,20388037]]'
-spouse: "[[_Standards/WikiData/WD~Catalina de Salazar y Palacios,22087399]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Ana de Villafranca y Rojas,50557989]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+spouse: "[[_Standards/WikiData/WD~Catalina_de_Salazar_y_Palacios,22087399]]"
+unmarried_partner: "[[_Standards/WikiData/WD~Ana_de_Villafranca_y_Rojas,50557989]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 studied_in: '[[_Standards/WikiData/WD~Q89031952,89031952]]'
-artist_files_at: "[[_Standards/WikiData/WD~Philadelphia Museum of Art Library and Archives,89574171]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen Leest,101246526]]"
-family_name: "[[_Standards/WikiData/WD~de Cervantes,101439484]]"
-depicted_by: "[[_Standards/WikiData/WD~Statue of Miguel Cervantes, Naupactus,114139842]]"
+artist_files_at: "[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art_Library_and_Archives,89574171]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]"
+family_name: "[[_Standards/WikiData/WD~de_Cervantes,101439484]]"
+depicted_by: "[[_Standards/WikiData/WD~Statue_of_Miguel_Cervantes,_Naupactus,114139842]]"
 date_of_death: "1616-04-22"
 NLC_authorities: 000061136
 ISNI: 0000000121221919
@@ -87,7 +87,7 @@ plaque_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Geburtshaus%20Cervantes%20Tafel.jpg"
 place_of_death: '[[_Standards/WikiData/WD~Madrid,2807]]'
 place_of_detention: '[[_Standards/WikiData/WD~Algiers,3561]]'
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic Church,9592]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
 Commons_gallery: "Miguel de Cervantes"
 Commons_category: "Miguel de Cervantes"
 Commons_Creator_page: "Miguel de Cervantes"

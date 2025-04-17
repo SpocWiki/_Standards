@@ -11,10 +11,10 @@ properties_for_this_type:
 has_cause:
 - '[[_Standards/WikiData/WD~suicide,10737]]'
 - '[[_Standards/WikiData/WD~homicide,149086]]'
-- "[[_Standards/WikiData/WD~cause of death,1931388]]"
+- "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
 facet_of:
 - '[[_Standards/WikiData/WD~life,3]]'
-- "[[_Standards/WikiData/WD~development of the human body,2347178]]"
+- "[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]"
 Dewey_Decimal_Classification:
 - 393
 - 306.9
@@ -38,48 +38,48 @@ instance_of:
 - '[[_Standards/WikiData/WD~concept,151885]]'
 - '[[_Standards/WikiData/WD~property,937228]]'
 - '[[_Standards/WikiData/WD~end,12769393]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~brain death,223867]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~brain_death,223867]]"
 has_immediate_cause:
 - '[[_Standards/WikiData/WD~dying,267505]]'
-- "[[_Standards/WikiData/WD~clinical death,1989450]]"
+- "[[_Standards/WikiData/WD~clinical_death,1989450]]"
 different_from:
 - '[[_Standards/WikiData/WD~Death,393832]]'
 - '[[_Standards/WikiData/WD~Tod,405101]]'
 - '[[_Standards/WikiData/WD~Maut,1911820]]'
 - '[[_Standards/WikiData/WD~Döden,19526941]]'
 studied_in:
-- "[[_Standards/WikiData/WD~medical jurisprudence,454812]]"
+- "[[_Standards/WikiData/WD~medical_jurisprudence,454812]]"
 - '[[_Standards/WikiData/WD~thanatology,620462]]'
-- "[[_Standards/WikiData/WD~sociology of death,1712831]]"
-- "[[_Standards/WikiData/WD~philosophy of death,113540506]]"
+- "[[_Standards/WikiData/WD~sociology_of_death,1712831]]"
+- "[[_Standards/WikiData/WD~philosophy_of_death,113540506]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of: '[[_Standards/WikiData/WD~occurrence,1190554]]'
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~cause of death,1931388]]"
-- "[[_Standards/WikiData/WD~manner of death,2438541]]"
-- "[[_Standards/WikiData/WD~place of death,18658526]]"
-- "[[_Standards/WikiData/WD~date of death,18748141]]"
+- "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
+- "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
+- "[[_Standards/WikiData/WD~place_of_death,18658526]]"
+- "[[_Standards/WikiData/WD~date_of_death,18748141]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~cause of death,1931388]]"
-- "[[_Standards/WikiData/WD~manner of death,2438541]]"
+- "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
+- "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~cell death,2383867]]"
-- "[[_Standards/WikiData/WD~single-organism process,22269530]]"
-- "[[_Standards/WikiData/WD~multi-organism process,22269697]]"
-- "[[_Standards/WikiData/WD~philosophy of death,113540506]]"
+- "[[_Standards/WikiData/WD~cell_death,2383867]]"
+- "[[_Standards/WikiData/WD~single-organism_process,22269530]]"
+- "[[_Standards/WikiData/WD~multi-organism_process,22269697]]"
+- "[[_Standards/WikiData/WD~philosophy_of_death,113540506]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Death,10728979]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Death,11109938]]'
 opposite_of: '[[_Standards/WikiData/WD~birth,14819852]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of death,25047919]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_death,25047919]]"
 has_effect: '[[_Standards/WikiData/WD~dead,83978562]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dead%20dog%20in%20Ulaanbaatar.jpg"
 pronunciation_audio:

@@ -4,24 +4,24 @@ aliases:
 - "Lao Tzu"
 - Laotse
 has_id_wikidata: Q9333
-notable_work: "[[_Standards/WikiData/WD~Tao Te Ching,134425]]"
+notable_work: "[[_Standards/WikiData/WD~Tao_Te_Ching,134425]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~Chinese philosophy,184663]]"
+- "[[_Standards/WikiData/WD~Chinese_philosophy,184663]]"
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Records of the Grand Historian,272530]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 movement:
-- "[[_Standards/WikiData/WD~Eastern philosophy,307043]]"
-- "[[_Standards/WikiData/WD~Hundred Schools of Thought,864947]]"
+- "[[_Standards/WikiData/WD~Eastern_philosophy,307043]]"
+- "[[_Standards/WikiData/WD~Hundred_Schools_of_Thought,864947]]"
 - '[[_Standards/WikiData/WD~Taoism,9598]]'
 place_of_birth: '[[_Standards/WikiData/WD~Chu,504759]]'
 occupation:
@@ -31,16 +31,16 @@ occupation:
 - '[[_Standards/WikiData/WD~writer,36180]]'
 family_name: '[[_Standards/WikiData/WD~Li,686223]]'
 said_to_be_the_same_as:
-- "[[_Standards/WikiData/WD~Daode Tianzun,1154683]]"
+- "[[_Standards/WikiData/WD~Daode_Tianzun,1154683]]"
 - '[[_Standards/WikiData/WD~Danzi,109345356]]'
-different_from: "[[_Standards/WikiData/WD~Lao Laizi,1799327]]"
+different_from: "[[_Standards/WikiData/WD~Lao_Laizi,1799327]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-father: "[[_Standards/WikiData/WD~kim jong-un,6781701]]"
+father: "[[_Standards/WikiData/WD~kim_jong-un,6781701]]"
 instance_of:
-- "[[_Standards/WikiData/WD~human whose existence is disputed,21070568]]"
+- "[[_Standards/WikiData/WD~human_whose_existence_is_disputed,21070568]]"
 - '[[_Standards/WikiData/WD~human,5]]'
-child: "[[_Standards/WikiData/WD~Li Zong,22813524]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+child: "[[_Standards/WikiData/WD~Li_Zong,22813524]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 given_name: '[[_Standards/WikiData/WD~Er,96181790]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116819358,116819358]]'
 ISNI: 0000000447219093
@@ -49,8 +49,8 @@ Library_of_Congress_Classification: BL1930
 name_in_native_language: tilin
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Chinese,7850]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Taoism,9598]]'
-place_of_death: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Zhou dynasty,35216]]"
+place_of_death: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Zhou_dynasty,35216]]"
 courtesy_name:
 - 伯陽
 - 伯阳

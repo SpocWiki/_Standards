@@ -1,30 +1,30 @@
 ﻿---
 has_id_wikidata: Q7891
 has_part_s_:
-- "[[_Standards/WikiData/WD~nasal cavity,156104]]"
+- "[[_Standards/WikiData/WD~nasal_cavity,156104]]"
 - '[[_Standards/WikiData/WD~pharynx,174778]]'
 - '[[_Standards/WikiData/WD~trachea,175449]]'
 - '[[_Standards/WikiData/WD~bronchus,181602]]'
-- "[[_Standards/WikiData/WD~respiratory tract,13400765]]"
+- "[[_Standards/WikiData/WD~respiratory_tract,13400765]]"
 - '[[_Standards/WikiData/WD~lung,7886]]'
 - '[[_Standards/WikiData/WD~larynx,9637]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~organ system,188193]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+- "[[_Standards/WikiData/WD~organ_system,188193]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-produced_sound: "[[_Standards/WikiData/WD~respiratory sound,779038]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+produced_sound: "[[_Standards/WikiData/WD~respiratory_sound,779038]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Lower respiratory system anatomy,10522033]]"
+- "[[_Standards/WikiData/WD~Template_Lower_respiratory_system_anatomy,10522033]]"
 - '[[_Standards/WikiData/WD~Q25720347,25720347]]'
 - '[[_Standards/WikiData/WD~Q125741688,125741688]]'
 instance_of:
-- "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
-- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-part_of: "[[_Standards/WikiData/WD~circulatory system,11068]]"
+- "[[_Standards/WikiData/WD~anatomical_system_type,104027169]]"
+- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+part_of: "[[_Standards/WikiData/WD~circulatory_system,11068]]"
 MeSH_tree_code: A04
 Commons_category: "Respiratory system"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Respiratory%20system%20complete%20en.svg"

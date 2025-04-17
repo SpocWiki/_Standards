@@ -8,7 +8,7 @@ noble_title:
 - '[[_Standards/WikiData/WD~Bey,181217]]'
 - '[[_Standards/WikiData/WD~Mirza,12269708]]'
 position_held: '[[_Standards/WikiData/WD~Amir,166382]]'
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Archives nationales,182542]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Archives_nationales,182542]]"
 allegiance:
 - '[[_Standards/WikiData/WD~khagan,187878]]'
 - '[[_Standards/WikiData/WD~Mirza,12269708]]'
@@ -16,35 +16,35 @@ military_or_police_rank:
 - '[[_Standards/WikiData/WD~khagan,187878]]'
 - '[[_Standards/WikiData/WD~Baig,3683091]]'
 - '[[_Standards/WikiData/WD~Mirza,12269708]]'
-religion_or_worldview: "[[_Standards/WikiData/WD~Sunni Islam,483654]]"
-time_period: "[[_Standards/WikiData/WD~Timurid Empire,484195]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
+time_period: "[[_Standards/WikiData/WD~Timurid_Empire,484195]]"
 child:
-- "[[_Standards/WikiData/WD~Shah Rukh,553204]]"
-- "[[_Standards/WikiData/WD~Miran Shah,936616]]"
-- "[[_Standards/WikiData/WD~Jahangir Mirza ibn Timur,4139069]]"
-- "[[_Standards/WikiData/WD~Aka Begi,4449521]]"
-- "[[_Standards/WikiData/WD~Umar Shaikh,4475316]]"
-- "[[_Standards/WikiData/WD~Jahanshah Mirza,131823659]]"
+- "[[_Standards/WikiData/WD~Shah_Rukh,553204]]"
+- "[[_Standards/WikiData/WD~Miran_Shah,936616]]"
+- "[[_Standards/WikiData/WD~Jahangir_Mirza_ibn_Timur,4139069]]"
+- "[[_Standards/WikiData/WD~Aka_Begi,4449521]]"
+- "[[_Standards/WikiData/WD~Umar_Shaikh,4475316]]"
+- "[[_Standards/WikiData/WD~Jahanshah_Mirza,131823659]]"
 place_of_birth: '[[_Standards/WikiData/WD~Shahrisabz,569766]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New History of Yuan,1053256]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 spouse:
-- "[[_Standards/WikiData/WD~Saray Malik Katun,734418]]"
-- "[[_Standards/WikiData/WD~Uljay-Turkan aga,4474916]]"
-- "[[_Standards/WikiData/WD~Dilshad aga,12821413]]"
-- "[[_Standards/WikiData/WD~Cholpan-Mulk Aga,25525265]]"
+- "[[_Standards/WikiData/WD~Saray_Malik_Katun,734418]]"
+- "[[_Standards/WikiData/WD~Uljay-Turkan_aga,4474916]]"
+- "[[_Standards/WikiData/WD~Dilshad_aga,12821413]]"
+- "[[_Standards/WikiData/WD~Cholpan-Mulk_Aga,25525265]]"
 place_of_death: '[[_Standards/WikiData/WD~Otrar,956911]]'
 occupation: '[[_Standards/WikiData/WD~warrior,1250916]]'
-place_of_burial: "[[_Standards/WikiData/WD~Gur-e Amir,1256223]]"
-replaced_by: "[[_Standards/WikiData/WD~Khalil Sultan,1367188]]"
+place_of_burial: "[[_Standards/WikiData/WD~Gur-e_Amir,1256223]]"
+replaced_by: "[[_Standards/WikiData/WD~Khalil_Sultan,1367188]]"
 languages_spoken_written_or_signed:
-- "[[_Standards/WikiData/WD~Middle Mongolian,2582455]]"
+- "[[_Standards/WikiData/WD~Middle_Mongolian,2582455]]"
 - '[[_Standards/WikiData/WD~Persian,9168]]'
 - '[[_Standards/WikiData/WD~Chagatai,36831]]'
 medical_condition: '[[_Standards/WikiData/WD~limp,2909116]]'
@@ -57,9 +57,9 @@ Krugosvet_article: istoriya/TIMUR.html
 Commons_gallery: Tamerlan
 Libris_URI: xv8bf2kg2m0d860
 given_name: '[[_Standards/WikiData/WD~Timur,12376986]]'
-family: "[[_Standards/WikiData/WD~Timurid dynasty,20737645]]"
-mother: "[[_Standards/WikiData/WD~Tekina Khatun,108091442]]"
-participant_in: "[[_Standards/WikiData/WD~Timur's Counter Siege,118957290]]"
+family: "[[_Standards/WikiData/WD~Timurid_dynasty,20737645]]"
+mother: "[[_Standards/WikiData/WD~Tekina_Khatun,108091442]]"
+participant_in: "[[_Standards/WikiData/WD~Timur's_Counter_Siege,118957290]]"
 date_of_birth:
 - "1336-04-17"
 - "1336-04-16"

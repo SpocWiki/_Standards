@@ -6,29 +6,29 @@ Krugosvet_article: nauka_i_tehnika/himiya/GALLI.html
 made_from_material:
 - '[[_Standards/WikiData/WD~bauxite,102078]]'
 - '[[_Standards/WikiData/WD~gallite,411230]]'
-- "[[_Standards/WikiData/WD~zinc ore,12168819]]"
+- "[[_Standards/WikiData/WD~zinc_ore,12168819]]"
 different_from: '[[_Standards/WikiData/WD~Gal,141487]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 13,189294]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile Lecoq de Boisbaudran,366827]]"
+- "[[_Standards/WikiData/WD~group_13,189294]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 - '[[_Standards/WikiData/WD~Gallium,84658438]]'
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 has_effect: '[[_Standards/WikiData/WD~embrittlement,2919530]]'
 UMLS_CUI: C0016980
 time_of_discovery_or_invention: "1875"
 Common_Procurement_Vocabulary_code:
 - 14762000-0
 - 14762000
-subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 oxidation_state:
 - 1
 - 2

@@ -7,10 +7,10 @@ has_cause:
 partially_coincident_with:
 - '[[_Standards/WikiData/WD~experience,164359]]'
 - '[[_Standards/WikiData/WD~understanding,46744]]'
-used_by: "[[_Standards/WikiData/WD~knowledge management,192060]]"
+used_by: "[[_Standards/WikiData/WD~knowledge_management,192060]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 different_from:
 - '[[_Standards/WikiData/WD~Knowledge,405996]]'
 - '[[_Standards/WikiData/WD~Kila,417266]]'
@@ -20,19 +20,19 @@ contributing_factor_of:
 - '[[_Standards/WikiData/WD~understanding,46744]]'
 opposite_of: '[[_Standards/WikiData/WD~ignorance,815577]]'
 studied_in:
-- "[[_Standards/WikiData/WD~sociology of knowledge,847486]]"
-- "[[_Standards/WikiData/WD~theory of knowledge,116930361]]"
+- "[[_Standards/WikiData/WD~sociology_of_knowledge,847486]]"
+- "[[_Standards/WikiData/WD~theory_of_knowledge,116930361]]"
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 - '[[_Standards/WikiData/WD~epistemology,9471]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~certainty,1520777]]'
 has_characteristic:
-- "[[_Standards/WikiData/WD~knowledge environment,6423374]]"
-- "[[_Standards/WikiData/WD~limits of knowledge,20921244]]"
-- "[[_Standards/WikiData/WD~knowledge type,110403031]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of knowledge,7112676]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of knowledge,16929577]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~philosophical concept,33104279]]"
+- "[[_Standards/WikiData/WD~knowledge_environment,6423374]]"
+- "[[_Standards/WikiData/WD~limits_of_knowledge,20921244]]"
+- "[[_Standards/WikiData/WD~knowledge_type,110403031]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_knowledge,7112676]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_knowledge,16929577]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
 subclass_of: '[[_Standards/WikiData/WD~memory,104127086]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117833695,117833695]]'
 UMLS_CUI: C0376553

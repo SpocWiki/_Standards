@@ -2,33 +2,33 @@
 has_id_wikidata: Q7272
 Commons_category: Socialism
 instance_of:
-- "[[_Standards/WikiData/WD~economic system,273005]]"
-- "[[_Standards/WikiData/WD~social formation,1641112]]"
-- "[[_Standards/WikiData/WD~political ideology,12909644]]"
-- "[[_Standards/WikiData/WD~social movement,49773]]"
+- "[[_Standards/WikiData/WD~economic_system,273005]]"
+- "[[_Standards/WikiData/WD~social_formation,1641112]]"
+- "[[_Standards/WikiData/WD~political_ideology,12909644]]"
+- "[[_Standards/WikiData/WD~social_movement,49773]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 subclass_of: '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Socialism,6173104]]'
-- "[[_Standards/WikiData/WD~Template_Socialism by state,8006697]]"
-- "[[_Standards/WikiData/WD~Template_Socialism sidebar,13107357]]"
+- "[[_Standards/WikiData/WD~Template_Socialism_by_state,8006697]]"
+- "[[_Standards/WikiData/WD~Template_Socialism_sidebar,13107357]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Socialism,8438481]]'
 practiced_by: '[[_Standards/WikiData/WD~socialist,12718544]]'
-has_characteristic: "[[_Standards/WikiData/WD~type of socialism,17166135]]"
+has_characteristic: "[[_Standards/WikiData/WD~type_of_socialism,17166135]]"
 different_from: '[[_Standards/WikiData/WD~Socjalizm,19167949]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of socialism,39087403]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_socialism,39087403]]"
 UMLS_CUI: C0037446
 MeSH_tree_code: I01.696.798
 Dewey_Decimal_Classification:

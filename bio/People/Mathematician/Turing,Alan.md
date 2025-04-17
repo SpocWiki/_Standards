@@ -4,72 +4,72 @@ aliases:
 - "Alan Mathison Turing"
 has_id_wikidata: Q7251
 occupation:
-- "[[_Standards/WikiData/WD~computer scientist,82594]]"
+- "[[_Standards/WikiData/WD~computer_scientist,82594]]"
 - '[[_Standards/WikiData/WD~cryptographer,15442776]]'
-student_of: "[[_Standards/WikiData/WD~Alonzo Church,92741]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Alonzo Church,92741]]"
+student_of: "[[_Standards/WikiData/WD~Alonzo_Church,92741]]"
+doctoral_advisor: "[[_Standards/WikiData/WD~Alonzo_Church,92741]]"
 residence:
-- "[[_Standards/WikiData/WD~Maida Vale,122744]]"
+- "[[_Standards/WikiData/WD~Maida_Vale,122744]]"
 - '[[_Standards/WikiData/WD~Guildford,213465]]'
-place_of_birth: "[[_Standards/WikiData/WD~Maida Vale,122744]]"
-member_of: "[[_Standards/WikiData/WD~Royal Society,123885]]"
+place_of_birth: "[[_Standards/WikiData/WD~Maida_Vale,122744]]"
+member_of: "[[_Standards/WikiData/WD~Royal_Society,123885]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Turing machine,163310]]"
-- "[[_Standards/WikiData/WD~Turing test,189223]]"
-- "[[_Standards/WikiData/WD~Turing completeness,197970]]"
-- "[[_Standards/WikiData/WD~Church-Turing thesis,309157]]"
+- "[[_Standards/WikiData/WD~Turing_machine,163310]]"
+- "[[_Standards/WikiData/WD~Turing_test,189223]]"
+- "[[_Standards/WikiData/WD~Turing_completeness,197970]]"
+- "[[_Standards/WikiData/WD~Church-Turing_thesis,309157]]"
 - '[[_Standards/WikiData/WD~Bombe,480476]]'
-- "[[_Standards/WikiData/WD~halting problem,622849]]"
-- "[[_Standards/WikiData/WD~Computing Machinery and Intelligence,772056]]"
-- "[[_Standards/WikiData/WD~non-deterministic Turing machine,1190223]]"
-- "[[_Standards/WikiData/WD~probabilistic Turing machine,1191836]]"
-- "[[_Standards/WikiData/WD~Turing degree,1527413]]"
-- "[[_Standards/WikiData/WD~universal Turing machine,2703890]]"
-- "[[_Standards/WikiData/WD~Symmetric Turing machine,7661303]]"
-- "[[_Standards/WikiData/WD~On Computable Numbers, with an Application to the Entscheidungsproblem,20895949]]"
-- "[[_Standards/WikiData/WD~Intelligent Machinery,20895966]]"
+- "[[_Standards/WikiData/WD~halting_problem,622849]]"
+- "[[_Standards/WikiData/WD~Computing_Machinery_and_Intelligence,772056]]"
+- "[[_Standards/WikiData/WD~non-deterministic_Turing_machine,1190223]]"
+- "[[_Standards/WikiData/WD~probabilistic_Turing_machine,1191836]]"
+- "[[_Standards/WikiData/WD~Turing_degree,1527413]]"
+- "[[_Standards/WikiData/WD~universal_Turing_machine,2703890]]"
+- "[[_Standards/WikiData/WD~Symmetric_Turing_machine,7661303]]"
+- "[[_Standards/WikiData/WD~On_Computable_Numbers,_with_an_Application_to_the_Entscheidungsproblem,20895949]]"
+- "[[_Standards/WikiData/WD~Intelligent_Machinery,20895966]]"
 medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
 employer:
-- "[[_Standards/WikiData/WD~Government Communications Headquarters,220798]]"
-- "[[_Standards/WikiData/WD~Victoria University of Manchester,867530]]"
-- "[[_Standards/WikiData/WD~National Physical Laboratory (United Kingdom),1967606]]"
-- "[[_Standards/WikiData/WD~University of Cambridge,35794]]"
-student: "[[_Standards/WikiData/WD~Robin Gandy,249984]]"
+- "[[_Standards/WikiData/WD~Government_Communications_Headquarters,220798]]"
+- "[[_Standards/WikiData/WD~Victoria_University_of_Manchester,867530]]"
+- "[[_Standards/WikiData/WD~National_Physical_Laboratory_(United_Kingdom),1967606]]"
+- "[[_Standards/WikiData/WD~University_of_Cambridge,35794]]"
+student: "[[_Standards/WikiData/WD~Robin_Gandy,249984]]"
 doctoral_student:
-- "[[_Standards/WikiData/WD~Robin Gandy,249984]]"
-- "[[_Standards/WikiData/WD~Beatrice Helen Worsley,16493]]"
+- "[[_Standards/WikiData/WD~Robin_Gandy,249984]]"
+- "[[_Standards/WikiData/WD~Beatrice_Helen_Worsley,16493]]"
 given_name: '[[_Standards/WikiData/WD~Alan,294833]]'
-influenced_by: "[[_Standards/WikiData/WD~Max Newman,707155]]"
+influenced_by: "[[_Standards/WikiData/WD~Max_Newman,707155]]"
 interested_in:
-- "[[_Standards/WikiData/WD~foundations of mathematics,833585]]"
-- "[[_Standards/WikiData/WD~mathematical logic,1166618]]"
-- "[[_Standards/WikiData/WD~artificial intelligence,11660]]"
-cause_of_death: "[[_Standards/WikiData/WD~cyanide poisoning,883082]]"
+- "[[_Standards/WikiData/WD~foundations_of_mathematics,833585]]"
+- "[[_Standards/WikiData/WD~mathematical_logic,1166618]]"
+- "[[_Standards/WikiData/WD~artificial_intelligence,11660]]"
+cause_of_death: "[[_Standards/WikiData/WD~cyanide_poisoning,883082]]"
 field_of_work:
 - '[[_Standards/WikiData/WD~cryptanalysis,897511]]'
 - '[[_Standards/WikiData/WD~mathematics,395]]'
 - '[[_Standards/WikiData/WD~logic,8078]]'
 - '[[_Standards/WikiData/WD~cryptography,8789]]'
-- "[[_Standards/WikiData/WD~computer science,21198]]"
+- "[[_Standards/WikiData/WD~computer_science,21198]]"
 educated_at:
-- "[[_Standards/WikiData/WD~King's College,924289]]"
-- "[[_Standards/WikiData/WD~Sherborne School,2278254]]"
-- "[[_Standards/WikiData/WD~Hazlehurst Community Primary School,66135280]]"
-- "[[_Standards/WikiData/WD~Princeton University,21578]]"
+- "[[_Standards/WikiData/WD~King's_College,924289]]"
+- "[[_Standards/WikiData/WD~Sherborne_School,2278254]]"
+- "[[_Standards/WikiData/WD~Hazlehurst_Community_Primary_School,66135280]]"
+- "[[_Standards/WikiData/WD~Princeton_University,21578]]"
 award_received:
-- "[[_Standards/WikiData/WD~Smith's Prize,1690167]]"
-- "[[_Standards/WikiData/WD~Officer of the Order of the British Empire,10762848]]"
-- "[[_Standards/WikiData/WD~Fellow of the Royal Society,15631401]]"
+- "[[_Standards/WikiData/WD~Smith's_Prize,1690167]]"
+- "[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]"
+- "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
 place_of_death: '[[_Standards/WikiData/WD~Wilmslow,2011497]]'
 archives_at:
-- "[[_Standards/WikiData/WD~Sherborne School,2278254]]"
-- "[[_Standards/WikiData/WD~King's College Cambridge archive,81165230]]"
-exonerated_of: "[[_Standards/WikiData/WD~gross indecency,5610496]]"
-convicted_of: "[[_Standards/WikiData/WD~gross indecency,5610496]]"
+- "[[_Standards/WikiData/WD~Sherborne_School,2278254]]"
+- "[[_Standards/WikiData/WD~King's_College_Cambridge_archive,81165230]]"
+exonerated_of: "[[_Standards/WikiData/WD~gross_indecency,5610496]]"
+convicted_of: "[[_Standards/WikiData/WD~gross_indecency,5610496]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-academic_thesis: "[[_Standards/WikiData/WD~Systems of Logic Based on Ordinals,7663875]]"
-place_of_burial: "[[_Standards/WikiData/WD~Woking Crematorium,8029331]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+academic_thesis: "[[_Standards/WikiData/WD~Systems_of_Logic_Based_on_Ordinals,7663875]]"
+place_of_burial: "[[_Standards/WikiData/WD~Woking_Crematorium,8029331]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20%285025990183%29.jpg"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20signature.svg"
 official_website: "http://www.turingarchive.org/"
@@ -90,16 +90,16 @@ BHCL_UUID: d9bb7adf-e873-4dfa-a5e7-fea3a6deb04b
 Krugosvet_article: gumanitarnye_nauki/lingvistika/TYURING_ALAN_MATISON.html
 Regensburg_Classification: "SF 8465"
 Libris_URI: vs68cswd1fdccq5
-father: "[[_Standards/WikiData/WD~Julius Mathison Turing,20895930]]"
-mother: "[[_Standards/WikiData/WD~Ethel Sara Stoney,20895935]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Christopher Morcom,21693479]]"
+father: "[[_Standards/WikiData/WD~Julius_Mathison_Turing,20895930]]"
+mother: "[[_Standards/WikiData/WD~Ethel_Sara_Stoney,20895935]]"
+unmarried_partner: "[[_Standards/WikiData/WD~Christopher_Morcom,21693479]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Did Alan Turing have Asperger's syndrome_,27638634]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-owner_of: "[[_Standards/WikiData/WD~Alan Turing teddy bear,47451142]]"
+- "[[_Standards/WikiData/WD~Did_Alan_Turing_have_Asperger's_syndrome_,27638634]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+owner_of: "[[_Standards/WikiData/WD~Alan_Turing_teddy_bear,47451142]]"
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
 family_name: '[[_Standards/WikiData/WD~Turing,104650420]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Alan Turing,120912950]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Alan_Turing,120912950]]"
 ISNI: 0000000110589902
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20%281951%29%20%28crop%29.jpg"
 sport: '[[_Standards/WikiData/WD~athletics,542]]'
@@ -109,7 +109,7 @@ sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 Erdős_number: 5
 ---
 

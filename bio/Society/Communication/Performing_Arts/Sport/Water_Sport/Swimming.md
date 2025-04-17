@@ -1,15 +1,15 @@
 ---
 has_id_wikidata: Q6388
 different_from:
-- "[[_Standards/WikiData/WD~underwater diving,179643]]"
+- "[[_Standards/WikiData/WD~underwater_diving,179643]]"
 - '[[_Standards/WikiData/WD~Q1229875,1229875]]'
 - '[[_Standards/WikiData/WD~diving,7735]]'
 associated_hazard: '[[_Standards/WikiData/WD~drowning,506616]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~physical activity,747883]]"
-- "[[_Standards/WikiData/WD~aquatic locomotion,3467704]]"
+- "[[_Standards/WikiData/WD~physical_activity,747883]]"
+- "[[_Standards/WikiData/WD~aquatic_locomotion,3467704]]"
 - '[[_Standards/WikiData/WD~hobby,47728]]'
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 practiced_by: '[[_Standards/WikiData/WD~swimmer,10843402]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Swimming,14615950]]'
 UMLS_CUI: C0039003

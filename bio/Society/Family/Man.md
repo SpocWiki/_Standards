@@ -7,22 +7,22 @@ different_from:
 - '[[_Standards/WikiData/WD~masculinity,1076509]]'
 - '[[_Standards/WikiData/WD~Homme,5890937]]'
 - '[[_Standards/WikiData/WD~male,6581097]]'
-- "[[_Standards/WikiData/WD~male human,84048850]]"
+- "[[_Standards/WikiData/WD~male_human,84048850]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~adult human,9584157]]"
-- "[[_Standards/WikiData/WD~male human,84048850]]"
+- "[[_Standards/WikiData/WD~adult_human,9584157]]"
+- "[[_Standards/WikiData/WD~male_human,84048850]]"
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Men%20montage.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pioneer%20plaque%20line-drawing%20of%20a%20human%20male.svg"
 IPTC_NewsCode: asportfacetvalue/men
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202929,13202929]]'
-part_of: "[[_Standards/WikiData/WD~male and female,20686840]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+part_of: "[[_Standards/WikiData/WD~male_and_female,20686840]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Man,27160632]]'
-produced_sound: "[[_Standards/WikiData/WD~male voice,55164632]]"
+produced_sound: "[[_Standards/WikiData/WD~male_voice,55164632]]"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%B0.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Yahya-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7.wav"

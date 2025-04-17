@@ -1,30 +1,30 @@
 ﻿---
 has_id_wikidata: Q11068
 subclass_of:
-- "[[_Standards/WikiData/WD~organ system,188193]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+- "[[_Standards/WikiData/WD~organ_system,188193]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~open circulatory system,1912034]]"
-- "[[_Standards/WikiData/WD~closed circulatory system,2874712]]"
+- "[[_Standards/WikiData/WD~open_circulatory_system,1912034]]"
+- "[[_Standards/WikiData/WD~closed_circulatory_system,2874712]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Arteries and veins,6308489]]"
+- "[[_Standards/WikiData/WD~Template_Arteries_and_veins,6308489]]"
 - '[[_Standards/WikiData/WD~Q6853167,6853167]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~cardiovascular system,13168533]]"
+- "[[_Standards/WikiData/WD~cardiovascular_system,13168533]]"
 - '[[_Standards/WikiData/WD~blood,7873]]'
-- "[[_Standards/WikiData/WD~respiratory system,7891]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~cardiovascular system,13168533]]"
-has_characteristic: "[[_Standards/WikiData/WD~blood circulation,14852003]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~circulatory system development,21428388]]"
+- "[[_Standards/WikiData/WD~respiratory_system,7891]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~cardiovascular_system,13168533]]"
+has_characteristic: "[[_Standards/WikiData/WD~blood_circulation,14852003]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~circulatory_system_development,21428388]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Blutkreislauf.png"
 instance_of:
-- "[[_Standards/WikiData/WD~anatomical system type,104027169]]"
-- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+- "[[_Standards/WikiData/WD~anatomical_system_type,104027169]]"
+- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 Iconclass_notation: 49G611
 Krugosvet_article: biologiya/krovenosnaya-sistema
 UMLS_CUI: C0007226

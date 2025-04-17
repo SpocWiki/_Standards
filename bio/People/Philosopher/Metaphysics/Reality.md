@@ -2,7 +2,7 @@
 has_id_wikidata: Q9510
 instance_of:
 - '[[_Standards/WikiData/WD~concept,151885]]'
-- "[[_Standards/WikiData/WD~psychology concept,96634632]]"
+- "[[_Standards/WikiData/WD~psychology_concept,96634632]]"
 different_from:
 - '[[_Standards/WikiData/WD~Reality,451273]]'
 - '[[_Standards/WikiData/WD~Skutočnosť,12776143]]'
@@ -12,8 +12,8 @@ has_characteristic:
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~actuality,1365054]]'
 - '[[_Standards/WikiData/WD~everything,2165236]]'
-opposite_of: "[[_Standards/WikiData/WD~subjective reality,4445091]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
+opposite_of: "[[_Standards/WikiData/WD~subjective_reality,4445091]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
 studied_in:
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 - '[[_Standards/WikiData/WD~ontology,44325]]'

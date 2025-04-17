@@ -12,49 +12,49 @@ occupation:
 - '[[_Standards/WikiData/WD~linguist,14467526]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom of England,179876]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
 notable_work:
-- "[[_Standards/WikiData/WD~The Canterbury Tales,191663]]"
-- "[[_Standards/WikiData/WD~The House of Fame,662442]]"
-- "[[_Standards/WikiData/WD~The Book of the Duchess,1090634]]"
-- "[[_Standards/WikiData/WD~The Romaunt of the Rose,1882671]]"
-- "[[_Standards/WikiData/WD~The Legend of Good Women,2125810]]"
-- "[[_Standards/WikiData/WD~Parlement of Foules,2488701]]"
-- "[[_Standards/WikiData/WD~Troilus and Criseyde,2527101]]"
-- "[[_Standards/WikiData/WD~A Treatise on the Astrolabe,3210522]]"
-- "[[_Standards/WikiData/WD~Anelida and Arcite,3616595]]"
+- "[[_Standards/WikiData/WD~The_Canterbury_Tales,191663]]"
+- "[[_Standards/WikiData/WD~The_House_of_Fame,662442]]"
+- "[[_Standards/WikiData/WD~The_Book_of_the_Duchess,1090634]]"
+- "[[_Standards/WikiData/WD~The_Romaunt_of_the_Rose,1882671]]"
+- "[[_Standards/WikiData/WD~The_Legend_of_Good_Women,2125810]]"
+- "[[_Standards/WikiData/WD~Parlement_of_Foules,2488701]]"
+- "[[_Standards/WikiData/WD~Troilus_and_Criseyde,2527101]]"
+- "[[_Standards/WikiData/WD~A_Treatise_on_the_Astrolabe,3210522]]"
+- "[[_Standards/WikiData/WD~Anelida_and_Arcite,3616595]]"
 - '[[_Standards/WikiData/WD~Boece,3641569]]'
-- "[[_Standards/WikiData/WD~The Complaint of Mars,18752837]]"
-- "[[_Standards/WikiData/WD~The compleynt unto Pity,124173329]]"
-- "[[_Standards/WikiData/WD~The compleynt of Venus,124173338]]"
-- "[[_Standards/WikiData/WD~Chaucer's complaint unto his purse,124173348]]"
+- "[[_Standards/WikiData/WD~The_Complaint_of_Mars,18752837]]"
+- "[[_Standards/WikiData/WD~The_compleynt_unto_Pity,124173329]]"
+- "[[_Standards/WikiData/WD~The_compleynt_of_Venus,124173338]]"
+- "[[_Standards/WikiData/WD~Chaucer's_complaint_unto_his_purse,124173348]]"
 child:
-- "[[_Standards/WikiData/WD~Thomas Chaucer,334148]]"
-- "[[_Standards/WikiData/WD~Elizabeth Chaucer,16224216]]"
-- "[[_Standards/WikiData/WD~Lewis Chaucer,75491158]]"
-spouse: "[[_Standards/WikiData/WD~Philippa Roet,546073]]"
+- "[[_Standards/WikiData/WD~Thomas_Chaucer,334148]]"
+- "[[_Standards/WikiData/WD~Elizabeth_Chaucer,16224216]]"
+- "[[_Standards/WikiData/WD~Lewis_Chaucer,75491158]]"
+spouse: "[[_Standards/WikiData/WD~Philippa_Roet,546073]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Dictionary of National Biography, 1885–1900,15987216]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Chaucer's Forests, Parks, and Groves,46818840]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885–1900,15987216]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Chaucer's_Forests,_Parks,_and_Groves,46818840]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
-- "[[_Standards/WikiData/WD~Minneapolis Institute of Art,1700481]]"
-- "[[_Standards/WikiData/WD~The Nelson-Atkins Museum of Art,1976985]]"
+- "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
+- "[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]"
+- "[[_Standards/WikiData/WD~The_Nelson-Atkins_Museum_of_Art,1976985]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Geoffrey,7041317]]'
 family_name: '[[_Standards/WikiData/WD~Chaucer,16865507]]'
-depicted_by: "[[_Standards/WikiData/WD~Geoffrey Chaucer (1340_-1400),52223028]]"
-position_held: "[[_Standards/WikiData/WD~Member of the 1386 Parliament,56285355]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-father: "[[_Standards/WikiData/WD~John Chaucer,75491153]]"
-mother: "[[_Standards/WikiData/WD~Agnes Copton,96075334]]"
+depicted_by: "[[_Standards/WikiData/WD~Geoffrey_Chaucer_(1340_-1400),52223028]]"
+position_held: "[[_Standards/WikiData/WD~Member_of_the_1386_Parliament,56285355]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+father: "[[_Standards/WikiData/WD~John_Chaucer,75491153]]"
+mother: "[[_Standards/WikiData/WD~Agnes_Copton,96075334]]"
 Royal_Academy_new_identifier: geoffrey-chaucer
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Geoffrey%20Chaucer%20%284671380%29%20%28cropped%29%2002.jpg"
 BHCL_UUID: 53d2d252-bcf7-4911-a58b-36d5fd91748f
@@ -73,14 +73,14 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Geoffrey%20Chauce
 genre: '[[_Standards/WikiData/WD~poetry,482]]'
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~English,1860]]'
-- "[[_Standards/WikiData/WD~Middle English,36395]]"
-place_of_burial: "[[_Standards/WikiData/WD~Westminster Abbey,5933]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic Church,9592]]"
+- "[[_Standards/WikiData/WD~Middle_English,36395]]"
+place_of_burial: "[[_Standards/WikiData/WD~Westminster_Abbey,5933]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 place_of_death: '[[_Standards/WikiData/WD~London,84]]'
 place_of_birth: '[[_Standards/WikiData/WD~London,84]]'
-writing_language: "[[_Standards/WikiData/WD~Middle English,36395]]"
-native_language: "[[_Standards/WikiData/WD~Middle English,36395]]"
+writing_language: "[[_Standards/WikiData/WD~Middle_English,36395]]"
+native_language: "[[_Standards/WikiData/WD~Middle_English,36395]]"
 ---
 
 #has_/time_/started :: 1343-06

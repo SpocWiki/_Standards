@@ -1,21 +1,21 @@
 ---
 has_id_wikidata: Q11404
-part_of: "[[_Standards/WikiData/WD~drum kit,128309]]"
+part_of: "[[_Standards/WikiData/WD~drum_kit,128309]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Diccionario del español de México,5805556]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-produced_sound: "[[_Standards/WikiData/WD~drum roll,665888]]"
-instance_of: "[[_Standards/WikiData/WD~family of musical instruments,1254773]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+produced_sound: "[[_Standards/WikiData/WD~drum_roll,665888]]"
+instance_of: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
 different_from:
 - '[[_Standards/WikiData/WD~Q4097679,4097679]]'
-- "[[_Standards/WikiData/WD~Trommel screen,4100165]]"
-subclass_of: "[[_Standards/WikiData/WD~struck membranophone,19588483]]"
+- "[[_Standards/WikiData/WD~Trommel_screen,4100165]]"
+subclass_of: "[[_Standards/WikiData/WD~struck_membranophone,19588483]]"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Instruments%20de%20musiques%20traditionnelles%20en%20pays%20naouda.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Drum%20for%20cultural%20dance.jpg"

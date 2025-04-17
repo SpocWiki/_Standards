@@ -4,37 +4,37 @@ Iconclass_notation: 48C862
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/OPERA.html
 IPTC_NewsCode: mediatopic/20000028
 instance_of:
-- "[[_Standards/WikiData/WD~music genre,188451]]"
-- "[[_Standards/WikiData/WD~theatrical genre,7777573]]"
-- "[[_Standards/WikiData/WD~type of dramatico-musical work,112248470]]"
+- "[[_Standards/WikiData/WD~music_genre,188451]]"
+- "[[_Standards/WikiData/WD~theatrical_genre,7777573]]"
+- "[[_Standards/WikiData/WD~type_of_dramatico-musical_work,112248470]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~composed musical work,207628]]"
-- "[[_Standards/WikiData/WD~theatre music,7777494]]"
-- "[[_Standards/WikiData/WD~musical drama,123777276]]"
-- "[[_Standards/WikiData/WD~classical music,9730]]"
+- "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
+- "[[_Standards/WikiData/WD~theatre_music,7777494]]"
+- "[[_Standards/WikiData/WD~musical_drama,123777276]]"
+- "[[_Standards/WikiData/WD~classical_music,9730]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-has_list: "[[_Standards/WikiData/WD~list of prominent operas,1144706]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+has_list: "[[_Standards/WikiData/WD~list_of_prominent_operas,1144706]]"
 different_from: '[[_Standards/WikiData/WD~Opera,1224928]]'
-facet_of: "[[_Standards/WikiData/WD~musical theater,1370345]]"
+facet_of: "[[_Standards/WikiData/WD~musical_theater,1370345]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~répétiteur,1784753]]'
-- "[[_Standards/WikiData/WD~vocal coach,2350126]]"
-- "[[_Standards/WikiData/WD~opera singer,2865819]]"
+- "[[_Standards/WikiData/WD~vocal_coach,2350126]]"
+- "[[_Standards/WikiData/WD~opera_singer,2865819]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~opera in English,2904882]]"
-- "[[_Standards/WikiData/WD~opera in Arabic,7096646]]"
-- "[[_Standards/WikiData/WD~opera in Africa,28124356]]"
-has_part_s_: "[[_Standards/WikiData/WD~pit orchestra,7198575]]"
+- "[[_Standards/WikiData/WD~opera_in_English,2904882]]"
+- "[[_Standards/WikiData/WD~opera_in_Arabic,7096646]]"
+- "[[_Standards/WikiData/WD~opera_in_Africa,28124356]]"
+has_part_s_: "[[_Standards/WikiData/WD~pit_orchestra,7198575]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Opera,10297022]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox opera,14522449]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Performing arts,59956276]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_opera,14522449]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276]]"
 Provenio_UUID: 11dbfb07-9641-475c-9599-1fc1c1b893ba
 inception: "1600"
 has_time_started: 1600-06 

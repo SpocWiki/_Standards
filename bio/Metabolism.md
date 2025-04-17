@@ -2,17 +2,17 @@
 has_id_wikidata: Q1057
 has_part_s_:
 - '[[_Standards/WikiData/WD~anabolism,184681]]'
-- "[[_Standards/WikiData/WD~catabolic process,21130714]]"
+- "[[_Standards/WikiData/WD~catabolic_process,21130714]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 has_contributing_factor: '[[_Standards/WikiData/WD~nutrition,2138622]]'
-subclass_of: "[[_Standards/WikiData/WD~biological process,2996394]]"
-instance_of: "[[_Standards/WikiData/WD~biological process,2996394]]"
+subclass_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
+instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Metabolism,8085091]]'
 different_from: '[[_Standards/WikiData/WD~Metabolizm,11777586]]'
 UMLS_CUI:

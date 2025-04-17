@@ -4,18 +4,18 @@ aliases:
 has_id_wikidata: Q188451
 instance_of:
 - '[[_Standards/WikiData/WD~concept,151885]]'
-- "[[_Standards/WikiData/WD~elements of music,11696608]]"
+- "[[_Standards/WikiData/WD~elements_of_music,11696608]]"
 - '[[_Standards/WikiData/WD~metaclass,19478619]]'
 studied_in: '[[_Standards/WikiData/WD~musicology,164204]]'
-has_list: "[[_Standards/WikiData/WD~list of music genres and styles,843744]]"
+has_list: "[[_Standards/WikiData/WD~list_of_music_genres_and_styles,843744]]"
 different_from:
-- "[[_Standards/WikiData/WD~musical form,862597]]"
-- "[[_Standards/WikiData/WD~composition school,2250943]]"
-subclass_of: "[[_Standards/WikiData/WD~art genre,1792379]]"
+- "[[_Standards/WikiData/WD~musical_form,862597]]"
+- "[[_Standards/WikiData/WD~composition_school,2250943]]"
+subclass_of: "[[_Standards/WikiData/WD~art_genre,1792379]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox music genre,5618084]]"
-- "[[_Standards/WikiData/WD~Template_Music genres,10708640]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~musical style,11921029]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_music_genre,5618084]]"
+- "[[_Standards/WikiData/WD~Template_Music_genres,10708640]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~musical_style,11921029]]"
 equivalent_class:
 - "http://dbpedia.org/ontology/MusicGenre"
 - "http://purl.org/ontology/mo/Genre"

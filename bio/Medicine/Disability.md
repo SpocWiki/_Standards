@@ -1,23 +1,23 @@
 ﻿---
 has_id_wikidata: Q12131
 has_part_s_:
-- "[[_Standards/WikiData/WD~intellectual disability,183560]]"
-- "[[_Standards/WikiData/WD~developmental disability,1142806]]"
-- "[[_Standards/WikiData/WD~physical disability,1179623]]"
-- "[[_Standards/WikiData/WD~disability affecting intellectual abilities,3317827]]"
-- "[[_Standards/WikiData/WD~mental disability,12145457]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-studied_in: "[[_Standards/WikiData/WD~disability studies,627208]]"
+- "[[_Standards/WikiData/WD~intellectual_disability,183560]]"
+- "[[_Standards/WikiData/WD~developmental_disability,1142806]]"
+- "[[_Standards/WikiData/WD~physical_disability,1179623]]"
+- "[[_Standards/WikiData/WD~disability_affecting_intellectual_abilities,3317827]]"
+- "[[_Standards/WikiData/WD~mental_disability,12145457]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+studied_in: "[[_Standards/WikiData/WD~disability_studies,627208]]"
 subclass_of: '[[_Standards/WikiData/WD~property,937228]]'
 handled_mitigated_or_managed_by:
-- "[[_Standards/WikiData/WD~rehabilitation counseling,3610326]]"
+- "[[_Standards/WikiData/WD~rehabilitation_counseling,3610326]]"
 - '[[_Standards/WikiData/WD~accommodation,98178108]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Disability sidebar,12981323]]"
-- "[[_Standards/WikiData/WD~Template_Disability navbox,15634384]]"
+- "[[_Standards/WikiData/WD~Template_Disability_sidebar,12981323]]"
+- "[[_Standards/WikiData/WD~Template_Disability_navbox,15634384]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-- "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+- "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
+- "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 uses: '[[_Standards/WikiData/WD~accommodation,98178108]]'
 Mastodon_instance_URL:
 - "https://fedisabled.social/"

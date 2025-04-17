@@ -1,11 +1,11 @@
 ﻿---
 has_id_wikidata: Q12140
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 has_use: '[[_Standards/WikiData/WD~pharmacotherapy,701216]]'
 different_from:
 - '[[_Standards/WikiData/WD~Medicine,1189264]]'
@@ -13,18 +13,18 @@ different_from:
 - '[[_Standards/WikiData/WD~Medication,16876752]]'
 - '[[_Standards/WikiData/WD~Leigheas,123615676]]'
 has_characteristic:
-- "[[_Standards/WikiData/WD~effective dose,1425437]]"
-- "[[_Standards/WikiData/WD~drug class,2585617]]"
-- "[[_Standards/WikiData/WD~side effect,3269441]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox drug,6033882]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~medicinal product,12034612]]"
+- "[[_Standards/WikiData/WD~effective_dose,1425437]]"
+- "[[_Standards/WikiData/WD~drug_class,2585617]]"
+- "[[_Standards/WikiData/WD~side_effect,3269441]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_drug,6033882]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~medicinal_product,12034612]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~medicinal product,12034612]]"
+- "[[_Standards/WikiData/WD~medicinal_product,12034612]]"
 - '[[_Standards/WikiData/WD~drug,8386]]'
 part_of: '[[_Standards/WikiData/WD~pharmacy,13107184]]'
-produced_by: "[[_Standards/WikiData/WD~pharmaceutical company,19644607]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~pharmaceutical product,28885102]]"
+produced_by: "[[_Standards/WikiData/WD~pharmaceutical_company,19644607]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~pharmaceutical_product,28885102]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Medicines,56739955]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B4%D5%A5%D5%B2%D5%A1%D5%B6%D5%B5%D5%B8%D6%82%D5%A9%D5%A5%D6%80%20%28Pharmaceutical%20drugs%29.ogg"
 pronunciation_audio:

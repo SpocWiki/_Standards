@@ -20,24 +20,24 @@ Krugosvet_article: istoriya/GEVARA_CHE.html
 Libris_URI: xv8bfbqg0h6sc2n
 name_in_native_language: "Ernesto Guevara"
 birth_name: "Ernesto Guevara"
-mother: "[[_Standards/WikiData/WD~Celia de la Serna,10861998]]"
+mother: "[[_Standards/WikiData/WD~Celia_de_la_Serna,10861998]]"
 award_received:
-- "[[_Standards/WikiData/WD~Order of Augusto César Sandino,16141095]]"
-- "[[_Standards/WikiData/WD~Collar of the Order of the White Lion,20966612]]"
-- "[[_Standards/WikiData/WD~Grand Cross of the Order of the Southern Cross,22058319]]"
-- "[[_Standards/WikiData/WD~Order of the Southern Cross,93713]]"
-- "[[_Standards/WikiData/WD~Order of the White Lion,93728]]"
-- "[[_Standards/WikiData/WD~Order of the Republic,2054765]]"
+- "[[_Standards/WikiData/WD~Order_of_Augusto_César_Sandino,16141095]]"
+- "[[_Standards/WikiData/WD~Collar_of_the_Order_of_the_White_Lion,20966612]]"
+- "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Southern_Cross,22058319]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Southern_Cross,93713]]"
+- "[[_Standards/WikiData/WD~Order_of_the_White_Lion,93728]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Republic,2054765]]"
 given_name: '[[_Standards/WikiData/WD~Ernesto,16323364]]'
 family_name: '[[_Standards/WikiData/WD~Guevara,21491349]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Faces of Moscow,28666511]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-unmarried_partner: "[[_Standards/WikiData/WD~María del Carmen ''Chichina'' Ferreyra,34224327]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
-position_held: "[[_Standards/WikiData/WD~Minister of Industry of Cuba,99883982]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+unmarried_partner: "[[_Standards/WikiData/WD~María_del_Carmen_''Chichina''_Ferreyra,34224327]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+position_held: "[[_Standards/WikiData/WD~Minister_of_Industry_of_Cuba,99883982]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Che%20Guevara%20-%20Guerrillero%20Heroico%20by%20Alberto%20Korda.jpg"
 ISNI:
 - 0000000065205614
@@ -54,14 +54,14 @@ country_of_citizenship:
 interested_in:
 - '[[_Standards/WikiData/WD~poetry,482]]'
 - '[[_Standards/WikiData/WD~chess,718]]'
-- "[[_Standards/WikiData/WD~rugby union,5849]]"
+- "[[_Standards/WikiData/WD~rugby_union,5849]]"
 - '[[_Standards/WikiData/WD~reading,199657]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
 influenced_by:
-- "[[_Standards/WikiData/WD~Vladimir Lenin,1394]]"
-- "[[_Standards/WikiData/WD~Mao Zedong,5816]]"
-- "[[_Standards/WikiData/WD~Karl Marx,9061]]"
-sport: "[[_Standards/WikiData/WD~rugby union,5849]]"
+- "[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]"
+- "[[_Standards/WikiData/WD~Mao_Zedong,5816]]"
+- "[[_Standards/WikiData/WD~Karl_Marx,9061]]"
+sport: "[[_Standards/WikiData/WD~rugby_union,5849]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 allegiance: '[[_Standards/WikiData/WD~Cuba,241]]'
 number_of_children: 5
@@ -75,28 +75,28 @@ date_of_birth: "1928-06-14"
 Commons_gallery: "Che Guevara"
 Commons_category: "Che Guevara"
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
-educated_at: "[[_Standards/WikiData/WD~University of Buenos Aires,194223]]"
+educated_at: "[[_Standards/WikiData/WD~University_of_Buenos_Aires,194223]]"
 occupation:
 - '[[_Standards/WikiData/WD~partisan,212948]]'
 - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
-member_of: "[[_Standards/WikiData/WD~26th of July Movement,218452]]"
-place_of_death: "[[_Standards/WikiData/WD~La Higuera,257326]]"
+member_of: "[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]"
+place_of_death: "[[_Standards/WikiData/WD~La_Higuera,257326]]"
 spouse:
-- "[[_Standards/WikiData/WD~Hilda Gadea,288348]]"
-- "[[_Standards/WikiData/WD~Aleida March,2336896]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Communist Party of Cuba,371402]]"
-child: "[[_Standards/WikiData/WD~Aleida Guevara,438288]]"
-killed_by: "[[_Standards/WikiData/WD~Mario Terán,934119]]"
+- "[[_Standards/WikiData/WD~Hilda_Gadea,288348]]"
+- "[[_Standards/WikiData/WD~Aleida_March,2336896]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Communist_Party_of_Cuba,371402]]"
+child: "[[_Standards/WikiData/WD~Aleida_Guevara,438288]]"
+killed_by: "[[_Standards/WikiData/WD~Mario_Terán,934119]]"
 military_or_police_rank: '[[_Standards/WikiData/WD~major,983927]]'
 notable_work:
-- "[[_Standards/WikiData/WD~Guerrilla Warfare,1196149]]"
-- "[[_Standards/WikiData/WD~The Bolivian diary,3706824]]"
-place_of_burial: "[[_Standards/WikiData/WD~Che Guevara Mausoleum,1946569]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot wound,2140674]]"
-hair_color: "[[_Standards/WikiData/WD~brown hair,2367101]]"
-father: "[[_Standards/WikiData/WD~Ernesto Guevara Lynch,4316165]]"
+- "[[_Standards/WikiData/WD~Guerrilla_Warfare,1196149]]"
+- "[[_Standards/WikiData/WD~The_Bolivian_diary,3706824]]"
+place_of_burial: "[[_Standards/WikiData/WD~Che_Guevara_Mausoleum,1946569]]"
+cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
+hair_color: "[[_Standards/WikiData/WD~brown_hair,2367101]]"
+father: "[[_Standards/WikiData/WD~Ernesto_Guevara_Lynch,4316165]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Che Guevara,6870740]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Che_Guevara,6870740]]"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/CheGuevaraSignature.svg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Che%20Guevara-article.ogg"
 NLC_authorities: 000141541

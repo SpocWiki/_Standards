@@ -7,23 +7,23 @@ has_part_s_:
 connects_with:
 - '[[_Standards/WikiData/WD~rectum,158716]]'
 - '[[_Standards/WikiData/WD~stomach,1029907]]'
-- "[[_Standards/WikiData/WD~large intestine,11083]]"
-innervated_by: "[[_Standards/WikiData/WD~vagus nerve,190140]]"
-arterial_supply: "[[_Standards/WikiData/WD~superior mesenteric artery,367570]]"
-venous_drainage: "[[_Standards/WikiData/WD~hepatic portal vein,464543]]"
+- "[[_Standards/WikiData/WD~large_intestine,11083]]"
+innervated_by: "[[_Standards/WikiData/WD~vagus_nerve,190140]]"
+arterial_supply: "[[_Standards/WikiData/WD~superior_mesenteric_artery,367570]]"
+venous_drainage: "[[_Standards/WikiData/WD~hepatic_portal_vein,464543]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Gray's Anatomy (20th edition),19558994]]"
-anatomical_location: "[[_Standards/WikiData/WD~abdominal cavity,682466]]"
-lymphatic_drainage: "[[_Standards/WikiData/WD~intestinal lymph trunk,2456426]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Small intestine,7543099]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+anatomical_location: "[[_Standards/WikiData/WD~abdominal_cavity,682466]]"
+lymphatic_drainage: "[[_Standards/WikiData/WD~intestinal_lymph_trunk,2456426]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Small_intestine,7543099]]"
 instance_of:
-- "[[_Standards/WikiData/WD~organ type,103812529]]"
-- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-subclass_of: "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+- "[[_Standards/WikiData/WD~organ_type,103812529]]"
+- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+subclass_of: "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
 part_of:
 - '[[_Standards/WikiData/WD~intestine,9639]]'
-- "[[_Standards/WikiData/WD~human digestive system,9649]]"
+- "[[_Standards/WikiData/WD~human_digestive_system,9649]]"
 OmegaWiki_Defined_Meaning: 1034351
 MeSH_tree_code: A03.556.124.684
 UMLS_CUI: C0021852

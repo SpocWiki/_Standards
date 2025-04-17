@@ -1,16 +1,16 @@
 ---
 has_id_wikidata: Q10978
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
-part_of: "[[_Standards/WikiData/WD~grape juice,1209756]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+part_of: "[[_Standards/WikiData/WD~grape_juice,1209756]]"
 color:
 - '[[_Standards/WikiData/WD~purple,3257809]]'
 - '[[_Standards/WikiData/WD~green,3133]]'
@@ -25,8 +25,8 @@ different_from:
 - '[[_Standards/WikiData/WD~grapefruit,21552830]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131430,27131430]]'
 natural_product_of_taxon:
-- "[[_Standards/WikiData/WD~Vitis vinifera subsp. vinifera,20634]]"
-- "[[_Standards/WikiData/WD~Vitis vinifera,30046]]"
+- "[[_Standards/WikiData/WD~Vitis_vinifera_subsp._vinifera,20634]]"
+- "[[_Standards/WikiData/WD~Vitis_vinifera,30046]]"
 carbon_footprint: 0.7
 water_footprint:
 - 608

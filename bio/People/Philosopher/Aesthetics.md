@@ -5,19 +5,19 @@ MeSH_tree_code:
 - F02.463.785.477
 part_of: '[[_Standards/WikiData/WD~axiology,186531]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 instance_of:
-- "[[_Standards/WikiData/WD~field of study,1047113]]"
-- "[[_Standards/WikiData/WD~field of study,2267705]]"
-- "[[_Standards/WikiData/WD~branch of philosophy,22811234]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of aesthetics,3773025]]"
+- "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+- "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+- "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_aesthetics,3773025]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aesthetics,6670897]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of aesthetics,16000272]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_aesthetics,16000272]]"
 practiced_by: '[[_Standards/WikiData/WD~aesthetician,21550346]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
 different_from: '[[_Standards/WikiData/WD~art,55336315]]'

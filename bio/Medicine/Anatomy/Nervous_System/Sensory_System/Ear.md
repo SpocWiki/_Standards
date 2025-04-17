@@ -2,36 +2,36 @@
 has_id_wikidata: Q7362
 has_use: '[[_Standards/WikiData/WD~hearing,160289]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~inner ear,212344]]"
+- "[[_Standards/WikiData/WD~inner_ear,212344]]"
 - '[[_Standards/WikiData/WD~auricle,379858]]'
-- "[[_Standards/WikiData/WD~middle ear,501553]]"
-- "[[_Standards/WikiData/WD~outer ear,609753]]"
+- "[[_Standards/WikiData/WD~middle_ear,501553]]"
+- "[[_Standards/WikiData/WD~outer_ear,609753]]"
 studied_in: '[[_Standards/WikiData/WD~audiology,569965]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Gray's Anatomy (20th edition),19558994]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Ear navs,10972859]]"
-- "[[_Standards/WikiData/WD~Template_Ear (anatomy),26047074]]"
+- "[[_Standards/WikiData/WD~Template_Ear_navs,10972859]]"
+- "[[_Standards/WikiData/WD~Template_Ear_(anatomy),26047074]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q21694889,21694889]]'
 - '[[_Standards/WikiData/WD~Q110127391,110127391]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~organ of hearing,39471007]]"
-- "[[_Standards/WikiData/WD~subdivision of auriculotemporal part of head,66557904]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+- "[[_Standards/WikiData/WD~organ_of_hearing,39471007]]"
+- "[[_Standards/WikiData/WD~subdivision_of_auriculotemporal_part_of_head,66557904]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
 different_from: '[[_Standards/WikiData/WD~Q92842179,92842179]]'
-instance_of: "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Hearing Health,123226125]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]"
 part_of: '[[_Standards/WikiData/WD~head,23640]]'
 quantity: 2
 OmegaWiki_Defined_Meaning: 5510

@@ -11,47 +11,47 @@ member_of:
 - '[[_Standards/WikiData/WD~Tiandihui,213387]]'
 - '[[_Standards/WikiData/WD~freemasonry,41726]]'
 place_of_birth: '[[_Standards/WikiData/WD~Cuiheng,588677]]'
-cause_of_death: "[[_Standards/WikiData/WD~liver cancer,623031]]"
-award_received: "[[_Standards/WikiData/WD~Order of Merit for National Foundation,624185]]"
-employer: "[[_Standards/WikiData/WD~Nanjing University,683580]]"
+cause_of_death: "[[_Standards/WikiData/WD~liver_cancer,623031]]"
+award_received: "[[_Standards/WikiData/WD~Order_of_Merit_for_National_Foundation,624185]]"
+employer: "[[_Standards/WikiData/WD~Nanjing_University,683580]]"
 child:
-- "[[_Standards/WikiData/WD~Sun Fo,701897]]"
-- "[[_Standards/WikiData/WD~Fumiko Miyagawa,4164318]]"
-- "[[_Standards/WikiData/WD~Sun Yan,22100096]]"
+- "[[_Standards/WikiData/WD~Sun_Fo,701897]]"
+- "[[_Standards/WikiData/WD~Fumiko_Miyagawa,4164318]]"
+- "[[_Standards/WikiData/WD~Sun_Yan,22100096]]"
 spouse:
-- "[[_Standards/WikiData/WD~Lu Muzhen,708894]]"
-- "[[_Standards/WikiData/WD~Kaoru Otsuki,4164245]]"
-- "[[_Standards/WikiData/WD~Chen Cuifen,5090737]]"
-- "[[_Standards/WikiData/WD~Haru Asada,5675539]]"
-- "[[_Standards/WikiData/WD~Soong Ching-ling,17132]]"
+- "[[_Standards/WikiData/WD~Lu_Muzhen,708894]]"
+- "[[_Standards/WikiData/WD~Kaoru_Otsuki,4164245]]"
+- "[[_Standards/WikiData/WD~Chen_Cuifen,5090737]]"
+- "[[_Standards/WikiData/WD~Haru_Asada,5675539]]"
+- "[[_Standards/WikiData/WD~Soong_Ching-ling,17132]]"
 educated_at:
-- "[[_Standards/WikiData/WD~Queen's College,836362]]"
-- "[[_Standards/WikiData/WD~Punahou School,3273124]]"
-- "[[_Standards/WikiData/WD~ʻIolani School,4164446]]"
-- "[[_Standards/WikiData/WD~Li Ka Shing Faculty of Medicine,4164603]]"
-- "[[_Standards/WikiData/WD~Boji Medical College,10909511]]"
-- "[[_Standards/WikiData/WD~Hong Kong College of Medicine for Chinese,15715077]]"
+- "[[_Standards/WikiData/WD~Queen's_College,836362]]"
+- "[[_Standards/WikiData/WD~Punahou_School,3273124]]"
+- "[[_Standards/WikiData/WD~ʻIolani_School,4164446]]"
+- "[[_Standards/WikiData/WD~Li_Ka_Shing_Faculty_of_Medicine,4164603]]"
+- "[[_Standards/WikiData/WD~Boji_Medical_College,10909511]]"
+- "[[_Standards/WikiData/WD~Hong_Kong_College_of_Medicine_for_Chinese,15715077]]"
 position_held:
-- "[[_Standards/WikiData/WD~Great President of the Republic of China,837221]]"
-- "[[_Standards/WikiData/WD~Extraordinary President of the Republic of China,4164123]]"
+- "[[_Standards/WikiData/WD~Great_President_of_the_Republic_of_China,837221]]"
+- "[[_Standards/WikiData/WD~Extraordinary_President_of_the_Republic_of_China,4164123]]"
 member_of_political_party:
 - '[[_Standards/WikiData/WD~Tongmenghui,950326]]'
 - '[[_Standards/WikiData/WD~Kuomintang,31113]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-religion_or_worldview: "[[_Standards/WikiData/WD~Congregational churches,1062789]]"
-place_of_burial: "[[_Standards/WikiData/WD~Sun Yat-sen Mausoleum,1338405]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Congregational_churches,1062789]]"
+place_of_burial: "[[_Standards/WikiData/WD~Sun_Yat-sen_Mausoleum,1338405]]"
 family_name: '[[_Standards/WikiData/WD~Sun,3543591]]'
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-sibling: "[[_Standards/WikiData/WD~Sun Mei,4164342]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+sibling: "[[_Standards/WikiData/WD~Sun_Mei,4164342]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_death: "[[_Standards/WikiData/WD~Peking Union Medical College Hospital,7161058]]"
+place_of_death: "[[_Standards/WikiData/WD~Peking_Union_Medical_College_Hospital,7161058]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg"
 signature:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Sun%20Yat%20Sen%20-%20China%20Document%20-%20dark%20version.svg"
@@ -71,14 +71,14 @@ Facebook_username: sun.yat.sen
 name_in_kana: "そん ぶん"
 name_in_native_language: 孫逸仙
 residence:
-- "[[_Standards/WikiData/WD~Haxell's Hotel,19799667]]"
-- "[[_Standards/WikiData/WD~San Francisco,62]]"
-father: "[[_Standards/WikiData/WD~Sun Dacheng,65046325]]"
+- "[[_Standards/WikiData/WD~Haxell's_Hotel,19799667]]"
+- "[[_Standards/WikiData/WD~San_Francisco,62]]"
+father: "[[_Standards/WikiData/WD~Sun_Dacheng,65046325]]"
 given_name:
 - '[[_Standards/WikiData/WD~Wen,94957241]]'
 - '[[_Standards/WikiData/WD~Yixian,94994194]]'
 - '[[_Standards/WikiData/WD~Zhongshan,95048030]]'
-mother: "[[_Standards/WikiData/WD~Madame Yang,95476008]]"
+mother: "[[_Standards/WikiData/WD~Madame_Yang,95476008]]"
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/4243344
 ISNI: 0000000123205197
 date_of_birth: "1866-11-12"
@@ -89,7 +89,7 @@ writing_language:
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Chinese,7850]]'
-work_location: "[[_Standards/WikiData/WD~Hong Kong,8646]]"
+work_location: "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 5
 ancestral_home: '[[_Standards/WikiData/WD~Dongguan,59218]]'

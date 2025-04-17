@@ -22,25 +22,25 @@ taxon_common_name:
 - Amaranto
 parent_taxon: '[[_Standards/WikiData/WD~Amaranthoideae,141521]]'
 has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
-taxonomic_type: "[[_Standards/WikiData/WD~Amaranthus caudatus,162791]]"
+taxonomic_type: "[[_Standards/WikiData/WD~Amaranthus_caudatus,162791]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Armenian Nature,16387823]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
-- "[[_Standards/WikiData/WD~Flora Reipublicae Popularis Sinicae, volume 25(2),112869403]]"
-different_from: "[[_Standards/WikiData/WD~Szarłat, Masovian Voivodeship,770638]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
+- "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(2),112869403]]"
+different_from: "[[_Standards/WikiData/WD~Szarłat,_Masovian_Voivodeship,770638]]"
 taxon_synonym: '[[_Standards/WikiData/WD~Mengea,66685065]]'
 PAEnflowered_taxon_URL: "https://www.paenflowered.org/apgii/caryophyllales/amaranthaceae/amaranthus"
 Flora_of_the_Hawaiian_Islands_URL: "https://naturalhistory2.si.edu/botany/hawaiianflora/genusdescr.cfm?genus=Amaranthus"
 MeSH_tree_code: B01.875.800.575.912.250.198.500.100.130
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-has_use: "[[_Standards/WikiData/WD~leaf vegetable,20134]]"
+has_use: "[[_Standards/WikiData/WD~leaf_vegetable,20134]]"
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Amaranthus%20tricolor0.jpg"
 ITIS_TSN: 20715

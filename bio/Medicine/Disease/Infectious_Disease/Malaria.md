@@ -1,39 +1,39 @@
 ﻿---
 has_id_wikidata: Q12156
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Ronald Ross,102034]]"
-- "[[_Standards/WikiData/WD~Charles Louis Alphonse Laveran,189006]]"
+- "[[_Standards/WikiData/WD~Ronald_Ross,102034]]"
+- "[[_Standards/WikiData/WD~Charles_Louis_Alphonse_Laveran,189006]]"
 symptoms_and_signs:
 - '[[_Standards/WikiData/WD~jaundice,133244]]'
 - '[[_Standards/WikiData/WD~coma,159557]]'
 - '[[_Standards/WikiData/WD~splenomegaly,1129121]]'
 - '[[_Standards/WikiData/WD~hepatomegaly,1362864]]'
 - '[[_Standards/WikiData/WD~chills,2260058]]'
-- "[[_Standards/WikiData/WD~intermittent fever,3073147]]"
-- "[[_Standards/WikiData/WD~periodic fever,29644041]]"
+- "[[_Standards/WikiData/WD~intermittent_fever,3073147]]"
+- "[[_Standards/WikiData/WD~periodic_fever,29644041]]"
 - '[[_Standards/WikiData/WD~anemia,5445]]'
 - '[[_Standards/WikiData/WD~fever,38933]]'
 has_cause:
-- "[[_Standards/WikiData/WD~Plasmodium malariae,133969]]"
-- "[[_Standards/WikiData/WD~Plasmodium ovale,134445]]"
-- "[[_Standards/WikiData/WD~Plasmodium knowlesi,241594]]"
-- "[[_Standards/WikiData/WD~Plasmodium vivax,311376]]"
-- "[[_Standards/WikiData/WD~Plasmodium falciparum,311383]]"
+- "[[_Standards/WikiData/WD~Plasmodium_malariae,133969]]"
+- "[[_Standards/WikiData/WD~Plasmodium_ovale,134445]]"
+- "[[_Standards/WikiData/WD~Plasmodium_knowlesi,241594]]"
+- "[[_Standards/WikiData/WD~Plasmodium_vivax,311376]]"
+- "[[_Standards/WikiData/WD~Plasmodium_falciparum,311383]]"
 has_natural_reservoir: '[[_Standards/WikiData/WD~Anopheles,158597]]'
 named_after:
 - '[[_Standards/WikiData/WD~wetland,170321]]'
-- "[[_Standards/WikiData/WD~miasma theory,607329]]"
+- "[[_Standards/WikiData/WD~miasma_theory,607329]]"
 medical_examination:
-- "[[_Standards/WikiData/WD~polymerase chain reaction,176996]]"
-- "[[_Standards/WikiData/WD~blood film,886475]]"
-- "[[_Standards/WikiData/WD~optical microscope,912313]]"
+- "[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]"
+- "[[_Standards/WikiData/WD~blood_film,886475]]"
+- "[[_Standards/WikiData/WD~optical_microscope,912313]]"
 health_specialty:
 - '[[_Standards/WikiData/WD~parasitology,180502]]'
-- "[[_Standards/WikiData/WD~infectious diseases,788926]]"
-- "[[_Standards/WikiData/WD~tropical medicine,1365243]]"
+- "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+- "[[_Standards/WikiData/WD~tropical_medicine,1365243]]"
 disease_transmission_process:
-- "[[_Standards/WikiData/WD~blood transfusion,183605]]"
-- "[[_Standards/WikiData/WD~mosquito borne transmission,15304532]]"
+- "[[_Standards/WikiData/WD~blood_transfusion,183605]]"
+- "[[_Standards/WikiData/WD~mosquito_borne_transmission,15304532]]"
 drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~quinine,189522]]'
 - '[[_Standards/WikiData/WD~quinidine,412496]]'
@@ -49,35 +49,35 @@ drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~mefloquine,736270]]'
 - '[[_Standards/WikiData/WD~sulfadiazine,2555060]]'
 - '[[_Standards/WikiData/WD~artesunate_amodiaquine,4797577]]'
-- "[[_Standards/WikiData/WD~primaquine phosphate,27279400]]"
+- "[[_Standards/WikiData/WD~primaquine_phosphate,27279400]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~parasitic protozoa infectious disease,353172]]"
-- "[[_Standards/WikiData/WD~vector-borne disease,2083837]]"
+- "[[_Standards/WikiData/WD~parasitic_protozoa_infectious_disease,353172]]"
+- "[[_Standards/WikiData/WD~vector-borne_disease,2083837]]"
 - '[[_Standards/WikiData/WD~disease,12136]]'
 instance_of:
-- "[[_Standards/WikiData/WD~endemic disease,506680]]"
-- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+- "[[_Standards/WikiData/WD~endemic_disease,506680]]"
+- "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
 possible_treatment:
 - '[[_Standards/WikiData/WD~antimalarial,521616]]'
 - '[[_Standards/WikiData/WD~antipyretic,582687]]'
-- "[[_Standards/WikiData/WD~symptomatic treatment,621558]]"
-- "[[_Standards/WikiData/WD~intravenous fluid replacement,24885926]]"
+- "[[_Standards/WikiData/WD~symptomatic_treatment,621558]]"
+- "[[_Standards/WikiData/WD~intravenous_fluid_replacement,24885926]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-- "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+- "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 genetic_association:
 - '[[_Standards/WikiData/WD~ABO,14839826]]'
 - '[[_Standards/WikiData/WD~ATP2B4,17833493]]'
 - '[[_Standards/WikiData/WD~DDC,17913463]]'
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target 3.3 of the Sustainable Development Goals,57590755]]"
+relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_3.3_of_the_Sustainable_Development_Goals,57590755]]"
 MeSH_tree_code:
 - C01.920.852.750
 - C01.610.752.530

@@ -9,25 +9,25 @@ health_specialty:
 - '[[_Standards/WikiData/WD~neurosurgery,188449]]'
 instance_of:
 - '[[_Standards/WikiData/WD~syndrome,179630]]'
-- "[[_Standards/WikiData/WD~cause of death,1931388]]"
-- "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
+- "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
+- "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
 drug_or_therapy_used_for_treatment: '[[_Standards/WikiData/WD~pentoxifylline,416331]]'
-anatomical_location: "[[_Standards/WikiData/WD~human brain,492038]]"
-location: "[[_Standards/WikiData/WD~human brain,492038]]"
+anatomical_location: "[[_Standards/WikiData/WD~human_brain,492038]]"
+location: "[[_Standards/WikiData/WD~human_brain,492038]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Kazakhstan. National encyclopedia,4208106]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
 different_from: '[[_Standards/WikiData/WD~Stroke,1216832]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~cerebrovascular disease,3010352]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~cerebrovascular_disease,3010352]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~cerebrovascular disease,3010352]]"
-- "[[_Standards/WikiData/WD~neurological symptom,12040808]]"
-- "[[_Standards/WikiData/WD~general symptom,31836626]]"
+- "[[_Standards/WikiData/WD~cerebrovascular_disease,3010352]]"
+- "[[_Standards/WikiData/WD~neurological_symptom,12040808]]"
+- "[[_Standards/WikiData/WD~general_symptom,31836626]]"
 genetic_association:
 - '[[_Standards/WikiData/WD~ADAMTS2,14881709]]'
 - '[[_Standards/WikiData/WD~ALDH2,14911781]]'
@@ -42,8 +42,8 @@ UMLS_CUI:
 - CL461690
 - C0751956
 medical_examination:
-- "[[_Standards/WikiData/WD~Orpington Prognostic Scale,108525687]]"
-- "[[_Standards/WikiData/WD~ROSIER scale,108525694]]"
+- "[[_Standards/WikiData/WD~Orpington_Prognostic_Scale,108525687]]"
+- "[[_Standards/WikiData/WD~ROSIER_scale,108525694]]"
 prevalence:
 - 0.006
 - 0.0024

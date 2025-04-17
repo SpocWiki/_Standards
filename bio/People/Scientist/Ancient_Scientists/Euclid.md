@@ -23,33 +23,33 @@ occupation:
 - '[[_Standards/WikiData/WD~writer,36180]]'
 notable_work:
 - '[[_Standards/WikiData/WD~Elements,172891]]'
-- "[[_Standards/WikiData/WD~synthetic geometry,249148]]"
+- "[[_Standards/WikiData/WD~synthetic_geometry,249148]]"
 different_from:
-- "[[_Standards/WikiData/WD~Euclid of Megara,312682]]"
+- "[[_Standards/WikiData/WD~Euclid_of_Megara,312682]]"
 - '[[_Standards/WikiData/WD~Euclid,578497]]'
 - '[[_Standards/WikiData/WD~Pseudo-Euclid,117667730]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1950–1958),20968284]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Dictionary of African Biography,46002746]]"
-- "[[_Standards/WikiData/WD~1870 Dictionary of Greek and Roman Biography and Mythology,47500198]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Classical Athens,844930]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950–1958),20968284]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
+- "[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Classical_Athens,844930]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23014461,23014461]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-student: "[[_Standards/WikiData/WD~Diocleides of Athens,112163711]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+student: "[[_Standards/WikiData/WD~Diocleides_of_Athens,112163711]]"
 given_name: '[[_Standards/WikiData/WD~Ευκλείδης,118178941]]'
 place_of_death: "http://www.wikidata.org/.well-known/genid/e22b38c1d35dac3b0f6ea6ecb16dd965"
 Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/euclid"
@@ -61,9 +61,9 @@ date_of_birth: "-0333"
 field_of_work: '[[_Standards/WikiData/WD~geometry,8087]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 residence: '[[_Standards/WikiData/WD~Alexandria,87]]'
-writing_language: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
-present_in_work: "[[_Standards/WikiData/WD~The Divine Comedy,40185]]"
+writing_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+present_in_work: "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
 ---
 
 #has_/time_/started :: -0333-06

@@ -1,25 +1,25 @@
 ﻿---
 has_id_wikidata: Q450
 has_characteristic:
-- "[[_Standards/WikiData/WD~mental health,317309]]"
-- "[[_Standards/WikiData/WD~mental state,3968640]]"
-- "[[_Standards/WikiData/WD~mental property,6817489]]"
+- "[[_Standards/WikiData/WD~mental_health,317309]]"
+- "[[_Standards/WikiData/WD~mental_state,3968640]]"
+- "[[_Standards/WikiData/WD~mental_property,6817489]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-studied_in: "[[_Standards/WikiData/WD~cognitive neuroscience,1138951]]"
-subclass_of: "[[_Standards/WikiData/WD~abstract entity,7048977]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+studied_in: "[[_Standards/WikiData/WD~cognitive_neuroscience,1138951]]"
+subclass_of: "[[_Standards/WikiData/WD~abstract_entity,7048977]]"
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~Q13196817,13196817]]'
 - '[[_Standards/WikiData/WD~consciousness,7087]]'
 different_from: '[[_Standards/WikiData/WD~Q20400796,20400796]]'
 instance_of:
-- "[[_Standards/WikiData/WD~type of property,96253971]]"
-- "[[_Standards/WikiData/WD~psychology concept,96634632]]"
+- "[[_Standards/WikiData/WD~type_of_property,96253971]]"
+- "[[_Standards/WikiData/WD~psychology_concept,96634632]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BD%D5%A5%D5%AC%D6%84%20%28Mind%29.ogg"
-writing_system: "[[_Standards/WikiData/WD~Latin script,8229]]"
+writing_system: "[[_Standards/WikiData/WD~Latin_script,8229]]"
 opposite_of: '[[_Standards/WikiData/WD~instinct,18237]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/RobertFuddBewusstsein17Jh.png"
 Commons_category: Mind

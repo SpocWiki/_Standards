@@ -4,30 +4,30 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~zootomy,220384]]'
 - '[[_Standards/WikiData/WD~osteology,819121]]'
 - '[[_Standards/WikiData/WD~neuroanatomy,948647]]'
-- "[[_Standards/WikiData/WD~plant anatomy,4021]]"
+- "[[_Standards/WikiData/WD~plant_anatomy,4021]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Great Ukrainian Encyclopedia,12088289]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Great_Ukrainian_Encyclopedia,12088289]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-- "[[_Standards/WikiData/WD~WikiProject Biology,6723002]]"
-- "[[_Standards/WikiData/WD~WikiProject Anatomy,8487304]]"
-- "[[_Standards/WikiData/WD~WikiProject Animal anatomy,21829301]]"
+- "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject_Biology,6723002]]"
+- "[[_Standards/WikiData/WD~WikiProject_Anatomy,8487304]]"
+- "[[_Standards/WikiData/WD~WikiProject_Animal_anatomy,21829301]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox anatomy,5879630]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_anatomy,5879630]]"
 - '[[_Standards/WikiData/WD~Template_Anatomy-stub,6176497]]'
 - '[[_Standards/WikiData/WD~Template_Anatomy,6678171]]'
-- "[[_Standards/WikiData/WD~Template_Anatomy properties,104230796]]"
+- "[[_Standards/WikiData/WD~Template_Anatomy_properties,104230796]]"
 practiced_by: '[[_Standards/WikiData/WD~anatomist,10872101]]'
 different_from: '[[_Standards/WikiData/WD~Anatomy,13429539]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Anatomy,14614547]]'
-instance_of: "[[_Standards/WikiData/WD~branch of biology,28598684]]"
+instance_of: "[[_Standards/WikiData/WD~branch_of_biology,28598684]]"
 opposite_of: '[[_Standards/WikiData/WD~pseudoanatomy,116811323]]'
 UMLS_CUI: C0002808
 subclass_of: '[[_Standards/WikiData/WD~biology,420]]'

@@ -1,28 +1,28 @@
 ﻿---
 has_id_wikidata: Q7365
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 studied_in: '[[_Standards/WikiData/WD~myology,674407]]'
 has_characteristic:
-- "[[_Standards/WikiData/WD~muscle strength,3076906]]"
-- "[[_Standards/WikiData/WD~muscle structure,27062223]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox muscle,5828621]]"
-part_of: "[[_Standards/WikiData/WD~muscular system,7060553]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~muscle organ development,14863685]]"
+- "[[_Standards/WikiData/WD~muscle_strength,3076906]]"
+- "[[_Standards/WikiData/WD~muscle_structure,27062223]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_muscle,5828621]]"
+part_of: "[[_Standards/WikiData/WD~muscular_system,7060553]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~muscle_organ_development,14863685]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~muscle structure,27062223]]"
-- "[[_Standards/WikiData/WD~general anatomical term,28843519]]"
-- "[[_Standards/WikiData/WD~nonparenchymatous organ,66545292]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+- "[[_Standards/WikiData/WD~muscle_structure,27062223]]"
+- "[[_Standards/WikiData/WD~general_anatomical_term,28843519]]"
+- "[[_Standards/WikiData/WD~nonparenchymatous_organ,66545292]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
 different_from: '[[_Standards/WikiData/WD~Piskel,101250889]]'
 instance_of:
-- "[[_Standards/WikiData/WD~anatomical structure class type,103914748]]"
-- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+- "[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]"
+- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 UMLS_CUI:
 - C4083049
 - C0026845

@@ -1,11 +1,11 @@
 ﻿---
 has_id_wikidata: Q11394
-instance_of: "[[_Standards/WikiData/WD~conservation status,82673]]"
+instance_of: "[[_Standards/WikiData/WD~conservation_status,82673]]"
 different_from:
-- "[[_Standards/WikiData/WD~moderately threatened,10677610]]"
+- "[[_Standards/WikiData/WD~moderately_threatened,10677610]]"
 - '[[_Standards/WikiData/WD~endangered,56660246]]'
-subclass_of: "[[_Standards/WikiData/WD~threatened species,16197023]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Endangered status,96377276]]"
+subclass_of: "[[_Standards/WikiData/WD~threatened_species,16197023]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
 UMLS_CUI: C2717883
 U_S_National_Archives_Identifier: 10638906
 IPTC_NewsCode: mediatopic/20000443

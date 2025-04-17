@@ -18,38 +18,38 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/LG%20smart%20TV.jpg"
 instance_of:
 - '[[_Standards/WikiData/WD~infrastructure,121359]]'
 - '[[_Standards/WikiData/WD~industry,268592]]'
-- "[[_Standards/WikiData/WD~type of mass media,121132955]]"
+- "[[_Standards/WikiData/WD~type_of_mass_media,121132955]]"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~John Logie Baird,133544]]"
-- "[[_Standards/WikiData/WD~Philo Farnsworth,360098]]"
-- "[[_Standards/WikiData/WD~Charles Francis Jenkins,1064424]]"
-- "[[_Standards/WikiData/WD~Kenjirō Takayanagi,1473588]]"
-patron_saint: "[[_Standards/WikiData/WD~Clare of Assisi,191107]]"
+- "[[_Standards/WikiData/WD~John_Logie_Baird,133544]]"
+- "[[_Standards/WikiData/WD~Philo_Farnsworth,360098]]"
+- "[[_Standards/WikiData/WD~Charles_Francis_Jenkins,1064424]]"
+- "[[_Standards/WikiData/WD~Kenjirō_Takayanagi,1473588]]"
+patron_saint: "[[_Standards/WikiData/WD~Clare_of_Assisi,191107]]"
 product_material_or_service_produced_or_provided:
-- "[[_Standards/WikiData/WD~concert film,430525]]"
-- "[[_Standards/WikiData/WD~television program,15416]]"
-different_from: "[[_Standards/WikiData/WD~Internet television,841645]]"
+- "[[_Standards/WikiData/WD~concert_film,430525]]"
+- "[[_Standards/WikiData/WD~television_program,15416]]"
+different_from: "[[_Standards/WikiData/WD~Internet_television,841645]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~television network,1254874]]"
-- "[[_Standards/WikiData/WD~television station,1616075]]"
-- "[[_Standards/WikiData/WD~television channel,2001305]]"
+- "[[_Standards/WikiData/WD~television_network,1254874]]"
+- "[[_Standards/WikiData/WD~television_station,1616075]]"
+- "[[_Standards/WikiData/WD~television_channel,2001305]]"
 - '[[_Standards/WikiData/WD~people-meter,3780321]]'
-- "[[_Standards/WikiData/WD~television watcher,3982960]]"
-- "[[_Standards/WikiData/WD~television set,8075]]"
+- "[[_Standards/WikiData/WD~television_watcher,3982960]]"
+- "[[_Standards/WikiData/WD~television_set,8075]]"
 practiced_by: '[[_Standards/WikiData/WD~announcer,1371925]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of television,1517344]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_television,1517344]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Television,10316697]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~broadcasting,15078788]]'
-- "[[_Standards/WikiData/WD~mass media,11033]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+- "[[_Standards/WikiData/WD~mass_media,11033]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Q25719785,25719785]]'
 - '[[_Standards/WikiData/WD~Template_Television,26837387]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131926,27131926]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 exact_match: "http://cv.iptc.org/newscodes/subjectcode/01016000"
 U_S_National_Archives_Identifier: 10643842
 IEV_number: 701-01-15

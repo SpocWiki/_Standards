@@ -28,30 +28,30 @@ occupation:
   - "[[_Standards/WikiData/WD~writer,36180]]"
   - "[[_Standards/WikiData/WD~composer,36834]]"
   - "[[_Standards/WikiData/WD~poet,49757]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National Palace Museum,540668]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Palace_Museum,540668]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~History of Song,1147260]]"
-  - "[[_Standards/WikiData/WD~Wanxiaotang Huazhuan,15904701]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-place_of_birth: "[[_Standards/WikiData/WD~Youxi County,1198112]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~History_of_Song,1147260]]"
+  - "[[_Standards/WikiData/WD~Wanxiaotang_Huazhuan,15904701]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+place_of_birth: "[[_Standards/WikiData/WD~Youxi_County,1198112]]"
 sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 notable_work:
-  - "[[_Standards/WikiData/WD~Zizhi Tongjian Gangmu,6699409]]"
+  - "[[_Standards/WikiData/WD~Zizhi_Tongjian_Gangmu,6699409]]"
 child:
-  - "[[_Standards/WikiData/WD~Zhu Zai,11093751]]"
-  - "[[_Standards/WikiData/WD~Zhu Shu,45361057]]"
-  - "[[_Standards/WikiData/WD~Zhu Ye,45372903]]"
-father: "[[_Standards/WikiData/WD~Zhu Song,11094247]]"
-place_of_burial: "[[_Standards/WikiData/WD~Zhu Xi's tomb,11094394]]"
+  - "[[_Standards/WikiData/WD~Zhu_Zai,11093751]]"
+  - "[[_Standards/WikiData/WD~Zhu_Shu,45361057]]"
+  - "[[_Standards/WikiData/WD~Zhu_Ye,45372903]]"
+father: "[[_Standards/WikiData/WD~Zhu_Song,11094247]]"
+place_of_burial: "[[_Standards/WikiData/WD~Zhu_Xi's_tomb,11094394]]"
 family_name: "[[_Standards/WikiData/WD~Zhu,13391907]]"
-mother: "[[_Standards/WikiData/WD~Zhu Shi,45364956]]"
-spouse: "[[_Standards/WikiData/WD~Liu Shi,65801332]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+mother: "[[_Standards/WikiData/WD~Zhu_Shi,45364956]]"
+spouse: "[[_Standards/WikiData/WD~Liu_Shi,65801332]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 given_name:
   - "[[_Standards/WikiData/WD~Wen,94957241]]"
   - "[[_Standards/WikiData/WD~Ziyang,106766761]]"
-ancestral_home: "[[_Standards/WikiData/WD~Jian Zhou,113651152]]"
+ancestral_home: "[[_Standards/WikiData/WD~Jian_Zhou,113651152]]"
 date_of_death: 1200-04-30
 ISNI: 121309654
 NLC_authorities: 111645
@@ -61,7 +61,7 @@ religion_or_worldview:
   - "[[_Standards/WikiData/WD~Confucianism,9581]]"
 instance_of:
   - "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+place_of_death: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 posthumous_name:
   - 文公
   - 文

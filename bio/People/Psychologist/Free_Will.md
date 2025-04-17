@@ -1,15 +1,15 @@
 ﻿---
 has_id_wikidata: Q9476
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 facet_of: '[[_Standards/WikiData/WD~will,364340]]'
 instance_of:
-- "[[_Standards/WikiData/WD~religious concept,23847174]]"
-- "[[_Standards/WikiData/WD~philosophical concept,33104279]]"
+- "[[_Standards/WikiData/WD~religious_concept,23847174]]"
+- "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
 does_not_have_characteristic: '[[_Standards/WikiData/WD~limitation,105766481]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Freewill.ogg"
 Stack_Exchange_tag:

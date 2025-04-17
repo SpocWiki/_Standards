@@ -9,65 +9,65 @@ occupation:
 - '[[_Standards/WikiData/WD~lecturer,1569495]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
 educated_at:
-- "[[_Standards/WikiData/WD~London School of Economics and Political Science,174570]]"
-- "[[_Standards/WikiData/WD~Lincoln University,4570781]]"
-- "[[_Standards/WikiData/WD~Achimota School,4673779]]"
-- "[[_Standards/WikiData/WD~University of Pennsylvania Graduate School of Education,7896078]]"
+- "[[_Standards/WikiData/WD~London_School_of_Economics_and_Political_Science,174570]]"
+- "[[_Standards/WikiData/WD~Lincoln_University,4570781]]"
+- "[[_Standards/WikiData/WD~Achimota_School,4673779]]"
+- "[[_Standards/WikiData/WD~University_of_Pennsylvania_Graduate_School_of_Education,7896078]]"
 cause_of_death:
-- "[[_Standards/WikiData/WD~prostate cancer,181257]]"
-- "[[_Standards/WikiData/WD~skin cancer,192102]]"
+- "[[_Standards/WikiData/WD~prostate_cancer,181257]]"
+- "[[_Standards/WikiData/WD~skin_cancer,192102]]"
 country_of_citizenship:
-- "[[_Standards/WikiData/WD~Gold Coast Colony,503623]]"
+- "[[_Standards/WikiData/WD~Gold_Coast_Colony,503623]]"
 - '[[_Standards/WikiData/WD~Ghana,117]]'
-honorific_suffix: "[[_Standards/WikiData/WD~Privy Council of the United Kingdom,683120]]"
+honorific_suffix: "[[_Standards/WikiData/WD~Privy_Council_of_the_United_Kingdom,683120]]"
 award_received:
-- "[[_Standards/WikiData/WD~Order of the Companions of O. R. Tambo,727815]]"
-- "[[_Standards/WikiData/WD~Knight Grand Cross with Collar of the Order of Merit of the Italian Republic,14539990]]"
-- "[[_Standards/WikiData/WD~Grand Cross of the Order of Polonia Restituta,15715257]]"
-- "[[_Standards/WikiData/WD~Collar of the Order of the White Lion,20966612]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]"
+- "[[_Standards/WikiData/WD~Knight_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic,14539990]]"
+- "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]"
+- "[[_Standards/WikiData/WD~Collar_of_the_Order_of_the_White_Lion,20966612]]"
 work_location:
 - '[[_Standards/WikiData/WD~Axim,792509]]'
 - '[[_Standards/WikiData/WD~Elmina,968662]]'
 given_name: '[[_Standards/WikiData/WD~Kwame,965276]]'
 member_of_political_party:
-- "[[_Standards/WikiData/WD~Convention People's Party,1129392]]"
-- "[[_Standards/WikiData/WD~United Gold Coast Convention,2495200]]"
+- "[[_Standards/WikiData/WD~Convention_People's_Party,1129392]]"
+- "[[_Standards/WikiData/WD~United_Gold_Coast_Convention,2495200]]"
 position_held:
-- "[[_Standards/WikiData/WD~Minister for Foreign Affairs,1829500]]"
-- "[[_Standards/WikiData/WD~President of Ghana,2672728]]"
-- "[[_Standards/WikiData/WD~Prime Minister of Ghana,3657870]]"
-- "[[_Standards/WikiData/WD~Minister for Defence,6865779]]"
-- "[[_Standards/WikiData/WD~Minister for the Interior of Ghana,6866006]]"
-- "[[_Standards/WikiData/WD~chairperson of the Organisation of African Unity,19161632]]"
-- "[[_Standards/WikiData/WD~Member of the Parliament of Ghana,21290881]]"
-- "[[_Standards/WikiData/WD~President of Guinea,28015517]]"
-- "[[_Standards/WikiData/WD~Member of the Privy Council of the United Kingdom,28841847]]"
-- "[[_Standards/WikiData/WD~Member of the 1st Parliament of the Gold Coast,107280864]]"
-- "[[_Standards/WikiData/WD~Member of the 1st Parliament of the 1st Republic of Ghana,107392874]]"
-- "[[_Standards/WikiData/WD~Member of the 2nd Parliament of the Gold Coast,107400457]]"
+- "[[_Standards/WikiData/WD~Minister_for_Foreign_Affairs,1829500]]"
+- "[[_Standards/WikiData/WD~President_of_Ghana,2672728]]"
+- "[[_Standards/WikiData/WD~Prime_Minister_of_Ghana,3657870]]"
+- "[[_Standards/WikiData/WD~Minister_for_Defence,6865779]]"
+- "[[_Standards/WikiData/WD~Minister_for_the_Interior_of_Ghana,6866006]]"
+- "[[_Standards/WikiData/WD~chairperson_of_the_Organisation_of_African_Unity,19161632]]"
+- "[[_Standards/WikiData/WD~Member_of_the_Parliament_of_Ghana,21290881]]"
+- "[[_Standards/WikiData/WD~President_of_Guinea,28015517]]"
+- "[[_Standards/WikiData/WD~Member_of_the_Privy_Council_of_the_United_Kingdom,28841847]]"
+- "[[_Standards/WikiData/WD~Member_of_the_1st_Parliament_of_the_Gold_Coast,107280864]]"
+- "[[_Standards/WikiData/WD~Member_of_the_1st_Parliament_of_the_1st_Republic_of_Ghana,107392874]]"
+- "[[_Standards/WikiData/WD~Member_of_the_2nd_Parliament_of_the_Gold_Coast,107400457]]"
 place_of_burial:
 - '[[_Standards/WikiData/WD~Nkroful,1994408]]'
-- "[[_Standards/WikiData/WD~Kwame Nkrumah Mausoleum,13848097]]"
+- "[[_Standards/WikiData/WD~Kwame_Nkrumah_Mausoleum,13848097]]"
 - '[[_Standards/WikiData/WD~Accra,3761]]'
 place_of_birth: '[[_Standards/WikiData/WD~Nkroful,1994408]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Dictionary of African Biography,46002746]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Africa_ An Encyclopedic Reference,115653803]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 child:
-- "[[_Standards/WikiData/WD~Gamal Nkrumah,5519561]]"
-- "[[_Standards/WikiData/WD~Samia Nkrumah,7409415]]"
-- "[[_Standards/WikiData/WD~Sekou Nkrumah,16734082]]"
+- "[[_Standards/WikiData/WD~Gamal_Nkrumah,5519561]]"
+- "[[_Standards/WikiData/WD~Samia_Nkrumah,7409415]]"
+- "[[_Standards/WikiData/WD~Sekou_Nkrumah,16734082]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-member_of: "[[_Standards/WikiData/WD~Phi Beta Sigma,7181514]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~field marshal,7821620]]"
+member_of: "[[_Standards/WikiData/WD~Phi_Beta_Sigma,7181514]]"
+military_or_police_rank: "[[_Standards/WikiData/WD~field_marshal,7821620]]"
 family_name: '[[_Standards/WikiData/WD~Nkrumah,25113640]]'
-notable_work: "[[_Standards/WikiData/WD~Africa Must Unite,103844411]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~David Wilberforce Kwami Dawson,112708966]]"
-participant_in: "[[_Standards/WikiData/WD~Conference on Africa,114871694]]"
+notable_work: "[[_Standards/WikiData/WD~Africa_Must_Unite,103844411]]"
+partner_in_business_or_sport: "[[_Standards/WikiData/WD~David_Wilberforce_Kwami_Dawson,112708966]]"
+participant_in: "[[_Standards/WikiData/WD~Conference_on_Africa,114871694]]"
 ISNI: 0000000110549118
 BHCL_UUID: 807156f8-9896-4017-af80-9341a71ff5b5
 languages_spoken_written_or_signed:

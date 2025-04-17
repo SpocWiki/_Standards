@@ -5,8 +5,8 @@ has_id_wikidata: Q868
 notable_work:
 - '[[_Standards/WikiData/WD~Politics,69539]]'
 - '[[_Standards/WikiData/WD~Poetics,264714]]'
-- "[[_Standards/WikiData/WD~Constitution of the Athenians,382282]]"
-- "[[_Standards/WikiData/WD~Nicomachean Ethics,474537]]"
+- "[[_Standards/WikiData/WD~Constitution_of_the_Athenians,382282]]"
+- "[[_Standards/WikiData/WD~Nicomachean_Ethics,474537]]"
 - '[[_Standards/WikiData/WD~Organon,500930]]'
 - '[[_Standards/WikiData/WD~Metaphysics,661655]]'
 - '[[_Standards/WikiData/WD~Physics,1051198]]'
@@ -15,7 +15,7 @@ notable_work:
 influenced_by:
 - '[[_Standards/WikiData/WD~Empedocles,83375]]'
 - '[[_Standards/WikiData/WD~Parmenides,125551]]'
-- "[[_Standards/WikiData/WD~Zeno of Elea,132157]]"
+- "[[_Standards/WikiData/WD~Zeno_of_Elea,132157]]"
 - '[[_Standards/WikiData/WD~Plato,859]]'
 - '[[_Standards/WikiData/WD~Socrates,913]]'
 - '[[_Standards/WikiData/WD~Hippocrates,5264]]'
@@ -27,53 +27,53 @@ student:
 - '[[_Standards/WikiData/WD~Theophrastus,160362]]'
 - '[[_Standards/WikiData/WD~Aristoxenus,335156]]'
 - '[[_Standards/WikiData/WD~Dicaearchus,352621]]'
-- "[[_Standards/WikiData/WD~Eudemus of Rhodes,358482]]"
-- "[[_Standards/WikiData/WD~Clearchus of Soli,736433]]"
-- "[[_Standards/WikiData/WD~Phaenias of Eresus,943529]]"
+- "[[_Standards/WikiData/WD~Eudemus_of_Rhodes,358482]]"
+- "[[_Standards/WikiData/WD~Clearchus_of_Soli,736433]]"
+- "[[_Standards/WikiData/WD~Phaenias_of_Eresus,943529]]"
 - '[[_Standards/WikiData/WD~Chamaeleon,2955937]]'
-- "[[_Standards/WikiData/WD~Clytus of Miletus,2980452]]"
-- "[[_Standards/WikiData/WD~Neleus of Scepsis,3347025]]"
+- "[[_Standards/WikiData/WD~Clytus_of_Miletus,2980452]]"
+- "[[_Standards/WikiData/WD~Neleus_of_Scepsis,3347025]]"
 - '[[_Standards/WikiData/WD~Meno,89407534]]'
-- "[[_Standards/WikiData/WD~Alexander the Great,8409]]"
+- "[[_Standards/WikiData/WD~Alexander_the_Great,8409]]"
 medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
-educated_at: "[[_Standards/WikiData/WD~Platonic Academy,193093]]"
-movement: "[[_Standards/WikiData/WD~peripatetic school,194414]]"
+educated_at: "[[_Standards/WikiData/WD~Platonic_Academy,193093]]"
+movement: "[[_Standards/WikiData/WD~peripatetic_school,194414]]"
 field_of_work:
-- "[[_Standards/WikiData/WD~natural philosophy,269323]]"
+- "[[_Standards/WikiData/WD~natural_philosophy,269323]]"
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Concise Literary Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-- "[[_Standards/WikiData/WD~Dictionary of Biblical Criticism and Interpretation (2007 ed.),21065550]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Catholic Social Thought, Social Science, and Social Policy,125025946]]"
-- "[[_Standards/WikiData/WD~Physicists_ Biographical Dictionary,126178049]]"
-- "[[_Standards/WikiData/WD~Astronomers_ A Biographical Reference,126740695]]"
-- "[[_Standards/WikiData/WD~Paradoxographus Vaticanus,131277687]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Catholic_Social_Thought,_Social_Science,_and_Social_Policy,125025946]]"
+- "[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]"
+- "[[_Standards/WikiData/WD~Astronomers__A_Biographical_Reference,126740695]]"
+- "[[_Standards/WikiData/WD~Paradoxographus_Vaticanus,131277687]]"
 - '[[_Standards/WikiData/WD~Q131401229,131401229]]'
 spouse: '[[_Standards/WikiData/WD~Pythias,462582]]'
-writing_language: "[[_Standards/WikiData/WD~Attic Greek,506588]]"
+writing_language: "[[_Standards/WikiData/WD~Attic_Greek,506588]]"
 ethnic_group: '[[_Standards/WikiData/WD~Greeks,539051]]'
 residence:
 - '[[_Standards/WikiData/WD~Assos,744631]]'
@@ -87,33 +87,33 @@ child:
 - '[[_Standards/WikiData/WD~Nicomachus,2217419]]'
 - '[[_Standards/WikiData/WD~Pythias,61904342]]'
 father: '[[_Standards/WikiData/WD~Nicomachus,3050463]]'
-cause_of_death: "[[_Standards/WikiData/WD~intestinal disease,3055380]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+cause_of_death: "[[_Standards/WikiData/WD~intestinal_disease,3055380]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sibling:
 - '[[_Standards/WikiData/WD~Arimneste,4790690]]'
 - '[[_Standards/WikiData/WD~Arlinton,111263715]]'
 occupation: '[[_Standards/WikiData/WD~philosopher,4964182]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 place_of_death: '[[_Standards/WikiData/WD~Chalcis,21235810]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22665576,22665576]]'
 given_name: '[[_Standards/WikiData/WD~Aristotelis,27648524]]'
 owner_of:
-- "[[_Standards/WikiData/WD~Aristotle's library,35025797]]"
+- "[[_Standards/WikiData/WD~Aristotle's_library,35025797]]"
 - '[[_Standards/WikiData/WD~lyceum,16463]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject PCC Wikidata Pilot_Smithsonian Libraries Dibner Library portraits,103505599]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
 depicted_by:
-- "[[_Standards/WikiData/WD~Aristoteles statue at Olympia,107043442]]"
-- "[[_Standards/WikiData/WD~Bust of Aristotle, Chalkida,114139139]]"
-- "[[_Standards/WikiData/WD~Bust of Aristotle, Antirrio park,114140032]]"
-- "[[_Standards/WikiData/WD~Statue of Aristotle, Thessaloniki,115105725]]"
-- "[[_Standards/WikiData/WD~Statue of Aristotle, Stageira,115129198]]"
-- "[[_Standards/WikiData/WD~Statue of Aristotle, Polygyros,115129215]]"
-- "[[_Standards/WikiData/WD~Bust of Aristotle, Olympiada,115129212]]"
-- "[[_Standards/WikiData/WD~Large marble bust of Aristotle, Chalkida,116954316]]"
-- "[[_Standards/WikiData/WD~Bust of Aristotle, Skala Kallonis,116954408]]"
-attested_in: "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
+- "[[_Standards/WikiData/WD~Aristoteles_statue_at_Olympia,107043442]]"
+- "[[_Standards/WikiData/WD~Bust_of_Aristotle,_Chalkida,114139139]]"
+- "[[_Standards/WikiData/WD~Bust_of_Aristotle,_Antirrio_park,114140032]]"
+- "[[_Standards/WikiData/WD~Statue_of_Aristotle,_Thessaloniki,115105725]]"
+- "[[_Standards/WikiData/WD~Statue_of_Aristotle,_Stageira,115129198]]"
+- "[[_Standards/WikiData/WD~Statue_of_Aristotle,_Polygyros,115129215]]"
+- "[[_Standards/WikiData/WD~Bust_of_Aristotle,_Olympiada,115129212]]"
+- "[[_Standards/WikiData/WD~Large_marble_bust_of_Aristotle,_Chalkida,116954316]]"
+- "[[_Standards/WikiData/WD~Bust_of_Aristotle,_Skala_Kallonis,116954408]]"
+attested_in: "[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]"
 Library_of_Congress_Classification: B400-B491
 Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/aristotle"
 ISNI: 0000000123748095
@@ -122,7 +122,7 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia
 date_of_death: "-0321"
 student_of: '[[_Standards/WikiData/WD~Plato,859]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient Greek,35497]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
 Commons_category: Aristotle
 Commons_Creator_page: Aristotle
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle%20Altemps%20Inv8575.jpg"

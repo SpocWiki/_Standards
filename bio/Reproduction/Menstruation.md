@@ -1,17 +1,17 @@
 ﻿---
 has_id_wikidata: Q12171
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~biological process,2996394]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
 facet_of:
-- "[[_Standards/WikiData/WD~human reproduction,3427336]]"
-- "[[_Standards/WikiData/WD~women's health,8031191]]"
+- "[[_Standards/WikiData/WD~human_reproduction,3427336]]"
+- "[[_Standards/WikiData/WD~women's_health,8031191]]"
 subclass_of: '[[_Standards/WikiData/WD~menstruation,17155666]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
 DOI: 10.1163/1875-3922_Q3_EQSIM_00278
 OmegaWiki_Defined_Meaning: 343457
 described_at_URL:

@@ -6,38 +6,38 @@ described_at_URL: "https://www.fpl.fs.fed.us/documnts/pdf2013/fpl_2013_rowell002
 Commons_category: Cellulose
 subclass_of:
 - '[[_Standards/WikiData/WD~polysaccharide,134219]]'
-- "[[_Standards/WikiData/WD~raw material,192355]]"
-- "[[_Standards/WikiData/WD~primary metabolite,3333419]]"
+- "[[_Standards/WikiData/WD~raw_material,192355]]"
+- "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
 - '[[_Standards/WikiData/WD~holocellulose,12020010]]'
 has_use:
-- "[[_Standards/WikiData/WD~cellulose fiber,189109]]"
-- "[[_Standards/WikiData/WD~food additive,189567]]"
-- "[[_Standards/WikiData/WD~raw material,192355]]"
+- "[[_Standards/WikiData/WD~cellulose_fiber,189109]]"
+- "[[_Standards/WikiData/WD~food_additive,189567]]"
+- "[[_Standards/WikiData/WD~raw_material,192355]]"
 - '[[_Standards/WikiData/WD~excipient,902638]]'
 - '[[_Standards/WikiData/WD~thickener,911138]]'
-- "[[_Standards/WikiData/WD~powder explosive,21290872]]"
+- "[[_Standards/WikiData/WD~powder_explosive,21290872]]"
 - '[[_Standards/WikiData/WD~fuel,42501]]'
 has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
 instance_of:
 - '[[_Standards/WikiData/WD~glucan,416796]]'
-- "[[_Standards/WikiData/WD~flammable solid,21073024]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Anselme Payen,560917]]"
+- "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Anselme_Payen,560917]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-associated_hazard: "[[_Standards/WikiData/WD~cellulose exposure,21173544]]"
-has_effect: "[[_Standards/WikiData/WD~cellulose exposure,21173544]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+associated_hazard: "[[_Standards/WikiData/WD~cellulose_exposure,21173544]]"
+has_effect: "[[_Standards/WikiData/WD~cellulose_exposure,21173544]]"
 part_of:
-- "[[_Standards/WikiData/WD~cellulose metabolic process,22281695]]"
-- "[[_Standards/WikiData/WD~cellulose catabolic process,22281696]]"
-- "[[_Standards/WikiData/WD~cellulose biosynthetic process,22282983]]"
-- "[[_Standards/WikiData/WD~cellulose binding,22313190]]"
-named_after: "[[_Standards/WikiData/WD~plant-type cell wall,22328096]]"
+- "[[_Standards/WikiData/WD~cellulose_metabolic_process,22281695]]"
+- "[[_Standards/WikiData/WD~cellulose_catabolic_process,22281696]]"
+- "[[_Standards/WikiData/WD~cellulose_biosynthetic_process,22282983]]"
+- "[[_Standards/WikiData/WD~cellulose_binding,22313190]]"
+named_after: "[[_Standards/WikiData/WD~plant-type_cell_wall,22328096]]"
 different_from: '[[_Standards/WikiData/WD~Celuloza,28030048]]'
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA 704_ Standard System for the Identification of the Hazards of Materials for Emergency Response,51139288]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
 chemical_structure: "http://commons.wikimedia.org/wiki/Special:FilePath/Cellulose%20Sessel.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plant%20cell%20wall%20diagram-en.svg"
 EC_number: 232-674-9

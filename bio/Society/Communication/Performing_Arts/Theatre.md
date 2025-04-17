@@ -6,44 +6,44 @@ IPTC_NewsCode:
 PhilPapers_topic:
 - theatre
 - theater
-subclass_of: "[[_Standards/WikiData/WD~performing arts,184485]]"
+subclass_of: "[[_Standards/WikiData/WD~performing_arts,184485]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 studied_in:
-- "[[_Standards/WikiData/WD~theatre studies,960543]]"
-- "[[_Standards/WikiData/WD~sociology of theatre,60971539]]"
+- "[[_Standards/WikiData/WD~theatre_studies,960543]]"
+- "[[_Standards/WikiData/WD~sociology_of_theatre,60971539]]"
 practiced_by:
-- "[[_Standards/WikiData/WD~theatre manager,1776724]]"
-- "[[_Standards/WikiData/WD~stage actor,2259451]]"
-- "[[_Standards/WikiData/WD~theatre troupe,2416217]]"
-- "[[_Standards/WikiData/WD~theatrical occupation,15839299]]"
-- "[[_Standards/WikiData/WD~theatre maker,47492700]]"
+- "[[_Standards/WikiData/WD~theatre_manager,1776724]]"
+- "[[_Standards/WikiData/WD~stage_actor,2259451]]"
+- "[[_Standards/WikiData/WD~theatre_troupe,2416217]]"
+- "[[_Standards/WikiData/WD~theatrical_occupation,15839299]]"
+- "[[_Standards/WikiData/WD~theatre_maker,47492700]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~artistic director,1797162]]"
-- "[[_Standards/WikiData/WD~theatre troupe,2416217]]"
-- "[[_Standards/WikiData/WD~theatre building,24354]]"
-has_characteristic: "[[_Standards/WikiData/WD~Theatre season,2310376]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of theatre,7112798]]"
+- "[[_Standards/WikiData/WD~artistic_director,1797162]]"
+- "[[_Standards/WikiData/WD~theatre_troupe,2416217]]"
+- "[[_Standards/WikiData/WD~theatre_building,24354]]"
+has_characteristic: "[[_Standards/WikiData/WD~Theatre_season,2310376]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_theatre,7112798]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Theatre,10821605]]'
 different_from:
-- "[[_Standards/WikiData/WD~theatre company,11812394]]"
+- "[[_Standards/WikiData/WD~theatre_company,11812394]]"
 - '[[_Standards/WikiData/WD~Theater,114961017]]'
-- "[[_Standards/WikiData/WD~theatre building,24354]]"
+- "[[_Standards/WikiData/WD~theatre_building,24354]]"
 instance_of:
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-- "[[_Standards/WikiData/WD~performing arts genre,45971958]]"
-- "[[_Standards/WikiData/WD~performing arts industry,97430452]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox theatre,12930680]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+- "[[_Standards/WikiData/WD~performing_arts_genre,45971958]]"
+- "[[_Standards/WikiData/WD~performing_arts_industry,97430452]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_theatre,12930680]]"
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Theatre,14942918]]"
-- "[[_Standards/WikiData/WD~WikiProject Performing arts,59956276]]"
+- "[[_Standards/WikiData/WD~WikiProject_Theatre,14942918]]"
+- "[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131923,27131923]]'
 Provenio_UUID: d52978a0-f3da-4cb9-8399-7eb57458aba5
 Gujarati_Vishwakosh_entry: નાટક

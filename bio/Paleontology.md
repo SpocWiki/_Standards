@@ -1,28 +1,28 @@
 ﻿---
 has_id_wikidata: Q7205
-history_of_topic: "[[_Standards/WikiData/WD~history of paleontology,195974]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_paleontology,195974]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-subclass_of: "[[_Standards/WikiData/WD~field research,1402508]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+subclass_of: "[[_Standards/WikiData/WD~field_research,1402508]]"
 partially_coincident_with:
 - '[[_Standards/WikiData/WD~paleobiology,1578310]]'
 - '[[_Standards/WikiData/WD~geology,1069]]'
 practiced_by: '[[_Standards/WikiData/WD~paleontologist,1662561]]'
 opposite_of: '[[_Standards/WikiData/WD~neontology,1898509]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Paleontology,8771989]]'
-instance_of: "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Paleontology,13107748]]'
 Provenio_UUID: 2b5645ee-b83e-4e9f-8d53-6d74f2d1184e
 BHCL_UUID: ad3bb52a-21a0-4067-8081-1c26294bd0a0
 UMLS_CUI: C0030224
-part_of: "[[_Standards/WikiData/WD~earth science,8008]]"
-named_by: "[[_Standards/WikiData/WD~Henri Marie Ducrotay de Blainville,44691]]"
+part_of: "[[_Standards/WikiData/WD~earth_science,8008]]"
+named_by: "[[_Standards/WikiData/WD~Henri_Marie_Ducrotay_de_Blainville,44691]]"
 Dewey_Decimal_Classification: 560
 Universal_Decimal_Classification: 56
 OmegaWiki_Defined_Meaning: 2712

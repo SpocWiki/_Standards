@@ -9,38 +9,38 @@ Commons_category: "Umm Kulthum"
 Google_Doodle: umm-kalthums-birthday
 work_period_start_: "1923"
 award_received:
-- "[[_Standards/WikiData/WD~National Order of the Cedar,93864]]"
-- "[[_Standards/WikiData/WD~Order of the Republic,2054765]]"
-- "[[_Standards/WikiData/WD~Order of the Republic,2304559]]"
-- "[[_Standards/WikiData/WD~Supreme Order of the Renaissance,3885164]]"
-- "[[_Standards/WikiData/WD~Order of Civil Merit (Syria),3885169]]"
-- "[[_Standards/WikiData/WD~Order of the Two Rivers,3885229]]"
-- "[[_Standards/WikiData/WD~Order of the Virtues,3885362]]"
+- "[[_Standards/WikiData/WD~National_Order_of_the_Cedar,93864]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Republic,2054765]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Republic,2304559]]"
+- "[[_Standards/WikiData/WD~Supreme_Order_of_the_Renaissance,3885164]]"
+- "[[_Standards/WikiData/WD~Order_of_Civil_Merit_(Syria),3885169]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Two_Rivers,3885229]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Virtues,3885362]]"
 country_of_citizenship:
-- "[[_Standards/WikiData/WD~Kingdom of Egypt,124943]]"
-- "[[_Standards/WikiData/WD~United Arab Republic,170468]]"
-- "[[_Standards/WikiData/WD~Republic of Egypt,3087763]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Egypt,124943]]"
+- "[[_Standards/WikiData/WD~United_Arab_Republic,170468]]"
+- "[[_Standards/WikiData/WD~Republic_of_Egypt,3087763]]"
 occupation:
 - '[[_Standards/WikiData/WD~singer,177220]]'
-- "[[_Standards/WikiData/WD~film actor,10800557]]"
+- "[[_Standards/WikiData/WD~film_actor,10800557]]"
 - '[[_Standards/WikiData/WD~actor,33999]]'
-record_label: "[[_Standards/WikiData/WD~EMI Classics,3045977]]"
-place_of_burial: "[[_Standards/WikiData/WD~Al Basatin,4165848]]"
+record_label: "[[_Standards/WikiData/WD~EMI_Classics,3045977]]"
+place_of_burial: "[[_Standards/WikiData/WD~Al_Basatin,4165848]]"
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 given_name:
-- "[[_Standards/WikiData/WD~Umm Kulthum,7881637]]"
+- "[[_Standards/WikiData/WD~Umm_Kulthum,7881637]]"
 - '[[_Standards/WikiData/WD~Fatma,18697386]]'
 spouse:
 - '[[_Standards/WikiData/WD~Q11099183,11099183]]'
-- "[[_Standards/WikiData/WD~Hassan Alhifnawy,108664471]]"
-place_of_birth: "[[_Standards/WikiData/WD~Tamayy Elzahayra,12221870]]"
+- "[[_Standards/WikiData/WD~Hassan_Alhifnawy,108664471]]"
+place_of_birth: "[[_Standards/WikiData/WD~Tamayy_Elzahayra,12221870]]"
 instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
-genre: "[[_Standards/WikiData/WD~music of Egypt,18129813]]"
+genre: "[[_Standards/WikiData/WD~music_of_Egypt,18129813]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Dictionary of African Biography,46002746]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Africa_ An Encyclopedic Reference,115653803]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender gap on Dutch Wikipedia,60687720]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
 date_of_birth: "1898-12-31"
 birth_name: "فاطمه ابراهيم السيد البلتاجى"
 ISNI: 000000012120430X
@@ -48,8 +48,8 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Umm%20Kulthum%20in%20
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
-- "[[_Standards/WikiData/WD~Egyptian Arabic,29919]]"
-native_language: "[[_Standards/WikiData/WD~Egyptian Arabic,29919]]"
+- "[[_Standards/WikiData/WD~Egyptian_Arabic,29919]]"
+native_language: "[[_Standards/WikiData/WD~Egyptian_Arabic,29919]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 place_of_death: '[[_Standards/WikiData/WD~Cairo,85]]'
 voice_type: '[[_Standards/WikiData/WD~contralto,37137]]'

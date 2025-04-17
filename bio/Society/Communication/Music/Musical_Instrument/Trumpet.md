@@ -1,11 +1,11 @@
 ---
 has_id_wikidata: Q8338
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from: '[[_Standards/WikiData/WD~Q4464220,4464220]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/C%20Major%20Scale%20Trumpet.ogv"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Trumpet%201.png"
@@ -14,9 +14,9 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Trumpet::4g5j6\"]"
 Krugosvet_article: kultura_i_obrazovanie/muzyka/TRUBA.html
 practiced_by: '[[_Standards/WikiData/WD~trumpeter,12377274]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Tyrsenus,12760076]]'
-award_received: "[[_Standards/WikiData/WD~Instrument of the Year,48757486]]"
-subclass_of: "[[_Standards/WikiData/WD~valve trumpets,55774273]]"
-instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
+award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
+subclass_of: "[[_Standards/WikiData/WD~valve_trumpets,55774273]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
 has_part_s_: '[[_Standards/WikiData/WD~sur,131931143]]'
 Nomenclature_for_Museum_Cataloging: 10676
 Hornbostel_Sachs_classification: 423.233

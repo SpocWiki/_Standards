@@ -3,14 +3,14 @@ aliases:
   - Team sport
 has_id_wikidata: Q27020041
 different_from:
-  - "[[_Standards/WikiData/WD~sports league,623109]]"
-  - "[[_Standards/WikiData/WD~sports season of a sports club,1539532]]"
+  - "[[_Standards/WikiData/WD~sports_league,623109]]"
+  - "[[_Standards/WikiData/WD~sports_season_of_a_sports_club,1539532]]"
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox international baseball tournament,7878872]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox sports season,10489628]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox international hockey competition,12981788]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox Korean Series,20322011]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox sports season,25890815]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_international_baseball_tournament,7878872]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_sports_season,10489628]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_international_hockey_competition,12981788]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_Korean_Series,20322011]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_sports_season,25890815]]"
   - "[[_Standards/WikiData/WD~Q26115261,26115261]]"
   - "[[_Standards/WikiData/WD~Q26115673,26115673]]"
   - "[[_Standards/WikiData/WD~Q26118922,26118922]]"
@@ -18,17 +18,17 @@ topic_s_main_template:
   - "[[_Standards/WikiData/WD~Q26120435,26120435]]"
   - "[[_Standards/WikiData/WD~Q26120472,26120472]]"
   - "[[_Standards/WikiData/WD~Q26120482,26120482]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~sports series,10666337]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~sports_series,10666337]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~season,10688145]]"
-  - "[[_Standards/WikiData/WD~sports competition,13406554]]"
+  - "[[_Standards/WikiData/WD~sports_competition,13406554]]"
   - "[[_Standards/WikiData/WD~competition,23807345]]"
-  - "[[_Standards/WikiData/WD~recurring sporting event edition,114609228]]"
+  - "[[_Standards/WikiData/WD~recurring_sporting_event_edition,114609228]]"
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~sporting event,16510064]]"
-  - "[[_Standards/WikiData/WD~sport competition at a multi-sport event,51031626]]"
-part_of: "[[_Standards/WikiData/WD~recurring sporting event,18608583]]"
-instance_of: "[[_Standards/WikiData/WD~tournament system,61685689]]"
+  - "[[_Standards/WikiData/WD~sporting_event,16510064]]"
+  - "[[_Standards/WikiData/WD~sport_competition_at_a_multi-sport_event,51031626]]"
+part_of: "[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]"
+instance_of: "[[_Standards/WikiData/WD~tournament_system,61685689]]"
 properties_for_this_type:
   - location
   - edition number

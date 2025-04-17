@@ -113,15 +113,15 @@ properties_for_this_type:
 - "Sratim ID"
 - "Ciné-Ressources film ID"
 model_item:
-- "[[_Standards/WikiData/WD~Star Wars_ Episode IV – A New Hope,17738]]"
-- "[[_Standards/WikiData/WD~Berlin_ Symphony of a Metropolis,632362]]"
-- "[[_Standards/WikiData/WD~Elevator to the Gallows,950893]]"
-- "[[_Standards/WikiData/WD~Wild Tales,16672466]]"
-- "[[_Standards/WikiData/WD~12 Angry Men,2345]]"
+- "[[_Standards/WikiData/WD~Star_Wars__Episode_IV_–_A_New_Hope,17738]]"
+- "[[_Standards/WikiData/WD~Berlin__Symphony_of_a_Metropolis,632362]]"
+- "[[_Standards/WikiData/WD~Elevator_to_the_Gallows,950893]]"
+- "[[_Standards/WikiData/WD~Wild_Tales,16672466]]"
+- "[[_Standards/WikiData/WD~12_Angry_Men,2345]]"
 studied_in:
-- "[[_Standards/WikiData/WD~film theory,28793]]"
-- "[[_Standards/WikiData/WD~film studies,1660187]]"
-- "[[_Standards/WikiData/WD~sociology of film,3487524]]"
+- "[[_Standards/WikiData/WD~film_theory,28793]]"
+- "[[_Standards/WikiData/WD~film_studies,1660187]]"
+- "[[_Standards/WikiData/WD~sociology_of_film,3487524]]"
 IAB_code: 324
 OmegaWiki_Defined_Meaning: 1431
 Nomenclature_for_Museum_Cataloging: 13778
@@ -133,31 +133,31 @@ U_S_National_Archives_Identifier:
 - 10631732
 - 10641443
 Dewey_Decimal_Classification: 791.43
-has_characteristic: "[[_Standards/WikiData/WD~film genre,201658]]"
+has_characteristic: "[[_Standards/WikiData/WD~film_genre,201658]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~title sequence,441606]]"
+- "[[_Standards/WikiData/WD~title_sequence,441606]]"
 - '[[_Standards/WikiData/WD~trailer,622550]]'
-- "[[_Standards/WikiData/WD~film frame,795160]]"
-- "[[_Standards/WikiData/WD~motion picture credits,4458345]]"
-- "[[_Standards/WikiData/WD~motion picture credits,20820424]]"
+- "[[_Standards/WikiData/WD~film_frame,795160]]"
+- "[[_Standards/WikiData/WD~motion_picture_credits,4458345]]"
+- "[[_Standards/WikiData/WD~motion_picture_credits,20820424]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~audiovisual work,2431196]]"
-- "[[_Standards/WikiData/WD~visual artwork,4502142]]"
-- "[[_Standards/WikiData/WD~moving image,10301427]]"
+- "[[_Standards/WikiData/WD~audiovisual_work,2431196]]"
+- "[[_Standards/WikiData/WD~visual_artwork,4502142]]"
+- "[[_Standards/WikiData/WD~moving_image,10301427]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Film,3296835]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox film,6171351]]"
-- "[[_Standards/WikiData/WD~Template_Disney+ movie,79704281]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of film,7112632]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Film,8485793]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_film,6171351]]"
+- "[[_Standards/WikiData/WD~Template_Disney+_movie,79704281]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_film,7112632]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Film,8485793]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~cinema,16144339]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131943,27131943]]'
 different_from:
-- "[[_Standards/WikiData/WD~film reel,45871375]]"
-- "[[_Standards/WikiData/WD~film reel,105759907]]"
+- "[[_Standards/WikiData/WD~film_reel,45871375]]"
+- "[[_Standards/WikiData/WD~film_reel,105759907]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 Baidu_Tieba_name: 电影
 Provenio_UUID: c909c01e-3f9e-4ff9-902b-ae3415792ce7
 Gujarati_Vishwakosh_entry: ચલચિત્ર

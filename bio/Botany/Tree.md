@@ -9,41 +9,41 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~bark,184453]]'
 - '[[_Standards/WikiData/WD~trunk,193472]]'
 - '[[_Standards/WikiData/WD~moisture,217651]]'
-- "[[_Standards/WikiData/WD~tree crown,2138208]]"
+- "[[_Standards/WikiData/WD~tree_crown,2138208]]"
 - '[[_Standards/WikiData/WD~branch,2923673]]'
 - '[[_Standards/WikiData/WD~root,41500]]'
 studied_in:
 - '[[_Standards/WikiData/WD~dendrology,192658]]'
-- "[[_Standards/WikiData/WD~forestry science,19924411]]"
+- "[[_Standards/WikiData/WD~forestry_science,19924411]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~woody plant,757163]]"
+- "[[_Standards/WikiData/WD~woody_plant,757163]]"
 - '[[_Standards/WikiData/WD~phanerophyte,1649770]]'
 part_of:
 - '[[_Standards/WikiData/WD~phanerophyte,1649770]]'
 - '[[_Standards/WikiData/WD~forest,4421]]'
 instance_of:
-- "[[_Standards/WikiData/WD~plant life-form,2355817]]"
-- "[[_Standards/WikiData/WD~organisms known by a particular common name,55983715]]"
-- "[[_Standards/WikiData/WD~first-order class,104086571]]"
+- "[[_Standards/WikiData/WD~plant_life-form,2355817]]"
+- "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+- "[[_Standards/WikiData/WD~first-order_class,104086571]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox tree,10810580]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_tree,10810580]]"
 - '[[_Standards/WikiData/WD~Template_Tree,45244242]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~macrophanerophytes,10878543]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Trees,11039711]]'
 different_from:
 - '[[_Standards/WikiData/WD~Baum,17492107]]'
 - '[[_Standards/WikiData/WD~shrub,42295]]'
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alnus%20glutinosa%20011.jpg"
 UMLS_CUI: C0040811
 Dewey_Decimal_Classification:

@@ -1,13 +1,13 @@
 ﻿---
 has_id_wikidata: Q11078
 studied_in: '[[_Standards/WikiData/WD~endocrinology,162606]]'
-part_of: "[[_Standards/WikiData/WD~organ system,188193]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~endocrine system development,21425993]]"
-opposite_of: "[[_Standards/WikiData/WD~exocrine system,28539636]]"
-instance_of: "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+part_of: "[[_Standards/WikiData/WD~organ_system,188193]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~endocrine_system_development,21425993]]"
+opposite_of: "[[_Standards/WikiData/WD~exocrine_system,28539636]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-- "[[_Standards/WikiData/WD~glandular system,126129074]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+- "[[_Standards/WikiData/WD~glandular_system,126129074]]"
 Library_of_Congress_Classification: QP187.A1-QP187.Z
 MeSH_tree_code: A06
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Endocrine%20English.svg"

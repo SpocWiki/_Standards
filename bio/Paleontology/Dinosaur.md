@@ -13,24 +13,24 @@ Commons_category: Dinosauria
 taxon_name: Dinosauria
 Commons_gallery: Dinosauria
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 instance_of:
 - '[[_Standards/WikiData/WD~clade,713623]]'
 - '[[_Standards/WikiData/WD~taxon,16521]]'
-has_list: "[[_Standards/WikiData/WD~list of dinosaurs,718452]]"
+has_list: "[[_Standards/WikiData/WD~list_of_dinosaurs,718452]]"
 taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of dinosaurs,7112607]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_dinosaurs,7112607]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dinosaurs,8772060]]'
-studied_in: "[[_Standards/WikiData/WD~dinosaur paleontology,9054789]]"
+studied_in: "[[_Standards/WikiData/WD~dinosaur_paleontology,9054789]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q50380956,50380956]]'
 parent_taxon: '[[_Standards/WikiData/WD~Dracohors,52798775]]'
 different_from:
-- "[[_Standards/WikiData/WD~non-avian dinosaur,82363570]]"
+- "[[_Standards/WikiData/WD~non-avian_dinosaur,82363570]]"
 - '[[_Standards/WikiData/WD~Dinosaurus,109923829]]'
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~dinosaur footprint,106165679]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~dinosaur_footprint,106165679]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Dinosaur.ogg"
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dinosauria%20diversity.png"
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/dinosaur"

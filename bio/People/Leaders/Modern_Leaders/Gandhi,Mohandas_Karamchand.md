@@ -10,65 +10,65 @@ occupation:
 - '[[_Standards/WikiData/WD~politician,82955]]'
 - '[[_Standards/WikiData/WD~jurist,185351]]'
 - '[[_Standards/WikiData/WD~barrister,808967]]'
-- "[[_Standards/WikiData/WD~civil rights advocate,1021386]]"
+- "[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]"
 - '[[_Standards/WikiData/WD~journalist,1930187]]'
 - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- "[[_Standards/WikiData/WD~political writer,15958642]]"
-- "[[_Standards/WikiData/WD~peace activist,16323111]]"
-- "[[_Standards/WikiData/WD~newspaper editor,17351648]]"
+- "[[_Standards/WikiData/WD~political_writer,15958642]]"
+- "[[_Standards/WikiData/WD~peace_activist,16323111]]"
+- "[[_Standards/WikiData/WD~newspaper_editor,17351648]]"
 - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
 - '[[_Standards/WikiData/WD~humanitarian,22336956]]'
-- "[[_Standards/WikiData/WD~freedom fighter,30242234]]"
+- "[[_Standards/WikiData/WD~freedom_fighter,30242234]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~memoirist,11774156]]'
 - '[[_Standards/WikiData/WD~essayist,11774202]]'
 lifestyle: '[[_Standards/WikiData/WD~vegetarianism,83364]]'
 influenced_by:
-- "[[_Standards/WikiData/WD~Henry David Thoreau,131149]]"
-- "[[_Standards/WikiData/WD~John Ruskin,179126]]"
-- "[[_Standards/WikiData/WD~G. K. Chesterton,183167]]"
+- "[[_Standards/WikiData/WD~Henry_David_Thoreau,131149]]"
+- "[[_Standards/WikiData/WD~John_Ruskin,179126]]"
+- "[[_Standards/WikiData/WD~G._K._Chesterton,183167]]"
 - '[[_Standards/WikiData/WD~Vyasa,330521]]'
-- "[[_Standards/WikiData/WD~Henry Stephens Salt,1364647]]"
+- "[[_Standards/WikiData/WD~Henry_Stephens_Salt,1364647]]"
 - '[[_Standards/WikiData/WD~Thiruvalluvar,2353373]]'
-- "[[_Standards/WikiData/WD~Narmadashankar Dave,2723334]]"
-- "[[_Standards/WikiData/WD~Leo Tolstoy,7243]]"
-- "[[_Standards/WikiData/WD~The Buddha,9441]]"
-- "[[_Standards/WikiData/WD~Shrimad Rajchandra,16382]]"
+- "[[_Standards/WikiData/WD~Narmadashankar_Dave,2723334]]"
+- "[[_Standards/WikiData/WD~Leo_Tolstoy,7243]]"
+- "[[_Standards/WikiData/WD~The_Buddha,9441]]"
+- "[[_Standards/WikiData/WD~Shrimad_Rajchandra,16382]]"
 place_of_detention:
-- "[[_Standards/WikiData/WD~Yerawada Central Jail,142534]]"
-- "[[_Standards/WikiData/WD~Aga Khan Palace,2344976]]"
+- "[[_Standards/WikiData/WD~Yerawada_Central_Jail,142534]]"
+- "[[_Standards/WikiData/WD~Aga_Khan_Palace,2344976]]"
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
-hairstyle_hairlength: "[[_Standards/WikiData/WD~hair loss,181391]]"
+hairstyle_hairlength: "[[_Standards/WikiData/WD~hair_loss,181391]]"
 child:
-- "[[_Standards/WikiData/WD~Ramdas Gandhi,185403]]"
-- "[[_Standards/WikiData/WD~Devdas Gandhi,732728]]"
-- "[[_Standards/WikiData/WD~Manilal Gandhi,1280678]]"
-- "[[_Standards/WikiData/WD~Harilal Gandhi,1390715]]"
+- "[[_Standards/WikiData/WD~Ramdas_Gandhi,185403]]"
+- "[[_Standards/WikiData/WD~Devdas_Gandhi,732728]]"
+- "[[_Standards/WikiData/WD~Manilal_Gandhi,1280678]]"
+- "[[_Standards/WikiData/WD~Harilal_Gandhi,1390715]]"
 educated_at:
-- "[[_Standards/WikiData/WD~University College London,193196]]"
-- "[[_Standards/WikiData/WD~Inner Temple,1233784]]"
-- "[[_Standards/WikiData/WD~Mahatma Gandhi Museum,4722851]]"
-- "[[_Standards/WikiData/WD~Samaldas Arts College,100148173]]"
+- "[[_Standards/WikiData/WD~University_College_London,193196]]"
+- "[[_Standards/WikiData/WD~Inner_Temple,1233784]]"
+- "[[_Standards/WikiData/WD~Mahatma_Gandhi_Museum,4722851]]"
+- "[[_Standards/WikiData/WD~Samaldas_Arts_College,100148173]]"
 notable_work: '[[_Standards/WikiData/WD~satyagraha,194279]]'
 award_received:
-- "[[_Standards/WikiData/WD~Time Person of the Year,207826]]"
-- "[[_Standards/WikiData/WD~Order of the Companions of O. R. Tambo,727815]]"
-- "[[_Standards/WikiData/WD~Kaisar-i-Hind Medal,2423226]]"
-- "[[_Standards/WikiData/WD~Queen's South Africa Medal,2469664]]"
-- "[[_Standards/WikiData/WD~Natal Native Rebellion Medal,6967959]]"
-replaced_by: "[[_Standards/WikiData/WD~Sarojini Naidu,250165]]"
-spouse: "[[_Standards/WikiData/WD~Kasturba Gandhi,264908]]"
+- "[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]"
+- "[[_Standards/WikiData/WD~Kaisar-i-Hind_Medal,2423226]]"
+- "[[_Standards/WikiData/WD~Queen's_South_Africa_Medal,2469664]]"
+- "[[_Standards/WikiData/WD~Natal_Native_Rebellion_Medal,6967959]]"
+replaced_by: "[[_Standards/WikiData/WD~Sarojini_Naidu,250165]]"
+spouse: "[[_Standards/WikiData/WD~Kasturba_Gandhi,264908]]"
 family_name: '[[_Standards/WikiData/WD~Gandhi,302736]]'
-killed_by: "[[_Standards/WikiData/WD~Nathuram Godse,312553]]"
+killed_by: "[[_Standards/WikiData/WD~Nathuram_Godse,312553]]"
 handedness: '[[_Standards/WikiData/WD~left-handedness,789447]]'
-place_of_burial: "[[_Standards/WikiData/WD~Raj Ghat and associated memorials,1210083]]"
+place_of_burial: "[[_Standards/WikiData/WD~Raj_Ghat_and_associated_memorials,1210083]]"
 member_of:
-- "[[_Standards/WikiData/WD~Inner Temple,1233784]]"
-- "[[_Standards/WikiData/WD~Vegetarian Society,2154954]]"
-ethnic_group: "[[_Standards/WikiData/WD~Gujarati people,1282294]]"
-place_of_death: "[[_Standards/WikiData/WD~Gandhi Smriti,1381516]]"
-cause_of_death: "[[_Standards/WikiData/WD~gunshot wound,2140674]]"
+- "[[_Standards/WikiData/WD~Inner_Temple,1233784]]"
+- "[[_Standards/WikiData/WD~Vegetarian_Society,2154954]]"
+ethnic_group: "[[_Standards/WikiData/WD~Gujarati_people,1282294]]"
+place_of_death: "[[_Standards/WikiData/WD~Gandhi_Smriti,1381516]]"
+cause_of_death: "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
 field_of_work:
 - '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
@@ -95,34 +95,34 @@ Commons_Creator_page: "Mohandas K. Gandhi"
 Commons_gallery: "Mohandas K. Gandhi"
 honorific_prefix: '[[_Standards/WikiData/WD~Mahatma,12937862]]'
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+- "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
 - '[[_Standards/WikiData/WD~The_Women’s_Library_LSESuffrageInterviewsProject,117322976]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Political Theory (2010 ed.),20743760]]"
-- "[[_Standards/WikiData/WD~Dictionary of African Biography,46002746]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Africa_ An Encyclopedic Reference,115653803]]"
-- "[[_Standards/WikiData/WD~Temps, espaces et histoires. Monuments et héritage raciste et colonial dans l'espace public genevois _ état des lieux historique,122870672]]"
-- "[[_Standards/WikiData/WD~Pedagogues and Psychologists of the World,126722605]]"
-eye_color: "[[_Standards/WikiData/WD~dark brown,17244894]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]"
+- "[[_Standards/WikiData/WD~Temps,_espaces_et_histoires._Monuments_et_héritage_raciste_et_colonial_dans_l'espace_public_genevois___état_des_lieux_historique,122870672]]"
+- "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
+eye_color: "[[_Standards/WikiData/WD~dark_brown,17244894]]"
 given_name: '[[_Standards/WikiData/WD~ricardo,20658450]]'
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Mahatma Gandhi,21200566]]"
-mother: "[[_Standards/WikiData/WD~Putlibai Karamchand Gandhi,48438546]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Mahatma_Gandhi,21200566]]"
+mother: "[[_Standards/WikiData/WD~Putlibai_Karamchand_Gandhi,48438546]]"
 sibling:
-- "[[_Standards/WikiData/WD~Raliatbehn Gandhi,100778818]]"
-- "[[_Standards/WikiData/WD~Muliben Gandhi,100778893]]"
-- "[[_Standards/WikiData/WD~Pankunvarben Gandhi,100778902]]"
-- "[[_Standards/WikiData/WD~Laxmidas Karamchand Gandhi,100779061]]"
-- "[[_Standards/WikiData/WD~Karsandas Gandhi,100779088]]"
+- "[[_Standards/WikiData/WD~Raliatbehn_Gandhi,100778818]]"
+- "[[_Standards/WikiData/WD~Muliben_Gandhi,100778893]]"
+- "[[_Standards/WikiData/WD~Pankunvarben_Gandhi,100778902]]"
+- "[[_Standards/WikiData/WD~Laxmidas_Karamchand_Gandhi,100779061]]"
+- "[[_Standards/WikiData/WD~Karsandas_Gandhi,100779088]]"
 work_period_start_: "1893"
 described_at_URL: "http://gadyakosh.org/gk/महात्मा_गांधी"
 audio_recording_of_the_subject_s_spoken_voice: "http://commons.wikimedia.org/wiki/Special:FilePath/Gandhi%20-%20His%20Spiritual%20Message%20to%20the%20World%2C%2017%20October%201931.mp3"
 ISNI: 0000000121386043
 date_of_birth: "1869-10-02"
 residence:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~London,84]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~India,668]]'
@@ -130,13 +130,13 @@ writing_language:
 - '[[_Standards/WikiData/WD~Hindi,1568]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Gujarati,5137]]'
-present_in_work: "[[_Standards/WikiData/WD~Civilization V,2385]]"
+present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Gujarati,5137]]'
 native_language: '[[_Standards/WikiData/WD~Gujarati,5137]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
-member_of_political_party: "[[_Standards/WikiData/WD~Indian National Congress,10225]]"
-student: "[[_Standards/WikiData/WD~Vinoba Bhave,13021]]"
-student_of: "[[_Standards/WikiData/WD~Shrimad Rajchandra,16382]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Indian_National_Congress,10225]]"
+student: "[[_Standards/WikiData/WD~Vinoba_Bhave,13021]]"
+student_of: "[[_Standards/WikiData/WD~Shrimad_Rajchandra,16382]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 height: 164
 political_ideology: '[[_Standards/WikiData/WD~Gandhism,41240]]'
@@ -152,7 +152,7 @@ Gujarati_Vishwakosh_entry: ગાંધી-મોહનદાસ-કરમચં
 name_in_native_language: "મોહનદાસ ગાંધી"
 birth_name: "મોહનદાસ ગાંધી"
 last_words: "हे राम"
-father: "[[_Standards/WikiData/WD~Karamchand Uttamchand Gandhi,11735530]]"
+father: "[[_Standards/WikiData/WD~Karamchand_Uttamchand_Gandhi,11735530]]"
 title: Gandhi,Mohandas_Karamchand
 lang: en
 type: private_note

@@ -8,46 +8,46 @@ uses:
 - '[[_Standards/WikiData/WD~energy,11379]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~homeostasis,103191]]'
-- "[[_Standards/WikiData/WD~species distribution,250388]]"
-- "[[_Standards/WikiData/WD~biological life cycle,513359]]"
-- "[[_Standards/WikiData/WD~primary nutritional group,902805]]"
-- "[[_Standards/WikiData/WD~trophic level,1053008]]"
-- "[[_Standards/WikiData/WD~date of birth,2389905]]"
-- "[[_Standards/WikiData/WD~scientific name,10753560]]"
-- "[[_Standards/WikiData/WD~feeding behavior,14819856]]"
-- "[[_Standards/WikiData/WD~organism trait,116698622]]"
-- "[[_Standards/WikiData/WD~mode of biological reproduction,130077803]]"
+- "[[_Standards/WikiData/WD~species_distribution,250388]]"
+- "[[_Standards/WikiData/WD~biological_life_cycle,513359]]"
+- "[[_Standards/WikiData/WD~primary_nutritional_group,902805]]"
+- "[[_Standards/WikiData/WD~trophic_level,1053008]]"
+- "[[_Standards/WikiData/WD~date_of_birth,2389905]]"
+- "[[_Standards/WikiData/WD~scientific_name,10753560]]"
+- "[[_Standards/WikiData/WD~feeding_behavior,14819856]]"
+- "[[_Standards/WikiData/WD~organism_trait,116698622]]"
+- "[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]"
 - '[[_Standards/WikiData/WD~taxon,16521]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~body,170494]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~organ system,188193]]"
-- "[[_Standards/WikiData/WD~biological component,28845870]]"
+- "[[_Standards/WikiData/WD~organ_system,188193]]"
+- "[[_Standards/WikiData/WD~biological_component,28845870]]"
 - '[[_Standards/WikiData/WD~cell,7868]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~physical object,223557]]"
-- "[[_Standards/WikiData/WD~physical anatomical entity,66394244]]"
+- "[[_Standards/WikiData/WD~physical_object,223557]]"
+- "[[_Standards/WikiData/WD~physical_anatomical_entity,66394244]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 studied_in:
-- "[[_Standards/WikiData/WD~life sciences,864928]]"
+- "[[_Standards/WikiData/WD~life_sciences,864928]]"
 - '[[_Standards/WikiData/WD~biology,420]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~creature,1274979]]'
 part_of:
 - '[[_Standards/WikiData/WD~Biota,2382443]]'
 - '[[_Standards/WikiData/WD~population,2625603]]'
-- "[[_Standards/WikiData/WD~group of living things,16334298]]"
+- "[[_Standards/WikiData/WD~group_of_living_things,16334298]]"
 manifestation_of:
-- "[[_Standards/WikiData/WD~living system,6506039]]"
+- "[[_Standards/WikiData/WD~living_system,6506039]]"
 - '[[_Standards/WikiData/WD~genome,7020]]'
 - '[[_Standards/WikiData/WD~life,3]]'
-has_list: "[[_Standards/WikiData/WD~list of life forms,13644563]]"
+has_list: "[[_Standards/WikiData/WD~list_of_life_forms,13644563]]"
 different_from:
 - '[[_Standards/WikiData/WD~Organism,18406856]]'
-- "[[_Standards/WikiData/WD~human body,23852]]"
+- "[[_Standards/WikiData/WD~human_body,23852]]"
 - '[[_Standards/WikiData/WD~corpse,48422]]'
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q111236253,111236253]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/E.%20coli%20Bacteria%20%287316101966%29.jpg"
 WordLift_URL: "http://data.wordlift.io/wl01714/entity/organisms.html"

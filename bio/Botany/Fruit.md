@@ -2,25 +2,25 @@
 has_id_wikidata: Q1364
 develops_from: '[[_Standards/WikiData/WD~gynoecium,588964]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 - '[[_Standards/WikiData/WD~Q101001976,101001976]]'
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 9,124737636]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
 has_part_s_: '[[_Standards/WikiData/WD~pericarp,876445]]'
 different_from:
 - '[[_Standards/WikiData/WD~fruit,3314483]]'
-- "[[_Standards/WikiData/WD~type of fruit,28149961]]"
+- "[[_Standards/WikiData/WD~type_of_fruit,28149961]]"
 partially_coincident_with: '[[_Standards/WikiData/WD~fruit,3314483]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~plant organ,24060707]]"
-- "[[_Standards/WikiData/WD~plant ovary,109121364]]"
-instance_of: "[[_Standards/WikiData/WD~botanical term,27494256]]"
-has_characteristic: "[[_Standards/WikiData/WD~type of fruit,28149961]]"
+- "[[_Standards/WikiData/WD~plant_organ,24060707]]"
+- "[[_Standards/WikiData/WD~plant_ovary,109121364]]"
+instance_of: "[[_Standards/WikiData/WD~botanical_term,27494256]]"
+has_characteristic: "[[_Standards/WikiData/WD~type_of_fruit,28149961]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frucht2.ogg"
-facet_of: "[[_Standards/WikiData/WD~plant anatomy,4021]]"
+facet_of: "[[_Standards/WikiData/WD~plant_anatomy,4021]]"
 part_of: '[[_Standards/WikiData/WD~Angiosperms,25314]]'
 Dewey_Decimal_Classification: 634
 OmegaWiki_Defined_Meaning: 1572

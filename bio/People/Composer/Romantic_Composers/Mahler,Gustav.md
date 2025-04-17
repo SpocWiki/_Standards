@@ -1,67 +1,67 @@
 ﻿---
 has_id_wikidata: Q7304
 student:
-- "[[_Standards/WikiData/WD~Anna von Mildenburg,79028]]"
-- "[[_Standards/WikiData/WD~Klaus Pringsheim,96985]]"
+- "[[_Standards/WikiData/WD~Anna_von_Mildenburg,79028]]"
+- "[[_Standards/WikiData/WD~Klaus_Pringsheim,96985]]"
 work_location:
 - '[[_Standards/WikiData/WD~Olomouc,81137]]'
 cause_of_death:
 - '[[_Standards/WikiData/WD~endocarditis,82504]]'
 - '[[_Standards/WikiData/WD~sepsis,183134]]'
 country_of_citizenship:
-- "[[_Standards/WikiData/WD~Austrian Empire,131964]]"
+- "[[_Standards/WikiData/WD~Austrian_Empire,131964]]"
 - '[[_Standards/WikiData/WD~Cisleithania,533534]]'
 spouse:
-- "[[_Standards/WikiData/WD~Alma Mahler,156898]]"
+- "[[_Standards/WikiData/WD~Alma_Mahler,156898]]"
 occupation:
 - '[[_Standards/WikiData/WD~conductor,158852]]'
 - '[[_Standards/WikiData/WD~bandleader,806349]]'
-- "[[_Standards/WikiData/WD~classical composer,21680663]]"
+- "[[_Standards/WikiData/WD~classical_composer,21680663]]"
 - '[[_Standards/WikiData/WD~composer,36834]]'
 notable_work:
-- "[[_Standards/WikiData/WD~Symphony No. 1,163553]]"
-- "[[_Standards/WikiData/WD~Symphony No. 2,210549]]"
-- "[[_Standards/WikiData/WD~Symphony No. 5,240240]]"
-- "[[_Standards/WikiData/WD~Symphony No. 8,270853]]"
-- "[[_Standards/WikiData/WD~Symphony No. 9,275858]]"
+- "[[_Standards/WikiData/WD~Symphony_No._1,163553]]"
+- "[[_Standards/WikiData/WD~Symphony_No._2,210549]]"
+- "[[_Standards/WikiData/WD~Symphony_No._5,240240]]"
+- "[[_Standards/WikiData/WD~Symphony_No._8,270853]]"
+- "[[_Standards/WikiData/WD~Symphony_No._9,275858]]"
 educated_at:
-- "[[_Standards/WikiData/WD~University of Vienna,165980]]"
-- "[[_Standards/WikiData/WD~University of Music and Performing Arts Vienna,686522]]"
+- "[[_Standards/WikiData/WD~University_of_Vienna,165980]]"
+- "[[_Standards/WikiData/WD~University_of_Music_and_Performing_Arts_Vienna,686522]]"
 genre:
-- "[[_Standards/WikiData/WD~chamber music,189201]]"
-- "[[_Standards/WikiData/WD~classical music,9730]]"
+- "[[_Standards/WikiData/WD~chamber_music,189201]]"
+- "[[_Standards/WikiData/WD~classical_music,9730]]"
 - '[[_Standards/WikiData/WD~symphony,9734]]'
 child:
-- "[[_Standards/WikiData/WD~Anna Mahler,215588]]"
-- "[[_Standards/WikiData/WD~Maria Anna Mahler,108145344]]"
-copyright_representative: "[[_Standards/WikiData/WD~American Society of Composers, Authors and Publishers,373087]]"
+- "[[_Standards/WikiData/WD~Anna_Mahler,215588]]"
+- "[[_Standards/WikiData/WD~Maria_Anna_Mahler,108145344]]"
+copyright_representative: "[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Hamburg Biographies,1573212]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~REGO,125023568]]'
-- "[[_Standards/WikiData/WD~regional database of the Regional Library of Highlands,125582843]]"
-- "[[_Standards/WikiData/WD~Brief Biographical Dictionary of Foreign Composers,125935456]]"
-- "[[_Standards/WikiData/WD~Olomouc City Library regional database,130368343]]"
+- "[[_Standards/WikiData/WD~regional_database_of_the_Regional_Library_of_Highlands,125582843]]"
+- "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
+- "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
 given_name: '[[_Standards/WikiData/WD~Gustav,746076]]'
 place_of_birth:
 - '[[_Standards/WikiData/WD~Kaliště,999950]]'
 - '[[_Standards/WikiData/WD~Kaliště,1406659]]'
-place_of_burial: "[[_Standards/WikiData/WD~Grinzing Cemetery,1546996]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-list_of_works: "[[_Standards/WikiData/WD~list of compositions by Gustav Mahler,5958736]]"
+place_of_burial: "[[_Standards/WikiData/WD~Grinzing_Cemetery,1546996]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+list_of_works: "[[_Standards/WikiData/WD~list_of_compositions_by_Gustav_Mahler,5958736]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-father: "[[_Standards/WikiData/WD~Bernhard Mahler,18543341]]"
+father: "[[_Standards/WikiData/WD~Bernhard_Mahler,18543341]]"
 family_name: '[[_Standards/WikiData/WD~Mahler,19326220]]'
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-mother: "[[_Standards/WikiData/WD~Marie Herrmann,106962438]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+mother: "[[_Standards/WikiData/WD~Marie_Herrmann,106962438]]"
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Mahler-signature.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20Gustav%20Mahler%20by%20Moritz%20N%C3%A4hr%2001.jpg"
 official_website: "http://www.gustav-mahler.org"
@@ -91,7 +91,7 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Gust
 date_of_birth: "1860-07-07"
 place_of_death: '[[_Standards/WikiData/WD~Vienna,1741]]'
 ethnic_group:
-- "[[_Standards/WikiData/WD~Jewish people,7325]]"
+- "[[_Standards/WikiData/WD~Jewish_people,7325]]"
 aliases:
 - "Gustav Mahler"
 ---

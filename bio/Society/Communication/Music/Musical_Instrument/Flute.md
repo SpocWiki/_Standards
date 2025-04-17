@@ -1,18 +1,18 @@
 ---
 has_id_wikidata: Q11405
 subclass_of:
-- "[[_Standards/WikiData/WD~wind instrument,173453]]"
-- "[[_Standards/WikiData/WD~woodwind instrument,181247]]"
+- "[[_Standards/WikiData/WD~wind_instrument,173453]]"
+- "[[_Standards/WikiData/WD~woodwind_instrument,181247]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-has_list: "[[_Standards/WikiData/WD~list of musical instruments by Hornbostel–Sachs number_ 421,5337632]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+has_list: "[[_Standards/WikiData/WD~list_of_musical_instruments_by_Hornbostel–Sachs_number__421,5337632]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fluiers.jpg"
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Flute.ogg"
 Amazon_com_browse_node:
@@ -22,7 +22,7 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/FLETA.html
 Colon_Classification: NR;22
 Unicode_character: 🪈 
 used_by: '[[_Standards/WikiData/WD~flautist,12902372]]'
-instance_of: "[[_Standards/WikiData/WD~type of musical instrument,110295396]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
 earliest_date: "-35000"
 Hornbostel_Sachs_classification: 421
 Nomenclature_for_Museum_Cataloging: 7358

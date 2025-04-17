@@ -2,26 +2,26 @@
 has_id_wikidata: Q6186
 opposite_of: '[[_Standards/WikiData/WD~anti-communism,182121]]'
 instance_of:
-- "[[_Standards/WikiData/WD~economic system,273005]]"
-- "[[_Standards/WikiData/WD~political ideology,12909644]]"
+- "[[_Standards/WikiData/WD~economic_system,273005]]"
+- "[[_Standards/WikiData/WD~political_ideology,12909644]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The ABC of Communism,10338664]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Princeton Encyclopedia of American Political History,20751032]]"
-- "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_ABC_of_Communism,10338664]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
 - '[[_Standards/WikiData/WD~Q131703556,131703556]]'
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 has_characteristic: '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of communism,2583742]]"
-different_from: "[[_Standards/WikiData/WD~libertarian communalism,2705134]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_communism,2583742]]"
+different_from: "[[_Standards/WikiData/WD~libertarian_communalism,2705134]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Communism,5880628]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Communism,8419000]]'
 subreddit:

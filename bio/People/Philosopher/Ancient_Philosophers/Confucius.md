@@ -4,65 +4,65 @@ aliases:
 - "Kong Qiu"
 has_id_wikidata: Q4604
 field_of_work:
-- "[[_Standards/WikiData/WD~social philosophy,180592]]"
+- "[[_Standards/WikiData/WD~social_philosophy,180592]]"
 - '[[_Standards/WikiData/WD~philosophy,5891]]'
 - '[[_Standards/WikiData/WD~ethics,9465]]'
 place_of_birth: '[[_Standards/WikiData/WD~Qufu,210287]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Records of the Grand Historian,272530]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Hoff's Kurze Biographien, vol 2,27051827]]"
-- "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+- "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Hoff's_Kurze_Biographien,_vol_2,27051827]]"
+- "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 notable_work: '[[_Standards/WikiData/WD~Analects,276015]]'
-place_of_burial: "[[_Standards/WikiData/WD~Cemetery of Confucius,619258]]"
+place_of_burial: "[[_Standards/WikiData/WD~Cemetery_of_Confucius,619258]]"
 student:
-- "[[_Standards/WikiData/WD~Min Sun,698867]]"
+- "[[_Standards/WikiData/WD~Min_Sun,698867]]"
 - '[[_Standards/WikiData/WD~Zilu,836861]]'
-- "[[_Standards/WikiData/WD~Zai Yu,837573]]"
-- "[[_Standards/WikiData/WD~Ran Qiu,840352]]"
-- "[[_Standards/WikiData/WD~Ran Geng,857146]]"
-- "[[_Standards/WikiData/WD~Duanmu Ci,1039504]]"
-- "[[_Standards/WikiData/WD~Yan Hui,1155960]]"
+- "[[_Standards/WikiData/WD~Zai_Yu,837573]]"
+- "[[_Standards/WikiData/WD~Ran_Qiu,840352]]"
+- "[[_Standards/WikiData/WD~Ran_Geng,857146]]"
+- "[[_Standards/WikiData/WD~Duanmu_Ci,1039504]]"
+- "[[_Standards/WikiData/WD~Yan_Hui,1155960]]"
 - '[[_Standards/WikiData/WD~Zengzi,1207671]]'
-- "[[_Standards/WikiData/WD~Gao Chai,4505450]]"
-- "[[_Standards/WikiData/WD~You Ruo,4533461]]"
-- "[[_Standards/WikiData/WD~Nangong Kuo,5363408]]"
+- "[[_Standards/WikiData/WD~Gao_Chai,4505450]]"
+- "[[_Standards/WikiData/WD~You_Ruo,4533461]]"
+- "[[_Standards/WikiData/WD~Nangong_Kuo,5363408]]"
 - '[[_Standards/WikiData/WD~Q6853486,6853486]]'
-- "[[_Standards/WikiData/WD~Yan Yan,8193964]]"
-- "[[_Standards/WikiData/WD~Ran Yong,8193981]]"
-- "[[_Standards/WikiData/WD~Gongbo Liao,10892588]]"
-- "[[_Standards/WikiData/WD~Gongye Chang,10892620]]"
-- "[[_Standards/WikiData/WD~Gongsun Long,10892833]]"
-- "[[_Standards/WikiData/WD~Gongxi Ai,10892972]]"
-- "[[_Standards/WikiData/WD~Gongxi Chi,10893003]]"
-- "[[_Standards/WikiData/WD~Yuan Xian,10911249]]"
-- "[[_Standards/WikiData/WD~Sima Geng,10916692]]"
+- "[[_Standards/WikiData/WD~Yan_Yan,8193964]]"
+- "[[_Standards/WikiData/WD~Ran_Yong,8193981]]"
+- "[[_Standards/WikiData/WD~Gongbo_Liao,10892588]]"
+- "[[_Standards/WikiData/WD~Gongye_Chang,10892620]]"
+- "[[_Standards/WikiData/WD~Gongsun_Long,10892833]]"
+- "[[_Standards/WikiData/WD~Gongxi_Ai,10892972]]"
+- "[[_Standards/WikiData/WD~Gongxi_Chi,10893003]]"
+- "[[_Standards/WikiData/WD~Yuan_Xian,10911249]]"
+- "[[_Standards/WikiData/WD~Sima_Geng,10916692]]"
 - '[[_Standards/WikiData/WD~Q10923186,10923186]]'
-- "[[_Standards/WikiData/WD~Shang Qu,10923196]]"
-- "[[_Standards/WikiData/WD~Bu Shang,10944085]]"
-- "[[_Standards/WikiData/WD~Fu Buqi,10948046]]"
-- "[[_Standards/WikiData/WD~Wuma Shi,11058327]]"
+- "[[_Standards/WikiData/WD~Shang_Qu,10923196]]"
+- "[[_Standards/WikiData/WD~Bu_Shang,10944085]]"
+- "[[_Standards/WikiData/WD~Fu_Buqi,10948046]]"
+- "[[_Standards/WikiData/WD~Wuma_Shi,11058327]]"
 - '[[_Standards/WikiData/WD~Q11085100,11085100]]'
-- "[[_Standards/WikiData/WD~Zeng Dian,11091584]]"
-- "[[_Standards/WikiData/WD~Xu Fan,11121049]]"
-- "[[_Standards/WikiData/WD~Zhuansun Shi,11447909]]"
-- "[[_Standards/WikiData/WD~Tantai Mieming,11566026]]"
-- "[[_Standards/WikiData/WD~Shuzhong Hui,12603391]]"
-- "[[_Standards/WikiData/WD~Yan Wuyou,15926484]]"
+- "[[_Standards/WikiData/WD~Zeng_Dian,11091584]]"
+- "[[_Standards/WikiData/WD~Xu_Fan,11121049]]"
+- "[[_Standards/WikiData/WD~Zhuansun_Shi,11447909]]"
+- "[[_Standards/WikiData/WD~Tantai_Mieming,11566026]]"
+- "[[_Standards/WikiData/WD~Shuzhong_Hui,12603391]]"
+- "[[_Standards/WikiData/WD~Yan_Wuyou,15926484]]"
 - '[[_Standards/WikiData/WD~Q16159585,16159585]]'
 - '[[_Standards/WikiData/WD~Q16259876,16259876]]'
 - '[[_Standards/WikiData/WD~Q16903777,16903777]]'
-- "[[_Standards/WikiData/WD~Qidiao Kai,16903788]]"
+- "[[_Standards/WikiData/WD~Qidiao_Kai,16903788]]"
 - '[[_Standards/WikiData/WD~Q24834886,24834886]]'
 - '[[_Standards/WikiData/WD~Q24834895,24834895]]'
 - '[[_Standards/WikiData/WD~Q24834907,24834907]]'
@@ -73,14 +73,14 @@ student:
 - '[[_Standards/WikiData/WD~Q24835049,24835049]]'
 - '[[_Standards/WikiData/WD~Q24835057,24835057]]'
 - '[[_Standards/WikiData/WD~Q24835065,24835065]]'
-- "[[_Standards/WikiData/WD~Công Tây Châm,24835069]]"
+- "[[_Standards/WikiData/WD~Công_Tây_Châm,24835069]]"
 - '[[_Standards/WikiData/WD~Q24835077,24835077]]'
 - '[[_Standards/WikiData/WD~Q24835085,24835085]]'
 - '[[_Standards/WikiData/WD~Q24835129,24835129]]'
 - '[[_Standards/WikiData/WD~Q24835138,24835138]]'
-- "[[_Standards/WikiData/WD~Hou Chu,24835142]]"
+- "[[_Standards/WikiData/WD~Hou_Chu,24835142]]"
 - '[[_Standards/WikiData/WD~Q24835146,24835146]]'
-- "[[_Standards/WikiData/WD~Di Hei,24835256]]"
+- "[[_Standards/WikiData/WD~Di_Hei,24835256]]"
 - '[[_Standards/WikiData/WD~Q24835261,24835261]]'
 - '[[_Standards/WikiData/WD~Q24835267,24835267]]'
 - '[[_Standards/WikiData/WD~Q24835272,24835272]]'
@@ -93,7 +93,7 @@ student:
 - '[[_Standards/WikiData/WD~Q24835303,24835303]]'
 - '[[_Standards/WikiData/WD~Q24835307,24835307]]'
 - '[[_Standards/WikiData/WD~Q24835311,24835311]]'
-- "[[_Standards/WikiData/WD~Nhan Khoái,24835315]]"
+- "[[_Standards/WikiData/WD~Nhan_Khoái,24835315]]"
 - '[[_Standards/WikiData/WD~Q24835319,24835319]]'
 - '[[_Standards/WikiData/WD~Q24835323,24835323]]'
 - '[[_Standards/WikiData/WD~Q24835327,24835327]]'
@@ -105,28 +105,28 @@ student:
 - '[[_Standards/WikiData/WD~Q24835989,24835989]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Lu,736936]]'
 work_location: '[[_Standards/WikiData/WD~Lu,736936]]'
-father: "[[_Standards/WikiData/WD~Shu-liang He,847621]]"
-place_of_death: "[[_Standards/WikiData/WD~Si River,1012627]]"
+father: "[[_Standards/WikiData/WD~Shu-liang_He,847621]]"
+place_of_death: "[[_Standards/WikiData/WD~Si_River,1012627]]"
 family_name: '[[_Standards/WikiData/WD~Kong,1043077]]'
-present_in_work: "[[_Standards/WikiData/WD~Classic of Filial Piety,1368044]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+present_in_work: "[[_Standards/WikiData/WD~Classic_of_Filial_Piety,1368044]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 occupation:
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~teacher,37226]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-mother: "[[_Standards/WikiData/WD~Yan Zhengzai,7239593]]"
-sibling: "[[_Standards/WikiData/WD~Meng Pi,7239680]]"
-child: "[[_Standards/WikiData/WD~Kong Li,7240164]]"
-native_language: "[[_Standards/WikiData/WD~Historical Chinese,10913056]]"
-spouse: "[[_Standards/WikiData/WD~Qiguan Shi,24835105]]"
+mother: "[[_Standards/WikiData/WD~Yan_Zhengzai,7239593]]"
+sibling: "[[_Standards/WikiData/WD~Meng_Pi,7239680]]"
+child: "[[_Standards/WikiData/WD~Kong_Li,7240164]]"
+native_language: "[[_Standards/WikiData/WD~Historical_Chinese,10913056]]"
+spouse: "[[_Standards/WikiData/WD~Qiguan_Shi,24835105]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27890372,27890372]]'
 name_in_native_language: 孔夫子
 date_of_birth: "-0550"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 given_name: '[[_Standards/WikiData/WD~Qiu,105723379]]'
 ancestral_home: '[[_Standards/WikiData/WD~Qufu,113492144]]'
-depicted_by: "[[_Standards/WikiData/WD~Bust of Confucius,116679061]]"
+depicted_by: "[[_Standards/WikiData/WD~Bust_of_Confucius,116679061]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Confucius%2C%20fresco%20from%20a%20Western%20Han%20tomb%20of%20Dongping%20County%2C%20Shandong%20province%2C%20China.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Konfuzius.ogg"
 NLC_authorities: 038015049
@@ -158,7 +158,7 @@ date_of_death: "-0478"
 religion_or_worldview: '[[_Standards/WikiData/WD~Confucianism,9581]]'
 movement: '[[_Standards/WikiData/WD~Confucianism,9581]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Old Chinese,35137]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Old_Chinese,35137]]"
 ArhivX_LOD: 30174
 ---
 

@@ -3,113 +3,113 @@ aliases:
 - "Alfred Hitchcock"
 - "Alfred Joseph Hitchcock"
 has_id_wikidata: Q7374
-place_of_death: "[[_Standards/WikiData/WD~Bel Air,86768]]"
-nominated_for: "[[_Standards/WikiData/WD~Academy Award for Best Director,103360]]"
+place_of_death: "[[_Standards/WikiData/WD~Bel_Air,86768]]"
+nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
 notable_work:
 - '[[_Standards/WikiData/WD~Rope,109564]]'
-- "[[_Standards/WikiData/WD~The Birds,110043]]"
+- "[[_Standards/WikiData/WD~The_Birds,110043]]"
 - '[[_Standards/WikiData/WD~Marnie,129895]]'
 - '[[_Standards/WikiData/WD~Psycho,163038]]'
 - '[[_Standards/WikiData/WD~Vertigo,202548]]'
 - '[[_Standards/WikiData/WD~Frenzy,221587]]'
-- "[[_Standards/WikiData/WD~North by Northwest,223139]]"
+- "[[_Standards/WikiData/WD~North_by_Northwest,223139]]"
 - '[[_Standards/WikiData/WD~Topaz,224004]]'
-- "[[_Standards/WikiData/WD~Mr. & Mrs. Smith,318651]]"
-- "[[_Standards/WikiData/WD~To Catch a Thief,331017]]"
-- "[[_Standards/WikiData/WD~Torn Curtain,372174]]"
-- "[[_Standards/WikiData/WD~Shadow of a Doubt,465979]]"
-- "[[_Standards/WikiData/WD~The Wrong Man,472390]]"
-- "[[_Standards/WikiData/WD~The Man Who Knew Too Much,486826]]"
-- "[[_Standards/WikiData/WD~Dial M for Murder,496255]]"
+- "[[_Standards/WikiData/WD~Mr._&_Mrs._Smith,318651]]"
+- "[[_Standards/WikiData/WD~To_Catch_a_Thief,331017]]"
+- "[[_Standards/WikiData/WD~Torn_Curtain,372174]]"
+- "[[_Standards/WikiData/WD~Shadow_of_a_Doubt,465979]]"
+- "[[_Standards/WikiData/WD~The_Wrong_Man,472390]]"
+- "[[_Standards/WikiData/WD~The_Man_Who_Knew_Too_Much,486826]]"
+- "[[_Standards/WikiData/WD~Dial_M_for_Murder,496255]]"
 - '[[_Standards/WikiData/WD~Spellbound,497311]]'
-- "[[_Standards/WikiData/WD~Strangers on a Train,499639]]"
-- "[[_Standards/WikiData/WD~The Lady Vanishes,500044]]"
-- "[[_Standards/WikiData/WD~The 39 Steps,501105]]"
+- "[[_Standards/WikiData/WD~Strangers_on_a_Train,499639]]"
+- "[[_Standards/WikiData/WD~The_Lady_Vanishes,500044]]"
+- "[[_Standards/WikiData/WD~The_39_Steps,501105]]"
 - '[[_Standards/WikiData/WD~Saboteur,502091]]'
-- "[[_Standards/WikiData/WD~Stage Fright,502530]]"
-- "[[_Standards/WikiData/WD~I Confess,512247]]"
+- "[[_Standards/WikiData/WD~Stage_Fright,502530]]"
+- "[[_Standards/WikiData/WD~I_Confess,512247]]"
 - '[[_Standards/WikiData/WD~Notorious,587419]]'
-- "[[_Standards/WikiData/WD~Foreign Correspondent,848388]]"
+- "[[_Standards/WikiData/WD~Foreign_Correspondent,848388]]"
 - '[[_Standards/WikiData/WD~Lifeboat,1170179]]'
-- "[[_Standards/WikiData/WD~The Trouble with Harry,1413227]]"
+- "[[_Standards/WikiData/WD~The_Trouble_with_Harry,1413227]]"
 - '[[_Standards/WikiData/WD~Suspicion,1509470]]'
-- "[[_Standards/WikiData/WD~Rear Window,34414]]"
-- "[[_Standards/WikiData/WD~Family Plot,47296]]"
+- "[[_Standards/WikiData/WD~Rear_Window,34414]]"
+- "[[_Standards/WikiData/WD~Family_Plot,47296]]"
 genre:
-- "[[_Standards/WikiData/WD~drama film,130232]]"
-- "[[_Standards/WikiData/WD~fantasy film,157394]]"
-- "[[_Standards/WikiData/WD~film noir,185867]]"
-- "[[_Standards/WikiData/WD~action film,188473]]"
-- "[[_Standards/WikiData/WD~horror film,200092]]"
-- "[[_Standards/WikiData/WD~silent film,226730]]"
-- "[[_Standards/WikiData/WD~adventure film,319221]]"
-- "[[_Standards/WikiData/WD~mystery film,1200678]]"
-- "[[_Standards/WikiData/WD~thriller film,2484376]]"
-- "[[_Standards/WikiData/WD~crime thriller film,19367312]]"
-- "[[_Standards/WikiData/WD~natural horror film,109626272]]"
-- "[[_Standards/WikiData/WD~psychological horror film,109629396]]"
-- "[[_Standards/WikiData/WD~psychological thriller film,109733304]]"
-- "[[_Standards/WikiData/WD~crime drama film,113485322]]"
+- "[[_Standards/WikiData/WD~drama_film,130232]]"
+- "[[_Standards/WikiData/WD~fantasy_film,157394]]"
+- "[[_Standards/WikiData/WD~film_noir,185867]]"
+- "[[_Standards/WikiData/WD~action_film,188473]]"
+- "[[_Standards/WikiData/WD~horror_film,200092]]"
+- "[[_Standards/WikiData/WD~silent_film,226730]]"
+- "[[_Standards/WikiData/WD~adventure_film,319221]]"
+- "[[_Standards/WikiData/WD~mystery_film,1200678]]"
+- "[[_Standards/WikiData/WD~thriller_film,2484376]]"
+- "[[_Standards/WikiData/WD~crime_thriller_film,19367312]]"
+- "[[_Standards/WikiData/WD~natural_horror_film,109626272]]"
+- "[[_Standards/WikiData/WD~psychological_horror_film,109629396]]"
+- "[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]"
+- "[[_Standards/WikiData/WD~crime_drama_film,113485322]]"
 educated_at:
-- "[[_Standards/WikiData/WD~University of London,170027]]"
-- "[[_Standards/WikiData/WD~Tower Hamlets College,7829663]]"
-- "[[_Standards/WikiData/WD~Salesian College,15274574]]"
+- "[[_Standards/WikiData/WD~University_of_London,170027]]"
+- "[[_Standards/WikiData/WD~Tower_Hamlets_College,7829663]]"
+- "[[_Standards/WikiData/WD~Salesian_College,15274574]]"
 country_of_citizenship:
-- "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-spouse: "[[_Standards/WikiData/WD~Alma Reville,203165]]"
+- "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+spouse: "[[_Standards/WikiData/WD~Alma_Reville,203165]]"
 occupation:
 - '[[_Standards/WikiData/WD~cinematographer,222344]]'
-- "[[_Standards/WikiData/WD~television producer,578109]]"
-- "[[_Standards/WikiData/WD~television director,2059704]]"
-- "[[_Standards/WikiData/WD~film director,2526255]]"
-- "[[_Standards/WikiData/WD~film producer,3282637]]"
+- "[[_Standards/WikiData/WD~television_producer,578109]]"
+- "[[_Standards/WikiData/WD~television_director,2059704]]"
+- "[[_Standards/WikiData/WD~film_director,2526255]]"
+- "[[_Standards/WikiData/WD~film_producer,3282637]]"
 - '[[_Standards/WikiData/WD~director,3455803]]'
-- "[[_Standards/WikiData/WD~film editor,7042855]]"
-- "[[_Standards/WikiData/WD~film actor,10800557]]"
+- "[[_Standards/WikiData/WD~film_editor,7042855]]"
+- "[[_Standards/WikiData/WD~film_actor,10800557]]"
 - '[[_Standards/WikiData/WD~producer,47541952]]'
 - '[[_Standards/WikiData/WD~screenwriter,28389]]'
 - '[[_Standards/WikiData/WD~actor,33999]]'
-child: "[[_Standards/WikiData/WD~Pat Hitchcock,271569]]"
+child: "[[_Standards/WikiData/WD~Pat_Hitchcock,271569]]"
 award_received:
-- "[[_Standards/WikiData/WD~AFI Life Achievement Award,292044]]"
-- "[[_Standards/WikiData/WD~Silver Shell for Best Director,608967]]"
-- "[[_Standards/WikiData/WD~Academy Fellowship Award,787148]]"
-- "[[_Standards/WikiData/WD~Irving G. Thalberg Memorial Award,844273]]"
-- "[[_Standards/WikiData/WD~Knight of the Legion of Honour,10855271]]"
-- "[[_Standards/WikiData/WD~Knight Commander of the Order of the British Empire,12201445]]"
-- "[[_Standards/WikiData/WD~Officer of Arts and Letters,13452524]]"
-- "[[_Standards/WikiData/WD~star on Hollywood Walk of Fame,17985761]]"
+- "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
+- "[[_Standards/WikiData/WD~Silver_Shell_for_Best_Director,608967]]"
+- "[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]"
+- "[[_Standards/WikiData/WD~Irving_G._Thalberg_Memorial_Award,844273]]"
+- "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
+- "[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]"
+- "[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]"
+- "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~Museo Nacional Centro de Arte Reina Sofía,460889]]"
-- "[[_Standards/WikiData/WD~Harvard Film Archive,14715515]]"
+- "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
+- "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
 given_name:
 - '[[_Standards/WikiData/WD~Joseph,471788]]'
 - '[[_Standards/WikiData/WD~Alfred,3480335]]'
-cause_of_death: "[[_Standards/WikiData/WD~kidney failure,476921]]"
+cause_of_death: "[[_Standards/WikiData/WD~kidney_failure,476921]]"
 residence:
 - '[[_Standards/WikiData/WD~Leytonstone,1368969]]'
 - '[[_Standards/WikiData/WD~London,84]]'
 place_of_birth: '[[_Standards/WikiData/WD~Leytonstone,1368969]]'
-filmography: "[[_Standards/WikiData/WD~Alfred Hitchcock filmography,2395037]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Alfred Hitchcock,6457493]]"
+filmography: "[[_Standards/WikiData/WD~Alfred_Hitchcock_filmography,2395037]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Alfred_Hitchcock,6457493]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-list_of_works: "[[_Standards/WikiData/WD~Alfred Hitchcock bibliography,16198872]]"
+list_of_works: "[[_Standards/WikiData/WD~Alfred_Hitchcock_bibliography,16198872]]"
 family_name: '[[_Standards/WikiData/WD~Hitchcock,16870804]]'
-archives_at: "[[_Standards/WikiData/WD~Margaret Herrick Library,17052709]]"
+archives_at: "[[_Standards/WikiData/WD~Margaret_Herrick_Library,17052709]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-- "[[_Standards/WikiData/WD~Hitchcock at the Source_ The Auteur as Adapter,102314012]]"
-- "[[_Standards/WikiData/WD~Find the Director and Other Hitchcock Games,102337153]]"
-- "[[_Standards/WikiData/WD~Hitch_ The Life and Times of Alfred Hitchcock,102399187]]"
-- "[[_Standards/WikiData/WD~The Times,50008]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA Foundation, Swiss Archive of the Performing Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- "[[_Standards/WikiData/WD~Hitchcock_at_the_Source__The_Auteur_as_Adapter,102314012]]"
+- "[[_Standards/WikiData/WD~Find_the_Director_and_Other_Hitchcock_Games,102337153]]"
+- "[[_Standards/WikiData/WD~Hitch__The_Life_and_Times_of_Alfred_Hitchcock,102399187]]"
+- "[[_Standards/WikiData/WD~The_Times,50008]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
 date_of_birth: "1899-08-13"
-father: "[[_Standards/WikiData/WD~William Hitchcock,109240273]]"
+father: "[[_Standards/WikiData/WD~William_Hitchcock,109240273]]"
 ISNI: 0000000121318219
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 languages_spoken_written_or_signed:
@@ -118,7 +118,7 @@ languages_spoken_written_or_signed:
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 height: 170
-influenced_by: "[[_Standards/WikiData/WD~F. W. Murnau,55412]]"
+influenced_by: "[[_Standards/WikiData/WD~F._W._Murnau,55412]]"
 work_period_end_: "1980"
 name_in_native_language: "Alfred Hitchcock"
 date_of_death: "1980-04-29"

@@ -1,17 +1,17 @@
 ﻿---
 has_id_wikidata: Q9764
 instance_of:
-- "[[_Standards/WikiData/WD~music genre,188451]]"
-- "[[_Standards/WikiData/WD~type of dance,107357104]]"
+- "[[_Standards/WikiData/WD~music_genre,188451]]"
+- "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~folk dance,201022]]"
-- "[[_Standards/WikiData/WD~music of Spain,964987]]"
-- "[[_Standards/WikiData/WD~Latin music,18345375]]"
+- "[[_Standards/WikiData/WD~folk_dance,201022]]"
+- "[[_Standards/WikiData/WD~music_of_Spain,964987]]"
+- "[[_Standards/WikiData/WD~Latin_music,18345375]]"
 studied_in: '[[_Standards/WikiData/WD~flamencology,2518760]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~cante flamenco,3655696]]"
-- "[[_Standards/WikiData/WD~baile flamenco,51375343]]"
-- "[[_Standards/WikiData/WD~toque flamenco,51379369]]"
+- "[[_Standards/WikiData/WD~cante_flamenco,3655696]]"
+- "[[_Standards/WikiData/WD~baile_flamenco,51375343]]"
+- "[[_Standards/WikiData/WD~toque_flamenco,51379369]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20John%20Singer%20Spanish%20Dancer.jpg"
 described_at_URL:
 - "https://ich.unesco.org/en/RL/00363"
@@ -19,17 +19,17 @@ described_at_URL:
 - "https://ich.unesco.org/fr/RL/00363"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"GypsyDancing::y9r8c\"]"
 practiced_by:
-- "[[_Standards/WikiData/WD~bailadora flamenca,28843882]]"
+- "[[_Standards/WikiData/WD~bailadora_flamenca,28843882]]"
 - '[[_Standards/WikiData/WD~cantaor,51374880]]'
 - '[[_Standards/WikiData/WD~tocaor,51397277]]'
 history_of_topic:
-- "[[_Standards/WikiData/WD~flamenco and bullfighting,30904037]]"
-- "[[_Standards/WikiData/WD~Japanese flamenco,55119881]]"
+- "[[_Standards/WikiData/WD~flamenco_and_bullfighting,30904037]]"
+- "[[_Standards/WikiData/WD~Japanese_flamenco,55119881]]"
 intangible_cultural_heritage_status:
-- "[[_Standards/WikiData/WD~Representative List of the Intangible Cultural Heritage of Humanity,110319947]]"
-- "[[_Standards/WikiData/WD~Atlas of the Intangible Heritage of Andalusia,117193683]]"
+- "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
+- "[[_Standards/WikiData/WD~Atlas_of_the_Intangible_Heritage_of_Andalusia,117193683]]"
 described_by_source: '[[_Standards/WikiData/WD~Q111605252,111605252]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Intangible Cultural Heritage,112898263]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20Flamenco%20Work%20Sample.webm"
 audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Flamenco%20sample%20by%20FRANCISCOKEEP.ogg"

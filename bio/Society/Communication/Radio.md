@@ -2,20 +2,20 @@
 has_id_wikidata: Q872
 has_part_s_:
 - '[[_Standards/WikiData/WD~antenna,131214]]'
-- "[[_Standards/WikiData/WD~radio receiver,159391]]"
+- "[[_Standards/WikiData/WD~radio_receiver,159391]]"
 - '[[_Standards/WikiData/WD~transmitter,190157]]'
 - '[[_Standards/WikiData/WD~modulator,1942300]]'
 different_from:
-- "[[_Standards/WikiData/WD~radio receiver,159391]]"
-- "[[_Standards/WikiData/WD~radio broadcasting,273623]]"
-- "[[_Standards/WikiData/WD~broadcasting service,109680674]]"
+- "[[_Standards/WikiData/WD~radio_receiver,159391]]"
+- "[[_Standards/WikiData/WD~radio_broadcasting,273623]]"
+- "[[_Standards/WikiData/WD~broadcasting_service,109680674]]"
 instance_of:
 - '[[_Standards/WikiData/WD~industry,268592]]'
 - '[[_Standards/WikiData/WD~technology,11016]]'
 history_of_topic:
-- "[[_Standards/WikiData/WD~history of radio,1517374]]"
-- "[[_Standards/WikiData/WD~timeline of radio,4501817]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of radio,7112714]]"
+- "[[_Standards/WikiData/WD~history_of_radio,1517374]]"
+- "[[_Standards/WikiData/WD~timeline_of_radio,4501817]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_radio,7112714]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131928,27131928]]'
 time_of_discovery_or_invention: "1894"
 UMLS_CUI: C0034546

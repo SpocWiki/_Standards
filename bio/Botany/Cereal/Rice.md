@@ -1,27 +1,27 @@
 ---
 has_id_wikidata: Q5090
-different_from: "[[_Standards/WikiData/WD~Oryza sativa,161426]]"
+different_from: "[[_Standards/WikiData/WD~Oryza_sativa,161426]]"
 natural_product_of_taxon:
-- "[[_Standards/WikiData/WD~Oryza sativa,161426]]"
+- "[[_Standards/WikiData/WD~Oryza_sativa,161426]]"
 - '[[_Standards/WikiData/WD~Oryza,690633]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Oryza sativa,161426]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Oryza_sativa,161426]]"
 has_use:
 - '[[_Standards/WikiData/WD~porridge,186817]]'
 - '[[_Standards/WikiData/WD~risotto,208105]]'
-- "[[_Standards/WikiData/WD~Nasi goreng,510666]]"
+- "[[_Standards/WikiData/WD~Nasi_goreng,510666]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~caryopsis,506139]]'
-- "[[_Standards/WikiData/WD~staple food,736427]]"
-- "[[_Standards/WikiData/WD~shelf-stable food,7493597]]"
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+- "[[_Standards/WikiData/WD~staple_food,736427]]"
+- "[[_Standards/WikiData/WD~shelf-stable_food,7493597]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~cereal_grain,12117]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-fabrication_method: "[[_Standards/WikiData/WD~growing of rice,29584896]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+fabrication_method: "[[_Standards/WikiData/WD~growing_of_rice,29584896]]"
 Dewey_Decimal_Classification:
 - 633.18
 - 584.9

@@ -1,21 +1,21 @@
 ﻿---
 has_id_wikidata: Q11425
 product_material_or_service_produced_or_provided:
-- "[[_Standards/WikiData/WD~animated film,202866]]"
-- "[[_Standards/WikiData/WD~animated series,581714]]"
-- "[[_Standards/WikiData/WD~animated art,16678561]]"
+- "[[_Standards/WikiData/WD~animated_film,202866]]"
+- "[[_Standards/WikiData/WD~animated_series,581714]]"
+- "[[_Standards/WikiData/WD~animated_art,16678561]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~animator,266569]]'
-- "[[_Standards/WikiData/WD~animation director,779815]]"
-- "[[_Standards/WikiData/WD~animated film director,132176156]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles-Émile Reynaud,286445]]"
+- "[[_Standards/WikiData/WD~animation_director,779815]]"
+- "[[_Standards/WikiData/WD~animated_film_director,132176156]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles-Émile_Reynaud,286445]]"
 subclass_of: '[[_Standards/WikiData/WD~filmmaking,932586]]'
-instance_of: "[[_Standards/WikiData/WD~cinematic technique,1001378]]"
+instance_of: "[[_Standards/WikiData/WD~cinematic_technique,1001378]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Animation,6679926]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Animation,11249923]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of animation,15272421]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_animation,15272421]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 - '[[_Standards/WikiData/WD~Q131308011,131308011]]'
 different_from: '[[_Standards/WikiData/WD~animation,130285417]]'
 time_of_discovery_or_invention:

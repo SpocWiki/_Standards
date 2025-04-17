@@ -9,40 +9,40 @@ drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~psychotherapy,183257]]'
 - '[[_Standards/WikiData/WD~antipsychotics,208144]]'
 - '[[_Standards/WikiData/WD~tranquilizer,1941660]]'
-- "[[_Standards/WikiData/WD~mood stabilizer,2622367]]"
+- "[[_Standards/WikiData/WD~mood_stabilizer,2622367]]"
 - '[[_Standards/WikiData/WD~anxiolytic,62903]]'
 health_specialty:
 - '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-- "[[_Standards/WikiData/WD~clinical psychology,199906]]"
+- "[[_Standards/WikiData/WD~clinical_psychology,199906]]"
 - '[[_Standards/WikiData/WD~psychiatry,7867]]'
 possible_treatment:
 - '[[_Standards/WikiData/WD~psychotherapy,183257]]'
 - '[[_Standards/WikiData/WD~psychopharmacology,1515727]]'
-opposite_of: "[[_Standards/WikiData/WD~mental health,317309]]"
+opposite_of: "[[_Standards/WikiData/WD~mental_health,317309]]"
 different_from:
-- "[[_Standards/WikiData/WD~mental health,317309]]"
-- "[[_Standards/WikiData/WD~mental illness,1499013]]"
-- "[[_Standards/WikiData/WD~somatic disease,7101840]]"
+- "[[_Standards/WikiData/WD~mental_health,317309]]"
+- "[[_Standards/WikiData/WD~mental_illness,1499013]]"
+- "[[_Standards/WikiData/WD~somatic_disease,7101840]]"
 has_effect:
 - '[[_Standards/WikiData/WD~damage,481609]]'
-- "[[_Standards/WikiData/WD~somatic disease,7101840]]"
+- "[[_Standards/WikiData/WD~somatic_disease,7101840]]"
 - '[[_Standards/WikiData/WD~suicide,10737]]'
 - '[[_Standards/WikiData/WD~death,4]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-has_list: "[[_Standards/WikiData/WD~list of mental disorders,2182963]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+has_list: "[[_Standards/WikiData/WD~list_of_mental_disorders,2182963]]"
 partially_coincident_with:
-- "[[_Standards/WikiData/WD~neurological disorder,3339235]]"
-- "[[_Standards/WikiData/WD~psychosomatic disease,10267833]]"
+- "[[_Standards/WikiData/WD~neurological_disorder,3339235]]"
+- "[[_Standards/WikiData/WD~psychosomatic_disease,10267833]]"
 handled_mitigated_or_managed_by:
-- "[[_Standards/WikiData/WD~treatment of mental disorders,3984210]]"
-- "[[_Standards/WikiData/WD~prevention of mental disorders,48998239]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-has_cause: "[[_Standards/WikiData/WD~causes of mental disorders,5054620]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mental disorders,8096255]]"
-instance_of: "[[_Standards/WikiData/WD~class of disease,112193867]]"
+- "[[_Standards/WikiData/WD~treatment_of_mental_disorders,3984210]]"
+- "[[_Standards/WikiData/WD~prevention_of_mental_disorders,48998239]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+has_cause: "[[_Standards/WikiData/WD~causes_of_mental_disorders,5054620]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mental_disorders,8096255]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
 UMLS_CUI:
 - C4046029
 - C0376338

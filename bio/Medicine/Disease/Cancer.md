@@ -9,11 +9,11 @@ IPTC_NewsCode: mediatopic/20000447
 subclass_of:
 - '[[_Standards/WikiData/WD~tumor,133212]]'
 - '[[_Standards/WikiData/WD~neoplasm,1216998]]'
-- "[[_Standards/WikiData/WD~disease of cellular proliferation,18554796]]"
+- "[[_Standards/WikiData/WD~disease_of_cellular_proliferation,18554796]]"
 - '[[_Standards/WikiData/WD~disease,12136]]'
 drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~cholecalciferol,139347]]'
-- "[[_Standards/WikiData/WD~alpha-linolenic acid,256502]]"
+- "[[_Standards/WikiData/WD~alpha-linolenic_acid,256502]]"
 - '[[_Standards/WikiData/WD~methylprednisolone,417222]]'
 - '[[_Standards/WikiData/WD~dexamethasone,422252]]'
 - '[[_Standards/WikiData/WD~prednisone,424972]]'
@@ -21,29 +21,29 @@ drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~prednisolone,11426176]]'
 studied_in:
 - '[[_Standards/WikiData/WD~oncology,162555]]'
-- "[[_Standards/WikiData/WD~cancer research,3421914]]"
-- "[[_Standards/WikiData/WD~cancer biology,85709956]]"
+- "[[_Standards/WikiData/WD~cancer_research,3421914]]"
+- "[[_Standards/WikiData/WD~cancer_biology,85709956]]"
 health_specialty: '[[_Standards/WikiData/WD~oncology,162555]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Stanford Encyclopedia of Philosophy,824553]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
-opposite_of: "[[_Standards/WikiData/WD~benign neoplasm,1417240]]"
+opposite_of: "[[_Standards/WikiData/WD~benign_neoplasm,1417240]]"
 has_characteristic: '[[_Standards/WikiData/WD~malignancy,1483951]]'
 handled_mitigated_or_managed_by:
-- "[[_Standards/WikiData/WD~cancer prevention,1787013]]"
-- "[[_Standards/WikiData/WD~treatment of cancer,2575340]]"
-- "[[_Standards/WikiData/WD~early detection of cancer,66770492]]"
-has_effect: "[[_Standards/WikiData/WD~cancer pain,3712728]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~cancer_prevention,1787013]]"
+- "[[_Standards/WikiData/WD~treatment_of_cancer,2575340]]"
+- "[[_Standards/WikiData/WD~early_detection_of_cancer,66770492]]"
+has_effect: "[[_Standards/WikiData/WD~cancer_pain,3712728]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
 has_cause:
-- "[[_Standards/WikiData/WD~infectious causes of cancer,6029220]]"
-- "[[_Standards/WikiData/WD~causes of cancer,18205885]]"
+- "[[_Standards/WikiData/WD~infectious_causes_of_cancer,6029220]]"
+- "[[_Standards/WikiData/WD~causes_of_cancer,18205885]]"
 named_after: '[[_Standards/WikiData/WD~crab,16033394]]'
-instance_of: "[[_Standards/WikiData/WD~class of disease,112193867]]"
-age_of_onset: "[[_Standards/WikiData/WD~any age,118907676]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+age_of_onset: "[[_Standards/WikiData/WD~any_age,118907676]]"
 native_label: καρκῐ́νος
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Q12078-ar.ogg"

@@ -2,29 +2,29 @@
 has_id_wikidata: Q12104
 parent_taxon: '[[_Standards/WikiData/WD~Avena,146760]]'
 has_use:
-- "[[_Standards/WikiData/WD~medicinal plant,188840]]"
+- "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
 - '[[_Standards/WikiData/WD~fodder,211439]]'
-- "[[_Standards/WikiData/WD~cereal grain,12117]]"
-award_received: "[[_Standards/WikiData/WD~Medicinal plant of the year,718769]]"
+- "[[_Standards/WikiData/WD~cereal_grain,12117]]"
+award_received: "[[_Standards/WikiData/WD~Medicinal_plant_of_the_year,718769]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Zhiwu Mingshi Tukao,107402112]]"
-- "[[_Standards/WikiData/WD~Flora Reipublicae Popularis Sinicae, volume 9(3),112869380]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+- "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~Calcifuge,1151696]]'
-- "[[_Standards/WikiData/WD~useful plant,11992872]]"
+- "[[_Standards/WikiData/WD~useful_plant,11992872]]"
 - '[[_Standards/WikiData/WD~forage,13377214]]'
 - '[[_Standards/WikiData/WD~food,2095]]'
-- "[[_Standards/WikiData/WD~cereal grain,12117]]"
+- "[[_Standards/WikiData/WD~cereal_grain,12117]]"
 this_taxon_is_source_of:
-- "[[_Standards/WikiData/WD~rolled oats,1208221]]"
-- "[[_Standards/WikiData/WD~steel-cut oats,7605615]]"
+- "[[_Standards/WikiData/WD~rolled_oats,1208221]]"
+- "[[_Standards/WikiData/WD~steel-cut_oats,7605615]]"
 - '[[_Standards/WikiData/WD~oats,24265484]]'
-- "[[_Standards/WikiData/WD~oat grain,96058331]]"
-- "[[_Standards/WikiData/WD~oat herb,96058504]]"
-- "[[_Standards/WikiData/WD~oat straw,103813666]]"
+- "[[_Standards/WikiData/WD~oat_grain,96058331]]"
+- "[[_Standards/WikiData/WD~oat_herb,96058504]]"
+- "[[_Standards/WikiData/WD~oat_straw,103813666]]"
 - '[[_Standards/WikiData/WD~avenin,130475074]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Invasion Biology,56241615]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 hardiness_of_plant: '[[_Standards/WikiData/WD~5,96279266]]'
 Dewey_Decimal_Classification:
 - 584.9
@@ -41,8 +41,8 @@ GenBank_assembly_accession_number:
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 taxon_range:
 - '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 water_footprint: 1788
 ITIS_TSN: 41459

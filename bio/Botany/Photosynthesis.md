@@ -7,19 +7,19 @@ operator:
 uses:
 - '[[_Standards/WikiData/WD~sunlight,193788]]'
 - '[[_Standards/WikiData/WD~water,283]]'
-- "[[_Standards/WikiData/WD~carbon dioxide,1997]]"
+- "[[_Standards/WikiData/WD~carbon_dioxide,1997]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Calvin cycle,220389]]"
-- "[[_Standards/WikiData/WD~light-dependent reactions,862876]]"
-- "[[_Standards/WikiData/WD~photosynthesis, dark reaction,22283112]]"
+- "[[_Standards/WikiData/WD~Calvin_cycle,220389]]"
+- "[[_Standards/WikiData/WD~light-dependent_reactions,862876]]"
+- "[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-instance_of: "[[_Standards/WikiData/WD~biological process,2996394]]"
-has_characteristic: "[[_Standards/WikiData/WD~photosynthetic efficiency,7187915]]"
-subclass_of: "[[_Standards/WikiData/WD~cell metabolism,13416689]]"
-history_of_topic: "[[_Standards/WikiData/WD~Evolution of photosynthesis,17012783]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
+has_characteristic: "[[_Standards/WikiData/WD~photosynthetic_efficiency,7187915]]"
+subclass_of: "[[_Standards/WikiData/WD~cell_metabolism,13416689]]"
+history_of_topic: "[[_Standards/WikiData/WD~Evolution_of_photosynthesis,17012783]]"
 Library_of_Congress_Classification: QR88.5
 MeSH_tree_code:
 - G02.111.158.937

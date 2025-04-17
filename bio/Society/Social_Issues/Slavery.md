@@ -7,41 +7,41 @@ Colon_Classification: "Y:492"
 uses:
 - '[[_Standards/WikiData/WD~violence,124490]]'
 - '[[_Standards/WikiData/WD~torture,132781]]'
-- "[[_Standards/WikiData/WD~human trafficking,181784]]"
+- "[[_Standards/WikiData/WD~human_trafficking,181784]]"
 - '[[_Standards/WikiData/WD~kidnapping,318296]]'
 - '[[_Standards/WikiData/WD~coercion,325980]]'
 - '[[_Standards/WikiData/WD~imprisonment,841236]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~human trafficking,181784]]"
-- "[[_Standards/WikiData/WD~debt bondage,2165988]]"
-- "[[_Standards/WikiData/WD~slave owner,10076267]]"
+- "[[_Standards/WikiData/WD~human_trafficking,181784]]"
+- "[[_Standards/WikiData/WD~debt_bondage,2165988]]"
+- "[[_Standards/WikiData/WD~slave_owner,10076267]]"
 - '[[_Standards/WikiData/WD~slave,12773225]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~unfree labour,705818]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~unfree_labour,705818]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~unfree labour,705818]]"
-- "[[_Standards/WikiData/WD~social exploitation,859884]]"
+- "[[_Standards/WikiData/WD~unfree_labour,705818]]"
+- "[[_Standards/WikiData/WD~social_exploitation,859884]]"
 different_from:
 - '[[_Standards/WikiData/WD~slavery,4386856]]'
 - '[[_Standards/WikiData/WD~Symphiles,107284513]]'
-- "[[_Standards/WikiData/WD~prison labor,123762885]]"
-- "[[_Standards/WikiData/WD~indentured servitude,123762942]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of slavery,12981973]]"
+- "[[_Standards/WikiData/WD~prison_labor,123762885]]"
+- "[[_Standards/WikiData/WD~indentured_servitude,123762942]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_slavery,12981973]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-- "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
-- "[[_Standards/WikiData/WD~Wiki goes Caribbean,85931561]]"
+- "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
+- "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+- "[[_Standards/WikiData/WD~Wiki_goes_Caribbean,85931561]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Slavery,24040623]]'
 UMLS_CUI: C3658278
 MeSH_tree_code: I01.880.735.384.350

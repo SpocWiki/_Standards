@@ -3,19 +3,19 @@ has_id_wikidata: Q7881
 has_part_s_: '[[_Standards/WikiData/WD~bone,265868]]'
 different_from: '[[_Standards/WikiData/WD~Skeleton,572411]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~skeletal system development,14860466]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~skeletal_system_development,14860466]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~anatomical collection,27043941]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-instance_of: "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+- "[[_Standards/WikiData/WD~anatomical_collection,27043941]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 studied_in: '[[_Standards/WikiData/WD~skeletology,115957183]]'
 UMLS_CUI: C0816871
 MeSH_tree_code: A02.835

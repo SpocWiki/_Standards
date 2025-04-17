@@ -2,45 +2,45 @@
 has_id_wikidata: Q349
 has_use:
 - '[[_Standards/WikiData/WD~pleasure,208195]]'
-- "[[_Standards/WikiData/WD~physical fitness,309252]]"
+- "[[_Standards/WikiData/WD~physical_fitness,309252]]"
 studied_in:
-- "[[_Standards/WikiData/WD~sociology of sport,594322]]"
-- "[[_Standards/WikiData/WD~sports science,1298380]]"
-- "[[_Standards/WikiData/WD~sports technology,2312877]]"
+- "[[_Standards/WikiData/WD~sociology_of_sport,594322]]"
+- "[[_Standards/WikiData/WD~sports_science,1298380]]"
+- "[[_Standards/WikiData/WD~sports_technology,2312877]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Gender Glossar,106508758]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass_of: "[[_Standards/WikiData/WD~physical activity,747883]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Gender_Glossar,106508758]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+subclass_of: "[[_Standards/WikiData/WD~physical_activity,747883]]"
 uses:
-- "[[_Standards/WikiData/WD~sports equipment,768186]]"
-- "[[_Standards/WikiData/WD~sports venue,1076486]]"
-- "[[_Standards/WikiData/WD~sports field,1202618]]"
+- "[[_Standards/WikiData/WD~sports_equipment,768186]]"
+- "[[_Standards/WikiData/WD~sports_venue,1076486]]"
+- "[[_Standards/WikiData/WD~sports_field,1202618]]"
 - '[[_Standards/WikiData/WD~pitch,2310214]]'
-- "[[_Standards/WikiData/WD~sports location,23764314]]"
+- "[[_Standards/WikiData/WD~sports_location,23764314]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~athlete,2066131]]'
 - '[[_Standards/WikiData/WD~sportsperson,50995749]]'
 different_from:
-- "[[_Standards/WikiData/WD~sports discipline,2312410]]"
-- "[[_Standards/WikiData/WD~physical preparedness,3409055]]"
-- "[[_Standards/WikiData/WD~sports competition,13406554]]"
-- "[[_Standards/WikiData/WD~type of sport,31629]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~game-based sport,4438147]]"
+- "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
+- "[[_Standards/WikiData/WD~physical_preparedness,3409055]]"
+- "[[_Standards/WikiData/WD~sports_competition,13406554]]"
+- "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~game-based_sport,4438147]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sports,6566190]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Sports,8001410]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox sport overview,14397460]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of sports,16000501]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Sports,8001410]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_sport_overview,14397460]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_sports,16000501]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131947,27131947]]'
-part_of: "[[_Standards/WikiData/WD~sport, games, physical exercises,66662493]]"
+part_of: "[[_Standards/WikiData/WD~sport,_games,_physical_exercises,66662493]]"
 Unicode_range: U+200D,U+2640,U+2642,U+26BD,U+26BE,U+26F3,U+26F7-26F9,U+FE0F,U+1F396,U+1F3A3,U+1F3B1,U+1F3BD-1F3C0,U+1F3C2,U+1F3C4-1F3CC,U+1F3CF-1F3D3,U+1F3F8,U+1F3F9,U+1F6A3,U+1F6B4,U+1F6B5,U+1F938,U+1F93A,U+1F93C-1F93E,U+1F945,U+1F947-1F94B
 Baidu_Tieba_name: 体育
 Provenio_UUID: 56c6b65e-d68a-416a-ac1e-ff831d347ca5
 UMLS_CUI: C1510656
 Wikidata_property: sport
-has_characteristic: "[[_Standards/WikiData/WD~type of sport,31629]]"
+has_characteristic: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
 social_media_followers: 74900000
 IAB_code: 483
 Chinese_Library_Classification: G8

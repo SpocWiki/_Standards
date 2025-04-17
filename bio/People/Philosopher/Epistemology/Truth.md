@@ -12,14 +12,14 @@ different_from:
 - '[[_Standards/WikiData/WD~Truth,413495]]'
 - '[[_Standards/WikiData/WD~certainty,1520777]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Baidu Baike,803722]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Baidu_Baike,803722]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 partially_coincident_with: '[[_Standards/WikiData/WD~credibility,1530061]]'
-instance_of: "[[_Standards/WikiData/WD~type of value,129510955]]"
-opposite_of: "[[_Standards/WikiData/WD~false statement,17949]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_value,129510955]]"
+opposite_of: "[[_Standards/WikiData/WD~false_statement,17949]]"
 Dewey_Decimal_Classification:
 - 121
 - 111.8

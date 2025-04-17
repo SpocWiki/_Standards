@@ -1,11 +1,11 @@
 ﻿---
 has_id_wikidata: Q8432
-described_by_source: "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+described_by_source: "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 facet_of: '[[_Standards/WikiData/WD~humanity,1156970]]'
 different_from: '[[_Standards/WikiData/WD~Civilization,1868663]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~world community,8036557]]"
-opposite_of: "[[_Standards/WikiData/WD~primitive culture,83781188]]"
-has_characteristic: "[[_Standards/WikiData/WD~technological state of a civilization,113470485]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~world_community,8036557]]"
+opposite_of: "[[_Standards/WikiData/WD~primitive_culture,83781188]]"
+has_characteristic: "[[_Standards/WikiData/WD~technological_state_of_a_civilization,113470485]]"
 Provenio_UUID: aa01f293-410a-422c-b8b1-93552340f5cf
 UMLS_CUI: C0008870
 subclass_of: '[[_Standards/WikiData/WD~society,8425]]'

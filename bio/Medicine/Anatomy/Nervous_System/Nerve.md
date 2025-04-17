@@ -1,20 +1,20 @@
 ﻿---
 has_id_wikidata: Q9620
-part_of: "[[_Standards/WikiData/WD~peripheral nervous system,169953]]"
+part_of: "[[_Standards/WikiData/WD~peripheral_nervous_system,169953]]"
 has_part_s_: '[[_Standards/WikiData/WD~axon,178999]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~nervous tissue,203850]]"
-- "[[_Standards/WikiData/WD~segment of neural tree organ,66506231]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
+- "[[_Standards/WikiData/WD~nervous_tissue,203850]]"
+- "[[_Standards/WikiData/WD~segment_of_neural_tree_organ,66506231]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 different_from: '[[_Standards/WikiData/WD~vein,1249637]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox nerve,6047774]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_nerve,6047774]]"
 instance_of:
-- "[[_Standards/WikiData/WD~anatomical structure class type,103914748]]"
-- "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+- "[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]"
+- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 UMLS_CUI: C0027740
 WordLift_URL: "http://data.wordlift.io/wl01714/entity/nerves"
 properties_for_this_type: innervates

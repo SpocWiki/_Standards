@@ -21,50 +21,50 @@ IPTC_NewsCode: mediatopic/20000446
 has_characteristic:
 - '[[_Standards/WikiData/WD~symptom,169872]]'
 - '[[_Standards/WikiData/WD~duration,2199864]]'
-- "[[_Standards/WikiData/WD~disease burden,5282120]]"
-- "[[_Standards/WikiData/WD~disease attributes,54932064]]"
-- "[[_Standards/WikiData/WD~disease state,88468369]]"
+- "[[_Standards/WikiData/WD~disease_burden,5282120]]"
+- "[[_Standards/WikiData/WD~disease_attributes,54932064]]"
+- "[[_Standards/WikiData/WD~disease_state,88468369]]"
 - '[[_Standards/WikiData/WD~severity,96278582]]'
 handled_mitigated_or_managed_by:
-- "[[_Standards/WikiData/WD~medical treatment,179661]]"
-- "[[_Standards/WikiData/WD~disease management,883708]]"
-- "[[_Standards/WikiData/WD~early detection of disease,19760770]]"
-- "[[_Standards/WikiData/WD~disease prevention,106807541]]"
+- "[[_Standards/WikiData/WD~medical_treatment,179661]]"
+- "[[_Standards/WikiData/WD~disease_management,883708]]"
+- "[[_Standards/WikiData/WD~early_detection_of_disease,19760770]]"
+- "[[_Standards/WikiData/WD~disease_prevention,106807541]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~congenital disorder,727096]]"
-- "[[_Standards/WikiData/WD~acquired disorder,3621717]]"
+- "[[_Standards/WikiData/WD~congenital_disorder,727096]]"
+- "[[_Standards/WikiData/WD~acquired_disorder,3621717]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~health problem,2057971]]"
-- "[[_Standards/WikiData/WD~biological process,2996394]]"
-has_cause: "[[_Standards/WikiData/WD~disease causative agent,2826767]]"
+- "[[_Standards/WikiData/WD~health_problem,2057971]]"
+- "[[_Standards/WikiData/WD~biological_process,2996394]]"
+has_cause: "[[_Standards/WikiData/WD~disease_causative_agent,2826767]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
-- "[[_Standards/WikiData/WD~WikiProject COVID-19,87748614]]"
+- "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- "[[_Standards/WikiData/WD~WikiProject_COVID-19,87748614]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox medical condition (old),6436840]]"
-- "[[_Standards/WikiData/WD~Template_Infobox medical condition,22765453]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~medical state,6806605]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_medical_condition_(old),6436840]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_medical_condition,22765453]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~medical_state,6806605]]"
 studied_in:
-- "[[_Standards/WikiData/WD~sociology of health and illness,7552854]]"
+- "[[_Standards/WikiData/WD~sociology_of_health_and_illness,7552854]]"
 - '[[_Standards/WikiData/WD~pathology,7208]]'
 has_effect:
 - '[[_Standards/WikiData/WD~discomfort,12101178]]'
 - '[[_Standards/WikiData/WD~death,4]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 instance_of:
-- "[[_Standards/WikiData/WD~variable-order class,23958852]]"
-- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+- "[[_Standards/WikiData/WD~variable-order_class,23958852]]"
+- "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
 different_from:
-- "[[_Standards/WikiData/WD~disease of a particular individual,112193769]]"
-- "[[_Standards/WikiData/WD~class of disease,112193867]]"
+- "[[_Standards/WikiData/WD~disease_of_a_particular_individual,112193769]]"
+- "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mycobacterium%20tuberculosis.jpg"
 EntitySchema_for_this_class: E69
 Wikidata_property:

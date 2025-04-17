@@ -32,7 +32,7 @@ different_from:
 - '[[_Standards/WikiData/WD~maltose,170002]]'
 - '[[_Standards/WikiData/WD~α-lactose,27104342]]'
 - '[[_Standards/WikiData/WD~beta-L-fructo-furanose,27462479]]'
-- "[[_Standards/WikiData/WD~sugar product,121599918]]"
+- "[[_Standards/WikiData/WD~sugar_product,121599918]]"
 - '[[_Standards/WikiData/WD~carbohydrate,11358]]'
 - '[[_Standards/WikiData/WD~glucose,37525]]'
 has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
@@ -40,15 +40,15 @@ instance_of:
 - '[[_Standards/WikiData/WD~commodity,317088]]'
 - '[[_Standards/WikiData/WD~excipient,902638]]'
 - '[[_Standards/WikiData/WD~sweetener,3400794]]'
-- "[[_Standards/WikiData/WD~group or class of chemical substances,17339814]]"
+- "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-part_of: "[[_Standards/WikiData/WD~cioccolato di Modica,1790835]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+part_of: "[[_Standards/WikiData/WD~cioccolato_di_Modica,1790835]]"
 UMLS_CUI: C0242209
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Q11002-ar.ogg"

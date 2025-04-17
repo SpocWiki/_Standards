@@ -4,18 +4,18 @@ subreddit: deaf
 health_specialty: '[[_Standards/WikiData/WD~otolaryngology,189553]]'
 studied_in: '[[_Standards/WikiData/WD~audiology,569965]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~hearing disorder,1644260]]"
-- "[[_Standards/WikiData/WD~sensory loss,2289481]]"
-- "[[_Standards/WikiData/WD~ear symptom,102187283]]"
-- "[[_Standards/WikiData/WD~sensory disability,115269691]]"
-opposite_of: "[[_Standards/WikiData/WD~hearing person,11873762]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~hearing loss,16035842]]"
+- "[[_Standards/WikiData/WD~hearing_disorder,1644260]]"
+- "[[_Standards/WikiData/WD~sensory_loss,2289481]]"
+- "[[_Standards/WikiData/WD~ear_symptom,102187283]]"
+- "[[_Standards/WikiData/WD~sensory_disability,115269691]]"
+opposite_of: "[[_Standards/WikiData/WD~hearing_person,11873762]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~hearing_loss,16035842]]"
 genetic_association: '[[_Standards/WikiData/WD~GJB2,18025996]]'
-instance_of: "[[_Standards/WikiData/WD~symptom or sign,112965645]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Hearing Health,123226125]]"
+instance_of: "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]"
 Commons_category: Deafness
 UMLS_CUI:
 - C0151588

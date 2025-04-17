@@ -5,25 +5,25 @@ has_id_wikidata: Q8454
 subclass_of:
 - '[[_Standards/WikiData/WD~homicide,149086]]'
 - '[[_Standards/WikiData/WD~punishment,186361]]'
-- "[[_Standards/WikiData/WD~unnatural death,855919]]"
+- "[[_Standards/WikiData/WD~unnatural_death,855919]]"
 - '[[_Standards/WikiData/WD~sentence,1763090]]'
-- "[[_Standards/WikiData/WD~cause of death,1931388]]"
+- "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
 practiced_by: '[[_Standards/WikiData/WD~executioner,207651]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Global Justice (2011 ed.),21002838]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-instance_of: "[[_Standards/WikiData/WD~manner of death,2438541]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+instance_of: "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
 has_effect: '[[_Standards/WikiData/WD~execution,3966286]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
 MeSH_tree_code: I01.880.604.160
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Capital%20punishment%20in%20the%20world%202024.svg"
 image:
