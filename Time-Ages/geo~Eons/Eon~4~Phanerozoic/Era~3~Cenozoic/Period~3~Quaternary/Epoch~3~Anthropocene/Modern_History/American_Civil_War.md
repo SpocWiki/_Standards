@@ -63,7 +63,9 @@ Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"AmericanCivilWar\"
 
 ## #has_/text_of_/abstract 
 
-> The **American Civil War** (April 12, 1861 – May 26, 1865; also known by other names) was a civil war in the United States between the Union ("the North") and the Confederacy ("the South"), which was formed in 1861 by states that had seceded from the Union. The central conflict leading to war was a dispute over whether slavery should be permitted to expand into the western territories, leading to more slave states, or be prohibited from doing so, which many believed would place slavery on a course of ultimate extinction.
+> The **American Civil War** (April 12, 1861 – May 26, 1865; also known by other names) 
+> was a civil war in the United States between the Union ("the North") 
+> and the Confederacy ("the South"), which was formed in 1861 by states that had seceded from the Union. The central conflict leading to war was a dispute over whether slavery should be permitted to expand into the western territories, leading to more slave states, or be prohibited from doing so, which many believed would place slavery on a course of ultimate extinction.
 >
 > Decades of controversy over slavery came to a head when Abraham Lincoln, who opposed slavery's expansion, won the 1860 presidential election. Seven Southern slave states responded to Lincoln's victory by seceding from the United States and forming the Confederacy. The Confederacy seized U.S. forts and other federal assets within their borders. The war began on April 12, 1861, when the Confederacy bombarded Fort Sumter in South Carolina. A wave of enthusiasm for war swept over the North and South, as military recruitment soared. Four more Southern states seceded after the war began and, led by its president, Jefferson Davis, the Confederacy asserted control over a third of the U.S. population in eleven states. Four years of intense combat, mostly in the South, ensued.
 >
