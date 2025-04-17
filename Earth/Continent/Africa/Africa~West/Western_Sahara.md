@@ -61,32 +61,32 @@ GitHub_topic: western-sahara
 subreddit: WesternSahara
 Commons_gallery: "صحراء غربية - Sahara Occidental"
 country:
-- "[[_Standards/WikiData/WD~Spanish Empire,80702]]"
-- "[[_Standards/WikiData/WD~Spanish Sahara,689837]]"
-- "[[_Standards/WikiData/WD~Spanish West Africa,1191986]]"
-- "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
+- "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
+- "[[_Standards/WikiData/WD~Spanish_Sahara,689837]]"
+- "[[_Standards/WikiData/WD~Spanish_West_Africa,1191986]]"
+- "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.eh,433562]]'
 different_from:
-- "[[_Standards/WikiData/WD~Río de Oro,929147]]"
-- "[[_Standards/WikiData/WD~Saharan Morocco,14207244]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Western Sahara,979992]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Southern Provinces,1418613]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Western Sahara,2747008]]"
-culture: "[[_Standards/WikiData/WD~culture of Western Sahara,3271104]]"
-lowest_point: "[[_Standards/WikiData/WD~Sebkha Tah,3476951]]"
+- "[[_Standards/WikiData/WD~Río_de_Oro,929147]]"
+- "[[_Standards/WikiData/WD~Saharan_Morocco,14207244]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Western_Sahara,979992]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Southern_Provinces,1418613]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Western_Sahara,2747008]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Western_Sahara,3271104]]"
+lowest_point: "[[_Standards/WikiData/WD~Sebkha_Tah,3476951]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_El_Aaiun,4689492]]'
 - '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-bibliography: "[[_Standards/WikiData/WD~bibliography of Western Sahara,4903404]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Western Sahara,5333811]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Western Sahara,7112525]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_Western_Sahara,4903404]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Western_Sahara,5333811]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Western_Sahara,7112525]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Western Sahara,14614952]]"
-instance_of: "[[_Standards/WikiData/WD~disputed territory,15239622]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Western_Sahara,14614952]]"
+instance_of: "[[_Standards/WikiData/WD~disputed_territory,15239622]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q18929684,18929684]]'
-flag: "[[_Standards/WikiData/WD~flag of Western Sahara,39074811]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Western_Sahara,39074811]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
 coordinates_of_westernmost_point: "Point(-17.091666666 20.833333333)"
 short_name: EH
 Wolfram_Language_entity_code: "Entity[\"Country\", \"WesternSahara\"]"
@@ -99,15 +99,15 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
 territory_claimed_by:
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
-- "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
+- "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
 language_used:
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
-- "[[_Standards/WikiData/WD~Hassaniya Arabic,56231]]"
-- "[[_Standards/WikiData/WD~Moroccan Arabic,56426]]"
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
-part_of: "[[_Standards/WikiData/WD~North Africa,27381]]"
+- "[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]"
+- "[[_Standards/WikiData/WD~Moroccan_Arabic,56426]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
+part_of: "[[_Standards/WikiData/WD~North_Africa,27381]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 elevation_above_sea_level: 237
 area: 266000
 population: 612000

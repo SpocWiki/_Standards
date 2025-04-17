@@ -2,21 +2,21 @@
 has_id_wikidata: Q37756
 subclass_of:
 - '[[_Standards/WikiData/WD~mixture,169336]]'
-- "[[_Standards/WikiData/WD~metallic material,1924900]]"
+- "[[_Standards/WikiData/WD~metallic_material,1924900]]"
 - '[[_Standards/WikiData/WD~solution,5447188]]'
 different_from: '[[_Standards/WikiData/WD~intermetallic,428069]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~alloy,13196698]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox alloy,22862883]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_alloy,22862883]]"
 - '[[_Standards/WikiData/WD~Q25745539,25745539]]'
-instance_of: "[[_Standards/WikiData/WD~numismatic term,87491079]]"
+instance_of: "[[_Standards/WikiData/WD~numismatic_term,87491079]]"
 UMLS_CUI: C0002154
 Common_Procurement_Vocabulary_code: 14620000-3
 OmegaWiki_Defined_Meaning: 143

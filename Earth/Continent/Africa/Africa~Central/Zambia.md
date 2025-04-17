@@ -1,62 +1,62 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~Food and Agriculture Organization,82151]]"
-- "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
-- "[[_Standards/WikiData/WD~Group of 77,477328]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Fund for Agricultural Development,689859]]"
-- "[[_Standards/WikiData/WD~Southern African Development Community,816706]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Lomé Convention,980770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~International Federation of Red Cross and Red Crescent Societies,1069175]]"
-- "[[_Standards/WikiData/WD~International Confederation of Free Trade Unions,1138589]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
-- "[[_Standards/WikiData/WD~International Monetary Fund,7804]]"
+- "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
+- "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
+- "[[_Standards/WikiData/WD~Group_of_77,477328]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
+- "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Lomé_Convention,980770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~International_Federation_of_Red_Cross_and_Red_Crescent_Societies,1069175]]"
+- "[[_Standards/WikiData/WD~International_Confederation_of_Free_Trade_Unions,1138589]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
+- "[[_Standards/WikiData/WD~International_Monetary_Fund,7804]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~International Organization for Standardization,15028]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~International Olympic Committee,40970]]"
-- "[[_Standards/WikiData/WD~International Atomic Energy Agency,41984]]"
-- "[[_Standards/WikiData/WD~International Criminal Court,47488]]"
-- "[[_Standards/WikiData/WD~International Labour Organization,54129]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
+- "[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]"
+- "[[_Standards/WikiData/WD~International_Criminal_Court,47488]]"
+- "[[_Standards/WikiData/WD~International_Labour_Organization,54129]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
-flag: "[[_Standards/WikiData/WD~flag of Zambia,170814]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Zambia,170814]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~representative democracy,188759]]"
-- "[[_Standards/WikiData/WD~presidential system,49892]]"
+- "[[_Standards/WikiData/WD~representative_democracy,188759]]"
+- "[[_Standards/WikiData/WD~presidential_system,49892]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Central Province,190718]]"
-- "[[_Standards/WikiData/WD~Luapula Province,386667]]"
-- "[[_Standards/WikiData/WD~Southern Province,738382]]"
-- "[[_Standards/WikiData/WD~Western Province,748486]]"
-- "[[_Standards/WikiData/WD~Northern Province,778738]]"
-- "[[_Standards/WikiData/WD~Lusaka Province,819998]]"
-- "[[_Standards/WikiData/WD~Eastern Province,823810]]"
-- "[[_Standards/WikiData/WD~Northwestern Province,846320]]"
-- "[[_Standards/WikiData/WD~Copperbelt Province,1131523]]"
-- "[[_Standards/WikiData/WD~Muchinga Province,6714242]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Zambia,271213]]"
-anthem: "[[_Standards/WikiData/WD~Stand and Sing of Zambia, Proud and Free,463375]]"
+- "[[_Standards/WikiData/WD~Central_Province,190718]]"
+- "[[_Standards/WikiData/WD~Luapula_Province,386667]]"
+- "[[_Standards/WikiData/WD~Southern_Province,738382]]"
+- "[[_Standards/WikiData/WD~Western_Province,748486]]"
+- "[[_Standards/WikiData/WD~Northern_Province,778738]]"
+- "[[_Standards/WikiData/WD~Lusaka_Province,819998]]"
+- "[[_Standards/WikiData/WD~Eastern_Province,823810]]"
+- "[[_Standards/WikiData/WD~Northwestern_Province,846320]]"
+- "[[_Standards/WikiData/WD~Copperbelt_Province,1131523]]"
+- "[[_Standards/WikiData/WD~Muchinga_Province,6714242]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Zambia,271213]]"
+anthem: "[[_Standards/WikiData/WD~Stand_and_Sing_of_Zambia,_Proud_and_Free,463375]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~999,3086706]]'
@@ -79,13 +79,13 @@ language_used:
 - '[[_Standards/WikiData/WD~Lenje,6522666]]'
 - '[[_Standards/WikiData/WD~Mwanga,6944666]]'
 - '[[_Standards/WikiData/WD~Nkoya,7042633]]'
-- "[[_Standards/WikiData/WD~Settler Swahili,7456938]]"
+- "[[_Standards/WikiData/WD~Settler_Swahili,7456938]]"
 - '[[_Standards/WikiData/WD~Simaa,7517329]]'
 - '[[_Standards/WikiData/WD~Soli,7557754]]'
 - '[[_Standards/WikiData/WD~Tabwa,7673650]]'
-- "[[_Standards/WikiData/WD~Zambian Sign Language,8065713]]"
+- "[[_Standards/WikiData/WD~Zambian_Sign_Language,8065713]]"
 - '[[_Standards/WikiData/WD~Sala,10961665]]'
-- "[[_Standards/WikiData/WD~Congo Swahili,10961696]]"
+- "[[_Standards/WikiData/WD~Congo_Swahili,10961696]]"
 - '[[_Standards/WikiData/WD~Mbowe,10962309]]'
 - '[[_Standards/WikiData/WD~Totela,10962316]]'
 - '[[_Standards/WikiData/WD~Mashi,10962737]]'
@@ -103,31 +103,31 @@ language_used:
 - '[[_Standards/WikiData/WD~Tumbuka,34138]]'
 - '[[_Standards/WikiData/WD~Mbunda,34170]]'
 - '[[_Standards/WikiData/WD~Lamba,36098]]'
-head_of_state: "[[_Standards/WikiData/WD~Hakainde Hichilema,717185]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Zambia,806694]]"
-replaces: "[[_Standards/WikiData/WD~Northern Rhodesia,953903]]"
+head_of_state: "[[_Standards/WikiData/WD~Hakainde_Hichilema,717185]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Zambia,806694]]"
+replaces: "[[_Standards/WikiData/WD~Northern_Rhodesia,953903]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Zambia,1426959]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Zambia,1537085]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,1784088]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Zambia,2270405]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Zambia,2667571]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Zambia,1426959]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Zambia,1537085]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1784088]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Zambia,2270405]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Zambia,2667571]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Lusaka,4689508]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Zambia,5015573]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Zambia,7112535]]"
-culture: "[[_Standards/WikiData/WD~culture of Zambia,11680967]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Zambia,5015573]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Zambia,7112535]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Zambia,11680967]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Zambia,14616351]]'
-highest_point: "[[_Standards/WikiData/WD~Mafinga Central,18351462]]"
-head_of_government: "[[_Standards/WikiData/WD~Edgar Lungu,18352991]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Zambia,18985034]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Zambia,18985034]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+highest_point: "[[_Standards/WikiData/WD~Mafinga_Central,18351462]]"
+head_of_government: "[[_Standards/WikiData/WD~Edgar_Lungu,18352991]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Zambia,18985034]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Zambia,18985034]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 coordinates_of_northernmost_point: "Point(30.42895 -8.27494)"
 UMLS_CUI: C0043445
 coordinates_of_easternmost_point: "Point(33.7095 -10.56768)"
@@ -184,9 +184,9 @@ nominal_GDP:
 - 29784454056
 coordinate_location: "Point(28.0 -14.0)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
@@ -194,7 +194,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Malawi,1020]]'
 - '[[_Standards/WikiData/WD~Namibia,1030]]'
@@ -202,12 +202,12 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Egypt,79]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -217,7 +217,7 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Malawi,1020]]'
 - '[[_Standards/WikiData/WD~Namibia,1030]]'
 - '[[_Standards/WikiData/WD~Mozambique,1029]]'
@@ -225,10 +225,10 @@ country: '[[_Standards/WikiData/WD~Zambia,953]]'
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
 capital: '[[_Standards/WikiData/WD~Lusaka,3881]]'
 part_of:
-- "[[_Standards/WikiData/WD~Southern Africa,27394]]"
-- "[[_Standards/WikiData/WD~East Africa,27407]]"
-- "[[_Standards/WikiData/WD~Central Africa,27433]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern Africa,27394]]"
+- "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
+- "[[_Standards/WikiData/WD~East_Africa,27407]]"
+- "[[_Standards/WikiData/WD~Central_Africa,27433]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 13
 VAT_rate: 16
@@ -256,7 +256,7 @@ BTI_Status_Index:
 - 5.99
 - 6.07
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.zm,41842]]'
-lowest_point: "[[_Standards/WikiData/WD~Zambezi River,43106]]"
+lowest_point: "[[_Standards/WikiData/WD~Zambezi_River,43106]]"
 Happy_Planet_Index_score: 34.4
 Democracy_Index: 4.86
 Human_Development_Index: 0.565

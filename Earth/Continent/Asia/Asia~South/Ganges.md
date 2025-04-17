@@ -2,40 +2,40 @@
 has_id_wikidata: Q5089
 tributary:
 - '[[_Standards/WikiData/WD~Yamuna,132726]]'
-- "[[_Standards/WikiData/WD~Bhagirathi River,170218]]"
-- "[[_Standards/WikiData/WD~Ghaghara River,390232]]"
-- "[[_Standards/WikiData/WD~Gomti River,477676]]"
-- "[[_Standards/WikiData/WD~Tamsa River,632555]]"
-- "[[_Standards/WikiData/WD~Kosi River,695610]]"
-- "[[_Standards/WikiData/WD~Gandaki River,849494]]"
-- "[[_Standards/WikiData/WD~Padma River,930773]]"
-- "[[_Standards/WikiData/WD~Varuna River,1365269]]"
-- "[[_Standards/WikiData/WD~Son River,1418174]]"
-- "[[_Standards/WikiData/WD~Alaknanda River,1419768]]"
+- "[[_Standards/WikiData/WD~Bhagirathi_River,170218]]"
+- "[[_Standards/WikiData/WD~Ghaghara_River,390232]]"
+- "[[_Standards/WikiData/WD~Gomti_River,477676]]"
+- "[[_Standards/WikiData/WD~Tamsa_River,632555]]"
+- "[[_Standards/WikiData/WD~Kosi_River,695610]]"
+- "[[_Standards/WikiData/WD~Gandaki_River,849494]]"
+- "[[_Standards/WikiData/WD~Padma_River,930773]]"
+- "[[_Standards/WikiData/WD~Varuna_River,1365269]]"
+- "[[_Standards/WikiData/WD~Son_River,1418174]]"
+- "[[_Standards/WikiData/WD~Alaknanda_River,1419768]]"
 - '[[_Standards/WikiData/WD~Ramganga,1850806]]'
-- "[[_Standards/WikiData/WD~Karmanasa River,2073020]]"
-- "[[_Standards/WikiData/WD~Mahananda River,2428539]]"
+- "[[_Standards/WikiData/WD~Karmanasa_River,2073020]]"
+- "[[_Standards/WikiData/WD~Mahananda_River,2428539]]"
 - '[[_Standards/WikiData/WD~Sarayu,3241461]]'
-- "[[_Standards/WikiData/WD~Yarlung Tsangpo River,3244259]]"
-- "[[_Standards/WikiData/WD~Burhi Gandak River,3630468]]"
-- "[[_Standards/WikiData/WD~Punpun River,3635865]]"
-- "[[_Standards/WikiData/WD~Rāmgangā River,15682249]]"
+- "[[_Standards/WikiData/WD~Yarlung_Tsangpo_River,3244259]]"
+- "[[_Standards/WikiData/WD~Burhi_Gandak_River,3630468]]"
+- "[[_Standards/WikiData/WD~Punpun_River,3635865]]"
+- "[[_Standards/WikiData/WD~Rāmgangā_River,15682249]]"
 - '[[_Standards/WikiData/WD~Gandak,18340305]]'
 named_after: '[[_Standards/WikiData/WD~Ganga,580113]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-origin_of_the_watercourse: "[[_Standards/WikiData/WD~Gangotri Glacier,691557]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Gangotri_Glacier,691557]]"
 different_from: '[[_Standards/WikiData/WD~Ganges,734074]]'
-drainage_basin: "[[_Standards/WikiData/WD~Ganges Basin,5521121]]"
-depicted_by: "[[_Standards/WikiData/WD~Ganges in Fontana dei fiumi,126210736]]"
+drainage_basin: "[[_Standards/WikiData/WD~Ganges_Basin,5521121]]"
+depicted_by: "[[_Standards/WikiData/WD~Ganges_in_Fontana_dei_fiumi,126210736]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sacred river,131748586]]"
+- "[[_Standards/WikiData/WD~sacred_river,131748586]]"
 - '[[_Standards/WikiData/WD~river,4022]]'
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%20%E0%A6%A8%E0%A6%A6%E0%A7%80.wav"
@@ -50,7 +50,7 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 elevation_above_sea_level: 9
 discharge: 12000
 watershed_area: 1060000
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Bay of Bengal,38684]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Bay_of_Bengal,38684]]"
 length: 2525
 OmegaWiki_Defined_Meaning: 755784
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ganges-Brahmaputra-Meghna%20basins.jpg"

@@ -12,22 +12,22 @@ Common_Procurement_Vocabulary_code:
 - 14744000-8
 Unicode_character: 銠
 part_of:
-- "[[_Standards/WikiData/WD~group 9,208107]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_9,208107]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~platinum group,223995]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~platinum_group,223995]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 different_from: '[[_Standards/WikiData/WD~Rod,231105]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Hyde_Wollaston,312975]]"
 named_after: '[[_Standards/WikiData/WD~rose,533047]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhodium%20powder%20pressed%20melted.jpg"
 canonical_SMILES: '[Rh]'
 EC_number: 231-125-0
@@ -43,10 +43,10 @@ InChI: InChI=1S/Rh
 InChIKey: MHOVAHRLVXNVSD-UHFFFAOYSA-N
 RTECS_number: VI9069000
 instance_of:
-- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~rhodium exposure,21175091]]"
-has_effect: "[[_Standards/WikiData/WD~rhodium exposure,21175091]]"
+- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~rhodium_exposure,21175091]]"
+has_effect: "[[_Standards/WikiData/WD~rhodium_exposure,21175091]]"
 UMLS_CUI: C0035493
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/A%20very%20unique%20rhodium%20cake.webm"
 electron_configuration: "[Kr] 5s¹ 4d⁸"

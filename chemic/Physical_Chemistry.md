@@ -2,13 +2,13 @@
 aliases:
 - "Physical chemistry"
 has_id_wikidata: Q11372
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 different_from: '[[_Standards/WikiData/WD~Q3382028,3382028]]'
 instance_of:
-- "[[_Standards/WikiData/WD~academic major,4671286]]"
-- "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~physical chemist,16744668]]"
+- "[[_Standards/WikiData/WD~academic_major,4671286]]"
+- "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+practiced_by: "[[_Standards/WikiData/WD~physical_chemist,16744668]]"
 MeSH_tree_code: H01.181.529
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~physics,413]]'
 subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'

@@ -1,79 +1,79 @@
 ---
-highest_point: "[[_Standards/WikiData/WD~Mount Tenakourou,116675]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Tenakourou,116675]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Conseil de l'Entente,945574]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Conseil_de_l'Entente,945574]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 - '[[_Standards/WikiData/WD~OHADA,2029901]]'
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Burkina Faso,134252]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Burkina_Faso,134252]]"
 replaces:
-- "[[_Standards/WikiData/WD~French West Africa,210682]]"
-- "[[_Standards/WikiData/WD~Republic of Upper Volta,797422]]"
-- "[[_Standards/WikiData/WD~Emirate of Liptako,58053082]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Burkina Faso,235906]]"
+- "[[_Standards/WikiData/WD~French_West_Africa,210682]]"
+- "[[_Standards/WikiData/WD~Republic_of_Upper_Volta,797422]]"
+- "[[_Standards/WikiData/WD~Emirate_of_Liptako,58053082]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Burkina_Faso,235906]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Sud-Ouest Region,429149]]"
-- "[[_Standards/WikiData/WD~Nord Region,502320]]"
+- "[[_Standards/WikiData/WD~Sud-Ouest_Region,429149]]"
+- "[[_Standards/WikiData/WD~Nord_Region,502320]]"
 - '[[_Standards/WikiData/WD~Centre,515655]]'
-- "[[_Standards/WikiData/WD~Boucle du Mouhoun Region,527093]]"
-- "[[_Standards/WikiData/WD~Centre-Est Region,543006]]"
-- "[[_Standards/WikiData/WD~Sahel Region,665514]]"
-- "[[_Standards/WikiData/WD~Hauts-Bassins Region,845303]]"
-- "[[_Standards/WikiData/WD~Cascades Region,850043]]"
-- "[[_Standards/WikiData/WD~Centre-Nord Region,850064]]"
-- "[[_Standards/WikiData/WD~Centre-Ouest Region,850075]]"
-- "[[_Standards/WikiData/WD~Est Region,850088]]"
-- "[[_Standards/WikiData/WD~Centre-Sud Region,853405]]"
-- "[[_Standards/WikiData/WD~Plateau-Central Region,862606]]"
-anthem: "[[_Standards/WikiData/WD~Une Seule Nuit,464551]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of Burkina Faso,619238]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of West African States,620942]]"
+- "[[_Standards/WikiData/WD~Boucle_du_Mouhoun_Region,527093]]"
+- "[[_Standards/WikiData/WD~Centre-Est_Region,543006]]"
+- "[[_Standards/WikiData/WD~Sahel_Region,665514]]"
+- "[[_Standards/WikiData/WD~Hauts-Bassins_Region,845303]]"
+- "[[_Standards/WikiData/WD~Cascades_Region,850043]]"
+- "[[_Standards/WikiData/WD~Centre-Nord_Region,850064]]"
+- "[[_Standards/WikiData/WD~Centre-Ouest_Region,850075]]"
+- "[[_Standards/WikiData/WD~Est_Region,850088]]"
+- "[[_Standards/WikiData/WD~Centre-Sud_Region,853405]]"
+- "[[_Standards/WikiData/WD~Plateau-Central_Region,862606]]"
+anthem: "[[_Standards/WikiData/WD~Une_Seule_Nuit,464551]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Burkina_Faso,619238]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]"
 twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Konan,820496]]'
 - '[[_Standards/WikiData/WD~Bacău,10737004]]'
 - '[[_Standards/WikiData/WD~Allier,3113]]'
-currency: "[[_Standards/WikiData/WD~West African CFA franc,861690]]"
-lowest_point: "[[_Standards/WikiData/WD~Black Volta,1256528]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Burkina Faso,1340756]]"
+currency: "[[_Standards/WikiData/WD~West_African_CFA_franc,861690]]"
+lowest_point: "[[_Standards/WikiData/WD~Black_Volta,1256528]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Burkina_Faso,1340756]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
 office_held_by_head_of_state:
-- "[[_Standards/WikiData/WD~military leader,1402561]]"
-- "[[_Standards/WikiData/WD~President of Burkina Faso,20995488]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Burkina Faso,1483810]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Burkina Faso,2477575]]"
-culture: "[[_Standards/WikiData/WD~culture of Burkina Faso,3007324]]"
+- "[[_Standards/WikiData/WD~military_leader,1402561]]"
+- "[[_Standards/WikiData/WD~President_of_Burkina_Faso,20995488]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Burkina_Faso,1483810]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Burkina_Faso,2477575]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Burkina_Faso,3007324]]"
 language_used:
 - '[[_Standards/WikiData/WD~Lyélé,3089032]]'
-- "[[_Standards/WikiData/WD~Jamsai Dogon,3913290]]"
+- "[[_Standards/WikiData/WD~Jamsai_Dogon,3913290]]"
 - '[[_Standards/WikiData/WD~Bolon,3913301]]'
 - '[[_Standards/WikiData/WD~Doghose,3913314]]'
 - '[[_Standards/WikiData/WD~Winye,3913360]]'
@@ -90,22 +90,22 @@ language_used:
 - '[[_Standards/WikiData/WD~Kisamo-Maya,10950421]]'
 - '[[_Standards/WikiData/WD~Dzùùngoo,10973260]]'
 - '[[_Standards/WikiData/WD~Kisamo-Matya,10974879]]'
-- "[[_Standards/WikiData/WD~Southern Bobo Madaré,11001714]]"
-- "[[_Standards/WikiData/WD~Northern Dagara,11004218]]"
+- "[[_Standards/WikiData/WD~Southern_Bobo_Madaré,11001714]]"
+- "[[_Standards/WikiData/WD~Northern_Dagara,11004218]]"
 - '[[_Standards/WikiData/WD~Jalkunan,11009787]]'
-- "[[_Standards/WikiData/WD~Northern Nuni,11016572]]"
-- "[[_Standards/WikiData/WD~Laalaa Bwamu,11017275]]"
+- "[[_Standards/WikiData/WD~Northern_Nuni,11016572]]"
+- "[[_Standards/WikiData/WD~Laalaa_Bwamu,11017275]]"
 - '[[_Standards/WikiData/WD~Sissala,11020264]]'
-- "[[_Standards/WikiData/WD~Tomo Kan Dogon,11137719]]"
-- "[[_Standards/WikiData/WD~Malba Birifor,11150710]]"
-- "[[_Standards/WikiData/WD~Cwi Bwamu,11150714]]"
-- "[[_Standards/WikiData/WD~Southern Nuni,11152248]]"
-- "[[_Standards/WikiData/WD~Dagaari Dioula,11153465]]"
-- "[[_Standards/WikiData/WD~Northern Toussian,11155635]]"
-- "[[_Standards/WikiData/WD~Southern Toussian,11158982]]"
-- "[[_Standards/WikiData/WD~Western Niger Fulfulde,12952430]]"
+- "[[_Standards/WikiData/WD~Tomo_Kan_Dogon,11137719]]"
+- "[[_Standards/WikiData/WD~Malba_Birifor,11150710]]"
+- "[[_Standards/WikiData/WD~Cwi_Bwamu,11150714]]"
+- "[[_Standards/WikiData/WD~Southern_Nuni,11152248]]"
+- "[[_Standards/WikiData/WD~Dagaari_Dioula,11153465]]"
+- "[[_Standards/WikiData/WD~Northern_Toussian,11155635]]"
+- "[[_Standards/WikiData/WD~Southern_Toussian,11158982]]"
+- "[[_Standards/WikiData/WD~Western_Niger_Fulfulde,12952430]]"
 - '[[_Standards/WikiData/WD~Moba,19921578]]'
-- "[[_Standards/WikiData/WD~Southern Samo,33122730]]"
+- "[[_Standards/WikiData/WD~Southern_Samo,33122730]]"
 - '[[_Standards/WikiData/WD~Bissa,32934]]'
 - '[[_Standards/WikiData/WD~Berba,34961]]'
 - '[[_Standards/WikiData/WD~Bomu,35065]]'
@@ -115,9 +115,9 @@ language_used:
 - '[[_Standards/WikiData/WD~Gurene,35331]]'
 - '[[_Standards/WikiData/WD~Dogoso,35343]]'
 - '[[_Standards/WikiData/WD~Dyan,35340]]'
-- "[[_Standards/WikiData/WD~Northern Bobo Madaré,35371]]"
+- "[[_Standards/WikiData/WD~Northern_Bobo_Madaré,35371]]"
 - '[[_Standards/WikiData/WD~Gourmanchéma,35474]]'
-- "[[_Standards/WikiData/WD~Humburi Senni,35486]]"
+- "[[_Standards/WikiData/WD~Humburi_Senni,35486]]"
 - '[[_Standards/WikiData/WD~Kasem,35552]]'
 - '[[_Standards/WikiData/WD~Koromfe,35701]]'
 - '[[_Standards/WikiData/WD~Kusaal,35708]]'
@@ -142,22 +142,22 @@ language_used:
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Ouagadougou,4689520]]'
 - '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Burkina Faso,7112215]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Burkina_Faso,7112215]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Burkina Faso,14615137]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Burkina_Faso,14615137]]"
 basic_form_of_government:
 - '[[_Standards/WikiData/WD~Patriote,25424534]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~17,25648842]]'
 - '[[_Standards/WikiData/WD~18,25648843]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Burkina Faso,28133105]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Burkina Faso,97143579]]"
-executive_body: "[[_Standards/WikiData/WD~Patriotic Movement for Safeguard and Restoration,110666433]]"
-head_of_state: "[[_Standards/WikiData/WD~Ibrahim Traoré,114341246]]"
-head_of_government: "[[_Standards/WikiData/WD~Apollinaire Joachim Kyélem de Tambèla,114835874]]"
-studied_in: "[[_Standards/WikiData/WD~Burkina Faso studies,115669827]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Burkina_Faso,28133105]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Burkina_Faso,97143579]]"
+executive_body: "[[_Standards/WikiData/WD~Patriotic_Movement_for_Safeguard_and_Restoration,110666433]]"
+head_of_state: "[[_Standards/WikiData/WD~Ibrahim_Traoré,114341246]]"
+head_of_government: "[[_Standards/WikiData/WD~Apollinaire_Joachim_Kyélem_de_Tambèla,114835874]]"
+studied_in: "[[_Standards/WikiData/WD~Burkina_Faso_studies,115669827]]"
 demonym:
 - Burkinabé
 - بورتوريكي
@@ -236,7 +236,7 @@ BTI_Governance_Index:
 - 5.23
 - 5.24
 suicide_rate: 7.7
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Burkina Faso,39313]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Burkina_Faso,39313]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bf,41195]]'
 Inequality_adjusted_Human_Development_Index: 0.315
 Democracy_Index: 3.73
@@ -275,15 +275,15 @@ official_name:
 coordinates_of_westernmost_point: "Point(-5.51319 10.43079)"
 coordinates_of_northernmost_point: "Point(-0.47 15.08)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Sweden,34]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
@@ -291,13 +291,13 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Mali,912]]'
 - '[[_Standards/WikiData/WD~Togo,945]]'
 - '[[_Standards/WikiData/WD~Benin,962]]'
-- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
 - '[[_Standards/WikiData/WD~Niger,1032]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
-country: "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+country: "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
 capital: '[[_Standards/WikiData/WD~Ouagadougou,3777]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
-part_of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
+part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 3
 Dewey_Decimal_Classification: 2--6625

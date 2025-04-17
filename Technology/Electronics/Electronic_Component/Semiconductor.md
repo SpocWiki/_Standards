@@ -1,21 +1,21 @@
 ﻿---
 has_id_wikidata: Q11456
 subclass_of:
-- "[[_Standards/WikiData/WD~electrical conductor,124291]]"
+- "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
 - '[[_Standards/WikiData/WD~material,214609]]'
 - '[[_Standards/WikiData/WD~Q31450902,31450902]]'
 part_of:
-- "[[_Standards/WikiData/WD~semiconductor device,175805]]"
-- "[[_Standards/WikiData/WD~semiconductor memory,1143031]]"
-- "[[_Standards/WikiData/WD~semiconductor diode,1929430]]"
+- "[[_Standards/WikiData/WD~semiconductor_device,175805]]"
+- "[[_Standards/WikiData/WD~semiconductor_memory,1143031]]"
+- "[[_Standards/WikiData/WD~semiconductor_diode,1929430]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~p-type semiconductor,1196214]]"
-- "[[_Standards/WikiData/WD~n-type semiconductor,1332028]]"
+- "[[_Standards/WikiData/WD~p-type_semiconductor,1196214]]"
+- "[[_Standards/WikiData/WD~n-type_semiconductor,1332028]]"
 practiced_by:
-- "[[_Standards/WikiData/WD~semiconductor industry,2986369]]"
-- "[[_Standards/WikiData/WD~semiconductors chemistry,12168144]]"
-studied_in: "[[_Standards/WikiData/WD~semiconductors chemistry,12168144]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~semiconductor_industry,2986369]]"
+- "[[_Standards/WikiData/WD~semiconductors_chemistry,12168144]]"
+studied_in: "[[_Standards/WikiData/WD~semiconductors_chemistry,12168144]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Capteurs%20CCD%20et%20CMOS.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Semiconductor%20outlines.jpg"

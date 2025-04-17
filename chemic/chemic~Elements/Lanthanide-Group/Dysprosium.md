@@ -3,23 +3,23 @@ type: Element
 SpocWebEntityId: 21962
 has_id_wikidata: Q1843
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile Lecoq de Boisbaudran,366827]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~fergusonite-(REE) series,412914]]"
-- "[[_Standards/WikiData/WD~aeschynite mineral group,3777532]]"
-- "[[_Standards/WikiData/WD~bastnäsite mineral group,3777619]]"
-- "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
-- "[[_Standards/WikiData/WD~xenotime mineral group,3777882]]"
+- "[[_Standards/WikiData/WD~fergusonite-(REE)_series,412914]]"
+- "[[_Standards/WikiData/WD~aeschynite_mineral_group,3777532]]"
+- "[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]"
+- "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
+- "[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]"
 - '[[_Standards/WikiData/WD~polycrase-(Y),3907734]]'
-- "[[_Standards/WikiData/WD~euxenite mineral group,18016084]]"
-- "[[_Standards/WikiData/WD~gadolinite group,18043462]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]"
+- "[[_Standards/WikiData/WD~gadolinite_group,18043462]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 named_after: '[[_Standards/WikiData/WD~getting,12913541]]'
 time_of_discovery_or_invention: "1886"
 UMLS_CUI: C0013407
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'
 oxidation_state:
 - 2

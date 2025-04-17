@@ -3,19 +3,19 @@ aliases:
 - "Machine gun"
 has_id_wikidata: Q12800
 different_from:
-- "[[_Standards/WikiData/WD~submachine gun,178550]]"
-- "[[_Standards/WikiData/WD~self-loading firearm,1663630]]"
+- "[[_Standards/WikiData/WD~submachine_gun,178550]]"
+- "[[_Standards/WikiData/WD~self-loading_firearm,1663630]]"
 - '[[_Standards/WikiData/WD~mitrailleuse,1760834]]'
-- "[[_Standards/WikiData/WD~automatic firearm,9180311]]"
-- "[[_Standards/WikiData/WD~selective fire firearm,9180315]]"
+- "[[_Standards/WikiData/WD~automatic_firearm,9180311]]"
+- "[[_Standards/WikiData/WD~selective_fire_firearm,9180315]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~automatic firearm,9180311]]"
-- "[[_Standards/WikiData/WD~selective fire firearm,9180315]]"
-instance_of: "[[_Standards/WikiData/WD~weapon functional class,124078422]]"
+- "[[_Standards/WikiData/WD~automatic_firearm,9180311]]"
+- "[[_Standards/WikiData/WD~selective_fire_firearm,9180315]]"
+instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/M2%20Browning%2C%20Mus%C3%A9e%20de%20l%27Arm%C3%A9e.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Mitrailleur%207.62mm%20MAG%20geplaatst%20op%20een%20grondaffuit%20%282009%20D050713-X1083%29.jpg"

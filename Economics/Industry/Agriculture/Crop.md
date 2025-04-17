@@ -3,17 +3,17 @@ has_id_wikidata: Q235352
 has_use: '[[_Standards/WikiData/WD~harvest,213753]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~commodity,317088]]'
-- "[[_Standards/WikiData/WD~renewable resource,1138571]]"
-- "[[_Standards/WikiData/WD~useful plant,11992872]]"
+- "[[_Standards/WikiData/WD~renewable_resource,1138571]]"
+- "[[_Standards/WikiData/WD~useful_plant,11992872]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 different_from: '[[_Standards/WikiData/WD~tillage,878333]]'
 part_of: '[[_Standards/WikiData/WD~cultigen,1362373]]'
-instance_of: "[[_Standards/WikiData/WD~plant life-form,2355817]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~agricultural product,11827455]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~plant_life-form,2355817]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~agricultural_product,11827455]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Dewey_Decimal_Classification: 633
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Oedelem%20Weg%20naar%20Sint-Kruis%20R01.jpg"
 exact_match: "https://w3id.org/def/saref4agri#Crop"

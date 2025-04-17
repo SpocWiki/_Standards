@@ -3,18 +3,18 @@ has_id_wikidata: Q83222
 aliases: []
 Commons_category: Mesozoic
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 end_time: -66000000
 instance_of:
   - "[[_Standards/WikiData/WD~era,630830]]"
   - "[[_Standards/WikiData/WD~erathem,2464485]]"
 ischart: Mesozoic
-named_by: "[[_Standards/WikiData/WD~John Phillips,1701428]]"
+named_by: "[[_Standards/WikiData/WD~John_Phillips,1701428]]"
 OmegaWiki_Defined_Meaning: "952543"
-part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Mesozoic%20Mesozoikum.png
 sRGB_color_hex_triplet: 67C5CA
 start_time: -251902000 

@@ -3,9 +3,9 @@ type: Element
 SpocWebEntityId: 17799
 has_id_wikidata: Q1090
 part_of:
-- "[[_Standards/WikiData/WD~group 11,185870]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-has_use: "[[_Standards/WikiData/WD~food additive,189567]]"
+- "[[_Standards/WikiData/WD~group_11,185870]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
 different_from:
 - '[[_Standards/WikiData/WD~Silver,231486]]'
 - '[[_Standards/WikiData/WD~Argento,243604]]'
@@ -24,10 +24,10 @@ different_from:
 - '[[_Standards/WikiData/WD~Zilver,21096540]]'
 - '[[_Standards/WikiData/WD~Perak,28491393]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~precious metal,271449]]"
-- "[[_Standards/WikiData/WD~noble metal,585302]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~precious_metal,271449]]"
+- "[[_Standards/WikiData/WD~noble_metal,585302]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 color: '[[_Standards/WikiData/WD~silver,317802]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~cerussite,409122]]'
@@ -36,19 +36,19 @@ made_from_material:
 - '[[_Standards/WikiData/WD~argentite,422874]]'
 - '[[_Standards/WikiData/WD~galena,37559]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-- "[[_Standards/WikiData/WD~Chemical Encyclopedia (in Russian). Volume 4,125542226]]"
-associated_hazard: "[[_Standards/WikiData/WD~silver exposure,21175303]]"
-has_effect: "[[_Standards/WikiData/WD~silver exposure,21175303]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+- "[[_Standards/WikiData/WD~Chemical_Encyclopedia_(in_Russian)._Volume_4,125542226]]"
+associated_hazard: "[[_Standards/WikiData/WD~silver_exposure,21175303]]"
+has_effect: "[[_Standards/WikiData/WD~silver_exposure,21175303]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828616,22828616]]'
 canonical_SMILES: '[Ag]'
 EC_number: 231-131-3
@@ -73,7 +73,7 @@ Dewey_Decimal_Classification:
 - 546.654
 - 669.23
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-Silver.oga"
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 named_after: '[[_Standards/WikiData/WD~white,23444]]'
 vapor_pressure: 0
 ionic_radius:

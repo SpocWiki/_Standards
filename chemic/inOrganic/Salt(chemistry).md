@@ -6,22 +6,22 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~anion,107968]]'
 - '[[_Standards/WikiData/WD~cation,326277]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~ionic compound,2366155]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~ionic_compound,2366155]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~ionic compound,2366155]]"
-- "[[_Standards/WikiData/WD~mineral substance,12037703]]"
+- "[[_Standards/WikiData/WD~ionic_compound,2366155]]"
+- "[[_Standards/WikiData/WD~mineral_substance,12037703]]"
 part_of:
-- "[[_Standards/WikiData/WD~response to salt,22273555]]"
-- "[[_Standards/WikiData/WD~cellular response to salt,22273556]]"
-- "[[_Standards/WikiData/WD~salt transmembrane transporter activity,22324829]]"
-instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
+- "[[_Standards/WikiData/WD~response_to_salt,22273555]]"
+- "[[_Standards/WikiData/WD~cellular_response_to_salt,22273556]]"
+- "[[_Standards/WikiData/WD~salt_transmembrane_transporter_activity,22324829]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Cobalt%28II%29-chloride-hexahydrate-sample.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-chloride-hexahydrate-sample.jpg"
@@ -31,8 +31,8 @@ image:
 MeSH_tree_code: D01.786
 UMLS_CUI: C0036140
 different_from:
-- "[[_Standards/WikiData/WD~sodium chloride,2314]]"
-- "[[_Standards/WikiData/WD~table salt,11254]]"
+- "[[_Standards/WikiData/WD~sodium_chloride,2314]]"
+- "[[_Standards/WikiData/WD~table_salt,11254]]"
 OmegaWiki_Defined_Meaning: 3299
 Commons_category: Salts
 name_in_kana: えん

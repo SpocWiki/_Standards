@@ -1,26 +1,26 @@
 ---
 has_id_wikidata: Q8094
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Encyclopaedia of the Qur'ān,2617708]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-subclass_of: "[[_Standards/WikiData/WD~meteorological phenomenon,16332653]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+subclass_of: "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q25745333,25745333]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q32816587,32816587]]'
 different_from:
-- "[[_Standards/WikiData/WD~wind energy,52664317]]"
-- "[[_Standards/WikiData/WD~wind power,43302]]"
-product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~wind energy,52664317]]"
+- "[[_Standards/WikiData/WD~wind_energy,52664317]]"
+- "[[_Standards/WikiData/WD~wind_power,43302]]"
+product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~wind_energy,52664317]]"
 has_effect: '[[_Standards/WikiData/WD~Q57385793,57385793]]'
-instance_of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
 UMLS_CUI: C0043187
 MeSH_tree_code:
 - G16.500.175.249.200

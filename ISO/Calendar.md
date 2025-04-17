@@ -5,31 +5,31 @@ Dewey_Decimal_Classification:
 - 741.682
 subclass_of:
 - '[[_Standards/WikiData/WD~chronology,130788]]'
-- "[[_Standards/WikiData/WD~conceptual system,3622126]]"
-has_part_s_: "[[_Standards/WikiData/WD~calendar date,205892]]"
+- "[[_Standards/WikiData/WD~conceptual_system,3622126]]"
+has_part_s_: "[[_Standards/WikiData/WD~calendar_date,205892]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Ukraïnsʹka bibliotechna encyclopedia,97441485]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Ukraïnsʹka_bibliotechna_encyclopedia,97441485]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 instance_of:
-- "[[_Standards/WikiData/WD~field of study,1047113]]"
-- "[[_Standards/WikiData/WD~field of study,2267705]]"
+- "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+- "[[_Standards/WikiData/WD~field_of_study,2267705]]"
 different_from:
 - '[[_Standards/WikiData/WD~calender,1365679]]'
 - '[[_Standards/WikiData/WD~calendar,12027715]]'
-- "[[_Standards/WikiData/WD~list of centuries and millennia,27305]]"
+- "[[_Standards/WikiData/WD~list_of_centuries_and_millennia,27305]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Months,5613734]]'
 - '[[_Standards/WikiData/WD~Template_Calendars,6260721]]'

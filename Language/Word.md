@@ -2,23 +2,23 @@
 has_id_wikidata: Q8171
 different_from:
 - '[[_Standards/WikiData/WD~lexeme,111352]]'
-- "[[_Standards/WikiData/WD~phonological word,4117835]]"
+- "[[_Standards/WikiData/WD~phonological_word,4117835]]"
 - '[[_Standards/WikiData/WD~Pulong,11089918]]'
-- "[[_Standards/WikiData/WD~orthographic word,115863220]]"
-- "[[_Standards/WikiData/WD~morphosyntactic word,115863229]]"
+- "[[_Standards/WikiData/WD~orthographic_word,115863220]]"
+- "[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~word stem,210523]]"
+- "[[_Standards/WikiData/WD~word_stem,210523]]"
 - '[[_Standards/WikiData/WD~syllable,8188]]'
 opposite_of: '[[_Standards/WikiData/WD~non-word,1553551]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~lexical item,2944660]]"
-- "[[_Standards/WikiData/WD~word or phrase,115372263]]"
-described_by_source: "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~lexical_item,2944660]]"
+- "[[_Standards/WikiData/WD~word_or_phrase,115372263]]"
+described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 part_of: '[[_Standards/WikiData/WD~phraseme,5551966]]'
 label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20mot.ogv"
 Iconclass_notation: 49K321
 Krugosvet_article: gumanitarnye_nauki/lingvistika/SLOVO.html
-has_characteristic: "[[_Standards/WikiData/WD~morphosyntactic word,115863229]]"
+has_characteristic: "[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Sacha%20B.%20%28BiblioCanet66%29-mot.wav"
 equivalent_class: "https://schema.org/DefinedTerm"
 OmegaWiki_Defined_Meaning: 6551

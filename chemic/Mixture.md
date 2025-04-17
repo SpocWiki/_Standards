@@ -1,9 +1,9 @@
 ﻿---
 has_id_wikidata: Q169336
-subclass_of: "[[_Standards/WikiData/WD~chemical substance,79529]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~pure substance,578779]]"
-opposite_of: "[[_Standards/WikiData/WD~pure substance,578779]]"
-instance_of: "[[_Standards/WikiData/WD~group or class of chemical substances,17339814]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~pure_substance,578779]]"
+opposite_of: "[[_Standards/WikiData/WD~pure_substance,578779]]"
+instance_of: "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
 Commons_category: "Chemical mixtures"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Schematische%20Einteilung%20der%20Stoffe.svg"
 ---

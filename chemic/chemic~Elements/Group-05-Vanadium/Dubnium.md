@@ -6,18 +6,18 @@ SpocWebEntityId: 22000
 has_id_wikidata: Q1232
 named_after: "[[_Standards/WikiData/WD~Dubna,135466]]"
 part_of:
-  - "[[_Standards/WikiData/WD~group 5,193276]]"
-  - "[[_Standards/WikiData/WD~period 7,244979]]"
+  - "[[_Standards/WikiData/WD~group_5,193276]]"
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Joint Institute for Nuclear Research,259517]]"
-  - "[[_Standards/WikiData/WD~Lawrence Berkeley National Laboratory,1133630]]"
+  - "[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]"
+  - "[[_Standards/WikiData/WD~Lawrence_Berkeley_National_Laboratory,1133630]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~transition metal,19588]]"
+  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
 atomic_number: 105
 OmegaWiki_Defined_Meaning: 157650
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%B9.jpg

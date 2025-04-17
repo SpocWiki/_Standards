@@ -1,38 +1,38 @@
 ---
 public_holiday:
-- "[[_Standards/WikiData/WD~Maundy Thursday,106333]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Eid al-Fitr,464458]]"
-- "[[_Standards/WikiData/WD~Eid al-Adha,514400]]"
-- "[[_Standards/WikiData/WD~Feast of the Immaculate Conception,3538509]]"
+- "[[_Standards/WikiData/WD~Maundy_Thursday,106333]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]"
+- "[[_Standards/WikiData/WD~Eid_al-Adha,514400]]"
+- "[[_Standards/WikiData/WD~Feast_of_the_Immaculate_Conception,3538509]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
-- "[[_Standards/WikiData/WD~Good Friday,40317]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
-- "[[_Standards/WikiData/WD~Bataan Day,4868509]]"
-- "[[_Standards/WikiData/WD~Independence Day,6016007]]"
-- "[[_Standards/WikiData/WD~Rizal Day,7339069]]"
-- "[[_Standards/WikiData/WD~Bonifacio Day,48767421]]"
-- "[[_Standards/WikiData/WD~National Heroes' Day,111811564]]"
-flag: "[[_Standards/WikiData/WD~flag of the Philippines,134627]]"
-replaces: "[[_Standards/WikiData/WD~Commonwealth of the Philippines,146328]]"
-lowest_point: "[[_Standards/WikiData/WD~Philippine Sea,159183]]"
+- "[[_Standards/WikiData/WD~Good_Friday,40317]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- "[[_Standards/WikiData/WD~Bataan_Day,4868509]]"
+- "[[_Standards/WikiData/WD~Independence_Day,6016007]]"
+- "[[_Standards/WikiData/WD~Rizal_Day,7339069]]"
+- "[[_Standards/WikiData/WD~Bonifacio_Day,48767421]]"
+- "[[_Standards/WikiData/WD~National_Heroes'_Day,111811564]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_Philippines,134627]]"
+replaces: "[[_Standards/WikiData/WD~Commonwealth_of_the_Philippines,146328]]"
+lowest_point: "[[_Standards/WikiData/WD~Philippine_Sea,159183]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Philippine Sea,159183]]"
-- "[[_Standards/WikiData/WD~Celebes Sea,19270]]"
-- "[[_Standards/WikiData/WD~South China Sea,37660]]"
+- "[[_Standards/WikiData/WD~Philippine_Sea,159183]]"
+- "[[_Standards/WikiData/WD~Celebes_Sea,19270]]"
+- "[[_Standards/WikiData/WD~South_China_Sea,37660]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
 - '[[_Standards/WikiData/WD~India,668]]'
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Palau,695]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
@@ -43,26 +43,26 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Myanmar,836]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Qatar,846]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
-- "[[_Standards/WikiData/WD~The Gambia,1005]]"
+- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
-- "[[_Standards/WikiData/WD~Hong Kong,8646]]"
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -72,62 +72,62 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~Greece,41]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Iceland,189]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Southeast Asia Treaty Organization,277252]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Association of South-East Asian Nations,7768]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
 contains_the_statistical_territorial_entity:
 - '[[_Standards/WikiData/WD~Visayas,211436]]'
 - '[[_Standards/WikiData/WD~Luzon,2673519]]'
 - '[[_Standards/WikiData/WD~Mindanao,4294079]]'
-anthem: "[[_Standards/WikiData/WD~Lupang Hinirang,212725]]"
+anthem: "[[_Standards/WikiData/WD~Lupang_Hinirang,212725]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia (1902–1905),20089963]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Apo,455963]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of the Philippines,514212]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902–1905),20089963]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Apo,455963]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_the_Philippines,514212]]"
 language_used:
-- "[[_Standards/WikiData/WD~Standard Chinese,727694]]"
+- "[[_Standards/WikiData/WD~Standard_Chinese,727694]]"
 - '[[_Standards/WikiData/WD~Eskayan,867086]]'
 - '[[_Standards/WikiData/WD~Buhid,1002956]]'
 - '[[_Standards/WikiData/WD~Ibanag,1775596]]'
@@ -136,12 +136,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Sambal,2592378]]'
 - '[[_Standards/WikiData/WD~Bolinao,2669235]]'
 - '[[_Standards/WikiData/WD~Abaknon,2820163]]'
-- "[[_Standards/WikiData/WD~Balangingih Sama,2880535]]"
+- "[[_Standards/WikiData/WD~Balangingih_Sama,2880535]]"
 - '[[_Standards/WikiData/WD~Capisnon,2937525]]'
 - '[[_Standards/WikiData/WD~Ibaloi,3147383]]'
 - '[[_Standards/WikiData/WD~Bugkalot,3148787]]'
-- "[[_Standards/WikiData/WD~Kayapa Kallahan,3192220]]"
-- "[[_Standards/WikiData/WD~Keley-I Kallahan,3192221]]"
+- "[[_Standards/WikiData/WD~Kayapa_Kallahan,3192220]]"
+- "[[_Standards/WikiData/WD~Keley-I_Kallahan,3192221]]"
 - '[[_Standards/WikiData/WD~Kamayo,3192339]]'
 - '[[_Standards/WikiData/WD~Karaw,3192950]]'
 - '[[_Standards/WikiData/WD~Katabangan,3193895]]'
@@ -149,25 +149,25 @@ language_used:
 - '[[_Standards/WikiData/WD~Ati,3217458]]'
 - '[[_Standards/WikiData/WD~Mapun,3287253]]'
 - '[[_Standards/WikiData/WD~Alangan,3327423]]'
-- "[[_Standards/WikiData/WD~Pangutaran Sama,3362086]]"
+- "[[_Standards/WikiData/WD~Pangutaran_Sama,3362086]]"
 - '[[_Standards/WikiData/WD~Manide,3399682]]'
-- "[[_Standards/WikiData/WD~Inagta Alabat,3399709]]"
+- "[[_Standards/WikiData/WD~Inagta_Alabat,3399709]]"
 - '[[_Standards/WikiData/WD~Agutaynen,3399717]]'
 - '[[_Standards/WikiData/WD~Abellen,3436621]]'
 - '[[_Standards/WikiData/WD~Gaddang,3438830]]'
 - '[[_Standards/WikiData/WD~Ambala,3448896]]'
 - '[[_Standards/WikiData/WD~Ibatag,3450443]]'
-- "[[_Standards/WikiData/WD~Southern Sama,3470594]]"
-- "[[_Standards/WikiData/WD~Central Sama,3470593]]"
+- "[[_Standards/WikiData/WD~Southern_Sama,3470594]]"
+- "[[_Standards/WikiData/WD~Central_Sama,3470593]]"
 - '[[_Standards/WikiData/WD~Sangil,3472206]]'
 - '[[_Standards/WikiData/WD~Arta,3508067]]'
 - '[[_Standards/WikiData/WD~Sinauna,3508085]]'
 - '[[_Standards/WikiData/WD~Ivatan,3547080]]'
-- "[[_Standards/WikiData/WD~Philippine Sign Language,3551357]]"
+- "[[_Standards/WikiData/WD~Philippine_Sign_Language,3551357]]"
 - '[[_Standards/WikiData/WD~Yakan,3571351]]'
-- "[[_Standards/WikiData/WD~Aborlan Tagbanwa,3915475]]"
-- "[[_Standards/WikiData/WD~Calamian Tagbanwa,3915487]]"
-- "[[_Standards/WikiData/WD~Central Tagbanwa,3915515]]"
+- "[[_Standards/WikiData/WD~Aborlan_Tagbanwa,3915475]]"
+- "[[_Standards/WikiData/WD~Calamian_Tagbanwa,3915487]]"
+- "[[_Standards/WikiData/WD~Central_Tagbanwa,3915515]]"
 - '[[_Standards/WikiData/WD~Itawis,3915527]]'
 - '[[_Standards/WikiData/WD~Botolan,4095195]]'
 - '[[_Standards/WikiData/WD~Mag-antsi,4356243]]'
@@ -181,7 +181,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Cuyonon,33153]]'
 - '[[_Standards/WikiData/WD~Cebuano,33239]]'
 - '[[_Standards/WikiData/WD~Chavacano,33281]]'
-- "[[_Standards/WikiData/WD~Central Bikol,33284]]"
+- "[[_Standards/WikiData/WD~Central_Bikol,33284]]"
 - '[[_Standards/WikiData/WD~Filipino,33298]]'
 - '[[_Standards/WikiData/WD~Maguindanao,33717]]'
 - '[[_Standards/WikiData/WD~Karay-a,33720]]'
@@ -204,15 +204,15 @@ language_used:
 - '[[_Standards/WikiData/WD~Mariveleño,4921648]]'
 - '[[_Standards/WikiData/WD~Bontoc,4942634]]'
 - '[[_Standards/WikiData/WD~Butuanon,5003156]]'
-- "[[_Standards/WikiData/WD~Cagayan Agta,5017296]]"
+- "[[_Standards/WikiData/WD~Cagayan_Agta,5017296]]"
 - '[[_Standards/WikiData/WD~Davawenyo,5228174]]'
-- "[[_Standards/WikiData/WD~Dicamay Agta,5272321]]"
-- "[[_Standards/WikiData/WD~Dumagat Agta,5313599]]"
-- "[[_Standards/WikiData/WD~Dupaningan Agta,5315912]]"
+- "[[_Standards/WikiData/WD~Dicamay_Agta,5272321]]"
+- "[[_Standards/WikiData/WD~Dumagat_Agta,5313599]]"
+- "[[_Standards/WikiData/WD~Dupaningan_Agta,5315912]]"
 - "[[_Standards/WikiData/WD~Ga'dang,5515189]]"
 - '[[_Standards/WikiData/WD~Higaonon,5753411]]'
 - '[[_Standards/WikiData/WD~Iraya,6068356]]'
-- "[[_Standards/WikiData/WD~Inagta Partido,6078982]]"
+- "[[_Standards/WikiData/WD~Inagta_Partido,6078982]]"
 - '[[_Standards/WikiData/WD~Isinai,6081098]]'
 - '[[_Standards/WikiData/WD~Isnag,6085162]]'
 - '[[_Standards/WikiData/WD~Kagayanen,6346422]]'
@@ -224,144 +224,144 @@ language_used:
 - '[[_Standards/WikiData/WD~Mandaya,6747925]]'
 - '[[_Standards/WikiData/WD~Matigsalug,6787447]]'
 - '[[_Standards/WikiData/WD~Molbog,6895718]]'
-- "[[_Standards/WikiData/WD~Mount Iraya Agta,6921430]]"
-- "[[_Standards/WikiData/WD~Mount Iriga Agta,6921432]]"
-- "[[_Standards/WikiData/WD~Northern Alta,7058116]]"
-- "[[_Standards/WikiData/WD~Pandan Bikol,7130477]]"
-- "[[_Standards/WikiData/WD~Paranan Agta,7135432]]"
+- "[[_Standards/WikiData/WD~Mount_Iraya_Agta,6921430]]"
+- "[[_Standards/WikiData/WD~Mount_Iriga_Agta,6921432]]"
+- "[[_Standards/WikiData/WD~Northern_Alta,7058116]]"
+- "[[_Standards/WikiData/WD~Pandan_Bikol,7130477]]"
+- "[[_Standards/WikiData/WD~Paranan_Agta,7135432]]"
 - '[[_Standards/WikiData/WD~Paranan,7135433]]'
 - '[[_Standards/WikiData/WD~Sarangani,7423093]]'
-- "[[_Standards/WikiData/WD~Sorsogon Ayta,7563752]]"
-- "[[_Standards/WikiData/WD~Southern Alta,7569611]]"
-- "[[_Standards/WikiData/WD~Southern Catanduanes Bikol,7569754]]"
+- "[[_Standards/WikiData/WD~Sorsogon_Ayta,7563752]]"
+- "[[_Standards/WikiData/WD~Southern_Alta,7569611]]"
+- "[[_Standards/WikiData/WD~Southern_Catanduanes_Bikol,7569754]]"
 - '[[_Standards/WikiData/WD~Sulod,7636489]]'
 - '[[_Standards/WikiData/WD~Tadyawan,7674700]]'
 - '[[_Standards/WikiData/WD~Tagabawa,7675121]]'
 - '[[_Standards/WikiData/WD~Tboli,7690594]]'
 - '[[_Standards/WikiData/WD~Tiruray,7809425]]'
 - '[[_Standards/WikiData/WD~Tuwali,7857158]]'
-- "[[_Standards/WikiData/WD~Umiray Dumaget,7881585]]"
-- "[[_Standards/WikiData/WD~Western Bukidnon Manobo,7987643]]"
+- "[[_Standards/WikiData/WD~Umiray_Dumaget,7881585]]"
+- "[[_Standards/WikiData/WD~Western_Bukidnon_Manobo,7987643]]"
 - '[[_Standards/WikiData/WD~Yogad,8054343]]'
 - '[[_Standards/WikiData/WD~Adasen,11214797]]'
-- "[[_Standards/WikiData/WD~Villa Viciosa Agta,12626611]]"
-- "[[_Standards/WikiData/WD~Ata Manobo,12627315]]"
-- "[[_Standards/WikiData/WD~Banao Itneg,12627559]]"
+- "[[_Standards/WikiData/WD~Villa_Viciosa_Agta,12626611]]"
+- "[[_Standards/WikiData/WD~Ata_Manobo,12627315]]"
+- "[[_Standards/WikiData/WD~Banao_Itneg,12627559]]"
 - '[[_Standards/WikiData/WD~Bikol,12627923]]'
-- "[[_Standards/WikiData/WD~Faire Atta,12630884]]"
+- "[[_Standards/WikiData/WD~Faire_Atta,12630884]]"
 - '[[_Standards/WikiData/WD~I-Wak,12632789]]'
-- "[[_Standards/WikiData/WD~Rinconada Bikol,12633026]]"
-- "[[_Standards/WikiData/WD~Southern Subanen,12635302]]"
-- "[[_Standards/WikiData/WD~Pamplona Atta,12639245]]"
-- "[[_Standards/WikiData/WD~Pudtol Atta,12640726]]"
+- "[[_Standards/WikiData/WD~Rinconada_Bikol,12633026]]"
+- "[[_Standards/WikiData/WD~Southern_Subanen,12635302]]"
+- "[[_Standards/WikiData/WD~Pamplona_Atta,12639245]]"
+- "[[_Standards/WikiData/WD~Pudtol_Atta,12640726]]"
 - '[[_Standards/WikiData/WD~Mansaka,12952800]]'
 - '[[_Standards/WikiData/WD~Batad,12953578]]'
 - '[[_Standards/WikiData/WD~Mayoyao,12953579]]'
-- "[[_Standards/WikiData/WD~Moyadan Itneg,12953583]]"
-- "[[_Standards/WikiData/WD~Binongan Itneg,12953584]]"
-- "[[_Standards/WikiData/WD~Inlaod Itneg,12953585]]"
-- "[[_Standards/WikiData/WD~Lubuagan Kalinga,12953602]]"
-- "[[_Standards/WikiData/WD~Northern Kankanay,12953609]]"
-- "[[_Standards/WikiData/WD~Cotabato Manobo,12953698]]"
+- "[[_Standards/WikiData/WD~Moyadan_Itneg,12953583]]"
+- "[[_Standards/WikiData/WD~Binongan_Itneg,12953584]]"
+- "[[_Standards/WikiData/WD~Inlaod_Itneg,12953585]]"
+- "[[_Standards/WikiData/WD~Lubuagan_Kalinga,12953602]]"
+- "[[_Standards/WikiData/WD~Northern_Kankanay,12953609]]"
+- "[[_Standards/WikiData/WD~Cotabato_Manobo,12953698]]"
 - '[[_Standards/WikiData/WD~Obo,12953699]]'
-- "[[_Standards/WikiData/WD~Agusan Manobo,12953696]]"
+- "[[_Standards/WikiData/WD~Agusan_Manobo,12953696]]"
 - '[[_Standards/WikiData/WD~Kinamigin,12953697]]'
-- "[[_Standards/WikiData/WD~Rajah Kabunsuwan Manobo,12953700]]"
-- "[[_Standards/WikiData/WD~Central Palawano,12953795]]"
-- "[[_Standards/WikiData/WD~Brooke's Point Palawano,12953796]]"
-- "[[_Standards/WikiData/WD~Northern Subanen,12953892]]"
-- "[[_Standards/WikiData/WD~Central Subanen,12953893]]"
-- "[[_Standards/WikiData/WD~Western Tawbuid,12953912]]"
+- "[[_Standards/WikiData/WD~Rajah_Kabunsuwan_Manobo,12953700]]"
+- "[[_Standards/WikiData/WD~Central_Palawano,12953795]]"
+- "[[_Standards/WikiData/WD~Brooke's_Point_Palawano,12953796]]"
+- "[[_Standards/WikiData/WD~Northern_Subanen,12953892]]"
+- "[[_Standards/WikiData/WD~Central_Subanen,12953893]]"
+- "[[_Standards/WikiData/WD~Western_Tawbuid,12953912]]"
 - '[[_Standards/WikiData/WD~Ilianen,14916911]]'
-- "[[_Standards/WikiData/WD~Southwest Palawano,15614922]]"
-- "[[_Standards/WikiData/WD~North Sorsoganon,16113356]]"
-- "[[_Standards/WikiData/WD~Western Subanon,16113894]]"
-- "[[_Standards/WikiData/WD~Koronadal Blaan,16115430]]"
-- "[[_Standards/WikiData/WD~Sarangani Blaan,16117272]]"
+- "[[_Standards/WikiData/WD~Southwest_Palawano,15614922]]"
+- "[[_Standards/WikiData/WD~North_Sorsoganon,16113356]]"
+- "[[_Standards/WikiData/WD~Western_Subanon,16113894]]"
+- "[[_Standards/WikiData/WD~Koronadal_Blaan,16115430]]"
+- "[[_Standards/WikiData/WD~Sarangani_Blaan,16117272]]"
 - '[[_Standards/WikiData/WD~Bantayanon,16837866]]'
 - '[[_Standards/WikiData/WD~Baybay,16839275]]'
-- "[[_Standards/WikiData/WD~West Albay Bikol,18603801]]"
-- "[[_Standards/WikiData/WD~Libon Bikol,18664462]]"
-- "[[_Standards/WikiData/WD~Buhi Bikol,18664494]]"
-- "[[_Standards/WikiData/WD~Miraya Bikol,18664557]]"
+- "[[_Standards/WikiData/WD~West_Albay_Bikol,18603801]]"
+- "[[_Standards/WikiData/WD~Libon_Bikol,18664462]]"
+- "[[_Standards/WikiData/WD~Buhi_Bikol,18664494]]"
+- "[[_Standards/WikiData/WD~Miraya_Bikol,18664557]]"
 - '[[_Standards/WikiData/WD~Ibatan,18748212]]'
 - '[[_Standards/WikiData/WD~Amganad,18748222]]'
-- "[[_Standards/WikiData/WD~Maeng Itneg,18748761]]"
-- "[[_Standards/WikiData/WD~Masadiit Itneg,18748769]]"
+- "[[_Standards/WikiData/WD~Maeng_Itneg,18748761]]"
+- "[[_Standards/WikiData/WD~Masadiit_Itneg,18748769]]"
 - '[[_Standards/WikiData/WD~Kalagan,18748906]]'
-- "[[_Standards/WikiData/WD~Kagan Kalagan,18748913]]"
-- "[[_Standards/WikiData/WD~Limos Kalinga,18753303]]"
-- "[[_Standards/WikiData/WD~Kalinga Butbut,18753300]]"
-- "[[_Standards/WikiData/WD~Southern Kalinga,18753301]]"
-- "[[_Standards/WikiData/WD~Tanudan Kalinga,18753307]]"
-- "[[_Standards/WikiData/WD~Mabaka Valley Kalinga,18753304]]"
-- "[[_Standards/WikiData/WD~Majukayang Kalinga,18753305]]"
+- "[[_Standards/WikiData/WD~Kagan_Kalagan,18748913]]"
+- "[[_Standards/WikiData/WD~Limos_Kalinga,18753303]]"
+- "[[_Standards/WikiData/WD~Kalinga_Butbut,18753300]]"
+- "[[_Standards/WikiData/WD~Southern_Kalinga,18753301]]"
+- "[[_Standards/WikiData/WD~Tanudan_Kalinga,18753307]]"
+- "[[_Standards/WikiData/WD~Mabaka_Valley_Kalinga,18753304]]"
+- "[[_Standards/WikiData/WD~Majukayang_Kalinga,18753305]]"
 - '[[_Standards/WikiData/WD~Kankanaey,18753329]]'
-- "[[_Standards/WikiData/WD~Malay Aklanon,18755512]]"
-- "[[_Standards/WikiData/WD~Dibabawon Manobo,18755523]]"
-- "[[_Standards/WikiData/WD~South Sorsoganon,18755610]]"
-- "[[_Standards/WikiData/WD~Kolibugan Subanen,18755617]]"
+- "[[_Standards/WikiData/WD~Malay_Aklanon,18755512]]"
+- "[[_Standards/WikiData/WD~Dibabawon_Manobo,18755523]]"
+- "[[_Standards/WikiData/WD~South_Sorsoganon,18755610]]"
+- "[[_Standards/WikiData/WD~Kolibugan_Subanen,18755617]]"
 - '[[_Standards/WikiData/WD~Tagakaulo,18756514]]'
-- "[[_Standards/WikiData/WD~Eastern Tawbuid,18757427]]"
+- "[[_Standards/WikiData/WD~Eastern_Tawbuid,18757427]]"
 - '[[_Standards/WikiData/WD~Ata,34397870]]'
-- "[[_Standards/WikiData/WD~Eastern Bontok,62664215]]"
+- "[[_Standards/WikiData/WD~Eastern_Bontok,62664215]]"
 - '[[_Standards/WikiData/WD~Iranun,63214936]]'
-- "[[_Standards/WikiData/WD~Central Bontok,63257803]]"
-- "[[_Standards/WikiData/WD~Southern Bontok,63308144]]"
-- "[[_Standards/WikiData/WD~Northern Bontok,63311016]]"
-- "[[_Standards/WikiData/WD~Eastern Subanen,63311321]]"
+- "[[_Standards/WikiData/WD~Central_Bontok,63257803]]"
+- "[[_Standards/WikiData/WD~Southern_Bontok,63308144]]"
+- "[[_Standards/WikiData/WD~Northern_Bontok,63311016]]"
+- "[[_Standards/WikiData/WD~Eastern_Subanen,63311321]]"
 - '[[_Standards/WikiData/WD~Tandaganon,63311769]]'
-- "[[_Standards/WikiData/WD~Southwestern Bontok,63313677]]"
+- "[[_Standards/WikiData/WD~Southwestern_Bontok,63313677]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Bangsamoro,806550]]'
-- "[[_Standards/WikiData/WD~Ilocos Region,12933]]"
-- "[[_Standards/WikiData/WD~Metro Manila,13580]]"
-- "[[_Standards/WikiData/WD~Cordillera Administrative Region,13606]]"
-- "[[_Standards/WikiData/WD~Cagayan Valley,13615]]"
-- "[[_Standards/WikiData/WD~Central Luzon,13617]]"
+- "[[_Standards/WikiData/WD~Ilocos_Region,12933]]"
+- "[[_Standards/WikiData/WD~Metro_Manila,13580]]"
+- "[[_Standards/WikiData/WD~Cordillera_Administrative_Region,13606]]"
+- "[[_Standards/WikiData/WD~Cagayan_Valley,13615]]"
+- "[[_Standards/WikiData/WD~Central_Luzon,13617]]"
 - '[[_Standards/WikiData/WD~Calabarzon,13650]]'
 - '[[_Standards/WikiData/WD~Mimaropa,13658]]'
-- "[[_Standards/WikiData/WD~Bicol Region,13662]]"
-- "[[_Standards/WikiData/WD~Western Visayas,13665]]"
-- "[[_Standards/WikiData/WD~Central Visayas,13669]]"
-- "[[_Standards/WikiData/WD~Eastern Visayas,13675]]"
-- "[[_Standards/WikiData/WD~Zamboanga Peninsula,13682]]"
-- "[[_Standards/WikiData/WD~Northern Mindanao,13690]]"
-- "[[_Standards/WikiData/WD~Davao Region,13694]]"
+- "[[_Standards/WikiData/WD~Bicol_Region,13662]]"
+- "[[_Standards/WikiData/WD~Western_Visayas,13665]]"
+- "[[_Standards/WikiData/WD~Central_Visayas,13669]]"
+- "[[_Standards/WikiData/WD~Eastern_Visayas,13675]]"
+- "[[_Standards/WikiData/WD~Zamboanga_Peninsula,13682]]"
+- "[[_Standards/WikiData/WD~Northern_Mindanao,13690]]"
+- "[[_Standards/WikiData/WD~Davao_Region,13694]]"
 - '[[_Standards/WikiData/WD~Soccsksargen,13701]]'
 - '[[_Standards/WikiData/WD~Caraga,13704]]'
-- "[[_Standards/WikiData/WD~Negros Island Region,17081785]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the Philippines,830399]]"
-culture: "[[_Standards/WikiData/WD~culture of the Philippines,934605]]"
-head_of_state: "[[_Standards/WikiData/WD~Bongbong Marcos,983324]]"
-head_of_government: "[[_Standards/WikiData/WD~Bongbong Marcos,983324]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the Philippines,1209571]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of the Philippines,1209571]]"
+- "[[_Standards/WikiData/WD~Negros_Island_Region,17081785]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Philippines,830399]]"
+culture: "[[_Standards/WikiData/WD~culture_of_the_Philippines,934605]]"
+head_of_state: "[[_Standards/WikiData/WD~Bongbong_Marcos,983324]]"
+head_of_government: "[[_Standards/WikiData/WD~Bongbong_Marcos,983324]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Philippines,1209571]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Philippines,1209571]]"
 ethnic_group:
-- "[[_Standards/WikiData/WD~Tagalog people,1262011]]"
+- "[[_Standards/WikiData/WD~Tagalog_people,1262011]]"
 - '[[_Standards/WikiData/WD~Visayans,1290600]]'
-- "[[_Standards/WikiData/WD~Bicolano people,1293737]]"
+- "[[_Standards/WikiData/WD~Bicolano_people,1293737]]"
 - '[[_Standards/WikiData/WD~Ilocano,2527423]]'
-- "[[_Standards/WikiData/WD~Waray people,3550146]]"
-- "[[_Standards/WikiData/WD~Cebuano people,3567287]]"
-- "[[_Standards/WikiData/WD~Hiligaynon people,17072635]]"
+- "[[_Standards/WikiData/WD~Waray_people,3550146]]"
+- "[[_Standards/WikiData/WD~Cebuano_people,3567287]]"
+- "[[_Standards/WikiData/WD~Hiligaynon_people,17072635]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the Philippines,1418238]]"
-legislative_body: "[[_Standards/WikiData/WD~Congress of the Philippines,1542985]]"
-central_bank: "[[_Standards/WikiData/WD~Bangko Sentral ng Pilipinas,1853468]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the Philippines,1921237]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Philippines,1418238]]"
+legislative_body: "[[_Standards/WikiData/WD~Congress_of_the_Philippines,1542985]]"
+central_bank: "[[_Standards/WikiData/WD~Bangko_Sentral_ng_Pilipinas,1853468]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Philippines,1921237]]"
 studied_in: '[[_Standards/WikiData/WD~Filipinology,2088309]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Philippines,2361183]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Philippines,2361183]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Philippine Standard Time,3543509]]"
+- "[[_Standards/WikiData/WD~Philippine_Standard_Time,3543509]]"
 - '[[_Standards/WikiData/WD~Asia_Manila,63285954]]'
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
 inception:
 - "1565"
 - "1901-07-04"
@@ -376,7 +376,7 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 country: '[[_Standards/WikiData/WD~Philippines,928]]'
 capital: '[[_Standards/WikiData/WD~Manila,1461]]'
@@ -384,8 +384,8 @@ official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Filipino,33298]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
-part_of: "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of the Philippines,17201]]"
+part_of: "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Philippines,17201]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 retirement_age: 60
 VAT_rate: 12
@@ -405,7 +405,7 @@ BTI_Governance_Index:
 - 4.92
 - 5.22
 - 5.49
-named_after: "[[_Standards/WikiData/WD~Philip II of Spain,34417]]"
+named_after: "[[_Standards/WikiData/WD~Philip_II_of_Spain,34417]]"
 BTI_Status_Index:
 - 6.4
 - 5.59
@@ -437,20 +437,20 @@ death_rate:
 - 5.568
 - 5.609
 - 7.311
-participant_in: "[[_Standards/WikiData/WD~ASEAN cable system,4654163]]"
+participant_in: "[[_Standards/WikiData/WD~ASEAN_cable_system,4654163]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Administrative divisions of the Philippines,6291793]]"
-- "[[_Standards/WikiData/WD~Template_Philippines topics,10977281]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Philippines,7112774]]"
-executive_body: "[[_Standards/WikiData/WD~government of the Philippines,7925797]]"
+- "[[_Standards/WikiData/WD~Template_Administrative_divisions_of_the_Philippines,6291793]]"
+- "[[_Standards/WikiData/WD~Template_Philippines_topics,10977281]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Philippines,7112774]]"
+executive_body: "[[_Standards/WikiData/WD~government_of_the_Philippines,7925797]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Philippines,14615000]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828373,22828373]]'
-motto: "[[_Standards/WikiData/WD~Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa,25047907]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-emergency_phone_number: "[[_Standards/WikiData/WD~911 (Philippines),60061806]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Philippines,97062501]]"
+motto: "[[_Standards/WikiData/WD~Maka-Diyos,_Maka-Tao,_Makakalikasan_at_Makabansa,25047907]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+emergency_phone_number: "[[_Standards/WikiData/WD~911_(Philippines),60061806]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Philippines,97062501]]"
 coordinates_of_westernmost_point: "Point(114.283333333 11.05)"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Philippinen.ogg"

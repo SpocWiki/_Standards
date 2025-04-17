@@ -1,13 +1,13 @@
 ﻿---
 has_id_wikidata: Q5339
 subclass_of:
-- "[[_Standards/WikiData/WD~semiconductor device,175805]]"
-- "[[_Standards/WikiData/WD~active electronic component,12492106]]"
-has_part_s_: "[[_Standards/WikiData/WD~p–n junction,176300]]"
+- "[[_Standards/WikiData/WD~semiconductor_device,175805]]"
+- "[[_Standards/WikiData/WD~active_electronic_component,12492106]]"
+has_part_s_: "[[_Standards/WikiData/WD~p–n_junction,176300]]"
 follows:
-- "[[_Standards/WikiData/WD~gas-filled tube,1159201]]"
-- "[[_Standards/WikiData/WD~semiconductor diode,1929430]]"
-- "[[_Standards/WikiData/WD~vacuum tube,3574371]]"
+- "[[_Standards/WikiData/WD~gas-filled_tube,1159201]]"
+- "[[_Standards/WikiData/WD~semiconductor_diode,1929430]]"
+- "[[_Standards/WikiData/WD~vacuum_tube,3574371]]"
 icon:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20NPN%20symbol.png"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20PNP%20symbol.png"
@@ -18,7 +18,7 @@ Dewey_Decimal_Classification:
 - 621.38832
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TRANZISTOR.html
 Commons_category: Transistors
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox transistor,22835127]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_transistor,22835127]]"
 UMLS_CUI: C2713584
 MeSH_tree_code: E07.305.625.714
 Nomenclature_for_Museum_Cataloging: 8832

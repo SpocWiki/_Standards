@@ -9,13 +9,13 @@ tags:
 has_id_wikidata: Q9192
 linguistic_typology:
 - '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
-- "[[_Standards/WikiData/WD~isolating language,7423311]]"
-replaces: "[[_Standards/WikiData/WD~Middle Chinese,2016252]]"
+- "[[_Standards/WikiData/WD~isolating_language,7423311]]"
+replaces: "[[_Standards/WikiData/WD~Middle_Chinese,2016252]]"
 different_from:
 - '[[_Standards/WikiData/WD~Mandarin,10948482]]'
 - '[[_Standards/WikiData/WD~Putonghua,24841726]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q20690025,20690025]]'
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1 National,29051546]]"
+Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
 Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/mandarin"
 short_name: паўночнакітайская
 country:
@@ -24,11 +24,11 @@ country:
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 indigenous_to:
 - '[[_Standards/WikiData/WD~Beijing,956]]'
-- "[[_Standards/WikiData/WD~Hong Kong,8646]]"
+- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
 - '[[_Standards/WikiData/WD~Chongqing,11725]]'
 - '[[_Standards/WikiData/WD~Tianjin,11736]]'
 - '[[_Standards/WikiData/WD~Macau,14773]]'
@@ -39,7 +39,7 @@ indigenous_to:
 - '[[_Standards/WikiData/WD~Hebei,21208]]'
 - '[[_Standards/WikiData/WD~Xinjiang,34800]]'
 - '[[_Standards/WikiData/WD~Anhui,40956]]'
-- "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
+- "[[_Standards/WikiData/WD~Inner_Mongolia,41079]]"
 - '[[_Standards/WikiData/WD~Gansu,42392]]'
 - '[[_Standards/WikiData/WD~Yunnan,43194]]'
 - '[[_Standards/WikiData/WD~Shandong,43407]]'
@@ -55,7 +55,7 @@ indigenous_to:
 - '[[_Standards/WikiData/WD~Jiangxi,57052]]'
 - '[[_Standards/WikiData/WD~Ningxia,57448]]'
 subclass_of: '[[_Standards/WikiData/WD~Chinese,7850]]'
-writing_system: "[[_Standards/WikiData/WD~Chinese characters,8201]]"
+writing_system: "[[_Standards/WikiData/WD~Chinese_characters,8201]]"
 instance_of: '[[_Standards/WikiData/WD~language,34770]]'
 number_of_speakers_writers_or_signers: 918000000
 ABS_ASCL_2011_code: 7104

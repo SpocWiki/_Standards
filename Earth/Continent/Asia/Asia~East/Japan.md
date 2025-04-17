@@ -1,184 +1,184 @@
 ---
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Aomori Prefecture,71699]]"
-- "[[_Standards/WikiData/WD~Fukushima Prefecture,71707]]"
-- "[[_Standards/WikiData/WD~Chiba Prefecture,80011]]"
-- "[[_Standards/WikiData/WD~Aichi Prefecture,80434]]"
-- "[[_Standards/WikiData/WD~Akita Prefecture,81863]]"
-- "[[_Standards/WikiData/WD~Ibaraki Prefecture,83273]]"
-- "[[_Standards/WikiData/WD~Kyoto Prefecture,120730]]"
-- "[[_Standards/WikiData/WD~Osaka Prefecture,122723]]"
-- "[[_Standards/WikiData/WD~Fukuoka Prefecture,123258]]"
-- "[[_Standards/WikiData/WD~Ehime Prefecture,123376]]"
-- "[[_Standards/WikiData/WD~Yamagata Prefecture,125863]]"
-- "[[_Standards/WikiData/WD~Yamaguchi Prefecture,127264]]"
-- "[[_Standards/WikiData/WD~Kanagawa Prefecture,127513]]"
-- "[[_Standards/WikiData/WD~Nagano Prefecture,127877]]"
-- "[[_Standards/WikiData/WD~Saitama Prefecture,128186]]"
-- "[[_Standards/WikiData/WD~Mie Prefecture,128196]]"
-- "[[_Standards/WikiData/WD~Gunma Prefecture,129499]]"
-- "[[_Standards/WikiData/WD~Hyōgo Prefecture,130290]]"
-- "[[_Standards/WikiData/WD~Miyazaki Prefecture,130300]]"
-- "[[_Standards/WikiData/WD~Kumamoto Prefecture,130308]]"
-- "[[_Standards/WikiData/WD~Gifu Prefecture,131277]]"
-- "[[_Standards/WikiData/WD~Ishikawa Prefecture,131281]]"
-- "[[_Standards/WikiData/WD~Nara Prefecture,131287]]"
-- "[[_Standards/WikiData/WD~Wakayama Prefecture,131314]]"
-- "[[_Standards/WikiData/WD~Shizuoka Prefecture,131320]]"
-- "[[_Standards/WikiData/WD~Shiga Prefecture,131358]]"
-- "[[_Standards/WikiData/WD~Niigata Prefecture,132705]]"
-- "[[_Standards/WikiData/WD~Yamanashi Prefecture,132720]]"
-- "[[_Standards/WikiData/WD~Shimane Prefecture,132751]]"
-- "[[_Standards/WikiData/WD~Toyama Prefecture,132929]]"
-- "[[_Standards/WikiData/WD~Okayama Prefecture,132936]]"
-- "[[_Standards/WikiData/WD~Fukui Prefecture,133879]]"
-- "[[_Standards/WikiData/WD~Oita Prefecture,133924]]"
-- "[[_Standards/WikiData/WD~Tottori Prefecture,133935]]"
-- "[[_Standards/WikiData/WD~Kōchi Prefecture,134093]]"
-- "[[_Standards/WikiData/WD~Saga Prefecture,160420]]"
-- "[[_Standards/WikiData/WD~Tokushima Prefecture,160734]]"
-- "[[_Standards/WikiData/WD~Kagawa Prefecture,161454]]"
-- "[[_Standards/WikiData/WD~Nagasaki Prefecture,169376]]"
-- "[[_Standards/WikiData/WD~Hiroshima Prefecture,617375]]"
-- "[[_Standards/WikiData/WD~Okinawa Prefecture,766445]]"
+- "[[_Standards/WikiData/WD~Aomori_Prefecture,71699]]"
+- "[[_Standards/WikiData/WD~Fukushima_Prefecture,71707]]"
+- "[[_Standards/WikiData/WD~Chiba_Prefecture,80011]]"
+- "[[_Standards/WikiData/WD~Aichi_Prefecture,80434]]"
+- "[[_Standards/WikiData/WD~Akita_Prefecture,81863]]"
+- "[[_Standards/WikiData/WD~Ibaraki_Prefecture,83273]]"
+- "[[_Standards/WikiData/WD~Kyoto_Prefecture,120730]]"
+- "[[_Standards/WikiData/WD~Osaka_Prefecture,122723]]"
+- "[[_Standards/WikiData/WD~Fukuoka_Prefecture,123258]]"
+- "[[_Standards/WikiData/WD~Ehime_Prefecture,123376]]"
+- "[[_Standards/WikiData/WD~Yamagata_Prefecture,125863]]"
+- "[[_Standards/WikiData/WD~Yamaguchi_Prefecture,127264]]"
+- "[[_Standards/WikiData/WD~Kanagawa_Prefecture,127513]]"
+- "[[_Standards/WikiData/WD~Nagano_Prefecture,127877]]"
+- "[[_Standards/WikiData/WD~Saitama_Prefecture,128186]]"
+- "[[_Standards/WikiData/WD~Mie_Prefecture,128196]]"
+- "[[_Standards/WikiData/WD~Gunma_Prefecture,129499]]"
+- "[[_Standards/WikiData/WD~Hyōgo_Prefecture,130290]]"
+- "[[_Standards/WikiData/WD~Miyazaki_Prefecture,130300]]"
+- "[[_Standards/WikiData/WD~Kumamoto_Prefecture,130308]]"
+- "[[_Standards/WikiData/WD~Gifu_Prefecture,131277]]"
+- "[[_Standards/WikiData/WD~Ishikawa_Prefecture,131281]]"
+- "[[_Standards/WikiData/WD~Nara_Prefecture,131287]]"
+- "[[_Standards/WikiData/WD~Wakayama_Prefecture,131314]]"
+- "[[_Standards/WikiData/WD~Shizuoka_Prefecture,131320]]"
+- "[[_Standards/WikiData/WD~Shiga_Prefecture,131358]]"
+- "[[_Standards/WikiData/WD~Niigata_Prefecture,132705]]"
+- "[[_Standards/WikiData/WD~Yamanashi_Prefecture,132720]]"
+- "[[_Standards/WikiData/WD~Shimane_Prefecture,132751]]"
+- "[[_Standards/WikiData/WD~Toyama_Prefecture,132929]]"
+- "[[_Standards/WikiData/WD~Okayama_Prefecture,132936]]"
+- "[[_Standards/WikiData/WD~Fukui_Prefecture,133879]]"
+- "[[_Standards/WikiData/WD~Oita_Prefecture,133924]]"
+- "[[_Standards/WikiData/WD~Tottori_Prefecture,133935]]"
+- "[[_Standards/WikiData/WD~Kōchi_Prefecture,134093]]"
+- "[[_Standards/WikiData/WD~Saga_Prefecture,160420]]"
+- "[[_Standards/WikiData/WD~Tokushima_Prefecture,160734]]"
+- "[[_Standards/WikiData/WD~Kagawa_Prefecture,161454]]"
+- "[[_Standards/WikiData/WD~Nagasaki_Prefecture,169376]]"
+- "[[_Standards/WikiData/WD~Hiroshima_Prefecture,617375]]"
+- "[[_Standards/WikiData/WD~Okinawa_Prefecture,766445]]"
 - '[[_Standards/WikiData/WD~Tokyo,1490]]'
-- "[[_Standards/WikiData/WD~Kagoshima Prefecture,15701]]"
-- "[[_Standards/WikiData/WD~Tochigi Prefecture,44843]]"
-- "[[_Standards/WikiData/WD~Miyagi Prefecture,47896]]"
-- "[[_Standards/WikiData/WD~Iwate Prefecture,48326]]"
+- "[[_Standards/WikiData/WD~Kagoshima_Prefecture,15701]]"
+- "[[_Standards/WikiData/WD~Tochigi_Prefecture,44843]]"
+- "[[_Standards/WikiData/WD~Miyagi_Prefecture,47896]]"
+- "[[_Standards/WikiData/WD~Iwate_Prefecture,48326]]"
 - '[[_Standards/WikiData/WD~Hokkaido,1037393]]'
 public_holiday:
-- "[[_Standards/WikiData/WD~The Emperor's Birthday,72318]]"
-- "[[_Standards/WikiData/WD~Labor Thanksgiving Day,82405]]"
-- "[[_Standards/WikiData/WD~Coming of Age Day,483226]]"
-- "[[_Standards/WikiData/WD~Culture Day,1009535]]"
-- "[[_Standards/WikiData/WD~Vernal Equinox Day,1049141]]"
-- "[[_Standards/WikiData/WD~National Foundation Day,1059995]]"
-- "[[_Standards/WikiData/WD~Children's Day,1145630]]"
-- "[[_Standards/WikiData/WD~Respect for the Aged Day,1186127]]"
-- "[[_Standards/WikiData/WD~Autumnal Equinox Day,1186410]]"
-- "[[_Standards/WikiData/WD~Greenery Day,1355051]]"
-- "[[_Standards/WikiData/WD~Marine Day,1355833]]"
-- "[[_Standards/WikiData/WD~Sports Day,1359602]]"
-- "[[_Standards/WikiData/WD~Shōwa Day,1361434]]"
-- "[[_Standards/WikiData/WD~Constitution Memorial Day,1361489]]"
-- "[[_Standards/WikiData/WD~Mountain Day,17218111]]"
+- "[[_Standards/WikiData/WD~The_Emperor's_Birthday,72318]]"
+- "[[_Standards/WikiData/WD~Labor_Thanksgiving_Day,82405]]"
+- "[[_Standards/WikiData/WD~Coming_of_Age_Day,483226]]"
+- "[[_Standards/WikiData/WD~Culture_Day,1009535]]"
+- "[[_Standards/WikiData/WD~Vernal_Equinox_Day,1049141]]"
+- "[[_Standards/WikiData/WD~National_Foundation_Day,1059995]]"
+- "[[_Standards/WikiData/WD~Children's_Day,1145630]]"
+- "[[_Standards/WikiData/WD~Respect_for_the_Aged_Day,1186127]]"
+- "[[_Standards/WikiData/WD~Autumnal_Equinox_Day,1186410]]"
+- "[[_Standards/WikiData/WD~Greenery_Day,1355051]]"
+- "[[_Standards/WikiData/WD~Marine_Day,1355833]]"
+- "[[_Standards/WikiData/WD~Sports_Day,1359602]]"
+- "[[_Standards/WikiData/WD~Shōwa_Day,1361434]]"
+- "[[_Standards/WikiData/WD~Constitution_Memorial_Day,1361489]]"
+- "[[_Standards/WikiData/WD~Mountain_Day,17218111]]"
 anthem: '[[_Standards/WikiData/WD~Kimigayo,81534]]'
 ethnic_group:
-- "[[_Standards/WikiData/WD~Ainu people,101828]]"
-- "[[_Standards/WikiData/WD~Japanese people,161652]]"
+- "[[_Standards/WikiData/WD~Ainu_people,101828]]"
+- "[[_Standards/WikiData/WD~Japanese_people,161652]]"
 - '[[_Standards/WikiData/WD~Koreans,484464]]'
-- "[[_Standards/WikiData/WD~Chinese people,6501380]]"
+- "[[_Standards/WikiData/WD~Chinese_people,6501380]]"
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Japan,130436]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Japan,130436]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Philippine Sea,159183]]"
-- "[[_Standards/WikiData/WD~Sea of Japan,27092]]"
-- "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-- "[[_Standards/WikiData/WD~Sea of Okhotsk,41602]]"
-- "[[_Standards/WikiData/WD~East China Sea,45341]]"
+- "[[_Standards/WikiData/WD~Philippine_Sea,159183]]"
+- "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
+- "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- "[[_Standards/WikiData/WD~Sea_of_Okhotsk,41602]]"
+- "[[_Standards/WikiData/WD~East_China_Sea,45341]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
 - '[[_Standards/WikiData/WD~G8,37143]]'
-- "[[_Standards/WikiData/WD~League of Nations,38130]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+- "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
 - '[[_Standards/WikiData/WD~G7,1764511]]'
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
 has_seal_badge_or_sigil:
-- "[[_Standards/WikiData/WD~Imperial Seal of Japan,170556]]"
-- "[[_Standards/WikiData/WD~national seal,12056846]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Imperial Seal of Japan,170556]]"
+- "[[_Standards/WikiData/WD~Imperial_Seal_of_Japan,170556]]"
+- "[[_Standards/WikiData/WD~national_seal,12056846]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Imperial_Seal_of_Japan,170556]]"
 different_from:
 - '[[_Standards/WikiData/WD~Japan,174933]]'
 - '[[_Standards/WikiData/WD~Japan,11309938]]'
 replaces:
-- "[[_Standards/WikiData/WD~Empire of Japan,188712]]"
-- "[[_Standards/WikiData/WD~Second Shō Dynasty,11602290]]"
-follows: "[[_Standards/WikiData/WD~Empire of Japan,188712]]"
+- "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
+- "[[_Standards/WikiData/WD~Second_Shō_Dynasty,11602290]]"
+follows: "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
 named_after: '[[_Standards/WikiData/WD~sunrise,193294]]'
-legislative_body: "[[_Standards/WikiData/WD~National Diet,202384]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Diet,202384]]"
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~region of Japan,207520]]"
-- "[[_Standards/WikiData/WD~island of Japan,17308006]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Emperor of Japan,208233]]"
+- "[[_Standards/WikiData/WD~region_of_Japan,207520]]"
+- "[[_Standards/WikiData/WD~island_of_Japan,17308006]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Emperor_of_Japan,208233]]"
 head_of_state: '[[_Standards/WikiData/WD~Naruhito,217096]]'
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Japan,237082]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Japan,274948]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Japan,237082]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Japan,274948]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~New Book of Tang,386073]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~History of Ming,28763]]"
-- "[[_Standards/WikiData/WD~New History of Yuan,1053256]]"
-- "[[_Standards/WikiData/WD~Old Book of Tang,1146980]]"
-- "[[_Standards/WikiData/WD~History of Song,1147260]]"
-- "[[_Standards/WikiData/WD~History of Yuan,1345223]]"
-- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Japan,319831]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~New_Book_of_Tang,386073]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+- "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
+- "[[_Standards/WikiData/WD~Old_Book_of_Tang,1146980]]"
+- "[[_Standards/WikiData/WD~History_of_Song,1147260]]"
+- "[[_Standards/WikiData/WD~History_of_Yuan,1345223]]"
+- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Japan,319831]]"
 right_to_vote:
-- "[[_Standards/WikiData/WD~universal suffrage,319891]]"
-- "[[_Standards/WikiData/WD~age limit,438919]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Japan,333101]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Japan,333690]]"
+- "[[_Standards/WikiData/WD~universal_suffrage,319891]]"
+- "[[_Standards/WikiData/WD~age_limit,438919]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Japan,333101]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Japan,333690]]"
 official_symbol:
-- "[[_Standards/WikiData/WD~Green Pheasant,425900]]"
-- "[[_Standards/WikiData/WD~Sasakia charonda,714716]]"
-- "[[_Standards/WikiData/WD~cherry blossom,871991]]"
+- "[[_Standards/WikiData/WD~Green_Pheasant,425900]]"
+- "[[_Standards/WikiData/WD~Sasakia_charonda,714716]]"
+- "[[_Standards/WikiData/WD~cherry_blossom,871991]]"
 - '[[_Standards/WikiData/WD~sumo,40561]]'
-- "[[_Standards/WikiData/WD~Chrysanthemum morifolium,15530181]]"
-has_cabinet: "[[_Standards/WikiData/WD~Cabinet of Japan,529012]]"
+- "[[_Standards/WikiData/WD~Chrysanthemum_morifolium,15530181]]"
+has_cabinet: "[[_Standards/WikiData/WD~Cabinet_of_Japan,529012]]"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Shinto,812767]]'
 - '[[_Standards/WikiData/WD~Buddhism,748]]'
 - '[[_Standards/WikiData/WD~Christianity,5043]]'
-culture: "[[_Standards/WikiData/WD~culture of Japan,831454]]"
-participant_in: "[[_Standards/WikiData/WD~G4 nations,838116]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Japan,831454]]"
+participant_in: "[[_Standards/WikiData/WD~G4_nations,838116]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Central Japan,841336]]"
-- "[[_Standards/WikiData/WD~Northern Japan,905661]]"
-- "[[_Standards/WikiData/WD~Southern Japan,905991]]"
-- "[[_Standards/WikiData/WD~Eastern Japan,1063689]]"
-- "[[_Standards/WikiData/WD~Western Japan,1063946]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Japanese archipelago,841337]]"
-studied_in: "[[_Standards/WikiData/WD~Japanese studies,875592]]"
+- "[[_Standards/WikiData/WD~Central_Japan,841336]]"
+- "[[_Standards/WikiData/WD~Northern_Japan,905661]]"
+- "[[_Standards/WikiData/WD~Southern_Japan,905991]]"
+- "[[_Standards/WikiData/WD~Eastern_Japan,1063689]]"
+- "[[_Standards/WikiData/WD~Western_Japan,1063946]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Japanese_archipelago,841337]]"
+studied_in: "[[_Standards/WikiData/WD~Japanese_studies,875592]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Japan Standard Time,909085]]"
+- "[[_Standards/WikiData/WD~Japan_Standard_Time,909085]]"
 - '[[_Standards/WikiData/WD~UTC+09_00,7041]]'
 - '[[_Standards/WikiData/WD~Asia_Tokyo,63285941]]'
 nickname:
@@ -280,26 +280,26 @@ urban_population:
 - 116119928
 coordinates_of_westernmost_point: "Point(122.9325 24.451388888)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Tonga,678]]'
-- "[[_Standards/WikiData/WD~Solomon Islands,685]]"
+- "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Paraguay,733]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
@@ -307,25 +307,25 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Nepal,837]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Bhutan,917]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 - '[[_Standards/WikiData/WD~China,29520]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -344,8 +344,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -360,10 +360,10 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 capital: '[[_Standards/WikiData/WD~Tokyo,1490]]'
 language_used:
@@ -372,17 +372,17 @@ language_used:
 - '[[_Standards/WikiData/WD~Yaeyama,34203]]'
 - '[[_Standards/WikiData/WD~Okinawan,34233]]'
 - '[[_Standards/WikiData/WD~Yonaguni,34243]]'
-- "[[_Standards/WikiData/WD~Japanese Sign Language,35601]]"
+- "[[_Standards/WikiData/WD~Japanese_Sign_Language,35601]]"
 - '[[_Standards/WikiData/WD~Miyako,36218]]'
 - '[[_Standards/WikiData/WD~Yoron,2424943]]'
-- "[[_Standards/WikiData/WD~Southern Amami Ōshima,2840986]]"
-- "[[_Standards/WikiData/WD~Northern Amami Ōshima,2840988]]"
+- "[[_Standards/WikiData/WD~Southern_Amami_Ōshima,2840986]]"
+- "[[_Standards/WikiData/WD~Northern_Amami_Ōshima,2840988]]"
 - '[[_Standards/WikiData/WD~Kikai,3196527]]'
 - '[[_Standards/WikiData/WD~Okinoerabu,3350036]]'
 - '[[_Standards/WikiData/WD~Tokunoshima,3530484]]'
 - '[[_Standards/WikiData/WD~Kunigami,56558]]'
 official_language: '[[_Standards/WikiData/WD~Japanese,5287]]'
-part_of: "[[_Standards/WikiData/WD~East Asia,27231]]"
+part_of: "[[_Standards/WikiData/WD~East_Asia,27231]]"
 minimum_temperature_record: -41
 country: '[[_Standards/WikiData/WD~Japan,17]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
@@ -411,42 +411,42 @@ death_rate:
 total_fertility_rate: 1.38
 suicide_rate: 14.6
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.jp,39132]]'
-highest_point: "[[_Standards/WikiData/WD~Mount Fuji,39231]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Fuji,39231]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 Gini_coefficient: 32.9
-flag: "[[_Standards/WikiData/WD~flag of Japan,43175]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Japan,43175]]"
 maximum_temperature_record: 41.1
 Happy_Planet_Index_score: 47.1
 trunk_prefix: 0
 UIC_numerical_country_code: 42
-archives_at: "[[_Standards/WikiData/WD~National Archives of Japan,1072875]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Japan,1124220]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Japan,1142255]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Japan,1190574]]"
-head_of_government: "[[_Standards/WikiData/WD~Shigeru Ishiba,1335527]]"
+archives_at: "[[_Standards/WikiData/WD~National_Archives_of_Japan,1072875]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Japan,1124220]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Japan,1142255]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Japan,1190574]]"
+head_of_government: "[[_Standards/WikiData/WD~Shigeru_Ishiba,1335527]]"
 lowest_point: '[[_Standards/WikiData/WD~Hachirōgata,1364781]]'
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~119,2807090]]'
 - '[[_Standards/WikiData/WD~118,11185210]]'
 - '[[_Standards/WikiData/WD~110,25648823]]'
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Japan,6585753]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Japan,7112310]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Japan,7112310]]"
 category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q7981952,7981952]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Japan topics,8083538]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Japan,8504015]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Japan_topics,8083538]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Japan,8504015]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topographic_map: "[[_Standards/WikiData/WD~Atlas of Japan,21094424]]"
+topographic_map: "[[_Standards/WikiData/WD~Atlas_of_Japan,21094424]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q22828397,22828397]]'
 - '[[_Standards/WikiData/WD~Q44080056,44080056]]'
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-has_boundary: "[[_Standards/WikiData/WD~borders of Japan,65199218]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+has_boundary: "[[_Standards/WikiData/WD~borders_of_Japan,65199218]]"
 open_data_portal: '[[_Standards/WikiData/WD~data.go.jp,97153912]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
 Mastodon_instance_URL:
 - "https://mstdn.jp"
 - "https://mastodon-japan.net"

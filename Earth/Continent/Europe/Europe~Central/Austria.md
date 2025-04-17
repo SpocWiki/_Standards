@@ -35,92 +35,92 @@ Languages:
 - hu
 - sl
 icon: flag-at
-head_of_state: "[[_Standards/WikiData/WD~Alexander Van der Bellen,78869]]"
+head_of_state: "[[_Standards/WikiData/WD~Alexander_Van_der_Bellen,78869]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~Rechtsstaat,4209223]]'
-- "[[_Standards/WikiData/WD~successor state,127693126]]"
+- "[[_Standards/WikiData/WD~successor_state,127693126]]"
 - '[[_Standards/WikiData/WD~republic,7270]]'
 - '[[_Standards/WikiData/WD~state,7275]]'
-anthem: "[[_Standards/WikiData/WD~Land der Berge, Land am Strome,126658]]"
+anthem: "[[_Standards/WikiData/WD~Land_der_Berge,_Land_am_Strome,126658]]"
 language_used:
 - '[[_Standards/WikiData/WD~Alemannic,131339]]'
-- "[[_Standards/WikiData/WD~Austrian German,306626]]"
-- "[[_Standards/WikiData/WD~Swiss German,387066]]"
-- "[[_Standards/WikiData/WD~Walser German,680517]]"
+- "[[_Standards/WikiData/WD~Austrian_German,306626]]"
+- "[[_Standards/WikiData/WD~Swiss_German,387066]]"
+- "[[_Standards/WikiData/WD~Walser_German,680517]]"
 - '[[_Standards/WikiData/WD~German,188]]'
-- "[[_Standards/WikiData/WD~Burgenland Croatian,35357]]"
-- "[[_Standards/WikiData/WD~Austrian Sign Language,36668]]"
+- "[[_Standards/WikiData/WD~Burgenland_Croatian,35357]]"
+- "[[_Standards/WikiData/WD~Austrian_Sign_Language,36668]]"
 - '[[_Standards/WikiData/WD~Croatian,6654]]'
 - '[[_Standards/WikiData/WD~Slovene,9063]]'
 - '[[_Standards/WikiData/WD~Hungarian,9067]]'
 - '[[_Standards/WikiData/WD~Bavarian,29540]]'
 public_holiday:
 - '[[_Standards/WikiData/WD~Epiphany,132001]]'
-- "[[_Standards/WikiData/WD~Feast of Corpus Christi,152395]]"
-- "[[_Standards/WikiData/WD~Assumption of Mary,162691]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~National Holiday,875766]]"
-- "[[_Standards/WikiData/WD~Saint Stephen's Day,1366863]]"
-- "[[_Standards/WikiData/WD~Whit Monday,2512993]]"
-- "[[_Standards/WikiData/WD~Feast of the Immaculate Conception,3538509]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
-- "[[_Standards/WikiData/WD~Feast of the Ascension,51638]]"
-- "[[_Standards/WikiData/WD~All Saints' Day,587]]"
+- "[[_Standards/WikiData/WD~Feast_of_Corpus_Christi,152395]]"
+- "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~National_Holiday,875766]]"
+- "[[_Standards/WikiData/WD~Saint_Stephen's_Day,1366863]]"
+- "[[_Standards/WikiData/WD~Whit_Monday,2512993]]"
+- "[[_Standards/WikiData/WD~Feast_of_the_Immaculate_Conception,3538509]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- "[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638]]"
+- "[[_Standards/WikiData/WD~All_Saints'_Day,587]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
-official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
+official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
 located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Salzach,152661]]'
 - '[[_Standards/WikiData/WD~Morava,179251]]'
 - '[[_Standards/WikiData/WD~Thaya,660208]]'
 - '[[_Standards/WikiData/WD~Rhine,584]]'
 - '[[_Standards/WikiData/WD~Danube,1653]]'
-- "[[_Standards/WikiData/WD~Lake Constance,4127]]"
-- "[[_Standards/WikiData/WD~Neusiedl Lake,6396]]"
+- "[[_Standards/WikiData/WD~Lake_Constance,4127]]"
+- "[[_Standards/WikiData/WD~Neusiedl_Lake,6396]]"
 - '[[_Standards/WikiData/WD~Inn,14369]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Austria,160322]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Austria,187830]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Austria,216981]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Austria,160322]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Austria,187830]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Austria,216981]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~Yugoslavs,236807]]'
 - '[[_Standards/WikiData/WD~Austrians,237534]]'
-- "[[_Standards/WikiData/WD~Turks in Austria,672394]]"
+- "[[_Standards/WikiData/WD~Turks_in_Austria,672394]]"
 - '[[_Standards/WikiData/WD~Germans,42884]]'
-visitor_center: "[[_Standards/WikiData/WD~Austrian National Tourist Office,298700]]"
-culture: "[[_Standards/WikiData/WD~culture of Austria,303649]]"
+visitor_center: "[[_Standards/WikiData/WD~Austrian_National_Tourist_Office,298700]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Austria,303649]]"
 different_from: '[[_Standards/WikiData/WD~Austria,359060]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Austria,475658]]"
-central_bank: "[[_Standards/WikiData/WD~Austrian National Bank,670723]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Austria,671856]]"
-executive_body: "[[_Standards/WikiData/WD~Austrian Federal Government,695599]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Austria,475658]]"
+central_bank: "[[_Standards/WikiData/WD~Austrian_National_Bank,670723]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Austria,671856]]"
+executive_body: "[[_Standards/WikiData/WD~Austrian_Federal_Government,695599]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-- "[[_Standards/WikiData/WD~Great dictionary of geographical names,113510146]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of Austria,873868]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Federal Chancellor of Austria,1006398]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+- "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional_Court_of_Austria,873868]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Federal_Chancellor_of_Austria,1006398]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-contains: "[[_Standards/WikiData/WD~Northern Lower Austria Alps,1442339]]"
+contains: "[[_Standards/WikiData/WD~Northern_Lower_Austria_Alps,1442339]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~free_country,3174312]]"
 - '[[_Standards/WikiData/WD~democracy,7174]]'
-legislative_body: "[[_Standards/WikiData/WD~Austrian Parliament,4817650]]"
+legislative_body: "[[_Standards/WikiData/WD~Austrian_Parliament,4817650]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~federal parliamentary republic,5440547]]"
-- "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
+- "[[_Standards/WikiData/WD~federal_parliamentary_republic,5440547]]"
+- "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Austria,6441852]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Airports in Austria,6673573]]"
-- "[[_Standards/WikiData/WD~Template_Austria topics,6704830]]"
+- "[[_Standards/WikiData/WD~Template_Airports_in_Austria,6673573]]"
+- "[[_Standards/WikiData/WD~Template_Austria_topics,6704830]]"
 - '[[_Standards/WikiData/WD~Template_Austria,17586481]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Austria,7112193]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Austria,11343046]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Austria,7112193]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Austria,11343046]]"
 demonym:
 - austriac
 - نمساويون
@@ -179,9 +179,9 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~123,25648825]]'
 - '[[_Standards/WikiData/WD~120,25648851]]'
 - '[[_Standards/WikiData/WD~140,25648888]]'
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Österreich,63429697]]"
-head_of_government: "[[_Standards/WikiData/WD~Alexander Schallenberg,64168538]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Österreich,63429697]]"
+head_of_government: "[[_Standards/WikiData/WD~Alexander_Schallenberg,64168538]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Austria-banner1.jpg"
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Austria%20satellite%20unannotated-2.png"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Austria%20States%20Cities.png"
@@ -225,15 +225,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Croatia,224]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
@@ -242,15 +242,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Liechtenstein,347]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
 shares_border_with:
@@ -260,14 +260,14 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Liechtenstein,347]]'
 country: '[[_Standards/WikiData/WD~Austria,40]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 VAT_rate: 20
 official_language:
 - '[[_Standards/WikiData/WD~German,188]]'
-- "[[_Standards/WikiData/WD~Austrian Sign Language,36668]]"
+- "[[_Standards/WikiData/WD~Austrian_Sign_Language,36668]]"
 unemployment_rate: 5
 water_as_percent_of_area: 1.7
 marriageable_age: 18
@@ -288,15 +288,15 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Carinthia,37985]]'
 - '[[_Standards/WikiData/WD~Vorarlberg,38981]]'
 - '[[_Standards/WikiData/WD~Styria,41358]]'
-- "[[_Standards/WikiData/WD~Upper Austria,41967]]"
-- "[[_Standards/WikiData/WD~Lower Austria,42497]]"
+- "[[_Standards/WikiData/WD~Upper_Austria,41967]]"
+- "[[_Standards/WikiData/WD~Lower_Austria,42497]]"
 - '[[_Standards/WikiData/WD~Tyrol,42880]]'
 - '[[_Standards/WikiData/WD~Burgenland,43210]]'
 - '[[_Standards/WikiData/WD~Salzburg,43325]]'
 - '[[_Standards/WikiData/WD~Vienna,1741]]'
 suicide_rate: 24.9
 Gini_coefficient: 30.2
-flag: "[[_Standards/WikiData/WD~flag of Austria,46835]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Austria,46835]]"
 Happy_Planet_Index_score: 46.8
 trunk_prefix: 0
 Democracy_Index: 8.16
@@ -320,16 +320,16 @@ ISNI: 0000000122651953
 coordinates_of_easternmost_point: "Point(17.160673 48.006579)"
 coordinates_of_northernmost_point: "Point(15.020686 49.020608)"
 part_of:
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-- "[[_Standards/WikiData/WD~Central Europe,27509]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 named_after: '[[_Standards/WikiData/WD~east,684]]'
-member_of: "[[_Standards/WikiData/WD~United Nations,1065]]"
+member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
 capital: '[[_Standards/WikiData/WD~Vienna,1741]]'
 highest_point: '[[_Standards/WikiData/WD~Grossglockner,3388]]'
-lowest_point: "[[_Standards/WikiData/WD~Neusiedl Lake,6396]]"
+lowest_point: "[[_Standards/WikiData/WD~Neusiedl_Lake,6396]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Austria,8085]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Austria,8085]]"
 replaces: '[[_Standards/WikiData/WD~Austria-Hungary,28513]]'
 nominal_GDP:
 - 480368403893

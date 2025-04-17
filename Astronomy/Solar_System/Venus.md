@@ -44,45 +44,45 @@ different_from:
 - '[[_Standards/WikiData/WD~Venus,102040]]'
 - '[[_Standards/WikiData/WD~Wenus,15615458]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 has_use:
-- "[[_Standards/WikiData/WD~terraforming of Venus,917241]]"
-- "[[_Standards/WikiData/WD~colonization of Venus,5983202]]"
-notation: "[[_Standards/WikiData/WD~Venus symbol,2513324]]"
+- "[[_Standards/WikiData/WD~terraforming_of_Venus,917241]]"
+- "[[_Standards/WikiData/WD~colonization_of_Venus,5983202]]"
+notation: "[[_Standards/WikiData/WD~Venus_symbol,2513324]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~life on Venus,2582723]]"
-- "[[_Standards/WikiData/WD~orbit of Venus,3895220]]"
+- "[[_Standards/WikiData/WD~life_on_Venus,2582723]]"
+- "[[_Standards/WikiData/WD~orbit_of_Venus,3895220]]"
 studied_in:
-- "[[_Standards/WikiData/WD~observations and explorations of Venus,2707053]]"
+- "[[_Standards/WikiData/WD~observations_and_explorations_of_Venus,2707053]]"
 - '[[_Standards/WikiData/WD~cytherology,131626874]]'
-highest_point: "[[_Standards/WikiData/WD~Skadi Mons,3486102]]"
+highest_point: "[[_Standards/WikiData/WD~Skadi_Mons,3486102]]"
 instance_of:
-- "[[_Standards/WikiData/WD~inner planet of the Solar System,3504248]]"
-- "[[_Standards/WikiData/WD~inferior planet,3901935]]"
-part_of: "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
-location: "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
+- "[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]"
+- "[[_Standards/WikiData/WD~inferior_planet,3901935]]"
+part_of: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
+location: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Venus,10993253]]'
 said_to_be_the_same_as:
-- "[[_Standards/WikiData/WD~Morning Star,12601444]]"
-- "[[_Standards/WikiData/WD~Evening Star,65936050]]"
-lowest_point: "[[_Standards/WikiData/WD~Diana Chasma,21211216]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Venus,30589068]]"
+- "[[_Standards/WikiData/WD~Morning_Star,12601444]]"
+- "[[_Standards/WikiData/WD~Evening_Star,65936050]]"
+lowest_point: "[[_Standards/WikiData/WD~Diana_Chasma,21211216]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Venus,30589068]]"
 UMLS_CUI: C0242748
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/PIA23791-Venus-RealAndEnhancedContrastViews-20200608%20%28cropped%29.jpg"
 IPA_transcription: ˈveːnʊs
 MeSH_tree_code: G01.060.075.730.700.900
 argument_of_periapsis: 131.60246718
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-has_part_s_: "[[_Standards/WikiData/WD~atmosphere of Venus,1941]]"
+has_part_s_: "[[_Standards/WikiData/WD~atmosphere_of_Venus,1941]]"
 apparent_magnitude: -4.8
 flattening: 0
 distance_from_Earth:

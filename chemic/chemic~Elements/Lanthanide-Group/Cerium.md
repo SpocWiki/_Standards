@@ -3,17 +3,17 @@ type: Element
 SpocWebEntityId: 21954
 has_id_wikidata: Q1385
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Jöns Jacob Berzelius,151911]]"
-- "[[_Standards/WikiData/WD~Martin Heinrich Klaproth,160196]]"
+- "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
+- "[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~rhabdophane-(Ce),653384]]'
 - '[[_Standards/WikiData/WD~aeschynite-(Ce),947884]]'
@@ -190,7 +190,7 @@ Unicode_character: 鈰
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828395,22828395]]'
 UMLS_CUI: C0007828
 named_after: '[[_Standards/WikiData/WD~Ceres,596]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 atomic_number: 58
 ---
 

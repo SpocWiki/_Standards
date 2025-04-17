@@ -4,24 +4,24 @@ aliases:
 - "Three Gorges Dam"
 has_use:
 - '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
-- "[[_Standards/WikiData/WD~inland navigation,499814]]"
-- "[[_Standards/WikiData/WD~flood control,1187968]]"
-powered_by: "[[_Standards/WikiData/WD~Francis turbine,217817]]"
-named_after: "[[_Standards/WikiData/WD~Three Gorges,673287]]"
-operator: "[[_Standards/WikiData/WD~China Yangtze Power,752496]]"
-owned_by: "[[_Standards/WikiData/WD~China Yangtze Power,752496]]"
-location: "[[_Standards/WikiData/WD~Sandouping Town,849367]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sandouping Town,849367]]"
+- "[[_Standards/WikiData/WD~inland_navigation,499814]]"
+- "[[_Standards/WikiData/WD~flood_control,1187968]]"
+powered_by: "[[_Standards/WikiData/WD~Francis_turbine,217817]]"
+named_after: "[[_Standards/WikiData/WD~Three_Gorges,673287]]"
+operator: "[[_Standards/WikiData/WD~China_Yangtze_Power,752496]]"
+owned_by: "[[_Standards/WikiData/WD~China_Yangtze_Power,752496]]"
+location: "[[_Standards/WikiData/WD~Sandouping_Town,849367]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sandouping_Town,849367]]"
 instance_of:
-- "[[_Standards/WikiData/WD~gravity dam,3497167]]"
-- "[[_Standards/WikiData/WD~hydroelectric power station,15911738]]"
-- "[[_Standards/WikiData/WD~boat lift,14908]]"
-part_of: "[[_Standards/WikiData/WD~Cascade of hydropower stations on Yangtze River,4216607]]"
-reservoir_created: "[[_Standards/WikiData/WD~Three Gorges Reservoir Region,7797505]]"
-drainage_basin: "[[_Standards/WikiData/WD~Yangtze River basin,15758768]]"
+- "[[_Standards/WikiData/WD~gravity_dam,3497167]]"
+- "[[_Standards/WikiData/WD~hydroelectric_power_station,15911738]]"
+- "[[_Standards/WikiData/WD~boat_lift,14908]]"
+part_of: "[[_Standards/WikiData/WD~Cascade_of_hydropower_stations_on_Yangtze_River,4216607]]"
+reservoir_created: "[[_Standards/WikiData/WD~Three_Gorges_Reservoir_Region,7797505]]"
+drainage_basin: "[[_Standards/WikiData/WD~Yangtze_River_basin,15758768]]"
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Yangtze,5413]]'
 located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Yangtze,5413]]'
-country: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 watershed_area: 1000000
 width:
 - 40

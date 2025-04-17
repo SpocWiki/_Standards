@@ -3,17 +3,17 @@ has_id_wikidata: Q8148
 different_from: '[[_Standards/WikiData/WD~industry,268592]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~activity,1914636]]'
-- "[[_Standards/WikiData/WD~secondary sector of the economy,55639]]"
+- "[[_Standards/WikiData/WD~secondary_sector_of_the_economy,55639]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~nijverheid,3096286]]'
-instance_of: "[[_Standards/WikiData/WD~economic sector,3958441]]"
+instance_of: "[[_Standards/WikiData/WD~economic_sector,3958441]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Industry,14615793]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of industry,16000278]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_industry,16000278]]"
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q52677530,52677530]]'
 UMLS_CUI: C0039567
 Commons_category: "Industry (manufacturing)"

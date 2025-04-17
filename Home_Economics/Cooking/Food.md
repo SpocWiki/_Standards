@@ -12,7 +12,7 @@ properties_for_this_type:
 - "OKPD2 product code"
 has_part_s_:
 - '[[_Standards/WikiData/WD~water,283]]'
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 used_by: '[[_Standards/WikiData/WD~organism,7239]]'
 Wikidata_property: "FoodData Central ID"
 IAB_code:
@@ -40,52 +40,52 @@ hashtag:
 - 맛스타그램
 - 먹스타그램
 has_characteristic:
-- "[[_Standards/WikiData/WD~food energy,186205]]"
+- "[[_Standards/WikiData/WD~food_energy,186205]]"
 - '[[_Standards/WikiData/WD~odor,485537]]'
-- "[[_Standards/WikiData/WD~shelf life,1689021]]"
+- "[[_Standards/WikiData/WD~shelf_life,1689021]]"
 - '[[_Standards/WikiData/WD~mouthfeel,1952715]]'
-- "[[_Standards/WikiData/WD~nutritional value,2075931]]"
+- "[[_Standards/WikiData/WD~nutritional_value,2075931]]"
 - '[[_Standards/WikiData/WD~digestibility,2514470]]'
 - '[[_Standards/WikiData/WD~flavoring,4173974]]'
-- "[[_Standards/WikiData/WD~type of food or dish,19861951]]"
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-- "[[_Standards/WikiData/WD~hedonic value,98106219]]"
-- "[[_Standards/WikiData/WD~visual appeal,98106499]]"
+- "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~hedonic_value,98106219]]"
+- "[[_Standards/WikiData/WD~visual_appeal,98106499]]"
 - '[[_Standards/WikiData/WD~nontoxicity,98106841]]'
 has_use:
 - '[[_Standards/WikiData/WD~eating,213449]]'
-- "[[_Standards/WikiData/WD~food fight,5465463]]"
+- "[[_Standards/WikiData/WD~food_fight,5465463]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~material,214609]]'
-- "[[_Standards/WikiData/WD~disposable product,1194058]]"
+- "[[_Standards/WikiData/WD~disposable_product,1194058]]"
 has_effect:
-- "[[_Standards/WikiData/WD~food allergy,769815]]"
+- "[[_Standards/WikiData/WD~food_allergy,769815]]"
 - '[[_Standards/WikiData/WD~satiety,1562684]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~nutriment,1422299]]'
-- "[[_Standards/WikiData/WD~food and fodder,12046531]]"
+- "[[_Standards/WikiData/WD~food_and_fodder,12046531]]"
 - '[[_Standards/WikiData/WD~edible,13538519]]'
 studied_in:
-- "[[_Standards/WikiData/WD~food science,1637030]]"
-- "[[_Standards/WikiData/WD~culinary art,2111686]]"
-opposite_of: "[[_Standards/WikiData/WD~non-food item,1996086]]"
+- "[[_Standards/WikiData/WD~food_science,1637030]]"
+- "[[_Standards/WikiData/WD~culinary_art,2111686]]"
+opposite_of: "[[_Standards/WikiData/WD~non-food_item,1996086]]"
 different_from:
-- "[[_Standards/WikiData/WD~animal feed,2836947]]"
-- "[[_Standards/WikiData/WD~human food,8195619]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of food,5535261]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox food,6630855]]"
+- "[[_Standards/WikiData/WD~animal_feed,2836947]]"
+- "[[_Standards/WikiData/WD~human_food,8195619]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_food,5535261]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_food,6630855]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Food,6947759]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Food and drink,8485990]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
 part_of: '[[_Standards/WikiData/WD~edible,13538519]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-made_from_material: "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+made_from_material: "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 Amazon_com_browse_node: 16310211
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Food%20WV%20banner.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Good%20Food%20Display%20-%20NCI%20Visuals%20Online.jpg"

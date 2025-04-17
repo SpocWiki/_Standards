@@ -11,52 +11,52 @@ confidential: public
 icon: flag-ge
 has_id_wikidata: Q230
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Collective Security Treaty Organization,318693]]"
-- "[[_Standards/WikiData/WD~GUAM Organization for Democracy and Economic Development,326816]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Organization of the Black Sea Economic Cooperation,380340]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]"
+- "[[_Standards/WikiData/WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~potential enlargement of the European Union,814923]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~European Civil Aviation Conference,1377616]]"
-- "[[_Standards/WikiData/WD~European Common Aviation Area,5412411]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Independent States,7779]]"
+- "[[_Standards/WikiData/WD~potential_enlargement_of_the_European_Union,814923]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~European_Civil_Aviation_Conference,1377616]]"
+- "[[_Standards/WikiData/WD~European_Common_Aviation_Area,5412411]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~UN Tourism,61923]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~UN_Tourism,61923]]"
 follows:
-- "[[_Standards/WikiData/WD~Kingdom of Lori,112745]]"
-- "[[_Standards/WikiData/WD~Kingdom of the Iberians,154816]]"
-- "[[_Standards/WikiData/WD~First Kingdom of Kakheti,7216494]]"
-replaces: "[[_Standards/WikiData/WD~Georgian Soviet Socialist Republic,130229]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Lori,112745]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Iberians,154816]]"
+- "[[_Standards/WikiData/WD~First_Kingdom_of_Kakheti,7216494]]"
+replaces: "[[_Standards/WikiData/WD~Georgian_Soviet_Socialist_Republic,130229]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Yemen,805]]'
 - '[[_Standards/WikiData/WD~Jordan,810]]'
 - '[[_Standards/WikiData/WD~Laos,819]]'
 - '[[_Standards/WikiData/WD~Lebanon,822]]'
 - '[[_Standards/WikiData/WD~Qatar,846]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
@@ -65,26 +65,26 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
 - '[[_Standards/WikiData/WD~Burundi,967]]'
-- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+- "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
 - '[[_Standards/WikiData/WD~Comoros,970]]'
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
+- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
 - '[[_Standards/WikiData/WD~Guinea,1006]]'
 - '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-- "[[_Standards/WikiData/WD~The Gambia,1005]]"
-- "[[_Standards/WikiData/WD~Cape Verde,1011]]"
-- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
+- "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
+- "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 - '[[_Standards/WikiData/WD~Lesotho,1013]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
-- "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -101,8 +101,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Belarus,184]]'
@@ -113,11 +113,11 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Andorra,228]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-- "[[_Standards/WikiData/WD~Vatican City,237]]"
+- "[[_Standards/WikiData/WD~Vatican_City,237]]"
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 - '[[_Standards/WikiData/WD~Algeria,262]]'
@@ -126,10 +126,10 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Vanuatu,686]]'
 - '[[_Standards/WikiData/WD~Kiribati,710]]'
@@ -140,35 +140,35 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Guatemala,774]]'
-- "[[_Standards/WikiData/WD~The Bahamas,778]]"
-- "[[_Standards/WikiData/WD~Antigua and Barbuda,781]]"
-- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
+- "[[_Standards/WikiData/WD~The_Bahamas,778]]"
+- "[[_Standards/WikiData/WD~Antigua_and_Barbuda,781]]"
+- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
 - '[[_Standards/WikiData/WD~Dominica,784]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
-- "[[_Standards/WikiData/WD~El Salvador,792]]"
+- "[[_Standards/WikiData/WD~El_Salvador,792]]"
 - '[[_Standards/WikiData/WD~Iraq,796]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Kakheti,169674]]'
-- "[[_Standards/WikiData/WD~Shida Kartli,200047]]"
+- "[[_Standards/WikiData/WD~Shida_Kartli,200047]]"
 - '[[_Standards/WikiData/WD~Imereti,200045]]'
-- "[[_Standards/WikiData/WD~Kvemo Kartli,200048]]"
-- "[[_Standards/WikiData/WD~Samegrelo-Zemo Svaneti,200309]]"
+- "[[_Standards/WikiData/WD~Kvemo_Kartli,200048]]"
+- "[[_Standards/WikiData/WD~Samegrelo-Zemo_Svaneti,200309]]"
 - '[[_Standards/WikiData/WD~Mtskheta-Mtianeti,203339]]'
-- "[[_Standards/WikiData/WD~Autonomous Republic of Abkhazia,2914461]]"
+- "[[_Standards/WikiData/WD~Autonomous_Republic_of_Abkhazia,2914461]]"
 - '[[_Standards/WikiData/WD~Tbilisi,994]]'
 - '[[_Standards/WikiData/WD~Guria,19038]]'
 - '[[_Standards/WikiData/WD~Samtskhe–Javakheti,19039]]'
-- "[[_Standards/WikiData/WD~Racha-Lechkhumi and Kvemo Svaneti,38893]]"
+- "[[_Standards/WikiData/WD~Racha-Lechkhumi_and_Kvemo_Svaneti,38893]]"
 - '[[_Standards/WikiData/WD~Adjara,45693]]'
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-- "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+- "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
+- "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
 language_used:
-- "[[_Standards/WikiData/WD~Western Armenian,180945]]"
+- "[[_Standards/WikiData/WD~Western_Armenian,180945]]"
 - '[[_Standards/WikiData/WD~Laz,1160372]]'
-- "[[_Standards/WikiData/WD~North Azerbaijani,3515311]]"
+- "[[_Standards/WikiData/WD~North_Azerbaijani,3515311]]"
 - '[[_Standards/WikiData/WD~Abkhaz,5111]]'
 - '[[_Standards/WikiData/WD~Russian,7737]]'
 - '[[_Standards/WikiData/WD~Georgian,8108]]'
@@ -177,75 +177,75 @@ language_used:
 - '[[_Standards/WikiData/WD~Bats,33259]]'
 - '[[_Standards/WikiData/WD~Ossetian,33968]]'
 - '[[_Standards/WikiData/WD~Svan,34067]]'
-religion_or_worldview: "[[_Standards/WikiData/WD~Georgian Orthodox Church,192173]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Georgian_Orthodox_Church,192173]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Europe Day,207811]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~Saint George Day,212829]]"
-- "[[_Standards/WikiData/WD~Victory Day,270706]]"
-- "[[_Standards/WikiData/WD~Dormition of the Mother of God,4069073]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Europe_Day,207811]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~Saint_George_Day,212829]]"
+- "[[_Standards/WikiData/WD~Victory_Day,270706]]"
+- "[[_Standards/WikiData/WD~Dormition_of_the_Mother_of_God,4069073]]"
 - '[[_Standards/WikiData/WD~Mtskhetoba,4309182]]'
-- "[[_Standards/WikiData/WD~Independence Day,12868922]]"
-- "[[_Standards/WikiData/WD~Baptism of the Lord,15954764]]"
-- "[[_Standards/WikiData/WD~Paschal cycle,16962827]]"
+- "[[_Standards/WikiData/WD~Independence_Day,12868922]]"
+- "[[_Standards/WikiData/WD~Baptism_of_the_Lord,15954764]]"
+- "[[_Standards/WikiData/WD~Paschal_cycle,16962827]]"
 - '[[_Standards/WikiData/WD~Bedoba,28055438]]'
-- "[[_Standards/WikiData/WD~Day of National Unity of Georgia,28055480]]"
-- "[[_Standards/WikiData/WD~Saint Andrew the First-Called Day,28055501]]"
+- "[[_Standards/WikiData/WD~Day_of_National_Unity_of_Georgia,28055480]]"
+- "[[_Standards/WikiData/WD~Saint_Andrew_the_First-Called_Day,28055501]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
 - '[[_Standards/WikiData/WD~Easter,21196]]'
-- "[[_Standards/WikiData/WD~International Women's Day,38964]]"
-- "[[_Standards/WikiData/WD~Good Friday,40317]]"
-- "[[_Standards/WikiData/WD~Mother's Day,47502]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Georgia,200053]]"
+- "[[_Standards/WikiData/WD~International_Women's_Day,38964]]"
+- "[[_Standards/WikiData/WD~Good_Friday,40317]]"
+- "[[_Standards/WikiData/WD~Mother's_Day,47502]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Georgia,200053]]"
 anthem: '[[_Standards/WikiData/WD~Tavisupleba,200079]]'
 highest_point: '[[_Standards/WikiData/WD~Shkhara,217457]]'
-history_of_topic: "[[_Standards/WikiData/WD~History of Georgia,238246]]"
-head_of_state: "[[_Standards/WikiData/WD~Salome Zourabichvili,272416]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Georgia,282182]]"
+history_of_topic: "[[_Standards/WikiData/WD~History_of_Georgia,238246]]"
+head_of_state: "[[_Standards/WikiData/WD~Salome_Zourabichvili,272416]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Georgia,282182]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~New History of Yuan,1053256]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Georgia,843405]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Georgia,843405]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Georgia,1417210]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Georgia,1440599]]"
-culture: "[[_Standards/WikiData/WD~culture of Georgia,1456595]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Georgia,1975365]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Georgia,2359156]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Georgia,2468398]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Georgia,2613132]]"
-instance_of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-motto: "[[_Standards/WikiData/WD~Dzala ertobashia,3646621]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Georgia,1417210]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Georgia,1440599]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Georgia,1456595]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Georgia,1975365]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Georgia,2359156]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Georgia,2468398]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Georgia,2613132]]"
+instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+motto: "[[_Standards/WikiData/WD~Dzala_ertobashia,3646621]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~111,4547309]]'
 - '[[_Standards/WikiData/WD~113,25648804]]'
 - '[[_Standards/WikiData/WD~122,25648812]]'
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of Georgia,5164290]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Georgia,7112270]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional_Court_of_Georgia,5164290]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Georgia,7112270]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Georgia Time,7805334]]"
+- "[[_Standards/WikiData/WD~Georgia_Time,7805334]]"
 - '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Georgia (country),10815230]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Georgia_(country),10815230]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Georgia (country) topics,13156644]]"
+- "[[_Standards/WikiData/WD~Template_Georgia_(country)_topics,13156644]]"
 - '[[_Standards/WikiData/WD~Template_Georgia,17588367]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Georgia (जॉर्जिया),21287329]]"
-head_of_government: "[[_Standards/WikiData/WD~Irakli Kobakhidze,27885302]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Georgia_(जॉर्जिया),21287329]]"
+head_of_government: "[[_Standards/WikiData/WD~Irakli_Kobakhidze,27885302]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 open_data_portal: '[[_Standards/WikiData/WD~opendata.ge,97095681]]'
 geoshape: "http://commons.wikimedia.org/data/main/Data:Georgia.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kazbeg%20banner.jpg"
@@ -329,14 +329,14 @@ official_language:
 - '[[_Standards/WikiData/WD~Georgian,8108]]'
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Caucasus,18869]]'
 named_after: '[[_Standards/WikiData/WD~Georgians,18973]]'
-flag: "[[_Standards/WikiData/WD~flag of Georgia,26491]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Georgia,26491]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
-lowest_point: "[[_Standards/WikiData/WD~Black Sea,166]]"
+lowest_point: "[[_Standards/WikiData/WD~Black_Sea,166]]"
 country: '[[_Standards/WikiData/WD~Georgia,230]]'
 BTI_Status_Index:
 - 6
@@ -366,7 +366,7 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.ge,40683]]'
 Gini_coefficient: 34.5
 Happy_Planet_Index_score: 44.3
 trunk_prefix: 0
-patron_saint: "[[_Standards/WikiData/WD~Saint George,48438]]"
+patron_saint: "[[_Standards/WikiData/WD~Saint_George,48438]]"
 ISO_3166_1_numeric_code: 268
 M49_code: 268
 Democracy_Index: 5.31

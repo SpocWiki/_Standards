@@ -2,22 +2,22 @@
 type: Element
 SpocWebEntityId: 21966
 has_id_wikidata: Q1855
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jean Charles Galissard de Marignac,124045]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
-named_after: "[[_Standards/WikiData/WD~Ytterby mine,631733]]"
+named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~hingganite-(Yb),3785712]]'
 - '[[_Standards/WikiData/WD~keiviite-(Yb),3814344]]'
 - '[[_Standards/WikiData/WD~xenotime-(Yb),4021784]]'
 - '[[_Standards/WikiData/WD~samarskite-(Yb),19861251]]'
 time_of_discovery_or_invention: "1878"
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 atomic_number: 70
 electronegativity: 1.1
 ionic_radius:

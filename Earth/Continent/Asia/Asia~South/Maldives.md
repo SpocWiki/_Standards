@@ -1,98 +1,98 @@
 ---
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 replaces:
-- "[[_Standards/WikiData/WD~United Suvadive Republic,150069]]"
-- "[[_Standards/WikiData/WD~Sultanate of the Maldives,11344632]]"
-flag: "[[_Standards/WikiData/WD~flag of Maldives,169441]]"
+- "[[_Standards/WikiData/WD~United_Suvadive_Republic,150069]]"
+- "[[_Standards/WikiData/WD~Sultanate_of_the_Maldives,11344632]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Maldives,169441]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 highest_point:
 - '[[_Standards/WikiData/WD~Villingili,176749]]'
-- "[[_Standards/WikiData/WD~Addu City,4681407]]"
-currency: "[[_Standards/WikiData/WD~Maldivian rufiyaa,206600]]"
-coat_of_arms: "[[_Standards/WikiData/WD~emblem of Maldives,213023]]"
-culture: "[[_Standards/WikiData/WD~culture of the Maldives,288576]]"
+- "[[_Standards/WikiData/WD~Addu_City,4681407]]"
+currency: "[[_Standards/WikiData/WD~Maldivian_rufiyaa,206600]]"
+coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_Maldives,213023]]"
+culture: "[[_Standards/WikiData/WD~culture_of_the_Maldives,288576]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Addu Atoll,353375]]"
-- "[[_Standards/WikiData/WD~Alif Alif Atoll,775323]]"
-- "[[_Standards/WikiData/WD~Baa Atoll,949513]]"
-- "[[_Standards/WikiData/WD~Gaafu Alif Atoll,1116203]]"
-- "[[_Standards/WikiData/WD~Lhaviyani Atoll,1390048]]"
-- "[[_Standards/WikiData/WD~Raa Atoll,1457965]]"
-- "[[_Standards/WikiData/WD~Kaafu Atoll,1468407]]"
-- "[[_Standards/WikiData/WD~Gnaviyani Atoll,1811116]]"
-- "[[_Standards/WikiData/WD~Laamu Atoll,1996432]]"
-- "[[_Standards/WikiData/WD~Shaviyani Atoll,2190334]]"
-- "[[_Standards/WikiData/WD~Meemu Atoll,2210716]]"
-- "[[_Standards/WikiData/WD~Dhaalu Atoll,2290784]]"
-- "[[_Standards/WikiData/WD~Alif Dhaal Atoll,2316922]]"
-- "[[_Standards/WikiData/WD~Haa Dhaalu Atoll,2360368]]"
-- "[[_Standards/WikiData/WD~Haa Alif Atoll,2360912]]"
-- "[[_Standards/WikiData/WD~Noonu Atoll,2406322]]"
-- "[[_Standards/WikiData/WD~Faafu Atoll,2469227]]"
-- "[[_Standards/WikiData/WD~Gaafu Dhaalu Atoll,2640183]]"
-- "[[_Standards/WikiData/WD~Vaavu Atoll,2709111]]"
-- "[[_Standards/WikiData/WD~Thaa Atoll,2709118]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Sunni Islam,483654]]"
-legislative_body: "[[_Standards/WikiData/WD~People's Majlis,650066]]"
-anthem: "[[_Standards/WikiData/WD~Gaumiii salaaam,660117]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~South Asia,771405]]"
-part_of: "[[_Standards/WikiData/WD~South Asia,771405]]"
+- "[[_Standards/WikiData/WD~Addu_Atoll,353375]]"
+- "[[_Standards/WikiData/WD~Alif_Alif_Atoll,775323]]"
+- "[[_Standards/WikiData/WD~Baa_Atoll,949513]]"
+- "[[_Standards/WikiData/WD~Gaafu_Alif_Atoll,1116203]]"
+- "[[_Standards/WikiData/WD~Lhaviyani_Atoll,1390048]]"
+- "[[_Standards/WikiData/WD~Raa_Atoll,1457965]]"
+- "[[_Standards/WikiData/WD~Kaafu_Atoll,1468407]]"
+- "[[_Standards/WikiData/WD~Gnaviyani_Atoll,1811116]]"
+- "[[_Standards/WikiData/WD~Laamu_Atoll,1996432]]"
+- "[[_Standards/WikiData/WD~Shaviyani_Atoll,2190334]]"
+- "[[_Standards/WikiData/WD~Meemu_Atoll,2210716]]"
+- "[[_Standards/WikiData/WD~Dhaalu_Atoll,2290784]]"
+- "[[_Standards/WikiData/WD~Alif_Dhaal_Atoll,2316922]]"
+- "[[_Standards/WikiData/WD~Haa_Dhaalu_Atoll,2360368]]"
+- "[[_Standards/WikiData/WD~Haa_Alif_Atoll,2360912]]"
+- "[[_Standards/WikiData/WD~Noonu_Atoll,2406322]]"
+- "[[_Standards/WikiData/WD~Faafu_Atoll,2469227]]"
+- "[[_Standards/WikiData/WD~Gaafu_Dhaalu_Atoll,2640183]]"
+- "[[_Standards/WikiData/WD~Vaavu_Atoll,2709111]]"
+- "[[_Standards/WikiData/WD~Thaa_Atoll,2709118]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
+legislative_body: "[[_Standards/WikiData/WD~People's_Majlis,650066]]"
+anthem: "[[_Standards/WikiData/WD~Gaumiii_salaaam,660117]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Asia,771405]]"
+part_of: "[[_Standards/WikiData/WD~South_Asia,771405]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the Maldives,1064606]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of the Maldives,1064606]]"
-history_of_topic: "[[_Standards/WikiData/WD~History of the Maldives,1074669]]"
-central_bank: "[[_Standards/WikiData/WD~Maldives Monetary Authority,1188022]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Maldives,1064606]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Maldives,1064606]]"
+history_of_topic: "[[_Standards/WikiData/WD~History_of_the_Maldives,1074669]]"
+central_bank: "[[_Standards/WikiData/WD~Maldives_Monetary_Authority,1188022]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type K,1502017]]"
-- "[[_Standards/WikiData/WD~Type L,1520890]]"
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~SN 441011,2335530]]"
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the Maldives,2366880]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the Maldives,2579185]]"
+- "[[_Standards/WikiData/WD~Type_K,1502017]]"
+- "[[_Standards/WikiData/WD~Type_L,1520890]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~SN_441011,2335530]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Maldives,2366880]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Maldives,2579185]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~119,2807090]]'
 - '[[_Standards/WikiData/WD~118,11185210]]'
 - '[[_Standards/WikiData/WD~102,25648798]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Maldives,3044341]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Maldives,7112345]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Maldives,3044341]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Maldives,7112345]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Maldives,14615866]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Maldives,27103869]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Indian_Maldives,63285949]]'
 - '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
-head_of_state: "[[_Standards/WikiData/WD~Mohamed Muizzu,116293030]]"
-head_of_government: "[[_Standards/WikiData/WD~Mohamed Muizzu,116293030]]"
+head_of_state: "[[_Standards/WikiData/WD~Mohamed_Muizzu,116293030]]"
+head_of_government: "[[_Standards/WikiData/WD~Mohamed_Muizzu,116293030]]"
 coordinate_location: "Point(73.51 4.18)"
 MeSH_tree_code: Z01.252.245.782.906
 nominal_GDP:
@@ -145,29 +145,29 @@ motto_text:
 - "The sunny side of life"
 coordinates_of_northernmost_point: "Point(72.898888888 7.105833333)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 country: '[[_Standards/WikiData/WD~Maldives,826]]'
-lowest_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+lowest_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
 language_used:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Divehi,32656]]'
 capital: '[[_Standards/WikiData/WD~Malé,9347]]'
 official_language: '[[_Standards/WikiData/WD~Divehi,32656]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
-shares_border_with: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+shares_border_with: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 VAT_rate: 6
 unemployment_rate: 12
 marriageable_age: 18

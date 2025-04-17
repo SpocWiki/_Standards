@@ -6,16 +6,16 @@ Commons_gallery: Rubidium
 Commons_category: Rubidium
 Unicode_character: 銣
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Robert Bunsen,71031]]"
-- "[[_Standards/WikiData/WD~Gustav Kirchhoff,60052]]"
+- "[[_Standards/WikiData/WD~Robert_Bunsen,71031]]"
+- "[[_Standards/WikiData/WD~Gustav_Kirchhoff,60052]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~s-block,208106]]'
 - '[[_Standards/WikiData/WD~metal,11426]]'
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~group 1,10801007]]"
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~group_1,10801007]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~carnallite,409781]]'
 - '[[_Standards/WikiData/WD~leucite,419201]]'
@@ -23,14 +23,14 @@ made_from_material:
 - '[[_Standards/WikiData/WD~lepidolite,429926]]'
 - '[[_Standards/WikiData/WD~zinnwaldite,680224]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 UMLS_CUI: C0035930
 Common_Procurement_Vocabulary_code:
 - 14773000-0

@@ -35,110 +35,110 @@ Languages:
 icon: flag-ua
 has_id_wikidata: Q212
 ethnic_group:
-- "[[_Standards/WikiData/WD~Crimean Tatars,117458]]"
-- "[[_Standards/WikiData/WD~Russians in Ukraine,311762]]"
+- "[[_Standards/WikiData/WD~Crimean_Tatars,117458]]"
+- "[[_Standards/WikiData/WD~Russians_in_Ukraine,311762]]"
 - '[[_Standards/WikiData/WD~Belarusians,483569]]'
 - '[[_Standards/WikiData/WD~Moldovans,487796]]'
-- "[[_Standards/WikiData/WD~Hungarians in Ukraine,726205]]"
-- "[[_Standards/WikiData/WD~Poles in Ukraine,2025025]]"
-- "[[_Standards/WikiData/WD~Romanians in Ukraine,2025325]]"
-- "[[_Standards/WikiData/WD~Bulgarians in Ukraine,2616042]]"
+- "[[_Standards/WikiData/WD~Hungarians_in_Ukraine,726205]]"
+- "[[_Standards/WikiData/WD~Poles_in_Ukraine,2025025]]"
+- "[[_Standards/WikiData/WD~Romanians_in_Ukraine,2025325]]"
+- "[[_Standards/WikiData/WD~Bulgarians_in_Ukraine,2616042]]"
 - '[[_Standards/WikiData/WD~Ukrainians,44806]]'
-- "[[_Standards/WikiData/WD~Jewish people,7325]]"
-flag: "[[_Standards/WikiData/WD~flag of Ukraine,127974]]"
+- "[[_Standards/WikiData/WD~Jewish_people,7325]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Ukraine,127974]]"
 replaces:
-- "[[_Standards/WikiData/WD~Ukrainian Soviet Socialist Republic,133356]]"
-- "[[_Standards/WikiData/WD~Ukrainian People's Republic,243610]]"
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
+- "[[_Standards/WikiData/WD~Ukrainian_People's_Republic,243610]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 follows:
-- "[[_Standards/WikiData/WD~Ukrainian Soviet Socialist Republic,133356]]"
-- "[[_Standards/WikiData/WD~Ukrainian People's Republic,243610]]"
-anthem: "[[_Standards/WikiData/WD~Shche ne vmerla Ukrainy i slava, i volia,161744]]"
+- "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
+- "[[_Standards/WikiData/WD~Ukrainian_People's_Republic,243610]]"
+anthem: "[[_Standards/WikiData/WD~Shche_ne_vmerla_Ukrainy_i_slava,_i_volia,161744]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Cherkasy Oblast,161808]]"
-- "[[_Standards/WikiData/WD~Kherson Oblast,163271]]"
-- "[[_Standards/WikiData/WD~Lviv Oblast,164193]]"
-- "[[_Standards/WikiData/WD~Vinnytsia Oblast,166709]]"
-- "[[_Standards/WikiData/WD~Volyn Oblast,167859]]"
-- "[[_Standards/WikiData/WD~Chernihiv Oblast,167874]]"
-- "[[_Standards/WikiData/WD~Chernivtsi Oblast,168856]]"
-- "[[_Standards/WikiData/WD~Poltava Oblast,169501]]"
-- "[[_Standards/WikiData/WD~Kyiv Oblast,170036]]"
-- "[[_Standards/WikiData/WD~Zakarpattia Oblast,170213]]"
-- "[[_Standards/WikiData/WD~Sumy Oblast,170446]]"
-- "[[_Standards/WikiData/WD~Kharkiv Oblast,170666]]"
-- "[[_Standards/WikiData/WD~Dnipropetrovsk Oblast,170672]]"
-- "[[_Standards/WikiData/WD~Khmelnytskyi Oblast,171331]]"
-- "[[_Standards/WikiData/WD~Zaporizhzhia Oblast,171334]]"
-- "[[_Standards/WikiData/WD~Odesa Oblast,171852]]"
-- "[[_Standards/WikiData/WD~Luhansk Oblast,171965]]"
-- "[[_Standards/WikiData/WD~Ternopil Oblast,173407]]"
-- "[[_Standards/WikiData/WD~Rivne Oblast,174187]]"
-- "[[_Standards/WikiData/WD~Ivano-Frankivsk Oblast,178269]]"
-- "[[_Standards/WikiData/WD~Kirovohrad Oblast,180981]]"
-- "[[_Standards/WikiData/WD~Mykolaiv Oblast,181633]]"
-- "[[_Standards/WikiData/WD~Autonomous Republic of Crimea,756294]]"
-- "[[_Standards/WikiData/WD~Donetsk Oblast,2012050]]"
-- "[[_Standards/WikiData/WD~Zhytomyr Oblast,40637]]"
+- "[[_Standards/WikiData/WD~Cherkasy_Oblast,161808]]"
+- "[[_Standards/WikiData/WD~Kherson_Oblast,163271]]"
+- "[[_Standards/WikiData/WD~Lviv_Oblast,164193]]"
+- "[[_Standards/WikiData/WD~Vinnytsia_Oblast,166709]]"
+- "[[_Standards/WikiData/WD~Volyn_Oblast,167859]]"
+- "[[_Standards/WikiData/WD~Chernihiv_Oblast,167874]]"
+- "[[_Standards/WikiData/WD~Chernivtsi_Oblast,168856]]"
+- "[[_Standards/WikiData/WD~Poltava_Oblast,169501]]"
+- "[[_Standards/WikiData/WD~Kyiv_Oblast,170036]]"
+- "[[_Standards/WikiData/WD~Zakarpattia_Oblast,170213]]"
+- "[[_Standards/WikiData/WD~Sumy_Oblast,170446]]"
+- "[[_Standards/WikiData/WD~Kharkiv_Oblast,170666]]"
+- "[[_Standards/WikiData/WD~Dnipropetrovsk_Oblast,170672]]"
+- "[[_Standards/WikiData/WD~Khmelnytskyi_Oblast,171331]]"
+- "[[_Standards/WikiData/WD~Zaporizhzhia_Oblast,171334]]"
+- "[[_Standards/WikiData/WD~Odesa_Oblast,171852]]"
+- "[[_Standards/WikiData/WD~Luhansk_Oblast,171965]]"
+- "[[_Standards/WikiData/WD~Ternopil_Oblast,173407]]"
+- "[[_Standards/WikiData/WD~Rivne_Oblast,174187]]"
+- "[[_Standards/WikiData/WD~Ivano-Frankivsk_Oblast,178269]]"
+- "[[_Standards/WikiData/WD~Kirovohrad_Oblast,180981]]"
+- "[[_Standards/WikiData/WD~Mykolaiv_Oblast,181633]]"
+- "[[_Standards/WikiData/WD~Autonomous_Republic_of_Crimea,756294]]"
+- "[[_Standards/WikiData/WD~Donetsk_Oblast,2012050]]"
+- "[[_Standards/WikiData/WD~Zhytomyr_Oblast,40637]]"
 - '[[_Standards/WikiData/WD~Kyiv,1899]]'
 - '[[_Standards/WikiData/WD~Sevastopol,7525]]'
-legislative_body: "[[_Standards/WikiData/WD~Verkhovna Rada,176296]]"
+legislative_body: "[[_Standards/WikiData/WD~Verkhovna_Rada,176296]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Eastern European Time,190252]]"
+- "[[_Standards/WikiData/WD~Eastern_European_Time,190252]]"
 - '[[_Standards/WikiData/WD~Europe_Kyiv,63286014]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Ukrainiae,199433]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Ukraine,210701]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Ukrainiae,199433]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Ukraine,210701]]"
 significant_event:
-- "[[_Standards/WikiData/WD~Declaration of Independence of Ukraine,277182]]"
-- "[[_Standards/WikiData/WD~Declaration of State Sovereignty of Ukraine,5249449]]"
-- "[[_Standards/WikiData/WD~independence of Ukraine,105539336]]"
+- "[[_Standards/WikiData/WD~Declaration_of_Independence_of_Ukraine,277182]]"
+- "[[_Standards/WikiData/WD~Declaration_of_State_Sovereignty_of_Ukraine,5249449]]"
+- "[[_Standards/WikiData/WD~independence_of_Ukraine,105539336]]"
 foundational_text:
-- "[[_Standards/WikiData/WD~Declaration of Independence of Ukraine,277182]]"
-- "[[_Standards/WikiData/WD~Declaration of State Sovereignty of Ukraine,5249449]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Ukraine,277597]]"
-studied_in: "[[_Standards/WikiData/WD~Ukrainian studies,491679]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Ukraine,579677]]"
+- "[[_Standards/WikiData/WD~Declaration_of_Independence_of_Ukraine,277182]]"
+- "[[_Standards/WikiData/WD~Declaration_of_State_Sovereignty_of_Ukraine,5249449]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Ukraine,277597]]"
+studied_in: "[[_Standards/WikiData/WD~Ukrainian_studies,491679]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Ukraine,579677]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Ministers of Ukraine,613729]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+- "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Ministers_of_Ukraine,613729]]"
 highest_point: '[[_Standards/WikiData/WD~Hoverla,627508]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~Autonomous Republic of Crimea,756294]]"
-- "[[_Standards/WikiData/WD~oblast of Ukraine,3348196]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Ukraine,841311]]"
-central_bank: "[[_Standards/WikiData/WD~National Bank of Ukraine,1070388]]"
+- "[[_Standards/WikiData/WD~Autonomous_Republic_of_Crimea,756294]]"
+- "[[_Standards/WikiData/WD~oblast_of_Ukraine,3348196]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ukraine,841311]]"
+central_bank: "[[_Standards/WikiData/WD~National_Bank_of_Ukraine,1070388]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Ukraine,1145714]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Ukraine,1340635]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Ukraine,1549039]]"
-public_holiday: "[[_Standards/WikiData/WD~Independence Day of Ukraine,1968642]]"
-lowest_point: "[[_Standards/WikiData/WD~Kuyalnik Estuary,1978774]]"
-named_after: "[[_Standards/WikiData/WD~name of Ukraine,2056436]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Ukraine,1145714]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Ukraine,1340635]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Ukraine,1549039]]"
+public_holiday: "[[_Standards/WikiData/WD~Independence_Day_of_Ukraine,1968642]]"
+lowest_point: "[[_Standards/WikiData/WD~Kuyalnik_Estuary,1978774]]"
+named_after: "[[_Standards/WikiData/WD~name_of_Ukraine,2056436]]"
 highest_judicial_authority:
-- "[[_Standards/WikiData/WD~Supreme Court of Ukraine,2274281]]"
-- "[[_Standards/WikiData/WD~Constitutional Court of Ukraine,2714836]]"
-instance_of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-head_of_state: "[[_Standards/WikiData/WD~Volodymyr Zelenskyy,3874799]]"
+- "[[_Standards/WikiData/WD~Supreme_Court_of_Ukraine,2274281]]"
+- "[[_Standards/WikiData/WD~Constitutional_Court_of_Ukraine,2714836]]"
+instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+head_of_state: "[[_Standards/WikiData/WD~Volodymyr_Zelenskyy,3874799]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Administrative divisions of Ukraine,6668922]]"
-- "[[_Standards/WikiData/WD~Template_Ukraine topics,13365928]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Ukraine,7112499]]"
+- "[[_Standards/WikiData/WD~Template_Administrative_divisions_of_Ukraine,6668922]]"
+- "[[_Standards/WikiData/WD~Template_Ukraine_topics,13365928]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Ukraine,7112499]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ukraine,8133450]]'
 language_used:
-- "[[_Standards/WikiData/WD~Ukrainian Sign Language,10322106]]"
-- "[[_Standards/WikiData/WD~Eastern Yiddish,12953980]]"
-- "[[_Standards/WikiData/WD~Crimean Tatar,33357]]"
+- "[[_Standards/WikiData/WD~Ukrainian_Sign_Language,10322106]]"
+- "[[_Standards/WikiData/WD~Eastern_Yiddish,12953980]]"
+- "[[_Standards/WikiData/WD~Crimean_Tatar,33357]]"
 - '[[_Standards/WikiData/WD~Krymchak,33723]]'
 - '[[_Standards/WikiData/WD~Moldovan,36392]]'
 - '[[_Standards/WikiData/WD~Polish,809]]'
@@ -148,8 +148,8 @@ language_used:
 - '[[_Standards/WikiData/WD~Hungarian,9067]]'
 - '[[_Standards/WikiData/WD~Romani,13201]]'
 - '[[_Standards/WikiData/WD~Rusyn,26245]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Ukraine,10780973]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Ukraine,10780973]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
 different_from: '[[_Standards/WikiData/WD~Ukraine,12072838]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
@@ -158,8 +158,8 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~101,25648794]]'
 - '[[_Standards/WikiData/WD~102,25648798]]'
 - '[[_Standards/WikiData/WD~103,25648811]]'
-award_received: "[[_Standards/WikiData/WD~The Economist country of the year,47004555]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+award_received: "[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Finland,33]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
@@ -175,8 +175,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Belarus,184]]'
@@ -187,7 +187,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
@@ -195,7 +195,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Malta,233]]'
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
@@ -203,16 +203,16 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
@@ -221,7 +221,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -233,12 +233,12 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Moldova,217]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 part_of:
 - '[[_Standards/WikiData/WD~Europe,46]]'
-- "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
+- "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
 speed_limit:
 - 20
 - 60
@@ -276,7 +276,7 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.ua,40656]]'
 Gini_coefficient: 25.6
 Happy_Planet_Index_score: 40.9
 trunk_prefix: 0
-basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
 Democracy_Index: 5.81
 BTI_Status_Index:
 - 5.89
@@ -295,8 +295,8 @@ GS1_country_code: 482
 total_fertility_rate: 1.498
 IAB_code: 1467
 median_income: 9218
-head_of_government: "[[_Standards/WikiData/WD~Denys Shmyhal,66094865]]"
-culture: "[[_Standards/WikiData/WD~culture of Ukraine,95736217]]"
+head_of_government: "[[_Standards/WikiData/WD~Denys_Shmyhal,66094865]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Ukraine,95736217]]"
 open_data_portal: '[[_Standards/WikiData/WD~data.gov.ua,97065108]]'
 coordinates_of_southernmost_point: "Point(33.777222222 44.386416666)"
 name: ꠃꠇ꠆ꠞꠦꠘ
@@ -318,8 +318,8 @@ coordinate_location: "Point(32.0 49.0)"
 nominal_GDP:
 - 199765856765
 - 160502739236
-funder: "[[_Standards/WikiData/WD~European Union,458]]"
-member_of: "[[_Standards/WikiData/WD~United Nations,1065]]"
+funder: "[[_Standards/WikiData/WD~European_Union,458]]"
+member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
 capital: '[[_Standards/WikiData/WD~Kyiv,1899]]'
 native_language:
 - '[[_Standards/WikiData/WD~Russian,7737]]'

@@ -27,49 +27,49 @@ native_label: Türkçe
 indigenous_to:
 - '[[_Standards/WikiData/WD~Turks,84072]]'
 - '[[_Standards/WikiData/WD~Haskovo,182809]]'
-- "[[_Standards/WikiData/WD~Xanthi Prefecture,208303]]"
-- "[[_Standards/WikiData/WD~Rhodope Prefecture,208604]]"
+- "[[_Standards/WikiData/WD~Xanthi_Prefecture,208303]]"
+- "[[_Standards/WikiData/WD~Rhodope_Prefecture,208604]]"
 - '[[_Standards/WikiData/WD~Burgas,369220]]'
 - '[[_Standards/WikiData/WD~Kardzhali,1104675]]'
 - '[[_Standards/WikiData/WD~Smolyan,2012430]]'
 - '[[_Standards/WikiData/WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 has_grammatical_case:
-- "[[_Standards/WikiData/WD~nominative case,131105]]"
-- "[[_Standards/WikiData/WD~dative case,145599]]"
-- "[[_Standards/WikiData/WD~accusative case,146078]]"
-- "[[_Standards/WikiData/WD~genitive case,146233]]"
-- "[[_Standards/WikiData/WD~ablative case,156986]]"
-- "[[_Standards/WikiData/WD~instrumental case,192997]]"
-- "[[_Standards/WikiData/WD~locative case,202142]]"
+- "[[_Standards/WikiData/WD~nominative_case,131105]]"
+- "[[_Standards/WikiData/WD~dative_case,145599]]"
+- "[[_Standards/WikiData/WD~accusative_case,146078]]"
+- "[[_Standards/WikiData/WD~genitive_case,146233]]"
+- "[[_Standards/WikiData/WD~ablative_case,156986]]"
+- "[[_Standards/WikiData/WD~instrumental_case,192997]]"
+- "[[_Standards/WikiData/WD~locative_case,202142]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~vowel harmony,147137]]"
+- "[[_Standards/WikiData/WD~vowel_harmony,147137]]"
 - '[[_Standards/WikiData/WD~postposition,161873]]'
-- "[[_Standards/WikiData/WD~agglutinative language,171263]]"
-- "[[_Standards/WikiData/WD~nominative–accusative language,178435]]"
+- "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
+- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
 - '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
-- "[[_Standards/WikiData/WD~syllabic language,7888569]]"
+- "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
 - '[[_Standards/WikiData/WD~adjective-noun,74834637]]'
-- "[[_Standards/WikiData/WD~synthetic language,48612]]"
-uses_capitalization_for: "[[_Standards/WikiData/WD~proper noun,147276]]"
+- "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+uses_capitalization_for: "[[_Standards/WikiData/WD~proper_noun,147276]]"
 has_tense:
-- "[[_Standards/WikiData/WD~present tense,192613]]"
-- "[[_Standards/WikiData/WD~future tense,501405]]"
-- "[[_Standards/WikiData/WD~past tense,1994301]]"
-writing_system: "[[_Standards/WikiData/WD~Turkish alphabet,637405]]"
+- "[[_Standards/WikiData/WD~present_tense,192613]]"
+- "[[_Standards/WikiData/WD~future_tense,501405]]"
+- "[[_Standards/WikiData/WD~past_tense,1994301]]"
+writing_system: "[[_Standards/WikiData/WD~Turkish_alphabet,637405]]"
 instance_of:
-- "[[_Standards/WikiData/WD~modern language,1288568]]"
-- "[[_Standards/WikiData/WD~natural language,33742]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Turkish Language Association,1569712]]"
+- "[[_Standards/WikiData/WD~modern_language,1288568]]"
+- "[[_Standards/WikiData/WD~natural_language,33742]]"
+language_regulatory_body: "[[_Standards/WikiData/WD~Turkish_Language_Association,1569712]]"
 different_from:
 - '[[_Standards/WikiData/WD~Turki,1763658]]'
 - '[[_Standards/WikiData/WD~Turkic,34090]]'
 has_grammatical_mood: '[[_Standards/WikiData/WD~admirative,4356464]]'
-described_by_source: "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1 safe,20672086]]"
+described_by_source: "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27069824,27069824]]'
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1 National,29051546]]"
-subclass_of: "[[_Standards/WikiData/WD~Western Oghuz,97725298]]"
+Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
+subclass_of: "[[_Standards/WikiData/WD~Western_Oghuz,97725298]]"
 Stack_Exchange_tag:
 - "https://linguistics.stackexchange.com/tags/turkish"
 - "https://stackoverflow.com/tags/turkish"
@@ -79,7 +79,7 @@ described_at_URL:
 Libris_URI: qn2431n85jhb0r6
 studied_in: '[[_Standards/WikiData/WD~Turkology,8427]]'
 country:
-- "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
+- "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
 - '[[_Standards/WikiData/WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~Greece,41]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'

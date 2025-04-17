@@ -1,42 +1,42 @@
 ---
-flag: "[[_Standards/WikiData/WD~flag of Indonesia,101472]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Indonesia,101472]]"
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~constitutional republic,1520223]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~constitutional_republic,1520223]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~presidential system,49892]]"
+- "[[_Standards/WikiData/WD~presidential_system,49892]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Arafura Sea,128880]]"
-- "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
-- "[[_Standards/WikiData/WD~Celebes Sea,19270]]"
-- "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-- "[[_Standards/WikiData/WD~South China Sea,37660]]"
-anthem: "[[_Standards/WikiData/WD~Indonesia Raya,142260]]"
+- "[[_Standards/WikiData/WD~Arafura_Sea,128880]]"
+- "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+- "[[_Standards/WikiData/WD~Celebes_Sea,19270]]"
+- "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- "[[_Standards/WikiData/WD~South_China_Sea,37660]]"
+anthem: "[[_Standards/WikiData/WD~Indonesia_Raya,142260]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~Malays,142702]]'
 - '[[_Standards/WikiData/WD~Aceh,340520]]'
-- "[[_Standards/WikiData/WD~Sundanese people,682079]]"
+- "[[_Standards/WikiData/WD~Sundanese_people,682079]]"
 - '[[_Standards/WikiData/WD~Batak,810714]]'
 - '[[_Standards/WikiData/WD~Dayak,847603]]'
-- "[[_Standards/WikiData/WD~Bugis people,1002570]]"
+- "[[_Standards/WikiData/WD~Bugis_people,1002570]]"
 - '[[_Standards/WikiData/WD~Minangkabau,1130350]]'
 - '[[_Standards/WikiData/WD~Madurese,1258905]]'
 - '[[_Standards/WikiData/WD~Balinese,1266626]]'
-- "[[_Standards/WikiData/WD~Sasak people,1560742]]"
-- "[[_Standards/WikiData/WD~Chinese Indonesians,1945786]]"
+- "[[_Standards/WikiData/WD~Sasak_people,1560742]]"
+- "[[_Standards/WikiData/WD~Chinese_Indonesians,1945786]]"
 - '[[_Standards/WikiData/WD~Banjar,2350149]]'
-- "[[_Standards/WikiData/WD~Bantenese people,2607748]]"
-- "[[_Standards/WikiData/WD~Arab Indonesians,2859351]]"
-- "[[_Standards/WikiData/WD~Betawi people,2900057]]"
+- "[[_Standards/WikiData/WD~Bantenese_people,2607748]]"
+- "[[_Standards/WikiData/WD~Arab_Indonesians,2859351]]"
+- "[[_Standards/WikiData/WD~Betawi_people,2900057]]"
 - '[[_Standards/WikiData/WD~Javanese,49209]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Indonesia,142845]]"
-motto: "[[_Standards/WikiData/WD~Bhinneka Tunggal Ika,145327]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Indonesia,142845]]"
+motto: "[[_Standards/WikiData/WD~Bhinneka_Tunggal_Ika,145327]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
@@ -44,13 +44,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Suriname,730]]'
@@ -63,13 +63,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Myanmar,836]]'
 - '[[_Standards/WikiData/WD~Nepal,837]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
@@ -79,7 +79,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -97,70 +97,70 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Islamic world Educational, Scientific and Cultural Organization,1264411]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Association of South-East Asian Nations,7768]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Islamic_world_Educational,_Scientific_and_Cultural_Organization,1264411]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 part_of:
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
 - '[[_Standards/WikiData/WD~MIKTA,865479]]'
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Association of South-East Asian Nations,7768]]"
-- "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]"
+- "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
 replaces:
-- "[[_Standards/WikiData/WD~Dutch East Indies,188161]]"
-- "[[_Standards/WikiData/WD~United States of Indonesia,523435]]"
-- "[[_Standards/WikiData/WD~Bone Sultanate,892292]]"
-- "[[_Standards/WikiData/WD~Sultanate of Deli,2030015]]"
-- "[[_Standards/WikiData/WD~Sultanate of Siak Sri Indrapura,2988765]]"
+- "[[_Standards/WikiData/WD~Dutch_East_Indies,188161]]"
+- "[[_Standards/WikiData/WD~United_States_of_Indonesia,523435]]"
+- "[[_Standards/WikiData/WD~Bone_Sultanate,892292]]"
+- "[[_Standards/WikiData/WD~Sultanate_of_Deli,2030015]]"
+- "[[_Standards/WikiData/WD~Sultanate_of_Siak_Sri_Indrapura,2988765]]"
 - '[[_Standards/WikiData/WD~Q3403538,3403538]]'
 - '[[_Standards/WikiData/WD~Tasik,11950939]]'
 - '[[_Standards/WikiData/WD~Q15788609,15788609]]'
-- "[[_Standards/WikiData/WD~Mempawah Kingdom,19746028]]"
+- "[[_Standards/WikiData/WD~Mempawah_Kingdom,19746028]]"
 public_holiday:
 - '[[_Standards/WikiData/WD~Mawlid,193027]]'
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Isra and Mi'raj,381240]]"
-- "[[_Standards/WikiData/WD~Eid al-Fitr,464458]]"
-- "[[_Standards/WikiData/WD~Eid al-Adha,514400]]"
-- "[[_Standards/WikiData/WD~Islamic New Year,922388]]"
-- "[[_Standards/WikiData/WD~Independence Day,62732044]]"
-- "[[_Standards/WikiData/WD~New Year,34812]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Isra_and_Mi'raj,381240]]"
+- "[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]"
+- "[[_Standards/WikiData/WD~Eid_al-Adha,514400]]"
+- "[[_Standards/WikiData/WD~Islamic_New_Year,922388]]"
+- "[[_Standards/WikiData/WD~Independence_Day,62732044]]"
+- "[[_Standards/WikiData/WD~New_Year,34812]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 language_used:
 - '[[_Standards/WikiData/WD~Nimboran,301116]]'
 - '[[_Standards/WikiData/WD~Berik,378743]]'
@@ -168,9 +168,9 @@ language_used:
 - '[[_Standards/WikiData/WD~Tunggare,615071]]'
 - '[[_Standards/WikiData/WD~Musi,615660]]'
 - '[[_Standards/WikiData/WD~Moronene,642581]]'
-- "[[_Standards/WikiData/WD~Malay trade and creole languages,653415]]"
+- "[[_Standards/WikiData/WD~Malay_trade_and_creole_languages,653415]]"
 - '[[_Standards/WikiData/WD~Sawi,677064]]'
-- "[[_Standards/WikiData/WD~Standard Chinese,727694]]"
+- "[[_Standards/WikiData/WD~Standard_Chinese,727694]]"
 - '[[_Standards/WikiData/WD~Petjo,940486]]'
 - '[[_Standards/WikiData/WD~Manado,1068112]]'
 - '[[_Standards/WikiData/WD~Tobelo,1142333]]'
@@ -183,7 +183,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Ende,2067656]]'
 - '[[_Standards/WikiData/WD~Kangeanic,2071325]]'
 - '[[_Standards/WikiData/WD~Mor,2122792]]'
-- "[[_Standards/WikiData/WD~Dusun Witu,2190327]]"
+- "[[_Standards/WikiData/WD~Dusun_Witu,2190327]]"
 - "[[_Standards/WikiData/WD~Palu'e,2196866]]"
 - '[[_Standards/WikiData/WD~Meax,2262353]]'
 - "[[_Standards/WikiData/WD~Ma'ya,2291492]]"
@@ -192,12 +192,12 @@ language_used:
 - "[[_Standards/WikiData/WD~Ma'anyan,2328761]]"
 - '[[_Standards/WikiData/WD~Tause,2356440]]'
 - '[[_Standards/WikiData/WD~Wanukaka,2370136]]'
-- "[[_Standards/WikiData/WD~Dusun Witu,2381310]]"
+- "[[_Standards/WikiData/WD~Dusun_Witu,2381310]]"
 - '[[_Standards/WikiData/WD~Nias,2407831]]'
 - '[[_Standards/WikiData/WD~Kei,2410352]]'
 - '[[_Standards/WikiData/WD~Lamboya,2479725]]'
 - '[[_Standards/WikiData/WD~Gorontalo,2501174]]'
-- "[[_Standards/WikiData/WD~The Angkola tribe Not Batak,2640686]]"
+- "[[_Standards/WikiData/WD~The_Angkola_tribe_Not_Batak,2640686]]"
 - '[[_Standards/WikiData/WD~Enggano,2669164]]'
 - '[[_Standards/WikiData/WD~Ambelau,2669214]]'
 - '[[_Standards/WikiData/WD~Lio,2697010]]'
@@ -212,12 +212,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Bajo,2880038]]'
 - '[[_Standards/WikiData/WD~Bantik,2883521]]'
 - '[[_Standards/WikiData/WD~Alas,2891042]]'
-- "[[_Standards/WikiData/WD~Dairi Batak,2891045]]"
-- "[[_Standards/WikiData/WD~Mandailing Batak,2891049]]"
-- "[[_Standards/WikiData/WD~Simalungun Batak,2891054]]"
+- "[[_Standards/WikiData/WD~Dairi_Batak,2891045]]"
+- "[[_Standards/WikiData/WD~Mandailing_Batak,2891049]]"
+- "[[_Standards/WikiData/WD~Simalungun_Batak,2891054]]"
 - '[[_Standards/WikiData/WD~Biatah,2900881]]'
 - '[[_Standards/WikiData/WD~Biga,2902375]]'
-- "[[_Standards/WikiData/WD~Bukar Sadong,2927799]]"
+- "[[_Standards/WikiData/WD~Bukar_Sadong,2927799]]"
 - '[[_Standards/WikiData/WD~Buli,2927952]]'
 - '[[_Standards/WikiData/WD~Bungku,2928207]]'
 - '[[_Standards/WikiData/WD~Buol,2928278]]'
@@ -229,12 +229,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Ngaju,2992872]]'
 - '[[_Standards/WikiData/WD~Irarutu,3027928]]'
 - '[[_Standards/WikiData/WD~Lemolang,3033560]]'
-- "[[_Standards/WikiData/WD~West Makian,3033575]]"
+- "[[_Standards/WikiData/WD~West_Makian,3033575]]"
 - '[[_Standards/WikiData/WD~Tolaki,3033597]]'
-- "[[_Standards/WikiData/WD~Ot Danum,3033781]]"
+- "[[_Standards/WikiData/WD~Ot_Danum,3033781]]"
 - '[[_Standards/WikiData/WD~Mairasi,3038645]]'
 - '[[_Standards/WikiData/WD~Duano’,3040468]]'
-- "[[_Standards/WikiData/WD~Dusun Malang,3041711]]"
+- "[[_Standards/WikiData/WD~Dusun_Malang,3041711]]"
 - '[[_Standards/WikiData/WD~Kambera,3053279]]'
 - '[[_Standards/WikiData/WD~Rejang,3056339]]'
 - '[[_Standards/WikiData/WD~Loncong,3058192]]'
@@ -256,11 +256,11 @@ language_used:
 - '[[_Standards/WikiData/WD~Kisar,3197441]]'
 - '[[_Standards/WikiData/WD~Kodeoha,3198209]]'
 - '[[_Standards/WikiData/WD~Komodo,3198565]]'
-- "[[_Standards/WikiData/WD~Highland Konjo,3198688]]"
-- "[[_Standards/WikiData/WD~Coastal Konjo,3198689]]"
+- "[[_Standards/WikiData/WD~Highland_Konjo,3198688]]"
+- "[[_Standards/WikiData/WD~Coastal_Konjo,3198689]]"
 - '[[_Standards/WikiData/WD~Koroni,3199000]]'
 - '[[_Standards/WikiData/WD~Kulisusu,3200326]]'
-- "[[_Standards/WikiData/WD~Kuri language,3200540]]"
+- "[[_Standards/WikiData/WD~Kuri_language,3200540]]"
 - '[[_Standards/WikiData/WD~Wakasihu,3217929]]'
 - '[[_Standards/WikiData/WD~Leti,3236912]]'
 - '[[_Standards/WikiData/WD~Pekal,3241781]]'
@@ -271,15 +271,15 @@ language_used:
 - '[[_Standards/WikiData/WD~Manusela,3287127]]'
 - '[[_Standards/WikiData/WD~Mapia,3287224]]'
 - '[[_Standards/WikiData/WD~Airoran,3321131]]'
-- "[[_Standards/WikiData/WD~Kata Kolok,3322119]]"
-- "[[_Standards/WikiData/WD~Mori Atas,3324070]]"
-- "[[_Standards/WikiData/WD~Mori Bawah,3324069]]"
+- "[[_Standards/WikiData/WD~Kata_Kolok,3322119]]"
+- "[[_Standards/WikiData/WD~Mori_Atas,3324070]]"
+- "[[_Standards/WikiData/WD~Mori_Bawah,3324069]]"
 - '[[_Standards/WikiData/WD~Mpur,3327139]]'
 - '[[_Standards/WikiData/WD~Alune,3327367]]'
 - '[[_Standards/WikiData/WD~Amahai,3327384]]'
 - '[[_Standards/WikiData/WD~Alorese,3332062]]'
 - '[[_Standards/WikiData/WD~Padoe,3360370]]'
-- "[[_Standards/WikiData/WD~Central Malay,3367751]]"
+- "[[_Standards/WikiData/WD~Central_Malay,3367751]]"
 - '[[_Standards/WikiData/WD~Adang,3398276]]'
 - '[[_Standards/WikiData/WD~Rahambuu,3417555]]'
 - '[[_Standards/WikiData/WD~Laraʼ,3419746]]'
@@ -289,14 +289,14 @@ language_used:
 - '[[_Standards/WikiData/WD~Sentani,3441672]]'
 - '[[_Standards/WikiData/WD~Bakati’,3441683]]'
 - '[[_Standards/WikiData/WD~Banggainese,3441692]]'
-- "[[_Standards/WikiData/WD~Uab Meto,3441962]]"
+- "[[_Standards/WikiData/WD~Uab_Meto,3441962]]"
 - '[[_Standards/WikiData/WD~Awbono,3446684]]'
 - '[[_Standards/WikiData/WD~Bukitan,3446774]]'
 - '[[_Standards/WikiData/WD~Bobot,3446788]]'
 - '[[_Standards/WikiData/WD~Sawai,3447258]]'
 - '[[_Standards/WikiData/WD~Citak,3447279]]'
 - '[[_Standards/WikiData/WD~Baduy,3449885]]'
-- "[[_Standards/WikiData/WD~West Damar,3450459]]"
+- "[[_Standards/WikiData/WD~West_Damar,3450459]]"
 - '[[_Standards/WikiData/WD~Bolango,3450578]]'
 - '[[_Standards/WikiData/WD~Saweru,3474649]]'
 - "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
@@ -320,12 +320,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Pamona,3513320]]'
 - '[[_Standards/WikiData/WD~Awyi,3513326]]'
 - '[[_Standards/WikiData/WD~Tawoyan,3513542]]'
-- "[[_Standards/WikiData/WD~Angguruk Yali,3514481]]"
+- "[[_Standards/WikiData/WD~Angguruk_Yali,3514481]]"
 - '[[_Standards/WikiData/WD~Taliabu,3514498]]'
 - '[[_Standards/WikiData/WD~Taloki,3514563]]'
 - '[[_Standards/WikiData/WD~Bamayo,3514892]]'
 - '[[_Standards/WikiData/WD~Sumeri,3514927]]'
-- "[[_Standards/WikiData/WD~West Tarangan,3515594]]"
+- "[[_Standards/WikiData/WD~West_Tarangan,3515594]]"
 - '[[_Standards/WikiData/WD~Ternate,3518492]]'
 - '[[_Standards/WikiData/WD~Tewa,3519302]]'
 - '[[_Standards/WikiData/WD~Tidore,3528199]]'
@@ -335,7 +335,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tonsawang,3531660]]'
 - '[[_Standards/WikiData/WD~Tontemboan,3531666]]'
 - '[[_Standards/WikiData/WD~Tunjung,3542117]]'
-- "[[_Standards/WikiData/WD~Uma' Lung,3548186]]"
+- "[[_Standards/WikiData/WD~Uma'_Lung,3548186]]"
 - '[[_Standards/WikiData/WD~Wano,3566166]]'
 - '[[_Standards/WikiData/WD~Waru,3566463]]'
 - '[[_Standards/WikiData/WD~Wawonii,3566780]]'
@@ -344,10 +344,10 @@ language_used:
 - '[[_Standards/WikiData/WD~Skou,3915200]]'
 - '[[_Standards/WikiData/WD~Duri,3915414]]'
 - '[[_Standards/WikiData/WD~Saponi,3915418]]'
-- "[[_Standards/WikiData/WD~Indonesian Sign Language,3915477]]"
+- "[[_Standards/WikiData/WD~Indonesian_Sign_Language,3915477]]"
 - '[[_Standards/WikiData/WD~Elseng,3915667]]'
 - '[[_Standards/WikiData/WD~Berau,3915770]]'
-- "[[_Standards/WikiData/WD~Jambi Malay,3915769]]"
+- "[[_Standards/WikiData/WD~Jambi_Malay,3915769]]"
 - '[[_Standards/WikiData/WD~Isirawa,4203802]]'
 - '[[_Standards/WikiData/WD~Kayeli,4207444]]'
 - '[[_Standards/WikiData/WD~Lepki,4259152]]'
@@ -361,7 +361,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Afra,4477735]]'
 - '[[_Standards/WikiData/WD~Mekwei,4544752]]'
 - '[[_Standards/WikiData/WD~Kodhi,4577633]]'
-- "[[_Standards/WikiData/WD~Sajau Basap,4684353]]"
+- "[[_Standards/WikiData/WD~Sajau_Basap,4684353]]"
 - '[[_Standards/WikiData/WD~Adonara,4684505]]'
 - '[[_Standards/WikiData/WD~Amarasi,4740192]]'
 - '[[_Standards/WikiData/WD~Ampanang,4748035]]'
@@ -392,7 +392,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Boano,4931258]]'
 - '[[_Standards/WikiData/WD~Bobongko,4935896]]'
 - '[[_Standards/WikiData/WD~Bonerate,4941729]]'
-- "[[_Standards/WikiData/WD~Bonerif language,4941733]]"
+- "[[_Standards/WikiData/WD~Bonerif_language,4941733]]"
 - '[[_Standards/WikiData/WD~Bonggo,4941860]]'
 - '[[_Standards/WikiData/WD~Budong-Budong,4985158]]'
 - '[[_Standards/WikiData/WD~Bukat,4986814]]'
@@ -419,7 +419,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Doutai,5302331]]'
 - '[[_Standards/WikiData/WD~Duriankere,5316627]]'
 - '[[_Standards/WikiData/WD~Dusner,5316948]]'
-- "[[_Standards/WikiData/WD~East Damar,5328200]]"
+- "[[_Standards/WikiData/WD~East_Damar,5328200]]"
 - '[[_Standards/WikiData/WD~Eipo,5349839]]'
 - '[[_Standards/WikiData/WD~Ekari,5350305]]'
 - '[[_Standards/WikiData/WD~Embaloh,5369424]]'
@@ -438,7 +438,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Hitu,5872700]]'
 - '[[_Standards/WikiData/WD~Hoti,5912372]]'
 - '[[_Standards/WikiData/WD~Hovongan,5917269]]'
-- "[[_Standards/WikiData/WD~Hupla language,5946223]]"
+- "[[_Standards/WikiData/WD~Hupla_language,5946223]]"
 - '[[_Standards/WikiData/WD~Iha,5994495]]'
 - '[[_Standards/WikiData/WD~Imroing,6008394]]'
 - '[[_Standards/WikiData/WD~Iresim,6069398]]'
@@ -487,12 +487,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Kosare,6432994]]'
 - '[[_Standards/WikiData/WD~Kosarek,6432995]]'
 - '[[_Standards/WikiData/WD~Kowiai,6435028]]'
-- "[[_Standards/WikiData/WD~Krio Dayak,6437086]]"
+- "[[_Standards/WikiData/WD~Krio_Dayak,6437086]]"
 - '[[_Standards/WikiData/WD~Kubu,6441341]]'
 - '[[_Standards/WikiData/WD~Kui,6442230]]'
 - '[[_Standards/WikiData/WD~Kula,6442714]]'
 - '[[_Standards/WikiData/WD~Kumbewaha,6443722]]'
-- "[[_Standards/WikiData/WD~Kwerba Mamberamo,6450325]]"
+- "[[_Standards/WikiData/WD~Kwerba_Mamberamo,6450325]]"
 - '[[_Standards/WikiData/WD~Kwerba,6450328]]'
 - '[[_Standards/WikiData/WD~Kwesten,6450354]]'
 - '[[_Standards/WikiData/WD~Kwinsu,6450460]]'
@@ -501,24 +501,24 @@ language_used:
 - '[[_Standards/WikiData/WD~Lamaholot,6480777]]'
 - '[[_Standards/WikiData/WD~Lamalera,6480787]]'
 - '[[_Standards/WikiData/WD~Lamatuka,6480982]]'
-- "[[_Standards/WikiData/WD~Larantuka Malay,6488691]]"
+- "[[_Standards/WikiData/WD~Larantuka_Malay,6488691]]"
 - '[[_Standards/WikiData/WD~Lasalimu,6492774]]'
 - '[[_Standards/WikiData/WD~Latu,6497181]]'
 - '[[_Standards/WikiData/WD~Lauje,6498258]]'
 - '[[_Standards/WikiData/WD~Lengilo,6522465]]'
 - '[[_Standards/WikiData/WD~Levuka,6535860]]'
-- "[[_Standards/WikiData/WD~Lewo Eleng,6537465]]"
+- "[[_Standards/WikiData/WD~Lewo_Eleng,6537465]]"
 - '[[_Standards/WikiData/WD~Liana,6539924]]'
 - '[[_Standards/WikiData/WD~Lisabata-Nuniali,6558534]]'
 - '[[_Standards/WikiData/WD~Lisela,6558753]]'
-- "[[_Standards/WikiData/WD~Western Pantar,6583582]]"
+- "[[_Standards/WikiData/WD~Western_Pantar,6583582]]"
 - '[[_Standards/WikiData/WD~Lola,6668867]]'
 - '[[_Standards/WikiData/WD~Lole,6668883]]'
 - '[[_Standards/WikiData/WD~Lorang,6678781]]'
 - '[[_Standards/WikiData/WD~Loun,6689636]]'
 - '[[_Standards/WikiData/WD~Luang,6695015]]'
 - '[[_Standards/WikiData/WD~Luhu,6699890]]'
-- "[[_Standards/WikiData/WD~Mainstream Kenyah,6736761]]"
+- "[[_Standards/WikiData/WD~Mainstream_Kenyah,6736761]]"
 - '[[_Standards/WikiData/WD~Maiwa,6737226]]'
 - '[[_Standards/WikiData/WD~Maklew,6739816]]'
 - '[[_Standards/WikiData/WD~Mamasa,6745452]]'
@@ -558,9 +558,9 @@ language_used:
 - '[[_Standards/WikiData/WD~Ndom,6983791]]'
 - '[[_Standards/WikiData/WD~Nduga,6983833]]'
 - '[[_Standards/WikiData/WD~Nila,7036821]]'
-- "[[_Standards/WikiData/WD~North Babar,7054041]]"
-- "[[_Standards/WikiData/WD~North Moluccan Malay,7056136]]"
-- "[[_Standards/WikiData/WD~Nusa Laut,7070332]]"
+- "[[_Standards/WikiData/WD~North_Babar,7054041]]"
+- "[[_Standards/WikiData/WD~North_Moluccan_Malay,7056136]]"
+- "[[_Standards/WikiData/WD~Nusa_Laut,7070332]]"
 - '[[_Standards/WikiData/WD~Obokuitai,7075258]]'
 - '[[_Standards/WikiData/WD~Okolod,7082487]]'
 - '[[_Standards/WikiData/WD~Onin,7093910]]'
@@ -579,13 +579,13 @@ language_used:
 - '[[_Standards/WikiData/WD~Pom,7227178]]'
 - '[[_Standards/WikiData/WD~Ponosakan,7227956]]'
 - '[[_Standards/WikiData/WD~Ternateño,7232597]]'
-- "[[_Standards/WikiData/WD~Punan Merah,7259894]]"
-- "[[_Standards/WikiData/WD~Punan Merap,7259895]]"
-- "[[_Standards/WikiData/WD~Punan Tubu,7259896]]"
+- "[[_Standards/WikiData/WD~Punan_Merah,7259894]]"
+- "[[_Standards/WikiData/WD~Punan_Merap,7259895]]"
+- "[[_Standards/WikiData/WD~Punan_Tubu,7259896]]"
 - '[[_Standards/WikiData/WD~Puragi,7260800]]'
 - '[[_Standards/WikiData/WD~Rajong,7286370]]'
 - '[[_Standards/WikiData/WD~Rampi,7290041]]'
-- "[[_Standards/WikiData/WD~Deli Malay,7310361]]"
+- "[[_Standards/WikiData/WD~Deli_Malay,7310361]]"
 - '[[_Standards/WikiData/WD~Rembong,7311570]]'
 - '[[_Standards/WikiData/WD~Retta,7317113]]'
 - '[[_Standards/WikiData/WD~Riantana,7322169]]'
@@ -608,14 +608,14 @@ language_used:
 - '[[_Standards/WikiData/WD~Sekar,7447136]]'
 - '[[_Standards/WikiData/WD~Selaru,7447500]]'
 - '[[_Standards/WikiData/WD~Selayar,7447520]]'
-- "[[_Standards/WikiData/WD~Selungai Murut,7448844]]"
+- "[[_Standards/WikiData/WD~Selungai_Murut,7448844]]"
 - '[[_Standards/WikiData/WD~Seluwasan,7448845]]'
 - '[[_Standards/WikiData/WD~Semandang,7449012]]'
 - '[[_Standards/WikiData/WD~Sembakung,7449148]]'
 - '[[_Standards/WikiData/WD~Serili,7454834]]'
 - '[[_Standards/WikiData/WD~Serui-Laut,7455503]]'
 - '[[_Standards/WikiData/WD~Sikaritai,7513600]]'
-- "[[_Standards/WikiData/WD~South Lembata,7567815]]"
+- "[[_Standards/WikiData/WD~South_Lembata,7567815]]"
 - '[[_Standards/WikiData/WD~Sowanda,7571845]]'
 - '[[_Standards/WikiData/WD~So’a,7572120]]'
 - '[[_Standards/WikiData/WD~Suabo,7630429]]'
@@ -649,13 +649,13 @@ language_used:
 - '[[_Standards/WikiData/WD~Tsaukambo,7849438]]'
 - '[[_Standards/WikiData/WD~Tulehu,7852006]]'
 - '[[_Standards/WikiData/WD~Uma,7881036]]'
-- "[[_Standards/WikiData/WD~Uma’ Lasan,7881227]]"
+- "[[_Standards/WikiData/WD~Uma’_Lasan,7881227]]"
 - '[[_Standards/WikiData/WD~Uruangnirin,7901389]]'
 - '[[_Standards/WikiData/WD~Viid,7929052]]'
 - '[[_Standards/WikiData/WD~Vitou,7937210]]'
 - '[[_Standards/WikiData/WD~Wabo,7958701]]'
-- "[[_Standards/WikiData/WD~Wae Rana,7959375]]"
-- "[[_Standards/WikiData/WD~Wahau Kenyah,7959737]]"
+- "[[_Standards/WikiData/WD~Wae_Rana,7959375]]"
+- "[[_Standards/WikiData/WD~Wahau_Kenyah,7959737]]"
 - '[[_Standards/WikiData/WD~Ambel,7959937]]'
 - '[[_Standards/WikiData/WD~Waioli,7960241]]'
 - '[[_Standards/WikiData/WD~Wakde,7960881]]'
@@ -685,24 +685,24 @@ language_used:
 - '[[_Standards/WikiData/WD~Yetfa,8053020]]'
 - '[[_Standards/WikiData/WD~Zorop,8074520]]'
 - '[[_Standards/WikiData/WD~Baras,8827053]]'
-- "[[_Standards/WikiData/WD~Bacanese Malay,8828608]]"
+- "[[_Standards/WikiData/WD~Bacanese_Malay,8828608]]"
 - '[[_Standards/WikiData/WD~Batuley,8828787]]'
 - '[[_Standards/WikiData/WD~Besoa,8840465]]'
-- "[[_Standards/WikiData/WD~Bian Marind,8841889]]"
+- "[[_Standards/WikiData/WD~Bian_Marind,8841889]]"
 - '[[_Standards/WikiData/WD~Bilba,8843362]]'
 - '[[_Standards/WikiData/WD~Bolongan,9229310]]'
-- "[[_Standards/WikiData/WD~Bukit Malay,9230148]]"
-- "[[_Standards/WikiData/WD~Kayan Busang,9231909]]"
+- "[[_Standards/WikiData/WD~Bukit_Malay,9230148]]"
+- "[[_Standards/WikiData/WD~Kayan_Busang,9231909]]"
 - '[[_Standards/WikiData/WD~Semimi,10950308]]'
 - '[[_Standards/WikiData/WD~Ketengban,10990152]]'
 - '[[_Standards/WikiData/WD~Kehu,10994953]]'
 - '[[_Standards/WikiData/WD~Nyadu’,11173588]]'
 - '[[_Standards/WikiData/WD~Anasi,11207813]]'
-- "[[_Standards/WikiData/WD~Asue Awyu,11266334]]"
+- "[[_Standards/WikiData/WD~Asue_Awyu,11266334]]"
 - '[[_Standards/WikiData/WD~Moskona,11288953]]'
-- "[[_Standards/WikiData/WD~Casuarina Coast Asmat,11732046]]"
-- "[[_Standards/WikiData/WD~Central Asmat,11732048]]"
-- "[[_Standards/WikiData/WD~North Asmat,11732049]]"
+- "[[_Standards/WikiData/WD~Casuarina_Coast_Asmat,11732046]]"
+- "[[_Standards/WikiData/WD~Central_Asmat,11732048]]"
+- "[[_Standards/WikiData/WD~North_Asmat,11732049]]"
 - '[[_Standards/WikiData/WD~Ibu,11732235]]'
 - '[[_Standards/WikiData/WD~Kabola,11732258]]'
 - '[[_Standards/WikiData/WD~Atohwaim,11732297]]'
@@ -723,58 +723,58 @@ language_used:
 - '[[_Standards/WikiData/WD~Arguni,12473346]]'
 - '[[_Standards/WikiData/WD~Asilulu,12473347]]'
 - '[[_Standards/WikiData/WD~Hamap,12473377]]'
-- "[[_Standards/WikiData/WD~Ile Ape,12473380]]"
-- "[[_Standards/WikiData/WD~River Kayan,12473395]]"
-- "[[_Standards/WikiData/WD~Wahau Kayan,12473397]]"
+- "[[_Standards/WikiData/WD~Ile_Ape,12473380]]"
+- "[[_Standards/WikiData/WD~River_Kayan,12473395]]"
+- "[[_Standards/WikiData/WD~Wahau_Kayan,12473397]]"
 - '[[_Standards/WikiData/WD~Abung,12473424]]'
 - '[[_Standards/WikiData/WD~Malimpung,12473435]]'
-- "[[_Standards/WikiData/WD~Banda Malay,12473442]]"
-- "[[_Standards/WikiData/WD~Balinese Malay,12473441]]"
-- "[[_Standards/WikiData/WD~Papuan Malay,12473446]]"
-- "[[_Standards/WikiData/WD~Eastern Ngad'a,12473454]]"
+- "[[_Standards/WikiData/WD~Banda_Malay,12473442]]"
+- "[[_Standards/WikiData/WD~Balinese_Malay,12473441]]"
+- "[[_Standards/WikiData/WD~Papuan_Malay,12473446]]"
+- "[[_Standards/WikiData/WD~Eastern_Ngad'a,12473454]]"
 - '[[_Standards/WikiData/WD~Sanggau,12473466]]'
 - '[[_Standards/WikiData/WD~Rongga,12473464]]'
 - '[[_Standards/WikiData/WD~Seberuang,12473470]]'
 - '[[_Standards/WikiData/WD~Tengger,12473479]]'
 - '[[_Standards/WikiData/WD~Tae’,12473476]]'
 - '[[_Standards/WikiData/WD~Wotu,12473488]]'
-- "[[_Standards/WikiData/WD~Riau Malay,12497930]]"
-- "[[_Standards/WikiData/WD~Central Awyu,12628801]]"
-- "[[_Standards/WikiData/WD~Edera Awyu,12630425]]"
+- "[[_Standards/WikiData/WD~Riau_Malay,12497930]]"
+- "[[_Standards/WikiData/WD~Central_Awyu,12628801]]"
+- "[[_Standards/WikiData/WD~Edera_Awyu,12630425]]"
 - "[[_Standards/WikiData/WD~Ili'uun,12632888]]"
-- "[[_Standards/WikiData/WD~South Awyu,12633986]]"
+- "[[_Standards/WikiData/WD~South_Awyu,12633986]]"
 - '[[_Standards/WikiData/WD~Kemberano,12634399]]'
 - '[[_Standards/WikiData/WD~Kur,12635082]]'
 - '[[_Standards/WikiData/WD~Kwer,12635137]]'
-- "[[_Standards/WikiData/WD~Lower Grand Valley Dani,12635807]]"
-- "[[_Standards/WikiData/WD~Mandobo Bawah,12636155]]"
-- "[[_Standards/WikiData/WD~Mandobo Atas,12636156]]"
-- "[[_Standards/WikiData/WD~Iha Based Pidgin,12639686]]"
-- "[[_Standards/WikiData/WD~North Awyu,12642164]]"
-- "[[_Standards/WikiData/WD~Tamnim Citak,12643315]]"
-- "[[_Standards/WikiData/WD~Southern Tukang Besi,12643975]]"
+- "[[_Standards/WikiData/WD~Lower_Grand_Valley_Dani,12635807]]"
+- "[[_Standards/WikiData/WD~Mandobo_Bawah,12636155]]"
+- "[[_Standards/WikiData/WD~Mandobo_Atas,12636156]]"
+- "[[_Standards/WikiData/WD~Iha_Based_Pidgin,12639686]]"
+- "[[_Standards/WikiData/WD~North_Awyu,12642164]]"
+- "[[_Standards/WikiData/WD~Tamnim_Citak,12643315]]"
+- "[[_Standards/WikiData/WD~Southern_Tukang_Besi,12643975]]"
 - '[[_Standards/WikiData/WD~Tenggarong,12683226]]'
-- "[[_Standards/WikiData/WD~Southeast Babar,12952247]]"
-- "[[_Standards/WikiData/WD~Mid Grand Valley Dani,12952359]]"
-- "[[_Standards/WikiData/WD~Upper Grand Valley Dani,12952361]]"
+- "[[_Standards/WikiData/WD~Southeast_Babar,12952247]]"
+- "[[_Standards/WikiData/WD~Mid_Grand_Valley_Dani,12952359]]"
+- "[[_Standards/WikiData/WD~Upper_Grand_Valley_Dani,12952361]]"
 - '[[_Standards/WikiData/WD~Jangkang,12952388]]'
 - '[[_Standards/WikiData/WD~Huaulu,12952504]]'
 - '[[_Standards/WikiData/WD~Hulung,12952505]]'
-- "[[_Standards/WikiData/WD~Ngkâlmpw Kanum,12952566]]"
-- "[[_Standards/WikiData/WD~Sota Kanum,12952568]]"
-- "[[_Standards/WikiData/WD~Smärky Kanum,12952569]]"
-- "[[_Standards/WikiData/WD~Mendalam Kayan,12952597]]"
+- "[[_Standards/WikiData/WD~Ngkâlmpw_Kanum,12952566]]"
+- "[[_Standards/WikiData/WD~Sota_Kanum,12952568]]"
+- "[[_Standards/WikiData/WD~Smärky_Kanum,12952569]]"
+- "[[_Standards/WikiData/WD~Mendalam_Kayan,12952597]]"
 - '[[_Standards/WikiData/WD~Ketum,12952616]]'
 - '[[_Standards/WikiData/WD~Kurudu,12952678]]'
 - '[[_Standards/WikiData/WD~Laba,12952694]]'
 - '[[_Standards/WikiData/WD~Legenyem,12952713]]'
 - '[[_Standards/WikiData/WD~Kawe,12952750]]'
 - '[[_Standards/WikiData/WD~Salawati,12952756]]'
-- "[[_Standards/WikiData/WD~Kota Bangun Kutai Malay,12952778]]"
-- "[[_Standards/WikiData/WD~Makassar Malay,12952776]]"
-- "[[_Standards/WikiData/WD~West Masela,12952816]]"
+- "[[_Standards/WikiData/WD~Kota_Bangun_Kutai_Malay,12952778]]"
+- "[[_Standards/WikiData/WD~Makassar_Malay,12952776]]"
+- "[[_Standards/WikiData/WD~West_Masela,12952816]]"
 - '[[_Standards/WikiData/WD~Nggem,12952956]]'
-- "[[_Standards/WikiData/WD~Northern Nuaulu,12952968]]"
+- "[[_Standards/WikiData/WD~Northern_Nuaulu,12952968]]"
 - '[[_Standards/WikiData/WD~Perai,12953035]]'
 - '[[_Standards/WikiData/WD~Teluti,12953194]]'
 - '[[_Standards/WikiData/WD~Teor,12953198]]'
@@ -782,20 +782,20 @@ language_used:
 - '[[_Standards/WikiData/WD~Tugun,12953225]]'
 - '[[_Standards/WikiData/WD~Tugutil,12953228]]'
 - '[[_Standards/WikiData/WD~Wauyai,12953295]]'
-- "[[_Standards/WikiData/WD~Ninia Yali,12953310]]"
-- "[[_Standards/WikiData/WD~Pass Valley Yali,12953309]]"
+- "[[_Standards/WikiData/WD~Ninia_Yali,12953310]]"
+- "[[_Standards/WikiData/WD~Pass_Valley_Yali,12953309]]"
 - '[[_Standards/WikiData/WD~Edopi,12953516]]'
 - '[[_Standards/WikiData/WD~Enrekang,12953520]]'
-- "[[_Standards/WikiData/WD~Unde Kaili,12953596]]"
+- "[[_Standards/WikiData/WD~Unde_Kaili,12953596]]"
 - '[[_Standards/WikiData/WD~Kamaru,12953604]]'
 - '[[_Standards/WikiData/WD~Kembra,12953627]]'
 - '[[_Standards/WikiData/WD~Lolak,12953679]]'
 - '[[_Standards/WikiData/WD~Napu,12953768]]'
-- "[[_Standards/WikiData/WD~Onin Based Pidgin,12953788]]"
+- "[[_Standards/WikiData/WD~Onin_Based_Pidgin,12953788]]"
 - '[[_Standards/WikiData/WD~Putoh,12953832]]'
 - '[[_Standards/WikiData/WD~Saluan,12953867]]'
 - '[[_Standards/WikiData/WD~Taje,12953902]]'
-- "[[_Standards/WikiData/WD~Lun Bawang,13479839]]"
+- "[[_Standards/WikiData/WD~Lun_Bawang,13479839]]"
 - '[[_Standards/WikiData/WD~Kalumpang,13561407]]'
 - '[[_Standards/WikiData/WD~Liabuku,13580912]]'
 - '[[_Standards/WikiData/WD~Nisa,13593518]]'
@@ -804,33 +804,33 @@ language_used:
 - '[[_Standards/WikiData/WD~Nakai,14916897]]'
 - '[[_Standards/WikiData/WD~Ujir,14916906]]'
 - '[[_Standards/WikiData/WD~Serua,14916905]]'
-- "[[_Standards/WikiData/WD~Seko Tengah,15613270]]"
-- "[[_Standards/WikiData/WD~Seko Pandang,15613282]]"
-- "[[_Standards/WikiData/WD~Jair Awyu,16110177]]"
-- "[[_Standards/WikiData/WD~Yaosakor Asmat,16113158]]"
+- "[[_Standards/WikiData/WD~Seko_Tengah,15613270]]"
+- "[[_Standards/WikiData/WD~Seko_Pandang,15613282]]"
+- "[[_Standards/WikiData/WD~Jair_Awyu,16110177]]"
+- "[[_Standards/WikiData/WD~Yaosakor_Asmat,16113158]]"
 - '[[_Standards/WikiData/WD~Batui,16839143]]'
 - '[[_Standards/WikiData/WD~Jofotek-Bromnya,16886849]]'
 - '[[_Standards/WikiData/WD~Kaera,16910923]]'
 - '[[_Standards/WikiData/WD~Kioko,18343036]]'
 - '[[_Standards/WikiData/WD~Kompane,18343041]]'
 - '[[_Standards/WikiData/WD~Lindu,18390055]]'
-- "[[_Standards/WikiData/WD~Kupang Malay,18458203]]"
-- "[[_Standards/WikiData/WD~East Masela,18487451]]"
-- "[[_Standards/WikiData/WD~Southern Nuaulu,18544857]]"
+- "[[_Standards/WikiData/WD~Kupang_Malay,18458203]]"
+- "[[_Standards/WikiData/WD~East_Masela,18487451]]"
+- "[[_Standards/WikiData/WD~Southern_Nuaulu,18544857]]"
 - '[[_Standards/WikiData/WD~Sepa,18603687]]'
-- "[[_Standards/WikiData/WD~East Tarangan,18609750]]"
-- "[[_Standards/WikiData/WD~Northern Tukang Besi,18611555]]"
+- "[[_Standards/WikiData/WD~East_Tarangan,18609750]]"
+- "[[_Standards/WikiData/WD~Northern_Tukang_Besi,18611555]]"
 - '[[_Standards/WikiData/WD~Kaure,20526532]]'
-- "[[_Standards/WikiData/WD~North Muyu,20857698]]"
-- "[[_Standards/WikiData/WD~Bädi Kanum,20888004]]"
+- "[[_Standards/WikiData/WD~North_Muyu,20857698]]"
+- "[[_Standards/WikiData/WD~Bädi_Kanum,20888004]]"
 - '[[_Standards/WikiData/WD~Lola,24442801]]'
-- "[[_Standards/WikiData/WD~Kayan Mahakam,25337171]]"
+- "[[_Standards/WikiData/WD~Kayan_Mahakam,25337171]]"
 - '[[_Standards/WikiData/WD~Sangirese,25714758]]'
-- "[[_Standards/WikiData/WD~Da'a Kaili,33103997]]"
-- "[[_Standards/WikiData/WD~South Muyu,42308820]]"
-- "[[_Standards/WikiData/WD~Central Masela,42575433]]"
-- "[[_Standards/WikiData/WD~Southern Tidung,63214959]]"
-- "[[_Standards/WikiData/WD~Langkat Malay,124477350]]"
+- "[[_Standards/WikiData/WD~Da'a_Kaili,33103997]]"
+- "[[_Standards/WikiData/WD~South_Muyu,42308820]]"
+- "[[_Standards/WikiData/WD~Central_Masela,42575433]]"
+- "[[_Standards/WikiData/WD~Southern_Tidung,63214959]]"
+- "[[_Standards/WikiData/WD~Langkat_Malay,124477350]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Tamil,5885]]'
 - '[[_Standards/WikiData/WD~Mandarin,9192]]'
@@ -842,8 +842,8 @@ language_used:
 - '[[_Standards/WikiData/WD~Anus,23855]]'
 - '[[_Standards/WikiData/WD~Acehnese,27683]]'
 - '[[_Standards/WikiData/WD~Betawi,33014]]'
-- "[[_Standards/WikiData/WD~Karo Batak,33012]]"
-- "[[_Standards/WikiData/WD~Toba Batak,33017]]"
+- "[[_Standards/WikiData/WD~Karo_Batak,33012]]"
+- "[[_Standards/WikiData/WD~Toba_Batak,33017]]"
 - '[[_Standards/WikiData/WD~Balinese,33070]]'
 - '[[_Standards/WikiData/WD~Banjar,33151]]'
 - '[[_Standards/WikiData/WD~Bugis,33190]]'
@@ -851,7 +851,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Iban,33424]]'
 - '[[_Standards/WikiData/WD~Javanese,33549]]'
 - '[[_Standards/WikiData/WD~Makassar,33643]]'
-- "[[_Standards/WikiData/WD~Sara Bakati',33957]]"
+- "[[_Standards/WikiData/WD~Sara_Bakati',33957]]"
 - '[[_Standards/WikiData/WD~Sika,33960]]'
 - '[[_Standards/WikiData/WD~Sundanese,34002]]'
 - '[[_Standards/WikiData/WD~Tetum,34125]]'
@@ -860,11 +860,11 @@ language_used:
 - '[[_Standards/WikiData/WD~Galoli,35322]]'
 - '[[_Standards/WikiData/WD~Helong,35432]]'
 - '[[_Standards/WikiData/WD~Kemak,35549]]'
-- "[[_Standards/WikiData/WD~Ledo Kaili,35877]]"
+- "[[_Standards/WikiData/WD~Ledo_Kaili,35877]]"
 - '[[_Standards/WikiData/WD~Mandar,35995]]'
 - '[[_Standards/WikiData/WD~Madurese,36213]]'
 - '[[_Standards/WikiData/WD~Toraja-Sa’dan,36673]]'
-- "[[_Standards/WikiData/WD~Lampung Api,49215]]"
+- "[[_Standards/WikiData/WD~Lampung_Api,49215]]"
 - '[[_Standards/WikiData/WD~Komering,49224]]'
 - '[[_Standards/WikiData/WD~Bauzi,56360]]'
 - '[[_Standards/WikiData/WD~Duvle,56364]]'
@@ -878,99 +878,99 @@ language_used:
 - '[[_Standards/WikiData/WD~Abun,56657]]'
 - '[[_Standards/WikiData/WD~Oirata,56738]]'
 - '[[_Standards/WikiData/WD~Burmeso,56746]]'
-- "[[_Standards/WikiData/WD~Karon Dori,56817]]"
+- "[[_Standards/WikiData/WD~Karon_Dori,56817]]"
 - '[[_Standards/WikiData/WD~Hattam,56825]]'
 - '[[_Standards/WikiData/WD~Iau,56867]]'
 - '[[_Standards/WikiData/WD~Kwerisa,56881]]'
 - '[[_Standards/WikiData/WD~Burate,56900]]'
 - '[[_Standards/WikiData/WD~Baropasi,56995]]'
-history_of_topic: "[[_Standards/WikiData/WD~History of Indonesia,331596]]"
-legislative_body: "[[_Standards/WikiData/WD~People's Consultative Assembly,818711]]"
-highest_point: "[[_Standards/WikiData/WD~Puncak Jaya,1045888]]"
+history_of_topic: "[[_Standards/WikiData/WD~History_of_Indonesia,331596]]"
+legislative_body: "[[_Standards/WikiData/WD~People's_Consultative_Assembly,818711]]"
+highest_point: "[[_Standards/WikiData/WD~Puncak_Jaya,1045888]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Indonesia,1185994]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Indonesia,1610285]]"
-central_bank: "[[_Standards/WikiData/WD~Bank Indonesia,1906161]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Indonesia,1977576]]"
-head_of_state: "[[_Standards/WikiData/WD~Prabowo Subianto,2107268]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Indonesia,1185994]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Indonesia,1610285]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_Indonesia,1906161]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Indonesia,1977576]]"
+head_of_state: "[[_Standards/WikiData/WD~Prabowo_Subianto,2107268]]"
 studied_in: '[[_Standards/WikiData/WD~indonesiology,2623652]]'
-culture: "[[_Standards/WikiData/WD~culture of Indonesia,2717220]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Indonesia,2717220]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Bali,3125978]]'
-- "[[_Standards/WikiData/WD~Central Papua,12486766]]"
-- "[[_Standards/WikiData/WD~South Papua,61439296]]"
-- "[[_Standards/WikiData/WD~Highland Papua,112810104]]"
-- "[[_Standards/WikiData/WD~Southwest Papua,115253263]]"
+- "[[_Standards/WikiData/WD~Central_Papua,12486766]]"
+- "[[_Standards/WikiData/WD~South_Papua,61439296]]"
+- "[[_Standards/WikiData/WD~Highland_Papua,112810104]]"
+- "[[_Standards/WikiData/WD~Southwest_Papua,115253263]]"
 - '[[_Standards/WikiData/WD~Aceh,1823]]'
-- "[[_Standards/WikiData/WD~Bangka Belitung Islands,1866]]"
+- "[[_Standards/WikiData/WD~Bangka_Belitung_Islands,1866]]"
 - '[[_Standards/WikiData/WD~Bengkulu,1890]]'
 - '[[_Standards/WikiData/WD~Jambi,2051]]'
 - '[[_Standards/WikiData/WD~Lampung,2110]]'
-- "[[_Standards/WikiData/WD~North Sumatra,2140]]"
+- "[[_Standards/WikiData/WD~North_Sumatra,2140]]"
 - '[[_Standards/WikiData/WD~Riau,2175]]'
-- "[[_Standards/WikiData/WD~Riau Islands,2223]]"
-- "[[_Standards/WikiData/WD~South Sumatra,2271]]"
-- "[[_Standards/WikiData/WD~West Sumatra,2772]]"
+- "[[_Standards/WikiData/WD~Riau_Islands,2223]]"
+- "[[_Standards/WikiData/WD~South_Sumatra,2271]]"
+- "[[_Standards/WikiData/WD~West_Sumatra,2772]]"
 - '[[_Standards/WikiData/WD~Banten,3540]]'
-- "[[_Standards/WikiData/WD~Central Java,3557]]"
-- "[[_Standards/WikiData/WD~East Java,3586]]"
+- "[[_Standards/WikiData/WD~Central_Java,3557]]"
+- "[[_Standards/WikiData/WD~East_Java,3586]]"
 - '[[_Standards/WikiData/WD~Jakarta,3630]]'
-- "[[_Standards/WikiData/WD~West Java,3724]]"
+- "[[_Standards/WikiData/WD~West_Java,3724]]"
 - '[[_Standards/WikiData/WD~Yogyakarta,3741]]'
-- "[[_Standards/WikiData/WD~Central Kalimantan,3891]]"
-- "[[_Standards/WikiData/WD~East Kalimantan,3899]]"
-- "[[_Standards/WikiData/WD~North Kalimantan,3903]]"
-- "[[_Standards/WikiData/WD~South Kalimantan,3906]]"
-- "[[_Standards/WikiData/WD~West Kalimantan,3916]]"
-- "[[_Standards/WikiData/WD~West Nusa Tenggara,5062]]"
-- "[[_Standards/WikiData/WD~East Nusa Tenggara,5061]]"
+- "[[_Standards/WikiData/WD~Central_Kalimantan,3891]]"
+- "[[_Standards/WikiData/WD~East_Kalimantan,3899]]"
+- "[[_Standards/WikiData/WD~North_Kalimantan,3903]]"
+- "[[_Standards/WikiData/WD~South_Kalimantan,3906]]"
+- "[[_Standards/WikiData/WD~West_Kalimantan,3916]]"
+- "[[_Standards/WikiData/WD~West_Nusa_Tenggara,5062]]"
+- "[[_Standards/WikiData/WD~East_Nusa_Tenggara,5061]]"
 - '[[_Standards/WikiData/WD~Gorontalo,5067]]'
-- "[[_Standards/WikiData/WD~Central Sulawesi,5065]]"
-- "[[_Standards/WikiData/WD~North Sulawesi,5068]]"
-- "[[_Standards/WikiData/WD~Southeast Sulawesi,5075]]"
-- "[[_Standards/WikiData/WD~South Sulawesi,5078]]"
-- "[[_Standards/WikiData/WD~West Sulawesi,5082]]"
-- "[[_Standards/WikiData/WD~North Maluku,5094]]"
+- "[[_Standards/WikiData/WD~Central_Sulawesi,5065]]"
+- "[[_Standards/WikiData/WD~North_Sulawesi,5068]]"
+- "[[_Standards/WikiData/WD~Southeast_Sulawesi,5075]]"
+- "[[_Standards/WikiData/WD~South_Sulawesi,5078]]"
+- "[[_Standards/WikiData/WD~West_Sulawesi,5082]]"
+- "[[_Standards/WikiData/WD~North_Maluku,5094]]"
 - '[[_Standards/WikiData/WD~Papua,5095]]'
 - '[[_Standards/WikiData/WD~Maluku,5093]]'
-- "[[_Standards/WikiData/WD~West Papua,5096]]"
-head_of_government: "[[_Standards/WikiData/WD~Joko Widodo,3318231]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of the Republic of Indonesia,4200557]]"
-participant_in: "[[_Standards/WikiData/WD~ASEAN cable system,4654163]]"
+- "[[_Standards/WikiData/WD~West_Papua,5096]]"
+head_of_government: "[[_Standards/WikiData/WD~Joko_Widodo,3318231]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_the_Republic_of_Indonesia,4200557]]"
+participant_in: "[[_Standards/WikiData/WD~ASEAN_cable_system,4654163]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Jayapura,4806286]]'
 - '[[_Standards/WikiData/WD~Asia_Jakarta,4806285]]'
 - '[[_Standards/WikiData/WD~Asia_Makassar,4806294]]'
 - '[[_Standards/WikiData/WD~Asia_Pontianak,4806298]]'
-- "[[_Standards/WikiData/WD~Indonesia Western Standard Time,7458035]]"
-- "[[_Standards/WikiData/WD~Indonesia Central Standard Time,7458046]]"
-- "[[_Standards/WikiData/WD~Indonesia Eastern Standard Time,7458054]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Indonesia,7112296]]"
+- "[[_Standards/WikiData/WD~Indonesia_Western_Standard_Time,7458035]]"
+- "[[_Standards/WikiData/WD~Indonesia_Central_Standard_Time,7458046]]"
+- "[[_Standards/WikiData/WD~Indonesia_Eastern_Standard_Time,7458054]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Indonesia,7112296]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q7463301,7463301]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Indonesia topics,8267793]]"
+- "[[_Standards/WikiData/WD~Template_Indonesia_topics,8267793]]"
 - '[[_Standards/WikiData/WD~Q10557176,10557176]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Indonesia,8407948]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Indonesia,8407948]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Indonesia,10986755]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Indonesia,11755916]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Indonesia,11755916]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Indonesia,11755916]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Indonesia,11755916]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 different_from: '[[_Standards/WikiData/WD~Q19435393,19435393]]'
 main_regulatory_text:
-- "[[_Standards/WikiData/WD~Law of the Republic of Indonesia,19752986]]"
-- "[[_Standards/WikiData/WD~Constitution of Indonesia,49373]]"
+- "[[_Standards/WikiData/WD~Law_of_the_Republic_of_Indonesia,19752986]]"
+- "[[_Standards/WikiData/WD~Constitution_of_Indonesia,49373]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Indonesia,20716634]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Indonesia,20716634]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q41218166,41218166]]'
 - '[[_Standards/WikiData/WD~Q127698279,127698279]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-open_data_portal: "[[_Standards/WikiData/WD~Indonesian Data in One Portal,97277078]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+open_data_portal: "[[_Standards/WikiData/WD~Indonesian_Data_in_One_Portal,97277078]]"
 demonym:
 - "orang Indonesia"
 - Indonezijec
@@ -1048,7 +1048,7 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
 - '[[_Standards/WikiData/WD~India,668]]'
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Palau,695]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
@@ -1061,11 +1061,11 @@ religion_or_worldview:
 - '[[_Standards/WikiData/WD~Hinduism,9089]]'
 - '[[_Standards/WikiData/WD~Confucianism,9581]]'
 - '[[_Standards/WikiData/WD~Protestantism,23540]]'
-lowest_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+lowest_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
 capital: '[[_Standards/WikiData/WD~Jakarta,3630]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 official_language: '[[_Standards/WikiData/WD~Indonesian,9240]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 VAT_rate: 10
 country: '[[_Standards/WikiData/WD~Indonesia,252]]'
@@ -1115,7 +1115,7 @@ BTI_Status_Index:
 - 6.67
 Democracy_Index: 6.71
 Human_Development_Index: 0.705
-named_after: "[[_Standards/WikiData/WD~Indian subcontinent,60140]]"
+named_after: "[[_Standards/WikiData/WD~Indian_subcontinent,60140]]"
 literacy_rate: 95.7
 death_rate:
 - 9.59

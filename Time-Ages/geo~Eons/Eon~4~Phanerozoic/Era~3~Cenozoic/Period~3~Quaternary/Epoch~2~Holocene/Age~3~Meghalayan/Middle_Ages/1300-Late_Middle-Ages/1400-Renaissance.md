@@ -1,23 +1,23 @@
 ---
 has_id_wikidata: Q4692
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~art movement,968159]]"
-  - "[[_Standards/WikiData/WD~cultural movement,2198855]]"
-has_part_s_: "[[_Standards/WikiData/WD~Renaissance art,1133779]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Renaissance,7112776]]"
+  - "[[_Standards/WikiData/WD~art_movement,968159]]"
+  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
+has_part_s_: "[[_Standards/WikiData/WD~Renaissance_art,1133779]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Renaissance,7112776]]"
 topic_s_main_template:
   - "[[_Standards/WikiData/WD~Q10721172,10721172]]"
   - "[[_Standards/WikiData/WD~Template_Renaissance,10999203]]"
 different_from: "[[_Standards/WikiData/WD~Renaissance,13400700]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Renaissance,13830551]]"
-studied_by: "[[_Standards/WikiData/WD~Renaissance studies,25111456]]"
+studied_by: "[[_Standards/WikiData/WD~Renaissance_studies,25111456]]"
 Provenio_UUID: 631fd529-d8cd-4644-84ca-6d658d19663b
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20046.jpg

@@ -61,8 +61,8 @@ electron_configuration:
 time_of_discovery_or_invention: "1839"
 followed_by: '[[_Standards/WikiData/WD~cerium,1385]]'
 instance_of:
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-- "[[_Standards/WikiData/WD~chemical substance,79529]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_substance,79529]]"
 electronegativity: 1.1
 atomic_number: 57
 ionic_radius:
@@ -80,17 +80,17 @@ Commons_gallery: Lanthanum
 Commons_category: Lanthanum
 mass: 138.90547
 part_of:
-- "[[_Standards/WikiData/WD~group 3,108307]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Karolinska Institutet,219564]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
+- "[[_Standards/WikiData/WD~group_3,108307]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
+location_of_discovery: "[[_Standards/WikiData/WD~Karolinska_Institutet,219564]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lanthan%201-cropflipped.jpg"
 canonical_SMILES: '[La]'
 EC_number: 231-099-0

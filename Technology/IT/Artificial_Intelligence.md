@@ -1,68 +1,68 @@
 ---
 has_id_wikidata: Q11660
 subclass_of:
-- "[[_Standards/WikiData/WD~emerging technology,120208]]"
+- "[[_Standards/WikiData/WD~emerging_technology,120208]]"
 - '[[_Standards/WikiData/WD~reasoning,1156402]]'
-- "[[_Standards/WikiData/WD~computer science,21198]]"
+- "[[_Standards/WikiData/WD~computer_science,21198]]"
 facet_of:
-- "[[_Standards/WikiData/WD~cognitive science,147638]]"
-- "[[_Standards/WikiData/WD~computer science,21198]]"
+- "[[_Standards/WikiData/WD~cognitive_science,147638]]"
+- "[[_Standards/WikiData/WD~computer_science,21198]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~connectionism,203790]]'
-- "[[_Standards/WikiData/WD~symbolic artificial intelligence,5514059]]"
-- "[[_Standards/WikiData/WD~ethical artificial intelligence,105604957]]"
-- "[[_Standards/WikiData/WD~machine learning,2539]]"
+- "[[_Standards/WikiData/WD~symbolic_artificial_intelligence,5514059]]"
+- "[[_Standards/WikiData/WD~ethical_artificial_intelligence,105604957]]"
+- "[[_Standards/WikiData/WD~machine_learning,2539]]"
 instance_of:
 - '[[_Standards/WikiData/WD~industry,268592]]'
-- "[[_Standards/WikiData/WD~type of technology,112057532]]"
-- "[[_Standards/WikiData/WD~branch of computer science,123370638]]"
-- "[[_Standards/WikiData/WD~type of intelligence,125161275]]"
+- "[[_Standards/WikiData/WD~type_of_technology,112057532]]"
+- "[[_Standards/WikiData/WD~branch_of_computer_science,123370638]]"
+- "[[_Standards/WikiData/WD~type_of_intelligence,125161275]]"
 has_goal:
-- "[[_Standards/WikiData/WD~motion planning,366872]]"
-- "[[_Standards/WikiData/WD~affective computing,1185804]]"
-- "[[_Standards/WikiData/WD~artificial general intelligence,2264109]]"
-- "[[_Standards/WikiData/WD~automated reasoning,2555318]]"
-- "[[_Standards/WikiData/WD~automated planning and scheduling,2631895]]"
-- "[[_Standards/WikiData/WD~knowledge representation and reasoning,3478658]]"
-- "[[_Standards/WikiData/WD~machine perception,6723726]]"
-- "[[_Standards/WikiData/WD~knowledge representation,109642276]]"
-- "[[_Standards/WikiData/WD~natural language processing,30642]]"
+- "[[_Standards/WikiData/WD~motion_planning,366872]]"
+- "[[_Standards/WikiData/WD~affective_computing,1185804]]"
+- "[[_Standards/WikiData/WD~artificial_general_intelligence,2264109]]"
+- "[[_Standards/WikiData/WD~automated_reasoning,2555318]]"
+- "[[_Standards/WikiData/WD~automated_planning_and_scheduling,2631895]]"
+- "[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658]]"
+- "[[_Standards/WikiData/WD~machine_perception,6723726]]"
+- "[[_Standards/WikiData/WD~knowledge_representation,109642276]]"
+- "[[_Standards/WikiData/WD~natural_language_processing,30642]]"
 has_use:
-- "[[_Standards/WikiData/WD~recommender system,554950]]"
-- "[[_Standards/WikiData/WD~autonomous car,741490]]"
-- "[[_Standards/WikiData/WD~natural language understanding,1078276]]"
-- "[[_Standards/WikiData/WD~search engine,4182287]]"
-- "[[_Standards/WikiData/WD~automated decision-making,108704339]]"
+- "[[_Standards/WikiData/WD~recommender_system,554950]]"
+- "[[_Standards/WikiData/WD~autonomous_car,741490]]"
+- "[[_Standards/WikiData/WD~natural_language_understanding,1078276]]"
+- "[[_Standards/WikiData/WD~search_engine,4182287]]"
+- "[[_Standards/WikiData/WD~automated_decision-making,108704339]]"
 GitHub_topic: artificial-intelligence
 model_item:
-- "[[_Standards/WikiData/WD~intelligence amplification,1362688]]"
-- "[[_Standards/WikiData/WD~machine learning,2539]]"
+- "[[_Standards/WikiData/WD~intelligence_amplification,1362688]]"
+- "[[_Standards/WikiData/WD~machine_learning,2539]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~history of artificial intelligence,2592244]]"
-- "[[_Standards/WikiData/WD~timeline of artificial intelligence,16000353]]"
+- "[[_Standards/WikiData/WD~history_of_artificial_intelligence,2592244]]"
+- "[[_Standards/WikiData/WD~timeline_of_artificial_intelligence,16000353]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Artificial Intelligence,4801030]]"
-- "[[_Standards/WikiData/WD~Artificial Intelligence Review,15751393]]"
-- "[[_Standards/WikiData/WD~Open Science Thesaurus,108928644]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of artificial intelligence,7112560]]"
+- "[[_Standards/WikiData/WD~Artificial_Intelligence,4801030]]"
+- "[[_Standards/WikiData/WD~Artificial_Intelligence_Review,15751393]]"
+- "[[_Standards/WikiData/WD~Open_Science_Thesaurus,108928644]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_artificial_intelligence,7112560]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Artificial intelligence,14411202]]"
-- "[[_Standards/WikiData/WD~Template_Artificial intelligence,119057776]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Artificial intelligence,14614961]]"
+- "[[_Standards/WikiData/WD~Template_Artificial_intelligence,14411202]]"
+- "[[_Standards/WikiData/WD~Template_Artificial_intelligence,119057776]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Artificial_intelligence,14614961]]"
 has_characteristic:
 - '[[_Standards/WikiData/WD~artificiality,14623823]]'
-- "[[_Standards/WikiData/WD~regulation of artificial intelligence,96482266]]"
+- "[[_Standards/WikiData/WD~regulation_of_artificial_intelligence,96482266]]"
 practiced_by:
-- "[[_Standards/WikiData/WD~artificial intelligence researcher,15976092]]"
-- "[[_Standards/WikiData/WD~artificial intelligence engineer,126116209]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Artificial Intelligence,113171054]]"
+- "[[_Standards/WikiData/WD~artificial_intelligence_researcher,15976092]]"
+- "[[_Standards/WikiData/WD~artificial_intelligence_engineer,126116209]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Artificial_Intelligence,113171054]]"
 uses:
-- "[[_Standards/WikiData/WD~large language model,115305900]]"
-- "[[_Standards/WikiData/WD~AI-generated content,125361038]]"
+- "[[_Standards/WikiData/WD~large_language_model,115305900]]"
+- "[[_Standards/WikiData/WD~AI-generated_content,125361038]]"
 different_from:
-- "[[_Standards/WikiData/WD~artificial intelligence model type,117349475]]"
-- "[[_Standards/WikiData/WD~artificial intelligence model,117349473]]"
+- "[[_Standards/WikiData/WD~artificial_intelligence_model_type,117349475]]"
+- "[[_Standards/WikiData/WD~artificial_intelligence_model,117349473]]"
 spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Um%C4%9Bl%C3%A1%20inteligence%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Artificial%20intelligence%20%28spoken%20by%20AI%20voice%29.mp3"

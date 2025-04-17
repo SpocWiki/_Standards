@@ -2,14 +2,14 @@
 aliases:
 - "Nuclear fission"
 has_id_wikidata: Q11429
-facet_of: "[[_Standards/WikiData/WD~nuclear physics,81197]]"
+facet_of: "[[_Standards/WikiData/WD~nuclear_physics,81197]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~nuclear reaction,238323]]"
+- "[[_Standards/WikiData/WD~nuclear_reaction,238323]]"
 - '[[_Standards/WikiData/WD~separation,3182649]]'
-instance_of: "[[_Standards/WikiData/WD~nuclear reaction,238323]]"
+instance_of: "[[_Standards/WikiData/WD~nuclear_reaction,238323]]"
 named_after: '[[_Standards/WikiData/WD~fission,929080]]'
-different_from: "[[_Standards/WikiData/WD~disproportionation reaction,64995469]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+different_from: "[[_Standards/WikiData/WD~disproportionation_reaction,64995469]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 UMLS_CUI: C0028576
 MeSH_tree_code:
 - G01.536.485

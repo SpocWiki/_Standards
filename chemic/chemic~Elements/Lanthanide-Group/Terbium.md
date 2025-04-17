@@ -3,23 +3,23 @@ type: Element
 SpocWebEntityId: 21961
 has_id_wikidata: Q1838
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
-named_after: "[[_Standards/WikiData/WD~Ytterby mine,631733]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
+named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~bastnäsite mineral group,3777619]]"
-- "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
-- "[[_Standards/WikiData/WD~xenotime mineral group,3777882]]"
-- "[[_Standards/WikiData/WD~euxenite mineral group,18016084]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
+- "[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]"
+- "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
+- "[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]"
+- "[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
 UMLS_CUI: C0039541
 time_of_discovery_or_invention: "1843"
 location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 electronegativity: 1.2
 atomic_number: 65
 ionic_radius:

@@ -37,142 +37,142 @@ Languages:
 - fy-NL
 icon: flag-ne
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~Food and Agriculture Organization,82151]]"
-- "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-- "[[_Standards/WikiData/WD~United Nations Institute for Training and Research,131878]]"
-- "[[_Standards/WikiData/WD~Office of the United Nations High Commissioner for Refugees,132551]]"
-- "[[_Standards/WikiData/WD~European Air Transport Command,141720]]"
-- "[[_Standards/WikiData/WD~Zangger Committee,146905]]"
-- "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
-- "[[_Standards/WikiData/WD~Dutch Language Union,152299]]"
-- "[[_Standards/WikiData/WD~European Coal and Steel Community,161549]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~UN Trade and Development,182000]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~European Investment Bank,192247]]"
-- "[[_Standards/WikiData/WD~International Maritime Organization,201054]]"
-- "[[_Standards/WikiData/WD~Economic and Monetary Union of the European Union,212141]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Bank for International Settlements,309195]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations Industrial Development Organization,386120]]"
-- "[[_Standards/WikiData/WD~Accreditation Organisation of the Netherlands and Flanders,406558]]"
-- "[[_Standards/WikiData/WD~Paris Club,461736]]"
-- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
-- "[[_Standards/WikiData/WD~European Bank for Reconstruction and Development,488981]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
+- "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+- "[[_Standards/WikiData/WD~United_Nations_Institute_for_Training_and_Research,131878]]"
+- "[[_Standards/WikiData/WD~Office_of_the_United_Nations_High_Commissioner_for_Refugees,132551]]"
+- "[[_Standards/WikiData/WD~European_Air_Transport_Command,141720]]"
+- "[[_Standards/WikiData/WD~Zangger_Committee,146905]]"
+- "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+- "[[_Standards/WikiData/WD~Dutch_Language_Union,152299]]"
+- "[[_Standards/WikiData/WD~European_Coal_and_Steel_Community,161549]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~UN_Trade_and_Development,182000]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~European_Investment_Bank,192247]]"
+- "[[_Standards/WikiData/WD~International_Maritime_Organization,201054]]"
+- "[[_Standards/WikiData/WD~Economic_and_Monetary_Union_of_the_European_Union,212141]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Bank_for_International_Settlements,309195]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations_Industrial_Development_Organization,386120]]"
+- "[[_Standards/WikiData/WD~Accreditation_Organisation_of_the_Netherlands_and_Flanders,406558]]"
+- "[[_Standards/WikiData/WD~Paris_Club,461736]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
+- "[[_Standards/WikiData/WD~European_Bank_for_Reconstruction_and_Development,488981]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~International Fund for Agricultural Development,689859]]"
-- "[[_Standards/WikiData/WD~United Nations Peacekeeping Force in Cyprus,694772]]"
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~International Chamber of Commerce,848633]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Permanent Court of Arbitration,1045198]]"
-- "[[_Standards/WikiData/WD~International Federation of Red Cross and Red Crescent Societies,1069175]]"
-- "[[_Standards/WikiData/WD~International Trade Union Confederation,1071706]]"
-- "[[_Standards/WikiData/WD~Inter-American Development Bank,1153087]]"
-- "[[_Standards/WikiData/WD~European Payments Union,1377612]]"
-- "[[_Standards/WikiData/WD~Group of Ten,1411881]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~National Education Association,3111510]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~International Monetary Fund,7804]]"
+- "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
+- "[[_Standards/WikiData/WD~United_Nations_Peacekeeping_Force_in_Cyprus,694772]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~International_Chamber_of_Commerce,848633]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Permanent_Court_of_Arbitration,1045198]]"
+- "[[_Standards/WikiData/WD~International_Federation_of_Red_Cross_and_Red_Crescent_Societies,1069175]]"
+- "[[_Standards/WikiData/WD~International_Trade_Union_Confederation,1071706]]"
+- "[[_Standards/WikiData/WD~Inter-American_Development_Bank,1153087]]"
+- "[[_Standards/WikiData/WD~European_Payments_Union,1377612]]"
+- "[[_Standards/WikiData/WD~Group_of_Ten,1411881]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~National_Education_Association,3111510]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~International_Monetary_Fund,7804]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
 - '[[_Standards/WikiData/WD~Benelux,13116]]'
-- "[[_Standards/WikiData/WD~International Organization for Standardization,15028]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~International Olympic Committee,40970]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~International Atomic Energy Agency,41984]]"
-- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]"
+- "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
 - '[[_Standards/WikiData/WD~CERN,42944]]'
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-- "[[_Standards/WikiData/WD~International Criminal Court,47488]]"
-- "[[_Standards/WikiData/WD~International Labour Organization,54129]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- "[[_Standards/WikiData/WD~International_Criminal_Court,47488]]"
+- "[[_Standards/WikiData/WD~International_Labour_Organization,54129]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
 different_from:
 - '[[_Standards/WikiData/WD~Holland,102911]]'
-- "[[_Standards/WikiData/WD~European Netherlands,2118709]]"
-- "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~European_Netherlands,2118709]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 anthem: '[[_Standards/WikiData/WD~Wilhelmus,131713]]'
-head_of_state: "[[_Standards/WikiData/WD~William Alexander of the Netherlands,154952]]"
+head_of_state: "[[_Standards/WikiData/WD~William_Alexander_of_the_Netherlands,154952]]"
 owner_of:
-- "[[_Standards/WikiData/WD~The Milkmaid,167605]]"
-- "[[_Standards/WikiData/WD~Girl with a Pearl Earring,185372]]"
-- "[[_Standards/WikiData/WD~Het Loo Palace,692381]]"
+- "[[_Standards/WikiData/WD~The_Milkmaid,167605]]"
+- "[[_Standards/WikiData/WD~Girl_with_a_Pearl_Earring,185372]]"
+- "[[_Standards/WikiData/WD~Het_Loo_Palace,692381]]"
 - '[[_Standards/WikiData/WD~Novagraaf,3345347]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of the Netherlands,200191]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the Netherlands,238533]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Netherlands,200191]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Netherlands,238533]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~History of Ming,28763]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.nl,493202]]'
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
 located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Gooimeer,629864]]'
 - '[[_Standards/WikiData/WD~Markermeer,939766]]'
-- "[[_Standards/WikiData/WD~Wadden Sea,26080]]"
-- "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
-- "[[_Standards/WikiData/WD~North Sea,1693]]"
+- "[[_Standards/WikiData/WD~Wadden_Sea,26080]]"
+- "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
+- "[[_Standards/WikiData/WD~North_Sea,1693]]"
 - '[[_Standards/WikiData/WD~IJsselmeer,4121]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the Netherlands,676699]]"
-culture: "[[_Standards/WikiData/WD~culture of the Netherlands,924524]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Netherlands,980038]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the Netherlands,1075528]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Netherlands,676699]]"
+culture: "[[_Standards/WikiData/WD~culture_of_the_Netherlands,924524]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Netherlands,980038]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Netherlands,1075528]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-central_bank: "[[_Standards/WikiData/WD~De Nederlandsche Bank,1180205]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Scenery,1301834]]"
-legislative_body: "[[_Standards/WikiData/WD~States General,1371388]]"
-motto: "[[_Standards/WikiData/WD~Je maintiendrai,1684567]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~King of the Netherlands,2045066]]"
+central_bank: "[[_Standards/WikiData/WD~De_Nederlandsche_Bank,1180205]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Scenery,1301834]]"
+legislative_body: "[[_Standards/WikiData/WD~States_General,1371388]]"
+motto: "[[_Standards/WikiData/WD~Je_maintiendrai,1684567]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~King_of_the_Netherlands,2045066]]"
 lowest_point: '[[_Standards/WikiData/WD~Zuidplaspolder,2077313]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~European Netherlands,2118709]]"
-has_cabinet: "[[_Standards/WikiData/WD~Cabinet of the Netherlands,2479200]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of the Netherlands,3058109]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~European_Netherlands,2118709]]"
+has_cabinet: "[[_Standards/WikiData/WD~Cabinet_of_the_Netherlands,2479200]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_Netherlands,3058109]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~parliamentary monarchy,3330103]]"
-- "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-executive_body: "[[_Standards/WikiData/WD~Government of the Netherlands,4310949]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list of war memorials in Nederland,5456727]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Netherlands,7112767]]"
+- "[[_Standards/WikiData/WD~parliamentary_monarchy,3330103]]"
+- "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_the_Netherlands,4310949]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_war_memorials_in_Nederland,5456727]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Netherlands,7112767]]"
 official_language: '[[_Standards/WikiData/WD~Dutch,7411]]'
 part_of:
 - '[[_Standards/WikiData/WD~Benelux,13116]]'
-- "[[_Standards/WikiData/WD~Western Europe,27496]]"
-- "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
-replaces: "[[_Standards/WikiData/WD~United Kingdom of the Netherlands,15864]]"
+- "[[_Standards/WikiData/WD~Western_Europe,27496]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+replaces: "[[_Standards/WikiData/WD~United_Kingdom_of_the_Netherlands,15864]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Bonaire,25396]]'
 - '[[_Standards/WikiData/WD~Saba,25528]]'
-- "[[_Standards/WikiData/WD~Sint Eustatius,26180]]"
-- "[[_Standards/WikiData/WD~South Holland,694]]"
-- "[[_Standards/WikiData/WD~North Holland,701]]"
+- "[[_Standards/WikiData/WD~Sint_Eustatius,26180]]"
+- "[[_Standards/WikiData/WD~South_Holland,694]]"
+- "[[_Standards/WikiData/WD~North_Holland,701]]"
 - '[[_Standards/WikiData/WD~Flevoland,707]]'
 - '[[_Standards/WikiData/WD~Zeeland,705]]'
 - '[[_Standards/WikiData/WD~Groningen,752]]'
@@ -182,12 +182,12 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Overijssel,773]]'
 - '[[_Standards/WikiData/WD~Utrecht,776]]'
 - '[[_Standards/WikiData/WD~Limburg,1093]]'
-- "[[_Standards/WikiData/WD~North Brabant,1101]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
-country: "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~North_Brabant,1101]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
+country: "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -196,7 +196,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Greece,41]]'
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Belarus,184]]'
@@ -205,15 +205,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
@@ -262,7 +262,7 @@ water_as_percent_of_area: 18.7
 Gini_coefficient:
 - 25.4
 - 29.2
-flag: "[[_Standards/WikiData/WD~flag of the Netherlands,46585]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_Netherlands,46585]]"
 trunk_prefix: 0
 Happy_Planet_Index_score: 54.9
 Human_Development_Index: 0.931
@@ -396,17 +396,17 @@ urban_population:
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Netherlands,10815309]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 instance_of:
-- "[[_Standards/WikiData/WD~country of the Kingdom of the Netherlands,15304003]]"
+- "[[_Standards/WikiData/WD~country_of_the_Kingdom_of_the_Netherlands,15304003]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-head_of_government: "[[_Standards/WikiData/WD~Dick Schoof,22338116]]"
+head_of_government: "[[_Standards/WikiData/WD~Dick_Schoof,22338116]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q25681481,25681481]]'
 - '[[_Standards/WikiData/WD~Q42294346,42294346]]'
 - '[[_Standards/WikiData/WD~Q56249287,56249287]]'
 - '[[_Standards/WikiData/WD~Q104418522,104418522]]'
 - '[[_Standards/WikiData/WD~Netherlands,104418635]]'
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Portal Netherlands,97013475]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Netherlands,97013475]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
 coordinates_of_westernmost_point: "Point(3.36690187 51.36899408)"
 coordinates_of_easternmost_point: "Point(7.22737312 53.18021828)"
 nominal_GDP:

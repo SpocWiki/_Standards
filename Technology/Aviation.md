@@ -7,33 +7,33 @@ has_use:
 - '[[_Standards/WikiData/WD~research,42240]]'
 instance_of:
 - '[[_Standards/WikiData/WD~industry,268592]]'
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~military aviation,627716]]"
-- "[[_Standards/WikiData/WD~general aviation,1571929]]"
-- "[[_Standards/WikiData/WD~commercial aviation,9640723]]"
+- "[[_Standards/WikiData/WD~military_aviation,627716]]"
+- "[[_Standards/WikiData/WD~general_aviation,1571929]]"
+- "[[_Standards/WikiData/WD~commercial_aviation,9640723]]"
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~Q1433384,1433384]]'
-- "[[_Standards/WikiData/WD~air transport,1757562]]"
+- "[[_Standards/WikiData/WD~air_transport,1757562]]"
 - '[[_Standards/WikiData/WD~aeronautics,8421]]'
 practiced_by:
-- "[[_Standards/WikiData/WD~aircraft pilot,2095549]]"
-- "[[_Standards/WikiData/WD~aerospace engineer,15895020]]"
-- "[[_Standards/WikiData/WD~airship pilot,70597531]]"
-- "[[_Standards/WikiData/WD~aviation pioneer,88104927]]"
-- "[[_Standards/WikiData/WD~aviation writer,124153083]]"
-part_of: "[[_Standards/WikiData/WD~transportation industry,2516512]]"
+- "[[_Standards/WikiData/WD~aircraft_pilot,2095549]]"
+- "[[_Standards/WikiData/WD~aerospace_engineer,15895020]]"
+- "[[_Standards/WikiData/WD~airship_pilot,70597531]]"
+- "[[_Standards/WikiData/WD~aviation_pioneer,88104927]]"
+- "[[_Standards/WikiData/WD~aviation_writer,124153083]]"
+part_of: "[[_Standards/WikiData/WD~transportation_industry,2516512]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aviation-stub,6705836]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Aviation,8206366]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~vehicle operation,28692567]]"
-- "[[_Standards/WikiData/WD~human aerial activity,107290157]]"
+- "[[_Standards/WikiData/WD~vehicle_operation,28692567]]"
+- "[[_Standards/WikiData/WD~human_aerial_activity,107290157]]"
 different_from: '[[_Standards/WikiData/WD~ballooning,104534577]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Aviation,53054]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Aviation,53054]]"
 Dewey_Decimal_Classification: 387
 social_media_followers:
 - 242912

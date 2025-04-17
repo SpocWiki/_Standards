@@ -1,127 +1,127 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~Food and Agriculture Organization,82151]]"
-- "[[_Standards/WikiData/WD~Non-Aligned Movement,83201]]"
-- "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~UN Trade and Development,182000]]"
-- "[[_Standards/WikiData/WD~Community of Portuguese Language Countries,182500]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African Unity,191703]]"
-- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-- "[[_Standards/WikiData/WD~International Maritime Organization,201054]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations Industrial Development Organization,386120]]"
-- "[[_Standards/WikiData/WD~Group of 77,477328]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Fund for Agricultural Development,689859]]"
+- "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
+- "[[_Standards/WikiData/WD~Non-Aligned_Movement,83201]]"
+- "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~UN_Trade_and_Development,182000]]"
+- "[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African_Unity,191703]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
+- "[[_Standards/WikiData/WD~International_Maritime_Organization,201054]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations_Industrial_Development_Organization,386120]]"
+- "[[_Standards/WikiData/WD~Group_of_77,477328]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
 - '[[_Standards/WikiData/WD~Intelsat,778126]]'
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~United Nations Economic Commission for Africa,1144508]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~United_Nations_Economic_Commission_for_Africa,1144508]]"
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~International Monetary Fund,7804]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~International_Monetary_Fund,7804]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Cape Verde,102944]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Cape_Verde,102944]]"
 located_in_on_physical_feature:
 - '[[_Standards/WikiData/WD~Macaronesia,105472]]'
-- "[[_Standards/WikiData/WD~Cape Verde Archipelago,115212222]]"
-coat_of_arms: "[[_Standards/WikiData/WD~National emblem of Cape Verde,107140]]"
-anthem: "[[_Standards/WikiData/WD~Cântico da Liberdade,110159]]"
+- "[[_Standards/WikiData/WD~Cape_Verde_Archipelago,115212222]]"
+coat_of_arms: "[[_Standards/WikiData/WD~National_emblem_of_Cape_Verde,107140]]"
+anthem: "[[_Standards/WikiData/WD~Cântico_da_Liberdade,110159]]"
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 public_holiday:
-- "[[_Standards/WikiData/WD~Assumption of Mary,162691]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Labour Day,10901070]]"
-- "[[_Standards/WikiData/WD~Independence Day,14757695]]"
-- "[[_Standards/WikiData/WD~Heroes' Day,14757696]]"
-- "[[_Standards/WikiData/WD~All Saints' Day,587]]"
-follows: "[[_Standards/WikiData/WD~Portuguese Empire,200464]]"
+- "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Labour_Day,10901070]]"
+- "[[_Standards/WikiData/WD~Independence_Day,14757695]]"
+- "[[_Standards/WikiData/WD~Heroes'_Day,14757696]]"
+- "[[_Standards/WikiData/WD~All_Saints'_Day,587]]"
+follows: "[[_Standards/WikiData/WD~Portuguese_Empire,200464]]"
 different_from: '[[_Standards/WikiData/WD~Cap-Vert,216889]]'
 named_after: '[[_Standards/WikiData/WD~Cap-Vert,216889]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~São Lourenço dos Órgãos,494726]]"
-- "[[_Standards/WikiData/WD~São Miguel,494874]]"
-- "[[_Standards/WikiData/WD~São Salvador do Mundo,494877]]"
-- "[[_Standards/WikiData/WD~Santa Catarina,494882]]"
+- "[[_Standards/WikiData/WD~São_Lourenço_dos_Órgãos,494726]]"
+- "[[_Standards/WikiData/WD~São_Miguel,494874]]"
+- "[[_Standards/WikiData/WD~São_Salvador_do_Mundo,494877]]"
+- "[[_Standards/WikiData/WD~Santa_Catarina,494882]]"
 - '[[_Standards/WikiData/WD~Praia,497019]]'
-- "[[_Standards/WikiData/WD~Santa Cruz,497472]]"
-- "[[_Standards/WikiData/WD~São Domingos,499009]]"
+- "[[_Standards/WikiData/WD~Santa_Cruz,497472]]"
+- "[[_Standards/WikiData/WD~São_Domingos,499009]]"
 - '[[_Standards/WikiData/WD~Tarrafal,499598]]'
-- "[[_Standards/WikiData/WD~Ribeira Grande de Santiago,499620]]"
+- "[[_Standards/WikiData/WD~Ribeira_Grande_de_Santiago,499620]]"
 - '[[_Standards/WikiData/WD~Mosteiros,516835]]'
-- "[[_Standards/WikiData/WD~São Vicente,648842]]"
-- "[[_Standards/WikiData/WD~Ribeira Brava Municipality,747221]]"
-- "[[_Standards/WikiData/WD~Ribeira Grande,1355642]]"
+- "[[_Standards/WikiData/WD~São_Vicente,648842]]"
+- "[[_Standards/WikiData/WD~Ribeira_Brava_Municipality,747221]]"
+- "[[_Standards/WikiData/WD~Ribeira_Grande,1355642]]"
 - '[[_Standards/WikiData/WD~Paul,1475374]]'
-- "[[_Standards/WikiData/WD~Porto Novo,1552897]]"
-- "[[_Standards/WikiData/WD~Tarrafal de São Nicolau,1895853]]"
+- "[[_Standards/WikiData/WD~Porto_Novo,1552897]]"
+- "[[_Standards/WikiData/WD~Tarrafal_de_São_Nicolau,1895853]]"
 - '[[_Standards/WikiData/WD~Maio,2551133]]'
 - '[[_Standards/WikiData/WD~Brava,2571624]]'
-- "[[_Standards/WikiData/WD~Santa Catarina do Fogo,2608046]]"
+- "[[_Standards/WikiData/WD~Santa_Catarina_do_Fogo,2608046]]"
 - '[[_Standards/WikiData/WD~Sal,2721003]]'
-- "[[_Standards/WikiData/WD~Boa Vista,2721025]]"
-- "[[_Standards/WikiData/WD~São Filipe,6430079]]"
-highest_point: "[[_Standards/WikiData/WD~Pico do Fogo,499108]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Cape Verde,512094]]"
-culture: "[[_Standards/WikiData/WD~culture of Cape Verde,598396]]"
+- "[[_Standards/WikiData/WD~Boa_Vista,2721025]]"
+- "[[_Standards/WikiData/WD~São_Filipe,6430079]]"
+highest_point: "[[_Standards/WikiData/WD~Pico_do_Fogo,499108]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Cape_Verde,512094]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Cape_Verde,598396]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
 part_of:
-- "[[_Standards/WikiData/WD~Portuguese-speaking African countries,1360686]]"
-- "[[_Standards/WikiData/WD~West Africa,4412]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of Cape Verde,1718790]]"
+- "[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686]]"
+- "[[_Standards/WikiData/WD~West_Africa,4412]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Cape_Verde,1718790]]"
 foods_traditionally_associated:
 - '[[_Standards/WikiData/WD~Cachupa,2060858]]'
-- "[[_Standards/WikiData/WD~bolinhos de mandioca com mel,4939470]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Cape Verde,2309688]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Cape Verde,2878026]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Cape Verde,2989067]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~bolinhos_de_mandioca_com_mel,4939470]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Cape_Verde,2309688]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Cape_Verde,2878026]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Cape_Verde,2989067]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Cape Verde Time,3208688]]"
+- "[[_Standards/WikiData/WD~Cape_Verde_Time,3208688]]"
 - '[[_Standards/WikiData/WD~Atlantic_Cape_Verde,63285925]]'
 - '[[_Standards/WikiData/WD~UTC−01_00,6540]]'
-central_bank: "[[_Standards/WikiData/WD~Bank of Cape Verde,4077341]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-replaces: "[[_Standards/WikiData/WD~Republic of the Cape Verde Islands,4393598]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Cape Verde,7112222]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cape Verde,10955046]]"
-foundational_text: "[[_Standards/WikiData/WD~Constitution of the Republic of Cape Verde (1992),13381335]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supremo Tribunal de Justiça,13381385]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Cape_Verde,4077341]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+replaces: "[[_Standards/WikiData/WD~Republic_of_the_Cape_Verde_Islands,4393598]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Cape_Verde,7112222]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cape_Verde,10955046]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution_of_the_Republic_of_Cape_Verde_(1992),13381335]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supremo_Tribunal_de_Justiça,13381385]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-archives_at: "[[_Standards/WikiData/WD~Arquivo Nacional de Cabo Verde,14915083]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Cape Verde,19058382]]"
-head_of_government: "[[_Standards/WikiData/WD~Ulisses Correia e Silva,23899522]]"
+archives_at: "[[_Standards/WikiData/WD~Arquivo_Nacional_de_Cabo_Verde,14915083]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Cape_Verde,19058382]]"
+head_of_government: "[[_Standards/WikiData/WD~Ulisses_Correia_e_Silva,23899522]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~130,25648847]]'
 - '[[_Standards/WikiData/WD~131,25648848]]'
 - '[[_Standards/WikiData/WD~132,25648849]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Cabo Verde,30100568]]"
-lowest_point: "[[_Standards/WikiData/WD~Pedra de Lume salt ponds,65688954]]"
-studied_in: "[[_Standards/WikiData/WD~Cape Verde studies,115669342]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Cabo_Verde,30100568]]"
+lowest_point: "[[_Standards/WikiData/WD~Pedra_de_Lume_salt_ponds,65688954]]"
+studied_in: "[[_Standards/WikiData/WD~Cape_Verde_studies,115669342]]"
 UMLS_CUI: C0006893
 nominal_GDP:
 - 2314816792
@@ -168,30 +168,30 @@ MeSH_tree_code:
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Verde%20islands%20resized.jpg"
 coordinates_of_easternmost_point: "Point(-22.665277777 16.085)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Portugal,45]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
-country: "[[_Standards/WikiData/WD~Cape Verde,1011]]"
+country: "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
 capital: '[[_Standards/WikiData/WD~Praia,3751]]'
 language_used:
 - '[[_Standards/WikiData/WD~Portuguese,5146]]'
-- "[[_Standards/WikiData/WD~Cape Verdean Creole,35963]]"
+- "[[_Standards/WikiData/WD~Cape_Verdean_Creole,35963]]"
 official_language:
 - '[[_Standards/WikiData/WD~Portuguese,5146]]'
-- "[[_Standards/WikiData/WD~Cape Verdean Creole,35963]]"
+- "[[_Standards/WikiData/WD~Cape_Verdean_Creole,35963]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 VAT_rate: 15
 mains_voltage: 220
 literacy_rate: 87
@@ -200,7 +200,7 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.cv,41022]]'
 Gini_coefficient: 42.4
 Human_Development_Index: 0.662
 Democracy_Index: 7.65
-head_of_state: "[[_Standards/WikiData/WD~José Maria Neves,57649]]"
+head_of_state: "[[_Standards/WikiData/WD~José_Maria_Neves,57649]]"
 ISO_3166_1_numeric_code: 132
 M49_code: 132
 total_fertility_rate: 2.303

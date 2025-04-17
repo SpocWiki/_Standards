@@ -8,34 +8,34 @@ different_from:
 - '[[_Standards/WikiData/WD~Planet,1817113]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~radius,173817]]'
-- "[[_Standards/WikiData/WD~orbital elements,272626]]"
-- "[[_Standards/WikiData/WD~clearing the neighbourhood,681824]]"
-- "[[_Standards/WikiData/WD~surface area,1379273]]"
-- "[[_Standards/WikiData/WD~planetary magnetic field,4274059]]"
+- "[[_Standards/WikiData/WD~orbital_elements,272626]]"
+- "[[_Standards/WikiData/WD~clearing_the_neighbourhood,681824]]"
+- "[[_Standards/WikiData/WD~surface_area,1379273]]"
+- "[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]"
 - '[[_Standards/WikiData/WD~age,100343219]]'
 - '[[_Standards/WikiData/WD~mass,11423]]'
 - '[[_Standards/WikiData/WD~volume,39297]]'
-part_of: "[[_Standards/WikiData/WD~planetary system,206717]]"
+part_of: "[[_Standards/WikiData/WD~planetary_system,206717]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~planetary-mass object,400144]]"
-- "[[_Standards/WikiData/WD~substellar object,3132741]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~star system,595871]]"
+- "[[_Standards/WikiData/WD~planetary-mass_object,400144]]"
+- "[[_Standards/WikiData/WD~substellar_object,3132741]]"
+parent_astronomical_body: "[[_Standards/WikiData/WD~star_system,595871]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 next_lower_rank:
-- "[[_Standards/WikiData/WD~minor planet,1022867]]"
-- "[[_Standards/WikiData/WD~natural satellite,2537]]"
+- "[[_Standards/WikiData/WD~minor_planet,1022867]]"
+- "[[_Standards/WikiData/WD~natural_satellite,2537]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox planet,5864499]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_planet,5864499]]"
 - '[[_Standards/WikiData/WD~Q22772854,22772854]]'
-instance_of: "[[_Standards/WikiData/WD~astronomical object type,17444909]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Planet,110737024]]'
 Provenio_UUID: f95dd27c-36b7-42cc-afb3-bb39d733c282
 UMLS_CUI: C0080026
@@ -48,7 +48,7 @@ model_item:
 - '[[_Standards/WikiData/WD~Mars,111]]'
 - '[[_Standards/WikiData/WD~Saturn,193]]'
 next_higher_rank: '[[_Standards/WikiData/WD~star,523]]'
-child_astronomical_body: "[[_Standards/WikiData/WD~artificial satellite,26540]]"
+child_astronomical_body: "[[_Standards/WikiData/WD~artificial_satellite,26540]]"
 Colon_Classification: B94
 equivalent_class: "http://dbpedia.org/ontology/Planet"
 exact_match: "http://purl.obolibrary.org/obo/ENVO_01000800"

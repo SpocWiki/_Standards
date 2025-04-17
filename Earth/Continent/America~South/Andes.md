@@ -1,19 +1,19 @@
 ﻿---
 has_id_wikidata: Q5456
-significant_event: "[[_Standards/WikiData/WD~Zonda wind,219855]]"
+significant_event: "[[_Standards/WikiData/WD~Zonda_wind,219855]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
-mountain_range: "[[_Standards/WikiData/WD~American Cordillera,605761]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
+mountain_range: "[[_Standards/WikiData/WD~American_Cordillera,605761]]"
 BHCL_UUID: cab2207f-240e-43d5-bb3f-bc5a4ce221c6
 country:
 - '[[_Standards/WikiData/WD~Chile,298]]'
@@ -23,12 +23,12 @@ country:
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Ecuador,736]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~South America,18]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_America,18]]"
 width: 500
 length: 7000
 area: 3300000
 highest_point: '[[_Standards/WikiData/WD~Aconcagua,39739]]'
-instance_of: "[[_Standards/WikiData/WD~mountain system,46831]]"
+instance_of: "[[_Standards/WikiData/WD~mountain_system,46831]]"
 elevation_above_sea_level: 6962
 OmegaWiki_Defined_Meaning: 155081
 Commons_gallery: Andes

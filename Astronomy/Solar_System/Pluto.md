@@ -37,24 +37,24 @@ child_astronomical_body:
 - '[[_Standards/WikiData/WD~Styx,105713]]'
 - '[[_Standards/WikiData/WD~Charon,6604]]'
 named_after: '[[_Standards/WikiData/WD~Pluto,152262]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Clyde Tombaugh,190232]]"
-named_by: "[[_Standards/WikiData/WD~Venetia Burney,242989]]"
-site_of_astronomical_discovery: "[[_Standards/WikiData/WD~Lowell Observatory,466895]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Clyde_Tombaugh,190232]]"
+named_by: "[[_Standards/WikiData/WD~Venetia_Burney,242989]]"
+site_of_astronomical_discovery: "[[_Standards/WikiData/WD~Lowell_Observatory,466895]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Yuggoth,1142280]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-has_use: "[[_Standards/WikiData/WD~colonization of Pluto,2984276]]"
-followed_by: "[[_Standards/WikiData/WD~(134341) 1979 MA,3454005]]"
-follows: "[[_Standards/WikiData/WD~(134339) 5628 T-3,3454012]]"
-has_part_s_: "[[_Standards/WikiData/WD~atmosphere of Pluto,3628984]]"
-location: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+has_use: "[[_Standards/WikiData/WD~colonization_of_Pluto,2984276]]"
+followed_by: "[[_Standards/WikiData/WD~(134341)_1979_MA,3454005]]"
+follows: "[[_Standards/WikiData/WD~(134339)_5628_T-3,3454012]]"
+has_part_s_: "[[_Standards/WikiData/WD~atmosphere_of_Pluto,3628984]]"
+location: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
 different_from: '[[_Standards/WikiData/WD~Pluton,12141104]]'
 studied_in:
-- "[[_Standards/WikiData/WD~geology of Pluto,20678700]]"
+- "[[_Standards/WikiData/WD~geology_of_Pluto,20678700]]"
 - '[[_Standards/WikiData/WD~hadeology,131627505]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Pluto,20679649]]"
-highest_point: "[[_Standards/WikiData/WD~Tenzing Montes,20679657]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Pluto,20679649]]"
+highest_point: "[[_Standards/WikiData/WD~Tenzing_Montes,20679657]]"
 significant_event: '[[_Standards/WikiData/WD~naming,25488743]]'
-part_of: "[[_Standards/WikiData/WD~Pluto System,108855214]]"
+part_of: "[[_Standards/WikiData/WD~Pluto_System,108855214]]"
 longitude_of_ascending_node: 110.30393684
 astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pluto%20symbol%20%28large%20orb%2C%20fixed%20width%29.svg"
 UMLS_CUI: C0242761
@@ -63,8 +63,8 @@ IPA_transcription: ˈpluːto
 MeSH_tree_code: G01.060.075.730.600.500
 mean_anomaly: 25.2471897
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-instance_of: "[[_Standards/WikiData/WD~dwarf planet,2199]]"
-minor_planet_group: "[[_Standards/WikiData/WD~trans-Neptunian object,6592]]"
+instance_of: "[[_Standards/WikiData/WD~dwarf_planet,2199]]"
+minor_planet_group: "[[_Standards/WikiData/WD~trans-Neptunian_object,6592]]"
 absolute_magnitude: -0.7
 flattening: 1
 albedo: 0.6

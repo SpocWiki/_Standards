@@ -1,13 +1,13 @@
 ﻿---
 has_id_wikidata: Q10251
-different_from: "[[_Standards/WikiData/WD~blood plasma,79749]]"
+different_from: "[[_Standards/WikiData/WD~blood_plasma,79749]]"
 studied_in:
-- "[[_Standards/WikiData/WD~plasma physics,5615097]]"
-- "[[_Standards/WikiData/WD~plasma chemistry,12140686]]"
+- "[[_Standards/WikiData/WD~plasma_physics,5615097]]"
+- "[[_Standards/WikiData/WD~plasma_chemistry,12140686]]"
 instance_of:
-- "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
-- "[[_Standards/WikiData/WD~classical state of matter,52063183]]"
-manifestation_of: "[[_Standards/WikiData/WD~plasma state of matter,29148313]]"
+- "[[_Standards/WikiData/WD~fundamental_state_of_matter,15831576]]"
+- "[[_Standards/WikiData/WD~classical_state_of_matter,52063183]]"
+manifestation_of: "[[_Standards/WikiData/WD~plasma_state_of_matter,29148313]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~gas,11432]]'
 - '[[_Standards/WikiData/WD~matter,35758]]'

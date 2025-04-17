@@ -29,28 +29,28 @@ short_name:
 - 東盟
 - 亚细安
 - ANASO
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of the Association of Southeast Asian Nations,128544]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_the_Association_of_Southeast_Asian_Nations,128544]]"
 instance_of:
 - '[[_Standards/WikiData/WD~confederation,170156]]'
-- "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
-- "[[_Standards/WikiData/WD~regional organization,4120211]]"
-- "[[_Standards/WikiData/WD~geopolitical group,52110228]]"
+- "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
+- "[[_Standards/WikiData/WD~regional_organization,4120211]]"
+- "[[_Standards/WikiData/WD~geopolitical_group,52110228]]"
 official_observer_status_in_organisation:
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
-partnership_with: "[[_Standards/WikiData/WD~International Fund for Agricultural Development,689859]]"
-replaces: "[[_Standards/WikiData/WD~Association of South-East Asia,743994]]"
-flag: "[[_Standards/WikiData/WD~flag of the Association of Southeast Asian Nations,783490]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+partnership_with: "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
+replaces: "[[_Standards/WikiData/WD~Association_of_South-East_Asia,743994]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_Association_of_Southeast_Asian_Nations,783490]]"
 founded_by:
-- "[[_Standards/WikiData/WD~Ministry of Foreign Affairs of Thailand,789856]]"
-- "[[_Standards/WikiData/WD~Ministry of Foreign Affairs of Malaysia,3527309]]"
-- "[[_Standards/WikiData/WD~Department of Foreign Affairs,3545663]]"
-- "[[_Standards/WikiData/WD~Ministry of Foreign Affairs of the Republic of Singapore,4294400]]"
-- "[[_Standards/WikiData/WD~Ministry of Foreign Affairs,12490747]]"
+- "[[_Standards/WikiData/WD~Ministry_of_Foreign_Affairs_of_Thailand,789856]]"
+- "[[_Standards/WikiData/WD~Ministry_of_Foreign_Affairs_of_Malaysia,3527309]]"
+- "[[_Standards/WikiData/WD~Department_of_Foreign_Affairs,3545663]]"
+- "[[_Standards/WikiData/WD~Ministry_of_Foreign_Affairs_of_the_Republic_of_Singapore,4294400]]"
+- "[[_Standards/WikiData/WD~Ministry_of_Foreign_Affairs,12490747]]"
 official_language:
-- "[[_Standards/WikiData/WD~Singaporean Mandarin,1048980]]"
-- "[[_Standards/WikiData/WD~Southeast Asian English,25104285]]"
-- "[[_Standards/WikiData/WD~Singaporean Malay,119217533]]"
+- "[[_Standards/WikiData/WD~Singaporean_Mandarin,1048980]]"
+- "[[_Standards/WikiData/WD~Southeast_Asian_English,25104285]]"
+- "[[_Standards/WikiData/WD~Singaporean_Malay,119217533]]"
 - '[[_Standards/WikiData/WD~Tamil,5885]]'
 - '[[_Standards/WikiData/WD~Vietnamese,9199]]'
 - '[[_Standards/WikiData/WD~Khmer,9205]]'
@@ -58,18 +58,18 @@ official_language:
 - '[[_Standards/WikiData/WD~Thai,9217]]'
 - '[[_Standards/WikiData/WD~Burmese,9228]]'
 - '[[_Standards/WikiData/WD~Indonesian,9240]]'
-- "[[_Standards/WikiData/WD~Malaysian Malay,15065]]"
+- "[[_Standards/WikiData/WD~Malaysian_Malay,15065]]"
 - '[[_Standards/WikiData/WD~Tagalog,34057]]'
-anthem: "[[_Standards/WikiData/WD~The ASEAN Way,4922020]]"
+anthem: "[[_Standards/WikiData/WD~The_ASEAN_Way,4922020]]"
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Politics,5492483]]"
-- "[[_Standards/WikiData/WD~WikiProject Southeast Asia,14944090]]"
-- "[[_Standards/WikiData/WD~WikiProject International relations,15304945]]"
-- "[[_Standards/WikiData/WD~WikiProject Organizations,21830563]]"
-- "[[_Standards/WikiData/WD~WikiProject Trade,21830927]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Association of Southeast Asian Nations (ASEAN),6845384]]"
+- "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
+- "[[_Standards/WikiData/WD~WikiProject_Southeast_Asia,14944090]]"
+- "[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]"
+- "[[_Standards/WikiData/WD~WikiProject_Organizations,21830563]]"
+- "[[_Standards/WikiData/WD~WikiProject_Trade,21830927]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Association_of_Southeast_Asian_Nations_(ASEAN),6845384]]"
 has_subsidiary: '[[_Standards/WikiData/WD~ASEANstats,55703876]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 Libris_URI: 75kmks9r3tdq5ld
 ISNI:
 - 0000000121770221
@@ -80,7 +80,7 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Laos,819]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Myanmar,836]]'
@@ -89,10 +89,10 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-diplomatic_relation: "[[_Standards/WikiData/WD~European Union,458]]"
+diplomatic_relation: "[[_Standards/WikiData/WD~European_Union,458]]"
 location_of_formation: '[[_Standards/WikiData/WD~Bangkok,1861]]'
-headquarters_location: "[[_Standards/WikiData/WD~South Jakarta,10114]]"
-operating_area: "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
+headquarters_location: "[[_Standards/WikiData/WD~South_Jakarta,10114]]"
+operating_area: "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
 member_count: 10
 social_media_followers:
 - 19800

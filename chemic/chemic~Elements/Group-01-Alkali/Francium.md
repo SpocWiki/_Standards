@@ -5,16 +5,16 @@ has_id_wikidata: Q671
 subclass_of:
 - '[[_Standards/WikiData/WD~s-block,208106]]'
 - '[[_Standards/WikiData/WD~metal,11426]]'
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Marguerite Perey,241822]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Marguerite_Perey,241822]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
-- "[[_Standards/WikiData/WD~group 1,10801007]]"
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
+- "[[_Standards/WikiData/WD~group_1,10801007]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 UMLS_CUI: C0016678
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg"
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
 location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
 named_after: '[[_Standards/WikiData/WD~France,142]]'

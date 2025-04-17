@@ -8,28 +8,28 @@ InChI: InChI=1S/Bi
 InChIKey: JCXGWMGPZLAOME-UHFFFAOYSA-N
 UNII: U015TT5I8H
 part_of:
-- "[[_Standards/WikiData/WD~group 15,106675]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~group_15,106675]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 subject_has_role: '[[_Standards/WikiData/WD~antacid,274083]]'
 instance_of:
 - '[[_Standards/WikiData/WD~commodity,317088]]'
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 medical_condition_treated:
 - '[[_Standards/WikiData/WD~shigellosis,327298]]'
-- "[[_Standards/WikiData/WD~bacterial infectious disease,727028]]"
-- "[[_Standards/WikiData/WD~viral infectious disease,1928978]]"
-- "[[_Standards/WikiData/WD~Escherichia coli infectious disease,4227886]]"
-- "[[_Standards/WikiData/WD~peripheral vascular disease,26695607]]"
-crystal_system: "[[_Standards/WikiData/WD~trigonal crystal system,588274]]"
+- "[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]"
+- "[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]"
+- "[[_Standards/WikiData/WD~Escherichia_coli_infectious_disease,4227886]]"
+- "[[_Standards/WikiData/WD~peripheral_vascular_disease,26695607]]"
+crystal_system: "[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20158.jpg"
-subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 ionic_radius:
 - 0.76
 - 0.96

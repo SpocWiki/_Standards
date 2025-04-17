@@ -1,10 +1,10 @@
 ---
 has_id_wikidata: Q332
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Johann Gottfried Galle,76431]]"
-- "[[_Standards/WikiData/WD~Urbain Le Verrier,104154]]"
-- "[[_Standards/WikiData/WD~Heinrich Louis d'Arrest,155013]]"
-- "[[_Standards/WikiData/WD~John Couch Adams,20015]]"
+- "[[_Standards/WikiData/WD~Johann_Gottfried_Galle,76431]]"
+- "[[_Standards/WikiData/WD~Urbain_Le_Verrier,104154]]"
+- "[[_Standards/WikiData/WD~Heinrich_Louis_d'Arrest,155013]]"
+- "[[_Standards/WikiData/WD~John_Couch_Adams,20015]]"
 different_from:
 - '[[_Standards/WikiData/WD~Neptuno,102264]]'
 - '[[_Standards/WikiData/WD~Neptun,1261928]]'
@@ -12,29 +12,29 @@ different_from:
 - '[[_Standards/WikiData/WD~Neptunus,106437149]]'
 - '[[_Standards/WikiData/WD~Q110992732,110992732]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-site_of_astronomical_discovery: "[[_Standards/WikiData/WD~Berlin Observatory,698950]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+site_of_astronomical_discovery: "[[_Standards/WikiData/WD~Berlin_Observatory,698950]]"
 instance_of:
-- "[[_Standards/WikiData/WD~superior planet,844911]]"
-- "[[_Standards/WikiData/WD~ice giant,1319599]]"
-- "[[_Standards/WikiData/WD~outer planet,30014]]"
+- "[[_Standards/WikiData/WD~superior_planet,844911]]"
+- "[[_Standards/WikiData/WD~ice_giant,1319599]]"
+- "[[_Standards/WikiData/WD~outer_planet,30014]]"
 child_astronomical_body:
-- "[[_Standards/WikiData/WD~Adams ring,2824069]]"
-- "[[_Standards/WikiData/WD~Arago ring,2859429]]"
-- "[[_Standards/WikiData/WD~Galle ring,3094782]]"
-- "[[_Standards/WikiData/WD~Lassell ring,3218345]]"
-- "[[_Standards/WikiData/WD~Le Verrier ring,3228065]]"
+- "[[_Standards/WikiData/WD~Adams_ring,2824069]]"
+- "[[_Standards/WikiData/WD~Arago_ring,2859429]]"
+- "[[_Standards/WikiData/WD~Galle_ring,3094782]]"
+- "[[_Standards/WikiData/WD~Lassell_ring,3218345]]"
+- "[[_Standards/WikiData/WD~Le_Verrier_ring,3228065]]"
 - '[[_Standards/WikiData/WD~Courage,3616602]]'
-- "[[_Standards/WikiData/WD~Égalité 2,3616603]]"
+- "[[_Standards/WikiData/WD~Égalité_2,3616603]]"
 - '[[_Standards/WikiData/WD~Liberté,3616607]]'
-- "[[_Standards/WikiData/WD~Égalité 1,3616604]]"
+- "[[_Standards/WikiData/WD~Égalité_1,3616604]]"
 - '[[_Standards/WikiData/WD~Fraternité,3616605]]'
 - '[[_Standards/WikiData/WD~Hippocamp,13938622]]'
 - '[[_Standards/WikiData/WD~Triton,3359]]'
@@ -50,14 +50,14 @@ child_astronomical_body:
 - '[[_Standards/WikiData/WD~Laomedeia,19527]]'
 - '[[_Standards/WikiData/WD~Psamathe,19535]]'
 - '[[_Standards/WikiData/WD~Neso,19574]]'
-has_part_s_: "[[_Standards/WikiData/WD~magnetosphere of Neptune,3843313]]"
-part_of: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
-location: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
+has_part_s_: "[[_Standards/WikiData/WD~magnetosphere_of_Neptune,3843313]]"
+part_of: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
+location: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Neptune,5651603]]'
 semi_major_axis_of_an_orbit:
 - 4503443661
 - 30.06992276
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Neptune,30589066]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Neptune,30589066]]"
 studied_in: '[[_Standards/WikiData/WD~poseidology,131626776]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Neptune%20Voyager2%20color%20calibrated.png"
 apoapsis: 4537039826

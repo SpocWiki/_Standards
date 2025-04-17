@@ -2,48 +2,48 @@
 shares_border_with:
 - '[[_Standards/WikiData/WD~Levant,81483]]'
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
-- "[[_Standards/WikiData/WD~Bir Tawil,620634]]"
+- "[[_Standards/WikiData/WD~Bir_Tawil,620634]]"
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Egypt,106605]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Egypt,106605]]"
 replaces:
-- "[[_Standards/WikiData/WD~Kingdom of Egypt,124943]]"
-- "[[_Standards/WikiData/WD~All-Palestine Government,2051582]]"
-flag: "[[_Standards/WikiData/WD~flag of Egypt,130458]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Egypt,124943]]"
+- "[[_Standards/WikiData/WD~All-Palestine_Government,2051582]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Egypt,130458]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
-- "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
+- "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 named_after:
 - '[[_Standards/WikiData/WD~Ptah,146321]]'
 - '[[_Standards/WikiData/WD~Mizraim,1369215]]'
-anthem: "[[_Standards/WikiData/WD~Bilady, Bilady, Bilady,171602]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Egypt,185301]]"
+anthem: "[[_Standards/WikiData/WD~Bilady,_Bilady,_Bilady,171602]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Egypt,185301]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
@@ -61,8 +61,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -73,14 +73,14 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
@@ -90,99 +90,99 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Zambia,953]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~History of Ming,28763]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-head_of_state: "[[_Standards/WikiData/WD~Abdel Fattah el-Sisi,307871]]"
-has_part_s_: "[[_Standards/WikiData/WD~Lower Egypt,463871]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+head_of_state: "[[_Standards/WikiData/WD~Abdel_Fattah_el-Sisi,307871]]"
+has_part_s_: "[[_Standards/WikiData/WD~Lower_Egypt,463871]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Helwan Governorate,475035]]"
-- "[[_Standards/WikiData/WD~Aswan Governorate,29937]]"
-- "[[_Standards/WikiData/WD~Alexandria Governorate,29943]]"
-- "[[_Standards/WikiData/WD~Asyut Governorate,29965]]"
-- "[[_Standards/WikiData/WD~Beheira Governorate,30630]]"
-- "[[_Standards/WikiData/WD~Damietta Governorate,30644]]"
-- "[[_Standards/WikiData/WD~New Valley Governorate,30650]]"
-- "[[_Standards/WikiData/WD~Faiyum Governorate,30656]]"
-- "[[_Standards/WikiData/WD~North Sinai Governorate,30662]]"
-- "[[_Standards/WikiData/WD~Sohag Governorate,30669]]"
-- "[[_Standards/WikiData/WD~Minya Governorate,30675]]"
-- "[[_Standards/WikiData/WD~Matruh Governorate,30682]]"
-- "[[_Standards/WikiData/WD~Beni Suef Governorate,30683]]"
-- "[[_Standards/WikiData/WD~Monufia Governorate,30786]]"
-- "[[_Standards/WikiData/WD~Luxor Governorate,30797]]"
-- "[[_Standards/WikiData/WD~Cairo Governorate,30805]]"
-- "[[_Standards/WikiData/WD~South Sinai Governorate,30815]]"
-- "[[_Standards/WikiData/WD~Red Sea Governorate,30831]]"
-- "[[_Standards/WikiData/WD~Gharbia Governorate,30835]]"
-- "[[_Standards/WikiData/WD~Giza Governorate,30832]]"
-- "[[_Standards/WikiData/WD~Kafr el-Sheikh Governorate,30946]]"
-- "[[_Standards/WikiData/WD~Ismailia Governorate,31067]]"
-- "[[_Standards/WikiData/WD~Qena Governorate,31065]]"
-- "[[_Standards/WikiData/WD~Suez Governorate,31070]]"
-- "[[_Standards/WikiData/WD~Dakahlia Governorate,31068]]"
-- "[[_Standards/WikiData/WD~Sharqia Governorate,31074]]"
-- "[[_Standards/WikiData/WD~Qalyubia Governorate,31075]]"
-- "[[_Standards/WikiData/WD~Port Said Governorate,31079]]"
-lowest_point: "[[_Standards/WikiData/WD~Qattara Depression,841050]]"
+- "[[_Standards/WikiData/WD~Helwan_Governorate,475035]]"
+- "[[_Standards/WikiData/WD~Aswan_Governorate,29937]]"
+- "[[_Standards/WikiData/WD~Alexandria_Governorate,29943]]"
+- "[[_Standards/WikiData/WD~Asyut_Governorate,29965]]"
+- "[[_Standards/WikiData/WD~Beheira_Governorate,30630]]"
+- "[[_Standards/WikiData/WD~Damietta_Governorate,30644]]"
+- "[[_Standards/WikiData/WD~New_Valley_Governorate,30650]]"
+- "[[_Standards/WikiData/WD~Faiyum_Governorate,30656]]"
+- "[[_Standards/WikiData/WD~North_Sinai_Governorate,30662]]"
+- "[[_Standards/WikiData/WD~Sohag_Governorate,30669]]"
+- "[[_Standards/WikiData/WD~Minya_Governorate,30675]]"
+- "[[_Standards/WikiData/WD~Matruh_Governorate,30682]]"
+- "[[_Standards/WikiData/WD~Beni_Suef_Governorate,30683]]"
+- "[[_Standards/WikiData/WD~Monufia_Governorate,30786]]"
+- "[[_Standards/WikiData/WD~Luxor_Governorate,30797]]"
+- "[[_Standards/WikiData/WD~Cairo_Governorate,30805]]"
+- "[[_Standards/WikiData/WD~South_Sinai_Governorate,30815]]"
+- "[[_Standards/WikiData/WD~Red_Sea_Governorate,30831]]"
+- "[[_Standards/WikiData/WD~Gharbia_Governorate,30835]]"
+- "[[_Standards/WikiData/WD~Giza_Governorate,30832]]"
+- "[[_Standards/WikiData/WD~Kafr_el-Sheikh_Governorate,30946]]"
+- "[[_Standards/WikiData/WD~Ismailia_Governorate,31067]]"
+- "[[_Standards/WikiData/WD~Qena_Governorate,31065]]"
+- "[[_Standards/WikiData/WD~Suez_Governorate,31070]]"
+- "[[_Standards/WikiData/WD~Dakahlia_Governorate,31068]]"
+- "[[_Standards/WikiData/WD~Sharqia_Governorate,31074]]"
+- "[[_Standards/WikiData/WD~Qalyubia_Governorate,31075]]"
+- "[[_Standards/WikiData/WD~Port_Said_Governorate,31079]]"
+lowest_point: "[[_Standards/WikiData/WD~Qattara_Depression,841050]]"
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.مصر,914712]]'
 - '[[_Standards/WikiData/WD~.eg,40381]]'
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Egypt,920699]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Egypt,920699]]"
 ethnic_group: '[[_Standards/WikiData/WD~Egyptians,1061510]]'
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-highest_point: "[[_Standards/WikiData/WD~Mount Catherine,1140642]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Catherine,1140642]]"
 instance_of:
-- "[[_Standards/WikiData/WD~transcontinental country,1323642]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~transcontinental_country,1323642]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Egypt,1451495]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Egypt,1571396]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Egypt,1987090]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Constitutional Court of Egypt,2156821]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Egypt,2354232]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Egypt,2584535]]"
-culture: "[[_Standards/WikiData/WD~culture of Egypt,2655498]]"
-has_cabinet: "[[_Standards/WikiData/WD~Cabinet of Egypt,4206677]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Egypt,4206677]]"
+- "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Egypt,1451495]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Egypt,1571396]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Egypt,1987090]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Constitutional_Court_of_Egypt,2156821]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Egypt,2354232]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Egypt,2584535]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Egypt,2655498]]"
+has_cabinet: "[[_Standards/WikiData/WD~Cabinet_of_Egypt,4206677]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Egypt,4206677]]"
 language_used:
-- "[[_Standards/WikiData/WD~Egyptian Sign Language,5348443]]"
+- "[[_Standards/WikiData/WD~Egyptian_Sign_Language,5348443]]"
 - '[[_Standards/WikiData/WD~Kenzi,20639851]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Malay,9237]]'
-- "[[_Standards/WikiData/WD~Egyptian Arabic,29919]]"
+- "[[_Standards/WikiData/WD~Egyptian_Arabic,29919]]"
 - '[[_Standards/WikiData/WD~Beja,33025]]'
 - '[[_Standards/WikiData/WD~Siwa,36814]]'
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
-- "[[_Standards/WikiData/WD~Libyan Arabic,56503]]"
-- "[[_Standards/WikiData/WD~Saʽidi Arabic,56592]]"
-- "[[_Standards/WikiData/WD~Bedawi Arabic,56714]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Libyan_Arabic,56503]]"
+- "[[_Standards/WikiData/WD~Saʽidi_Arabic,56592]]"
+- "[[_Standards/WikiData/WD~Bedawi_Arabic,56714]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Governorates of Egypt,5625995]]"
+- "[[_Standards/WikiData/WD~Template_Governorates_of_Egypt,5625995]]"
 - '[[_Standards/WikiData/WD~Template_Egypt-stub,6730439]]'
 CIVICUS_Monitor_country_entry: egypt
 GitHub_topic: egypt
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Egypt,10996986]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Egypt,10996986]]"
 different_from:
 - '[[_Standards/WikiData/WD~Ägypten,11336592]]'
 - '[[_Standards/WikiData/WD~Egipte,20099095]]'
@@ -238,19 +238,19 @@ demonym:
 - Egyptian
 - Égyptien
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Egypt,15618993]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Egypt,15618993]]"
 Commons_gallery: مصر
 located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Nile,3392]]'
-- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-- "[[_Standards/WikiData/WD~Red Sea,23406]]"
+- "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+- "[[_Standards/WikiData/WD~Red_Sea,23406]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 part_of:
-- "[[_Standards/WikiData/WD~Middle East,7204]]"
-- "[[_Standards/WikiData/WD~West Asia,27293]]"
-- "[[_Standards/WikiData/WD~North Africa,27381]]"
+- "[[_Standards/WikiData/WD~Middle_East,7204]]"
+- "[[_Standards/WikiData/WD~West_Asia,27293]]"
+- "[[_Standards/WikiData/WD~North_Africa,27381]]"
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
@@ -348,9 +348,9 @@ rural_population:
 - 63300985
 coordinates_of_southernmost_point: "Point(33.55602264 21.72569656)"
 short_name: "\U0001F1EA\U0001F1EC"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-head_of_government: "[[_Standards/WikiData/WD~Mostafa Madbouly,54901515]]"
-open_data_portal: "[[_Standards/WikiData/WD~Egyptian Open Data initiative,97011670]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+head_of_government: "[[_Standards/WikiData/WD~Mostafa_Madbouly,54901515]]"
+open_data_portal: "[[_Standards/WikiData/WD~Egyptian_Open_Data_initiative,97011670]]"
 coordinate_location: "Point(29.0 27.0)"
 described_at_URL: "http://68k.news/index.php?section=nation&loc=EG&lang=AR"
 name_in_native_language: "جمهوریّة مصر العربیّة"

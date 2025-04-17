@@ -3,17 +3,17 @@ aliases:
 - "Linear algebra"
 has_id_wikidata: Q82571
 is_the_study_of:
-- "[[_Standards/WikiData/WD~vector space,125977]]"
-- "[[_Standards/WikiData/WD~linear map,207643]]"
+- "[[_Standards/WikiData/WD~vector_space,125977]]"
+- "[[_Standards/WikiData/WD~linear_map,207643]]"
 - '[[_Standards/WikiData/WD~matrix,44337]]'
-different_from: "[[_Standards/WikiData/WD~algebra over a field,1000660]]"
-instance_of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Linear algebra,11212611]]"
+different_from: "[[_Standards/WikiData/WD~algebra_over_a_field,1000660]]"
+instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Linear_algebra,11212611]]"
 part_of:
-- "[[_Standards/WikiData/WD~linear algebra,114728146]]"
+- "[[_Standards/WikiData/WD~linear_algebra,114728146]]"
 - '[[_Standards/WikiData/WD~algebra,3968]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 Baidu_Tieba_name: 线性代数
 Stack_Exchange_tag:
 - "https://mathoverflow.net/tags/linear-algebra"

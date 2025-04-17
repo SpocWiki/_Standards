@@ -3,54 +3,54 @@ aliases:
 - "United Nations Educational, Scientific and Cultural Organization"
 has_id_wikidata: Q7809
 partnership_with:
-- "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-- "[[_Standards/WikiData/WD~United Cities and Local Governments,2974854]]"
-- "[[_Standards/WikiData/WD~Wapikoni Mobile,3566187]]"
+- "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+- "[[_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854]]"
+- "[[_Standards/WikiData/WD~Wapikoni_Mobile,3566187]]"
 official_observer_status_in_organisation:
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
-- "[[_Standards/WikiData/WD~Global Partnership on Artificial Intelligence,105730365]]"
-- "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
+- "[[_Standards/WikiData/WD~Global_Partnership_on_Artificial_Intelligence,105730365]]"
+- "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
 instance_of:
-- "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
-- "[[_Standards/WikiData/WD~specialized agency of the United Nations,15925165]]"
+- "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
+- "[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]"
 organizational_divisions:
-- "[[_Standards/WikiData/WD~Austrian Commission for UNESCO,305990]]"
-- "[[_Standards/WikiData/WD~UNESCO Regional Office for Education in Latin America and the Caribbean,30907731]]"
-- "[[_Standards/WikiData/WD~UNESCO office United States,43895552]]"
-- "[[_Standards/WikiData/WD~UNESCO office Netherlands,50356724]]"
-- "[[_Standards/WikiData/WD~UNESCO office Qatar,50356730]]"
-- "[[_Standards/WikiData/WD~UNESCO office Egypt,50356741]]"
-- "[[_Standards/WikiData/WD~UNESCO office Afghanistan,50356747]]"
-- "[[_Standards/WikiData/WD~UNESCO regional Office for Science and Technology for Europe,58842143]]"
-- "[[_Standards/WikiData/WD~National Commission of Romania for UNESCO,113111467]]"
-- "[[_Standards/WikiData/WD~Ethiopian National Office for UNESCO,113111615]]"
-- "[[_Standards/WikiData/WD~UNESCO Jakarta,130707070]]"
-- "[[_Standards/WikiData/WD~UNESCO Bangkok,130707185]]"
-funder: "[[_Standards/WikiData/WD~Open Society Foundations,786194]]"
+- "[[_Standards/WikiData/WD~Austrian_Commission_for_UNESCO,305990]]"
+- "[[_Standards/WikiData/WD~UNESCO_Regional_Office_for_Education_in_Latin_America_and_the_Caribbean,30907731]]"
+- "[[_Standards/WikiData/WD~UNESCO_office_United_States,43895552]]"
+- "[[_Standards/WikiData/WD~UNESCO_office_Netherlands,50356724]]"
+- "[[_Standards/WikiData/WD~UNESCO_office_Qatar,50356730]]"
+- "[[_Standards/WikiData/WD~UNESCO_office_Egypt,50356741]]"
+- "[[_Standards/WikiData/WD~UNESCO_office_Afghanistan,50356747]]"
+- "[[_Standards/WikiData/WD~UNESCO_regional_Office_for_Science_and_Technology_for_Europe,58842143]]"
+- "[[_Standards/WikiData/WD~National_Commission_of_Romania_for_UNESCO,113111467]]"
+- "[[_Standards/WikiData/WD~Ethiopian_National_Office_for_UNESCO,113111615]]"
+- "[[_Standards/WikiData/WD~UNESCO_Jakarta,130707070]]"
+- "[[_Standards/WikiData/WD~UNESCO_Bangkok,130707185]]"
+funder: "[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~Stedelijk Museum Amsterdam,924335]]"
-- "[[_Standards/WikiData/WD~Amsab - Instituut voor Sociale Geschiedenis Gent,3359412]]"
-- "[[_Standards/WikiData/WD~National Museum of World Cultures,17153751]]"
+- "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
+- "[[_Standards/WikiData/WD~Amsab_-_Instituut_voor_Sociale_Geschiedenis_Gent,3359412]]"
+- "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]"
 has_subsidiary:
-- "[[_Standards/WikiData/WD~Scientific Committee on Problems of the Environment,2260250]]"
-- "[[_Standards/WikiData/WD~UNESCO Institute for Statistics,3152127]]"
-- "[[_Standards/WikiData/WD~Iranian National Commission for UNESCO,22001241]]"
-- "[[_Standards/WikiData/WD~UNESCO Chair on Cyberspace and Culture,52488603]]"
-- "[[_Standards/WikiData/WD~Hylean Amazon Institute,108472536]]"
-replaces: "[[_Standards/WikiData/WD~International Committee on Intellectual Cooperation,2761462]]"
-owner_of: "[[_Standards/WikiData/WD~World Heritage Centre,3279650]]"
-grants: "[[_Standards/WikiData/WD~UNESCO_Institut Pasteur Medal,3332333]]"
-archives_at: "[[_Standards/WikiData/WD~University of Maryland Libraries,7895690]]"
+- "[[_Standards/WikiData/WD~Scientific_Committee_on_Problems_of_the_Environment,2260250]]"
+- "[[_Standards/WikiData/WD~UNESCO_Institute_for_Statistics,3152127]]"
+- "[[_Standards/WikiData/WD~Iranian_National_Commission_for_UNESCO,22001241]]"
+- "[[_Standards/WikiData/WD~UNESCO_Chair_on_Cyberspace_and_Culture,52488603]]"
+- "[[_Standards/WikiData/WD~Hylean_Amazon_Institute,108472536]]"
+replaces: "[[_Standards/WikiData/WD~International_Committee_on_Intellectual_Cooperation,2761462]]"
+owner_of: "[[_Standards/WikiData/WD~World_Heritage_Centre,3279650]]"
+grants: "[[_Standards/WikiData/WD~UNESCO_Institut_Pasteur_Medal,3332333]]"
+archives_at: "[[_Standards/WikiData/WD~University_of_Maryland_Libraries,7895690]]"
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-chairperson: "[[_Standards/WikiData/WD~Audrey Azoulay,22683089]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director-General of UNESCO,28784183]]"
+chairperson: "[[_Standards/WikiData/WD~Audrey_Azoulay,22683089]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director-General_of_UNESCO,28784183]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Open GLAM Survey,73357989]]"
+- "[[_Standards/WikiData/WD~Open_GLAM_Survey,73357989]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 member_of:
-- "[[_Standards/WikiData/WD~Global Citizen Science Partnership,112830180]]"
-- "[[_Standards/WikiData/WD~Global Academic Integrity Network,126974710]]"
+- "[[_Standards/WikiData/WD~Global_Citizen_Science_Partnership,112830180]]"
+- "[[_Standards/WikiData/WD~Global_Academic_Integrity_Network,126974710]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q123996516,123996516]]'
 coordinate_location: "Point(2.30611111 48.85)"
 UMLS_CUI: C0041677
@@ -61,10 +61,10 @@ work_location:
 - '[[_Standards/WikiData/WD~Delft,690]]'
 - '[[_Standards/WikiData/WD~Doha,3861]]'
 - '[[_Standards/WikiData/WD~Kabul,5838]]'
-- "[[_Standards/WikiData/WD~New York City,60]]"
+- "[[_Standards/WikiData/WD~New_York_City,60]]"
 - '[[_Standards/WikiData/WD~Cairo,85]]'
 - '[[_Standards/WikiData/WD~Paris,90]]'
-parent_organization: "[[_Standards/WikiData/WD~United Nations,1065]]"
+parent_organization: "[[_Standards/WikiData/WD~United_Nations,1065]]"
 official_language:
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~English,1860]]'

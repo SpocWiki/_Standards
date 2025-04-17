@@ -8,40 +8,40 @@ subclass_of:
 - '[[_Standards/WikiData/WD~material,214609]]'
 subject_has_role:
 - '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- "[[_Standards/WikiData/WD~trace metal,7831165]]"
-- "[[_Standards/WikiData/WD~occupational carcinogen,21074597]]"
+- "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+- "[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 10,205253]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_10,205253]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~pentlandite,410101]]'
 - '[[_Standards/WikiData/WD~millerite,411068]]'
 - '[[_Standards/WikiData/WD~nickeline,419197]]'
 - '[[_Standards/WikiData/WD~pyrrhotite,421944]]'
-- "[[_Standards/WikiData/WD~garnierite mineral group,1494409]]"
+- "[[_Standards/WikiData/WD~garnierite_mineral_group,1494409]]"
 - '[[_Standards/WikiData/WD~paratacamite-(Ni),19861151]]'
 - '[[_Standards/WikiData/WD~phosphocyclite-(Ni),106623134]]'
 - '[[_Standards/WikiData/WD~tetrahedrite-(Ni),108145984]]'
 - '[[_Standards/WikiData/WD~tennantite-(Ni),108146107]]'
 named_after: '[[_Standards/WikiData/WD~nickeline,419197]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Axel Fredrik Cronstedt,468351]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Axel_Fredrik_Cronstedt,468351]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 - '[[_Standards/WikiData/WD~Nickel,108309417]]'
-found_in_taxon: "[[_Standards/WikiData/WD~Ludwigia repens,4406281]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Ludwigia_repens,4406281]]"
 instance_of:
-- "[[_Standards/WikiData/WD~ferromagnetic material,9259184]]"
-- "[[_Standards/WikiData/WD~flammable solid,21073024]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]"
+- "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 has_effect:
-- "[[_Standards/WikiData/WD~nickel allergic contact dermatitis,16606544]]"
-- "[[_Standards/WikiData/WD~nickel exposure,21174946]]"
-associated_hazard: "[[_Standards/WikiData/WD~nickel exposure,21174946]]"
+- "[[_Standards/WikiData/WD~nickel_allergic_contact_dermatitis,16606544]]"
+- "[[_Standards/WikiData/WD~nickel_exposure,21174946]]"
+associated_hazard: "[[_Standards/WikiData/WD~nickel_exposure,21174946]]"
 time_of_discovery_or_invention: "1751"
 oxidation_state:
 - -1

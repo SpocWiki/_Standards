@@ -37,58 +37,58 @@ native_label:
 - português
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/WIKITONGUES-%20Sara%20speaking%20Portuguese.webm"
 language_regulatory_body:
-- "[[_Standards/WikiData/WD~Community of Portuguese Language Countries,182500]]"
-- "[[_Standards/WikiData/WD~Brazilian Academy of Letters,337224]]"
-- "[[_Standards/WikiData/WD~International Portuguese Language Institute,2463460]]"
-- "[[_Standards/WikiData/WD~Academy of Sciences of Lisbon,3775604]]"
+- "[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]"
+- "[[_Standards/WikiData/WD~Brazilian_Academy_of_Letters,337224]]"
+- "[[_Standards/WikiData/WD~International_Portuguese_Language_Institute,2463460]]"
+- "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Lisbon,3775604]]"
 has_tense:
-- "[[_Standards/WikiData/WD~present tense,192613]]"
+- "[[_Standards/WikiData/WD~present_tense,192613]]"
 - '[[_Standards/WikiData/WD~preterite,442485]]'
-- "[[_Standards/WikiData/WD~future tense,501405]]"
+- "[[_Standards/WikiData/WD~future_tense,501405]]"
 - '[[_Standards/WikiData/WD~pluperfect,623742]]'
-- "[[_Standards/WikiData/WD~past tense,1994301]]"
-- "[[_Standards/WikiData/WD~past imperfect,12547192]]"
+- "[[_Standards/WikiData/WD~past_tense,1994301]]"
+- "[[_Standards/WikiData/WD~past_imperfect,12547192]]"
 has_phoneme:
-- "[[_Standards/WikiData/WD~voiced bilabial nasal,201817]]"
-- "[[_Standards/WikiData/WD~voiceless bilabial plosive,237623]]"
+- "[[_Standards/WikiData/WD~voiced_bilabial_nasal,201817]]"
+- "[[_Standards/WikiData/WD~voiceless_bilabial_plosive,237623]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~fusional language,318917]]"
+- "[[_Standards/WikiData/WD~fusional_language,318917]]"
 - '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
-- "[[_Standards/WikiData/WD~pro-drop language,661936]]"
-- "[[_Standards/WikiData/WD~syllabic language,7888569]]"
+- "[[_Standards/WikiData/WD~pro-drop_language,661936]]"
+- "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
 - '[[_Standards/WikiData/WD~noun-adjective,74835210]]'
-- "[[_Standards/WikiData/WD~synthetic language,48612]]"
+- "[[_Standards/WikiData/WD~synthetic_language,48612]]"
 has_grammatical_gender:
 - '[[_Standards/WikiData/WD~masculine,499327]]'
 - '[[_Standards/WikiData/WD~feminine,1775415]]'
 writing_system:
-- "[[_Standards/WikiData/WD~Portuguese alphabet,540987]]"
-- "[[_Standards/WikiData/WD~Latin script,8229]]"
+- "[[_Standards/WikiData/WD~Portuguese_alphabet,540987]]"
+- "[[_Standards/WikiData/WD~Latin_script,8229]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Brazilian Portuguese,750553]]"
-- "[[_Standards/WikiData/WD~European Portuguese,922399]]"
+- "[[_Standards/WikiData/WD~Brazilian_Portuguese,750553]]"
+- "[[_Standards/WikiData/WD~European_Portuguese,922399]]"
 - '[[_Standards/WikiData/WD~Barranquenho,2982964]]'
-- "[[_Standards/WikiData/WD~Angolan Portuguese,2994901]]"
-- "[[_Standards/WikiData/WD~Mozambican Portuguese,4373398]]"
-- "[[_Standards/WikiData/WD~East Timorese Portuguese,4373396]]"
-- "[[_Standards/WikiData/WD~Cape Verdean Portuguese,5035141]]"
-- "[[_Standards/WikiData/WD~Guinean Portuguese,5616512]]"
-- "[[_Standards/WikiData/WD~São Tomean Portuguese,7665714]]"
-- "[[_Standards/WikiData/WD~Macanese Portuguese,9290867]]"
-- "[[_Standards/WikiData/WD~Portuguese language in Goa,10352067]]"
+- "[[_Standards/WikiData/WD~Angolan_Portuguese,2994901]]"
+- "[[_Standards/WikiData/WD~Mozambican_Portuguese,4373398]]"
+- "[[_Standards/WikiData/WD~East_Timorese_Portuguese,4373396]]"
+- "[[_Standards/WikiData/WD~Cape_Verdean_Portuguese,5035141]]"
+- "[[_Standards/WikiData/WD~Guinean_Portuguese,5616512]]"
+- "[[_Standards/WikiData/WD~São_Tomean_Portuguese,7665714]]"
+- "[[_Standards/WikiData/WD~Macanese_Portuguese,9290867]]"
+- "[[_Standards/WikiData/WD~Portuguese_language_in_Goa,10352067]]"
 instance_of:
-- "[[_Standards/WikiData/WD~modern language,1288568]]"
+- "[[_Standards/WikiData/WD~modern_language,1288568]]"
 - '[[_Standards/WikiData/WD~language,34770]]'
-studied_in: "[[_Standards/WikiData/WD~Portuguese studies,1721024]]"
-dedicated_heritage_entity: "[[_Standards/WikiData/WD~Museum of the Portuguese Language,2422478]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Portuguese,5659729]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Pt icon,6151393]]"
+studied_in: "[[_Standards/WikiData/WD~Portuguese_studies,1721024]]"
+dedicated_heritage_entity: "[[_Standards/WikiData/WD~Museum_of_the_Portuguese_Language,2422478]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Portuguese,5659729]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Pt_icon,6151393]]"
 subclass_of: '[[_Standards/WikiData/WD~Galician-Portuguese,9080204]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Wiktionary_About Portuguese,14615842]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1 National,29051546]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Wiktionary_About_Portuguese,14615842]]"
+Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Breve%20discurso%20em%20que%20se%20contem%20a%20conquista%20do%20Reyno%20de%20Pegu%20na%20%C3%8Dndia%20Oriental%2C%20pelos%20portuguezes%20em%20tempo%20do%20Viso-Rey%20Ayres%20de%20Saldanha%3B%20sendo%20capitam%20Salvador%20Ribeiro%20de%20Souza%2C%20chamado%20Massinga%2C%20natural%20de%20Guimaraens.%20Rei%20do%20Pegu.JPG"
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20pt.svg"
 described_at_URL: "https://afbo.info/languages/151"
@@ -97,9 +97,9 @@ country:
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
 - '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-- "[[_Standards/WikiData/WD~Cape Verde,1011]]"
+- "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
 - '[[_Standards/WikiData/WD~Mozambique,1029]]'
-- "[[_Standards/WikiData/WD~São Tomé and Príncipe,1039]]"
+- "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]"
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Portugal,45]]'
 - '[[_Standards/WikiData/WD~Brazil,155]]'

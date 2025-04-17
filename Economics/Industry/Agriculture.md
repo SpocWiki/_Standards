@@ -22,46 +22,46 @@ Library_of_Congress_Classification: S1-S790.3
 start_time: "-8000" 
 has_time_started: "-8000"
 uses:
-- "[[_Standards/WikiData/WD~fresh water,102192]]"
-- "[[_Standards/WikiData/WD~arable land,843920]]"
+- "[[_Standards/WikiData/WD~fresh_water,102192]]"
+- "[[_Standards/WikiData/WD~arable_land,843920]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~farmer,131512]]'
-- "[[_Standards/WikiData/WD~agricultural entrepreneur,3796984]]"
+- "[[_Standards/WikiData/WD~agricultural_entrepreneur,3796984]]"
 - '[[_Standards/WikiData/WD~farmworker,5060555]]'
-- "[[_Standards/WikiData/WD~agricultural worker,19261760]]"
-- "[[_Standards/WikiData/WD~planter class,55630100]]"
-- "[[_Standards/WikiData/WD~agricultural consultant,76651859]]"
-- "[[_Standards/WikiData/WD~crop production worker,110002200]]"
-- "[[_Standards/WikiData/WD~vineyard worker,110008263]]"
+- "[[_Standards/WikiData/WD~agricultural_worker,19261760]]"
+- "[[_Standards/WikiData/WD~planter_class,55630100]]"
+- "[[_Standards/WikiData/WD~agricultural_consultant,76651859]]"
+- "[[_Standards/WikiData/WD~crop_production_worker,110002200]]"
+- "[[_Standards/WikiData/WD~vineyard_worker,110008263]]"
 has_effect: '[[_Standards/WikiData/WD~deforestation,169940]]'
 studied_in: '[[_Standards/WikiData/WD~agronomy,173113]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~cultivation,357279]]'
-- "[[_Standards/WikiData/WD~agriculture and forestry,1801887]]"
+- "[[_Standards/WikiData/WD~agriculture_and_forestry,1801887]]"
 instance_of:
-- "[[_Standards/WikiData/WD~field of work,627436]]"
-- "[[_Standards/WikiData/WD~economic sector,3958441]]"
+- "[[_Standards/WikiData/WD~field_of_work,627436]]"
+- "[[_Standards/WikiData/WD~economic_sector,3958441]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of agriculture,952080]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_agriculture,952080]]"
 follows: '[[_Standards/WikiData/WD~gathering,2991771]]'
 part_of:
-- "[[_Standards/WikiData/WD~food system,5465532]]"
-- "[[_Standards/WikiData/WD~primary sector of the economy,55640]]"
+- "[[_Standards/WikiData/WD~food_system,5465532]]"
+- "[[_Standards/WikiData/WD~primary_sector_of_the_economy,55640]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Agriculture footer,6672312]]"
+- "[[_Standards/WikiData/WD~Template_Agriculture_footer,6672312]]"
 - '[[_Standards/WikiData/WD~Template_Agriculture,10963661]]'
 - '[[_Standards/WikiData/WD~Q122387479,122387479]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of agriculture,7112548]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Agriculture and agronomy,8210598]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-different_from: "[[_Standards/WikiData/WD~crop and animal production, hunting and related service activities,29584242]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_agriculture,7112548]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Agriculture_and_agronomy,8210598]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+different_from: "[[_Standards/WikiData/WD~crop_and_animal_production,_hunting_and_related_service_activities,29584242]]"
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078555,59078555]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Landwirtschaft.ogg"
 Provenio_UUID: e29ffdd3-1d29-4625-860a-1a7027f6dd9f

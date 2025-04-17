@@ -1,15 +1,15 @@
 ﻿---
 has_id_wikidata: Q934
 different_from:
-- "[[_Standards/WikiData/WD~North Pole,79494]]"
-- "[[_Standards/WikiData/WD~North Magnetic Pole,842763]]"
-- "[[_Standards/WikiData/WD~north geomagnetic pole,11942166]]"
-instance_of: "[[_Standards/WikiData/WD~geographical pole,183273]]"
-part_of: "[[_Standards/WikiData/WD~Earth's poles,3907660]]"
+- "[[_Standards/WikiData/WD~North_Pole,79494]]"
+- "[[_Standards/WikiData/WD~North_Magnetic_Pole,842763]]"
+- "[[_Standards/WikiData/WD~north_geomagnetic_pole,11942166]]"
+instance_of: "[[_Standards/WikiData/WD~geographical_pole,183273]]"
+part_of: "[[_Standards/WikiData/WD~Earth's_poles,3907660]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 named_after: '[[_Standards/WikiData/WD~north,659]]'
-opposite_of: "[[_Standards/WikiData/WD~South Pole,933]]"
+opposite_of: "[[_Standards/WikiData/WD~South_Pole,933]]"
 bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/IBCAO%20betamap.jpg"
 hashtag:
 - Northpole

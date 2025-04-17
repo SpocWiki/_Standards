@@ -8,29 +8,29 @@ Instagram_username: nobelprize_org
 Gujarati_Vishwakosh_entry: નોબેલ-પુરસ્કાર
 native_label: Nobelpriset
 has_part_s_:
-- "[[_Standards/WikiData/WD~Nobel Prize in Physiology or Medicine,80061]]"
-- "[[_Standards/WikiData/WD~Nobel Prize in Literature,37922]]"
-- "[[_Standards/WikiData/WD~Nobel Prize in Physics,38104]]"
-- "[[_Standards/WikiData/WD~Nobel Prize in Chemistry,44585]]"
+- "[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]"
+- "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
+- "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
+- "[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]"
 conferred_by:
-- "[[_Standards/WikiData/WD~Royal Swedish Academy of Sciences,191583]]"
-- "[[_Standards/WikiData/WD~Swedish Academy,207360]]"
-- "[[_Standards/WikiData/WD~Norwegian Nobel Committee,946621]]"
-- "[[_Standards/WikiData/WD~Nobel Assembly at the Karolinska Institute,3375124]]"
-- "[[_Standards/WikiData/WD~Alfred Nobel,23810]]"
+- "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
+- "[[_Standards/WikiData/WD~Swedish_Academy,207360]]"
+- "[[_Standards/WikiData/WD~Norwegian_Nobel_Committee,946621]]"
+- "[[_Standards/WikiData/WD~Nobel_Assembly_at_the_Karolinska_Institute,3375124]]"
+- "[[_Standards/WikiData/WD~Alfred_Nobel,23810]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 instance_of:
 - '[[_Standards/WikiData/WD~award,618779]]'
-- "[[_Standards/WikiData/WD~science award,11448906]]"
+- "[[_Standards/WikiData/WD~science_award,11448906]]"
 subclass_of: '[[_Standards/WikiData/WD~prize,5257307]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Nobel Prizes,5830529]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nobel prize,11194208]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Nobel_Prizes,5830529]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nobel_prize,11194208]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13206142,13206142]]'
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 inception: "1901"
 has_time_started: 1901-06 
 topic_s_main_category: '[[_Standards/WikiData/WD~Q33094346,33094346]]'
@@ -41,9 +41,9 @@ spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Nobelova%20cena.ogg"
 MeSH_tree_code: K01.150.567
 location: '[[_Standards/WikiData/WD~Stockholm,1754]]'
-day_in_year_for_periodic_occurrence: "[[_Standards/WikiData/WD~December 10,2302]]"
-named_after: "[[_Standards/WikiData/WD~Alfred Nobel,23810]]"
-founded_by: "[[_Standards/WikiData/WD~Alfred Nobel,23810]]"
+day_in_year_for_periodic_occurrence: "[[_Standards/WikiData/WD~December_10,2302]]"
+named_after: "[[_Standards/WikiData/WD~Alfred_Nobel,23810]]"
+founded_by: "[[_Standards/WikiData/WD~Alfred_Nobel,23810]]"
 country:
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'

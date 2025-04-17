@@ -2,21 +2,21 @@
 aliases:
 - "Nut (fruit)"
 has_id_wikidata: Q11009
-subclass_of: "[[_Standards/WikiData/WD~indehiscent fruit,160034]]"
+subclass_of: "[[_Standards/WikiData/WD~indehiscent_fruit,160034]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-has_effect: "[[_Standards/WikiData/WD~tree nut allergy,2373361]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+has_effect: "[[_Standards/WikiData/WD~tree_nut_allergy,2373361]]"
 different_from:
 - '[[_Standards/WikiData/WD~nut,3320037]]'
 - '[[_Standards/WikiData/WD~nucule,5118786]]'
 - '[[_Standards/WikiData/WD~Q33203282,33203282]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q5998600,5998600]]'
-instance_of: "[[_Standards/WikiData/WD~type of fruit,28149961]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_fruit,28149961]]"
 Dewey_Decimal_Classification:
 - 581.464
 - 641.345

@@ -1,17 +1,17 @@
 ﻿---
 has_id_wikidata: Q12453
 has_characteristic:
-- "[[_Standards/WikiData/WD~measurement error,196372]]"
-- "[[_Standards/WikiData/WD~measurement uncertainty,1403517]]"
+- "[[_Standards/WikiData/WD~measurement_error,196372]]"
+- "[[_Standards/WikiData/WD~measurement_uncertainty,1403517]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~International Vocabulary of Metrology (3rd edition, 2012),70257574]]"
-- "[[_Standards/WikiData/WD~ISO 3534-2_2006(en) Statistics — Vocabulary and symbols — Part 2_ Applied statistics,113715213]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]"
+- "[[_Standards/WikiData/WD~ISO_3534-2_2006(en)_Statistics_—_Vocabulary_and_symbols_—_Part_2__Applied_statistics,113715213]]"
 subclass_of: '[[_Standards/WikiData/WD~estimation,791801]]'
-instance_of: "[[_Standards/WikiData/WD~academic major,4671286]]"
+instance_of: "[[_Standards/WikiData/WD~academic_major,4671286]]"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/DUB0808c.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Taking%20measurements.jpg"

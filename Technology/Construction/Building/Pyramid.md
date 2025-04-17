@@ -2,12 +2,12 @@
 has_id_wikidata: Q12516
 different_from: '[[_Standards/WikiData/WD~Piramida,105574]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 shape: '[[_Standards/WikiData/WD~pyramid,3358290]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox pyramid,13361861]]"
-instance_of: "[[_Standards/WikiData/WD~type of structure,111972893]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_pyramid,13361861]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_structure,111972893]]"
 equivalent_class: "http://dbpedia.org/ontology/Pyramid"
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PIRAMIDI.html
 GeoNames_feature_code:

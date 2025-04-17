@@ -3,16 +3,16 @@ has_id_wikidata: Q158797
 aliases:
 - "Military engineering"
 practiced_by:
-- "[[_Standards/WikiData/WD~military engineer,151197]]"
+- "[[_Standards/WikiData/WD~military_engineer,151197]]"
 - '[[_Standards/WikiData/WD~sapper,1324245]]'
-- "[[_Standards/WikiData/WD~combat engineer,101497855]]"
+- "[[_Standards/WikiData/WD~combat_engineer,101497855]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~military branch,781132]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+instance_of: "[[_Standards/WikiData/WD~military_branch,781132]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ingenieurkorps,1421548]]'
 catchphrase: ubique
 motto_text:

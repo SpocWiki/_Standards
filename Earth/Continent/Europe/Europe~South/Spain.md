@@ -38,74 +38,74 @@ Languages:
 - oc
 icon: flag-es
 replaces:
-- "[[_Standards/WikiData/WD~Spanish Empire,80702]]"
-- "[[_Standards/WikiData/WD~Kingdom of Aragon,199442]]"
-- "[[_Standards/WikiData/WD~Crown of Aragon,204920]]"
-- "[[_Standards/WikiData/WD~First Spanish Republic,497777]]"
-- "[[_Standards/WikiData/WD~Hispanic Monarchy,766543]]"
+- "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Aragon,199442]]"
+- "[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]"
+- "[[_Standards/WikiData/WD~First_Spanish_Republic,497777]]"
+- "[[_Standards/WikiData/WD~Hispanic_Monarchy,766543]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~European Air Transport Command,141720]]"
-- "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~Central American Bank for Economic Integration,190008]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Organization of Ibero-American States,421023]]"
-- "[[_Standards/WikiData/WD~Organisation for Joint Armament Cooperation,521227]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~European_Air_Transport_Command,141720]]"
+- "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Organization_of_Ibero-American_States,421023]]"
+- "[[_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~member states of the Organization of Ibero-American States,5780539]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~member_states_of_the_Organization_of_Ibero-American_States,5780539]]"
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~United Nations Security Council,37470]]"
-- "[[_Standards/WikiData/WD~League of Nations,38130]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]"
+- "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Spain,121688]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Spain,121688]]"
 ethnic_group:
-- "[[_Standards/WikiData/WD~Basque people,126756]]"
+- "[[_Standards/WikiData/WD~Basque_people,126756]]"
 - '[[_Standards/WikiData/WD~Spaniards,160894]]'
 - '[[_Standards/WikiData/WD~Catalans,244504]]'
 - '[[_Standards/WikiData/WD~Galicians,752526]]'
-- "[[_Standards/WikiData/WD~Romani people,8060]]"
-anthem: "[[_Standards/WikiData/WD~Marcha Real,130940]]"
+- "[[_Standards/WikiData/WD~Romani_people,8060]]"
+anthem: "[[_Standards/WikiData/WD~Marcha_Real,130940]]"
 public_holiday:
 - '[[_Standards/WikiData/WD~Epiphany,132001]]'
-- "[[_Standards/WikiData/WD~Assumption of Mary,162691]]"
-- "[[_Standards/WikiData/WD~Immaculate Conception of Mary,185606]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Spanish national day,2745862]]"
-- "[[_Standards/WikiData/WD~Good Friday,40317]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
+- "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
+- "[[_Standards/WikiData/WD~Immaculate_Conception_of_Mary,185606]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Spanish_national_day,2745862]]"
+- "[[_Standards/WikiData/WD~Good_Friday,40317]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
@@ -118,8 +118,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -127,7 +127,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
@@ -137,67 +137,67 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Kiribati,710]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Paraguay,733]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
-- "[[_Standards/WikiData/WD~El Salvador,792]]"
+- "[[_Standards/WikiData/WD~El_Salvador,792]]"
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
 - '[[_Standards/WikiData/WD~Mauritania,1025]]'
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~province of Spain,162620]]"
-- "[[_Standards/WikiData/WD~municipality of Spain,2074737]]"
-- "[[_Standards/WikiData/WD~autonomous city of Spain,16532593]]"
-- "[[_Standards/WikiData/WD~autonomous community of Spain,10742]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Kingdom of Spain,170600]]"
+- "[[_Standards/WikiData/WD~province_of_Spain,162620]]"
+- "[[_Standards/WikiData/WD~municipality_of_Spain,2074737]]"
+- "[[_Standards/WikiData/WD~autonomous_city_of_Spain,16532593]]"
+- "[[_Standards/WikiData/WD~autonomous_community_of_Spain,10742]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Kingdom_of_Spain,170600]]"
 named_after: '[[_Standards/WikiData/WD~Hispania,186513]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~plazas de soberanía,191011]]"
-- "[[_Standards/WikiData/WD~Balearic Islands,107356467]]"
+- "[[_Standards/WikiData/WD~plazas_de_soberanía,191011]]"
+- "[[_Standards/WikiData/WD~Balearic_Islands,107356467]]"
 - '[[_Standards/WikiData/WD~Galicia,3908]]'
 - '[[_Standards/WikiData/WD~Asturias,3934]]'
 - '[[_Standards/WikiData/WD~Cantabria,3946]]'
-- "[[_Standards/WikiData/WD~Basque Autonomous Community,3995]]"
+- "[[_Standards/WikiData/WD~Basque_Autonomous_Community,3995]]"
 - '[[_Standards/WikiData/WD~Navarre,4018]]'
 - '[[_Standards/WikiData/WD~Aragon,4040]]'
 - '[[_Standards/WikiData/WD~Catalonia,5705]]'
-- "[[_Standards/WikiData/WD~Valencian Community,5720]]"
-- "[[_Standards/WikiData/WD~La Rioja,5727]]"
-- "[[_Standards/WikiData/WD~Castile and León,5739]]"
-- "[[_Standards/WikiData/WD~Castilla–La Mancha,5748]]"
-- "[[_Standards/WikiData/WD~Community of Madrid,5756]]"
-- "[[_Standards/WikiData/WD~Region of Murcia,5772]]"
+- "[[_Standards/WikiData/WD~Valencian_Community,5720]]"
+- "[[_Standards/WikiData/WD~La_Rioja,5727]]"
+- "[[_Standards/WikiData/WD~Castile_and_León,5739]]"
+- "[[_Standards/WikiData/WD~Castilla–La_Mancha,5748]]"
+- "[[_Standards/WikiData/WD~Community_of_Madrid,5756]]"
+- "[[_Standards/WikiData/WD~Region_of_Murcia,5772]]"
 - '[[_Standards/WikiData/WD~Extremadura,5777]]'
 - '[[_Standards/WikiData/WD~Andalusia,5783]]'
-- "[[_Standards/WikiData/WD~Canary Islands,5813]]"
+- "[[_Standards/WikiData/WD~Canary_Islands,5813]]"
 - '[[_Standards/WikiData/WD~Ceuta,5823]]'
 - '[[_Standards/WikiData/WD~Melilla,5831]]'
-head_of_state: "[[_Standards/WikiData/WD~Felipe VI of Spain,191045]]"
+head_of_state: "[[_Standards/WikiData/WD~Felipe_VI_of_Spain,191045]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Alboran Sea,199408]]"
-- "[[_Standards/WikiData/WD~Cantabrian Sea,2090594]]"
-- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Spain,207461]]"
-legislative_body: "[[_Standards/WikiData/WD~Cortes Generales,219692]]"
+- "[[_Standards/WikiData/WD~Alboran_Sea,199408]]"
+- "[[_Standards/WikiData/WD~Cantabrian_Sea,2090594]]"
+- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+- "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Spain,207461]]"
+legislative_body: "[[_Standards/WikiData/WD~Cortes_Generales,219692]]"
 language_used:
 - '[[_Standards/WikiData/WD~Fala,300402]]'
-- "[[_Standards/WikiData/WD~Spanish Sign Language,3100814]]"
-- "[[_Standards/WikiData/WD~Quinqui jargon,5908714]]"
-- "[[_Standards/WikiData/WD~Valencian Sign Language,32663]]"
+- "[[_Standards/WikiData/WD~Spanish_Sign_Language,3100814]]"
+- "[[_Standards/WikiData/WD~Quinqui_jargon,5908714]]"
+- "[[_Standards/WikiData/WD~Valencian_Sign_Language,32663]]"
 - '[[_Standards/WikiData/WD~Caló,35466]]'
-- "[[_Standards/WikiData/WD~Catalan Sign Language,35768]]"
+- "[[_Standards/WikiData/WD~Catalan_Sign_Language,35768]]"
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~Portuguese,5146]]'
 - '[[_Standards/WikiData/WD~Catalan,7026]]'
@@ -208,51 +208,51 @@ language_used:
 - '[[_Standards/WikiData/WD~Asturian,29507]]'
 - '[[_Standards/WikiData/WD~Extremaduran,30007]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Spain,844587]]"
-motto: "[[_Standards/WikiData/WD~Plus ultra,1045726]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Spain,844587]]"
+motto: "[[_Standards/WikiData/WD~Plus_ultra,1045726]]"
 studied_in:
 - '[[_Standards/WikiData/WD~hispanism,1109432]]'
-- "[[_Standards/WikiData/WD~Spanish studies,94310568]]"
+- "[[_Standards/WikiData/WD~Spanish_studies,94310568]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Spain,1194749]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Spain,1194749]]"
 instance_of:
 - '[[_Standards/WikiData/WD~realm,1250464]]'
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-culture: "[[_Standards/WikiData/WD~culture of Spain,1327022]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Spain,1327022]]"
 significant_event:
-- "[[_Standards/WikiData/WD~Spanish Constitution of 1812,1421412]]"
-- "[[_Standards/WikiData/WD~Nueva Planta decrees,1990620]]"
+- "[[_Standards/WikiData/WD~Spanish_Constitution_of_1812,1421412]]"
+- "[[_Standards/WikiData/WD~Nueva_Planta_decrees,1990620]]"
 highest_judicial_authority:
-- "[[_Standards/WikiData/WD~Constitutional Court of Spain,1566394]]"
-- "[[_Standards/WikiData/WD~Supreme Court of Spain,19746]]"
+- "[[_Standards/WikiData/WD~Constitutional_Court_of_Spain,1566394]]"
+- "[[_Standards/WikiData/WD~Supreme_Court_of_Spain,19746]]"
 part_of:
-- "[[_Standards/WikiData/WD~Pyrenees–Mediterranean Euroregion,1849394]]"
+- "[[_Standards/WikiData/WD~Pyrenees–Mediterranean_Euroregion,1849394]]"
 - '[[_Standards/WikiData/WD~Europe,46]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-- "[[_Standards/WikiData/WD~Iberian Peninsula,12837]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Spain,1987080]]"
-has_cabinet: "[[_Standards/WikiData/WD~Council of Ministers of Spain,3058576]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- "[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Spain,1987080]]"
+has_cabinet: "[[_Standards/WikiData/WD~Council_of_Ministers_of_Spain,3058576]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Spain,3249424]]'
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary monarchy,3330103]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Monarch of Spain,3847454]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Spain,4521133]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_monarchy,3330103]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Monarch_of_Spain,3847454]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Spain,4521133]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Europe_Madrid,5412114]]'
 - '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
@@ -262,10 +262,10 @@ coordinates_of_northernmost_point:
 - "Point(-7.6905 43.792222222)"
 - "Point(-7.689277777 43.791222222)"
 head_of_government: '[[_Standards/WikiData/WD~Q6070218,6070218]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Spain,7112463]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Spain,7112463]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Administrative divisions of Spain,7158352]]"
-- "[[_Standards/WikiData/WD~Template_Spain topics,10975148]]"
+- "[[_Standards/WikiData/WD~Template_Administrative_divisions_of_Spain,7158352]]"
+- "[[_Standards/WikiData/WD~Template_Spain_topics,10975148]]"
 official_religion: '[[_Standards/WikiData/WD~non-denominational,7882536]]'
 different_from:
 - '[[_Standards/WikiData/WD~Q9293058,9293058]]'
@@ -387,7 +387,7 @@ permanent_duplicated_item:
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~091,25648910]]'
 - '[[_Standards/WikiData/WD~061,25648909]]'
-open_data_portal: "[[_Standards/WikiData/WD~Spain open data portal,97285695]]"
+open_data_portal: "[[_Standards/WikiData/WD~Spain_open_data_portal,97285695]]"
 coordinates_of_easternmost_point:
 - "Point(3.322194444 42.3195)"
 - "Point(4.327 39.876722222)"
@@ -493,9 +493,9 @@ inception:
 - "1516-03-24"
 official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 capital: '[[_Standards/WikiData/WD~Madrid,2807]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Spain,7781]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Spain,8050]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Iberian Peninsula,12837]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Spain,7781]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Spain,8050]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]"
 PM20_geo_code: A30
 number_of_out_of_school_children: 35822
 area: 505990

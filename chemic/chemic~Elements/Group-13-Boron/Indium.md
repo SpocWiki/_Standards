@@ -8,29 +8,29 @@ Krugosvet_article: nauka_i_tehnika/himiya/INDI.html
 RTECS_number: NL1050000
 Unicode_character: 銦
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Ferdinand Reich,77307]]"
-- "[[_Standards/WikiData/WD~Hieronymous Theodor Richter,77308]]"
+- "[[_Standards/WikiData/WD~Ferdinand_Reich,77307]]"
+- "[[_Standards/WikiData/WD~Hieronymous_Theodor_Richter,77308]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 13,189294]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_13,189294]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 named_after: '[[_Standards/WikiData/WD~indigo,5967009]]'
-associated_hazard: "[[_Standards/WikiData/WD~indium exposure,21174765]]"
-has_effect: "[[_Standards/WikiData/WD~indium exposure,21174765]]"
+associated_hazard: "[[_Standards/WikiData/WD~indium_exposure,21174765]]"
+has_effect: "[[_Standards/WikiData/WD~indium_exposure,21174765]]"
 different_from:
-- "[[_Standards/WikiData/WD~Hindujo _ Hindio _ Indija _ India,66376810]]"
+- "[[_Standards/WikiData/WD~Hindujo___Hindio___Indija___India,66376810]]"
 - '[[_Standards/WikiData/WD~iridium,877]]'
 UMLS_CUI: C0021223
 time_of_discovery_or_invention: "1863"

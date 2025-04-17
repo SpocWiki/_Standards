@@ -1,62 +1,62 @@
 ---
-flag: "[[_Standards/WikiData/WD~flag of Sierra Leone,168912]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Sierra_Leone,168912]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Mano River Union,1505172]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Mano_River_Union,1505172]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Sierra Leone,242938]]"
-head_of_state: "[[_Standards/WikiData/WD~Julius Maada Bio,283829]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Sierra_Leone,242938]]"
+head_of_state: "[[_Standards/WikiData/WD~Julius_Maada_Bio,283829]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-anthem: "[[_Standards/WikiData/WD~High We Exalt Thee, Realm of the Free,549704]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Bintumani,769525]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+anthem: "[[_Standards/WikiData/WD~High_We_Exalt_Thee,_Realm_of_the_Free,549704]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Bintumani,769525]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Southern Province,772185]]"
-- "[[_Standards/WikiData/WD~Northern Province,912359]]"
-- "[[_Standards/WikiData/WD~Western Area,1050475]]"
-- "[[_Standards/WikiData/WD~Eastern Province,1050497]]"
-- "[[_Standards/WikiData/WD~North West Province,43371075]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Sierra Leone,806691]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Sierra Leone,890010]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Sierra Leone,1138130]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Sierra Leone,1477561]]"
+- "[[_Standards/WikiData/WD~Southern_Province,772185]]"
+- "[[_Standards/WikiData/WD~Northern_Province,912359]]"
+- "[[_Standards/WikiData/WD~Western_Area,1050475]]"
+- "[[_Standards/WikiData/WD~Eastern_Province,1050497]]"
+- "[[_Standards/WikiData/WD~North_West_Province,43371075]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Sierra_Leone,806691]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Sierra_Leone,890010]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Sierra_Leone,1138130]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Sierra_Leone,1477561]]"
 language_used:
 - '[[_Standards/WikiData/WD~Mende,1478672]]'
 - '[[_Standards/WikiData/WD~Kuranko,3198896]]'
 - '[[_Standards/WikiData/WD~Loko,3914912]]'
-- "[[_Standards/WikiData/WD~Sierra Leonean Sign Language,7511448]]"
-- "[[_Standards/WikiData/WD~Eastern Maninkaka,11002130]]"
-- "[[_Standards/WikiData/WD~Southern Kissi,11028974]]"
-- "[[_Standards/WikiData/WD~East Limba,11034212]]"
-- "[[_Standards/WikiData/WD~Northern Kissi,19921576]]"
-- "[[_Standards/WikiData/WD~West-Central Limba,32867815]]"
+- "[[_Standards/WikiData/WD~Sierra_Leonean_Sign_Language,7511448]]"
+- "[[_Standards/WikiData/WD~Eastern_Maninkaka,11002130]]"
+- "[[_Standards/WikiData/WD~Southern_Kissi,11028974]]"
+- "[[_Standards/WikiData/WD~East_Limba,11034212]]"
+- "[[_Standards/WikiData/WD~Northern_Kissi,19921576]]"
+- "[[_Standards/WikiData/WD~West-Central_Limba,32867815]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Susu,33990]]'
-- "[[_Standards/WikiData/WD~Bullom So,35061]]"
+- "[[_Standards/WikiData/WD~Bullom_So,35061]]"
 - '[[_Standards/WikiData/WD~Bom,35088]]'
 - '[[_Standards/WikiData/WD~Gola,35482]]'
 - '[[_Standards/WikiData/WD~Yalunka,35524]]'
@@ -66,35 +66,35 @@ language_used:
 - '[[_Standards/WikiData/WD~Temne,36613]]'
 - '[[_Standards/WikiData/WD~Vai,36939]]'
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Pedro de Sintra,1620277]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Sierra Leone,1990590]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Sierra Leone,2477601]]"
-culture: "[[_Standards/WikiData/WD~Sierra Leonean culture,3007281]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Pedro_de_Sintra,1620277]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Sierra_Leone,1990590]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Sierra_Leone,2477601]]"
+culture: "[[_Standards/WikiData/WD~Sierra_Leonean_culture,3007281]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~999,3086706]]'
 - '[[_Standards/WikiData/WD~019,60061869]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Sierra Leone,3143033]]"
-different_from: "[[_Standards/WikiData/WD~Sierra Leone River,3445630]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Sierra_Leone,3143033]]"
+different_from: "[[_Standards/WikiData/WD~Sierra_Leone_River,3445630]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Freetown,4689493]]'
 - '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Sierra Leone,7112449]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Sierra_Leone,7112449]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sierra Leone,14616219]]"
-replaces: "[[_Standards/WikiData/WD~Commonwealth realm of Sierra Leone,14920623]]"
-follows: "[[_Standards/WikiData/WD~Commonwealth realm of Sierra Leone,14920623]]"
-named_after: "[[_Standards/WikiData/WD~Lion Mountains,20191018]]"
-head_of_government: "[[_Standards/WikiData/WD~David Sengeh,23728768]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Chief Minister of Sierra Leone,56295070]]"
-open_data_portal: "[[_Standards/WikiData/WD~Sierra Leone Open data portal,97097764]]"
-studied_in: "[[_Standards/WikiData/WD~Sierra Leone studies,115672782]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sierra_Leone,14616219]]"
+replaces: "[[_Standards/WikiData/WD~Commonwealth_realm_of_Sierra_Leone,14920623]]"
+follows: "[[_Standards/WikiData/WD~Commonwealth_realm_of_Sierra_Leone,14920623]]"
+named_after: "[[_Standards/WikiData/WD~Lion_Mountains,20191018]]"
+head_of_government: "[[_Standards/WikiData/WD~David_Sengeh,23728768]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Chief_Minister_of_Sierra_Leone,56295070]]"
+open_data_portal: "[[_Standards/WikiData/WD~Sierra_Leone_Open_data_portal,97097764]]"
+studied_in: "[[_Standards/WikiData/WD~Sierra_Leone_studies,115672782]]"
 nominal_GDP:
 - 3970343852
 - 4249234574
@@ -132,28 +132,28 @@ demonym:
 MeSH_tree_code: Z01.058.290.190.725
 coordinates_of_northernmost_point: "Point(-11.5 10.0)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Guinea,1006]]'
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
-country: "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+country: "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Krio,35744]]'
 capital: '[[_Standards/WikiData/WD~Freetown,3780]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
-part_of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
+part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 water_as_percent_of_area: 0.2
 unemployment_rate: 3
 VAT_rate: 15
@@ -186,7 +186,7 @@ BTI_Status_Index:
 - 5.39
 - 5.44
 mobile_country_code: 619
-basic_form_of_government: "[[_Standards/WikiData/WD~presidential system,49892]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~presidential_system,49892]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Sierra+Leone.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Sierra%20Leone.svg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg"

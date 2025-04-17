@@ -29,36 +29,36 @@ social_media_followers: 171461
 ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{2}{\\mathsf {M}}{\\mathsf {T}}^{-2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{2}{\\mathsf {M}}{\\mathsf {T}}^{-2}}</annotation>\n  </semantics>\n</math>"
 recommended_unit_of_measurement:
 - '[[_Standards/WikiData/WD~electronvolt,83327]]'
-- "[[_Standards/WikiData/WD~kilogram square metre per square second,106681350]]"
+- "[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]"
 - '[[_Standards/WikiData/WD~joule,25269]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~physical quantity,107715]]"
-- "[[_Standards/WikiData/WD~scalar quantity,181175]]"
-- "[[_Standards/WikiData/WD~extensive quantity,3386703]]"
+- "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+- "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
+- "[[_Standards/WikiData/WD~extensive_quantity,3386703]]"
 different_from:
 - '[[_Standards/WikiData/WD~Energia,295193]]'
-- "[[_Standards/WikiData/WD~energy source,1522115]]"
+- "[[_Standards/WikiData/WD~energy_source,1522115]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~ISO 80000-5_2007 Quantities and units — Part 5_ Thermodynamics,26711934]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-- "[[_Standards/WikiData/WD~ISO 80000-5_2019 Quantities and units — Part 5_ Thermodynamics,92157468]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~ISO_80000-5_2007_Quantities_and_units_—_Part_5__Thermodynamics,26711934]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+- "[[_Standards/WikiData/WD~ISO_80000-5_2019_Quantities_and_units_—_Part_5__Thermodynamics,92157468]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 studied_in: '[[_Standards/WikiData/WD~energetics,719597]]'
 has_use:
-- "[[_Standards/WikiData/WD~energy industry,2151621]]"
-- "[[_Standards/WikiData/WD~energy technology,14554973]]"
+- "[[_Standards/WikiData/WD~energy_industry,2151621]]"
+- "[[_Standards/WikiData/WD~energy_technology,14554973]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~form of energy,3935690]]"
-- "[[_Standards/WikiData/WD~conservation of energy,11382]]"
+- "[[_Standards/WikiData/WD~form_of_energy,3935690]]"
+- "[[_Standards/WikiData/WD~conservation_of_energy,11382]]"
 - '[[_Standards/WikiData/WD~mass,11423]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of energy,7112616]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Energy footer,8093244]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Energy,15106301]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_energy,7112616]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Energy_footer,8093244]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Energy,15106301]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117561470,117561470]]'
 quantity_symbol_LaTeX_:
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle E}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>E</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle E}</annotation>\n  </semantics>\n</math>"
@@ -66,7 +66,7 @@ quantity_symbol_LaTeX_:
 Stack_Exchange_tag:
 - "https://worldbuilding.stackexchange.com/tags/energy"
 - "https://physics.stackexchange.com/tags/energy"
-part_of: "[[_Standards/WikiData/WD~mass–energy equivalence,35875]]"
+part_of: "[[_Standards/WikiData/WD~mass–energy_equivalence,35875]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20power%20transmission.jpg"
 exact_match: "http://purl.obolibrary.org/obo/ENVO_2000015"
 equivalent_class: "https://schema.org/Energy"

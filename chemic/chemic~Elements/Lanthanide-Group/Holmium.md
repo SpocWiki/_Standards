@@ -4,28 +4,28 @@ SpocWebEntityId: 21963
 has_id_wikidata: Q1846
 Unicode_character: 鈥
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Jacques-Louis Soret,124083]]"
-- "[[_Standards/WikiData/WD~Marc Delafontaine,124122]]"
-- "[[_Standards/WikiData/WD~Per Teodor Cleve,377822]]"
+- "[[_Standards/WikiData/WD~Jacques-Louis_Soret,124083]]"
+- "[[_Standards/WikiData/WD~Marc_Delafontaine,124122]]"
+- "[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]"
 has_use:
-- "[[_Standards/WikiData/WD~nuclear poison,221033]]"
-- "[[_Standards/WikiData/WD~pole piece,2102629]]"
+- "[[_Standards/WikiData/WD~nuclear_poison,221033]]"
+- "[[_Standards/WikiData/WD~pole_piece,2102629]]"
 different_from: '[[_Standards/WikiData/WD~Ho,224477]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
-- "[[_Standards/WikiData/WD~gadolinite group,18043462]]"
-- "[[_Standards/WikiData/WD~monazite sands,115626544]]"
+- "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
+- "[[_Standards/WikiData/WD~gadolinite_group,18043462]]"
+- "[[_Standards/WikiData/WD~monazite_sands,115626544]]"
 time_of_discovery_or_invention: "1878"
 UMLS_CUI: C0019846
 named_after: '[[_Standards/WikiData/WD~Stockholm,1754]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 location_of_discovery:
 - '[[_Standards/WikiData/WD~Uppsala,25286]]'
 - '[[_Standards/WikiData/WD~Geneva,71]]'

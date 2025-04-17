@@ -5,32 +5,32 @@ has_id_wikidata: Q1089
 Unicode_character: 鈀
 time_of_discovery_or_invention: "1803"
 part_of:
-- "[[_Standards/WikiData/WD~group 10,205253]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_10,205253]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~platinum group,223995]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~precious metal,271449]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~platinum_group,223995]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~precious_metal,271449]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 different_from:
 - '[[_Standards/WikiData/WD~Palladium,255689]]'
-- "[[_Standards/WikiData/WD~palladium as an investment,1669450]]"
-- "[[_Standards/WikiData/WD~Pallad grenade launcher,2033786]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
+- "[[_Standards/WikiData/WD~palladium_as_an_investment,1669450]]"
+- "[[_Standards/WikiData/WD~Pallad_grenade_launcher,2033786]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Hyde_Wollaston,312975]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 UMLS_CUI: C0030230
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%20crystal%20grown%20using%20CVD.webm"
 electron_configuration:
 - "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d⁸"
 - "[Kr] 5s² 5d⁸"
 named_after: '[[_Standards/WikiData/WD~Q3002,3002]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 electronegativity: 2.2
 atomic_number: 46
 ionic_radius:

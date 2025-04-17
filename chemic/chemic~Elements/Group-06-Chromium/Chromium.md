@@ -4,63 +4,63 @@ SpocWebEntityId: 21924
 has_id_wikidata: Q725
 made_from_material: '[[_Standards/WikiData/WD~chromite,107172]]'
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Rosmarinus officinalis,122679]]"
+- "[[_Standards/WikiData/WD~Rosmarinus_officinalis,122679]]"
 - '[[_Standards/WikiData/WD~Tilia,127849]]'
 - '[[_Standards/WikiData/WD~Baccharis,133834]]'
-- "[[_Standards/WikiData/WD~Cytisus scoparius,145781]]"
-- "[[_Standards/WikiData/WD~Thymus serpyllum,147251]]"
-- "[[_Standards/WikiData/WD~Cupressus sempervirens,147513]]"
-- "[[_Standards/WikiData/WD~Centaurium erythraea,156870]]"
-- "[[_Standards/WikiData/WD~Lamium album,157626]]"
-- "[[_Standards/WikiData/WD~Geranium robertianum,160096]]"
+- "[[_Standards/WikiData/WD~Cytisus_scoparius,145781]]"
+- "[[_Standards/WikiData/WD~Thymus_serpyllum,147251]]"
+- "[[_Standards/WikiData/WD~Cupressus_sempervirens,147513]]"
+- "[[_Standards/WikiData/WD~Centaurium_erythraea,156870]]"
+- "[[_Standards/WikiData/WD~Lamium_album,157626]]"
+- "[[_Standards/WikiData/WD~Geranium_robertianum,160096]]"
 - '[[_Standards/WikiData/WD~Passiflora,161185]]'
-- "[[_Standards/WikiData/WD~Verbena officinalis,161417]]"
-- "[[_Standards/WikiData/WD~Teucrium scorodonia,161748]]"
-- "[[_Standards/WikiData/WD~Erica arborea,176647]]"
-- "[[_Standards/WikiData/WD~Polygonum aviculare,242573]]"
-- "[[_Standards/WikiData/WD~Cistus ladanifer,789800]]"
-- "[[_Standards/WikiData/WD~Genista tridentata,854115]]"
-- "[[_Standards/WikiData/WD~Hypericum androsaemum,886411]]"
-- "[[_Standards/WikiData/WD~Cistus creticus,891305]]"
-- "[[_Standards/WikiData/WD~Lavandula stoechas,1342976]]"
-- "[[_Standards/WikiData/WD~Plains coreopsis,2631259]]"
-- "[[_Standards/WikiData/WD~Vaccinium myrtillus,5413585]]"
-- "[[_Standards/WikiData/WD~Erica umbellata,5835689]]"
-- "[[_Standards/WikiData/WD~Streptomyces griseus,7623385]]"
-- "[[_Standards/WikiData/WD~Glandora diffusa,15588755]]"
-- "[[_Standards/WikiData/WD~Apium graveolens,28298]]"
+- "[[_Standards/WikiData/WD~Verbena_officinalis,161417]]"
+- "[[_Standards/WikiData/WD~Teucrium_scorodonia,161748]]"
+- "[[_Standards/WikiData/WD~Erica_arborea,176647]]"
+- "[[_Standards/WikiData/WD~Polygonum_aviculare,242573]]"
+- "[[_Standards/WikiData/WD~Cistus_ladanifer,789800]]"
+- "[[_Standards/WikiData/WD~Genista_tridentata,854115]]"
+- "[[_Standards/WikiData/WD~Hypericum_androsaemum,886411]]"
+- "[[_Standards/WikiData/WD~Cistus_creticus,891305]]"
+- "[[_Standards/WikiData/WD~Lavandula_stoechas,1342976]]"
+- "[[_Standards/WikiData/WD~Plains_coreopsis,2631259]]"
+- "[[_Standards/WikiData/WD~Vaccinium_myrtillus,5413585]]"
+- "[[_Standards/WikiData/WD~Erica_umbellata,5835689]]"
+- "[[_Standards/WikiData/WD~Streptomyces_griseus,7623385]]"
+- "[[_Standards/WikiData/WD~Glandora_diffusa,15588755]]"
+- "[[_Standards/WikiData/WD~Apium_graveolens,28298]]"
 - '[[_Standards/WikiData/WD~Cashew,34007]]'
-- "[[_Standards/WikiData/WD~Coriandrum sativum,41611]]"
+- "[[_Standards/WikiData/WD~Coriandrum_sativum,41611]]"
 - '[[_Standards/WikiData/WD~cacao,42385]]'
-- "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~allergen,186752]]'
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 6,193280]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_6,193280]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 manufacturer: '[[_Standards/WikiData/WD~Pfizer,206921]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Louis Nicolas Vauquelin,333438]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Louis_Nicolas_Vauquelin,333438]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Chromium,84676042]]'
-- "[[_Standards/WikiData/WD~Enciclopedia universal ilustrada europeo-americana (1908-1930),115627942]]"
+- "[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo-americana_(1908-1930),115627942]]"
 different_from:
 - '[[_Standards/WikiData/WD~Krum,1015373]]'
 - '[[_Standards/WikiData/WD~Chromium,17086855]]'
 - '[[_Standards/WikiData/WD~Chromium,48524]]'
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-named_after: "[[_Standards/WikiData/WD~color field,2948548]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+named_after: "[[_Standards/WikiData/WD~color_field,2948548]]"
 associated_hazard:
-- "[[_Standards/WikiData/WD~chromium toxicity,5113833]]"
-- "[[_Standards/WikiData/WD~chromium exposure,21173579]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-has_effect: "[[_Standards/WikiData/WD~chromium exposure,21173579]]"
+- "[[_Standards/WikiData/WD~chromium_toxicity,5113833]]"
+- "[[_Standards/WikiData/WD~chromium_exposure,21173579]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+has_effect: "[[_Standards/WikiData/WD~chromium_exposure,21173579]]"
 UMLS_CUI: C0008574
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystal%20grown%20using%20CVD%20method.webm"
 vapor_pressure: 0

@@ -1,108 +1,108 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Andean Community,471690]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Andean_Community,471690]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
 - '[[_Standards/WikiData/WD~Mercosur,4264]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Paraguay,170465]]"
-lowest_point: "[[_Standards/WikiData/WD~Paraguay River,179396]]"
-named_after: "[[_Standards/WikiData/WD~Paraguay River,179396]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Paraguay,211759]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Paraguay,170465]]"
+lowest_point: "[[_Standards/WikiData/WD~Paraguay_River,179396]]"
+named_after: "[[_Standards/WikiData/WD~Paraguay_River,179396]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Paraguay,211759]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Itapúa,222564]]'
-- "[[_Standards/WikiData/WD~Paraguarí Department,240014]]"
+- "[[_Standards/WikiData/WD~Paraguarí_Department,240014]]"
 - '[[_Standards/WikiData/WD~Canindeyú,279085]]'
-- "[[_Standards/WikiData/WD~Central Department,372461]]"
-- "[[_Standards/WikiData/WD~San Pedro Department,526176]]"
-- "[[_Standards/WikiData/WD~Misiones Department,591194]]"
-- "[[_Standards/WikiData/WD~Alto Paraguay,682642]]"
-- "[[_Standards/WikiData/WD~Alto Paraná Department,682654]]"
-- "[[_Standards/WikiData/WD~Amambay Department,686586]]"
-- "[[_Standards/WikiData/WD~Concepción Department,741009]]"
-- "[[_Standards/WikiData/WD~Boquerón Department,741017]]"
-- "[[_Standards/WikiData/WD~Presidente Hayes,750551]]"
-- "[[_Standards/WikiData/WD~Ñeembucú Department,755115]]"
-- "[[_Standards/WikiData/WD~Guairá Department,755116]]"
-- "[[_Standards/WikiData/WD~Cordillera Department,755121]]"
-- "[[_Standards/WikiData/WD~Caaguazú Department,880399]]"
-- "[[_Standards/WikiData/WD~Caazapá Department,881839]]"
-- "[[_Standards/WikiData/WD~Capital District,2723419]]"
+- "[[_Standards/WikiData/WD~Central_Department,372461]]"
+- "[[_Standards/WikiData/WD~San_Pedro_Department,526176]]"
+- "[[_Standards/WikiData/WD~Misiones_Department,591194]]"
+- "[[_Standards/WikiData/WD~Alto_Paraguay,682642]]"
+- "[[_Standards/WikiData/WD~Alto_Paraná_Department,682654]]"
+- "[[_Standards/WikiData/WD~Amambay_Department,686586]]"
+- "[[_Standards/WikiData/WD~Concepción_Department,741009]]"
+- "[[_Standards/WikiData/WD~Boquerón_Department,741017]]"
+- "[[_Standards/WikiData/WD~Presidente_Hayes,750551]]"
+- "[[_Standards/WikiData/WD~Ñeembucú_Department,755115]]"
+- "[[_Standards/WikiData/WD~Guairá_Department,755116]]"
+- "[[_Standards/WikiData/WD~Cordillera_Department,755121]]"
+- "[[_Standards/WikiData/WD~Caaguazú_Department,880399]]"
+- "[[_Standards/WikiData/WD~Caazapá_Department,881839]]"
+- "[[_Standards/WikiData/WD~Capital_District,2723419]]"
 part_of:
-- "[[_Standards/WikiData/WD~Southern Cone,236118]]"
-- "[[_Standards/WikiData/WD~Hispanic America,653884]]"
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~South America,18]]"
+- "[[_Standards/WikiData/WD~Southern_Cone,236118]]"
+- "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~South_America,18]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 language_used:
 - '[[_Standards/WikiData/WD~Aché,383701]]'
-- "[[_Standards/WikiData/WD~Ava Guarani,2873230]]"
+- "[[_Standards/WikiData/WD~Ava_Guarani,2873230]]"
 - '[[_Standards/WikiData/WD~Kaskihá,3033534]]'
 - '[[_Standards/WikiData/WD~Maskoy,3033544]]'
 - '[[_Standards/WikiData/WD~Sanapaná,3033556]]'
-- "[[_Standards/WikiData/WD~Toba Qom,3113756]]"
+- "[[_Standards/WikiData/WD~Toba_Qom,3113756]]"
 - '[[_Standards/WikiData/WD~Tapieté,3121063]]'
 - '[[_Standards/WikiData/WD~Nivaclé,3182557]]'
 - '[[_Standards/WikiData/WD~Maká,3281043]]'
 - '[[_Standards/WikiData/WD~Chamacoco,3436637]]'
-- "[[_Standards/WikiData/WD~Joseph Mfonyam,3540927]]"
-- "[[_Standards/WikiData/WD~Mbyá Guaraní,3915584]]"
-- "[[_Standards/WikiData/WD~Pai Tavytera,7124619]]"
-- "[[_Standards/WikiData/WD~Paraguayan Sign Language,7134698]]"
+- "[[_Standards/WikiData/WD~Joseph_Mfonyam,3540927]]"
+- "[[_Standards/WikiData/WD~Mbyá_Guaraní,3915584]]"
+- "[[_Standards/WikiData/WD~Pai_Tavytera,7124619]]"
+- "[[_Standards/WikiData/WD~Paraguayan_Sign_Language,7134698]]"
 - '[[_Standards/WikiData/WD~Enxet,15462609]]'
 - '[[_Standards/WikiData/WD~Enlhet,15462671]]'
 - '[[_Standards/WikiData/WD~Angaité,15736037]]'
-- "[[_Standards/WikiData/WD~Paraguayan Guaraní,17478066]]"
+- "[[_Standards/WikiData/WD~Paraguayan_Guaraní,17478066]]"
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~Guarani,35876]]'
 - '[[_Standards/WikiData/WD~Ayoreo,56634]]'
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
-anthem: "[[_Standards/WikiData/WD~national anthem of Paraguay,626220]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Paraguay,1053138]]"
-highest_point: "[[_Standards/WikiData/WD~Cerro Tres Kandú,1055965]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Paraguay,1121772]]"
+anthem: "[[_Standards/WikiData/WD~national_anthem_of_Paraguay,626220]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Paraguay,1053138]]"
+highest_point: "[[_Standards/WikiData/WD~Cerro_Tres_Kandú,1055965]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Paraguay,1121772]]"
 electrical_plug_type: '[[_Standards/WikiData/WD~Europlug,1378312]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Paraguay,1708244]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Paraguay,2467780]]"
-legislative_body: "[[_Standards/WikiData/WD~Congress of Paraguay,2511660]]"
-culture: "[[_Standards/WikiData/WD~culture of Paraguay,3007373]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Paraguay,1708244]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Paraguay,2467780]]"
+legislative_body: "[[_Standards/WikiData/WD~Congress_of_Paraguay,2511660]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Paraguay,3007373]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Paraguay,4504275]]"
-bibliography: "[[_Standards/WikiData/WD~bibliography of Paraguay,4903386]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Paraguay,7112405]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Paraguay,7644969]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Paraguay,4504275]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_Paraguay,4903386]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Paraguay,7112405]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Paraguay,7644969]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Paraguay,11013312]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-head_of_state: "[[_Standards/WikiData/WD~Santiago Peña Palacios,22695687]]"
+head_of_state: "[[_Standards/WikiData/WD~Santiago_Peña_Palacios,22695687]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103715,27103715]]'
 different_from: '[[_Standards/WikiData/WD~Paragwaj,36025058]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Asuncion,63286098]]'
 - '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
@@ -185,13 +185,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
@@ -208,15 +208,15 @@ official_language:
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~Guarani,35876]]'
 capital: '[[_Standards/WikiData/WD~Asunción,2933]]'
-continent: "[[_Standards/WikiData/WD~South America,18]]"
+continent: "[[_Standards/WikiData/WD~South_America,18]]"
 VAT_rate: 10
 marriageable_age: 20
 unemployment_rate: 4
 life_expectancy: 70
 age_of_majority: 18
 mains_voltage: 220
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Paraguay,34071]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Paraguay,34071]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Paraguay,34071]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Paraguay,34071]]"
 BTI_Governance_Index:
 - 5.7
 - 4.97

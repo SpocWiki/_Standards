@@ -3,19 +3,19 @@ type: Element
 SpocWebEntityId: 21965
 has_id_wikidata: Q1853
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Per Teodor Cleve,377822]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]"
 named_after:
 - '[[_Standards/WikiData/WD~Thule,671008]]'
 - '[[_Standards/WikiData/WD~Scandinavia,21195]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox thulium,8085525]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_thulium,8085525]]"
 time_of_discovery_or_invention: "1879"
 UMLS_CUI: C0040066
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 electronegativity: 1
 atomic_number: 69
 ionic_radius:

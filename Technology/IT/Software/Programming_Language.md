@@ -3,33 +3,33 @@ has_id_wikidata: Q9143
 IEV_number: 171-05-10
 Wolfram_Language_entity_type: ProgrammingLanguage
 subreddit: ProgrammingLanguages
-has_use: "[[_Standards/WikiData/WD~computer programming,80006]]"
+has_use: "[[_Standards/WikiData/WD~computer_programming,80006]]"
 different_from:
-- "[[_Standards/WikiData/WD~hardware description language,173341]]"
+- "[[_Standards/WikiData/WD~hardware_description_language,173341]]"
 - '[[_Standards/WikiData/WD~pseudocode,189224]]'
-- "[[_Standards/WikiData/WD~computer language,629206]]"
-- "[[_Standards/WikiData/WD~implementation of a programming language,4117406]]"
+- "[[_Standards/WikiData/WD~computer_language,629206]]"
+- "[[_Standards/WikiData/WD~implementation_of_a_programming_language,4117406]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~timeline of programming languages,186936]]"
-- "[[_Standards/WikiData/WD~history of programming languages,1068652]]"
-manifestation_of: "[[_Standards/WikiData/WD~programming paradigm,188267]]"
+- "[[_Standards/WikiData/WD~timeline_of_programming_languages,186936]]"
+- "[[_Standards/WikiData/WD~history_of_programming_languages,1068652]]"
+manifestation_of: "[[_Standards/WikiData/WD~programming_paradigm,188267]]"
 has_list:
-- "[[_Standards/WikiData/WD~list of programming languages by type,389085]]"
-- "[[_Standards/WikiData/WD~list of programming languages,11707952]]"
-subclass_of: "[[_Standards/WikiData/WD~computer language,629206]]"
+- "[[_Standards/WikiData/WD~list_of_programming_languages_by_type,389085]]"
+- "[[_Standards/WikiData/WD~list_of_programming_languages,11707952]]"
+subclass_of: "[[_Standards/WikiData/WD~computer_language,629206]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~type system,865760]]"
+- "[[_Standards/WikiData/WD~type_system,865760]]"
 - '[[_Standards/WikiData/WD~syntax,1152399]]'
-- "[[_Standards/WikiData/WD~standard library,1199356]]"
-- "[[_Standards/WikiData/WD~execution model,25346349]]"
+- "[[_Standards/WikiData/WD~standard_library,1199356]]"
+- "[[_Standards/WikiData/WD~execution_model,25346349]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox programming language,6459089]]"
-- "[[_Standards/WikiData/WD~Template_Programming languages,7480464]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Computer Science,6526225]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_programming_language,6459089]]"
+- "[[_Standards/WikiData/WD~Template_Programming_languages,7480464]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~case sensitivity (two options),55121384]]"
-- "[[_Standards/WikiData/WD~type of programming language,116481801]]"
-instance_of: "[[_Standards/WikiData/WD~computer science term,66747126]]"
+- "[[_Standards/WikiData/WD~case_sensitivity_(two_options),55121384]]"
+- "[[_Standards/WikiData/WD~type_of_programming_language,116481801]]"
+instance_of: "[[_Standards/WikiData/WD~computer_science_term,66747126]]"
 EntitySchema_for_this_class: E55
 ArchWiki_article:
 - Programming_languages

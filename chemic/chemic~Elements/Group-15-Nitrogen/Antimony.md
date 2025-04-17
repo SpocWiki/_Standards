@@ -21,27 +21,27 @@ InChIKey: WATWJIUSRGPENY-UHFFFAOYSA-N
 Unicode_character: 銻
 mass: 121.76
 part_of:
-- "[[_Standards/WikiData/WD~group 15,106675]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~antimony compound,72399431]]"
+- "[[_Standards/WikiData/WD~group_15,106675]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~antimony_compound,72399431]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 - '[[_Standards/WikiData/WD~metalloid,19596]]'
-crystal_system: "[[_Standards/WikiData/WD~trigonal crystal system,588274]]"
+crystal_system: "[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Antimony,84655870]]'
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~antimony exposure,3973485]]"
-has_effect: "[[_Standards/WikiData/WD~antimony exposure,3973485]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~antimony_exposure,3973485]]"
+has_effect: "[[_Standards/WikiData/WD~antimony_exposure,3973485]]"
 different_from: '[[_Standards/WikiData/WD~Antimony,29142485]]'
 UMLS_CUI: C0003380
 electron_configuration:

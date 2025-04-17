@@ -2,13 +2,13 @@
 aliases:
 - "Organic chemistry"
 has_id_wikidata: Q11351
-is_the_study_of: "[[_Standards/WikiData/WD~organic compound,174211]]"
+is_the_study_of: "[[_Standards/WikiData/WD~organic_compound,174211]]"
 instance_of:
-- "[[_Standards/WikiData/WD~academic major,4671286]]"
-- "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of organic chemistry,7112694]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Organic chemistry,8084585]]"
+- "[[_Standards/WikiData/WD~academic_major,4671286]]"
+- "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_organic_chemistry,7112694]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Organic_chemistry,8084585]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Organic%20synthesis.jpg"
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Qu%C3%ADmica%20org%C3%A2nica.png"
 Stack_Exchange_tag: "https://chemistry.stackexchange.com/tags/organic-chemistry"
@@ -16,15 +16,15 @@ Iconclass_notation: 49E33
 MeSH_tree_code: H01.181.404
 Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA_ORGANICHESKAYA.html
 PhilPapers_topic: organic-chemistry
-history_of_topic: "[[_Standards/WikiData/WD~history of organic chemistry,17480697]]"
-described_by_source: "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-practiced_by: "[[_Standards/WikiData/WD~organic chemist,34463094]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_organic_chemistry,17480697]]"
+described_by_source: "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+practiced_by: "[[_Standards/WikiData/WD~organic_chemist,34463094]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 Baidu_Tieba_name: 有机化学
 UMLS_CUI: C0008002
 part_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
-opposite_of: "[[_Standards/WikiData/WD~inorganic chemistry,11165]]"
+opposite_of: "[[_Standards/WikiData/WD~inorganic_chemistry,11165]]"
 All_Science_Journal_Classification_Codes: 1605
 Universal_Decimal_Classification: 547
 Dewey_Decimal_Classification: 547

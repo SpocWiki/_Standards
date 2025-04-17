@@ -6,76 +6,76 @@ type: Country
 tags:
 - geo/Country
 has_id_wikidata: Q1246
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Kosovo,116102]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Kosovo,116102]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-- "[[_Standards/WikiData/WD~state with limited recognition,10711424]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+- "[[_Standards/WikiData/WD~state_with_limited_recognition,10711424]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-flag: "[[_Standards/WikiData/WD~flag of Kosovo,168711]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Kosovo,213177]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Kosovo,168711]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Kosovo,213177]]"
 part_of:
-- "[[_Standards/WikiData/WD~Southeast Europe,263686]]"
-- "[[_Standards/WikiData/WD~post-Yugoslavia states,10860602]]"
+- "[[_Standards/WikiData/WD~Southeast_Europe,263686]]"
+- "[[_Standards/WikiData/WD~post-Yugoslavia_states,10860602]]"
 highest_point: '[[_Standards/WikiData/WD~Gjeravica,341983]]'
-head_of_government: "[[_Standards/WikiData/WD~Albin Kurti,441633]]"
-replaces: "[[_Standards/WikiData/WD~United Nations Interim Administration Mission in Kosovo,504557]]"
+head_of_government: "[[_Standards/WikiData/WD~Albin_Kurti,441633]]"
+replaces: "[[_Standards/WikiData/WD~United_Nations_Interim_Administration_Mission_in_Kosovo,504557]]"
 anthem: '[[_Standards/WikiData/WD~Europe,579160]]'
-member_of: "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Kosovo,752364]]"
+member_of: "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Kosovo,752364]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Rahovec Municipality,794039]]"
-- "[[_Standards/WikiData/WD~Suhareka Municipality,794044]]"
-- "[[_Standards/WikiData/WD~Malishevë Municipality,794063]]"
-- "[[_Standards/WikiData/WD~Junik Municipality,794068]]"
-- "[[_Standards/WikiData/WD~Mamusha Municipality,794116]]"
-- "[[_Standards/WikiData/WD~Deçan Municipality,860148]]"
-- "[[_Standards/WikiData/WD~Klina Municipality,860157]]"
-- "[[_Standards/WikiData/WD~Viti Municipality,860303]]"
-- "[[_Standards/WikiData/WD~Drenas Municipality,860365]]"
-- "[[_Standards/WikiData/WD~Podujeva Municipality,860399]]"
-- "[[_Standards/WikiData/WD~Istog Municipality,2043104]]"
-- "[[_Standards/WikiData/WD~Kaçanik Municipality,2043130]]"
-- "[[_Standards/WikiData/WD~Kamenica Municipality,2043136]]"
-- "[[_Standards/WikiData/WD~Štrpce Municipality,2043155]]"
-- "[[_Standards/WikiData/WD~Leposavić Municipality,2048354]]"
-- "[[_Standards/WikiData/WD~Ferizaj Municipality,2048755]]"
-- "[[_Standards/WikiData/WD~Elez Han Municipality,2347012]]"
-- "[[_Standards/WikiData/WD~Fushë Kosovë Municipality,2447449]]"
-- "[[_Standards/WikiData/WD~Zubin Potok Municipality,2500688]]"
-- "[[_Standards/WikiData/WD~Prizren Municipality,2507200]]"
-- "[[_Standards/WikiData/WD~Peja Municipality,2507287]]"
-- "[[_Standards/WikiData/WD~Gjilan Municipality,2513453]]"
-- "[[_Standards/WikiData/WD~Dragash Municipality,3191420]]"
-- "[[_Standards/WikiData/WD~Prishtina City,3625575]]"
-- "[[_Standards/WikiData/WD~Gračanica Municipality,3655958]]"
-- "[[_Standards/WikiData/WD~Gjakova Municipality,3656386]]"
-- "[[_Standards/WikiData/WD~Mitrovica Municipality,3657448]]"
-- "[[_Standards/WikiData/WD~Vushtrri Municipality,3657833]]"
-- "[[_Standards/WikiData/WD~Obiliq Municipality,4329229]]"
-- "[[_Standards/WikiData/WD~Ranilug Municipality,15529552]]"
-- "[[_Standards/WikiData/WD~Lipjan Municipality,16036965]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Kosovo,886947]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Kosovo,954913]]"
+- "[[_Standards/WikiData/WD~Rahovec_Municipality,794039]]"
+- "[[_Standards/WikiData/WD~Suhareka_Municipality,794044]]"
+- "[[_Standards/WikiData/WD~Malishevë_Municipality,794063]]"
+- "[[_Standards/WikiData/WD~Junik_Municipality,794068]]"
+- "[[_Standards/WikiData/WD~Mamusha_Municipality,794116]]"
+- "[[_Standards/WikiData/WD~Deçan_Municipality,860148]]"
+- "[[_Standards/WikiData/WD~Klina_Municipality,860157]]"
+- "[[_Standards/WikiData/WD~Viti_Municipality,860303]]"
+- "[[_Standards/WikiData/WD~Drenas_Municipality,860365]]"
+- "[[_Standards/WikiData/WD~Podujeva_Municipality,860399]]"
+- "[[_Standards/WikiData/WD~Istog_Municipality,2043104]]"
+- "[[_Standards/WikiData/WD~Kaçanik_Municipality,2043130]]"
+- "[[_Standards/WikiData/WD~Kamenica_Municipality,2043136]]"
+- "[[_Standards/WikiData/WD~Štrpce_Municipality,2043155]]"
+- "[[_Standards/WikiData/WD~Leposavić_Municipality,2048354]]"
+- "[[_Standards/WikiData/WD~Ferizaj_Municipality,2048755]]"
+- "[[_Standards/WikiData/WD~Elez_Han_Municipality,2347012]]"
+- "[[_Standards/WikiData/WD~Fushë_Kosovë_Municipality,2447449]]"
+- "[[_Standards/WikiData/WD~Zubin_Potok_Municipality,2500688]]"
+- "[[_Standards/WikiData/WD~Prizren_Municipality,2507200]]"
+- "[[_Standards/WikiData/WD~Peja_Municipality,2507287]]"
+- "[[_Standards/WikiData/WD~Gjilan_Municipality,2513453]]"
+- "[[_Standards/WikiData/WD~Dragash_Municipality,3191420]]"
+- "[[_Standards/WikiData/WD~Prishtina_City,3625575]]"
+- "[[_Standards/WikiData/WD~Gračanica_Municipality,3655958]]"
+- "[[_Standards/WikiData/WD~Gjakova_Municipality,3656386]]"
+- "[[_Standards/WikiData/WD~Mitrovica_Municipality,3657448]]"
+- "[[_Standards/WikiData/WD~Vushtrri_Municipality,3657833]]"
+- "[[_Standards/WikiData/WD~Obiliq_Municipality,4329229]]"
+- "[[_Standards/WikiData/WD~Ranilug_Municipality,15529552]]"
+- "[[_Standards/WikiData/WD~Lipjan_Municipality,16036965]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Kosovo,886947]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Kosovo,954913]]"
 electrical_plug_type: '[[_Standards/WikiData/WD~Schuko,1123613]]'
-legislative_body: "[[_Standards/WikiData/WD~Assembly of the Republic of Kosovo,1246562]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list of monuments in Kosovo,1843024]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Kosovo,2334414]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Kosovo,3298006]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Kosovo,3338523]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Kosovo,3773957]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-culture: "[[_Standards/WikiData/WD~culture of Kosovo,7884282]]"
+legislative_body: "[[_Standards/WikiData/WD~Assembly_of_the_Republic_of_Kosovo,1246562]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_monuments_in_Kosovo,1843024]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Kosovo,2334414]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Kosovo,3298006]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Kosovo,3338523]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Kosovo,3773957]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Kosovo,7884282]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10597945,10597945]]'
 different_from:
 - '[[_Standards/WikiData/WD~Portal_Kosovo,10815296]]'
 - '[[_Standards/WikiData/WD~Kosovo,1231]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kosovo,10815296]]'
-head_of_state: "[[_Standards/WikiData/WD~Vjosa Osmani,13047644]]"
+head_of_state: "[[_Standards/WikiData/WD~Vjosa_Osmani,13047644]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Kosovo,97142429]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Kosovo,97142429]]"
 coordinates_of_northernmost_point: "Point(20.82139045 43.26889376)"
 BHCL_UUID: 2616699a-cd57-4074-995b-0b11bf8a3840
 UMLS_CUI: C0206003
@@ -134,44 +134,44 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Vanuatu,686]]'
-- "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
+- "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Guyana,734]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
-- "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
+- "[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]"
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Honduras,783]]'
-- "[[_Standards/WikiData/WD~Antigua and Barbuda,781]]"
+- "[[_Standards/WikiData/WD~Antigua_and_Barbuda,781]]"
 - '[[_Standards/WikiData/WD~Dominica,784]]'
-- "[[_Standards/WikiData/WD~El Salvador,792]]"
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~El_Salvador,792]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Kuwait,817]]'
 - '[[_Standards/WikiData/WD~Maldives,826]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Qatar,846]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Thailand,869]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Togo,945]]'
-- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+- "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
-- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Malawi,1020]]'
 - '[[_Standards/WikiData/WD~Niger,1032]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+- "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -187,18 +187,18 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Netherlands,55]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Estonia,191]]'
 - '[[_Standards/WikiData/WD~Iceland,189]]'
 - '[[_Standards/WikiData/WD~Latvia,211]]'
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Croatia,224]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
@@ -207,11 +207,11 @@ diplomatic_relation:
 shares_border_with:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
 country: '[[_Standards/WikiData/WD~Kosovo,1246]]'
-territory_claimed_by: "[[_Standards/WikiData/WD~Kosovo and Metohija,1255]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Kosovo and Metohija,1255]]"
+territory_claimed_by: "[[_Standards/WikiData/WD~Kosovo_and_Metohija,1255]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Kosovo_and_Metohija,1255]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 official_language:
 - '[[_Standards/WikiData/WD~Albanian,8748]]'

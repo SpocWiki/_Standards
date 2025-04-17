@@ -1,27 +1,27 @@
 ﻿---
 has_id_wikidata: Q3968
 different_from:
-- "[[_Standards/WikiData/WD~abstract algebra,159943]]"
-- "[[_Standards/WikiData/WD~elementary algebra,211294]]"
+- "[[_Standards/WikiData/WD~abstract_algebra,159943]]"
+- "[[_Standards/WikiData/WD~elementary_algebra,211294]]"
 - '[[_Standards/WikiData/WD~Q20408298,20408298]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-subclass_of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+subclass_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
 instance_of:
-- "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
-- "[[_Standards/WikiData/WD~mathematical theory,20026918]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of algebra,5018842]]"
+- "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+- "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_algebra,5018842]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Algebra,6675761]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of algebra,7112546]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_algebra,7112546]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Algebra,14615029]]'
 practiced_by: '[[_Standards/WikiData/WD~algebraist,23900107]]'
 Stack_Exchange_tag:
@@ -32,7 +32,7 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Q3968-ar.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AC%E0%A5%80%E0%A4%9C%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4.wav"
 part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
-named_after: "[[_Standards/WikiData/WD~The Compendious Book on Calculation by Completion and Balancing,8369]]"
+named_after: "[[_Standards/WikiData/WD~The_Compendious_Book_on_Calculation_by_Completion_and_Balancing,8369]]"
 Universal_Decimal_Classification: 512
 Dewey_Decimal_Classification: 512
 Colon_Classification: B21

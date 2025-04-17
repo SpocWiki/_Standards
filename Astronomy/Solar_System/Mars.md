@@ -1,59 +1,59 @@
 ﻿---
 has_id_wikidata: Q111
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Mars,128621]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Mars,128621]]"
 child_astronomical_body:
-- "[[_Standards/WikiData/WD~Mars Reconnaissance Orbiter,183160]]"
-- "[[_Standards/WikiData/WD~Mariner 9,203801]]"
-- "[[_Standards/WikiData/WD~Mars Express,205672]]"
-- "[[_Standards/WikiData/WD~Mars Global Surveyor,206300]]"
-- "[[_Standards/WikiData/WD~2001 Mars Odyssey,207164]]"
-- "[[_Standards/WikiData/WD~Viking 1,210199]]"
-- "[[_Standards/WikiData/WD~Viking 2,212131]]"
-- "[[_Standards/WikiData/WD~Mars 2,247305]]"
+- "[[_Standards/WikiData/WD~Mars_Reconnaissance_Orbiter,183160]]"
+- "[[_Standards/WikiData/WD~Mariner_9,203801]]"
+- "[[_Standards/WikiData/WD~Mars_Express,205672]]"
+- "[[_Standards/WikiData/WD~Mars_Global_Surveyor,206300]]"
+- "[[_Standards/WikiData/WD~2001_Mars_Odyssey,207164]]"
+- "[[_Standards/WikiData/WD~Viking_1,210199]]"
+- "[[_Standards/WikiData/WD~Viking_2,212131]]"
+- "[[_Standards/WikiData/WD~Mars_2,247305]]"
 - '[[_Standards/WikiData/WD~MAVEN,327075]]'
-- "[[_Standards/WikiData/WD~Mars 3,718908]]"
-- "[[_Standards/WikiData/WD~Mars 5,1065662]]"
-- "[[_Standards/WikiData/WD~ExoMars Trace Gas Orbiter,2090722]]"
-- "[[_Standards/WikiData/WD~Phobos 2,2147975]]"
-- "[[_Standards/WikiData/WD~Mars Orbiter Mission,2156739]]"
+- "[[_Standards/WikiData/WD~Mars_3,718908]]"
+- "[[_Standards/WikiData/WD~Mars_5,1065662]]"
+- "[[_Standards/WikiData/WD~ExoMars_Trace_Gas_Orbiter,2090722]]"
+- "[[_Standards/WikiData/WD~Phobos_2,2147975]]"
+- "[[_Standards/WikiData/WD~Mars_Orbiter_Mission,2156739]]"
 - '[[_Standards/WikiData/WD~Phobos,7547]]'
 - '[[_Standards/WikiData/WD~Deimos,7548]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~atmosphere of Mars,218860]]"
-- "[[_Standards/WikiData/WD~water on Mars,1985733]]"
-- "[[_Standards/WikiData/WD~Martian polar ice caps,3508956]]"
+- "[[_Standards/WikiData/WD~atmosphere_of_Mars,218860]]"
+- "[[_Standards/WikiData/WD~water_on_Mars,1985733]]"
+- "[[_Standards/WikiData/WD~Martian_polar_ice_caps,3508956]]"
 different_from: '[[_Standards/WikiData/WD~Mars,426315]]'
-notation: "[[_Standards/WikiData/WD~Mars symbol,498282]]"
+notation: "[[_Standards/WikiData/WD~Mars_symbol,498282]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~life on Mars,601319]]"
-- "[[_Standards/WikiData/WD~orbit of Mars,3895208]]"
+- "[[_Standards/WikiData/WD~life_on_Mars,601319]]"
+- "[[_Standards/WikiData/WD~orbit_of_Mars,3895208]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-lowest_point: "[[_Standards/WikiData/WD~Valles Marineris,621110]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+lowest_point: "[[_Standards/WikiData/WD~Valles_Marineris,621110]]"
 studied_in:
-- "[[_Standards/WikiData/WD~exploration of Mars,716774]]"
+- "[[_Standards/WikiData/WD~exploration_of_Mars,716774]]"
 - '[[_Standards/WikiData/WD~areology,126733835]]'
-- "[[_Standards/WikiData/WD~geology of Mars,2466]]"
+- "[[_Standards/WikiData/WD~geology_of_Mars,2466]]"
 has_use:
-- "[[_Standards/WikiData/WD~colonization of Mars,838950]]"
-- "[[_Standards/WikiData/WD~terraforming of Mars,3063232]]"
+- "[[_Standards/WikiData/WD~colonization_of_Mars,838950]]"
+- "[[_Standards/WikiData/WD~terraforming_of_Mars,3063232]]"
 instance_of:
-- "[[_Standards/WikiData/WD~superior planet,844911]]"
-- "[[_Standards/WikiData/WD~inner planet of the Solar System,3504248]]"
-flag: "[[_Standards/WikiData/WD~flag of Mars,950546]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Mars observation,4204270]]"
-part_of: "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
-location: "[[_Standards/WikiData/WD~inner Solar System,7879772]]"
+- "[[_Standards/WikiData/WD~superior_planet,844911]]"
+- "[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Mars,950546]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Mars_observation,4204270]]"
+part_of: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
+location: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20elevation.stl"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mars,14615881]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Mars,30589069]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mars,30589069]]"
 argument_of_periapsis: 336.05637041
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Mars.ogg"
@@ -125,7 +125,7 @@ MeSH_tree_code: G01.060.075.730.700.625
 apoapsis: 249232432
 inception: "-4540000000"
 has_time_started: "-4540000000"
-highest_point: "[[_Standards/WikiData/WD~Olympus Mons,520]]"
+highest_point: "[[_Standards/WikiData/WD~Olympus_Mons,520]]"
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 apparent_magnitude: -2.94
 temperature:

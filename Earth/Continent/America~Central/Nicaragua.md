@@ -1,98 +1,98 @@
 ---
 head_of_government:
-- "[[_Standards/WikiData/WD~Violeta Barrios,114142]]"
-- "[[_Standards/WikiData/WD~Enrique Bolaños,311355]]"
-- "[[_Standards/WikiData/WD~Arnoldo Alemán,356647]]"
-- "[[_Standards/WikiData/WD~Daniel Ortega,57402]]"
+- "[[_Standards/WikiData/WD~Violeta_Barrios,114142]]"
+- "[[_Standards/WikiData/WD~Enrique_Bolaños,311355]]"
+- "[[_Standards/WikiData/WD~Arnoldo_Alemán,356647]]"
+- "[[_Standards/WikiData/WD~Daniel_Ortega,57402]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Central American Bank for Economic Integration,190008]]"
-- "[[_Standards/WikiData/WD~Central American Common Market,190019]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~International Regional Organization for Agricultural Health,3356166]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]"
+- "[[_Standards/WikiData/WD~Central_American_Common_Market,190019]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~International_Regional_Organization_for_Agricultural_Health,3356166]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Nicaragua,172533]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Nicaragua,213034]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Nicaragua,246968]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Nicaragua,172533]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Nicaragua,213034]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Nicaragua,246968]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Granada Department,258405]]"
-- "[[_Standards/WikiData/WD~Managua Department,260009]]"
-- "[[_Standards/WikiData/WD~Boaco Department,280973]]"
-- "[[_Standards/WikiData/WD~South Caribbean Coast Autonomous Region,291279]]"
-- "[[_Standards/WikiData/WD~Carazo Department,461133]]"
-- "[[_Standards/WikiData/WD~Chontales Department,498443]]"
-- "[[_Standards/WikiData/WD~North Caribbean Coast Autonomous Region,498452]]"
-- "[[_Standards/WikiData/WD~Masaya Department,570358]]"
-- "[[_Standards/WikiData/WD~León Department,586818]]"
-- "[[_Standards/WikiData/WD~Chinandega Department,644024]]"
-- "[[_Standards/WikiData/WD~Estelí Department,728015]]"
-- "[[_Standards/WikiData/WD~Nueva Segovia Department,728022]]"
-- "[[_Standards/WikiData/WD~Madriz Department,728056]]"
-- "[[_Standards/WikiData/WD~Matagalpa Department,728099]]"
-- "[[_Standards/WikiData/WD~Jinotega Department,728120]]"
-- "[[_Standards/WikiData/WD~Rivas Department,728127]]"
-- "[[_Standards/WikiData/WD~Río San Juan Department,728155]]"
+- "[[_Standards/WikiData/WD~Granada_Department,258405]]"
+- "[[_Standards/WikiData/WD~Managua_Department,260009]]"
+- "[[_Standards/WikiData/WD~Boaco_Department,280973]]"
+- "[[_Standards/WikiData/WD~South_Caribbean_Coast_Autonomous_Region,291279]]"
+- "[[_Standards/WikiData/WD~Carazo_Department,461133]]"
+- "[[_Standards/WikiData/WD~Chontales_Department,498443]]"
+- "[[_Standards/WikiData/WD~North_Caribbean_Coast_Autonomous_Region,498452]]"
+- "[[_Standards/WikiData/WD~Masaya_Department,570358]]"
+- "[[_Standards/WikiData/WD~León_Department,586818]]"
+- "[[_Standards/WikiData/WD~Chinandega_Department,644024]]"
+- "[[_Standards/WikiData/WD~Estelí_Department,728015]]"
+- "[[_Standards/WikiData/WD~Nueva_Segovia_Department,728022]]"
+- "[[_Standards/WikiData/WD~Madriz_Department,728056]]"
+- "[[_Standards/WikiData/WD~Matagalpa_Department,728099]]"
+- "[[_Standards/WikiData/WD~Jinotega_Department,728120]]"
+- "[[_Standards/WikiData/WD~Rivas_Department,728127]]"
+- "[[_Standards/WikiData/WD~Río_San_Juan_Department,728155]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ni,487644]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Nicaragua,572049]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Nicaragua,572049]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 part_of:
-- "[[_Standards/WikiData/WD~Hispanic America,653884]]"
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~Central America,27611]]"
-anthem: "[[_Standards/WikiData/WD~Salve a ti,745219]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Revolucionario Nicaragüense,852448]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Revolucionario Nicaragüense,852448]]"
+- "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~Central_America,27611]]"
+anthem: "[[_Standards/WikiData/WD~Salve_a_ti,745219]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Revolucionario_Nicaragüense,852448]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Revolucionario_Nicaragüense,852448]]"
 replaces:
-- "[[_Standards/WikiData/WD~Mosquito Coast,1165546]]"
+- "[[_Standards/WikiData/WD~Mosquito_Coast,1165546]]"
 - '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
-- "[[_Standards/WikiData/WD~State of Nicaragua,68257039]]"
+- "[[_Standards/WikiData/WD~State_of_Nicaragua,68257039]]"
 language_used:
 - '[[_Standards/WikiData/WD~Miskito,1516803]]'
 - '[[_Standards/WikiData/WD~Ulwa,2405552]]'
 - '[[_Standards/WikiData/WD~Mayangna,3302929]]'
 - '[[_Standards/WikiData/WD~Rama,3444486]]'
 - '[[_Standards/WikiData/WD~Matagalpa,3490756]]'
-- "[[_Standards/WikiData/WD~Moskitian Creole,3504097]]"
+- "[[_Standards/WikiData/WD~Moskitian_Creole,3504097]]"
 - '[[_Standards/WikiData/WD~Subtiaba,3915405]]'
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
-- "[[_Standards/WikiData/WD~Nicaraguan Sign Language,33765]]"
+- "[[_Standards/WikiData/WD~Nicaraguan_Sign_Language,33765]]"
 - '[[_Standards/WikiData/WD~Chorotega,56542]]'
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of Nicaragua,1969591]]"
-highest_point: "[[_Standards/WikiData/WD~Cerro Mogotón,2092378]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Nicaragua,2272499]]"
-economy_of_topic: "[[_Standards/WikiData/WD~La economía en el país Nicaragua,2354587]]"
-culture: "[[_Standards/WikiData/WD~culture of Nicaragua,3007362]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Nicaragua,1969591]]"
+highest_point: "[[_Standards/WikiData/WD~Cerro_Mogotón,2092378]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Nicaragua,2272499]]"
+economy_of_topic: "[[_Standards/WikiData/WD~La_economía_en_el_país_Nicaragua,2354587]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Nicaragua,3007362]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Nicaragua,4504274]]"
-bibliography: "[[_Standards/WikiData/WD~bibliography of Nicaragua,4903375]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Nicaragua,5589280]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Departments of Nicaragua,6065649]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Nicaragua,4504274]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_Nicaragua,4903375]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Nicaragua,5589280]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Departments_of_Nicaragua,6065649]]"
 named_after: '[[_Standards/WikiData/WD~Nicarao,7024511]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Nicaragua,7112382]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Nicaragua,7112382]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~118,11185210]]'
 - '[[_Standards/WikiData/WD~128,25648801]]'
@@ -101,30 +101,30 @@ emergency_phone_number:
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nicaragua,11267742]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q27103593,27103593]]'
 - '[[_Standards/WikiData/WD~Q111452776,111452776]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Republic of Abkhazia,31354462]]"
+- "[[_Standards/WikiData/WD~Republic_of_Abkhazia,31354462]]"
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South Ossetia,23427]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~South_Ossetia,23427]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Finland,33]]'
 - '[[_Standards/WikiData/WD~Greece,41]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32380434,32380434]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Managua,63286068]]'
 - '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
@@ -171,13 +171,13 @@ coordinates_of_northernmost_point: "Point(-86.00099 13.09138)"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Honduras,783]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 country: '[[_Standards/WikiData/WD~Nicaragua,811]]'
-lowest_point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+lowest_point: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
 official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 capital: '[[_Standards/WikiData/WD~Managua,3274]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
-continent: "[[_Standards/WikiData/WD~North America,49]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 unemployment_rate: 5
 mains_voltage: 120
 VAT_rate: 15
@@ -209,7 +209,7 @@ Inequality_adjusted_Human_Development_Index: 0.516
 mobile_country_code: 710
 Happy_Planet_Index_score: 55.2
 Human_Development_Index: 0.667
-head_of_state: "[[_Standards/WikiData/WD~Daniel Ortega,57402]]"
+head_of_state: "[[_Standards/WikiData/WD~Daniel_Ortega,57402]]"
 maritime_identification_digits: 350
 total_fertility_rate: 2.264
 death_rate: 4.655

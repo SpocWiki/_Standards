@@ -23,22 +23,22 @@ produced_by: '[[_Standards/WikiData/WD~brewery,131734]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~commodity,317088]]'
 - '[[_Standards/WikiData/WD~alcopop,1571448]]'
-- "[[_Standards/WikiData/WD~malt beverage,6744639]]"
-- "[[_Standards/WikiData/WD~fermented alcoholic beverage,11258817]]"
+- "[[_Standards/WikiData/WD~malt_beverage,6744639]]"
+- "[[_Standards/WikiData/WD~fermented_alcoholic_beverage,11258817]]"
 different_from:
 - '[[_Standards/WikiData/WD~Bier,421231]]'
 - '[[_Standards/WikiData/WD~Piwo,20034664]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of beer,1517305]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_beer,1517305]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~hops,3214940]]'
 - '[[_Standards/WikiData/WD~barley,61665121]]'
@@ -46,9 +46,9 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~yeast,45422]]'
 made_from_material: '[[_Standards/WikiData/WD~hops,3214940]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Beer,8289204]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox beer,11202881]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Beer,13341435]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_beer,11202881]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Beer,13341435]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Provenio_UUID: c232cd2d-2b67-4fe8-914b-a04bc8eccad9
 UMLS_CUI: C0004922
 carbon_footprint:

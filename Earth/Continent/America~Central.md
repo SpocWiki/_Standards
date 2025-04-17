@@ -2,41 +2,41 @@
 has_id_wikidata: Q27611
 coordinate_location: "Point(-86.0 12.0)"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-highest_point: "[[_Standards/WikiData/WD~Volcán Tajumulco,818467]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+highest_point: "[[_Standards/WikiData/WD~Volcán_Tajumulco,818467]]"
 instance_of: '[[_Standards/WikiData/WD~subcontinent,855697]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Central America,5877499]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Central America topic,5933955]]"
-category_for_maps_or_plans: "[[_Standards/WikiData/WD~Maps of Central America,6035984]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Central America,15304977]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Central America,16558894]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Central America,17680576]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Continental Central America,18479603]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Central_America,5877499]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Central_America_topic,5933955]]"
+category_for_maps_or_plans: "[[_Standards/WikiData/WD~Maps_of_Central_America,6035984]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Central_America,15304977]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Central_America,16558894]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Central_America,17680576]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Continental_Central_America,18479603]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q31952700,31952700]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Central America,105743543]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Central_America,105743543]]"
 BHCL_UUID: 2ce78fb2-a86c-4d32-8a5d-6fbc4908ec56
 UMLS_CUI: C0007674
 MeSH_tree_code: Z01.107.169
 has_part_s_:
 - '[[_Standards/WikiData/WD~Guatemala,774]]'
 - '[[_Standards/WikiData/WD~Honduras,783]]'
-- "[[_Standards/WikiData/WD~El Salvador,792]]"
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~El_Salvador,792]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Panama,804]]'
 - '[[_Standards/WikiData/WD~Nicaragua,811]]'
 - '[[_Standards/WikiData/WD~Belize,242]]'
 part_of:
 - '[[_Standards/WikiData/WD~Americas,828]]'
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~South America,18]]"
-- "[[_Standards/WikiData/WD~North America,49]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~South_America,18]]"
+- "[[_Standards/WikiData/WD~North_America,49]]"
 different_from:
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~Middle America,29876]]"
-shares_border_with: "[[_Standards/WikiData/WD~South America,18]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~Middle_America,29876]]"
+shares_border_with: "[[_Standards/WikiData/WD~South_America,18]]"
 OmegaWiki_Defined_Meaning: 522
 M49_code: 013
 area: 560988

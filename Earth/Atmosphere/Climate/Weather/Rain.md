@@ -5,28 +5,28 @@ has_use:
 - '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
 - '[[_Standards/WikiData/WD~construction,385378]]'
 - '[[_Standards/WikiData/WD~laundering,852100]]'
-- "[[_Standards/WikiData/WD~water supply,1061108]]"
+- "[[_Standards/WikiData/WD~water_supply,1061108]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~drop,185789]]'
 - '[[_Standards/WikiData/WD~raindrop,131199014]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Religion in Geschichte und Gegenwart,1514334]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 different_from: '[[_Standards/WikiData/WD~Rain,20423499]]'
 has_effect:
 - '[[_Standards/WikiData/WD~rainwater,21555202]]'
 - '[[_Standards/WikiData/WD~flood,8068]]'
-instance_of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
 studied_in: '[[_Standards/WikiData/WD~ombrology,127220291]]'
 UMLS_CUI: C0034640
 MeSH_tree_code:

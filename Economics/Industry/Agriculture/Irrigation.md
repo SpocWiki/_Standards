@@ -1,24 +1,24 @@
 ﻿---
 has_id_wikidata: Q11453
 described_by_source:
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Armenian Nature,16387823]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 instance_of: '[[_Standards/WikiData/WD~activity,1914636]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~process,10843872]]'
 - '[[_Standards/WikiData/WD~transport,7590]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-facet_of: "[[_Standards/WikiData/WD~transport of water,17138804]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+facet_of: "[[_Standards/WikiData/WD~transport_of_water,17138804]]"
 different_from:
-- "[[_Standards/WikiData/WD~plant watering,20918473]]"
-- "[[_Standards/WikiData/WD~dental irrigation,125728927]]"
+- "[[_Standards/WikiData/WD~plant_watering,20918473]]"
+- "[[_Standards/WikiData/WD~dental_irrigation,125728927]]"
 has_effect: '[[_Standards/WikiData/WD~runoff,66486514]]'
-studied_in: "[[_Standards/WikiData/WD~irrigation engineering,114778863]]"
+studied_in: "[[_Standards/WikiData/WD~irrigation_engineering,114778863]]"
 UMLS_CUI: C2936278
 class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~water,283]]'
 OmegaWiki_Defined_Meaning: 2028

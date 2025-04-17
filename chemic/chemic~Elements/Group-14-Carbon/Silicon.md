@@ -42,22 +42,22 @@ Unicode_character: 矽
 UNSPSC_Code: 12141911
 named_after: '[[_Standards/WikiData/WD~flint,83087]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 14,106693]]"
-- "[[_Standards/WikiData/WD~period 3,211331]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Opuntia stricta,141416]]"
+- "[[_Standards/WikiData/WD~group_14,106693]]"
+- "[[_Standards/WikiData/WD~period_3,211331]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Opuntia_stricta,141416]]"
 different_from: '[[_Standards/WikiData/WD~silicone,146439]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jöns Jacob Berzelius,151911]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Silicon,108309527]]'
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
 exact_match: "http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_7061"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Silicon-unit-cell-3D-balls.png"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/SiliconCroda.jpg"
@@ -76,8 +76,8 @@ Commons_gallery: Silicon
 RTECS_number: VW0400000
 InChIKey: XUIMIQQOPSSXEZ-UHFFFAOYSA-N
 UNII: Z4152N8IUI
-associated_hazard: "[[_Standards/WikiData/WD~silicon exposure,21175300]]"
-has_effect: "[[_Standards/WikiData/WD~silicon exposure,21175300]]"
+associated_hazard: "[[_Standards/WikiData/WD~silicon_exposure,21175300]]"
+has_effect: "[[_Standards/WikiData/WD~silicon_exposure,21175300]]"
 UMLS_CUI: C0037107
 subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
 vapor_pressure: 0

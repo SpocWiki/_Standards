@@ -3,9 +3,9 @@ type: Element
 SpocWebEntityId: 21990
 has_id_wikidata: Q1872
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox americium,8085709]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_americium,8085709]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Americium%20microscope.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-am%C3%A9ricium.wav"
 EC_number: 231-144-4
@@ -21,10 +21,10 @@ DSSTOX_compound_identifier: DTXCID6047658
 InChI: InChI=1S/Am
 InChIKey: LXQXZNRPTYVCNG-UHFFFAOYSA-N
 UNII: VW92PHU2UY
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20146.jpg"
 named_after: '[[_Standards/WikiData/WD~Americas,828]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
 - 0.85
 - 0.95
@@ -33,7 +33,7 @@ ionic_radius:
 atomic_number: 95
 electronegativity: 1.13
 mass: 243
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 chemical_formula: Am
 element_symbol: Am
 PubChem_CID: 23966

@@ -25,32 +25,32 @@ made_from_material: '[[_Standards/WikiData/WD~beryl,103480]]'
 named_after: '[[_Standards/WikiData/WD~beryl,103480]]'
 subject_has_role:
 - '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- "[[_Standards/WikiData/WD~occupational carcinogen,21074597]]"
+- "[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 2,207712]]"
-- "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+- "[[_Standards/WikiData/WD~period_2,207712]]"
+- "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Louis Nicolas Vauquelin,333438]]"
-- "[[_Standards/WikiData/WD~Antoine Bussy,585780]]"
-- "[[_Standards/WikiData/WD~Friedrich Wöhler,58575]]"
+- "[[_Standards/WikiData/WD~Louis_Nicolas_Vauquelin,333438]]"
+- "[[_Standards/WikiData/WD~Antoine_Bussy,585780]]"
+- "[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]"
 different_from: '[[_Standards/WikiData/WD~Beryl,440624]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 has_effect:
 - '[[_Standards/WikiData/WD~berylliosis,684810]]'
-- "[[_Standards/WikiData/WD~acute beryllium poisoning,4896104]]"
+- "[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
-- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~acute beryllium poisoning,4896104]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]"
 mass: 9.0121831
 UMLS_CUI: C0005139
 subclass_of: '[[_Standards/WikiData/WD~metal,11426]]'

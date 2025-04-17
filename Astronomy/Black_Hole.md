@@ -10,22 +10,22 @@ short_name:
 - BH
 - BN
 different_from:
-- "[[_Standards/WikiData/WD~white hole,131468]]"
-- "[[_Standards/WikiData/WD~black dwarf,5976]]"
-opposite_of: "[[_Standards/WikiData/WD~white hole,131468]]"
+- "[[_Standards/WikiData/WD~white_hole,131468]]"
+- "[[_Standards/WikiData/WD~black_dwarf,5976]]"
+opposite_of: "[[_Standards/WikiData/WD~white_hole,131468]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~angular momentum,161254]]"
-- "[[_Standards/WikiData/WD~gravitational wave,190035]]"
-- "[[_Standards/WikiData/WD~Tolman–Oppenheimer–Volkoff limit,1139232]]"
-- "[[_Standards/WikiData/WD~electric charge,1111]]"
+- "[[_Standards/WikiData/WD~angular_momentum,161254]]"
+- "[[_Standards/WikiData/WD~gravitational_wave,190035]]"
+- "[[_Standards/WikiData/WD~Tolman–Oppenheimer–Volkoff_limit,1139232]]"
+- "[[_Standards/WikiData/WD~electric_charge,1111]]"
 - '[[_Standards/WikiData/WD~mass,11423]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~event horizon,181741]]"
-- "[[_Standards/WikiData/WD~gravitational singularity,201721]]"
+- "[[_Standards/WikiData/WD~event_horizon,181741]]"
+- "[[_Standards/WikiData/WD~gravitational_singularity,201721]]"
 - '[[_Standards/WikiData/WD~firewall,5452017]]'
-has_effect: "[[_Standards/WikiData/WD~Hawking radiation,497396]]"
-subclass_of: "[[_Standards/WikiData/WD~massive compact halo object,1457669]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Black holes,6720830]]"
+has_effect: "[[_Standards/WikiData/WD~Hawking_radiation,497396]]"
+subclass_of: "[[_Standards/WikiData/WD~massive_compact_halo_object,1457669]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Black_holes,6720830]]"
 schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details-ru.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details.svg"
@@ -42,7 +42,7 @@ spoken_text_audio:
 Commons_gallery: "Black hole"
 Commons_category: "Black holes"
 Krugosvet_article: nauka_i_tehnika/astronomiya/CHERNAYA_DIRA.html
-instance_of: "[[_Standards/WikiData/WD~astronomical object type,17444909]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg"
 Stack_Exchange_tag: "https://physics.stackexchange.com/tags/black-holes"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Black%20Hole%20Visualization%20Takes%20Viewers%20Beyond%20the%20Brink%20%28SVS14576%20BH%20Plunge%20Mollweide%208192x4096%2060%29.webm"

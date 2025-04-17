@@ -1,24 +1,24 @@
 ﻿---
 has_id_wikidata: Q7347
-outflows: "[[_Standards/WikiData/WD~St. Lawrence River,134750]]"
+outflows: "[[_Standards/WikiData/WD~St._Lawrence_River,134750]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from:
-- "[[_Standards/WikiData/WD~Great Lakes Megalopolis,967322]]"
+- "[[_Standards/WikiData/WD~Great_Lakes_Megalopolis,967322]]"
 - '[[_Standards/WikiData/WD~Q3278280,3278280]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~Lake Michigan–Huron,1377732]]"
-- "[[_Standards/WikiData/WD~Lake Ontario,1062]]"
-- "[[_Standards/WikiData/WD~Lake Superior,1066]]"
-- "[[_Standards/WikiData/WD~Lake Erie,5492]]"
-drainage_basin: "[[_Standards/WikiData/WD~Great Lakes drainage basin,5599423]]"
+- "[[_Standards/WikiData/WD~Lake_Michigan–Huron,1377732]]"
+- "[[_Standards/WikiData/WD~Lake_Ontario,1062]]"
+- "[[_Standards/WikiData/WD~Lake_Superior,1066]]"
+- "[[_Standards/WikiData/WD~Lake_Erie,5492]]"
+drainage_basin: "[[_Standards/WikiData/WD~Great_Lakes_drainage_basin,5599423]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Great Lakes of North America,10793434]]"
-instance_of: "[[_Standards/WikiData/WD~group of interconnected lakes,25498657]]"
+- "[[_Standards/WikiData/WD~Template_Great_Lakes_of_North_America,10793434]]"
+instance_of: "[[_Standards/WikiData/WD~group_of_interconnected_lakes,25498657]]"
 U_S_National_Archives_Identifier: 10044502
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Lakes%20banner%20Boats%20near%20Chicago.jpg"
 bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Lakes%20bathymetry%20map.png"
@@ -26,8 +26,8 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Lakes%2C%20No%20Clouds%20%284968915002%29%20Brighter.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/ISS-43%20the%20Great%20Lakes%20of%20North%20America.jpg"
 coordinate_location: "Point(-84.0 45.75)"
-country: "[[_Standards/WikiData/WD~United States,30]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~North America,49]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~North_America,49]]"
 area: 208610
 volume_as_quantity: 22725
 Commons_gallery: "Great Lakes"

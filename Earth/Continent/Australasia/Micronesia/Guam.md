@@ -31,13 +31,13 @@ Languages:
 - ch-GU
 icon: flag-gu
 has_id_wikidata: Q16635
-flag: "[[_Standards/WikiData/WD~flag of Guam,235829]]"
-different_from: "[[_Standards/WikiData/WD~GUAM Organization for Democracy and Economic Development,326816]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Guam,235829]]"
+different_from: "[[_Standards/WikiData/WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816]]"
 instance_of:
-- "[[_Standards/WikiData/WD~insular area of the United States,462778]]"
-- "[[_Standards/WikiData/WD~unincorporated territory of the United States,783733]]"
-- "[[_Standards/WikiData/WD~territory of the United States,1352230]]"
-- "[[_Standards/WikiData/WD~country for sports,47488809]]"
+- "[[_Standards/WikiData/WD~insular_area_of_the_United_States,462778]]"
+- "[[_Standards/WikiData/WD~unincorporated_territory_of_the_United_States,783733]]"
+- "[[_Standards/WikiData/WD~territory_of_the_United_States,1352230]]"
+- "[[_Standards/WikiData/WD~country_for_sports,47488809]]"
 - '[[_Standards/WikiData/WD~island,23442]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Umatac,531529]]'
@@ -45,46 +45,46 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Asan-Maina,926116]]'
 - '[[_Standards/WikiData/WD~Tamuning,933714]]'
 - '[[_Standards/WikiData/WD~Dededo,1182147]]'
-- "[[_Standards/WikiData/WD~Sånta Rita-Sumai,1780381]]"
+- "[[_Standards/WikiData/WD~Sånta_Rita-Sumai,1780381]]"
 - '[[_Standards/WikiData/WD~Mongmong-Toto-Maite,1780393]]'
 - '[[_Standards/WikiData/WD~Inalåhan,2482456]]'
 - '[[_Standards/WikiData/WD~Piti,2482463]]'
 - '[[_Standards/WikiData/WD~Talofofo,2482468]]'
 - '[[_Standards/WikiData/WD~Yigo,2482473]]'
-- "[[_Standards/WikiData/WD~Chalan Pago-Ordot,2482483]]"
+- "[[_Standards/WikiData/WD~Chalan_Pago-Ordot,2482483]]"
 - '[[_Standards/WikiData/WD~Sinajana,2482489]]'
 - '[[_Standards/WikiData/WD~Merizo,2482497]]'
 - '[[_Standards/WikiData/WD~Mangilao,2637935]]'
 - '[[_Standards/WikiData/WD~Yona,2638381]]'
 - '[[_Standards/WikiData/WD~Barrigada,2714489]]'
-- "[[_Standards/WikiData/WD~Agana Heights,2714496]]"
+- "[[_Standards/WikiData/WD~Agana_Heights,2714496]]"
 - '[[_Standards/WikiData/WD~Hagåtña,30988]]'
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-anthem: "[[_Standards/WikiData/WD~Stand Ye Guamanians,646622]]"
-official_symbol: "[[_Standards/WikiData/WD~Guam Rail,924911]]"
-legislative_body: "[[_Standards/WikiData/WD~Legislature of Guam,1563896]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Guam,2676017]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Guam,3323113]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+anthem: "[[_Standards/WikiData/WD~Stand_Ye_Guamanians,646622]]"
+official_symbol: "[[_Standards/WikiData/WD~Guam_Rail,924911]]"
+legislative_body: "[[_Standards/WikiData/WD~Legislature_of_Guam,1563896]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Guam,2676017]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Guam,3323113]]"
 part_of:
 - '[[_Standards/WikiData/WD~Micronesia,3359409]]'
 - '[[_Standards/WikiData/WD~Q3432631,3432631]]'
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Lamlam,4380977]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Guam,5256014]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Guam,5535153]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Guam,5589214]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Lamlam,4380977]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Guam,5256014]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Guam,5535153]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Guam,5589214]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Guam,6398652]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Guam,7112278]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Guam,7644911]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Guam,7112278]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Guam,7644911]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Guam.map"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Guam.ogg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Guam-banner.jpg"
@@ -136,13 +136,13 @@ Commons_category: Guam
 coordinates_of_northernmost_point: "Point(144.860277777 13.650555555)"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guam,15145552]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor of Guam,20804488]]"
-head_of_government: "[[_Standards/WikiData/WD~Lou Leon Guerrero,21066675]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_Guam,20804488]]"
+head_of_government: "[[_Standards/WikiData/WD~Lou_Leon_Guerrero,21066675]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~village of Guam,96857311]]"
-archives_at: "[[_Standards/WikiData/WD~Office of Vital Statistics,106712467]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~village_of_Guam,96857311]]"
+archives_at: "[[_Standards/WikiData/WD~Office_of_Vital_Statistics,106712467]]"
 inception: "1898"
 has_time_started: 1898-06 
 Instagram_username: visitguam_jp
@@ -151,10 +151,10 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Woods%20at%20Guam%20N
 UN_LOCODE: GUGUM
 coordinate_location: "Point(144.8 13.5)"
 coordinates_of_easternmost_point: "Point(144.955 13.598)"
-continent: "[[_Standards/WikiData/WD~Insular Oceania,538]]"
+continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 shares_border_with:
-- "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
-- "[[_Standards/WikiData/WD~Northern Mariana Islands,16644]]"
+- "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
+- "[[_Standards/WikiData/WD~Northern_Mariana_Islands,16644]]"
 twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Manila,1461]]'
 - '[[_Standards/WikiData/WD~Riga,1773]]'
@@ -169,10 +169,10 @@ official_language:
 - '[[_Standards/WikiData/WD~Chamorro,33262]]'
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
 capital: '[[_Standards/WikiData/WD~Hagåtña,30988]]'
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~United States,30]]"
-country: "[[_Standards/WikiData/WD~United States,30]]"
-lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~United_States,30]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 mains_voltage: 110
 marriageable_age: 18
 minimum_temperature_record: 56

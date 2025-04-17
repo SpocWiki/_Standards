@@ -1,25 +1,25 @@
 ---
-flag: "[[_Standards/WikiData/WD~flag of Pakistan,128347]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Pakistan,128347]]"
 replaces:
-- "[[_Standards/WikiData/WD~British Raj,129286]]"
-- "[[_Standards/WikiData/WD~Dominion of Pakistan,2006542]]"
-- "[[_Standards/WikiData/WD~presidencies and provinces of British India,2385925]]"
+- "[[_Standards/WikiData/WD~British_Raj,129286]]"
+- "[[_Standards/WikiData/WD~Dominion_of_Pakistan,2006542]]"
+- "[[_Standards/WikiData/WD~presidencies_and_provinces_of_British_India,2385925]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Lebanon,822]]'
 - '[[_Standards/WikiData/WD~Maldives,826]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Nepal,837]]'
 - '[[_Standards/WikiData/WD~Oman,842]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Tajikistan,863]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
 - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
@@ -35,13 +35,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-- "[[_Standards/WikiData/WD~German Democratic Republic,16957]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+- "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -58,23 +58,23 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Belarus,184]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Chile,298]]'
@@ -84,10 +84,10 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
 - '[[_Standards/WikiData/WD~Yemen,805]]'
@@ -95,45 +95,45 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
 - '[[_Standards/WikiData/WD~Kuwait,817]]'
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~states with nuclear weapons,189062]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Southeast Asia Treaty Organization,277252]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~Shanghai Cooperation Organisation,485207]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~states_with_nuclear_weapons,189062]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Balochistan,163239]]'
-- "[[_Standards/WikiData/WD~Khyber Pakhtunkhwa,183314]]"
-- "[[_Standards/WikiData/WD~Azad Kashmir,200130]]"
+- "[[_Standards/WikiData/WD~Khyber_Pakhtunkhwa,183314]]"
+- "[[_Standards/WikiData/WD~Azad_Kashmir,200130]]"
 - '[[_Standards/WikiData/WD~Gilgit-Baltistan,200697]]'
-- "[[_Standards/WikiData/WD~Islamabad Capital Territory,848613]]"
+- "[[_Standards/WikiData/WD~Islamabad_Capital_Territory,848613]]"
 - '[[_Standards/WikiData/WD~Punjab,4478]]'
-- "[[_Standards/WikiData/WD~Junagadh and Manavadar,19807103]]"
+- "[[_Standards/WikiData/WD~Junagadh_and_Manavadar,19807103]]"
 - '[[_Standards/WikiData/WD~Sindh,37211]]'
 named_after:
 - '[[_Standards/WikiData/WD~Balochistan,163239]]'
-- "[[_Standards/WikiData/WD~Khyber Pakhtunkhwa,183314]]"
-- "[[_Standards/WikiData/WD~Azad Kashmir,200130]]"
-- "[[_Standards/WikiData/WD~sincerity in Islam,6455021]]"
+- "[[_Standards/WikiData/WD~Khyber_Pakhtunkhwa,183314]]"
+- "[[_Standards/WikiData/WD~Azad_Kashmir,200130]]"
+- "[[_Standards/WikiData/WD~sincerity_in_Islam,6455021]]"
 - '[[_Standards/WikiData/WD~Punjab,4478]]'
 - '[[_Standards/WikiData/WD~Sindh,37211]]'
 religion_or_worldview:
@@ -141,15 +141,15 @@ religion_or_worldview:
 - '[[_Standards/WikiData/WD~Christianity,5043]]'
 - '[[_Standards/WikiData/WD~Hinduism,9089]]'
 - '[[_Standards/WikiData/WD~Islam,432]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of Arms of Pakistan,201168]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_Arms_of_Pakistan,201168]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~Baloch,201501]]'
 - '[[_Standards/WikiData/WD~Punjabis,854323]]'
 - '[[_Standards/WikiData/WD~Sindhis,1258074]]'
 - '[[_Standards/WikiData/WD~Pashtuns,2556103]]'
 - '[[_Standards/WikiData/WD~Muhajir,12644212]]'
-- "[[_Standards/WikiData/WD~Saraiki people,46713]]"
-anthem: "[[_Standards/WikiData/WD~Qaumi Taranah,213267]]"
+- "[[_Standards/WikiData/WD~Saraiki_people,46713]]"
+anthem: "[[_Standards/WikiData/WD~Qaumi_Taranah,213267]]"
 language_used:
 - '[[_Standards/WikiData/WD~Burushaski,216286]]'
 - '[[_Standards/WikiData/WD~Hindko,382273]]'
@@ -162,7 +162,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Khetrani,2614111]]'
 - '[[_Standards/WikiData/WD~Torwali,2665246]]'
 - '[[_Standards/WikiData/WD~Gujari,3241731]]'
-- "[[_Standards/WikiData/WD~Parkari Koli,3244176]]"
+- "[[_Standards/WikiData/WD~Parkari_Koli,3244176]]"
 - '[[_Standards/WikiData/WD~Aer,3246741]]'
 - '[[_Standards/WikiData/WD~Chilisso,3250629]]'
 - '[[_Standards/WikiData/WD~Ushoji,3540446]]'
@@ -170,12 +170,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Bateri,3812564]]'
 - '[[_Standards/WikiData/WD~Kalkoti,3877551]]'
 - '[[_Standards/WikiData/WD~Memoni,4180871]]'
-- "[[_Standards/WikiData/WD~Central Pashto,5061628]]"
+- "[[_Standards/WikiData/WD~Central_Pashto,5061628]]"
 - '[[_Standards/WikiData/WD~Gurgula,5620032]]'
 - '[[_Standards/WikiData/WD~Dehwari,5704314]]'
 - '[[_Standards/WikiData/WD~Jandavra,6150941]]'
-- "[[_Standards/WikiData/WD~Hazara Hindko,6346358]]"
-- "[[_Standards/WikiData/WD~Kundal Shahi,6444265]]"
+- "[[_Standards/WikiData/WD~Hazara_Hindko,6346358]]"
+- "[[_Standards/WikiData/WD~Kundal_Shahi,6444265]]"
 - '[[_Standards/WikiData/WD~Loarki,6663513]]'
 - '[[_Standards/WikiData/WD~Od,7077191]]'
 - '[[_Standards/WikiData/WD~Urdu,1617]]'
@@ -192,16 +192,16 @@ language_used:
 - '[[_Standards/WikiData/WD~Tareeno,7967334]]'
 - '[[_Standards/WikiData/WD~Bhaya,8841168]]'
 - '[[_Standards/WikiData/WD~Kabutra,10966761]]'
-- "[[_Standards/WikiData/WD~Kachi Koli,12953646]]"
+- "[[_Standards/WikiData/WD~Kachi_Koli,12953646]]"
 - '[[_Standards/WikiData/WD~Wadiyara,12953645]]'
 - '[[_Standards/WikiData/WD~Lasi,12953669]]'
-- "[[_Standards/WikiData/WD~Kohistani Shina,12953882]]"
+- "[[_Standards/WikiData/WD~Kohistani_Shina,12953882]]"
 - '[[_Standards/WikiData/WD~Jadgali,13560607]]'
 - '[[_Standards/WikiData/WD~Jogi,19572305]]'
 - '[[_Standards/WikiData/WD~Ghera,22808992]]'
-- "[[_Standards/WikiData/WD~Pakistan Sign Language,22964057]]"
-- "[[_Standards/WikiData/WD~Sindhi Bhil,25559289]]"
-- "[[_Standards/WikiData/WD~Indus Kohistani,33399]]"
+- "[[_Standards/WikiData/WD~Pakistan_Sign_Language,22964057]]"
+- "[[_Standards/WikiData/WD~Sindhi_Bhil,25559289]]"
+- "[[_Standards/WikiData/WD~Indus_Kohistani,33399]]"
 - '[[_Standards/WikiData/WD~Kalasha,33416]]'
 - '[[_Standards/WikiData/WD~Kashmiri,33552]]'
 - '[[_Standards/WikiData/WD~Pothohari,33739]]'
@@ -213,42 +213,42 @@ language_used:
 - '[[_Standards/WikiData/WD~Wakhi,34208]]'
 - '[[_Standards/WikiData/WD~Punjabi,58635]]'
 - '[[_Standards/WikiData/WD~Pashto,58680]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Pakistan,473984]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Pakistan,473984]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~federal republic,512187]]"
-- "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Pakistan,679314]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Pakistan,726994]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Pakistan,735575]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~South Asia,771405]]"
-part_of: "[[_Standards/WikiData/WD~South Asia,771405]]"
+- "[[_Standards/WikiData/WD~federal_republic,512187]]"
+- "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Pakistan,679314]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Pakistan,726994]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Pakistan,735575]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Asia,771405]]"
+part_of: "[[_Standards/WikiData/WD~South_Asia,771405]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Tsushima,816736]]'
-central_bank: "[[_Standards/WikiData/WD~State Bank of Pakistan,1323248]]"
+central_bank: "[[_Standards/WikiData/WD~State_Bank_of_Pakistan,1323248]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 546,1383497]]"
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Pakistan,1950255]]"
-follows: "[[_Standards/WikiData/WD~Dominion of Pakistan,2006542]]"
-head_of_government: "[[_Standards/WikiData/WD~Shehbaz Sharif,2096387]]"
-culture: "[[_Standards/WikiData/WD~culture of Pakistan,2591804]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Pakistan,2665089]]"
+- "[[_Standards/WikiData/WD~BS_546,1383497]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Pakistan,1950255]]"
+follows: "[[_Standards/WikiData/WD~Dominion_of_Pakistan,2006542]]"
+head_of_government: "[[_Standards/WikiData/WD~Shehbaz_Sharif,2096387]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Pakistan,2591804]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Pakistan,2665089]]"
 highest_judicial_authority:
-- "[[_Standards/WikiData/WD~Supreme Court of Pakistan,2989473]]"
-- "[[_Standards/WikiData/WD~Supreme Court of Azad Jammu & Kashmir,48731999]]"
-- "[[_Standards/WikiData/WD~Supreme  Appellate Court Gilgit-Baltistan,106506436]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Pakistan,3123475]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Pakistan,3250182]]"
+- "[[_Standards/WikiData/WD~Supreme_Court_of_Pakistan,2989473]]"
+- "[[_Standards/WikiData/WD~Supreme_Court_of_Azad_Jammu_&_Kashmir,48731999]]"
+- "[[_Standards/WikiData/WD~Supreme__Appellate_Court_Gilgit-Baltistan,106506436]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Pakistan,3123475]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Pakistan,3250182]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Karachi,4806288]]'
 - '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
-bibliography: "[[_Standards/WikiData/WD~bibliography of Pakistan,4903385]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Administrative units of Pakistan,6669122]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Pakistan,7112402]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_Pakistan,4903385]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Administrative_units_of_Pakistan,6669122]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Pakistan,7112402]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~1122,7314973]]'
 - '[[_Standards/WikiData/WD~15,25648869]]'
@@ -256,7 +256,7 @@ emergency_phone_number:
 country: '[[_Standards/WikiData/WD~Pakistan,843]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 capital: '[[_Standards/WikiData/WD~Islamabad,1362]]'
@@ -272,11 +272,11 @@ age_of_majority:
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pakistan,13211550]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Pakistan,15614930]]"
-motto: "[[_Standards/WikiData/WD~Iman, Ittihad, Nazm,19605101]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Pakistan,15614930]]"
+motto: "[[_Standards/WikiData/WD~Iman,_Ittihad,_Nazm,19605101]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103886,27103886]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Pakistan,97062473]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Pakistan,97062473]]"
 urban_population: 75670837
 nominal_GDP:
 - 348262544719
@@ -384,8 +384,8 @@ Democracy_Index: 4.31
 Happy_Planet_Index_score: 45.1
 trunk_prefix: 0
 Human_Development_Index: 0.544
-head_of_state: "[[_Standards/WikiData/WD~Asif Ali Zardari,57373]]"
-lowest_point: "[[_Standards/WikiData/WD~Arabian Sea,58705]]"
+head_of_state: "[[_Standards/WikiData/WD~Asif_Ali_Zardari,57373]]"
+lowest_point: "[[_Standards/WikiData/WD~Arabian_Sea,58705]]"
 maritime_identification_digits: 463
 mobile_country_code: 410
 life_expectancy: 69.37

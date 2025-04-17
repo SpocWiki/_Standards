@@ -1,23 +1,23 @@
 ﻿---
 has_id_wikidata: Q8074
 made_from_material:
-- "[[_Standards/WikiData/WD~water vapor,190120]]"
-- "[[_Standards/WikiData/WD~ice crystal,1325808]]"
+- "[[_Standards/WikiData/WD~water_vapor,190120]]"
+- "[[_Standards/WikiData/WD~ice_crystal,1325808]]"
 - '[[_Standards/WikiData/WD~droplet,87446208]]'
-has_effect: "[[_Standards/WikiData/WD~sun dog,208589]]"
+has_effect: "[[_Standards/WikiData/WD~sun_dog,208589]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 studied_in: '[[_Standards/WikiData/WD~nephology,691312]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Nuaj,12894866]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
 different_from: '[[_Standards/WikiData/WD~Chmura,50393484]]'
-instance_of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
 Digital_Atlas_of_Idaho_URL: "https://digitalatlas.cose.isu.edu/clima/imaging/cldfr.htm"
 label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Nuage%20Nm%201%201%201%20-%20Elix.webm"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Arcus%20passing%20overhead%2028%20July%202021%20Galley%20Common.webm"

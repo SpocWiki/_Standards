@@ -2,17 +2,17 @@
 type: Element
 SpocWebEntityId: 21906
 has_id_wikidata: Q558
-place_of_birth: "[[_Standards/WikiData/WD~19th arrondissement of Paris,204622]]"
+place_of_birth: "[[_Standards/WikiData/WD~19th_arrondissement_of_Paris,204622]]"
 educated_at:
-- "[[_Standards/WikiData/WD~École du Louvre,273534]]"
-- "[[_Standards/WikiData/WD~Panthéon-Assas University Paris,662976]]"
+- "[[_Standards/WikiData/WD~École_du_Louvre,273534]]"
+- "[[_Standards/WikiData/WD~Panthéon-Assas_University_Paris,662976]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~National Gallery of Victoria,1464509]]"
-- "[[_Standards/WikiData/WD~Kunstmuseum Den Haag,1499958]]"
+- "[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]"
+- "[[_Standards/WikiData/WD~Kunstmuseum_Den_Haag,1499958]]"
 given_name: '[[_Standards/WikiData/WD~Hedi,1593262]]'
 occupation:
 - '[[_Standards/WikiData/WD~dressmaker,2034021]]'
-- "[[_Standards/WikiData/WD~fashion designer,3501317]]"
+- "[[_Standards/WikiData/WD~fashion_designer,3501317]]"
 - '[[_Standards/WikiData/WD~photographer,33231]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hedi%20Slimane%20in%202015.jpg"
@@ -20,10 +20,10 @@ official_website: "https://www.hedislimane.com/"
 Commons_category: "Hedi Slimane"
 X_username: hedislimanetwit
 name_in_native_language: "Hedi Slimane"
-represented_by: "[[_Standards/WikiData/WD~Almine Rech Gallery,55661948]]"
+represented_by: "[[_Standards/WikiData/WD~Almine_Rech_Gallery,55661948]]"
 family_name: '[[_Standards/WikiData/WD~Slimane,63486092]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works protected by copyrights,73555012]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
 ISNI: 0000000121016085
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'

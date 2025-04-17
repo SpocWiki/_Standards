@@ -3,18 +3,18 @@ type: Element
 SpocWebEntityId: 21942
 has_id_wikidata: Q1086
 part_of:
-- "[[_Standards/WikiData/WD~group 8,202224]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_8,202224]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~platinum group,223995]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Karl Ernst Claus,554178]]"
+- "[[_Standards/WikiData/WD~platinum_group,223995]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Karl_Ernst_Claus,554178]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
 named_after: '[[_Standards/WikiData/WD~Ruthenia,1147883]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202794,13202794]]'
 location_of_discovery: '[[_Standards/WikiData/WD~Q56007908,56007908]]'
@@ -24,7 +24,7 @@ Common_Procurement_Vocabulary_code:
 - 14743000-1
 - 14743000
 time_of_discovery_or_invention: "1844"
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 oxidation_state:
 - 3
 - 4

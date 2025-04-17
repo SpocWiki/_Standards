@@ -29,8 +29,8 @@ mass: 47.867
 boiling_point: 3286.85
 time_of_discovery_or_invention: "1791"
 part_of:
-- "[[_Standards/WikiData/WD~group 4,189302]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_4,189302]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~ilmenite,190729]]'
 - '[[_Standards/WikiData/WD~rutile,320603]]'
@@ -40,23 +40,23 @@ made_from_material:
 - '[[_Standards/WikiData/WD~anatase,413357]]'
 - '[[_Standards/WikiData/WD~akaogiite,12713259]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~light metal,428766]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~light_metal,428766]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 - '[[_Standards/WikiData/WD~Titanium,84688494]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 12,124737664]]"
-crystal_system: "[[_Standards/WikiData/WD~hexagonal crystal system,663314]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 different_from: '[[_Standards/WikiData/WD~Tytan,10382763]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
 UMLS_CUI: C0040302
 Common_Procurement_Vocabulary_code:
 - 14724000-2
@@ -83,7 +83,7 @@ thermal_conductivity: 21.9
 shear_modulus: 41.4
 named_after: '[[_Standards/WikiData/WD~titan,45713]]'
 speed_of_sound: 5090
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Friedrich Wöhler,58575]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Titan-crystal%20bar.JPG"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Titanium.ogg"
 electron_configuration: "[Ar] 3d² 4s²"

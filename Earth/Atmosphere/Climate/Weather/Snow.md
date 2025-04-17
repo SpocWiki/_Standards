@@ -1,29 +1,29 @@
 ﻿---
 has_id_wikidata: Q7561
-has_use: "[[_Standards/WikiData/WD~winter sport,204686]]"
+has_use: "[[_Standards/WikiData/WD~winter_sport,204686]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~material,214609]]'
 - '[[_Standards/WikiData/WD~precipitation,25257]]'
 has_part_s_: '[[_Standards/WikiData/WD~snowflake,550147]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~ice crystal,1325808]]"
+- "[[_Standards/WikiData/WD~ice_crystal,1325808]]"
 - '[[_Standards/WikiData/WD~air,7391292]]'
-studied_in: "[[_Standards/WikiData/WD~snow science,1898432]]"
+studied_in: "[[_Standards/WikiData/WD~snow_science,1898432]]"
 different_from: '[[_Standards/WikiData/WD~Q9395698,9395698]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q26197463,26197463]]'
-instance_of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
 UMLS_CUI:
 - C0337013
 - C0037386

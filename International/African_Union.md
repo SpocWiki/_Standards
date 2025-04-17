@@ -1,15 +1,15 @@
 ﻿---
 has_id_wikidata: Q7159
-partnership_with: "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
+partnership_with: "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
 official_observer_status_in_organisation:
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-follows: "[[_Standards/WikiData/WD~Organisation of African Unity,191703]]"
+- "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+follows: "[[_Standards/WikiData/WD~Organisation_of_African_Unity,191703]]"
 official_language:
-- "[[_Standards/WikiData/WD~languages of Africa,207930]]"
+- "[[_Standards/WikiData/WD~languages_of_Africa,207930]]"
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Portuguese,5146]]'
@@ -17,22 +17,22 @@ official_language:
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 instance_of:
-- "[[_Standards/WikiData/WD~international organization,484652]]"
-- "[[_Standards/WikiData/WD~continental union,769802]]"
-- "[[_Standards/WikiData/WD~regional organization,4120211]]"
-flag: "[[_Standards/WikiData/WD~flag of the African Union,630077]]"
-funder: "[[_Standards/WikiData/WD~Open Society Foundations,786194]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Chairperson of the African Union,946339]]"
+- "[[_Standards/WikiData/WD~international_organization,484652]]"
+- "[[_Standards/WikiData/WD~continental_union,769802]]"
+- "[[_Standards/WikiData/WD~regional_organization,4120211]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_African_Union,630077]]"
+funder: "[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Chairperson_of_the_African_Union,946339]]"
 legislative_body:
-- "[[_Standards/WikiData/WD~Pan-African Parliament,1340659]]"
-anthem: "[[_Standards/WikiData/WD~Let Us All Unite and Celebrate Together,1821037]]"
+- "[[_Standards/WikiData/WD~Pan-African_Parliament,1340659]]"
+anthem: "[[_Standards/WikiData/WD~Let_Us_All_Unite_and_Celebrate_Together,1821037]]"
 website_account_on: '[[_Standards/WikiData/WD~Livestream,2378942]]'
 owner_of:
-- "[[_Standards/WikiData/WD~African Union Conference Center and Office Complex,4655013]]"
+- "[[_Standards/WikiData/WD~African_Union_Conference_Center_and_Office_Complex,4655013]]"
 - '[[_Standards/WikiData/WD~Q17620982,17620982]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the African Union,5333816]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the African Union,5535259]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_African Union,6481073]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_African_Union,5333816]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_African_Union,5535259]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_African_Union,6481073]]"
 short_name:
 - XA
 - AU
@@ -71,10 +71,10 @@ short_name:
 - UA
 - ΑΕ
 has_part_s_:
-- "[[_Standards/WikiData/WD~Regions of the African Union,17092680]]"
+- "[[_Standards/WikiData/WD~Regions_of_the_African_Union,17092680]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~The Oxford Encyclopedia of African Thought,22639418]]"
-has_subsidiary: "[[_Standards/WikiData/WD~Africa Centres for Disease Control and Prevention,88234914]]"
+- "[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]"
+has_subsidiary: "[[_Standards/WikiData/WD~Africa_Centres_for_Disease_Control_and_Prevention,88234914]]"
 spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/African%20Union2.ogg"
@@ -98,11 +98,11 @@ MeSH_tree_code:
 Threads_username: africanunion_official
 Instagram_username: africanunion_official
 EU_Corporate_body_code: UNION_AFR
-different_from: "[[_Standards/WikiData/WD~astronomical unit,1811]]"
+different_from: "[[_Standards/WikiData/WD~astronomical_unit,1811]]"
 headquarters_location:
-- "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
+- "[[_Standards/WikiData/WD~Addis_Ababa,3624]]"
 - '[[_Standards/WikiData/WD~Johannesburg,34647]]'
-capital: "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
+capital: "[[_Standards/WikiData/WD~Addis_Ababa,3624]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 social_media_followers: 980583

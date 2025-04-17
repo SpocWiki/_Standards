@@ -3,27 +3,27 @@ type: Element
 SpocWebEntityId: 21972
 has_id_wikidata: Q751
 part_of:
-- "[[_Standards/WikiData/WD~group 8,202224]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
-subclass_of: "[[_Standards/WikiData/WD~platinum group,223995]]"
+- "[[_Standards/WikiData/WD~group_8,202224]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
+subclass_of: "[[_Standards/WikiData/WD~platinum_group,223995]]"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~William Hyde Wollaston,312975]]"
-- "[[_Standards/WikiData/WD~Smithson Tennant,377800]]"
+- "[[_Standards/WikiData/WD~William_Hyde_Wollaston,312975]]"
+- "[[_Standards/WikiData/WD~Smithson_Tennant,377800]]"
 named_after: '[[_Standards/WikiData/WD~odor,485537]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopaedia Hebraica,751026]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopaedia_Hebraica,751026]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 UMLS_CUI: C0029383
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20osmium%20collides%20with%20each%20other%20and%20makes%20a%20crisp%20sound.webm"
 Common_Procurement_Vocabulary_code:
 - 14792000-9
 - 14792000
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 oxidation_state: 4
 electronegativity: 2.2
 ionic_radius:

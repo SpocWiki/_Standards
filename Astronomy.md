@@ -4,17 +4,17 @@ Basisklassifikation: 39
 Colon_Classification: B9
 Commons_category: Astronomy
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 Dewey_Decimal_Classification: 520
 different_from:
 - '[[_Standards/WikiData/WD~Austronomia,21223320]]'
@@ -23,18 +23,18 @@ entry_in_abbreviations_table: astro.
 GitHub_topic: astronomy
 hashtag: Astronomie
 has_id_wikidata: Q333
-history_of_topic: "[[_Standards/WikiData/WD~history of astronomy,50056]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_astronomy,50056]]"
 IAB_code: 472
 Iconclass_notation: 49E1
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Laser%20Towards%20Milky%20Ways%20Centre.jpg"
 instance_of:
-- "[[_Standards/WikiData/WD~branch of science,2465832]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 - '[[_Standards/WikiData/WD~hobby,47728]]'
 IPTC_NewsCode: mediatopic/20000718
 is_the_study_of:
-- "[[_Standards/WikiData/WD~dark fluid,5223514]]"
-- "[[_Standards/WikiData/WD~astronomical object,6999]]"
+- "[[_Standards/WikiData/WD~dark_fluid,5223514]]"
+- "[[_Standards/WikiData/WD~astronomical_object,6999]]"
 Krugosvet_article: nauka_i_tehnika/astronomiya/ASTRONOMIYA_I_ASTROFIZIKA.html
 Library_of_Congress_Classification: QB
 MeSH_tree_code: H01.671.065
@@ -46,16 +46,16 @@ Provenio_UUID: 7f031904-8717-499b-8811-dcde0f1e77be
 Stack_Exchange_site_URL: "https://astronomy.stackexchange.com"
 Stack_Exchange_tag: "https://physics.stackexchange.com/tags/astronomy"
 start_time: "-8000-01-01T00:00:00Z"
-studied_in: "[[_Standards/WikiData/WD~science studies,1332231]]"
+studied_in: "[[_Standards/WikiData/WD~science_studies,1332231]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~exact science,475023]]"
-- "[[_Standards/WikiData/WD~physical sciences,14632398]]"
+- "[[_Standards/WikiData/WD~exact_science,475023]]"
+- "[[_Standards/WikiData/WD~physical_sciences,14632398]]"
 subreddit:
 - Astronomie
 - Astronomy
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Astronomy navbox,6689465]]"
-- "[[_Standards/WikiData/WD~Template_Astronomy subfields,8085034]]"
+- "[[_Standards/WikiData/WD~Template_Astronomy_navbox,6689465]]"
+- "[[_Standards/WikiData/WD~Template_Astronomy_subfields,8085034]]"
 - '[[_Standards/WikiData/WD~Q25717488,25717488]]'
 - '[[_Standards/WikiData/WD~Q124049658,124049658]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Astronomy,3248453]]'

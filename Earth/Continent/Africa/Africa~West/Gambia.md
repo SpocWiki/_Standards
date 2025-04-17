@@ -58,80 +58,80 @@ nominal_GDP:
 - 2273060863
 - 2038414974
 coordinates_of_northernmost_point: "Point(-15.08 13.83)"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of the Gambia,107948]]"
-flag: "[[_Standards/WikiData/WD~flag of the Gambia,135014]]"
-named_after: "[[_Standards/WikiData/WD~Gambia River,160819]]"
-different_from: "[[_Standards/WikiData/WD~Gambia River,160819]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Gambia,107948]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_Gambia,135014]]"
+named_after: "[[_Standards/WikiData/WD~Gambia_River,160819]]"
+different_from: "[[_Standards/WikiData/WD~Gambia_River,160819]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~African Groundnut Council,4689777]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~African_Groundnut_Council,4689777]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-anthem: "[[_Standards/WikiData/WD~For The Gambia Our Homeland,273244]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of The Gambia,495091]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+anthem: "[[_Standards/WikiData/WD~For_The_Gambia_Our_Homeland,273244]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_The_Gambia,495091]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Upper River Division,824373]]"
-- "[[_Standards/WikiData/WD~Lower River Division,824421]]"
-- "[[_Standards/WikiData/WD~Central River Division,824431]]"
-- "[[_Standards/WikiData/WD~West Coast Division,846158]]"
-- "[[_Standards/WikiData/WD~North Bank Division,846161]]"
-- "[[_Standards/WikiData/WD~Greater Banjul Area,1544417]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Gambia,921346]]"
+- "[[_Standards/WikiData/WD~Upper_River_Division,824373]]"
+- "[[_Standards/WikiData/WD~Lower_River_Division,824421]]"
+- "[[_Standards/WikiData/WD~Central_River_Division,824431]]"
+- "[[_Standards/WikiData/WD~West_Coast_Division,846158]]"
+- "[[_Standards/WikiData/WD~North_Bank_Division,846161]]"
+- "[[_Standards/WikiData/WD~Greater_Banjul_Area,1544417]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Gambia,921346]]"
 language_used:
 - '[[_Standards/WikiData/WD~Pulaar,1420205]]'
 - '[[_Standards/WikiData/WD~Jola-Fonyi,3507832]]'
-- "[[_Standards/WikiData/WD~Western Maninkakan,11028033]]"
-- "[[_Standards/WikiData/WD~Gambian Wolof,12953302]]"
+- "[[_Standards/WikiData/WD~Western_Maninkakan,11028033]]"
+- "[[_Standards/WikiData/WD~Gambian_Wolof,12953302]]"
 - '[[_Standards/WikiData/WD~Pukur,31172660]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Mandinka,33678]]'
 - '[[_Standards/WikiData/WD~Mandjak,35822]]'
 - '[[_Standards/WikiData/WD~Serer,36284]]'
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of The Gambia,1427127]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the Gambia,1503142]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the Gambia,1509814]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the Gambia,2997596]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_The_Gambia,1427127]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Gambia,1503142]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Gambia,1509814]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Gambia,2997596]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Banjul,4689477]]'
 - '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
-culture: "[[_Standards/WikiData/WD~culture of The Gambia,5794513]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Gambia,7112763]]"
-replaces: "[[_Standards/WikiData/WD~Commonwealth realm of the Gambia,7735661]]"
+culture: "[[_Standards/WikiData/WD~culture_of_The_Gambia,5794513]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Gambia,7112763]]"
+replaces: "[[_Standards/WikiData/WD~Commonwealth_realm_of_the_Gambia,7735661]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~118,11185210]]'
 - '[[_Standards/WikiData/WD~116,25648807]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_The Gambia,11288146]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_The_Gambia,11288146]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of the Gambia,15921518]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the Gambia,15921518]]"
-described_by_source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-head_of_state: "[[_Standards/WikiData/WD~Adama Barrow,27917049]]"
-head_of_government: "[[_Standards/WikiData/WD~Adama Barrow,27917049]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-studied_in: "[[_Standards/WikiData/WD~Gambian studies,115669443]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Gambia,15921518]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Gambia,15921518]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+head_of_state: "[[_Standards/WikiData/WD~Adama_Barrow,27917049]]"
+head_of_government: "[[_Standards/WikiData/WD~Adama_Barrow,27917049]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+studied_in: "[[_Standards/WikiData/WD~Gambian_studies,115669443]]"
 coordinates_of_easternmost_point: "Point(-13.79152 13.42423)"
 UMLS_CUI: C0016993
 IPA_transcription: "ðə ˈɡæm.bi.ə"
@@ -140,29 +140,29 @@ MeSH_tree_code: Z01.058.290.190.300
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20drawing%20of%20the%20Republic%20of%20The%20Gambia.jpg"
 coordinates_of_westernmost_point: "Point(-16.82377 13.38335)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
-country: "[[_Standards/WikiData/WD~The Gambia,1005]]"
+country: "[[_Standards/WikiData/WD~The_Gambia,1005]]"
 shares_border_with: '[[_Standards/WikiData/WD~Senegal,1041]]'
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
 headquarters_location: '[[_Standards/WikiData/WD~Banjul,3726]]'
 capital: '[[_Standards/WikiData/WD~Banjul,3726]]'
-part_of: "[[_Standards/WikiData/WD~West Africa,4412]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
+part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 Human_Development_Index: 0.5
 VAT_rate: 15
 mains_voltage: 230

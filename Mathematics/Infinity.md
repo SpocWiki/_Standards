@@ -4,22 +4,22 @@ opposite_of:
 - '[[_Standards/WikiData/WD~infinitesimal,193885]]'
 - '[[_Standards/WikiData/WD~zero,204]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~ISO 80000-2_2019 Quantities and units — Part 2_ Mathematics,109490582]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units_—_Part_2__Mathematics,109490582]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 said_to_be_the_same_as:
-- "[[_Standards/WikiData/WD~division by zero,848539]]"
+- "[[_Standards/WikiData/WD~division_by_zero,848539]]"
 - '[[_Standards/WikiData/WD~infinity,1405962]]'
 - '[[_Standards/WikiData/WD~semi-infinite,7449306]]'
 facet_of: '[[_Standards/WikiData/WD~infinity,1405962]]'
 subclass_of: '[[_Standards/WikiData/WD~cardinality,4049983]]'
-different_from: "[[_Standards/WikiData/WD~infinity symbol,6030066]]"
-notation: "[[_Standards/WikiData/WD~infinity symbol,6030066]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+different_from: "[[_Standards/WikiData/WD~infinity_symbol,6030066]]"
+notation: "[[_Standards/WikiData/WD~infinity_symbol,6030066]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infinity,15603314]]'
-instance_of: "[[_Standards/WikiData/WD~mathematical concept,24034552]]"
+instance_of: "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
 Commons_category: Infinity
 OmegaWiki_Defined_Meaning: 968848
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Infinite.svg"

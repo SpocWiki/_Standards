@@ -1,24 +1,24 @@
 ---
 has_id_wikidata: Q4439
-has_use: "[[_Standards/WikiData/WD~computer data storage device,66221]]"
+has_use: "[[_Standards/WikiData/WD~computer_data_storage_device,66221]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~computer data storage device,66221]]"
-- "[[_Standards/WikiData/WD~disk drive,64819622]]"
-- "[[_Standards/WikiData/WD~computer hardware,3966]]"
-followed_by: "[[_Standards/WikiData/WD~solid-state drive,487343]]"
+- "[[_Standards/WikiData/WD~computer_data_storage_device,66221]]"
+- "[[_Standards/WikiData/WD~disk_drive,64819622]]"
+- "[[_Standards/WikiData/WD~computer_hardware,3966]]"
+followed_by: "[[_Standards/WikiData/WD~solid-state_drive,487343]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~hard disk drive platter,1195211]]"
-- "[[_Standards/WikiData/WD~disk drive head,2165056]]"
+- "[[_Standards/WikiData/WD~hard_disk_drive_platter,1195211]]"
+- "[[_Standards/WikiData/WD~disk_drive_head,2165056]]"
 - '[[_Standards/WikiData/WD~spindle,2416476]]'
 - '[[_Standards/WikiData/WD~housing,11326220]]'
-- "[[_Standards/WikiData/WD~signal and power connector,65036927]]"
-- "[[_Standards/WikiData/WD~computer interface,23808]]"
-part_of: "[[_Standards/WikiData/WD~disk array,1228738]]"
-uses: "[[_Standards/WikiData/WD~magnetic storage,1364527]]"
+- "[[_Standards/WikiData/WD~signal_and_power_connector,65036927]]"
+- "[[_Standards/WikiData/WD~computer_interface,23808]]"
+part_of: "[[_Standards/WikiData/WD~disk_array,1228738]]"
+uses: "[[_Standards/WikiData/WD~magnetic_storage,1364527]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~flying height,5463579]]"
-- "[[_Standards/WikiData/WD~Hard disk drive performance characteristics,5655518]]"
-instance_of: "[[_Standards/WikiData/WD~type of computer memory or storage,125005976]]"
+- "[[_Standards/WikiData/WD~flying_height,5463579]]"
+- "[[_Standards/WikiData/WD~Hard_disk_drive_performance_characteristics,5655518]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]"
 video:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Harddrive-engineerguy.ogv"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Ein-%20und%20Ausgabe%20mit%20Festplatte%20und%20Interrupts.webm"

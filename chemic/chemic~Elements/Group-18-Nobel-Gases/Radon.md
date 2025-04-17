@@ -3,11 +3,11 @@ type: Element
 SpocWebEntityId: 21981
 has_id_wikidata: Q1133
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
-- "[[_Standards/WikiData/WD~noble gases,19609]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
+- "[[_Standards/WikiData/WD~noble_gases,19609]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Radon%20water%20apparatus%20P1120815.JPG"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/USradonmapforhouses.jpg"
 electron_configuration:
@@ -29,20 +29,20 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
 - '[[_Standards/WikiData/WD~radioactivity,11448]]'
 subject_has_role:
-- "[[_Standards/WikiData/WD~radioactive air pollutants,50429809]]"
-- "[[_Standards/WikiData/WD~environmental carcinogens,50429902]]"
+- "[[_Standards/WikiData/WD~radioactive_air_pollutants,50429809]]"
+- "[[_Standards/WikiData/WD~environmental_carcinogens,50429902]]"
 time_of_discovery_or_invention: "1899"
 UMLS_CUI: C0205919
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg"
 different_from: '[[_Standards/WikiData/WD~radium,1128]]'
 named_after: '[[_Standards/WikiData/WD~radium,1128]]'
 instance_of:
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 - '[[_Standards/WikiData/WD~gas,11432]]'
 electronegativity: 2.2
 atomic_number: 86
 produced_by: '[[_Standards/WikiData/WD~granite,41177]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Friedrich Ernst Dorn,65191]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Friedrich_Ernst_Dorn,65191]]"
 OmegaWiki_Defined_Meaning: 3094
 Commons_gallery: Radon
 Commons_category: Radon

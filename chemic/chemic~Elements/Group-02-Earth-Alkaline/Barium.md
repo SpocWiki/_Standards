@@ -12,21 +12,21 @@ InChIKey: DSAJWYNOEDNPEQ-UHFFFAOYSA-N
 DSSTOX_compound_identifier: DTXCID80875617
 InChI: InChI=1S/Ba
 Krugosvet_article: nauka_i_tehnika/himiya/BARI.html
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
-- "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
+- "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Royal Institution,2171086]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+location_of_discovery: "[[_Standards/WikiData/WD~Royal_Institution,2171086]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
 different_from: '[[_Standards/WikiData/WD~Bario,15004545]]'
 subject_lexeme: L18238
 UMLS_CUI: C0004749

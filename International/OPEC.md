@@ -3,20 +3,20 @@ aliases:
 - "Organization of the Petroleum Exporting Countries"
 - "Organization of Petroleum Exporting Countries"
 has_id_wikidata: Q7795
-partnership_with: "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
+partnership_with: "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
 instance_of:
 - '[[_Standards/WikiData/WD~cartel,179216]]'
-- "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
-- "[[_Standards/WikiData/WD~advocacy group,431603]]"
-- "[[_Standards/WikiData/WD~international organization,484652]]"
-headquarters_location: "[[_Standards/WikiData/WD~Innere Stadt,267329]]"
-flag: "[[_Standards/WikiData/WD~flag of OPEC,784526]]"
-industry: "[[_Standards/WikiData/WD~petroleum industry,862571]]"
+- "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
+- "[[_Standards/WikiData/WD~advocacy_group,431603]]"
+- "[[_Standards/WikiData/WD~international_organization,484652]]"
+headquarters_location: "[[_Standards/WikiData/WD~Innere_Stadt,267329]]"
+flag: "[[_Standards/WikiData/WD~flag_of_OPEC,784526]]"
+industry: "[[_Standards/WikiData/WD~petroleum_industry,862571]]"
 country: '[[_Standards/WikiData/WD~internationality,1072012]]'
 owner_of: '[[_Standards/WikiData/WD~Deutschmeister-Palais,2046973]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_OPEC,6480901]]'
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President of OPEC,108861095]]"
-general_secretary: "[[_Standards/WikiData/WD~Haitham al-Ghais,110415087]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_OPEC,108861095]]"
+general_secretary: "[[_Standards/WikiData/WD~Haitham_al-Ghais,110415087]]"
 different_from: '[[_Standards/WikiData/WD~OPEC+,121826282]]'
 short_name:
 - אָפּע״ק
@@ -99,11 +99,11 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
 - '[[_Standards/WikiData/WD~Kuwait,817]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Angola,916]]'
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
+- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'

@@ -809,7 +809,7 @@ Art music
 
 1. [[_Standards/WikiData/WD~Bob_Dylan,392]] 
 2. [[_Standards/WikiData/WD~Joni_Mitchell,205721]] 
-3. [[_Standards/WikiData/WD~Peter, Paul and Mary,654716]] 
+3. [[_Standards/WikiData/WD~Peter,_Paul_and_Mary,654716]] 
 4. [[_Standards/WikiData/WD~Simon_&_Garfunkel,484918]] 
 
 ##### Hip-hop and rap
@@ -1287,7 +1287,7 @@ Art music
 5. [[_Standards/WikiData/WD~Paul_Krugman,131112]] 
 6. [[_Standards/WikiData/WD~Thomas_Robert_Malthus,13526]] 
 7. [[_Standards/WikiData/WD~Gunnar_Myrdal,152452]] 
-8. [[_Standards/WikiData/WD~John_Forbes_Nash, Jr.,128736]] 
+8. [[_Standards/WikiData/WD~John_Forbes_Nash,_Jr.,128736]] 
 9. [[_Standards/WikiData/WD~Bertil_Ohlin,179493]] 
 10. [[_Standards/WikiData/WD~Karl_Polanyi,318029]] 
 11. [[_Standards/WikiData/WD~François_Quesnay,13575]] 
@@ -1313,7 +1313,7 @@ Art music
 2. [[_Standards/WikiData/WD~Auguste_Comte,12718]] 
 3. [[_Standards/WikiData/WD~Émile_Durkheim,15948]] 
 4. [[_Standards/WikiData/WD~Norbert_Elias,75812]] 
-5. [[_Standards/WikiData/WD~Anthony_Giddens, Baron Giddens,220008]] 
+5. [[_Standards/WikiData/WD~Anthony_Giddens,_Baron_Giddens,220008]] 
 6. [[_Standards/WikiData/WD~Erving_Goffman,314471]] 
 7. [[_Standards/WikiData/WD~Bruno_Latour,355237]] 
 8. [[_Standards/WikiData/WD~Niklas_Luhmann,57238]] 
@@ -1734,7 +1734,7 @@ Art music
 4. [[_Standards/WikiData/WD~Edward_III_of_England,129247]] 
 5. [[_Standards/WikiData/WD~Henry_II_of_England,102140]] 
 6. [[_Standards/WikiData/WD~Henry_V_of_England,131581]] 
-7. [[_Standards/WikiData/WD~John, King of England,129308]] 
+7. [[_Standards/WikiData/WD~John,_King_of_England,129308]] 
 8. [[_Standards/WikiData/WD~Richard_I_of_England,42305]] 
 9. [[_Standards/WikiData/WD~William_the_Conqueror,37594]] 
 
@@ -1756,13 +1756,13 @@ Art music
 
 ##### Leaders,Holy Roman Empire
 
-1. [[_Standards/WikiData/WD~Charles_IV, Holy Roman Emperor,155669]] 
+1. [[_Standards/WikiData/WD~Charles_IV,_Holy_Roman_Emperor,155669]] 
 2. [[_Standards/WikiData/WD~Charles_the_Bald,71231]] 
-3. [[_Standards/WikiData/WD~Frederick_I, Holy Roman Emperor,79789]] 
-4. [[_Standards/WikiData/WD~Frederick_II, Holy Roman Emperor,130221]] 
-5. [[_Standards/WikiData/WD~Henry_IV, Holy Roman Emperor,60094]] 
-6. [[_Standards/WikiData/WD~Otto_I, Holy Roman Emperor,43915]] 
-7. [[_Standards/WikiData/WD~Sigismund, Holy Roman Emperor,57124]] 
+3. [[_Standards/WikiData/WD~Frederick_I,_Holy_Roman_Emperor,79789]] 
+4. [[_Standards/WikiData/WD~Frederick_II,_Holy_Roman_Emperor,130221]] 
+5. [[_Standards/WikiData/WD~Henry_IV,_Holy_Roman_Emperor,60094]] 
+6. [[_Standards/WikiData/WD~Otto_I,_Holy_Roman_Emperor,43915]] 
+7. [[_Standards/WikiData/WD~Sigismund,_Holy_Roman_Emperor,57124]] 
 
 ##### Leaders,Italy
 
@@ -1860,7 +1860,7 @@ England and Scotland
 4. [[_Standards/WikiData/WD~George_III,127318]] 
 5. [[_Standards/WikiData/WD~James_VI_and_I,79972]] 
 6. [[_Standards/WikiData/WD~Mary_I_of_England,82674]] 
-7. [[_Standards/WikiData/WD~Mary, Queen of Scots,131412]] 
+7. [[_Standards/WikiData/WD~Mary,_Queen_of_Scots,131412]] 
 8. [[_Standards/WikiData/WD~Robert_Walpole,104190]] 
 9. [[_Standards/WikiData/WD~William_III_of_England,129987]] 
 10. [[_Standards/WikiData/WD~William_Pitt_the_Younger,128902]] 
@@ -1879,12 +1879,12 @@ France
 
 Holy Roman Empire
 
-1. [[_Standards/WikiData/WD~Charles_V, Holy Roman Emperor,32500]] 
-2. [[_Standards/WikiData/WD~Ferdinand_I, Holy Roman Emperor,150611]] 
-3. [[_Standards/WikiData/WD~Joseph_II, Holy Roman Emperor,76555]] 
-4. [[_Standards/WikiData/WD~Leopold_I, Holy Roman Emperor,150494]] 
+1. [[_Standards/WikiData/WD~Charles_V,_Holy_Roman_Emperor,32500]] 
+2. [[_Standards/WikiData/WD~Ferdinand_I,_Holy_Roman_Emperor,150611]] 
+3. [[_Standards/WikiData/WD~Joseph_II,_Holy_Roman_Emperor,76555]] 
+4. [[_Standards/WikiData/WD~Leopold_I,_Holy_Roman_Emperor,150494]] 
 5. [[_Standards/WikiData/WD~Maria_Theresa,131706]] 
-6. [[_Standards/WikiData/WD~Maximilian_I, Holy Roman Emperor,150726]] 
+6. [[_Standards/WikiData/WD~Maximilian_I,_Holy_Roman_Emperor,150726]] 
 
 Italia and Papal States
 
@@ -2069,7 +2069,7 @@ Western Africa
 ###### Leaders,Austria-Hungary
 
 1. [[_Standards/WikiData/WD~Archduke_Franz_Ferdinand_of_Austria,43063]] 
-2. [[_Standards/WikiData/WD~Francis_II, Holy Roman Emperor,130834]] 
+2. [[_Standards/WikiData/WD~Francis_II,_Holy_Roman_Emperor,130834]] 
 3. [[_Standards/WikiData/WD~Franz_Joseph_I_of_Austria,51056]] 
 4. [[_Standards/WikiData/WD~Klemens_von_Metternich,45662]] 
 
@@ -2102,8 +2102,8 @@ Western Africa
 5. [[_Standards/WikiData/WD~Konrad_Adenauer,2492]] 
 6. [[_Standards/WikiData/WD~Otto_von_Bismarck,8442]] 
 7. [[_Standards/WikiData/WD~Joseph_Goebbels,41749]] 
-8. [[_Standards/WikiData/WD~Wilhelm_II, German Emperor,2677]] 
-9. [[_Standards/WikiData/WD~William_I, German Emperor,150652]] 
+8. [[_Standards/WikiData/WD~Wilhelm_II,_German_Emperor,2677]] 
+9. [[_Standards/WikiData/WD~William_I,_German_Emperor,150652]] 
 
 ###### Leaders,Russia and USSR
 
@@ -2121,7 +2121,7 @@ Western Africa
 
 1. [[_Standards/WikiData/WD~Benjamin_Disraeli,82006]] 
 2. [[_Standards/WikiData/WD~Clement_Attlee,129006]] 
-3. [[_Standards/WikiData/WD~Diana, Princess of Wales,9685]] 
+3. [[_Standards/WikiData/WD~Diana,_Princess_of_Wales,9685]] 
 4. [[_Standards/WikiData/WD~Elizabeth_II,9682]] 
 5. [[_Standards/WikiData/WD~Margaret_Thatcher,7416]] 
 6. [[_Standards/WikiData/WD~Queen_Victoria,9439]] 
@@ -2133,7 +2133,7 @@ Western Africa
 
 1. [[_Standards/WikiData/WD~António_de_Oliveira_Salazar,151394]] 
 2. [[_Standards/WikiData/WD~Benito_Mussolini,23559]] 
-3. [[_Standards/WikiData/WD~Camillo_Benso, Count of Cavour,166092]] 
+3. [[_Standards/WikiData/WD~Camillo_Benso,_Count_of_Cavour,166092]] 
 4. [[_Standards/WikiData/WD~Carl_Gustaf_Emil_Mannerheim,152306]] 
 5. [[_Standards/WikiData/WD~Charles_XIV_John_of_Sweden,52927]] 
 6. [[_Standards/WikiData/WD~Dag_Hammarskjöld,1267]] 
@@ -2176,10 +2176,10 @@ Many Wikipedias have provisions for including current heads of government in the
 9. [[_Standards/WikiData/WD~Robert_E.Lee,165557]] 
 10. [[_Standards/WikiData/WD~George_Marshall,151414]] 
 11. [[_Standards/WikiData/WD~Douglas_MacArthur,127417]] 
-12. [[_Standards/WikiData/WD~Horatio_Nelson, 1st Viscount Nelson,83235]] 
+12. [[_Standards/WikiData/WD~Horatio_Nelson,_1st_Viscount_Nelson,83235]] 
 13. [[_Standards/WikiData/WD~Erwin_Rommel,14060]] 
 14. [[_Standards/WikiData/WD~Vo_Nguyen_Giap,179910]] 
-15. [[_Standards/WikiData/WD~Arthur_Wellesley, 1st Duke of Wellington,131691]] 
+15. [[_Standards/WikiData/WD~Arthur_Wellesley,_1st_Duke_of_Wellington,131691]] 
 16. [[_Standards/WikiData/WD~Georgy_Zhukov,124617]] 
 
 ### Rebels, revolutionaries and activists 
@@ -2225,7 +2225,7 @@ Many Wikipedias have provisions for including current heads of government in the
 2. [[_Standards/WikiData/WD~Emma_Goldman,79969]] 
 3. [[_Standards/WikiData/WD~Mother_Jones,107082]] 
 4. [[_Standards/WikiData/WD~Helen_Keller,38203]] 
-5. [[_Standards/WikiData/WD~Martin_Luther_King, Jr.,8027]] 
+5. [[_Standards/WikiData/WD~Martin_Luther_King,_Jr.,8027]] 
 6. [[_Standards/WikiData/WD~Rosa_Parks,41921]] 
 7. [[_Standards/WikiData/WD~Elizabeth_Cady_Stanton,465335]] 
 8. [[_Standards/WikiData/WD~Sojourner_Truth,105180]] 
@@ -2296,7 +2296,7 @@ Many Wikipedias have provisions for including current heads of government in the
 1. [[_Standards/WikiData/WD~André-Marie_Ampère,675]] 
 2. [[_Standards/WikiData/WD~Amedeo_Avogadro,43476]] 
 3. [[_Standards/WikiData/WD~Johann_Jakob_Balmer,122986]] 
-4. [[_Standards/WikiData/WD~William_Thomson, 1st Baron Kelvin,122701]] 
+4. [[_Standards/WikiData/WD~William_Thomson,_1st_Baron_Kelvin,122701]] 
 5. [[_Standards/WikiData/WD~Henri_Becquerel,41269]] 
 6. [[_Standards/WikiData/WD~Hans_Bethe,155794]] 
 7. [[_Standards/WikiData/WD~Niels_Bohr,7085]] 
@@ -2418,7 +2418,7 @@ Many Wikipedias have provisions for including current heads of government in the
 Natural sciences
 
 1. [[_Standards/WikiData/WD~John_James_Audubon,182882]] 
-2. [[_Standards/WikiData/WD~Georges-Louis_Leclerc, Comte de Buffon,229264]] 
+2. [[_Standards/WikiData/WD~Georges-Louis_Leclerc,_Comte_de_Buffon,229264]] 
 3. [[_Standards/WikiData/WD~Sadi_Carnot,181685]] 
 4. [[_Standards/WikiData/WD~Rachel_Carson,100948]] 
 5. [[_Standards/WikiData/WD~Jacques_Cousteau,83233]] 
@@ -4290,7 +4290,7 @@ Only those not treated previously
 278. [[_Standards/WikiData/WD~International_law,4394526]] 
 279. [[_Standards/WikiData/WD~Nuremberg_principles,2146981]] 
 280. [[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]] 
-281. [[_Standards/WikiData/WD~International_Covenant_on_Economic, Social and Cultural Rights,457862]] 
+281. [[_Standards/WikiData/WD~International_Covenant_on_Economic,_Social_and_Cultural_Rights,457862]] 
 282. [[_Standards/WikiData/WD~International_Covenant_on_Civil_and_Political_Rights,392119]] 
 
 #### Intergovernmental organisations 
@@ -4685,8 +4685,8 @@ Only those not treated previously
 583. [[_Standards/WikiData/WD~University_of_North_Carolina_at_Chapel_Hill,192334]] 
 584. [[_Standards/WikiData/WD~University_of_Virginia,213439]] 
 585. [[_Standards/WikiData/WD~University_of_Michigan,230492]] 
-586. [[_Standards/WikiData/WD~University_of_California, Berkeley,168756]] 
-587. [[_Standards/WikiData/WD~University_of_California, Los Angeles,174710]] 
+586. [[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]] 
+587. [[_Standards/WikiData/WD~University_of_California,_Los_Angeles,174710]] 
 
 ##### Education,Ivy League 
 
@@ -8453,7 +8453,7 @@ See also "Biology" for e.g. anatomy
     12. [[_Standards/WikiData/WD~Encephalitis,199615]] 
     13. [[_Standards/WikiData/WD~Gangrene,168805]] 
     14. [[_Standards/WikiData/WD~Ebola_virus_disease,51993]] 
-    15. [[_Standards/WikiData/WD~Hand, foot and mouth disease,652744]] 
+    15. [[_Standards/WikiData/WD~Hand,_foot_and_mouth_disease,652744]] 
     16. [[_Standards/WikiData/WD~Influenza,2840]] 
         1. [[_Standards/WikiData/WD~Influenza_A_virus_subtype_H5N1,160122]] 
     17. [[_Standards/WikiData/WD~Leprosy,36956]] 
@@ -8688,7 +8688,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Techno
 
 
 2782. [[_Standards/WikiData/WD~Technophobia,1042900]] 
-2783. [[_Standards/WikiData/WD~Science, technology and society,2445082]] 
+2783. [[_Standards/WikiData/WD~Science,_technology_and_society,2445082]] 
 2784. [[_Standards/WikiData/WD~Transhumanism,194100]] 
 2785. [[_Standards/WikiData/WD~Technological_determinism,605434]] 
 2786. [[_Standards/WikiData/WD~Technological_convergence,2207328]] 
@@ -10213,7 +10213,7 @@ See also Tecnology>Construction section
 3699. [[_Standards/WikiData/WD~Great_Sphinx_of_Giza,130958]] 
 3700. [[_Standards/WikiData/WD~Karnak_Temple_Complex,522862]] 
 3701. [[_Standards/WikiData/WD~Luxor_Temple,319841]] 
-3702. [[_Standards/WikiData/WD~Rock-Hewn_Churches, Lalibela,207590]] 
+3702. [[_Standards/WikiData/WD~Rock-Hewn_Churches,_Lalibela,207590]] 
 3703. [[_Standards/WikiData/WD~Saint_Catherine's_Monastery,185362]] 
 3704. [[_Standards/WikiData/WD~Temple_of_Edfu,613037]] 
 3705. [[_Standards/WikiData/WD~Great_Zimbabwe,209217]] 
@@ -10275,7 +10275,7 @@ See also Tecnology>Construction section
 
 3753. [[_Standards/WikiData/WD~Acropolis_of_Athens,131013]] 
 3754. [[_Standards/WikiData/WD~Alhambra,47476]] 
-3755. [[_Standards/WikiData/WD~Alexander_Nevsky_Cathedral, Sofia,43282]] 
+3755. [[_Standards/WikiData/WD~Alexander_Nevsky_Cathedral,_Sofia,43282]] 
 3756. [[_Standards/WikiData/WD~Basilica_of_Our_Lady_of_the_Pillar,810684]] 
 3757. [[_Standards/WikiData/WD~Belvedere_Palace,211818]] 
 3758. [[_Standards/WikiData/WD~Buckingham_Palace,42182]] 
@@ -11449,8 +11449,8 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
     1. [[_Standards/WikiData/WD~Naqada_III,721840]] 
     2. [[_Standards/WikiData/WD~Pharaoh,37110]] 
     3. [[_Standards/WikiData/WD~Ptolemaic_Kingdom,2320005]] 
-    4. [[_Standards/WikiData/WD~Thebes, Egypt,101583]] 
-    5. [[_Standards/WikiData/WD~Memphis, Egypt,5715]] 
+    4. [[_Standards/WikiData/WD~Thebes,_Egypt,101583]] 
+    5. [[_Standards/WikiData/WD~Memphis,_Egypt,5715]] 
     6. [[_Standards/WikiData/WD~Old_Kingdom_of_Egypt,177819]] 
     7. [[_Standards/WikiData/WD~Middle_Kingdom_of_Egypt,191324]] 
     8. [[_Standards/WikiData/WD~New_Kingdom_of_Egypt,180568]] 
@@ -11551,7 +11551,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4519. [[_Standards/WikiData/WD~Mitanni,178665]] 
 4520. [[_Standards/WikiData/WD~Palmyra,5747]] 
 4521. [[_Standards/WikiData/WD~Phoenicia,41642]] 
-    4. [[_Standards/WikiData/WD~Tyre, Lebanon,82070]] 
+    4. [[_Standards/WikiData/WD~Tyre,_Lebanon,82070]] 
 4522. [[_Standards/WikiData/WD~Phrygia,32579]] 
 4523. [[_Standards/WikiData/WD~Seleucid_Empire,93180]] 
 4524. [[_Standards/WikiData/WD~Sabaeans,940785]] 
@@ -11961,7 +11961,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
     16. [[_Standards/WikiData/WD~Battle_of_Britain,154720]] 
     17. [[_Standards/WikiData/WD~Winter_War,134949]] 
     18. [[_Standards/WikiData/WD~German-Soviet_War,189266]] 
-    19. [[_Standards/WikiData/WD~Mediterranean, Middle East and African theatres of World War II,696817]] 
+    19. [[_Standards/WikiData/WD~Mediterranean,_Middle_East_and_African_theatres_of_World_War_II,696817]] 
     20. [[_Standards/WikiData/WD~Pacific_War,184425]] 
     21. [[_Standards/WikiData/WD~Attack_on_Pearl_Harbor,52418]] 
     22. [[_Standards/WikiData/WD~Yalta_Conference,161227]] 
@@ -12909,9 +12909,9 @@ See also Physical sciences/Earth science.
 5354. [[_Standards/WikiData/WD~Manama,3882]] 
 5355. [[_Standards/WikiData/WD~Manila,1461]] 
 5356. [[_Standards/WikiData/WD~Mecca,5806]] 
-5357. [[_Standards/WikiData/WD~Moroni, Comoros,3901]] 
+5357. [[_Standards/WikiData/WD~Moroni,_Comoros,3901]] 
 5358. [[_Standards/WikiData/WD~Mumbai,1156]] 
-5359. [[_Standards/WikiData/WD~Muscat, Oman,3826]] 
+5359. [[_Standards/WikiData/WD~Muscat,_Oman,3826]] 
 5360. [[_Standards/WikiData/WD~Nagoya,11751]] 
 5361. [[_Standards/WikiData/WD~Nanjing,16666]] 
 5362. [[_Standards/WikiData/WD~Naypyidaw,37400]] 
@@ -13001,7 +13001,7 @@ See also Physical sciences/Earth science.
 5443. [[_Standards/WikiData/WD~São_Tomé,3932]] 
 5444. [[_Standards/WikiData/WD~Tripoli,3579]] 
 5445. [[_Standards/WikiData/WD~Tunis,3572]] 
-5446. [[_Standards/WikiData/WD~Victoria, Seychelles,3940]] 
+5446. [[_Standards/WikiData/WD~Victoria,_Seychelles,3940]] 
 5447. [[_Standards/WikiData/WD~Windhoek,3935]] 
 5448. [[_Standards/WikiData/WD~Yaoundé,3808]] 
 
@@ -13013,7 +13013,7 @@ See also Physical sciences/Earth science.
 5452. [[_Standards/WikiData/WD~Buenos_Aires,1486]] 
 5453. [[_Standards/WikiData/WD~Caracas,1533]] 
 5454. [[_Standards/WikiData/WD~Curitiba,4361]] 
-5455. [[_Standards/WikiData/WD~Georgetown, Guyana,10717]] 
+5455. [[_Standards/WikiData/WD~Georgetown,_Guyana,10717]] 
 5456. [[_Standards/WikiData/WD~La_Paz,1491]] 
 5457. [[_Standards/WikiData/WD~Lima,2868]] 
 5458. [[_Standards/WikiData/WD~Montevideo,1335]] 
@@ -13049,7 +13049,7 @@ See also Physical sciences/Earth science.
 5485. [[_Standards/WikiData/WD~Seattle,5083]] 
 5486. [[_Standards/WikiData/WD~Toronto,172]] 
 5487. [[_Standards/WikiData/WD~Vancouver,24639]] 
-5488. [[_Standards/WikiData/WD~Washington, D.C.,61]] 
+5488. [[_Standards/WikiData/WD~Washington,_D.C.,61]] 
 
 #### Cities,Middle America
 
@@ -13058,22 +13058,22 @@ See also Physical sciences/Earth science.
 5491. [[_Standards/WikiData/WD~Guadalajara,9022]] 
 5492. [[_Standards/WikiData/WD~Guatemala_City,1555]] 
 5493. [[_Standards/WikiData/WD~Havana,1563]] 
-5494. [[_Standards/WikiData/WD~Kingston, Jamaica,34692]] 
+5494. [[_Standards/WikiData/WD~Kingston,_Jamaica,34692]] 
 5495. [[_Standards/WikiData/WD~Kingstown,41474]] 
 5496. [[_Standards/WikiData/WD~Managua,3274]] 
 5497. [[_Standards/WikiData/WD~Mexico_City,1489]] 
 5498. [[_Standards/WikiData/WD~Monterrey,81033]] 
-5499. [[_Standards/WikiData/WD~Nassau, Bahamas,2467]] 
+5499. [[_Standards/WikiData/WD~Nassau,_Bahamas,2467]] 
 5500. [[_Standards/WikiData/WD~Panama_City,3306]] 
 5501. [[_Standards/WikiData/WD~Port-au-Prince,34261]] 
 5502. [[_Standards/WikiData/WD~Port_of_Spain,39178]] 
 5503. [[_Standards/WikiData/WD~Roseau,36281]] 
-5504. [[_Standards/WikiData/WD~San_Juan, Puerto Rico,41211]] 
-5505. [[_Standards/WikiData/WD~San_José, Costa Rica,3070]] 
+5504. [[_Standards/WikiData/WD~San_Juan,_Puerto_Rico,41211]] 
+5505. [[_Standards/WikiData/WD~San_José,_Costa_Rica,3070]] 
 5506. [[_Standards/WikiData/WD~San_Salvador,3110]] 
 5507. [[_Standards/WikiData/WD~Santo_Domingo,34820]] 
-5508. [[_Standards/WikiData/WD~St.George's, Grenada,41547]] 
-5509. [[_Standards/WikiData/WD~St.John's, Antigua and Barbuda,36262]] 
+5508. [[_Standards/WikiData/WD~St.George's,_Grenada,41547]] 
+5509. [[_Standards/WikiData/WD~St.John's,_Antigua_and_Barbuda,36262]] 
 5510. [[_Standards/WikiData/WD~Tegucigalpa,3238]] 
 
 #### Cities,Europe
@@ -13327,7 +13327,7 @@ See also Physical sciences/Earth science.
 5727. [[_Standards/WikiData/WD~Mauritania,1025]] 
 5728. [[_Standards/WikiData/WD~Mauritius,1027]] 
 5729. [[_Standards/WikiData/WD~Mexico,96]] 
-5730. [[_Standards/WikiData/WD~Micronesia, Federated States of,702]] 
+5730. [[_Standards/WikiData/WD~Micronesia,_Federated_States_of,702]] 
 5731. [[_Standards/WikiData/WD~Moldova,217]] 
 5732. [[_Standards/WikiData/WD~Monaco,235]] 
 5733. [[_Standards/WikiData/WD~Mongolia,711]] 

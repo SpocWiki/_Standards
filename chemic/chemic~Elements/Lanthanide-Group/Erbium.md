@@ -3,32 +3,32 @@ type: Element
 SpocWebEntityId: 21964
 has_id_wikidata: Q1849
 has_use:
-- "[[_Standards/WikiData/WD~nuclear poison,221033]]"
-- "[[_Standards/WikiData/WD~Er_YAG laser,2585799]]"
+- "[[_Standards/WikiData/WD~nuclear_poison,221033]]"
+- "[[_Standards/WikiData/WD~Er_YAG_laser,2585799]]"
 - '[[_Standards/WikiData/WD~Cryocooler,4241150]]'
-- "[[_Standards/WikiData/WD~Glass coloring and color marking,8348044]]"
+- "[[_Standards/WikiData/WD~Glass_coloring_and_color_marking,8348044]]"
 - '[[_Standards/WikiData/WD~alloy,37756]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-named_after: "[[_Standards/WikiData/WD~Ytterby mine,631733]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~monazite mineral group,3777755]]"
-- "[[_Standards/WikiData/WD~xenotime mineral group,3777882]]"
-- "[[_Standards/WikiData/WD~euxenite mineral group,18016084]]"
-- "[[_Standards/WikiData/WD~monazite sands,115626544]]"
+- "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
+- "[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]"
+- "[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]"
+- "[[_Standards/WikiData/WD~monazite_sands,115626544]]"
 UMLS_CUI: C0014688
 time_of_discovery_or_invention: "1843"
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
 - 1
 - 0.89

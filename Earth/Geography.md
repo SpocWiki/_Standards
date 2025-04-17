@@ -10,33 +10,33 @@ Regensburg_Classification: R
 Colon_Classification: U
 Baidu_Tieba_name: 地理
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - '[[_Standards/WikiData/WD~Geography,1194350]]'
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 practiced_by: '[[_Standards/WikiData/WD~geographer,901402]]'
 studied_in:
-- "[[_Standards/WikiData/WD~history of geography,911070]]"
+- "[[_Standards/WikiData/WD~history_of_geography,911070]]"
 - '[[_Standards/WikiData/WD~Q3589295,3589295]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of geography,911070]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_geography,911070]]"
 different_from:
 - '[[_Standards/WikiData/WD~Geography,1194350]]'
 - '[[_Standards/WikiData/WD~geology,1069]]'
-is_the_study_of: "[[_Standards/WikiData/WD~geographic location,2221906]]"
+is_the_study_of: "[[_Standards/WikiData/WD~geographic_location,2221906]]"
 instance_of:
-- "[[_Standards/WikiData/WD~branch of science,2465832]]"
-- "[[_Standards/WikiData/WD~academic major,4671286]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+- "[[_Standards/WikiData/WD~academic_major,4671286]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geography,3271988]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Geography topics,8083477]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Geography_topics,8083477]]"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q16918667,16918667]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Provenio_UUID: 1c8994ae-55bc-4dd4-b3d7-ce7c13375cf2
 UMLS_CUI:
 - C0020126
@@ -44,8 +44,8 @@ UMLS_CUI:
 subclass_of: '[[_Standards/WikiData/WD~science,336]]'
 Wikidata_property: "geography of topic"
 partially_coincident_with:
-- "[[_Standards/WikiData/WD~earth science,8008]]"
-- "[[_Standards/WikiData/WD~social science,34749]]"
+- "[[_Standards/WikiData/WD~earth_science,8008]]"
+- "[[_Standards/WikiData/WD~social_science,34749]]"
 Basisklassifikation: 74
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%20cloud%201024.jpg"
 pronunciation_audio:

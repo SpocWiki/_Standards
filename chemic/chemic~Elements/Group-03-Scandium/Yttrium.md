@@ -3,11 +3,11 @@ type: Element
 SpocWebEntityId: 21937
 has_id_wikidata: Q941
 part_of:
-- "[[_Standards/WikiData/WD~group 3,108307]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_3,108307]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Johan Gadolin,312571]]"
-- "[[_Standards/WikiData/WD~Friedrich Wöhler,58575]]"
+- "[[_Standards/WikiData/WD~Johan_Gadolin,312571]]"
+- "[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~samarskite-(Y),417648]]'
 - '[[_Standards/WikiData/WD~churchite-(Y),1089901]]'
@@ -123,15 +123,15 @@ made_from_material:
 - '[[_Standards/WikiData/WD~pendevilleite-(Y),114793518]]'
 - '[[_Standards/WikiData/WD~nacareniobsite-(Y),117286669]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-named_after: "[[_Standards/WikiData/WD~Ytterby mine,631733]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 different_from: '[[_Standards/WikiData/WD~ITR,3789894]]'
 ZVG_number: 7390
 PubChem_CID: 23993
@@ -141,8 +141,8 @@ Gmelin_number: 16319
 canonical_SMILES: '[Y]'
 OmegaWiki_Defined_Meaning: 370956
 time_of_discovery_or_invention: "1787"
-associated_hazard: "[[_Standards/WikiData/WD~yttrium exposure,21175428]]"
-has_effect: "[[_Standards/WikiData/WD~yttrium exposure,21175428]]"
+associated_hazard: "[[_Standards/WikiData/WD~yttrium_exposure,21175428]]"
+has_effect: "[[_Standards/WikiData/WD~yttrium_exposure,21175428]]"
 Commons_gallery: Yttrium
 Commons_category: Yttrium
 CPV_Supplementary_code: AA17
@@ -166,7 +166,7 @@ MeSH_tree_code:
 - D01.268.558.975
 - D01.268.956.890
 - D01.552.550.975
-subclass_of: "[[_Standards/WikiData/WD~transition metal,19588]]"
+subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
 location_of_discovery: '[[_Standards/WikiData/WD~Finland,33]]'
 vapor_pressure: 0
 time_weighted_average_exposure_limit: 1

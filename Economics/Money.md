@@ -1,33 +1,33 @@
 ﻿---
 has_id_wikidata: Q1368
 named_after: '[[_Standards/WikiData/WD~groschen,159505]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of money,167328]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_money,167328]]"
 different_from:
 - '[[_Standards/WikiData/WD~Money,295614]]'
 - '[[_Standards/WikiData/WD~Geld,1314006]]'
-- "[[_Standards/WikiData/WD~The money,19455626]]"
+- "[[_Standards/WikiData/WD~The_money,19455626]]"
 - '[[_Standards/WikiData/WD~Piepen,63923349]]'
 - '[[_Standards/WikiData/WD~currency,8142]]'
 has_use:
 - '[[_Standards/WikiData/WD~trade,601401]]'
 - '[[_Standards/WikiData/WD~payment,1148747]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 instance_of:
-- "[[_Standards/WikiData/WD~legal fiction,931483]]"
-- "[[_Standards/WikiData/WD~medium of exchange,11105360]]"
+- "[[_Standards/WikiData/WD~legal_fiction,931483]]"
+- "[[_Standards/WikiData/WD~medium_of_exchange,11105360]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~legal tender,1643989]]"
-- "[[_Standards/WikiData/WD~nominal good,1659862]]"
-- "[[_Standards/WikiData/WD~standard of deferred payment,7598359]]"
+- "[[_Standards/WikiData/WD~legal_tender,1643989]]"
+- "[[_Standards/WikiData/WD~nominal_good,1659862]]"
+- "[[_Standards/WikiData/WD~standard_of_deferred_payment,7598359]]"
 Library_of_Congress_Classification: HG201-HG1496
 Dewey_Decimal_Classification:
 - 332.024

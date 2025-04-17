@@ -1,14 +1,14 @@
 ﻿---
 has_id_wikidata: Q12143
 subclass_of:
-- "[[_Standards/WikiData/WD~geographic region,82794]]"
-- "[[_Standards/WikiData/WD~time standard,6313217]]"
-- "[[_Standards/WikiData/WD~non-political administrative territorial entity,15642566]]"
-has_list: "[[_Standards/WikiData/WD~lists of time zones,3048055]]"
+- "[[_Standards/WikiData/WD~geographic_region,82794]]"
+- "[[_Standards/WikiData/WD~time_standard,6313217]]"
+- "[[_Standards/WikiData/WD~non-political_administrative_territorial_entity,15642566]]"
+has_list: "[[_Standards/WikiData/WD~lists_of_time_zones,3048055]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_UTC time offsets,7474166]]"
-- "[[_Standards/WikiData/WD~Template_Infobox time zone,11001401]]"
-- "[[_Standards/WikiData/WD~Template_Infobox time zone UTC,13520154]]"
+- "[[_Standards/WikiData/WD~Template_UTC_time_offsets,7474166]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_time_zone,11001401]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_time_zone_UTC,13520154]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Time%20Zones%20Map.png"
 Commons_category: "Time zones"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/HK%20Mongkok%20night%20banner.JPG"

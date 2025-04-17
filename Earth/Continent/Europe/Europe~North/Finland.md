@@ -36,109 +36,109 @@ Languages:
 - smn
 icon: flag-fi
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~Nordic Council,146165]]"
-- "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
-- "[[_Standards/WikiData/WD~European Free Trade Association,166546]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Partnership for Peace,653277]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~Nordic_Council,146165]]"
+- "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+- "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Partnership_for_Peace,653277]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Arctic Council,674182]]"
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~Council of the Baltic Sea States,789769]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Strategic Airlift Capability,1579424]]"
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~Nordic Battle Group,1998131]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Barents Euro-Arctic Council,4426190]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Arctic_Council,674182]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~Nordic_Battle_Group,1998131]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Barents_Euro-Arctic_Council,4426190]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
 official_symbol:
-- "[[_Standards/WikiData/WD~Convallaria majalis,101711]]"
-- "[[_Standards/WikiData/WD~Betula pendula,156895]]"
-- "[[_Standards/WikiData/WD~Coccinella septempunctata,159543]]"
-- "[[_Standards/WikiData/WD~European perch,166812]]"
-- "[[_Standards/WikiData/WD~Celastrina argiolus,792871]]"
+- "[[_Standards/WikiData/WD~Convallaria_majalis,101711]]"
+- "[[_Standards/WikiData/WD~Betula_pendula,156895]]"
+- "[[_Standards/WikiData/WD~Coccinella_septempunctata,159543]]"
+- "[[_Standards/WikiData/WD~European_perch,166812]]"
+- "[[_Standards/WikiData/WD~Celastrina_argiolus,792871]]"
 - '[[_Standards/WikiData/WD~Finnhorse,1001507]]'
-- "[[_Standards/WikiData/WD~Whooper Swan,25612]]"
-- "[[_Standards/WikiData/WD~Finnish Spitz,29195]]"
+- "[[_Standards/WikiData/WD~Whooper_Swan,25612]]"
+- "[[_Standards/WikiData/WD~Finnish_Spitz,29195]]"
 - '[[_Standards/WikiData/WD~granite,41177]]'
 anthem: '[[_Standards/WikiData/WD~Maamme,162483]]'
 named_after: '[[_Standards/WikiData/WD~Finns,170284]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Finland,171708]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Finland,171708]]"
 instance_of:
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~country bordering the Baltic Sea,63791824]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~country_bordering_the_Baltic_Sea,63791824]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 different_from:
 - '[[_Standards/WikiData/WD~Vinland,192823]]'
 - '[[_Standards/WikiData/WD~Finlandia,341073]]'
 - '[[_Standards/WikiData/WD~Lissfinnlandet,35382997]]'
-central_bank: "[[_Standards/WikiData/WD~Bank of Finland,194060]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Finland,194060]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~history of Finland,202808]]"
-- "[[_Standards/WikiData/WD~Finland during the Cold War,10495363]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Finland,213878]]"
+- "[[_Standards/WikiData/WD~history_of_Finland,202808]]"
+- "[[_Standards/WikiData/WD~Finland_during_the_Cold_War,10495363]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Finland,213878]]"
 highest_point: '[[_Standards/WikiData/WD~Halti,216035]]'
-public_holiday: "[[_Standards/WikiData/WD~Independence Day,419595]]"
+public_holiday: "[[_Standards/WikiData/WD~Independence_Day,419595]]"
 patron_saint: '[[_Standards/WikiData/WD~Henry,445357]]'
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Finland,500459]]"
-head_of_state: "[[_Standards/WikiData/WD~Alexander Stubb,503143]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Finland,500459]]"
+head_of_state: "[[_Standards/WikiData/WD~Alexander_Stubb,503143]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Fennoscandia,604496]]'
 part_of:
 - '[[_Standards/WikiData/WD~Fennoscandia,604496]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-- "[[_Standards/WikiData/WD~Northern Europe,27479]]"
-- "[[_Standards/WikiData/WD~Nordic countries,52062]]"
-replaces: "[[_Standards/WikiData/WD~Kingdom of Finland,615902]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Finland,643412]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Finland,738695]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- "[[_Standards/WikiData/WD~Northern_Europe,27479]]"
+- "[[_Standards/WikiData/WD~Nordic_countries,52062]]"
+replaces: "[[_Standards/WikiData/WD~Kingdom_of_Finland,615902]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Finland,643412]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Finland,738695]]"
 language_used:
-- "[[_Standards/WikiData/WD~Karelian Proper,747153]]"
-- "[[_Standards/WikiData/WD~Finnish Kalo,2093214]]"
-- "[[_Standards/WikiData/WD~Finland-Swedish Sign Language,5450448]]"
+- "[[_Standards/WikiData/WD~Karelian_Proper,747153]]"
+- "[[_Standards/WikiData/WD~Finnish_Kalo,2093214]]"
+- "[[_Standards/WikiData/WD~Finland-Swedish_Sign_Language,5450448]]"
 - '[[_Standards/WikiData/WD~Turkish,256]]'
 - '[[_Standards/WikiData/WD~Icelandic,294]]'
 - '[[_Standards/WikiData/WD~Italian,652]]'
@@ -194,7 +194,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Serbo-Croatian,9301]]'
 - '[[_Standards/WikiData/WD~Bangla,9610]]'
 - '[[_Standards/WikiData/WD~Zulu,10179]]'
-- "[[_Standards/WikiData/WD~Skolt Sami,13271]]"
+- "[[_Standards/WikiData/WD~Skolt_Sami,13271]]"
 - '[[_Standards/WikiData/WD~Somali,13275]]'
 - '[[_Standards/WikiData/WD~Meänkieli,13357]]'
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
@@ -208,10 +208,10 @@ language_used:
 - '[[_Standards/WikiData/WD~Ewe,30005]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 - '[[_Standards/WikiData/WD~German,188]]'
-- "[[_Standards/WikiData/WD~Finnish Sign Language,33225]]"
+- "[[_Standards/WikiData/WD~Finnish_Sign_Language,33225]]"
 - '[[_Standards/WikiData/WD~Bambara,33243]]'
 - '[[_Standards/WikiData/WD~Filipino,33298]]'
-- "[[_Standards/WikiData/WD~Inari Sami,33462]]"
+- "[[_Standards/WikiData/WD~Inari_Sami,33462]]"
 - '[[_Standards/WikiData/WD~Kashmiri,33552]]'
 - '[[_Standards/WikiData/WD~Karelian,33557]]'
 - '[[_Standards/WikiData/WD~Kinyarwanda,33573]]'
@@ -220,7 +220,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kannada,33673]]'
 - '[[_Standards/WikiData/WD~Odia,33810]]'
 - '[[_Standards/WikiData/WD~Nepali,33823]]'
-- "[[_Standards/WikiData/WD~Northern Sami,33947]]"
+- "[[_Standards/WikiData/WD~Northern_Sami,33947]]"
 - '[[_Standards/WikiData/WD~Ossetian,33968]]'
 - '[[_Standards/WikiData/WD~Sindhi,33997]]'
 - '[[_Standards/WikiData/WD~Sundanese,34002]]'
@@ -237,14 +237,14 @@ language_used:
 - '[[_Standards/WikiData/WD~Punjabi,58635]]'
 - '[[_Standards/WikiData/WD~Pashto,58680]]'
 official_religion:
-- "[[_Standards/WikiData/WD~Finnish Orthodox Church,752470]]"
-- "[[_Standards/WikiData/WD~Evangelical Lutheran Church of Finland,1379849]]"
+- "[[_Standards/WikiData/WD~Finnish_Orthodox_Church,752470]]"
+- "[[_Standards/WikiData/WD~Evangelical_Lutheran_Church_of_Finland,1379849]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Belarusian People's Republic,842199]]"
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~Belarusian_People's_Republic,842199]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Nicaragua,811]]'
@@ -257,7 +257,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -268,7 +268,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Belarus,184]]'
@@ -280,16 +280,16 @@ diplomatic_relation:
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Finland,1404632]]"
-participant_in: "[[_Standards/WikiData/WD~Finno-Soviet Treaty of 1948,1417787]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Finland,1977568]]"
-culture: "[[_Standards/WikiData/WD~culture of Finland,2275419]]"
-executive_body: "[[_Standards/WikiData/WD~Finnish Government,2366737]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions of Finland,5873891]]"
-head_of_government: "[[_Standards/WikiData/WD~Petteri Orpo,6029546]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Finland,7112263]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Finland,1404632]]"
+participant_in: "[[_Standards/WikiData/WD~Finno-Soviet_Treaty_of_1948,1417787]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Finland,1977568]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Finland,2275419]]"
+executive_body: "[[_Standards/WikiData/WD~Finnish_Government,2366737]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions_of_Finland,5873891]]"
+head_of_government: "[[_Standards/WikiData/WD~Petteri_Orpo,6029546]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Finland,7112263]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Finland,8287709]]'
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q13202719,13202719]]'
@@ -298,9 +298,9 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q110822265,110822265]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Finland,15060259]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Finland,15060259]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~116117,25743523]]'
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Finland,97127776]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Finland,97127776]]"
 coordinates_of_northernmost_point: "Point(27.884166666 70.0825)"
 coordinates_of_westernmost_point: "Point(19.135277777 60.303611111)"
 Baidu_Tieba_name: 芬兰
@@ -381,34 +381,34 @@ Facebook_username: thisisfinlandFB
 nominal_GDP:
 - 280825957768
 - 296387625264
-lowest_point: "[[_Standards/WikiData/WD~Baltic Sea,545]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Baltic Sea,545]]"
+lowest_point: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
 official_language:
 - '[[_Standards/WikiData/WD~Finnish,1412]]'
 - '[[_Standards/WikiData/WD~Swedish,9027]]'
 capital: '[[_Standards/WikiData/WD~Helsinki,1757]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~South Karelia,5691]]"
+- "[[_Standards/WikiData/WD~South_Karelia,5691]]"
 - '[[_Standards/WikiData/WD~Åland,5689]]'
 - '[[_Standards/WikiData/WD~Kainuu,5694]]'
 - '[[_Standards/WikiData/WD~Kanta-Häme,5695]]'
-- "[[_Standards/WikiData/WD~South Ostrobothnia,5692]]"
-- "[[_Standards/WikiData/WD~South Savo,5693]]"
+- "[[_Standards/WikiData/WD~South_Ostrobothnia,5692]]"
+- "[[_Standards/WikiData/WD~South_Savo,5693]]"
 - '[[_Standards/WikiData/WD~Kymenlaakso,5698]]'
-- "[[_Standards/WikiData/WD~Central Ostrobothnia,5696]]"
-- "[[_Standards/WikiData/WD~Central Finland,5697]]"
+- "[[_Standards/WikiData/WD~Central_Ostrobothnia,5696]]"
+- "[[_Standards/WikiData/WD~Central_Finland,5697]]"
 - '[[_Standards/WikiData/WD~Ostrobothnia,5702]]'
-- "[[_Standards/WikiData/WD~North Karelia,5703]]"
+- "[[_Standards/WikiData/WD~North_Karelia,5703]]"
 - '[[_Standards/WikiData/WD~Lapland,5700]]'
 - '[[_Standards/WikiData/WD~Pirkanmaa,5701]]'
-- "[[_Standards/WikiData/WD~North Ostrobothnia,5704]]"
+- "[[_Standards/WikiData/WD~North_Ostrobothnia,5704]]"
 - '[[_Standards/WikiData/WD~Uusimaa,5711]]'
 - '[[_Standards/WikiData/WD~Päijät-Häme,5708]]'
 - '[[_Standards/WikiData/WD~Satakunta,5709]]'
-- "[[_Standards/WikiData/WD~Southwest Finland,5712]]"
+- "[[_Standards/WikiData/WD~Southwest_Finland,5712]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 minimum_temperature_record: -51.5
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Finland,29558]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Finland,29558]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -434,7 +434,7 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.fi,37164]]'
 total_fertility_rate: 1.75
 Gini_coefficient: 27.7
 maximum_temperature_record: 37.2
-flag: "[[_Standards/WikiData/WD~flag of Finland,47891]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Finland,47891]]"
 trunk_prefix: 0
 UIC_numerical_country_code: 10
 Happy_Planet_Index_score: 51.3

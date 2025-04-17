@@ -1,20 +1,20 @@
 ﻿---
 has_id_wikidata: Q12748
-studied_in: "[[_Standards/WikiData/WD~economic geology,853915]]"
+studied_in: "[[_Standards/WikiData/WD~economic_geology,853915]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~mineral resource,889659]]"
-- "[[_Standards/WikiData/WD~non-renewable resource,936791]]"
-- "[[_Standards/WikiData/WD~energy source,1522115]]"
+- "[[_Standards/WikiData/WD~mineral_resource,889659]]"
+- "[[_Standards/WikiData/WD~non-renewable_resource,936791]]"
+- "[[_Standards/WikiData/WD~energy_source,1522115]]"
 - '[[_Standards/WikiData/WD~fuel,42501]]'
-described_by_source: "[[_Standards/WikiData/WD~Mala hirnycha encyclopædia,1270052]]"
-made_from_material: "[[_Standards/WikiData/WD~organic matter,1783121]]"
+described_by_source: "[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]"
+made_from_material: "[[_Standards/WikiData/WD~organic_matter,1783121]]"
 replaced_by:
-- "[[_Standards/WikiData/WD~sustainable energy,1962383]]"
-- "[[_Standards/WikiData/WD~renewable energy,12705]]"
-has_use: "[[_Standards/WikiData/WD~nonrenewable energy,2632167]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~type of natural resource,131700004]]"
+- "[[_Standards/WikiData/WD~sustainable_energy,1962383]]"
+- "[[_Standards/WikiData/WD~renewable_energy,12705]]"
+has_use: "[[_Standards/WikiData/WD~nonrenewable_energy,2632167]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_natural_resource,131700004]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Combustibles%20fossiles.png"
 UMLS_CUI: C0016613
 OmegaWiki_Defined_Meaning: 1555

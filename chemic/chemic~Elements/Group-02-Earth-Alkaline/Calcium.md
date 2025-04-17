@@ -19,39 +19,39 @@ InChIKey: OYPRJOBELJOOCE-UHFFFAOYSA-N
 UNII: SY7Q814VUP
 Unicode_character: 鈣
 time_of_discovery_or_invention: "1808"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 4,239825]]"
-- "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
+- "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 named_after: '[[_Standards/WikiData/WD~lime,250423]]'
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Chlorella vulgaris,309972]]"
-- "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
-- "[[_Standards/WikiData/WD~Phytelephas aequatorialis,2709988]]"
-- "[[_Standards/WikiData/WD~Chlorella pyrenoidosa,5102920]]"
-- "[[_Standards/WikiData/WD~Euphorbia lancifolia,5851731]]"
-- "[[_Standards/WikiData/WD~Montanoa tomentosa,6904440]]"
-- "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
-- "[[_Standards/WikiData/WD~Montanoa frutescens,15564776]]"
-- "[[_Standards/WikiData/WD~Montanoa grandiflora,15564965]]"
-- "[[_Standards/WikiData/WD~Montanoa leucantha,15565960]]"
-- "[[_Standards/WikiData/WD~Chamomilla recutita,50837010]]"
-- "[[_Standards/WikiData/WD~Auxenochlorella pyrenoidosa,69677118]]"
-- "[[_Standards/WikiData/WD~Matricaria chamomilla,28437]]"
+- "[[_Standards/WikiData/WD~Chlorella_vulgaris,309972]]"
+- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+- "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+- "[[_Standards/WikiData/WD~Chlorella_pyrenoidosa,5102920]]"
+- "[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]"
+- "[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]"
+- "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
+- "[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]"
+- "[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]"
+- "[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]"
+- "[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]"
+- "[[_Standards/WikiData/WD~Auxenochlorella_pyrenoidosa,69677118]]"
+- "[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]"
 - '[[_Standards/WikiData/WD~cacao,42385]]'
-- "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Calcium,84637109]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-- "[[_Standards/WikiData/WD~essential medicine,35456]]"
-different_from: "[[_Standards/WikiData/WD~serum calcium,21028902]]"
-subclass_of: "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- "[[_Standards/WikiData/WD~essential_medicine,35456]]"
+different_from: "[[_Standards/WikiData/WD~serum_calcium,21028902]]"
+subclass_of: "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 ionic_radius:
 - 1
 - 1.12
@@ -62,7 +62,7 @@ oxidation_state:
 - 2
 electronegativity: 1
 atomic_number: 20
-subject_has_role: "[[_Standards/WikiData/WD~essential medicine,35456]]"
+subject_has_role: "[[_Standards/WikiData/WD~essential_medicine,35456]]"
 electrical_conductivity: 28200000
 standard_molar_entropy: 41.6
 OmegaWiki_Defined_Meaning: 471

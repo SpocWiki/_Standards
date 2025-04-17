@@ -3,19 +3,19 @@ type: Element
 SpocWebEntityId: 21984
 has_id_wikidata: Q1121
 part_of:
-- "[[_Standards/WikiData/WD~group 3,108307]]"
-- "[[_Standards/WikiData/WD~period 7,244979]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~André-Louis Debierne,468371]]"
+- "[[_Standards/WikiData/WD~group_3,108307]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~André-Louis_Debierne,468371]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-named_after: "[[_Standards/WikiData/WD~light beam,2493660]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+named_after: "[[_Standards/WikiData/WD~light_beam,2493660]]"
 instance_of:
-- "[[_Standards/WikiData/WD~radioactive element,3658631]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828445,22828445]]'
 time_of_discovery_or_invention: "1899"
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20152.jpg"

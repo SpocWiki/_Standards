@@ -1,86 +1,86 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Collective Security Treaty Organization,318693]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~Shanghai Cooperation Organisation,485207]]"
-- "[[_Standards/WikiData/WD~Organization of Turkic States,596850]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Independent States Free Trade Area,1702783]]"
-- "[[_Standards/WikiData/WD~Central Asian Cooperation Organization,2297670]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Independent States,7779]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]"
+- "[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]"
+- "[[_Standards/WikiData/WD~Central_Asian_Cooperation_Organization,2297670]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 replaces:
-- "[[_Standards/WikiData/WD~Kirghiz Soviet Socialist Republic,130276]]"
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-follows: "[[_Standards/WikiData/WD~Kirghiz Soviet Socialist Republic,130276]]"
-lowest_point: "[[_Standards/WikiData/WD~Kara Darya,155298]]"
-flag: "[[_Standards/WikiData/WD~flag of Kyrgyzstan,165641]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Kyrgyzstan,238722]]"
-culture: "[[_Standards/WikiData/WD~culture of Kyrgyzstan,251346]]"
-highest_point: "[[_Standards/WikiData/WD~Jengish Chokusu,332762]]"
-anthem: "[[_Standards/WikiData/WD~State Anthem of the Kyrgyz Republic,413650]]"
-legislative_body: "[[_Standards/WikiData/WD~Supreme Council,578193]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Kyrgyzstan,641698]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Kyrgyzstan,853036]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Kyrgyzstan,988196]]"
+- "[[_Standards/WikiData/WD~Kirghiz_Soviet_Socialist_Republic,130276]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+follows: "[[_Standards/WikiData/WD~Kirghiz_Soviet_Socialist_Republic,130276]]"
+lowest_point: "[[_Standards/WikiData/WD~Kara_Darya,155298]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Kyrgyzstan,165641]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Kyrgyzstan,238722]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Kyrgyzstan,251346]]"
+highest_point: "[[_Standards/WikiData/WD~Jengish_Chokusu,332762]]"
+anthem: "[[_Standards/WikiData/WD~State_Anthem_of_the_Kyrgyz_Republic,413650]]"
+legislative_body: "[[_Standards/WikiData/WD~Supreme_Council,578193]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Kyrgyzstan,641698]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Kyrgyzstan,853036]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Kyrgyzstan,988196]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Soviet Central Asia,1211919]]"
-part_of: "[[_Standards/WikiData/WD~Soviet Central Asia,1211919]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Kyrgyzstan,1709473]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Kyrgyzstan,2333371]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Kyrgyzstan,2468943]]"
-central_bank: "[[_Standards/WikiData/WD~National Bank of the Kyrgyz Republic,3430475]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Soviet_Central_Asia,1211919]]"
+part_of: "[[_Standards/WikiData/WD~Soviet_Central_Asia,1211919]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Kyrgyzstan,1709473]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Kyrgyzstan,2333371]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Kyrgyzstan,2468943]]"
+central_bank: "[[_Standards/WikiData/WD~National_Bank_of_the_Kyrgyz_Republic,3430475]]"
 head_of_government:
-- "[[_Standards/WikiData/WD~Akylbek Japarov,4060344]]"
-- "[[_Standards/WikiData/WD~Sooronbay Jeenbekov,23810819]]"
-- "[[_Standards/WikiData/WD~Sadyr Zhaparov,25597826]]"
-- "[[_Standards/WikiData/WD~Sapar Isakov,29865128]]"
-- "[[_Standards/WikiData/WD~Muhammetkaliy Abulgaziyev,37777535]]"
-- "[[_Standards/WikiData/WD~Kubatbek Boronov,96338578]]"
-- "[[_Standards/WikiData/WD~Artjom Nowikow,101751482]]"
-- "[[_Standards/WikiData/WD~Ulukbek Maripov,105277058]]"
-- "[[_Standards/WikiData/WD~Adylbek Kasymaliev,112703041]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Kyrgyzstan,7112330]]"
+- "[[_Standards/WikiData/WD~Akylbek_Japarov,4060344]]"
+- "[[_Standards/WikiData/WD~Sooronbay_Jeenbekov,23810819]]"
+- "[[_Standards/WikiData/WD~Sadyr_Zhaparov,25597826]]"
+- "[[_Standards/WikiData/WD~Sapar_Isakov,29865128]]"
+- "[[_Standards/WikiData/WD~Muhammetkaliy_Abulgaziyev,37777535]]"
+- "[[_Standards/WikiData/WD~Kubatbek_Boronov,96338578]]"
+- "[[_Standards/WikiData/WD~Artjom_Nowikow,101751482]]"
+- "[[_Standards/WikiData/WD~Ulukbek_Maripov,105277058]]"
+- "[[_Standards/WikiData/WD~Adylbek_Kasymaliev,112703041]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Kyrgyzstan,7112330]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Q10601134,10601134]]'
 - '[[_Standards/WikiData/WD~Template_Kyrgyzstan,17588893]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kyrgyzstan,11155760]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-described_by_source: "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Kyrgyzstan,18812677]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Ministers of Kyrgyzstan,24031608]]"
-head_of_state: "[[_Standards/WikiData/WD~Sadyr Zhaparov,25597826]]"
+described_by_source: "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Kyrgyzstan,18812677]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Ministers_of_Kyrgyzstan,24031608]]"
+head_of_state: "[[_Standards/WikiData/WD~Sadyr_Zhaparov,25597826]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~101,25648794]]'
 - '[[_Standards/WikiData/WD~102,25648798]]'
 - '[[_Standards/WikiData/WD~103,25648811]]'
 - '[[_Standards/WikiData/WD~161,25648887]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q48685885,48685885]]'
 coordinates_of_southernmost_point: "Point(72.23095 39.18031)"
 demonym:
@@ -146,25 +146,25 @@ nominal_GDP:
 - 8740681889
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Tajikistan,863]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Greece,41]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Tajikistan,863]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 country: '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+06_00,6906]]'

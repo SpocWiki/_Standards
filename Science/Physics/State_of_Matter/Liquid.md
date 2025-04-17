@@ -6,13 +6,13 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~viscosity,128709]]'
 - '[[_Standards/WikiData/WD~fluidity,3074482]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-manifestation_of: "[[_Standards/WikiData/WD~liquid state of matter,6761456]]"
-instance_of: "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+manifestation_of: "[[_Standards/WikiData/WD~liquid_state_of_matter,6761456]]"
+instance_of: "[[_Standards/WikiData/WD~fundamental_state_of_matter,15831576]]"
 less_than: '[[_Standards/WikiData/WD~gas,11432]]'
 greater_than:
 - '[[_Standards/WikiData/WD~gas,11432]]'

@@ -3,38 +3,38 @@ has_id_wikidata: Q12280
 part_of: '[[_Standards/WikiData/WD~street,79007]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~thoroughfare,83620]]'
-- "[[_Standards/WikiData/WD~architectural structure,811979]]"
-- "[[_Standards/WikiData/WD~geographic location,2221906]]"
+- "[[_Standards/WikiData/WD~architectural_structure,811979]]"
+- "[[_Standards/WikiData/WD~geographic_location,2221906]]"
 different_from:
 - '[[_Standards/WikiData/WD~Bridge,347789]]'
 - '[[_Standards/WikiData/WD~Ponto,422094]]'
 - '[[_Standards/WikiData/WD~Brücke,4993117]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Arkeologisen kulttuuriperinnön opas,65109596]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"
 - '[[_Standards/WikiData/WD~Q105336459,105336459]]'
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~deck,2042353]]'
-- "[[_Standards/WikiData/WD~bridge span,3538246]]"
+- "[[_Standards/WikiData/WD~bridge_span,3538246]]"
 - '[[_Standards/WikiData/WD~abutment,6452175]]'
-- "[[_Standards/WikiData/WD~bridge pier,21155149]]"
+- "[[_Standards/WikiData/WD~bridge_pier,21155149]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox bridge,5637640]]"
-- "[[_Standards/WikiData/WD~Template_Bridge footer,6727394]]"
-- "[[_Standards/WikiData/WD~Template_Navigation bridges in the city Utrecht,28943607]]"
-- "[[_Standards/WikiData/WD~Template_Navigation bridges of Rotterdam,50556360]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_bridge,5637640]]"
+- "[[_Standards/WikiData/WD~Template_Bridge_footer,6727394]]"
+- "[[_Standards/WikiData/WD~Template_Navigation_bridges_in_the_city_Utrecht,28943607]]"
+- "[[_Standards/WikiData/WD~Template_Navigation_bridges_of_Rotterdam,50556360]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bridges,11217552]]'
-studied_in: "[[_Standards/WikiData/WD~bridge construction,21155146]]"
+studied_in: "[[_Standards/WikiData/WD~bridge_construction,21155146]]"
 Dewey_Decimal_Classification:
 - 624.2
 - 388.132
@@ -88,7 +88,7 @@ properties_for_this_type:
 - crosses
 - "made from material"
 - "main building contractor"
-model_item: "[[_Standards/WikiData/WD~Golden Gate Bridge,44440]]"
+model_item: "[[_Standards/WikiData/WD~Golden_Gate_Bridge,44440]]"
 Nomenclature_for_Museum_Cataloging: 883
 Commons_gallery: Bridge
 Wolfram_Language_entity_type: Bridge

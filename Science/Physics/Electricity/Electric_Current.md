@@ -3,15 +3,15 @@ aliases:
 - "Electric current"
 has_id_wikidata: Q11651
 different_from:
-- "[[_Standards/WikiData/WD~electric current density,234072]]"
-- "[[_Standards/WikiData/WD~flux density,51720768]]"
-- "[[_Standards/WikiData/WD~electric current,29996]]"
+- "[[_Standards/WikiData/WD~electric_current_density,234072]]"
+- "[[_Standards/WikiData/WD~flux_density,51720768]]"
+- "[[_Standards/WikiData/WD~electric_current,29996]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-has_part_s_: "[[_Standards/WikiData/WD~ion current,6063423]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+has_part_s_: "[[_Standards/WikiData/WD~ion_current,6063423]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681476,25681476]]'
 subclass_of: '[[_Standards/WikiData/WD~current,56298508]]'
 Wikidata_property: "maximum current"

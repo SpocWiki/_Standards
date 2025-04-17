@@ -19,32 +19,32 @@ Unicode_character: 錫
 UNSPSC_Code: 11101716
 PubChem_CID: 5352426
 instance_of:
-- "[[_Standards/WikiData/WD~chemical substance,79529]]"
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 14,106693]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~antimony-doped tin oxide,3886818]]"
+- "[[_Standards/WikiData/WD~group_14,106693]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~antimony-doped_tin_oxide,3886818]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 - '[[_Standards/WikiData/WD~metal,11426]]'
-- "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+- "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 color: '[[_Standards/WikiData/WD~silver,317802]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 - '[[_Standards/WikiData/WD~Tin,84668552]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~Regulation (EC) No. 1272_2008,2005334]]"
-has_effect: "[[_Standards/WikiData/WD~tin poisoning,7807844]]"
-associated_hazard: "[[_Standards/WikiData/WD~tin poisoning,7807844]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+has_effect: "[[_Standards/WikiData/WD~tin_poisoning,7807844]]"
+associated_hazard: "[[_Standards/WikiData/WD~tin_poisoning,7807844]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
 different_from: '[[_Standards/WikiData/WD~Timah,19752956]]'
 DSSTOX_compound_identifier: DTXCID701323006
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%ADn.PNG"

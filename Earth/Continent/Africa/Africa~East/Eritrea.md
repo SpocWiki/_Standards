@@ -1,21 +1,21 @@
 ---
 member_of:
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 language_used:
 - '[[_Standards/WikiData/WD~Malay,9237]]'
 - '[[_Standards/WikiData/WD~Afar,27811]]'
@@ -26,41 +26,41 @@ language_used:
 - '[[_Standards/WikiData/WD~Kunama,36041]]'
 - '[[_Standards/WikiData/WD~Nara,36179]]'
 - '[[_Standards/WikiData/WD~Saho,36353]]'
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
 - '[[_Standards/WikiData/WD~Blin,56491]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 official_language:
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
 - '[[_Standards/WikiData/WD~Tigrinya,34124]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
-named_after: "[[_Standards/WikiData/WD~Red Sea,23406]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~East Africa,27407]]"
-part_of: "[[_Standards/WikiData/WD~East Africa,27407]]"
+named_after: "[[_Standards/WikiData/WD~Red_Sea,23406]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~East_Africa,27407]]"
+part_of: "[[_Standards/WikiData/WD~East_Africa,27407]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Maekel Region,27710]]"
-- "[[_Standards/WikiData/WD~Debub Region,27728]]"
-- "[[_Standards/WikiData/WD~Northern Red Sea Region,27910]]"
-- "[[_Standards/WikiData/WD~Southern Red Sea Region,27928]]"
-- "[[_Standards/WikiData/WD~Anseba Region,569468]]"
-- "[[_Standards/WikiData/WD~Gash-Barka Region,873012]]"
+- "[[_Standards/WikiData/WD~Maekel_Region,27710]]"
+- "[[_Standards/WikiData/WD~Debub_Region,27728]]"
+- "[[_Standards/WikiData/WD~Northern_Red_Sea_Region,27910]]"
+- "[[_Standards/WikiData/WD~Southern_Red_Sea_Region,27928]]"
+- "[[_Standards/WikiData/WD~Anseba_Region,569468]]"
+- "[[_Standards/WikiData/WD~Gash-Barka_Region,873012]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Denmark,35]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Yemen,805]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 unemployment_rate: 7
 BTI_Governance_Index:
 - 1.2
@@ -87,8 +87,8 @@ suicide_rate: 7.9
 Democracy_Index: 2.15
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.er,41019]]'
 Human_Development_Index: 0.492
-head_of_state: "[[_Standards/WikiData/WD~Isaias Afwerki,57348]]"
-head_of_government: "[[_Standards/WikiData/WD~Isaias Afwerki,57348]]"
+head_of_state: "[[_Standards/WikiData/WD~Isaias_Afwerki,57348]]"
+head_of_government: "[[_Standards/WikiData/WD~Isaias_Afwerki,57348]]"
 area: 117600
 population: 3497000
 total_fertility_rate: 4.284
@@ -175,39 +175,39 @@ country: '[[_Standards/WikiData/WD~Eritrea,986]]'
 capital: '[[_Standards/WikiData/WD~Asmara,3642]]'
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 - '[[_Standards/WikiData/WD~Africa_Addis_Ababa,4689472]]'
-coat_of_arms: "[[_Standards/WikiData/WD~emblem of Eritrea,109120]]"
-flag: "[[_Standards/WikiData/WD~flag of Eritrea,170555]]"
+coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_Eritrea,109120]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Eritrea,170555]]"
 different_from: '[[_Standards/WikiData/WD~Eretria,320367]]'
-lowest_point: "[[_Standards/WikiData/WD~Lake Kulul,612647]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Eritrea,806163]]"
-anthem: "[[_Standards/WikiData/WD~Ertra, Ertra, Ertra,857605]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Eritrea,1185952]]"
+lowest_point: "[[_Standards/WikiData/WD~Lake_Kulul,612647]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Eritrea,806163]]"
+anthem: "[[_Standards/WikiData/WD~Ertra,_Ertra,_Ertra,857605]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Eritrea,1185952]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type L,1520890]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Eritrea,1435211]]"
-highest_point: "[[_Standards/WikiData/WD~Emba Soira,1753730]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Eritrea,1818145]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,2094027]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Eritrea,2309676]]"
-culture: "[[_Standards/WikiData/WD~culture of Eritrea,2917579]]"
+- "[[_Standards/WikiData/WD~Type_L,1520890]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Eritrea,1435211]]"
+highest_point: "[[_Standards/WikiData/WD~Emba_Soira,1753730]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Eritrea,1818145]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,2094027]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Eritrea,2309676]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Eritrea,2917579]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~114,2945964]]'
 - '[[_Standards/WikiData/WD~116,25648807]]'
 - '[[_Standards/WikiData/WD~113,25648804]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Eritrea,7112256]]"
-public_holiday: "[[_Standards/WikiData/WD~Independence Day,10488275]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Eritrea,7112256]]"
+public_holiday: "[[_Standards/WikiData/WD~Independence_Day,10488275]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Eritrea,11305210]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Eritrea,19108193]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Eritrea,19108193]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-described_by_source: "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-studied_in: "[[_Standards/WikiData/WD~Eritrean studies,115669424]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Eritrea,19108193]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Eritrea,19108193]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+described_by_source: "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+studied_in: "[[_Standards/WikiData/WD~Eritrean_studies,115669424]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Eritrea.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Eritrea%20banner%20Eritrean%20railway%20bridge.jpg"
 locator_map_image:

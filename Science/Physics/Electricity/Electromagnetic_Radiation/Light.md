@@ -1,28 +1,28 @@
 ﻿---
 has_id_wikidata: Q9128
 different_from:
-- "[[_Standards/WikiData/WD~visible spectrum,76299]]"
+- "[[_Standards/WikiData/WD~visible_spectrum,76299]]"
 - '[[_Standards/WikiData/WD~Light,347415]]'
 - '[[_Standards/WikiData/WD~light,106831324]]'
 opposite_of: '[[_Standards/WikiData/WD~darkness,204170]]'
 has_use:
-- "[[_Standards/WikiData/WD~visual system,558363]]"
-- "[[_Standards/WikiData/WD~video art,682010]]"
+- "[[_Standards/WikiData/WD~visual_system,558363]]"
+- "[[_Standards/WikiData/WD~video_art,682010]]"
 - '[[_Standards/WikiData/WD~art,735]]'
 - '[[_Standards/WikiData/WD~photosynthesis,11982]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 has_characteristic: '[[_Standards/WikiData/WD~spectrum,654182]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~optical radiation,7098889]]"
-- "[[_Standards/WikiData/WD~electromagnetic wave,11386]]"
+- "[[_Standards/WikiData/WD~optical_radiation,7098889]]"
+- "[[_Standards/WikiData/WD~electromagnetic_wave,11386]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25691278,25691278]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q106841467,106841467]]'
-instance_of: "[[_Standards/WikiData/WD~production environment factor,124326543]]"
+instance_of: "[[_Standards/WikiData/WD~production_environment_factor,124326543]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emanation.png"
 has_part_s_: '[[_Standards/WikiData/WD~photon,3198]]'
 studied_in: '[[_Standards/WikiData/WD~optics,14620]]'

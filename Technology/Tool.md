@@ -4,33 +4,33 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~usability,216378]]'
 - '[[_Standards/WikiData/WD~simplicity,508291]]'
 - '[[_Standards/WikiData/WD~instrumentality,73204959]]'
-- "[[_Standards/WikiData/WD~type of tool,123588392]]"
+- "[[_Standards/WikiData/WD~type_of_tool,123588392]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from:
 - '[[_Standards/WikiData/WD~appliance,1183543]]'
 - '[[_Standards/WikiData/WD~instrument,6535309]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~tool,1918763]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Types of tools,7229557]]"
-- "[[_Standards/WikiData/WD~Template_Infobox tool,14447047]]"
+- "[[_Standards/WikiData/WD~Template_Types_of_tools,7229557]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_tool,14447047]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~artificial physical object,8205328]]"
+- "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
 - '[[_Standards/WikiData/WD~equipment,10273457]]'
 - '[[_Standards/WikiData/WD~tool,123691918]]'
 used_by:
 - '[[_Standards/WikiData/WD~agent,24229398]]'
 - '[[_Standards/WikiData/WD~human,5]]'
 instance_of:
-- "[[_Standards/WikiData/WD~type of object,96251598]]"
-- "[[_Standards/WikiData/WD~first-order class,104086571]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Open Culture _ GLAM Glossary,115123216]]"
+- "[[_Standards/WikiData/WD~type_of_object,96251598]]"
+- "[[_Standards/WikiData/WD~first-order_class,104086571]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Open_Culture___GLAM_Glossary,115123216]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q118143773,118143773]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Werkzeug2.ogg"
 properties_for_this_type:

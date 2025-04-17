@@ -3,11 +3,11 @@ has_id_wikidata: Q33527
 aliases:
 - "Iranian languages"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-studied_in: "[[_Standards/WikiData/WD~Iranian studies,1367176]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Iranian languages,8084951]]"
-instance_of: "[[_Standards/WikiData/WD~language family,25295]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+studied_in: "[[_Standards/WikiData/WD~Iranian_studies,1367176]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Iranian_languages,8084951]]"
+instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
 subclass_of: '[[_Standards/WikiData/WD~Indo-Iranian,33514]]'
 ABS_ASCL_2011_code: 41
 ISO_639_5_code: ira

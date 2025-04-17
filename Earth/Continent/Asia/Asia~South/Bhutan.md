@@ -1,82 +1,82 @@
 ---
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
 - '[[_Standards/WikiData/WD~kingdom,417175]]'
-- "[[_Standards/WikiData/WD~hermit kingdom,1309121]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~hermit_kingdom,1309121]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-flag: "[[_Standards/WikiData/WD~flag of Bhutan,134521]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Bhutan,134521]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Pemagatshel District,167279]]"
-- "[[_Standards/WikiData/WD~Zhemgang District,197564]]"
-- "[[_Standards/WikiData/WD~Thimphu District,254889]]"
-- "[[_Standards/WikiData/WD~Mongar District,389734]]"
-- "[[_Standards/WikiData/WD~Bumthang District,463242]]"
-- "[[_Standards/WikiData/WD~Gasa District,578294]]"
-- "[[_Standards/WikiData/WD~Punakha District,587062]]"
-- "[[_Standards/WikiData/WD~Lhuntse District,598793]]"
-- "[[_Standards/WikiData/WD~Trashiyangtse District,600200]]"
-- "[[_Standards/WikiData/WD~Chukha District,652754]]"
-- "[[_Standards/WikiData/WD~Trashigang District,652773]]"
-- "[[_Standards/WikiData/WD~Paro District,652784]]"
-- "[[_Standards/WikiData/WD~Samtse District,728917]]"
-- "[[_Standards/WikiData/WD~Tsirang District,728922]]"
-- "[[_Standards/WikiData/WD~Samdrup Jongkhar District,728929]]"
-- "[[_Standards/WikiData/WD~Wangdue Phodrang District,728933]]"
-- "[[_Standards/WikiData/WD~Trongsa District,728938]]"
-- "[[_Standards/WikiData/WD~Sarpang District,728947]]"
-- "[[_Standards/WikiData/WD~Dagana District,735146]]"
-- "[[_Standards/WikiData/WD~Haa District,754448]]"
+- "[[_Standards/WikiData/WD~Pemagatshel_District,167279]]"
+- "[[_Standards/WikiData/WD~Zhemgang_District,197564]]"
+- "[[_Standards/WikiData/WD~Thimphu_District,254889]]"
+- "[[_Standards/WikiData/WD~Mongar_District,389734]]"
+- "[[_Standards/WikiData/WD~Bumthang_District,463242]]"
+- "[[_Standards/WikiData/WD~Gasa_District,578294]]"
+- "[[_Standards/WikiData/WD~Punakha_District,587062]]"
+- "[[_Standards/WikiData/WD~Lhuntse_District,598793]]"
+- "[[_Standards/WikiData/WD~Trashiyangtse_District,600200]]"
+- "[[_Standards/WikiData/WD~Chukha_District,652754]]"
+- "[[_Standards/WikiData/WD~Trashigang_District,652773]]"
+- "[[_Standards/WikiData/WD~Paro_District,652784]]"
+- "[[_Standards/WikiData/WD~Samtse_District,728917]]"
+- "[[_Standards/WikiData/WD~Tsirang_District,728922]]"
+- "[[_Standards/WikiData/WD~Samdrup_Jongkhar_District,728929]]"
+- "[[_Standards/WikiData/WD~Wangdue_Phodrang_District,728933]]"
+- "[[_Standards/WikiData/WD~Trongsa_District,728938]]"
+- "[[_Standards/WikiData/WD~Sarpang_District,728947]]"
+- "[[_Standards/WikiData/WD~Dagana_District,735146]]"
+- "[[_Standards/WikiData/WD~Haa_District,754448]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation,795985]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,795985]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Bhutan,207354]]"
-highest_point: "[[_Standards/WikiData/WD~Gangkhar Puensum,219986]]"
-anthem: "[[_Standards/WikiData/WD~Druk Tsenden,235441]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Bhutan,207354]]"
+highest_point: "[[_Standards/WikiData/WD~Gangkhar_Puensum,219986]]"
+anthem: "[[_Standards/WikiData/WD~Druk_Tsenden,235441]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Bhutan,663871]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~South Asia,771405]]"
-part_of: "[[_Standards/WikiData/WD~South Asia,771405]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Bhutan,956615]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Bhutan,663871]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Asia,771405]]"
+part_of: "[[_Standards/WikiData/WD~South_Asia,771405]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Bhutan,956615]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Thimphu,1087393]]'
 - '[[_Standards/WikiData/WD~UTC+06_00,6906]]'
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 546,1383497]]"
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-central_bank: "[[_Standards/WikiData/WD~Royal Monetary Authority of Bhutan,1144649]]"
+- "[[_Standards/WikiData/WD~BS_546,1383497]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+central_bank: "[[_Standards/WikiData/WD~Royal_Monetary_Authority_of_Bhutan,1144649]]"
 different_from: '[[_Standards/WikiData/WD~Butan,1163367]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Druk Gyalpo,1261215]]"
-replaces: "[[_Standards/WikiData/WD~princely state,1336152]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Bhutan,2018902]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Bhutan,2035818]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Bhutan,2080399]]"
-executive_body: "[[_Standards/WikiData/WD~Lhengye Zhungtshog,2081864]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Bhutan,2359819]]"
-culture: "[[_Standards/WikiData/WD~culture of Bhutan,2578494]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Druk_Gyalpo,1261215]]"
+replaces: "[[_Standards/WikiData/WD~princely_state,1336152]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Bhutan,2018902]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bhutan,2035818]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Bhutan,2080399]]"
+executive_body: "[[_Standards/WikiData/WD~Lhengye_Zhungtshog,2081864]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bhutan,2359819]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Bhutan,2578494]]"
 language_used:
 - '[[_Standards/WikiData/WD~Gongduk,2669221]]'
 - '[[_Standards/WikiData/WD~Bumthang,2786408]]'
@@ -99,10 +99,10 @@ language_used:
 - '[[_Standards/WikiData/WD~Lunana,56446]]'
 - '[[_Standards/WikiData/WD~Laya,56602]]'
 - '[[_Standards/WikiData/WD~Brokpa,56603]]'
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Bhutan,4231519]]"
-lowest_point: "[[_Standards/WikiData/WD~Drangme Chhu,5305803]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Bhutan,7112204]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Bhutan,7644880]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Bhutan,4231519]]"
+lowest_point: "[[_Standards/WikiData/WD~Drangme_Chhu,5305803]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bhutan,7112204]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Bhutan,7644880]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bhutan,14614554]]'
 emergency_phone_number:
@@ -110,8 +110,8 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~110,25648823]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103993,27103993]]'
 category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32380001,32380001]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-head_of_government: "[[_Standards/WikiData/WD~Lotay Tshering,57313851]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+head_of_government: "[[_Standards/WikiData/WD~Lotay_Tshering,57313851]]"
 coordinates_of_southernmost_point: "Point(89.77085 26.70202)"
 coordinates_of_northernmost_point: "Point(90.0 28.32)"
 name: ꠜꠥꠐꠣꠘ
@@ -162,7 +162,7 @@ motto_text:
 official_name: "Kingdom of Bhutan"
 short_name: "\U0001F1E7\U0001F1F9"
 coordinate_location: "Point(90.5 27.45)"
-head_of_state: "[[_Standards/WikiData/WD~Jigme Khesar Namgyel Wangchuck,57376]]"
+head_of_state: "[[_Standards/WikiData/WD~Jigme_Khesar_Namgyel_Wangchuck,57376]]"
 birth_rate:
 - 12.65
 - 12.332
@@ -233,13 +233,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~India,668]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 country: '[[_Standards/WikiData/WD~Bhutan,917]]'
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Christianity,5043]]'
@@ -273,7 +273,7 @@ BTI_Governance_Index:
 - 6.69
 suicide_rate: 11.4
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bt,40001]]'
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 Happy_Planet_Index_score: 36.7
 Gini_coefficient: 37.4
 Inequality_adjusted_Human_Development_Index: 0.471

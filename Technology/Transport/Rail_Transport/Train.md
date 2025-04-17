@@ -2,22 +2,22 @@
 has_id_wikidata: Q870
 has_part_s_:
 - '[[_Standards/WikiData/WD~locomotive,93301]]'
-- "[[_Standards/WikiData/WD~railroad car,208502]]"
-instance_of: "[[_Standards/WikiData/WD~mode of transport,334166]]"
+- "[[_Standards/WikiData/WD~railroad_car,208502]]"
+instance_of: "[[_Standards/WikiData/WD~mode_of_transport,334166]]"
 has_use:
-- "[[_Standards/WikiData/WD~rail and rope guided transport,350783]]"
-- "[[_Standards/WikiData/WD~rail transport,3565868]]"
+- "[[_Standards/WikiData/WD~rail_and_rope_guided_transport,350783]]"
+- "[[_Standards/WikiData/WD~rail_transport,3565868]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~rolling stock,1414135]]"
-- "[[_Standards/WikiData/WD~wheeled vehicle,15618781]]"
+- "[[_Standards/WikiData/WD~rolling_stock,1414135]]"
+- "[[_Standards/WikiData/WD~wheeled_vehicle,15618781]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox train,5902995]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_train,5902995]]"
 - '[[_Standards/WikiData/WD~Q106811496,106811496]]'
 different_from:
-- "[[_Standards/WikiData/WD~train service,15141321]]"
+- "[[_Standards/WikiData/WD~train_service,15141321]]"
 - '[[_Standards/WikiData/WD~pod,112893788]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20drone%20chase%20of%20a%20train.webm"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/UBTZ%202TE116UM-022%20Cagaan%20Had%20-%20Sumangijn%20Zoo.jpg"

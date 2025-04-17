@@ -3,20 +3,20 @@ has_id_wikidata: Q11430
 is_metaclass_for: '[[_Standards/WikiData/WD~phase,104837]]'
 different_from:
 - '[[_Standards/WikiData/WD~phase,104837]]'
-- "[[_Standards/WikiData/WD~physical quantity,107715]]"
+- "[[_Standards/WikiData/WD~physical_quantity,107715]]"
 part_of: '[[_Standards/WikiData/WD~phase,104837]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Technical Encyclopedia, 1st edition,20078551]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-has_list: "[[_Standards/WikiData/WD~list of states of matter,3271631]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+has_list: "[[_Standards/WikiData/WD~list_of_states_of_matter,3271631]]"
 instance_of:
-- "[[_Standards/WikiData/WD~physical property,4373292]]"
+- "[[_Standards/WikiData/WD~physical_property,4373292]]"
 - '[[_Standards/WikiData/WD~metaclass,19478619]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_States of matter,6147219]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_States_of_matter,6147219]]"
 subclass_of: '[[_Standards/WikiData/WD~type,21146257]]'
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Wolfram_Language_entity_type: MatterPhase
 Wikidata_property: "phase of matter"
 OmegaWiki_Defined_Meaning: 3614

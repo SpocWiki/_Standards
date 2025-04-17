@@ -35,51 +35,51 @@ Languages:
 - el
 icon: flag-al
 Provenio_UUID: 
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Albania,162058]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary system,166747]]"
-anthem: "[[_Standards/WikiData/WD~Himni i Flamurit,168731]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Albania,162058]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_system,166747]]"
+anthem: "[[_Standards/WikiData/WD~Himni_i_Flamurit,168731]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~Albanians,179248]]'
 - '[[_Standards/WikiData/WD~Vlachs,475021]]'
 - '[[_Standards/WikiData/WD~Greeks,539051]]'
 - '[[_Standards/WikiData/WD~Egyptians,1061510]]'
 - '[[_Standards/WikiData/WD~Macedonians,2436423]]'
-- "[[_Standards/WikiData/WD~Montenegrins in Albania,3862296]]"
+- "[[_Standards/WikiData/WD~Montenegrins_in_Albania,3862296]]"
 - "http://www.wikidata.org/.well-known/genid/e70ef3cad92964811ae27042d3057dc4"
-- "[[_Standards/WikiData/WD~Romani people,8060]]"
+- "[[_Standards/WikiData/WD~Romani_people,8060]]"
 language_used:
 - '[[_Standards/WikiData/WD~Tosk,180937]]'
 - '[[_Standards/WikiData/WD~Gheg,181037]]'
-- "[[_Standards/WikiData/WD~Albanian Sign Language,4709168]]"
+- "[[_Standards/WikiData/WD~Albanian_Sign_Language,4709168]]"
 - '[[_Standards/WikiData/WD~Albanian,8748]]'
 - '[[_Standards/WikiData/WD~Greek,9129]]'
 - '[[_Standards/WikiData/WD~Aromanian,29316]]'
-- "[[_Standards/WikiData/WD~Modern Greek,36510]]"
+- "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Berat County,189296]]"
-- "[[_Standards/WikiData/WD~Vlorë County,192849]]"
-- "[[_Standards/WikiData/WD~Durrës County,192853]]"
-- "[[_Standards/WikiData/WD~Dibër County,192866]]"
-- "[[_Standards/WikiData/WD~Shkodër County,193438]]"
-- "[[_Standards/WikiData/WD~Lezhë County,193436]]"
-- "[[_Standards/WikiData/WD~Gjirokastër County,193454]]"
-- "[[_Standards/WikiData/WD~Korçë County,193464]]"
-- "[[_Standards/WikiData/WD~Elbasan County,193790]]"
-- "[[_Standards/WikiData/WD~Tirana County,229892]]"
-- "[[_Standards/WikiData/WD~Kukës County,231896]]"
-- "[[_Standards/WikiData/WD~Fier County,231900]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Albania,213833]]"
+- "[[_Standards/WikiData/WD~Berat_County,189296]]"
+- "[[_Standards/WikiData/WD~Vlorë_County,192849]]"
+- "[[_Standards/WikiData/WD~Durrës_County,192853]]"
+- "[[_Standards/WikiData/WD~Dibër_County,192866]]"
+- "[[_Standards/WikiData/WD~Shkodër_County,193438]]"
+- "[[_Standards/WikiData/WD~Lezhë_County,193436]]"
+- "[[_Standards/WikiData/WD~Gjirokastër_County,193454]]"
+- "[[_Standards/WikiData/WD~Korçë_County,193464]]"
+- "[[_Standards/WikiData/WD~Elbasan_County,193790]]"
+- "[[_Standards/WikiData/WD~Tirana_County,229892]]"
+- "[[_Standards/WikiData/WD~Kukës_County,231896]]"
+- "[[_Standards/WikiData/WD~Fier_County,231900]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Albania,213833]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
@@ -88,8 +88,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Greece,41]]'
 - '[[_Standards/WikiData/WD~Netherlands,55]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
@@ -99,53 +99,53 @@ different_from:
 - '[[_Standards/WikiData/WD~Albania,228634]]'
 - '[[_Standards/WikiData/WD~Albanien,11338977]]'
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~Southeast Europe,263686]]"
+- "[[_Standards/WikiData/WD~Southeast_Europe,263686]]"
 - '[[_Standards/WikiData/WD~Balkans,23522]]'
-- "[[_Standards/WikiData/WD~Southern Europe,27449]]"
+- "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-- "[[_Standards/WikiData/WD~Great dictionary of geographical names,113510146]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-head_of_government: "[[_Standards/WikiData/WD~Edi Rama,316901]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+- "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+head_of_government: "[[_Standards/WikiData/WD~Edi_Rama,316901]]"
 coordinate_location: "Point(20.0 41.0)"
-replaces: "[[_Standards/WikiData/WD~People's Socialist Republic of Albania,467864]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Albania,583150]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Albania,695245]]"
+replaces: "[[_Standards/WikiData/WD~People's_Socialist_Republic_of_Albania,467864]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Albania,583150]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Albania,695245]]"
 highest_point: '[[_Standards/WikiData/WD~Korab,912579]]'
-culture: "[[_Standards/WikiData/WD~culture of Albania,1085141]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Albania,1085141]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Albania,1135960]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Albania,1135960]]"
 studied_in: '[[_Standards/WikiData/WD~albanology,1280626]]'
 highest_judicial_authority:
-- "[[_Standards/WikiData/WD~Constitutional Court of Albania,1349315]]"
-- "[[_Standards/WikiData/WD~Supreme Court of Albania,7644871]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Albania,1625960]]"
+- "[[_Standards/WikiData/WD~Constitutional_Court_of_Albania,1349315]]"
+- "[[_Standards/WikiData/WD~Supreme_Court_of_Albania,7644871]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Albania,1625960]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-bibliography: "[[_Standards/WikiData/WD~bibliography of Albania,4903314]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Albania,7112173]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Counties of Albania,7307349]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_Albania,4903314]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Albania,7112173]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Counties_of_Albania,7307349]]"
 category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q8942493,8942493]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Albania,10815254]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Albania,11038997]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Albania,11038997]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Albania,16009376]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Albania,16009376]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q20824898,20824898]]'
 - '[[_Standards/WikiData/WD~Q53814455,53814455]]'
@@ -156,10 +156,10 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~128,25648801]]'
 category_for_people_buried_here: '[[_Standards/WikiData/WD~Q29649649,29649649]]'
 coordinates_of_easternmost_point: "Point(21.0571754 40.66620273)"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-motto: "[[_Standards/WikiData/WD~You Albania, give me honour, give me the name Albanian,50214298]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+motto: "[[_Standards/WikiData/WD~You_Albania,_give_me_honour,_give_me_the_name_Albanian,50214298]]"
 open_data_portal: '[[_Standards/WikiData/WD~open.data.al,97011999]]'
-head_of_state: "[[_Standards/WikiData/WD~Bajram Begaj,107422711]]"
+head_of_state: "[[_Standards/WikiData/WD~Bajram_Begaj,107422711]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Berat.jpg"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Alb%C3%A1nia.ogg"
@@ -221,20 +221,20 @@ motto_text:
 MeSH_tree_code: Z01.542.248.020
 shares_border_with:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
 - '[[_Standards/WikiData/WD~Greece,41]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
-member_of: "[[_Standards/WikiData/WD~United Nations,1065]]"
+member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-- "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
-- "[[_Standards/WikiData/WD~Ionian Sea,37495]]"
+- "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+- "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
+- "[[_Standards/WikiData/WD~Ionian_Sea,37495]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Albania,8055]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Albania,8055]]"
 official_language: '[[_Standards/WikiData/WD~Albanian,8748]]'
-lowest_point: "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
+lowest_point: "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
 capital: '[[_Standards/WikiData/WD~Tirana,19689]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 VAT_rate: 20
@@ -251,7 +251,7 @@ literacy_rate: 97
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.al,38291]]'
 Gini_coefficient: 30.8
 trunk_prefix: 0
-flag: "[[_Standards/WikiData/WD~flag of Albania,48409]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Albania,48409]]"
 mobile_country_code: 276
 BTI_Governance_Index:
 - 5.17

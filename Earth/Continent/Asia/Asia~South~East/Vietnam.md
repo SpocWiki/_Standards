@@ -1,34 +1,34 @@
 ---
 ethnic_group:
-- "[[_Standards/WikiData/WD~Tay people,72484]]"
-- "[[_Standards/WikiData/WD~Muong people,72805]]"
-- "[[_Standards/WikiData/WD~Nùng people,72810]]"
-- "[[_Standards/WikiData/WD~Khmer people,201028]]"
-- "[[_Standards/WikiData/WD~Vietnamese people,216151]]"
-- "[[_Standards/WikiData/WD~Hmong people,219205]]"
-- "[[_Standards/WikiData/WD~Thai people,472834]]"
-- "[[_Standards/WikiData/WD~Hoa people,1193617]]"
+- "[[_Standards/WikiData/WD~Tay_people,72484]]"
+- "[[_Standards/WikiData/WD~Muong_people,72805]]"
+- "[[_Standards/WikiData/WD~Nùng_people,72810]]"
+- "[[_Standards/WikiData/WD~Khmer_people,201028]]"
+- "[[_Standards/WikiData/WD~Vietnamese_people,216151]]"
+- "[[_Standards/WikiData/WD~Hmong_people,219205]]"
+- "[[_Standards/WikiData/WD~Thai_people,472834]]"
+- "[[_Standards/WikiData/WD~Hoa_people,1193617]]"
 language_used:
 - '[[_Standards/WikiData/WD~Nung,72695]]'
 - '[[_Standards/WikiData/WD~Mang,720192]]'
-- "[[_Standards/WikiData/WD~Tây Bồi pidgin,2233794]]"
-- "[[_Standards/WikiData/WD~Iu Mien,2498808]]"
+- "[[_Standards/WikiData/WD~Tây_Bồi_pidgin,2233794]]"
+- "[[_Standards/WikiData/WD~Iu_Mien,2498808]]"
 - '[[_Standards/WikiData/WD~Tày,2511476]]'
 - '[[_Standards/WikiData/WD~Pa-Hng,2625410]]'
-- "[[_Standards/WikiData/WD~Cacgia Roglai,2932485]]"
-- "[[_Standards/WikiData/WD~Eastern Cham,2948019]]"
+- "[[_Standards/WikiData/WD~Cacgia_Roglai,2932485]]"
+- "[[_Standards/WikiData/WD~Eastern_Cham,2948019]]"
 - '[[_Standards/WikiData/WD~Chru,2967321]]'
 - '[[_Standards/WikiData/WD~Chut,2967709]]'
-- "[[_Standards/WikiData/WD~Red Gelao,3100264]]"
+- "[[_Standards/WikiData/WD~Red_Gelao,3100264]]"
 - '[[_Standards/WikiData/WD~Laha,3112363]]'
 - '[[_Standards/WikiData/WD~Haroi,3127568]]'
-- "[[_Standards/WikiData/WD~Hmong Njua,3138831]]"
+- "[[_Standards/WikiData/WD~Hmong_Njua,3138831]]"
 - '[[_Standards/WikiData/WD~Khao,3196077]]'
 - '[[_Standards/WikiData/WD~Muong,3236789]]'
 - '[[_Standards/WikiData/WD~O’du,3347428]]'
 - '[[_Standards/WikiData/WD~Rade,3429088]]'
 - '[[_Standards/WikiData/WD~Qabiao,3436700]]'
-- "[[_Standards/WikiData/WD~Northern Roglai,3439680]]"
+- "[[_Standards/WikiData/WD~Northern_Roglai,3439680]]"
 - '[[_Standards/WikiData/WD~Cua,3441115]]'
 - '[[_Standards/WikiData/WD~Pacoh,3441136]]'
 - '[[_Standards/WikiData/WD~Sapa,3446668]]'
@@ -37,11 +37,11 @@ language_used:
 - '[[_Standards/WikiData/WD~En,3504110]]'
 - '[[_Standards/WikiData/WD~Arem,3507920]]'
 - '[[_Standards/WikiData/WD~Koho,3511919]]'
-- "[[_Standards/WikiData/WD~Upper Ta'oih,3512660]]"
-- "[[_Standards/WikiData/WD~Phu Thai,3626597]]"
+- "[[_Standards/WikiData/WD~Upper_Ta'oih,3512660]]"
+- "[[_Standards/WikiData/WD~Phu_Thai,3626597]]"
 - '[[_Standards/WikiData/WD~Duan,3914632]]'
 - '[[_Standards/WikiData/WD~Jeh,3914636]]'
-- "[[_Standards/WikiData/WD~Tai Daeng,3915207]]"
+- "[[_Standards/WikiData/WD~Tai_Daeng,3915207]]"
 - '[[_Standards/WikiData/WD~Nguồn,3915785]]'
 - '[[_Standards/WikiData/WD~Hrê,3915794]]'
 - '[[_Standards/WikiData/WD~Brao,4957737]]'
@@ -57,7 +57,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Jarai,33370]]'
 - '[[_Standards/WikiData/WD~Bouyei,35100]]'
 - '[[_Standards/WikiData/WD~Halang,56307]]'
-- "[[_Standards/WikiData/WD~Tai Dam,56407]]"
+- "[[_Standards/WikiData/WD~Tai_Dam,56407]]"
 - '[[_Standards/WikiData/WD~Sedang,56448]]'
 - '[[_Standards/WikiData/WD~Hani,56516]]'
 - '[[_Standards/WikiData/WD~Mantsi,56878]]'
@@ -71,133 +71,133 @@ language_used:
 - '[[_Standards/WikiData/WD~Phukha,7188298]]'
 - '[[_Standards/WikiData/WD~Phuong,7188376]]'
 - '[[_Standards/WikiData/WD~Sila,7514021]]'
-- "[[_Standards/WikiData/WD~Tai Yo,7675746]]"
-- "[[_Standards/WikiData/WD~Tai Dón,7675751]]"
-- "[[_Standards/WikiData/WD~Tai Pao,7675795]]"
-- "[[_Standards/WikiData/WD~Tai Thanh,7675842]]"
+- "[[_Standards/WikiData/WD~Tai_Yo,7675746]]"
+- "[[_Standards/WikiData/WD~Tai_Dón,7675751]]"
+- "[[_Standards/WikiData/WD~Tai_Pao,7675795]]"
+- "[[_Standards/WikiData/WD~Tai_Thanh,7675842]]"
 - '[[_Standards/WikiData/WD~Takua,7678544]]'
 - '[[_Standards/WikiData/WD~Todrah,7812881]]'
-- "[[_Standards/WikiData/WD~Tày Tac,7862029]]"
-- "[[_Standards/WikiData/WD~White Lachi,8842956]]"
-- "[[_Standards/WikiData/WD~Hanoi Sign Language,12632107]]"
+- "[[_Standards/WikiData/WD~Tày_Tac,7862029]]"
+- "[[_Standards/WikiData/WD~White_Lachi,8842956]]"
+- "[[_Standards/WikiData/WD~Hanoi_Sign_Language,12632107]]"
 - '[[_Standards/WikiData/WD~Hung,12632753]]'
-- "[[_Standards/WikiData/WD~Western Cham,12645578]]"
-- "[[_Standards/WikiData/WD~Southern Roglai,12953069]]"
-- "[[_Standards/WikiData/WD~Green Gelao,12953525]]"
+- "[[_Standards/WikiData/WD~Western_Cham,12645578]]"
+- "[[_Standards/WikiData/WD~Southern_Roglai,12953069]]"
+- "[[_Standards/WikiData/WD~Green_Gelao,12953525]]"
 - '[[_Standards/WikiData/WD~Maa,12953680]]'
-- "[[_Standards/WikiData/WD~Eastern Mnong,12953747]]"
-- "[[_Standards/WikiData/WD~Budeh Stieng,12953891]]"
-- "[[_Standards/WikiData/WD~Thu Lao,12953921]]"
-- "[[_Standards/WikiData/WD~Eastern Katu,13018490]]"
+- "[[_Standards/WikiData/WD~Eastern_Mnong,12953747]]"
+- "[[_Standards/WikiData/WD~Budeh_Stieng,12953891]]"
+- "[[_Standards/WikiData/WD~Thu_Lao,12953921]]"
+- "[[_Standards/WikiData/WD~Eastern_Katu,13018490]]"
 - '[[_Standards/WikiData/WD~Khua,13018510]]'
-- "[[_Standards/WikiData/WD~Bulo Stieng,13018538]]"
-- "[[_Standards/WikiData/WD~Central Mnong,13018551]]"
-- "[[_Standards/WikiData/WD~Hmong Don,13018555]]"
-- "[[_Standards/WikiData/WD~Hmong Dô,13018557]]"
+- "[[_Standards/WikiData/WD~Bulo_Stieng,13018538]]"
+- "[[_Standards/WikiData/WD~Central_Mnong,13018551]]"
+- "[[_Standards/WikiData/WD~Hmong_Don,13018555]]"
+- "[[_Standards/WikiData/WD~Hmong_Dô,13018557]]"
 - '[[_Standards/WikiData/WD~Trieng,13018603]]'
 - '[[_Standards/WikiData/WD~Ná-Meo,15977293]]'
-- "[[_Standards/WikiData/WD~Ho Chi Minh City Sign Language,16111971]]"
-- "[[_Standards/WikiData/WD~Eastern Bru,16115463]]"
-- "[[_Standards/WikiData/WD~Southern Mnong,16306695]]"
+- "[[_Standards/WikiData/WD~Ho_Chi_Minh_City_Sign_Language,16111971]]"
+- "[[_Standards/WikiData/WD~Eastern_Bru,16115463]]"
+- "[[_Standards/WikiData/WD~Southern_Mnong,16306695]]"
 - '[[_Standards/WikiData/WD~Romam,22694600]]'
 - '[[_Standards/WikiData/WD~Tho,22694631]]'
-- "[[_Standards/WikiData/WD~Haiphong Sign Language,39868240]]"
+- "[[_Standards/WikiData/WD~Haiphong_Sign_Language,39868240]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Haiphong,72818]]'
-- "[[_Standards/WikiData/WD~Cần Thơ,216075]]"
-- "[[_Standards/WikiData/WD~Tuyên Quang,2332060]]"
-- "[[_Standards/WikiData/WD~Ho Chi Minh City,1854]]"
+- "[[_Standards/WikiData/WD~Cần_Thơ,216075]]"
+- "[[_Standards/WikiData/WD~Tuyên_Quang,2332060]]"
+- "[[_Standards/WikiData/WD~Ho_Chi_Minh_City,1854]]"
 - '[[_Standards/WikiData/WD~Hanoi,1858]]'
-- "[[_Standards/WikiData/WD~Quảng Bình,23533]]"
-- "[[_Standards/WikiData/WD~Da Nang,25282]]"
-- "[[_Standards/WikiData/WD~Thái Nguyên,26575]]"
-- "[[_Standards/WikiData/WD~Long An,26573]]"
-- "[[_Standards/WikiData/WD~Vĩnh Phúc,27566]]"
-- "[[_Standards/WikiData/WD~Đồng Nai,33271]]"
-- "[[_Standards/WikiData/WD~Sóc Trăng,33272]]"
-- "[[_Standards/WikiData/WD~Quảng Ngãi,33304]]"
-- "[[_Standards/WikiData/WD~Hà Tĩnh,33351]]"
-- "[[_Standards/WikiData/WD~Cà Mau,33354]]"
-- "[[_Standards/WikiData/WD~Quảng Nam,33356]]"
-- "[[_Standards/WikiData/WD~Bến Tre,33366]]"
-- "[[_Standards/WikiData/WD~Khánh Hòa,33369]]"
-- "[[_Standards/WikiData/WD~Sơn La,33379]]"
-- "[[_Standards/WikiData/WD~Quảng Ninh,33396]]"
-- "[[_Standards/WikiData/WD~Lạng Sơn,33403]]"
-- "[[_Standards/WikiData/WD~Bắc Ninh,33408]]"
-- "[[_Standards/WikiData/WD~Hòa Bình,36015]]"
-- "[[_Standards/WikiData/WD~Hưng Yên,36235]]"
-- "[[_Standards/WikiData/WD~Kon Tum,36315]]"
-- "[[_Standards/WikiData/WD~Hậu Giang,36320]]"
-- "[[_Standards/WikiData/WD~Yên Bái,36349]]"
-- "[[_Standards/WikiData/WD~Bắc Giang,36367]]"
+- "[[_Standards/WikiData/WD~Quảng_Bình,23533]]"
+- "[[_Standards/WikiData/WD~Da_Nang,25282]]"
+- "[[_Standards/WikiData/WD~Thái_Nguyên,26575]]"
+- "[[_Standards/WikiData/WD~Long_An,26573]]"
+- "[[_Standards/WikiData/WD~Vĩnh_Phúc,27566]]"
+- "[[_Standards/WikiData/WD~Đồng_Nai,33271]]"
+- "[[_Standards/WikiData/WD~Sóc_Trăng,33272]]"
+- "[[_Standards/WikiData/WD~Quảng_Ngãi,33304]]"
+- "[[_Standards/WikiData/WD~Hà_Tĩnh,33351]]"
+- "[[_Standards/WikiData/WD~Cà_Mau,33354]]"
+- "[[_Standards/WikiData/WD~Quảng_Nam,33356]]"
+- "[[_Standards/WikiData/WD~Bến_Tre,33366]]"
+- "[[_Standards/WikiData/WD~Khánh_Hòa,33369]]"
+- "[[_Standards/WikiData/WD~Sơn_La,33379]]"
+- "[[_Standards/WikiData/WD~Quảng_Ninh,33396]]"
+- "[[_Standards/WikiData/WD~Lạng_Sơn,33403]]"
+- "[[_Standards/WikiData/WD~Bắc_Ninh,33408]]"
+- "[[_Standards/WikiData/WD~Hòa_Bình,36015]]"
+- "[[_Standards/WikiData/WD~Hưng_Yên,36235]]"
+- "[[_Standards/WikiData/WD~Kon_Tum,36315]]"
+- "[[_Standards/WikiData/WD~Hậu_Giang,36320]]"
+- "[[_Standards/WikiData/WD~Yên_Bái,36349]]"
+- "[[_Standards/WikiData/WD~Bắc_Giang,36367]]"
 - '[[_Standards/WikiData/WD~Huế,36399]]'
-- "[[_Standards/WikiData/WD~Bắc Kạn,36404]]"
-- "[[_Standards/WikiData/WD~Lai Châu,36409]]"
-- "[[_Standards/WikiData/WD~Hà Nam,36413]]"
-- "[[_Standards/WikiData/WD~Lào Cai,36446]]"
-- "[[_Standards/WikiData/WD~Thanh Hóa,36512]]"
-- "[[_Standards/WikiData/WD~Quảng Trị,36579]]"
-- "[[_Standards/WikiData/WD~Kiên Giang,36576]]"
-- "[[_Standards/WikiData/WD~Nghệ An,36587]]"
-- "[[_Standards/WikiData/WD~An Giang,36592]]"
-- "[[_Standards/WikiData/WD~Phú Thọ,36610]]"
-- "[[_Standards/WikiData/WD~Tây Ninh,36608]]"
-- "[[_Standards/WikiData/WD~Trà Vinh,36615]]"
-- "[[_Standards/WikiData/WD~Bạc Liêu province,36658]]"
-- "[[_Standards/WikiData/WD~Gia Lai,36662]]"
-- "[[_Standards/WikiData/WD~Tiền Giang,36666]]"
-- "[[_Standards/WikiData/WD~Bình Phước,36672]]"
-- "[[_Standards/WikiData/WD~Đồng Tháp,36676]]"
-- "[[_Standards/WikiData/WD~Thái Bình,36681]]"
-- "[[_Standards/WikiData/WD~Hà Giang,36685]]"
-- "[[_Standards/WikiData/WD~Đắk Lắk,36690]]"
-- "[[_Standards/WikiData/WD~Bình Định,36693]]"
-- "[[_Standards/WikiData/WD~Đắk Nông,36723]]"
-- "[[_Standards/WikiData/WD~Lâm Đồng,36721]]"
-- "[[_Standards/WikiData/WD~Phu Yen,36725]]"
-- "[[_Standards/WikiData/WD~Hải Dương,36729]]"
-- "[[_Standards/WikiData/WD~Bình Dương,36866]]"
-- "[[_Standards/WikiData/WD~Cao Bằng,36865]]"
-- "[[_Standards/WikiData/WD~Bình Thuận,36869]]"
-- "[[_Standards/WikiData/WD~Bà Rịa-Vũng Tàu,36874]]"
-- "[[_Standards/WikiData/WD~Ninh Thuận,36903]]"
-- "[[_Standards/WikiData/WD~Ninh Bình,36900]]"
-- "[[_Standards/WikiData/WD~Nam Định,36907]]"
-- "[[_Standards/WikiData/WD~Điện Biên,36955]]"
-- "[[_Standards/WikiData/WD~Vĩnh Long,7333405]]"
+- "[[_Standards/WikiData/WD~Bắc_Kạn,36404]]"
+- "[[_Standards/WikiData/WD~Lai_Châu,36409]]"
+- "[[_Standards/WikiData/WD~Hà_Nam,36413]]"
+- "[[_Standards/WikiData/WD~Lào_Cai,36446]]"
+- "[[_Standards/WikiData/WD~Thanh_Hóa,36512]]"
+- "[[_Standards/WikiData/WD~Quảng_Trị,36579]]"
+- "[[_Standards/WikiData/WD~Kiên_Giang,36576]]"
+- "[[_Standards/WikiData/WD~Nghệ_An,36587]]"
+- "[[_Standards/WikiData/WD~An_Giang,36592]]"
+- "[[_Standards/WikiData/WD~Phú_Thọ,36610]]"
+- "[[_Standards/WikiData/WD~Tây_Ninh,36608]]"
+- "[[_Standards/WikiData/WD~Trà_Vinh,36615]]"
+- "[[_Standards/WikiData/WD~Bạc_Liêu_province,36658]]"
+- "[[_Standards/WikiData/WD~Gia_Lai,36662]]"
+- "[[_Standards/WikiData/WD~Tiền_Giang,36666]]"
+- "[[_Standards/WikiData/WD~Bình_Phước,36672]]"
+- "[[_Standards/WikiData/WD~Đồng_Tháp,36676]]"
+- "[[_Standards/WikiData/WD~Thái_Bình,36681]]"
+- "[[_Standards/WikiData/WD~Hà_Giang,36685]]"
+- "[[_Standards/WikiData/WD~Đắk_Lắk,36690]]"
+- "[[_Standards/WikiData/WD~Bình_Định,36693]]"
+- "[[_Standards/WikiData/WD~Đắk_Nông,36723]]"
+- "[[_Standards/WikiData/WD~Lâm_Đồng,36721]]"
+- "[[_Standards/WikiData/WD~Phu_Yen,36725]]"
+- "[[_Standards/WikiData/WD~Hải_Dương,36729]]"
+- "[[_Standards/WikiData/WD~Bình_Dương,36866]]"
+- "[[_Standards/WikiData/WD~Cao_Bằng,36865]]"
+- "[[_Standards/WikiData/WD~Bình_Thuận,36869]]"
+- "[[_Standards/WikiData/WD~Bà_Rịa-Vũng_Tàu,36874]]"
+- "[[_Standards/WikiData/WD~Ninh_Thuận,36903]]"
+- "[[_Standards/WikiData/WD~Ninh_Bình,36900]]"
+- "[[_Standards/WikiData/WD~Nam_Định,36907]]"
+- "[[_Standards/WikiData/WD~Điện_Biên,36955]]"
+- "[[_Standards/WikiData/WD~Vĩnh_Long,7333405]]"
 highest_point: '[[_Standards/WikiData/WD~Fansipan,123782]]'
-flag: "[[_Standards/WikiData/WD~flag of Vietnam,131204]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Vietnam,131204]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - '[[_Standards/WikiData/WD~COMECON,191582]]'
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Association of South-East Asian Nations,7768]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
@@ -205,15 +205,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Laos,819]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -222,7 +222,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Austria,40]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
@@ -232,55 +232,55 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 follows:
-- "[[_Standards/WikiData/WD~North Vietnam,172640]]"
-- "[[_Standards/WikiData/WD~Provisional Revolutionary Government of the Republic of South Vietnam,1072362]]"
+- "[[_Standards/WikiData/WD~North_Vietnam,172640]]"
+- "[[_Standards/WikiData/WD~Provisional_Revolutionary_Government_of_the_Republic_of_South_Vietnam,1072362]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~single-party system,50686]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Vietnam,200455]]"
-anthem: "[[_Standards/WikiData/WD~Tiến quân ca,208016]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Vietnam,212913]]"
-replaces: "[[_Standards/WikiData/WD~Đại Việt,430309]]"
+- "[[_Standards/WikiData/WD~single-party_system,50686]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Vietnam,200455]]"
+anthem: "[[_Standards/WikiData/WD~Tiến_quân_ca,208016]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Vietnam,212913]]"
+replaces: "[[_Standards/WikiData/WD~Đại_Việt,430309]]"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Caodaism,470364]]'
-- "[[_Standards/WikiData/WD~Hòa Hảo,1369404]]"
+- "[[_Standards/WikiData/WD~Hòa_Hảo,1369404]]"
 - '[[_Standards/WikiData/WD~Buddhism,748]]'
 - '[[_Standards/WikiData/WD~Catholicism,1841]]'
 - '[[_Standards/WikiData/WD~Protestantism,23540]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Vietnam,616518]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Vietnam,616518]]"
 named_after: '[[_Standards/WikiData/WD~Nanyue,827040]]'
 instance_of:
-- "[[_Standards/WikiData/WD~communist state,849866]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~communist_state,849866]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Vietnam,1043568]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Vietnam,1049178]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Vietnam,1043568]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Vietnam,1049178]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~History of Yuan,1345223]]"
-- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-- "[[_Standards/WikiData/WD~History of Ming,28763]]"
-studied_in: "[[_Standards/WikiData/WD~Vietnamese studies,1708176]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of Vietnam,1765001]]"
-culture: "[[_Standards/WikiData/WD~culture of Vietnam,1791615]]"
-central_bank: "[[_Standards/WikiData/WD~State Bank of Vietnam,2234553]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Vietnam,2749575]]"
+- "[[_Standards/WikiData/WD~History_of_Yuan,1345223]]"
+- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
+- "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+studied_in: "[[_Standards/WikiData/WD~Vietnamese_studies,1708176]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Vietnam,1765001]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Vietnam,1791615]]"
+central_bank: "[[_Standards/WikiData/WD~State_Bank_of_Vietnam,2234553]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Vietnam,2749575]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~114,2945964]]'
 - '[[_Standards/WikiData/WD~113,25648804]]'
 - '[[_Standards/WikiData/WD~115,25648805]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Vietnam,5589338]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Vietnam,5589338]]"
 coordinates_of_northernmost_point: "Point(105.33 23.38)"
 coordinate_location: "Point(108.0 16.0)"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
 - '[[_Standards/WikiData/WD~Laos,819]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 country: '[[_Standards/WikiData/WD~Vietnam,881]]'
 capital: '[[_Standards/WikiData/WD~Hanoi,1858]]'
 located_in_time_zone:
@@ -288,8 +288,8 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Ho_Chi_Minh,63285961]]'
 official_language: '[[_Standards/WikiData/WD~Vietnamese,9199]]'
 part_of:
-- "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
-- "[[_Standards/WikiData/WD~Mainland Southeast Asia,43467]]"
+- "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
+- "[[_Standards/WikiData/WD~Mainland_Southeast_Asia,43467]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 VAT_rate: 10
 marriageable_age:
@@ -304,7 +304,7 @@ birth_rate:
 - 14.689
 - 15.008
 - 15.663
-lowest_point: "[[_Standards/WikiData/WD~South China Sea,37660]]"
+lowest_point: "[[_Standards/WikiData/WD~South_China_Sea,37660]]"
 total_fertility_rate: 2.06
 Democracy_Index: 2.94
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.vn,42683]]'
@@ -347,16 +347,16 @@ ISO_3166_1_numeric_code: 704
 GS1_country_code: 893
 area: 331690
 IAB_code: 1472
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Vietnam,7112510]]"
-head_of_government: "[[_Standards/WikiData/WD~Phạm Minh Chính,10806940]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Vietnam,7112510]]"
+head_of_government: "[[_Standards/WikiData/WD~Phạm_Minh_Chính,10806940]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Vietnam,10815250]]'
-head_of_state: "[[_Standards/WikiData/WD~Tô Lâm,10831196]]"
+head_of_state: "[[_Standards/WikiData/WD~Tô_Lâm,10831196]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q26109041,26109041]]'
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q27103825,27103825]]'
 - '[[_Standards/WikiData/WD~Q42898712,42898712]]'
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 nominal_GDP:
 - 408802379068
 - 366137590718

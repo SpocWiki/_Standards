@@ -3,21 +3,21 @@ has_id_wikidata: Q165
 has_part_s_:
 - '[[_Standards/WikiData/WD~seawater,184395]]'
 - '[[_Standards/WikiData/WD~land,11081619]]'
-has_list: "[[_Standards/WikiData/WD~list of seas,229088]]"
+has_list: "[[_Standards/WikiData/WD~list_of_seas,229088]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~water area,2507626]]"
-- "[[_Standards/WikiData/WD~marine water body,116126039]]"
-- "[[_Standards/WikiData/WD~saline water body,116126228]]"
+- "[[_Standards/WikiData/WD~water_area,2507626]]"
+- "[[_Standards/WikiData/WD~marine_water_body,116126039]]"
+- "[[_Standards/WikiData/WD~saline_water_body,116126228]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_List of seas,6272770]]"
-- "[[_Standards/WikiData/WD~Template_Infobox sea,26095412]]"
+- "[[_Standards/WikiData/WD~Template_List_of_seas,6272770]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_sea,26095412]]"
 different_from: '[[_Standards/WikiData/WD~Q61744472,61744472]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Seas,61791277]]'
 produced_sound: '[[_Standards/WikiData/WD~Q110068397,110068397]]'

@@ -4,10 +4,10 @@ aliases:
 has_characteristic: '[[_Standards/WikiData/WD~inductance,177897]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~electromagnet,178032]]'
-- "[[_Standards/WikiData/WD~electrical element,210729]]"
-- "[[_Standards/WikiData/WD~one-port circuit,233003]]"
-- "[[_Standards/WikiData/WD~electronic component,11653]]"
-different_from: "[[_Standards/WikiData/WD~helical object,25629903]]"
+- "[[_Standards/WikiData/WD~electrical_element,210729]]"
+- "[[_Standards/WikiData/WD~one-port_circuit,233003]]"
+- "[[_Standards/WikiData/WD~electronic_component,11653]]"
+different_from: "[[_Standards/WikiData/WD~helical_object,25629903]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Electronic%20component%20inductors.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%95.wav"
 Commons_gallery: Inductor

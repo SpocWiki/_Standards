@@ -1,32 +1,32 @@
 ﻿---
 has_id_wikidata: Q9121
 has_characteristic:
-- "[[_Standards/WikiData/WD~mass number,101395]]"
-- "[[_Standards/WikiData/WD~atomic radius,483788]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-- "[[_Standards/WikiData/WD~atomic number,23809]]"
-- "[[_Standards/WikiData/WD~electron configuration,53859]]"
+- "[[_Standards/WikiData/WD~mass_number,101395]]"
+- "[[_Standards/WikiData/WD~atomic_radius,483788]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- "[[_Standards/WikiData/WD~atomic_number,23809]]"
+- "[[_Standards/WikiData/WD~electron_configuration,53859]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~subatomic particle,177013]]"
-- "[[_Standards/WikiData/WD~electron shell,193793]]"
-- "[[_Standards/WikiData/WD~atomic nucleus,37147]]"
+- "[[_Standards/WikiData/WD~subatomic_particle,177013]]"
+- "[[_Standards/WikiData/WD~electron_shell,193793]]"
+- "[[_Standards/WikiData/WD~atomic_nucleus,37147]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Integrated Encyclopedia of the Qur'an,108940883]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Integrated_Encyclopedia_of_the_Qur'an,108940883]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~composite particle,3366856]]"
-- "[[_Standards/WikiData/WD~chemical entity,43460564]]"
+- "[[_Standards/WikiData/WD~composite_particle,3366856]]"
+- "[[_Standards/WikiData/WD~chemical_entity,43460564]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q119437940,119437940]]'
 different_from: '[[_Standards/WikiData/WD~Paramanu,124606669]]'
 studied_in:
 - '[[_Standards/WikiData/WD~chemistry,2329]]'
-- "[[_Standards/WikiData/WD~atomic physics,26383]]"
+- "[[_Standards/WikiData/WD~atomic_physics,26383]]"
 properties_for_this_type: "electron configuration"
 OmegaWiki_Defined_Meaning: 8141
 Commons_category: Atoms

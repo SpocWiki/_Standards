@@ -2,47 +2,47 @@
 has_id_wikidata: Q395
 has_part_s_:
 - '[[_Standards/WikiData/WD~combinatorics,76592]]'
-- "[[_Standards/WikiData/WD~category theory,217413]]"
-- "[[_Standards/WikiData/WD~mathematical logic,1166618]]"
-- "[[_Standards/WikiData/WD~probability theory,5862903]]"
+- "[[_Standards/WikiData/WD~category_theory,217413]]"
+- "[[_Standards/WikiData/WD~mathematical_logic,1166618]]"
+- "[[_Standards/WikiData/WD~probability_theory,5862903]]"
 - '[[_Standards/WikiData/WD~algebra,3968]]'
-- "[[_Standards/WikiData/WD~mathematical analysis,7754]]"
+- "[[_Standards/WikiData/WD~mathematical_analysis,7754]]"
 - '[[_Standards/WikiData/WD~geometry,8087]]'
 - '[[_Standards/WikiData/WD~arithmetic,11205]]'
-- "[[_Standards/WikiData/WD~number theory,12479]]"
-- "[[_Standards/WikiData/WD~set theory,12482]]"
+- "[[_Standards/WikiData/WD~number_theory,12479]]"
+- "[[_Standards/WikiData/WD~set_theory,12482]]"
 - '[[_Standards/WikiData/WD~statistics,12483]]'
 - '[[_Standards/WikiData/WD~topology,42989]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~eternity,138045]]'
-- "[[_Standards/WikiData/WD~mathematical beauty,2248521]]"
+- "[[_Standards/WikiData/WD~mathematical_beauty,2248521]]"
 - '[[_Standards/WikiData/WD~formalization,5469988]]'
 practiced_by: '[[_Standards/WikiData/WD~mathematician,170790]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of mathematics,185264]]"
-is_the_study_of: "[[_Standards/WikiData/WD~mathematical object,246672]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_mathematics,185264]]"
+is_the_study_of: "[[_Standards/WikiData/WD~mathematical_object,246672]]"
 part_of:
-- "[[_Standards/WikiData/WD~exact science,475023]]"
-- "[[_Standards/WikiData/WD~formal science,816264]]"
-- "[[_Standards/WikiData/WD~science, technology, engineering, and mathematics,1881523]]"
+- "[[_Standards/WikiData/WD~exact_science,475023]]"
+- "[[_Standards/WikiData/WD~formal_science,816264]]"
+- "[[_Standards/WikiData/WD~science,_technology,_engineering,_and_mathematics,1881523]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-facet_of: "[[_Standards/WikiData/WD~mathematics education,853077]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of mathematics,3610632]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~mathematical sciences,4387017]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+facet_of: "[[_Standards/WikiData/WD~mathematics_education,853077]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_mathematics,3610632]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~mathematical_sciences,4387017]]"
 instance_of:
-- "[[_Standards/WikiData/WD~academic major,4671286]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
+- "[[_Standards/WikiData/WD~academic_major,4671286]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mathematics,7778173]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Mathematik-article2020.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Wiskunde.ogg"
@@ -64,22 +64,22 @@ IPTC_NewsCode: mediatopic/20000715
 Krugosvet_article: nauka_i_tehnika/matematika/MATEMATIKA.html
 native_label: μᾰθημᾰτικά
 has_use:
-- "[[_Standards/WikiData/WD~mathematical modelling,10331368]]"
+- "[[_Standards/WikiData/WD~mathematical_modelling,10331368]]"
 - '[[_Standards/WikiData/WD~computation,12525525]]'
 - '[[_Standards/WikiData/WD~science,336]]'
 - '[[_Standards/WikiData/WD~engineering,11023]]'
 - '[[_Standards/WikiData/WD~finance,43015]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Math topics TOC,14407726]]"
+- "[[_Standards/WikiData/WD~Template_Math_topics_TOC,14407726]]"
 - '[[_Standards/WikiData/WD~Q25941515,25941515]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20829391,20829391]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Baidu_Tieba_name: 数学
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mathematics.png"
 Provenio_UUID: 7aaddbc2-44b0-4bc9-8399-6ff937711403
 UMLS_CUI: C0024934
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Matem%C3%A1tica%20%28spa%29-Haylli.wav"
-subclass_of: "[[_Standards/WikiData/WD~natural science,7991]]"
+subclass_of: "[[_Standards/WikiData/WD~natural_science,7991]]"
 DFG_Science_Classification: 33
 Colon_Classification: B
 Basisklassifikation: 31

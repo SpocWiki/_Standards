@@ -7,15 +7,15 @@ Basisklassifikation: 15.00
 Colon_Classification: V
 Commons_category: History
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 Dewey_Decimal_Classification: 900
 different_from:
   - '[[_Standards/WikiData/WD~histology,7168]]'
-  - "[[_Standards/WikiData/WD~study of history,1066186]]"
+  - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
 exact_match:
   - "http://id.cabi.org/cabt/57756"
   - "http://linkeddata.ge.imati.cnr.it/resource/EARTh/89480"
@@ -23,9 +23,9 @@ exact_match:
 facet_of: '[[_Standards/WikiData/WD~past,192630]]'
 Gujarati_Vishwakosh_entry: ઇતિહાસવિદ્યા
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~historical event,13418847]]"
-  - "[[_Standards/WikiData/WD~oral tradition,209815]]"
-  - "[[_Standards/WikiData/WD~recorded history,1145106]]"
+  - "[[_Standards/WikiData/WD~historical_event,13418847]]"
+  - "[[_Standards/WikiData/WD~oral_tradition,209815]]"
+  - "[[_Standards/WikiData/WD~recorded_history,1145106]]"
 hashtag: history
 Iconclass_notation: 6
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaos%20Gyzis%20-%20Historia.jpg"
@@ -45,20 +45,20 @@ Stack_Exchange_site_URL: "https://history.stackexchange.com"
 studied_in:
   - '[[_Standards/WikiData/WD~historiography,50675]]'
   - '[[_Standards/WikiData/WD~humanities,80083]]'
-  - "[[_Standards/WikiData/WD~historical game studies,131382190]]"
-  - "[[_Standards/WikiData/WD~study of history,1066186]]"
+  - "[[_Standards/WikiData/WD~historical_game_studies,131382190]]"
+  - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
 subclass_of:
   - '[[_Standards/WikiData/WD~occurrence,1190554]]'
-  - "[[_Standards/WikiData/WD~chain of events,5067949]]"
-  - "[[_Standards/WikiData/WD~object of study,4330518]]"
+  - "[[_Standards/WikiData/WD~chain_of_events,5067949]]"
+  - "[[_Standards/WikiData/WD~object_of_study,4330518]]"
 subreddit:
   - Geschichte
   - history
   - HistoryPorn
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_History of science and technology in the United States,14403588]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_History_of_science_and_technology_in_the_United_States,14403588]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_History,175361]]'
 U_S_National_Archives_Identifier: 10638122
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of history,7112655]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_history,7112655]]"
 ---
 
 #is_/part_of :: [[../../bio/Society|Society]] 

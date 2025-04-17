@@ -1,29 +1,29 @@
 ﻿---
 has_id_wikidata: Q11465
 subclass_of:
-- "[[_Standards/WikiData/WD~physical quantity,107715]]"
-- "[[_Standards/WikiData/WD~vector quantity,2672914]]"
-- "[[_Standards/WikiData/WD~ISQ derived quantity,30337763]]"
+- "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+- "[[_Standards/WikiData/WD~vector_quantity,2672914]]"
+- "[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]"
 recommended_unit_of_measurement:
-- "[[_Standards/WikiData/WD~kilometre per hour,180154]]"
-- "[[_Standards/WikiData/WD~metre per second,182429]]"
+- "[[_Standards/WikiData/WD~kilometre_per_hour,180154]]"
+- "[[_Standards/WikiData/WD~metre_per_second,182429]]"
 follows: '[[_Standards/WikiData/WD~displacement,190291]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre Varignon,379219]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre_Varignon,379219]]"
 different_from:
-- "[[_Standards/WikiData/WD~average speed,1267186]]"
+- "[[_Standards/WikiData/WD~average_speed,1267186]]"
 - '[[_Standards/WikiData/WD~speed,3711325]]'
-- "[[_Standards/WikiData/WD~proper velocity,7250186]]"
+- "[[_Standards/WikiData/WD~proper_velocity,7250186]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~orientation,2235286]]'
 - '[[_Standards/WikiData/WD~speed,3711325]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~ISO 80000-3_2019 Quantities and units — Part 3_ Space and time,90137277]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units_—_Part_3__Space_and_time,90137277]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 quantity_symbol_LaTeX_:
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {u}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">u</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {u}}}</annotation>\n  </semantics>\n</math>"
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\vec {u}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mover>\n              <mi>u</mi>\n              <mo stretchy=\"false\">&#x2192;<!-- → --></mo>\n            </mover>\n          </mrow>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\vec {u}}}</annotation>\n  </semantics>\n</math>"

@@ -1,69 +1,69 @@
 ---
-flag: "[[_Standards/WikiData/WD~flag of Gabon,101769]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Gabon,101769]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Economic Community of Central African States,189966]]"
-- "[[_Standards/WikiData/WD~Bank of Central African States,189972]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]"
+- "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 - '[[_Standards/WikiData/WD~OHADA,2029901]]'
-- "[[_Standards/WikiData/WD~Gulf of Guinea Commission,2986587]]"
+- "[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587]]"
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
-- "[[_Standards/WikiData/WD~Organization of the Petroleum Exporting Countries,7795]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
+- "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~United Nations Security Council,37470]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Central African States,189972]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Gabon,237870]]"
-anthem: "[[_Standards/WikiData/WD~La Concorde,242723]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Gabon,237870]]"
+anthem: "[[_Standards/WikiData/WD~La_Concorde,242723]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Aisai,269644]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Estuaire Province,281109]]"
-- "[[_Standards/WikiData/WD~Moyen-Ogooué Province,590802]]"
-- "[[_Standards/WikiData/WD~Haut-Ogooué Province,654438]]"
-- "[[_Standards/WikiData/WD~Ogooué-Maritime Province,823751]]"
-- "[[_Standards/WikiData/WD~Ogooué-Lolo Province,823762]]"
-- "[[_Standards/WikiData/WD~Ngounié Province,823774]]"
-- "[[_Standards/WikiData/WD~Woleu-Ntem Province,823800]]"
-- "[[_Standards/WikiData/WD~Ogooué-Ivindo Province,823822]]"
-- "[[_Standards/WikiData/WD~Nyanga Province,846017]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Gabon,367061]]"
+- "[[_Standards/WikiData/WD~Estuaire_Province,281109]]"
+- "[[_Standards/WikiData/WD~Moyen-Ogooué_Province,590802]]"
+- "[[_Standards/WikiData/WD~Haut-Ogooué_Province,654438]]"
+- "[[_Standards/WikiData/WD~Ogooué-Maritime_Province,823751]]"
+- "[[_Standards/WikiData/WD~Ogooué-Lolo_Province,823762]]"
+- "[[_Standards/WikiData/WD~Ngounié_Province,823774]]"
+- "[[_Standards/WikiData/WD~Woleu-Ntem_Province,823800]]"
+- "[[_Standards/WikiData/WD~Ogooué-Ivindo_Province,823822]]"
+- "[[_Standards/WikiData/WD~Nyanga_Province,846017]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Gabon,367061]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Gabon,944191]]"
-named_after: "[[_Standards/WikiData/WD~pea coat,1024710]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Gabon,944191]]"
+named_after: "[[_Standards/WikiData/WD~pea_coat,1024710]]"
 electrical_plug_type: '[[_Standards/WikiData/WD~Europlug,1378312]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Gabon,1520360]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Gabon,1520360]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~West Africa Time,1773995]]"
+- "[[_Standards/WikiData/WD~West_Africa_Time,1773995]]"
 - '[[_Standards/WikiData/WD~Africa_Libreville,4689504]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Gabon,2582658]]"
-culture: "[[_Standards/WikiData/WD~culture of Gabon,2718023]]"
-foundational_text: "[[_Standards/WikiData/WD~Constitution of Gabon,2995167]]"
-highest_point: "[[_Standards/WikiData/WD~Mont Bengoué,3210770]]"
-different_from: "[[_Standards/WikiData/WD~Gabon Estuary,3503114]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Gabon,2582658]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Gabon,2718023]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution_of_Gabon,2995167]]"
+highest_point: "[[_Standards/WikiData/WD~Mont_Bengoué,3210770]]"
+different_from: "[[_Standards/WikiData/WD~Gabon_Estuary,3503114]]"
 language_used:
 - '[[_Standards/WikiData/WD~Jola-Fonyi,3507832]]'
 - '[[_Standards/WikiData/WD~Vili,3558409]]'
@@ -96,7 +96,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Sake,36425]]'
 - '[[_Standards/WikiData/WD~Himba,36430]]'
 - '[[_Standards/WikiData/WD~Sighu,36431]]'
-- "[[_Standards/WikiData/WD~North Teke,36478]]"
+- "[[_Standards/WikiData/WD~North_Teke,36478]]"
 - '[[_Standards/WikiData/WD~Seki,36547]]'
 - '[[_Standards/WikiData/WD~Tchitchege,36595]]'
 - '[[_Standards/WikiData/WD~Sira,36599]]'
@@ -107,20 +107,20 @@ language_used:
 - '[[_Standards/WikiData/WD~Wumbvu,36891]]'
 - '[[_Standards/WikiData/WD~Wanzi,36976]]'
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Gabon,4345413]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Gabon,7112265]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Gabon,4345413]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Gabon,7112265]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Gabon,8287843]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Gabon,19109718]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Gabon,19109718]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~18,25648843]]'
 - '[[_Standards/WikiData/WD~1300,25648870]]'
 - '[[_Standards/WikiData/WD~1722,25648875]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Gabon,30100607]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-replaces: "[[_Standards/WikiData/WD~Middle Congo,107783136]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Gabon,30100607]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+replaces: "[[_Standards/WikiData/WD~Middle_Congo,107783136]]"
 coordinates_of_northernmost_point: "Point(11.7 2.32)"
 UMLS_CUI: C0016910
 demonym:
@@ -170,28 +170,28 @@ coordinates_of_westernmost_point: "Point(8.70805556 -0.62444444)"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Topographic%20map%20of%20Gabon-fr.svg"
 coordinates_of_easternmost_point: "Point(14.5266 -0.61746)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Angola,916]]'
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
+- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
-- "[[_Standards/WikiData/WD~São Tomé and Príncipe,1039]]"
+- "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]"
 country: '[[_Standards/WikiData/WD~Gabon,1000]]'
 capital: '[[_Standards/WikiData/WD~Libreville,3825]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central Africa,27433]]"
-part_of: "[[_Standards/WikiData/WD~Central Africa,27433]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
+part_of: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 official_language: '[[_Standards/WikiData/WD~French,150]]'
 unemployment_rate: 20
 age_of_majority: 18
@@ -212,8 +212,8 @@ BTI_Status_Index:
 trunk_prefix: 0
 Inequality_adjusted_Human_Development_Index: 0.554
 Human_Development_Index: 0.706
-head_of_state: "[[_Standards/WikiData/WD~Ali Bongo Ondimba,57521]]"
-head_of_government: "[[_Standards/WikiData/WD~Raymond Ndong Sima,57856]]"
+head_of_state: "[[_Standards/WikiData/WD~Ali_Bongo_Ondimba,57521]]"
+head_of_government: "[[_Standards/WikiData/WD~Raymond_Ndong_Sima,57856]]"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D9%88%D9%86.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5146%20%28por%29-NMaia-Gab%C3%A3o.wav"

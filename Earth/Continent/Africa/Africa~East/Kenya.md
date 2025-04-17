@@ -1,52 +1,52 @@
 ---
-flag: "[[_Standards/WikiData/WD~flag of Kenya,165905]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Kenya,165905]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Kenya,172070]]"
-named_after: "[[_Standards/WikiData/WD~Mount Kenya,172070]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Kenya,172070]]"
+named_after: "[[_Standards/WikiData/WD~Mount_Kenya,172070]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Coast Province,185371]]"
-- "[[_Standards/WikiData/WD~Eastern Province,328493]]"
-- "[[_Standards/WikiData/WD~North Eastern Province,390213]]"
-- "[[_Standards/WikiData/WD~Nairobi Province,1061480]]"
-- "[[_Standards/WikiData/WD~Rift Valley Province,38587]]"
-- "[[_Standards/WikiData/WD~Western Province,38585]]"
-- "[[_Standards/WikiData/WD~Nyanza Province,38589]]"
-head_of_state: "[[_Standards/WikiData/WD~William Ruto,195725]]"
-head_of_government: "[[_Standards/WikiData/WD~William Ruto,195725]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Kenya,201068]]"
-anthem: "[[_Standards/WikiData/WD~Ee Mungu Nguvu Yetu,202635]]"
+- "[[_Standards/WikiData/WD~Coast_Province,185371]]"
+- "[[_Standards/WikiData/WD~Eastern_Province,328493]]"
+- "[[_Standards/WikiData/WD~North_Eastern_Province,390213]]"
+- "[[_Standards/WikiData/WD~Nairobi_Province,1061480]]"
+- "[[_Standards/WikiData/WD~Rift_Valley_Province,38587]]"
+- "[[_Standards/WikiData/WD~Western_Province,38585]]"
+- "[[_Standards/WikiData/WD~Nyanza_Province,38589]]"
+head_of_state: "[[_Standards/WikiData/WD~William_Ruto,195725]]"
+head_of_government: "[[_Standards/WikiData/WD~William_Ruto,195725]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Kenya,201068]]"
+anthem: "[[_Standards/WikiData/WD~Ee_Mungu_Nguvu_Yetu,202635]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~Kikuyu,203178]]'
 - '[[_Standards/WikiData/WD~Luhya,277647]]'
-- "[[_Standards/WikiData/WD~African people,1075929]]"
-- "[[_Standards/WikiData/WD~Kamba people,1143929]]"
-- "[[_Standards/WikiData/WD~Kisii people,1276025]]"
-- "[[_Standards/WikiData/WD~Meru people,1290677]]"
-- "[[_Standards/WikiData/WD~Luo peoples,8886726]]"
-- "[[_Standards/WikiData/WD~Kalenjin people,56932]]"
+- "[[_Standards/WikiData/WD~African_people,1075929]]"
+- "[[_Standards/WikiData/WD~Kamba_people,1143929]]"
+- "[[_Standards/WikiData/WD~Kisii_people,1276025]]"
+- "[[_Standards/WikiData/WD~Meru_people,1290677]]"
+- "[[_Standards/WikiData/WD~Luo_peoples,8886726]]"
+- "[[_Standards/WikiData/WD~Kalenjin_people,56932]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Cheltenham,206988]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Kenya,280227]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Kenya,280227]]"
 language_used:
 - '[[_Standards/WikiData/WD~Kalenjin,637228]]'
 - '[[_Standards/WikiData/WD~Taita,2387274]]'
@@ -63,7 +63,7 @@ language_used:
 - '[[_Standards/WikiData/WD~saamia,3739441]]'
 - '[[_Standards/WikiData/WD~Dholuo,5414796]]'
 - '[[_Standards/WikiData/WD~Ilwana,6001357]]'
-- "[[_Standards/WikiData/WD~Kenyan Sign Language,6392859]]"
+- "[[_Standards/WikiData/WD~Kenyan_Sign_Language,6392859]]"
 - '[[_Standards/WikiData/WD~Khayo,6401095]]'
 - '[[_Standards/WikiData/WD~Kuria,6445968]]'
 - '[[_Standards/WikiData/WD~Logooli,6667767]]'
@@ -80,7 +80,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tharaka,15407179]]'
 - '[[_Standards/WikiData/WD~Mwimbi-Muthambi,15632357]]'
 - '[[_Standards/WikiData/WD~Taveta,15632387]]'
-- "[[_Standards/WikiData/WD~East Nyala,25559347]]"
+- "[[_Standards/WikiData/WD~East_Nyala,25559347]]"
 - '[[_Standards/WikiData/WD~Lukabaras,63257894]]'
 - '[[_Standards/WikiData/WD~Olushisa,63259208]]'
 - '[[_Standards/WikiData/WD~Olumarama,63259319]]'
@@ -105,70 +105,70 @@ language_used:
 - '[[_Standards/WikiData/WD~Aweer,56526]]'
 - '[[_Standards/WikiData/WD~Samburu,56536]]'
 - '[[_Standards/WikiData/WD~Daasanach,56637]]'
-- "[[_Standards/WikiData/WD~El Molo,56719]]"
+- "[[_Standards/WikiData/WD~El_Molo,56719]]"
 - '[[_Standards/WikiData/WD~Keiyo,56856]]'
 - '[[_Standards/WikiData/WD~Markweta,56874]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Somali,13275]]'
 - '[[_Standards/WikiData/WD~Meru,13313]]'
 - '[[_Standards/WikiData/WD~Teso,29474]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Kenya,842274]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Kenya,842274]]"
 motto: '[[_Standards/WikiData/WD~Harambee,1432776]]'
-electrical_plug_type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Kenya,1987433]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Kenya,2348287]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Kenya,2510227]]"
-culture: "[[_Standards/WikiData/WD~culture of Kenya,3007339]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Kenya,1987433]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Kenya,2348287]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Kenya,2510227]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Kenya,3007339]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~999,3086706]]'
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Nairobi,4689515]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-replaces: "[[_Standards/WikiData/WD~Kenya (1963–1964),6392538]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Kenya,7112324]]"
+replaces: "[[_Standards/WikiData/WD~Kenya_(1963–1964),6392538]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Kenya,7112324]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kenya,11247426]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Kenya,14468380]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Kenya,14784066]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Kenya,14784066]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Kenya,21022441]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Kenya,14468380]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Kenya,14784066]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Kenya,14784066]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Kenya,21022441]]"
 different_from: '[[_Standards/WikiData/WD~Kenia,22213988]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Austria,40]]'
 - '[[_Standards/WikiData/WD~Greece,41]]'
 - '[[_Standards/WikiData/WD~Egypt,79]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Namibia,1030]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
@@ -185,12 +185,12 @@ country: '[[_Standards/WikiData/WD~Kenya,114]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
-- "[[_Standards/WikiData/WD~Lake Victoria,5505]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~Lake_Victoria,5505]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 BTI_Governance_Index:
 - 5
 - 4.24
@@ -245,7 +245,7 @@ mobile_country_code: 639
 IAB_code: 1332
 OmegaWiki_Defined_Meaning: 7985
 life_expectancy: 67.032
-open_data_portal: "[[_Standards/WikiData/WD~Kenya open data,97149647]]"
+open_data_portal: "[[_Standards/WikiData/WD~Kenya_open_data,97149647]]"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Kenya%20%28Official%29.svg"
 nominal_GDP:
 - 113420008179
@@ -306,12 +306,12 @@ MeSH_tree_code: Z01.058.290.120.400
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kenya%20-%20Location%20Map%20%282013%29%20-%20KEN%20-%20UNOCHA.svg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Kenya%20%28spoken%20by%20AI%20voice%29.mp3"
 coordinate_location: "Point(38.0 0.1)"
-lowest_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+lowest_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Swahili,7838]]'
 capital: '[[_Standards/WikiData/WD~Nairobi,3870]]'
-part_of: "[[_Standards/WikiData/WD~East Africa,27407]]"
+part_of: "[[_Standards/WikiData/WD~East_Africa,27407]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 Dewey_Decimal_Classification: 2--6762
 licence_plate_code: EAK

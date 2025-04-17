@@ -1,6 +1,6 @@
 ﻿---
 has_id_wikidata: Q532
-part_of: "[[_Standards/WikiData/WD~rural area,175185]]"
+part_of: "[[_Standards/WikiData/WD~rural_area,175185]]"
 model_item:
 - '[[_Standards/WikiData/WD~Reine,593597]]'
 - '[[_Standards/WikiData/WD~Tenganan,1018520]]'
@@ -10,17 +10,17 @@ model_item:
 - '[[_Standards/WikiData/WD~Kovachevitsa,2598087]]'
 - '[[_Standards/WikiData/WD~Pariangan,7137016]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from:
-- "[[_Standards/WikiData/WD~village in the United States,751708]]"
-- "[[_Standards/WikiData/WD~village in Turkey,1529096]]"
-- "[[_Standards/WikiData/WD~kampung of Papua,12488913]]"
-- "[[_Standards/WikiData/WD~village of New York,55237813]]"
+- "[[_Standards/WikiData/WD~village_in_the_United_States,751708]]"
+- "[[_Standards/WikiData/WD~village_in_Turkey,1529096]]"
+- "[[_Standards/WikiData/WD~kampung_of_Papua,12488913]]"
+- "[[_Standards/WikiData/WD~village_of_New_York,55237813]]"
 - '[[_Standards/WikiData/WD~hamlet,5084]]'
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~nagari,882149]]'
@@ -31,14 +31,14 @@ said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~pekon,19944049]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~locality,3257686]]'
-- "[[_Standards/WikiData/WD~rural settlement,10354598]]"
-- "[[_Standards/WikiData/WD~census subdivision,17457753]]"
+- "[[_Standards/WikiData/WD~rural_settlement,10354598]]"
+- "[[_Standards/WikiData/WD~census_subdivision,17457753]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21200633,21200633]]'
-next_higher_rank: "[[_Standards/WikiData/WD~large village,26714626]]"
-instance_of: "[[_Standards/WikiData/WD~classification of human settlements,98966309]]"
+next_higher_rank: "[[_Standards/WikiData/WD~large_village,26714626]]"
+instance_of: "[[_Standards/WikiData/WD~classification_of_human_settlements,98966309]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Q532-ar.ogg"
 next_lower_rank: '[[_Standards/WikiData/WD~hamlet,5084]]'
-partially_coincident_with: "[[_Standards/WikiData/WD~administrative territorial entity,56061]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
 OmegaWiki_Defined_Meaning: 3968
 Iconclass_notation: 25I2
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Betley-%20The%20main%20road%2C%20looking%20north%2C%20the%20postmans%20bike%20at%20rest%20-%20geograph.org.uk%20-%20147874.jpg"

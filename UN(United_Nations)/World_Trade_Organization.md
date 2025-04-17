@@ -2,27 +2,27 @@
 aliases:
 - "World Trade Organization"
 has_id_wikidata: Q7825
-partnership_with: "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
+partnership_with: "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
 official_observer_status_in_organisation:
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~International Union for the Protection of New Varieties of Plants,690318]]"
-chairperson: "[[_Standards/WikiData/WD~Ngozi Okonjo-Iweala,289350]]"
-instance_of: "[[_Standards/WikiData/WD~international organization,484652]]"
-has_list: "[[_Standards/WikiData/WD~list of member states of the World Trade Organization,1846521]]"
-legal_form: "[[_Standards/WikiData/WD~subject of international law,1896989]]"
-headquarters_location: "[[_Standards/WikiData/WD~Centre William Rappard,2944897]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director-General of the World Trade Organization,5280514]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_World Trade Organization,6270312]]"
-field_of_work: "[[_Standards/WikiData/WD~trade regulation,7832073]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]"
+chairperson: "[[_Standards/WikiData/WD~Ngozi_Okonjo-Iweala,289350]]"
+instance_of: "[[_Standards/WikiData/WD~international_organization,484652]]"
+has_list: "[[_Standards/WikiData/WD~list_of_member_states_of_the_World_Trade_Organization,1846521]]"
+legal_form: "[[_Standards/WikiData/WD~subject_of_international_law,1896989]]"
+headquarters_location: "[[_Standards/WikiData/WD~Centre_William_Rappard,2944897]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director-General_of_the_World_Trade_Organization,5280514]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_World_Trade_Organization,6270312]]"
+field_of_work: "[[_Standards/WikiData/WD~trade_regulation,7832073]]"
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-archives_at: "[[_Standards/WikiData/WD~WTO archives,15149996]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the World Trade Organization,30324124]]"
+archives_at: "[[_Standards/WikiData/WD~WTO_archives,15149996]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_World_Trade_Organization,30324124]]"
 described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~WTO panel,111364458]]"
-- "[[_Standards/WikiData/WD~WTO General Council,113488992]]"
-- "[[_Standards/WikiData/WD~WTO iLibrary,123269581]]"
-has_subsidiary: "[[_Standards/WikiData/WD~WTO General Council,113488992]]"
+- "[[_Standards/WikiData/WD~WTO_panel,111364458]]"
+- "[[_Standards/WikiData/WD~WTO_General_Council,113488992]]"
+- "[[_Standards/WikiData/WD~WTO_iLibrary,123269581]]"
+has_subsidiary: "[[_Standards/WikiData/WD~WTO_General_Council,113488992]]"
 ISNI: 0000000122962735
 official_website: "https://wto.org"
 Bluesky_handle: wto.org

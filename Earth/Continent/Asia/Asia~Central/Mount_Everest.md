@@ -3,61 +3,61 @@ has_id_wikidata: Q513
 peak_bagging_classification: '[[_Standards/WikiData/WD~eight-thousander,185552]]'
 part_of:
 - '[[_Standards/WikiData/WD~eight-thousander,185552]]'
-- "[[_Standards/WikiData/WD~Seven Summits,208126]]"
-- "[[_Standards/WikiData/WD~ultra-prominent peak,3116906]]"
+- "[[_Standards/WikiData/WD~Seven_Summits,208126]]"
+- "[[_Standards/WikiData/WD~ultra-prominent_peak,3116906]]"
 - '[[_Standards/WikiData/WD~Himalayas,5451]]'
-named_after: "[[_Standards/WikiData/WD~George Everest,217119]]"
+named_after: "[[_Standards/WikiData/WD~George_Everest,217119]]"
 different_from: '[[_Standards/WikiData/WD~Everest,250831]]'
 instance_of:
-- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
+- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
 - '[[_Standards/WikiData/WD~mountain,8502]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline of Mount Everest expeditions,830481]]"
-mountain_range: "[[_Standards/WikiData/WD~Mahalangur Himal,924257]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Mount_Everest_expeditions,830481]]"
+mountain_range: "[[_Standards/WikiData/WD~Mahalangur_Himal,924257]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~China Standard Time,1143153]]"
-- "[[_Standards/WikiData/WD~Nepal Standard Time,3297477]]"
-significant_event: "[[_Standards/WikiData/WD~first ascent,1194369]]"
+- "[[_Standards/WikiData/WD~China_Standard_Time,1143153]]"
+- "[[_Standards/WikiData/WD~Nepal_Standard_Time,3297477]]"
+significant_event: "[[_Standards/WikiData/WD~first_ascent,1194369]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Kangshung Face,1723748]]"
-- "[[_Standards/WikiData/WD~North Face,17012778]]"
-- "[[_Standards/WikiData/WD~North-East Ridge,104176116]]"
-- "[[_Standards/WikiData/WD~Southeast Ridge,104176122]]"
-- "[[_Standards/WikiData/WD~Southwest Face,104176172]]"
-located_in_protected_area: "[[_Standards/WikiData/WD~Sagarmatha National Park,2211959]]"
+- "[[_Standards/WikiData/WD~Kangshung_Face,1723748]]"
+- "[[_Standards/WikiData/WD~North_Face,17012778]]"
+- "[[_Standards/WikiData/WD~North-East_Ridge,104176116]]"
+- "[[_Standards/WikiData/WD~Southeast_Ridge,104176122]]"
+- "[[_Standards/WikiData/WD~Southwest_Face,104176172]]"
+located_in_protected_area: "[[_Standards/WikiData/WD~Sagarmatha_National_Park,2211959]]"
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~China–Nepal border,3089177]]"
+- "[[_Standards/WikiData/WD~China–Nepal_border,3089177]]"
 - '[[_Standards/WikiData/WD~Himalayas,5451]]'
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~death zone,6171655]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~death_zone,6171655]]"
 has_list:
-- "[[_Standards/WikiData/WD~list of people who died climbing Mount Everest,6633171]]"
-- "[[_Standards/WikiData/WD~list of Mount Everest records,15712303]]"
-- "[[_Standards/WikiData/WD~list of 20th-century summiters of Mount Everest,17008251]]"
-- "[[_Standards/WikiData/WD~list of Mount Everest summiters by number of times to the summit,21068106]]"
-- "[[_Standards/WikiData/WD~list of Mount Everest guides,21068206]]"
-- "[[_Standards/WikiData/WD~list of Mount Everest expeditions,21068306]]"
-- "[[_Standards/WikiData/WD~list of Mount Everest death statistics,24952342]]"
+- "[[_Standards/WikiData/WD~list_of_people_who_died_climbing_Mount_Everest,6633171]]"
+- "[[_Standards/WikiData/WD~list_of_Mount_Everest_records,15712303]]"
+- "[[_Standards/WikiData/WD~list_of_20th-century_summiters_of_Mount_Everest,17008251]]"
+- "[[_Standards/WikiData/WD~list_of_Mount_Everest_summiters_by_number_of_times_to_the_summit,21068106]]"
+- "[[_Standards/WikiData/WD~list_of_Mount_Everest_guides,21068206]]"
+- "[[_Standards/WikiData/WD~list_of_Mount_Everest_expeditions,21068306]]"
+- "[[_Standards/WikiData/WD~list_of_Mount_Everest_death_statistics,24952342]]"
 significant_place:
-- "[[_Standards/WikiData/WD~Everest Base Camp (North, Tibet),99671023]]"
-- "[[_Standards/WikiData/WD~Everest Base Camp (South, Nepal),99671286]]"
-- "[[_Standards/WikiData/WD~Base Camp II,104155704]]"
+- "[[_Standards/WikiData/WD~Everest_Base_Camp_(North,_Tibet),99671023]]"
+- "[[_Standards/WikiData/WD~Everest_Base_Camp_(South,_Nepal),99671286]]"
+- "[[_Standards/WikiData/WD~Base_Camp_II,104155704]]"
 BHCL_UUID: 02480686-6576-4362-a14c-957aa4edcb7c
 country:
 - '[[_Standards/WikiData/WD~Nepal,837]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 location: '[[_Standards/WikiData/WD~Himalayas,5451]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~rock,8063]]'
 - '[[_Standards/WikiData/WD~ice,23392]]'
 located_in_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
-- "[[_Standards/WikiData/WD~Solukhumbu District,28363]]"
+- "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+- "[[_Standards/WikiData/WD~Solukhumbu_District,28363]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 visitors_per_year:
 - 0

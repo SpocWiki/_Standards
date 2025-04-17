@@ -1,77 +1,77 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
-- "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
+- "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-flag: "[[_Standards/WikiData/WD~flag of Qatar,172530]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Qatar,172530]]"
 instance_of:
 - '[[_Standards/WikiData/WD~Emirate,189898]]'
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-coat_of_arms: "[[_Standards/WikiData/WD~emblem of Qatar,239279]]"
-anthem: "[[_Standards/WikiData/WD~As Salam al Amiri,309476]]"
+coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_Qatar,239279]]"
+anthem: "[[_Standards/WikiData/WD~As_Salam_al_Amiri,309476]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Al Shamal,310872]]"
-- "[[_Standards/WikiData/WD~Al Wakrah,310893]]"
-- "[[_Standards/WikiData/WD~Al Rayyan Municipality,311272]]"
-- "[[_Standards/WikiData/WD~Ad-Dawhah (municipality),594208]]"
-- "[[_Standards/WikiData/WD~Al Ghuwariyah,623609]]"
-- "[[_Standards/WikiData/WD~Umm Salal Municipality,990414]]"
+- "[[_Standards/WikiData/WD~Al_Shamal,310872]]"
+- "[[_Standards/WikiData/WD~Al_Wakrah,310893]]"
+- "[[_Standards/WikiData/WD~Al_Rayyan_Municipality,311272]]"
+- "[[_Standards/WikiData/WD~Ad-Dawhah_(municipality),594208]]"
+- "[[_Standards/WikiData/WD~Al_Ghuwariyah,623609]]"
+- "[[_Standards/WikiData/WD~Umm_Salal_Municipality,990414]]"
 - '[[_Standards/WikiData/WD~Mesaieed,1069900]]'
-- "[[_Standards/WikiData/WD~Jariyan al Batnah,1070191]]"
-- "[[_Standards/WikiData/WD~Al Jumaliyah,1147593]]"
-- "[[_Standards/WikiData/WD~Al Khor,1156471]]"
+- "[[_Standards/WikiData/WD~Jariyan_al_Batnah,1070191]]"
+- "[[_Standards/WikiData/WD~Al_Jumaliyah,1147593]]"
+- "[[_Standards/WikiData/WD~Al_Khor,1156471]]"
 different_from: '[[_Standards/WikiData/WD~Katar,341753]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Qatar,576594]]"
-legislative_body: "[[_Standards/WikiData/WD~Consultative Assembly of Qatar,818691]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Qatar,944391]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Qatar,576594]]"
+legislative_body: "[[_Standards/WikiData/WD~Consultative_Assembly_of_Qatar,818691]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Qatar,944391]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-highest_point: "[[_Standards/WikiData/WD~Qurayn Abu al Bawl,1633034]]"
-head_of_state: "[[_Standards/WikiData/WD~Tamim bin Hamad Al Thani,1855372]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Qatar,2092906]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Qatar,2509477]]"
-culture: "[[_Standards/WikiData/WD~culture of Qatar,3007363]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+highest_point: "[[_Standards/WikiData/WD~Qurayn_Abu_al_Bawl,1633034]]"
+head_of_state: "[[_Standards/WikiData/WD~Tamim_bin_Hamad_Al_Thani,1855372]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Qatar,2092906]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Qatar,2509477]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Qatar,3007363]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~999,3086706]]'
-central_bank: "[[_Standards/WikiData/WD~Qatar Central Bank,3365778]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Qatar,7112422]]"
+central_bank: "[[_Standards/WikiData/WD~Qatar_Central_Bank,3365778]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Qatar,7112422]]"
 Unicode_character: 🇶🇦 
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Qatar,14616116]]'
 aerial_view:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Pearl-Qatar%20Doha%20Qatar%2011Nov2017%20SkySat.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Qatar%2C%20Doha%2C%20Skyscrapers%2C%20Qatar.jpg"
-head_of_government: "[[_Standards/WikiData/WD~Mohammed bin Abdulrahman Al Thani,23020336]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Emir of the State of Qatar,25711499]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Qatar,30100647]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+head_of_government: "[[_Standards/WikiData/WD~Mohammed_bin_Abdulrahman_Al_Thani,23020336]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Emir_of_the_State_of_Qatar,25711499]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Qatar,30100647]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Qatar,63285955]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-open_data_portal: "[[_Standards/WikiData/WD~Qatar Open Data,97097206]]"
+open_data_portal: "[[_Standards/WikiData/WD~Qatar_Open_Data,97097206]]"
 part_of:
-- "[[_Standards/WikiData/WD~Gulf States,109647832]]"
-- "[[_Standards/WikiData/WD~Middle East,7204]]"
-- "[[_Standards/WikiData/WD~West Asia,27293]]"
+- "[[_Standards/WikiData/WD~Gulf_States,109647832]]"
+- "[[_Standards/WikiData/WD~Middle_East,7204]]"
+- "[[_Standards/WikiData/WD~West_Asia,27293]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q127610639,127610639]]'
 geoshape: "http://commons.wikimedia.org/data/main/Data:Qatar.map"
 page_banner:
@@ -81,11 +81,11 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Qatar-
 country_calling_code: +974
 Dewey_Decimal_Classification: 2--5363
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Yemen,805]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
@@ -93,7 +93,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
@@ -102,11 +102,11 @@ diplomatic_relation:
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Iran,794]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 country: '[[_Standards/WikiData/WD~Qatar,846]]'
 has_part_s_: '[[_Standards/WikiData/WD~Doha,3861]]'
 capital: '[[_Standards/WikiData/WD~Doha,3861]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Middle East,7204]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Middle_East,7204]]"
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 marriageable_age:
@@ -131,21 +131,21 @@ BTI_Status_Index:
 - 6.01
 - 6.06
 - 6.16
-lowest_point: "[[_Standards/WikiData/WD~Persian Gulf,34675]]"
+lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
 death_rate:
 - 1.08
 - 0.991
 - 1.219
 - 1.311
 Happy_Planet_Index_score: 24.3
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.qa,43117]]'
 Democracy_Index: 3.65
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 social_media_followers: 7570
 language_used:
-- "[[_Standards/WikiData/WD~Gulf Arabic,56385]]"
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Gulf_Arabic,56385]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
 Human_Development_Index: 0.855
 literacy_rate: 97.8
 IAB_code: 1384

@@ -1,21 +1,21 @@
 ﻿---
 has_id_wikidata: Q214609
 has_characteristic:
-- "[[_Standards/WikiData/WD~ultimate tensile strength,76005]]"
-- "[[_Standards/WikiData/WD~compressive strength,186191]]"
-- "[[_Standards/WikiData/WD~elastic limit,904497]]"
+- "[[_Standards/WikiData/WD~ultimate_tensile_strength,76005]]"
+- "[[_Standards/WikiData/WD~compressive_strength,186191]]"
+- "[[_Standards/WikiData/WD~elastic_limit,904497]]"
 - '[[_Standards/WikiData/WD~hardness,3236003]]'
-- "[[_Standards/WikiData/WD~mass density,29539]]"
-studied_in: "[[_Standards/WikiData/WD~materials science,228736]]"
+- "[[_Standards/WikiData/WD~mass_density,29539]]"
+studied_in: "[[_Standards/WikiData/WD~materials_science,228736]]"
 different_from:
 - '[[_Standards/WikiData/WD~substance,378078]]'
 - '[[_Standards/WikiData/WD~materiel,2359118]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~product,2424752]]'
 - '[[_Standards/WikiData/WD~substance,10683158]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox material,18534419]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_material,18534419]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 properties_for_this_type:
 - emissivity
 - "has characteristic"

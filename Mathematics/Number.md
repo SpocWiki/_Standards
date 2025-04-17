@@ -5,20 +5,20 @@ different_from:
 - '[[_Standards/WikiData/WD~Number,4516286]]'
 - '[[_Standards/WikiData/WD~Tal,5576117]]'
 - '[[_Standards/WikiData/WD~Liczba,11755814]]'
-subclass_of: "[[_Standards/WikiData/WD~mathematical object,246672]]"
+subclass_of: "[[_Standards/WikiData/WD~mathematical_object,246672]]"
 manifestation_of: '[[_Standards/WikiData/WD~quantity,309314]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Art of Computer Programming, Volume 1_ Fundamental Algorithms, 3rd edition,47755251]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~scalar,1289248]]'
-part_of: "[[_Standards/WikiData/WD~set of numbers,3054943]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Number systems,6443303]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-has_characteristic: "[[_Standards/WikiData/WD~type of number,47460393]]"
+part_of: "[[_Standards/WikiData/WD~set_of_numbers,3054943]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Number_systems,6443303]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+has_characteristic: "[[_Standards/WikiData/WD~type_of_number,47460393]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q56402551,56402551]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20zenbaki%20arrazionalak.webm"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Numbers%20grid%20in%20NY.jpg"

@@ -1,6 +1,6 @@
 ---
 has_id_wikidata: Q192710
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix I of CITES,2851528]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
 Commons_category: Tapirus indicus
 Commons_gallery: Tapirus indicus
 EPPO_Code: TPIRIN
@@ -8,9 +8,9 @@ gestation_period: 396
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Malayan%20Tapir.JPG
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: "624998"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered status,96377276]]"
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
 longest_observed_lifespan: 36.5
-protonym_of: "[[_Standards/WikiData/WD~Acrocodia indica,27868283]]"
+protonym_of: "[[_Standards/WikiData/WD~Acrocodia_indica,27868283]]"
 sequenced_genome_URL: https://www.dnazoo.org/assemblies/Tapirus_indicus
 short_name: T. indicus
 subject_has_role: "[[_Standards/WikiData/WD~protonym,10640897]]"
@@ -33,7 +33,7 @@ taxon_common_name:
 taxon_name: Tapirus indicus
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Malayan%20Tapir%20area.png
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Acrocodia indica,27868283]]"
+taxon_synonym: "[[_Standards/WikiData/WD~Acrocodia_indica,27868283]]"
 UMLS_CUI: C0325182
 ---
 

@@ -1,16 +1,16 @@
 ---
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
-- "[[_Standards/WikiData/WD~Saint Lucia,760]]"
+- "[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]"
+- "[[_Standards/WikiData/WD~Saint_Lucia,760]]"
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Guatemala,774]]'
-- "[[_Standards/WikiData/WD~The Bahamas,778]]"
-- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
+- "[[_Standards/WikiData/WD~The_Bahamas,778]]"
+- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
 - '[[_Standards/WikiData/WD~Dominica,784]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Yemen,805]]'
 - '[[_Standards/WikiData/WD~Jordan,810]]'
 - '[[_Standards/WikiData/WD~Nicaragua,811]]'
@@ -25,14 +25,14 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Oman,842]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Qatar,846]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Tajikistan,863]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
 - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
@@ -40,28 +40,28 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~Central African Republic,929]]"
+- "[[_Standards/WikiData/WD~Central_African_Republic,929]]"
 - '[[_Standards/WikiData/WD~Togo,945]]'
 - '[[_Standards/WikiData/WD~Tunisia,948]]'
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Benin,962]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
 - '[[_Standards/WikiData/WD~Burundi,967]]'
-- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+- "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
 - '[[_Standards/WikiData/WD~Comoros,970]]'
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
-- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
 - '[[_Standards/WikiData/WD~Guinea,1006]]'
 - '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-- "[[_Standards/WikiData/WD~The Gambia,1005]]"
-- "[[_Standards/WikiData/WD~Cape Verde,1011]]"
-- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
+- "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
+- "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Lesotho,1013]]'
@@ -75,17 +75,17 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mozambique,1029]]'
 - '[[_Standards/WikiData/WD~Niger,1032]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
-- "[[_Standards/WikiData/WD~São Tomé and Príncipe,1039]]"
+- "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]"
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Rwanda,1037]]'
 - '[[_Standards/WikiData/WD~Seychelles,1042]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+- "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Eswatini,1050]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
-- "[[_Standards/WikiData/WD~Hong Kong,8646]]"
-- "[[_Standards/WikiData/WD~German Democratic Republic,16957]]"
+- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
+- "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
@@ -111,8 +111,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -122,28 +122,28 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
-- "[[_Standards/WikiData/WD~San Marino,238]]"
+- "[[_Standards/WikiData/WD~San_Marino,238]]"
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
 - '[[_Standards/WikiData/WD~Belize,242]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
-- "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Chile,298]]'
@@ -155,13 +155,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
 - '[[_Standards/WikiData/WD~Chad,657]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Vanuatu,686]]'
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Nauru,697]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Fiji,712]]'
@@ -169,83 +169,83 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Suriname,730]]'
 - '[[_Standards/WikiData/WD~Guyana,734]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-- "[[_Standards/WikiData/WD~Saint Vincent and the Grenadines,757]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
+- "[[_Standards/WikiData/WD~Saint_Vincent_and_the_Grenadines,757]]"
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~South Korea,884]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 member_of:
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~International Red Cross and Red Crescent Movement,7178]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~International_Red_Cross_and_Red_Crescent_Movement,7178]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~International Organization for Standardization,15028]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~International Olympic Committee,40970]]"
-- "[[_Standards/WikiData/WD~UN Tourism,61923]]"
-- "[[_Standards/WikiData/WD~Food and Agriculture Organization,82151]]"
-- "[[_Standards/WikiData/WD~Non-Aligned Movement,83201]]"
-- "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Interparliamentary Union,176815]]"
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~UN Trade and Development,182000]]"
-- "[[_Standards/WikiData/WD~states with nuclear weapons,189062]]"
-- "[[_Standards/WikiData/WD~International Maritime Organization,201054]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations Industrial Development Organization,386120]]"
-- "[[_Standards/WikiData/WD~Group of 77,477328]]"
-- "[[_Standards/WikiData/WD~International Fund for Agricultural Development,689859]]"
-- "[[_Standards/WikiData/WD~World Federation of Trade Unions,748999]]"
-- "[[_Standards/WikiData/WD~International Federation of Red Cross and Red Crescent Societies,1069175]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[_Standards/WikiData/WD~International Telecommunications Satellite Organization,15546770]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
+- "[[_Standards/WikiData/WD~UN_Tourism,61923]]"
+- "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
+- "[[_Standards/WikiData/WD~Non-Aligned_Movement,83201]]"
+- "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Interparliamentary_Union,176815]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~UN_Trade_and_Development,182000]]"
+- "[[_Standards/WikiData/WD~states_with_nuclear_weapons,189062]]"
+- "[[_Standards/WikiData/WD~International_Maritime_Organization,201054]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations_Industrial_Development_Organization,386120]]"
+- "[[_Standards/WikiData/WD~Group_of_77,477328]]"
+- "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
+- "[[_Standards/WikiData/WD~World_Federation_of_Trade_Unions,748999]]"
+- "[[_Standards/WikiData/WD~International_Federation_of_Red_Cross_and_Red_Crescent_Societies,1069175]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[_Standards/WikiData/WD~International_Telecommunications_Satellite_Organization,15546770]]"
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~people's republic,465613]]"
-- "[[_Standards/WikiData/WD~hermit kingdom,1309121]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~people's_republic,465613]]"
+- "[[_Standards/WikiData/WD~hermit_kingdom,1309121]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+09_00,7041]]'
 basic_form_of_government:
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~single-party system,50686]]"
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
+- "[[_Standards/WikiData/WD~single-party_system,50686]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
 - '[[_Standards/WikiData/WD~Juche,181800]]'
-- "[[_Standards/WikiData/WD~socialist state,842112]]"
-- "[[_Standards/WikiData/WD~family dictatorship,5433328]]"
-- "[[_Standards/WikiData/WD~communist dictatorship,117405807]]"
+- "[[_Standards/WikiData/WD~socialist_state,842112]]"
+- "[[_Standards/WikiData/WD~family_dictatorship,5433328]]"
+- "[[_Standards/WikiData/WD~communist_dictatorship,117405807]]"
 language_used: '[[_Standards/WikiData/WD~Korean,9176]]'
 official_language:
 - '[[_Standards/WikiData/WD~Korean,9176]]'
-- "[[_Standards/WikiData/WD~North Korean standard language,18784]]"
+- "[[_Standards/WikiData/WD~North_Korean_standard_language,18784]]"
 different_from:
 - '[[_Standards/WikiData/WD~Korea,18097]]'
-- "[[_Standards/WikiData/WD~People's Republic of Korea,484370]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_Korea,484370]]"
 replaces:
 - '[[_Standards/WikiData/WD~Korea,18097]]'
-- "[[_Standards/WikiData/WD~People's Committee of North Korea,705044]]"
+- "[[_Standards/WikiData/WD~People's_Committee_of_North_Korea,705044]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Pyongyang,18808]]'
-- "[[_Standards/WikiData/WD~Kangwon Province,41416]]"
-- "[[_Standards/WikiData/WD~North Hwanghae Province,109342]]"
-- "[[_Standards/WikiData/WD~North Pyongan Province,109348]]"
-- "[[_Standards/WikiData/WD~North Hamgyong Province,109361]]"
-- "[[_Standards/WikiData/WD~South Hamgyong Province,109368]]"
-- "[[_Standards/WikiData/WD~South Pyongan Province,109380]]"
+- "[[_Standards/WikiData/WD~Kangwon_Province,41416]]"
+- "[[_Standards/WikiData/WD~North_Hwanghae_Province,109342]]"
+- "[[_Standards/WikiData/WD~North_Pyongan_Province,109348]]"
+- "[[_Standards/WikiData/WD~North_Hamgyong_Province,109361]]"
+- "[[_Standards/WikiData/WD~South_Hamgyong_Province,109368]]"
+- "[[_Standards/WikiData/WD~South_Pyongan_Province,109380]]"
 - '[[_Standards/WikiData/WD~Nampo,109386]]'
-- "[[_Standards/WikiData/WD~Ryanggang Province,110171]]"
+- "[[_Standards/WikiData/WD~Ryanggang_Province,110171]]"
 - '[[_Standards/WikiData/WD~Rason,221734]]'
-- "[[_Standards/WikiData/WD~Chagang Province,272406]]"
-- "[[_Standards/WikiData/WD~South Hwanghae Province,626052]]"
+- "[[_Standards/WikiData/WD~Chagang_Province,272406]]"
+- "[[_Standards/WikiData/WD~South_Hwanghae_Province,626052]]"
 capital: '[[_Standards/WikiData/WD~Pyongyang,18808]]'
-lowest_point: "[[_Standards/WikiData/WD~Sea of Japan,27092]]"
+lowest_point: "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Sea of Japan,27092]]"
-- "[[_Standards/WikiData/WD~Yellow Sea,37960]]"
-part_of: "[[_Standards/WikiData/WD~East Asia,27231]]"
+- "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
+- "[[_Standards/WikiData/WD~Yellow_Sea,37960]]"
+part_of: "[[_Standards/WikiData/WD~East_Asia,27231]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 BTI_Status_Index:
 - 2
@@ -279,7 +279,7 @@ suicide_rate: 11.2
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.kp,42172]]'
 trunk_prefix: 0
 UIC_numerical_country_code: 30
-head_of_state: "[[_Standards/WikiData/WD~Kim Jong-un,56226]]"
+head_of_state: "[[_Standards/WikiData/WD~Kim_Jong-un,56226]]"
 Libris_URI: 97mpnkct4lwgtln
 subreddit:
 - dprk
@@ -446,40 +446,40 @@ coordinates_of_northernmost_point: "Point(129.93 43.0)"
 YouTube_handle: uriminzokkiri
 MeSH_tree_code: Z01.252.474.557.500
 coordinates_of_westernmost_point: "Point(124.31744477 39.90666652)"
-country: "[[_Standards/WikiData/WD~North Korea,423]]"
+country: "[[_Standards/WikiData/WD~North_Korea,423]]"
 coordinates_of_easternmost_point: "Point(130.69751278 42.29053051)"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Monument%20Samjiyon%20banner.jpg"
-flag: "[[_Standards/WikiData/WD~flag of North Korea,103064]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of North Korea,107158]]"
-highest_point: "[[_Standards/WikiData/WD~Baekdu Mountain,107635]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of North Korea,224623]]"
+flag: "[[_Standards/WikiData/WD~flag_of_North_Korea,103064]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_North_Korea,107158]]"
+highest_point: "[[_Standards/WikiData/WD~Baekdu_Mountain,107635]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_North_Korea,224623]]"
 anthem: '[[_Standards/WikiData/WD~Aegukka,231910]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Korean Peninsula,483134]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of North Korea,693277]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of North Korea,707454]]"
-legislative_body: "[[_Standards/WikiData/WD~Supreme People's Assembly,714698]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Korean_Peninsula,483134]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_North_Korea,693277]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_North_Korea,707454]]"
+legislative_body: "[[_Standards/WikiData/WD~Supreme_People's_Assembly,714698]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of the Democratic People's Republic of Korea,1141425]]"
-culture: "[[_Standards/WikiData/WD~culture of North Korea,1194712]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of North Korea,1423763]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of North Korea,2354694]]"
-executive_body: "[[_Standards/WikiData/WD~Government of North Korea,4375957]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of North Korea,7112390]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Premier of North Korea,7240364]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_the_Democratic_People's_Republic_of_Korea,1141425]]"
+culture: "[[_Standards/WikiData/WD~culture_of_North_Korea,1194712]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_North_Korea,1423763]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_North_Korea,2354694]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_North_Korea,4375957]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_North_Korea,7112390]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Premier_of_North_Korea,7240364]]"
 Dewey_Decimal_Classification: 2--5193
-public_holiday: "[[_Standards/WikiData/WD~Day of the Foundation of the Republic,12613371]]"
+public_holiday: "[[_Standards/WikiData/WD~Day_of_the_Foundation_of_the_Republic,12613371]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_North Korea,13219078]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject North Korea,13341444]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_North_Korea,13219078]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_North_Korea,13341444]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828809,22828809]]'
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-head_of_government: "[[_Standards/WikiData/WD~Kim Jae-ryong,56818689]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Supreme Leader of North Korea,56876342]]"
-bibliography: "[[_Standards/WikiData/WD~bibliography of North Korea,100741953]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+head_of_government: "[[_Standards/WikiData/WD~Kim_Jae-ryong,56818689]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Supreme_Leader_of_North_Korea,56876342]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_North_Korea,100741953]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:North+Korea.map"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Jinrichengsquare.JPG"
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20Peninsula%20ESA21108299.jpeg"

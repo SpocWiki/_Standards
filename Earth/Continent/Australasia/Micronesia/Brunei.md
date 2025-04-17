@@ -1,85 +1,85 @@
 ---
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Brunei-Muara District,153009]]"
-- "[[_Standards/WikiData/WD~Temburong District,263285]]"
-- "[[_Standards/WikiData/WD~Belait District,40395]]"
-- "[[_Standards/WikiData/WD~Tutong District,40398]]"
-flag: "[[_Standards/WikiData/WD~flag of Brunei,165872]]"
+- "[[_Standards/WikiData/WD~Brunei-Muara_District,153009]]"
+- "[[_Standards/WikiData/WD~Temburong_District,263285]]"
+- "[[_Standards/WikiData/WD~Belait_District,40395]]"
+- "[[_Standards/WikiData/WD~Tutong_District,40398]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Brunei,165872]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Association of South-East Asian Nations,7768]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-- "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
-- "[[_Standards/WikiData/WD~Islamic State (term),4204060]]"
-coat_of_arms: "[[_Standards/WikiData/WD~emblem of Brunei,203378]]"
-anthem: "[[_Standards/WikiData/WD~Allah Peliharakan Sultan,491552]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+- "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
+- "[[_Standards/WikiData/WD~Islamic_State_(term),4204060]]"
+coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_Brunei,203378]]"
+anthem: "[[_Standards/WikiData/WD~Allah_Peliharakan_Sultan,491552]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Old Book of Tang,1146980]]"
-- "[[_Standards/WikiData/WD~Book of Sui,1156924]]"
-- "[[_Standards/WikiData/WD~History of Northern Dynasties,1188548]]"
-- "[[_Standards/WikiData/WD~Book of Liang,1285767]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Old_Book_of_Tang,1146980]]"
+- "[[_Standards/WikiData/WD~Book_of_Sui,1156924]]"
+- "[[_Standards/WikiData/WD~History_of_Northern_Dynasties,1188548]]"
+- "[[_Standards/WikiData/WD~Book_of_Liang,1285767]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 language_used:
-- "[[_Standards/WikiData/WD~Standard Chinese,727694]]"
+- "[[_Standards/WikiData/WD~Standard_Chinese,727694]]"
 - '[[_Standards/WikiData/WD~Belait,2894198]]'
-- "[[_Standards/WikiData/WD~Brunei Malay,3182878]]"
-- "[[_Standards/WikiData/WD~Brunei Bisaya,3450611]]"
+- "[[_Standards/WikiData/WD~Brunei_Malay,3182878]]"
+- "[[_Standards/WikiData/WD~Brunei_Bisaya,3450611]]"
 - '[[_Standards/WikiData/WD~Tutong,3507990]]'
-- "[[_Standards/WikiData/WD~Yue Chinese,7033959]]"
-- "[[_Standards/WikiData/WD~East Penan,13018541]]"
-- "[[_Standards/WikiData/WD~Lun Bawang,13479839]]"
-- "[[_Standards/WikiData/WD~British English,7979]]"
+- "[[_Standards/WikiData/WD~Yue_Chinese,7033959]]"
+- "[[_Standards/WikiData/WD~East_Penan,13018541]]"
+- "[[_Standards/WikiData/WD~Lun_Bawang,13479839]]"
+- "[[_Standards/WikiData/WD~British_English,7979]]"
 - '[[_Standards/WikiData/WD~Cantonese,9186]]'
 - '[[_Standards/WikiData/WD~Mandarin,9192]]'
 - '[[_Standards/WikiData/WD~Malay,9237]]'
-- "[[_Standards/WikiData/WD~Malaysian Malay,15065]]"
-- "[[_Standards/WikiData/WD~Hakka Chinese,33375]]"
+- "[[_Standards/WikiData/WD~Malaysian_Malay,15065]]"
+- "[[_Standards/WikiData/WD~Hakka_Chinese,33375]]"
 - '[[_Standards/WikiData/WD~Iban,33424]]'
-- "[[_Standards/WikiData/WD~Eastern Min,36455]]"
-- "[[_Standards/WikiData/WD~Southern Min,36495]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Sultan of Brunei Darussalam,889927]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Sultan of Brunei Darussalam,889927]]"
-highest_point: "[[_Standards/WikiData/WD~Bukit Pagon,1003282]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Brunei,1948465]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Brunei,2249314]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Brunei,2288189]]"
-legislative_body: "[[_Standards/WikiData/WD~Legislative Council of Brunei,2396996]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Brunei,2421234]]"
-central_bank: "[[_Standards/WikiData/WD~Monetary Authority of Brunei Darussalam,2604419]]"
-writing_system: "[[_Standards/WikiData/WD~Malay alphabet,2673515]]"
+- "[[_Standards/WikiData/WD~Eastern_Min,36455]]"
+- "[[_Standards/WikiData/WD~Southern_Min,36495]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Sultan_of_Brunei_Darussalam,889927]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Sultan_of_Brunei_Darussalam,889927]]"
+highest_point: "[[_Standards/WikiData/WD~Bukit_Pagon,1003282]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Brunei,1948465]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Brunei,2249314]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Brunei,2288189]]"
+legislative_body: "[[_Standards/WikiData/WD~Legislative_Council_of_Brunei,2396996]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Brunei,2421234]]"
+central_bank: "[[_Standards/WikiData/WD~Monetary_Authority_of_Brunei_Darussalam,2604419]]"
+writing_system: "[[_Standards/WikiData/WD~Malay_alphabet,2673515]]"
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~Maritime Southeast Asia,2919361]]"
-- "[[_Standards/WikiData/WD~Muslim Southeast Asia,6942966]]"
+- "[[_Standards/WikiData/WD~Maritime_Southeast_Asia,2919361]]"
+- "[[_Standards/WikiData/WD~Muslim_Southeast_Asia,6942966]]"
 - '[[_Standards/WikiData/WD~Borneo,36117]]'
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~sultanate,12759805]]'
 - '[[_Standards/WikiData/WD~country,6256]]'
-culture: "[[_Standards/WikiData/WD~culture of Brunei,5193538]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Brunei,7112211]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Brunei,5193538]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Brunei,7112211]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q8047409,8047409]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Brunei,11309507]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
@@ -88,7 +88,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~995,25267554]]'
 - '[[_Standards/WikiData/WD~991,25648868]]'
 - '[[_Standards/WikiData/WD~993,25743569]]'
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q61088340,61088340]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Brunei,63225362]]'
@@ -128,7 +128,7 @@ demonym:
 - bruneiane
 - bruneiani
 - Brunänan
-open_data_portal: "[[_Standards/WikiData/WD~Brunei Open Data Portal,97152537]]"
+open_data_portal: "[[_Standards/WikiData/WD~Brunei_Open_Data_Portal,97152537]]"
 inception:
 - "1888-09-17"
 - "1368"
@@ -146,10 +146,10 @@ MeSH_tree_code: Z01.252.145.130
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Laos,819]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
@@ -157,15 +157,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
@@ -177,11 +177,11 @@ religion_or_worldview:
 shares_border_with: '[[_Standards/WikiData/WD~Malaysia,833]]'
 country: '[[_Standards/WikiData/WD~Brunei,921]]'
 official_language:
-- "[[_Standards/WikiData/WD~British English,7979]]"
+- "[[_Standards/WikiData/WD~British_English,7979]]"
 - '[[_Standards/WikiData/WD~Malay,9237]]'
-capital: "[[_Standards/WikiData/WD~Bandar Seri Begawan,9279]]"
+capital: "[[_Standards/WikiData/WD~Bandar_Seri_Begawan,9279]]"
 part_of:
-- "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
+- "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
 - '[[_Standards/WikiData/WD~Borneo,36117]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 marriageable_age: 18
@@ -194,13 +194,13 @@ birth_rate:
 - 13.493
 - 14.165
 - 14.585
-lowest_point: "[[_Standards/WikiData/WD~South China Sea,37660]]"
+lowest_point: "[[_Standards/WikiData/WD~South_China_Sea,37660]]"
 total_fertility_rate: 1.75
 male_population: 235000
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bn,41199]]'
 trunk_prefix: 0
-head_of_state: "[[_Standards/WikiData/WD~Hassanal Bolkiah I of Brunei,57327]]"
-head_of_government: "[[_Standards/WikiData/WD~Hassanal Bolkiah I of Brunei,57327]]"
+head_of_state: "[[_Standards/WikiData/WD~Hassanal_Bolkiah_I_of_Brunei,57327]]"
+head_of_government: "[[_Standards/WikiData/WD~Hassanal_Bolkiah_I_of_Brunei,57327]]"
 Human_Development_Index: 0.829
 WIPO_ST_3: BN
 ISO_3166_1_alpha_2_code: BN

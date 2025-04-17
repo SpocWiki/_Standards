@@ -34,39 +34,39 @@ Languages:
 - fr-VU
 icon: flag-vu
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Vanuatu,185285]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Vanuatu,185285]]"
 language_used:
-- "[[_Standards/WikiData/WD~Southeast Ambrym,252411]]"
+- "[[_Standards/WikiData/WD~Southeast_Ambrym,252411]]"
 - '[[_Standards/WikiData/WD~Erromanga,426254]]'
 - '[[_Standards/WikiData/WD~Aulua,427300]]'
 - '[[_Standards/WikiData/WD~Rerep,586907]]'
 - '[[_Standards/WikiData/WD~Lamenu,740604]]'
-- "[[_Standards/WikiData/WD~North Tanna,957945]]"
+- "[[_Standards/WikiData/WD~North_Tanna,957945]]"
 - '[[_Standards/WikiData/WD~Tamambo,1153276]]'
 - '[[_Standards/WikiData/WD~Daakaka,1157729]]'
 - '[[_Standards/WikiData/WD~Lemerig,2028448]]'
@@ -83,13 +83,13 @@ language_used:
 - '[[_Standards/WikiData/WD~Apma,2669188]]'
 - '[[_Standards/WikiData/WD~Araki,2699882]]'
 - '[[_Standards/WikiData/WD~Akei,2828964]]'
-- "[[_Standards/WikiData/WD~East Ambae,2841471]]"
-- "[[_Standards/WikiData/WD~West Ambae,2841479]]"
-- "[[_Standards/WikiData/WD~North Ambrym,2842468]]"
+- "[[_Standards/WikiData/WD~East_Ambae,2841471]]"
+- "[[_Standards/WikiData/WD~West_Ambae,2841479]]"
+- "[[_Standards/WikiData/WD~North_Ambrym,2842468]]"
 - '[[_Standards/WikiData/WD~Axamb,2874710]]'
 - '[[_Standards/WikiData/WD~Baetora,2878874]]'
 - '[[_Standards/WikiData/WD~Bierebo,2902029]]'
-- "[[_Standards/WikiData/WD~Big Nambas,2902304]]"
+- "[[_Standards/WikiData/WD~Big_Nambas,2902304]]"
 - '[[_Standards/WikiData/WD~Burmbar,2928522]]'
 - '[[_Standards/WikiData/WD~Butmas,2928942]]'
 - '[[_Standards/WikiData/WD~Dorig,3037047]]'
@@ -127,22 +127,22 @@ language_used:
 - '[[_Standards/WikiData/WD~Navut,3337327]]'
 - '[[_Standards/WikiData/WD~Nume,3346290]]'
 - '[[_Standards/WikiData/WD~Olrat,3351562]]'
-- "[[_Standards/WikiData/WD~Port Vato,3398323]]"
-- "[[_Standards/WikiData/WD~Port Sandwich,3398324]]"
+- "[[_Standards/WikiData/WD~Port_Vato,3398323]]"
+- "[[_Standards/WikiData/WD~Port_Sandwich,3398324]]"
 - '[[_Standards/WikiData/WD~Nafsan,3449070]]'
 - '[[_Standards/WikiData/WD~Saa,3460352]]'
-- "[[_Standards/WikiData/WD~Southwest Tanna,3504488]]"
+- "[[_Standards/WikiData/WD~Southwest_Tanna,3504488]]"
 - '[[_Standards/WikiData/WD~Unua,3552042]]'
 - "[[_Standards/WikiData/WD~Vera'a,3555689]]"
 - '[[_Standards/WikiData/WD~Vurës,3563857]]'
-- "[[_Standards/WikiData/WD~North Efate,3580152]]"
+- "[[_Standards/WikiData/WD~North_Efate,3580152]]"
 - '[[_Standards/WikiData/WD~Bieria,4904607]]'
-- "[[_Standards/WikiData/WD~Dixon Reef,5284967]]"
+- "[[_Standards/WikiData/WD~Dixon_Reef,5284967]]"
 - '[[_Standards/WikiData/WD~Litzlitz,6653424]]'
 - '[[_Standards/WikiData/WD~Nethalp,6680287]]'
 - '[[_Standards/WikiData/WD~Maii,6735599]]'
 - '[[_Standards/WikiData/WD~Merei-Tiale,6744350]]'
-- "[[_Standards/WikiData/WD~Malua Bay,6744946]]"
+- "[[_Standards/WikiData/WD~Malua_Bay,6744946]]"
 - '[[_Standards/WikiData/WD~Tape,6754640]]'
 - '[[_Standards/WikiData/WD~Ande,6913299]]'
 - '[[_Standards/WikiData/WD~Botovro,6928305]]'
@@ -171,11 +171,11 @@ language_used:
 - '[[_Standards/WikiData/WD~Merei,12952843]]'
 - '[[_Standards/WikiData/WD~Narango,12952929]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
-- "[[_Standards/WikiData/WD~Northeast Malakula,13249]]"
+- "[[_Standards/WikiData/WD~Northeast_Malakula,13249]]"
 - '[[_Standards/WikiData/WD~French,150]]'
 - '[[_Standards/WikiData/WD~Bislama,35452]]'
-anthem: "[[_Standards/WikiData/WD~Yumi, Yumi,272751]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Vanuatu,459704]]"
+anthem: "[[_Standards/WikiData/WD~Yumi,_Yumi,272751]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Vanuatu,459704]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Tafea,576417]]'
 - '[[_Standards/WikiData/WD~Shefa,650617]]'
@@ -184,23 +184,23 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Torba,822514]]'
 - '[[_Standards/WikiData/WD~Penama,836649]]'
 replaces:
-- "[[_Standards/WikiData/WD~New Hebrides,752431]]"
+- "[[_Standards/WikiData/WD~New_Hebrides,752431]]"
 - '[[_Standards/WikiData/WD~Q99868017,99868017]]'
-follows: "[[_Standards/WikiData/WD~New Hebrides,752431]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Vanuatu,764201]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Vanuatu,1029958]]"
+follows: "[[_Standards/WikiData/WD~New_Hebrides,752431]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Vanuatu,764201]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Vanuatu,1029958]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Tabwemasana,1542459]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Vanuatu,2477564]]"
-central_bank: "[[_Standards/WikiData/WD~Reserve Bank of Vanuatu,2601309]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Vanuatu,2734883]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Vanuatu,3044426]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Vanuatu,3235438]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Tabwemasana,1542459]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Vanuatu,2477564]]"
+central_bank: "[[_Standards/WikiData/WD~Reserve_Bank_of_Vanuatu,2601309]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Vanuatu,2734883]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Vanuatu,3044426]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Vanuatu,3235438]]"
 ISO_3166_1_numeric_code: 548
 M49_code: 548
 maritime_identification_digits:
@@ -320,26 +320,26 @@ coordinates_of_northernmost_point: "Point(166.546527777 -13.072444444)"
 coordinate_location: "Point(168.016669444 -16.633330555)"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Vanuatu%20in%20October%201998.jpg"
 coordinates_of_westernmost_point: "Point(166.566666666 -13.133333333)"
-culture: "[[_Standards/WikiData/WD~culture of Vanuatu,5193658]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Vanuatu,7112505]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Vanuatu,5193658]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Vanuatu,7112505]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q8048188,8048188]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Vanuatu,14616317]]'
-head_of_government: "[[_Standards/WikiData/WD~Bob Loughman,16190741]]"
+head_of_government: "[[_Standards/WikiData/WD~Bob_Loughman,16190741]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~113,25648804]]'
 - '[[_Standards/WikiData/WD~11,25648919]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Republic of Abkhazia,31354462]]"
+- "[[_Standards/WikiData/WD~Republic_of_Abkhazia,31354462]]"
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
@@ -348,9 +348,9 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~Pacific_Efate,63285991]]'
 - '[[_Standards/WikiData/WD~UTC+11_00,7069]]'
 part_of:
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
 - '[[_Standards/WikiData/WD~Melanesia,37394]]'
-head_of_state: "[[_Standards/WikiData/WD~Nikenike Vurobaravu,113239716]]"
+head_of_state: "[[_Standards/WikiData/WD~Nikenike_Vurobaravu,113239716]]"
 coordinates_of_easternmost_point: "Point(170.238222222 -19.513138888)"
 coordinates_of_southernmost_point: "Point(169.851777777 -20.252083333)"
 UMLS_CUI: C0042321
@@ -358,18 +358,18 @@ ISNI: 0000000121726191
 official_website: "https://www.gov.vu/"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~Solomon Islands,685]]"
-continent: "[[_Standards/WikiData/WD~Insular Oceania,538]]"
+- "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
+continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 country: '[[_Standards/WikiData/WD~Vanuatu,686]]'
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 - '[[_Standards/WikiData/WD~Bislama,35452]]'
-lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 VAT_rate: 13
 marriageable_age: 21
 mains_voltage: 220
-capital: "[[_Standards/WikiData/WD~Port Vila,37806]]"
+capital: "[[_Standards/WikiData/WD~Port_Vila,37806]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.vu,42701]]'
 Gini_coefficient: 32.3
 Inequality_adjusted_Human_Development_Index: 0.489

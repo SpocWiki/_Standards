@@ -4,16 +4,16 @@ opposite_of: '[[_Standards/WikiData/WD~supernatural,80837]]'
 different_from: '[[_Standards/WikiData/WD~Natura,396865]]'
 instance_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
 studied_in:
-- "[[_Standards/WikiData/WD~natural history,484591]]"
+- "[[_Standards/WikiData/WD~natural_history,484591]]"
 - '[[_Standards/WikiData/WD~prirodovedenie,4379074]]'
 - '[[_Standards/WikiData/WD~science,336]]'
-- "[[_Standards/WikiData/WD~natural science,7991]]"
+- "[[_Standards/WikiData/WD~natural_science,7991]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Prakṛti,920021]]'
-has_part_s_: "[[_Standards/WikiData/WD~natural landscape,1286517]]"
-has_characteristic: "[[_Standards/WikiData/WD~pattern in nature,3455898]]"
+has_part_s_: "[[_Standards/WikiData/WD~natural_landscape,1286517]]"
+has_characteristic: "[[_Standards/WikiData/WD~pattern_in_nature,3455898]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Nature,8084570]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nature,10814946]]'
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20natura%20medol.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Desert%20Electric.jpg"
 IPTC_NewsCode: mediatopic/20000441

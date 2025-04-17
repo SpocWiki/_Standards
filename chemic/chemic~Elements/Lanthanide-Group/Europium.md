@@ -3,20 +3,20 @@ type: Element
 SpocWebEntityId: 21959
 has_id_wikidata: Q1396
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Anatole Demarçay,725850]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Anatole_Demarçay,725850]]"
 has_use: '[[_Standards/WikiData/WD~dopant,15119237]]'
 time_of_discovery_or_invention: "1901"
-subject_has_role: "[[_Standards/WikiData/WD~luminescent agents,50430320]]"
+subject_has_role: "[[_Standards/WikiData/WD~luminescent_agents,50430320]]"
 UMLS_CUI: C0015180
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 named_after: '[[_Standards/WikiData/WD~Europe,46]]'
 electronegativity: 1.2
 atomic_number: 63

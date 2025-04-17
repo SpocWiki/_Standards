@@ -1,34 +1,34 @@
 ﻿---
 has_id_wikidata: Q385378
 practiced_by:
-- "[[_Standards/WikiData/WD~general contractor,289612]]"
-- "[[_Standards/WikiData/WD~construction foreman,691522]]"
-- "[[_Standards/WikiData/WD~master builder,1340643]]"
-- "[[_Standards/WikiData/WD~civil engineer,13582652]]"
-- "[[_Standards/WikiData/WD~building engineer,21778977]]"
-- "[[_Standards/WikiData/WD~building contractor,63755054]]"
-- "[[_Standards/WikiData/WD~construction technology manager,106191850]]"
+- "[[_Standards/WikiData/WD~general_contractor,289612]]"
+- "[[_Standards/WikiData/WD~construction_foreman,691522]]"
+- "[[_Standards/WikiData/WD~master_builder,1340643]]"
+- "[[_Standards/WikiData/WD~civil_engineer,13582652]]"
+- "[[_Standards/WikiData/WD~building_engineer,21778977]]"
+- "[[_Standards/WikiData/WD~building_contractor,63755054]]"
+- "[[_Standards/WikiData/WD~construction_technology_manager,106191850]]"
 - '[[_Standards/WikiData/WD~architect,42973]]'
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~constructing,329637]]'
 - '[[_Standards/WikiData/WD~construction,3875186]]'
-- "[[_Standards/WikiData/WD~construction industry,13405640]]"
+- "[[_Standards/WikiData/WD~construction_industry,13405640]]"
 partially_coincident_with: '[[_Standards/WikiData/WD~construction,3875186]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~construction,3875186]]'
-- "[[_Standards/WikiData/WD~economic activity,8187769]]"
-instance_of: "[[_Standards/WikiData/WD~economic activity,8187769]]"
+- "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+instance_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~building construction,13377238]]"
-- "[[_Standards/WikiData/WD~specialised construction activities,29584305]]"
-- "[[_Standards/WikiData/WD~civil engineering,73303844]]"
+- "[[_Standards/WikiData/WD~building_construction,13377238]]"
+- "[[_Standards/WikiData/WD~specialised_construction_activities,29584305]]"
+- "[[_Standards/WikiData/WD~civil_engineering,73303844]]"
 different_from:
-- "[[_Standards/WikiData/WD~construction industry,13405640]]"
+- "[[_Standards/WikiData/WD~construction_industry,13405640]]"
 - '[[_Standards/WikiData/WD~deployment,110279643]]'
 part_of:
-- "[[_Standards/WikiData/WD~AEC industry,89358787]]"
-- "[[_Standards/WikiData/WD~section in classification of productive activities,112117701]]"
-- "[[_Standards/WikiData/WD~secondary sector of the economy,55639]]"
+- "[[_Standards/WikiData/WD~AEC_industry,89358787]]"
+- "[[_Standards/WikiData/WD~section_in_classification_of_productive_activities,112117701]]"
+- "[[_Standards/WikiData/WD~secondary_sector_of_the_economy,55639]]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Time-lapse%20of%20building%20demolition%20and%20reconstruction%20in%20Zurich.webm"
 NAF_code_v2: F
 NACE_code_rev_2: F

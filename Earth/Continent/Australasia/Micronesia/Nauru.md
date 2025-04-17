@@ -33,58 +33,58 @@ Languages:
 - en-NR
 icon: flag-nu
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Nauru,185277]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Nauru,185277]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Buada District,202747]]"
-- "[[_Standards/WikiData/WD~Aiwo District,240017]]"
-- "[[_Standards/WikiData/WD~Ewa District,274381]]"
-- "[[_Standards/WikiData/WD~Meneng District,327788]]"
-- "[[_Standards/WikiData/WD~Baiti District,328727]]"
-- "[[_Standards/WikiData/WD~Anabar District,328735]]"
-- "[[_Standards/WikiData/WD~Anibare District,328733]]"
-- "[[_Standards/WikiData/WD~Ijuw District,328738]]"
-- "[[_Standards/WikiData/WD~Nibok District,378780]]"
-- "[[_Standards/WikiData/WD~Anetan District,378813]]"
-- "[[_Standards/WikiData/WD~Boe District,378829]]"
-- "[[_Standards/WikiData/WD~Uaboe District,473764]]"
-- "[[_Standards/WikiData/WD~Denigomodu District,1187200]]"
-- "[[_Standards/WikiData/WD~Yaren District,31026]]"
-anthem: "[[_Standards/WikiData/WD~Nauru Bwiema,209951]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Nauru,219719]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Nauru,628102]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Nauru,628102]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Nauru,775327]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Nauru,974648]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Nauru,1637805]]"
-culture: "[[_Standards/WikiData/WD~culture of Nauru,1771223]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Nauru,1972029]]"
+- "[[_Standards/WikiData/WD~Buada_District,202747]]"
+- "[[_Standards/WikiData/WD~Aiwo_District,240017]]"
+- "[[_Standards/WikiData/WD~Ewa_District,274381]]"
+- "[[_Standards/WikiData/WD~Meneng_District,327788]]"
+- "[[_Standards/WikiData/WD~Baiti_District,328727]]"
+- "[[_Standards/WikiData/WD~Anabar_District,328735]]"
+- "[[_Standards/WikiData/WD~Anibare_District,328733]]"
+- "[[_Standards/WikiData/WD~Ijuw_District,328738]]"
+- "[[_Standards/WikiData/WD~Nibok_District,378780]]"
+- "[[_Standards/WikiData/WD~Anetan_District,378813]]"
+- "[[_Standards/WikiData/WD~Boe_District,378829]]"
+- "[[_Standards/WikiData/WD~Uaboe_District,473764]]"
+- "[[_Standards/WikiData/WD~Denigomodu_District,1187200]]"
+- "[[_Standards/WikiData/WD~Yaren_District,31026]]"
+anthem: "[[_Standards/WikiData/WD~Nauru_Bwiema,209951]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Nauru,219719]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Nauru,628102]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Nauru,628102]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Nauru,775327]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Nauru,974648]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Nauru,1637805]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Nauru,1771223]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Nauru,1972029]]"
 coordinate_location: "Point(166.935 -0.5275)"
-electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Nauru,2387745]]"
-highest_point: "[[_Standards/WikiData/WD~Command Ridge,2667931]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Nauru,3044070]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Nauru,2387745]]"
+highest_point: "[[_Standards/WikiData/WD~Command_Ridge,2667931]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Nauru,3044070]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Micronesia,3359409]]'
 part_of: '[[_Standards/WikiData/WD~Micronesia,3359409]]'
 language_used:
-- "[[_Standards/WikiData/WD~Chinese Pidgin English,3435078]]"
+- "[[_Standards/WikiData/WD~Chinese_Pidgin_English,3435078]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Nauruan,13307]]'
 emergency_phone_number:
@@ -93,13 +93,13 @@ emergency_phone_number:
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nauru,8768648]]'
 category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q9688789,9688789]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Nauru,17004645]]"
-replaces: "[[_Standards/WikiData/WD~Trust Territory of Nauru,21816219]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Nauru,17004645]]"
+replaces: "[[_Standards/WikiData/WD~Trust_Territory_of_Nauru,21816219]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103545,27103545]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Pacific_Nauru,63285974]]'
 - '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
-head_of_government: "[[_Standards/WikiData/WD~Russ J Kun,109781648]]"
+head_of_government: "[[_Standards/WikiData/WD~Russ_J_Kun,109781648]]"
 demonym:
 - ناوروي
 - ناوروية
@@ -146,18 +146,18 @@ motto_text:
 coordinates_of_easternmost_point: "Point(166.95813 -0.521)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
-continent: "[[_Standards/WikiData/WD~Insular Oceania,538]]"
+continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 country: '[[_Standards/WikiData/WD~Nauru,697]]'
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Nauruan,13307]]'
-capital: "[[_Standards/WikiData/WD~Yaren District,31026]]"
-lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+capital: "[[_Standards/WikiData/WD~Yaren_District,31026]]"
+lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 rural_population: 0
 marriageable_age:
 - 16
@@ -173,7 +173,7 @@ female_population:
 - 5955
 - 6151
 - 6233
-head_of_state: "[[_Standards/WikiData/WD~David Adeang,58096]]"
+head_of_state: "[[_Standards/WikiData/WD~David_Adeang,58096]]"
 population: 13650
 ISO_3166_1_numeric_code: 520
 M49_code: 520

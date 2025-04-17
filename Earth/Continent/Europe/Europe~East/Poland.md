@@ -34,77 +34,77 @@ aliases:
 Languages:
 - pl
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - '[[_Standards/WikiData/WD~COMECON,191582]]'
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Visegrád Group,244323]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~International Centre for Migration Policy Development,498496]]"
-- "[[_Standards/WikiData/WD~Weimar Triangle,566397]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Visegrád_Group,244323]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
+- "[[_Standards/WikiData/WD~Weimar_Triangle,566397]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~Council of the Baltic Sea States,789769]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Strategic Airlift Capability,1579424]]"
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
-- "[[_Standards/WikiData/WD~International Monetary Fund,7804]]"
+- "[[_Standards/WikiData/WD~International_Monetary_Fund,7804]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~Warsaw Pact,41644]]"
-- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~Warsaw_Pact,41644]]"
+- "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
 public_holiday:
 - '[[_Standards/WikiData/WD~Epiphany,132001]]'
-- "[[_Standards/WikiData/WD~Feast of Corpus Christi,152395]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~National Independence Day,1342323]]"
-- "[[_Standards/WikiData/WD~Saint Stephen's Day,1366863]]"
-- "[[_Standards/WikiData/WD~May 3rd Constitution Day,3847743]]"
+- "[[_Standards/WikiData/WD~Feast_of_Corpus_Christi,152395]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~National_Independence_Day,1342323]]"
+- "[[_Standards/WikiData/WD~Saint_Stephen's_Day,1366863]]"
+- "[[_Standards/WikiData/WD~May_3rd_Constitution_Day,3847743]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
-- "[[_Standards/WikiData/WD~New Year,34812]]"
+- "[[_Standards/WikiData/WD~New_Year,34812]]"
 - '[[_Standards/WikiData/WD~Pentecost,39864]]'
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
-- "[[_Standards/WikiData/WD~Armed Forces Day,9396697]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- "[[_Standards/WikiData/WD~Armed_Forces_Day,9396697]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~Silesians,140472]]'
-- "[[_Standards/WikiData/WD~Ukrainians in Poland,951201]]"
+- "[[_Standards/WikiData/WD~Ukrainians_in_Poland,951201]]"
 - '[[_Standards/WikiData/WD~Poles,1026]]'
 - '[[_Standards/WikiData/WD~Germans,42884]]'
 language_used:
-- "[[_Standards/WikiData/WD~Silesian German,152965]]"
-- "[[_Standards/WikiData/WD~Polish Sign Language,3915194]]"
+- "[[_Standards/WikiData/WD~Silesian_German,152965]]"
+- "[[_Standards/WikiData/WD~Polish_Sign_Language,3915194]]"
 - '[[_Standards/WikiData/WD~Polish,809]]'
 - '[[_Standards/WikiData/WD~Lithuanian,9083]]'
 - '[[_Standards/WikiData/WD~Silesian,30319]]'
 - '[[_Standards/WikiData/WD~Esperanto,143]]'
 - '[[_Standards/WikiData/WD~German,188]]'
 - '[[_Standards/WikiData/WD~Kashubian,33690]]'
-- "[[_Standards/WikiData/WD~Old Prussian,35501]]"
+- "[[_Standards/WikiData/WD~Old_Prussian,35501]]"
 - '[[_Standards/WikiData/WD~Wymysorys,56485]]'
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Western Bug,156237]]"
+- "[[_Standards/WikiData/WD~Western_Bug,156237]]"
 - '[[_Standards/WikiData/WD~Opava,577026]]'
 - '[[_Standards/WikiData/WD~Jizera,582675]]'
 - '[[_Standards/WikiData/WD~Orava,737728]]'
@@ -112,86 +112,86 @@ located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Noteć,828869]]'
 - '[[_Standards/WikiData/WD~Dunajec,840694]]'
 - '[[_Standards/WikiData/WD~Olza,1331973]]'
-- "[[_Standards/WikiData/WD~Divoká Orlice,2142065]]"
+- "[[_Standards/WikiData/WD~Divoká_Orlice,2142065]]"
 - '[[_Standards/WikiData/WD~Białka,4176549]]'
-- "[[_Standards/WikiData/WD~Baltic Sea,545]]"
+- "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
 - '[[_Standards/WikiData/WD~Vistula,548]]'
 - '[[_Standards/WikiData/WD~Oder,552]]'
-- "[[_Standards/WikiData/WD~Lusatian Nysa,5602]]"
+- "[[_Standards/WikiData/WD~Lusatian_Nysa,5602]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~parliamentary system,166747]]"
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-- "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
-central_bank: "[[_Standards/WikiData/WD~Narodowy Bank Polski,168844]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Poland,170496]]"
+- "[[_Standards/WikiData/WD~parliamentary_system,166747]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+- "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
+central_bank: "[[_Standards/WikiData/WD~Narodowy_Bank_Polski,168844]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Poland,170496]]"
 named_after:
 - '[[_Standards/WikiData/WD~field,188869]]'
 - '[[_Standards/WikiData/WD~Polans,428713]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Poland,199569]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Poland,199569]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Central European Summer Time,207020]]"
+- "[[_Standards/WikiData/WD~Central_European_Summer_Time,207020]]"
 - '[[_Standards/WikiData/WD~Europe_Warsaw,5412129]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-- "[[_Standards/WikiData/WD~Central European Time,25989]]"
+- "[[_Standards/WikiData/WD~Central_European_Time,25989]]"
 different_from:
-- "[[_Standards/WikiData/WD~Second Polish Republic,207272]]"
-- "[[_Standards/WikiData/WD~Polish People's Republic,211274]]"
+- "[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]"
+- "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
 replaces:
-- "[[_Standards/WikiData/WD~Polish People's Republic,211274]]"
-- "[[_Standards/WikiData/WD~Congress Poland,221457]]"
-- "[[_Standards/WikiData/WD~Republic of Tarnobrzeg,303836]]"
-- "[[_Standards/WikiData/WD~Regency Council,7308003]]"
-- "[[_Standards/WikiData/WD~Rada Narodowa Księstwa Cieszyńskiego,9301958]]"
+- "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
+- "[[_Standards/WikiData/WD~Congress_Poland,221457]]"
+- "[[_Standards/WikiData/WD~Republic_of_Tarnobrzeg,303836]]"
+- "[[_Standards/WikiData/WD~Regency_Council,7308003]]"
+- "[[_Standards/WikiData/WD~Rada_Narodowa_Księstwa_Cieszyńskiego,9301958]]"
 patron_saint:
-- "[[_Standards/WikiData/WD~Adalbert of Prague,243427]]"
-- "[[_Standards/WikiData/WD~Stanislaus of Szczepanów,351635]]"
+- "[[_Standards/WikiData/WD~Adalbert_of_Prague,243427]]"
+- "[[_Standards/WikiData/WD~Stanislaus_of_Szczepanów,351635]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New History of Yuan,1053256]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-award_received: "[[_Standards/WikiData/WD~Thomas Merton Award,337620]]"
-anthem: "[[_Standards/WikiData/WD~Poland Is Not Yet Lost,482988]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Poland,600231]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+award_received: "[[_Standards/WikiData/WD~Thomas_Merton_Award,337620]]"
+anthem: "[[_Standards/WikiData/WD~Poland_Is_Not_Yet_Lost,482988]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Poland,600231]]"
 highest_point: '[[_Standards/WikiData/WD~Rysy,672936]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Poland,912121]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Poland,961507]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the Republic of Poland,1054799]]"
-has_cabinet: "[[_Standards/WikiData/WD~Council of Ministers,1338983]]"
-executive_body: "[[_Standards/WikiData/WD~Council of Ministers,1338983]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Poland,912121]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Poland,961507]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Republic_of_Poland,1054799]]"
+has_cabinet: "[[_Standards/WikiData/WD~Council_of_Ministers,1338983]]"
+executive_body: "[[_Standards/WikiData/WD~Council_of_Ministers,1338983]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Poland,1451222]]"
-culture: "[[_Standards/WikiData/WD~culture of Poland,1759877]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Poland,1998626]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Poland,2102558]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Poland,1451222]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Poland,1759877]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Poland,1998626]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Poland,2102558]]"
 lowest_point:
-- "[[_Standards/WikiData/WD~Raczki Elbląskie,2501207]]"
-- "[[_Standards/WikiData/WD~Żuławy Wiślane,3736104]]"
+- "[[_Standards/WikiData/WD~Raczki_Elbląskie,2501207]]"
+- "[[_Standards/WikiData/WD~Żuławy_Wiślane,3736104]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~999,3086706]]'
 - '[[_Standards/WikiData/WD~997,25648827]]'
 - '[[_Standards/WikiData/WD~998,25648832]]'
 - '[[_Standards/WikiData/WD~986,25648897]]'
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Poland,3259469]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Poland,3259469]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~country bordering the Baltic Sea,63791824]]"
-- "[[_Standards/WikiData/WD~successor state,127693126]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~country_bordering_the_Baltic_Sea,63791824]]"
+- "[[_Standards/WikiData/WD~successor_state,127693126]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Poland,6902205]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Poland,7112414]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Poland,7160149]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Voivodeships of Poland,7174665]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Poland,7112414]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Poland,7160149]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Voivodeships_of_Poland,7174665]]"
 demonym:
 - Πολωνός
 - polo
@@ -269,7 +269,7 @@ motto_text:
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Poland,23830473]]'
-open_data_portal: "[[_Standards/WikiData/WD~Poland's Open Data Portal,96997870]]"
+open_data_portal: "[[_Standards/WikiData/WD~Poland's_Open_Data_Portal,96997870]]"
 Baidu_Tieba_name: 波兰
 UMLS_CUI: C0032356
 ISNI:
@@ -280,17 +280,17 @@ Gregorian_calendar_start_date: "1582-10-15"
 coordinate_location: "Point(19.0 52.0)"
 coordinates_of_southernmost_point: "Point(22.84727097 49.00263222)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Mauritius,1027]]'
@@ -299,7 +299,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -317,8 +317,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -328,7 +328,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
@@ -336,17 +336,17 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
-- "[[_Standards/WikiData/WD~Vatican City,237]]"
+- "[[_Standards/WikiData/WD~Vatican_City,237]]"
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 capital: '[[_Standards/WikiData/WD~Warsaw,270]]'
 part_of:
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-- "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
-- "[[_Standards/WikiData/WD~Central Europe,27509]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
+- "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 official_language: '[[_Standards/WikiData/WD~Polish,809]]'
-head_of_government: "[[_Standards/WikiData/WD~Donald Tusk,946]]"
+head_of_government: "[[_Standards/WikiData/WD~Donald_Tusk,946]]"
 country: '[[_Standards/WikiData/WD~Poland,36]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Lithuania,37]]'
@@ -355,7 +355,7 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Belarus,184]]'
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 unemployment_rate: 3
 compulsory_education_minimum_age_: 6
@@ -401,26 +401,26 @@ death_rate:
 total_fertility_rate: 1.29
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.pl,37907]]'
 Gini_coefficient: 30.2
-flag: "[[_Standards/WikiData/WD~flag of Poland,42436]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Poland,42436]]"
 total_expenditure: 4.12
 Democracy_Index: 6.85
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Lower Silesian Voivodeship,54150]]"
-- "[[_Standards/WikiData/WD~Lublin Voivodeship,54155]]"
-- "[[_Standards/WikiData/WD~Kuyavian-Pomeranian Voivodeship,54153]]"
-- "[[_Standards/WikiData/WD~Łódź Voivodeship,54158]]"
-- "[[_Standards/WikiData/WD~Lesser Poland Voivodeship,54159]]"
-- "[[_Standards/WikiData/WD~Lubusz Voivodeship,54157]]"
-- "[[_Standards/WikiData/WD~Opole Voivodeship,54171]]"
-- "[[_Standards/WikiData/WD~Masovian Voivodeship,54169]]"
-- "[[_Standards/WikiData/WD~Subcarpathian Voivodeship,54175]]"
-- "[[_Standards/WikiData/WD~Podlaskie Voivodeship,54177]]"
-- "[[_Standards/WikiData/WD~Świętokrzyskie Voivodeship,54183]]"
-- "[[_Standards/WikiData/WD~Pomeranian Voivodeship,54180]]"
-- "[[_Standards/WikiData/WD~Silesian Voivodeship,54181]]"
-- "[[_Standards/WikiData/WD~Greater Poland Voivodeship,54187]]"
-- "[[_Standards/WikiData/WD~Warmian-Masurian Voivodeship,54184]]"
-- "[[_Standards/WikiData/WD~West Pomeranian Voivodeship,54188]]"
+- "[[_Standards/WikiData/WD~Lower_Silesian_Voivodeship,54150]]"
+- "[[_Standards/WikiData/WD~Lublin_Voivodeship,54155]]"
+- "[[_Standards/WikiData/WD~Kuyavian-Pomeranian_Voivodeship,54153]]"
+- "[[_Standards/WikiData/WD~Łódź_Voivodeship,54158]]"
+- "[[_Standards/WikiData/WD~Lesser_Poland_Voivodeship,54159]]"
+- "[[_Standards/WikiData/WD~Lubusz_Voivodeship,54157]]"
+- "[[_Standards/WikiData/WD~Opole_Voivodeship,54171]]"
+- "[[_Standards/WikiData/WD~Masovian_Voivodeship,54169]]"
+- "[[_Standards/WikiData/WD~Subcarpathian_Voivodeship,54175]]"
+- "[[_Standards/WikiData/WD~Podlaskie_Voivodeship,54177]]"
+- "[[_Standards/WikiData/WD~Świętokrzyskie_Voivodeship,54183]]"
+- "[[_Standards/WikiData/WD~Pomeranian_Voivodeship,54180]]"
+- "[[_Standards/WikiData/WD~Silesian_Voivodeship,54181]]"
+- "[[_Standards/WikiData/WD~Greater_Poland_Voivodeship,54187]]"
+- "[[_Standards/WikiData/WD~Warmian-Masurian_Voivodeship,54184]]"
+- "[[_Standards/WikiData/WD~West_Pomeranian_Voivodeship,54188]]"
 Inequality_adjusted_Human_Development_Index: 0.816
 Human_Development_Index: 0.876
 GS1_country_code: 590
@@ -502,7 +502,7 @@ coordinates_of_northernmost_point: "Point(18.292777777 54.835555555)"
 coordinates_of_easternmost_point: "Point(24.14563179 50.86940732)"
 U_S_National_Archives_Identifier: 10045341
 coordinates_of_westernmost_point: "Point(14.12326813 52.84135034)"
-head_of_state: "[[_Standards/WikiData/WD~Andrzej Duda,9151911]]"
+head_of_state: "[[_Standards/WikiData/WD~Andrzej_Duda,9151911]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Poland.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kietlice%20banner.jpg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/LocationPoland.svg"

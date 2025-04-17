@@ -4,33 +4,33 @@ uses:
 - '[[_Standards/WikiData/WD~combustion,133235]]'
 - '[[_Standards/WikiData/WD~projectile,49393]]'
 different_from:
-- "[[_Standards/WikiData/WD~cold weapon,222405]]"
-- "[[_Standards/WikiData/WD~pneumatic weapon,1260928]]"
-- "[[_Standards/WikiData/WD~explosive device,3054261]]"
-- "[[_Standards/WikiData/WD~draft weapon,30750835]]"
+- "[[_Standards/WikiData/WD~cold_weapon,222405]]"
+- "[[_Standards/WikiData/WD~pneumatic_weapon,1260928]]"
+- "[[_Standards/WikiData/WD~explosive_device,3054261]]"
+- "[[_Standards/WikiData/WD~draft_weapon,30750835]]"
 - '[[_Standards/WikiData/WD~gun,110155210]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~gun barrel,487192]]"
+- "[[_Standards/WikiData/WD~gun_barrel,487192]]"
 - '[[_Standards/WikiData/WD~sight,1134322]]'
 - '[[_Standards/WikiData/WD~receiver,11741880]]'
-- "[[_Standards/WikiData/WD~firearm component,107184001]]"
+- "[[_Standards/WikiData/WD~firearm_component,107184001]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~projectile weapon,1194773]]"
+- "[[_Standards/WikiData/WD~projectile_weapon,1194773]]"
 - '[[_Standards/WikiData/WD~gun,110155210]]'
-follows: "[[_Standards/WikiData/WD~early thermal weapons,2609860]]"
+follows: "[[_Standards/WikiData/WD~early_thermal_weapons,2609860]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox firearm,15966569]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_firearm,15966569]]"
 - '[[_Standards/WikiData/WD~Template_Firearms,117351333]]'
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~military equipment,18643213]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~military_equipment,18643213]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-connects_with: "[[_Standards/WikiData/WD~gun mount,97384104]]"
-instance_of: "[[_Standards/WikiData/WD~weapon functional class,124078422]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+connects_with: "[[_Standards/WikiData/WD~gun_mount,97384104]]"
+instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Gun%20from%20upper%20west%20region.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Small%20arms%20compilation.jpg"

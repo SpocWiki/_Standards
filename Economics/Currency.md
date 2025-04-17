@@ -1,29 +1,29 @@
 ---
 has_id_wikidata: Q8142
-model_item: "[[_Standards/WikiData/WD~Indian rupee,80524]]"
+model_item: "[[_Standards/WikiData/WD~Indian_rupee,80524]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 different_from:
-- "[[_Standards/WikiData/WD~foreign currencies,831772]]"
+- "[[_Standards/WikiData/WD~foreign_currencies,831772]]"
 - '[[_Standards/WikiData/WD~Currency,5194983]]'
 - '[[_Standards/WikiData/WD~Munt,6936966]]'
 - '[[_Standards/WikiData/WD~Devise,15220494]]'
 - '[[_Standards/WikiData/WD~Währung,110367783]]'
 - '[[_Standards/WikiData/WD~money,1368]]'
 - '[[_Standards/WikiData/WD~coin,41207]]'
-has_list: "[[_Standards/WikiData/WD~list of currencies,858338]]"
+has_list: "[[_Standards/WikiData/WD~list_of_currencies,858338]]"
 history_of_topic: '[[_Standards/WikiData/WD~Q3137262,3137262]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox currency,6453809]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~electronic money,6501095]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_currency,6453809]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~electronic_money,6501095]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~medium of exchange,11105360]]"
-- "[[_Standards/WikiData/WD~means of payment,65240001]]"
+- "[[_Standards/WikiData/WD~medium_of_exchange,11105360]]"
+- "[[_Standards/WikiData/WD~means_of_payment,65240001]]"
 - '[[_Standards/WikiData/WD~money,1368]]'
-- "[[_Standards/WikiData/WD~unit of measurement,47574]]"
-has_characteristic: "[[_Standards/WikiData/WD~currency unit,12039317]]"
+- "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
+has_characteristic: "[[_Standards/WikiData/WD~currency_unit,12039317]]"
 properties_for_this_type:
 - "currency symbol description"
 - "ISO 4217 code"

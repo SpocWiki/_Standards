@@ -3,20 +3,20 @@ aliases:
 - "Computer hardware"
 has_id_wikidata: Q3966
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~firmware,104851]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of computing hardware,186148]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_computing_hardware,186148]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~physical technological component,811909]]"
-- "[[_Standards/WikiData/WD~electronic device,2858615]]"
+- "[[_Standards/WikiData/WD~physical_technological_component,811909]]"
+- "[[_Standards/WikiData/WD~electronic_device,2858615]]"
 used_by:
-- "[[_Standards/WikiData/WD~device driver,1033951]]"
-- "[[_Standards/WikiData/WD~operating system,9135]]"
+- "[[_Standards/WikiData/WD~device_driver,1033951]]"
+- "[[_Standards/WikiData/WD~operating_system,9135]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox computer hardware,5857050]]"
-- "[[_Standards/WikiData/WD~Template_Basic computer components,6405082]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_computer_hardware,5857050]]"
+- "[[_Standards/WikiData/WD~Template_Basic_computer_components,6405082]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20from%20inside%20018.jpg"
 IEV_number: 171-01-20
 IPTC_NewsCode: mediatopic/20000226
-has_characteristic: "[[_Standards/WikiData/WD~form factor,24574728]]"
+has_characteristic: "[[_Standards/WikiData/WD~form_factor,24574728]]"
 Baidu_Tieba_name: 硬件
 properties_for_this_type:
 - "thermal design power"

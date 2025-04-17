@@ -1,156 +1,156 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Union for the Mediterranean,192177]]"
-- "[[_Standards/WikiData/WD~International Maritime Organization,201054]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~Arab Maghreb Union,370862]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Community of Sahel-Saharan States,605883]]"
-- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
-- "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~International Atomic Energy Agency,41984]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-- "[[_Standards/WikiData/WD~UN Tourism,61923]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
-- "[[_Standards/WikiData/WD~International Monetary Fund,7804]]"
+- "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Union_for_the_Mediterranean,192177]]"
+- "[[_Standards/WikiData/WD~International_Maritime_Organization,201054]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~Arab_Maghreb_Union,370862]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Community_of_Sahel-Saharan_States,605883]]"
+- "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
+- "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~UN_Tourism,61923]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
+- "[[_Standards/WikiData/WD~International_Monetary_Fund,7804]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Tunisia,162789]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Tunisia,162789]]"
 public_holiday:
 - '[[_Standards/WikiData/WD~Mawlid,193027]]'
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Isra and Mi'raj,381240]]"
-- "[[_Standards/WikiData/WD~Eid al-Fitr,464458]]"
-- "[[_Standards/WikiData/WD~Eid al-Adha,514400]]"
-- "[[_Standards/WikiData/WD~Islamic New Year,922388]]"
-- "[[_Standards/WikiData/WD~Evacuation Day,12228866]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
-- "[[_Standards/WikiData/WD~National Women's Day,20394044]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Tunisia,204949]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Isra_and_Mi'raj,381240]]"
+- "[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]"
+- "[[_Standards/WikiData/WD~Eid_al-Adha,514400]]"
+- "[[_Standards/WikiData/WD~Islamic_New_Year,922388]]"
+- "[[_Standards/WikiData/WD~Evacuation_Day,12228866]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- "[[_Standards/WikiData/WD~National_Women's_Day,20394044]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Tunisia,204949]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Ariana Governorate,233116]]"
-- "[[_Standards/WikiData/WD~Ben Arous Governorate,238555]]"
-- "[[_Standards/WikiData/WD~Bizerte Governorate,241129]]"
-- "[[_Standards/WikiData/WD~Sfax Governorate,241145]]"
-- "[[_Standards/WikiData/WD~Gabès Governorate,242263]]"
-- "[[_Standards/WikiData/WD~Gafsa Governorate,269968]]"
-- "[[_Standards/WikiData/WD~Sousse Governorate,276565]]"
-- "[[_Standards/WikiData/WD~Kairouan Governorate,276574]]"
-- "[[_Standards/WikiData/WD~Béja Governorate,276576]]"
-- "[[_Standards/WikiData/WD~Jendouba Governorate,276580]]"
-- "[[_Standards/WikiData/WD~Kebili Governorate,286063]]"
-- "[[_Standards/WikiData/WD~Monastir Governorate,318102]]"
-- "[[_Standards/WikiData/WD~Tataouine Governorate,327045]]"
-- "[[_Standards/WikiData/WD~Medenine Governorate,327087]]"
-- "[[_Standards/WikiData/WD~Sidi Bouzid Governorate,327097]]"
-- "[[_Standards/WikiData/WD~Tunis Governorate,328109]]"
-- "[[_Standards/WikiData/WD~Siliana Governorate,328115]]"
-- "[[_Standards/WikiData/WD~Nabeul Governorate,328145]]"
-- "[[_Standards/WikiData/WD~Mahdia Governorate,328164]]"
-- "[[_Standards/WikiData/WD~Kef Governorate,328199]]"
-- "[[_Standards/WikiData/WD~Kasserine Governorate,388047]]"
-- "[[_Standards/WikiData/WD~Tozeur Governorate,388059]]"
-- "[[_Standards/WikiData/WD~Manouba Governorate,734328]]"
-- "[[_Standards/WikiData/WD~Zaghouan Governorate,27916]]"
+- "[[_Standards/WikiData/WD~Ariana_Governorate,233116]]"
+- "[[_Standards/WikiData/WD~Ben_Arous_Governorate,238555]]"
+- "[[_Standards/WikiData/WD~Bizerte_Governorate,241129]]"
+- "[[_Standards/WikiData/WD~Sfax_Governorate,241145]]"
+- "[[_Standards/WikiData/WD~Gabès_Governorate,242263]]"
+- "[[_Standards/WikiData/WD~Gafsa_Governorate,269968]]"
+- "[[_Standards/WikiData/WD~Sousse_Governorate,276565]]"
+- "[[_Standards/WikiData/WD~Kairouan_Governorate,276574]]"
+- "[[_Standards/WikiData/WD~Béja_Governorate,276576]]"
+- "[[_Standards/WikiData/WD~Jendouba_Governorate,276580]]"
+- "[[_Standards/WikiData/WD~Kebili_Governorate,286063]]"
+- "[[_Standards/WikiData/WD~Monastir_Governorate,318102]]"
+- "[[_Standards/WikiData/WD~Tataouine_Governorate,327045]]"
+- "[[_Standards/WikiData/WD~Medenine_Governorate,327087]]"
+- "[[_Standards/WikiData/WD~Sidi_Bouzid_Governorate,327097]]"
+- "[[_Standards/WikiData/WD~Tunis_Governorate,328109]]"
+- "[[_Standards/WikiData/WD~Siliana_Governorate,328115]]"
+- "[[_Standards/WikiData/WD~Nabeul_Governorate,328145]]"
+- "[[_Standards/WikiData/WD~Mahdia_Governorate,328164]]"
+- "[[_Standards/WikiData/WD~Kef_Governorate,328199]]"
+- "[[_Standards/WikiData/WD~Kasserine_Governorate,388047]]"
+- "[[_Standards/WikiData/WD~Tozeur_Governorate,388059]]"
+- "[[_Standards/WikiData/WD~Manouba_Governorate,734328]]"
+- "[[_Standards/WikiData/WD~Zaghouan_Governorate,27916]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Seto,499493]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Tunisia,526548]]"
-lowest_point: "[[_Standards/WikiData/WD~Shatt al Gharsah,590855]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Tunisia,600137]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Tunisia,526548]]"
+lowest_point: "[[_Standards/WikiData/WD~Shatt_al_Gharsah,590855]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Tunisia,600137]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 language_used:
 - '[[_Standards/WikiData/WD~Sabir,636479]]'
-- "[[_Standards/WikiData/WD~Jerba Berber,3807949]]"
-- "[[_Standards/WikiData/WD~Matmata Berber,6787694]]"
-- "[[_Standards/WikiData/WD~Tunisian Sign Language,7853191]]"
+- "[[_Standards/WikiData/WD~Jerba_Berber,3807949]]"
+- "[[_Standards/WikiData/WD~Matmata_Berber,6787694]]"
+- "[[_Standards/WikiData/WD~Tunisian_Sign_Language,7853191]]"
 - '[[_Standards/WikiData/WD~French,150]]'
-- "[[_Standards/WikiData/WD~Tunisian Arabic,56240]]"
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Tunisian_Arabic,56240]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
 - '[[_Standards/WikiData/WD~Sened,56570]]'
-- "[[_Standards/WikiData/WD~Judeo-Tunisian Arabic,56597]]"
+- "[[_Standards/WikiData/WD~Judeo-Tunisian_Arabic,56597]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Malay,9237]]'
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
-anthem: "[[_Standards/WikiData/WD~Humat Al Hima,682679]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Tunisia,900419]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Tunisia,942912]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Tunisia,1064106]]"
-highest_point: "[[_Standards/WikiData/WD~Jebel ech Chambi,1232136]]"
+anthem: "[[_Standards/WikiData/WD~Humat_Al_Hima,682679]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Tunisia,900419]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Tunisia,942912]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Tunisia,1064106]]"
+highest_point: "[[_Standards/WikiData/WD~Jebel_ech_Chambi,1232136]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-replaces: "[[_Standards/WikiData/WD~French protectorate of Tunisia,2017684]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Tunisia,2587341]]"
-culture: "[[_Standards/WikiData/WD~culture of Tunisia,2663901]]"
-archives_at: "[[_Standards/WikiData/WD~National Archives of Tunisia,2860551]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Tunisia,2914386]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+replaces: "[[_Standards/WikiData/WD~French_protectorate_of_Tunisia,2017684]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Tunisia,2587341]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Tunisia,2663901]]"
+archives_at: "[[_Standards/WikiData/WD~National_Archives_of_Tunisia,2860551]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Tunisia,2914386]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-- "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
+- "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+- "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Tunis,4689524]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-- "[[_Standards/WikiData/WD~Central European Time,25989]]"
-follows: "[[_Standards/WikiData/WD~Beylik of Tunis,4899891]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Tunisia,7112493]]"
+- "[[_Standards/WikiData/WD~Central_European_Time,25989]]"
+follows: "[[_Standards/WikiData/WD~Beylik_of_Tunis,4899891]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Tunisia,7112493]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tunisia,11646442]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Tunisia,14911897]]"
-head_of_state: "[[_Standards/WikiData/WD~Kais Saied,16120878]]"
-visitor_center: "[[_Standards/WikiData/WD~Tunisian National Tourist Office,16667842]]"
-legislative_body: "[[_Standards/WikiData/WD~Assembly of the Representatives of the People,18342090]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Tunisia,14911897]]"
+head_of_state: "[[_Standards/WikiData/WD~Kais_Saied,16120878]]"
+visitor_center: "[[_Standards/WikiData/WD~Tunisian_National_Tourist_Office,16667842]]"
+legislative_body: "[[_Standards/WikiData/WD~Assembly_of_the_Representatives_of_the_People,18342090]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
 - '[[_Standards/WikiData/WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 number_of_out_of_school_children: 100000
 speed_limit:
 - 50
@@ -227,14 +227,14 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~190,25648833]]'
 - '[[_Standards/WikiData/WD~198,25648880]]'
 - '[[_Standards/WikiData/WD~197,25743553]]'
-award_received: "[[_Standards/WikiData/WD~The Economist country of the year,47004555]]"
+award_received: "[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555]]"
 part_of:
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-- "[[_Standards/WikiData/WD~North Africa,27381]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~North_Africa,27381]]"
 coordinate_location: "Point(10.0 34.0)"
 coordinates_of_northernmost_point: "Point(8.95 37.55)"
 coordinates_of_southernmost_point: "Point(9.556437851 30.228105748)"
-head_of_government: "[[_Standards/WikiData/WD~Ahmed Hachani,121088468]]"
+head_of_government: "[[_Standards/WikiData/WD~Ahmed_Hachani,121088468]]"
 Wolfram_Language_entity_code:
 - "Entity[\"Concept\", \"RepublicOfTunisia::f4688\"]"
 - "Entity[\"HistoricalCountry\", \"Tunisia\"]"
@@ -320,7 +320,7 @@ shares_border_with:
 country: '[[_Standards/WikiData/WD~Tunisia,948]]'
 named_after: '[[_Standards/WikiData/WD~Tunis,3572]]'
 capital: '[[_Standards/WikiData/WD~Tunis,3572]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 Dewey_Decimal_Classification: 2--611

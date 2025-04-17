@@ -31,45 +31,45 @@ aliases:
 Languages:
 - en-BW
 - tn-BW
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Botswana,107282]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Botswana,107282]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 different_from: '[[_Standards/WikiData/WD~Bophuthatswana,158236]]'
-flag: "[[_Standards/WikiData/WD~flag of Botswana,160242]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Botswana,160242]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Southern African Development Community,816706]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Southern African Customs Union,1344350]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Southern_African_Customs_Union,1344350]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-lowest_point: "[[_Standards/WikiData/WD~Limpopo River,173017]]"
-anthem: "[[_Standards/WikiData/WD~Fatshe leno la rona,221708]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+lowest_point: "[[_Standards/WikiData/WD~Limpopo_River,173017]]"
+anthem: "[[_Standards/WikiData/WD~Fatshe_leno_la_rona,221708]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~999,3086706]]'
 - '[[_Standards/WikiData/WD~997,25648827]]'
 - '[[_Standards/WikiData/WD~998,25648832]]'
-culture: "[[_Standards/WikiData/WD~culture of Botswana,615952]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Botswana,615952]]"
 language_used:
-- "[[_Standards/WikiData/WD~Ekoka !Kung,616533]]"
+- "[[_Standards/WikiData/WD~Ekoka_!Kung,616533]]"
 - '[[_Standards/WikiData/WD~Tshwa,963636]]'
 - '[[_Standards/WikiData/WD~Juǀʼhoansi,1192295]]'
 - '[[_Standards/WikiData/WD~Gǁana,1975199]]'
@@ -95,37 +95,37 @@ language_used:
 - '[[_Standards/WikiData/WD~Lozi,33628]]'
 - '[[_Standards/WikiData/WD~Kalanga,33672]]'
 - '[[_Standards/WikiData/WD~Tswana,34137]]'
-- "[[_Standards/WikiData/WD~Northern Ndebele,35613]]"
-replaces: "[[_Standards/WikiData/WD~Bechuanaland Protectorate,747314]]"
-follows: "[[_Standards/WikiData/WD~Bechuanaland Protectorate,747314]]"
-named_after: "[[_Standards/WikiData/WD~Tswana people,810917]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of Botswana,859658]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Botswana,859830]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Botswana,866725]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Botswana,866725]]"
+- "[[_Standards/WikiData/WD~Northern_Ndebele,35613]]"
+replaces: "[[_Standards/WikiData/WD~Bechuanaland_Protectorate,747314]]"
+follows: "[[_Standards/WikiData/WD~Bechuanaland_Protectorate,747314]]"
+named_after: "[[_Standards/WikiData/WD~Tswana_people,810917]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Botswana,859658]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Botswana,859830]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Botswana,866725]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Botswana,866725]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Central Africa Time,1053705]]"
+- "[[_Standards/WikiData/WD~Central_Africa_Time,1053705]]"
 - '[[_Standards/WikiData/WD~Africa_Gaborone,4689494]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Botswana,1148292]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Botswana,1148292]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~BS 546,1383497]]"
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Botswana,1777198]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Botswana,2333386]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Botswana,2595400]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~BS_546,1383497]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Botswana,1777198]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Botswana,2333386]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Botswana,2595400]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-highest_point: "[[_Standards/WikiData/WD~Otse Hill,3491942]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Botswana,7112207]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+highest_point: "[[_Standards/WikiData/WD~Otse_Hill,3491942]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Botswana,7112207]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Botswana,11303917]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-head_of_state: "[[_Standards/WikiData/WD~Duma Boko,18618881]]"
-head_of_government: "[[_Standards/WikiData/WD~Mokgweetsi Masisi,18618891]]"
+head_of_state: "[[_Standards/WikiData/WD~Duma_Boko,18618881]]"
+head_of_government: "[[_Standards/WikiData/WD~Mokgweetsi_Masisi,18618891]]"
 category_for_people_buried_here: '[[_Standards/WikiData/WD~Q74562676,74562676]]'
 coordinates_of_southernmost_point: "Point(20.68744 -26.90614)"
 demonym:
@@ -183,30 +183,30 @@ nominal_GDP:
 - 18737066307
 coordinates_of_northernmost_point: "Point(25.17 -17.78)"
 shares_border_with:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Namibia,1030]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Namibia,1030]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 country: '[[_Standards/WikiData/WD~Botswana,963]]'
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
 capital: '[[_Standards/WikiData/WD~Gaborone,3919]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern Africa,27394]]"
-part_of: "[[_Standards/WikiData/WD~Southern Africa,27394]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-separated_from: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+separated_from: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 BTI_Status_Index:
 - 8
 - 7.59
@@ -246,15 +246,15 @@ death_rate:
 - 9.461
 Democracy_Index: 7.62
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Central District,57525]]"
-- "[[_Standards/WikiData/WD~Ghanzi District,57571]]"
-- "[[_Standards/WikiData/WD~Kgalagadi District,57581]]"
-- "[[_Standards/WikiData/WD~Kgatleng District,57593]]"
-- "[[_Standards/WikiData/WD~Kweneng District,57599]]"
-- "[[_Standards/WikiData/WD~Southern District,57609]]"
-- "[[_Standards/WikiData/WD~North-West District,57617]]"
-- "[[_Standards/WikiData/WD~North-East District,57636]]"
-- "[[_Standards/WikiData/WD~South-East District,57695]]"
+- "[[_Standards/WikiData/WD~Central_District,57525]]"
+- "[[_Standards/WikiData/WD~Ghanzi_District,57571]]"
+- "[[_Standards/WikiData/WD~Kgalagadi_District,57581]]"
+- "[[_Standards/WikiData/WD~Kgatleng_District,57593]]"
+- "[[_Standards/WikiData/WD~Kweneng_District,57599]]"
+- "[[_Standards/WikiData/WD~Southern_District,57609]]"
+- "[[_Standards/WikiData/WD~North-West_District,57617]]"
+- "[[_Standards/WikiData/WD~North-East_District,57636]]"
+- "[[_Standards/WikiData/WD~South-East_District,57695]]"
 total_fertility_rate: 2.836
 IAB_code: 1258
 ISO_3166_1_numeric_code: 072

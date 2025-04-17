@@ -1,18 +1,18 @@
 ﻿---
 has_id_wikidata: Q11438
 different_from:
-- "[[_Standards/WikiData/WD~physical object,223557]]"
-- "[[_Standards/WikiData/WD~solid figure,937946]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~physical_object,223557]]"
+- "[[_Standards/WikiData/WD~solid_figure,937946]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 studied_in:
-- "[[_Standards/WikiData/WD~solid-state physics,715396]]"
-- "[[_Standards/WikiData/WD~solid mechanics,1080293]]"
+- "[[_Standards/WikiData/WD~solid-state_physics,715396]]"
+- "[[_Standards/WikiData/WD~solid_mechanics,1080293]]"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9734169,9734169]]'
 instance_of:
-- "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
-- "[[_Standards/WikiData/WD~physical state,66591990]]"
-- "[[_Standards/WikiData/WD~state of matter,11430]]"
-manifestation_of: "[[_Standards/WikiData/WD~solid state of matter,29115074]]"
+- "[[_Standards/WikiData/WD~fundamental_state_of_matter,15831576]]"
+- "[[_Standards/WikiData/WD~physical_state,66591990]]"
+- "[[_Standards/WikiData/WD~state_of_matter,11430]]"
+manifestation_of: "[[_Standards/WikiData/WD~solid_state_of_matter,29115074]]"
 subclass_of: '[[_Standards/WikiData/WD~matter,35758]]'
 OmegaWiki_Defined_Meaning: 3546
 Colon_Classification: C21

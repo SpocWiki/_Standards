@@ -4,11 +4,11 @@ aliases:
   - Copper Age
   - Eneolithic
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~archaeological period,15401633]]"
-has_part_s_: "[[_Standards/WikiData/WD~Early Chalcolithic,108064585]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+has_part_s_: "[[_Standards/WikiData/WD~Early_Chalcolithic,108064585]]"
 start_time: -7500 
 has_time_started: -7500
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marcilly-le-Hayer%20Dolmen%20des%20Blancs%20Foss%C3%A9s.jpg

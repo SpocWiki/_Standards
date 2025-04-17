@@ -101,10 +101,10 @@ native_label:
 - "Республика Беларусь"
 - Беларусь
 motto_text: "Hospitality Beyond Borders"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Belarus,12379704]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Belarus,12379704]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Belarus,14605774]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Belarus,14605774]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Europe_Minsk,16886728]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
@@ -112,20 +112,20 @@ top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.бел,18109066]]'
 - '[[_Standards/WikiData/WD~.by,39870]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~101,25648794]]'
 - '[[_Standards/WikiData/WD~102,25648798]]'
 - '[[_Standards/WikiData/WD~103,25648811]]'
-head_of_government: "[[_Standards/WikiData/WD~Roman Golovchenko,27043179]]"
+head_of_government: "[[_Standards/WikiData/WD~Roman_Golovchenko,27043179]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q27102928,27102928]]'
 - '[[_Standards/WikiData/WD~Q116189221,116189221]]'
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 coordinate_location: "Point(28.046666666 53.528333333)"
 UMLS_CUI: C0006539
 coordinates_of_easternmost_point: "Point(32.776805555 53.392944444)"
@@ -137,8 +137,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
@@ -149,7 +149,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -161,7 +161,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Greece,41]]'
 - '[[_Standards/WikiData/WD~Netherlands,55]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -169,7 +169,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
@@ -178,75 +178,75 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Malta,233]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Poland,36]]'
 - '[[_Standards/WikiData/WD~Lithuania,37]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Latvia,211]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
 member_of:
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Independent States,7779]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~Non-Aligned Movement,83201]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~Union State,166110]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Eastern Partnership,208019]]"
-- "[[_Standards/WikiData/WD~Collective Security Treaty Organization,318693]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Eurasian Economic Community,473996]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Independent States Free Trade Area,1702783]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~Non-Aligned_Movement,83201]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~Union_State,166110]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Eastern_Partnership,208019]]"
+- "[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Eurasian_Economic_Community,473996]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Minsk,2280]]'
-- "[[_Standards/WikiData/WD~Brest Region,173822]]"
-- "[[_Standards/WikiData/WD~Vitebsk Region,185700]]"
-- "[[_Standards/WikiData/WD~Gomel Region,188732]]"
-- "[[_Standards/WikiData/WD~Mogilev Region,189822]]"
-- "[[_Standards/WikiData/WD~Grodno Region,191061]]"
-- "[[_Standards/WikiData/WD~Minsk Region,192959]]"
+- "[[_Standards/WikiData/WD~Brest_Region,173822]]"
+- "[[_Standards/WikiData/WD~Vitebsk_Region,185700]]"
+- "[[_Standards/WikiData/WD~Gomel_Region,188732]]"
+- "[[_Standards/WikiData/WD~Mogilev_Region,189822]]"
+- "[[_Standards/WikiData/WD~Grodno_Region,191061]]"
+- "[[_Standards/WikiData/WD~Minsk_Region,192959]]"
 capital: '[[_Standards/WikiData/WD~Minsk,2280]]'
-head_of_state: "[[_Standards/WikiData/WD~Alexander Lukashenko,2866]]"
+head_of_state: "[[_Standards/WikiData/WD~Alexander_Lukashenko,2866]]"
 replaces:
-- "[[_Standards/WikiData/WD~Byelorussian Soviet Socialist Republic,2895]]"
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- "[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_First-level administrative divisions of Belarus,4973]]"
-- "[[_Standards/WikiData/WD~Template_Belarus topics,6714449]]"
+- "[[_Standards/WikiData/WD~Template_First-level_administrative_divisions_of_Belarus,4973]]"
+- "[[_Standards/WikiData/WD~Template_Belarus_topics,6714449]]"
 lowest_point: '[[_Standards/WikiData/WD~Neman,5622]]'
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-- "[[_Standards/WikiData/WD~social state,619610]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+- "[[_Standards/WikiData/WD~social_state,619610]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 language_used: '[[_Standards/WikiData/WD~Russian,7737]]'
 official_language: '[[_Standards/WikiData/WD~Russian,7737]]'
-separated_from: "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+separated_from: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 public_holiday:
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
 - '[[_Standards/WikiData/WD~Easter,21196]]'
-- "[[_Standards/WikiData/WD~International Women's Day,38964]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Victory Day,270706]]"
+- "[[_Standards/WikiData/WD~International_Women's_Day,38964]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Victory_Day,270706]]"
 - '[[_Standards/WikiData/WD~Radonitsa,2997731]]'
-- "[[_Standards/WikiData/WD~October Revolution Day,4158109]]"
-- "[[_Standards/WikiData/WD~Independence Day,4158131]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
-part_of: "[[_Standards/WikiData/WD~Eastern Europe,27468]]"
+- "[[_Standards/WikiData/WD~October_Revolution_Day,4158109]]"
+- "[[_Standards/WikiData/WD~Independence_Day,4158131]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
+part_of: "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 literacy_rate: 100
 country: '[[_Standards/WikiData/WD~Belarus,184]]'
@@ -294,7 +294,7 @@ ISO_3166_1_numeric_code: 112
 M49_code: 112
 maritime_identification_digits: 206
 trunk_prefix: 8
-basic_form_of_government: "[[_Standards/WikiData/WD~presidential system,49892]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~presidential_system,49892]]"
 Inequality_adjusted_Human_Development_Index: 0.765
 Human_Development_Index: 0.808
 IAB_code: 1248
@@ -322,27 +322,27 @@ number_of_out_of_school_children: 18425
 GS1_country_code: 481
 OmegaWiki_Defined_Meaning: 7845
 FIPS_10_4_countries_and_regions_: BO
-different_from: "[[_Standards/WikiData/WD~White movement,104309]]"
-flag: "[[_Standards/WikiData/WD~flag of Belarus,132633]]"
-anthem: "[[_Standards/WikiData/WD~My Belarusy,166350]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Belarus,179602]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Belarus,275396]]"
-central_bank: "[[_Standards/WikiData/WD~National Bank of the Republic of Belarus,431491]]"
-named_after: "[[_Standards/WikiData/WD~White Ruthenia,465341]]"
-official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Shanghai Cooperation Organisation,485207]]"
-highest_point: "[[_Standards/WikiData/WD~Dzyarzhynskaya Hara,921447]]"
-executive_body: "[[_Standards/WikiData/WD~Council of Ministers of the Republic of Belarus,997640]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Belarus,1049659]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Belarus,1116540]]"
+different_from: "[[_Standards/WikiData/WD~White_movement,104309]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Belarus,132633]]"
+anthem: "[[_Standards/WikiData/WD~My_Belarusy,166350]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Belarus,179602]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Belarus,275396]]"
+central_bank: "[[_Standards/WikiData/WD~National_Bank_of_the_Republic_of_Belarus,431491]]"
+named_after: "[[_Standards/WikiData/WD~White_Ruthenia,465341]]"
+official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]"
+highest_point: "[[_Standards/WikiData/WD~Dzyarzhynskaya_Hara,921447]]"
+executive_body: "[[_Standards/WikiData/WD~Council_of_Ministers_of_the_Republic_of_Belarus,997640]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Belarus,1049659]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Belarus,1116540]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-culture: "[[_Standards/WikiData/WD~culture of Belarus,1445079]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of the Republic of Belarus,1798607]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Belarus,1902968]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Belarus,2415464]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Belarus,3001108]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Belarus,7112199]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Belarus,1445079]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_the_Republic_of_Belarus,1798607]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Belarus,1902968]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Belarus,2415464]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Belarus,3001108]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Belarus,7112199]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Belarus,8133908]]'
 category_of_associated_people: '[[_Standards/WikiData/WD~Q9078845,9078845]]'
 geoshape: "http://commons.wikimedia.org/data/main/Data:Belarus.map"

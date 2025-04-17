@@ -6,11 +6,11 @@ aliases:
 - "rustless steel"
 - "corrosion-resistant steel"
 - CRES
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Harry Brearley,470651]]"
-subclass_of: "[[_Standards/WikiData/WD~alloy steel,1070521]]"
-different_from: "[[_Standards/WikiData/WD~high-quality steel,1283378]]"
-has_characteristic: "[[_Standards/WikiData/WD~corrosion resistance,4234269]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of stainless steel,90563588]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Harry_Brearley,470651]]"
+subclass_of: "[[_Standards/WikiData/WD~alloy_steel,1070521]]"
+different_from: "[[_Standards/WikiData/WD~high-quality_steel,1283378]]"
+has_characteristic: "[[_Standards/WikiData/WD~corrosion_resistance,4234269]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_stainless_steel,90563588]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-rostfreier%20Stahl.wav"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stainless%20Steel%20Seamless%20Pipe%20and%20Tube.jpg"
 CAS_Registry_Number: 12597-68-1

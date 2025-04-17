@@ -26,28 +26,28 @@ has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
 subject_has_role:
 - '[[_Standards/WikiData/WD~allergen,186752]]'
 - '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- "[[_Standards/WikiData/WD~trace metal,7831165]]"
+- "[[_Standards/WikiData/WD~trace_metal,7831165]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 9,208107]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Georg Brandt,473225]]"
+- "[[_Standards/WikiData/WD~group_9,208107]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Georg_Brandt,473225]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 - '[[_Standards/WikiData/WD~Cobalt,84680734]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 named_after: '[[_Standards/WikiData/WD~kobold,1064669]]'
-subclass_of: "[[_Standards/WikiData/WD~simple substance,2512777]]"
-associated_hazard: "[[_Standards/WikiData/WD~cobalt poisoning,5138720]]"
-has_effect: "[[_Standards/WikiData/WD~cobalt poisoning,5138720]]"
+subclass_of: "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+associated_hazard: "[[_Standards/WikiData/WD~cobalt_poisoning,5138720]]"
+has_effect: "[[_Standards/WikiData/WD~cobalt_poisoning,5138720]]"
 UMLS_CUI: C0009148
 time_of_discovery_or_invention: "1735"
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 vapor_pressure: 0
 time_weighted_average_exposure_limit:
 - 0.1

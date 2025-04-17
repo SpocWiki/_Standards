@@ -89,24 +89,24 @@ name_in_native_language:
 native_label:
 - "Bosna i Hercegovina"
 - "Bosna i Hercegovina"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Bosnia and Herzegovina,10815261]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Bosnia_and_Herzegovina,10815261]]"
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~post-Yugoslavia states,10860602]]"
+- "[[_Standards/WikiData/WD~post-Yugoslavia_states,10860602]]"
 - '[[_Standards/WikiData/WD~Balkans,23522]]'
 head_of_state:
-- "[[_Standards/WikiData/WD~Denis Bećirović,13081568]]"
-- "[[_Standards/WikiData/WD~Željko Komšić,297825]]"
-- "[[_Standards/WikiData/WD~Željka Cvijanović,5528031]]"
+- "[[_Standards/WikiData/WD~Denis_Bećirović,13081568]]"
+- "[[_Standards/WikiData/WD~Željko_Komšić,297825]]"
+- "[[_Standards/WikiData/WD~Željka_Cvijanović,5528031]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Chairman of the Council of Ministers of Bosnia and Herzegovina,16020744]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Chairman_of_the_Council_of_Ministers_of_Bosnia_and_Herzegovina,16020744]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~122,25648812]]'
 - '[[_Standards/WikiData/WD~124,25648826]]'
@@ -116,14 +116,14 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~Europe_Sarajevo,28148751]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-- "[[_Standards/WikiData/WD~Central European Time,25989]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+- "[[_Standards/WikiData/WD~Central_European_Time,25989]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 instance_of:
-- "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
+- "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~constitutional republic,1520223]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Bosnia and Herzegovina,97061978]]"
+- "[[_Standards/WikiData/WD~constitutional_republic,1520223]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Bosnia_and_Herzegovina,97061978]]"
 UMLS_CUI: C0006036
 coordinates_of_northernmost_point: "Point(16.93 45.28)"
 nominal_GDP:
@@ -131,35 +131,35 @@ nominal_GDP:
 - 24527507288
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Romania,218]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Croatia,224]]'
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~England,21]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
 - '[[_Standards/WikiData/WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Croatia,224]]'
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-country: "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+country: "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 suicide_rate:
 - 8
 - 8.8
@@ -185,7 +185,7 @@ retirement_age: 65
 Human_Development_Index: 0.78
 literacy_rate: 97
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ba,39661]]'
-official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 Happy_Planet_Index_score: 47.8
 Democracy_Index: 4.84
 trunk_prefix: 0
@@ -273,30 +273,30 @@ religion_or_worldview:
 - '[[_Standards/WikiData/WD~Islam,432]]'
 - '[[_Standards/WikiData/WD~Catholicism,1841]]'
 - '[[_Standards/WikiData/WD~Judaism,9268]]'
-- "[[_Standards/WikiData/WD~Eastern Orthodoxy,3333484]]"
+- "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
 member_of:
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~International Centre for Migration Policy Development,498496]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-- "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
+- "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+- "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
 official_language:
 - '[[_Standards/WikiData/WD~Croatian,6654]]'
 - '[[_Standards/WikiData/WD~Serbian,9299]]'
@@ -307,42 +307,42 @@ language_used:
 - '[[_Standards/WikiData/WD~Bosnian,9303]]'
 basic_form_of_government:
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~federal republic,512187]]"
+- "[[_Standards/WikiData/WD~federal_republic,512187]]"
 capital: '[[_Standards/WikiData/WD~Sarajevo,11194]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Federation of Bosnia and Herzegovina,11198]]"
-- "[[_Standards/WikiData/WD~Republika Srpska,11196]]"
-- "[[_Standards/WikiData/WD~Brčko District,194483]]"
+- "[[_Standards/WikiData/WD~Federation_of_Bosnia_and_Herzegovina,11198]]"
+- "[[_Standards/WikiData/WD~Republika_Srpska,11196]]"
+- "[[_Standards/WikiData/WD~Brčko_District,194483]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Federation of Bosnia and Herzegovina,11198]]"
-- "[[_Standards/WikiData/WD~Republika Srpska,11196]]"
-lowest_point: "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
+- "[[_Standards/WikiData/WD~Federation_of_Bosnia_and_Herzegovina,11198]]"
+- "[[_Standards/WikiData/WD~Republika_Srpska,11196]]"
+lowest_point: "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
 part_of:
-- "[[_Standards/WikiData/WD~Southern Europe,27449]]"
-- "[[_Standards/WikiData/WD~Southeast Europe,263686]]"
+- "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
+- "[[_Standards/WikiData/WD~Southeast_Europe,263686]]"
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
-flag: "[[_Standards/WikiData/WD~flag of Bosnia and Herzegovina,162033]]"
-anthem: "[[_Standards/WikiData/WD~national anthem of Bosnia and Herzegovina,188662]]"
-different_from: "[[_Standards/WikiData/WD~Autonomous Province of Western Bosnia,192262]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Bosnia and Herzegovina,199862]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Bosnia and Herzegovina,200128]]"
-head_of_government: "[[_Standards/WikiData/WD~Borjana Krišto,387491]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Bosnia_and_Herzegovina,162033]]"
+anthem: "[[_Standards/WikiData/WD~national_anthem_of_Bosnia_and_Herzegovina,188662]]"
+different_from: "[[_Standards/WikiData/WD~Autonomous_Province_of_Western_Bosnia,192262]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Bosnia_and_Herzegovina,199862]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Bosnia_and_Herzegovina,200128]]"
+head_of_government: "[[_Standards/WikiData/WD~Borjana_Krišto,387491]]"
 highest_point: '[[_Standards/WikiData/WD~Maglić,837723]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Presidency of Bosnia and Herzegovina,844944]]"
-culture: "[[_Standards/WikiData/WD~culture of Bosnia and Herzegovina,1019094]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Presidency_of_Bosnia_and_Herzegovina,844944]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Bosnia_and_Herzegovina,1019094]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Bosnia and Herzegovina,1184535]]"
-replaces: "[[_Standards/WikiData/WD~Republic of Bosnia and Herzegovina,1274468]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Bosnia and Herzegovina,1275640]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Bosnia and Herzegovina,1778260]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Bosnia and Herzegovina,2039345]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliamentary Assembly of Bosnia and Herzegovina,2604031]]"
-executive_body: "[[_Standards/WikiData/WD~Council of Ministers of Bosnia and Herzegovina,5176455]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~Council of Ministers of Bosnia and Herzegovina,5176455]]"
-public_holiday: "[[_Standards/WikiData/WD~Independence Day,6015972]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Bosnia and Herzegovina,7112205]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Bosnia_and_Herzegovina,1184535]]"
+replaces: "[[_Standards/WikiData/WD~Republic_of_Bosnia_and_Herzegovina,1274468]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Bosnia_and_Herzegovina,1275640]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bosnia_and_Herzegovina,1778260]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bosnia_and_Herzegovina,2039345]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliamentary_Assembly_of_Bosnia_and_Herzegovina,2604031]]"
+executive_body: "[[_Standards/WikiData/WD~Council_of_Ministers_of_Bosnia_and_Herzegovina,5176455]]"
+applies_to_jurisdiction: "[[_Standards/WikiData/WD~Council_of_Ministers_of_Bosnia_and_Herzegovina,5176455]]"
+public_holiday: "[[_Standards/WikiData/WD~Independence_Day,6015972]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bosnia_and_Herzegovina,7112205]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Bosnia.map"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Bosnien-Herzegowina.ogg"

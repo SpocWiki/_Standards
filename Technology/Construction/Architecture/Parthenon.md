@@ -9,31 +9,31 @@ architect:
 - '[[_Standards/WikiData/WD~Callicrates,114112]]'
 - '[[_Standards/WikiData/WD~Phidias,177302]]'
 - '[[_Standards/WikiData/WD~Ictinus,311502]]'
-part_of: "[[_Standards/WikiData/WD~Acropolis of Athens,131013]]"
+part_of: "[[_Standards/WikiData/WD~Acropolis_of_Athens,131013]]"
 architectural_style:
-- "[[_Standards/WikiData/WD~Doric order,192664]]"
+- "[[_Standards/WikiData/WD~Doric_order,192664]]"
 - '[[_Standards/WikiData/WD~peripteral,60138]]'
 instance_of:
-- "[[_Standards/WikiData/WD~ancient Greek temple,267596]]"
-- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
-- "[[_Standards/WikiData/WD~Ancient Greek archaeological site,93342462]]"
-- "[[_Standards/WikiData/WD~religious building ruin,96352513]]"
+- "[[_Standards/WikiData/WD~ancient_Greek_temple,267596]]"
+- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+- "[[_Standards/WikiData/WD~Ancient_Greek_archaeological_site,93342462]]"
+- "[[_Standards/WikiData/WD~religious_building_ruin,96352513]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-made_from_material: "[[_Standards/WikiData/WD~Pentelic marble,673492]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Athens Municipality,1224979]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+made_from_material: "[[_Standards/WikiData/WD~Pentelic_marble,673492]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Athens_Municipality,1224979]]"
 derivative_work: '[[_Standards/WikiData/WD~Parthenon,1467467]]'
-culture: "[[_Standards/WikiData/WD~Ancient Greek culture,4246634]]"
+culture: "[[_Standards/WikiData/WD~Ancient_Greek_culture,4246634]]"
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Architecture,5496595]]"
-- "[[_Standards/WikiData/WD~WikiProject Religion,8503229]]"
-- "[[_Standards/WikiData/WD~WikiProject Women's History,18377637]]"
-- "[[_Standards/WikiData/WD~WikiProject Classical Greece and Rome,26208713]]"
-- "[[_Standards/WikiData/WD~WikiProject Women in Religion,63845230]]"
-- "[[_Standards/WikiData/WD~WikiProject Athens,124695979]]"
+- "[[_Standards/WikiData/WD~WikiProject_Architecture,5496595]]"
+- "[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]"
+- "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637]]"
+- "[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713]]"
+- "[[_Standards/WikiData/WD~WikiProject_Women_in_Religion,63845230]]"
+- "[[_Standards/WikiData/WD~WikiProject_Athens,124695979]]"
 World_Heritage_criteria:
 - '[[_Standards/WikiData/WD~(i),23038972]]'
 - '[[_Standards/WikiData/WD~(iv),23038978]]'
@@ -41,15 +41,15 @@ World_Heritage_criteria:
 - '[[_Standards/WikiData/WD~(iii),23038977]]'
 - '[[_Standards/WikiData/WD~(vi),23038980]]'
 heritage_designation:
-- "[[_Standards/WikiData/WD~archaeological site (Greece),29048715]]"
-- "[[_Standards/WikiData/WD~World Heritage Site,9259]]"
-state_of_use: "[[_Standards/WikiData/WD~open to the public,55570821]]"
+- "[[_Standards/WikiData/WD~archaeological_site_(Greece),29048715]]"
+- "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+state_of_use: "[[_Standards/WikiData/WD~open_to_the_public,55570821]]"
 coordinate_location: "Point(23.726601 37.971527)"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Athens%2C%20Greece%20banner-%20Parthenon%20view%201.jpg"
 location: '[[_Standards/WikiData/WD~Athens,1524]]'
 owned_by: '[[_Standards/WikiData/WD~Greece,41]]'
 country: '[[_Standards/WikiData/WD~Greece,41]]'
-religion_or_worldview: "[[_Standards/WikiData/WD~Greek mythology,34726]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Greek_mythology,34726]]"
 dedicated_to: '[[_Standards/WikiData/WD~Athena,37122]]'
 width: 30.8
 height: 13.72

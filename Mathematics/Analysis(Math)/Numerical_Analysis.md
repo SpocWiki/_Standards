@@ -3,21 +3,21 @@ aliases:
 - "Numerical analysis"
 has_id_wikidata: Q11216
 part_of:
-- "[[_Standards/WikiData/WD~computational science,117801]]"
-- "[[_Standards/WikiData/WD~computational mathematics,1122491]]"
+- "[[_Standards/WikiData/WD~computational_science,117801]]"
+- "[[_Standards/WikiData/WD~computational_mathematics,1122491]]"
 - '[[_Standards/WikiData/WD~algorithmics,13636890]]'
-- "[[_Standards/WikiData/WD~applied mathematics,33521]]"
+- "[[_Standards/WikiData/WD~applied_mathematics,33521]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~mathematical optimization,141495]]"
-- "[[_Standards/WikiData/WD~numerical method for ordinary differential equations,541182]]"
-- "[[_Standards/WikiData/WD~numerical linear algebra,2004891]]"
-- "[[_Standards/WikiData/WD~eigenvalue algorithm,6766437]]"
-- "[[_Standards/WikiData/WD~validated numerics,63307393]]"
-- "[[_Standards/WikiData/WD~integrable algorithm,89466598]]"
-instance_of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-practiced_by: "[[_Standards/WikiData/WD~numerical analyst,48999002]]"
-is_the_study_of: "[[_Standards/WikiData/WD~numerical algorithm,124355768]]"
+- "[[_Standards/WikiData/WD~mathematical_optimization,141495]]"
+- "[[_Standards/WikiData/WD~numerical_method_for_ordinary_differential_equations,541182]]"
+- "[[_Standards/WikiData/WD~numerical_linear_algebra,2004891]]"
+- "[[_Standards/WikiData/WD~eigenvalue_algorithm,6766437]]"
+- "[[_Standards/WikiData/WD~validated_numerics,63307393]]"
+- "[[_Standards/WikiData/WD~integrable_algorithm,89466598]]"
+instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+practiced_by: "[[_Standards/WikiData/WD~numerical_analyst,48999002]]"
+is_the_study_of: "[[_Standards/WikiData/WD~numerical_algorithm,124355768]]"
 UMLS_CUI: C0028645
 Stack_Exchange_tag: "https://mathoverflow.net/tags/na.numerical-analysis"
 MeSH_tree_code: L01.224.680.700

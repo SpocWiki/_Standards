@@ -3,19 +3,19 @@ type: Element
 SpocWebEntityId: 21986
 has_id_wikidata: Q1109
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Kazimierz Fajans,213667]]"
-- "[[_Standards/WikiData/WD~Lise Meitner,56189]]"
-- "[[_Standards/WikiData/WD~Otto Hahn,57065]]"
+- "[[_Standards/WikiData/WD~Kazimierz_Fajans,213667]]"
+- "[[_Standards/WikiData/WD~Lise_Meitner,56189]]"
+- "[[_Standards/WikiData/WD~Otto_Hahn,57065]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox protactinium,8085338]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_protactinium,8085338]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
 UMLS_CUI: C0033597
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20150.jpg"
 named_after: '[[_Standards/WikiData/WD~actinium,1121]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 electronegativity: 2
 ionic_radius:
 - 0.9

@@ -7,9 +7,9 @@ different_from:
 has_part_s_: "[[_Standards/WikiData/WD~era,630830]]"
 next_higher_rank: "[[_Standards/WikiData/WD~supereon,15398983]]"
 part_of: "[[_Standards/WikiData/WD~supereon,15398983]]"
-standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigraphy,402104]]"
+standards_body: "[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]"
 studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
-subclass_of: "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
+subclass_of: "[[_Standards/WikiData/WD~geochronological_unit,4005761]]"
 ---
 
 # [[geo~Eons]] 

@@ -8,7 +8,7 @@ Commons_category: Linguistics
 IPTC_NewsCode: mediatopic/20000750
 subclass_of:
 - '[[_Standards/WikiData/WD~humanities,80083]]'
-- "[[_Standards/WikiData/WD~social science,34749]]"
+- "[[_Standards/WikiData/WD~social_science,34749]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~pragmatics,181839]]'
 - '[[_Standards/WikiData/WD~morphophonology,661093]]'
@@ -20,36 +20,36 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~semantics,39645]]'
 - '[[_Standards/WikiData/WD~phonology,40998]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Linguistics,13537252]]"
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Linguistics,13537252]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 instance_of:
-- "[[_Standards/WikiData/WD~field of study,1047113]]"
-- "[[_Standards/WikiData/WD~field of study,2267705]]"
-- "[[_Standards/WikiData/WD~academic major,4671286]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of linguistics,1478235]]"
+- "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+- "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+- "[[_Standards/WikiData/WD~academic_major,4671286]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_linguistics,1478235]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Linguistics,6202681]]'
 part_of:
-- "[[_Standards/WikiData/WD~language arts,6486703]]"
-- "[[_Standards/WikiData/WD~language studies,64810203]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of linguistics,7112675]]"
+- "[[_Standards/WikiData/WD~language_arts,6486703]]"
+- "[[_Standards/WikiData/WD~language_studies,64810203]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_linguistics,7112675]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Linguistics,8312102]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Linguistics,10857957]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Linguistics,10857957]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~linguist,14467526]]'
-- "[[_Standards/WikiData/WD~linguistics teacher,106368265]]"
+- "[[_Standards/WikiData/WD~linguistics_teacher,106368265]]"
 is_the_study_of:
 - '[[_Standards/WikiData/WD~languoid,17376908]]'
-- "[[_Standards/WikiData/WD~languoid class,28923954]]"
+- "[[_Standards/WikiData/WD~languoid_class,28923954]]"
 - '[[_Standards/WikiData/WD~language,315]]'
 - '[[_Standards/WikiData/WD~dialect,33384]]'
 - '[[_Standards/WikiData/WD~language,34770]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20829360,20829360]]'
-different_from: "[[_Standards/WikiData/WD~language studies,64810203]]"
+different_from: "[[_Standards/WikiData/WD~language_studies,64810203]]"
 Provenio_UUID:
 - 3ee10523-ce98-4bd0-9d5b-8bd40c58021d
 - 477a4090-c69b-4e97-ab71-5923c30623e1

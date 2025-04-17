@@ -6,22 +6,22 @@ studied_in:
 - '[[_Standards/WikiData/WD~phonology,40998]]'
 opposite_of: '[[_Standards/WikiData/WD~silence,502261]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~longitudinal wave,626707]]"
-- "[[_Standards/WikiData/WD~acoustic wave,3882459]]"
+- "[[_Standards/WikiData/WD~longitudinal_wave,626707]]"
+- "[[_Standards/WikiData/WD~acoustic_wave,3882459]]"
 has_use:
-- "[[_Standards/WikiData/WD~hearing perception,10348495]]"
+- "[[_Standards/WikiData/WD~hearing_perception,10348495]]"
 - '[[_Standards/WikiData/WD~music,638]]'
 - '[[_Standards/WikiData/WD~communication,11024]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Hearing Health,123226125]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q35650%20%28ken%29-Akopoly-b%C9%9Br%C9%9Bmti%20%28sound%29.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Schall.ogg"

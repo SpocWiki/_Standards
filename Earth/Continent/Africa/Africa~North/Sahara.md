@@ -2,22 +2,22 @@
 aliases:
 - "Sahara Desert"
 has_id_wikidata: Q6583
-highest_point: "[[_Standards/WikiData/WD~Emi Koussi,257441]]"
-lowest_point: "[[_Standards/WikiData/WD~Qattara Depression,841050]]"
+highest_point: "[[_Standards/WikiData/WD~Emi_Koussi,257441]]"
+lowest_point: "[[_Standards/WikiData/WD~Qattara_Depression,841050]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 different_from: '[[_Standards/WikiData/WD~Sahara,1293939]]'
 ecoregion_WWF_:
 - '[[_Standards/WikiData/WD~Tanezrouft,1384782]]'
-- "[[_Standards/WikiData/WD~Tibesti-Jebel Uweinat montane xeric woodlands,3889412]]"
-- "[[_Standards/WikiData/WD~Sahara Desert,3889421]]"
-- "[[_Standards/WikiData/WD~South Saharan steppe and woodlands,3890655]]"
-- "[[_Standards/WikiData/WD~West Saharan montane xeric woodlands,3890933]]"
-- "[[_Standards/WikiData/WD~Atlantic coastal desert,3892981]]"
-- "[[_Standards/WikiData/WD~North Saharan steppe and woodlands,41285]]"
-Köppen_climate_classification: "[[_Standards/WikiData/WD~hot desert climate,5772665]]"
+- "[[_Standards/WikiData/WD~Tibesti-Jebel_Uweinat_montane_xeric_woodlands,3889412]]"
+- "[[_Standards/WikiData/WD~Sahara_Desert,3889421]]"
+- "[[_Standards/WikiData/WD~South_Saharan_steppe_and_woodlands,3890655]]"
+- "[[_Standards/WikiData/WD~West_Saharan_montane_xeric_woodlands,3890933]]"
+- "[[_Standards/WikiData/WD~Atlantic_coastal_desert,3892981]]"
+- "[[_Standards/WikiData/WD~North_Saharan_steppe_and_woodlands,41285]]"
+Köppen_climate_classification: "[[_Standards/WikiData/WD~hot_desert_climate,5772665]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Sahara%20banner.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sahara%20real%20color.jpg"
 U_S_National_Archives_Identifier: 10044315

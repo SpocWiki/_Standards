@@ -1,57 +1,57 @@
 ---
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
-flag: "[[_Standards/WikiData/WD~flag of Kiribati,117758]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Kiribati,117758]]"
 capital:
-- "[[_Standards/WikiData/WD~South Tarawa,131233]]"
+- "[[_Standards/WikiData/WD~South_Tarawa,131233]]"
 - '[[_Standards/WikiData/WD~Tarawa,2486]]'
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Kiribati,235837]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Kiribati,235837]]"
 named_after:
-- "[[_Standards/WikiData/WD~Gilbert Islands,271876]]"
-- "[[_Standards/WikiData/WD~Thomas Gilbert,1474478]]"
-highest_point: "[[_Standards/WikiData/WD~Banaba Island,271901]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Kiribati,531250]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Kiribati,726698]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Kiribati,878250]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Kiribati,878250]]"
-anthem: "[[_Standards/WikiData/WD~Kunan Kiribati,1045701]]"
-legislative_body: "[[_Standards/WikiData/WD~House of Assembly of Kiribati,1281107]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Kiribati,2739569]]"
-culture: "[[_Standards/WikiData/WD~culture of Kiribati,3007309]]"
+- "[[_Standards/WikiData/WD~Gilbert_Islands,271876]]"
+- "[[_Standards/WikiData/WD~Thomas_Gilbert,1474478]]"
+highest_point: "[[_Standards/WikiData/WD~Banaba_Island,271901]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Kiribati,531250]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Kiribati,726698]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Kiribati,878250]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Kiribati,878250]]"
+anthem: "[[_Standards/WikiData/WD~Kunan_Kiribati,1045701]]"
+legislative_body: "[[_Standards/WikiData/WD~House_of_Assembly_of_Kiribati,1281107]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Kiribati,2739569]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Kiribati,3007309]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~999,3086706]]'
 - '[[_Standards/WikiData/WD~192,25648834]]'
 - '[[_Standards/WikiData/WD~193,25648835]]'
 - '[[_Standards/WikiData/WD~194,25648914]]'
 - '[[_Standards/WikiData/WD~195,25743518]]'
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 located_in_on_physical_feature:
 - '[[_Standards/WikiData/WD~Micronesia,3359409]]'
 - '[[_Standards/WikiData/WD~Polynesia,35942]]'
 part_of:
 - '[[_Standards/WikiData/WD~Micronesia,3359409]]'
 - '[[_Standards/WikiData/WD~Polynesia,35942]]'
-authority: "[[_Standards/WikiData/WD~Cabinet of Kiribati,5015529]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Kiribati,7112325]]"
+authority: "[[_Standards/WikiData/WD~Cabinet_of_Kiribati,5015529]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Kiribati,7112325]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Pacific_Kiritimati,7122270]]'
 - '[[_Standards/WikiData/WD~Pacific_Tarawa,63285968]]'
@@ -59,16 +59,16 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
 - '[[_Standards/WikiData/WD~UTC+13_00,7118]]'
 - '[[_Standards/WikiData/WD~UTC+14_00,7130]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Kiribati,7880472]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Kiribati,7880472]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q8057772,8057772]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kiribati,15223263]]'
-foundational_text: "[[_Standards/WikiData/WD~Constitution of Kiribati,16543648]]"
-head_of_state: "[[_Standards/WikiData/WD~Taneti Maamau,23034482]]"
-head_of_government: "[[_Standards/WikiData/WD~Taneti Maamau,23034482]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution_of_Kiribati,16543648]]"
+head_of_state: "[[_Standards/WikiData/WD~Taneti_Maamau,23034482]]"
+head_of_government: "[[_Standards/WikiData/WD~Taneti_Maamau,23034482]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103603,27103603]]'
-central_bank: "[[_Standards/WikiData/WD~Bank of Kiribati,98058686]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Kiribati,98058686]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 nominal_GDP:
 - 223352943
 - 227610035
@@ -117,25 +117,25 @@ official_name:
 MeSH_tree_code: Z01.639.760.295
 coordinates_of_westernmost_point: "Point(169.536944444 -0.859444444)"
 continent:
-- "[[_Standards/WikiData/WD~Insular Oceania,538]]"
+- "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 - '[[_Standards/WikiData/WD~Oceania,55643]]'
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Finland,33]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
 - '[[_Standards/WikiData/WD~Portugal,45]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Estonia,191]]'
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
-- "[[_Standards/WikiData/WD~Vatican City,237]]"
+- "[[_Standards/WikiData/WD~Vatican_City,237]]"
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 country: '[[_Standards/WikiData/WD~Kiribati,710]]'
 language_used:
@@ -160,9 +160,9 @@ coordinates_of_easternmost_point: "Point(-150.2115 -9.936980555)"
 coordinates_of_northernmost_point: "Point(-160.4 4.72)"
 coordinate_location: "Point(173.033333333 1.466666666)"
 shares_border_with:
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~France,142]]'
-lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 marriageable_age: 18
 mains_voltage: 240
 life_expectancy: 68

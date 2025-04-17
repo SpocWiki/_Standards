@@ -1,12 +1,12 @@
 ---
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 twinned_administrative_body:
-- "[[_Standards/WikiData/WD~Mie Prefecture,128196]]"
-- "[[_Standards/WikiData/WD~Hyōgo Prefecture,130290]]"
+- "[[_Standards/WikiData/WD~Mie_Prefecture,128196]]"
+- "[[_Standards/WikiData/WD~Hyōgo_Prefecture,130290]]"
 - '[[_Standards/WikiData/WD~Nisshin,696777]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Melekeok,154002]]'
@@ -25,61 +25,61 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Ngiwal,1154101]]'
 - '[[_Standards/WikiData/WD~Ngaraard,1154127]]'
 - '[[_Standards/WikiData/WD~Hatohobei,3516752]]'
-flag: "[[_Standards/WikiData/WD~flag of Palau,188609]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Palau,188609]]"
 member_of:
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Seal of Palau,478816]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Seal_of_Palau,478816]]"
 capital: '[[_Standards/WikiData/WD~Ngerulmud,515229]]'
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-anthem: "[[_Standards/WikiData/WD~Belau rekid,602974]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Palau,878329]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Ngerchelchuus,1191219]]"
-legislative_body: "[[_Standards/WikiData/WD~Palau National Congress,1384462]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Palau,2090069]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Palau,2737637]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Palau,3052731]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Palau,3123417]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+anthem: "[[_Standards/WikiData/WD~Belau_rekid,602974]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Palau,878329]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Ngerchelchuus,1191219]]"
+legislative_body: "[[_Standards/WikiData/WD~Palau_National_Congress,1384462]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Palau,2090069]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Palau,2737637]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Palau,3052731]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Palau,3123417]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Micronesia,3359409]]'
 part_of:
 - '[[_Standards/WikiData/WD~Micronesia,3359409]]'
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Palau,7112403]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Palau,7112403]]"
 different_from: '[[_Standards/WikiData/WD~Paelau,7124078]]'
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Palau,7644966]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Palau,7644966]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q13335072,13335072]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Palau,14616025]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Palau topics,17352666]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Palau_topics,17352666]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-head_of_state: "[[_Standards/WikiData/WD~Surangel Whipps Jr.,26703072]]"
-head_of_government: "[[_Standards/WikiData/WD~Surangel Whipps Jr.,26703072]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+head_of_state: "[[_Standards/WikiData/WD~Surangel_Whipps_Jr.,26703072]]"
+head_of_government: "[[_Standards/WikiData/WD~Surangel_Whipps_Jr.,26703072]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103547,27103547]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Palau,52898982]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Palau,52898982]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Pacific_Palau,63285982]]'
 - '[[_Standards/WikiData/WD~UTC+09_00,7041]]'
-archives_at: "[[_Standards/WikiData/WD~Palau National Archive,106690310]]"
+archives_at: "[[_Standards/WikiData/WD~Palau_National_Archive,106690310]]"
 demonym:
 - Palavčan
 - Palavčanka
@@ -120,18 +120,18 @@ coordinates_of_easternmost_point: "Point(134.699 8.077)"
 coordinates_of_southernmost_point: "Point(131.783333333 2.95)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
-- "[[_Standards/WikiData/WD~Marshall Islands,709]]"
+- "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
+- "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 continent:
-- "[[_Standards/WikiData/WD~Insular Oceania,538]]"
+- "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 - '[[_Standards/WikiData/WD~Oceania,55643]]'
 country: '[[_Standards/WikiData/WD~Palau,695]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
+- "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 official_language:
@@ -143,8 +143,8 @@ language_used:
 - '[[_Standards/WikiData/WD~Sonsorolese,13281]]'
 - '[[_Standards/WikiData/WD~Palauan,33776]]'
 - '[[_Standards/WikiData/WD~Tobian,34022]]'
-lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 mains_voltage: 120
 compulsory_education_maximum_age_: 14
 marriageable_age:

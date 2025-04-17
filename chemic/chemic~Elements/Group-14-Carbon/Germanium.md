@@ -7,34 +7,34 @@ Commons_category: Germanium
 InChIKey: GNPVGFCGXDBREM-UHFFFAOYSA-N
 InChI: InChI=1S/Ge
 Unicode_character: 鍺
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Clemens Winkler,73523]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Clemens_Winkler,73523]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~sphalerite,105006]]'
-- "[[_Standards/WikiData/WD~fly ash,236139]]"
+- "[[_Standards/WikiData/WD~fly_ash,236139]]"
 - '[[_Standards/WikiData/WD~briartite,411555]]'
 - '[[_Standards/WikiData/WD~germanite,425076]]'
 - '[[_Standards/WikiData/WD~argyrodite,425364]]'
 - '[[_Standards/WikiData/WD~renierite,425630]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 14,106693]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_14,106693]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 different_from:
 - '[[_Standards/WikiData/WD~Geranium,157211]]'
 - '[[_Standards/WikiData/WD~German,348514]]'
-found_in_taxon: "[[_Standards/WikiData/WD~Panax ginseng,182881]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Panax_ginseng,182881]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~covalent network solid,632350]]"
+- "[[_Standards/WikiData/WD~covalent_network_solid,632350]]"
 - '[[_Standards/WikiData/WD~metalloid,19596]]'
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 time_of_discovery_or_invention: "1886"
 oxidation_state:
 - -4

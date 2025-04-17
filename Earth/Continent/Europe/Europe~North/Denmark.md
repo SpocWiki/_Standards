@@ -37,81 +37,81 @@ Languages:
 - de-DK
 icon: flag-dk
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~Nordic Council,146165]]"
-- "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
-- "[[_Standards/WikiData/WD~European Free Trade Association,166546]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~Nordic_Council,146165]]"
+- "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+- "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Arctic Council,674182]]"
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~Council of the Baltic Sea States,789769]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~European Payments Union,1377612]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Arctic_Council,674182]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~European_Payments_Union,1377612]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-- "[[_Standards/WikiData/WD~Carbon Neutrality Coalition,60746147]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- "[[_Standards/WikiData/WD~Carbon_Neutrality_Coalition,60746147]]"
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~Maundy Thursday,106333]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~Easter Sunday,1512337]]"
-- "[[_Standards/WikiData/WD~Constitution Day,1550584]]"
-- "[[_Standards/WikiData/WD~Whit Monday,2512993]]"
-- "[[_Standards/WikiData/WD~Christmas Day,2703710]]"
+- "[[_Standards/WikiData/WD~Maundy_Thursday,106333]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~Easter_Sunday,1512337]]"
+- "[[_Standards/WikiData/WD~Constitution_Day,1550584]]"
+- "[[_Standards/WikiData/WD~Whit_Monday,2512993]]"
+- "[[_Standards/WikiData/WD~Christmas_Day,2703710]]"
 - '[[_Standards/WikiData/WD~Q10631904,10631904]]'
-- "[[_Standards/WikiData/WD~Second Day of Christmas,15113728]]"
-- "[[_Standards/WikiData/WD~Good Friday,40317]]"
-- "[[_Standards/WikiData/WD~Feast of the Ascension,51638]]"
+- "[[_Standards/WikiData/WD~Second_Day_of_Christmas,15113728]]"
+- "[[_Standards/WikiData/WD~Good_Friday,40317]]"
+- "[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~South Jutland County,164071]]"
-- "[[_Standards/WikiData/WD~Storstrøm County,183315]]"
-- "[[_Standards/WikiData/WD~Roskilde County,283305]]"
-- "[[_Standards/WikiData/WD~Funen County,847014]]"
-- "[[_Standards/WikiData/WD~Copenhagen County,849727]]"
-- "[[_Standards/WikiData/WD~Frederiksborg County,866838]]"
-- "[[_Standards/WikiData/WD~Ribe County,866856]]"
-- "[[_Standards/WikiData/WD~Southern Denmark,26061]]"
-- "[[_Standards/WikiData/WD~North Denmark Region,26067]]"
-- "[[_Standards/WikiData/WD~Capital Region of Denmark,26073]]"
-- "[[_Standards/WikiData/WD~Central Denmark,26586]]"
-- "[[_Standards/WikiData/WD~Region Zealand,26589]]"
+- "[[_Standards/WikiData/WD~South_Jutland_County,164071]]"
+- "[[_Standards/WikiData/WD~Storstrøm_County,183315]]"
+- "[[_Standards/WikiData/WD~Roskilde_County,283305]]"
+- "[[_Standards/WikiData/WD~Funen_County,847014]]"
+- "[[_Standards/WikiData/WD~Copenhagen_County,849727]]"
+- "[[_Standards/WikiData/WD~Frederiksborg_County,866838]]"
+- "[[_Standards/WikiData/WD~Ribe_County,866856]]"
+- "[[_Standards/WikiData/WD~Southern_Denmark,26061]]"
+- "[[_Standards/WikiData/WD~North_Denmark_Region,26067]]"
+- "[[_Standards/WikiData/WD~Capital_Region_of_Denmark,26073]]"
+- "[[_Standards/WikiData/WD~Central_Denmark,26586]]"
+- "[[_Standards/WikiData/WD~Region_Zealand,26589]]"
 anthem:
-- "[[_Standards/WikiData/WD~Der er et yndigt land,165747]]"
-- "[[_Standards/WikiData/WD~Kong Christian stod ved højen mast,908519]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Denmark,179611]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Denmark,204680]]"
+- "[[_Standards/WikiData/WD~Der_er_et_yndigt_land,165747]]"
+- "[[_Standards/WikiData/WD~Kong_Christian_stod_ved_højen_mast,908519]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Denmark,179611]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Denmark,204680]]"
 legislative_body: '[[_Standards/WikiData/WD~Folketing,209151]]'
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Benin,962]]'
-- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+- "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
@@ -124,7 +124,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -145,8 +145,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -157,125 +157,125 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
 - '[[_Standards/WikiData/WD~Greenland,223]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Nicaragua,811]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Myanmar,836]]'
 - '[[_Standards/WikiData/WD~Nepal,837]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Bhutan,917]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 award_received:
-- "[[_Standards/WikiData/WD~Paul Ehrlich and Ludwig Darmstaedter Prize,458338]]"
-- "[[_Standards/WikiData/WD~Konrad-Duden Prize,1299669]]"
-- "[[_Standards/WikiData/WD~Victoria Medal of Honour,2097647]]"
-central_bank: "[[_Standards/WikiData/WD~Danmarks Nationalbank,683252]]"
+- "[[_Standards/WikiData/WD~Paul_Ehrlich_and_Ludwig_Darmstaedter_Prize,458338]]"
+- "[[_Standards/WikiData/WD~Konrad-Duden_Prize,1299669]]"
+- "[[_Standards/WikiData/WD~Victoria_Medal_of_Honour,2097647]]"
+central_bank: "[[_Standards/WikiData/WD~Danmarks_Nationalbank,683252]]"
 highest_point: '[[_Standards/WikiData/WD~Møllehøj,689106]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Denmark,755005]]"
-different_from: "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
-country: "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Denmark,755005]]"
+different_from: "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
+country: "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
 part_of:
-- "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
 - '[[_Standards/WikiData/WD~Scandinavia,21195]]'
-- "[[_Standards/WikiData/WD~Northern Europe,27479]]"
-- "[[_Standards/WikiData/WD~Nordic countries,52062]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Denmark,795477]]"
-culture: "[[_Standards/WikiData/WD~culture of Denmark,912415]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Denmark,912496]]"
-head_of_state: "[[_Standards/WikiData/WD~Frederik X of Denmark,1004037]]"
+- "[[_Standards/WikiData/WD~Northern_Europe,27479]]"
+- "[[_Standards/WikiData/WD~Nordic_countries,52062]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Denmark,795477]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Denmark,912415]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Denmark,912496]]"
+head_of_state: "[[_Standards/WikiData/WD~Frederik_X_of_Denmark,1004037]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type K,1502017]]"
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-replaced_by: "[[_Standards/WikiData/WD~Erik the Red's Land,1310621]]"
-replaces: "[[_Standards/WikiData/WD~Erik the Red's Land,1310621]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Denmark,1451237]]"
+- "[[_Standards/WikiData/WD~Type_K,1502017]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+replaced_by: "[[_Standards/WikiData/WD~Erik_the_Red's_Land,1310621]]"
+replaces: "[[_Standards/WikiData/WD~Erik_the_Red's_Land,1310621]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Denmark,1451237]]"
 lowest_point: '[[_Standards/WikiData/WD~Lammefjord,1801605]]'
 language_used:
-- "[[_Standards/WikiData/WD~Danish Sign Language,2605298]]"
-- "[[_Standards/WikiData/WD~Traveller Danish,12640779]]"
+- "[[_Standards/WikiData/WD~Danish_Sign_Language,2605298]]"
+- "[[_Standards/WikiData/WD~Traveller_Danish,12640779]]"
 - '[[_Standards/WikiData/WD~Kalaallisut,15665351]]'
 - '[[_Standards/WikiData/WD~Danish,9035]]'
 - '[[_Standards/WikiData/WD~Greenlandic,25355]]'
 - '[[_Standards/WikiData/WD~German,188]]'
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Denmark topics,6902511]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Denmark_topics,6902511]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Denmark,11028278]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Denmark,11755826]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Denmark,11755826]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Denmark,17111145]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of Denmark,18341329]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Denmark,17111145]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Denmark,18341329]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~North Sea,1693]]"
-- "[[_Standards/WikiData/WD~Baltic Sea,545]]"
+- "[[_Standards/WikiData/WD~North_Sea,1693]]"
+- "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
 capital: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
-head_of_government: "[[_Standards/WikiData/WD~Mette Frederiksen,5015]]"
+head_of_government: "[[_Standards/WikiData/WD~Mette_Frederiksen,5015]]"
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~state,7275]]'
-- "[[_Standards/WikiData/WD~colonial power,20181813]]"
-- "[[_Standards/WikiData/WD~country bordering the Baltic Sea,63791824]]"
-- "[[_Standards/WikiData/WD~autonomous country within the Kingdom of Denmark,66724388]]"
+- "[[_Standards/WikiData/WD~colonial_power,20181813]]"
+- "[[_Standards/WikiData/WD~country_bordering_the_Baltic_Sea,63791824]]"
+- "[[_Standards/WikiData/WD~autonomous_country_within_the_Kingdom_of_Denmark,66724388]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 official_language: '[[_Standards/WikiData/WD~Danish,9035]]'
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
@@ -320,10 +320,10 @@ birth_rate:
 total_fertility_rate: 1.67
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.dk,39509]]'
 Gini_coefficient: 27.7
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 Happy_Planet_Index_score: 45.3
 Environmental_Performance_Index: 77.9
-flag: "[[_Standards/WikiData/WD~flag of Denmark,60149]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Denmark,60149]]"
 Democracy_Index: 9.15
 Human_Development_Index: 0.929
 GS1_country_code:
@@ -373,9 +373,9 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q30277433,30277433]]'
 - '[[_Standards/WikiData/WD~Q42294356,42294356]]'
 - '[[_Standards/WikiData/WD~Q55442104,55442104]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Denmark,24039188]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data DK,97014270]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Denmark,24039188]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_DK,97014270]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
 inception: "0800"
 has_time_started: 0800-06 
 NUTS_code:

@@ -1,19 +1,19 @@
 ---
 has_id_wikidata: Q446
-subclass_of: "[[_Standards/WikiData/WD~simple machine,186713]]"
+subclass_of: "[[_Standards/WikiData/WD~simple_machine,186713]]"
 part_of:
-- "[[_Standards/WikiData/WD~wheel and axle,592289]]"
-- "[[_Standards/WikiData/WD~wheeled vehicle,15618781]]"
+- "[[_Standards/WikiData/WD~wheel_and_axle,592289]]"
+- "[[_Standards/WikiData/WD~wheeled_vehicle,15618781]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-connects_with: "[[_Standards/WikiData/WD~wheel hub assembly,2140339]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+connects_with: "[[_Standards/WikiData/WD~wheel_hub_assembly,2140339]]"
 different_from: '[[_Standards/WikiData/WD~runner,3381460]]'
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hub%20%28PSF%29.png"

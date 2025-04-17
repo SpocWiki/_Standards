@@ -5,20 +5,20 @@ aliases:
 - FACS
 has_id_wikidata: Q425694
 instance_of:
-- "[[_Standards/WikiData/WD~school subject,362165]]"
-- "[[_Standards/WikiData/WD~field of study,1047113]]"
-subclass_of: "[[_Standards/WikiData/WD~field of study,1047113]]"
+- "[[_Standards/WikiData/WD~school_subject,362165]]"
+- "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+subclass_of: "[[_Standards/WikiData/WD~field_of_study,1047113]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~paedology,2120372]]'
-- "[[_Standards/WikiData/WD~family and consumer science,7884093]]"
-- "[[_Standards/WikiData/WD~clothing studies,11626612]]"
-- "[[_Standards/WikiData/WD~housing studies,65248698]]"
-- "[[_Standards/WikiData/WD~food and nutritional science,123518019]]"
+- "[[_Standards/WikiData/WD~family_and_consumer_science,7884093]]"
+- "[[_Standards/WikiData/WD~clothing_studies,11626612]]"
+- "[[_Standards/WikiData/WD~housing_studies,65248698]]"
+- "[[_Standards/WikiData/WD~food_and_nutritional_science,123518019]]"
 practiced_by:
 - '[[_Standards/WikiData/WD~housekeeper,2596569]]'
-- "[[_Standards/WikiData/WD~home economist,66588252]]"
-described_by_source: "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-depicted_by: "[[_Standards/WikiData/WD~IOP 1956 Episode 320,128344348]]"
+- "[[_Standards/WikiData/WD~home_economist,66588252]]"
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+depicted_by: "[[_Standards/WikiData/WD~IOP_1956_Episode_320,128344348]]"
 Dewey_Decimal_Classification: 640
 U_S_National_Archives_Identifier: 10640041
 Commons_category: "Family and consumer science"

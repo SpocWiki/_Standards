@@ -6,31 +6,31 @@ tags:
 - Lang/hi
 has_id_wikidata: Q11051
 linguistic_typology:
-- "[[_Standards/WikiData/WD~fusional language,318917]]"
+- "[[_Standards/WikiData/WD~fusional_language,318917]]"
 - '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
-- "[[_Standards/WikiData/WD~syllabic language,7888569]]"
+- "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
 has_grammatical_gender:
 - '[[_Standards/WikiData/WD~masculine,499327]]'
 - '[[_Standards/WikiData/WD~feminine,1775415]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 instance_of:
-- "[[_Standards/WikiData/WD~modern language,1288568]]"
-- "[[_Standards/WikiData/WD~common language,25568481]]"
-- "[[_Standards/WikiData/WD~natural language,33742]]"
-has_grammatical_case: "[[_Standards/WikiData/WD~obliquus in Hindi,2491233]]"
+- "[[_Standards/WikiData/WD~modern_language,1288568]]"
+- "[[_Standards/WikiData/WD~common_language,25568481]]"
+- "[[_Standards/WikiData/WD~natural_language,33742]]"
+has_grammatical_case: "[[_Standards/WikiData/WD~obliquus_in_Hindi,2491233]]"
 partially_coincident_with:
 - '[[_Standards/WikiData/WD~Kannauji,2726867]]'
-- "[[_Standards/WikiData/WD~Braj Bhasha,35243]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Central Hindi Directorate,3634629]]"
-subclass_of: "[[_Standards/WikiData/WD~Western Hindi,12600937]]"
+- "[[_Standards/WikiData/WD~Braj_Bhasha,35243]]"
+language_regulatory_body: "[[_Standards/WikiData/WD~Central_Hindi_Directorate,3634629]]"
+subclass_of: "[[_Standards/WikiData/WD~Western_Hindi,12600937]]"
 writing_system:
-- "[[_Standards/WikiData/WD~Urdu orthography,112887037]]"
+- "[[_Standards/WikiData/WD~Urdu_orthography,112887037]]"
 - '[[_Standards/WikiData/WD~Devanagari,38592]]'
 entry_in_abbreviations_table:
 - ҳ.
@@ -43,7 +43,7 @@ country:
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Suriname,730]]'
 - '[[_Standards/WikiData/WD~Guyana,734]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - "http://www.wikidata.org/.well-known/genid/37107bfd74d3cf8880855912cf9d6514"

@@ -14,28 +14,28 @@ pronunciation_audio:
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Welche%20Form%20hat%20das%20Universum%3F.webm"
 Baidu_Tieba_name: 宇宙
-named_by: "[[_Standards/WikiData/WD~Philipp von Zesen,76458]]"
+named_by: "[[_Standards/WikiData/WD~Philipp_von_Zesen,76458]]"
 contains:
-- "[[_Standards/WikiData/WD~dark matter,79925]]"
-- "[[_Standards/WikiData/WD~baryonic matter,6005984]]"
-- "[[_Standards/WikiData/WD~dark energy,18343]]"
+- "[[_Standards/WikiData/WD~dark_matter,79925]]"
+- "[[_Standards/WikiData/WD~baryonic_matter,6005984]]"
+- "[[_Standards/WikiData/WD~dark_energy,18343]]"
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~dark matter,79925]]"
+- "[[_Standards/WikiData/WD~dark_matter,79925]]"
 - '[[_Standards/WikiData/WD~field,185674]]'
-- "[[_Standards/WikiData/WD~intergalactic dust,2504088]]"
-- "[[_Standards/WikiData/WD~baryonic matter,6005984]]"
-- "[[_Standards/WikiData/WD~physical substance,28732711]]"
-- "[[_Standards/WikiData/WD~astronomical object,6999]]"
-- "[[_Standards/WikiData/WD~dark energy,18343]]"
+- "[[_Standards/WikiData/WD~intergalactic_dust,2504088]]"
+- "[[_Standards/WikiData/WD~baryonic_matter,6005984]]"
+- "[[_Standards/WikiData/WD~physical_substance,28732711]]"
+- "[[_Standards/WikiData/WD~astronomical_object,6999]]"
+- "[[_Standards/WikiData/WD~dark_energy,18343]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~fundamental interaction,104934]]"
+- "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
 - '[[_Standards/WikiData/WD~gravity,11412]]'
 has_part_s_:
 - '[[_Standards/WikiData/WD~spacetime,133327]]'
-- "[[_Standards/WikiData/WD~observable universe,221392]]"
-- "[[_Standards/WikiData/WD~galaxy filament,1133705]]"
-- "[[_Standards/WikiData/WD~outer space,4169]]"
-history_of_topic: "[[_Standards/WikiData/WD~chronology of the universe,136407]]"
+- "[[_Standards/WikiData/WD~observable_universe,221392]]"
+- "[[_Standards/WikiData/WD~galaxy_filament,1133705]]"
+- "[[_Standards/WikiData/WD~outer_space,4169]]"
+history_of_topic: "[[_Standards/WikiData/WD~chronology_of_the_universe,136407]]"
 studied_in:
 - '[[_Standards/WikiData/WD~cosmogony,170835]]'
 - '[[_Standards/WikiData/WD~cosmology,338]]'
@@ -52,26 +52,26 @@ different_from:
 - '[[_Standards/WikiData/WD~Universum,7896833]]'
 - '[[_Standards/WikiData/WD~Al,12784077]]'
 - '[[_Standards/WikiData/WD~Wszechświat,16072065]]'
-- "[[_Standards/WikiData/WD~Alam semesta,16289348]]"
-- "[[_Standards/WikiData/WD~Vũ trụ,18461356]]"
+- "[[_Standards/WikiData/WD~Alam_semesta,16289348]]"
+- "[[_Standards/WikiData/WD~Vũ_trụ,18461356]]"
 - '[[_Standards/WikiData/WD~Kosmosas,20503137]]'
 - '[[_Standards/WikiData/WD~Univers,23893549]]'
 - '[[_Standards/WikiData/WD~Universe,28336911]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~The Audubon Society Field Guide To The Night Sky,88672152]]"
-- "[[_Standards/WikiData/WD~Der Volks-Brockhaus,107433072]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~The_Audubon_Society_Field_Guide_To_The_Night_Sky,88672152]]"
+- "[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]"
 significant_event:
-- "[[_Standards/WikiData/WD~Big Bang nucleosynthesis,837317]]"
-- "[[_Standards/WikiData/WD~photon epoch,1079806]]"
-- "[[_Standards/WikiData/WD~lepton epoch,1079826]]"
-- "[[_Standards/WikiData/WD~quark epoch,1208634]]"
-- "[[_Standards/WikiData/WD~hadron epoch,3491753]]"
-does_not_have_part: "[[_Standards/WikiData/WD~parallel universe,2051667]]"
+- "[[_Standards/WikiData/WD~Big_Bang_nucleosynthesis,837317]]"
+- "[[_Standards/WikiData/WD~photon_epoch,1079806]]"
+- "[[_Standards/WikiData/WD~lepton_epoch,1079826]]"
+- "[[_Standards/WikiData/WD~quark_epoch,1208634]]"
+- "[[_Standards/WikiData/WD~hadron_epoch,3491753]]"
+does_not_have_part: "[[_Standards/WikiData/WD~parallel_universe,2051667]]"
 opposite_of: '[[_Standards/WikiData/WD~antiverse,4067028]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Universe navboxes,6312136]]"
+- "[[_Standards/WikiData/WD~Template_Universe_navboxes,6312136]]"
 - '[[_Standards/WikiData/WD~Template_Universe,22903368]]'
 instance_of: '[[_Standards/WikiData/WD~universe,36906466]]'
 Stack_Exchange_tag:

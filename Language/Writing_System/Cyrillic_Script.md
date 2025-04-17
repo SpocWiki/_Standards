@@ -3,29 +3,29 @@ aliases:
 - "Cyrillic script"
 has_id_wikidata: Q8209
 creator:
-- "[[_Standards/WikiData/WD~Clement of Ohrid,158504]]"
-- "[[_Standards/WikiData/WD~Saint Naum,350061]]"
-- "[[_Standards/WikiData/WD~Constantine of Preslav,1146725]]"
-named_after: "[[_Standards/WikiData/WD~Saint Cyril the Philosopher,351026]]"
+- "[[_Standards/WikiData/WD~Clement_of_Ohrid,158504]]"
+- "[[_Standards/WikiData/WD~Saint_Naum,350061]]"
+- "[[_Standards/WikiData/WD~Constantine_of_Preslav,1146725]]"
+named_after: "[[_Standards/WikiData/WD~Saint_Cyril_the_Philosopher,351026]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~Cyrillic-script alphabet,867570]]"
-has_use: "[[_Standards/WikiData/WD~Cyrillic-script alphabet,867570]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+different_from: "[[_Standards/WikiData/WD~Cyrillic-script_alphabet,867570]]"
+has_use: "[[_Standards/WikiData/WD~Cyrillic-script_alphabet,867570]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox Cyrillic letter,5904641]]"
-- "[[_Standards/WikiData/WD~Template_Cyrillic script,6854075]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_Cyrillic_letter,5904641]]"
+- "[[_Standards/WikiData/WD~Template_Cyrillic_script,6854075]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q6435505,6435505]]'
 script_directionality: '[[_Standards/WikiData/WD~left-to-right,17321844]]'
-subclass_of: "[[_Standards/WikiData/WD~natural writing system,29517555]]"
+subclass_of: "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
 format_as_a_regular_expression: \p{IsCyrillic}
-instance_of: "[[_Standards/WikiData/WD~writing system,8192]]"
-based_on: "[[_Standards/WikiData/WD~Greek alphabet,8216]]"
+instance_of: "[[_Standards/WikiData/WD~writing_system,8192]]"
+based_on: "[[_Standards/WikiData/WD~Greek_alphabet,8216]]"
 ISO_15924_numeric_code: 220
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyrillic%20alphabet%20world%20distribution.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyrillic%20alternates.svg"

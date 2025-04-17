@@ -1,26 +1,26 @@
 ﻿---
 has_id_wikidata: Q10990
 has_part_s_:
-- "[[_Standards/WikiData/WD~adipose tissue,193583]]"
-- "[[_Standards/WikiData/WD~liquid water,29053744]]"
+- "[[_Standards/WikiData/WD~adipose_tissue,193583]]"
+- "[[_Standards/WikiData/WD~liquid_water,29053744]]"
 - '[[_Standards/WikiData/WD~muscle,7365]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~animal product,629103]]"
-- "[[_Standards/WikiData/WD~intermediate good,3955017]]"
+- "[[_Standards/WikiData/WD~animal_product,629103]]"
+- "[[_Standards/WikiData/WD~intermediate_good,3955017]]"
 - '[[_Standards/WikiData/WD~flesh,13119823]]'
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 - '[[_Standards/WikiData/WD~food,2095]]'
-replaced_by: "[[_Standards/WikiData/WD~meat alternative,1343997]]"
+replaced_by: "[[_Standards/WikiData/WD~meat_alternative,1343997]]"
 part_of: '[[_Standards/WikiData/WD~slaughter,2432249]]'
-produced_by: "[[_Standards/WikiData/WD~animal slaughter,4282505]]"
+produced_by: "[[_Standards/WikiData/WD~animal_slaughter,4282505]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Meat,6462943]]'
 - '[[_Standards/WikiData/WD~Q10624851,10624851]]'

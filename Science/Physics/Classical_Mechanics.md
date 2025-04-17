@@ -2,16 +2,16 @@
 has_id_wikidata: Q11397
 aliases:
 - "Classical mechanics"
-different_from: "[[_Standards/WikiData/WD~analytical mechanics,833065]]"
+different_from: "[[_Standards/WikiData/WD~analytical_mechanics,833065]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~timeline of classical mechanics,2967073]]"
-- "[[_Standards/WikiData/WD~history of classical mechanics,5867520]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Classical mechanics,6234453]]"
+- "[[_Standards/WikiData/WD~timeline_of_classical_mechanics,2967073]]"
+- "[[_Standards/WikiData/WD~history_of_classical_mechanics,5867520]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Classical_mechanics,6234453]]"
 Stack_Exchange_tag:
 - "https://physics.stackexchange.com/tags/classical-mechanics"
 - "https://mathoverflow.net/tags/classical-mechanics"
 - "https://math.stackexchange.com/tags/classical-mechanics"
-named_after: "[[_Standards/WikiData/WD~Isaac Newton,935]]"
+named_after: "[[_Standards/WikiData/WD~Isaac_Newton,935]]"
 subclass_of: '[[_Standards/WikiData/WD~mechanics,41217]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Newtons%20cradle%20animation%20book.gif"
 Commons_category: "Classical mechanics"

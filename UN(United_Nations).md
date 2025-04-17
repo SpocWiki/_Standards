@@ -8,12 +8,12 @@ has_id_wikidata: Q1065
 Bluesky_handle: un.org
 donations: "http://www.wikidata.org/.well-known/genid/9cb0fc8d3dc5529208d8cc947601bda7"
 founded_by:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Paraguay,733]]'
@@ -22,24 +22,24 @@ founded_by:
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
 - '[[_Standards/WikiData/WD~Guatemala,774]]'
 - '[[_Standards/WikiData/WD~Honduras,783]]'
-- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
+- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
 - '[[_Standards/WikiData/WD~Haiti,790]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
-- "[[_Standards/WikiData/WD~El Salvador,792]]"
+- "[[_Standards/WikiData/WD~El_Salvador,792]]"
 - '[[_Standards/WikiData/WD~Iraq,796]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Panama,804]]'
 - '[[_Standards/WikiData/WD~Nicaragua,811]]'
 - '[[_Standards/WikiData/WD~Lebanon,822]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
-- "[[_Standards/WikiData/WD~Byelorussian Soviet Socialist Republic,2895]]"
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- "[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Luxembourg,32]]'
@@ -52,20 +52,20 @@ founded_by:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 - '[[_Standards/WikiData/WD~Yugoslavia,36704]]'
-- "[[_Standards/WikiData/WD~Ukrainian Soviet Socialist Republic,133356]]"
-- "[[_Standards/WikiData/WD~Republic of China (1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
 has_goal:
 - '[[_Standards/WikiData/WD~peace,454]]'
 - '[[_Standards/WikiData/WD~donation,1124860]]'
 - '[[_Standards/WikiData/WD~Q104033659,104033659]]'
-diplomatic_relation: "[[_Standards/WikiData/WD~European Union,458]]"
+diplomatic_relation: "[[_Standards/WikiData/WD~European_Union,458]]"
 official_color: '[[_Standards/WikiData/WD~blue,1088]]'
-board_member: "[[_Standards/WikiData/WD~Kofi Annan,1254]]"
+board_member: "[[_Standards/WikiData/WD~Kofi_Annan,1254]]"
 official_language:
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
@@ -73,94 +73,94 @@ official_language:
 - '[[_Standards/WikiData/WD~Chinese,7850]]'
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
 - '[[_Standards/WikiData/WD~French,150]]'
-- "[[_Standards/WikiData/WD~Standard Chinese,727694]]"
+- "[[_Standards/WikiData/WD~Standard_Chinese,727694]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~International Court of Justice,7801]]"
-- "[[_Standards/WikiData/WD~United Nations Security Council,37470]]"
-- "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
-- "[[_Standards/WikiData/WD~United Nations Economic and Social Council,170075]]"
-- "[[_Standards/WikiData/WD~United Nations Trusteeship Council,219693]]"
-- "[[_Standards/WikiData/WD~United Nations Secretariat,220563]]"
-- "[[_Standards/WikiData/WD~Working Group on Discrimination Against Women and Girls,87075519]]"
-- "[[_Standards/WikiData/WD~United Nations Committee of the Whole,115801510]]"
-- "[[_Standards/WikiData/WD~Special Adviser on Africa,117383815]]"
-- "[[_Standards/WikiData/WD~United Nations Integrated Office in Haiti,123083984]]"
+- "[[_Standards/WikiData/WD~International_Court_of_Justice,7801]]"
+- "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]"
+- "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+- "[[_Standards/WikiData/WD~United_Nations_Economic_and_Social_Council,170075]]"
+- "[[_Standards/WikiData/WD~United_Nations_Trusteeship_Council,219693]]"
+- "[[_Standards/WikiData/WD~United_Nations_Secretariat,220563]]"
+- "[[_Standards/WikiData/WD~Working_Group_on_Discrimination_Against_Women_and_Girls,87075519]]"
+- "[[_Standards/WikiData/WD~United_Nations_Committee_of_the_Whole,115801510]]"
+- "[[_Standards/WikiData/WD~Special_Adviser_on_Africa,117383815]]"
+- "[[_Standards/WikiData/WD~United_Nations_Integrated_Office_in_Haiti,123083984]]"
 has_subsidiary:
-- "[[_Standards/WikiData/WD~International Court of Justice,7801]]"
-- "[[_Standards/WikiData/WD~International Monetary Fund,7804]]"
+- "[[_Standards/WikiData/WD~International_Court_of_Justice,7801]]"
+- "[[_Standards/WikiData/WD~International_Monetary_Fund,7804]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~United Nations Security Council,37470]]"
-- "[[_Standards/WikiData/WD~International Atomic Energy Agency,41984]]"
-- "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
-- "[[_Standards/WikiData/WD~Food and Agriculture Organization,82151]]"
-- "[[_Standards/WikiData/WD~Office of the United Nations High Commissioner for Refugees,132551]]"
-- "[[_Standards/WikiData/WD~United Nations Economic and Social Council,170075]]"
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~United Nations Environment Programme,182016]]"
-- "[[_Standards/WikiData/WD~World Food Programme,204344]]"
-- "[[_Standards/WikiData/WD~United Nations Trusteeship Council,219693]]"
-- "[[_Standards/WikiData/WD~United Nations Secretariat,220563]]"
-- "[[_Standards/WikiData/WD~United Nations Industrial Development Organization,386120]]"
-- "[[_Standards/WikiData/WD~United Nations Peacekeeping Force in Cyprus,694772]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]"
+- "[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]"
+- "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+- "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
+- "[[_Standards/WikiData/WD~Office_of_the_United_Nations_High_Commissioner_for_Refugees,132551]]"
+- "[[_Standards/WikiData/WD~United_Nations_Economic_and_Social_Council,170075]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~United_Nations_Environment_Programme,182016]]"
+- "[[_Standards/WikiData/WD~World_Food_Programme,204344]]"
+- "[[_Standards/WikiData/WD~United_Nations_Trusteeship_Council,219693]]"
+- "[[_Standards/WikiData/WD~United_Nations_Secretariat,220563]]"
+- "[[_Standards/WikiData/WD~United_Nations_Industrial_Development_Organization,386120]]"
+- "[[_Standards/WikiData/WD~United_Nations_Peacekeeping_Force_in_Cyprus,694772]]"
 - '[[_Standards/WikiData/WD~UNICEF,740308]]'
-- "[[_Standards/WikiData/WD~United Nations Research Institute For Social Development,962612]]"
-- "[[_Standards/WikiData/WD~United Nations Radio,1191533]]"
-- "[[_Standards/WikiData/WD~United Nations Postal Administration,1577943]]"
-- "[[_Standards/WikiData/WD~Working Group on Discrimination Against Women and Girls,87075519]]"
-- "[[_Standards/WikiData/WD~United Nations Department of Economic Affairs,115952931]]"
-- "[[_Standards/WikiData/WD~Special Adviser on Africa,117383815]]"
-- "[[_Standards/WikiData/WD~United Nations Integrated Office in Haiti,123083984]]"
-country: "[[_Standards/WikiData/WD~United States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New York City,60]]"
-replaces: "[[_Standards/WikiData/WD~League of Nations,38130]]"
+- "[[_Standards/WikiData/WD~United_Nations_Research_Institute_For_Social_Development,962612]]"
+- "[[_Standards/WikiData/WD~United_Nations_Radio,1191533]]"
+- "[[_Standards/WikiData/WD~United_Nations_Postal_Administration,1577943]]"
+- "[[_Standards/WikiData/WD~Working_Group_on_Discrimination_Against_Women_and_Girls,87075519]]"
+- "[[_Standards/WikiData/WD~United_Nations_Department_of_Economic_Affairs,115952931]]"
+- "[[_Standards/WikiData/WD~Special_Adviser_on_Africa,117383815]]"
+- "[[_Standards/WikiData/WD~United_Nations_Integrated_Office_in_Haiti,123083984]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+replaces: "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
 award_received:
-- "[[_Standards/WikiData/WD~Sakharov Prize,48786]]"
-- "[[_Standards/WikiData/WD~Four Freedoms Award – Freedom Medal,20203866]]"
+- "[[_Standards/WikiData/WD~Sakharov_Prize,48786]]"
+- "[[_Standards/WikiData/WD~Four_Freedoms_Award_–_Freedom_Medal,20203866]]"
 Commons_category: "United Nations"
 Archive_of_Our_Own_tag: "United Nations"
 DPLA_subject_term: "United Nations"
 X_Twitter_username: UN
 Medium_username: UN
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~United Nations Secretary-General,81066]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the United Nations,172416]]"
-flag: "[[_Standards/WikiData/WD~flag of the United Nations,172446]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~United_Nations_Secretary-General,81066]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_United_Nations,172416]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_United_Nations,172446]]"
 official_observer_status_in_organisation:
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
-- "[[_Standards/WikiData/WD~Conference on Interaction and Confidence-Building Measures in Asia,605501]]"
-legal_form: "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
+- "[[_Standards/WikiData/WD~Conference_on_Interaction_and_Confidence-Building_Measures_in_Asia,605501]]"
+legal_form: "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
 instance_of:
-- "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
-- "[[_Standards/WikiData/WD~international organization,484652]]"
-chairperson: "[[_Standards/WikiData/WD~António Guterres,311440]]"
-general_secretary: "[[_Standards/WikiData/WD~António Guterres,311440]]"
-creator: "[[_Standards/WikiData/WD~Allies of the Second World War,329888]]"
+- "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
+- "[[_Standards/WikiData/WD~international_organization,484652]]"
+chairperson: "[[_Standards/WikiData/WD~António_Guterres,311440]]"
+general_secretary: "[[_Standards/WikiData/WD~António_Guterres,311440]]"
+creator: "[[_Standards/WikiData/WD~Allies_of_the_Second_World_War,329888]]"
 partnership_with:
-- "[[_Standards/WikiData/WD~Asian–African Legal Consultative Organization,333536]]"
-- "[[_Standards/WikiData/WD~Association for Progressive Communications,743611]]"
+- "[[_Standards/WikiData/WD~Asian–African_Legal_Consultative_Organization,333536]]"
+- "[[_Standards/WikiData/WD~Association_for_Progressive_Communications,743611]]"
 political_ideology: '[[_Standards/WikiData/WD~internationalism,695838]]'
-part_of: "[[_Standards/WikiData/WD~United Nations System,854218]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_United Nations,3629381]]"
+part_of: "[[_Standards/WikiData/WD~United_Nations_System,854218]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_United_Nations,3629381]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox United Nations,5620523]]"
-- "[[_Standards/WikiData/WD~Template_United Nations,6436205]]"
-facet_of: "[[_Standards/WikiData/WD~liberal international order,6540844]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the United Nations,7112787]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_United_Nations,5620523]]"
+- "[[_Standards/WikiData/WD~Template_United_Nations,6436205]]"
+facet_of: "[[_Standards/WikiData/WD~liberal_international_order,6540844]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_United_Nations,7112787]]"
 open_data_portal: '[[_Standards/WikiData/WD~UNdata,7865445]]'
-different_from: "[[_Standards/WikiData/WD~United Nations,7888319]]"
-broadcast_by: "[[_Standards/WikiData/WD~UN Web TV,7888960]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+different_from: "[[_Standards/WikiData/WD~United_Nations,7888319]]"
+broadcast_by: "[[_Standards/WikiData/WD~UN_Web_TV,7888960]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject United Nations,15885138]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National Museum of World Cultures,17153751]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_United_Nations,15885138]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201703,21201703]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Treccani's Enciclopedia on line,65921422]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
-personal_library_at: "[[_Standards/WikiData/WD~United Nations Digital Library,111170111]]"
+- "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+personal_library_at: "[[_Standards/WikiData/WD~United_Nations_Digital_Library,111170111]]"
 foundational_text: '[[_Standards/WikiData/WD~Q122828042,122828042]]'
-anthem: "[[_Standards/WikiData/WD~Hymn to the United Nations,125726814]]"
+anthem: "[[_Standards/WikiData/WD~Hymn_to_the_United_Nations,125726814]]"
 short_name:
 - ANO
 - "או\"מ"

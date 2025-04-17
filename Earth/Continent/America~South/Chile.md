@@ -157,21 +157,21 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 - '[[_Standards/WikiData/WD~Haiti,790]]'
-- "[[_Standards/WikiData/WD~El Salvador,792]]"
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~El_Salvador,792]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -183,15 +183,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Belarus,184]]'
 - '[[_Standards/WikiData/WD~Estonia,191]]'
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
@@ -201,60 +201,60 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Peru,419]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
 member_of:
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Andean Community,471690]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~Carbon Neutrality Coalition,60746147]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Andean_Community,471690]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Carbon_Neutrality_Coalition,60746147]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
 language_used:
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~Yaghan,531826]]'
 - '[[_Standards/WikiData/WD~Kunza,2669181]]'
-- "[[_Standards/WikiData/WD~Chilean Sign Language,3322112]]"
-- "[[_Standards/WikiData/WD~Central Aymara,20526610]]"
+- "[[_Standards/WikiData/WD~Chilean_Sign_Language,3322112]]"
+- "[[_Standards/WikiData/WD~Central_Aymara,20526610]]"
 - '[[_Standards/WikiData/WD~Mapudungun,33730]]'
 - '[[_Standards/WikiData/WD~Huilliche,35531]]'
-- "[[_Standards/WikiData/WD~Rapa Nui,36746]]"
+- "[[_Standards/WikiData/WD~Rapa_Nui,36746]]"
 - '[[_Standards/WikiData/WD~Kawésqar,56544]]'
 official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Arica y Parinacota Region,2109]]"
-- "[[_Standards/WikiData/WD~Tarapacá Region,2114]]"
-- "[[_Standards/WikiData/WD~Antofagasta Region,2118]]"
-- "[[_Standards/WikiData/WD~Atacama Region,2120]]"
-- "[[_Standards/WikiData/WD~Coquimbo Region,2121]]"
-- "[[_Standards/WikiData/WD~Santiago Metropolitan Region,2131]]"
-- "[[_Standards/WikiData/WD~O'Higgins Region,2133]]"
-- "[[_Standards/WikiData/WD~Maule Región,2166]]"
-- "[[_Standards/WikiData/WD~Biobío Region,2170]]"
-- "[[_Standards/WikiData/WD~Los Lagos Region,2178]]"
-- "[[_Standards/WikiData/WD~Araucanía Region,2176]]"
-- "[[_Standards/WikiData/WD~Los Ríos Region,2177]]"
-- "[[_Standards/WikiData/WD~Aysén Region,2181]]"
-- "[[_Standards/WikiData/WD~Magellan and the Chilean Antarctic Region,2189]]"
-- "[[_Standards/WikiData/WD~Valparaíso Region,219458]]"
-- "[[_Standards/WikiData/WD~Ñuble Region,24076693]]"
+- "[[_Standards/WikiData/WD~Arica_y_Parinacota_Region,2109]]"
+- "[[_Standards/WikiData/WD~Tarapacá_Region,2114]]"
+- "[[_Standards/WikiData/WD~Antofagasta_Region,2118]]"
+- "[[_Standards/WikiData/WD~Atacama_Region,2120]]"
+- "[[_Standards/WikiData/WD~Coquimbo_Region,2121]]"
+- "[[_Standards/WikiData/WD~Santiago_Metropolitan_Region,2131]]"
+- "[[_Standards/WikiData/WD~O'Higgins_Region,2133]]"
+- "[[_Standards/WikiData/WD~Maule_Región,2166]]"
+- "[[_Standards/WikiData/WD~Biobío_Region,2170]]"
+- "[[_Standards/WikiData/WD~Los_Lagos_Region,2178]]"
+- "[[_Standards/WikiData/WD~Araucanía_Region,2176]]"
+- "[[_Standards/WikiData/WD~Los_Ríos_Region,2177]]"
+- "[[_Standards/WikiData/WD~Aysén_Region,2181]]"
+- "[[_Standards/WikiData/WD~Magellan_and_the_Chilean_Antarctic_Region,2189]]"
+- "[[_Standards/WikiData/WD~Valparaíso_Region,219458]]"
+- "[[_Standards/WikiData/WD~Ñuble_Region,24076693]]"
 capital: '[[_Standards/WikiData/WD~Santiago,2887]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
@@ -262,53 +262,53 @@ located_in_time_zone:
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~nation,6266]]'
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~democratic republic,5255892]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~democratic_republic,5255892]]"
 part_of:
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~South America,18]]"
-- "[[_Standards/WikiData/WD~Southern Cone,236118]]"
-- "[[_Standards/WikiData/WD~ABC nations,286946]]"
-- "[[_Standards/WikiData/WD~Hispanic America,653884]]"
-continent: "[[_Standards/WikiData/WD~South America,18]]"
-lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-flag: "[[_Standards/WikiData/WD~flag of Chile,160872]]"
-highest_point: "[[_Standards/WikiData/WD~Ojos del Salado,233836]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Chile,233996]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Chile,466956]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Chile,466956]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Chile,472967]]"
-anthem: "[[_Standards/WikiData/WD~National Anthem of Chile,484161]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~South_America,18]]"
+- "[[_Standards/WikiData/WD~Southern_Cone,236118]]"
+- "[[_Standards/WikiData/WD~ABC_nations,286946]]"
+- "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+continent: "[[_Standards/WikiData/WD~South_America,18]]"
+lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Chile,160872]]"
+highest_point: "[[_Standards/WikiData/WD~Ojos_del_Salado,233836]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Chile,233996]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Chile,466956]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Chile,466956]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Chile,472967]]"
+anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Chile,484161]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica First Edition,5375740]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Chile,1133641]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Chile,1133641]]"
 ethnic_group: '[[_Standards/WikiData/WD~Chileans,1276073]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Chile,1317938]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Chile,1317938]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type L,1520890]]"
-legislative_body: "[[_Standards/WikiData/WD~National Congress of Chile,1968468]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Chile,2039322]]"
-culture: "[[_Standards/WikiData/WD~Chilean culture,2580474]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Chile,2631674]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~democratic republic,5255892]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions of Chile,5671354]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Chile,7112226]]"
+- "[[_Standards/WikiData/WD~Type_L,1520890]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Congress_of_Chile,1968468]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Chile,2039322]]"
+culture: "[[_Standards/WikiData/WD~Chilean_culture,2580474]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Chile,2631674]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~democratic_republic,5255892]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions_of_Chile,5671354]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Chile,7112226]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Chile,10499987]]'
 railway_traffic_side:
 - '[[_Standards/WikiData/WD~left,13196750]]'
 - '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-head_of_state: "[[_Standards/WikiData/WD~Gabriel Boric,16297876]]"
-head_of_government: "[[_Standards/WikiData/WD~Gabriel Boric,16297876]]"
+head_of_state: "[[_Standards/WikiData/WD~Gabriel_Boric,16297876]]"
+head_of_government: "[[_Standards/WikiData/WD~Gabriel_Boric,16297876]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q22828367,22828367]]'
 - '[[_Standards/WikiData/WD~Q42311078,42311078]]'
@@ -318,9 +318,9 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~131,25648848]]'
 - '[[_Standards/WikiData/WD~132,25648849]]'
 - '[[_Standards/WikiData/WD~134,79049177]]'
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Chile,29077203]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-open_data_portal: "[[_Standards/WikiData/WD~Chile’s Public Data Portal,97001450]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Chile,29077203]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+open_data_portal: "[[_Standards/WikiData/WD~Chile’s_Public_Data_Portal,97001450]]"
 UMLS_CUI: C0008107
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Duna%20Mayor%2C%20Valle%20de%20la%20Luna%2C%20San%20Pedro%20de%20Atacama%2C%20Chile%2C%202016-02-01%2C%20DD%20164.JPG"
 ISNI:

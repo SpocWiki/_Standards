@@ -1,63 +1,63 @@
 ---
-lowest_point: "[[_Standards/WikiData/WD~Mozambique Channel,165100]]"
+lowest_point: "[[_Standards/WikiData/WD~Mozambique_Channel,165100]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Community of Portuguese Language Countries,182500]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Southern African Development Community,816706]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Mozambique,209248]]"
-different_from: "[[_Standards/WikiData/WD~Island of Mozambique,331099]]"
-named_after: "[[_Standards/WikiData/WD~Island of Mozambique,331099]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Mozambique,209248]]"
+different_from: "[[_Standards/WikiData/WD~Island_of_Mozambique,331099]]"
+named_after: "[[_Standards/WikiData/WD~Island_of_Mozambique,331099]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Maputo Province,379658]]"
-- "[[_Standards/WikiData/WD~Gaza Province,466526]]"
-- "[[_Standards/WikiData/WD~Cabo Delgado Province,466538]]"
-- "[[_Standards/WikiData/WD~Inhambane Province,466547]]"
-- "[[_Standards/WikiData/WD~Tete Province,605787]]"
-- "[[_Standards/WikiData/WD~Nampula Province,622794]]"
-- "[[_Standards/WikiData/WD~Manica Province,622792]]"
-- "[[_Standards/WikiData/WD~Niassa Province,622799]]"
-- "[[_Standards/WikiData/WD~Zambezia Province,622803]]"
+- "[[_Standards/WikiData/WD~Maputo_Province,379658]]"
+- "[[_Standards/WikiData/WD~Gaza_Province,466526]]"
+- "[[_Standards/WikiData/WD~Cabo_Delgado_Province,466538]]"
+- "[[_Standards/WikiData/WD~Inhambane_Province,466547]]"
+- "[[_Standards/WikiData/WD~Tete_Province,605787]]"
+- "[[_Standards/WikiData/WD~Nampula_Province,622794]]"
+- "[[_Standards/WikiData/WD~Manica_Province,622792]]"
+- "[[_Standards/WikiData/WD~Niassa_Province,622799]]"
+- "[[_Standards/WikiData/WD~Zambezia_Province,622803]]"
 - '[[_Standards/WikiData/WD~Sofala,622801]]'
 - '[[_Standards/WikiData/WD~Maputo,3889]]'
 ethnic_group:
-- "[[_Standards/WikiData/WD~European people,394067]]"
-- "[[_Standards/WikiData/WD~African people,1075929]]"
-- "[[_Standards/WikiData/WD~Indians in Mozambique,1516782]]"
-- "[[_Standards/WikiData/WD~White Africans of European ancestry,2704511]]"
-flag: "[[_Standards/WikiData/WD~flag of Mozambique,484249]]"
-anthem: "[[_Standards/WikiData/WD~Pátria Amada,682613]]"
+- "[[_Standards/WikiData/WD~European_people,394067]]"
+- "[[_Standards/WikiData/WD~African_people,1075929]]"
+- "[[_Standards/WikiData/WD~Indians_in_Mozambique,1516782]]"
+- "[[_Standards/WikiData/WD~White_Africans_of_European_ancestry,2704511]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Mozambique,484249]]"
+anthem: "[[_Standards/WikiData/WD~Pátria_Amada,682613]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 546,1383497]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Mozambique,1128112]]"
-highest_point: "[[_Standards/WikiData/WD~Monte Binga,1353678]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Mozambique,1357948]]"
+- "[[_Standards/WikiData/WD~BS_546,1383497]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Mozambique,1128112]]"
+highest_point: "[[_Standards/WikiData/WD~Monte_Binga,1353678]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Mozambique,1357948]]"
 part_of:
-- "[[_Standards/WikiData/WD~Portuguese-speaking African countries,1360686]]"
-- "[[_Standards/WikiData/WD~East Africa,27407]]"
-legislative_body: "[[_Standards/WikiData/WD~Assembly of the Republic,1848595]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Mozambique,1987424]]"
+- "[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686]]"
+- "[[_Standards/WikiData/WD~East_Africa,27407]]"
+legislative_body: "[[_Standards/WikiData/WD~Assembly_of_the_Republic,1848595]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Mozambique,1987424]]"
 language_used:
 - '[[_Standards/WikiData/WD~Tswa,2085051]]'
 - '[[_Standards/WikiData/WD~Ronga,2520717]]'
@@ -74,7 +74,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Chuwabu,5118412]]'
 - '[[_Standards/WikiData/WD~Makwe,6740513]]'
 - '[[_Standards/WikiData/WD~Moniga,6900145]]'
-- "[[_Standards/WikiData/WD~Mozambican Sign Language,6927809]]"
+- "[[_Standards/WikiData/WD~Mozambican_Sign_Language,6927809]]"
 - '[[_Standards/WikiData/WD~Nyungwe,7071318]]'
 - '[[_Standards/WikiData/WD~Tonga,7820988]]'
 - '[[_Standards/WikiData/WD~Barwe,8826802]]'
@@ -101,35 +101,35 @@ language_used:
 - '[[_Standards/WikiData/WD~Makonde,35172]]'
 - '[[_Standards/WikiData/WD~Lomwe,35824]]'
 - '[[_Standards/WikiData/WD~Yao,36902]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Mozambique,2333341]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Mozambique,2333341]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~119,2807090]]'
 - '[[_Standards/WikiData/WD~117,4547615]]'
 - '[[_Standards/WikiData/WD~198,25648880]]'
-culture: "[[_Standards/WikiData/WD~culture of Mozambique,3007361]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Mozambique,3363703]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Mozambique,3007361]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Mozambique,3363703]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Maputo,4689511]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Mozambique,5438742]]"
-head_of_state: "[[_Standards/WikiData/WD~Filipe Nyusi,5448556]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Mozambique,5438742]]"
+head_of_state: "[[_Standards/WikiData/WD~Filipe_Nyusi,5448556]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mozambique,11132857]]'
-executive_body: "[[_Standards/WikiData/WD~government of Mozambique,11883251]]"
+executive_body: "[[_Standards/WikiData/WD~government_of_Mozambique,11883251]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Mozambique,16056528]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mozambique,16056528]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Mozambique,18565665]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Mozambique,30100629]]"
-head_of_government: "[[_Standards/WikiData/WD~Adriano Maleiane,44275924]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Mozambique,18565665]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Mozambique,30100629]]"
+head_of_government: "[[_Standards/WikiData/WD~Adriano_Maleiane,44275924]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 coordinates_of_westernmost_point: "Point(30.2169433 -14.9995768)"
 UMLS_CUI: C0026655
 demonym:
@@ -182,24 +182,24 @@ nominal_GDP:
 coordinates_of_southernmost_point: "Point(32.1837 -26.8608)"
 coordinates_of_northernmost_point: "Point(40.45 -10.47)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Malawi,1020]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Finland,33]]'
 - '[[_Standards/WikiData/WD~Portugal,45]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
@@ -210,7 +210,7 @@ country: '[[_Standards/WikiData/WD~Mozambique,1029]]'
 headquarters_location: '[[_Standards/WikiData/WD~Maputo,3889]]'
 capital: '[[_Standards/WikiData/WD~Maputo,3889]]'
 official_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern Africa,27394]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 Inequality_adjusted_Human_Development_Index: 0.3
 BTI_Governance_Index:

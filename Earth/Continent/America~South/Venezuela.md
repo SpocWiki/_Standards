@@ -1,42 +1,42 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
 - '[[_Standards/WikiData/WD~Mercosur,4264]]'
-- "[[_Standards/WikiData/WD~Organization of the Petroleum Exporting Countries,7795]]"
+- "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
 shares_border_with:
-- "[[_Standards/WikiData/WD~Puerto Carreño,130304]]"
-- "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~Puerto_Carreño,130304]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Guyana,734]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-- "[[_Standards/WikiData/WD~Saint Vincent and the Grenadines,757]]"
-- "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
-- "[[_Standards/WikiData/WD~Saint Lucia,760]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
+- "[[_Standards/WikiData/WD~Saint_Vincent_and_the_Grenadines,757]]"
+- "[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]"
+- "[[_Standards/WikiData/WD~Saint_Lucia,760]]"
 - '[[_Standards/WikiData/WD~Grenada,769]]'
-- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
+- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
 - '[[_Standards/WikiData/WD~Dominica,784]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Federal Dependencies,130343]]"
+- "[[_Standards/WikiData/WD~Federal_Dependencies,130343]]"
 - '[[_Standards/WikiData/WD~Mérida,165582]]'
 - '[[_Standards/WikiData/WD~Amazonas,170453]]'
 - '[[_Standards/WikiData/WD~Aragua,190687]]'
@@ -45,29 +45,29 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Miranda,191174]]'
 - '[[_Standards/WikiData/WD~Carabobo,191186]]'
 - '[[_Standards/WikiData/WD~Yaracuy,201121]]'
-- "[[_Standards/WikiData/WD~Delta Amacuro,201137]]"
+- "[[_Standards/WikiData/WD~Delta_Amacuro,201137]]"
 - '[[_Standards/WikiData/WD~Falcón,202071]]'
 - '[[_Standards/WikiData/WD~Trujillo,202068]]'
 - '[[_Standards/WikiData/WD~Guárico,202075]]'
-- "[[_Standards/WikiData/WD~Nueva Esparta,204876]]"
+- "[[_Standards/WikiData/WD~Nueva_Esparta,204876]]"
 - '[[_Standards/WikiData/WD~Cojedes,205460]]'
 - '[[_Standards/WikiData/WD~Monagas,205776]]'
 - '[[_Standards/WikiData/WD~Portuguesa,205784]]'
 - '[[_Standards/WikiData/WD~Lara,205796]]'
 - '[[_Standards/WikiData/WD~Sucre,205824]]'
-- "[[_Standards/WikiData/WD~Vargas state,205843]]"
-- "[[_Standards/WikiData/WD~Capital District,492791]]"
+- "[[_Standards/WikiData/WD~Vargas_state,205843]]"
+- "[[_Standards/WikiData/WD~Capital_District,492791]]"
 - '[[_Standards/WikiData/WD~Apure,41146]]'
 - '[[_Standards/WikiData/WD~Táchira,41144]]'
-- "[[_Standards/WikiData/WD~Barinas State,43271]]"
+- "[[_Standards/WikiData/WD~Barinas_State,43271]]"
 - '[[_Standards/WikiData/WD~Zulia,43269]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
-- "[[_Standards/WikiData/WD~South Ossetia,23427]]"
+- "[[_Standards/WikiData/WD~South_Ossetia,23427]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -75,17 +75,17 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
-- "[[_Standards/WikiData/WD~Republic of Abkhazia,31354462]]"
+- "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
+- "[[_Standards/WikiData/WD~Republic_of_Abkhazia,31354462]]"
 - '[[_Standards/WikiData/WD~Serbia,403]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Guyana,734]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Ecuador,736]]'
@@ -97,15 +97,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
-flag: "[[_Standards/WikiData/WD~flag of Venezuela,165538]]"
-replaces: "[[_Standards/WikiData/WD~Gran Colombia,199821]]"
-anthem: "[[_Standards/WikiData/WD~gloria al bravo pueblo,208153]]"
-highest_point: "[[_Standards/WikiData/WD~Pico Bolívar,213704]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Venezuela,165538]]"
+replaces: "[[_Standards/WikiData/WD~Gran_Colombia,199821]]"
+anthem: "[[_Standards/WikiData/WD~gloria_al_bravo_pueblo,208153]]"
+highest_point: "[[_Standards/WikiData/WD~Pico_Bolívar,213704]]"
 language_used:
 - '[[_Standards/WikiData/WD~Sanumá,251728]]'
 - '[[_Standards/WikiData/WD~Wayuu,891085]]'
 - '[[_Standards/WikiData/WD~Warekena,1091095]]'
-- "[[_Standards/WikiData/WD~Colonia Tovar,1138351]]"
+- "[[_Standards/WikiData/WD~Colonia_Tovar,1138351]]"
 - '[[_Standards/WikiData/WD~Máku,2032882]]'
 - '[[_Standards/WikiData/WD~Guahibo,2669193]]'
 - '[[_Standards/WikiData/WD~Curripaco,2882543]]'
@@ -116,7 +116,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Playero,3027923]]'
 - "[[_Standards/WikiData/WD~Ye'kuana,3082027]]"
 - '[[_Standards/WikiData/WD~Yaruro,3121835]]'
-- "[[_Standards/WikiData/WD~Venezuelan Sign Language,3322064]]"
+- "[[_Standards/WikiData/WD~Venezuelan_Sign_Language,3322064]]"
 - '[[_Standards/WikiData/WD~Piaroa,3382207]]'
 - '[[_Standards/WikiData/WD~Piapoco,3382208]]'
 - '[[_Standards/WikiData/WD~Ninam,3436586]]'
@@ -128,7 +128,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Baniwa,3501735]]'
 - '[[_Standards/WikiData/WD~Paraujano,3501747]]'
 - '[[_Standards/WikiData/WD~Baré,3504087]]'
-- "[[_Standards/WikiData/WD~Abane language,3515198]]"
+- "[[_Standards/WikiData/WD~Abane_language,3515198]]"
 - '[[_Standards/WikiData/WD~Yabarana,3571238]]'
 - '[[_Standards/WikiData/WD~Cumanagota,5193784]]'
 - '[[_Standards/WikiData/WD~Hodï,5876347]]'
@@ -147,58 +147,58 @@ language_used:
 - '[[_Standards/WikiData/WD~Maco,12953684]]'
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 part_of:
-- "[[_Standards/WikiData/WD~G3 Free Trade Agreement,339585]]"
+- "[[_Standards/WikiData/WD~G3_Free_Trade_Agreement,339585]]"
 - '[[_Standards/WikiData/WD~Ibero-America,377916]]'
-- "[[_Standards/WikiData/WD~Hispanic America,653884]]"
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~South America,18]]"
+- "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~South_America,18]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~federal republic,512187]]"
-- "[[_Standards/WikiData/WD~presidential system,49892]]"
+- "[[_Standards/WikiData/WD~federal_republic,512187]]"
+- "[[_Standards/WikiData/WD~presidential_system,49892]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~171,25648920]]'
 ethnic_group:
-- "[[_Standards/WikiData/WD~Lebanese Venezuelans,1189854]]"
-- "[[_Standards/WikiData/WD~indigenous peoples in Venezuela,3525435]]"
-- "[[_Standards/WikiData/WD~Arab Venezuelan,4118330]]"
-- "[[_Standards/WikiData/WD~Afro Venezuelans,4690221]]"
-- "[[_Standards/WikiData/WD~Chinese Venezuelans,5100675]]"
-- "[[_Standards/WikiData/WD~Japanese Venezuelans,6158330]]"
-- "[[_Standards/WikiData/WD~White Venezuelans,7919857]]"
-- "[[_Standards/WikiData/WD~Indians in Venezuela,16201411]]"
-- "[[_Standards/WikiData/WD~mestizos in Venezuela,18343999]]"
-- "[[_Standards/WikiData/WD~Koreans in Venezuela,21005859]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Venezuela,2091196]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Venezuela,2350215]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Venezuela,2382235]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Venezuela,2570775]]"
-culture: "[[_Standards/WikiData/WD~culture of Venezuela,3007399]]"
+- "[[_Standards/WikiData/WD~Lebanese_Venezuelans,1189854]]"
+- "[[_Standards/WikiData/WD~indigenous_peoples_in_Venezuela,3525435]]"
+- "[[_Standards/WikiData/WD~Arab_Venezuelan,4118330]]"
+- "[[_Standards/WikiData/WD~Afro_Venezuelans,4690221]]"
+- "[[_Standards/WikiData/WD~Chinese_Venezuelans,5100675]]"
+- "[[_Standards/WikiData/WD~Japanese_Venezuelans,6158330]]"
+- "[[_Standards/WikiData/WD~White_Venezuelans,7919857]]"
+- "[[_Standards/WikiData/WD~Indians_in_Venezuela,16201411]]"
+- "[[_Standards/WikiData/WD~mestizos_in_Venezuela,18343999]]"
+- "[[_Standards/WikiData/WD~Koreans_in_Venezuela,21005859]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Venezuela,2091196]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Venezuela,2350215]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Venezuela,2382235]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Venezuela,2570775]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Venezuela,3007399]]"
 official_language:
-- "[[_Standards/WikiData/WD~Venezuelan Sign Language,3322064]]"
+- "[[_Standards/WikiData/WD~Venezuelan_Sign_Language,3322064]]"
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Venezuela,7112507]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Venezuela,7112507]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
 - '[[_Standards/WikiData/WD~America_Caracas,44380220]]'
 named_after:
-- "[[_Standards/WikiData/WD~Simón Bolívar,8605]]"
+- "[[_Standards/WikiData/WD~Simón_Bolívar,8605]]"
 - '[[_Standards/WikiData/WD~Venice,641]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Venezuela,8836]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Venezuela,8914]]"
-continent: "[[_Standards/WikiData/WD~South America,18]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Venezuela,8836]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Venezuela,8914]]"
+continent: "[[_Standards/WikiData/WD~South_America,18]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 BTI_Governance_Index:
 - 3
 - 1.28
@@ -240,26 +240,26 @@ trunk_prefix: 0
 Inequality_adjusted_Human_Development_Index: 0.592
 Human_Development_Index: 0.691
 head_of_state:
-- "[[_Standards/WikiData/WD~Nicolás Maduro,58132]]"
-- "[[_Standards/WikiData/WD~Juan Guaidó,58833335]]"
-head_of_government: "[[_Standards/WikiData/WD~Nicolás Maduro,58132]]"
+- "[[_Standards/WikiData/WD~Nicolás_Maduro,58132]]"
+- "[[_Standards/WikiData/WD~Juan_Guaidó,58833335]]"
+head_of_government: "[[_Standards/WikiData/WD~Nicolás_Maduro,58132]]"
 IAB_code: 1254
 maritime_identification_digits: 775
 birth_rate: 15.573
 lowest_point: '[[_Standards/WikiData/WD~Lagunillas,9020046]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Venezuela topics,10793489]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Venezuela,11211417]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Venezuela_topics,10793489]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Venezuela,11211417]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Venezuela,11217203]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Venezuela,11942698]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Venezuela,11942698]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Venezuela,14252930]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Venezuela,11942698]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Venezuela,11942698]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Venezuela,14252930]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20827848,20827848]]'
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 Baidu_Tieba_name: 委内瑞拉
 name: ꠜꠦꠘꠦꠏꠥꠄꠟꠣ
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Embalse%20la%20Vueltosa%202022.jpg"

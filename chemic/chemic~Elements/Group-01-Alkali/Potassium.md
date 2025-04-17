@@ -20,42 +20,42 @@ InChIKey: ZLMJMSJWJFRBEC-UHFFFAOYSA-N
 Unicode_character: 鉀
 vapor_pressure: 41928.0364705
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Equisetum arvense,107592]]"
-- "[[_Standards/WikiData/WD~Hibiscus sabdariffa,319390]]"
-- "[[_Standards/WikiData/WD~Equisetum telmateia,936546]]"
-- "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
-- "[[_Standards/WikiData/WD~Phytelephas aequatorialis,2709988]]"
-- "[[_Standards/WikiData/WD~Montanoa tomentosa,6904440]]"
-- "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
-- "[[_Standards/WikiData/WD~Montanoa frutescens,15564776]]"
-- "[[_Standards/WikiData/WD~Montanoa grandiflora,15564965]]"
-- "[[_Standards/WikiData/WD~Montanoa leucantha,15565960]]"
-- "[[_Standards/WikiData/WD~Chamomilla recutita,50837010]]"
-- "[[_Standards/WikiData/WD~Matricaria chamomilla,28437]]"
+- "[[_Standards/WikiData/WD~Equisetum_arvense,107592]]"
+- "[[_Standards/WikiData/WD~Hibiscus_sabdariffa,319390]]"
+- "[[_Standards/WikiData/WD~Equisetum_telmateia,936546]]"
+- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+- "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+- "[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]"
+- "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
+- "[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]"
+- "[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]"
+- "[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]"
+- "[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]"
+- "[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]"
 - '[[_Standards/WikiData/WD~cacao,42385]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~s-block,208106]]'
 - '[[_Standards/WikiData/WD~metal,11426]]'
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 4,239825]]"
-- "[[_Standards/WikiData/WD~group 1,10801007]]"
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
+- "[[_Standards/WikiData/WD~group_1,10801007]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Potassium,108309884]]'
-different_from: "[[_Standards/WikiData/WD~serum potassium level,658883]]"
+different_from: "[[_Standards/WikiData/WD~serum_potassium_level,658883]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 safety_classification_and_labelling:
-- "[[_Standards/WikiData/WD~Regulation (EC) No. 1272_2008,2005334]]"
-- "[[_Standards/WikiData/WD~NFPA 704_ Standard System for the Identification of the Hazards of Materials for Emergency Response,51139288]]"
+- "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+- "[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
 named_after: '[[_Standards/WikiData/WD~potash,10564271]]'
 oxidation_state:
 - -1

@@ -1,25 +1,25 @@
 ﻿---
 has_id_wikidata: Q34090
 linguistic_typology:
-- "[[_Standards/WikiData/WD~agglutinative language,171263]]"
+- "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
 - '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Common Turkic,1126028]]"
+- "[[_Standards/WikiData/WD~Common_Turkic,1126028]]"
 - '[[_Standards/WikiData/WD~Oghuric,1422731]]'
 different_from:
 - '[[_Standards/WikiData/WD~Turki,1763658]]'
-- "[[_Standards/WikiData/WD~Old Tatar,2093002]]"
+- "[[_Standards/WikiData/WD~Old_Tatar,2093002]]"
 - '[[_Standards/WikiData/WD~Chuukic,7847646]]'
 - '[[_Standards/WikiData/WD~Turkish,256]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Turkic languages,8084949]]"
-subclass_of: "[[_Standards/WikiData/WD~human language,20162172]]"
-has_list: "[[_Standards/WikiData/WD~list of Turkic languages,27661143]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Turkic_languages,8084949]]"
+subclass_of: "[[_Standards/WikiData/WD~human_language,20162172]]"
+has_list: "[[_Standards/WikiData/WD~list_of_Turkic_languages,27661143]]"
 Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/turkic-languages"
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Turkic%20Languages%20distribution%20map.png"
 Libris_URI: sq46573b4ndxc0n
 studied_in: '[[_Standards/WikiData/WD~Turkology,8427]]'
-instance_of: "[[_Standards/WikiData/WD~language family,25295]]"
+instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
 number_of_speakers_writers_or_signers: 300000000
 ABS_ASCL_2011_code: 43
 ISO_639_5_code: trk

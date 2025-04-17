@@ -4,30 +4,30 @@ has_use:
 - '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
 - '[[_Standards/WikiData/WD~reservoir,131681]]'
 - '[[_Standards/WikiData/WD~aquaculture,188989]]'
-- "[[_Standards/WikiData/WD~outdoor recreation,968907]]"
+- "[[_Standards/WikiData/WD~outdoor_recreation,968907]]"
 - '[[_Standards/WikiData/WD~navigability,1666353]]'
-- "[[_Standards/WikiData/WD~flood control structure,2630707]]"
-- "[[_Standards/WikiData/WD~drinking water,7892]]"
-- "[[_Standards/WikiData/WD~agricultural irrigation,11453]]"
+- "[[_Standards/WikiData/WD~flood_control_structure,2630707]]"
+- "[[_Standards/WikiData/WD~drinking_water,7892]]"
+- "[[_Standards/WikiData/WD~agricultural_irrigation,11453]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~levee,105190]]'
 - '[[_Standards/WikiData/WD~infrastructure,121359]]'
 - '[[_Standards/WikiData/WD~obstacle,264661]]'
-- "[[_Standards/WikiData/WD~barrier structure,332907]]"
-- "[[_Standards/WikiData/WD~architectural structure,811979]]"
+- "[[_Standards/WikiData/WD~barrier_structure,332907]]"
+- "[[_Standards/WikiData/WD~architectural_structure,811979]]"
 different_from: '[[_Standards/WikiData/WD~Dam,226811]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Tamil Encyclopedia,7681254]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Tamil_Encyclopedia,7681254]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~spillway,911379]]'
-- "[[_Standards/WikiData/WD~concrete dam,11302949]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox dam,5653690]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~dam from granular material,98969382]]"
+- "[[_Standards/WikiData/WD~concrete_dam,11302949]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_dam,5653690]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~dam_from_granular_material,98969382]]"
 properties_for_this_type:
 - height
 - "SNCZI-IPE dam ID"
@@ -35,8 +35,8 @@ properties_for_this_type:
 - "reservoir created"
 Wikidata_property: dam
 model_item:
-- "[[_Standards/WikiData/WD~Saint Petersburg Dam,27632]]"
-- "[[_Standards/WikiData/WD~Aswan Dam,38891]]"
+- "[[_Standards/WikiData/WD~Saint_Petersburg_Dam,27632]]"
+- "[[_Standards/WikiData/WD~Aswan_Dam,38891]]"
 OmegaWiki_Defined_Meaning: 824
 Wolfram_Language_entity_type: Dam
 Commons_gallery: Dam

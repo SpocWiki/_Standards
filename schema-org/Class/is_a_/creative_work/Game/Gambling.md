@@ -3,29 +3,29 @@ has_id_wikidata: Q11416
 has_part_s_:
 - '[[_Standards/WikiData/WD~casino,133215]]'
 - '[[_Standards/WikiData/WD~lottery,189409]]'
-- "[[_Standards/WikiData/WD~amusement arcade,260676]]"
+- "[[_Standards/WikiData/WD~amusement_arcade,260676]]"
 - '[[_Standards/WikiData/WD~bookmaker,664702]]'
-- "[[_Standards/WikiData/WD~betting shop,1719063]]"
+- "[[_Standards/WikiData/WD~betting_shop,1719063]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~recreation,184872]]'
 - '[[_Standards/WikiData/WD~playing,1150958]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~prediction market,282283]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~prediction_market,282283]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-has_effect: "[[_Standards/WikiData/WD~problem gambling,748309]]"
-contributing_factor_of: "[[_Standards/WikiData/WD~problem gambling,748309]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+has_effect: "[[_Standards/WikiData/WD~problem_gambling,748309]]"
+contributing_factor_of: "[[_Standards/WikiData/WD~problem_gambling,748309]]"
 partially_coincident_with: '[[_Standards/WikiData/WD~competition,841654]]'
 uses:
 - '[[_Standards/WikiData/WD~bet,2565881]]'
-- "[[_Standards/WikiData/WD~game of chance,3590573]]"
+- "[[_Standards/WikiData/WD~game_of_chance,3590573]]"
 different_from:
-- "[[_Standards/WikiData/WD~game of chance,3590573]]"
-- "[[_Standards/WikiData/WD~video gaming,107022968]]"
+- "[[_Standards/WikiData/WD~game_of_chance,3590573]]"
+- "[[_Standards/WikiData/WD~video_gaming,107022968]]"
 practiced_by: '[[_Standards/WikiData/WD~gambler,9286830]]'
 has_characteristic: '[[_Standards/WikiData/WD~excitement,16301153]]'
 Dewey_Decimal_Classification:

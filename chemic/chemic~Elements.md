@@ -4,31 +4,31 @@ has_id_wikidata: Q11344
 Krugosvet_article:
 - nauka_i_tehnika/himiya/ELEMENTI_HIMICHESKIE.html
 - nauka_i_tehnika/himiya/HIMICHESKIE_ELEMENTI_V_PRIRODE_–_KRUGOVOROT_I_MIGRATSIYA.html
-subclass_of: "[[_Standards/WikiData/WD~chemical substance,79529]]"
-is_metaclass_for: "[[_Standards/WikiData/WD~chemical substance,79529]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+is_metaclass_for: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 different_from:
 - '[[_Standards/WikiData/WD~elemental,1786347]]'
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~simple substance,2512777]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~simple_substance,2512777]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Periodic table (navbox),5866775]]"
-- "[[_Standards/WikiData/WD~Template_Periodic table,6310132]]"
-- "[[_Standards/WikiData/WD~Template_Infobox element,52484]]"
-has_list: "[[_Standards/WikiData/WD~list of elements by atomic properties,6618793]]"
-opposite_of: "[[_Standards/WikiData/WD~chemical anti-element,9158156]]"
+- "[[_Standards/WikiData/WD~Template_Periodic_table_(navbox),5866775]]"
+- "[[_Standards/WikiData/WD~Template_Periodic_table,6310132]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_element,52484]]"
+has_list: "[[_Standards/WikiData/WD~list_of_elements_by_atomic_properties,6618793]]"
+opposite_of: "[[_Standards/WikiData/WD~chemical_anti-element,9158156]]"
 instance_of:
-- "[[_Standards/WikiData/WD~group or class of chemical substances,17339814]]"
-- "[[_Standards/WikiData/WD~second-order class,24017414]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-has_characteristic: "[[_Standards/WikiData/WD~type of chemical entity,113145171]]"
+- "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
+- "[[_Standards/WikiData/WD~second-order_class,24017414]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+has_characteristic: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 Stack_Exchange_tag:
 - "https://chemistry.stackexchange.com/tags/elements"
 - "https://physics.stackexchange.com/tags/elements"
@@ -48,9 +48,9 @@ properties_for_this_type:
 - "element symbol"
 studied_in: '[[_Standards/WikiData/WD~chemistry,2329]]'
 part_of:
-- "[[_Standards/WikiData/WD~periodic table,10693]]"
-- "[[_Standards/WikiData/WD~chemical compound,11173]]"
-has_cause: "[[_Standards/WikiData/WD~atomic number,23809]]"
+- "[[_Standards/WikiData/WD~periodic_table,10693]]"
+- "[[_Standards/WikiData/WD~chemical_compound,11173]]"
+has_cause: "[[_Standards/WikiData/WD~atomic_number,23809]]"
 OmegaWiki_Defined_Meaning: 1137
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Periodic%20table%20%2832-col%2C%20enwiki%29%2C%20black%20and%20white.png"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-%C3%A9l%C3%A9ment%20chimique.wav"

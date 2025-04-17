@@ -1,77 +1,77 @@
 ---
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~KwaZulu-Natal,81725]]'
-- "[[_Standards/WikiData/WD~Western Cape,127167]]"
-- "[[_Standards/WikiData/WD~Eastern Cape,130840]]"
+- "[[_Standards/WikiData/WD~Western_Cape,127167]]"
+- "[[_Standards/WikiData/WD~Eastern_Cape,130840]]"
 - '[[_Standards/WikiData/WD~Mpumalanga,132410]]'
-- "[[_Standards/WikiData/WD~Northern Cape,132418]]"
+- "[[_Standards/WikiData/WD~Northern_Cape,132418]]"
 - '[[_Standards/WikiData/WD~Gauteng,133083]]'
 - '[[_Standards/WikiData/WD~Limpopo,134907]]'
-- "[[_Standards/WikiData/WD~Free State,160284]]"
-- "[[_Standards/WikiData/WD~North West,165956]]"
-flag: "[[_Standards/WikiData/WD~flag of South Africa,160250]]"
+- "[[_Standards/WikiData/WD~Free_State,160284]]"
+- "[[_Standards/WikiData/WD~North_West,165956]]"
+flag: "[[_Standards/WikiData/WD~flag_of_South_Africa,160250]]"
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Southern African Development Community,816706]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Southern African Customs Union,1344350]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Southern_African_Customs_Union,1344350]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~representative democracy,188759]]"
-- "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
+- "[[_Standards/WikiData/WD~representative_democracy,188759]]"
+- "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Human Rights Day,206206]]"
-- "[[_Standards/WikiData/WD~Youth Day,946446]]"
-- "[[_Standards/WikiData/WD~Family Day,1307995]]"
-- "[[_Standards/WikiData/WD~National Women's Day,1856490]]"
-- "[[_Standards/WikiData/WD~Heritage Day,1945098]]"
-- "[[_Standards/WikiData/WD~Freedom Day,2401839]]"
-- "[[_Standards/WikiData/WD~Day of Reconciliation,5242947]]"
-- "[[_Standards/WikiData/WD~Day of Goodwill,14916826]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Human_Rights_Day,206206]]"
+- "[[_Standards/WikiData/WD~Youth_Day,946446]]"
+- "[[_Standards/WikiData/WD~Family_Day,1307995]]"
+- "[[_Standards/WikiData/WD~National_Women's_Day,1856490]]"
+- "[[_Standards/WikiData/WD~Heritage_Day,1945098]]"
+- "[[_Standards/WikiData/WD~Freedom_Day,2401839]]"
+- "[[_Standards/WikiData/WD~Day_of_Reconciliation,5242947]]"
+- "[[_Standards/WikiData/WD~Day_of_Goodwill,14916826]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
-- "[[_Standards/WikiData/WD~Good Friday,40317]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of South Africa,203330]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of South Africa,217184]]"
+- "[[_Standards/WikiData/WD~Good_Friday,40317]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_South_Africa,203330]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_South_Africa,217184]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
@@ -79,7 +79,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
 - '[[_Standards/WikiData/WD~Lesotho,1013]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Malawi,1020]]'
@@ -104,8 +104,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -113,24 +113,24 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
-anthem: "[[_Standards/WikiData/WD~national anthem of South Africa,231725]]"
+- "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
+anthem: "[[_Standards/WikiData/WD~national_anthem_of_South_Africa,231725]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Aisai,269644]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of South Africa,273884]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of South Africa,273884]]"
-participant_in: "[[_Standards/WikiData/WD~BASIC countries,795464]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-central_bank: "[[_Standards/WikiData/WD~South African Reserve Bank,912920]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of South Africa,944487]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of South Africa,1133886]]"
-head_of_state: "[[_Standards/WikiData/WD~Cyril Ramaphosa,1148669]]"
-head_of_government: "[[_Standards/WikiData/WD~Cyril Ramaphosa,1148669]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of South Africa,1185967]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_South_Africa,273884]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_South_Africa,273884]]"
+participant_in: "[[_Standards/WikiData/WD~BASIC_countries,795464]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+central_bank: "[[_Standards/WikiData/WD~South_African_Reserve_Bank,912920]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_South_Africa,944487]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional_Court_of_South_Africa,1133886]]"
+head_of_state: "[[_Standards/WikiData/WD~Cyril_Ramaphosa,1148669]]"
+head_of_government: "[[_Standards/WikiData/WD~Cyril_Ramaphosa,1148669]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_South_Africa,1185967]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 546,1383497]]"
-- "[[_Standards/WikiData/WD~IEC 60906-1,1653438]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
+- "[[_Standards/WikiData/WD~BS_546,1383497]]"
+- "[[_Standards/WikiData/WD~IEC_60906-1,1653438]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
 language_used:
 - '[[_Standards/WikiData/WD~Tsotsitaal,1472421]]'
 - '[[_Standards/WikiData/WD~ǀXam,2086145]]'
@@ -138,7 +138,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Ronga,2520717]]'
 - '[[_Standards/WikiData/WD~Nǁng,2618974]]'
 - '[[_Standards/WikiData/WD~Korana,2756709]]'
-- "[[_Standards/WikiData/WD~South African Sign Language,3322093]]"
+- "[[_Standards/WikiData/WD~South_African_Sign_Language,3322093]]"
 - '[[_Standards/WikiData/WD~Gayle,3442402]]'
 - '[[_Standards/WikiData/WD~ǁXegwi,3509732]]'
 - '[[_Standards/WikiData/WD~Camtho,10441336]]'
@@ -149,57 +149,57 @@ language_used:
 - '[[_Standards/WikiData/WD~Xhosa,13218]]'
 - '[[_Standards/WikiData/WD~Afrikaans,14196]]'
 - '[[_Standards/WikiData/WD~Venda,32704]]'
-- "[[_Standards/WikiData/WD~Northern Sotho,33890]]"
+- "[[_Standards/WikiData/WD~Northern_Sotho,33890]]"
 - '[[_Standards/WikiData/WD~Swazi,34014]]'
 - '[[_Standards/WikiData/WD~Tswana,34137]]'
 - '[[_Standards/WikiData/WD~Tsonga,34327]]'
 - '[[_Standards/WikiData/WD~Sesotho,34340]]'
 - '[[_Standards/WikiData/WD~Fanagalo,35727]]'
-- "[[_Standards/WikiData/WD~Southern Ndebele,36785]]"
+- "[[_Standards/WikiData/WD~Southern_Ndebele,36785]]"
 - '[[_Standards/WikiData/WD~Xiri,36876]]'
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~South Atlantic Ocean,1482804]]"
-- "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of South Africa,1619519]]"
+- "[[_Standards/WikiData/WD~South_Atlantic_Ocean,1482804]]"
+- "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_South_Africa,1619519]]"
 highest_point: '[[_Standards/WikiData/WD~Mafadi,1883683]]'
-legislative_body: "[[_Standards/WikiData/WD~Parliament of South Africa,2185780]]"
-culture: "[[_Standards/WikiData/WD~culture of South Africa,2621549]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_South_Africa,2185780]]"
+culture: "[[_Standards/WikiData/WD~culture_of_South_Africa,2621549]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 official_language:
-- "[[_Standards/WikiData/WD~South African Sign Language,3322093]]"
+- "[[_Standards/WikiData/WD~South_African_Sign_Language,3322093]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Zulu,10179]]'
 - '[[_Standards/WikiData/WD~Xhosa,13218]]'
 - '[[_Standards/WikiData/WD~Afrikaans,14196]]'
 - '[[_Standards/WikiData/WD~Venda,32704]]'
-- "[[_Standards/WikiData/WD~Northern Sotho,33890]]"
+- "[[_Standards/WikiData/WD~Northern_Sotho,33890]]"
 - '[[_Standards/WikiData/WD~Swazi,34014]]'
 - '[[_Standards/WikiData/WD~Tswana,34137]]'
 - '[[_Standards/WikiData/WD~Tsonga,34327]]'
 - '[[_Standards/WikiData/WD~Sesotho,34340]]'
-- "[[_Standards/WikiData/WD~Southern Ndebele,36785]]"
-replaces: "[[_Standards/WikiData/WD~South Africa during apartheid,3456382]]"
+- "[[_Standards/WikiData/WD~Southern_Ndebele,36785]]"
+replaces: "[[_Standards/WikiData/WD~South_Africa_during_apartheid,3456382]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Johannesburg,4689497]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Administrative divisions of South Africa,5461805]]"
-executive_body: "[[_Standards/WikiData/WD~Government of South Africa,5589315]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of South Africa,7112456]]"
-motto: "[[_Standards/WikiData/WD~Unity in Diversity,7893834]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_South Africa,9028216]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Administrative_divisions_of_South_Africa,5461805]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_South_Africa,5589315]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_South_Africa,7112456]]"
+motto: "[[_Standards/WikiData/WD~Unity_in_Diversity,7893834]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_South_Africa,9028216]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject South Africa,15885086]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_South_Africa,15885086]]"
 coordinates_of_easternmost_point: "Point(32.890833333 -26.858888888)"
 open_data_portal:
-- "[[_Standards/WikiData/WD~South Africa Data Portal,97095907]]"
-- "[[_Standards/WikiData/WD~DataFirst Statistics South Africa,97284971]]"
+- "[[_Standards/WikiData/WD~South_Africa_Data_Portal,97095907]]"
+- "[[_Standards/WikiData/WD~DataFirst_Statistics_South_Africa,97284971]]"
 coordinates_of_southernmost_point: "Point(20.0 -34.834722222)"
-studied_in: "[[_Standards/WikiData/WD~South African studies,115669494]]"
+studied_in: "[[_Standards/WikiData/WD~South_African_studies,115669494]]"
 coordinate_location: "Point(24.0 -29.0)"
 ISNI:
 - 0000000121673042
@@ -238,7 +238,7 @@ motto_text:
 - "Inspiring new ways"
 - "ǃke e: ǀxarra ǁke"
 - "Ex Unitate Vires"
-country: "[[_Standards/WikiData/WD~South Africa,258]]"
+country: "[[_Standards/WikiData/WD~South_Africa,258]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
@@ -246,14 +246,14 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Namibia,1030]]'
 - '[[_Standards/WikiData/WD~Mozambique,1029]]'
 - '[[_Standards/WikiData/WD~Eswatini,1050]]'
-lowest_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+lowest_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
 capital:
 - '[[_Standards/WikiData/WD~Pretoria,3926]]'
-- "[[_Standards/WikiData/WD~Cape Town,5465]]"
+- "[[_Standards/WikiData/WD~Cape_Town,5465]]"
 - '[[_Standards/WikiData/WD~Bloemfontein,37701]]'
 minimum_temperature_record: -18.6
-different_from: "[[_Standards/WikiData/WD~Southern Africa,27394]]"
-part_of: "[[_Standards/WikiData/WD~Southern Africa,27394]]"
+different_from: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 VAT_rate: 15
 age_of_majority: 18

@@ -3,16 +3,16 @@ aliases:
 - "Fundamental interaction"
 has_id_wikidata: Q104934
 has_part_s_:
-- "[[_Standards/WikiData/WD~electromagnetic interaction,849919]]"
-- "[[_Standards/WikiData/WD~strong interaction,11415]]"
+- "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
+- "[[_Standards/WikiData/WD~strong_interaction,11415]]"
 - '[[_Standards/WikiData/WD~gravity,11412]]'
-- "[[_Standards/WikiData/WD~weak interaction,11418]]"
+- "[[_Standards/WikiData/WD~weak_interaction,11418]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~physical phenomenon,1293220]]"
+- "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
 - '[[_Standards/WikiData/WD~interaction,52948]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_FundamentalForces,8081453]]'
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~type of interaction,123345464]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_interaction,123345464]]"
 studied_in: '[[_Standards/WikiData/WD~physics,413]]'
 Wikidata_property: interaction
 related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Feynman-electron-photon-emission.svg"

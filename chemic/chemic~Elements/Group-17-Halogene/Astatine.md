@@ -2,14 +2,14 @@
 type: Element
 SpocWebEntityId: 21980
 has_id_wikidata: Q999
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~halogens,19605]]'
 named_after: '[[_Standards/WikiData/WD~instability,405372]]'
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20085%20Astatine.svg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-astate.wav"
 canonical_SMILES: '[At]'
@@ -21,13 +21,13 @@ MeSH_tree_code:
 - D01.496.749.305.110
 InChI: InChI=1S/At
 InChIKey: RYXHOMYVWAEKHL-UHFFFAOYSA-N
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 UMLS_CUI: C0004091
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20156.jpg"
 subclass_of:
 - '[[_Standards/WikiData/WD~metalloid,19596]]'
 - '[[_Standards/WikiData/WD~halogens,19605]]'
-location_of_discovery: "[[_Standards/WikiData/WD~United States,30]]"
+location_of_discovery: "[[_Standards/WikiData/WD~United_States,30]]"
 electronegativity: 2.2
 atomic_number: 85
 boiling_point: 503

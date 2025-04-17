@@ -3,42 +3,42 @@ has_id_wikidata: Q899
 native_label: "قناة السويس"
 UN_LOCODE: EGSCN
 architect:
-- "[[_Standards/WikiData/WD~Alois Negrelli,78836]]"
-- "[[_Standards/WikiData/WD~Ferdinand de Lesseps,209169]]"
+- "[[_Standards/WikiData/WD~Alois_Negrelli,78836]]"
+- "[[_Standards/WikiData/WD~Ferdinand_de_Lesseps,209169]]"
 terminus:
-- "[[_Standards/WikiData/WD~Port Said,134509]]"
-- "[[_Standards/WikiData/WD~Gulf of Suez,168277]]"
-- "[[_Standards/WikiData/WD~Suez Port,6349617]]"
-- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+- "[[_Standards/WikiData/WD~Port_Said,134509]]"
+- "[[_Standards/WikiData/WD~Gulf_of_Suez,168277]]"
+- "[[_Standards/WikiData/WD~Suez_Port,6349617]]"
+- "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
 named_after: '[[_Standards/WikiData/WD~Suez,134514]]'
 significant_event:
 - '[[_Standards/WikiData/WD~construction,385378]]'
-- "[[_Standards/WikiData/WD~Suez Canal Area Development Project,18211063]]"
+- "[[_Standards/WikiData/WD~Suez_Canal_Area_Development_Project,18211063]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~ship canal,949819]]"
-follows: "[[_Standards/WikiData/WD~Canal of the Pharaohs,959073]]"
-manufacturer: "[[_Standards/WikiData/WD~Suez Canal Company,959814]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~ship_canal,949819]]"
+follows: "[[_Standards/WikiData/WD~Canal_of_the_Pharaohs,959073]]"
+manufacturer: "[[_Standards/WikiData/WD~Suez_Canal_Company,959814]]"
 history_of_topic: '[[_Standards/WikiData/WD~Q1517501,1517501]]'
-operator: "[[_Standards/WikiData/WD~Suez Canal Authority,1542301]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Suez Canal,6352759]]"
+operator: "[[_Standards/WikiData/WD~Suez_Canal_Authority,1542301]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Suez_Canal,6352759]]"
 nickname: "Marlboro Canal"
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Suez%20canal%20blank.jpg"
 date_of_official_opening: "1869-11-17"
 coordinate_location: "Point(32.344166666 30.705)"
-destination_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+destination_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
 connects_with:
-- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-- "[[_Standards/WikiData/WD~Red Sea,23406]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Suez Governorate,31070]]"
+- "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+- "[[_Standards/WikiData/WD~Red_Sea,23406]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Suez_Governorate,31070]]"
 country: '[[_Standards/WikiData/WD~Egypt,79]]'
-start_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+start_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 elevation_above_sea_level: 0
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Isthmus of Suez,46291]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Isthmus_of_Suez,46291]]"
 length: 193.3
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/1956-07-30%20Suez%20Canal%20Seized.ogv"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Suez%20Canal%2C%20Egypt%20%2831596166706%29.jpg"

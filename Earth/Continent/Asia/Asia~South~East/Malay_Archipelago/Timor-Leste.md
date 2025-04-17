@@ -42,48 +42,48 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Portugal,45]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
+- "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Islam,432]]'
 - '[[_Standards/WikiData/WD~Catholicism,1841]]'
 - '[[_Standards/WikiData/WD~Protestantism,23540]]'
 country: '[[_Standards/WikiData/WD~Timor-Leste,574]]'
 member_of:
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Association of South-East Asian Nations,7768]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Community of Portuguese Language Countries,182500]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 - '[[_Standards/WikiData/WD~g7+,1484455]]'
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
 official_language:
 - '[[_Standards/WikiData/WD~Portuguese,5146]]'
 - '[[_Standards/WikiData/WD~Tetum,34125]]'
@@ -101,31 +101,31 @@ language_used:
 - '[[_Standards/WikiData/WD~Tocodede,36863]]'
 - '[[_Standards/WikiData/WD~Habun,1567033]]'
 - '[[_Standards/WikiData/WD~Adabe,3327339]]'
-- "[[_Standards/WikiData/WD~Bidau Creole Portuguese,4904029]]"
+- "[[_Standards/WikiData/WD~Bidau_Creole_Portuguese,4904029]]"
 - '[[_Standards/WikiData/WD~Nauete,6981095]]'
 - '[[_Standards/WikiData/WD~Waimoa,7960132]]'
 - '[[_Standards/WikiData/WD~Baikeno,11200640]]'
-- "[[_Standards/WikiData/WD~Tetun Dili,12643484]]"
+- "[[_Standards/WikiData/WD~Tetun_Dili,12643484]]"
 - '[[_Standards/WikiData/WD~Idaté,12952511]]'
 - '[[_Standards/WikiData/WD~Lakalei,12952700]]'
 - '[[_Standards/WikiData/WD~Kairui-Midiki,12953277]]'
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+09_00,7041]]'
 - '[[_Standards/WikiData/WD~Asia_Dili,63285938]]'
 basic_form_of_government:
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Association of South-East Asian Nations,7768]]"
+- "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]"
 capital: '[[_Standards/WikiData/WD~Dili,9310]]'
-head_of_government: "[[_Standards/WikiData/WD~Xanana Gusmão,11509]]"
-head_of_state: "[[_Standards/WikiData/WD~José Ramos-Horta,11665]]"
-part_of: "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
-flag: "[[_Standards/WikiData/WD~flag of East Timor,30768]]"
+head_of_government: "[[_Standards/WikiData/WD~Xanana_Gusmão,11509]]"
+head_of_state: "[[_Standards/WikiData/WD~José_Ramos-Horta,11665]]"
+part_of: "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
+flag: "[[_Standards/WikiData/WD~flag_of_East_Timor,30768]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 marriageable_age: 17
 mains_voltage: 220
@@ -164,48 +164,48 @@ urban_population:
 - 407158
 - 418673
 - 430207
-lowest_point: "[[_Standards/WikiData/WD~Timor Sea,131418]]"
+lowest_point: "[[_Standards/WikiData/WD~Timor_Sea,131418]]"
 replaces:
-- "[[_Standards/WikiData/WD~Portuguese Timor,142965]]"
-- "[[_Standards/WikiData/WD~Timor Timur,1732464]]"
+- "[[_Standards/WikiData/WD~Portuguese_Timor,142965]]"
+- "[[_Standards/WikiData/WD~Timor_Timur,1732464]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Cova Lima Municipality,165575]]"
-- "[[_Standards/WikiData/WD~Aileu municipality,405100]]"
-- "[[_Standards/WikiData/WD~Ainaro Municipality,405926]]"
-- "[[_Standards/WikiData/WD~Viqueque Municipality,610726]]"
-- "[[_Standards/WikiData/WD~Manufahi Municipality,629934]]"
-- "[[_Standards/WikiData/WD~Ermera Municipality,668171]]"
-- "[[_Standards/WikiData/WD~Lautém Municipality,686554]]"
+- "[[_Standards/WikiData/WD~Cova_Lima_Municipality,165575]]"
+- "[[_Standards/WikiData/WD~Aileu_municipality,405100]]"
+- "[[_Standards/WikiData/WD~Ainaro_Municipality,405926]]"
+- "[[_Standards/WikiData/WD~Viqueque_Municipality,610726]]"
+- "[[_Standards/WikiData/WD~Manufahi_Municipality,629934]]"
+- "[[_Standards/WikiData/WD~Ermera_Municipality,668171]]"
+- "[[_Standards/WikiData/WD~Lautém_Municipality,686554]]"
 - '[[_Standards/WikiData/WD~Atauro,753794]]'
-- "[[_Standards/WikiData/WD~Baucau Municipality,811132]]"
-- "[[_Standards/WikiData/WD~Manatuto Municipality,860630]]"
-- "[[_Standards/WikiData/WD~Oe-Cusse Ambeno,860639]]"
-- "[[_Standards/WikiData/WD~Liquiçá Municipality,860897]]"
-- "[[_Standards/WikiData/WD~Dili Municipality,860901]]"
-- "[[_Standards/WikiData/WD~Bobonaro Municipality,860913]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of East Timor,242944]]"
-culture: "[[_Standards/WikiData/WD~culture of East Timor,276844]]"
+- "[[_Standards/WikiData/WD~Baucau_Municipality,811132]]"
+- "[[_Standards/WikiData/WD~Manatuto_Municipality,860630]]"
+- "[[_Standards/WikiData/WD~Oe-Cusse_Ambeno,860639]]"
+- "[[_Standards/WikiData/WD~Liquiçá_Municipality,860897]]"
+- "[[_Standards/WikiData/WD~Dili_Municipality,860901]]"
+- "[[_Standards/WikiData/WD~Bobonaro_Municipality,860913]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_East_Timor,242944]]"
+culture: "[[_Standards/WikiData/WD~culture_of_East_Timor,276844]]"
 anthem: '[[_Standards/WikiData/WD~Pátria,327746]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of East Timor,586047]]"
-legislative_body: "[[_Standards/WikiData/WD~National Parliament,680806]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of East Timor,840261]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of East Timor,978708]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_East_Timor,586047]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Parliament,680806]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_East_Timor,840261]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_East_Timor,978708]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
+- "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
 highest_point: '[[_Standards/WikiData/WD~Tatamailau,1539961]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of East Timor,1756615]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet of East Timor,2137629]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of East Timor,2334420]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of East Timor,3082835]]"
-central_bank: "[[_Standards/WikiData/WD~Banco Central de Timor-Leste,4504282]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of East Timor,7112247]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_East_Timor,1756615]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_East_Timor,2137629]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_East_Timor,2334420]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_East_Timor,3082835]]"
+central_bank: "[[_Standards/WikiData/WD~Banco_Central_de_Timor-Leste,4504282]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_East_Timor,7112247]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_East Timor,14615754]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_East_Timor,14615754]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25691118,25691118]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 UMLS_CUI: C1452561
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/East%20Timor%20location%20map%202003-2015.svg"
 demonym:

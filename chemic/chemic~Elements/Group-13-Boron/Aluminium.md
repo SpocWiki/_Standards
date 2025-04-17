@@ -5,46 +5,46 @@ has_id_wikidata: Q663
 made_from_material:
 - '[[_Standards/WikiData/WD~bauxite,102078]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
-- "[[_Standards/WikiData/WD~Hans Christian Ørsted,44412]]"
+- "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
+- "[[_Standards/WikiData/WD~Hans_Christian_Ørsted,44412]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 13,189294]]"
-- "[[_Standards/WikiData/WD~period 3,211331]]"
+- "[[_Standards/WikiData/WD~group_13,189294]]"
+- "[[_Standards/WikiData/WD~period_3,211331]]"
 has_use: '[[_Standards/WikiData/WD~dye,189720]]'
 named_after: '[[_Standards/WikiData/WD~alum,190527]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~building material,206615]]"
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
-- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
+- "[[_Standards/WikiData/WD~building_material,206615]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
 - '[[_Standards/WikiData/WD~medication,12140]]'
-- "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+- "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Technical Encyclopedia, 1st edition,20078551]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]"
 - '[[_Standards/WikiData/WD~Aluminium,84661872]]'
 - '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 - '[[_Standards/WikiData/WD~metal,11426]]'
 safety_classification_and_labelling:
-- "[[_Standards/WikiData/WD~Regulation (EC) No. 1272_2008,2005334]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
+- "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
 model_item: '[[_Standards/WikiData/WD~aluminium,11685531]]'
 different_from:
 - '[[_Standards/WikiData/WD~Al,12784077]]'
 has_effect:
-- "[[_Standards/WikiData/WD~aluminium exposure,21167711]]"
-associated_hazard: "[[_Standards/WikiData/WD~aluminium exposure,21167711]]"
+- "[[_Standards/WikiData/WD~aluminium_exposure,21167711]]"
+associated_hazard: "[[_Standards/WikiData/WD~aluminium_exposure,21167711]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q29583098,29583098]]'
 - '[[_Standards/WikiData/WD~Q29583100,29583100]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of aluminium,43884467]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_aluminium,43884467]]"
 UMLS_CUI: C0002367
 mass: 26.9815384
 vapor_pressure: 0

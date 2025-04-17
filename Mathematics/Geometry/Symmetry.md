@@ -4,8 +4,8 @@ has_effect: '[[_Standards/WikiData/WD~invariant,188211]]'
 opposite_of: '[[_Standards/WikiData/WD~asymmetry,752641]]'
 subclass_of: '[[_Standards/WikiData/WD~property,937228]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Simetria.webm"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Br%C3%BCgge-Liebfrauenkirche-Prunkgr%C3%A4ber%20DSC0166.jpg"
 pronunciation_audio:
@@ -15,7 +15,7 @@ hashtag:
 - Symmetrie
 - Symmetry
 different_from: '[[_Standards/WikiData/WD~symmetry,29892597]]'
-instance_of: "[[_Standards/WikiData/WD~type of property,96253971]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_property,96253971]]"
 OmegaWiki_Defined_Meaning: 835216
 Commons_gallery: Symmetry
 Commons_category: Symmetry

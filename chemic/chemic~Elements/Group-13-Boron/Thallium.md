@@ -4,28 +4,28 @@ SpocWebEntityId: 21976
 has_id_wikidata: Q932
 Unicode_character: 鉈
 part_of:
-- "[[_Standards/WikiData/WD~group 13,189294]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William Crookes,189552]]"
+- "[[_Standards/WikiData/WD~group_13,189294]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Crookes,189552]]"
 named_after: '[[_Standards/WikiData/WD~thallus,207495]]'
-associated_hazard: "[[_Standards/WikiData/WD~thallium poisoning,374832]]"
-has_effect: "[[_Standards/WikiData/WD~thallium poisoning,374832]]"
+associated_hazard: "[[_Standards/WikiData/WD~thallium_poisoning,374832]]"
+has_effect: "[[_Standards/WikiData/WD~thallium_poisoning,374832]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 different_from: '[[_Standards/WikiData/WD~Tal,5576117]]'
 UMLS_CUI: C0039738
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20161.jpg"
 time_of_discovery_or_invention: "1861"
-subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 ionic_radius:
 - 1.5
 - 1.7

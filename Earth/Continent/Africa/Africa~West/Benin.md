@@ -1,57 +1,57 @@
 ---
-flag: "[[_Standards/WikiData/WD~flag of Benin,130442]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Benin,130442]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Conseil de l'Entente,945574]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Conseil_de_l'Entente,945574]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 - '[[_Standards/WikiData/WD~OHADA,2029901]]'
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~Multinational Joint Task Force,19429054]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
+- "[[_Standards/WikiData/WD~Multinational_Joint_Task_Force,19429054]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~representative democracy,188759]]"
-replaces: "[[_Standards/WikiData/WD~French West Africa,210682]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Benin,237840]]"
-anthem: "[[_Standards/WikiData/WD~L'Aube Nouvelle,273110]]"
-different_from: "[[_Standards/WikiData/WD~Benin City,320704]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~representative_democracy,188759]]"
+replaces: "[[_Standards/WikiData/WD~French_West_Africa,210682]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Benin,237840]]"
+anthem: "[[_Standards/WikiData/WD~L'Aube_Nouvelle,273110]]"
+different_from: "[[_Standards/WikiData/WD~Benin_City,320704]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of West African States,620942]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Benin,661564]]"
-currency: "[[_Standards/WikiData/WD~West African CFA franc,861690]]"
-highest_point: "[[_Standards/WikiData/WD~Mont Sokbaro,923330]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Benin,661564]]"
+currency: "[[_Standards/WikiData/WD~West_African_CFA_franc,861690]]"
+highest_point: "[[_Standards/WikiData/WD~Mont_Sokbaro,923330]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,1969527]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Benin,1999014]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Benin,2348300]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the Republic of Benin,2407810]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of the Republic of Benin,2407810]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Benin,2596111]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1969527]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Benin,1999014]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Benin,2348300]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Republic_of_Benin,2407810]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Republic_of_Benin,2407810]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Benin,2596111]]"
 language_used:
 - '[[_Standards/WikiData/WD~Nateni,3070731]]'
 - '[[_Standards/WikiData/WD~Gun,3111668]]'
@@ -64,20 +64,20 @@ language_used:
 - '[[_Standards/WikiData/WD~Waama,7958576]]'
 - '[[_Standards/WikiData/WD~Tchumbuli,11008162]]'
 - '[[_Standards/WikiData/WD~Notre,11009194]]'
-- "[[_Standards/WikiData/WD~Ede Ije,12952406]]"
-- "[[_Standards/WikiData/WD~Ede Ica,12952405]]"
-- "[[_Standards/WikiData/WD~Ede Nago,12952408]]"
-- "[[_Standards/WikiData/WD~Kura Nago,12952409]]"
-- "[[_Standards/WikiData/WD~Borgu Fulfulde,12952426]]"
-- "[[_Standards/WikiData/WD~Western Niger Fulfulde,12952430]]"
+- "[[_Standards/WikiData/WD~Ede_Ije,12952406]]"
+- "[[_Standards/WikiData/WD~Ede_Ica,12952405]]"
+- "[[_Standards/WikiData/WD~Ede_Nago,12952408]]"
+- "[[_Standards/WikiData/WD~Kura_Nago,12952409]]"
+- "[[_Standards/WikiData/WD~Borgu_Fulfulde,12952426]]"
+- "[[_Standards/WikiData/WD~Western_Niger_Fulfulde,12952430]]"
 - '[[_Standards/WikiData/WD~Gbe-Defi,12952446]]'
 - '[[_Standards/WikiData/WD~Kotafon,12952447]]'
 - '[[_Standards/WikiData/WD~Ci-Gbe,12952445]]'
 - '[[_Standards/WikiData/WD~Gbesi,12952448]]'
-- "[[_Standards/WikiData/WD~Ede Idaca,13123376]]"
+- "[[_Standards/WikiData/WD~Ede_Idaca,13123376]]"
 - '[[_Standards/WikiData/WD~Gbe-Weme,18379970]]'
-- "[[_Standards/WikiData/WD~Eastern Xwla,18379975]]"
-- "[[_Standards/WikiData/WD~Ede Cabe,33112829]]"
+- "[[_Standards/WikiData/WD~Eastern_Xwla,18379975]]"
+- "[[_Standards/WikiData/WD~Ede_Cabe,33112829]]"
 - '[[_Standards/WikiData/WD~French,150]]'
 - '[[_Standards/WikiData/WD~Fon,33291]]'
 - '[[_Standards/WikiData/WD~Gen,33450]]'
@@ -99,7 +99,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Mahi,35770]]'
 - '[[_Standards/WikiData/WD~Ngangam,35888]]'
 - '[[_Standards/WikiData/WD~Yobe,35913]]'
-- "[[_Standards/WikiData/WD~Northern Nago,36042]]"
+- "[[_Standards/WikiData/WD~Northern_Nago,36042]]"
 - '[[_Standards/WikiData/WD~Mokole,36047]]'
 - '[[_Standards/WikiData/WD~Tem,36531]]'
 - '[[_Standards/WikiData/WD~Pherá,36887]]'
@@ -107,10 +107,10 @@ language_used:
 - '[[_Standards/WikiData/WD~Phla,36924]]'
 - '[[_Standards/WikiData/WD~Waci,36987]]'
 - '[[_Standards/WikiData/WD~Hausa,56475]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Benin,3112619]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Benin,3112619]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~117,4547615]]'
@@ -118,12 +118,12 @@ emergency_phone_number:
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Porto-Novo,4689521]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Benin,7112203]]"
-culture: "[[_Standards/WikiData/WD~culture of Benin,11680963]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Benin,7112203]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Benin,11680963]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Benin,14615083]]'
-head_of_state: "[[_Standards/WikiData/WD~Patrice Talon,16669148]]"
-head_of_government: "[[_Standards/WikiData/WD~Patrice Talon,16669148]]"
+head_of_state: "[[_Standards/WikiData/WD~Patrice_Talon,16669148]]"
+head_of_government: "[[_Standards/WikiData/WD~Patrice_Talon,16669148]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q42042530,42042530]]'
 - '[[_Standards/WikiData/WD~Q42042735,42042735]]'
@@ -182,39 +182,39 @@ ISNI: 0000000123423987
 coordinates_of_easternmost_point: "Point(3.84321 10.59263)"
 coordinates_of_northernmost_point: "Point(2.8 12.42)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Denmark,35]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Togo,945]]'
-- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+- "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
 - '[[_Standards/WikiData/WD~Niger,1032]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
 country: '[[_Standards/WikiData/WD~Benin,962]]'
 capital: '[[_Standards/WikiData/WD~Porto-Novo,3799]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
-part_of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
+part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Mono Department,29135]]"
-- "[[_Standards/WikiData/WD~Borgou Department,29136]]"
-- "[[_Standards/WikiData/WD~Collines department,29141]]"
-- "[[_Standards/WikiData/WD~Atlantique Department,29147]]"
-- "[[_Standards/WikiData/WD~Atakora Department,29154]]"
+- "[[_Standards/WikiData/WD~Mono_Department,29135]]"
+- "[[_Standards/WikiData/WD~Borgou_Department,29136]]"
+- "[[_Standards/WikiData/WD~Collines_department,29141]]"
+- "[[_Standards/WikiData/WD~Atlantique_Department,29147]]"
+- "[[_Standards/WikiData/WD~Atakora_Department,29154]]"
 - '[[_Standards/WikiData/WD~Littoral,29158]]'
-- "[[_Standards/WikiData/WD~Donga Department,29161]]"
-- "[[_Standards/WikiData/WD~Alibori Department,29165]]"
-- "[[_Standards/WikiData/WD~Ouémé Department,29169]]"
-- "[[_Standards/WikiData/WD~Zou Department,29172]]"
-- "[[_Standards/WikiData/WD~Kouffo Department,29173]]"
-- "[[_Standards/WikiData/WD~Plateau Department,32108]]"
+- "[[_Standards/WikiData/WD~Donga_Department,29161]]"
+- "[[_Standards/WikiData/WD~Alibori_Department,29165]]"
+- "[[_Standards/WikiData/WD~Ouémé_Department,29169]]"
+- "[[_Standards/WikiData/WD~Zou_Department,29172]]"
+- "[[_Standards/WikiData/WD~Kouffo_Department,29173]]"
+- "[[_Standards/WikiData/WD~Plateau_Department,32108]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 official_language: '[[_Standards/WikiData/WD~French,150]]'
 unemployment_rate: 1
 marriageable_age: 18
@@ -237,8 +237,8 @@ Gini_coefficient: 37.8
 literacy_rate: 38.4
 Happy_Planet_Index_score: 41.4
 Democracy_Index: 4.58
-lowest_point: "[[_Standards/WikiData/WD~Bight of Benin,47530]]"
-named_after: "[[_Standards/WikiData/WD~Bight of Benin,47530]]"
+lowest_point: "[[_Standards/WikiData/WD~Bight_of_Benin,47530]]"
+named_after: "[[_Standards/WikiData/WD~Bight_of_Benin,47530]]"
 Human_Development_Index: 0.525
 BTI_Status_Index:
 - 6.08

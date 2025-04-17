@@ -3,22 +3,22 @@ type: Element
 SpocWebEntityId: 21994
 has_id_wikidata: Q1892
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
-- "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+- "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
+- "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox einsteinium,8085692]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_einsteinium,8085692]]"
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Elements,11165030]]"
-- "[[_Standards/WikiData/WD~WikiProject California,15785976]]"
-- "[[_Standards/WikiData/WD~WikiProject University of California,21831035]]"
+- "[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]"
+- "[[_Standards/WikiData/WD~WikiProject_California,15785976]]"
+- "[[_Standards/WikiData/WD~WikiProject_University_of_California,21831035]]"
 UMLS_CUI: C0013741
-named_after: "[[_Standards/WikiData/WD~Albert Einstein,937]]"
+named_after: "[[_Standards/WikiData/WD~Albert_Einstein,937]]"
 electronegativity: 1.3
 atomic_number: 99
 PubChem_CID: 23913

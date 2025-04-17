@@ -3,10 +3,10 @@ type: Element
 SpocWebEntityId: 21977
 has_id_wikidata: Q708
 part_of:
-- "[[_Standards/WikiData/WD~group 14,106693]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
-associated_hazard: "[[_Standards/WikiData/WD~lead poisoning,110315]]"
-has_effect: "[[_Standards/WikiData/WD~lead poisoning,110315]]"
+- "[[_Standards/WikiData/WD~group_14,106693]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
+associated_hazard: "[[_Standards/WikiData/WD~lead_poisoning,110315]]"
+has_effect: "[[_Standards/WikiData/WD~lead_poisoning,110315]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~anglesite,156526]]'
 - '[[_Standards/WikiData/WD~boulangerite,250618]]'
@@ -14,29 +14,29 @@ made_from_material:
 - '[[_Standards/WikiData/WD~galena,37559]]'
 subject_has_role:
 - '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- "[[_Standards/WikiData/WD~male reproductive toxicant,55427774]]"
-- "[[_Standards/WikiData/WD~female reproductive toxicant,55427776]]"
-- "[[_Standards/WikiData/WD~developmental toxicant,72941151]]"
+- "[[_Standards/WikiData/WD~male_reproductive_toxicant,55427774]]"
+- "[[_Standards/WikiData/WD~female_reproductive_toxicant,55427776]]"
+- "[[_Standards/WikiData/WD~developmental_toxicant,72941151]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Lead,84693984]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 has_characteristic: '[[_Standards/WikiData/WD~opacity,691914]]'
 different_from: '[[_Standards/WikiData/WD~lead,947546]]'
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
-- "[[_Standards/WikiData/WD~superconducting element,106192073]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-has_use: "[[_Standards/WikiData/WD~nuclear reactor coolant,3535009]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+- "[[_Standards/WikiData/WD~superconducting_element,106192073]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+has_use: "[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009]]"
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
-- "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+- "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
+- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q29014733,29014733]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lead%20electrolytic%20and%201cm3%20cube.jpg"
 EC_number: 231-100-4
@@ -54,7 +54,7 @@ RTECS_number: OF7525000
 InChIKey: WABPQHHGFIMREM-UHFFFAOYSA-N
 UMLS_CUI: C0023175
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20159.jpg"
-subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 vapor_pressure: 0
 immediately_dangerous_to_life_or_health: 100
 electronegativity: 2

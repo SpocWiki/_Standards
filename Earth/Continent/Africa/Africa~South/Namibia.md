@@ -1,47 +1,47 @@
 ---
 named_after: '[[_Standards/WikiData/WD~Namib,131377]]'
-flag: "[[_Standards/WikiData/WD~flag of Namibia,165822]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Namibia,165822]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Southern African Development Community,816706]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Southern African Customs Union,1344350]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Southern_African_Customs_Union,1344350]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Namibia,207531]]"
-anthem: "[[_Standards/WikiData/WD~Namibia, Land of the Brave,233961]]"
-head_of_state: "[[_Standards/WikiData/WD~Nangolo Mbumba,287100]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Namibia,207531]]"
+anthem: "[[_Standards/WikiData/WD~Namibia,_Land_of_the_Brave,233961]]"
+head_of_state: "[[_Standards/WikiData/WD~Nangolo_Mbumba,287100]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Zambezi Region,473190]]"
-- "[[_Standards/WikiData/WD~Oshana Region,534528]]"
-- "[[_Standards/WikiData/WD~Karas Region,573467]]"
-- "[[_Standards/WikiData/WD~Erongo Region,648753]]"
-- "[[_Standards/WikiData/WD~Hardap Region,752676]]"
-- "[[_Standards/WikiData/WD~Omusati Region,764385]]"
-- "[[_Standards/WikiData/WD~Khomas Region,834508]]"
-- "[[_Standards/WikiData/WD~Kunene Region,834513]]"
-- "[[_Standards/WikiData/WD~Omaheke Region,838775]]"
-- "[[_Standards/WikiData/WD~Ohangwena Region,845702]]"
-- "[[_Standards/WikiData/WD~Otjozondjupa Region,876506]]"
-- "[[_Standards/WikiData/WD~Oshikoto Region,876512]]"
-- "[[_Standards/WikiData/WD~Kavango West Region,14824027]]"
-- "[[_Standards/WikiData/WD~Kavango East Region,14824032]]"
+- "[[_Standards/WikiData/WD~Zambezi_Region,473190]]"
+- "[[_Standards/WikiData/WD~Oshana_Region,534528]]"
+- "[[_Standards/WikiData/WD~Karas_Region,573467]]"
+- "[[_Standards/WikiData/WD~Erongo_Region,648753]]"
+- "[[_Standards/WikiData/WD~Hardap_Region,752676]]"
+- "[[_Standards/WikiData/WD~Omusati_Region,764385]]"
+- "[[_Standards/WikiData/WD~Khomas_Region,834508]]"
+- "[[_Standards/WikiData/WD~Kunene_Region,834513]]"
+- "[[_Standards/WikiData/WD~Omaheke_Region,838775]]"
+- "[[_Standards/WikiData/WD~Ohangwena_Region,845702]]"
+- "[[_Standards/WikiData/WD~Otjozondjupa_Region,876506]]"
+- "[[_Standards/WikiData/WD~Oshikoto_Region,876512]]"
+- "[[_Standards/WikiData/WD~Kavango_West_Region,14824027]]"
+- "[[_Standards/WikiData/WD~Kavango_East_Region,14824032]]"
 language_used:
-- "[[_Standards/WikiData/WD~Ekoka !Kung,616533]]"
+- "[[_Standards/WikiData/WD~Ekoka_!Kung,616533]]"
 - '[[_Standards/WikiData/WD~Juǀʼhoansi,1192295]]'
 - '[[_Standards/WikiData/WD~Kwanyama,1405077]]'
 - '[[_Standards/WikiData/WD~Zemba,1845148]]'
@@ -52,7 +52,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kwambi,3487165]]'
 - '[[_Standards/WikiData/WD~Gciriku,3780954]]'
 - '[[_Standards/WikiData/WD~Kuhane,6442073]]'
-- "[[_Standards/WikiData/WD~Namibian Sign Language,6961792]]"
+- "[[_Standards/WikiData/WD~Namibian_Sign_Language,6961792]]"
 - '[[_Standards/WikiData/WD~Yeyi,8053347]]'
 - '[[_Standards/WikiData/WD~Mbalanhu,12952830]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
@@ -67,43 +67,43 @@ language_used:
 - '[[_Standards/WikiData/WD~Tswana,34137]]'
 - '[[_Standards/WikiData/WD~Kwangali,36334]]'
 - '[[_Standards/WikiData/WD~Sekele,56528]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the Republic of Namibia,647198]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Namibia,806684]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Namibia,864678]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Republic_of_Namibia,647198]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Namibia,806684]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Namibia,864678]]"
 highest_point: '[[_Standards/WikiData/WD~Brandberg,897834]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Namibia,936679]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Namibia,951237]]"
-replaces: "[[_Standards/WikiData/WD~South-West Africa,953068]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of the Republic of Namibia,1333976]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Namibia,936679]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Namibia,951237]]"
+replaces: "[[_Standards/WikiData/WD~South-West_Africa,953068]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_Republic_of_Namibia,1333976]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~BS 546,1383497]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Namibia,1480250]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~BS_546,1383497]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Namibia,1480250]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Namibia,4167580]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Namibia,4167580]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Windhoek,4689525]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Namibia,5589263]]"
-head_of_government: "[[_Standards/WikiData/WD~Saara Kuugongelwa,7395683]]"
-culture: "[[_Standards/WikiData/WD~culture of Namibia,10262279]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Namibia,5589263]]"
+head_of_government: "[[_Standards/WikiData/WD~Saara_Kuugongelwa,7395683]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Namibia,10262279]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Namibia,10999289]]'
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Namibia.svg"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Namibia,16056529]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Namibia,16056529]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~10111,25648893]]'
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q29963751,29963751]]'
 - '[[_Standards/WikiData/WD~Q29963768,29963768]]'
 - '[[_Standards/WikiData/WD~Q40636807,40636807]]'
 part_of:
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-- "[[_Standards/WikiData/WD~Southern Africa,27394]]"
-studied_in: "[[_Standards/WikiData/WD~Namibian studies,115669680]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
+studied_in: "[[_Standards/WikiData/WD~Namibian_studies,115669680]]"
 coordinates_of_southernmost_point: "Point(19.12 -28.9691)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Namibia.map"
 pronunciation_audio:
@@ -176,14 +176,14 @@ coordinates_of_northernmost_point:
 - "Point(13.15 -16.97)"
 - "Point(13.1686 -16.9637)"
 shares_border_with:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Angola,916]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
@@ -194,22 +194,22 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Sweden,34]]'
 - '[[_Standards/WikiData/WD~Finland,33]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 country: '[[_Standards/WikiData/WD~Namibia,1030]]'
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
 capital: '[[_Standards/WikiData/WD~Windhoek,3935]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern Africa,27394]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 retirement_age: 60
 VAT_rate: 15
 unemployment_rate: 19

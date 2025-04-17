@@ -14,35 +14,35 @@ Krugosvet_article: nauka_i_tehnika/himiya/SERA.html
 InChIKey: NINIDFKCEFEMDL-UHFFFAOYSA-N
 time_of_discovery_or_invention: "1777"
 part_of:
-- "[[_Standards/WikiData/WD~group 16,104567]]"
-- "[[_Standards/WikiData/WD~period 3,211331]]"
+- "[[_Standards/WikiData/WD~group_16,104567]]"
+- "[[_Standards/WikiData/WD~period_3,211331]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~group 16,104567]]"
-- "[[_Standards/WikiData/WD~polyatomic nonmetal,19753345]]"
+- "[[_Standards/WikiData/WD~group_16,104567]]"
+- "[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]"
 - '[[_Standards/WikiData/WD~nonmetal,19600]]'
 found_in_taxon:
 - '[[_Standards/WikiData/WD~Rutaceae,146030]]'
-- "[[_Standards/WikiData/WD~Ceratophyllum demersum,157385]]"
-- "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
-- "[[_Standards/WikiData/WD~Clathria pyramida,2319118]]"
+- "[[_Standards/WikiData/WD~Ceratophyllum_demersum,157385]]"
+- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+- "[[_Standards/WikiData/WD~Clathria_pyramida,2319118]]"
 - '[[_Standards/WikiData/WD~Euodia,3060383]]'
-- "[[_Standards/WikiData/WD~Lyngbya majuscula,20720044]]"
+- "[[_Standards/WikiData/WD~Lyngbya_majuscula,20720044]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 different_from:
 - '[[_Standards/WikiData/WD~disulfur,5283603]]'
 - '[[_Standards/WikiData/WD~Kebrit,5805138]]'
 - '[[_Standards/WikiData/WD~Q20674464,20674464]]'
-- "[[_Standards/WikiData/WD~sulfur atom,106570791]]"
-has_use: "[[_Standards/WikiData/WD~ecological crop protection,65967059]]"
+- "[[_Standards/WikiData/WD~sulfur_atom,106570791]]"
+has_use: "[[_Standards/WikiData/WD~ecological_crop_protection,65967059]]"
 UMLS_CUI: C0038774
 oxidation_state:
 - -2
@@ -60,7 +60,7 @@ ionic_radius:
 - 1.84
 atomic_number: 16
 density: 2.07
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Antoine Lavoisier,39607]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]"
 electronegativity: 2.58
 OmegaWiki_Defined_Meaning: 3668
 mass: 32.06

@@ -13,78 +13,78 @@ aliases:
 - "Ivory Coast"
 named_after:
 - '[[_Standards/WikiData/WD~coast,93352]]'
-- "[[_Standards/WikiData/WD~elephant ivory,29838213]]"
-flag: "[[_Standards/WikiData/WD~flag of Ivory Coast,102967]]"
+- "[[_Standards/WikiData/WD~elephant_ivory,29838213]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Ivory_Coast,102967]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Conseil de l'Entente,945574]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Mano River Union,1505172]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Conseil_de_l'Entente,945574]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Mano_River_Union,1505172]]"
 - '[[_Standards/WikiData/WD~OHADA,2029901]]'
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Zanzan Region,147081]]"
+- "[[_Standards/WikiData/WD~Zanzan_Region,147081]]"
 - '[[_Standards/WikiData/WD~Moyen-Comoé,303645]]'
 - '[[_Standards/WikiData/WD~Agnéby,395166]]'
-- "[[_Standards/WikiData/WD~Lagunes region,639491]]"
-- "[[_Standards/WikiData/WD~Denguélé Region,729010]]"
-- "[[_Standards/WikiData/WD~Bafing Region,799800]]"
-- "[[_Standards/WikiData/WD~Bas-Sassandra Region,809733]]"
+- "[[_Standards/WikiData/WD~Lagunes_region,639491]]"
+- "[[_Standards/WikiData/WD~Denguélé_Region,729010]]"
+- "[[_Standards/WikiData/WD~Bafing_Region,799800]]"
+- "[[_Standards/WikiData/WD~Bas-Sassandra_Region,809733]]"
 - '[[_Standards/WikiData/WD~Fromager,818774]]'
-- "[[_Standards/WikiData/WD~Dix-Huit Montagnes,820486]]"
-- "[[_Standards/WikiData/WD~Marahoué Region,839083]]"
+- "[[_Standards/WikiData/WD~Dix-Huit_Montagnes,820486]]"
+- "[[_Standards/WikiData/WD~Marahoué_Region,839083]]"
 - "[[_Standards/WikiData/WD~N'zi-Comoé,842491]]"
 - '[[_Standards/WikiData/WD~Sud-Comoé,842495]]'
 - '[[_Standards/WikiData/WD~Moyen-Cavally,842499]]'
-- "[[_Standards/WikiData/WD~Lacs Region,845706]]"
+- "[[_Standards/WikiData/WD~Lacs_Region,845706]]"
 - '[[_Standards/WikiData/WD~Haut-Sassandra,845709]]'
 - '[[_Standards/WikiData/WD~Sud-Bandama,845713]]'
-- "[[_Standards/WikiData/WD~Vallée du Bandama Region,845721]]"
+- "[[_Standards/WikiData/WD~Vallée_du_Bandama_Region,845721]]"
 - '[[_Standards/WikiData/WD~Worodougou,846056]]'
-- "[[_Standards/WikiData/WD~Savanes Region,853460]]"
-production_statistics: "[[_Standards/WikiData/WD~cocoa bean,208008]]"
+- "[[_Standards/WikiData/WD~Savanes_Region,853460]]"
+production_statistics: "[[_Standards/WikiData/WD~cocoa_bean,208008]]"
 replaces:
-- "[[_Standards/WikiData/WD~French West Africa,210682]]"
-- "[[_Standards/WikiData/WD~French Ivory Coast,39074482]]"
+- "[[_Standards/WikiData/WD~French_West_Africa,210682]]"
+- "[[_Standards/WikiData/WD~French_Ivory_Coast,39074482]]"
 anthem: "[[_Standards/WikiData/WD~L'Abidjanaise,242718]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Ivory Coast,320699]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of West African States,620942]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Richard-Molard,849129]]"
-currency: "[[_Standards/WikiData/WD~West African CFA franc,861690]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Ivory_Coast,320699]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Richard-Molard,849129]]"
+currency: "[[_Standards/WikiData/WD~West_African_CFA_franc,861690]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 history_of_topic:
-- "[[_Standards/WikiData/WD~history of Ivory Coast,947365]]"
-- "[[_Standards/WikiData/WD~history of Ivory Coast,5865014]]"
+- "[[_Standards/WikiData/WD~history_of_Ivory_Coast,947365]]"
+- "[[_Standards/WikiData/WD~history_of_Ivory_Coast,5865014]]"
 language_used:
 - '[[_Standards/WikiData/WD~Dan,1158971]]'
 - '[[_Standards/WikiData/WD~Mwan,3320111]]'
 - '[[_Standards/WikiData/WD~Tiagba,3400073]]'
 - '[[_Standards/WikiData/WD~Mbre,3450154]]'
-- "[[_Standards/WikiData/WD~Anyin Morofo,3502338]]"
+- "[[_Standards/WikiData/WD~Anyin_Morofo,3502338]]"
 - '[[_Standards/WikiData/WD~Wan,3913272]]'
 - '[[_Standards/WikiData/WD~Beng,3913311]]'
 - '[[_Standards/WikiData/WD~Gagu,3913317]]'
@@ -101,28 +101,28 @@ language_used:
 - '[[_Standards/WikiData/WD~Eotile,3915347]]'
 - '[[_Standards/WikiData/WD~Wobé,3915363]]'
 - '[[_Standards/WikiData/WD~Daho-Doo,3915369]]'
-- "[[_Standards/WikiData/WD~Gagnoa Bété,5005069]]"
+- "[[_Standards/WikiData/WD~Gagnoa_Bété,5005069]]"
 - '[[_Standards/WikiData/WD~Tura,7853636]]'
 - '[[_Standards/WikiData/WD~Cebaara,10975121]]'
-- "[[_Standards/WikiData/WD~Plapo Krumen,10975356]]"
-- "[[_Standards/WikiData/WD~Western Krahn,10975611]]"
-- "[[_Standards/WikiData/WD~Lakota Dida,11001730]]"
+- "[[_Standards/WikiData/WD~Plapo_Krumen,10975356]]"
+- "[[_Standards/WikiData/WD~Western_Krahn,10975611]]"
+- "[[_Standards/WikiData/WD~Lakota_Dida,11001730]]"
 - '[[_Standards/WikiData/WD~Mahou,11004334]]'
-- "[[_Standards/WikiData/WD~Bete Guiberoua,11019185]]"
+- "[[_Standards/WikiData/WD~Bete_Guiberoua,11019185]]"
 - '[[_Standards/WikiData/WD~Wojenaka,11029540]]'
-- "[[_Standards/WikiData/WD~Bondoukou Kulango,11031321]]"
-- "[[_Standards/WikiData/WD~Jeri Kuo,11031936]]"
-- "[[_Standards/WikiData/WD~Tepo Krumen,11152243]]"
+- "[[_Standards/WikiData/WD~Bondoukou_Kulango,11031321]]"
+- "[[_Standards/WikiData/WD~Jeri_Kuo,11031936]]"
+- "[[_Standards/WikiData/WD~Tepo_Krumen,11152243]]"
 - '[[_Standards/WikiData/WD~Koyaga,11155632]]'
-- "[[_Standards/WikiData/WD~Bete Daloa,11155819]]"
+- "[[_Standards/WikiData/WD~Bete_Daloa,11155819]]"
 - '[[_Standards/WikiData/WD~Worodougou,11155821]]'
-- "[[_Standards/WikiData/WD~Pye Krumen,11157382]]"
-- "[[_Standards/WikiData/WD~Western Wee,11159067]]"
+- "[[_Standards/WikiData/WD~Pye_Krumen,11157382]]"
+- "[[_Standards/WikiData/WD~Western_Wee,11159067]]"
 - '[[_Standards/WikiData/WD~Koro,11160588]]'
-- "[[_Standards/WikiData/WD~Southern Wee,19921582]]"
-- "[[_Standards/WikiData/WD~Bouna Kulango,20668241]]"
-- "[[_Standards/WikiData/WD~Yocoboué Dida,21074781]]"
-- "[[_Standards/WikiData/WD~Southern Birifor,32859745]]"
+- "[[_Standards/WikiData/WD~Southern_Wee,19921582]]"
+- "[[_Standards/WikiData/WD~Bouna_Kulango,20668241]]"
+- "[[_Standards/WikiData/WD~Yocoboué_Dida,21074781]]"
+- "[[_Standards/WikiData/WD~Southern_Birifor,32859745]]"
 - '[[_Standards/WikiData/WD~Kla-Dan,63257856]]'
 - '[[_Standards/WikiData/WD~Anyin,28395]]'
 - '[[_Standards/WikiData/WD~Dioula,32706]]'
@@ -157,17 +157,17 @@ language_used:
 - '[[_Standards/WikiData/WD~Ebrié,36644]]'
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Ivory Coast,1528537]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Ivory Coast,2088533]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Ivory Coast,2661724]]"
-foundational_text: "[[_Standards/WikiData/WD~Constitution of Ivory Coast,2995135]]"
-culture: "[[_Standards/WikiData/WD~culture of Ivory Coast,3007439]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Ivory Coast,3401763]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the Ivory Coast,3409195]]"
-head_of_government: "[[_Standards/WikiData/WD~Robert Beugré Mambé,3434569]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ivory_Coast,1528537]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Ivory_Coast,2088533]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Ivory_Coast,2661724]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution_of_Ivory_Coast,2995135]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Ivory_Coast,3007439]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Ivory_Coast,3401763]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Ivory_Coast,3409195]]"
+head_of_government: "[[_Standards/WikiData/WD~Robert_Beugré_Mambé,3434569]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 emergency_phone_number:
@@ -180,12 +180,12 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Abidjan,4689469]]'
 - '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10707367,10707367]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ivory Coast,11170150]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ivory_Coast,11170150]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Ivory Coast,17004621]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Ivory Coast,27881072]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Ivory_Coast,17004621]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Ivory_Coast,27881072]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 coordinates_of_southernmost_point: "Point(-7.525 4.361805555)"
 EAGLE_id: dates/lod/351
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"CoteDIvoire::xrhh5\"]"
@@ -243,31 +243,31 @@ official_website: "https://www.gouv.ci"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ivory%20Coast%20-%20Location%20Map%20%282013%29%20-%20CIV%20-%20UNOCHA.svg"
 coordinates_of_northernmost_point: "Point(-6.25 10.73)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Mali,912]]'
-- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+- "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
 - '[[_Standards/WikiData/WD~Guinea,1006]]'
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
-country: "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+country: "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
 capital: '[[_Standards/WikiData/WD~Yamoussoukro,3768]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
-part_of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
+part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 official_language: '[[_Standards/WikiData/WD~French,150]]'
 marriageable_age:
 - 20
@@ -288,7 +288,7 @@ BTI_Governance_Index:
 Human_Development_Index: 0.55
 suicide_rate: 14.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ci,40333]]'
-lowest_point: "[[_Standards/WikiData/WD~Gulf of Guinea,41430]]"
+lowest_point: "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]"
 BTI_Status_Index:
 - 3.14
 - 3.22
@@ -304,7 +304,7 @@ Gini_coefficient: 37.2
 Happy_Planet_Index_score: 39.6
 Democracy_Index: 4.11
 maritime_identification_digits: 619
-head_of_state: "[[_Standards/WikiData/WD~Alassane Ouattara,57413]]"
+head_of_state: "[[_Standards/WikiData/WD~Alassane_Ouattara,57413]]"
 ISO_3166_1_numeric_code: 384
 M49_code: 384
 mobile_country_code: 612

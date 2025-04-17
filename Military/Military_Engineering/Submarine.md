@@ -1,35 +1,35 @@
 ﻿---
 has_id_wikidata: Q2811
-part_of: "[[_Standards/WikiData/WD~water transport,155930]]"
+part_of: "[[_Standards/WikiData/WD~water_transport,155930]]"
 different_from:
 - '[[_Standards/WikiData/WD~Submarine,361183]]'
 - '[[_Standards/WikiData/WD~Nautilus,1500360]]'
 - '[[_Standards/WikiData/WD~U-Boot,16104133]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~U-boat,428661]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 source_of_energy:
-- "[[_Standards/WikiData/WD~air-independent propulsion,789826]]"
-- "[[_Standards/WikiData/WD~diesel-electric transmission,1163778]]"
-- "[[_Standards/WikiData/WD~nuclear power,12739]]"
+- "[[_Standards/WikiData/WD~air-independent_propulsion,789826]]"
+- "[[_Standards/WikiData/WD~diesel-electric_transmission,1163778]]"
+- "[[_Standards/WikiData/WD~nuclear_power,12739]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~carbon steel,967996]]"
-- "[[_Standards/WikiData/WD~alloy steel,1070521]]"
+- "[[_Standards/WikiData/WD~carbon_steel,967996]]"
+- "[[_Standards/WikiData/WD~alloy_steel,1070521]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_United States O class submarine,5872225]]"
-- "[[_Standards/WikiData/WD~Template_Infobox submarine,11182407]]"
-- "[[_Standards/WikiData/WD~Template_German Type UE I submarines,22726919]]"
+- "[[_Standards/WikiData/WD~Template_United_States_O_class_submarine,5872225]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_submarine,11182407]]"
+- "[[_Standards/WikiData/WD~Template_German_Type_UE_I_submarines,22726919]]"
 - '[[_Standards/WikiData/WD~Q22897150,22897150]]'
 - '[[_Standards/WikiData/WD~Q22897157,22897157]]'
 - '[[_Standards/WikiData/WD~Q22900301,22900301]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~vessel,16391167]]'
-- "[[_Standards/WikiData/WD~underwater vehicle,19623198]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~military equipment,18643213]]"
+- "[[_Standards/WikiData/WD~underwater_vehicle,19623198]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~military_equipment,18643213]]"
 name: Tauchboot
-instance_of: "[[_Standards/WikiData/WD~submarine type,121289744]]"
+instance_of: "[[_Standards/WikiData/WD~submarine_type,121289744]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-Submarine-article.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Submarine%20dive.gif"
 equivalent_class: "http://rdf.muninn-project.org/ontologies/naval#Submarine"

@@ -1,22 +1,22 @@
 ﻿---
 has_id_wikidata: Q11500
 subclass_of:
-- "[[_Standards/WikiData/WD~physical quantity,107715]]"
-- "[[_Standards/WikiData/WD~scalar quantity,181175]]"
-- "[[_Standards/WikiData/WD~definite integral,1991596]]"
-- "[[_Standards/WikiData/WD~ISQ derived quantity,30337763]]"
+- "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+- "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
+- "[[_Standards/WikiData/WD~definite_integral,1991596]]"
+- "[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]"
 - '[[_Standards/WikiData/WD~area,111811675]]'
-- "[[_Standards/WikiData/WD~geometric measure,123410660]]"
+- "[[_Standards/WikiData/WD~geometric_measure,123410660]]"
 different_from:
 - '[[_Standards/WikiData/WD~square,174782]]'
-- "[[_Standards/WikiData/WD~surface area,1379273]]"
+- "[[_Standards/WikiData/WD~surface_area,1379273]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-- "[[_Standards/WikiData/WD~ISO 80000-3_2019 Quantities and units — Part 3_ Space and time,90137277]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Contents Portals,5008867]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units_—_Part_3__Space_and_time,90137277]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Contents_Portals,5008867]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110206152,110206152]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AB%E0%A4%B3.wav"
 Stack_Exchange_tag: "https://stackoverflow.com/tags/area"
@@ -32,7 +32,7 @@ quantity_symbol_LaTeX_:
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle S}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>S</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle S}</annotation>\n  </semantics>\n</math>"
 ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{2}}</annotation>\n  </semantics>\n</math>"
 Wikidata_property: area
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~square metre,25343]]"
+recommended_unit_of_measurement: "[[_Standards/WikiData/WD~square_metre,25343]]"
 follows: '[[_Standards/WikiData/WD~length,36253]]'
 followed_by: '[[_Standards/WikiData/WD~volume,39297]]'
 quantity_symbol_string_: S

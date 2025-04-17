@@ -41,85 +41,85 @@ demonym:
 coordinates_of_southernmost_point: "Point(80.58523 5.91893)"
 coordinates_of_northernmost_point: "Point(80.21222 9.83583)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Maldives,826]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Switzerland,39]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Estonia,191]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Islam,432]]'
 - '[[_Standards/WikiData/WD~Buddhism,748]]'
 - '[[_Standards/WikiData/WD~Christianity,5043]]'
 - '[[_Standards/WikiData/WD~Hinduism,9089]]'
 shares_border_with: '[[_Standards/WikiData/WD~India,668]]'
-country: "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+country: "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 member_of:
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation,795985]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-lowest_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,795985]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+lowest_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
 language_used:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Tamil,5885]]'
 - '[[_Standards/WikiData/WD~Sinhala,13267]]'
-- "[[_Standards/WikiData/WD~Sri Lankan Creole Malay,1089151]]"
+- "[[_Standards/WikiData/WD~Sri_Lankan_Creole_Malay,1089151]]"
 - '[[_Standards/WikiData/WD~Vedda,2567934]]'
-- "[[_Standards/WikiData/WD~Sri Lankan Sign Language,3915466]]"
-currency: "[[_Standards/WikiData/WD~Sri Lankan rupee,4596]]"
+- "[[_Standards/WikiData/WD~Sri_Lankan_Sign_Language,3915466]]"
+currency: "[[_Standards/WikiData/WD~Sri_Lankan_rupee,4596]]"
 official_language:
 - '[[_Standards/WikiData/WD~Tamil,5885]]'
 - '[[_Standards/WikiData/WD~Sinhala,13267]]'
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+05_30,6828]]'
 - '[[_Standards/WikiData/WD~Asia_Colombo,63230234]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~History of Ming,28763]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 total_fertility_rate: 2
 unemployment_rate: 5
@@ -140,7 +140,7 @@ BTI_Governance_Index:
 retirement_age: 55
 capital:
 - '[[_Standards/WikiData/WD~Colombo,35381]]'
-- "[[_Standards/WikiData/WD~Sri Jayawardenepura Kotte,41963]]"
+- "[[_Standards/WikiData/WD~Sri_Jayawardenepura_Kotte,41963]]"
 suicide_rate: 12.9
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.lk,41035]]'
@@ -159,54 +159,54 @@ BTI_Status_Index:
 - 6.61
 - 6.63
 Democracy_Index: 6.14
-flag: "[[_Standards/WikiData/WD~flag of Sri Lanka,154823]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Sri_Lanka,154823]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Central Province,190716]]"
-- "[[_Standards/WikiData/WD~Northern Province,598745]]"
-- "[[_Standards/WikiData/WD~Sabaragamuwa Province,853272]]"
-- "[[_Standards/WikiData/WD~Western Province,856686]]"
-- "[[_Standards/WikiData/WD~Uva Province,876293]]"
-- "[[_Standards/WikiData/WD~Southern Province,876308]]"
-- "[[_Standards/WikiData/WD~North Western Province,876339]]"
-- "[[_Standards/WikiData/WD~Eastern Province,1046126]]"
-- "[[_Standards/WikiData/WD~North Central Province,1057124]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Sri Lanka,208159]]"
-anthem: "[[_Standards/WikiData/WD~Sri Lanka Matha,745806]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~South Asia,771405]]"
-part_of: "[[_Standards/WikiData/WD~South Asia,771405]]"
+- "[[_Standards/WikiData/WD~Central_Province,190716]]"
+- "[[_Standards/WikiData/WD~Northern_Province,598745]]"
+- "[[_Standards/WikiData/WD~Sabaragamuwa_Province,853272]]"
+- "[[_Standards/WikiData/WD~Western_Province,856686]]"
+- "[[_Standards/WikiData/WD~Uva_Province,876293]]"
+- "[[_Standards/WikiData/WD~Southern_Province,876308]]"
+- "[[_Standards/WikiData/WD~North_Western_Province,876339]]"
+- "[[_Standards/WikiData/WD~Eastern_Province,1046126]]"
+- "[[_Standards/WikiData/WD~North_Central_Province,1057124]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Sri_Lanka,208159]]"
+anthem: "[[_Standards/WikiData/WD~Sri_Lanka_Matha,745806]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Asia,771405]]"
+part_of: "[[_Standards/WikiData/WD~South_Asia,771405]]"
 highest_point: '[[_Standards/WikiData/WD~Pidurutalagala,1146327]]'
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~BS 546,1383497]]"
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Sri Lanka,1450753]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Sri Lanka,1584837]]"
-has_part_s_: "[[_Standards/WikiData/WD~history of Sri Lanka,1584837]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Sri Lanka,2043780]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Sri Lanka,2045237]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Sri Lanka,2640939]]"
-replaces: "[[_Standards/WikiData/WD~Dominion of Ceylon,2670092]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Sri Lanka,2737195]]"
-culture: "[[_Standards/WikiData/WD~culture of Sri Lanka,2749556]]"
+- "[[_Standards/WikiData/WD~BS_546,1383497]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Sri_Lanka,1450753]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Sri_Lanka,1584837]]"
+has_part_s_: "[[_Standards/WikiData/WD~history_of_Sri_Lanka,1584837]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Sri_Lanka,2043780]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Sri_Lanka,2045237]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Sri_Lanka,2640939]]"
+replaces: "[[_Standards/WikiData/WD~Dominion_of_Ceylon,2670092]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Sri_Lanka,2737195]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Sri_Lanka,2749556]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~119,2807090]]'
 - '[[_Standards/WikiData/WD~110,25648823]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Sri Lanka,2914380]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Sri Lanka,2914380]]"
-head_of_state: "[[_Standards/WikiData/WD~Anura Kumara Dissanayake,4777855]]"
-public_holiday: "[[_Standards/WikiData/WD~Independence Day,6016023]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Sri Lanka,7112464]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Sri_Lanka,2914380]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Sri_Lanka,2914380]]"
+head_of_state: "[[_Standards/WikiData/WD~Anura_Kumara_Dissanayake,4777855]]"
+public_holiday: "[[_Standards/WikiData/WD~Independence_Day,6016023]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Sri_Lanka,7112464]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sri Lanka,14615012]]"
-bibliography: "[[_Standards/WikiData/WD~bibliography of Sri Lanka,20313287]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sri_Lanka,14615012]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_Sri_Lanka,20313287]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q27103890,27103890]]'
 - '[[_Standards/WikiData/WD~Q48307500,48307500]]'
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Public Seal of the Democratic Socialist Republic of Sri Lanka,42417426]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-open_data_portal: "[[_Standards/WikiData/WD~Sri Lanka Open data portal,97125599]]"
-head_of_government: "[[_Standards/WikiData/WD~Harini Amarasuriya,98298397]]"
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Public_Seal_of_the_Democratic_Socialist_Republic_of_Sri_Lanka,42417426]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+open_data_portal: "[[_Standards/WikiData/WD~Sri_Lanka_Open_data_portal,97125599]]"
+head_of_government: "[[_Standards/WikiData/WD~Harini_Amarasuriya,98298397]]"
 UMLS_CUI: C0038088
 coordinate_location: "Point(81.0 7.0)"
 ISNI: 0000000121527336

@@ -10,25 +10,25 @@ ATC_code: V03AN04
 Unicode_character: 氮
 time_of_discovery_or_invention: "1772"
 part_of:
-- "[[_Standards/WikiData/WD~group 15,106675]]"
-- "[[_Standards/WikiData/WD~period 2,207712]]"
-has_use: "[[_Standards/WikiData/WD~food additive,189567]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~daniel Rutherford,313067]]"
+- "[[_Standards/WikiData/WD~group_15,106675]]"
+- "[[_Standards/WikiData/WD~period_2,207712]]"
+has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~daniel_Rutherford,313067]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Opium Law,316572]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Infernal Dictionary, 6th ed.,20961706]]"
+- "[[_Standards/WikiData/WD~Opium_Law,316572]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
 - '[[_Standards/WikiData/WD~Nitrogen,84695628]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 instance_of:
-- "[[_Standards/WikiData/WD~atmophile element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 different_from: '[[_Standards/WikiData/WD~dinitrogen,2370426]]'
 named_after:
 - '[[_Standards/WikiData/WD~niter,11183742]]'
@@ -38,7 +38,7 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
 - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~diatomic nonmetal,19753344]]"
+- "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
 - '[[_Standards/WikiData/WD~nonmetal,19600]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Stickstoff.ogg"
 UMLS_CUI: C0028158
@@ -51,7 +51,7 @@ oxidation_state:
 - 3
 - 4
 - 5
-location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 electronegativity: 3
 atomic_number: 7
 ionic_radius:

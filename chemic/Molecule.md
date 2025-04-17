@@ -1,28 +1,28 @@
 ﻿---
 has_id_wikidata: Q11369
 has_part_s_:
-- "[[_Standards/WikiData/WD~covalent bond,127920]]"
+- "[[_Standards/WikiData/WD~covalent_bond,127920]]"
 - '[[_Standards/WikiData/WD~atom,9121]]'
 studied_in:
-- "[[_Standards/WikiData/WD~molecular physics,489328]]"
+- "[[_Standards/WikiData/WD~molecular_physics,489328]]"
 - '[[_Standards/WikiData/WD~chemistry,2329]]'
-- "[[_Standards/WikiData/WD~molecular biology,7202]]"
+- "[[_Standards/WikiData/WD~molecular_biology,7202]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 7,123625363]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~molecular configuration,901339]]"
-- "[[_Standards/WikiData/WD~molecular geometry,911331]]"
-- "[[_Standards/WikiData/WD~molecular function,14860489]]"
-- "[[_Standards/WikiData/WD~molecular property,16999526]]"
-- "[[_Standards/WikiData/WD~electron configuration,53859]]"
-subclass_of: "[[_Standards/WikiData/WD~molecular entity,2393187]]"
-instance_of: "[[_Standards/WikiData/WD~group or class of chemical entities,72070508]]"
-does_not_have_characteristic: "[[_Standards/WikiData/WD~electric charge,1111]]"
+- "[[_Standards/WikiData/WD~molecular_configuration,901339]]"
+- "[[_Standards/WikiData/WD~molecular_geometry,911331]]"
+- "[[_Standards/WikiData/WD~molecular_function,14860489]]"
+- "[[_Standards/WikiData/WD~molecular_property,16999526]]"
+- "[[_Standards/WikiData/WD~electron_configuration,53859]]"
+subclass_of: "[[_Standards/WikiData/WD~molecular_entity,2393187]]"
+instance_of: "[[_Standards/WikiData/WD~group_or_class_of_chemical_entities,72070508]]"
+does_not_have_characteristic: "[[_Standards/WikiData/WD~electric_charge,1111]]"
 opposite_of: '[[_Standards/WikiData/WD~ion,36496]]'
 named_after: '[[_Standards/WikiData/WD~mole,41509]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%A3%E0%A7%81.wav"

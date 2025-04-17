@@ -3,22 +3,22 @@ type: Element
 SpocWebEntityId: 21967
 has_id_wikidata: Q1857
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Carl Auer von Welsbach,89390]]"
-- "[[_Standards/WikiData/WD~Georges Urbain,560404]]"
+- "[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]"
+- "[[_Standards/WikiData/WD~Georges_Urbain,560404]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 named_after: '[[_Standards/WikiData/WD~Lutetia,270273]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox lutetium,8085411]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_lutetium,8085411]]"
 UMLS_CUI: C0024170
 Common_Procurement_Vocabulary_code:
 - 14752000-7
 - 14752000
 instance_of:
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 electronegativity: 1
 oxidation_state: 3
 atomic_number: 71

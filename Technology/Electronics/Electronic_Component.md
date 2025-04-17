@@ -2,25 +2,25 @@
 aliases:
 - "Electronic component"
 has_id_wikidata: Q11653
-has_part_s_: "[[_Standards/WikiData/WD~electrical terminal,182610]]"
-different_from: "[[_Standards/WikiData/WD~electrical element,210729]]"
-manifestation_of: "[[_Standards/WikiData/WD~electrical element,210729]]"
+has_part_s_: "[[_Standards/WikiData/WD~electrical_terminal,182610]]"
+different_from: "[[_Standards/WikiData/WD~electrical_element,210729]]"
+manifestation_of: "[[_Standards/WikiData/WD~electrical_element,210729]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~electrical element,210729]]"
-- "[[_Standards/WikiData/WD~electronic product,116961643]]"
+- "[[_Standards/WikiData/WD~electrical_element,210729]]"
+- "[[_Standards/WikiData/WD~electronic_product,116961643]]"
 uses: '[[_Standards/WikiData/WD~lead,947546]]'
-used_by: "[[_Standards/WikiData/WD~electronic circuit,1815901]]"
+used_by: "[[_Standards/WikiData/WD~electronic_circuit,1815901]]"
 has_characteristic:
 - '[[_Standards/WikiData/WD~concreteness,2992210]]'
-- "[[_Standards/WikiData/WD~electrical function,45915971]]"
-- "[[_Standards/WikiData/WD~type of electronic component,125517960]]"
-produced_sound: "[[_Standards/WikiData/WD~electromagnetically induced acoustic noise,5141464]]"
+- "[[_Standards/WikiData/WD~electrical_function,45915971]]"
+- "[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]"
+produced_sound: "[[_Standards/WikiData/WD~electromagnetically_induced_acoustic_noise,5141464]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox electronic component,6022386]]"
-- "[[_Standards/WikiData/WD~Template_Electronic components,8084347]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~product category,63981612]]"
-part_of: "[[_Standards/WikiData/WD~electronic system,65280844]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_electronic_component,6022386]]"
+- "[[_Standards/WikiData/WD~Template_Electronic_components,8084347]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
+part_of: "[[_Standards/WikiData/WD~electronic_system,65280844]]"
 Commons_category: "Electronic components"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Componentes.JPG"
 ---

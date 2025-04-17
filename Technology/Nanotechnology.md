@@ -5,7 +5,7 @@ named_after:
 - '[[_Standards/WikiData/WD~nanometre,178674]]'
 different_from: '[[_Standards/WikiData/WD~nanoscience,912169]]'
 is_the_study_of: '[[_Standards/WikiData/WD~nanomaterial,967847]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of nanotechnology,3974161]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_nanotechnology,3974161]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nanotechnology,4920752]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Nanotechnologie-article.ogg"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Zorgt%20jouw%20tandpasta%20voor%20het%20volgende%20milieuprobleem-%20-%20GEMAK.webm"
@@ -15,13 +15,13 @@ MeSH_tree_code:
 IPTC_NewsCode: mediatopic/20000766
 subreddit: nanotech
 instance_of:
-- "[[_Standards/WikiData/WD~technical sciences,12015335]]"
-- "[[_Standards/WikiData/WD~type of technology,112057532]]"
+- "[[_Standards/WikiData/WD~technical_sciences,12015335]]"
+- "[[_Standards/WikiData/WD~type_of_technology,112057532]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Nanotech footer,14444639]]"
+- "[[_Standards/WikiData/WD~Template_Nanotech_footer,14444639]]"
 - '[[_Standards/WikiData/WD~Template_Nanotechnology,14935994]]'
 practiced_by: '[[_Standards/WikiData/WD~nanotechnologist,63343073]]'
-described_by_source: "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
+described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 UMLS_CUI: C0872323
 subclass_of: '[[_Standards/WikiData/WD~technology,11016]]'
 Commons_gallery: Nanotechnology

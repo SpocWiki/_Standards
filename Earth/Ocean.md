@@ -2,18 +2,18 @@
 has_id_wikidata: Q9430
 has_part_s_:
 - '[[_Standards/WikiData/WD~seawater,184395]]'
-- "[[_Standards/WikiData/WD~adjacent sea,1973404]]"
+- "[[_Standards/WikiData/WD~adjacent_sea,1973404]]"
 - '[[_Standards/WikiData/WD~sea,165]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 studied_in:
 - '[[_Standards/WikiData/WD~oceanology,3349060]]'
 - '[[_Standards/WikiData/WD~oceanography,43518]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox body of water,5642502]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_body_of_water,5642502]]"
 different_from:
 - '[[_Standards/WikiData/WD~Samudera,9634863]]'
 - '[[_Standards/WikiData/WD~Océan,113137750]]'
@@ -22,10 +22,10 @@ topic_s_main_category:
 - '[[_Standards/WikiData/WD~Q9701555,9701555]]'
 - '[[_Standards/WikiData/WD~Q9705267,9705267]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~natural geographic object,35145263]]"
-- "[[_Standards/WikiData/WD~marine water body,116126039]]"
-- "[[_Standards/WikiData/WD~saline water body,116126228]]"
-- "[[_Standards/WikiData/WD~body of water,15324]]"
+- "[[_Standards/WikiData/WD~natural_geographic_object,35145263]]"
+- "[[_Standards/WikiData/WD~marine_water_body,116126039]]"
+- "[[_Standards/WikiData/WD~saline_water_body,116126228]]"
+- "[[_Standards/WikiData/WD~body_of_water,15324]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Oceans,115159158]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AE%E0%A8%B9%E0%A8%BE%E0%A8%82%E0%A8%B8%E0%A8%BE%E0%A8%97%E0%A8%B0.wav"
 image:

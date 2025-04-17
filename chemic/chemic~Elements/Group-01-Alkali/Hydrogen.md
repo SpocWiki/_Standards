@@ -10,29 +10,29 @@ density: 0.08987
 ionization_energy: 13.598
 refractive_index: 1.000132
 time_of_discovery_or_invention: "1766"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Henry Cavendish,131733]]"
-has_use: "[[_Standards/WikiData/WD~food additive,189567]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Henry_Cavendish,131733]]"
+has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 1,191936]]"
-- "[[_Standards/WikiData/WD~group 1,10801007]]"
+- "[[_Standards/WikiData/WD~period_1,191936]]"
+- "[[_Standards/WikiData/WD~group_1,10801007]]"
 - '[[_Standards/WikiData/WD~water,283]]'
 antiparticle: '[[_Standards/WikiData/WD~antihydrogen,216121]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 - '[[_Standards/WikiData/WD~Hydrogen,108309723]]'
 color: '[[_Standards/WikiData/WD~colorless,1396399]]'
 instance_of:
-- "[[_Standards/WikiData/WD~atmophile element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 different_from:
 - '[[_Standards/WikiData/WD~dihydrogen,3027893]]'
-- "[[_Standards/WikiData/WD~hydrogen atom,6643508]]"
-- "[[_Standards/WikiData/WD~hydrogen molecule,19822725]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
+- "[[_Standards/WikiData/WD~hydrogen_atom,6643508]]"
+- "[[_Standards/WikiData/WD~hydrogen_molecule,19822725]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57873859,57873859]]'
 Stack_Exchange_tag:
 - "https://chemistry.stackexchange.com/tags/hydrogen"
@@ -46,7 +46,7 @@ oxidation_state:
 - -1
 - 0
 - 1
-location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 atomic_number: 1
 electronegativity: 2.2
 ionic_radius: 54

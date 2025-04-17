@@ -35,75 +35,75 @@ Languages:
 icon: flag-kw
 has_id_wikidata: Q817
 shares_border_with:
-- "[[_Standards/WikiData/WD~Saudi–Kuwaiti Neutral Zone,74091]]"
+- "[[_Standards/WikiData/WD~Saudi–Kuwaiti_Neutral_Zone,74091]]"
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
-- "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
-- "[[_Standards/WikiData/WD~Organization of the Petroleum Exporting Countries,7795]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
+- "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
+- "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-flag: "[[_Standards/WikiData/WD~flag of Kuwait,165545]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Kuwait,242927]]"
-anthem: "[[_Standards/WikiData/WD~National Anthem of Kuwait,311367]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Kuwait,165545]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Kuwait,242927]]"
+anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Kuwait,311367]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Al Jahra Governorate,405701]]"
-- "[[_Standards/WikiData/WD~Al Ahmadi Governorate,552354]]"
+- "[[_Standards/WikiData/WD~Al_Jahra_Governorate,405701]]"
+- "[[_Standards/WikiData/WD~Al_Ahmadi_Governorate,552354]]"
 - '[[_Standards/WikiData/WD~Hawalli,747432]]'
-- "[[_Standards/WikiData/WD~Mubarak Al-Kabeer Governorate,913370]]"
-- "[[_Standards/WikiData/WD~Capital Governorate,1046645]]"
-- "[[_Standards/WikiData/WD~Farwaniya Governorate,1072757]]"
-replaces: "[[_Standards/WikiData/WD~Republic of Kuwait,868942]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of Kuwait,1139228]]"
+- "[[_Standards/WikiData/WD~Mubarak_Al-Kabeer_Governorate,913370]]"
+- "[[_Standards/WikiData/WD~Capital_Governorate,1046645]]"
+- "[[_Standards/WikiData/WD~Farwaniya_Governorate,1072757]]"
+replaces: "[[_Standards/WikiData/WD~Republic_of_Kuwait,868942]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Kuwait,1139228]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Kuwait,1516511]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Kuwait,2604863]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Kuwait,2944396]]"
-culture: "[[_Standards/WikiData/WD~culture of Kuwait,3138087]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Kuwait,1516511]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Kuwait,2604863]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Kuwait,2944396]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Kuwait,3138087]]"
 different_from: '[[_Standards/WikiData/WD~Koweït,3199414]]'
-instance_of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-highest_point: "[[_Standards/WikiData/WD~Mutla Ridge,4116111]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Kuwait,12217491]]"
-head_of_government: "[[_Standards/WikiData/WD~Sabah Al-Khalid Al-Sabah,12219691]]"
-head_of_state: "[[_Standards/WikiData/WD~Mishal Al-Ahmad Al-Jaber Al-Sabah,12243161]]"
+instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+highest_point: "[[_Standards/WikiData/WD~Mutla_Ridge,4116111]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Kuwait,12217491]]"
+head_of_government: "[[_Standards/WikiData/WD~Sabah_Al-Khalid_Al-Sabah,12219691]]"
+head_of_state: "[[_Standards/WikiData/WD~Mishal_Al-Ahmad_Al-Jaber_Al-Sabah,12243161]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kuwait,14615821]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Kuwait,16153589]]"
-described_by_source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Kuwait,16153589]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103921,27103921]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Kuwait,30100649]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~emir of Kuwait,100877419]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Kuwait,30100649]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~emir_of_Kuwait,100877419]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Kuwait,109528856]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 part_of:
-- "[[_Standards/WikiData/WD~Gulf States,109647832]]"
-- "[[_Standards/WikiData/WD~Middle East,7204]]"
-- "[[_Standards/WikiData/WD~West Asia,27293]]"
+- "[[_Standards/WikiData/WD~Gulf_States,109647832]]"
+- "[[_Standards/WikiData/WD~Middle_East,7204]]"
+- "[[_Standards/WikiData/WD~West_Asia,27293]]"
 coordinates_of_easternmost_point: "Point(48.784722222 28.822777777)"
 coordinates_of_southernmost_point: "Point(47.70489 28.52445)"
 official_name:
@@ -149,23 +149,23 @@ MeSH_tree_code: Z01.252.245.500.425
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
@@ -195,9 +195,9 @@ BTI_Status_Index:
 - 5.94
 - 5.96
 - 6.05
-lowest_point: "[[_Standards/WikiData/WD~Persian Gulf,34675]]"
-capital: "[[_Standards/WikiData/WD~Kuwait City,35178]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
+capital: "[[_Standards/WikiData/WD~Kuwait_City,35178]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.kw,42672]]'
 Happy_Planet_Index_score: 33.3
 Democracy_Index: 3.91
@@ -205,11 +205,11 @@ madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 ISO_3166_1_numeric_code: 414
 M49_code: 414
 language_used:
-- "[[_Standards/WikiData/WD~Gulf Arabic,56385]]"
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Gulf_Arabic,56385]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
 Human_Development_Index: 0.831
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Kuwait,62251]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Kuwait,62438]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Kuwait,62251]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Kuwait,62438]]"
 birth_rate:
 - 10.41
 - 9.727

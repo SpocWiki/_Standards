@@ -1,25 +1,25 @@
 ﻿---
 has_id_wikidata: Q11457
 natural_product_of_taxon:
-- "[[_Standards/WikiData/WD~Gossypium hirsutum,133481]]"
-- "[[_Standards/WikiData/WD~Gossypium barbadense,311515]]"
+- "[[_Standards/WikiData/WD~Gossypium_hirsutum,133481]]"
+- "[[_Standards/WikiData/WD~Gossypium_barbadense,311515]]"
 has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
 has_use:
 - '[[_Standards/WikiData/WD~batting,810903]]'
-- "[[_Standards/WikiData/WD~cotton paper,3738205]]"
-- "[[_Standards/WikiData/WD~cotton fabric,8231603]]"
+- "[[_Standards/WikiData/WD~cotton_paper,3738205]]"
+- "[[_Standards/WikiData/WD~cotton_fabric,8231603]]"
 - '[[_Standards/WikiData/WD~cordage,14523736]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Fairchild's Dictionary of Textiles,28888841]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Textiles and clothing along the Silk Roads,114574317]]"
-subclass_of: "[[_Standards/WikiData/WD~plant fiber,20026824]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Textiles_and_clothing_along_the_Silk_Roads,114574317]]"
+subclass_of: "[[_Standards/WikiData/WD~plant_fiber,20026824]]"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Baumwolle.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-cotton.ogg"

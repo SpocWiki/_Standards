@@ -2,13 +2,13 @@
 has_id_wikidata: Q36244
 subclass_of: '[[_Standards/WikiData/WD~phone,202064]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~semivowel,757410]]'
-facet_of: "[[_Standards/WikiData/WD~spoken language,1322198]]"
-different_from: "[[_Standards/WikiData/WD~vowel letter,9398093]]"
-depicted_by: "[[_Standards/WikiData/WD~vowel letter,9398093]]"
+facet_of: "[[_Standards/WikiData/WD~spoken_language,1322198]]"
+different_from: "[[_Standards/WikiData/WD~vowel_letter,9398093]]"
+depicted_by: "[[_Standards/WikiData/WD~vowel_letter,9398093]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Riemann's Music Dictionary,27680201]]"
-follows: "[[_Standards/WikiData/WD~prevocalic form,114092330]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+follows: "[[_Standards/WikiData/WD~prevocalic_form,114092330]]"
 Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/vowels"
 opposite_of: '[[_Standards/WikiData/WD~consonant,38035]]'
 Commons_category: Vowels

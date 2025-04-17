@@ -2,17 +2,17 @@
 type: Element
 SpocWebEntityId: 21998
 has_id_wikidata: Q1905
-location_of_discovery: "[[_Standards/WikiData/WD~University of California, Berkeley,168756]]"
-named_after: "[[_Standards/WikiData/WD~Ernest Lawrence,169577]]"
+location_of_discovery: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
+named_after: "[[_Standards/WikiData/WD~Ernest_Lawrence,169577]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox lawrencium,8085415]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_lawrencium,8085415]]"
 electronegativity: 1.3
 atomic_number: 103
 PubChem_CID: 31192

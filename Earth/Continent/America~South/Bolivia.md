@@ -37,53 +37,53 @@ Languages:
 - ay
 icon: flag-bo
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Andean Community,471690]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Rio Group,943105]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Andean_Community,471690]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Rio_Group,943105]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
 - '[[_Standards/WikiData/WD~Mercosur,4264]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Bolivia,134874]]"
-lowest_point: "[[_Standards/WikiData/WD~Paraguay River,179396]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Bolivia,207785]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Bolivia,134874]]"
+lowest_point: "[[_Standards/WikiData/WD~Paraguay_River,179396]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Bolivia,207785]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Beni Department,233169]]"
-- "[[_Standards/WikiData/WD~Cochabamba Department,233917]]"
-- "[[_Standards/WikiData/WD~Tarija Department,233933]]"
-- "[[_Standards/WikiData/WD~Santa Cruz Department,235106]]"
-- "[[_Standards/WikiData/WD~Chuquisaca Department,235110]]"
-- "[[_Standards/WikiData/WD~Pando Department,235362]]"
-- "[[_Standards/WikiData/WD~Potosí Department,238079]]"
-- "[[_Standards/WikiData/WD~La Paz Department,272784]]"
-- "[[_Standards/WikiData/WD~Oruro Department,1061368]]"
+- "[[_Standards/WikiData/WD~Beni_Department,233169]]"
+- "[[_Standards/WikiData/WD~Cochabamba_Department,233917]]"
+- "[[_Standards/WikiData/WD~Tarija_Department,233933]]"
+- "[[_Standards/WikiData/WD~Santa_Cruz_Department,235106]]"
+- "[[_Standards/WikiData/WD~Chuquisaca_Department,235110]]"
+- "[[_Standards/WikiData/WD~Pando_Department,235362]]"
+- "[[_Standards/WikiData/WD~Potosí_Department,238079]]"
+- "[[_Standards/WikiData/WD~La_Paz_Department,272784]]"
+- "[[_Standards/WikiData/WD~Oruro_Department,1061368]]"
 language_used:
 - '[[_Standards/WikiData/WD~Kallawaya,266417]]'
 - '[[_Standards/WikiData/WD~Toromono,510544]]'
 - '[[_Standards/WikiData/WD~Cavineña,524102]]'
 - '[[_Standards/WikiData/WD~Itonama,950585]]'
 - '[[_Standards/WikiData/WD~Araona,958414]]'
-- "[[_Standards/WikiData/WD~South Bolivian Quechua,1307730]]"
+- "[[_Standards/WikiData/WD~South_Bolivian_Quechua,1307730]]"
 - '[[_Standards/WikiData/WD~Movima,1659701]]'
-- "[[_Standards/WikiData/WD~Bolivian Sign Language,1783590]]"
+- "[[_Standards/WikiData/WD~Bolivian_Sign_Language,1783590]]"
 - '[[_Standards/WikiData/WD~Chiquitano,1844993]]'
 - '[[_Standards/WikiData/WD~Paunaka,2064378]]'
 - '[[_Standards/WikiData/WD~Pacahuara,2591165]]'
@@ -93,8 +93,8 @@ language_used:
 - '[[_Standards/WikiData/WD~Baure,2839722]]'
 - '[[_Standards/WikiData/WD~Pauserna,2912846]]'
 - '[[_Standards/WikiData/WD~Canichana,2936374]]'
-- "[[_Standards/WikiData/WD~Eastern Bolivian Guaraní,2963912]]"
-- "[[_Standards/WikiData/WD~Ese Ejja,2980381]]"
+- "[[_Standards/WikiData/WD~Eastern_Bolivian_Guaraní,2963912]]"
+- "[[_Standards/WikiData/WD~Ese_Ejja,2980381]]"
 - '[[_Standards/WikiData/WD~Uru,2992892]]'
 - '[[_Standards/WikiData/WD~Yaminawa,3026110]]'
 - '[[_Standards/WikiData/WD~Sirionó,3027953]]'
@@ -105,68 +105,68 @@ language_used:
 - '[[_Standards/WikiData/WD~Ignaciano,3148190]]'
 - '[[_Standards/WikiData/WD~Tacana,3182551]]'
 - '[[_Standards/WikiData/WD~Cayuvava,3183382]]'
-- "[[_Standards/WikiData/WD~North Bolivian Quechua,3409819]]"
+- "[[_Standards/WikiData/WD~North_Bolivian_Quechua,3409819]]"
 - '[[_Standards/WikiData/WD~Yupua,3450556]]'
 - '[[_Standards/WikiData/WD~Trinitario,3539279]]'
-- "[[_Standards/WikiData/WD~Western Bolivian Guaraní,3775037]]"
+- "[[_Standards/WikiData/WD~Western_Bolivian_Guaraní,3775037]]"
 - '[[_Standards/WikiData/WD~Jorá,5393974]]'
-- "[[_Standards/WikiData/WD~Wichí Lhamtés Nocten,5908756]]"
+- "[[_Standards/WikiData/WD~Wichí_Lhamtés_Nocten,5908756]]"
 - '[[_Standards/WikiData/WD~Yuqui,8061440]]'
 - '[[_Standards/WikiData/WD~Machinere,12953681]]'
-- "[[_Standards/WikiData/WD~Central Aymara,20526610]]"
+- "[[_Standards/WikiData/WD~Central_Aymara,20526610]]"
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~Aymara,4627]]'
 - '[[_Standards/WikiData/WD~Chipaya,35235]]'
 - '[[_Standards/WikiData/WD~Chimane,35950]]'
 - '[[_Standards/WikiData/WD~Ayoreo,56634]]'
-highest_point: "[[_Standards/WikiData/WD~Nevado Sajama,272593]]"
+highest_point: "[[_Standards/WikiData/WD~Nevado_Sajama,272593]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~president of Bolivia,373548]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~president of Bolivia,373548]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~president_of_Bolivia,373548]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~president_of_Bolivia,373548]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~119,2807090]]'
 - '[[_Standards/WikiData/WD~110,25648823]]'
 - '[[_Standards/WikiData/WD~160,25648824]]'
 part_of:
-- "[[_Standards/WikiData/WD~Hispanic America,653884]]"
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~South America,18]]"
-anthem: "[[_Standards/WikiData/WD~National Anthem of Bolivia,690016]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Bolivia,806180]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Bolivia,876412]]"
+- "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~South_America,18]]"
+anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Bolivia,690016]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Bolivia,806180]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Bolivia,876412]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Bolivia,1479899]]"
-legislative_body: "[[_Standards/WikiData/WD~Plurinational Legislative Assembly,1968458]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Bolivia,2091191]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Bolivia,2378698]]"
-culture: "[[_Standards/WikiData/WD~culture of Bolivia,3306313]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Bolivia,1479899]]"
+legislative_body: "[[_Standards/WikiData/WD~Plurinational_Legislative_Assembly,1968458]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bolivia,2091191]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bolivia,2378698]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Bolivia,3306313]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bolivia,6045158]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-head_of_state: "[[_Standards/WikiData/WD~Luis Arce,16149892]]"
-head_of_government: "[[_Standards/WikiData/WD~Luis Arce,16149892]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Bolivia,16153580]]"
+head_of_state: "[[_Standards/WikiData/WD~Luis_Arce,16149892]]"
+head_of_government: "[[_Standards/WikiData/WD~Luis_Arce,16149892]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bolivia,16153580]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103826,27103826]]'
-replaced_by: "[[_Standards/WikiData/WD~Acre Territory,27495564]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+replaced_by: "[[_Standards/WikiData/WD~Acre_Territory,27495564]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_La_Paz,63286077]]'
 - '[[_Standards/WikiData/WD~America_Cochabamba,111534089]]'
 - '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-open_data_portal: "[[_Standards/WikiData/WD~Open Data portal Bolivia,97063703]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_portal_Bolivia,97063703]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q109829420,109829420]]'
 nominal_GDP:
 - 40408208524
@@ -226,7 +226,7 @@ ISNI: 0000000121836059
 MeSH_tree_code: Z01.107.757.136
 coordinate_location: "Point(-64.991228611 -17.056869611)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
@@ -234,12 +234,12 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -258,10 +258,10 @@ official_language:
 - '[[_Standards/WikiData/WD~Quechua,5218]]'
 - '[[_Standards/WikiData/WD~Guarani,35876]]'
 capital:
-- "[[_Standards/WikiData/WD~La Paz,1491]]"
+- "[[_Standards/WikiData/WD~La_Paz,1491]]"
 - '[[_Standards/WikiData/WD~Sucre,2907]]'
-named_after: "[[_Standards/WikiData/WD~Simón Bolívar,8605]]"
-continent: "[[_Standards/WikiData/WD~South America,18]]"
+named_after: "[[_Standards/WikiData/WD~Simón_Bolívar,8605]]"
+continent: "[[_Standards/WikiData/WD~South_America,18]]"
 unemployment_rate: 3
 VAT_rate: 13
 age_of_majority: 18

@@ -4,19 +4,19 @@ named_after:
 - '[[_Standards/WikiData/WD~Uranus,79999]]'
 - '[[_Standards/WikiData/WD~Urania,104002]]'
 child_astronomical_body:
-- "[[_Standards/WikiData/WD~ε ring,511479]]"
-- "[[_Standards/WikiData/WD~β ring,615967]]"
-- "[[_Standards/WikiData/WD~ν ring,628325]]"
-- "[[_Standards/WikiData/WD~μ ring,1132027]]"
-- "[[_Standards/WikiData/WD~5 ring,2851398]]"
-- "[[_Standards/WikiData/WD~4 ring,2851399]]"
-- "[[_Standards/WikiData/WD~6 ring,2851401]]"
-- "[[_Standards/WikiData/WD~δ ring,2851408]]"
-- "[[_Standards/WikiData/WD~γ ring,2851426]]"
-- "[[_Standards/WikiData/WD~λ ring,2851428]]"
-- "[[_Standards/WikiData/WD~η ring,2851444]]"
-- "[[_Standards/WikiData/WD~ζ ring,3616611]]"
-- "[[_Standards/WikiData/WD~α ring,3680062]]"
+- "[[_Standards/WikiData/WD~ε_ring,511479]]"
+- "[[_Standards/WikiData/WD~β_ring,615967]]"
+- "[[_Standards/WikiData/WD~ν_ring,628325]]"
+- "[[_Standards/WikiData/WD~μ_ring,1132027]]"
+- "[[_Standards/WikiData/WD~5_ring,2851398]]"
+- "[[_Standards/WikiData/WD~4_ring,2851399]]"
+- "[[_Standards/WikiData/WD~6_ring,2851401]]"
+- "[[_Standards/WikiData/WD~δ_ring,2851408]]"
+- "[[_Standards/WikiData/WD~γ_ring,2851426]]"
+- "[[_Standards/WikiData/WD~λ_ring,2851428]]"
+- "[[_Standards/WikiData/WD~η_ring,2851444]]"
+- "[[_Standards/WikiData/WD~ζ_ring,3616611]]"
+- "[[_Standards/WikiData/WD~α_ring,3680062]]"
 - '[[_Standards/WikiData/WD~Titania,3322]]'
 - '[[_Standards/WikiData/WD~Oberon,3332]]'
 - '[[_Standards/WikiData/WD~Umbriel,3338]]'
@@ -45,25 +45,25 @@ child_astronomical_body:
 - '[[_Standards/WikiData/WD~Setebos,18500]]'
 - '[[_Standards/WikiData/WD~Ferdinand,18501]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 instance_of:
-- "[[_Standards/WikiData/WD~superior planet,844911]]"
-- "[[_Standards/WikiData/WD~ice giant,1319599]]"
-- "[[_Standards/WikiData/WD~outer planet,30014]]"
+- "[[_Standards/WikiData/WD~superior_planet,844911]]"
+- "[[_Standards/WikiData/WD~ice_giant,1319599]]"
+- "[[_Standards/WikiData/WD~outer_planet,30014]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~atmosphere of Uranus,1708494]]"
-- "[[_Standards/WikiData/WD~magnetosphere of Uranus,3843312]]"
-notation: "[[_Standards/WikiData/WD~Uranus symbol,3594854]]"
-part_of: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
-location: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
+- "[[_Standards/WikiData/WD~atmosphere_of_Uranus,1708494]]"
+- "[[_Standards/WikiData/WD~magnetosphere_of_Uranus,3843312]]"
+notation: "[[_Standards/WikiData/WD~Uranus_symbol,3594854]]"
+part_of: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
+location: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Uranus,6416482]]'
 different_from: '[[_Standards/WikiData/WD~Uranus,15614740]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Uranus,30589067]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Uranus,30589067]]"
 studied_in: '[[_Standards/WikiData/WD~uranology,131626710]]'
 orbital_inclination:
 - 0.77263783
@@ -84,7 +84,7 @@ pronunciation_audio:
 MeSH_tree_code: G01.060.075.730.700.865
 declination: -15.175
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William Herschel,14277]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Herschel,14277]]"
 site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Bath,22889]]'
 albedo:
 - 0.3

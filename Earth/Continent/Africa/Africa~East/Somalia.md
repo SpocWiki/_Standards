@@ -1,66 +1,66 @@
 ---
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.so,126480]]'
-flag: "[[_Standards/WikiData/WD~flag of Somalia,159538]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Somalia,159538]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-legislative_body: "[[_Standards/WikiData/WD~Federal Parliament of Somalia,176597]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+legislative_body: "[[_Standards/WikiData/WD~Federal_Parliament_of_Somalia,176597]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Republic Day,14885577]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Somalia,203362]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Republic_Day,14885577]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Somalia,203362]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Bakool,282471]]'
 - '[[_Standards/WikiData/WD~Hiran,660040]]'
-- "[[_Standards/WikiData/WD~Middle Shebelle,678435]]"
+- "[[_Standards/WikiData/WD~Middle_Shebelle,678435]]"
 - '[[_Standards/WikiData/WD~Bari,729170]]'
-- "[[_Standards/WikiData/WD~Awdal Region,791667]]"
+- "[[_Standards/WikiData/WD~Awdal_Region,791667]]"
 - '[[_Standards/WikiData/WD~Banaadir,806070]]'
 - '[[_Standards/WikiData/WD~Bay,812064]]'
 - '[[_Standards/WikiData/WD~Gedo,856719]]'
 - '[[_Standards/WikiData/WD~Galguduud,876772]]'
-- "[[_Standards/WikiData/WD~Lower Shebelle,877028]]"
+- "[[_Standards/WikiData/WD~Lower_Shebelle,877028]]"
 - '[[_Standards/WikiData/WD~Mudug,877034]]'
-- "[[_Standards/WikiData/WD~Lower Juba,877042]]"
-- "[[_Standards/WikiData/WD~Middle Juba,1046324]]"
+- "[[_Standards/WikiData/WD~Lower_Juba,877042]]"
+- "[[_Standards/WikiData/WD~Middle_Juba,1046324]]"
 - '[[_Standards/WikiData/WD~Nugal,1046329]]'
-head_of_state: "[[_Standards/WikiData/WD~Hassan Sheikh Mohamud,319153]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~federal republic,512187]]"
+head_of_state: "[[_Standards/WikiData/WD~Hassan_Sheikh_Mohamud,319153]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~federal_republic,512187]]"
 instance_of:
-- "[[_Standards/WikiData/WD~federal republic,512187]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~federal_republic,512187]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 highest_point: '[[_Standards/WikiData/WD~Shimbiris,649162]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Somalia,952462]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Somalia,1335939]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Somalia,1340791]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Somalia,952462]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Somalia,1335939]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Somalia,1340791]]"
 electrical_plug_type: '[[_Standards/WikiData/WD~Europlug,1378312]]'
-replaces: "[[_Standards/WikiData/WD~Somali Democratic Republic,1477220]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Somalia,1477621]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Somalia,2299534]]"
+replaces: "[[_Standards/WikiData/WD~Somali_Democratic_Republic,1477220]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Somalia,1477621]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Somalia,2299534]]"
 language_used:
 - '[[_Standards/WikiData/WD~Borana,2910610]]'
 - '[[_Standards/WikiData/WD~Swahili,3197533]]'
@@ -68,33 +68,33 @@ language_used:
 - '[[_Standards/WikiData/WD~Tunni,3514343]]'
 - '[[_Standards/WikiData/WD~Mushungulu,11732489]]'
 - '[[_Standards/WikiData/WD~Somali,13275]]'
-- "[[_Standards/WikiData/WD~Maay-Maay language,36221]]"
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Maay-Maay_language,36221]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
 - '[[_Standards/WikiData/WD~Garre,56618]]'
 - '[[_Standards/WikiData/WD~Boon,56616]]'
 - '[[_Standards/WikiData/WD~Jiiddu,56769]]'
-culture: "[[_Standards/WikiData/WD~culture of Somalia,3007294]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Somalia,3007294]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~999,3086706]]'
 - '[[_Standards/WikiData/WD~888,60061962]]'
 - '[[_Standards/WikiData/WD~555,60061960]]'
-anthem: "[[_Standards/WikiData/WD~Qolobaa Calankeed,4484804]]"
+anthem: "[[_Standards/WikiData/WD~Qolobaa_Calankeed,4484804]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Mogadishu,4689513]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-executive_body: "[[_Standards/WikiData/WD~Federal Government of Somalia,5440239]]"
+executive_body: "[[_Standards/WikiData/WD~Federal_Government_of_Somalia,5440239]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Somalia topics,6466088]]"
+- "[[_Standards/WikiData/WD~Template_Somalia_topics,6466088]]"
 - '[[_Standards/WikiData/WD~Template_Somalia,17586311]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Somalia,7112454]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Somalia,10862295]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Somalia,7112454]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Somalia,10862295]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Somalia,11278941]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Somalia,19364214]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Somalia,21830805]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-open_data_portal: "[[_Standards/WikiData/WD~Somalia Open Data Portal,96999258]]"
-head_of_government: "[[_Standards/WikiData/WD~Mohamed Hussein Roble,99605101]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Somalia,19364214]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Somalia,21830805]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+open_data_portal: "[[_Standards/WikiData/WD~Somalia_Open_Data_Portal,96999258]]"
+head_of_government: "[[_Standards/WikiData/WD~Mohamed_Hussein_Roble,99605101]]"
 nominal_GDP:
 - 8126105600
 - 7628000011
@@ -143,16 +143,16 @@ MeSH_tree_code: Z01.058.290.120.730
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mogadishu%20banner%20Lido%20Beach.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/A%20man%20carries%20a%20huge%20hammerhead%20through%20the%20streets%20of%20Mogadishu.jpg"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Yemen,805]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
@@ -160,20 +160,20 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 country: '[[_Standards/WikiData/WD~Somalia,1045]]'
-lowest_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+lowest_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
 capital: '[[_Standards/WikiData/WD~Mogadishu,2449]]'
 official_language:
 - '[[_Standards/WikiData/WD~Somali,13275]]'
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
-part_of: "[[_Standards/WikiData/WD~East Africa,27407]]"
+part_of: "[[_Standards/WikiData/WD~East_Africa,27407]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 7
 BTI_Governance_Index:

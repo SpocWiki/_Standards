@@ -13,48 +13,48 @@ date_of_official_opening: "1931-05-01"
 inception: "1931-05-01"
 has_time_started: "1931-05-01"
 located_on_street:
-- "[[_Standards/WikiData/WD~Fifth Avenue,109858]]"
-- "[[_Standards/WikiData/WD~34th Street,110049]]"
+- "[[_Standards/WikiData/WD~Fifth_Avenue,109858]]"
+- "[[_Standards/WikiData/WD~34th_Street,110049]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~observation deck,177305]]"
-- "[[_Standards/WikiData/WD~transmitter mast,1068623]]"
-- "[[_Standards/WikiData/WD~retail area,5152545]]"
+- "[[_Standards/WikiData/WD~observation_deck,177305]]"
+- "[[_Standards/WikiData/WD~transmitter_mast,1068623]]"
+- "[[_Standards/WikiData/WD~retail_area,5152545]]"
 - '[[_Standards/WikiData/WD~lobby,31948]]'
 has_use: '[[_Standards/WikiData/WD~office,182060]]'
 significant_event:
 - '[[_Standards/WikiData/WD~construction,385378]]'
-- "[[_Standards/WikiData/WD~aviation accident,744913]]"
-- "[[_Standards/WikiData/WD~groundbreaking ceremony,1068633]]"
-- "[[_Standards/WikiData/WD~opening ceremony,3010369]]"
+- "[[_Standards/WikiData/WD~aviation_accident,744913]]"
+- "[[_Standards/WikiData/WD~groundbreaking_ceremony,1068633]]"
+- "[[_Standards/WikiData/WD~opening_ceremony,3010369]]"
 instance_of:
-- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
-- "[[_Standards/WikiData/WD~office building,1021645]]"
+- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+- "[[_Standards/WikiData/WD~office_building,1021645]]"
 - '[[_Standards/WikiData/WD~skyscraper,11303]]'
-architect: "[[_Standards/WikiData/WD~Shreve, Lamb & Harmon,617190]]"
+architect: "[[_Standards/WikiData/WD~Shreve,_Lamb_&_Harmon,617190]]"
 heritage_designation:
-- "[[_Standards/WikiData/WD~National Historic Landmark,624232]]"
-- "[[_Standards/WikiData/WD~National Register of Historic Places listed place,19558910]]"
-- "[[_Standards/WikiData/WD~New York City Landmark,19825927]]"
-- "[[_Standards/WikiData/WD~New York State Register of Historic Places listed place,120763427]]"
-different_from: "[[_Standards/WikiData/WD~Empire Building,1339295]]"
-named_after: "[[_Standards/WikiData/WD~Empire State,7102494]]"
-architectural_style: "[[_Standards/WikiData/WD~Art Deco architecture,12720942]]"
-part_of: "[[_Standards/WikiData/WD~Seven Wonders of the Modern World,12800832]]"
-structural_engineer: "[[_Standards/WikiData/WD~Homer G. Balcom,16856049]]"
-owned_by: "[[_Standards/WikiData/WD~Empire State Realty Trust,27146006]]"
+- "[[_Standards/WikiData/WD~National_Historic_Landmark,624232]]"
+- "[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910]]"
+- "[[_Standards/WikiData/WD~New_York_City_Landmark,19825927]]"
+- "[[_Standards/WikiData/WD~New_York_State_Register_of_Historic_Places_listed_place,120763427]]"
+different_from: "[[_Standards/WikiData/WD~Empire_Building,1339295]]"
+named_after: "[[_Standards/WikiData/WD~Empire_State,7102494]]"
+architectural_style: "[[_Standards/WikiData/WD~Art_Deco_architecture,12720942]]"
+part_of: "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Modern_World,12800832]]"
+structural_engineer: "[[_Standards/WikiData/WD~Homer_G._Balcom,16856049]]"
+owned_by: "[[_Standards/WikiData/WD~Empire_State_Realty_Trust,27146006]]"
 CRIS_Unique_Site_Number: 06101.001691
 coordinate_location: "Point(-73.985555555 40.748333333)"
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Esb-logo-oneline.svg"
 Danbooru_tag: empire_state_building
 official_website: "https://www.esbnyc.com/"
-location: "[[_Standards/WikiData/WD~Midtown Manhattan,11249]]"
+location: "[[_Standards/WikiData/WD~Midtown_Manhattan,11249]]"
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Manhattan,11299]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~steel,11427]]'
 - '[[_Standards/WikiData/WD~limestone,23757]]'
 - '[[_Standards/WikiData/WD~brick,40089]]'
 - '[[_Standards/WikiData/WD~cement,45190]]'
-country: "[[_Standards/WikiData/WD~United States,30]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
 floors_below_ground: 1
 height:
 - 1500

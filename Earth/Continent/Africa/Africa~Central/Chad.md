@@ -36,72 +36,72 @@ Languages:
 - sre
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Sahel,66065]]'
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-named_after: "[[_Standards/WikiData/WD~Lake Chad,125309]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Lake Chad,125309]]"
+named_after: "[[_Standards/WikiData/WD~Lake_Chad,125309]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Lake_Chad,125309]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Economic Community of Central African States,189966]]"
-- "[[_Standards/WikiData/WD~Bank of Central African States,189972]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]"
+- "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 - '[[_Standards/WikiData/WD~OHADA,2029901]]'
-- "[[_Standards/WikiData/WD~Lake Chad Basin Commission,2986599]]"
+- "[[_Standards/WikiData/WD~Lake_Chad_Basin_Commission,2986599]]"
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~Multinational Joint Task Force,19429054]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
+- "[[_Standards/WikiData/WD~Multinational_Joint_Task_Force,19429054]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-flag: "[[_Standards/WikiData/WD~flag of Chad,165811]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Chad,165811]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Logone Oriental Region,167514]]"
-- "[[_Standards/WikiData/WD~Guéra Region,175706]]"
-- "[[_Standards/WikiData/WD~Moyen-Chari Region,177799]]"
-- "[[_Standards/WikiData/WD~Batha Region,180414]]"
-- "[[_Standards/WikiData/WD~Logone Occidental Region,305257]]"
-- "[[_Standards/WikiData/WD~Salamat Region,385584]]"
-- "[[_Standards/WikiData/WD~Mandoul Region,597410]]"
-- "[[_Standards/WikiData/WD~Tibesti Region,737711]]"
-- "[[_Standards/WikiData/WD~Ennedi Region,748093]]"
-- "[[_Standards/WikiData/WD~Ouaddaï Region,841338]]"
-- "[[_Standards/WikiData/WD~Chari-Baguirmi Region,843975]]"
-- "[[_Standards/WikiData/WD~Kanem Region,849841]]"
-- "[[_Standards/WikiData/WD~Wadi Fira Region,860813]]"
-- "[[_Standards/WikiData/WD~Tandjilé Region,867856]]"
-- "[[_Standards/WikiData/WD~Lac Region,867869]]"
-- "[[_Standards/WikiData/WD~Mayo-Kebbi Ouest Region,910393]]"
-- "[[_Standards/WikiData/WD~Mayo-Kebbi Est Region,911421]]"
+- "[[_Standards/WikiData/WD~Logone_Oriental_Region,167514]]"
+- "[[_Standards/WikiData/WD~Guéra_Region,175706]]"
+- "[[_Standards/WikiData/WD~Moyen-Chari_Region,177799]]"
+- "[[_Standards/WikiData/WD~Batha_Region,180414]]"
+- "[[_Standards/WikiData/WD~Logone_Occidental_Region,305257]]"
+- "[[_Standards/WikiData/WD~Salamat_Region,385584]]"
+- "[[_Standards/WikiData/WD~Mandoul_Region,597410]]"
+- "[[_Standards/WikiData/WD~Tibesti_Region,737711]]"
+- "[[_Standards/WikiData/WD~Ennedi_Region,748093]]"
+- "[[_Standards/WikiData/WD~Ouaddaï_Region,841338]]"
+- "[[_Standards/WikiData/WD~Chari-Baguirmi_Region,843975]]"
+- "[[_Standards/WikiData/WD~Kanem_Region,849841]]"
+- "[[_Standards/WikiData/WD~Wadi_Fira_Region,860813]]"
+- "[[_Standards/WikiData/WD~Tandjilé_Region,867856]]"
+- "[[_Standards/WikiData/WD~Lac_Region,867869]]"
+- "[[_Standards/WikiData/WD~Mayo-Kebbi_Ouest_Region,910393]]"
+- "[[_Standards/WikiData/WD~Mayo-Kebbi_Est_Region,911421]]"
 - '[[_Standards/WikiData/WD~Hadjer-Lamis,1042437]]'
-- "[[_Standards/WikiData/WD~Bahr el Gazel,1050621]]"
+- "[[_Standards/WikiData/WD~Bahr_el_Gazel,1050621]]"
 - '[[_Standards/WikiData/WD~Borkou,1139666]]'
-- "[[_Standards/WikiData/WD~Sila Region,1149611]]"
+- "[[_Standards/WikiData/WD~Sila_Region,1149611]]"
 - "[[_Standards/WikiData/WD~N'Djamena,3659]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Chad,188084]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Central African States,189972]]"
-anthem: "[[_Standards/WikiData/WD~La Tchadienne,213733]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Chad,188084]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
+anthem: "[[_Standards/WikiData/WD~La_Tchadienne,213733]]"
 different_from: '[[_Standards/WikiData/WD~Tchad,227041]]'
-highest_point: "[[_Standards/WikiData/WD~Emi Koussi,257441]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Chad,257746]]"
+highest_point: "[[_Standards/WikiData/WD~Emi_Koussi,257441]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Chad,257746]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Aisai,269644]]'
 language_used:
-- "[[_Standards/WikiData/WD~Bon Gula,289816]]"
+- "[[_Standards/WikiData/WD~Bon_Gula,289816]]"
 - '[[_Standards/WikiData/WD~Besme,289832]]'
 - '[[_Standards/WikiData/WD~Goundo,317636]]'
 - '[[_Standards/WikiData/WD~Fania,317642]]'
@@ -110,7 +110,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Horo,641748]]'
 - '[[_Standards/WikiData/WD~Marfa,713633]]'
 - '[[_Standards/WikiData/WD~Karanga,713643]]'
-- "[[_Standards/WikiData/WD~Kaba So,713654]]"
+- "[[_Standards/WikiData/WD~Kaba_So,713654]]"
 - '[[_Standards/WikiData/WD~Mango,713659]]'
 - '[[_Standards/WikiData/WD~Morom,759770]]'
 - '[[_Standards/WikiData/WD~Massalat,759984]]'
@@ -119,7 +119,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Naba,760732]]'
 - '[[_Standards/WikiData/WD~Koke,797249]]'
 - '[[_Standards/WikiData/WD~Tunia,863721]]'
-- "[[_Standards/WikiData/WD~Zan Gula,863726]]"
+- "[[_Standards/WikiData/WD~Zan_Gula,863726]]"
 - '[[_Standards/WikiData/WD~Dangaléat,942591]]'
 - '[[_Standards/WikiData/WD~Lele,1641493]]'
 - '[[_Standards/WikiData/WD~Ngambay,2372207]]'
@@ -154,16 +154,16 @@ language_used:
 - '[[_Standards/WikiData/WD~Lagwan,3502264]]'
 - '[[_Standards/WikiData/WD~Maslam,3502273]]'
 - '[[_Standards/WikiData/WD~Mser,3502347]]'
-- "[[_Standards/WikiData/WD~Babalia Creole Arabic,3504186]]"
+- "[[_Standards/WikiData/WD~Babalia_Creole_Arabic,3504186]]"
 - '[[_Standards/WikiData/WD~Mbara,3912770]]'
 - '[[_Standards/WikiData/WD~Muskum,3913334]]'
 - '[[_Standards/WikiData/WD~Disa,3914455]]'
 - '[[_Standards/WikiData/WD~Saba,3914885]]'
 - '[[_Standards/WikiData/WD~Kabba,3915316]]'
 - '[[_Standards/WikiData/WD~Kaba,3915361]]'
-- "[[_Standards/WikiData/WD~Kaba Deme,3915384]]"
+- "[[_Standards/WikiData/WD~Kaba_Deme,3915384]]"
 - '[[_Standards/WikiData/WD~Ngam,3915446]]'
-- "[[_Standards/WikiData/WD~Daju Mongo,5209890]]"
+- "[[_Standards/WikiData/WD~Daju_Mongo,5209890]]"
 - '[[_Standards/WikiData/WD~Gula,5617176]]'
 - '[[_Standards/WikiData/WD~Kuo,6445233]]'
 - '[[_Standards/WikiData/WD~Laka,6474528]]'
@@ -172,14 +172,14 @@ language_used:
 - '[[_Standards/WikiData/WD~Mangbai,6748872]]'
 - '[[_Standards/WikiData/WD~Sila,7514020]]'
 - '[[_Standards/WikiData/WD~Bedjond,8829831]]'
-- "[[_Standards/WikiData/WD~Chadian Sign Language,10322099]]"
-- "[[_Standards/WikiData/WD~Bagirmi Fulfulde,11003859]]"
-- "[[_Standards/WikiData/WD~Central Kanuri,15637215]]"
+- "[[_Standards/WikiData/WD~Chadian_Sign_Language,10322099]]"
+- "[[_Standards/WikiData/WD~Bagirmi_Fulfulde,11003859]]"
+- "[[_Standards/WikiData/WD~Central_Kanuri,15637215]]"
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
 - '[[_Standards/WikiData/WD~Amdang,28335]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 - '[[_Standards/WikiData/WD~Bua,32928]]'
-- "[[_Standards/WikiData/WD~Gula Iro,33360]]"
+- "[[_Standards/WikiData/WD~Gula_Iro,33360]]"
 - '[[_Standards/WikiData/WD~Fur,33364]]'
 - '[[_Standards/WikiData/WD~Laal,33436]]'
 - '[[_Standards/WikiData/WD~Kujargé,33448]]'
@@ -212,7 +212,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Gadang,56256]]'
 - '[[_Standards/WikiData/WD~Sarua,56261]]'
 - '[[_Standards/WikiData/WD~Ubi,56264]]'
-- "[[_Standards/WikiData/WD~Jonkor Bourmataguil,56269]]"
+- "[[_Standards/WikiData/WD~Jonkor_Bourmataguil,56269]]"
 - '[[_Standards/WikiData/WD~Mesme,56282]]'
 - '[[_Standards/WikiData/WD~Ndam,56283]]'
 - '[[_Standards/WikiData/WD~Yedina,56287]]'
@@ -220,7 +220,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Birgit,56302]]'
 - '[[_Standards/WikiData/WD~Musey,56328]]'
 - '[[_Standards/WikiData/WD~Mararit,56359]]'
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
 - '[[_Standards/WikiData/WD~Hausa,56475]]'
 - '[[_Standards/WikiData/WD~Shuwa,56497]]'
 - '[[_Standards/WikiData/WD~Masalit,56557]]'
@@ -234,23 +234,23 @@ language_used:
 - '[[_Standards/WikiData/WD~Kendeje,56895]]'
 - '[[_Standards/WikiData/WD~Kibet,56893]]'
 - '[[_Standards/WikiData/WD~Tama,57001]]'
-lowest_point: "[[_Standards/WikiData/WD~Bodélé Depression,619802]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Chad,754192]]"
+lowest_point: "[[_Standards/WikiData/WD~Bodélé_Depression,619802]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Chad,754192]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,1599346]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Chad,1999024]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Chad,2568162]]"
-culture: "[[_Standards/WikiData/WD~culture of Chad,3141032]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1599346]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Chad,1999024]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Chad,2568162]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Chad,3141032]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Ndjamena,4689517]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Chad,5589195]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Chad,7112225]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Chad,7644893]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Chad,5589195]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Chad,7112225]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Chad,7644893]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Chad.map"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Tschad.ogg"
@@ -317,14 +317,14 @@ native_label:
 short_name: "\U0001F1F9\U0001F1E9"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Chad,14615199]]'
-head_of_state: "[[_Standards/WikiData/WD~Mahamat Déby Itno,16206405]]"
+head_of_state: "[[_Standards/WikiData/WD~Mahamat_Déby_Itno,16206405]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~17,25648842]]'
 - '[[_Standards/WikiData/WD~18,25648843]]'
 - '[[_Standards/WikiData/WD~2251-4242,60061550]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Chad,28003132]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Chad,28003132]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Chad,28003132]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Chad,28003132]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 coordinates_of_northernmost_point: "Point(15.99996802 23.44922574)"
 coordinate_location: "Point(19.4 15.466667)"
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Chad\"]"
@@ -335,31 +335,31 @@ ISNI: 0000000121851881
 MeSH_tree_code: Z01.058.290.100.130
 coordinates_of_easternmost_point: "Point(23.99999604 15.6988081)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Romania,218]]'
 country: '[[_Standards/WikiData/WD~Chad,657]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~Central African Republic,929]]"
+- "[[_Standards/WikiData/WD~Central_African_Republic,929]]"
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Niger,1032]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 capital: "[[_Standards/WikiData/WD~N'Djamena,3659]]"
 official_language:
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
 - '[[_Standards/WikiData/WD~French,150]]'
-part_of: "[[_Standards/WikiData/WD~Central Africa,27433]]"
+part_of: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 7
 marriageable_age:
@@ -408,7 +408,7 @@ coordinates_of_southernmost_point: "Point(15.79989149 7.44298327)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Chad.svg"
 Dewey_Decimal_Classification: 2--6743
 CIVICUS_Monitor_country_entry: chad
-head_of_government: "[[_Standards/WikiData/WD~Idriss Déby,57350]]"
+head_of_government: "[[_Standards/WikiData/WD~Idriss_Déby,57350]]"
 area: 1284000
 total_fertility_rate: 6.156
 death_rate:

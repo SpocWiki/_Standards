@@ -7,27 +7,27 @@ Commons_category: Tellurium
 RTECS_number: WY2625000
 time_of_discovery_or_invention: "1783"
 part_of:
-- "[[_Standards/WikiData/WD~group 16,104567]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_16,104567]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~group 16,104567]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_16,104567]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 - '[[_Standards/WikiData/WD~metalloid,19596]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Franz-Joseph Müller von Reichenstein,112012]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Franz-Joseph_Müller_von_Reichenstein,112012]]"
 named_after: '[[_Standards/WikiData/WD~Terra,270867]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~flammable solid,21073024]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
-associated_hazard: "[[_Standards/WikiData/WD~tellurium exposure,21175335]]"
-has_effect: "[[_Standards/WikiData/WD~tellurium exposure,21175335]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
+associated_hazard: "[[_Standards/WikiData/WD~tellurium_exposure,21175335]]"
+has_effect: "[[_Standards/WikiData/WD~tellurium_exposure,21175335]]"
 UMLS_CUI: C0039462
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20crystals%20crystallizing.webm"
 electron_configuration:

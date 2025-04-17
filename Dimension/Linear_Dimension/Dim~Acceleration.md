@@ -1,21 +1,21 @@
 ﻿---
 has_id_wikidata: Q11376
 subclass_of:
-- "[[_Standards/WikiData/WD~physical quantity,107715]]"
-- "[[_Standards/WikiData/WD~vector quantity,2672914]]"
-- "[[_Standards/WikiData/WD~ISQ derived quantity,30337763]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre Varignon,379219]]"
+- "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+- "[[_Standards/WikiData/WD~vector_quantity,2672914]]"
+- "[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre_Varignon,379219]]"
 followed_by: '[[_Standards/WikiData/WD~jerk,497332]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-- "[[_Standards/WikiData/WD~ISO 80000-3_2019 Quantities and units — Part 3_ Space and time,90137277]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~metres per second squared,1051665]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units_—_Part_3__Space_and_time,90137277]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+recommended_unit_of_measurement: "[[_Standards/WikiData/WD~metres_per_second_squared,1051665]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~acceleration,22827994]]'
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 different_from: '[[_Standards/WikiData/WD~acceleration,28458703]]'
 Stack_Exchange_tag: "https://physics.stackexchange.com/tags/acceleration"
 UMLS_CUI: C0000894

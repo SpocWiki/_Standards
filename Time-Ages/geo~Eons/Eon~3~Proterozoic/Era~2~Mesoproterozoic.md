@@ -1,7 +1,7 @@
 ---
 has_id_wikidata: Q336530
 applies_to_jurisdiction: "[[_Standards/WikiData/WD~Germany,183]]"
-instance_of: "[[_Standards/WikiData/WD~Federal Act (Germany),1006079]]"
+instance_of: "[[_Standards/WikiData/WD~Federal_Act_(Germany),1006079]]"
 short_name:
   - Abzahlungsgesetz
   - AbzG

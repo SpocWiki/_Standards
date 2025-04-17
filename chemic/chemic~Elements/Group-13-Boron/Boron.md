@@ -8,27 +8,27 @@ DSSTOX_compound_identifier: DTXCID503922
 InChI: InChI=1S/B
 UNII: N9E3X5056Q
 InChIKey: ZOXJGFHDIHLPTG-UHFFFAOYSA-N
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 made_from_material: '[[_Standards/WikiData/WD~jadarite,182344]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 13,189294]]"
-- "[[_Standards/WikiData/WD~period 2,207712]]"
-- "[[_Standards/WikiData/WD~boron compound,49851249]]"
+- "[[_Standards/WikiData/WD~group_13,189294]]"
+- "[[_Standards/WikiData/WD~period_2,207712]]"
+- "[[_Standards/WikiData/WD~boron_compound,49851249]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 different_from:
 - '[[_Standards/WikiData/WD~Bor,1346524]]'
 - '[[_Standards/WikiData/WD~borophene,15916419]]'
 named_after: '[[_Standards/WikiData/WD~borax,3513011]]'
-subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
 time_of_discovery_or_invention: "1892"
 subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
 oxidation_state:

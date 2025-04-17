@@ -4,15 +4,15 @@ aliases:
 - "El Niño"
 - "Southern Oscillation"
 has_id_wikidata: Q7939
-opposite_of: "[[_Standards/WikiData/WD~La Niña,642867]]"
+opposite_of: "[[_Standards/WikiData/WD~La_Niña,642867]]"
 connects_with:
-- "[[_Standards/WikiData/WD~Southern Oscillation,1423047]]"
-- "[[_Standards/WikiData/WD~El Niño Current,19949840]]"
-different_from: "[[_Standards/WikiData/WD~El Niño,3050124]]"
-part_of: "[[_Standards/WikiData/WD~El Niño southern oscillation,14524818]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-subclass_of: "[[_Standards/WikiData/WD~meteorological phenomenon,16332653]]"
-instance_of: "[[_Standards/WikiData/WD~type of meteorological phenomenon,118733587]]"
+- "[[_Standards/WikiData/WD~Southern_Oscillation,1423047]]"
+- "[[_Standards/WikiData/WD~El_Niño_Current,19949840]]"
+different_from: "[[_Standards/WikiData/WD~El_Niño,3050124]]"
+part_of: "[[_Standards/WikiData/WD~El_Niño_southern_oscillation,14524818]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+subclass_of: "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Wetterph%C3%A4nomen%20El%20Ni%C3%B1o%20-%20kurzerkl%C3%A4rt.webm"
 Commons_category: "El Niño"
 OmegaWiki_Defined_Meaning: 671675

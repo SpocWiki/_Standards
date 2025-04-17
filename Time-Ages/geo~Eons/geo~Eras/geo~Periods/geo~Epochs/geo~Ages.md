@@ -1,14 +1,14 @@
 ---
 has_id_wikidata: Q568683
 different_from:
-  - "[[_Standards/WikiData/WD~age of the Earth,935310]]"
+  - "[[_Standards/WikiData/WD~age_of_the_Earth,935310]]"
   - "[[_Standards/WikiData/WD~age,100343219]]"
   - "[[_Standards/WikiData/WD~stage,1123245]]"
-has_part_s_: "[[_Standards/WikiData/WD~polarity chron,3290178]]"
+has_part_s_: "[[_Standards/WikiData/WD~polarity_chron,3290178]]"
 part_of: "[[_Standards/WikiData/WD~epoch,754897]]"
-standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigraphy,402104]]"
+standards_body: "[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]"
 studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
-subclass_of: "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
+subclass_of: "[[_Standards/WikiData/WD~geochronological_unit,4005761]]"
 ---
 
 # [[geo~Ages]] 

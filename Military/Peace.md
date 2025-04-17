@@ -5,14 +5,14 @@ subclass_of:
 - '[[_Standards/WikiData/WD~state,3505845]]'
 - '[[_Standards/WikiData/WD~absence,19829125]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 studied_in: '[[_Standards/WikiData/WD~irenology,15141361]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q94701131,94701131]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q96077045,96077045]]'
-instance_of: "[[_Standards/WikiData/WD~type of value,129510955]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_value,129510955]]"
 Provenio_UUID: e50ca798-9971-4705-95da-0ff688e8d853
 Libris_URI: 1zcffr8k5m1hqvd
 does_not_have_characteristic: '[[_Standards/WikiData/WD~war,198]]'

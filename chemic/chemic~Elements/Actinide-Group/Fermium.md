@@ -3,18 +3,18 @@ type: Element
 SpocWebEntityId: 21995
 has_id_wikidata: Q1896
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 UMLS_CUI: C0015853
-named_after: "[[_Standards/WikiData/WD~Enrico Fermi,8753]]"
+named_after: "[[_Standards/WikiData/WD~Enrico_Fermi,8753]]"
 subclass_of: '[[_Standards/WikiData/WD~actinide,19577]]'
 atomic_number: 100
 electronegativity: 1.3
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 PubChem_CID: 23998
 OmegaWiki_Defined_Meaning: 158627
 mass: 257.095

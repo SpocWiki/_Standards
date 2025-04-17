@@ -1,14 +1,14 @@
 ﻿---
 has_id_wikidata: Q11518
 instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
-statement_describes: "[[_Standards/WikiData/WD~right triangle,158688]]"
+statement_describes: "[[_Standards/WikiData/WD~right_triangle,158688]]"
 generalization_of:
-- "[[_Standards/WikiData/WD~parallel postulate,207014]]"
-- "[[_Standards/WikiData/WD~Pythagorean trigonometric identity,2039117]]"
-part_of: "[[_Standards/WikiData/WD~list of theorems,944443]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~parallel_postulate,207014]]"
+- "[[_Standards/WikiData/WD~Pythagorean_trigonometric_identity,2039117]]"
+part_of: "[[_Standards/WikiData/WD~list_of_theorems,944443]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 described_at_URL: "https://www.geogebra.org/m/ZFTGX57r"
-described_by_source: "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110206185,110206185]]'
 in_defining_formula:
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle a}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>a</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle a}</annotation>\n  </semantics>\n</math>"

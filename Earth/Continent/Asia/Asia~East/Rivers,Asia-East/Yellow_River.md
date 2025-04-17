@@ -5,60 +5,60 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bassin-du
 Commons_gallery: 黃河
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20River%20-%20panoramio.jpg"
 tributary:
-- "[[_Standards/WikiData/WD~Dawen River,163339]]"
+- "[[_Standards/WikiData/WD~Dawen_River,163339]]"
 - '[[_Standards/WikiData/WD~Jishui,840262]]'
-- "[[_Standards/WikiData/WD~Wei River,847641]]"
-- "[[_Standards/WikiData/WD~Tao River,937148]]"
-- "[[_Standards/WikiData/WD~Daxia River,1074179]]"
-- "[[_Standards/WikiData/WD~Fen River,1154778]]"
-- "[[_Standards/WikiData/WD~Huangshui River,1632803]]"
-- "[[_Standards/WikiData/WD~Qin He,2121586]]"
-- "[[_Standards/WikiData/WD~Black River (in Sichuan),10567309]]"
-- "[[_Standards/WikiData/WD~Yiluo River,10885043]]"
-- "[[_Standards/WikiData/WD~Datong River,10938192]]"
+- "[[_Standards/WikiData/WD~Wei_River,847641]]"
+- "[[_Standards/WikiData/WD~Tao_River,937148]]"
+- "[[_Standards/WikiData/WD~Daxia_River,1074179]]"
+- "[[_Standards/WikiData/WD~Fen_River,1154778]]"
+- "[[_Standards/WikiData/WD~Huangshui_River,1632803]]"
+- "[[_Standards/WikiData/WD~Qin_He,2121586]]"
+- "[[_Standards/WikiData/WD~Black_River_(in_Sichuan),10567309]]"
+- "[[_Standards/WikiData/WD~Yiluo_River,10885043]]"
+- "[[_Standards/WikiData/WD~Datong_River,10938192]]"
 - '[[_Standards/WikiData/WD~Daheihe,10938718]]'
-- "[[_Standards/WikiData/WD~Wuding River,15907862]]"
-- "[[_Standards/WikiData/WD~Daqing River,16888816]]"
-- "[[_Standards/WikiData/WD~Zuli He,16888861]]"
+- "[[_Standards/WikiData/WD~Wuding_River,15907862]]"
+- "[[_Standards/WikiData/WD~Daqing_River,16888816]]"
+- "[[_Standards/WikiData/WD~Zuli_He,16888861]]"
 - '[[_Standards/WikiData/WD~Q20019976,20019976]]'
-- "[[_Standards/WikiData/WD~Yan River,24668288]]"
-- "[[_Standards/WikiData/WD~Jindi He,28960955]]"
-- "[[_Standards/WikiData/WD~Dustin He,28960965]]"
-- "[[_Standards/WikiData/WD~Duo Qu,29988578]]"
-- "[[_Standards/WikiData/WD~Sushui He,29990245]]"
-- "[[_Standards/WikiData/WD~Wujia River,29990458]]"
-- "[[_Standards/WikiData/WD~Zhuanglang He,29990963]]"
-- "[[_Standards/WikiData/WD~Qingshui River,96749095]]"
-- "[[_Standards/WikiData/WD~Qushian River,105771598]]"
-- "[[_Standards/WikiData/WD~Bai He,106171932]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Bohai Sea,181969]]"
+- "[[_Standards/WikiData/WD~Yan_River,24668288]]"
+- "[[_Standards/WikiData/WD~Jindi_He,28960955]]"
+- "[[_Standards/WikiData/WD~Dustin_He,28960965]]"
+- "[[_Standards/WikiData/WD~Duo_Qu,29988578]]"
+- "[[_Standards/WikiData/WD~Sushui_He,29990245]]"
+- "[[_Standards/WikiData/WD~Wujia_River,29990458]]"
+- "[[_Standards/WikiData/WD~Zhuanglang_He,29990963]]"
+- "[[_Standards/WikiData/WD~Qingshui_River,96749095]]"
+- "[[_Standards/WikiData/WD~Qushian_River,105771598]]"
+- "[[_Standards/WikiData/WD~Bai_He,106171932]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Bohai_Sea,181969]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Baidu Baike,803722]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Fishes of the Yellow River,65116992]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Baidu_Baike,803722]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Fishes_of_the_Yellow_River,65116992]]"
 lake_on_watercourse:
-- "[[_Standards/WikiData/WD~Hukou Waterfall,602973]]"
-- "[[_Standards/WikiData/WD~Ngoring Lake,847864]]"
-- "[[_Standards/WikiData/WD~Gyaring Lake,4128895]]"
-- "[[_Standards/WikiData/WD~Cocha Lakes,11088466]]"
+- "[[_Standards/WikiData/WD~Hukou_Waterfall,602973]]"
+- "[[_Standards/WikiData/WD~Ngoring_Lake,847864]]"
+- "[[_Standards/WikiData/WD~Gyaring_Lake,4128895]]"
+- "[[_Standards/WikiData/WD~Cocha_Lakes,11088466]]"
 origin_of_the_watercourse:
-- "[[_Standards/WikiData/WD~Bayan Har Mountains,619687]]"
+- "[[_Standards/WikiData/WD~Bayan_Har_Mountains,619687]]"
 - '[[_Standards/WikiData/WD~Kariqu,10909855]]'
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Along%20the%20Yellow%20River%20WV%20Banner.jpg"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Yellow River,14374373]]"
-drainage_basin: "[[_Standards/WikiData/WD~Yellow River Basin,93758243]]"
+- "[[_Standards/WikiData/WD~Template_Yellow_River,14374373]]"
+drainage_basin: "[[_Standards/WikiData/WD~Yellow_River_Basin,93758243]]"
 instance_of: '[[_Standards/WikiData/WD~river,4022]]'
 located_in_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Sichuan,19770]]'
-- "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
+- "[[_Standards/WikiData/WD~Inner_Mongolia,41079]]"
 - '[[_Standards/WikiData/WD~Gansu,42392]]'
 - '[[_Standards/WikiData/WD~Shandong,43407]]'
 - '[[_Standards/WikiData/WD~Henan,43684]]'
@@ -67,9 +67,9 @@ located_in_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Shaanxi,47974]]'
 - '[[_Standards/WikiData/WD~Ningxia,57448]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
-country: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 basin_country:
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 watershed_area: 752000
 discharge: 2571
 length: 5464

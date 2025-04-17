@@ -1,33 +1,33 @@
 ﻿---
 has_id_wikidata: Q167
 instance_of:
-- "[[_Standards/WikiData/WD~transcendental number,173091]]"
-- "[[_Standards/WikiData/WD~mathematical constant,186509]]"
-- "[[_Standards/WikiData/WD~UCUM constant,83155724]]"
-- "[[_Standards/WikiData/WD~real number,12916]]"
+- "[[_Standards/WikiData/WD~transcendental_number,173091]]"
+- "[[_Standards/WikiData/WD~mathematical_constant,186509]]"
+- "[[_Standards/WikiData/WD~UCUM_constant,83155724]]"
+- "[[_Standards/WikiData/WD~real_number,12916]]"
 named_after:
-- "[[_Standards/WikiData/WD~Ludolph van Ceulen,310771]]"
+- "[[_Standards/WikiData/WD~Ludolph_van_Ceulen,310771]]"
 - '[[_Standards/WikiData/WD~circle,17278]]'
-significant_person: "[[_Standards/WikiData/WD~William Jones,371877]]"
+significant_person: "[[_Standards/WikiData/WD~William_Jones,371877]]"
 approximation_algorithm:
-- "[[_Standards/WikiData/WD~Bailey–Borwein–Plouffe formula,803807]]"
-- "[[_Standards/WikiData/WD~Wallis product,1501324]]"
-- "[[_Standards/WikiData/WD~Kochański's approximation,2006381]]"
-- "[[_Standards/WikiData/WD~Chudnovsky algorithm,2208385]]"
-- "[[_Standards/WikiData/WD~Gauss–Legendre algorithm,2448949]]"
-- "[[_Standards/WikiData/WD~Machin-like formula,3077635]]"
-- "[[_Standards/WikiData/WD~Borwein's algorithm,3751018]]"
-- "[[_Standards/WikiData/WD~Zhao Youqin's π algorithm,17278655]]"
-- "[[_Standards/WikiData/WD~Leibniz formula for π,97226587]]"
+- "[[_Standards/WikiData/WD~Bailey–Borwein–Plouffe_formula,803807]]"
+- "[[_Standards/WikiData/WD~Wallis_product,1501324]]"
+- "[[_Standards/WikiData/WD~Kochański's_approximation,2006381]]"
+- "[[_Standards/WikiData/WD~Chudnovsky_algorithm,2208385]]"
+- "[[_Standards/WikiData/WD~Gauss–Legendre_algorithm,2448949]]"
+- "[[_Standards/WikiData/WD~Machin-like_formula,3077635]]"
+- "[[_Standards/WikiData/WD~Borwein's_algorithm,3751018]]"
+- "[[_Standards/WikiData/WD~Zhao_Youqin's_π_algorithm,17278655]]"
+- "[[_Standards/WikiData/WD~Leibniz_formula_for_π,97226587]]"
 different_from:
-- "[[_Standards/WikiData/WD~Pi greco,3901786]]"
+- "[[_Standards/WikiData/WD~Pi_greco,3901786]]"
 - '[[_Standards/WikiData/WD~Pī,22673904]]'
 - '[[_Standards/WikiData/WD~Pi,14411]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 less_than: '[[_Standards/WikiData/WD~22_7,17987729]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~ISO 80000-2_2019 Quantities and units — Part 2_ Mathematics,109490582]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units_—_Part_2__Mathematics,109490582]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q114451702,114451702]]'
 studied_in: '[[_Standards/WikiData/WD~mathematics,395]]'
 notation: '[[_Standards/WikiData/WD~pi,168]]'

@@ -8,8 +8,8 @@ UNII: YZS2RPE8LE
 Unicode_character: 鍶
 time_of_discovery_or_invention: "1787"
 part_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~celestine,407221]]'
 - '[[_Standards/WikiData/WD~strontianite,422827]]'
@@ -17,20 +17,20 @@ made_from_material:
 - '[[_Standards/WikiData/WD~epidote-(Sr),19833533]]'
 named_after: '[[_Standards/WikiData/WD~Strontian,503042]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
 - '[[_Standards/WikiData/WD~Strontium,84688515]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William Cruickshank,902388]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Cruickshank,902388]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox strontium,8085983]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~good article badge,17437798]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_strontium,8085983]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~good_article_badge,17437798]]"
 UMLS_CUI: C0038467
-location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 electronegativity: 1
 oxidation_state: 2
 atomic_number: 38
@@ -39,7 +39,7 @@ ionic_radius:
 - 1.26
 - 1.36
 - 1.44
-found_in_taxon: "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 mass: 87.62
 Gmelin_number: 6868
 ZVG_number: 8310

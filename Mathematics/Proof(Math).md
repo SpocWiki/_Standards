@@ -9,18 +9,18 @@ uses:
 - '[[_Standards/WikiData/WD~axiom,17736]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~argument,186619]]'
-- "[[_Standards/WikiData/WD~mathematical reasoning,122766417]]"
+- "[[_Standards/WikiData/WD~mathematical_reasoning,122766417]]"
 follows: '[[_Standards/WikiData/WD~conjecture,319141]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~proof,516021]]'
 - '[[_Standards/WikiData/WD~validity,1047000]]'
-studied_in: "[[_Standards/WikiData/WD~proof theory,852732]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~formal proof,2762418]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+studied_in: "[[_Standards/WikiData/WD~proof_theory,852732]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~formal_proof,2762418]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 different_from: '[[_Standards/WikiData/WD~Q19814025,19814025]]'
 instance_of:
-- "[[_Standards/WikiData/WD~mathematical concept,24034552]]"
-- "[[_Standards/WikiData/WD~mathematical textform,114424400]]"
+- "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
+- "[[_Standards/WikiData/WD~mathematical_textform,114424400]]"
 Stack_Exchange_tag:
 - "https://math.stackexchange.com/tags/proofs"
 - "https://matheducators.stackexchange.com/tags/proofs"

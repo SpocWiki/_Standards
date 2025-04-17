@@ -10,28 +10,28 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~storey,831691]]'
 - '[[_Standards/WikiData/WD~wing,1125776]]'
 - '[[_Standards/WikiData/WD~entrance,1137365]]'
-- "[[_Standards/WikiData/WD~interior space,1299240]]"
-- "[[_Standards/WikiData/WD~ground floor,2054377]]"
-- "[[_Standards/WikiData/WD~structural support,16685719]]"
+- "[[_Standards/WikiData/WD~interior_space,1299240]]"
+- "[[_Standards/WikiData/WD~ground_floor,2054377]]"
+- "[[_Standards/WikiData/WD~structural_support,16685719]]"
 - '[[_Standards/WikiData/WD~column,4817]]'
 - '[[_Standards/WikiData/WD~stairs,12511]]'
 - '[[_Standards/WikiData/WD~window,35473]]'
 - '[[_Standards/WikiData/WD~door,36794]]'
 - '[[_Standards/WikiData/WD~wall,42948]]'
-has_characteristic: "[[_Standards/WikiData/WD~building type,811102]]"
+has_characteristic: "[[_Standards/WikiData/WD~building_type,811102]]"
 different_from:
-- "[[_Standards/WikiData/WD~fixed construction,811430]]"
+- "[[_Standards/WikiData/WD~fixed_construction,811430]]"
 - '[[_Standards/WikiData/WD~Building,4986439]]'
 - '[[_Standards/WikiData/WD~architecture,12271]]'
-subclass_of: "[[_Standards/WikiData/WD~architectural structure,811979]]"
+subclass_of: "[[_Standards/WikiData/WD~architectural_structure,811979]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-maintenance_method: "[[_Standards/WikiData/WD~maintenance of built heritage,3055298]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox building,5906647]]"
-connects_with: "[[_Standards/WikiData/WD~exterior space,21950738]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+maintenance_method: "[[_Standards/WikiData/WD~maintenance_of_built_heritage,3055298]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_building,5906647]]"
+connects_with: "[[_Standards/WikiData/WD~exterior_space,21950738]]"
 name_in_kana: けんちくぶつ
 EntitySchema_for_this_class: E270
 properties_for_this_type:
@@ -66,9 +66,9 @@ properties_for_this_type:
 - "main building contractor"
 Wikidata_property: "adjacent building"
 model_item:
-- "[[_Standards/WikiData/WD~Taj Mahal,9141]]"
-- "[[_Standards/WikiData/WD~White House,35525]]"
-- "[[_Standards/WikiData/WD~Sagrada Família,48435]]"
+- "[[_Standards/WikiData/WD~Taj_Mahal,9141]]"
+- "[[_Standards/WikiData/WD~White_House,35525]]"
+- "[[_Standards/WikiData/WD~Sagrada_Família,48435]]"
 OmegaWiki_Defined_Meaning: 442
 Dewey_Decimal_Classification: 720
 U_S_National_Archives_Identifier: 10640473

@@ -41,9 +41,9 @@ magnetic_moment: 1.55e+27
 Iconclass_notation: 24C12
 longitude_of_ascending_node: 100.47390909
 child_astronomical_body:
-- "[[_Standards/WikiData/WD~S_2003 J 24,107643667]]"
-- "[[_Standards/WikiData/WD~rings of Jupiter,3060]]"
-- "[[_Standards/WikiData/WD~Comet Shoemaker–Levy 9,3076]]"
+- "[[_Standards/WikiData/WD~S_2003_J_24,107643667]]"
+- "[[_Standards/WikiData/WD~rings_of_Jupiter,3060]]"
+- "[[_Standards/WikiData/WD~Comet_Shoemaker–Levy_9,3076]]"
 - '[[_Standards/WikiData/WD~Io,3123]]'
 - '[[_Standards/WikiData/WD~Callisto,3134]]'
 - '[[_Standards/WikiData/WD~Europa,3143]]'
@@ -96,38 +96,38 @@ child_astronomical_body:
 - '[[_Standards/WikiData/WD~Megaclite,17448]]'
 - '[[_Standards/WikiData/WD~Q157284,157284]]'
 - '[[_Standards/WikiData/WD~Dia,190536]]'
-- "[[_Standards/WikiData/WD~S_2003 J 12,193853]]"
+- "[[_Standards/WikiData/WD~S_2003_J_12,193853]]"
 - '[[_Standards/WikiData/WD~Eupheme,204283]]'
-- "[[_Standards/WikiData/WD~S_2003 J 18,207884]]"
-- "[[_Standards/WikiData/WD~S_2003 J 10,213982]]"
-- "[[_Standards/WikiData/WD~S_2003 J 9,213994]]"
+- "[[_Standards/WikiData/WD~S_2003_J_18,207884]]"
+- "[[_Standards/WikiData/WD~S_2003_J_10,213982]]"
+- "[[_Standards/WikiData/WD~S_2003_J_9,213994]]"
 - '[[_Standards/WikiData/WD~Eirene,214002]]'
-- "[[_Standards/WikiData/WD~S_2003 J 2,214005]]"
-- "[[_Standards/WikiData/WD~S_2003 J 4,214296]]"
-- "[[_Standards/WikiData/WD~S_2003 J 19,216069]]"
-- "[[_Standards/WikiData/WD~S_2003 J 16,216086]]"
+- "[[_Standards/WikiData/WD~S_2003_J_2,214005]]"
+- "[[_Standards/WikiData/WD~S_2003_J_4,214296]]"
+- "[[_Standards/WikiData/WD~S_2003_J_19,216069]]"
+- "[[_Standards/WikiData/WD~S_2003_J_16,216086]]"
 - '[[_Standards/WikiData/WD~Philophrosyne,216770]]'
-- "[[_Standards/WikiData/WD~S_2003 J 23,216992]]"
-- "[[_Standards/WikiData/WD~main ring,378590]]"
-- "[[_Standards/WikiData/WD~Jupiter LI,765688]]"
-- "[[_Standards/WikiData/WD~Jupiter LII,934499]]"
-- "[[_Standards/WikiData/WD~halo ring,945984]]"
-- "[[_Standards/WikiData/WD~S_2011 J 1,1458738]]"
-- "[[_Standards/WikiData/WD~S_2011 J 2,1458744]]"
+- "[[_Standards/WikiData/WD~S_2003_J_23,216992]]"
+- "[[_Standards/WikiData/WD~main_ring,378590]]"
+- "[[_Standards/WikiData/WD~Jupiter_LI,765688]]"
+- "[[_Standards/WikiData/WD~Jupiter_LII,934499]]"
+- "[[_Standards/WikiData/WD~halo_ring,945984]]"
+- "[[_Standards/WikiData/WD~S_2011_J_1,1458738]]"
+- "[[_Standards/WikiData/WD~S_2011_J_2,1458744]]"
 - '[[_Standards/WikiData/WD~46P_Wirtanen,1808299]]'
-- "[[_Standards/WikiData/WD~gossamer rings,3680049]]"
-- "[[_Standards/WikiData/WD~S_2016 J 1,30110317]]"
-- "[[_Standards/WikiData/WD~S_2017 J 1,30137638]]"
+- "[[_Standards/WikiData/WD~gossamer_rings,3680049]]"
+- "[[_Standards/WikiData/WD~S_2016_J_1,30110317]]"
+- "[[_Standards/WikiData/WD~S_2017_J_1,30137638]]"
 - '[[_Standards/WikiData/WD~Valetudo,55594346]]'
 - '[[_Standards/WikiData/WD~Pandia,55594494]]'
 - '[[_Standards/WikiData/WD~Ersa,55594492]]'
-- "[[_Standards/WikiData/WD~S_2017 J 9,55594498]]"
-- "[[_Standards/WikiData/WD~S_2017 J 2,55598485]]"
-- "[[_Standards/WikiData/WD~S_2017 J 5,55598490]]"
-- "[[_Standards/WikiData/WD~S_2017 J 8,55598488]]"
-- "[[_Standards/WikiData/WD~S_2017 J 3,55598494]]"
-- "[[_Standards/WikiData/WD~S_2017 J 6,55598492]]"
-- "[[_Standards/WikiData/WD~S_2017 J 7,55598496]]"
+- "[[_Standards/WikiData/WD~S_2017_J_9,55594498]]"
+- "[[_Standards/WikiData/WD~S_2017_J_2,55598485]]"
+- "[[_Standards/WikiData/WD~S_2017_J_5,55598490]]"
+- "[[_Standards/WikiData/WD~S_2017_J_8,55598488]]"
+- "[[_Standards/WikiData/WD~S_2017_J_3,55598494]]"
+- "[[_Standards/WikiData/WD~S_2017_J_6,55598492]]"
+- "[[_Standards/WikiData/WD~S_2017_J_7,55598496]]"
 studied_in: '[[_Standards/WikiData/WD~zenology,131581772]]'
 semi_major_axis_of_an_orbit:
 - 778112020
@@ -139,18 +139,18 @@ Stack_Exchange_tag:
 MeSH_tree_code: G01.060.075.730.700.412
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~magnetosphere of Jupiter,3041]]"
-- "[[_Standards/WikiData/WD~atmosphere of Jupiter,3045]]"
-- "[[_Standards/WikiData/WD~Jupiter's internal structure,3976182]]"
+- "[[_Standards/WikiData/WD~magnetosphere_of_Jupiter,3041]]"
+- "[[_Standards/WikiData/WD~atmosphere_of_Jupiter,3045]]"
+- "[[_Standards/WikiData/WD~Jupiter's_internal_structure,3976182]]"
 named_after: '[[_Standards/WikiData/WD~Jupiter,4649]]'
 apparent_magnitude:
 - -2.94
 - -1.6
 absolute_magnitude: -9.4
 instance_of:
-- "[[_Standards/WikiData/WD~outer planet,30014]]"
-- "[[_Standards/WikiData/WD~gas giant,121750]]"
-- "[[_Standards/WikiData/WD~superior planet,844911]]"
+- "[[_Standards/WikiData/WD~outer_planet,30014]]"
+- "[[_Standards/WikiData/WD~gas_giant,121750]]"
+- "[[_Standards/WikiData/WD~superior_planet,844911]]"
 surface_gravity: 23.1
 albedo:
 - 0.343
@@ -160,17 +160,17 @@ distance_from_Earth:
 - 967000000
 orbital_inclination: 1.304
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-part_of: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
-location: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+part_of: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
+location: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/790106-0203%20Voyager%2058M%20to%2031M%20reduced.gif"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Jupiter.ogg"
@@ -183,7 +183,7 @@ Unicode_character: ♃
 Dewey_Decimal_Classification: 523.45
 Wolfram_Language_entity_code: "Entity[\"Planet\", \"Jupiter\"]"
 different_from: '[[_Standards/WikiData/WD~Jowisz,16280772]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Jupiter,30589071]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Jupiter,30589071]]"
 ---
 
 ## #has_/text_of_/abstract 

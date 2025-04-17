@@ -6,17 +6,17 @@ part_of:
 - '[[_Standards/WikiData/WD~Angkor,163607]]'
 - '[[_Standards/WikiData/WD~Angkor,2397751]]'
 architectural_style:
-- "[[_Standards/WikiData/WD~Dravidian architecture,171309]]"
-- "[[_Standards/WikiData/WD~Thai architecture,2480618]]"
-creator: "[[_Standards/WikiData/WD~Suryavarman II,313298]]"
+- "[[_Standards/WikiData/WD~Dravidian_architecture,171309]]"
+- "[[_Standards/WikiData/WD~Thai_architecture,2480618]]"
+creator: "[[_Standards/WikiData/WD~Suryavarman_II,313298]]"
 instance_of:
-- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
-- "[[_Standards/WikiData/WD~archaeological site,839954]]"
-- "[[_Standards/WikiData/WD~Hindu temple,842402]]"
-- "[[_Standards/WikiData/WD~Buddhist temple,5393308]]"
-based_on: "[[_Standards/WikiData/WD~Mount Meru,652550]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Siem Reap Province,652818]]"
-present_in_work: "[[_Standards/WikiData/WD~Illusion of Gaia,1658920]]"
+- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+- "[[_Standards/WikiData/WD~archaeological_site,839954]]"
+- "[[_Standards/WikiData/WD~Hindu_temple,842402]]"
+- "[[_Standards/WikiData/WD~Buddhist_temple,5393308]]"
+based_on: "[[_Standards/WikiData/WD~Mount_Meru,652550]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Siem_Reap_Province,652818]]"
+present_in_work: "[[_Standards/WikiData/WD~Illusion_of_Gaia,1658920]]"
 inception: "1200"
 has_time_started: 1200-06 
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%B6%D5%A3%D5%AF%D5%B8%D6%80%20%D5%8E%D5%A1%D5%BF%20%28Angkor%20Wat%29.ogg"

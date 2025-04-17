@@ -11,22 +11,22 @@ InChI: InChI=1S/Ar
 InChIKey: XKRFYHLGVUSROY-UHFFFAOYSA-N
 Gujarati_Vishwakosh_entry: આગૉર્ન
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~John Strutt, 3rd Baron Rayleigh,83297]]"
-- "[[_Standards/WikiData/WD~William Ramsay,950726]]"
-has_use: "[[_Standards/WikiData/WD~food additive,189567]]"
+- "[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]"
+- "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
+has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 3,211331]]"
-- "[[_Standards/WikiData/WD~noble gases,19609]]"
+- "[[_Standards/WikiData/WD~period_3,211331]]"
+- "[[_Standards/WikiData/WD~noble_gases,19609]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
 instance_of:
-- "[[_Standards/WikiData/WD~atmophile element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 - '[[_Standards/WikiData/WD~gas,11432]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
@@ -37,7 +37,7 @@ UMLS_CUI: C0003781
 melting_point: -189.34
 boiling_point: -185.85
 named_after: '[[_Standards/WikiData/WD~laziness,484]]'
-subclass_of: "[[_Standards/WikiData/WD~noble gases,19609]]"
+subclass_of: "[[_Standards/WikiData/WD~noble_gases,19609]]"
 atomic_number: 18
 dynamic_viscosity: 22.7
 speed_of_sound: 813

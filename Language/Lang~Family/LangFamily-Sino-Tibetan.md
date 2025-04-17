@@ -9,10 +9,10 @@ subclass_of:
 - '[[_Standards/WikiData/WD~Dené–Caucasian,507968]]'
 - '[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]'
 - '[[_Standards/WikiData/WD~Sino-Tibetan-Indo-European,97690709]]'
-- "[[_Standards/WikiData/WD~Asian languages,98791755]]"
+- "[[_Standards/WikiData/WD~Asian_languages,98791755]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Q10500323,10500323]]'
-- "[[_Standards/WikiData/WD~Template_Sino-Tibetan branches,22768844]]"
+- "[[_Standards/WikiData/WD~Template_Sino-Tibetan_branches,22768844]]"
 Commons_category: "Sino-Tibetan languages"
 Krugosvet_article: gumanitarnye_nauki/lingvistika/SINO-TIBETSKIE_YAZIKI.html
 Glottolog_code: sino1245
@@ -22,7 +22,7 @@ Stack_Exchange_tag: "https://languages.stackexchange.com/tags/sino-tibetan"
 Linguist_List_code: sitb
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Sino-Tibetan%20Languages%20Map.png"
 Libris_URI: b8nqtnkv5g43wf8
-instance_of: "[[_Standards/WikiData/WD~language family,25295]]"
+instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
 number_of_speakers_writers_or_signers: 1200000000
 ISO_639_5_code: sit
 IETF_language_tag: sit

@@ -39,134 +39,134 @@ Languages:
 - zh-SG
 icon: flag-sg
 instance_of:
-- "[[/_Standards/WikiData/WD~island country,112099]]"
+- "[[/_Standards/WikiData/WD~island_country,112099]]"
 - '[[/_Standards/WikiData/WD~city-state,133442]]'
-- "[[/_Standards/WikiData/WD~global city,208511]]"
-- "[[/_Standards/WikiData/WD~border city,902814]]"
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~port settlement,2264924]]"
-- "[[/_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[/_Standards/WikiData/WD~national capital,108178728]]"
+- "[[/_Standards/WikiData/WD~global_city,208511]]"
+- "[[/_Standards/WikiData/WD~border_city,902814]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~port_settlement,2264924]]"
+- "[[/_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[/_Standards/WikiData/WD~national_capital,108178728]]"
 - '[[/_Standards/WikiData/WD~city,515]]'
 - '[[/_Standards/WikiData/WD~country,6256]]'
 public_holiday:
-- "[[/_Standards/WikiData/WD~Chinese New Year (Lunar New Year),131772]]"
+- "[[/_Standards/WikiData/WD~Chinese_New_Year_(Lunar_New_Year),131772]]"
 - '[[/_Standards/WikiData/WD~Vesak,215700]]'
-- "[[/_Standards/WikiData/WD~Eid al-Fitr,464458]]"
-- "[[/_Standards/WikiData/WD~Eid al-Adha,514400]]"
-- "[[/_Standards/WikiData/WD~National Day,6972121]]"
+- "[[/_Standards/WikiData/WD~Eid_al-Fitr,464458]]"
+- "[[/_Standards/WikiData/WD~Eid_al-Adha,514400]]"
+- "[[/_Standards/WikiData/WD~National_Day,6972121]]"
 - '[[/_Standards/WikiData/WD~Diwali,10244]]'
 - '[[/_Standards/WikiData/WD~Christmas,19809]]'
-- "[[/_Standards/WikiData/WD~New Year,34812]]"
-- "[[/_Standards/WikiData/WD~Good Friday,40317]]"
-- "[[/_Standards/WikiData/WD~International Workers' Day,47499]]"
-coat_of_arms: "[[/_Standards/WikiData/WD~Coat of arms of Singapore,131947]]"
+- "[[/_Standards/WikiData/WD~New_Year,34812]]"
+- "[[/_Standards/WikiData/WD~Good_Friday,40317]]"
+- "[[/_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+coat_of_arms: "[[/_Standards/WikiData/WD~Coat_of_arms_of_Singapore,131947]]"
 ethnic_group:
 - '[[/_Standards/WikiData/WD~Malays,142702]]'
-- "[[/_Standards/WikiData/WD~Chinese Singaporeans,1003039]]"
-- "[[/_Standards/WikiData/WD~Indian Singaporeans,6024146]]"
+- "[[/_Standards/WikiData/WD~Chinese_Singaporeans,1003039]]"
+- "[[/_Standards/WikiData/WD~Indian_Singaporeans,6024146]]"
 member_of:
-- "[[/_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[/_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[/_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[/_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[/_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[/_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[/_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[/_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[/_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[/_Standards/WikiData/WD~Organization of World Heritage Cities,734958]]"
-- "[[/_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[/_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[/_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[/_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
-- "[[/_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[/_Standards/WikiData/WD~United Nations,1065]]"
-- "[[/_Standards/WikiData/WD~Association of South-East Asian Nations,7768]]"
-- "[[/_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[/_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[/_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[/_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[/_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[/_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[/_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
+- "[[/_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[/_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[/_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[/_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+- "[[/_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[/_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[/_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]"
+- "[[/_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[/_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[/_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[/_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[/_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[/_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[/_Standards/WikiData/WD~Interpol,8475]]'
-- "[[/_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[/_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-lowest_point: "[[/_Standards/WikiData/WD~Singapore Strait,205655]]"
+- "[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[/_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+lowest_point: "[[/_Standards/WikiData/WD~Singapore_Strait,205655]]"
 located_in_or_next_to_body_of_water:
-- "[[/_Standards/WikiData/WD~Singapore Strait,205655]]"
-- "[[/_Standards/WikiData/WD~Singapore River,1454776]]"
-anthem: "[[/_Standards/WikiData/WD~Onward Singapore,209973]]"
+- "[[/_Standards/WikiData/WD~Singapore_Strait,205655]]"
+- "[[/_Standards/WikiData/WD~Singapore_River,1454776]]"
+anthem: "[[/_Standards/WikiData/WD~Onward_Singapore,209973]]"
 different_from:
 - '[[/_Standards/WikiData/WD~Singapur,264590]]'
 - '[[/_Standards/WikiData/WD~Singapore,3484936]]'
-capital_of: "[[/_Standards/WikiData/WD~Straits Settlements,376178]]"
-flag: "[[/_Standards/WikiData/WD~flag of Singapore,483659]]"
+capital_of: "[[/_Standards/WikiData/WD~Straits_Settlements,376178]]"
+flag: "[[/_Standards/WikiData/WD~flag_of_Singapore,483659]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[/_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-highest_point: "[[/_Standards/WikiData/WD~Bukit Timah,720209]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+highest_point: "[[/_Standards/WikiData/WD~Bukit_Timah,720209]]"
 language_used:
-- "[[/_Standards/WikiData/WD~Standard Chinese,727694]]"
+- "[[/_Standards/WikiData/WD~Standard_Chinese,727694]]"
 - '[[/_Standards/WikiData/WD~Singlish,939451]]'
-- "[[/_Standards/WikiData/WD~Singapore Sign Language,7512563]]"
-- "[[/_Standards/WikiData/WD~Baba Malay,18642798]]"
+- "[[/_Standards/WikiData/WD~Singapore_Sign_Language,7512563]]"
+- "[[/_Standards/WikiData/WD~Baba_Malay,18642798]]"
 - '[[/_Standards/WikiData/WD~English,1860]]'
 - '[[/_Standards/WikiData/WD~Tamil,5885]]'
 - '[[/_Standards/WikiData/WD~Mandarin,9192]]'
 - '[[/_Standards/WikiData/WD~Malay,9237]]'
-- "[[/_Standards/WikiData/WD~Southern Min,36495]]"
+- "[[/_Standards/WikiData/WD~Southern_Min,36495]]"
 official_language:
-- "[[/_Standards/WikiData/WD~Standard Chinese,727694]]"
+- "[[/_Standards/WikiData/WD~Standard_Chinese,727694]]"
 - '[[/_Standards/WikiData/WD~English,1860]]'
 - '[[/_Standards/WikiData/WD~Tamil,5885]]'
 - '[[/_Standards/WikiData/WD~Malay,9237]]'
-office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Prime Minister of Singapore,866756]]"
-geography_of_topic: "[[/_Standards/WikiData/WD~geography of Singapore,972582]]"
-head_of_state: "[[/_Standards/WikiData/WD~Tharman Shanmugaratnam,983752]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Prime_Minister_of_Singapore,866756]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Singapore,972582]]"
+head_of_state: "[[/_Standards/WikiData/WD~Tharman_Shanmugaratnam,983752]]"
 uses:
-- "[[/_Standards/WikiData/WD~vertical farming,1070535]]"
-- "[[/_Standards/WikiData/WD~roof garden,1156696]]"
-legislative_body: "[[/_Standards/WikiData/WD~Parliament of Singapore,1517231]]"
-electrical_plug_type: "[[/_Standards/WikiData/WD~BS 1363,1528507]]"
+- "[[/_Standards/WikiData/WD~vertical_farming,1070535]]"
+- "[[/_Standards/WikiData/WD~roof_garden,1156696]]"
+legislative_body: "[[/_Standards/WikiData/WD~Parliament_of_Singapore,1517231]]"
+electrical_plug_type: "[[/_Standards/WikiData/WD~BS_1363,1528507]]"
 contains_the_administrative_territorial_entity:
-- "[[/_Standards/WikiData/WD~South East Community Development Council,1687545]]"
-- "[[/_Standards/WikiData/WD~Central Singapore Community Development Council,2544592]]"
-- "[[/_Standards/WikiData/WD~North East Community Development Council,3710534]]"
-- "[[/_Standards/WikiData/WD~North West Community Development Council,5784118]]"
-- "[[/_Standards/WikiData/WD~South West Community Development Council,5784126]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Singapore,1773907]]"
-history_of_topic: "[[/_Standards/WikiData/WD~history of Singapore,1969320]]"
-demographics_of_topic: "[[/_Standards/WikiData/WD~demographics of Singapore,2359833]]"
-official_symbol: "[[/_Standards/WikiData/WD~Vanda 'Miss Joaquim',2424230]]"
-culture: "[[/_Standards/WikiData/WD~culture of Singapore,2661018]]"
-central_bank: "[[/_Standards/WikiData/WD~Monetary Authority of Singapore,2661296]]"
-highest_judicial_authority: "[[/_Standards/WikiData/WD~Supreme Court of Singapore,3001103]]"
+- "[[/_Standards/WikiData/WD~South_East_Community_Development_Council,1687545]]"
+- "[[/_Standards/WikiData/WD~Central_Singapore_Community_Development_Council,2544592]]"
+- "[[/_Standards/WikiData/WD~North_East_Community_Development_Council,3710534]]"
+- "[[/_Standards/WikiData/WD~North_West_Community_Development_Council,5784118]]"
+- "[[/_Standards/WikiData/WD~South_West_Community_Development_Council,5784126]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Singapore,1773907]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_Singapore,1969320]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of_Singapore,2359833]]"
+official_symbol: "[[/_Standards/WikiData/WD~Vanda_'Miss_Joaquim',2424230]]"
+culture: "[[/_Standards/WikiData/WD~culture_of_Singapore,2661018]]"
+central_bank: "[[/_Standards/WikiData/WD~Monetary_Authority_of_Singapore,2661296]]"
+highest_judicial_authority: "[[/_Standards/WikiData/WD~Supreme_Court_of_Singapore,3001103]]"
 emergency_phone_number:
 - '[[/_Standards/WikiData/WD~999,3086706]]'
 - '[[/_Standards/WikiData/WD~995,25267554]]'
 located_in_time_zone:
-- "[[/_Standards/WikiData/WD~Singapore Standard Time,3244578]]"
+- "[[/_Standards/WikiData/WD~Singapore_Standard_Time,3244578]]"
 - '[[/_Standards/WikiData/WD~Asia_Singapore,63285957]]'
 - '[[/_Standards/WikiData/WD~UTC+08_00,6985]]'
-basic_form_of_government: "[[/_Standards/WikiData/WD~parliamentary republic,4198907]]"
-replaces: "[[/_Standards/WikiData/WD~Singapore in Federation of Malaysia,4420038]]"
-participant_in: "[[/_Standards/WikiData/WD~ASEAN cable system,4654163]]"
-executive_body: "[[/_Standards/WikiData/WD~Government of Singapore,5589317]]"
-head_of_government: "[[/_Standards/WikiData/WD~Lawrence Wong,6504758]]"
-Wikimedia_outline: "[[/_Standards/WikiData/WD~outline of Singapore,7112451]]"
+basic_form_of_government: "[[/_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+replaces: "[[/_Standards/WikiData/WD~Singapore_in_Federation_of_Malaysia,4420038]]"
+participant_in: "[[/_Standards/WikiData/WD~ASEAN_cable_system,4654163]]"
+executive_body: "[[/_Standards/WikiData/WD~Government_of_Singapore,5589317]]"
+head_of_government: "[[/_Standards/WikiData/WD~Lawrence_Wong,6504758]]"
+Wikimedia_outline: "[[/_Standards/WikiData/WD~outline_of_Singapore,7112451]]"
 named_after: '[[/_Standards/WikiData/WD~Sinha,11308661]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Singapore,11379696]]'
 driving_side: '[[/_Standards/WikiData/WD~left,13196750]]'
-bibliography: "[[/_Standards/WikiData/WD~bibliography of Singapore,19646064]]"
-topographic_map: "[[/_Standards/WikiData/WD~Atlas of Singapore,21094526]]"
+bibliography: "[[/_Standards/WikiData/WD~bibliography_of_Singapore,19646064]]"
+topographic_map: "[[/_Standards/WikiData/WD~Atlas_of_Singapore,21094526]]"
 permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q22828288,22828288]]'
-has_characteristic: "[[/_Standards/WikiData/WD~partly free country,47185145]]"
-on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-open_data_portal: "[[/_Standards/WikiData/WD~Singapore Open Data,97131149]]"
+has_characteristic: "[[/_Standards/WikiData/WD~partly_free_country,47185145]]"
+on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+open_data_portal: "[[/_Standards/WikiData/WD~Singapore_Open_Data,97131149]]"
 demonym:
 - Singapurec
 - Singapurka
@@ -222,34 +222,34 @@ nominal_GDP:
 - 423796995373
 - 466788539652
 diplomatic_relation:
-- "[[/_Standards/WikiData/WD~South Africa,258]]"
+- "[[/_Standards/WikiData/WD~South_Africa,258]]"
 - '[[/_Standards/WikiData/WD~Armenia,399]]'
 - '[[/_Standards/WikiData/WD~Australia,408]]'
-- "[[/_Standards/WikiData/WD~North Korea,423]]"
-- "[[/_Standards/WikiData/WD~New Zealand,664]]"
+- "[[/_Standards/WikiData/WD~North_Korea,423]]"
+- "[[/_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[/_Standards/WikiData/WD~India,668]]'
 - '[[/_Standards/WikiData/WD~Mongolia,711]]'
 - '[[/_Standards/WikiData/WD~Israel,801]]'
 - '[[/_Standards/WikiData/WD~Malaysia,833]]'
 - '[[/_Standards/WikiData/WD~Pakistan,843]]'
-- "[[/_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[/_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[/_Standards/WikiData/WD~Taiwan,865]]'
 - '[[/_Standards/WikiData/WD~Thailand,869]]'
 - '[[/_Standards/WikiData/WD~Vietnam,881]]'
-- "[[/_Standards/WikiData/WD~South Korea,884]]"
+- "[[/_Standards/WikiData/WD~South_Korea,884]]"
 - '[[/_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[/_Standards/WikiData/WD~Brunei,921]]'
 - '[[/_Standards/WikiData/WD~Philippines,928]]'
 - '[[/_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[/_Standards/WikiData/WD~Hong Kong,8646]]"
+- "[[/_Standards/WikiData/WD~Hong_Kong,8646]]"
 - '[[/_Standards/WikiData/WD~Canada,16]]'
 - '[[/_Standards/WikiData/WD~Japan,17]]'
-- "[[/_Standards/WikiData/WD~United States,30]]"
+- "[[/_Standards/WikiData/WD~United_States,30]]"
 - '[[/_Standards/WikiData/WD~Netherlands,55]]'
 - '[[/_Standards/WikiData/WD~Mexico,96]]'
 - '[[/_Standards/WikiData/WD~France,142]]'
-- "[[/_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[/_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[/_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[/_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[/_Standards/WikiData/WD~Russia,159]]'
 - '[[/_Standards/WikiData/WD~Germany,183]]'
 - '[[/_Standards/WikiData/WD~Ukraine,212]]'
@@ -268,8 +268,8 @@ shares_border_with:
 twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Gibraltar,1410]]'
 - '[[/_Standards/WikiData/WD~Pyongyang,18808]]'
-present_in_work: "[[/_Standards/WikiData/WD~Civilization V,2385]]"
-part_of: "[[/_Standards/WikiData/WD~Southeast Asia,11708]]"
+present_in_work: "[[/_Standards/WikiData/WD~Civilization_V,2385]]"
+part_of: "[[/_Standards/WikiData/WD~Southeast_Asia,11708]]"
 continent: '[[/_Standards/WikiData/WD~Asia,48]]'
 Unicode_character: 🇸🇬 
 UN_LOCODE: SGSIN
@@ -318,7 +318,7 @@ birth_rate:
 - 8.8
 suicide_rate: 9.7
 total_fertility_rate: 1.25
-office_held_by_head_of_state: "[[/_Standards/WikiData/WD~President of Singapore,39021]]"
+office_held_by_head_of_state: "[[/_Standards/WikiData/WD~President_of_Singapore,39021]]"
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.sg,41851]]'
 Happy_Planet_Index_score: 45.5
 mobile_country_code: 525

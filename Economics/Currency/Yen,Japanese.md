@@ -1,23 +1,23 @@
 ﻿---
 has_id_wikidata: Q8146
 manufacturer:
-- "[[_Standards/WikiData/WD~National Printing Bureau,130035]]"
-- "[[_Standards/WikiData/WD~Japan Mint,1130777]]"
+- "[[_Standards/WikiData/WD~National_Printing_Bureau,130035]]"
+- "[[_Standards/WikiData/WD~Japan_Mint,1130777]]"
 currency_symbol_description:
 - '[[_Standards/WikiData/WD~¥,249321]]'
 - '[[_Standards/WikiData/WD~円,3594938]]'
-central_bank_issuer: "[[_Standards/WikiData/WD~Bank of Japan,333101]]"
+central_bank_issuer: "[[_Standards/WikiData/WD~Bank_of_Japan,333101]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 subdivision_of_this_unit: '[[_Standards/WikiData/WD~sen,2269590]]'
 different_from: '[[_Standards/WikiData/WD~JEN,3805226]]'
 replaces:
-- "[[_Standards/WikiData/WD~Tokugawa coinage,5976974]]"
-has_characteristic: "[[_Standards/WikiData/WD~Japanese Yen rate,11394831]]"
-foundational_text: "[[_Standards/WikiData/WD~New Currency Act,11504131]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Act on Currency Units and Issuance of Coins,11639619]]"
+- "[[_Standards/WikiData/WD~Tokugawa_coinage,5976974]]"
+has_characteristic: "[[_Standards/WikiData/WD~Japanese_Yen_rate,11394831]]"
+foundational_text: "[[_Standards/WikiData/WD~New_Currency_Act,11504131]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Act_on_Currency_Units_and_Issuance_of_Coins,11639619]]"
 subclass_of: '[[_Standards/WikiData/WD~yuan,25530138]]'
 start_time: "1871-07-01" 
 has_time_started: "1871-07-01"

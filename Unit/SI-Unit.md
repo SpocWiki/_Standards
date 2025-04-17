@@ -1,16 +1,16 @@
 ﻿---
 has_id_wikidata: Q12457
 instance_of:
-- "[[_Standards/WikiData/WD~metric system,232405]]"
-- "[[_Standards/WikiData/WD~technical standard,317623]]"
-- "[[_Standards/WikiData/WD~international standard,1334738]]"
-- "[[_Standards/WikiData/WD~coherent system of units,99734981]]"
-based_on: "[[_Standards/WikiData/WD~MKS system of units,512417]]"
+- "[[_Standards/WikiData/WD~metric_system,232405]]"
+- "[[_Standards/WikiData/WD~technical_standard,317623]]"
+- "[[_Standards/WikiData/WD~international_standard,1334738]]"
+- "[[_Standards/WikiData/WD~coherent_system_of_units,99734981]]"
+based_on: "[[_Standards/WikiData/WD~MKS_system_of_units,512417]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~SI Brochure (9th edition),68977219]]"
-- "[[_Standards/WikiData/WD~International Vocabulary of Metrology (3rd edition, 2012),70257574]]"
-- "[[_Standards/WikiData/WD~DIN 1301,105424877]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~SI_Brochure_(9th_edition),68977219]]"
+- "[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]"
+- "[[_Standards/WikiData/WD~DIN_1301,105424877]]"
 UMLS_CUI: C0021791
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/International%20System%20Of%20Units%20Logo.png"
 schematic:

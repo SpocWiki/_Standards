@@ -1,84 +1,84 @@
 ---
-flag: "[[_Standards/WikiData/WD~flag of Nigeria,102960]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Nigeria,102960]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Anambra State,117714]]"
-- "[[_Standards/WikiData/WD~Borno State,130626]]"
-- "[[_Standards/WikiData/WD~Zamfara State,145793]]"
-- "[[_Standards/WikiData/WD~Abia State,320852]]"
-- "[[_Standards/WikiData/WD~Adamawa State,337514]]"
-- "[[_Standards/WikiData/WD~Gombe State,376241]]"
-- "[[_Standards/WikiData/WD~Kogi State,387745]]"
-- "[[_Standards/WikiData/WD~Akwa Ibom State,424388]]"
-- "[[_Standards/WikiData/WD~Benue State,429908]]"
-- "[[_Standards/WikiData/WD~Taraba State,463959]]"
-- "[[_Standards/WikiData/WD~Kwara State,464953]]"
-- "[[_Standards/WikiData/WD~Oyo State,503905]]"
-- "[[_Standards/WikiData/WD~Delta State,503910]]"
-- "[[_Standards/WikiData/WD~Rivers State,503923]]"
-- "[[_Standards/WikiData/WD~Plateau State,503928]]"
-- "[[_Standards/WikiData/WD~Niger State,503932]]"
-- "[[_Standards/WikiData/WD~Bauchi State,503936]]"
-- "[[_Standards/WikiData/WD~Sokoto State,503941]]"
-- "[[_Standards/WikiData/WD~Ebonyi State,506808]]"
-- "[[_Standards/WikiData/WD~Federal Capital Territory,509300]]"
-- "[[_Standards/WikiData/WD~Bayelsa State,532153]]"
-- "[[_Standards/WikiData/WD~Ekiti State,534917]]"
-- "[[_Standards/WikiData/WD~Katsina State,657821]]"
-- "[[_Standards/WikiData/WD~Kano State,682571]]"
-- "[[_Standards/WikiData/WD~Jigawa State,682691]]"
-- "[[_Standards/WikiData/WD~Edo State,682704]]"
-- "[[_Standards/WikiData/WD~Osun State,682721]]"
-- "[[_Standards/WikiData/WD~Yobe State,682777]]"
-- "[[_Standards/WikiData/WD~Cross River State,739676]]"
-- "[[_Standards/WikiData/WD~Kebbi State,748523]]"
-- "[[_Standards/WikiData/WD~Lagos State,815913]]"
-- "[[_Standards/WikiData/WD~Nasarawa State,836645]]"
-- "[[_Standards/WikiData/WD~Ondo State,836654]]"
-- "[[_Standards/WikiData/WD~Ogun State,836657]]"
-- "[[_Standards/WikiData/WD~Imo State,842939]]"
-- "[[_Standards/WikiData/WD~Kaduna State,878284]]"
-- "[[_Standards/WikiData/WD~Enugu State,3817714]]"
+- "[[_Standards/WikiData/WD~Anambra_State,117714]]"
+- "[[_Standards/WikiData/WD~Borno_State,130626]]"
+- "[[_Standards/WikiData/WD~Zamfara_State,145793]]"
+- "[[_Standards/WikiData/WD~Abia_State,320852]]"
+- "[[_Standards/WikiData/WD~Adamawa_State,337514]]"
+- "[[_Standards/WikiData/WD~Gombe_State,376241]]"
+- "[[_Standards/WikiData/WD~Kogi_State,387745]]"
+- "[[_Standards/WikiData/WD~Akwa_Ibom_State,424388]]"
+- "[[_Standards/WikiData/WD~Benue_State,429908]]"
+- "[[_Standards/WikiData/WD~Taraba_State,463959]]"
+- "[[_Standards/WikiData/WD~Kwara_State,464953]]"
+- "[[_Standards/WikiData/WD~Oyo_State,503905]]"
+- "[[_Standards/WikiData/WD~Delta_State,503910]]"
+- "[[_Standards/WikiData/WD~Rivers_State,503923]]"
+- "[[_Standards/WikiData/WD~Plateau_State,503928]]"
+- "[[_Standards/WikiData/WD~Niger_State,503932]]"
+- "[[_Standards/WikiData/WD~Bauchi_State,503936]]"
+- "[[_Standards/WikiData/WD~Sokoto_State,503941]]"
+- "[[_Standards/WikiData/WD~Ebonyi_State,506808]]"
+- "[[_Standards/WikiData/WD~Federal_Capital_Territory,509300]]"
+- "[[_Standards/WikiData/WD~Bayelsa_State,532153]]"
+- "[[_Standards/WikiData/WD~Ekiti_State,534917]]"
+- "[[_Standards/WikiData/WD~Katsina_State,657821]]"
+- "[[_Standards/WikiData/WD~Kano_State,682571]]"
+- "[[_Standards/WikiData/WD~Jigawa_State,682691]]"
+- "[[_Standards/WikiData/WD~Edo_State,682704]]"
+- "[[_Standards/WikiData/WD~Osun_State,682721]]"
+- "[[_Standards/WikiData/WD~Yobe_State,682777]]"
+- "[[_Standards/WikiData/WD~Cross_River_State,739676]]"
+- "[[_Standards/WikiData/WD~Kebbi_State,748523]]"
+- "[[_Standards/WikiData/WD~Lagos_State,815913]]"
+- "[[_Standards/WikiData/WD~Nasarawa_State,836645]]"
+- "[[_Standards/WikiData/WD~Ondo_State,836654]]"
+- "[[_Standards/WikiData/WD~Ogun_State,836657]]"
+- "[[_Standards/WikiData/WD~Imo_State,842939]]"
+- "[[_Standards/WikiData/WD~Kaduna_State,878284]]"
+- "[[_Standards/WikiData/WD~Enugu_State,3817714]]"
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Gulf of Guinea Commission,2986587]]"
-- "[[_Standards/WikiData/WD~Lake Chad Basin Commission,2986599]]"
-- "[[_Standards/WikiData/WD~African Groundnut Council,4689777]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~Multinational Joint Task Force,19429054]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
-- "[[_Standards/WikiData/WD~Organization of the Petroleum Exporting Countries,7795]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587]]"
+- "[[_Standards/WikiData/WD~Lake_Chad_Basin_Commission,2986599]]"
+- "[[_Standards/WikiData/WD~African_Groundnut_Council,4689777]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Multinational_Joint_Task_Force,19429054]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
+- "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 ethnic_group:
-- "[[_Standards/WikiData/WD~Yoruba people,190168]]"
-- "[[_Standards/WikiData/WD~Fulbe people,202575]]"
-- "[[_Standards/WikiData/WD~Ibibio people,239577]]"
-- "[[_Standards/WikiData/WD~Igbo people,244157]]"
-- "[[_Standards/WikiData/WD~Ijaw people,528981]]"
-- "[[_Standards/WikiData/WD~Kanuri people,572665]]"
-- "[[_Standards/WikiData/WD~Tiv people,1235705]]"
-- "[[_Standards/WikiData/WD~Hausa people,33938]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Nigeria,207512]]"
+- "[[_Standards/WikiData/WD~Yoruba_people,190168]]"
+- "[[_Standards/WikiData/WD~Fulbe_people,202575]]"
+- "[[_Standards/WikiData/WD~Ibibio_people,239577]]"
+- "[[_Standards/WikiData/WD~Igbo_people,244157]]"
+- "[[_Standards/WikiData/WD~Ijaw_people,528981]]"
+- "[[_Standards/WikiData/WD~Kanuri_people,572665]]"
+- "[[_Standards/WikiData/WD~Tiv_people,1235705]]"
+- "[[_Standards/WikiData/WD~Hausa_people,33938]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Nigeria,207512]]"
 language_used:
 - '[[_Standards/WikiData/WD~Okpe,268924]]'
 - '[[_Standards/WikiData/WD~Kulu,425973]]'
@@ -151,13 +151,13 @@ language_used:
 - '[[_Standards/WikiData/WD~Zangwal,3441387]]'
 - '[[_Standards/WikiData/WD~Ehueun,3441392]]'
 - '[[_Standards/WikiData/WD~Bangwinji,3446631]]'
-- "[[_Standards/WikiData/WD~Baissa Fali,3446632]]"
+- "[[_Standards/WikiData/WD~Baissa_Fali,3446632]]"
 - '[[_Standards/WikiData/WD~Awak,3446643]]'
 - '[[_Standards/WikiData/WD~Zeem,3450131]]'
 - '[[_Standards/WikiData/WD~Ambo,3450142]]'
 - '[[_Standards/WikiData/WD~Akuku,3450179]]'
 - '[[_Standards/WikiData/WD~Baangi,3450648]]'
-- "[[_Standards/WikiData/WD~Barikanchi Pidgin,3450802]]"
+- "[[_Standards/WikiData/WD~Barikanchi_Pidgin,3450802]]"
 - '[[_Standards/WikiData/WD~Zekwe,3502244]]'
 - '[[_Standards/WikiData/WD~Jimi,3502308]]'
 - '[[_Standards/WikiData/WD~Ekid,3509628]]'
@@ -311,7 +311,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Engenni,3915365]]'
 - '[[_Standards/WikiData/WD~Kami,3915372]]'
 - '[[_Standards/WikiData/WD~Loo,3915378]]'
-- "[[_Standards/WikiData/WD~Mingang Doso,3915382]]"
+- "[[_Standards/WikiData/WD~Mingang_Doso,3915382]]"
 - '[[_Standards/WikiData/WD~Kpan,3915380]]'
 - '[[_Standards/WikiData/WD~Kele,3915391]]'
 - '[[_Standards/WikiData/WD~Odut,3915388]]'
@@ -322,7 +322,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Umon,3915448]]'
 - '[[_Standards/WikiData/WD~Jere,3915449]]'
 - '[[_Standards/WikiData/WD~Zora,3915454]]'
-- "[[_Standards/WikiData/WD~Hausa Sign Language,3915462]]"
+- "[[_Standards/WikiData/WD~Hausa_Sign_Language,3915462]]"
 - '[[_Standards/WikiData/WD~Mada,3915843]]'
 - '[[_Standards/WikiData/WD~Yukuben,3915846]]'
 - '[[_Standards/WikiData/WD~Firan,3915847]]'
@@ -340,7 +340,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Burak,4998097]]'
 - '[[_Standards/WikiData/WD~Dulbu,5313310]]'
 - '[[_Standards/WikiData/WD~Dungu,5315230]]'
-- "[[_Standards/WikiData/WD~Eastern Acipa,5329945]]"
+- "[[_Standards/WikiData/WD~Eastern_Acipa,5329945]]"
 - '[[_Standards/WikiData/WD~Eki,5350418]]'
 - '[[_Standards/WikiData/WD~Fungwa,5509187]]'
 - '[[_Standards/WikiData/WD~Gamo-Ningi,5520366]]'
@@ -359,25 +359,25 @@ language_used:
 - '[[_Standards/WikiData/WD~Kirya-Konzəl,6416310]]'
 - '[[_Standards/WikiData/WD~Kono,6429589]]'
 - '[[_Standards/WikiData/WD~Koromba,6432515]]'
-- "[[_Standards/WikiData/WD~Lau Laka,6474529]]"
+- "[[_Standards/WikiData/WD~Lau_Laka,6474529]]"
 - '[[_Standards/WikiData/WD~Lyase,6707102]]'
 - '[[_Standards/WikiData/WD~Mgbo,6826835]]'
 - '[[_Standards/WikiData/WD~Moo,6907057]]'
-- "[[_Standards/WikiData/WD~Nigerian Sign Language,7033021]]"
+- "[[_Standards/WikiData/WD~Nigerian_Sign_Language,7033021]]"
 - '[[_Standards/WikiData/WD~Okpe,7082547]]'
 - '[[_Standards/WikiData/WD~Okpela,7082551]]'
 - '[[_Standards/WikiData/WD~Bukwen,7194026]]'
 - '[[_Standards/WikiData/WD~Duguri,7194057]]'
-- "[[_Standards/WikiData/WD~Koro Wachi,7194098]]"
+- "[[_Standards/WikiData/WD~Koro_Wachi,7194098]]"
 - '[[_Standards/WikiData/WD~Ukwa,7878635]]'
 - '[[_Standards/WikiData/WD~Uyanga,7904095]]'
 - '[[_Standards/WikiData/WD~Viti,7937086]]'
 - '[[_Standards/WikiData/WD~Bokobaru,9228931]]'
-- "[[_Standards/WikiData/WD~Itu Mbon Uzo,10977737]]"
+- "[[_Standards/WikiData/WD~Itu_Mbon_Uzo,10977737]]"
 - '[[_Standards/WikiData/WD~Mbat,11001650]]'
 - '[[_Standards/WikiData/WD~Lamja-Dengsa-Tola,11001739]]'
 - '[[_Standards/WikiData/WD~Etebi,11002851]]'
-- "[[_Standards/WikiData/WD~Nigeria Mambila,11004163]]"
+- "[[_Standards/WikiData/WD~Nigeria_Mambila,11004163]]"
 - '[[_Standards/WikiData/WD~Kirike,11006763]]'
 - '[[_Standards/WikiData/WD~Nde-Gbite,11010279]]'
 - '[[_Standards/WikiData/WD~Ija-Zuba,11011389]]'
@@ -392,19 +392,19 @@ language_used:
 - '[[_Standards/WikiData/WD~Nkari,11130307]]'
 - '[[_Standards/WikiData/WD~Áncá,11130787]]'
 - '[[_Standards/WikiData/WD~Dirim,11130804]]'
-- "[[_Standards/WikiData/WD~Enwan Oron,11134434]]"
+- "[[_Standards/WikiData/WD~Enwan_Oron,11134434]]"
 - '[[_Standards/WikiData/WD~Ibani,11280479]]'
 - '[[_Standards/WikiData/WD~Ezaa,11921436]]'
 - '[[_Standards/WikiData/WD~Ikwo,11926474]]'
 - '[[_Standards/WikiData/WD~Cen,12628777]]'
-- "[[_Standards/WikiData/WD~Manga Kanuri,12952572]]"
+- "[[_Standards/WikiData/WD~Manga_Kanuri,12952572]]"
 - '[[_Standards/WikiData/WD~Gibanawa,12953530]]'
 - '[[_Standards/WikiData/WD~Tsishingini,13123571]]'
-- "[[_Standards/WikiData/WD~Central Kanuri,15637215]]"
+- "[[_Standards/WikiData/WD~Central_Kanuri,15637215]]"
 - '[[_Standards/WikiData/WD~Gwak,17523694]]'
 - '[[_Standards/WikiData/WD~Bankal,17523697]]'
 - '[[_Standards/WikiData/WD~Luri,20581520]]'
-- "[[_Standards/WikiData/WD~Samba Daka,33120805]]"
+- "[[_Standards/WikiData/WD~Samba_Daka,33120805]]"
 - '[[_Standards/WikiData/WD~Panawa,47385077]]'
 - '[[_Standards/WikiData/WD~Tsucuba,62603062]]'
 - '[[_Standards/WikiData/WD~Ganang,63163361]]'
@@ -414,7 +414,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Bete,32932]]'
 - '[[_Standards/WikiData/WD~Igbo,33578]]'
 - '[[_Standards/WikiData/WD~Jalaa,33608]]'
-- "[[_Standards/WikiData/WD~Nigerian Pidgin,33655]]"
+- "[[_Standards/WikiData/WD~Nigerian_Pidgin,33655]]"
 - '[[_Standards/WikiData/WD~Ibibio,33792]]'
 - '[[_Standards/WikiData/WD~Tiv,34131]]'
 - '[[_Standards/WikiData/WD~Yoruba,34311]]'
@@ -432,8 +432,8 @@ language_used:
 - '[[_Standards/WikiData/WD~Akpa,34801]]'
 - '[[_Standards/WikiData/WD~Ake,34808]]'
 - '[[_Standards/WikiData/WD~Alege,34815]]'
-- "[[_Standards/WikiData/WD~Alago language,34813]]"
-- "[[_Standards/WikiData/WD~Koro Wachi,34823]]"
+- "[[_Standards/WikiData/WD~Alago_language,34813]]"
+- "[[_Standards/WikiData/WD~Koro_Wachi,34823]]"
 - '[[_Standards/WikiData/WD~Amo,34826]]'
 - '[[_Standards/WikiData/WD~Akoko,34829]]'
 - '[[_Standards/WikiData/WD~Abua,34835]]'
@@ -474,7 +474,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Ekoi,35296]]'
 - '[[_Standards/WikiData/WD~Efutop,35297]]'
 - '[[_Standards/WikiData/WD~Eggon,35300]]'
-- "[[_Standards/WikiData/WD~Como Karim,35304]]"
+- "[[_Standards/WikiData/WD~Como_Karim,35304]]"
 - '[[_Standards/WikiData/WD~Ebira,35363]]'
 - '[[_Standards/WikiData/WD~Edo,35375]]'
 - '[[_Standards/WikiData/WD~Efik,35377]]'
@@ -485,7 +485,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Isoko,35414]]'
 - '[[_Standards/WikiData/WD~Igede,35420]]'
 - '[[_Standards/WikiData/WD~Ivbiosakon,35428]]'
-- "[[_Standards/WikiData/WD~Jukun Takum,35447]]"
+- "[[_Standards/WikiData/WD~Jukun_Takum,35447]]"
 - '[[_Standards/WikiData/WD~Ceve,35449]]'
 - '[[_Standards/WikiData/WD~Akpes,35457]]'
 - '[[_Standards/WikiData/WD~Ghotuo,35463]]'
@@ -519,7 +519,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Mbe,36075]]'
 - '[[_Standards/WikiData/WD~Kanuri,36094]]'
 - '[[_Standards/WikiData/WD~Nde,36131]]'
-- "[[_Standards/WikiData/WD~Nigerian Fulfulde,36129]]"
+- "[[_Standards/WikiData/WD~Nigerian_Fulfulde,36129]]"
 - '[[_Standards/WikiData/WD~Ndoe,36134]]'
 - '[[_Standards/WikiData/WD~Nnam,36138]]'
 - '[[_Standards/WikiData/WD~Kamkam,36141]]'
@@ -532,7 +532,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Oruma,36299]]'
 - '[[_Standards/WikiData/WD~Oko,36302]]'
 - '[[_Standards/WikiData/WD~Okodia,36300]]'
-- "[[_Standards/WikiData/WD~Chamba Leko,36381]]"
+- "[[_Standards/WikiData/WD~Chamba_Leko,36381]]"
 - '[[_Standards/WikiData/WD~Tigon,36518]]'
 - '[[_Standards/WikiData/WD~Shoo-Minda-Nye,36548]]'
 - '[[_Standards/WikiData/WD~Obolo,36614]]'
@@ -559,7 +559,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Hdi,56246]]'
 - '[[_Standards/WikiData/WD~Fali,56244]]'
 - "[[_Standards/WikiData/WD~Ga'anda,56245]]"
-- "[[_Standards/WikiData/WD~Marghi South,56248]]"
+- "[[_Standards/WikiData/WD~Marghi_South,56248]]"
 - '[[_Standards/WikiData/WD~Bata,56254]]'
 - '[[_Standards/WikiData/WD~Zumbun,56252]]'
 - '[[_Standards/WikiData/WD~Chakato,56257]]'
@@ -597,50 +597,50 @@ language_used:
 - '[[_Standards/WikiData/WD~Ajawa,56645]]'
 - '[[_Standards/WikiData/WD~Hya,56798]]'
 - '[[_Standards/WikiData/WD~Kanakuru,56811]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Nigeria,500282]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Nigeria,500282]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Nigeria,500282]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Nigeria,500282]]"
 instance_of:
-- "[[_Standards/WikiData/WD~federal republic,512187]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~federal_republic,512187]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-basic_form_of_government: "[[_Standards/WikiData/WD~federal republic,512187]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Nigeria,595104]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~federal_republic,512187]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Nigeria,595104]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-highest_point: "[[_Standards/WikiData/WD~Chappal Waddi,976055]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Nigeria,1140374]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+highest_point: "[[_Standards/WikiData/WD~Chappal_Waddi,976055]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Nigeria,1140374]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~BS 546,1383497]]"
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Nigeria,1435215]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Nigeria,1627120]]"
+- "[[_Standards/WikiData/WD~BS_546,1383497]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Nigeria,1435215]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Nigeria,1627120]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~West Africa Time,1773995]]"
+- "[[_Standards/WikiData/WD~West_Africa_Time,1773995]]"
 - '[[_Standards/WikiData/WD~Africa_Lagos,4689502]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Nigeria,2297611]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of Nigeria,2635070]]"
-culture: "[[_Standards/WikiData/WD~culture of Nigeria,2987354]]"
-named_by: "[[_Standards/WikiData/WD~Flora Shaw,3073851]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Nigeria,3509369]]"
-head_of_state: "[[_Standards/WikiData/WD~Bola Ahmed Tinubu,3510872]]"
-head_of_government: "[[_Standards/WikiData/WD~Bola Ahmed Tinubu,3510872]]"
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Seal of the President of Nigeria,3511689]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Nigeria,5015542]]"
-replaces: "[[_Standards/WikiData/WD~Federation of Nigeria,5440850]]"
-follows: "[[_Standards/WikiData/WD~Federation of Nigeria,5440850]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Nigeria,7112384]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Nigeria,2297611]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Nigeria,2635070]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Nigeria,2987354]]"
+named_by: "[[_Standards/WikiData/WD~Flora_Shaw,3073851]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Nigeria,3509369]]"
+head_of_state: "[[_Standards/WikiData/WD~Bola_Ahmed_Tinubu,3510872]]"
+head_of_government: "[[_Standards/WikiData/WD~Bola_Ahmed_Tinubu,3510872]]"
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Seal_of_the_President_of_Nigeria,3511689]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Nigeria,5015542]]"
+replaces: "[[_Standards/WikiData/WD~Federation_of_Nigeria,5440850]]"
+follows: "[[_Standards/WikiData/WD~Federation_of_Nigeria,5440850]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Nigeria,7112384]]"
 category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q8942555,8942555]]'
 official_website: "https://nigeria.gov.ng/"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nigeria,11201196]]'
-anthem: "[[_Standards/WikiData/WD~Nigeria, We Hail Thee,14405797]]"
+anthem: "[[_Standards/WikiData/WD~Nigeria,_We_Hail_Thee,14405797]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-official_symbol: "[[_Standards/WikiData/WD~Costus spectabilis,15326829]]"
+official_symbol: "[[_Standards/WikiData/WD~Costus_spectabilis,15326829]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~199,25648881]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 population: 211400708
-studied_in: "[[_Standards/WikiData/WD~Nigerian studies,115669647]]"
+studied_in: "[[_Standards/WikiData/WD~Nigerian_studies,115669647]]"
 nominal_GDP:
 - 477386120636
 - 440833583992
@@ -712,9 +712,9 @@ urban_population:
 - 112560662
 - 116965442
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Chad,657]]'
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
@@ -728,35 +728,35 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 - '[[_Standards/WikiData/WD~Malawi,1020]]'
 - '[[_Standards/WikiData/WD~Niger,1032]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Poland,36]]'
 - '[[_Standards/WikiData/WD~Greece,41]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
+- "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Chad,657]]'
 - '[[_Standards/WikiData/WD~Benin,962]]'
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 - '[[_Standards/WikiData/WD~Niger,1032]]'
-- "[[_Standards/WikiData/WD~São Tomé and Príncipe,1039]]"
+- "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]"
 different_from: '[[_Standards/WikiData/WD~Niger,1032]]'
 country: '[[_Standards/WikiData/WD~Nigeria,1033]]'
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
-named_after: "[[_Standards/WikiData/WD~Niger River,3542]]"
+named_after: "[[_Standards/WikiData/WD~Niger_River,3542]]"
 capital: '[[_Standards/WikiData/WD~Abuja,3787]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
-part_of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
+part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 BTI_Governance_Index:
 - 5
 - 5.3

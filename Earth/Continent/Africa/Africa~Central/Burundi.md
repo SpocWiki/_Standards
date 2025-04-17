@@ -65,56 +65,56 @@ demonym:
 - بورونديين
 coordinates_of_southernmost_point: "Point(29.753 -4.469)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Rwanda,1037]]'
 country: '[[_Standards/WikiData/WD~Burundi,967]]'
 member_of:
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Economic Community of Central African States,189966]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 - '[[_Standards/WikiData/WD~Kirundi,33583]]'
 headquarters_location: '[[_Standards/WikiData/WD~Bujumbura,3854]]'
-lowest_point: "[[_Standards/WikiData/WD~Lake Tanganyika,5511]]"
+lowest_point: "[[_Standards/WikiData/WD~Lake_Tanganyika,5511]]"
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 - '[[_Standards/WikiData/WD~Africa_Bujumbura,4689483]]'
-part_of: "[[_Standards/WikiData/WD~East Africa,27407]]"
+part_of: "[[_Standards/WikiData/WD~East_Africa,27407]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 language_used:
 - '[[_Standards/WikiData/WD~French,150]]'
@@ -248,57 +248,57 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AC%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF.wav"
 country_calling_code: +257
 Dewey_Decimal_Classification: 2--67572
-flag: "[[_Standards/WikiData/WD~flag of Burundi,103084]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Burundi,109103]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Burundi,103084]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Burundi,109103]]"
 capital: '[[_Standards/WikiData/WD~Gitega,167551]]'
-anthem: "[[_Standards/WikiData/WD~Burundi Bwacu,326886]]"
+anthem: "[[_Standards/WikiData/WD~Burundi_Bwacu,326886]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Bururi Province,431385]]"
-- "[[_Standards/WikiData/WD~Bubanza Province,460538]]"
-- "[[_Standards/WikiData/WD~Cibitoke Province,505596]]"
-- "[[_Standards/WikiData/WD~Kirundo Province,600840]]"
-- "[[_Standards/WikiData/WD~Cankuzo Province,645033]]"
-- "[[_Standards/WikiData/WD~Bujumbura Rural Province,645043]]"
-- "[[_Standards/WikiData/WD~Muramvya Province,671086]]"
-- "[[_Standards/WikiData/WD~Gitega Province,720843]]"
-- "[[_Standards/WikiData/WD~Kayanza Province,720848]]"
-- "[[_Standards/WikiData/WD~Ngozi Province,720852]]"
-- "[[_Standards/WikiData/WD~Karuzi Province,735463]]"
-- "[[_Standards/WikiData/WD~Rutana Province,822566]]"
-- "[[_Standards/WikiData/WD~Muyinga Province,822571]]"
-- "[[_Standards/WikiData/WD~Ruyigi Province,822578]]"
-- "[[_Standards/WikiData/WD~Makamba Province,823740]]"
-- "[[_Standards/WikiData/WD~Mwaro Province,847718]]"
-- "[[_Standards/WikiData/WD~Bujumbura Mairie,1816580]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of the Republic of Burundi,806937]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Burundi,852253]]"
-replaces: "[[_Standards/WikiData/WD~Kingdom of Burundi,1192936]]"
-follows: "[[_Standards/WikiData/WD~Kingdom of Burundi,1192936]]"
+- "[[_Standards/WikiData/WD~Bururi_Province,431385]]"
+- "[[_Standards/WikiData/WD~Bubanza_Province,460538]]"
+- "[[_Standards/WikiData/WD~Cibitoke_Province,505596]]"
+- "[[_Standards/WikiData/WD~Kirundo_Province,600840]]"
+- "[[_Standards/WikiData/WD~Cankuzo_Province,645033]]"
+- "[[_Standards/WikiData/WD~Bujumbura_Rural_Province,645043]]"
+- "[[_Standards/WikiData/WD~Muramvya_Province,671086]]"
+- "[[_Standards/WikiData/WD~Gitega_Province,720843]]"
+- "[[_Standards/WikiData/WD~Kayanza_Province,720848]]"
+- "[[_Standards/WikiData/WD~Ngozi_Province,720852]]"
+- "[[_Standards/WikiData/WD~Karuzi_Province,735463]]"
+- "[[_Standards/WikiData/WD~Rutana_Province,822566]]"
+- "[[_Standards/WikiData/WD~Muyinga_Province,822571]]"
+- "[[_Standards/WikiData/WD~Ruyigi_Province,822578]]"
+- "[[_Standards/WikiData/WD~Makamba_Province,823740]]"
+- "[[_Standards/WikiData/WD~Mwaro_Province,847718]]"
+- "[[_Standards/WikiData/WD~Bujumbura_Mairie,1816580]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_the_Republic_of_Burundi,806937]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Burundi,852253]]"
+replaces: "[[_Standards/WikiData/WD~Kingdom_of_Burundi,1192936]]"
+follows: "[[_Standards/WikiData/WD~Kingdom_of_Burundi,1192936]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Burundi,1483908]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Heha,1649074]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Burundi,2019945]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Burundi,2386733]]"
-culture: "[[_Standards/WikiData/WD~culture of Burundi,3007327]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Burundi,1483908]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Heha,1649074]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Burundi,2019945]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Burundi,2386733]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Burundi,3007327]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~117,4547615]]'
 - '[[_Standards/WikiData/WD~113,25648804]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Burundi,7112216]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Burundi,7138930]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Burundi,7112216]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Burundi,7138930]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Burundi,11271035]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-executive_body: "[[_Standards/WikiData/WD~Council of Ministers,16952177]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Burundi,19057827]]"
-head_of_state: "[[_Standards/WikiData/WD~Évariste Ndayishimiye,27329764]]"
+executive_body: "[[_Standards/WikiData/WD~Council_of_Ministers,16952177]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Burundi,19057827]]"
+head_of_state: "[[_Standards/WikiData/WD~Évariste_Ndayishimiye,27329764]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q42042359,42042359]]'
 - '[[_Standards/WikiData/WD~Q42042591,42042591]]'
 - '[[_Standards/WikiData/WD~Q42042789,42042789]]'
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Burundi,52728003]]"
-head_of_government: "[[_Standards/WikiData/WD~Gervais Ndirakobuca,107136851]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Burundi,52728003]]"
+head_of_government: "[[_Standards/WikiData/WD~Gervais_Ndirakobuca,107136851]]"
 coordinates_of_westernmost_point: "Point(29.001 -2.79)"
 coordinates_of_easternmost_point: "Point(30.85 -2.98)"
 UMLS_CUI: C0006448

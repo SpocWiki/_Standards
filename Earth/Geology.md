@@ -6,26 +6,26 @@ IPTC_NewsCode: mediatopic/20000727
 is_the_study_of: '[[_Standards/WikiData/WD~lithosphere,83296]]'
 practiced_by: '[[_Standards/WikiData/WD~geologist,520549]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 instance_of:
-- "[[_Standards/WikiData/WD~field of study,1047113]]"
-- "[[_Standards/WikiData/WD~field of study,2267705]]"
-- "[[_Standards/WikiData/WD~branch of science,2465832]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of geology,1779809]]"
+- "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+- "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+- "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_geology,1779809]]"
 different_from:
 - '[[_Standards/WikiData/WD~genology,3508604]]'
 - '[[_Standards/WikiData/WD~Q11272686,11272686]]'
 - '[[_Standards/WikiData/WD~geography,1071]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of geology,7112648]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Geology,14943910]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_geology,7112648]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Geology,15077486]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geology,21177154]]'
 Provenio_UUID: a102b164-faaa-4ecc-92fe-b86264d0d940
@@ -37,10 +37,10 @@ entry_in_abbreviations_table:
 - геол.
 partially_coincident_with: '[[_Standards/WikiData/WD~paleontology,7205]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~natural science,7991]]"
-- "[[_Standards/WikiData/WD~earth science,8008]]"
-facet_of: "[[_Standards/WikiData/WD~earth science,8008]]"
-has_characteristic: "[[_Standards/WikiData/WD~geologic time scale,43521]]"
+- "[[_Standards/WikiData/WD~natural_science,7991]]"
+- "[[_Standards/WikiData/WD~earth_science,8008]]"
+facet_of: "[[_Standards/WikiData/WD~earth_science,8008]]"
+has_characteristic: "[[_Standards/WikiData/WD~geologic_time_scale,43521]]"
 IAB_code: 470
 Dewey_Decimal_Classification:
 - 550

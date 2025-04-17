@@ -3,17 +3,17 @@ type: Element
 SpocWebEntityId: 21988
 has_id_wikidata: Q1105
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Philip Abelson,377815]]"
-- "[[_Standards/WikiData/WD~Edwin McMillan,19009]]"
+- "[[_Standards/WikiData/WD~Philip_Abelson,377815]]"
+- "[[_Standards/WikiData/WD~Edwin_McMillan,19009]]"
 different_from: '[[_Standards/WikiData/WD~Neptun,1261928]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 UMLS_CUI: C0027734
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20148.jpg"
 named_after: '[[_Standards/WikiData/WD~Neptune,332]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
 - 0.72
 - 0.75

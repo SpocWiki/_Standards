@@ -5,11 +5,11 @@ aliases:
 - "strong force"
 has_id_wikidata: Q11415
 instance_of:
-- "[[_Standards/WikiData/WD~fundamental interaction,104934]]"
+- "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~elementary particle interaction,71130616]]"
+- "[[_Standards/WikiData/WD~elementary_particle_interaction,71130616]]"
 Commons_category: "Strong nuclear force"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nuclear%20Force%20anim%20smaller.gif"
 Stack_Exchange_tag: "https://physics.stackexchange.com/tags/strong-force"

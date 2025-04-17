@@ -1,16 +1,16 @@
 ﻿---
 has_id_wikidata: Q637776
 product_material_or_service_produced_or_provided:
-- "[[_Standards/WikiData/WD~dairy product,185217]]"
+- "[[_Standards/WikiData/WD~dairy_product,185217]]"
 - '[[_Standards/WikiData/WD~cheese,10943]]'
-described_by_source: "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+described_by_source: "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~food manufacturer,1252971]]"
+- "[[_Standards/WikiData/WD~food_manufacturer,1252971]]"
 - '[[_Standards/WikiData/WD~business,4830453]]'
-- "[[_Standards/WikiData/WD~economic activity,8187769]]"
+- "[[_Standards/WikiData/WD~economic_activity,8187769]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13212148,13212148]]'
-industry: "[[_Standards/WikiData/WD~dairy industry,13554450]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
+industry: "[[_Standards/WikiData/WD~dairy_industry,13554450]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
 different_from:
 - '[[_Standards/WikiData/WD~creamery,61140231]]'
 - '[[_Standards/WikiData/WD~dairying,64698773]]'

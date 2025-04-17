@@ -4,32 +4,32 @@ practiced_by:
 - '[[_Standards/WikiData/WD~cook,156839]]'
 - '[[_Standards/WikiData/WD~pizzaiolo,3389507]]'
 - '[[_Standards/WikiData/WD~chef,3499072]]'
-- "[[_Standards/WikiData/WD~fast food worker,109952115]]"
+- "[[_Standards/WikiData/WD~fast_food_worker,109952115]]"
 followed_by:
 - '[[_Standards/WikiData/WD~eating,213449]]'
-- "[[_Standards/WikiData/WD~food photography,1321148]]"
-- "[[_Standards/WikiData/WD~food presentation,3480053]]"
+- "[[_Standards/WikiData/WD~food_photography,1321148]]"
+- "[[_Standards/WikiData/WD~food_presentation,3480053]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 location:
 - '[[_Standards/WikiData/WD~workplace,628858]]'
 - '[[_Standards/WikiData/WD~kitchen,43164]]'
 product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~dish,746549]]'
 uses:
-- "[[_Standards/WikiData/WD~food preparation technique,1039303]]"
+- "[[_Standards/WikiData/WD~food_preparation_technique,1039303]]"
 - '[[_Standards/WikiData/WD~food,2095]]'
 - '[[_Standards/WikiData/WD~heat,44432]]'
 follows:
 - '[[_Standards/WikiData/WD~gathering,2991771]]'
 - '[[_Standards/WikiData/WD~butchering,10682505]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12550174,12550174]]'
-subclass_of: "[[_Standards/WikiData/WD~food and drink preparation,16920758]]"
+subclass_of: "[[_Standards/WikiData/WD~food_and_drink_preparation,16920758]]"
 instance_of:
-- "[[_Standards/WikiData/WD~business activity,19862406]]"
-- "[[_Standards/WikiData/WD~human activity,61788060]]"
+- "[[_Standards/WikiData/WD~business_activity,19862406]]"
+- "[[_Standards/WikiData/WD~human_activity,61788060]]"
 - '[[_Standards/WikiData/WD~hobby,47728]]'
 UMLS_CUI: C0335326
 pronunciation_audio:

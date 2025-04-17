@@ -39,81 +39,81 @@ Languages:
 - oc
 icon: flag-fr
 replaces:
-- "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
-- "[[_Standards/WikiData/WD~Rauracian Republic,684430]]"
-- "[[_Standards/WikiData/WD~Republic of Bouillon,2313140]]"
-- "[[_Standards/WikiData/WD~Kingdom of Bora Bora,3446152]]"
-- "[[_Standards/WikiData/WD~Free Cities of Menton and Roquebrune,3559284]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
+- "[[_Standards/WikiData/WD~Rauracian_Republic,684430]]"
+- "[[_Standards/WikiData/WD~Republic_of_Bouillon,2313140]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Bora_Bora,3446152]]"
+- "[[_Standards/WikiData/WD~Free_Cities_of_Menton_and_Roquebrune,3559284]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~European Air Transport Command,141720]]"
-- "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
-- "[[_Standards/WikiData/WD~European Coal and Steel Community,161549]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~states with nuclear weapons,189062]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Southeast Asia Treaty Organization,277252]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Organisation for Joint Armament Cooperation,521227]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~European_Air_Transport_Command,141720]]"
+- "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+- "[[_Standards/WikiData/WD~European_Coal_and_Steel_Community,161549]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~states_with_nuclear_weapons,189062]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Open Government Partnership,1331152]]"
-- "[[_Standards/WikiData/WD~European Payments Union,1377612]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Open_Government_Partnership,1331152]]"
+- "[[_Standards/WikiData/WD~European_Payments_Union,1377612]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
 - '[[_Standards/WikiData/WD~G7,1764511]]'
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
 - '[[_Standards/WikiData/WD~G8,37143]]'
-- "[[_Standards/WikiData/WD~United Nations Security Council,37470]]"
-- "[[_Standards/WikiData/WD~League of Nations,38130]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
+- "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]"
+- "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
 - '[[_Standards/WikiData/WD~CERN,42944]]'
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-- "[[_Standards/WikiData/WD~European Economic Community,52847]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- "[[_Standards/WikiData/WD~European_Economic_Community,52847]]"
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Saint-Martin,126125]]'
-- "[[_Standards/WikiData/WD~French Southern and Antarctic Lands,129003]]"
-- "[[_Standards/WikiData/WD~Clipperton Island,161258]]"
-- "[[_Standards/WikiData/WD~French Guiana,3769]]"
+- "[[_Standards/WikiData/WD~French_Southern_and_Antarctic_Lands,129003]]"
+- "[[_Standards/WikiData/WD~Clipperton_Island,161258]]"
+- "[[_Standards/WikiData/WD~French_Guiana,3769]]"
 - '[[_Standards/WikiData/WD~Corsica,14112]]'
-- "[[_Standards/WikiData/WD~Provence-Alpes-Côte d'Azur,15104]]"
-- "[[_Standards/WikiData/WD~Pays de la Loire,16994]]"
+- "[[_Standards/WikiData/WD~Provence-Alpes-Côte_d'Azur,15104]]"
+- "[[_Standards/WikiData/WD~Pays_de_la_Loire,16994]]"
 - '[[_Standards/WikiData/WD~Guadeloupe,17012]]'
 - '[[_Standards/WikiData/WD~Martinique,17054]]'
 - '[[_Standards/WikiData/WD~Mayotte,17063]]'
 - '[[_Standards/WikiData/WD~Réunion,17070]]'
-- "[[_Standards/WikiData/WD~Saint Barthélemy,25362]]"
-- "[[_Standards/WikiData/WD~French Polynesia,30971]]"
-- "[[_Standards/WikiData/WD~New Caledonia,33788]]"
-- "[[_Standards/WikiData/WD~Saint Pierre and Miquelon,34617]]"
-- "[[_Standards/WikiData/WD~Wallis and Futuna,35555]]"
+- "[[_Standards/WikiData/WD~Saint_Barthélemy,25362]]"
+- "[[_Standards/WikiData/WD~French_Polynesia,30971]]"
+- "[[_Standards/WikiData/WD~New_Caledonia,33788]]"
+- "[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]"
+- "[[_Standards/WikiData/WD~Wallis_and_Futuna,35555]]"
 - '[[_Standards/WikiData/WD~Auvergne-Rhône-Alpes,18338206]]'
 production_statistics:
 - '[[_Standards/WikiData/WD~champagne,134862]]'
@@ -122,9 +122,9 @@ has_facility:
 - '[[_Standards/WikiData/WD~crematorium,157570]]'
 - '[[_Standards/WikiData/WD~roundabout,1525]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
-- "[[_Standards/WikiData/WD~Kurdistan Region,205047]]"
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
+- "[[_Standards/WikiData/WD~Kurdistan_Region,205047]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
@@ -135,16 +135,16 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Peru,419]]'
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
 - '[[_Standards/WikiData/WD~Chad,657]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Vanuatu,686]]'
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Suriname,730]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 - '[[_Standards/WikiData/WD~Haiti,790]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
@@ -153,23 +153,23 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Myanmar,836]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
 - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Tunisia,948]]'
 - '[[_Standards/WikiData/WD~Burundi,967]]'
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
-- "[[_Standards/WikiData/WD~Cape Verde,1011]]"
+- "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Mauritius,1027]]'
@@ -179,12 +179,12 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Rwanda,1037]]'
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
+- "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -201,8 +201,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Egypt,79]]'
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -218,87 +218,87 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 public_holiday:
-- "[[_Standards/WikiData/WD~Assumption of Mary,162691]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~Bastille Day,326724]]"
-- "[[_Standards/WikiData/WD~Whit Monday,2512993]]"
-- "[[_Standards/WikiData/WD~Armistice Day,6597183]]"
-- "[[_Standards/WikiData/WD~All Saints' Day,587]]"
+- "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~Bastille_Day,326724]]"
+- "[[_Standards/WikiData/WD~Whit_Monday,2512993]]"
+- "[[_Standards/WikiData/WD~Armistice_Day,6597183]]"
+- "[[_Standards/WikiData/WD~All_Saints'_Day,587]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
-- "[[_Standards/WikiData/WD~Good Friday,40317]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
-- "[[_Standards/WikiData/WD~Feast of the Ascension,51638]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of France,165432]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the French Republic,191954]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of France,200533]]"
-different_from: "[[_Standards/WikiData/WD~French Fifth Republic,200686]]"
-currency: "[[_Standards/WikiData/WD~CFP Franc,214393]]"
-motto: "[[_Standards/WikiData/WD~Liberté, égalité, fraternité,251583]]"
+- "[[_Standards/WikiData/WD~Good_Friday,40317]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- "[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_France,165432]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_French_Republic,191954]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_France,200533]]"
+different_from: "[[_Standards/WikiData/WD~French_Fifth_Republic,200686]]"
+currency: "[[_Standards/WikiData/WD~CFP_Franc,214393]]"
+motto: "[[_Standards/WikiData/WD~Liberté,_égalité,_fraternité,251583]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica First Edition,5375740]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Neunter Band,131719188]]"
-legislative_body: "[[_Standards/WikiData/WD~French Parliament,632552]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Neunter_Band,131719188]]"
+legislative_body: "[[_Standards/WikiData/WD~French_Parliament,632552]]"
 highest_judicial_authority:
-- "[[_Standards/WikiData/WD~Conseil d'État,769657]]"
-- "[[_Standards/WikiData/WD~Constitutional Council of France,1127218]]"
-- "[[_Standards/WikiData/WD~Court of Audit,1137614]]"
-- "[[_Standards/WikiData/WD~Court of Cassation,1138599]]"
-- "[[_Standards/WikiData/WD~Cour de Justice de la République,1513561]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of France,806950]]"
-has_part_s_: "[[_Standards/WikiData/WD~Loire Valley,1050483]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of France,1172523]]"
+- "[[_Standards/WikiData/WD~Conseil_d'État,769657]]"
+- "[[_Standards/WikiData/WD~Constitutional_Council_of_France,1127218]]"
+- "[[_Standards/WikiData/WD~Court_of_Audit,1137614]]"
+- "[[_Standards/WikiData/WD~Court_of_Cassation,1138599]]"
+- "[[_Standards/WikiData/WD~Cour_de_Justice_de_la_République,1513561]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_France,806950]]"
+has_part_s_: "[[_Standards/WikiData/WD~Loire_Valley,1050483]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_France,1172523]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
 language_used:
-- "[[_Standards/WikiData/WD~Standard French,1400216]]"
+- "[[_Standards/WikiData/WD~Standard_French,1400216]]"
 - '[[_Standards/WikiData/WD~Catalan,7026]]'
 - '[[_Standards/WikiData/WD~Basque,8752]]'
 - '[[_Standards/WikiData/WD~Alsatian,8786]]'
 - '[[_Standards/WikiData/WD~Occitan,14185]]'
-executive_body: "[[_Standards/WikiData/WD~Government of the French Republic,1450662]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of France,1587677]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_the_French_Republic,1450662]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_France,1587677]]"
 part_of:
-- "[[_Standards/WikiData/WD~Pyrenees–Mediterranean Euroregion,1849394]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-- "[[_Standards/WikiData/WD~Western Europe,27496]]"
+- "[[_Standards/WikiData/WD~Pyrenees–Mediterranean_Euroregion,1849394]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- "[[_Standards/WikiData/WD~Western_Europe,27496]]"
 - '[[_Standards/WikiData/WD~Europe,46]]'
-culture: "[[_Standards/WikiData/WD~culture of France,1985804]]"
+culture: "[[_Standards/WikiData/WD~culture_of_France,1985804]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~114,2945964]]'
 - '[[_Standards/WikiData/WD~17,25648842]]'
 - '[[_Standards/WikiData/WD~18,25648843]]'
 - '[[_Standards/WikiData/WD~15,25648869]]'
 open_data_portal: '[[_Standards/WikiData/WD~data.gouv.fr,3016893]]'
-head_of_state: "[[_Standards/WikiData/WD~Emmanuel Macron,3052772]]"
+head_of_state: "[[_Standards/WikiData/WD~Emmanuel_Macron,3052772]]"
 studied_in: '[[_Standards/WikiData/WD~francology,3082422]]'
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great Seal of France,3114823]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great_Seal_of_France,3114823]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_France,3247097]]'
 award_received:
-- "[[_Standards/WikiData/WD~Lagun Onari,3381638]]"
-- "[[_Standards/WikiData/WD~The Economist country of the year,47004555]]"
-lowest_point: "[[_Standards/WikiData/WD~Étang de Lavalduc,3591700]]"
+- "[[_Standards/WikiData/WD~Lagun_Onari,3381638]]"
+- "[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555]]"
+lowest_point: "[[_Standards/WikiData/WD~Étang_de_Lavalduc,3591700]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of France,4261422]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_France,4261422]]"
 coextensive_with: '[[_Standards/WikiData/WD~France,5478259]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions of France,6926450]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions_of_France,6926450]]"
 MeSH_tree_code: Z01.542.286
 coordinates_of_easternmost_point: "Point(9.56 42.282222222)"
 coordinates_of_southernmost_point: "Point(9.258953435 41.333546483)"
@@ -306,10 +306,10 @@ Gregorian_calendar_start_date:
 - "1582-12-20"
 - "1806"
 coordinates_of_westernmost_point: "Point(-5.151111111 48.445833333)"
-highest_point: "[[_Standards/WikiData/WD~Mont Blanc,583]]"
+highest_point: "[[_Standards/WikiData/WD~Mont_Blanc,583]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Suriname,730]]'
-- "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Luxembourg,32]]'
@@ -320,14 +320,14 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Andorra,228]]'
 - '[[_Standards/WikiData/WD~Monaco,235]]'
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~North Sea,1693]]"
-- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-- "[[_Standards/WikiData/WD~English Channel,34640]]"
+- "[[_Standards/WikiData/WD~North_Sea,1693]]"
+- "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+- "[[_Standards/WikiData/WD~English_Channel,34640]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of France,7778]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of France,8057]]"
-head_of_government: "[[_Standards/WikiData/WD~François Bayrou,12963]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_France,7778]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_France,8057]]"
+head_of_government: "[[_Standards/WikiData/WD~François_Bayrou,12963]]"
 category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q8942785,8942785]]'
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q9731409,9731409]]'
@@ -408,13 +408,13 @@ annual_number_of_weddings:
 - 283984
 - 286169
 - 305234
-anthem: "[[_Standards/WikiData/WD~La Marseillaise,41180]]"
+anthem: "[[_Standards/WikiData/WD~La_Marseillaise,41180]]"
 Gini_coefficient: 32.4
-flag: "[[_Standards/WikiData/WD~flag of France,43192]]"
+flag: "[[_Standards/WikiData/WD~flag_of_France,43192]]"
 named_after: '[[_Standards/WikiData/WD~Franks,43482]]'
 trunk_prefix: 0
 Happy_Planet_Index_score: 51.8
-basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential system,49890]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
 social_media_followers: 7140
 Democracy_Index: 7.99
 Inequality_adjusted_Human_Development_Index: 0.825
@@ -525,12 +525,12 @@ ISO_3166_1_alpha_3_code: FRA
 IOC_country_code: FRA
 number_of_deaths: 593865
 U_S_National_Archives_Identifier: 10035788
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject France,10816832]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_France,10816832]]"
 railway_traffic_side:
 - '[[_Standards/WikiData/WD~left,13196750]]'
 - '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
 Baidu_Tieba_name: 法国
 Facebook_username: ServicePublicFr
 YouTube_handle: ServicePublicFrance

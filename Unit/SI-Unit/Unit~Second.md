@@ -1,26 +1,26 @@
 ﻿---
 has_id_wikidata: Q11574
-subclass_of: "[[_Standards/WikiData/WD~time interval,186081]]"
+subclass_of: "[[_Standards/WikiData/WD~time_interval,186081]]"
 instance_of:
-- "[[_Standards/WikiData/WD~SI base unit,223662]]"
-- "[[_Standards/WikiData/WD~unit of time,1790144]]"
-- "[[_Standards/WikiData/WD~SI unit with special name,68618328]]"
-- "[[_Standards/WikiData/WD~UCUM base unit,82047053]]"
+- "[[_Standards/WikiData/WD~SI_base_unit,223662]]"
+- "[[_Standards/WikiData/WD~unit_of_time,1790144]]"
+- "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
+- "[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]"
 part_of:
-- "[[_Standards/WikiData/WD~MKS system of units,512417]]"
+- "[[_Standards/WikiData/WD~MKS_system_of_units,512417]]"
 - '[[_Standards/WikiData/WD~minute,7727]]'
-- "[[_Standards/WikiData/WD~centimeter–gram–second system of units,26240]]"
+- "[[_Standards/WikiData/WD~centimeter–gram–second_system_of_units,26240]]"
 different_from:
 - '[[_Standards/WikiData/WD~second,636099]]'
 - '[[_Standards/WikiData/WD~arcsecond,829073]]'
 - '[[_Standards/WikiData/WD~Sekunde,22699224]]'
 measured_physical_quantity:
 - '[[_Standards/WikiData/WD~duration,2199864]]'
-- "[[_Standards/WikiData/WD~reactor time constant,99518950]]"
-- "[[_Standards/WikiData/WD~specific impulse by weight,100828354]]"
+- "[[_Standards/WikiData/WD~reactor_time_constant,99518950]]"
+- "[[_Standards/WikiData/WD~specific_impulse_by_weight,100828354]]"
 - '[[_Standards/WikiData/WD~half-life,47270]]'
 subdivision_of_this_unit: '[[_Standards/WikiData/WD~decisecond,3251645]]'
-described_by_source: "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
+described_by_source: "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110322053,110322053]]'
 conversion_to_standard_unit:
 - 8.267195767196e-7

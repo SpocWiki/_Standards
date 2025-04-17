@@ -2,9 +2,9 @@
 aliases:
 - "Weak interaction"
 has_id_wikidata: Q11418
-instance_of: "[[_Standards/WikiData/WD~fundamental interaction,104934]]"
-subclass_of: "[[_Standards/WikiData/WD~electroweak interaction,466416]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 4,124737630]]"
+instance_of: "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
+subclass_of: "[[_Standards/WikiData/WD~electroweak_interaction,466416]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
 schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20weak%20interactions-vi.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20weak%20interactions-tr.svg"

@@ -10,20 +10,20 @@ DSSTOX_compound_identifier: DTXCID3047637
 InChI: InChI=1S/Kr
 Unicode_character: 氪
 part_of:
-- "[[_Standards/WikiData/WD~period 4,239825]]"
-- "[[_Standards/WikiData/WD~noble gases,19609]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
+- "[[_Standards/WikiData/WD~noble_gases,19609]]"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Morris Travers,380209]]"
-- "[[_Standards/WikiData/WD~William Ramsay,950726]]"
+- "[[_Standards/WikiData/WD~Morris_Travers,380209]]"
+- "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
 different_from: '[[_Standards/WikiData/WD~kryptonite,421669]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 instance_of:
-- "[[_Standards/WikiData/WD~atmophile element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 - '[[_Standards/WikiData/WD~gas,11432]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
@@ -32,7 +32,7 @@ has_characteristic:
 named_after: '[[_Standards/WikiData/WD~hiding,30301727]]'
 time_of_discovery_or_invention: "1898"
 UMLS_CUI: C0022792
-location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 electronegativity: 3
 atomic_number: 36
 standard_molar_entropy: 164

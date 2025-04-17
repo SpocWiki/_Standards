@@ -3,32 +3,32 @@ has_id_wikidata: Q11469
 EAGLE_id: material/lod/604
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/STEKLO.html
 subclass_of:
-- "[[_Standards/WikiData/WD~amorphous solid,103382]]"
-- "[[_Standards/WikiData/WD~building material,206615]]"
+- "[[_Standards/WikiData/WD~amorphous_solid,103382]]"
+- "[[_Standards/WikiData/WD~building_material,206615]]"
 - '[[_Standards/WikiData/WD~material,214609]]'
 - '[[_Standards/WikiData/WD~solid,11438]]'
 instance_of:
 - '[[_Standards/WikiData/WD~material,214609]]'
-- "[[_Standards/WikiData/WD~non-classical state of matter,15831577]]"
-- "[[_Standards/WikiData/WD~product category,63981612]]"
+- "[[_Standards/WikiData/WD~non-classical_state_of_matter,15831577]]"
+- "[[_Standards/WikiData/WD~product_category,63981612]]"
 different_from:
 - '[[_Standards/WikiData/WD~Glass,232598]]'
 - '[[_Standards/WikiData/WD~Glas,437343]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Grove Art Online,21431157]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Grove_Art_Online,21431157]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 - '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of glass,2989503]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_glass,2989503]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Glas2.ogg"
 Provenio_UUID: 94d927fb-44ae-4e4a-b346-6d950d2c0b05
 UMLS_CUI: C0017596

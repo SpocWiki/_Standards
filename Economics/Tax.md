@@ -1,27 +1,27 @@
 ﻿---
 has_id_wikidata: Q8161
 handled_mitigated_or_managed_by:
-- "[[_Standards/WikiData/WD~tax avoidance,329303]]"
-- "[[_Standards/WikiData/WD~tax deduction,1893102]]"
-- "[[_Standards/WikiData/WD~tax break,7689411]]"
-- "[[_Standards/WikiData/WD~tax noncompliance,15279749]]"
+- "[[_Standards/WikiData/WD~tax_avoidance,329303]]"
+- "[[_Standards/WikiData/WD~tax_deduction,1893102]]"
+- "[[_Standards/WikiData/WD~tax_break,7689411]]"
+- "[[_Standards/WikiData/WD~tax_noncompliance,15279749]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~tribute,748289]]'
-- "[[_Standards/WikiData/WD~taxes and public duties,11596025]]"
+- "[[_Standards/WikiData/WD~taxes_and_public_duties,11596025]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Vlastenský slovník historický,19538713]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 has_characteristic:
 - '[[_Standards/WikiData/WD~taxation,1964442]]'
-- "[[_Standards/WikiData/WD~type of tax,130109687]]"
+- "[[_Standards/WikiData/WD~type_of_tax,130109687]]"
 different_from: '[[_Standards/WikiData/WD~Podatek,11820201]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Taxation,14492698]]'
-studied_in: "[[_Standards/WikiData/WD~taxation and revenue in economics,113098404]]"
+studied_in: "[[_Standards/WikiData/WD~taxation_and_revenue_in_economics,113098404]]"
 UMLS_CUI: C0039371
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Steuer2.ogg"
 MeSH_tree_code: N03.219.900

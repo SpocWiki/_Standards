@@ -1,39 +1,39 @@
 ---
 has_id_wikidata: Q282
 has_part_s_:
-- "[[_Standards/WikiData/WD~sparkling wine,321263]]"
+- "[[_Standards/WikiData/WD~sparkling_wine,321263]]"
 - "[[_Standards/WikiData/WD~2-[[9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]purin-6-yl]amino]butanedioic acid,128896073]]"
-- "[[_Standards/WikiData/WD~red wine,1827]]"
-- "[[_Standards/WikiData/WD~white wine,10210]]"
+- "[[_Standards/WikiData/WD~red_wine,1827]]"
+- "[[_Standards/WikiData/WD~white_wine,10210]]"
 color:
 - '[[_Standards/WikiData/WD~pink,429220]]'
 - '[[_Standards/WikiData/WD~red,3142]]'
 - '[[_Standards/WikiData/WD~white,23444]]'
 - '[[_Standards/WikiData/WD~orange,39338]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 produced_by:
-- "[[_Standards/WikiData/WD~yeast in winemaking,3237250]]"
+- "[[_Standards/WikiData/WD~yeast_in_winemaking,3237250]]"
 - '[[_Standards/WikiData/WD~fermentation,41760]]'
 different_from: '[[_Standards/WikiData/WD~wino,6167984]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of wine,7112812]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_wine,7112812]]"
 has_use:
-- "[[_Standards/WikiData/WD~cooking alcohol,8193047]]"
+- "[[_Standards/WikiData/WD~cooking_alcohol,8193047]]"
 - '[[_Standards/WikiData/WD~drink,40050]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Wine,11120865]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~fermented alcoholic beverage,11258817]]"
-- "[[_Standards/WikiData/WD~alcoholic fruit beverage,56351009]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Wine,15885167]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+- "[[_Standards/WikiData/WD~fermented_alcoholic_beverage,11258817]]"
+- "[[_Standards/WikiData/WD~alcoholic_fruit_beverage,56351009]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Wine,15885167]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 UMLS_CUI: C0043188
 MeSH_tree_code:
 - G07.203.100.559.968
@@ -45,7 +45,7 @@ MeSH_tree_code:
 made_from_material:
 - '[[_Standards/WikiData/WD~grape,10978]]'
 - '[[_Standards/WikiData/WD~yeast,45422]]'
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Vitis vinifera subsp. vinifera,20634]]"
+natural_product_of_taxon: "[[_Standards/WikiData/WD~Vitis_vinifera_subsp._vinifera,20634]]"
 water_footprint: 869
 OmegaWiki_Defined_Meaning: 6329
 Commons_gallery: Wine

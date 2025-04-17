@@ -2,37 +2,37 @@
 has_id_wikidata: Q3392
 different_from: '[[_Standards/WikiData/WD~Nil,342513]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Larousse Encyclopedia online,17329836]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 tributary:
-- "[[_Standards/WikiData/WD~Atbarah River,753897]]"
-- "[[_Standards/WikiData/WD~Wadi Hammamat,1479250]]"
+- "[[_Standards/WikiData/WD~Atbarah_River,753897]]"
+- "[[_Standards/WikiData/WD~Wadi_Hammamat,1479250]]"
 origin_of_the_watercourse:
-- "[[_Standards/WikiData/WD~Blue Nile,882739]]"
-- "[[_Standards/WikiData/WD~White Nile,4814791]]"
-drainage_basin: "[[_Standards/WikiData/WD~Nile basin,2887548]]"
+- "[[_Standards/WikiData/WD~Blue_Nile,882739]]"
+- "[[_Standards/WikiData/WD~White_Nile,4814791]]"
+drainage_basin: "[[_Standards/WikiData/WD~Nile_basin,2887548]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q17984079,17984079]]'
 depicted_by:
-- "[[_Standards/WikiData/WD~Nile, Fountain in Piazza del Campidoglio,125809210]]"
-- "[[_Standards/WikiData/WD~Nile in Fontana dei fiumi,126210738]]"
-- "[[_Standards/WikiData/WD~Allegories of the Nile,126421284]]"
+- "[[_Standards/WikiData/WD~Nile,_Fountain_in_Piazza_del_Campidoglio,125809210]]"
+- "[[_Standards/WikiData/WD~Nile_in_Fontana_dei_fiumi,126210738]]"
+- "[[_Standards/WikiData/WD~Allegories_of_the_Nile,126421284]]"
 coordinate_location:
 - "Point(32.5055 15.640138888)"
 - "Point(30.3667 31.4653)"
 BHCL_UUID: 1d9421f4-29bf-468a-bb56-ce06ed15a88f
 basin_country:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
@@ -40,15 +40,15 @@ basin_country:
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 country:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Egypt,79]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 instance_of: '[[_Standards/WikiData/WD~river,4022]]'
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 elevation_above_sea_level:
 - 0

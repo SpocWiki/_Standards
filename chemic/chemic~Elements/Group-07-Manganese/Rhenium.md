@@ -4,22 +4,22 @@ SpocWebEntityId: 21971
 has_id_wikidata: Q737
 InChIKey: WUAPFZMCVAUBPE-UHFFFAOYSA-N
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Ida Noddack,77529]]"
-- "[[_Standards/WikiData/WD~Otto Berg,85727]]"
-- "[[_Standards/WikiData/WD~Walter Noddack,62714]]"
+- "[[_Standards/WikiData/WD~Ida_Noddack,77529]]"
+- "[[_Standards/WikiData/WD~Otto_Berg,85727]]"
+- "[[_Standards/WikiData/WD~Walter_Noddack,62714]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 7,202602]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~group_7,202602]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~rheniite,411587]]'
-- "[[_Standards/WikiData/WD~molybdenite mineral group,3777754]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~molybdenite_mineral_group,3777754]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 UMLS_CUI: C0035419
 Common_Procurement_Vocabulary_code:
 - 14793000-6
 - 14793000
 named_after: '[[_Standards/WikiData/WD~Rhine,584]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 oxidation_state:
 - 3
 - 5

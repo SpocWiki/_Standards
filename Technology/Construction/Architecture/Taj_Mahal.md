@@ -10,30 +10,30 @@ native_label:
 coordinate_location: "Point(78.041944444 27.175)"
 inception: "1631"
 has_time_started: 1631-06 
-founded_by: "[[_Standards/WikiData/WD~Shah Jahan,83672]]"
-commissioned_by: "[[_Standards/WikiData/WD~Shah Jahan,83672]]"
-different_from: "[[_Standards/WikiData/WD~Taj Mahal,125021]]"
+founded_by: "[[_Standards/WikiData/WD~Shah_Jahan,83672]]"
+commissioned_by: "[[_Standards/WikiData/WD~Shah_Jahan,83672]]"
+different_from: "[[_Standards/WikiData/WD~Taj_Mahal,125021]]"
 instance_of:
 - '[[_Standards/WikiData/WD~mausoleum,162875]]'
 - '[[_Standards/WikiData/WD~tomb,381885]]'
-- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
+- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
 architectural_style:
-- "[[_Standards/WikiData/WD~Islamic architecture,212940]]"
-- "[[_Standards/WikiData/WD~Mughal architecture,542261]]"
-- "[[_Standards/WikiData/WD~architecture of Iran,1501585]]"
-named_after: "[[_Standards/WikiData/WD~Mumtaz Mahal,231693]]"
+- "[[_Standards/WikiData/WD~Islamic_architecture,212940]]"
+- "[[_Standards/WikiData/WD~Mughal_architecture,542261]]"
+- "[[_Standards/WikiData/WD~architecture_of_Iran,1501585]]"
+named_after: "[[_Standards/WikiData/WD~Mumtaz_Mahal,231693]]"
 significant_event: '[[_Standards/WikiData/WD~construction,385378]]'
-architect: "[[_Standards/WikiData/WD~Ahmad Lahori,2551253]]"
+architect: "[[_Standards/WikiData/WD~Ahmad_Lahori,2551253]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Erster Band,126374795]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Erster_Band,126374795]]"
 heritage_designation:
-- "[[_Standards/WikiData/WD~Monument of National Importance,17047513]]"
-- "[[_Standards/WikiData/WD~World Heritage Site,9259]]"
+- "[[_Standards/WikiData/WD~Monument_of_National_Importance,17047513]]"
+- "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
 World_Heritage_criteria: '[[_Standards/WikiData/WD~(i),23038972]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q24259080,24259080]]'
-activity_policy_in_this_place: "[[_Standards/WikiData/WD~no photos,51728721]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki Loves Monuments in India,73852346]]"
+activity_policy_in_this_place: "[[_Standards/WikiData/WD~no_photos,51728721]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Monuments_in_India,73852346]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Taj%20Mahal%2C%20Agra%2C%20India%20edit3.jpg"
 name: "ꠔꠣꠎ ꠝꠟ"
 Commons_gallery: "Taj Mahal - ताजमहल"
@@ -43,7 +43,7 @@ video:
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 country: '[[_Standards/WikiData/WD~India,668]]'
 located_in_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Uttar Pradesh,1498]]"
+- "[[_Standards/WikiData/WD~Uttar_Pradesh,1498]]"
 - '[[_Standards/WikiData/WD~Agra,42941]]'
 area: 17
 capital_cost: 32000000

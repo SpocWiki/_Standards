@@ -1,12 +1,12 @@
 ﻿---
 has_id_wikidata: Q11388
-follows: "[[_Standards/WikiData/WD~visible spectrum,76299]]"
-part_of: "[[_Standards/WikiData/WD~electromagnetic spectrum,133139]]"
-facet_of: "[[_Standards/WikiData/WD~electromagnetic radiation,12969754]]"
-subclass_of: "[[_Standards/WikiData/WD~electromagnetic radiation,12969754]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+follows: "[[_Standards/WikiData/WD~visible_spectrum,76299]]"
+part_of: "[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]"
+facet_of: "[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]"
+subclass_of: "[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 does_not_have_characteristic: '[[_Standards/WikiData/WD~visibility,30301666]]'
-used_by: "[[_Standards/WikiData/WD~infrared perception,47015713]]"
+used_by: "[[_Standards/WikiData/WD~infrared_perception,47015713]]"
 Stack_Exchange_tag:
 - "https://physics.stackexchange.com/tags/infrared-radiation"
 - "https://electronics.stackexchange.com/tags/infrared"

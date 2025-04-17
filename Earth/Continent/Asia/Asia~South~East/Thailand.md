@@ -1,42 +1,42 @@
 ---
 language_used:
-- "[[_Standards/WikiData/WD~Nyah Kur,116849]]"
-- "[[_Standards/WikiData/WD~Northern Thai,565110]]"
-- "[[_Standards/WikiData/WD~Kelantan-Pattani Malay,1199751]]"
-- "[[_Standards/WikiData/WD~Urak Lawoi’,2031144]]"
+- "[[_Standards/WikiData/WD~Nyah_Kur,116849]]"
+- "[[_Standards/WikiData/WD~Northern_Thai,565110]]"
+- "[[_Standards/WikiData/WD~Kelantan-Pattani_Malay,1199751]]"
+- "[[_Standards/WikiData/WD~Urak_Lawoi’,2031144]]"
 - '[[_Standards/WikiData/WD~Nyeu,3033578]]'
 - "[[_Standards/WikiData/WD~Ten'edn,3073453]]"
 - '[[_Standards/WikiData/WD~Mlabri,3073465]]'
 - '[[_Standards/WikiData/WD~Sô,3082037]]'
-- "[[_Standards/WikiData/WD~Hmong Njua,3138831]]"
+- "[[_Standards/WikiData/WD~Hmong_Njua,3138831]]"
 - '[[_Standards/WikiData/WD~Moken,3217488]]'
 - '[[_Standards/WikiData/WD~Mal,3281057]]'
 - '[[_Standards/WikiData/WD~Moklen,3319380]]'
-- "[[_Standards/WikiData/WD~Ban Khor Sign Language,3441103]]"
+- "[[_Standards/WikiData/WD~Ban_Khor_Sign_Language,3441103]]"
 - '[[_Standards/WikiData/WD~Gong,3448919]]'
-- "[[_Standards/WikiData/WD~Northern Khmer,3502234]]"
+- "[[_Standards/WikiData/WD~Northern_Khmer,3502234]]"
 - '[[_Standards/WikiData/WD~Yoy,3503717]]'
-- "[[_Standards/WikiData/WD~Phu Thai,3626597]]"
+- "[[_Standards/WikiData/WD~Phu_Thai,3626597]]"
 - '[[_Standards/WikiData/WD~Chong,3914630]]'
 - '[[_Standards/WikiData/WD~Phuan,3915665]]'
 - '[[_Standards/WikiData/WD~Blang,4925096]]'
-- "[[_Standards/WikiData/WD~Kedah-Perak-Perlis-Penang Malay,4925684]]"
-- "[[_Standards/WikiData/WD~Chiangmai Sign Language,5095211]]"
-- "[[_Standards/WikiData/WD~Eastern Pwo,5330390]]"
+- "[[_Standards/WikiData/WD~Kedah-Perak-Perlis-Penang_Malay,4925684]]"
+- "[[_Standards/WikiData/WD~Chiangmai_Sign_Language,5095211]]"
+- "[[_Standards/WikiData/WD~Eastern_Pwo,5330390]]"
 - '[[_Standards/WikiData/WD~Kensiu,6391529]]'
 - '[[_Standards/WikiData/WD~Mpi,6928276]]'
-- "[[_Standards/WikiData/WD~Northern Pwo,7058885]]"
+- "[[_Standards/WikiData/WD~Northern_Pwo,7058885]]"
 - "[[_Standards/WikiData/WD~Pa'O,7121294]]"
 - '[[_Standards/WikiData/WD~Phai,7180184]]'
-- "[[_Standards/WikiData/WD~Phrae Pwo,7187991]]"
-- "[[_Standards/WikiData/WD~Thai Song,7709159]]"
-- "[[_Standards/WikiData/WD~Thai Sign Language,7709156]]"
+- "[[_Standards/WikiData/WD~Phrae_Pwo,7187991]]"
+- "[[_Standards/WikiData/WD~Thai_Song,7709159]]"
+- "[[_Standards/WikiData/WD~Thai_Sign_Language,7709156]]"
 - '[[_Standards/WikiData/WD~Yong,8054978]]'
-- "[[_Standards/WikiData/WD~Western Bru,13018531]]"
+- "[[_Standards/WikiData/WD~Western_Bru,13018531]]"
 - '[[_Standards/WikiData/WD~Mok,13018559]]'
-- "[[_Standards/WikiData/WD~Eastern Lawa,18644464]]"
-- "[[_Standards/WikiData/WD~Western Lawa,18644465]]"
-- "[[_Standards/WikiData/WD~Eastern Kayah,25559417]]"
+- "[[_Standards/WikiData/WD~Eastern_Lawa,18644464]]"
+- "[[_Standards/WikiData/WD~Western_Lawa,18644465]]"
+- "[[_Standards/WikiData/WD~Eastern_Kayah,25559417]]"
 - '[[_Standards/WikiData/WD~Nyaw,26425602]]'
 - '[[_Standards/WikiData/WD~Thai,9217]]'
 - '[[_Standards/WikiData/WD~Malay,9237]]'
@@ -46,168 +46,168 @@ language_used:
 - '[[_Standards/WikiData/WD~Thavung,34780]]'
 - '[[_Standards/WikiData/WD~Saek,36437]]'
 - '[[_Standards/WikiData/WD~Kuy,56310]]'
-- "[[_Standards/WikiData/WD~S'gaw Karen,56410]]"
+- "[[_Standards/WikiData/WD~S'gaw_Karen,56410]]"
 - '[[_Standards/WikiData/WD~Shan,56482]]'
-- "[[_Standards/WikiData/WD~Southern Thai,56508]]"
+- "[[_Standards/WikiData/WD~Southern_Thai,56508]]"
 - '[[_Standards/WikiData/WD~Akha,56643]]'
 - '[[_Standards/WikiData/WD~Bisu,56852]]'
-lowest_point: "[[_Standards/WikiData/WD~Gulf of Thailand,131217]]"
-flag: "[[_Standards/WikiData/WD~flag of Thailand,134885]]"
+lowest_point: "[[_Standards/WikiData/WD~Gulf_of_Thailand,131217]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Thailand,134885]]"
 official_symbol:
-- "[[_Standards/WikiData/WD~Cassia fistula,161117]]"
+- "[[_Standards/WikiData/WD~Cassia_fistula,161117]]"
 - '[[_Standards/WikiData/WD~sala,2141912]]'
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Southeast Asia Treaty Organization,277252]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation,795985]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Association of South-East Asian Nations,7768]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,795985]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-studied_in: "[[_Standards/WikiData/WD~Thai studies,174028]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+studied_in: "[[_Standards/WikiData/WD~Thai_studies,174028]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Phuket,182565]]'
-- "[[_Standards/WikiData/WD~Chon Buri,207068]]"
-- "[[_Standards/WikiData/WD~Chiang Mai,233588]]"
+- "[[_Standards/WikiData/WD~Chon_Buri,207068]]"
+- "[[_Standards/WikiData/WD~Chiang_Mai,233588]]"
 - '[[_Standards/WikiData/WD~Songkhla,235574]]'
 - '[[_Standards/WikiData/WD~Satun,236263]]'
-- "[[_Standards/WikiData/WD~Chiang Rai,236419]]"
+- "[[_Standards/WikiData/WD~Chiang_Rai,236419]]"
 - '[[_Standards/WikiData/WD~Krabi,236769]]'
 - '[[_Standards/WikiData/WD~Pattani,236781]]'
-- "[[_Standards/WikiData/WD~Ranong province,236802]]"
+- "[[_Standards/WikiData/WD~Ranong_province,236802]]"
 - '[[_Standards/WikiData/WD~Phichit,237874]]'
-- "[[_Standards/WikiData/WD~Nakhon Sawan,239844]]"
-- "[[_Standards/WikiData/WD~Surat Thani,240463]]"
+- "[[_Standards/WikiData/WD~Nakhon_Sawan,239844]]"
+- "[[_Standards/WikiData/WD~Surat_Thani,240463]]"
 - '[[_Standards/WikiData/WD~Lampang,240495]]'
 - '[[_Standards/WikiData/WD~Phetchabun,240520]]'
 - '[[_Standards/WikiData/WD~Lamphun,240540]]'
 - '[[_Standards/WikiData/WD~Trat,241884]]'
 - '[[_Standards/WikiData/WD~Nonthaburi,242932]]'
 - '[[_Standards/WikiData/WD~Yala,242977]]'
-- "[[_Standards/WikiData/WD~Amnat Charoen,243791]]"
-- "[[_Standards/WikiData/WD~Ang Thong,243795]]"
+- "[[_Standards/WikiData/WD~Amnat_Charoen,243791]]"
+- "[[_Standards/WikiData/WD~Ang_Thong,243795]]"
 - '[[_Standards/WikiData/WD~Trang,243805]]'
 - '[[_Standards/WikiData/WD~Phatthalung,243808]]'
 - '[[_Standards/WikiData/WD~Phayao,244618]]'
-- "[[_Standards/WikiData/WD~Prachuap Khiri Khan,244628]]"
-- "[[_Standards/WikiData/WD~Uthai Thani,244649]]"
+- "[[_Standards/WikiData/WD~Prachuap_Khiri_Khan,244628]]"
+- "[[_Standards/WikiData/WD~Uthai_Thani,244649]]"
 - '[[_Standards/WikiData/WD~Phrae,244652]]'
-- "[[_Standards/WikiData/WD~Nakhon Si Thammarat,244691]]"
+- "[[_Standards/WikiData/WD~Nakhon_Si_Thammarat,244691]]"
 - '[[_Standards/WikiData/WD~Chumphon,244695]]'
 - '[[_Standards/WikiData/WD~Nan,244698]]'
 - '[[_Standards/WikiData/WD~Phetchaburi,244699]]'
-- "[[_Standards/WikiData/WD~Nong Bua Lamphu,261241]]"
-- "[[_Standards/WikiData/WD~Mae Hong Son,269270]]"
+- "[[_Standards/WikiData/WD~Nong_Bua_Lamphu,261241]]"
+- "[[_Standards/WikiData/WD~Mae_Hong_Son,269270]]"
 - '[[_Standards/WikiData/WD~Narathiwat,271442]]'
-- "[[_Standards/WikiData/WD~Samut Prakan,271529]]"
-- "[[_Standards/WikiData/WD~Nakhon Ratchasima,271737]]"
-- "[[_Standards/WikiData/WD~Suphan Buri,272247]]"
-- "[[_Standards/WikiData/WD~Phang Nga,273306]]"
+- "[[_Standards/WikiData/WD~Samut_Prakan,271529]]"
+- "[[_Standards/WikiData/WD~Nakhon_Ratchasima,271737]]"
+- "[[_Standards/WikiData/WD~Suphan_Buri,272247]]"
+- "[[_Standards/WikiData/WD~Phang_Nga,273306]]"
 - '[[_Standards/WikiData/WD~Uttaradit,273794]]'
-- "[[_Standards/WikiData/WD~Kamphaeng Phet,273807]]"
+- "[[_Standards/WikiData/WD~Kamphaeng_Phet,273807]]"
 - '[[_Standards/WikiData/WD~Chaiyaphum,275377]]'
-- "[[_Standards/WikiData/WD~Loei province,275388]]"
+- "[[_Standards/WikiData/WD~Loei_province,275388]]"
 - '[[_Standards/WikiData/WD~Kanchanaburi,275740]]'
 - '[[_Standards/WikiData/WD~Tak,275758]]'
 - '[[_Standards/WikiData/WD~Phitsanulok,275781]]'
-- "[[_Standards/WikiData/WD~Prachin Buri,321324]]"
-- "[[_Standards/WikiData/WD~Buri Ram,327510]]"
-- "[[_Standards/WikiData/WD~Khon Kaen,327533]]"
+- "[[_Standards/WikiData/WD~Prachin_Buri,321324]]"
+- "[[_Standards/WikiData/WD~Buri_Ram,327510]]"
+- "[[_Standards/WikiData/WD~Khon_Kaen,327533]]"
 - '[[_Standards/WikiData/WD~Chanthaburi,327730]]'
-- "[[_Standards/WikiData/WD~Nong Khai,327737]]"
-- "[[_Standards/WikiData/WD~Samut Sakhon,334686]]"
-- "[[_Standards/WikiData/WD~Sing Buri,334836]]"
-- "[[_Standards/WikiData/WD~Nakhon Pathom,334841]]"
+- "[[_Standards/WikiData/WD~Nong_Khai,327737]]"
+- "[[_Standards/WikiData/WD~Samut_Sakhon,334686]]"
+- "[[_Standards/WikiData/WD~Sing_Buri,334836]]"
+- "[[_Standards/WikiData/WD~Nakhon_Pathom,334841]]"
 - '[[_Standards/WikiData/WD~Chachoengsao,334906]]'
 - '[[_Standards/WikiData/WD~Mukdahan,335119]]'
 - '[[_Standards/WikiData/WD~Rayong,335221]]'
 - '[[_Standards/WikiData/WD~Ratchaburi,335492]]'
 - '[[_Standards/WikiData/WD~Lopburi,336122]]'
 - '[[_Standards/WikiData/WD~Saraburi,337627]]'
-- "[[_Standards/WikiData/WD~Udon Thani,380752]]"
+- "[[_Standards/WikiData/WD~Udon_Thani,380752]]"
 - '[[_Standards/WikiData/WD~Surin,380757]]'
-- "[[_Standards/WikiData/WD~Si Sa Ket,380761]]"
+- "[[_Standards/WikiData/WD~Si_Sa_Ket,380761]]"
 - '[[_Standards/WikiData/WD~Sukhothai,380764]]'
-- "[[_Standards/WikiData/WD~Sa Kaeo,381889]]"
-- "[[_Standards/WikiData/WD~Sakon Nakhon,382125]]"
+- "[[_Standards/WikiData/WD~Sa_Kaeo,381889]]"
+- "[[_Standards/WikiData/WD~Sakon_Nakhon,382125]]"
 - '[[_Standards/WikiData/WD~Kalasin,382144]]'
-- "[[_Standards/WikiData/WD~Samut Songkhram,459742]]"
-- "[[_Standards/WikiData/WD~Pathum Thani,459748]]"
-- "[[_Standards/WikiData/WD~Chai Nat,459759]]"
-- "[[_Standards/WikiData/WD~Nakhon Nayok,466212]]"
-- "[[_Standards/WikiData/WD~Nakhon Phanom,468547]]"
-- "[[_Standards/WikiData/WD~Maha Sarakham,468554]]"
-- "[[_Standards/WikiData/WD~Phra Nakhon Si Ayutthaya,476222]]"
+- "[[_Standards/WikiData/WD~Samut_Songkhram,459742]]"
+- "[[_Standards/WikiData/WD~Pathum_Thani,459748]]"
+- "[[_Standards/WikiData/WD~Chai_Nat,459759]]"
+- "[[_Standards/WikiData/WD~Nakhon_Nayok,466212]]"
+- "[[_Standards/WikiData/WD~Nakhon_Phanom,468547]]"
+- "[[_Standards/WikiData/WD~Maha_Sarakham,468554]]"
+- "[[_Standards/WikiData/WD~Phra_Nakhon_Si_Ayutthaya,476222]]"
 - '[[_Standards/WikiData/WD~Yasothon,506598]]'
-- "[[_Standards/WikiData/WD~Roi Et,625463]]"
-- "[[_Standards/WikiData/WD~Ubon Ratchathani,629024]]"
-- "[[_Standards/WikiData/WD~Bueng Kan,1001862]]"
+- "[[_Standards/WikiData/WD~Roi_Et,625463]]"
+- "[[_Standards/WikiData/WD~Ubon_Ratchathani,629024]]"
+- "[[_Standards/WikiData/WD~Bueng_Kan,1001862]]"
 - '[[_Standards/WikiData/WD~Bangkok,1861]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Thailand,188053]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Thailand,188053]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Kedah,188947]]'
-- "[[_Standards/WikiData/WD~Khmer Republic,1054184]]"
+- "[[_Standards/WikiData/WD~Khmer_Republic,1054184]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
 - '[[_Standards/WikiData/WD~Laos,819]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Myanmar,836]]'
-anthem: "[[_Standards/WikiData/WD~Thai National Anthem,207868]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Thailand,379391]]"
+anthem: "[[_Standards/WikiData/WD~Thai_National_Anthem,207868]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Thailand,379391]]"
 ethnic_group:
-- "[[_Standards/WikiData/WD~Thai people,472834]]"
-- "[[_Standards/WikiData/WD~Burmese in Thailand,25045392]]"
+- "[[_Standards/WikiData/WD~Thai_people,472834]]"
+- "[[_Standards/WikiData/WD~Burmese_in_Thailand,25045392]]"
 head_of_state: '[[_Standards/WikiData/WD~Vajiralongkorn,548733]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Thailand,806706]]"
-has_cabinet: "[[_Standards/WikiData/WD~Cabinet of Thailand,873368]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Thailand,873675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Thailand,806706]]"
+has_cabinet: "[[_Standards/WikiData/WD~Cabinet_of_Thailand,873368]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Thailand,873675]]"
 follows: '[[_Standards/WikiData/WD~Siam,1081620]]'
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-highest_point: "[[_Standards/WikiData/WD~Doi Inthanon,1140075]]"
-culture: "[[_Standards/WikiData/WD~culture of Thailand,1347711]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Thailand,1546292]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Thailand,1901218]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Thailand,2461493]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+highest_point: "[[_Standards/WikiData/WD~Doi_Inthanon,1140075]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Thailand,1347711]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Thailand,1546292]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Thailand,1901218]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Thailand,2461493]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-participant_in: "[[_Standards/WikiData/WD~ASEAN cable system,4654163]]"
+- "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+participant_in: "[[_Standards/WikiData/WD~ASEAN_cable_system,4654163]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Bangkok,4806279]]'
 - '[[_Standards/WikiData/WD~UTC+07_00,6940]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Thailand,7112484]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Thailand,12376089]]"
-head_of_government: "[[_Standards/WikiData/WD~Paetongtarn Shinawatra,13026319]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Thailand,7112484]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Thailand,12376089]]"
+head_of_government: "[[_Standards/WikiData/WD~Paetongtarn_Shinawatra,13026319]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Thailand,14644364]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Thailand,15060233]]"
-legislative_body: "[[_Standards/WikiData/WD~National Legislative Assembly of Thailand (2014),25352284]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Thailand,15060233]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Legislative_Assembly_of_Thailand_(2014),25352284]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~191,25648876]]'
 - '[[_Standards/WikiData/WD~199,25648881]]'
@@ -216,10 +216,10 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q27103907,27103907]]'
 - '[[_Standards/WikiData/WD~Q30302990,30302990]]'
 - '[[_Standards/WikiData/WD~Q47995170,47995170]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~King of Thailand,27330121]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Thailand,97128854]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~King_of_Thailand,27330121]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Thailand,97128854]]"
 demonym:
 - tailandès
 - tailandesa
@@ -274,21 +274,21 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Laos,819]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Bhutan,917]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Hong Kong,8646]]"
+- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
@@ -296,7 +296,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Italy,38]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Romania,218]]'
@@ -308,7 +308,7 @@ religion_or_worldview:
 country: '[[_Standards/WikiData/WD~Thailand,869]]'
 capital: '[[_Standards/WikiData/WD~Bangkok,1861]]'
 official_language: '[[_Standards/WikiData/WD~Thai,9217]]'
-part_of: "[[_Standards/WikiData/WD~Southeast Asia,11708]]"
+part_of: "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 VAT_rate: 10
 marriageable_age: 20
@@ -331,7 +331,7 @@ BTI_Governance_Index:
 - 4.58
 - 5.28
 total_fertility_rate: 1.54
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.th,43133]]'
 Environmental_Performance_Index: 38.1
 BTI_Status_Index:
@@ -344,7 +344,7 @@ BTI_Status_Index:
 - 5.84
 - 5.98
 - 7.26
-official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 trunk_prefix: 0
 Happy_Planet_Index_score: 52.9
 Democracy_Index: 6.04

@@ -13,35 +13,35 @@ UNII: H6241UJ22B
 InChI: InChI=1S/Se
 RTECS_number: VS7700000
 part_of:
-- "[[_Standards/WikiData/WD~group 16,104567]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_16,104567]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~group 16,104567]]"
+- "[[_Standards/WikiData/WD~group_16,104567]]"
 - '[[_Standards/WikiData/WD~nonmetal,19600]]'
 subject_has_role:
 - '[[_Standards/WikiData/WD~antioxidant,133948]]'
-- "[[_Standards/WikiData/WD~trace metal,7831165]]"
+- "[[_Standards/WikiData/WD~trace_metal,7831165]]"
 found_in_taxon: '[[_Standards/WikiData/WD~Hedysarum,148973]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Jöns Jacob Berzelius,151911]]"
-- "[[_Standards/WikiData/WD~Johan Gottlieb Gahn,353490]]"
+- "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
+- "[[_Standards/WikiData/WD~Johan_Gottlieb_Gahn,353490]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-medical_condition_treated: "[[_Standards/WikiData/WD~nutritional deficiency disease,1890194]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~nutritional_deficiency_disease,1890194]]"
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~flammable solid,21073024]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~selenium exposure,2268113]]"
-has_effect: "[[_Standards/WikiData/WD~selenium exposure,2268113]]"
-made_from_material: "[[_Standards/WikiData/WD~selenide minerals,3954748]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~selenium_exposure,2268113]]"
+has_effect: "[[_Standards/WikiData/WD~selenium_exposure,2268113]]"
+made_from_material: "[[_Standards/WikiData/WD~selenide_minerals,3954748]]"
 named_after: '[[_Standards/WikiData/WD~Moon,405]]'
 location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754]]'
-different_from: "[[_Standards/WikiData/WD~chemical element,11344]]"
+different_from: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 oxidation_state:
 - -2
 - 2

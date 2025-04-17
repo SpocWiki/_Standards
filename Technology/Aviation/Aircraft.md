@@ -1,26 +1,26 @@
 ﻿---
 has_id_wikidata: Q11436
-has_part_s_: "[[_Standards/WikiData/WD~aircraft cockpit,194156]]"
-instance_of: "[[_Standards/WikiData/WD~mode of transport,334166]]"
+has_part_s_: "[[_Standards/WikiData/WD~aircraft_cockpit,194156]]"
+instance_of: "[[_Standards/WikiData/WD~mode_of_transport,334166]]"
 operator:
-- "[[_Standards/WikiData/WD~Chilean Air Force,652023]]"
-- "[[_Standards/WikiData/WD~Armed Forces of Chile,860704]]"
-- "[[_Standards/WikiData/WD~Algerian People's National Armed Forces,897700]]"
-- "[[_Standards/WikiData/WD~Argentine Naval Aviation,2665958]]"
-- "[[_Standards/WikiData/WD~Argentine Army Aviation,3958034]]"
-- "[[_Standards/WikiData/WD~global aircraft fleet,24175393]]"
-- "[[_Standards/WikiData/WD~Chilean Naval Aviation,90128770]]"
-- "[[_Standards/WikiData/WD~Chilean Army Aviation,90130528]]"
+- "[[_Standards/WikiData/WD~Chilean_Air_Force,652023]]"
+- "[[_Standards/WikiData/WD~Armed_Forces_of_Chile,860704]]"
+- "[[_Standards/WikiData/WD~Algerian_People's_National_Armed_Forces,897700]]"
+- "[[_Standards/WikiData/WD~Argentine_Naval_Aviation,2665958]]"
+- "[[_Standards/WikiData/WD~Argentine_Army_Aviation,3958034]]"
+- "[[_Standards/WikiData/WD~global_aircraft_fleet,24175393]]"
+- "[[_Standards/WikiData/WD~Chilean_Naval_Aviation,90128770]]"
+- "[[_Standards/WikiData/WD~Chilean_Army_Aviation,90130528]]"
 - '[[_Standards/WikiData/WD~Bundeswehr,56010]]'
-- "[[_Standards/WikiData/WD~Argentine Air Force,57770]]"
+- "[[_Standards/WikiData/WD~Argentine_Air_Force,57770]]"
 different_from: '[[_Standards/WikiData/WD~rocket,2037215]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Aircraft specifications,6672945]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Aircraft_specifications,6672945]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~flying machine,7194062]]"
+- "[[_Standards/WikiData/WD~flying_machine,7194062]]"
 - '[[_Standards/WikiData/WD~vehicle,42889]]'
 has_characteristic:
-- "[[_Standards/WikiData/WD~aircraft model,15056995]]"
-- "[[_Standards/WikiData/WD~aircraft type,45296117]]"
+- "[[_Standards/WikiData/WD~aircraft_model,15056995]]"
+- "[[_Standards/WikiData/WD~aircraft_type,45296117]]"
 UMLS_CUI: C0683901
 properties_for_this_type:
 - "aircraft registration"

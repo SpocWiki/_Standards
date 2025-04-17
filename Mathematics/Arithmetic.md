@@ -1,22 +1,22 @@
 ﻿---
 has_id_wikidata: Q11205
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-instance_of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of arithmetic,7112559]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_arithmetic,7112559]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 subclass_of: '[[_Standards/WikiData/WD~procedure,20920559]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~arithmetic,27135072]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Arithmetic,64578587]]'
-studied_in: "[[_Standards/WikiData/WD~learning math,98021564]]"
+studied_in: "[[_Standards/WikiData/WD~learning_math,98021564]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B9%D5%BE%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Arithmetic%29.ogg"
 part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
 Dewey_Decimal_Classification: 513

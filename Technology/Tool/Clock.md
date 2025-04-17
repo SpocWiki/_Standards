@@ -4,18 +4,18 @@ has_use:
 - '[[_Standards/WikiData/WD~chronometry,186398]]'
 - '[[_Standards/WikiData/WD~displaying,115203785]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~metrological mechanism,4198689]]"
+- "[[_Standards/WikiData/WD~metrological_mechanism,4198689]]"
 - '[[_Standards/WikiData/WD~timepiece,42622779]]'
-- "[[_Standards/WikiData/WD~decorative object,115923123]]"
+- "[[_Standards/WikiData/WD~decorative_object,115923123]]"
 - '[[_Standards/WikiData/WD~machine,11019]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Uhr%2020230505%20001.stl"
 Nomenclature_for_Museum_Cataloging: 10265
 OmegaWiki_Defined_Meaning: 5790

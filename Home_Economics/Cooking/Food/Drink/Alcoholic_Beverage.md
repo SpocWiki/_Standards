@@ -3,13 +3,13 @@ aliases:
 - "Alcoholic beverage"
 has_id_wikidata: Q154
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
-has_list: "[[_Standards/WikiData/WD~list of alcoholic beverages,2468826]]"
-opposite_of: "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
-produced_by: "[[_Standards/WikiData/WD~alcohol industry,3150593]]"
+has_list: "[[_Standards/WikiData/WD~list_of_alcoholic_beverages,2468826]]"
+opposite_of: "[[_Standards/WikiData/WD~non-alcoholic_beverage,2647467]]"
+produced_by: "[[_Standards/WikiData/WD~alcohol_industry,3150593]]"
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Alcoholic%20beverages%20montage.jpg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Beer%20banner.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Common%20alcoholic%20beverages.jpg"
@@ -27,8 +27,8 @@ MeSH_tree_code:
 - J02.200.100
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SPIRTNIE_NAPITKI.html
 Baidu_Tieba_name: 酒
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox alcoholic beverage,10557691]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Alcoholic drinks,61473108]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_alcoholic_beverage,10557691]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Alcoholic_drinks,61473108]]"
 UMLS_CUI: C0001967
 has_active_ingredient: '[[_Standards/WikiData/WD~ethanol,153]]'
 has_part_s_: '[[_Standards/WikiData/WD~ethanol,153]]'

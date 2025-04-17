@@ -1,23 +1,23 @@
 ﻿---
 has_id_wikidata: Q11663
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Armenian Nature,16387823]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Topographia Hassiae,19230683]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Topographia_Hassiae,19230683]]"
 immediate_cause_of: '[[_Standards/WikiData/WD~shelter,989946]]'
 part_of:
-- "[[_Standards/WikiData/WD~atmospheric condition,1281564]]"
-- "[[_Standards/WikiData/WD~atmospheric circulation,2615451]]"
-instance_of: "[[_Standards/WikiData/WD~natural phenomenon,1322005]]"
+- "[[_Standards/WikiData/WD~atmospheric_condition,1281564]]"
+- "[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]"
+instance_of: "[[_Standards/WikiData/WD~natural_phenomenon,1322005]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~state,3505845]]'
-- "[[_Standards/WikiData/WD~meteorological phenomenon,16332653]]"
+- "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Weather,8067988]]'
-- "[[_Standards/WikiData/WD~Template_Infobox weather type,20376438]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_weather_type,20376438]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Weather,10814956]]'
 hashtag:
 - Погода

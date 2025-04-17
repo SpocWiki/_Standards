@@ -4,20 +4,20 @@ different_from:
 - '[[_Standards/WikiData/WD~Winkel,348650]]'
 - '[[_Standards/WikiData/WD~Angle,2849621]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~ISO 80000-2_2019 Quantities and units — Part 2_ Mathematics,109490582]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-is_invariant_under: "[[_Standards/WikiData/WD~conformal map,850275]]"
-has_characteristic: "[[_Standards/WikiData/WD~angular measure,1357788]]"
-has_part_s_: "[[_Standards/WikiData/WD~angular measure,1357788]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units_—_Part_2__Mathematics,109490582]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+is_invariant_under: "[[_Standards/WikiData/WD~conformal_map,850275]]"
+has_characteristic: "[[_Standards/WikiData/WD~angular_measure,1357788]]"
+has_part_s_: "[[_Standards/WikiData/WD~angular_measure,1357788]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 notation: '[[_Standards/WikiData/WD~∠,87524476]]'
-studied_in: "[[_Standards/WikiData/WD~theory of angles,114717628]]"
+studied_in: "[[_Standards/WikiData/WD~theory_of_angles,114717628]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~two-dimensional object,118870638]]"
-- "[[_Standards/WikiData/WD~geometric object,123410745]]"
+- "[[_Standards/WikiData/WD~two-dimensional_object,118870638]]"
+- "[[_Standards/WikiData/WD~geometric_object,123410745]]"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/01-Winkel-1.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coord%20Angle.svg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%95%E0%A5%8B%E0%A4%A8.wav"

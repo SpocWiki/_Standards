@@ -4,18 +4,18 @@ SpocWebEntityId: 21957
 has_id_wikidata: Q1809
 named_after: '[[_Standards/WikiData/WD~Prometheus,83160]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Charles D. Coryell,260328]]"
-- "[[_Standards/WikiData/WD~Jacob Akiba Marinsky,904506]]"
-- "[[_Standards/WikiData/WD~Lawrence E. Glendenin,904562]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Oak Ridge National Laboratory,714439]]"
+- "[[_Standards/WikiData/WD~Charles_D._Coryell,260328]]"
+- "[[_Standards/WikiData/WD~Jacob_Akiba_Marinsky,904506]]"
+- "[[_Standards/WikiData/WD~Lawrence_E._Glendenin,904562]]"
+location_of_discovery: "[[_Standards/WikiData/WD~Oak_Ridge_National_Laboratory,714439]]"
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Elements,11165030]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]"
 UMLS_CUI: C0033406
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Promethium-147%20solution.jpg"
 follows: '[[_Standards/WikiData/WD~neodymium,1388]]'

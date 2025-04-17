@@ -1,104 +1,104 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~European Free Trade Association,166546]]"
-- "[[_Standards/WikiData/WD~UN Trade and Development,182000]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~European Bank for Reconstruction and Development,488981]]"
-- "[[_Standards/WikiData/WD~United Nations Economic Commission for Europe,659012]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
+- "[[_Standards/WikiData/WD~UN_Trade_and_Development,182000]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~European_Bank_for_Reconstruction_and_Development,488981]]"
+- "[[_Standards/WikiData/WD~United_Nations_Economic_Commission_for_Europe,659012]]"
 - '[[_Standards/WikiData/WD~Intelsat,778126]]'
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Permanent Court of Arbitration,1045198]]"
-- "[[_Standards/WikiData/WD~University of Teacher Education in Special Needs,1666124]]"
-- "[[_Standards/WikiData/WD~International Lake Constance conference,1667079]]"
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Permanent_Court_of_Arbitration,1045198]]"
+- "[[_Standards/WikiData/WD~University_of_Teacher_Education_in_Special_Needs,1666124]]"
+- "[[_Standards/WikiData/WD~International_Lake_Constance_conference,1667079]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~International Atomic Energy Agency,41984]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-- "[[_Standards/WikiData/WD~International Criminal Court,47488]]"
-flag: "[[_Standards/WikiData/WD~flag of Liechtenstein,103055]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- "[[_Standards/WikiData/WD~International_Criminal_Court,47488]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Liechtenstein,103055]]"
 language_used:
 - '[[_Standards/WikiData/WD~Alemannic,131339]]'
-- "[[_Standards/WikiData/WD~Swiss German,387066]]"
-- "[[_Standards/WikiData/WD~Walser German,680517]]"
+- "[[_Standards/WikiData/WD~Swiss_German,387066]]"
+- "[[_Standards/WikiData/WD~Walser_German,680517]]"
 - '[[_Standards/WikiData/WD~German,188]]'
 part_of:
-- "[[_Standards/WikiData/WD~German Confederation,151624]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-- "[[_Standards/WikiData/WD~Western Europe,27496]]"
+- "[[_Standards/WikiData/WD~German_Confederation,151624]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- "[[_Standards/WikiData/WD~Western_Europe,27496]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~Feast of Corpus Christi,152395]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~Saint Stephen's Day,1366863]]"
-- "[[_Standards/WikiData/WD~Feast of the Immaculate Conception,3538509]]"
-- "[[_Standards/WikiData/WD~Liechtenstein State Celebration,14757702]]"
-- "[[_Standards/WikiData/WD~Feast of the Ascension,51638]]"
-foundational_text: "[[_Standards/WikiData/WD~Constitution of Liechtenstein,172650]]"
+- "[[_Standards/WikiData/WD~Feast_of_Corpus_Christi,152395]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~Saint_Stephen's_Day,1366863]]"
+- "[[_Standards/WikiData/WD~Feast_of_the_Immaculate_Conception,3538509]]"
+- "[[_Standards/WikiData/WD~Liechtenstein_State_Celebration,14757702]]"
+- "[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution_of_Liechtenstein,172650]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Sovereign Military Order of Malta,190353]]"
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~Sovereign_Military_Order_of_Malta,190353]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
 - '[[_Standards/WikiData/WD~Switzerland,39]]'
 - '[[_Standards/WikiData/WD~Austria,40]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
-anthem: "[[_Standards/WikiData/WD~Oben am jungen Rhein,193873]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Liechtenstein,195226]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Liechtenstein,207282]]"
-central_bank: "[[_Standards/WikiData/WD~Swiss National Bank,597394]]"
+anthem: "[[_Standards/WikiData/WD~Oben_am_jungen_Rhein,193873]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Liechtenstein,195226]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Liechtenstein,207282]]"
+central_bank: "[[_Standards/WikiData/WD~Swiss_National_Bank,597394]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 highest_point: '[[_Standards/WikiData/WD~Grauspitz,665000]]'
-named_after: "[[_Standards/WikiData/WD~House of Liechtenstein,698530]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Liechtenstein,943167]]"
-legislative_body: "[[_Standards/WikiData/WD~Landtag of Liechtenstein,1149644]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Liechtenstein,1349889]]"
+named_after: "[[_Standards/WikiData/WD~House_of_Liechtenstein,698530]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Liechtenstein,943167]]"
+legislative_body: "[[_Standards/WikiData/WD~Landtag_of_Liechtenstein,1149644]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Liechtenstein,1349889]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~SN 441011,2335530]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Liechtenstein,1647157]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Liechtenstein,2137649]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~SN_441011,2335530]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Liechtenstein,1647157]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Liechtenstein,2137649]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~117,4547615]]'
 - '[[_Standards/WikiData/WD~118,11185210]]'
 - '[[_Standards/WikiData/WD~144,25648814]]'
-culture: "[[_Standards/WikiData/WD~culture of Liechtenstein,5490650]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Liechtenstein,7112337]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Liechtenstein,5490650]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Liechtenstein,7112337]]"
 category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7976727,7976727]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Liechtenstein topics,8012263]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Liechtenstein_topics,8012263]]"
 category_of_associated_people: '[[_Standards/WikiData/WD~Q9073851,9073851]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Liechtenstein,11284923]]'
-highest_judicial_authority: "[[_Standards/WikiData/WD~Oberster Gerichtshof,14563770]]"
-archives_at: "[[_Standards/WikiData/WD~Liechtensteinisches Landesarchiv,14563947]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Oberster_Gerichtshof,14563770]]"
+archives_at: "[[_Standards/WikiData/WD~Liechtensteinisches_Landesarchiv,14563947]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Liechtenstein,21830287]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Liechtenstein,21830287]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103302,27103302]]'
-head_of_government: "[[_Standards/WikiData/WD~Daniel Risch,30882650]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Liechtenstein,62396915]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Prince of Lichtenstein,63415597]]"
+head_of_government: "[[_Standards/WikiData/WD~Daniel_Risch,30882650]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Liechtenstein,62396915]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Prince_of_Lichtenstein,63415597]]"
 replaces: '[[_Standards/WikiData/WD~Q66087897,66087897]]'
 follows: '[[_Standards/WikiData/WD~Q66087897,66087897]]'
-list_of_monuments: "[[_Standards/WikiData/WD~list of cultural property in Liechtenstein,112262119]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_property_in_Liechtenstein,112262119]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Liechtenstein%20asv2022-10%20img02%20Vaduz%20Aussicht%20beim%20Schloss.jpg"
 UMLS_CUI: C0023668
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Liechtenstein.ogg"
@@ -145,7 +145,7 @@ MeSH_tree_code: Z01.542.524
 nominal_GDP: 7186428783
 country: '[[_Standards/WikiData/WD~Liechtenstein,347]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Switzerland,39]]'
 - '[[_Standards/WikiData/WD~Austria,40]]'
 lowest_point: '[[_Standards/WikiData/WD~Rhine,584]]'
@@ -183,14 +183,14 @@ birth_rate:
 - 9.6
 total_fertility_rate: 1.45
 number_of_out_of_school_children: 245
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.li,42641]]'
 urban_population:
 - 5530
 - 5587
 - 5649
 - 5717
-head_of_state: "[[_Standards/WikiData/WD~Hans-Adam II, Prince of Liechtenstein,57454]]"
+head_of_state: "[[_Standards/WikiData/WD~Hans-Adam_II,_Prince_of_Liechtenstein,57454]]"
 Human_Development_Index: 0.935
 rural_population:
 - 33390

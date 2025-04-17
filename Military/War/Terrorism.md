@@ -9,27 +9,27 @@ Gujarati_Vishwakosh_entry: આતંકવાદ
 instance_of: '[[_Standards/WikiData/WD~extremism,466439]]'
 opposite_of: '[[_Standards/WikiData/WD~counter-terrorism,909459]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~political crime,2571535]]"
-- "[[_Standards/WikiData/WD~political activism,19890758]]"
-- "[[_Standards/WikiData/WD~risk source,86923152]]"
+- "[[_Standards/WikiData/WD~political_crime,2571535]]"
+- "[[_Standards/WikiData/WD~political_activism,19890758]]"
+- "[[_Standards/WikiData/WD~risk_source,86923152]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Terrorism,6818454]]'
-- "[[_Standards/WikiData/WD~Template_2007 terrorist attacks,125103522]]"
-- "[[_Standards/WikiData/WD~Template_2008 terrorist attacks,125103523]]"
-- "[[_Standards/WikiData/WD~Template_2006 terrorist attacks,125103521]]"
-- "[[_Standards/WikiData/WD~Template_2009 terrorist attacks,125103524]]"
-- "[[_Standards/WikiData/WD~Template_2011 terrorist attacks,125130206]]"
-- "[[_Standards/WikiData/WD~Template_2012 terrorist attacks,125130207]]"
-- "[[_Standards/WikiData/WD~Template_2010 terrorist attacks,125130205]]"
-- "[[_Standards/WikiData/WD~Template_2014 terrorist attacks,125130210]]"
-- "[[_Standards/WikiData/WD~Template_2015 terrorist attacks,125130211]]"
-- "[[_Standards/WikiData/WD~Template_2013 terrorist attacks,125130208]]"
-- "[[_Standards/WikiData/WD~Template_2016 terrorist attacks,125130212]]"
-- "[[_Standards/WikiData/WD~Template_2017 terrorist attacks,125130213]]"
-studied_in: "[[_Standards/WikiData/WD~sociology of terrorism,7552865]]"
+- "[[_Standards/WikiData/WD~Template_2007_terrorist_attacks,125103522]]"
+- "[[_Standards/WikiData/WD~Template_2008_terrorist_attacks,125103523]]"
+- "[[_Standards/WikiData/WD~Template_2006_terrorist_attacks,125103521]]"
+- "[[_Standards/WikiData/WD~Template_2009_terrorist_attacks,125103524]]"
+- "[[_Standards/WikiData/WD~Template_2011_terrorist_attacks,125130206]]"
+- "[[_Standards/WikiData/WD~Template_2012_terrorist_attacks,125130207]]"
+- "[[_Standards/WikiData/WD~Template_2010_terrorist_attacks,125130205]]"
+- "[[_Standards/WikiData/WD~Template_2014_terrorist_attacks,125130210]]"
+- "[[_Standards/WikiData/WD~Template_2015_terrorist_attacks,125130211]]"
+- "[[_Standards/WikiData/WD~Template_2013_terrorist_attacks,125130208]]"
+- "[[_Standards/WikiData/WD~Template_2016_terrorist_attacks,125130212]]"
+- "[[_Standards/WikiData/WD~Template_2017_terrorist_attacks,125130213]]"
+studied_in: "[[_Standards/WikiData/WD~sociology_of_terrorism,7552865]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Terrorism,11215268]]'
 practiced_by: '[[_Standards/WikiData/WD~terrorist,12414919]]'
-described_by_source: "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+described_by_source: "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 UMLS_CUI:
 - C0039565
 - C2713397

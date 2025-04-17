@@ -30,60 +30,60 @@ MeSH_tree_code: D12.776
 Krugosvet_article: khimiya/belki
 Wolfram_Language_entity_type: Protein
 part_of:
-- "[[_Standards/WikiData/WD~ribonucleoprotein complex,417662]]"
-- "[[_Standards/WikiData/WD~establishment of protein localization,14912137]]"
-- "[[_Standards/WikiData/WD~ribonucleoprotein granule,21106243]]"
-- "[[_Standards/WikiData/WD~regulation of protein catabolic process at synapse, modulating synaptic transmission,22252481]]"
-- "[[_Standards/WikiData/WD~protein catabolic process, modulating synaptic transmission,22282565]]"
-- "[[_Standards/WikiData/WD~protein localization to spindle pole body,22289142]]"
-- "[[_Standards/WikiData/WD~establishment of protein localization to spindle pole body,22289146]]"
-- "[[_Standards/WikiData/WD~protein transmembrane transport,22290846]]"
-- "[[_Standards/WikiData/WD~protein localization to mitotic spindle pole body,22290921]]"
-- "[[_Standards/WikiData/WD~protein localization to meiotic spindle pole body,22290970]]"
-- "[[_Standards/WikiData/WD~protein localization to cell cortex of cell tip,22291013]]"
-- "[[_Standards/WikiData/WD~membrane insertase activity,22324804]]"
-- "[[_Standards/WikiData/WD~protein localization to cell wall,24480048]]"
-- "[[_Standards/WikiData/WD~protein transport along microtubule to mitotic spindle pole body,26252194]]"
-- "[[_Standards/WikiData/WD~microtubule polymerization based protein transport,27948963]]"
-- "[[_Standards/WikiData/WD~microtubule polymerization based protein transport to cell tip cortex,27948964]]"
-- "[[_Standards/WikiData/WD~protein catabolic process at postsynapse,56058202]]"
-- "[[_Standards/WikiData/WD~regulation protein catabolic process at synapse,56058203]]"
-- "[[_Standards/WikiData/WD~protein catabolic process at synapse,56058200]]"
-- "[[_Standards/WikiData/WD~protein catabolic process at presynapse,56058201]]"
-- "[[_Standards/WikiData/WD~regulation protein catabolic process at presynapse,56058204]]"
-- "[[_Standards/WikiData/WD~regulation protein catabolic process at postsynapse,56058205]]"
+- "[[_Standards/WikiData/WD~ribonucleoprotein_complex,417662]]"
+- "[[_Standards/WikiData/WD~establishment_of_protein_localization,14912137]]"
+- "[[_Standards/WikiData/WD~ribonucleoprotein_granule,21106243]]"
+- "[[_Standards/WikiData/WD~regulation_of_protein_catabolic_process_at_synapse,_modulating_synaptic_transmission,22252481]]"
+- "[[_Standards/WikiData/WD~protein_catabolic_process,_modulating_synaptic_transmission,22282565]]"
+- "[[_Standards/WikiData/WD~protein_localization_to_spindle_pole_body,22289142]]"
+- "[[_Standards/WikiData/WD~establishment_of_protein_localization_to_spindle_pole_body,22289146]]"
+- "[[_Standards/WikiData/WD~protein_transmembrane_transport,22290846]]"
+- "[[_Standards/WikiData/WD~protein_localization_to_mitotic_spindle_pole_body,22290921]]"
+- "[[_Standards/WikiData/WD~protein_localization_to_meiotic_spindle_pole_body,22290970]]"
+- "[[_Standards/WikiData/WD~protein_localization_to_cell_cortex_of_cell_tip,22291013]]"
+- "[[_Standards/WikiData/WD~membrane_insertase_activity,22324804]]"
+- "[[_Standards/WikiData/WD~protein_localization_to_cell_wall,24480048]]"
+- "[[_Standards/WikiData/WD~protein_transport_along_microtubule_to_mitotic_spindle_pole_body,26252194]]"
+- "[[_Standards/WikiData/WD~microtubule_polymerization_based_protein_transport,27948963]]"
+- "[[_Standards/WikiData/WD~microtubule_polymerization_based_protein_transport_to_cell_tip_cortex,27948964]]"
+- "[[_Standards/WikiData/WD~protein_catabolic_process_at_postsynapse,56058202]]"
+- "[[_Standards/WikiData/WD~regulation_protein_catabolic_process_at_synapse,56058203]]"
+- "[[_Standards/WikiData/WD~protein_catabolic_process_at_synapse,56058200]]"
+- "[[_Standards/WikiData/WD~protein_catabolic_process_at_presynapse,56058201]]"
+- "[[_Standards/WikiData/WD~regulation_protein_catabolic_process_at_presynapse,56058204]]"
+- "[[_Standards/WikiData/WD~regulation_protein_catabolic_process_at_postsynapse,56058205]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~biopolymer,422649]]'
-- "[[_Standards/WikiData/WD~gene product,424689]]"
+- "[[_Standards/WikiData/WD~gene_product,424689]]"
 - '[[_Standards/WikiData/WD~polypeptide,3084232]]'
-- "[[_Standards/WikiData/WD~biological macromolecule,66560214]]"
+- "[[_Standards/WikiData/WD~biological_macromolecule,66560214]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~protein structure,735188]]"
-- "[[_Standards/WikiData/WD~protein tertiary structure,898483]]"
-- "[[_Standards/WikiData/WD~protein quaternary structure,898529]]"
-- "[[_Standards/WikiData/WD~protein primary structure,899763]]"
-- "[[_Standards/WikiData/WD~protein secondary structure,904984]]"
-- "[[_Standards/WikiData/WD~protein dynamics,17156992]]"
+- "[[_Standards/WikiData/WD~protein_structure,735188]]"
+- "[[_Standards/WikiData/WD~protein_tertiary_structure,898483]]"
+- "[[_Standards/WikiData/WD~protein_quaternary_structure,898529]]"
+- "[[_Standards/WikiData/WD~protein_primary_structure,899763]]"
+- "[[_Standards/WikiData/WD~protein_secondary_structure,904984]]"
+- "[[_Standards/WikiData/WD~protein_dynamics,17156992]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Protein topics,6269469]]"
-- "[[_Standards/WikiData/WD~Template_Infobox protein,52493]]"
+- "[[_Standards/WikiData/WD~Template_Protein_topics,6269469]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_protein,52493]]"
 different_from:
 - '[[_Standards/WikiData/WD~Protein,7251423]]'
 - '[[_Standards/WikiData/WD~Proteīni,123615447]]'
-encoded_by: "[[_Standards/WikiData/WD~protein-coding gene,20747295]]"
+encoded_by: "[[_Standards/WikiData/WD~protein-coding_gene,20747295]]"
 model_item: '[[_Standards/WikiData/WD~protein,21296145]]'
 instance_of:
-- "[[_Standards/WikiData/WD~second-order class,24017414]]"
-- "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
-has_cause: "[[_Standards/WikiData/WD~genome to protein translation,38594761]]"
+- "[[_Standards/WikiData/WD~second-order_class,24017414]]"
+- "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+has_cause: "[[_Standards/WikiData/WD~genome_to_protein_translation,38594761]]"
 studied_in:
-- "[[_Standards/WikiData/WD~protein science,50490180]]"
-- "[[_Standards/WikiData/WD~protein chemistry,105252429]]"
+- "[[_Standards/WikiData/WD~protein_science,50490180]]"
+- "[[_Standards/WikiData/WD~protein_chemistry,105252429]]"
 Universal_Decimal_Classification: 547.96
 EntitySchema_for_this_class: E167
 equivalent_class:
@@ -101,8 +101,8 @@ properties_for_this_type:
 - "Ensembl protein ID"
 - "regulates (molecular biology)"
 has_part_s_:
-- "[[_Standards/WikiData/WD~amino acid,8066]]"
-- "[[_Standards/WikiData/WD~peptide bond,33293]]"
+- "[[_Standards/WikiData/WD~amino_acid,8066]]"
+- "[[_Standards/WikiData/WD~peptide_bond,33293]]"
 Commons_category: Proteins
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%BD%D5%BA%D5%AB%D5%BF%D5%A1%D5%AF%D5%B8%D6%82%D6%81%D5%B6%D5%A5%D6%80%20%28Protein%29.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Protein%20mosaic.jpg"

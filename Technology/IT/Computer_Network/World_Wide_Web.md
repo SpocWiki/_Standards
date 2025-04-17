@@ -1,30 +1,30 @@
 ﻿---
 has_id_wikidata: Q466
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Robert Cailliau,92749]]"
-- "[[_Standards/WikiData/WD~Tim Berners-Lee,80]]"
+- "[[_Standards/WikiData/WD~Robert_Cailliau,92749]]"
+- "[[_Standards/WikiData/WD~Tim_Berners-Lee,80]]"
 instance_of:
-- "[[_Standards/WikiData/WD~information system,121182]]"
-- "[[_Standards/WikiData/WD~field of study,1047113]]"
-- "[[_Standards/WikiData/WD~field of study,2267705]]"
-- "[[_Standards/WikiData/WD~hypertext system,65966993]]"
+- "[[_Standards/WikiData/WD~information_system,121182]]"
+- "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+- "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+- "[[_Standards/WikiData/WD~hypertext_system,65966993]]"
 different_from:
-- "[[_Standards/WikiData/WD~GNOME Web,167784]]"
+- "[[_Standards/WikiData/WD~GNOME_Web,167784]]"
 - '[[_Standards/WikiData/WD~W3,267091]]'
 - '[[_Standards/WikiData/WD~Internet,75]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~deep web,221989]]"
-- "[[_Standards/WikiData/WD~surface web,1476753]]"
+- "[[_Standards/WikiData/WD~deep_web,221989]]"
+- "[[_Standards/WikiData/WD~surface_web,1476753]]"
 - '[[_Standards/WikiData/WD~website,35127]]'
 influenced_by:
 - '[[_Standards/WikiData/WD~HyperCard,1053749]]'
 - '[[_Standards/WikiData/WD~ENQUIRE,2385520]]'
-- "[[_Standards/WikiData/WD~The Interactive Encyclopedia System,7742259]]"
+- "[[_Standards/WikiData/WD~The_Interactive_Encyclopedia_System,7742259]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~digital media,1076968]]"
-- "[[_Standards/WikiData/WD~service on Internet,1668024]]"
-has_effect: "[[_Standards/WikiData/WD~decline of newspapers,1089465]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the World Wide Web,1393866]]"
+- "[[_Standards/WikiData/WD~digital_media,1076968]]"
+- "[[_Standards/WikiData/WD~service_on_Internet,1668024]]"
+has_effect: "[[_Standards/WikiData/WD~decline_of_newspapers,1089465]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_World_Wide_Web,1393866]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23013914,23013914]]'
 motto_text: "Let's Share What We Know"
 location_of_creation: '[[_Standards/WikiData/WD~CERN,42944]]'

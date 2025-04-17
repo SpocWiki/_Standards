@@ -11,40 +11,40 @@ tags:
 isDeleted: false
 isReadOnly: false
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Fabian Gottlieb von Bellingshausen,76754]]"
-- "[[_Standards/WikiData/WD~Mikhail Lazarev,186203]]"
+- "[[_Standards/WikiData/WD~Fabian_Gottlieb_von_Bellingshausen,76754]]"
+- "[[_Standards/WikiData/WD~Mikhail_Lazarev,186203]]"
 instance_of:
-- "[[_Standards/WikiData/WD~geographic region,82794]]"
-- "[[_Standards/WikiData/WD~terra nullius,312461]]"
-- "[[_Standards/WikiData/WD~part of the world,2418896]]"
+- "[[_Standards/WikiData/WD~geographic_region,82794]]"
+- "[[_Standards/WikiData/WD~terra_nullius,312461]]"
+- "[[_Standards/WikiData/WD~part_of_the_world,2418896]]"
 - '[[_Standards/WikiData/WD~continent,5107]]'
-highest_point: "[[_Standards/WikiData/WD~Vinson Massif,163758]]"
+highest_point: "[[_Standards/WikiData/WD~Vinson_Massif,163758]]"
 part_of:
 - '[[_Standards/WikiData/WD~landmass,205895]]'
 - '[[_Standards/WikiData/WD~Antarctic,1555938]]'
 - '[[_Standards/WikiData/WD~Earth,2]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~West Antarctica,530917]]"
-- "[[_Standards/WikiData/WD~East Antarctica,866405]]"
+- "[[_Standards/WikiData/WD~West_Antarctica,530917]]"
+- "[[_Standards/WikiData/WD~East_Antarctica,866405]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Antarctica,722537]]"
-lowest_point: "[[_Standards/WikiData/WD~Bentley Subglacial Trench,818322]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Antarctica,722537]]"
+lowest_point: "[[_Standards/WikiData/WD~Bentley_Subglacial_Trench,818322]]"
 different_from: '[[_Standards/WikiData/WD~Antarctic,1555938]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Antarctica,2742952]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Antarctica,2742952]]"
 named_after:
 - '[[_Standards/WikiData/WD~anti-,12818226]]'
 - '[[_Standards/WikiData/WD~Arctic,25322]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Antarctica,13231363]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Antarctica,13379817]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic Treaty area,21590062]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828208,22828208]]'
 BHCL_UUID: 2e650cb8-9fde-4a97-8480-d9f4ac4bf6b8
 page_banner:
@@ -88,7 +88,7 @@ population: 4400
 area: 14200000
 maximum_temperature_record: 17.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.aq,41016]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern Hemisphere,41228]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]"
 country_calling_code: +672
 M49_code: 010
 U_S_National_Archives_Identifier: 10035701

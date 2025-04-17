@@ -28,66 +28,66 @@ child_astronomical_body:
 - '[[_Standards/WikiData/WD~Siarnaq,18024]]'
 - '[[_Standards/WikiData/WD~Hyrrokkin,18032]]'
 - '[[_Standards/WikiData/WD~Tarvos,18039]]'
-- "[[_Standards/WikiData/WD~S_2004 S 13,18047]]"
+- "[[_Standards/WikiData/WD~S_2004_S_13,18047]]"
 - '[[_Standards/WikiData/WD~Jarnsaxa,18178]]'
-- "[[_Standards/WikiData/WD~S_2004 S 17,18179]]"
+- "[[_Standards/WikiData/WD~S_2004_S_17,18179]]"
 - '[[_Standards/WikiData/WD~Mundilfari,18183]]'
 - '[[_Standards/WikiData/WD~Bergelmir,18195]]'
-- "[[_Standards/WikiData/WD~S_2006 S 1,18199]]"
+- "[[_Standards/WikiData/WD~S_2006_S_1,18199]]"
 - '[[_Standards/WikiData/WD~Aegir,18201]]'
 - '[[_Standards/WikiData/WD~Narvi,18207]]'
-- "[[_Standards/WikiData/WD~S_2004 S 12,18211]]"
+- "[[_Standards/WikiData/WD~S_2004_S_12,18211]]"
 - '[[_Standards/WikiData/WD~Suttungr,18214]]'
 - '[[_Standards/WikiData/WD~Bestla,18213]]'
-- "[[_Standards/WikiData/WD~S_2004 S 7,18218]]"
+- "[[_Standards/WikiData/WD~S_2004_S_7,18218]]"
 - '[[_Standards/WikiData/WD~Farbauti,18217]]'
 - '[[_Standards/WikiData/WD~Thrymr,18223]]'
 - '[[_Standards/WikiData/WD~Hati,18220]]'
-- "[[_Standards/WikiData/WD~S_2006 S 3,18228]]"
+- "[[_Standards/WikiData/WD~S_2006_S_3,18228]]"
 - '[[_Standards/WikiData/WD~Fenrir,18229]]'
 - '[[_Standards/WikiData/WD~Fornjot,18234]]'
 - '[[_Standards/WikiData/WD~Surtur,18235]]'
 - '[[_Standards/WikiData/WD~Ymir,18238]]'
 - '[[_Standards/WikiData/WD~Loge,18239]]'
 - '[[_Standards/WikiData/WD~Kari,18236]]'
-- "[[_Standards/WikiData/WD~S_2009 S 1,18246]]"
-- "[[_Standards/WikiData/WD~S_2007 S 2,18247]]"
-- "[[_Standards/WikiData/WD~S_2007 S 3,18340]]"
-- "[[_Standards/WikiData/WD~S_2004 S 6,18345]]"
-- "[[_Standards/WikiData/WD~S_2004 S 4,18350]]"
-- "[[_Standards/WikiData/WD~S_2004 S 3,18355]]"
-- "[[_Standards/WikiData/WD~rings of Saturn,194]]"
-- "[[_Standards/WikiData/WD~E Ring,1109971]]"
-- "[[_Standards/WikiData/WD~G ring,1133273]]"
+- "[[_Standards/WikiData/WD~S_2009_S_1,18246]]"
+- "[[_Standards/WikiData/WD~S_2007_S_2,18247]]"
+- "[[_Standards/WikiData/WD~S_2007_S_3,18340]]"
+- "[[_Standards/WikiData/WD~S_2004_S_6,18345]]"
+- "[[_Standards/WikiData/WD~S_2004_S_4,18350]]"
+- "[[_Standards/WikiData/WD~S_2004_S_3,18355]]"
+- "[[_Standards/WikiData/WD~rings_of_Saturn,194]]"
+- "[[_Standards/WikiData/WD~E_Ring,1109971]]"
+- "[[_Standards/WikiData/WD~G_ring,1133273]]"
 - '[[_Standards/WikiData/WD~Themis,1753556]]'
-- "[[_Standards/WikiData/WD~C ring,2257686]]"
-- "[[_Standards/WikiData/WD~F ring,2528985]]"
-- "[[_Standards/WikiData/WD~B ring,2738054]]"
-- "[[_Standards/WikiData/WD~A ring,2739023]]"
-- "[[_Standards/WikiData/WD~D ring,2851405]]"
+- "[[_Standards/WikiData/WD~C_ring,2257686]]"
+- "[[_Standards/WikiData/WD~F_ring,2528985]]"
+- "[[_Standards/WikiData/WD~B_ring,2738054]]"
+- "[[_Standards/WikiData/WD~A_ring,2739023]]"
+- "[[_Standards/WikiData/WD~D_ring,2851405]]"
 - '[[_Standards/WikiData/WD~Earhart,12872515]]'
 - '[[_Standards/WikiData/WD~Blériot,12881327]]'
 - '[[_Standards/WikiData/WD~Santos-Dumont,12884260]]'
 - '[[_Standards/WikiData/WD~Curtiss,16545274]]'
 - '[[_Standards/WikiData/WD~Hinkler,16641857]]'
-- "[[_Standards/WikiData/WD~Kingsford Smith,16648449]]"
+- "[[_Standards/WikiData/WD~Kingsford_Smith,16648449]]"
 - '[[_Standards/WikiData/WD~Lindbergh,16655961]]'
 - '[[_Standards/WikiData/WD~Post,16670796]]'
 - '[[_Standards/WikiData/WD~Richthofen,16672766]]'
 - '[[_Standards/WikiData/WD~Sikorsky,16676807]]'
 - '[[_Standards/WikiData/WD~Wright,16683435]]'
-- "[[_Standards/WikiData/WD~Phoebe ring,19606402]]"
+- "[[_Standards/WikiData/WD~Phoebe_ring,19606402]]"
 - '[[_Standards/WikiData/WD~Peggy,28491368]]'
 - '[[_Standards/WikiData/WD~Gridr,70012792]]'
-- "[[_Standards/WikiData/WD~S_2004 S 21,70072437]]"
+- "[[_Standards/WikiData/WD~S_2004_S_21,70072437]]"
 - '[[_Standards/WikiData/WD~Angrboda,70072703]]'
 - '[[_Standards/WikiData/WD~Skrymir,70072804]]'
-- "[[_Standards/WikiData/WD~S_2004 S 24,70072805]]"
+- "[[_Standards/WikiData/WD~S_2004_S_24,70072805]]"
 - '[[_Standards/WikiData/WD~Gerd,70072808]]'
-- "[[_Standards/WikiData/WD~S_2004 S 26,70072809]]"
+- "[[_Standards/WikiData/WD~S_2004_S_26,70072809]]"
 - '[[_Standards/WikiData/WD~Eggther,70072812]]'
-- "[[_Standards/WikiData/WD~S_2004 S 28,70072813]]"
-- "[[_Standards/WikiData/WD~S_2004 S 29,70072816]]"
+- "[[_Standards/WikiData/WD~S_2004_S_28,70072813]]"
+- "[[_Standards/WikiData/WD~S_2004_S_29,70072816]]"
 - '[[_Standards/WikiData/WD~Beli,70072817]]'
 - '[[_Standards/WikiData/WD~Alvaldi,70141937]]'
 - '[[_Standards/WikiData/WD~Titan,2565]]'
@@ -101,8 +101,8 @@ child_astronomical_body:
 - '[[_Standards/WikiData/WD~Atlas,17707]]'
 - '[[_Standards/WikiData/WD~Pan,17705]]'
 instance_of:
-- "[[_Standards/WikiData/WD~outer planet,30014]]"
-- "[[_Standards/WikiData/WD~gas giant,121750]]"
+- "[[_Standards/WikiData/WD~outer_planet,30014]]"
+- "[[_Standards/WikiData/WD~gas_giant,121750]]"
 apparent_magnitude:
 - -0.24
 - 1.2
@@ -180,24 +180,24 @@ semi_major_axis_of_an_orbit:
 - 9.53667594
 named_after:
 - '[[_Standards/WikiData/WD~Saturn,134388]]'
-- "[[_Standards/WikiData/WD~Wu Xing,218652]]"
+- "[[_Standards/WikiData/WD~Wu_Xing,218652]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~atmosphere of Saturn,303397]]"
-- "[[_Standards/WikiData/WD~magnetosphere of Saturn,2334004]]"
+- "[[_Standards/WikiData/WD~atmosphere_of_Saturn,303397]]"
+- "[[_Standards/WikiData/WD~magnetosphere_of_Saturn,2334004]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
-significant_event: "[[_Standards/WikiData/WD~planetary flyby,828032]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+significant_event: "[[_Standards/WikiData/WD~planetary_flyby,828032]]"
 notation: '[[_Standards/WikiData/WD~♄,3594853]]'
 different_from: '[[_Standards/WikiData/WD~Saturn,3950829]]'
-part_of: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
-location: "[[_Standards/WikiData/WD~outer Solar System,3962257]]"
+part_of: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
+location: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Saturn,6308278]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Saturn,30589070]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Saturn,30589070]]"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q32816016,32816016]]'
 studied_in: '[[_Standards/WikiData/WD~kronology,131626666]]'
 periapsis:

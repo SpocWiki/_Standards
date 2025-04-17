@@ -1,8 +1,8 @@
 ---
 has_id_wikidata: Q754897
 described_by_source:
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 different_from:
   - "[[_Standards/WikiData/WD~epoch,507810]]"
   - "[[_Standards/WikiData/WD~series,312468]]"
@@ -12,14 +12,14 @@ has_part_s_:
 part_of:
   - "[[_Standards/WikiData/WD~period,392928]]"
   - "[[_Standards/WikiData/WD~subperiod,2239359]]"
-standards_body: "[[_Standards/WikiData/WD~International Commission on Stratigraphy,402104]]"
+standards_body: "[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]"
 studied_by:
   - "[[_Standards/WikiData/WD~geochronology,213891]]"
   - "[[_Standards/WikiData/WD~stratigraphy,134783]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~geochronological unit,4005761]]"
-  - "[[_Standards/WikiData/WD~unit of time,1790144]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Geological epoch,87077373]]"
+  - "[[_Standards/WikiData/WD~geochronological_unit,4005761]]"
+  - "[[_Standards/WikiData/WD~unit_of_time,1790144]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Geological_epoch,87077373]]"
 ---
 
 # [[geo~Epochs]] 

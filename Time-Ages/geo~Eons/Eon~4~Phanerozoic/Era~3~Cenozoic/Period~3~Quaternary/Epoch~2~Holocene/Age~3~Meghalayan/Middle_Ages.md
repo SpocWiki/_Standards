@@ -6,18 +6,18 @@ aliases:
 Commons_category: Middle Ages
 Commons_gallery: Middle Ages
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 end_time: 1500-06 
 has_time_stopped: 1500-06
 Iconclass_notation: 23T25
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg
 instance_of:
   - "[[_Standards/WikiData/WD~age,17522177]]"
-  - "[[_Standards/WikiData/WD~historical period,11514315]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
 location: "[[_Standards/WikiData/WD~Europe,46]]"
 MeSH_tree_code: K01.400.500
 OmegaWiki_Defined_Meaning: 1757744
@@ -29,12 +29,12 @@ Stadtwiki_Dresden_article: Mittelalter
 start_time: 0476-06  
 has_time_started: 0476-06 
 studied_in:
-  - "[[_Standards/WikiData/WD~medieval archaeology,1671076]]"
-  - "[[_Standards/WikiData/WD~medieval history,27992545]]"
-  - "[[_Standards/WikiData/WD~medieval studies,119190]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Middle Ages,3248279]]"
+  - "[[_Standards/WikiData/WD~medieval_archaeology,1671076]]"
+  - "[[_Standards/WikiData/WD~medieval_history,27992545]]"
+  - "[[_Standards/WikiData/WD~medieval_studies,119190]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Middle_Ages,3248279]]"
 U_S_National_Archives_Identifier: 10641432
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Middle Ages,7112768]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Middle_Ages,7112768]]"
 WordLift_URL: http://data.thenextweb.com/tnw/entity/middle_ages
 title: [[Middle_Ages]]
 type: private_note

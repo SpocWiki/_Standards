@@ -3,29 +3,29 @@ has_id_wikidata: Q573
 has_part_s_:
 - '[[_Standards/WikiData/WD~sunset,166564]]'
 - '[[_Standards/WikiData/WD~sunrise,193294]]'
-- "[[_Standards/WikiData/WD~golden hour,3238843]]"
+- "[[_Standards/WikiData/WD~golden_hour,3238843]]"
 - '[[_Standards/WikiData/WD~night,575]]'
 - '[[_Standards/WikiData/WD~hour,25235]]'
 - '[[_Standards/WikiData/WD~daytime,52643]]'
-subclass_of: "[[_Standards/WikiData/WD~time interval,186081]]"
+subclass_of: "[[_Standards/WikiData/WD~time_interval,186081]]"
 different_from:
 - '[[_Standards/WikiData/WD~Doba,293481]]'
 - '[[_Standards/WikiData/WD~daytime,52643]]'
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~time of day,1260524]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~time_of_day,1260524]]"
 instance_of:
-- "[[_Standards/WikiData/WD~unit of time,1790144]]"
-- "[[_Standards/WikiData/WD~non-SI unit mentioned in and accepted with the SI,3268848]]"
-- "[[_Standards/WikiData/WD~UCUM derived unit,82047057]]"
-- "[[_Standards/WikiData/WD~SI-accepted non-SI unit,106839753]]"
+- "[[_Standards/WikiData/WD~unit_of_time,1790144]]"
+- "[[_Standards/WikiData/WD~non-SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]"
+- "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
+- "[[_Standards/WikiData/WD~SI-accepted_non-SI_unit,106839753]]"
 measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Parts of a day,8981578]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Parts_of_a_day,8981578]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~nychthemeron,11034997]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110300059,110300059]]'
 label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-dia-spreadthesign.ogv"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/GreenwUhrWelt.jpg"

@@ -6,26 +6,26 @@ InChIKey: VBJZVLUMGGDVMO-UHFFFAOYSA-N
 UNII: X71938L1DO
 time_of_discovery_or_invention: "1922"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~George de Hevesy,76951]]"
-- "[[_Standards/WikiData/WD~Dirk Coster,775969]]"
+- "[[_Standards/WikiData/WD~George_de_Hevesy,76951]]"
+- "[[_Standards/WikiData/WD~Dirk_Coster,775969]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 4,189302]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~group_4,189302]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-associated_hazard: "[[_Standards/WikiData/WD~hafnium exposure,21088855]]"
-has_effect: "[[_Standards/WikiData/WD~hafnium exposure,21088855]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+associated_hazard: "[[_Standards/WikiData/WD~hafnium_exposure,21088855]]"
+has_effect: "[[_Standards/WikiData/WD~hafnium_exposure,21088855]]"
 UMLS_CUI: C0018488
 Common_Procurement_Vocabulary_code:
 - 14753000-4
 - 14753000
 named_after: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
-subclass_of: "[[_Standards/WikiData/WD~transition metal,19588]]"
+subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
 location_of_discovery: '[[_Standards/WikiData/WD~Denmark,35]]'
 vapor_pressure: 0
 electronegativity: 1

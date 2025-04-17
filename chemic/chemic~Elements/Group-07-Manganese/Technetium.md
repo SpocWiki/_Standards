@@ -4,23 +4,23 @@ SpocWebEntityId: 21941
 has_id_wikidata: Q1054
 Unicode_character: 鎝
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Emilio G. Segrè,173028]]"
-- "[[_Standards/WikiData/WD~Carlo Perrier,2939237]]"
+- "[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]"
+- "[[_Standards/WikiData/WD~Carlo_Perrier,2939237]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 7,202602]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_7,202602]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-different_from: "[[_Standards/WikiData/WD~Microsoft TechNet,958338]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+different_from: "[[_Standards/WikiData/WD~Microsoft_TechNet,958338]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 named_after: '[[_Standards/WikiData/WD~technique,2695280]]'
-found_in_taxon: "[[_Standards/WikiData/WD~Paris polyphylla var. chinensis,10905961]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
 Common_Procurement_Vocabulary_code:
 - 14742000-4
 - 14742000

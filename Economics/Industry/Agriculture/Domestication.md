@@ -1,8 +1,8 @@
 ﻿---
 has_id_wikidata: Q11395
 partially_coincident_with: '[[_Standards/WikiData/WD~cultivation,357279]]'
-different_from: "[[_Standards/WikiData/WD~Domestication and foreignization,5290237]]"
-facet_of: "[[_Standards/WikiData/WD~history of civilization,10300571]]"
+different_from: "[[_Standards/WikiData/WD~Domestication_and_foreignization,5290237]]"
+facet_of: "[[_Standards/WikiData/WD~history_of_civilization,10300571]]"
 UMLS_CUI: C0175819
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B8%D5%B6%D5%BF%D5%A5%D5%AC%D5%A1%D6%81%D5%B8%D6%82%D5%B4%20%28Domestication%29.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Domestication%20Timeline.jpg"

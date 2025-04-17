@@ -5,22 +5,22 @@ named_after:
 - '[[_Standards/WikiData/WD~gram,41803]]'
 different_from: '[[_Standards/WikiData/WD~kilogram-force,216880]]'
 instance_of:
-- "[[_Standards/WikiData/WD~SI base unit,223662]]"
-- "[[_Standards/WikiData/WD~unit of mass,3647172]]"
-- "[[_Standards/WikiData/WD~coherent SI unit,69197847]]"
+- "[[_Standards/WikiData/WD~SI_base_unit,223662]]"
+- "[[_Standards/WikiData/WD~unit_of_mass,3647172]]"
+- "[[_Standards/WikiData/WD~coherent_SI_unit,69197847]]"
 part_of:
-- "[[_Standards/WikiData/WD~MKS system of units,512417]]"
-- "[[_Standards/WikiData/WD~International System of Units,12457]]"
+- "[[_Standards/WikiData/WD~MKS_system_of_units,512417]]"
+- "[[_Standards/WikiData/WD~International_System_of_Units,12457]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~SI Brochure (9th edition),68977219]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~SI_Brochure_(9th_edition),68977219]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 replaces: '[[_Standards/WikiData/WD~grave,610135]]'
 determination_method_or_standard: '[[_Standards/WikiData/WD~formula,976981]]'
 measured_physical_quantity:
-- "[[_Standards/WikiData/WD~mass excess,1571163]]"
-- "[[_Standards/WikiData/WD~rest mass,96941619]]"
+- "[[_Standards/WikiData/WD~mass_excess,1571163]]"
+- "[[_Standards/WikiData/WD~rest_mass,96941619]]"
 - '[[_Standards/WikiData/WD~mass,11423]]'
 unit_symbol:
 - кг

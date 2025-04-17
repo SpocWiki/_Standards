@@ -1,27 +1,27 @@
 ﻿---
 has_id_wikidata: Q9492
 subclass_of:
-- "[[_Standards/WikiData/WD~dimensionless quantity,126818]]"
-- "[[_Standards/WikiData/WD~mathematical object,246672]]"
+- "[[_Standards/WikiData/WD~dimensionless_quantity,126818]]"
+- "[[_Standards/WikiData/WD~mathematical_object,246672]]"
 - '[[_Standards/WikiData/WD~possibility,21170479]]'
 has_characteristic:
-- "[[_Standards/WikiData/WD~central limit theorem,190391]]"
-- "[[_Standards/WikiData/WD~probability distribution,200726]]"
-- "[[_Standards/WikiData/WD~law of large numbers,207952]]"
-- "[[_Standards/WikiData/WD~probability measure,355020]]"
-instance_of: "[[_Standards/WikiData/WD~probability measure,355020]]"
+- "[[_Standards/WikiData/WD~central_limit_theorem,190391]]"
+- "[[_Standards/WikiData/WD~probability_distribution,200726]]"
+- "[[_Standards/WikiData/WD~law_of_large_numbers,207952]]"
+- "[[_Standards/WikiData/WD~probability_measure,355020]]"
+instance_of: "[[_Standards/WikiData/WD~probability_measure,355020]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~ISO 3534-1_2006(en) Statistics — Vocabulary and symbols — Part 1_ General statistical terms and terms used in probability,111973641]]"
-image_of_function: "[[_Standards/WikiData/WD~unit interval,1987578]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~ISO_3534-1_2006(en)_Statistics_—_Vocabulary_and_symbols_—_Part_1__General_statistical_terms_and_terms_used_in_probability,111973641]]"
+image_of_function: "[[_Standards/WikiData/WD~unit_interval,1987578]]"
 studied_in:
-- "[[_Standards/WikiData/WD~probability theory,5862903]]"
+- "[[_Standards/WikiData/WD~probability_theory,5862903]]"
 - '[[_Standards/WikiData/WD~statistics,12483]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of probability,7112704]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_probability,7112704]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 contributing_factor_of: '[[_Standards/WikiData/WD~uncertainty,13649246]]'
-facet_of: "[[_Standards/WikiData/WD~number of outcomes,16182051]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Probability topics sidebar,17045846]]"
+facet_of: "[[_Standards/WikiData/WD~number_of_outcomes,16182051]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Probability_topics_sidebar,17045846]]"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q18293094,18293094]]'
 Dewey_Decimal_Classification:
 - 121.63

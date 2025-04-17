@@ -14,29 +14,29 @@ has_active_ingredient:
 - '[[_Standards/WikiData/WD~theobromine,206844]]'
 - '[[_Standards/WikiData/WD~caffeine,60235]]'
 made_from_material:
-- "[[_Standards/WikiData/WD~cocoa bean,208008]]"
-- "[[_Standards/WikiData/WD~cocoa butter,251106]]"
-- "[[_Standards/WikiData/WD~chocolate liquor,1721876]]"
-- "[[_Standards/WikiData/WD~vegetable oil,4739805]]"
+- "[[_Standards/WikiData/WD~cocoa_bean,208008]]"
+- "[[_Standards/WikiData/WD~cocoa_butter,251106]]"
+- "[[_Standards/WikiData/WD~chocolate_liquor,1721876]]"
+- "[[_Standards/WikiData/WD~vegetable_oil,4739805]]"
 - '[[_Standards/WikiData/WD~cocoa,45912917]]'
 - '[[_Standards/WikiData/WD~sugar,11002]]'
 - '[[_Standards/WikiData/WD~cacao,42385]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~cocoa bean,208008]]"
+- "[[_Standards/WikiData/WD~cocoa_bean,208008]]"
 - '[[_Standards/WikiData/WD~sugar,11002]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~functional food,752276]]"
-- "[[_Standards/WikiData/WD~stimulant foodstuff,1365365]]"
+- "[[_Standards/WikiData/WD~functional_food,752276]]"
+- "[[_Standards/WikiData/WD~stimulant_foodstuff,1365365]]"
 - '[[_Standards/WikiData/WD~condiment,2596997]]'
 - '[[_Standards/WikiData/WD~confection,5159627]]'
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-part_of: "[[_Standards/WikiData/WD~cioccolato di Modica,1790835]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of chocolate,7112581]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+part_of: "[[_Standards/WikiData/WD~cioccolato_di_Modica,1790835]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_chocolate,7112581]]"
 different_from:
 - '[[_Standards/WikiData/WD~Čokolada,8079801]]'
 - '[[_Standards/WikiData/WD~Chocolate,28837197]]'

@@ -1,22 +1,22 @@
 ﻿---
 has_id_wikidata: Q11652
 subclass_of:
-- "[[_Standards/WikiData/WD~physical quantity,107715]]"
-- "[[_Standards/WikiData/WD~scalar quantity,181175]]"
-- "[[_Standards/WikiData/WD~reciprocal duration,98690850]]"
+- "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+- "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
+- "[[_Standards/WikiData/WD~reciprocal_duration,98690850]]"
 different_from:
-- "[[_Standards/WikiData/WD~letter frequency,520562]]"
+- "[[_Standards/WikiData/WD~letter_frequency,520562]]"
 - '[[_Standards/WikiData/WD~frequency,762856]]'
-- "[[_Standards/WikiData/WD~rotational frequency,30338278]]"
+- "[[_Standards/WikiData/WD~rotational_frequency,30338278]]"
 recommended_unit_of_measurement:
-- "[[_Standards/WikiData/WD~reciprocal second,6137407]]"
+- "[[_Standards/WikiData/WD~reciprocal_second,6137407]]"
 - '[[_Standards/WikiData/WD~hertz,39369]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q11498076,11498076]]'
 facet_of: '[[_Standards/WikiData/WD~repetition,18699055]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-- "[[_Standards/WikiData/WD~ISO 80000-3_2019 Quantities and units — Part 3_ Space and time,90137277]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units_—_Part_3__Space_and_time,90137277]]"
 ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {T}}^{-1}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>1</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {T}}^{-1}}</annotation>\n  </semantics>\n</math>"
 in_defining_formula:
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle T}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>T</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle T}</annotation>\n  </semantics>\n</math>"

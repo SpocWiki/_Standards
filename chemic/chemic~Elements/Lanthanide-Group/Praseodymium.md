@@ -6,14 +6,14 @@ named_after:
 - '[[_Standards/WikiData/WD~twin,159979]]'
 - '[[_Standards/WikiData/WD~green,3133]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Gustaf Mosander,468316]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 Unicode_character: 鐠
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Praseod%C3%ADmio.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Praseodym%201.jpg"
@@ -29,7 +29,7 @@ UNII: NKN7EZA750
 InChIKey: PUDIUYLPXJFUGB-UHFFFAOYSA-N
 UMLS_CUI: C0032904
 time_of_discovery_or_invention: "1841"
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 electrical_resistivity: 7e-7
 atomic_number: 59
 ionic_radius:

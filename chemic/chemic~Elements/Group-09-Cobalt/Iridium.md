@@ -4,16 +4,16 @@ SpocWebEntityId: 21973
 has_id_wikidata: Q877
 named_after: '[[_Standards/WikiData/WD~Iris,184570]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 9,208107]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
-subclass_of: "[[_Standards/WikiData/WD~platinum group,223995]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Smithson Tennant,377800]]"
+- "[[_Standards/WikiData/WD~group_9,208107]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
+subclass_of: "[[_Standards/WikiData/WD~platinum_group,223995]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Smithson_Tennant,377800]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Iridium,108310061]]'
 different_from:
 - '[[_Standards/WikiData/WD~Q11714083,11714083]]'
@@ -34,7 +34,7 @@ InChI: InChI=1S/Ir
 Unicode_character: 銥
 UMLS_CUI: C0022071
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20sheets%20rolled%20after%20smelting.webm"
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 location_of_discovery: '[[_Standards/WikiData/WD~London,84]]'
 electronegativity: 2.2
 ionic_radius:

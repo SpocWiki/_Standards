@@ -1,93 +1,93 @@
 ---
 has_id_wikidata: Q11442
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Karl Drais,77122]]"
-- "[[_Standards/WikiData/WD~Kirkpatrick Macmillan,1515344]]"
+- "[[_Standards/WikiData/WD~Karl_Drais,77122]]"
+- "[[_Standards/WikiData/WD~Kirkpatrick_Macmillan,1515344]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~bicycle wheel,161798]]"
-- "[[_Standards/WikiData/WD~bicycle frame,167130]]"
-- "[[_Standards/WikiData/WD~bicycle chain,189940]]"
-- "[[_Standards/WikiData/WD~bicycle pedal,305026]]"
-- "[[_Standards/WikiData/WD~bicycle fork,651103]]"
-- "[[_Standards/WikiData/WD~bicycle tire,771452]]"
+- "[[_Standards/WikiData/WD~bicycle_wheel,161798]]"
+- "[[_Standards/WikiData/WD~bicycle_frame,167130]]"
+- "[[_Standards/WikiData/WD~bicycle_chain,189940]]"
+- "[[_Standards/WikiData/WD~bicycle_pedal,305026]]"
+- "[[_Standards/WikiData/WD~bicycle_fork,651103]]"
+- "[[_Standards/WikiData/WD~bicycle_tire,771452]]"
 - '[[_Standards/WikiData/WD~spoke,845671]]'
-- "[[_Standards/WikiData/WD~bowden cable,895398]]"
-- "[[_Standards/WikiData/WD~bicycle saddle,1076532]]"
-- "[[_Standards/WikiData/WD~bicycle brake,1147317]]"
-- "[[_Standards/WikiData/WD~bicycle handlebar,1148375]]"
+- "[[_Standards/WikiData/WD~bowden_cable,895398]]"
+- "[[_Standards/WikiData/WD~bicycle_saddle,1076532]]"
+- "[[_Standards/WikiData/WD~bicycle_brake,1147317]]"
+- "[[_Standards/WikiData/WD~bicycle_handlebar,1148375]]"
 - '[[_Standards/WikiData/WD~derailleur,1156860]]'
 - '[[_Standards/WikiData/WD~seatpost,1317537]]'
 - '[[_Standards/WikiData/WD~stem,1377338]]'
-- "[[_Standards/WikiData/WD~bottom bracket,1426724]]"
-- "[[_Standards/WikiData/WD~bicycle drivetrain systems,2360778]]"
-- "[[_Standards/WikiData/WD~gear train,2644088]]"
-- "[[_Standards/WikiData/WD~bicycle suspension,4903805]]"
-- "[[_Standards/WikiData/WD~bicycle inner tube,9249417]]"
-- "[[_Standards/WikiData/WD~ball bearing,11432170]]"
-- "[[_Standards/WikiData/WD~bicycle part,30246160]]"
-- "[[_Standards/WikiData/WD~bicycle hub,105150560]]"
+- "[[_Standards/WikiData/WD~bottom_bracket,1426724]]"
+- "[[_Standards/WikiData/WD~bicycle_drivetrain_systems,2360778]]"
+- "[[_Standards/WikiData/WD~gear_train,2644088]]"
+- "[[_Standards/WikiData/WD~bicycle_suspension,4903805]]"
+- "[[_Standards/WikiData/WD~bicycle_inner_tube,9249417]]"
+- "[[_Standards/WikiData/WD~ball_bearing,11432170]]"
+- "[[_Standards/WikiData/WD~bicycle_part,30246160]]"
+- "[[_Standards/WikiData/WD~bicycle_hub,105150560]]"
 - '[[_Standards/WikiData/WD~crankset,49717]]'
 has_use:
 - '[[_Standards/WikiData/WD~recreation,184872]]'
-- "[[_Standards/WikiData/WD~track cycling,221635]]"
-- "[[_Standards/WikiData/WD~physical fitness,309252]]"
-- "[[_Standards/WikiData/WD~mountain biking,520611]]"
-- "[[_Standards/WikiData/WD~bicycle touring,564606]]"
+- "[[_Standards/WikiData/WD~track_cycling,221635]]"
+- "[[_Standards/WikiData/WD~physical_fitness,309252]]"
+- "[[_Standards/WikiData/WD~mountain_biking,520611]]"
+- "[[_Standards/WikiData/WD~bicycle_touring,564606]]"
 - '[[_Standards/WikiData/WD~playing,1150958]]'
 - '[[_Standards/WikiData/WD~criterium,1498024]]'
-- "[[_Standards/WikiData/WD~artistic cycling,1792605]]"
-- "[[_Standards/WikiData/WD~utility cycling,1888694]]"
-- "[[_Standards/WikiData/WD~freestyle BMX,2192643]]"
-- "[[_Standards/WikiData/WD~cycle sport,2215841]]"
-- "[[_Standards/WikiData/WD~bicycle commuting,3430864]]"
-- "[[_Standards/WikiData/WD~BMX racing,16240947]]"
-- "[[_Standards/WikiData/WD~bicycle rollers,17018280]]"
-- "[[_Standards/WikiData/WD~organized bicycle touring,18089019]]"
-- "[[_Standards/WikiData/WD~individual transportation,109732621]]"
-- "[[_Standards/WikiData/WD~road bicycle racing,3609]]"
+- "[[_Standards/WikiData/WD~artistic_cycling,1792605]]"
+- "[[_Standards/WikiData/WD~utility_cycling,1888694]]"
+- "[[_Standards/WikiData/WD~freestyle_BMX,2192643]]"
+- "[[_Standards/WikiData/WD~cycle_sport,2215841]]"
+- "[[_Standards/WikiData/WD~bicycle_commuting,3430864]]"
+- "[[_Standards/WikiData/WD~BMX_racing,16240947]]"
+- "[[_Standards/WikiData/WD~bicycle_rollers,17018280]]"
+- "[[_Standards/WikiData/WD~organized_bicycle_touring,18089019]]"
+- "[[_Standards/WikiData/WD~individual_transportation,109732621]]"
+- "[[_Standards/WikiData/WD~road_bicycle_racing,3609]]"
 - '[[_Standards/WikiData/WD~transport,7590]]'
 - '[[_Standards/WikiData/WD~cycling,53121]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~two-wheeler,233040]]'
 - '[[_Standards/WikiData/WD~velocipede,595658]]'
-- "[[_Standards/WikiData/WD~sports equipment,768186]]"
+- "[[_Standards/WikiData/WD~sports_equipment,768186]]"
 used_by:
 - '[[_Standards/WikiData/WD~paramedic,330204]]'
 - '[[_Standards/WikiData/WD~courier,848466]]'
-- "[[_Standards/WikiData/WD~bicycle courier,1203797]]"
+- "[[_Standards/WikiData/WD~bicycle_courier,1203797]]"
 - '[[_Standards/WikiData/WD~cyclist,2125610]]'
 instance_of:
-- "[[_Standards/WikiData/WD~mode of transport,334166]]"
-- "[[_Standards/WikiData/WD~individual means of transport,109734237]]"
+- "[[_Standards/WikiData/WD~mode_of_transport,334166]]"
+- "[[_Standards/WikiData/WD~individual_means_of_transport,109734237]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~carbon-fiber-reinforced polymer,910977]]"
+- "[[_Standards/WikiData/WD~carbon-fiber-reinforced_polymer,910977]]"
 - '[[_Standards/WikiData/WD~fiberglass,7224880]]'
 - '[[_Standards/WikiData/WD~metal,11426]]'
 has_list:
-- "[[_Standards/WikiData/WD~list of bicycle brands and manufacturing companies,953630]]"
-- "[[_Standards/WikiData/WD~list of bicycle types,1392620]]"
-- "[[_Standards/WikiData/WD~list of bicycle parts,3142139]]"
-- "[[_Standards/WikiData/WD~list of bicycle and human powered vehicle museums,6607533]]"
-- "[[_Standards/WikiData/WD~list of bicycle sharing systems,6607541]]"
-- "[[_Standards/WikiData/WD~list of bicycle registers,54693134]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the bicycle,2059831]]"
+- "[[_Standards/WikiData/WD~list_of_bicycle_brands_and_manufacturing_companies,953630]]"
+- "[[_Standards/WikiData/WD~list_of_bicycle_types,1392620]]"
+- "[[_Standards/WikiData/WD~list_of_bicycle_parts,3142139]]"
+- "[[_Standards/WikiData/WD~list_of_bicycle_and_human_powered_vehicle_museums,6607533]]"
+- "[[_Standards/WikiData/WD~list_of_bicycle_sharing_systems,6607541]]"
+- "[[_Standards/WikiData/WD~list_of_bicycle_registers,54693134]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_bicycle,2059831]]"
 different_from:
 - '[[_Standards/WikiData/WD~pedelec,2066172]]'
-- "[[_Standards/WikiData/WD~speed pedelec,117017575]]"
+- "[[_Standards/WikiData/WD~speed_pedelec,117017575]]"
 designed_to_carry: '[[_Standards/WikiData/WD~cyclist,2125610]]'
 uses:
-- "[[_Standards/WikiData/WD~cycling infrastructure,5198662]]"
-- "[[_Standards/WikiData/WD~pedal crank drive,124300632]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of bicycles,7112565]]"
+- "[[_Standards/WikiData/WD~cycling_infrastructure,5198662]]"
+- "[[_Standards/WikiData/WD~pedal_crank_drive,124300632]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_bicycles,7112565]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202837,13202837]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bicycle,20879015]]'
-source_of_energy: "[[_Standards/WikiData/WD~human energy,20984829]]"
+source_of_energy: "[[_Standards/WikiData/WD~human_energy,20984829]]"
 time_of_discovery_or_invention: "1885"
 Baidu_Tieba_name: 自行车
 carbon_footprint:

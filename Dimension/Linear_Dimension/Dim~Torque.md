@@ -1,21 +1,21 @@
 ﻿---
 has_id_wikidata: Q48103
 subclass_of:
-- "[[_Standards/WikiData/WD~physical quantity,107715]]"
-- "[[_Standards/WikiData/WD~scalar quantity,181175]]"
+- "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+- "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
 - '[[_Standards/WikiData/WD~moment,13222844]]'
 recommended_unit_of_measurement:
-- "[[_Standards/WikiData/WD~newton metre,215571]]"
-- "[[_Standards/WikiData/WD~kilogram square metre per square second,106681350]]"
+- "[[_Standards/WikiData/WD~newton_metre,215571]]"
+- "[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~ISO 80000-4_2006 Quantities and units—Part 4_ Mechanics,26711933]]"
-- "[[_Standards/WikiData/WD~ISO 80000-4_2019 Quantities and units — Part 4_ Mechanics,73391977]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8,124737635]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~moment of force,17232562]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units—Part_4__Mechanics,26711933]]"
+- "[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units_—_Part_4__Mechanics,73391977]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+different_from: "[[_Standards/WikiData/WD~moment_of_force,17232562]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q107294532,107294532]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82.webm"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Koppel1.png"

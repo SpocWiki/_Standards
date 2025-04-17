@@ -37,30 +37,30 @@ made_from_material:
 - '[[_Standards/WikiData/WD~livingstonite,929619]]'
 - '[[_Standards/WikiData/WD~corderoite,3693399]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 12,191875]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~group_12,191875]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~tailings,1784525]]'
-- "[[_Standards/WikiData/WD~mercury (II) reductase activity,21978302]]"
+- "[[_Standards/WikiData/WD~mercury_(II)_reductase_activity,21978302]]"
 magnetic_ordering: '[[_Standards/WikiData/WD~diamagnetism,201048]]'
-associated_hazard: "[[_Standards/WikiData/WD~mercury poisoning,408089]]"
-has_effect: "[[_Standards/WikiData/WD~mercury poisoning,408089]]"
-crystal_system: "[[_Standards/WikiData/WD~trigonal crystal system,588274]]"
+associated_hazard: "[[_Standards/WikiData/WD~mercury_poisoning,408089]]"
+has_effect: "[[_Standards/WikiData/WD~mercury_poisoning,408089]]"
+crystal_system: "[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~superconducting element,106192073]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~superconducting_element,106192073]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 - '[[_Standards/WikiData/WD~metal,11426]]'
-has_use: "[[_Standards/WikiData/WD~nuclear reactor coolant,3535009]]"
-subject_has_role: "[[_Standards/WikiData/WD~developmental toxicant,72941151]]"
+has_use: "[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009]]"
+subject_has_role: "[[_Standards/WikiData/WD~developmental_toxicant,72941151]]"
 electron_configuration: "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Mercury%20slow%20mo.webm"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Q925-ar.ogg"
@@ -70,7 +70,7 @@ melting_point:
 - -38.83
 - -37.89
 named_after: '[[_Standards/WikiData/WD~Mercury,1150]]'
-subclass_of: "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 immediately_dangerous_to_life_or_health: 10
 time_weighted_average_exposure_limit: 0.1
 electronegativity: 2

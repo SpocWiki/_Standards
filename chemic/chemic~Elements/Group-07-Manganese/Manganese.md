@@ -23,42 +23,42 @@ CPV_Supplementary_code: AA15
 mass: 54.938043
 time_of_discovery_or_invention: "1774"
 part_of:
-- "[[_Standards/WikiData/WD~group 7,202602]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
-named_after: "[[_Standards/WikiData/WD~Magnesia Prefecture,205668]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Johan Gottlieb Gahn,353490]]"
+- "[[_Standards/WikiData/WD~group_7,202602]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
+named_after: "[[_Standards/WikiData/WD~Magnesia_Prefecture,205668]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Johan_Gottlieb_Gahn,353490]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~rhodochrosite,409793]]'
 - '[[_Standards/WikiData/WD~pyrolusite,413293]]'
 - '[[_Standards/WikiData/WD~psilomelane,419315]]'
-- "[[_Standards/WikiData/WD~manganese nodule,939579]]"
-- "[[_Standards/WikiData/WD~braunite mineral group,3777638]]"
+- "[[_Standards/WikiData/WD~manganese_nodule,939579]]"
+- "[[_Standards/WikiData/WD~braunite_mineral_group,3777638]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
 - '[[_Standards/WikiData/WD~Manganese,84690326]]'
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
+- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
 - '[[_Standards/WikiData/WD~garlic,23400]]'
-- "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
-medical_condition_treated: "[[_Standards/WikiData/WD~nutritional deficiency disease,1890194]]"
+- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~nutritional_deficiency_disease,1890194]]"
 associated_hazard:
 - '[[_Standards/WikiData/WD~manganism,2480013]]'
-- "[[_Standards/WikiData/WD~manganese exposure,21174827]]"
+- "[[_Standards/WikiData/WD~manganese_exposure,21174827]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
-- "[[_Standards/WikiData/WD~flammable solid,21073024]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+- "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q15679771,15679771]]'
-has_effect: "[[_Standards/WikiData/WD~manganese exposure,21174827]]"
+has_effect: "[[_Standards/WikiData/WD~manganese_exposure,21174827]]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20cross%20section%20of%20pure%20manganese%20block%20is%20quite%20bright%20and%20very%20brittle.webm"
 different_from: '[[_Standards/WikiData/WD~magnesium,660]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 vapor_pressure: 0
 time_weighted_average_exposure_limit: 1
 oxidation_state: 2

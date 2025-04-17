@@ -3,26 +3,26 @@ has_id_wikidata: Q8087
 is_the_study_of: '[[_Standards/WikiData/WD~shape,207961]]'
 different_from:
 - '[[_Standards/WikiData/WD~shape,207961]]'
-- "[[_Standards/WikiData/WD~La Géométrie,210113]]"
+- "[[_Standards/WikiData/WD~La_Géométrie,210113]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 - '[[_Standards/WikiData/WD~Geometry,84697032]]'
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-instance_of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of geometry,2393733]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of geometry,7112649]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_geometry,2393733]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_geometry,7112649]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Q13561427,13561427]]'
 - '[[_Standards/WikiData/WD~Template_Geometry-footer,14440083]]'
 - '[[_Standards/WikiData/WD~Q25717449,25717449]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geometry,14615019]]'
 practiced_by:
-- "[[_Standards/WikiData/WD~Chartered Building Surveyor,16245517]]"
+- "[[_Standards/WikiData/WD~Chartered_Building_Surveyor,16245517]]"
 - '[[_Standards/WikiData/WD~geometer,21772571]]'
 Stack_Exchange_tag:
 - "https://math.stackexchange.com/tags/geometry"

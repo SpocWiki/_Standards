@@ -2,19 +2,19 @@
 type: Element
 SpocWebEntityId: 21993
 has_id_wikidata: Q1888
-location_of_discovery: "[[_Standards/WikiData/WD~University of California, Berkeley,168756]]"
+location_of_discovery: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
-- "[[_Standards/WikiData/WD~Kenneth Street Jr.,1989591]]"
-- "[[_Standards/WikiData/WD~Stanley Gerald Thompson,3068373]]"
-- "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+- "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
+- "[[_Standards/WikiData/WD~Kenneth_Street_Jr.,1989591]]"
+- "[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]"
+- "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox californium,8085325]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_californium,8085325]]"
 electron_configuration: "[Rn] 5f¹⁰ 7s²"
 Dewey_Decimal_Classification: 546.448
 CAS_Registry_Number: 7440-71-3
@@ -28,7 +28,7 @@ MeSH_tree_code:
 DSSTOX_compound_identifier: DTXCID00147883
 InChIKey: HGLDOAKPQXAFKI-UHFFFAOYSA-N
 InChI: InChI=1S/Cf
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 UMLS_CUI: C0006758
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20143.jpg"
 named_after: '[[_Standards/WikiData/WD~California,99]]'

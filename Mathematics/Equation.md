@@ -1,17 +1,17 @@
 ﻿---
 has_id_wikidata: Q11345
 opposite_of: '[[_Standards/WikiData/WD~inequation,165309]]'
-different_from: "[[_Standards/WikiData/WD~chemical equation,182527]]"
-studied_in: "[[_Standards/WikiData/WD~elementary algebra,211294]]"
-has_part_s_: "[[_Standards/WikiData/WD~equals sign,214796]]"
+different_from: "[[_Standards/WikiData/WD~chemical_equation,182527]]"
+studied_in: "[[_Standards/WikiData/WD~elementary_algebra,211294]]"
+has_part_s_: "[[_Standards/WikiData/WD~equals_sign,214796]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 manifestation_of: '[[_Standards/WikiData/WD~equality,842346]]'
 subclass_of: '[[_Standards/WikiData/WD~formula,976981]]'
-has_list: "[[_Standards/WikiData/WD~list of equations,3243244]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+has_list: "[[_Standards/WikiData/WD~list_of_equations,3243244]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 properties_for_this_type: "defining formula"
 Colon_Classification: B23
 OmegaWiki_Defined_Meaning: 477547

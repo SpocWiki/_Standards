@@ -14,51 +14,51 @@ motto_text:
 - "O poder da humanidade"
 TikTok_username: ifrc
 founded_by:
-- "[[_Standards/WikiData/WD~Théodore Maunoir,115827]]"
-- "[[_Standards/WikiData/WD~Louis Appia,116822]]"
-- "[[_Standards/WikiData/WD~Guillaume Henri Dufour,123238]]"
-- "[[_Standards/WikiData/WD~Gustave Moynier,124535]]"
-- "[[_Standards/WikiData/WD~Henry Dunant,12091]]"
+- "[[_Standards/WikiData/WD~Théodore_Maunoir,115827]]"
+- "[[_Standards/WikiData/WD~Louis_Appia,116822]]"
+- "[[_Standards/WikiData/WD~Guillaume_Henri_Dufour,123238]]"
+- "[[_Standards/WikiData/WD~Gustave_Moynier,124535]]"
+- "[[_Standards/WikiData/WD~Henry_Dunant,12091]]"
 instance_of:
-- "[[_Standards/WikiData/WD~aid agency,336473]]"
-- "[[_Standards/WikiData/WD~international non-governmental organization,1194093]]"
+- "[[_Standards/WikiData/WD~aid_agency,336473]]"
+- "[[_Standards/WikiData/WD~international_non-governmental_organization,1194093]]"
 has_works_in_the_collection:
-- "[[_Standards/WikiData/WD~NIOD Institute for War, Holocaust and Genocide Studies,474823]]"
-- "[[_Standards/WikiData/WD~Netherlands Open Air Museum,674449]]"
+- "[[_Standards/WikiData/WD~NIOD_Institute_for_War,_Holocaust_and_Genocide_Studies,474823]]"
+- "[[_Standards/WikiData/WD~Netherlands_Open_Air_Museum,674449]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Roter Kreis,113990544]]"
+- "[[_Standards/WikiData/WD~Roter_Kreis,113990544]]"
 dedicated_heritage_entity:
-- "[[_Standards/WikiData/WD~International Red Cross and Red Crescent Museum,683406]]"
-- "[[_Standards/WikiData/WD~International Red Cross Museum,1445391]]"
-- "[[_Standards/WikiData/WD~Association of the German Red Cross Museums,118229203]]"
-field_of_work: "[[_Standards/WikiData/WD~humanitarian aid,826745]]"
+- "[[_Standards/WikiData/WD~International_Red_Cross_and_Red_Crescent_Museum,683406]]"
+- "[[_Standards/WikiData/WD~International_Red_Cross_Museum,1445391]]"
+- "[[_Standards/WikiData/WD~Association_of_the_German_Red_Cross_Museums,118229203]]"
+field_of_work: "[[_Standards/WikiData/WD~humanitarian_aid,826745]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~International Federation of Red Cross and Red Crescent Societies,1069175]]"
-- "[[_Standards/WikiData/WD~National Red Cross and Red Crescent society,1968122]]"
-- "[[_Standards/WikiData/WD~International Committee of the Red Cross,5987345]]"
+- "[[_Standards/WikiData/WD~International_Federation_of_Red_Cross_and_Red_Crescent_Societies,1069175]]"
+- "[[_Standards/WikiData/WD~National_Red_Cross_and_Red_Crescent_society,1968122]]"
+- "[[_Standards/WikiData/WD~International_Committee_of_the_Red_Cross,5987345]]"
 different_from:
-- "[[_Standards/WikiData/WD~International Federation of Red Cross and Red Crescent Societies,1069175]]"
+- "[[_Standards/WikiData/WD~International_Federation_of_Red_Cross_and_Red_Crescent_Societies,1069175]]"
 - '[[_Standards/WikiData/WD~Rotkreuz,1630904]]'
-- "[[_Standards/WikiData/WD~International Committee of the Red Cross,5987345]]"
-- "[[_Standards/WikiData/WD~Redd Kross,7305591]]"
+- "[[_Standards/WikiData/WD~International_Committee_of_the_Red_Cross,5987345]]"
+- "[[_Standards/WikiData/WD~Redd_Kross,7305591]]"
 uses:
-- "[[_Standards/WikiData/WD~Red Crescent,3852445]]"
-- "[[_Standards/WikiData/WD~Red Crystal,108085327]]"
-- "[[_Standards/WikiData/WD~Red Cross,116059498]]"
-- "[[_Standards/WikiData/WD~Red Lion and Sun,116059904]]"
+- "[[_Standards/WikiData/WD~Red_Crescent,3852445]]"
+- "[[_Standards/WikiData/WD~Red_Crystal,108085327]]"
+- "[[_Standards/WikiData/WD~Red_Cross,116059498]]"
+- "[[_Standards/WikiData/WD~Red_Lion_and_Sun,116059904]]"
 main_regulatory_text:
-- "[[_Standards/WikiData/WD~Seville Agreement,7458066]]"
-- "[[_Standards/WikiData/WD~Fundamental Principles of the International Red Cross and Red Crescent Movement,19284407]]"
+- "[[_Standards/WikiData/WD~Seville_Agreement,7458066]]"
+- "[[_Standards/WikiData/WD~Fundamental_Principles_of_the_International_Red_Cross_and_Red_Crescent_Movement,19284407]]"
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-award_received: "[[_Standards/WikiData/WD~Four Freedoms Award – Freedom Medal,20203866]]"
-named_after: "[[_Standards/WikiData/WD~red cross,104863859]]"
+award_received: "[[_Standards/WikiData/WD~Four_Freedoms_Award_–_Freedom_Medal,20203866]]"
+named_after: "[[_Standards/WikiData/WD~red_cross,104863859]]"
 BHCL_UUID:
 - 2a8517e4-a4ad-468a-ac59-a8cccb8c483e
 - 4877eb0e-acb0-4e4c-9ce9-d3b1758010eb

@@ -1,21 +1,21 @@
 ---
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Korea Standard Time,76133]]"
+- "[[_Standards/WikiData/WD~Korea_Standard_Time,76133]]"
 - '[[_Standards/WikiData/WD~Asia_Seoul,27963524]]'
 - '[[_Standards/WikiData/WD~UTC+09_00,7041]]'
-flag: "[[_Standards/WikiData/WD~flag of South Korea,127296]]"
+flag: "[[_Standards/WikiData/WD~flag_of_South_Korea,127296]]"
 language_used:
 - '[[_Standards/WikiData/WD~Jejuan,129648]]'
-- "[[_Standards/WikiData/WD~Korean Sign Language,3073428]]"
+- "[[_Standards/WikiData/WD~Korean_Sign_Language,3073428]]"
 - '[[_Standards/WikiData/WD~Korean,9176]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
@@ -28,8 +28,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -42,7 +42,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Paraguay,733]]'
@@ -51,83 +51,83 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
 anthem: '[[_Standards/WikiData/WD~Aegukga,193233]]'
 public_holiday:
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Memorial Day,484076]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Memorial_Day,484076]]"
 - '[[_Standards/WikiData/WD~Gaecheonjeol,485634]]'
 - '[[_Standards/WikiData/WD~Gwangbokjeol,488443]]'
-- "[[_Standards/WikiData/WD~Hangul Day,494394]]"
+- "[[_Standards/WikiData/WD~Hangul_Day,494394]]"
 - '[[_Standards/WikiData/WD~Chuseok,1090024]]'
-- "[[_Standards/WikiData/WD~Children's day,3055633]]"
-- "[[_Standards/WikiData/WD~Buddha's birthday,5348941]]"
-- "[[_Standards/WikiData/WD~Korean New Year,8249787]]"
+- "[[_Standards/WikiData/WD~Children's_day,3055633]]"
+- "[[_Standards/WikiData/WD~Buddha's_birthday,5348941]]"
+- "[[_Standards/WikiData/WD~Korean_New_Year,8249787]]"
 - '[[_Standards/WikiData/WD~Samiljeol,10854390]]'
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of South Korea,201058]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_South_Korea,201058]]"
 instance_of:
-- "[[_Standards/WikiData/WD~government agency,327333]]"
-- "[[_Standards/WikiData/WD~constitutional republic,1520223]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~government_agency,327333]]"
+- "[[_Standards/WikiData/WD~constitutional_republic,1520223]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Korean Peninsula,483134]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Korea,485531]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Korean_Peninsula,483134]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Korea,485531]]"
 highest_judicial_authority:
-- "[[_Standards/WikiData/WD~Constitutional Court of Korea,488491]]"
-- "[[_Standards/WikiData/WD~Supreme Court of Korea,623906]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of South Korea,489145]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,494162]]"
+- "[[_Standards/WikiData/WD~Constitutional_Court_of_Korea,488491]]"
+- "[[_Standards/WikiData/WD~Supreme_Court_of_Korea,623906]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_South_Korea,489145]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,494162]]"
 highest_point: '[[_Standards/WikiData/WD~Hallasan,494645]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of South Korea,494973]]"
-culture: "[[_Standards/WikiData/WD~culture of South Korea,495348]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of South Korea,499208]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_South_Korea,494973]]"
+culture: "[[_Standards/WikiData/WD~culture_of_South_Korea,495348]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_South_Korea,499208]]"
 located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Namhae,624569]]'
-- "[[_Standards/WikiData/WD~Sea of Japan,27092]]"
-- "[[_Standards/WikiData/WD~Yellow Sea,37960]]"
-- "[[_Standards/WikiData/WD~East China Sea,45341]]"
-archives_at: "[[_Standards/WikiData/WD~National Archives of Korea,625999]]"
-executive_body: "[[_Standards/WikiData/WD~Government of South Korea,626814]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of South Korea,718476]]"
+- "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
+- "[[_Standards/WikiData/WD~Yellow_Sea,37960]]"
+- "[[_Standards/WikiData/WD~East_China_Sea,45341]]"
+archives_at: "[[_Standards/WikiData/WD~National_Archives_of_Korea,625999]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_South_Korea,626814]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_South_Korea,718476]]"
 part_of:
 - '[[_Standards/WikiData/WD~MIKTA,865479]]'
-- "[[_Standards/WikiData/WD~East Asia,27231]]"
+- "[[_Standards/WikiData/WD~East_Asia,27231]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
@@ -135,14 +135,14 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~119,2807090]]'
 - '[[_Standards/WikiData/WD~113,25648804]]'
 official_language:
-- "[[_Standards/WikiData/WD~Korean Sign Language,3073428]]"
+- "[[_Standards/WikiData/WD~Korean_Sign_Language,3073428]]"
 - '[[_Standards/WikiData/WD~Korean,9176]]'
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-currency: "[[_Standards/WikiData/WD~Korean mun,3867091]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions and administrative divisions of South Korea,5674621]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of South Korea,6296418]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of South Korea,6296418]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of South Korea,7112461]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+currency: "[[_Standards/WikiData/WD~Korean_mun,3867091]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions_and_administrative_divisions_of_South_Korea,5674621]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_South_Korea,6296418]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_South_Korea,6296418]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_South_Korea,7112461]]"
 demonym:
 - corean
 - surcoreana
@@ -193,13 +193,13 @@ top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.kr,41853]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_South Korea,14615663]]"
-open_data_portal: "[[_Standards/WikiData/WD~Public Data Portal,15304828]]"
-head_of_state: "[[_Standards/WikiData/WD~Yoon Suk-yeol,16090635]]"
-head_of_government: "[[_Standards/WikiData/WD~Yoon Suk-yeol,16090635]]"
-topographic_map: "[[_Standards/WikiData/WD~Atlas of South Korea,21094528]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_South_Korea,14615663]]"
+open_data_portal: "[[_Standards/WikiData/WD~Public_Data_Portal,15304828]]"
+head_of_state: "[[_Standards/WikiData/WD~Yoon_Suk-yeol,16090635]]"
+head_of_government: "[[_Standards/WikiData/WD~Yoon_Suk-yeol,16090635]]"
+topographic_map: "[[_Standards/WikiData/WD~Atlas_of_South_Korea,21094528]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25690850,25690850]]'
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Seal of South Korea,64814897]]"
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Seal_of_South_Korea,64814897]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:South+Korea.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Korea%20Banner%202.jpg"
 pronunciation_audio:
@@ -245,7 +245,7 @@ religion_or_worldview:
 - '[[_Standards/WikiData/WD~Buddhism,748]]'
 basic_form_of_government:
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~presidential system,49892]]"
+- "[[_Standards/WikiData/WD~presidential_system,49892]]"
 capital: '[[_Standards/WikiData/WD~Seoul,8684]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Seoul,8684]]'
@@ -254,23 +254,23 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Daegu,20927]]'
 - '[[_Standards/WikiData/WD~Sejong,20929]]'
 - '[[_Standards/WikiData/WD~Incheon,20934]]'
-- "[[_Standards/WikiData/WD~Gyeonggi Province,20937]]"
-- "[[_Standards/WikiData/WD~North Chungcheong,41066]]"
-- "[[_Standards/WikiData/WD~South Chungcheong,41070]]"
-- "[[_Standards/WikiData/WD~Gangwon Province,41071]]"
-- "[[_Standards/WikiData/WD~South Gyeongsang,41151]]"
-- "[[_Standards/WikiData/WD~North Gyeongsang,41154]]"
-- "[[_Standards/WikiData/WD~North Jeolla,41157]]"
-- "[[_Standards/WikiData/WD~South Jeolla,41161]]"
-- "[[_Standards/WikiData/WD~Jeju Province,41164]]"
+- "[[_Standards/WikiData/WD~Gyeonggi_Province,20937]]"
+- "[[_Standards/WikiData/WD~North_Chungcheong,41066]]"
+- "[[_Standards/WikiData/WD~South_Chungcheong,41070]]"
+- "[[_Standards/WikiData/WD~Gangwon_Province,41071]]"
+- "[[_Standards/WikiData/WD~South_Gyeongsang,41151]]"
+- "[[_Standards/WikiData/WD~North_Gyeongsang,41154]]"
+- "[[_Standards/WikiData/WD~North_Jeolla,41157]]"
+- "[[_Standards/WikiData/WD~South_Jeolla,41161]]"
+- "[[_Standards/WikiData/WD~Jeju_Province,41164]]"
 - '[[_Standards/WikiData/WD~Ulsan,41278]]'
 - '[[_Standards/WikiData/WD~Gwangju,41283]]'
 replaces: '[[_Standards/WikiData/WD~Korea,18097]]'
-lowest_point: "[[_Standards/WikiData/WD~Sea of Japan,27092]]"
+lowest_point: "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 VAT_rate: 10
 age_of_candidacy:
@@ -401,8 +401,8 @@ described_at_URL: "http://68k.news/index.php?section=nation&loc=KR"
 ISNI: 0000000123088103
 coordinates_of_northernmost_point: "Point(128.37 38.62)"
 coordinates_of_westernmost_point: "Point(124.65 37.966666666)"
-territory_claimed_by: "[[_Standards/WikiData/WD~North Korea,423]]"
-country: "[[_Standards/WikiData/WD~South Korea,884]]"
+territory_claimed_by: "[[_Standards/WikiData/WD~North_Korea,423]]"
+country: "[[_Standards/WikiData/WD~South_Korea,884]]"
 has_id_wikidata: Q884
 location:
 - 37.55

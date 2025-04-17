@@ -1,20 +1,20 @@
 ﻿---
 has_id_wikidata: Q1301371
-uses: "[[_Standards/WikiData/WD~communication protocol,132364]]"
-connects_with: "[[_Standards/WikiData/WD~network host,829281]]"
+uses: "[[_Standards/WikiData/WD~communication_protocol,132364]]"
+connects_with: "[[_Standards/WikiData/WD~network_host,829281]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~telecommunications network,1068715]]"
+- "[[_Standards/WikiData/WD~telecommunications_network,1068715]]"
 - '[[_Standards/WikiData/WD~network,1900326]]'
 named_after:
 - '[[_Standards/WikiData/WD~network,1900326]]'
 - '[[_Standards/WikiData/WD~computer,68]]'
-different_from: "[[_Standards/WikiData/WD~distributed system,3962217]]"
-has_part_s_: "[[_Standards/WikiData/WD~heterogeneous network,5747224]]"
+different_from: "[[_Standards/WikiData/WD~distributed_system,3962217]]"
+has_part_s_: "[[_Standards/WikiData/WD~heterogeneous_network,5747224]]"
 has_use:
 - '[[_Standards/WikiData/WD~upload,7126699]]'
 - '[[_Standards/WikiData/WD~download,7126717]]'
-depicted_by: "[[_Standards/WikiData/WD~spatial network,7574076]]"
-studied_in: "[[_Standards/WikiData/WD~computer networking,10336440]]"
+depicted_by: "[[_Standards/WikiData/WD~spatial_network,7574076]]"
+studied_in: "[[_Standards/WikiData/WD~computer_networking,10336440]]"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/NetworkTopologies.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Clean%20network%20infrastructure.jpg"

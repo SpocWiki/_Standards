@@ -1,22 +1,22 @@
 ﻿---
 has_id_wikidata: Q44167
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 part_of: '[[_Standards/WikiData/WD~powertrain,609111]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~propulsion,2583685]]'
-- "[[_Standards/WikiData/WD~power engine,18762500]]"
+- "[[_Standards/WikiData/WD~power_engine,18762500]]"
 - '[[_Standards/WikiData/WD~machine,11019]]'
-different_from: "[[_Standards/WikiData/WD~software engine,2622299]]"
+different_from: "[[_Standards/WikiData/WD~software_engine,2622299]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox engine,10968599]]"
-- "[[_Standards/WikiData/WD~Template_Infobox automotive engine,22830011]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_engine,10968599]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_automotive_engine,22830011]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q96240196,96240196]]'
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Displacement.gif"

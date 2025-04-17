@@ -40,7 +40,7 @@ made_from_material:
 - '[[_Standards/WikiData/WD~argentotennantite-(Zn),3622411]]'
 - '[[_Standards/WikiData/WD~giraudite-(Zn),3768585]]'
 - '[[_Standards/WikiData/WD~beaverite-(Zn),4114062]]'
-- "[[_Standards/WikiData/WD~zinc ore,12168819]]"
+- "[[_Standards/WikiData/WD~zinc_ore,12168819]]"
 - '[[_Standards/WikiData/WD~rozhdestvenskayaite-(Zn),28790839]]'
 - '[[_Standards/WikiData/WD~tetrahedrite-(Zn),68348384]]'
 - '[[_Standards/WikiData/WD~tennantite-(Zn),68349796]]'
@@ -50,34 +50,34 @@ made_from_material:
 - '[[_Standards/WikiData/WD~hakite-(Zn),115982549]]'
 has_use: '[[_Standards/WikiData/WD~cathode,175233]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 12,191875]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_12,191875]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 manufacturer: '[[_Standards/WikiData/WD~Pfizer,206921]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~material,214609]]'
-- "[[_Standards/WikiData/WD~post-transition metal,19591]]"
+- "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Vocabulari d'odontologia,131193927]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Vocabulari_d'odontologia,131193927]]"
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
-- "[[_Standards/WikiData/WD~Leonurus sibiricus,1788423]]"
-- "[[_Standards/WikiData/WD~Tedania charcoti,1809628]]"
-- "[[_Standards/WikiData/WD~Phytelephas aequatorialis,2709988]]"
-- "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
+- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+- "[[_Standards/WikiData/WD~Leonurus_sibiricus,1788423]]"
+- "[[_Standards/WikiData/WD~Tedania_charcoti,1809628]]"
+- "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+- "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
 - '[[_Standards/WikiData/WD~cacao,42385]]'
-- "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-associated_hazard: "[[_Standards/WikiData/WD~zinc toxicity,10724674]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+associated_hazard: "[[_Standards/WikiData/WD~zinc_toxicity,10724674]]"
 named_after: '[[_Standards/WikiData/WD~tine,15043709]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28970958,28970958]]'
 active_ingredient_in: '[[_Standards/WikiData/WD~Wilzin,29006676]]'

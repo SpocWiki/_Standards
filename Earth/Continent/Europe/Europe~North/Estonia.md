@@ -1,91 +1,91 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Baltic Assembly,670356]]"
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~Council of the Baltic Sea States,789769]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Strategic Airlift Capability,1579424]]"
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~Nordic Battle Group,1998131]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Baltic_Assembly,670356]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~Nordic_Battle_Group,1998131]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~League of Nations,38130]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~International Atomic Energy Agency,41984]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-flag: "[[_Standards/WikiData/WD~flag of Estonia,81471]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Estonia,81471]]"
 replaces:
-- "[[_Standards/WikiData/WD~Estonian Soviet Socialist Republic,130280]]"
-- "[[_Standards/WikiData/WD~Estonia Governorate,720496]]"
-- "[[_Standards/WikiData/WD~Livonia Governorate,1419584]]"
-- "[[_Standards/WikiData/WD~Pskov Governorate,1458686]]"
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Estonia,164845]]"
-anthem: "[[_Standards/WikiData/WD~Mu isamaa, mu õnn ja rõõm,166362]]"
+- "[[_Standards/WikiData/WD~Estonian_Soviet_Socialist_Republic,130280]]"
+- "[[_Standards/WikiData/WD~Estonia_Governorate,720496]]"
+- "[[_Standards/WikiData/WD~Livonia_Governorate,1419584]]"
+- "[[_Standards/WikiData/WD~Pskov_Governorate,1458686]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Estonia,164845]]"
+anthem: "[[_Standards/WikiData/WD~Mu_isamaa,_mu_õnn_ja_rõõm,166362]]"
 instance_of:
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~country bordering the Baltic Sea,63791824]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~country_bordering_the_Baltic_Sea,63791824]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Harju County,180200]]"
-- "[[_Standards/WikiData/WD~Pärnu County,185036]]"
-- "[[_Standards/WikiData/WD~Järva County,188068]]"
-- "[[_Standards/WikiData/WD~Võru County,188076]]"
-- "[[_Standards/WikiData/WD~Lääne-Viru County,189952]]"
-- "[[_Standards/WikiData/WD~Ida-Viru County,189963]]"
-- "[[_Standards/WikiData/WD~Lääne County,189968]]"
-- "[[_Standards/WikiData/WD~Jõgeva County,189974]]"
-- "[[_Standards/WikiData/WD~Põlva County,191813]]"
-- "[[_Standards/WikiData/WD~Viljandi County,192061]]"
-- "[[_Standards/WikiData/WD~Rapla County,192352]]"
-- "[[_Standards/WikiData/WD~Valga County,192362]]"
-- "[[_Standards/WikiData/WD~Tartu County,192370]]"
-- "[[_Standards/WikiData/WD~Saare County,203272]]"
-- "[[_Standards/WikiData/WD~Hiiu County,1466462]]"
+- "[[_Standards/WikiData/WD~Harju_County,180200]]"
+- "[[_Standards/WikiData/WD~Pärnu_County,185036]]"
+- "[[_Standards/WikiData/WD~Järva_County,188068]]"
+- "[[_Standards/WikiData/WD~Võru_County,188076]]"
+- "[[_Standards/WikiData/WD~Lääne-Viru_County,189952]]"
+- "[[_Standards/WikiData/WD~Ida-Viru_County,189963]]"
+- "[[_Standards/WikiData/WD~Lääne_County,189968]]"
+- "[[_Standards/WikiData/WD~Jõgeva_County,189974]]"
+- "[[_Standards/WikiData/WD~Põlva_County,191813]]"
+- "[[_Standards/WikiData/WD~Viljandi_County,192061]]"
+- "[[_Standards/WikiData/WD~Rapla_County,192352]]"
+- "[[_Standards/WikiData/WD~Valga_County,192362]]"
+- "[[_Standards/WikiData/WD~Tartu_County,192370]]"
+- "[[_Standards/WikiData/WD~Saare_County,203272]]"
+- "[[_Standards/WikiData/WD~Hiiu_County,1466462]]"
 legislative_body: '[[_Standards/WikiData/WD~Riigikogu,217799]]'
 different_from:
 - '[[_Standards/WikiData/WD~Estonia,238967]]'
 - '[[_Standards/WikiData/WD~Eesti,5347148]]'
-central_bank: "[[_Standards/WikiData/WD~Bank of Estonia,366960]]"
-highest_point: "[[_Standards/WikiData/WD~Suur Munamägi,504991]]"
-culture: "[[_Standards/WikiData/WD~culture of Estonia,604512]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Estonia,737115]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Estonia,366960]]"
+highest_point: "[[_Standards/WikiData/WD~Suur_Munamägi,504991]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Estonia,604512]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Estonia,737115]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Belarusian People's Republic,842199]]"
+- "[[_Standards/WikiData/WD~Belarusian_People's_Republic,842199]]"
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~India,668]]'
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -94,7 +94,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Poland,36]]'
 - '[[_Standards/WikiData/WD~Greece,41]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Latvia,211]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
@@ -102,48 +102,48 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Estonia,890005]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Estonia,949423]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Estonia,890005]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Estonia,949423]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Estonia,1410778]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Estonia,1453203]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Estonia,1410778]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Estonia,1453203]]"
 named_after:
 - '[[_Standards/WikiData/WD~Virumaa,1503237]]'
-- "[[_Standards/WikiData/WD~Ugandi County,2006684]]"
-head_of_government: "[[_Standards/WikiData/WD~Kristen Michal,1789192]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Estonia,2000306]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Estonia,2421589]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~Ugandi_County,2006684]]"
+head_of_government: "[[_Standards/WikiData/WD~Kristen_Michal,1789192]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Estonia,2000306]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Estonia,2421589]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 language_used:
-- "[[_Standards/WikiData/WD~Estonian Sign Language,3196221]]"
-- "[[_Standards/WikiData/WD~Standard Estonian,12361545]]"
+- "[[_Standards/WikiData/WD~Estonian_Sign_Language,3196221]]"
+- "[[_Standards/WikiData/WD~Standard_Estonian,12361545]]"
 - '[[_Standards/WikiData/WD~Russian,7737]]'
 - '[[_Standards/WikiData/WD~Estonian,9072]]'
 - '[[_Standards/WikiData/WD~Võro,32762]]'
 - '[[_Standards/WikiData/WD~Seto,34017]]'
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Estonia topics,6596946]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Estonia,7112258]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Estonia,8407597]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Estonia_topics,6596946]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Estonia,7112258]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Estonia,8407597]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Estonia,10298138]]'
-head_of_state: "[[_Standards/WikiData/WD~Alar Karis,12358575]]"
+head_of_state: "[[_Standards/WikiData/WD~Alar_Karis,12358575]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
-significant_event: "[[_Standards/WikiData/WD~Soviet occupation in Estonia,15052924]]"
+significant_event: "[[_Standards/WikiData/WD~Soviet_occupation_in_Estonia,15052924]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q17363906,17363906]]'
 - '[[_Standards/WikiData/WD~Q110738710,110738710]]'
 - '[[_Standards/WikiData/WD~Q122639347,122639347]]'
 coordinates_of_northernmost_point: "Point(26.37 59.82)"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Eesti 1000,57005414]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Eesti_1000,57005414]]"
 category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q61382698,61382698]]'
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Portal Estonia,97011195]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Estonia,97011195]]"
 Provenio_UUID: 62c98b8c-02e1-4f49-8363-2db6d422a1d4
 demonym:
 - Estonec
@@ -204,14 +204,14 @@ motto_text:
 - "Stonia Epig"
 - "Epic Estonia"
 part_of:
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-- "[[_Standards/WikiData/WD~Northern Europe,27479]]"
-- "[[_Standards/WikiData/WD~Baltic states,39731]]"
-lowest_point: "[[_Standards/WikiData/WD~Baltic Sea,545]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- "[[_Standards/WikiData/WD~Northern_Europe,27479]]"
+- "[[_Standards/WikiData/WD~Baltic_states,39731]]"
+lowest_point: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Baltic Sea,545]]"
-- "[[_Standards/WikiData/WD~Lake Peipus,19253]]"
+- "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
+- "[[_Standards/WikiData/WD~Lake_Peipus,19253]]"
 capital: '[[_Standards/WikiData/WD~Tallinn,1770]]'
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 official_language: '[[_Standards/WikiData/WD~Estonian,9072]]'

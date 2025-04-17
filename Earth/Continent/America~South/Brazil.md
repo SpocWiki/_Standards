@@ -37,15 +37,15 @@ Languages:
 - en
 - fr
 icon: flag-br
-flag: "[[_Standards/WikiData/WD~flag of Brazil,82194]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Brazil,82194]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Federal District,119158]]"
+- "[[_Standards/WikiData/WD~Federal_District,119158]]"
 - '[[_Standards/WikiData/WD~Paraná,15499]]'
-- "[[_Standards/WikiData/WD~São Paulo,175]]"
+- "[[_Standards/WikiData/WD~São_Paulo,175]]"
 - '[[_Standards/WikiData/WD~Paraíba,38088]]'
-- "[[_Standards/WikiData/WD~Minas Gerais,39109]]"
+- "[[_Standards/WikiData/WD~Minas_Gerais,39109]]"
 - '[[_Standards/WikiData/WD~Pará,39517]]'
-- "[[_Standards/WikiData/WD~Rio Grande do Sul,40030]]"
+- "[[_Standards/WikiData/WD~Rio_Grande_do_Sul,40030]]"
 - '[[_Standards/WikiData/WD~Amazonas,40040]]'
 - '[[_Standards/WikiData/WD~Ceará,40123]]'
 - '[[_Standards/WikiData/WD~Amapá,40130]]'
@@ -53,84 +53,84 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Acre,40780]]'
 - '[[_Standards/WikiData/WD~Alagoas,40885]]'
 - '[[_Standards/WikiData/WD~Pernambuco,40942]]'
-- "[[_Standards/WikiData/WD~Santa Catarina,41115]]"
-- "[[_Standards/WikiData/WD~Rio de Janeiro,41428]]"
+- "[[_Standards/WikiData/WD~Santa_Catarina,41115]]"
+- "[[_Standards/WikiData/WD~Rio_de_Janeiro,41428]]"
 - '[[_Standards/WikiData/WD~Goiás,41587]]'
 - '[[_Standards/WikiData/WD~Maranhão,42362]]'
 - '[[_Standards/WikiData/WD~Roraima,42508]]'
 - '[[_Standards/WikiData/WD~Piauí,42722]]'
-- "[[_Standards/WikiData/WD~Mato Grosso,42824]]"
+- "[[_Standards/WikiData/WD~Mato_Grosso,42824]]"
 - '[[_Standards/WikiData/WD~Rondônia,43235]]'
-- "[[_Standards/WikiData/WD~Espírito Santo,43233]]"
-- "[[_Standards/WikiData/WD~Rio Grande do Norte,43255]]"
-- "[[_Standards/WikiData/WD~Mato Grosso do Sul,43319]]"
+- "[[_Standards/WikiData/WD~Espírito_Santo,43233]]"
+- "[[_Standards/WikiData/WD~Rio_Grande_do_Norte,43255]]"
+- "[[_Standards/WikiData/WD~Mato_Grosso_do_Sul,43319]]"
 - '[[_Standards/WikiData/WD~Tocantins,43695]]'
 - '[[_Standards/WikiData/WD~Sergipe,43783]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~South American Plate,119490]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_American_Plate,119490]]"
 member_of:
-- "[[_Standards/WikiData/WD~Latin Union,123209]]"
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Community of Portuguese Language Countries,182500]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Latin_Union,123209]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
-- "[[_Standards/WikiData/WD~ABC nations,286946]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Summits of the Americas,467938]]"
-- "[[_Standards/WikiData/WD~Andean Community,471690]]"
-- "[[_Standards/WikiData/WD~Latin American and Caribbean Parliament,499151]]"
-- "[[_Standards/WikiData/WD~Ibero-American Summit,535086]]"
-- "[[_Standards/WikiData/WD~Amazon Cooperation Treaty Organization,602399]]"
-- "[[_Standards/WikiData/WD~Latin American and the Caribbean Economic System,605595]]"
-- "[[_Standards/WikiData/WD~Latin American Integration Association,607301]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~ABC_nations,286946]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Summits_of_the_Americas,467938]]"
+- "[[_Standards/WikiData/WD~Andean_Community,471690]]"
+- "[[_Standards/WikiData/WD~Latin_American_and_Caribbean_Parliament,499151]]"
+- "[[_Standards/WikiData/WD~Ibero-American_Summit,535086]]"
+- "[[_Standards/WikiData/WD~Amazon_Cooperation_Treaty_Organization,602399]]"
+- "[[_Standards/WikiData/WD~Latin_American_and_the_Caribbean_Economic_System,605595]]"
+- "[[_Standards/WikiData/WD~Latin_American_Integration_Association,607301]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
 - '[[_Standards/WikiData/WD~BRIC,833202]]'
-- "[[_Standards/WikiData/WD~G4 nations,838116]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Rio Group,943105]]"
-- "[[_Standards/WikiData/WD~Cairns Group,1025959]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Community of Latin American and Caribbean States,1045401]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+- "[[_Standards/WikiData/WD~G4_nations,838116]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Rio_Group,943105]]"
+- "[[_Standards/WikiData/WD~Cairns_Group,1025959]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Community_of_Latin_American_and_Caribbean_States,1045401]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
 - '[[_Standards/WikiData/WD~G8+5,1484463]]'
-- "[[_Standards/WikiData/WD~IBSA Dialogue Forum,1570993]]"
-- "[[_Standards/WikiData/WD~Summit of South American-Arab Countries,2836400]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~Forum of East Asia–Latin America Cooperation,17076232]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
+- "[[_Standards/WikiData/WD~IBSA_Dialogue_Forum,1570993]]"
+- "[[_Standards/WikiData/WD~Summit_of_South_American-Arab_Countries,2836400]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Forum_of_East_Asia–Latin_America_Cooperation,17076232]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
 - '[[_Standards/WikiData/WD~Mercosur,4264]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
-- "[[_Standards/WikiData/WD~International Criminal Court,47488]]"
-- "[[_Standards/WikiData/WD~South Atlantic Peace and Cooperation Zone,47539]]"
+- "[[_Standards/WikiData/WD~International_Criminal_Court,47488]]"
+- "[[_Standards/WikiData/WD~South_Atlantic_Peace_and_Cooperation_Zone,47539]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Paraná River,127892]]"
-- "[[_Standards/WikiData/WD~São Francisco River,142148]]"
+- "[[_Standards/WikiData/WD~Paraná_River,127892]]"
+- "[[_Standards/WikiData/WD~São_Francisco_River,142148]]"
 - '[[_Standards/WikiData/WD~Amazon,3783]]'
-- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-anthem: "[[_Standards/WikiData/WD~Brazilian National Anthem,134654]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Pedro Álvares Cabral,174432]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Brazil,188320]]"
+- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+anthem: "[[_Standards/WikiData/WD~Brazilian_National_Anthem,134654]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Pedro_Álvares_Cabral,174432]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Brazil,188320]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~representative democracy,188759]]"
-- "[[_Standards/WikiData/WD~federal republic,512187]]"
-- "[[_Standards/WikiData/WD~presidential system,49892]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Brazil,211967]]"
-named_after: "[[_Standards/WikiData/WD~Caesalpinia echinata,216469]]"
+- "[[_Standards/WikiData/WD~representative_democracy,188759]]"
+- "[[_Standards/WikiData/WD~federal_republic,512187]]"
+- "[[_Standards/WikiData/WD~presidential_system,49892]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Brazil,211967]]"
+named_after: "[[_Standards/WikiData/WD~Caesalpinia_echinata,216469]]"
 replaces:
-- "[[_Standards/WikiData/WD~Empire of Brazil,217230]]"
-- "[[_Standards/WikiData/WD~Colonial Brazil,2088324]]"
-- "[[_Standards/WikiData/WD~Republic of the United States of Brazil,5848654]]"
+- "[[_Standards/WikiData/WD~Empire_of_Brazil,217230]]"
+- "[[_Standards/WikiData/WD~Colonial_Brazil,2088324]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_United_States_of_Brazil,5848654]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Suriname,730]]'
@@ -144,32 +144,32 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Haiti,790]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Lebanon,822]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
 - '[[_Standards/WikiData/WD~Bhutan,917]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Benin,962]]'
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
-- "[[_Standards/WikiData/WD~Cape Verde,1011]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
+- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
+- "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Mozambique,1029]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -183,35 +183,35 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Belarus,184]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Belize,242]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 part_of:
-- "[[_Standards/WikiData/WD~Southern Cone,236118]]"
+- "[[_Standards/WikiData/WD~Southern_Cone,236118]]"
 - '[[_Standards/WikiData/WD~Ibero-America,377916]]'
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~South America,18]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~South_America,18]]"
 language_used:
 - '[[_Standards/WikiData/WD~Sanumá,251728]]'
 - '[[_Standards/WikiData/WD~Hunsrik,304049]]'
@@ -230,7 +230,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Nambikwara,2068190]]'
 - '[[_Standards/WikiData/WD~Culina,2475442]]'
 - '[[_Standards/WikiData/WD~Tuyuca,2520538]]'
-- "[[_Standards/WikiData/WD~Karipúna Creole French,2523999]]"
+- "[[_Standards/WikiData/WD~Karipúna_Creole_French,2523999]]"
 - '[[_Standards/WikiData/WD~Rikbaktsa,2585357]]'
 - '[[_Standards/WikiData/WD~Cashinahua,2591230]]'
 - '[[_Standards/WikiData/WD~Kaingang,2665734]]'
@@ -239,7 +239,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Acroá,2829146]]'
 - '[[_Standards/WikiData/WD~Apinayé,2858311]]'
 - '[[_Standards/WikiData/WD~Apurinã,2859081]]'
-- "[[_Standards/WikiData/WD~Ava Guarani,2873230]]"
+- "[[_Standards/WikiData/WD~Ava_Guarani,2873230]]"
 - '[[_Standards/WikiData/WD~Wayoró,2875044]]'
 - '[[_Standards/WikiData/WD~Curripaco,2882543]]'
 - '[[_Standards/WikiData/WD~Waimahã,2883738]]'
@@ -279,30 +279,30 @@ language_used:
 - '[[_Standards/WikiData/WD~Marúbo,3296011]]'
 - '[[_Standards/WikiData/WD~Matis,3299145]]'
 - '[[_Standards/WikiData/WD~Sakirabiá,3304806]]'
-- "[[_Standards/WikiData/WD~Enawene Nawe,3307184]]"
+- "[[_Standards/WikiData/WD~Enawene_Nawe,3307184]]"
 - '[[_Standards/WikiData/WD~Terêna,3314742]]'
-- "[[_Standards/WikiData/WD~Ka'apor Sign Language,3322101]]"
+- "[[_Standards/WikiData/WD~Ka'apor_Sign_Language,3322101]]"
 - '[[_Standards/WikiData/WD~Cafundó,3331506]]'
 - '[[_Standards/WikiData/WD~Nadëb,3335011]]'
 - '[[_Standards/WikiData/WD~Nukuini,3346231]]'
 - '[[_Standards/WikiData/WD~Oti,3357881]]'
 - '[[_Standards/WikiData/WD~Panara,3361895]]'
-- "[[_Standards/WikiData/WD~Pará Gavião,3365443]]"
+- "[[_Standards/WikiData/WD~Pará_Gavião,3365443]]"
 - '[[_Standards/WikiData/WD~Piratapuyo,3389119]]'
 - '[[_Standards/WikiData/WD~Poyanáwa,3401023]]'
 - '[[_Standards/WikiData/WD~Irantxe,3409301]]'
 - '[[_Standards/WikiData/WD~Aikanã,3409307]]'
 - '[[_Standards/WikiData/WD~Ninam,3436586]]'
-- "[[_Standards/WikiData/WD~Brazilian Sign Language,3436689]]"
+- "[[_Standards/WikiData/WD~Brazilian_Sign_Language,3436689]]"
 - '[[_Standards/WikiData/WD~Kanamarí,3438373]]'
 - '[[_Standards/WikiData/WD~Katawixi,3440512]]'
 - '[[_Standards/WikiData/WD~Huamoé,3441418]]'
 - '[[_Standards/WikiData/WD~Sikiana,3443734]]'
 - '[[_Standards/WikiData/WD~Arikapú,3446640]]'
-- "[[_Standards/WikiData/WD~Mato Grosso Arára,3446660]]"
+- "[[_Standards/WikiData/WD~Mato_Grosso_Arára,3446660]]"
 - '[[_Standards/WikiData/WD~Arikem,3446679]]'
 - '[[_Standards/WikiData/WD~Ofayé,3446691]]'
-- "[[_Standards/WikiData/WD~Oro Win,3450423]]"
+- "[[_Standards/WikiData/WD~Oro_Win,3450423]]"
 - '[[_Standards/WikiData/WD~Wapishana,3450493]]'
 - '[[_Standards/WikiData/WD~Waurá,3450522]]'
 - '[[_Standards/WikiData/WD~Yabaâna,3450534]]'
@@ -311,7 +311,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Sabanês,3460478]]'
 - '[[_Standards/WikiData/WD~Siriano,3485264]]'
 - '[[_Standards/WikiData/WD~Mehinaku,3501838]]'
-- "[[_Standards/WikiData/WD~Ucayali–Yurúa Ashéninka,3501858]]"
+- "[[_Standards/WikiData/WD~Ucayali–Yurúa_Ashéninka,3501858]]"
 - '[[_Standards/WikiData/WD~Paresí,3504312]]'
 - '[[_Standards/WikiData/WD~Suyá,3505859]]'
 - '[[_Standards/WikiData/WD~Anambé,3507873]]'
@@ -329,16 +329,16 @@ language_used:
 - '[[_Standards/WikiData/WD~Wajiara,3573266]]'
 - '[[_Standards/WikiData/WD~Guajá,3915506]]'
 - '[[_Standards/WikiData/WD~Amonap,3915522]]'
-- "[[_Standards/WikiData/WD~Mbyá Guaraní,3915584]]"
+- "[[_Standards/WikiData/WD~Mbyá_Guaraní,3915584]]"
 - '[[_Standards/WikiData/WD~Jurúna,4023175]]'
 - '[[_Standards/WikiData/WD~Kanoê,4356223]]'
 - '[[_Standards/WikiData/WD~Akuntsu,4701960]]'
 - '[[_Standards/WikiData/WD~Araweté,4784535]]'
 - '[[_Standards/WikiData/WD~Avá-Canoeiro,4829584]]'
 - '[[_Standards/WikiData/WD~Awetï,4830038]]'
-- "[[_Standards/WikiData/WD~Cinta Larga,5121095]]"
+- "[[_Standards/WikiData/WD~Cinta_Larga,5121095]]"
 - '[[_Standards/WikiData/WD~Tremembé,5246937]]'
-- "[[_Standards/WikiData/WD~Gavião of Jiparaná,5528335]]"
+- "[[_Standards/WikiData/WD~Gavião_of_Jiparaná,5528335]]"
 - '[[_Standards/WikiData/WD~Himarimã,5765127]]'
 - '[[_Standards/WikiData/WD~Wayana,5908753]]'
 - '[[_Standards/WikiData/WD~Kaimbé,6348017]]'
@@ -363,7 +363,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Purí,7261687]]'
 - '[[_Standards/WikiData/WD~Salumá,7406296]]'
 - '[[_Standards/WikiData/WD~Suruí,7646993]]'
-- "[[_Standards/WikiData/WD~São Paulo Kaingáng,7665661]]"
+- "[[_Standards/WikiData/WD~São_Paulo_Kaingáng,7665661]]"
 - '[[_Standards/WikiData/WD~Tapirapé,7684673]]'
 - '[[_Standards/WikiData/WD~Tingui-Botó,7808195]]'
 - '[[_Standards/WikiData/WD~Torá,7827518]]'
@@ -377,7 +377,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Wakoná,7961205]]'
 - '[[_Standards/WikiData/WD~Wasu,7972892]]'
 - '[[_Standards/WikiData/WD~Wayampi,7975842]]'
-- "[[_Standards/WikiData/WD~Xingú Asuriní,8044571]]"
+- "[[_Standards/WikiData/WD~Xingú_Asuriní,8044571]]"
 - '[[_Standards/WikiData/WD~Yanomamö,8048928]]'
 - "[[_Standards/WikiData/WD~Zo'é,8073148]]"
 - '[[_Standards/WikiData/WD~Kambiwá,9006744]]'
@@ -388,7 +388,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Uru-eu-wau-wau,10266012]]'
 - '[[_Standards/WikiData/WD~Karajá,10322066]]'
 - '[[_Standards/WikiData/WD~Yawanawa,10322118]]'
-- "[[_Standards/WikiData/WD~Suruí do Pará,10322149]]"
+- "[[_Standards/WikiData/WD~Suruí_do_Pará,10322149]]"
 - '[[_Standards/WikiData/WD~Tembé,10322157]]'
 - '[[_Standards/WikiData/WD~Pemon,10729616]]'
 - '[[_Standards/WikiData/WD~Trumai,12294279]]'
@@ -406,13 +406,13 @@ language_used:
 - '[[_Standards/WikiData/WD~Kadiweu,18168288]]'
 - '[[_Standards/WikiData/WD~Portuguese,5146]]'
 - '[[_Standards/WikiData/WD~Xipaya,13226]]'
-- "[[_Standards/WikiData/WD~Low German,25433]]"
+- "[[_Standards/WikiData/WD~Low_German,25433]]"
 - '[[_Standards/WikiData/WD~Akawaio,28059]]'
 - '[[_Standards/WikiData/WD~Lakondê,20527166]]'
 - '[[_Standards/WikiData/WD~Yaroamë,24190396]]'
 - '[[_Standards/WikiData/WD~Pokangá,25559704]]'
 - '[[_Standards/WikiData/WD~Pankararé,25559779]]'
-- "[[_Standards/WikiData/WD~Tocantins Asurini,32041490]]"
+- "[[_Standards/WikiData/WD~Tocantins_Asurini,32041490]]"
 - '[[_Standards/WikiData/WD~Tukumanféd,42330115]]'
 - '[[_Standards/WikiData/WD~Kinikinao,53386731]]'
 - '[[_Standards/WikiData/WD~Guajajára,57420736]]'
@@ -432,79 +432,79 @@ language_used:
 - '[[_Standards/WikiData/WD~Waiwai,56632]]'
 - '[[_Standards/WikiData/WD~Macushi,56633]]'
 - '[[_Standards/WikiData/WD~Potiguára,56722]]'
-- "[[_Standards/WikiData/WD~Pará Arára,56807]]"
+- "[[_Standards/WikiData/WD~Pará_Arára,56807]]"
 - '[[_Standards/WikiData/WD~Bakairi,56846]]'
 - '[[_Standards/WikiData/WD~Waimiri-Atroarí,56865]]'
 - '[[_Standards/WikiData/WD~Tiriyó,56885]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 ethnic_group:
-- "[[_Standards/WikiData/WD~African Brazilians,388315]]"
-- "[[_Standards/WikiData/WD~indigenous peoples in Brazil,1363781]]"
-- "[[_Standards/WikiData/WD~Pardo Brazilians,2587830]]"
-- "[[_Standards/WikiData/WD~White Brazilians,2995285]]"
-- "[[_Standards/WikiData/WD~Asian Brazilians,3624751]]"
+- "[[_Standards/WikiData/WD~African_Brazilians,388315]]"
+- "[[_Standards/WikiData/WD~indigenous_peoples_in_Brazil,1363781]]"
+- "[[_Standards/WikiData/WD~Pardo_Brazilians,2587830]]"
+- "[[_Standards/WikiData/WD~White_Brazilians,2995285]]"
+- "[[_Standards/WikiData/WD~Asian_Brazilians,3624751]]"
 instance_of:
-- "[[_Standards/WikiData/WD~federal republic,512187]]"
-- "[[_Standards/WikiData/WD~secular state,859563]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~rule of law,7378937]]"
+- "[[_Standards/WikiData/WD~federal_republic,512187]]"
+- "[[_Standards/WikiData/WD~secular_state,859563]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~rule_of_law,7378937]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Federal Court,519138]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Federal_Court,519138]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~188,721074]]'
 - '[[_Standards/WikiData/WD~192,25648834]]'
 - '[[_Standards/WikiData/WD~193,25648835]]'
 - '[[_Standards/WikiData/WD~190,25648833]]'
-highest_point: "[[_Standards/WikiData/WD~Pico da Neblina,739484]]"
+highest_point: "[[_Standards/WikiData/WD~Pico_da_Neblina,739484]]"
 participant_in:
-- "[[_Standards/WikiData/WD~BASIC countries,795464]]"
-- "[[_Standards/WikiData/WD~G4 nations,838116]]"
-- "[[_Standards/WikiData/WD~Group of Five,2720495]]"
-- "[[_Standards/WikiData/WD~Global System of Trade Preferences among Developing Countries,5570670]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Brazil,806186]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Brazil,845120]]"
-legislative_body: "[[_Standards/WikiData/WD~National Congress of Brazil,949699]]"
+- "[[_Standards/WikiData/WD~BASIC_countries,795464]]"
+- "[[_Standards/WikiData/WD~G4_nations,838116]]"
+- "[[_Standards/WikiData/WD~Group_of_Five,2720495]]"
+- "[[_Standards/WikiData/WD~Global_System_of_Trade_Preferences_among_Developing_Countries,5570670]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Brazil,806186]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Brazil,845120]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Congress_of_Brazil,949699]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~All Souls' Day,1033140]]"
-- "[[_Standards/WikiData/WD~Independence Day,2086665]]"
-- "[[_Standards/WikiData/WD~Universal Brotherhood Day,10265921]]"
-- "[[_Standards/WikiData/WD~Tiradentes Day,10382660]]"
+- "[[_Standards/WikiData/WD~All_Souls'_Day,1033140]]"
+- "[[_Standards/WikiData/WD~Independence_Day,2086665]]"
+- "[[_Standards/WikiData/WD~Universal_Brotherhood_Day,10265921]]"
+- "[[_Standards/WikiData/WD~Tiradentes_Day,10382660]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
 - "http://www.wikidata.org/.well-known/genid/862c9b1887d10307fb4c73e25cd5fa22"
 - "http://www.wikidata.org/.well-known/genid/aa322070be920bef867957a77d8cd62e"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
-motto: "[[_Standards/WikiData/WD~Order and Progress,1077885]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+motto: "[[_Standards/WikiData/WD~Order_and_Progress,1077885]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~IEC 60906-1,1653438]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Brazil,1771875]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Brazil,1774121]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Brazil,2386422]]"
-patron_saint: "[[_Standards/WikiData/WD~Our Lady of Aparecida,2469225]]"
-culture: "[[_Standards/WikiData/WD~culture of Brazil,2717920]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-has_cabinet: "[[_Standards/WikiData/WD~cabinet of Brazil,5015503]]"
-executive_body: "[[_Standards/WikiData/WD~Federal Government of Brazil,5440531]]"
+- "[[_Standards/WikiData/WD~IEC_60906-1,1653438]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Brazil,1771875]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Brazil,1774121]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Brazil,2386422]]"
+patron_saint: "[[_Standards/WikiData/WD~Our_Lady_of_Aparecida,2469225]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Brazil,2717920]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+has_cabinet: "[[_Standards/WikiData/WD~cabinet_of_Brazil,5015503]]"
+executive_body: "[[_Standards/WikiData/WD~Federal_Government_of_Brazil,5440531]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Brazil,6062964]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Brazil,7112209]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Brazil,7112209]]"
 category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q8942509,8942509]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10514331,10514331]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Brazil,11134020]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Brazil,11134020]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
-- "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+- "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+- "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 open_data_portal: '[[_Standards/WikiData/WD~DataViva,15614605]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
@@ -513,7 +513,7 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Paraguay,733]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
-- "[[_Standards/WikiData/WD~French Guiana,3769]]"
+- "[[_Standards/WikiData/WD~French_Guiana,3769]]"
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~France,142]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
@@ -526,8 +526,8 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
 - '[[_Standards/WikiData/WD~UTC−02_00,6536]]'
 minimum_temperature_record: -14
-continent: "[[_Standards/WikiData/WD~South America,18]]"
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+continent: "[[_Standards/WikiData/WD~South_America,18]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 country: '[[_Standards/WikiData/WD~Brazil,155]]'
 geoshape: "http://commons.wikimedia.org/data/main/Data:Brazil.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Botafogo%20banner.jpg"
@@ -644,8 +644,8 @@ BTI_Status_Index:
 - 8.02
 - 8.05
 - 8.06
-head_of_state: "[[_Standards/WikiData/WD~Luiz Inácio Lula da Silva,37181]]"
-head_of_government: "[[_Standards/WikiData/WD~Luiz Inácio Lula da Silva,37181]]"
+head_of_state: "[[_Standards/WikiData/WD~Luiz_Inácio_Lula_da_Silva,37181]]"
+head_of_government: "[[_Standards/WikiData/WD~Luiz_Inácio_Lula_da_Silva,37181]]"
 total_fertility_rate: 1.74
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.br,39889]]'
 described_at_URL: "https://www.cia.gov/library/publications/resources/the-world-factbook/geos/br.html"

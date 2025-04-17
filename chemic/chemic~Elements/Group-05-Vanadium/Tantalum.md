@@ -4,28 +4,28 @@ SpocWebEntityId: 21969
 has_id_wikidata: Q1123
 named_after: '[[_Standards/WikiData/WD~Tantalus,182101]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 5,193276]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~group_5,193276]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 different_from: '[[_Standards/WikiData/WD~Q397676,397676]]'
 made_from_material:
-- "[[_Standards/WikiData/WD~fergusonite-(REE) series,412914]]"
+- "[[_Standards/WikiData/WD~fergusonite-(REE)_series,412914]]"
 - '[[_Standards/WikiData/WD~tantalite,637080]]'
 - '[[_Standards/WikiData/WD~euxenite-(Y),1146596]]'
 - '[[_Standards/WikiData/WD~microlite,2738846]]'
-- "[[_Standards/WikiData/WD~samarskite mineral group,3777808]]"
+- "[[_Standards/WikiData/WD~samarskite_mineral_group,3777808]]"
 - '[[_Standards/WikiData/WD~polycrase-(Y),3907734]]'
 - '[[_Standards/WikiData/WD~wodginite,4020618]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Anders Gustaf Ekeberg,468303]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Anders_Gustaf_Ekeberg,468303]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 canonical_SMILES: '[Ta]'
 electron_configuration: "[Xe] 4f¹⁴ 5d³ 6s²"
 EC_number: 231-135-5
@@ -42,8 +42,8 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tantalum\"]"
 InChIKey: GUVRBAGPIYLISA-UHFFFAOYSA-N
 InChI: InChI=1S/Ta
 RTECS_number: WW5505000
-associated_hazard: "[[_Standards/WikiData/WD~tantalum exposure,21175333]]"
-has_effect: "[[_Standards/WikiData/WD~tantalum exposure,21175333]]"
+associated_hazard: "[[_Standards/WikiData/WD~tantalum_exposure,21175333]]"
+has_effect: "[[_Standards/WikiData/WD~tantalum_exposure,21175333]]"
 UMLS_CUI: C0039297
 Common_Procurement_Vocabulary_code:
 - 14754000-1

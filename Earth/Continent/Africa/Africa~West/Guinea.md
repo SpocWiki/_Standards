@@ -1,76 +1,76 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Economic Community of West African States,193272]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Mano River Union,1505172]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Mano_River_Union,1505172]]"
 - '[[_Standards/WikiData/WD~OHADA,2029901]]'
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-flag: "[[_Standards/WikiData/WD~flag of Guinea,165500]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Guinea,165500]]"
 different_from: '[[_Standards/WikiData/WD~Guinea,190146]]'
-replaces: "[[_Standards/WikiData/WD~French West Africa,210682]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Guinea,213018]]"
+replaces: "[[_Standards/WikiData/WD~French_West_Africa,210682]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Guinea,213018]]"
 anthem: '[[_Standards/WikiData/WD~Liberté,747890]]'
-highest_point: "[[_Standards/WikiData/WD~Mount Richard-Molard,849129]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Richard-Molard,849129]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Boké Region,862611]]"
-- "[[_Standards/WikiData/WD~Labé Region,868515]]"
-- "[[_Standards/WikiData/WD~Kindia Region,868520]]"
-- "[[_Standards/WikiData/WD~Nzérékoré Region,870146]]"
-- "[[_Standards/WikiData/WD~Faranah Region,870166]]"
-- "[[_Standards/WikiData/WD~Kankan Region,870191]]"
-- "[[_Standards/WikiData/WD~Mamou Region,1043650]]"
+- "[[_Standards/WikiData/WD~Boké_Region,862611]]"
+- "[[_Standards/WikiData/WD~Labé_Region,868515]]"
+- "[[_Standards/WikiData/WD~Kindia_Region,868520]]"
+- "[[_Standards/WikiData/WD~Nzérékoré_Region,870146]]"
+- "[[_Standards/WikiData/WD~Faranah_Region,870166]]"
+- "[[_Standards/WikiData/WD~Kankan_Region,870191]]"
+- "[[_Standards/WikiData/WD~Mamou_Region,1043650]]"
 - '[[_Standards/WikiData/WD~Conakry,3733]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type K,1502017]]"
+- "[[_Standards/WikiData/WD~Type_K,1502017]]"
 language_used:
 - '[[_Standards/WikiData/WD~Dan,1158971]]'
 - '[[_Standards/WikiData/WD~Pulaar,1420205]]'
 - '[[_Standards/WikiData/WD~Kono,3198703]]'
 - '[[_Standards/WikiData/WD~Kuranko,3198896]]'
-- "[[_Standards/WikiData/WD~Baga Sobané,3450433]]"
-- "[[_Standards/WikiData/WD~Baga Kaloum,3502293]]"
+- "[[_Standards/WikiData/WD~Baga_Sobané,3450433]]"
+- "[[_Standards/WikiData/WD~Baga_Kaloum,3502293]]"
 - '[[_Standards/WikiData/WD~Mano,3913286]]'
 - '[[_Standards/WikiData/WD~Kakabe,3913966]]'
 - '[[_Standards/WikiData/WD~Jahanka,3913992]]'
 - '[[_Standards/WikiData/WD~Mixifore,3914478]]'
 - '[[_Standards/WikiData/WD~Pular,3915357]]'
 - '[[_Standards/WikiData/WD~Lele,6520837]]'
-- "[[_Standards/WikiData/WD~Eastern Maninkaka,11002130]]"
+- "[[_Standards/WikiData/WD~Eastern_Maninkaka,11002130]]"
 - '[[_Standards/WikiData/WD~Manya,11006832]]'
-- "[[_Standards/WikiData/WD~East Limba,11034212]]"
-- "[[_Standards/WikiData/WD~Guinea Kpelle,11052867]]"
+- "[[_Standards/WikiData/WD~East_Limba,11034212]]"
+- "[[_Standards/WikiData/WD~Guinea_Kpelle,11052867]]"
 - '[[_Standards/WikiData/WD~Toma,11055484]]'
-- "[[_Standards/WikiData/WD~Sankaran Maninka,11155812]]"
-- "[[_Standards/WikiData/WD~Konyanka Maninka,11163298]]"
-- "[[_Standards/WikiData/WD~Guinean Sign Language,15983937]]"
+- "[[_Standards/WikiData/WD~Sankaran_Maninka,11155812]]"
+- "[[_Standards/WikiData/WD~Konyanka_Maninka,11163298]]"
+- "[[_Standards/WikiData/WD~Guinean_Sign_Language,15983937]]"
 - '[[_Standards/WikiData/WD~NKo,18546266]]'
-- "[[_Standards/WikiData/WD~Northern Kissi,19921576]]"
+- "[[_Standards/WikiData/WD~Northern_Kissi,19921576]]"
 - '[[_Standards/WikiData/WD~Pukur,31172660]]'
 - '[[_Standards/WikiData/WD~Kla-Dan,63257856]]'
 - '[[_Standards/WikiData/WD~French,150]]'
@@ -80,22 +80,22 @@ language_used:
 - '[[_Standards/WikiData/WD~Bainouk-Gunyuño,35508]]'
 - '[[_Standards/WikiData/WD~Yalunka,35524]]'
 - '[[_Standards/WikiData/WD~Landoma,35568]]'
-- "[[_Standards/WikiData/WD~Baga Koga,35695]]"
+- "[[_Standards/WikiData/WD~Baga_Koga,35695]]"
 - '[[_Standards/WikiData/WD~Manding,35772]]'
-- "[[_Standards/WikiData/WD~Baga Manduri,35815]]"
+- "[[_Standards/WikiData/WD~Baga_Manduri,35815]]"
 - '[[_Standards/WikiData/WD~Mbulungish,36003]]'
 - '[[_Standards/WikiData/WD~Nalu,36026]]'
-- "[[_Standards/WikiData/WD~Baga Sitemu,36466]]"
+- "[[_Standards/WikiData/WD~Baga_Sitemu,36466]]"
 - '[[_Standards/WikiData/WD~Wamey,36935]]'
 - '[[_Standards/WikiData/WD~Zialo,36991]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Guinea,1192380]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Guinea,1524881]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,1853235]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Guinea,2088555]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Guinea,2658310]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of the Republic of Guinea,2882980]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Guinea,1192380]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Guinea,1524881]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1853235]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Guinea,2088555]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Guinea,2658310]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_the_Republic_of_Guinea,2882980]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~117,4547615]]'
@@ -104,19 +104,19 @@ emergency_phone_number:
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Conakry,4689487]]'
 - '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Guinea,7112281]]"
-culture: "[[_Standards/WikiData/WD~culture of Guinea,7884258]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Guinea,7112281]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Guinea,7884258]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q8050375,8050375]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guinea,11303345]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Guinea,14917303]]"
-head_of_government: "[[_Standards/WikiData/WD~Bah Oury,22209348]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Guinea,28015517]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Guinea,14917303]]"
+head_of_government: "[[_Standards/WikiData/WD~Bah_Oury,22209348]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Guinea,28015517]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q42043322,42043322]]'
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-motto: "[[_Standards/WikiData/WD~Work, Justice, Solidarity,77669393]]"
-follows: "[[_Standards/WikiData/WD~People's Revolutionary Republic of Guinea,98605707]]"
-head_of_state: "[[_Standards/WikiData/WD~Mamady Doumbouya,108418519]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+motto: "[[_Standards/WikiData/WD~Work,_Justice,_Solidarity,77669393]]"
+follows: "[[_Standards/WikiData/WD~People's_Revolutionary_Republic_of_Guinea,98605707]]"
+head_of_state: "[[_Standards/WikiData/WD~Mamady_Doumbouya,108418519]]"
 coordinates_of_southernmost_point: "Point(-9.10802 7.19067)"
 UMLS_CUI: C0018381
 demonym:
@@ -167,28 +167,28 @@ motto_text:
 - "ߓߊ߯ߙߊ ߸ߕߋߟߋ߲ ߸ߢߐ߲߯ߘߍߡߍ߲"
 coordinates_of_westernmost_point: "Point(-15.36532 10.61656)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Sweden,34]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Mali,912]]'
 - '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+- "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 country: '[[_Standards/WikiData/WD~Guinea,1006]]'
 capital: '[[_Standards/WikiData/WD~Conakry,3733]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~West Africa,4412]]"
-part_of: "[[_Standards/WikiData/WD~West Africa,4412]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
+part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 official_language: '[[_Standards/WikiData/WD~French,150]]'
 unemployment_rate: 2
 age_of_majority: 18

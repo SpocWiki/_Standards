@@ -4,20 +4,20 @@ SpocWebEntityId: 21997
 has_id_wikidata: Q1901
 different_from: '[[_Standards/WikiData/WD~Nobel,224138]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox nobelium,8085379]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Elements,11165030]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_nobelium,8085379]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65411346,65411346]]'
 UMLS_CUI: C0028237
-named_after: "[[_Standards/WikiData/WD~Alfred Nobel,23810]]"
+named_after: "[[_Standards/WikiData/WD~Alfred_Nobel,23810]]"
 electronegativity: 1.3
 atomic_number: 102
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 PubChem_CID: 24822
 OmegaWiki_Defined_Meaning: 339858
 chemical_formula: No

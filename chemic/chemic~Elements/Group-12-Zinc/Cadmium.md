@@ -19,45 +19,45 @@ InChI: InChI=1S/Cd
 Krugosvet_article: nauka_i_tehnika/himiya/KADMI.html
 Unicode_character: 鎘
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Karl Samuel Leberecht Hermann,69080]]"
-- "[[_Standards/WikiData/WD~Friedrich Stromeyer,77309]]"
+- "[[_Standards/WikiData/WD~Karl_Samuel_Leberecht_Hermann,69080]]"
+- "[[_Standards/WikiData/WD~Friedrich_Stromeyer,77309]]"
 has_use:
 - '[[_Standards/WikiData/WD~pigment,161179]]'
 - '[[_Standards/WikiData/WD~photodetector,210765]]'
-- "[[_Standards/WikiData/WD~nuclear poison,221033]]"
-- "[[_Standards/WikiData/WD~nickel–cadmium battery,898377]]"
-- "[[_Standards/WikiData/WD~helium–cadmium laser,1271190]]"
-- "[[_Standards/WikiData/WD~quantum dot display,1969361]]"
+- "[[_Standards/WikiData/WD~nuclear_poison,221033]]"
+- "[[_Standards/WikiData/WD~nickel–cadmium_battery,898377]]"
+- "[[_Standards/WikiData/WD~helium–cadmium_laser,1271190]]"
+- "[[_Standards/WikiData/WD~quantum_dot_display,1969361]]"
 - '[[_Standards/WikiData/WD~electroplating,3503392]]'
-- "[[_Standards/WikiData/WD~Silver-cadmium battery,48798855]]"
-- "[[_Standards/WikiData/WD~solar cell,58803]]"
+- "[[_Standards/WikiData/WD~Silver-cadmium_battery,48798855]]"
+- "[[_Standards/WikiData/WD~solar_cell,58803]]"
 subject_has_role:
 - '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- "[[_Standards/WikiData/WD~male reproductive toxicant,55427774]]"
-- "[[_Standards/WikiData/WD~developmental toxicant,72941151]]"
+- "[[_Standards/WikiData/WD~male_reproductive_toxicant,55427774]]"
+- "[[_Standards/WikiData/WD~developmental_toxicant,72941151]]"
 part_of:
-- "[[_Standards/WikiData/WD~group 12,191875]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_12,191875]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~fly ash,236139]]"
+- "[[_Standards/WikiData/WD~fly_ash,236139]]"
 - '[[_Standards/WikiData/WD~greenockite,414138]]'
-- "[[_Standards/WikiData/WD~zinc ore,12168819]]"
+- "[[_Standards/WikiData/WD~zinc_ore,12168819]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~post-transition metal,19591]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Tedania charcoti,1809628]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Tedania_charcoti,1809628]]"
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~cadmium poisoning,3153690]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~cadmium_poisoning,3153690]]"
 UMLS_CUI: C0006632
 electron_configuration:
 - "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰"

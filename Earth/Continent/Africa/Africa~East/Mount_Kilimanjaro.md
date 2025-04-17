@@ -2,28 +2,28 @@
 aliases:
 - "Mount Kilimanjaro"
 has_id_wikidata: Q7296
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Great Rift Valley,81591]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Great_Rift_Valley,81591]]"
 part_of:
-- "[[_Standards/WikiData/WD~Great Rift Valley,81591]]"
-- "[[_Standards/WikiData/WD~Seven Summits,208126]]"
-- "[[_Standards/WikiData/WD~Highest mountain peaks of Africa,1834036]]"
-- "[[_Standards/WikiData/WD~Volcanic Seven Summits,3056175]]"
-- "[[_Standards/WikiData/WD~ultra-prominent peak,3116906]]"
-- "[[_Standards/WikiData/WD~Seven Third Summits,17084245]]"
+- "[[_Standards/WikiData/WD~Great_Rift_Valley,81591]]"
+- "[[_Standards/WikiData/WD~Seven_Summits,208126]]"
+- "[[_Standards/WikiData/WD~Highest_mountain_peaks_of_Africa,1834036]]"
+- "[[_Standards/WikiData/WD~Volcanic_Seven_Summits,3056175]]"
+- "[[_Standards/WikiData/WD~ultra-prominent_peak,3116906]]"
+- "[[_Standards/WikiData/WD~Seven_Third_Summits,17084245]]"
 made_from_material: '[[_Standards/WikiData/WD~rhyolite,190727]]'
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kilimanjaro Region,328922]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kilimanjaro_Region,328922]]"
 instance_of:
-- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
+- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
 - '[[_Standards/WikiData/WD~massif,1061151]]'
-- "[[_Standards/WikiData/WD~dormant volcano,1325302]]"
-located_in_protected_area: "[[_Standards/WikiData/WD~Kilimanjaro National Park,756790]]"
+- "[[_Standards/WikiData/WD~dormant_volcano,1325302]]"
+located_in_protected_area: "[[_Standards/WikiData/WD~Kilimanjaro_National_Park,756790]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
-different_from: "[[_Standards/WikiData/WD~Kilimanjaro International Airport,1365099]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Kibo,1394606]]"
-mountain_range: "[[_Standards/WikiData/WD~East African mountains,17009782]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+different_from: "[[_Standards/WikiData/WD~Kilimanjaro_International_Airport,1365099]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Kibo,1394606]]"
+mountain_range: "[[_Standards/WikiData/WD~East_African_mountains,17009782]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mt.%20Kilimanjaro%2012.2006.jpg"
 country: '[[_Standards/WikiData/WD~Tanzania,924]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'

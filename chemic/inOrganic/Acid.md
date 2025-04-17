@@ -2,16 +2,16 @@
 has_id_wikidata: Q11158
 has_effect: '[[_Standards/WikiData/WD~neutralization,337120]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 partially_coincident_with: '[[_Standards/WikiData/WD~sourness,2795949]]'
 different_from: '[[_Standards/WikiData/WD~Kwasy,11751647]]'
-associated_hazard: "[[_Standards/WikiData/WD~acid poisoning,21639927]]"
-instance_of: "[[_Standards/WikiData/WD~class of chemical entities with similar applications or functions,56256173]]"
-has_part_s_: "[[_Standards/WikiData/WD~acidic proton,99553188]]"
+associated_hazard: "[[_Standards/WikiData/WD~acid_poisoning,21639927]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]"
+has_part_s_: "[[_Standards/WikiData/WD~acidic_proton,99553188]]"
 UMLS_CUI: C0001128
-subclass_of: "[[_Standards/WikiData/WD~chemical compound,11173]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_compound,11173]]"
 opposite_of: '[[_Standards/WikiData/WD~base,11193]]'
 OmegaWiki_Defined_Meaning: 26
 Colon_Classification: E3

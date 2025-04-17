@@ -10,30 +10,30 @@ short_name:
 - MC
 - CHLT
 creator:
-- "[[_Standards/WikiData/WD~Wolfgang Pauli,65989]]"
-- "[[_Standards/WikiData/WD~Louis de Broglie,83331]]"
-- "[[_Standards/WikiData/WD~John Stewart Bell,370077]]"
-- "[[_Standards/WikiData/WD~Albert Einstein,937]]"
-- "[[_Standards/WikiData/WD~Max Planck,9021]]"
-- "[[_Standards/WikiData/WD~Erwin Schrödinger,9130]]"
-- "[[_Standards/WikiData/WD~John von Neumann,17455]]"
-- "[[_Standards/WikiData/WD~Werner Heisenberg,40904]]"
-- "[[_Standards/WikiData/WD~Paul Dirac,47480]]"
-- "[[_Standards/WikiData/WD~Max Born,58978]]"
-- "[[_Standards/WikiData/WD~Pascual Jordano,61761]]"
+- "[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]"
+- "[[_Standards/WikiData/WD~Louis_de_Broglie,83331]]"
+- "[[_Standards/WikiData/WD~John_Stewart_Bell,370077]]"
+- "[[_Standards/WikiData/WD~Albert_Einstein,937]]"
+- "[[_Standards/WikiData/WD~Max_Planck,9021]]"
+- "[[_Standards/WikiData/WD~Erwin_Schrödinger,9130]]"
+- "[[_Standards/WikiData/WD~John_von_Neumann,17455]]"
+- "[[_Standards/WikiData/WD~Werner_Heisenberg,40904]]"
+- "[[_Standards/WikiData/WD~Paul_Dirac,47480]]"
+- "[[_Standards/WikiData/WD~Max_Born,58978]]"
+- "[[_Standards/WikiData/WD~Pascual_Jordano,61761]]"
 part_of:
-- "[[_Standards/WikiData/WD~modern physics,658544]]"
-- "[[_Standards/WikiData/WD~quantum physics,1144457]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of quantum mechanics,2358974]]"
+- "[[_Standards/WikiData/WD~modern_physics,658544]]"
+- "[[_Standards/WikiData/WD~quantum_physics,1144457]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_quantum_mechanics,2358974]]"
 instance_of:
-- "[[_Standards/WikiData/WD~branch of physics,4162444]]"
-- "[[_Standards/WikiData/WD~physical theory,9357058]]"
+- "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
+- "[[_Standards/WikiData/WD~physical_theory,9357058]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Quantum mechanics,6534867]]"
-- "[[_Standards/WikiData/WD~Template_Quantum mechanics topics,19794166]]"
-described_by_source: "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Template_Quantum_mechanics,6534867]]"
+- "[[_Standards/WikiData/WD~Template_Quantum_mechanics_topics,19794166]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 publication_date: "1900"
-practiced_by: "[[_Standards/WikiData/WD~quantum theoretician,114964328]]"
+practiced_by: "[[_Standards/WikiData/WD~quantum_theoretician,114964328]]"
 Baidu_Tieba_name: 量子力学
 UMLS_CUI: C0034385
 MeSH_tree_code: H01.671.579.800.750

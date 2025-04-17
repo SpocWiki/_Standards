@@ -10,42 +10,42 @@ made_from_material:
 - '[[_Standards/WikiData/WD~magnesite,425450]]'
 - '[[_Standards/WikiData/WD~olivine,22693]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 3,211331]]"
-- "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
+- "[[_Standards/WikiData/WD~period_3,211331]]"
+- "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~period 3,211331]]"
-- "[[_Standards/WikiData/WD~simple substance,2512777]]"
-- "[[_Standards/WikiData/WD~alkaline earth metal,19563]]"
-named_after: "[[_Standards/WikiData/WD~magnesium oxide,214769]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Joseph Black,272512]]"
+- "[[_Standards/WikiData/WD~period_3,211331]]"
+- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+- "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
+named_after: "[[_Standards/WikiData/WD~magnesium_oxide,214769]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Joseph_Black,272512]]"
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Hibiscus sabdariffa,319390]]"
-- "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
-- "[[_Standards/WikiData/WD~Phytelephas aequatorialis,2709988]]"
-- "[[_Standards/WikiData/WD~Montanoa tomentosa,6904440]]"
-- "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
-- "[[_Standards/WikiData/WD~Montanoa frutescens,15564776]]"
-- "[[_Standards/WikiData/WD~Montanoa grandiflora,15564965]]"
-- "[[_Standards/WikiData/WD~Montanoa leucantha,15565960]]"
-- "[[_Standards/WikiData/WD~Chamomilla recutita,50837010]]"
-- "[[_Standards/WikiData/WD~Matricaria chamomilla,28437]]"
+- "[[_Standards/WikiData/WD~Hibiscus_sabdariffa,319390]]"
+- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+- "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+- "[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]"
+- "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
+- "[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]"
+- "[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]"
+- "[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]"
+- "[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]"
+- "[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]"
 - '[[_Standards/WikiData/WD~cacao,42385]]'
-- "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 - '[[_Standards/WikiData/WD~Magnesium,108309332]]'
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 time_of_discovery_or_invention: "1755"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20magnesium%20crystal.webm"
 different_from: '[[_Standards/WikiData/WD~manganese,731]]'
-location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 oxidation_state:
 - 1
 - 2

@@ -11,8 +11,8 @@ boiling_point: 3377
 mass: 50.9415
 time_of_discovery_or_invention: "1801"
 part_of:
-- "[[_Standards/WikiData/WD~group 5,193276]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_5,193276]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~vanadinite,407251]]'
 - '[[_Standards/WikiData/WD~carnotite,409100]]'
@@ -21,23 +21,23 @@ made_from_material:
 - '[[_Standards/WikiData/WD~colimaite,5144828]]'
 - '[[_Standards/WikiData/WD~ardennite-(V),19799657]]'
 - '[[_Standards/WikiData/WD~rhabdoborite-(V),55876690]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Andrés Manuel del Río,524465]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Andrés_Manuel_del_Río,524465]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-- "[[_Standards/WikiData/WD~EB-11 _ Vanadium,84669050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+- "[[_Standards/WikiData/WD~EB-11___Vanadium,84669050]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 named_after: '[[_Standards/WikiData/WD~Freyja,1647325]]'
-subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-subclass_of: "[[_Standards/WikiData/WD~transition metal,19588]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
 oxidation_state: 5
 atomic_number: 23
 ionic_radius:

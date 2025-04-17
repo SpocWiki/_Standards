@@ -1,27 +1,27 @@
 ---
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Gulf of Oman,79948]]"
-- "[[_Standards/WikiData/WD~Persian Gulf,34675]]"
-flag: "[[_Standards/WikiData/WD~flag of the United Arab Emirates,134247]]"
+- "[[_Standards/WikiData/WD~Gulf_of_Oman,79948]]"
+- "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_United_Arab_Emirates,134247]]"
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.امارات,136728]]'
 - '[[_Standards/WikiData/WD~.ae,37239]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Emirate of Ajman,159477]]"
-- "[[_Standards/WikiData/WD~Emirate of Ras Al Khaimah,170024]]"
-- "[[_Standards/WikiData/WD~Emirate of Umm Al Quwain,175021]]"
-- "[[_Standards/WikiData/WD~Emirate of Abu Dhabi,187712]]"
-- "[[_Standards/WikiData/WD~Emirate of Sharjah,188810]]"
-- "[[_Standards/WikiData/WD~Emirate of Dubai,613]]"
-- "[[_Standards/WikiData/WD~Emirate of Fujairah,4091]]"
+- "[[_Standards/WikiData/WD~Emirate_of_Ajman,159477]]"
+- "[[_Standards/WikiData/WD~Emirate_of_Ras_Al_Khaimah,170024]]"
+- "[[_Standards/WikiData/WD~Emirate_of_Umm_Al_Quwain,175021]]"
+- "[[_Standards/WikiData/WD~Emirate_of_Abu_Dhabi,187712]]"
+- "[[_Standards/WikiData/WD~Emirate_of_Sharjah,188810]]"
+- "[[_Standards/WikiData/WD~Emirate_of_Dubai,613]]"
+- "[[_Standards/WikiData/WD~Emirate_of_Fujairah,4091]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Bahrain,398]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
@@ -32,7 +32,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Oman,842]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
@@ -48,89 +48,89 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
-- "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
-- "[[_Standards/WikiData/WD~Organization of the Petroleum Exporting Countries,7795]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
+- "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
+- "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 head_of_state:
-- "[[_Standards/WikiData/WD~Zayed bin Sultan Al Nahyan,167846]]"
-- "[[_Standards/WikiData/WD~Khalifa bin Zayed Al Nahyan,1059948]]"
-- "[[_Standards/WikiData/WD~Mohammed Bin Zayed Al Nahyan,1951896]]"
+- "[[_Standards/WikiData/WD~Zayed_bin_Sultan_Al_Nahyan,167846]]"
+- "[[_Standards/WikiData/WD~Khalifa_bin_Zayed_Al_Nahyan,1059948]]"
+- "[[_Standards/WikiData/WD~Mohammed_Bin_Zayed_Al_Nahyan,1951896]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
-- "[[_Standards/WikiData/WD~federal monarchy,3208952]]"
-- "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of the United Arab Emirates,203740]]"
-anthem: "[[_Standards/WikiData/WD~Ishy Bilady,423807]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the United Arab Emirates,772273]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the United Arab Emirates,955006]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the United Arab Emirates,1349896]]"
+- "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
+- "[[_Standards/WikiData/WD~federal_monarchy,3208952]]"
+- "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_the_United_Arab_Emirates,203740]]"
+anthem: "[[_Standards/WikiData/WD~Ishy_Bilady,423807]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_United_Arab_Emirates,772273]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_United_Arab_Emirates,955006]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_United_Arab_Emirates,1349896]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the United Arab Emirates,1419303]]"
-replaces: "[[_Standards/WikiData/WD~Trucial States,1852345]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of the United Arab Emirates,2982584]]"
-culture: "[[_Standards/WikiData/WD~culture of the United Arab Emirates,3007320]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_United_Arab_Emirates,1419303]]"
+replaces: "[[_Standards/WikiData/WD~Trucial_States,1852345]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_the_United_Arab_Emirates,2982584]]"
+culture: "[[_Standards/WikiData/WD~culture_of_the_United_Arab_Emirates,3007320]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~999,3086706]]'
 - '[[_Standards/WikiData/WD~997,25648827]]'
 - '[[_Standards/WikiData/WD~998,25648832]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the United Arab Emirates,3174418]]"
-highest_point: "[[_Standards/WikiData/WD~Jebel Jais,3492099]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_United_Arab_Emirates,3174418]]"
+highest_point: "[[_Standards/WikiData/WD~Jebel_Jais,3492099]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-legislative_body: "[[_Standards/WikiData/WD~Federal Supreme Council,5440456]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the United Arab Emirates,7112785]]"
+legislative_body: "[[_Standards/WikiData/WD~Federal_Supreme_Council,5440456]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_United_Arab_Emirates,7112785]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_United Arab Emirates,14616373]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_United_Arab_Emirates,14616373]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Dubai,22948941]]'
 - '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of the United Arab Emirates,30101519]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_United_Arab_Emirates,30101519]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 part_of:
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-- "[[_Standards/WikiData/WD~Gulf States,109647832]]"
-- "[[_Standards/WikiData/WD~Middle East,7204]]"
-- "[[_Standards/WikiData/WD~West Asia,27293]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~Gulf_States,109647832]]"
+- "[[_Standards/WikiData/WD~Middle_East,7204]]"
+- "[[_Standards/WikiData/WD~West_Asia,27293]]"
 nominal_GDP:
 - 415021590688
 - 507534921715
 open_data_portal: '[[_Standards/WikiData/WD~bayanat.ae,97097258]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 short_name:
 - VAE
 - УАЕ
@@ -265,14 +265,14 @@ official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Oman,842]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-country: "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
-capital: "[[_Standards/WikiData/WD~Abu Dhabi,1519]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+country: "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
+capital: "[[_Standards/WikiData/WD~Abu_Dhabi,1519]]"
 language_used:
 - '[[_Standards/WikiData/WD~English,1860]]'
-- "[[_Standards/WikiData/WD~Gulf Arabic,56385]]"
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
-- "[[_Standards/WikiData/WD~Shihhi Arabic,56571]]"
+- "[[_Standards/WikiData/WD~Gulf_Arabic,56385]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Shihhi_Arabic,56571]]"
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 unemployment_rate: 4
@@ -292,7 +292,7 @@ BTI_Governance_Index:
 - 5.55
 - 6.38
 suicide_rate: 5.2
-lowest_point: "[[_Standards/WikiData/WD~Persian Gulf,34675]]"
+lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
 retirement_age: 65
 literacy_rate: 93
 Happy_Planet_Index_score: 34.3
@@ -311,7 +311,7 @@ maritime_identification_digits:
 - 470
 - 471
 GS1_country_code: 629
-head_of_government: "[[_Standards/WikiData/WD~Mohammed bin Rashid Al Maktoum,57655]]"
+head_of_government: "[[_Standards/WikiData/WD~Mohammed_bin_Rashid_Al_Maktoum,57655]]"
 area: 83600
 Human_Development_Index: 0.911
 birth_rate:

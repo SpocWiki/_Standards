@@ -3,11 +3,11 @@ type: Element
 SpocWebEntityId: 21913
 has_id_wikidata: Q658
 named_after:
-- "[[_Standards/WikiData/WD~sodium hydroxide,102769]]"
-- "[[_Standards/WikiData/WD~sodium carbonate,190227]]"
+- "[[_Standards/WikiData/WD~sodium_hydroxide,102769]]"
+- "[[_Standards/WikiData/WD~sodium_carbonate,190227]]"
 - '[[_Standards/WikiData/WD~natron,427329]]'
 - '[[_Standards/WikiData/WD~headache,86]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry Davy,131761]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~albite,182264]]'
 - '[[_Standards/WikiData/WD~seawater,184395]]'
@@ -28,37 +28,37 @@ made_from_material:
 - '[[_Standards/WikiData/WD~halite,5314]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~s-block,208106]]'
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 3,211331]]"
-- "[[_Standards/WikiData/WD~group 1,10801007]]"
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
+- "[[_Standards/WikiData/WD~period_3,211331]]"
+- "[[_Standards/WikiData/WD~group_1,10801007]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 - '[[_Standards/WikiData/WD~Sodium,84690714]]'
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Phytelephas aequatorialis,2709988]]"
-- "[[_Standards/WikiData/WD~Montanoa tomentosa,6904440]]"
-- "[[_Standards/WikiData/WD~Montanoa frutescens,15564776]]"
-- "[[_Standards/WikiData/WD~Montanoa grandiflora,15564965]]"
-- "[[_Standards/WikiData/WD~Montanoa leucantha,15565960]]"
-- "[[_Standards/WikiData/WD~Chamomilla recutita,50837010]]"
-- "[[_Standards/WikiData/WD~Matricaria chamomilla,28437]]"
+- "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+- "[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]"
+- "[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]"
+- "[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]"
+- "[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]"
+- "[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]"
+- "[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]"
 - '[[_Standards/WikiData/WD~cacao,42385]]'
 different_from:
-- "[[_Standards/WikiData/WD~sodium in biology,3337048]]"
-- "[[_Standards/WikiData/WD~serum sodium level,3963915]]"
+- "[[_Standards/WikiData/WD~sodium_in_biology,3337048]]"
+- "[[_Standards/WikiData/WD~serum_sodium_level,3963915]]"
 - '[[_Standards/WikiData/WD~sodium,114850397]]'
-- "[[_Standards/WikiData/WD~table salt,11254]]"
+- "[[_Standards/WikiData/WD~table_salt,11254]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Sodium-ar.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sodium%20Atom.png"
 electron_configuration:
@@ -84,7 +84,7 @@ oxidation_state:
 - -1
 - 0
 - 1
-location_of_discovery: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 electronegativity: 1
 atomic_number: 11
 radius:

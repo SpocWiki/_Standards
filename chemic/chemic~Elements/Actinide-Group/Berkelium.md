@@ -2,21 +2,21 @@
 type: Element
 SpocWebEntityId: 21992
 has_id_wikidata: Q1882
-location_of_discovery: "[[_Standards/WikiData/WD~University of California, Berkeley,168756]]"
+location_of_discovery: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
-- "[[_Standards/WikiData/WD~Stanley Gerald Thompson,3068373]]"
-- "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+- "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
+- "[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]"
+- "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 named_after: '[[_Standards/WikiData/WD~Berkeley,484678]]'
 different_from: '[[_Standards/WikiData/WD~Berkel,707763]]'
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox berkelium,8085557]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Berkelium%20metal.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-berk%C3%A9lium.wav"
 canonical_SMILES: '[Bk]'

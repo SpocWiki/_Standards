@@ -5,14 +5,14 @@ different_from:
 - '[[_Standards/WikiData/WD~Zumo,8075257]]'
 - '[[_Standards/WikiData/WD~juice,11550473]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
+- "[[_Standards/WikiData/WD~non-alcoholic_beverage,2647467]]"
 - '[[_Standards/WikiData/WD~juice,11550473]]'
-- "[[_Standards/WikiData/WD~sugary drink,122973887]]"
+- "[[_Standards/WikiData/WD~sugary_drink,122973887]]"
 - '[[_Standards/WikiData/WD~drink,40050]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Centre national de ressources textuelles et lexicales,2945944]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Centre_national_de_ressources_textuelles_et_lexicales,2945944]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~fruit,3314483]]'
 - '[[_Standards/WikiData/WD~vegetable,11004]]'

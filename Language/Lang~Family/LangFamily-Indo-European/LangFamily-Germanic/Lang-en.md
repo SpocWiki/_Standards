@@ -8,39 +8,39 @@ tags:
 has_id_wikidata: Q1860
 topic_s_main_template: '[[_Standards/WikiData/WD~Q23038502,23038502]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~Euro English,23580217]]"
-- "[[_Standards/WikiData/WD~Belizean English,111911970]]"
-- "[[_Standards/WikiData/WD~Jamaican English,603200]]"
+- "[[_Standards/WikiData/WD~Euro_English,23580217]]"
+- "[[_Standards/WikiData/WD~Belizean_English,111911970]]"
+- "[[_Standards/WikiData/WD~Jamaican_English,603200]]"
 - '[[_Standards/WikiData/WD~Hiberno-English,665624]]'
-- "[[_Standards/WikiData/WD~Hong Kong English,1068863]]"
-- "[[_Standards/WikiData/WD~South African English,1156228]]"
-- "[[_Standards/WikiData/WD~Indian English,1348800]]"
-- "[[_Standards/WikiData/WD~Scottish English,1553250]]"
-- "[[_Standards/WikiData/WD~Welsh English,2363292]]"
-- "[[_Standards/WikiData/WD~Caribbean English,4567134]]"
-- "[[_Standards/WikiData/WD~Nigerian English,7033019]]"
-- "[[_Standards/WikiData/WD~Quebec English,7269768]]"
-- "[[_Standards/WikiData/WD~Pakistani English,12859294]]"
-- "[[_Standards/WikiData/WD~British English,7979]]"
-- "[[_Standards/WikiData/WD~American English,7976]]"
-- "[[_Standards/WikiData/WD~Received Pronunciation,7985]]"
-- "[[_Standards/WikiData/WD~African American Vernacular English,8002]]"
-- "[[_Standards/WikiData/WD~New Zealand English,44661]]"
-- "[[_Standards/WikiData/WD~Australian English,44679]]"
-- "[[_Standards/WikiData/WD~Canadian English,44676]]"
+- "[[_Standards/WikiData/WD~Hong_Kong_English,1068863]]"
+- "[[_Standards/WikiData/WD~South_African_English,1156228]]"
+- "[[_Standards/WikiData/WD~Indian_English,1348800]]"
+- "[[_Standards/WikiData/WD~Scottish_English,1553250]]"
+- "[[_Standards/WikiData/WD~Welsh_English,2363292]]"
+- "[[_Standards/WikiData/WD~Caribbean_English,4567134]]"
+- "[[_Standards/WikiData/WD~Nigerian_English,7033019]]"
+- "[[_Standards/WikiData/WD~Quebec_English,7269768]]"
+- "[[_Standards/WikiData/WD~Pakistani_English,12859294]]"
+- "[[_Standards/WikiData/WD~British_English,7979]]"
+- "[[_Standards/WikiData/WD~American_English,7976]]"
+- "[[_Standards/WikiData/WD~Received_Pronunciation,7985]]"
+- "[[_Standards/WikiData/WD~African_American_Vernacular_English,8002]]"
+- "[[_Standards/WikiData/WD~New_Zealand_English,44661]]"
+- "[[_Standards/WikiData/WD~Australian_English,44679]]"
+- "[[_Standards/WikiData/WD~Canadian_English,44676]]"
 has_tense:
-- "[[_Standards/WikiData/WD~past perfect,23663136]]"
-- "[[_Standards/WikiData/WD~past continuous,56650537]]"
-- "[[_Standards/WikiData/WD~future perfect,1234617]]"
-- "[[_Standards/WikiData/WD~present perfect,1240211]]"
-- "[[_Standards/WikiData/WD~simple past,1392475]]"
-- "[[_Standards/WikiData/WD~simple future,1475560]]"
-- "[[_Standards/WikiData/WD~simple present,3910936]]"
-- "[[_Standards/WikiData/WD~present continuous,7240943]]"
-- "[[_Standards/WikiData/WD~continuous pluperfect,12734727]]"
-- "[[_Standards/WikiData/WD~present perfect continuous,12738495]]"
-- "[[_Standards/WikiData/WD~future continuous,12743436]]"
-- "[[_Standards/WikiData/WD~future perfect continuous,20472817]]"
+- "[[_Standards/WikiData/WD~past_perfect,23663136]]"
+- "[[_Standards/WikiData/WD~past_continuous,56650537]]"
+- "[[_Standards/WikiData/WD~future_perfect,1234617]]"
+- "[[_Standards/WikiData/WD~present_perfect,1240211]]"
+- "[[_Standards/WikiData/WD~simple_past,1392475]]"
+- "[[_Standards/WikiData/WD~simple_future,1475560]]"
+- "[[_Standards/WikiData/WD~simple_present,3910936]]"
+- "[[_Standards/WikiData/WD~present_continuous,7240943]]"
+- "[[_Standards/WikiData/WD~continuous_pluperfect,12734727]]"
+- "[[_Standards/WikiData/WD~present_perfect_continuous,12738495]]"
+- "[[_Standards/WikiData/WD~future_continuous,12743436]]"
+- "[[_Standards/WikiData/WD~future_perfect_continuous,20472817]]"
 different_from:
 - '[[_Standards/WikiData/WD~Engelsk,27909237]]'
 - '[[_Standards/WikiData/WD~Ängelsk,27909397]]'
@@ -48,26 +48,26 @@ different_from:
 - '[[_Standards/WikiData/WD~Ingles,15732177]]'
 - '[[_Standards/WikiData/WD~Englisch,15732187]]'
 - '[[_Standards/WikiData/WD~English,182]]'
-Ethnologue_language_status: "[[_Standards/WikiData/WD~0 International,29051543]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Wiktionary_About English,30450179]]"
+Ethnologue_language_status: "[[_Standards/WikiData/WD~0_International,29051543]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~Wiktionary_About_English,30450179]]"
 uses_capitalization_for:
-- "[[_Standards/WikiData/WD~calendar month,47018901]]"
-- "[[_Standards/WikiData/WD~proper noun,147276]]"
+- "[[_Standards/WikiData/WD~calendar_month,47018901]]"
+- "[[_Standards/WikiData/WD~proper_noun,147276]]"
 - '[[_Standards/WikiData/WD~demonym,217438]]'
 - '[[_Standards/WikiData/WD~linguonym,3109261]]'
-- "[[_Standards/WikiData/WD~religious denomination,13414953]]"
+- "[[_Standards/WikiData/WD~religious_denomination,13414953]]"
 - '[[_Standards/WikiData/WD~religion,9174]]'
 - '[[_Standards/WikiData/WD~language,34770]]'
-- "[[_Standards/WikiData/WD~day of the week,41825]]"
+- "[[_Standards/WikiData/WD~day_of_the_week,41825]]"
 has_grammatical_person:
-- "[[_Standards/WikiData/WD~first-person singular,51929218]]"
-- "[[_Standards/WikiData/WD~first-person plural,51929290]]"
-- "[[_Standards/WikiData/WD~second-person singular,51929369]]"
-- "[[_Standards/WikiData/WD~second-person plural,51929403]]"
-- "[[_Standards/WikiData/WD~third-person plural,51929517]]"
-- "[[_Standards/WikiData/WD~third-person masculine singular,52431955]]"
-- "[[_Standards/WikiData/WD~third-person feminine singular,52431970]]"
-- "[[_Standards/WikiData/WD~third-person neuter singular,52433289]]"
+- "[[_Standards/WikiData/WD~first-person_singular,51929218]]"
+- "[[_Standards/WikiData/WD~first-person_plural,51929290]]"
+- "[[_Standards/WikiData/WD~second-person_singular,51929369]]"
+- "[[_Standards/WikiData/WD~second-person_plural,51929403]]"
+- "[[_Standards/WikiData/WD~third-person_plural,51929517]]"
+- "[[_Standards/WikiData/WD~third-person_masculine_singular,52431955]]"
+- "[[_Standards/WikiData/WD~third-person_feminine_singular,52431970]]"
+- "[[_Standards/WikiData/WD~third-person_neuter_singular,52433289]]"
 opposite_of: '[[_Standards/WikiData/WD~non-English,66724591]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Oldspeak,76836247]]'
 permanent_duplicated_item:
@@ -75,13 +75,13 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q22001659,22001659]]'
 - '[[_Standards/WikiData/WD~English,23014481]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 number_of_speakers_writers_or_signers:
 - 753359540
 - 379007140
@@ -113,34 +113,34 @@ entry_in_abbreviations_table:
 - инг.
 - англ.
 country:
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Bahrain,398]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Tuvalu,672]]'
 - '[[_Standards/WikiData/WD~Tonga,678]]'
 - '[[_Standards/WikiData/WD~Samoa,683]]'
 - '[[_Standards/WikiData/WD~Vanuatu,686]]'
-- "[[_Standards/WikiData/WD~Solomon Islands,685]]"
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Palau,695]]'
 - '[[_Standards/WikiData/WD~Nauru,697]]'
-- "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
+- "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
 - '[[_Standards/WikiData/WD~Kiribati,710]]'
-- "[[_Standards/WikiData/WD~Marshall Islands,709]]"
+- "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Guyana,734]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-- "[[_Standards/WikiData/WD~Saint Vincent and the Grenadines,757]]"
-- "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
-- "[[_Standards/WikiData/WD~Saint Lucia,760]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
+- "[[_Standards/WikiData/WD~Saint_Vincent_and_the_Grenadines,757]]"
+- "[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]"
+- "[[_Standards/WikiData/WD~Saint_Lucia,760]]"
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 - '[[_Standards/WikiData/WD~Grenada,769]]'
-- "[[_Standards/WikiData/WD~The Bahamas,778]]"
-- "[[_Standards/WikiData/WD~Antigua and Barbuda,781]]"
+- "[[_Standards/WikiData/WD~The_Bahamas,778]]"
+- "[[_Standards/WikiData/WD~Antigua_and_Barbuda,781]]"
 - '[[_Standards/WikiData/WD~Dominica,784]]'
 - '[[_Standards/WikiData/WD~Jersey,785]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
@@ -149,20 +149,20 @@ country:
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Oman,842]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Bhutan,917]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Botswana,963]]'
 - '[[_Standards/WikiData/WD~Saint-Martin,126125]]'
-- "[[_Standards/WikiData/WD~Saint Helena, Ascension and Tristan da Cunha,192184]]"
+- "[[_Standards/WikiData/WD~Saint_Helena,_Ascension_and_Tristan_da_Cunha,192184]]"
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
-- "[[_Standards/WikiData/WD~The Gambia,1005]]"
+- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Lesotho,1013]]'
@@ -174,92 +174,92 @@ country:
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Rwanda,1037]]'
 - '[[_Standards/WikiData/WD~Seychelles,1042]]'
-- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+- "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 - '[[_Standards/WikiData/WD~Eswatini,1050]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Gibraltar,1410]]'
-- "[[_Standards/WikiData/WD~Cayman Islands,5785]]"
-- "[[_Standards/WikiData/WD~Falkland Islands,9648]]"
-- "[[_Standards/WikiData/WD~Isle of Man,9676]]"
-- "[[_Standards/WikiData/WD~United States Virgin Islands,11703]]"
+- "[[_Standards/WikiData/WD~Cayman_Islands,5785]]"
+- "[[_Standards/WikiData/WD~Falkland_Islands,9648]]"
+- "[[_Standards/WikiData/WD~Isle_of_Man,9676]]"
+- "[[_Standards/WikiData/WD~United_States_Virgin_Islands,11703]]"
 - '[[_Standards/WikiData/WD~Montserrat,13353]]'
-- "[[_Standards/WikiData/WD~American Samoa,16641]]"
-- "[[_Standards/WikiData/WD~Turks and Caicos Islands,18221]]"
+- "[[_Standards/WikiData/WD~American_Samoa,16641]]"
+- "[[_Standards/WikiData/WD~Turks_and_Caicos_Islands,18221]]"
 - '[[_Standards/WikiData/WD~Aruba,21203]]'
 - '[[_Standards/WikiData/WD~Bermuda,23635]]'
 - '[[_Standards/WikiData/WD~Guernsey,25230]]'
 - '[[_Standards/WikiData/WD~Anguilla,25228]]'
-- "[[_Standards/WikiData/WD~British Virgin Islands,25305]]"
-- "[[_Standards/WikiData/WD~Sint Maarten,26273]]"
-- "[[_Standards/WikiData/WD~Cook Islands,26988]]"
+- "[[_Standards/WikiData/WD~British_Virgin_Islands,25305]]"
+- "[[_Standards/WikiData/WD~Sint_Maarten,26273]]"
+- "[[_Standards/WikiData/WD~Cook_Islands,26988]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 - '[[_Standards/WikiData/WD~Malta,233]]'
 - '[[_Standards/WikiData/WD~Belize,242]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 - '[[_Standards/WikiData/WD~Niue,34020]]'
-- "[[_Standards/WikiData/WD~Pitcairn Islands,35672]]"
+- "[[_Standards/WikiData/WD~Pitcairn_Islands,35672]]"
 - '[[_Standards/WikiData/WD~Tokelau,36823]]'
-- "[[_Standards/WikiData/WD~British Indian Ocean Territory,43448]]"
+- "[[_Standards/WikiData/WD~British_Indian_Ocean_Territory,43448]]"
 has_grammatical_case:
-- "[[_Standards/WikiData/WD~nominative case,131105]]"
-- "[[_Standards/WikiData/WD~genitive case,146233]]"
-- "[[_Standards/WikiData/WD~oblique case,1233197]]"
+- "[[_Standards/WikiData/WD~nominative_case,131105]]"
+- "[[_Standards/WikiData/WD~genitive_case,146233]]"
+- "[[_Standards/WikiData/WD~oblique_case,1233197]]"
 instance_of:
 - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
-- "[[_Standards/WikiData/WD~standard language,399495]]"
-- "[[_Standards/WikiData/WD~literary language,1097949]]"
-- "[[_Standards/WikiData/WD~modern language,1288568]]"
-- "[[_Standards/WikiData/WD~natural language,33742]]"
+- "[[_Standards/WikiData/WD~standard_language,399495]]"
+- "[[_Standards/WikiData/WD~literary_language,1097949]]"
+- "[[_Standards/WikiData/WD~modern_language,1288568]]"
+- "[[_Standards/WikiData/WD~natural_language,33742]]"
 - '[[_Standards/WikiData/WD~language,34770]]'
 linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative–accusative language,178435]]"
-- "[[_Standards/WikiData/WD~fusional language,318917]]"
+- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
+- "[[_Standards/WikiData/WD~fusional_language,318917]]"
 - '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
 - '[[_Standards/WikiData/WD~place–manner–time,7200373]]'
-- "[[_Standards/WikiData/WD~stress-timed language,7888721]]"
+- "[[_Standards/WikiData/WD~stress-timed_language,7888721]]"
 has_phoneme:
-- "[[_Standards/WikiData/WD~voiced bilabial nasal,201817]]"
+- "[[_Standards/WikiData/WD~voiced_bilabial_nasal,201817]]"
 - '[[_Standards/WikiData/WD~schwa,209316]]'
-- "[[_Standards/WikiData/WD~voiceless bilabial plosive,237623]]"
-- "[[_Standards/WikiData/WD~voiced bilabial plosive,242797]]"
-- "[[_Standards/WikiData/WD~voiced alveolar nasal,271611]]"
-- "[[_Standards/WikiData/WD~close front unrounded vowel,320021]]"
-- "[[_Standards/WikiData/WD~voiceless dental fricative,332019]]"
-- "[[_Standards/WikiData/WD~voiceless postalveolar fricative,334695]]"
-- "[[_Standards/WikiData/WD~voiceless alveolar fricative,334723]]"
-- "[[_Standards/WikiData/WD~voiceless alveolar stop,335644]]"
-- "[[_Standards/WikiData/WD~voiceless glottal fricative,373478]]"
-- "[[_Standards/WikiData/WD~open-mid back rounded vowel,379085]]"
-- "[[_Standards/WikiData/WD~open back unrounded vowel,431471]]"
-- "[[_Standards/WikiData/WD~voiced velar nasal,463515]]"
-- "[[_Standards/WikiData/WD~voiceless velar stop,463543]]"
-- "[[_Standards/WikiData/WD~near-open central unrounded vowel,503323]]"
-- "[[_Standards/WikiData/WD~voiced alveolar fricative,506687]]"
-- "[[_Standards/WikiData/WD~voiceless palato-alveolar affricate,518603]]"
-- "[[_Standards/WikiData/WD~voiced labio-velar approximant,565654]]"
-- "[[_Standards/WikiData/WD~voiced dental fricative,654641]]"
-- "[[_Standards/WikiData/WD~voiced palato‐alveolar sibilant,654660]]"
-- "[[_Standards/WikiData/WD~voiceless labiodental fricative,654705]]"
-- "[[_Standards/WikiData/WD~voiced labiodental fricative,654787]]"
-- "[[_Standards/WikiData/WD~open back rounded vowel,740714]]"
-- "[[_Standards/WikiData/WD~near-open front unrounded vowel,740768]]"
-- "[[_Standards/WikiData/WD~voiced palato-alveolar affricate,778145]]"
-- "[[_Standards/WikiData/WD~voiced alveolar lateral approximant,815439]]"
-- "[[_Standards/WikiData/WD~voiced palatal approximant,835992]]"
-- "[[_Standards/WikiData/WD~close-mid back rounded vowel,862579]]"
-- "[[_Standards/WikiData/WD~voiced alveolar approximant,909128]]"
-- "[[_Standards/WikiData/WD~near-close near-front unrounded vowel,1070049]]"
-- "[[_Standards/WikiData/WD~near-close near-back rounded vowel,1137807]]"
-- "[[_Standards/WikiData/WD~mid front unrounded vowel,3519604]]"
-- "[[_Standards/WikiData/WD~open-mid front unrounded vowel,29462]]"
-- "[[_Standards/WikiData/WD~close back rounded vowel,29653]]"
+- "[[_Standards/WikiData/WD~voiceless_bilabial_plosive,237623]]"
+- "[[_Standards/WikiData/WD~voiced_bilabial_plosive,242797]]"
+- "[[_Standards/WikiData/WD~voiced_alveolar_nasal,271611]]"
+- "[[_Standards/WikiData/WD~close_front_unrounded_vowel,320021]]"
+- "[[_Standards/WikiData/WD~voiceless_dental_fricative,332019]]"
+- "[[_Standards/WikiData/WD~voiceless_postalveolar_fricative,334695]]"
+- "[[_Standards/WikiData/WD~voiceless_alveolar_fricative,334723]]"
+- "[[_Standards/WikiData/WD~voiceless_alveolar_stop,335644]]"
+- "[[_Standards/WikiData/WD~voiceless_glottal_fricative,373478]]"
+- "[[_Standards/WikiData/WD~open-mid_back_rounded_vowel,379085]]"
+- "[[_Standards/WikiData/WD~open_back_unrounded_vowel,431471]]"
+- "[[_Standards/WikiData/WD~voiced_velar_nasal,463515]]"
+- "[[_Standards/WikiData/WD~voiceless_velar_stop,463543]]"
+- "[[_Standards/WikiData/WD~near-open_central_unrounded_vowel,503323]]"
+- "[[_Standards/WikiData/WD~voiced_alveolar_fricative,506687]]"
+- "[[_Standards/WikiData/WD~voiceless_palato-alveolar_affricate,518603]]"
+- "[[_Standards/WikiData/WD~voiced_labio-velar_approximant,565654]]"
+- "[[_Standards/WikiData/WD~voiced_dental_fricative,654641]]"
+- "[[_Standards/WikiData/WD~voiced_palato‐alveolar_sibilant,654660]]"
+- "[[_Standards/WikiData/WD~voiceless_labiodental_fricative,654705]]"
+- "[[_Standards/WikiData/WD~voiced_labiodental_fricative,654787]]"
+- "[[_Standards/WikiData/WD~open_back_rounded_vowel,740714]]"
+- "[[_Standards/WikiData/WD~near-open_front_unrounded_vowel,740768]]"
+- "[[_Standards/WikiData/WD~voiced_palato-alveolar_affricate,778145]]"
+- "[[_Standards/WikiData/WD~voiced_alveolar_lateral_approximant,815439]]"
+- "[[_Standards/WikiData/WD~voiced_palatal_approximant,835992]]"
+- "[[_Standards/WikiData/WD~close-mid_back_rounded_vowel,862579]]"
+- "[[_Standards/WikiData/WD~voiced_alveolar_approximant,909128]]"
+- "[[_Standards/WikiData/WD~near-close_near-front_unrounded_vowel,1070049]]"
+- "[[_Standards/WikiData/WD~near-close_near-back_rounded_vowel,1137807]]"
+- "[[_Standards/WikiData/WD~mid_front_unrounded_vowel,3519604]]"
+- "[[_Standards/WikiData/WD~open-mid_front_unrounded_vowel,29462]]"
+- "[[_Standards/WikiData/WD~close_back_rounded_vowel,29653]]"
 has_grammatical_mood:
 - '[[_Standards/WikiData/WD~subjunctive,473746]]'
 - '[[_Standards/WikiData/WD~indicative,682111]]'
@@ -268,21 +268,21 @@ has_grammatical_gender:
 - '[[_Standards/WikiData/WD~masculine,499327]]'
 - '[[_Standards/WikiData/WD~feminine,1775415]]'
 - '[[_Standards/WikiData/WD~neuter,1775461]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of English,784975]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_English,784975]]"
 has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
 subclass_of: '[[_Standards/WikiData/WD~Anglic,1346342]]'
 writing_system:
-- "[[_Standards/WikiData/WD~English orthography,3491268]]"
-- "[[_Standards/WikiData/WD~Latin script,8229]]"
-signed_form: "[[_Standards/WikiData/WD~manually coded English,10302194]]"
+- "[[_Standards/WikiData/WD~English_orthography,3491268]]"
+- "[[_Standards/WikiData/WD~Latin_script,8229]]"
+signed_form: "[[_Standards/WikiData/WD~manually_coded_English,10302194]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_English,11109963]]'
-UNESCO_language_status: "[[_Standards/WikiData/WD~1 safe,20672086]]"
+UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
 influenced_by:
 - '[[_Standards/WikiData/WD~Greek,9129]]'
 - '[[_Standards/WikiData/WD~Germanic,21200]]'
 - '[[_Standards/WikiData/WD~French,150]]'
-- "[[_Standards/WikiData/WD~Vulgar Latin,37560]]"
-studied_in: "[[_Standards/WikiData/WD~English studies,27968]]"
+- "[[_Standards/WikiData/WD~Vulgar_Latin,37560]]"
+studied_in: "[[_Standards/WikiData/WD~English_studies,27968]]"
 indigenous_to: '[[_Standards/WikiData/WD~England,21]]'
 named_after: '[[_Standards/WikiData/WD~England,21]]'
 ABS_ASCL_2011_code:

@@ -7,32 +7,32 @@ MCN_code: 7104.20.10
 Krugosvet_article: Earth_sciences/geologiya/ALMAZ.html
 has_use:
 - '[[_Standards/WikiData/WD~gemstone,83437]]'
-- "[[_Standards/WikiData/WD~diamond industry,56604589]]"
+- "[[_Standards/WikiData/WD~diamond_industry,56604589]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~gemstone,83437]]'
-- "[[_Standards/WikiData/WD~allotrope of carbon,622460]]"
-- "[[_Standards/WikiData/WD~covalent network solid,632350]]"
-- "[[_Standards/WikiData/WD~native element mineral,723127]]"
-- "[[_Standards/WikiData/WD~carbon-silicon family,13292702]]"
+- "[[_Standards/WikiData/WD~allotrope_of_carbon,622460]]"
+- "[[_Standards/WikiData/WD~covalent_network_solid,632350]]"
+- "[[_Standards/WikiData/WD~native_element_mineral,723127]]"
+- "[[_Standards/WikiData/WD~carbon-silicon_family,13292702]]"
 crystal_habit: '[[_Standards/WikiData/WD~octahedron,188884]]'
 different_from: '[[_Standards/WikiData/WD~Diamond,224096]]'
 named_after: '[[_Standards/WikiData/WD~Invincible,226841]]'
-crystal_system: "[[_Standards/WikiData/WD~cubic crystal system,473227]]"
+crystal_system: "[[_Standards/WikiData/WD~cubic_crystal_system,473227]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-mineral_fracture: "[[_Standards/WikiData/WD~conchoidal fracture,2747476]]"
-instance_of: "[[_Standards/WikiData/WD~mineral species,12089225]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+mineral_fracture: "[[_Standards/WikiData/WD~conchoidal_fracture,2747476]]"
+instance_of: "[[_Standards/WikiData/WD~mineral_species,12089225]]"
 point_group: '[[_Standards/WikiData/WD~cubic-hexoctahedral,13359931]]'
-IMA_status_and_or_rank: "[[_Standards/WikiData/WD~grandfathered mineral (G),13406846]]"
+IMA_status_and_or_rank: "[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]"
 cleavage: '[[_Standards/WikiData/WD~{111},14754934]]'
-space_group: "[[_Standards/WikiData/WD~space group Fd-3m,15041895]]"
+space_group: "[[_Standards/WikiData/WD~space_group_Fd-3m,15041895]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Diamonds.jpg"
 Baidu_Tieba_name: 钻石
 UMLS_CUI: C0057717

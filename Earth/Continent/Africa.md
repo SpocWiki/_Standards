@@ -11,41 +11,41 @@ tags:
 isDeleted: false
 icon: earth_africa
 instance_of:
-- "[[_Standards/WikiData/WD~geographic region,82794]]"
-- "[[_Standards/WikiData/WD~geographic location,2221906]]"
+- "[[_Standards/WikiData/WD~geographic_region,82794]]"
+- "[[_Standards/WikiData/WD~geographic_location,2221906]]"
 - '[[_Standards/WikiData/WD~continent,5107]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Africa,149813]]"
-lowest_point: "[[_Standards/WikiData/WD~Afar Triangle,217223]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Africa,149813]]"
+lowest_point: "[[_Standards/WikiData/WD~Afar_Triangle,217223]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Oxford Encyclopedia of African Thought,22639418]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]"
 different_from:
 - '[[_Standards/WikiData/WD~Afrika,344797]]'
 - '[[_Standards/WikiData/WD~Africa,383824]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~Aethiopia,410453]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Africa,580864]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Africa,781650]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Kibo,1394606]]"
-owner_of: "[[_Standards/WikiData/WD~International Council of African Museums,1666473]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Africa,580864]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Africa,781650]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Kibo,1394606]]"
+owner_of: "[[_Standards/WikiData/WD~International_Council_of_African_Museums,1666473]]"
 part_of:
 - '[[_Standards/WikiData/WD~Ostfeste,2035462]]'
 - '[[_Standards/WikiData/WD~Afro-Asia,125965270]]'
 - '[[_Standards/WikiData/WD~Earth,2]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Africa,3037005]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Africa,3037005]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Countries of Africa,5615646]]"
-- "[[_Standards/WikiData/WD~Template_Africa topic,55511]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Africa,7112174]]"
+- "[[_Standards/WikiData/WD~Template_Countries_of_Africa,5615646]]"
+- "[[_Standards/WikiData/WD~Template_Africa_topic,55511]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Africa,7112174]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Africa,7486129]]'
 geoshape: "http://commons.wikimedia.org/data/main/Data:Africa+Flickr.map"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20%28orthographic%20projection%29.svg"
@@ -83,17 +83,17 @@ demonym:
 - African
 - африқоӣ
 - Africain
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828260,22828260]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q32816044,32816044]]'
 Baidu_Tieba_name: 非洲
 Provenio_UUID: a397e2ad-fe3c-477f-bd0e-26b2c70f8d34
 has_part_s_:
-- "[[_Standards/WikiData/WD~West Africa,4412]]"
-- "[[_Standards/WikiData/WD~North Africa,27381]]"
-- "[[_Standards/WikiData/WD~Southern Africa,27394]]"
-- "[[_Standards/WikiData/WD~East Africa,27407]]"
-- "[[_Standards/WikiData/WD~Central Africa,27433]]"
+- "[[_Standards/WikiData/WD~West_Africa,4412]]"
+- "[[_Standards/WikiData/WD~North_Africa,27381]]"
+- "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
+- "[[_Standards/WikiData/WD~East_Africa,27407]]"
+- "[[_Standards/WikiData/WD~Central_Africa,27433]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Eurasia,5401]]'
 - '[[_Standards/WikiData/WD~Asia,48]]'
@@ -108,11 +108,11 @@ population: 1200000000
 vehicles_per_thousand_people: 44
 number_of_out_of_school_children: 101000000
 studied_in:
-- "[[_Standards/WikiData/WD~Africana studies,37542]]"
-- "[[_Standards/WikiData/WD~African studies,38157]]"
+- "[[_Standards/WikiData/WD~Africana_studies,37542]]"
+- "[[_Standards/WikiData/WD~African_studies,38157]]"
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~Northern Hemisphere,39061]]"
-- "[[_Standards/WikiData/WD~Southern Hemisphere,41228]]"
+- "[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]"
+- "[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]"
 OmegaWiki_Defined_Meaning: 71
 area: 30271000
 social_media_followers: 104436

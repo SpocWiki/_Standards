@@ -2,25 +2,25 @@
 type: Element
 SpocWebEntityId: 21950
 has_id_wikidata: Q1106
-location_of_discovery: "[[_Standards/WikiData/WD~University College London,193196]]"
+location_of_discovery: "[[_Standards/WikiData/WD~University_College_London,193196]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~noble gases,19609]]"
-subclass_of: "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~noble_gases,19609]]"
+subclass_of: "[[_Standards/WikiData/WD~period_5,244982]]"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Morris Travers,380209]]"
-- "[[_Standards/WikiData/WD~William Ramsay,950726]]"
+- "[[_Standards/WikiData/WD~Morris_Travers,380209]]"
+- "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-subject_has_role: "[[_Standards/WikiData/WD~inhalational anaesthetic,909194]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+subject_has_role: "[[_Standards/WikiData/WD~inhalational_anaesthetic,909194]]"
 instance_of:
-- "[[_Standards/WikiData/WD~atmophile element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 - '[[_Standards/WikiData/WD~gas,11432]]'
-conjugate_acid: "[[_Standards/WikiData/WD~xenonium ion,8043637]]"
+conjugate_acid: "[[_Standards/WikiData/WD~xenonium_ion,8043637]]"
 has_characteristic:
 - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
 - '[[_Standards/WikiData/WD~odorlessness,30007162]]'

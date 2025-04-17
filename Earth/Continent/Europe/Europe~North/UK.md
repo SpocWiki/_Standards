@@ -27,67 +27,67 @@ aliases:
 - Britain
 icon: flag-gb
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
-- "[[_Standards/WikiData/WD~European Free Trade Association,166546]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~states with nuclear weapons,189062]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Southeast Asia Treaty Organization,277252]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Organisation for Joint Armament Cooperation,521227]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+- "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~states_with_nuclear_weapons,189062]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
 - '[[_Standards/WikiData/WD~G7,1764511]]'
 - '[[_Standards/WikiData/WD~ANZUK,2625543]]'
-- "[[_Standards/WikiData/WD~ABCANZ Armies,2863003]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
+- "[[_Standards/WikiData/WD~ABCANZ_Armies,2863003]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
 - '[[_Standards/WikiData/WD~AUSCANNZUKUS,4033111]]'
-- "[[_Standards/WikiData/WD~Air Force Interoperability Council,4426267]]"
-- "[[_Standards/WikiData/WD~Combined Communications-Electronics Board,5150848]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~The Technical Cooperation Program,7768229]]"
-- "[[_Standards/WikiData/WD~Five Eyes,15978258]]"
+- "[[_Standards/WikiData/WD~Air_Force_Interoperability_Council,4426267]]"
+- "[[_Standards/WikiData/WD~Combined_Communications-Electronics_Board,5150848]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~The_Technical_Cooperation_Program,7768229]]"
+- "[[_Standards/WikiData/WD~Five_Eyes,15978258]]"
 - '[[_Standards/WikiData/WD~AUKUS,108556886]]'
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
 - '[[_Standards/WikiData/WD~G8,37143]]'
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-flag: "[[_Standards/WikiData/WD~flag of the United Kingdom,83278]]"
-highest_point: "[[_Standards/WikiData/WD~Ben Nevis,104674]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_United_Kingdom,83278]]"
+highest_point: "[[_Standards/WikiData/WD~Ben_Nevis,104674]]"
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~colonial power,20181813]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~colonial_power,20181813]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of the United Kingdom,113162]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the United Kingdom,129373]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_United_Kingdom,129373]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
@@ -97,15 +97,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-- "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
+- "[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]"
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
@@ -115,10 +115,10 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kuwait,817]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
@@ -129,13 +129,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Hong Kong,8646]]"
-- "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
+- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
+- "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -152,7 +152,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -167,28 +167,28 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
-- "[[_Standards/WikiData/WD~San Marino,238]]"
+- "[[_Standards/WikiData/WD~San_Marino,238]]"
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-coat_of_arms: "[[_Standards/WikiData/WD~royal coat of arms of the United Kingdom,165762]]"
+coat_of_arms: "[[_Standards/WikiData/WD~royal_coat_of_arms_of_the_United_Kingdom,165762]]"
 different_from:
-- "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
-- "[[_Standards/WikiData/WD~Great Britain,107482134]]"
-- "[[_Standards/WikiData/WD~realm of the United Kingdom,124653007]]"
+- "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+- "[[_Standards/WikiData/WD~Great_Britain,107482134]]"
+- "[[_Standards/WikiData/WD~realm_of_the_United_Kingdom,124653007]]"
 - '[[_Standards/WikiData/WD~Britain,23666]]'
-replaces: "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
-follows: "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
+replaces: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+follows: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~Saint Patrick's Day,181817]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~Boxing Day,956699]]"
+- "[[_Standards/WikiData/WD~Saint_Patrick's_Day,181817]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~Boxing_Day,956699]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
-- "[[_Standards/WikiData/WD~Good Friday,40317]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of England,183231]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the United Kingdom,323138]]"
+- "[[_Standards/WikiData/WD~Good_Friday,40317]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_England,183231]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_United_Kingdom,323138]]"
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.gb,433862]]'
 - '[[_Standards/WikiData/WD~.uk,37913]]'
@@ -196,54 +196,54 @@ language_used:
 - '[[_Standards/WikiData/WD~Angloromani,541279]]'
 - '[[_Standards/WikiData/WD~Polari,1359130]]'
 - '[[_Standards/WikiData/WD~Welsh-Romani,2097387]]'
-- "[[_Standards/WikiData/WD~Scottish Cant,3915671]]"
+- "[[_Standards/WikiData/WD~Scottish_Cant,3915671]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Irish,9142]]'
 - '[[_Standards/WikiData/WD~Welsh,9309]]'
-- "[[_Standards/WikiData/WD~Scottish Gaelic,9314]]"
+- "[[_Standards/WikiData/WD~Scottish_Gaelic,9314]]"
 - '[[_Standards/WikiData/WD~Scots,14549]]'
 - '[[_Standards/WikiData/WD~Cornish,25289]]'
-- "[[_Standards/WikiData/WD~British Sign Language,33000]]"
+- "[[_Standards/WikiData/WD~British_Sign_Language,33000]]"
 - '[[_Standards/WikiData/WD~Shelta,36705]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-has_cabinet: "[[_Standards/WikiData/WD~Privy Council of the United Kingdom,683120]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Australian National Maritime Museum,844329]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of the United Kingdom,1122261]]"
-lowest_point: "[[_Standards/WikiData/WD~The Fens,1404827]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the United Kingdom,1983621]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+has_cabinet: "[[_Standards/WikiData/WD~Privy_Council_of_the_United_Kingdom,683120]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_the_United_Kingdom,1122261]]"
+lowest_point: "[[_Standards/WikiData/WD~The_Fens,1404827]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_United_Kingdom,1983621]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~مسح,2580491]]'
-- "[[_Standards/WikiData/WD~Black Britons,3244280]]"
-- "[[_Standards/WikiData/WD~British Indians,4115170]]"
-- "[[_Standards/WikiData/WD~White British,7994501]]"
+- "[[_Standards/WikiData/WD~Black_Britons,3244280]]"
+- "[[_Standards/WikiData/WD~British_Indians,4115170]]"
+- "[[_Standards/WikiData/WD~White_British,7994501]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~999,3086706]]'
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great Seal of the Realm,3114830]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-part_of: "[[_Standards/WikiData/WD~Common Travel Area,3324796]]"
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great_Seal_of_the_Realm,3114830]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+part_of: "[[_Standards/WikiData/WD~Common_Travel_Area,3324796]]"
 open_data_portal: '[[_Standards/WikiData/WD~data.gov.uk,5227103]]'
-head_of_government: "[[_Standards/WikiData/WD~Keir Starmer,6383803]]"
+head_of_government: "[[_Standards/WikiData/WD~Keir_Starmer,6383803]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Country data United Kingdom,6435191]]"
-- "[[_Standards/WikiData/WD~Template_Country data Great Britain,7665937]]"
-- "[[_Standards/WikiData/WD~Template_United Kingdom topics,8457352]]"
-- "[[_Standards/WikiData/WD~Template_United Kingdom infobox,10730823]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the United Kingdom,7112788]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_United Kingdom,8253451]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of the United Kingdom,9134365]]"
+- "[[_Standards/WikiData/WD~Template_Country_data_United_Kingdom,6435191]]"
+- "[[_Standards/WikiData/WD~Template_Country_data_Great_Britain,7665937]]"
+- "[[_Standards/WikiData/WD~Template_United_Kingdom_topics,8457352]]"
+- "[[_Standards/WikiData/WD~Template_United_Kingdom_infobox,10730823]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_United_Kingdom,7112788]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_United_Kingdom,8253451]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_the_United_Kingdom,9134365]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 named_after: '[[_Standards/WikiData/WD~union,17853087]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828650,22828650]]'
 category_of_associated_people: '[[_Standards/WikiData/WD~Q32670711,32670711]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
 Gregorian_calendar_start_date: "1752-09-14"
 coordinates_of_northernmost_point: "Point(-0.87 60.87)"
 Baidu_Tieba_name: 英国
@@ -346,19 +346,19 @@ coordinates_of_southernmost_point: "Point(-5.20697638 49.95673883)"
 coordinates_of_easternmost_point: "Point(1.76297307 52.48106832)"
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
-executive_body: "[[_Standards/WikiData/WD~Government of the United Kingdom,6063]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_the_United_Kingdom,6063]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
-legislative_body: "[[_Standards/WikiData/WD~Parliament of the United Kingdom,11010]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of the United Kingdom,14211]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_the_United_Kingdom,11010]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_United_Kingdom,14211]]"
 located_in_on_physical_feature:
 - '[[_Standards/WikiData/WD~Ireland,22890]]'
 - '[[_Standards/WikiData/WD~Britain,23666]]'
-- "[[_Standards/WikiData/WD~British Isles,38272]]"
-culture: "[[_Standards/WikiData/WD~culture of the United Kingdom,32501]]"
+- "[[_Standards/WikiData/WD~British_Isles,38272]]"
+culture: "[[_Standards/WikiData/WD~culture_of_the_United_Kingdom,32501]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Scotland,22]]'
 - '[[_Standards/WikiData/WD~England,21]]'
-- "[[_Standards/WikiData/WD~Northern Ireland,26]]"
+- "[[_Standards/WikiData/WD~Northern_Ireland,26]]"
 shares_border_with: '[[_Standards/WikiData/WD~Ireland,27]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 capital: '[[_Standards/WikiData/WD~London,84]]'
@@ -366,7 +366,7 @@ VAT_rate:
 - 0
 - 20
 - 5
-country: "[[_Standards/WikiData/WD~United Kingdom,145]]"
+country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 birth_rate:
 - 10
 - 10.1
@@ -386,7 +386,7 @@ Happy_Planet_Index_score: 56
 suicide_rate: 6.9
 Inequality_adjusted_Human_Development_Index: 0.85
 total_fertility_rate: 1.83
-anthem: "[[_Standards/WikiData/WD~God Save the King,40807]]"
+anthem: "[[_Standards/WikiData/WD~God_Save_the_King,40807]]"
 Krugosvet_article: Earth_sciences/geografiya/SOEDINENNOE_KOROLEVSTVO_VELIKOBRITANII_I_SEVERNO_IRLANDII.html
 Wolfram_Language_entity_code: "Entity[\"Country\", \"UnitedKingdom\"]"
 Wikitribune_category: europe/united-kingdom
@@ -456,9 +456,9 @@ urban_population:
 - 56403965
 - 57214248
 population: 67326569
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 Gini_coefficient: 32.8
-head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 trunk_prefix: 0
 Democracy_Index: 8.54
 Human_Development_Index: 0.929

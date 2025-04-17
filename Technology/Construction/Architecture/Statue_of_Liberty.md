@@ -21,65 +21,65 @@ Danbooru_tag: statue_of_liberty
 hashtag: StatueOfLiberty
 title: "Liberty Enlightening The World"
 inscription: "JULY IV MDCCLXXVI"
-country_of_origin: "[[_Standards/WikiData/WD~French Third Republic,70802]]"
+country_of_origin: "[[_Standards/WikiData/WD~French_Third_Republic,70802]]"
 instance_of:
 - '[[_Standards/WikiData/WD~statue,179700]]'
-- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
-- "[[_Standards/WikiData/WD~observation tower,1440300]]"
-- "[[_Standards/WikiData/WD~part of UNESCO World Heritage Site,43113623]]"
+- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+- "[[_Standards/WikiData/WD~observation_tower,1440300]]"
+- "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
 creator:
-- "[[_Standards/WikiData/WD~Frédéric Auguste Bartholdi,223274]]"
-- "[[_Standards/WikiData/WD~Richard Morris Hunt,940298]]"
-- "[[_Standards/WikiData/WD~Gustave Eiffel,20882]]"
-architect: "[[_Standards/WikiData/WD~Eugène Viollet-le-Duc,272912]]"
-commissioned_by: "[[_Standards/WikiData/WD~Édouard René Lefèbvre de Laboulaye,274429]]"
-owned_by: "[[_Standards/WikiData/WD~National Park Service,308439]]"
-maintained_by: "[[_Standards/WikiData/WD~National Park Service,308439]]"
+- "[[_Standards/WikiData/WD~Frédéric_Auguste_Bartholdi,223274]]"
+- "[[_Standards/WikiData/WD~Richard_Morris_Hunt,940298]]"
+- "[[_Standards/WikiData/WD~Gustave_Eiffel,20882]]"
+architect: "[[_Standards/WikiData/WD~Eugène_Viollet-le-Duc,272912]]"
+commissioned_by: "[[_Standards/WikiData/WD~Édouard_René_Lefèbvre_de_Laboulaye,274429]]"
+owned_by: "[[_Standards/WikiData/WD~National_Park_Service,308439]]"
+maintained_by: "[[_Standards/WikiData/WD~National_Park_Service,308439]]"
 located_in_protected_area:
-- "[[_Standards/WikiData/WD~Liberty Island,319821]]"
-- "[[_Standards/WikiData/WD~Statue of Liberty National Monument,359939]]"
+- "[[_Standards/WikiData/WD~Liberty_Island,319821]]"
+- "[[_Standards/WikiData/WD~Statue_of_Liberty_National_Monument,359939]]"
 location_of_creation:
-- "[[_Standards/WikiData/WD~Liberty Island,319821]]"
+- "[[_Standards/WikiData/WD~Liberty_Island,319821]]"
 - '[[_Standards/WikiData/WD~Paris,90]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Liberty Island,319821]]"
-location: "[[_Standards/WikiData/WD~Liberty Island,319821]]"
-part_of: "[[_Standards/WikiData/WD~Statue of Liberty National Monument,359939]]"
-collection: "[[_Standards/WikiData/WD~Statue of Liberty National Monument,359939]]"
-different_from: "[[_Standards/WikiData/WD~Statue of Liberty,408577]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Liberty_Island,319821]]"
+location: "[[_Standards/WikiData/WD~Liberty_Island,319821]]"
+part_of: "[[_Standards/WikiData/WD~Statue_of_Liberty_National_Monument,359939]]"
+collection: "[[_Standards/WikiData/WD~Statue_of_Liberty_National_Monument,359939]]"
+different_from: "[[_Standards/WikiData/WD~Statue_of_Liberty,408577]]"
 depicts:
 - '[[_Standards/WikiData/WD~contrapposto,514847]]'
 - '[[_Standards/WikiData/WD~Liberty,833490]]'
 - '[[_Standards/WikiData/WD~Libertas,1129855]]'
 - '[[_Standards/WikiData/WD~drapery,3039121]]'
-- "[[_Standards/WikiData/WD~radiant crown,17077242]]"
+- "[[_Standards/WikiData/WD~radiant_crown,17077242]]"
 - '[[_Standards/WikiData/WD~woman,467]]'
 - '[[_Standards/WikiData/WD~book,571]]'
 genre:
-- "[[_Standards/WikiData/WD~public art,557141]]"
-- "[[_Standards/WikiData/WD~colossal statue,1779653]]"
-- "[[_Standards/WikiData/WD~monumental sculpture,3476533]]"
-- "[[_Standards/WikiData/WD~allegorical sculpture,4731380]]"
+- "[[_Standards/WikiData/WD~public_art,557141]]"
+- "[[_Standards/WikiData/WD~colossal_statue,1779653]]"
+- "[[_Standards/WikiData/WD~monumental_sculpture,3476533]]"
+- "[[_Standards/WikiData/WD~allegorical_sculpture,4731380]]"
 fabrication_method: '[[_Standards/WikiData/WD~repoussé,656884]]'
 made_from_material:
-- "[[_Standards/WikiData/WD~gold leaf,929186]]"
+- "[[_Standards/WikiData/WD~gold_leaf,929186]]"
 - '[[_Standards/WikiData/WD~copper,753]]'
 - '[[_Standards/WikiData/WD~steel,11427]]'
 - '[[_Standards/WikiData/WD~concrete,22657]]'
 - '[[_Standards/WikiData/WD~granite,41177]]'
 heritage_designation:
-- "[[_Standards/WikiData/WD~National Register of Historic Places contributing property,1129142]]"
-- "[[_Standards/WikiData/WD~National Register of Historic Places listed place,19558910]]"
-- "[[_Standards/WikiData/WD~New York City Landmark,19825927]]"
-- "[[_Standards/WikiData/WD~Historic Civil Engineering Landmark,56637937]]"
-- "[[_Standards/WikiData/WD~New York State Register of Historic Places listed place,120763427]]"
+- "[[_Standards/WikiData/WD~National_Register_of_Historic_Places_contributing_property,1129142]]"
+- "[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910]]"
+- "[[_Standards/WikiData/WD~New_York_City_Landmark,19825927]]"
+- "[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937]]"
+- "[[_Standards/WikiData/WD~New_York_State_Register_of_Historic_Places_listed_place,120763427]]"
 significant_event:
 - '[[_Standards/WikiData/WD~inauguration,1417098]]'
 - '[[_Standards/WikiData/WD~transport,7590]]'
 inspired_by:
-- "[[_Standards/WikiData/WD~Great Seal of France,3114823]]"
-- "[[_Standards/WikiData/WD~Colossus of Rhodes,41553]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Statue of Liberty,106618517]]"
-has_part_s_: "[[_Standards/WikiData/WD~Liberty Statue renovation,126912547]]"
+- "[[_Standards/WikiData/WD~Great_Seal_of_France,3114823]]"
+- "[[_Standards/WikiData/WD~Colossus_of_Rhodes,41553]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Statue_of_Liberty,106618517]]"
+has_part_s_: "[[_Standards/WikiData/WD~Liberty_Statue_renovation,126912547]]"
 inception: "1886"
 has_time_started: 1886-06 
 CRIS_Unique_Site_Number: 06101.003324
@@ -88,16 +88,16 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/USA%20Hebrew%20
 coordinate_location: "Point(-74.044425277 40.689209166)"
 main_subject: '[[_Standards/WikiData/WD~liberty,2979]]'
 named_after: '[[_Standards/WikiData/WD~liberty,2979]]'
-offers_view_on: "[[_Standards/WikiData/WD~Lower Manhattan,11253]]"
-copyright_status: "[[_Standards/WikiData/WD~public domain,19652]]"
-structural_engineer: "[[_Standards/WikiData/WD~Gustave Eiffel,20882]]"
-country: "[[_Standards/WikiData/WD~United States,30]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~New York City,60]]"
+offers_view_on: "[[_Standards/WikiData/WD~Lower_Manhattan,11253]]"
+copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
+structural_engineer: "[[_Standards/WikiData/WD~Gustave_Eiffel,20882]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~New_York_City,60]]"
 visitors_per_year: 4200000
 height:
 - 46
 - 47
-influenced_by: "[[_Standards/WikiData/WD~Colossus of Rhodes,41553]]"
+influenced_by: "[[_Standards/WikiData/WD~Colossus_of_Rhodes,41553]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Liberty%207.jpg"
 size_comparison_diagram: "http://commons.wikimedia.org/wiki/Special:FilePath/Height%20comparison%20of%20notable%20statues%20%28vector%29.svg"
 nickname: "Lady Liberty"

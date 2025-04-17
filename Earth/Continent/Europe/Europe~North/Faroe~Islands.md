@@ -33,51 +33,51 @@ Languages:
 - da-FO
 has_id_wikidata: Q4628
 member_of:
-- "[[_Standards/WikiData/WD~Nordic Council,146165]]"
+- "[[_Standards/WikiData/WD~Nordic_Council,146165]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
 instance_of:
-- "[[_Standards/WikiData/WD~electoral unit,192611]]"
-- "[[_Standards/WikiData/WD~autonomous country within the Kingdom of Denmark,66724388]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of the Faroe Islands,207296]]"
-anthem: "[[_Standards/WikiData/WD~Tú alfagra land mítt,212973]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the Faroe Islands,254346]]"
+- "[[_Standards/WikiData/WD~electoral_unit,192611]]"
+- "[[_Standards/WikiData/WD~autonomous_country_within_the_Kingdom_of_Denmark,66724388]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Faroe_Islands,207296]]"
+anthem: "[[_Standards/WikiData/WD~Tú_alfagra_land_mítt,212973]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Faroe_Islands,254346]]"
 legislative_body: '[[_Standards/WikiData/WD~Løgting,509668]]'
-head_of_government: "[[_Standards/WikiData/WD~Aksel V. Johannesen,556712]]"
+head_of_government: "[[_Standards/WikiData/WD~Aksel_V._Johannesen,556712]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Q126878023,126878023]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the Faroe Islands,671799]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Faroe_Islands,671799]]"
 highest_point: '[[_Standards/WikiData/WD~Slættaratindur,738746]]'
 part_of:
-- "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
-- "[[_Standards/WikiData/WD~the unity of the Realm,1191549]]"
-- "[[_Standards/WikiData/WD~Northern Europe,27479]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
-country: "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Faroe Islands,897512]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the Faroe Islands,1000849]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of the Faroe Islands,1000921]]"
-head_of_state: "[[_Standards/WikiData/WD~Frederik X of Denmark,1004037]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
+- "[[_Standards/WikiData/WD~the_unity_of_the_Realm,1191549]]"
+- "[[_Standards/WikiData/WD~Northern_Europe,27479]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
+country: "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Faroe_Islands,897512]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Faroe_Islands,1000849]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_Faroe_Islands,1000921]]"
+head_of_state: "[[_Standards/WikiData/WD~Frederik_X_of_Denmark,1004037]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type K,1502017]]"
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-different_from: "[[_Standards/WikiData/WD~Fair Isle,3064518]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Faroe Islands,7112762]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Faroe Islands,8253768]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Faroe Islands topics,10530789]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Faroe Islands,13341438]]"
+- "[[_Standards/WikiData/WD~Type_K,1502017]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+different_from: "[[_Standards/WikiData/WD~Fair_Isle,3064518]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Faroe_Islands,7112762]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Faroe_Islands,8253768]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Faroe_Islands_topics,10530789]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Faroe_Islands,13341438]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q16887593,16887593]]'
 nominal_GDP: 3649878680
 PM20_geo_code: A15a
 coordinates_of_westernmost_point: "Point(-7.646111111 62.104166666)"
-diplomatic_relation: "[[_Standards/WikiData/WD~European Union,458]]"
-flag: "[[_Standards/WikiData/WD~flag of the Faroe Islands,4575]]"
+diplomatic_relation: "[[_Standards/WikiData/WD~European_Union,458]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_Faroe_Islands,4575]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
 language_used:
 - '[[_Standards/WikiData/WD~Danish,9035]]'
@@ -93,7 +93,7 @@ mains_voltage: 230
 VAT_rate: 25
 total_fertility_rate: 2.6
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.fo,41446]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Norwegian Sea,47545]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Norwegian_Sea,47545]]"
 perimeter: 1117
 area: 1399
 M49_code: 234

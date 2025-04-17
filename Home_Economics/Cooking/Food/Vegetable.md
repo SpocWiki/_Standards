@@ -5,27 +5,27 @@ studied_in:
 - '[[_Standards/WikiData/WD~agronomy,173113]]'
 - '[[_Standards/WikiData/WD~ethnobiology,2375831]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-instance_of: "[[_Standards/WikiData/WD~food group,767036]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+instance_of: "[[_Standards/WikiData/WD~food_group,767036]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~cultivated edible plant,1086824]]"
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-- "[[_Standards/WikiData/WD~vegetables and gourds (except potatoes),46019061]]"
-- "[[_Standards/WikiData/WD~plant-based food,107122728]]"
+- "[[_Standards/WikiData/WD~cultivated_edible_plant,1086824]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~vegetables_and_gourds_(except_potatoes),46019061]]"
+- "[[_Standards/WikiData/WD~plant-based_food,107122728]]"
 made_from_material: '[[_Standards/WikiData/WD~cultigen,1362373]]'
 different_from: '[[_Standards/WikiData/WD~fruit,3314483]]'
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Food and drink,8485990]]"
-- "[[_Standards/WikiData/WD~WikiProject Plants,10823481]]"
-- "[[_Standards/WikiData/WD~WikiProject Veganism and Vegetarianism,117090054]]"
+- "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
+- "[[_Standards/WikiData/WD~WikiProject_Plants,10823481]]"
+- "[[_Standards/WikiData/WD~WikiProject_Veganism_and_Vegetarianism,117090054]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Vegetables,10797452]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q11252917,11252917]]'
-part_of: "[[_Standards/WikiData/WD~fruits and vegetables,11661912]]"
+part_of: "[[_Standards/WikiData/WD~fruits_and_vegetables,11661912]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~vegetable,25423203]]'
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%B8%E0%A8%AC%E0%A8%9C%E0%A9%80.oga"

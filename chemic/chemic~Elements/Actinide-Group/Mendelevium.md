@@ -3,18 +3,18 @@ type: Element
 SpocWebEntityId: 21996
 has_id_wikidata: Q1898
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox mendelevium,8085394]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_mendelevium,8085394]]"
 UMLS_CUI: C0025275
-named_after: "[[_Standards/WikiData/WD~Dmitri Mendeleev,9106]]"
+named_after: "[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]"
 electronegativity: 1.3
 atomic_number: 101
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 PubChem_CID: 23943
 chemical_formula: Md
 element_symbol: Md

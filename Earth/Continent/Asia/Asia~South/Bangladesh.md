@@ -33,43 +33,43 @@ Languages:
 - en
 icon: flag-bd
 different_from: '[[_Standards/WikiData/WD~Bengal,80338]]'
-flag: "[[_Standards/WikiData/WD~flag of Bangladesh,127179]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Bangladesh,127179]]"
 member_of:
-- "[[_Standards/WikiData/WD~South Asian Association for Regional Cooperation,145700]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation,795985]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~South_Asian_Association_for_Regional_Cooperation,145700]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,795985]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Chattogram Division,158087]]"
-- "[[_Standards/WikiData/WD~Dhaka Division,330158]]"
-- "[[_Standards/WikiData/WD~Rajshahi Division,379382]]"
-- "[[_Standards/WikiData/WD~Barisal Division,459723]]"
-- "[[_Standards/WikiData/WD~Sylhet Division,459732]]"
-- "[[_Standards/WikiData/WD~Khulna Division,501696]]"
-- "[[_Standards/WikiData/WD~Rangpur Division,876023]]"
-- "[[_Standards/WikiData/WD~Mymensingh Division,19594930]]"
+- "[[_Standards/WikiData/WD~Chattogram_Division,158087]]"
+- "[[_Standards/WikiData/WD~Dhaka_Division,330158]]"
+- "[[_Standards/WikiData/WD~Rajshahi_Division,379382]]"
+- "[[_Standards/WikiData/WD~Barisal_Division,459723]]"
+- "[[_Standards/WikiData/WD~Sylhet_Division,459732]]"
+- "[[_Standards/WikiData/WD~Khulna_Division,501696]]"
+- "[[_Standards/WikiData/WD~Rangpur_Division,876023]]"
+- "[[_Standards/WikiData/WD~Mymensingh_Division,19594930]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Malawi,1020]]'
 - '[[_Standards/WikiData/WD~Mauritius,1027]]'
@@ -78,13 +78,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Rwanda,1037]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+- "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -100,8 +100,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -117,23 +117,23 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 - '[[_Standards/WikiData/WD~Haiti,790]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
@@ -150,55 +150,55 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Oman,842]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Qatar,846]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Tajikistan,863]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
 - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Mali,912]]'
 - '[[_Standards/WikiData/WD~Bhutan,917]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Botswana,963]]'
-- "[[_Standards/WikiData/WD~The Gambia,1005]]"
-- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
+- "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Emblem of Bangladesh,190785]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Bangladesh,190785]]"
-anthem: "[[_Standards/WikiData/WD~Amar Sonar Bangla,199739]]"
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Emblem_of_Bangladesh,190785]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Bangladesh,190785]]"
+anthem: "[[_Standards/WikiData/WD~Amar_Sonar_Bangla,199739]]"
 ethnic_group: '[[_Standards/WikiData/WD~Bengali,402913]]'
 instance_of:
-- "[[_Standards/WikiData/WD~people's republic,465613]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~people's_republic,465613]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Bangladesh,596123]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Bangladesh,596123]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Nisshin,696777]]'
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~Westminster system,720477]]"
-- "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-part_of: "[[_Standards/WikiData/WD~South Asia,771405]]"
-central_bank: "[[_Standards/WikiData/WD~Bangladesh Bank,806532]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Bangladesh,839809]]"
+- "[[_Standards/WikiData/WD~Westminster_system,720477]]"
+- "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+part_of: "[[_Standards/WikiData/WD~South_Asia,771405]]"
+central_bank: "[[_Standards/WikiData/WD~Bangladesh_Bank,806532]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Bangladesh,839809]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type K,1502017]]"
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
+- "[[_Standards/WikiData/WD~Type_K,1502017]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Religion in Geschichte und Gegenwart,1514334]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-- "[[_Standards/WikiData/WD~Encyclopedia of Arabic Language and Linguistics,108871244]]"
-legislative_body: "[[_Standards/WikiData/WD~Jatiya Sangsad,1684080]]"
+- "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Arabic_Language_and_Linguistics,108871244]]"
+legislative_body: "[[_Standards/WikiData/WD~Jatiya_Sangsad,1684080]]"
 language_used:
 - '[[_Standards/WikiData/WD~Mru,1951521]]'
 - '[[_Standards/WikiData/WD~Sylheti,2044560]]'
@@ -216,7 +216,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Lyngngam,12635902]]'
 - '[[_Standards/WikiData/WD~Usui,12644231]]'
 - '[[_Standards/WikiData/WD~Riang,12953063]]'
-- "[[_Standards/WikiData/WD~Oraon Sadri,12953860]]"
+- "[[_Standards/WikiData/WD~Oraon_Sadri,12953860]]"
 - '[[_Standards/WikiData/WD~Tippera,16115423]]'
 - '[[_Standards/WikiData/WD~Marma,21403256]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
@@ -227,42 +227,42 @@ language_used:
 - '[[_Standards/WikiData/WD~Kurukh,33492]]'
 - '[[_Standards/WikiData/WD~Khasi,33584]]'
 - '[[_Standards/WikiData/WD~Meitei,33868]]'
-- "[[_Standards/WikiData/WD~Sauria Paharia,33907]]"
+- "[[_Standards/WikiData/WD~Sauria_Paharia,33907]]"
 - '[[_Standards/WikiData/WD~Santali,33965]]'
 - '[[_Standards/WikiData/WD~Kokborok,35947]]'
 - '[[_Standards/WikiData/WD~Garo,36137]]'
 - '[[_Standards/WikiData/WD~Mizo,36147]]'
-- "[[_Standards/WikiData/WD~Bishnupriya Manipuri,37059]]"
+- "[[_Standards/WikiData/WD~Bishnupriya_Manipuri,37059]]"
 - '[[_Standards/WikiData/WD~Khumi,56308]]'
 - '[[_Standards/WikiData/WD~War,56321]]'
 - '[[_Standards/WikiData/WD~Koch,56431]]'
 - '[[_Standards/WikiData/WD~Bawm,56765]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Bangladesh,2088369]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Bangladesh,2347883]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Bangladesh,2471577]]"
-official_symbol: "[[_Standards/WikiData/WD~Nymphaea nouchali,2663639]]"
-highest_point: "[[_Standards/WikiData/WD~Mowdok tiang,2696459]]"
-culture: "[[_Standards/WikiData/WD~culture of Bangladesh,3007332]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bangladesh,2088369]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Bangladesh,2347883]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bangladesh,2471577]]"
+official_symbol: "[[_Standards/WikiData/WD~Nymphaea_nouchali,2663639]]"
+highest_point: "[[_Standards/WikiData/WD~Mowdok_tiang,2696459]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Bangladesh,3007332]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~999,3086706]]'
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Bangladesh Standard Time,3248716]]"
+- "[[_Standards/WikiData/WD~Bangladesh_Standard_Time,3248716]]"
 - '[[_Standards/WikiData/WD~Asia_Dhaka,16879288]]'
 - '[[_Standards/WikiData/WD~UTC+06_00,6906]]'
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Bangladesh,3346963]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Bangladesh,3346963]]"
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.বাংলা,4545424]]'
 - '[[_Standards/WikiData/WD~.bd,39144]]'
-participant_in: "[[_Standards/WikiData/WD~Global System of Trade Preferences among Developing Countries,5570670]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Bangladesh,7112197]]"
+participant_in: "[[_Standards/WikiData/WD~Global_System_of_Trade_Preferences_among_Developing_Countries,5570670]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bangladesh,7112197]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bangladesh,10952771]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Bangladesh,14565638]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Bangladesh,16056319]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Bangladesh,14565638]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Bangladesh,16056319]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103992,27103992]]'
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20adm%20location%20map.svg"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-open_data_portal: "[[_Standards/WikiData/WD~Bangladesh Open Data,97282359]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+open_data_portal: "[[_Standards/WikiData/WD~Bangladesh_Open_Data,97282359]]"
 capital: '[[_Standards/WikiData/WD~Dhaka,1354]]'
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Christianity,5043]]'
@@ -290,10 +290,10 @@ BTI_Governance_Index:
 - 4.87
 life_expectancy: 74
 literacy_rate: 75
-lowest_point: "[[_Standards/WikiData/WD~Bay of Bengal,38684]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Bay of Bengal,38684]]"
+lowest_point: "[[_Standards/WikiData/WD~Bay_of_Bengal,38684]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Bay_of_Bengal,38684]]"
 Gini_coefficient: 32.4
-head_of_government: "[[_Standards/WikiData/WD~Muhammad Yunus,43969]]"
+head_of_government: "[[_Standards/WikiData/WD~Muhammad_Yunus,43969]]"
 social_media_followers: 39600
 BTI_Status_Index:
 - 4.82
@@ -405,8 +405,8 @@ short_name: "\U0001F1E7\U0001F1E9"
 nominal_GDP:
 - 416264802185
 - 460201000095
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~East Bengal,106300355]]"
-head_of_state: "[[_Standards/WikiData/WD~Mohammad Shahabuddin,116763154]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~East_Bengal,106300355]]"
+head_of_state: "[[_Standards/WikiData/WD~Mohammad_Shahabuddin,116763154]]"
 coordinates_of_southernmost_point: "Point(92.33542 20.57545)"
 coordinates_of_easternmost_point: "Point(92.6802 21.2863)"
 male_population: 81712824

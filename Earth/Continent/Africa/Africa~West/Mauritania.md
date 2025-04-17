@@ -1,93 +1,93 @@
 ---
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Sahel,66065]]'
-flag: "[[_Standards/WikiData/WD~flag of Mauritania,102977]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Mauritania,102977]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~Arab Maghreb Union,370862]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~Arab_Maghreb_Union,370862]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 named_after:
 - '[[_Standards/WikiData/WD~Moors,169260]]'
 - '[[_Standards/WikiData/WD~Mauretania,309272]]'
 head_of_government:
-- "[[_Standards/WikiData/WD~Zeine Ould Zeidane,184941]]"
-- "[[_Standards/WikiData/WD~Maaouya Ould Sid'Ahmed Taya,313662]]"
-- "[[_Standards/WikiData/WD~Cheikh El Avia Ould Mohamed Khouna,325511]]"
-- "[[_Standards/WikiData/WD~Moktar Ould Daddah,345385]]"
-- "[[_Standards/WikiData/WD~Moulaye Ould Mohamed Laghdaf,440509]]"
-- "[[_Standards/WikiData/WD~Mohamed Lemine Ould Guig,592418]]"
-- "[[_Standards/WikiData/WD~Sidi Mohamed Ould Boubacar,712775]]"
-- "[[_Standards/WikiData/WD~Mohamed Khouna Ould Haidalla,730612]]"
-- "[[_Standards/WikiData/WD~Sghair Ould M'Bareck,773245]]"
-- "[[_Standards/WikiData/WD~Yahya Ould Ahmed El Waghef,1371357]]"
-- "[[_Standards/WikiData/WD~Sid Ahmed Ould Bneijara,1651741]]"
-- "[[_Standards/WikiData/WD~Ahmed Ould Bouceif,2827635]]"
-- "[[_Standards/WikiData/WD~Ismail Ould Bedde Ould Cheikh Sidiya,3155412]]"
-- "[[_Standards/WikiData/WD~Yahya Ould Hademine,3571335]]"
-- "[[_Standards/WikiData/WD~Ahmad Salim uld Sidi,29549453]]"
-- "[[_Standards/WikiData/WD~Mohamed Salem Ould Béchir,58014343]]"
-- "[[_Standards/WikiData/WD~Moctar Ould Djay,66793577]]"
-- "[[_Standards/WikiData/WD~Mohamed Ould Bilal,98137599]]"
-replaces: "[[_Standards/WikiData/WD~French West Africa,210682]]"
+- "[[_Standards/WikiData/WD~Zeine_Ould_Zeidane,184941]]"
+- "[[_Standards/WikiData/WD~Maaouya_Ould_Sid'Ahmed_Taya,313662]]"
+- "[[_Standards/WikiData/WD~Cheikh_El_Avia_Ould_Mohamed_Khouna,325511]]"
+- "[[_Standards/WikiData/WD~Moktar_Ould_Daddah,345385]]"
+- "[[_Standards/WikiData/WD~Moulaye_Ould_Mohamed_Laghdaf,440509]]"
+- "[[_Standards/WikiData/WD~Mohamed_Lemine_Ould_Guig,592418]]"
+- "[[_Standards/WikiData/WD~Sidi_Mohamed_Ould_Boubacar,712775]]"
+- "[[_Standards/WikiData/WD~Mohamed_Khouna_Ould_Haidalla,730612]]"
+- "[[_Standards/WikiData/WD~Sghair_Ould_M'Bareck,773245]]"
+- "[[_Standards/WikiData/WD~Yahya_Ould_Ahmed_El_Waghef,1371357]]"
+- "[[_Standards/WikiData/WD~Sid_Ahmed_Ould_Bneijara,1651741]]"
+- "[[_Standards/WikiData/WD~Ahmed_Ould_Bouceif,2827635]]"
+- "[[_Standards/WikiData/WD~Ismail_Ould_Bedde_Ould_Cheikh_Sidiya,3155412]]"
+- "[[_Standards/WikiData/WD~Yahya_Ould_Hademine,3571335]]"
+- "[[_Standards/WikiData/WD~Ahmad_Salim_uld_Sidi,29549453]]"
+- "[[_Standards/WikiData/WD~Mohamed_Salem_Ould_Béchir,58014343]]"
+- "[[_Standards/WikiData/WD~Moctar_Ould_Djay,66793577]]"
+- "[[_Standards/WikiData/WD~Mohamed_Ould_Bilal,98137599]]"
+replaces: "[[_Standards/WikiData/WD~French_West_Africa,210682]]"
 different_from: '[[_Standards/WikiData/WD~Mauretania,228661]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Seal of Mauritania,269821]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Seal_of_Mauritania,269821]]"
 head_of_state:
-- "[[_Standards/WikiData/WD~Mohamed Ould Abdel Aziz,294969]]"
-- "[[_Standards/WikiData/WD~Sidi Ould Cheikh Abdallahi,310203]]"
-- "[[_Standards/WikiData/WD~Maaouya Ould Sid'Ahmed Taya,313662]]"
-- "[[_Standards/WikiData/WD~Moktar Ould Daddah,345385]]"
-- "[[_Standards/WikiData/WD~Ely Ould Mohamed Vall,451521]]"
-- "[[_Standards/WikiData/WD~Mohamed Mahmoud Ould Louly,642826]]"
-- "[[_Standards/WikiData/WD~Mohamed Khouna Ould Haidalla,730612]]"
-- "[[_Standards/WikiData/WD~Mustafa Ould Salek,779723]]"
-- "[[_Standards/WikiData/WD~Ba Mamadou Mbaré,2877629]]"
-- "[[_Standards/WikiData/WD~Mohamed Ould Ghazouani,12241106]]"
+- "[[_Standards/WikiData/WD~Mohamed_Ould_Abdel_Aziz,294969]]"
+- "[[_Standards/WikiData/WD~Sidi_Ould_Cheikh_Abdallahi,310203]]"
+- "[[_Standards/WikiData/WD~Maaouya_Ould_Sid'Ahmed_Taya,313662]]"
+- "[[_Standards/WikiData/WD~Moktar_Ould_Daddah,345385]]"
+- "[[_Standards/WikiData/WD~Ely_Ould_Mohamed_Vall,451521]]"
+- "[[_Standards/WikiData/WD~Mohamed_Mahmoud_Ould_Louly,642826]]"
+- "[[_Standards/WikiData/WD~Mohamed_Khouna_Ould_Haidalla,730612]]"
+- "[[_Standards/WikiData/WD~Mustafa_Ould_Salek,779723]]"
+- "[[_Standards/WikiData/WD~Ba_Mamadou_Mbaré,2877629]]"
+- "[[_Standards/WikiData/WD~Mohamed_Ould_Ghazouani,12241106]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Adrar Region,366626]]"
-- "[[_Standards/WikiData/WD~Assaba Region,738546]]"
-- "[[_Standards/WikiData/WD~Guidimaka Region,768119]]"
-- "[[_Standards/WikiData/WD~Tagant Region,843903]]"
-- "[[_Standards/WikiData/WD~Inchiri Region,850022]]"
-- "[[_Standards/WikiData/WD~Hodh El Gharbi Region,850435]]"
-- "[[_Standards/WikiData/WD~Tiris Zemmour Region,859567]]"
-- "[[_Standards/WikiData/WD~Dakhlet Nouadhibou,859573]]"
-- "[[_Standards/WikiData/WD~Trarza Region,859581]]"
-- "[[_Standards/WikiData/WD~Gorgol Region,859831]]"
+- "[[_Standards/WikiData/WD~Adrar_Region,366626]]"
+- "[[_Standards/WikiData/WD~Assaba_Region,738546]]"
+- "[[_Standards/WikiData/WD~Guidimaka_Region,768119]]"
+- "[[_Standards/WikiData/WD~Tagant_Region,843903]]"
+- "[[_Standards/WikiData/WD~Inchiri_Region,850022]]"
+- "[[_Standards/WikiData/WD~Hodh_El_Gharbi_Region,850435]]"
+- "[[_Standards/WikiData/WD~Tiris_Zemmour_Region,859567]]"
+- "[[_Standards/WikiData/WD~Dakhlet_Nouadhibou,859573]]"
+- "[[_Standards/WikiData/WD~Trarza_Region,859581]]"
+- "[[_Standards/WikiData/WD~Gorgol_Region,859831]]"
 - '[[_Standards/WikiData/WD~Nouakchott,3688]]'
-- "[[_Standards/WikiData/WD~Hodh Ech Chargui Region,12621]]"
-- "[[_Standards/WikiData/WD~Brakna Region,12632]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Mauritania,375832]]"
+- "[[_Standards/WikiData/WD~Hodh_Ech_Chargui_Region,12621]]"
+- "[[_Standards/WikiData/WD~Brakna_Region,12632]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Mauritania,375832]]"
 instance_of:
-- "[[_Standards/WikiData/WD~Islamic Republic,672729]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~Islamic_Republic,672729]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-anthem: "[[_Standards/WikiData/WD~National anthem of Mauritania,845284]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Mauritania,979318]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Mauritania,1063712]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,1138935]]"
+anthem: "[[_Standards/WikiData/WD~National_anthem_of_Mauritania,845284]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Mauritania,979318]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Mauritania,1063712]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1138935]]"
 electrical_plug_type: '[[_Standards/WikiData/WD~Europlug,1378312]]'
 language_used:
 - '[[_Standards/WikiData/WD~Pulaar,1420205]]'
@@ -97,13 +97,13 @@ language_used:
 - '[[_Standards/WikiData/WD~Wolof,34257]]'
 - '[[_Standards/WikiData/WD~Soninke,36660]]'
 - '[[_Standards/WikiData/WD~Zenaga,37005]]'
-- "[[_Standards/WikiData/WD~Hassaniya Arabic,56231]]"
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Mauritania,2000552]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Mauritania,2528877]]"
-highest_point: "[[_Standards/WikiData/WD~Kediet ej Jill,2595789]]"
-culture: "[[_Standards/WikiData/WD~culture of Mauritania,3007436]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Mauritania,3112595]]"
+- "[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Mauritania,2000552]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Mauritania,2528877]]"
+highest_point: "[[_Standards/WikiData/WD~Kediet_ej_Jill,2595789]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Mauritania,3007436]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Mauritania,3112595]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~117,4547615]]'
 - '[[_Standards/WikiData/WD~118,11185210]]'
@@ -112,12 +112,12 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Nouakchott,4689519]]'
 - '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mauritania,4753810]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Mauritania,7112352]]"
-lowest_point: "[[_Standards/WikiData/WD~Sebkha de Ndrhamcha,7442787]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mauritania,7112352]]"
+lowest_point: "[[_Standards/WikiData/WD~Sebkha_de_Ndrhamcha,7442787]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Mauritania,28002551]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Mauritania,30101469]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Mauritania,28002551]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Mauritania,30101469]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 ISO_3166_1_numeric_code: 478
 M49_code: 478
 mobile_country_code: 609
@@ -260,28 +260,28 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Mali,912]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~Western Sahara,6250]]"
+- "[[_Standards/WikiData/WD~Western_Sahara,6250]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Mali,912]]'
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 country: '[[_Standards/WikiData/WD~Mauritania,1025]]'
 capital: '[[_Standards/WikiData/WD~Nouakchott,3688]]'
 part_of:
-- "[[_Standards/WikiData/WD~West Africa,4412]]"
-- "[[_Standards/WikiData/WD~North Africa,27381]]"
+- "[[_Standards/WikiData/WD~West_Africa,4412]]"
+- "[[_Standards/WikiData/WD~North_Africa,27381]]"
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 BTI_Governance_Index:
 - 4
 - 4.2

@@ -1,15 +1,15 @@
 ﻿---
 has_id_wikidata: Q12518
 subclass_of:
-- "[[_Standards/WikiData/WD~architectural structure,811979]]"
+- "[[_Standards/WikiData/WD~architectural_structure,811979]]"
 - '[[_Standards/WikiData/WD~building,41176]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q22845830,22845830]]'
-instance_of: "[[_Standards/WikiData/WD~type of structure,111972893]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_structure,111972893]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons%20%28cropped%29.jpg"
 properties_for_this_type:
 - "located in time zone"
@@ -22,7 +22,7 @@ properties_for_this_type:
 - architect
 - "located in the administrative territorial entity"
 - "architectural style"
-model_item: "[[_Standards/WikiData/WD~Eiffel Tower,243]]"
+model_item: "[[_Standards/WikiData/WD~Eiffel_Tower,243]]"
 Nomenclature_for_Museum_Cataloging: 958
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20232996%20cc%20Castle.svg"
 equivalent_class: "http://dbpedia.org/ontology/Tower"

@@ -6,21 +6,21 @@ InChIKey: SIXSYDAISGFNSX-UHFFFAOYSA-N
 UNII: YUJ4U1EW7R
 mass: 44.955907
 part_of:
-- "[[_Standards/WikiData/WD~group 3,108307]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_3,108307]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~rare earth element,190444]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~rare_earth_element,190444]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 made_from_material: '[[_Standards/WikiData/WD~thortveitite,424535]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Lars Fredrik Nilson,447875]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Lars_Fredrik_Nilson,447875]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 different_from: '[[_Standards/WikiData/WD~Scandinavium,1138447]]'
 time_of_discovery_or_invention: "1879"
 UMLS_CUI: C0036274

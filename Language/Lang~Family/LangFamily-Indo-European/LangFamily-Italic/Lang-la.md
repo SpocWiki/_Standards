@@ -29,63 +29,63 @@ GOST_7_75_97_code: "лат 380"
 entry_in_abbreviations_table: лат.
 native_label: "Lingua latina"
 has_grammatical_case:
-- "[[_Standards/WikiData/WD~nominative case,131105]]"
-- "[[_Standards/WikiData/WD~dative case,145599]]"
-- "[[_Standards/WikiData/WD~accusative case,146078]]"
-- "[[_Standards/WikiData/WD~genitive case,146233]]"
-- "[[_Standards/WikiData/WD~ablative case,156986]]"
-- "[[_Standards/WikiData/WD~vocative case,185077]]"
-- "[[_Standards/WikiData/WD~locative case,202142]]"
+- "[[_Standards/WikiData/WD~nominative_case,131105]]"
+- "[[_Standards/WikiData/WD~dative_case,145599]]"
+- "[[_Standards/WikiData/WD~accusative_case,146078]]"
+- "[[_Standards/WikiData/WD~genitive_case,146233]]"
+- "[[_Standards/WikiData/WD~ablative_case,156986]]"
+- "[[_Standards/WikiData/WD~vocative_case,185077]]"
+- "[[_Standards/WikiData/WD~locative_case,202142]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative–accusative language,178435]]"
-- "[[_Standards/WikiData/WD~fusional language,318917]]"
+- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
+- "[[_Standards/WikiData/WD~fusional_language,318917]]"
 - '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
-- "[[_Standards/WikiData/WD~pro-drop language,661936]]"
-- "[[_Standards/WikiData/WD~synthetic language,48612]]"
+- "[[_Standards/WikiData/WD~pro-drop_language,661936]]"
+- "[[_Standards/WikiData/WD~synthetic_language,48612]]"
 has_tense:
-- "[[_Standards/WikiData/WD~present tense,192613]]"
-- "[[_Standards/WikiData/WD~future tense,501405]]"
+- "[[_Standards/WikiData/WD~present_tense,192613]]"
+- "[[_Standards/WikiData/WD~future_tense,501405]]"
 - '[[_Standards/WikiData/WD~pluperfect,623742]]'
-- "[[_Standards/WikiData/WD~past imperfect,12547192]]"
+- "[[_Standards/WikiData/WD~past_imperfect,12547192]]"
 instance_of:
-- "[[_Standards/WikiData/WD~ancient language,436240]]"
-- "[[_Standards/WikiData/WD~sacred language,839470]]"
+- "[[_Standards/WikiData/WD~ancient_language,436240]]"
+- "[[_Standards/WikiData/WD~sacred_language,839470]]"
 - '[[_Standards/WikiData/WD~language,34770]]'
-- "[[_Standards/WikiData/WD~dead language,45762]]"
+- "[[_Standards/WikiData/WD~dead_language,45762]]"
 has_grammatical_gender:
 - '[[_Standards/WikiData/WD~masculine,499327]]'
 - '[[_Standards/WikiData/WD~feminine,1775415]]'
 - '[[_Standards/WikiData/WD~neuter,1775461]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
 studied_in:
 - '[[_Standards/WikiData/WD~classics,841090]]'
-- "[[_Standards/WikiData/WD~Latin studies,1806979]]"
-- "[[_Standards/WikiData/WD~theological languages,108000026]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Latin,848351]]"
+- "[[_Standards/WikiData/WD~Latin_studies,1806979]]"
+- "[[_Standards/WikiData/WD~theological_languages,108000026]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Latin,848351]]"
 named_after: '[[_Standards/WikiData/WD~Latium,1048669]]'
 has_use:
-- "[[_Standards/WikiData/WD~legal language,1713997]]"
+- "[[_Standards/WikiData/WD~legal_language,1713997]]"
 - '[[_Standards/WikiData/WD~taxonomy,8269924]]'
 has_conjugation_class:
-- "[[_Standards/WikiData/WD~first conjugation impersonal verb,3921589]]"
-- "[[_Standards/WikiData/WD~second conjugation impersonal verb,53768720]]"
-- "[[_Standards/WikiData/WD~e_i conjugation verb (isolated form),54295441]]"
-- "[[_Standards/WikiData/WD~fourth conjugation verb (isolated form),54295818]]"
+- "[[_Standards/WikiData/WD~first_conjugation_impersonal_verb,3921589]]"
+- "[[_Standards/WikiData/WD~second_conjugation_impersonal_verb,53768720]]"
+- "[[_Standards/WikiData/WD~e_i_conjugation_verb_(isolated_form),54295441]]"
+- "[[_Standards/WikiData/WD~fourth_conjugation_verb_(isolated_form),54295818]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Latin,11045192]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12715487,12715487]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~Latin or Greek word,29448469]]"
-- "[[_Standards/WikiData/WD~Latin word,78612407]]"
+- "[[_Standards/WikiData/WD~Latin_or_Greek_word,29448469]]"
+- "[[_Standards/WikiData/WD~Latin_word,78612407]]"
 different_from: '[[_Standards/WikiData/WD~Łacina,48841461]]'
-Ethnologue_language_status: "[[_Standards/WikiData/WD~9 Second language only,61954942]]"
+Ethnologue_language_status: "[[_Standards/WikiData/WD~9_Second_language_only,61954942]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~Southern European language,85380120]]"
+- "[[_Standards/WikiData/WD~Southern_European_language,85380120]]"
 - '[[_Standards/WikiData/WD~Latino-Faliscan,33478]]'
 Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/latin"
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Pronunciation%20of%20Latin%20%28Text%29.ogg"
@@ -96,11 +96,11 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20Phraseb
 described_at_URL: "https://afbo.info/languages/43"
 exact_match: "http://publications.europa.eu/resource/authority/language/LAT"
 writing_system:
-- "[[_Standards/WikiData/WD~Latin script,8229]]"
-- "[[_Standards/WikiData/WD~Latin alphabet,41670]]"
-country: "[[_Standards/WikiData/WD~Vatican City,237]]"
+- "[[_Standards/WikiData/WD~Latin_script,8229]]"
+- "[[_Standards/WikiData/WD~Latin_alphabet,41670]]"
+country: "[[_Standards/WikiData/WD~Vatican_City,237]]"
 Colon_Classification: 12
-language_regulatory_body: "[[_Standards/WikiData/WD~Pontifical Academy for Latin,48509]]"
+language_regulatory_body: "[[_Standards/WikiData/WD~Pontifical_Academy_for_Latin,48509]]"
 Dewey_Decimal_Classification: 470
 Wikimedia_language_code: la
 IETF_language_tag: la

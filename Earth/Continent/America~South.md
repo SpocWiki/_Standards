@@ -7,26 +7,26 @@ tags:
 - geo/Continent
 isDeleted: false
 instance_of:
-- "[[_Standards/WikiData/WD~geographic region,82794]]"
+- "[[_Standards/WikiData/WD~geographic_region,82794]]"
 - '[[_Standards/WikiData/WD~subcontinent,855697]]'
-- "[[_Standards/WikiData/WD~statistical territorial entity,15042037]]"
+- "[[_Standards/WikiData/WD~statistical_territorial_entity,15042037]]"
 - '[[_Standards/WikiData/WD~continent,5107]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of South America,912852]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of South America,968983]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of South America,1072272]]"
-lowest_point: "[[_Standards/WikiData/WD~Laguna del Carbón,1780252]]"
-bibliography: "[[_Standards/WikiData/WD~bibliography of South America,4903395]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of South America,5256080]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Countries of South America,6553827]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_South_America,912852]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_South_America,968983]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_South_America,1072272]]"
+lowest_point: "[[_Standards/WikiData/WD~Laguna_del_Carbón,1780252]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_South_America,4903395]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_South_America,5256080]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Countries_of_South_America,6553827]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Malvinas Islands,6745123]]"
+- "[[_Standards/WikiData/WD~Malvinas_Islands,6745123]]"
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
@@ -37,16 +37,16 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Ecuador,736]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
-- "[[_Standards/WikiData/WD~French Guiana,3769]]"
+- "[[_Standards/WikiData/WD~French_Guiana,3769]]"
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Brazil,155]]'
-- "[[_Standards/WikiData/WD~South Georgia and the South Sandwich Islands,35086]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of South America,7112458]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_South America,13093041]]"
+- "[[_Standards/WikiData/WD~South_Georgia_and_the_South_Sandwich_Islands,35086]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_South_America,7112458]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_South_America,13093041]]"
 shares_border_with:
-- "[[_Standards/WikiData/WD~Continental Central America,18479603]]"
-- "[[_Standards/WikiData/WD~Central America,27611]]"
-- "[[_Standards/WikiData/WD~North America,49]]"
+- "[[_Standards/WikiData/WD~Continental_Central_America,18479603]]"
+- "[[_Standards/WikiData/WD~Central_America,27611]]"
+- "[[_Standards/WikiData/WD~North_America,49]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828135,22828135]]'
 coordinates_of_southernmost_point: "Point(-68.72005 -56.538261111)"
 coordinates_of_westernmost_point: "Point(-81.328611111 -4.682777777)"
@@ -65,17 +65,17 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Ecuador,736]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 part_of:
 - '[[_Standards/WikiData/WD~Americas,828]]'
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
 - '[[_Standards/WikiData/WD~Earth,2]]'
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
-- "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+- "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
+- "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
 - '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
@@ -107,8 +107,8 @@ coordinate_location: "Point(-59.0 -21.0)"
 coordinates_of_easternmost_point: "Point(-34.793055555 -7.155555555)"
 vehicles_per_thousand_people: 176
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~Northern Hemisphere,39061]]"
-- "[[_Standards/WikiData/WD~Southern Hemisphere,41228]]"
+- "[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]"
+- "[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]"
 highest_point: '[[_Standards/WikiData/WD~Aconcagua,39739]]'
 area: 17843000
 IAB_code: 1224

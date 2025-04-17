@@ -4,15 +4,15 @@ SpocWebEntityId: 21999
 has_id_wikidata: Q1226
 location_of_discovery: '[[_Standards/WikiData/WD~Dubna,135466]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 4,189302]]"
-- "[[_Standards/WikiData/WD~period 7,244979]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Albert Ghiorso,468345]]"
+- "[[_Standards/WikiData/WD~group_4,189302]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-named_after: "[[_Standards/WikiData/WD~Ernest Rutherford,9123]]"
-subclass_of: "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+named_after: "[[_Standards/WikiData/WD~Ernest_Rutherford,9123]]"
+subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
 atomic_number: 104
 OmegaWiki_Defined_Meaning: 353376
 time_of_discovery_or_invention: "1964"

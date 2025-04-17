@@ -2,32 +2,32 @@
 aliases:
 - "Speed of light"
 has_id_wikidata: Q2111
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Ole Rømer,160187]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Ole_Rømer,160187]]"
 instance_of:
-- "[[_Standards/WikiData/WD~physical constant,173227]]"
-- "[[_Standards/WikiData/WD~scalar quantity,181175]]"
+- "[[_Standards/WikiData/WD~physical_constant,173227]]"
+- "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
 - '[[_Standards/WikiData/WD~constant,188248]]'
-- "[[_Standards/WikiData/WD~fundamental limit,4493384]]"
-- "[[_Standards/WikiData/WD~measured quantity value,15088658]]"
-- "[[_Standards/WikiData/WD~unit of speed,15222637]]"
-- "[[_Standards/WikiData/WD~UCUM constant,83155724]]"
-- "[[_Standards/WikiData/WD~unit of measurement,47574]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~metre per second,182429]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~speed of gravity,319686]]"
+- "[[_Standards/WikiData/WD~fundamental_limit,4493384]]"
+- "[[_Standards/WikiData/WD~measured_quantity_value,15088658]]"
+- "[[_Standards/WikiData/WD~unit_of_speed,15222637]]"
+- "[[_Standards/WikiData/WD~UCUM_constant,83155724]]"
+- "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
+recommended_unit_of_measurement: "[[_Standards/WikiData/WD~metre_per_second,182429]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~speed_of_gravity,319686]]"
 facet_of:
-- "[[_Standards/WikiData/WD~massless quantum particle,2024141]]"
+- "[[_Standards/WikiData/WD~massless_quantum_particle,2024141]]"
 - '[[_Standards/WikiData/WD~electromagnetism,11406]]'
-- "[[_Standards/WikiData/WD~special relativity,11455]]"
+- "[[_Standards/WikiData/WD~special_relativity,11455]]"
 - '[[_Standards/WikiData/WD~vacuum,11475]]'
 measured_physical_quantity: '[[_Standards/WikiData/WD~speed,3711325]]'
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-- "[[_Standards/WikiData/WD~WikiProject Physics,8487193]]"
-different_from: "[[_Standards/WikiData/WD~speed of light in a medium,9092845]]"
+- "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]"
+different_from: "[[_Standards/WikiData/WD~speed_of_light_in_a_medium,9092845]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~IEC 80000-6_2008 Quantities and units—Part 6_ Electromagnetism,26711936]]"
-- "[[_Standards/WikiData/WD~ISO 80000-7_2008 Quantities and units—Part 7_ Light,26711937]]"
-- "[[_Standards/WikiData/WD~IEC 80000-6_2022 Quantities and units — Part 6_ Electromagnetism,117847945]]"
+- "[[_Standards/WikiData/WD~IEC_80000-6_2008_Quantities_and_units—Part_6__Electromagnetism,26711936]]"
+- "[[_Standards/WikiData/WD~ISO_80000-7_2008_Quantities_and_units—Part_7__Light,26711937]]"
+- "[[_Standards/WikiData/WD~IEC_80000-6_2022_Quantities_and_units_—_Part_6__Electromagnetism,117847945]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Velocidad%20de%20la%20luz-article-part1.ogg"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Fizeau.ogv"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%B0%20%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%97.wav"

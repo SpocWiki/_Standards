@@ -1,103 +1,103 @@
 ---
-highest_point: "[[_Standards/WikiData/WD~Cerro El Pital,74214]]"
+highest_point: "[[_Standards/WikiData/WD~Cerro_El_Pital,74214]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Central American Bank for Economic Integration,190008]]"
-- "[[_Standards/WikiData/WD~Central American Common Market,190019]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~International Regional Organization for Agricultural Health,3356166]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]"
+- "[[_Standards/WikiData/WD~Central_American_Common_Market,190019]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~International_Regional_Organization_for_Agricultural_Health,3356166]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 currency: '[[_Standards/WikiData/WD~bitcoin,131723]]'
-flag: "[[_Standards/WikiData/WD~flag of El Salvador,173554]]"
+flag: "[[_Standards/WikiData/WD~flag_of_El_Salvador,173554]]"
 head_of_government:
-- "[[_Standards/WikiData/WD~Antonio Saca,211000]]"
-- "[[_Standards/WikiData/WD~Francisco Flores,381002]]"
-- "[[_Standards/WikiData/WD~Salvador Sánchez Cerén,936831]]"
-- "[[_Standards/WikiData/WD~Nayib Bukele,17712353]]"
-- "[[_Standards/WikiData/WD~Mauricio Funes,57342]]"
+- "[[_Standards/WikiData/WD~Antonio_Saca,211000]]"
+- "[[_Standards/WikiData/WD~Francisco_Flores,381002]]"
+- "[[_Standards/WikiData/WD~Salvador_Sánchez_Cerén,936831]]"
+- "[[_Standards/WikiData/WD~Nayib_Bukele,17712353]]"
+- "[[_Standards/WikiData/WD~Mauricio_Funes,57342]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Sonsonate Department,212540]]"
-- "[[_Standards/WikiData/WD~Chalatenango Department,522221]]"
-- "[[_Standards/WikiData/WD~Ahuachapán Department,572993]]"
-- "[[_Standards/WikiData/WD~Santa Ana Department,671158]]"
-- "[[_Standards/WikiData/WD~Cabañas Department,914058]]"
-- "[[_Standards/WikiData/WD~San Miguel Department,930804]]"
-- "[[_Standards/WikiData/WD~La Libertad Department,930820]]"
-- "[[_Standards/WikiData/WD~Usulután Department,1122748]]"
-- "[[_Standards/WikiData/WD~Morazán Department,1122836]]"
-- "[[_Standards/WikiData/WD~La Paz Department,1129788]]"
-- "[[_Standards/WikiData/WD~San Vicente Department,1130180]]"
-- "[[_Standards/WikiData/WD~Cuscatlán Department,1130677]]"
-- "[[_Standards/WikiData/WD~La Unión Department,1130688]]"
-- "[[_Standards/WikiData/WD~San Salvador Department,1543219]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of El Salvador,242981]]"
-anthem: "[[_Standards/WikiData/WD~National anthem of El Salvador,505728]]"
+- "[[_Standards/WikiData/WD~Sonsonate_Department,212540]]"
+- "[[_Standards/WikiData/WD~Chalatenango_Department,522221]]"
+- "[[_Standards/WikiData/WD~Ahuachapán_Department,572993]]"
+- "[[_Standards/WikiData/WD~Santa_Ana_Department,671158]]"
+- "[[_Standards/WikiData/WD~Cabañas_Department,914058]]"
+- "[[_Standards/WikiData/WD~San_Miguel_Department,930804]]"
+- "[[_Standards/WikiData/WD~La_Libertad_Department,930820]]"
+- "[[_Standards/WikiData/WD~Usulután_Department,1122748]]"
+- "[[_Standards/WikiData/WD~Morazán_Department,1122836]]"
+- "[[_Standards/WikiData/WD~La_Paz_Department,1129788]]"
+- "[[_Standards/WikiData/WD~San_Vicente_Department,1130180]]"
+- "[[_Standards/WikiData/WD~Cuscatlán_Department,1130677]]"
+- "[[_Standards/WikiData/WD~La_Unión_Department,1130688]]"
+- "[[_Standards/WikiData/WD~San_Salvador_Department,1543219]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_El_Salvador,242981]]"
+anthem: "[[_Standards/WikiData/WD~National_anthem_of_El_Salvador,505728]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~913,25648879]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
 part_of:
-- "[[_Standards/WikiData/WD~Hispanic America,653884]]"
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~Central America,27611]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of El Salvador,675398]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of El Salvador,878151]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of El Salvador,878151]]"
+- "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~Central_America,27611]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_El_Salvador,675398]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_El_Salvador,878151]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_El_Salvador,878151]]"
 language_used:
 - '[[_Standards/WikiData/WD~Pipil,1186896]]'
 - '[[_Standards/WikiData/WD~Cacaopera,3438338]]'
-- "[[_Standards/WikiData/WD~Salvadoran Sign Language,7406492]]"
+- "[[_Standards/WikiData/WD~Salvadoran_Sign_Language,7406492]]"
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 different_from:
 - '[[_Standards/WikiData/WD~Salvador,1255281]]'
-central_bank: "[[_Standards/WikiData/WD~Central Reserve Bank of El Salvador,1801435]]"
-legislative_body: "[[_Standards/WikiData/WD~Legislative Assembly of El Salvador,1812873]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of El Salvador,2397105]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of El Salvador,2657385]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of El Salvador,2991459]]"
-culture: "[[_Standards/WikiData/WD~culture of El Salvador,3007376]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Reserve_Bank_of_El_Salvador,1801435]]"
+legislative_body: "[[_Standards/WikiData/WD~Legislative_Assembly_of_El_Salvador,1812873]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_El_Salvador,2397105]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_El_Salvador,2657385]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_El_Salvador,2991459]]"
+culture: "[[_Standards/WikiData/WD~culture_of_El_Salvador,3007376]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~free_country,3174312]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-executive_body: "[[_Standards/WikiData/WD~Government of El Salvador,5589203]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of El Salvador,7112250]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_El_Salvador,5589203]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_El_Salvador,7112250]]"
 named_after: '[[_Standards/WikiData/WD~Redeemer,7305703]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_El Salvador,11274388]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_El_Salvador,11274388]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-head_of_state: "[[_Standards/WikiData/WD~Nayib Bukele,17712353]]"
+head_of_state: "[[_Standards/WikiData/WD~Nayib_Bukele,17712353]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q27103682,27103682]]'
 - '[[_Standards/WikiData/WD~Q111313426,111313426]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_El_Salvador,63286062]]'
 - '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
-replaces: "[[_Standards/WikiData/WD~State of El Salvador,65182752]]"
-open_data_portal: "[[_Standards/WikiData/WD~El Salvador open data,97150530]]"
+replaces: "[[_Standards/WikiData/WD~State_of_El_Salvador,65182752]]"
+open_data_portal: "[[_Standards/WikiData/WD~El_Salvador_open_data,97150530]]"
 coordinate_location: "Point(-88.866111 13.668889)"
 demonym:
 - صالڤادوري
@@ -225,22 +225,22 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Guatemala,774]]'
 - '[[_Standards/WikiData/WD~Honduras,783]]'
-country: "[[_Standards/WikiData/WD~El Salvador,792]]"
+country: "[[_Standards/WikiData/WD~El_Salvador,792]]"
 official_language:
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
-capital: "[[_Standards/WikiData/WD~San Salvador,3110]]"
-continent: "[[_Standards/WikiData/WD~North America,49]]"
-lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+capital: "[[_Standards/WikiData/WD~San_Salvador,3110]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
+lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 unemployment_rate: 6
 BTI_Status_Index:
 - 7

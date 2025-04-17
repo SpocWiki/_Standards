@@ -35,51 +35,51 @@ Languages:
 icon: flag-pa
 has_id_wikidata: Q804
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Central American Bank for Economic Integration,190008]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~International Regional Organization for Agricultural Health,3356166]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~International_Regional_Organization_for_Agricultural_Health,3356166]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Panama,168941]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Panama,168941]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Bocas del Toro Province,217138]]"
-- "[[_Standards/WikiData/WD~Panamá Province,557506]]"
-- "[[_Standards/WikiData/WD~Veraguas Province,593137]]"
-- "[[_Standards/WikiData/WD~Darién Province,688660]]"
-- "[[_Standards/WikiData/WD~Chiriquí Province,739651]]"
-- "[[_Standards/WikiData/WD~Colón Province,820514]]"
-- "[[_Standards/WikiData/WD~Coclé Province,825799]]"
-- "[[_Standards/WikiData/WD~Herrera Province,842886]]"
-- "[[_Standards/WikiData/WD~Los Santos Province,911278]]"
-- "[[_Standards/WikiData/WD~Guna Yala,919017]]"
-- "[[_Standards/WikiData/WD~Ngöbe-Buglé Comarca,1129783]]"
-- "[[_Standards/WikiData/WD~Emberá-Wounaan Comarca,1141041]]"
-- "[[_Standards/WikiData/WD~Kuna de Wargandí,1772895]]"
+- "[[_Standards/WikiData/WD~Bocas_del_Toro_Province,217138]]"
+- "[[_Standards/WikiData/WD~Panamá_Province,557506]]"
+- "[[_Standards/WikiData/WD~Veraguas_Province,593137]]"
+- "[[_Standards/WikiData/WD~Darién_Province,688660]]"
+- "[[_Standards/WikiData/WD~Chiriquí_Province,739651]]"
+- "[[_Standards/WikiData/WD~Colón_Province,820514]]"
+- "[[_Standards/WikiData/WD~Coclé_Province,825799]]"
+- "[[_Standards/WikiData/WD~Herrera_Province,842886]]"
+- "[[_Standards/WikiData/WD~Los_Santos_Province,911278]]"
+- "[[_Standards/WikiData/WD~Guna_Yala,919017]]"
+- "[[_Standards/WikiData/WD~Ngöbe-Buglé_Comarca,1129783]]"
+- "[[_Standards/WikiData/WD~Emberá-Wounaan_Comarca,1141041]]"
+- "[[_Standards/WikiData/WD~Kuna_de_Wargandí,1772895]]"
 - '[[_Standards/WikiData/WD~Madugandí,1988907]]'
-- "[[_Standards/WikiData/WD~Panamá Oeste Province,16250688]]"
+- "[[_Standards/WikiData/WD~Panamá_Oeste_Province,16250688]]"
 head_of_government:
-- "[[_Standards/WikiData/WD~Mireya Moscoso,231946]]"
-- "[[_Standards/WikiData/WD~Martín Torrijos,276283]]"
-- "[[_Standards/WikiData/WD~Juan Carlos Varela,1134096]]"
-- "[[_Standards/WikiData/WD~Laurentino Cortizo,28122455]]"
-- "[[_Standards/WikiData/WD~José Raúl Mulino,108454869]]"
-- "[[_Standards/WikiData/WD~Ricardo Martinelli,57491]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Panama,242985]]"
+- "[[_Standards/WikiData/WD~Mireya_Moscoso,231946]]"
+- "[[_Standards/WikiData/WD~Martín_Torrijos,276283]]"
+- "[[_Standards/WikiData/WD~Juan_Carlos_Varela,1134096]]"
+- "[[_Standards/WikiData/WD~Laurentino_Cortizo,28122455]]"
+- "[[_Standards/WikiData/WD~José_Raúl_Mulino,108454869]]"
+- "[[_Standards/WikiData/WD~Ricardo_Martinelli,57491]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Panama,242985]]"
 twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Aisai,269644]]'
 - '[[_Standards/WikiData/WD~Incheon,20934]]'
@@ -87,63 +87,63 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~103,25648811]]'
 - '[[_Standards/WikiData/WD~104,25648855]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Panama,548401]]"
-highest_point: "[[_Standards/WikiData/WD~Volcán Barú,594726]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Panama,548401]]"
+highest_point: "[[_Standards/WikiData/WD~Volcán_Barú,594726]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 part_of:
-- "[[_Standards/WikiData/WD~Hispanic America,653884]]"
-- "[[_Standards/WikiData/WD~Continental Central America,18479603]]"
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
-- "[[_Standards/WikiData/WD~Central America,27611]]"
-anthem: "[[_Standards/WikiData/WD~National anthem of Panama,753873]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Panama,886965]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Panama,886965]]"
+- "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+- "[[_Standards/WikiData/WD~Continental_Central_America,18479603]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
+- "[[_Standards/WikiData/WD~Central_America,27611]]"
+anthem: "[[_Standards/WikiData/WD~National_anthem_of_Panama,753873]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Panama,886965]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Panama,886965]]"
 coordinates_of_easternmost_point: "Point(-77.15857 7.93226)"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly of Panama,1368588]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Panama,1516574]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Panama,2333329]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Panama,1368588]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Panama,1516574]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Panama,2333329]]"
 language_used:
-- "[[_Standards/WikiData/WD~Northern Embera,2391297]]"
+- "[[_Standards/WikiData/WD~Northern_Embera,2391297]]"
 - '[[_Standards/WikiData/WD~Catio,3052039]]'
 - '[[_Standards/WikiData/WD~Buglere,3368506]]'
 - '[[_Standards/WikiData/WD~Guaymí,3915581]]'
-- "[[_Standards/WikiData/WD~Panamanian Sign Language,7129968]]"
-- "[[_Standards/WikiData/WD~San Miguel Creole French,12953094]]"
-- "[[_Standards/WikiData/WD~San Blas Kuna,12953659]]"
-- "[[_Standards/WikiData/WD~Border Kuna,31777873]]"
+- "[[_Standards/WikiData/WD~Panamanian_Sign_Language,7129968]]"
+- "[[_Standards/WikiData/WD~San_Miguel_Creole_French,12953094]]"
+- "[[_Standards/WikiData/WD~San_Blas_Kuna,12953659]]"
+- "[[_Standards/WikiData/WD~Border_Kuna,31777873]]"
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
 - '[[_Standards/WikiData/WD~Teribe,36533]]'
-culture: "[[_Standards/WikiData/WD~culture of Panama,3007370]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-instance_of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Panama,3007370]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 replaces: '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Provinces and regions of Panama,6070317]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Panama,7112404]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Provinces_and_regions_of_Panama,6070317]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Panama,7112404]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Panama,11265580]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q27103594,27103594]]'
 - '[[_Standards/WikiData/WD~Q111452788,111452788]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Panama,63286069]]'
 - '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
-open_data_portal: "[[_Standards/WikiData/WD~Panama Open Data,97073910]]"
+open_data_portal: "[[_Standards/WikiData/WD~Panama_Open_Data,97073910]]"
 nominal_GDP:
 - 67406738052
 - 76522511781
-head_of_state: "[[_Standards/WikiData/WD~José Raúl Mulino,108454869]]"
+head_of_state: "[[_Standards/WikiData/WD~José_Raúl_Mulino,108454869]]"
 different_from: '[[_Standards/WikiData/WD~Panama,124822168]]'
 demonym:
 - پانامي
@@ -195,24 +195,24 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
-- "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
+- "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Colombia,739]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 country: '[[_Standards/WikiData/WD~Panama,804]]'
-lowest_point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+lowest_point: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
 official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
-capital: "[[_Standards/WikiData/WD~Panama City,3306]]"
+capital: "[[_Standards/WikiData/WD~Panama_City,3306]]"
 continent:
-- "[[_Standards/WikiData/WD~South America,18]]"
-- "[[_Standards/WikiData/WD~North America,49]]"
+- "[[_Standards/WikiData/WD~South_America,18]]"
+- "[[_Standards/WikiData/WD~North_America,49]]"
 unemployment_rate: 4
 VAT_rate: 7
 mains_voltage: 110
@@ -266,11 +266,11 @@ maritime_identification_digits:
 - 353
 - 372
 - 355
-basic_form_of_government: "[[_Standards/WikiData/WD~presidential system,49892]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~presidential_system,49892]]"
 Happy_Planet_Index_score: 57.9
 Democracy_Index: 7.18
 Human_Development_Index: 0.805
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Panama,60273]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Panama,60273]]"
 total_fertility_rate: 2.444
 GS1_country_code: 745
 IAB_code: 1376

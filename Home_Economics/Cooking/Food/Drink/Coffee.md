@@ -1,39 +1,39 @@
 ﻿---
 has_id_wikidata: Q8486
 made_from_material:
-- "[[_Standards/WikiData/WD~coffee bean,153697]]"
-- "[[_Standards/WikiData/WD~hot water,1419245]]"
+- "[[_Standards/WikiData/WD~coffee_bean,153697]]"
+- "[[_Standards/WikiData/WD~hot_water,1419245]]"
 different_from:
 - '[[_Standards/WikiData/WD~Joe,255073]]'
 - '[[_Standards/WikiData/WD~Kawa,1211689]]'
 natural_product_of_taxon:
-- "[[_Standards/WikiData/WD~kapeng barako,263685]]"
-- "[[_Standards/WikiData/WD~Coffea stenophylla,672410]]"
-- "[[_Standards/WikiData/WD~Coffea charrieriana,2671806]]"
-- "[[_Standards/WikiData/WD~Coffea robusta,50831333]]"
-- "[[_Standards/WikiData/WD~Cultured coffee,124986927]]"
-- "[[_Standards/WikiData/WD~Coffea arabica,47685]]"
+- "[[_Standards/WikiData/WD~kapeng_barako,263685]]"
+- "[[_Standards/WikiData/WD~Coffea_stenophylla,672410]]"
+- "[[_Standards/WikiData/WD~Coffea_charrieriana,2671806]]"
+- "[[_Standards/WikiData/WD~Coffea_robusta,50831333]]"
+- "[[_Standards/WikiData/WD~Cultured_coffee,124986927]]"
+- "[[_Standards/WikiData/WD~Coffea_arabica,47685]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~nootropic,742487]]'
-- "[[_Standards/WikiData/WD~stimulant foodstuff,1365365]]"
-- "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
-- "[[_Standards/WikiData/WD~hot beverage,19359564]]"
-- "[[_Standards/WikiData/WD~coffee drink,37756327]]"
+- "[[_Standards/WikiData/WD~stimulant_foodstuff,1365365]]"
+- "[[_Standards/WikiData/WD~non-alcoholic_beverage,2647467]]"
+- "[[_Standards/WikiData/WD~hot_beverage,19359564]]"
+- "[[_Standards/WikiData/WD~coffee_drink,37756327]]"
 has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of coffee,2635744]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_coffee,2635744]]"
 fabrication_method:
 - '[[_Standards/WikiData/WD~steeping,3309953]]'
 - '[[_Standards/WikiData/WD~boiling,20074315]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Coffee,6492500]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21287180,21287180]]'
-part_of: "[[_Standards/WikiData/WD~gassosa al caffè,65129864]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Intangible Cultural Heritage,112898263]]"
+part_of: "[[_Standards/WikiData/WD~gassosa_al_caffè,65129864]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffee2.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffee3.ogg"

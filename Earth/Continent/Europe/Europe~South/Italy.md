@@ -40,100 +40,100 @@ Languages:
 - sl
 icon: flag-it
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~Mediterranean Basin,72499]]"
-- "[[_Standards/WikiData/WD~Southern Europe,27449]]"
+- "[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]"
+- "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~Food and Agriculture Organization,82151]]"
-- "[[_Standards/WikiData/WD~Latin Union,123209]]"
-- "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-- "[[_Standards/WikiData/WD~Office of the United Nations High Commissioner for Refugees,132551]]"
-- "[[_Standards/WikiData/WD~European Air Transport Command,141720]]"
-- "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
-- "[[_Standards/WikiData/WD~European Coal and Steel Community,161549]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Interparliamentary Union,176815]]"
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~UN Trade and Development,182000]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~Western European Union,189946]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Union for the Mediterranean,192177]]"
-- "[[_Standards/WikiData/WD~International Maritime Organization,201054]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Bank for International Settlements,309195]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations Industrial Development Organization,386120]]"
-- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
-- "[[_Standards/WikiData/WD~European Bank for Reconstruction and Development,488981]]"
-- "[[_Standards/WikiData/WD~Organisation for Joint Armament Cooperation,521227]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
+- "[[_Standards/WikiData/WD~Latin_Union,123209]]"
+- "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+- "[[_Standards/WikiData/WD~Office_of_the_United_Nations_High_Commissioner_for_Refugees,132551]]"
+- "[[_Standards/WikiData/WD~European_Air_Transport_Command,141720]]"
+- "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+- "[[_Standards/WikiData/WD~European_Coal_and_Steel_Community,161549]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Interparliamentary_Union,176815]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~UN_Trade_and_Development,182000]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~Western_European_Union,189946]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Union_for_the_Mediterranean,192177]]"
+- "[[_Standards/WikiData/WD~International_Maritime_Organization,201054]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Bank_for_International_Settlements,309195]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations_Industrial_Development_Organization,386120]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
+- "[[_Standards/WikiData/WD~European_Bank_for_Reconstruction_and_Development,488981]]"
+- "[[_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~International Fund for Agricultural Development,689859]]"
-- "[[_Standards/WikiData/WD~United Nations Truce Supervision Organization,699036]]"
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Chamber of Commerce,848633]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Permanent Court of Arbitration,1045198]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Inter-American Development Bank,1153087]]"
-- "[[_Standards/WikiData/WD~Euro-Atlantic Partnership Council,1374456]]"
-- "[[_Standards/WikiData/WD~European Payments Union,1377612]]"
-- "[[_Standards/WikiData/WD~Group of Ten,1411881]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~International Mobile Satellite Organization,1666759]]"
+- "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
+- "[[_Standards/WikiData/WD~United_Nations_Truce_Supervision_Organization,699036]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Chamber_of_Commerce,848633]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Permanent_Court_of_Arbitration,1045198]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Inter-American_Development_Bank,1153087]]"
+- "[[_Standards/WikiData/WD~Euro-Atlantic_Partnership_Council,1374456]]"
+- "[[_Standards/WikiData/WD~European_Payments_Union,1377612]]"
+- "[[_Standards/WikiData/WD~Group_of_Ten,1411881]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~International_Mobile_Satellite_Organization,1666759]]"
 - '[[_Standards/WikiData/WD~G7,1764511]]'
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~International Red Cross and Red Crescent Movement,7178]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~International_Red_Cross_and_Red_Crescent_Movement,7178]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
-- "[[_Standards/WikiData/WD~International Monetary Fund,7804]]"
+- "[[_Standards/WikiData/WD~International_Monetary_Fund,7804]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
 - '[[_Standards/WikiData/WD~G8,37143]]'
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~International Atomic Energy Agency,41984]]"
-- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]"
+- "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
 - '[[_Standards/WikiData/WD~CERN,42944]]'
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
-- "[[_Standards/WikiData/WD~International Criminal Court,47488]]"
-- "[[_Standards/WikiData/WD~European Economic Community,52847]]"
-- "[[_Standards/WikiData/WD~International Labour Organization,54129]]"
-- "[[_Standards/WikiData/WD~UN Tourism,61923]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~Procurement G6,18816843]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- "[[_Standards/WikiData/WD~International_Criminal_Court,47488]]"
+- "[[_Standards/WikiData/WD~European_Economic_Community,52847]]"
+- "[[_Standards/WikiData/WD~International_Labour_Organization,54129]]"
+- "[[_Standards/WikiData/WD~UN_Tourism,61923]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Procurement_G6,18816843]]"
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 public_holiday:
 - '[[_Standards/WikiData/WD~Epiphany,132001]]'
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~Festa della Repubblica,802461]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~Festa_della_Repubblica,802461]]"
 - '[[_Standards/WikiData/WD~Ferragosto,1262719]]'
-- "[[_Standards/WikiData/WD~Saint Stephen's Day,1366863]]"
-- "[[_Standards/WikiData/WD~Anniversary of the liberation of Italy,2851732]]"
-- "[[_Standards/WikiData/WD~Feast of the Immaculate Conception,3538509]]"
-- "[[_Standards/WikiData/WD~All Saints' Day,587]]"
+- "[[_Standards/WikiData/WD~Saint_Stephen's_Day,1366863]]"
+- "[[_Standards/WikiData/WD~Anniversary_of_the_liberation_of_Italy,2851732]]"
+- "[[_Standards/WikiData/WD~Feast_of_the_Immaculate_Conception,3538509]]"
+- "[[_Standards/WikiData/WD~All_Saints'_Day,587]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
 - '[[_Standards/WikiData/WD~Easter,21196]]'
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Paraguay,733]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
@@ -146,7 +146,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
@@ -158,7 +158,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -180,8 +180,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -192,25 +192,25 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Andorra,228]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Monaco,235]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
-- "[[_Standards/WikiData/WD~San Marino,238]]"
+- "[[_Standards/WikiData/WD~San_Marino,238]]"
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 - '[[_Standards/WikiData/WD~Yugoslavia,36704]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Liechtenstein,347]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
@@ -218,20 +218,20 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-replaces: "[[_Standards/WikiData/WD~Kingdom of Italy,172579]]"
-follows: "[[_Standards/WikiData/WD~Kingdom of Italy,172579]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+replaces: "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
+follows: "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
 shape: '[[_Standards/WikiData/WD~boot,190868]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Italy,199432]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Italy,216989]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Italy,199432]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Italy,216989]]"
 patron_saint:
-- "[[_Standards/WikiData/WD~Catherine of Siena,229190]]"
-- "[[_Standards/WikiData/WD~Francis of Assisi,676555]]"
+- "[[_Standards/WikiData/WD~Catherine_of_Siena,229190]]"
+- "[[_Standards/WikiData/WD~Francis_of_Assisi,676555]]"
 language_used:
 - '[[_Standards/WikiData/WD~Mòcheno,268130]]'
-- "[[_Standards/WikiData/WD~Italian Sign Language,375619]]"
+- "[[_Standards/WikiData/WD~Italian_Sign_Language,375619]]"
 - '[[_Standards/WikiData/WD~Gallurese,612220]]'
-- "[[_Standards/WikiData/WD~Walser German,680517]]"
+- "[[_Standards/WikiData/WD~Walser_German,680517]]"
 - '[[_Standards/WikiData/WD~Logudorese,777974]]'
 - '[[_Standards/WikiData/WD~Sassarese,845441]]'
 - '[[_Standards/WikiData/WD~Emilian,1057898]]'
@@ -252,55 +252,55 @@ language_used:
 - '[[_Standards/WikiData/WD~Neapolitan,33845]]'
 - '[[_Standards/WikiData/WD~Sicilian,33973]]'
 - '[[_Standards/WikiData/WD~Sardinian,33976]]'
-- "[[_Standards/WikiData/WD~Campidanese Sardinian,35348]]"
-- "[[_Standards/WikiData/WD~International Sign,35754]]"
+- "[[_Standards/WikiData/WD~Campidanese_Sardinian,35348]]"
+- "[[_Standards/WikiData/WD~International_Sign,35754]]"
 - '[[_Standards/WikiData/WD~Ligurian,36106]]'
 - '[[_Standards/WikiData/WD~Ladin,36202]]'
 - '[[_Standards/WikiData/WD~Slavomolisano,36254]]'
 - '[[_Standards/WikiData/WD~Cimbrian,37053]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~History of Ming,28763]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Italy,332711]]"
-head_of_government: "[[_Standards/WikiData/WD~Giorgia Meloni,451791]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Italy,719967]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Italy,720060]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Italy,796897]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Italy,806176]]"
-named_after: "[[_Standards/WikiData/WD~Roman Italy,913582]]"
-legislative_body: "[[_Standards/WikiData/WD~Italian Parliament,1117578]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Italy,332711]]"
+head_of_government: "[[_Standards/WikiData/WD~Giorgia_Meloni,451791]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Italy,719967]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Italy,720060]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Italy,796897]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Italy,806176]]"
+named_after: "[[_Standards/WikiData/WD~Roman_Italy,913582]]"
+legislative_body: "[[_Standards/WikiData/WD~Italian_Parliament,1117578]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type L,1520890]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Cassation,1135541]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Italy,1800338]]"
-culture: "[[_Standards/WikiData/WD~culture of Italy,1992919]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~Type_L,1520890]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Cassation,1135541]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Italy,1800338]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Italy,1992919]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-has_cabinet: "[[_Standards/WikiData/WD~Council of Ministers of Italy,3687318]]"
+has_cabinet: "[[_Standards/WikiData/WD~Council_of_Ministers_of_Italy,3687318]]"
 lowest_point: '[[_Standards/WikiData/WD~Contane,3687778]]'
-highest_point: "[[_Standards/WikiData/WD~Mont Blanc,583]]"
+highest_point: "[[_Standards/WikiData/WD~Mont_Blanc,583]]"
 official_language: '[[_Standards/WikiData/WD~Italian,652]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Lombardy,1210]]'
 - '[[_Standards/WikiData/WD~Piedmont,1216]]'
-- "[[_Standards/WikiData/WD~Aosta Valley,1222]]"
-- "[[_Standards/WikiData/WD~Trentino-South Tyrol,1237]]"
+- "[[_Standards/WikiData/WD~Aosta_Valley,1222]]"
+- "[[_Standards/WikiData/WD~Trentino-South_Tyrol,1237]]"
 - '[[_Standards/WikiData/WD~Veneto,1243]]'
-- "[[_Standards/WikiData/WD~Friuli Venezia Giulia,1250]]"
+- "[[_Standards/WikiData/WD~Friuli_Venezia_Giulia,1250]]"
 - '[[_Standards/WikiData/WD~Liguria,1256]]'
 - '[[_Standards/WikiData/WD~Emilia-Romagna,1263]]'
 - '[[_Standards/WikiData/WD~Tuscany,1273]]'
@@ -316,16 +316,16 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Sardinia,1462]]'
 - '[[_Standards/WikiData/WD~Sicily,1460]]'
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-- "[[_Standards/WikiData/WD~Adriatic Sea,13924]]"
-- "[[_Standards/WikiData/WD~Ionian Sea,37495]]"
-- "[[_Standards/WikiData/WD~Tyrrhenian Sea,38882]]"
-- "[[_Standards/WikiData/WD~Ligurian Sea,42820]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Italy,7791]]"
+- "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+- "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
+- "[[_Standards/WikiData/WD~Ionian_Sea,37495]]"
+- "[[_Standards/WikiData/WD~Tyrrhenian_Sea,38882]]"
+- "[[_Standards/WikiData/WD~Ligurian_Sea,42820]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Italy,7791]]"
 part_of:
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
 - '[[_Standards/WikiData/WD~Europe,46]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 minimum_temperature_record: -49.6
 shares_border_with:
 - '[[_Standards/WikiData/WD~Switzerland,39]]'
@@ -333,10 +333,10 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~France,142]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
-- "[[_Standards/WikiData/WD~San Marino,238]]"
-- "[[_Standards/WikiData/WD~Vatican City,237]]"
+- "[[_Standards/WikiData/WD~San_Marino,238]]"
+- "[[_Standards/WikiData/WD~Vatican_City,237]]"
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
-anthem: "[[_Standards/WikiData/WD~Il Canto degli Italiani,187]]"
+anthem: "[[_Standards/WikiData/WD~Il_Canto_degli_Italiani,187]]"
 capital: '[[_Standards/WikiData/WD~Rome,220]]'
 compulsory_education_minimum_age_: 6
 birth_rate:
@@ -360,7 +360,7 @@ death_rate:
 - 12.1
 - 12.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.it,39155]]'
-flag: "[[_Standards/WikiData/WD~flag of Italy,42876]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Italy,42876]]"
 Gini_coefficient: 35.2
 Happy_Planet_Index_score: 50.7
 Democracy_Index: 7.74
@@ -370,12 +370,12 @@ maritime_identification_digits: 247
 M49_code: 380
 ISO_3166_1_numeric_code: 380
 OpenStreetMap_zoom_level: 5
-executive_body: "[[_Standards/WikiData/WD~Government of Italy,3773971]]"
-head_of_state: "[[_Standards/WikiData/WD~Sergio Mattarella,3956186]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Italy,3773971]]"
+head_of_state: "[[_Standards/WikiData/WD~Sergio_Mattarella,3956186]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~Europe_Rome,5412122]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Italy,6876022]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Italy,7112307]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Italy,6876022]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Italy,7112307]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Colosseo%202020.jpg"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10563933,10563933]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Italy,10631821]]'
@@ -388,9 +388,9 @@ driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q20820609,20820609]]'
 - '[[_Standards/WikiData/WD~Q30277415,30277415]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 coordinates_of_easternmost_point: "Point(18.52043867 40.10725766)"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data Portal Italy,97013442]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Italy,97013442]]"
 different_from: '[[_Standards/WikiData/WD~Italia,121691254]]'
 coordinates_of_westernmost_point: "Point(6.62677288 45.10336498)"
 demonym:

@@ -1,45 +1,45 @@
 ﻿---
 has_id_wikidata: Q149972
 has_part_s_:
-- "[[_Standards/WikiData/WD~differential calculus,149999]]"
-- "[[_Standards/WikiData/WD~integral calculus,150008]]"
+- "[[_Standards/WikiData/WD~differential_calculus,149999]]"
+- "[[_Standards/WikiData/WD~integral_calculus,150008]]"
 different_from:
 - '[[_Standards/WikiData/WD~Calculus,400405]]'
 - '[[_Standards/WikiData/WD~calculus,617079]]'
-- "[[_Standards/WikiData/WD~multivariable calculus,2035437]]"
+- "[[_Standards/WikiData/WD~multivariable_calculus,2035437]]"
 - '[[_Standards/WikiData/WD~Q13538498,13538498]]'
 - '[[_Standards/WikiData/WD~Calculus,18092768]]'
 based_on:
-- "[[_Standards/WikiData/WD~Cavalieri's principle,586686]]"
-- "[[_Standards/WikiData/WD~method of exhaustion,865019]]"
+- "[[_Standards/WikiData/WD~Cavalieri's_principle,586686]]"
+- "[[_Standards/WikiData/WD~method_of_exhaustion,865019]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-instance_of: "[[_Standards/WikiData/WD~area of mathematics,1936384]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of calculus,2338709]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_calculus,2338709]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Calculus,6740481]]'
-- "[[_Standards/WikiData/WD~Template_Calculus topics,20326646]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of calculus,7112574]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
+- "[[_Standards/WikiData/WD~Template_Calculus_topics,20326646]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_calculus,7112574]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 Stack_Exchange_tag:
 - "https://math.stackexchange.com/tags/calculus"
 - "https://matheducators.stackexchange.com/tags/calculus"
 subreddit: calculus
 Krugosvet_article: matematika/matematicheskiy-analiz
-replaces: "[[_Standards/WikiData/WD~sublime calculation,47457983]]"
+replaces: "[[_Standards/WikiData/WD~sublime_calculation,47457983]]"
 theorized_by:
-- "[[_Standards/WikiData/WD~Isaac Newton,935]]"
-- "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
+- "[[_Standards/WikiData/WD~Isaac_Newton,935]]"
+- "[[_Standards/WikiData/WD~Gottfried_Wilhelm_Leibniz,9047]]"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Isaac Newton,935]]"
-- "[[_Standards/WikiData/WD~Gottfried Wilhelm Leibniz,9047]]"
+- "[[_Standards/WikiData/WD~Isaac_Newton,935]]"
+- "[[_Standards/WikiData/WD~Gottfried_Wilhelm_Leibniz,9047]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~advanced mathematics,4464]]"
-- "[[_Standards/WikiData/WD~mathematical analysis,7754]]"
+- "[[_Standards/WikiData/WD~advanced_mathematics,4464]]"
+- "[[_Standards/WikiData/WD~mathematical_analysis,7754]]"
 Dewey_Decimal_Classification: 515
 social_media_followers: 78572
 OmegaWiki_Defined_Meaning: 350515

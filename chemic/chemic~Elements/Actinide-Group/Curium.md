@@ -3,29 +3,29 @@ type: Element
 SpocWebEntityId: 21991
 has_id_wikidata: Q1876
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 instance_of:
-- "[[_Standards/WikiData/WD~synthetic element,755992]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox curium,8085313]]"
+- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_curium,8085313]]"
 different_from: '[[_Standards/WikiData/WD~Kiur,11739561]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65411312,65411312]]'
 UMLS_CUI: C0010473
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20145.jpg"
 named_after:
-- "[[_Standards/WikiData/WD~Marie Curie,7186]]"
-- "[[_Standards/WikiData/WD~Pierre Curie,37463]]"
+- "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
+- "[[_Standards/WikiData/WD~Pierre_Curie,37463]]"
 ionic_radius:
 - 0.85
 - 0.95
 - 0.97
 atomic_number: 96
 electronegativity: 1.28
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 mass: 247.07
 PubChem_CID: 23979
 OmegaWiki_Defined_Meaning: 157032

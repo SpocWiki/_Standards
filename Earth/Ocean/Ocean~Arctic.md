@@ -5,52 +5,52 @@ Colon_Classification: SG--987
 Gujarati_Vishwakosh_entry: આર્કટિક-મહાસાગર
 coordinate_location: "Point(0.0 90.0)"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Northwest Passage,81136]]"
-- "[[_Standards/WikiData/WD~Beaufort Sea,131274]]"
-- "[[_Standards/WikiData/WD~East Siberian Sea,163434]]"
-- "[[_Standards/WikiData/WD~Davis Strait,189262]]"
-- "[[_Standards/WikiData/WD~Hudson Strait,207702]]"
-- "[[_Standards/WikiData/WD~Lincoln Sea,243125]]"
-- "[[_Standards/WikiData/WD~Wandel Sea,259929]]"
-- "[[_Standards/WikiData/WD~Scoresby Sound,426453]]"
+- "[[_Standards/WikiData/WD~Northwest_Passage,81136]]"
+- "[[_Standards/WikiData/WD~Beaufort_Sea,131274]]"
+- "[[_Standards/WikiData/WD~East_Siberian_Sea,163434]]"
+- "[[_Standards/WikiData/WD~Davis_Strait,189262]]"
+- "[[_Standards/WikiData/WD~Hudson_Strait,207702]]"
+- "[[_Standards/WikiData/WD~Lincoln_Sea,243125]]"
+- "[[_Standards/WikiData/WD~Wandel_Sea,259929]]"
+- "[[_Standards/WikiData/WD~Scoresby_Sound,426453]]"
 - '[[_Standards/WikiData/WD~Rijpfjorden,3441649]]'
 - '[[_Standards/WikiData/WD~Duvefjorden,3441662]]'
-- "[[_Standards/WikiData/WD~Hudson Bay,3040]]"
-- "[[_Standards/WikiData/WD~Laptev Sea,7988]]"
-- "[[_Standards/WikiData/WD~Kara Sea,33629]]"
-- "[[_Standards/WikiData/WD~Baffin Bay,37040]]"
-- "[[_Standards/WikiData/WD~Barents Sea,45823]]"
-- "[[_Standards/WikiData/WD~Norwegian Sea,47545]]"
+- "[[_Standards/WikiData/WD~Hudson_Bay,3040]]"
+- "[[_Standards/WikiData/WD~Laptev_Sea,7988]]"
+- "[[_Standards/WikiData/WD~Kara_Sea,33629]]"
+- "[[_Standards/WikiData/WD~Baffin_Bay,37040]]"
+- "[[_Standards/WikiData/WD~Barents_Sea,45823]]"
+- "[[_Standards/WikiData/WD~Norwegian_Sea,47545]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Limits of Oceans and Seas, 3rd edition,35541239]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Limits_of_Oceans_and_Seas,_3rd_edition,35541239]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 part_of:
-- "[[_Standards/WikiData/WD~World Ocean,715269]]"
-- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+- "[[_Standards/WikiData/WD~World_Ocean,715269]]"
+- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 inflows:
-- "[[_Standards/WikiData/WD~Hood River,1627362]]"
-- "[[_Standards/WikiData/WD~Kukpuk River,3200297]]"
-- "[[_Standards/WikiData/WD~Wolf River,16211936]]"
-lowest_point: "[[_Standards/WikiData/WD~Molloy Deep,1943612]]"
+- "[[_Standards/WikiData/WD~Hood_River,1627362]]"
+- "[[_Standards/WikiData/WD~Kukpuk_River,3200297]]"
+- "[[_Standards/WikiData/WD~Wolf_River,16211936]]"
+lowest_point: "[[_Standards/WikiData/WD~Molloy_Deep,1943612]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10727352,10727352]]'
 category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27688757,27688757]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353197,42353197]]'
 drainage_basin:
-- "[[_Standards/WikiData/WD~Arctic Ocean basin,46525532]]"
+- "[[_Standards/WikiData/WD~Arctic_Ocean_basin,46525532]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9288%20%28heb%29-YaronSh-%D7%90%D7%95%D7%A7%D7%99%D7%99%D7%A0%D7%95%D7%A1%20%D7%94%D7%A7%D7%A8%D7%97%20%D7%94%D7%A6%D7%A4%D7%95%D7%A0%D7%99.wav"
 named_after: '[[_Standards/WikiData/WD~north,659]]'
 instance_of: '[[_Standards/WikiData/WD~ocean,9430]]'
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~international waters,25855]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~international_waters,25855]]"
 basin_country:
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Iceland,189]]'
 - '[[_Standards/WikiData/WD~Greenland,223]]'

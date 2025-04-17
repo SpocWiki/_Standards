@@ -4,21 +4,21 @@ aliases:
 - Himalaya
 has_id_wikidata: Q5451
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6,124737633]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Zweiter Band,126937278]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Fünfter Band,130285551]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Zweiter_Band,126937278]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Fünfter_Band,130285551]]"
 part_of:
-- "[[_Standards/WikiData/WD~Alpide belt,847514]]"
-- "[[_Standards/WikiData/WD~Larger Himalaya,18088753]]"
+- "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
+- "[[_Standards/WikiData/WD~Larger_Himalaya,18088753]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Himalayas.jpg"
 Commons_gallery: Himalayas
 Commons_category: Himalayas
@@ -26,7 +26,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%B8%D0
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Himalayas%20Map.png"
 MeSH_tree_code: Z01.252.245.782.813
 coordinate_location: "Point(84.0 29.0)"
-highest_point: "[[_Standards/WikiData/WD~Mount Everest,513]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Everest,513]]"
 country:
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Myanmar,836]]'
@@ -34,12 +34,12 @@ country:
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bhutan,917]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 area: 600000
 length: 2400
 width: 250
-instance_of: "[[_Standards/WikiData/WD~mountain system,46831]]"
+instance_of: "[[_Standards/WikiData/WD~mountain_system,46831]]"
 OmegaWiki_Defined_Meaning: 633099
 elevation_above_sea_level: 8848.86
 ---

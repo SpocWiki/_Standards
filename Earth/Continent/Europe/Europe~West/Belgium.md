@@ -36,177 +36,177 @@ Languages:
 - de-BE
 icon: flag-be
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~European Air Transport Command,141720]]"
-- "[[_Standards/WikiData/WD~European Southern Observatory,151991]]"
-- "[[_Standards/WikiData/WD~Dutch Language Union,152299]]"
-- "[[_Standards/WikiData/WD~European Coal and Steel Community,161549]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Organisation for Joint Armament Cooperation,521227]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~European_Air_Transport_Command,141720]]"
+- "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+- "[[_Standards/WikiData/WD~Dutch_Language_Union,152299]]"
+- "[[_Standards/WikiData/WD~European_Coal_and_Steel_Community,161549]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~European Payments Union,1377612]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Global Biodiversity Information Facility,1531570]]"
-- "[[_Standards/WikiData/WD~Belgium–Luxembourg Economic Union,1542735]]"
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~European_Payments_Union,1377612]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Global_Biodiversity_Information_Facility,1531570]]"
+- "[[_Standards/WikiData/WD~Belgium–Luxembourg_Economic_Union,1542735]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
 - '[[_Standards/WikiData/WD~Benelux,13116]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~European Space Agency,42262]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~French Community of Belgium,89959]]"
-- "[[_Standards/WikiData/WD~German-speaking Community of Belgium,90027]]"
-- "[[_Standards/WikiData/WD~Flemish Community,9331]]"
-- "[[_Standards/WikiData/WD~Flemish Region,9337]]"
+- "[[_Standards/WikiData/WD~French_Community_of_Belgium,89959]]"
+- "[[_Standards/WikiData/WD~German-speaking_Community_of_Belgium,90027]]"
+- "[[_Standards/WikiData/WD~Flemish_Community,9331]]"
+- "[[_Standards/WikiData/WD~Flemish_Region,9337]]"
 - '[[_Standards/WikiData/WD~Wallonia,231]]'
 - '[[_Standards/WikiData/WD~Flanders,234]]'
-- "[[_Standards/WikiData/WD~Brussels-Capital Region,240]]"
+- "[[_Standards/WikiData/WD~Brussels-Capital_Region,240]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~French Community of Belgium,89959]]"
-- "[[_Standards/WikiData/WD~German-speaking Community of Belgium,90027]]"
-- "[[_Standards/WikiData/WD~Flemish Community,9331]]"
-- "[[_Standards/WikiData/WD~Flemish Region,9337]]"
+- "[[_Standards/WikiData/WD~French_Community_of_Belgium,89959]]"
+- "[[_Standards/WikiData/WD~German-speaking_Community_of_Belgium,90027]]"
+- "[[_Standards/WikiData/WD~Flemish_Community,9331]]"
+- "[[_Standards/WikiData/WD~Flemish_Region,9337]]"
 - '[[_Standards/WikiData/WD~Wallonia,231]]'
-- "[[_Standards/WikiData/WD~Brussels-Capital Region,240]]"
+- "[[_Standards/WikiData/WD~Brussels-Capital_Region,240]]"
 language_used:
-- "[[_Standards/WikiData/WD~West Flemish,100103]]"
+- "[[_Standards/WikiData/WD~West_Flemish,100103]]"
 - '[[_Standards/WikiData/WD~Limburgish,102172]]'
-- "[[_Standards/WikiData/WD~Low Dietsch dialects,151156]]"
+- "[[_Standards/WikiData/WD~Low_Dietsch_dialects,151156]]"
 - '[[_Standards/WikiData/WD~Champenois,430018]]'
 - '[[_Standards/WikiData/WD~Lorrain,671198]]'
-- "[[_Standards/WikiData/WD~Belgian French,815549]]"
-- "[[_Standards/WikiData/WD~Belgian Dutch,1404296]]"
-- "[[_Standards/WikiData/WD~Sinte Romani,1793299]]"
-- "[[_Standards/WikiData/WD~Flemish Sign Language,2107617]]"
+- "[[_Standards/WikiData/WD~Belgian_French,815549]]"
+- "[[_Standards/WikiData/WD~Belgian_Dutch,1404296]]"
+- "[[_Standards/WikiData/WD~Sinte_Romani,1793299]]"
+- "[[_Standards/WikiData/WD~Flemish_Sign_Language,2107617]]"
 - '[[_Standards/WikiData/WD~Brusselian,2668371]]'
-- "[[_Standards/WikiData/WD~French Belgian Sign Language,3217332]]"
+- "[[_Standards/WikiData/WD~French_Belgian_Sign_Language,3217332]]"
 - '[[_Standards/WikiData/WD~Dutch,7411]]'
 - '[[_Standards/WikiData/WD~Yiddish,8641]]'
 - '[[_Standards/WikiData/WD~Luxembourgish,9051]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 - '[[_Standards/WikiData/WD~German,188]]'
-- "[[_Standards/WikiData/WD~German Sign Language,33282]]"
+- "[[_Standards/WikiData/WD~German_Sign_Language,33282]]"
 - '[[_Standards/WikiData/WD~Picard,34024]]'
 - '[[_Standards/WikiData/WD~Flemish,34147]]'
 - '[[_Standards/WikiData/WD~Walloon,34219]]'
 patron_saint: '[[_Standards/WikiData/WD~Joseph,128267]]'
-official_symbol: "[[_Standards/WikiData/WD~Papaver rhoeas,130201]]"
-head_of_state: "[[_Standards/WikiData/WD~Philippe of Belgium,155004]]"
-anthem: "[[_Standards/WikiData/WD~The Brabançonne,161539]]"
+official_symbol: "[[_Standards/WikiData/WD~Papaver_rhoeas,130201]]"
+head_of_state: "[[_Standards/WikiData/WD~Philippe_of_Belgium,155004]]"
+anthem: "[[_Standards/WikiData/WD~The_Brabançonne,161539]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~Assumption of Mary,162691]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~Belgian National Day,2190144]]"
-- "[[_Standards/WikiData/WD~Whit Monday,2512993]]"
-- "[[_Standards/WikiData/WD~Christmas Day,2703710]]"
+- "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~Belgian_National_Day,2190144]]"
+- "[[_Standards/WikiData/WD~Whit_Monday,2512993]]"
+- "[[_Standards/WikiData/WD~Christmas_Day,2703710]]"
 - '[[_Standards/WikiData/WD~Easter,21196]]'
 - '[[_Standards/WikiData/WD~Pentecost,39864]]'
-- "[[_Standards/WikiData/WD~Armistice Day,6597183]]"
-- "[[_Standards/WikiData/WD~All Saints' Day,587]]"
-- "[[_Standards/WikiData/WD~Feast of the Ascension,51638]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Belgium,199614]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Belgium,205317]]"
+- "[[_Standards/WikiData/WD~Armistice_Day,6597183]]"
+- "[[_Standards/WikiData/WD~All_Saints'_Day,587]]"
+- "[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Belgium,199614]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Belgium,205317]]"
 named_after:
-- "[[_Standards/WikiData/WD~Gallia Belgica,206443]]"
+- "[[_Standards/WikiData/WD~Gallia_Belgica,206443]]"
 - '[[_Standards/WikiData/WD~Belgae,337104]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Belgium,213107]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Belgium,213107]]"
 part_of:
-- "[[_Standards/WikiData/WD~Allies of the First World War,215669]]"
-- "[[_Standards/WikiData/WD~Low Countries,476033]]"
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
+- "[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]"
+- "[[_Standards/WikiData/WD~Low_Countries,476033]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
 - '[[_Standards/WikiData/WD~Benelux,13116]]'
-- "[[_Standards/WikiData/WD~Western Europe,27496]]"
+- "[[_Standards/WikiData/WD~Western_Europe,27496]]"
 - '[[_Standards/WikiData/WD~Europe,46]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Draft History of Qing,1374339]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-highest_point: "[[_Standards/WikiData/WD~Signal de Botrange,322824]]"
-head_of_government: "[[_Standards/WikiData/WD~Bart De Wever,336599]]"
-executive_body: "[[_Standards/WikiData/WD~Federal Government of Belgium,390947]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+highest_point: "[[_Standards/WikiData/WD~Signal_de_Botrange,322824]]"
+head_of_government: "[[_Standards/WikiData/WD~Bart_De_Wever,336599]]"
+executive_body: "[[_Standards/WikiData/WD~Federal_Government_of_Belgium,390947]]"
 different_from:
 - '[[_Standards/WikiData/WD~Belgium,404713]]'
 - '[[_Standards/WikiData/WD~Belgique,4882570]]'
 - '[[_Standards/WikiData/WD~België,4882629]]'
 - '[[_Standards/WikiData/WD~Belgium,25394978]]'
 - '[[_Standards/WikiData/WD~Belgium,106879226]]'
-central_bank: "[[_Standards/WikiData/WD~National Bank of Belgium,685918]]"
-culture: "[[_Standards/WikiData/WD~culture of Belgium,792363]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Belgium,1115035]]"
-legislative_body: "[[_Standards/WikiData/WD~Belgian Federal Parliament,1137059]]"
+central_bank: "[[_Standards/WikiData/WD~National_Bank_of_Belgium,685918]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Belgium,792363]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Belgium,1115035]]"
+legislative_body: "[[_Standards/WikiData/WD~Belgian_Federal_Parliament,1137059]]"
 highest_judicial_authority:
-- "[[_Standards/WikiData/WD~Belgian Court of Cassation,1230309]]"
-- "[[_Standards/WikiData/WD~Constitutional Court of Belgium,1755321]]"
-- "[[_Standards/WikiData/WD~Council of State,1761425]]"
-motto: "[[_Standards/WikiData/WD~Unity makes strength,1308013]]"
+- "[[_Standards/WikiData/WD~Belgian_Court_of_Cassation,1230309]]"
+- "[[_Standards/WikiData/WD~Constitutional_Court_of_Belgium,1755321]]"
+- "[[_Standards/WikiData/WD~Council_of_State,1761425]]"
+motto: "[[_Standards/WikiData/WD~Unity_makes_strength,1308013]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Belgium,1769535]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Belgium,1996422]]"
-lowest_point: "[[_Standards/WikiData/WD~De Moeren,2417076]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Belgium,1769535]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Belgium,1996422]]"
+lowest_point: "[[_Standards/WikiData/WD~De_Moeren,2417076]]"
 owner_of:
-- "[[_Standards/WikiData/WD~Memorial interallié de Cointe,2697443]]"
-- "[[_Standards/WikiData/WD~Meise Botanic Garden,3052500]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~Memorial_interallié_de_Cointe,2697443]]"
+- "[[_Standards/WikiData/WD~Meise_Botanic_Garden,3052500]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Belgium,3247091]]'
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~parliamentary monarchy,3330103]]"
-- "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+- "[[_Standards/WikiData/WD~parliamentary_monarchy,3330103]]"
+- "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~federation,43702]]'
-represented_by: "[[_Standards/WikiData/WD~Belgian State,4382980]]"
+represented_by: "[[_Standards/WikiData/WD~Belgian_State,4382980]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Mauritius,1027]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Luxembourg,32]]'
@@ -217,8 +217,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uruguay,77]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
@@ -226,13 +226,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
 - '[[_Standards/WikiData/WD~Liechtenstein,347]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~North Sea,1693]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~North_Sea,1693]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
@@ -240,12 +240,12 @@ official_language:
 - '[[_Standards/WikiData/WD~Dutch,7411]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 - '[[_Standards/WikiData/WD~German,188]]'
-flag: "[[_Standards/WikiData/WD~flag of Belgium,12990]]"
-replaces: "[[_Standards/WikiData/WD~United Kingdom of the Netherlands,15864]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Belgium,12990]]"
+replaces: "[[_Standards/WikiData/WD~United_Kingdom_of_the_Netherlands,15864]]"
 minimum_temperature_record: -30.1
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Western Europe,27496]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Western_Europe,27496]]"
 shares_border_with:
-- "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 - '[[_Standards/WikiData/WD~Luxembourg,32]]'
 - '[[_Standards/WikiData/WD~Netherlands,55]]'
 - '[[_Standards/WikiData/WD~France,142]]'
@@ -262,7 +262,7 @@ detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Be-map.png"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Belgium%20Banner.jpg"
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Belgium%20relief.svg"
-capital: "[[_Standards/WikiData/WD~City of Brussels,239]]"
+capital: "[[_Standards/WikiData/WD~City_of_Brussels,239]]"
 place_name_sign: "http://commons.wikimedia.org/wiki/Special:FilePath/Entr%C3%A9e%20en%20Belgique%20-%20panoramio%20%281%29.jpg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/EU-Belgium.svg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium.svg"
@@ -309,11 +309,11 @@ Provenio_UUID: 5f4e5f29-55d6-4216-8da8-951c4651586d
 OpenStreetMap_zoom_level: 7
 UIC_numerical_country_code: 88
 INSEE_countries_and_foreign_territories_code: 99131
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Subdivisions of Belgium,6522677]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Belgium,7112200]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Subdivisions_of_Belgium,6522677]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Belgium,7112200]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~King of the Belgians,13592862]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Belgium,14455339]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~King_of_the_Belgians,13592862]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Belgium,14455339]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~101,25648794]]'
@@ -323,7 +323,7 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q25929919,25929919]]'
 - '[[_Standards/WikiData/WD~Q42311082,42311082]]'
 - '[[_Standards/WikiData/WD~Q52884026,52884026]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 open_data_portal: '[[_Standards/WikiData/WD~data.gov.be,63413946]]'
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Belgium%20in%20July%202001.jpg"
 Baidu_Tieba_name: 比利时

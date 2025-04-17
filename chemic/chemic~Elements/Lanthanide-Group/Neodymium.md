@@ -9,18 +9,18 @@ DSSTOX_compound_identifier: DTXCID7047641
 InChI: InChI=1S/Nd
 InChIKey: QEFYFXOXNSNQGX-UHFFFAOYSA-N
 Unicode_character: 釹
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Auer von Welsbach,89390]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]"
 named_after:
 - '[[_Standards/WikiData/WD~twin,159979]]'
 - '[[_Standards/WikiData/WD~novelty,12544101]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~aeschynite-(Nd),1067020]]'
 - '[[_Standards/WikiData/WD~clinofergusonite-(Nd),2718921]]'
@@ -54,7 +54,7 @@ made_from_material:
 time_of_discovery_or_invention: "1885"
 UMLS_CUI: C0027599
 location_of_discovery: '[[_Standards/WikiData/WD~Vienna,1741]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 atomic_number: 60
 ionic_radius:
 - 0.98

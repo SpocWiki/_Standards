@@ -5,49 +5,49 @@ has_id_wikidata: Q677
 has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
 magnetic_ordering: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 8,202224]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_8,202224]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Commiphora africana,559137]]"
-- "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
-- "[[_Standards/WikiData/WD~Phytelephas aequatorialis,2709988]]"
-- "[[_Standards/WikiData/WD~Euphorbia lancifolia,5851731]]"
-- "[[_Standards/WikiData/WD~Isaria cicadae,10536893]]"
-- "[[_Standards/WikiData/WD~Triumfetta rhomboidea,10898699]]"
-- "[[_Standards/WikiData/WD~Brackenridgea zanguebarica,15386064]]"
-- "[[_Standards/WikiData/WD~Allophylus rubifolius,15469676]]"
-- "[[_Standards/WikiData/WD~Albizia versicolor,15492856]]"
-- "[[_Standards/WikiData/WD~Bridelia cathartica,15512488]]"
-- "[[_Standards/WikiData/WD~Adenia cissampeloides,15606489]]"
-- "[[_Standards/WikiData/WD~Adenia gummifera,15606925]]"
-- "[[_Standards/WikiData/WD~Lannea schweinfurthii var. stuhlmannii,55872678]]"
+- "[[_Standards/WikiData/WD~Commiphora_africana,559137]]"
+- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+- "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+- "[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]"
+- "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
+- "[[_Standards/WikiData/WD~Triumfetta_rhomboidea,10898699]]"
+- "[[_Standards/WikiData/WD~Brackenridgea_zanguebarica,15386064]]"
+- "[[_Standards/WikiData/WD~Allophylus_rubifolius,15469676]]"
+- "[[_Standards/WikiData/WD~Albizia_versicolor,15492856]]"
+- "[[_Standards/WikiData/WD~Bridelia_cathartica,15512488]]"
+- "[[_Standards/WikiData/WD~Adenia_cissampeloides,15606489]]"
+- "[[_Standards/WikiData/WD~Adenia_gummifera,15606925]]"
+- "[[_Standards/WikiData/WD~Lannea_schweinfurthii_var._stuhlmannii,55872678]]"
 - '[[_Standards/WikiData/WD~cacao,42385]]'
-- "[[_Standards/WikiData/WD~Foeniculum vulgare,43511]]"
+- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Sechster Band,130477825]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Sechster_Band,130477825]]"
 medical_condition_treated:
-- "[[_Standards/WikiData/WD~iron deficiency anemia,954674]]"
-- "[[_Standards/WikiData/WD~hypochromic anemia,2306782]]"
-associated_hazard: "[[_Standards/WikiData/WD~iron poisoning,1172607]]"
+- "[[_Standards/WikiData/WD~iron_deficiency_anemia,954674]]"
+- "[[_Standards/WikiData/WD~hypochromic_anemia,2306782]]"
+associated_hazard: "[[_Standards/WikiData/WD~iron_poisoning,1172607]]"
 different_from:
-- "[[_Standards/WikiData/WD~serum iron,2537479]]"
+- "[[_Standards/WikiData/WD~serum_iron,2537479]]"
 - '[[_Standards/WikiData/WD~Q20418737,20418737]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~primary metabolite,3333419]]"
+- "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
 - '[[_Standards/WikiData/WD~medication,12140]]'
-subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
-has_use: "[[_Standards/WikiData/WD~iron alloy,10772391]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+has_use: "[[_Standards/WikiData/WD~iron_alloy,10772391]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828608,22828608]]'
 instance_of:
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 - '[[_Standards/WikiData/WD~metal,11426]]'
 relative_permeability: 200000
 oxidation_state:

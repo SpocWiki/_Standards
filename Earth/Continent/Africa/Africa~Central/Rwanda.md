@@ -2,46 +2,46 @@
 shares_border_with:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Burundi,967]]'
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Malawi,1020]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 country: '[[_Standards/WikiData/WD~Rwanda,1037]]'
 member_of:
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~United Nations Security Council,37470]]"
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Economic Community of Central African States,189966]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 language_used:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~French,150]]'
@@ -55,15 +55,15 @@ capital: '[[_Standards/WikiData/WD~Kigali,3859]]'
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 - '[[_Standards/WikiData/WD~Africa_Kigali,4689501]]'
 part_of:
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~East Africa,27407]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central Africa,27433]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~East_Africa,27407]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 1
 age_of_majority: 18
@@ -122,40 +122,40 @@ rural_population:
 - 11096904
 - 11335329
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Kigali Province,167196]]"
-- "[[_Standards/WikiData/WD~Western Province,737354]]"
-- "[[_Standards/WikiData/WD~Northern Province,845807]]"
-- "[[_Standards/WikiData/WD~Eastern Province,853152]]"
-- "[[_Standards/WikiData/WD~Southern Province,853162]]"
-flag: "[[_Standards/WikiData/WD~flag of Rwanda,170543]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Rwanda,269824]]"
-anthem: "[[_Standards/WikiData/WD~Rwanda Nziza,503118]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Rwanda,570413]]"
+- "[[_Standards/WikiData/WD~Kigali_Province,167196]]"
+- "[[_Standards/WikiData/WD~Western_Province,737354]]"
+- "[[_Standards/WikiData/WD~Northern_Province,845807]]"
+- "[[_Standards/WikiData/WD~Eastern_Province,853152]]"
+- "[[_Standards/WikiData/WD~Southern_Province,853162]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Rwanda,170543]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Rwanda,269824]]"
+anthem: "[[_Standards/WikiData/WD~Rwanda_Nziza,503118]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Rwanda,570413]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Karisimbi,737859]]"
-lowest_point: "[[_Standards/WikiData/WD~Ruzizi River,748195]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Rwanda,938531]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Rwanda,966227]]"
-head_of_state: "[[_Standards/WikiData/WD~Paul Kagame,1231345]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Karisimbi,737859]]"
+lowest_point: "[[_Standards/WikiData/WD~Ruzizi_River,748195]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Rwanda,938531]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Rwanda,966227]]"
+head_of_state: "[[_Standards/WikiData/WD~Paul_Kagame,1231345]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~SN 441011,2335530]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Rwanda,2454814]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Rwanda,2590706]]"
-culture: "[[_Standards/WikiData/WD~culture of Rwanda,3007371]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Rwanda,4162795]]"
-central_bank: "[[_Standards/WikiData/WD~National Bank of Rwanda,4314980]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Rwanda,7112430]]"
+- "[[_Standards/WikiData/WD~SN_441011,2335530]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Rwanda,2454814]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Rwanda,2590706]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Rwanda,3007371]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Rwanda,4162795]]"
+central_bank: "[[_Standards/WikiData/WD~National_Bank_of_Rwanda,4314980]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Rwanda,7112430]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rwanda,11306137]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Rwanda,19057726]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Rwanda,21830743]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Rwanda,19057726]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Rwanda,21830743]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~912,25648878]]'
-head_of_government: "[[_Standards/WikiData/WD~Édouard Ngirente,38188115]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-studied_in: "[[_Standards/WikiData/WD~Rwandan studies,115669585]]"
+head_of_government: "[[_Standards/WikiData/WD~Édouard_Ngirente,38188115]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+studied_in: "[[_Standards/WikiData/WD~Rwandan_studies,115669585]]"
 coordinates_of_northernmost_point: "Point(30.45 -1.05)"
 UMLS_CUI: C0035978
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/An%20aerial%20of%20Kigali%20Convention%20Center%20on%20June%2019%2C%202019.%20Photo%20by%20Emmanuel%20Kwizera.jpg"

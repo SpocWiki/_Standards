@@ -38,97 +38,97 @@ Languages:
 - za
 icon: flag-cn
 history_of_topic:
-- "[[_Standards/WikiData/WD~history of China,82972]]"
-- "[[_Standards/WikiData/WD~history of the People's Republic of China,862552]]"
+- "[[_Standards/WikiData/WD~history_of_China,82972]]"
+- "[[_Standards/WikiData/WD~history_of_the_People's_Republic_of_China,862552]]"
 location_of_formation: '[[_Standards/WikiData/WD~Tiananmen,83973]]'
 instance_of:
-- "[[_Standards/WikiData/WD~dictatorship of the proletariat,118365]]"
-- "[[_Standards/WikiData/WD~people's republic,465613]]"
-- "[[_Standards/WikiData/WD~socialist state,842112]]"
-- "[[_Standards/WikiData/WD~communist state,849866]]"
-- "[[_Standards/WikiData/WD~secular state,859563]]"
-- "[[_Standards/WikiData/WD~constitutional republic,1520223]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~state with limited recognition,10711424]]"
+- "[[_Standards/WikiData/WD~dictatorship_of_the_proletariat,118365]]"
+- "[[_Standards/WikiData/WD~people's_republic,465613]]"
+- "[[_Standards/WikiData/WD~socialist_state,842112]]"
+- "[[_Standards/WikiData/WD~communist_state,849866]]"
+- "[[_Standards/WikiData/WD~secular_state,859563]]"
+- "[[_Standards/WikiData/WD~constitutional_republic,1520223]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~state_with_limited_recognition,10711424]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-flag: "[[_Standards/WikiData/WD~flag of China,131147]]"
+flag: "[[_Standards/WikiData/WD~flag_of_China,131147]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~Chinese New Year (Lunar New Year),131772]]"
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Qingming Festival,718778]]"
-- "[[_Standards/WikiData/WD~National Day of the People's Republic of China,1145566]]"
-- "[[_Standards/WikiData/WD~Youth Day,10881633]]"
-- "[[_Standards/WikiData/WD~Chinese Mid-Autumn Festival,14931580]]"
-- "[[_Standards/WikiData/WD~Children's Day,14942952]]"
-- "[[_Standards/WikiData/WD~International Women's Day,38964]]"
-- "[[_Standards/WikiData/WD~International Workers' Day,47499]]"
+- "[[_Standards/WikiData/WD~Chinese_New_Year_(Lunar_New_Year),131772]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Qingming_Festival,718778]]"
+- "[[_Standards/WikiData/WD~National_Day_of_the_People's_Republic_of_China,1145566]]"
+- "[[_Standards/WikiData/WD~Youth_Day,10881633]]"
+- "[[_Standards/WikiData/WD~Chinese_Mid-Autumn_Festival,14931580]]"
+- "[[_Standards/WikiData/WD~Children's_Day,14942952]]"
+- "[[_Standards/WikiData/WD~International_Women's_Day,38964]]"
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~Manchu,145665]]'
-- "[[_Standards/WikiData/WD~Hui people,183573]]"
-- "[[_Standards/WikiData/WD~Tibetan people,187985]]"
+- "[[_Standards/WikiData/WD~Hui_people,183573]]"
+- "[[_Standards/WikiData/WD~Tibetan_people,187985]]"
 - '[[_Standards/WikiData/WD~Miao,209959]]'
-- "[[_Standards/WikiData/WD~Kam people,216096]]"
-- "[[_Standards/WikiData/WD~Bai people,275453]]"
-- "[[_Standards/WikiData/WD~Hlai people,309381]]"
-- "[[_Standards/WikiData/WD~Yao people,370868]]"
-- "[[_Standards/WikiData/WD~Yi people,461282]]"
-- "[[_Standards/WikiData/WD~Hani people,476550]]"
-- "[[_Standards/WikiData/WD~Tujia people,588574]]"
-- "[[_Standards/WikiData/WD~Bouyei people,673161]]"
-- "[[_Standards/WikiData/WD~Korean Chinese,715978]]"
-- "[[_Standards/WikiData/WD~Lisu people,857626]]"
-- "[[_Standards/WikiData/WD~Mongols in China,1187403]]"
-- "[[_Standards/WikiData/WD~Kazakhs in China,4208066]]"
-- "[[_Standards/WikiData/WD~Zhuang people,36692]]"
-- "[[_Standards/WikiData/WD~Han Chinese people,42740]]"
+- "[[_Standards/WikiData/WD~Kam_people,216096]]"
+- "[[_Standards/WikiData/WD~Bai_people,275453]]"
+- "[[_Standards/WikiData/WD~Hlai_people,309381]]"
+- "[[_Standards/WikiData/WD~Yao_people,370868]]"
+- "[[_Standards/WikiData/WD~Yi_people,461282]]"
+- "[[_Standards/WikiData/WD~Hani_people,476550]]"
+- "[[_Standards/WikiData/WD~Tujia_people,588574]]"
+- "[[_Standards/WikiData/WD~Bouyei_people,673161]]"
+- "[[_Standards/WikiData/WD~Korean_Chinese,715978]]"
+- "[[_Standards/WikiData/WD~Lisu_people,857626]]"
+- "[[_Standards/WikiData/WD~Mongols_in_China,1187403]]"
+- "[[_Standards/WikiData/WD~Kazakhs_in_China,4208066]]"
+- "[[_Standards/WikiData/WD~Zhuang_people,36692]]"
+- "[[_Standards/WikiData/WD~Han_Chinese_people,42740]]"
 - '[[_Standards/WikiData/WD~Uyghurs,46118]]'
-anthem: "[[_Standards/WikiData/WD~March of the Volunteers,156136]]"
+anthem: "[[_Standards/WikiData/WD~March_of_the_Volunteers,156136]]"
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~states with nuclear weapons,189062]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~states_with_nuclear_weapons,189062]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~Shanghai Cooperation Organisation,485207]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
 - '[[_Standards/WikiData/WD~BRIC,833202]]'
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
-- "[[_Standards/WikiData/WD~United Nations Security Council,37470]]"
+- "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-- "[[_Standards/WikiData/WD~democratic centralism,193852]]"
-- "[[_Standards/WikiData/WD~constitutional republic,1520223]]"
-- "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+- "[[_Standards/WikiData/WD~democratic_centralism,193852]]"
+- "[[_Standards/WikiData/WD~constitutional_republic,1520223]]"
+- "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
 - '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~single-party system,50686]]"
-- "[[_Standards/WikiData/WD~communist dictatorship,117405807]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of China,187327]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of the People's Republic of China,200800]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of China,209380]]"
+- "[[_Standards/WikiData/WD~single-party_system,50686]]"
+- "[[_Standards/WikiData/WD~communist_dictatorship,117405807]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_China,187327]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_the_People's_Republic_of_China,200800]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_China,209380]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Chile,298]]'
@@ -140,23 +140,23 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
 - '[[_Standards/WikiData/WD~Chad,657]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Tonga,678]]'
 - '[[_Standards/WikiData/WD~Samoa,683]]'
 - '[[_Standards/WikiData/WD~Vanuatu,686]]'
-- "[[_Standards/WikiData/WD~Solomon Islands,685]]"
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Nauru,697]]'
-- "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
+- "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
 - '[[_Standards/WikiData/WD~Kiribati,710]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
-- "[[_Standards/WikiData/WD~Marshall Islands,709]]"
+- "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Suriname,730]]'
@@ -164,18 +164,18 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Ecuador,736]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-- "[[_Standards/WikiData/WD~Saint Lucia,760]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
+- "[[_Standards/WikiData/WD~Saint_Lucia,760]]"
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 - '[[_Standards/WikiData/WD~Grenada,769]]'
-- "[[_Standards/WikiData/WD~The Bahamas,778]]"
-- "[[_Standards/WikiData/WD~Antigua and Barbuda,781]]"
-- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
+- "[[_Standards/WikiData/WD~The_Bahamas,778]]"
+- "[[_Standards/WikiData/WD~Antigua_and_Barbuda,781]]"
+- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
 - '[[_Standards/WikiData/WD~Dominica,784]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
-- "[[_Standards/WikiData/WD~El Salvador,792]]"
+- "[[_Standards/WikiData/WD~El_Salvador,792]]"
 - '[[_Standards/WikiData/WD~Iraq,796]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Panama,804]]'
 - '[[_Standards/WikiData/WD~Yemen,805]]'
@@ -192,15 +192,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Oman,842]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Qatar,846]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Tajikistan,863]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
 - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Mali,912]]'
@@ -209,28 +209,28 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~Central African Republic,929]]"
+- "[[_Standards/WikiData/WD~Central_African_Republic,929]]"
 - '[[_Standards/WikiData/WD~Togo,945]]'
 - '[[_Standards/WikiData/WD~Tunisia,948]]'
 - '[[_Standards/WikiData/WD~Zimbabwe,954]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Benin,962]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
 - '[[_Standards/WikiData/WD~Burundi,967]]'
-- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
+- "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
 - '[[_Standards/WikiData/WD~Comoros,970]]'
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
-- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
 - '[[_Standards/WikiData/WD~Guinea,1006]]'
 - '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-- "[[_Standards/WikiData/WD~The Gambia,1005]]"
-- "[[_Standards/WikiData/WD~Cape Verde,1011]]"
-- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
+- "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
+- "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Lesotho,1013]]'
@@ -244,22 +244,22 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mozambique,1029]]'
 - '[[_Standards/WikiData/WD~Niger,1032]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
-- "[[_Standards/WikiData/WD~São Tomé and Príncipe,1039]]"
+- "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]"
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Rwanda,1037]]'
 - '[[_Standards/WikiData/WD~Seychelles,1042]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+- "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Cook Islands,26988]]"
+- "[[_Standards/WikiData/WD~Cook_Islands,26988]]"
 - '[[_Standards/WikiData/WD~Africa,15]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -283,7 +283,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -294,24 +294,24 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Andorra,228]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Monaco,235]]'
 - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
-- "[[_Standards/WikiData/WD~San Marino,238]]"
+- "[[_Standards/WikiData/WD~San_Marino,238]]"
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
-- "[[_Standards/WikiData/WD~Vatican City,237]]"
+- "[[_Standards/WikiData/WD~Vatican_City,237]]"
 - '[[_Standards/WikiData/WD~Belize,242]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
@@ -321,7 +321,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Katso,246122]]'
 - '[[_Standards/WikiData/WD~Baima,674990]]'
 - '[[_Standards/WikiData/WD~Mang,720192]]'
-- "[[_Standards/WikiData/WD~Standard Chinese,727694]]"
+- "[[_Standards/WikiData/WD~Standard_Chinese,727694]]"
 - '[[_Standards/WikiData/WD~Kaduo,769809]]'
 - '[[_Standards/WikiData/WD~Tinani,784502]]'
 - '[[_Standards/WikiData/WD~Gyalrong,832026]]'
@@ -330,57 +330,57 @@ language_used:
 - '[[_Standards/WikiData/WD~U,953082]]'
 - '[[_Standards/WikiData/WD~Wutun,1012917]]'
 - '[[_Standards/WikiData/WD~Sani,1055287]]'
-- "[[_Standards/WikiData/WD~Chinese Sign Language,1094190]]"
+- "[[_Standards/WikiData/WD~Chinese_Sign_Language,1094190]]"
 - '[[_Standards/WikiData/WD~A-Hmao,1108934]]'
-- "[[_Standards/WikiData/WD~Kim Mun,1115317]]"
+- "[[_Standards/WikiData/WD~Kim_Mun,1115317]]"
 - '[[_Standards/WikiData/WD~Oroqen,1367309]]'
-- "[[_Standards/WikiData/WD~Waxiang Chinese,2252191]]"
+- "[[_Standards/WikiData/WD~Waxiang_Chinese,2252191]]"
 - '[[_Standards/WikiData/WD~Muya,2422759]]'
 - '[[_Standards/WikiData/WD~Cun,2475478]]'
-- "[[_Standards/WikiData/WD~Iu Mien,2498808]]"
+- "[[_Standards/WikiData/WD~Iu_Mien,2498808]]"
 - '[[_Standards/WikiData/WD~She,2605689]]'
 - '[[_Standards/WikiData/WD~Pa-Hng,2625410]]'
 - '[[_Standards/WikiData/WD~Ai-Cham,2827749]]'
 - '[[_Standards/WikiData/WD~Awa,2874642]]'
 - '[[_Standards/WikiData/WD~Paha,2879238]]'
 - '[[_Standards/WikiData/WD~Bit,2904868]]'
-- "[[_Standards/WikiData/WD~Langnian Buyang,2929025]]"
-- "[[_Standards/WikiData/WD~Cao Miao,2936935]]"
+- "[[_Standards/WikiData/WD~Langnian_Buyang,2929025]]"
+- "[[_Standards/WikiData/WD~Cao_Miao,2936935]]"
 - '[[_Standards/WikiData/WD~Sangkong,2945610]]'
 - '[[_Standards/WikiData/WD~Choni,2964447]]'
 - '[[_Standards/WikiData/WD~Lakkja,3027879]]'
 - '[[_Standards/WikiData/WD~Bugan,3033554]]'
-- "[[_Standards/WikiData/WD~Dzao Min,3042189]]"
+- "[[_Standards/WikiData/WD~Dzao_Min,3042189]]"
 - '[[_Standards/WikiData/WD~Mulam,3092284]]'
 - '[[_Standards/WikiData/WD~Maonan,3092293]]'
-- "[[_Standards/WikiData/WD~Red Gelao,3100264]]"
+- "[[_Standards/WikiData/WD~Red_Gelao,3100264]]"
 - '[[_Standards/WikiData/WD~Sui,3112388]]'
 - '[[_Standards/WikiData/WD~Lavrung,3118757]]'
 - '[[_Standards/WikiData/WD~Guiqiong,3120647]]'
-- "[[_Standards/WikiData/WD~Hmong Njua,3138831]]"
-- "[[_Standards/WikiData/WD~Hmong Daw,3138829]]"
-- "[[_Standards/WikiData/WD~Northern Qiandong Miao,3138832]]"
+- "[[_Standards/WikiData/WD~Hmong_Njua,3138831]]"
+- "[[_Standards/WikiData/WD~Hmong_Daw,3138829]]"
+- "[[_Standards/WikiData/WD~Northern_Qiandong_Miao,3138832]]"
 - '[[_Standards/WikiData/WD~Hu,3141783]]'
 - '[[_Standards/WikiData/WD~Jiamao,3178570]]'
 - '[[_Standards/WikiData/WD~Kangjia,3182570]]'
-- "[[_Standards/WikiData/WD~Man Met,3194984]]"
+- "[[_Standards/WikiData/WD~Man_Met,3194984]]"
 - '[[_Standards/WikiData/WD~Mak,3280623]]'
 - '[[_Standards/WikiData/WD~Hmong,3307894]]'
-- "[[_Standards/WikiData/WD~Western Xiangxi Miao,3307901]]"
-- "[[_Standards/WikiData/WD~Southern Mongolian,3320659]]"
-- "[[_Standards/WikiData/WD~Pa Di,3359940]]"
+- "[[_Standards/WikiData/WD~Western_Xiangxi_Miao,3307901]]"
+- "[[_Standards/WikiData/WD~Southern_Mongolian,3320659]]"
+- "[[_Standards/WikiData/WD~Pa_Di,3359940]]"
 - '[[_Standards/WikiData/WD~Bolyu,3361723]]'
 - '[[_Standards/WikiData/WD~Parauk,3363719]]'
-- "[[_Standards/WikiData/WD~Southern Pumi,3403246]]"
-- "[[_Standards/WikiData/WD~Northern Pumi,3403245]]"
+- "[[_Standards/WikiData/WD~Southern_Pumi,3403246]]"
+- "[[_Standards/WikiData/WD~Northern_Pumi,3403245]]"
 - '[[_Standards/WikiData/WD~Choyo,3414352]]'
 - '[[_Standards/WikiData/WD~Qabiao,3436700]]'
-- "[[_Standards/WikiData/WD~Tai Ya,3441122]]"
+- "[[_Standards/WikiData/WD~Tai_Ya,3441122]]"
 - '[[_Standards/WikiData/WD~Then,3442330]]'
-- "[[_Standards/WikiData/WD~Biao Min,3503800]]"
+- "[[_Standards/WikiData/WD~Biao_Min,3503800]]"
 - '[[_Standards/WikiData/WD~Yerong,3572191]]'
 - '[[_Standards/WikiData/WD~Zauzou,3616358]]'
-- "[[_Standards/WikiData/WD~Tai Hongjin,3915716]]"
+- "[[_Standards/WikiData/WD~Tai_Hongjin,3915716]]"
 - '[[_Standards/WikiData/WD~Akeu,4700657]]'
 - '[[_Standards/WikiData/WD~Aluo,4737539]]'
 - '[[_Standards/WikiData/WD~Axi,4830439]]'
@@ -390,107 +390,107 @@ language_used:
 - '[[_Standards/WikiData/WD~Wa,4923414]]'
 - '[[_Standards/WikiData/WD~Blang,4925096]]'
 - '[[_Standards/WikiData/WD~Bumang,4997235]]'
-- "[[_Standards/WikiData/WD~Central Tibetan,5061915]]"
-- "[[_Standards/WikiData/WD~Dai Zhuang,5209052]]"
+- "[[_Standards/WikiData/WD~Central_Tibetan,5061915]]"
+- "[[_Standards/WikiData/WD~Dai_Zhuang,5209052]]"
 - '[[_Standards/WikiData/WD~Enu,5380858]]'
 - '[[_Standards/WikiData/WD~Gepo,5548692]]'
 - '[[_Standards/WikiData/WD~Hlersu,5873537]]'
 - '[[_Standards/WikiData/WD~Kathu,6377155]]'
 - '[[_Standards/WikiData/WD~Khlula,6401849]]'
-- "[[_Standards/WikiData/WD~Kon Keu,6428686]]"
+- "[[_Standards/WikiData/WD~Kon_Keu,6428686]]"
 - '[[_Standards/WikiData/WD~Kua-nsi,6440952]]'
 - '[[_Standards/WikiData/WD~Kuamasi,6441074]]'
 - '[[_Standards/WikiData/WD~Kuan,6441084]]'
-- "[[_Standards/WikiData/WD~Lama Bai,6480756]]"
+- "[[_Standards/WikiData/WD~Lama_Bai,6480756]]"
 - '[[_Standards/WikiData/WD~Lamu,6482736]]'
 - "[[_Standards/WikiData/WD~Lang'e,6485577]]"
 - '[[_Standards/WikiData/WD~Lashi,6493203]]'
 - '[[_Standards/WikiData/WD~Lawu,6505073]]'
 - '[[_Standards/WikiData/WD~Lachi,6583606]]'
 - '[[_Standards/WikiData/WD~Micha,6827993]]'
-- "[[_Standards/WikiData/WD~Min Zhuang,6862618]]"
+- "[[_Standards/WikiData/WD~Min_Zhuang,6862618]]"
 - '[[_Standards/WikiData/WD~Moji,6895060]]'
 - '[[_Standards/WikiData/WD~Muda,6931494]]'
 - '[[_Standards/WikiData/WD~Muzi,6944445]]'
 - '[[_Standards/WikiData/WD~Naluo,6961032]]'
-- "[[_Standards/WikiData/WD~Yue Chinese,7033959]]"
-- "[[_Standards/WikiData/WD~Nong Zhuang,7049385]]"
-- "[[_Standards/WikiData/WD~Ong Be,7093790]]"
+- "[[_Standards/WikiData/WD~Yue_Chinese,7033959]]"
+- "[[_Standards/WikiData/WD~Nong_Zhuang,7049385]]"
+- "[[_Standards/WikiData/WD~Ong_Be,7093790]]"
 - '[[_Standards/WikiData/WD~Phola,7187058]]'
 - '[[_Standards/WikiData/WD~Pholo,7187103]]'
 - '[[_Standards/WikiData/WD~Phupha,7188378]]'
 - '[[_Standards/WikiData/WD~Samatao,7408902]]'
 - '[[_Standards/WikiData/WD~Samei,7409269]]'
 - '[[_Standards/WikiData/WD~Sanie,7418287]]'
-- "[[_Standards/WikiData/WD~Small Flowery Miao,7542773]]"
+- "[[_Standards/WikiData/WD~Small_Flowery_Miao,7542773]]"
 - '[[_Standards/WikiData/WD~Sonaga,7560736]]'
-- "[[_Standards/WikiData/WD~Tai Dón,7675751]]"
+- "[[_Standards/WikiData/WD~Tai_Dón,7675751]]"
 - '[[_Standards/WikiData/WD~Tholo,7786695]]'
 - '[[_Standards/WikiData/WD~Thopho,7796015]]'
-- "[[_Standards/WikiData/WD~Yang Zhuang,8048537]]"
-- "[[_Standards/WikiData/WD~Yongbei Zhuang,8054983]]"
+- "[[_Standards/WikiData/WD~Yang_Zhuang,8048537]]"
+- "[[_Standards/WikiData/WD~Yongbei_Zhuang,8054983]]"
 - '[[_Standards/WikiData/WD~Yongnan,8055032]]'
-- "[[_Standards/WikiData/WD~Youjiang Zhuang,8057765]]"
+- "[[_Standards/WikiData/WD~Youjiang_Zhuang,8057765]]"
 - '[[_Standards/WikiData/WD~Zokhuo,8073523]]'
-- "[[_Standards/WikiData/WD~Biao Mon,8842159]]"
-- "[[_Standards/WikiData/WD~White Gelao,8843040]]"
+- "[[_Standards/WikiData/WD~Biao_Mon,8842159]]"
+- "[[_Standards/WikiData/WD~White_Gelao,8843040]]"
 - '[[_Standards/WikiData/WD~Hmongic,9040772]]'
-- "[[_Standards/WikiData/WD~Ache Yi,10949828]]"
+- "[[_Standards/WikiData/WD~Ache_Yi,10949828]]"
 - '[[_Standards/WikiData/WD~Mulao,11092831]]'
 - '[[_Standards/WikiData/WD~Tseku,11159532]]'
-- "[[_Standards/WikiData/WD~Awu Yi,11163308]]"
+- "[[_Standards/WikiData/WD~Awu_Yi,11163308]]"
 - '[[_Standards/WikiData/WD~Gejia,11251864]]'
 - '[[_Standards/WikiData/WD~Alugu,12626798]]'
-- "[[_Standards/WikiData/WD~Central Bai,12628803]]"
-- "[[_Standards/WikiData/WD~Southern Lolopo,12633989]]"
-- "[[_Standards/WikiData/WD~Southern Tujia,12633994]]"
-- "[[_Standards/WikiData/WD~Panyi Bai,12642165]]"
-- "[[_Standards/WikiData/WD~Southern Bai,12952250]]"
+- "[[_Standards/WikiData/WD~Central_Bai,12628803]]"
+- "[[_Standards/WikiData/WD~Southern_Lolopo,12633989]]"
+- "[[_Standards/WikiData/WD~Southern_Tujia,12633994]]"
+- "[[_Standards/WikiData/WD~Panyi_Bai,12642165]]"
+- "[[_Standards/WikiData/WD~Southern_Bai,12952250]]"
 - '[[_Standards/WikiData/WD~Ersu,12952417]]'
-- "[[_Standards/WikiData/WD~Youle Jinuo,12952530]]"
-- "[[_Standards/WikiData/WD~Buyuan Jinuo,12952528]]"
+- "[[_Standards/WikiData/WD~Youle_Jinuo,12952530]]"
+- "[[_Standards/WikiData/WD~Buyuan_Jinuo,12952528]]"
 - '[[_Standards/WikiData/WD~Kyirong,12952691]]'
 - '[[_Standards/WikiData/WD~Lopi,12952740]]'
-- "[[_Standards/WikiData/WD~Northern Tujia,12953229]]"
+- "[[_Standards/WikiData/WD~Northern_Tujia,12953229]]"
 - '[[_Standards/WikiData/WD~Nisi,12953326]]'
 - '[[_Standards/WikiData/WD~Limi,12953327]]'
-- "[[_Standards/WikiData/WD~Western Lalu,12953325]]"
-- "[[_Standards/WikiData/WD~Eastern Lalu,12953328]]"
+- "[[_Standards/WikiData/WD~Western_Lalu,12953325]]"
+- "[[_Standards/WikiData/WD~Eastern_Lalu,12953328]]"
 - '[[_Standards/WikiData/WD~Mili,12953329]]'
-- "[[_Standards/WikiData/WD~Wusa Nasu,12953334]]"
-- "[[_Standards/WikiData/WD~Dongshanba Lalo,12953333]]"
-- "[[_Standards/WikiData/WD~Xishanba Lalo,12953336]]"
-- "[[_Standards/WikiData/WD~Northern Guiyang Hmong,12953554]]"
-- "[[_Standards/WikiData/WD~Southern Guiyang Hmong,12953553]]"
-- "[[_Standards/WikiData/WD~Central Huishui Hmong,12953558]]"
-- "[[_Standards/WikiData/WD~Eastern Huishui Hmong,12953559]]"
-- "[[_Standards/WikiData/WD~Southern Qiandong Miao,12953562]]"
-- "[[_Standards/WikiData/WD~Western Mashan Hmong,12953563]]"
-- "[[_Standards/WikiData/WD~Southern Mashan Hmong,12953560]]"
-- "[[_Standards/WikiData/WD~Central Mashan Hmong,12953561]]"
-- "[[_Standards/WikiData/WD~Northern Mashan Hmong,12953564]]"
-- "[[_Standards/WikiData/WD~Southwestern Huishui Hmong,12953565]]"
-- "[[_Standards/WikiData/WD~Rumai Palaung,12953797]]"
-- "[[_Standards/WikiData/WD~Lahu Shi,13018575]]"
-- "[[_Standards/WikiData/WD~Eastern Hongshuihe Zhuang,13634282]]"
-- "[[_Standards/WikiData/WD~Zuojiang Zhuang,13848149]]"
+- "[[_Standards/WikiData/WD~Wusa_Nasu,12953334]]"
+- "[[_Standards/WikiData/WD~Dongshanba_Lalo,12953333]]"
+- "[[_Standards/WikiData/WD~Xishanba_Lalo,12953336]]"
+- "[[_Standards/WikiData/WD~Northern_Guiyang_Hmong,12953554]]"
+- "[[_Standards/WikiData/WD~Southern_Guiyang_Hmong,12953553]]"
+- "[[_Standards/WikiData/WD~Central_Huishui_Hmong,12953558]]"
+- "[[_Standards/WikiData/WD~Eastern_Huishui_Hmong,12953559]]"
+- "[[_Standards/WikiData/WD~Southern_Qiandong_Miao,12953562]]"
+- "[[_Standards/WikiData/WD~Western_Mashan_Hmong,12953563]]"
+- "[[_Standards/WikiData/WD~Southern_Mashan_Hmong,12953560]]"
+- "[[_Standards/WikiData/WD~Central_Mashan_Hmong,12953561]]"
+- "[[_Standards/WikiData/WD~Northern_Mashan_Hmong,12953564]]"
+- "[[_Standards/WikiData/WD~Southwestern_Huishui_Hmong,12953565]]"
+- "[[_Standards/WikiData/WD~Rumai_Palaung,12953797]]"
+- "[[_Standards/WikiData/WD~Lahu_Shi,13018575]]"
+- "[[_Standards/WikiData/WD~Eastern_Hongshuihe_Zhuang,13634282]]"
+- "[[_Standards/WikiData/WD~Zuojiang_Zhuang,13848149]]"
 - '[[_Standards/WikiData/WD~Lhomi,14240916]]'
-- "[[_Standards/WikiData/WD~Luopohe Miao,14468943]]"
+- "[[_Standards/WikiData/WD~Luopohe_Miao,14468943]]"
 - "[[_Standards/WikiData/WD~A'ou,16109994]]"
-- "[[_Standards/WikiData/WD~E'ma Buyang,16115619]]"
-- "[[_Standards/WikiData/WD~Hmong Shua,16306754]]"
+- "[[_Standards/WikiData/WD~E'ma_Buyang,16115619]]"
+- "[[_Standards/WikiData/WD~Hmong_Shua,16306754]]"
 - '[[_Standards/WikiData/WD~Lavu,16999095]]'
-- "[[_Standards/WikiData/WD~Northern Dong,17195499]]"
+- "[[_Standards/WikiData/WD~Northern_Dong,17195499]]"
 - '[[_Standards/WikiData/WD~Qau,17284874]]'
-- "[[_Standards/WikiData/WD~Guibei Zhuang,17651534]]"
-- "[[_Standards/WikiData/WD~Guibian Zhuang,17651536]]"
-- "[[_Standards/WikiData/WD~Qiubei Zhuang,17651542]]"
-- "[[_Standards/WikiData/WD~Liujiang Zhuang,17651540]]"
+- "[[_Standards/WikiData/WD~Guibei_Zhuang,17651534]]"
+- "[[_Standards/WikiData/WD~Guibian_Zhuang,17651536]]"
+- "[[_Standards/WikiData/WD~Qiubei_Zhuang,17651542]]"
+- "[[_Standards/WikiData/WD~Liujiang_Zhuang,17651540]]"
 - '[[_Standards/WikiData/WD~Laomian,19597674]]'
 - '[[_Standards/WikiData/WD~Ayizi,20527363]]'
-- "[[_Standards/WikiData/WD~Bargu-Shineken Buriyad,20527417]]"
+- "[[_Standards/WikiData/WD~Bargu-Shineken_Buriyad,20527417]]"
 - '[[_Standards/WikiData/WD~Narua,21658869]]'
-- "[[_Standards/WikiData/WD~Eastern Nisu,25559419]]"
+- "[[_Standards/WikiData/WD~Eastern_Nisu,25559419]]"
 - '[[_Standards/WikiData/WD~Chinese,7850]]'
 - '[[_Standards/WikiData/WD~Cantonese,9186]]'
 - '[[_Standards/WikiData/WD~Mandarin,9192]]'
@@ -499,67 +499,67 @@ language_used:
 - '[[_Standards/WikiData/WD~Kazakh,9252]]'
 - '[[_Standards/WikiData/WD~Zhuang,13216]]'
 - '[[_Standards/WikiData/WD~Xibe,13223]]'
-- "[[_Standards/WikiData/WD~Xiang Chinese,13220]]"
+- "[[_Standards/WikiData/WD~Xiang_Chinese,13220]]"
 - '[[_Standards/WikiData/WD~Uyghur,13263]]'
 - '[[_Standards/WikiData/WD~Äynu,27927]]'
-- "[[_Standards/WikiData/WD~Eastern Yugur,29902]]"
+- "[[_Standards/WikiData/WD~Eastern_Yugur,29902]]"
 - '[[_Standards/WikiData/WD~Evenki,30004]]'
 - '[[_Standards/WikiData/WD~Daur,32430]]'
 - '[[_Standards/WikiData/WD~Dongxiang,32947]]'
 - '[[_Standards/WikiData/WD~Bonan,32983]]'
 - '[[_Standards/WikiData/WD~Khmu,33335]]'
 - '[[_Standards/WikiData/WD~Jingpho,33332]]'
-- "[[_Standards/WikiData/WD~Hakka Chinese,33375]]"
-- "[[_Standards/WikiData/WD~Gan Chinese,33475]]"
-- "[[_Standards/WikiData/WD~Ili Turki,33627]]"
+- "[[_Standards/WikiData/WD~Hakka_Chinese,33375]]"
+- "[[_Standards/WikiData/WD~Gan_Chinese,33475]]"
+- "[[_Standards/WikiData/WD~Ili_Turki,33627]]"
 - '[[_Standards/WikiData/WD~Manchu,33638]]'
 - '[[_Standards/WikiData/WD~Sarikoli,33873]]'
 - '[[_Standards/WikiData/WD~Salar,33963]]'
 - '[[_Standards/WikiData/WD~Tsat,34133]]'
 - '[[_Standards/WikiData/WD~Monguor,34214]]'
-- "[[_Standards/WikiData/WD~Western Yugur,34224]]"
+- "[[_Standards/WikiData/WD~Western_Yugur,34224]]"
 - '[[_Standards/WikiData/WD~Nuosu,34235]]'
 - '[[_Standards/WikiData/WD~Tibetan,34271]]'
-- "[[_Standards/WikiData/WD~Wu Chinese,34290]]"
+- "[[_Standards/WikiData/WD~Wu_Chinese,34290]]"
 - '[[_Standards/WikiData/WD~Bouyei,35100]]'
 - '[[_Standards/WikiData/WD~Kam,35379]]'
 - '[[_Standards/WikiData/WD~E,35386]]'
 - '[[_Standards/WikiData/WD~Lahu,35780]]'
-- "[[_Standards/WikiData/WD~Eastern Min,36455]]"
-- "[[_Standards/WikiData/WD~Northern Min,36457]]"
-- "[[_Standards/WikiData/WD~Southern Min,36495]]"
-- "[[_Standards/WikiData/WD~Tai Nüa,36556]]"
-- "[[_Standards/WikiData/WD~Tawang Monpa,36586]]"
+- "[[_Standards/WikiData/WD~Eastern_Min,36455]]"
+- "[[_Standards/WikiData/WD~Northern_Min,36457]]"
+- "[[_Standards/WikiData/WD~Southern_Min,36495]]"
+- "[[_Standards/WikiData/WD~Tai_Nüa,36556]]"
+- "[[_Standards/WikiData/WD~Tawang_Monpa,36586]]"
 - '[[_Standards/WikiData/WD~Sherpa,36612]]'
 - '[[_Standards/WikiData/WD~Tshangla,36840]]'
-- "[[_Standards/WikiData/WD~Tai Lü,36948]]"
+- "[[_Standards/WikiData/WD~Tai_Lü,36948]]"
 - '[[_Standards/WikiData/WD~Younuo,56299]]'
-- "[[_Standards/WikiData/WD~Kiong Nai,56325]]"
+- "[[_Standards/WikiData/WD~Kiong_Nai,56325]]"
 - '[[_Standards/WikiData/WD~Zhaba,56334]]'
 - '[[_Standards/WikiData/WD~Miju,56332]]'
 - '[[_Standards/WikiData/WD~Shixing,56337]]'
-- "[[_Standards/WikiData/WD~Digaro Mishmi,56400]]"
+- "[[_Standards/WikiData/WD~Digaro_Mishmi,56400]]"
 - '[[_Standards/WikiData/WD~Derung,56406]]'
-- "[[_Standards/WikiData/WD~Tai Dam,56407]]"
+- "[[_Standards/WikiData/WD~Tai_Dam,56407]]"
 - '[[_Standards/WikiData/WD~Bu-Nao,56411]]'
-- "[[_Standards/WikiData/WD~Idu Mishmi,56412]]"
+- "[[_Standards/WikiData/WD~Idu_Mishmi,56412]]"
 - '[[_Standards/WikiData/WD~Nusu,56413]]'
-- "[[_Standards/WikiData/WD~Min Zhong,56435]]"
+- "[[_Standards/WikiData/WD~Min_Zhong,56435]]"
 - '[[_Standards/WikiData/WD~Adi,56440]]'
 - '[[_Standards/WikiData/WD~Lolopo,56441]]'
-- "[[_Standards/WikiData/WD~Hm Nai,56452]]"
+- "[[_Standards/WikiData/WD~Hm_Nai,56452]]"
 - '[[_Standards/WikiData/WD~Jin,56479]]'
 - '[[_Standards/WikiData/WD~Lisu,56480]]'
-- "[[_Standards/WikiData/WD~Amdo Tibetan,56509]]"
+- "[[_Standards/WikiData/WD~Amdo_Tibetan,56509]]"
 - '[[_Standards/WikiData/WD~Hani,56516]]'
-- "[[_Standards/WikiData/WD~Huizhou Chinese,56546]]"
+- "[[_Standards/WikiData/WD~Huizhou_Chinese,56546]]"
 - '[[_Standards/WikiData/WD~Groma,56551]]'
-- "[[_Standards/WikiData/WD~Northern Qiang,56559]]"
-- "[[_Standards/WikiData/WD~Southern Qiang,56563]]"
+- "[[_Standards/WikiData/WD~Northern_Qiang,56559]]"
+- "[[_Standards/WikiData/WD~Southern_Qiang,56563]]"
 - '[[_Standards/WikiData/WD~Achang,56582]]'
-- "[[_Standards/WikiData/WD~Pu-Xian Min,56583]]"
+- "[[_Standards/WikiData/WD~Pu-Xian_Min,56583]]"
 - '[[_Standards/WikiData/WD~Zaiwa,56594]]'
-- "[[_Standards/WikiData/WD~Khams Tibetan,56601]]"
+- "[[_Standards/WikiData/WD~Khams_Tibetan,56601]]"
 - '[[_Standards/WikiData/WD~Akha,56643]]'
 - '[[_Standards/WikiData/WD~Honi,56842]]'
 - '[[_Standards/WikiData/WD~Namuyi,56844]]'
@@ -568,104 +568,104 @@ language_used:
 - '[[_Standards/WikiData/WD~Lipo,56921]]'
 - '[[_Standards/WikiData/WD~Zakhring,56996]]'
 - '[[_Standards/WikiData/WD~Pela,57000]]'
-- "[[_Standards/WikiData/WD~Wumeng Nasu,25559442]]"
+- "[[_Standards/WikiData/WD~Wumeng_Nasu,25559442]]"
 - '[[_Standards/WikiData/WD~Stodse,25559440]]'
-- "[[_Standards/WikiData/WD~Northern Nisu,25559454]]"
-- "[[_Standards/WikiData/WD~Wuding-Luquan Yi,25559456]]"
+- "[[_Standards/WikiData/WD~Northern_Nisu,25559454]]"
+- "[[_Standards/WikiData/WD~Wuding-Luquan_Yi,25559456]]"
 - '[[_Standards/WikiData/WD~Kemiehua,27144776]]'
-- "[[_Standards/WikiData/WD~Eastern Qiandong Miao,27431369]]"
-- "[[_Standards/WikiData/WD~Eastern Xiangxi Miao,27431376]]"
-- "[[_Standards/WikiData/WD~Northern Huishui Hmong,27434946]]"
-- "[[_Standards/WikiData/WD~Southwestern Guiyang Hmong,27478542]]"
+- "[[_Standards/WikiData/WD~Eastern_Qiandong_Miao,27431369]]"
+- "[[_Standards/WikiData/WD~Eastern_Xiangxi_Miao,27431376]]"
+- "[[_Standards/WikiData/WD~Northern_Huishui_Hmong,27434946]]"
+- "[[_Standards/WikiData/WD~Southwestern_Guiyang_Hmong,27478542]]"
 - '[[_Standards/WikiData/WD~Chesu,30334841]]'
-- "[[_Standards/WikiData/WD~Alo Phola,33522157]]"
-- "[[_Standards/WikiData/WD~Ani Phowa,33590104]]"
+- "[[_Standards/WikiData/WD~Alo_Phola,33522157]]"
+- "[[_Standards/WikiData/WD~Ani_Phowa,33590104]]"
 - '[[_Standards/WikiData/WD~Phala,36211907]]'
-- "[[_Standards/WikiData/WD~Northwestern Nisu,42310421]]"
+- "[[_Standards/WikiData/WD~Northwestern_Nisu,42310421]]"
 - '[[_Standards/WikiData/WD~Phuza,48565339]]'
 - '[[_Standards/WikiData/WD~Phupa,48565467]]'
-- "[[_Standards/WikiData/WD~Northern Muji,56751275]]"
-- "[[_Standards/WikiData/WD~Qila Muji,56826369]]"
-- "[[_Standards/WikiData/WD~Southern Muji,57259564]]"
-- "[[_Standards/WikiData/WD~Horned Miao,63213949]]"
-- "[[_Standards/WikiData/WD~Southern Nisu,63284284]]"
-- "[[_Standards/WikiData/WD~Southwestern Nisu,63308004]]"
+- "[[_Standards/WikiData/WD~Northern_Muji,56751275]]"
+- "[[_Standards/WikiData/WD~Qila_Muji,56826369]]"
+- "[[_Standards/WikiData/WD~Southern_Muji,57259564]]"
+- "[[_Standards/WikiData/WD~Horned_Miao,63213949]]"
+- "[[_Standards/WikiData/WD~Southern_Nisu,63284284]]"
+- "[[_Standards/WikiData/WD~Southwestern_Nisu,63308004]]"
 - '[[_Standards/WikiData/WD~Bokha,63340714]]'
-- "[[_Standards/WikiData/WD~Hlepho Phowa,63341181]]"
-- "[[_Standards/WikiData/WD~Labo Phowa,63341239]]"
+- "[[_Standards/WikiData/WD~Hlepho_Phowa,63341181]]"
+- "[[_Standards/WikiData/WD~Labo_Phowa,63341239]]"
 - '[[_Standards/WikiData/WD~Phuma,63341260]]'
-- "[[_Standards/WikiData/WD~Central Hongshuihe Zhuang,63341278]]"
-- "[[_Standards/WikiData/WD~Lianshan Zhuang,63341346]]"
-- "[[_Standards/WikiData/WD~Liuqian Zhuang,63341349]]"
-central_bank: "[[_Standards/WikiData/WD~People's Bank of China,249203]]"
+- "[[_Standards/WikiData/WD~Central_Hongshuihe_Zhuang,63341278]]"
+- "[[_Standards/WikiData/WD~Lianshan_Zhuang,63341346]]"
+- "[[_Standards/WikiData/WD~Liuqian_Zhuang,63341349]]"
+central_bank: "[[_Standards/WikiData/WD~People's_Bank_of_China,249203]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-culture: "[[_Standards/WikiData/WD~Chinese culture,645917]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the People's Republic of China,655407]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+culture: "[[_Standards/WikiData/WD~Chinese_culture,645917]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_People's_Republic_of_China,655407]]"
 highest_judicial_authority:
-- "[[_Standards/WikiData/WD~Supreme People's Court of the People's Republic of China,691994]]"
-- "[[_Standards/WikiData/WD~Supreme People's Procuratorate of the People's Republic of China,2682024]]"
+- "[[_Standards/WikiData/WD~Supreme_People's_Court_of_the_People's_Republic_of_China,691994]]"
+- "[[_Standards/WikiData/WD~Supreme_People's_Procuratorate_of_the_People's_Republic_of_China,2682024]]"
 official_language:
-- "[[_Standards/WikiData/WD~Standard Chinese,727694]]"
-- "[[_Standards/WikiData/WD~languages of China,835866]]"
+- "[[_Standards/WikiData/WD~Standard_Chinese,727694]]"
+- "[[_Standards/WikiData/WD~languages_of_China,835866]]"
 - '[[_Standards/WikiData/WD~Chinese,7850]]'
-lowest_point: "[[_Standards/WikiData/WD~Ayding Lake,792880]]"
+lowest_point: "[[_Standards/WikiData/WD~Ayding_Lake,792880]]"
 participant_in:
-- "[[_Standards/WikiData/WD~BASIC countries,795464]]"
-- "[[_Standards/WikiData/WD~Group of Five,2720495]]"
-- "[[_Standards/WikiData/WD~China-CELAC Forum,83493046]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of China,839778]]"
+- "[[_Standards/WikiData/WD~BASIC_countries,795464]]"
+- "[[_Standards/WikiData/WD~Group_of_Five,2720495]]"
+- "[[_Standards/WikiData/WD~China-CELAC_Forum,83493046]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_China,839778]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~China Standard Time,1143153]]"
+- "[[_Standards/WikiData/WD~China_Standard_Time,1143153]]"
 - '[[_Standards/WikiData/WD~Asia_Shanghai,4806303]]'
 - '[[_Standards/WikiData/WD~Asia_Urumqi,4806313]]'
 - '[[_Standards/WikiData/WD~UTC+08_00,6985]]'
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of China,1981379]]"
+- "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_China,1981379]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~119,2807090]]'
 - '[[_Standards/WikiData/WD~110,25648823]]'
 - '[[_Standards/WikiData/WD~120,25648851]]'
 replaces:
-- "[[_Standards/WikiData/WD~Inner Mongolian People's Republic,4120908]]"
-- "[[_Standards/WikiData/WD~Republic of China (1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Inner_Mongolian_People's_Republic,4120908]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
 - '[[_Standards/WikiData/WD~Q15904324,15904324]]'
-- "[[_Standards/WikiData/WD~Kingdom Shunzheng,15905301]]"
+- "[[_Standards/WikiData/WD~Kingdom_Shunzheng,15905301]]"
 - '[[_Standards/WikiData/WD~Q15909533,15909533]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Premier of the People's Republic of China,4122271]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Premier_of_the_People's_Republic_of_China,4122271]]"
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.公司,4222408]]'
 - '[[_Standards/WikiData/WD~.中国,11837308]]'
 - '[[_Standards/WikiData/WD~.中國,11837483]]'
 - '[[_Standards/WikiData/WD~.cn,38900]]'
-head_of_government: "[[_Standards/WikiData/WD~Li Qiang,4414390]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of China,7112227]]"
+head_of_government: "[[_Standards/WikiData/WD~Li_Qiang,4414390]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_China,7112227]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_China topics,8005471]]"
+- "[[_Standards/WikiData/WD~Template_China_topics,8005471]]"
 - '[[_Standards/WikiData/WD~Q10801119,10801119]]'
 - '[[_Standards/WikiData/WD~Q17682786,17682786]]'
 category_of_associated_people: '[[_Standards/WikiData/WD~Q9069788,9069788]]'
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%BE%BD.png"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_People's Republic of China,13365337]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_People's_Republic_of_China,13365337]]"
 different_from:
-- "[[_Standards/WikiData/WD~Republic of China (1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
 - '[[_Standards/WikiData/WD~China,29520]]'
-follows: "[[_Standards/WikiData/WD~Republic of China (1912–1949),13426199]]"
+follows: "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 permanent_duplicated_item:
-- "[[_Standards/WikiData/WD~People's Republic of China,22828645]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,22828645]]"
 - '[[_Standards/WikiData/WD~Q42311019,42311019]]'
 - '[[_Standards/WikiData/WD~Q42311022,42311022]]'
 ORCID_iD: 0000-0002-5166-1365
@@ -678,7 +678,7 @@ female_population:
 - 691528501
 - 688179990
 shares_border_with:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
@@ -688,17 +688,17 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Tajikistan,863]]'
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bhutan,917]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-highest_point: "[[_Standards/WikiData/WD~Mount Everest,513]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Everest,513]]"
 territory_claimed_by: '[[_Standards/WikiData/WD~Taiwan,865]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Beijing,956]]'
-- "[[_Standards/WikiData/WD~Hong Kong,8646]]"
+- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
 - '[[_Standards/WikiData/WD~Shanghai,8686]]'
 - '[[_Standards/WikiData/WD~Chongqing,11725]]'
 - '[[_Standards/WikiData/WD~Tianjin,11736]]'
@@ -707,13 +707,13 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Guangxi,15176]]'
 - '[[_Standards/WikiData/WD~Jiangsu,16963]]'
 - '[[_Standards/WikiData/WD~Zhejiang,16967]]'
-- "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
+- "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
 - '[[_Standards/WikiData/WD~Heilongjiang,19206]]'
 - '[[_Standards/WikiData/WD~Sichuan,19770]]'
 - '[[_Standards/WikiData/WD~Hebei,21208]]'
 - '[[_Standards/WikiData/WD~Xinjiang,34800]]'
 - '[[_Standards/WikiData/WD~Anhui,40956]]'
-- "[[_Standards/WikiData/WD~Inner Mongolia,41079]]"
+- "[[_Standards/WikiData/WD~Inner_Mongolia,41079]]"
 - '[[_Standards/WikiData/WD~Fujian,41705]]'
 - '[[_Standards/WikiData/WD~Hainan,42200]]'
 - '[[_Standards/WikiData/WD~Gansu,42392]]'
@@ -732,20 +732,20 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Ningxia,57448]]'
 capital: '[[_Standards/WikiData/WD~Beijing,956]]'
 named_after:
-- "[[_Standards/WikiData/WD~Qin dynasty,7183]]"
+- "[[_Standards/WikiData/WD~Qin_dynasty,7183]]"
 - '[[_Standards/WikiData/WD~center,23595]]'
-general_secretary: "[[_Standards/WikiData/WD~Xi Jinping,15031]]"
-head_of_state: "[[_Standards/WikiData/WD~Xi Jinping,15031]]"
-founded_by: "[[_Standards/WikiData/WD~Chinese Communist Party,17427]]"
-legislative_body: "[[_Standards/WikiData/WD~National People's Congress,19211]]"
+general_secretary: "[[_Standards/WikiData/WD~Xi_Jinping,15031]]"
+head_of_state: "[[_Standards/WikiData/WD~Xi_Jinping,15031]]"
+founded_by: "[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]"
+legislative_body: "[[_Standards/WikiData/WD~National_People's_Congress,19211]]"
 part_of:
-- "[[_Standards/WikiData/WD~East Asia,27231]]"
+- "[[_Standards/WikiData/WD~East_Asia,27231]]"
 - '[[_Standards/WikiData/WD~China,29520]]'
 - '[[_Standards/WikiData/WD~Asia,48]]'
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~China,29520]]'
 minimum_temperature_record: -58
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
-country: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:China.map"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Badaling%20China%20Great-Wall-of-China-01.jpg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Ch-map%20cropped.jpg"
@@ -897,7 +897,7 @@ Inequality_adjusted_Human_Development_Index: 0.651
 birth_rate: 6.77
 death_rate: 7.37
 Human_Development_Index: 0.768
-executive_body: "[[_Standards/WikiData/WD~State Council of the People's Republic of China,59261]]"
+executive_body: "[[_Standards/WikiData/WD~State_Council_of_the_People's_Republic_of_China,59261]]"
 native_label: 中华人民共和国
 official_name: 中华人民共和国
 short_name: 中国
@@ -919,9 +919,9 @@ nominal_GDP:
 - 17963170521080
 - 17820459342451
 urban_population: 901991162
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
-archives_at: "[[_Standards/WikiData/WD~Hong Kong Baptist University Library Special Collections & Archives,117812074]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+archives_at: "[[_Standards/WikiData/WD~Hong_Kong_Baptist_University_Library_Special_Collections_&_Archives,117812074]]"
 rural_population: 509787562
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Zh-tw-Zh%C5%8Dnghu%C3%A1%20R%C3%A9nm%C3%ADn%20G%C3%B2ngh%C3%A9gu%C3%B3.ogg"
 coordinates_of_northernmost_point: "Point(123.266666666 53.558333333)"

@@ -3,39 +3,39 @@ aliases:
 - "World Bank"
 has_id_wikidata: Q7164
 different_from:
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~World Bank Group,320863]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~World_Bank_Group,320863]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
 part_of:
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-director_manager: "[[_Standards/WikiData/WD~Kristalina Georgieva,265277]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+director_manager: "[[_Standards/WikiData/WD~Kristalina_Georgieva,265277]]"
 official_observer_status_in_organisation:
-- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
-- "[[_Standards/WikiData/WD~International Union for the Protection of New Varieties of Plants,690318]]"
-- "[[_Standards/WikiData/WD~Pacific Islands Forum,757276]]"
-- "[[_Standards/WikiData/WD~Western and Central Pacific Fisheries Commission,2565027]]"
-- "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
+- "[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]"
+- "[[_Standards/WikiData/WD~Pacific_Islands_Forum,757276]]"
+- "[[_Standards/WikiData/WD~Western_and_Central_Pacific_Fisheries_Commission,2565027]]"
+- "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
 partnership_with:
-- "[[_Standards/WikiData/WD~International Fund for Agricultural Development,689859]]"
-- "[[_Standards/WikiData/WD~United Cities and Local Governments,2974854]]"
+- "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
+- "[[_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854]]"
 member_of:
 - '[[_Standards/WikiData/WD~DataCite,821542]]'
-- "[[_Standards/WikiData/WD~Confederation of Open Access Repositories,48789578]]"
-industry: "[[_Standards/WikiData/WD~development aid,865909]]"
-instance_of: "[[_Standards/WikiData/WD~international financial institution,1345691]]"
+- "[[_Standards/WikiData/WD~Confederation_of_Open_Access_Repositories,48789578]]"
+industry: "[[_Standards/WikiData/WD~development_aid,865909]]"
+instance_of: "[[_Standards/WikiData/WD~international_financial_institution,1345691]]"
 board_member:
-- "[[_Standards/WikiData/WD~Eugene R. Black, Sr.,1373171]]"
-- "[[_Standards/WikiData/WD~Robert L. Garner,64013328]]"
-chairperson: "[[_Standards/WikiData/WD~Ajaypal Singh Banga,4699676]]"
-open_data_portal: "[[_Standards/WikiData/WD~World Bank Open Data,21540096]]"
+- "[[_Standards/WikiData/WD~Eugene_R._Black,_Sr.,1373171]]"
+- "[[_Standards/WikiData/WD~Robert_L._Garner,64013328]]"
+chairperson: "[[_Standards/WikiData/WD~Ajaypal_Singh_Banga,4699676]]"
+open_data_portal: "[[_Standards/WikiData/WD~World_Bank_Open_Data,21540096]]"
 described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
-headquarters_location: "[[_Standards/WikiData/WD~World Bank Headquarters,105153707]]"
+headquarters_location: "[[_Standards/WikiData/WD~World_Bank_Headquarters,105153707]]"
 short_name:
 - BM
 - BM
@@ -49,7 +49,7 @@ official_language:
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 language_used: '[[_Standards/WikiData/WD~English,1860]]'
-country: "[[_Standards/WikiData/WD~United States,30]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
 social_media_followers: 377000
 EU_Corporate_body_code: WB
 Commons_category: "World Bank"

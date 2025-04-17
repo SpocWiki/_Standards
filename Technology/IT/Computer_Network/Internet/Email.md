@@ -1,30 +1,30 @@
 ---
 has_id_wikidata: Q9158
 Commons_category: E-mail
-creator: "[[_Standards/WikiData/WD~Raymond Tomlinson,92631]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Raymond Tomlinson,92631]]"
+creator: "[[_Standards/WikiData/WD~Raymond_Tomlinson,92631]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Raymond_Tomlinson,92631]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~letter,133492]]'
-- "[[_Standards/WikiData/WD~digital media,1076968]]"
-- "[[_Standards/WikiData/WD~service on Internet,1668024]]"
-- "[[_Standards/WikiData/WD~message traffic,2554719]]"
-- "[[_Standards/WikiData/WD~telecommunications application,120266668]]"
+- "[[_Standards/WikiData/WD~digital_media,1076968]]"
+- "[[_Standards/WikiData/WD~service_on_Internet,1668024]]"
+- "[[_Standards/WikiData/WD~message_traffic,2554719]]"
+- "[[_Standards/WikiData/WD~telecommunications_application,120266668]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Simple Mail Transfer Protocol,160453]]"
-- "[[_Standards/WikiData/WD~Post Office Protocol 3,163393]]"
-- "[[_Standards/WikiData/WD~Internet Message Access Protocol,166936]]"
-- "[[_Standards/WikiData/WD~Multipurpose Internet Mail Extensions,192902]]"
-location_of_creation: "[[_Standards/WikiData/WD~BBN Technologies,891612]]"
+- "[[_Standards/WikiData/WD~Simple_Mail_Transfer_Protocol,160453]]"
+- "[[_Standards/WikiData/WD~Post_Office_Protocol_3,163393]]"
+- "[[_Standards/WikiData/WD~Internet_Message_Access_Protocol,166936]]"
+- "[[_Standards/WikiData/WD~Multipurpose_Internet_Mail_Extensions,192902]]"
+location_of_creation: "[[_Standards/WikiData/WD~BBN_Technologies,891612]]"
 instance_of:
-- "[[_Standards/WikiData/WD~service on Internet,1668024]]"
-- "[[_Standards/WikiData/WD~communication technology,1780543]]"
+- "[[_Standards/WikiData/WD~service_on_Internet,1668024]]"
+- "[[_Standards/WikiData/WD~communication_technology,1780543]]"
 uses:
-- "[[_Standards/WikiData/WD~blind carbon copy,11680886]]"
-- "[[_Standards/WikiData/WD~carbon copy,59164214]]"
+- "[[_Standards/WikiData/WD~blind_carbon_copy,11680886]]"
+- "[[_Standards/WikiData/WD~carbon_copy,59164214]]"
 history_of_topic: '[[_Standards/WikiData/WD~Q16097010,16097010]]'
 different_from:
 - '[[_Standards/WikiData/WD~Email,25978533]]'
-- "[[_Standards/WikiData/WD~email message,30070439]]"
+- "[[_Standards/WikiData/WD~email_message,30070439]]"
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/%40%20symbol.svg"
 Stack_Exchange_tag: "https://stackoverflow.com/tags/email"
 Unicode_character: 📧 

@@ -3,7 +3,7 @@ has_id_wikidata: Q97
 named_after: '[[_Standards/WikiData/WD~Atlas,130818]]'
 basin_country:
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
@@ -11,20 +11,20 @@ basin_country:
 - '[[_Standards/WikiData/WD~Suriname,730]]'
 - '[[_Standards/WikiData/WD~Guyana,734]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-- "[[_Standards/WikiData/WD~Saint Vincent and the Grenadines,757]]"
-- "[[_Standards/WikiData/WD~Saint Kitts and Nevis,763]]"
-- "[[_Standards/WikiData/WD~Saint Lucia,760]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
+- "[[_Standards/WikiData/WD~Saint_Vincent_and_the_Grenadines,757]]"
+- "[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]"
+- "[[_Standards/WikiData/WD~Saint_Lucia,760]]"
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Guatemala,774]]'
-- "[[_Standards/WikiData/WD~The Bahamas,778]]"
+- "[[_Standards/WikiData/WD~The_Bahamas,778]]"
 - '[[_Standards/WikiData/WD~Honduras,783]]'
-- "[[_Standards/WikiData/WD~Antigua and Barbuda,781]]"
-- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
+- "[[_Standards/WikiData/WD~Antigua_and_Barbuda,781]]"
+- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
 - '[[_Standards/WikiData/WD~Dominica,784]]'
 - '[[_Standards/WikiData/WD~Haiti,790]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Panama,804]]'
 - '[[_Standards/WikiData/WD~Nicaragua,811]]'
@@ -34,15 +34,15 @@ basin_country:
 - '[[_Standards/WikiData/WD~Togo,945]]'
 - '[[_Standards/WikiData/WD~Tunisia,948]]'
 - '[[_Standards/WikiData/WD~Benin,962]]'
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
-- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
+- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
 - '[[_Standards/WikiData/WD~Guinea,1006]]'
 - '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-- "[[_Standards/WikiData/WD~The Gambia,1005]]"
-- "[[_Standards/WikiData/WD~Cape Verde,1011]]"
-- "[[_Standards/WikiData/WD~Ivory Coast,1008]]"
+- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
+- "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
+- "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
@@ -50,13 +50,13 @@ basin_country:
 - '[[_Standards/WikiData/WD~Namibia,1030]]'
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
-- "[[_Standards/WikiData/WD~São Tomé and Príncipe,1039]]"
+- "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]"
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+- "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -74,7 +74,7 @@ basin_country:
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -87,7 +87,7 @@ basin_country:
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Monaco,235]]'
@@ -97,39 +97,39 @@ basin_country:
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~North Atlantic Ocean,350134]]"
-- "[[_Standards/WikiData/WD~South Atlantic Ocean,1482804]]"
-- "[[_Standards/WikiData/WD~Eastern Central Atlantic,43181427]]"
-- "[[_Standards/WikiData/WD~Arctic Ocean,788]]"
+- "[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]"
+- "[[_Standards/WikiData/WD~South_Atlantic_Ocean,1482804]]"
+- "[[_Standards/WikiData/WD~Eastern_Central_Atlantic,43181427]]"
+- "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
 shares_border_with:
-- "[[_Standards/WikiData/WD~Baetic Depression,523854]]"
-- "[[_Standards/WikiData/WD~North Africa,27381]]"
+- "[[_Standards/WikiData/WD~Baetic_Depression,523854]]"
+- "[[_Standards/WikiData/WD~North_Africa,27381]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Akademi Kernewek's Place Names,115349858]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-part_of: "[[_Standards/WikiData/WD~World Ocean,715269]]"
-lowest_point: "[[_Standards/WikiData/WD~Milwaukee Deep,1700129]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_ Atlantic Ocean,10505679]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Atlantic Ocean,17324410]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Akademi_Kernewek's_Place_Names,115349858]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+part_of: "[[_Standards/WikiData/WD~World_Ocean,715269]]"
+lowest_point: "[[_Standards/WikiData/WD~Milwaukee_Deep,1700129]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template__Atlantic_Ocean,10505679]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Atlantic_Ocean,17324410]]"
 tributary:
-- "[[_Standards/WikiData/WD~Una River,21171224]]"
-- "[[_Standards/WikiData/WD~Una River (Una, Bahia),22030706]]"
+- "[[_Standards/WikiData/WD~Una_River,21171224]]"
+- "[[_Standards/WikiData/WD~Una_River_(Una,_Bahia),22030706]]"
 - '[[_Standards/WikiData/WD~Amazon,3783]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828099,22828099]]'
 category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27336100,27336100]]'
 connects_with:
-- "[[_Standards/WikiData/WD~Atlantic Continental Shelf,111908338]]"
+- "[[_Standards/WikiData/WD~Atlantic_Continental_Shelf,111908338]]"
 UMLS_CUI: C0004167
 MeSH_tree_code:
 - Z01.756.092
@@ -139,7 +139,7 @@ Krugosvet_article: Earth_sciences/geologiya/ATLANTICHESKI_OKEAN.html
 Wolfram_Language_entity_code: "Entity[\"Ocean\", \"AtlanticOcean\"]"
 Colon_Classification: SG--96
 instance_of: '[[_Standards/WikiData/WD~ocean,9430]]'
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~international waters,25855]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~international_waters,25855]]"
 elevation_above_sea_level: 0
 width: 5000
 bathymetry_image:

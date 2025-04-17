@@ -1,17 +1,17 @@
 ﻿---
 has_id_wikidata: Q11658
 subclass_of:
-- "[[_Standards/WikiData/WD~electrical element,210729]]"
-- "[[_Standards/WikiData/WD~passive electronic component,9252564]]"
-instance_of: "[[_Standards/WikiData/WD~electrical element,210729]]"
+- "[[_Standards/WikiData/WD~electrical_element,210729]]"
+- "[[_Standards/WikiData/WD~passive_electronic_component,9252564]]"
+instance_of: "[[_Standards/WikiData/WD~electrical_element,210729]]"
 has_use:
-- "[[_Standards/WikiData/WD~voltage converter,387331]]"
-- "[[_Standards/WikiData/WD~galvanic isolation,780813]]"
+- "[[_Standards/WikiData/WD~voltage_converter,387331]]"
+- "[[_Standards/WikiData/WD~galvanic_isolation,780813]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~_Kyrgyzstan_ national encyclopedia,16679904]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~_Kyrgyzstan__national_encyclopedia,16679904]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from:
 - '[[_Standards/WikiData/WD~Transformer,624448]]'
 - '[[_Standards/WikiData/WD~Transformator,9361144]]'

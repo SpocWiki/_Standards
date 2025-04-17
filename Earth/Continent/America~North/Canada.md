@@ -34,64 +34,64 @@ Languages:
 - fr-CA
 - iu
 icon: flag-ca
-flag: "[[_Standards/WikiData/WD~flag of Canada,80110]]"
-official_symbol: "[[_Standards/WikiData/WD~Canadian beaver,81056]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Canada,80110]]"
+official_symbol: "[[_Standards/WikiData/WD~Canadian_beaver,81056]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific Economic Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~North American Free Trade Agreement,181574]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Arctic Council,674182]]"
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
+- "[[_Standards/WikiData/WD~North_American_Free_Trade_Agreement,181574]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Arctic_Council,674182]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
 - '[[_Standards/WikiData/WD~G7,1764511]]'
-- "[[_Standards/WikiData/WD~ABCANZ Armies,2863003]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
+- "[[_Standards/WikiData/WD~ABCANZ_Armies,2863003]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
 - '[[_Standards/WikiData/WD~AUSCANNZUKUS,4033111]]'
-- "[[_Standards/WikiData/WD~Air Force Interoperability Council,4426267]]"
-- "[[_Standards/WikiData/WD~Combined Communications-Electronics Board,5150848]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~The Technical Cooperation Program,7768229]]"
-- "[[_Standards/WikiData/WD~ASEAN Regional Forum,7886981]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Air_Force_Interoperability_Council,4426267]]"
+- "[[_Standards/WikiData/WD~Combined_Communications-Electronics_Board,5150848]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~The_Technical_Cooperation_Program,7768229]]"
+- "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 - '[[_Standards/WikiData/WD~G20,19771]]'
 - '[[_Standards/WikiData/WD~G8,37143]]'
-- "[[_Standards/WikiData/WD~League of Nations,38130]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~Five Eyes,15978258]]"
-anthem: "[[_Standards/WikiData/WD~O Canada,93359]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Logan,120306]]"
+- "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~Five_Eyes,15978258]]"
+anthem: "[[_Standards/WikiData/WD~O_Canada,93359]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Logan,120306]]"
 patron_saint:
 - '[[_Standards/WikiData/WD~Joseph,128267]]'
-- "[[_Standards/WikiData/WD~Saint Anne,164294]]"
-- "[[_Standards/WikiData/WD~Jean de Brébeuf,713402]]"
-- "[[_Standards/WikiData/WD~North American Martyrs,2653872]]"
+- "[[_Standards/WikiData/WD~Saint_Anne,164294]]"
+- "[[_Standards/WikiData/WD~Jean_de_Brébeuf,713402]]"
+- "[[_Standards/WikiData/WD~North_American_Martyrs,2653872]]"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Haiti,790]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
@@ -102,29 +102,29 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Nepal,837]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Qatar,846]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Mali,912]]'
 - '[[_Standards/WikiData/WD~Brunei,921]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
-- "[[_Standards/WikiData/WD~Burkina Faso,965]]"
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Namibia,1030]]'
 - '[[_Standards/WikiData/WD~Morocco,1028]]'
 - '[[_Standards/WikiData/WD~Mozambique,1029]]'
-- "[[_Standards/WikiData/WD~Hong Kong,8646]]"
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-- "[[_Standards/WikiData/WD~Kingdom of the Netherlands,29999]]"
+- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -145,8 +145,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -154,7 +154,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Latvia,211]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
@@ -164,107 +164,107 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~parliamentary system,166747]]"
-- "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+- "[[_Standards/WikiData/WD~parliamentary_system,166747]]"
+- "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 - '[[_Standards/WikiData/WD~federation,43702]]'
 separated_from:
-- "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~Inuit,189975]]'
-- "[[_Standards/WikiData/WD~First Nations,392316]]"
-- "[[_Standards/WikiData/WD~French Canadians,857880]]"
+- "[[_Standards/WikiData/WD~First_Nations,392316]]"
+- "[[_Standards/WikiData/WD~French_Canadians,857880]]"
 - '[[_Standards/WikiData/WD~Canadians,1196645]]'
-- "[[_Standards/WikiData/WD~Chinese Canadians,1207351]]"
-- "[[_Standards/WikiData/WD~Italian Canadians,2254415]]"
-- "[[_Standards/WikiData/WD~English Canadians,2935829]]"
-- "[[_Standards/WikiData/WD~Irish Canadians,3154490]]"
-- "[[_Standards/WikiData/WD~Belgian Canadians,4882454]]"
-- "[[_Standards/WikiData/WD~German Canadians,5030929]]"
-- "[[_Standards/WikiData/WD~Scottish Canadians,7437641]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Canada,196615]]"
+- "[[_Standards/WikiData/WD~Chinese_Canadians,1207351]]"
+- "[[_Standards/WikiData/WD~Italian_Canadians,2254415]]"
+- "[[_Standards/WikiData/WD~English_Canadians,2935829]]"
+- "[[_Standards/WikiData/WD~Irish_Canadians,3154490]]"
+- "[[_Standards/WikiData/WD~Belgian_Canadians,4882454]]"
+- "[[_Standards/WikiData/WD~German_Canadians,5030929]]"
+- "[[_Standards/WikiData/WD~Scottish_Canadians,7437641]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Canada,196615]]"
 different_from:
 - '[[_Standards/WikiData/WD~Canada,257304]]'
 - '[[_Standards/WikiData/WD~Kanada,528178]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Fünfter Band,130285551]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Canada,422404]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Canada,475689]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Fünfter_Band,130285551]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Canada,422404]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Canada,475689]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~Kingdom of Denmark,756617]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Canada,806703]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Canada,839078]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Canada,840925]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Canada,806703]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Canada,839078]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Canada,840925]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Pacific Time Zone,847142]]"
-- "[[_Standards/WikiData/WD~Eastern Time Zone,941023]]"
-- "[[_Standards/WikiData/WD~Atlantic Time Zone,2085376]]"
-- "[[_Standards/WikiData/WD~Central Time Zone,2086913]]"
-- "[[_Standards/WikiData/WD~Mountain Time Zone,3134980]]"
+- "[[_Standards/WikiData/WD~Pacific_Time_Zone,847142]]"
+- "[[_Standards/WikiData/WD~Eastern_Time_Zone,941023]]"
+- "[[_Standards/WikiData/WD~Atlantic_Time_Zone,2085376]]"
+- "[[_Standards/WikiData/WD~Central_Time_Zone,2086913]]"
+- "[[_Standards/WikiData/WD~Mountain_Time_Zone,3134980]]"
 - '[[_Standards/WikiData/WD~UTC−07_00,2212]]'
 - '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
 - '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
 - '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-- "[[_Standards/WikiData/WD~Newfoundland Time Zone,60738798]]"
-foundational_text: "[[_Standards/WikiData/WD~Constitution Act, 1867,868884]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Canada,899061]]"
-culture: "[[_Standards/WikiData/WD~culture of Canada,1103954]]"
-currency: "[[_Standards/WikiData/WD~Canadian dollar,1104069]]"
-replaces: "[[_Standards/WikiData/WD~Province of Canada,1121436]]"
+- "[[_Standards/WikiData/WD~Newfoundland_Time_Zone,60738798]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution_Act,_1867,868884]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Canada,899061]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Canada,1103954]]"
+currency: "[[_Standards/WikiData/WD~Canadian_dollar,1104069]]"
+replaces: "[[_Standards/WikiData/WD~Province_of_Canada,1121436]]"
 significant_event:
-- "[[_Standards/WikiData/WD~Canadian Confederation,1520743]]"
-- "[[_Standards/WikiData/WD~Newfoundland Act 1949,9143629]]"
-- "[[_Standards/WikiData/WD~Adjacent Territories Order,15628664]]"
-- "[[_Standards/WikiData/WD~Rupert's Land and North-Western Territory Order,15630851]]"
-- "[[_Standards/WikiData/WD~British Columbia Terms of Union,15630911]]"
-- "[[_Standards/WikiData/WD~Prince Edward Island Terms of Union,15631651]]"
-has_cabinet: "[[_Standards/WikiData/WD~King's Privy Council for Canada,1631137]]"
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great Seal of Canada,2356606]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Canada,2492796]]"
-head_of_government: "[[_Standards/WikiData/WD~Justin Trudeau,3099714]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~Canadian_Confederation,1520743]]"
+- "[[_Standards/WikiData/WD~Newfoundland_Act_1949,9143629]]"
+- "[[_Standards/WikiData/WD~Adjacent_Territories_Order,15628664]]"
+- "[[_Standards/WikiData/WD~Rupert's_Land_and_North-Western_Territory_Order,15630851]]"
+- "[[_Standards/WikiData/WD~British_Columbia_Terms_of_Union,15630911]]"
+- "[[_Standards/WikiData/WD~Prince_Edward_Island_Terms_of_Union,15631651]]"
+has_cabinet: "[[_Standards/WikiData/WD~King's_Privy_Council_for_Canada,1631137]]"
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great_Seal_of_Canada,2356606]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Canada,2492796]]"
+head_of_government: "[[_Standards/WikiData/WD~Justin_Trudeau,3099714]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 named_after: '[[_Standards/WikiData/WD~Stadacona,3339246]]'
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-studied_in: "[[_Standards/WikiData/WD~Canadian studies,4676302]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Canada,7112221]]"
+studied_in: "[[_Standards/WikiData/WD~Canadian_studies,4676302]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Canada,7112221]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Canada,8133009]]'
-lowest_point: "[[_Standards/WikiData/WD~Arctic Ocean,788]]"
+lowest_point: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Arctic Ocean,788]]"
-- "[[_Standards/WikiData/WD~Hudson Bay,3040]]"
-- "[[_Standards/WikiData/WD~Great Lakes,7347]]"
-- "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+- "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
+- "[[_Standards/WikiData/WD~Hudson_Bay,3040]]"
+- "[[_Standards/WikiData/WD~Great_Lakes,7347]]"
+- "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 language_used:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~French,150]]'
@@ -275,25 +275,25 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Ontario,1904]]'
 - '[[_Standards/WikiData/WD~Alberta,1951]]'
 - '[[_Standards/WikiData/WD~Manitoba,1948]]'
-- "[[_Standards/WikiData/WD~Nova Scotia,1952]]"
-- "[[_Standards/WikiData/WD~New Brunswick,1965]]"
-- "[[_Standards/WikiData/WD~British Columbia,1973]]"
-- "[[_Standards/WikiData/WD~Prince Edward Island,1978]]"
+- "[[_Standards/WikiData/WD~Nova_Scotia,1952]]"
+- "[[_Standards/WikiData/WD~New_Brunswick,1965]]"
+- "[[_Standards/WikiData/WD~British_Columbia,1973]]"
+- "[[_Standards/WikiData/WD~Prince_Edward_Island,1978]]"
 - '[[_Standards/WikiData/WD~Saskatchewan,1989]]'
-- "[[_Standards/WikiData/WD~Newfoundland and Labrador,2003]]"
-- "[[_Standards/WikiData/WD~Northwest Territories,2007]]"
+- "[[_Standards/WikiData/WD~Newfoundland_and_Labrador,2003]]"
+- "[[_Standards/WikiData/WD~Northwest_Territories,2007]]"
 - '[[_Standards/WikiData/WD~Yukon,2009]]'
 - '[[_Standards/WikiData/WD~Nunavut,2023]]'
 - '[[_Standards/WikiData/WD~Quebec,176]]'
 capital: '[[_Standards/WikiData/WD~Ottawa,1930]]'
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~province or territory of Canada,2879]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Canada,2939]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Canada,2945]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~province_or_territory_of_Canada,2879]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Canada,2939]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Canada,2945]]"
 minimum_temperature_record: -63
 country: '[[_Standards/WikiData/WD~Canada,16]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~North America,49]]"
-part_of: "[[_Standards/WikiData/WD~North America,49]]"
-continent: "[[_Standards/WikiData/WD~North America,49]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~North_America,49]]"
+part_of: "[[_Standards/WikiData/WD~North_America,49]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 compulsory_education_minimum_age_: 6
 unemployment_rate: 7
 birth_rate:
@@ -315,12 +315,12 @@ total_fertility_rate: 1.57
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.ca,39582]]'
 - '[[_Standards/WikiData/WD~.quebec,18916286]]'
-motto: "[[_Standards/WikiData/WD~A Mari Usque Ad Mare,41423]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Arms of Canada,41549]]"
+motto: "[[_Standards/WikiData/WD~A_Mari_Usque_Ad_Mare,41423]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Arms_of_Canada,41549]]"
 Gini_coefficient:
 - 32.1
 - 33.3
-head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 Happy_Planet_Index_score: 40.2
 elevation_above_sea_level: 487
 maximum_temperature_record: 49.6
@@ -476,21 +476,21 @@ Colon_Classification: SG--72
 Krugosvet_article: strany-mira/kanada
 MeSH_tree_code: Z01.107.567.176
 short_name: "\U0001F1E8\U0001F1E6"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Canada topics,10592980]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Canada,10782662]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Canada_topics,10592980]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Canada,10782662]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of Canada,14931511]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Canada,14931511]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Canada,21287484]]'
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-open_data_portal: "[[_Standards/WikiData/WD~Canada Open Data portal,97285880]]"
-item_operated: "[[_Standards/WikiData/WD~embassy of Canada, The Hague,100699867]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+open_data_portal: "[[_Standards/WikiData/WD~Canada_Open_Data_portal,97285880]]"
+item_operated: "[[_Standards/WikiData/WD~embassy_of_Canada,_The_Hague,100699867]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
-- "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
-tartan: "[[_Standards/WikiData/WD~maple leaf tartan,127271557]]"
+- "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
+- "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
+tartan: "[[_Standards/WikiData/WD~maple_leaf_tartan,127271557]]"
 Baidu_Tieba_name: 加拿大
 age_of_majority: "http://www.wikidata.org/.well-known/genid/00e58d958cfcbd910589e02b26b831a8"
 coordinate_location: "Point(-109.0 56.0)"

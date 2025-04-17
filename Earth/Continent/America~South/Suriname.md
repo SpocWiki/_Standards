@@ -38,13 +38,13 @@ has_id_wikidata: Q730
 MeSH_tree_code: Z01.107.757.833
 coordinate_location: "Point(-56.0 4.0)"
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Guyana,734]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
@@ -55,46 +55,46 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~France,142]]'
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 member_of:
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Union of South American Nations,4230]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~Dutch Language Union,152299]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~Dutch_Language_Union,152299]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Caribbean_Community,205995]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]"
 language_used:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Dutch,7411]]'
 - '[[_Standards/WikiData/WD~Saramaccan,33779]]'
-- "[[_Standards/WikiData/WD~Sranan Tongo,33989]]"
+- "[[_Standards/WikiData/WD~Sranan_Tongo,33989]]"
 - '[[_Standards/WikiData/WD~Akurio,56650]]'
 - '[[_Standards/WikiData/WD~Tiriyó,56885]]'
 - '[[_Standards/WikiData/WD~Kwinti,721182]]'
-- "[[_Standards/WikiData/WD~Caribbean Hindustani,1843468]]"
-- "[[_Standards/WikiData/WD~Sarnámi Hindustáni,2519308]]"
+- "[[_Standards/WikiData/WD~Caribbean_Hindustani,1843468]]"
+- "[[_Standards/WikiData/WD~Sarnámi_Hindustáni,2519308]]"
 - '[[_Standards/WikiData/WD~Arawak,2655664]]'
-- "[[_Standards/WikiData/WD~Businenge Tongo,2659044]]"
+- "[[_Standards/WikiData/WD~Businenge_Tongo,2659044]]"
 - '[[_Standards/WikiData/WD~Sikiana,3443734]]'
 - '[[_Standards/WikiData/WD~Wayana,5908753]]'
-- "[[_Standards/WikiData/WD~Surinamese Javanese,11732256]]"
-- "[[_Standards/WikiData/WD~Ndyuka-Trio Pidgin,13591205]]"
+- "[[_Standards/WikiData/WD~Surinamese_Javanese,11732256]]"
+- "[[_Standards/WikiData/WD~Ndyuka-Trio_Pidgin,13591205]]"
 capital: '[[_Standards/WikiData/WD~Paramaribo,3001]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
@@ -102,12 +102,12 @@ located_in_time_zone:
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 official_language: '[[_Standards/WikiData/WD~Dutch,7411]]'
 part_of:
-- "[[_Standards/WikiData/WD~South America,18]]"
+- "[[_Standards/WikiData/WD~South_America,18]]"
 - '[[_Standards/WikiData/WD~Caribbean,664609]]'
 continent:
-- "[[_Standards/WikiData/WD~South America,18]]"
-- "[[_Standards/WikiData/WD~North America,49]]"
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+- "[[_Standards/WikiData/WD~South_America,18]]"
+- "[[_Standards/WikiData/WD~North_America,49]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 unemployment_rate: 6
 life_expectancy: 70
 marriageable_age: 21
@@ -158,36 +158,36 @@ urban_population:
 - 405913
 - 409804
 population: 563402
-flag: "[[_Standards/WikiData/WD~flag of Suriname,180725]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Suriname,321746]]"
-anthem: "[[_Standards/WikiData/WD~God zij met ons Suriname,327108]]"
-head_of_state: "[[_Standards/WikiData/WD~Chan Santokhi,333135]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Suriname,690866]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Suriname,180725]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Suriname,321746]]"
+anthem: "[[_Standards/WikiData/WD~God_zij_met_ons_Suriname,327108]]"
+head_of_state: "[[_Standards/WikiData/WD~Chan_Santokhi,333135]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Suriname,690866]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Brokopondo District,847680]]"
-- "[[_Standards/WikiData/WD~Commewijne District,952510]]"
-- "[[_Standards/WikiData/WD~Paramaribo District,1130134]]"
-- "[[_Standards/WikiData/WD~Sipaliwini District,1130138]]"
-- "[[_Standards/WikiData/WD~Coronie District,1130141]]"
-- "[[_Standards/WikiData/WD~Para District,1140891]]"
-- "[[_Standards/WikiData/WD~Marowijne District,1140897]]"
-- "[[_Standards/WikiData/WD~Nickerie District,1147515]]"
-- "[[_Standards/WikiData/WD~Wanica District,1147524]]"
-- "[[_Standards/WikiData/WD~Saramacca District,1351157]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Suriname,878254]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Suriname,878254]]"
+- "[[_Standards/WikiData/WD~Brokopondo_District,847680]]"
+- "[[_Standards/WikiData/WD~Commewijne_District,952510]]"
+- "[[_Standards/WikiData/WD~Paramaribo_District,1130134]]"
+- "[[_Standards/WikiData/WD~Sipaliwini_District,1130138]]"
+- "[[_Standards/WikiData/WD~Coronie_District,1130141]]"
+- "[[_Standards/WikiData/WD~Para_District,1140891]]"
+- "[[_Standards/WikiData/WD~Marowijne_District,1140897]]"
+- "[[_Standards/WikiData/WD~Nickerie_District,1147515]]"
+- "[[_Standards/WikiData/WD~Wanica_District,1147524]]"
+- "[[_Standards/WikiData/WD~Saramacca_District,1351157]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Suriname,878254]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Suriname,878254]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
 different_from: '[[_Standards/WikiData/WD~Suriname,1177328]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Suriname,1516634]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Suriname,1516634]]"
 highest_point: '[[_Standards/WikiData/WD~Julianatop,1549215]]'
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,1760847]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Suriname,2384917]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Suriname,2622179]]"
-central_bank: "[[_Standards/WikiData/WD~Centrale Bank van Suriname,2981941]]"
-culture: "[[_Standards/WikiData/WD~culture of Suriname,3007381]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1760847]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Suriname,2384917]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Suriname,2622179]]"
+central_bank: "[[_Standards/WikiData/WD~Centrale_Bank_van_Suriname,2981941]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Suriname,3007381]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 exact_match:
 - "http://sws.geonames.org/3382998"
 - "http://aims.fao.org/aos/agrovoc/c_7534"
@@ -197,18 +197,18 @@ exact_match:
 - "http://lod.nal.usda.gov/nalt/34948"
 - "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Suriname"
 - "http://zbw.eu/stw/descriptor/17932-1"
-instance_of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~111,4547309]]'
 - '[[_Standards/WikiData/WD~113,25648804]]'
 - '[[_Standards/WikiData/WD~115,25648805]]'
 - '[[_Standards/WikiData/WD~110,25648823]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Suriname,7112465]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Suriname,7112465]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Suriname,11209138]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 replaces: '[[_Standards/WikiData/WD~Suriname,19901436]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103716,27103716]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 nominal_GDP:
 - 2984706244
 - 3620655116

@@ -6,24 +6,24 @@ has_part_s_:
 has_cause: '[[_Standards/WikiData/WD~combustion,133235]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~combustion,133235]]'
-- "[[_Standards/WikiData/WD~physical phenomenon,1293220]]"
+- "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
 immediate_cause_of:
 - '[[_Standards/WikiData/WD~ash,152079]]'
-- "[[_Standards/WikiData/WD~burned area,33374019]]"
+- "[[_Standards/WikiData/WD~burned_area,33374019]]"
 - '[[_Standards/WikiData/WD~heat,44432]]'
-has_effect: "[[_Standards/WikiData/WD~thermal energy,209233]]"
+has_effect: "[[_Standards/WikiData/WD~thermal_energy,209233]]"
 different_from:
 - '[[_Standards/WikiData/WD~Fire,226261]]'
 - '[[_Standards/WikiData/WD~fire,2723512]]'
 - '[[_Standards/WikiData/WD~Q4331176,4331176]]'
-- "[[_Standards/WikiData/WD~Barkuwa (given name),131303458]]"
+- "[[_Standards/WikiData/WD~Barkuwa_(given_name),131303458]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 has_use: '[[_Standards/WikiData/WD~roasting,4865573]]'
 has_characteristic: '[[_Standards/WikiData/WD~hot,28128222]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Fire,30312828]]'

@@ -2,7 +2,7 @@
 has_id_wikidata: Q38592
 language_of_work_or_name:
 - '[[_Standards/WikiData/WD~Prakrit,192170]]'
-- "[[_Standards/WikiData/WD~Nagpuri language,765922]]"
+- "[[_Standards/WikiData/WD~Nagpuri_language,765922]]"
 - '[[_Standards/WikiData/WD~Gondi,1775361]]'
 - '[[_Standards/WikiData/WD~Mundari,3327828]]'
 - '[[_Standards/WikiData/WD~Surjapuri,7645351]]'
@@ -30,26 +30,26 @@ language_of_work_or_name:
 - '[[_Standards/WikiData/WD~Newar,33979]]'
 - '[[_Standards/WikiData/WD~Sindhi,33997]]'
 - '[[_Standards/WikiData/WD~Konkani,34239]]'
-- "[[_Standards/WikiData/WD~Braj Bhasha,35243]]"
+- "[[_Standards/WikiData/WD~Braj_Bhasha,35243]]"
 - '[[_Standards/WikiData/WD~Maithili,36109]]'
 - '[[_Standards/WikiData/WD~Sherpa,36612]]'
 - '[[_Standards/WikiData/WD~Pali,36727]]'
-- "[[_Standards/WikiData/WD~Fiji Hindi,46728]]"
+- "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
 - '[[_Standards/WikiData/WD~Marwari,56312]]'
 - '[[_Standards/WikiData/WD~Punjabi,58635]]'
 instance_of:
 - '[[_Standards/WikiData/WD~abugida,335806]]'
-- "[[_Standards/WikiData/WD~unicase alphabet,4004706]]"
-- "[[_Standards/WikiData/WD~natural writing system,29517555]]"
-subclass_of: "[[_Standards/WikiData/WD~Brahmic scripts,467037]]"
-named_after: "[[_Standards/WikiData/WD~God in Hinduism,2022644]]"
+- "[[_Standards/WikiData/WD~unicase_alphabet,4004706]]"
+- "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
+subclass_of: "[[_Standards/WikiData/WD~Brahmic_scripts,467037]]"
+named_after: "[[_Standards/WikiData/WD~God_in_Hinduism,2022644]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 3,124737616]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 script_directionality: '[[_Standards/WikiData/WD~left-to-right,17321844]]'
-has_part_s_: "[[_Standards/WikiData/WD~Devanagari letter,41798601]]"
+has_part_s_: "[[_Standards/WikiData/WD~Devanagari_letter,41798601]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Lang-Deva,64167665]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20letters.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari%20banner%20Rigveda%20MS2097.jpg"
@@ -58,7 +58,7 @@ located_in_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Nepal,837]]'
-location_of_creation: "[[_Standards/WikiData/WD~Indian subcontinent,60140]]"
+location_of_creation: "[[_Standards/WikiData/WD~Indian_subcontinent,60140]]"
 ISO_15924_numeric_code: 315
 Unicode_range:
 - U+A8E0-A8FF

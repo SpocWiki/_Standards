@@ -3,12 +3,12 @@ has_id_wikidata: Q626
 mouth_of_the_watercourse:
 - '[[_Standards/WikiData/WD~Kama,79082]]'
 - '[[_Standards/WikiData/WD~Astrakhan,3927]]'
-- "[[_Standards/WikiData/WD~Caspian Sea,5484]]"
+- "[[_Standards/WikiData/WD~Caspian_Sea,5484]]"
 tributary:
 - '[[_Standards/WikiData/WD~Kama,79082]]'
 - '[[_Standards/WikiData/WD~Gnilukha,84249]]'
-- "[[_Standards/WikiData/WD~Nizhnyaya Staritsa,84291]]"
-- "[[_Standards/WikiData/WD~Bolshaya Maza,84288]]"
+- "[[_Standards/WikiData/WD~Nizhnyaya_Staritsa,84291]]"
+- "[[_Standards/WikiData/WD~Bolshaya_Maza,84288]]"
 - '[[_Standards/WikiData/WD~Vetlyana,84302]]'
 - '[[_Standards/WikiData/WD~Trestyanka,84306]]'
 - '[[_Standards/WikiData/WD~Parasha,84309]]'
@@ -27,13 +27,13 @@ tributary:
 - '[[_Standards/WikiData/WD~Shigolost,85023]]'
 - '[[_Standards/WikiData/WD~Kmelyovka,85029]]'
 - '[[_Standards/WikiData/WD~Vatoma,85052]]'
-- "[[_Standards/WikiData/WD~Chyornaya Maza,85091]]"
+- "[[_Standards/WikiData/WD~Chyornaya_Maza,85091]]"
 - '[[_Standards/WikiData/WD~Edoma,85106]]'
 - '[[_Standards/WikiData/WD~Lutosha,85122]]'
-- "[[_Standards/WikiData/WD~Volovsky Gully,85196]]"
+- "[[_Standards/WikiData/WD~Volovsky_Gully,85196]]"
 - '[[_Standards/WikiData/WD~Pyra,85226]]'
 - '[[_Standards/WikiData/WD~Iruzha,85311]]'
-- "[[_Standards/WikiData/WD~Malaya Yunga,85344]]"
+- "[[_Standards/WikiData/WD~Malaya_Yunga,85344]]"
 - '[[_Standards/WikiData/WD~Kubra,85416]]'
 - '[[_Standards/WikiData/WD~Zheleznitsa,85599]]'
 - '[[_Standards/WikiData/WD~Bereznyak,85869]]'
@@ -45,7 +45,7 @@ tributary:
 - '[[_Standards/WikiData/WD~Zhabnya,86175]]'
 - '[[_Standards/WikiData/WD~Khalzovka,86311]]'
 - '[[_Standards/WikiData/WD~Oka,172089]]'
-- "[[_Standards/WikiData/WD~Bolshoy Tsivil,206985]]"
+- "[[_Standards/WikiData/WD~Bolshoy_Tsivil,206985]]"
 - '[[_Standards/WikiData/WD~Sura,209891]]'
 - '[[_Standards/WikiData/WD~Selizharovka,289638]]'
 - '[[_Standards/WikiData/WD~Kazanka,376708]]'
@@ -55,9 +55,9 @@ tributary:
 - '[[_Standards/WikiData/WD~Samara,649527]]'
 - '[[_Standards/WikiData/WD~Tvertsa,671890]]'
 - '[[_Standards/WikiData/WD~Vazuza,778886]]'
-- "[[_Standards/WikiData/WD~Volga–Don Canal,827505]]"
+- "[[_Standards/WikiData/WD~Volga–Don_Canal,827505]]"
 - '[[_Standards/WikiData/WD~Kostroma,863102]]'
-- "[[_Standards/WikiData/WD~Bolshaya Kokshaga,940104]]"
+- "[[_Standards/WikiData/WD~Bolshaya_Kokshaga,940104]]"
 - '[[_Standards/WikiData/WD~Bezdna,1076341]]'
 - '[[_Standards/WikiData/WD~Sumka,1093407]]'
 - '[[_Standards/WikiData/WD~Sviyaga,1132165]]'
@@ -69,7 +69,7 @@ tributary:
 - '[[_Standards/WikiData/WD~Kerzhenets,1344442]]'
 - '[[_Standards/WikiData/WD~Kudma,1350321]]'
 - '[[_Standards/WikiData/WD~Unzha,1431174]]'
-- "[[_Standards/WikiData/WD~Bolshoy Karaman,1502980]]"
+- "[[_Standards/WikiData/WD~Bolshoy_Karaman,1502980]]"
 - '[[_Standards/WikiData/WD~Chapaevka,1648816]]'
 - '[[_Standards/WikiData/WD~Kashinka,1734866]]'
 - '[[_Standards/WikiData/WD~Mera,1857584]]'
@@ -78,9 +78,9 @@ tributary:
 - '[[_Standards/WikiData/WD~Tsaritsa,2671838]]'
 - '[[_Standards/WikiData/WD~Alferovka,4063113]]'
 - '[[_Standards/WikiData/WD~Boynya,4090456]]'
-- "[[_Standards/WikiData/WD~Bolshaya Dubenka,4091311]]"
-- "[[_Standards/WikiData/WD~Bolshaya Kosha,4091426]]"
-- "[[_Standards/WikiData/WD~Bolshaya Locha,4091471]]"
+- "[[_Standards/WikiData/WD~Bolshaya_Dubenka,4091311]]"
+- "[[_Standards/WikiData/WD~Bolshaya_Kosha,4091426]]"
+- "[[_Standards/WikiData/WD~Bolshaya_Locha,4091471]]"
 - '[[_Standards/WikiData/WD~Velikaya,4106210]]'
 - '[[_Standards/WikiData/WD~Volnushka,4123598]]'
 - '[[_Standards/WikiData/WD~Volozhka,4123830]]'
@@ -91,20 +91,20 @@ tributary:
 - '[[_Standards/WikiData/WD~Zhukopa,4181577]]'
 - '[[_Standards/WikiData/WD~Inga,4200553]]'
 - '[[_Standards/WikiData/WD~Itomlya,4205330]]'
-- "[[_Standards/WikiData/WD~It River,4205346]]"
+- "[[_Standards/WikiData/WD~It_River,4205346]]"
 - '[[_Standards/WikiData/WD~Karanovskaya,4214105]]'
 - '[[_Standards/WikiData/WD~Koksha,4227508]]'
 - '[[_Standards/WikiData/WD~Koloksha,4228302]]'
 - '[[_Standards/WikiData/WD~Korma,4233172]]'
 - '[[_Standards/WikiData/WD~Kocha,4236614]]'
 - '[[_Standards/WikiData/WD~Kud,4244669]]'
-- "[[_Standards/WikiData/WD~Mokraya Mechetka,4251697]]"
+- "[[_Standards/WikiData/WD~Mokraya_Mechetka,4251697]]"
 - '[[_Standards/WikiData/WD~Levinka,4256511]]'
 - '[[_Standards/WikiData/WD~Linda,4261922]]'
-- "[[_Standards/WikiData/WD~Malaya Dubenka,4276852]]"
-- "[[_Standards/WikiData/WD~Malaya Itomlya,4276917]]"
-- "[[_Standards/WikiData/WD~Malaya Koloksha,4276991]]"
-- "[[_Standards/WikiData/WD~Malaya Kosha,4277014]]"
+- "[[_Standards/WikiData/WD~Malaya_Dubenka,4276852]]"
+- "[[_Standards/WikiData/WD~Malaya_Itomlya,4276917]]"
+- "[[_Standards/WikiData/WD~Malaya_Koloksha,4276991]]"
+- "[[_Standards/WikiData/WD~Malaya_Kosha,4277014]]"
 - '[[_Standards/WikiData/WD~Mezhurka,4288901]]'
 - '[[_Standards/WikiData/WD~Mlinga,4298696]]'
 - '[[_Standards/WikiData/WD~Nora,4327254]]'
@@ -122,7 +122,7 @@ tributary:
 - '[[_Standards/WikiData/WD~Starchonka,4439942]]'
 - '[[_Standards/WikiData/WD~Sumka,4445996]]'
 - '[[_Standards/WikiData/WD~Sundovik,4446120]]'
-- "[[_Standards/WikiData/WD~Sukhaya Mechetka,4447015]]"
+- "[[_Standards/WikiData/WD~Sukhaya_Mechetka,4447015]]"
 - '[[_Standards/WikiData/WD~Tersa,4456283]]'
 - '[[_Standards/WikiData/WD~Tudovka,4464945]]'
 - '[[_Standards/WikiData/WD~Tmaka,4467262]]'
@@ -136,8 +136,8 @@ tributary:
 - '[[_Standards/WikiData/WD~Yuhot,4535527]]'
 - '[[_Standards/WikiData/WD~Kamyzyak,6359956]]'
 - '[[_Standards/WikiData/WD~Ivanishka,7265197]]'
-- "[[_Standards/WikiData/WD~Maly Irgiz,13055910]]"
-- "[[_Standards/WikiData/WD~Gusyolka Vtoraya,13202685]]"
+- "[[_Standards/WikiData/WD~Maly_Irgiz,13055910]]"
+- "[[_Standards/WikiData/WD~Gusyolka_Vtoraya,13202685]]"
 - '[[_Standards/WikiData/WD~Zhidogost,14943487]]'
 - '[[_Standards/WikiData/WD~Sachonka,15041963]]'
 - '[[_Standards/WikiData/WD~Utka,16710696]]'
@@ -148,43 +148,43 @@ tributary:
 - '[[_Standards/WikiData/WD~Revyaka,36554943]]'
 - '[[_Standards/WikiData/WD~Kutum,37748984]]'
 origin_of_the_watercourse:
-- "[[_Standards/WikiData/WD~Valdai Hills,194196]]"
+- "[[_Standards/WikiData/WD~Valdai_Hills,194196]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from:
-- "[[_Standards/WikiData/WD~Volga Region,1634214]]"
-drainage_basin: "[[_Standards/WikiData/WD~Volga Basin,4079154]]"
-part_of: "[[_Standards/WikiData/WD~Unified Deep Water System of European Russia,4173942]]"
+- "[[_Standards/WikiData/WD~Volga_Region,1634214]]"
+drainage_basin: "[[_Standards/WikiData/WD~Volga_Basin,4079154]]"
+part_of: "[[_Standards/WikiData/WD~Unified_Deep_Water_System_of_European_Russia,4173942]]"
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~Rangha,9303988]]'
 - '[[_Standards/WikiData/WD~Rha,47460335]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Volga River,10954803]]"
+- "[[_Standards/WikiData/WD~Template_Volga_River,10954803]]"
 coordinate_location:
 - "Point(32.467965694 57.251331194)"
 - "Point(47.8975 45.695)"
 winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Tver%20winter01.jpg"
 located_in_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Moscow Oblast,1697]]"
-- "[[_Standards/WikiData/WD~Samara Oblast,1727]]"
-- "[[_Standards/WikiData/WD~Nizhny Novgorod Oblast,2246]]"
-- "[[_Standards/WikiData/WD~Tver Oblast,2292]]"
-- "[[_Standards/WikiData/WD~Yaroslavl Oblast,2448]]"
-- "[[_Standards/WikiData/WD~Kostroma Oblast,2596]]"
-- "[[_Standards/WikiData/WD~Ivanovo Oblast,2654]]"
-- "[[_Standards/WikiData/WD~Volgograd Oblast,3819]]"
-- "[[_Standards/WikiData/WD~Astrakhan Oblast,3941]]"
+- "[[_Standards/WikiData/WD~Moscow_Oblast,1697]]"
+- "[[_Standards/WikiData/WD~Samara_Oblast,1727]]"
+- "[[_Standards/WikiData/WD~Nizhny_Novgorod_Oblast,2246]]"
+- "[[_Standards/WikiData/WD~Tver_Oblast,2292]]"
+- "[[_Standards/WikiData/WD~Yaroslavl_Oblast,2448]]"
+- "[[_Standards/WikiData/WD~Kostroma_Oblast,2596]]"
+- "[[_Standards/WikiData/WD~Ivanovo_Oblast,2654]]"
+- "[[_Standards/WikiData/WD~Volgograd_Oblast,3819]]"
+- "[[_Standards/WikiData/WD~Astrakhan_Oblast,3941]]"
 - '[[_Standards/WikiData/WD~Kalmykia,3953]]'
-- "[[_Standards/WikiData/WD~Saratov Oblast,5334]]"
-- "[[_Standards/WikiData/WD~Mari El,5446]]"
+- "[[_Standards/WikiData/WD~Saratov_Oblast,5334]]"
+- "[[_Standards/WikiData/WD~Mari_El,5446]]"
 - '[[_Standards/WikiData/WD~Chuvashia,5466]]'
 - '[[_Standards/WikiData/WD~Tatarstan,5481]]'
-- "[[_Standards/WikiData/WD~Ulyanovsk Oblast,5634]]"
+- "[[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634]]"
 instance_of: '[[_Standards/WikiData/WD~river,4022]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 basin_country:

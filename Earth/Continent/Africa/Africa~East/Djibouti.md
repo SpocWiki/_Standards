@@ -1,79 +1,79 @@
 ---
-lowest_point: "[[_Standards/WikiData/WD~Lake Assal,81239]]"
-flag: "[[_Standards/WikiData/WD~flag of Djibouti,102184]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Djibouti,109125]]"
+lowest_point: "[[_Standards/WikiData/WD~Lake_Assal,81239]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Djibouti,102184]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Djibouti,109125]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 part_of:
-- "[[_Standards/WikiData/WD~French colonial empire,179023]]"
-- "[[_Standards/WikiData/WD~East Africa,27407]]"
+- "[[_Standards/WikiData/WD~French_colonial_empire,179023]]"
+- "[[_Standards/WikiData/WD~East_Africa,27407]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Dikhil Region,283979]]"
-- "[[_Standards/WikiData/WD~Tadjourah Region,645896]]"
-- "[[_Standards/WikiData/WD~Arta Region,705941]]"
-- "[[_Standards/WikiData/WD~Ali Sabieh Region,821008]]"
-- "[[_Standards/WikiData/WD~Obock Region,844929]]"
-- "[[_Standards/WikiData/WD~Djibouti Region,12182414]]"
+- "[[_Standards/WikiData/WD~Dikhil_Region,283979]]"
+- "[[_Standards/WikiData/WD~Tadjourah_Region,645896]]"
+- "[[_Standards/WikiData/WD~Arta_Region,705941]]"
+- "[[_Standards/WikiData/WD~Ali_Sabieh_Region,821008]]"
+- "[[_Standards/WikiData/WD~Obock_Region,844929]]"
+- "[[_Standards/WikiData/WD~Djibouti_Region,12182414]]"
 anthem: '[[_Standards/WikiData/WD~Djibouti,503135]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Djibouti,598425]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Djibouti,1000084]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,1139363]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Djibouti,598425]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Djibouti,1000084]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1139363]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-replaces: "[[_Standards/WikiData/WD~French Territory of the Afars and the Issas,1450765]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Djibouti,1757041]]"
-highest_point: "[[_Standards/WikiData/WD~Mousa Ali,1951029]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Djibouti,2582592]]"
-culture: "[[_Standards/WikiData/WD~culture of Djibouti,3007210]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+replaces: "[[_Standards/WikiData/WD~French_Territory_of_the_Afars_and_the_Issas,1450765]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Djibouti,1757041]]"
+highest_point: "[[_Standards/WikiData/WD~Mousa_Ali,1951029]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Djibouti,2582592]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Djibouti,3007210]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Djibouti,4504271]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Djibouti,4504271]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Djibouti,4689490]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Djibouti,7112246]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Djibouti,7112246]]"
 head_of_government:
-- "[[_Standards/WikiData/WD~Abdoulkader Kamil Mohamed,10522744]]"
-- "[[_Standards/WikiData/WD~Dileita Mohamed Dileita,57683]]"
+- "[[_Standards/WikiData/WD~Abdoulkader_Kamil_Mohamed,10522744]]"
+- "[[_Standards/WikiData/WD~Dileita_Mohamed_Dileita,57683]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Djibouti,11279199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Djibouti,19058485]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Djibouti,19058485]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~17,25648842]]'
 - '[[_Standards/WikiData/WD~18,25648843]]'
 - '[[_Standards/WikiData/WD~19,25648864]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Djibouti,30100591]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Djibouti,30100591]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q42042446,42042446]]'
 - '[[_Standards/WikiData/WD~Q42042655,42042655]]'
 - '[[_Standards/WikiData/WD~Q42042856,42042856]]'
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-studied_in: "[[_Standards/WikiData/WD~Djiboutian studies,115669401]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+studied_in: "[[_Standards/WikiData/WD~Djiboutian_studies,115669401]]"
 coordinate_location: "Point(42.433333 11.8)"
 UMLS_CUI: C0012836
 demonym:
@@ -123,17 +123,17 @@ coordinates_of_northernmost_point: "Point(43.13 12.7)"
 coordinates_of_westernmost_point: "Point(41.77104 11.49323)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Yemen,805]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 country: '[[_Standards/WikiData/WD~Djibouti,977]]'
 shares_border_with:
@@ -147,11 +147,11 @@ language_used:
 - '[[_Standards/WikiData/WD~Somali,13275]]'
 - '[[_Standards/WikiData/WD~Afar,27811]]'
 - '[[_Standards/WikiData/WD~French,150]]'
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
 official_language:
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
 - '[[_Standards/WikiData/WD~French,150]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~East Africa,27407]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~East_Africa,27407]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 marriageable_age: 18
 age_of_majority: 18
@@ -171,7 +171,7 @@ M49_code: 262
 BTI_Governance_Index:
 - 5.14
 - 5.17
-head_of_state: "[[_Standards/WikiData/WD~Ismail Omar Guelleh,57390]]"
+head_of_state: "[[_Standards/WikiData/WD~Ismail_Omar_Guelleh,57390]]"
 total_fertility_rate: 3.195
 death_rate:
 - 8.421

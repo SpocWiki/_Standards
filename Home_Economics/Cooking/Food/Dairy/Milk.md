@@ -12,38 +12,38 @@ Colon_Classification: "KX31:71"
 Unicode_character: 🥛
 has_part_s_:
 - '[[_Standards/WikiData/WD~fat,127980]]'
-- "[[_Standards/WikiData/WD~liquid water,29053744]]"
-- "[[_Standards/WikiData/WD~sodium chloride,2314]]"
+- "[[_Standards/WikiData/WD~liquid_water,29053744]]"
+- "[[_Standards/WikiData/WD~sodium_chloride,2314]]"
 - '[[_Standards/WikiData/WD~protein,8054]]'
 has_use:
-- "[[_Standards/WikiData/WD~dairy product,185217]]"
-- "[[_Standards/WikiData/WD~dairy-milk beverage,115435123]]"
+- "[[_Standards/WikiData/WD~dairy_product,185217]]"
+- "[[_Standards/WikiData/WD~dairy-milk_beverage,115435123]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~emulsion,187634]]'
-- "[[_Standards/WikiData/WD~body fluid,1058795]]"
-- "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
+- "[[_Standards/WikiData/WD~body_fluid,1058795]]"
+- "[[_Standards/WikiData/WD~non-alcoholic_beverage,2647467]]"
 - '[[_Standards/WikiData/WD~secretion,12334861]]'
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-- "[[_Standards/WikiData/WD~particular anatomical entity,112826975]]"
-- "[[_Standards/WikiData/WD~dairy-milk beverage,115435123]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+- "[[_Standards/WikiData/WD~dairy-milk_beverage,115435123]]"
 - '[[_Standards/WikiData/WD~food,2095]]'
-produced_by: "[[_Standards/WikiData/WD~mammary gland,189961]]"
+produced_by: "[[_Standards/WikiData/WD~mammary_gland,189961]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9019827,9019827]]'
 different_from:
 - '[[_Standards/WikiData/WD~Milch,10856507]]'
-- "[[_Standards/WikiData/WD~cow's milk,10988133]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Milk navbox,18343332]]"
+- "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Milk_navbox,18343332]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q97263987,97263987]]'
-instance_of: "[[_Standards/WikiData/WD~class of anatomical entity,112826905]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 Common_Procurement_Vocabulary_code: 15511000-3
 color: '[[_Standards/WikiData/WD~white,23444]]'
 carbon_footprint: 1.3

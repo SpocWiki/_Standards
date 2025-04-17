@@ -14,22 +14,22 @@ InChI: InChI=1S/Gd
 InChIKey: UIWYJDYFSGRHKR-UHFFFAOYSA-N
 Unicode_character: 釓
 mass: 157.249
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jean Charles Galissard de Marignac,124045]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
-named_after: "[[_Standards/WikiData/WD~Johan Gadolin,312571]]"
+named_after: "[[_Standards/WikiData/WD~Johan_Gadolin,312571]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~lepersonnite-(Gd),1820045]]'
 - '[[_Standards/WikiData/WD~monazite-(Gd),116007092]]'
 - '[[_Standards/WikiData/WD~xenotime-(Gd),124538270]]'
 time_of_discovery_or_invention: "1880"
 UMLS_CUI: C0016911
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 electronegativity: 1.2
 atomic_number: 64
 ionic_radius:

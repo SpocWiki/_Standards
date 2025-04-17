@@ -8,29 +8,29 @@ Colon_Classification: "KX31:78"
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SIR.html
 Unicode_character: 🧀 
 Danbooru_tag: cheese
-history_of_topic: "[[_Standards/WikiData/WD~history of cheese,471230]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_cheese,471230]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~food product,951964]]"
-- "[[_Standards/WikiData/WD~food ingredient,25403900]]"
-- "[[_Standards/WikiData/WD~cheese and cottage cheese,26844116]]"
+- "[[_Standards/WikiData/WD~food_product,951964]]"
+- "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+- "[[_Standards/WikiData/WD~cheese_and_cottage_cheese,26844116]]"
 fabrication_method: '[[_Standards/WikiData/WD~cheesemaking,1281188]]'
-has_list: "[[_Standards/WikiData/WD~list of cheeses,1455981]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox cheese,6717769]]"
+has_list: "[[_Standards/WikiData/WD~list_of_cheeses,1455981]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_cheese,6717769]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~cow's milk,10988133]]"
+- "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
 - '[[_Standards/WikiData/WD~milk,8495]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cheese,14615743]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Climate change,15305047]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Cheeses,15384231]]"
-instance_of: "[[_Standards/WikiData/WD~type of food or dish,19861951]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Cheeses,15384231]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]"
 different_from: '[[_Standards/WikiData/WD~Queijo,31587397]]'
 UMLS_CUI: C0007968
 pronunciation_audio:

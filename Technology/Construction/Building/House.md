@@ -18,27 +18,27 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~window,35473]]'
 - '[[_Standards/WikiData/WD~door,36794]]'
 - '[[_Standards/WikiData/WD~wall,42948]]'
-made_from_material: "[[_Standards/WikiData/WD~building material,206615]]"
+made_from_material: "[[_Standards/WikiData/WD~building_material,206615]]"
 different_from:
 - '[[_Standards/WikiData/WD~Dom,255708]]'
 - '[[_Standards/WikiData/WD~Q65425102,65425102]]'
 - '[[_Standards/WikiData/WD~home,7743]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 has_use:
 - '[[_Standards/WikiData/WD~residence,699405]]'
 - '[[_Standards/WikiData/WD~shelter,989946]]'
 - '[[_Standards/WikiData/WD~housing,1247867]]'
 - '[[_Standards/WikiData/WD~home,7743]]'
-instance_of: "[[_Standards/WikiData/WD~building type,811102]]"
+instance_of: "[[_Standards/WikiData/WD~building_type,811102]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~architectural structure,811979]]"
+- "[[_Standards/WikiData/WD~architectural_structure,811979]]"
 - '[[_Standards/WikiData/WD~shelter,989946]]'
-- "[[_Standards/WikiData/WD~residential building,11755880]]"
+- "[[_Standards/WikiData/WD~residential_building,11755880]]"
 - '[[_Standards/WikiData/WD~building,41176]]'
 facet_of: '[[_Standards/WikiData/WD~minka,935445]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~house,55744010]]'

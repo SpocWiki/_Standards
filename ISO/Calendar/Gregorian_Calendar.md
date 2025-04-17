@@ -1,21 +1,21 @@
 ﻿---
 has_id_wikidata: Q12138
-named_after: "[[_Standards/WikiData/WD~Gregory XIII,83029]]"
+named_after: "[[_Standards/WikiData/WD~Gregory_XIII,83029]]"
 instance_of:
-- "[[_Standards/WikiData/WD~solar calendar,210953]]"
-- "[[_Standards/WikiData/WD~arithmetic calendar,669102]]"
-- "[[_Standards/WikiData/WD~interval scale,9337488]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Inter gravissimas,766456]]"
+- "[[_Standards/WikiData/WD~solar_calendar,210953]]"
+- "[[_Standards/WikiData/WD~arithmetic_calendar,669102]]"
+- "[[_Standards/WikiData/WD~interval_scale,9337488]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Inter_gravissimas,766456]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~proleptic Gregorian calendar,1985727]]"
-- "[[_Standards/WikiData/WD~calendar year,3186692]]"
+- "[[_Standards/WikiData/WD~proleptic_Gregorian_calendar,1985727]]"
+- "[[_Standards/WikiData/WD~calendar_year,3186692]]"
 - '[[_Standards/WikiData/WD~day,573]]'
 - '[[_Standards/WikiData/WD~month,5151]]'
 - '[[_Standards/WikiData/WD~week,23387]]'
-described_by_source: "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~month of the Gregorian calendar,18602249]]"
-- "[[_Standards/WikiData/WD~day of the Gregorian Calendar,73187956]]"
+- "[[_Standards/WikiData/WD~month_of_the_Gregorian_calendar,18602249]]"
+- "[[_Standards/WikiData/WD~day_of_the_Gregorian_Calendar,73187956]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28088892,28088892]]'
 inception:
 - "1753-03-01"
@@ -29,7 +29,7 @@ inception:
 - "1682-02-16"
 - "1648"
 - "1918-02-14"
-replaces: "[[_Standards/WikiData/WD~Julian calendar,11184]]"
+replaces: "[[_Standards/WikiData/WD~Julian_calendar,11184]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ewiger%20Kalender%20gregorianisch.png"
 Stack_Exchange_tag: "https://stackoverflow.com/tags/gregorian-calendar"
 Commons_gallery: "Gregorian calendar"

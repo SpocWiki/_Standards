@@ -1,19 +1,19 @@
 ﻿---
 has_id_wikidata: Q5321
-made_from_material: "[[_Standards/WikiData/WD~electrical conductor,124291]]"
+made_from_material: "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
 different_from:
-- "[[_Standards/WikiData/WD~resistance movement,138796]]"
+- "[[_Standards/WikiData/WD~resistance_movement,138796]]"
 - '[[_Standards/WikiData/WD~Q1042672,1042672]]'
 has_use:
-- "[[_Standards/WikiData/WD~bleeder resistor,322343]]"
-- "[[_Standards/WikiData/WD~electrical resistance,25358]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~type of electronic component,125517960]]"
+- "[[_Standards/WikiData/WD~bleeder_resistor,322343]]"
+- "[[_Standards/WikiData/WD~electrical_resistance,25358]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]"
 icon:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Resistor%20symbol%20Europe.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%202.1.1.a.svg"
-subclass_of: "[[_Standards/WikiData/WD~electronic component,11653]]"
-has_characteristic: "[[_Standards/WikiData/WD~electrical resistance,25358]]"
+subclass_of: "[[_Standards/WikiData/WD~electronic_component,11653]]"
+has_characteristic: "[[_Standards/WikiData/WD~electrical_resistance,25358]]"
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/0.25%20watts%20through-hole%20resistor.stl"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/100%20ohm%20SMD%201206%20resistor.jpg"

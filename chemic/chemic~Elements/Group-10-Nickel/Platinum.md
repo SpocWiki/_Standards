@@ -6,28 +6,28 @@ Unicode_character: 鉑
 mass: 195.084
 time_of_discovery_or_invention: "1557"
 part_of:
-- "[[_Standards/WikiData/WD~group 10,205253]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~group_10,205253]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~platinum group,223995]]"
-- "[[_Standards/WikiData/WD~precious metal,271449]]"
+- "[[_Standards/WikiData/WD~platinum_group,223995]]"
+- "[[_Standards/WikiData/WD~precious_metal,271449]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~sperrylite,425150]]'
 - '[[_Standards/WikiData/WD~cooperite,1059093]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Julius Caesar Scaliger,441066]]"
-- "[[_Standards/WikiData/WD~Antonio de Ulloa,470306]]"
+- "[[_Standards/WikiData/WD~Julius_Caesar_Scaliger,441066]]"
+- "[[_Standards/WikiData/WD~Antonio_de_Ulloa,470306]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 - '[[_Standards/WikiData/WD~Platinum,108310084]]'
-different_from: "[[_Standards/WikiData/WD~white gold,6582775]]"
+different_from: "[[_Standards/WikiData/WD~white_gold,6582775]]"
 associated_hazard:
 - '[[_Standards/WikiData/WD~platinosis,7202318]]'
-- "[[_Standards/WikiData/WD~platinum exposure,21175066]]"
+- "[[_Standards/WikiData/WD~platinum_exposure,21175066]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25695214,25695214]]'
 UMLS_CUI:
 - C0699665
@@ -35,7 +35,7 @@ UMLS_CUI:
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20crystal%20grown%20using%20CVD%20method.webm"
 Libris_URI: 0xbdcbjj24ffd70
 named_after: '[[_Standards/WikiData/WD~silver,1090]]'
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
 - 0.6
 - 0.8

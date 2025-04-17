@@ -7,31 +7,31 @@ time_of_discovery_or_invention: "1810"
 Unicode_character: 氟
 PubChem_CID: 5360525
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Henri Moissan,102804]]"
-- "[[_Standards/WikiData/WD~André-Marie Ampère,675]]"
+- "[[_Standards/WikiData/WD~Henri_Moissan,102804]]"
+- "[[_Standards/WikiData/WD~André-Marie_Ampère,675]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 2,207712]]"
-- "[[_Standards/WikiData/WD~perfluorinated compound,722568]]"
+- "[[_Standards/WikiData/WD~period_2,207712]]"
+- "[[_Standards/WikiData/WD~perfluorinated_compound,722568]]"
 - '[[_Standards/WikiData/WD~halogens,19605]]'
-named_after: "[[_Standards/WikiData/WD~hydrofluoric acid,209569]]"
+named_after: "[[_Standards/WikiData/WD~hydrofluoric_acid,209569]]"
 different_from: '[[_Standards/WikiData/WD~fluorene,417934]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~diatomic nonmetal,19753344]]"
+- "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
 - '[[_Standards/WikiData/WD~nonmetal,19600]]'
 - '[[_Standards/WikiData/WD~halogens,19605]]'
-associated_hazard: "[[_Standards/WikiData/WD~fluorine exposure,21174321]]"
-has_effect: "[[_Standards/WikiData/WD~fluorine exposure,21174321]]"
+associated_hazard: "[[_Standards/WikiData/WD~fluorine_exposure,21174321]]"
+has_effect: "[[_Standards/WikiData/WD~fluorine_exposure,21174321]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Fluorine-ar.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20fluorine%20tighter%20crop.jpg"
 electron_configuration:

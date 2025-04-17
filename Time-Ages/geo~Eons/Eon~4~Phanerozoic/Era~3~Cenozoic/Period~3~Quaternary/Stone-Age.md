@@ -4,17 +4,17 @@ aliases:
   - Stone Age
 Commons_category: Stone Age
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 end_time: -1999
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ggantija%20Temples%20%281%29.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~archaeological age,15401699]]"
-  - "[[_Standards/WikiData/WD~temporal entity,26907166]]"
-named_after: "[[_Standards/WikiData/WD~stone tool,479257]]"
+  - "[[_Standards/WikiData/WD~archaeological_age,15401699]]"
+  - "[[_Standards/WikiData/WD~temporal_entity,26907166]]"
+named_after: "[[_Standards/WikiData/WD~stone_tool,479257]]"
 OmegaWiki_Defined_Meaning: 8244
 OpenStreetMap_tag_or_key: Tag:historic:period=stone-age
 part_of: "[[_Standards/WikiData/WD~prehistory,11756]]"

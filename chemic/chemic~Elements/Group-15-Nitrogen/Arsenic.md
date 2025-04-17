@@ -3,44 +3,44 @@ type: Element
 SpocWebEntityId: 21931
 has_id_wikidata: Q871
 part_of:
-- "[[_Standards/WikiData/WD~group 15,106675]]"
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~group_15,106675]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 - '[[_Standards/WikiData/WD~arsenide(3-),415296]]'
 - '[[_Standards/WikiData/WD~tailings,1784525]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~realgar,109746]]'
 - '[[_Standards/WikiData/WD~arsenopyrite,191939]]'
-- "[[_Standards/WikiData/WD~arsenide mineral,2864503]]"
-- "[[_Standards/WikiData/WD~arsenate mineral,4796437]]"
+- "[[_Standards/WikiData/WD~arsenide_mineral,2864503]]"
+- "[[_Standards/WikiData/WD~arsenate_mineral,4796437]]"
 subject_has_role:
 - '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- "[[_Standards/WikiData/WD~occupational carcinogen,21074597]]"
+- "[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]"
 named_after:
 - '[[_Standards/WikiData/WD~gold,208045]]'
 - '[[_Standards/WikiData/WD~orpiment,419183]]'
 - '[[_Standards/WikiData/WD~virility,3093051]]'
-crystal_system: "[[_Standards/WikiData/WD~trigonal crystal system,588274]]"
+crystal_system: "[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 - '[[_Standards/WikiData/WD~Arsenic,84658865]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 2,124737604]]"
-medical_condition_treated: "[[_Standards/WikiData/WD~acute promyelocytic leukemia,612108]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~acute_promyelocytic_leukemia,612108]]"
 associated_hazard:
-- "[[_Standards/WikiData/WD~arsenic poisoning,730249]]"
-- "[[_Standards/WikiData/WD~inorganic arsenic compound exposure,21167830]]"
+- "[[_Standards/WikiData/WD~arsenic_poisoning,730249]]"
+- "[[_Standards/WikiData/WD~inorganic_arsenic_compound_exposure,21167830]]"
 instance_of:
-- "[[_Standards/WikiData/WD~chalcophile element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 - '[[_Standards/WikiData/WD~metalloid,19596]]'
 found_in_taxon:
-- "[[_Standards/WikiData/WD~Buccinum striatissimum,3710099]]"
-- "[[_Standards/WikiData/WD~Lucensosergia lucens,104374937]]"
-has_characteristic: "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-has_effect: "[[_Standards/WikiData/WD~inorganic arsenic compound exposure,21167830]]"
+- "[[_Standards/WikiData/WD~Buccinum_striatissimum,3710099]]"
+- "[[_Standards/WikiData/WD~Lucensosergia_lucens,104374937]]"
+has_characteristic: "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+has_effect: "[[_Standards/WikiData/WD~inorganic_arsenic_compound_exposure,21167830]]"
 mass: 74.921595
 time_of_discovery_or_invention: "1300"
 oxidation_state:
@@ -85,7 +85,7 @@ ionic_radius:
 - 0.58
 electronegativity: 2.18
 density: 5.73
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Albertus Magnus,60059]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Albertus_Magnus,60059]]"
 sublimation_temperature: 1135
 melting_point: 1135
 OmegaWiki_Defined_Meaning: 255

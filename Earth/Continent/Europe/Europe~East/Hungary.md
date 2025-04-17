@@ -105,49 +105,49 @@ demonym:
 - Hungarian
 - Ungar
 member_of:
-- "[[_Standards/WikiData/WD~Organization for Security and Co-operation in Europe,81299]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - '[[_Standards/WikiData/WD~COMECON,191582]]'
-- "[[_Standards/WikiData/WD~Visegrád Group,244323]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~International Centre for Migration Policy Development,498496]]"
-- "[[_Standards/WikiData/WD~Organization of Turkic States,596850]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Visegrád_Group,244323]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
+- "[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Australia Group,782942]]"
-- "[[_Standards/WikiData/WD~International Holocaust Remembrance Alliance,823428]]"
-- "[[_Standards/WikiData/WD~International Energy Agency,826700]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile Technology Control Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear Suppliers Group,1480793]]"
-- "[[_Standards/WikiData/WD~Strategic Airlift Capability,1579424]]"
-- "[[_Standards/WikiData/WD~Schengen Area,1969730]]"
-- "[[_Standards/WikiData/WD~Movement Coordination Centre Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+- "[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]"
+- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council of Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organization for Economic Cooperation and Development,41550]]"
-- "[[_Standards/WikiData/WD~Warsaw Pact,41644]]"
-- "[[_Standards/WikiData/WD~Visa Waiver Program,45177]]"
+- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+- "[[_Standards/WikiData/WD~Warsaw_Pact,41644]]"
+- "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
 - '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
-flag: "[[_Standards/WikiData/WD~flag of Hungarys,81970]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Hungarys,81970]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~successor state,127693126]]"
+- "[[_Standards/WikiData/WD~successor_state,127693126]]"
 named_after:
 - '[[_Standards/WikiData/WD~Hungarians,133032]]'
 - '[[_Standards/WikiData/WD~Onogurs,762453]]'
@@ -157,35 +157,35 @@ located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Rába,182138]]'
 - '[[_Standards/WikiData/WD~Ipoly,748872]]'
 - '[[_Standards/WikiData/WD~Danube,1653]]'
-- "[[_Standards/WikiData/WD~Lake Balaton,6383]]"
-- "[[_Standards/WikiData/WD~Neusiedl Lake,6396]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Hungary,166330]]"
+- "[[_Standards/WikiData/WD~Lake_Balaton,6383]]"
+- "[[_Standards/WikiData/WD~Neusiedl_Lake,6396]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Hungary,166330]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Bács-Kiskun County,181018]]"
-- "[[_Standards/WikiData/WD~Hajdú-Bihar County,185368]]"
-- "[[_Standards/WikiData/WD~Zala County,185374]]"
-- "[[_Standards/WikiData/WD~Baranya County,186195]]"
-- "[[_Standards/WikiData/WD~Vas County,187677]]"
-- "[[_Standards/WikiData/WD~Fejér County,187693]]"
-- "[[_Standards/WikiData/WD~Győr-Moson-Sopron County,187753]]"
-- "[[_Standards/WikiData/WD~Pest County,188612]]"
-- "[[_Standards/WikiData/WD~Veszprém County,188890]]"
-- "[[_Standards/WikiData/WD~Borsod-Abaúj-Zemplén County,188895]]"
-- "[[_Standards/WikiData/WD~Jász-Nagykun-Szolnok County,189655]]"
-- "[[_Standards/WikiData/WD~Komárom-Esztergom County,190018]]"
-- "[[_Standards/WikiData/WD~Szabolcs-Szatmár-Bereg County,190518]]"
-- "[[_Standards/WikiData/WD~Somogy County,190522]]"
-- "[[_Standards/WikiData/WD~Heves County,191604]]"
-- "[[_Standards/WikiData/WD~Békés County,191616]]"
-- "[[_Standards/WikiData/WD~Tolna County,191625]]"
-- "[[_Standards/WikiData/WD~Csongrád-Csanád County,193031]]"
-- "[[_Standards/WikiData/WD~Nógrád County,194273]]"
+- "[[_Standards/WikiData/WD~Bács-Kiskun_County,181018]]"
+- "[[_Standards/WikiData/WD~Hajdú-Bihar_County,185368]]"
+- "[[_Standards/WikiData/WD~Zala_County,185374]]"
+- "[[_Standards/WikiData/WD~Baranya_County,186195]]"
+- "[[_Standards/WikiData/WD~Vas_County,187677]]"
+- "[[_Standards/WikiData/WD~Fejér_County,187693]]"
+- "[[_Standards/WikiData/WD~Győr-Moson-Sopron_County,187753]]"
+- "[[_Standards/WikiData/WD~Pest_County,188612]]"
+- "[[_Standards/WikiData/WD~Veszprém_County,188890]]"
+- "[[_Standards/WikiData/WD~Borsod-Abaúj-Zemplén_County,188895]]"
+- "[[_Standards/WikiData/WD~Jász-Nagykun-Szolnok_County,189655]]"
+- "[[_Standards/WikiData/WD~Komárom-Esztergom_County,190018]]"
+- "[[_Standards/WikiData/WD~Szabolcs-Szatmár-Bereg_County,190518]]"
+- "[[_Standards/WikiData/WD~Somogy_County,190522]]"
+- "[[_Standards/WikiData/WD~Heves_County,191604]]"
+- "[[_Standards/WikiData/WD~Békés_County,191616]]"
+- "[[_Standards/WikiData/WD~Tolna_County,191625]]"
+- "[[_Standards/WikiData/WD~Csongrád-Csanád_County,193031]]"
+- "[[_Standards/WikiData/WD~Nógrád_County,194273]]"
 - '[[_Standards/WikiData/WD~Budapest,1781]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Hungary,181137]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Hungary,199960]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Hungary,181137]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Hungary,199960]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Fiji,712]]'
@@ -194,11 +194,11 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Ecuador,736]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
 - '[[_Standards/WikiData/WD~Guatemala,774]]'
-- "[[_Standards/WikiData/WD~The Bahamas,778]]"
+- "[[_Standards/WikiData/WD~The_Bahamas,778]]"
 - '[[_Standards/WikiData/WD~Honduras,783]]'
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Yemen,805]]'
 - '[[_Standards/WikiData/WD~Jordan,810]]'
@@ -207,21 +207,21 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Nepal,837]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Qatar,846]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
 - '[[_Standards/WikiData/WD~Tunisia,948]]'
-- "[[_Standards/WikiData/WD~The Gambia,1005]]"
+- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Libya,1016]]'
-- "[[_Standards/WikiData/WD~Sierra Leone,1044]]"
+- "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
@@ -229,7 +229,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -251,8 +251,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -263,15 +263,15 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Andorra,228]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
@@ -288,40 +288,40 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-culture: "[[_Standards/WikiData/WD~culture of Hungary,246505]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Hungary,246505]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Hungary,520765]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Hungary,625416]]"
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,648716]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Hungary,520765]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Hungary,625416]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,648716]]"
 lowest_point: '[[_Standards/WikiData/WD~Gyálarét,718914]]'
 highest_point: '[[_Standards/WikiData/WD~Kékes,747618]]'
-central_bank: "[[_Standards/WikiData/WD~Hungarian National Bank,774636]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of Hungary,923292]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Hungary,936370]]"
+central_bank: "[[_Standards/WikiData/WD~Hungarian_National_Bank,774636]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional_Court_of_Hungary,923292]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Hungary,936370]]"
 different_from:
 - '[[_Standards/WikiData/WD~Węgry,1038478]]'
 - '[[_Standards/WikiData/WD~hunger,3535686]]'
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Hungary,1162751]]"
-public_holiday: "[[_Standards/WikiData/WD~Saint Stephen's Day in Hungary,2465259]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Hungary,3315094]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Hungary,7112290]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Hungary,1162751]]"
+public_holiday: "[[_Standards/WikiData/WD~Saint_Stephen's_Day_in_Hungary,2465259]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Hungary,3315094]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Hungary,7112290]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hungary,8252739]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Hungary,8406096]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Hungary,8406096]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Hungary,8406096]]"
-- "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
+- "[[_Standards/WikiData/WD~WikiProject_Hungary,8406096]]"
+- "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Hungarian%20National%20Assembly%202018.svg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hungary%20on%20the%20globe%20%28Europe%20centered%29.svg"
 pronunciation_audio:
@@ -335,17 +335,17 @@ seal_image:
 capital: '[[_Standards/WikiData/WD~Budapest,1781]]'
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 part_of:
-- "[[_Standards/WikiData/WD~European Economic Area,8932]]"
-- "[[_Standards/WikiData/WD~Central Europe,27509]]"
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- "[[_Standards/WikiData/WD~Central_Europe,27509]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 language_used:
 - '[[_Standards/WikiData/WD~Slovak,9058]]'
 - '[[_Standards/WikiData/WD~Slovene,9063]]'
 - '[[_Standards/WikiData/WD~Hungarian,9067]]'
-- "[[_Standards/WikiData/WD~Hungarian Sign Language,13636869]]"
+- "[[_Standards/WikiData/WD~Hungarian_Sign_Language,13636869]]"
 official_language: '[[_Standards/WikiData/WD~Hungarian,9067]]'
-replaces: "[[_Standards/WikiData/WD~Hungarian People's Republic,16410]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central Europe,27509]]"
+replaces: "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 country: '[[_Standards/WikiData/WD~Hungary,28]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Austria,40]]'
@@ -426,7 +426,7 @@ mobile_country_code: 216
 UIC_numerical_country_code: 55
 retirement_age: 62.5
 Inequality_adjusted_Human_Development_Index: 0.792
-head_of_government: "[[_Standards/WikiData/WD~Viktor Orbán,57641]]"
+head_of_government: "[[_Standards/WikiData/WD~Viktor_Orbán,57641]]"
 Human_Development_Index: 0.846
 UIC_alphabetical_country_code: H
 licence_plate_code: H
@@ -448,7 +448,7 @@ official_name:
 - "Maďarská republika"
 - Magyarország
 short_name: "\U0001F1ED\U0001F1FA"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions of Hungary,10625233]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions_of_Hungary,10625233]]"
 railway_traffic_side:
 - '[[_Standards/WikiData/WD~left,13196750]]'
 - '[[_Standards/WikiData/WD~right,14565199]]'
@@ -457,10 +457,10 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~104,25648855]]'
 - '[[_Standards/WikiData/WD~105,25648856]]'
 - '[[_Standards/WikiData/WD~107,27887993]]'
-head_of_state: "[[_Standards/WikiData/WD~Tamás Sulyok,28599854]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+head_of_state: "[[_Standards/WikiData/WD~Tamás_Sulyok,28599854]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q72158863,72158863]]'
-open_data_portal: "[[_Standards/WikiData/WD~Open data portal Hungary,97119099]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_data_portal_Hungary,97119099]]"
 Baidu_Tieba_name: 匈牙利
 ISNI: 0000000122540380
 MeSH_tree_code: Z01.542.248.495

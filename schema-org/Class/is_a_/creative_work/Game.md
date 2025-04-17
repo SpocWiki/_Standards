@@ -35,30 +35,30 @@ U_S_National_Archives_Identifier: 10636988
 Commons_category: Games
 subreddit: Games
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 studied_in:
-- "[[_Standards/WikiData/WD~game studies,675281]]"
-- "[[_Standards/WikiData/WD~historical game studies,131382190]]"
+- "[[_Standards/WikiData/WD~game_studies,675281]]"
+- "[[_Standards/WikiData/WD~historical_game_studies,131382190]]"
 different_from:
 - '[[_Standards/WikiData/WD~playing,1150958]]'
 - '[[_Standards/WikiData/WD~Game,1493033]]'
-- "[[_Standards/WikiData/WD~strategic game,15079592]]"
-- "[[_Standards/WikiData/WD~video game,7889]]"
+- "[[_Standards/WikiData/WD~strategic_game,15079592]]"
+- "[[_Standards/WikiData/WD~video_game,7889]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~rule,1151067]]'
 - '[[_Standards/WikiData/WD~player,4197743]]'
 has_list:
-- "[[_Standards/WikiData/WD~list of games by alphabetical order,1723911]]"
-- "[[_Standards/WikiData/WD~list of games by genre,2416693]]"
+- "[[_Standards/WikiData/WD~list_of_games_by_alphabetical_order,1723911]]"
+- "[[_Standards/WikiData/WD~list_of_games_by_genre,2416693]]"
 practiced_by: '[[_Standards/WikiData/WD~player,4197743]]'
 contributing_factor_of: '[[_Standards/WikiData/WD~Q4347847,4347847]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox game,6130572]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of games,7112644]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_game,6130572]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_games,7112644]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Spel.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%2C%201892-95%2C%20Les%20joueurs%20de%20carte%20%28The%20Card%20Players%29%2C%2060%20x%2073%20cm%2C%20oil%20on%20canvas%2C%20Courtauld%20Institute%20of%20Art%2C%20London.jpg"
 equivalent_class:
@@ -69,11 +69,11 @@ Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/IGRA.html
 MeSH_tree_code: I03.450.642.693.465
 IPTC_NewsCode: mediatopic/20000540
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Games,13583042]]'
-subclass_of: "[[_Standards/WikiData/WD~recreative work,17538258]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~product category,63981612]]"
+subclass_of: "[[_Standards/WikiData/WD~recreative_work,17538258]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
 part_of:
-- "[[_Standards/WikiData/WD~sport, games, physical exercises,66662493]]"
+- "[[_Standards/WikiData/WD~sport,_games,_physical_exercises,66662493]]"
 - '[[_Standards/WikiData/WD~culture,11042]]'
 handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~imagination,96634588]]'
 Baidu_Tieba_name: 游戏

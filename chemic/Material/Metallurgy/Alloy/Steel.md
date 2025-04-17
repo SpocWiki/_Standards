@@ -2,16 +2,16 @@
 has_id_wikidata: Q11427
 fabrication_method: '[[_Standards/WikiData/WD~steelmaking,482090]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 different_from:
 - '[[_Standards/WikiData/WD~Çelik,1158653]]'
 - '[[_Standards/WikiData/WD~Acél,121304601]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Steels,6436177]]'
-subclass_of: "[[_Standards/WikiData/WD~iron alloy,10772391]]"
+subclass_of: "[[_Standards/WikiData/WD~iron_alloy,10772391]]"
 UMLS_CUI: C0038239
 Dewey_Decimal_Classification:
 - 669.142

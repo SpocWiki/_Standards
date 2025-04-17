@@ -5,27 +5,27 @@ aliases:
   - Commonwealth of Nations
 has_id_wikidata: Q7785
 different_from:
-  - "[[_Standards/WikiData/WD~Commonwealth realm,202686]]"
-  - "[[_Standards/WikiData/WD~Commonwealth of Independent States,7779]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_realm,202686]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental organization,245065]]"
+  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
   - "[[_Standards/WikiData/WD~commonwealth,2578692]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Head of the Commonwealth,460057]]"
-flag: "[[_Standards/WikiData/WD~flag of the Commonwealth of Nations,460072]]"
-headquarters_location: "[[_Standards/WikiData/WD~Marlborough House,565532]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Head_of_the_Commonwealth,460057]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_Commonwealth_of_Nations,460072]]"
+headquarters_location: "[[_Standards/WikiData/WD~Marlborough_House,565532]]"
 has_subsidiary:
-  - "[[_Standards/WikiData/WD~Commonwealth War Graves Commission,1117074]]"
-  - "[[_Standards/WikiData/WD~Commonwealth Foundation,3075649]]"
-  - "[[_Standards/WikiData/WD~Commonwealth Secretariat,3954348]]"
-  - "[[_Standards/WikiData/WD~Commonwealth Business Council,5153705]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_War_Graves_Commission,1117074]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_Foundation,3075649]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_Secretariat,3954348]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_Business_Council,5153705]]"
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_The Commonwealth,5528714]]"
-  - "[[_Standards/WikiData/WD~Template_Commonwealth of Nations topics,7645235]]"
+  - "[[_Standards/WikiData/WD~Template_The_Commonwealth,5528714]]"
+  - "[[_Standards/WikiData/WD~Template_Commonwealth_of_Nations_topics,7645235]]"
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+  - "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 BHCL_UUID: 92e59f26-dafa-4e4f-bb67-389af3e351f2
 ISNI:
   - 97554421
@@ -33,14 +33,14 @@ ISNI:
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Infobox%20Commonwealth%20of%20Nations%20flag.svg
 has_part_s_:
   - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~New Zealand,664]]"
+  - "[[_Standards/WikiData/WD~New_Zealand,664]]"
   - "[[_Standards/WikiData/WD~India,668]]"
   - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 official_language:
   - "[[_Standards/WikiData/WD~English,1860]]"
-replaces: "[[_Standards/WikiData/WD~British Empire,8680]]"
-chairperson: "[[_Standards/WikiData/WD~Charles III,43274]]"
+replaces: "[[_Standards/WikiData/WD~British_Empire,8680]]"
+chairperson: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 social_media_followers: 120069
 Commons_gallery: Commonwealth of Nations
 Commons_category: Commonwealth of Nations

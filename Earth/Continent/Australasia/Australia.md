@@ -30,52 +30,52 @@ aliases:
 Languages:
 - en-AU
 icon: flag-au
-flag: "[[_Standards/WikiData/WD~flag of Australia,81676]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Australia,81676]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Coral Sea,82931]]"
-- "[[_Standards/WikiData/WD~Arafura Sea,128880]]"
-- "[[_Standards/WikiData/WD~Timor Sea,131418]]"
-- "[[_Standards/WikiData/WD~Bass Strait,171846]]"
-- "[[_Standards/WikiData/WD~Great Australian Bight,186733]]"
-- "[[_Standards/WikiData/WD~South Pacific Ocean,12355425]]"
-- "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
-- "[[_Standards/WikiData/WD~Tasman Sea,33254]]"
+- "[[_Standards/WikiData/WD~Coral_Sea,82931]]"
+- "[[_Standards/WikiData/WD~Arafura_Sea,128880]]"
+- "[[_Standards/WikiData/WD~Timor_Sea,131418]]"
+- "[[_Standards/WikiData/WD~Bass_Strait,171846]]"
+- "[[_Standards/WikiData/WD~Great_Australian_Bight,186733]]"
+- "[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]"
+- "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+- "[[_Standards/WikiData/WD~Tasman_Sea,33254]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Heard Island and McDonald Islands,131198]]"
-- "[[_Standards/WikiData/WD~Ashmore and Cartier Islands,133888]]"
-- "[[_Standards/WikiData/WD~Coral Sea Islands,172216]]"
-- "[[_Standards/WikiData/WD~Australian Antarctic Territory,178994]]"
-- "[[_Standards/WikiData/WD~Western Australia,3206]]"
-- "[[_Standards/WikiData/WD~New South Wales,3224]]"
-- "[[_Standards/WikiData/WD~Northern Territory,3235]]"
-- "[[_Standards/WikiData/WD~Australian Capital Territory,3258]]"
-- "[[_Standards/WikiData/WD~Jervis Bay Territory,15577]]"
-- "[[_Standards/WikiData/WD~Norfolk Island,31057]]"
-- "[[_Standards/WikiData/WD~Christmas Island,31063]]"
+- "[[_Standards/WikiData/WD~Heard_Island_and_McDonald_Islands,131198]]"
+- "[[_Standards/WikiData/WD~Ashmore_and_Cartier_Islands,133888]]"
+- "[[_Standards/WikiData/WD~Coral_Sea_Islands,172216]]"
+- "[[_Standards/WikiData/WD~Australian_Antarctic_Territory,178994]]"
+- "[[_Standards/WikiData/WD~Western_Australia,3206]]"
+- "[[_Standards/WikiData/WD~New_South_Wales,3224]]"
+- "[[_Standards/WikiData/WD~Northern_Territory,3235]]"
+- "[[_Standards/WikiData/WD~Australian_Capital_Territory,3258]]"
+- "[[_Standards/WikiData/WD~Jervis_Bay_Territory,15577]]"
+- "[[_Standards/WikiData/WD~Norfolk_Island,31057]]"
+- "[[_Standards/WikiData/WD~Christmas_Island,31063]]"
 - '[[_Standards/WikiData/WD~Tasmania,34366]]'
-- "[[_Standards/WikiData/WD~South Australia,35715]]"
-- "[[_Standards/WikiData/WD~Cocos (Keeling) Islands,36004]]"
+- "[[_Standards/WikiData/WD~South_Australia,35715]]"
+- "[[_Standards/WikiData/WD~Cocos_(Keeling)_Islands,36004]]"
 - '[[_Standards/WikiData/WD~Queensland,36074]]'
 - '[[_Standards/WikiData/WD~Victoria,36687]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Guyana,734]]'
 - '[[_Standards/WikiData/WD~Paraguay,733]]'
 - '[[_Standards/WikiData/WD~Colombia,739]]'
 - '[[_Standards/WikiData/WD~Ecuador,736]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Guatemala,774]]'
-- "[[_Standards/WikiData/WD~The Bahamas,778]]"
+- "[[_Standards/WikiData/WD~The_Bahamas,778]]"
 - '[[_Standards/WikiData/WD~Honduras,783]]'
-- "[[_Standards/WikiData/WD~Antigua and Barbuda,781]]"
-- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
+- "[[_Standards/WikiData/WD~Antigua_and_Barbuda,781]]"
+- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
 - '[[_Standards/WikiData/WD~Iran,794]]'
-- "[[_Standards/WikiData/WD~El Salvador,792]]"
+- "[[_Standards/WikiData/WD~El_Salvador,792]]"
 - '[[_Standards/WikiData/WD~Iraq,796]]'
-- "[[_Standards/WikiData/WD~Costa Rica,800]]"
+- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Jordan,810]]'
 - '[[_Standards/WikiData/WD~Nicaragua,811]]'
@@ -87,13 +87,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Nepal,837]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Qatar,846]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Thailand,869]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Angola,916]]'
@@ -113,13 +113,13 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Hong Kong,8646]]"
-- "[[_Standards/WikiData/WD~French Polynesia,30971]]"
+- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
+- "[[_Standards/WikiData/WD~French_Polynesia,30971]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Belgium,31]]'
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Spain,29]]'
@@ -142,8 +142,8 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -151,89 +151,89 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Latvia,211]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Bulgaria,219]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North Macedonia,221]]"
+- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 - '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia and Herzegovina,225]]"
+- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Malta,233]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~New Caledonia,33788]]"
-- "[[_Standards/WikiData/WD~Palestinian National Authority,42620]]"
-- "[[_Standards/WikiData/WD~South Africa,258]]"
+- "[[_Standards/WikiData/WD~New_Caledonia,33788]]"
+- "[[_Standards/WikiData/WD~Palestinian_National_Authority,42620]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Tonga,678]]'
 - '[[_Standards/WikiData/WD~Samoa,683]]'
 - '[[_Standards/WikiData/WD~Vanuatu,686]]'
-- "[[_Standards/WikiData/WD~Solomon Islands,685]]"
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 - '[[_Standards/WikiData/WD~Palau,695]]'
 - '[[_Standards/WikiData/WD~Nauru,697]]'
-- "[[_Standards/WikiData/WD~Federated States of Micronesia,702]]"
+- "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 ethnic_group:
-- "[[_Standards/WikiData/WD~indigenous Australians,170355]]"
-- "[[_Standards/WikiData/WD~Irish people,170826]]"
-- "[[_Standards/WikiData/WD~Scottish people,181634]]"
+- "[[_Standards/WikiData/WD~indigenous_Australians,170355]]"
+- "[[_Standards/WikiData/WD~Irish_people,170826]]"
+- "[[_Standards/WikiData/WD~Scottish_people,181634]]"
 - '[[_Standards/WikiData/WD~Dutch,200569]]'
 - '[[_Standards/WikiData/WD~Greeks,539051]]'
 - '[[_Standards/WikiData/WD~Indians,862086]]'
 - '[[_Standards/WikiData/WD~Australians,1318423]]'
-- "[[_Standards/WikiData/WD~Chinese people,6501380]]"
-- "[[_Standards/WikiData/WD~English people,42406]]"
+- "[[_Standards/WikiData/WD~Chinese_people,6501380]]"
+- "[[_Standards/WikiData/WD~English_people,42406]]"
 - '[[_Standards/WikiData/WD~Germans,42884]]'
 - '[[_Standards/WikiData/WD~Italians,50001]]'
-anthem: "[[_Standards/WikiData/WD~Advance Australia Fair,170601]]"
+anthem: "[[_Standards/WikiData/WD~Advance_Australia_Fair,170601]]"
 official_symbol:
 - '[[_Standards/WikiData/WD~opal,171058]]'
-- "[[_Standards/WikiData/WD~Acacia pycnantha,516233]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Willem Janszoon,174085]]"
-follows: "[[_Standards/WikiData/WD~United Kingdom of Great Britain and Ireland,174193]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Australia,174825]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~state or territory of Australia,178712]]"
-lowest_point: "[[_Standards/WikiData/WD~Kati Thanda–Lake Eyre,179970]]"
+- "[[_Standards/WikiData/WD~Acacia_pycnantha,516233]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Willem_Janszoon,174085]]"
+follows: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Australia,174825]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~state_or_territory_of_Australia,178712]]"
+lowest_point: "[[_Standards/WikiData/WD~Kati_Thanda–Lake_Eyre,179970]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~representative democracy,188759]]"
-- "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+- "[[_Standards/WikiData/WD~representative_democracy,188759]]"
+- "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 - '[[_Standards/WikiData/WD~federation,43702]]'
 public_holiday:
-- "[[_Standards/WikiData/WD~New Year's Day,196627]]"
-- "[[_Standards/WikiData/WD~Easter Monday,209663]]"
-- "[[_Standards/WikiData/WD~Anzac Day,295859]]"
-- "[[_Standards/WikiData/WD~Australia Day,502375]]"
-- "[[_Standards/WikiData/WD~Boxing Day,956699]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+- "[[_Standards/WikiData/WD~Anzac_Day,295859]]"
+- "[[_Standards/WikiData/WD~Australia_Day,502375]]"
+- "[[_Standards/WikiData/WD~Boxing_Day,956699]]"
 - '[[_Standards/WikiData/WD~Christmas,19809]]'
-- "[[_Standards/WikiData/WD~Good Friday,40317]]"
+- "[[_Standards/WikiData/WD~Good_Friday,40317]]"
 official_color:
 - '[[_Standards/WikiData/WD~gold,208045]]'
 - '[[_Standards/WikiData/WD~green,3133]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Australia,221024]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Australia,319145]]"
-named_after: "[[_Standards/WikiData/WD~Terra Australis,323750]]"
-head_of_government: "[[_Standards/WikiData/WD~Anthony Albanese,335697]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Australia,382118]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Australia,221024]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Australia,319145]]"
+named_after: "[[_Standards/WikiData/WD~Terra_Australis,323750]]"
+head_of_government: "[[_Standards/WikiData/WD~Anthony_Albanese,335697]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Australia,382118]]"
 language_used:
 - '[[_Standards/WikiData/WD~Bunuba,580923]]'
 - '[[_Standards/WikiData/WD~Meriam,788174]]'
 - '[[_Standards/WikiData/WD~Antakarinya,921304]]'
 - '[[_Standards/WikiData/WD~Pakanha,954916]]'
-- "[[_Standards/WikiData/WD~Australian Aboriginal sign languages,955216]]"
+- "[[_Standards/WikiData/WD~Australian_Aboriginal_sign_languages,955216]]"
 - '[[_Standards/WikiData/WD~Martuthunira,975399]]'
 - '[[_Standards/WikiData/WD~Dharug,1166814]]'
 - '[[_Standards/WikiData/WD~Kija,1284877]]'
@@ -252,11 +252,11 @@ language_used:
 - '[[_Standards/WikiData/WD~Adnyamathanha,2225391]]'
 - '[[_Standards/WikiData/WD~Walmajarri,2232696]]'
 - '[[_Standards/WikiData/WD~Garawa,2524022]]'
-- "[[_Standards/WikiData/WD~Barrow Point,2567916]]"
+- "[[_Standards/WikiData/WD~Barrow_Point,2567916]]"
 - '[[_Standards/WikiData/WD~Pintupi,2591175]]'
 - '[[_Standards/WikiData/WD~Laragiya,2591193]]'
 - '[[_Standards/WikiData/WD~Ngurmbur,2591251]]'
-- "[[_Standards/WikiData/WD~Kalau Lagau Ya,2591262]]"
+- "[[_Standards/WikiData/WD~Kalau_Lagau_Ya,2591262]]"
 - '[[_Standards/WikiData/WD~Djabugay,2591320]]'
 - '[[_Standards/WikiData/WD~Guniyandi,2669219]]'
 - '[[_Standards/WikiData/WD~Jiwarli,2669569]]'
@@ -272,7 +272,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Djaru,3162806]]'
 - '[[_Standards/WikiData/WD~Kunjen,3200468]]'
 - '[[_Standards/WikiData/WD~Alngith,3279409]]'
-- "[[_Standards/WikiData/WD~Martu Wangka,3295916]]"
+- "[[_Standards/WikiData/WD~Martu_Wangka,3295916]]"
 - '[[_Standards/WikiData/WD~Ngan’gityemerri,3298041]]'
 - '[[_Standards/WikiData/WD~Mbabaram,3303475]]'
 - '[[_Standards/WikiData/WD~Alyawarr,3327389]]'
@@ -281,7 +281,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Mayi-Kutuna,3436736]]'
 - '[[_Standards/WikiData/WD~Wagiman,3436843]]'
 - '[[_Standards/WikiData/WD~Barngarla,3439071]]'
-- "[[_Standards/WikiData/WD~Cocos Malay,3441699]]"
+- "[[_Standards/WikiData/WD~Cocos_Malay,3441699]]"
 - '[[_Standards/WikiData/WD~Nyulnyul,3442732]]'
 - '[[_Standards/WikiData/WD~Badimaya,3442745]]'
 - '[[_Standards/WikiData/WD~Atampaya,3446651]]'
@@ -330,7 +330,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Lardil,3915688]]'
 - '[[_Standards/WikiData/WD~Linngithigh,3915694]]'
 - '[[_Standards/WikiData/WD~Wik-Ngathan,3915695]]'
-- "[[_Standards/WikiData/WD~Gugu Thaypan,3915693]]"
+- "[[_Standards/WikiData/WD~Gugu_Thaypan,3915693]]"
 - '[[_Standards/WikiData/WD~Yalgawarra,3915702]]'
 - '[[_Standards/WikiData/WD~Ngawun,3915711]]'
 - '[[_Standards/WikiData/WD~Nyawaygi,3915783]]'
@@ -344,7 +344,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Bayali,4874263]]'
 - '[[_Standards/WikiData/WD~Bindal,4913975]]'
 - '[[_Standards/WikiData/WD~Gangulu,4916329]]'
-- "[[_Standards/WikiData/WD~Broome Pearling Lugger Pidgin,4975277]]"
+- "[[_Standards/WikiData/WD~Broome_Pearling_Lugger_Pidgin,4975277]]"
 - '[[_Standards/WikiData/WD~Bungandidj,4997615]]'
 - '[[_Standards/WikiData/WD~Burarra,4998124]]'
 - '[[_Standards/WikiData/WD~Burduna,4998313]]'
@@ -360,19 +360,19 @@ language_used:
 - '[[_Standards/WikiData/WD~Djeebbana,5285274]]'
 - '[[_Standards/WikiData/WD~Djinang,5285350]]'
 - '[[_Standards/WikiData/WD~Djinba,5285351]]'
-- "[[_Standards/WikiData/WD~Gubbi Gubbi,5515391]]"
+- "[[_Standards/WikiData/WD~Gubbi_Gubbi,5515391]]"
 - '[[_Standards/WikiData/WD~Galaagu,5517764]]'
 - '[[_Standards/WikiData/WD~Garlali,5523396]]'
 - '[[_Standards/WikiData/WD~Giyug,5565906]]'
 - '[[_Standards/WikiData/WD~Gudang,5614528]]'
 - '[[_Standards/WikiData/WD~Gugadj,5615186]]'
-- "[[_Standards/WikiData/WD~Gugu Warra,5615286]]"
+- "[[_Standards/WikiData/WD~Gugu_Warra,5615286]]"
 - '[[_Standards/WikiData/WD~Gunbarlang,5618523]]'
 - '[[_Standards/WikiData/WD~Guragone,5619801]]'
 - '[[_Standards/WikiData/WD~Gurdjar,5619931]]'
-- "[[_Standards/WikiData/WD~Gureng Gureng,5619998]]"
-- "[[_Standards/WikiData/WD~Gurindji Kriol,5620091]]"
-- "[[_Standards/WikiData/WD~Guugu Yalandji,5621973]]"
+- "[[_Standards/WikiData/WD~Gureng_Gureng,5619998]]"
+- "[[_Standards/WikiData/WD~Gurindji_Kriol,5620091]]"
+- "[[_Standards/WikiData/WD~Guugu_Yalandji,5621973]]"
 - '[[_Standards/WikiData/WD~Guwa,5621992]]'
 - '[[_Standards/WikiData/WD~Ikarranggal,5995402]]'
 - '[[_Standards/WikiData/WD~Ilgar,5997810]]'
@@ -386,19 +386,19 @@ language_used:
 - '[[_Standards/WikiData/WD~Kaytetye,6380709]]'
 - '[[_Standards/WikiData/WD~Kok-Nar,6426526]]'
 - '[[_Standards/WikiData/WD~Koko-Bera,6426699]]'
-- "[[_Standards/WikiData/WD~Pitta Pitta,6433116]]"
+- "[[_Standards/WikiData/WD~Pitta_Pitta,6433116]]"
 - '[[_Standards/WikiData/WD~Kungarakany,6444516]]'
 - '[[_Standards/WikiData/WD~Kungardutyi,6444517]]'
 - '[[_Standards/WikiData/WD~Kungkari,6444526]]'
 - '[[_Standards/WikiData/WD~Kuthant,6448417]]'
-- "[[_Standards/WikiData/WD~Kuuk Thaayorre,6448718]]"
-- "[[_Standards/WikiData/WD~Kuuk Yak,6448719]]"
-- "[[_Standards/WikiData/WD~Dhauwurd Wurrung,6448731]]"
+- "[[_Standards/WikiData/WD~Kuuk_Thaayorre,6448718]]"
+- "[[_Standards/WikiData/WD~Kuuk_Yak,6448719]]"
+- "[[_Standards/WikiData/WD~Dhauwurd_Wurrung,6448731]]"
 - '[[_Standards/WikiData/WD~Lamu-Lamu,6482727]]'
 - '[[_Standards/WikiData/WD~Ledji-Ledji,6512694]]'
 - '[[_Standards/WikiData/WD~Limilngan,6549414]]'
-- "[[_Standards/WikiData/WD~Lower Arrernte,6693295]]"
-- "[[_Standards/WikiData/WD~Madhi Madhi,6727353]]"
+- "[[_Standards/WikiData/WD~Lower_Arrernte,6693295]]"
+- "[[_Standards/WikiData/WD~Madhi_Madhi,6727353]]"
 - '[[_Standards/WikiData/WD~Malak-Malak,6741120]]'
 - '[[_Standards/WikiData/WD~Malgana,6743201]]'
 - '[[_Standards/WikiData/WD~Manangkari,6746906]]'
@@ -432,7 +432,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Ritharngu,7336730]]'
 - '[[_Standards/WikiData/WD~Thawa,7711494]]'
 - '[[_Standards/WikiData/WD~Umbindhamu,7881346]]'
-- "[[_Standards/WikiData/WD~Wadi Wadi,7959249]]"
+- "[[_Standards/WikiData/WD~Wadi_Wadi,7959249]]"
 - '[[_Standards/WikiData/WD~Wagaya,7959487]]'
 - '[[_Standards/WikiData/WD~Wagaydy,7959489]]'
 - '[[_Standards/WikiData/WD~Wakabunga,7960748]]'
@@ -460,8 +460,8 @@ language_used:
 - '[[_Standards/WikiData/WD~Yinhawangka,8053734]]'
 - '[[_Standards/WikiData/WD~Yinwum,8053763]]'
 - '[[_Standards/WikiData/WD~Yirrk-Thangalkl,8053828]]'
-- "[[_Standards/WikiData/WD~Yitha Yitha,8053879]]"
-- "[[_Standards/WikiData/WD~Yorta Yorta,8055849]]"
+- "[[_Standards/WikiData/WD~Yitha_Yitha,8053879]]"
+- "[[_Standards/WikiData/WD~Yorta_Yorta,8055849]]"
 - '[[_Standards/WikiData/WD~Yugul,8060437]]'
 - '[[_Standards/WikiData/WD~Yuyu,8062232]]'
 - '[[_Standards/WikiData/WD~Bidyara,8842355]]'
@@ -489,7 +489,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kuku-Ugbanh,10549854]]'
 - "[[_Standards/WikiData/WD~Kuku-Mu'inh,10549852]]"
 - '[[_Standards/WikiData/WD~Kunggari,10550184]]'
-- "[[_Standards/WikiData/WD~Kuuku Ya'u,10550697]]"
+- "[[_Standards/WikiData/WD~Kuuku_Ya'u,10550697]]"
 - '[[_Standards/WikiData/WD~Kwini,10551249]]'
 - '[[_Standards/WikiData/WD~Matngele,10575155]]'
 - '[[_Standards/WikiData/WD~Mandandanyi,10576338]]'
@@ -501,7 +501,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Maringarr,10577443]]'
 - '[[_Standards/WikiData/WD~Mariyedi,10577501]]'
 - '[[_Standards/WikiData/WD~Marriammu,10577724]]'
-- "[[_Standards/WikiData/WD~Marti Ke,10577823]]"
+- "[[_Standards/WikiData/WD~Marti_Ke,10577823]]"
 - '[[_Standards/WikiData/WD~Miwa,10586712]]'
 - '[[_Standards/WikiData/WD~Muluridyi,10590149]]'
 - '[[_Standards/WikiData/WD~Ngarinman,10600380]]'
@@ -515,7 +515,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tyaraity,10706951]]'
 - '[[_Standards/WikiData/WD~Urningangg,10710522]]'
 - '[[_Standards/WikiData/WD~Wadjigu,10719025]]'
-- "[[_Standards/WikiData/WD~Wakka Wakka,10719110]]"
+- "[[_Standards/WikiData/WD~Wakka_Wakka,10719110]]"
 - '[[_Standards/WikiData/WD~Wariyangga,10719289]]'
 - '[[_Standards/WikiData/WD~Wik-Epa,10720035]]'
 - "[[_Standards/WikiData/WD~Wik-Me'anha,10720039]]"
@@ -527,8 +527,8 @@ language_used:
 - '[[_Standards/WikiData/WD~Yangman,10723416]]'
 - '[[_Standards/WikiData/WD~Yawarawarga,10723454]]'
 - '[[_Standards/WikiData/WD~Yindjilandji,10723541]]'
-- "[[_Standards/WikiData/WD~Eastern Arrernte,10728232]]"
-- "[[_Standards/WikiData/WD~Western Arrarnta,12645549]]"
+- "[[_Standards/WikiData/WD~Eastern_Arrernte,10728232]]"
+- "[[_Standards/WikiData/WD~Western_Arrarnta,12645549]]"
 - '[[_Standards/WikiData/WD~Umpila,12953954]]'
 - '[[_Standards/WikiData/WD~Djauan,13553748]]'
 - '[[_Standards/WikiData/WD~Kariyarra,13586632]]'
@@ -536,9 +536,9 @@ language_used:
 - '[[_Standards/WikiData/WD~Wulna,13591670]]'
 - '[[_Standards/WikiData/WD~Andajin,16111302]]'
 - '[[_Standards/WikiData/WD~Ayerrerenge,16112737]]'
-- "[[_Standards/WikiData/WD~Yolŋu Sign Language,16211970]]"
+- "[[_Standards/WikiData/WD~Yolŋu_Sign_Language,16211970]]"
 - '[[_Standards/WikiData/WD~Yugambeh,16334334]]'
-- "[[_Standards/WikiData/WD~Aghu Tharrnggala,16825981]]"
+- "[[_Standards/WikiData/WD~Aghu_Tharrnggala,16825981]]"
 - '[[_Standards/WikiData/WD~Bigambal,16841801]]'
 - '[[_Standards/WikiData/WD~Nimanburru,16891606]]'
 - '[[_Standards/WikiData/WD~Ngadjuri,16897028]]'
@@ -550,12 +550,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Pirriya,16978087]]'
 - '[[_Standards/WikiData/WD~Turrubal,16979305]]'
 - '[[_Standards/WikiData/WD~Yirandhali,17059380]]'
-- "[[_Standards/WikiData/WD~Wemba Wemba,18472819]]"
+- "[[_Standards/WikiData/WD~Wemba_Wemba,18472819]]"
 - '[[_Standards/WikiData/WD~Manda,18650060]]'
 - '[[_Standards/WikiData/WD~Dhuwal,20050850]]'
 - '[[_Standards/WikiData/WD~Mineng,22893424]]'
 - '[[_Standards/WikiData/WD~Bibbulman,22918391]]'
-- "[[_Standards/WikiData/WD~Miriwoong Sign Language,24090240]]"
+- "[[_Standards/WikiData/WD~Miriwoong_Sign_Language,24090240]]"
 - '[[_Standards/WikiData/WD~Yawijibaya,31722921]]'
 - '[[_Standards/WikiData/WD~Butchulla,31752631]]'
 - '[[_Standards/WikiData/WD~Nhirrpi,32571318]]'
@@ -577,18 +577,18 @@ language_used:
 - '[[_Standards/WikiData/WD~Githabul,48987680]]'
 - '[[_Standards/WikiData/WD~Malyangapa,49929396]]'
 - '[[_Standards/WikiData/WD~Wadikali,49929872]]'
-- "[[_Standards/WikiData/WD~Dadi Dadi,50207890]]"
+- "[[_Standards/WikiData/WD~Dadi_Dadi,50207890]]"
 - '[[_Standards/WikiData/WD~Golpa,50934920]]'
 - '[[_Standards/WikiData/WD~Garingbal,52008172]]'
-- "[[_Standards/WikiData/WD~Koko Babangk,55254102]]"
-- "[[_Standards/WikiData/WD~Nari Nari,56525223]]"
+- "[[_Standards/WikiData/WD~Koko_Babangk,55254102]]"
+- "[[_Standards/WikiData/WD~Nari_Nari,56525223]]"
 - '[[_Standards/WikiData/WD~Olkol,56809601]]'
 - '[[_Standards/WikiData/WD~Lanima,56825017]]'
 - '[[_Standards/WikiData/WD~Karenggapa,57337359]]'
 - '[[_Standards/WikiData/WD~Wotjobaluk,57783910]]'
 - '[[_Standards/WikiData/WD~Gundungurra,60611652]]'
 - '[[_Standards/WikiData/WD~Kurnai,61676882]]'
-- "[[_Standards/WikiData/WD~Yan-nhaŋu Sign Language,61951665]]"
+- "[[_Standards/WikiData/WD~Yan-nhaŋu_Sign_Language,61951665]]"
 - '[[_Standards/WikiData/WD~Wardandi,61999705]]'
 - '[[_Standards/WikiData/WD~Unggaranggu,61999823]]'
 - '[[_Standards/WikiData/WD~Umiida,61999874]]'
@@ -636,89 +636,89 @@ language_used:
 - '[[_Standards/WikiData/WD~Dyirbal,35465]]'
 - '[[_Standards/WikiData/WD~Kriol,35671]]'
 - '[[_Standards/WikiData/WD~Malayalam,36236]]'
-- "[[_Standards/WikiData/WD~Torres Strait Creole,36648]]"
-- "[[_Standards/WikiData/WD~Guugu Yimithirr,56543]]"
+- "[[_Standards/WikiData/WD~Torres_Strait_Creole,36648]]"
+- "[[_Standards/WikiData/WD~Guugu_Yimithirr,56543]]"
 - '[[_Standards/WikiData/WD~Punjabi,58635]]'
 - "http://www.wikidata.org/.well-known/genid/c707e3766cc3066460cd57100d115a1f"
 - '[[_Standards/WikiData/WD~Turkish,256]]'
 - '[[_Standards/WikiData/WD~Italian,652]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-- "[[_Standards/WikiData/WD~Great dictionary of geographical names,113510146]]"
-- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Siebenter Band,131314460]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+- "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
+- "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Siebenter_Band,131314460]]"
 different_from:
 - '[[_Standards/WikiData/WD~Astraea,742680]]'
-- "[[_Standards/WikiData/WD~mainland Australia,2872203]]"
+- "[[_Standards/WikiData/WD~mainland_Australia,2872203]]"
 - '[[_Standards/WikiData/WD~Australien,13431386]]'
-- "[[_Standards/WikiData/WD~Australian continent,3960]]"
+- "[[_Standards/WikiData/WD~Australian_continent,3960]]"
 part_of:
 - '[[_Standards/WikiData/WD~MIKTA,865479]]'
-- "[[_Standards/WikiData/WD~Australia and New Zealand,107323313]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~Australia_and_New_Zealand,107323313]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~Australasia,45256]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Australia,1134461]]"
-foundational_text: "[[_Standards/WikiData/WD~Constitution of Australia,1144614]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Australia,1144614]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Australia,1154521]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~High Court of Australia,1358798]]"
-central_bank: "[[_Standards/WikiData/WD~Reserve Bank of Australia,1506724]]"
-archives_at: "[[_Standards/WikiData/WD~National Archives of Australia,1684918]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Australia,2088388]]"
-highest_point: "[[_Standards/WikiData/WD~Mawson Peak,2114101]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-culture: "[[_Standards/WikiData/WD~culture of Australia,2440952]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Australia,1134461]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution_of_Australia,1144614]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Australia,1144614]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Australia,1154521]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~High_Court_of_Australia,1358798]]"
+central_bank: "[[_Standards/WikiData/WD~Reserve_Bank_of_Australia,1506724]]"
+archives_at: "[[_Standards/WikiData/WD~National_Archives_of_Australia,1684918]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Australia,2088388]]"
+highest_point: "[[_Standards/WikiData/WD~Mawson_Peak,2114101]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Australia,2440952]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~000,2806478]]'
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~mainland Australia,2872203]]"
+- "[[_Standards/WikiData/WD~mainland_Australia,2872203]]"
 - '[[_Standards/WikiData/WD~Tasmania,3593416]]'
-has_cabinet: "[[_Standards/WikiData/WD~Federal Executive Council (Australia),2988632]]"
-executive_body: "[[_Standards/WikiData/WD~Australian Government,2991162]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+has_cabinet: "[[_Standards/WikiData/WD~Federal_Executive_Council_(Australia),2988632]]"
+executive_body: "[[_Standards/WikiData/WD~Australian_Government,2991162]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Australia,3248546]]'
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~federation,43702]]'
-studied_in: "[[_Standards/WikiData/WD~Australian studies,4825228]]"
-list_of_monuments: "[[_Standards/WikiData/WD~Monuments of Australia,6906957]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Australia,7112191]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Australia topics,11010674]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Australia,11036831]]"
+studied_in: "[[_Standards/WikiData/WD~Australian_studies,4825228]]"
+list_of_monuments: "[[_Standards/WikiData/WD~Monuments_of_Australia,6906957]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Australia,7112191]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Australia_topics,11010674]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Australia,11036831]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of Australia,14931512]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Australia,14931512]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q20514998,20514998]]'
 - '[[_Standards/WikiData/WD~Q41336722,41336722]]'
 inception: "1901"
 has_time_started: 1901-06 
 open_data_portal: '[[_Standards/WikiData/WD~data.gov.au,97016727]]'
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great Seal of Australia,119084894]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great_Seal_of_Australia,119084894]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
 Swedish_Anbytarforum: 21978.0
 native_label: Australia
 Baidu_Tieba_name: 澳大利亚
 UMLS_CUI: C0006888
 name: ꠅꠡ꠆ꠐꠦꠟꠤꠀ
-member_of: "[[_Standards/WikiData/WD~United Nations,1065]]"
+member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
 capital: '[[_Standards/WikiData/WD~Canberra,3114]]'
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
 official_language:
 - '[[_Standards/WikiData/WD~Auslan,29525]]'
-- "[[_Standards/WikiData/WD~Australian English,44679]]"
+- "[[_Standards/WikiData/WD~Australian_English,44679]]"
 minimum_temperature_record: -23
 speed_limit:
 - 100
@@ -727,12 +727,12 @@ VAT_rate: 10
 width: 4000
 shares_border_with:
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~New Caledonia,33788]]"
+- "[[_Standards/WikiData/WD~New_Caledonia,33788]]"
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
-- "[[_Standards/WikiData/WD~New Zealand,664]]"
+- "[[_Standards/WikiData/WD~New_Zealand,664]]"
 - '[[_Standards/WikiData/WD~Vanuatu,686]]'
-- "[[_Standards/WikiData/WD~Solomon Islands,685]]"
-- "[[_Standards/WikiData/WD~Papua New Guinea,691]]"
+- "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
+- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
 compulsory_education_minimum_age_: 6
 unemployment_rate: 6
 water_as_percent_of_area: 0.8
@@ -764,7 +764,7 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.au,37420]]'
 total_fertility_rate: 1.74
 minimum_wage: 24.1
 Gini_coefficient: 32.4
-head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 central_government_debt_as_a_percent_of_GDP:
 - 38.3
 - 40.5

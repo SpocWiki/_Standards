@@ -1,29 +1,29 @@
 ﻿---
 has_id_wikidata: Q318
-subclass_of: "[[_Standards/WikiData/WD~deep-sky object,249389]]"
+subclass_of: "[[_Standards/WikiData/WD~deep-sky_object,249389]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 model_item:
-- "[[_Standards/WikiData/WD~Hoag's Object,872197]]"
-- "[[_Standards/WikiData/WD~ESO 137-001,3329830]]"
-- "[[_Standards/WikiData/WD~Milky Way,321]]"
-- "[[_Standards/WikiData/WD~Andromeda Galaxy,2469]]"
-- "[[_Standards/WikiData/WD~Messier 87,14041]]"
-studied_in: "[[_Standards/WikiData/WD~galaxy formation and evolution,1995140]]"
+- "[[_Standards/WikiData/WD~Hoag's_Object,872197]]"
+- "[[_Standards/WikiData/WD~ESO_137-001,3329830]]"
+- "[[_Standards/WikiData/WD~Milky_Way,321]]"
+- "[[_Standards/WikiData/WD~Andromeda_Galaxy,2469]]"
+- "[[_Standards/WikiData/WD~Messier_87,14041]]"
+studied_in: "[[_Standards/WikiData/WD~galaxy_formation_and_evolution,1995140]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox galaxy,5882327]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_galaxy,5882327]]"
 - '[[_Standards/WikiData/WD~Template_Galaxy,13225613]]'
-- "[[_Standards/WikiData/WD~Template_Infobox galaxy 2,26187337]]"
-part_of: "[[_Standards/WikiData/WD~galaxy group or cluster,14515149]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical object type,17444909]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of galaxies,48835084]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_galaxy_2,26187337]]"
+part_of: "[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_galaxies,48835084]]"
 UMLS_CUI: C0282063
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Space-icon.png"
 EntitySchema_for_this_class: E441
 MeSH_tree_code: G01.060.075.320
-different_from: "[[_Standards/WikiData/WD~Milky Way,321]]"
-named_after: "[[_Standards/WikiData/WD~Milky Way,321]]"
+different_from: "[[_Standards/WikiData/WD~Milky_Way,321]]"
+named_after: "[[_Standards/WikiData/WD~Milky_Way,321]]"
 properties_for_this_type: "galaxy morphological type"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/NGC%204414%20%28NASA-med%29.jpg"
 OmegaWiki_Defined_Meaning: 8322

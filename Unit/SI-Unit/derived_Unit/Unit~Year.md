@@ -1,36 +1,36 @@
 ﻿---
 has_id_wikidata: Q577
 subclass_of:
-- "[[_Standards/WikiData/WD~time interval,186081]]"
-- "[[_Standards/WikiData/WD~orbital period,37640]]"
+- "[[_Standards/WikiData/WD~time_interval,186081]]"
+- "[[_Standards/WikiData/WD~orbital_period,37640]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~ISO 80000-3_2006 Quantities and units — Part 3_ Space and time,26711932]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-based_on: "[[_Standards/WikiData/WD~heliocentric orbit,737809]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+based_on: "[[_Standards/WikiData/WD~heliocentric_orbit,737809]]"
 different_from:
 - '[[_Standards/WikiData/WD~annum,1092296]]'
 - '[[_Standards/WikiData/WD~Q2851823,2851823]]'
-- "[[_Standards/WikiData/WD~calendar year,3186692]]"
-- "[[_Standards/WikiData/WD~year of the French Republican Calendar,16929628]]"
-- "[[_Standards/WikiData/WD~Julian calendar year,107500825]]"
-- "[[_Standards/WikiData/WD~Byzantine calendar year,107500860]]"
-- "[[_Standards/WikiData/WD~Assyrian calendar year,107500883]]"
-- "[[_Standards/WikiData/WD~Swedish calendar year,107507224]]"
-- "[[_Standards/WikiData/WD~Ab urbe condita,107507800]]"
+- "[[_Standards/WikiData/WD~calendar_year,3186692]]"
+- "[[_Standards/WikiData/WD~year_of_the_French_Republican_Calendar,16929628]]"
+- "[[_Standards/WikiData/WD~Julian_calendar_year,107500825]]"
+- "[[_Standards/WikiData/WD~Byzantine_calendar_year,107500860]]"
+- "[[_Standards/WikiData/WD~Assyrian_calendar_year,107500883]]"
+- "[[_Standards/WikiData/WD~Swedish_calendar_year,107507224]]"
+- "[[_Standards/WikiData/WD~Ab_urbe_condita,107507800]]"
 subdivision_of_this_unit: '[[_Standards/WikiData/WD~quarter,1643308]]'
-instance_of: "[[_Standards/WikiData/WD~unit of time,1790144]]"
+instance_of: "[[_Standards/WikiData/WD~unit_of_time,1790144]]"
 measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Years,3247958]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Years,3247958]]"
 part_of: '[[_Standards/WikiData/WD~Q3411974,3411974]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Year nav,5409481]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Year_nav,5409481]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27094353,27094353]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Holocene calendar year,107500562]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Holocene_calendar_year,107500562]]"
 unit_symbol:
 - j.
 - l.

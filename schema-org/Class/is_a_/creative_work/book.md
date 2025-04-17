@@ -29,9 +29,9 @@ has_id_wikidata: Q571
 has_use:
 - '[[_Standards/WikiData/WD~entertainment,173799]]'
 - '[[_Standards/WikiData/WD~pleasure,208195]]'
-- "[[_Standards/WikiData/WD~critical thinking,843894]]"
-- "[[_Standards/WikiData/WD~source of information,3523102]]"
-- "[[_Standards/WikiData/WD~spiritual development,24911979]]"
+- "[[_Standards/WikiData/WD~critical_thinking,843894]]"
+- "[[_Standards/WikiData/WD~source_of_information,3523102]]"
+- "[[_Standards/WikiData/WD~spiritual_development,24911979]]"
 - '[[_Standards/WikiData/WD~survival,104482419]]'
 - '[[_Standards/WikiData/WD~education,8434]]'
 - '[[_Standards/WikiData/WD~imagination,34516]]'
@@ -45,52 +45,52 @@ subclass_of:
 - '[[_Standards/WikiData/WD~document,49848]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~author,482980]]'
-- "[[_Standards/WikiData/WD~print circulation,759811]]"
+- "[[_Standards/WikiData/WD~print_circulation,759811]]"
 - '[[_Standards/WikiData/WD~folio,772267]]'
 - '[[_Standards/WikiData/WD~title,783521]]'
-- "[[_Standards/WikiData/WD~book illustration,998555]]"
+- "[[_Standards/WikiData/WD~book_illustration,998555]]"
 - '[[_Standards/WikiData/WD~volume,1238720]]'
-- "[[_Standards/WikiData/WD~publication date,1361758]]"
-- "[[_Standards/WikiData/WD~place of publication,1361759]]"
+- "[[_Standards/WikiData/WD~publication_date,1361758]]"
+- "[[_Standards/WikiData/WD~place_of_publication,1361759]]"
 - '[[_Standards/WikiData/WD~editor,1607826]]'
-- "[[_Standards/WikiData/WD~publishing company,2085381]]"
-- "[[_Standards/WikiData/WD~editorial board,2985386]]"
-- "[[_Standards/WikiData/WD~book format,18602566]]"
+- "[[_Standards/WikiData/WD~publishing_company,2085381]]"
+- "[[_Standards/WikiData/WD~editorial_board,2985386]]"
+- "[[_Standards/WikiData/WD~book_format,18602566]]"
 - '[[_Standards/WikiData/WD~compiler,29514511]]'
-- "[[_Standards/WikiData/WD~book size,91783353]]"
-- "[[_Standards/WikiData/WD~number of pages,115804545]]"
-- "[[_Standards/WikiData/WD~International Standard Book Number,33057]]"
+- "[[_Standards/WikiData/WD~book_size,91783353]]"
+- "[[_Standards/WikiData/WD~number_of_pages,115804545]]"
+- "[[_Standards/WikiData/WD~International_Standard_Book_Number,33057]]"
 - '[[_Standards/WikiData/WD~language,34770]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Cite book_Russian,909529]]"
-- "[[_Standards/WikiData/WD~Template_Infobox book 2,22835068]]"
+- "[[_Standards/WikiData/WD~Template_Cite_book_Russian,909529]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_book_2,22835068]]"
 - '[[_Standards/WikiData/WD~Template_Books,47482683]]'
 different_from:
-- "[[_Standards/WikiData/WD~version, edition or translation,3331189]]"
+- "[[_Standards/WikiData/WD~version,_edition_or_translation,3331189]]"
 - '[[_Standards/WikiData/WD~Liv,10567996]]'
-- "[[_Standards/WikiData/WD~written work,47461344]]"
+- "[[_Standards/WikiData/WD~written_work,47461344]]"
 - '[[_Standards/WikiData/WD~volume,105763458]]'
 - '[[_Standards/WikiData/WD~book,126946186]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of books,7112569]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Books,8487081]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_books,7112569]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Books,8487081]]"
 topic_s_main_category:
 - '[[_Standards/WikiData/WD~Q9721595,9721595]]'
 - '[[_Standards/WikiData/WD~Q33098516,33098516]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Books,10880143]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of the book,15873402]]"
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_book,15873402]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 instance_of:
-- "[[_Standards/WikiData/WD~type of publication,39725049]]"
-- "[[_Standards/WikiData/WD~type of mass media,121132955]]"
+- "[[_Standards/WikiData/WD~type_of_publication,39725049]]"
+- "[[_Standards/WikiData/WD~type_of_mass_media,121132955]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q52834100,52834100]]'
 Stack_Exchange_tag:
 - "https://academia.stackexchange.com/tags/books"

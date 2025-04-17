@@ -15,22 +15,22 @@ Krugosvet_article: nauka_i_tehnika/himiya/UGLEROD.html
 InChIKey: OKTJSMMVPCPJKN-UHFFFAOYSA-N
 UNII: 4XYU5U00C4
 part_of:
-- "[[_Standards/WikiData/WD~group 14,106693]]"
-- "[[_Standards/WikiData/WD~period 2,207712]]"
+- "[[_Standards/WikiData/WD~group_14,106693]]"
+- "[[_Standards/WikiData/WD~period_2,207712]]"
 different_from: '[[_Standards/WikiData/WD~Q249747,249747]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 - '[[_Standards/WikiData/WD~Carbon,84669446]]'
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-crystal_system: "[[_Standards/WikiData/WD~hexagonal crystal system,663314]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
 instance_of:
-- "[[_Standards/WikiData/WD~atmophile element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~polyatomic nonmetal,19753345]]"
+- "[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]"
 - '[[_Standards/WikiData/WD~nonmetal,19600]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57899690,57899690]]'
 named_after: '[[_Standards/WikiData/WD~coal,24489]]'
@@ -48,7 +48,7 @@ atomic_number: 6
 ionic_radius:
 - 0.15
 - 0.16
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Antoine Lavoisier,39607]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]"
 density:
 - 2.26
 - 3.51

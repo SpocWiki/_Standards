@@ -4,17 +4,17 @@ aliases:
   - "Russian Revolution"
 Commons_category: "Russian Revolution of 1917"
 Commons_gallery: "Russian Revolution of 1917"
-country: "[[_Standards/WikiData/WD~Russian Empire,34266]]"
+country: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Revoluci%C3%B3n-marzo-rusia--russianbolshevik00rossuoft.png"
 instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
-location: "[[_Standards/WikiData/WD~Russian Empire,34266]]"
-part_of: "[[_Standards/WikiData/WD~Revolutions of 1917–1923,7318933]]"
+location: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+part_of: "[[_Standards/WikiData/WD~Revolutions_of_1917–1923,7318933]]"
 participant:
   - '[[_Standards/WikiData/WD~Bolsheviks,83372]]'
   - '[[_Standards/WikiData/WD~Mensheviks,191515]]'
-  - "[[_Standards/WikiData/WD~Socialist Revolutionary Party,217009]]"
+  - "[[_Standards/WikiData/WD~Socialist_Revolutionary_Party,217009]]"
 point_in_time: 1917-06 
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Russian Revolution,14398246]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Russian_Revolution,14398246]]"
 ---
 
 ## #has_/text_of_/abstract 

@@ -38,75 +38,75 @@ Languages:
 - so-ET
 - sid
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-flag: "[[_Standards/WikiData/WD~flag of Ethiopia,162068]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Ethiopia,162068]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~Carbon Neutrality Coalition,60746147]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~Carbon_Neutrality_Coalition,60746147]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Dire Dawa,193486]]"
-- "[[_Standards/WikiData/WD~Afar Region,193494]]"
-- "[[_Standards/WikiData/WD~Tigray Region,200127]]"
-- "[[_Standards/WikiData/WD~Oromia Region,202107]]"
-- "[[_Standards/WikiData/WD~Somali Region,202800]]"
-- "[[_Standards/WikiData/WD~Amhara Region,203009]]"
-- "[[_Standards/WikiData/WD~Southern Nations, Nationalities, and Peoples' Region,203193]]"
-- "[[_Standards/WikiData/WD~Benishangul-Gumuz Region,207635]]"
-- "[[_Standards/WikiData/WD~Gambela Region,207638]]"
-- "[[_Standards/WikiData/WD~Harari Region,1033855]]"
-- "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem of Ethiopia,193781]]"
+- "[[_Standards/WikiData/WD~Dire_Dawa,193486]]"
+- "[[_Standards/WikiData/WD~Afar_Region,193494]]"
+- "[[_Standards/WikiData/WD~Tigray_Region,200127]]"
+- "[[_Standards/WikiData/WD~Oromia_Region,202107]]"
+- "[[_Standards/WikiData/WD~Somali_Region,202800]]"
+- "[[_Standards/WikiData/WD~Amhara_Region,203009]]"
+- "[[_Standards/WikiData/WD~Southern_Nations,_Nationalities,_and_Peoples'_Region,203193]]"
+- "[[_Standards/WikiData/WD~Benishangul-Gumuz_Region,207635]]"
+- "[[_Standards/WikiData/WD~Gambela_Region,207638]]"
+- "[[_Standards/WikiData/WD~Harari_Region,1033855]]"
+- "[[_Standards/WikiData/WD~Addis_Ababa,3624]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Ethiopia,193781]]"
 ethnic_group:
-- "[[_Standards/WikiData/WD~Afar people,211720]]"
+- "[[_Standards/WikiData/WD~Afar_people,211720]]"
 - '[[_Standards/WikiData/WD~Somalis,241696]]'
-- "[[_Standards/WikiData/WD~Oromo people,318674]]"
-- "[[_Standards/WikiData/WD~Tigray people,427036]]"
-- "[[_Standards/WikiData/WD~Amhara people,464237]]"
-- "[[_Standards/WikiData/WD~Gamo people,749854]]"
-- "[[_Standards/WikiData/WD~Gurage people,844307]]"
-- "[[_Standards/WikiData/WD~Silt'e people,848299]]"
+- "[[_Standards/WikiData/WD~Oromo_people,318674]]"
+- "[[_Standards/WikiData/WD~Tigray_people,427036]]"
+- "[[_Standards/WikiData/WD~Amhara_people,464237]]"
+- "[[_Standards/WikiData/WD~Gamo_people,749854]]"
+- "[[_Standards/WikiData/WD~Gurage_people,844307]]"
+- "[[_Standards/WikiData/WD~Silt'e_people,848299]]"
 - '[[_Standards/WikiData/WD~Wolaitans,954810]]'
-- "[[_Standards/WikiData/WD~Sidama people,1192069]]"
-- "[[_Standards/WikiData/WD~Kafficho people,1721029]]"
-- "[[_Standards/WikiData/WD~Gedeo people,5529672]]"
-- "[[_Standards/WikiData/WD~Hadiya people,16930512]]"
-legislative_body: "[[_Standards/WikiData/WD~Federal Parliamentary Assembly,257899]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Ethiopia,273595]]"
-highest_point: "[[_Standards/WikiData/WD~Ras Dashen,275435]]"
+- "[[_Standards/WikiData/WD~Sidama_people,1192069]]"
+- "[[_Standards/WikiData/WD~Kafficho_people,1721029]]"
+- "[[_Standards/WikiData/WD~Gedeo_people,5529672]]"
+- "[[_Standards/WikiData/WD~Hadiya_people,16930512]]"
+legislative_body: "[[_Standards/WikiData/WD~Federal_Parliamentary_Assembly,257899]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Ethiopia,273595]]"
+highest_point: "[[_Standards/WikiData/WD~Ras_Dashen,275435]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
-anthem: "[[_Standards/WikiData/WD~March Forward, Dear Mother Ethiopia,373510]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+anthem: "[[_Standards/WikiData/WD~March_Forward,_Dear_Mother_Ethiopia,373510]]"
 language_used:
 - '[[_Standards/WikiData/WD~Seze,373683]]'
 - '[[_Standards/WikiData/WD~Zayse-Zergulla,673895]]'
@@ -114,7 +114,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tsamai,2371358]]'
 - '[[_Standards/WikiData/WD~Gumuz,2396970]]'
 - '[[_Standards/WikiData/WD~Kwama,2591184]]'
-- "[[_Standards/WikiData/WD~Sebat Bet Gurage,2707343]]"
+- "[[_Standards/WikiData/WD~Sebat_Bet_Gurage,2707343]]"
 - '[[_Standards/WikiData/WD~Borana,2910610]]'
 - '[[_Standards/WikiData/WD~Gawwada,3032135]]'
 - '[[_Standards/WikiData/WD~Nayi,3183349]]'
@@ -122,12 +122,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Opuo,3354339]]'
 - "[[_Standards/WikiData/WD~Me'en,3408516]]"
 - '[[_Standards/WikiData/WD~Karo,3447116]]'
-- "[[_Standards/WikiData/WD~Ethiopian Sign Language,3501903]]"
+- "[[_Standards/WikiData/WD~Ethiopian_Sign_Language,3501903]]"
 - '[[_Standards/WikiData/WD~Mesmes,3508617]]'
 - '[[_Standards/WikiData/WD~Weyto,3915918]]'
 - '[[_Standards/WikiData/WD~Nyangatom,4662604]]'
 - '[[_Standards/WikiData/WD~Chara,5073694]]'
-- "[[_Standards/WikiData/WD~Eastern Oromo,5330355]]"
+- "[[_Standards/WikiData/WD~Eastern_Oromo,5330355]]"
 - '[[_Standards/WikiData/WD~Suri,5364172]]'
 - '[[_Standards/WikiData/WD~Baleesi,5364424]]'
 - '[[_Standards/WikiData/WD~Gayil,5528771]]'
@@ -139,9 +139,9 @@ language_used:
 - '[[_Standards/WikiData/WD~Dawro,12629647]]'
 - '[[_Standards/WikiData/WD~Gofa,12631584]]'
 - '[[_Standards/WikiData/WD~Kachama-Ganjule,12634070]]'
-- "[[_Standards/WikiData/WD~West Central Oromo,12639015]]"
+- "[[_Standards/WikiData/WD~West_Central_Oromo,12639015]]"
 - '[[_Standards/WikiData/WD~Wolane,12645275]]'
-- "[[_Standards/WikiData/WD~Rer Bare,12953857]]"
+- "[[_Standards/WikiData/WD~Rer_Bare,12953857]]"
 - '[[_Standards/WikiData/WD~Gamo,16116386]]'
 - '[[_Standards/WikiData/WD~Daats’íin,20982409]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
@@ -201,7 +201,7 @@ different_from:
 - '[[_Standards/WikiData/WD~Etiòpia,4533206]]'
 - '[[_Standards/WikiData/WD~Äthiopien,15946774]]'
 - '[[_Standards/WikiData/WD~Etiopia,29406602]]'
-basic_form_of_government: "[[_Standards/WikiData/WD~federal republic,512187]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~federal_republic,512187]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~939,25648866]]'
@@ -210,30 +210,30 @@ emergency_phone_number:
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type L,1520890]]"
-- "[[_Standards/WikiData/WD~SN 441011,2335530]]"
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Ethiopia,1425941]]"
+- "[[_Standards/WikiData/WD~Type_L,1520890]]"
+- "[[_Standards/WikiData/WD~SN_441011,2335530]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ethiopia,1425941]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~East Africa Time,1773949]]"
+- "[[_Standards/WikiData/WD~East_Africa_Time,1773949]]"
 - '[[_Standards/WikiData/WD~Africa_Asmara,4689474]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Ethiopia,1788970]]"
-central_bank: "[[_Standards/WikiData/WD~National Bank of Ethiopia,1967889]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Ethiopia,1982564]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Ethiopia,2462244]]"
-culture: "[[_Standards/WikiData/WD~culture of Ethiopia,3007263]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Ethiopia,3409186]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Ethiopia,5589204]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Ethiopia,7112260]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_First-level administrative divisions of Ethiopia,8011336]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Ethiopia,1788970]]"
+central_bank: "[[_Standards/WikiData/WD~National_Bank_of_Ethiopia,1967889]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Ethiopia,1982564]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Ethiopia,2462244]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Ethiopia,3007263]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Ethiopia,3409186]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Ethiopia,5589204]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Ethiopia,7112260]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_First-level_administrative_divisions_of_Ethiopia,8011336]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ethiopia,11001430]]'
-lowest_point: "[[_Standards/WikiData/WD~Danakil Depression,14213070]]"
+lowest_point: "[[_Standards/WikiData/WD~Danakil_Depression,14213070]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-head_of_government: "[[_Standards/WikiData/WD~Abiy Ahmed Ali,50365049]]"
-head_of_state: "[[_Standards/WikiData/WD~Taye Atske Selassie,124831090]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+head_of_government: "[[_Standards/WikiData/WD~Abiy_Ahmed_Ali,50365049]]"
+head_of_state: "[[_Standards/WikiData/WD~Taye_Atske_Selassie,124831090]]"
 rural_population:
 - 89898498
 - 91766343
@@ -290,7 +290,7 @@ population: 128691692
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
@@ -301,7 +301,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~Sweden,34]]'
 - '[[_Standards/WikiData/WD~Denmark,35]]'
@@ -313,23 +313,23 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Egypt,79]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~South Sudan,958]]"
+- "[[_Standards/WikiData/WD~South_Sudan,958]]"
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 - '[[_Standards/WikiData/WD~Kenya,114]]'
 - '[[_Standards/WikiData/WD~Somaliland,34754]]'
-capital: "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~East Africa,27407]]"
-part_of: "[[_Standards/WikiData/WD~East Africa,27407]]"
+capital: "[[_Standards/WikiData/WD~Addis_Ababa,3624]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~East_Africa,27407]]"
+part_of: "[[_Standards/WikiData/WD~East_Africa,27407]]"
 official_language: '[[_Standards/WikiData/WD~Amharic,28244]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 country: '[[_Standards/WikiData/WD~Ethiopia,115]]'
@@ -363,7 +363,7 @@ Inequality_adjusted_Human_Development_Index: 0.363
 Happy_Planet_Index_score: 41.7
 trunk_prefix: 0
 Human_Development_Index: 0.498
-patron_saint: "[[_Standards/WikiData/WD~Saint George,48438]]"
+patron_saint: "[[_Standards/WikiData/WD~Saint_George,48438]]"
 birth_rate:
 - 32.78
 - 31.835

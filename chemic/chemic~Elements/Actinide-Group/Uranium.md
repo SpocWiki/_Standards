@@ -24,19 +24,19 @@ RTECS_number: YR3490000
 Unicode_character: 鈾
 fabrication_method: '[[_Standards/WikiData/WD~uraninite,206467]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Melchior Péligot,903801]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Melchior_Péligot,903801]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~radioactive element,3658631]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox uranium,8085707]]"
+- "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707]]"
 UMLS_CUI: C0041928
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20149.jpg"
 named_after: '[[_Standards/WikiData/WD~Uranus,324]]'

@@ -11,11 +11,11 @@ electron_configuration:
 - "1s² 2s² 2p⁶ 3s² 3p³"
 MeSH_tree_code: D01.268.666
 Krugosvet_article: nauka_i_tehnika/himiya/FOSFOR.html
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Hennig Brand,77306]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Hennig_Brand,77306]]"
 has_use: '[[_Standards/WikiData/WD~fertilizer,83323]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 15,106675]]"
-- "[[_Standards/WikiData/WD~period 3,211331]]"
+- "[[_Standards/WikiData/WD~group_15,106675]]"
+- "[[_Standards/WikiData/WD~period_3,211331]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~turquoise,165254]]'
 - '[[_Standards/WikiData/WD~guano,170185]]'
@@ -30,7 +30,7 @@ made_from_material:
 - '[[_Standards/WikiData/WD~struvite,419364]]'
 - '[[_Standards/WikiData/WD~wavellite,420505]]'
 - '[[_Standards/WikiData/WD~monazite,422011]]'
-- "[[_Standards/WikiData/WD~bone ash,995607]]"
+- "[[_Standards/WikiData/WD~bone_ash,995607]]"
 - '[[_Standards/WikiData/WD~phosphorite,1424327]]'
 - '[[_Standards/WikiData/WD~phosphophyllite,2252346]]'
 - '[[_Standards/WikiData/WD~chlorapatite,3680919]]'
@@ -38,24 +38,24 @@ made_from_material:
 - '[[_Standards/WikiData/WD~xenotime-(Y),26270026]]'
 - '[[_Standards/WikiData/WD~urine,40924]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Dictionnaire Infernal,1210353]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Phosphorus,108309502]]'
-associated_hazard: "[[_Standards/WikiData/WD~phosphorus poisoning,1616305]]"
+associated_hazard: "[[_Standards/WikiData/WD~phosphorus_poisoning,1616305]]"
 named_after: '[[_Standards/WikiData/WD~Phosphorus,1775444]]'
 different_from:
 - '[[_Standards/WikiData/WD~phosphor,11248330]]'
-- "[[_Standards/WikiData/WD~serum inorganic phosphorus level,55435629]]"
+- "[[_Standards/WikiData/WD~serum_inorganic_phosphorus_level,55435629]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~polyatomic nonmetal,19753345]]"
+- "[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]"
 - '[[_Standards/WikiData/WD~nonmetal,19600]]'
 mass: 30.973761998
 described_at_URL: "https://www.wired.com/story/the-worlds-farms-are-hooked-on-phosphorus-its-a-problem/"
-instance_of: "[[_Standards/WikiData/WD~chemical element,11344]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 oxidation_state:
 - -3
 - -2

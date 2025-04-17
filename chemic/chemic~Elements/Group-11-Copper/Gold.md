@@ -19,30 +19,30 @@ different_from:
 - '[[_Standards/WikiData/WD~Ginto,20554459]]'
 - '[[_Standards/WikiData/WD~Złoto,28863780]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 11,185870]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~group_11,185870]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 instance_of:
 - '[[_Standards/WikiData/WD~allergen,186752]]'
-- "[[_Standards/WikiData/WD~precious metal,271449]]"
-- "[[_Standards/WikiData/WD~metallic material,1924900]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-medical_condition_treated: "[[_Standards/WikiData/WD~rheumatoid arthritis,187255]]"
+- "[[_Standards/WikiData/WD~precious_metal,271449]]"
+- "[[_Standards/WikiData/WD~metallic_material,1924900]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]"
 color: '[[_Standards/WikiData/WD~gold,208045]]'
-crystal_system: "[[_Standards/WikiData/WD~cubic crystal system,473227]]"
-subclass_of: "[[_Standards/WikiData/WD~noble metal,585302]]"
+crystal_system: "[[_Standards/WikiData/WD~cubic_crystal_system,473227]]"
+subclass_of: "[[_Standards/WikiData/WD~noble_metal,585302]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language, Second Edition,23705356]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 - '[[_Standards/WikiData/WD~Gold,84671735]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828621,22828621]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
 time_of_discovery_or_invention: "-6000"
 discoverer_or_inventor: "http://www.wikidata.org/.well-known/genid/1a9eb9f7d2e410c81adc8f43484355f4"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20crystallization%20phenomenon%20when%20liquid%20gold%20solidifies%20is%20full%20of%20dendrites..webm"

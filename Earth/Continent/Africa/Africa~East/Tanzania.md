@@ -1,75 +1,75 @@
 ---
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Mwanza,110218]]'
-- "[[_Standards/WikiData/WD~Ruvuma Region,115318]]"
-- "[[_Standards/WikiData/WD~Unguja North Region,147116]]"
-- "[[_Standards/WikiData/WD~Singida Region,153326]]"
-- "[[_Standards/WikiData/WD~Rukwa Region,153329]]"
-- "[[_Standards/WikiData/WD~Tabora Region,153335]]"
-- "[[_Standards/WikiData/WD~Shinyanga Region,153339]]"
-- "[[_Standards/WikiData/WD~Mjini Magharibi Region,180822]]"
-- "[[_Standards/WikiData/WD~Dodoma Region,213268]]"
+- "[[_Standards/WikiData/WD~Ruvuma_Region,115318]]"
+- "[[_Standards/WikiData/WD~Unguja_North_Region,147116]]"
+- "[[_Standards/WikiData/WD~Singida_Region,153326]]"
+- "[[_Standards/WikiData/WD~Rukwa_Region,153329]]"
+- "[[_Standards/WikiData/WD~Tabora_Region,153335]]"
+- "[[_Standards/WikiData/WD~Shinyanga_Region,153339]]"
+- "[[_Standards/WikiData/WD~Mjini_Magharibi_Region,180822]]"
+- "[[_Standards/WikiData/WD~Dodoma_Region,213268]]"
 - '[[_Standards/WikiData/WD~Morogoro,243319]]'
 - '[[_Standards/WikiData/WD~Kigoma,244509]]'
-- "[[_Standards/WikiData/WD~Kagera Region,309190]]"
-- "[[_Standards/WikiData/WD~Lindi Region,309339]]"
-- "[[_Standards/WikiData/WD~Iringa Region,309352]]"
-- "[[_Standards/WikiData/WD~Kilimanjaro Region,328922]]"
-- "[[_Standards/WikiData/WD~Arusha Region,329261]]"
-- "[[_Standards/WikiData/WD~Manyara Region,331117]]"
-- "[[_Standards/WikiData/WD~Mwanza Region,331153]]"
+- "[[_Standards/WikiData/WD~Kagera_Region,309190]]"
+- "[[_Standards/WikiData/WD~Lindi_Region,309339]]"
+- "[[_Standards/WikiData/WD~Iringa_Region,309352]]"
+- "[[_Standards/WikiData/WD~Kilimanjaro_Region,328922]]"
+- "[[_Standards/WikiData/WD~Arusha_Region,329261]]"
+- "[[_Standards/WikiData/WD~Manyara_Region,331117]]"
+- "[[_Standards/WikiData/WD~Mwanza_Region,331153]]"
 - '[[_Standards/WikiData/WD~Mbeya,335548]]'
-- "[[_Standards/WikiData/WD~Tanga Region,389737]]"
-- "[[_Standards/WikiData/WD~Mbeya Region,458382]]"
-- "[[_Standards/WikiData/WD~Morogoro Region,458388]]"
-- "[[_Standards/WikiData/WD~Mara Region,458406]]"
-- "[[_Standards/WikiData/WD~Pwani Region,458412]]"
-- "[[_Standards/WikiData/WD~South Pemba Region,498067]]"
-- "[[_Standards/WikiData/WD~North Pemba Region,498073]]"
-- "[[_Standards/WikiData/WD~Mtwara Region,499465]]"
-- "[[_Standards/WikiData/WD~Dar es Salaam Region,557539]]"
+- "[[_Standards/WikiData/WD~Tanga_Region,389737]]"
+- "[[_Standards/WikiData/WD~Mbeya_Region,458382]]"
+- "[[_Standards/WikiData/WD~Morogoro_Region,458388]]"
+- "[[_Standards/WikiData/WD~Mara_Region,458406]]"
+- "[[_Standards/WikiData/WD~Pwani_Region,458412]]"
+- "[[_Standards/WikiData/WD~South_Pemba_Region,498067]]"
+- "[[_Standards/WikiData/WD~North_Pemba_Region,498073]]"
+- "[[_Standards/WikiData/WD~Mtwara_Region,499465]]"
+- "[[_Standards/WikiData/WD~Dar_es_Salaam_Region,557539]]"
 - '[[_Standards/WikiData/WD~Tabora,643112]]'
-- "[[_Standards/WikiData/WD~Unguja South Region,643120]]"
+- "[[_Standards/WikiData/WD~Unguja_South_Region,643120]]"
 - '[[_Standards/WikiData/WD~Mtwara,646684]]'
 - '[[_Standards/WikiData/WD~Iringa,735609]]'
-- "[[_Standards/WikiData/WD~Kigoma Region,747943]]"
+- "[[_Standards/WikiData/WD~Kigoma_Region,747943]]"
 - '[[_Standards/WikiData/WD~Shinyanga,818765]]'
 - '[[_Standards/WikiData/WD~Lindi,829886]]'
-- "[[_Standards/WikiData/WD~Dar es Salaam,1960]]"
-- "[[_Standards/WikiData/WD~Mount Kilimanjaro,7296]]"
-anthem: "[[_Standards/WikiData/WD~Mungu ibariki Afrika,154035]]"
+- "[[_Standards/WikiData/WD~Dar_es_Salaam,1960]]"
+- "[[_Standards/WikiData/WD~Mount_Kilimanjaro,7296]]"
+anthem: "[[_Standards/WikiData/WD~Mungu_ibariki_Afrika,154035]]"
 replaces:
-- "[[_Standards/WikiData/WD~People's Republic of Zanzibar,157535]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_Zanzibar,157535]]"
 - '[[_Standards/WikiData/WD~Tanganyika,431731]]'
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Southern African Development Community,816706]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Tanzania,170809]]"
-ethnic_group: "[[_Standards/WikiData/WD~Bantu people,173371]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Tanzania,200630]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Tanzania,170809]]"
+ethnic_group: "[[_Standards/WikiData/WD~Bantu_people,173371]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Tanzania,200630]]"
 named_after:
 - '[[_Standards/WikiData/WD~Tanganyika,431731]]'
-- "[[_Standards/WikiData/WD~Zanzibar Islands,1774]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Tanzania,584243]]"
+- "[[_Standards/WikiData/WD~Zanzibar_Islands,1774]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Tanzania,584243]]"
 language_used:
 - '[[_Standards/WikiData/WD~Rangi,584983]]'
 - '[[_Standards/WikiData/WD~Mambwe-Lungu,626210]]'
@@ -122,7 +122,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Malila,6743679]]'
 - '[[_Standards/WikiData/WD~Matengo,6786446]]'
 - '[[_Standards/WikiData/WD~Matumbi,6791974]]'
-- "[[_Standards/WikiData/WD~Mbamba Bay,6799604]]"
+- "[[_Standards/WikiData/WD~Mbamba_Bay,6799604]]"
 - '[[_Standards/WikiData/WD~Mbunga,6799817]]'
 - '[[_Standards/WikiData/WD~Mpoto,6928303]]'
 - '[[_Standards/WikiData/WD~Mwanga,6944666]]'
@@ -143,7 +143,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Sangu,7418149]]'
 - '[[_Standards/WikiData/WD~Suba-Simbiti,7630687]]'
 - '[[_Standards/WikiData/WD~Sumbwa,7637055]]'
-- "[[_Standards/WikiData/WD~Tanzanian Sign Language,7684177]]"
+- "[[_Standards/WikiData/WD~Tanzanian_Sign_Language,7684177]]"
 - '[[_Standards/WikiData/WD~Tongwe,7821200]]'
 - '[[_Standards/WikiData/WD~Vidunda,7928151]]'
 - '[[_Standards/WikiData/WD~Vinza,7932956]]'
@@ -191,38 +191,38 @@ language_used:
 - '[[_Standards/WikiData/WD~Asa,56620]]'
 - '[[_Standards/WikiData/WD~Alagwa,56621]]'
 different_from: '[[_Standards/WikiData/WD~Tanzania,655495]]'
-legislative_body: "[[_Standards/WikiData/WD~National Assembly,1138299]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Tanzania,1344143]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Kibo,1394606]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1138299]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Tanzania,1344143]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Kibo,1394606]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC power plugs and sockets_ British and related types,60740126]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~East Africa Time,1773949]]"
+- "[[_Standards/WikiData/WD~East_Africa_Time,1773949]]"
 - '[[_Standards/WikiData/WD~Africa_Dar_es_Salaam,4689489]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Tanzania,1999008]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Tanzania,2667349]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Tanzania,2670842]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Tanzania,1999008]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Tanzania,2667349]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Tanzania,2670842]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~114,2945964]]'
 - '[[_Standards/WikiData/WD~115,25648805]]'
-culture: "[[_Standards/WikiData/WD~culture of Tanzania,3007306]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Tanzania,3007306]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Tanzania,5015563]]"
-motto: "[[_Standards/WikiData/WD~Freedom and Unity,5500679]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Tanzania,7112481]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Tanzania,7241291]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of Tanzania,7241291]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Tanzania,5015563]]"
+motto: "[[_Standards/WikiData/WD~Freedom_and_Unity,5500679]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Tanzania,7112481]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Tanzania,7241291]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Tanzania,7241291]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tanzania,11219653]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-head_of_state: "[[_Standards/WikiData/WD~Samia Hassan Suluhu,16193885]]"
-head_of_government: "[[_Standards/WikiData/WD~Samia Hassan Suluhu,16193885]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
-open_data_portal: "[[_Standards/WikiData/WD~Tanzania data portal,97284991]]"
+head_of_state: "[[_Standards/WikiData/WD~Samia_Hassan_Suluhu,16193885]]"
+head_of_government: "[[_Standards/WikiData/WD~Samia_Hassan_Suluhu,16193885]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+open_data_portal: "[[_Standards/WikiData/WD~Tanzania_data_portal,97284991]]"
 coordinate_location: "Point(34.853888888 -6.306944444)"
 demonym:
 - طانزاني
@@ -273,20 +273,20 @@ nominal_GDP:
 coordinates_of_southernmost_point: "Point(36.52013 -11.76089)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Rwanda,1037]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Denmark,35]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~Kenya,114]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
@@ -294,20 +294,20 @@ country: '[[_Standards/WikiData/WD~Tanzania,924]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Zambia,953]]'
 - '[[_Standards/WikiData/WD~Burundi,967]]'
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Malawi,1020]]'
 - '[[_Standards/WikiData/WD~Mozambique,1029]]'
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Rwanda,1037]]'
 - '[[_Standards/WikiData/WD~Seychelles,1042]]'
-- "[[_Standards/WikiData/WD~Lake Victoria,5505]]"
+- "[[_Standards/WikiData/WD~Lake_Victoria,5505]]"
 - '[[_Standards/WikiData/WD~Kenya,114]]'
-lowest_point: "[[_Standards/WikiData/WD~Indian Ocean,1239]]"
+lowest_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Swahili,7838]]'
 capital: '[[_Standards/WikiData/WD~Dodoma,3866]]'
-part_of: "[[_Standards/WikiData/WD~East Africa,27407]]"
+part_of: "[[_Standards/WikiData/WD~East_Africa,27407]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 3
 marriageable_age: 18

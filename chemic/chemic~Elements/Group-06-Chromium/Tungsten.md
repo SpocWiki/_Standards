@@ -3,15 +3,15 @@ type: Element
 SpocWebEntityId: 21970
 has_id_wikidata: Q743
 subclass_of:
-- "[[_Standards/WikiData/WD~heavy metal,105789]]"
+- "[[_Standards/WikiData/WD~heavy_metal,105789]]"
 - '[[_Standards/WikiData/WD~metal,11426]]'
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Fausto Elhuyar,182745]]"
+- "[[_Standards/WikiData/WD~Fausto_Elhuyar,182745]]"
 - '[[_Standards/WikiData/WD~infant,998]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 6,193280]]"
-- "[[_Standards/WikiData/WD~period 6,239813]]"
+- "[[_Standards/WikiData/WD~group_6,193280]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
 different_from: '[[_Standards/WikiData/WD~wolfram,231299]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~scheelite,409096]]'
@@ -20,24 +20,24 @@ made_from_material:
 - '[[_Standards/WikiData/WD~wolframite,541128]]'
 - '[[_Standards/WikiData/WD~rhabdoborite-(W),55876692]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~electron medium,96796052]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~tungsten exposure,21175400]]"
-has_effect: "[[_Standards/WikiData/WD~tungsten exposure,21175400]]"
+- "[[_Standards/WikiData/WD~electron_medium,96796052]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~tungsten_exposure,21175400]]"
+has_effect: "[[_Standards/WikiData/WD~tungsten_exposure,21175400]]"
 UMLS_CUI: C0041383
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Smelted%20metal%20tungsten%20is%20very%20brittle.webm"
 Common_Procurement_Vocabulary_code:
 - 14755000-8
 - 14755000
-named_after: "[[_Standards/WikiData/WD~Canis lupus,18498]]"
+named_after: "[[_Standards/WikiData/WD~Canis_lupus,18498]]"
 location_of_discovery: '[[_Standards/WikiData/WD~Spain,29]]'
 vapor_pressure: 0
 short_term_exposure_limit: 10

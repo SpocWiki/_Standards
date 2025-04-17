@@ -2,17 +2,17 @@
 aliases:
 - "Inorganic chemistry"
 has_id_wikidata: Q11165
-is_the_study_of: "[[_Standards/WikiData/WD~inorganic compound,190065]]"
+is_the_study_of: "[[_Standards/WikiData/WD~inorganic_compound,190065]]"
 instance_of:
-- "[[_Standards/WikiData/WD~branch of chemistry,11790203]]"
-- "[[_Standards/WikiData/WD~academic discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~inorganic chemist,71116296]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+practiced_by: "[[_Standards/WikiData/WD~inorganic_chemist,71116296]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 UMLS_CUI: C0008001
 MeSH_tree_code: H01.181.370
 part_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
-opposite_of: "[[_Standards/WikiData/WD~organic chemistry,11351]]"
+opposite_of: "[[_Standards/WikiData/WD~organic_chemistry,11351]]"
 All_Science_Journal_Classification_Codes: 1604
 OmegaWiki_Defined_Meaning: 1953
 Regensburg_Classification: VH

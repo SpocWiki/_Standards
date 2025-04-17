@@ -3,58 +3,58 @@ has_id_wikidata: Q4421
 has_part_s_:
 - '[[_Standards/WikiData/WD~taiga,69564]]'
 - '[[_Standards/WikiData/WD~vegetation,187997]]'
-- "[[_Standards/WikiData/WD~tropical forest,199403]]"
-- "[[_Standards/WikiData/WD~high forest,238804]]"
-- "[[_Standards/WikiData/WD~selection cutting,352238]]"
-- "[[_Standards/WikiData/WD~Laurel forest,788099]]"
+- "[[_Standards/WikiData/WD~tropical_forest,199403]]"
+- "[[_Standards/WikiData/WD~high_forest,238804]]"
+- "[[_Standards/WikiData/WD~selection_cutting,352238]]"
+- "[[_Standards/WikiData/WD~Laurel_forest,788099]]"
 - '[[_Standards/WikiData/WD~stand,830373]]'
-- "[[_Standards/WikiData/WD~tropical forest,1048194]]"
+- "[[_Standards/WikiData/WD~tropical_forest,1048194]]"
 - '[[_Standards/WikiData/WD~coppicing,1360410]]'
-- "[[_Standards/WikiData/WD~oak forest,2972109]]"
-- "[[_Standards/WikiData/WD~mixed forest,3079086]]"
-- "[[_Standards/WikiData/WD~temperate forest,3079197]]"
+- "[[_Standards/WikiData/WD~oak_forest,2972109]]"
+- "[[_Standards/WikiData/WD~mixed_forest,3079086]]"
+- "[[_Standards/WikiData/WD~temperate_forest,3079197]]"
 - '[[_Standards/WikiData/WD~Coppice,3514024]]'
 - '[[_Standards/WikiData/WD~Q3514028,3514028]]'
-- "[[_Standards/WikiData/WD~beech forest,11334401]]"
-- "[[_Standards/WikiData/WD~spruce-fir forests,13561020]]"
-- "[[_Standards/WikiData/WD~forest station,111340313]]"
+- "[[_Standards/WikiData/WD~beech_forest,11334401]]"
+- "[[_Standards/WikiData/WD~spruce-fir_forests,13561020]]"
+- "[[_Standards/WikiData/WD~forest_station,111340313]]"
 part_of:
 - '[[_Standards/WikiData/WD~biome,101998]]'
 - '[[_Standards/WikiData/WD~biosphere,42762]]'
-- "[[_Standards/WikiData/WD~natural environment,43619]]"
+- "[[_Standards/WikiData/WD~natural_environment,43619]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~biome,101998]]'
-- "[[_Standards/WikiData/WD~geographical feature,618123]]"
-- "[[_Standards/WikiData/WD~vegetational formation,2083910]]"
-- "[[_Standards/WikiData/WD~natural geographic entity,27096220]]"
+- "[[_Standards/WikiData/WD~geographical_feature,618123]]"
+- "[[_Standards/WikiData/WD~vegetational_formation,2083910]]"
+- "[[_Standards/WikiData/WD~natural_geographic_entity,27096220]]"
 - '[[_Standards/WikiData/WD~ecosystem,37813]]'
 model_item:
-- "[[_Standards/WikiData/WD~Amazon rainforest,177567]]"
-- "[[_Standards/WikiData/WD~Białowieża Forest,192666]]"
-- "[[_Standards/WikiData/WD~Tongass National Forest,1502633]]"
+- "[[_Standards/WikiData/WD~Amazon_rainforest,177567]]"
+- "[[_Standards/WikiData/WD~Białowieża_Forest,192666]]"
+- "[[_Standards/WikiData/WD~Tongass_National_Forest,1502633]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Green Map Icons,103892210]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Dictionary of Common Goods,120799836]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 different_from:
 - '[[_Standards/WikiData/WD~Forest,938229]]'
 - '[[_Standards/WikiData/WD~woodland,3241565]]'
-has_characteristic: "[[_Standards/WikiData/WD~geographic location,2221906]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox forest,10810677]]"
-instance_of: "[[_Standards/WikiData/WD~feature type,12046615]]"
+has_characteristic: "[[_Standards/WikiData/WD~geographic_location,2221906]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_forest,10810677]]"
+instance_of: "[[_Standards/WikiData/WD~feature_type,12046615]]"
 studied_in:
-- "[[_Standards/WikiData/WD~forestry science,19924411]]"
-- "[[_Standards/WikiData/WD~forest engineering,21655156]]"
+- "[[_Standards/WikiData/WD~forestry_science,19924411]]"
+- "[[_Standards/WikiData/WD~forest_engineering,21655156]]"
 OpenStreetMap_tag_or_key:
 - "Tag:landuse=forest"
 - "Tag:natural=wood"

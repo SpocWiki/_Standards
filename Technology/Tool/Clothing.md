@@ -13,32 +13,32 @@ manufacturer: '[[_Standards/WikiData/WD~tailor,242468]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~work,386724]]'
 - '[[_Standards/WikiData/WD~product,2424752]]'
-- "[[_Standards/WikiData/WD~artificial physical object,8205328]]"
-- "[[_Standards/WikiData/WD~flat object,113518695]]"
+- "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
+- "[[_Standards/WikiData/WD~flat_object,113518695]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
-has_characteristic: "[[_Standards/WikiData/WD~clothing sizes,1075138]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+has_characteristic: "[[_Standards/WikiData/WD~clothing_sizes,1075138]]"
 made_from_material:
-- "[[_Standards/WikiData/WD~artificial leather,1792537]]"
+- "[[_Standards/WikiData/WD~artificial_leather,1792537]]"
 - '[[_Standards/WikiData/WD~leather,286]]'
 - '[[_Standards/WikiData/WD~textile,28823]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of costume,2501507]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_costume,2501507]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Clothing,8079042]]'
 part_of:
-- "[[_Standards/WikiData/WD~clothing industry,11828862]]"
+- "[[_Standards/WikiData/WD~clothing_industry,11828862]]"
 - '[[_Standards/WikiData/WD~fashion,12684]]'
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~costume component,28935403]]"
-studied_in: "[[_Standards/WikiData/WD~clothing research,105812644]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~costume_component,28935403]]"
+studied_in: "[[_Standards/WikiData/WD~clothing_research,105812644]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
 earliest_date: "-170000"
 UMLS_CUI: C0009072
 MeSH_tree_code: J01.637.215

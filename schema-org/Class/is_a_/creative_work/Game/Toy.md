@@ -1,30 +1,30 @@
 ﻿---
 has_id_wikidata: Q11422
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 used_by:
 - '[[_Standards/WikiData/WD~educator,974144]]'
 - '[[_Standards/WikiData/WD~player,4197743]]'
 - '[[_Standards/WikiData/WD~child,7569]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~toy goods,1255568]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~toy_goods,1255568]]"
 partially_coincident_with:
 - '[[_Standards/WikiData/WD~simulacrum,1412596]]'
 - '[[_Standards/WikiData/WD~bucket,47107]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~tangible good,1485500]]"
+- "[[_Standards/WikiData/WD~tangible_good,1485500]]"
 - '[[_Standards/WikiData/WD~product,2424752]]'
-- "[[_Standards/WikiData/WD~recreative work,17538258]]"
-- "[[_Standards/WikiData/WD~recreational equipment,21550927]]"
+- "[[_Standards/WikiData/WD~recreative_work,17538258]]"
+- "[[_Standards/WikiData/WD~recreational_equipment,21550927]]"
 equivalent_class: "http://bibliograph.net/Toy"
 IPTC_NewsCode: mediatopic/20000254
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox toy,11016646]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_toy,11016646]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Toys,18177741]]'
 different_from: '[[_Standards/WikiData/WD~Q54894998,54894998]]'
-instance_of: "[[_Standards/WikiData/WD~product category,63981612]]"
+instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Child%20playing%20with%20a%20toy%20cart%20and%20horse.%20-front-%20%289726037522%29.jpg"
 has_use:
 - '[[_Standards/WikiData/WD~game,11410]]'

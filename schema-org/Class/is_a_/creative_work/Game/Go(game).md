@@ -3,35 +3,35 @@ aliases:
 - "Go (game)"
 has_id_wikidata: Q11413
 subclass_of:
-- "[[_Standards/WikiData/WD~board game,131436]]"
-- "[[_Standards/WikiData/WD~two-player game,7858742]]"
-- "[[_Standards/WikiData/WD~game on cell board,18703581]]"
+- "[[_Standards/WikiData/WD~board_game,131436]]"
+- "[[_Standards/WikiData/WD~two-player_game,7858742]]"
+- "[[_Standards/WikiData/WD~game_on_cell_board,18703581]]"
 different_from:
 - '[[_Standards/WikiData/WD~Go,219221]]'
 - '[[_Standards/WikiData/WD~Othello,748139]]'
-- "[[_Standards/WikiData/WD~Ludus latrunculorum,1700280]]"
+- "[[_Standards/WikiData/WD~Ludus_latrunculorum,1700280]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 authority:
-- "[[_Standards/WikiData/WD~International Go Federation,921135]]"
-- "[[_Standards/WikiData/WD~American Go Association,1112770]]"
-- "[[_Standards/WikiData/WD~Nihon Ki-in,1634097]]"
-- "[[_Standards/WikiData/WD~European Go Federation,2328638]]"
-instance_of: "[[_Standards/WikiData/WD~mind sport,1188693]]"
+- "[[_Standards/WikiData/WD~International_Go_Federation,921135]]"
+- "[[_Standards/WikiData/WD~American_Go_Association,1112770]]"
+- "[[_Standards/WikiData/WD~Nihon_Ki-in,1634097]]"
+- "[[_Standards/WikiData/WD~European_Go_Federation,2328638]]"
+instance_of: "[[_Standards/WikiData/WD~mind_sport,1188693]]"
 uses:
 - '[[_Standards/WikiData/WD~Goban,1352055]]'
-- "[[_Standards/WikiData/WD~Go stone,7887414]]"
-- "[[_Standards/WikiData/WD~go equipment,17640628]]"
-part_of: "[[_Standards/WikiData/WD~four arts of the Chinese scholar,1751511]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Go,2383545]]"
+- "[[_Standards/WikiData/WD~Go_stone,7887414]]"
+- "[[_Standards/WikiData/WD~go_equipment,17640628]]"
+part_of: "[[_Standards/WikiData/WD~four_arts_of_the_Chinese_scholar,1751511]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Go,2383545]]"
 practiced_by:
-- "[[_Standards/WikiData/WD~Go professional,3186699]]"
-- "[[_Standards/WikiData/WD~female Go player,11446504]]"
-- "[[_Standards/WikiData/WD~Go player,12039558]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Mathematics,8487137]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Beijing Municipal Intangible Cultural Heritage,10902288]]"
+- "[[_Standards/WikiData/WD~Go_professional,3186699]]"
+- "[[_Standards/WikiData/WD~female_Go_player,11446504]]"
+- "[[_Standards/WikiData/WD~Go_player,12039558]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Beijing_Municipal_Intangible_Cultural_Heritage,10902288]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Go,14614575]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/9x9%20Go.ogv"
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Go%20%28game%29%20pictogram.svg"

@@ -13,22 +13,22 @@ social_media_followers:
 EU_Corporate_body_code: ICJ
 inception: "1945"
 has_time_started: 1945-06 
-chairperson: "[[_Standards/WikiData/WD~Nawaf Salam,638463]]"
+chairperson: "[[_Standards/WikiData/WD~Nawaf_Salam,638463]]"
 different_from:
-- "[[_Standards/WikiData/WD~International Commission of Jurists,684800]]"
-- "[[_Standards/WikiData/WD~International Criminal Court,47488]]"
-headquarters_location: "[[_Standards/WikiData/WD~Peace Palace,834448]]"
+- "[[_Standards/WikiData/WD~International_Commission_of_Jurists,684800]]"
+- "[[_Standards/WikiData/WD~International_Criminal_Court,47488]]"
+headquarters_location: "[[_Standards/WikiData/WD~Peace_Palace,834448]]"
 replaces:
-- "[[_Standards/WikiData/WD~Permanent Court of International Justice,838946]]"
+- "[[_Standards/WikiData/WD~Permanent_Court_of_International_Justice,838946]]"
 part_of:
-- "[[_Standards/WikiData/WD~United Nations System,854218]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~United_Nations_System,854218]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 instance_of:
-- "[[_Standards/WikiData/WD~international court,1262438]]"
-- "[[_Standards/WikiData/WD~principal organ of the United Nations,15899789]]"
+- "[[_Standards/WikiData/WD~international_court,1262438]]"
+- "[[_Standards/WikiData/WD~principal_organ_of_the_United_Nations,15899789]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject Human Rights,13382529]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President of the International Court of Justice,19926443]]"
+- "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_the_International_Court_of_Justice,19926443]]"
 coordinate_location: "Point(4.295555555 52.086666666)"
 FAQ_URL:
 - "https://www.icj-cij.org/frequently-asked-questions"
@@ -49,14 +49,14 @@ official_website:
 - "https://icj-cij.org/es"
 - "https://icj-cij.org/ru"
 - "https://icj-cij.org/ch"
-parent_organization: "[[_Standards/WikiData/WD~United Nations,1065]]"
+parent_organization: "[[_Standards/WikiData/WD~United_Nations,1065]]"
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 country: '[[_Standards/WikiData/WD~Netherlands,55]]'
 member_count: 15
-location: "[[_Standards/WikiData/WD~The Hague,36600]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~The Hague,36600]]"
+location: "[[_Standards/WikiData/WD~The_Hague,36600]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~The_Hague,36600]]"
 image_of_interior: "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Hall%20de%20Justice%20de%20Palais%20de%20La%20Paix%20%C3%A0%20La%20Haye%20Pays-Bas.jpg"
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/International%20Court%20of%20Justice%20Seal.svg"
 OmegaWiki_Defined_Meaning: 1992

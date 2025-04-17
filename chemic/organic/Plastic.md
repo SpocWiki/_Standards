@@ -2,16 +2,16 @@
 has_id_wikidata: Q11474
 made_from_material:
 - '[[_Standards/WikiData/WD~polymer,81163]]'
-- "[[_Standards/WikiData/WD~fossil fuel,12748]]"
+- "[[_Standards/WikiData/WD~fossil_fuel,12748]]"
 subclass_of: '[[_Standards/WikiData/WD~material,214609]]'
-different_from: "[[_Standards/WikiData/WD~synthetic resin,1418040]]"
-described_by_source: "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-instance_of: "[[_Standards/WikiData/WD~organic matter,1783121]]"
+different_from: "[[_Standards/WikiData/WD~synthetic_resin,1418040]]"
+described_by_source: "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+instance_of: "[[_Standards/WikiData/WD~organic_matter,1783121]]"
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject Environment,5497659]]"
-- "[[_Standards/WikiData/WD~WikiProject Chemistry,8487234]]"
-- "[[_Standards/WikiData/WD~WikiProject Polymers,15885036]]"
-- "[[_Standards/WikiData/WD~WikiProject Materials,88425338]]"
+- "[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]"
+- "[[_Standards/WikiData/WD~WikiProject_Chemistry,8487234]]"
+- "[[_Standards/WikiData/WD~WikiProject_Polymers,15885036]]"
+- "[[_Standards/WikiData/WD~WikiProject_Materials,88425338]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Plastics,9001872]]'
 Baidu_Tieba_name: 塑料
 UMLS_CUI: C0032167

@@ -3,20 +3,20 @@ has_id_wikidata: Q11012
 has_part_s_:
 - '[[_Standards/WikiData/WD~sensor,167676]]'
 - '[[_Standards/WikiData/WD~actuator,423488]]'
-- "[[_Standards/WikiData/WD~energy source,1522115]]"
+- "[[_Standards/WikiData/WD~energy_source,1522115]]"
 - '[[_Standards/WikiData/WD~computer,68]]'
 studied_in: '[[_Standards/WikiData/WD~robotics,170978]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~automation,184199]]'
-- "[[_Standards/WikiData/WD~robot control,7353385]]"
-- "[[_Standards/WikiData/WD~artificial intelligence,11660]]"
-named_by: "[[_Standards/WikiData/WD~Josef Čapek,454568]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox robot,3579032]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of robots,4177396]]"
+- "[[_Standards/WikiData/WD~robot_control,7353385]]"
+- "[[_Standards/WikiData/WD~artificial_intelligence,11660]]"
+named_by: "[[_Standards/WikiData/WD~Josef_Čapek,454568]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_robot,3579032]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_robots,4177396]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~artificially intelligent entity,107307291]]"
+- "[[_Standards/WikiData/WD~artificially_intelligent_entity,107307291]]"
 - '[[_Standards/WikiData/WD~machine,11019]]'
-different_from: "[[_Standards/WikiData/WD~Wikimedia bot,108702521]]"
+different_from: "[[_Standards/WikiData/WD~Wikimedia_bot,108702521]]"
 Baidu_Tieba_name: 机器人
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla-optimus-bot-gen-2-scaled%20%28cropped%29.jpg"
 Nomenclature_for_Museum_Cataloging: 10471

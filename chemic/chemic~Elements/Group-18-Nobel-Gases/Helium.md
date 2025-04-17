@@ -14,36 +14,36 @@ Krugosvet_article: nauka_i_tehnika/himiya/GELI.html
 InChIKey: SWQJXJOGLNCZEY-UHFFFAOYSA-N
 ATC_code: V03AN03
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Norman Lockyer,127959]]"
-- "[[_Standards/WikiData/WD~Pierre Janssen,298581]]"
-- "[[_Standards/WikiData/WD~William Ramsay,950726]]"
+- "[[_Standards/WikiData/WD~Norman_Lockyer,127959]]"
+- "[[_Standards/WikiData/WD~Pierre_Janssen,298581]]"
+- "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
 named_after: '[[_Standards/WikiData/WD~Helios,134270]]'
 has_use:
-- "[[_Standards/WikiData/WD~food additive,189567]]"
+- "[[_Standards/WikiData/WD~food_additive,189567]]"
 - '[[_Standards/WikiData/WD~coolant,1056832]]'
 - '[[_Standards/WikiData/WD~component,1310239]]'
-- "[[_Standards/WikiData/WD~lifting gas,1408137]]"
+- "[[_Standards/WikiData/WD~lifting_gas,1408137]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 1,191936]]"
-- "[[_Standards/WikiData/WD~noble gases,19609]]"
+- "[[_Standards/WikiData/WD~period_1,191936]]"
+- "[[_Standards/WikiData/WD~noble_gases,19609]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~s-block,208106]]'
 - '[[_Standards/WikiData/WD~nonmetal,19600]]'
-- "[[_Standards/WikiData/WD~noble gases,19609]]"
+- "[[_Standards/WikiData/WD~noble_gases,19609]]"
 different_from: '[[_Standards/WikiData/WD~Hel,223931]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 conjugate_acid: '[[_Standards/WikiData/WD~hydridohelium(1+),1188583]]'
 antiparticle: '[[_Standards/WikiData/WD~anti-helium,1991752]]'
-by_product_of: "[[_Standards/WikiData/WD~natural-gas processing,2287558]]"
+by_product_of: "[[_Standards/WikiData/WD~natural-gas_processing,2287558]]"
 instance_of:
-- "[[_Standards/WikiData/WD~atmophile element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 has_characteristic:
 - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
 - '[[_Standards/WikiData/WD~odorlessness,30007162]]'

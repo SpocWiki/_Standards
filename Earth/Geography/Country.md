@@ -7,25 +7,25 @@ different_from:
 - '[[_Standards/WikiData/WD~state,7275]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~citizen,1020994]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~political territorial entity,1048835]]"
+- "[[_Standards/WikiData/WD~political_territorial_entity,1048835]]"
 - '[[_Standards/WikiData/WD~territory,4835091]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox country,5621162]]"
-- "[[_Standards/WikiData/WD~Template_Countries of Asia,5047]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_country,5621162]]"
+- "[[_Standards/WikiData/WD~Template_Countries_of_Asia,5047]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Countries,6988967]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Countries,8503406]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Countries,8503406]]"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9699162,9699162]]'
-contains_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~first-level administrative division,10864048]]"
+contains_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~first-level_administrative_division,10864048]]"
 named_after:
 - '[[_Standards/WikiData/WD~land,11081619]]'
 - '[[_Standards/WikiData/WD~side,30444261]]'
 instance_of:
-- "[[_Standards/WikiData/WD~administrative territorial entity type,15617994]]"
+- "[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]"
 - '[[_Standards/WikiData/WD~agent,24229398]]'
-- "[[_Standards/WikiData/WD~territorial entity type,104098715]]"
+- "[[_Standards/WikiData/WD~territorial_entity_type,104098715]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~country,22828881]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-opposite_of: "[[_Standards/WikiData/WD~rest of the world,61029267]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+opposite_of: "[[_Standards/WikiData/WD~rest_of_the_world,61029267]]"
 exact_match:
 - "https://w3id.org/italia/onto/CLV/Country"
 - "http://cv.iptc.org/newscodes/location/Country"

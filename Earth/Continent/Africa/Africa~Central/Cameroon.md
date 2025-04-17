@@ -1,44 +1,44 @@
 ---
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Cameroon,107152]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Cameroon,107152]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Lake Chad,125309]]"
-- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-- "[[_Standards/WikiData/WD~Gulf of Guinea,41430]]"
+- "[[_Standards/WikiData/WD~Lake_Chad,125309]]"
+- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+- "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Economic Community of Central African States,189966]]"
-- "[[_Standards/WikiData/WD~Bank of Central African States,189972]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~United Nations–African Union Hybrid Operation in Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]"
+- "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 - '[[_Standards/WikiData/WD~OHADA,2029901]]'
-- "[[_Standards/WikiData/WD~Gulf of Guinea Commission,2986587]]"
-- "[[_Standards/WikiData/WD~Lake Chad Basin Commission,2986599]]"
+- "[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587]]"
+- "[[_Standards/WikiData/WD~Lake_Chad_Basin_Commission,2986599]]"
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Multinational Joint Task Force,19429054]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Cameroon,136989]]"
-flag: "[[_Standards/WikiData/WD~flag of Cameroon,159872]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Multinational_Joint_Task_Force,19429054]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Cameroon,136989]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Cameroon,159872]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~West,165784]]'
 - '[[_Standards/WikiData/WD~Adamawa,351514]]'
@@ -46,21 +46,21 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Southwest,607499]]'
 - '[[_Standards/WikiData/WD~Centre,739951]]'
 - '[[_Standards/WikiData/WD~Northwest,823946]]'
-- "[[_Standards/WikiData/WD~Far North,823976]]"
+- "[[_Standards/WikiData/WD~Far_North,823976]]"
 - '[[_Standards/WikiData/WD~East,845168]]'
 - '[[_Standards/WikiData/WD~Littoral,845172]]'
 - '[[_Standards/WikiData/WD~South,857122]]'
-central_bank: "[[_Standards/WikiData/WD~Bank of Central African States,189972]]"
-highest_point: "[[_Standards/WikiData/WD~Mount Cameroon,190562]]"
-anthem: "[[_Standards/WikiData/WD~O Cameroon, Cradle of Our Forefathers,206429]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Cameroon,190562]]"
+anthem: "[[_Standards/WikiData/WD~O_Cameroon,_Cradle_of_Our_Forefathers,206429]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Tsushima,816736]]'
-lowest_point: "[[_Standards/WikiData/WD~Bight of Biafra,999031]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Cameroon,1143972]]"
+lowest_point: "[[_Standards/WikiData/WD~Bight_of_Biafra,999031]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Cameroon,1143972]]"
 language_used:
 - '[[_Standards/WikiData/WD~Leti,1345684]]'
 - '[[_Standards/WikiData/WD~Mofu-Gudur,1365132]]'
@@ -81,7 +81,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Mefele,3501871]]'
 - '[[_Standards/WikiData/WD~Mbuko,3502213]]'
 - '[[_Standards/WikiData/WD~Malgbe,3502224]]'
-- "[[_Standards/WikiData/WD~South Giziga,3502232]]"
+- "[[_Standards/WikiData/WD~South_Giziga,3502232]]"
 - '[[_Standards/WikiData/WD~Lagwan,3502264]]'
 - '[[_Standards/WikiData/WD~Maslam,3502273]]'
 - '[[_Standards/WikiData/WD~Muyang,3502301]]'
@@ -91,7 +91,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Cuvok,3515056]]'
 - '[[_Standards/WikiData/WD~Buwal,3515065]]'
 - '[[_Standards/WikiData/WD~Wuzlam,3515078]]'
-- "[[_Standards/WikiData/WD~North Giziga,3515084]]"
+- "[[_Standards/WikiData/WD~North_Giziga,3515084]]"
 - '[[_Standards/WikiData/WD~Vame,3515088]]'
 - '[[_Standards/WikiData/WD~Parkwa,3515096]]'
 - '[[_Standards/WikiData/WD~Daba,3913342]]'
@@ -185,10 +185,10 @@ language_used:
 - '[[_Standards/WikiData/WD~Ipulo,35408]]'
 - '[[_Standards/WikiData/WD~Suwu,35431]]'
 - '[[_Standards/WikiData/WD~Gyele,35434]]'
-- "[[_Standards/WikiData/WD~Jukun Takum,35447]]"
+- "[[_Standards/WikiData/WD~Jukun_Takum,35447]]"
 - '[[_Standards/WikiData/WD~Ceve,35449]]'
 - '[[_Standards/WikiData/WD~Ewondo,35459]]'
-- "[[_Standards/WikiData/WD~Cameroon Pidgin,35541]]"
+- "[[_Standards/WikiData/WD~Cameroon_Pidgin,35541]]"
 - '[[_Standards/WikiData/WD~Kare,35554]]'
 - '[[_Standards/WikiData/WD~Kemezung,35562]]'
 - '[[_Standards/WikiData/WD~Nzime,35566]]'
@@ -259,14 +259,14 @@ language_used:
 - '[[_Standards/WikiData/WD~Nzakambay,36374]]'
 - '[[_Standards/WikiData/WD~Nyong,36373]]'
 - '[[_Standards/WikiData/WD~Kutin,36377]]'
-- "[[_Standards/WikiData/WD~Chamba Leko,36381]]"
+- "[[_Standards/WikiData/WD~Chamba_Leko,36381]]"
 - '[[_Standards/WikiData/WD~Pol,36408]]'
 - '[[_Standards/WikiData/WD~Saari,36418]]'
 - '[[_Standards/WikiData/WD~Kpwe,36428]]'
 - '[[_Standards/WikiData/WD~Nizaa,36475]]'
 - '[[_Standards/WikiData/WD~Tikar,36483]]'
 - '[[_Standards/WikiData/WD~Tigon,36518]]'
-- "[[_Standards/WikiData/WD~Northwest Gbaya,36594]]"
+- "[[_Standards/WikiData/WD~Northwest_Gbaya,36594]]"
 - '[[_Standards/WikiData/WD~Tibea,36598]]'
 - '[[_Standards/WikiData/WD~Swo,36604]]'
 - '[[_Standards/WikiData/WD~Tuki,36621]]'
@@ -303,13 +303,13 @@ language_used:
 - '[[_Standards/WikiData/WD~Gimme,11152236]]'
 - '[[_Standards/WikiData/WD~Ncane,11297920]]'
 - '[[_Standards/WikiData/WD~Elip,12952414]]'
-- "[[_Standards/WikiData/WD~North Fali,12952419]]"
+- "[[_Standards/WikiData/WD~North_Fali,12952419]]"
 - '[[_Standards/WikiData/WD~Yangben,12953315]]'
 - '[[_Standards/WikiData/WD~Mmaala,13123461]]'
 - '[[_Standards/WikiData/WD~Mandi,13479983]]'
-- "[[_Standards/WikiData/WD~Central Kanuri,15637215]]"
-- "[[_Standards/WikiData/WD~South Fali,15637351]]"
-- "[[_Standards/WikiData/WD~Cameroon Mambila,19359039]]"
+- "[[_Standards/WikiData/WD~Central_Kanuri,15637215]]"
+- "[[_Standards/WikiData/WD~South_Fali,15637351]]"
+- "[[_Standards/WikiData/WD~Cameroon_Mambila,19359039]]"
 - '[[_Standards/WikiData/WD~Nyokon,19573407]]'
 - '[[_Standards/WikiData/WD~Nen,36632]]'
 - '[[_Standards/WikiData/WD~Tupuri,36646]]'
@@ -330,7 +330,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Yedina,56287]]'
 - '[[_Standards/WikiData/WD~Jimi,56288]]'
 - '[[_Standards/WikiData/WD~Jina,56297]]'
-- "[[_Standards/WikiData/WD~North Mofu,56303]]"
+- "[[_Standards/WikiData/WD~North_Mofu,56303]]"
 - '[[_Standards/WikiData/WD~Zizilivakan,56300]]'
 - '[[_Standards/WikiData/WD~Psikyɛ,56304]]'
 - '[[_Standards/WikiData/WD~Ɗugwor,56313]]'
@@ -345,48 +345,48 @@ language_used:
 - '[[_Standards/WikiData/WD~Zulgo-Gemzek,56800]]'
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
 different_from: '[[_Standards/WikiData/WD~Kamerun,1723009]]'
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~West Africa Time,1773995]]"
+- "[[_Standards/WikiData/WD~West_Africa_Time,1773995]]"
 - '[[_Standards/WikiData/WD~Africa_Douala,4689491]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Cameroon,2270864]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Cameroon,2354529]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Cameroon,2667589]]"
-culture: "[[_Standards/WikiData/WD~culture of Cameroon,3084522]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Cameroon,2270864]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Cameroon,2354529]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Cameroon,2667589]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Cameroon,3084522]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~republic,7270]]'
-executive_body: "[[_Standards/WikiData/WD~Government of Cameroon,5026456]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Cameroon,5026456]]"
 replaces:
 - '[[_Standards/WikiData/WD~Cameroon,5026500]]'
-- "[[_Standards/WikiData/WD~United Republic of Cameroon,60023785]]"
+- "[[_Standards/WikiData/WD~United_Republic_of_Cameroon,60023785]]"
 shares_border_with:
-- "[[_Standards/WikiData/WD~Equatorial Guinea,983]]"
+- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
 - '[[_Standards/WikiData/WD~Chad,657]]'
-- "[[_Standards/WikiData/WD~Central African Republic,929]]"
-- "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+- "[[_Standards/WikiData/WD~Central_African_Republic,929]]"
+- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
 country: '[[_Standards/WikiData/WD~Cameroon,1009]]'
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~French,150]]'
 capital: '[[_Standards/WikiData/WD~Yaoundé,3808]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central Africa,27433]]"
-part_of: "[[_Standards/WikiData/WD~Central Africa,27433]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
+part_of: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 4
 marriageable_age:
@@ -406,17 +406,17 @@ BTI_Status_Index:
 - 4.46
 literacy_rate: 75
 suicide_rate: 12.2
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Cameroon,7112220]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Cameroon,7112220]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cameroon,14615150]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Cameroon,17051823]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Cameroon,19158914]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Cameroon,25039919]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-head_of_government: "[[_Standards/WikiData/WD~Joseph Ngute,60441515]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Cameroon,17051823]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Cameroon,19158914]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Cameroon,25039919]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+head_of_government: "[[_Standards/WikiData/WD~Joseph_Ngute,60441515]]"
 coordinate_location: "Point(12.65 5.133333333)"
-studied_in: "[[_Standards/WikiData/WD~Cameroon studies,115669332]]"
+studied_in: "[[_Standards/WikiData/WD~Cameroon_studies,115669332]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q131315361,131315361]]'
 coordinates_of_easternmost_point: "Point(16.19101 2.21962)"
 official_website: "https://www.prc.cm/fr/"
@@ -480,7 +480,7 @@ Inequality_adjusted_Human_Development_Index: 0.393
 Happy_Planet_Index_score: 39.9
 Gini_coefficient: 46.6
 Human_Development_Index: 0.576
-head_of_state: "[[_Standards/WikiData/WD~Paul Biya,57272]]"
+head_of_state: "[[_Standards/WikiData/WD~Paul_Biya,57272]]"
 death_rate:
 - 8.16
 - 8.225

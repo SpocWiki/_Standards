@@ -3,19 +3,19 @@ has_id_wikidata: Q11432
 subclass_of: '[[_Standards/WikiData/WD~fluid,102205]]'
 has_characteristic: '[[_Standards/WikiData/WD~viscosity,128709]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q6509956,6509956]]'
-instance_of: "[[_Standards/WikiData/WD~fundamental state of matter,15831576]]"
-manifestation_of: "[[_Standards/WikiData/WD~gaseous state of matter,29147941]]"
+instance_of: "[[_Standards/WikiData/WD~fundamental_state_of_matter,15831576]]"
+manifestation_of: "[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]"
 MeSH_tree_code: D01.362
 less_than: '[[_Standards/WikiData/WD~liquid,11435]]'
 different_from:
 - '[[_Standards/WikiData/WD~Gaz,30067]]'
 - '[[_Standards/WikiData/WD~gasoline,39558]]'
-- "[[_Standards/WikiData/WD~natural gas,40858]]"
+- "[[_Standards/WikiData/WD~natural_gas,40858]]"
 OmegaWiki_Defined_Meaning: 1609
 Commons_category: Gases
 U_S_National_Archives_Identifier: 10637828

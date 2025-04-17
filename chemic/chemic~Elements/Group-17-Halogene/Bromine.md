@@ -3,8 +3,8 @@ type: Element
 SpocWebEntityId: 21933
 has_id_wikidata: Q879
 subclass_of:
-- "[[_Standards/WikiData/WD~chemical substance,79529]]"
-- "[[_Standards/WikiData/WD~diatomic nonmetal,19753344]]"
+- "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+- "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
 - '[[_Standards/WikiData/WD~nonmetal,19600]]'
 - '[[_Standards/WikiData/WD~halogens,19605]]'
 made_from_material:
@@ -12,22 +12,22 @@ made_from_material:
 - '[[_Standards/WikiData/WD~brine,214403]]'
 different_from: '[[_Standards/WikiData/WD~theobromine,206844]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 4,239825]]"
+- "[[_Standards/WikiData/WD~period_4,239825]]"
 - '[[_Standards/WikiData/WD~halogens,19605]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Antoine Jérôme Balard,314306]]"
-- "[[_Standards/WikiData/WD~Carl Jacob Löwig,65517]]"
+- "[[_Standards/WikiData/WD~Antoine_Jérôme_Balard,314306]]"
+- "[[_Standards/WikiData/WD~Carl_Jacob_Löwig,65517]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 named_after: '[[_Standards/WikiData/WD~stink,1519476]]'
-associated_hazard: "[[_Standards/WikiData/WD~bromine exposure,21173316]]"
+associated_hazard: "[[_Standards/WikiData/WD~bromine_exposure,21173316]]"
 UMLS_CUI: C0006223
 location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
 electronegativity: 3

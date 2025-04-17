@@ -8,11 +8,11 @@ subreddit: tea
 native_label:
 - tê
 - 茶
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Camellia sinensis,101815]]"
+natural_product_of_taxon: "[[_Standards/WikiData/WD~Camellia_sinensis,101815]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~tannin,187607]]'
-- "[[_Standards/WikiData/WD~hot water,1419245]]"
-- "[[_Standards/WikiData/WD~tea leaves,32022234]]"
+- "[[_Standards/WikiData/WD~hot_water,1419245]]"
+- "[[_Standards/WikiData/WD~tea_leaves,32022234]]"
 - '[[_Standards/WikiData/WD~water,283]]'
 - '[[_Standards/WikiData/WD~sugar,11002]]'
 - '[[_Standards/WikiData/WD~caffeine,60235]]'
@@ -21,32 +21,32 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~water,283]]'
 - '[[_Standards/WikiData/WD~caffeine,60235]]'
 different_from:
-- "[[_Standards/WikiData/WD~herbal tea,379932]]"
+- "[[_Standards/WikiData/WD~herbal_tea,379932]]"
 - '[[_Standards/WikiData/WD~tea,11090700]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory Dictionary of the Living Great Russian Language,1970746]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~stimulant foodstuff,1365365]]"
-- "[[_Standards/WikiData/WD~non-alcoholic beverage,2647467]]"
+- "[[_Standards/WikiData/WD~stimulant_foodstuff,1365365]]"
+- "[[_Standards/WikiData/WD~non-alcoholic_beverage,2647467]]"
 - '[[_Standards/WikiData/WD~tea,11090700]]'
-- "[[_Standards/WikiData/WD~hot beverage,19359564]]"
+- "[[_Standards/WikiData/WD~hot_beverage,19359564]]"
 - '[[_Standards/WikiData/WD~infusion,61951]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of tea,3137951]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_tea,3137951]]"
 fabrication_method:
 - '[[_Standards/WikiData/WD~steeping,3309953]]'
 - '[[_Standards/WikiData/WD~boiling,20074315]]'
-part_of: "[[_Standards/WikiData/WD~suutei tsai,3505826]]"
+part_of: "[[_Standards/WikiData/WD~suutei_tsai,3505826]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Teas,6307179]]'
-- "[[_Standards/WikiData/WD~Template_Infobox tea,6374344]]"
+- "[[_Standards/WikiData/WD~Template_Infobox_tea,6374344]]"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Tee2.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20in%20different%20grade%20of%20fermentation.jpg"
 UMLS_CUI: C0452440

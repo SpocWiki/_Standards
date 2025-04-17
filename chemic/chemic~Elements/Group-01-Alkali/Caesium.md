@@ -14,27 +14,27 @@ Krugosvet_article: himiya/ceziy
 InChI: InChI=1S/Cs
 InChIKey: TVFDJXOCXUVLDH-UHFFFAOYSA-N
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Robert Bunsen,71031]]"
-- "[[_Standards/WikiData/WD~Gustav Kirchhoff,60052]]"
+- "[[_Standards/WikiData/WD~Robert_Bunsen,71031]]"
+- "[[_Standards/WikiData/WD~Gustav_Kirchhoff,60052]]"
 has_characteristic: '[[_Standards/WikiData/WD~paramagnetism,188479]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~s-block,208106]]'
 - '[[_Standards/WikiData/WD~metal,11426]]'
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
 part_of:
-- "[[_Standards/WikiData/WD~period 6,239813]]"
-- "[[_Standards/WikiData/WD~group 1,10801007]]"
-- "[[_Standards/WikiData/WD~alkali metal,19557]]"
-named_after: "[[_Standards/WikiData/WD~sky blue,373160]]"
+- "[[_Standards/WikiData/WD~period_6,239813]]"
+- "[[_Standards/WikiData/WD~group_1,10801007]]"
+- "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+named_after: "[[_Standards/WikiData/WD~sky_blue,373160]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
 UMLS_CUI: C0007886
 Common_Procurement_Vocabulary_code:
 - 14771000-6

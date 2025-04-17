@@ -25,42 +25,42 @@ U_S_National_Archives_Identifier: 10639127
 subreddit: ChineseLanguage
 instance_of:
 - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
-- "[[_Standards/WikiData/WD~language group,941501]]"
-- "[[_Standards/WikiData/WD~modern language,1288568]]"
+- "[[_Standards/WikiData/WD~language_group,941501]]"
+- "[[_Standards/WikiData/WD~modern_language,1288568]]"
 writing_system:
-- "[[_Standards/WikiData/WD~traditional Chinese characters,178528]]"
-- "[[_Standards/WikiData/WD~simplified Chinese characters,185614]]"
-- "[[_Standards/WikiData/WD~Chinese characters,8201]]"
+- "[[_Standards/WikiData/WD~traditional_Chinese_characters,178528]]"
+- "[[_Standards/WikiData/WD~simplified_Chinese_characters,185614]]"
+- "[[_Standards/WikiData/WD~Chinese_characters,8201]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~analytic language,209544]]"
+- "[[_Standards/WikiData/WD~analytic_language,209544]]"
 - '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
-- "[[_Standards/WikiData/WD~isolating language,7423311]]"
+- "[[_Standards/WikiData/WD~isolating_language,7423311]]"
 studied_in: '[[_Standards/WikiData/WD~sinology,269915]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~Shaozhou Tuhua,1920769]]"
-- "[[_Standards/WikiData/WD~Ba-Shu Chinese,2371409]]"
+- "[[_Standards/WikiData/WD~Shaozhou_Tuhua,1920769]]"
+- "[[_Standards/WikiData/WD~Ba-Shu_Chinese,2371409]]"
 - '[[_Standards/WikiData/WD~Pinghua,2735715]]'
-- "[[_Standards/WikiData/WD~Yue Chinese,7033959]]"
+- "[[_Standards/WikiData/WD~Yue_Chinese,7033959]]"
 - '[[_Standards/WikiData/WD~Mandarin,9192]]'
-- "[[_Standards/WikiData/WD~Xiang Chinese,13220]]"
-- "[[_Standards/WikiData/WD~Hakka Chinese,33375]]"
-- "[[_Standards/WikiData/WD~Wu Chinese,34290]]"
+- "[[_Standards/WikiData/WD~Xiang_Chinese,13220]]"
+- "[[_Standards/WikiData/WD~Hakka_Chinese,33375]]"
+- "[[_Standards/WikiData/WD~Wu_Chinese,34290]]"
 - '[[_Standards/WikiData/WD~Jin,56479]]'
-- "[[_Standards/WikiData/WD~Min Chinese,56504]]"
-- "[[_Standards/WikiData/WD~Huizhou Chinese,56546]]"
-has_characteristic: "[[_Standards/WikiData/WD~varieties of Chinese,2748296]]"
+- "[[_Standards/WikiData/WD~Min_Chinese,56504]]"
+- "[[_Standards/WikiData/WD~Huizhou_Chinese,56546]]"
+has_characteristic: "[[_Standards/WikiData/WD~varieties_of_Chinese,2748296]]"
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Chinese language,10964946]]"
+- "[[_Standards/WikiData/WD~Template_Chinese_language,10964946]]"
 - '[[_Standards/WikiData/WD~Q22772532,22772532]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q18121684,18121684]]'
 ISO_639_3_code: zho
 Ethnologue_com_language_code: zho
 described_by_source:
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Ethnologue,14790]]'
 practiced_by:
-- "[[_Standards/WikiData/WD~Chinese student,99858726]]"
-- "[[_Standards/WikiData/WD~Chinese teacher,101444555]]"
+- "[[_Standards/WikiData/WD~Chinese_student,99858726]]"
+- "[[_Standards/WikiData/WD~Chinese_teacher,101444555]]"
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~Huáyǔ,107100968]]'
 - '[[_Standards/WikiData/WD~Sinitic,33857]]'
@@ -79,7 +79,7 @@ Library_of_Congress_Classification: PL1001-PL1960
 number_of_speakers_writers_or_signers: 1299877520
 country:
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 different_from: '[[_Standards/WikiData/WD~Sinitic,33857]]'
 subclass_of: '[[_Standards/WikiData/WD~Sino-Tibetan,45961]]'
 ABS_ASCL_2011_code: 71

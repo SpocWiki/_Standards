@@ -14,47 +14,47 @@ aliases:
 - Congo-Brazzaville
 - "Congo Republic"
 member_of:
-- "[[_Standards/WikiData/WD~African Union,7159]]"
-- "[[_Standards/WikiData/WD~Organization of the Petroleum Exporting Countries,7795]]"
+- "[[_Standards/WikiData/WD~African_Union,7159]]"
+- "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~Economic Community of Central African States,189966]]"
-- "[[_Standards/WikiData/WD~Bank of Central African States,189972]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~African Development Bank,340195]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]"
+- "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 - '[[_Standards/WikiData/WD~OHADA,2029901]]'
-- "[[_Standards/WikiData/WD~Gulf of Guinea Commission,2986587]]"
+- "[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587]]"
 - '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-part_of: "[[_Standards/WikiData/WD~Central Africa,27433]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central Africa,27433]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+part_of: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
-- "[[_Standards/WikiData/WD~South Africa,258]]"
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~South_Africa,258]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 official_language:
 - '[[_Standards/WikiData/WD~French,150]]'
 language_used:
@@ -81,7 +81,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Njebi,35923]]'
 - '[[_Standards/WikiData/WD~Ngungwel,35920]]'
 - '[[_Standards/WikiData/WD~Mbangwe,35928]]'
-- "[[_Standards/WikiData/WD~Ngbaka Gbaya,36022]]"
+- "[[_Standards/WikiData/WD~Ngbaka_Gbaya,36022]]"
 - '[[_Standards/WikiData/WD~Mboshi,36035]]'
 - '[[_Standards/WikiData/WD~Mboko,36058]]'
 - '[[_Standards/WikiData/WD~Mbere,36062]]'
@@ -89,8 +89,8 @@ language_used:
 - '[[_Standards/WikiData/WD~Lingala,36217]]'
 - '[[_Standards/WikiData/WD~Punu,36401]]'
 - '[[_Standards/WikiData/WD~Mbama,36407]]'
-- "[[_Standards/WikiData/WD~Central Teke,36473]]"
-- "[[_Standards/WikiData/WD~North Teke,36478]]"
+- "[[_Standards/WikiData/WD~Central_Teke,36473]]"
+- "[[_Standards/WikiData/WD~North_Teke,36478]]"
 - '[[_Standards/WikiData/WD~Teke-Laali,36543]]'
 - '[[_Standards/WikiData/WD~Kukuya,36560]]'
 - '[[_Standards/WikiData/WD~Fuumu,36603]]'
@@ -99,7 +99,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tsaangi,36675]]'
 - '[[_Standards/WikiData/WD~Wumbvu,36891]]'
 - '[[_Standards/WikiData/WD~Yaka,36909]]'
-- "[[_Standards/WikiData/WD~East Teke,2802914]]"
+- "[[_Standards/WikiData/WD~East_Teke,2802914]]"
 - '[[_Standards/WikiData/WD~Beembe,3196320]]'
 - '[[_Standards/WikiData/WD~Kunyi,3196559]]'
 - '[[_Standards/WikiData/WD~Laari,3217917]]'
@@ -112,7 +112,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kaamba,11042324]]'
 - '[[_Standards/WikiData/WD~Moye,11124792]]'
 - '[[_Standards/WikiData/WD~Monzombo,11154772]]'
-- "[[_Standards/WikiData/WD~Kituba (Congo),12953639]]"
+- "[[_Standards/WikiData/WD~Kituba_(Congo),12953639]]"
 - '[[_Standards/WikiData/WD~Teke-Tsaayi,33123613]]'
 BTI_Governance_Index:
 - 3
@@ -145,7 +145,7 @@ Happy_Planet_Index_score: 47.2
 Gini_coefficient: 48.9
 mobile_country_code: 629
 Human_Development_Index: 0.571
-head_of_state: "[[_Standards/WikiData/WD~Denis Sassou-Nguesso,57418]]"
+head_of_state: "[[_Standards/WikiData/WD~Denis_Sassou-Nguesso,57418]]"
 total_fertility_rate: 4.869
 death_rate:
 - 6.923
@@ -238,52 +238,52 @@ nominal_GDP:
 - 13366230821
 - 14615532210
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Cuvette-Ouest Department,125711]]"
+- "[[_Standards/WikiData/WD~Cuvette-Ouest_Department,125711]]"
 - '[[_Standards/WikiData/WD~Pointe-Noire,223920]]'
-- "[[_Standards/WikiData/WD~Plateaux Department,765370]]"
-- "[[_Standards/WikiData/WD~Sangha Department,775410]]"
-- "[[_Standards/WikiData/WD~Cuvette Department,780884]]"
-- "[[_Standards/WikiData/WD~Bouenza Department,827015]]"
-- "[[_Standards/WikiData/WD~Kouilou Department,855327]]"
-- "[[_Standards/WikiData/WD~Lékoumou Department,862753]]"
-- "[[_Standards/WikiData/WD~Likouala Department,863554]]"
-- "[[_Standards/WikiData/WD~Pool Department,864647]]"
-- "[[_Standards/WikiData/WD~Niari Department,969317]]"
+- "[[_Standards/WikiData/WD~Plateaux_Department,765370]]"
+- "[[_Standards/WikiData/WD~Sangha_Department,775410]]"
+- "[[_Standards/WikiData/WD~Cuvette_Department,780884]]"
+- "[[_Standards/WikiData/WD~Bouenza_Department,827015]]"
+- "[[_Standards/WikiData/WD~Kouilou_Department,855327]]"
+- "[[_Standards/WikiData/WD~Lékoumou_Department,862753]]"
+- "[[_Standards/WikiData/WD~Likouala_Department,863554]]"
+- "[[_Standards/WikiData/WD~Pool_Department,864647]]"
+- "[[_Standards/WikiData/WD~Niari_Department,969317]]"
 - '[[_Standards/WikiData/WD~Brazzaville,3844]]'
-flag: "[[_Standards/WikiData/WD~flag of the Republic of the Congo,163333]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of Central African States,189972]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of the Republic of the Congo,271186]]"
-anthem: "[[_Standards/WikiData/WD~La Congolaise,320708]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_Republic_of_the_Congo,163333]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Republic_of_the_Congo,271186]]"
+anthem: "[[_Standards/WikiData/WD~La_Congolaise,320708]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Seto,499493]]'
-culture: "[[_Standards/WikiData/WD~culture of the Republic of the Congo,967739]]"
-replaces: "[[_Standards/WikiData/WD~People's Republic of the Congo,1152126]]"
-follows: "[[_Standards/WikiData/WD~People's Republic of the Congo,1152126]]"
+culture: "[[_Standards/WikiData/WD~culture_of_the_Republic_of_the_Congo,967739]]"
+replaces: "[[_Standards/WikiData/WD~People's_Republic_of_the_Congo,1152126]]"
+follows: "[[_Standards/WikiData/WD~People's_Republic_of_the_Congo,1152126]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the Republic of the Congo,1417200]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the Republic of the Congo,2046858]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the Republic of the Congo,2603882]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Republic of the Congo,3092546]]"
-executive_body: "[[_Standards/WikiData/WD~Government of the Republic of the Congo,3112600]]"
-highest_point: "[[_Standards/WikiData/WD~Mont Nabemba,3113296]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Republic_of_the_Congo,1417200]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Republic_of_the_Congo,2046858]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Republic_of_the_Congo,2603882]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Republic_of_the_Congo,3092546]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_the_Republic_of_the_Congo,3112600]]"
+highest_point: "[[_Standards/WikiData/WD~Mont_Nabemba,3113296]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of the Republic of the Congo,4345421]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_the_Republic_of_the_Congo,4345421]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~117,4547615]]'
 - '[[_Standards/WikiData/WD~118,11185210]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Republic of the Congo,7112780]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Republic_of_the_Congo,7112780]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q8070006,8070006]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of the Republic of the Congo,10353660]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Republic_of_the_Congo,10353660]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Republic of the Congo,14616175]]"
-head_of_government: "[[_Standards/WikiData/WD~Clément Mouamba,23928873]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of the Republic of the Congo,30101451]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Republic_of_the_Congo,14616175]]"
+head_of_government: "[[_Standards/WikiData/WD~Clément_Mouamba,23928873]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_Republic_of_the_Congo,30101451]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~not-free country,47185282]]"
+- "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Republic+of+Congo.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Congo%20banner%20Congo%20River.JPG"
 pronunciation_audio:
@@ -311,13 +311,13 @@ ISNI: 0000000123242385
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20the%20Congo%20-%20Location%20Map%20%282011%29%20-%20COG%20-%20UNOCHA.svg"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Angola,916]]'
-- "[[_Standards/WikiData/WD~Central African Republic,929]]"
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Central_African_Republic,929]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
-country: "[[_Standards/WikiData/WD~Republic of the Congo,971]]"
+country: "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
 different_from:
-- "[[_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 named_after: '[[_Standards/WikiData/WD~Congo,3503]]'
 capital: '[[_Standards/WikiData/WD~Brazzaville,3844]]'
 located_in_time_zone:

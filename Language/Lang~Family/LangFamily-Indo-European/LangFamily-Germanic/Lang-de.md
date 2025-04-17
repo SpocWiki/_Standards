@@ -11,48 +11,48 @@ tags:
 - Lang/de
 has_id_wikidata: Q188
 has_grammatical_case:
-- "[[_Standards/WikiData/WD~nominative case,131105]]"
-- "[[_Standards/WikiData/WD~dative case,145599]]"
-- "[[_Standards/WikiData/WD~accusative case,146078]]"
-- "[[_Standards/WikiData/WD~genitive case,146233]]"
+- "[[_Standards/WikiData/WD~nominative_case,131105]]"
+- "[[_Standards/WikiData/WD~dative_case,145599]]"
+- "[[_Standards/WikiData/WD~accusative_case,146078]]"
+- "[[_Standards/WikiData/WD~genitive_case,146233]]"
 studied_in:
-- "[[_Standards/WikiData/WD~German studies,166153]]"
-- "[[_Standards/WikiData/WD~theological languages,108000026]]"
+- "[[_Standards/WikiData/WD~German_studies,166153]]"
+- "[[_Standards/WikiData/WD~theological_languages,108000026]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative–accusative language,178435]]"
+- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
 - '[[_Standards/WikiData/WD~stress,181767]]'
-- "[[_Standards/WikiData/WD~fusional language,318917]]"
+- "[[_Standards/WikiData/WD~fusional_language,318917]]"
 - '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
 - '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
-- "[[_Standards/WikiData/WD~V2 word order,1516105]]"
+- "[[_Standards/WikiData/WD~V2_word_order,1516105]]"
 - '[[_Standards/WikiData/WD~time–manner–place,7806656]]'
-- "[[_Standards/WikiData/WD~stress-timed language,7888721]]"
+- "[[_Standards/WikiData/WD~stress-timed_language,7888721]]"
 - '[[_Standards/WikiData/WD~adjective-noun,74834637]]'
 indigenous_to:
-- "[[_Standards/WikiData/WD~Karlovy Vary Region,191091]]"
-- "[[_Standards/WikiData/WD~Ústí nad Labem Region,192702]]"
-- "[[_Standards/WikiData/WD~Trentino-South Tyrol,1237]]"
+- "[[_Standards/WikiData/WD~Karlovy_Vary_Region,191091]]"
+- "[[_Standards/WikiData/WD~Ústí_nad_Labem_Region,192702]]"
+- "[[_Standards/WikiData/WD~Trentino-South_Tyrol,1237]]"
 - '[[_Standards/WikiData/WD~Trentino,16289]]'
 - '[[_Standards/WikiData/WD~Austria,40]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Germans,42884]]'
 has_tense:
-- "[[_Standards/WikiData/WD~present tense,192613]]"
+- "[[_Standards/WikiData/WD~present_tense,192613]]"
 - '[[_Standards/WikiData/WD~preterite,442485]]'
-- "[[_Standards/WikiData/WD~future tense,501405]]"
-- "[[_Standards/WikiData/WD~perfect tense,625420]]"
+- "[[_Standards/WikiData/WD~future_tense,501405]]"
+- "[[_Standards/WikiData/WD~perfect_tense,625420]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~Upper German,263522]]"
-- "[[_Standards/WikiData/WD~Austrian German,306626]]"
-- "[[_Standards/WikiData/WD~Swiss German,387066]]"
+- "[[_Standards/WikiData/WD~Upper_German,263522]]"
+- "[[_Standards/WikiData/WD~Austrian_German,306626]]"
+- "[[_Standards/WikiData/WD~Swiss_German,387066]]"
 - '[[_Standards/WikiData/WD~Rotwelsch,503998]]'
-- "[[_Standards/WikiData/WD~Central German,704841]]"
-- "[[_Standards/WikiData/WD~Middle High German,837985]]"
+- "[[_Standards/WikiData/WD~Central_German,704841]]"
+- "[[_Standards/WikiData/WD~Middle_High_German,837985]]"
 - '[[_Standards/WikiData/WD~Denglisch,1187121]]'
-- "[[_Standards/WikiData/WD~Early New High German,1472199]]"
+- "[[_Standards/WikiData/WD~Early_New_High_German,1472199]]"
 - '[[_Standards/WikiData/WD~Yiddish,8641]]'
-- "[[_Standards/WikiData/WD~Pennsylvania German,22711]]"
-- "[[_Standards/WikiData/WD~Old High German,35218]]"
+- "[[_Standards/WikiData/WD~Pennsylvania_German,22711]]"
+- "[[_Standards/WikiData/WD~Old_High_German,35218]]"
 different_from: '[[_Standards/WikiData/WD~Deutsch,366068]]'
 has_grammatical_mood:
 - '[[_Standards/WikiData/WD~subjunctive,473746]]'
@@ -63,23 +63,23 @@ has_grammatical_gender:
 - '[[_Standards/WikiData/WD~feminine,1775415]]'
 - '[[_Standards/WikiData/WD~neuter,1775461]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
 writing_system:
-- "[[_Standards/WikiData/WD~German alphabet,912243]]"
-- "[[_Standards/WikiData/WD~Latin script,8229]]"
+- "[[_Standards/WikiData/WD~German_alphabet,912243]]"
+- "[[_Standards/WikiData/WD~Latin_script,8229]]"
 instance_of:
-- "[[_Standards/WikiData/WD~modern language,1288568]]"
+- "[[_Standards/WikiData/WD~modern_language,1288568]]"
 - '[[_Standards/WikiData/WD~language,34770]]'
 language_regulatory_body:
-- "[[_Standards/WikiData/WD~Leibniz Institute for the German Language,1664834]]"
-- "[[_Standards/WikiData/WD~Council for German Orthography,1939300]]"
+- "[[_Standards/WikiData/WD~Leibniz_Institute_for_the_German_Language,1664834]]"
+- "[[_Standards/WikiData/WD~Council_for_German_Orthography,1939300]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Goethe%20Faust%20banner.jpg"
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Legal%20status%20of%20German%20in%20Europe.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Legal%20status%20of%20German%20in%20the%20world.svg"
@@ -126,13 +126,13 @@ U_S_National_Archives_Identifier: 10640847
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q13203198,13203198]]'
 - '[[_Standards/WikiData/WD~Q56239992,56239992]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_German language,15133458]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1 safe,20672086]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1 National,29051546]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_German_language,15133458]]"
+UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
+Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
 has_paradigm_class:
-- "[[_Standards/WikiData/WD~adjectival declension,103383087]]"
+- "[[_Standards/WikiData/WD~adjectival_declension,103383087]]"
 - '[[_Standards/WikiData/WD~n-declension,104023380]]'
-- "[[_Standards/WikiData/WD~n-declension with genitive s,105099779]]"
+- "[[_Standards/WikiData/WD~n-declension_with_genitive_s,105099779]]"
 - '[[_Standards/WikiData/WD~-_(e)n,105571268]]'
 - '[[_Standards/WikiData/WD~-_¨e,105627457]]'
 - '[[_Standards/WikiData/WD~-_s,105628811]]'
@@ -141,10 +141,10 @@ has_paradigm_class:
 - '[[_Standards/WikiData/WD~-_-¨,124328315]]'
 - '[[_Standards/WikiData/WD~-(e)s_-e,124328320]]'
 - '[[_Standards/WikiData/WD~-(e)s_-¨e,124328321]]'
-edition_or_translation_of: "[[_Standards/WikiData/WD~Histoire des dalaï-lamas,106463729]]"
+edition_or_translation_of: "[[_Standards/WikiData/WD~Histoire_des_dalaï-lamas,106463729]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~South Germanic,106937689]]"
-- "[[_Standards/WikiData/WD~West Germanic,26721]]"
+- "[[_Standards/WikiData/WD~South_Germanic,106937689]]"
+- "[[_Standards/WikiData/WD~West_Germanic,26721]]"
 Baidu_Tieba_name: 德语
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20de.svg"
 Provenio_UUID: 17dee4a8-6ef7-4dd7-8141-41a45247cabb
@@ -165,7 +165,7 @@ country:
 - '[[_Standards/WikiData/WD~France,142]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
-- "[[_Standards/WikiData/WD~Czech Republic,213]]"
+- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 uses_capitalization_for: '[[_Standards/WikiData/WD~noun,1084]]'
 ISO_639_1_code: de
 Wikimedia_language_code: de

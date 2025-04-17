@@ -10,28 +10,28 @@ Commons_category: Zirconium
 Unicode_character: 鋯
 time_of_discovery_or_invention: "1789"
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Jöns Jacob Berzelius,151911]]"
-- "[[_Standards/WikiData/WD~Martin Heinrich Klaproth,160196]]"
-- "[[_Standards/WikiData/WD~Jan Hendrik de Boer,705255]]"
-- "[[_Standards/WikiData/WD~Anton Eduard van Arkel,902921]]"
+- "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
+- "[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196]]"
+- "[[_Standards/WikiData/WD~Jan_Hendrik_de_Boer,705255]]"
+- "[[_Standards/WikiData/WD~Anton_Eduard_van_Arkel,902921]]"
 named_after: '[[_Standards/WikiData/WD~zircon,178928]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 4,189302]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_4,189302]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 subclass_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~zirconium exposure,21175432]]"
-has_effect: "[[_Standards/WikiData/WD~zirconium exposure,21175432]]"
+- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~zirconium_exposure,21175432]]"
+has_effect: "[[_Standards/WikiData/WD~zirconium_exposure,21175432]]"
 UMLS_CUI: C0043506
 Common_Procurement_Vocabulary_code:
 - 14735000-2

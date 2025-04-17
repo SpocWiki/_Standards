@@ -5,72 +5,72 @@ coordinate_location:
 - "Point(121.983055555 31.393611111)"
 - "Point(90.936111111 33.444166666)"
 tributary:
-- "[[_Standards/WikiData/WD~Huangpu River,99785]]"
-- "[[_Standards/WikiData/WD~Zi River,198275]]"
-- "[[_Standards/WikiData/WD~Huai River,213576]]"
-- "[[_Standards/WikiData/WD~Min River,729269]]"
-- "[[_Standards/WikiData/WD~Xiang River,831884]]"
-- "[[_Standards/WikiData/WD~Qinhuai River,835550]]"
-- "[[_Standards/WikiData/WD~Han River,875573]]"
-- "[[_Standards/WikiData/WD~Yalong River,876857]]"
-- "[[_Standards/WikiData/WD~Jinsha River,1038418]]"
-- "[[_Standards/WikiData/WD~Jialing River,1045185]]"
-- "[[_Standards/WikiData/WD~Gan River,1046685]]"
-- "[[_Standards/WikiData/WD~Yuan River,1063190]]"
-- "[[_Standards/WikiData/WD~Chishui River,1074840]]"
-- "[[_Standards/WikiData/WD~Tuo River,1192771]]"
-- "[[_Standards/WikiData/WD~Wu River,1515792]]"
-- "[[_Standards/WikiData/WD~Qingyi River,2121660]]"
-- "[[_Standards/WikiData/WD~Shuiyang River,2280342]]"
-- "[[_Standards/WikiData/WD~Fushui River,3754891]]"
-- "[[_Standards/WikiData/WD~Qing River,5972495]]"
-- "[[_Standards/WikiData/WD~Maisu River,10875410]]"
-- "[[_Standards/WikiData/WD~Yili He,10884494]]"
-- "[[_Standards/WikiData/WD~De Qu,11071716]]"
-- "[[_Standards/WikiData/WD~Heng River,11121522]]"
+- "[[_Standards/WikiData/WD~Huangpu_River,99785]]"
+- "[[_Standards/WikiData/WD~Zi_River,198275]]"
+- "[[_Standards/WikiData/WD~Huai_River,213576]]"
+- "[[_Standards/WikiData/WD~Min_River,729269]]"
+- "[[_Standards/WikiData/WD~Xiang_River,831884]]"
+- "[[_Standards/WikiData/WD~Qinhuai_River,835550]]"
+- "[[_Standards/WikiData/WD~Han_River,875573]]"
+- "[[_Standards/WikiData/WD~Yalong_River,876857]]"
+- "[[_Standards/WikiData/WD~Jinsha_River,1038418]]"
+- "[[_Standards/WikiData/WD~Jialing_River,1045185]]"
+- "[[_Standards/WikiData/WD~Gan_River,1046685]]"
+- "[[_Standards/WikiData/WD~Yuan_River,1063190]]"
+- "[[_Standards/WikiData/WD~Chishui_River,1074840]]"
+- "[[_Standards/WikiData/WD~Tuo_River,1192771]]"
+- "[[_Standards/WikiData/WD~Wu_River,1515792]]"
+- "[[_Standards/WikiData/WD~Qingyi_River,2121660]]"
+- "[[_Standards/WikiData/WD~Shuiyang_River,2280342]]"
+- "[[_Standards/WikiData/WD~Fushui_River,3754891]]"
+- "[[_Standards/WikiData/WD~Qing_River,5972495]]"
+- "[[_Standards/WikiData/WD~Maisu_River,10875410]]"
+- "[[_Standards/WikiData/WD~Yili_He,10884494]]"
+- "[[_Standards/WikiData/WD~De_Qu,11071716]]"
+- "[[_Standards/WikiData/WD~Heng_River,11121522]]"
 - '[[_Standards/WikiData/WD~Ouqu,11122715]]'
 - '[[_Standards/WikiData/WD~Q11131507,11131507]]'
 - '[[_Standards/WikiData/WD~Q11570154,11570154]]'
-- "[[_Standards/WikiData/WD~Sewu Qu,15927904]]"
+- "[[_Standards/WikiData/WD~Sewu_Qu,15927904]]"
 - '[[_Standards/WikiData/WD~Q15928024,15928024]]'
-- "[[_Standards/WikiData/WD~Xixi River,15928206]]"
-- "[[_Standards/WikiData/WD~Meigu River,15928204]]"
-- "[[_Standards/WikiData/WD~Zengqu River,15928279]]"
-- "[[_Standards/WikiData/WD~Sequ River,15928322]]"
-- "[[_Standards/WikiData/WD~She Shui,29990120]]"
-- "[[_Standards/WikiData/WD~Ruxi River,31849196]]"
+- "[[_Standards/WikiData/WD~Xixi_River,15928206]]"
+- "[[_Standards/WikiData/WD~Meigu_River,15928204]]"
+- "[[_Standards/WikiData/WD~Zengqu_River,15928279]]"
+- "[[_Standards/WikiData/WD~Sequ_River,15928322]]"
+- "[[_Standards/WikiData/WD~She_Shui,29990120]]"
+- "[[_Standards/WikiData/WD~Ruxi_River,31849196]]"
 origin_of_the_watercourse:
-- "[[_Standards/WikiData/WD~Tibetan Plateau,179842]]"
-- "[[_Standards/WikiData/WD~Yangtze River source,15913751]]"
+- "[[_Standards/WikiData/WD~Tibetan_Plateau,179842]]"
+- "[[_Standards/WikiData/WD~Yangtze_River_source,15913751]]"
 lake_on_watercourse:
-- "[[_Standards/WikiData/WD~Poyang Lake,207690]]"
-- "[[_Standards/WikiData/WD~Dongting Lake,216083]]"
+- "[[_Standards/WikiData/WD~Poyang_Lake,207690]]"
+- "[[_Standards/WikiData/WD~Dongting_Lake,216083]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Small Soviet Encyclopedia,66386517]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 said_to_be_the_same_as:
-- "[[_Standards/WikiData/WD~Jinsha River,1038418]]"
-- "[[_Standards/WikiData/WD~Gar Qu,1493840]]"
-- "[[_Standards/WikiData/WD~Tongtian River,7821148]]"
+- "[[_Standards/WikiData/WD~Jinsha_River,1038418]]"
+- "[[_Standards/WikiData/WD~Gar_Qu,1493840]]"
+- "[[_Standards/WikiData/WD~Tongtian_River,7821148]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Q14374375,14374375]]'
-drainage_basin: "[[_Standards/WikiData/WD~Yangtze River basin,15758768]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~The Yangtze River Protection Law of the People's Republic of China,104942911]]"
+drainage_basin: "[[_Standards/WikiData/WD~Yangtze_River_basin,15758768]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~The_Yangtze_River_Protection_Law_of_the_People's_Republic_of_China,104942911]]"
 Wolfram_Language_entity_code: "Entity[\"River\", \"Yangtze::wqwy2\"]"
 instance_of: '[[_Standards/WikiData/WD~river,4022]]'
 located_in_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Shanghai,8686]]'
 - '[[_Standards/WikiData/WD~Chongqing,11725]]'
 - '[[_Standards/WikiData/WD~Jiangsu,16963]]'
-- "[[_Standards/WikiData/WD~Tibet Autonomous Region,17269]]"
+- "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
 - '[[_Standards/WikiData/WD~Sichuan,19770]]'
 - '[[_Standards/WikiData/WD~Anhui,40956]]'
 - '[[_Standards/WikiData/WD~Yunnan,43194]]'
@@ -80,11 +80,11 @@ located_in_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Jiangxi,57052]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 basin_country:
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-country: "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 length: 6300
 discharge: 31900
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~East China Sea,45341]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~East_China_Sea,45341]]"
 watershed_area: 1808500
 Commons_category: "Yangtze River"
 OmegaWiki_Defined_Meaning: 877007

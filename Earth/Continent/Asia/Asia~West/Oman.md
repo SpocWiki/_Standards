@@ -1,69 +1,69 @@
 ---
-different_from: "[[_Standards/WikiData/WD~Muscat and Oman,157734]]"
+different_from: "[[_Standards/WikiData/WD~Muscat_and_Oman,157734]]"
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~World Intellectual Property Organization,177773]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Maritime Organization,201054]]"
-- "[[_Standards/WikiData/WD~Cooperation Council for the Arab States of the Gulf,217172]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~International Renewable Energy Agency,392739]]"
-- "[[_Standards/WikiData/WD~International Organization for Migration,472311]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~Arab Monetary Fund,624307]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Fund for Agricultural Development,689859]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Arab Fund for Economic and Social Development,1137381]]"
-- "[[_Standards/WikiData/WD~Arab Bank for Economic Development in Africa,4783148]]"
-- "[[_Standards/WikiData/WD~Arab Information and Communication Technologies Organization,4783192]]"
-- "[[_Standards/WikiData/WD~Group on Earth Observations,5611262]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Maritime_Organization,201054]]"
+- "[[_Standards/WikiData/WD~Cooperation_Council_for_the_Arab_States_of_the_Gulf,217172]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~International_Renewable_Energy_Agency,392739]]"
+- "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
+- "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
+- "[[_Standards/WikiData/WD~Arab_Information_and_Communication_Technologies_Organization,4783192]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
 - '[[_Standards/WikiData/WD~Q12183902,12183902]]'
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Arab League,7172]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Arab_League,7172]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-flag: "[[_Standards/WikiData/WD~flag of Oman,165550]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Oman,207285]]"
-culture: "[[_Standards/WikiData/WD~culture of Oman,245626]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Oman,165550]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Oman,207285]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Oman,245626]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Musandam Governorate,372144]]"
-- "[[_Standards/WikiData/WD~Muscat Governorate,544762]]"
-- "[[_Standards/WikiData/WD~Ad Dakhiliyah Governorate,792550]]"
-- "[[_Standards/WikiData/WD~Al Buraimi Governorate,852039]]"
-- "[[_Standards/WikiData/WD~Al Wusta Governorate,958518]]"
-- "[[_Standards/WikiData/WD~Dhofar Governorate,1207752]]"
-- "[[_Standards/WikiData/WD~Ad Dhahirah Governorate,1468596]]"
-- "[[_Standards/WikiData/WD~Ash Sharqiyah North Governorate,4501876]]"
-- "[[_Standards/WikiData/WD~Ash Sharqiyah South Governorate,4501894]]"
-- "[[_Standards/WikiData/WD~Al Batinah North Governorate,4703564]]"
-- "[[_Standards/WikiData/WD~Al Batinah South Governorate,4703565]]"
+- "[[_Standards/WikiData/WD~Musandam_Governorate,372144]]"
+- "[[_Standards/WikiData/WD~Muscat_Governorate,544762]]"
+- "[[_Standards/WikiData/WD~Ad_Dakhiliyah_Governorate,792550]]"
+- "[[_Standards/WikiData/WD~Al_Buraimi_Governorate,852039]]"
+- "[[_Standards/WikiData/WD~Al_Wusta_Governorate,958518]]"
+- "[[_Standards/WikiData/WD~Dhofar_Governorate,1207752]]"
+- "[[_Standards/WikiData/WD~Ad_Dhahirah_Governorate,1468596]]"
+- "[[_Standards/WikiData/WD~Ash_Sharqiyah_North_Governorate,4501876]]"
+- "[[_Standards/WikiData/WD~Ash_Sharqiyah_South_Governorate,4501894]]"
+- "[[_Standards/WikiData/WD~Al_Batinah_North_Governorate,4703564]]"
+- "[[_Standards/WikiData/WD~Al_Batinah_South_Governorate,4703565]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-anthem: "[[_Standards/WikiData/WD~Nashid as-Salaam as-Sultani,634111]]"
-lowest_point: "[[_Standards/WikiData/WD~Majlis al Jinn,957114]]"
-highest_point: "[[_Standards/WikiData/WD~Jebel Shams,1261915]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+anthem: "[[_Standards/WikiData/WD~Nashid_as-Salaam_as-Sultani,634111]]"
+lowest_point: "[[_Standards/WikiData/WD~Majlis_al_Jinn,957114]]"
+highest_point: "[[_Standards/WikiData/WD~Jebel_Shams,1261915]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Oman,1503746]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Oman,1505216]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Oman,2087487]]"
-replaces: "[[_Standards/WikiData/WD~Oman proper,2342282]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Oman,1503746]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Oman,1505216]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Oman,2087487]]"
+replaces: "[[_Standards/WikiData/WD~Oman_proper,2342282]]"
 language_used:
 - '[[_Standards/WikiData/WD~Bathari,2586893]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
@@ -73,36 +73,36 @@ language_used:
 - '[[_Standards/WikiData/WD~Harsusi,33423]]'
 - '[[_Standards/WikiData/WD~Shehri,33445]]'
 - '[[_Standards/WikiData/WD~Kumzari,36158]]'
-- "[[_Standards/WikiData/WD~Modern Standard Arabic,56467]]"
-- "[[_Standards/WikiData/WD~Dhofari Arabic,56565]]"
-- "[[_Standards/WikiData/WD~Shihhi Arabic,56571]]"
-- "[[_Standards/WikiData/WD~Omani Arabic,56630]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Oman,2982301]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Oman,3488501]]"
+- "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
+- "[[_Standards/WikiData/WD~Dhofari_Arabic,56565]]"
+- "[[_Standards/WikiData/WD~Shihhi_Arabic,56571]]"
+- "[[_Standards/WikiData/WD~Omani_Arabic,56630]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Oman,2982301]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Oman,3488501]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 - '[[_Standards/WikiData/WD~sultanate,12759805]]'
 - '[[_Standards/WikiData/WD~country,6256]]'
 emergency_phone_number: '[[_Standards/WikiData/WD~968,4676624]]'
-executive_body: "[[_Standards/WikiData/WD~Cabinet of Oman,5015541]]"
-legislative_body: "[[_Standards/WikiData/WD~Council of Oman,5176472]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Subdivisions of Oman,6352775]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Oman,7112399]]"
+executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Oman,5015541]]"
+legislative_body: "[[_Standards/WikiData/WD~Council_of_Oman,5176472]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Subdivisions_of_Oman,6352775]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Oman,7112399]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q8066832,8066832]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Oman,10815243]]'
-head_of_state: "[[_Standards/WikiData/WD~Haitham bin Tarik Al Said,12250314]]"
-head_of_government: "[[_Standards/WikiData/WD~Haitham bin Tarik Al Said,12250314]]"
+head_of_state: "[[_Standards/WikiData/WD~Haitham_bin_Tarik_Al_Said,12250314]]"
+head_of_government: "[[_Standards/WikiData/WD~Haitham_bin_Tarik_Al_Said,12250314]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21287531,21287531]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Sultan of Oman,28478447]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Sultan of Oman,28478447]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Sultan_of_Oman,28478447]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Sultan_of_Oman,28478447]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 part_of:
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-- "[[_Standards/WikiData/WD~Gulf States,109647832]]"
-- "[[_Standards/WikiData/WD~Middle East,7204]]"
-- "[[_Standards/WikiData/WD~West Asia,27293]]"
-open_data_portal: "[[_Standards/WikiData/WD~Oman Open data portal,97097275]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~Gulf_States,109647832]]"
+- "[[_Standards/WikiData/WD~Middle_East,7204]]"
+- "[[_Standards/WikiData/WD~West_Asia,27293]]"
+open_data_portal: "[[_Standards/WikiData/WD~Oman_Open_data_portal,97097275]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Muscat,109529041]]'
 - '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
@@ -152,15 +152,15 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nakhal%20Fort%20Sulta
 MeSH_tree_code: Z01.252.245.500.600
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Yemen,805]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
@@ -168,12 +168,12 @@ religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Yemen,805]]'
-- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-- "[[_Standards/WikiData/WD~United Arab Emirates,878]]"
+- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 country: '[[_Standards/WikiData/WD~Oman,842]]'
 capital: '[[_Standards/WikiData/WD~Muscat,3826]]'
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Arabian Peninsula,31945]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Arabian_Peninsula,31945]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 Democracy_Index: 3
 unemployment_rate: 16

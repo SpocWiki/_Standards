@@ -6,13 +6,13 @@ hashtag:
 named_after: '[[_Standards/WikiData/WD~papyrus,125576]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~dye,189720]]'
-- "[[_Standards/WikiData/WD~wood fiber,1625473]]"
+- "[[_Standards/WikiData/WD~wood_fiber,1625473]]"
 - '[[_Standards/WikiData/WD~flax,47089651]]'
 - '[[_Standards/WikiData/WD~bleach,11587]]'
 different_from:
-- "[[_Standards/WikiData/WD~electronic paper,189897]]"
+- "[[_Standards/WikiData/WD~electronic_paper,189897]]"
 - '[[_Standards/WikiData/WD~parchment,226697]]'
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~slip of paper,196878]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~slip_of_paper,196878]]"
 instance_of: '[[_Standards/WikiData/WD~material,214609]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~hygroscopy,216678]]'
@@ -22,18 +22,18 @@ has_characteristic:
 fabrication_method: '[[_Standards/WikiData/WD~papermaking,335415]]'
 has_use: '[[_Standards/WikiData/WD~substrate,436625]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of paper,1811550]]"
-subclass_of: "[[_Standards/WikiData/WD~manufactured product,3406743]]"
-studied_in: "[[_Standards/WikiData/WD~paper studies,7132695]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_paper,1811550]]"
+subclass_of: "[[_Standards/WikiData/WD~manufactured_product,3406743]]"
+studied_in: "[[_Standards/WikiData/WD~paper_studies,7132695]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Paper,8513114]]'
 time_of_discovery_or_invention: "-0140"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Craft,110249806]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
 UMLS_CUI: C0030351
 International_Classification_for_Standards: 85.060
 MeSH_tree_code: J01.637.650

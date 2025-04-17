@@ -2,7 +2,7 @@
 has_id_wikidata: Q5152
 country_of_citizenship:
 - '[[_Standards/WikiData/WD~Turkey,43]]'
-- "[[_Standards/WikiData/WD~Ottoman Empire,12560]]"
+- "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~French,150]]'
 - '[[_Standards/WikiData/WD~Turkish,256]]'
@@ -11,69 +11,69 @@ occupation:
 - '[[_Standards/WikiData/WD~politician,82955]]'
 - '[[_Standards/WikiData/WD~statesperson,372436]]'
 - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
-- "[[_Standards/WikiData/WD~army officer,38239859]]"
+- "[[_Standards/WikiData/WD~army_officer,38239859]]"
 height: 174
 date_of_death: "1938-11-10"
 name_in_native_language: "Mustafa Kemal Atatürk"
 ethnic_group: '[[_Standards/WikiData/WD~Turks,84072]]'
-cause_of_death: "[[_Standards/WikiData/WD~liver cirrhosis,147778]]"
+cause_of_death: "[[_Standards/WikiData/WD~liver_cirrhosis,147778]]"
 award_received:
-- "[[_Standards/WikiData/WD~Iron Cross,154554]]"
-- "[[_Standards/WikiData/WD~Imtiyaz Medal,343913]]"
-- "[[_Standards/WikiData/WD~Medal of Independence,344339]]"
-- "[[_Standards/WikiData/WD~Order of the Crown (Prussia),585238]]"
-- "[[_Standards/WikiData/WD~Military Merit Medal (Austria-Hungary),666722]]"
-- "[[_Standards/WikiData/WD~Military Merit Cross,701262]]"
-- "[[_Standards/WikiData/WD~Gallipoli Star,1313499]]"
-- "[[_Standards/WikiData/WD~Order of St Alexander,1814133]]"
-- "[[_Standards/WikiData/WD~Order of Osmanieh,1882991]]"
-- "[[_Standards/WikiData/WD~Liakat Medal,2379392]]"
-- "[[_Standards/WikiData/WD~Iron Cross 2nd Class,11371757]]"
-- "[[_Standards/WikiData/WD~Military Merit Cross III. Class,15831416]]"
-- "[[_Standards/WikiData/WD~1st class, Order of the Medjidie,17518393]]"
-- "[[_Standards/WikiData/WD~Silver Military Merit Medal,29834198]]"
-- "[[_Standards/WikiData/WD~Bronze Military Merit Medal,29834301]]"
-- "[[_Standards/WikiData/WD~5th class, Order of the Medjidie,66196970]]"
-- "[[_Standards/WikiData/WD~2nd class, Order of the Medjidie,98594851]]"
-- "[[_Standards/WikiData/WD~1st Class Order of the Crown,99659751]]"
-- "[[_Standards/WikiData/WD~Order of Osmanieh 2nd Class,106483065]]"
-- "[[_Standards/WikiData/WD~Order of Osmanieh 3rd Class,106483116]]"
-- "[[_Standards/WikiData/WD~Order of Osmanieh 4th Class,106483250]]"
-place_of_death: "[[_Standards/WikiData/WD~Dolmabahçe Palace,274141]]"
+- "[[_Standards/WikiData/WD~Iron_Cross,154554]]"
+- "[[_Standards/WikiData/WD~Imtiyaz_Medal,343913]]"
+- "[[_Standards/WikiData/WD~Medal_of_Independence,344339]]"
+- "[[_Standards/WikiData/WD~Order_of_the_Crown_(Prussia),585238]]"
+- "[[_Standards/WikiData/WD~Military_Merit_Medal_(Austria-Hungary),666722]]"
+- "[[_Standards/WikiData/WD~Military_Merit_Cross,701262]]"
+- "[[_Standards/WikiData/WD~Gallipoli_Star,1313499]]"
+- "[[_Standards/WikiData/WD~Order_of_St_Alexander,1814133]]"
+- "[[_Standards/WikiData/WD~Order_of_Osmanieh,1882991]]"
+- "[[_Standards/WikiData/WD~Liakat_Medal,2379392]]"
+- "[[_Standards/WikiData/WD~Iron_Cross_2nd_Class,11371757]]"
+- "[[_Standards/WikiData/WD~Military_Merit_Cross_III._Class,15831416]]"
+- "[[_Standards/WikiData/WD~1st_class,_Order_of_the_Medjidie,17518393]]"
+- "[[_Standards/WikiData/WD~Silver_Military_Merit_Medal,29834198]]"
+- "[[_Standards/WikiData/WD~Bronze_Military_Merit_Medal,29834301]]"
+- "[[_Standards/WikiData/WD~5th_class,_Order_of_the_Medjidie,66196970]]"
+- "[[_Standards/WikiData/WD~2nd_class,_Order_of_the_Medjidie,98594851]]"
+- "[[_Standards/WikiData/WD~1st_Class_Order_of_the_Crown,99659751]]"
+- "[[_Standards/WikiData/WD~Order_of_Osmanieh_2nd_Class,106483065]]"
+- "[[_Standards/WikiData/WD~Order_of_Osmanieh_3rd_Class,106483116]]"
+- "[[_Standards/WikiData/WD~Order_of_Osmanieh_4th_Class,106483250]]"
+place_of_death: "[[_Standards/WikiData/WD~Dolmabahçe_Palace,274141]]"
 child:
-- "[[_Standards/WikiData/WD~Afet İnan,382163]]"
-- "[[_Standards/WikiData/WD~Sabiha Gökçen,459104]]"
-- "[[_Standards/WikiData/WD~Rukiye Erkin,6032908]]"
-- "[[_Standards/WikiData/WD~Nebile İrdelp,6032962]]"
-- "[[_Standards/WikiData/WD~Zehra Aylin,6056327]]"
-- "[[_Standards/WikiData/WD~Abdurrahim Tuncak,6069093]]"
-- "[[_Standards/WikiData/WD~Sığırtmaç Mustafa,6086341]]"
-- "[[_Standards/WikiData/WD~Ülkü Adatepe,6091846]]"
-spouse: "[[_Standards/WikiData/WD~Latife Uşaki,464994]]"
+- "[[_Standards/WikiData/WD~Afet_İnan,382163]]"
+- "[[_Standards/WikiData/WD~Sabiha_Gökçen,459104]]"
+- "[[_Standards/WikiData/WD~Rukiye_Erkin,6032908]]"
+- "[[_Standards/WikiData/WD~Nebile_İrdelp,6032962]]"
+- "[[_Standards/WikiData/WD~Zehra_Aylin,6056327]]"
+- "[[_Standards/WikiData/WD~Abdurrahim_Tuncak,6069093]]"
+- "[[_Standards/WikiData/WD~Sığırtmaç_Mustafa,6086341]]"
+- "[[_Standards/WikiData/WD~Ülkü_Adatepe,6091846]]"
+spouse: "[[_Standards/WikiData/WD~Latife_Uşaki,464994]]"
 place_of_burial:
 - '[[_Standards/WikiData/WD~Anıtkabir,615404]]'
-- "[[_Standards/WikiData/WD~Ethnography Museum of Ankara,4533056]]"
+- "[[_Standards/WikiData/WD~Ethnography_Museum_of_Ankara,4533056]]"
 member_of:
-- "[[_Standards/WikiData/WD~Committee of Union and Progress,1559352]]"
-- "[[_Standards/WikiData/WD~Homeland and Freedom,3099404]]"
+- "[[_Standards/WikiData/WD~Committee_of_Union_and_Progress,1559352]]"
+- "[[_Standards/WikiData/WD~Homeland_and_Freedom,3099404]]"
 position_held:
-- "[[_Standards/WikiData/WD~President of Turkey,1922067]]"
-- "[[_Standards/WikiData/WD~Prime Minister of Turkey,2430415]]"
-- "[[_Standards/WikiData/WD~Member of the Grand National Assembly of Turkey,21030356]]"
-- "[[_Standards/WikiData/WD~Chairman of the Cabinet of the Executive Ministers of Turkey,106614753]]"
-military_branch: "[[_Standards/WikiData/WD~Turkish Land Forces,1954282]]"
+- "[[_Standards/WikiData/WD~President_of_Turkey,1922067]]"
+- "[[_Standards/WikiData/WD~Prime_Minister_of_Turkey,2430415]]"
+- "[[_Standards/WikiData/WD~Member_of_the_Grand_National_Assembly_of_Turkey,21030356]]"
+- "[[_Standards/WikiData/WD~Chairman_of_the_Cabinet_of_the_Executive_Ministers_of_Turkey,106614753]]"
+military_branch: "[[_Standards/WikiData/WD~Turkish_Land_Forces,1954282]]"
 residence:
 - '[[_Standards/WikiData/WD~Şahinbey,2195037]]'
 - '[[_Standards/WikiData/WD~Thessaloniki,17151]]'
-father: "[[_Standards/WikiData/WD~Ali Rıza Efendi,2372811]]"
-mother: "[[_Standards/WikiData/WD~Zübeyde Hanım,2473445]]"
+father: "[[_Standards/WikiData/WD~Ali_Rıza_Efendi,2372811]]"
+mother: "[[_Standards/WikiData/WD~Zübeyde_Hanım,2473445]]"
 handedness: '[[_Standards/WikiData/WD~right-handedness,3039938]]'
 educated_at:
-- "[[_Standards/WikiData/WD~Monastir Military High School,3624140]]"
-- "[[_Standards/WikiData/WD~Ottoman Military College,7109936]]"
-- "[[_Standards/WikiData/WD~Turkish Military Academy,7855290]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
-sibling: "[[_Standards/WikiData/WD~Makbule Atadan,4275586]]"
+- "[[_Standards/WikiData/WD~Monastir_Military_High_School,3624140]]"
+- "[[_Standards/WikiData/WD~Ottoman_Military_College,7109936]]"
+- "[[_Standards/WikiData/WD~Turkish_Military_Academy,7855290]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+sibling: "[[_Standards/WikiData/WD~Makbule_Atadan,4275586]]"
 given_name:
 - '[[_Standards/WikiData/WD~Mustafa,4308518]]'
 - '[[_Standards/WikiData/WD~Kemal,17854733]]'
@@ -83,13 +83,13 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~mareşal,16151507]]'
 eye_color: '[[_Standards/WikiData/WD~blue,17122834]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~SourceWatch List of Dictators,121698959]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q25696239,25696239]]'
 - '[[_Standards/WikiData/WD~Q27966150,27966150]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mustafa Kemal Atatürk,25728043]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mustafa_Kemal_Atatürk,25728043]]"
 family_name: '[[_Standards/WikiData/WD~Atatürk,75659613]]'
 present_in_work: '[[_Standards/WikiData/WD~Q130714025,130714025]]'
 image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Ankara%20asv2021-10%20img08%20An%C4%B1tkabir.jpg"
@@ -114,7 +114,7 @@ writing_language: '[[_Standards/WikiData/WD~Turkish,256]]'
 native_language: '[[_Standards/WikiData/WD~Turkish,256]]'
 work_location: '[[_Standards/WikiData/WD~Ankara,3640]]'
 place_of_birth: '[[_Standards/WikiData/WD~Thessaloniki,17151]]'
-member_of_political_party: "[[_Standards/WikiData/WD~Republican People's Party,19079]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Republican_People's_Party,19079]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ---
 

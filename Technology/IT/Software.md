@@ -1,38 +1,38 @@
 ﻿---
 has_id_wikidata: Q7397
-studied_in: "[[_Standards/WikiData/WD~software engineering,80993]]"
+studied_in: "[[_Standards/WikiData/WD~software_engineering,80993]]"
 has_characteristic:
-- "[[_Standards/WikiData/WD~source code,128751]]"
-- "[[_Standards/WikiData/WD~software architecture,846636]]"
-- "[[_Standards/WikiData/WD~software testability,1307327]]"
-- "[[_Standards/WikiData/WD~software quality,1412670]]"
-- "[[_Standards/WikiData/WD~software feature,4485156]]"
-- "[[_Standards/WikiData/WD~software category,17155032]]"
+- "[[_Standards/WikiData/WD~source_code,128751]]"
+- "[[_Standards/WikiData/WD~software_architecture,846636]]"
+- "[[_Standards/WikiData/WD~software_testability,1307327]]"
+- "[[_Standards/WikiData/WD~software_quality,1412670]]"
+- "[[_Standards/WikiData/WD~software_feature,4485156]]"
+- "[[_Standards/WikiData/WD~software_category,17155032]]"
 model_item:
-- "[[_Standards/WikiData/WD~VLC media player,171477]]"
+- "[[_Standards/WikiData/WD~VLC_media_player,171477]]"
 - '[[_Standards/WikiData/WD~SQLite,319417]]'
-- "[[_Standards/WikiData/WD~GNOME Shell,1343860]]"
+- "[[_Standards/WikiData/WD~GNOME_Shell,1343860]]"
 - '[[_Standards/WikiData/WD~Firefox,698]]'
-- "[[_Standards/WikiData/WD~Windows XP,11248]]"
+- "[[_Standards/WikiData/WD~Windows_XP,11248]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~data,494756]]'
-- "[[_Standards/WikiData/WD~computer program,40056]]"
+- "[[_Standards/WikiData/WD~computer_program,40056]]"
 different_from:
 - '[[_Standards/WikiData/WD~Software,2297604]]'
-- "[[_Standards/WikiData/WD~computer program,40056]]"
+- "[[_Standards/WikiData/WD~computer_program,40056]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~product,2424752]]'
 - '[[_Standards/WikiData/WD~means,12774177]]'
-- "[[_Standards/WikiData/WD~creative work,17537576]]"
-- "[[_Standards/WikiData/WD~written work,47461344]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox software,5621231]]"
+- "[[_Standards/WikiData/WD~creative_work,17537576]]"
+- "[[_Standards/WikiData/WD~written_work,47461344]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_software,5621231]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12715472,12715472]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Software,15021033]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Software,15659621]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of software,17155144]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of software,18922260]]"
-has_list: "[[_Standards/WikiData/WD~list of softwares,25344612]]"
-instance_of: "[[_Standards/WikiData/WD~product category,63981612]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Software,15659621]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_software,17155144]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_software,18922260]]"
+has_list: "[[_Standards/WikiData/WD~list_of_softwares,25344612]]"
+instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
 Baidu_Tieba_name: 软件
 EntitySchema_for_this_class: E16
 properties_for_this_type:
@@ -73,7 +73,7 @@ properties_for_this_type:
 - "logo image"
 - developer
 Wikidata_property: "PRONOM software ID"
-opposite_of: "[[_Standards/WikiData/WD~computer hardware,3966]]"
+opposite_of: "[[_Standards/WikiData/WD~computer_hardware,3966]]"
 part_of: '[[_Standards/WikiData/WD~computer,68]]'
 OmegaWiki_Defined_Meaning: 3493
 All_Science_Journal_Classification_Codes: 1712

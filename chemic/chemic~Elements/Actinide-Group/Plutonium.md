@@ -4,18 +4,18 @@ SpocWebEntityId: 21989
 has_id_wikidata: Q1102
 named_after: '[[_Standards/WikiData/WD~Pluto,152262]]'
 part_of:
-- "[[_Standards/WikiData/WD~period 7,244979]]"
+- "[[_Standards/WikiData/WD~period_7,244979]]"
 - '[[_Standards/WikiData/WD~actinide,19577]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Arthur Wahl,472997]]"
-- "[[_Standards/WikiData/WD~Joseph W. Kennedy,1708246]]"
-- "[[_Standards/WikiData/WD~Edwin McMillan,19009]]"
-- "[[_Standards/WikiData/WD~Glenn T. Seaborg,48973]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Arthur_Wahl,472997]]"
+- "[[_Standards/WikiData/WD~Joseph_W._Kennedy,1708246]]"
+- "[[_Standards/WikiData/WD~Edwin_McMillan,19009]]"
+- "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 instance_of:
-- "[[_Standards/WikiData/WD~radioactive element,3658631]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox plutonium,11903475]]"
+- "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_plutonium,11903475]]"
 UMLS_CUI: C0032259
 plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20147.jpg"
 ionic_radius:

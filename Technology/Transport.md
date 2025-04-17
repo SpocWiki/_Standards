@@ -3,45 +3,45 @@ aliases:
 - Transportation
 - Transport
 has_id_wikidata: Q7590
-has_effect: "[[_Standards/WikiData/WD~air pollution,131123]]"
+has_effect: "[[_Standards/WikiData/WD~air_pollution,131123]]"
 has_use:
 - '[[_Standards/WikiData/WD~logistics,177777]]'
 - '[[_Standards/WikiData/WD~transport,12048048]]'
 - '[[_Standards/WikiData/WD~travel,61509]]'
-has_characteristic: "[[_Standards/WikiData/WD~mode of transport,334166]]"
+has_characteristic: "[[_Standards/WikiData/WD~mode_of_transport,334166]]"
 has_part_s_:
-- "[[_Standards/WikiData/WD~mode of transport,334166]]"
-- "[[_Standards/WikiData/WD~rail transport,3565868]]"
+- "[[_Standards/WikiData/WD~mode_of_transport,334166]]"
+- "[[_Standards/WikiData/WD~rail_transport,3565868]]"
 uses:
-- "[[_Standards/WikiData/WD~transport infrastructure,376799]]"
+- "[[_Standards/WikiData/WD~transport_infrastructure,376799]]"
 - '[[_Standards/WikiData/WD~agent,24229398]]'
-- "[[_Standards/WikiData/WD~fossil fuel,12748]]"
+- "[[_Standards/WikiData/WD~fossil_fuel,12748]]"
 - '[[_Standards/WikiData/WD~vehicle,42889]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~intentional human activity,451967]]"
-- "[[_Standards/WikiData/WD~material flow,4284762]]"
+- "[[_Standards/WikiData/WD~intentional_human_activity,451967]]"
+- "[[_Standards/WikiData/WD~material_flow,4284762]]"
 different_from:
-- "[[_Standards/WikiData/WD~traffic flow,746984]]"
+- "[[_Standards/WikiData/WD~traffic_flow,746984]]"
 - '[[_Standards/WikiData/WD~Q4462030,4462030]]'
 - '[[_Standards/WikiData/WD~travel,61509]]'
-geography_of_topic: "[[_Standards/WikiData/WD~transport geography,795612]]"
+geography_of_topic: "[[_Standards/WikiData/WD~transport_geography,795612]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Lean Logic,101314624]]"
-- "[[_Standards/WikiData/WD~Metropolitan Museum of Art Tagging Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 practiced_by: '[[_Standards/WikiData/WD~porter,1509714]]'
-studied_in: "[[_Standards/WikiData/WD~transport sciences,2516517]]"
+studied_in: "[[_Standards/WikiData/WD~transport_sciences,2516517]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Transport,6895441]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of transport,7112806]]"
-part_of: "[[_Standards/WikiData/WD~economic activity,8187769]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_transport,7112806]]"
+part_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Transport,11006251]]'
-- "[[_Standards/WikiData/WD~Template_Table of destinations,114538480]]"
+- "[[_Standards/WikiData/WD~Template_Table_of_destinations,114538480]]"
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~transport,12048048]]'
 - '[[_Standards/WikiData/WD~transportation,12162227]]'
-union_of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Transport.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-X-Javier-transport.wav"

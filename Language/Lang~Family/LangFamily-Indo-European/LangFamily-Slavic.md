@@ -6,20 +6,20 @@ writing_system: '[[_Standards/WikiData/WD~Glagolitic,145625]]'
 subclass_of:
 - '[[_Standards/WikiData/WD~Balto-Slavic,147356]]'
 - '[[_Standards/WikiData/WD~Indo-European,19860]]'
-studied_in: "[[_Standards/WikiData/WD~Slavic studies,156864]]"
+studied_in: "[[_Standards/WikiData/WD~Slavic_studies,156864]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 instance_of:
-- "[[_Standards/WikiData/WD~language group,941501]]"
-- "[[_Standards/WikiData/WD~language family,25295]]"
-category_populated_by: "[[_Standards/WikiData/WD~Template_Slavic languages,6231718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Slavic languages,6231718]]"
-culture: "[[_Standards/WikiData/WD~Slavic culture,66049360]]"
+- "[[_Standards/WikiData/WD~language_group,941501]]"
+- "[[_Standards/WikiData/WD~language_family,25295]]"
+category_populated_by: "[[_Standards/WikiData/WD~Template_Slavic_languages,6231718]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Slavic_languages,6231718]]"
+culture: "[[_Standards/WikiData/WD~Slavic_culture,66049360]]"
 distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Tabula%20Linguarum%20Slavicarum.png"
 exact_match: "http://publications.europa.eu/resource/authority/language/SLA"
 Universal_Decimal_Classification: 811.16
@@ -29,7 +29,7 @@ Stack_Exchange_tag:
 - "https://russian.stackexchange.com/tags/slavic"
 Linguist_List_code: slav
 Libris_URI: c9prr17w25qh0nx
-different_from: "[[_Standards/WikiData/WD~Church Slavonic,33251]]"
+different_from: "[[_Standards/WikiData/WD~Church_Slavonic,33251]]"
 indigenous_to: '[[_Standards/WikiData/WD~Slavs,40477]]'
 number_of_speakers_writers_or_signers: 315000000
 Dewey_Decimal_Classification: 491.8

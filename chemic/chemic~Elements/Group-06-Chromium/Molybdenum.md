@@ -2,45 +2,45 @@
 type: Element
 SpocWebEntityId: 21940
 has_id_wikidata: Q1053
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Wilhelm Scheele,70538]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Wilhelm_Scheele,70538]]"
 has_use:
 - '[[_Standards/WikiData/WD~fertilizer,83323]]'
-- "[[_Standards/WikiData/WD~electrical conductor,124291]]"
+- "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
 - '[[_Standards/WikiData/WD~adhesive,131790]]'
 - '[[_Standards/WikiData/WD~pigment,161179]]'
 - '[[_Standards/WikiData/WD~lubricant,323840]]'
-- "[[_Standards/WikiData/WD~thin layer chromatography,746133]]"
+- "[[_Standards/WikiData/WD~thin_layer_chromatography,746133]]"
 - '[[_Standards/WikiData/WD~hydrodesulfurization,899016]]'
-- "[[_Standards/WikiData/WD~Masson's trichrome stain,3325848]]"
+- "[[_Standards/WikiData/WD~Masson's_trichrome_stain,3325848]]"
 - '[[_Standards/WikiData/WD~catalyst,12385831]]'
-- "[[_Standards/WikiData/WD~Copper indium gallium selenide solar cells,31887]]"
+- "[[_Standards/WikiData/WD~Copper_indium_gallium_selenide_solar_cells,31887]]"
 - '[[_Standards/WikiData/WD~alloy,37756]]'
 part_of:
-- "[[_Standards/WikiData/WD~group 6,193280]]"
-- "[[_Standards/WikiData/WD~period 5,244982]]"
+- "[[_Standards/WikiData/WD~group_6,193280]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
 different_from: '[[_Standards/WikiData/WD~Mo,218120]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~period 5,244982]]"
-- "[[_Standards/WikiData/WD~transition metal,19588]]"
+- "[[_Standards/WikiData/WD~period_5,244982]]"
+- "[[_Standards/WikiData/WD~transition_metal,19588]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~molybdenite,382994]]'
 - '[[_Standards/WikiData/WD~wulfenite,421092]]'
 - '[[_Standards/WikiData/WD~powellite,2106979]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge,56441911]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace metal,7831165]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
 instance_of:
-- "[[_Standards/WikiData/WD~combustible powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~molybdenum exposure,21174934]]"
-has_effect: "[[_Standards/WikiData/WD~molybdenum exposure,21174934]]"
+- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+associated_hazard: "[[_Standards/WikiData/WD~molybdenum_exposure,21174934]]"
+has_effect: "[[_Standards/WikiData/WD~molybdenum_exposure,21174934]]"
 named_after: '[[_Standards/WikiData/WD~lead,708]]'
 location_of_discovery: '[[_Standards/WikiData/WD~Sweden,34]]'
 vapor_pressure: 0
