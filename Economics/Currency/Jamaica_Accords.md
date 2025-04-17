@@ -1,3 +1,7 @@
+---
+aliases:
+  - Jamaica Accords
+---
 
 
 #has_/time_/started :: 1976-01-07 
@@ -6,14 +10,14 @@
 ## #has_/text_of_/abstract 
 
 > The **Jamaica Accords** were a set of international agreements 
-> that ratified the end of the Bretton Woods monetary system. 
+> that ratified the end of the [[Bretton_Woods_Agreement|Bretton Woods monetary system]]. 
 > 
 > They took the form of recommendations to change the "articles of agreement" 
-> that the International Monetary Fund (IMF) was founded upon. 
+> that the [[../../UN(United_Nations)/IMF(International_Monetary_Fund)|International Monetary Fund]] (IMF) was founded upon. 
 > The agreement was concluded after meetings by a committee of the board of governors of the IMF, 
 > held on 7–8 January 1976 at Kingston, Jamaica.
 >
-> The accords allowed the price of gold to float with respect to the U.S. dollar and other currencies, 
+> The accords __allowed the price of gold to float__ with respect to the U.S. dollar and other currencies, 
 > albeit within a set of agreed constraints. 
 > 
 > In practice the dollar had been floating in this way, 
