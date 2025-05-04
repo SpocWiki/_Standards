@@ -273,7 +273,7 @@ Libris_URI: vs686bpd13rcfvg
 >  
 >  The UN is headquartered in [[Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City|New York-City]]  
 >  (in the United States, but with certain extraterritorial privileges), 
->  and the UN has other offices in [[Geneva]], [[Kenya/Counties/Nairobi.County]], [[Earth/Continent/Europe/Europe~Central/Austria/State/Wien,State/Wien,City|Wien,City]], 
+>  and the UN has other offices in [[Geneva]], [[Kenya/Counties/Nairobi.County]], [[Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City|Wien,City]], 
 >  and [[The_Hague]], where the [[UN(United_Nations)/ICJ(International_Court_of_Justice)]] is headquartered.
 >
 > The UN was established after World War II with the aim of preventing future world wars, 

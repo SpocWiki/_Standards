@@ -573,6 +573,31 @@ into a Subfolder named `France`, so that this Link into the Sub-Repository works
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
+## #has_/parts 
+
+Numbers are of 2022-06 
+
+| Community                                                        | Pop/M |    km² | GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                        |
+| ---------------------------------------------------------------- | ----: | -----: | -----: | -------: | ----- | --------------------------------------------------------- |
+| [[Spain/Provinces~Spain/Andalusia\|Andalusia]]                   | 8.631 | 87.268 |  160.0 |   23.218 | 0.853 | Rich cultural heritage; major agricultural producer       |
+| [[Spain/Provinces~Spain/Aragon\|Aragon]]                         | 1.351 | 47.719 |   46.9 |   34.658 | 0.889 | Diverse landscapes; significant renewable energy sector   |
+| [[Spain/Provinces~Spain/Asturias\|Asturias]]                     | 1.009 | 10.604 |   28.5 |   28.130 | 0.882 | Known for natural parks; aging population                 |
+| [[Spain/Provinces~Spain/Baleares\|Balearic Islands]]             | 1.231 |  4.992 |   42.4 |   34.381 | 0.853 | Tourism-driven economy; Mediterranean archipelago         |
+| [[Spain/Provinces~Spain/Basque_Country\|Basque Country]]         | 2.193 |  7.234 |   86.8 |   39.547 | 0.915 | Strong industrial base; high standard of living           |
+| [[Spain/Provinces~Spain/Canary-Islands\|Canary Islands]]         | 2.258 |  7.447 |   59.6 |   26.453 | 0.855 | Volcanic islands; significant tourism sector              |
+| [[Spain/Provinces~Spain/Cantabria\|Cantabria]]                   | 0.593 |  5.321 |   19.5 |   32.828 | 0.880 | Coastal region; rich in prehistoric sites                 |
+| [[Spain/Provinces~Spain/Castilla_y_León\|Castile and León]]      | 2.397 | 94.224 |   71.2 |   29.698 | 0.888 | Largest region by area; historical significance           |
+| [[Spain/Provinces~Spain/Castilla-La_Mancha\|Castilla-La Mancha]] | 2.120 | 79.461 |   55.4 |   26.453 | 0.852 | Agricultural heartland; famous for windmills              |
+| [[Spain/Provinces~Spain/Catalunya\|Catalonia]]                   | 8.119 | 32.114 |  286.3 |   35.325 | 0.897 | Economic powerhouse; distinct cultural identity           |
+| [[Spain/Provinces~Spain/Extremadura\|Extremadura]]               | 1.052 | 41.634 |   24.9 |   23.604 | 0.847 | Low population density; rich in natural resources         |
+| [[Spain/Provinces~Spain/Galicia\|Galicia]]                       | 2.705 | 29.574 |   77.5 |   28.644 | 0.880 | Atlantic coastline; strong fishing industry               |
+| [[Spain/Provinces~Spain/La_Rioja\|La Rioja]]                     | 0.324 |  5.045 |   10.6 |   32.828 | 0.899 | Renowned for wine production; small population            |
+| [[Spain/Provinces~Spain/Madrid,Region\|Madrid]]                  | 7.009 |  8.028 |  296.6 |   42.198 | 0.922 | Capital city; major financial and political center        |
+| [[Spain/Provinces~Spain/Murcia.Region/City/Murcia\|Murcia]]      | 1.568 | 11.313 |   40.6 |   25.887 | 0.863 | Agricultural economy; Mediterranean coastline             |
+| [[Spain/Provinces~Spain/Navarra\|Navarre]]                       | 0.678 | 10.391 |   25.2 |   37.088 | 0.905 | High-tech industries; strong fiscal autonomy              |
+| [[Spain/Provinces~Spain/Valencia,Region\|Valencian Community]]   | 5.319 | 23.255 |  140.8 |   26.453 | 0.875 | Popular tourist destination; diverse economy              |
+| [[Spain/Provinces~Spain/Andalusia/Ceuta\|Ceuta]]                 | 0.083 |   18.5 |    1.9 |   22.751 | 0.846 | Spanish enclave in North Africa; strategic port           |
+| [[Spain/Provinces~Spain/Andalusia/Melilla\|Melilla]]             | 0.085 |   12.3 |    1.8 |   20.479 | 0.827 | Spanish enclave in North Africa; multicultural population |
 
 ### #has_/image_for_/flag 
 
@@ -585,9 +610,9 @@ Population @2024 in 1000s.
 
 | City                                                                                                                       | Autonomous Community                                        |     Pop/k |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------: |
-| [[Spain/Provinces~Spain/Madrid.Region/counties~Comunidadde_Madrid/Madrid/cities~Madrid/Madrid.City\|Madrid.City]]          | Community of Madrid                                         | 3422.416 |
+| [[Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City\|Madrid.City]]          | Community of Madrid                                         | 3422.416 |
 | [[Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Barcelona-City\|Barcelona-City]]   | [[Spain/Provinces~Spain/Catalunya\|Catalunya]]              | 1686.208 |
-| [[Spain/Provinces~Spain/Valencia.Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City\|Valencia-City]] | [[Spain/Provinces~Spain/Valencia.Region\|Valencia.Region]]  |  824.340 |
+| [[Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City\|Valencia-City]] | [[Spain/Provinces~Spain/Valencia,Region\|Valencia.Region]]  |  824.340 |
 | [[Spain/Provinces~Spain/Aragon/Zaragoza.Province/City/Zaragoza\|Zaragoza]]                                                 | [[Spain/Provinces~Spain/Aragon\|Aragon]]                    |  691.037 |
 | [[Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla\|Sevilla]]                                                 | [[Spain/Provinces~Spain/Andalusia\|Andalusia]]              |  686.741 |
 | [[Spain/Provinces~Spain/Andalusia/Málaga.Province/City/Malaga\|Malaga]]                                                    | [[Spain/Provinces~Spain/Andalusia\|Andalusia]]              |  592.346 |
@@ -602,10 +627,10 @@ Population @2024 in 1000s.
 
 > **Spain**, or the Kingdom of Spain, is a country located in Southwestern Europe, 
 > with parts of its territory in the Atlantic Ocean, the Mediterranean Sea and Africa. 
-> It is the largest country in Southern Europe 
-> and the fourth-most populous European Union member state. 
+> It is the largest country in [[../Europe~South|Southern Europe]] 
+> and the fourth-most populous [[../EU(European_Union)|European Union]] member state. 
 > Spanning across the majority of the Iberian Peninsula, its territory also includes 
-> - the Canary Islands in the Atlantic Ocean, 
+> - the [[Spain/Provinces~Spain/Canary-Islands|Canary Islands]] in the Atlantic Ocean, 
 > - the Balearic Islands in the Mediterranean Sea, 
 > - and the autonomous cities of Ceuta and Melilla in Africa. 
 > 
@@ -770,7 +795,7 @@ Sub-region_Name ::  [[Southern Europe]]
 [Area-Land::499440]
 has_place_continent:: [[Europe]]  
 [VehicleCode::E]
-Capital :: [[Madrid.Region]] 
+Capital :: [[Spain/Provinces~Spain/Madrid,Region]] 
 [Alcohol-l::11.6]
 [Language-Id::492]
 #is_a_/Place  
