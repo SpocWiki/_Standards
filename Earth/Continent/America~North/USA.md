@@ -814,7 +814,7 @@ Major Cities with Population in 1000s as of @2020
 | [[USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis\|Indianapolis]]                       | [[USA/USA~Central/Indiana\|Indiana]]               |  887.642 |
 | [[USA/USA~Pacific/Washington/counties~Washington/King,County/cities~King/Seattle\|Seattle]]                               | [[USA/USA~Pacific/Washington\|Washington]]         |  737.015 |
 | [[USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver\|Denver]]                                | [[USA/USA~Mountain/Colorado\|Colorado]]            |  715.522 |
-| [[USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC\|Washington,DC]]                                           | District of Columbia                               |  689.545 |
+| [[USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC\|Washington,DC]]                                           | [[USA/USA~Eastern/District_of_Columbia\|District of Columbia]]                               |  689.545 |
 | [[USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston\|Boston]]                     | [[USA/USA~Eastern/Massachusetts\|Massachusetts]]   |  675.647 |
 | [[El Paso]]                                                                                                               | [[USA/USA~Mountain/Texas\|Texas]]                  |  678.815 |
 | [[USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville\|Nashville]]                     | [[USA/USA~Central/Tennessee\|Tennessee]]           |  689.447 |
@@ -836,59 +836,59 @@ Major Cities with Population in 1000s as of @2020
 
 List of Constituent States
 
-| State                | Population (2024) | Total Area (km²) | GDP (2024, USD)   | GDP per Capita (USD) | Notable Properties                                                        |
-| -------------------- | ----------------- | ---------------- | ----------------- | -------------------- | ------------------------------------------------------------------------- |
-| California           | 39,538,223        | 423,967          | 4,103,124,000,000 | 104,916              | Largest state economy; tech industry hub; significant agricultural output |
-| Texas                | 29,145,505        | 695,662          | 2,709,393,000,000 | 86,987               | Leading in energy production; significant manufacturing sector            |
-| Florida              | 21,538,187        | 170,312          | 1,705,565,000,000 | 73,784               | Major tourism industry; large retiree population                          |
-| New York             | 20,201,249        | 141,297          | 2,297,028,000,000 | 117,332              | Financial center; diverse economy                                         |
-| Pennsylvania         | 13,002,700        | 119,280          | 1,137,244,000,000 | 90,449               | Strong manufacturing and healthcare sectors                               |
-| Illinois             | 12,812,508        | 149,995          | 1,024,206,000,000 | 78,544               | Transportation hub; significant agricultural production                   |
-| Ohio                 | 11,799,448        | 116,098          | 927,740,000,000   | 78,120               | Diverse economy; manufacturing and services                               |
-| Georgia              | 10,711,908        | 153,910          | 882,535,000,000   | 78,754               | Growing tech sector; transportation and logistics hub                     |
-| North Carolina       | 10,439,388        | 139,391          | 854,683,000,000   | 108,468              | Banking center; strong research and education sectors                     |
-| Michigan             | 10,077,331        | 250,487          | 846,587,000,000   | 90,272               | Automotive industry; significant manufacturing                            |
-| New Jersey           | 9,288,994         | 22,591           | 839,122,000,000   | 75,876               | Pharmaceutical and finance industries                                     |
-| Virginia             | 8,631,393         | 110,787          | 780,666,000,000   | 110,561              | Government and military presence; tech sector                             |
-| Washington           | 7,705,281         | 184,661          | 764,475,000,000   | 86,747               | Technology and aerospace industries                                       |
-| Arizona              | 7,151,502         | 295,234          | 706,616,000,000   | 70,038               | Rapid population growth; tourism and mining                               |
-| Massachusetts        | 6,910,840         | 27,336           | 780,666,000,000   | 110,561              | Education and healthcare sectors; biotech industry                        |
-| Tennessee            | 6,910,840         | 109,153          | 553,323,000,000   | 93,026               | Music industry; healthcare and manufacturing                              |
-| Indiana              | 6,785,528         | 94,326           | 552,167,000,000   | 73,203               | Manufacturing and agriculture                                             |
-| Missouri             | 6,154,913         | 180,540          | 549,709,000,000   | 75,748               | Transportation and logistics; agriculture                                 |
-| Maryland             | 6,177,224         | 32,131           | 542,766,000,000   | 87,021               | Biotechnology and defense industries                                      |
-| Wisconsin            | 5,893,718         | 169,635          | 527,381,000,000   | 76,004               | Dairy industry; manufacturing                                             |
-| Colorado             | 5,773,714         | 269,601          | 500,851,000,000   | 86,371               | Aerospace and defense; tourism                                            |
-| Minnesota            | 5,706,494         | 225,163          | 451,285,000,000   | 75,605               | Medical technology; agriculture                                           |
-| South Carolina       | 5,118,425         | 82,933           | 451,201,000,000   | 72,108               | Manufacturing and tourism                                                 |
-| Alabama              | 5,024,279         | 135,767          | 365,723,000,000   | 100,235              | Aerospace and automotive industries                                       |
-| Louisiana            | 4,657,757         | 135,659          | 349,965,000,000   | 63,711               | Energy sector; port operations                                            |
-| Kentucky             | 4,505,836         | 104,656          | 331,029,000,000   | 77,916               | Automotive manufacturing; agriculture                                     |
-| Oregon               | 4,237,256         | 254,799          | 327,782,000,000   | 71,642               | Technology and forestry industries                                        |
-| Oklahoma             | 3,959,353         | 181,037          | 321,238,000,000   | 61,846               | Energy production; agriculture                                            |
-| Connecticut          | 3,605,944         | 14,357           | 300,904,000,000   | 86,506               | Finance and insurance sectors                                             |
-| Iowa                 | 3,190,369         | 145,746          | 293,021,000,000   | 64,110               | Agriculture and manufacturing                                             |
-| Utah                 | 3,271,616         | 219,882          | 265,779,000,000   | 64,719               | Technology sector; tourism                                                |
-| Nevada               | 3,104,614         | 286,380          | 260,728,000,000   | 80,880               | Tourism and gaming industry                                               |
-| Arkansas             | 3,011,524         | 137,732          | 257,021,000,000   | 79,631               | Agriculture and manufacturing                                             |
-| Mississippi          | 2,961,279         | 125,438          | 234,673,000,000   | 79,513               | Agriculture and manufacturing                                             |
-| Kansas               | 2,937,880         | 213,100          | 188,723,000,000   | 60,276               | Agriculture and aviation industries                                       |
-| New Mexico           | 2,117,522         | 314,917          | 185,411,000,000   | 93,145               | Energy production; federal government spending                            |
-| Nebraska             | 1,961,504         | 200,330          | 128,132,000,000   | 63,991               | Agriculture and insurance industries                                      |
-| West Virginia        | 1,793,716         | 62,756           | 121,189,000,000   | 85,518               | Energy production; chemical manufacturing                                 |
-| Idaho                | 1,839,106         | 216,443          | 115,627,000,000   | 80,325               | Agriculture and technology sectors                                        |
-| Hawaii               | 1,455,271         | 28,311           | 107,660,000,000   | 60,783               | Tourism and military presence                                             |
-| Maine                | 1,354,522         | 91,646           | 103,253,000,000   | 98,055               | Forestry and fishing industries                                           |
-| New Hampshire        | 1,377,529         | 24,214           | 98,606,000,000    | 69,803               | Manufacturing and technology sectors                                      |
-| Montana              | 1,084,225         | 380,831          | 82,493,000,000    | 74,594               | Agriculture and mining industries                                         |
-| Rhode Island         | 1,097,379         | 4,001            | 75,999,000,000    | 66,379               | Manufacturing and healthcare sectors                                      |
-| Delaware             | 989,948           | 6,446            | 75,399,000,000    | 95,982               | Finance and insurance industries                                          |
-| South Dakota         | 886,667           | 199,729          | 75,179,000,000    | 80,685               | Agriculture and manufacturing                                             |
-| North Dakota         | 779,094           | 183,108          | 69,969,000,000    | 95,147               | Energy production; agriculture                                            |
-| Alaska               | 733,391           | 1,723,337        | 69,969,000,000    | 95,147               | Oil and gas industries; fishing                                           |
-| Vermont              | 643,077           | 24,906           | 45,707,000,000    | 70,131               | Tourism and manufacturing                                                 |
-| Wyoming              | 576,851           | 253,600          | 52,946,000,000    | 90,335               | Energy production; agriculture                                            |
-| District of Columbia | 714,153           | 177              | 184,916,000,000   | 263,220              | Federal government; legal and lobbying industries                         |
+| State                                                                  | Population (2024) | Total Area (km²) | GDP (2024, USD)   | GDP per Capita (USD) | Notable Properties                                                        |
+| ---------------------------------------------------------------------- | ----------------- | ---------------- | ----------------- | -------------------- | ------------------------------------------------------------------------- |
+| [[USA/USA~Pacific/California\|California]]                             | 39,538,223        | 423,967          | 4,103,124,000,000 | 104,916              | Largest state economy; tech industry hub; significant agricultural output |
+| [[USA/USA~Mountain/Texas\|Texas]]                                      | 29,145,505        | 695,662          | 2,709,393,000,000 | 86,987               | Leading in energy production; significant manufacturing sector            |
+| [[USA/USA~Eastern/Florida\|Florida]]                                                                | 21,538,187        | 170,312          | 1,705,565,000,000 | 73,784               | Major tourism industry; large retiree population                          |
+| [[USA/USA~Eastern/New_York,State\|New York State]]                                                         | 20,201,249        | 141,297          | 2,297,028,000,000 | 117,332              | Financial center; diverse economy                                         |
+| [[USA/USA~Eastern/Pennsylvania\|Pennsylvania]]                         | 13,002,700        | 119,280          | 1,137,244,000,000 | 90,449               | Strong manufacturing and healthcare sectors                               |
+| [[USA/USA~Central/Illinois\|Illinois]]                                 | 12,812,508        | 149,995          | 1,024,206,000,000 | 78,544               | Transportation hub; significant agricultural production                   |
+| [[USA/USA~Central/Ohio\|Ohio]]                                         | 11,799,448        | 116,098          | 927,740,000,000   | 78,120               | Diverse economy; manufacturing and services                               |
+| [[USA/USA~Eastern/Georgia,USA\|Georgia,USA]]                                                            | 10,711,908        | 153,910          | 882,535,000,000   | 78,754               | Growing tech sector; transportation and logistics hub                     |
+| [[USA/USA~Eastern/North_Carolina\|North Carolina]]                     | 10,439,388        | 139,391          | 854,683,000,000   | 108,468              | Banking center; strong research and education sectors                     |
+| [[USA/USA~Central/Michigan\|Michigan]]                                 | 10,077,331        | 250,487          | 846,587,000,000   | 90,272               | Automotive industry; significant manufacturing                            |
+| [[USA/USA~Eastern/New_Jersey\|New Jersey]]                             | 9,288,994         | 22,591           | 839,122,000,000   | 75,876               | Pharmaceutical and finance industries                                     |
+| [[USA/USA~Eastern/Virginia\|Virginia]]                                 | 8,631,393         | 110,787          | 780,666,000,000   | 110,561              | Government and military presence; tech sector                             |
+| [[USA/USA~Pacific/Washington\|Washington]]                             | 7,705,281         | 184,661          | 764,475,000,000   | 86,747               | Technology and aerospace industries                                       |
+| [[USA/USA~Mountain/Arizona\|Arizona]]                                  | 7,151,502         | 295,234          | 706,616,000,000   | 70,038               | Rapid population growth; tourism and mining                               |
+| [[USA/USA~Eastern/Massachusetts\|Massachusetts]]                       | 6,910,840         | 27,336           | 780,666,000,000   | 110,561              | Education and healthcare sectors; biotech industry                        |
+| [[USA/USA~Central/Tennessee\|Tennessee]]                               | 6,910,840         | 109,153          | 553,323,000,000   | 93,026               | Music industry; healthcare and manufacturing                              |
+| [[USA/USA~Central/Indiana\|Indiana]]                                   | 6,785,528         | 94,326           | 552,167,000,000   | 73,203               | Manufacturing and agriculture                                             |
+| [[USA/USA~Central/Missouri\|Missouri]]                                 | 6,154,913         | 180,540          | 549,709,000,000   | 75,748               | Transportation and logistics; agriculture                                 |
+| [[USA/USA~Eastern/Maryland\|Maryland]]                                 | 6,177,224         | 32,131           | 542,766,000,000   | 87,021               | Biotechnology and defense industries                                      |
+| [[USA/USA~Central/Wisconsin\|Wisconsin]]                               | 5,893,718         | 169,635          | 527,381,000,000   | 76,004               | Dairy industry; manufacturing                                             |
+| [[USA/USA~Mountain/Colorado\|Colorado]]                                | 5,773,714         | 269,601          | 500,851,000,000   | 86,371               | Aerospace and defense; tourism                                            |
+| [[USA/USA~Central/Minnesota\|Minnesota]]                               | 5,706,494         | 225,163          | 451,285,000,000   | 75,605               | Medical technology; agriculture                                           |
+| [[USA/USA~Eastern/South_Carolina\|South Carolina]]                     | 5,118,425         | 82,933           | 451,201,000,000   | 72,108               | Manufacturing and tourism                                                 |
+| [[USA/USA~Central/Alabama\|Alabama]]                                   | 5,024,279         | 135,767          | 365,723,000,000   | 100,235              | Aerospace and automotive industries                                       |
+| [[USA/USA~Central/Louisiana\|Louisiana]]                               | 4,657,757         | 135,659          | 349,965,000,000   | 63,711               | Energy sector; port operations                                            |
+| [[USA/USA~Central/Kentucky\|Kentucky]]                                 | 4,505,836         | 104,656          | 331,029,000,000   | 77,916               | Automotive manufacturing; agriculture                                     |
+| [[USA/USA~Pacific/Oregon\|Oregon]]                                     | 4,237,256         | 254,799          | 327,782,000,000   | 71,642               | Technology and forestry industries                                        |
+| [[USA/USA~Central/Oklahoma\|Oklahoma]]                                 | 3,959,353         | 181,037          | 321,238,000,000   | 61,846               | Energy production; agriculture                                            |
+| [[USA/USA~Eastern/Connecticut\|Connecticut]]                           | 3,605,944         | 14,357           | 300,904,000,000   | 86,506               | Finance and insurance sectors                                             |
+| [[USA/USA~Central/Iowa\|Iowa]]                                         | 3,190,369         | 145,746          | 293,021,000,000   | 64,110               | Agriculture and manufacturing                                             |
+| [[USA/USA~Mountain/Utah\|Utah]]                                        | 3,271,616         | 219,882          | 265,779,000,000   | 64,719               | Technology sector; tourism                                                |
+| [[USA/USA~Pacific/Nevada\|Nevada]]                                     | 3,104,614         | 286,380          | 260,728,000,000   | 80,880               | Tourism and gaming industry                                               |
+| [[USA/USA~Central/Arkansas\|Arkansas]]                                 | 3,011,524         | 137,732          | 257,021,000,000   | 79,631               | Agriculture and manufacturing                                             |
+| [[USA/USA~Central/Mississippi\|Mississippi]]                           | 2,961,279         | 125,438          | 234,673,000,000   | 79,513               | Agriculture and manufacturing                                             |
+| [[USA/USA~Mountain/Kansas\|Kansas]]                                    | 2,937,880         | 213,100          | 188,723,000,000   | 60,276               | Agriculture and aviation industries                                       |
+| [[USA/USA~Mountain/New_Mexico\|New Mexico]]                            | 2,117,522         | 314,917          | 185,411,000,000   | 93,145               | Energy production; federal government spending                            |
+| [[USA/USA~Central/Nebraska\|Nebraska]]                                 | 1,961,504         | 200,330          | 128,132,000,000   | 63,991               | Agriculture and insurance industries                                      |
+| [[USA/USA~Eastern/West_Virginia\|West Virginia]]                       | 1,793,716         | 62,756           | 121,189,000,000   | 85,518               | Energy production; chemical manufacturing                                 |
+| [[USA/USA~Mountain/Idaho\|Idaho]]                                      | 1,839,106         | 216,443          | 115,627,000,000   | 80,325               | Agriculture and technology sectors                                        |
+| [[USA/USA~Pacific/Hawaii\|Hawaii]]                                                                 | 1,455,271         | 28,311           | 107,660,000,000   | 60,783               | Tourism and military presence                                             |
+| [[USA/USA~Eastern/Maine\|Maine]]                                       | 1,354,522         | 91,646           | 103,253,000,000   | 98,055               | Forestry and fishing industries                                           |
+| [[USA/USA~Eastern/New_Hampshire\|New Hampshire]]                       | 1,377,529         | 24,214           | 98,606,000,000    | 69,803               | Manufacturing and technology sectors                                      |
+| [[../Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana\|Montana]] | 1,084,225         | 380,831          | 82,493,000,000    | 74,594               | Agriculture and mining industries                                         |
+| [[USA/USA~Eastern/Rhode_Island\|Rhode Island]]                         | 1,097,379         | 4,001            | 75,999,000,000    | 66,379               | Manufacturing and healthcare sectors                                      |
+| [[USA/USA~Eastern/Delaware\|Delaware]]                                 | 989,948           | 6,446            | 75,399,000,000    | 95,982               | Finance and insurance industries                                          |
+| [[USA/USA~Central/South_Dakota\|South Dakota]]                         | 886,667           | 199,729          | 75,179,000,000    | 80,685               | Agriculture and manufacturing                                             |
+| [[USA/USA~Central/North_Dakota\|North Dakota]]                         | 779,094           | 183,108          | 69,969,000,000    | 95,147               | Energy production; agriculture                                            |
+| [[USA/USA~Pacific/Alaska\|Alaska]]                                     | 733,391           | 1,723,337        | 69,969,000,000    | 95,147               | Oil and gas industries; fishing                                           |
+| [[USA/USA~Eastern/Vermont\|Vermont]]                                   | 643,077           | 24,906           | 45,707,000,000    | 70,131               | Tourism and manufacturing                                                 |
+| [[USA/USA~Mountain/Wyoming\|Wyoming]]                                  | 576,851           | 253,600          | 52,946,000,000    | 90,335               | Energy production; agriculture                                            |
+| [[USA/USA~Eastern/District_of_Columbia\|District of Columbia]]         | 714,153           | 177              | 184,916,000,000   | 263,220              | Federal government; legal and lobbying industries                         |
 
 *Note: Population and GDP figures are based on the most recent data available as of 2024. 
 Sources:
