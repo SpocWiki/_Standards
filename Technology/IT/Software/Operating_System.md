@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9135
 has_part_s_:
 - "[[_Standards/WikiData/WD~file_system,174989]]"

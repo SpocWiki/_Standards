@@ -84,17 +84,66 @@ title: "Treaty of Peace Between the Allied and Associated Powers and Germany"
 Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"TreatyOfVersailles\"]"
 ---
 
+#has_/time_/started :: 1919-06-28
+#has_/time_/stopped :: 1920-01-10 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Treaty_of_Versailles,8736]] 
+
+
 ## #has_/text_of_/abstract 
 
-> The **Treaty of Versailles** was a peace treaty signed on 28 June 1919. As the most important treaty of World War I, it ended the state of war between Germany and most of the Allied Powers. It was signed in the Palace of Versailles, exactly five years after the assassination of Archduke Franz Ferdinand, which led to the war. The other Central Powers on the German side signed separate treaties. Although the armistice of 11 November 1918 ended the actual fighting, and agreed certain principles and conditions including the payment of reparations, it took six months of Allied negotiations at the Paris Peace Conference to conclude the peace treaty. Germany was not allowed to participate in the negotiations before signing the treaty.
+> The **Treaty of Versailles** was a peace treaty signed on 28 June 1919. 
+> As the most important treaty of World War I, 
+> it ended the state of war between Germany and most of the Allied Powers. 
+> 
+> It was signed in the Palace of Versailles, 
+> exactly five years after the assassination of Archduke Franz Ferdinand, which led to the war. 
+> The other Central Powers on the German side signed separate treaties. 
+> Although the armistice of 11 November 1918 ended the actual fighting, 
+> and agreed certain principles and conditions including the payment of reparations, 
+> it took six months of Allied negotiations at the Paris Peace Conference 
+> to conclude the peace treaty. 
+> Germany was not allowed to participate in the negotiations before signing the treaty.
 >
-> The treaty required Germany to disarm, make territorial concessions, extradite alleged war criminals, agree to Kaiser Wilhelm being put on trial, recognise the independence of states whose territory had previously been part of the German Empire, and pay reparations to the Entente powers. The most critical and controversial provision in the treaty was: "The Allied and Associated Governments affirm and Germany accepts the responsibility of Germany and her allies for causing all the loss and damage to which the Allied and Associated Governments and their nationals have been subjected as a consequence of the war imposed upon them by the aggression of Germany and her allies." The other members of the Central Powers signed treaties containing similar articles. This article, Article 231, became known as the "War Guilt" clause.
+> The treaty required Germany to disarm, make territorial concessions, 
+> extradite alleged war criminals, agree to Kaiser Wilhelm being put on trial, 
+> recognise the independence of states 
+> whose territory had previously been part of the German Empire, 
+> and pay reparations to the Entente powers. 
+> 
+> The most critical and controversial provision in the treaty was: 
+> "The Allied and Associated Governments affirm and Germany accepts 
+> the responsibility of Germany and her allies for causing all the loss and damage 
+> to which the Allied and Associated Governments and their nationals have been subjected 
+> as a consequence of the war imposed upon them by the aggression of Germany and her allies." 
+> The other members of the Central Powers signed treaties containing similar articles. 
+> This article, Article 231, became known as the "War Guilt" clause.
 >
-> Critics including John Maynard Keynes declared the treaty too harsh, styling it as a "Carthaginian peace", and saying the reparations were excessive and counterproductive. On the other hand, prominent Allied figures such as French Marshal Ferdinand Foch criticized the treaty for treating Germany too leniently. This is still the subject of ongoing debate by historians and economists.
+> Critics including John Maynard Keynes declared the treaty too harsh, 
+> styling it as a "Carthaginian peace", 
+> and saying the reparations were excessive and counterproductive. 
+> On the other hand, prominent Allied figures such as French Marshal Ferdinand Foch 
+> criticized the treaty for treating Germany too leniently. 
+> This is still the subject of ongoing debate by historians and economists.
 >
-> The result of these competing and sometimes conflicting goals among the victors was a compromise that left no one satisfied. In particular, Germany was neither pacified nor conciliated, nor was it permanently weakened. The United States never ratified the Versailles treaty; instead it made a separate peace treaty with Germany, albeit based on the Versailles treaty. The problems that arose from the treaty would lead to the Locarno Treaties, which improved relations between Germany and the other European powers. The reparation system was reorganized and payments reduced in the Dawes Plan and the Young Plan. Bitter resentment of the treaty powered the rise of the Nazi Party, and eventually the outbreak of a second World War.
+> The result of these competing and sometimes conflicting goals among the victors 
+> was a compromise that left no one satisfied. 
+> In particular, Germany was neither pacified nor conciliated, nor was it permanently weakened. 
+> The United States never ratified the Versailles treaty; 
+> instead it made a separate peace treaty with Germany, albeit based on the Versailles treaty. 
+> The problems that arose from the treaty would lead to the Locarno Treaties, 
+> which improved relations between Germany and the other European powers. 
+> The reparation system was reorganized 
+> and payments reduced in the Dawes Plan and the Young Plan. 
+> Bitter resentment of the treaty powered the rise of the Nazi Party, 
+> and eventually the outbreak of a second World War.
 >
-> Although it is often referred to as the "Versailles Conference", only the actual signing of the treaty took place at the historic palace. Most of the negotiations were in Paris, with the "Big Four" meetings taking place generally at the French Ministry of Foreign Affairs on the Quai d'Orsay.
+> Although it is often referred to as the "Versailles Conference", 
+> only the actual signing of the treaty took place at the historic palace. 
+> Most of the negotiations were in Paris, 
+> with the "Big Four" meetings taking place generally at the French Ministry of Foreign Affairs 
+> on the Quai d'Orsay.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Versailles) 
 

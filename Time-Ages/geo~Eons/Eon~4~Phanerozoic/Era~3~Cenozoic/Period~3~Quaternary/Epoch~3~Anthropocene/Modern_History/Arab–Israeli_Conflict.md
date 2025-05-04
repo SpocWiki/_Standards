@@ -17,11 +17,14 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Arab–Israeli_conflic
 U_S_National_Archives_Identifier: 10637980
 ---
 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Arab–Israeli_conflict,8669]] 
+
+
 ## #has_/text_of_/abstract 
 
 > This page is subject to the extended confirmed restriction related to the Arab-Israeli conflict.
->
-> 
 >
 > The **Arab–Israeli conflict** is the phenomenon involving political tension, military conflicts, and other disputes between various Arab countries and Israel, which escalated during the 20th century. The roots of the Arab–Israeli conflict have been attributed to the support by Arab League member countries for the Palestinians, a fellow League member, in the ongoing Israeli–Palestinian conflict; this in turn has been attributed to the simultaneous rise of Zionism and Arab nationalism towards the end of the 19th century, though the two national movements had not clashed until the 1920s.
 >

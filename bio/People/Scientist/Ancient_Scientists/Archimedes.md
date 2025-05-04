@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Archimedes of Syracuse"
 has_id_wikidata: Q8739
@@ -137,5 +137,5 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20un%20e
 > while the discovery in 1906 of previously lost works by Archimedes in the Archimedes Palimpsest 
 > has provided new insights into how he obtained mathematical results.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Archimedes)
+> [Wikipedia](https://en.wikipedia.org/wiki/Archimedes) 
 

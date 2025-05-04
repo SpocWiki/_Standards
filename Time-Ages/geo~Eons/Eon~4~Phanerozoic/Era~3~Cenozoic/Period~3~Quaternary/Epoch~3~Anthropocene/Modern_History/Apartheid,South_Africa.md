@@ -51,6 +51,11 @@ U_S_National_Archives_Identifier: 10640722
 UMLS_CUI: C0680431
 ---
 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Apartheid,11409]]
+
+
 ## #has_/text_of_/abstract 
 
 > Apartheid ( ə-PART-(h)yte, especially South African English:  ə-PART-(h)ayt, Afrikaans: [aˈpart(ɦ)əit] ; transl. "separateness", lit. 'aparthood') was a system of institutionalised racial segregation that existed in South Africa and South West Africa (now Namibia) from 1948 to the early 1990s. It was characterised by an authoritarian political culture based on baasskap (lit. 'boss-ship' or 'boss-hood'), which ensured that South Africa was dominated politically, socially, and economically by the nation's minority white population. Under this minoritarian system, white citizens held the highest status, followed by Indians, Coloureds and black Africans, in that order. The economic legacy and social effects of apartheid continue to the present day, particularly inequality.

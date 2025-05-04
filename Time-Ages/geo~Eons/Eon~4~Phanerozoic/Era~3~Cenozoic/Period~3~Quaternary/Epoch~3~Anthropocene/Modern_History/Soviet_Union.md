@@ -270,6 +270,10 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Soviet_Union,2688434
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"UnionSovietSocialistRepublics\"]"
 ---
 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Soviet_Union,15180]] 
+
 # [[Soviet_Union]] 
 
 > The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), 
@@ -340,9 +344,31 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"UnionSovietSocial
 >
 > The 1970s saw a brief détente in the Soviet Union's relationship with the United States, 
 > but tensions emerged again following the [[Soviet_invasion_of_Afghanistan]] in 1979. 
-> From 1985, the last Soviet leader, Mikhail Gorbachev, sought to reform the country through his policies of glasnost and perestroika. In 1989, various countries of the Warsaw Pact overthrew their Soviet-backed regimes, and nationalist and separatist movements erupted across the entire Soviet Union. In 1991, amid efforts to reform and preserve the country as a renewed federation, an attempted coup d'état against Gorbachev by hardline communists prompted the three most populous and economically developed republics—Ukraine, Russia, and Belarus—to secede from the Union. On December 26, Gorbachev officially recognized the dissolution of the Soviet Union. Boris Yeltsin, the leader of the RSFSR, oversaw its reconstitution into the Russian Federation, which became the Soviet Union's successor state; all other republics emerged as fully independent post-Soviet states.
+> From 1985, the last Soviet leader, Mikhail Gorbachev, 
+> sought to reform the country through his policies of glasnost and perestroika. 
+> 
+> In 1989, various countries of the Warsaw Pact overthrew their Soviet-backed regimes, 
+> and nationalist and separatist movements erupted across the entire Soviet Union. 
+> In 1991, amid efforts to reform and preserve the country as a renewed federation, 
+> an attempted coup d'état against Gorbachev by hardline communists 
+> prompted the three most populous and economically developed republics—
+> Ukraine, Russia, and Belarus—to secede from the Union. 
+> 
+> On December 26, Gorbachev officially recognized the dissolution of the Soviet Union. 
+> Boris Yeltsin, the leader of the RSFSR, oversaw its reconstitution into the Russian Federation, 
+> which became the Soviet Union's successor state; 
+> all other republics emerged as fully independent post-Soviet states.
 >
-> During its existence, the Soviet Union produced many significant social and technological achievements and innovations. It had the world's second-largest economy and largest standing military. An NPT-designated state, it wielded the largest arsenal of nuclear weapons in the world. As an Allied nation, it was a founding member of the United Nations as well as one of the five permanent members of the United Nations Security Council. Before its dissolution, the USSR was one of the world's two superpowers through its hegemony in Eastern Europe, global diplomatic and ideological influence (particularly in the Global South), military and economic strengths, and scientific accomplishments.
+> During its existence, the Soviet Union produced many significant 
+> social and technological achievements and innovations. 
+> It had the world's second-largest economy and largest standing military. 
+> An NPT-designated state, it wielded the largest arsenal of nuclear weapons in the world. 
+> As an Allied nation, it was a founding member of the United Nations 
+> as well as one of the five permanent members of the United Nations Security Council. 
+> Before its dissolution, the USSR was one of the world's two superpowers 
+> through its hegemony in Eastern Europe, global diplomatic and ideological influence 
+> (particularly in the Global South), military and economic strengths, 
+> and scientific accomplishments.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soviet%20Union)
 

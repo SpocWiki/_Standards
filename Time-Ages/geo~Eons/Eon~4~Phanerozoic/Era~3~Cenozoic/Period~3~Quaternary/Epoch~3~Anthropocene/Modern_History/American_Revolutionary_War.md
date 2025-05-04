@@ -45,12 +45,15 @@ end time: 1783-09-03T00:00:00Z
 start time: 1775-04-19T00:00:00Z
 ---
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~American_Revolutionary_War,40949|WD~American_Revolutionary_War,40949]] 
 #has_/time_/started ::  1775-04-19 
-#has_/time_/started ::  1783-09-03 
+#has_/time_/stopped ::  1783-09-03 
 #has_/place_/started ::  [[WD~Lexington_Battle_Green,4257679]] 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~American_Revolutionary_War,40949]] 
 
-1775–1783 war between Great Britain and the Thirteen Colonies, which won independence as the United States of America
+1775–1783 war between Great Britain and the Thirteen Colonies, 
+which won independence as the United States of America
 
 ## #has_/text_of_/abstract 
 

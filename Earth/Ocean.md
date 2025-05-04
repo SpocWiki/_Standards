@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9430
 has_part_s_:
 - '[[_Standards/WikiData/WD~seawater,184395]]'

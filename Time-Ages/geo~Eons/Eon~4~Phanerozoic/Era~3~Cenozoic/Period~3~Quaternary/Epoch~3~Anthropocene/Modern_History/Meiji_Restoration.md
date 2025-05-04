@@ -17,6 +17,10 @@ start_time: 1868-06
 has_time_started: 1868-06 
 ---
 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Meiji_restoration,8707]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Meiji Restoration** (Japanese: 明治維新, romanized: Meiji Ishin), referred to at the time as the Honorable Restoration (御維新, Goishin), and also known as the Meiji Renovation, Revolution, Regeneration, Reform, or Renewal, was a political event that restored practical imperial rule to Japan in 1868 under Emperor Meiji. Although there were ruling emperors before the Meiji Restoration, the events restored practical abilities and consolidated the political system under the Emperor of Japan.[2] The goals of the restored government were expressed by the new emperor in the Charter Oath.

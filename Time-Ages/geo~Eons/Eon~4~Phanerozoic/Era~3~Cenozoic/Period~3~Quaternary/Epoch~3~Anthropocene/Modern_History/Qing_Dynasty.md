@@ -118,6 +118,10 @@ has_time_started: 1636-06
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Qing_dynasty_topics,22725674]]"
 ---
 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Qing_Dynasty,8733]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Qing Dynasty** ( CHING), officially the Great Qing, was a Manchu-led imperial dynasty of China and an early modern empire in East Asia. The last imperial dynasty in Chinese history, the Qing dynasty was preceded by the Ming dynasty and succeeded by the Republic of China. At its height of power, the empire stretched from the Sea of Japan in the east to the Pamir Mountains in the west, and from the Mongolian Plateau in the north to the South China Sea in the south. Originally emerging from the Later Jin dynasty founded in 1616 and proclaimed in Shenyang in 1636, the dynasty seized control of the Ming capital Beijing and North China in 1644, traditionally considered the start of the dynasty's rule. The dynasty lasted until the Xinhai Revolution of October 1911 led to the abdication of the last emperor in February 1912. The multi-ethnic Qing dynasty assembled the territorial base for modern China. The Qing controlled the most territory of any dynasty in Chinese history, and in 1790 represented the fourth-largest empire in world history to that point. With over 426 million citizens in 1907, it was the most populous country in the world at the time.

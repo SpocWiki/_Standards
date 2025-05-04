@@ -674,23 +674,55 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 
 #has_/image_for_/flag :: ![[./Germany/Flag_of_Germany.svg|200]] <img src="./Germany/Flag_of_Germany.svg" width="200"/> 
 
+
+
+## #has_/place_/city   
+
+Major Cities with Population in 1000s as of @2020
+
 | Name       | Region                 | Pop/k |
 | ---------- | ---------------------- | ----: |
-| Berlin     | Berlin                 |  3769 |
-| Hamburg    | Hamburg                |  1841 |
-| Munich     | Bavaria                |  1488 |
-| Cologne    | North Rhine-Westphalia |  1085 |
-| Frankfurt  | Hesse                  |   764 |
-| Stuttgart  | Baden-Württemberg      |   635 |
-| Düsseldorf | North Rhine-Westphalia |   620 |
-| Leipzig    | Saxony                 |   597 |
-| Dortmund   | North Rhine-Westphalia |   588 |
-| Essen      | North Rhine-Westphalia |   583 |
+| [[Germany/Germany~West/State~Berlin/cities~Berlin/Berlin\|Berlin]]     | Berlin                 |  3769 |
+| [[Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg\|Hamburg]]    | Hamburg                |  1841 |
+| Munich     | [[Germany/Germany~West/Bayern\|Bavaria]]                |  1488 |
+| [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln\|Cologne]]    | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |  1085 |
+| [[../../../../../heuerm/heuerm~Contacts/Einkaufen/Frankfurt\|Frankfurt]]  | [[Germany/Germany~West/Hessen\|Hesse]]                  |   764 |
+| [[Germany/Germany~West/Baden-Wuerttemberg/Stuttgart\|Stuttgart]]  | [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]      |   635 |
+| [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf\|Düsseldorf]] | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   620 |
+| [[Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig\|Leipzig]]    | [[Germany/Germany~East/Sachsen\|Saxony]]                 |   597 |
+| [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund\|Dortmund]]   | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   588 |
+| Essen      | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   583 |
+
+
+## #has_/parts_  
+
+List of Constituent States
+with numbers as of 2023-06 
+
+| State                                                                   | Popltn / k | Area / kkm² | GDP / G€ | GDPpP  / k€ | HDI   | Notable Properties                                                     |
+| ----------------------------------------------------------------------- | ---------: | ----------: | -------: | ----------: | ----- | ---------------------------------------------------------------------- |
+| [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]          |     11.230 |      35.748 |      544 |      54.339 | 0.963 | Strong automotive industry; home to companies like Daimler and Porsche |
+| [[Germany/Germany~West/Bayern\|Bavaria]]                                |     13.176 |      70.541 |      756 |      57.343 | 0.958 | Largest state by area; economic powerhouse with diverse industries     |
+| [[Germany/Germany~West/State~Berlin/cities~Berlin/Berlin\|Berlin]]      |      3.662 |       0.891 |      187 |      51.209 | 0.967 | Capital city; cultural and political center                            |
+| [[Germany/Germany~East/Brandenburg\|Brandenburg]]                       |      2.554 |      29.654 |       97 |      37.814 | 0.926 | Surrounds Berlin; known for its lakes and natural reserves             |
+| [[Germany/Germany~West/State~Bremen/cities~Bremen/Bremen\|Bremen]]      |       .702 |       0.419 |       40 |      56.981 | 0.954 | Smallest state; major port city                                        |
+| [[Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg\|Hamburg]]  |      1.851 |       0.755 |      146 |      79.167 | 0.975 | Major port and commercial hub                                          |
+| [[Germany/Germany~West/Hessen\|Hesse]]                                  |      6.267 |      21.116 |      343 |      54.806 | 0.954 | Financial center; Frankfurt hosts European Central Bank                |
+| [[Germany/Germany~West/Niedersachsen\|Lower Saxony]]                    |      8.008 |      47.710 |      356 |      44.531 | 0.936 | Strong agricultural sector; Volkswagen headquarters in Wolfsburg       |
+| [[Germany/Germany~East/Mecklenburg-Vorpommern\|Mecklenburg-Vorpommern]] |      1.578 |      23.295 |       57 |      36.335 | 0.922 | Known for Baltic Sea coastline and tourism                             |
+| [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]]    |     18.017 |      34.112 |      832 |      46.194 | 0.946 | Most populous state; diverse economy including industry and services   |
+| [[Germany/Germany~West/Rheinland-Pfalz\|Rhineland-Palatinate]]          |      4.125 |      19.858 |      172 |      41.797 | 0.938 | Renowned for wine production and chemical industry                     |
+| [[Germany/Germany~West/Saarland\|Saarland]]                             |      1.014 |       2.572 |       42 |      41.617 | 0.934 | Smallest state by population; industrial history                       |
+| [[Germany/Germany~East/Sachsen\|Saxony]]                                |      4.054 |      18.450 |      155 |      38.143 | 0.944 | Known for cultural heritage and growing tech industry                  |
+| [[Germany/Germany~East/Sachsen-Anhalt\|Saxony-Anhalt]]                  |      2.144 |      20.464 |       77 |      35.911 | 0.921 | Rich in history; undergoing economic transformation                    |
+| [[Germany/Germany~West/Schleswig-Holstein\|Schleswig-Holstein]]         |      2.953 |      15.804 |      118 |      40.090 | 0.929 | Coastal state; significant in renewable energy                         |
+| [[Germany/Germany~East/Thüringen\|Thuringia]]                           |      2.114 |      16.202 |       75 |      35.715 | 0.928 | Central location; known for forests and cultural sites                 |
+
 
 ## #has_/text_of_/abstract  
 
 > **Germany**, officially the [[Germany/Germany~West|Federal Republic of Germany]], 
-> is a country in the western region of Central Europe. 
+> is a country in the western region of [[../Europe~Central|Central Europe]]. 
 > 
 > It is the second-most populous country in [[../../Europe|Europe]] after [[../Europe~East/Russia|Russia]], 
 > and the most populous member state of the [[../EU(European_Union)|European Union]]. 
@@ -867,7 +899,7 @@ Capital :: [[../../../../WikiData/WD~Berlin,64]]
 
 ## #has_/text_of_/history  
 
-> The concept of Germany as a distinct region in Central Europe can be traced to Julius Caesar, who referred to the unconquered area east of the Rhine as Germania, thus distinguishing it from Gaul. The victory of the Germanic tribes in the Battle of the Teutoburg Forest (AD 9) prevented annexation by the Roman Empire, although the Roman provinces of Germania Superior and Germania Inferior were established along the Rhine. Following the Fall of the Western Roman Empire, the Franks conquered the other West Germanic tribes. When the Frankish Empire was divided among Charles the Great's heirs in 843, the eastern part became East Francia, and later Kingdom of Germany. In 962, Otto I became the first Holy Roman Emperor of the Holy Roman Empire, the medieval German state.
+> The concept of Germany as a distinct region in [[../Europe~Central|Central Europe]] can be traced to [[../../../../bio/People/Leaders/Ancient_Leaders/Julius_Caesar|Julius Caesar]], who referred to the unconquered area east of the [[Rhine]] as Germania, thus distinguishing it from Gaul. The victory of the Germanic tribes in the Battle of the Teutoburg Forest (AD 9) prevented annexation by the Roman Empire, although the Roman provinces of Germania Superior and Germania Inferior were established along the Rhine. Following the Fall of the Western Roman Empire, the Franks conquered the other West Germanic tribes. When the Frankish Empire was divided among Charles the Great's heirs in 843, the eastern part became East Francia, and later Kingdom of Germany. In 962, Otto I became the first Holy Roman Emperor of the Holy Roman Empire, the medieval German state.
 >
 > During the High Middle Ages, the Hanseatic League, dominated by German port cities, established itself along the Baltic and North Seas. The growth of a crusading element within German Christendom led to the State of the Teutonic Order along the Baltic coast in what would later become Prussia. In the Investiture Controversy, the German Emperors resisted Catholic Church authority. In the Late Middle Ages, the regional dukes, princes, and bishops gained power at the expense of the emperors. Martin Luther led the Protestant Reformation within the Catholic Church after 1517, as the northern and eastern states became Protestant, while most of the southern and western states remained Catholic. The Thirty Years' War, a civil war from 1618 to 1648 brought tremendous destruction to the Holy Roman Empire. The estates of the empire attained great autonomy in the Peace of Westphalia, the most important being Austria, Prussia, Bavaria and Saxony. With the Napoleonic Wars, feudalism fell away and the Holy Roman Empire was dissolved in 1806. Napoleon established the Confederation of the Rhine as a German puppet state, but after the French defeat, the German Confederation was established under Austrian presidency. The German revolutions of 1848–1849 failed but the Industrial Revolution modernized the German economy, leading to rapid urban growth and the emergence of the socialist movement. Prussia, with its capital Berlin, grew in power. German universities became world-class centers for science and humanities, while music and art flourished. The unification of Germany was achieved under the leadership of the Chancellor Otto von Bismarck with the formation of the German Empire in 1871. The new Reichstag, an elected parliament, had only a limited role in the imperial government. Germany joined the other powers in colonial expansion in Africa and the Pacific.
 >
