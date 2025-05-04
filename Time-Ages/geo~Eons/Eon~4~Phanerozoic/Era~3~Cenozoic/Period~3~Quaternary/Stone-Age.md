@@ -24,12 +24,12 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Q10519671,10519671]]"
 # [[Stone-Age]] 
 
 
-
-#has_/time_/started :: -3.3e6 
-#has_/time_/stopped :: -0.003e6 
+#has_/time_/started :: -3300e3 
+#has_/time_/stopped :: -3.e3 
 
 #has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
 #has_/duration_/Ma :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
+#is_/same_as :: [[../../../../../WikiData/WD~Stone_Age,11759]] 
 
 ## #has_/text_of_/abstract 
 
@@ -37,7 +37,8 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Q10519671,10519671]]"
 > stone was widely used to make stone tools with an edge, a point, or a percussion surface. 
 > 
 > The period lasted for roughly 3.4 million years and ended between 4000 BC and 2000 BC, 
-> with the advent of metalworking. It therefore represents nearly 99.3% of human history. 
+> with the __advent of metalworking__. It therefore represents nearly 99.3% of human history
+> and sits mostly in the [[../Period~3~Quaternary|Period~3~Quaternary]]. 
 >
 > Though some simple metalworking of malleable metals was known in the Stone Age, 
 > particularly the use of gold and copper for purposes of ornamentation, 

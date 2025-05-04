@@ -1,3 +1,8 @@
+---
+aliases:
+  - North Europe
+  - Northern Europe
+---
 ﻿# Europe~North
 
 

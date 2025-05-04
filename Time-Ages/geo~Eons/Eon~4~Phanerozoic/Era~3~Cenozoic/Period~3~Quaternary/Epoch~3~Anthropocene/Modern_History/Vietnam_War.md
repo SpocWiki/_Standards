@@ -52,6 +52,11 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/1965-02-08%20Showdown
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Vietnam_War,8192852]]"
 ---
 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Vietnam_War,8740]]  
+
+
 ## #has_/text_of_/abstract 
 
 > The **Vietnam War** (1 November 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina Wars and a major proxy war of the Cold War between the Soviet Union and US. Direct US military involvement greatly escalated from 1965 until its withdrawal in 1973. The fighting spilled over into the Laotian and Cambodian Civil Wars, which ended with all three countries becoming communist in 1975.

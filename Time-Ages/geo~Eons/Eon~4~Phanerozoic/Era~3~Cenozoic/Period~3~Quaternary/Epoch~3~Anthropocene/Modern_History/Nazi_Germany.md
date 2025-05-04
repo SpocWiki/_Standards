@@ -110,6 +110,10 @@ Universal_Decimal_Classification:
   - 94(430).086
 ---
 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Nazi_Germany,7318]] 
+
 ## #has_/text_of_/abstract 
 
 > **Nazi Germany**, officially known as the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. The Third Reich, meaning "Third Realm" or "Third Empire", referred to the Nazi claim that Nazi Germany was the successor to the earlier Holy Roman Empire (800/962–1806) and German Empire (1871–1918). The Third Reich, which the Nazis referred to as the Thousand-Year Reich, ended in May 1945, after only 12 years, when the Allies defeated Germany and entered the capital, Berlin, ending World War II in Europe.

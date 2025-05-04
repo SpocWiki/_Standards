@@ -89,8 +89,11 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Holocaust,145549
 UMLS_CUI: C0206236
 ---
 
-#has_/time_/started :: 1941-06-01 
-#has_/time_/stopped  :: 1945-05-08 
+#has_/time_/started :: 1933-06 
+#has_/time_/stopped  :: 1945-06 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~The_Holocaust,2763]]
 
 
 ## #has_/text_of_/abstract  

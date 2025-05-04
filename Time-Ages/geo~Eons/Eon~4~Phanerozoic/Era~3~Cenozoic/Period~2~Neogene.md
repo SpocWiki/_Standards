@@ -10,6 +10,14 @@ A time period from 23.03 to 2.58 million years ago.
 #has_/prev_item :: [[Period~1~Paleogene]] 
 #has_/next_item :: [[Period~3~Quaternary]] 
 
+#has_/abbreviation :: N
+#has_/time_/started :: -23.03e6 
+#has_/time_/stopped ::  -2.58e6 
+
+    sh:order 21 
+
+#has_/text_of_/color :: 0xFFE619
+
 ## #has_/text_of_/abstract 
 
 
@@ -37,14 +45,6 @@ A time period from 23.03 to 2.58 million years ago.
 #has_/label_/sl  :: neogen
 #has_/label_/sv  :: neogen
 #has_/label_/zh  :: 晚第三纪
-
-#has_/abbreviation :: N
-#has_/time_/started :: -23.03e6 
-#has_/time_/stopped ::  -2.58e6 
-
-    sh:order 21 
-
-#has_/text_of_/color :: 0xFFE619
 
 ## All Contents
 

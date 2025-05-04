@@ -416,11 +416,44 @@ Capital :: [[Bujumbura]]
 
 ## #has_/text_of_/abstract 
 
-> **Burundi**, officially the Republic of Burundi, is a landlocked country in the Great Rift Valley at the junction between the African Great Lakes region and Southeast Africa, with population of over 14 million people. It is bordered by Rwanda to the north, Tanzania to the east and southeast, and the Democratic Republic of the Congo to the west; Lake Tanganyika lies along its southwestern border. The capital city is Gitega and the largest city is Bujumbura.
+> **Burundi**, officially the Republic of Burundi, is a landlocked country in the Great Rift Valley 
+> at the junction between the African Great Lakes region and Southeast Africa, 
+> with population of over 14 million people. 
+> 
+> It is bordered by Rwanda to the north, Tanzania to the east and southeast, 
+> and the Democratic Republic of the Congo to the west; 
+> Lake Tanganyika lies along its southwestern border. 
+> The capital city is Gitega and the largest city is Bujumbura.
 >
-> The Twa, Hutu and Tutsi peoples have lived in Burundi for at least 500 years. For more than 200 of those years, Burundi was an independent kingdom. In 1885, it became part of the German colony of German East Africa. After the First World War and Germany's defeat, the League of Nations mandated the territories of Burundi and neighboring Rwanda to Belgium in a combined territory called Rwanda-Urundi. After the Second World War, this transformed into a United Nations Trust Territory. Burundi gained independence in 1962 and initially retained the monarchy; a 1966 coup replaced the monarchy with a one-party republic. Over the next 27 years, Burundi was ruled by a series of Tutsi dictators and notably experienced a genocide of Hutus in 1972. In July 1993, Melchior Ndadaye became Burundi's first Hutu president following the country's first multi-party presidential election. His assassination three months later during a coup attempt provoked the 12-year Burundian Civil War. In 2000, the Arusha Agreement was adopted, which was largely integrated in a new constitution in 2005. Since the 2005 post-war elections, the country's dominant party has been the Hutu-led National Council for the Defense of Democracy – Forces for the Defense of Democracy (CNDD–FDD), widely accused of authoritarian governance and perpetuating the country's poor human rights record.
+> The Twa, Hutu and Tutsi peoples have lived in Burundi for at least 500 years. 
+> For more than 200 of those years, Burundi was an independent kingdom. 
+> 
+> In 1885, it became part of the German colony of German East Africa. 
+> After the First World War and Germany's defeat, the League of Nations 
+> mandated the territories of Burundi and neighboring Rwanda 
+> to Belgium in a combined territory called Rwanda-Urundi. 
+> 
+> After the Second World War, this transformed into a United Nations Trust Territory. 
+> Burundi gained independence in 1962 and initially retained the monarchy; 
+> a 1966 coup replaced the monarchy with a one-party republic. 
+> 
+> Over the next 27 years, Burundi was ruled by a series of Tutsi dictators 
+> and notably experienced a genocide of Hutus in 1972. 
+> 
+> In July 1993, Melchior Ndadaye became Burundi's first Hutu president 
+> following the country's first multi-party presidential election. 
+> His assassination three months later during a coup attempt 
+> provoked the 12-year Burundian Civil War. 
+> 
+> In 2000, the Arusha Agreement was adopted, 
+> which was largely integrated in a new constitution in 2005. 
+> Since the 2005 post-war elections, the country's dominant party has been the Hutu-led 
+> National Council for the Defense of Democracy – Forces for the Defense of Democracy (CNDD–FDD), 
+> widely accused of authoritarian governance and perpetuating the country's poor human rights record.
 >
-> Burundi remains primarily a rural society, with just 13.4% of the population living in urban areas in 2019. Burundi is densely populated, and many young people emigrate in search of opportunities elsewhere. Roughly 85% of the population are of Hutu ethnic origin, 15% are Tutsi, and fewer than 1% are Twa. The official languages of Burundi are Kirundi, French, and English—Kirundi being officially recognised as the sole national language. English was made an official language in 2014.
+> Burundi remains primarily a rural society, 
+> with just 13.4% of the population living in urban areas in 2019. 
+> Burundi is densely populated, and many young people emigrate in search of opportunities elsewhere. Roughly 85% of the population are of Hutu ethnic origin, 15% are Tutsi, and fewer than 1% are Twa. The official languages of Burundi are Kirundi, French, and English—Kirundi being officially recognised as the sole national language. English was made an official language in 2014.
 >
 > One of the smallest countries in Africa, Burundi's land is used mostly for subsistence agriculture and grazing. Deforestation, soil erosion, and habitat loss are major ecological concerns. As of 2005, the country was almost completely deforested. Less than 6% of its land was covered by trees, with over half of that being for commercial plantations. Burundi is the poorest country in the world by nominal GDP per capita and is one of the least developed countries. It faces widespread poverty, corruption, instability, authoritarianism and illiteracy. The 2018 World Happiness Report ranked the country as the world's least happy with a rank of 156. Burundi is a member of the African Union, Common Market for Eastern and Southern Africa, United Nations, East African Community (EAC), OIF and the Non-Aligned Movement.
 >

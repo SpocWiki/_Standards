@@ -1,3 +1,8 @@
+---
+aliases:
+  - East Europe
+  - Eastern Europe
+---
 ﻿
 
 

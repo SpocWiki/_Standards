@@ -3,6 +3,22 @@ aliases:
   - Holocene calendar
   - Holocene Era
   - Human Era
+has_id_wikidata: Q25445
+instance of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+named by: "[[_Standards/WikiData/WD~Paul Gervais,433721]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+significant event: "[[_Standards/WikiData/WD~Middle Bronze Age Cold Epoch,4375138]]"
+part of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+start time: -9700-01-01T00:00:00Z
+sRGB color hex triplet: FEEBD2
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide.jpg
+IPA transcription: /ˈhɒl.əsiːn/
+Commons category: Holocene
 ---
 
 # [[Epoch~2~Holocene]] 
@@ -10,13 +26,13 @@ aliases:
 #is_a_/time_/Epoch 
 
 A time period from 11_650 years ago to the present. 
-It starts 200 years into the so-called Human Era, 
-which can be converted to Gregorian Calendar by adding 10000 years. 
-
+It starts 200 years into the so-called __Human Era__, 
+which can be __converted to Gregorian Calendar by adding 10000 years__. 
+It follows the Last Glacial Period, which concluded with the Holocene glacial retreat. 
 
 #has_/abbreviation :: Q2
 #has_/time_/started :: -10.e3 
-#has_/time_/stopped ::   2.0e3 
+#has_/time_/stopped ::   1492
 
     sh:order 4 
 
@@ -27,13 +43,13 @@ which can be converted to Gregorian Calendar by adding 10000 years.
 
 #has_/prev_item :: [[Epoch~1~Pleistocene]]   
 #has_/next_item :: [[Epoch~3~Anthropocene]]    
+#is_/same_as :: [[../../../../../WikiData/WD~Holocene,25445]]
 
 ## #has_/text_of_/abstract 
 
 > The **Holocene** is the current geological epoch. 
 > It began approximately 9,700 years before the Common Era (BCE) 
 > (11,650  cal years BP, or 300 HE). 
-> It follows the Last Glacial Period, which concluded with the Holocene glacial retreat. 
 > 
 > The Holocene and the preceding Pleistocene together form the Quaternary period. 
 > The Holocene has been identified with the current warm period, known as MIS 1. 
