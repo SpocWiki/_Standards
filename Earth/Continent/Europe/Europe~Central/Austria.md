@@ -424,13 +424,32 @@ into a Subfolder named `Austria`, so that this Link into the Sub-Repository work
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
 
+## #has_/parts_  
+
+List of Constituent States
+with numbers as of 2023-06 
+
+| State         |   Pop / k | Area / km² |   GDP (2021, €) | GDP per Capita (€) | HDI (2022) | Notable Properties                                           |
+| ------------- | --------: | ---------: | --------------: | -----------------: | ---------- | ------------------------------------------------------------ |
+| Vienna        | 1,867,582 |        415 | 110,992,000,000 |             56,600 | 0.948      | Capital city; cultural and political center                  |
+| Lower Austria | 1,665,753 |     19,178 |  71,757,000,000 |             41,900 | 0.893      | Largest state by area; diverse economy                       |
+| Upper Austria | 1,465,045 |     11,982 |  76,780,000,000 |             50,700 | 0.917      | Industrial hub; strong manufacturing sector                  |
+| Styria        | 1,237,298 |     16,401 |  56,152,000,000 |             44,600 | 0.923      | Known for green technology and innovation                    |
+| Tyrol         |   746,153 |     12,648 |  39,328,000,000 |             51,200 | 0.938      | Alpine region; tourism and winter sports                     |
+| Carinthia     |   561,077 |      9,536 |  24,755,000,000 |             43,600 | 0.913      | Lakes and mountains; tourism industry                        |
+| Salzburg      |   549,263 |      7,154 |  33,330,000,000 |             58,900 | 0.945      | Birthplace of Mozart; UNESCO World Heritage Site             |
+| Vorarlberg    |   388,752 |      2,601 |  23,588,000,000 |             58,300 | 0.917      | Westernmost state; strong textile and electronics industries |
+| Burgenland    |   291,942 |      3,965 |  10,454,000,000 |             34,900 | 0.890      | Wine production; renewable energy initiatives                |
+
+
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Austria/Flag_of_Austria.svg|200]] <img src="./Austria/Flag_of_Austria.svg" width="200"/> 
 
-## Major Cities 
 
-Population in 1000s as of @2020
+## #has_/place_/city   
+
+Major Cities with Population in 1000s as of @2020
 
 | City                                                                                        | Federal State                                    | Pop/k | Notable Attributes                                                        |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----: | ------------------------------------------------------------------------- |

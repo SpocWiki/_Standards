@@ -697,25 +697,26 @@ Major Cities with Population in 1000s as of @2020
 ## #has_/parts_  
 
 List of Constituent States
+with numbers as of 2023-06 
 
-| State                                                                   | Population (2023) | Area (km²) | GDP (2023, €)   | GDP per Capita (€) | HDI (2022) | Notable Properties                                                     |
-| ----------------------------------------------------------------------- | ----------------- | ---------- | --------------- | ------------------ | ---------- | ---------------------------------------------------------------------- |
-| [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]          | 11,230,740        | 35,748     | 544,000,000,000 | 54,339             | 0.963      | Strong automotive industry; home to companies like Daimler and Porsche |
-| [[Germany/Germany~West/Bayern\|Bavaria]] (Bayern)                       | 13,176,426        | 70,541     | 756,000,000,000 | 57,343             | 0.958      | Largest state by area; economic powerhouse with diverse industries     |
-| [[Germany/Germany~West/State~Berlin/cities~Berlin/Berlin\|Berlin]]      | 3,662,381         | 891.1      | 187,000,000,000 | 51,209             | 0.967      | Capital city; cultural and political center                            |
-| [[Germany/Germany~East/Brandenburg\|Brandenburg]]                       | 2,554,464         | 29,654     | 97,000,000,000  | 37,814             | 0.926      | Surrounds Berlin; known for its lakes and natural reserves             |
-| [[Germany/Germany~West/State~Bremen/cities~Bremen/Bremen\|Bremen]]      | 702,655           | 419.4      | 40,000,000,000  | 56,981             | 0.954      | Smallest state; major port city                                        |
-| [[Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg\|Hamburg]]  | 1,851,596         | 755.1      | 146,000,000,000 | 79,167             | 0.975      | Major port and commercial hub                                          |
-| [[Germany/Germany~West/Hessen\|Hesse]]                                  | 6,267,546         | 21,116     | 343,000,000,000 | 54,806             | 0.954      | Financial center; Frankfurt hosts European Central Bank                |
-| [[Germany/Germany~West/Niedersachsen\|Lower Saxony]]                    | 8,008,135         | 47,710     | 356,000,000,000 | 44,531             | 0.936      | Strong agricultural sector; Volkswagen headquarters in Wolfsburg       |
-| [[Germany/Germany~East/Mecklenburg-Vorpommern\|Mecklenburg-Vorpommern]] | 1,578,041         | 23,295     | 57,000,000,000  | 36,335             | 0.922      | Known for Baltic Sea coastline and tourism                             |
-| [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]]    | 18,017,520        | 34,112     | 832,000,000,000 | 46,194             | 0.946      | Most populous state; diverse economy including industry and services   |
-| [[Germany/Germany~West/Rheinland-Pfalz\|Rhineland-Palatinate]]          | 4,125,163         | 19,858     | 172,000,000,000 | 41,797             | 0.938      | Renowned for wine production and chemical industry                     |
-| [[Germany/Germany~West/Saarland\|Saarland]]                             | 1,014,047         | 2,572      | 42,000,000,000  | 41,617             | 0.934      | Smallest state by population; industrial history                       |
-| [[Germany/Germany~East/Sachsen\|Saxony]]                                | 4,054,689         | 18,450     | 155,000,000,000 | 38,143             | 0.944      | Known for cultural heritage and growing tech industry                  |
-| [[Germany/Germany~East/Sachsen-Anhalt\|Saxony-Anhalt]]                  | 2,144,570         | 20,464     | 77,000,000,000  | 35,911             | 0.921      | Rich in history; undergoing economic transformation                    |
-| [[Germany/Germany~West/Schleswig-Holstein\|Schleswig-Holstein]]         | 2,953,202         | 15,804     | 118,000,000,000 | 40,090             | 0.929      | Coastal state; significant in renewable energy                         |
-| [[Germany/Germany~East/Thüringen\|Thuringia]]                           | 2,114,870         | 16,202     | 75,000,000,000  | 35,715             | 0.928      | Central location; known for forests and cultural sites                 |
+| State                                                                   | Popltn / k | Area / kkm² | GDP / G€ | GDPpP  / k€ | HDI   | Notable Properties                                                     |
+| ----------------------------------------------------------------------- | ---------: | ----------: | -------: | ----------: | ----- | ---------------------------------------------------------------------- |
+| [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]          |     11.230 |      35.748 |      544 |      54.339 | 0.963 | Strong automotive industry; home to companies like Daimler and Porsche |
+| [[Germany/Germany~West/Bayern\|Bavaria]]                                |     13.176 |      70.541 |      756 |      57.343 | 0.958 | Largest state by area; economic powerhouse with diverse industries     |
+| [[Germany/Germany~West/State~Berlin/cities~Berlin/Berlin\|Berlin]]      |      3.662 |       0.891 |      187 |      51.209 | 0.967 | Capital city; cultural and political center                            |
+| [[Germany/Germany~East/Brandenburg\|Brandenburg]]                       |      2.554 |      29.654 |       97 |      37.814 | 0.926 | Surrounds Berlin; known for its lakes and natural reserves             |
+| [[Germany/Germany~West/State~Bremen/cities~Bremen/Bremen\|Bremen]]      |       .702 |       0.419 |       40 |      56.981 | 0.954 | Smallest state; major port city                                        |
+| [[Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg\|Hamburg]]  |      1.851 |       0.755 |      146 |      79.167 | 0.975 | Major port and commercial hub                                          |
+| [[Germany/Germany~West/Hessen\|Hesse]]                                  |      6.267 |      21.116 |      343 |      54.806 | 0.954 | Financial center; Frankfurt hosts European Central Bank                |
+| [[Germany/Germany~West/Niedersachsen\|Lower Saxony]]                    |      8.008 |      47.710 |      356 |      44.531 | 0.936 | Strong agricultural sector; Volkswagen headquarters in Wolfsburg       |
+| [[Germany/Germany~East/Mecklenburg-Vorpommern\|Mecklenburg-Vorpommern]] |      1.578 |      23.295 |       57 |      36.335 | 0.922 | Known for Baltic Sea coastline and tourism                             |
+| [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]]    |     18.017 |      34.112 |      832 |      46.194 | 0.946 | Most populous state; diverse economy including industry and services   |
+| [[Germany/Germany~West/Rheinland-Pfalz\|Rhineland-Palatinate]]          |      4.125 |      19.858 |      172 |      41.797 | 0.938 | Renowned for wine production and chemical industry                     |
+| [[Germany/Germany~West/Saarland\|Saarland]]                             |      1.014 |       2.572 |       42 |      41.617 | 0.934 | Smallest state by population; industrial history                       |
+| [[Germany/Germany~East/Sachsen\|Saxony]]                                |      4.054 |      18.450 |      155 |      38.143 | 0.944 | Known for cultural heritage and growing tech industry                  |
+| [[Germany/Germany~East/Sachsen-Anhalt\|Saxony-Anhalt]]                  |      2.144 |      20.464 |       77 |      35.911 | 0.921 | Rich in history; undergoing economic transformation                    |
+| [[Germany/Germany~West/Schleswig-Holstein\|Schleswig-Holstein]]         |      2.953 |      15.804 |      118 |      40.090 | 0.929 | Coastal state; significant in renewable energy                         |
+| [[Germany/Germany~East/Thüringen\|Thuringia]]                           |      2.114 |      16.202 |       75 |      35.715 | 0.928 | Central location; known for forests and cultural sites                 |
 
 
 ## #has_/text_of_/abstract  
