@@ -584,14 +584,42 @@ into a Subfolder named `France`, so that this Link into the Sub-Repository works
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
+## #has_/parts 
+
+Numbers are of 2022-06 
+
+| Region                                                 |  Pop/M |   kkm² |  GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                         |
+| ------------------------------------------------------ | -----: | -----: | ------: | -------: | ----- | ---------------------------------------------------------- |
+| [[Italy/regions~Italy/Lombardy\|Lombardy]]             | 10.342 | 23.864 | 388.800 |   38.600 | 0.912 | Economic powerhouse; major industrial and financial center |
+| [[Italy/regions~Italy/Lazio\|Lazio]]                   |  5.745 | 17.232 | 198.000 |   33.600 | 0.914 | Capital region; political and cultural hub                 |
+| [[Italy/regions~Italy/Veneto\|Veneto]]                 |  4.883 | 18.345 | 163.000 |   33.200 | 0.900 | Strong manufacturing sector; tourism in Venice             |
+| [[Italy/regions~Italy/Emilia-Romagna\|Emilia-Romagna]] |  4.452 | 22.453 | 161.000 |   36.200 | 0.921 | High quality of life; robust economy                       |
+| [[Italy/regions~Italy/Piedmont\|Piedmont]]             |  4.302 | 25.387 | 137.000 |   31.500 | 0.898 | Automotive industry; historical significance               |
+| [[Italy/regions~Italy/Campania\|Campania]]             |  5.615 | 13.671 | 108.000 |   18.600 | 0.854 | Rich cultural heritage; economic challenges                |
+| [[Italy/regions~Italy/Tuscany\|Tuscany]]               |  3.698 | 22.987 | 118.000 |   31.500 | 0.907 | Renowned for art and history; tourism-driven economy       |
+| [[Italy/regions~Italy/Apulia\|Apulia]]                 |  3.945 | 19.541 |  76.600 |   19.000 | 0.854 | Agriculture and tourism; southern region                   |
+| [[Italy/regions~Italy/Sicily\|Sicily]]                 |  4.825 | 25.832 |  89.200 |   17.800 | 0.845 | Largest island; diverse economy                            |
+| [[Italy/regions~Italy/Liguria\|Liguria]]               |  1.535 |  5.416 |  49.900 |   32.100 | 0.898 | Port cities; shipbuilding industry                         |
+| [[Italy/regions~Italy/Marche\|Marche]]                 |  1.524 |  9.401 |  43.200 |   28.300 | 0.901 | Manufacturing and agriculture                              |
+| [[Italy/regions~Italy/Calabria\|Calabria]]             |  1.870 | 15.222 |  33.300 |   17.000 | 0.845 | Southernmost region; economic development focus            |
+| [[Italy/regions~Italy/Friuli-Venezia_Giulia\|Friuli-Venezia Giulia]]                                  |  1.219 |  7.924 |  38.000 |   31.200 | 0.903 | Autonomous region; diverse economy                         |
+| [[Italy/regions~Italy/Sardinia\|Sardinia]]             |  1.604 | 24.100 |  34.900 |   21.200 | 0.868 | Island region; tourism and agriculture                     |
+| [[Italy/regions~Italy/Abruzzo\|Abruzzo]]               |  1.307 | 10.832 |  33.900 |   25.800 | 0.889 | Mountainous terrain; mixed economy                         |
+| [[Italy/regions~Italy/Trentino\|Trentino]]             |  1.111 | 13.606 |  41.700 |   39.200 | 0.920 | Autonomous region; high standard of living                 |
+| [[Italy/regions~Italy/Umbria\|Umbria]]                 |  0.930 |  8.464 |  22.500 |   25.400 | 0.897 | Landlocked region; cultural tourism                        |
+| [[Italy/regions~Italy/Basilicata\|Basilicata]]         |  0.559 | 10.073 |  12.600 |   22.200 | 0.862 | Least populous; rural economy                              |
+| [[Italy/regions~Italy/Molise\|Molise]]                 |  0.324 |  4.461 |   6.500 |   20.900 | 0.872 | Smallest region; agriculture and services                  |
+| [[Italy/regions~Italy/Aosta_Valley\|Aosta]] Valley     |  0.143 |  3.261 |   4.900 |   38.900 | 0.887 | Smallest population; autonomous region                     |
 
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Flag_of_Italy.svg|200]] <img src="./Flag_of_Italy.svg" width="200"/> 
 
-## Major Cities 
+
+## #has_/place_/city   
 
 Population in 1000s as of @2024
+The population figures are based on data from 2024. ([statta.com](https://wwwtista.com/statistics/589331/largest-cities-in-italy-by-population/?utm_source=chatgpt.com))
 
 | City                                                                          | Region                                                 | Pop/k |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------ | ----: |
@@ -605,9 +633,6 @@ Population in 1000s as of @2024
 | [[Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City\|Florenz]]   | [[Italy/regions~Italy/Tuscany\|Tuscany]]               |   370 |
 | [[Bari]]                                                                      | [[Italy/regions~Italy/Apulia\|Apulia]]                 |   320 |
 
-Th pulation figures are based on data from 2024. ([statta.com](https://wwwtista.com/statistics/589331/largest-cities-in-italy-by-population/?utm_source=chatgpt.com))
-
-It is importantnote that population estimates can vary depending on the source and the year of the data. For instance, the Italian National Institute of Statistics (ISTAT) maovide different figures based on their methodologies and the timing of data collection. Therefore, while the above table offers a general overview of thost populous cities in Italy, specific numbers may differ across various publications.
 
 ## #has_/text_of_/abstract  
 

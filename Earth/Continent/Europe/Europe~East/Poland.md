@@ -551,13 +551,37 @@ into a Subfolder named `Poland`, so that this Link into the Sub-Repository works
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
+## #has_/parts 
+
+Numbers are of 2022-06 
+
+| [[Poland/Provinces~Poland\|Voivodeship]]                             | Pop/M |   kkm² | GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                   |
+| -------------------------------------------------------------------- | ----: | -----: | -----: | -------: | ----- | ---------------------------------------------------- |
+| [[Poland/Provinces~Poland/Masovian\|Masovian]]                       | 5.425 | 35.559 |    112 |   20.650 | 0.931 | Capital region; economic and political center        |
+| [[Poland/Provinces~Poland/Silesian\|Silesian]]                                                             | 4.492 | 12.333 |     60 |   13.360 | 0.896 | Industrial heartland; dense urban population         |
+| [[Poland/Provinces~Poland/Greater_Poland\|Greater Poland]]                                                       | 3.496 | 29.826 |     45 |   12.880 | 0.894 | Historical region; strong agricultural sector        |
+| [[Poland/Provinces~Poland/Lesser_Poland\|Lesser Poland]]                                                        | 3.410 | 15.183 |     40 |   11.730 | 0.891 | Cultural heritage; tourism and education hub         |
+| [[Poland/Provinces~Poland/Lower_Silesian\|Lower Silesian]]                                                       | 2.891 | 19.947 |     38 |   13.150 | 0.889 | Economic growth; technology and innovation center    |
+| [[Poland/Provinces~Poland/Łódź,Province\|Łódź]]                                                                 | 2.438 | 18.219 |     30 |   12.310 | 0.887 | Textile industry; central location                   |
+| [[Poland/Provinces~Poland/Pomeranian\|Pomeranian]]                   | 2.347 | 18.323 |     28 |   11.930 | 0.881 | Baltic Sea access; shipbuilding and maritime economy |
+| [[Poland/Provinces~Poland/Lublin,Province\|Lublin]]                  | 2.095 | 25.123 |     22 |   10.500 | 0.875 | Agricultural region; cultural traditions             |
+| [[Poland/Provinces~Poland/Subcarpathian\|Subcarpathian]]             | 2.121 | 17.846 |     20 |    9.430 | 0.874 | Scenic landscapes; aviation industry                 |
+| [[Poland/Provinces~Poland/Kuyavian-Pomeranian\|Kuyavian-Pomeranian]] | 2.062 | 17.971 |     24 |   11.640 | 0.873 | Mixed economy; historical cities                     |
+| [[Poland/Provinces~Poland/West_Pomeranian\|West Pomeranian]]                                                      | 1.688 | 22.905 |     20 |   11.850 | 0.872 | Ports and shipyards; tourism                         |
+| [[Poland/Provinces~Poland/Warmian-Masurian\|Warmian-Masurian]]       | 1.416 | 24.173 |     15 |   10.590 | 0.871 | Lakes and forests; tourism and agriculture           |
+| [[Poland/Provinces~Poland/Podlachian\|Podlaskie]]                                                            | 1.173 | 20.187 |     12 |   10.230 | 0.869 | Natural reserves; multicultural heritage             |
+| [[Poland/Provinces~Poland/Świętokrzyskie\|Świętokrzyskie]]           | 1.225 | 11.710 |     13 |   10.610 | 0.865 | Mountains and mineral resources                      |
+| [[Poland/Provinces~Poland/Opole\|Opole]]                             | 0.977 |  9.412 |     11 |   11.260 | 0.863 | German minority; agriculture and industry            |
+| [[Poland/Provinces~Poland/Lubusz\|Lubusz]]                           | 1.007 | 13.988 |     12 |   11.920 | 0.853 | Forested areas; cross-border trade                   |
 
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Poland/Flag_of_Poland.svg|200]] <img src="./Poland/Flag_of_Poland.svg" width="200"/> 
 
 
-## Major Cities 
+
+## #has_/place_/city   
+
 
 Population in 1000s as of @2024
 

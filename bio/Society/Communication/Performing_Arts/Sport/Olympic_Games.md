@@ -127,13 +127,13 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1956 | [[../../../../../Earth/Continent/Australasia/Australia\|Australia]]               | [[Melbourne]]                   |  S  | 1956-11-22 | 1988-12-08 |
 | 1960 | [[../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Squaw Valley]]                |  W  | 1960-02-18 | 1984-02-28 |
 | 1960 | [[../../../../../Earth/Continent/Europe/Europe~South/Italy\|Italy]]               | [[Rome]]                        |  S  | 1960-08-25 | 1984-09-11 |
-| 1964 | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria\|Austria]]         | [[Innsbruck]]                   |  W  | 1964-01-29 | 1980-02-09 |
+| 1964 | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria\|Austria]]         | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck]]                   |  W  | 1964-01-29 | 1980-02-09 |
 | 1964 | [[../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[Tokyo]]                       |  S  | 1964-10-10 | 1980-10-24 |
 | 1968 | [[../../../../../Earth/Continent/Europe/Europe~West/France\|France]]              | [[Grenoble]]                    |  W  | 1968-02-06 | 1976-02-18 |
 | 1968 | [[../../../../../Earth/Continent/America~Central/Mexico\|Mexico]]                 | [[Mexico City]]                 |  S  | 1968-10-12 | 1976-10-27 |
 | 1972 | [[../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[Sapporo]]                     |  W  | 1972-02-03 | 1972-02-13 |
 | 1972 | [[Germany/Germany~West]]                                                          | [[Munich]]                      |  S  | 1972-08-26 | 1972-09-11 |
-| 1976 | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria\|Austria]]         | [[Innsbruck]]                   |  W  | 1976-02-04 | 1968-02-15 |
+| 1976 | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria\|Austria]]         | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck]]                   |  W  | 1976-02-04 | 1968-02-15 |
 | 1976 | [[../../../../../Earth/Continent/America~North/Canada\|Canada]]                   | [[Montreal]]                    |  S  | 1976-07-17 | 1968-08-01 |
 | 1980 | [[../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Lake Placid]]                 |  W  | 1980-02-13 | 1964-02-24 |
 | 1980 | [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Soviet_Union\|Soviet_Union]]       | [[Moscow]]                      |  S  | 1980-07-19 | 1964-08-03 |
