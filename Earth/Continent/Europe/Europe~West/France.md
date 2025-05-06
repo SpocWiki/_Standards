@@ -609,9 +609,40 @@ into a Subfolder named `France`, so that this Link into the Sub-Repository works
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
 
+
+## #has_/parts 
+
+Numbers are of 2022-06 
+
+| Region                                                                           |  Pop/M |   kkm² |    GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                      |
+| -------------------------------------------------------------------------------- | -----: | -----: | --------: | -------: | ----- | ------------------------------------------------------- |
+| [[France/regions~France/Île-de-France\|Île-de-France]]                           | 12.300 | 12.012 | 1,000.000 |   81.300 | 0.960 | Capital region; economic and cultural hub               |
+| [[France/regions~France/Auvergne-Rhône-Alpes\|Auvergne-Rhône-Alpes]]             |  8.000 | 69.711 |   380.915 |   47.091 | 0.920 | Diverse economy; strong industrial base                 |
+| [[France/regions~France/Nouvelle-Aquitaine\|Nouvelle-Aquitaine]]                 |  6.000 | 84.036 |   246.056 |   40.748 | 0.910 | Largest region by area; significant agricultural sector |
+| [[France/regions~France/Occitanie\|Occitanie]]                                   |  5.900 | 72.724 |   237.421 |   39.685 | 0.905 | Rapidly growing; aerospace industry presence            |
+| [[France/regions~France/Hauts-de-France\|Hauts-de-France]]                       |  6.000 | 31.813 |   229.586 |   38.321 | 0.900 | Industrial heritage; undergoing economic transformation |
+| [[France/regions~France/Grand_Est\|Grand Est]]                                   |  5.500 | 57.433 |   265.412 |   47.700 | 0.915 | Bordering Germany; strong manufacturing sector          |
+| [[France/regions~France/Provence-Alpes-Côte_d'Azur\|Provence-Alpes-Côte d'Azur]] |  5.000 | 31.400 |   306.678 |   61.300 | 0.925 | Tourism and service-oriented economy                    |
+| [[France/regions~France/Pays_de_la_Loire\|Pays de la Loire]]                     |  3.800 | 32.082 |   203.298 |   52.228 | 0.910 | Maritime industries; agricultural production            |
+| [[France/regions~France/Bretagne\|Brittany]]                                     |  3.300 | 27.208 |   170.861 |   49.922 | 0.905 | Strong cultural identity; fishing and agriculture       |
+| [[France/regions~France/Normandie\|Normandy]]                                    |  3.300 | 29.906 |   159.006 |   47.848 | 0.900 | Historical significance; energy production              |
+| [[France/regions~France/Bourgogne-Franche-Comté\|Bourgogne-Franche-Comté]]       |  2.800 | 47.784 |   129.868 |   46.506 | 0.895 | Wine production; mechanical industries                  |
+| [[France/regions~France/Pays_de_la_Loire\|Centre-Val de Loire]]                                                              |  2.600 | 39.151 |   118.658 |   46.122 | 0.890 | Agricultural region; historical landmarks               |
+| [[France/regions~France/Corse\|Corsica]]                                         |  0.340 |  8.680 |    15.284 |   43.564 | 0.885 | Island region; tourism-driven economy                   |
+| [[../../Africa/Africa~East/Mascarene-Islands/Reunion\|Réunion]]                  |  0.860 |  2.512 |    32.142 |   37.400 | 0.880 | Overseas department; volcanic landscapes                |
+| [[../../America~Caribbean/Guadeloupe\|Guadeloupe]]                               |  0.400 |  1.628 |    15.559 |   38.050 | 0.875 | Caribbean island; tourism and agriculture               |
+| [[../../America~Caribbean/Martinique\|Martinique]]                               |  0.360 |  1.128 |    14.320 |   40.587 | 0.870 | Caribbean island; rum production                        |
+| [[../../America~South/French_Guiana\|French Guiana]]                             |  0.300 | 83.846 |     6.767 |   22.556 | 0.850 | Amazon rainforest; spaceport location                   |
+| [[../../Africa/Africa~East/Mayotte\|Mayotte]]                                    |  0.270 |  0.374 |     4.965 |   18.389 | 0.800 | Indian Ocean island; youngest French department         |
+
+
 ### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./France/Flag_of_France.svg|200]] <img src="./France/Flag_of_France.svg" width="200"/> 
+
+
+## #has_/place_/city   
+
 
 Population in 1000s as of @2019
 

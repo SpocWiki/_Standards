@@ -551,44 +551,106 @@ into a Subfolder named `Canada`, so that this Link into the Sub-Repository works
 
 #has_/image_for_/flag :: ![[./Canada/Flag_of_Canada.svg|200]] <img src="./Canada/Flag_of_Canada.svg" width=200/> 
 
+
+## #has_/parts 
+
+Numbers are of 2022-06 
+
+| Province/Territory                                                           | Popl/k | kkm² | GDP/ G$CAD | GDPpP/ k$CAD | HDI   | Notable Properties                                                    |
+| ---------------------------------------------------------------------------- | -----: | ---: | ---------: | -----------: | ----- | --------------------------------------------------------------------- |
+| [[Canada/provinces~Canada/Ontario\|Ontario]]                                 | 15.623 | 1076 |   1119.545 |       71.659 | 0.942 | Canada's most populous province; economic hub with diverse industries |
+| [[../../../City/Quebec\|Quebec]]                                             |  8.848 | 1542 |    579.460 |       65.490 | 0.926 | Predominantly French-speaking; strong cultural identity               |
+| [[Canada/provinces~Canada/British_Columbia\|British Columbia]]               |  5.531 |  944 |    409.881 |       74.099 | 0.935 | Pacific coastline; significant forestry and technology sectors        |
+| [[Canada/provinces~Canada/Alberta\|Alberta]]                                 |  4.684 |  661 |    452.410 |       96.576 | 0.936 | Rich in natural resources; leading oil and gas producer               |
+| [[Canada/provinces~Canada/Manitoba\|Manitoba]]                               |  1.454 |  647 |     91.872 |       63.153 | 0.922 | Agricultural heartland; diverse economy                               |
+| [[Canada/provinces~Canada/Saskatchewan\|Saskatchewan]]                       |  1.209 |  651 |    109.702 |       90.715 | 0.922 | Major producer of potash and wheat                                    |
+| [[Canada/provinces~Canada/Nova_Scotia\|Nova Scotia]]                         |  1.056 |   55 |     59.574 |       56.389 | 0.922 | Maritime province; strong fishing and shipbuilding industries         |
+| [[Canada/provinces~Canada/New_Brunswick\|New Brunswick]]                     |    832 |   72 |     47.035 |       56.520 | 0.922 | Forestry and mining sectors; bilingual population                     |
+| [[Canada/provinces~Canada/Newfoundland-Labrador\|Newfoundland and Labrador]] |    538 |  405 |     38.959 |       72.293 | 0.922 | Offshore oil production; rugged coastline                             |
+| Prince Edward Island                                                         |    173 |    5 |      9.924 |       57.129 | 0.922 | Smallest province; known for agriculture and tourism                  |
+| [[Canada/provinces~Canada/Northwest_Territories\|Northwest Territories]]     |     44 | 1346 |      5.478 |      122.602 | 0.922 | Rich in minerals; sparse population                                   |
+| [[Canada/provinces~Canada/Yukon_Territory\|Yukon]]                                                                        |     45 |  482 |      4.330 |       95.242 | 0.922 | Mining industry; scenic landscapes                                    |
+| [[Canada/provinces~Canada/Nunavut\|Nunavut]]                                 |     40 | 2093 |      4.825 |      118.550 | 0.922 | Largest territory by area; predominantly Indigenous population        |
+
+
 ## #has_/text_of_/abstract  
 
-> **Canada** is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the world's second-largest country by total area, with the world's longest coastline. Its border with the United States is the world's longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. It is a sparsely inhabited country of 40 million people, the vast majority residing south of the 55th parallel in urban areas. Canada's capital is [[Canada/provinces~Canada/Ontario/City/Ottawa|Ottawa]] and its three largest metropolitan areas are [[Canada/provinces~Canada/Ontario/City/Toronto|Toronto]], [[Canada/provinces~Canada/Quebec,Province/City/Montreal|Montreal]], and [[Canada/provinces~Canada/British_Columbia/City/Vancouver|Vancouver]].
+> **Canada** is a country in North America. 
+> Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean 
+> and northward into the Arctic Ocean, making it the world's second-largest country by total area, 
+> with the world's longest coastline. 
+> 
+> Its border with the United States is the world's longest international land border. 
+> The country is characterized by a wide range of both meteorologic and geological regions. 
+> It is a sparsely inhabited country of 40 million people, 
+> the vast majority residing south of the 55th parallel in urban areas. 
+> Canada's capital is [[Canada/provinces~Canada/Ontario/City/Ottawa|Ottawa]] and its three largest metropolitan areas are [[Canada/provinces~Canada/Ontario/City/Toronto|Toronto]], [[Canada/provinces~Canada/Quebec,Province/City/Montreal|Montreal]], and [[Canada/provinces~Canada/British_Columbia/City/Vancouver|Vancouver]].
 >
-> Indigenous peoples have continuously inhabited what is now Canada for thousands of years. Beginning in the 16th century, British and French expeditions explored and later settled along the Atlantic coast. As a consequence of various armed conflicts, France ceded nearly all of its colonies in North America in 1763. In 1867, with the union of three British North American colonies through Confederation, Canada was formed as a federal dominion of four provinces. This began an accretion of provinces and territories and a process of increasing autonomy from the United Kingdom, highlighted by the Statute of Westminster, 1931, and culminating in the Canada Act 1982, which severed the vestiges of legal dependence on the Parliament of the United Kingdom.
+> Indigenous peoples have continuously inhabited what is now Canada for thousands of years. 
+> Beginning in the 16th century, British and French expeditions explored 
+> and later settled along the Atlantic coast. 
+> 
+> As a consequence of various armed conflicts, 
+> France ceded nearly all of its colonies in North America in 1763. 
+> In 1867, with the union of three British North American colonies through Confederation, 
+> Canada was formed as a federal dominion of four provinces. 
+> This began an accretion of provinces and territories 
+> and a process of increasing autonomy from the United Kingdom, 
+> highlighted by the Statute of Westminster, 1931, and culminating in the [[Canada Act]] 1982, 
+> which severed the vestiges of legal dependence on the Parliament of the United Kingdom.
 >
-> Canada is a parliamentary democracy and a constitutional monarchy in the Westminster tradition. The country's head of government is the prime minister, who holds office by virtue of their ability to command the confidence of the elected House of Commons and is "called upon" by the governor general, representing the monarch of Canada, the head of state. The country is a Commonwealth realm and is officially bilingual (English and French) in the federal jurisdiction. It is very highly ranked in international measurements of government transparency, quality of life, economic competitiveness, innovation, education and gender equality. It is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration. Canada's long and complex relationship with the United States has had a significant impact on its history, economy, and culture.
+> Canada is a parliamentary democracy and a constitutional monarchy in the Westminster tradition. 
+> The country's head of government is the prime minister, 
+> who holds office by virtue of their ability to command the confidence of the elected House of Commons 
+> and is "called upon" by the governor general, representing the monarch of Canada, the head of state. 
+> The country is a Commonwealth realm 
+> and is officially bilingual (English and French) in the federal jurisdiction. 
+> 
+> It is very highly ranked in international measurements of government transparency, quality of life, economic competitiveness, innovation, education and gender equality. 
+> It is one of the world's most ethnically diverse and multicultural nations, 
+> the product of large-scale immigration. 
+> Canada's long and complex relationship with the United States 
+> has had a significant impact on its history, economy, and culture.
 >
-> A developed country, Canada has a high nominal per capita income globally and its advanced economy ranks among the largest in the world, relying chiefly upon its abundant natural resources and well-developed international trade networks. Canada is recognized as a middle power for its role in international affairs, with a tendency to pursue multilateral and international solutions. Canada's peacekeeping role during the 20th century has had a significant influence on its global image. Canada is part of multiple international organizations and forums.
+> A developed country, Canada has a high nominal per capita income globally 
+> and its advanced economy ranks among the largest in the world, 
+> relying chiefly upon its abundant natural resources and well-developed international trade networks. 
+> 
+> Canada is recognized as a middle power for its role in international affairs, 
+> with a tendency to pursue multilateral and international solutions. 
+> Canada's peacekeeping role during the 20th century has had a significant influence on its global image. 
+> Canada is part of multiple international organizations and forums.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Canada)
+> [Wikipedia](https://en.wikipedia.org/wiki/Canada) 
 
 
-## Major Canadian Cities 
 
+## #has_/place_/city   
 
-| City                                                                       | Province                                                       | Population (2021) |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------- |
-| [[Canada/provinces~Canada/Ontario/City/Toronto\|Toronto]]                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 2,794,356         |
-| [[Canada/provinces~Canada/Quebec,Province/City/Montreal\|Montreal]]        | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            | 1,762,949         |
-| [[Canada/provinces~Canada/Alberta/City/Calgary\|Calgary]]                  | [[Canada/provinces~Canada/Alberta\|Alberta]]                   | 1,306,784         |
-| [[Canada/provinces~Canada/Ontario/City/Ottawa\|Ottawa]]                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 1,017,449         |
-| [[Canada/provinces~Canada/Alberta/City/Edmonton\|Edmonton]]                | [[Canada/provinces~Canada/Alberta\|Alberta]]                   | 1,010,899         |
-| [[Canada/provinces~Canada/Manitoba/City/Winnipeg\|Winnipeg]]               | [[Canada/provinces~Canada/Manitoba\|Manitoba]]                 | 749,607           |
-| Mississauga                                                                | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 717,961           |
-| [[Canada/provinces~Canada/British_Columbia/City/Vancouver\|Vancouver]]     | [[Canada/provinces~Canada/British_Columbia\|British Columbia]] | 662,248           |
-| Brampton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 656,480           |
-| Hamilton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 569,353           |
-| Surrey                                                                     | [[Canada/provinces~Canada/British_Columbia\|British Columbia]] | 568,322           |
-| [[Canada/provinces~Canada/Quebec,Province/City/Quebeck,City\|Québec City]] | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            | 549,459           |
-| Laval                                                                      | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            | 438,366           |
-| [[Canada/provinces~Canada/Ontario/City/London,Ontario\|London,Ontario]]    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 422,324           |
-| Halifax                                                                    | [[Canada/provinces~Canada/Nova_Scotia\|Nova Scotia]]           | 348,634           |
-| Markham                                                                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 338,503           |
-| Vaughan                                                                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 323,103           |
-| Gatineau                                                                   | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            | 291,041           |
-| Saskatoon                                                                  | [[Canada/provinces~Canada/Saskatchewan\|Saskatchewan]]         | 266,141           |
-| Kitchener                                                                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   | 256,885           |
+Major Cities with Population in 1000s as of @2021
+
+| City                                                                       | Province                                                       | Pop/k |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------- | ----: |
+| [[Canada/provinces~Canada/Ontario/City/Toronto\|Toronto]]                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  2794 |
+| [[Canada/provinces~Canada/Quebec,Province/City/Montreal\|Montreal]]        | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |  1762 |
+| [[Canada/provinces~Canada/Alberta/City/Calgary\|Calgary]]                  | [[Canada/provinces~Canada/Alberta\|Alberta]]                   |  1306 |
+| [[Canada/provinces~Canada/Ontario/City/Ottawa\|Ottawa]]                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  1017 |
+| [[Canada/provinces~Canada/Alberta/City/Edmonton\|Edmonton]]                | [[Canada/provinces~Canada/Alberta\|Alberta]]                   |  1010 |
+| [[Canada/provinces~Canada/Manitoba/City/Winnipeg\|Winnipeg]]               | [[Canada/provinces~Canada/Manitoba\|Manitoba]]                 |   749 |
+| Mississauga                                                                | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   717 |
+| [[Canada/provinces~Canada/British_Columbia/City/Vancouver\|Vancouver]]     | [[Canada/provinces~Canada/British_Columbia\|British Columbia]] |   662 |
+| Brampton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   656 |
+| Hamilton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   569 |
+| Surrey                                                                     | [[Canada/provinces~Canada/British_Columbia\|British Columbia]] |   568 |
+| [[Canada/provinces~Canada/Quebec,Province/City/Quebeck,City\|Québec City]] | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |   549 |
+| Laval                                                                      | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |   438 |
+| [[Canada/provinces~Canada/Ontario/City/London,Ontario\|London,Ontario]]    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   422 |
+| Halifax                                                                    | [[Canada/provinces~Canada/Nova_Scotia\|Nova Scotia]]           |   348 |
+| Markham                                                                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   338 |
+| Vaughan                                                                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   323 |
+| Gatineau                                                                   | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |   291 |
+| Saskatoon                                                                  | [[Canada/provinces~Canada/Saskatchewan\|Saskatchewan]]         |   266 |
+| Kitchener                                                                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   256 |
 
 
 ## Maps and Flags 

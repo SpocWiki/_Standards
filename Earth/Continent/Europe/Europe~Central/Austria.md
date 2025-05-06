@@ -429,17 +429,17 @@ into a Subfolder named `Austria`, so that this Link into the Sub-Repository work
 List of Constituent States
 with numbers as of 2023-06 
 
-| State         |   Pop / k | Area / km² |   GDP (2021, €) | GDP per Capita (€) | HDI (2022) | Notable Properties                                           |
-| ------------- | --------: | ---------: | --------------: | -----------------: | ---------- | ------------------------------------------------------------ |
-| Vienna        | 1,867,582 |        415 | 110,992,000,000 |             56,600 | 0.948      | Capital city; cultural and political center                  |
-| Lower Austria | 1,665,753 |     19,178 |  71,757,000,000 |             41,900 | 0.893      | Largest state by area; diverse economy                       |
-| Upper Austria | 1,465,045 |     11,982 |  76,780,000,000 |             50,700 | 0.917      | Industrial hub; strong manufacturing sector                  |
-| Styria        | 1,237,298 |     16,401 |  56,152,000,000 |             44,600 | 0.923      | Known for green technology and innovation                    |
-| Tyrol         |   746,153 |     12,648 |  39,328,000,000 |             51,200 | 0.938      | Alpine region; tourism and winter sports                     |
-| Carinthia     |   561,077 |      9,536 |  24,755,000,000 |             43,600 | 0.913      | Lakes and mountains; tourism industry                        |
-| Salzburg      |   549,263 |      7,154 |  33,330,000,000 |             58,900 | 0.945      | Birthplace of Mozart; UNESCO World Heritage Site             |
-| Vorarlberg    |   388,752 |      2,601 |  23,588,000,000 |             58,300 | 0.917      | Westernmost state; strong textile and electronics industries |
-| Burgenland    |   291,942 |      3,965 |  10,454,000,000 |             34,900 | 0.890      | Wine production; renewable energy initiatives                |
+| State                                             |   Pop / k | Area / km² |          GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                           |
+| ------------------------------------------------- | --------: | ---------: | --------------: | -------: | ----- | ------------------------------------------------------------ |
+| [[Austria/Austrias_States/Wien,State\|Vienna]]              |     1.867 |      0.415 | 110.992 |   56.6 | 0.948 | Capital city; cultural and political center                  |
+| [[Austria/Austrias_States/Niederösterreich\|Lower Austria]] |  1665.753 |     19.178 |  71.757 |   41.9 | 0.893 | Largest state by area; diverse economy                       |
+| [[Austria/Austrias_States/Oberösterreich\|Upper Austria]]   |     1.465 |     11.982 |  76.780 |   50.7 | 0.917 | Industrial hub; strong manufacturing sector                  |
+| [[Austria/Austrias_States/Steiermark\|Styria]]              |     1.237 |     16.401 |  56.152 |   44.6 | 0.923 | Known for green technology and innovation                    |
+| [[Austria/Austrias_States/Tirol\|Tyrol]]                    |       746 |     12.648 |  39.328 |   51.2 | 0.938 | Alpine region; tourism and winter sports                     |
+| [[Austria/Austrias_States/Kärnten\|Carinthia]]              |   561.077 |      9.536 |  24.755 |   43.6 | 0.913 | Lakes and mountains; tourism industry                        |
+| [[Austria/Austrias_States/Salzburg,State\|Salzburg]]        |       549 |      7.154 |  33.330 |   58.9 | 0.945 | Birthplace of Mozart; UNESCO World Heritage Site             |
+| [[Austria/Austrias_States/Vorarlberg\|Vorarlberg]]          |       388 |      2.601 |  23.588 |   58.3 | 0.917 | Westernmost state; strong textile and electronics industries |
+| [[Austria/Austrias_States/Burgenland\|Burgenland]]          |       291 |      3.965 |  10.454 |   34.9 | 0.890 | Wine production; renewable energy initiatives                |
 
 
 ### #has_/image_for_/flag 
@@ -453,22 +453,22 @@ Major Cities with Population in 1000s as of @2020
 
 | City                                                                                        | Federal State                                    | Pop/k | Notable Attributes                                                        |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----: | ------------------------------------------------------------------------- |
-| [[Austria/State/Wien,State/Wien,City\|Vienna]]                                              | [[Austria/State/Wien,State\|Vienna,State]]       | 1900 | National capital, political, economic, and cultural hub                   |
-| [[Austria/State/Steiermark/City/Graz\|Graz]]                                                | [[Austria/State/Steiermark\|Styria]]             |  330 | Second largest city, academic and economic center                         |
-| [[Austria/State/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City\|Linz,City]] | [[Austria/State/Oberösterreich\|Upper Austria]]  |  210 | Industrial, technological, and innovation center                          |
-| [[Austria/State/Salzburg,State/City/Salzburg,City\|Salzburg]]                               | [[Austria/State/Salzburg,State\|Salzburg,State]] |  155 | Internationally renowned for cultural heritage and tourism                |
-| [[Austria/State/Tirol/City/Innsbruck\|Innsbruck]]                                           | [[Austria/State/Tirol\|Tyrol]]                   |  130 | Key center for winter sports and tourism with significant economic impact |
+| [[Austria/Austrias_States/Wien,State/Wien,City\|Vienna]]                                              | [[Austria/Austrias_States/Wien,State\|Vienna,State]]       | 1900 | National capital, political, economic, and cultural hub                   |
+| [[Austria/Austrias_States/Steiermark/City/Graz\|Graz]]                                                | [[Austria/Austrias_States/Steiermark\|Styria]]             |  330 | Second largest city, academic and economic center                         |
+| [[Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City\|Linz,City]] | [[Austria/Austrias_States/Oberösterreich\|Upper Austria]]  |  210 | Industrial, technological, and innovation center                          |
+| [[Austria/Austrias_States/Salzburg,State/City/Salzburg,City\|Salzburg]]                               | [[Austria/Austrias_States/Salzburg,State\|Salzburg,State]] |  155 | Internationally renowned for cultural heritage and tourism                |
+| [[Austria/Austrias_States/Tirol/City/Innsbruck\|Innsbruck]]                                           | [[Austria/Austrias_States/Tirol\|Tyrol]]                   |  130 | Key center for winter sports and tourism with significant economic impact |
 
 ## #has_/text_of_/abstract  
 
 > **Austria**, formally the Republic of Austria, 
-> is a landlocked country in Central Europe, lying in the Eastern Alps. 
+> is a landlocked country in [[../Europe~Central|Central Europe]], lying in the Eastern Alps. 
 > It is a federation of nine federal states, one of which is the capital, 
 > Vienna, the most populous city and federal state. 
 > 
-> Austria is bordered by Germany to the northwest, the Czech Republic to the north, 
-> Slovakia to the northeast, Hungary to the east, Slovenia and Italy to the south, 
-> and Switzerland and Liechtenstein to the west. 
+> Austria is bordered by [[Germany]] to the northwest, the [[Czech_Republic|Czech Republic]] to the north, 
+> [[Slovakia]] to the northeast, [[../Europe~East/Hungary|Hungary]] to the east, [[Slovenia]] and [[../Europe~South/Italy|Italy]] to the south, 
+> and [[Switzerland]] and [[Liechtenstein]] to the west. 
 > 
 > The country occupies an area of 83,879 km2 (32,386 sq mi) 
 > and has a population of around 9 million. 
@@ -492,7 +492,7 @@ Major Cities with Population in 1000s as of @2020
 > Austria was its part with the name Cisleithania.
 >
 > After the assassination of Archduke Franz Ferdinand in 1914, 
-> Emperor Franz Joseph declared war on Serbia, which ultimately escalated into World War I. 
+> Emperor Franz Joseph declared war on Serbia, which ultimately escalated into [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_I|World War I]]. 
 > 
 > The empire's defeat and subsequent collapse 
 > led to the proclamation of the Republic of German-Austria in 1918 
@@ -502,8 +502,8 @@ Major Cities with Population in 1000s as of @2020
 > culminated in the formation of an Austrofascist dictatorship 
 > under Engelbert Dollfuss in 1934. 
 > 
-> A year before the outbreak of World War II, Austria was annexed into Nazi Germany 
-> by Adolf Hitler, and it became a sub-national division. 
+> A year before the outbreak of [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_II|World War II]], Austria was annexed into [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Nazi_Germany|Nazi Germany]] 
+> by [[../../../../bio/People/Leaders/Modern_Leaders/Hitler,Adolf|Adolf Hitler]], and it became a sub-national division. 
 > 
 > After its liberation in 1945 and a decade of Allied occupation, 
 > the country regained its sovereignty and declared its perpetual neutrality in 1955.
@@ -608,7 +608,7 @@ Sub-region_Name ::  [[Western Europe]]
 [Area-Land::82730]
 has_place_continent:: [[Europe]]  
 [VehicleCode::A]
-Capital ::[[Austria/State/Wien,State/Wien,City]]]  
+Capital ::[[Austria/Austrias_States/Wien,State/Wien,City]]]  
 
 
 [Alcohol-l::13.2]
