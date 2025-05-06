@@ -475,8 +475,16 @@ coordinates_of_northernmost_point: "Point(26.17267 41.74886)"
 
 # [[Greece]] 
 
-For more Details, check out this Repository into this Subfolder: 
+
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Greece)
+into a Subfolder named `Greece`, so that this Link into the Sub-Repository works: [[Greece/ReadMe]] 
+
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Greece 
+
+> [!warning] This can considerably increase the total size and depth of your wiki!
+
+
 
 [[Greece/ReadMe]] 
 
@@ -576,6 +584,28 @@ Capital :: [[Greece/Regions-Greek/Attica/cities~Attica/Athens|Athens]]
 #is_a_ :: [[Place]] 
 [has_place_longitude::23.0356]
 [has_place_latitude::38.6175]
+
+
+## #has_/parts_  
+
+List of Constituent States
+with numbers as of 2023-06 
+
+| Region                                                                       | Pop/k |   kkm² |  GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                            |
+| ---------------------------------------------------------------------------- | ----: | -----: | ------: | -------: | ----- | --------------------------------------------- |
+| [[Greece/Regions-Greek/Attica\|Attica]]                                                                       |  3784 |  3.808 | 367.000 |   97.030 | 0.918 | Capital region; economic and political center |
+| [[Greece/Regions-Greek/Macedonia~Central\|Central Macedonia]]                                                            |  1778 | 18.811 |  50.500 |   28.418 | 0.872 | Second most populous; includes Thessaloniki   |
+| [[Greece/Regions-Greek/Thessaly\|Thessaly]]                                                                     |   678 | 14.037 |   7.240 |   10.661 | 0.880 | Agricultural hub; mountainous terrain         |
+| [[Greece/Regions-Greek/Crete\|Crete]]                                        |   622 |  8.336 |   6.430 |   10.331 | 0.882 | Largest island; tourism and agriculture       |
+| [[Greece/Regions-Greek/Greece~West\|Western Greece]]                         |   640 | 11.350 |   5.820 |    9.093 | 0.864 | Diverse economy; includes Patras              |
+| [[Greece/Regions-Greek/Peloponnese\|Peloponnese]]                            |   531 | 15.490 |   5.170 |    9.729 | 0.871 | Historical significance; agriculture          |
+| [[Greece/Regions-Greek/Greece~Central\|Central Greece]]                      |   505 | 15.549 |   5.800 |   11.475 | 0.876 | Rich in natural resources; includes Delphi    |
+| [[Greece/Regions-Greek/Macedonia~East-Thrace\|Eastern Macedonia and Thrace]] |   561 | 14.157 |   4.560 |    8.117 | 0.862 | Border region; diverse cultural heritage      |
+| [[Greece/Regions-Greek/Aegean~South\|South Aegean]]                          |   327 |  5.286 |   2.210 |    6.737 | 0.868 | Island region; tourism-driven economy         |
+| [[Greece/Regions-Greek/Epirus\|Epirus]]                                      |   321 |  9.203 |   1.420 |    4.432 | 0.878 | Mountainous; known for natural beauty         |
+| [[Greece/Regions-Greek/Macedonia~West\|Western Macedonia]]                   |   247 |  9.451 |   1.130 |    4.552 | 0.885 | Energy production; mountainous landscape      |
+| [[Greece/Regions-Greek/Aegean~North\|North Aegean]]                          |   201 |  3.836 |   0.544 |    2.704 | 0.870 | Island region; challenges in connectivity     |
+| [[Greece/Regions-Greek/Ionian_Islands\|Ionian Islands]]                      |   200 |  2.307 |   0.671 |    3.343 | 0.872 | Island region; tourism and agriculture        |
 
 
 ## #has_/text_of_/abstract 

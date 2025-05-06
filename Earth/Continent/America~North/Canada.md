@@ -596,7 +596,7 @@ Numbers are of 2022-06
 > Canada was formed as a federal dominion of four provinces. 
 > This began an accretion of provinces and territories 
 > and a process of increasing autonomy from the United Kingdom, 
-> highlighted by the Statute of Westminster, 1931, and culminating in the [[Canada Act]] 1982, 
+> highlighted by the Statute of Westminster, 1931, and culminating in the [[Canada/Canada_Act]] 1982, 
 > which severed the vestiges of legal dependence on the Parliament of the United Kingdom.
 >
 > Canada is a parliamentary democracy and a constitutional monarchy in the Westminster tradition. 
