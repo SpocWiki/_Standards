@@ -647,7 +647,7 @@ has_name:
 [has_place_latitude::50.8699] 
 
 #has_/time_/started :: 1949-05-23 
-## International Names
+## International Names 
 
 [	name	 :: Germany ]
 [	name-en	 :: Germany ]
@@ -667,7 +667,7 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
-> [!warning] This can considerably increase the total size and depth of your wiki.
+> [!warning] This can considerably increase the total size and depth of your wiki!
 
 
 ### #has_/image_for_/flag 
@@ -924,3 +924,50 @@ Capital :: [[../../../../WikiData/WD~Berlin,64]]
 ### [Germany.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal.md) 
 
 ### [Germany.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret.md) 
+
+Below is a detailed table of the 34 provincial-level divisions in China, which include 23 provinces, 5 autonomous regions, 4 direct-controlled municipalities, and 2 Special Administrative Regions. This data comprises key statistics such as population, area, Gross Regional Product (GRP), per capita GRP, Human Development Index (HDI), and notable properties.
+
+| Provincial-Level Division       | Type                    | Population (2022) | Area (km²)  | GRP (2021) (billion CNY) | Per Capita GRP (2021) (CNY) | HDI (2021) | Notable Properties                                       |
+|---------------------------------|-------------------------|-------------------|-------------|--------------------------|-----------------------------|------------|-----------------------------------------------------------|
+| Anhui                           | Province                | 61,340,000        | 139,400     | 4,290                    | 69,938                      | 0.780      | Known for historical sites and growing industries          |
+| Beijing                         | Municipality            | 21,930,000        | 16,410      | 4,051                    | 184,015                     | 0.919      | Political center, cultural and scientific hub             |
+| Chongqing                       | Municipality            | 32,050,000        | 82,400      | 2,592                    | 80,184                      | 0.814      | Major manufacturing base, significant urban-rural mix    |
+| Fujian                          | Province                | 41,540,000        | 121,400     | 5,000                    | 120,362                     | 0.815      | Coastal province, growing industries and trade            |
+| Gansu                           | Province                | 25,200,000        | 425,800     | 1,000                    | 39,683                      | 0.720      | Rich in mineral resources but economically less developed |
+| Guangdong                       | Province                | 126,010,000       | 179,800     | 12,436                   | 98,987                      | 0.848      | Economic powerhouse, technological and manufacturing hub  |
+| Guangxi Zhuang                  | Autonomous Region       | 50,020,000        | 236,700     | 2,484                    | 50,508                      | 0.766      | Rich cultural diversity, growing tourism sector          |
+| Guizhou                         | Province                | 38,380,000        | 176,200     | 1,900                    | 49,523                      | 0.718      | Known for ethnic diversity and natural beauty             |
+| Hainan                          | Province                | 10,200,000        | 33,920      | 636                      | 62,352                      | 0.780      | Tropical climate, rapidly developing tourism             |
+| Hebei                           | Province                | 75,210,000        | 188,800     | 4,192                    | 55,727                      | 0.776      | Industrial base, surrounded by Beijing and Tianjin       |
+| Heilongjiang                    | Province                | 31,850,000        | 473,000     | 1,300                    | 40,823                      | 0.766      | Known for agriculture and resources                       |
+| Henan                           | Province                | 99,280,000        | 167,000     | 6,000                    | 60,429                      | 0.774      | Historically significant, large population center        |
+| Hubei                           | Province                | 58,900,000        | 185,900     | 5,000                    | 85,000                      | 0.796      | Key economic and transport hub                           |
+| Hunan                           | Province                | 66,440,000        | 211,800     | 4,500                    | 67,746                      | 0.778      | Known for agriculture, rapidly developing industries      |
+| Inner Mongolia                  | Autonomous Region       | 24,050,000        | 1,183,000   | 2,000                    | 83,106                      | 0.812      | Rich in natural resources, vast grasslands               |
+| Jiangsu                         | Province                | 84,750,000        | 102,600     | 10,270                   | 120,994                     | 0.822      | Leading in manufacturing and technology                  |
+| Jiangxi                         | Province                | 45,200,000        | 167,000     | 2,800                    | 60,533                      | 0.772      | Rich natural beauty, traditionally agricultural          |
+| Jilin                           | Province                | 23,510,000        | 187,400     | 1,200                    | 57,566                      | 0.764      | Known for automotive industry and agriculture             |
+| Liaoning                        | Province                | 42,640,000        | 145,700     | 2,800                    | 65,615                      | 0.790      | Industrial base, significant urban populations           |
+| Ningxia Hui                     | Autonomous Region       | 7,240,000         | 66,400      | 427                      | 58,951                      | 0.775      | Known for energy resources, arid climate                 |
+| Qinghai                         | Province                | 5,990,000         | 720,000     | 300                      | 50,083                      | 0.743      | Sparse population, rich in mineral resources             |
+| Shaanxi                         | Province                | 39,530,000        | 205,600     | 3,245                    | 82,121                      | 0.790      | Historically rich, rapid economic development            |
+| Shandong                        | Province                | 101,530,000       | 157,100     | 8,946                    | 88,146                      | 0.812      | Industrial and agricultural strength                     |
+| Shanghai                        | Municipality            | 24,870,000        | 6,340       | 4,320                    | 173,872                     | 0.932      | Financial center, major economic dynamo                  |
+| Shanxi                          | Province                | 34,860,000        | 156,700     | 2,020                    | 57,951                      | 0.764      | Rich in coal, strong industrial base                     |
+| Sichuan                         | Province                | 84,300,000        | 485,000     | 5,385                    | 64,232                      | 0.790      | Agricultural powerhouse, growing manufacturing sector    |
+| Tianjin                         | Municipality            | 13,960,000        | 11,760      | 1,562                    | 112,535                     | 0.890      | Major port city, rapid economic growth                   |
+| Tibet (Xizang)                  | Autonomous Region       | 3,650,000         | 1,228,400   | 200                      | 56,164                      | 0.586      | Rich cultural heritage, located on the Tibetan Plateau   |
+| Xinjiang Uyghur                 | Autonomous Region       | 25,950,000        | 1,664,900   | 1,485                    | 58,134                      | 0.668      | Diverse ethnic cultures, significant energy resources    |
+| Yunnan                          | Province                | 48,300,000        | 394,000     | 2,600                    | 56,254                      | 0.748      | Known for biodiversity and ethnic diversity             |
+| Zhejiang                        | Province                | 64,760,000        | 105,500     | 7,350                    | 113,444                     | 0.824      | Rapidly growing economy, significant industrial base     |
+| Hong Kong                       | Special Administrative Region | 7,480,000   | 1,104       | 2,870                    | 383,418                     | 0.949      | Major financial hub, autonomous economic region          |
+| Macau                           | Special Administrative Region | 680,000     | 115         | 366                      | 537,629                     | 0.922      | Renowned for gaming and tourism, high per capita income  |
+
+This table presents statistical data compiled from Chinese statistical agencies and international economic reports. The figures pertain to recent estimates as of 2021/22 and should be substantiated by consulting pertinent government and statistical publications. 
+
+Resources:
+- National Bureau of Statistics of China (http://www.stats.gov.cn/english/)
+- United Nations Development Programme (UNDP) Reports 
+- Various provincial statistical yearbooks and government reports
+
+The data presented here should be verified by consulting official sources to ensure timeliness and veracity, considering potential updates and adjustments that occur over time.
