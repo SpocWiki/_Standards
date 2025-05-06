@@ -1293,10 +1293,61 @@ icon: flag-in
 
 # [[India]] 
 
-For more Details, check out this Repository into this Subfolder: 
+
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-India)
+into a Subfolder named `India`, so that this Link into the Sub-Repository works: [[India/ReadMe]] 
+
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-India 
 
-[[India/ReadMe]] 
+> [!warning] This can considerably increase the total size and depth of your wiki!
+
+
+
+## #has_/parts_  
+
+List of Constituent States
+with numbers as of 2021-06 
+
+| Federation Entity                                                                       |   Pop/M |    kkm² | GSDP/GINR | GSDPpP/kINR | HDI   | Notable Properties                                              |
+| --------------------------------------------------------------------------------------- | ------: | ------: | --------: | ----------: | ----- | --------------------------------------------------------------- |
+| [[Andhra_Pradesh]]                                                                      |  52.260 | 162.968 |  9533.918 |     182.935 | 0.703 | Famous for agriculture, rapid industrial growth                 |
+| [[Arunachal_Pradesh\|Arunachal Pradesh]]                                                |   1.600 |  83.743 |    29.485 |     167.000 | 0.667 | Rich biodiversity, sparsely populated                           |
+| [[Assam]]                                                                               |  36.000 |  78.438 |  3760.949 |     104.228 | 0.598 | Known for tea gardens, cultural diversity                       |
+| [[Bihar]]                                                                               | 125.000 |  94.163 |  6358.991 |      48.871 | 0.611 | High population density, historically rich                      |
+| [[Chhattisgarh]]                                                                        |  29.000 | 135.192 |   359.786 |     114.561 | 0.691 | Rich in mineral resources, diverse flora and fauna              |
+| [[Goa]]                                                                                 |   1.500 |   3.702 |    82.978 |     558.329 | 0.763 | Touristic state, known for beaches and cultural mix             |
+| [[Gujarat]]                                                                             |  63.000 | 196.024 |  1502.899 |     239.733 | 0.722 | Industrial hub, strong economic base                            |
+| [[Haryana]]                                                                             |  28.000 |  44.212 |   765.645 |     271.002 | 0.726 | Agricultural prosperity, rapidly developing industries          |
+| [[Himachal_Pradesh\|Himachal Pradesh]]                                                  |   7.300 |  55.673 |   166.832 |     207.374 | 0.735 | Known for tourism, picturesque landscapes                       |
+| [[Jharkhand]]                                                                           |  39.000 |  79.714 |   305.995 |      68.542 | 0.643 | Mineral-rich state, diverse cultural heritage                   |
+| [[Karnataka]]                                                                           |  68.000 | 191.791 |  1759.093 |     246.918 | 0.728 | Leading in IT and biotechnology, vibrant educational hub        |
+| [[Kerala]]                                                                              |  35.000 |  38.863 |   990.570 |     267.056 | 0.784 | High literacy rate, robust health indicators                    |
+| [[Madhya_Pradesh\|Madhya Pradesh]]                                                      |  85.000 | 308.350 |  1063.893 |     125.406 | 0.675 | Rich historical background, diverse agriculture and industries  |
+| [[Maharashtra]]                                                                         | 123.000 | 307.713 |  3224.224 |     269.283 | 0.796 | Financial hub, [[Mumbai]] financial capital                     |
+| [[Manipur]]                                                                             |   3.000 |  22.327 |    33.301 |     105.244 | 0.694 | Known for cultural heritage, scenic beauty                      |
+| [[Meghalaya]]                                                                           |   3.400 |  22.429 |    36.572 |     119.563 | 0.673 | Famous for its mountains, significant cultural diversity        |
+| [[Mizoram]]                                                                             |   1.200 |  21.081 |    20.548 |     163.128 | 0.700 | Known for hilly terrain, rich biodiversity                      |
+| [[Nagaland]]                                                                            |   2.200 |  16.579 |    27.283 |     112.156 | 0.682 | Cultural heritage, significant tribal population                |
+| [[Odisha]]                                                                              |  46.000 | 155.707 |   601.562 |     123.340 | 0.682 | Known for mining, cultural festivals                            |
+| [[Earth/Continent/Asia/Asia~South/India/States~India/Punjab\|Punjab]]                   |  30.000 |  50.362 |   567.912 |     177.165 | 0.725 | Agricultural backbone, significant historical sites             |
+| [[Rajasthan]]                                                                           |  83.000 | 342.239 |   884.741 |     108.583 | 0.682 | Known for its deserts, rich in minerals                         |
+| [[Sikkim]]                                                                              |    .680 |   7.096 |    29.758 |     438.582 | 0.755 | Famous for biodiversity, smallest state in population           |
+| [[Tamil_Nadu\|Tamil Nadu]]                                                              |  78.000 | 130.058 |  2091.728 |     269.500 | 0.708 | Industrial growth hub, rich cultural heritage                   |
+| [[Telangana]]                                                                           |  39.000 | 112.077 |   980.407 |     251.845 | 0.699 | Known for technology sector, rapid urbanization                 |
+| [[Tripura]]                                                                             |   4.000 |  10.486 |    46.875 |     121.605 | 0.660 | Rich in culture, largely agricultural                           |
+| [[Uttar_Pradesh\|Uttar Pradesh]]                                                        | 231.000 | 240.928 |  1749.490 |      73.071 | 0.617 | High population density, culturally diverse                     |
+| [[Uttarakhand]]                                                                         |  11.000 |  53.483 |   299.595 |     275.086 | 0.754 | Known for hill stations, high literacy rate                     |
+| [[West_Bengal\|West Bengal]]                                                            |  98.000 |  88.752 |  1281.230 |     130.739 | 0.722 | Known for cultural heritage, economic diversity                 |
+| [[Andaman_and_Nicobar\|Andaman and Nicobar]] Islands                                    |    .380 |   8.249 |     6.383 |     182.598 | 0.741 | Rich in biodiversity, sparsely populated                        |
+| [[Chandigarh]]                                                                          |   1.100 |    .114 |    31.574 |     363.136 | 0.774 | Planned city, high standard of living                           |
+| [[Dadra_and_Nagar_Haveli\|Dadra and Nagar Haveli]] and [[Daman_and_Diu\|Daman and Diu]] |    .615 |    .603 |    19.091 |     310.091 | 0.737 | Well known for tourism, significant fishing and industrial base |
+| [[Lakshadweep]]                                                                         |    . 70 |    . 32 |      .771 |     110.143 | 0.722 | Smallest Union Territory, known for its islands                 |
+| [[Delhi]]                                                                               |  20.000 |   1.484 |   856.112 |     428.515 | 0.746 | National capital, hub of political activities                   |
+| [[Puducherry]]                                                                          |   1.500 |    .492 |    38.904 |     257.360 | 0.726 | Known for French colonial history, cultural diversity           |
+| [[Jammu_and_Kashmir\|Jammu and Kashmir]]                                                |  13.600 |  55.538 |   161.171 |     118.498 | 0.688 | Known for its scenic beauty, ongoing geopolitical issues        |
+| [[Ladakh]]                                                                              |    .290 |  59.146 |    12.619 |     472.344 | 0.776 | Famous for its stunning landscapes, sparsely populated          |
+
 
 
 [	ISO4217-currency_alphabetic	 :: INR ]
