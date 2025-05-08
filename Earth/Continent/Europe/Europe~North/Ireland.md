@@ -399,10 +399,10 @@ with numbers as of 2021-06
 
 | Province | Pop/M |   kkm² | GVA/G€ |  pP/k€ | Notable Properties                                                                                                       |
 | -------- | ----: | -----: | -----: | -----: | ------------------------------------------------------------------------------------------------------------------------ |
-| Leinster | 2.858 | 19.774 |    213 | 74.537 | Includes [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City\|Dublin]], the capital and economic center |
-| Munster  | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                   |
-| Connacht | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                              |
-| Ulster   | 2.101 | 22.967 |     46 | 21.899 | Known for its cultural diversity and historical significance                                                             |
+| [[Ireland/Ireland,Provinces/Leinster\|Leinster]] | 2.858 | 19.774 |    213 | 74.537 | Includes [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City\|Dublin]], the capital and economic center |
+| [[Ireland/Ireland,Provinces/Munster\|Munster]]  | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                   |
+| [[Ireland/Ireland,Provinces/Connacht\|Connacht]] | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                              |
+| [[Ireland/Ireland,Provinces/Ulster\|Ulster]]   | 2.101 | 22.967 |     46 | 21.899 | Known for its cultural diversity and historical significance                                                             |
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]
@@ -500,9 +500,11 @@ Capital :: [[./Ireland/Counties/Dublin]]
 [has_place_longitude::-7.70895]
 [has_place_latitude::53.0702]
 
-## Major Cities 
 
-Population (2022) in Thousands 
+
+## #has_/place_/city   
+
+Major Cities with Population in 1000s as of @2022
 
 | City                                                                                       | County                                                                                                                         |    Pop/k |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | -------: |

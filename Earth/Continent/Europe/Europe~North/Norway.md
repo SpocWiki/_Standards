@@ -585,9 +585,11 @@ Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]
 
 ![[Flag_of_Norway.svg|350]]
 
-## Major Cities
 
-Population (as of 2024)
+
+## #has_/place_/city   
+
+Major Cities with Population in 1000s as of @2024
 
 | City                                                                                        | County                                                  |    Pop/k |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------: |
