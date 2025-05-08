@@ -721,6 +721,7 @@ with numbers as of 2023-06
 
 ## #has_/text_of_/abstract  
 
+
 > **Germany**, officially the [[Germany/Germany~West|Federal Republic of Germany]], 
 > is a country in the western region of [[../Europe~Central|Central Europe]]. 
 > 

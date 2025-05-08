@@ -665,7 +665,7 @@ markerFolder: ./UK/City/
 [Area-Land::241600] 
 has_place_continent:: [[Europe]]  
 [VehicleCode::GB] 
-Capital :: [[UK/City~London]]  
+Capital :: [[UK/London,City]]  
 [Alcohol-l::13.4] 
 [Language-Id::499] 
 [has_place_longitude::-2.14482] 
