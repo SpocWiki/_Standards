@@ -391,6 +391,20 @@ For more Details, check out this Repository into this Subfolder:
 [[Ireland/ReadMe]] 
 
 
+
+## #has_/parts_  
+
+List of Constituent States
+with numbers as of 2021-06 
+
+| Province | Pop/M |   kkm² | GVA/G€ |  pP/k€ | Notable Properties                                                                                                       |
+| -------- | ----: | -----: | -----: | -----: | ------------------------------------------------------------------------------------------------------------------------ |
+| Leinster | 2.858 | 19.774 |    213 | 74.537 | Includes [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City\|Dublin]], the capital and economic center |
+| Munster  | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                   |
+| Connacht | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                              |
+| Ulster   | 2.101 | 22.967 |     46 | 21.899 | Known for its cultural diversity and historical significance                                                             |
+
+
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -492,15 +506,15 @@ Population (2022) in Thousands
 
 | City                                                                                       | County                                                                                                                         |    Pop/k |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | -------: |
-| [[Ireland/Counties~Ireland/Dublin,County/counties~Dublin/Dublin,City\|Dublin]]             | [[Ireland/Counties~Ireland/Dublin,County\|County Dublin]], County [[Ireland/Counties~Ireland/Meath\|Meath]]                    | 1263.219 |
-| [[Ireland/Counties~Ireland/Cork,County/City/Cork,City\|Cork]]                              | [[Ireland/Counties~Ireland/Cork,County\|County Cork]]                                                                          |  222.526 |
-| [[Ireland/Counties~Ireland/Limerick,County/counties~Limerick/Limerick,City\|Limerick]]     | [[Ireland/Counties~Ireland/Limerick,County\|County Limerick]], County [[Ireland/Counties~Ireland/Clare\|Clare]]                |  102.287 |
-| [[Ireland/Counties~Ireland/Galway,County/counties~Galway/Galway,City\|Galway]]             | County [[Ireland/Counties~Ireland/Galway,County\|Galway]]                                                                      |   85.910 |
-| [[Ireland/Counties~Ireland/Waterford,County/counties~Waterford/Waterford,City\|Waterford]] | [[Ireland/Counties~Ireland/Waterford,County\|County Waterford]], [[Ireland/Counties~Ireland/Kilkenny,County\|County Kilkenny]] |   60.079 |
-| [[Ireland/Counties~Ireland/Meath/City/Drogheda\|Drogheda]]                                 | County [[Ireland/Counties~Ireland/Louth\|Louth]], County [[Ireland/Counties~Ireland/Meath\|Meath]]                             |   44.135 |
-| [[Ireland/Counties~Ireland/Louth/City/Dundalk\|Dundalk]]                                   | County [[Ireland/Counties~Ireland/Louth\|Louth]]                                                                               |   43.112 |
-| [[Ireland/Counties~Ireland/Dublin,County/City/Swords,Dublin\|Swords,Dublin]]               | County [[Ireland/Counties~Ireland/Dublin,County\|Dublin]]                                                                      |   40.776 |
-| [[Ireland/Counties~Ireland/Meath/counties~Meath/Navan\|Navan]]                             | County [[Ireland/Counties~Ireland/Meath\|Meath]]                                                                               |   33.886 |
+| [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City\|Dublin]]             | [[Ireland/Ireland,Provinces/Leinster/Dublin,County\|County Dublin]], County [[Ireland/Ireland,Provinces/Leinster/Meath\|Meath]]                    | 1263.219 |
+| [[Ireland/Ireland,Provinces/Munster/Cork,County/City/Cork,City\|Cork]]                              | [[Ireland/Ireland,Provinces/Munster/Cork,County\|County Cork]]                                                                          |  222.526 |
+| [[Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City\|Limerick]]     | [[Ireland/Ireland,Provinces/Munster/Limerick,County\|County Limerick]], County [[Ireland/Ireland,Provinces/Munster/Clare\|Clare]]                |  102.287 |
+| [[Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Galway,City\|Galway]]             | County [[Ireland/Ireland,Provinces/Connacht/Galway,County\|Galway]]                                                                      |   85.910 |
+| [[Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City\|Waterford]] | [[Ireland/Ireland,Provinces/Munster/Waterford,County\|County Waterford]], [[Ireland/Ireland,Provinces/Leinster/Kilkenny,County\|County Kilkenny]] |   60.079 |
+| [[Ireland/Ireland,Provinces/Leinster/Meath/City/Drogheda\|Drogheda]]                                 | County [[Ireland/Ireland,Provinces/Leinster/Louth\|Louth]], County [[Ireland/Ireland,Provinces/Leinster/Meath\|Meath]]                             |   44.135 |
+| [[Ireland/Ireland,Provinces/Leinster/Louth/City/Dundalk\|Dundalk]]                                   | County [[Ireland/Ireland,Provinces/Leinster/Louth\|Louth]]                                                                               |   43.112 |
+| [[Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Swords,Dublin\|Swords,Dublin]]               | County [[Ireland/Ireland,Provinces/Leinster/Dublin,County\|Dublin]]                                                                      |   40.776 |
+| [[Ireland/Ireland,Provinces/Leinster/Meath/counties~Meath/Navan\|Navan]]                             | County [[Ireland/Ireland,Provinces/Leinster/Meath\|Meath]]                                                                               |   33.886 |
 
 
 ![[Coat_of_arms_of_Ireland.svg|350]]

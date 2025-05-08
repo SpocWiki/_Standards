@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 60.1481
   - 20.3741
@@ -29,6 +29,7 @@ aliases:
   - 奥兰群岛
   - Аландские острова
   - Aland islands
+  - Åland
 Languages:
   - sv-AX
 ---
