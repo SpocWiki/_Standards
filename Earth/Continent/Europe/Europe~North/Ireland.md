@@ -398,7 +398,7 @@ List of Constituent States
 with numbers as of 2021-06 
 
 | Province | Pop/M |   kkm² | GVA/G€ |  pP/k€ | Notable Properties                                                                                                       |
-| -------- | ----: | -----: | -----: | -----: | ------------------------------------------------------------------------------------------------------------------------ |
+| -------- | ----: | -----: | -----: | -----: | ---------------------------------------------------------------------------------------------------------------------------------- |
 | [[Ireland/Ireland,Provinces/Leinster\|Leinster]] | 2.858 | 19.774 |    213 | 74.537 | Includes [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City\|Dublin]], the capital and economic center |
 | [[Ireland/Ireland,Provinces/Munster\|Munster]]  | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                   |
 | [[Ireland/Ireland,Provinces/Connacht\|Connacht]] | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                              |

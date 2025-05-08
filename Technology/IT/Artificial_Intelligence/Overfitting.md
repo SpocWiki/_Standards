@@ -2,32 +2,41 @@
 Overfitting is [[rote Learning]] 
 and arguable less efficient than comprehension and abstraction. 
 
-This also shows in the Overfitting Curve, 
-which plots the Fitting-Error of new Data over the Model Size: 
+## Overfitting Curve
 
-Initially it decreases, 
-but reaches a minimum at a moderate Model Size. 
+This also shows in the Overfitting Curve, 
+which plots the Error of __new__ Data over the Model Size: 
+
+The __Training Error__ continuously decreases with Model Size, as it becomes more and more adjustable. 
+Also the __Validation Error__ of unseen/new data decreases initially, 
+but reaches a minimum at a moderate Model Size, 
+from which on it increases again due to [[Overfitting]]. 
+
 Added Parameters lend themselves to overfitting, 
 which you can see already in linear Models where [[SVD]] can yield high Coefficients 
 that cancel each other in the Training Data, 
 but offshoot on other Data. 
 
 Until 2019 Model Size was therefore limited. 
-It is fascinating though, that increasing the Model Size to over the double optimum Size 
-makes the Errors shrink again, even below the previous minimum Error AKA Double Descent. 
+But it turned out that increasing the Model Size to over the double optimum Size 
+makes the __Validation Error__ shrink again, even below the previous minimum Error AKA Double Descent. 
+
+This is explained by the [[#Pruning_Sub-Networks]]: 
 
 ## Pruning_Sub-Networks 
-This can be explained by subnets being able to form that better fit the data. 
-Most of the Weights are useless. 
-This can be used to eliminate minor Weights (e.g the lowest 10%) and eventually Nodes 
+
+This can be explained by many subnets to form from the big network 
+giving ample change to better fit the data than any initial smaller network could. 
+Most of the Weights of the resulting big network are subsequently useless. 
+This gives a chance to eliminate minor Weights (e.g the lowest 10%) and eventually Nodes 
 and restart the process, but with the same (random) Start Weights. 
 
-This allows to shrink the model by more than 20 without reducing the [[Fitting-Error]]. 
+This allows to shrink the big model by more than 20 without reducing the [[Fitting-Error]]. 
 
 Large initial Networks now allow for many competing minimal Sub-Networks, 
 increasing the chance to find these Sub-Networks exponentially. 
 
-This is similar to [[../../../../Knowledge/Design/Ockham’s_Razor|occam’s_Razor]] 
+This is similar to [[../../../../Knowledge/Design/Ockham’s_Razor|Occam’s_Razor]] 
 
 
 [[../../../../Knowledge/Economy/Extraction_Economy]] 
