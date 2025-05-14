@@ -385,11 +385,14 @@ subreddit: ireland
 
 # [[Ireland]] 
 
-For more Details, check out this Repository into this Subfolder: 
+
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Ireland)
+into a Subfolder named `Ireland`, so that this Link into the Sub-Repository works: [[Ireland/ReadMe]] 
+
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Ireland 
 
-[[Ireland/ReadMe]] 
-
+> [!warning] This can considerably increase the total size and depth of your wiki!
 
 
 ## #has_/parts_  

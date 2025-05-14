@@ -19,7 +19,7 @@ A time period from 1.8 to 0.774 million years ago.
 > defined as 1.8 Ma—774,000 years ago ± 5,000 years, a period of ~1.026 million years.
 >
 > The end of the stage is defined by the last magnetic pole reversal (781 ± 5 Ka) 
-> and plunge into an ice age and global drying possibly colder and drier 
+> and plunge into an ice age and global drying possibly even colder and drier 
 > than the late Miocene (Messinian) through early Pliocene (Zanclean) cold period. 
 > 
 > Originally the Calabrian was a European faunal stage primarily based on mollusk fossils. 

@@ -21,7 +21,7 @@ Commons_category: Mercantilism
 > **Mercantilism** is a nationalist economic policy that is designed to 
 > - maximize the exports and 
 > - minimize the imports of an economy. 
-> In other words, it seeks to maximize the accumulation of resources within the country 
+> In other words, it seeks to maximize the __accumulation of resources__ within the country 
 > and use those resources for one-sided trade. 
 >
 > The concept aims to reduce a possible current account deficit or reach a current account surplus, 
@@ -32,6 +32,7 @@ Commons_category: Mercantilism
 >
 > Mercantilism promotes government regulation of a nation's economy 
 > for the purpose of augmenting and bolstering state power at the expense of rival national powers. 
+> 
 > High tariffs, especially on manufactured goods, were almost universally a feature of mercantilist policy. 
 > Before it fell into decline, mercantilism was dominant in modernized parts of Europe 
 > and some areas in Africa from the 16th to the 19th centuries, a period of proto-industrialization. 

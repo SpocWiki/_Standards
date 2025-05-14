@@ -3,6 +3,26 @@ aliases:
   - Holocene calendar
   - Holocene Era
   - Human Era
+  - Холоцен
+  - Holocén
+  - Holocæn
+  - Holozän
+  - Holoceno
+  - Holotseen
+  - Holoseeni
+  - Holocène
+  - holocén
+  - olocene
+  - 完新世
+  - Holocenas
+  - Holoceen
+  - Holocen
+  - Holocen
+  - Holocénico
+  - holocén
+  - holocen
+  - holocen
+  - 全新世
 has_id_wikidata: Q25445
 instance of:
   - "[[_Standards/WikiData/WD~series,312468]]"

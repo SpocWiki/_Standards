@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Publius Ovidius Naso"
 has_id_wikidata: Q7198
@@ -66,6 +66,9 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/22478
 Royal_Academy_new_identifier: ovid
 ---
 
+#has_/time_/started :: -0042-03-20 
+#has_/time_/stopped :: 0017-06 
+
 ## #has_/text_of_/abstract 
 
 > Publius **Ovid**ius Naso (Latin: [ˈpuːbliʊs ɔˈwɪdiʊs ˈnaːsoː]; 20 March 43 BC – AD 17/18), 
@@ -82,7 +85,12 @@ Royal_Academy_new_identifier: ovid
 > Ovid himself attributed his banishment to a "poem and a mistake", 
 > but his reluctance to disclose specifics has resulted in much speculation among scholars.
 >
-> Ovid is most famous for the Metamorphoses, a continuous mythological narrative in fifteen books written in dactylic hexameters. He is also known for works in elegiac couplets such as Ars Amatoria ("The Art of Love") and Fasti. His poetry was much imitated during Late Antiquity and the Middle Ages, and greatly influenced Western art and literature. The Metamorphoses remains one of the most important sources of classical mythology today.
+> Ovid is most famous for the [[Metamorphoses]], 
+> a continuous mythological narrative in fifteen books written in dactylic hexameters. 
+> He is also known for works in elegiac couplets such as Ars Amatoria ("The Art of Love") and Fasti. 
+> His poetry was much imitated during Late Antiquity and the Middle Ages, 
+> and greatly influenced Western art and literature. 
+> The Metamorphoses remains one of the most important sources of classical mythology today.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ovid)
 

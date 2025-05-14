@@ -1,3 +1,7 @@
+---
+aliases:
+  - Anthropozän
+---
 
 #has_/time_/started :: 1492  
 

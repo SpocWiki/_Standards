@@ -1,6 +1,26 @@
 ---
 aliases:
   - Ice Age
+  - Плейѿтоцен
+  - Pleistocén
+  - Pleistocæn
+  - Pleistozän
+  - Pleistoceno
+  - Pleistotseen
+  - Pleistoseeni
+  - Pléistocène
+  - pleisztocén
+  - pleistocene
+  - 更新世
+  - Pleistocenas
+  - Pleistoceen
+  - Pleistocen
+  - Plejstocen
+  - Plistocénico
+  - pleistocén
+  - pleistocen
+  - pleistocen
+  - 更新世
 ---
 
 ﻿

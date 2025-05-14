@@ -1,4 +1,4 @@
-﻿---
+---
 icon: far_map
 has_id_wikidata: Q5107
 subclass_of:
