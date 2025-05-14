@@ -400,19 +400,19 @@ into a Subfolder named `Ireland`, so that this Link into the Sub-Repository work
 List of Constituent States
 with numbers as of 2021-06 
 
-| Province | Pop/M |   kkm² | GVA/G€ |  pP/k€ | Notable Properties                                                                                                       |
-| -------- | ----: | -----: | -----: | -----: | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Province                                         | Pop/M |   kkm² | GVA/G€ |  pP/k€ | Notable Properties                                                                                                                 |
+| ------------------------------------------------ | ----: | -----: | -----: | -----: | ---------------------------------------------------------------------------------------------------------------------------------- |
 | [[Ireland/Ireland,Provinces/Leinster\|Leinster]] | 2.858 | 19.774 |    213 | 74.537 | Includes [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City\|Dublin]], the capital and economic center |
-| [[Ireland/Ireland,Provinces/Munster\|Munster]]  | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                   |
-| [[Ireland/Ireland,Provinces/Connacht\|Connacht]] | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                              |
-| [[Ireland/Ireland,Provinces/Ulster\|Ulster]]   | 2.101 | 22.967 |     46 | 21.899 | Known for its cultural diversity and historical significance                                                             |
+| [[Ireland/Ireland,Provinces/Munster\|Munster]]   | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                             |
+| [[Ireland/Ireland,Provinces/Connacht\|Connacht]] | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                                        |
+| [[Ireland/Ireland,Provinces/Ulster\|Ulster]]     | 2.101 | 22.967 |     46 | 21.899 | Known for its cultural diversity and historical significance                                                                       |
 
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: IRELAND ]
+[	ISO4217-currency_alphabetic	 :: EUR ] 
+[	ISO4217-currency_name	 :: Euro ] 
+[	ISO4217-currency_numeric	 :: 978 ] 
+[	ISO4217-currency_minor_unit	 :: 2 ] 
+[	ISO4217-currency_country_name	 :: IRELAND ] 
 
 [	Telephone	 :: 353 ]
 
