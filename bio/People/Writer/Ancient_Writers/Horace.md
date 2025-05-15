@@ -2,6 +2,7 @@
 aliases:
   - Quintus Horatius Flaccus
   - Q. Horatius Flaccus
+  - Horaz
 has_id_wikidata: Q6197
 social classification: "[[_Standards/WikiData/WD~equites,122166]]"
 has works in the collection:

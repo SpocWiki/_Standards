@@ -1,6 +1,7 @@
 ---
 aliases:
   - Divine Comedy
+  - Divina Commedia
 has_id_wikidata: Q40185
 characters:
   - "[[_Standards/WikiData/WD~Adam,70899]]"
@@ -256,6 +257,8 @@ Libris_URI: 97mqw83t1tj6j6c
 ---
 
 #is_/same_as :: [[../../../../WikiData/WD~The_Divine_Comedy,40185|WD~The_Divine_Comedy,40185]]
+
+#has_/time_/started :: 1308-06 
 
 ## #has_/text_of_/abstract 
 
