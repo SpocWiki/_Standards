@@ -72,14 +72,14 @@ Royal_Academy_new_identifier: ovid
 ## #has_/text_of_/abstract 
 
 > Publius **Ovid**ius Naso (Latin: [ˈpuːbliʊs ɔˈwɪdiʊs ˈnaːsoː]; 20 March 43 BC – AD 17/18), 
-> known in English as Ovid ( OV-id), was a Roman poet who lived during the reign of Augustus. 
+> known in English as Ovid ( OV-id), was a Roman poet who lived during the reign of [[../../Leaders/Ancient_Leaders/Augustus|Augustus]]. 
 > 
-> He was a younger contemporary of Virgil and Horace, 
-> with whom he is often ranked as one of the three canonical poets of Latin literature. 
+> He was a younger contemporary of [[Virgil]] and [[Horace]], 
+> with whom he is often ranked as one of the three canonical poets of [[Latin literature]]. 
 > The Imperial scholar Quintilian considered him the last of the Latin love elegists. 
 > 
 > Although Ovid enjoyed enormous popularity during his lifetime, 
-> the emperor Augustus exiled him to Tomis, 
+> the emperor [[../../Leaders/Ancient_Leaders/Augustus|Augustus]] exiled him to Tomis, 
 > the capital of the newly-organised province of Moesia, on the Black Sea, 
 > where he remained for the last nine or ten years of his life. 
 > Ovid himself attributed his banishment to a "poem and a mistake", 
@@ -88,7 +88,7 @@ Royal_Academy_new_identifier: ovid
 > Ovid is most famous for the [[Metamorphoses]], 
 > a continuous mythological narrative in fifteen books written in dactylic hexameters. 
 > He is also known for works in elegiac couplets such as Ars Amatoria ("The Art of Love") and Fasti. 
-> His poetry was much imitated during Late Antiquity and the Middle Ages, 
+> His poetry was much imitated during [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Late_Antiquity|Late Antiquity]] and the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages|Middle Ages]], 
 > and greatly influenced Western art and literature. 
 > The Metamorphoses remains one of the most important sources of classical mythology today.
 >
