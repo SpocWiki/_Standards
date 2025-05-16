@@ -157,7 +157,7 @@ shares_border_with:
 - "[[_Standards/WikiData/WD~Faroe_Islands,4628]]"
 - '[[_Standards/WikiData/WD~Svalbard,25231]]'
 - '[[_Standards/WikiData/WD~Greenland,223]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Iceland,8064]]"
 part_of:
 - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"

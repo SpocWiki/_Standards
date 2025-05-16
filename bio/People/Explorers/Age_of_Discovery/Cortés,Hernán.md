@@ -21,7 +21,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 place_of_birth: '[[_Standards/WikiData/WD~Medellín,668384]]'

@@ -68,7 +68,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 anthem: "[[_Standards/WikiData/WD~Stand_Ye_Guamanians,646622]]"
 official_symbol: "[[_Standards/WikiData/WD~Guam_Rail,924911]]"
 legislative_body: "[[_Standards/WikiData/WD~Legislature_of_Guam,1563896]]"

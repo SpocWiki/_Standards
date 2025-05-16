@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7432
 instance_of:
 - "[[_Standards/WikiData/WD~taxonomic_rank,427626]]"
@@ -7,7 +7,7 @@ instance_of:
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from:
 - '[[_Standards/WikiData/WD~view,2075301]]'
 - '[[_Standards/WikiData/WD~Genre,5533538]]'

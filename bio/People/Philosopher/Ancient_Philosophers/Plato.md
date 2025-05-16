@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q859
 aliases:
 - Plátōn
@@ -97,7 +97,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"

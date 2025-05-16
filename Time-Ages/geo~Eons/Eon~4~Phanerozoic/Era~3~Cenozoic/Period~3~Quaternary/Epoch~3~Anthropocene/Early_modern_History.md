@@ -21,7 +21,7 @@ start_time: 1500-06
 has_time_started: 1500-06 
 ---
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Early_modern_period,5308718|WD~Early_modern_period,5308718]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~Early_modern_period,5308718_WD~Early_modern_period,5308718]]  
 #has_/time_/started :: 1500-06
 #has_/time_/stopped  :: 1750-06
 

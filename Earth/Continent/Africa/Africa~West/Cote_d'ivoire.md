@@ -178,7 +178,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~170,25743493]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Abidjan,4689469]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10707367,10707367]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ivory_Coast,11170150]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'

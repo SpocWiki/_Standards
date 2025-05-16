@@ -39,7 +39,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Woleaian,34037]]'
 - '[[_Standards/WikiData/WD~Kapingamarangi,35771]]'
 - '[[_Standards/WikiData/WD~Puluwatese,36397]]'
-- "[[_Standards/WikiData/WD~Ngatik_Men’s_Creole,36400]]"
+- "[[_Standards/WikiData/WD~Ngatik_Men_s_Creole,36400]]"
 - '[[_Standards/WikiData/WD~Pingelapese,36421]]'
 - '[[_Standards/WikiData/WD~Ulithian,36842]]'
 - '[[_Standards/WikiData/WD~Mokilese,2335528]]'

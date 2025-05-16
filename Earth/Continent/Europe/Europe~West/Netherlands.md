@@ -127,7 +127,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.nl,493202]]'
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
 located_in_or_next_to_body_of_water:

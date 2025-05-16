@@ -1,7 +1,7 @@
 ---
 has_id_wikidata: Q11756
 Commons_category: Prehistory
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 EAGLE_id: dates/lod/67
 Iconclass_notation: 23T21
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V44%20D647%20Delineations%20on%20pieces%20of%20antler.jpg"

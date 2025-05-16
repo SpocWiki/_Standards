@@ -213,7 +213,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Fünfter_Band,130285551]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfter_Band,130285551]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Canada,422404]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Canada,475689]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
@@ -229,10 +229,10 @@ located_in_time_zone:
 - "[[_Standards/WikiData/WD~Atlantic_Time_Zone,2085376]]"
 - "[[_Standards/WikiData/WD~Central_Time_Zone,2086913]]"
 - "[[_Standards/WikiData/WD~Mountain_Time_Zone,3134980]]"
-- '[[_Standards/WikiData/WD~UTC−07_00,2212]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_07_00,2212]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 - "[[_Standards/WikiData/WD~Newfoundland_Time_Zone,60738798]]"
 foundational_text: "[[_Standards/WikiData/WD~Constitution_Act,_1867,868884]]"
 main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Canada,899061]]"

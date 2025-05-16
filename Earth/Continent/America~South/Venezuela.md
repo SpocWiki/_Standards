@@ -190,7 +190,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Venezuela,7112507]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 - '[[_Standards/WikiData/WD~America_Caracas,44380220]]'
 named_after:
 - "[[_Standards/WikiData/WD~Simón_Bolívar,8605]]"

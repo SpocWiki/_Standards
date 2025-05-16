@@ -74,7 +74,7 @@ signatory:
   - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
   - "[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]"
   - "[[_Standards/WikiData/WD~Kingdom_of_Serbs,_Croats_and_Slovenes,15102440]]"
-  - "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+  - "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
   - "[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]"
   - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
   - "[[_Standards/WikiData/WD~United_States,30]]"

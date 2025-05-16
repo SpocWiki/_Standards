@@ -12,7 +12,7 @@ member_of:
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~Arab_Maghreb_Union,370862]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~Community_of_Sahel-Saharan_States,605883]]"
 - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"

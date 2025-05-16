@@ -125,7 +125,7 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103830,27103830]]'
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Guyana,63225363]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 head_of_state: "[[_Standards/WikiData/WD~Irfaan_Ali,64840184]]"
 head_of_government: "[[_Standards/WikiData/WD~Mark_Phillips,98053664]]"
 UMLS_CUI: C0018408

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6186
 opposite_of: '[[_Standards/WikiData/WD~anti-communism,182121]]'
 instance_of:
@@ -14,7 +14,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_ABC_of_Communism,10338664]]"
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]"
 - "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
 - '[[_Standards/WikiData/WD~Q131703556,131703556]]'

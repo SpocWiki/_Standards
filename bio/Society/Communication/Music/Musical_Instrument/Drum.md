@@ -7,7 +7,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 - "[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 produced_sound: "[[_Standards/WikiData/WD~drum_roll,665888]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21909
 has_id_wikidata: Q627
@@ -22,7 +22,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
 - '[[_Standards/WikiData/WD~Nitrogen,84695628]]'
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"

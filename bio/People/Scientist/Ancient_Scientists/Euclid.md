@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8747
 BHCL_UUID: ef1ab517-6202-4030-b10a-ac51bdad8b13
 Wolfram_Language_entity_code: "Entity[\"Person\", \"Euclid::2m284\"]"
@@ -34,9 +34,9 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950–1958),20968284]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]"
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"

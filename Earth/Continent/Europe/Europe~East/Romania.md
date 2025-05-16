@@ -145,8 +145,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 owner_of:
-- "[[_Standards/WikiData/WD~Ploiești–Brașov_railway,645247]]"
-- "[[_Standards/WikiData/WD~Vâlcele–Bujoreni_Vâlcea_railway,12723309]]"
+- "[[_Standards/WikiData/WD~Ploiești_Brașov_railway,645247]]"
+- "[[_Standards/WikiData/WD~Vâlcele_Bujoreni_Vâlcea_railway,12723309]]"
 - '[[_Standards/WikiData/WD~Brăila,12728802]]'
 - "[[_Standards/WikiData/WD~Oravița_railway_station,18540347]]"
 - "[[_Standards/WikiData/WD~Ploiești_Nord_railway_station,18540349]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Russian
@@ -19,9 +19,9 @@ has_grammatical_case:
 subclass_of: "[[_Standards/WikiData/WD~East_Slavic,144713]]"
 uses_capitalization_for: "[[_Standards/WikiData/WD~proper_noun,147276]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
+- "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
 - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
 - "[[_Standards/WikiData/WD~pro-drop_language,661936]]"
 - "[[_Standards/WikiData/WD~stress-timed_language,7888721]]"
 - "[[_Standards/WikiData/WD~free-order_language,33129605]]"
@@ -150,17 +150,17 @@ has_paradigm_class:
 - "[[_Standards/WikiData/WD~3rd_declension_in_Russian,66689140]]"
 - "[[_Standards/WikiData/WD~class_0_in_Zaliznyak,66712697]]"
 - "[[_Standards/WikiData/WD~class_1_a_in_Zaliznyak,66716618]]"
-- "[[_Standards/WikiData/WD~class_1c①_in_Zaliznyak,66716619]]"
+- "[[_Standards/WikiData/WD~class_1c__in_Zaliznyak,66716619]]"
 - "[[_Standards/WikiData/WD~class_2_a_in_Zaliznyak,66716622]]"
-- "[[_Standards/WikiData/WD~class_1°a_in_Zaliznyak,66716620]]"
-- "[[_Standards/WikiData/WD~class_3°a_in_Zaliznyak,66716627]]"
+- "[[_Standards/WikiData/WD~class_1_a_in_Zaliznyak,66716620]]"
+- "[[_Standards/WikiData/WD~class_3_a_in_Zaliznyak,66716627]]"
 - "[[_Standards/WikiData/WD~class_3_a_in_Zaliznyak,66716624]]"
 - "[[_Standards/WikiData/WD~class_3_b_in_Zaliznyak,66716625]]"
 - "[[_Standards/WikiData/WD~class_6_a_in_Zaliznyak,66716630]]"
 - "[[_Standards/WikiData/WD~class_6_b_in_Zaliznyak,66716631]]"
 - "[[_Standards/WikiData/WD~class_5_a_in_Zaliznyak,66716628]]"
 - "[[_Standards/WikiData/WD~class_5_b_in_Zaliznyak,66716629]]"
-- "[[_Standards/WikiData/WD~class_8°c,_ё_in_Zaliznyak,107615173]]"
+- "[[_Standards/WikiData/WD~class_8_c,_ё_in_Zaliznyak,107615173]]"
 short_name:
 - російська
 - 露語

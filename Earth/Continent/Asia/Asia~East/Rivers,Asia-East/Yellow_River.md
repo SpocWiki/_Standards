@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7355
 coordinate_location: "Point(116.097666666 36.124194444)"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bassin-du-fleuve-jaune.png"
@@ -41,7 +41,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Fishes_of_the_Yellow_River,65116992]]"
 lake_on_watercourse:
 - "[[_Standards/WikiData/WD~Hukou_Waterfall,602973]]"

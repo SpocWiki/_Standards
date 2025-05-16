@@ -41,7 +41,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,795985]]"
@@ -250,7 +250,7 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+06_00,6906]]'
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Bangladesh,3346963]]"
 top_level_Internet_domain:
-- '[[_Standards/WikiData/WD~.বাংলা,4545424]]'
+- '[[_Standards/WikiData/WD~.ব_ল_,4545424]]'
 - '[[_Standards/WikiData/WD~.bd,39144]]'
 participant_in: "[[_Standards/WikiData/WD~Global_System_of_Trade_Preferences_among_Developing_Countries,5570670]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bangladesh,7112197]]"

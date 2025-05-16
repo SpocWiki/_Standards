@@ -68,7 +68,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -87,7 +87,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~republic,7270]]'
 - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 - '[[_Standards/WikiData/WD~Africa_Lome,4689505]]'
 language_used:
 - '[[_Standards/WikiData/WD~Adele,27740]]'

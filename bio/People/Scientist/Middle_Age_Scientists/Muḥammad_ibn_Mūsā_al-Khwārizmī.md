@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - al-Khwarizmi
 - "Muḥammad ibn Mūsā al-Khwārizmī"
@@ -22,7 +22,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 field_of_work:
 - "[[_Standards/WikiData/WD~Devanagari_numeral,2721451]]"
 - '[[_Standards/WikiData/WD~mathematics,395]]'

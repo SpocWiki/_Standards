@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9492
 subclass_of:
 - "[[_Standards/WikiData/WD~dimensionless_quantity,126818]]"
@@ -12,7 +12,7 @@ has_characteristic:
 instance_of: "[[_Standards/WikiData/WD~probability_measure,355020]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~ISO_3534-1_2006(en)_Statistics_—_Vocabulary_and_symbols_—_Part_1__General_statistical_terms_and_terms_used_in_probability,111973641]]"
+- "[[_Standards/WikiData/WD~ISO_3534-1_2006(en)_Statistics___Vocabulary_and_symbols___Part_1__General_statistical_terms_and_terms_used_in_probability,111973641]]"
 image_of_function: "[[_Standards/WikiData/WD~unit_interval,1987578]]"
 studied_in:
 - "[[_Standards/WikiData/WD~probability_theory,5862903]]"

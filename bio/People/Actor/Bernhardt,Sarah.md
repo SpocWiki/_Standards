@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sarah Bernhardt"
 - "Henriette-Rosine Bernard"
@@ -25,9 +25,9 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Women_in_the_fine_arts,_from_the_seventh_century_B.C._to_the_twentieth_century_A.D.,23044604]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"

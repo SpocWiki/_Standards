@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q111
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Mars,128621]]"
 child_astronomical_body:
@@ -34,8 +34,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 lowest_point: "[[_Standards/WikiData/WD~Valles_Marineris,621110]]"
 studied_in:
 - "[[_Standards/WikiData/WD~exploration_of_Mars,716774]]"

@@ -172,7 +172,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of__Macedonia,678492]]"
 highest_point: '[[_Standards/WikiData/WD~Korab,912579]]'

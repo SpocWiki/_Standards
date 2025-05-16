@@ -95,7 +95,7 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q111313426,111313426]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_El_Salvador,63286062]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 replaces: "[[_Standards/WikiData/WD~State_of_El_Salvador,65182752]]"
 open_data_portal: "[[_Standards/WikiData/WD~El_Salvador_open_data,97150530]]"
 coordinate_location: "Point(-88.866111 13.668889)"

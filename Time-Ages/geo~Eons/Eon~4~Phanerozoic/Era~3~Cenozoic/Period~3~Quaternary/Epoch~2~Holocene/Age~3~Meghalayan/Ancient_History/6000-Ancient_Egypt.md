@@ -8,9 +8,9 @@ continent: '[[_Standards/WikiData/WD~Africa,15]]'
 coordinate_location: "Point(31.3 29.8)"
 country: '[[_Standards/WikiData/WD~Egypt,79]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 Dewey_Decimal_Classification:
   - 2--32

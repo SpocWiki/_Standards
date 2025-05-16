@@ -81,7 +81,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Bissau,4689478]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Guinea-Bissau,7112282]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q9472723,9472723]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'

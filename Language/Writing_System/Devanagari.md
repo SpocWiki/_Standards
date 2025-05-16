@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q38592
 language_of_work_or_name:
 - '[[_Standards/WikiData/WD~Prakrit,192170]]'
@@ -46,7 +46,7 @@ named_after: "[[_Standards/WikiData/WD~God_in_Hinduism,2022644]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 script_directionality: '[[_Standards/WikiData/WD~left-to-right,17321844]]'
 has_part_s_: "[[_Standards/WikiData/WD~Devanagari_letter,41798601]]"

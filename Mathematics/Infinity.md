@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q205
 opposite_of:
 - '[[_Standards/WikiData/WD~infinitesimal,193885]]'
@@ -7,7 +7,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units_—_Part_2__Mathematics,109490582]]"
+- "[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 said_to_be_the_same_as:
 - "[[_Standards/WikiData/WD~division_by_zero,848539]]"

@@ -66,7 +66,7 @@ demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_São_Tomé_and_
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Sao_Tome,4689522]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_São_Tomé_and_Príncipe,7112474]]"
 replaces: "[[_Standards/WikiData/WD~Portuguese_São_Tomé_and_Príncipe,7232692]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q9480941,9480941]]'

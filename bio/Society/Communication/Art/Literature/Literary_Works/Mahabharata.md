@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8276
 Commons_category: Mahabharata
 Archive_of_Our_Own_tag: "Mahabharata - Vyasa"
@@ -31,8 +31,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 has_part_s_:
 - "[[_Standards/WikiData/WD~Bhisma_Parva,2472912]]"
 - "[[_Standards/WikiData/WD~Adi_Parva,2472946]]"

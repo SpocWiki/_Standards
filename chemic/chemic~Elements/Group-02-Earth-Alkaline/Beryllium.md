@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: "21907 á à ô"
 has_id_wikidata: Q569
@@ -40,8 +40,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 has_effect:
 - '[[_Standards/WikiData/WD~berylliosis,684810]]'
 - "[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]"

@@ -116,7 +116,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -233,7 +233,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tolaki,3033597]]'
 - "[[_Standards/WikiData/WD~Ot_Danum,3033781]]"
 - '[[_Standards/WikiData/WD~Mairasi,3038645]]'
-- '[[_Standards/WikiData/WD~Duano’,3040468]]'
+- '[[_Standards/WikiData/WD~Duano_,3040468]]'
 - "[[_Standards/WikiData/WD~Dusun_Malang,3041711]]"
 - '[[_Standards/WikiData/WD~Kambera,3053279]]'
 - '[[_Standards/WikiData/WD~Rejang,3056339]]'
@@ -287,7 +287,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Bakumpai,3436626]]'
 - '[[_Standards/WikiData/WD~Aghu,3436645]]'
 - '[[_Standards/WikiData/WD~Sentani,3441672]]'
-- '[[_Standards/WikiData/WD~Bakati’,3441683]]'
+- '[[_Standards/WikiData/WD~Bakati_,3441683]]'
 - '[[_Standards/WikiData/WD~Banggainese,3441692]]'
 - "[[_Standards/WikiData/WD~Uab_Meto,3441962]]"
 - '[[_Standards/WikiData/WD~Awbono,3446684]]'
@@ -301,7 +301,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Saweru,3474649]]'
 - "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
 - '[[_Standards/WikiData/WD~Siang,3482903]]'
-- '[[_Standards/WikiData/WD~Ulumanda’,3501892]]'
+- '[[_Standards/WikiData/WD~Ulumanda_,3501892]]'
 - '[[_Standards/WikiData/WD~Barakai,3502030]]'
 - '[[_Standards/WikiData/WD~Bahau,3502039]]'
 - '[[_Standards/WikiData/WD~Kapori,3502575]]'
@@ -617,7 +617,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Sikaritai,7513600]]'
 - "[[_Standards/WikiData/WD~South_Lembata,7567815]]"
 - '[[_Standards/WikiData/WD~Sowanda,7571845]]'
-- '[[_Standards/WikiData/WD~So’a,7572120]]'
+- '[[_Standards/WikiData/WD~So_a,7572120]]'
 - '[[_Standards/WikiData/WD~Suabo,7630429]]'
 - '[[_Standards/WikiData/WD~Suwawa,7650588]]'
 - '[[_Standards/WikiData/WD~Tabla,7673105]]'
@@ -626,7 +626,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tajio,7676870]]'
 - '[[_Standards/WikiData/WD~Talaud,7678964]]'
 - '[[_Standards/WikiData/WD~Kadai,7679471]]'
-- '[[_Standards/WikiData/WD~Talondo’,7680293]]'
+- '[[_Standards/WikiData/WD~Talondo_,7680293]]'
 - '[[_Standards/WikiData/WD~Tamagario,7680531]]'
 - '[[_Standards/WikiData/WD~Taman,7680671]]'
 - '[[_Standards/WikiData/WD~Tandia,7682454]]'
@@ -636,7 +636,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tebi,7692059]]'
 - '[[_Standards/WikiData/WD~Tefaro,7694618]]'
 - '[[_Standards/WikiData/WD~Tehit,7694851]]'
-- '[[_Standards/WikiData/WD~Tela’a,7695666]]'
+- '[[_Standards/WikiData/WD~Tela_a,7695666]]'
 - '[[_Standards/WikiData/WD~Termanu,7702572]]'
 - '[[_Standards/WikiData/WD~Tii,7801784]]'
 - '[[_Standards/WikiData/WD~Tobati,7811556]]'
@@ -649,7 +649,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tsaukambo,7849438]]'
 - '[[_Standards/WikiData/WD~Tulehu,7852006]]'
 - '[[_Standards/WikiData/WD~Uma,7881036]]'
-- "[[_Standards/WikiData/WD~Uma’_Lasan,7881227]]"
+- "[[_Standards/WikiData/WD~Uma__Lasan,7881227]]"
 - '[[_Standards/WikiData/WD~Uruangnirin,7901389]]'
 - '[[_Standards/WikiData/WD~Viid,7929052]]'
 - '[[_Standards/WikiData/WD~Vitou,7937210]]'
@@ -696,7 +696,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Semimi,10950308]]'
 - '[[_Standards/WikiData/WD~Ketengban,10990152]]'
 - '[[_Standards/WikiData/WD~Kehu,10994953]]'
-- '[[_Standards/WikiData/WD~Nyadu’,11173588]]'
+- '[[_Standards/WikiData/WD~Nyadu_,11173588]]'
 - '[[_Standards/WikiData/WD~Anasi,11207813]]'
 - "[[_Standards/WikiData/WD~Asue_Awyu,11266334]]"
 - '[[_Standards/WikiData/WD~Moskona,11288953]]'
@@ -736,7 +736,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Rongga,12473464]]'
 - '[[_Standards/WikiData/WD~Seberuang,12473470]]'
 - '[[_Standards/WikiData/WD~Tengger,12473479]]'
-- '[[_Standards/WikiData/WD~Tae’,12473476]]'
+- '[[_Standards/WikiData/WD~Tae_,12473476]]'
 - '[[_Standards/WikiData/WD~Wotu,12473488]]'
 - "[[_Standards/WikiData/WD~Riau_Malay,12497930]]"
 - "[[_Standards/WikiData/WD~Central_Awyu,12628801]]"
@@ -863,7 +863,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Ledo_Kaili,35877]]"
 - '[[_Standards/WikiData/WD~Mandar,35995]]'
 - '[[_Standards/WikiData/WD~Madurese,36213]]'
-- '[[_Standards/WikiData/WD~Toraja-Sa’dan,36673]]'
+- '[[_Standards/WikiData/WD~Toraja-Sa_dan,36673]]'
 - "[[_Standards/WikiData/WD~Lampung_Api,49215]]"
 - '[[_Standards/WikiData/WD~Komering,49224]]'
 - '[[_Standards/WikiData/WD~Bauzi,56360]]'
@@ -963,7 +963,7 @@ main_regulatory_text:
 - "[[_Standards/WikiData/WD~Law_of_the_Republic_of_Indonesia,19752986]]"
 - "[[_Standards/WikiData/WD~Constitution_of_Indonesia,49373]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Indonesia,20716634]]"
 permanent_duplicated_item:

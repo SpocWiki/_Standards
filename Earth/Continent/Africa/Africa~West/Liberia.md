@@ -33,7 +33,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 anthem: "[[_Standards/WikiData/WD~All_Hail,_Liberia,_Hail!,324342]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
@@ -110,7 +110,7 @@ instance_of:
 legislative_body: "[[_Standards/WikiData/WD~Legislature_of_Liberia,4345418]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Monrovia,4689514]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Liberia,7112334]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Liberia,14615827]]'

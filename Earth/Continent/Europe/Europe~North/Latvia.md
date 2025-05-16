@@ -211,7 +211,7 @@ basic_form_of_government:
 described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 language_used:
 - "[[_Standards/WikiData/WD~Latvian_Sign_Language,6497414]]"
 - '[[_Standards/WikiData/WD~Russian,7737]]'

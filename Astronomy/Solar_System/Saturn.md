@@ -192,7 +192,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
 significant_event: "[[_Standards/WikiData/WD~planetary_flyby,828032]]"
-notation: '[[_Standards/WikiData/WD~♄,3594853]]'
+notation: '[[_Standards/WikiData/WD~_,3594853]]'
 different_from: '[[_Standards/WikiData/WD~Saturn,3950829]]'
 part_of: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
 location: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"

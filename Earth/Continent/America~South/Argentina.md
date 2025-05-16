@@ -104,7 +104,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 ethnic_group:

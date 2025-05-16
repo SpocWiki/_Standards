@@ -81,8 +81,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Zweiter_Band,126937278]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
 - "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Portugal,322459]]"
 central_bank: "[[_Standards/WikiData/WD~Banco_de_Portugal,378372]]"
@@ -231,7 +231,7 @@ capital: '[[_Standards/WikiData/WD~Lisbon,597]]'
 official_language:
 - '[[_Standards/WikiData/WD~Portuguese,5146]]'
 - '[[_Standards/WikiData/WD~Mirandese,13330]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Portugal,7790]]"
 located_in_on_physical_feature:

@@ -105,8 +105,8 @@ different_from: '[[_Standards/WikiData/WD~Paragwaj,36025058]]'
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Asuncion,63286098]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-- '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
 geoshape: "http://commons.wikimedia.org/data/main/Data:Paraguay.map"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Paraguay.ogg"

@@ -1,10 +1,10 @@
-﻿---
+---
 aliases:
 - "Base (chemistry)"
 - Base(chemistry)
 has_id_wikidata: Q11193
 has_use:
-- "[[_Standards/WikiData/WD~acid–base_reaction,378751]]"
+- "[[_Standards/WikiData/WD~acid_base_reaction,378751]]"
 - "[[_Standards/WikiData/WD~acidity_regulator,898753]]"
 different_from:
 - '[[_Standards/WikiData/WD~alkali,485742]]'

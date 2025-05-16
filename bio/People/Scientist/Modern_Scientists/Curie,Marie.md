@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Marie Curie"
 - "Maria Salomea Skłodowska-Curie"
@@ -78,7 +78,7 @@ student:
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Atomic_women,51157080]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
@@ -86,7 +86,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 - "[[_Standards/WikiData/WD~Women_In_Science,113116304]]"
 - "[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]"
-- "[[_Standards/WikiData/WD~Curie’s_intellectual_offspring,130615764]]"
+- "[[_Standards/WikiData/WD~Curie_s_intellectual_offspring,130615764]]"
 - "[[_Standards/WikiData/WD~The_Elements_of_Marie_Curie__How_the_Glow_of_Radium_Lit_a_Path_for_Women_in_Science,130615770]]"
 academic_degree:
 - '[[_Standards/WikiData/WD~licentiate,749020]]'

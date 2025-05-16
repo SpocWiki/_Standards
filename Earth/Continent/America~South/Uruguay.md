@@ -159,7 +159,7 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103717,27103717]]'
 award_received: "[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Montevideo,63286104]]'
-- '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
+- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
 open_data_portal: "[[_Standards/WikiData/WD~Uruguay_Open_Data_Portal,97096884]]"
 executive_body: "[[_Standards/WikiData/WD~Presidencia_de_la_República,104809052]]"
 demonym:

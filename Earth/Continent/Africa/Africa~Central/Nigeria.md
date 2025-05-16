@@ -47,7 +47,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -176,7 +176,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Obulom,3813403]]'
 - '[[_Standards/WikiData/WD~Ogbia,3813400]]'
 - '[[_Standards/WikiData/WD~Ogbogolo,3813405]]'
-- '[[_Standards/WikiData/WD~O’chi’chi’,3813833]]'
+- '[[_Standards/WikiData/WD~O_chi_chi_,3813833]]'
 - '[[_Standards/WikiData/WD~Rigwe,3912756]]'
 - '[[_Standards/WikiData/WD~Lemoro,3912761]]'
 - '[[_Standards/WikiData/WD~Tyap,3912765]]'
@@ -259,7 +259,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Dadiya,3914436]]'
 - '[[_Standards/WikiData/WD~Idun,3914441]]'
 - '[[_Standards/WikiData/WD~Jibu,3914448]]'
-- '[[_Standards/WikiData/WD~Sur–Myet,3914453]]'
+- '[[_Standards/WikiData/WD~Sur_Myet,3914453]]'
 - '[[_Standards/WikiData/WD~Gade,3914459]]'
 - '[[_Standards/WikiData/WD~Etkywan,3914462]]'
 - '[[_Standards/WikiData/WD~Ubang,3914467]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Giacomo Puccini"
 has_id_wikidata: Q7311
@@ -43,7 +43,7 @@ student_of:
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

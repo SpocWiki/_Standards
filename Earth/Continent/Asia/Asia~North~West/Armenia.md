@@ -246,7 +246,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
-- '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 - "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
 - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
 - "[[_Standards/WikiData/WD~Croatian_Encyclopedia,1789619]]"
@@ -258,7 +258,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 electrical_plug_type:

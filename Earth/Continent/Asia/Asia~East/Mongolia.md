@@ -7,7 +7,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - '[[_Standards/WikiData/WD~COMECON,191582]]'
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -63,7 +63,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Mongolia,756265]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Mongolia,768502]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Mongolia,903751]]"

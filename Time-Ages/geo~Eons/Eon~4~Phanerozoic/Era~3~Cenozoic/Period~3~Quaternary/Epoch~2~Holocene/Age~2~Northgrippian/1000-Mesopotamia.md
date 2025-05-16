@@ -5,11 +5,11 @@ Commons_category: Mesopotamia
 coordinate_location: "Point(43.5 33.7)"
 country: '[[_Standards/WikiData/WD~Iraq,796]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -29,7 +29,7 @@ instance_of:
 Libris_URI: fcrtsnzz50p6171
 location:
   - "[[_Standards/WikiData/WD~Fertile_Crescent,170526]]"
-  - "[[_Standards/WikiData/WD~Tigris–Euphrates_river_system,3608991]]"
+  - "[[_Standards/WikiData/WD~Tigris_Euphrates_river_system,3608991]]"
   - "[[_Standards/WikiData/WD~West_Asia,27293]]"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Spread%20of%20Oecumene%20Mesopotamia.jpg"
 MeSH_tree_code: Z01.586.035.587

@@ -118,7 +118,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Encyclopedia_“Bulgaria”,12277139]]"
+- "[[_Standards/WikiData/WD~Great_Encyclopedia__Bulgaria_,12277139]]"
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"

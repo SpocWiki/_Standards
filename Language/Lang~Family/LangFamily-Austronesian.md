@@ -1,4 +1,4 @@
-﻿---
+---
 type: LangFamily
 tags:
 - Lang_Family
@@ -13,7 +13,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~Austro-Tai,783816]]'
 - '[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]'
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Austronesian_languages,19891014]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Taiwan_Island,22502]]"
 instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
 number_of_speakers_writers_or_signers: 300000000

@@ -78,7 +78,7 @@ PM20_geo_code: A15a
 coordinates_of_westernmost_point: "Point(-7.646111111 62.104166666)"
 diplomatic_relation: "[[_Standards/WikiData/WD~European_Union,458]]"
 flag: "[[_Standards/WikiData/WD~flag_of_the_Faroe_Islands,4575]]"
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 language_used:
 - '[[_Standards/WikiData/WD~Danish,9035]]'
 - '[[_Standards/WikiData/WD~Faroese,25258]]'

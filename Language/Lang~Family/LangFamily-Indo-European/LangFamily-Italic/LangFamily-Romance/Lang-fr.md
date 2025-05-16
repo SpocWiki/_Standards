@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - French
@@ -19,10 +19,10 @@ language_regulatory_body:
 - "[[_Standards/WikiData/WD~Academie_Royale_de_Langue_et_de_littérature_Françaises,2166029]]"
 - "[[_Standards/WikiData/WD~Office_québécois_de_la_langue_française,2578454]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
+- "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
 - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
-- '[[_Standards/WikiData/WD~place–manner–time,7200373]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+- '[[_Standards/WikiData/WD~place_manner_time,7200373]]'
 - "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
 - '[[_Standards/WikiData/WD~noun-adjective,74835210]]'
 - "[[_Standards/WikiData/WD~synthetic_language,48612]]"

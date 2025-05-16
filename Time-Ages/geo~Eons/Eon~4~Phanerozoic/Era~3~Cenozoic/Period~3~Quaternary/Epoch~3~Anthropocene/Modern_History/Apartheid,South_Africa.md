@@ -18,8 +18,8 @@ described_by_source:
 Dewey_Decimal_Classification: 305.800968
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Hendrik_Frensch_Verwoerd,297000]]"
 dissolved_abolished_or_demolished_date: "1991"
-followed_by: "[[_Standards/WikiData/WD~history_of_South_Africa_(1944–present),3136857]]"
-follows: "[[_Standards/WikiData/WD~history_of_South_Africa_(1910–1948),4533954]]"
+followed_by: "[[_Standards/WikiData/WD~history_of_South_Africa_(1944_present),3136857]]"
+follows: "[[_Standards/WikiData/WD~history_of_South_Africa_(1910_1948),4533954]]"
 foundational_text:
   - "[[_Standards/WikiData/WD~Population_Registration_Act,_1950,772197]]"
   - "[[_Standards/WikiData/WD~Prohibition_of_Mixed_Marriages_Act,_1949,1586493]]"

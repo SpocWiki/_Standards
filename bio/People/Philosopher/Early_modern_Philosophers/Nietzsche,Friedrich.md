@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Friedrich Nietzsche"
 - "Friedrich Wilhelm Nietzsche"
@@ -152,11 +152,11 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'

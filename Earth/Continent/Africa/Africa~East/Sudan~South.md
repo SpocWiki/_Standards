@@ -37,7 +37,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Opuo,3354339]]'
 - '[[_Standards/WikiData/WD~Homa,3449953]]'
 - '[[_Standards/WikiData/WD~Baleesi,5364424]]'
-- '[[_Standards/WikiData/WD~Olu’bo,6589401]]'
+- '[[_Standards/WikiData/WD~Olu_bo,6589401]]'
 - '[[_Standards/WikiData/WD~Mittu,6883573]]'
 - '[[_Standards/WikiData/WD~Morokodo,6913216]]'
 - '[[_Standards/WikiData/WD~Moru,6915014]]'

@@ -19,8 +19,8 @@ instance_of:
   - "[[_Standards/WikiData/WD~social_movement,49773]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]"
 practiced_by: "[[_Standards/WikiData/WD~human_rights_activist,1476215]]"
 part_of: "[[_Standards/WikiData/WD~international_law,4394526]]"

@@ -40,9 +40,9 @@ office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Malta,79659
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Malta,851997]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Erster_Band,126374795]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
 award_received: "[[_Standards/WikiData/WD~George_Cross,1143510]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Malta,1354023]]"
 owner_of:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Leo Tolstoy"
 - "Count Lev Nikolayevich Tolstoy"
@@ -89,7 +89,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
@@ -98,7 +98,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
 - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
-- "[[_Standards/WikiData/WD~Russian_writers__XIX_c. [2_2],125555366]]"
+- "[[_Standards/WikiData/WD~Russian_writers__XIX_c._2_2_,125555366]]"
 - "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
 religion_or_worldview:
 - "[[_Standards/WikiData/WD~Tolstoyan_movement,657907]]"

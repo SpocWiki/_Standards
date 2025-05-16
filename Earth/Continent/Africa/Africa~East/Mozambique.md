@@ -125,7 +125,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mozambique,16056528]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Mozambique,18565665]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Mozambique,30100629]]"
 head_of_government: "[[_Standards/WikiData/WD~Adriano_Maleiane,44275924]]"

@@ -189,7 +189,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Bukar_Sadong,2927799]]"
 - '[[_Standards/WikiData/WD~Temuan,3025610]]'
 - '[[_Standards/WikiData/WD~Kiput,3038653]]'
-- '[[_Standards/WikiData/WD~Duano’,3040468]]'
+- '[[_Standards/WikiData/WD~Duano_,3040468]]'
 - "[[_Standards/WikiData/WD~Ida'an,3041552]]"
 - "[[_Standards/WikiData/WD~Ten'edn,3073453]]"
 - '[[_Standards/WikiData/WD~Semelai,3111827]]'
@@ -222,7 +222,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Daro-Matu,5224156]]'
 - '[[_Standards/WikiData/WD~Kadazandusun,5317225]]'
 - "[[_Standards/WikiData/WD~Eastern_Kadazan,5330240]]"
-- '[[_Standards/WikiData/WD~Gana’,5520523]]'
+- '[[_Standards/WikiData/WD~Gana_,5520523]]'
 - '[[_Standards/WikiData/WD~Kajaman,6348863]]'
 - '[[_Standards/WikiData/WD~Kalabakan,6350003]]'
 - '[[_Standards/WikiData/WD~Kanowit,6364300]]'
@@ -263,7 +263,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tringgus,7842365]]'
 - '[[_Standards/WikiData/WD~Tutoh,7856961]]'
 - '[[_Standards/WikiData/WD~Ukit,7878321]]'
-- "[[_Standards/WikiData/WD~Uma’_Lasan,7881227]]"
+- "[[_Standards/WikiData/WD~Uma__Lasan,7881227]]"
 - "[[_Standards/WikiData/WD~Sabah_Malay,10867404]]"
 - "[[_Standards/WikiData/WD~colloquial_Malay,12636082]]"
 - "[[_Standards/WikiData/WD~Malaccan_Creole_Malay,12636092]]"

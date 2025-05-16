@@ -5,8 +5,8 @@ aliases:
   - Eneolithic
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
 has_part_s_: "[[_Standards/WikiData/WD~Early_Chalcolithic,108064585]]"
 start_time: -7500 

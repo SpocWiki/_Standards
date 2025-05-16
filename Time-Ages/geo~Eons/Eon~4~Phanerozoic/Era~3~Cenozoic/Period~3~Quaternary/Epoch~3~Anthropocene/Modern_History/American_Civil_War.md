@@ -20,7 +20,7 @@ has_cause: "[[_Standards/WikiData/WD~slavery_in_the_United_States,118382]]"
 has_contributing_factor:
   - "[[_Standards/WikiData/WD~Dred_Scott_v._Sandford,690462]]"
   - "[[_Standards/WikiData/WD~Fugitive_Slave_Act_of_1850,535519]]"
-  - "[[_Standards/WikiData/WD~Kansas–Nebraska_Act,619762]]"
+  - "[[_Standards/WikiData/WD~Kansas_Nebraska_Act,619762]]"
 has_effect:
   - "[[_Standards/WikiData/WD~Ten_percent_plan,7699410]]"
   - "[[_Standards/WikiData/WD~Thirteenth_Amendment_to_the_United_States_Constitution,175613]]"

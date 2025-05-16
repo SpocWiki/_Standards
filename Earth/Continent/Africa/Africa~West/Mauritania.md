@@ -110,7 +110,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~101,25648794]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Nouakchott,4689519]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mauritania,4753810]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mauritania,7112352]]"
 lowest_point: "[[_Standards/WikiData/WD~Sebkha_de_Ndrhamcha,7442787]]"

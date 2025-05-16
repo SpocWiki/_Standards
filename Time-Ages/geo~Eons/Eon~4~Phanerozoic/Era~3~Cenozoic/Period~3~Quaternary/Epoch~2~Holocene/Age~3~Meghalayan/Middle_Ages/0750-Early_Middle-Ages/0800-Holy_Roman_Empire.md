@@ -6,7 +6,7 @@ aliases:
 shares_border_with:
   - "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
   - "[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]"
-  - "[[_Standards/WikiData/WD~Polish–Lithuanian_Commonwealth,172107]]"
+  - "[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]"
 official_religion:
   - "[[_Standards/WikiData/WD~Lutheranism,75809]]"
   - "[[_Standards/WikiData/WD~Reformed_Christianity,101849]]"

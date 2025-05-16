@@ -35,7 +35,7 @@ has_effect:
   - "[[_Standards/WikiData/WD~United_Nations,1065]]"
   - "[[_Standards/WikiData/WD~United_States,30]]"
 has_immediate_cause:
-  - "[[_Standards/WikiData/WD~Secret_Additional_Protocol_to_the_Molotov–Ribbentrop_Pact,4413308]]"
+  - "[[_Standards/WikiData/WD~Secret_Additional_Protocol_to_the_Molotov_Ribbentrop_Pact,4413308]]"
 history_of_topic:
   - "[[_Standards/WikiData/WD~diplomatic_history_of_World_War_II,16973783]]"
   - "[[_Standards/WikiData/WD~timeline_of_World_War_II,327039]]"

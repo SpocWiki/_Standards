@@ -103,7 +103,7 @@ has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 located_in_time_zone:
 - "[[_Standards/WikiData/WD~Cape_Verde_Time,3208688]]"
 - '[[_Standards/WikiData/WD~Atlantic_Cape_Verde,63285925]]'
-- '[[_Standards/WikiData/WD~UTC−01_00,6540]]'
+- '[[_Standards/WikiData/WD~UTC_01_00,6540]]'
 central_bank: "[[_Standards/WikiData/WD~Bank_of_Cape_Verde,4077341]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
 replaces: "[[_Standards/WikiData/WD~Republic_of_the_Cape_Verde_Islands,4393598]]"

@@ -235,13 +235,13 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
 language_used:
 - "[[_Standards/WikiData/WD~Ayapa_Zoque,323325]]"
 - "[[_Standards/WikiData/WD~Zenzontepec_Chatino,603106]]"
 - "[[_Standards/WikiData/WD~Santa_María_La_Alta_Nahuatl,1844620]]"
-- '[[_Standards/WikiData/WD~Mocho’,1941682]]'
+- '[[_Standards/WikiData/WD~Mocho_,1941682]]'
 - "[[_Standards/WikiData/WD~Northern_Oaxaca_Nahuatl,2011413]]"
 - "[[_Standards/WikiData/WD~Tlamacazapa_Nahuatl,2073277]]"
 - "[[_Standards/WikiData/WD~Central_Huasteca_Nahuatl,2194290]]"
@@ -410,7 +410,7 @@ language_used:
 - "[[_Standards/WikiData/WD~San_Miguel_El_Grande_Mixtec,12953719]]"
 - "[[_Standards/WikiData/WD~Santa_Lucía_Monteverde_Mixtec,12953722]]"
 - "[[_Standards/WikiData/WD~Cacaloxtepec_Mixtec,12953723]]"
-- "[[_Standards/WikiData/WD~Atatláhuca–San_Miguel_Mixtec,12953721]]"
+- "[[_Standards/WikiData/WD~Atatláhuca_San_Miguel_Mixtec,12953721]]"
 - "[[_Standards/WikiData/WD~Cuyamecalco_Mixtec,12953726]]"
 - "[[_Standards/WikiData/WD~Itundujia_Mixtec,12953727]]"
 - "[[_Standards/WikiData/WD~Chigmecatitlán_Mixtec,12953724]]"
@@ -503,7 +503,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Yucatec_Maya_Sign_Language,34281]]"
 - '[[_Standards/WikiData/WD~Akateko,34923]]'
 - "[[_Standards/WikiData/WD~Chontal_Maya,35175]]"
-- '[[_Standards/WikiData/WD~Ch’ol,35179]]'
+- '[[_Standards/WikiData/WD~Ch_ol,35179]]'
 - '[[_Standards/WikiData/WD~Chuj,35233]]'
 - '[[_Standards/WikiData/WD~Wixarika,35575]]'
 - '[[_Standards/WikiData/WD~Teenek,35573]]'

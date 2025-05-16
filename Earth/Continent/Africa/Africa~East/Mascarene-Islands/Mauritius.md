@@ -39,7 +39,7 @@ coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Mauritius,271183]]"
 anthem: '[[_Standards/WikiData/WD~Motherland,336273]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Rivière_Noire_District,873740]]"
 - "[[_Standards/WikiData/WD~Grand_Port_District,911635]]"

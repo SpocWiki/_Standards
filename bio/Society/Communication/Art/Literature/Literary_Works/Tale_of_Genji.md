@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tale of Genji"
 has_id_wikidata: Q8269
@@ -116,7 +116,7 @@ named_after: "[[_Standards/WikiData/WD~Hikaru_Genji,997646]]"
 main_subject: "[[_Standards/WikiData/WD~mono_no_aware,1190238]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929—1939,4263804]]"
+- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
 derivative_work:
 - "[[_Standards/WikiData/WD~Genji_Monogatari,3759753]]"

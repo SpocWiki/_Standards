@@ -21,7 +21,7 @@ demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_British_Emp
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 different_from: "[[_Standards/WikiData/WD~Britannic_Empire,2078249]]"

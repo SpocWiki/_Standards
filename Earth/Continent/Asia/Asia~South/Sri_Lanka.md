@@ -144,7 +144,7 @@ capital:
 suicide_rate: 12.9
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.lk,41035]]'
-- '[[_Standards/WikiData/WD~.இலங்கை,136682]]'
+- '[[_Standards/WikiData/WD~.இலங்க_,136682]]'
 Gini_coefficient: 39.3
 Happy_Planet_Index_score: 46.8
 trunk_prefix: 0

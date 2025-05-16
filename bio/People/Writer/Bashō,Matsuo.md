@@ -39,9 +39,9 @@ notable_work:
 manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929—1939,4263804]]"
+- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Hattori_Masashige,4431961]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'

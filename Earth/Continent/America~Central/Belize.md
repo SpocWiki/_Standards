@@ -92,7 +92,7 @@ language_used:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - "[[_Standards/WikiData/WD~Yucatec_Maya,13354]]"
 - '[[_Standards/WikiData/WD~Garifuna,35490]]'
-- '[[_Standards/WikiData/WD~Q’eqchi’,35536]]'
+- '[[_Standards/WikiData/WD~Q_eqchi_,35536]]'
 - "[[_Standards/WikiData/WD~Mopan_Maya,36183]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Belize,1515463]]"
 electrical_plug_type:
@@ -122,7 +122,7 @@ permanent_duplicated_item:
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Belize,34517433]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Belize,63286058]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 UMLS_CUI: C0004952
 coordinates_of_northernmost_point: "Point(-88.4027 18.4959)"
 demonym:

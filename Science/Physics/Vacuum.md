@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11475
 different_from:
 - "[[_Standards/WikiData/WD~vacuum_cleaner,101674]]"
@@ -7,7 +7,7 @@ subclass_of: "[[_Standards/WikiData/WD~abstract_entity,7048977]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13047289,13047289]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 partially_coincident_with: '[[_Standards/WikiData/WD~emptiness,67932942]]'
 UMLS_CUI: C0042221
 MeSH_tree_code:

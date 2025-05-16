@@ -35,7 +35,7 @@ Languages:
 icon: flag-kw
 has_id_wikidata: Q817
 shares_border_with:
-- "[[_Standards/WikiData/WD~Saudi–Kuwaiti_Neutral_Zone,74091]]"
+- "[[_Standards/WikiData/WD~Saudi_Kuwaiti_Neutral_Zone,74091]]"
 - '[[_Standards/WikiData/WD~Iran,794]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
 - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
@@ -92,7 +92,7 @@ head_of_state: "[[_Standards/WikiData/WD~Mishal_Al-Ahmad_Al-Jaber_Al-Sabah,12243
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kuwait,14615821]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Kuwait,16153589]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103921,27103921]]'
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Kuwait,30100649]]"
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"

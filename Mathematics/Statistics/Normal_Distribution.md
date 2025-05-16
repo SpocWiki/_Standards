@@ -38,7 +38,7 @@ aliases:
   -
 ---
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Normal_distribution,133871|WD~Normal_distribution,133871]] 
+#is_/same_as :: [[../../../_Standards/WikiData/WD~Normal_distribution,133871_WD~Normal_distribution,133871]] 
 # [[Normal_Distribution]]
 
 

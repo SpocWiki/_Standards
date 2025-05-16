@@ -94,7 +94,7 @@ member_of:
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -639,7 +639,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~120,25648851]]'
 replaces:
 - "[[_Standards/WikiData/WD~Inner_Mongolian_People's_Republic,4120908]]"
-- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
 - '[[_Standards/WikiData/WD~Q15904324,15904324]]'
 - "[[_Standards/WikiData/WD~Kingdom_Shunzheng,15905301]]"
 - '[[_Standards/WikiData/WD~Q15909533,15909533]]'
@@ -660,9 +660,9 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B8%A
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_People's_Republic_of_China,13365337]]"
 different_from:
-- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
 - '[[_Standards/WikiData/WD~China,29520]]'
-follows: "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+follows: "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 permanent_duplicated_item:
 - "[[_Standards/WikiData/WD~People's_Republic_of_China,22828645]]"

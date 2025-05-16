@@ -305,7 +305,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Neunter_Band,131719188]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
 language_used:
 - '[[_Standards/WikiData/WD~Kerek,332792]]'
 - "[[_Standards/WikiData/WD~Karelian_Proper,747153]]"
@@ -528,7 +528,7 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Chechnya,5187]]'
 - "[[_Standards/WikiData/WD~Stavropol_Krai,5207]]"
 - '[[_Standards/WikiData/WD~Ingushetia,5219]]'
-- "[[_Standards/WikiData/WD~North_Ossetia–Alania,5237]]"
+- "[[_Standards/WikiData/WD~North_Ossetia_Alania,5237]]"
 - '[[_Standards/WikiData/WD~Kabardino-Balkaria,5267]]'
 - '[[_Standards/WikiData/WD~Karachay-Cherkessia,5328]]'
 - "[[_Standards/WikiData/WD~Saratov_Oblast,5334]]"

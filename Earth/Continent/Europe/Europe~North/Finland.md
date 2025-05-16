@@ -123,7 +123,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Fennoscandia,604496]]'
 part_of:

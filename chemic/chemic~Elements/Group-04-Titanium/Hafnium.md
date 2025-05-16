@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21968
 has_id_wikidata: Q1119
@@ -17,7 +17,7 @@ instance_of:
 - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 associated_hazard: "[[_Standards/WikiData/WD~hafnium_exposure,21088855]]"
 has_effect: "[[_Standards/WikiData/WD~hafnium_exposure,21088855]]"
 UMLS_CUI: C0018488

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5089
 tributary:
 - '[[_Standards/WikiData/WD~Yamuna,132726]]'
@@ -28,7 +28,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 origin_of_the_watercourse: "[[_Standards/WikiData/WD~Gangotri_Glacier,691557]]"
 different_from: '[[_Standards/WikiData/WD~Ganges,734074]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8006
 nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
 notable_work:
@@ -67,7 +67,7 @@ child:
 - "[[_Standards/WikiData/WD~Kazuko_Kurosawa,3194478]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 spouse: "[[_Standards/WikiData/WD~Yōko_Yaguchi,3032150]]"
 manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"

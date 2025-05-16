@@ -286,7 +286,7 @@ owner_of:
 - "[[_Standards/WikiData/WD~Trowbridge_House,7846680]]"
 - "[[_Standards/WikiData/WD~World_Heritage_Memory_Net,8035812]]"
 - "[[_Standards/WikiData/WD~Petschek_Villa,15094405]]"
-- "[[_Standards/WikiData/WD~Deichmanns_Aue_31–37,15888178]]"
+- "[[_Standards/WikiData/WD~Deichmanns_Aue_31_37,15888178]]"
 - "[[_Standards/WikiData/WD~John_Paul_Hammerschmidt_Federal_Building,20709326]]"
 - "[[_Standards/WikiData/WD~White_House,35525]]"
 studied_in: "[[_Standards/WikiData/WD~American_studies,470125]]"
@@ -317,11 +317,11 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Erster_Band,126374795]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
 present_in_work: "[[_Standards/WikiData/WD~The_City_on_the_Edge_of_Forever,622282]]"
 participant_in:
 - "[[_Standards/WikiData/WD~Red_Scare,622454]]"
-- "[[_Standards/WikiData/WD~Ukraine–United_States_relations,4064180]]"
+- "[[_Standards/WikiData/WD~Ukraine_United_States_relations,4064180]]"
 has_cabinet: "[[_Standards/WikiData/WD~United_States_Cabinet,639738]]"
 ethnic_group:
 - "[[_Standards/WikiData/WD~Asian_Americans,727928]]"
@@ -341,14 +341,14 @@ located_in_time_zone:
 - "[[_Standards/WikiData/WD~Alaska_Time_Zone,3238805]]"
 - "[[_Standards/WikiData/WD~Chamorro_Time_Zone,3446496]]"
 - "[[_Standards/WikiData/WD~Samoa_Time_Zone,4816926]]"
-- '[[_Standards/WikiData/WD~UTC−12_00,2146]]'
-- '[[_Standards/WikiData/WD~UTC−11_00,2154]]'
-- '[[_Standards/WikiData/WD~UTC−09_00,2183]]'
-- '[[_Standards/WikiData/WD~UTC−08_00,2204]]'
-- '[[_Standards/WikiData/WD~UTC−07_00,2212]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_12_00,2146]]'
+- '[[_Standards/WikiData/WD~UTC_11_00,2154]]'
+- '[[_Standards/WikiData/WD~UTC_09_00,2183]]'
+- '[[_Standards/WikiData/WD~UTC_08_00,2204]]'
+- '[[_Standards/WikiData/WD~UTC_07_00,2212]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 - '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
 - '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"

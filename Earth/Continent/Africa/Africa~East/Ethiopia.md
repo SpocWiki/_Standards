@@ -49,7 +49,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -97,13 +97,13 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
 - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 anthem: "[[_Standards/WikiData/WD~March_Forward,_Dear_Mother_Ethiopia,373510]]"
@@ -143,7 +143,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Wolane,12645275]]'
 - "[[_Standards/WikiData/WD~Rer_Bare,12953857]]"
 - '[[_Standards/WikiData/WD~Gamo,16116386]]'
-- '[[_Standards/WikiData/WD~Daats’íin,20982409]]'
+- '[[_Standards/WikiData/WD~Daats_íin,20982409]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Aari,7495]]'
 - '[[_Standards/WikiData/WD~Zay,10195]]'
@@ -188,7 +188,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Gedeo,56622]]'
 - '[[_Standards/WikiData/WD~Konso,56624]]'
 - '[[_Standards/WikiData/WD~Daasanach,56637]]'
-- '[[_Standards/WikiData/WD~Alaba-K’abeena,56652]]'
+- '[[_Standards/WikiData/WD~Alaba-K_abeena,56652]]'
 - '[[_Standards/WikiData/WD~Anuak,56677]]'
 - '[[_Standards/WikiData/WD~Komo,56681]]'
 - '[[_Standards/WikiData/WD~Kwegu,56723]]'

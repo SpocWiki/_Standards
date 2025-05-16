@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q202943
 occupation:
 - '[[_Standards/WikiData/WD~mathematician,170790]]'
@@ -8,7 +8,7 @@ residence:
 - '[[_Standards/WikiData/WD~Bhinmal,797437]]'
 place_of_death: '[[_Standards/WikiData/WD~Ujjain,200119]]'
 notable_work:
-- "[[_Standards/WikiData/WD~Brahmagupta–Fibonacci_identity,279090]]"
+- "[[_Standards/WikiData/WD~Brahmagupta_Fibonacci_identity,279090]]"
 - "[[_Standards/WikiData/WD~Brahmagupta's_formula,1149348]]"
 - '[[_Standards/WikiData/WD~Brāhmasphuṭasiddhānta,1290001]]'
 - "[[_Standards/WikiData/WD~Brahmagupta_theorem,1425308]]"

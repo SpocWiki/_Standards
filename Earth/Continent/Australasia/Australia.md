@@ -207,7 +207,7 @@ discoverer_or_inventor: "[[_Standards/WikiData/WD~Willem_Janszoon,174085]]"
 follows: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Australia,174825]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~state_or_territory_of_Australia,178712]]"
-lowest_point: "[[_Standards/WikiData/WD~Kati_Thanda–Lake_Eyre,179970]]"
+lowest_point: "[[_Standards/WikiData/WD~Kati_Thanda_Lake_Eyre,179970]]"
 basic_form_of_government:
 - "[[_Standards/WikiData/WD~representative_democracy,188759]]"
 - "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
@@ -273,7 +273,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kunjen,3200468]]'
 - '[[_Standards/WikiData/WD~Alngith,3279409]]'
 - "[[_Standards/WikiData/WD~Martu_Wangka,3295916]]"
-- '[[_Standards/WikiData/WD~Ngan’gityemerri,3298041]]'
+- '[[_Standards/WikiData/WD~Ngan_gityemerri,3298041]]'
 - '[[_Standards/WikiData/WD~Mbabaram,3303475]]'
 - '[[_Standards/WikiData/WD~Alyawarr,3327389]]'
 - '[[_Standards/WikiData/WD~Nhanda,3339380]]'
@@ -653,12 +653,12 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
 - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Siebenter_Band,131314460]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460]]"
 different_from:
 - '[[_Standards/WikiData/WD~Astraea,742680]]'
 - "[[_Standards/WikiData/WD~mainland_Australia,2872203]]"

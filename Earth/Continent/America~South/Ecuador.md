@@ -5,7 +5,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~Andean_Community,471690]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -239,8 +239,8 @@ executive_body: "[[_Standards/WikiData/WD~Government_of_Ecuador,55645704]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Pacific_Galapagos,63286095]]'
 - '[[_Standards/WikiData/WD~America_Guayaquil,63286093]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
 open_data_portal:
 - "[[_Standards/WikiData/WD~Open_Data_Colombia,97073891]]"
 - "[[_Standards/WikiData/WD~Open_Data_platform_of_the_Republic_of_Ecuador.,97095863]]"

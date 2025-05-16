@@ -86,7 +86,7 @@ highest_judicial_authority:
 aircraft_registration_prefix: Bt
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 different_from:
-- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
 - "[[_Standards/WikiData/WD~Chinese_Taipei,216923]]"
 - "[[_Standards/WikiData/WD~Taiwan_Area,245107]]"
 - "[[_Standards/WikiData/WD~Republic_of_China,1174654]]"
@@ -94,10 +94,10 @@ different_from:
 - '[[_Standards/WikiData/WD~China,29520]]'
 - "[[_Standards/WikiData/WD~Taiwan_Province,32081]]"
 replaces:
-- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
 - "[[_Standards/WikiData/WD~Taiwan_under_Japanese_rule,137816]]"
 said_to_be_the_same_as:
-- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
 - "[[_Standards/WikiData/WD~Chinese_Taipei,216923]]"
 - "[[_Standards/WikiData/WD~Taiwan_Area,245107]]"
 - "[[_Standards/WikiData/WD~Republic_of_Taiwan,716489]]"

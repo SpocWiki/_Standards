@@ -97,7 +97,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Ndyuka-Trio_Pidgin,13591205]]"
 capital: '[[_Standards/WikiData/WD~Paramaribo,3001]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
+- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
 - '[[_Standards/WikiData/WD~America_Paramaribo,63286102]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 official_language: '[[_Standards/WikiData/WD~Dutch,7411]]'

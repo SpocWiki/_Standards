@@ -1,6 +1,6 @@
 ---
 madhhab:
-- '[[_Standards/WikiData/WD~Shafi`i,82245]]'
+- '[[_Standards/WikiData/WD~Shafi_i,82245]]'
 - '[[_Standards/WikiData/WD~Zaidism,144333]]'
 capital:
 - '[[_Standards/WikiData/WD~Aden,131694]]'
@@ -10,7 +10,7 @@ member_of:
 - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -51,7 +51,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Raymah_Governorate,475033]]"
 - "[[_Standards/WikiData/WD~Marib_Governorate,498465]]"
 - "[[_Standards/WikiData/WD~Socotra_Archipelago_Governorate,15728745]]"
-- "[[_Standards/WikiData/WD~Amanat_al_Asimah_Sana`a,116997223]]"
+- "[[_Standards/WikiData/WD~Amanat_al_Asimah_Sana_a,116997223]]"
 currency: "[[_Standards/WikiData/WD~Yemeni_Rial,240512]]"
 replaces: "[[_Standards/WikiData/WD~Yemen_Arab_Republic,267584]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Yemen,318966]]"

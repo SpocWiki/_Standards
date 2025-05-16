@@ -12,7 +12,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
 - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
 - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Montenegro–Ukraine_Free_Trade_Area,61466832]]"
+- "[[_Standards/WikiData/WD~Montenegro_Ukraine_Free_Trade_Area,61466832]]"
 - "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~NATO,7184]]'
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'

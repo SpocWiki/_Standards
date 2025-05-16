@@ -97,7 +97,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 part_of:
 - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
 - "[[_Standards/WikiData/WD~Continental_Central_America,18479603]]"
@@ -138,7 +138,7 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q111452788,111452788]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Panama,63286069]]'
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
 open_data_portal: "[[_Standards/WikiData/WD~Panama_Open_Data,97073910]]"
 nominal_GDP:
 - 67406738052

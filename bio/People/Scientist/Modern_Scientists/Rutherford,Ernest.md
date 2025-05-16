@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ernest Rutherford"
 has_id_wikidata: Q9123
@@ -133,7 +133,7 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 family_name: '[[_Standards/WikiData/WD~Rutherford,16882409]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Rutherford__Scientist_Supreme,122185364]]"

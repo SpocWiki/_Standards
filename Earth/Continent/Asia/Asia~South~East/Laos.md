@@ -59,7 +59,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Hmong_Njua,3138831]]"
 - '[[_Standards/WikiData/WD~Lamet,3216723]]'
 - '[[_Standards/WikiData/WD~Mal,3281057]]'
-- '[[_Standards/WikiData/WD~O’du,3347428]]'
+- '[[_Standards/WikiData/WD~O_du,3347428]]'
 - '[[_Standards/WikiData/WD~Kiorr,3440883]]'
 - '[[_Standards/WikiData/WD~Pacoh,3441136]]'
 - '[[_Standards/WikiData/WD~Yoy,3503717]]'
@@ -81,7 +81,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Maleng,6583562]]'
 - '[[_Standards/WikiData/WD~Nyaheun,7070801]]'
 - '[[_Standards/WikiData/WD~Phai,7180184]]'
-- '[[_Standards/WikiData/WD~Phana’,7180427]]'
+- '[[_Standards/WikiData/WD~Phana_,7180427]]'
 - '[[_Standards/WikiData/WD~Phunoi,7188361]]'
 - '[[_Standards/WikiData/WD~Sapuan,7421168]]'
 - '[[_Standards/WikiData/WD~Sila,7514021]]'
@@ -94,7 +94,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Laopan,12952711]]'
 - '[[_Standards/WikiData/WD~Ong,12953787]]'
 - '[[_Standards/WikiData/WD~Khua,13018510]]'
-- "[[_Standards/WikiData/WD~Lower_Ta’Oi,13018526]]"
+- "[[_Standards/WikiData/WD~Lower_Ta_Oi,13018526]]"
 - '[[_Standards/WikiData/WD~Talieng,13018524]]'
 - "[[_Standards/WikiData/WD~Western_Bru,13018531]]"
 - '[[_Standards/WikiData/WD~Ngeq,13018598]]'
@@ -123,7 +123,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Laos,904139]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Laos,936032]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Laos,1049083]]"

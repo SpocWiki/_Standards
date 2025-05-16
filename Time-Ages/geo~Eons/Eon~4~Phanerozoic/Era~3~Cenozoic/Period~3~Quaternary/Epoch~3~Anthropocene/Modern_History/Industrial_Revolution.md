@@ -7,8 +7,8 @@ Commons_gallery: "Industrial revolution"
 country_of_origin: "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-  - "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
-  - "[[_Standards/WikiData/WD~Meyer’s_Universum,_Neunter_Band,131719188]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
 end_time:  1820-06 
 has_time_stopped: 1820-06 
 has_characteristic:

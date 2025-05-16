@@ -40,7 +40,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 central_bank: "[[_Standards/WikiData/WD~Bank_of_Lithuania,616849]]"
 highest_point: "[[_Standards/WikiData/WD~Aukštojas_Hill,771431]]"
 diplomatic_relation:

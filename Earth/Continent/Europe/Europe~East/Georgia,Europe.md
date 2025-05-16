@@ -157,7 +157,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Autonomous_Republic_of_Abkhazia,2914461]]"
 - '[[_Standards/WikiData/WD~Tbilisi,994]]'
 - '[[_Standards/WikiData/WD~Guria,19038]]'
-- '[[_Standards/WikiData/WD~Samtskhe–Javakheti,19039]]'
+- '[[_Standards/WikiData/WD~Samtskhe_Javakheti,19039]]'
 - "[[_Standards/WikiData/WD~Racha-Lechkhumi_and_Kvemo_Svaneti,38893]]"
 - '[[_Standards/WikiData/WD~Adjara,45693]]'
 basic_form_of_government:
@@ -213,7 +213,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Georgia,843405]]"
 electrical_plug_type:
@@ -243,7 +243,7 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Georgia,17588367]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Georgia_(जॉर्जिया),21287329]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Georgia_(ज_र्ज_य_),21287329]]"
 head_of_government: "[[_Standards/WikiData/WD~Irakli_Kobakhidze,27885302]]"
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 open_data_portal: '[[_Standards/WikiData/WD~opendata.ge,97095681]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "International Red Cross and Red Crescent Movement"
 - "Red Cross"
@@ -57,7 +57,7 @@ main_regulatory_text:
 - "[[_Standards/WikiData/WD~Seville_Agreement,7458066]]"
 - "[[_Standards/WikiData/WD~Fundamental_Principles_of_the_International_Red_Cross_and_Red_Crescent_Movement,19284407]]"
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-award_received: "[[_Standards/WikiData/WD~Four_Freedoms_Award_–_Freedom_Medal,20203866]]"
+award_received: "[[_Standards/WikiData/WD~Four_Freedoms_Award___Freedom_Medal,20203866]]"
 named_after: "[[_Standards/WikiData/WD~red_cross,104863859]]"
 BHCL_UUID:
 - 2a8517e4-a4ad-468a-ac59-a8cccb8c483e

@@ -1,4 +1,4 @@
-﻿---
+---
 type: LangFamily
 tags:
 - Lang_Family
@@ -6,7 +6,7 @@ aliases:
 - "Sino-Tibetan languages"
 has_id_wikidata: Q45961
 subclass_of:
-- '[[_Standards/WikiData/WD~Dené–Caucasian,507968]]'
+- '[[_Standards/WikiData/WD~Dené_Caucasian,507968]]'
 - '[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]'
 - '[[_Standards/WikiData/WD~Sino-Tibetan-Indo-European,97690709]]'
 - "[[_Standards/WikiData/WD~Asian_languages,98791755]]"

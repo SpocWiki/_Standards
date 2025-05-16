@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Leonhard Euler"
 has_id_wikidata: Q7604
@@ -62,7 +62,7 @@ notable_work:
 - "[[_Standards/WikiData/WD~Euler's_theorem,193910]]"
 - "[[_Standards/WikiData/WD~Euler's_identity,204819]]"
 - "[[_Standards/WikiData/WD~nine-point_circle,214533]]"
-- "[[_Standards/WikiData/WD~Euler–Mascheroni_constant,273023]]"
+- "[[_Standards/WikiData/WD~Euler_Mascheroni_constant,273023]]"
 - "[[_Standards/WikiData/WD~Euler_line,379380]]"
 - "[[_Standards/WikiData/WD~Euler's_polyhedron_formula,516403]]"
 - "[[_Standards/WikiData/WD~Eulerian_path,624580]]"
@@ -71,7 +71,7 @@ notable_work:
 - "[[_Standards/WikiData/WD~Gaussian_integral,1060321]]"
 - "[[_Standards/WikiData/WD~Euler's_sum_of_powers_conjecture,1096450]]"
 - "[[_Standards/WikiData/WD~Euler's_four-square_identity,1149225]]"
-- "[[_Standards/WikiData/WD~Cauchy–Euler_equation,1196465]]"
+- "[[_Standards/WikiData/WD~Cauchy_Euler_equation,1196465]]"
 - "[[_Standards/WikiData/WD~Euler's_theorem_in_geometry,1423818]]"
 - "[[_Standards/WikiData/WD~Euler_diagram,2501020]]"
 - "[[_Standards/WikiData/WD~lucky_numbers_of_Euler,3342996]]"
@@ -96,11 +96,11 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902–1905),20089963]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950–1958),20968284]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]"
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"

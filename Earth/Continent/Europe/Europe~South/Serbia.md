@@ -219,7 +219,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Spatial_plan_for_the_special_purpose_area_of_Grlište_reservoir_basin,126975077]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Fünfter_Band,130285551]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfter_Band,130285551]]"
 official_observer_status_in_organisation: "[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Serbia,747927]]"
 lowest_point: '[[_Standards/WikiData/WD~Timok,753919]]'

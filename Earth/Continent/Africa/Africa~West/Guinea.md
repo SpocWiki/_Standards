@@ -43,7 +43,7 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Conakry,3733]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
@@ -103,7 +103,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~442-020,60057142]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Conakry,4689487]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Guinea,7112281]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Guinea,7884258]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q8050375,8050375]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9387
 aliases:
 - "Max Weber"
@@ -118,8 +118,8 @@ family_name: '[[_Standards/WikiData/WD~Weber,1409226]]'
 manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Heidelberg_Scholar_Lexicon_1803–1932,48711337]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+- "[[_Standards/WikiData/WD~Heidelberg_Scholar_Lexicon_1803_1932,48711337]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 mother: "[[_Standards/WikiData/WD~Helene_Sarah_Julie_Fallenstein,94736848]]"

@@ -76,7 +76,7 @@ culture: "[[_Standards/WikiData/WD~culture_of_Western_Sahara,3271104]]"
 lowest_point: "[[_Standards/WikiData/WD~Sebkha_Tah,3476951]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_El_Aaiun,4689492]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 bibliography: "[[_Standards/WikiData/WD~bibliography_of_Western_Sahara,4903404]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Western_Sahara,5333811]]"

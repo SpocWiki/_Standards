@@ -106,10 +106,10 @@ electrical_plug_type:
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Czech_Republic,1639075]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Czech_Republic,1819381]]"
 has_boundary:
-- "[[_Standards/WikiData/WD~Czech_Republic–Poland_border,1992001]]"
-- "[[_Standards/WikiData/WD~Czech_Republic–Slovakia_border,1992781]]"
-- "[[_Standards/WikiData/WD~Czech_Republic–Germany_border,2457112]]"
-- "[[_Standards/WikiData/WD~Austria–Czech_Republic_border,3088742]]"
+- "[[_Standards/WikiData/WD~Czech_Republic_Poland_border,1992001]]"
+- "[[_Standards/WikiData/WD~Czech_Republic_Slovakia_border,1992781]]"
+- "[[_Standards/WikiData/WD~Czech_Republic_Germany_border,2457112]]"
+- "[[_Standards/WikiData/WD~Austria_Czech_Republic_border,3088742]]"
 replaces:
 - "[[_Standards/WikiData/WD~Czech_and_Slovak_Federal_Republic,1998866]]"
 - "[[_Standards/WikiData/WD~Czech_Republic,3496079]]"

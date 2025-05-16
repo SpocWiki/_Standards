@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8275
 characters:
 - '[[_Standards/WikiData/WD~Aeneas,82732]]'
@@ -80,10 +80,10 @@ has_edition_or_translation:
 - "[[_Standards/WikiData/WD~The_Iliad_and_Odyssey_of_Homer,19090449]]"
 - '[[_Standards/WikiData/WD~Iliad,19141031]]'
 - '[[_Standards/WikiData/WD~Iliada,19141036]]'
-- "[[_Standards/WikiData/WD~Les_Dix_Premiers_Livres_de_l’Iliade_d’Homère,19210515]]"
+- "[[_Standards/WikiData/WD~Les_Dix_Premiers_Livres_de_l_Iliade_d_Homère,19210515]]"
 - "[[_Standards/WikiData/WD~The_Iliad_of_Homer,19828573]]"
 - '[[_Standards/WikiData/WD~Iliade,21666067]]'
-- "[[_Standards/WikiData/WD~Les_Unzième,_et_Douzième_Livres_de_l’Iliade_d'Homère,21714772]]"
+- "[[_Standards/WikiData/WD~Les_Unzième,_et_Douzième_Livres_de_l_Iliade_d'Homère,21714772]]"
 - "[[_Standards/WikiData/WD~L'Iliade,21716706]]"
 - "[[_Standards/WikiData/WD~L'Iliade,21716786]]"
 - '[[_Standards/WikiData/WD~Iliade,21716827]]'

@@ -53,7 +53,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Bhutan,663871]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Asia,771405]]"
 part_of: "[[_Standards/WikiData/WD~South_Asia,771405]]"

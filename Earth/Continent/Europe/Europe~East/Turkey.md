@@ -98,7 +98,7 @@ member_of:
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
 - "[[_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
 - "[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
@@ -275,7 +275,7 @@ demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Turkey,1185988]
 different_from: '[[_Standards/WikiData/WD~Turkey,1715478]]'
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Turkey,1922067]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Turkey,1922067]]"
-participant_in: "[[_Standards/WikiData/WD~Spain–Turkey_relations,6013315]]"
+participant_in: "[[_Standards/WikiData/WD~Spain_Turkey_relations,6013315]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Turkey,7112494]]"
 country_calling_code:
 - +36

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q35277
 opposite_of: '[[_Standards/WikiData/WD~agnosticism,288928]]'
 subclass_of: '[[_Standards/WikiData/WD~metaphilosophy,596284]]'
@@ -8,7 +8,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 is_the_study_of: "[[_Standards/WikiData/WD~unmoved_mover,2326055]]"
 history_of_topic: '[[_Standards/WikiData/WD~Q3137267,3137267]]'

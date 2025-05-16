@@ -69,7 +69,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -116,7 +116,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Banjul,4689477]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 culture: "[[_Standards/WikiData/WD~culture_of_The_Gambia,5794513]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Gambia,7112763]]"
 replaces: "[[_Standards/WikiData/WD~Commonwealth_realm_of_the_Gambia,7735661]]"
@@ -127,7 +127,7 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_The_Gambia,11288
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Gambia,15921518]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Gambia,15921518]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 head_of_state: "[[_Standards/WikiData/WD~Adama_Barrow,27917049]]"
 head_of_government: "[[_Standards/WikiData/WD~Adama_Barrow,27917049]]"
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"

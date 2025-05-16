@@ -59,13 +59,13 @@ permanent_duplicated_item:
 replaced_by:
   - '[[_Standards/WikiData/WD~Wu,1323195]]'
   - "[[_Standards/WikiData/WD~Later_Liang_dynasty,783489]]"
-  - "[[_Standards/WikiData/WD~Zhou_dynasty_(690–705),835435]]"
+  - "[[_Standards/WikiData/WD~Zhou_dynasty_(690_705),835435]]"
 replaces:
   - '[[_Standards/WikiData/WD~Goguryeo,28370]]'
   - "[[_Standards/WikiData/WD~Gaochang_Kingdom_(Qu_clan),11175560]]"
   - "[[_Standards/WikiData/WD~Qi_(Huang_Chao),11180184]]"
   - "[[_Standards/WikiData/WD~Sui_dynasty,7405]]"
-  - "[[_Standards/WikiData/WD~Zhou_dynasty_(690–705),835435]]"
+  - "[[_Standards/WikiData/WD~Zhou_dynasty_(690_705),835435]]"
 start_time: 0618-06  
 has_time_started: 0618-06 
 topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'

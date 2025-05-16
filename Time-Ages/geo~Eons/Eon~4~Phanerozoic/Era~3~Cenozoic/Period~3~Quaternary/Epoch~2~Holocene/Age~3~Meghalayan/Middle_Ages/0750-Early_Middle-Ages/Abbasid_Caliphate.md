@@ -20,7 +20,7 @@ currency:
 described_by_source:
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
@@ -45,7 +45,7 @@ locator_map_image:
   - "http: //commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD-ar.png"
   - "http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD.png"
 main_regulatory_text:
-  - '[[_Standards/WikiData/WD~Qur’an,428]]'
+  - '[[_Standards/WikiData/WD~Qur_an,428]]'
   - '[[_Standards/WikiData/WD~sharia,482752]]'
   - '[[_Standards/WikiData/WD~Sunnah,234764]]'
 named_after: "[[_Standards/WikiData/WD~Abbas_ibn_Abd_al-Muttalib,293599]]"

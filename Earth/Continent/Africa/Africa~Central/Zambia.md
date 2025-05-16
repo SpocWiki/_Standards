@@ -7,7 +7,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
 - "[[_Standards/WikiData/WD~Group_of_77,477328]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"

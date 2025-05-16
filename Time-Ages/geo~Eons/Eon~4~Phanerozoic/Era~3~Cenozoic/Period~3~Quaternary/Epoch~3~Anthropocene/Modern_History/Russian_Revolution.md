@@ -8,7 +8,7 @@ country: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Revoluci%C3%B3n-marzo-rusia--russianbolshevik00rossuoft.png"
 instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
 location: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-part_of: "[[_Standards/WikiData/WD~Revolutions_of_1917–1923,7318933]]"
+part_of: "[[_Standards/WikiData/WD~Revolutions_of_1917_1923,7318933]]"
 participant:
   - '[[_Standards/WikiData/WD~Bolsheviks,83372]]'
   - '[[_Standards/WikiData/WD~Mensheviks,191515]]'

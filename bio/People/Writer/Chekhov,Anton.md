@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Anton Chekhov"
 - "Anton Pavlovich Chekhov"
@@ -61,14 +61,14 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Russian_writers__XIX_c. [2_2],125555366]]"
+- "[[_Standards/WikiData/WD~Russian_writers__XIX_c._2_2_,125555366]]"
 award_received:
 - "[[_Standards/WikiData/WD~Pushkin_Prize,840693]]"
 - "[[_Standards/WikiData/WD~Medal_for_works_on_the_first_general_census,4287075]]"

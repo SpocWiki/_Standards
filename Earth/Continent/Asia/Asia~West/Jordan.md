@@ -29,7 +29,7 @@ member_of:
 - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"

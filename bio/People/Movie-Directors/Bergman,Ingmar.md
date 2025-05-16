@@ -101,7 +101,7 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ingmar_Bergman,8084367
 place_of_death: "[[_Standards/WikiData/WD~Fårö_parish,10501028]]"
 place_of_birth: "[[_Standards/WikiData/WD~Uppsala_Cathedral_Assembly,10710237]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
   - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
   - "[[_Standards/WikiData/WD~Uppsala__Kulturella_spår__website,78720644]]"
 family_name: "[[_Standards/WikiData/WD~Bergman,21489110]]"

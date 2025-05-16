@@ -101,7 +101,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Summit_of_South_American-Arab_Countries,2836400]]"
 - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
 - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-- "[[_Standards/WikiData/WD~Forum_of_East_Asia–Latin_America_Cooperation,17076232]]"
+- "[[_Standards/WikiData/WD~Forum_of_East_Asia_Latin_America_Cooperation,17076232]]"
 - "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
 - '[[_Standards/WikiData/WD~Mercosur,4264]]'
@@ -248,7 +248,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Matsés,2981620]]'
 - '[[_Standards/WikiData/WD~Cubeo,3006705]]'
 - '[[_Standards/WikiData/WD~Yaminawa,3026110]]'
-- '[[_Standards/WikiData/WD~Wari’,3027909]]'
+- '[[_Standards/WikiData/WD~Wari_,3027909]]'
 - '[[_Standards/WikiData/WD~Xokleng,3027930]]'
 - '[[_Standards/WikiData/WD~Guató,3027940]]'
 - '[[_Standards/WikiData/WD~Maxakalí,3029682]]'
@@ -311,7 +311,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Sabanês,3460478]]'
 - '[[_Standards/WikiData/WD~Siriano,3485264]]'
 - '[[_Standards/WikiData/WD~Mehinaku,3501838]]'
-- "[[_Standards/WikiData/WD~Ucayali–Yurúa_Ashéninka,3501858]]"
+- "[[_Standards/WikiData/WD~Ucayali_Yurúa_Ashéninka,3501858]]"
 - '[[_Standards/WikiData/WD~Paresí,3504312]]'
 - '[[_Standards/WikiData/WD~Suyá,3505859]]'
 - '[[_Standards/WikiData/WD~Anambé,3507873]]'
@@ -521,10 +521,10 @@ shares_border_with:
 capital: '[[_Standards/WikiData/WD~Brasília,2844]]'
 official_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-- '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
-- '[[_Standards/WikiData/WD~UTC−02_00,6536]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
+- '[[_Standards/WikiData/WD~UTC_02_00,6536]]'
 minimum_temperature_record: -14
 continent: "[[_Standards/WikiData/WD~South_America,18]]"
 lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"

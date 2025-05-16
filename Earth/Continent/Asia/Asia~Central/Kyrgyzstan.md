@@ -7,7 +7,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]"
 - "[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"

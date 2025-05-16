@@ -118,7 +118,7 @@ history_of_topic: "[[_Standards/WikiData/WD~history_of_Moldova,528560]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_the_Republic_of_Moldova,555809]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Moldova,975172]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Greek
@@ -12,9 +12,9 @@ has_grammatical_case:
 - "[[_Standards/WikiData/WD~genitive_case,146233]]"
 - "[[_Standards/WikiData/WD~vocative_case,185077]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
+- "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
 - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
 - "[[_Standards/WikiData/WD~pro-drop_language,661936]]"
 - '[[_Standards/WikiData/WD~adjective-noun,74834637]]'
 - "[[_Standards/WikiData/WD~synthetic_language,48612]]"

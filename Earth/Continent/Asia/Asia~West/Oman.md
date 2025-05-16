@@ -53,7 +53,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 anthem: "[[_Standards/WikiData/WD~Nashid_as-Salaam_as-Sultani,634111]]"
 lowest_point: "[[_Standards/WikiData/WD~Majlis_al_Jinn,957114]]"
 highest_point: "[[_Standards/WikiData/WD~Jebel_Shams,1261915]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 40.793
 - 19.9565
@@ -114,7 +114,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"

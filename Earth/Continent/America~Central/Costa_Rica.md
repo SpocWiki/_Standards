@@ -67,7 +67,7 @@ office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Costa_Rica,
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Costa_Rica,27977064]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Costa_Rica,63286060]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 part_of:
 - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
 - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"

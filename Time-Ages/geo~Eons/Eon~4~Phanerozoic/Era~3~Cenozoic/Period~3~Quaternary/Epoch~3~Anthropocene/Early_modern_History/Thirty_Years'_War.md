@@ -10,7 +10,7 @@ country: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
@@ -25,7 +25,7 @@ location: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Lutzen%20banner.jpg"
 participant:
   - '[[_Standards/WikiData/WD~Brandenburg-Prussia,157367]]'
-  - '[[_Standards/WikiData/WD~Denmark–Norway,62651]]'
+  - '[[_Standards/WikiData/WD~Denmark_Norway,62651]]'
   - '[[_Standards/WikiData/WD~Sweden,34]]'
   - "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
   - "[[_Standards/WikiData/WD~Electoral_Palatinate,22880]]"

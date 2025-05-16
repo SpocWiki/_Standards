@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7365
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -6,7 +6,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 studied_in: '[[_Standards/WikiData/WD~myology,674407]]'
 has_characteristic:
 - "[[_Standards/WikiData/WD~muscle_strength,3076906]]"

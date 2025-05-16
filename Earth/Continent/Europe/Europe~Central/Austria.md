@@ -97,7 +97,7 @@ demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Austria,671856]
 executive_body: "[[_Standards/WikiData/WD~Austrian_Federal_Government,695599]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"

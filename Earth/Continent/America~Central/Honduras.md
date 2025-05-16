@@ -121,7 +121,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Honduran_Sign_Language,3915496]]"
 - '[[_Standards/WikiData/WD~Paya,4898889]]'
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Ch’orti’,35177]]'
+- '[[_Standards/WikiData/WD~Ch_orti_,35177]]'
 - '[[_Standards/WikiData/WD~Garifuna,35490]]'
 - '[[_Standards/WikiData/WD~Lencan,36189]]'
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Honduras,2366847]]"
@@ -153,7 +153,7 @@ permanent_duplicated_item:
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Tegucigalpa,63286065]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 coordinates_of_northernmost_point: "Point(-85.85 16.52)"
 nominal_GDP:
 - 28488721296

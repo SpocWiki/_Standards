@@ -42,7 +42,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -123,7 +123,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kraol,3199593]]'
 - '[[_Standards/WikiData/WD~Tampuan,3514882]]'
 - '[[_Standards/WikiData/WD~Brao,4957737]]'
-- '[[_Standards/WikiData/WD~Kaco’,6344767]]'
+- '[[_Standards/WikiData/WD~Kaco_,6344767]]'
 - '[[_Standards/WikiData/WD~Samre,6583615]]'
 - '[[_Standards/WikiData/WD~Somray,6583612]]'
 - "[[_Standards/WikiData/WD~Sa'och,6583617]]"

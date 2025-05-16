@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 6012
 has_id_wikidata: Q753
@@ -35,7 +35,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 - '[[_Standards/WikiData/WD~Copper,84688173]]'

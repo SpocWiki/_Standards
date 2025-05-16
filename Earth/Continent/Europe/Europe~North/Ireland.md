@@ -262,7 +262,7 @@ language_used:
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Irish,9142]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Republic_of_Ireland,8062]]"
 different_from:
 - '[[_Standards/WikiData/WD~Ireland,22890]]'

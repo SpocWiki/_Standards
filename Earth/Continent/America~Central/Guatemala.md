@@ -59,7 +59,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 part_of:
 - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
 - "[[_Standards/WikiData/WD~Latin_America,12585]]"
@@ -84,22 +84,22 @@ language_used:
 - '[[_Standards/WikiData/WD~Akateko,34923]]'
 - '[[_Standards/WikiData/WD~Awakatek,35091]]'
 - '[[_Standards/WikiData/WD~Kaqchikel,35115]]'
-- '[[_Standards/WikiData/WD~Ch’orti’,35177]]'
+- '[[_Standards/WikiData/WD~Ch_orti_,35177]]'
 - '[[_Standards/WikiData/WD~Chuj,35233]]'
 - '[[_Standards/WikiData/WD~Garifuna,35490]]'
 - '[[_Standards/WikiData/WD~Ixil,35528]]'
-- '[[_Standards/WikiData/WD~Q’eqchi’,35536]]'
-- '[[_Standards/WikiData/WD~Itza’,35537]]'
-- '[[_Standards/WikiData/WD~Q’anjob’al,35551]]'
+- '[[_Standards/WikiData/WD~Q_eqchi_,35536]]'
+- '[[_Standards/WikiData/WD~Itza_,35537]]'
+- '[[_Standards/WikiData/WD~Q_anjob_al,35551]]'
 - "[[_Standards/WikiData/WD~Mopan_Maya,36183]]"
 - "[[_Standards/WikiData/WD~Poqomchi',36414]]"
 - '[[_Standards/WikiData/WD~Sakapultek,36412]]'
 - '[[_Standards/WikiData/WD~Poqomam,36416]]'
-- '[[_Standards/WikiData/WD~K’iche’,36494]]'
+- '[[_Standards/WikiData/WD~K_iche_,36494]]'
 - '[[_Standards/WikiData/WD~Sipakapa,36589]]'
 - '[[_Standards/WikiData/WD~Tektitek,36686]]'
 - '[[_Standards/WikiData/WD~Uspantek,36728]]'
-- '[[_Standards/WikiData/WD~Tz’utujil,36941]]'
+- '[[_Standards/WikiData/WD~Tz_utujil,36941]]'
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Guatemala,2334361]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Guatemala,2424171]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Guatemala,2463384]]"
@@ -126,7 +126,7 @@ permanent_duplicated_item:
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Guatemala,63286063]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 replaces: "[[_Standards/WikiData/WD~State_of_Guatemala,68257522]]"
 open_data_portal: "[[_Standards/WikiData/WD~Guatemala_Open_Data_Portal,97095849]]"
 head_of_state: "[[_Standards/WikiData/WD~Bernardo_Arévalo_de_León,107254030]]"

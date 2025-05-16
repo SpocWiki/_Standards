@@ -12,7 +12,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
   - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
 different_from:
@@ -23,8 +23,8 @@ has_time_stopped: 1918-11-11
 facet_of: "[[_Standards/WikiData/WD~German_colonial_empire,329618]]"
 has_cause: "[[_Standards/WikiData/WD~multiple_causes,18121382]]"
 has_contributing_factor:
-  - "[[_Standards/WikiData/WD~Alsace–Lorraine,155144]]"
-  - "[[_Standards/WikiData/WD~Anglo–German_naval_arms_race,4763720]]"
+  - "[[_Standards/WikiData/WD~Alsace_Lorraine,155144]]"
+  - "[[_Standards/WikiData/WD~Anglo_German_naval_arms_race,4763720]]"
 has_effect:
   - "[[_Standards/WikiData/WD~Asia,48]]"
   - "[[_Standards/WikiData/WD~Austria-Hungary,28513]]"
@@ -51,7 +51,7 @@ located_in_on_physical_feature:
   - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
   - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
   - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-  - "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+  - "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
   - "[[_Standards/WikiData/WD~West_Asia,27293]]"
 location:
   - "[[_Standards/WikiData/WD~Africa,15]]"

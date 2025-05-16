@@ -1,7 +1,7 @@
-﻿---
+---
 has_id_wikidata: Q933
 instance_of: "[[_Standards/WikiData/WD~geographical_pole,183273]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Amundsen–Scott_South_Pole_Station,243307]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Amundsen_Scott_South_Pole_Station,243307]]"
 different_from:
 - "[[_Standards/WikiData/WD~South_Magnetic_Pole,1043682]]"
 - "[[_Standards/WikiData/WD~south_geomagnetic_pole,63245219]]"
@@ -11,7 +11,7 @@ located_in_time_zone:
 Köppen_climate_classification: "[[_Standards/WikiData/WD~ice_cap_climate,5985406]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Geographic_South_Pole,13135825]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]"

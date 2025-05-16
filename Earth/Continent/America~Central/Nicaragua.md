@@ -127,7 +127,7 @@ category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32380434,32380434]]'
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Managua,63286068]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 coordinates_of_southernmost_point: "Point(-83.8699 10.7165)"
 coordinate_location: "Point(-85.0 13.0)"
 demonym:

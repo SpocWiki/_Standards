@@ -140,7 +140,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Minica_Huitoto,948514]]"
 - '[[_Standards/WikiData/WD~Desano,962392]]'
 - '[[_Standards/WikiData/WD~Ticuna,1815205]]'
-- "[[_Standards/WikiData/WD~San_Andrés–Providencia_Creole,2044587]]"
+- "[[_Standards/WikiData/WD~San_Andrés_Providencia_Creole,2044587]]"
 - '[[_Standards/WikiData/WD~Bora,2375468]]'
 - "[[_Standards/WikiData/WD~Northern_Embera,2391297]]"
 - '[[_Standards/WikiData/WD~Tuyuca,2520538]]'
@@ -246,7 +246,7 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Bogota,63286092]]'
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Colombia,97073891]]"
 coordinates_of_easternmost_point: "Point(-66.8512 1.229)"
 demonym:

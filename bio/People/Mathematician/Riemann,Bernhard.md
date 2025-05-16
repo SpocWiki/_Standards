@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Bernhard Riemann"
 has_id_wikidata: Q42299
@@ -52,7 +52,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 doctoral_student:

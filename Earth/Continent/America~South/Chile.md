@@ -257,8 +257,8 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Ñuble_Region,24076693]]"
 capital: '[[_Standards/WikiData/WD~Santiago,2887]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
-- '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~nation,6266]]'
@@ -320,7 +320,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~134,79049177]]'
 executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Chile,29077203]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-open_data_portal: "[[_Standards/WikiData/WD~Chile’s_Public_Data_Portal,97001450]]"
+open_data_portal: "[[_Standards/WikiData/WD~Chile_s_Public_Data_Portal,97001450]]"
 UMLS_CUI: C0008107
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Duna%20Mayor%2C%20Valle%20de%20la%20Luna%2C%20San%20Pedro%20de%20Atacama%2C%20Chile%2C%202016-02-01%2C%20DD%20164.JPG"
 ISNI:

@@ -73,7 +73,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tshwa,963636]]'
 - '[[_Standards/WikiData/WD~Juǀʼhoansi,1192295]]'
 - '[[_Standards/WikiData/WD~Gǁana,1975199]]'
-- '[[_Standards/WikiData/WD~ǂ’Amkoe,2053913]]'
+- '[[_Standards/WikiData/WD~ǂ_Amkoe,2053913]]'
 - '[[_Standards/WikiData/WD~Kgalagadi,2088743]]'
 - '[[_Standards/WikiData/WD~Naro,2164778]]'
 - '[[_Standards/WikiData/WD~Mbukushu,2691548]]'

@@ -58,7 +58,7 @@ founded_by:
 - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 - '[[_Standards/WikiData/WD~Yugoslavia,36704]]'
 - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
-- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
 has_goal:
 - '[[_Standards/WikiData/WD~peace,454]]'
 - '[[_Standards/WikiData/WD~donation,1124860]]'
@@ -116,7 +116,7 @@ headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
 replaces: "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
 award_received:
 - "[[_Standards/WikiData/WD~Sakharov_Prize,48786]]"
-- "[[_Standards/WikiData/WD~Four_Freedoms_Award_–_Freedom_Medal,20203866]]"
+- "[[_Standards/WikiData/WD~Four_Freedoms_Award___Freedom_Medal,20203866]]"
 Commons_category: "United Nations"
 Archive_of_Our_Own_tag: "United Nations"
 DPLA_subject_term: "United Nations"
@@ -137,7 +137,7 @@ chairperson: "[[_Standards/WikiData/WD~António_Guterres,311440]]"
 general_secretary: "[[_Standards/WikiData/WD~António_Guterres,311440]]"
 creator: "[[_Standards/WikiData/WD~Allies_of_the_Second_World_War,329888]]"
 partnership_with:
-- "[[_Standards/WikiData/WD~Asian–African_Legal_Consultative_Organization,333536]]"
+- "[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]"
 - "[[_Standards/WikiData/WD~Association_for_Progressive_Communications,743611]]"
 political_ideology: '[[_Standards/WikiData/WD~internationalism,695838]]'
 part_of: "[[_Standards/WikiData/WD~United_Nations_System,854218]]"

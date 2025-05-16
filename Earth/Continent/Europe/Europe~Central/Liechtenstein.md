@@ -63,7 +63,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 highest_point: '[[_Standards/WikiData/WD~Grauspitz,665000]]'
 named_after: "[[_Standards/WikiData/WD~House_of_Liechtenstein,698530]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Liechtenstein,943167]]"

@@ -248,7 +248,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Neunter_Band,131719188]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
 legislative_body: "[[_Standards/WikiData/WD~French_Parliament,632552]]"
 highest_judicial_authority:
 - "[[_Standards/WikiData/WD~Conseil_d'État,769657]]"
@@ -271,7 +271,7 @@ language_used:
 executive_body: "[[_Standards/WikiData/WD~Government_of_the_French_Republic,1450662]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_France,1587677]]"
 part_of:
-- "[[_Standards/WikiData/WD~Pyrenees–Mediterranean_Euroregion,1849394]]"
+- "[[_Standards/WikiData/WD~Pyrenees_Mediterranean_Euroregion,1849394]]"
 - "[[_Standards/WikiData/WD~European_Union,458]]"
 - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
 - "[[_Standards/WikiData/WD~Western_Europe,27496]]"

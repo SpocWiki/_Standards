@@ -78,7 +78,7 @@ demonym:
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 different_from:
   - '[[_Standards/WikiData/WD~CCCP,414864]]'
@@ -211,7 +211,7 @@ permanent_duplicated_item:
 PM20_geo_code: A50
 political_ideology:
   - '[[_Standards/WikiData/WD~communism,6186]]'
-  - '[[_Standards/WikiData/WD~Marxism–Leninism,211930]]'
+  - '[[_Standards/WikiData/WD~Marxism_Leninism,211930]]'
   - "[[_Standards/WikiData/WD~Socialism_in_One_Country,44404]]"
   - "[[_Standards/WikiData/WD~state_capitalism,548235]]"
 population: 293047571

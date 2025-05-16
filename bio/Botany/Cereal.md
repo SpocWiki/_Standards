@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12117
 subclass_of:
 - "[[_Standards/WikiData/WD~raw_material,192355]]"
@@ -10,7 +10,7 @@ different_from:
 described_by_source:
 - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 part_of: "[[_Standards/WikiData/WD~cereals_and_pseudocereals,2643145]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Cereals,6868173]]'
 instance_of: "[[_Standards/WikiData/WD~group_or_class_of_agricultural_products,113657383]]"

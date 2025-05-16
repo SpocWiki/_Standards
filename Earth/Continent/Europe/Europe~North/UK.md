@@ -347,7 +347,7 @@ coordinates_of_easternmost_point: "Point(1.76297307 52.48106832)"
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 executive_body: "[[_Standards/WikiData/WD~Government_of_the_United_Kingdom,6063]]"
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_the_United_Kingdom,11010]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_United_Kingdom,14211]]"
 located_in_on_physical_feature:

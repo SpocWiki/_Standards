@@ -63,9 +63,9 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Neunter_Band,131719188]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
 central_bank: "[[_Standards/WikiData/WD~Bank_Al-Maghrib,328198]]"
 replaces: "[[_Standards/WikiData/WD~Spanish_protectorate_in_Morocco,457242]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Morocco,472658]]"
@@ -109,7 +109,7 @@ instance_of:
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Morocco,4540130]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Casablanca,4689485]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 ethnic_group: '[[_Standards/WikiData/WD~Arab-Berber,4783129]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Morocco,7112370]]"

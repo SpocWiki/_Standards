@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hómēros
 has_id_wikidata: Q6691
@@ -19,7 +19,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 - "[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

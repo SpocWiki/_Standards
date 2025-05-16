@@ -77,7 +77,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Parco%20della%20Grotta
 ISNI: "0000000430695667"
 ---
 
-#is_/same_as :: [[../../../../WikiData/WD~Virgil,1398|WD~Virgil,1398]]
+#is_/same_as :: [[../../../../WikiData/WD~Virgil,1398_WD~Virgil,1398]]
 
 #has_/time_/started :: -0069-10-15 
 #has_/time_/stopped :: -0018-09-21 

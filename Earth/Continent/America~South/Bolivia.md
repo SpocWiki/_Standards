@@ -165,7 +165,7 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_La_Paz,63286077]]'
 - '[[_Standards/WikiData/WD~America_Cochabamba,111534089]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_portal_Bolivia,97063703]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q109829420,109829420]]'
 nominal_GDP:

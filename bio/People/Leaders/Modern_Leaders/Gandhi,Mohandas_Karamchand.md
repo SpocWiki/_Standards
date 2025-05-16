@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mohandas Karamchand Gandhi"
 - "Mahatma Gandhi"
@@ -96,10 +96,10 @@ Commons_gallery: "Mohandas K. Gandhi"
 honorific_prefix: '[[_Standards/WikiData/WD~Mahatma,12937862]]'
 on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
-- '[[_Standards/WikiData/WD~The_Women’s_Library_LSESuffrageInterviewsProject,117322976]]'
+- '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
 - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"

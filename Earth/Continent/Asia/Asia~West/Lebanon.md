@@ -71,7 +71,7 @@ demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Lebanon,260943]
 described_by_source:
 - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 highest_point: "[[_Standards/WikiData/WD~Qurnat_as_Sawda',311330]]"
 anthem: "[[_Standards/WikiData/WD~Lebanese_national_anthem,329961]]"
 head_of_government: "[[_Standards/WikiData/WD~Nawaf_Salam,638463]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12152
 UMLS_CUI: C0027051
 MeSH_tree_code:
@@ -26,7 +26,7 @@ drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~atenolol,411325]]'
 - '[[_Standards/WikiData/WD~bisoprolol,412515]]'
 - '[[_Standards/WikiData/WD~carvedilol,412534]]'
-- '[[_Standards/WikiData/WD~(S)-(−)-timolol,413994]]'
+- '[[_Standards/WikiData/WD~(S)-(_)-timolol,413994]]'
 - '[[_Standards/WikiData/WD~tirofiban,415366]]'
 - '[[_Standards/WikiData/WD~Streptokinase,416485]]'
 - '[[_Standards/WikiData/WD~pindolol,418101]]'

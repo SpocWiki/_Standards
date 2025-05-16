@@ -50,7 +50,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Perené_Ashéninka,3450601]]"
 - '[[_Standards/WikiData/WD~Secoya,3477218]]'
 - '[[_Standards/WikiData/WD~Remo,3501825]]'
-- "[[_Standards/WikiData/WD~Ucayali–Yurúa_Ashéninka,3501858]]"
+- "[[_Standards/WikiData/WD~Ucayali_Yurúa_Ashéninka,3501858]]"
 - "[[_Standards/WikiData/WD~South_Ucayali_Ashéninka,3501868]]"
 - "[[_Standards/WikiData/WD~Southern_Aymara,3508036]]"
 - '[[_Standards/WikiData/WD~Yora,3572572]]'
@@ -102,7 +102,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Lamas_Quechua,35880]]"
 - "[[_Standards/WikiData/WD~Pacaraos_Quechua,36331]]"
 - "[[_Standards/WikiData/WD~Wanka_Quechua,36960]]"
-- "[[_Standards/WikiData/WD~Yauyos–Chincha_Quechua,36964]]"
+- "[[_Standards/WikiData/WD~Yauyos_Chincha_Quechua,36964]]"
 - "[[_Standards/WikiData/WD~Nüpode_Huitoto,56333]]"
 member_of:
 - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
@@ -111,7 +111,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~Andean_Community,471690]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -327,7 +327,7 @@ official_language:
 capital: '[[_Standards/WikiData/WD~Lima,2868]]'
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Peru,4530]]"
 anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Peru,4944]]"
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
 minimum_temperature_record: -25.2
 continent: "[[_Standards/WikiData/WD~South_America,18]]"
 unemployment_rate: 4

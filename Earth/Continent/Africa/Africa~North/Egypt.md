@@ -20,7 +20,7 @@ member_of:
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -99,7 +99,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"

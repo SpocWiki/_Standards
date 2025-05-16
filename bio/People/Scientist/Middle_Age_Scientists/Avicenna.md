@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ibn Sina"
 - Avicenna
@@ -71,7 +71,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

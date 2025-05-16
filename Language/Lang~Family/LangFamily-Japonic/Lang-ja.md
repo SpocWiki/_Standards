@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Japanese
@@ -21,13 +21,13 @@ has_grammatical_case:
 linguistic_typology:
 - '[[_Standards/WikiData/WD~postposition,161873]]'
 - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
-- '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
+- "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 - "[[_Standards/WikiData/WD~pro-drop_language,661936]]"
-- "[[_Standards/WikiData/WD~direct–inverse_alignment,892484]]"
+- "[[_Standards/WikiData/WD~direct_inverse_alignment,892484]]"
 - "[[_Standards/WikiData/WD~pitch_accent,1441804]]"
 - "[[_Standards/WikiData/WD~moraic_language,3217341]]"
-- '[[_Standards/WikiData/WD~time–manner–place,7806656]]'
+- '[[_Standards/WikiData/WD~time_manner_place,7806656]]'
 - '[[_Standards/WikiData/WD~adjective-noun,74834637]]'
 - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
 has_tense:
