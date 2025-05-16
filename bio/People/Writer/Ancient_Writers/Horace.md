@@ -4,74 +4,72 @@ aliases:
   - Q. Horatius Flaccus
   - Horaz
 has_id_wikidata: Q6197
-social classification: "[[_Standards/WikiData/WD~equites,122166]]"
-has works in the collection:
-  - "[[_Standards/WikiData/WD~National Gallery of Art,214867]]"
-  - "[[_Standards/WikiData/WD~Geldersch Landschap en Kasteelen,98904445]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj slovarʹ klassičeskih drevnostej po Lûbkeru,30059240]]"
+gens: "[[_Standards/WikiData/WD~Horatia_gens,3639293]]"
+social_classification: "[[_Standards/WikiData/WD~equites,122166]]"
+has_works_in_the_collection:
+  - "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
+  - "[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
   - "[[_Standards/WikiData/WD~Q43389034,43389034]]"
-  - "[[_Standards/WikiData/WD~1870 Dictionary of Greek and Roman Biography and Mythology,47500198]]"
-  - "[[_Standards/WikiData/WD~BEIC Digital Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-student of:
-  - "[[_Standards/WikiData/WD~Aristos of Ascalon,667385]]"
-  - "[[_Standards/WikiData/WD~Cratippus of Pergamon,950303]]"
-notable work:
-  - "[[_Standards/WikiData/WD~Ars Poetica,677997]]"
+  - "[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]"
+  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+student_of:
+  - "[[_Standards/WikiData/WD~Aristos_of_Ascalon,667385]]"
+  - "[[_Standards/WikiData/WD~Cratippus_of_Pergamon,950303]]"
+notable_work:
+  - "[[_Standards/WikiData/WD~Ars_Poetica,677997]]"
   - "[[_Standards/WikiData/WD~Odes,943884]]"
   - "[[_Standards/WikiData/WD~Satires,1226154]]"
   - "[[_Standards/WikiData/WD~Epistulae,1226213]]"
-  - "[[_Standards/WikiData/WD~Carmen saeculare,1246446]]"
+  - "[[_Standards/WikiData/WD~Carmen_saeculare,1246446]]"
   - "[[_Standards/WikiData/WD~Epodes,3730710]]"
-significant event: "[[_Standards/WikiData/WD~proscription,723838]]"
-gens: "[[_Standards/WikiData/WD~Horatia gens,3639293]]"
+significant_event: "[[_Standards/WikiData/WD~proscription,723838]]"
 occupation:
   - "[[_Standards/WikiData/WD~philosopher,4964182]]"
   - "[[_Standards/WikiData/WD~writer,36180]]"
   - "[[_Standards/WikiData/WD~poet,49757]]"
 sex or gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different from: "[[_Standards/WikiData/WD~Horacy,9293797]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Horace,20338778]]"
-praenomen: "[[_Standards/WikiData/WD~Quintus,21473986]]"
-cognomen: "[[_Standards/WikiData/WD~Flaccus,29825292]]"
-nomen gentilicium: "[[_Standards/WikiData/WD~Horatius,29968376]]"
-copyright status as a creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
-date of death: -0007-11-25T00:00:00Z
-attested in: "[[_Standards/WikiData/WD~Mare Magnum volume 82,118465996]]"
-date of birth: -0064-12-06T00:00:00Z
-writing language: "[[_Standards/WikiData/WD~Latin,397]]"
-"languages spoken, written or signed": "[[_Standards/WikiData/WD~Latin,397]]"
-instance of: "[[_Standards/WikiData/WD~human,5]]"
-work location: "[[_Standards/WikiData/WD~Rome,220]]"
-place of burial: "[[_Standards/WikiData/WD~Rome,220]]"
-place of death: "[[_Standards/WikiData/WD~Rome,220]]"
-present in work: "[[_Standards/WikiData/WD~The Divine Comedy,40185]]"
-place of birth: "[[_Standards/WikiData/WD~Venosa,52691]]"
-Commons Creator page: Horace
-Royal Academy new identifier: horace
-BHCL UUID: 98d4e85c-d243-49cf-874a-e03064b68181
-Provenio UUID: 7088bccc-b410-415e-a70b-32cb97264640
+different_from: "[[_Standards/WikiData/WD~Horacy,9293797]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Horace,20338778]]"
+nomen_gentilicium: "[[_Standards/WikiData/WD~Horatius,29968376]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+date_of_death: -0007-11-25T00:00:00Z
+attested_in: "[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]"
+date_of_birth: -0064-12-06T00:00:00Z
+writing_language: "[[_Standards/WikiData/WD~Latin,397]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Latin,397]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+work_location: "[[_Standards/WikiData/WD~Rome,220]]"
+place_of_burial: "[[_Standards/WikiData/WD~Rome,220]]"
+place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"
+present_in_work: "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
+place_of_birth: "[[_Standards/WikiData/WD~Venosa,52691]]"
+Commons_Creator_page: Horace
+Royal_Academy_new_identifier: horace
+BHCL_UUID: 98d4e85c-d243-49cf-874a-e03064b68181
+Provenio_UUID: 7088bccc-b410-415e-a70b-32cb97264640
 father: http://www.wikidata.org/.well-known/genid/3ec748328a68e897abcad6335fa8a30d
 mother: http://www.wikidata.org/.well-known/genid/d29443387adb4ea2babd177c58552ca8
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quintus%20Horatius%20Flaccus.jpg
 ISNI: "0000000121452178"
-Europeana entity: agent/base/60033
-Wolfram Language entity code: Entity["Concept", "Horace::5255n"]
-Libris-URI: fcrtvznz06j57nd
-Krugosvet article: kultura_i_obrazovanie/literatura/GORATSI_KVINT_GORATSI_FLAKK.html
-Swedish Open Cultural Heritage URI: LSH/agents/41538
-Commons gallery: Quintus Horatius Flaccus
-Commons category: Quintus Horatius Flaccus
-name in native language: Q. Horatius Flaccus
+Europeana_entity: agent/base/60033
+Wolfram_Language_entity_code: Entity["Concept", "Horace::5255n"]
+Libris_URI: fcrtvznz06j57nd
+Krugosvet_article: kultura_i_obrazovanie/literatura/GORATSI_KVINT_GORATSI_FLAKK.html
+Swedish_Open_Cultural_Heritage_URI: LSH/agents/41538
+Commons_gallery: Quintus Horatius Flaccus
+Commons_category: Quintus Horatius Flaccus
+name_in_native_language: Q. Horatius Flaccus
 ---
 
 #has_/time_/started :: -0064-12-08
