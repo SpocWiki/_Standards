@@ -1093,13 +1093,73 @@ Capital :: [Moskwa](Moskwa)
 
 ## #has_/text_of_/abstract 
 
-> **Russia**, or the Russian Federation, is a country spanning Eastern Europe and North Asia. [[Russia/Litwinenko,Alexander]]y in the world by land area, and extends across eleven time zones; sharing land borders with fourteen countries. Russia is the most populous country in Europe and the ninth-most populous country in the world. It is a highly urbanised country, with sixteen of its urban areas having more than 1 million inhabitants. Moscow, the most populous metropolitan area in Europe, is the capital and largest city of Russia; while Saint Petersburg is the second-largest city and cultural centre.
+> **Russia**, or the Russian Federation, is a country spanning Eastern Europe and North Asia. 
+> [[Russia/Litwinenko,Alexander]]y in the world by land area, and extends across eleven time zones; 
+> sharing land borders with fourteen countries. 
+> Russia is the most populous country in Europe and the ninth-most populous country in the world. 
+> It is a highly urbanised country, with sixteen of its urban areas having more than 1 million inhabitants. 
+> Moscow, the most populous metropolitan area in Europe, is the capital and largest city of Russia; 
+> while Saint Petersburg is the second-largest city and cultural centre.
 >
-> Human settlement on the territory of modern Russia dates back to the Lower Paleolithic. The East Slavs emerged as a recognised group in Europe between the 3rd and 8th centuries CE. The first East Slavic state, Kievan Rus', arose in the 9th century, and in 988, it adopted Orthodox Christianity from the Byzantine Empire. Kievan Rus' ultimately disintegrated; the Grand Duchy of Moscow led the unification of Russian lands, leading to the proclamation of the Tsardom of Russia in 1547. By the early 18th century, Russia had vastly expanded through conquest, annexation, and the efforts of Russian explorers, developing into the Russian Empire, which remains the third-largest empire in history. However, with the Russian Revolution in 1917, Russia's monarchic rule was abolished and eventually replaced by the Russian SFSR—the world's first constitutionally socialist state. Following the Russian Civil War, the Russian SFSR established the Soviet Union with three other Soviet republics, within which it was the largest and principal constituent. The Soviet Union underwent rapid industrialisation in the 1930s, amidst the deaths of millions under Joseph Stalin's rule, and later played a decisive role for the Allies in World War II by leading large-scale efforts on the Eastern Front. With the onset of the Cold War, it competed with the United States for ideological dominance and international influence. The Soviet era of the 20th century saw some of the most significant Russian technological achievements, including the first human-made satellite and the first human expedition into outer space.
+> Human settlement on the territory of modern Russia dates back to the Lower Paleolithic. 
+> The East Slavs emerged as a recognised group in Europe between the 3rd and 8th centuries CE. 
+> The first East Slavic state, Kievan Rus', arose in the 9th century, 
+> and in 988, it adopted Orthodox Christianity from the Byzantine Empire. 
+> 
+> Kievan Rus' ultimately disintegrated; 
+> the Grand Duchy of Moscow led the unification of Russian lands, 
+> leading to the proclamation of the Tsardom of Russia in 1547. 
+> 
+> By the early 18th century, Russia had vastly expanded through conquest, annexation, 
+> and the efforts of Russian explorers, developing into the Russian Empire, 
+> which remains the third-largest empire in history. 
+> 
+> However, with the Russian Revolution in 1917, 
+> Russia's monarchic rule was abolished and eventually replaced by the Russian SFSR—
+> the world's first constitutionally socialist state. 
+> 
+> Following the Russian Civil War, the Russian SFSR established the Soviet Union 
+> with three other Soviet republics, within which it was the largest and principal constituent. 
+> The Soviet Union underwent rapid industrialisation in the 1930s, 
+> amidst the deaths of millions under Joseph Stalin's rule, 
+> and later played a decisive role for the Allies in World War II 
+> by leading large-scale efforts on the Eastern Front. 
+> 
+> With the onset of the Cold War, it competed with the United States 
+> for ideological dominance and international influence. 
+> The Soviet era of the 20th century saw 
+> some of the most significant Russian technological achievements, 
+> including the first human-made satellite and the first human expedition into outer space.
 >
-> In 1991, the Russian SFSR emerged from the dissolution of the Soviet Union as the Russian Federation. A new constitution was adopted, which established a federal semi-presidential system. Since the turn of the century, Russia's political system has been dominated by Vladimir Putin, under whom the country has experienced democratic backsliding and become an authoritarian dictatorship. Russia has been militarily involved in a number of conflicts in former Soviet states and other countries, including its war with Georgia in 2008 and its war with Ukraine since 2014. The latter has involved the internationally unrecognised annexations of Ukrainian territory, including Crimea in 2014 and four other regions in 2022, during an ongoing invasion.
+> In 1991, the Russian SFSR emerged from the dissolution of the Soviet Union 
+> as the Russian Federation. 
+> 
+> A new constitution was adopted, which established a federal semi-presidential system. 
+> Since the turn of the century, Russia's political system has been dominated by Vladimir Putin, 
+> under whom the country has experienced democratic backsliding 
+> and become an authoritarian dictatorship. 
+> 
+> Russia has been militarily involved in a number of conflicts in former Soviet states 
+> and other countries, including its war with Georgia in 2008 and its war with Ukraine since 2014. 
+> The latter has involved the internationally unrecognised annexations of Ukrainian territory, 
+> including Crimea in 2014 and four other regions in 2022, during an ongoing invasion.
 >
-> Russia is generally considered a great power and is a regional power, possessing the largest stockpile of nuclear weapons and having the third-highest military expenditure in the world. It has a high-income economy, which is the eleventh-largest in the world by nominal GDP and fourth-largest by PPP, relying on its vast mineral and energy resources; which rank as the second-largest in the world for oil and natural gas production. However, Russia ranks very low in international measurements of democracy, human rights and freedom of the press, and also has high levels of perceived corruption. It is a permanent member of the United Nations Security Council; a member state of the G20, SCO, BRICS, APEC, OSCE, and WTO; and the leading member state of post-Soviet organisations such as CIS, CSTO, and EAEU. Russia is home to 32 UNESCO World Heritage Sites.
+> Russia is generally considered a great power and is a regional power, 
+> possessing the largest stockpile of nuclear weapons 
+> and having the third-highest military expenditure in the world. 
+> 
+> It has a high-income economy, which is the eleventh-largest in the world by nominal GDP 
+> and fourth-largest by PPP, relying on its vast mineral and energy resources; 
+> which rank as the second-largest in the world for oil and natural gas production. 
+> 
+> However, Russia ranks very low in international measurements of 
+> democracy, human rights and freedom of the press, 
+> and also has high levels of perceived corruption. 
+> 
+> It is a permanent member of the United Nations Security Council; 
+> a member state of the G20, SCO, BRICS, APEC, OSCE, and WTO; 
+> and the leading member state of post-Soviet organisations such as CIS, CSTO, and EAEU. 
+> Russia is home to 32 UNESCO World Heritage Sites.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russia)
 
