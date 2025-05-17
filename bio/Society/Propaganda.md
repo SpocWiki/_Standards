@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7281
 U_S_National_Archives_Identifier: 10641755
 instance_of:
@@ -65,14 +65,27 @@ OmegaWiki_Defined_Meaning: 673352
 
 # [[Propaganda]] 
 
+Part of Propaganda is the creation of Panic, not only Urgency. 
 
 ## #has_/text_of_/abstract 
 
-> **Propaganda** is communication that is primarily used to influence or persuade an audience to further an agenda, which may not be objective and may be selectively presenting facts to encourage a particular synthesis or perception, or using loaded language to produce an emotional rather than a rational response to the information that is being presented. Propaganda can be found in a wide variety of different contexts.
+> **Propaganda** is communication that is primarily used to influence or persuade an audience to further an agenda, 
+> which may not be objective and may be selectively presenting facts to encourage a particular synthesis or perception, 
+> or using loaded language to produce an emotional 
+> rather than a rational response to the information that is being presented. 
+> Propaganda can be found in a wide variety of different contexts.
 >
-> In the 20th century, the English term propaganda was often associated with a manipulative approach, but historically, propaganda had been a neutral descriptive term of any material that promotes certain opinions or ideologies.
+> In the 20th century, the English term propaganda was often associated with a manipulative approach, 
+> but historically, propaganda had been a neutral descriptive term of any material 
+> that promotes certain opinions or ideologies.
 >
-> A wide range of materials and media are used for conveying propaganda messages, which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, bots and algorithms are currently being used to create computational propaganda and fake or biased news and spread it on social media.
+> A wide range of materials and media are used for conveying propaganda messages, 
+> which changed as new technologies were invented, 
+> including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. 
+> 
+> More recently, the digital age has given rise to new ways of disseminating propaganda, 
+> for example, bots and algorithms are currently being used to create computational propaganda 
+> and [[../../../Life/Politics/Fake_News|fake news]] or biased news and spread it on social media.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Propaganda)
 
