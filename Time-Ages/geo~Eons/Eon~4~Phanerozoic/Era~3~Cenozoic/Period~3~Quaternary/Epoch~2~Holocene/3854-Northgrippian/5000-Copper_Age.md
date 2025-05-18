@@ -1,6 +1,7 @@
 ---
 has_id_wikidata: Q130253
 aliases:
+  - Chalcolithic
   - Copper Age
   - Eneolithic
 described_by_source:
@@ -22,11 +23,12 @@ named_after:
 Commons_category: Copper Age
 ---
 
+# [[Copper-Age]] 
 
-# [[5000-Chalcolithic]]
+#is_a_/time_/Culture 
 
-#has_/time_/started :: -5000
-#has_/time_/stopped  :: -3300
+#has_/time_/started :: -5000 
+#has_/time_/stopped :: -3300 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
@@ -38,8 +40,9 @@ Commons_category: Copper Age
 > was an archaeological period characterized by the increasing use of smelted copper. 
 > It followed the Neolithic and preceded the Bronze Age. 
 > 
-> It occurred at different periods in different areas, but was absent in some  parts of the world, 
-> such as Russia, where there was no well-defined Copper Age between the Stone and Bronze Ages. 
+> It occurred at different periods in different areas, 
+> but was absent in some  parts of the world, such as Russia, 
+> where there was no well-defined Copper Age between the Stone and Bronze Ages. 
 > Stone tools were still predominantly used during this period.
 >
 > The Chalcolithic covers both the early cold working (hammering) of near pure copper ores, 
@@ -65,7 +68,38 @@ Commons_category: Copper Age
 > 
 > In Britain, the Chalcolithic is a short period between about 2,500 and 2,200 BC, 
 > characterized by the first appearance of objects of copper and gold, a new ceramic culture 
-> and the immigration of [[../7750-Meghalayan/Ancient_History/7550 -Beaker_Culture]] people, heralding the end of the local late Neolithic.
+> and the immigration of [[../../../geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Ancient_History/7550 -Beaker_Culture]] people, heralding the end of the local late Neolithic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chalcolithic) 
 
+
+
+## Edit
+
+## All Contents
+
+```folderv
+```
+
+```ccard
+type: folder_brief_live
+style : card
+col: 2
+briefMax: 128
+noteOnly: true
+```
+
+
+## Confidential Links & Embeds: 
+
+### [Copper-Age](/_public/Time-Ages/human-ages/Copper-Age.md) 
+
+### [Copper-Age.internal](/_internal/Time-Ages/human-ages/Copper-Age.internal.md) 
+
+### [Copper-Age.protect](/_protect/Time-Ages/human-ages/Copper-Age.protect.md) 
+
+### [Copper-Age.private](/_private/Time-Ages/human-ages/Copper-Age.private.md) 
+
+### [Copper-Age.personal](/_personal/Time-Ages/human-ages/Copper-Age.personal.md) 
+
+### [Copper-Age.secret](/_secret/Time-Ages/human-ages/Copper-Age.secret.md) 

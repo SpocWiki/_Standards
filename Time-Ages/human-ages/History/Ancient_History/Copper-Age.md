@@ -1,8 +1,26 @@
 ---
+has_id_wikidata: Q130253
 aliases:
   - Chalcolithic
   - Copper Age
   - Eneolithic
+described_by_source:
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+has_part_s_: "[[_Standards/WikiData/WD~Early_Chalcolithic,108064585]]"
+start_time: -7500 
+has_time_started: -7500
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Marcilly-le-Hayer%20Dolmen%20des%20Blancs%20Foss%C3%A9s.jpg
+EAGLE_id: dates/lod/12
+end_time:
+  - -2499
+  - -5500
+named_after:
+  - "[[_Standards/WikiData/WD~copper,753]]"
+  - "[[_Standards/WikiData/WD~stone,22731]]"
+Commons_category: Copper Age
 ---
 
 # [[Copper-Age]] 
@@ -21,6 +39,7 @@ aliases:
 > The **Chalcolithic** ( KAL-kə-LI-thik) (also called the Copper Age and Eneolithic) 
 > was an archaeological period characterized by the increasing use of smelted copper. 
 > It followed the Neolithic and preceded the Bronze Age. 
+> 
 > It occurred at different periods in different areas, 
 > but was absent in some  parts of the world, such as Russia, 
 > where there was no well-defined Copper Age between the Stone and Bronze Ages. 
@@ -40,9 +59,9 @@ aliases:
 > beginning in the late 5th millennium BC 
 > and lasting for about a millennium before it gave rise to the Early Bronze Age.
 >
-> A study in the journal Antiquity from 2013 reporting the discovery of a tin bronze foil 
-> from the Pločnik archaeological site dated to c. 4,650 BC, 
-> as well as 14 other artefacts from Bulgaria and Serbia dated to before 4,000 BC, 
+> A study in the journal Antiquity from 2013 reporting the discovery of 
+> a tin bronze foil from the Pločnik archaeological site dated to c. 4,650 BC, as well as 
+> 14 other artefacts from Bulgaria and Serbia dated to before 4,000 BC, 
 > showed that early tin bronze was more common than previously thought 
 > and developed independently in Europe 
 > 1,500 years before the first tin bronze alloys in the Near East. 
