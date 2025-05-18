@@ -65,7 +65,7 @@ topic_s_main_template:
 
 > The **Han Dynasty** was an imperial dynasty of China (202 BC – 9 AD, 25–220 AD) 
 > established by Liu Bang and ruled by the House of Liu. 
-> 
+>
 > The dynasty was preceded by the short-lived Qin dynasty (221–206 BC) 
 > and a warring interregnum known as the Chu–Han Contention (206–202 BC), 
 > and it was succeeded by the Three Kingdoms period (220–280 AD). 
@@ -101,7 +101,7 @@ topic_s_main_template:
 > The Han dynasty oversaw periods of economic prosperity 
 > as well as significant growth in the money economy 
 > that had first been established during the Zhou dynasty (c. 1050 – 256 BC). 
-> 
+>
 > The coinage minted by the central government in 119 BC 
 > remained the standard in China until the Tang dynasty (618–907 AD). 
 > 

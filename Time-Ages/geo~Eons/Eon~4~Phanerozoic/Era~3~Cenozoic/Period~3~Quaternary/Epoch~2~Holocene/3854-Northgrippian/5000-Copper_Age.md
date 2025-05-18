@@ -68,7 +68,7 @@ Commons_category: Copper Age
 > 
 > In Britain, the Chalcolithic is a short period between about 2,500 and 2,200 BC, 
 > characterized by the first appearance of objects of copper and gold, a new ceramic culture 
-> and the immigration of [[../../../geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Ancient_History/7550 -Beaker_Culture]] people, heralding the end of the local late Neolithic.
+> and the immigration of [[Beaker_Culture]] people, heralding the end of the local late Neolithic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chalcolithic) 
 

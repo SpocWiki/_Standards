@@ -17,6 +17,7 @@ sRGB color hex triplet: FDEDEC
 #is_a_/time_/Age 
 
 A time period from 4_200 thousand years ago to the present or the Modern History starting at 1492. 
+This is starting at 7750 HE (Human Era 10_000BC)
 
 #has_/abbreviation :: q7
 
