@@ -49,6 +49,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~racial_segregation,59816]]"
 U_S_National_Archives_Identifier: 10640722
 UMLS_CUI: C0680431
+has_time_started: 1948-01-01T00:00:00Z 
 ---
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
