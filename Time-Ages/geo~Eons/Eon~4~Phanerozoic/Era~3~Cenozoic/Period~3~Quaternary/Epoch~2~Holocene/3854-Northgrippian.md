@@ -1,4 +1,4 @@
-# [[Age~2~Northgrippian]]
+# [[3854-Northgrippian]]
 
 #is_a_/time_/Age 
 
@@ -16,7 +16,7 @@ A time period from 8_200 to 4_200 thousand years ago.
 
 #has_/text_of_/color :: 0xFDECE4
 
-#has_/prev_item :: [[Age~1~Greenlandian]]   
+#has_/prev_item :: [[0000-Greenlandian]]   
 #has_/next_item :: [[Age~3~Meghalayan]]   
 
 ## #has_/text_of_/abstract 

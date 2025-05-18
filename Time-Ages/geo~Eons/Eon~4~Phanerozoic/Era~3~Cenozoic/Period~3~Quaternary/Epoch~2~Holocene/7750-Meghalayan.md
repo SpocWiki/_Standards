@@ -19,7 +19,7 @@ A time period from 4_200 thousand years ago to the present.
 #has_/text_of_/color :: 0xFDEDEC
 
 
-#has_/prev_item :: [[Age~2~Northgrippian]] 
+#has_/prev_item :: [[3854-Northgrippian]] 
 #has_/next_item :: [[../Epoch~3~Anthropocene]]   
 
 

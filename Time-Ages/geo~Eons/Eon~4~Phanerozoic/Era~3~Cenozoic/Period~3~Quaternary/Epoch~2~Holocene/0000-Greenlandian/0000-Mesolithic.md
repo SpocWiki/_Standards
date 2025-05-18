@@ -50,7 +50,7 @@ aliases:
 > offering a good supply of food. 
 > 
 > Mesolithic societies are not seen as very complex, and burials are fairly simple; 
-> in contrast, grandiose burial mounds are a mark of the [[../Age~2~Northgrippian/2000-Neolithic]].
+> in contrast, grandiose burial mounds are a mark of the [[../3854-Northgrippian/2000-Neolithic]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesolithic)
 

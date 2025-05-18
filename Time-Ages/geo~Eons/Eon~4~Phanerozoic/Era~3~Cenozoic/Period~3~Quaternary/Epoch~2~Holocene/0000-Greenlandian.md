@@ -1,4 +1,4 @@
-# [[Age~1~Greenlandian]] 
+# [[0000-Greenlandian]] 
 
 #is_a_/time_/Age 
 
@@ -16,7 +16,7 @@ A time period from 11_700 to 8_200 thousand years ago.
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
 
 #has_/prev_item :: [[../Epoch~1~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]   
-#has_/next_item :: [[Age~2~Northgrippian]]   
+#has_/next_item :: [[3854-Northgrippian]]   
 
 ## #has_/text_of_/abstract 
 
