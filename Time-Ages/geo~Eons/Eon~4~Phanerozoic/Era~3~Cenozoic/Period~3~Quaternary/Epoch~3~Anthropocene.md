@@ -3,7 +3,7 @@ aliases:
   - Anthropozän
 ---
 
-#has_/time_/started :: 1492  
+#has_/time_/started :: 1492
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().getFullYear()) - dv.current().has_time_started))` 
 #has_/duration_ :: `=default(this.has_time_stopped, number(dateformat(date(now), "y"))) - this.has_time_started` 

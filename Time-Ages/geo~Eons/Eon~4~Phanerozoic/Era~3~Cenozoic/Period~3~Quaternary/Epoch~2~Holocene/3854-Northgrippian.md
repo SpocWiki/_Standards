@@ -1,3 +1,17 @@
+---
+has_id_wikidata: Q55602572
+instance of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named after: "[[_Standards/WikiData/WD~North Greenland Ice Core Project,9063437]]"
+part of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+type locality (geology): "[[_Standards/WikiData/WD~GSSP for the base of the Northgrippian,133697724]]" 
+end time: -2250-06 
+start time: -6236-06 
+coordinate location: Point(-42.32 75.1) 
+sRGB color hex triplet: FDECE4 
+Commons category: Northgrippian 
+---
 # [[3854-Northgrippian]]
 
 #is_a_/time_/Age 

@@ -1,3 +1,17 @@
+---
+has_id_wikidata: Q55590012 
+instance of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+type locality (geology): "[[_Standards/WikiData/WD~GSSP for the base of the Greenlandian,1487065]]"
+named after: "[[_Standards/WikiData/WD~Greenland,4148644]]"
+part of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+start time: -9700-01-01T00:00:00Z 
+end time: -6236-01-01T00:00:00Z 
+coordinate location: Point(-42.32 75.1) 
+sRGB color hex triplet: FEECDB 
+Commons category: Greenlandian 
+---
 # [[0000-Greenlandian]] 
 
 #is_a_/time_/Age 
@@ -21,7 +35,14 @@ A time period from 11_700 to 8_200 thousand years ago.
 ## #has_/text_of_/abstract 
 
 
-> In the geologic time scale, the **Greenlandian** is the earliest age or lowest stage of the Holocene Epoch or Series, part of the Quaternary. Beginning in 11,650 BP (9701 BCE or 300 HE) and ending with the 8.2-kiloyear event (c. 8200–8300 BP, 6200–6300 BCE, 3600–3700 HE), it is the earliest of three sub-divisions of the Holocene. It was officially ratified by the International Commission on Stratigraphy in June 2018 with the later Northgrippian and Meghalayan Ages/Stages. The lower boundary of the Greenlandian Age is the GSSP sample from the North Greenland Ice Core Project in central Greenland (75.1000°N 42.3200°W). The Greenlandian GSSP has been correlated with the end of Younger Dryas (from near-glacial to interglacial) and a "shift in deuterium excess values".
+> In the geologic time scale, the **Greenlandian** is the earliest age or lowest stage of the Holocene Epoch, 
+> part of the Quaternary. 
+> 
+> Beginning in 11,650 BP (9701 BCE or 300 HE) 
+> and ending with the 8.2-kiloyear event (c. 8200–8300 BP, 6200–6300 BCE, 3600–3700 HE), 
+> it is the earliest of three sub-divisions of the Holocene. 
+> 
+> It was officially ratified by the International Commission on Stratigraphy in June 2018 with the later Northgrippian and Meghalayan Ages/Stages. The lower boundary of the Greenlandian Age is the GSSP sample from the North Greenland Ice Core Project in central Greenland (75.1000°N 42.3200°W). The Greenlandian GSSP has been correlated with the end of Younger Dryas (from near-glacial to interglacial) and a "shift in deuterium excess values".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greenlandian)
 

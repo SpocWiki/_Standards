@@ -1,9 +1,22 @@
+---
+has_id_wikidata: Q55594589
+instance of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+type locality (geology): "[[_Standards/WikiData/WD~GSSP for the base of the Meghalayan,133676723]]"
+different from: "[[_Standards/WikiData/WD~Meghalaya,1195]]"
+named after: "[[_Standards/WikiData/WD~Meghalaya,1195]]"
+start time: -2250-06
+coordinate location: Point(91.715 25.262222222)
+Commons category: Meghalayan
+sRGB color hex triplet: FDEDEC
+---
+
 # [[Age~3~Meghalayan]] 
 
 #is_a_/time_/Age 
 
-A time period from 4_200 thousand years ago to the present. 
-
+A time period from 4_200 thousand years ago to the present or the Modern History starting at 1492. 
 
 #has_/abbreviation :: q7
 
@@ -18,7 +31,6 @@ A time period from 4_200 thousand years ago to the present.
 
 #has_/text_of_/color :: 0xFDEDEC
 
-
 #has_/prev_item :: [[3854-Northgrippian]] 
 #has_/next_item :: [[../Epoch~3~Anthropocene]]   
 
@@ -28,6 +40,14 @@ A time period from 4_200 thousand years ago to the present.
 > The **Meghalayan** age is the name given in 2018, by the International Commission on Stratigraphy, 
 > to the current age or latest geologic age – or uppermost stage of the Quaternary. 
 > 
+> The age began with a __200-year drought__ 
+> that impacted human civilizations in the Eastern Mediterranean, Mesopotamia, the Indus Valley 
+> and the Yangtze River Valley. 
+> 
+> "The fact that the beginning of this age coincides with a cultural shift 
+> caused by a global climate event makes it unique," 
+> according to Stanley Finney, Secretary General of the International Union of Geological Sciences.
+>
 > It is also the upper, or latest, of three subdivisions of the Holocene epoch or series. 
 > This way of breaking down time is based only on geology; 
 > for example, it is unrelated to the three-age system of historical periods 
@@ -37,14 +57,7 @@ A time period from 4_200 thousand years ago to the present.
 > leaving room for the possible introduction of the Anthropocene. 
 > 
 > Helama & Oinonen (2019) dated the start of the Meghalayan to 2190-1990 BCE. 
-> The age began with a __200-year drought__ 
-> that impacted human civilizations in the Eastern Mediterranean, Mesopotamia, the Indus Valley 
-> and the Yangtze River Valley. 
 > 
-> "The fact that the beginning of this age coincides with a cultural shift 
-> caused by a global climate event makes it unique," 
-> according to Stanley Finney, Secretary General of the International Union of Geological Sciences.
->
 > [Wikipedia](https://en.wikipedia.org/wiki/Meghalayan)
 
 
