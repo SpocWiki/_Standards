@@ -64,7 +64,6 @@ end_time: 1648-10-24
 > The 1555 Peace of Augsburg attempted to resolve this 
 > by dividing the Empire into Catholic and Lutheran states, 
 > but over the next 50 years the expansion of Protestantism beyond these boundaries destabilised the settlement. 
-<<<<<<<< HEAD:Time-Ages/human-ages/History/Early_modern_History/Thirty_Years'_War.md
 >
 > However, while differences over religion and Imperial authority 
 > were important factors in causing the war, some contemporary commentators suggest 
@@ -82,25 +81,6 @@ end_time: 1648-10-24
 > Combined with fears the Protestant religion in general was threatened, 
 > what started as an internal dynastic dispute became a European conflict.
 >
-========
-> 
-> However, while differences over religion and Imperial authority 
-> were important factors in causing the war, some contemporary commentators suggest 
-> its scope and extent were driven by the contest for European dominance 
-> between Habsburg-ruled Spain and Austria, and the French House of Bourbon.
->
-> Its outbreak is generally traced to 1618, when Emperor Ferdinand II was deposed as king of Bohemia 
-> and replaced by the Protestant Frederick V of the Palatinate. 
-> Although Imperial forces quickly suppressed the Bohemian Revolt, 
-> Frederick's participation expanded the fighting into the Palatinate, 
-> whose strategic importance drew in the Dutch Republic and Spain, then engaged in the Eighty Years' War. 
-> 
-> In addition, the acquisition of territories within the empire by rulers like Christian IV of Denmark 
-> and Gustavus Adolphus of Sweden gave them and other foreign powers an ongoing motive to intervene. 
-> Combined with fears the Protestant religion in general was threatened, 
-> what started as an internal dynastic dispute became a European conflict.
->
->>>>>>>> a9bc75e3c (auto-commit):Time-Ages/human-ages/History/Modern_History/Early_modern_History/Thirty_Years'_War.md
 > The period from 1618 to 1635 was primarily a civil war within the Holy Roman Empire, 
 > with support from external powers. 
 > 

@@ -1,7 +1,7 @@
 ---
+has_id_wikidata: Q12539
 aliases:
   - Age of Enlightenment
-has_id_wikidata: Q12539
 ---
 
 
