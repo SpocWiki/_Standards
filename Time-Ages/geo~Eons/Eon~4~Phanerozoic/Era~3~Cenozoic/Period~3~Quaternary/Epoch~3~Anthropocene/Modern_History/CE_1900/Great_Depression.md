@@ -57,7 +57,7 @@ U_S_National_Archives_Identifier: 12222222
 #has_/time_/stopped :: 1939-06 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 #is_/different_from :: [[Great_Recession]] 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Great_Depression,8698]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Depression,8698]]
 
 
 ## #has_/text_of_/abstract 

@@ -4,6 +4,12 @@ aliases:
   - Age of Enlightenment
 ---
 
+#has_/time_/started :: 1
+#has_/time_/stopped ::  `=this.has_time_stopped`
+
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+
 
 ## #has_/text_of_/abstract 
 

@@ -50,7 +50,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Cold_War,27627838]]"
 #has_/previous_item :: [[World_War_II]] 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Cold_War,8683]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Cold_War,8683]]
 
 ## #has_/text_of_/abstract 
 
