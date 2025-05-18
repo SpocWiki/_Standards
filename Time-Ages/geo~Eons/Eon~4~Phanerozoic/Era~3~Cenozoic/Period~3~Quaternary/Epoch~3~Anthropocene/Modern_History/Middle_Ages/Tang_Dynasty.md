@@ -71,7 +71,7 @@ has_time_started: 0618-06
 topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'
 ---
 
-# [[../../../Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0289-Tang_Dynasty]] 
+# [[0289-Tang_Dynasty]] 
 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
@@ -80,9 +80,24 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'
 
 ## #has_/text_of_/abstract 
 
-> The **Tang Dynasty** (, [tʰǎŋ]; Chinese: 唐朝), or the Tang Empire, was an imperial dynasty of China that ruled from 618 to 907, with an interregnum between 690 and 705. It was preceded by the Sui dynasty and followed by the Five Dynasties and Ten Kingdoms period. Historians generally regard the Tang as a high point in Chinese civilisation, and a golden age of cosmopolitan culture. Tang territory, acquired through the military campaigns of its early rulers, rivalled that of the Han dynasty.
+> The **Tang Dynasty** (, [tʰǎŋ]; Chinese: 唐朝), or the Tang Empire, was an imperial dynasty of China 
+> that ruled from 618 to 907 CE, with an interregnum between 690 and 705. 
 >
-> The Li family founded the dynasty after taking advantage of a period of Sui decline and precipitating their final collapse, in turn inaugurating a period of progress and stability in the first half of the dynasty's rule. The dynasty was formally interrupted during 690–705 when Empress Wu Zetian seized the throne, proclaiming the Wu Zhou dynasty and becoming the only legitimate Chinese empress regnant. The An Lushan rebellion (755–763) led to devastation and the decline of central authority during the latter half of the dynasty. Like the previous Sui dynasty, the Tang maintained a civil-service system by recruiting scholar-officials through standardised examinations and recommendations to office. The rise of regional military governors known as jiedushi during the 9th century undermined this civil order. The dynasty and central government went into decline by the latter half of the 9th century; agrarian rebellions resulted in mass population loss and displacement, widespread poverty, and further government dysfunction that ultimately ended the dynasty in 907.
+> It was preceded by the Sui dynasty and followed by the Five Dynasties and Ten Kingdoms period. 
+> Historians generally regard the Tang as a high point in Chinese civilisation, 
+> and a golden age of cosmopolitan culture. 
+> Tang territory, acquired through the military campaigns of its early rulers, rivalled that of the Han dynasty.
+>
+> The Li family founded the dynasty after taking advantage of a 
+> period of Sui decline and precipitating their final collapse, 
+> in turn inaugurating a period of progress and stability in the first half of the dynasty's rule. 
+> 
+> The dynasty was formally interrupted during 690–705 when Empress Wu Zetian seized the throne, 
+> proclaiming the Wu Zhou dynasty and becoming the only legitimate Chinese empress regnant. 
+> 
+> The An Lushan rebellion (755–763) led to devastation 
+> and the decline of central authority during the latter half of the dynasty. 
+> Like the previous Sui dynasty, the Tang maintained a civil-service system by recruiting scholar-officials through standardised examinations and recommendations to office. The rise of regional military governors known as jiedushi during the 9th century undermined this civil order. The dynasty and central government went into decline by the latter half of the 9th century; agrarian rebellions resulted in mass population loss and displacement, widespread poverty, and further government dysfunction that ultimately ended the dynasty in 907.
 >
 > The Tang capital at Chang'an (present-day Xi'an) was the world's most populous city for much of the dynasty's existence. Two censuses of the 7th and 8th centuries estimated the empire's population at about 50 million people, which grew to an estimated 80 million by the dynasty's end. From its numerous subjects, the dynasty raised professional and conscripted armies of hundreds of thousands of troops to contend with nomadic powers for control of Inner Asia and the lucrative trade-routes along the Silk Road. Far-flung kingdoms and states paid tribute to the Tang court, while the Tang also indirectly controlled several regions through a protectorate system. In addition to its political hegemony, the Tang exerted a powerful cultural influence over neighbouring East Asian nations such as Japan and Korea.
 >
