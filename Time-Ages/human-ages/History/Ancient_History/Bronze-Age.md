@@ -79,7 +79,7 @@ subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
 > 
 > It was sudden, violent, and culturally disruptive for many Bronze Age civilizations, 
 > and it brought a sharp economic decline to regional powers, notably ushering in the Greek Dark Ages.
-> 
+>
 > Bronze Age cultures were the first to develop writing. 
 > According to archaeological evidence, cultures 
 > - in Mesopotamia, which used cuneiform script, 
@@ -98,7 +98,7 @@ subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
 > with ordinary farmers largely still using stone tools.  
 > 
 > However, this is hard to assess as the rarity of bronze meant it was __keenly recycled__.
->
+> 
 > [Wikipedia](https://en.wikipedia.org/wiki/Bronze%20Age) 
 
 
