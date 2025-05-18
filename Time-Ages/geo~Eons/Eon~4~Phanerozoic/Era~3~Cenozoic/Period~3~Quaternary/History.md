@@ -61,9 +61,9 @@ U_S_National_Archives_Identifier: 10638122
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_history,7112655]]"
 ---
 
-#is_/part_of :: [[../../bio/Society|Society]] 
+#is_/part_of :: [[../../../../../bio/Society|Society]] 
 
-History commonly starts with the [[../geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene|Human Era]]. 
+History commonly starts with the [[Epoch~2~Holocene|Human Era]]. 
 
 
 ## #has_/text_of_/abstract 

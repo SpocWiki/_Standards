@@ -43,7 +43,7 @@ Krugosvet_article: gumanitarnye_nauki/sociologiya/OBSHCHESTVO.html
 IPTC_NewsCode: mediatopic/14000000
 ---
 
-#see  [[../Time-Ages/human-ages/History|History]] 
+#see [[../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History|History]]] 
 
 Pre-historic human Societies were hunters and gatherers, 
 usually living in Clans or larger Families. 

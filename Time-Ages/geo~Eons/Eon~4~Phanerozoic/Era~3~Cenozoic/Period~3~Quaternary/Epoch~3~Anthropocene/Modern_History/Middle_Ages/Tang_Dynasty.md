@@ -71,7 +71,7 @@ has_time_started: 0618-06
 topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'
 ---
 
-# [[0289-Tang_Dynasty]] 
+# [[../../../Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0289-Tang_Dynasty]] 
 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

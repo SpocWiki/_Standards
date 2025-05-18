@@ -100,7 +100,7 @@ excalidraw-autoexport: svg
 > 
 > Although there were substantial changes in society and political structures, 
 > the break with classical antiquity was incomplete. 
-> The still-sizeable [[Late_Antiquity/0395-Byzantine_Empire|Byzantine Empire]], Rome's direct continuation, survived in the Eastern Mediterranean 
+> The still-sizeable [[Late_Antiquity/CE_0300/0395-Byzantine_Empire|Byzantine Empire]], Rome's direct continuation, survived in the Eastern Mediterranean 
 > and remained a major power. The empire's law code, the Corpus Juris Civilis or "Code of Justinian", 
 > was rediscovered in Northern Italy in the 11th century. 
 > In the West, most kingdoms incorporated the few extant Roman institutions. 
